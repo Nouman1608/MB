@@ -125,6 +125,17 @@ D. Comparing helping behaviour in a staged street event at two locations
 - *Paradigms* (Kuhn): psychology may be "pre-paradigmatic" because it has several competing approaches rather than one agreed paradigm.
 - Discussion of whether psychology is a science overall, with balance.
 
+## Frequently asked questions
+
+**Where is research methods assessed?**
+Mainly on Paper 2, Psychology in Context, where it has a 48-mark section, but research methods questions can appear on any A-level paper.
+
+**Do I need to calculate inferential statistics?**
+Only the sign test is calculated; for other tests you need to choose the right one, use critical value tables and interpret the result.
+
+**Is a calculator allowed?**
+Yes. At least 10% of the marks across the A-level assess mathematical skills, so show working for every calculation.
+
 ## Where marks are usually lost
 
 - Hypotheses that are not operationalised, or that state the aim instead of a prediction.

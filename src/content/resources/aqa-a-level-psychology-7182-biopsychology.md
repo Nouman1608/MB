@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-psychology-in-context-7182"
     subtopic: "biopsychology-7182"
-description: "Study guide to AQA A-level Psychology 7182 Biopsychology: nervous and endocrine systems, synapses, localisation, plasticity, brain scanning and biological rhythms."
+description: "Guide to AQA A-level Psychology 7182 Biopsychology: nervous and endocrine systems, synapses, fight or flight, localisation, split brains, plasticity and brain scans."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -26,7 +26,7 @@ publishedDate: 2026-11-08
 featured: false
 ---
 
-**Biopsychology is the study of how the nervous system, hormones and brain structures relate to behaviour.** In AQA A-level Psychology (7182) it is compulsory content examined on Paper 2: Psychology in Context. You need to describe the nervous and endocrine systems, neurons and synaptic transmission, the fight-or-flight response, localisation and lateralisation of function, plasticity, ways of studying the brain and biological rhythms, and to evaluate the research behind them.
+**Biopsychology is the study of how the nervous system, hormones and brain structures relate to behaviour.** In AQA A-level Psychology (7182) it is compulsory content examined on Paper 2: Psychology in Context. You need to describe the nervous and endocrine systems, neurons and synaptic transmission, the fight-or-flight response, localisation and lateralisation of function, split-brain research, plasticity and ways of studying the brain, and to evaluate the research behind them. Biological rhythms, part of earlier editions of the specification, are not in section 4.2.2 of Version 1.4.
 
 This guide follows the AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), for teaching from September 2025. Biopsychology is section 4.2.2 of the specification and topic 6 in the A-level subject content. Use it with the [Biopsychology revision notes](/resources/aqa-a-level-psychology-7182-biopsychology-revision-notes/) and [Biopsychology practice questions](/resources/aqa-a-level-psychology-7182-biopsychology-practice/). The other Paper 2 topics are covered in the [Approaches in Psychology guide](/resources/a-level-aqa-psychology-approaches-in-psychology/) and the [Research methods guide](/resources/aqa-a-level-psychology-7182-research-methods/).
 
@@ -45,7 +45,6 @@ Paper 2: Psychology in Context assesses compulsory content 5 to 7 (Approaches in
 | Localisation and lateralisation | Motor, somatosensory, visual, auditory and language centres; Broca's and Wernicke's areas; split-brain research |
 | Plasticity and functional recovery | How the brain changes and recovers after trauma |
 | Ways of studying the brain | fMRI; EEG and event-related potentials (ERPs); post-mortem examinations |
-| Biological rhythms | Circadian, infradian and ultradian; endogenous pacemakers and exogenous zeitgebers and the sleep/wake cycle |
 
 ## 1. How is the nervous system organised?
 
@@ -104,9 +103,11 @@ Evaluation: the response was adaptive for our ancestors facing physical threats,
 | ERPs | EEG responses averaged over many trials to isolate the response to a specific stimulus | Excellent temporal resolution; links activity to a specific event | Background noise must be removed; standardisation varies between studies |
 | Post-mortem examination | The brain is studied after death, often comparing with behaviour in life | Allows detailed study of deep structures; led to early discoveries (Broca's Tan) | Damage may be caused by other factors, such as age or illness; consent issues |
 
-## 8. What are biological rhythms?
+## 8. Are biological rhythms still on the specification?
 
-A **circadian rhythm** lasts about 24 hours, such as the sleep/wake cycle and core body temperature. Siffre spent long periods in caves without daylight or clocks; his sleep/wake cycle stayed rhythmic but lengthened to a little over 24 hours, suggesting an internal clock that is normally reset by light. Aschoff and Wever (1976) found similar results with participants living in a bunker.
+No. Earlier editions of the AQA specification included biological rhythms, but section 4.2.2 of Version 1.4 (1 September 2025) does not, so no question will be set on them. Many textbooks still have a rhythms chapter; the summary below is background only, useful as evidence about the SCN and the pineal gland in endocrine or localisation answers.
+
+*Background, not specification content since Version 1.4:* a **circadian rhythm** lasts about 24 hours, such as the sleep/wake cycle and core body temperature. Siffre spent long periods in caves without daylight or clocks; his sleep/wake cycle stayed rhythmic but lengthened to a little over 24 hours, suggesting an internal clock that is normally reset by light. Aschoff and Wever (1976) found similar results with participants living in a bunker.
 
 An **infradian rhythm** lasts longer than 24 hours, such as the menstrual cycle (about 28 days). Stern and McClintock (1998) found that women's menstrual cycles changed when they were exposed to underarm compounds from other women, suggesting pheromones can synchronise cycles. Seasonal affective disorder is another infradian (annual) rhythm.
 
@@ -124,7 +125,7 @@ Evaluation: much rhythm research uses animals or very small samples (Siffre was 
 - Saying neurotransmitters travel "along" the axon; they cross the synapse.
 - Mixing up Broca's area (production) and Wernicke's area (comprehension).
 - Reversing split-brain findings: the left hemisphere (right visual field) can name objects.
-- Calling the menstrual cycle circadian; it is infradian.
+- Revising biological rhythms as if they were examinable; Version 1.4 removed them.
 - Describing fMRI as recording electrical activity; that is EEG.
 
 ## Frequently asked questions
@@ -135,11 +136,11 @@ Both are branches of the autonomic nervous system. The sympathetic branch prepar
 **Is localisation of function proven?**
 Strong evidence supports localisation of basic functions such as motor control and language, but higher functions such as memory appear more distributed, and plasticity shows functions can move after damage.
 
-**What are the three types of biological rhythm on the AQA specification?**
-Circadian (about 24 hours, such as sleep/wake), infradian (longer than 24 hours, such as the menstrual cycle) and ultradian (shorter than 24 hours, such as sleep stages).
+**Are biological rhythms on the AQA specification?**
+Not in Version 1.4 (1 September 2025). Section 4.2.2 lists the nervous and endocrine systems, neurons and synaptic transmission, fight or flight, ways of studying the brain, localisation, lateralisation, split-brain research, plasticity and functional recovery.
 
-**How does the SCN know whether it is day or night?**
-It receives signals about light from the retina via the optic chiasm. It uses this to regulate the pineal gland's release of melatonin.
+**Which glands should I know for the endocrine system?**
+The specification says only "glands and hormones", so learn a few well: the pituitary (controlled by the hypothalamus), the adrenal glands (adrenaline from the medulla, cortisol from the cortex), the thyroid (thyroxine) and the pineal gland (melatonin).
 
 ## Where to go next
 

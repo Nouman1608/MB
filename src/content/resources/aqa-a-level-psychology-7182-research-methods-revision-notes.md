@@ -132,6 +132,17 @@ Ten students rated their mood before and after a mindfulness session. Eight impr
 - **Coding vs thematic analysis**: produces numbers vs keeps qualitative themes.
 - **Type I vs Type II error**: false positive (too lenient) vs false negative (too strict).
 
+## Frequently asked questions
+
+**How many marks is research methods worth?**
+It is Section C of Paper 2, worth 48 of the paper's 96 marks, and it can be assessed in other papers too.
+
+**Which inferential test do I calculate by hand?**
+The sign test. For the others, choose the test from the level of data, the design and whether you are testing a difference or a correlation, then compare the result with a critical value.
+
+**What is the difference between a type I and a type II error?**
+A type I error rejects a true null hypothesis (a false positive, more likely with a lenient significance level); a type II error accepts a false null hypothesis (a false negative, more likely with a strict level).
+
 ## Quick self-test
 
 1. Which design uses counterbalancing?

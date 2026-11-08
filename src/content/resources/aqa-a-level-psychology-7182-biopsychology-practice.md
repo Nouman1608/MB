@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-psychology-in-context-7182"
     subtopic: "biopsychology-7182"
-description: "Original practice questions with marked answers on AQA A-level Psychology 7182 Biopsychology, from neurons and adrenaline to split brains and the SCN."
+description: "Original practice questions with marked answers on AQA A-level Psychology 7182 Biopsychology, from neurons and adrenaline to split brains and the endocrine system."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -45,12 +45,12 @@ B. Sensory neuron
 C. Motor neuron
 D. Sensory receptor
 
-**2.** Which **one** of the following is an infradian rhythm? **[1]**
+**2.** Which **one** of the following ways of studying the brain has the best spatial resolution in a living person? **[1]**
 
-A. The sleep/wake cycle
-B. The menstrual cycle
-C. The stages of sleep
-D. Core body temperature over a day
+A. Electroencephalogram (EEG)
+B. Event-related potentials (ERPs)
+C. Functional magnetic resonance imaging (fMRI)
+D. Post-mortem examination
 
 **3.** Outline the process of synaptic transmission. **[4]**
 
@@ -85,7 +85,7 @@ Identify the brain area most likely to have been damaged and explain your answer
 
 **(b)** Explain what these results suggest about hemispheric lateralisation. **[3]**
 
-**9.** Explain the role of endogenous pacemakers and exogenous zeitgebers in the sleep/wake cycle. **[6]**
+**9.** Describe the function of the endocrine system, with reference to **two** glands and the hormones they release. **[6]**
 
 **10.** Discuss plasticity and functional recovery of the brain after trauma. **[16]**
 
@@ -93,7 +93,7 @@ Identify the brain area most likely to have been damaged and explain your answer
 
 **1.** C. Motor neuron.
 
-**2.** B. The menstrual cycle (about 28 days, longer than 24 hours).
+**2.** C. fMRI, which locates activity to within a few millimetres. EEG and ERPs have poor spatial resolution, and a post-mortem cannot be carried out on a living person.
 
 **3.** Up to 4 marks, one per accurate step. The action potential reaches the presynaptic terminal (1). Synaptic vesicles release neurotransmitter into the synaptic cleft (1). The neurotransmitter diffuses across and binds to receptor sites on the postsynaptic neuron (1). Depending on whether it is excitatory or inhibitory, it makes the postsynaptic neuron more or less likely to fire; the neurotransmitter is then broken down or taken back up (1).
 
@@ -109,7 +109,7 @@ Identify the brain area most likely to have been damaged and explain your answer
 
 **8. (b)** Up to 3 marks. Words in the right visual field are processed by the left hemisphere (1). Patients named far more words from the right visual field (mean 9) than the left (mean 1) (1), suggesting language production is lateralised to the left hemisphere; with the corpus callosum cut, information in the right hemisphere cannot reach the language centres (1).
 
-**9.** Up to 6 marks (AO1). Endogenous pacemakers are internal biological clocks (1). The main one is the suprachiasmatic nucleus (SCN) in the hypothalamus (1), which receives information about light from the optic chiasm (1) and regulates the pineal gland's release of melatonin, which induces sleep when it is dark (1). Exogenous zeitgebers are external cues that reset the clock (1); light is the most important, with social cues such as meal times also helping to entrain the cycle to 24 hours (1). Credit Siffre's free-running cycle a little over 24 hours as showing what happens without zeitgebers.
+**9.** Up to 6 marks (AO1). The endocrine system is a network of glands that secrete hormones directly into the bloodstream (1). Hormones travel to target cells that have the matching receptors (1), so the system acts more slowly than the nervous system but its effects last longer (1). Up to 3 marks for two glands, for example: the pituitary gland, controlled by the hypothalamus, is the "master gland" that releases hormones such as ACTH, which stimulates the adrenal cortex (1-2); the adrenal glands release adrenaline from the medulla in the fight-or-flight response and cortisol from the cortex (1-2). Also credit the thyroid (thyroxine, metabolism), the pineal gland (melatonin, sleep) and the ovaries or testes (oestrogen, testosterone).
 
 **10.** Level-based, 16 marks (6 AO1, 10 AO3). 13–16: accurate, detailed knowledge; thorough, effective evaluation; clear, coherent and focused, with specialist terminology used effectively.
 
@@ -123,6 +123,17 @@ Identify the brain area most likely to have been damaged and explain your answer
 - Negative plasticity: not all change is beneficial; for example, phantom limb sensations are linked to reorganisation after amputation.
 - Animal research has informed this area, which raises generalisation and ethical issues.
 - Plasticity challenges strict localisation, supporting a more holistic view of brain function.
+
+## Frequently asked questions
+
+**Which paper assesses biopsychology?**
+Paper 2, Psychology in Context (2 hours, 96 marks, 33.3% of the A-level), alongside approaches and research methods. In the AS (7181), only the nervous system, neurons and synaptic transmission, the endocrine system and fight or flight are assessed.
+
+**Are biological rhythms still on the specification?**
+Check the current version: section 4.2.2 of Version 1.4 lists the nervous and endocrine systems, fight or flight, ways of studying the brain, localisation, lateralisation, split-brain research and plasticity.
+
+**How long should a 16-mark answer be?**
+About 400 to 500 words: roughly 6 marks of description and 10 of evaluation, with each point linked back to the question.
 
 ## Where marks are usually lost
 
