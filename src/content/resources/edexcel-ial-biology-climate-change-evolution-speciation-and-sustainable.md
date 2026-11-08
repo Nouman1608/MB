@@ -211,6 +211,23 @@ Human needs (food, timber, fuel, land) conflict with conservation. Effective man
 </figure>
 
 
+## Frequently asked questions
+
+**What evidence do biologists use for climate change?**
+Carbon dioxide records from air bubbles in ice, temperature records, pollen preserved in peat bogs and tree rings (dendrochronology).
+
+**What are the main human causes of rising greenhouse gases?**
+Burning fossil fuels releases carbon dioxide, deforestation removes trees that take up carbon dioxide, cattle, rice paddies and landfill release methane, and fertilisers release nitrous oxide.
+
+**What are the limitations of climate models?**
+Climate has many interacting variables and feedback loops, models depend on assumptions about future human behaviour, past data may be incomplete, and extrapolation assumes the trend continues.
+
+**How can climate change affect plants and animals?**
+It can change species distribution towards the poles or uphill, change the rate of development, cause mismatches in seasonal cycles, and reduce growth through drought or flooding.
+
+**What is the difference between allopatric and sympatric speciation?**
+In allopatric speciation a physical barrier separates populations. In sympatric speciation populations live in the same area but become reproductively isolated in another way.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification, Issue 2, February 2021, Topic 5, statements 5.16 to 5.26, published by Pearson Education Limited.

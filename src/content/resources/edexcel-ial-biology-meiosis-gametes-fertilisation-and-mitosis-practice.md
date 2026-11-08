@@ -129,6 +129,20 @@ These questions follow the Pearson Edexcel International Advanced Subsidiary/Adv
 - All free 10-minute [diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which Edexcel statements do these questions cover?**
+They cover statements 3.9 to 3.16 of Pearson Edexcel International A Level Biology (YBI11): linkage, meiosis, gametes, fertilisation, mitosis and the mitotic index.
+
+**What units should rate answers have?**
+Give rates with units and use the correct time interval. Rate answers without units lose marks.
+
+**What should a method description include?**
+Say why each step is done as well as what it is. Describing steps without reasons is a common error.
+
+**Are these Edexcel past paper questions?**
+No. They are original practice questions with worked answers. Use them alongside official Pearson Edexcel past papers.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology specification, Issue 2, February 2021 (Pearson Education Limited), statements 3.9 to 3.16 and Core Practical 6.

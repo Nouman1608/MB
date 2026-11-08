@@ -221,6 +221,23 @@ Conclusions can depend on who reaches them. Look at: funding source, vested inte
 - Describing speciation without isolation and the end point, interbreeding to give fertile offspring.
 - Calling biofuels carbon neutral without a limitation.
 
+## Frequently asked questions
+
+**How does the greenhouse effect work?**
+Sunlight reaches the surface, which emits longer-wavelength infrared. Greenhouse gases absorb infrared and re-emit it, some back towards the surface, so more greenhouse gas means more heat is retained.
+
+**How do you calculate Q₁₀?**
+Q₁₀ = rate at (T + 10 °C) ÷ rate at T. A Q₁₀ close to 2 means the rate doubles for each 10 °C rise.
+
+**What is Core Practical 12?**
+It investigates the effect of temperature on development, such as the hatching of brine shrimp eggs, with percentage hatched = hatched ÷ eggs × 100.
+
+**Why is peat useful evidence for climate change?**
+Peat is waterlogged, acidic and low in oxygen, so decay is slow and pollen grains are preserved in layers that show which plants grew there in the past.
+
+**What is the difference between correlation and causation?**
+Correlation means two variables change together. Causation means a change in one variable brings about a change in the other, which needs a mechanism or controlled evidence.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification, Issue 2, February 2021, Topic 5, statements 5.16 to 5.26, published by Pearson Education Limited.

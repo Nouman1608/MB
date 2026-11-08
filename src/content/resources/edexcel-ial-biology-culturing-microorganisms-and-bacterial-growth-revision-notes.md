@@ -178,6 +178,23 @@ If a question supplies a different form of the formula, use that one.
 * Leaving out a sterile, uninoculated control in a growth investigation.
 * Treating turbidity as a count of living cells.
 
+## Frequently asked questions
+
+**How do you calculate colony-forming units per cm³?**
+CFU per cm³ = (mean colonies ÷ volume plated in cm³) × dilution factor.
+
+**What is the difference between a total count and a viable count?**
+A haemocytometer count and turbidity include dead cells (a total count). Dilution plating counts only living cells that can form colonies (a viable count).
+
+**How do you find the growth rate constant k?**
+Pick two points in the exponential phase, subtract the logs (log₁₀ N − log₁₀ N₀), divide by 0.301 to find the number of generations, then divide by the time between the points.
+
+**What is the difference between the lag and stationary phases?**
+Both look flat on a growth curve. In the lag phase cells are adjusting and making enzymes before dividing; in the stationary phase division and death are balanced.
+
+**What is Core Practical 13 in Edexcel IAL Biology?**
+It investigates the rate of growth of a microorganism in a liquid culture, varying one factor such as temperature or glucose concentration and measuring absorbance or viable count over time.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology (YBI11) specification, Issue 2, published by Pearson Education Limited.

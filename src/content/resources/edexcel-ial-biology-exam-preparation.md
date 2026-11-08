@@ -11,13 +11,15 @@ qualifications: ["a-level"]
 syllabusCodes: ["YBI11"]
 syllabusSeries: "Specification Issue 2, February 2021"
 order: 3
-description: "How the six modular units of Edexcel IAL Biology YBI11 are weighted, why Units 3 and 6 are written practical-skills papers rather than lab assessments, and a worked experimental-evaluation routine."
+description: "How the six units of Edexcel International A Level Biology YBI11 are weighted, why Units 3 and 6 are written practical papers, and a method-evaluation routine."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Edexcel International A Level Biology (YBI11) is modular: three International Advanced Subsidiary
@@ -134,3 +136,20 @@ specification PDF, Issue 2, February 2021, verified 2026-08-28). The evaluation 
 original model written for this resource, not a reproduction of any official past paper or mark
 scheme. Always check the current specification for your examination series at
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Biology/2018/Specification-and-Sample-Assessment/International-A-Level-Biology-Spec.pdf).*
+
+## Frequently asked questions
+
+**How many units are there in Edexcel International A Level Biology?**
+Six units: three International AS units (1, 2 and 3) and three International A2 units (4, 5 and 6), each externally assessed.
+
+**Are Units 3 and 6 practical lab assessments?**
+No. Units 3 and 6, Practical Skills in Biology I and II, are written papers that test experimental design, data handling, error analysis and evaluation. Each is 1 hour 20 minutes, 50 marks and 10%.
+
+**How long are the Edexcel IAL Biology papers?**
+Units 1 and 2 are each 1 hour 30 minutes for 80 marks; Units 4 and 5 are each 1 hour 45 minutes for 90 marks. Each of these four units is worth 20%.
+
+**Can you retake a single unit?**
+Units are sat in separate series, so a weak unit result can often be addressed without retaking the whole qualification. Plan any retake early.
+
+**What do data-handling questions in Edexcel IAL Biology want?**
+They want inference from unfamiliar data, not just a description of it, and each written paper has a stated minimum of mathematics-targeted marks.
