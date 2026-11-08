@@ -12,6 +12,12 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-2058"
+  - qualification: "o-level"
+    topic: "paper-2-2058"
+    subtopic: "history-importance-hadiths-2058"
+  - qualification: "o-level"
+    topic: "paper-2-2058"
+    subtopic: "rightly-guided-caliphs-2058"
 description: "Cambridge O Level Islamiyat 2058 (2026-2027 series), Paper 2: the major teachings and history of the Hadiths, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam. Identical structure to Cambridge IGCSE Islamiyat 0493."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

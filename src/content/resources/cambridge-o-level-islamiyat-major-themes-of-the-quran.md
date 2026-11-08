@@ -12,6 +12,9 @@ order: 3
 syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-2058"
+  - qualification: "o-level"
+    topic: "paper-1-2058"
+    subtopic: "major-themes-quran-2058"
 description: "God in Himself, God's relationship with the created world, and God's Messengers -- Subtopic 1.1, the Major Themes of the Qur'an, given a full deep dive beyond the one-line summary in the site's existing whole-Paper-1 study guide."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
