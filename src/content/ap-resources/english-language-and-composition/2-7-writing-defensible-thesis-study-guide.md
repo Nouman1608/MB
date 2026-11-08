@@ -5,7 +5,7 @@ course: "english-language-and-composition"
 unit: 2
 topics: ["2.7"]
 resourceType: "study-guide"
-description: "Learn to write a thesis statement that is arguable, specific, reasoned and responsive, avoiding announcements, facts, vague evaluations and restated prompts, for all three exam essay types. Two worked examples, misconceptions and where it leads."
+description: "Learn to write a thesis statement that is arguable, specific, reasoned and responsive, avoiding announcements, facts, vague evaluations and restated prompts, for all three exam essay types. Two worked examples."
 prerequisites:
   - "Claims (Topic 1.4)"
   - "Identifying a thesis (Topic 2.6)"

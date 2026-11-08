@@ -5,7 +5,7 @@ course: "english-language-and-composition"
 unit: 3
 topics: ["3.7"]
 resourceType: "study-guide"
-description: "Learn how narration (real-life details plus reflection on their significance) and cause-effect (causes, consequences and chains) develop ideas in an argument, and how to judge their links. Two worked examples, misconceptions and where it leads."
+description: "Learn how narration (real-life details plus reflection on their significance) and cause-effect (causes, consequences and chains) develop ideas in an argument, and how to judge their links. Two worked examples."
 prerequisites:
   - "Methods of development (Topic 3.6)"
   - "Flaws in reasoning (Topic 3.5)"

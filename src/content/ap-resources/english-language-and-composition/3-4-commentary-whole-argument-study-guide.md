@@ -5,7 +5,7 @@ course: "english-language-and-composition"
 unit: 3
 topics: ["3.4"]
 resourceType: "study-guide"
-description: "Learn how commentary explains the relevance and significance of evidence across a whole argument: evidence-level, paragraph-level, bridge-level and thesis-level, and how to keep an argument connected. Two worked examples, misconceptions and where it leads."
+description: "Learn how commentary explains the relevance and significance of evidence across a whole argument: at evidence, paragraph, bridge and thesis level, and how to keep it connected. Two worked examples."
 prerequisites:
   - "Commentary (Topic 3.1)"
   - "Line of reasoning (Topic 3.3)"

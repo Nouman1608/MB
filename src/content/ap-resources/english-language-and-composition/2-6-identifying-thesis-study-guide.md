@@ -5,7 +5,7 @@ course: "english-language-and-composition"
 unit: 2
 topics: ["2.6"]
 resourceType: "study-guide"
-description: "Learn to find the thesis of an argument, even when it comes last, spans several sentences or is only implied, and tell it apart from topics, facts, sub-claims and counterarguments. Two worked examples, misconceptions and where it leads."
+description: "Learn to find the thesis of an argument, even when it comes last, spans several sentences or is only implied, and tell it apart from topics, facts, sub-claims and counterarguments. Two worked examples."
 prerequisites:
   - "Claims (Topic 1.4)"
   - "Evidence and its sufficiency (Topics 1.5 and 2.5)"

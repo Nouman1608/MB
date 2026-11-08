@@ -5,7 +5,7 @@ course: "english-language-and-composition"
 unit: 2
 topics: ["2.5"]
 resourceType: "study-guide"
-description: "Learn when evidence is sufficient (enough in quantity and quality for the claim), how claim scope sets the standard, and how to repair an argument whose evidence falls short. Two worked examples, misconceptions and where it leads."
+description: "Learn when evidence is sufficient (enough in quantity and quality for the claim), how claim scope sets the standard, and how to repair an argument whose evidence falls short. Two worked examples."
 prerequisites:
   - "Evidence types (Topic 1.5)"
   - "Choosing evidence strategically (Topic 2.4)"

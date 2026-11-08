@@ -5,7 +5,7 @@ course: "english-language-and-composition"
 unit: 1
 topics: ["1.6"]
 resourceType: "study-guide"
-description: "Learn to build a body paragraph that states a claim, embeds quoted, paraphrased or summarised evidence in your own sentences, and explains how the evidence supports the claim. Two worked examples, misconceptions and where it leads."
+description: "Learn to build a body paragraph that states a claim, embeds quoted, paraphrased or summarised evidence in your own sentences, and explains how the evidence supports the claim. Two worked examples."
 prerequisites:
   - "Claims (Topic 1.4)"
   - "Types of evidence (Topic 1.5)"

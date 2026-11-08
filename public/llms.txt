@@ -347,3 +347,7 @@ Monthly group fees per subject by region, last confirmed 2026-08-20. One-to-one 
 - [Physics C: Electricity and Magnetism flashcards (advanced course)](https://marlbridge.com/advanced-course-resources/physics-c-electricity-and-magnetism/flashcards/): 237 cards in 6 unit sets, 2026-27 framework.
 - [Microeconomics flashcards (advanced course)](https://marlbridge.com/advanced-course-resources/microeconomics/flashcards/): 242 cards in 6 unit sets, 2026-27 framework.
 - [Macroeconomics flashcards (advanced course)](https://marlbridge.com/advanced-course-resources/macroeconomics/flashcards/): 271 cards in 6 unit sets, 2026-27 framework.
+- [Computer Science A flashcards (advanced course)](https://marlbridge.com/advanced-course-resources/computer-science-a/flashcards/): 303 cards in 4 unit sets, 2026-27 framework.
+- [Computer Science Principles flashcards (advanced course)](https://marlbridge.com/advanced-course-resources/computer-science-principles/flashcards/): 210 cards in 5 unit sets, 2026-27 framework.
+- [English Language and Composition flashcards (advanced course)](https://marlbridge.com/advanced-course-resources/english-language-and-composition/flashcards/): 223 cards in 9 unit sets, 2026-27 framework.
+- [English Literature and Composition flashcards (advanced course)](https://marlbridge.com/advanced-course-resources/english-literature-and-composition/flashcards/): 372 cards in 9 unit sets, 2026-27 framework.

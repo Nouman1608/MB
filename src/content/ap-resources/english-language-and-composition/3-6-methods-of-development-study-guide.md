@@ -5,7 +5,7 @@ course: "english-language-and-composition"
 unit: 3
 topics: ["3.6"]
 resourceType: "study-guide"
-description: "Learn the five typical methods of development (narration, cause-effect, comparison-contrast, definition, description), how to recognise them and how to choose among them for a purpose and audience. Two worked examples, misconceptions and where it leads."
+description: "Learn the five typical methods of development (narration, cause-effect, comparison-contrast, definition, description), how to recognise them and how to choose among them for a purpose and audience. Two worked examples."
 prerequisites:
   - "Line of reasoning (Topic 3.3)"
   - "Evidence types (Topic 1.5)"

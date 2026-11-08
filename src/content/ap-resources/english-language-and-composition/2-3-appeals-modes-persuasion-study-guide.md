@@ -5,7 +5,7 @@ course: "english-language-and-composition"
 unit: 2
 topics: ["2.3"]
 resourceType: "study-guide"
-description: "Learn the three classical appeals (logos, ethos, pathos), how writers build each, why one sentence often does several jobs, and how to write about appeals with their purpose. Two worked examples, misconceptions and where it leads."
+description: "Learn the three classical appeals (logos, ethos, pathos), how writers build each, why one sentence often does several jobs, and how to write about appeals with their purpose. Two worked examples."
 prerequisites:
   - "Evidence (Topic 1.5)"
   - "Audience emotions and values (Topic 2.2)"

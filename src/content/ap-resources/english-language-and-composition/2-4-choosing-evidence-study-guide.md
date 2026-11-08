@@ -5,7 +5,7 @@ course: "english-language-and-composition"
 unit: 2
 topics: ["2.4"]
 resourceType: "study-guide"
-description: "Learn the jobs evidence can do (illustrate, clarify, set a mood, exemplify, associate, amplify) and how writers choose evidence to fit a claim, an audience and a purpose. Two worked examples, misconceptions and where it leads."
+description: "Learn the jobs evidence can do (illustrate, clarify, set a mood, exemplify, associate, amplify) and how writers choose evidence to fit a claim, an audience and a purpose. Two worked examples."
 prerequisites:
   - "Evidence types (Topic 1.5)"
   - "Appeals (Topic 2.3)"

@@ -5,7 +5,7 @@ course: "english-language-and-composition"
 unit: 2
 topics: ["2.2"]
 resourceType: "study-guide"
-description: "Learn how writers relate to an audience's emotions and values through connotation, imagery, narrative and values language, and how to judge whether an emotional appeal is effective. Two worked examples, misconceptions and where it leads."
+description: "Learn how writers relate to an audience's emotions and values through connotation, imagery, narrative and values language, and how to judge whether an emotional appeal is effective. Two worked examples."
 prerequisites:
   - "Audience analysis (Topics 1.3 and 2.1)"
 learningObjectives:

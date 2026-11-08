@@ -5,7 +5,7 @@ course: "english-language-and-composition"
 unit: 3
 topics: ["3.1"]
 resourceType: "study-guide"
-description: "Learn how commentary turns evidence into support: explaining, connecting, interpreting and extending, from weak repetition to analysis that links evidence to a claim and to the audience. Two worked examples, misconceptions and where it leads."
+description: "Learn how commentary turns evidence into support: explaining, connecting, interpreting and extending, from weak repetition to analysis that links evidence to a claim and to the audience. Two worked examples."
 prerequisites:
   - "Claims and evidence (Topics 1.4 and 1.5)"
   - "Writing a claim-and-evidence paragraph (Topic 1.6)"

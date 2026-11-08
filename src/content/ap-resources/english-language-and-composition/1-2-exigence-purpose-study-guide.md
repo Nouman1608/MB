@@ -5,7 +5,7 @@ course: "english-language-and-composition"
 unit: 1
 topics: ["1.2"]
 resourceType: "study-guide"
-description: "Learn to tell exigence (what prompts a text) from purpose (what the writer wants it to do), and to state both precisely, with a public-domain example from Douglass and Paine. Two worked examples, misconceptions and where it leads."
+description: "Learn to tell exigence (what prompts a text) from purpose (what the writer wants it to do), and to state both precisely, with a public-domain example from Douglass and Paine. Two worked examples."
 prerequisites:
   - "The six components of the rhetorical situation (Topic 1.1)"
 learningObjectives:

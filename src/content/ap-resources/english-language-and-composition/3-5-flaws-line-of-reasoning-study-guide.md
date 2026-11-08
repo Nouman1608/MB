@@ -5,7 +5,7 @@ course: "english-language-and-composition"
 unit: 3
 topics: ["3.5"]
 resourceType: "study-guide"
-description: "Learn to spot and explain flaws that make an argument specious or illogical, from false cause and false dilemma to straw man and overstating, and how to repair them in your own writing. Two worked examples, misconceptions and where it leads."
+description: "Learn to spot and explain flaws that make an argument specious or illogical, from false cause and false dilemma to straw man and overstating, and how to repair them in your own writing. Two worked examples."
 prerequisites:
   - "Line of reasoning (Topic 3.3)"
   - "Sufficient evidence (Topic 2.5)"

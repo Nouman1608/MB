@@ -5,7 +5,7 @@ course: "english-language-and-composition"
 unit: 3
 topics: ["3.3"]
 resourceType: "study-guide"
-description: "Learn what a line of reasoning is, how paragraph order and commentary reveal it, how to test whether it supports a thesis, and how to build one in your own argument. Two worked examples, misconceptions and where it leads."
+description: "Learn what a line of reasoning is, how paragraph order and commentary reveal it, how to test whether it supports a thesis, and how to build one in your own argument. Two worked examples."
 prerequisites:
   - "Thesis (Topics 2.6 and 2.7)"
   - "Commentary (Topic 3.1)"

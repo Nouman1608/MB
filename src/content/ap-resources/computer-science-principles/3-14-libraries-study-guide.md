@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-csp-3.14-study-guide"
 title: "Libraries: Study Guide (Computer Science Principles 3.14)"
-description: "What software libraries, APIs and documentation are, how to predict results from an API description, why documented conditions matter, and how to choose existing code. Two worked examples with an original fictional library."
+description: "What software libraries, APIs and documentation are, how to predict results from an API description, why documented conditions matter, and how to choose existing code. Two worked examples."
 course: "computer-science-principles"
 unit: 3
 topics: ["3.14"]
