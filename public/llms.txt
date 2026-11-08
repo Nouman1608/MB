@@ -1,6 +1,6 @@
 # Marlbridge
 
-> Marlbridge is an online tutoring service for IGCSE, O Level, GCSE, AS & A Level and IB students, operated by Learners Academy in Lahore, Pakistan. Subject teachers teach live classes one-to-one or in small groups of up to 15, online for students anywhere and in person in Lahore; the first trial class is free. Classes are offered in 142 board, qualification and subject combinations (Cambridge, Pearson Edexcel, AQA, OxfordAQA, OCR and IB), and the site publishes 7,707 free study resources, printable syllabus checklists and exam tools. Marlbridge has no office outside Pakistan.
+> Marlbridge is an online tutoring service for IGCSE, O Level, GCSE, AS & A Level and IB students, operated by Learners Academy in Lahore, Pakistan. Subject teachers teach live classes one-to-one or in small groups of up to 15, online for students anywhere and in person in Lahore; the first trial class is free. Classes are offered in 142 board, qualification and subject combinations (Cambridge, Pearson Edexcel, AQA, OxfordAQA, OCR and IB), and the site publishes 7,782 free study resources, printable syllabus checklists and exam tools. Marlbridge has no office outside Pakistan.
 
 ## Boards
 
@@ -332,3 +332,14 @@ Monthly group fees per subject by region, last confirmed 2026-08-20. One-to-one 
 - [AP® Physics C: Electricity and Magnetism](https://marlbridge.com/advanced-course-resources/physics-c-electricity-and-magnetism/): 6 units; exam 2027-05-05.
 - [AP® Microeconomics](https://marlbridge.com/advanced-course-resources/microeconomics/): 6 units; exam 2027-05-04.
 - [AP® Macroeconomics](https://marlbridge.com/advanced-course-resources/macroeconomics/): 6 units; exam 2027-05-07.
+- [Chemistry flashcards (advanced course)](https://marlbridge.com/advanced-course-resources/chemistry/flashcards/): 608 cards in 9 unit sets, 2026-27 framework.
+- [Biology flashcards (advanced course)](https://marlbridge.com/advanced-course-resources/biology/flashcards/): 406 cards in 8 unit sets, 2026-27 framework.
+- [Calculus AB flashcards (advanced course)](https://marlbridge.com/advanced-course-resources/calculus-ab/flashcards/): 511 cards in 8 unit sets, 2026-27 framework.
+- [Calculus BC flashcards (advanced course)](https://marlbridge.com/advanced-course-resources/calculus-bc/flashcards/): 721 cards in 10 unit sets, 2026-27 framework.
+- [Statistics flashcards (advanced course)](https://marlbridge.com/advanced-course-resources/statistics/flashcards/): 356 cards in 5 unit sets, 2026-27 framework.
+- [Physics 1: Algebra-Based flashcards (advanced course)](https://marlbridge.com/advanced-course-resources/physics-1/flashcards/): 273 cards in 8 unit sets, 2026-27 framework.
+- [Physics 2: Algebra-Based flashcards (advanced course)](https://marlbridge.com/advanced-course-resources/physics-2/flashcards/): 307 cards in 7 unit sets, 2026-27 framework.
+- [Physics C: Mechanics flashcards (advanced course)](https://marlbridge.com/advanced-course-resources/physics-c-mechanics/flashcards/): 321 cards in 7 unit sets, 2026-27 framework.
+- [Physics C: Electricity and Magnetism flashcards (advanced course)](https://marlbridge.com/advanced-course-resources/physics-c-electricity-and-magnetism/flashcards/): 237 cards in 6 unit sets, 2026-27 framework.
+- [Microeconomics flashcards (advanced course)](https://marlbridge.com/advanced-course-resources/microeconomics/flashcards/): 242 cards in 6 unit sets, 2026-27 framework.
+- [Macroeconomics flashcards (advanced course)](https://marlbridge.com/advanced-course-resources/macroeconomics/flashcards/): 271 cards in 6 unit sets, 2026-27 framework.
