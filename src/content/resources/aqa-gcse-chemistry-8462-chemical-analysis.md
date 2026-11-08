@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Study guide for AQA GCSE Chemistry 8462 Topic 8 Chemical analysis: purity, formulations, chromatography, gas tests, ion tests and flame emission."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches Topic 8, **Chemical analysis** (sections 4.8.1 to 4.8.3), of the AQA GCSE Chemistry (8462) specification, for teaching from September 2016 with exams from June 2018 (version 1.1). The topic is assessed on Paper 2 (1 hour 45 minutes, 100 marks, 50% of the GCSE), which covers Topics 6 to 10 and can draw on ideas from sections 4.1 to 4.3. Everything in this topic is for both Foundation and Higher tier: the specification marks no part of Topic 8 as Higher tier only. It contains two required practicals, 6 (chromatography) and 7 (identifying ions).
@@ -259,6 +261,23 @@ Intensity rises by 12 for every 5 mg/dm³, which is 2.4 units per mg/dm³. Conce
 - Forgetting that only aluminium hydroxide dissolves in excess sodium hydroxide.
 - Acidifying a chloride test with hydrochloric acid.
 - Saying a pure substance "has nothing added" in a chemistry answer. Use the chemical definition.
+
+## Frequently asked questions
+
+**What is a pure substance in chemistry?**
+In chemistry, a pure substance is a single element or compound, not mixed with any other substance. This differs from the everyday meaning of "nothing added", so milk is a mixture even if sold as "pure".
+
+**What is a formulation?**
+A formulation is a mixture designed as a useful product, with each component in a carefully measured quantity and having a particular purpose. Examples include fuels, cleaning agents, paints, medicines, alloys, fertilisers and foods.
+
+**How does paper chromatography separate substances?**
+Separation depends on how each substance is distributed between the stationary phase (the paper) and the mobile phase (the solvent). A substance more attracted to the solvent travels further up the paper.
+
+**How do you test for chlorine gas?**
+Chlorine bleaches damp litmus paper white. Saying chlorine "turns litmus red" is a common error.
+
+**Which paper tests Chemical analysis in AQA GCSE Chemistry 8462?**
+Topic 8 is assessed on Paper 2 (1 hour 45 minutes, 100 marks, 50% of the GCSE), which covers Topics 6 to 10. It contains Required practical 6 (chromatography) and Required practical 7 (identifying ions).
 
 ## Official syllabus
 

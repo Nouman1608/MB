@@ -207,6 +207,23 @@ Mass of CaO = 3.744 × 10⁴ × 56.1 = 2.10 × 10⁶ g = **2.10 tonnes** [1].
 - Forgetting the 1 : 2 ratio of TiCl₄ to Mg when finding the limiting reagent.
 - Leaving pressure in kPa in pV = nRT, or not converting m³ to cm³.
 
+## Frequently asked questions
+
+**Is Group 2 AS content in AQA Chemistry?**
+Yes. Section 3.2.2 Group 2, the alkaline earth metals, of the AQA 7404/7405 specification is all AS content. It is examined on AS Paper 1 and A-level Paper 1, and A-level Paper 3 can test any content.
+
+**How do you explain the trend in ionisation energy down Group 2 for full marks?**
+Mention that the outer electron is further from the nucleus and more shielded, so it is attracted less strongly. Leaving out shielding is a common way to lose marks.
+
+**What counts as an observation in a Group 2 reaction question?**
+An observation must be something you can see, such as fizzing or a white solid forming. "Hydrogen gas is produced" names a product rather than describing an observation.
+
+**Why must sulfuric acid not be used to acidify a sample in the sulfate test?**
+Sulfuric acid adds sulfate ions, which would give a positive result whether or not the sample contained sulfate. Use dilute hydrochloric or nitric acid instead.
+
+**What common slips happen in Group 2 calculations?**
+Forgetting the 1 : 2 ratio of TiCl₄ to Mg when finding the limiting reagent, and leaving pressure in kPa in pV = nRT, are frequent errors. Write the mole comparison out in full for "show that" questions.
+
 ## Next steps
 
 - [Group 2 revision notes](/resources/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals-revision-notes/)

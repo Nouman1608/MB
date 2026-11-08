@@ -416,6 +416,23 @@ Silicon's diagram: a nucleus with three circles round it, carrying 2, 8 and 4 cr
 - Forgetting to divide by 100 in a relative atomic mass calculation.
 - Putting 8 electrons in the first shell, or 3 in the first shell of lithium (2,1 is correct).
 
+## Frequently asked questions
+
+**How big is an atom?**
+An atom has a radius of about 0.1 nm (1 × 10⁻¹⁰ m). The nucleus has a radius less than 1/10 000 of the atom's, about 1 × 10⁻¹⁴ m, but contains almost all of the mass.
+
+**Which element names and symbols do you need to learn for AQA GCSE Chemistry?**
+You are given a periodic table in the exam, but you must know the names and symbols of the first 20 elements, Groups 1 and 7, and other elements named in the AQA 8462 specification.
+
+**What did the alpha particle scattering experiment show?**
+It led to the conclusion that the mass of an atom is concentrated at the centre, in a charged nucleus. This replaced the plum pudding model, and Bohr later suggested electrons orbit at specific distances.
+
+**Are half equations on the Foundation tier?**
+No. Writing balanced half equations and ionic equations is Higher tier only in section 4.1.1. All the other content is examined at both tiers.
+
+**Is there a required practical for atomic structure in AQA GCSE Chemistry?**
+No. No required practical sits in section 4.1.1. The content is examined on Paper 1 at Foundation and Higher Tier, and Paper 2 can draw on it too.
+
 ## Official syllabus
 
 AQA GCSE Chemistry (8462) specification, for teaching from September 2016, exams from June 2018 (version 1.1),

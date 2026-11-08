@@ -236,6 +236,23 @@ loses the name mark.
 - Ranking CIP groups by size or mass rather than by atomic number.
 - Explaining E–Z isomerism without mentioning restricted rotation about the C=C.
 
+## Frequently asked questions
+
+**Is introduction to organic chemistry AS content in AQA Chemistry?**
+Yes. Section 3.3.1 of the AQA 7404/7405 specification is all AS content. It is examined on Paper 2 at AS and A-level, and A-level Paper 3 can test any content.
+
+**How precise does a definition of structural isomers need to be?**
+Say which formula is the same and which differs: structural isomers have the same molecular formula but a different structural formula. "Same formula, different structure" is too vague to earn the mark.
+
+**What are common naming mistakes in organic chemistry questions?**
+Numbering from the wrong end, adding a locant to -al or -oic acid names, and choosing a longest chain that leaves out the functional group carbon all lose marks. Numbering for aldehydes starts at the CHO carbon.
+
+**How are CIP priorities ranked when assigning E and Z?**
+Rank the groups on each carbon of the C=C by atomic number, not by size or mass. Explanations of E–Z isomerism must also mention restricted rotation about the C=C bond.
+
+**Should curly arrows be drawn for free-radical steps?**
+No. Free-radical steps are written as balanced equations with a dot on each radical. Curly arrows are used for other mechanisms and must start from a lone pair or bond, not from an atom or charge.
+
 ## Next steps
 
 - [Introduction to organic chemistry revision notes](/resources/aqa-a-level-chemistry-introduction-to-organic-chemistry-revision-notes/)

@@ -247,6 +247,23 @@ too high.
 - Saying "feasible above" when ΔH and ΔS are both negative.
 - Missing units on a final ΔS (J K⁻¹ mol⁻¹) or ΔG (kJ mol⁻¹).
 
+## Frequently asked questions
+
+**What is the difference between lattice enthalpy of formation and dissociation?**
+Lattice enthalpy of formation is for 1 mole of solid ionic compound formed from its gaseous ions and is negative; lattice enthalpy of dissociation is the reverse and is positive. They have the same size but opposite signs.
+
+**Why is the second electron affinity of oxygen endothermic?**
+The second electron affinity adds an electron to an O⁻ ion, which is already negative and repels the incoming electron, so energy must be supplied. The first electron affinity of oxygen is exothermic.
+
+**How do you calculate an enthalpy of solution?**
+Add the lattice enthalpy of dissociation to the hydration enthalpies of all the ions, multiplying each hydration enthalpy by the number of that ion in the formula. If you are given lattice enthalpy of formation, change its sign first.
+
+**When is entropy change positive?**
+ΔS is positive when a substance changes from solid to liquid to gas, or when the number of moles of gas increases. It is negative when gases combine into fewer moles of gas or a solid forms.
+
+**Does ΔG ≤ 0 mean a reaction is fast?**
+No. In AQA A-level Chemistry 7405, ΔG ≤ 0 means a reaction is feasible, not how quickly it happens.
+
 ## Official syllabus
 
 AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and

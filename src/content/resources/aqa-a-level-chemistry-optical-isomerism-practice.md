@@ -168,6 +168,23 @@ wrong [1] **[8]**
 - Not showing Mr and moles in a calculation, so a slip cannot be traced.
 - Counting stereoisomers without checking each type separately (E–Z and optical).
 
+## Frequently asked questions
+
+**Is optical isomerism in AQA AS Chemistry?**
+No. Section 3.3.7 Optical isomerism of the AQA 7404/7405 specification is A-level only. It is assessed on A-level Paper 2, and Paper 3 can test any content.
+
+**Why is "mirror images" not enough when defining enantiomers?**
+Every molecule has a mirror image, so the definition must say "non-superimposable mirror images". Writing "mirror images" alone misses the second mark.
+
+**How do you avoid choosing the wrong carbon as a chiral centre?**
+Check that the carbon has four different groups by following each group to its end. A carbon with two identical groups, such as two ethyl groups, is not a chiral centre.
+
+**What do examiners look for in 3D drawings of enantiomers?**
+Show the 3D arrangement with wedge and hashed bonds, and draw the second form as a true reflection. Flat drawings, or a mirror image with a group swapped as well, do not show two different enantiomers.
+
+**Why is a racemic mixture optically inactive?**
+Answers must refer to equal amounts of the two enantiomers rotating plane-polarised light by equal and opposite angles, so the rotations cancel. Saying the mixture "has no chiral centre" is wrong, because each molecule is chiral.
+
 ## Next steps
 
 - [Optical isomerism revision notes](/resources/aqa-a-level-chemistry-optical-isomerism-revision-notes/)

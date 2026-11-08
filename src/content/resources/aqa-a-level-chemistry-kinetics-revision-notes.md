@@ -239,6 +239,23 @@ The catalyst is not used up: the same mass and composition remain at the end.
 - Using t instead of 1/t as the measure of rate in a clock or disappearing-cross experiment.
 - Leaving units off a rate, or writing mol dm⁻³ instead of mol dm⁻³ s⁻¹.
 
+## Frequently asked questions
+
+**What is the definition of activation energy?**
+Activation energy is the minimum energy that colliding particles must have for a reaction to occur. Leaving out "minimum" or writing "energy to start a reaction" loses the mark.
+
+**Why does a small rise in temperature cause a large rise in rate?**
+The activation energy lies far out in the tail of the Maxwell–Boltzmann distribution, so a small temperature rise increases the area of the tail, and the number of particles with E ≥ Ea, by a large factor.
+
+**Does increasing concentration give particles more energy?**
+No. Higher concentration puts more particles in the same volume, so collisions are more frequent. The proportion of particles with energy at or above Ea does not change, and the distribution curve does not move.
+
+**How does a catalyst appear on a Maxwell–Boltzmann diagram?**
+Draw one curve, because the temperature is unchanged, and mark the catalysed activation energy to the left of the uncatalysed one. The catalyst provides an alternative route of lower activation energy, so a greater proportion of molecules can react.
+
+**Are rate equations part of kinetics in AQA A-level Chemistry 7405?**
+No. Rate equations, orders and the rate constant belong to section 3.1.9, which is A-level only. Section 3.1.5 Kinetics is AS content.
+
 ## Next steps
 
 Go back to the [study guide](/resources/aqa-a-level-chemistry-kinetics/) for any point you missed, then try

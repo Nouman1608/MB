@@ -209,6 +209,23 @@ earns only half the credit for that ion.
 - Using the wrong mole ratio for chlorine and sodium hydroxide.
 - Ending an "evaluate" answer without a judgement.
 
+## Frequently asked questions
+
+**Is the halogens topic AS content in AQA Chemistry?**
+Yes. Section 3.2.3 Group 7(17), the halogens, of the AQA 7404/7405 specification is all AS content, including Required practical 4. It is examined on AS Paper 1 and A-level Paper 1, and A-level Paper 3 can test any content.
+
+**How do you avoid mixing up the halogen and halide trends?**
+Oxidising ability of the halogens decreases down the group, while reducing ability of the halide ions increases down the group. Confusing the two trends is one of the most common errors.
+
+**Why do colour-change answers lose marks in halogen questions?**
+"A colour change" alone scores nothing; you must name the colour seen in each tube. State the starting and final colours where the question asks for them.
+
+**Why must the silver nitrate test not be acidified with hydrochloric acid?**
+Hydrochloric acid adds chloride ions, which would form a precipitate with silver ions whatever halide was present. Dilute nitric acid is used instead.
+
+**What must be named when chlorine reacts with water or sodium hydroxide?**
+Name the reaction as disproportionation, because chlorine is both oxidised and reduced. Leaving out the term is a frequent way to lose marks.
+
 ## Next steps
 
 - [Halogens revision notes](/resources/aqa-a-level-chemistry-group-7-17-the-halogens-revision-notes/)

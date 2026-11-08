@@ -310,6 +310,23 @@ Each step uses one feature only.
 - Explaining acidity with "Fe³⁺ is bigger". It is smaller, with a greater charge.
 - Describing a solution as "clear" when you mean "colourless". A blue solution is clear too.
 
+## Frequently asked questions
+
+**What is a metal-aqua ion?**
+A metal-aqua ion is a metal ion with six water ligands, each bonded by a co-ordinate bond from a lone pair on oxygen, giving an octahedral complex such as [Cu(H₂O)₆]²⁺.
+
+**Why is [Fe(H₂O)₆]³⁺ more acidic than [Fe(H₂O)₆]²⁺?**
+The 3+ ion has a higher charge and a smaller radius, so a higher charge/size ratio. It is more polarising, weakening the O–H bonds in the water ligands so H⁺ is released more readily.
+
+**How do bases form precipitates with metal-aqua ions?**
+OH⁻, NH₃ and CO₃²⁻ remove H⁺ ions from the water ligands, lowering the charge on the complex. Removing two H⁺ from M²⁺ or three from M³⁺ gives the neutral hydroxide, observed as a precipitate.
+
+**Why does aluminium hydroxide dissolve in excess sodium hydroxide?**
+Excess OH⁻ removes a fourth H⁺, giving a soluble negative ion, [Al(OH)₄]⁻. Aluminium hydroxide does not dissolve in excess ammonia.
+
+**What is Required practical 11 in AQA A-level Chemistry?**
+Required practical 11 is carrying out simple test-tube reactions to identify transition metal ions in aqueous solution. Add each reagent drop by drop, then in excess, using a fresh sample for each reagent.
+
 ## Official syllabus
 
 AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards (AQA). Section 3.2.6 Reactions of ions in aqueous solution (A-level only), including required practical 11.

@@ -179,6 +179,23 @@ primary alcohol [1]. Z is **3-hydroxypropanal, HOCH₂CH₂CHO** [1]. **[9]**
 - Assigning a 2500–3000 cm⁻¹ absorption to an alcohol, or 3230–3550 cm⁻¹ to an acid.
 - Describing the fingerprint region without saying the spectrum is compared with a known sample.
 
+## Frequently asked questions
+
+**Is organic analysis AS content in AQA Chemistry?**
+Yes. Section 3.3.6 Organic analysis of the AQA 7404/7405 specification is AS content, examined on Paper 2 at AS and A-level. The carbonate test for carboxylic acids comes from 3.3.9.1, which is A-level only.
+
+**How should you describe a colour change in a test-tube reaction?**
+Give both the starting and final colours, such as orange to colourless. Writing "goes clear", or giving only the final colour, is weaker and can lose the mark.
+
+**What is the right order of tests when identifying several organic compounds?**
+Each test must pick out one compound from those left. In particular, test for an aldehyde before using acidified dichromate(VI) to look for an alcohol, because an aldehyde would also turn it green.
+
+**How do you show a molecular formula from precise masses?**
+Show the precise-mass sum for every candidate formula and compare each with the measured m/z. Stating the right formula without the sums gives no evidence.
+
+**How do you interpret an infrared spectrum for full marks?**
+Match each absorption to a named bond and its data range. "1710 shows an acid" skips the bond and is not a full interpretation.
+
 ## Next steps
 
 - [Organic analysis revision notes](/resources/aqa-a-level-chemistry-organic-analysis-revision-notes/)

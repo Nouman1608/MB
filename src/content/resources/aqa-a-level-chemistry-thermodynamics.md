@@ -334,6 +334,23 @@ and ΔS.
 - Mixing ΔS in J K⁻¹ mol⁻¹ with ΔH in kJ mol⁻¹, or using T in °C.
 - Taking the graph gradient as +ΔS: the gradient is –ΔS.
 
+## Frequently asked questions
+
+**What is a Born–Haber cycle?**
+A Born–Haber cycle is a Hess's law cycle for forming an ionic solid, drawn as an energy level diagram with endothermic steps as up arrows and exothermic steps as down arrows. It lets you calculate a lattice enthalpy or any other single term.
+
+**What does the perfect ionic model assume?**
+It assumes the ions are perfect spheres with evenly spread charge and that the only attraction is electrostatic. If the experimental Born–Haber value differs from the model value, the compound has some covalent character.
+
+**Why is hydration enthalpy always exothermic?**
+Water molecules are attracted to gaseous ions as they dissolve: the δ– oxygen towards cations and the δ+ hydrogens towards anions. This attraction releases energy.
+
+**Why is ΔH alone not enough to decide feasibility?**
+Some endothermic changes happen readily, such as ice melting at room temperature and ammonium nitrate dissolving in water. Feasibility also depends on entropy, through ΔG = ΔH – TΔS.
+
+**What is the gradient of a ΔG against temperature graph?**
+The gradient of a ΔG against T graph is –ΔS, and the intercept gives ΔH. Taking the gradient as +ΔS is a common error; section 3.1.8 is listed under AQA A-level Paper 1.
+
 ## Next steps
 
 Revise from the [revision notes](/resources/aqa-a-level-chemistry-thermodynamics-revision-notes/),

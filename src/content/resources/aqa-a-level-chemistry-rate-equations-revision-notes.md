@@ -237,6 +237,23 @@ Apparatus and techniques: AT a, k and l. Wear eye protection and handle chemical
 - Choosing a mechanism whose slow step fits but whose steps do not add up to the overall equation.
 - Forgetting to keep total volume constant in a clock-reaction plan.
 
+## Frequently asked questions
+
+**What is the order of reaction with respect to a reactant?**
+It is the power to which that reactant's concentration is raised in the rate equation, Rate = k[A]^m[B]^n. In AQA A-level Chemistry 7405 orders are 0, 1 or 2, and the overall order is their sum.
+
+**Does the rate constant change with concentration?**
+No. The rate constant k changes with temperature, or if a catalyst is added, but never with concentration. Concentration changes the rate, not k.
+
+**How do you find activation energy from a graph?**
+Plot ln k against 1/T, draw the best-fit straight line and take its gradient from two points far apart on the line. Then Ea = −gradient × R, in J mol⁻¹.
+
+**What does a rate against concentration graph look like for each order?**
+A zero-order reactant gives a horizontal line, a first-order reactant gives a straight line through the origin, and a second-order reactant gives an upward curve through the origin.
+
+**Can orders be taken from the balanced equation?**
+No. Orders come from experimental data, while coefficients come from the balanced equation. Taking orders from the equation is one of the most common errors.
+
 ## Next steps
 
 Work through the [practice questions](/resources/aqa-a-level-chemistry-rate-equations-practice/), and go back

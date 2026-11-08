@@ -139,6 +139,23 @@ Identify A, B and C, giving one piece of evidence for each. Suggest one further 
 - Using 1 : 1 instead of 2 : 3 between M³⁺ and CO₂.
 - Saying "clear" for "colourless".
 
+## Frequently asked questions
+
+**Is reactions of ions in aqueous solution an AS topic in AQA Chemistry?**
+No. Section 3.2.6 of the AQA 7404/7405 specification is A-level only. Inorganic chemistry is listed under A-level Paper 1, and Paper 3 can assess any content, including Required practical 11.
+
+**What observations are needed when a reagent is added "drop by drop, then in excess"?**
+Give both stages: the precipitate that forms first, then what happens in excess. An answer giving only the final observation, such as a deep blue solution, misses the precipitate mark.
+
+**What does a full explanation of aqua ion acidity need?**
+Name both the higher charge and the smaller size of the 3+ ion, then link the greater polarising power to a weakened O–H bond in the water ligands. Charge alone is not enough.
+
+**How do you show that aluminium hydroxide is amphoteric?**
+Write two equations, one for its reaction with an acid and one for its reaction with a base. One equation cannot show amphoteric behaviour.
+
+**What mistakes happen with carbonate reactions of metal ions?**
+Writing metal(III) carbonates such as Fe₂(CO₃)₃ as products, leaving out effervescence for 3+ ions, and using 1 : 1 instead of 2 : 3 between M³⁺ and CO₂ all lose marks.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution-revision-notes/).

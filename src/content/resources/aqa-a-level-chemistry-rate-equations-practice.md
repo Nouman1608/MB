@@ -206,6 +206,23 @@ Ea = 8.31 × 1.386 ÷ 2.11 × 10⁻⁴ = 5.46 × 10⁴ J mol⁻¹ = **54.6 kJ mo
 - Giving k of a zero-order reaction in s⁻¹.
 - Vague control variables in a clock-reaction plan ("amount" instead of volume or concentration).
 
+## Frequently asked questions
+
+**Is rate equations an AS topic in AQA Chemistry?**
+No. Section 3.1.9 Rate equations of the AQA 7404/7405 specification, including Required practical 7, is A-level only. It is placed on A-level Paper 2, and Paper 3 can test any content.
+
+**How do you justify an order of reaction from initial-rate data?**
+Name the two experiments you compare and compare the factor change in concentration with the factor change in rate. If two concentrations change, show that the effect of the known reactant has been allowed for.
+
+**What units mistakes happen in rate equation questions?**
+A rate needs units of mol dm⁻³ s⁻¹, not the units of k, and k for a zero-order reaction has the same units as rate, not s⁻¹. Cancel units for each overall order rather than recalling them.
+
+**What goes wrong in Arrhenius calculations?**
+Using Ea in kJ mol⁻¹ or temperature in °C, rounding 1/T too early, and forgetting that the gradient is −Ea/R so Ea comes out negative. Keep Ea in J mol⁻¹ and T in kelvin.
+
+**What makes a clock-reaction plan lose marks?**
+Vague control variables, such as "amount" instead of volume or concentration, lose marks. Keep the total volume constant by adding water when you vary one reactant.
+
 ## Next steps
 
 - [Rate equations revision notes](/resources/aqa-a-level-chemistry-rate-equations-revision-notes/)

@@ -427,6 +427,23 @@ contain no C–Cl bond to release chlorine atoms.
 - Calling OH⁻ a nucleophile in elimination. There it acts as a **base**.
 - Writing the ozone steps without regenerating Cl•.
 
+## Frequently asked questions
+
+**Why are halogenoalkanes more reactive than alkanes?**
+The halogen is more electronegative than carbon, so the C–X bond is polar, with a δ+ carbon that nucleophiles attack. Alkanes have no δ+ carbon, so they are much less reactive.
+
+**What is a nucleophile?**
+A nucleophile is an electron pair donor that attacks an electron-deficient (δ+) carbon. In AQA A-level Chemistry 7405 the nucleophiles for halogenoalkanes are OH⁻, CN⁻ and NH₃.
+
+**What products form when 2-bromopropane reacts with potassium hydroxide?**
+Substitution and elimination happen at the same time. Acting as a nucleophile, OH⁻ gives propan-2-ol; acting as a base, it removes a proton from a neighbouring carbon to give propene.
+
+**Why is ozone in the upper atmosphere beneficial?**
+Ozone absorbs ultraviolet radiation, reducing the amount of UV that reaches the Earth's surface. Chlorine radicals from CFCs catalyse its decomposition, and because Cl• is regenerated one atom can destroy many ozone molecules.
+
+**How do you name a nitrile made from a halogenoalkane?**
+Count the C≡N carbon as part of the chain. For example, CH₃CH₂CN has three carbons, so it is propanenitrile, not ethanenitrile.
+
 ## Next steps
 
 Condense this into the [revision notes](/resources/aqa-a-level-chemistry-halogenoalkanes-revision-notes/),

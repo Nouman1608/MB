@@ -363,6 +363,23 @@ Wear eye protection and handle each chemical according to its hazards (AT k).
 - Crediting a rate change to one reactant when two concentrations changed.
 - Saying a zero-order reactant is not used up. It can be consumed even though its concentration does not affect the measured rate over the tested range; zero order alone does not establish when it reacts.
 
+## Frequently asked questions
+
+**What is the Arrhenius equation?**
+The Arrhenius equation is k = Ae^(−Ea/RT), linking the rate constant to temperature and activation energy. A plot of ln k against 1/T gives a straight line with gradient −Ea/R.
+
+**Why does a small temperature rise increase k so much?**
+At a higher temperature a much larger proportion of collisions have energy at or above the activation energy. So k, and the rate at the same concentrations, rise sharply.
+
+**How is the initial rate found from a concentration–time graph?**
+Draw a tangent to the curve at t = 0 and find its gradient. The gradient is negative for a reactant, but the rate is quoted as a positive value.
+
+**What is the rate-determining step?**
+The rate-determining step is the slowest step in a multi-step mechanism, and it limits the overall rate. A proposed mechanism must fit the experimental rate equation.
+
+**What does Required practical 7 involve in AQA A-level Chemistry 7405?**
+Required practical 7 measures the rate of reaction by an initial rate method and by a continuous monitoring method. The specification suggests finding the order for a reactant in the iodine clock reaction.
+
 ## Next steps
 
 Next, use the [revision notes](/resources/aqa-a-level-chemistry-rate-equations-revision-notes/) and the

@@ -231,6 +231,23 @@ The specification also suggests (as an opportunity, not required content) that y
 - Writing "clear" instead of "colourless".
 - Forgetting NH₄⁺ as the product when ammonia acts as a base.
 
+## Frequently asked questions
+
+**Which metal-aqua ions are in AQA A-level Chemistry 7405 section 3.2.6?**
+The 2+ aqua ions are iron and copper only, and the 3+ aqua ions are aluminium and iron only. The bases are limited to OH⁻, NH₃ and CO₃²⁻.
+
+**What colour are the iron and copper aqua ions?**
+[Fe(H₂O)₆]²⁺ is pale green and [Cu(H₂O)₆]²⁺ is blue. Describe a solution with no colour as "colourless", not "clear".
+
+**Why does excess ammonia dissolve copper(II) hydroxide?**
+In excess, ammonia acts as a ligand and replaces water ligands, forming the deep blue [Cu(NH₃)₄(H₂O)₂]²⁺ solution. With a few drops it acts only as a base and gives the hydroxide precipitate.
+
+**Why do 3+ ions give carbon dioxide with sodium carbonate but 2+ ions do not?**
+The 3+ aqua ions are acidic enough to protonate carbonate, so a hydroxide precipitate forms and CO₂ is given off. The 2+ ions form a metal carbonate precipitate instead.
+
+**How do you tell Fe²⁺ from Fe³⁺ in solution tests?**
+Fe²⁺ gives a green hydroxide precipitate and no bubbles with carbonate, while Fe³⁺ gives a brown hydroxide precipitate and bubbles of CO₂ with carbonate.
+
 ## Official syllabus
 
 AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards (AQA). Section 3.2.6 Reactions of ions in aqueous solution (A-level only), including required practical 11.

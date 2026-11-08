@@ -257,6 +257,23 @@ Required practical 4 is listed in section 3.2.3 and includes identifying Group 2
 </figure>
 
 
+## Frequently asked questions
+
+**How do the solubilities of Group 2 hydroxides and sulfates change down the group?**
+Hydroxide solubility increases down the group, with Mg(OH)₂ sparingly soluble, while sulfate solubility decreases, with BaSO₄ insoluble. The two trends run in opposite directions.
+
+**What does magnesium form when it reacts with steam?**
+Magnesium reacts with steam to form magnesium oxide and hydrogen, burning with a bright white light. With cold water it reacts very slowly to form magnesium hydroxide.
+
+**What is magnesium hydroxide used for?**
+Magnesium hydroxide is used as an antacid in medicine to neutralise excess stomach acid. Calcium hydroxide is used to raise the pH of acidic soil.
+
+**Why is barium sulfate safe to swallow if barium ions are toxic?**
+Barium sulfate is insoluble, so it does not release toxic barium ions into the body. Saying barium "is not poisonous" is incorrect and loses marks.
+
+**Is magnesium an oxidising or reducing agent in titanium extraction?**
+Magnesium is the reducing agent: it is oxidised as it reduces TiCl₄ to titanium in the reaction TiCl₄ + 2Mg → Ti + 2MgCl₂. This is part of AQA A-level Chemistry 7405 section 3.2.2.
+
 ## Official syllabus
 
 AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level

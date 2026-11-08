@@ -189,6 +189,23 @@ whether the statement holds usually loses the final mark.
 - Missing state symbols in ionisation energy equations.
 - Ending an "evaluate" answer without a judgement.
 
+## Frequently asked questions
+
+**Is periodicity AS content in AQA Chemistry?**
+Yes. Section 3.2.1 Periodicity of the AQA 7404/7405 specification is all AS content. It is examined on AS Paper 1 and A-level Paper 1, and A-level Paper 3 can test any content.
+
+**Why do "more shells" or "more shielding" answers lose marks for Period 3 trends?**
+Every Period 3 element has its outer electrons in the third shell, so shielding stays about the same across the period. Writing "more shells" or "more shielding" contradicts this and can cost the mark.
+
+**How many factors are needed to explain atomic radius or ionisation energy across a period?**
+Each mark is usually for a separate factor: increasing nuclear charge, similar shielding, and the effect on attraction for the outer electrons. An answer about nuclear charge alone scores only part of the credit.
+
+**How do you avoid mistakes when classifying elements into blocks?**
+The block is named after the sub-shell holding the highest-energy electron. Helium is s block, not p block, and gallium is p block even though 3d¹⁰ appears in its configuration.
+
+**What should an "evaluate" answer end with?**
+An "evaluate" answer should end with a clear judgement after weighing the evidence. Listing points without a conclusion is a common way to lose a mark.
+
 ## Next steps
 
 - [Periodicity revision notes](/resources/aqa-a-level-chemistry-periodicity-revision-notes/)

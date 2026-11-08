@@ -348,6 +348,23 @@ sulfates get less soluble, so it gets larger.
 - Calling magnesium the oxidising agent in the titanium extraction. Magnesium is oxidised, so it is the
   reducing agent.
 
+## Frequently asked questions
+
+**Why does atomic radius increase down Group 2?**
+Each element down the group has one more occupied shell, so the outer electrons are further from the nucleus. The extra protons are offset by extra shielding from the additional inner shell.
+
+**Why does reactivity with water increase down Group 2?**
+Each metal loses its two outer electrons when it reacts, and these are lost more easily further down the group because ionisation energy decreases. Calcium, strontium and barium react with cold water to form hydroxides and hydrogen.
+
+**Why is barium chloride solution acidified in the test for sulfate ions?**
+The dilute hydrochloric or nitric acid removes carbonate (and sulfite) ions, which would also give a white precipitate with barium ions. A white precipitate of barium sulfate then shows that sulfate ions are present.
+
+**How do calcium oxide and calcium carbonate remove sulfur dioxide from flue gases?**
+Calcium oxide and calcium carbonate are bases, so they react with acidic sulfur dioxide to remove it from flue gases. The calcium carbonate route also releases carbon dioxide.
+
+**Is Required practical 4 part of Group 2 in AQA A-level Chemistry 7405?**
+Required practical 4, test-tube reactions to identify cations and anions, is listed at the end of section 3.2.3 but uses Group 2 directly. The two solubility trends give tests with sodium hydroxide and dilute sulfuric acid to distinguish Group 2 ions.
+
 ## Where to go next
 
 Condense this into the [revision notes](/resources/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals-revision-notes/),

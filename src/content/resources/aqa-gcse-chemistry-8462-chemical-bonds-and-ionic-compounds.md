@@ -302,6 +302,23 @@ ratio, look at the **repeating pattern** and check the charges.
 - Copying raw counts as a formula (Li₁₂O₆) instead of the simplest ratio (Li₂O).
 - Treating a diagram with positive particles and electrons as ionic. Ionic diagrams have **negative ions** too.
 
+## Frequently asked questions
+
+**What is an ionic compound?**
+An ionic compound is a giant structure of ions held together by strong electrostatic forces of attraction between oppositely charged ions. These forces act in all directions in the lattice.
+
+**Which compounds have ionic bonding?**
+Ionic bonding is found in compounds formed from metals combined with non-metals. Compounds of non-metals only, such as H₂O, are covalent.
+
+**Is there a required practical for chemical bonds and ionic compounds?**
+No. There is no required practical for sections 4.2.1.1 and 4.2.1.3 of AQA GCSE Chemistry 8462. The content is assessed on Paper 1 at both tiers.
+
+**What does "delocalised electrons" mean?**
+Delocalised electrons are outer electrons that are free to move through a whole metallic structure. They are shared through the structure rather than held between two particular atoms.
+
+**What is a giant structure?**
+A giant structure is a lattice that continues in all directions with no separate molecules. An ionic formula such as NaCl therefore gives a ratio of ions, not a molecule.
+
 ## Next steps
 
 - [Chemical bonds and ionic compounds revision notes](/resources/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds-revision-notes/)
