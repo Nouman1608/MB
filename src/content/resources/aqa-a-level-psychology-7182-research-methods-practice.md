@@ -1,6 +1,6 @@
 ---
 title: "AQA A-level Psychology (7182): Paper 2 -- Research Methods -- Practice Questions"
-seoTitle: "AQA A-level Psychology 7182: Research Methods Practice Questions"
+seoTitle: "AQA Psychology 7182: Research Methods Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["a-levels"]
