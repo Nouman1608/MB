@@ -231,6 +231,23 @@ Use this order for any graph or table question in this unit.
 - Writing "decomposers recycle energy". Matter is recycled, energy is not.
 - Assuming a large store of carbon automatically means a sink. Sink and source depend on the net flux.
 
+## Frequently asked questions
+
+**What is the difference between primary and secondary production?**
+Primary production is the build-up of carbon compounds in the biomass of autotrophs; secondary production is the build-up of carbon compounds in the biomass of heterotrophs.
+
+**Why is secondary production lower than primary production?**
+Cell respiration converts carbon compounds to carbon dioxide and water at each stage, and not all biomass is eaten, with some eaten material egested rather than assimilated.
+
+**Why does carbon dioxide concentration fall in summer on the Keeling Curve?**
+In the northern hemisphere growing season photosynthesis exceeds respiration, so CO₂ falls to a minimum around September or October; in autumn and winter respiration exceeds photosynthesis, so it rises to a peak around May.
+
+**Can a peatland be both a carbon sink and a carbon source?**
+Yes. Waterlogged peat decomposes very slowly, so carbon accumulates and it acts as a sink; if drained, oxygen lets decomposers respire the stored carbon, so it becomes a source.
+
+**Is energy recycled in ecosystems?**
+No. Matter, including carbon and elements such as phosphorus, is recycled by decomposers, but energy flows through ecosystems and leaves as heat.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Statements C4.2.15 to C4.2.22.

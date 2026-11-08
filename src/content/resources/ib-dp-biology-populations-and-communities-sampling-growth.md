@@ -251,6 +251,23 @@ Both release a chemical that deters competitors.
 - Saying a chi-squared result proves competition.
 - Confusing a parasite with a pathogen (causes disease).
 
+## Frequently asked questions
+
+**What is carrying capacity?**
+Carrying capacity is the largest population of a species that an environment can support indefinitely, limited by resources such as food, water, light, nesting sites, space and mineral nutrients.
+
+**What are the six types of interspecific relationship?**
+The six categories are herbivory, predation, interspecific competition, mutualism, parasitism and pathogenicity.
+
+**Why did the grey squirrel replace the red squirrel in Britain?**
+Grey squirrels digest acorns more efficiently, gain weight faster and survive at higher densities, so they outcompete red squirrels for food, and they also carry squirrelpox virus, which harms red squirrels more.
+
+**How do you calculate expected values in a chi-squared test for association?**
+For each cell of the 2 × 2 table, expected value = row total × column total ÷ grand total; then χ² = Σ (O − E)² ÷ E with 1 degree of freedom and a critical value of 3.84 at 5%.
+
+**What is the difference between top-down and bottom-up control?**
+Top-down control is when higher trophic levels limit lower ones, as predators limit herbivores; bottom-up control is when resources such as nutrients limit producers and everything that feeds on them.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section C4.1, Populations and communities.

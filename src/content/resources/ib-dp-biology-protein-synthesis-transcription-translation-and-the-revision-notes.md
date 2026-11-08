@@ -218,6 +218,20 @@ Example to remember: sickle cell disease. GAG (glutamic acid) becomes GUG (valin
 - Saying the ribosome moves "along the DNA".
 - Giving only one mark's worth of detail for a question worth several points.
 
+## Frequently asked questions
+
+**What is the difference between a codon and an anticodon?**
+A codon is three bases on mRNA that specify one amino acid or a stop signal; an anticodon is three bases on tRNA that pair with the codon by complementary base pairing.
+
+**What do degeneracy and universality of the genetic code mean?**
+Degeneracy means most amino acids are coded by more than one codon; universality means almost all organisms use the same genetic code, so genes can be moved between species.
+
+**What are the A, P and E sites on a ribosome?**
+A new tRNA carrying an amino acid enters the A site, the tRNA holding the growing chain sits in the P site, and empty tRNAs leave from the E site. This is HL-only content in IB DP Biology D1.2.
+
+**What happens to the stop codon when translating an mRNA?**
+Translation ends at the stop codon, which codes for no amino acid; adding an amino acid for the stop codon is a common error.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. This page is a paraphrase aligned to section D1.2.
