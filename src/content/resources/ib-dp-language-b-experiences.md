@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Study guide to the Experiences theme of IB DP Language B: its guiding principle, six recommended topics, narrative language and text types."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches **Experiences**, the second of the five prescribed themes in the content
@@ -242,6 +244,20 @@ the text describes*), never "everyone in country X…".
   [subject overview](/resources/ib-dp-language-b-subject-guide/),
   [exam preparation](/resources/ib-dp-language-b-exam-preparation/) and
   [assessment revision notes](/resources/ib-dp-language-b-assessment-revision-notes/)
+
+## Frequently asked questions
+
+**What are the recommended topics for Experiences in IB Language B?**
+The optional recommended topics are leisure activities, holidays and travel, life stories, rites of passage, customs and traditions, and migration. The theme is prescribed, but your teacher chooses which topics to teach.
+
+**What is the guiding principle of the Experiences theme?**
+The IB DP Language B brief states it as "Explore and tell the stories of the events, experiences and journeys that shape our lives." It is the theme most tied to narrating.
+
+**Which past tenses matter for Experiences writing?**
+Most languages distinguish a completed past event from a background or repeated past situation, such as the French passé composé and imparfait or the Spanish pretérito indefinido and imperfecto. Mixing them up is a language error.
+
+**How should you write about other cultures' customs?**
+Use specific examples from texts you have studied and hedged language such as "in some families", never generalisations like "everyone in country X".
 
 ## Official syllabus
 

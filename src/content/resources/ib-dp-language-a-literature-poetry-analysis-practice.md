@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Original poetry analysis questions for IB DP Language A: Literature on Blake and two new poems, with model paragraphs, marked answers and examiner tips."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -201,6 +203,20 @@ As with Question 11, real comparative work is marked holistically against the IB
 - [Printable checklist](/checklists/ib/ib-dp/language-a-literature/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Can a poem appear on IB Literature Paper 1?**
+Yes. Paper 1 of IB DP Language A: Literature is a guided analysis of unseen literary passages from different text types, so an unseen poem is a real possibility at both SL and HL.
+
+**Why do poetry answers lose marks?**
+Common reasons are naming a device without its effect in this poem, scanning a line by guessing syllables rather than counting them, missing the turn in a poem, and quoting whole lines instead of the key words.
+
+**Can a symbol in a poem have more than one meaning?**
+Yes. Avoid claiming one fixed meaning for a symbol such as Blake's worm; offer the strongest reading the poem supports and say what it "may suggest".
+
+**How should you compare two poems?**
+Link the poems point by point rather than writing about one and then the other with no connection between them.
 
 ## Official syllabus
 

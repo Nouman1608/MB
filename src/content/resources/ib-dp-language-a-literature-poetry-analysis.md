@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Study guide to reading poems closely for IB DP Language A: Literature: voice, form, sound, imagery and structure, and how to write an analytical paragraph."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches you how to read and write about poetry for IB Diploma Programme Language A:
@@ -238,6 +240,20 @@ meaning.
 - Linking poems to other texts: [intertextuality study guide](/resources/ib-dp-language-a-literature-intertextuality/).
 - The whole course: [syllabus guide](/resources/ib-dp-language-a-literature-syllabus-guide/) and
   [subject guide](/resources/ib-dp-language-a-literature-subject-guide/).
+
+## Frequently asked questions
+
+**What is the difference between a Petrarchan and a Shakespearean sonnet?**
+Both have 14 lines, usually in iambic pentameter. A Petrarchan sonnet splits into an octave of 8 lines and a sestet of 6; a Shakespearean sonnet has three quatrains and a closing couplet.
+
+**What is the difference between blank verse and free verse?**
+Blank verse is unrhymed iambic pentameter. Free verse has no regular metre or rhyme, though its line breaks still shape it.
+
+**What is apostrophe in poetry?**
+Apostrophe is when the speaker addresses an absent person or an object directly. It is one of the questions about voice: who speaks, to whom and in what tone.
+
+**How do you turn feature-spotting into analysis?**
+For each feature, ask what would be lost if the poet had written it differently, then explain what the feature does to the poem's meaning. In IB DP Language A: Literature, "this makes it flow" is not enough.
 
 ## Official syllabus
 

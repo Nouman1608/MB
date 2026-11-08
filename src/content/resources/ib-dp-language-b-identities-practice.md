@@ -12,13 +12,15 @@ order: 5
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-b-identities"
-description: "Original comprehension-style practice questions with full worked answers on the Identities theme, plus a Paper 1 writing-task planning exercise, for IB Diploma Programme Language B."
+description: "Original comprehension practice with worked answers on the Identities theme, plus a Paper 1 writing-task planning exercise, for IB DP Language B students."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -92,6 +94,17 @@ Once the comprehension approach above feels comfortable in English, repeat the s
 ## Why this practice set uses an English-language model text
 
 Because Language B is taught and examined in many different target languages, this set demonstrates the task types and skills (comprehension of a personal, reflective text, connecting specific detail to the theme's guiding question, planning a register-appropriate written response) in English so they can be directly adapted to genuine target-language material with a teacher, rather than assuming one specific target language. The comprehension text is deliberately built around personal, reflective content, matching the study guide's point that Identities leans more heavily on this kind of language than an issue-driven theme like Sharing the Planet.
+
+## Frequently asked questions
+
+**What is the Identities theme in IB Language B?**
+Identities is one of the five prescribed themes of IB DP Language B. It explores the nature of the self and what it is to be human, through topics such as lifestyles, health and well-being, beliefs and values, subcultures, and language and identity.
+
+**Why does this practice set use an English text?**
+Language B is taught and examined in many target languages, so the set models the task types and skills in English. Repeat the same tasks on an authentic target-language text with your teacher.
+
+**How do you answer a comprehension question on an Identities text?**
+Connect the specific detail in the passage, such as what changed, when and why, to the broader question of how language and culture shape identity, rather than only extracting isolated facts.
 
 ## Official syllabus
 

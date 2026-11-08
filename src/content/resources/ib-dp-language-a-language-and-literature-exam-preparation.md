@@ -8,13 +8,15 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language A: Language and Literature"]
 order: 4
-description: "Paper-by-paper exam preparation for IB DP Language A: Language and Literature -- working from Paper 1's guiding question, building a genuine comparative Paper 2 essay, framing a tightly-scoped individual oral, a worked scenario and a checklist."
+description: "Exam preparation for IB DP Language A: Language and Literature: Paper 1's guiding question, a comparative Paper 2, a focused individual oral and the HL essay."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 The [assessment revision notes](/resources/ib-dp-language-a-language-and-literature-assessment-revision-notes/)
@@ -126,6 +128,20 @@ the literary work and the body of work, rather than surveying a broad theme in g
 4. Because it is produced independently, outside exam conditions, with regular formative feedback but
 written advice on only one complete draft (which the teacher may not edit), so examiners expect more sustained argument and more precisely selected textual
 evidence than a timed response can typically produce.
+
+## Frequently asked questions
+
+**How do you use the guiding question in IB Language and Literature Paper 1?**
+Read the guiding question before you annotate the unseen text, and use it to decide which features to discuss. A technically accurate commentary that ignores the guiding question still loses marks.
+
+**How should you structure a Paper 2 comparative essay?**
+Build one sustained argument that discusses both literary works together on each point, rather than writing a separate mini-essay on each text. Check that every body paragraph refers to both works.
+
+**How long can the extracts be for the individual oral?**
+For the IB DP Language A: Language and Literature individual oral, you choose an extract of no more than 40 lines from your literary work and one from your non-literary body of work.
+
+**How much help can a teacher give on the HL essay?**
+Teachers give regular formative feedback but must not edit or correct the writing. Near the end, a teacher may give written advice on one complete draft, and the next version submitted after that must be the final one.
 
 ## Official syllabus
 

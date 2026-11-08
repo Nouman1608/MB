@@ -145,3 +145,17 @@ Set up by the Law Commissions Act 1965: a chair who is a senior judge and four o
 5. Name the two tiers created by the Tribunals, Courts and Enforcement Act 2007.
 
 **Answers:** 1. It must have existed since time immemorial, be reasonable, certain and exercised as of right. 2. The Commission. 3. Reform, codification, consolidation and repeal. 4. The intermediate track, if it meets its conditions; otherwise the multi-track. 5. The First-tier Tribunal and the Upper Tribunal.
+
+## Frequently asked questions
+
+**What are the three elements of the rule of law in the AQA specification?**
+AQA A Level Law 7162 names three: no person shall be sanctioned except in accordance with the law, equality before the law, and fairness and clarity.
+
+**What is the difference between EU regulations and directives?**
+Regulations are directly applicable in all member states without national legislation. Directives bind states as to the result but leave the method to them; saying directives are directly applicable is a common trap.
+
+**What is the difference between a tribunal and mediation?**
+A tribunal makes a decision on the dispute, while in mediation a neutral mediator helps the parties reach their own agreement and does not impose one.
+
+**What are the advantages and disadvantages of the Law Commission?**
+It is independent of government, expert, consults widely and produces draft Bills. Its main weakness is that it depends on government and parliamentary time to implement its reports, so many go unimplemented.

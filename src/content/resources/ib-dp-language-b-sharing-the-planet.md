@@ -12,13 +12,15 @@ order: 2
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-b-sharing-the-planet"
-description: "Environment, human rights, peace and conflict, equality, globalization, ethics, and urban/rural environments -- one of the five compulsory themes of IB Diploma Programme Language B, first assessment 2020, examined through unseen material on Paper 2."
+description: "Sharing the planet in IB DP Language B: environment, human rights, peace, equality, globalization, ethics and urban and rural life, plus how it is examined."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Sharing the Planet**, one of five compulsory
@@ -162,6 +164,17 @@ issue-driven texts.
   globalization-related image spontaneously for the individual oral.
 - At HL, identify any connection between your studied literary works
   and this theme ahead of the oral assessment.
+
+## Frequently asked questions
+
+**Which text types suit Sharing the planet in Paper 1?**
+In IB DP Language B, this issue-driven theme often suits professional and mass-media text types such as an opinion article, report or formal letter, but the text type is set by each session's exam instructions.
+
+**How should you prepare Sharing the planet for the oral?**
+At SL, practise discussing an environmental, human-rights or globalization image spontaneously in the target language. At HL, identify early any link between your two literary works and the theme.
+
+**What is the most common mistake on this theme?**
+Revising only one or two of the seven recommended topics, when Paper 2's unseen material could draw on any of them. Under-preparing listening and reading is another.
 
 ## Official syllabus
 

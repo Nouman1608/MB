@@ -12,13 +12,15 @@ order: 4
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-a-language-and-literature-readers-writers-and-texts"
-description: "Original practice questions with full worked answers applying close-reading technique to both literary and non-literary texts, for the Readers, Writers and Texts component of IB Diploma Programme Language A: Language and Literature."
+description: "Original practice questions with worked answers on close reading of literary and non-literary texts for Readers, writers and texts in IB DP Lang and Lit."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -85,6 +87,20 @@ and [revision notes](/resources/ib-dp-language-a-language-literature-readers-wri
 **7.** Because Paper 1's guided textual analysis is set on unseen non-literary passages specifically, non-literary analysis is not a secondary or optional skill in this subject -- it is directly, externally examined, in a format that gives no advance knowledge of which passage will appear. A student who has practised close reading mainly on literary texts, on the assumption that non-literary texts are more straightforwardly "read for content" than "read for craft," arrives at Paper 1 under-prepared for exactly the paper most likely to test unfamiliar material under time pressure. Non-literary texts are, in fact, just as deliberately constructed as literary ones -- an advertisement's colour choices, a news article's paragraph ordering, a website's use of white space -- and reward the same two-part analytical process (identify a specific choice, explain its effect) that literary analysis uses. Treating non-literary texts as "easier" therefore risks under-preparing for the paper that is, structurally, the clearest signal of how central non-literary analysis is to this specific subject, as distinct from Language A: Literature, which studies literary texts only. **[8]**
 
 **8.** In a literary text, visual and spatial elements might include a graphic novel's panel layout and sizing, where a full-page panel can slow a reader's pace and emphasise a single dramatic moment, while a sequence of small, rapid panels can convey urgency or chaos. In a non-literary text, visual and spatial elements might include a website's or advertisement's use of image, white space and typography -- for example, a large amount of white space around a small amount of text can direct a reader's eye immediately to that text and imply exclusivity or calm, while a densely packed layout with bold typography can imply urgency or a sale. In both cases, analysis that discusses only the words and ignores these visual and spatial choices misses half of how such texts actually communicate meaning, since neither a graphic novel nor a modern advertisement is designed to be read as words alone. **[6]**
+
+## Frequently asked questions
+
+**What does Readers, writers and texts cover in IB Language and Literature?**
+It is the foundational area of exploration of IB DP Language A: Language and Literature, covering how a writer's choices of language, form and structure shape meaning and how readers actively construct interpretations, across both literary and non-literary texts.
+
+**How do you answer a close-reading question on a short passage?**
+Identify the specific choice the writer has made, then explain the effect it creates for the reader, connected to the text's purpose and audience. Naming a technique without its effect earns far less.
+
+**Should you analyse layout and images in a non-literary text?**
+Yes. For multimodal texts such as adverts and webpages, layout, image and typography are part of how the text communicates, so analysis of the words alone misses much of it.
+
+**Is a text always meant to have one fixed meaning?**
+No. Where relevant, comment on how confidently or ambiguously a reader can settle on one interpretation, since texts are not always designed to produce a single, fixed meaning.
 
 ## Official syllabus
 

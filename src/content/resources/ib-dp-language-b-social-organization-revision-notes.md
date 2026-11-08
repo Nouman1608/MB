@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Revision notes for IB DP Language B Social organization: the six topics, rule and obligation language, formal register, key distinctions and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These notes condense the [Social organization study guide](/resources/ib-dp-language-b-social-organization/),
@@ -239,6 +241,20 @@ The same content for the manager of the leisure centre:
 - Writing only about rules imposed from above and forgetting how people organize themselves.
 - Stating unchecked "facts" about a target-language country's laws or schools instead of using a
   text you have studied.
+
+## Frequently asked questions
+
+**What is the difference between "don't have to" and "must not"?**
+"Don't have to" means there is no obligation, so you may do it if you like; "must not" is a prohibition. In German, for example, "Du musst nicht" means you don't have to, while "Du darfst nicht" means you must not.
+
+**What is the difference between a rule and a law?**
+A rule is set by a group or organization, such as a school or club, for its members. A law is made by the state, applies to everyone in its area and carries legal penalties.
+
+**What is the difference between community and society?**
+A community is a group linked by place or shared interest, such as a neighbourhood or club. A society is the wider organized whole, with its laws and institutions.
+
+**What are the recommended topics for Social organization?**
+The optional recommended topics in IB DP Language B are social relationships, community, social engagement, education, the working world, and law and order.
 
 ## Official syllabus
 

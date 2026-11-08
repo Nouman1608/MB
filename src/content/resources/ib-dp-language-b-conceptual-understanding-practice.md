@@ -20,10 +20,12 @@ syllabusTopics:
 description: "Original IB DP Language B practice on audience, context, purpose, meaning and register: three new passages, a comparison plan and worked answers."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -188,6 +190,20 @@ A closing call to action [1]. **[8]**
 - Tick off the [printable checklist](/checklists/ib/ib-dp/language-b/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**What are the five conceptual understandings in IB Language B?**
+The IB DP Language B subject brief names context, audience, purpose, meaning and variation. Students use them to read texts and to write in the right way for a task.
+
+**Why do conceptual understanding answers lose marks?**
+Common reasons are naming a register or tone with no quotation to prove it, giving only one purpose when a text has two, and treating an inference as a stated fact.
+
+**How do you answer a true or false question with justification?**
+Make the decision and support it with the specific words from the text that prove it. A correct decision with no justification is a common way to lose marks.
+
+**What makes a good register rewrite?**
+Keep the facts but change the form of address, sentence types and vocabulary for the new audience, then check that nothing from the old register is left behind.
 
 ## Official syllabus
 

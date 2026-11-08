@@ -19,13 +19,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "english-legal-system-9084"
     subtopic: "legal-personnel-9084"
-description: "Original exam-style practice questions with full worked answers on civil and criminal law, the criminal courts and classification of offences, the jury, barristers, solicitors and legal executives, and judicial independence."
+description: "Original practice questions with worked answers on civil and criminal law, courts, offences, juries, legal personnel and judicial independence for Law 9084."
 author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -84,3 +86,14 @@ It matters because judges must be able to **decide cases against the government 
 - Saying either-way offences are tried only in the Crown Court.
 - Listing jury advantages without explaining them.
 - Describing judicial independence without linking it to the rule of law.
+
+## Frequently asked questions
+
+**How do you answer a Cambridge A Level Law "explain three advantages" question?**
+For each advantage, state the point and then explain why it matters, ideally with an example or case. In Cambridge AS and A Level Law 9084, listing advantages without explaining them is a common way to lose marks.
+
+**What are common mistakes in English legal system questions?**
+Common slips include reversing the civil and criminal standards of proof, saying either-way offences are tried only in the Crown Court, and describing judicial independence without linking it to the rule of law.
+
+**Should you cite cases in English legal system answers?**
+Yes, where relevant. In Law, cases are the evidence that supports a point, so name them when you explain how a rule or institution works.

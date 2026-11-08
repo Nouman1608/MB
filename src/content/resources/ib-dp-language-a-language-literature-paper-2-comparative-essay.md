@@ -18,10 +18,12 @@ syllabusTopics:
 description: "How to plan and write the Paper 2 comparative essay for IB DP Language A: Language and Literature: choosing works, thesis, woven comparison and evidence."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches the Paper 2 comparative essay for IB Diploma Programme Language A: Language
@@ -251,6 +253,20 @@ Related: [Time and space](/resources/ib-dp-language-a-language-literature-time-a
 [Readers, writers and texts](/resources/ib-dp-language-a-language-literature-readers-writers-texts/),
 the [syllabus guide](/resources/ib-dp-language-a-language-and-literature-syllabus-guide/) and the
 [subject guide](/resources/ib-dp-language-a-language-and-literature-subject-guide/).
+
+## Frequently asked questions
+
+**How many works should you prepare for Paper 2?**
+Prepare at least three literary works well, rather than only two, so you are not stuck when no question suits a single pair. Works that differ in form or in time and place give you more to compare.
+
+**How many questions do you choose from in Paper 2?**
+In IB DP Language A: Language and Literature Paper 2, you answer one question chosen from four, writing a comparative essay on two literary works.
+
+**What makes a strong comparative thesis?**
+A strong thesis names both works, makes one claim that uses the question's key term, and says how the works differ in method or effect.
+
+**Should you memorise an essay for Paper 2?**
+No. A memorised essay rarely answers the question set. Instead, list three similarities and three differences in method for each pair of works, and adapt that list on the day.
 
 ## Official syllabus
 

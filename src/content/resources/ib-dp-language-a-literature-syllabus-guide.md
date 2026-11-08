@@ -9,13 +9,15 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language A: Literature"]
 syllabusSeries: "First assessment 2021"
 order: 2
-description: "The three areas of exploration of IB Diploma Programme Language A: Literature -- Readers, writers and texts; Time and space; Intertextuality -- and how the course's exclusively literary reading list is examined, for first assessment 2021."
+description: "The three areas of exploration of IB DP Language A: Literature, with teaching hours, works studied and how its all-literary reading list is examined."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers the full syllabus structure of **IB Diploma Programme
@@ -166,6 +168,20 @@ student's language A teacher, based on where a student's genuine
 interest and reading strength lie, rather than on any perceived
 difficulty difference between them -- both are assessed to the same
 standard and carry equal recognition.
+
+## Frequently asked questions
+
+**How many teaching hours does IB Language A: Literature have?**
+IB DP Language A: Literature has 150 teaching hours at SL and 240 at HL, split evenly across the three areas of exploration. The guide treats this split as a recommendation, not a binding rule.
+
+**What are the three areas of exploration in IB Literature?**
+They are Readers, writers and texts; Time and space; and Intertextuality: connecting texts. All three study literary works only.
+
+**Is IB Literature harder than IB Language and Literature?**
+No. The two courses are alternatives, assessed to the same standard and carrying equal recognition. Students usually choose with their Language A teacher based on where their interest and reading strengths lie.
+
+**How should you prepare for unseen passages in IB Literature Paper 1?**
+Practise with unfamiliar poems, prose extracts and drama excerpts beyond your set texts throughout the course. Paper 1 tests transferable close reading, not memorised knowledge of a particular work.
 
 ## Official syllabus
 

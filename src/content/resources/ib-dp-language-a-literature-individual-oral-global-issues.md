@@ -18,10 +18,12 @@ syllabusTopics:
 description: "How to choose a global issue, pair a translated work with one in the language studied and structure the IB DP Language A: Literature oral."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide covers the individual oral in IB Diploma Programme Language A: Literature: choosing
@@ -261,6 +263,20 @@ A listener cannot see your headings. Use phrases such as "My first point about t
 - Comparison: [Intertextuality: connecting texts](/resources/ib-dp-language-a-literature-intertextuality/)
 - The whole course: [syllabus guide](/resources/ib-dp-language-a-literature-syllabus-guide/) and
   [subject guide](/resources/ib-dp-language-a-literature-subject-guide/)
+
+## Frequently asked questions
+
+**What does the IB Literature individual oral involve?**
+It is a prepared oral response on how one work originally written in the language studied and one work studied in translation approach a common global issue. In IB DP Language A: Literature it is internally assessed and taken at both SL and HL.
+
+**How do you test whether a global issue will work?**
+Check that it affects large numbers of people, crosses national and cultural borders, can be seen in ordinary local life, and that both works engage with it through specific choices you can quote. The last test matters most.
+
+**Should you structure the oral work by work or point by point?**
+Both can work. Work by work takes each extract and its links to the whole work in turn before comparing; point by point moves between both works within each aspect of the issue, which needs careful signposting.
+
+**What if your two works treat the issue differently?**
+Say so and explain why. Forcing the works to agree is a common error, and explaining a difference in perspective often makes the strongest comparison.
 
 ## Official syllabus
 

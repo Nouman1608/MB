@@ -20,10 +20,12 @@ syllabusTopics:
 description: "Study guide to the IB DP Language A: Literature HL essay: a line of inquiry on one work, research, drafting to 1,500 words and referencing."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide covers **the HL essay** in IB Diploma Programme Language A: Literature. It is
@@ -251,6 +253,20 @@ exploration behind your line of inquiry, see
 [Intertextuality: connecting texts](/resources/ib-dp-language-a-literature-intertextuality/). For the
 course structure, see the [syllabus guide](/resources/ib-dp-language-a-literature-syllabus-guide/)
 and the [subject overview](/resources/ib-dp-language-a-literature-subject-guide/).
+
+## Frequently asked questions
+
+**How many works is the IB Literature HL essay written on?**
+The HL essay in IB DP Language A: Literature is a 1,200 to 1,500 word essay on one literary work studied in the course, worth 20% of the final HL grade.
+
+**Is the HL essay internally or externally assessed?**
+The subject brief lists the HL essay with Paper 1 and Paper 2 under external assessment. The individual oral is the internal component.
+
+**How do you test a line of inquiry before drafting?**
+Check that someone could disagree with it, that you have enough evidence (fewer than six logged moments usually means trouble), and that it fits the word limit without each section needing its own background. If it fails, change the question, not the evidence.
+
+**Are secondary sources required in the HL essay?**
+The subject brief does not say whether secondary sources are required, so check with your teacher. If you use a critic's idea, credit it even when you do not quote it.
 
 ## Official syllabus
 

@@ -20,10 +20,12 @@ syllabusTopics:
 description: "Original IB DP Language A: Literature HL essay practice on Chopin: line of inquiry, analysis, referencing, word-budget and essay-plan tasks."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -222,6 +224,20 @@ list three themes that sit side by side.
 - [Printable checklist](/checklists/ib/ib-dp/language-a-literature/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Is the HL essay a timed exam in IB Language A: Literature?**
+No. The HL essay in IB DP Language A: Literature is written coursework completed by HL students only, so practice for it trains the skills behind the essay rather than a timed paper.
+
+**Why do HL essays lose marks for quotations?**
+Common problems are long quotations dropped in as separate sentences, quotations that are never analysed, and misquoting. Even one missing word or a lost exclamation mark can change the meaning you are analysing.
+
+**How should you use historical context in the HL essay?**
+Use context only when it changes how a specific line is read, and bring it back to that line. Context that never returns to the text adds little to the argument.
+
+**Can you write about an allusion in a single-work essay?**
+Yes. Explaining how an allusion works inside the one work counts as intertextuality, but say what the allusion does in the work rather than only explaining its source.
 
 ## Official syllabus
 

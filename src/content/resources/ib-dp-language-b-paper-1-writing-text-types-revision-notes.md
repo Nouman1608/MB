@@ -24,10 +24,12 @@ syllabusTopics:
 description: "Condensed IB DP Language B revision notes for Paper 1 writing: register, audience, purpose and text-type conventions, with a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and worked examples, use the
@@ -213,6 +215,20 @@ Before the exam, write these down in your target language and learn them:
 - Choosing a task for its topic without the vocabulary to write about it.
 - Translating English formulas word for word instead of using the target-language ones.
 - At HL, describing or reporting without weighing, evaluating or answering an objection.
+
+## Frequently asked questions
+
+**What is the difference between a report and a proposal?**
+A report sets out findings and recommendations about what happened. A proposal argues for something that should happen, with a plan and its benefits.
+
+**What is the difference between an article and a blog post?**
+An article is usually third person and neutral, with a headline and quotations. A blog post is first person, more personal and invites comments from readers.
+
+**Which part of a text carries most of its conventions?**
+The opening and the closing carry most conventions, so draft them first when you plan a Paper 1 response.
+
+**Where do you find the Paper 1 word ranges and text-type list?**
+The IB DP Language B subject brief does not print the word ranges, the list of text types or the marking criteria. Your teacher will share them from the full subject guide.
 
 ## Official syllabus
 

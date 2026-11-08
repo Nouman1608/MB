@@ -12,13 +12,15 @@ order: 4
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-b-identities"
-description: "The nature of the self and what it means to be human -- lifestyles, health and well-being, beliefs, subcultures, and language and identity -- one of five compulsory themes of IB Diploma Programme Language B, first assessment 2020, examined through unseen material on Paper 2."
+description: "The Identities theme of IB DP Language B: lifestyles, health, beliefs, subcultures and language and identity, and how it appears in unseen Paper 2 texts."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Identities**, one of five compulsory themes for
@@ -156,6 +158,17 @@ works connects to the Identities theme, since the individual oral
 stimulus is drawn from one of them. Treat Identities as a lens applied
 fluently to unfamiliar material, rather than a fixed block of content
 to recall verbatim.
+
+## Frequently asked questions
+
+**What text types suit an Identities writing task?**
+Personal text types such as a blog post, diary entry or letter to a friend often suit Identities, but the syllabus does not fix the text type; it is set in each session's exam instructions, and register is assessed alongside content.
+
+**Is Identities a separate section of the IB Language B exam?**
+No. Like the other four themes, Identities is not a named exam section; it is one possible source for Paper 2's unseen texts, the Paper 1 writing task and the oral stimulus.
+
+**Why does culture matter when discussing identity?**
+Family structure, social expectations and the language used to discuss identity vary between cultures. Paying attention to how identity is discussed in your target-language culture strengthens both comprehension and your own responses.
 
 ## Official syllabus
 

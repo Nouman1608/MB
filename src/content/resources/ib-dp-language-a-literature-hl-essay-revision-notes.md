@@ -20,10 +20,12 @@ syllabusTopics:
 description: "Condensed IB DP Language A: Literature HL essay notes: key facts, line-of-inquiry method, word budgets, referencing rules and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These revision notes condense **the HL essay** in IB Diploma Programme Language A: Literature. They
@@ -215,6 +217,20 @@ set text.
 For the areas of exploration behind your question, revise
 [Readers, writers and texts](/resources/ib-dp-language-a-literature-readers-writers-texts-revision-notes/)
 and [Intertextuality: connecting texts](/resources/ib-dp-language-a-literature-intertextuality-revision-notes/).
+
+## Frequently asked questions
+
+**What is the difference between a primary and a secondary source in the HL essay?**
+The primary source is the literary work itself, which supplies almost all your evidence. Secondary sources are criticism, biography or history about the work or its context.
+
+**What word count should you aim for in the IB Literature HL essay?**
+The essay must be 1,200 to 1,500 words. Aiming for about 1,350 to 1,450 words leaves room for revisions without going out of range.
+
+**What is the difference between an ellipsis and square brackets in a quotation?**
+An ellipsis marks words you have cut from a quotation; square brackets mark words you have added or changed.
+
+**When should you read secondary criticism for the HL essay?**
+Read it after your own reading, so the thesis is yours, then use critics to test it and credit any idea you borrow.
 
 ## Official syllabus
 

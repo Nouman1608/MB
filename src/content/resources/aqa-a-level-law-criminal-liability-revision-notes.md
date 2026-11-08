@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Condensed recall notes on actus reus, mens rea, causation, transferred malice and strict liability for AQA A-Level Law (7162), General Elements of Liability."
 author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -119,6 +121,19 @@ for each element when the structure is visibly signposted.
 
 **Answers:** 1. But for the defendant's act, would the consequence have occurred? — it establishes factual causation. 2. Intention is the defendant's aim or purpose (or foreseeing a consequence as virtually certain); subjective recklessness is personally foreseeing a risk and unreasonably taking it anyway — a lower level of fault. 3. The harm actually caused to the unintended victim must be the same type of harm intended for the original victim. 4. Strict liability. 5. A "state of affairs" offence can be satisfied simply by being in a certain situation, regardless of any voluntary conduct, unlike an ordinary act which requires positive, voluntary conduct.
 
+## Frequently asked questions
+
+**What are the sources of a duty to act for omissions?**
+In AQA A Level Law 7162, a duty to act can arise from, for example, a contractual obligation, a special relationship such as parent and child, a voluntary assumption of responsibility for another person, or a statutory duty.
+
+**Can a jury find intention where a consequence was virtually certain?**
+Yes. Intention is the defendant's aim or purpose, and a jury may, but need not, also find intention where the defendant foresaw a consequence as virtually certain.
+
+**Does strict liability mean no fault at all?**
+Not exactly. A strict liability offence removes the need to prove mens rea for at least one element, which makes it the specification's named exception to the general rule.
+
+**How should you lay out a timed criminal liability answer?**
+Label each element as you address it, such as actus reus, mens rea, doctrine and conclusion, so the structure is visible rather than blurred in continuous prose.
 
 ## Related resources
 

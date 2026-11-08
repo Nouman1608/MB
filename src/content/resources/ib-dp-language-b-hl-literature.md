@@ -20,10 +20,12 @@ syllabusTopics:
 description: "HL-only study guide for IB DP Language B: how to read your two literary works, discuss an extract step by step and link it to the prescribed themes."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches the **HL literature strand** of IB Diploma Programme Language B: reading
@@ -254,6 +256,20 @@ literary excerpt is the stimulus for your oral.
   [subject overview](/resources/ib-dp-language-b-subject-guide/),
   [exam preparation](/resources/ib-dp-language-b-exam-preparation/) and
   [assessment revision notes](/resources/ib-dp-language-b-assessment-revision-notes/)
+
+## Frequently asked questions
+
+**How is the HL individual oral different from SL in IB Language B?**
+In IB DP Language B the oral is worth 25% and 30 marks at both levels. At SL the stimulus is a visual image; at HL it is an excerpt from one of the two literary works studied.
+
+**How should you read a literary work in a second language?**
+Read in passes: first quickly for the story, then with a dictionary for detail, then to mark 10 to 12 key passages. Keep a reading log, a character map and a timeline for each work.
+
+**How do you show range and complexity when discussing literature at HL?**
+Use precise verbs such as suggests, implies and foreshadows, complex sentences with concession and cause, hypothesis, hedging for interpretations, and references to the whole work.
+
+**What is a theme map for a literary work?**
+A theme map records, as you read, which passages of a work link to each prescribed theme and topic, so that when you meet an excerpt you know which link to make.
 
 ## Official syllabus
 

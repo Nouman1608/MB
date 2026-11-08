@@ -18,10 +18,12 @@ syllabusTopics:
 description: "Condensed IB DP Language and Literature notes on the individual oral: global issue tests, text pairing, oral structure, portfolio use and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These revision notes cover the individual oral in IB Diploma Programme Language A: Language and
@@ -231,6 +233,20 @@ and build tension in a story. Shared features give you the strongest comparisons
   and its [revision notes](/resources/ib-dp-language-a-language-literature-time-and-space-revision-notes/)
 - [Assessment revision notes](/resources/ib-dp-language-a-language-and-literature-assessment-revision-notes/)
 - [Exam preparation guide](/resources/ib-dp-language-a-language-and-literature-exam-preparation/)
+
+## Frequently asked questions
+
+**How much is the individual oral worth in IB Language and Literature?**
+The individual oral is worth 30% of the final grade at SL and 20% at HL in IB DP Language A: Language and Literature, and it is internally assessed.
+
+**What is the difference between a topic and a global issue?**
+A topic is a subject area, such as family or the environment. A global issue is a problem or tension within that area that people argue about, such as how caring for relatives falls unequally on daughters.
+
+**What is the difference between block and woven comparison?**
+Block comparison treats one text fully, then the other, and compares at the end. Woven comparison compares the two texts point by point throughout; either can work if both texts get balanced attention.
+
+**How can the learner portfolio help with the individual oral?**
+You can keep an issue log, a technique bank, pairing trials with draft theses and rehearsal reflections. Start the issue log when you begin each text, not when the oral is announced.
 
 ## Official syllabus
 

@@ -20,10 +20,12 @@ syllabusTopics:
 description: "Condensed IB DP Language B HL revision notes on literary works: key terms, the extract method, theme links and a quick self-test with answers."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and a fully worked extract, read the
@@ -200,6 +202,20 @@ Possible questions to keep ready:
 - [Identities revision notes](/resources/ib-dp-language-b-identities-revision-notes/) and
   [Sharing the planet revision notes](/resources/ib-dp-language-b-sharing-the-planet-revision-notes/)
 - [Assessment revision notes](/resources/ib-dp-language-b-assessment-revision-notes/)
+
+## Frequently asked questions
+
+**How many literary works do HL students study in IB Language B?**
+HL students of IB DP Language B study two literary works originally written in the target language, not translations into it.
+
+**Does the brief give the format of the HL individual oral?**
+No. The subject brief gives the oral's stimulus, weighting and marks, but not its format, timings or criteria, which your teacher will share.
+
+**What is the difference between a symbol and a motif?**
+A symbol stands for a larger idea; a motif is anything that recurs across a work. A recurring symbol is both.
+
+**Why should you revise both literary works?**
+The HL oral stimulus is an excerpt from one of the two literary works studied, so it can come from either work.
 
 ## Official syllabus
 

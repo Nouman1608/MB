@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Condensed revision notes on poetry terms, scansion, rhyme and paragraph method for IB DP Language A: Literature, with a quick self-test and answers."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and longer examples, start with the
@@ -205,6 +207,20 @@ from effect to an idea about the whole poem. That last step is what turns spotti
 - Exam-style questions: [poetry practice questions](/resources/ib-dp-language-a-literature-poetry-analysis-practice/).
 - Assessment components: [assessment revision notes](/resources/ib-dp-language-a-literature-assessment-revision-notes/).
 - Connecting texts: [intertextuality revision notes](/resources/ib-dp-language-a-literature-intertextuality-revision-notes/).
+
+## Frequently asked questions
+
+**What is the difference between form and structure in a poem?**
+Form is the poem's shape, such as its type, stanza pattern and rhyme scheme. Structure is how the poem moves: where it turns, what repeats and how it ends.
+
+**What is the difference between metre and rhythm?**
+Metre is the regular pattern of stressed and unstressed syllables. Rhythm is how the lines actually move, including departures from that pattern.
+
+**What is the difference between a metaphor and a symbol?**
+A metaphor makes an explicit transfer, such as Blake's "mind-forged manacles". A symbol is a literal thing in the poem that also points beyond itself.
+
+**What is a volta?**
+A volta is a turn in a poem's argument or mood. In a Petrarchan sonnet it usually falls at line 9, as in Rossetti's "Remember", where line 9 begins with "Yet".
 
 ## Official syllabus
 

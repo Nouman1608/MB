@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Original IB DP Lang and Lit practice on text-type conventions: a blog, an infographic, a cartoon and a photo, with marked answers and model plans."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -237,6 +239,20 @@ exaggeration, and explain what each exaggeration criticises.
 - [Printable checklist](/checklists/ib/ib-dp/language-a-language-and-literature/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**How do you analyse a non-literary text type in IB Language and Literature?**
+Name the conventions you can see in the passage, quote or describe them precisely, and explain what each does for this audience and purpose. Listing conventions from memory without evidence earns little.
+
+**How should you write about an infographic?**
+Ask which figure the design makes most salient and why, rather than taking the headline number on trust. Check the source line and judge what it does and does not support.
+
+**How do you analyse a cartoon or photograph with a caption?**
+Explain how the words anchor the image rather than treating caption and picture separately. For a cartoon, also explain the topical context a reader needs to get the point.
+
+**Which area of exploration covers non-literary text types?**
+In IB DP Language A: Language and Literature, non-literary text types and their conventions belong to Readers, writers and texts. The same content applies at SL and HL.
 
 ## Official syllabus
 

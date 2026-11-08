@@ -16,10 +16,12 @@ syllabusTopics:
 description: "IB DP Lang and Lit study guide to non-literary text types: adverts, editorials, speeches, blogs, infographics, photos, cartoons, reports, image and layout."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches the conventions of common **non-literary text types** for IB Diploma
@@ -237,6 +239,20 @@ See also
 [Time and space](/resources/ib-dp-language-a-language-literature-time-and-space/), the
 [subject guide](/resources/ib-dp-language-a-language-and-literature-subject-guide/) and the
 [assessment revision notes](/resources/ib-dp-language-a-language-and-literature-assessment-revision-notes/).
+
+## Frequently asked questions
+
+**What is a convention in a text type?**
+A convention is a feature readers expect in a given kind of text, such as a headline on a news report or a call to action on an advert. In IB DP Language A: Language and Literature you should say which convention you see, what it does and why it suits the audience and purpose.
+
+**Does the IB list which text types you must study?**
+No. The subject brief does not list required text types; adverts, editorials, speeches, blogs, infographics, photographs, cartoons and reports are common examples.
+
+**What are the conventions of a speech?**
+Common conventions include an opening address, reference to the occasion, inclusive "we", repetition, lists of three, rhetorical questions, short sentences and clear signposts. They exist because a listener cannot re-read.
+
+**Why is a broken convention worth writing about?**
+When a text does something unexpected for its type, such as an advert with no product in it, the reader notices. That deliberate choice is often the most interesting thing to analyse.
 
 ## Official syllabus
 

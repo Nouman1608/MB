@@ -11,13 +11,15 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language A: Language and Literature"]
 syllabusSeries: "First assessment 2021"
 order: 2
-description: "The three areas of exploration of IB Diploma Programme Language A: Language and Literature -- Readers, writers and texts; Time and space; Intertextuality -- and how the course's mix of literary and non-literary text study is examined, for first assessment 2021."
+description: "The three areas of exploration in IB DP Language A: Language and Literature, with teaching hours, works studied and how literary and non-literary texts are set."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers the full syllabus structure of **IB Diploma Programme
@@ -167,6 +169,20 @@ which reflects how closely related the two DP language A courses are in
 skill development -- the real difference between them is entirely in
 what kind of texts fill that shared structure, not in how much time is
 allocated or how the course is organised.
+
+## Frequently asked questions
+
+**How many teaching hours does IB Language and Literature have?**
+IB DP Language A: Language and Literature has 150 teaching hours at SL and 240 at HL, split evenly across the three areas of exploration. The IB treats this split as a recommendation, not a fixed rule.
+
+**What are the three areas of exploration?**
+They are Readers, writers and texts; Time and space; and Intertextuality: connecting texts. Each draws on both literary works and non-literary text types.
+
+**Is Paper 2 on literary or non-literary texts?**
+Paper 2's comparative essay is set on literary works only, while Paper 1 uses unseen non-literary texts. That is why it helps to keep literary and non-literary revision as separate tracks.
+
+**Can the HL essay be on a non-literary text?**
+Yes. The 1,200 to 1,500 word HL essay can be written on either a literary work or a non-literary body of work studied in class.
 
 ## Official syllabus
 

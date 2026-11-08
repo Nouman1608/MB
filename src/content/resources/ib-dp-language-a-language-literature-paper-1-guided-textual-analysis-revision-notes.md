@@ -18,10 +18,12 @@ syllabusTopics:
 description: "Condensed revision notes for IB DP Lang and Lit Paper 1: reading method, thesis and paragraph formulas, timing, and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These revision notes cover **Paper 1: guided textual analysis** for IB Diploma Programme Language A:
@@ -207,6 +209,20 @@ Questions 3 to 9 use the Pepper appeal above.
 - An introduction longer than a body paragraph, with no thesis.
 - A conclusion that lists the techniques again instead of saying how they work together.
 - Losing time on one paragraph so the conclusion is missing.
+
+## Frequently asked questions
+
+**What is the difference between a technique and an effect?**
+The technique is what the writer uses, such as a rhetorical question. The effect is what it makes the target reader think, feel or do, and only explaining the effect counts as analysis.
+
+**Do you have to discuss every feature in a Paper 1 passage?**
+No. In IB DP Language A: Language and Literature Paper 1, discuss only the features that help answer the guiding question.
+
+**What makes a strong Paper 1 thesis?**
+A strong thesis answers the guiding question with a claim about how the text works on its reader. A thesis that only lists techniques, such as emotive language and rhetorical questions, could describe almost any text.
+
+**Should you write about your own reaction in Paper 1?**
+Analyse the effect on the text's target audience rather than writing "this made me feel". You, the exam reader, may not be part of the audience the text was made for.
 
 ## Official syllabus
 

@@ -18,10 +18,12 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on parliamentary law making, delegated legislation, statutory interpretation and precedent."
 author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -78,3 +80,17 @@ Limitations in practice: **membership of international treaties and the European
 - Confusing overruling with reversing.
 - Giving a case name without explaining what it decided.
 - Saying obiter dicta is binding.
+
+## Frequently asked questions
+
+**What does Underlying Principles and Law Making cover in Edexcel A Level Law?**
+It covers parliamentary law making, parliamentary supremacy, delegated legislation, statutory interpretation and judicial precedent.
+
+**What are common mistakes on the legislative process?**
+Leaving out a stage, especially the committee stage or Royal Assent, is a frequent slip when describing how a Bill passes through Parliament.
+
+**Is it enough to name a case in a statutory interpretation answer?**
+No. Giving a case name without explaining what it decided earns little; say how the court applied the rule and what the outcome shows.
+
+**What precedent mistakes cost marks?**
+Common errors are saying obiter dicta is binding and confusing overruling with reversing. Only the ratio decidendi binds, and reversing applies to the same case on appeal.

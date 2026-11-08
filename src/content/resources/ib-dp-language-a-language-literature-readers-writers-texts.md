@@ -12,13 +12,15 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-a-language-and-literature-readers-writers-and-texts"
-description: "How a writer's choices of language, form and structure shape meaning across literary and non-literary texts, and how a reader actively constructs interpretation -- one of three equally-weighted areas of exploration of IB Diploma Programme Language A: Language and Literature, first assessment 2021."
+description: "How a writer's choices of language, form and structure shape meaning, and how readers build interpretations, in IB DP Language and Literature's first area."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Readers, Writers and Texts**, one of three
@@ -132,6 +134,20 @@ afterthought. Because Readers, Writers and Texts is not tested as a
 separate, named section on either paper, its vocabulary should feel
 fluent and automatic by the time Paper 1's unseen passage or Paper 2's
 comparative essay requires it under timed conditions.
+
+## Frequently asked questions
+
+**Is Readers, writers and texts tested as a separate section of the exam?**
+No. In IB DP Language A: Language and Literature it is not a named section on either paper; its close-reading vocabulary is used in Paper 1's unseen analysis and Paper 2's comparative essay.
+
+**How many teaching hours does Readers, writers and texts have?**
+It has 50 teaching hours at SL and 80 at HL, the same as each of the other two areas of exploration, Time and space and Intertextuality.
+
+**What is the difference between Readers, writers and texts in Language and Literature and in Literature?**
+Both IB Language A courses have a component with this name, but Language A: Literature studies only literary texts, while Language A: Language and Literature applies the same techniques to literary and non-literary texts side by side.
+
+**What is the most common way to lose marks in this component?**
+Naming a technique, such as irony or alliteration, without explaining the effect it creates for the reader. Name the specific choice and its effect in the same sentence.
 
 ## Official syllabus
 

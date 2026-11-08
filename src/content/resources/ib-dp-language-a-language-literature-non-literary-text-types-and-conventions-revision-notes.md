@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Condensed IB DP Lang and Lit revision notes: conventions of eight non-literary text types, image and layout terms, key distinctions and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These revision notes cover **non-literary text types and their conventions** for IB Diploma
@@ -182,6 +184,20 @@ built for listeners: it gives them a pause and a laugh before the argument begin
 - Missing a broken or absent convention, which is often the most interesting choice in the text.
 - Explaining a cartoon's image without the topical context the reader needs to understand it.
 - Discussing a speech as if it were read silently, with no comment on how it sounds.
+
+## Frequently asked questions
+
+**What is the difference between an editorial and an opinion column?**
+An editorial is unsigned and gives the publication's own view as "we". An opinion column is signed and gives one writer's view as "I".
+
+**What is anchorage?**
+Anchorage is when words, usually a caption, fix the meaning of an image by narrowing its possible readings. The same photograph can say different things under different captions.
+
+**What is the inverted pyramid in a news report?**
+The inverted pyramid puts the most important facts first and the background last. It is a key convention of news reports, as opposed to features, which often open with a scene or a person.
+
+**What is the difference between demand and offer in an image?**
+In a demand image the subject looks straight at the viewer, creating contact. In an offer image the subject looks away, inviting us to watch.
 
 ## Official syllabus
 
