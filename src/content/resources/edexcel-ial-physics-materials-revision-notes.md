@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Condensed recall notes on density, viscosity, Stokes law, Hooke law, the Young modulus and material properties for Edexcel International A Level Physics YPH11."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -164,3 +166,17 @@ For loading beyond the elastic limit, the loading and unloading curves differ an
 7. What is a yield point?
 
 **Answers:** 1. Weight downwards, upthrust upwards, and viscous drag upwards. 2. It decreases with temperature in liquids as intermolecular forces weaken, but increases with temperature in gases because faster molecular motion increases momentum transfer between layers. 3. The Young modulus is defined by stress and strain, which account for cross-sectional area and original length, so it depends only on the material. 4. The energy dissipated, usually as thermal energy — hysteresis. 5. Stiff means a high Young modulus; strong means a high breaking stress; tough means absorbing a large amount of energy before fracturing. 6. stress = 45 ÷ (1.5×10⁻⁷) = 3.0×10⁸ Pa; strain = 0.0030 ÷ 2.00 = 1.5×10⁻³; E = 2.0×10¹¹ Pa. 7. The point beyond the elastic limit where a material extends significantly with little or no increase in force.
+
+## Frequently asked questions
+
+**When does Stokes' law apply?**
+Stokes' law, F = 6πηrv, applies only to small spheres moving at low speed with laminar (non-turbulent) flow.
+
+**What forces act on a sphere falling at terminal velocity in a liquid?**
+Weight acts downwards, and upthrust and viscous drag act upwards. At terminal velocity, weight = upthrust + viscous drag; leaving out upthrust is the standard error.
+
+**What is hysteresis in rubber?**
+Hysteresis means the loading and unloading curves of rubber follow different paths. The area between them is energy dissipated, usually as heat, which is why a bouncing rubber ball warms up and does not return to its original height.
+
+**What is breaking stress?**
+Breaking stress is the maximum stress a material can withstand before it fractures. It is read from a stress-strain graph, which allows samples of different dimensions to be compared directly.

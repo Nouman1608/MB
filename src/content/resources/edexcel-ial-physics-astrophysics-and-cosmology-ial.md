@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-5-thermodynamics-radiation-oscillations-and-cosmology"
     subtopic: "astrophysics-and-cosmology"
-description: "Gravitational fields, black body radiation, astronomical distance measurement, the Hertzsprung-Russell diagram, redshift and the Hubble constant for sub-topic 5.6 of Pearson Edexcel International A Level Physics (YPH11), Unit 5."
+description: "Gravitational fields, black body radiation, parallax and standard candles, the HR diagram, redshift and the Hubble constant: 5.6 of Edexcel IAL Physics (YPH11)."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
@@ -219,6 +221,20 @@ reverse of a conventional numerical axis).
 - Sketch and interpret a Hertzsprung-Russell diagram, and relate it to stellar life cycles.
 - Explain the Doppler effect and use z ≈ Δf/f ≈ Δλ/λ ≈ v/c and v = H0d.
 - Describe the Hubble constant controversy and its link to the age/fate of the universe and dark matter.
+
+## Frequently asked questions
+
+**What is a black body radiator?**
+A black body radiator absorbs all radiation incident on it and re-emits radiation whose spectrum depends only on its temperature. Its total power is given by L = σAT⁴ and its peak wavelength by Wien's law, λmaxT = 2.898 × 10⁻³ m K.
+
+**How are astronomical distances measured?**
+For relatively close stars, trigonometric parallax uses the apparent shift in a star's position against distant background stars as Earth orbits the Sun. For greater distances, standard candles of known luminosity give distance from the measured intensity using I = L/4πd².
+
+**How is the HR diagram plotted?**
+A Hertzsprung-Russell diagram plots stellar luminosity against surface temperature, with luminosity increasing upwards and temperature decreasing from left to right. It shows the main sequence, red giants and white dwarfs.
+
+**Why is the Hubble constant controversial?**
+Edexcel IAL Physics requires you to understand the controversy over the value of the Hubble constant, because it affects estimates of the age and ultimate fate of the universe, together with the possible existence of dark matter.
 
 ## Related resources
 

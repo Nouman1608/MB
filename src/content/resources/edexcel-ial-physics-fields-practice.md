@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-4-further-mechanics-fields-and-particles"
     subtopic: "electric-and-magnetic-fields"
-description: "Original exam-style practice questions with full worked answers on electric fields, capacitance and electromagnetic induction for Edexcel International A Level Physics YPH11 (Unit 4, WPH14)."
+description: "Original practice questions with worked answers on electric fields, capacitance and induction for Edexcel IAL Physics YPH11 (Unit 4, WPH14)."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -137,3 +139,17 @@ Related: [Electric and Magnetic Fields revision notes](/resources/edexcel-ial-ph
 - Stating Lenz's law without linking it to conservation of energy.
 - Forgetting the sign of a charge when summing potentials at a point due to multiple charges.
 - Confusing the gradient of a ln(Q)-against-t graph with RC itself, rather than −1/RC.
+
+## Frequently asked questions
+
+**What is Core Practical 11 in Edexcel IAL Physics?**
+Core Practical 11 uses an oscilloscope or data logger to display and analyse the p.d. across a capacitor as it charges and discharges through a resistor.
+
+**How are equipotentials related to field lines?**
+Equipotentials, surfaces of constant potential, are always perpendicular to the field lines, for both radial and uniform fields. Drawing them parallel to field lines is a common error.
+
+**Why does a transformer need alternating current?**
+Only a continuously changing flux gives a rate of change of flux linkage and so an induced e.m.f. Direct current produces a constant flux, so nothing is induced.
+
+**What mistakes lose marks in Edexcel IAL fields questions?**
+Common errors include applying the inverse square law to a uniform field, forgetting the ½ in capacitor energy, forgetting the sign of a charge when adding potentials, and taking the gradient of a ln Q graph as RC rather than −1/RC.
