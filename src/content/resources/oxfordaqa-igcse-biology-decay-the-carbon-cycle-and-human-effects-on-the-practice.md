@@ -175,6 +175,20 @@ Green plants take carbon dioxide from the air by **A**. Carbon compounds pass to
 - Take [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What conditions make decay fastest?**
+Microorganisms digest dead material fastest in warm, moist, aerobic conditions. Writing "hot" instead of warm loses credit, because very high temperatures denature the microorganisms' enzymes.
+
+**Why does decay slow down in waterlogged soil?**
+Too much water fills the spaces between particles, so oxygen cannot reach the microorganisms and decay slows. Not linking waterlogging to a lack of oxygen is a common way to lose marks.
+
+**What uses up the oxygen in eutrophication?**
+The oxygen is used up by the respiration of microorganisms feeding on dead algae and plants, not by the algae themselves. Blaming the algae is a frequent error in OxfordAQA 9201 answers.
+
+**Does a correlation between carbon dioxide and temperature prove cause?**
+No. Data showing carbon dioxide and temperature rising together fit the explanation for global warming, but correlation alone does not prove cause, and evaluate questions expect you to say so.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), Version 5.2, for exams May/June 2018 onwards, sections 3.3.3 and 3.3.4. Published by OxfordAQA.

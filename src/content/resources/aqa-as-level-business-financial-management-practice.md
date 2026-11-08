@@ -181,6 +181,20 @@ These questions cover **3.1.4 Financial management** in AQA AS Business (7137), 
 - Check progress with [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate gearing in AQA AS Business?**
+Gearing (%) = non-current liabilities ÷ capital employed × 100, where capital employed is total equity plus non-current liabilities. Calculating debt ÷ equity instead is a common error.
+
+**How do you decide whether a variance is adverse or favourable?**
+Judge it by its effect on profit, not by whether the number is positive or negative: higher revenue or lower cost than budget is favourable, and lower revenue or higher cost is adverse.
+
+**Should break-even output be given as a decimal?**
+No. Round break-even output up to a whole unit, because a business cannot sell part of a unit and rounding down would leave it short of breaking even.
+
+**What is the difference between break-even output and margin of safety?**
+Break-even output is where total revenue equals total costs. Margin of safety is how far planned or actual output is above break-even. Mixing them up loses marks.
+
 ## Official syllabus
 
 AQA AS and A-level Business (7137, 7138) specification, Version 1.1 (November 2025), for first teaching from September 2026: section 3.1.4 Financial management and Annex 7, Formulae and key data. Checked against these questions on 5 November 2026.

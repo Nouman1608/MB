@@ -9,13 +9,15 @@ qualifications: ["igcse"]
 syllabusCodes: ["9201"]
 syllabusSeries: "First teaching 2016, first examined 2018"
 order: 3
-description: "Why either OxfordAQA International GCSE Biology 9201 paper can assess any part of the specification, how practical knowledge is examined without a practical exam, and a worked unfamiliar-organism routine."
+description: "Why either OxfordAQA International GCSE Biology 9201 paper can assess any topic, how practicals are examined in writing, and a routine for unfamiliar organisms."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 OxfordAQA International GCSE Biology (9201) is a linear, untiered qualification designed to be taken
@@ -126,6 +128,20 @@ content -- measurements, controls, errors and improvements. 3. Marks answered sh
 minutes elapsed, which makes pacing simple to monitor throughout. 4. Naming the underlying biological
 principle before engaging with the unfamiliar detail, since the principle is always one that has been
 studied.
+
+## Frequently asked questions
+
+**How many papers are there in OxfordAQA International GCSE Biology 9201?**
+There are two equally weighted written papers. Each lasts 1 hour 30 minutes, carries 90 marks and is worth 50% of the qualification.
+
+**Is OxfordAQA International GCSE Biology tiered?**
+No. It is a linear, untiered qualification designed to be taken over two years, so every candidate sits the same two papers.
+
+**Can you take OxfordAQA Biology and Combined Science in the same series?**
+No. OxfordAQA's Prohibited Combinations rule means a centre cannot enter a student for both a separate science and Combined Science in the same series.
+
+**What should you be able to write about each required practical?**
+Be able to write from memory what was measured, what was controlled, the main source of error and one improvement that targets it, because practical knowledge is assessed through the written papers.
 
 *Written against the assessment section of OxfordAQA's own International GCSE Biology (9201)
 qualification page (official OxfordAQA page, verified 2026-08-28). The application routine above is an

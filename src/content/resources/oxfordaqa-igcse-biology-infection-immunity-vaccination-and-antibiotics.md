@@ -265,6 +265,23 @@ Reasons for variation to control: the same bacterium, the same agar depth, the s
 
 Test yourself with the [practice questions](/resources/oxfordaqa-igcse-biology-infection-immunity-vaccination-and-antibiotics-practice/), then use the [revision notes](/resources/oxfordaqa-igcse-biology-infection-immunity-vaccination-and-antibiotics-revision-notes/) close to the exam.
 
+## Frequently asked questions
+
+**How does vaccination make a person immune?**
+A small quantity of dead or inactive pathogen is put into the body, which stimulates white blood cells to make the specific antibody. If the real pathogen enters later, the correct antibody is made rapidly, so the person does not become ill.
+
+**What does the MMR vaccine protect against?**
+The MMR vaccine protects children against measles, mumps and rubella. The specification does not require vaccination schedules or the side effects of particular vaccines.
+
+**What is MRSA?**
+MRSA is one of many strains of bacteria that have developed resistance to antibiotics. Because resistant strains keep appearing, new antibiotics have to be developed.
+
+**Why is the lid of an agar plate not sealed completely in the required practical?**
+The lid is fixed loosely, for example with a couple of small pieces of tape, so that air can enter. School cultures are normally incubated at about 25 °C, below human body temperature.
+
+**Which section of OxfordAQA 9201 Biology covers infection and response?**
+Section 3.4.7, Infection and response, parts a to j, together with the required practical on the effect of disinfectants and antibiotics on cultures of microorganisms.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), section 3.4.7 Infection and response and the required practical on disinfectants and antibiotics. Specification Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA.

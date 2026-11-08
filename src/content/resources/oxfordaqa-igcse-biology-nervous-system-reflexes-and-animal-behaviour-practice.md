@@ -167,6 +167,20 @@ These questions are aligned to the OxfordAQA International GCSE Biology (9201) s
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to find your next weak spot.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the parts of the central nervous system?**
+The central nervous system is the brain and the spinal cord. Sensory neurones carry impulses from receptors into the CNS and motor neurones carry them out to effectors.
+
+**What is the difference between habituation and classical conditioning?**
+In habituation an animal learns to ignore a repeated, harmless stimulus. In classical conditioning an animal links a neutral stimulus with a natural one, such as a dog salivating at a bell that has been paired with food. Confusing these is a common error.
+
+**How do effectors respond to nerve impulses?**
+Muscles respond by contracting and glands respond by secreting. Saying a gland contracts or a muscle secretes loses marks.
+
+**What wording should you use in nervous system answers?**
+Use "impulse" and "neurone", not "message" or "nerve", and mention the chemical released at each synapse when describing a reflex arc.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA: sections 3.4.1 and 3.4.6.

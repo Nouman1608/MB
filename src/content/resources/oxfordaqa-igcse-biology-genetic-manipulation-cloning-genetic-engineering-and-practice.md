@@ -166,6 +166,20 @@ These questions cover section 3.5.5 (Genetic manipulation, parts a to f) of the 
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is a clone in IGCSE Biology?**
+A clone is an organism that is genetically identical to its parent or to the others in its group. Describing clones as "similar" rather than genetically identical loses the mark.
+
+**What is the most common mistake in adult cell cloning answers?**
+Leaving out that the nucleus is removed from the egg cell before the nucleus from the adult body cell is inserted. Another frequent error is saying the electric shock fertilises the egg; it stimulates the egg to divide.
+
+**What is a vector in genetic engineering?**
+A vector carries a gene into another organism. In bacteria the vector is a plasmid, which is bacterial, not human; writing that plasmids come from humans is a common error.
+
+**How do you answer a judgement question about GM crops?**
+Use the figures given, such as yield or spray data, explain any concerns rather than just listing them, and finish with a clear judgement for the situation described.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. These questions cover section 3.5.5 Genetic manipulation, parts a to f.

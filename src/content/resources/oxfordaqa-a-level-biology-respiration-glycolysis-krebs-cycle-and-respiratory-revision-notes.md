@@ -225,6 +225,20 @@ Investigate a specific variable such as substrate or temperature on the rate of 
 - Calculating RQ upside down, or leaving the answer with units.
 - Giving a firm conclusion from one RQ when the question asks you to comment on how tentative it is.
 
+## Frequently asked questions
+
+**Where do the stages of aerobic respiration happen?**
+Glycolysis happens in the cytoplasm, the link reaction and Krebs cycle in the mitochondrial matrix, and oxidative phosphorylation on the inner mitochondrial membrane. Pyruvate enters the matrix by active transport.
+
+**What is the final electron acceptor in the electron transfer chain?**
+Oxygen. At the end of the chain it accepts electrons and combines with protons to form water; without it the chain stops, the coenzymes stay reduced and the link reaction and Krebs cycle stop too.
+
+**Why does lipid release more energy per gram than carbohydrate?**
+Lipid molecules carry more hydrogen, so a gram of lipid produces more reduced coenzymes, which supply more electrons and protons for ATP synthesis in oxidative phosphorylation.
+
+**What is required practical 8 in OxfordAQA 9610 Biology?**
+It investigates the effect of a specific variable, such as substrate or temperature, on the rate of respiration of an organism such as yeast or a locust. A boiled-yeast control, a water bath and three or more repeats per condition are typical.
+
 ## Official syllabus
 
 OxfordAQA *International AS and A-level Biology (9610)*, Version 5.1, section 3.3.3 (Respiration), for International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards. Published by OxfordAQA.

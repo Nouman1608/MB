@@ -119,6 +119,20 @@ Calculate each relative share, classify each product on the Boston Matrix and re
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate market growth in AQA Business?**
+Market growth (%) = change in market size ÷ original market size × 100. Dividing by the new figure instead of the original is one of the most common errors.
+
+**How do you tell whether a firm gained market share from growth figures?**
+Compare the firm's sales growth with market growth: if sales grew faster than the market, share rose; if slower, share fell. Always state whether the firm gained or lost share.
+
+**Which share figure does the Boston Matrix use?**
+The Boston Matrix uses relative market share, the firm's own share divided by the largest rival's share, plotted against market growth. Using absolute share is a frequent mistake.
+
+**Do you need to calculate elasticity in AQA 7132?**
+The specification says you must interpret price and income elasticity of demand and analyse the effect on revenue, but you do not need to calculate elasticity itself.
+
 ## Official syllabus
 
 AQA AS and A-level Business specification (7131 and 7132), section 3.3 Decision making to improve marketing performance, published by AQA.

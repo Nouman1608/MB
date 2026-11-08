@@ -269,6 +269,23 @@ Some disorders are inherited. Be sensitive when you write about them: describe t
 
 Next, try the [practice questions](/resources/oxfordaqa-igcse-biology-genetic-variation-monohybrid-inheritance-dna-and-practice/).
 
+## Frequently asked questions
+
+**What are the three causes of variation?**
+Variation can be genetic, such as blood group; environmental, such as a scar; or caused by both, which applies to most characteristics, such as height or body mass. Differences between clones or identical twins must be environmental.
+
+**What is the difference between genotype and phenotype?**
+The genotype is the pair of alleles an individual has for a gene, such as Aa. The phenotype is the characteristic that is shown, such as a purple stem; a heterozygous individual shows the dominant phenotype.
+
+**How do you tell from a family tree whether an allele is dominant or recessive?**
+If neither parent shows a characteristic but a child does, it is recessive and both parents are carriers. If both parents show it but a child does not, it is dominant and each parent is heterozygous.
+
+**What is a gene?**
+A gene is a short section of DNA that codes for a particular combination of amino acids, which make a specific protein. Each run of three bases codes for one amino acid.
+
+**Which sections of OxfordAQA 9201 Biology cover inheritance?**
+Section 3.5.3 covers genetic variation, including sex determination, monohybrid crosses and DNA, and section 3.5.4 covers genetic disorders such as polydactyly, cystic fibrosis, sickle cell anaemia and Down's syndrome.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.5.3 Genetic variation and 3.5.4 Genetic disorders.

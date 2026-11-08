@@ -172,6 +172,20 @@ These questions cover section 3.2.4 (Digestion, parts a to c) of the OxfordAQA I
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Should you say high temperature kills an enzyme?**
+No. Enzymes are not alive, so say the enzyme is denatured: the shape of its active site changes and the substrate no longer fits. Writing "killed" is a common way to lose a mark.
+
+**Is bile an enzyme?**
+No. Bile does not chemically digest fat; it emulsifies large fat drops into smaller droplets, increasing the surface area for lipase, and it neutralises stomach acid.
+
+**How do you calculate the rate of an enzyme reaction from a time?**
+A shorter time means a faster reaction, so rate is proportional to 1 ÷ time, often written as 1000 ÷ time. Reading a longer time as a faster rate is a frequent error.
+
+**Can you give an exact optimum temperature from enzyme data?**
+Only for the values tested. If just a few temperatures or pH values were used, state the best one from the data rather than claiming it is the exact optimum.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. These questions cover section 3.2.4 Digestion, parts a to c.

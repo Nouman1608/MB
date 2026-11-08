@@ -238,6 +238,20 @@ Bexley Reach Print has a new production manager. In her first month she sets wee
 - Drawing a conclusion from one measure only, such as output per employee, and ignoring quality and turnover.
 - Writing a conclusion that repeats the points made and does not reach a judgement.
 
+## Frequently asked questions
+
+**What do the two axes of the Blake Mouton grid measure?**
+One axis measures concern for production (the task) and the other measures concern for people, each scored from 1 to 9.
+
+**Which Blake Mouton position is "country club"?**
+(1,9): low concern for production and high concern for people.
+
+**What influences a manager's style?**
+The task (urgency, risk, complexity), the people (skills, experience, team size), the manager (personality and beliefs), the organisation (culture, size, structure) and the situation (crisis, competition, time available).
+
+**Why is "democratic is best" a weak evaluative statement?**
+It ignores the context. Whether a style is effective depends on staff skills, the time available, the risk involved and what the business is trying to achieve.
+
 ## Official syllabus
 
 AQA AS and A-level Business specification (7131/7132), section 3.2.1 Understanding management, leadership and decision making. For first teaching from September 2023 (A-level 7132).

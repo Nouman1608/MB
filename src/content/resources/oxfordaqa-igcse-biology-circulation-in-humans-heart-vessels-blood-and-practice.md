@@ -182,6 +182,20 @@ vessel Z: thin wall with valves.
 - Try all [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Why is the pulmonary vein not called deoxygenated?**
+Arteries and veins are named by direction, not oxygen content: arteries carry blood away from the heart and veins carry it to the heart. The pulmonary vein carries oxygenated blood from the lungs to the left atrium.
+
+**How do you calculate heart rate from a pulse count?**
+Divide the number of beats by the number of seconds counted and multiply by 60 to get beats per minute. To find volume pumped per minute, multiply the volume per beat by the heart rate.
+
+**What does a stent do?**
+A stent holds a narrowed coronary artery open so that blood can flow to the heart muscle. Describing it as removing the fatty material is a common mistake.
+
+**How do you answer an evaluate question about heart treatments?**
+Give an advantage and a disadvantage of each option, apply them to the patient described, and finish with a clear judgement. A one-sided answer with no conclusion loses marks.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), specification Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. These questions follow section 3.2.3, statements a to t.

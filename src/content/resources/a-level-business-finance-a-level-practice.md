@@ -13,14 +13,16 @@ order: 10
 syllabusTopics:
   - qualification: "a-level"
     topic: "finance-and-accounting-a-cambridge-alevel-business"
-description: "Original exam-style questions with full worked answers on accounting rate of return, payback, net present value, efficiency ratios and investor ratios, for Cambridge AS & A Level Business (9609)."
+description: "Worked practice questions on ARR, payback, net present value, efficiency ratios and investor ratios for Cambridge International AS & A Level Business 9609."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -93,3 +95,17 @@ Each question practises a skill tested in the June 2024 Paper 32. After each ans
 - Leaving out units: ARR and dividend yield are percentages, receivable days are days, inventory turnover is times.
 - Rounding too early; keep full figures until the final answer.
 - Giving only the calculation when the question also asks for a judgement against a criterion rate.
+
+## Frequently asked questions
+
+**How do you calculate ARR in Cambridge 9609 Business?**
+ARR = average annual profit ÷ average investment × 100, where average investment = (capital cost + residual value) ÷ 2. Dividing by the capital cost instead of the average investment is a common error.
+
+**Is the initial cost discounted in an NPV calculation?**
+No. The capital cost is spent now, in Year 0, so it is not discounted; subtract it from the total present value of the future cash inflows at the end.
+
+**What units do finance ratios have?**
+ARR and dividend yield are percentages, trade receivable days are in days, inventory turnover is in times, and the P/E ratio has no unit. Leaving out or mixing up units loses marks.
+
+**Why should you not round too early in finance calculations?**
+Rounding during the working can change the final answer, so keep full figures until the last step and show clear working to earn method marks.

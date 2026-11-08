@@ -252,6 +252,23 @@ Throughout this section you may be given data and asked to interpret it, or a me
 - Saying algae "use up" the oxygen in eutrophication.
 - Writing "pollution" without naming the pollutant and what it does.
 
+## Frequently asked questions
+
+**Which processes add carbon dioxide to the air in the carbon cycle?**
+Respiration by plants, algae, animals and microorganisms returns carbon dioxide to the air, and combustion of wood and fossil fuels adds more. Photosynthesis by green plants and algae is the process that removes it.
+
+**Which gases contribute to global warming?**
+Carbon dioxide and methane in the atmosphere are increasing and contribute to global warming. A rise of only a few degrees Celsius may cause big changes in climate, a rise in sea level, changes in migration patterns and changes in species distribution.
+
+**What is the difference between valid and reliable data?**
+Valid means a method measures what it claims to; a single water sample from one place does not show the state of a whole lake. Reliable means repeating the measurements gives similar results, which repeats and a mean improve.
+
+**Why is a stable community important in the cycling of materials?**
+In a stable community, the materials removed from the environment are balanced by those returned through waste and decay, so the materials are part of a constant cycle.
+
+**Which sections of OxfordAQA 9201 Biology cover decay and human effects on the environment?**
+Section 3.3.3 covers decay and the carbon cycle, and section 3.3.4 covers waste and pollution, deforestation and global warming.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), Version 5.2, for exams May/June 2018 onwards, sections 3.3.3 and 3.3.4. Published by OxfordAQA.

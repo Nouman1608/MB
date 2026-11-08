@@ -148,6 +148,20 @@ Recommendation: switch only if a trial or customer research shows buyers will ac
 - Try the free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between a percentage point change and a percentage change?**
+An interest rate rising from 4.8% to 6.4% is a rise of 1.6 percentage points, but the percentage change in the interest paid is much larger. Mixing up the two is a common error.
+
+**How do you work out the effect of a rise in one input's price on unit cost?**
+Apply the percentage rise only to that input's share of unit cost, then add the increase to the original unit cost. Applying the rise to the whole unit cost is a frequent mistake.
+
+**How should you explain an external factor's effect on a business?**
+Say whether the factor changes costs, demand or both, and link it to the business's product or workers. Naming a factor without that link earns little credit.
+
+**Are environmental or fair trade choices only a cost to a business?**
+No. They raise costs, but they can also affect demand, for example when customers or retailers ask for recyclable materials. Treating them as only a cost limits the marks.
+
 ## Official syllabus
 
 AQA, *AS and A-level Business (7131 and 7132)* specification, section 3.1.3, *Understanding that businesses operate within an external environment*, under 3.1 What is business?

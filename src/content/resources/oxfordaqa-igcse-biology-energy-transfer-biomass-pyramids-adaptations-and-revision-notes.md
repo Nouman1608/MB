@@ -256,6 +256,20 @@ Always write: feature, then function. For example, hooks on a tapeworm's head (f
 - Stating "it is adapted to the cold" with no feature named.
 - Describing a parasite feature but not linking it to attachment, feeding or spreading.
 
+## Frequently asked questions
+
+**What percentage of light energy do plants store?**
+Plants and algae store about 1% of the incident light energy from the Sun in their cells. After that, about 10% of the biomass passes from each trophic level to the next.
+
+**Are pyramids of numbers in the OxfordAQA 9201 Biology specification?**
+No. Pyramids of numbers are not required, and neither is constructing food webs or food chains; this part of the specification uses pyramids of biomass.
+
+**What is an extremophile?**
+An extremophile is an organism that lives in very extreme conditions, such as high salt levels, high temperatures or high pressures. Examples include archaea in salt lakes and Thermus aquaticus in hot springs.
+
+**What do plants and animals compete for?**
+Plants compete for light, space, water and mineral ions from the soil. Animals compete for food, mates and territory, so a correct answer matches the resource to the organism.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.3.1 and 3.3.2.

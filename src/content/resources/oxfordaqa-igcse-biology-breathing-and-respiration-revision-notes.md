@@ -306,6 +306,20 @@ When spontaneous breathing stops, oxygen cannot reach the blood. A mechanical ve
 - Forgetting to give units (bpm, breaths per minute, mmol/dm3).
 - Leaving out the "repaid by oxidising lactic acid" part of oxygen debt.
 
+## Frequently asked questions
+
+**How do you explain breathing in for 4 marks?**
+Link four steps: the intercostal muscles and diaphragm contract, the volume of the thorax increases, the pressure inside falls below that of the air outside, and air moves into the lungs. Leaving out the pressure step is a common way to lose marks.
+
+**How are alveoli adapted for gas exchange?**
+Alveoli give a very large surface area and are richly supplied with blood capillaries, so gases diffuse readily into and out of the blood. Thin walls, giving a short diffusion distance, strengthen the answer.
+
+**What is oxygen debt?**
+Oxygen debt is the extra oxygen needed after exercise to oxidise the lactic acid made by anaerobic respiration to carbon dioxide and water. It is repaid after exercise and is not a store of oxygen.
+
+**How do you measure pulse rate quickly in the required practical?**
+Count the beats for 15 seconds and multiply by 4 to get beats per minute. Record a resting value, repeat to take a mean, and keep measuring after exercise until the value returns to rest.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), Version 5.2, for exams in May/June 2018 onwards, published by OxfordAQA. Sections 3.2.5 and 3.2.6.

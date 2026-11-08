@@ -122,6 +122,20 @@ These questions cover section 3.2.1, Understanding management, leadership and de
 - Try the [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you write a Blake Mouton grid score?**
+Write both numbers in the order (concern for production, concern for people). Reversing the pair, or giving only one number, is one of the most common errors.
+
+**Is the Tannenbaum Schmidt continuum a set of boxes?**
+No. It is a line: at one end the manager uses authority and decides alone, and at the other the team has freedom to decide within limits. Treating it as four separate boxes loses marks.
+
+**How should you support a judgement about a manager's style?**
+Quote evidence from the case for the style or position you name, and judge effectiveness on more than one measure, such as turnover and quality as well as output.
+
+**Can you say a style demotivates staff without evidence?**
+No. Claims that a style motivates or demotivates staff need evidence from the case, such as labour turnover or output figures.
+
 ## Official syllabus
 
 AQA AS and A-level Business specification (7131/7132), section 3.2.1 Understanding management, leadership and decision making. For first teaching from September 2023 (A-level 7132).

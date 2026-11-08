@@ -219,6 +219,20 @@ Ferrymoor Logistics is about to open an overnight sorting shift in a rush, staff
 - Saying a style "motivates" staff with no evidence such as turnover or output.
 - Confusing management and leadership styles with decision making methods, which belong to 3.2.2.
 
+## Frequently asked questions
+
+**What is the difference between autocratic, paternalistic, democratic and laissez-faire styles?**
+An autocratic manager decides and expects instructions to be followed. A paternalistic manager decides but explains and acts in what they believe is employees' interest. A democratic manager involves staff and may go with the group view, and a laissez-faire manager sets limits and leaves staff to decide how to work.
+
+**Is (9,9) always the best Blake Mouton position?**
+The theory suggests (9,9) as the style to aim for, but a good answer treats this as a claim to test rather than a fact, because reaching high scores on both scales takes time, skills and cost.
+
+**How many positions does the Tannenbaum Schmidt continuum have?**
+The standard form has seven positions. Positions 1 and 2 sit close to autocratic and paternalistic behaviour, and positions 3 to 5 are consultative and shade into democratic.
+
+**How do you place a manager on the Tannenbaum Schmidt continuum?**
+Ask who makes the final decision, whether staff views were sought before or after it, and how much freedom is left to the team, then name the position and quote the evidence.
+
 ## Official syllabus
 
 AQA AS and A-level Business specification (7131/7132), section 3.2.1 Understanding management, leadership and decision making. For first teaching from September 2023 (A-level 7132).

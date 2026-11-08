@@ -217,6 +217,20 @@ Use these prompts when a question asks you to weigh a decision.
 - Recommending the highest net gain without discussing worst case or constraints.
 - Reaching no judgement, or one that does not say what it depends on.
 
+## Frequently asked questions
+
+**What do the square and circle nodes on a decision tree mean?**
+A square is a decision node, where the business chooses between options. A circle is a chance node, where events decide the outcome; the probabilities leaving one chance node must sum to 1.
+
+**How do you calculate expected value and net gain?**
+Expected value = the sum of (probability × payoff) for each outcome of an option, and net gain = expected value − cost of the option. Calculate right to left across the tree.
+
+**What is the opportunity cost of a decision?**
+Opportunity cost is the value of the next-best alternative given up. It is that one alternative, not the total of all the rejected options.
+
+**What are the five influences on decision making in AQA 3.2.2?**
+Mission, objectives, ethics, the external environment (including competition) and resource constraints.
+
 ## Official syllabus
 
 AQA AS and A-level Business specification (7131 and 7132), subject content section 3.2.2 *Understanding management decision making*, published by AQA.

@@ -160,6 +160,20 @@ These questions test section 3.4.4, skeletal muscles as effectors, from OxfordAQ
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What gets shorter when a sarcomere contracts?**
+The sarcomere, the I band and the H zone shorten, but the A band stays the same length because the filaments slide past each other rather than shortening. Saying the filaments or the A band shorten is a common way to lose marks.
+
+**How do you calculate the actual length of a sarcomere from an electron micrograph?**
+Convert the image length to micrometres (multiply mm by 1000), then divide by the magnification. Forgetting the unit conversion is a frequent error.
+
+**What role does ATP have in muscle contraction?**
+ATP binding to the myosin head makes it detach from actin, and hydrolysis of ATP resets the head ready to bind again. ATP also powers the pumps that return calcium ions to the sarcoplasmic reticulum during relaxation.
+
+**How should you answer questions about antagonistic muscles?**
+Explain both muscles of the pair: one contracts while the other relaxes, because muscles can only pull. Describing only one muscle, or saying one muscle pushes, limits the marks.
+
 ## Official syllabus
 
 Source: OxfordAQA International AS and A-level Biology (9610), specification Version 5.1, for International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards, published by OxfordAQA. Section 3.4.4, Skeletal muscles as effectors.

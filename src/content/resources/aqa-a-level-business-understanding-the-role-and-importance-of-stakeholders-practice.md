@@ -121,6 +121,20 @@ Evaluate the extent to which Vellmoor should give priority to the needs of its s
 - Take the [free 10-minute diagnostics](/diagnostics/) to find your next weak area.
 - [Book a free trial class](/trial/) if you want help with evaluation answers.
 
+## Frequently asked questions
+
+**How should a stakeholder map be used in an answer?**
+Place each group using evidence from the case, then state the action that follows, for example managing a high-power, high-interest group closely. Mapping a group without stating the action loses marks.
+
+**Is a stakeholder group's power fixed?**
+No. Power can change, for example when media coverage or a social media campaign raises a group's effective influence. Answers that treat power as fixed when the case hints at change lose credit.
+
+**What should you do after a stakeholder calculation?**
+Interpret the figure, for example by saying what a new profit margin means for the business and the groups affected, rather than only stating the result.
+
+**How should you end an evaluation about stakeholder priorities?**
+Weigh the groups against each other using the case and reach a conclusion that says what it depends on, such as the time horizon or the business's mission.
+
 ## Official syllabus
 
 AQA, AS and A-level Business (7131 and 7132) specification, subject content 3.2.3 Understanding the role and importance of stakeholders.

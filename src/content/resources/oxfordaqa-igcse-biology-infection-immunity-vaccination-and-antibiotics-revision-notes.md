@@ -286,6 +286,20 @@ Area of zone = πr², where r is half the diameter. A control disc with no zone 
 - In the practical, forgetting a control disc or giving diameters when area is asked for.
 - Leaving out units, for example mm² for area.
 
+## Frequently asked questions
+
+**How do bacteria and viruses make you ill?**
+Bacteria can produce poisons called toxins that make you feel ill. Viruses live and reproduce inside your cells, and making new viruses damages those cells.
+
+**What are the three ways white blood cells defend the body?**
+They ingest pathogens by phagocytosis, produce antibodies that destroy particular bacteria or viruses, and produce antitoxins that counteract toxins released by pathogens.
+
+**What is herd immunity?**
+If a large proportion of the population is immune to a pathogen, its spread is very much reduced. This also protects people who are not immune, such as babies too young to be vaccinated.
+
+**Why are antibiotics not used for mild throat infections?**
+Overuse and inappropriate use of antibiotics increases the rate at which resistant strains develop, so antibiotics are not currently used for non-serious infections such as mild throat infections.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), section 3.4.7 Infection and response and the required practical on disinfectants and antibiotics. Specification Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA.

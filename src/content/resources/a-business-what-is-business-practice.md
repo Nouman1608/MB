@@ -13,13 +13,15 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "what-is-business-oxfordaqa-alevel-business"
-description: "Original practice paper in the section layout of the 9625 International AS Unit 1 paper (Sections A, B and C of 17, 27 and 36 marks), with worked answers on business objectives, ownership, entrepreneurs and the external environment, primarily 9625 with second-year and off-topic questions flagged."
+description: "Practice paper in the OxfordAQA 9625 International AS Business Unit 1 layout, with worked answers on objectives, ownership, entrepreneurs and the environment."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions:
@@ -182,3 +184,17 @@ These short-answer questions cover more of the first-year external environment c
 - Listing stakeholders instead of explaining the two approaches.
 - Describing growth's benefits without addressing how it is financed.
 - Not reaching a conditional judgement in a 12-mark evaluation.
+
+## Frequently asked questions
+
+**How is the OxfordAQA 9625 International AS Business Unit 1 paper structured?**
+Unit 1: Business and markets is a 1 hour 30 minute written paper worth 80 marks, with three compulsory sections: Section A (about 17 marks), Section B (about 27 marks) and Section C (about 36 marks). It examines Topic 2 Marketing as well as Topic 1.
+
+**How is the 9725 Unit 1 paper different?**
+The 9725 Unit 1 paper, first examined at International AS in May/June 2027, lasts 1 hour 15 minutes and is worth 60 marks, in four sections: short answer (10), calculation (10) and two extended response sections (16 and 24).
+
+**What is the difference between a mission statement and a corporate objective?**
+A mission statement says why the business exists, while corporate objectives are targets for the whole business that flow from it; functional objectives then apply to departments. Confusing a mission statement with a corporate objective is a common error.
+
+**What does a 12-mark evaluation answer need?**
+It needs balanced arguments applied to the business in the question and a conditional judgement that says what the decision depends on. Not reaching a judgement limits the marks.

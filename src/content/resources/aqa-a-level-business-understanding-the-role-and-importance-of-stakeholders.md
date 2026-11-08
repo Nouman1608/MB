@@ -198,6 +198,23 @@ When you evaluate this plan, consider the costs. Consulting staff delays the ann
 - Writing "communicate" as a method for every group. Name the method and what it achieves.
 - Concluding that shareholders always come first. Argue from the case, weighing power, mission and long-run effects.
 
+## Frequently asked questions
+
+**What is the difference between communication and consultation?**
+Communication passes information and is often one-way, such as a newsletter or press release. Consultation asks for views before a decision is final and is two-way, such as meetings, surveys or staff representatives.
+
+**Why should a business consider stakeholder needs when making decisions?**
+Decisions need support to work, ignoring affected groups can contradict the business's mission and ethics, poor treatment can damage reputation, and stakeholders often have useful information. Against this, considering every need costs time and money.
+
+**What is the difference between overlap and conflict of stakeholder needs?**
+Overlap happens when one decision serves several groups, such as a product launch raising profit and securing jobs. Conflict happens when meeting one group's need reduces another's outcome, such as lower prices for customers against higher margins for shareholders.
+
+**Do shareholders always come first?**
+No. Concluding that shareholders always come first is a common error; argue from the case, weighing power, mission and long-run effects.
+
+**Which section of the AQA Business specification covers stakeholders?**
+Section 3.2.3, Understanding the role and importance of stakeholders, in AQA AS and A-level Business (7131 and 7132).
+
 ## Official syllabus
 
 AQA, AS and A-level Business (7131 and 7132) specification, subject content 3.2.3 Understanding the role and importance of stakeholders. A-level Business is assessed on three papers, each covering all content.

@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on enterprise, business structure and size, objectives and stakeholders."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -88,3 +90,20 @@ This paper covers AS Topic 1 (1.1–1.5) only. The external environment (for exa
 - Listing stakeholder groups without explaining how the decision affects each one and why their different aims lead to conflict.
 - Writing a one-sided answer to an "evaluate" question — a judgement is required.
 - Naming an entrepreneurial quality without explaining why it matters to that specific business idea.
+
+## Frequently asked questions
+
+**How do you score well on a stakeholder conflict question in A Level Business?**
+Explain how the decision affects each stakeholder group and how each is likely to react, then show why their aims are opposed, such as shareholders wanting profit and employees wanting job security. Listing groups without explaining the conflict loses marks.
+
+**What does an "evaluate" question on business growth need?**
+It needs arguments on both sides and a supported judgement, for example deciding between organic growth and a merger or takeover based on how fast the business needs to grow, its finance and how much control it will risk.
+
+**How should you answer a corporate social responsibility question?**
+Give both sides: the benefits, such as a stronger brand reputation, and the costs, such as higher direct costs from fair-trade sourcing or higher wages. Giving only the costs or only the benefits is a common way to lose marks.
+
+**How do you answer questions about entrepreneurial qualities?**
+For each quality, explain why it matters to the specific business idea in the question. Naming a quality without that explanation earns little credit.
+
+**Is PEST analysis part of Cambridge 9609 AS Topic 1?**
+No. This topic covers AS Topic 1 (1.1 to 1.5) only; the external environment, including PEST analysis, and business strategy tools such as SWOT are examined in other parts of the course.

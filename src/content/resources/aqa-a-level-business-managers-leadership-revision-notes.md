@@ -12,13 +12,15 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "managers-leadership-and-decision-making-aqa-alevel-business"
-description: "Condensed revision notes on management vs leadership, leadership styles, scientific and intuitive decision making, and stakeholder mapping, for Topic 2 of AQA A-Level Business (7132)."
+description: "Condensed notes on management and leadership, leadership styles, scientific and intuitive decisions and stakeholder mapping for AQA A-level Business 7132."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Related: [Topic 2 study guide](/resources/aqa-a-level-business-managers-leadership-decision-making/).
@@ -185,6 +187,20 @@ situations where the likelihood or nature of outcomes cannot be reliably estimat
 (ability to influence the business) and interest (how much the decision affects the stakeholder). 5.
 Because expected value alone ignores risk appetite — a risk-averse decision-maker may prefer a
 guaranteed lower return over a higher-expected-value option that carries a real chance of loss.
+
+## Frequently asked questions
+
+**What are the four leadership styles in AQA 7132 Business?**
+Autocratic, paternalistic, democratic and laissez-faire. The Tannenbaum Schmidt continuum is the named theory that links these styles along a spectrum from manager authority to team freedom.
+
+**Why might a business choose an option with a lower expected value?**
+Expected value ignores risk appetite. A risk-averse decision-maker may rationally prefer a guaranteed lower return over a higher-expected-value option that carries a real chance of a loss.
+
+**What changed in the 2023 version of AQA 7132 Topic 2?**
+The current version 2.0 (June 2023) opens 3.2.1 with the distinction between management and leadership, lists four leadership styles and names only the Tannenbaum Schmidt continuum. The 2015 version opened with "What managers do" and also named the Blake Mouton grid.
+
+**What are the influences on decision making in AQA Business?**
+Mission, objectives, ethics, the external environment including competition, and resource constraints. A common error is to focus only on mission and objectives.
 
 ## Official syllabus
 

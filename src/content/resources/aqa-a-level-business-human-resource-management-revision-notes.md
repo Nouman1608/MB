@@ -221,6 +221,20 @@ Technology and ways of working such as tele-working; ethics and environment; lab
 - Ignoring the labour market or competition when judging a pay scheme.
 - Giving a long conclusion that repeats the points without a judgement.
 
+## Frequently asked questions
+
+**What is the difference between labour turnover and retention rate?**
+Labour turnover counts staff leaving as a percentage of the average number employed, while retention rate counts the staff who stayed as a percentage of those employed at the start. They measure opposite things and use different bases.
+
+**How do you work out the number of management layers from a span of control?**
+Divide the number of staff by the span, round up, and repeat until you reach one. For 90 staff and a span of 6, that gives 15 supervisors, 3 managers and 1 director: three layers.
+
+**What is the difference between a trade union and a works council?**
+A trade union is independent of the employer and bargains for its members on pay and conditions. A works council sits inside the business, with employee and management representatives who share information and consult.
+
+**What is the difference between delegation and decentralisation?**
+Delegation is passing a task or decision to someone lower down, while decentralisation is a structure in which decisions are taken lower down the organisation. Confusing the two is a common error.
+
 ## Official syllabus
 
 AQA, AS and A-level Business (7131 and 7132) specification, section 3.6 Decision making to improve human resource performance, for first teaching from September 2023. The formulas are standard forms, since the specification gives none.

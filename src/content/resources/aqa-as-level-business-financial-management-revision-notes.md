@@ -281,6 +281,20 @@ Judge profits and margins, ROCE, ROI, cash flow and liquidity, gearing, sharehol
 - Making recommendations without a figure from the case.
 - "Evaluate" answers that end without a judgement.
 
+## Frequently asked questions
+
+**What are the five financial objectives in AQA AS Business 7137?**
+Profit, profitability, cash flow, liquidity and levels of borrowing.
+
+**How do you calculate the current ratio and acid test ratio?**
+Current ratio = current assets ÷ current liabilities. Acid test ratio = (current assets − inventory) ÷ current liabilities.
+
+**What is the difference between profit and profitability?**
+Profit is an amount in pounds, while profitability measures profit relative to revenue or capital, for example as a margin or ROCE.
+
+**What are the limitations of financial reporting?**
+Financial statements use historic figures and leave out factors such as staff morale, brand reputation and environmental impact.
+
 ## Official syllabus
 
 AQA AS and A-level Business (7137, 7138) specification, Version 1.1 (November 2025), for first teaching from September 2026: section 3.1.4 Financial management and Annex 7, Formulae and key data. Checked against these notes on 5 November 2026.

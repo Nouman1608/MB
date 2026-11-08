@@ -13,14 +13,16 @@ order: 9
 syllabusTopics:
   - qualification: "a-level"
     topic: "operations-management-a-cambridge-alevel-business"
-description: "Original exam-style questions with full worked answers on total quality management, quality assurance, kaizen, critical path analysis, location decisions and diseconomies of scale, for Cambridge AS & A Level Business (9609)."
+description: "Worked practice questions on TQM, quality assurance, kaizen, critical path analysis, location decisions and diseconomies of scale for Cambridge 9609 Business."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -91,3 +93,17 @@ Each question practises a skill tested in the June 2024 Paper 32. After each ans
 - Choosing the shortest path as the critical path, or forgetting that an activity must wait for all activities before it.
 - Giving the location answer with no profit figures, or with no statement of which site is better.
 - Describing a diseconomy of scale without linking it to higher average costs.
+
+## Frequently asked questions
+
+**Does total quality management mean employing more quality inspectors?**
+No. TQM makes every worker responsible for quality rather than relying on extra inspectors. Describing it as more inspection is a common way to lose marks.
+
+**How do you find the critical path in network analysis?**
+The critical path is the longest sequence of dependent activities through the network, and it gives the minimum project duration. Choosing the shortest path, or forgetting that an activity must wait for all the activities before it, are frequent errors.
+
+**How should you answer a location decision question?**
+Calculate the profit at each site from the figures given, then state clearly which site is better. Giving no profit figures or no final choice loses marks.
+
+**How do you explain a diseconomy of scale?**
+Explain the cause, such as communication or coordination problems as the business grows, and link it to higher average costs. A description with no link to average costs does not earn full credit.

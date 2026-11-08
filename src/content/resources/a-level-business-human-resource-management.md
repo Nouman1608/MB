@@ -13,13 +13,15 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "human-resource-management-as-cambridge-alevel-business"
-description: "Human resource management, motivation, and management -- the full content of Topic 2 Human resource management for Cambridge AS & A Level Business 9609, 2026-2028 series."
+description: "Study guide to Topic 2 Human resource management in Cambridge AS & A Level Business 9609: HRM, motivation theory and management styles, 2026 to 2028 series."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Topic 2 Human resource management**, an AS Level
@@ -191,6 +193,23 @@ explicitly rather than answering each sub-topic in isolation, and a
 quick self-check worth applying to any answer on this topic is whether
 it explains a *consequence* for the business, not just a definition of
 a term.
+
+## Frequently asked questions
+
+**What is Vroom's expectancy theory?**
+Vroom's process theory says motivation depends on whether effort is expected to lead to performance, and whether performance is expected to lead to a valued reward.
+
+**What are the functions of management?**
+Planning, organising, directing and controlling, drawing on the work of Fayol and Mintzberg on the role of managers.
+
+**Which management style suits a crisis?**
+An autocratic style may suit a business that needs fast decisions in a crisis, while a democratic or paternalistic style may suit skilled professionals who expect to be consulted. The choice should be justified by the scenario.
+
+**What is the difference between internal and external recruitment?**
+Internal recruitment is faster and cheaper and the candidate already knows the organisation, but it limits the skills pool. External recruitment brings fresh ideas and a wider pool of skills, but is slower, costlier and needs an adjustment period.
+
+**How does AS Topic 2 link to A Level in Cambridge 9609?**
+AS Topic 2 lays the groundwork for A Level Topic 7 (Human resource management), which extends organisational structure, communication, leadership and HRM strategy in greater depth.
 
 ## Official syllabus
 

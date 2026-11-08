@@ -236,6 +236,23 @@ An **integrated mix** has elements that support one another. Influences are prod
 - Using absolute market share on the Boston Matrix axis instead of relative.
 - Listing mix elements without linking them to the target market.
 
+## Frequently asked questions
+
+**What is the difference between primary and secondary research?**
+Primary research is gathered first-hand, through surveys, interviews, focus groups or trials, and fits the firm's question but costs more and takes longer. Secondary research uses existing data, such as government statistics or the firm's sales records, and is cheaper and quicker but may be out of date.
+
+**What do the four Boston Matrix categories mean?**
+A cash cow has high share in a low-growth market and funds other products, a star has high share in a high-growth market and needs investment, a question mark has low share in a high-growth market and must be built or dropped, and a dog has low share in a low-growth market and is a candidate for withdrawal.
+
+**What is the difference between penetration pricing and price skimming?**
+Penetration pricing sets a low price to win market share fast. Price skimming sets a high price for early adopters and then lowers it.
+
+**When is demand price elastic?**
+If PED, ignoring the sign, is above 1, demand is elastic, so a price change leads to a proportionately larger change in quantity. If it is below 1, demand is inelastic.
+
+**Which section of the AQA Business specification covers marketing?**
+Section 3.3, Decision making to improve marketing performance, numbered 3.3.1 to 3.3.4, covering marketing objectives, markets and customers, segmentation, targeting and positioning, and the marketing mix.
+
 ## Official syllabus
 
 AQA AS and A-level Business specification (7131 and 7132), section 3.3 Decision making to improve marketing performance, published by AQA.

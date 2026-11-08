@@ -121,6 +121,20 @@ These questions cover AQA A-level Business (7132) sections 3.1.1 and 3.1.2, for 
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is market capitalisation money the company holds?**
+No. Market capitalisation is the number of shares multiplied by the share price, a measure of the company's value on the stock market, not cash in its bank. Treating it as company money is a common error.
+
+**What is the most common slip in profit calculations?**
+Missing a step, usually leaving out fixed costs when working out total costs. Revenue = price × units, total costs = variable costs + fixed costs, and profit = revenue − total costs.
+
+**What should you watch for in dividend questions?**
+Dividends are often given in pence per share, so convert pence to pounds before multiplying by the number of shares.
+
+**How should you recommend a business form in AQA Business?**
+Use the figures in the case, weigh both the advantages and the disadvantages of the form, such as a plc's access to capital against loss of control, and give a judgement with a reason or condition.
+
 ## Official syllabus
 
 AQA, *AS and A-level Business (7131 and 7132) specification*, sections 3.1.1 and 3.1.2.

@@ -13,13 +13,15 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "managing-business-activities-edexcel-alevel-business"
-description: "Planning and raising finance, financial planning, managing finance, resource management, and external influences -- the full content of Unit 2 (entry code WBS12) for Pearson Edexcel International A Level Business (YBS11/XBS11)."
+description: "Study guide to Unit 2 Managing business activities (WBS12) for Edexcel International A Level Business: finance, planning, resources and external influences."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Unit 2 Managing business activities**, the second
@@ -220,6 +222,23 @@ business scenario rather than defining them in the abstract.
 - Trace a named external influence (an economic change, a piece of
 legislation, or a change in the competitive environment) through to
 its specific effect on a given business.
+
+## Frequently asked questions
+
+**How is Edexcel International AS Business Unit 2 assessed?**
+Unit 2 (WBS12) is assessed by a single 2-hour paper worth 80 marks, with short open-response and extended-writing questions based on sources. Some questions draw on Unit 1 knowledge and require quantitative skills.
+
+**How do you calculate the break-even point?**
+Break-even point = total fixed costs ÷ contribution per unit, where contribution per unit = selling price − variable cost per unit. Dividing fixed costs by the selling price instead of contribution is a common error.
+
+**What is the difference between profit and cash?**
+Profit is revenue minus costs over a period, while cash is the money actually available to the business. A profitable business can still fail from poor cash flow, which is the distinction section 2.3.3 tests directly.
+
+**What are the internal and external causes of business failure?**
+Internal causes include poor cash-flow management, overestimated sales, overtrading, poor inventory control, poor marketing and poor quality. External causes include market conditions, competition, economic factors, exchange and interest rates, government regulations, supplier problems and natural phenomena.
+
+**Is retained profit internal or external finance?**
+Retained profit is internal finance, along with owner's capital and the sale of assets, while share capital is external finance. They have very different implications for control and repayment.
 
 ## Related resources
 

@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Condensed recall notes on enterprise, business objectives, ownership, stakeholders and growth for AS Topic 1 of Cambridge AS & A Level Business 9609."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -175,3 +177,17 @@ directly.
 5. How does a new business's objectives typically differ from an established, profitable business's?
 
 **Answers:** 1. Shareholders own a plc but directors control decisions, so their objectives can diverge; share options and performance-related pay are used to align directors' interests with shareholders'. 2. Organic growth expands the business using its own resources and retains control but is slower; external growth is through merger or takeover, which is faster but carries integration risk and cost. 3. Any two, e.g. purchasing economies (bulk-buying discounts) and technical economies (large-scale production spreading the cost of specialist machinery). 4. For example, shareholders' aim of higher profit from lower costs conflicts with employees' aim of job security, since the closure serves one aim at the expense of the other. 5. A new business typically prioritises survival and building a customer base, while an established, profitable business can prioritise growth, profit maximisation or increasing market share.
+
+## Frequently asked questions
+
+**What is enterprise in A Level Business?**
+Enterprise is the willingness to take on financial and personal risk to start and run a business in pursuit of reward.
+
+**What is the divorce of ownership from control?**
+In a plc, shareholders own the business but directors run it, so their objectives can diverge. Share options and performance-related pay are ways of bringing them closer together.
+
+**Do economies of scale reduce total costs?**
+No. Economies of scale lower average cost as output rises, but total costs still rise. Diseconomies of scale raise average cost when communication and coordination become harder.
+
+**How do business objectives change over time?**
+Objectives change with circumstances: survival dominates in a downturn and growth in a boom. A new business usually prioritises survival, while an established, profitable one can pursue other aims.

@@ -150,6 +150,20 @@ These questions cover section 3.4 of the AQA A-level Business specification (713
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate capacity utilisation?**
+Capacity utilisation = current output ÷ maximum capacity × 100, given with a percent sign. Dividing capacity by output instead is a common error.
+
+**What should you include when answering on Just in Time?**
+Give the benefit, such as lower stock-holding costs, and the difficulty, especially the risk if a supplier fails to deliver on time. Writing about JIT as a benefit only loses marks.
+
+**Why do unit costs change with output?**
+Fixed costs are spread over more units as output rises, so the fixed cost per unit, and therefore the unit cost, falls. Use the case figures to show this.
+
+**What makes two "ways" in an answer count separately?**
+Each way must be a genuinely different idea, developed in the context of the business. Offering two ways that are really the same idea earns credit for only one.
+
 ## Official syllabus
 
 AQA AS and A-level Business specification (7131 and 7132), subject content section 3.4, published by AQA.

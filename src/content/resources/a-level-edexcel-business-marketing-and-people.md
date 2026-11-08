@@ -13,13 +13,15 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "marketing-and-people-edexcel-alevel-business"
-description: "Meeting customer needs, the market, marketing mix and strategy, managing people, and entrepreneurs and leaders, including organisational design -- a study guide to the five content sections of Unit 1 (entry code WBS11) for Pearson Edexcel International A Level Business (YBS11/XBS11)."
+description: "Study guide to Unit 1 Marketing and people (WBS11) for Edexcel International A Level Business: customer needs, markets, the marketing mix and managing people."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Unit 1 Marketing and people**, the compulsory
@@ -210,3 +212,20 @@ Confusing market size with market share. Ignoring the minus sign on PED and misc
 - Apply Taylor, Mayo, Maslow and Herzberg to a given workforce problem.
 - Explain the design mix and identify a predatory pricing strategy and a distribution channel structure.
 - Name the financial and non-financial motives for setting up a business, and identify an opportunity cost or trade-off in a given scenario.
+
+## Frequently asked questions
+
+**How is Edexcel International AS Business Unit 1 assessed?**
+Unit 1 (WBS11) is assessed by a single 2-hour paper worth 80 marks, with short open-response and extended-writing questions based on sources, some of which require quantitative skills.
+
+**How do you calculate price elasticity of demand?**
+PED = % change in quantity demanded ÷ % change in price. Keep the minus sign, because ignoring it leads to misclassifying elasticity.
+
+**What is the difference between risk and uncertainty?**
+A risk can be estimated, because the business can put a probability or likely range on the outcome, for example from past sales data. Uncertainty cannot be estimated, because there is no reliable basis for predicting the outcome.
+
+**What is the difference between market size and market share?**
+Market size is the total sales in a market, while market share is a firm's sales as a percentage of total market sales. Confusing the two is a common mistake.
+
+**What does the extended marketing mix add for services?**
+For services the four Ps extend to seven, adding people, process and physical environment. The elements must be internally consistent with each other.

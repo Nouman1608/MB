@@ -325,6 +325,23 @@ A protease from a bacterium is tested for use in a washing powder. Relative acti
 - Treating a longer time as a faster rate. Rate is proportional to 1 ÷ time.
 - Writing "the enzyme is used up". Enzymes are catalysts and are not used up.
 
+## Frequently asked questions
+
+**Why must food be digested before absorption?**
+Starch, proteins and fats are insoluble and too big to pass through the wall of the gut into the blood. Digestion breaks them into soluble substances that can be absorbed in the small intestine.
+
+**Why do stomach enzymes and small intestine enzymes need different conditions?**
+The stomach produces hydrochloric acid, and stomach enzymes work best in acid conditions. Bile neutralises the acid, giving alkaline conditions in which the small intestine enzymes work most effectively.
+
+**How do you carry out the amylase and starch required practical?**
+Bring amylase and starch solutions to the chosen temperature in a water bath, mix them, and test a drop on iodine at regular intervals until it no longer turns blue-black. Repeat each temperature at least three times and calculate a mean; for pH, use buffer solutions at a fixed temperature.
+
+**What are microbial enzymes used for?**
+Some microorganisms produce enzymes that pass out of their cells, so the enzymes can be collected from the liquid they grow in. Examples include protease and lipase in biological washing powders and lactase for lactose-free milk.
+
+**Which section of OxfordAQA 9201 Biology covers digestion and enzymes?**
+Section 3.2.4, Digestion, parts a to c, covering why food is digested, enzymes, and the digestive enzymes, acid and bile.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. This guide covers section 3.2.4 Digestion, parts a to c.

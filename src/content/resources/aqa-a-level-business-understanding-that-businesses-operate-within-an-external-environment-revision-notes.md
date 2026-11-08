@@ -244,6 +244,20 @@ Budget:  sales moved the opposite way to income (an inferior-good response)
 - Giving a balanced list with no judgement on which factor matters most and why.
 - Forgetting the timing: fixed-rate debt, long-term contracts and slow customer reaction.
 
+## Frequently asked questions
+
+**Which external factors does AQA 3.1.3 list?**
+Six factors: competition, market conditions, incomes, interest rates, demographic factors, and environmental issues and fair trade. The specification says these can affect a business's costs and demand.
+
+**What is the difference between a normal good and an inferior good?**
+Demand for a normal good rises as incomes rise. Demand for an inferior good falls as incomes rise, because buyers trade up to better products, so the same change in incomes has opposite effects.
+
+**Why does a fixed-rate loan delay the effect of a rise in interest rates?**
+The interest rate on a fixed-rate loan does not change until the fixed period ends, so the finance cost stays the same until then. Only the variable-rate bill moves straight away.
+
+**Why does unit cost rise by less than an input's price?**
+Unless the input is the whole of the cost, its price rise applies only to its share of unit cost. For example, a 10% rise in paper that makes up 35% of unit cost raises unit cost by 3.5%.
+
 ## Official syllabus
 
 AQA, *AS and A-level Business (7131 and 7132)* specification, section 3.1.3, *Understanding that businesses operate within an external environment*, under 3.1 What is business?

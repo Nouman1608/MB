@@ -132,6 +132,23 @@ These questions cover topic 3.7, Analysing the strategic position of a business 
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate capital employed for ROCE in AQA Business?**
+Capital employed = total equity + non-current liabilities. Forgetting this is one of the most common ways marks are lost on ROCE and gearing questions.
+
+**Should payables days and inventory turnover use revenue?**
+No. Payables days and inventory turnover use cost of sales, while receivables days uses revenue. Using revenue for all three is a frequent error.
+
+**Why must a ratio be compared with something?**
+A ratio on its own gives nothing to analyse. Compare it with last year or a rival and say what the change means for the business.
+
+**How should you apply Porter's five forces in an answer?**
+Apply each force to the data in the question rather than listing the forces, and explain how strong it is for that business. Listing the forces without the stem's data limits the marks.
+
+**Is topic 3.7 in the AQA AS Business exam?**
+No. Topic 3.7, Analysing the strategic position of a business, is A-level only content in the AQA Business specification (7131 and 7132).
+
 ## Official syllabus
 
 AQA, AS and A-level Business (7131 and 7132) specification, section 3.7 (A-level only).

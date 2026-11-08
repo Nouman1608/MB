@@ -163,6 +163,20 @@ These questions cover sections 3.6.1 and 3.6.2 a to c (variation and natural sel
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the most common mistake in natural selection answers?**
+Forgetting that the survivors must breed to pass on their alleles; surviving alone is not enough. Using Lamarck-style reasoning, such as use and disuse, to explain natural selection is another frequent error.
+
+**What must a speciation answer include?**
+It must include isolation of two populations, genetic variation within each, natural selection of different alleles, and the end point that the populations can no longer interbreed to produce fertile offspring.
+
+**How do you tell whether variation is caused by genes or the environment?**
+Compare organisms with identical genes, such as clones or cuttings, grown in different conditions. Any difference between groups of clones must be environmental.
+
+**Why can natural selection be seen quickly in bacteria?**
+Evolution depends on the number of generations, not years. Bacteria that divide every 30 minutes pass through many generations in hours, while large mammals take years for each generation.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams in May/June 2018 onwards, published by OxfordAQA. Section 3.6 Variation and evolution: 3.6.1 and 3.6.2 a to c.

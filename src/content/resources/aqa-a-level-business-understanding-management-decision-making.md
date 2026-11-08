@@ -177,6 +177,23 @@ For evaluation, ask: how reliable are the data? How large and reversible is the 
 - Saying data are always better than intuition, or the reverse.
 - Listing influences without linking them to the business in the question.
 
+## Frequently asked questions
+
+**What is the difference between risk and uncertainty?**
+Risk is where the possible outcomes and their likelihood can be estimated, so a decision tree can handle it. Uncertainty is where outcomes or their likelihood cannot be reliably estimated.
+
+**How do you work out a two-stage decision tree?**
+Work right to left: value the later decisions first, taking the best branch at each decision node and the probability-weighted average at each chance node, then roll the result back and subtract costs.
+
+**What are the limitations of decision trees?**
+The probabilities and payoffs are estimates, often opinions in numerical form, and a small change can reverse the ranking. A one-off decision also gets one actual outcome, never the average.
+
+**When is a test market worth paying for?**
+A test market is worth having only if the value of the information it gives exceeds its cost. Otherwise it can improve the decision but still be poor value.
+
+**Which section of the AQA Business specification covers management decision making?**
+Section 3.2.2, Understanding management decision making, in AQA AS and A-level Business (7131 and 7132).
+
 ## Official syllabus
 
 AQA AS and A-level Business specification (7131 and 7132), subject content section 3.2.2 *Understanding management decision making*, published by AQA.

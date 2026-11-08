@@ -221,6 +221,23 @@ Fertile offspring are the test. Two kinds of animal may mate and still be separa
 
 Work through the [revision notes](/resources/oxfordaqa-igcse-biology-variation-natural-selection-and-the-origin-of-species-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-biology-variation-natural-selection-and-the-origin-of-species-practice/). Tick off sections on the [checklist](/checklists/oxfordaqa/igcse/biology/).
 
+## Frequently asked questions
+
+**What are the three statements of natural selection in the OxfordAQA 9201 specification?**
+Individuals in a species show a wide range of variation because of differences in their genes; those with characteristics most suited to the environment are more likely to survive to breed successfully; and the genes that enabled them to survive are passed on to the next generation.
+
+**What is an acquired characteristic?**
+An acquired characteristic develops during an organism's lifetime because of its environment, such as a scar, a suntan or muscle gained by training. Acquired characteristics are not normally inherited.
+
+**Do individuals evolve?**
+No. Populations evolve over many generations as the inherited characteristics in the population shift. Saying an individual evolves, or changes on purpose to suit its habitat, is a common error.
+
+**Why is evolution by natural selection usually slow?**
+A change in a population needs many generations, because favourable alleles become more common only as each generation breeds. Life on Earth has existed for billions of years, long enough for all species to arise from simple single-celled ancestors.
+
+**Which sections of OxfordAQA 9201 Biology cover variation and evolution?**
+Section 3.6.1 covers causes of variation, and section 3.6.2 covers theories of evolution, natural selection, time scales and how new species arise.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams in May/June 2018 onwards, published by OxfordAQA. Section 3.6 Variation and evolution: 3.6.1 and 3.6.2 a to c.

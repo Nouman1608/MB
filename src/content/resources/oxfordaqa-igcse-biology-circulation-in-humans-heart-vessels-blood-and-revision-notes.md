@@ -283,6 +283,23 @@ Group O is the universal donor because its red cells have no A or B antigens. Bl
 - Forgetting the unit conversion in magnification, or using the wrong base for a percentage change.
 - Saying platelets "make" the clot, with no mention of fibrinogen changing to fibrin.
 
+## Frequently asked questions
+
+**What is the route of blood through the heart?**
+Blood enters the right atrium from the vena cava, passes to the right ventricle, then the pulmonary artery to the lungs. It returns by the pulmonary vein to the left atrium, then the left ventricle, and leaves through the aorta to the body organs.
+
+**Why do humans have a double circulatory system?**
+After passing through the lungs, blood returns to the heart and is pumped again before it reaches the other organs. This is what makes the circulation double.
+
+**How does a blood clot form?**
+When a vessel is cut, platelets gather at the wound and a series of enzyme-controlled reactions changes fibrinogen into fibrin. Fibrin forms a network of fibres that traps blood cells, forming a clot.
+
+**Why is group O the universal donor?**
+Group O red cells have no A or B antigens, so the recipient's antibodies do not attack them. Blood typing is still needed so that a recipient is never given cells their antibodies will attack.
+
+**How can organ transplant rejection be reduced?**
+Choose a donor with a similar tissue type and give drugs that suppress the immune system. Rejection happens when the recipient's antibodies attack the donor organ's antigens, which are not recognised as the recipient's own.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), specification Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. These notes follow section 3.2.3, statements a to t.

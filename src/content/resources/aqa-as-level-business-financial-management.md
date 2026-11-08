@@ -297,6 +297,23 @@ Judge each measure **relative to** the business's objectives, its competitors, i
 - Using total, not per-unit, variable cost in the contribution formula.
 - Answering "evaluate" with a list and no judgement.
 
+## Frequently asked questions
+
+**What is zero-based budgeting?**
+Zero-based budgeting starts every budget from zero, so each item of spending must be justified afresh rather than rolled forward from the previous budget.
+
+**How do you calculate profit for the year in AQA AS Business?**
+Profit for the year = operating profit + profit from other activities − net finance costs (such as loan interest) − tax, where operating profit = gross profit − operating expenses.
+
+**How do you calculate dividend yield?**
+Dividend yield (%) = dividend per share ÷ share price × 100, with both in the same units, and dividend per share = total dividend paid ÷ number of ordinary shares in issue.
+
+**What ways of improving cash flow does the AQA AS specification name?**
+Debt factoring, shortening payment time from customers, early payment incentives, credit checks, increasing payment time to suppliers, reducing outgoings and better invoice management.
+
+**Is ethics in finance part of AQA AS Business?**
+No. Ethics in finance, such as tax avoidance and payment terms, is A-level only (7138), so it is not part of the AS course.
+
 ## Official syllabus
 
 AQA AS and A-level Business (7137, 7138) specification, Version 1.1 (November 2025), for first teaching from September 2026: section 3.1.4 Financial management and Annex 7, Formulae and key data. Checked against this page on 5 November 2026.
