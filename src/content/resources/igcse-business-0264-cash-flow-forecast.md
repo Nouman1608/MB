@@ -230,6 +230,20 @@ When asked to recommend or justify a remedy, match it to the cause and the size 
 - Saying delaying a payment "saves money". It only moves when the cash leaves.
 - Listing methods without linking one to the business in the question.
 
+## Frequently asked questions
+
+**What is a cash flow forecast?**
+A cash flow forecast is an estimate of the money expected to come into and go out of a business over future months. It shows in advance when cash may run short, so the owner can act.
+
+**Why can a profitable business run out of cash?**
+A business may sell goods on credit and record the sale, but the customer may not pay for weeks while wages and suppliers must be paid now. Profit and cash are different measures.
+
+**Why do banks ask to see a cash flow forecast?**
+Banks and other lenders often ask to see a forecast before agreeing to lend, because it shows whether the business can repay.
+
+**What is the main limitation of a cash flow forecast?**
+It is only an estimate. Sales may be lower than hoped, customers may pay late and costs may rise, so the actual figures can differ from the forecast.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education), section 5.2.

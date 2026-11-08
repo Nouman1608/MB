@@ -231,6 +231,20 @@ An investor is told that a business's ROCE rose from 8% to 11% while its current
 - Giving a limitation in general terms, with no link to the case.
 - Reaching a recommendation without weighing at least one point against it.
 
+## Frequently asked questions
+
+**How do you calculate the gross profit margin and profit margin?**
+Gross profit margin is gross profit divided by revenue, times 100. Profit margin is profit divided by revenue, times 100, where profit is gross profit less expenses.
+
+**What is the difference between profitability and liquidity?**
+Profitability is long-run earning power: how well a business turns sales or capital into profit. Liquidity is short-run ability to pay bills: a business's capacity to meet short-term debts when payment is due.
+
+**What does an acid test ratio below 1:1 mean?**
+It means the business's liquid assets, excluding inventory, do not cover its short-term bills, which is a warning sign. Compare it with earlier years and similar businesses, as there is no single right figure for every business.
+
+**Does a rise in profit mean profitability has improved?**
+Not necessarily. Profit is an amount, while profitability is a measure in proportion, so check the ratio: profit can rise while the profit margin falls.
+
 ## Official syllabus
 
 Aligned to section 5.5 of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education).

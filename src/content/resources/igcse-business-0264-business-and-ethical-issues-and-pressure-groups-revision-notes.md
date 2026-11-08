@@ -245,6 +245,20 @@ The papers also reward analysis and evaluation, so expect to follow every reason
 - Writing a long answer to a 2-mark "state" question.
 - Stating a conclusion with no reason attached.
 
+## Frequently asked questions
+
+**What is the difference between legal and ethical behaviour?**
+The law is compulsory for every business. Ethical behaviour goes beyond what the law demands, acting on principles of right and wrong even where the law does not require it.
+
+**What is the difference between a pressure group and a trade union?**
+A pressure group campaigns on a cause to influence businesses or government. A trade union represents workers in dealings with their employer.
+
+**What affects how much influence a pressure group has?**
+Influence depends on the level of public and media support, how much the business depends on its reputation, whether customers can switch easily, how clear and affordable the demands are, and whether the group can reach the government.
+
+**How can a business respond to a pressure group campaign?**
+It can ignore the campaign, defend its practice, negotiate, change its practice, or change and publicise the change. Judge each response by comparing its cost with the sales or reputation at risk.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge International, sections 6.4 and 6.5.

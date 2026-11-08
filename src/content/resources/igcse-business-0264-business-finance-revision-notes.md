@@ -241,6 +241,20 @@ Raised = £24,000. New holders own 30,000 / 150,000 = 20%.
 - Forgetting to subtract current liabilities, or giving a negative result the wrong sign.
 - Treating a grant like a loan, or forgetting that a loan must be repaid with interest.
 
+## Frequently asked questions
+
+**What is the difference between leasing and hire purchase?**
+Leasing is renting an asset with no ownership. With hire purchase the business pays a deposit and instalments and owns the asset at the end, though it pays more than the cash price.
+
+**What is the difference between a bank overdraft and a bank loan?**
+An overdraft is a flexible, short-term facility that lets a business spend more than is in its account up to a limit. A loan is a fixed sum repaid with interest over an agreed period, which suits long-term needs.
+
+**Is working capital the same as cash?**
+No. Working capital is current assets minus current liabilities, so it includes inventory and trade receivables as well as cash.
+
+**Can every business issue shares?**
+No. Only a company can issue shares; a sole trader or partnership cannot raise finance this way.
+
 ## Official syllabus
 
 These notes follow the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment, section 5.1 Business finance.

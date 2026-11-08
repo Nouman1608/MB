@@ -229,6 +229,20 @@ A strong answer recommends one source, applies the facts in the case, and gives 
 - Listing advantages and disadvantages with no link to the business in the question.
 - Treating retained profit as cash in the bank. It may already have been spent on assets.
 
+## Frequently asked questions
+
+**Why do businesses need finance?**
+The syllabus gives start-up capital, capital for expansion or growth, replacing existing non-current assets, investing in new technology, and working capital for everyday costs.
+
+**How do you calculate working capital?**
+Working capital is current assets (inventory, trade receivables and cash) minus current liabilities (such as trade payables and an overdraft). A profitable business can still run short of working capital and fail.
+
+**What are internal sources of finance?**
+Internal sources come from inside the business: owners' investment, retained profit, sale of unwanted assets, and freeing up working capital. They are usually cheaper and keep control with the owners, but the amount is limited.
+
+**What factors affect the choice of a source of finance?**
+The factors to consider are the size of the business, its legal form, the amount required, the length of time, existing loans, cost and purpose. Match the length of the finance to the length of the need.
+
 ## Official syllabus
 
 This guide follows the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment, section 5.1 Business finance.

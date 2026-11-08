@@ -208,6 +208,20 @@ The syllabus includes the skill of making recommendations. In several places it 
 
 Work through the [practice questions](/resources/igcse-business-0264-business-and-the-environment-practice/), keep the [revision notes](/resources/igcse-business-0264-business-and-the-environment-revision-notes/) beside you for recall, and tick off the [checklist](/checklists/cambridge/igcse/business/). The [course hub](/boards/cambridge/igcse/business/) lists other topics, and the [diagnostics](/diagnostics/) are a quick check of what you still need to revise.
 
+## Frequently asked questions
+
+**What are the four types of pollution?**
+The four types are air pollution, water pollution, land pollution and noise pollution. In an answer, name the type and tie it to what the business in the question does.
+
+**What are external costs?**
+External costs are costs of pollution and resource depletion that fall on people other than the business, such as neighbours who breathe dirty air. The business does not pay them unless a law, a fine or public pressure makes it.
+
+**How do legal controls affect a business?**
+Environmental laws can control how a business produces, what it produces or sells, and where it produces or sells. They usually raise costs, which may lead to higher prices, lower profit or lost sales.
+
+**How can a business reduce its environmental impact?**
+Responses include recycling waste, reducing packaging, using renewable energy or saving energy, installing filters, sourcing from sustainable suppliers, redesigning products or processes, and restoring land. Each response has a drawback, such as extra cost, to weigh against its gain.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education), section 6.3 Business and the environment.

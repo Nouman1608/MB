@@ -182,6 +182,20 @@ It relies on forecasts of costs and sales [1]. For untested products these estim
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class: [trial](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate break-even output?**
+Break-even output is total fixed costs divided by contribution per unit, where contribution per unit is the selling price minus variable cost per unit. Dividing fixed costs by the selling price instead is a common error.
+
+**What are common mistakes on break-even questions in IGCSE Business 0264?**
+Students often give break-even output or margin of safety without units, subtract the wrong way round in the margin of safety, start the total cost line at the origin on a chart, and name an economy of scale with no effect on average cost. Deciding on break-even output alone, with no comment on demand or risk, also loses marks.
+
+**How do you calculate the margin of safety?**
+The margin of safety is actual output minus break-even output, measured in units. It shows how far sales could fall before the business makes a loss.
+
+**Which syllabus section covers costs and break-even?**
+Costs, scale of production and break-even analysis is section 4.4 of the Cambridge IGCSE Business 0264 syllabus.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, Cambridge University Press & Assessment, section 4.4 and the Formulas and ratios section.

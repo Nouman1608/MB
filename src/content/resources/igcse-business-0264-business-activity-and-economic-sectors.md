@@ -238,6 +238,20 @@ The command words the syllabus uses match the four assessment objectives. Here i
 - Stating opportunity cost as the cost of the chosen option, or adding up every alternative, when it is the next best alternative given up.
 - Putting a business in the tertiary sector because it "sells", when it makes goods. Look at what it mainly does.
 
+## Frequently asked questions
+
+**How do you calculate added value?**
+Added value per unit is the selling price per unit minus the cost of bought-in inputs per unit. For a total, multiply by the number of units sold.
+
+**What is opportunity cost?**
+Opportunity cost is the benefit of the next best alternative given up when a choice is made. It can be measured in money, time or output and exists because resources are limited.
+
+**What is the difference between the primary, secondary and tertiary sectors?**
+The primary sector extracts or grows natural resources, such as farming and mining. The secondary sector manufactures, processes or builds, and the tertiary sector provides services.
+
+**What is the difference between the private and public sectors?**
+The private sector is owned and controlled by individuals or groups of individuals and mainly aims for profit. The public sector is owned and controlled by government, national or local, and mainly aims to provide a service to the public.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education), sections 1.1 Business activity and 1.2 Economic sectors.
