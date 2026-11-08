@@ -23,10 +23,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-group-17"
     subtopic: "as-the-reactions-of-chlorine"
-description: "Physical and chemical trends down Group 17, halide-ion reducing power, the silver nitrate and concentrated sulfuric acid tests, and chlorine's disproportionation reactions, for Cambridge International AS & A Level Chemistry 9701."
+description: "Group 17 halogens for Cambridge AS & A Level Chemistry 9701: physical trends, halide reducing power, silver nitrate and sulfuric acid tests, and chlorine."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
@@ -237,6 +239,20 @@ I⁻ (fumes + I₂ + a mixture of SO₂, S and H₂S — the deepest reduction, 
 - Chlorine + cold dilute NaOH → chlorate(I); chlorine + hot concentrated
 NaOH → chlorate(V); both disproportionations
 - HOCl and ClO⁻ as the active species in water purification
+
+## Frequently asked questions
+
+**How does oxidising power change down Group 17?**
+The oxidising power of the halogen elements decreases down the group, while the reducing power of the halide ions increases. These opposite trends describe different species, so check which one a question asks about.
+
+**Why does concentrated sulfuric acid help identify halide ions?**
+Chloride, bromide and iodide reduce concentrated sulfuric acid to different extents, so they give different products. Iodide is the strongest reducing agent and goes furthest, giving a mixture that includes H₂S.
+
+**What does chlorine form with cold and with hot sodium hydroxide?**
+With cold, dilute NaOH chlorine forms chloride and chlorate(I); with hot, concentrated NaOH it forms chloride and chlorate(V). Both are disproportionation reactions, and the equations are different.
+
+**Which syllabus points does this Cambridge 9701 Group 17 guide cover?**
+It covers subtopics 11.1 to 11.4: physical properties of the elements, chemical properties of the halogens and hydrogen halides, reactions of the halide ions, and the reactions of chlorine.
 
 ## Related resources
 

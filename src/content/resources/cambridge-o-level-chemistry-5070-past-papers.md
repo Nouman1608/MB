@@ -254,6 +254,20 @@ Official documents: [past papers, mark schemes and examiner report](https://www.
 6. **Re-test.** Sit a paper from a different series a week later and compare. For June 2026 thresholds on our flagship syllabuses, see [grade thresholds](/grade-thresholds/).
 7. **Want a teacher to mark your answers?** Book a [free trial lesson](/trial/).
 
+## Frequently asked questions
+
+**Where can I get Cambridge O Level Chemistry 5070 past papers?**
+Cambridge publishes recent papers, mark schemes, examiner reports and grade thresholds on the 5070 past-papers page. Older series are available to schools through the School Support Hub.
+
+**Are 5070 papers from 2023 to 2025 still relevant to the current syllabus?**
+Yes. Those papers were set on the 2023–2025 syllabus, and Cambridge reports no significant changes affecting teaching in the 2026–2028 syllabus, but check the syllabus version on each paper's front cover before relying on an old question.
+
+**What are the most common mistakes in 5070 Chemistry according to examiners?**
+Repeated issues include ignoring or inverting the mole ratio, not converting cm³ to dm³, putting electrons on the wrong side of half-equations, and saying "more collisions" instead of more frequent or more successful collisions.
+
+**How should I mark a 5070 past paper?**
+Mark it with the official mark scheme and be strict about observations, units and significant figures. Then read the examiner report notes to see why answers that looked right still lost marks.
+
 ## About these notes
 
 These notes come from Cambridge's grade-threshold tables and Principal Examiner Reports for Teachers for June 2023, November 2023, June 2024, November 2024, June 2025, November 2025 and June 2026, written in our own words. Thresholds change every series and must never be used to predict future ones. If you spot an error, please [report a correction](/report-a-correction/).

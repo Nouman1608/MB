@@ -17,10 +17,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-analytical-techniques"
     subtopic: "as-mass-spectrometry"
-description: "Original exam-style practice questions with full worked answers on IR absorptions, molecular ions, fragmentation and isotope patterns for Cambridge AS & A Level Chemistry 9701."
+description: "Original practice questions with worked answers for Cambridge AS & A Level Chemistry 9701 on IR absorptions, molecular ions, fragments and isotope patterns."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -134,3 +136,17 @@ Related: [Infrared and Mass Spectrometry revision notes](/resources/as-chemistry
 - Guessing a fragment's identity from its mass alone without checking it against the standard loss table (15, 17, 29, 31, 45).
 
 Questions 7 and 8 draw on the fragmentation-loss table and the amine/nitrile absorptions from the [Infrared and Mass Spectrometry revision notes](/resources/as-chemistry-ir-mass-spec-revision-notes/), material the earlier questions on this page don't reach, since they focus on the carbonyl/hydroxyl decision tree and halogen isotope patterns instead.
+
+## Frequently asked questions
+
+**What determines the frequency at which a bond absorbs infrared radiation?**
+The frequency depends on the strength of the bond and the masses of the atoms joined by it. This is the basis of infrared spectroscopy in Cambridge 9701.
+
+**How do you tell a carboxylic acid O–H from an alcohol O–H in an IR spectrum?**
+A carboxylic acid O–H gives a broad absorption around 2500–3000 cm⁻¹, while an alcohol O–H absorbs around 3200–3600 cm⁻¹. Confusing these two ranges is a common error.
+
+**Is the fingerprint region examinable in Cambridge 9701?**
+On this page, interpreting individual fingerprint-region peaks is treated as background beyond the 9701 syllabus. The fingerprint region can be compared with known spectra to identify a compound.
+
+**How should you identify fragments in a mass spectrum?**
+Check the mass lost from the molecular ion against the standard losses, such as 15 for CH₃ and 45 for COOH. Guessing a fragment from its mass alone, without that check, is a frequent mistake.

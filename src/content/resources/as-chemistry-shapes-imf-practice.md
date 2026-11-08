@@ -26,7 +26,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on VSEPR shapes, polarity and intermolecular forces for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -131,3 +133,17 @@ Related: [Shapes and Intermolecular Forces revision notes](/resources/as-chemist
 - Saying a double bond is "two identical bonds" rather than one σ and one weaker, more reactive π bond.
 - Forgetting that the unhybridised p orbital, not the hybrid orbitals, is what forms the π bond.
 - Treating "van der Waals' forces" as excluding hydrogen bonding, rather than as the umbrella term covering it.
+
+## Frequently asked questions
+
+**What principle predicts the shape of a simple molecule?**
+Electron pairs around the central atom repel and arrange themselves as far apart as possible, and lone pairs repel more strongly than bonding pairs. This is VSEPR theory in Cambridge 9701.
+
+**What are the conditions for hydrogen bonding?**
+Hydrogen must be bonded directly to nitrogen or oxygen, and there must be a lone pair on an N or O atom of a neighbouring molecule. H₂S does not form hydrogen bonds.
+
+**Why is CO₂ non-polar even though its bonds are polar?**
+CO₂ is linear and symmetrical, so its two bond dipoles are equal and opposite and cancel. Saying a molecule is polar just because its bonds are polar ignores symmetry.
+
+**What is the difference between a σ bond and a π bond?**
+A σ bond forms by direct, head-on overlap of orbitals, while a π bond forms by sideways overlap of p orbitals. A C=C double bond contains one σ bond and one π bond.

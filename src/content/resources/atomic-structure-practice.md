@@ -31,7 +31,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on elements/compounds/mixtures, subatomic particles, electronic configuration and isotopes."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
@@ -129,3 +131,17 @@ Related: [Atomic Structure revision notes](/resources/atomic-structure/)
 - In an "identify the isotope" question, picking an atom with a different proton number (a different element entirely) rather than one with the same proton number but a different mass number/neutron count.
 - Writing the mass number and proton number the wrong way round in isotope symbol notation.
 - Forgetting that removing an electron to form a positive ion never changes the proton number or the element.
+
+## Frequently asked questions
+
+**Which questions are Extended only for Cambridge IGCSE 0620?**
+Questions on calculating relative atomic mass from isotope abundances are labelled 0620 Extended. They are required content for Cambridge O Level 5070.
+
+**What is the difference between proton number and mass number?**
+Proton number is the number of protons in the nucleus and identifies the element. Mass number is the total number of protons and neutrons, and it varies between isotopes of the same element.
+
+**How do you calculate relative atomic mass from isotope abundances?**
+Multiply each isotope's mass number by its percentage abundance, add the results and divide by 100. Averaging the masses without weighting by abundance is a common mistake.
+
+**Does forming an ion change the element?**
+No. Forming an ion changes only the number of electrons. The proton number, and therefore the element, stays the same.

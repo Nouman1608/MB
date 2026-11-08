@@ -17,7 +17,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on addition polymers, repeat units, properties and disposal for AS Chemistry."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -97,3 +99,17 @@ Related: [Addition Polymerisation revision notes](/resources/as-chemistry-additi
 Addition polymers are useful precisely because they are chemically inert — durable, resistant to rot and corrosion — and this is exactly the same property that makes them persist in landfill for a very long time. A strong answer on disposal links both halves of this together rather than treating "why they're useful" and "why they're a problem" as unrelated points: the saturated carbon backbone that most everyday reagents can't attack is the single underlying cause of both.
 
 For condensed recall notes on this topic, see the [Addition Polymerisation revision notes](/resources/as-chemistry-addition-polymerisation-revision-notes/); for the full explanation with additional worked examples, see the [Addition Polymerisation study guide](/resources/as-addition-polymerisation/).
+
+## Frequently asked questions
+
+**Why can alkenes form addition polymers but alkanes cannot?**
+An alkene has a C=C double bond, one bond of which can break so the monomer can join to others. A saturated alkane has no double bond to open. This is tested in Cambridge 9701 Topic 20.1.
+
+**What must a correctly drawn repeat unit include?**
+The repeat unit must have no double bond, show bonds extending through the brackets and have n outside the brackets. Missing any of these is a common way to lose marks.
+
+**Why is poly(chloroethene) more rigid than poly(ethene)?**
+The C–Cl bond is polar, so neighbouring poly(chloroethene) chains have permanent dipole–dipole attractions between them, which are stronger than the forces between poly(ethene) chains.
+
+**What does a plasticiser do?**
+A plasticiser makes a rigid polymer softer and more flexible. Its small molecules sit between the polymer chains and push them apart; it does not break the chains.

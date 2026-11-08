@@ -185,6 +185,20 @@ H₂PO₄⁻(aq) + NH₃(aq) ⇌ HPO₄²⁻(aq) + NH₄⁺(aq)
 - [Titration curves and buffers (14.15 onwards)](/resources/edexcel-ial-chemistry-acid-base-equilibria-titration-curves-and-buffers/)
 - [Introduction to kinetics and equilibria (Unit 2 groundwork)](/resources/edexcel-ial-chemistry-introduction-to-kinetics-and-equilibria/)
 
+## Frequently asked questions
+
+**Which Edexcel IAL Chemistry outcomes do these acid-base questions test?**
+They test outcomes 14.1 to 14.14 of Topic 14, Acid-base Equilibria, in the Pearson Edexcel International Advanced Level Chemistry specification (YCH11).
+
+**Why do you double [OH⁻] for some hydroxides?**
+Group 2 hydroxides such as Ba(OH)₂ release two OH⁻ ions per formula unit, so [OH⁻] is twice the concentration of the hydroxide. Forgetting to double it gives the wrong pH.
+
+**Why should you not round [H⁺] early in a Ka calculation?**
+Rounding [H⁺] to two significant figures before squaring it can change the final value of Ka. Keep unrounded values until the end.
+
+**Is pH 7 always neutral?**
+Only at 298 K. Kw changes with temperature, so pure water can have a pH other than 7 at other temperatures and still be neutral.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited. Pages in this set teach Topic 14: Acid-base Equilibria (Unit 4), outcomes 14.1 to 14.14.

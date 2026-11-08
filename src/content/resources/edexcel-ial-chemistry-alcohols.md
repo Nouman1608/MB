@@ -254,6 +254,20 @@ Yields fall below 100% through incomplete oxidation and losses in transfer and d
 
 Condense this into the [revision notes](/resources/edexcel-ial-chemistry-alcohols-revision-notes/), then try the [practice questions](/resources/edexcel-ial-chemistry-alcohols-practice/).
 
+## Frequently asked questions
+
+**Which Edexcel IAL Chemistry outcomes cover alcohols?**
+Alcohols are Topic 10C of the Pearson Edexcel International Advanced Level Chemistry specification (YCH11), learning outcomes 10.15 to 10.20, including Core Practical 7.
+
+**How are alcohols converted into halogenoalkanes?**
+Use PCl₅ for chloroalkanes, potassium bromide with 50% concentrated sulfuric acid for bromoalkanes, and red phosphorus with iodine for iodoalkanes.
+
+**What is Core Practical 7 in Edexcel IAL Chemistry?**
+Core Practical 7 is the oxidation of propan-1-ol with acidified potassium dichromate(VI), producing propanal by distillation and propanoic acid by reflux.
+
+**What must be done before testing an alcohol with PCl₅?**
+The sample must be dry, because water also reacts with PCl₅ and would give a misleading result.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11), Specification, Issue 1, September 2017, Pearson Education Limited. Topic 10: Organic Chemistry: Halogenoalkanes, Alcohols and Spectra, part 10C: Alcohols (outcomes 10.15 to 10.20).

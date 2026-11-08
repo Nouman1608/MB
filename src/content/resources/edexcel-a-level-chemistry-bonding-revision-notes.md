@@ -13,10 +13,12 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-structure-bonding-organic-chemistry-ych11"
-description: "Condensed recall notes on bonding, shapes, intermolecular forces, organic nomenclature and mechanisms for Pearson Edexcel International A-Level Chemistry (YCH11)."
+description: "Revision notes for Pearson Edexcel International A Level Chemistry YCH11 on bonding, molecular shapes, intermolecular forces, naming and organic mechanisms."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -250,3 +252,16 @@ Hydrogen bonding needs **both** conditions. HCl does not hydrogen bond.
   <figcaption>Two curly arrows: the lone pair on O forms the C-O bond and the C-Br pair moves onto Br (OCR adds that attack is from the side opposite the halogen).</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Do covalent bonds break when a molecular solid melts?**
+No. Melting a simple molecular solid overcomes the intermolecular forces between molecules; the covalent bonds within the molecules stay intact.
+
+**Why is the reactivity of halogenoalkanes linked to bond enthalpy?**
+The rate of nucleophilic substitution depends on how easily the carbon–halogen bond breaks, so the weaker C–I bond reacts fastest. Explaining the order by electronegativity is an exam trap.
+
+**Is a racemic mixture optically active?**
+No. A racemic mixture contains equal amounts of two optical isomers, so their rotations cancel and it is optically inactive.
+
+**What two conditions are needed for E/Z isomerism?**
+There must be a C=C double bond, which restricts rotation, and two different groups attached to each carbon of the double bond. Giving only one condition is a common error.

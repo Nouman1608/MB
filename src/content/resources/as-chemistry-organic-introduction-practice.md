@@ -23,10 +23,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-an-introduction-to-as-level-organic-chemistry"
     subtopic: "as-isomerism"
-description: "Original exam-style practice questions with full worked answers on nomenclature, formulae, isomerism and reaction mechanisms terminology."
+description: "Original practice questions with worked answers for Cambridge AS & A Level Chemistry 9701 on organic naming, formulae, isomerism and mechanism terminology."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -104,3 +106,17 @@ Related: [Introduction to Organic Chemistry revision notes](/resources/as-chemis
 - Drawing a curly arrow starting from an atom or a positive charge instead of a bond or a lone pair.
 - Assuming a carbonyl compound reacts like an alkene simply because both contain a carbon-to-something double bond — in a C=O bond the carbon is δ+ and attracts a nucleophile, the reverse of the C=C bond in an alkene, which attracts an electrophile.
 - Mixing up which of the four mechanisms applies to which substrate — link the substrate type (alkane, alkene, halogenoalkane, carbonyl compound) to the mechanism name every time, rather than guessing.
+
+## Frequently asked questions
+
+**What is a homologous series?**
+A homologous series is a family of compounds with the same functional group and general formula, each member differing from the next by CH₂. Members show similar chemical properties and a gradual trend in physical properties.
+
+**How do you number the carbon chain when naming an organic compound?**
+Number the chain from the end that gives the lowest locants to the substituents or functional group. Numbering from the wrong end is a common mistake.
+
+**What is the difference between a nucleophile and an electrophile?**
+A nucleophile is an electron-pair donor and an electrophile is an electron-pair acceptor. Defining a nucleophile simply as "negatively charged" does not earn the mark.
+
+**What are the rules for drawing curly arrows?**
+A full curly arrow shows a pair of electrons moving and a half-arrow shows one electron. Each arrow must start from a bond or a lone pair, not from an atom or a positive charge.

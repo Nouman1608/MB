@@ -14,10 +14,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-equilibria"
     subtopic: "as-chemical-equilibria"
-description: "Dynamic equilibrium, Le Chatelier's principle, and the Kc and Kp equilibrium-constant expressions, including the Haber and Contact processes, for Cambridge International AS & A Level Chemistry 9701."
+description: "Dynamic equilibrium, Le Chatelier's principle and Kc and Kp expressions, with the Haber and Contact processes, for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
@@ -204,6 +206,20 @@ temperature and catalysts
 - What changes K (temperature only) vs what changes position only
 (concentration, pressure, catalyst)
 - Haber and Contact process conditions as a yield/rate compromise
+
+## Frequently asked questions
+
+**What changes the value of Kc or Kp?**
+Only a change in temperature changes the numerical value of Kc or Kp. Changing concentration or pressure can shift the position of equilibrium but does not change K, and a catalyst affects neither.
+
+**Does Kc always have no units?**
+No. Kc has no units only when the total number of moles on each side of the equation is equal. Otherwise, work out the units from the expression.
+
+**How do you write a Kc expression?**
+Write the product concentrations over the reactant concentrations, with each term raised to the power of its coefficient in the balanced equation. Leaving terms to the first power is a common mistake.
+
+**What is dynamic equilibrium?**
+Dynamic equilibrium is reached in a closed system when the forward and reverse reactions occur at the same rate, so the concentrations stay constant. It is subtopic 7.1 of Cambridge International AS & A Level Chemistry 9701.
 
 ## Related resources
 

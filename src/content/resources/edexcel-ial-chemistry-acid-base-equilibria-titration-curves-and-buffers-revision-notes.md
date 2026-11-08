@@ -236,6 +236,20 @@ Assumptions for buffer pH: the weak acid's own dissociation is negligible, and a
 - Forgetting that the second end point for a diprotic species is at twice the first volume.
 - Describing blood buffering without naming HCO₃⁻ and H₂CO₃.
 
+## Frequently asked questions
+
+**What is the difference between the equivalence point and the end point?**
+The equivalence point is the volume at which acid and base have reacted exactly in the ratio of the equation. The end point is where the indicator changes colour; a good indicator makes the two match.
+
+**What is a basic buffer?**
+A basic buffer contains a weak base and its conjugate acid, for example ammonia with ammonium chloride. An acidic buffer contains a weak acid and its conjugate base.
+
+**Where is the second end point for a diprotic species?**
+For a diprotic acid or base, the second end point comes at twice the volume of the first. Forgetting this two-step stoichiometry is a common error in Edexcel IAL Chemistry questions.
+
+**Which species buffer blood?**
+Blood is buffered by the carbonic acid–hydrogencarbonate system, H₂CO₃ and HCO₃⁻. Describing blood buffering without naming these species loses marks.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, published by Pearson Education Limited. Topic 14: Acid-base Equilibria, outcomes 14.15 to 14.23, including Core Practical 11.

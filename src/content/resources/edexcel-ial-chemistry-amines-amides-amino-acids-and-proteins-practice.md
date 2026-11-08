@@ -184,6 +184,23 @@ Use these relative atomic masses: N = 14.0, C = 12.0, Cl = 35.5, H = 1.0, O = 16
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which Edexcel IAL Chemistry topic do these organic nitrogen questions cover?**
+They cover Topic 19, Organic Nitrogen Compounds: Amines, Amides, Amino Acids and Proteins, in Unit 5 of the Pearson Edexcel International Advanced Level Chemistry specification (YCH11).
+
+**How should you explain the base strength of amines?**
+Amines accept a proton using the lone pair on nitrogen, so base strength depends on how available that lone pair is. Answers that do not mention the nitrogen lone pair do not earn full marks.
+
+**What conditions are needed to make a primary amine from a halogenoalkane?**
+Use excess concentrated ammonia dissolved in ethanol, heated under pressure in a sealed container. Giving just "ammonia" without these conditions is a common way to lose marks.
+
+**What are the common mistakes when making phenylamine and azo dyes?**
+Common errors are forgetting the sodium hydroxide step after reducing nitrobenzene with tin and hydrochloric acid, and writing "cold" instead of a temperature, below 10 °C, for diazotisation.
+
+**Why are nylon fibres strong?**
+Hydrogen bonds form between N–H groups on one chain and C=O groups on a neighbouring chain, along with London forces along the chains. Answers should name the groups involved in the hydrogen bonding.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited -- Unit 5, Topic 19: Organic Nitrogen Compounds: Amines, Amides, Amino Acids and Proteins, outcomes 19.1 to 19.12 (Core Practical 15).

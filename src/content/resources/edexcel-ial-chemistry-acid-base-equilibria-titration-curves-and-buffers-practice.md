@@ -158,6 +158,23 @@ Assume 298 K and Kw = 1.00 × 10⁻¹⁴ mol² dm⁻⁶. Use the data given in e
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which Edexcel IAL Chemistry outcomes do these titration and buffer questions cover?**
+They cover outcomes 14.15 to 14.23 of Topic 14, Acid-base Equilibria, in the Pearson Edexcel International Advanced Level Chemistry specification (YCH11), including Core Practical 11.
+
+**What is a buffer solution?**
+A buffer solution is one whose pH changes very little when a small amount of acid or alkali is added. An acidic buffer contains a weak acid and its conjugate base.
+
+**How do you choose an indicator from a titration curve?**
+Choose an indicator whose whole colour-change range lies within the steep section of the curve. Picking one that starts or ends its change outside the steep section is a common error.
+
+**How can you find pKa from a titration curve?**
+At half the equivalence volume, [HA] equals [A⁻], so pH equals pKa. Reading the pH at the full equivalence volume instead is a frequent mistake.
+
+**What mistakes are common in buffer pH calculations?**
+Common errors include using starting moles rather than moles left after reaction, and inverting the ratio in [H⁺] = Ka × [HA]/[A⁻].
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, published by Pearson Education Limited. Topic 14: Acid-base Equilibria, outcomes 14.15 to 14.23, including Core Practical 11.

@@ -14,10 +14,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-organic-synthesis"
     subtopic: "as-organic-synthesis"
-description: "Identifying functional groups, planning multi-step synthetic routes, and analysing given routes, using every AS organic reaction together, for Cambridge International AS & A Level Chemistry 9701."
+description: "Planning and analysing multi-step organic routes for Cambridge AS & A Level Chemistry 9701, identifying functional groups and using every AS reaction."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
@@ -174,6 +176,20 @@ each step
 consider realistic by-products
 - Checking that solvent/conditions (not just reagent identity) determine
 which product forms
+
+## Frequently asked questions
+
+**What is tested in Cambridge 9701 organic synthesis questions?**
+Subtopic 21.1 asks you to identify functional groups, predict properties and reactions, plan multi-step routes and analyse given routes. It draws on all the AS organic reactions together.
+
+**Can you include a step that is not in the syllabus?**
+No. Every step in a proposed route needs a real, named reagent and condition from a reaction you have studied. A plausible-sounding direct conversion does not earn credit.
+
+**Can a halogenoalkane be converted directly into a hydroxynitrile?**
+No. The route has to pass through an alcohol and then a carbonyl compound before HCN can be added. Skipping necessary intermediate steps is a common mistake.
+
+**How should you approach planning a synthesis?**
+Compare the functional groups and carbon count of the starting material and target, then link known reactions step by step, giving reagents and conditions for each.
 
 ## Related resources
 

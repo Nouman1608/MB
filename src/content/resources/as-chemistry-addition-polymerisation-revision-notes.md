@@ -17,7 +17,9 @@ syllabusTopics:
 description: "Condensed recall notes on addition polymers, repeat units, properties and disposal for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -146,3 +148,16 @@ The C–C backbone is **unreactive and non-polar**, with no bonds that enzymes o
   <figcaption>Each disposal route has an advantage and a drawback.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you deduce the monomer from a section of an addition polymer?**
+Identify the two-carbon repeating unit, then put back the C=C double bond between those two carbons, keeping every substituent in place. For example, –CH₂–CCl₂– comes from CH₂=CCl₂.
+
+**Are addition polymers biodegradable?**
+No. Addition polymers have a saturated backbone of strong, non-polar bonds and are not biodegradable, so they persist in landfill. Saying they are biodegradable is an exam trap.
+
+**What hazard comes from burning PVC?**
+Burning PVC releases hydrogen chloride gas because the polymer contains chlorine. Naming HCl is required for the mark in Cambridge 9701 questions.
+
+**Which addition polymers do you need to know?**
+Common examples include poly(ethene), poly(propene), poly(chloroethene) or PVC, poly(phenylethene) or polystyrene, and PTFE, each made from the matching alkene monomer.

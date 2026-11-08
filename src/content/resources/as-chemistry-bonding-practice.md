@@ -23,7 +23,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on bonding, structure and properties for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -126,3 +128,17 @@ Related: [Ionic, Covalent and Metallic Bonding revision notes](/resources/as-che
 - Explaining MgO's melting point by charge alone, without mentioning ionic radius.
 - Describing metallic bonding as a bond between two specific atoms, rather than a force extending through the whole structure.
 - Confusing "no sharp electronegativity cutoff" with there being no way to compare bond types — always reason from the relative size of the difference.
+
+## Frequently asked questions
+
+**What must a definition of ionic or metallic bonding include?**
+Both definitions must include electrostatic attraction: between oppositely charged ions for ionic bonding, and between positive metal ions and delocalised electrons for metallic bonding. Leaving it out loses marks in Cambridge 9701.
+
+**What is a dative covalent bond?**
+A dative covalent bond is a covalent bond in which both electrons of the shared pair come from the same atom. Examples include the bond formed in NH₄⁺ or H₃O⁺.
+
+**Why does magnesium oxide have a higher melting point than sodium chloride?**
+Mg²⁺ and O²⁻ carry double the charge of Na⁺ and Cl⁻ and the ions are smaller, so the electrostatic attraction between them is much stronger. Mention both charge and ionic radius.
+
+**Why are metals malleable?**
+Layers of positive ions can slide past one another without breaking any specific bond, because the delocalised electrons hold the structure together in every direction.

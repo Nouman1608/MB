@@ -14,10 +14,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-electrochemistry"
     subtopic: "as-redox-processes"
-description: "Calculating and using oxidation numbers, balancing equations by oxidation-number change, and disproportionation, for Cambridge International AS & A Level Chemistry 9701."
+description: "Oxidation numbers, electron transfer, balancing equations by oxidation-number change and disproportionation for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
@@ -154,6 +156,20 @@ decrease / electron gain
 - Disproportionation: one species, one reaction, both oxidised and reduced
 - Balancing redox equations by equalising electrons lost and gained via
 oxidation-number change, then balancing O and H
+
+## Frequently asked questions
+
+**What is the oxidation number of oxygen in hydrogen peroxide?**
+In peroxides such as H₂O₂ and Na₂O₂, oxygen has an oxidation number of −1, not the usual −2. Always check whether an exception applies before assuming the default.
+
+**Is an oxidising agent oxidised or reduced?**
+An oxidising agent causes oxidation in another species and is itself reduced. Confusing "oxidised" with "oxidising agent" is a common mistake.
+
+**How do you balance a redox equation by oxidation-number change?**
+Find the change in oxidation number for the element oxidised and the element reduced, then multiply the species so the total increase equals the total decrease. Finally balance any remaining atoms.
+
+**How do you spot a disproportionation reaction?**
+Check the oxidation number of the element in every product. If the same element is both oxidised and reduced, the reaction is disproportionation, even if the products look like normal salts.
 
 ## Related resources
 
