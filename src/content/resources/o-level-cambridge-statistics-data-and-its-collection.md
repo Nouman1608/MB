@@ -22,10 +22,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "data-and-its-collection-4040"
     subtopic: "types-of-data-and-variable-4040"
-description: "Sampling, survey design and data classification -- the opening topic of Cambridge O Level Statistics (4040), a twelve-topic syllabus closely mirroring sibling IGCSE Statistics 0479."
+description: "Topic 1 of Cambridge O Level Statistics 4040: classifying data, primary and secondary sources, census and sampling methods, bias and stratified samples."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
@@ -156,3 +158,20 @@ Calling shoe size continuous. Writing overlapping classes such as 10–20 and 20
 - Calculate a stratified sample so the parts total correctly.
 - Identify sources of bias and explain why sample size does not remove them.
 - Design an unbiased questionnaire and explain the role of a pilot survey.
+
+## Frequently asked questions
+
+**What is the difference between a census and a sample?**
+A census covers every member of the population, so it is complete but expensive, slow and impossible where testing destroys the item. A sample covers part of the population, drawn from a list called the sampling frame.
+
+**Is a stratified sample still random?**
+Yes. A stratified sample takes proportional numbers from each group, and each group is then sampled randomly within itself. Forgetting this randomness within groups is a common mistake.
+
+**Why is asking every 5th person outside a shop not a true systematic sample?**
+It is systematic in form, but with no sampling frame and no defined random start it is really opportunity sampling. A proper systematic sample takes every nth item from a random start on a list.
+
+**What is bivariate data?**
+Bivariate data records two variables for each item, such as height and mass. It is what makes scatter diagrams and correlation possible later in Cambridge O Level Statistics 4040.
+
+**How is O Level Statistics 4040 different from IGCSE Statistics 0479?**
+The two syllabuses cover much the same content but in a different order and with different topic names. For example, 4040 gives cumulative frequency its own topic and places probability at Topics 11 and 12, where 0479 places it at Topics 7 and 8.

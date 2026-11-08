@@ -12,10 +12,12 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "representation-of-data-0479"
-description: "Condensed recall notes on frequency tables, bar charts, pie charts, Venn diagrams and stem-and-leaf diagrams for Topic 2 of Cambridge IGCSE Statistics (0479), examination 2027."
+description: "Recall notes on two-way tables, choosing bar, pie, Venn, box-and-whisker and stem-and-leaf diagrams, and stated exclusions for Cambridge IGCSE Statistics 0479."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
@@ -118,6 +120,23 @@ technique entirely.
 **Answers:** 1. Pictogram drawing and box-and-whisker outlier identification. 2. Venn diagram. 3. Two
 variables at once. 4. Stem-and-leaf diagram. 5. Justifying the use of a specific representation method
 in a given situation.
+
+## Frequently asked questions
+
+**Can you be asked to interpret a pictogram in IGCSE Statistics 0479?**
+Yes. Only drawing pictograms is excluded from the 0479 syllabus; interpreting pictograms that are already drawn remains examinable.
+
+**What skills are tested with two-way tables?**
+A two-way table cross-tabulates two variables at once. Reading a specific row-and-column intersection, a row total and a column total are each tested, so treat it as a table-reading skill.
+
+**Where is the boundary between Topic 2 and Topic 3 in 0479?**
+Topic 2 represents data that is still raw or lightly organised. Once data is grouped into class intervals, it belongs to Topic 3, Frequency distributions, which introduces histograms and frequency polygons.
+
+**Which diagram should you use for overlapping categories?**
+A Venn diagram suits data that falls into overlapping categories, such as students who both cycle to school and play a sport.
+
+**How long are the Cambridge IGCSE Statistics 0479 papers?**
+Both papers last 2 hours 15 minutes, carry 100 marks and are each worth 50% of the qualification, so Topic 2 content can appear in either paper.
 
 ## Official syllabus
 

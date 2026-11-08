@@ -12,10 +12,12 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "representation-of-data-0479"
-description: "Frequency tables, pictograms, bar charts, pie charts, Venn diagrams, box-and-whisker and stem-and-leaf diagrams -- Topic 2 of Cambridge IGCSE Statistics (0479), for examination 2027."
+description: "Topic 2 of Cambridge IGCSE Statistics 0479: frequency and two-way tables, bar and pie charts, Venn, box-and-whisker and stem-and-leaf diagrams."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
@@ -119,6 +121,23 @@ into class intervals for a large data set, that becomes Topic 3
 polygons as a separate, more advanced step. Keeping this boundary
 clear avoids the common confusion of trying to apply Topic 3's
 grouped-data techniques to a Topic 2 question, or vice versa.
+
+## Frequently asked questions
+
+**Do you need to draw pictograms in Cambridge IGCSE Statistics 0479?**
+No. Drawing pictograms is not required in 0479, but interpreting a pictogram that has already been drawn remains examinable.
+
+**Do you need to identify outliers on a box-and-whisker diagram in 0479?**
+No. The 0479 syllabus states that identifying outliers is not required for box-and-whisker diagrams.
+
+**Which types of bar chart are in the IGCSE Statistics 0479 syllabus?**
+The syllabus lists simple, sectional, percentage sectional and multiple bar charts, alongside pie charts (including comparative pie charts), Venn diagrams, box-and-whisker diagrams and stem-and-leaf diagrams.
+
+**When is a stem-and-leaf diagram better than a box-and-whisker diagram?**
+A stem-and-leaf diagram keeps every individual value visible, which suits a small data set where no detail should be lost. A box-and-whisker diagram is more useful for summarising the middle 50% of the data and comparing spread with another data set.
+
+**Are histograms part of Topic 2 Representation of Data?**
+No. Histograms and frequency polygons belong to Topic 3, Frequency distributions, where data is organised into class intervals.
 
 ## Official syllabus
 

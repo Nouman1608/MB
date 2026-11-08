@@ -16,7 +16,7 @@ syllabusTopics:
     topic: "index-numbers-4040"
   - qualification: "igcse"
     topic: "index-numbers-0479"
-description: "Price relatives, weighted aggregate index numbers with weights from base-year expenditure, what an index number means, and its limitations — Cambridge O Level Statistics 4040 Topic 8 and IGCSE Statistics 0479 Topic 10, with a worked example."
+description: "Price relatives and weighted aggregate index numbers with base-year weights, interpretation and limitations: Cambridge O Level Statistics 4040 and IGCSE 0479."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
@@ -134,6 +134,23 @@ A check you can do: with weights from base-year expenditure, the index equals
 - Writing the price relative "the wrong way up" (base ÷ given): a price rise must give a relative above 100.
 - Describing an index of 121 as "prices rose by 121%".
 - Listing limitations in general terms without linking them to the data in the question (for example, "the household may now use less electricity, so its weight is too large").
+
+## Frequently asked questions
+
+**What does a price relative of 115 mean?**
+It means the price in the given year is 115% of the base-year price, so the price has risen by 15%. A price relative of 100 means no change, and below 100 means the price has fallen.
+
+**How do you calculate weights for a weighted aggregate index?**
+When the question gives prices and quantities, each weight is the base-year price multiplied by the base-year quantity, which is the base-year expenditure on that item.
+
+**Does an index of 121 mean every price rose by 21%?**
+No. It means prices rose on average by 21% since the base year, weighted by spending on each item. Individual items can rise by more or less than that.
+
+**What are the limitations of a weighted aggregate index number?**
+The weights are fixed at base-year expenditure and go out of date when consumption changes, substitution to cheaper items is ignored, the basket of items is limited, and it is only an average that may not match a particular household.
+
+**Which kinds of index number are in O Level Statistics 4040 and IGCSE 0479?**
+Price relatives and weighted aggregate index numbers are the only two kinds named. They are Topic 8 of Cambridge O Level Statistics 4040 and Topic 10 of Cambridge IGCSE Statistics 0479.
 
 ## Related pages
 

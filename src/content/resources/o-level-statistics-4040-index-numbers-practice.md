@@ -16,7 +16,7 @@ syllabusTopics:
     topic: "index-numbers-4040"
   - qualification: "igcse"
     topic: "index-numbers-0479"
-description: "Original practice questions with full worked answers on price relatives, weighted aggregate index numbers (given and calculated weights), interpretation and limitations — O Level Statistics 4040 Topic 8 and IGCSE Statistics 0479 Topic 10."
+description: "Practice questions with worked answers on price relatives and weighted aggregate index numbers: O Level Statistics 4040 Topic 8 and IGCSE 0479 Topic 10."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false

@@ -189,6 +189,23 @@ Limitations to quote:
 - Giving a prediction with no mention of the trend value used, so a slip cannot be followed.
 - Writing a limitation that is too vague, such as "it might be wrong", instead of naming an assumption.
 
+## Frequently asked questions
+
+**Does a "season" in time series have to be a season of the year?**
+No. A season is any period in a repeating cycle, such as a quarter, a day of the week or a month.
+
+**How many moving averages does a series give?**
+A series of N values gives N − n + 1 moving averages with n points. For 4 points that is N − 3, and one fewer after centring, so 12 quarterly values give 9 four-point averages and 8 centred ones.
+
+**Why does a five-point moving average not need centring?**
+The middle of five consecutive values is the third value, which is an actual time period. Only moving averages with an even number of points need centring.
+
+**How can you check your seasonal components?**
+Components should be positive for seasons that peak and negative for troughs, and together they should add to roughly zero.
+
+**Which syllabus sections do these time series notes cover?**
+They cover sections 10.1 (trend) and 10.2 (seasonal variation) of Cambridge O Level Statistics 4040 for examination in 2025, 2026 and 2027, and topic 12 of Cambridge IGCSE Statistics 0479 for 2027.
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, published by Cambridge University Press & Assessment: topic 10, Time series, sections 10.1 and 10.2. For the IGCSE content: Cambridge IGCSE Statistics 0479, syllabus for 2027, topic 12, Time series.

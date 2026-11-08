@@ -12,10 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "data-and-its-collection-0479"
-description: "Sampling methods, survey design and classifying data -- the opening topic of Cambridge IGCSE Statistics (0479), a twelve-topic syllabus assessed across two compulsory papers."
+description: "Topic 1 of Cambridge IGCSE Statistics 0479: types of data, census and sampling methods, bias, stratified samples, questionnaires and pilot surveys."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
@@ -128,3 +130,20 @@ Classifying shoe size as continuous because sizes include halves — it is discr
 - Calculate a stratified sample, rounding so the totals agree.
 - Identify sources of bias and write unbiased questionnaire questions.
 - Explain the purpose of a pilot survey.
+
+## Frequently asked questions
+
+**Which sampling methods are named in the Cambridge IGCSE Statistics 0479 syllabus?**
+Topic 1 names simple random, systematic, stratified and quota sampling. Opportunity sampling is common wider vocabulary but is not one of the methods 0479 names.
+
+**Is shoe size discrete or continuous data?**
+Shoe size is discrete, even though sizes include halves, because only specific values occur. Continuous data, such as height, mass or time, can take any value within a range.
+
+**Does a larger sample remove bias?**
+No. A larger sample reduces sampling error, the random variation between samples, but a biased method stays biased at any sample size.
+
+**How do you calculate a stratified sample?**
+Find the sampling fraction (sample size ÷ population size), multiply each group's size by it, and round so the parts still add up to the required sample. Choosing equal numbers from each group is not stratified sampling.
+
+**What is the difference between primary and secondary data?**
+Primary data is collected by the investigator for the purpose at hand, so it is relevant but slow and costly. Secondary data already exists, so it is quick and cheap but may be outdated, biased or collected for a different purpose.
