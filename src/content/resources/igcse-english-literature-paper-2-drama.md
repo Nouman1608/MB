@@ -12,13 +12,15 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-drama-0475"
-description: "How Paper 2 Drama is assessed in Cambridge IGCSE Literature in English 0475: two questions on two set plays, the choice between passage-based and essay tasks, the closed-book rule, and what each of the four assessment objectives rewards in a drama answer, for the 2026 series."
+description: "Paper 2 Drama in Cambridge IGCSE Literature in English 0475: two set plays, passage-based and essay tasks, the closed-book rule and what each AO rewards."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-24
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description shortened to 140-160 characters and FAQ added; 2028-2030 note corrected (Paper 1 plus either Paper 2 or coursework, per the 2028-2030 syllabus); please re-review."
 ---
 
 This guide explains how **Paper 2 Drama** works in Cambridge IGCSE
@@ -119,14 +121,30 @@ treating the text like a novel never will. In timed practice, split the
 question at 45 minutes — two balanced 25-mark answers nearly always
 outscore one long and one rushed.
 
+## Frequently asked questions
+
+**How is Paper 2 Drama structured?**
+It lasts 1 hour 30 minutes and is worth 50 marks: two questions on two set plays, 25 marks each. You
+must answer one passage-based (a) question and one essay (b) question.
+
+**Is Paper 2 open book?**
+No. Set texts may not be taken into the exam room; passages for the passage-based questions are
+printed on the paper.
+
+**Who takes Paper 2?**
+Candidates on the route Paper 1 plus Paper 2. Paper 2 is worth 50% of the qualification, the same as
+Paper 1.
+
+
 ## A note on syllabus currency
 
 This guide is written against the Cambridge IGCSE Literature in
 English (0475) syllabus for the 2026 examination series. Cambridge has
 since published a 2027 syllabus, and a further restructure applies
 from the 2028-2030 cycle: the current four-paper-plus-coursework
-structure is replaced by two components, with today's Paper 2 becoming
-a combined drama-and-unseen paper. Confirm which syllabus cycle your
+structure is replaced by a two-component route (Paper 1 Poetry and
+Prose, now open text, plus either Paper 2 Drama and Unseen or a
+50-mark coursework component). Confirm which syllabus cycle your
 candidates are sitting before revising from this guide.
 
 ## Official syllabus

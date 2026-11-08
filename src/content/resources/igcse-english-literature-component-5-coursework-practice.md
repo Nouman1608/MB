@@ -29,7 +29,7 @@ Related: [Component 5 Coursework revision notes](/resources/igcse-english-litera
 
 Component 5 of Cambridge IGCSE Literature in English (0475) has no question paper: you submit two
 assignments of 600–1200 words on two different texts, each marked out of 25 against the eight-level
-Component 5 criteria. These practice tasks therefore do two jobs. Section A checks that you know the
+Component 5 criteria. The component is worth 25 marks in total; the syllabus does not state how the two assignment marks are combined into that total, so treat each title below as a separate 25-mark piece. These practice tasks therefore do two jobs. Section A checks that you know the
 rules that can cost marks before a word is written. Section B gives full coursework titles on
 out-of-copyright texts, each with indicative content mapped to AO1–AO4 and a note on what separates the
 levels, so you can draft, self-assess and redraft.

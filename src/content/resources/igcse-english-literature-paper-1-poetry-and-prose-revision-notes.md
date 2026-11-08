@@ -18,14 +18,16 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-poetry-and-prose-0475"
     subtopic: "section-b-prose-0475"
-description: "Exam technique for Paper 1 -- answer structure, quotation use, the command word 'Explore', and how the assessment objectives are actually marked -- for Cambridge IGCSE English Literature 0475, 2026 series."
+description: "Exam technique for Cambridge IGCSE Literature in English 0475 Paper 1: answer structure, quotation use, the command word Explore and how the AOs are marked."
 seoDescription: "Cambridge IGCSE Literature 0475 Paper 1 revision notes: answer structure, quotation technique, the command word 'Explore', and how marks are awarded."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description shortened to 140-160 characters and FAQ added; please re-review."
 ---
 
 These revision notes cover exam technique for **Paper 1 – Poetry and
@@ -107,6 +109,21 @@ either response.
 - Spending equal or more time on the second, weaker answer's re-reading than the first, leaving no time buffer for checking either response.
 - Answering only the literal, stated part of an implied question ("Explore the ways in which…") without addressing what the exploration is actually building toward -- meaning, effect or the writer's intention.
 - Misquoting the printed text, even in small ways, when analysing a specific word or phrase choice.
+
+## Frequently asked questions
+
+**Is Paper 1 compulsory for 0475?**
+Yes. Every candidate takes Paper 1 Poetry and Prose: 1 hour 30 minutes, 50 marks and 50% of the
+qualification, with one 25-mark question from Section A (Poetry) and one from Section B (Prose).
+
+**Can I take my set texts into Paper 1?**
+No. Set texts may not be taken into the exam room, although the relevant passages and poems are
+printed on the question paper.
+
+**Which assessment objectives are tested?**
+All four in every question: knowledge of the text (AO1), understanding of characters, relationships,
+situations and themes (AO2), the writer's methods and use of language (AO3), and personal response (AO4).
+
 
 ## Self-test
 

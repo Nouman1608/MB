@@ -12,13 +12,15 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-3-drama-open-text-0475"
-description: "How Paper 3 Drama (Open Text) differs from Paper 2 Drama in Cambridge IGCSE Literature in English 0475: the open-book rule, one question from a choice of two on a single set play, and how it combines with either Paper 4 or Component 5 Coursework, for the 2026 series."
+description: "Paper 3 Drama (Open Text) in Cambridge IGCSE Literature 0475: the open-book rule, one question on one set play, and pairing with Paper 4 or Component 5."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description shortened to 140-160 characters and FAQ added; 2028-2030 note corrected (Paper 1 plus either Paper 2 or coursework, per the 2028-2030 syllabus); please re-review."
 ---
 
 Cambridge IGCSE Literature in English (0475) gives candidates three
@@ -138,6 +140,19 @@ since a well-structured response that clearly addresses all four AOs
 in 40 minutes of writing will outperform an unplanned answer that runs
 out of time before reaching a personal response.
 
+## Frequently asked questions
+
+**What can I take into Paper 3?**
+A clean copy of your set play, with no personal annotations, highlighting or underlining, and not an
+edition with extensive study notes or facing-page translations.
+
+**How long is Paper 3?**
+45 minutes for one question from a choice of two, worth 25 marks and 25% of the qualification.
+
+**What is Paper 3 paired with?**
+Paper 3 is always taken with Paper 1 and either Paper 4 Unseen or Component 5 Coursework.
+
+
 ## A note on syllabus currency
 
 This guide is written against the Cambridge IGCSE Literature in
@@ -147,7 +162,8 @@ set-text list -- one 2026 play is withdrawn and a new one added -- so
 confirm the current list before relying on this guide's line-up if
 your candidates are sitting a series after 2026. A further restructure
 applies from the 2028-2030 cycle: the current four-paper-plus-coursework
-structure is replaced by two components, and Paper 3 as described here
+structure is replaced by a two-component route (Paper 1 plus either
+Paper 2 Drama and Unseen or a coursework component), and Paper 3 as described here
 will no longer exist in this form.
 
 ## Official syllabus
