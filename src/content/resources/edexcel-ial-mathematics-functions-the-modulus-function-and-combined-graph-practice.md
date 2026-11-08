@@ -145,6 +145,20 @@ These questions cover topics 1.1 to 1.4 of Unit P3 in the Pearson Edexcel Intern
 - Doubling instead of halving, or the reverse, in f(ax), and moving f(x + a) the wrong way.
 - Leaving coordinates and equations of asymptotes off a sketch.
 
+## Frequently asked questions
+
+**What does fg(x) mean in Edexcel IAL Maths?**
+fg(x) means apply g first and then f. Reading fg as f first is one of the most common errors.
+
+**How do you solve an equation involving a modulus?**
+Consider both cases, where the expression inside the modulus is positive and where it is negative, solve each, and test the solutions in the original equation.
+
+**How do you find the domain of an inverse function?**
+The domain of f⁻¹ is the range of f, not the domain of f.
+
+**Which part of Edexcel IAL Pure 3 covers functions and the modulus?**
+Topics 1.1 to 1.4 of Unit P3 in Pearson Edexcel International A Level Mathematics (YMA01) cover algebraic fractions, functions and inverses, the modulus function and combined graph transformations.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/edexcel-ial-mathematics-functions-the-modulus-function-and-combined-graph-revision-notes/) for any question you lost marks on.

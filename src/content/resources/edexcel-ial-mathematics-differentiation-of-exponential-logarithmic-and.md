@@ -257,6 +257,20 @@ If a count of 1850 were observed at t = 10, the second model fits much better th
 - Working in degrees. The derivative results above assume radians.
 - Not stating what a negative rate of change means in a model.
 
+## Frequently asked questions
+
+**What are the product and quotient rules?**
+For y = uv, dy/dx = u′v + uv′. For y = u/v, dy/dx = (vu′ − uv′)/v², and the order of the terms in the numerator matters.
+
+**How do you use the chain rule?**
+Differentiate the outer function, keeping the inside unchanged, then multiply by the derivative of the inside: dy/dx = (dy/du) × (du/dx).
+
+**What is the derivative of ln f(x)?**
+By the chain rule, the derivative of ln f(x) is f′(x)/f(x).
+
+**What are the derivatives of sec x, cosec x and cot x?**
+d/dx(sec x) = sec x tan x, d/dx(cosec x) = −cosec x cot x and d/dx(cot x) = −cosec² x. They can be rebuilt from the quotient and chain rules if forgotten.
+
 ## Next steps
 
 Rebuild each derivative from memory, then test yourself with the [revision notes](/resources/edexcel-ial-mathematics-differentiation-of-exponential-logarithmic-and-revision-notes/) and try the [practice questions](/resources/edexcel-ial-mathematics-differentiation-of-exponential-logarithmic-and-practice/).

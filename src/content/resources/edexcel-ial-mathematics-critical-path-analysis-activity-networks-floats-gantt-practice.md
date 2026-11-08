@@ -165,6 +165,20 @@ B, D, F, H run end to end [1]. A, C, E start at 0, 5, 7 and G at 13 [1]. Floats 
 - Calculating float with the wrong events.
 - Starting a Gantt bar before a predecessor ends, or leaving out float.
 
+## Frequently asked questions
+
+**What is the difference between the forward pass and the backward pass?**
+The forward pass finds the earliest event times, starting at 0 and taking the largest value at each event. The backward pass finds the latest event times from the end event, taking the smallest value.
+
+**Should a precedence table list all earlier activities?**
+No. In Edexcel IAL D1 precedence tables show immediate predecessors only, so list just the activities that end immediately before each one.
+
+**Does a dummy activity have a duration?**
+No. A dummy has duration 0 and is drawn dashed. Giving it a duration or counting it in a path total loses marks.
+
+**Is a lower bound for the number of workers the same as a schedule?**
+No. A lower bound is the total of the durations divided by the minimum project time, rounded up. You still need to show a schedule with start and finish times that meets every precedence.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt-revision-notes/) and the [study guide](/resources/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt/).

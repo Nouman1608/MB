@@ -269,6 +269,20 @@ Equations whose right-hand side is one of these values have exact answers in deg
 - Leaving an impossible value such as sin x = −2 in the working without rejecting it.
 - Mixing degrees with radians in one answer.
 
+## Frequently asked questions
+
+**What does log_a x = y mean?**
+It is the same statement as aʸ = x, for a > 0, a ≠ 1 and x > 0. A logarithm is an index.
+
+**What is the change of base formula?**
+log_a b = log_c b / log_c a for any suitable base c. For example, log_4 8 = log_2 8 / log_2 4 = 3/2.
+
+**When do you reverse an inequality involving logarithms?**
+Reverse it when you divide by the logarithm of a number between 0 and 1, because that logarithm is negative.
+
+**What is the difference between an exponential and a power function?**
+In an exponential such as 2ˣ the variable is in the power, while in a power function such as x² the variable is the base.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification, Issue 3, April 2019 (Pearson Education Limited), Unit P2 topics 5.1 to 5.3 and 6.1 to 6.2.

@@ -295,6 +295,20 @@ Check that the midpoint lies on the line: 3(2) − 2(4) + 2 = 6 − 8 + 2 = 0.
 - Giving the answer as y = mx + c where the question wants the ax + by + c = 0 layout, or giving non-integer coefficients when integers are requested.
 - Not checking the answer. Substituting the given point into the final equation takes seconds and catches most slips.
 
+## Frequently asked questions
+
+**What forms of a straight-line equation do you need for Edexcel IAL Pure 1?**
+You need to work with y − y₁ = m(x − x₁) and ax + by + c = 0. You will also use y = mx + c, which is useful for reading off the gradient and the y-intercept.
+
+**How do you find the gradient from ax + by + c = 0?**
+Rearrange to y = −(a/b)x − c/b, so the gradient is −a/b when b is not zero. Reading the gradient as a or b is a common mistake.
+
+**How do you find the gradient of a perpendicular line?**
+Turn the gradient upside down and change its sign, so the two gradients multiply to −1. This fails for horizontal and vertical lines, which are perpendicular to each other.
+
+**How can you check a straight-line equation?**
+Substitute the given point, or the second point, into your final equation. If it does not give a true statement, there is an error in the working.
+
 ## Where to go next
 
 Try the [practice set](/resources/edexcel-a-level-mathematics-pure1-practice/), then use the [revision notes](/resources/edexcel-a-level-mathematics-pure1-revision-notes/) to keep the methods fresh. The [diagnostics](/diagnostics/) can show you which unit to revise next.
