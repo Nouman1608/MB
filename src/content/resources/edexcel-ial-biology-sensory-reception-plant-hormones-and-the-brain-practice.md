@@ -157,6 +157,20 @@ These questions cover statements 8.8 to 8.16 (including Core Practical 18) of th
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which Edexcel statements do these questions cover?**
+They cover statements 8.8 to 8.16 of Pearson Edexcel International A Level Biology (YBI11), including rod cells, habituation, plant hormones, Core Practical 18, brain regions and scans.
+
+**Should you write "the brain" when a region is asked for?**
+No. Name the correct region of the brain. Writing just "the brain" loses marks.
+
+**What should you remember when calculating a rate?**
+Include the time interval and give a unit. Forgetting the time interval is a common error.
+
+**Are these Edexcel past paper questions?**
+No. They are original practice questions with answers. Use them alongside official Pearson Edexcel past papers.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology (YBI11) specification, Issue 2, published by Pearson Education Limited.

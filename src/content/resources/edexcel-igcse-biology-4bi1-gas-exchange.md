@@ -337,6 +337,23 @@ If you count for 30 seconds, double the count to get breaths per minute: 8 breat
 - Original exam-style questions with mark-by-mark answers: [gas exchange practice questions](/resources/edexcel-igcse-biology-4bi1-gas-exchange-practice/).
 - Find your weak areas with the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**How does the hydrogen-carbonate indicator practical work?**
+Red indicator is sealed in tubes with leaves under different light levels and a no-leaf control. Yellow shows more carbon dioxide (respiration faster than photosynthesis); purple shows less (photosynthesis faster).
+
+**Why is there no net gas exchange at a certain light intensity?**
+At that light intensity the rates of photosynthesis and respiration are equal, so the gases used by one process are made by the other. Gas exchange still happens, but there is no net exchange.
+
+**How are alveoli adapted for gas exchange?**
+There are very many alveoli for a large surface area, walls one cell thick with thin capillary walls, a dense capillary network, ventilation to keep gradients steep and a moist lining.
+
+**How does smoking cause coronary heart disease?**
+Smoking contributes to fatty deposits that narrow the coronary arteries, so less oxygen reaches the heart muscle.
+
+**Is leaf gas exchange on both Edexcel 4BI1 papers?**
+No. Gas exchange in flowering plants (2.40B–2.45B) is Paper 2 only content; gas exchange in humans is on both papers.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1) specification, Issue 3 (first teaching September 2017, first examination June 2019), published by Pearson Education Limited. Topic 2, sub-topic (g) Gas exchange, points 2.40B–2.50.

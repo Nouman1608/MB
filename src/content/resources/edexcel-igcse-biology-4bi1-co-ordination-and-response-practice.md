@@ -168,6 +168,20 @@ Learn the content first in the [study guide](/resources/edexcel-igcse-biology-4b
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which part of Edexcel International GCSE Biology 4BI1 do these questions cover?**
+They cover sub-topic 2(j), Co-ordination and response, including homeostasis, plant responses, nerves, reflexes, the eye, temperature control and hormones.
+
+**Should you name an organ when a question asks for a receptor or effector?**
+Name the specific receptor or effector, not just an organ such as "the ear" or "the legs".
+
+**What should you do when a question says "use the data"?**
+Quote numbers from the data in your answer.
+
+**Are some of these questions for Paper 2 only?**
+Yes. Questions marked "Paper 2 only" cover content examined only on Paper 2.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1) specification, Issue 3, first examination June 2019, Pearson Education Limited -- Topic 2, Structures and functions in living organisms, sub-topic (j) Co-ordination and response.

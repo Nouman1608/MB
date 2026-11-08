@@ -196,6 +196,23 @@ Most data questions in this topic give a table of expression, methylation or phe
 * Not giving both parental genotypes in a multiple alleles cross.
 * Calling every continuous trait "genetic only" and forgetting environment.
 
+## Frequently asked questions
+
+**What is the difference between totipotent and pluripotent stem cells?**
+Totipotent cells can become any cell type, including placental cells. Pluripotent cells can become any of the body's cell types but not the placenta.
+
+**What is the difference between a morula and a blastocyst?**
+A morula is a solid ball of cells formed by cleavage; a blastocyst is a hollow ball of cells with an inner cell mass.
+
+**What is alternative splicing?**
+Introns are removed from pre-mRNA and different combinations of exons are kept, so one gene can give more than one protein.
+
+**Does epigenetic change alter the DNA base sequence?**
+No. Epigenetic changes such as DNA methylation and histone modification alter whether a gene is active, not the base sequence.
+
+**What is the difference between multiple alleles and polygenic inheritance?**
+Multiple alleles means one gene has three or more alleles, as with ABO blood groups. Polygenic inheritance means a trait is controlled by several genes with additive effects.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology, Specification, Issue 2 (February 2021), Pearson Education Limited: Topic 3, statements 3.17 to 3.21.

@@ -293,6 +293,23 @@ Then test yourself with the [gas exchange practice questions](/resources/edexcel
 - Linking smoking to heart disease without mentioning the coronary arteries or oxygen supply to heart muscle.
 - In the exercise practical, forgetting to repeat readings or to keep the exercise the same.
 
+## Frequently asked questions
+
+**What colour does hydrogen-carbonate indicator turn?**
+Yellow means more carbon dioxide and purple means less carbon dioxide than in the starting red indicator.
+
+**What happens during inhalation?**
+The external intercostal muscles contract and the ribs move up and out, the diaphragm contracts and flattens, thorax volume increases, pressure falls below atmospheric and air flows in.
+
+**What is the difference between respiration and gas exchange?**
+Respiration is a chemical reaction in cells that releases energy. Gas exchange is the movement of gases across a surface by diffusion.
+
+**What is the difference between tar and carbon monoxide in cigarette smoke?**
+Tar damages the lungs and is linked to cancer. Carbon monoxide binds to haemoglobin, reducing the oxygen the blood can carry.
+
+**Do plants respire only at night?**
+No. Plants respire all the time in all living cells; photosynthesis happens only in the light.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1) specification, Issue 3 (first teaching September 2017, first examination June 2019), published by Pearson Education Limited. Topic 2, sub-topic (g) Gas exchange, points 2.40B–2.50.

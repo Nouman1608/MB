@@ -314,6 +314,23 @@ Drinking a lot gives the opposite: less ADH, less water reabsorbed, large volume
 - Writing "glucagon" when you mean glycogen.
 - Giving a hormone's effect without its **source** gland when the question asks for both.
 
+## Frequently asked questions
+
+**Which two examples of homeostasis does Edexcel 4BI1 name?**
+Body water content and body temperature.
+
+**How does auxin make a stem bend towards light?**
+Auxin made in the shoot tip moves to the shaded side, causing more cell elongation there, so the shaded side grows longer and the stem bends towards the light.
+
+**Why are reflexes fast?**
+The route is short, has few synapses and does not need a conscious decision in the brain.
+
+**How does the body cool down when it is too hot?**
+Sweat glands release more sweat, which evaporates using heat energy from the skin, and arterioles supplying skin capillaries dilate so more blood flows near the surface and more heat is lost.
+
+**What is the difference between a neurone and a nerve?**
+A neurone is a single nerve cell; a nerve is a bundle of neurones.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1) specification, Issue 3, first examination June 2019, Pearson Education Limited -- Topic 2, Structures and functions in living organisms, sub-topic (j) Co-ordination and response.

@@ -148,6 +148,20 @@ These questions cover specification statements 3.17 to 3.21 of the Pearson Edexc
 * Take the free 10-minute [diagnostics](/diagnostics/).
 * [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which Edexcel statements do these questions cover?**
+They cover statements 3.17 to 3.21 of Pearson Edexcel International A Level Biology (YBI11): stem cells, gene expression, splicing, epigenetics and multiple alleles.
+
+**Do specialised cells contain different genes?**
+No. All cells from one zygote contain the same genes; specialised cells express different genes. Writing "different genes" loses marks.
+
+**How should you answer a "discuss" question on stem cells?**
+Give points on more than one side, such as benefits, risks and ethical issues. A one-sided answer does not earn full credit.
+
+**What should a multiple alleles cross show?**
+State both parental genotypes as well as the gametes and offspring. Leaving out a parental genotype is a common error.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology, Specification, Issue 2 (February 2021), Pearson Education Limited: Topic 3, statements 3.17 to 3.21.

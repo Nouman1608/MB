@@ -361,6 +361,23 @@ Darwin's theory of **evolution by natural selection**, in steps:
 - Saying all mutations are harmful. Most have no effect.
 - Mixing up the products in the standard diploid animal model: mitosis maintains chromosome number; meiosis halves it and commonly yields genetically varied haploid products. Outcomes differ in other life cycles and in animal oogenesis.
 
+## Frequently asked questions
+
+**What is the structure of DNA?**
+DNA is two strands coiled to form a double helix, with complementary base pairs: adenine with thymine and cytosine with guanine. This is Paper 2 only content.
+
+**What is codominance?**
+In codominance neither allele masks the other, so the heterozygote shows both, as in roan cattle. A cross of two roan cattle gives 1 red : 2 roan : 1 white. This is Paper 2 only content.
+
+**What is polygenic inheritance?**
+Many features, such as height, are polygenic: they are controlled by several genes, so they show a range of phenotypes.
+
+**What are the types of variation?**
+Variation can be genetic (for example blood group), environmental (for example a scar) or a combination of both (for example height).
+
+**How does natural selection work?**
+Individuals show variation, more offspring are produced than can survive, those with features better suited to the environment are more likely to survive and reproduce, and they pass on their alleles, so advantageous alleles become more common.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1) specification, Issue 3 (September 2024), Pearson Education Limited; first assessment June 2019. Topic 3, Reproduction and inheritance, sub-topic (b) Inheritance, points 3.14–3.39.

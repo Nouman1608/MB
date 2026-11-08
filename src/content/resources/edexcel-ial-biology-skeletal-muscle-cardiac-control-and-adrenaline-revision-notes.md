@@ -212,6 +212,23 @@ Method in steps for a spirometer trace question:
 - Describing the ECG as "faster" without a value or a named feature.
 - Describing adrenaline as a nerve signal.
 
+## Frequently asked questions
+
+**What is the sliding filament theory?**
+Ca²⁺ released from the sarcoplasmic reticulum binds troponin, which moves tropomyosin and exposes binding sites on actin. Myosin heads bind and tilt, pulling actin inwards, and ATP binds to detach the heads before they reset.
+
+**How is the heartbeat coordinated?**
+The SAN in the right atrium starts the wave of excitation, the atria contract, non-conducting tissue stops the wave reaching the ventricles directly, the AVN delays it, and the bundle of His and Purkyne fibres carry it to the ventricles.
+
+**How do you calculate cardiac output?**
+Cardiac output = stroke volume × heart rate.
+
+**What are the effects of adrenaline?**
+Adrenaline from the adrenal glands raises heart rate and stroke volume, increases ventilation, converts liver glycogen to glucose and diverts blood to the muscles.
+
+**What is the difference between a tendon and a ligament?**
+A tendon joins muscle to bone and is inelastic. A ligament joins bone to bone and is slightly elastic.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification, Issue 2, February 2021, Pearson Education Limited. Statements 7.9 to 7.15 of Topic 7, including Core Practical 17.
