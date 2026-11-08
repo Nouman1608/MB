@@ -157,3 +157,17 @@ Confusing normative with informational influence. Describing compliance as inter
 - Distinguish episodic, semantic and procedural long-term memory.
 - Evaluate eyewitness testimony research and outline the cognitive interview.
 - Describe the two named disorders (phobias, depression) with their defining characteristics, explanations and treatments, including the components of systematic desensitisation and CBT.
+
+## Frequently asked questions
+
+**How is Unit 1 of OxfordAQA International A-Level Psychology 9685 assessed?**
+Unit 1 is a 1.5-hour written exam worth 90 marks, split into three 30-mark sections: Memory, Social Psychology and Psychopathology. It is 50% of the International AS and 20% of the full International A-level.
+
+**Which disorders are named in Unit 1 Psychopathology?**
+The specification names two disorders in this unit: phobias and depression. OCD is not named here; it belongs to the OxfordAQA International GCSE Psychology (9218) specification.
+
+**Are explanations for forgetting part of the 9685 memory content?**
+No. Section 3.1.1 lists the multi-store model, the working memory model, types of long-term memory, and eyewitness testimony with the cognitive interview. Interference and retrieval failure are not included.
+
+**What is the difference between normative and informational social influence?**
+Normative social influence is conformity driven by the desire to be liked. Informational social influence is conformity driven by the desire to be right.

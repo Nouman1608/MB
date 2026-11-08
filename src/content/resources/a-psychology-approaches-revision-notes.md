@@ -25,7 +25,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-approaches-issues-and-debates-9990"
     subtopic: "social-approach-9990"
-description: "Condensed recall notes on the four approaches (biological, cognitive, learning and social), the 12 compulsory core studies and the five AS Level issues and debates for Cambridge AS & A Level Psychology 9990 Paper 1."
+description: "Revision notes on the four approaches, the 12 core studies and the five AS Level issues and debates for Cambridge AS & A Level Psychology 9990 Paper 1."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -148,3 +148,17 @@ Whether behaviour, and the findings about it, vary between cultures: a study con
 5. Name two core studies that raise the use of animals in psychological research, and three that raise the use of children.
 
 **Answers:** 1. Biological: Dement and Kleitman, Hassett et al., Hölzel et al. Cognitive: Andrade, Baron-Cohen et al., Pozzulo et al. Learning: Bandura et al., Fagen et al., Saavedra and Silverman. Social: Milgram, Perry et al., Piliavin et al. 2. We all begin life as a blank slate, with experiences and interactions with the environment shaping behaviour in directly observable ways; and we learn through operant conditioning, classical conditioning and social learning, understood using the stimulus-response model. 3. A case study, using interviews, various scales and observations. 4. The application of psychology to everyday life; individual and situational explanations; nature versus nurture; the use of children in psychological research; the use of animals in psychological research. 5. Animals: Hassett et al., Fagen et al. Children: Bandura et al., Pozzulo et al., Saavedra and Silverman.
+
+## Frequently asked questions
+
+**How long is Cambridge 9990 Psychology Paper 1 and how many marks is it worth?**
+Paper 1 lasts 1 hour 30 minutes and is worth 60 marks. Section A has short answer questions on the core studies (38 marks) and Section B has extended response and essay questions (22 marks).
+
+**What is the difference between negative reinforcement and punishment?**
+Negative reinforcement removes something unpleasant and so increases a behaviour. Punishment adds something unpleasant and decreases a behaviour.
+
+**Did Milgram's main study have an independent variable?**
+No. The syllabus notes that Milgram's main study measured obedience as a dependent variable but had no independent variable.
+
+**Should I use psychodynamic or humanistic approaches in a 9990 Paper 1 answer?**
+No. These come from other boards' specifications, and debates such as free will and reductionism are A Level content for the specialist options. Paper 1 tests the biological, cognitive, learning and social approaches.

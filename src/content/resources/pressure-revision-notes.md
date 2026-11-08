@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Condensed recall notes on pressure as force per unit area, atmospheric pressure, barometers and pressure in liquids for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -151,3 +153,17 @@ Liquids are used rather than gases because liquids are **virtually incompressibl
 7. *(Background, not examinable.)* A hydraulic system has an input piston of area 0.0004 m² (force 40 N) and an output piston of area 0.0060 m². Find the output force, and explain why the system uses a liquid rather than a gas.
 
 **Answers:** 1. p = 600/0.015 = **40 000 Pa**. 2. Pressure increases with depth, so the force on the wall is greatest at the base and more material is needed to withstand it. 3. Depth below the surface and the density of the liquid (and g). 4. Mercury is about 13.6 times denser than water, so the supported column is around 760 mm rather than over 10 m — a practical instrument height. 5. No — pressure depends only on depth, density and g, not on the container's width or shape. 6. Perpendicular to the surface, regardless of the surface's orientation. 7. p = 40 ÷ 0.0004 = 100 000 Pa; F(output) = 100 000 × 0.0060 = **600 N**. A liquid is used because it is virtually incompressible, so pressure is transmitted immediately and in full; a gas would compress first, delaying the output force.
+
+## Frequently asked questions
+
+**Does pressure in a liquid depend on the shape of the container?**
+No. Pressure at a given depth depends only on depth, the density of the liquid and g. The shape, width and total volume of the container make no difference.
+
+**Why are dam walls thicker at the bottom?**
+Pressure in a liquid increases with depth, so the force on the wall is greatest at the base. More material is needed there to withstand it.
+
+**How do you convert an area from cm² to m²?**
+Divide by 10 000. Area must be in m² for the pressure to come out in pascals.
+
+**What is atmospheric pressure at sea level?**
+It is roughly 100 000 Pa (1 × 10⁵ Pa), which supports a mercury column of about 760 mm. It decreases with altitude because there is less air above.

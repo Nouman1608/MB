@@ -22,7 +22,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-biopsychology-development-9685"
     subtopic: "research-methods-1-9685"
-description: "Biopsychology, cognitive development, and research methods 1 -- the full content of Unit 2 for OxfordAQA International AS and A-Level Psychology (9685), the second and final unit of the International AS."
+description: "Study guide to Unit 2 of OxfordAQA International AS and A-Level Psychology (9685): biopsychology, cognitive development and research methods 1."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -239,6 +239,20 @@ and one limitation of each.
 stating one implication (bias or generalisability) of using it.
 - List the ethical guidelines for psychological research and be ready
 to apply them to a novel study description.
+
+## Frequently asked questions
+
+**How is Unit 2 of OxfordAQA International A-Level Psychology 9685 assessed?**
+Unit 2 is assessed by a single 1 hour 30 minute written exam worth 90 marks. Biopsychology, cognitive development and research methods 1 are each compulsory and assessed in a dedicated 30-mark section.
+
+**What is the difference between Piaget's and Vygotsky's theories of cognitive development?**
+Piaget frames development as an internal, stage-based process driven by schemas and equilibration. Vygotsky frames it as socially and culturally driven, with the zone of proximal development and scaffolding from a more knowledgeable other.
+
+**What did the Sally-Anne study show?**
+In the Sally-Anne study (Baron-Cohen, Leslie and Frith, 1985), most typically developing children and children with Down syndrome said Sally would look in the basket, while most autistic children said the box. This was taken as evidence of a difficulty with false-belief understanding.
+
+**Can a correlation show cause and effect?**
+No. A correlation measures the relationship between two co-variables without manipulating an independent variable, so a third variable could explain both. Strong answers name a specific, plausible third variable.
 
 ## Related resources
 

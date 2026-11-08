@@ -201,6 +201,20 @@ Anger management is a cognitive behavioural therapy. Novaco's (1975) model has t
 - Writing that restorative justice replaces sentences in all cases. Describe how it works; do not invent policy.
 - Forgetting AO3 in essays: every study needs a "so what?" comment.
 
+## Frequently asked questions
+
+**What does AQA A-level Psychology 7182 Forensic Psychology cover?**
+Section 4.3.9 covers offender profiling, biological explanations of offending, psychological explanations of offending, and dealing with offending behaviour, including custodial sentencing, behaviour modification, anger management and restorative justice.
+
+**What is the difference between a marauder and a commuter in geographical profiling?**
+In Canter's circle theory, a marauder commits crimes close to home, inside the circle drawn through their two furthest crimes. A commuter travels away from home to offend.
+
+**What are Eysenck's three personality dimensions?**
+They are extraversion, neuroticism and psychoticism, measured by the Eysenck Personality Questionnaire. Eysenck argued the typical criminal personality is high on all three and harder to condition, so socialisation is weaker.
+
+**What are the three stages of anger management?**
+Novaco's (1975) model has three stages: cognitive preparation, skill acquisition and application practice. Anger management is a cognitive behavioural therapy.
+
 ## Next steps
 
 Test yourself with the [practice questions](/resources/aqa-a-level-psychology-7182-forensic-psychology-practice/) and condense with the [revision notes](/resources/aqa-a-level-psychology-7182-forensic-psychology-revision-notes/). Review biological and learning ideas in the [Approaches practice set](/resources/aqa-a-level-psychology-approaches-practice/).

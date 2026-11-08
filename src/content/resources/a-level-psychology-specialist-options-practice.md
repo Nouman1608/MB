@@ -19,7 +19,7 @@ syllabusTopics:
     topic: "health-psychology-9990"
   - qualification: "a-level"
     topic: "organisational-psychology-9990"
-description: "Exam-style questions with full worked answers on applying named psychological approaches and theories to Clinical, Consumer, Health and Organisational Psychology scenarios, and connecting each option back to Research Methods, for Cambridge A Level Psychology Paper 3 (9990)."
+description: "Practice questions with worked answers on applying theories to Clinical, Consumer, Health and Organisational Psychology for Cambridge A Level Psychology 9990."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -181,3 +181,17 @@ Before doing any past-paper practice, confirm which two of the four
 options your own course actually teaches, since practising the wrong
 option wastes revision time regardless of how well-written the
 questions are.
+
+## Frequently asked questions
+
+**How many specialist options do you study for Cambridge A Level Psychology 9990?**
+A school studies two of the four options: Clinical, Consumer, Health and Organisational Psychology. Both chosen options are examined on Paper 3 and Paper 4, with different topic areas on each paper.
+
+**Why do specialist option answers need a named theory?**
+Questions test whether you can apply a specific approach, concept or theory to the scenario given. A general or common-sense explanation shows no psychological basis and is weaker than a named theory applied directly.
+
+**How do you reach the top mark band in a specialist option answer?**
+Apply a named approach or theory directly to the scenario, then evaluate it by naming a genuine limitation. Presenting a single explanation as complete, with no alternative or limitation, is unlikely to reach the top band.
+
+**Are research methods tested in the specialist options?**
+Yes. Each option is assessed alongside research methods applied to that context, so be ready to suggest and evaluate how a claim within your option could be investigated.

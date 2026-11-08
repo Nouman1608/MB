@@ -148,6 +148,20 @@ These questions cover section 3.2.1, Forces and energy (statements a to f), of t
 * Rounding intermediate values, so the final figure is slightly out.
 * Writing a bare answer with no equation or working.
 
+## Frequently asked questions
+
+**Are these OxfordAQA International GCSE Physics 9203 questions from past papers?**
+No. They are original questions written for revision on section 3.2.1, Forces and energy. They do not copy the exam's structure, question count or mark tariffs, so use them alongside your board's official past papers.
+
+**What value of g should I use in energy calculations?**
+Use the value given in the question. These practice questions take g = 10 N/kg unless a question states another value, such as 1.6 N/kg on the Moon.
+
+**How are marks usually given in work and energy calculations?**
+In the worked answers, one mark is typically for the equation or substitution and another for the final answer with its unit. Writing the equation, the substitution and the answer shows your method clearly.
+
+**What are the most common mistakes in kinetic and elastic energy questions?**
+Common slips are using the whole spring length instead of the extension, forgetting to square the speed or extension, and saying that doubling the speed doubles the kinetic energy when it makes it four times as much.
+
 ## Next steps
 
 * Read the [revision notes](/resources/oxfordaqa-igcse-physics-work-kinetic-gravitational-and-elastic-energy-and-power-revision-notes/) and the [study guide](/resources/oxfordaqa-igcse-physics-work-kinetic-gravitational-and-elastic-energy-and-power/).

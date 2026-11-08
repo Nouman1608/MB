@@ -165,6 +165,20 @@ The [issues and debates study guide](/resources/aqa-a-level-psychology-7182-issu
 - Forgetting issues and debates in 16-mark answers: determinism, reductionism, nature-nurture, gender bias.
 - Using Forensic Psychology content on offending in an aggression answer.
 
+## Frequently asked questions
+
+**What is the difference between an innate releasing mechanism and a fixed action pattern?**
+An innate releasing mechanism is the inborn neural process triggered by a specific stimulus. A fixed action pattern is the behaviour sequence it releases, which is universal, ballistic and single-purpose.
+
+**What is the difference between the importation and deprivation models?**
+The importation model is dispositional: prisoners bring aggressive traits and norms into prison. The deprivation model is situational: prison conditions such as the pains of imprisonment cause aggression.
+
+**Does the MAOA gene cause violence?**
+No. The low-activity MAOA variant raises vulnerability to aggression, and Caspi et al. (2002) found it mattered mainly for boys who had been maltreated, which is a gene-environment interaction.
+
+**Which issues and debates can you use in Aggression essays?**
+Useful debates include nature-nurture, determinism, reductionism and gender bias. For example, hormone and gene accounts are biologically deterministic, and much hormone research focuses on male aggression.
+
 ## Official syllabus
 
 AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), for teaching from September 2025. Section 4.3.8 Aggression; Paper 3 structure in section 2.2. Check aqa.org.uk/7182 for the current version.

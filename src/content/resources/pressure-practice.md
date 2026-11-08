@@ -13,13 +13,15 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "motion-forces-and-energy"
     subtopic: "pressure"
-description: "Original exam-style practice questions with full worked answers on pressure, liquid pressure, atmospheric pressure and barometers, with a background hydraulics extension."
+description: "Original practice questions with worked answers on pressure, liquid pressure, atmospheric pressure and barometers for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -101,3 +103,17 @@ Related: [Pressure revision notes](/resources/pressure-revision-notes/)
 - Explaining hydraulic systems without stating that pressure is transmitted equally.
 - Explaining the knife/snowshoe examples by force alone, without mentioning the change in contact area.
 - Describing the barometer experiment without keeping the depth fixed while the orientation changes.
+
+## Frequently asked questions
+
+**What topics do these Cambridge O Level Physics 5054 pressure questions cover?**
+They cover pressure as force per unit area, pressure beneath a liquid surface, the direction of the force from pressure, and the liquid barometer. One question on gas particles is cross-topic, and the hydraulics question is background only.
+
+**Are hydraulic systems in the O Level Physics 5054 pressure syllabus?**
+No. Hydraulic systems and the transmission of pressure are beyond the 5054 pressure subtopic, so the hydraulics question here is background reading and not examinable.
+
+**What is the difference between pressure due to a liquid and total pressure?**
+Pressure due to the liquid is found from ρgh alone. Total pressure adds atmospheric pressure on top, so read the question carefully to see which one is asked for.
+
+**What are common mistakes in pressure calculations?**
+Common mistakes include using mass instead of weight on the ground, forgetting to add atmospheric pressure when total pressure is asked for, and explaining everyday examples by force alone without mentioning the contact area.

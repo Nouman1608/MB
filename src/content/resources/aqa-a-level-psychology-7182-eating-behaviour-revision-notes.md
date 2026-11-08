@@ -157,6 +157,20 @@ Keep each AO3 point to: point, evidence, explanation, link back to the question.
 - Evaluating with generic points ("it is reductionist") without explaining why it matters for this explanation.
 - Writing about dieting advice instead of theory, or using stigmatising language.
 
+## Frequently asked questions
+
+**What is the difference between ghrelin and leptin?**
+Ghrelin is released mainly by the stomach when it is empty and increases hunger. Leptin is released by fat tissue and signals satiety, reducing appetite.
+
+**What is the difference between neophobia and taste aversion?**
+Neophobia is a reluctance to eat unfamiliar foods. Taste aversion is a learned avoidance of a food after it has been followed by illness, and it can form after a single pairing.
+
+**What does the boundary model say about dieters?**
+The boundary model says intake is set between a hunger boundary and a satiety boundary. Dieters set a lower diet boundary, and once they cross it they keep eating until they reach the satiety boundary.
+
+**Which three ideas does AQA list for family systems theory of anorexia?**
+The specification lists enmeshment, autonomy and control. You need to explain how enmeshment leads to a struggle for autonomy and control, not just list the terms.
+
 ## Next steps
 
 Revisit the [Approaches in Psychology study guide](/resources/a-level-aqa-psychology-approaches-in-psychology/) for the biological, social learning and cognitive approaches behind these explanations, then try the [Eating behaviour practice questions](/resources/aqa-a-level-psychology-7182-eating-behaviour-practice/). For reductionism, determinism and gender bias as evaluation points, see the [Issues and debates study guide](/resources/aqa-a-level-psychology-7182-issues-and-debates/).

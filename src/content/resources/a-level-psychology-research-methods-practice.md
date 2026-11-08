@@ -19,7 +19,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-research-methods-9990"
     subtopic: "methodological-concepts-as-9990"
-description: "Exam-style questions with full worked answers on the six research methods, methodological concepts, validity vs reliability, ethics, and the Paper 2 planning question, for Cambridge AS & A Level Psychology (9990)."
+description: "Practice questions and answers on research methods, validity, reliability, ethics and the Paper 2 planning question for Cambridge AS & A Level Psychology 9990."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -175,3 +175,17 @@ syllabus's own checklist of general features before adding
 method-specific detail, and resist the temptation to add Paper 4-level
 content such as aims, hypotheses or ethical evaluation, since these
 earn no credit at Paper 2 and cost valuable time.
+
+## Frequently asked questions
+
+**What do these Cambridge 9990 research methods practice questions cover?**
+They cover the experimental designs, sampling techniques, observation types, validity and reliability, ethics for human and animal participants, and the Section B planning question on Paper 2.
+
+**Can a study be reliable but not valid?**
+Yes. A study can give consistent results every time it is repeated and still lack ecological validity, so the two concepts need to be judged separately for any study described.
+
+**What mistakes lose time in the Paper 2 planning question?**
+Adding Paper 4 content such as aims, hypotheses or an evaluation of ethics earns no credit at Paper 2 and takes time away from the features that are assessed. Work through the general features first, then add the method-specific detail.
+
+**How should I approach scenario questions on research methods?**
+Use the same pattern for every method: describe its main features, evaluate it in terms of reliability, validity and ethics, then apply it to the scenario given in the question.

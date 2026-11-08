@@ -163,6 +163,20 @@ Keep the description tight. Spend most of your time on linked evaluation; your t
 - Writing about gender incongruence in stigmatising language, or giving your own verdict instead of weighing evidence.
 - Spending most of a 16-mark answer on description, leaving little room for evaluation.
 
+## Frequently asked questions
+
+**What is the difference between gender stability and gender constancy?**
+Gender stability is knowing that gender stays the same over time. Gender constancy is knowing that it stays the same over time and across situations, such as when appearance changes.
+
+**What does the Bem Sex Role Inventory measure?**
+The BSRI measures self-rated masculine and feminine traits, not gender identity. It contains 60 traits and gives four classifications: masculine, feminine, androgynous and undifferentiated.
+
+**How does gender schema theory differ from Kohlberg's theory?**
+Kohlberg says active gender learning starts at gender constancy, at about 6. Martin and Halverson's gender schema theory says it starts once a child has basic gender identity, at about 2 to 3.
+
+**What is the difference between gender incongruence and gender dysphoria?**
+Gender incongruence is the ICD-11 term for a marked, persistent mismatch between experienced gender and sex assigned at birth. Gender dysphoria, the DSM-5 term, refers to the distress that this mismatch may cause.
+
 ## Next steps
 
 Revisit social learning theory in the [Approaches in Psychology study guide](/resources/a-level-aqa-psychology-approaches-in-psychology/), then attempt the [Gender practice questions](/resources/aqa-a-level-psychology-7182-gender-practice/) under timed conditions.

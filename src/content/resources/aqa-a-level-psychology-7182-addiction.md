@@ -161,6 +161,20 @@ The six stages are **precontemplation** (no intention to change), **contemplatio
 
 Revise the learning theory you need from the [approaches revision notes](/resources/aqa-a-level-psychology-approaches-revision-notes/) and the [Approaches in Psychology guide](/resources/a-level-aqa-psychology-approaches-in-psychology/). Use the [Issues and debates study guide](/resources/aqa-a-level-psychology-7182-issues-and-debates/) to sharpen evaluation points such as reductionism and nature-nurture. Then turn to the [Addiction revision notes](/resources/aqa-a-level-psychology-7182-addiction-revision-notes/) and test yourself with the [Addiction practice questions](/resources/aqa-a-level-psychology-7182-addiction-practice/).
 
+## Frequently asked questions
+
+**What is the difference between physical and psychological dependence?**
+Physical dependence means the body has adapted to a substance, so stopping produces withdrawal symptoms. Psychological dependence is a compulsion to use the substance or behaviour for pleasure or relief, shown by cravings.
+
+**How does dopamine explain nicotine addiction?**
+Nicotine binds to nicotinic acetylcholine receptors on dopamine neurons in the ventral tegmental area. This triggers dopamine release in the nucleus accumbens, part of the mesolimbic reward pathway, which produces pleasure that reinforces smoking.
+
+**What does appropriateness mean when evaluating addiction therapies?**
+Appropriateness is whether a therapy suits the person, the addiction and the situation, such as cost, side effects, ethics and the motivation needed. The specification asks you to evaluate therapies on appropriateness as well as effectiveness.
+
+**Why can learning theory explain relapse when the dopamine explanation cannot?**
+Through classical conditioning, cues paired with smoking become secondary reinforcers that trigger craving on their own. This cue reactivity explains relapse long after withdrawal has ended, which neurochemistry alone does not.
+
 ## Official syllabus
 
 AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), for teaching from September 2025, section 4.3.10 Addiction and the Paper 3 scheme of assessment. Check aqa.org.uk/7182 for the current version.
