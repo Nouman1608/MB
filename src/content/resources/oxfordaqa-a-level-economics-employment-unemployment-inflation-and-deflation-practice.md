@@ -136,6 +136,23 @@ Try each question without the notes first. Show every step of a calculation and 
 * [All free 10-minute diagnostics](/diagnostics/)
 * [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Where do students lose marks on unemployment and inflation questions?**
+Common losses are dividing by the working-age population instead of the labour force, calling disinflation falling prices, subtracting inflation from nominal growth instead of dividing, and adding percentage cost rises without weighting them.
+
+**How do you work out the unemployment rate on the ILO measure?**
+Find the labour force first by adding the employed and the unemployed, then divide the number unemployed by the labour force and multiply by 100. Using the working-age population or the number employed as the denominator is the usual slip.
+
+**Why can a fall in the unemployment rate be weak evidence of a stronger labour market?**
+The rate can fall because unemployed people stop searching and become economically inactive, not because they found jobs. Check what happened to employment before drawing a conclusion.
+
+**How should I evaluate a policy to reduce unemployment?**
+Reach a judgement that depends on the cause of the unemployment. Demand stimulus suits cyclical unemployment, while structural unemployment needs measures such as retraining and mobility support, so one policy does not fit every cause.
+
+**Which OxfordAQA 9640 sections do these questions cover?**
+They cover sections 3.2.3.2 (employment and unemployment) and 3.2.3.3 (inflation and deflation) of the OxfordAQA International AS and A-level Economics (9640) specification, which is International AS content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, first teaching September 2020, published by Oxford International AQA Examinations. Sections 3.2.3.2 and 3.2.3.3.

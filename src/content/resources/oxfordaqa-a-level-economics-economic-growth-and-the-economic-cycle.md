@@ -272,6 +272,23 @@ A country that depends heavily on exports is exposed to this kind of shock. A le
 - Subtracting inflation from nominal growth and presenting it as exact.
 - Giving a list of shocks without tracing the AD or SRAS shift to output and prices.
 
+## Frequently asked questions
+
+**Why must economic growth be measured with real GDP?**
+Nominal GDP can rise purely because prices are higher. Real GDP removes the effect of inflation, so it shows whether the volume of output has actually increased.
+
+**What indicators are used to identify the phases of the economic cycle?**
+The OxfordAQA 9640 specification asks you to use real GDP, the rate of inflation, unemployment and investment. Use several together, because inflation and unemployment lag real GDP and one indicator alone can mislead.
+
+**Why does the effect of a demand stimulus depend on spare capacity?**
+If the economy has spare capacity, a rise in AD mostly raises output with a small rise in the price level. Near capacity, most of the rise appears as higher prices instead.
+
+**How do global events affect a domestic economy?**
+Events abroad reach the domestic economy through export demand, the price of imported inputs, exchange rates and confidence. A country that depends heavily on exports is more exposed.
+
+**Why is subtracting inflation from nominal growth not exact?**
+Real growth is found by dividing: (1 + nominal growth) divided by (1 + inflation), minus 1. Subtraction gives a close approximation, but it is not the exact figure.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, section 3.2.3.1, first teaching September 2020, published by OxfordAQA.

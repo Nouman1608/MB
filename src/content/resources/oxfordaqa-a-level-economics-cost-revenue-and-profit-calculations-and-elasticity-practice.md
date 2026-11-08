@@ -151,6 +151,23 @@ These questions practise quantitative skills QS6 and QS8 from section 3.5 of the
 - Take the [free 10-minute diagnostics](/diagnostics/) to find weak spots.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in elasticity calculations?**
+Starting a percentage change from the new value instead of the old one, dropping the sign of income or cross elasticity, and calling a value elastic or inelastic without comparing its size with 1 are the usual slips.
+
+**Why does the sign matter for income and cross elasticity of demand?**
+The sign shows the type of relationship. A positive income elasticity means a normal good and a negative one an inferior good; a positive cross elasticity means substitutes and a negative one complements.
+
+**Does a rise in total revenue mean a rise in profit?**
+No. Profit is total revenue minus total cost, so you need to recalculate costs at the new output before saying profit has risen. Comparing revenue with revenue is not the same as comparing profit with profit.
+
+**How should I set out a calculation question in OxfordAQA International A-level Economics 9640?**
+Write each formula before substituting numbers, so a slip in one step is visible and your method can still be followed. Then state the result in words and in context, for example whether demand is elastic or inelastic and why.
+
+**Which skills do these cost, revenue and elasticity questions test?**
+They practise quantitative skills QS6 (cost, revenue and profit) and QS8 (elasticity) from section 3.5 of the OxfordAQA 9640 specification, which can be assessed in any unit. Questions using marginal values or the MR and elasticity link are A2 content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), version 1.2, published by OxfordAQA: section 3.5 (QS6 and QS8), with sections 3.1.2.2, 3.1.2.4, 3.1.3.3 to 3.1.3.5 and 3.3.2.4.

@@ -232,6 +232,23 @@ General evaluation points: other things are rarely equal; elasticity differs alo
 </figure>
 
 
+## Frequently asked questions
+
+**How do you calculate price elasticity of demand?**
+Divide the percentage change in quantity demanded by the percentage change in price, finding each percentage change as (new minus old) divided by old, times 100. Keep the sign, then classify the value: above 1 (ignoring the sign) is elastic and below 1 is inelastic.
+
+**Why does elasticity change along a straight-line demand curve?**
+The slope is constant, but the same unit change is a bigger percentage at low quantities. Demand is more elastic at high prices and low quantities, less elastic at low prices and high quantities, and total revenue peaks where PED is -1.
+
+**What is the link between marginal revenue and price elasticity of demand?**
+For A2, MR = P x (1 + 1/PED), with PED negative. Positive MR means elastic demand, zero MR means unit elasticity and negative MR means inelastic demand, so a profit-maximising firm operates on the elastic part of its demand curve.
+
+**What is the difference between average cost and marginal cost?**
+Average cost is total cost divided by output, while marginal cost is the change in total cost from producing one more unit. When marginal cost is above average cost, average cost rises.
+
+**Which OxfordAQA 9640 skills do these notes cover?**
+They cover quantitative skills QS6 and QS8 from section 3.5 of the OxfordAQA International AS and A-level Economics (9640) specification, drawing on International AS sections 3.1.2.2, 3.1.2.4 and 3.1.3.3 to 3.1.3.5 and A2 sections 3.3.2.4 and 3.3.2.5.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), version 1.2, published by OxfordAQA: section 3.5 (QS6 and QS8), with sections 3.1.2.2, 3.1.2.4, 3.1.3.3 to 3.1.3.5, 3.3.2.4 and 3.3.2.5.

@@ -141,6 +141,23 @@ Identify the phase of the economic cycle in each year, using the indicators to s
 - Take one of our [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on economic growth questions?**
+Common losses are working with money values when the question is about real growth, dividing the output gap by actual instead of potential output, using a simple average where compound growth is needed, and calling a slowdown a recession.
+
+**How do you calculate the output gap as a percentage?**
+Subtract potential output from actual output, divide by potential output and multiply by 100. A positive result is a positive output gap and a negative result is a negative output gap.
+
+**How should I identify the phase of the economic cycle from data?**
+Support every phase with at least one figure, using real GDP growth against the trend rate together with inflation, unemployment and investment. Remember that unemployment and inflation lag real GDP.
+
+**Can a negative output gap widen while real GDP is rising?**
+Yes. If actual growth is below the growth of potential output, the gap widens even though real GDP is rising, so do not assume positive growth closes the gap.
+
+**Which OxfordAQA 9640 section do these questions cover?**
+They cover section 3.2.3.1, Economic growth and the economic cycle, of the OxfordAQA International AS and A-level Economics (9640) specification, which is International AS content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, section 3.2.3.1, first teaching September 2020, published by OxfordAQA.

@@ -149,6 +149,23 @@ These questions cover sections 3.1.5.7 (government intervention in markets) and 
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Where do students lose marks on government intervention questions?**
+Common losses are shifting the wrong curve, treating the price change as the tax, forgetting to add the subsidy to the market price when finding what producers receive, and giving a shortage or surplus without calculating quantity demanded and supplied at the controlled price.
+
+**Which curve shifts when a tax or subsidy is placed on a good?**
+A per-unit tax or subsidy on sellers shifts the supply curve. A tax shifts supply up by the amount of the tax, and a subsidy shifts it down.
+
+**How do I calculate a shortage under a maximum price?**
+Calculate quantity demanded and quantity supplied at the controlled price, then subtract quantity supplied from quantity demanded. The difference is the shortage.
+
+**How should I evaluate a tax on emissions against a regulation?**
+Compare the two tools on the same criteria, such as cost of cutting pollution, information needed and enforcement, and reach a reasoned judgement rather than listing advantages and disadvantages.
+
+**Which OxfordAQA 9640 sections do these questions cover?**
+They cover sections 3.1.5.7 (government intervention in markets) and 3.1.5.8 (government failure) of the OxfordAQA International AS and A-level Economics (9640) specification.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, published by OxfordAQA: sections 3.1.5.7 and 3.1.5.8, with the quantitative skills in section 3.5.

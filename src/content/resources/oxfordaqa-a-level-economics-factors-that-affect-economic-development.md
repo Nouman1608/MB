@@ -224,6 +224,23 @@ Capital needs skills to use it; skills need health and school access; investment
 - Treating the Kuznets curves as laws.
 - Listing factors without a chain of reasoning to development.
 
+## Frequently asked questions
+
+**What are the limitations of the Harrod-Domar model?**
+It assumes the capital-output ratio is constant and that all saving becomes productive investment, and it ignores depreciation, technology, skills and institutions. It also says nothing about development as opposed to growth.
+
+**Why does dependence on primary products make export earnings unstable?**
+Crop supply is volatile and, like demand, inelastic in the short run, so small shifts in supply cause large price swings. Export earnings, tax receipts and incomes then swing from year to year, which hampers planning and investment.
+
+**What is the inequality Kuznets curve?**
+It suggests inequality first rises and then falls as income per head grows, an inverted U. Inequality widens as workers move from farming to higher-paid industry, then narrows as education, taxation and welfare spread gains.
+
+**How do institutions affect economic development?**
+The rule of law, secure property rights and good governance let people save, invest and make contracts with confidence. Corruption, instability, war and conflict raise costs, destroy capital and discourage investment.
+
+**Should I list development factors separately in an essay?**
+The OxfordAQA 9640 specification stresses that the factors are interrelated, so a good answer links them, for example skills needed to use capital, and asks which factor is the binding constraint in the case.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, section 3.4.3.2, first teaching September 2020 (OxfordAQA).

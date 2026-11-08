@@ -246,6 +246,23 @@ When recovery closes the gap, 62 of the deficit disappears. The other 18 remains
 - Calling every deficit bad. A cyclical deficit during a slump is normal.
 - Giving only one side of an evaluation: always add a time lag, a cost, or a limit.
 
+## Frequently asked questions
+
+**What is fiscal policy?**
+Fiscal policy means deliberate changes to government spending and taxation to move the economy towards chosen objectives. Expansionary policy raises aggregate demand and pushes the budget towards deficit; contractionary policy does the reverse.
+
+**What are the microeconomic functions of fiscal policy?**
+Fiscal policy can correct market failure, for example taxing goods with negative externalities and subsidising those with positive externalities, provide public and merit goods, and redistribute income through progressive taxes and benefits.
+
+**Why can an indirect tax be regressive?**
+A sales tax is a fixed share of spending, but lower-income households spend a larger share of their income. So the tax takes a larger percentage of a poorer household's income than a richer one's.
+
+**Is a budget deficit always bad?**
+No. A cyclical deficit during a slump is normal, because tax revenue falls and benefit spending rises automatically. The cost of a high debt is the interest payments, which use money that could fund other spending.
+
+**Which section of the OxfordAQA 9640 specification covers fiscal policy?**
+Fiscal policy is section 3.2.4.2 of the OxfordAQA International AS and A-level Economics (9640) specification. It is International AS content, with monetary and supply-side policies in sections 3.2.4.1 and 3.2.4.3.
+
 ## Official syllabus
 
 Source: OxfordAQA, International AS and A-level Economics (9640), specification version 1.2, for International AS exams from May/June 2021 onwards and International A-level exams from May/June 2022 onwards. This guide covers section 3.2.4.2.

@@ -270,6 +270,23 @@ Quick-recall notes on growth and the cycle from the OxfordAQA International AS a
 - Giving a one-sided evaluation, with no condition such as spare capacity or the size of the shock.
 - Leaving out units, signs or the word "illustrative" when quoting made-up data.
 
+## Frequently asked questions
+
+**What is the difference between short-run and long-run economic growth?**
+Short-run growth is a rise in actual real GDP, usually from using spare capacity, shown by AD shifting right. Long-run growth is a rise in productive capacity, measured by the trend rate, shown by LRAS or the production possibility boundary shifting outwards.
+
+**What is the difference between a slowdown and a recession?**
+In a slowdown growth is still positive but falling. In a recession real GDP itself falls; a common definition is two consecutive quarters of falling real GDP.
+
+**What is the difference between a positive and a negative output gap?**
+A positive output gap means actual output exceeds normal-capacity output, while a negative output gap means actual output falls short of it.
+
+**How does a supply-side shock affect output and the price level?**
+A negative supply-side shock, such as a rise in imported fuel prices, shifts SRAS left, so output falls and the price level rises. A positive supply-side shock shifts SRAS right, raising output and lowering the price level.
+
+**Why might a deep recession reduce potential output?**
+Firms close and scrap capital, and long-term unemployed workers lose skills, so productive capacity may shrink and LRAS may shift left.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, section 3.2.3.1, first teaching September 2020, published by OxfordAQA.

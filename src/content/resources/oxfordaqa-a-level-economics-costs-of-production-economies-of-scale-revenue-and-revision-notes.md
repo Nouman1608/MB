@@ -274,6 +274,23 @@ Whatever the price, buyers choose how many units to take, and the firm sells exa
 - Treating a revenue rise as a profit rise.
 - Giving an economy of scale without saying how it lowers the cost per unit.
 
+## Frequently asked questions
+
+**What is the difference between fixed costs and variable costs?**
+Fixed costs stay the same whatever the output in the short run and are owed even at zero output, such as rent and insurance. Variable costs change with output, such as materials and extra hours of labour.
+
+**Why is the short-run average cost curve U-shaped?**
+Average fixed cost falls with every extra unit as the fixed bill is shared out, while average variable cost usually falls and then rises, so average cost is likely to be U-shaped. The OxfordAQA 9640 specification does not expect a formal link to diminishing returns in this unit.
+
+**What are the main types of internal economies of scale?**
+The main types are technical, purchasing (bulk-buying), managerial, financial and marketing economies. Each lowers the cost per unit as the firm itself grows.
+
+**What causes diseconomies of scale?**
+Diseconomies of scale come from co-ordination and communication problems as management layers grow, loss of control and monitoring, lower worker motivation in a very large organisation, and duplication of departments or sites.
+
+**How do internal and external economies of scale show on the long-run average cost curve?**
+Internal economies are shown by a movement down along the LRAC curve, while external economies shift the whole LRAC curve downwards.
+
 ## Official syllabus
 
 Source document: the OxfordAQA specification for International AS and A-level Economics (9640), version 1.2: sections 3.1.3.3 to 3.1.3.5 and quantitative skills in 3.5.

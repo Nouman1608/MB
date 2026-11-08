@@ -190,6 +190,23 @@ Each wage now attracts 60 more workers, a shift right.
 - Treating elasticity of demand for labour as fixed. It depends on the determinants and the time period.
 - Discussing only pay in supply answers. The spec includes non-monetary considerations.
 
+## Frequently asked questions
+
+**Why is a firm's MRP curve its demand curve for labour?**
+A profit-maximising firm hires workers while each one's marginal revenue product is at least the wage. Because MRP falls as more workers are added, the MRP curve shows how many workers the firm wants at each wage.
+
+**What are the limitations of marginal productivity theory?**
+Output is hard to attribute to one worker in a team or in jobs with no market price, the theory assumes identical workers and firms that know each worker's MRP, firms may not maximise profit, and it works best in the short run with other factors fixed.
+
+**What causes the demand curve for labour to shift?**
+The curve shifts right with higher demand for the product or a higher product price, higher productivity, or a cheaper complementary factor. It shifts left if cheaper substitutes such as machinery replace workers or employers face higher non-wage costs.
+
+**Why is the supply of specialist workers usually inelastic?**
+Specialist jobs need long training, qualifications and skills tied to one occupation, so workers cannot move in quickly when wages rise. Easier entry, high mobility, unemployed workers and a longer time period make supply more elastic.
+
+**What happens to the wage bill when the wage rises and demand for labour is inelastic?**
+Employment falls by a smaller percentage than the wage rises, so the wage bill increases. When demand for labour is elastic, the wage bill falls.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, first teaching September 2020, published by OxfordAQA. See sections 3.3.4.1 and 3.3.4.2, and the quantitative skills in section 3.5.

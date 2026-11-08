@@ -246,6 +246,23 @@ Chain: more output needs more variable input; with fixed capital MP eventually f
 - Drawing MC so that it misses the lowest points of AVC and ATC.
 - Calling MES the output where profit is greatest. It is where LRAC is first lowest.
 
+## Frequently asked questions
+
+**What does the law of diminishing returns say?**
+With at least one input fixed, adding more units of a variable input eventually gives smaller and smaller extra output from each new unit. It describes marginal returns in the short run and does not mean total output falls.
+
+**How are marginal cost and average variable cost linked to productivity?**
+With one variable input, marginal cost equals the input price divided by marginal product, and average variable cost equals the input price divided by average product. So MC is the mirror image of MP and AVC the mirror image of AP.
+
+**How do factor prices affect a firm's choice of production method?**
+A firm tends to use more of the input that has become relatively cheaper, choosing the method with the lower total cost. Machinery is hard to change quickly, so the response is larger in the long run.
+
+**Why does minimum efficient scale act as a barrier to entry?**
+A new firm entering below the minimum efficient scale has a higher long-run average cost than established firms producing at MES. Entrants must start large, with heavy borrowing and risk, or accept a cost disadvantage.
+
+**Which OxfordAQA 9640 sections cover returns and cost curves?**
+Sections 3.3.2.1 (diminishing returns and returns to scale), 3.3.2.2 (short-run cost curves) and 3.3.2.3 (long-run cost curves) of the OxfordAQA International AS and A-level Economics (9640) specification, assessed in Unit 3.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, sections 3.3.2.1, 3.3.2.2 and 3.3.2.3 and section 3.5. First teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022. Published by OxfordAQA.

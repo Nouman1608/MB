@@ -263,6 +263,23 @@ Evaluation chain for any shock: size and links of the institution, speed of resp
 - Stating that a failure "causes a recession" without a chain through credit, investment and spending.
 - Giving real-economy effects without an evaluative judgement about size, speed or confidence.
 
+## Frequently asked questions
+
+**What are the functions of money?**
+Money acts as a medium of exchange, a unit of account, a store of value and a standard of deferred payment. Inflation weakens its role as a store of value.
+
+**Why do bond prices and yields move in opposite directions?**
+A bond pays a fixed coupon, and its yield is the coupon divided by the price. When the price falls the same coupon is a higher percentage of the price, so the yield rises; when market interest rates rise, existing bond prices fall.
+
+**What is the difference between hedging and speculating?**
+Hedging uses contracts such as forwards to remove price uncertainty. Speculating accepts uncertainty in the hope of profiting from price changes.
+
+**What is moral hazard in financial markets?**
+Moral hazard is when a party takes more risk because someone else bears the cost, for example a bank lending recklessly because it expects to be rescued. It differs from asymmetric information, which is a knowledge gap between the two sides.
+
+**What is shadow banking?**
+Shadow banking is lending by non-bank institutions that often borrow short and lend long, with light regulation and no access to central bank rescue, which can add to systemic risk.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, section 3.4.2.3, first teaching September 2020, published by OxfordAQA.

@@ -222,6 +222,23 @@ Illustration: after a bus market in Country C (illustrative) is deregulated, ave
 - Describing capture without saying who gains and who loses.
 - Giving one-sided lists. Judge which effect is larger and why, and under what conditions.
 
+## Frequently asked questions
+
+**Is being a large or dominant firm illegal under competition policy?**
+No. Competition policy targets abuse of a dominant position, such as predatory pricing, exclusive dealing, tying or refusing to supply a rival, rather than size itself.
+
+**How does an inflation minus X price cap work?**
+The regulator limits the average price rise to the rate of inflation minus an efficiency target, X. If the firm cuts costs faster than X it keeps the extra profit, which gives it an incentive to be efficient. The cap limits the average rise; it does not fix the price.
+
+**Why can rate-of-return regulation encourage over-investment?**
+Allowed profit is set as a percentage return on capital employed, so a firm earns more allowed profit simply by adding capital. It also gets little reward for cutting costs.
+
+**What is the difference between public ownership and privatisation?**
+Public ownership (nationalisation) means the state owns the firm or industry, while privatisation moves state-owned assets into private hands by sale. Privatisation without competition can simply replace a public monopoly with a private one.
+
+**Which part of the OxfordAQA 9640 specification covers competition policy and privatisation?**
+Sections 3.3.3.11 (competition policy) and 3.3.3.12 (public ownership, privatisation, regulation and deregulation of markets). Section 3.3 is part of the International A2 content taught in Unit 3.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) Specification, version 1.2, OxfordAQA. First teaching September 2020; International AS exams from May/June 2021; International A-level exams from May/June 2022.
