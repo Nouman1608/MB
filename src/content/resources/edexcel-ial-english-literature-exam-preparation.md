@@ -17,7 +17,7 @@ reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 Edexcel International A Level English Literature (YET01) is modular: four externally assessed units,
@@ -104,6 +104,18 @@ texts is still two separate discussions.
 - **In every comparative paragraph**: open on the point of comparison, evidence both texts to equal
   depth, pivot explicitly, and close on what the difference reveals.
 - **In every use of context**: place it inside an analytical paragraph explaining a specific choice.
+
+## Frequently asked questions
+
+**Are YET01 exams open book?**
+Yes. All four units are 2-hour, 50-mark open-book examinations.
+
+**How are the units weighted?**
+Each unit is 25% of the International A Level; Units 1 and 2 are 50% each of the International AS.
+
+**Which unit has uneven sections?**
+Unit 3: Section A Poetry is 20 marks and Section B Prose 30 marks.
+
 
 ## Self-test
 

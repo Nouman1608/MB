@@ -27,7 +27,7 @@ reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 This guide covers **Unit 1 Post-2000 Poetry and Prose**, the first of
@@ -202,3 +202,14 @@ pre-1900 language later in the course.
 Pearson Edexcel International Advanced Level English Literature
 specification, first teaching 2015 —
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/english-literature/2015/specification-and-sample-assessments/9781446954058-ial-englit-iss6-9-spec-240521pm.pdf).
+
+## Frequently asked questions
+
+**How long is YET01 Unit 1?**
+2 hours for 50 marks, open book: 50% of the International AS and 25% of the International A Level.
+
+**What are the two sections?**
+Section A Post-2000 Poetry (25 marks, AO1, AO2 and AO4) and Section B Post-2000 Prose (25 marks, AO1, AO2 and AO3).
+
+**Can I take texts into the exam?**
+Yes. Unit 1 is an open-book examination.
