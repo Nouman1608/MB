@@ -12,6 +12,9 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-history-culture-9236"
+  - qualification: "igcse"
+    topic: "paper-1-history-culture-9236"
+    subtopic: "pakistan-movement-9236"
 description: "Condensed recall notes on Paper 1's compulsory topics for OxfordAQA International GCSE Pakistan Studies (9236)."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

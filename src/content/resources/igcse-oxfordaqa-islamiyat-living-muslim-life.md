@@ -12,6 +12,9 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-living-muslim-life-9237"
+  - qualification: "igcse"
+    topic: "paper-1-living-muslim-life-9237"
+    subtopic: "islam-practices-9237"
 description: "Islam: beliefs and teachings, and Islam: practices -- an overview of Paper 1 for OxfordAQA International GCSE Islamiat (9237)."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

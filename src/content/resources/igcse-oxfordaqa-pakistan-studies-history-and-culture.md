@@ -12,6 +12,9 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-history-culture-9236"
+  - qualification: "igcse"
+    topic: "paper-1-history-culture-9236"
+    subtopic: "pakistan-movement-9236"
 description: "The Pakistan Movement, Pakistan into the 21st century, and a choice of optional historical topics -- an overview of Paper 1 for OxfordAQA International GCSE Pakistan Studies (9236)."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
