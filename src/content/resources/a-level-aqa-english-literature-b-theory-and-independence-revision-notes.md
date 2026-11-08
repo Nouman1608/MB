@@ -12,6 +12,9 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "non-exam-assessment-theory-and-independence-7717"
+  - qualification: "a-level"
+    topic: "non-exam-assessment-theory-and-independence-7717"
+    subtopic: "text-selection-7717"
 description: "Condensed recall notes on text selection, the AQA Critical anthology, the conventional vs re-creative essay choice, and the commentary requirement for AQA A-Level English Literature B's Theory and Independence non-exam assessment (7717)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

@@ -12,6 +12,9 @@ order: 4
 syllabusTopics:
   - qualification: "a-level"
     topic: "non-exam-assessment-theory-and-independence-7717"
+  - qualification: "a-level"
+    topic: "non-exam-assessment-theory-and-independence-7717"
+    subtopic: "text-selection-7717"
 description: "How Component 3 Theory and Independence works within AQA A-Level English Literature B (7717): text selection against the Critical anthology, the conventional-versus-re-creative essay choice, and the commentary requirement."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
