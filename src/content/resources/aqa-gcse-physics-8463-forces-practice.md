@@ -37,7 +37,9 @@ syllabusTopics:
 description: "Twelve original AQA GCSE Physics 8463 Forces questions on springs, moments, pressure, motion graphs, stopping distances and momentum, with marked answers."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -209,6 +211,20 @@ Learn the content first in the [Forces study guide](/resources/aqa-gcse-physics-
 - [Printable AQA GCSE Physics checklist](/checklists/aqa/gcse/physics/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Which AQA GCSE Physics paper assesses forces?**
+Section 4.5 Forces of AQA GCSE Physics 8463 is assessed on Paper 2, at Foundation and Higher Tier. Momentum and some calculations, such as pressure in fluids and areas under velocity-time graphs, are Higher tier only.
+
+**What is a Newton's third law pair?**
+A Newton's third law pair is two forces of the same type, equal in size and opposite in direction, acting on two different objects. Weight and the normal contact force on one object are not a third-law pair.
+
+**Can you still get marks if an earlier part of a calculation is wrong?**
+Often yes. Error carried forward is usually allowed, so a wrong value from one part used correctly in a later part can still earn the later marks; always show your working.
+
+**What mistakes lose marks in GCSE forces calculations?**
+Common errors include using centimetres in F = ke, forgetting to square both velocities in v² − u² = 2as, missing the thinking distance in stopping distance, and giving pressure in N instead of Pa.
 
 ## Official syllabus
 

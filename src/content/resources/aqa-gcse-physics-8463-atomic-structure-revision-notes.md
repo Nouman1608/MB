@@ -28,7 +28,9 @@ syllabusTopics:
 description: "Condensed AQA GCSE Physics 8463 Atomic structure notes: key facts, decay rules, half-life steps, must-know contrasts and a 12-question self-test."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -326,6 +328,20 @@ in a weapon it runs out of control.
 - Choosing an alpha source for a medical tracer: it cannot get out of the body to the detector.
 - Forgetting that fission needs a neutron to be absorbed first, or that it also releases gamma rays.
 - Calling fusion "splitting" or giving uranium as a fusion fuel.
+
+## Frequently asked questions
+
+**What is an isotope?**
+Isotopes are atoms of the same element, with the same number of protons, but different numbers of neutrons, so they have different mass numbers.
+
+**How do alpha and beta decay change the nucleus?**
+Alpha decay lowers the mass number by 4 and the atomic number by 2. Beta decay leaves the mass number unchanged and raises the atomic number by 1, as a neutron turns into a proton.
+
+**What is half-life?**
+Half-life is the time for the number of nuclei of a radioactive isotope in a sample to halve, or for the count-rate from it to fall to half. Decay is random, so you cannot predict when any single nucleus will decay.
+
+**What is the difference between activity and count-rate?**
+Activity is the number of decays per second of a source, in becquerels. Count-rate is the number of decays recorded per second by a detector such as a Geiger-Muller tube.
 
 ## Official syllabus
 

@@ -236,6 +236,20 @@ Central maximum **wider** if λ increases or slit width decreases.
 
 The [measurements revision notes](/resources/aqa-a-level-physics-measurements-revision-notes/) cover uncertainties for the two required practicals, and the [exam preparation guide](/resources/aqa-a-level-physics-exam-preparation/) explains how the papers are set out. Try the free [diagnostics](/diagnostics/) to find your weakest topics.
 
+## Frequently asked questions
+
+**What is the difference between progressive and stationary waves?**
+A progressive wave transfers energy and has the same amplitude everywhere, with phase changing continuously along it. A stationary wave stores energy, has zero amplitude at nodes and maximum at antinodes, and points within one loop are in phase.
+
+**How does the first harmonic frequency of a string depend on tension?**
+From f = (1/2l)√(T/μ), frequency is proportional to the square root of the tension, so quadrupling the tension doubles the frequency. Frequency is inversely proportional to the length and to √μ.
+
+**What does polarisation show about a wave?**
+Polarisation confines oscillations to one plane, and only transverse waves can be polarised. It is evidence that a wave is transverse, not simply that it is a wave.
+
+**Does AQA use the terms fundamental and overtone?**
+No. AQA 7408 uses "first harmonic" rather than "fundamental" and does not use the term "overtone".
+
 ## Official syllabus
 
 AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.3 Waves.
