@@ -239,6 +239,23 @@ Always tie a limitation to the context in the question, not a generic phrase.
 - Saying a model is "unrealistic" without naming what in the context breaks down.
 - Forgetting the asymptote or the intercept when asked to sketch an exponential or ln graph.
 
+## Frequently asked questions
+
+**Which logarithm results must you recall for AQA 7357?**
+Appendix B of the specification lists the laws of logarithms and x = aⁿ ⇔ n = log_a x among the formulae you must use without them being given.
+
+**What is the asymptote of y = c + Aeᵏˣ?**
+The asymptote is y = c, and the y-intercept is c + A. For y = c + ln(x − h), the asymptote is x = h.
+
+**How do you find the half-life of y = Ae^(−kt)?**
+The half-life is ln 2 / k. For example, y = Ae^(−0.05t) has a half-life of about 13.9 time units.
+
+**Which graph do you plot for y = kbˣ?**
+Plot log y against x. The gradient gives log b and the intercept gives log k, so b and k are found by raising the base to those values.
+
+**How are kbˣ and Aeᵏˣ related?**
+They describe the same family of curves, because any positive base b can be written as e^(ln b). A factor b > 1 gives k > 0, and 0 < b < 1 gives k < 0.
+
 ## Official syllabus
 
 AQA A-level Mathematics (7357) specification, version 1.3, 31 January 2018 (A-level exams June

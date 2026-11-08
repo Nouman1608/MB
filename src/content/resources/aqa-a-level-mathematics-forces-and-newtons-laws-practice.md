@@ -180,6 +180,23 @@ By **Newton's third law** the box pushes down on the floor with **135 N** [1] **
 - Losing the sign of a deceleration in a lift or vertical-motion question.
 - Rounding R or F early and carrying the rounded value into μ or a distance.
 
+## Frequently asked questions
+
+**What does AQA A-level Maths 7357 Section R cover?**
+Section R covers forces and Newton's three laws, weight and g, connected particles and smooth pulleys, resolving forces and equilibrium, resultant forces, and friction with F ≤ μR, content references R1 to R6. It is examined on Paper 2.
+
+**What value of g should you use in AQA 7357 mechanics?**
+Take g = 9.8 m s⁻² unless the question gives another value, and round answers to match the accuracy of g used.
+
+**When is the friction force equal to μR?**
+Only when the body is moving or on the point of moving. Otherwise friction just balances the applied force, so compare the applied force with μR first.
+
+**What happens to the equations when a string goes slack or a tow bar breaks?**
+The tension becomes zero, so start a new stage with new equations for each body. Keeping the old tension, or the old acceleration, loses marks.
+
+**How do you find the force on a smooth pulley?**
+When both sections of string hang vertically, each pulls down with tension T, so the force on the pulley is 2T downwards.
+
 ## Next steps
 
 - Condensed recall: [Forces and Newton's laws revision notes](/resources/aqa-a-level-mathematics-forces-and-newtons-laws-revision-notes/).

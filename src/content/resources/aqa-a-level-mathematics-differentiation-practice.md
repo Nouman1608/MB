@@ -12,10 +12,12 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "g-differentiation-aqa-alevel-maths"
-description: "Original exam-style practice questions with full worked answers on standard derivatives, stationary points, the product/quotient/chain rules, implicit/parametric differentiation and forming differential equations for AQA A-Level Mathematics (7357), Section G."
+description: "Original AQA A-Level Maths (7357) Section G practice with worked answers on standard derivatives, stationary points, calculus rules and differential equations."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -103,6 +105,20 @@ Related: [Differentiation study guide](/resources/aqa-a-level-mathematics-differ
 ## A note on notation
 
 Section G distinguishes between differentiating a function given explicitly as y = f(x), where dy/dx is found directly, and functions given implicitly (Question 5) or parametrically (Question 9), where dy/dx must be built up from partial results — either by differentiating both sides of an implicit equation with respect to x and rearranging, or by finding dy/dt and dx/dt separately and dividing. Examiners frequently penalise answers that skip the intermediate dy/dt and dx/dt steps for parametric curves, since the working shows whether the chain rule has actually been applied or the answer has been guessed.
+
+## Frequently asked questions
+
+**How do you classify a stationary point when the second derivative is zero?**
+The second-derivative test is inconclusive, so check the sign of f′(x) just either side of the point. A change from positive to negative means a maximum, negative to positive means a minimum, and no change means a point of inflection.
+
+**Do you have to solve differential equations in AQA 7357 Section G?**
+No. Section G asks you to form a differential equation from a described situation, such as dP/dt = kP. The methods for solving one belong to Section H, Integration.
+
+**How do you differentiate a product such as (2x + 1)⁵(x − 3)?**
+Use the product rule, finding the derivative of (2x + 1)⁵ with the chain rule, then take out the common factor (2x + 1)⁴. Expanding the bracket first is slower and more error-prone.
+
+**Why show dx/dt and dy/dt in a parametric question?**
+The intermediate steps show that the chain rule dy/dx = (dy/dt) ÷ (dx/dt) has been applied, and examiners often penalise answers that skip them.
 
 ## Official syllabus
 

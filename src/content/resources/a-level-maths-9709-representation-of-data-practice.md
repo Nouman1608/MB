@@ -176,6 +176,23 @@ Key: 4 | 3 | 5 means 34 seconds for Group P and 35 seconds for Group Q
 - Two means averaged without weighting by the group sizes.
 - Variance given instead of standard deviation.
 
+## Frequently asked questions
+
+**What does Cambridge 9709 section 5.1 Representation of data cover?**
+It covers stem-and-leaf diagrams, box-and-whisker plots, histograms and cumulative frequency graphs, measures of centre and spread, and calculations using Σx and Σx² or coded totals.
+
+**How do you find frequency from a histogram with unequal class widths?**
+Frequency is proportional to the area of each bar, not its height. Work out what one unit of area represents from a bar with a known frequency, then use the area of the other bar.
+
+**How do you combine the mean and standard deviation of two groups?**
+Find Σx and Σx² for each group from its size, mean and standard deviation, add the totals, then use the formulas once for the combined group. Averaging the two standard deviations is wrong.
+
+**Where do you plot points on a cumulative frequency graph?**
+Plot each cumulative frequency at the upper class boundary. Using mid-points or lower boundaries makes every later reading wrong.
+
+**How do you describe skewness from a box-and-whisker plot?**
+Compare the two halves of the box. If Q₃ − median is larger than median − Q₁, the distribution has positive skew; if it is smaller, negative skew.
+
 ## Next steps
 
 - [Probability & Statistics 1 revision notes](/resources/a-level-maths-9709-probability-statistics-1-revision-notes/)

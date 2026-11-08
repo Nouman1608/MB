@@ -313,6 +313,23 @@ You must be able to criticise a model, not just use it.
 - Taking the intercept of a log graph as a or k, instead of log a or log k.
 - Rounding ln values early. Keep full calculator values until the final answer.
 
+## Frequently asked questions
+
+**Why are exponential models so common?**
+The gradient of eᵏˣ is keᵏˣ, so the rate of change of the quantity is proportional to the quantity itself. That fits populations, radioactive decay, drug concentrations and continuously compounded interest.
+
+**What is the graph of y = ln x like?**
+It passes through (1, 0), has the y-axis as an asymptote, exists only for x > 0 and increases ever more slowly. It is the reflection of y = eˣ in the line y = x.
+
+**What are the two power-law cases named in AQA 7357 F4?**
+With k = −1, log_a (1/x) = −log_a x, and with k = −½, log_a (1/√x) = −½ log_a x.
+
+**How do you tell which log graph to use?**
+Look at the horizontal axis. log y against log x straightens a power law y = axⁿ, while log y against plain x straightens an exponential y = kbˣ.
+
+**Does an exponential decay model ever reach zero?**
+No. Ae^(−kt) is positive for every t, even though in reality the quantity may become negligible or disappear. A refinement can add a constant if it settles above zero.
+
 ## Next steps
 
 Work through the [practice questions](/resources/aqa-a-level-mathematics-exponentials-and-logarithms-practice/),

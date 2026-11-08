@@ -214,6 +214,23 @@ distinct sections [1]. **[8]**
 - Predictions trusted outside the range of the data.
 - Rounded values used in later steps, which shifts the final answer.
 
+## Frequently asked questions
+
+**Which paper tests AQA A-level Maths 7357 Section L?**
+The specification lists Section L, Data presentation and interpretation, under Paper 3. A calculator with statistics functions is required.
+
+**How do you correct the mean and standard deviation when one value was recorded wrongly?**
+Update both totals: subtract the wrong value and add the correct one in Σx, and subtract its square and add the new square in Σx². Then recompute the mean and standard deviation.
+
+**How should you comment on a claim that one variable causes another?**
+Say that correlation does not imply causation, and name a plausible third variable in context that could increase both, such as the population of a town.
+
+**Why should a regression line not be used outside the range of the data?**
+Predicting outside the observed range is extrapolation, and the linear relationship may not hold there, so the prediction is unreliable. Quote the data range in your answer.
+
+**How do you compare two data sets in AQA 7357?**
+Give one comparison of location (such as the median) and one of spread (such as the IQR), each with the numbers and a sentence in context.
+
 ## Next steps
 
 - [Data presentation revision notes](/resources/aqa-a-level-mathematics-data-presentation-and-interpretation-revision-notes/)
