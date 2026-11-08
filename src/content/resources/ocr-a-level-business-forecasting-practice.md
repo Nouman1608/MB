@@ -130,6 +130,23 @@ These questions cover Forecasting in the Business objectives and strategy area o
 - Giving a recommendation with no reason or no alternative.
 - Answering in general terms when the question names a business and gives figures.
 
+## Frequently asked questions
+
+**Are these OCR A Level Business H431 past paper questions?**
+No. They are original practice questions written for Marlbridge on the Forecasting content point. Use them alongside OCR's own past papers.
+
+**Where should a moving average be placed?**
+Against the middle year of the period it covers, so a three-year average for 2016 to 2018 belongs to 2017. Writing it against the wrong year is a common error.
+
+**How should you state a cyclical variation figure?**
+Give its direction, above or below the trend, and its unit. That makes the figure meaningful and avoids confusion over the sign.
+
+**How do you make the "correlation is not causation" point convincingly?**
+Name a specific alternative cause, such as good weather raising demand in the same months as advertising. A general statement that correlation does not prove cause has less substance.
+
+**What does an evaluation of a forecasting method need?**
+A reasoned conclusion that refers to the business's circumstances, such as whether the product has any sales history. A list of pros and cons, or a conclusion that repeats earlier points, earns less.
+
 ## Next steps
 
 - Review: [revision notes](/resources/ocr-a-level-business-forecasting-revision-notes/) and [study guide](/resources/ocr-a-level-business-forecasting/).

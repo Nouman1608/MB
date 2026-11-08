@@ -260,6 +260,20 @@ Use these to turn a description into an evaluation of opportunities and threats:
 - Describing emerging markets only as an opportunity and ignoring risk.
 - Ending a "recommend and justify" answer without a decision or a reason why the alternative is weaker.
 
+## Frequently asked questions
+
+**What is the difference between globalisation and a global strategy?**
+Globalisation is a trend in the business environment, outside the control of any one firm. A global strategy is a deliberate plan by one business to operate across world markets, such as selling a standardised product everywhere.
+
+**What is the difference between the EU, the Eurozone and the Single European Market?**
+The EU is a trading bloc of European countries, the Eurozone is the group of members using the single currency, and the Single European Market lets goods, services, capital and people move between members largely freely. Mixing them up is a common error.
+
+**Is a fall in the pound good or bad for a business?**
+It depends on the firm. A weaker pound helps exporters, whose goods become cheaper abroad, but raises the cost of imports, so separate importers from exporters.
+
+**Are emerging markets only an opportunity?**
+No. They offer new customers and cheaper production sites, but also bring new competitors from those economies and pressure on prices, so weigh the risk too.
+
 ## Official syllabus
 
 OCR A Level Business (H431), Version 2.1 (January 2026), published by OCR, for first assessment in 2017 with final assessment in summer 2027. Content covered: Global context; International trade and free trade; The European Union; Emerging markets and the global environment, within External influences.

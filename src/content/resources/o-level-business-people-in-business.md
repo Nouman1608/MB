@@ -12,13 +12,15 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "people-in-business"
-description: "Motivation theory, organisational structure and leadership styles, recruitment and training, and internal/external communication -- the full content of Topic 2 for Cambridge O Level Business Studies 7115, 2026 series."
+description: "Study guide to Topic 2 People in business for Cambridge O Level Business Studies 7115: motivation, organisation, leadership, recruitment and communication."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Every business decision studied under Topic 1 -- what to produce, how
@@ -165,6 +167,23 @@ carry more combined weighting than pure knowledge (AO1) alone across
 the qualification as a whole, and especially on the Paper 2 case study
 -- though on Paper 1 itself, knowledge still carries the larger single
 share.
+
+## Frequently asked questions
+
+**Is O Level Business 7115 the same as IGCSE Business Studies 0450?**
+Cambridge builds this O Level on content shared with the IGCSE syllabus, so the human resources theory is the same. The qualification code, the grade range (A* to E for the O Level against A* to G for the IGCSE) and the series in which each is available differ.
+
+**What is the difference between dismissal and redundancy?**
+Dismissal is when an employee is removed for a specific, employee-related reason. Redundancy is when a role is removed because it is no longer needed, for example because of automation or falling demand, for reasons unrelated to the individual's performance.
+
+**What are the three types of training in Cambridge O Level Business 7115?**
+Induction training for new starters, on-the-job training while working, and off-the-job training away from the normal work environment, such as a course. Know a benefit and a limitation of each.
+
+**What legal controls over employment are in Topic 2?**
+Employment contracts, unfair dismissal, discrimination, health and safety, and the legal minimum wage, together with how each affects employers and employees.
+
+**Which assessment skills matter most in People in business?**
+Application (AO2) and analysis (AO3) carry more combined weighting than knowledge (AO1) across the qualification, especially on the Paper 2 case study, although on Paper 1 knowledge still has the largest single share.
 
 ## Official syllabus
 

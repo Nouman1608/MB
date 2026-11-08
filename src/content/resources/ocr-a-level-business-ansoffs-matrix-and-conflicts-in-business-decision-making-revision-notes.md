@@ -260,6 +260,20 @@ Use a chain: point, evidence, reason, consequence, judgement. For example: "Payb
 - Ignoring qualitative factors, or treating them as an afterthought.
 - Concluding with a list of points and no judgement.
 
+## Frequently asked questions
+
+**Why is diversification the riskiest Ansoff strategy?**
+Diversification means selling new products in new markets, so the business has no direct experience of either side. Risk rises the further a business moves from the products and markets it knows.
+
+**Is a conflict between payback, ARR and NPV a mistake?**
+No. The tools measure different things and treat time differently, so they can rank projects differently. Explain the cause of the conflict rather than treating it as an error.
+
+**Should you compare investment appraisal results with a target?**
+Yes. Calculating payback, ARR or NPV without comparing the result with the business's target, such as a maximum payback period, leaves the figure uninterpreted.
+
+**What are the limitations of decision trees?**
+The probabilities are often guesses, and the expected value is an average that may never actually occur.
+
 ## Official syllabus
 
 OCR, Advanced GCE in Business (H431) specification, Version 2.1 (January 2026), for first assessment in 2017: Business objectives and strategy, content points Ansoff's matrix and Conflicts in business decision making.

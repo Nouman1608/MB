@@ -122,6 +122,23 @@ Recommend and justify an option for Ulverly. **[9]**
 - Recommending a strategy without dismissing the others.
 - Finishing an evaluation without a judgement.
 
+## Frequently asked questions
+
+**Are these OCR A Level Business H431 past paper questions?**
+No. They are original practice questions written for Marlbridge on Ansoff's matrix and conflicts in business decision making. Use them alongside OCR's own past papers.
+
+**Is an expected value the same as a net gain?**
+No. An expected value weighs each outcome by its probability; the net gain is the expected value minus the cost of the option. Show the multiplication and then subtract the cost.
+
+**How do you explain why decision making tools give different answers?**
+Name what each method measures, such as speed of payback, average profit or discounted value. Saying only that the answers differ restates the question.
+
+**What does an "assess" question on a model need?**
+Strengths and limitations, followed by a judgement about how far the model helps the business in the case. Two lists with no judgement are only partly evaluative.
+
+**How do you recommend a growth strategy in an exam answer?**
+Rank the options against the business's objective and the cash available, and say why the rejected options are weaker as well as why your choice is good.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ocr-a-level-business-ansoffs-matrix-and-conflicts-in-business-decision-making-revision-notes/) and the [study guide](/resources/ocr-a-level-business-ansoffs-matrix-and-conflicts-in-business-decision-making/).

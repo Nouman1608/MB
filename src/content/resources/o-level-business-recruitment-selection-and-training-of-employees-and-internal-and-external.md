@@ -243,6 +243,23 @@ A **barrier** is anything that stops a message being received or understood.
 - Naming a communication method without saying why it suits this message and these receivers.
 - Treating a calculation as the whole answer. Add a sentence of judgement.
 
+## Frequently asked questions
+
+**What are the main stages of recruitment and selection?**
+Identify the vacancy, write a job description and person specification, advertise, shortlist applications, interview and test the shortlist and take up references, then offer the post and give induction training.
+
+**What is the difference between a job description and a person specification?**
+A job description sets out what the post involves. A person specification sets out the skills and qualities wanted in the person who fills it.
+
+**When is communication effective?**
+Communication is effective when the message is received, understood and acted on as intended, with a response from the receiver.
+
+**What problems does ineffective communication cause?**
+Mistakes and rework, delays, lower morale, weaker customer service, lost orders and conflict between departments.
+
+**How should a business choose which employees to make redundant?**
+Base the choice on business needs rather than personal dislike, such as which jobs are no longer needed and whose skills are still required.
+
 ## Official syllabus
 
 Cambridge O Level Business Studies 7115, syllabus for examination in 2026 (Version 2), published by Cambridge University Press & Assessment (Cambridge International). Sections 2.3 and 2.4 of the subject content.

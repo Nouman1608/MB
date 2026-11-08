@@ -258,6 +258,20 @@ Capital employed = equity + non-current liabilities. These are standard forms; u
 - Reaching a recommendation without weighing both sides and the qualitative factors.
 - Forgetting to carry closing cash into next month's opening balance.
 
+## Frequently asked questions
+
+**Does depreciation reduce a business's cash?**
+No. Depreciation spreads the cost of a non-current asset over its useful life, lowering reported profit and net assets, but no cash leaves the business when it is charged.
+
+**What units should ratio answers have?**
+Give each ratio its unit, such as times, days or %, and interpret what it shows. A ratio quoted without units or interpretation earns less.
+
+**How do you calculate break-even output for OCR A Level Business H431?**
+Break-even output = fixed costs ÷ contribution per unit, where contribution per unit = price − variable cost. Give the answer in units when the question asks for units, not in pounds.
+
+**What should a sources of finance recommendation include?**
+Link the choice to the business in the case, weigh both sides and include qualitative factors such as loss of control and attitude to risk, not only the cost.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Business (H431), Version 2.1 (January 2026), topic 6, Accounting and financial considerations. Published by OCR.

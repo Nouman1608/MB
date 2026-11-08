@@ -127,6 +127,23 @@ These questions practise sections 2.3 (Recruitment, selection and training of em
 - Describing a legal control without its effect on the employer or the employee.
 - Naming a barrier without a problem and a way to reduce it.
 
+## Frequently asked questions
+
+**Are these Cambridge O Level Business Studies 7115 past paper questions?**
+No. They are original practice questions written for Marlbridge on sections 2.3 (Recruitment, selection and training of employees) and 2.4 (Internal and external communication). Use them alongside the official past papers.
+
+**Do you need to quote employment laws from a particular country?**
+No. Describe the law in general terms and then state its effect on the employer or employee. Reciting rules from one country is not needed.
+
+**How do you justify a communication method in an exam answer?**
+Link the method to how urgent and how complex the message is and how many people must receive it. A claim such as "email is quick" on its own does not justify a recommendation.
+
+**What makes a recommendation on who to employ score well?**
+A named choice supported by facts and figures from the stem, weighed against what the business needs, plus the downside of your own choice. Either candidate can earn credit if the reasoning uses the evidence.
+
+**How should an "evaluate" answer end?**
+With a decision that follows from both sides of the argument. Ending with "it depends" and no choice leaves marks unearned.
+
 ## Next steps
 
 - Review the [revision notes](/resources/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external-revision-notes/) and the [study guide](/resources/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external/).

@@ -145,6 +145,23 @@ Second way: computer-aided manufacturing (CAM) means computers control the machi
 - Writing one-sided evaluations with no final judgement.
 - Giving a single developed point when two ways or two reasons are requested.
 
+## Frequently asked questions
+
+**Are these Cambridge O Level Business Studies 7115 past paper questions?**
+No. They are original short-answer, calculation and case-study questions written for Marlbridge on section 4.1, Production of goods and services. Use them alongside the official past papers.
+
+**How do you show a productivity calculation clearly?**
+Write the formula before substituting, show the division and give the units, such as leaflets per worker per week. Use the old figure as the base when calculating a percentage change.
+
+**How do you score application marks on Kaizen or JIT questions?**
+Apply the idea to the named business, such as its products, teams or suppliers. A generic claim that could fit any firm, such as "Kaizen improves quality", gains little.
+
+**What does an "analyse" answer on lean production need?**
+Break the point into cause and effect, linking with words such as "so" or "which means". A list such as "less waste, lower cost" without saying why the method leads to it is not analysis.
+
+**How do you answer a "two ways" question?**
+Give two separate points and develop each one. A single developed point when two are requested limits the marks available.
+
 ## Next steps
 
 - Review the [revision notes](/resources/o-level-business-production-of-goods-and-services-revision-notes/) and the [study guide](/resources/o-level-business-production-of-goods-and-services/).

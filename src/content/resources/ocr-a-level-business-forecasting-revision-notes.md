@@ -247,6 +247,20 @@ Trend moves from 92.3 to 107.7 over four years, so the average rise is 3.8 a yea
 - Listing advantages and disadvantages with no judgement tied to the business in the case.
 - Recommending a response with no reason or no comparison with an alternative.
 
+## Frequently asked questions
+
+**What is the difference between seasonal and cyclical variation?**
+Seasonal variation is a regular, repeating pattern within a year, linked to weather, holidays or the calendar. Cyclical variation is a longer pattern over several years, linked to the economic cycle or an industry cycle of boom, slowdown, recession and recovery.
+
+**How do you calculate cyclical variation?**
+Cyclical variation = actual value − trend value, where the trend comes from a moving average. Calculating trend minus actual reverses the sign.
+
+**Does correlation prove that one variable causes another?**
+No. Correlation is not causation: a third factor may drive both variables, so treat a forecast based on correlation with care.
+
+**What is the difference between qualitative and quantitative forecasting?**
+Qualitative forecasting uses judgement, opinion and experience, and suits a new product with no history. Quantitative forecasting uses numerical data and calculation, such as moving averages and correlation.
+
 ## Official syllabus
 
 OCR A Level Business (H431), Version 2.1 (January 2026), published by OCR, for first assessment in 2017 with final assessment in summer 2027. Content covered: Forecasting, within the area of study Business objectives and strategy.

@@ -246,6 +246,20 @@ The business pays more, but may gain from lower turnover and fewer disputes. Whe
 
 Work through the [practice questions](/resources/o-level-business-organisation-and-management-practice/), then test yourself on the [revision notes](/resources/o-level-business-organisation-and-management-revision-notes/). To find which Topic 2 areas need most work, try the [free 10-minute diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is span of control?**
+Span of control is the number of people who report directly to one manager or supervisor. Count only direct reports, not everyone below the manager on the chart.
+
+**Which leadership style suits an urgent decision?**
+An autocratic style suits urgent decisions where there is no time to consult and one clear instruction avoids confusion. Democratic or laissez-faire styles suit staff who know more than the leader or specialists working alone.
+
+**Is a short structure always better than a tall one?**
+No. A short structure suits skilled staff who can work with little supervision, while a tall structure suits work that needs close checking.
+
+**What are the effects of trade union membership on a business?**
+Costs may rise if the union wins better pay, industrial action can disrupt work and changes may take longer to agree. A union also gives a single channel for talking to the workforce, which can improve communication and settle disputes early.
+
 ## Official syllabus
 
 Cambridge International, Cambridge O Level Business Studies (7115) syllabus for examination in 2026, subject content section 2.2 Organisation and management.

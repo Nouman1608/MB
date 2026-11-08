@@ -221,6 +221,20 @@ When you judge why a business succeeded or failed, link the tools to causes. Suc
 - Treating the matrix as a prediction rather than a guide.
 - Giving payback, ARR and NPV results but not explaining a conflict.
 
+## Frequently asked questions
+
+**What is the difference between market development and product development?**
+Market development sells existing products in a new market, such as a new region or customer segment. Product development sells new or improved products to the existing market.
+
+**What are the limitations of Ansoff's matrix?**
+It ignores the size and speed of reward, gives no financial figures to show which option is profitable, and does not show whether the business has the resources to carry out a strategy.
+
+**Why do decision making tools sometimes conflict?**
+They measure different things, treat time differently, rely on estimates that may be wrong, use different information and look at different time horizons, so they can point to different choices.
+
+**How should qualitative factors be used in a business decision?**
+Bring them in alongside the figures, since brand, morale, ethics and strategic fit are not captured by quantitative tools. Then make a justified judgement and say what would change it.
+
 ## Official syllabus
 
 OCR, Advanced GCE in Business (H431) specification, Version 2.1 (January 2026), for first assessment in 2017: area of study Business objectives and strategy, content points Ansoff's matrix and Conflicts in business decision making.
