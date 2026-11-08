@@ -269,6 +269,23 @@ A Geiger-Müller tube is placed a fixed distance from a source. The background c
 
 Condense the unit with the [revision notes](/resources/ocr-gcse-physics-ionisation-half-life-and-penetrating-power-revision-notes/), then test yourself with the [practice questions](/resources/ocr-gcse-physics-ionisation-half-life-and-penetrating-power-practice/). Use the [free diagnostics](/diagnostics/) to find weak topics.
 
+## Frequently asked questions
+
+**What is half-life in GCSE Physics?**
+Half-life is the time taken for the number of undecayed nuclei in a sample, or its activity, to halve. Decay of a single nucleus is random, but a large sample behaves predictably.
+
+**How much of a radioactive sample is left after two half-lives?**
+One quarter remains, because the amount halves and then halves again. After n half-lives the amount left is the original divided by 2ⁿ.
+
+**What stops alpha, beta and gamma radiation?**
+Alpha particles are stopped by a sheet of paper or a few centimetres of air. Beta particles are stopped by a few millimetres of aluminium. Gamma rays are reduced by thick lead or very thick concrete but never completely stopped.
+
+**Does radiation make objects radioactive?**
+No. Irradiating an object does not make it radioactive, so it is wrong to say that radiation passing through something leaves it radioactive.
+
+**What does OCR GCSE Physics A statement P6.1i cover?**
+In OCR GCSE (9-1) Physics A (J249), P6.1i covers how changes in atoms and in nuclei can both produce and absorb radiation, which can come from any part of the electromagnetic spectrum, including gamma rays.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249)* specification, Version 5.0 (July 2026), for first assessment in 2018. Statements P6.1h to P6.1l.

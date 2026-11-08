@@ -243,6 +243,23 @@ F = ma and a = (v - u) / t combine to give F = (m v - m u) / t. So force = chang
 - Leaving out units, or the direction of a vector answer.
 - Answers about safety that mention force but not the longer time (Higher Tier only).
 
+## Frequently asked questions
+
+**What is inertia?**
+Inertia is a measure of how difficult it is to change the velocity of an object. Inertial mass is defined as the ratio of force over acceleration, m = F / a.
+
+**Is momentum lost in a collision?**
+No. With no external force, the total momentum before equals the total momentum after. Momentum can be transferred from one object to another, but the total is conserved.
+
+**How do you investigate force and acceleration in OCR GCSE Physics A?**
+The specification suggests light gates, weights and trolleys (PAG P2). Keep the total mass of the system the same by moving weights between the trolley and the hanger.
+
+**How is force related to change in momentum?**
+Combining F = ma with a = (v − u) / t gives force = change in momentum ÷ time. For the same change in momentum, a longer time means a smaller force.
+
+**Which parts of this topic are Higher tier only in OCR GCSE Physics A?**
+In OCR GCSE (9-1) Physics A (J249), inertia and inertial mass, momentum and collisions, force and change in momentum, and circular motion are Higher tier only. Newton's second law, F = ma, is for both tiers.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), first assessment 2018, published by OCR.

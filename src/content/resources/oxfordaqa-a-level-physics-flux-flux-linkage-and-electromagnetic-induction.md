@@ -241,6 +241,23 @@ Take sin of ωt in radians. In degrees, ωt = 50.4°, which gives the same answe
 
 Next, test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-flux-flux-linkage-and-electromagnetic-induction-practice/), or recap with the [revision notes](/resources/oxfordaqa-a-level-physics-flux-flux-linkage-and-electromagnetic-induction-revision-notes/).
 
+## Frequently asked questions
+
+**What is Faraday's law?**
+The size of the induced emf depends on how fast the flux linkage changes, and in SI units it equals the rate of change of flux linkage.
+
+**What is the emf induced in a rod moving through a magnetic field?**
+For a straight conductor of length L moving at speed v at right angles to its length and to a uniform field B, the induced emf is ε = BLv.
+
+**What is the peak emf of a rotating coil?**
+For a coil of N turns and area A rotating at angular speed ω in a field B, the emf is ε = BANω sin ωt, so the peak emf is BANω, with ω = 2πf.
+
+**When is the emf from a rotating coil at its maximum?**
+When the plane of the coil is parallel to the field. The flux linkage is then zero but changing fastest. When the coil is square-on to the field, the flux linkage peaks and the emf is zero.
+
+**Why does a magnet fall slowly through an aluminium tube?**
+The falling magnet changes the flux through the tube wall, inducing eddy currents. By Lenz's law these currents oppose the change, so a force acts against the magnet's motion and it falls much more slowly than through a cardboard tube.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams from May/June 2020 onwards, published by OxfordAQA. Sections 3.10.3 Magnetic flux and flux linkage and 3.10.4 Electromagnetic induction (International A-level only).

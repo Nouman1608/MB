@@ -233,6 +233,23 @@ Any connection from live to earth gives a low-resistance path and a large curren
 - Saying the earth wire carries the current "back to the supply" in normal use. That is the neutral wire.
 - Saying a switch in the neutral wire is safe. The appliance stays live.
 
+## Frequently asked questions
+
+**What is the difference between renewable and non-renewable energy resources?**
+A renewable resource is replaced as fast as it is used, or is never used up, such as wind, tides or biofuel. A non-renewable resource, such as coal, oil, gas or nuclear fuel, is used faster than it forms, so it will run out.
+
+**Why is biofuel renewable even though it is burned?**
+Biofuel comes from crops that can be regrown, so the fuel is replaced about as fast as it is used. Burning it does not make it non-renewable.
+
+**Why is a switch placed in the live wire?**
+Opening a switch in the live wire disconnects the appliance from the 230 V supply. If the switch is in the neutral wire, the appliance stops working but stays connected to the live wire, so touching a live part inside it can still give a shock.
+
+**Why is the live wire dangerous even when no current is flowing?**
+Your body is at about the same potential as earth, so touching a wire at about 230 V puts a large potential difference across you. A current then passes through your body to earth, which can cause a severe shock.
+
+**What does insulation on mains wires do?**
+Insulation stops a person touching the live conductor and stops it touching other conductors. Damaged, frayed or wet insulation makes a shock more likely, because water is a conductor.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Physics A (Gateway Science) specification (J249), Version 5.0 (July 2026), for first assessment in 2018, published by OCR: statements P8.2a, P8.2b, P8.2g, P8.2h, P8.2i and P8.2j.

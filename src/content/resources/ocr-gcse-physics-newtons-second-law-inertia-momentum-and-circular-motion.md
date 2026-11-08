@@ -283,6 +283,23 @@ A change in velocity is an acceleration. So an object in circular motion at cons
 - Saying "speed changes" in circular motion. At constant speed, the velocity changes because of direction.
 - In Higher Tier answers, comparing forces without saying the change in momentum is the same.
 
+## Frequently asked questions
+
+**What is Newton's second law?**
+When a resultant force acts on an object, it accelerates in the direction of that force. The acceleration is larger for a larger resultant force and smaller for a larger mass, as given by F = ma.
+
+**How do you calculate momentum?**
+Momentum = mass × velocity (p = mv), measured in kg m/s. It is a vector, so it has the same direction as the velocity, and an object moving the other way has negative momentum.
+
+**Why is an object moving in a circle at constant speed accelerating?**
+Its direction keeps changing, so its velocity keeps changing even though its speed is constant. A change in velocity is an acceleration, so a resultant force is needed, acting towards the centre of the circle.
+
+**How do you keep a force and acceleration experiment a fair test?**
+Keep the total mass of the system fixed. If you add weights to the hanger, take the same weights off the trolley, so the mass being accelerated does not change.
+
+**What happens to momentum when two objects stick together?**
+The total momentum before the collision equals the total momentum after, if no external force acts. Divide the total momentum by the combined mass to find their shared velocity.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), first assessment 2018, published by OCR.

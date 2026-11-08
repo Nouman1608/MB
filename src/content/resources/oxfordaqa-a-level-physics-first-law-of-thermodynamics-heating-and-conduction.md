@@ -255,6 +255,23 @@ A slab 0.10 m thick made of material with k = 0.040 W m⁻¹ K⁻¹ has U = 0.04
 
 Next, try the [practice questions](/resources/oxfordaqa-a-level-physics-first-law-of-thermodynamics-heating-and-conduction-practice/).
 
+## Frequently asked questions
+
+**What is the first law of thermodynamics?**
+ΔU = Q + W: the internal energy of a system rises when energy is transferred to it by heating or when work is done on it, and falls in the reverse cases.
+
+**What is internal energy?**
+Internal energy is the sum of the randomly distributed kinetic and potential energies of the particles in a body. Giving only the kinetic energy of the molecules is half the definition.
+
+**How do you calculate the rate of conduction through a wall?**
+Rate of energy transfer = kAΔθ/L, where k is the thermal conductivity, A the area, Δθ the temperature difference and L the thickness. The rate is in watts.
+
+**How do you measure specific heat capacity by an electrical method?**
+In Required practical 8, a heater and thermometer are placed in holes in a block of known mass. The energy supplied is VIt, and c is found from c = VIt/(mΔθ). Heat losses make the measured value of c too high.
+
+**How do you calculate the flow rate in an electric shower?**
+Use P = (Δm/Δt) × c × Δθ, so the mass of water heated each second is the power divided by cΔθ, assuming all the electrical energy goes to the water.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Physics (9630)*, Version 4.4, for International AS and A-level exams from May/June 2020, published by OxfordAQA. Sections 3.11.1 and 3.11.2.

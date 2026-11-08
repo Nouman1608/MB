@@ -9,13 +9,15 @@ qualifications: ["gcse"]
 syllabusCodes: ["J249"]
 syllabusSeries: "Version 5.0 (July 2026), for first assessment in 2018"
 order: 3
-description: "How OCR GCSE Physics J249 splits its topics across two papers per tier, the equation and unit discipline that protects marks, reading graphs for gradients and areas, and a worked rearrangement routine."
+description: "How OCR GCSE Physics A (J249) splits topics across its papers, with unit and equation habits, graph gradients and areas, and a worked rearranging routine."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 OCR GCSE (9-1) Physics A (Gateway Science, J249) is tiered and linear. Foundation candidates sit
@@ -139,6 +141,23 @@ symbols is easier to check and an error is visible, whereas an error made while 
 usually is not. 3. A unit or prefix error -- failing to convert to SI units before substituting.
 4. What the gradient physically represents (speed, acceleration, resistance and so on) and the unit,
 not just the calculated value.
+
+## Frequently asked questions
+
+**How many papers are there in OCR GCSE Physics A (J249)?**
+There are two papers per tier: Foundation candidates sit Papers 1 and 2, and Higher candidates sit Papers 3 and 4. Each paper lasts 1 hour 45 minutes, is worth 90 marks and counts for 50% of the qualification.
+
+**Which topics are on each OCR GCSE Physics A paper?**
+Paper 1/3 assesses Topics P1 to P4 and the practical skills topic P9. Paper 2/4 assesses Topics P5 to P8, with P1 to P4 and P9 assumed knowledge that can appear synoptically.
+
+**Does OCR GCSE Physics A have required practicals?**
+OCR sets no list of required practicals. Centres run at least eight practical activities covering the Practical Activity Groups (PAGs), and practical-style questions appear in Section B of both papers at both tiers.
+
+**What is the most common way to lose the final mark in a physics calculation?**
+A unit or prefix error, usually from not converting a quantity to SI units before substituting. Write each conversion down, such as 250 ms = 0.250 s, before using the equation.
+
+**How should I write a six-mark extended answer in GCSE Physics?**
+Describe the mechanism in order: what happens first, what that causes, and what the observable outcome is. An answer whose sentences could be reordered without loss is a list, and lists tend to score in the lower band.
 
 *Written against OCR's own published "GCSE (9-1) Gateway Science: exploring our question papers" guide
 for J249 (official OCR document, verified 2026-08-28). The calculation routine above is an original

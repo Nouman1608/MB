@@ -179,6 +179,23 @@ These questions cover statements P2.3g to P2.3j and P2.3n to P2.3o of Topic P2 F
 - Try all free 10-minute diagnostics: [/diagnostics/](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What do these OCR GCSE Physics A gravity and fluid pressure questions cover?**
+They cover statements P2.3g to P2.3j, P2.3n and P2.3o of OCR GCSE (9-1) Physics A (J249): gravitational fields, weight, free fall, pressure force in fluids and simple hydraulics.
+
+**What value of g should I use on another planet?**
+Use the gravitational field strength the question gives for that planet, not 10 N/kg. The mass of the object stays the same when it moves; only its weight changes.
+
+**What are common mistakes in p = F / A calculations?**
+Using a mass in kg as the force, using the area of one contact instead of the total area, and leaving the area in cm² instead of converting to m². One square metre is 10 000 cm².
+
+**What if fluid presses on both sides of a surface?**
+Subtract the outside pressure from the inside pressure first, then multiply the pressure difference by the area to find the net force.
+
+**Do hydraulic systems give you something for nothing?**
+No. A hydraulic system can multiply force, but the small piston has to move further than the large piston. Treating the force gain as free is a common error.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249) specification*, Version 5.0 (July 2026), first assessment 2018, Topic P2 Forces, statements P2.3g to P2.3j, P2.3n and P2.3o, with the equation list in the appendix.

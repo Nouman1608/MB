@@ -158,6 +158,23 @@ These questions cover statements P2.3k, P2.3l and P2.3m of OCR GCSE (9-1) Gatewa
 - Try the [free 10-minute diagnostics](/diagnostics/) next.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these OCR GCSE Physics A moments questions cover?**
+They cover statements P2.3k to P2.3m of OCR GCSE (9-1) Physics A (J249): forces that cause rotation, the moment of a force and the principle of moments, and levers and gears. These statements are separate Physics only.
+
+**What distance should I use in a moments calculation?**
+Use the perpendicular distance from the pivot to the force's line of action, in metres. Measuring to the end of the bar, or leaving a distance in centimetres, gives the wrong answer.
+
+**Where does the weight of a uniform bar act?**
+At its midpoint. If the pivot is somewhere else, the bar's own weight has a moment about the pivot that must be included.
+
+**How should I set out a principle of moments question?**
+Write the clockwise and anticlockwise moments as separate sums, then set them equal. Adding clockwise moments to anticlockwise moments is a common error, and separate sums let an examiner follow your method.
+
+**What do I need to say about a lever or gear used as a force multiplier?**
+State the trade-off: a larger output force comes with a smaller distance moved or a slower turn. Describing the force gain alone, or saying it gives extra energy, loses marks.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249)*. Specification Version 5.0, July 2026; first assessment 2018. Topic P2.3, statements P2.3k to P2.3m.

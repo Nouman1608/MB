@@ -155,6 +155,23 @@ These questions cover statements P1.3h, P1.3i and P1.3j of OCR GCSE (9-1) Physic
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is liquid pressure and upthrust Higher tier in OCR GCSE Physics A?**
+Yes. Statements P1.3h to P1.3j of OCR GCSE (9-1) Physics A (J249), on floating and sinking, liquid pressure and pressure differences, are Higher tier only, so every question in this set is Higher tier.
+
+**What unit should a liquid pressure answer have?**
+Pressure is in pascals (Pa), which is N/m². Giving N or N/m, or leaving the unit off, loses the mark, and you should give kPa only if the question asks for it.
+
+**What depth do I use in p = hρg?**
+Use the depth of the point below the liquid surface, not the total height of the container. For the bottom face of an object, add the object's height to the depth of its top face.
+
+**Why do answers about upthrust lose marks?**
+Saying the water "pushes up" is not enough. Explain that the bottom of the object is deeper than the top, so the pressure and force are larger there, and then compare the upthrust with the weight.
+
+**How should I explain whether an object floats or sinks?**
+Compare densities, or compare the weight with the upthrust. "Light things float" is not accepted as an explanation.
+
 ## Official syllabus
 
 Source: OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), first assessment 2018, published by OCR. Statements P1.3h to P1.3j.

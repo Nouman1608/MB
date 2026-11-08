@@ -258,6 +258,23 @@ E = 8.4 × 3 600 000 = 30 240 000 J = 3.0 × 10⁷ J (2 s.f.)
 - Using the length of a slope instead of the vertical rise when finding gravitational potential energy.
 - Naming only one store. Energy changes always involve at least two.
 
+## Frequently asked questions
+
+**What energy stores do I need for OCR GCSE Physics A?**
+The stores used in this topic are kinetic, gravitational potential, elastic potential and thermal. Every energy change involves at least two stores: one that goes down and one that goes up.
+
+**What are the three ways energy can be transferred between stores?**
+A system changes by heating, by work done by forces, or by work done when a current flows. Heating moves energy because of a temperature difference.
+
+**How do you calculate electrical energy transferred?**
+Energy transferred equals charge × potential difference (E = QV). If you are given current and time instead, energy is p.d. × current × time.
+
+**What is a kilowatt-hour?**
+One kW h is the energy transferred by a 1 kW appliance running for 1 hour. Use E = Pt with power in kW and time in hours, and 1 kW h is 3 600 000 J.
+
+**How do I calculate work done by a force?**
+Use W = Fs, where s is the distance moved in the direction of the force. The work done equals the energy transferred, in joules.
+
 ## Official syllabus
 
 This page is based on the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), for first assessment in 2018, published by OCR (Oxford Cambridge and RSA). Topic P7.1 Work done.

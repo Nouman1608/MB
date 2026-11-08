@@ -194,6 +194,23 @@ The aim is to find how the efficiency depends on the load or on the transformer 
 - Calculating efficiency from the voltages alone, when it needs the currents too: IsVs/IpVp.
 - Quoting efficiency above 100%, which means input and output have been swapped.
 
+## Frequently asked questions
+
+**What is the difference between peak and peak-to-peak values?**
+The peak value is the maximum measured from zero. The peak-to-peak value runs from the top of a peak to the bottom of a trough, so for a sine wave it is twice the peak value.
+
+**How do you convert an rms current to a peak current?**
+For a sinusoidal current, multiply the rms value by √2. For example, 3.0 A rms has a peak of 4.2 A and a peak-to-peak value of 8.5 A.
+
+**Why is a transformer core laminated?**
+The changing flux induces eddy currents in the core, which heat it. Laminating the core with insulated layers reduces these currents by cutting the paths available, but it does not stop them completely.
+
+**How do you calculate transformer efficiency?**
+Efficiency = IsVs/IpVp, the output power divided by the input power. You need the currents as well as the voltages, and an answer above 100% means input and output have been swapped.
+
+**What safety rule applies to Required practical 7?**
+Use a low-voltage a.c. supply and never connect a laboratory transformer to the mains. This practical in OxfordAQA A-level Physics (9630) investigates the efficiency of a transformer.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), specification Version 4.4, for exams from May/June 2020 onwards, published by OxfordAQA. These notes cover sections 3.10.5 and 3.10.6 and Required practical 7.

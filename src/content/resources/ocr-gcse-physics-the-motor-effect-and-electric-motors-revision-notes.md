@@ -238,6 +238,23 @@ Plan your answer in this order:
 - Rearranging incorrectly: write the rearranged equation first, then substitute.
 - Using the whole length of the wire, not the length in the field.
 
+## Frequently asked questions
+
+**What causes the motor effect?**
+A current gives a wire its own magnetic field, which interacts with the field of the magnet. The result is a force on the wire, and with no current there is no force.
+
+**What does each finger represent in Fleming's left-hand rule?**
+The first finger is the magnetic field (north to south), the second finger is the current (positive to negative) and the thumb is the force or motion.
+
+**What happens to the force if both the current and the field are reversed?**
+The force stays in the same direction, because the two reversals cancel. Reversing only one of them reverses the force.
+
+**How do you find magnetic flux density from a force-current graph?**
+For a fixed length of wire in a fixed field, force is directly proportional to current. The gradient of the graph equals B × l, so dividing the gradient by the length in the field gives B.
+
+**What length do I use in F = BIl?**
+Use only the length of wire that is in the magnetic field, not the whole length of the wire.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), first assessment 2018, published by OCR, topic P4.2 Uses of magnetism, statements P4.2a to P4.2d.

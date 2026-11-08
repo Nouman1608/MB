@@ -247,6 +247,23 @@ A photon of 0.80 MeV cannot produce this pair, since 0.80 is less than 1.022.
 
 For significant figures and unit checking, see the [measurements revision notes](/resources/oxfordaqa-a-level-physics-measurements-revision-notes/).
 
+## Frequently asked questions
+
+**What did Rutherford scattering show?**
+Most alpha particles passed straight through a thin gold foil, but a few were deflected through large angles. This showed that an atom has a small, dense, positively charged nucleus, with most of its volume empty space.
+
+**Why couldn't the plum pudding model explain Rutherford scattering?**
+The plum pudding model spreads positive charge through the whole atom, which predicts only small deflections of alpha particles. It cannot explain the large-angle scattering that was observed.
+
+**What is the specific charge of an electron?**
+Using standard values, the electron's specific charge is 1.60 × 10⁻¹⁹ C ÷ 9.11 × 10⁻³¹ kg = 1.76 × 10¹¹ C kg⁻¹, much larger than the proton's 9.58 × 10⁷ C kg⁻¹.
+
+**What is pair production?**
+Pair production is when a photon of sufficient energy turns into a particle and its antiparticle, close to a nucleus. The minimum photon energy is the sum of the two rest energies, for example 1.022 MeV for an electron-positron pair.
+
+**Does annihilation destroy energy?**
+No. Mass-energy is conserved. The total energy released equals the rest energies of both particles plus any kinetic energy they had, and it is carried away by photons.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), sections 3.3.1 and 3.3.2, Version 4.4 (for exams May/June 2020 onwards), published by OxfordAQA.

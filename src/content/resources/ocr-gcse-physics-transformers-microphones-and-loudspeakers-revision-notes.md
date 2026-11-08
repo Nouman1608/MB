@@ -256,6 +256,23 @@ All questions are Higher Tier only.
 - Describing a microphone as using a force on a coil, or a loudspeaker as using induction.
 - Giving no unit, or the wrong unit, on the answer.
 
+## Frequently asked questions
+
+**What is a transformer used for?**
+A transformer changes the size of an alternating potential difference. It has a primary (input) coil and a secondary (output) coil on the same core, with no electrical connection between them.
+
+**Why doesn't a transformer work with direct current?**
+Direct current gives a steady magnetic field in the core, so no potential difference is induced in the secondary coil. A transformer needs a changing current to give a changing magnetic field.
+
+**What do step-up and step-down describe?**
+They describe what happens to the potential difference, not the current or the power. A step-up transformer has more turns on the secondary coil and gives a larger output potential difference.
+
+**How does a microphone turn sound into a current?**
+The pressure variations of a sound wave push the diaphragm, so it and its attached coil vibrate. The coil moves in the field of a permanent magnet, so a varying potential difference is induced, giving a varying current.
+
+**Does a step-up transformer step up the current?**
+No. If no energy is wasted, the power in equals the power out, so when the potential difference is stepped up the current is stepped down.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), specification Version 5.0 (July 2026), first assessment 2018, published by OCR. These notes cover statements P4.2g to P4.2j.

@@ -206,6 +206,23 @@ A steeper line gives a bigger emf, and a flat line gives none, however large the
 - Using cm² or mm² for area without converting to m².
 - Explaining eddy-current braking as "friction" rather than induced currents and a resisting force.
 
+## Frequently asked questions
+
+**What is the unit of magnetic flux?**
+Magnetic flux is measured in webers, where 1 Wb = 1 T m². Flux linkage, NΦ, has the same unit.
+
+**How do you find the emf from a flux linkage-time graph?**
+The emf at any instant is the gradient of the flux linkage-time graph. A flat section means no change in flux linkage and so no induced emf.
+
+**What does Lenz's law say the induced emf opposes?**
+It opposes the change in flux that causes it, not the flux itself. Writing that it "opposes the flux" loses the mark.
+
+**What happens when a magnet is moved into a coil?**
+A meter shows a deflection only while the magnet moves. Withdrawing the magnet reverses the deflection, and faster motion gives a larger, shorter pulse.
+
+**How should I explain eddy-current braking?**
+Say that the changing flux induces currents in the metal, and by Lenz's law these currents produce a force that resists the motion. Calling it "friction" is wrong.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams from May/June 2020 onwards, published by OxfordAQA. Sections 3.10.3 Magnetic flux and flux linkage and 3.10.4 Electromagnetic induction (International A-level only).

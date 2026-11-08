@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on density, changes of state, specific heat capacity and gas pressure for OCR GCSE Physics."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -103,3 +105,20 @@ Related: [Matter revision notes](/resources/ocr-gcse-physics-matter-revision-not
 - Confusing specific heat capacity (E = mcΔθ, a temperature change) with specific latent heat (E = mL, a state change at constant temperature).
 - Forgetting that p₁V₁ = p₂V₂ only holds at **constant temperature** — it does not apply if the gas is also heated or cooled.
 - In a two-stage energy question, adding the latent heat and specific heat capacity terms in the wrong order, or forgetting one stage entirely — sketch the heating curve first to see how many sections the question covers.
+
+## Frequently asked questions
+
+**What do these OCR GCSE Physics Matter practice questions cover?**
+They cover Topic P1 Matter of OCR GCSE (9-1) Physics A (J249): density and how to measure it, changes of state, specific heat capacity, specific latent heat, and pressure in gases, liquids and the atmosphere.
+
+**What is the difference between specific heat capacity and specific latent heat?**
+Specific heat capacity, used in E = mcΔθ, is about a change in temperature. Specific latent heat, used in E = mL, is about a change of state at constant temperature, so the two equations should not be mixed up.
+
+**How do I approach a two-stage heating question?**
+Sketch the heating curve first to see how many sections the question covers, then calculate the energy for each stage separately and add them. Forgetting one stage is a common way to lose marks.
+
+**When can I use p₁V₁ = p₂V₂?**
+Only when the temperature of the gas stays constant. It does not apply if the gas is also heated or cooled.
+
+**What mistakes are common in density measurement questions?**
+Forgetting to subtract the mass of the container when finding a liquid's density, and not converting g/cm³ to kg/m³ (multiply by 1000) when units are mixed.

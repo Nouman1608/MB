@@ -207,6 +207,23 @@ Force ratio = 0.90 ÷ 0.15 = **6**.
 - Not showing the clockwise and anticlockwise sums separately, so a slip cannot be traced.
 - Giving no direction, clockwise or anticlockwise, when the question asks for the resultant turning effect.
 
+## Frequently asked questions
+
+**What is the unit of a moment?**
+The newton metre (N m). Giving the unit as N is wrong, because N is the unit of force, not of a moment.
+
+**When does a force not cause a turning effect?**
+When its line of action passes through the pivot. Its perpendicular distance from the pivot is then zero, so its moment is zero.
+
+**Which way do meshed gears turn?**
+Meshed gears turn in opposite directions. The ratio of their tooth counts gives the gear ratio, so you do not need to measure the radii.
+
+**Are moments separate Physics only in OCR GCSE Physics A?**
+Yes. In OCR GCSE (9-1) Physics A (J249), statements P2.3k to P2.3m on moments, levers and gears are separate Physics only.
+
+**If the moments on a see-saw are balanced, are the forces balanced too?**
+Not necessarily in the way the question means. Balanced moments and balanced forces are different ideas, and a see-saw with equal moments still has a large upward force from the pivot.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249)*. Specification Version 5.0, July 2026; first assessment 2018. Topic P2.3, statements P2.3k to P2.3m.

@@ -15,10 +15,12 @@ syllabusTopics:
 description: "The particle model, changes of state, and pressure -- the full content of Topic 1 Matter for OCR GCSE (9-1) Physics A (Gateway Science) (J249)."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Topic 1 Matter**, the first of eight content
@@ -255,3 +257,20 @@ Using E = m c delta-theta during a change of state, where temperature is not cha
 - Describe how the model of the atom developed from Dalton to Bohr, and state the order-of-magnitude size of an atom.
 - Apply p = h rho g to find pressure and pressure differences in a liquid, and explain why atmospheric pressure decreases with height.
 - Explain floating and sinking in terms of upthrust and weight.
+
+## Frequently asked questions
+
+**How is the arrangement of particles different in solids, liquids and gases?**
+In a solid, particles are close together in a regular arrangement and vibrate about fixed positions. In a liquid they are still close but move past each other, so it flows. In a gas the particles are far apart and move quickly and randomly.
+
+**What did Rutherford's alpha-scattering experiment show?**
+Most alpha particles passed straight through thin gold foil, but a small fraction were deflected through large angles. This showed that an atom's mass and positive charge are concentrated in a tiny, dense nucleus, with the rest of the atom mostly empty space.
+
+**What is specific heat capacity?**
+Specific heat capacity is the energy needed to raise the temperature of 1 kg of a substance by 1 °C. It is used in E = mcΔθ.
+
+**Do particles expand when they are heated?**
+No. The particles themselves do not change size when heated; they move faster or further apart. Saying particles "expand" is a common mistake.
+
+**Why does pressure in a liquid increase with depth?**
+A deeper or denser column of liquid above a point has more weight pressing down on it, so the pressure is greater. Pressure in the atmosphere, by contrast, decreases with height.

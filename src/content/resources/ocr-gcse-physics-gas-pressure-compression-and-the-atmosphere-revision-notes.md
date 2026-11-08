@@ -209,6 +209,23 @@ pressure (Pa) × volume (m³) = constant, so p₁V₁ = p₂V₂
 - Saying "suction" for a collapsed can, when the outside pressure is the cause.
 - Saying there is no air at height instead of less air above.
 
+## Frequently asked questions
+
+**What is gas pressure?**
+Gas pressure is the force per unit area on a surface caused by gas particles colliding with it. More frequent or harder collisions give a higher pressure.
+
+**Which gas pressure statements are separate Physics only in OCR GCSE Physics A?**
+In OCR GCSE (9-1) Physics A (J249), P1.3a and P1.3b are for both tiers. P1.3c, P1.3d, P1.3f and P1.3g are separate Physics only, and P1.3e on work done on a gas is Higher tier only.
+
+**Why does a bicycle pump get warm?**
+Pushing the piston in does work on the gas, transferring energy to it. Particles rebound from the moving piston faster, so their average kinetic energy and the temperature rise.
+
+**Why does a can collapse when the air inside is removed or cooled?**
+The pressure inside falls, so the atmospheric pressure outside is larger and pushes the can inwards. Calling it "suction" loses the mark, because the outside pressure is the cause.
+
+**Does atmospheric pressure act only downwards?**
+No. Atmospheric pressure is the force per unit area from the weight of air above, and it acts in all directions.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249)* specification, Version 5.0 (July 2026), first assessment 2018, topic P1.3 Pressure, statements P1.3a to P1.3g.

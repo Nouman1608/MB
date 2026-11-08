@@ -216,6 +216,23 @@ Skid marks 30 m long suggest a steady deceleration of about 7 m/s² on a dry roa
 
 Try the [practice questions](/resources/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers-practice/), then check yourself with the [revision notes](/resources/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers-revision-notes/) and the [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**How do you calculate stopping distance in GCSE Physics?**
+Stopping distance = thinking distance + braking distance. Thinking distance is speed × reaction time, and braking distance can be found from v² ÷ 2a for a steady deceleration.
+
+**Why are large decelerations dangerous?**
+A large deceleration is a large change in velocity in a short time, and by F = ma it needs a large force on the person. That force comes from whatever stops them, such as a seat belt, airbag, dashboard or the road.
+
+**What typical masses should I assume when estimating road forces?**
+This guide uses an adult of about 70 to 80 kg, a cyclist with bicycle of about 90 kg, a car of about 1000 to 1500 kg and a laden lorry of about 10 000 to 20 000 kg.
+
+**How do crumple zones reduce injuries?**
+A crumple zone increases the time and distance over which the car and its passengers stop. This reduces the deceleration, so the force on the passengers is smaller. It does not "absorb the force".
+
+**Is estimating forces on a public road Higher tier in OCR GCSE Physics A?**
+Yes. In OCR GCSE (9-1) Physics A (J249), statement P8.1h on estimating forces on a public road is Higher tier only.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Gateway Science Physics A (J249), Version 5.0, July 2026, first assessment 2018. Topic P8.1, statements P8.1f to P8.1i.

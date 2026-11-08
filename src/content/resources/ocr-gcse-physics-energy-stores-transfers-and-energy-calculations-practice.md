@@ -167,6 +167,23 @@ Links: [study guide](/resources/ocr-gcse-physics-energy-stores-transfers-and-ene
 - Find weak topics with the free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What do these OCR GCSE Physics A energy practice questions cover?**
+They cover topic P7.1 Work done in OCR GCSE (9-1) Physics A (J249): conservation of energy, energy stores, kinetic, elastic and gravitational potential energy, heating, electrical work and kilowatt-hours.
+
+**Why do I lose marks for saying energy is "lost" or "used up"?**
+Energy is never created or destroyed, so those words contradict the law of conservation of energy. Name the store the energy moves to instead, often the thermal store of the surroundings.
+
+**What unit mistakes are common in energy calculations?**
+Leaving an extension in centimetres or a mass in grams, and mixing kW with seconds or W with hours in E = Pt. Convert to standard units first, or keep kW with hours when the answer is in kW h.
+
+**How should I use mgh on a ramp question?**
+Use the vertical rise for h, not the distance along the slope. Putting the ramp length into mgh gives too large an answer.
+
+**What is the most common slip with kinetic and elastic energy?**
+Forgetting to square the speed or the extension, or squaring only part of the product. In ½mv² only v is squared, and in ½ke² only the extension is squared.
+
 ## Official syllabus
 
 This page is based on the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), for first assessment in 2018, published by OCR (Oxford Cambridge and RSA). Topic P7.1 Work done.

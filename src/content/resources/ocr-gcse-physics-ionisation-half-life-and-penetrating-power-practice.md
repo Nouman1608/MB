@@ -172,6 +172,23 @@ These questions follow the OCR *GCSE (9-1) Gateway Science Physics A* specificat
 - All free 10-minute [diagnostics](/diagnostics/)
 - Book a free trial class: [trial](/trial/)
 
+## Frequently asked questions
+
+**What do these OCR GCSE Physics A half-life questions cover?**
+They cover statements P6.1h to P6.1l of OCR GCSE (9-1) Physics A (J249): electron energy levels and ionisation, radiation from atoms and nuclei, half-life and random decay, net decline over whole half-lives, and the penetration of alpha, beta and gamma.
+
+**How do I deal with background radiation in a half-life question?**
+Subtract the background count from the detector reading first, apply the halving only to the source's count rate, then add the background back if you need the predicted reading. Halving the whole reading is a common mistake.
+
+**What is the difference between the fraction decayed and the fraction remaining?**
+The fraction remaining is what is still undecayed after a number of half-lives; the fraction decayed is the rest of the original. Read the question carefully, as mixing them up loses the mark.
+
+**How should I read a half-life from a graph or table?**
+Find the time for the activity or count rate to halve, and check it over more than one interval. Reading from only one interval risks an inaccurate value.
+
+**Why do answers about dice or coin models of decay lose marks?**
+Scatter in the results is caused by random behaviour, not by mistakes. Say what each throw represents and that each object has a fixed chance of being removed.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249)* specification, Version 5.0 (July 2026), for first assessment in 2018. Statements P6.1h to P6.1l.

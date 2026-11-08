@@ -245,6 +245,23 @@ The critical field is not assessed.
 - Forgetting to convert mA, kΩ, mm and minutes before substituting.
 - Describing a superconductor as having "very low" rather than zero resistivity.
 
+## Frequently asked questions
+
+**Why does a filament lamp's I-V graph curve?**
+A bigger current makes the filament hotter, so its lattice of positive ions vibrates more and free electrons collide more often. The resistance increases with temperature, so the current rises more slowly than the p.d.
+
+**How do you find resistivity from a graph?**
+Plot resistance against length for a wire of known diameter. The gradient is ρ/A, so multiply the gradient by the cross-sectional area to get the resistivity.
+
+**What is a superconductor?**
+A superconductor is a material whose resistivity is zero at and below a critical temperature, which depends on the material. Above that temperature it behaves as an ordinary conductor.
+
+**How can an ntc thermistor be used as a temperature sensor?**
+Connect it in series with a fixed resistor and a cell. When the surroundings warm up, the thermistor's resistance falls, the current rises and the p.d. across the fixed resistor rises, so a voltmeter across that resistor acts as the sensor.
+
+**What equation links current, charge and time?**
+Current is the rate of flow of charge: I = ΔQ/Δt. Dividing a charge by e = 1.60 × 10⁻¹⁹ C gives the number of electrons that passed.
+
 ## Official syllabus
 
 Source: OxfordAQA International AS and A-level Physics (9630), Version 4.4, for exams from May/June 2020 onwards, published by OxfordAQA. Sections 3.4.1 to 3.4.3, shared International AS and A-level content.

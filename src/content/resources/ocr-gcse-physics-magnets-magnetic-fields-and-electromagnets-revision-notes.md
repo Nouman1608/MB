@@ -228,6 +228,23 @@ These show how to build a clear answer. Adapt the wording to the question.
 - Stating that the geographic and magnetic poles are the same place.
 - Giving the percentage change as a ratio, or dividing by the new value rather than the original.
 
+## Frequently asked questions
+
+**Which materials are magnetic?**
+Iron, steel, cobalt and nickel are magnetic materials. Copper, aluminium and plastic are not.
+
+**What is the difference between a permanent magnet and an induced magnet?**
+A permanent magnet has its own north and south poles all the time. An induced magnet becomes a magnet only while it is in another magnetic field, and it is always attracted, never repelled.
+
+**What does a dipping compass show about the Earth's magnetic field?**
+A dipping compass tilts steeply near the magnetic poles and lies nearly flat near the equator, as it would above a bar magnet. This shows the Earth's field is not simply horizontal and is evidence for a magnetic core.
+
+**How can you make an electromagnet stronger?**
+Name the variable: increase the current, increase the number of turns, or add an iron core. Saying "use a bigger magnet" does not earn the mark.
+
+**What does OCR GCSE Physics A topic P4.1 cover?**
+In OCR GCSE (9-1) Physics A (J249), topic P4.1 covers magnetic poles, permanent and induced magnets, field patterns, the Earth's field, the magnetic effect of a current and solenoids.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), specification Version 5.0 (July 2026), first assessment 2018, published by OCR. This page covers topic P4.1.

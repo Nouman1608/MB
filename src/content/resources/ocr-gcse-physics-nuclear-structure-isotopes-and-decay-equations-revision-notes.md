@@ -249,6 +249,23 @@ Beta emission moves you one place along the periodic table to the right. Alpha e
 
 Next: apply these notes in the [practice questions](/resources/ocr-gcse-physics-nuclear-structure-isotopes-and-decay-equations-practice/) and review gaps with the [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is an isotope?**
+Isotopes are atoms of one element with the same number of protons but different numbers of neutrons. They have the same atomic number and nuclear charge but different mass numbers.
+
+**How do you work out the number of neutrons in a nucleus?**
+Subtract the atomic number from the mass number: neutrons = A − Z. For example, ¹³⁷₅₆Ba has 137 − 56 = 81 neutrons.
+
+**Which emissions change the mass number of a nucleus?**
+Only emissions with mass change the mass number: an alpha particle lowers it by 4 and a neutron lowers it by 1. Beta and gamma emission leave the mass number unchanged.
+
+**Why does beta decay change the element?**
+In beta decay a neutron becomes a proton, so the atomic number rises by 1. The nuclear charge decides the element, so any change in Z changes the element.
+
+**What does OCR GCSE Physics A cover in P6.1a to P6.1g?**
+In OCR GCSE (9-1) Physics A (J249), these outcomes cover the nucleus, isotopes, nuclear notation, the alpha, beta, gamma and neutron emissions, their effect on the nucleus, and balanced decay equations.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), for first assessment in 2018, published by OCR. These notes cover learning outcomes P6.1a to P6.1g.

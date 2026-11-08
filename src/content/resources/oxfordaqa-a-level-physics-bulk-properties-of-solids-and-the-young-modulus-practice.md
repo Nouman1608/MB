@@ -159,6 +159,23 @@ These questions follow sections 3.2.9 and 3.2.10 of the OxfordAQA International 
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these OxfordAQA A-level Physics materials questions cover?**
+They cover sections 3.2.9 and 3.2.10 of OxfordAQA International AS and A-level Physics (9630): density, Hooke's law, stress and strain, elastic strain energy and the Young modulus.
+
+**What mistakes are common when finding a wire's cross-sectional area?**
+Using the diameter as the radius in A = πd²/4, and leaving the diameter in millimetres. Convert to metres first, because the error is squared in the area.
+
+**When can I use ½kΔL² for strain energy?**
+Only when the force-extension graph is a straight line, so the material obeys Hooke's law. For a curved graph, find the area under the line instead, and do not forget the ½ for a triangle.
+
+**What does the gradient of a force-extension graph give?**
+With force on the vertical axis, the gradient is the stiffness k, not the Young modulus. To find E you also need the original length and the cross-sectional area.
+
+**What is the difference between the limit of proportionality and the elastic limit?**
+The limit of proportionality is where extension stops being proportional to force. The elastic limit is the largest extension from which the material still returns to its original length, and the two are different ideas.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Sections 3.2.9 and 3.2.10.

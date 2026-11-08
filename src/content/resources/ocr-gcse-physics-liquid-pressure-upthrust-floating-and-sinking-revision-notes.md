@@ -205,6 +205,23 @@ For a floating object of uniform density: fraction under the surface = density o
 - Forgetting that a floating object has upthrust equal to its weight, not larger.
 - Rounding too early, so the final digits drift.
 
+## Frequently asked questions
+
+**What is the equation for pressure due to a liquid?**
+Pressure due to a liquid = depth × density × g (p = hρg), with h in m, ρ in kg/m³ and g = 10 N/kg near the Earth's surface. The answer is in pascals.
+
+**Why does pressure increase with depth in a liquid?**
+A column of liquid sits above any point and has weight. A greater depth means a greater weight of liquid pressing on each unit of area, so the pressure is greater.
+
+**What is the upthrust on a floating object?**
+For a floating object, the upthrust equals its weight, not more than it. If the upthrust when fully under were larger than the weight, the object would rise.
+
+**How do you calculate the pressure difference between two depths?**
+Subtract the two depths to find the difference in metres, then multiply by the density and g. Alternatively, work out the pressure at each depth and subtract.
+
+**Do I need to know the value of g for OCR GCSE Physics A?**
+Yes. OCR GCSE (9-1) Physics A (J249) statement P1.3j expects you to know that g is the strength of the gravitational field, about 10 N/kg near the Earth's surface.
+
 ## Official syllabus
 
 Source: OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), first assessment 2018, published by OCR. Statements P1.3h to P1.3j.
@@ -218,4 +235,3 @@ Source: OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5
   <img src="https://img.marlbridge.com/ocr-gcse-physics-liquid-pressure-upthrust-floating-and-sinking--10-ping-pong-ball.webp" width="900" height="1170" alt="A ping pong ball held under water feels 0.335 N upthrust against 0.027 N weight, so the finger pushes down 0.308 N. Released, it floats with about 8 percent under water where upthrust equals weight." loading="lazy">
   <figcaption>A light ball has far more upthrust than weight when fully under, so it rises and floats.</figcaption>
 </figure>
-

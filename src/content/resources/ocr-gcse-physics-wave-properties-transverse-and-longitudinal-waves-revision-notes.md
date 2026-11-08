@@ -222,6 +222,23 @@ For a short time interval, an electronic timer beats a hand-held stopwatch. Repe
 - Saying the water or air "moves along with the wave" instead of vibrating about a fixed position.
 - Describing a speed measurement without saying what is measured, how it is measured and what is calculated.
 
+## Frequently asked questions
+
+**What is the amplitude of a wave?**
+Amplitude is the height from the middle (rest) line to a crest or a trough. It is not the full crest-to-trough height, so a wave with a crest at +3.5 cm has an amplitude of 3.5 cm.
+
+**What is the frequency of a wave?**
+Frequency is the number of waves passing a point each second, or the number of vibrations per second, measured in hertz (Hz). It is not how fast the wave is moving.
+
+**How do you measure the speed of sound in air with an echo?**
+Stand a measured distance from a large flat wall, clap sharply and time the echo, ideally electronically. Double the distance to the wall, divide by the time, and repeat to find an average.
+
+**What is the evidence that a wave travels but the water does not?**
+A floating cork bobs up and down about the same spot as ripples pass; it is not carried across the tank. With sound, smoke near a speaker shakes to and fro about its position without drifting away.
+
+**Is sound a transverse or longitudinal wave?**
+Sound in air is longitudinal: the air vibrates back and forth along the direction the sound travels. Water ripples are transverse, because the surface moves up and down at right angles to the direction of travel.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249)*. Specification Version 5.0, July 2026; first assessment 2018. Topic P5.1 Wave behaviour, statements P5.1a to P5.1e, P5.1j and P5.1k.

@@ -222,6 +222,23 @@ A full Higher Tier answer links the chain: more secondary turns, so higher poten
 
 Try the [practice questions](/resources/ocr-gcse-physics-the-national-grid-and-transformers-practice/), then use the [revision notes](/resources/ocr-gcse-physics-the-national-grid-and-transformers-revision-notes/) for the final weeks. The [checklist](/checklists/ocr/gcse/physics/) lets you tick off P8.2c to P8.2f.
 
+## Frequently asked questions
+
+**What does a step-up transformer do?**
+A step-up transformer increases the potential difference. It is used at the power station, before the power enters the long transmission lines.
+
+**Why is the national grid efficient?**
+Transmitting at a high potential difference makes the current small for the same power. Energy is wasted as thermal energy in the cables at a rate of I²R, so a small current wastes much less energy.
+
+**Can a transformer work on direct current?**
+No. A transformer changes the size of an alternating potential difference, so writing that it works on direct current is an error.
+
+**What equations link a transformer's turns and potential differences?**
+Vp / Vs = Np / Ns links the potential differences to the numbers of turns. If no energy is wasted, Vp × Ip = Vs × Is, so the power in equals the power out.
+
+**What does a model power line show?**
+With the same power entering the line, a lower supply potential difference gives a larger current, so the thin wires heat more and the lamp at the end is dimmer. Adding step-up and step-down transformers makes the line current smaller and the lamp brighter.
+
 ## Official syllabus
 
 This page is aligned to the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), for first assessment in 2018, published by OCR.

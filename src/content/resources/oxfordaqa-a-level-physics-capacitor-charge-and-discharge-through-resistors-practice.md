@@ -164,6 +164,23 @@ These questions cover section 3.9.1, Capacitor charge and discharge, of the Oxfo
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these OxfordAQA A-level Physics capacitor questions cover?**
+They follow section 3.9.1 and Required practical 6 of OxfordAQA International AS and A-level Physics (9630): charging and discharging a capacitor through a resistor, the time constant, and log-linear graphs.
+
+**What unit mistake is most common with RC?**
+Putting µF or kΩ straight into RC without converting to farads and ohms, which makes the answer wrong by a power of ten. Convert first, and RC comes out in seconds.
+
+**What straight-line graph should I plot for a charging capacitor?**
+Plot ln(V₀ − V) against t for charging, not ln V. For discharge, plot ln V against t, and remember its gradient is −1/RC, not +1/RC.
+
+**What should a description of a charge or discharge curve include?**
+Give the starting value, say the curve is exponential, say it is steepest at the start and that it never reaches its final value in a finite time.
+
+**Is a capacitor fully discharged after one time constant?**
+No. After one time constant about 37% of the charge, p.d. and current remains, so writing that it is empty loses the mark.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams from May/June 2020 onwards, published by OxfordAQA. These questions follow section 3.9.1 and Required practical 6.

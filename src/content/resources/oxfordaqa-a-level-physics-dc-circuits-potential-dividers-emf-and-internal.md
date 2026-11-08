@@ -228,6 +228,23 @@ Keep currents modest and readings short, so the cell does not overheat or run do
 - Putting the output across the wrong component, so the output rises when it should fall.
 - Using the gradient as r without its sign, or reading ε from the last data point.
 
+## Frequently asked questions
+
+**What is the emf of a cell?**
+The emf is the energy the source supplies per coulomb of charge it drives round the circuit: ε = E/Q, measured in volts. Saying it is "the voltage of a cell" is too vague.
+
+**Why is terminal pd less than the emf?**
+A real cell has internal resistance r, so some energy per coulomb is dissipated inside the cell when a current flows. The terminal pd is V = ε − Ir, where Ir is called the lost volts.
+
+**How do you make a variable potential divider?**
+Connect the two ends of a variable resistor across the supply and take the output between one end and the slider. Moving the slider changes the output smoothly from 0 V to the full supply pd.
+
+**Why should you open the switch between readings in the internal resistance practical?**
+Opening the switch between readings stops the cell from being drained and from heating up, which would change its internal resistance during the experiment.
+
+**Does connecting a load change a potential divider's output?**
+Yes. A load in parallel with one resistor changes the combined resistance of that part, so the output pd changes. Treating a loaded divider as unloaded is a common error.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Physics (9630)*, Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Sections 3.4.4, 3.4.5 and 3.4.6 (Required practical 3).

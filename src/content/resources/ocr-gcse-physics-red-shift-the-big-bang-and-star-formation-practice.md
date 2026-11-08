@@ -149,6 +149,23 @@ Statement 2: Microwaves arrive at Earth from all directions with almost the same
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What do these OCR GCSE Physics A red-shift questions cover?**
+They cover topic P8.3 Beyond Earth, statements P8.3a to P8.3c, of OCR GCSE (9-1) Physics A (J249): red-shift, evidence for an expanding universe, the Big Bang model, CMBR and the formation of stars.
+
+**How do I describe red-shift for full marks?**
+Name both changes and their directions: the observed wavelength is longer and the observed frequency is lower than the values emitted. Saying only that the light "goes red" describes colour, not the wave.
+
+**What does red-shift show about a galaxy?**
+It shows that the galaxy is moving away from us, not simply that it is far away. Linking a bigger shift to a faster recession is part of a strong answer.
+
+**How should I answer a question using a table of galaxies?**
+Describe the pattern between distance and red-shift or recession speed, and quote values from the table to support it. Giving the pattern with no figures loses marks.
+
+**What do examiners look for in an answer about star equilibrium?**
+Name the inward effect, gravity, and the outward effect, with the reason: fusion in the core releases energy that heats the gas and makes it expand. Writing only "gravity and fusion balance" is not enough.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249)* specification, Version 5.0 (July 2026), for first assessment in 2018, topic P8.3 Beyond Earth, statements P8.3a to P8.3c.

@@ -165,6 +165,23 @@ Calculate how long it takes for the activity to fall to 1.2 × 10⁴ Bq. **[4]**
 - All free 10-minute [diagnostics](/diagnostics/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**Is exponential radioactive decay in OxfordAQA International AS Physics?**
+No. Section 3.9.2 Exponential changes in radioactivity of OxfordAQA International AS and A-level Physics (9630) is International A-level only.
+
+**What time units should I use in decay calculations?**
+Keep the decay constant and the time in the same unit, and convert a half-life in days, hours or years to seconds if the activity must be in becquerels. Mixing units is the most common error.
+
+**Should I use ln or log in radioactive decay questions?**
+Use natural logs (ln), because ln is the inverse of the exponential e. Using log to base 10 gives the wrong answer.
+
+**Why might I get a negative time when finding how long decay takes?**
+You have probably inverted the activity ratio. Form the ratio as starting activity over final activity, which is bigger than 1, before taking ln.
+
+**What should I do with count rates before plotting a ln graph?**
+Subtract the background count rate from each reading first, then take ln of the corrected values. Taking ln of measured count rates loses marks.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), specification version 4.4, for exams from May/June 2020 onwards, published by Oxford International AQA Examinations: section 3.9.2 Exponential changes in radioactivity (International A-level only).

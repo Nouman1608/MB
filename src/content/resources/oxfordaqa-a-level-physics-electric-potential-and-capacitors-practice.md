@@ -158,6 +158,23 @@ Data: ε₀ = 8.85 × 10⁻¹² F m⁻¹, so 1/(4πε₀) = 8.99 × 10⁹ N m² 
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to find the next weak area.
 - [Book a free trial class](/trial/) if you want help with any of this.
 
+## Frequently asked questions
+
+**What do these OxfordAQA A-level Physics potential and capacitor questions cover?**
+They cover sections 3.8.3 and 3.8.4 of OxfordAQA International AS and A-level Physics (9630): electric potential, equipotentials, capacitance, dielectrics and the energy stored by a capacitor.
+
+**What must a definition of electric potential include?**
+Include "per unit charge", "from infinity" and "small test charge". Leaving out either of the first two phrases is a common way to lose the mark.
+
+**How should potentials from several charges be combined?**
+Add them as signed numbers, because potential is a scalar, and use each charge's own distance to the point. Adding potentials as vectors, or using one distance for both charges, gives the wrong answer.
+
+**What unit conversions are needed in capacitor questions?**
+Convert pF, nF and μF to farads, nC and μC to coulombs, and mm or cm to metres before substituting. A missed prefix makes the answer wrong by a power of ten.
+
+**What do I need to state when a dielectric is inserted?**
+Say whether the charge or the pd is held constant, as this decides what happens to the energy. A description of dielectric action also needs the opposing field from the aligned molecules.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4, for exams from May/June 2020 onwards, published by OxfordAQA. Sections 3.8.3 and 3.8.4.

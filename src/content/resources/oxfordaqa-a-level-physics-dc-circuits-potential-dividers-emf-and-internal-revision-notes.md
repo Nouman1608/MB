@@ -226,6 +226,23 @@ A variable resistor connected as a divider (the two ends across the supply, the 
 - Not saying "per coulomb" or "per unit charge" when asked for the meaning of emf.
 - Giving a final answer to far more significant figures than the data supports.
 
+## Frequently asked questions
+
+**How do emf and internal resistance combine for cells in series and parallel?**
+In series, the emfs add (if they point the same way) and the internal resistances add. For n identical cells in parallel, the emf is that of one cell and the internal resistance is r/n.
+
+**What is the potential divider equation?**
+Vout = Vin × R₂/(R₁ + R₂), where R₂ is the resistor the output is taken across. Identify that resistor first.
+
+**How do you find emf and internal resistance from a graph?**
+Plot terminal pd V against current I. Since V = ε − Ir, the vertical intercept is ε and the gradient is −r, so give r as the magnitude of the gradient.
+
+**How is Required practical 3 set up in OxfordAQA A-level Physics?**
+The cell, a variable resistor, an ammeter and a switch are in series, with a voltmeter across the cell. Take at least six readings of V and I, opening the switch between readings. This is part of section 3.4.6 of OxfordAQA International AS and A-level Physics (9630).
+
+**What do Kirchhoff's conservation laws say for circuits?**
+Charge is conserved, so the current into a junction equals the current out. Energy is conserved, so round any loop the total emf equals the total pd across the components.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Physics (9630)*, Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Sections 3.4.4, 3.4.5 and 3.4.6.

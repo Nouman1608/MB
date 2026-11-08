@@ -236,6 +236,23 @@ Evaluation points: the meters should be set to ac ranges and read rms values; th
 
 Condense this with the [revision notes](/resources/oxfordaqa-a-level-physics-alternating-currents-and-the-transformer-revision-notes/), then test yourself on the [practice questions](/resources/oxfordaqa-a-level-physics-alternating-currents-and-the-transformer-practice/).
 
+## Frequently asked questions
+
+**What is the rms value of an alternating current?**
+The rms value is the steady direct current or voltage that gives the same mean power in a given resistor. For a sinusoidal wave, Irms = Io/√2 and Vrms = Vo/√2.
+
+**What is the peak voltage of a 230 V mains supply?**
+Mains supplies are quoted as rms values, so the peak voltage of a 230 V rms supply is √2 × 230 = 325 V.
+
+**How does a transformer work?**
+An a.c. supply in the primary coil sets up a changing magnetic flux in the laminated iron core. The core guides that flux through the secondary coil, where an emf is induced by Faraday's law.
+
+**How can transformer energy losses be reduced?**
+Use thick, low-resistivity copper wire for the coils, laminate the core to reduce eddy currents, use a magnetically soft material such as soft iron to reduce hysteresis, and wind the coils close together on a closed core to reduce flux leakage.
+
+**Why is electrical power transmitted at high voltage?**
+For a power P transmitted at voltage V, the line current is I = P/V. The power lost in the line is I²R, so a higher voltage gives a smaller current and much less power lost as heat.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), specification Version 4.4, for exams from May/June 2020 onwards, published by OxfordAQA. This page covers sections 3.10.5 and 3.10.6 and Required practical 7.

@@ -146,6 +146,23 @@ In air the frequency is still 1750 Hz [1], so λ = 340 / 1750 = **0.19 m** [1]. 
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to find your next weak spot.
 - [Book a free trial class](/trial/) for help with Higher Tier waves.
 
+## Frequently asked questions
+
+**What do these OCR GCSE Physics A sound questions cover?**
+They cover statements P5.1f to P5.1i of OCR GCSE (9-1) Physics A (J249): sound moving between media, reflection, transmission and absorption at interfaces, sound and vibrations in solids, and the limits of human hearing. The last two statements are Higher tier only.
+
+**What changes when sound crosses a boundary?**
+The speed and wavelength change, but the frequency stays the same because it is set by the source. Changing the frequency is one of the most common errors in this topic.
+
+**What mistakes are common in echo and sonar calculations?**
+Giving the round-trip distance as the depth instead of halving it, and leaving frequencies in kHz or MHz instead of converting to Hz. Avoid rounding too early in multi-step working.
+
+**How should I describe the ear in an exam answer?**
+Go through the parts in order and say what form the disturbance takes at each stage, such as a sound wave in air becoming a vibration of the eardrum. A list of parts with no description of the changes gains fewer marks.
+
+**How do I explain why hearing has a limited frequency range?**
+Give a physical reason: the vibrating parts have mass and stiffness, and their inertia stops them following very fast vibrations. Saying the ear is "not sensitive enough" is not accepted.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), first assessment 2018. Statements P5.1f to P5.1i.

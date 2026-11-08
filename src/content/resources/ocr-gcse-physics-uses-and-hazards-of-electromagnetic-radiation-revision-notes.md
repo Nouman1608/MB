@@ -213,6 +213,23 @@ Example: why is ultraviolet used in a water steriliser? Ultraviolet damages the 
 - Leaving out the unit conversion from microseconds to seconds.
 - Mixing up transmitting and receiving, or forgetting that the frequency of the current and the wave match.
 
+## Frequently asked questions
+
+**What is the order of the electromagnetic spectrum?**
+From long wavelength and low frequency to short wavelength and high frequency: radio, microwave, infrared, visible, ultraviolet, X-ray, gamma.
+
+**What are the uses of infrared?**
+Infrared is used in remote controls, grills and heaters, thermal imaging cameras and optical fibre links.
+
+**What are the hazards of ultraviolet radiation?**
+Ultraviolet can cause sunburn, premature skin ageing, skin cancer and eye damage. Sunscreen, clothing, sunglasses and limiting time in strong sunlight reduce the risk.
+
+**How do radio waves produce a signal in a receiver?**
+Radio waves make electrons in the receiving aerial oscillate, which produces an alternating current with the same frequency as the waves in the receiver circuit.
+
+**Which parts of this topic are Higher tier only in OCR GCSE Physics A?**
+In OCR GCSE (9-1) Physics A (J249), detecting hidden structures (P5.2i) and radio waves and circuits (P5.2j) are Higher tier only. Uses and hazards of the wave groups (P5.2g and P5.2h) are for both tiers.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249) specification*, Version 5.0, July 2026, first assessment 2018. Section P5.2 The electromagnetic spectrum, statements P5.2g to P5.2j.

@@ -164,6 +164,23 @@ These questions cover statements P8.2c to P8.2f of topic P8.2, Powering Earth, i
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What do these OCR GCSE Physics A national grid questions cover?**
+They cover statements P8.2c to P8.2f of OCR GCSE (9-1) Physics A (J249): the route from power station to home, step-up and step-down transformers, why the grid is efficient and transformer calculations, which are Higher tier only.
+
+**How do I explain why the grid transmits at a high voltage?**
+Say that for the same power a higher potential difference means a smaller current, and that a smaller current wastes less energy as heating in the cables. Leaving out the fall in current loses marks.
+
+**Why does a tenfold change in current matter so much?**
+The wasted power depends on the current squared, so a current ten times larger wastes a hundred times more power. Saying the waste is proportional to the current gives the wrong factor.
+
+**What unit conversions are needed in grid calculations?**
+Convert megawatts to watts and kilovolts to volts before using the equations. For example, 1 MW is 1 000 000 W and 1 kV is 1000 V.
+
+**What mistakes are common with step-up transformers?**
+Putting the larger number of turns on the primary coil, and giving the secondary current as larger than the primary current. A step-up transformer has more turns on the secondary and a smaller secondary current.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), specification Version 5.0 (July 2026), first assessment 2018, published by OCR. This page covers statements P8.2c to P8.2f.

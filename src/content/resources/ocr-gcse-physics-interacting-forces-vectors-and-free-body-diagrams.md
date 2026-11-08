@@ -258,6 +258,23 @@ For a rocket, the engine pushes exhaust gas backward and the gas pushes the rock
 - Leaving out units, or leaving out the direction of the resultant.
 - Saying terminal velocity means "no forces". The forces balance.
 
+## Frequently asked questions
+
+**What is a resultant force?**
+The resultant force is the single force that could replace all the forces on an object and have the same overall effect. For forces along one line, add those in the same direction and subtract those in opposite directions.
+
+**How do you show a force as a vector?**
+Draw an arrow whose length shows the size of the force, using a stated scale, and whose direction shows the direction of the force. A vector has both size and direction.
+
+**What does resolving a force mean?**
+Resolving replaces one force with two perpendicular components that together have the same effect. You can find them by drawing the force as the diagonal of a rectangle and reading off the sides.
+
+**How can you tell from a vector diagram that forces are in equilibrium?**
+When the force arrows are drawn head to tail, they form a closed shape that returns to the starting point. This shows the resultant force is zero.
+
+**What happens to a skydiver when the parachute opens?**
+Opening the parachute raises the drag above the weight, so there is an upward resultant force and the skydiver slows down. As speed falls, drag falls until it equals the weight again at a new, lower terminal velocity.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0, July 2026, for first assessment in 2018, published by OCR: statements P2.2a to P2.2h and P2.2p.

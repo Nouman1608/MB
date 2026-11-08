@@ -216,6 +216,23 @@ For the uncertainty in RC, find the percentage uncertainty in the gradient from 
 
 Next: [revision notes](/resources/oxfordaqa-a-level-physics-capacitor-charge-and-discharge-through-resistors-revision-notes/), then the [practice set](/resources/oxfordaqa-a-level-physics-capacitor-charge-and-discharge-through-resistors-practice/). For general exam advice see the [exam preparation page](/resources/oxfordaqa-a-level-physics-exam-preparation/).
 
+## Frequently asked questions
+
+**What is the time constant of a capacitor circuit?**
+The time constant is RC, in seconds when R is in ohms and C in farads. In one time constant a discharging capacitor's charge, p.d. and current fall to about 37% of their starting values.
+
+**How much charge does a capacitor gain in one time constant?**
+When charging, the charge and p.d. rise to 1 − e⁻¹ of their final values, about 63%, in one time constant.
+
+**What is the best way to find RC from experimental data?**
+Use the whole data set rather than one point. You can read the half-time at several places on the curve and use RC = T½ / 0.693, or plot ln V against t and use the gradient, which is −1/RC.
+
+**What does Required practical 6 involve in OxfordAQA A-level Physics?**
+In OxfordAQA International AS and A-level Physics (9630), Required practical 6 investigates the charge and discharge of capacitors, with analysis that includes log-linear plotting to determine RC.
+
+**What does the gradient of a charge-time graph represent?**
+The gradient of a Q–t graph is the current. On discharge it is negative because Q falls, and at t = 0 its size is Q₀/RC.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams from May/June 2020 onwards, published by OxfordAQA. This guide follows section 3.9.1 and Required practical 6.

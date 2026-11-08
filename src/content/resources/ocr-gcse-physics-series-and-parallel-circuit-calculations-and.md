@@ -207,6 +207,23 @@ A 9.0 V cell is connected to a 15 Ω resistor and a 30 Ω resistor in series. Fi
 
 Try the [practice questions](/resources/ocr-gcse-physics-series-and-parallel-circuit-calculations-and-practice/), then use the [revision notes](/resources/ocr-gcse-physics-series-and-parallel-circuit-calculations-and-revision-notes/) for quick recall. A [free diagnostic](/diagnostics/) will show where to focus.
 
+## Frequently asked questions
+
+**What are the rules for current and p.d. in series and parallel circuits?**
+In series, the current is the same everywhere and the p.d.s across the components add up to the supply p.d. In parallel, every branch has the full supply p.d. across it and the branch currents add up to the supply current.
+
+**Why is the net resistance of a series circuit larger than any single resistor?**
+Charge has only one path and must pass through every resistor in turn, so each adds opposition. The net resistance is the sum of the individual resistances.
+
+**How do you calculate electrical power?**
+Power = potential difference × current (P = V × I). For example, a kettle with 230 V across it and a current of 10 A has a power of 2300 W.
+
+**How do you solve a circuit with a series resistor and a parallel pair?**
+Find the p.d. across the series resistor from the supply current, subtract it from the supply p.d. to get the p.d. across the parallel pair, then find each branch current with I = V ÷ R.
+
+**What is net resistance?**
+The net resistance of a circuit is the single resistance that would draw the same current from the same supply.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), first assessment in 2018, published by OCR. Learning outcomes P3.2i to P3.2m.

@@ -136,6 +136,23 @@ These questions cover statements P2.2a to P2.2h and P2.2p of the OCR GCSE (9-1) 
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What do these OCR GCSE Physics A interacting forces questions cover?**
+They cover statements P2.2a to P2.2h and P2.2p of OCR GCSE (9-1) Physics A (J249): contact and non-contact forces, vectors and resultants, free body diagrams, equilibrium, Newton's first law and Newton's third law.
+
+**How do I find the resultant of two forces at right angles?**
+Use Pythagoras or a scale drawing, not simple addition. Give the size with a unit and the direction of the resultant, as both are needed for full marks.
+
+**What should a free body diagram show?**
+Only one object, with labelled arrows for the forces acting on that object. Do not draw forces the object exerts on its surroundings, and make balanced forces equal in length.
+
+**Why are weight and normal contact force not a Newton's third law pair?**
+They act on the same object, while the two forces of a third-law pair always act on different objects. Naming both objects for each force avoids this common mistake.
+
+**How do I write a full terminal velocity explanation?**
+Describe each stage in order: weight larger than drag at first, drag rising as speed rises, and the resultant falling until drag equals weight. Stopping before the final balance loses marks.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0, July 2026, for first assessment in 2018, published by OCR: statements P2.2a to P2.2h and P2.2p.

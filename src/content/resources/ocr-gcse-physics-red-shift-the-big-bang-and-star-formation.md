@@ -225,6 +225,23 @@ When hydrogen in the core runs low, fusion no longer balances gravity. What happ
 - Saying fusion happens "because gravity is strong" without hot, dense conditions.
 - Writing only "balanced forces" for equilibrium. Name the inward and outward effects.
 
+## Frequently asked questions
+
+**What is red-shift?**
+Red-shift is when light from a galaxy moving away from us arrives with a longer wavelength and lower frequency than was emitted. The faster the galaxy recedes, the bigger the shift.
+
+**Does red-shift mean light slows down?**
+No. The speed of light does not change. The waves are stretched because the source is moving away, so the wavelength is longer and the frequency lower.
+
+**What is the evidence for the Big Bang?**
+Red-shift and the speed-distance pattern show the universe is expanding, and the cosmic microwave background radiation shows a hot early universe that has cooled and stretched. Both fit the Big Bang model.
+
+**How do stars form?**
+Gravity pulls clouds of dust and gas, mostly hydrogen, together, and the cloud contracts and heats up. When the core is hot and dense enough, hydrogen nuclei fuse to form helium and release energy.
+
+**What happens to a star like the Sun at the end of its life?**
+When hydrogen in the core runs low, it swells into a red giant, sheds its outer layers, and its core shrinks to a white dwarf. A much more massive star becomes a red supergiant and explodes as a supernova.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249)* specification, Version 5.0 (July 2026), for first assessment in 2018, topic P8.3 Beyond Earth, statements P8.3a to P8.3c.

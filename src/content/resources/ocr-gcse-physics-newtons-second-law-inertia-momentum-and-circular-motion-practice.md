@@ -140,6 +140,23 @@ These questions cover statements P2.2i, P2.2j, P2.2k, P2.2l and P2.2q of OCR GCS
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which questions in this OCR GCSE Physics A set are Higher tier?**
+Questions on inertial mass, momentum and collisions, force and change in momentum, and circular motion are marked Higher tier only. They follow statements P2.2j to P2.2l and P2.2q of OCR GCSE (9-1) Physics A (J249); the F = ma questions are for both tiers.
+
+**What force do I use in F = ma when several forces act?**
+Use the resultant force, found by combining all the forces, not just one of them. Using a single force such as the pull alone is a common mistake.
+
+**How do I set out a collision question?**
+Write the total momentum before and after as separate sums, include a zero term for any stationary object, and use the combined mass if the objects join. Give a direction for any velocity or momentum answer.
+
+**What unit is momentum measured in?**
+Momentum is measured in kg m/s. Leaving out the unit or using a wrong one loses the final mark.
+
+**How should I explain a car safety feature using momentum?**
+Link the feature to a longer time for the same change in momentum, which gives a smaller force. Answers that mention force but not the time and change in momentum lose marks at Higher tier.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), first assessment 2018, published by OCR.

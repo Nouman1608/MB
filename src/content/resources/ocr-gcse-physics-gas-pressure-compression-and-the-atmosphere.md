@@ -232,6 +232,23 @@ The fall is not the same for every kilometre, because the density changes with h
 - Mixing cm³ with m³, or kPa with Pa.
 - Saying the atmosphere pushes down only.
 
+## Frequently asked questions
+
+**Why does heating a gas in a sealed container increase its pressure?**
+Heating makes the particles move faster on average. They hit the walls more often and each collision pushes harder, so the force per unit area on the walls rises.
+
+**Why can gases be compressed but liquids cannot?**
+Most of a gas is empty space, with the particles far apart, so it can be squeezed into a smaller volume. In liquids and solids the particles are already close together, so they hardly compress.
+
+**Why does increasing the volume of a gas lower its pressure?**
+At constant temperature the particles move at the same average speed but travel further between wall collisions. Each wall is hit less often, so the force per unit area falls.
+
+**Why does atmospheric pressure decrease with height?**
+There is less air above you, so the weight of air pressing down is smaller. The air higher up is also less dense, with fewer particles per cubic metre to collide with a surface.
+
+**Do I need to know the layers of the atmosphere for OCR GCSE Physics A?**
+No. OCR GCSE (9-1) Physics A (J249) asks for a simple model of the atmosphere with uniform density, and knowledge of the layers is not expected.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249)* specification, Version 5.0 (July 2026), first assessment 2018, topic P1.3 Pressure, statements P1.3a to P1.3g.

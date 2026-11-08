@@ -211,6 +211,23 @@ Rate = 390 × 2.0 × 10⁻⁴ × 70 / 0.40 = **14 W**.
 - Adding thickness-based U-values for layers in series. This specification limits U-value work to parallel surfaces.
 - Giving final answers to far more significant figures than the data supports.
 
+## Frequently asked questions
+
+**What is specific heat capacity?**
+Specific heat capacity c is the energy needed to raise the temperature of 1 kg of a substance by 1 K, measured in J kg⁻¹ K⁻¹. It is used in Q = mcΔθ.
+
+**Why does temperature stay constant during boiling?**
+The supplied energy increases the potential energy of the particles as they move apart. Their average kinetic energy does not change, so the temperature stays the same even though internal energy rises.
+
+**What is a U-value?**
+A U-value is U = k/L, the thermal conductivity divided by thickness, in W m⁻² K⁻¹. The rate of energy loss through a surface is UAΔθ.
+
+**What should a continuous flow answer be given as?**
+As a rate, in watts or kg s⁻¹, not as an energy in joules. Convert any volume flow rate to a mass flow rate using the density first.
+
+**Does lagging stop heat loss?**
+No. Lagging reduces the rate of energy loss; it does not stop it. Saying it "stops" heat loss is a common error.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Physics (9630)*, Version 4.4, for International AS and A-level exams from May/June 2020, published by OxfordAQA. Sections 3.11.1 and 3.11.2.
