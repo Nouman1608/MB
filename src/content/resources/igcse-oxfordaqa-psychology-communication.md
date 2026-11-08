@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-social-context-and-behaviour-9218"
     subtopic: "communication-9218"
-description: "Language and thought, human and animal communication, Von Frisch, non-verbal behaviour, Darwin and Yuki: section 3.2.1 Communication of OxfordAQA IGCSE Psychology 9218."
+description: "Language and thought, human and animal communication, Von Frisch, non-verbal behaviour, Darwin and Yuki: section 3.2.1 of OxfordAQA IGCSE Psychology 9218."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
