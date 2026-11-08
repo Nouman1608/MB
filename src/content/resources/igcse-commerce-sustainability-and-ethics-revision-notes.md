@@ -103,6 +103,8 @@ environment in ways that leave future generations worse off.
 - Saying fair trade means "cheap prices" - it means fair prices to producers.
 - Describing consumer protection without saying what the buyer or seller actually does.
 - Giving only benefits of sustainable actions when the question asks you to evaluate.
+- Mixing up sections: misleading advertising is an ethical issue (6.2), while the steps to resolve a
+  complaint belong to consumer protection (6.3).
 
 ## Frequently asked questions
 
@@ -112,6 +114,11 @@ is covered under 6.2.
 
 **How does fair trade help commerce?** It gives producers a fair, stable income, offers consumers an ethical
 choice and can improve the reputation and sales of businesses that stock fair trade goods.
+
+**Why is harmful disposal of products an ethical issue?** Dumping waste or sending old electronics to places
+that cannot treat them safely may be cheaper, and may even be legal in some countries, but it damages the
+environment and the health of people who live nearby. An ethical business considers that harm, not just
+the cost or the law.
 
 **What should a customer do first with a faulty product?** Return to the seller with the receipt and
 evidence, and ask for a repair, replacement or refund before escalating.

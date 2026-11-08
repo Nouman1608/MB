@@ -52,6 +52,13 @@ Related: [Approaches to researching behaviour study guide](/resources/ib-ib-dp-p
 
 **Designs:** independent samples (different participants per condition; risk of participant variables), repeated measures (same participants; risk of order effects, controlled by counterbalancing), matched pairs (participants matched on key variables).
 
+## Correlational studies and hypotheses
+
+- A **correlational study** measures two co-variables without manipulating either. A positive correlation means both rise together; a negative correlation means one falls as the other rises.
+- **Correlation is not causation:** a third variable may cause both, or the direction may be the reverse of what is assumed (bidirectional ambiguity).
+- An **alternative hypothesis** predicts a difference or relationship; the **null hypothesis** predicts none. Both must name operationalised variables, e.g. "hours of sleep" rather than "tiredness".
+- A **confounding variable** varies with the IV and offers another explanation of the result.
+
 ## Qualitative research quality
 
 | Concept | Meaning | How it is improved |
@@ -89,6 +96,7 @@ Related: [Approaches to researching behaviour study guide](/resources/ib-ib-dp-p
 - **Listing ethics without application.** Say how each consideration was, or should have been, applied in the study described.
 - **"Small sample, so not generalisable" as the whole answer.** Distinguish the three types of generalisation.
 - **Forgetting the context.** Paper 3 answers must refer to the specific study summary.
+- **Causal claims from correlations.** Say "is associated with", not "causes", unless an IV was manipulated.
 
 ## Frequently asked questions
 

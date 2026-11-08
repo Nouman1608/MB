@@ -77,6 +77,13 @@ World Bank income groups: **LICs**, **MICs**, **HICs**.
   elderly dependent group.
 - **MICs** often show a narrowing base as birth rates fall.
 
+**Worked example (7.1.4).** Two pyramids show these shares of the population (illustrative figures):
+Country X has 42% aged 0-14, 55% aged 15-64 and 3% aged 65+; Country Y has 16%, 63% and 21%.
+A full-mark comparison uses the figures: "Country X has a much larger young dependent population (42%
+against 16%), suggesting a higher birth rate, so it is likely to be the LIC. Country Y has seven times the
+share of elderly dependants (21% against 3%), showing higher life expectancy, so it is likely to be the HIC.
+Both have a similar working population (55% and 63%)."
+
 ## 7.2 What makes a population change?
 
 **Natural change** = births - deaths. **Migration** adds (immigration) or removes (emigration) people.
@@ -131,6 +138,10 @@ and people aged 65 and over.
 **What is the difference between urbanisation and rural-urban migration?** Rural-urban migration is the
 movement of people from the countryside to towns. Urbanisation is the resulting growth in the proportion
 of people living in urban areas.
+
+**What is the difference between push and pull factors?** Push factors are reasons to leave a place, such
+as conflict, poverty or natural hazards. Pull factors are reasons to move to a place, such as jobs, safety and
+better services. Most migration answers need one of each.
 
 **Which population strategies does 5014 list?** Access to contraception, pro-natalist and anti-natalist
 policies, access to education, access to healthcare and control of migration.
