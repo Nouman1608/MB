@@ -161,13 +161,13 @@ Make the segments **easy to read**: sensible variable names, consistent indentat
 
 ### A readiness check for each segment
 
-- [ ] I can say in one sentence what the procedure does.
-- [ ] I can point to the parameter and say what changes when it changes.
-- [ ] I can point to the loop, the condition and the order of steps.
-- [ ] I can say what each element of the list represents, with an example.
-- [ ] I can say how the program would be harder to write without the list.
-- [ ] I can explain a call with a specific argument, and what happens.
-- [ ] I can say how I tested it, and what I found.
+- ☐ I can say in one sentence what the procedure does.
+- ☐ I can point to the parameter and say what changes when it changes.
+- ☐ I can point to the loop, the condition and the order of steps.
+- ☐ I can say what each element of the list represents, with an example.
+- ☐ I can say how the program would be harder to write without the list.
+- ☐ I can explain a call with a specific argument, and what happens.
+- ☐ I can say how I tested it, and what I found.
 
 ## Writing about your own program
 
@@ -259,25 +259,25 @@ For each test, record the **input, the expected result and the actual result**. 
 ## Checklists
 
 **Before you start**
-- [ ] I have read the current official task description and my teacher's instructions.
-- [ ] I know the allowed help, the deadline and the file rules.
-- [ ] I have set up a development log and a backup routine.
+- ☐ I have read the current official task description and my teacher's instructions.
+- ☐ I know the allowed help, the deadline and the file rules.
+- ☐ I have set up a development log and a backup routine.
 
 **While you build**
-- [ ] My plan lists purpose, input, list, procedure with parameter, algorithm and output.
-- [ ] I log each session with dated notes and test results.
-- [ ] I credit anything that is not mine.
+- ☐ My plan lists purpose, input, list, procedure with parameter, algorithm and output.
+- ☐ I log each session with dated notes and test results.
+- ☐ I credit anything that is not mine.
 
 **Before you submit**
-- [ ] The program runs and matches the video.
-- [ ] The segments I chose are readable and meet the requirements.
-- [ ] I can explain every line in them without notes.
-- [ ] My files meet the format and size rules.
+- ☐ The program runs and matches the video.
+- ☐ The segments I chose are readable and meet the requirements.
+- ☐ I can explain every line in them without notes.
+- ☐ My files meet the format and size rules.
 
 **Before exam-day writing**
-- [ ] I have reread my own code and my log.
-- [ ] I can explain the list, the procedure, the algorithm and my testing.
-- [ ] I have practised the answer pattern on a different, small program of my own.
+- ☐ I have reread my own code and my log.
+- ☐ I can explain the list, the procedure, the algorithm and my testing.
+- ☐ I have practised the answer pattern on a different, small program of my own.
 
 ## Where to go next
 

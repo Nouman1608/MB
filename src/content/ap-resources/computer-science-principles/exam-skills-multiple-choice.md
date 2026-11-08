@@ -356,13 +356,13 @@ DISPLAY(y)
 
 ## A checklist for exam week
 
-- [ ] I can trace a loop, a list operation and a procedure call with a table.
-- [ ] I know the exam notation: first index 1, `MOD`, `RANDOM(a, b)` includes both ends, `RETURN` ends a procedure.
-- [ ] I have done at least one full timed practice section of my teacher's choosing.
-- [ ] I have a first-pass and second-pass routine and I know my checkpoints.
-- [ ] For select-two questions I mark each option true or false.
-- [ ] I read passages once for the story, then return to the lines each question needs.
-- [ ] I have checked the current official exam instructions and my testing device set-up.
+- ☐ I can trace a loop, a list operation and a procedure call with a table.
+- ☐ I know the exam notation: first index 1, `MOD`, `RANDOM(a, b)` includes both ends, `RETURN` ends a procedure.
+- ☐ I have done at least one full timed practice section of my teacher's choosing.
+- ☐ I have a first-pass and second-pass routine and I know my checkpoints.
+- ☐ For select-two questions I mark each option true or false.
+- ☐ I read passages once for the story, then return to the lines each question needs.
+- ☐ I have checked the current official exam instructions and my testing device set-up.
 
 ## Where to go next
 
