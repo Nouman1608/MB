@@ -15910,3 +15910,11 @@ Three more problems turned up:
 - **Not checked against the specification.** The writers worked from their own knowledge and did not read the board documents. 49 pages carry `reviewNeeded` with a `reviewNote` naming what to check; Law, Psychology, World History and English Literature pages are the least certain and need teacher review before they are credited.
 - **Subject slug.** The six English Language pages use `subject: english`, the hub the site already has; `english-language` is not in the subjects collection.
 - **Not covered.** Geography (12) and Urdu Language (3) still list unmapped topics; they were not in the request. The local full build could not run, so CI is the first full build.
+
+## D-446 - Study guides for the last unmapped topics: IB DP Geography and Edexcel A Level Urdu 9UR0 (8 Nov 2026)
+
+- Owner, 8 Nov 2026 ("write the Geography and Urdu ones too"), after D-445 left Geography (12) and Urdu Language (3) as the only subjects with unmapped topics.
+- **Pages.** 15 new study guides: 12 for IB DP Geography (options A to G, units 3 to 6 and the fieldwork internal assessment) and 3 for Edexcel A Level Urdu themes 1 to 3. All are `review-pending` under the Marlbridge Academic Team with no reviewer. The coverage report now lists no unmapped topic in any course.
+- **Urdu pages.** They follow the existing Edexcel Urdu pages: English prose with Urdu script for terms, vocabulary tables and model sentences, and the existing title style. All three carry `reviewNeeded`; an Urdu specialist should check the vocabulary and model paragraphs.
+- **Not checked against the specification.** Written from the writers' own knowledge. Four pages carry `reviewNeeded` (fieldwork and the three Urdu pages). The IB option content, the scale thresholds and the fieldwork critical value came from memory and need a teacher check.
+- **Gate.** The review ledger caught a broken link in the Urdu theme 3 page (wrong word order in a slug); it was fixed. The local full build could not run, so CI is the first full build.
