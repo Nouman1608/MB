@@ -21,13 +21,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-language-the-individual-and-society-7702"
     subtopic: "section-b-childrens-language-development-7702"
-description: "Original exam-style practice questions with full worked answers on textual variations, representations, discourse and language methods."
+description: "Original practice with worked answers on textual variations, representation, discourse and analysis methods for AQA A-Level English Language 7702 Paper 1."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and practice
 > on this content. They are **not** reproduced past-paper questions, and they do
