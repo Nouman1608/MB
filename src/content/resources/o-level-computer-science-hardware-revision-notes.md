@@ -24,10 +24,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "hardware-2210"
     subtopic: "network-hardware-2210"
-description: "Condensed recall notes on CPU components and the FDE cycle, input/output devices and sensors, storage types, and network hardware for Cambridge O Level Computer Science (2210)."
+description: "Recall notes for Cambridge O Level Computer Science 2210 Topic 3: CPU components and the fetch-decode-execute cycle, devices, sensors, storage and networks."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
@@ -187,3 +189,17 @@ than direct local control. 5. A MAC address is fixed at manufacture
 and identifies specific hardware; an IP address is allocated by the
 network, can be static or dynamic, and identifies a device's location
 on that network.
+
+## Frequently asked questions
+
+**Which sensors are named in Cambridge O Level Computer Science 2210?**
+The named sensors are acoustic, accelerometer, flow, gas, humidity, infra-red, level, light, magnetic field, moisture, pH, pressure, proximity and temperature.
+
+**What is an instruction set?**
+An instruction set is the fixed list of machine-code commands that a CPU can process.
+
+**Which secondary storage technologies are in the 2210 syllabus?**
+Magnetic storage such as an HDD, optical storage such as CD, DVD and Blu-ray, and solid-state storage such as an SSD, SD card or USB drive.
+
+**What does a router do?**
+A router directs data to its destination, can assign IP addresses, and connects a local network to the internet.

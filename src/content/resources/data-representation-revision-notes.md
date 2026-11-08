@@ -24,7 +24,9 @@ syllabusTopics:
 description: "Condensed recall notes on binary, hexadecimal, character sets, images, sound and compression for Cambridge IGCSE Computer Science 0478."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -159,3 +161,17 @@ names only these binary units, and file-size calculations must use 1024.
 7. Why does RLE compress a simple icon well but a photograph poorly?
 
 **Answers:** 1. 10101110 → nibbles 1010 1110 → **AE**. 2. 1024×768×24 = 18,874,368 bits ÷ 8 = 2,359,296 bytes ÷ 1024 = 2304 KiB ÷ 1024 = **2.25 MiB**. 3. The result of a calculation requires more bits than the register can hold, so the most significant bit is lost. 4. ASCII cannot represent non-Latin scripts; Unicode covers a very wide range of the world's writing systems. 5. Lossless — any discarded data would corrupt values and formulas. 6. Write 19 as 00010011, flip every bit to get 11101100, then add 1 to get **11101101**. 7. An icon typically has long runs of identical pixel values that RLE can replace with a single value-and-count pair, while a photograph's colours vary almost pixel to pixel, giving very few long runs to compress.
+
+## Frequently asked questions
+
+**How do you calculate the file size of an image in IGCSE Computer Science?**
+Multiply width by height by colour depth to get the size in bits, then divide by 8 for bytes and by 1024 for each step to KiB and MiB.
+
+**What is overflow in binary addition?**
+Overflow happens when a result needs more bits than the register can hold, so the extra bit is lost and the answer is wrong.
+
+**Why is Unicode used instead of ASCII?**
+ASCII uses 7 bits for 128 characters and cannot represent non-Latin scripts, while Unicode covers a very wide range of the world's writing systems. Unicode can produce larger files, though UTF-8 keeps ASCII characters at one byte.
+
+**Why does run-length encoding work badly on photographs?**
+RLE replaces runs of identical values with a value-and-count pair, but a photograph's colours vary almost pixel to pixel, so there are few long runs to compress. Lossy compression suits photographs better.

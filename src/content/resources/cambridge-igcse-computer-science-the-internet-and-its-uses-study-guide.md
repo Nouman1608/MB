@@ -108,3 +108,17 @@ Command words: **State** and **give** need short facts; **describe** needs a sen
 6. Give two ways to protect against a brute-force attack. *Use a long, complex password; limit failed login attempts; use two-factor authentication.*
 7. State the difference between phishing and pharming. *Phishing uses fake messages to trick the user; pharming redirects to a fake website without the user being tricked by a message.*
 8. A PIN has 5 digits. How many combinations are there? *10 to the power 5 = 100,000.*
+
+## Frequently asked questions
+
+**What is the difference between the internet and the World Wide Web?**
+The internet is the global network of interconnected networks. The World Wide Web is a collection of web pages and resources stored on web servers and accessed using the internet.
+
+**What is the difference between phishing and pharming?**
+Phishing uses fake emails or messages pretending to come from a trusted source. Pharming uses malicious code to redirect users to a fake website even when the correct URL is typed.
+
+**What is the difference between a session cookie and a persistent cookie?**
+A session cookie is held in memory and deleted when the browser closes. A persistent cookie stays on the device until it expires or is deleted.
+
+**Why is tampering with a blockchain easy to detect?**
+Each block stores the hash of the previous block, so changing a past transaction changes that block's hash and breaks the link in every later block.

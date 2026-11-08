@@ -12,10 +12,12 @@ order: 4
 syllabusTopics:
   - qualification: "o-level"
     topic: "software-2210"
-description: "Original exam-style questions with full worked answers on high-level languages, compilers and interpreters, IDE functions, operating system functions and interrupts, for Cambridge O Level Computer Science (2210)."
+description: "Original practice questions with worked answers for Cambridge O Level Computer Science 2210: high-level languages, translators, IDEs, OS and interrupts."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
@@ -115,3 +117,17 @@ Each question practises a skill tested in the June 2025 Paper 12. After each ans
 - Naming an IDE function but giving a role that belongs to a different function.
 - Writing that an interpreter "shows all the errors" — it stops at the first error it meets.
 - Describing an interrupt as the processor stopping for good, rather than saving its task and returning to it.
+
+## Frequently asked questions
+
+**What are the advantages of a high-level language over assembly language?**
+High-level languages are machine independent, easier to read and debug, less error-prone, and quicker to write because one statement does the work of many machine instructions.
+
+**Why use an interpreter during development but a compiler for the final product?**
+An interpreter stops at the first error, so developers can find and fix problems quickly. A compiler produces an executable file that customers can run without the translator or the source code.
+
+**How does a processor handle an interrupt?**
+At the end of each fetch-decode-execute cycle the processor checks for interrupts. If the interrupt has higher priority, it saves the current task, runs the interrupt service routine, then restores the task and continues.
+
+**Can you repeat a reason given in the question?**
+No. If the question already gives a reason, such as readability, repeating it earns no marks, so give other reasons.

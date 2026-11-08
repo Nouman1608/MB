@@ -12,10 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "fundamentals-of-algorithms"
-description: "Graph and tree traversal, Reverse Polish notation, searching and sorting algorithms, and Dijkstra's shortest path algorithm, with their time complexities -- the full content of Section 4.3 for AQA A-Level Computer Science (7517)."
+description: "Guide to AQA A-Level Computer Science 7517 section 4.3: graph and tree traversal, Reverse Polish, searching, sorting, Dijkstra's algorithm and time complexity."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
@@ -129,3 +131,17 @@ applications. Reversing the queue/breadth-first and stack/depth-first pairing.
 - State the time complexity of linear search, binary search, binary tree search, bubble sort and merge
   sort, and explain the trade-offs between them.
 - Trace Dijkstra's shortest path algorithm on a given weighted graph and describe an application.
+
+## Frequently asked questions
+
+**What is the time complexity of bubble sort and merge sort?**
+Bubble sort is O(n²) and is included as an example of an inefficient algorithm. Merge sort is O(n log n), achieved through the divide-and-conquer approach.
+
+**Which tree traversal outputs a binary search tree in order?**
+In-order traversal of a binary search tree outputs its values in ascending order. Pre-order is used for copying a tree, and post-order for producing a postfix expression or emptying a tree.
+
+**Do you need to memorise Dijkstra's algorithm for AQA 7517?**
+No. Students must understand and trace Dijkstra's shortest path algorithm and know its applications, but are not expected to recall its steps unprompted.
+
+**Why is Reverse Polish Notation used?**
+RPN removes the need for brackets and suits stack-based evaluation, which is why it is used in stack-based interpreters such as PostScript and bytecode.

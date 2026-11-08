@@ -24,7 +24,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on production, commerce, trade, aids to trade and the chain of distribution."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -103,3 +105,17 @@ They are interdependent because **secondary industry cannot operate without the 
 - Substituting "worker" or "region/town" for the syllabus's actual specialisation contexts — individual, factory and country.
 - Classing all services as one tertiary group, missing the commercial-services / direct-services split.
 - Forgetting the fourth (quaternary) sector when the question is about the sectors of production generally, rather than the primary-secondary-tertiary chain of production.
+
+## Frequently asked questions
+
+**What is a common mistake when defining commerce?**
+Defining commerce as buying and selling only. Commerce is trade together with the aids to trade, such as transport, warehousing, banking, insurance, advertising and communication.
+
+**What contexts does the Cambridge IGCSE Commerce 0715 syllabus use for specialisation?**
+The syllabus requires the advantages and disadvantages of specialisation for an individual, a factory and a country. Answering about a worker or a region instead loses marks.
+
+**How do you get full marks on a chain of production question?**
+Give an example of each sector and explain how the sectors depend on each other. Examples of the sectors without the interdependence are a common reason for lost marks.
+
+**What is invisible trade?**
+Invisible trade is trade in services, such as tourism, shipping or insurance. It is not illegal or unrecorded trade, which is a common confusion.

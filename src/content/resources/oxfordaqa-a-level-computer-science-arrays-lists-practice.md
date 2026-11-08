@@ -17,7 +17,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on static vs dynamic data structures, arrays and lists, and one- and two-dimensional structures."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
@@ -83,3 +85,17 @@ Related: [Arrays and Lists study guide](/resources/a-level-oxfordaqa-computer-sc
 - Assuming a question requires more than two dimensions.
 - Stating a 2D structure's indexing without specifying which coordinate represents which real-world quantity.
 - Treating "dynamic is always better" as true without acknowledging the resizing overhead and the efficiency case for static structures.
+
+## Frequently asked questions
+
+**How many dimensions do OxfordAQA 9645 exam questions require?**
+Exam questions will not require arrays or lists of more than two dimensions.
+
+**How do you justify a static or dynamic data structure in an exam?**
+Base the choice on whether the number of elements is known and fixed, which suits a static structure, or unknown and growing, which suits a dynamic one.
+
+**What should a two-dimensional structure answer include?**
+State which coordinate represents which real-world quantity, such as scores[student][test], and give the index ranges. Saying only use a 2D array is incomplete.
+
+**Is a dynamic data structure always better than a static one?**
+No. A dynamic structure has resizing overhead and is still limited by available memory, while a static structure gives faster, more predictable access when the size is known in advance.

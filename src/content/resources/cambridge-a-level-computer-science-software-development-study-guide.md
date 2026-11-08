@@ -145,3 +145,17 @@ For the hospital, a **waterfall** approach with detailed specification, document
 6. What is a stub used for? *A simple stand-in for a module that is not written yet, so the calling module can be tested.*
 7. A new tax rate means a payroll program must be changed. Which type of maintenance is this? *Adaptive.*
 8. Explain why a dry run is useful before coding is finished. *It finds logic errors in the algorithm using a trace table without needing a working program.*
+
+## Frequently asked questions
+
+**What are the stages of the program development life cycle in Cambridge 9618?**
+Cambridge names the stages as analysis, design, coding, testing and maintenance.
+
+**What is the difference between boundary and abnormal test data?**
+Boundary data is at the edge of the allowed range, such as 13 and 19 for ages 13 to 19. Abnormal data is invalid and should be rejected, including the first values just outside each limit and data of the wrong type.
+
+**What is stub testing?**
+In stub testing, a simple dummy module returns a fixed answer so that the modules that call it can be tested before the real module exists. It is not the same as integration testing.
+
+**What are the three types of software maintenance?**
+Corrective maintenance fixes errors found in use, adaptive maintenance changes a program to suit new conditions such as a new tax law, and perfective maintenance improves performance or adds features.

@@ -16,10 +16,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "chemical-reactions"
     subtopic: "physical-and-chemical-changes"
-description: "Condensed recall notes on identifying physical and chemical changes, the evidence for a new substance and the differences between the two for Cambridge IGCSE 0620 and O Level 5070 (2026-2028)."
+description: "Recall notes on physical and chemical changes for Cambridge IGCSE 0620 and O Level 5070: the new-substance test, evidence of reaction and common exam traps."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -162,6 +164,20 @@ When a question asks you to identify a change **and** explain:
    chemical, whether or not it can be reversed.
 8. Steam is still water (H₂O); only the state has changed, so no new substance has formed.
 9. 2Mg + O₂ → 2MgO
+
+## Frequently asked questions
+
+**Is dissolving a physical or a chemical change?**
+Dissolving is a physical change. The solid seems to disappear, but it is still the same substance and can be recovered unchanged by evaporating the solvent.
+
+**Does a change that can be reversed have to be a physical change?**
+No. Adding water to anhydrous copper(II) sulfate is reversed by heating, but it is still a chemical change because a new substance forms in each direction. Ease of reversing is only a clue.
+
+**Is giving off a gas proof of a chemical change?**
+Not on its own. Boiling water and subliming iodine also produce a gas, yet no new substance forms, so you must check whether the gas is a new substance.
+
+**Is physical and chemical changes a Core or Extended topic in Cambridge IGCSE Chemistry 0620?**
+Subtopic 6.1 has a single learning outcome in the Core column of the 0620 syllabus, with no Supplement content. The 5070 O Level wording is identical.
 
 *These are original notes written for revision. Check the full syllabus wording in the
 [official 0620 syllabus](https://www.cambridgeinternational.org/Images/697205-2026-2028-syllabus.pdf) and

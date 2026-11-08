@@ -182,3 +182,17 @@ A 2D array Sales[1:3, 1:4] records units sold by three staff (rows) over four we
 6. Give one advantage and one disadvantage of a linked list compared with an array. *Advantage: inserting or deleting only changes pointers; disadvantage: no direct access to the nth item and extra memory for pointers.*
 7. After push 3, push 6, pop, pop on an empty stack, what does the stack hold? *Nothing; both items are removed and it is empty again.*
 8. Add the values in a row of a 2D array holding 5, 11, 2 and 7. *5 + 11 + 2 + 7 = 25.*
+
+## Frequently asked questions
+
+**What data type should a phone number be in Cambridge pseudocode?**
+A phone number should be a STRING, not an INTEGER, because leading zeros must be kept and no arithmetic is done on it.
+
+**What is the difference between WRITE and APPEND when opening a file?**
+WRITE replaces anything already in the file, while APPEND adds new lines at the end and keeps the existing contents. Using WRITE when APPEND is needed is a common error.
+
+**What is an abstract data type?**
+An abstract data type is a collection of data together with the operations that can be performed on it, described without saying how it is implemented, such as a stack or a queue.
+
+**What is the advantage of a linked list over an array?**
+Inserting or removing an item only changes pointers, with no need to shift other items. The disadvantages are no direct access to the nth item and extra memory for the pointers.

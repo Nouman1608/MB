@@ -18,10 +18,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "globalisation-of-trade-0715"
     subtopic: "global-supply-chain-management-0715"
-description: "Condensed recall notes on international trade benefits/challenges, Balance of Trade vs Balance of Payments, trading blocs, and global supply chains for Cambridge IGCSE Commerce (0715)."
+description: "Recall notes for Cambridge IGCSE Commerce 0715 Topic 3: benefits and challenges of trade, Balance of Trade and Payments, trading blocs and supply chain risk."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
@@ -201,3 +203,17 @@ trade entirely). 3. A simple supply chain has one intermediary
 (manufacturer) between supplier and consumer; a complex chain adds
 agents, wholesalers and retailers. 4. Environmental, natural disaster,
 financial, ethical, technological, political. 5. A surplus.
+
+## Frequently asked questions
+
+**Is it a surplus or a deficit when exports are greater than imports?**
+When exports are greater than imports the result is a surplus; when imports are greater than exports it is a deficit.
+
+**What is political risk in a global supply chain?**
+Political risk comes from government action, such as a new tariff or embargo imposed after a change in trade policy. It is distinct from financial risk such as currency changes and from natural disaster risk.
+
+**How do you answer a discuss question on trading blocs?**
+Cover both an advantage and a matched disadvantage, such as easier access to member markets against the loss of independent trade policy, and reach a judgement where the question asks for one. A one-sided answer cannot score full marks.
+
+**What are the benefits of managing a global supply chain?**
+The Cambridge IGCSE Commerce 0715 syllabus lists a lower cost of production, lower labour costs, a lower cost of purchasing, and advances in logistics and communication.

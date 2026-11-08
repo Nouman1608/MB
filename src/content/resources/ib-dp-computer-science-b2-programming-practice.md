@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-computer-science-theme-b"
     subtopic: "ib-dp-computer-science-b-2"
-description: "Original practice questions with full worked answers covering the three control structures, modularity, pseudocode design, and normal/boundary/erroneous test planning, for IB Diploma Programme Computer Science B.2 Programming."
+description: "Original practice questions with worked answers for IB DP Computer Science B.2 Programming: control structures, modularity, pseudocode design and test plans."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -100,6 +102,20 @@ OUTPUT total
 ## Where marks are usually lost
 
 Predicting a loop's output by miscounting how many times the loop body executes, particularly off-by-one errors at the loop's start or end value. Designing a test plan that covers only normal values, omitting boundary and erroneous cases entirely. Describing what a function does without explaining the specific benefit of modularity (reusability, isolated testing, single point of correction) the question is asking for. Treating a working program as sufficient evidence of quality for the internal assessment, without the accompanying design and test documentation the assessment criteria require.
+
+## Frequently asked questions
+
+**What test data should an IB Computer Science test plan include?**
+A complete test plan includes normal, boundary and erroneous data, with the expected outcome for each test. Testing only normal values is a common way to lose marks.
+
+**What is a common mistake when predicting a loop's output?**
+Miscounting how many times the loop body runs, especially off-by-one errors at the start or end value of the loop.
+
+**Why can a working program still lose marks in the computational solution?**
+The internal assessment is scored partly on design and testing documentation, so a program with no record of test data or results does not show the systematic testing the criteria reward.
+
+**Which computational thinking step does modularity match?**
+Breaking a program into functions or procedures corresponds directly to the decompose step of computational thinking.
 
 ## Official syllabus
 

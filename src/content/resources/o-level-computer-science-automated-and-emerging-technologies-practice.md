@@ -12,10 +12,12 @@ order: 6
 syllabusTopics:
   - qualification: "o-level"
     topic: "automated-and-emerging-technologies-2210"
-description: "Original exam-style questions with full worked answers on automated systems, robots, expert systems and artificial intelligence, for Cambridge O Level Computer Science (2210)."
+description: "Original practice questions with worked answers for Cambridge O Level Computer Science 2210: automated systems, robots, expert systems and AI."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
@@ -133,3 +135,17 @@ Each question practises a skill tested in the June 2025 Paper 12. After each ans
 - Stating an advantage or disadvantage without the "so…" explanation that earns the second mark.
 - Saying that the sensor controls the heater, rather than the microprocessor sending a signal to an actuator.
 - Describing machine learning as "a computer that thinks", rather than a program that adapts its own data and processes.
+
+## Frequently asked questions
+
+**How does an expert system decide on an output?**
+The inference engine compares the details entered with the facts in the knowledge base, applies the IF THEN rules in the rule base, chooses the next question from earlier answers and outputs the most likely conclusion.
+
+**What are the electrical components of a robot?**
+The electrical components credited are sensors, microprocessors and actuators. Wheels and arms are part of the mechanical structure, not electrical components.
+
+**How do you get both marks for an advantage or disadvantage question?**
+Give the point and then its consequence, often linked with so. For example, a lost network connection means the engineer cannot control the robot, so the work has to stop.
+
+**What is machine learning in O Level Computer Science?**
+Machine learning is when a program can change its own data and processes automatically, using what it has learned from previous data, without being reprogrammed by a person.

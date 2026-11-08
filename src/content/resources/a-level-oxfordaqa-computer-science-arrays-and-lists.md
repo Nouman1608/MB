@@ -14,10 +14,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "fundamental-data-structures"
     subtopic: "arrays-and-lists-oxfordaqa-alevel-cs"
-description: "Static vs dynamic data structures, and using one- and two-dimensional arrays and lists to solve problems -- the introduction and 3.2.1 of OxfordAQA International AS and A-Level Computer Science (9645)."
+description: "Guide to OxfordAQA International A Level Computer Science 9645 section 3.2.1: static and dynamic data structures, arrays, lists and two-dimensional arrays."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -148,6 +150,20 @@ fixed-size arrays require the array or numpy module.
 number of elements is known in advance.
 - Be comfortable using two-dimensional arrays or lists of lists, indexed
 by row and column.
+
+## Frequently asked questions
+
+**What is the difference between a static and a dynamic data structure?**
+A static data structure has a fixed size set when it is created, such as an array. A dynamic data structure can grow or shrink while the program runs, such as a Python list.
+
+**Does Python have arrays for OxfordAQA 9645?**
+Python has no built-in array type, but arrays can be used by importing the array module or numpy. In programming exams, either lists or arrays may be used unless the question says otherwise.
+
+**Do OxfordAQA 9645 exams use arrays with more than two dimensions?**
+No. Students will not be required to use arrays of more than two dimensions in exam questions, though they may do so if they wish.
+
+**How do you choose between an array and a list in an exam answer?**
+Justify the choice against the data. A static array suits a known, fixed number of items, such as 365 daily readings, while a dynamic list suits an unknown, growing number of items, such as submitted high scores.
 
 ## Related resources
 

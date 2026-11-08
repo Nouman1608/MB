@@ -19,10 +19,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "further-programming"
     subtopic: "file-processing-and-exception-handling"
-description: "Original exam-style questions with full worked answers on classes, encapsulation, inheritance and polymorphism, declarative programming, random file handling in pseudocode and exception handling, for Cambridge AS & A Level Computer Science (9618)."
+description: "Practice questions with worked answers for Cambridge A Level Computer Science 9618: OOP classes and inheritance, declarative rules, random files, exceptions."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
@@ -123,3 +125,17 @@ Opening the file **FOR RANDOM** [1]; **SEEK** to the position SeatNum [1]; **PUT
 - Describing inheritance without saying that the subclass can add to or override what it inherits.
 - Using made-up file-handling keywords instead of those in the pseudocode guide, or forgetting to open the file FOR RANDOM before SEEK.
 - Forgetting to close the file at the end of a file-handling algorithm.
+
+## Frequently asked questions
+
+**What is encapsulation in object-oriented programming?**
+Encapsulation is where a class's attributes are declared private so they can only be accessed or changed through the class's own methods.
+
+**What is the difference between inheritance and polymorphism?**
+Inheritance is where a subclass takes on the attributes and methods of a parent class and can add its own. Polymorphism is where a method with the same name behaves differently depending on the object's class, usually because the subclass overrides it.
+
+**What file-handling keywords are used for random files in Cambridge pseudocode?**
+OPENFILE … FOR RANDOM, SEEK, GETRECORD, PUTRECORD and CLOSEFILE. Using made-up keywords instead of those in the pseudocode guide is a common way to lose marks.
+
+**What is an exception?**
+An exception is an unexpected event or error that happens while a program is running, such as trying to open a file that does not exist. Exception handling puts the risky code in a TRY block and deals with the error in an EXCEPT block.

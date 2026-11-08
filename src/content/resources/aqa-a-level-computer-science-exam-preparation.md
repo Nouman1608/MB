@@ -9,10 +9,12 @@ qualifications: ["a-level"]
 syllabusCodes: ["7517"]
 syllabusSeries: "2015-onwards"
 order: 3
-description: "Why AQA A-Level Computer Science 7517's on-screen Paper 1 needs practice at a machine, how the written Paper 2 differs, where the 20% NEA fits, and a worked routine for an on-screen programming task."
+description: "How to prepare for AQA A-Level Computer Science 7517: the on-screen Paper 1, the written Paper 2 and the 20% NEA, with a routine for on-screen programming."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
@@ -131,6 +133,20 @@ design, testing evidence and evaluation, so a well-documented modest project can
 impressive one with thin evidence of development. 4. Because a program that runs and does part of the
 task earns marks, while a more ambitious program that does not compile earns very few -- and errors
 found early are far cheaper to locate than errors found late.
+
+## Frequently asked questions
+
+**How is AQA A-Level Computer Science 7517 assessed?**
+Paper 1 is an on-screen exam of 2 hours 30 minutes worth 40%, Paper 2 is a written exam of 2 hours 30 minutes worth 40%, and the non-exam assessment practical project is worth 20%.
+
+**What content does AQA Computer Science Paper 1 cover?**
+Paper 1 tests programming and theory from content sections 10 to 13, together with systematic problem-solving from section 22. Paper 2 covers sections 14 to 21, with no overlap.
+
+**What is the Skeleton Program in AQA Computer Science?**
+AQA issues Preliminary Material and a Skeleton Program in each of the programming languages, plus test data where appropriate, for use in the Paper 1 exam. Reading, running and adapting it beforehand is part of preparation.
+
+**How many marks is the AQA Computer Science NEA worth?**
+The non-exam assessment is worth 75 raw marks and 20% of the A-level. It is internally assessed and externally moderated by AQA.
 
 *Written against the AQA A-Level Computer Science 7517 specification-at-a-glance and scheme-of-
 assessment pages (official AQA specification pages, verified 2026-08-28). Marks quoted are the raw

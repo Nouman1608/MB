@@ -12,7 +12,7 @@ order: 6
 syllabusTopics:
   - qualification: "a-level"
     topic: "fundamentals-of-computer-systems"
-description: "Hardware and software, system software, language classification, translators and compilation stages, Boolean algebra, adders and flip-flops for AQA A Level Computer Science."
+description: "AQA A Level Computer Science 7517 section 4.6 guide: system software, language types, translators, compilation stages, Boolean algebra, adders and flip-flops."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-08
@@ -136,3 +136,17 @@ For **compare** questions, make a point about each translator and link them with
 6. Give the Sum and Carry outputs of a half adder for inputs 1 and 1. *Answer: Sum 0, Carry 1.*
 7. What does a D-type flip-flop store, and when does it update? *Answer: one bit; it takes the value on D when the clock edge occurs.*
 8. Complete the truth table for Q = (A AND B) OR NOT C. *Answer: Q is 1 for C = 0 in every case, and for C = 1 only when A = B = 1: rows ABC 000, 010, 100, 110 and 111 give 1; rows 001, 011 and 101 give 0.*
+
+## Frequently asked questions
+
+**What is the difference between a compiler and an interpreter?**
+A compiler translates the whole program into object code before it runs, so it runs fast and can be distributed without source. An interpreter translates and executes one statement at a time and keeps no object code.
+
+**What are the stages of compilation?**
+Lexical analysis, syntax analysis, semantic analysis, code generation and optimisation. Lexical analysis turns the source into tokens and builds a symbol table.
+
+**What are the outputs of a half adder?**
+A half adder gives Sum = A XOR B and Carry = A AND B. It cannot accept a carry in, which is what a full adder adds.
+
+**What are De Morgan's laws?**
+NOT (A AND B) equals NOT A OR NOT B, and NOT (A OR B) equals NOT A AND NOT B. A common error is forgetting to change AND to OR, or OR to AND.

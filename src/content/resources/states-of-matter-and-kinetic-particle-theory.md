@@ -25,7 +25,9 @@ syllabusTopics:
 description: "Particle arrangement, changes of state and diffusion for Cambridge IGCSE 0620 and O Level 5070, with IGCSE Core and Extended outcomes clearly labelled."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
@@ -188,6 +190,20 @@ further in the same time.
 - *(0620 Extended, 5070 required)* interpreting heating and cooling curves, and why plateaus are flat
 - Diffusion defined in terms of random particle motion
 - *(0620 Extended, 5070 required)* effect of relative molecular mass on rate of diffusion
+
+## Frequently asked questions
+
+**Why does the temperature stay constant while a substance melts or boils?**
+The energy supplied is used to overcome the forces between particles rather than to increase their average kinetic energy, so the temperature stays constant and the heating curve shows a flat plateau.
+
+**Why do lighter gases diffuse faster?**
+At the same temperature, particles with a smaller relative molecular mass move faster on average. This is why ammonia travels further than hydrogen chloride and the white ring forms nearer the hydrogen chloride end.
+
+**Do IGCSE Core students need heating and cooling curves?**
+No. Interpreting heating and cooling curves is part of a 0620 Supplement outcome, so only IGCSE Extended candidates need it. It is required for every O Level 5070 candidate.
+
+**Does diffusion happen in solids?**
+Not at this level. Diffusion happens in gases and liquids, but solid particles cannot move from their fixed positions.
 
 ## Where this leads
 

@@ -19,7 +19,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "hardware-and-virtual-machines"
     subtopic: "boolean-algebra-and-logic-circuits"
-description: "A Level study guide to RISC and CISC, pipelining, parallel processing, virtual machines, Boolean algebra, Karnaugh maps, adders and flip-flops for Cambridge 9618."
+description: "Cambridge A Level Computer Science 9618 Topic 15 guide: RISC and CISC, pipelining, parallel processing, virtual machines, Karnaugh maps, adders, flip-flops."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-08
@@ -131,3 +131,17 @@ I checked this by substituting all eight input combinations: it gives 1 for exac
 6. Write the Sum and Carry of a half adder. *Sum = A XOR B; Carry = A AND B.*
 7. What happens to a JK flip-flop when J = K = 1 at a clock pulse? *The output toggles.*
 8. Why is S = R = 1 not allowed on an SR flip-flop? *The output state becomes unpredictable.*
+
+## Frequently asked questions
+
+**What is the difference between RISC and CISC processors?**
+RISC processors have a small set of simple, mostly fixed-length instructions that usually take one clock cycle, with many registers, which makes pipelining efficient. CISC processors have many complex instructions that take several cycles, giving shorter programs.
+
+**Does pipelining make each instruction faster?**
+No. Pipelining overlaps the stages of several instructions, which increases throughput, but it does not speed up any single instruction.
+
+**How do you group cells in a Karnaugh map?**
+Group adjacent 1s in rectangles of 1, 2, 4 or 8 cells, as large as possible, and write one product term per group. Groups may wrap round the edges and cells may be used more than once.
+
+**What is the difference between an SR and a JK flip-flop?**
+In an SR flip-flop, S = R = 1 is not allowed because the output is unpredictable. A JK flip-flop removes this problem: J = K = 1 makes the output toggle on each clock pulse.

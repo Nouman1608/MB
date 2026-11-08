@@ -12,10 +12,12 @@ order: 3
 syllabusTopics:
   - qualification: "o-level"
     topic: "globalisation-of-trade-7100"
-description: "International trade (benefits, challenges, the Balance of Trade and Balance of Payments, free trade, trading blocs and trade restrictions) and global supply chain management -- Topic 3 of Cambridge O Level Commerce (7100), distinct from the site's existing guides to Commerce and Production and Commercial Operations."
+description: "Guide to Topic 3 of Cambridge O Level Commerce 7100: international trade, Balance of Trade and Payments, trading blocs, trade restrictions and supply chains."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
@@ -186,3 +188,17 @@ questions.
 - Describe a simple and a complex global supply chain, using upstream, the enterprise and downstream.
 - Name the six global supply chain risks and explain why risk assessment matters.
 - Link exchange rate changes to their specific effect on importers or exporters.
+
+## Frequently asked questions
+
+**What is the difference between the Balance of Trade and the Balance of Payments?**
+The Balance of Trade is the value of a country's exports of goods minus its imports of goods. The Balance of Payments is the wider record of all transactions with the rest of the world, including services and financial flows.
+
+**What are the three trade restrictions in O Level Commerce 7100?**
+Tariffs, quotas and embargoes. A tariff is a tax on imports that raises their price, a quota limits the quantity imported, and an embargo bans trade in a good or with a country entirely.
+
+**What are the risks in a global supply chain?**
+The 7100 syllabus names environmental, natural disaster, financial, ethical, technological and political risks, and treats risk assessment as important in its own right.
+
+**Are multinational companies part of the globalisation of trade topic?**
+No. Cambridge O Level Commerce 7100 places multinational companies in Topic 2, Commercial operations, not in Topic 3.

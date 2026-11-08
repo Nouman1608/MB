@@ -18,10 +18,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "globalisation-of-trade-0715"
     subtopic: "global-supply-chain-management-0715"
-description: "International trade, the Balance of Trade and Balance of Payments, free trade and trading blocs, and global supply chain management -- Topic 3 of Cambridge IGCSE Commerce (0715), a new syllabus for exams from 2028."
+description: "Guide to Topic 3 of Cambridge IGCSE Commerce 0715, exams from 2028: benefits of trade, Balance of Payments, trading blocs, restrictions, supply chain risk."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -154,6 +156,20 @@ and a complex supply chain for a real product you know well (for
 example, a locally sold food item versus an imported electronic good)
 and use that worked example to anchor the upstream/enterprise/
 downstream vocabulary.
+
+## Frequently asked questions
+
+**What are the benefits of international trade to a country?**
+The Cambridge IGCSE Commerce 0715 syllabus lists a wider choice of goods, a higher standard of living, a lower cost of imports, more investment and the creation of jobs.
+
+**What is the difference between a simple and a complex supply chain?**
+A simple supply chain runs from supplier to manufacturer to consumer. A complex supply chain adds agents, wholesalers and retailers between the supplier and the consumer.
+
+**What does upstream and downstream mean in a supply chain?**
+Upstream covers the suppliers and raw materials before the enterprise, and downstream covers distribution to the end consumer. Using this structure is the expected way to describe a supply chain.
+
+**How do you calculate the Balance of Trade?**
+Subtract the value of imports of goods from the value of exports of goods. A positive result is a surplus and a negative result is a deficit.
 
 ## Related resources
 

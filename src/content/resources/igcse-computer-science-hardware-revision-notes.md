@@ -24,10 +24,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "hardware-0478"
     subtopic: "network-hardware-0478"
-description: "Condensed recall notes on the fetch-decode-execute cycle, input/output devices and sensors, storage types, and network hardware for Cambridge IGCSE Computer Science (0478)."
+description: "Recall notes for Cambridge IGCSE Computer Science 0478 Topic 3: the fetch-decode-execute cycle, input and output devices, sensors, storage and network hardware."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
@@ -190,3 +192,17 @@ identifies a device's location on that network. 5. An embedded system
 performs one dedicated function (e.g. a vending machine controller),
 while a general-purpose computer such as a PC runs many different
 programs and functions.
+
+## Frequently asked questions
+
+**What does the program counter hold?**
+The program counter holds the address of the next instruction to be fetched. In the fetch stage this address is copied into the MAR, and the PC is then incremented.
+
+**What is the difference between a MAC address and an IP address?**
+A MAC address is fixed at manufacture and identifies the network hardware. An IP address is allocated by the network, can be static or dynamic, and identifies a device's location on that network.
+
+**Why does a computer need both RAM and ROM?**
+RAM is fast but volatile, so it cannot hold the startup instructions when the power is off. ROM is non-volatile, so it permanently stores the bootstrap instructions that start the computer.
+
+**What is virtual memory?**
+Virtual memory is used when RAM is full: pages of data are swapped between RAM and disk storage.

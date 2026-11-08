@@ -155,6 +155,20 @@ Worked example: u = [1, 0], v = [1, 1]. u · v = 1; |u| = 1, |v| = √2; cos θ 
 
 **Answers:** 1. It only uses the memory it needs and can grow. 2. Slot (5 + 1) MOD 6 = 0, provided the queue is not full. 3. Peek (top). 4. Checking whether an edge exists is a single lookup, which suits a dense graph. 5. 8 + 0 + 3 = 11.
 
+## Frequently asked questions
+
+**What is an abstract data type?**
+An abstract data type is defined by the operations that can be carried out on it, not by how it is stored.
+
+**How does a circular queue reuse space?**
+The rear pointer wraps round using rear ← (rear + 1) MOD maxSize, so slots freed at the front of the array can be used again. A linear queue wastes those freed slots.
+
+**What is a convex combination of two vectors in AQA 7517?**
+A convex combination of u and v is αu + βv where α and β are both at least 0 and α + β = 1. Answers that give only one of these conditions lose marks.
+
+**How does AQA define a tree?**
+A tree is a connected, undirected graph with no cycles. A binary tree is a rooted tree in which each node has at most two children.
+
 ## Official syllabus
 
 AQA A-level Computer Science (7517) specification, 4.2 —

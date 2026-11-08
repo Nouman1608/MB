@@ -21,7 +21,9 @@ syllabusTopics:
 description: "Condensed recall notes on trade, commerce, production and specialisation for Cambridge O Level Commerce 7100."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
@@ -142,6 +144,20 @@ underperform on the written component specifically.
 6. Name the three contexts in which the syllabus requires the advantages and disadvantages of specialisation.
 
 **Answers (continued):** 5. A change in one affects the others — for example, a rise in production costs can raise prices and reduce the volume of goods that trade and commerce need to move, so the syllabus treats them as a linked system rather than three unrelated topics. 6. Individual, factory and country.
+
+## Frequently asked questions
+
+**What are the four sectors of production in Cambridge O Level Commerce 7100?**
+Primary (extractive), secondary, tertiary and quaternary. The quaternary sector is digital technology and is a separate fourth sector, not a subdivision of tertiary.
+
+**Is warehousing secondary or tertiary production?**
+Warehousing is tertiary production. It is an aid to trade that creates time utility by storing goods until they are wanted.
+
+**What are the two branches of commerce?**
+Trade and aids to trade. Trade divides into home trade (wholesale and retail) and foreign trade, and aids to trade include banking, transport, insurance, warehousing, communication and advertising.
+
+**What are the disadvantages of specialisation?**
+Work can become repetitive and demotivating, skills narrow, machinery can replace labour, choice narrows through standardisation, and everyone becomes interdependent on exchange.
 
 ## Official syllabus
 

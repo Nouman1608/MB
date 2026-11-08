@@ -151,3 +151,17 @@ For a trace, show a table with one row per iteration or per call, and show the u
 6. What is the base case of a recursive function and why is it needed? *The case that returns without another call; it stops the recursion so the calls can unwind.*
 7. Calculate Factorial(5). *5 x 24 = 120.*
 8. Give one disadvantage of recursion compared with iteration. *It uses more memory because each call is stored on the call stack, and may risk a stack overflow.*
+
+## Frequently asked questions
+
+**How many comparisons does a binary search need?**
+The maximum is the smallest power of 2 that is at least the number of items plus 1, so 11 items need at most 4 comparisons and 1,000 items need at most 10.
+
+**How does an insertion sort work?**
+It builds a sorted section at the start of the list, taking each unsorted item in turn, shifting larger sorted items one place right and inserting the item into the gap.
+
+**What happens on the call stack during recursion?**
+Each call is placed on the call stack with its parameters, local variables and return address. The calls wind up until the base case returns, then each call finishes in reverse order as the stack unwinds.
+
+**Is recursion always more efficient than iteration?**
+No. Recursion uses more memory because of the call stack and is usually slower. A recursive Fibonacci function, for example, recalculates the same values many times.

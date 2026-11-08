@@ -12,7 +12,7 @@ order: 6
 syllabusTopics:
   - qualification: "igcse"
     topic: "automated-and-emerging-technologies"
-description: "Automated systems with sensors, microprocessors and actuators, robotics, and artificial intelligence with its rule base and inference engine, for Cambridge IGCSE 0478."
+description: "Guide to Cambridge IGCSE Computer Science 0478 Topic 6: automated systems with sensors and actuators, robotics, and AI with its rule base and inference engine."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-08
@@ -145,3 +145,17 @@ A user enters "temperature high" and "throat sore". The inference engine searche
 6. What is the difference between the knowledge base and the rule base? *The knowledge base stores facts; the rule base stores IF...THEN rules used to reason about those facts.*
 7. Using Worked example 1, what would the heater do for a reading of exactly 20? *It would be off, because 20 is not less than 20.*
 8. Explain why machine learning needs good data. *The system learns patterns from the data it is given, so inaccurate, limited or biased data leads to poor or unfair decisions.*
+
+## Frequently asked questions
+
+**What are the three main parts of an automated system?**
+Sensors measure a physical property, a microprocessor reads the data, compares it with stored values and decides what to do, and actuators such as motors, pumps or heaters carry out the physical action.
+
+**Why does an automated system need an analogue-to-digital converter?**
+Sensors usually produce analogue signals that vary continuously, but a microprocessor only processes digital data, so an ADC converts the sensor's signal first.
+
+**What is the difference between the knowledge base, the rule base and the inference engine?**
+The knowledge base stores facts, the rule base stores IF condition THEN conclusion rules, and the inference engine applies the rules to the facts to reach a conclusion.
+
+**Is machine learning the same as artificial intelligence?**
+No. Machine learning is one branch of AI in which a system improves its performance by learning from data rather than being given every rule by a programmer.

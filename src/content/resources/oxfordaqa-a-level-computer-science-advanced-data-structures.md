@@ -228,6 +228,20 @@ Output: `{'heron': 3, 'finch': 2, 'stork': 1}`. `counts.get(bird, 0)` returns 0 
 - Stopping a hash-table search at the first non-matching record instead of at a match or an empty position.
 - Testing a priority queue for full with `count > size`: it is full when `count` equals the size.
 
+## Frequently asked questions
+
+**What does topic 10 Advanced data structures cover in OxfordAQA 9645?**
+It covers sections 3.10.1 to 3.10.5: graphs, trees, hash tables, priority queues and dictionaries. Searching graphs and traversing trees belong to 3.11 Advanced algorithms.
+
+**What is a binary tree?**
+A binary tree is a rooted tree in which each node has at most two children. Defining it as each node having exactly two children is a common error.
+
+**How is a priority queue implemented in a one-dimensional array?**
+Keep the array in priority order with a count. The queue is empty when count is 0 and full when count equals the array size; items of equal priority leave in arrival order.
+
+**Which dictionary libraries can be used in OxfordAQA 9645?**
+Python has the built-in dict type, and C# and VB.Net use the Dictionary class in System.Collections.Generic.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA: section 3.10 Advanced data structures.

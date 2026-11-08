@@ -109,3 +109,17 @@ Anyone can use (n, e) to encrypt, but decrypting requires d. With n = 33 it is e
 6. How many symmetric keys are needed for 20 people who all need private pairs? *20 x 19 / 2 = 190.*
 7. What does a certificate authority do? *It verifies the identity of the applicant and issues a signed certificate binding their public key to that identity.*
 8. Explain one limitation of encryption. *It does not prevent the data being deleted, and it does not protect it if the key is stolen or the device is compromised.*
+
+## Frequently asked questions
+
+**What is the difference between symmetric and asymmetric encryption?**
+Symmetric encryption uses one shared secret key and is fast, but the key must be distributed securely. Asymmetric encryption uses a public and private key pair, avoiding the need to share a secret, but it is slower.
+
+**How does a digital signature work?**
+The sender hashes the message to make a digest and encrypts it with their private key. The receiver decrypts it with the sender's public key and compares it with their own digest of the message; a match shows authenticity and integrity.
+
+**What is the difference between a digital certificate and a digital signature?**
+A digital certificate, issued by a certificate authority, vouches that a public key belongs to an identity. A digital signature vouches that a message came from the sender and has not been changed.
+
+**Why does TLS use both asymmetric and symmetric encryption?**
+TLS uses asymmetric encryption to share a symmetric session key safely, then uses that session key for the rest of the data because symmetric encryption is much faster.

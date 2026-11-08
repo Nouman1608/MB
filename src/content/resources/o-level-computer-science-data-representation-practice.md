@@ -15,7 +15,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on number bases, binary arithmetic, character sets and data storage."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -120,3 +122,17 @@ Related: [Data Representation revision notes](/resources/o-level-computer-scienc
 - Confusing sample rate with sample resolution when suggesting reductions.
 - Forgetting that overflow means the true result needs more bits than the register holds, not simply that "the answer is wrong".
 - Assuming compression always reduces file size — run-length encoding can enlarge noisy or photographic data with few repeated runs.
+
+## Frequently asked questions
+
+**How many bits are in a nibble and a byte?**
+A nibble is 4 bits and a byte is 8 bits. From the kibibyte upwards, each storage unit is 1024 times the one before.
+
+**What does a logical left shift do to a binary number?**
+A left shift of n places multiplies an unsigned value by 2 to the power n. If a 1 is shifted out of the register it is lost and the result is wrong.
+
+**How many characters can ASCII represent in O Level Computer Science 2210?**
+Standard ASCII uses 7 bits, so it can represent 2^7 = 128 characters. Extended ASCII uses 8 bits for 256, and saying ASCII uses 8 bits is a common mistake.
+
+**Does compression always make a file smaller?**
+No. Run-length encoding can make noisy or photographic data larger, because values rarely repeat and each short run still needs a value and a count.

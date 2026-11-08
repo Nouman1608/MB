@@ -182,6 +182,20 @@ del grades["Ridge Loop"]            # remove a pair
 - Testing for an empty priority queue by looking at the front item rather than `count`.
 - Describing a dictionary as an ordered list, or forgetting that values are reached by key.
 
+## Frequently asked questions
+
+**Does a tree need a root in OxfordAQA 9645?**
+No. A tree is a connected, undirected graph with no cycles and does not need a root. Only a rooted tree has a vertex designated as the root.
+
+**When is an adjacency matrix better than an adjacency list?**
+According to the specification's criteria, a matrix is better when edges are added or removed often, when edges are tested often, or when the graph is dense. A list is better for a sparse graph.
+
+**What are the properties of a good hash function?**
+A good hash function spreads records evenly through the table and is quick to compute. Giving only one property when both are asked for loses marks.
+
+**How is a collision handled in an OxfordAQA hash table?**
+The specification's method is rehashing: the later record is stored in the next available position.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA: section 3.10 Advanced data structures.

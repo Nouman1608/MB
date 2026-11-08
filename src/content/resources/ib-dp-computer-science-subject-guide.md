@@ -9,7 +9,9 @@ syllabusCodes: ["DP Computer Science"]
 description: "An overview of IB Diploma Programme Computer Science -- computational thinking, algorithmic thinking and programming, and what the course aims to develop."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -138,6 +140,20 @@ computational thinking strands -- sits closer to mathematics for many
 students, and the collaborative project is where the course's
 scientific-inquiry dimension is most explicitly shared with the other
 sciences.
+
+## Frequently asked questions
+
+**How is IB DP Computer Science assessed?**
+There are two written papers plus an internally assessed computational solution. Each paper is 35% at SL and 40% at HL, and the computational solution is 30% at SL and 20% at HL.
+
+**What programming languages can IB DP Computer Science be studied in?**
+The IB names two languages for the course, Java and Python, and the school chooses which one is used.
+
+**How many teaching hours does IB DP Computer Science have?**
+Total teaching hours are 150 at SL and 240 at HL.
+
+**What is the collaborative sciences project in IB Computer Science?**
+It is a project done jointly with students from other group 4 science subjects, worth 10 hours of study time at both SL and HL.
 
 ## Source
 

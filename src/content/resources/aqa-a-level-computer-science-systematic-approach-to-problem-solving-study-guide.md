@@ -112,3 +112,17 @@ Name the stage that the question is about and keep to it: an analysis question w
 6. What is the difference between alpha and beta testing? *Answer: alpha is done in-house, beta by selected real users before release.*
 7. Give one drawback of the waterfall model. *Answer: changes late in the project are costly, and users see no working system until the end.*
 8. What is evaluated at the end of a project? *Answer: how far the solution meets the original success criteria, plus user feedback and improvements.*
+
+## Frequently asked questions
+
+**What are the stages of a systematic approach to problem solving in AQA 7517?**
+Analysis, design, implementation, testing and evaluation. The same stages are the structure expected in the programming project.
+
+**What is the difference between alpha and beta testing?**
+Alpha testing is done in-house by developers or staff. Beta testing is done by selected real users before general release.
+
+**What makes a good success criterion?**
+A good success criterion is specific and measurable, such as a booking being confirmed in under 3 seconds, because it becomes the benchmark for the evaluation. Criteria such as easy to use cannot be measured.
+
+**What is the difference between white-box and black-box testing?**
+White-box testing designs tests from knowledge of the code so that every path is exercised. Black-box testing designs tests from the specification without regard to the code.

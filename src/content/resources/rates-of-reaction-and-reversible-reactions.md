@@ -22,10 +22,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "chemical-reactions"
     subtopic: "reversible-reactions-and-equilibrium"
-description: "Collision theory, the factors that change reaction rate, reversible reactions, equilibrium, and the Haber and Contact processes, for Cambridge IGCSE 0620 and O Level 5070."
+description: "Guide to rates of reaction and reversible reactions for Cambridge IGCSE 0620 and O Level 5070: collision theory, rate factors, equilibrium, Haber and Contact."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
@@ -245,6 +247,20 @@ the definition of equilibrium · how temperature, pressure, concentration and
 catalysts affect equilibrium position · Haber process: equation, sources,
 conditions · Contact process: equation, sources, conditions · why those specific
 conditions are chosen
+
+## Frequently asked questions
+
+**Why does increasing temperature increase the rate of reaction?**
+Particles move faster and collide more often, and a greater proportion of collisions have at least the activation energy. The second effect is the dominant one, and both points are needed for full marks.
+
+**Does a catalyst change the position of equilibrium?**
+No. A catalyst speeds up the forward and reverse reactions equally, so it changes how fast equilibrium is reached but not where the equilibrium position ends up.
+
+**What are the conditions for the Haber process?**
+The Haber process makes ammonia from nitrogen and hydrogen at about 450 °C and 20 000 kPa (200 atm) with an iron catalyst. These conditions are a compromise between rate, yield, cost and safety.
+
+**Does Cambridge IGCSE 0620 include rate equations or Kc?**
+No. The 0620 and 5070 treatment is qualitative collision theory plus the Haber and Contact processes. Rate equations, orders of reaction and Kc belong to A Level Chemistry 9701.
 
 ## Related resources
 

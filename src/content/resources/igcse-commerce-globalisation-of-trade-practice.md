@@ -18,10 +18,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "globalisation-of-trade-0715"
     subtopic: "global-supply-chain-management-0715"
-description: "Original exam-style practice questions with full worked answers on international trade, Balance of Trade/Payments calculations, trading blocs and trade restrictions, and global supply chains, for Cambridge IGCSE Commerce (0715) Topic 3."
+description: "Original practice questions with worked answers for Cambridge IGCSE Commerce 0715 Topic 3: Balance of Trade, trading blocs, restrictions and supply chains."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -140,3 +142,17 @@ Question 6 illustrates the upstream/enterprise/downstream structure the study gu
 any "describe the supply chain" question — using this named structure explicitly, rather than
 describing the supply chain in free-form prose, is what distinguishes a strong answer on 3.2 from a
 vague one.
+
+## Frequently asked questions
+
+**What is a common mistake in Balance of Trade questions?**
+Stopping at the calculation. Strong answers state clearly whether the result is a surplus or a deficit and then explain a genuine consequence of that result.
+
+**What sources of support are available to exporters?**
+The Cambridge IGCSE Commerce 0715 syllabus names international trade fairs, cheaper bank loans and insurance guarantees as sources of support for exporters.
+
+**Is a flood an environmental risk in a global supply chain?**
+The syllabus lists natural disasters separately from environmental risks such as pollution and deforestation, so name the specific risk type that the scenario illustrates.
+
+**How are challenge questions on international trade usually marked?**
+In these worked answers, marks are given for identifying the challenge, explaining how it affects the trader and developing the consequence for the business.

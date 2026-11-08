@@ -21,10 +21,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "data-transmission"
     subtopic: "encryption-0478"
-description: "Condensed recall notes on packet switching, transmission methods, error detection and encryption for Topic 2 of Cambridge IGCSE Computer Science (0478), 2026-2028 series."
+description: "Recall notes for Cambridge IGCSE Computer Science 0478 Topic 2: packet switching, serial and parallel transmission, USB, error detection, ARQ and encryption."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
@@ -145,6 +147,20 @@ you for before assuming a past paper's grade thresholds apply.
 different packets by different routes. 3. Parity check, checksum, echo check. 4. A single piece of
 entered data (e.g. an ISBN), not an entire transmitted packet. 5. A mathematically linked public/private
 key pair, where the public key encrypts and only the matching private key can decrypt.
+
+## Frequently asked questions
+
+**What does a packet header contain?**
+A packet header contains the destination address, the packet number and the originator's address. The packet numbers are used to reorder packets that arrive out of order.
+
+**What are the error detection methods in Cambridge IGCSE 0478?**
+Parity checks, checksums and echo checks, with ARQ using acknowledgements and a timeout. A check digit is a separate idea that validates one piece of entered data.
+
+**What is the difference between simplex, half-duplex and full-duplex?**
+Simplex sends data in one direction only, half-duplex sends in both directions but not at the same time, and full-duplex sends in both directions simultaneously.
+
+**What is the difference between Cambridge IGCSE Computer Science 0478 and 0984?**
+The paper structure is identical, with Paper 1 Computer Systems and Paper 2 Algorithms, Programming and Logic. 0478 is graded A* to G, while 0984 uses the numeric 9 to 1 scale and is not offered in every zone.
 
 ## Official syllabus
 

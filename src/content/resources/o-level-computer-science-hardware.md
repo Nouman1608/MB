@@ -24,10 +24,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "hardware-2210"
     subtopic: "network-hardware-2210"
-description: "The fetch-decode-execute cycle and CPU components, named input/output devices and sensors, primary/secondary/cloud storage, and network hardware -- the full content of Topic 3 for Cambridge O Level Computer Science 2210, 2026-2028 series."
+description: "Guide to Topic 3 of Cambridge O Level Computer Science 2210 (2026-2028): the fetch-decode-execute cycle, CPU components, devices, sensors, storage and networks."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -157,6 +159,20 @@ comparisons -- RAM vs ROM, primary vs secondary storage, local vs
 cloud storage, IPv4 vs IPv6 -- so practise writing short, structured
 "difference between" answers for each pair rather than treating them
 as separate topics to learn independently.
+
+## Frequently asked questions
+
+**Which paper is Hardware examined on in O Level Computer Science 2210?**
+Topic 3 Hardware is in the Computer systems half of the 2210 syllabus and is examined on Paper 1.
+
+**What is a microprocessor?**
+A microprocessor is a type of integrated circuit that packages the CPU's processing capability onto a single chip.
+
+**How does solid-state storage work?**
+Solid-state (flash) storage uses NAND or NOR technology, with transistors acting as control gates and floating gates. It has no moving parts.
+
+**What comparisons should you prepare for the Hardware topic?**
+Prepare short, structured answers on RAM versus ROM, primary versus secondary storage, local versus cloud storage, and IPv4 versus IPv6.
 
 ## Official syllabus
 

@@ -12,7 +12,7 @@ order: 10
 syllabusTopics:
   - qualification: "a-level"
     topic: "fundamentals-of-databases"
-description: "AQA A Level Computer Science 7517 databases study guide: entity relationship models, keys, normalisation to 3NF, SQL across tables and concurrent access control."
+description: "AQA A Level Computer Science 7517 section 4.10 databases guide: entity-relationship models, keys, normalisation to 3NF, SQL across tables and concurrent access."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-08
