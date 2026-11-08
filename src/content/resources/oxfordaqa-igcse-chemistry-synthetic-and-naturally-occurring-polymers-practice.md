@@ -191,6 +191,20 @@ Conclusion: a justified judgement, for example that the plan reduces the problem
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are the most common mistakes when drawing addition polymers?**
+Frequent slips include leaving a C=C in the polymer, drawing the chain without bonds through the brackets, forgetting n, and putting a side group such as CH₃ into the main chain.
+
+**How should you describe a bromine water result?**
+Give the colour before and after: orange to colourless. Writing "clear" instead of "colourless" is a common way to lose the mark.
+
+**How do you define biodegradable in an exam answer?**
+A biodegradable material can be broken down by microbes. A definition that does not mention microbes does not earn the mark.
+
+**How should you answer an "evaluate" question on biodegradable plastics?**
+Give points on both sides, using the information provided, and then reach a conclusion. Giving only advantages is not an evaluation.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. Unit covered: 3.10.2 Synthetic and naturally occurring polymers, statements a to f, with links to 3.10.1.3.

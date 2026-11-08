@@ -250,6 +250,23 @@ When you evaluate these, give points on both sides:
 - [Quantitative chemistry](/resources/oxfordaqa-igcse-chemistry-quantitative-chemistry/) for relative formula mass
 - The [chemistry course hub](/boards/oxfordaqa/igcse/chemistry/), plus a [checklist you can print](/checklists/oxfordaqa/igcse/chemistry/)
 
+## Frequently asked questions
+
+**How do alkenes form addition polymers?**
+Alkenes act as monomers because each has a C=C double bond. During polymerisation one of the two bonds in each C=C breaks, and the freed bonds link many monomers into one long chain; the polymer is the only product.
+
+**What is the difference between LD and HD poly(ethene)?**
+Both are made from ethene, but with different catalysts and conditions. LD poly(ethene) has branched chains that cannot pack closely, so it is soft and stretchy, while HD poly(ethene) has straight, closely packed chains with stronger forces between them, so it is more rigid.
+
+**What is the difference between thermosoftening and thermosetting polymers?**
+Thermosoftening polymers are separate chains held together only by weak intermolecular forces, so they soften on heating and can be reshaped. Thermosetting polymers have covalent cross-links between chains, so they do not melt when heated.
+
+**Why are non-biodegradable polymers a problem for waste disposal?**
+Many polymers are not broken down by microbes, so they persist in landfill sites that are running out of space, and as litter they spoil the environment and harm animals for years.
+
+**Do you need to learn named examples of new polymer materials?**
+No. The specification says you need not recall named examples for statements d and e. Be ready to link a given property, such as absorbing water like a hydrogel, to a use.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. Unit covered: 3.10.2 Synthetic and naturally occurring polymers, statements a to f, with the alkene test from 3.10.1.3 used for support.

@@ -213,8 +213,8 @@ Name the reagent and give the result for both compounds, including the colour be
 **What must you show when choosing a molecular formula from precise mass?**
 Calculate the precise-mass total for every candidate formula and show which one matches the measured m/z. Picking a formula without the sum for each candidate loses marks.
 
-**How do you describe using the fingerprint region in an exam answer?**
-Say that the fingerprint region of the unknown's spectrum is compared with reference spectra of known compounds, and that a match identifies the compound.
+**Is the acid–carbonate test AS content in OxfordAQA 9620?**
+The acid–carbonate reaction is stated in section 3.3.9.1, which is International A-level only, although Required practical 5 still lists a test for carboxylic acids. The rest of section 3.3.6 is International AS content examined in Unit 2.
 
 ## Official syllabus
 

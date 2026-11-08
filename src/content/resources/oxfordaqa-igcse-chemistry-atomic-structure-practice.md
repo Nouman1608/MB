@@ -105,11 +105,11 @@ Almost every calculation question on this topic reduces to the same three-step r
 **What are the most common mistakes in atomic structure questions?**
 Frequent slips are confusing atomic number (protons only) with mass number (protons plus neutrons), describing isotopes as having a different atomic number, and forgetting that a neutral atom has equal numbers of protons and electrons.
 
-**How do you work out the number of neutrons in an atom?**
-Subtract the atomic number from the mass number. For example, an atom with mass number 39 and atomic number 19 has 39 − 19 = 20 neutrons.
+**What is the difference between atomic number and mass number?**
+Atomic number is the number of protons in an atom, while mass number is the number of protons plus neutrons. Confusing the two is the most common source of errors in particle-count questions.
 
-**How should you explain why noble gases are unreactive?**
-Link their lack of reactivity to their electron arrangement: noble gases have a stable, full outer shell of electrons. Simply stating that they are unreactive, without the electron explanation, does not earn the marks.
+**Which OxfordAQA 9202 topic do these atomic structure questions cover?**
+They cover Topic 1 of OxfordAQA International GCSE Chemistry (9202): sub-atomic particles, isotopes, electron structure, the periodic table and states of matter.
 
-**What does a diffusion experiment show about particles?**
-When a gas such as bromine vapour spreads evenly through a jar without stirring, it is evidence that particles are in constant, random motion. Your answer should make that link explicitly.
+**How should you answer an "explain" question about changes of state?**
+Refer to both the energy of the particles and their arrangement at each change of state. An answer that describes only one of these is unlikely to earn full marks.

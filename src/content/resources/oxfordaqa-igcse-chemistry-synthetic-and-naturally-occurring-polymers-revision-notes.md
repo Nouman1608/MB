@@ -249,6 +249,20 @@ Cornstarch comes from plants, so it is renewable; most synthetic polymers come f
 - [Carbon compounds as fuels](/resources/oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels/) for cracking and alkenes
 - [All free 10-minute diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**How do you work out the monomer from a polymer chain?**
+Find the two-carbon repeating unit, remove the bonds that cross the brackets, and put back a double bond between the two carbons. For –( CH(CH₃)–CH₂ )n–, the monomer is propene.
+
+**How can bromine water tell a monomer from its polymer?**
+The alkene monomer is unsaturated, so it turns bromine water from orange to colourless. The polymer has only single C–C bonds, so it does not decolourise bromine water.
+
+**How do you calculate the Mr of a polymer chain?**
+Multiply the number of monomer units by the Mr of the monomer, because no atoms are lost when the units join. A poly(ethene) chain of 4000 units has Mr = 4000 × 28 = 112 000.
+
+**What is the difference between a polymer–cornstarch bag and a biodegradable plastic?**
+In a polymer–cornstarch bag, microbes digest the starch so the bag breaks into pieces, but the polymer part may remain. A biodegradable plastic is itself digested by microbes.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. Unit covered: 3.10.2 Synthetic and naturally occurring polymers, statements a to f.

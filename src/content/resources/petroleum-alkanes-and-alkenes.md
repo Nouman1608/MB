@@ -31,10 +31,12 @@ syllabusTopics:
 description: "Fractional distillation of petroleum, alkane substitution reactions, and alkene addition reactions and cracking, for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers Topic 11, Organic chemistry — subtopics **11.3 Fuels**,
@@ -254,6 +256,23 @@ photochemical, limited to monosubstitution
 - *(0620 Extended, 5070 required)* the three named addition reactions and
 their products
 - The bromine water test, both the method and which way the colour changes
+
+## Frequently asked questions
+
+**How does fractional distillation separate petroleum?**
+Crude oil is heated and the vapours rise through a fractionating column, condensing at different heights as they cool. The shortest, most volatile molecules condense highest, and the longest, least volatile ones condense near the bottom.
+
+**Why are alkanes generally unreactive?**
+Alkanes are saturated: every carbon–carbon bond is a single covalent bond, so there is no C=C double bond to react across. Their two reactions are combustion and substitution with chlorine.
+
+**What is the reaction between methane and chlorine?**
+It is a substitution reaction in which one hydrogen atom is replaced by a chlorine atom, CH₄ + Cl₂ → CH₃Cl + HCl. It is photochemical, because ultraviolet light provides the activation energy; this detail is 0620 Extended and required for 5070.
+
+**Why is cracking carried out?**
+The supply of short-chain hydrocarbons from fractional distillation does not match demand, especially for petrol. Cracking uses a high temperature and a catalyst to break larger alkanes into shorter alkanes, alkenes and hydrogen.
+
+**What addition reactions do alkenes undergo in Cambridge 0620 and 5070?**
+Alkenes add bromine or aqueous bromine, hydrogen with a nickel catalyst, and steam with an acid catalyst, which produces an alcohol. Only one product forms in each addition reaction.
 
 ## Related resources
 

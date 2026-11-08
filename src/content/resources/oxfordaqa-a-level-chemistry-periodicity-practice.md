@@ -216,8 +216,8 @@ change, with the data, and then give the reason; a reason on its own leaves the 
 **What are the most common mistakes in Period 3 trend questions?**
 Typical slips include saying atomic radius falls because electrons are added to new shells, swapping the reasons for the Mg to Al and P to S ionisation energy drops, and naming the structure of only one element in a melting point comparison.
 
-**How do you write a first ionisation energy equation?**
-Show one mole of gaseous atoms losing one electron each to form gaseous 1+ ions, for example Si(g) → Si⁺(g) + e⁻. Writing (s) or (aq) state symbols, or removing two electrons, loses marks.
+**Which unit examines periodicity in OxfordAQA 9620 Chemistry?**
+Section 3.2.1 Periodicity is entirely International AS content, examined in Unit 1 (Inorganic 1 and Physical 1).
 
 **How should you compare the melting points of two Period 3 elements?**
 Name the structure and bonding of both elements, say what must be overcome when each melts, and then compare how much energy that takes. For molecular elements, compare the number of electrons, not just the size of the molecule.

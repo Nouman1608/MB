@@ -211,6 +211,20 @@ Mass of Cu = 0.200 × 63.5 = **12.7 g** [1]
 - [Statement-by-statement checklist to print](/checklists/oxfordaqa/igcse/chemistry/)
 - [Back to the full redox study guide](/resources/oxfordaqa-igcse-chemistry-redox-reactions/)
 
+## Frequently asked questions
+
+**What are the most common mistakes in redox questions?**
+Common slips include swapping the definitions of oxidation and reduction, naming the compound instead of the ion that is reduced, and writing halogens as single atoms instead of Cl₂, Br₂ or I₂.
+
+**How do you write an ionic equation for a displacement reaction?**
+Remove the spectator ions that are in solution before and after the reaction, then balance the remaining species and their charges. Leaving spectator ions in is a common error.
+
+**What should you write when a question asks about redox "in terms of electrons"?**
+Say which particle loses electrons and which gains them. Stating only that a substance is oxidised, or answering with "more reactive" alone, does not earn the marks.
+
+**Is there a required practical for redox reactions in OxfordAQA 9202?**
+No. Section 3.8.4 has no required practical, although redox ideas appear in other practicals such as the electrolysis of copper sulfate solution.
+
 ## Official syllabus
 
 International GCSE Chemistry (9202) specification published by OxfordAQA; Version 6.2, for exams May/June 2018 onwards. Unit covered: 3.8.4 Redox reactions, statements a to c, applied to reactions from 3.3.1.1, 3.3.2, 3.7.1 and 3.10.

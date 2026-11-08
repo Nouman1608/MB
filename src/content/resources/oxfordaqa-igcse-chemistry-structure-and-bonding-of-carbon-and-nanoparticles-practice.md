@@ -170,6 +170,20 @@ Revise first with the [study guide](/resources/oxfordaqa-igcse-chemistry-structu
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are the most common mistakes in carbon structure questions?**
+Frequent slips include blaming graphite's softness on weak covalent bonds, saying ions or atoms carry the current in graphite, and giving one structural reason for several different properties.
+
+**How do you answer a "suggest" question about nanoparticles?**
+Use the information given in the question: pick out the property in the data and link it to the use, usually through the high surface area to volume ratio. Writing a memorised answer that ignores the data loses marks.
+
+**Do you need to learn specific nanoparticles for OxfordAQA 9202?**
+No. You do not need specific nanoparticles or their properties; questions will give you information about a material and ask you to relate its use to its structure.
+
+**How do you convert an area between units?**
+Square the length conversion factor. For example, converting an area from nm² to cm² uses (10⁻⁷)² = 10⁻¹⁴, not the length factor 10⁻⁷.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.2.3 and 3.2.4.

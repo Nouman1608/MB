@@ -264,8 +264,8 @@ intermolecular forces, so P₄O₁₀ melts lower [1]
 **What are the most common mistakes in Period 3 oxides and chlorides questions?**
 Frequent slips are writing AlCl₃ instead of Al₂Cl₆ for the product of aluminium and chlorine, saying SiCl₄ "dissolves" when it is hydrolysed, and breaking covalent bonds when describing the melting of simple molecular compounds.
 
-**How many moles of NaOH react with one mole of PCl₅?**
-Eight. PCl₅ + 8NaOH → Na₃PO₄ + 5NaCl + 4H₂O, because the five chlorine atoms (released as HCl) must be neutralised as well as the phosphoric acid.
+**What are common mistakes in Period 3 neutralisation calculations?**
+Using the wrong mole ratio for chloride neutralisation is a frequent error. Take the ratio from a fully balanced equation that includes every acid product, not just the main one.
 
 **What do you need to draw when asked for the structure of H₂SO₃ or its anions?**
 Show sulfur with one S=O, the S–OH or S–O⁻ groups and its lone pair, with any negative charges on single-bonded oxygen atoms. Missing the lone pair on sulfur, or putting a charge on S, loses marks.

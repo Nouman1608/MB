@@ -320,6 +320,23 @@ You see fizzing; the gas turns limewater cloudy white.
 
 Condense this page with the [Metals revision notes](/resources/oxfordaqa-igcse-chemistry-metals-revision-notes/), then test yourself with the [Metals practice questions](/resources/oxfordaqa-igcse-chemistry-metals-practice/). For the mole steps, see [Quantitative chemistry](/resources/oxfordaqa-igcse-chemistry-quantitative-chemistry/); for exam technique, see [exam preparation](/resources/oxfordaqa-igcse-chemistry-exam-preparation/).
 
+## Frequently asked questions
+
+**Why can metals be bent and hammered into shape?**
+The ions in a metal are arranged in layers, and the layers can slide over each other without the structure breaking apart. The delocalised electrons that move through the structure also let metals conduct heat and electricity.
+
+**What is an alloy?**
+An alloy is a mixture of at least two elements, at least one of which is a metal, and it often has more useful properties than the pure metals. Steels, for example, are iron mixed with carbon and sometimes other metals.
+
+**How are metals extracted from their ores?**
+Metals less reactive than carbon, such as iron, can be extracted by heating their oxides with carbon, which removes the oxygen. Metals more reactive than carbon, such as aluminium, are extracted by electrolysis of the molten compound.
+
+**What is the difference between phytomining and bioleaching?**
+In phytomining, plants absorb copper compounds from the soil and are then harvested and burned, leaving ash that contains the copper compounds. In bioleaching, bacteria produce a leachate, a solution containing copper compounds.
+
+**Do all metal carbonates decompose when heated?**
+No. The carbonates of magnesium, copper, zinc, calcium and lithium break down on heating to give the metal oxide and carbon dioxide, but sodium and potassium carbonates do not decompose at Bunsen burner temperatures.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.3.1 Metals, including 3.3.1.1 The reactivity series and 3.3.1.2 Metal carbonates.

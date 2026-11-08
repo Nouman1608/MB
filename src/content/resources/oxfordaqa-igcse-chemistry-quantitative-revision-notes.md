@@ -24,10 +24,12 @@ syllabusTopics:
 description: "Condensed recall notes on relative masses, the mole, formulae, reacting masses, concentration and titrations for International GCSE Chemistry."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -195,3 +197,16 @@ Use only **concordant** titres — those within 0.10 cm³ of each other — and 
   <figcaption>Ignore the rough titre and any result not within 0.10 cm3, then average the rest.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Why are relative atomic masses not whole numbers?**
+Relative atomic masses are weighted averages of the masses of an element's isotopes, taking their relative abundances into account. The OxfordAQA 9202 specification does not require you to calculate Ar from isotopic abundances.
+
+**How do you find an empirical formula from percentages?**
+Divide each percentage by the element's relative atomic mass, divide all the results by the smallest, then scale to whole numbers. Multiply the empirical formula by Mr ÷ empirical formula mass to get the molecular formula.
+
+**Why might you not get the calculated mass of product?**
+Even though no atoms are gained or lost, the reaction may not go to completion if it is reversible, some product may be lost during separation and purification, or some reactants may react in unexpected ways.
+
+**Which titres should you use in a titration calculation?**
+Use only concordant titres, those within 0.10 cm³ of each other, and exclude the rough titre from the average.

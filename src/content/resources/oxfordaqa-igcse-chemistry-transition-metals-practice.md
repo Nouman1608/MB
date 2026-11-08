@@ -192,6 +192,20 @@ Three of the metals are transition metals and two are Group 1 metals.
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in transition metals questions?**
+Frequent slips include writing "all transition metals" for the three typical properties, forgetting the mercury exception or applying it to density, and writing ionic equations with the wrong number of hydroxide ions.
+
+**How many hydroxide ions react with a transition metal ion?**
+The number of hydroxide ions equals the charge on the metal ion. For iron(III), the ionic equation is Fe³⁺ + 3OH⁻ → Fe(OH)₃.
+
+**How should you write a "compare" answer about metals?**
+Name the property, state which metal is higher using a comparative word, and support it with a figure from the data. Describing one metal only does not answer a comparison question.
+
+**Is there a required practical for transition metals in OxfordAQA 9202?**
+No. Section 3.7.2 has no required practical; the five required practicals in section 6.2 belong to other sections.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.7.2 Transition metals, statements a and b.

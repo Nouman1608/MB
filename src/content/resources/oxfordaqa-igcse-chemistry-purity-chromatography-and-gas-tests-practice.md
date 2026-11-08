@@ -177,6 +177,20 @@ Identify which solid is pure T, which is impure T, and which is a different pure
 - Try one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in purity and chromatography questions?**
+Common slips include stating that impurities raise a melting point, measuring from the lower edge of the paper instead of the baseline, and writing Rf values with units or greater than 1.
+
+**Can an Rf value be greater than 1?**
+No. The spot can never travel further than the solvent, so an Rf value is always less than 1 and has no units. An answer above 1 usually means the division was done the wrong way round.
+
+**What should a gas test answer include?**
+Give both the test and its positive result, and include details such as "damp" for litmus. A test with no result, or swapping the lighted and glowing splints, loses marks.
+
+**Is there a required practical for chromatography in OxfordAQA 9202?**
+Section 6.2 of the specification lists no required practical for sections 3.4.1 and 3.4.2. The chemical analysis required practical is the flame test, which belongs to section 3.4.3.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. This practice set covers section 3.4.1 Purity and chromatography and section 3.4.2 Identification of common gases.

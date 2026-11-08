@@ -212,14 +212,14 @@ safely than two versions of the same hazard.
 **What are the most common mistakes in organic synthesis questions?**
 Common slips include writing AlCl₃ instead of UV light for side-chain chlorination of methylbenzene, proposing a nucleophile to replace chlorine bonded directly to a benzene ring, and using steps that are not in the 9620 specification.
 
-**Why do you need excess ammonia when making a primary amine?**
-The primary amine product can react further with the halogenoalkane, so excess ammonia is needed to make the primary amine the main product. Leaving out "excess" loses the mark in route questions.
+**Is organic synthesis AS or A2 content in OxfordAQA 9620?**
+Section 3.3.14 is A2 organic chemistry, so every question in this set is International A-level only. It is examined in Unit 4, and Unit 5 covers all content.
 
 **How do you avoid errors in atom economy calculations?**
 Multiply every reactant by its coefficient in the balanced equation before adding them in the denominator. Missing a coefficient, such as the 2 in 2NH₃, is one of the most common errors.
 
 **What does "give two reasons" mean in a greener-chemistry question?**
-The two points must be different ideas. Writing "safer" and "less hazardous" makes only one point, so give a second, separate reason such as less waste or lower energy use.
+The two points must be different ideas. Writing "safer" and "less hazardous" makes only one point, so the second reason needs to be a genuinely separate idea.
 
 ## Official syllabus
 

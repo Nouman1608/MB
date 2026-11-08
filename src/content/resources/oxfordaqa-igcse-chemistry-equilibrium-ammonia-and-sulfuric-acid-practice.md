@@ -186,11 +186,11 @@ CO(g) + Cl₂(g) ⇌ COCl₂(g), with energy given out in the forward direction.
 **What are the most common mistakes in equilibrium questions?**
 Frequent slips include defining equilibrium without "closed system", saying the amounts are equal at equilibrium, and predicting a temperature effect before working out which direction is exothermic.
 
-**How do you explain the choice of 450 °C in the Haber process?**
-Making ammonia is exothermic, so a lower temperature would give a higher yield but the reaction would be too slow. About 450 °C is a compromise that gives a reasonable yield quickly; do not say a higher temperature increases the yield.
+**Why must you count molecules, not atoms, in pressure questions?**
+The effect of pressure depends on the number of gas molecules on each side of the balanced equation. Counting atoms, or ignoring the numbers in front of formulae, gives the wrong prediction.
 
-**Which catalysts are used in the Haber and contact processes?**
-The Haber process uses an iron catalyst at about 200 atmospheres, while Stage 2 of the contact process uses vanadium(V) oxide, V₂O₅, at atmospheric pressure. Both run at around 450 °C.
+**What mole ratios cause errors in Haber and contact process calculations?**
+Read the ratio from each balanced equation. Forgetting the 2 : 1 ratios in the ammonium sulfate and Stage 2 calculations is a common mistake.
 
 **How should you answer a question about compromise conditions?**
 Give both sides of the compromise: the benefit for yield or rate and the drawback, such as cost or safety. Saying only that high pressure is expensive gives just one side.

@@ -196,7 +196,7 @@ Links: [study guide](/resources/oxfordaqa-igcse-chemistry-carbon-compounds-as-fu
 Frequent slips include saying fractions are separated by melting point, forgetting the column is cooler at the top, and leaving water out of incomplete combustion products.
 
 **How should you answer an "evaluate biofuels" question?**
-Give both advantages and disadvantages, such as being renewable against the use of land that could grow food, and then make a judgement. A one-sided answer that lists only advantages does not earn full marks.
+Give both advantages and disadvantages, using any information provided, and then make a judgement. A one-sided answer that lists only advantages does not earn full marks.
 
 **How do you balance a cracking equation?**
 Make the total number of carbon atoms and hydrogen atoms on the right equal those in the starting hydrocarbon. Check hydrogen as well as carbon, because equations that balance only carbon are a common error.

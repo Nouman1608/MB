@@ -234,8 +234,8 @@ Common slips are miscounting environments because equivalent groups were not spo
 **How should you approach a combined spectroscopy question?**
 Use every piece of data: the molecular formula, the infrared spectrum for the functional group, the ¹³C spectrum for the carbon skeleton and the ¹H spectrum for the hydrogen detail. Answers that rely on NMR alone and ignore the other data lose marks.
 
-**Why does a CH₃ group next to an oxygen atom give a singlet?**
-Splitting comes from H on adjacent carbons. A CH₃ bonded to O, or to a C=O carbon, has no neighbouring H, so it appears as a singlet.
+**Why should you check your structure against the molecular formula?**
+A structure can fit the splitting pattern and still have the wrong number of atoms. Checking the final structure against the molecular formula catches this, and giving a structure without that check is a common way to lose marks.
 
 **Which OxfordAQA 9620 unit examines NMR spectroscopy?**
 NMR spectroscopy (section 3.3.15) is International A-level only and is examined in Unit 4. Unit 5, the practical and synoptic unit, may also include it.

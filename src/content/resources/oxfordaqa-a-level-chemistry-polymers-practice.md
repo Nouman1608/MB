@@ -185,8 +185,8 @@ Identify the ester or amide links, cut each C–O or C–N bond in the link, the
 **Where should a hydrogen bond be drawn between polyamide chains?**
 Draw it from the H of an N–H group on one chain to the oxygen of a C=O group on the neighbouring chain, not to another nitrogen atom.
 
-**How do you explain why polyalkenes are inert?**
-Say that the backbone has only non-polar C–C and C–H bonds, so no carbon carries a δ+ charge for a nucleophile to attack. Explaining it by "strong bonds" alone does not earn the mark.
+**What are common mistakes in polymer hydrolysis questions?**
+Frequent slips are giving the free acid as a product of alkaline hydrolysis or the free diamine as a product of acid hydrolysis. Disposal answers that give only advantages, or only problems, also lose marks.
 
 ## Official syllabus
 

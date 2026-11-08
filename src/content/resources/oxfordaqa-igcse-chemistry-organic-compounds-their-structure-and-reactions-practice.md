@@ -190,6 +190,20 @@ J is CH₃CH₂COOH. K is CH₃COOCH₃.
 - Take a [10-minute diagnostic, free](/diagnostics/), to find weak areas.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in alcohols, acids and esters questions?**
+Frequent slips include writing CO₂ and H₂O as the products when ethanol is oxidised, missing the acid catalyst for ester formation, and using one acid molecule per carbonate so the equation will not balance.
+
+**Do you need to recognise organic compounds you have not been taught by name?**
+Yes. You must recognise any alcohol, carboxylic acid or ester from its name or formula, even ones you are not asked to name, such as butanol.
+
+**How should you show the ionisation of a weak acid?**
+Use the reversible arrow, CH₃COOH ⇌ CH₃COO⁻ + H⁺, and link "weak" to partial ionisation. Using a single arrow, or not explaining partial ionisation, loses marks.
+
+**How do you answer a question asking how to tell two organic compounds apart?**
+Choose a test that gives different results for the two compounds, and give the result for both substances. Giving the result for only one loses marks.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. Questions written for: 3.10.3 Organic compounds – their structure and reactions (alcohols, carboxylic acids, esters).

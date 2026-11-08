@@ -301,6 +301,20 @@ One alcohol can therefore supply both halves of an ester: oxidise some of it to 
 - Missing the acid catalyst when describing how an ester is made.
 - Naming ethyl ethanoate as "ethanoyl ethanol", or drawing it with an O–H left on the end, which makes it an acid.
 
+## Frequently asked questions
+
+**What functional groups do alcohols, carboxylic acids and esters have?**
+Alcohols contain –OH, carboxylic acids contain –COOH and esters contain –COO– with a carbon atom on both sides. Alcohol names end in -ol and carboxylic acid names end in -oic acid.
+
+**What is the difference between a weak acid and a dilute acid?**
+"Weak" describes how much an acid ionises: a weak acid is only partly ionised. "Dilute" means there is only a small amount of acid in each dm³; a dilute strong acid still ionises fully.
+
+**What gas forms when an alcohol reacts with sodium?**
+Alcohols react with sodium to produce hydrogen, which gives a squeaky pop with a lighted splint. Two moles of alcohol react with two moles of sodium to give one mole of hydrogen.
+
+**How are the salts of carboxylic acids named?**
+The salt names end in -oate, for example sodium methanoate, calcium ethanoate and potassium propanoate.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. Notes condensed from: 3.10.3 Organic compounds – their structure and reactions (alcohols, carboxylic acids, esters).

@@ -125,8 +125,8 @@ An ICE table lists the Initial moles, the Change in moles and the Equilibrium mo
 **Should you put moles or concentrations into a Kc expression?**
 Kc uses concentrations in mol dm⁻³. Work out the equilibrium moles first, then divide each by the container volume before substituting; putting moles in directly is one of the most common errors.
 
-**How do you explain why the Contact process uses a low pressure?**
-Higher pressure would raise the yield, but the conversion is already high at low pressure, so the extra cost of high-pressure plant and energy is not worth it. Explaining the choice by yield alone, without cost, misses the point.
+**How do you answer a "state and explain" equilibrium question?**
+Name the change, say which way the position of equilibrium moves to oppose it, and state the effect on the yield. Where a choice of industrial conditions is involved, consider cost as well as yield.
 
 **Which equilibrium questions are AS and which are A2 in OxfordAQA 9620?**
 Le Chatelier's principle and Kc are AS content assessed in Unit 2. Kp, from section 3.1.12, is International A2 content assessed in Unit 4, so those questions are labelled as extensions.

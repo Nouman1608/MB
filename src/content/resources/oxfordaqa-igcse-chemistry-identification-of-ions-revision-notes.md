@@ -245,6 +245,20 @@ The nitrate and the other positive ion stay dissolved, so they are left out.
 - Naming the ion when the question asks for the compound, or writing an unbalanced formula such as AlSO₄.
 - In the flame test practical, giving no way to stop contamination between samples.
 
+## Frequently asked questions
+
+**What colour precipitates do iron(II), iron(III) and copper(II) ions give with sodium hydroxide?**
+Iron(II) gives a green precipitate, iron(III) a brown precipitate and copper(II) a blue precipitate. A green iron(II) precipitate left in air slowly turns brown, so record the first colour you see.
+
+**What colour precipitates do halide ions give with silver nitrate?**
+After acidifying with dilute nitric acid, chloride ions give a white precipitate, bromide a cream precipitate and iodide a yellow precipitate.
+
+**Why can sodium contamination spoil a flame test?**
+Sodium compounds are everywhere and give a strong yellow flame that can hide other colours, especially lilac. Clean the wire and check it gives no colour before each sample.
+
+**Why should you use a fresh portion of the unknown for each test?**
+Reagents from one test can interfere with the next. For example, barium chloride and hydrochloric acid both add chloride ions, so a halide test on that portion would give a false positive.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. Scope of these notes: section 3.4.3 Identification of ions, with the flame test required practical from section 6.2.

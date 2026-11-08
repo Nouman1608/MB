@@ -187,8 +187,8 @@ Learn the ideas first in the [optical isomerism study guide](/resources/oxfordaq
 **What are the most common mistakes in optical isomerism questions?**
 Common slips include calling a carbon chiral when two of its groups are the same, leaving "non-superimposable" out of the meaning of enantiomers, and drawing structural formulas with every bond flat so the two enantiomers look identical.
 
-**What must a racemate formation answer include?**
-Name the planar carbon, say it can be attacked from either side, and state that each direction of attack is equally likely, so the two enantiomers form in equal amounts. Missing any of these points loses marks.
+**Which unit examines optical isomerism in OxfordAQA 9620 Chemistry?**
+Optical isomerism (section 3.3.7) is International A-level only and is assessed in Unit 4, with Unit 5 able to draw on any content.
 
 **Does a symmetrical ketone give a chiral product with KCN?**
 No. With a symmetrical ketone, or with methanal, the new carbon carries two identical groups, so the product has no chiral centre and is not a racemate.

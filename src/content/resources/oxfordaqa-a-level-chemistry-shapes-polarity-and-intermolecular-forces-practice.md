@@ -205,8 +205,8 @@ Yes. Section 3.1.3 Bonding is International AS content. It sits in Unit 1, and U
 **What are the most common mistakes in bonding and shapes questions?**
 Frequent slips are writing "bonds break" for a molecular substance, stating a bond angle without the lone-pair reasoning, and forgetting the charge of an ion when counting electron pairs.
 
-**How do you count electron pairs for a negative ion?**
-Add the central atom's outer electrons, one for each bonded atom where appropriate, and one extra electron for each negative charge, then halve the total. For ICl₄⁻, 7 + 4 + 1 = 12 electrons gives 6 pairs, 4 bonding and 2 lone, so the shape is square planar.
+**How do you count electron pairs around a central atom in an ion?**
+Count the central atom's outer electrons and the electrons used in bonding, then add one electron for each negative charge or remove one for each positive charge before halving. Forgetting the charge of an ion is a common error.
 
 **How should you compare the melting points of two substances?**
 Name the forces or bonds in both substances, say which are stronger, and link this to the energy needed to overcome them. Writing "weaker forces" without saying which forces, or describing only one substance, loses marks.

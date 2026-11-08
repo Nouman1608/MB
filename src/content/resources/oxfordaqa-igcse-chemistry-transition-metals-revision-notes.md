@@ -263,6 +263,20 @@ Exam questions may name a use and ask for the property behind it. Name the prope
 - Giving a fact about one metal only when the question says "compare".
 - Saying a catalyst is used up, or that it changes the amount of product rather than the rate.
 
+## Frequently asked questions
+
+**Why is mercury an exception among the transition metals?**
+Mercury is a liquid at room temperature and melts at −39 °C, lower than any Group 1 metal. Its density, 13.5 g/cm³, is still far higher than any Group 1 metal, so the exception applies only to melting point.
+
+**How do you work out the charge on a transition metal ion from a formula?**
+Divide the total negative charge by the number of metal ions. In V₂O₅, five oxide ions give 10−, so each of the two vanadium ions is V⁵⁺: vanadium(V) oxide.
+
+**How can you tell a transition metal ion from an aluminium ion with sodium hydroxide?**
+Transition metal ions such as copper(II), iron(II) and iron(III) give coloured precipitates. Aluminium, which is in Group 3, gives a white precipitate that dissolves in excess sodium hydroxide.
+
+**Are transition metals unreactive?**
+No. They are much less reactive than Group 1 metals, but not unreactive: iron rusts and hot iron wool burns in oxygen. Use comparative words such as less vigorous or slower.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.7.2 Transition metals, statements a and b.

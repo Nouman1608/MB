@@ -255,6 +255,20 @@ Links: [course hub](/boards/oxfordaqa/igcse/chemistry/) · [checklist](/checklis
 
 Work through the [practice questions](/resources/oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests-practice/), then go back to the [study guide](/resources/oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests/) for anything you got wrong. The [exam preparation guide](/resources/oxfordaqa-igcse-chemistry-exam-preparation/) covers technique across the course, and the [identification of ions guide](/resources/oxfordaqa-igcse-chemistry-identification-of-ions/) continues chemical analysis with flame tests and precipitates. Find weak spots with the [free 10-minute diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What are the stationary and mobile phases in paper chromatography?**
+The stationary phase is the paper, which does not move, and the mobile phase is the solvent, which moves through it. A component that is more soluble in the solvent travels further up the paper.
+
+**Why must the baseline be drawn in pencil?**
+Pencil does not dissolve in the solvent, whereas an ink line could run and spoil the chromatogram. The solvent level must also start below the baseline so the spots are not washed off.
+
+**Why must litmus paper be damp for gas tests?**
+Gases such as ammonia and chlorine only act as alkalis or acids once they have dissolved in water. Damp litmus provides that water, so the colour change can happen.
+
+**How can you tell ammonia from chlorine?**
+Both have a sharp, choking smell, so smell cannot tell them apart. Use damp litmus: ammonia turns red litmus blue, while chlorine turns blue litmus red and then bleaches it.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. These notes cover section 3.4.1 Purity and chromatography and section 3.4.2 Identification of common gases.

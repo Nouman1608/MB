@@ -280,6 +280,23 @@ Compared with Group 1, transition metals are much less reactive, so they do not 
 
 Condense this page with the [Transition metals revision notes](/resources/oxfordaqa-igcse-chemistry-transition-metals-revision-notes/), then try the [Transition metals practice questions](/resources/oxfordaqa-igcse-chemistry-transition-metals-practice/). The [Metals study guide](/resources/oxfordaqa-igcse-chemistry-metals/) covers copper's uses and the reactivity series, and the [atomic structure study guide](/resources/igcse-oxfordaqa-chemistry-atomic-structure-and-periodic-table/) explains how the table is arranged.
 
+## Frequently asked questions
+
+**Where are the transition metals in the periodic table?**
+The transition metals make up the wide central block of the periodic table, between Groups 2 and 3. The first row runs from scandium to zinc.
+
+**What are the typical properties of transition metals?**
+The OxfordAQA 9202 specification says many transition metals have ions with different charges, form coloured compounds and are useful as catalysts. Not every transition metal shows every property; zinc, for example, forms only Zn²⁺ and its compounds are white.
+
+**How do transition metals compare with Group 1 metals?**
+Transition metals have higher melting points (except mercury) and higher densities, are stronger and harder, and are much less reactive with water and oxygen than Group 1 metals.
+
+**What does the Roman numeral in a transition metal compound's name mean?**
+The Roman numeral gives the charge on the metal ion, not the number of metal atoms. Iron(III) oxide contains Fe³⁺ ions, so its formula is Fe₂O₃.
+
+**Which transition metals are used as industrial catalysts?**
+Iron is the catalyst in the Haber process for making ammonia, and vanadium(V) oxide is the catalyst in stage 2 of the contact process. Catalysts give more product in a given time and are not used up, which reduces costs.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.7.2 Transition metals, statements a and b.
