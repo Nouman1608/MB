@@ -242,6 +242,23 @@ A strong answer weighs the factors rather than listing them. For a farm crop, th
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-economics-supply-and-price-elasticity-of-supply-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-economics-supply-and-price-elasticity-of-supply-revision-notes/). For earlier topics, see [markets revision notes](/resources/oxfordaqa-a-level-economics-markets-revision-notes/) and [markets practice](/resources/oxfordaqa-a-level-economics-markets-practice/).
 
+## Frequently asked questions
+
+**Why does the supply curve slope upward?**
+A higher price raises profit per unit, which gives existing firms an incentive to produce more and attracts new firms. Extra output usually costs more per unit once capacity is stretched, so a higher price is needed to justify it.
+
+**How do you calculate price elasticity of supply?**
+Divide the percentage change in quantity supplied by the percentage change in price, finding each change from its old value. A result above 1 is elastic and below 1 is inelastic.
+
+**What causes the supply curve to shift?**
+Changes in costs of production, technology and productivity, indirect taxes and subsidies, the number of firms, the prices of other goods firms could produce, weather and producers' expectations of future prices all shift supply.
+
+**Why is the supply of crops inelastic in the short run?**
+A crop takes a season to grow and land and labour are already committed, so output cannot rise quickly when price rises. Stocks may also be low and the product perishable.
+
+**How do I tell the elasticity of a straight supply curve without calculating?**
+A line through the origin has PES of 1, a line that meets the price axis has PES above 1, and a line that meets the quantity axis has PES below 1 at every point.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, sections 3.1.2.3 and 3.1.2.4, with quantitative skills in section 3.5. For International AS exams May/June 2021 onwards and International A-level exams May/June 2022 onwards.

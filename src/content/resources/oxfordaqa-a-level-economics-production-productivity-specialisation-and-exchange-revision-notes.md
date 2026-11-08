@@ -224,6 +224,23 @@ Causes of rising labour productivity to quote: more capital per worker, better t
 - Calling barter impossible instead of inefficient.
 - Giving the formula without units or a conclusion.
 
+## Frequently asked questions
+
+**What is labour productivity?**
+Labour productivity is the output obtained for each worker, or for each worker-hour. It is calculated as total output divided by the number of workers or by total hours worked.
+
+**What is the difference between specialisation and division of labour?**
+Specialisation is focusing on a narrow set of tasks or products and can apply to a worker, firm or country. Division of labour is specialisation within production, splitting a job into stages done by different workers.
+
+**What are the costs of division of labour?**
+Repetitive work can lower motivation and raise absence and turnover, one weak stage can limit the whole process, narrow skills make it harder to change jobs, and coordination needs rise.
+
+**Why does specialisation need money?**
+Specialists must exchange to get the goods they do not make. Barter needs a double coincidence of wants, so money as a medium of exchange saves search time and lets specialisation spread.
+
+**Why does the natural environment matter for production?**
+The environment supplies inputs such as water, soil, timber and minerals, and production can damage it through pollution and depletion. Output that reduces future inputs may not be sustainable.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Economics (9640)* specification, version 1.2, sections 3.1.3.1 and 3.1.3.2, with section 3.5 (quantitative skills). First teaching September 2020.

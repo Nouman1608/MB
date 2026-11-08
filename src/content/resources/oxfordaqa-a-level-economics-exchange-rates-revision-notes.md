@@ -241,6 +241,23 @@ Build each judgement as a chain, then qualify it.
 - Treating intervention as free and without limits.
 - Ending without a judgement on size, time lags or spare capacity.
 
+## Frequently asked questions
+
+**What is the difference between depreciation and devaluation?**
+Depreciation is a fall in a currency's value under a floating system, caused by market forces. Devaluation is a deliberate fall in the official rate under a fixed or managed system.
+
+**What causes a currency to appreciate in a free float?**
+A currency appreciates when demand for it rises or supply falls, for example because of higher interest rates relative to abroad, higher productivity or quality, a rise in FDI inflows, or speculators expecting a rise.
+
+**What is herding behaviour in currency markets?**
+Herding means traders copy each other instead of judging fundamentals. It strengthens self-fulfilling speculation, so exchange rates can overshoot and then fall back sharply.
+
+**Does a depreciation always improve the trade balance?**
+No. The trade balance improves only if the rise in export earnings exceeds the rise in import spending, which needs high enough price elasticities of demand for exports and imports. Low elasticities, common in the short run, can worsen it.
+
+**What does the IMF do?**
+The IMF promotes international monetary cooperation and exchange rate stability, lends to members with balance of payments difficulties (usually with conditions), monitors members' economies and gives policy advice, and provides technical assistance.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, first teaching September 2020, published by OxfordAQA: section 3.4.2.2.

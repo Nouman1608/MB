@@ -241,6 +241,23 @@ Tariff identity: loss of CS = gain in PS + tariff revenue + DWL.
 - Naming creative destruction without a chain showing profit, entry and innovation.
 - Stating a conclusion about welfare without saying who gains, who loses and what it depends on.
 
+## Frequently asked questions
+
+**What is creative destruction in A-level Economics?**
+Creative destruction is the process in which large profits from monopoly power attract new firms that innovate their way past barriers to entry. The new product or process destroys the old firm's position, and the OxfordAQA 9640 specification calls it a fundamental feature of competition in a market economy.
+
+**What is the difference between productive and allocative efficiency?**
+Productive efficiency means producing at the minimum point of average total cost, where MC = ATC. Allocative efficiency means price equals marginal cost, so output matches what consumers value.
+
+**What is X-inefficiency?**
+X-inefficiency is when a firm's actual average cost is above the lowest cost it could achieve. Its cost curve sits too high, which is different from productive inefficiency, where the firm is at the wrong point on its cost curve.
+
+**What happens to consumer surplus under perfect price discrimination?**
+Output rises to the competitive level and the deadweight loss disappears, but consumer surplus falls to zero because the firm takes all the surplus as producer surplus.
+
+**Can static efficiency conflict with dynamic efficiency?**
+Yes. A monopoly may create a deadweight loss now but use its profit to fund innovation that lowers costs later, so judging it on static efficiency alone misses part of the picture.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, sections 3.3.3.8 to 3.3.3.10. First teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022. Published by OxfordAQA.

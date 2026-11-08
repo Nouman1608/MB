@@ -132,6 +132,23 @@ Learn the content first from the [study guide](/resources/oxfordaqa-a-level-econ
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class: [trial](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on balance of payments questions?**
+Common losses are naming a deficit without saying which account or giving its sign, leaving out profit outflows when judging FDI, applying elasticity to the wrong price after a currency fall, and describing a policy without saying whether it cuts or switches spending.
+
+**How do I include FDI in a current account calculation?**
+Add the export earnings, subtract imported inputs and subtract the profit sent abroad, which is a debit on primary income. Leaving out the profit outflow overstates the benefit.
+
+**How do I work out the cut in aggregate demand needed to reduce imports?**
+First divide the target fall in imports by the marginal propensity to import to find the fall in income needed, then divide that by the multiplier to find the cut in aggregate demand.
+
+**How should I choose between policies to correct a deficit?**
+Use the data on the economy, such as unemployment, inflation and elasticities, to match the policy to the cause, and reach a supported judgement about which fits best.
+
+**Which OxfordAQA 9640 section do these questions cover?**
+They cover section 3.4.2.1, the balance of payments, of the OxfordAQA International AS and A-level Economics (9640) specification, which is International A2 content.
+
 ## Official syllabus
 
 Source: OxfordAQA, International AS and A-level Economics (9640), specification version 1.2, for International AS exams from May/June 2021 onwards and International A-level exams from May/June 2022 onwards. These questions cover section 3.4.2.1.

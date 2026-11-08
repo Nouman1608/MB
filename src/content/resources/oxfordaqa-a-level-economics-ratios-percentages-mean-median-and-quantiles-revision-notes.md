@@ -208,6 +208,23 @@ Step 1: the capital's mean is 29% above its median, so a few high earners are ra
 </figure>
 
 
+## Frequently asked questions
+
+**What is the difference between a ratio and a fraction?**
+A ratio compares parts, while a fraction is one part out of the whole. A ratio of 3:5 has 8 parts in total, so the first part is 3/8 of the whole, not 3/5.
+
+**Why are successive percentage changes multiplied rather than added?**
+Each change applies to a new base. A 10% rise followed by a 10% fall gives 1.10 times 0.90, which is 0.99, a fall of 1%, not zero.
+
+**When is the median a better measure than the mean?**
+When data are skewed by a few very high values, the mean is pulled up while the median stays near the typical case. The median ignores how far the top values go, so it is worth comparing both.
+
+**What is the interquartile range?**
+The interquartile range is the third quartile minus the first quartile, so it measures the spread of the middle half of the data and is less affected by extreme values than the range.
+
+**Do I need quantiles for OxfordAQA 9640 AS exams?**
+In section 3.5 of the OxfordAQA 9640 specification, only quantiles carry an A2 note: for A2 assessments you must also understand and use relevant quantiles. Ratios, percentages, the mean and the median could be assessed in any assessment.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, section 3.5 Quantitative skills (QS1, QS2 and QS3). First teaching September 2020; first International AS exams May/June 2021; first International A-level exams May/June 2022. Published by OxfordAQA.

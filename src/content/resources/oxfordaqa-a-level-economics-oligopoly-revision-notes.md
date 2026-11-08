@@ -225,6 +225,23 @@ R&D lets firms compete without price cuts but is uncertain. R&D intensity = R&D 
 - Calling any barrier innocent or strategic without saying who creates it.
 - Leaving out units, such as Q in thousands or profit in £ thousand.
 
+## Frequently asked questions
+
+**What is the difference between tacit and overt collusion?**
+Overt collusion is an open or formal agreement on price, output or market shares, such as a cartel. Tacit collusion is coordination without a formal agreement, for example following a price leader.
+
+**What is the difference between predatory pricing and limit pricing?**
+Predatory pricing sets price below cost to drive out a rival or deter entry. Limit pricing sets price low enough to make entry unprofitable, but still above cost.
+
+**What makes collusion more likely to succeed?**
+Collusion is helped by few firms, similar products and costs, stable demand, hard entry and easy detection of cheating. Many firms, differing costs, unstable demand and easy entry hinder it.
+
+**What is the difference between innocent and strategic barriers to entry?**
+Innocent barriers arise from the market itself, such as economies of scale or high capital costs. Strategic barriers are created or used by incumbents, such as limit pricing, heavy advertising, excess capacity and exclusive contracts.
+
+**Does a high concentration ratio prove collusion?**
+No. A high concentration ratio suggests oligopoly, but whether firms collude depends on their conduct, so treating a high ratio as proof of collusion loses marks.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, first teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022; published by OxfordAQA.

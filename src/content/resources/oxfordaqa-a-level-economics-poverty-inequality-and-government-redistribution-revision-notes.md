@@ -229,6 +229,23 @@ Real value = nominal value × 100 / price index. A wage of 36,000 when prices ha
 - Concluding without saying which value judgement the conclusion rests on.
 - Treating the Gini as a measure of living standards.
 
+## Frequently asked questions
+
+**What is the difference between absolute and relative poverty?**
+Absolute poverty means income below the cost of a fixed basket of basic necessities. Relative poverty means income below a share of typical income, often 60% of the median.
+
+**What is the poverty trap?**
+The poverty trap occurs when extra earnings are mostly lost through withdrawn means-tested benefits and tax, so the combined marginal rate is high and the reward for working more is weak.
+
+**Do I need to calculate a Gini coefficient for OxfordAQA 9640?**
+No. You need to interpret Lorenz curves and Gini coefficients but are not asked to calculate a Gini. State which distribution is more equal and add a limitation of the measure.
+
+**Why is wealth usually more unequal than income?**
+Income allows saving, saving builds assets and assets earn income and rise in value, so the two reinforce each other. Inheritance and rising asset prices also reward existing owners.
+
+**Does equal percentage growth reduce relative poverty?**
+No. If all incomes grow by the same percentage, the median and the relative poverty line rise by the same proportion, so relative poverty is unchanged, although absolute poverty can fall.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, sections 3.3.5.1 and 3.3.5.2. Check the current specification at oxfordaqaexams.org.uk/economics.

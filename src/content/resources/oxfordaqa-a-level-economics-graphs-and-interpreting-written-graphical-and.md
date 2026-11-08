@@ -234,6 +234,23 @@ A strong data answer follows a chain: the figure, what it means, why it matters,
 - Quoting a figure without the unit or year.
 - Stating a cause from a correlation alone.
 
+## Frequently asked questions
+
+**Why is price on the vertical axis in a supply and demand diagram?**
+Economics diagrams are an exception to the usual rule of putting the independent variable on the horizontal axis. By convention price goes on the vertical axis, even though price is usually the cause.
+
+**Can output still be below its previous peak when growth is positive?**
+Yes. A growth rate describes the slope of the level graph, not its height, so output can be recovering and still be lower than before a downturn.
+
+**How can a graph be misleading?**
+A truncated axis that starts above zero exaggerates small changes, two lines on different scales can be made to look related, and a pie chart shows shares but hides whether the total changed.
+
+**How should I interpret a written extract in a data-response question?**
+Extract the figures and who said them, quantify them as a percentage, ratio or gradient, connect the result to a concept such as elasticity, and judge what the evidence cannot show.
+
+**What are QS4 and QS9 in OxfordAQA Economics?**
+In the OxfordAQA International AS and A-level Economics (9640) specification, QS4 is constructing and interpreting a range of standard graphical forms, and QS9 is interpreting, applying and analysing information in written, graphical and numerical forms.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, section 3.5 Quantitative skills, items QS4 and QS9. Published by OxfordAQA.

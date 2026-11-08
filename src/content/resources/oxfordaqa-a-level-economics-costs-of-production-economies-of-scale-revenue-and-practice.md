@@ -145,6 +145,23 @@ Stuck? Go back to the [study guide](/resources/oxfordaqa-a-level-economics-costs
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - Ready for more help? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on costs and economies of scale questions?**
+Common losses are dividing by the wrong output, forgetting to subtract fixed cost to find variable cost, explaining the U-shape of the short-run average cost curve with economies of scale, and naming a diseconomy without saying why unit cost rises.
+
+**How do I tell whether an economy of scale is internal or external?**
+Ask whether the growth is of the firm itself or of the industry or area. Internal economies come from the firm's own growth, while external economies come from the growth of the industry or location and benefit all firms there.
+
+**Is the minimum efficient scale a cost or an output?**
+The minimum efficient scale is an output: the smallest output at which long-run average cost reaches its lowest level. Give it with units of output, not as a cost figure.
+
+**How should I answer a 10-mark evaluate question on whether expansion will lower average costs?**
+Apply each point to the firm in the question, weigh economies of scale against possible diseconomies, demand and time lags, and finish with a conclusion that names the conditions under which the answer would change.
+
+**Which OxfordAQA 9640 sections do these practice questions cover?**
+They cover sections 3.1.3.3 to 3.1.3.5 of the OxfordAQA International AS and A-level Economics (9640) specification: costs of production, economies and diseconomies of scale, and average revenue, total revenue and profit.
+
 ## Official syllabus
 
 Source document: the OxfordAQA specification for International AS and A-level Economics (9640), version 1.2: sections 3.1.3.3 to 3.1.3.5 and quantitative skills in 3.5.

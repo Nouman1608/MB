@@ -235,6 +235,20 @@ Worked reminder 3: if MES is 250 units and the market takes 1,000 units, the mar
 - Drawing an LRAC that lies above part of an SRAC curve; it touches each SRAC at one point and never rises above it.
 - Describing a diagram without naming axes and curves.
 
+## Frequently asked questions
+
+**What is the difference between diminishing returns and decreasing returns to scale?**
+Diminishing returns apply in the short run, with one input fixed, when extra units of a variable input add less and less output. Decreasing returns to scale apply in the long run, when all inputs rise together and output rises proportionally less.
+
+**Why does marginal cost cut average total cost at its lowest point?**
+When marginal cost is below average total cost, each extra unit costs less than the average and pulls it down; when it is above, it pulls the average up. So the two curves meet at the minimum of ATC.
+
+**Does a rise in fixed cost change marginal cost?**
+No. A rise in fixed cost raises total cost and average total cost, but it leaves marginal cost and average variable cost unchanged.
+
+**Why can the long-run average cost curve be L-shaped?**
+LRAC falls steeply at first and then flattens, because a firm can often copy a plant it already runs well, so average cost need not rise at large outputs. The OxfordAQA 9640 specification names this shape explicitly; a U-shape is the alternative if diseconomies appear.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, sections 3.3.2.1, 3.3.2.2 and 3.3.2.3 and section 3.5. First teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022. Published by OxfordAQA.

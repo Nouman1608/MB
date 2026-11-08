@@ -144,6 +144,23 @@ These questions follow the OxfordAQA International AS and A-level Economics (964
 - Test yourself with all free 10-minute [diagnostics](/diagnostics/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**Where do students lose marks on supply and PES questions?**
+Common losses are using the new value as the base for a percentage change, giving a PES figure without saying whether supply is elastic or inelastic, describing an own-price change as a shift, and shifting the curve the wrong way for a tax or subsidy.
+
+**How do I find market supply from two firms' supply equations?**
+Add the quantities the firms supply at each price, then calculate any percentage change from those totals. Adding the two firms' elasticities is a common error.
+
+**Why does PES differ between the short run and the long run?**
+Over a longer period firms can build capacity, train workers and enter the market, so quantity supplied responds more. Link the explanation to the product and the time period in the question.
+
+**Should I explain elasticity of supply using the slope of the curve?**
+No. Elasticity depends on percentage changes, so two straight lines with the same slope can have different elasticities. Explain changes in PES with percentages rather than steepness.
+
+**Which OxfordAQA 9640 sections do these questions cover?**
+They cover sections 3.1.2.3 (the supply of goods and services) and 3.1.2.4 (price elasticity of supply) of the OxfordAQA International AS and A-level Economics (9640) specification, which is International AS content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, sections 3.1.2.3 and 3.1.2.4, with quantitative skills in section 3.5. For International AS exams May/June 2021 onwards and International A-level exams May/June 2022 onwards.

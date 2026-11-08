@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Condensed recall notes on methodology, demand and supply, elasticity, costs, market structures and market failure for International A Level Economics."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -249,3 +251,19 @@ Negative and positive externalities, public goods (**non-excludable and non-riva
   <figcaption>Buyers cannot tell good from bad, so the offer is too low for sound vans to sell.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does capital mean in economics?**
+Capital means machinery, tools and buildings used in production, not money. Money is used to buy capital.
+
+**Why is a production possibility curve concave to the origin?**
+Resources are not perfectly substitutable between uses, so the opportunity cost of producing more of one good rises as more of it is produced.
+
+**Do economies of scale reduce total cost?**
+No. Economies of scale reduce average cost; total costs still rise as output rises.
+
+**What defines an oligopoly?**
+An oligopoly is defined by interdependence: each firm's best action depends on how rivals respond. This tends to produce price rigidity, non-price competition and an incentive to collude.
+
+**Is monopoly always bad for consumers?**
+Not automatically. A monopoly may gain economies of scale and fund research, so a balanced answer weighs higher prices and restricted output against those possible benefits.

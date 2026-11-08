@@ -117,6 +117,23 @@ These questions cover monetary policy (specification section 3.2.4.1) in OxfordA
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on monetary policy questions?**
+Common losses are using Year 1 as the base for every year's inflation rate, mixing up percentages and percentage points, multiplying instead of dividing when converting currency, stating that the government sets interest rates, and ending the chain at "spending falls".
+
+**How do I calculate inflation for several years from a price index?**
+Measure each year's rate against the year before it, not against the first year. Divide the change in the index by the previous year's value and multiply by 100.
+
+**How should I explain how interest rates affect aggregate demand?**
+Name a transmission channel, such as borrowing costs or saving, and follow it through to a component of aggregate demand and then to prices or output. Naming channels without their effects earns less.
+
+**How should I evaluate a monetary policy response to inflation?**
+Separate the cause of the inflation from the tool, consider the output gap, elasticities and timing, and end with a supported judgement. Recommending a rate rise for cost-push inflation without weighing the lost output loses marks.
+
+**Which OxfordAQA 9640 section do these questions cover?**
+They cover section 3.2.4.1, monetary policy, of the OxfordAQA International AS and A-level Economics (9640) specification, which is International AS content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), version 1.2, published by OxfordAQA: section 3.2.4.1 Monetary policy and section 3.5 Quantitative skills.

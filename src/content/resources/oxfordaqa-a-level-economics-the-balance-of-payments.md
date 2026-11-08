@@ -225,6 +225,23 @@ For a surplus, the reverse applies: expansionary policy, a higher exchange rate 
 - Listing policies without saying whether they cut spending or switch it.
 - Forgetting the side effects on inflation, growth and unemployment.
 
+## Frequently asked questions
+
+**What is the difference between FDI and portfolio investment?**
+FDI is investment in productive assets abroad with a lasting interest and some control, such as building a plant. Portfolio investment is buying financial assets such as shares and bonds for a return, with no control, and it can reverse quickly.
+
+**When does a current account deficit matter?**
+A deficit matters through its cause, size and financing. It adds to foreign claims, so income flows out later, it depends on lenders' confidence, and it may reflect weak competitiveness.
+
+**Why can a currency depreciation worsen the trade balance at first?**
+Elasticities tend to be low in the short run, so import volumes fall little while import prices rise. The import bill can then rise faster than export earnings until buyers find alternatives.
+
+**What are the side effects of correcting a deficit?**
+Higher taxes, lower spending or higher interest rates cut growth and employment, a lower exchange rate adds imported inflation, tariffs raise prices and risk retaliation, and supply-side measures are costly and slow.
+
+**What are the benefits and costs of FDI for the receiving country?**
+FDI can bring capital, technology, jobs, higher productivity, exports and tax revenue, and it finances a deficit. Costs include profits sent abroad, local firms being squeezed out and loss of control over key industries.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Economics (9640)*, specification version 1.2, section 3.4.2.1 (the balance of payments), for International AS exams from May/June 2021 and International A-level exams from May/June 2022.

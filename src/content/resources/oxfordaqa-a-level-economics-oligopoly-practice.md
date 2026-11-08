@@ -156,6 +156,23 @@ These questions cover section 3.3.3.4 (Oligopoly) of the OxfordAQA International
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on oligopoly questions?**
+Common losses are skipping the working for concentration ratios, using the wrong demand segment in kinked demand questions, using the demand slope instead of the MR slope, giving cartel profit without dividing by the number of firms, and describing barriers without saying who creates them.
+
+**Which part of the kinked demand curve should I use for a price rise?**
+Use the demand segment above the kink, which is elastic because rivals are assumed not to follow a price rise. For a price cut, use the segment below the kink.
+
+**How do I show that cheating on a cartel pays for one firm?**
+Recalculate the market price using total market output, including the cheating firm's extra output, then compare each firm's profit with its cartel profit. Using only the cheating firm's output gives the wrong price.
+
+**How should I evaluate whether oligopoly benefits consumers?**
+Compare competitive and collusive cases, weigh benefits such as R&D and variety against higher prices and barriers, and reach a conclusion for the market in the question.
+
+**Which OxfordAQA 9640 section do these questions cover?**
+They cover section 3.3.3.4, Oligopoly, of the OxfordAQA International AS and A-level Economics (9640) specification, which is International A2 content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, first teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022; published by OxfordAQA.

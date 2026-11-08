@@ -208,6 +208,23 @@ Reminder: nominal income 5,250 with a price index of 105 gives 5,250 / 105 x 100
 - Dropping the division by total weights in a weighted index.
 - Concluding that living standards rose from nominal data alone.
 
+## Frequently asked questions
+
+**How do you calculate a weighted price index?**
+Multiply each category index by its weight, add the products and divide by the total of the weights. A larger weight means a price change in that category moves the overall index more.
+
+**How do you convert a nominal value into real terms?**
+Divide the nominal value by the price index and multiply by 100, then state the price year, for example "in base-year prices".
+
+**How do you rebase an index to a new base year?**
+Divide each old index value by the old index value of the new base year and multiply by 100. The new base year then shows exactly 100.
+
+**Why might an official price index not match a household's experience?**
+An average index may not fit a household with unusual spending. A household that spends more on a fast-rising category faces a higher personal inflation rate, and out-of-date weights can miss changes in spending patterns.
+
+**What is the difference between the price level and inflation?**
+The price index measures the price level. Inflation is the percentage rate of change of that index, and deflation shows as a falling index.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, section 3.5 Quantitative skills (QS5 and QS7), with related content in 3.2.1.2 and 3.2.2.1. First teaching September 2020; first International AS exams May/June 2021; first International A-level exams May/June 2022. Published by OxfordAQA.

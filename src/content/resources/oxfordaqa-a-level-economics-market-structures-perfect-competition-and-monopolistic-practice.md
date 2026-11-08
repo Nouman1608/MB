@@ -128,6 +128,23 @@ The questions test sections 3.3.3.1 to 3.3.3.3 of the OxfordAQA *International A
 - Try all the free [10-minute diagnostics](/diagnostics/).
 - Need help? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on perfect and monopolistic competition questions?**
+Common losses are drawing a sloping demand curve for a perfectly competitive firm, shutting down whenever price is below average cost without checking AVC, reading price from the MR curve instead of the demand curve, and missing excess capacity in the long-run diagram.
+
+**Should a firm shut down whenever price is below average cost?**
+No. In the short run, compare price with average variable cost: a firm covering its variable costs keeps producing because it contributes to fixed costs. In the long run it must cover all its costs.
+
+**Where do I read the price in a monopolistic competition diagram?**
+Find the output where MR equals MC, then read the price from the demand (AR) curve above that output, not from the MC or MR curve.
+
+**How should I evaluate whether perfect competition allocates resources efficiently?**
+Test the assumptions behind the efficiency proposition, such as no externalities, perfect knowledge and free entry, and finish with a reasoned judgement rather than quoting efficiency without its assumptions.
+
+**Which OxfordAQA 9640 sections do these questions cover?**
+They cover sections 3.3.3.1 to 3.3.3.3 of the OxfordAQA International AS and A-level Economics (9640) specification: market structures, perfect competition and monopolistic competition, which are International A2 content.
+
 ## Official syllabus
 
 Source: the OxfordAQA *International AS and A-level Economics* specification (9640), version 1.2, sections 3.3.3.1 to 3.3.3.3 and quantitative skills in 3.5.

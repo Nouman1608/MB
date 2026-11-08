@@ -282,6 +282,23 @@ Elasticity values are estimates. They assume the other influences on demand stay
 - Saying "elastic" when the value is between 0 and 1.
 - Using the PED rule for revenue on a large price change without checking price × quantity.
 
+## Frequently asked questions
+
+**Why does the demand curve slope downwards?**
+A higher price usually means fewer buyers can afford the product, and some buyers switch to alternatives. So quantity demanded falls as price rises.
+
+**Do social and emotional factors affect demand in OxfordAQA 9640 Economics?**
+Yes. The OxfordAQA 9640 specification says spending decisions are influenced by social and emotional factors, such as following fashion, buying for status, habit or comfort spending. These change the amount wanted at every price, so they shift the demand curve.
+
+**Why is demand for one brand more price elastic than demand for the product as a whole?**
+A single brand has close substitutes in other brands, so a price rise sends buyers elsewhere. The product as a whole has few outside substitutes, so its demand is less elastic.
+
+**How do firms use income elasticity of demand for forecasting?**
+Multiplying the expected percentage change in income by YED gives the expected percentage change in demand. For example, a 4% rise in income and a YED of +1.5 suggests demand rises about 6%, other things equal.
+
+**What are the limitations of elasticity values?**
+Elasticity values are estimates that assume other influences on demand stay the same, while in practice incomes, tastes and rival prices change together. PED also tends to rise over time, so short-run estimates can mislead.
+
 ## Official syllabus
 
 The source is the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, published by Oxford International AQA Examinations: sections 3.1.2.1 and 3.1.2.2, with quantitative skills QS2 and QS8 from section 3.5. Check the current version on the OxfordAQA website.

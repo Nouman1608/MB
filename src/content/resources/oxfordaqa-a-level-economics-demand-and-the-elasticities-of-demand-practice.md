@@ -139,6 +139,23 @@ The questions cover sections 3.1.2.1 and 3.1.2.2 of OxfordAQA's economics specif
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students usually lose marks on elasticity of demand questions?**
+Common losses are using absolute changes instead of percentage changes, dropping the sign on income or cross elasticity and so misreading the good, writing "shift" for a price change, and leaving a numerical answer with no statement of what it means.
+
+**Does a change in the good's own price shift the demand curve?**
+No. A change in the good's own price causes a movement along the demand curve. Any other influence, such as income or the price of a substitute, shifts the whole curve.
+
+**Can I rely on the PED revenue rule for a large price change?**
+The rule is weaker for large changes. When the price change is large, calculate price times quantity before and after rather than predicting the revenue change from the elasticity value alone.
+
+**How do I reach the top marks on an evaluate question about pricing?**
+Avoid one-sided lists. Explain each evaluative point, such as the effect on costs and profit or how elasticity changes over time, and finish with a supported judgement that states what extra information would settle the decision.
+
+**Which OxfordAQA 9640 sections do these demand and elasticity questions cover?**
+They cover sections 3.1.2.1 and 3.1.2.2 of the OxfordAQA International AS and A-level Economics (9640) specification, which is International AS content, with quantitative skills QS2 and QS8 that can appear in any unit.
+
 ## Official syllabus
 
 Source: the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, Oxford International AQA Examinations. Sections 3.1.2.1 and 3.1.2.2, with QS2 and QS8 from 3.5.

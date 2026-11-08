@@ -242,6 +242,23 @@ If 40 m cu of profit moves, the saving is 40 × 0.20 = 8 m cu.
 - Leaving out units, or mixing percentages and percentage points in an openness question.
 - Giving a list of TNC effects with no link to the host country's circumstances.
 
+## Frequently asked questions
+
+**What is globalisation?**
+Globalisation is the deepening of links between national economies through cross-border movement of goods, services, finance, labour, technology and information. It covers much more than trade alone.
+
+**What is transfer pricing?**
+Transfer pricing is the price one part of a transnational corporation charges another. Setting it to move profit into a low-tax country cuts the group's tax bill, and the high-tax country loses revenue.
+
+**What are the scale, composition and technique effects of globalisation on the environment?**
+The scale effect worsens the environment because more output means more emissions. The composition effect can go either way as industries move, and the technique effect improves it as cleaner technology spreads.
+
+**What are the main causes of globalisation?**
+Key causes include cheaper transport and communication, trade liberalisation and trading blocs, free movement of capital, emerging economies opening up, TNC cost-cutting and market-seeking, rising incomes and stable institutions.
+
+**How does a TNC exercise political influence?**
+A TNC can lobby for tax breaks or weaker rules and threaten to relocate. Its influence is strongest when it is large relative to the host economy and the government is weak or depends on its investment.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, section 3.4.1.1 Globalisation. First teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022.

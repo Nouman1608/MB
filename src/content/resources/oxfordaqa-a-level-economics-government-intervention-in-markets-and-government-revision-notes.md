@@ -240,6 +240,23 @@ Judge by comparing the size of the market failure with the likely size of the go
 
 Want to find which of these affects you most? Try a [free diagnostic](/diagnostics/).
 
+## Frequently asked questions
+
+**What is government failure?**
+Government failure is intervention that leads to a worse allocation of resources and a fall in economic welfare. Its sources include inadequate information, inappropriate or conflicting objectives, administrative costs, corruption and unintended consequences.
+
+**Who bears the burden of an indirect tax?**
+For a small tax, consumers' share is the price elasticity of supply divided by the sum of PES and the size of PED. The less elastic side of the market bears more of the tax.
+
+**What is the difference between a maximum price and a minimum price?**
+A maximum price is a legal ceiling that is binding when set below equilibrium and causes a shortage. A minimum price is a legal floor that is binding when set above equilibrium and causes a surplus.
+
+**How do tradable pollution permits work?**
+The government caps total pollution and issues permits that firms can trade. Firms with the lowest abatement costs cut the most and sell permits to high-cost firms, so the permit price settles near the abatement cost of the marginal firm.
+
+**How should I judge whether government intervention is justified?**
+Compare the size of the market failure with the likely size of the government failure. The OxfordAQA 9640 specification wants you to see that intervention can raise welfare and that it can also lower it.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, published by OxfordAQA: sections 3.1.5.7 and 3.1.5.8, with the quantitative skills in section 3.5.

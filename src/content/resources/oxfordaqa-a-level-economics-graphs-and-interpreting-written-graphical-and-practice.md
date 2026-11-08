@@ -182,6 +182,23 @@ These questions practise quantitative skills QS4 and QS9 from section 3.5 of the
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on data and graph questions?**
+Common losses are calling a change in a rate a percentage change when it is in percentage points, reading a falling inflation or growth rate as a falling price level or output, quoting figures without units or years, and stating causation from a scatter graph.
+
+**How do I take a gradient from a line of best fit?**
+Use two points on the line itself, not two of the observed data points, and divide the change in the vertical variable by the change in the horizontal variable.
+
+**Can I use a trend line to predict outside the data?**
+Predictions beyond the plotted data are less reliable, so give one only with a clear caution. Predictions inside the range of the data are safer.
+
+**How do I write a good evaluation in a data-response question?**
+Tie each limitation to something visible in the data, such as a short time period, a missing figure or a truncated axis, and reach a supported judgement. Evaluation that could be pasted onto any data set gains little.
+
+**Which OxfordAQA 9640 skills do these questions test?**
+They practise quantitative skills QS4 and QS9 from section 3.5 of the OxfordAQA International AS and A-level Economics (9640) specification, which can be assessed in any unit.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, section 3.5 Quantitative skills, items QS4 and QS9. Published by OxfordAQA.

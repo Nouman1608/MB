@@ -157,6 +157,23 @@ This set covers fiscal policy, section 3.2.4.2 of the OxfordAQA International AS
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class: [trial](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on fiscal policy questions?**
+Common losses are giving a definition that covers taxation or spending but not both, calling a tax progressive without checking the average rate, mixing up the deficit and the debt, and applying the multiplier to the whole tax cut rather than the part spent.
+
+**How do I tell whether a tax is progressive, proportional or regressive?**
+Work out the average tax rate, tax paid divided by income, at each income level. If the average rate rises with income the tax is progressive, if it stays the same it is proportional, and if it falls it is regressive.
+
+**Why does a tax cut have a smaller multiplier effect than the same rise in government spending?**
+Government spending is injected in full in the first round, but households save part of a tax cut. Apply the multiplier only to the share of the tax cut that is spent in the first round.
+
+**How should I evaluate a fiscal stimulus in an exam answer?**
+Consider the starting position of the economy, such as the size of the output gap, along with the size of the multiplier, time lags and the effect on the deficit and debt. Then reach a conclusion that says what it depends on.
+
+**Which OxfordAQA 9640 section do these fiscal policy questions cover?**
+They cover section 3.2.4.2, fiscal policy, of the OxfordAQA International AS and A-level Economics (9640) specification, which is International AS content.
+
 ## Official syllabus
 
 Source: OxfordAQA, International AS and A-level Economics (9640), specification version 1.2, for International AS exams from May/June 2021 onwards and International A-level exams from May/June 2022 onwards. These questions cover section 3.2.4.2.

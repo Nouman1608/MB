@@ -155,6 +155,23 @@ These questions cover financial markets for OxfordAQA International AS and A-lev
 - Take all free 10-minute diagnostics: [diagnostics](/diagnostics/).
 - Book a free trial class: [trial](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on financial markets questions?**
+Common losses are confusing liquidity with solvency, forgetting that bond prices and yields move in opposite directions, dividing a foreign currency amount by the wrong exchange rate, and calling a forward contract a loss without comparing it with the spot rate.
+
+**How do I judge whether a forward contract gained or lost?**
+Compare the result with what the firm would have paid or received at the spot rate at the time, not with the contract price. Remember that the purpose of a forward contract is to fix the cost and remove uncertainty.
+
+**What is the difference between a bank being illiquid and insolvent?**
+An illiquid bank cannot meet withdrawals now because it lacks cash, even though its assets may exceed its liabilities. An insolvent bank has assets worth less than its liabilities.
+
+**How should I evaluate regulation of financial markets?**
+Weigh benefits against costs and limits, such as less lending and moral hazard, and judge using the size and connections of institutions and how well rules can be enforced. Explaining regulation with no cost or limit loses marks.
+
+**Which OxfordAQA 9640 section do these questions cover?**
+They cover section 3.4.2.3, financial markets, of the OxfordAQA International AS and A-level Economics (9640) specification, which is International A2 content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, section 3.4.2.3, first teaching September 2020, published by OxfordAQA.

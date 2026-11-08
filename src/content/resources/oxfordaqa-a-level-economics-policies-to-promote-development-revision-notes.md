@@ -221,6 +221,23 @@ Using the structure above, finish every long answer with a reasoned conclusion a
 - Not stating the final judgement in an evaluation.
 - Mixing up repatriated profits (an outflow) with retained profits.
 
+## Frequently asked questions
+
+**What is the difference between market-based and interventionist development strategies?**
+Market-based strategies rely on prices, competition and private firms, through trade liberalisation, privatisation, deregulation, FDI, low taxes and floating exchange rates. Interventionist strategies let the state lead, through protectionism, public ownership, industrial strategies, public spending and managed exchange rates.
+
+**What are the advantages and disadvantages of FDI for a developing country?**
+FDI can bring capital, technology, jobs, exports, tax revenue and a multiplier effect. Against this, profits may be repatriated, inputs imported, jobs low-skilled, local firms crowded out, and the firm may leave.
+
+**What are the limitations of microfinance and fair trade?**
+Microfinance can still carry high interest, over-borrowing can create debt traps and loans rarely build large firms. Fair trade benefits only members, needs consumers willing to pay more and can encourage a surplus.
+
+**What problems does foreign aid face?**
+Aid can create dependency, be lost to corruption, come tied to purchases from the donor or to conditions, and focus on the short term. Its effect depends on targeting, monitoring and whether it supports the country's own plans.
+
+**What is the difference between aid and remittances?**
+Aid is a transfer from governments or organisations, while remittances are private flows of money sent home by workers living abroad.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, section 3.4.3.3 Policies to promote development. For International AS exams from May/June 2021 and International A-level exams from May/June 2022.

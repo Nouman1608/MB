@@ -9,13 +9,15 @@ qualifications: ["a-level"]
 syllabusCodes: ["9640"]
 syllabusSeries: "For first teaching 2020"
 order: 3
-description: "Why the two A2 papers of OxfordAQA International A-Level Economics 9640 are weighted 30% each against the AS papers' 20% each, and a worked essay-planning routine."
+description: "Why OxfordAQA International A-Level Economics 9640 weights each A2 paper at 30% and each AS paper at 20%, plus a worked routine for planning essays."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 OxfordAQA International A-Level Economics (9640) is modular, with four papers that are **not equally
@@ -119,6 +121,20 @@ more content. 3. Because A2 papers introduce substantially new material -- marke
 and development theory in depth -- that builds on but goes well beyond AS foundations. 4. A stated
 criterion for judgement, set out before the argument is built, so the closing paragraph has something
 concrete to measure the conclusion against.
+
+## Frequently asked questions
+
+**How many exam papers are there in OxfordAQA International A-level Economics 9640?**
+There are four papers. AS Paper 1 (The Operation of Markets, Market Failure and the Role of Government) and AS Paper 2 (The National Economy in a Global Environment) are at AS, and A-level Paper 1 (The Economics of Business Behaviour and the Distribution of Income) and A-level Paper 2 (Economic Development and the Global Economy) are at A2.
+
+**How long are the OxfordAQA International A-level Economics papers?**
+Each AS paper lasts 1 hour 45 minutes and is worth 80 marks. Each A2 paper lasts 2 hours and is worth 90 marks.
+
+**Is OxfordAQA International A-level Economics modular?**
+Yes. The qualification is modular, and AS content contributes 40% of the final A-level while A2 content contributes the remaining 60%.
+
+**How should I structure an extended economics essay?**
+Define key terms, state a criterion for judgement before arguing, build a clear chain of reasoning, take the counter-argument seriously and state what your conclusion depends on, then close against the criterion you set.
 
 *Written against the assessment section of OxfordAQA's own International AS/A-level Economics (9640)
 qualification page (official OxfordAQA page, verified 2026-08-28); the underlying paper weightings

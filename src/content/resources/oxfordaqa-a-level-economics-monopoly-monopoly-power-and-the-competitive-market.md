@@ -210,6 +210,23 @@ A balanced judgement usually weighs:
 - Drawing the full theory-of-the-firm diagram, when the specification asks for a demand curve and an LRAC curve.
 - Treating "competition" as only price competition.
 
+## Frequently asked questions
+
+**Why does the basic model say monopoly causes misallocation of resources?**
+A monopolist protected by barriers restricts output and charges a higher price, so some units that buyers value above their cost are not produced. Consumer surplus falls by more than the firm's profit rises, and the difference is lost to everyone.
+
+**Can monopoly lead to more innovation?**
+Possibly. Monopoly profit can fund research and patents let a firm keep the rewards, but a firm with no rivals may feel little pressure to improve, which is why the OxfordAQA 9640 specification says "possibly more".
+
+**How do firms compete apart from price?**
+Firms strive to improve products, reduce costs and improve service. Vigorous competition between large firms can benefit consumers through lower prices, better quality and more choice.
+
+**What should a balanced judgement on monopoly power weigh?**
+Weigh the size of economies of scale, whether cost savings are passed on, how easy entry is, whether profits fund innovation or complacency, and whether the position is temporary as technology changes.
+
+**What is the difference between a percentage point change and a percentage change in a concentration ratio?**
+The gap between two ratios is in percentage points, so 73.3% to 78.1% is a rise of 4.8 percentage points. The relative change is that gap divided by the starting ratio, about 6.5% here.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, sections 3.1.4.4 and 3.1.4.5. First teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022. Published by OxfordAQA.

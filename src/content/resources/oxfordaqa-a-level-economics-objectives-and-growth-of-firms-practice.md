@@ -142,6 +142,23 @@ These questions cover sections 3.3.1.3 and 3.3.1.4 of the OxfordAQA Internationa
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - Ready for help? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on objectives and growth of firms questions?**
+Common losses are stating MR = MC without calculating MR from the demand equation, mixing up profit-maximising and revenue-maximising outputs, shutting a firm down because it makes a loss when revenue covers variable cost, and describing a merger as horizontal when the firms are at different stages.
+
+**How do I decide whether a loss-making firm should keep producing?**
+Compare the loss from producing with the loss from shutting down, which is the fixed cost. In the short run a firm keeps producing if revenue covers variable cost; in the long run it needs at least normal profit.
+
+**How do I name a type of integration precisely?**
+Say whether it is horizontal (same stage), vertical (different stages) or conglomerate (unrelated markets), and for vertical integration give the direction: backward towards suppliers or forward towards customers.
+
+**How should I evaluate whether a large company maximises profit?**
+Name the conditions that matter, such as the divorce of ownership from control, shareholder controls and competitive pressure, and reach a supported conclusion rather than listing points.
+
+**Which OxfordAQA 9640 sections do these questions cover?**
+They cover sections 3.3.1.3 (the objectives of firms) and 3.3.1.4 (the growth of firms) of the OxfordAQA International AS and A-level Economics (9640) specification, which are International A2 content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), version 1.2, sections 3.3.1.3 and 3.3.1.4. First teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022. Published by OxfordAQA.

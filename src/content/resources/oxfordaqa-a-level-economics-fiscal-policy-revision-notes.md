@@ -221,6 +221,23 @@ Reminder: tax of 1.5 per unit with 80 units sold raises 1.5 x 80 = 120. Where de
 - Mixing up cyclical and structural: a deficit that is mainly cyclical shrinks on its own as output recovers.
 - Forgetting that the same policy can serve different objectives, which may conflict.
 
+## Frequently asked questions
+
+**What is the difference between a budget deficit and the national debt?**
+A budget deficit is a flow: spending exceeds revenue in one year. The national debt is a stock: the total of past borrowing not yet repaid, which each deficit adds to.
+
+**What is the difference between a cyclical and a structural deficit?**
+The cyclical part of the budget balance moves with the economic cycle, growing in a downturn as tax revenue falls and benefit spending rises. The structural part is what would remain at potential output, so it does not disappear when the economy recovers.
+
+**How do you calculate the multiplier?**
+The multiplier is 1 divided by the marginal propensity to withdraw, where MPW is the marginal propensity to save plus the marginal propensity to tax plus the marginal propensity to import.
+
+**How can fiscal policy affect aggregate supply?**
+Spending on education, training and infrastructure, lower taxes on profits and lower income tax can raise productive capacity and shift LRAS right. The effects are slow and depend on how well projects are chosen.
+
+**What is the difference between direct and indirect taxes?**
+Direct taxes fall on income or wealth and are paid by the person or firm taxed, such as income tax. Indirect taxes are built into the price of spending and handed over by sellers, such as a sales tax.
+
 ## Official syllabus
 
 Source: OxfordAQA, International AS and A-level Economics (9640), specification version 1.2, for International AS exams from May/June 2021 onwards and International A-level exams from May/June 2022 onwards. These notes cover section 3.2.4.2.

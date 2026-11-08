@@ -214,6 +214,23 @@ The gap widens quickly as the number of goods grows. Money therefore lowers the 
 
 Next, use the [revision notes](/resources/oxfordaqa-a-level-economics-production-productivity-specialisation-and-exchange-revision-notes/), then test yourself with the [practice set](/resources/oxfordaqa-a-level-economics-production-productivity-specialisation-and-exchange-practice/) and the free [diagnostic tests](/diagnostics/).
 
+## Frequently asked questions
+
+**What is production in economics?**
+Production converts inputs, such as raw materials, capital and labour, into final output. The same idea applies to services, such as a call centre turning staff and computers into resolved calls.
+
+**What raises labour productivity?**
+Labour productivity rises with more or better capital per worker, newer technology, more skills, training, education and better health, and better organisation and management, including specialisation.
+
+**What is the double coincidence of wants?**
+Under barter, each person must find a partner who has the good they want and also wants the good they offer. Money removes this need, because each trade becomes a sale for money followed by a purchase with money.
+
+**Why can production and productivity move in opposite directions?**
+Total output can rise because a firm uses more inputs, such as hiring extra workers, while output per hour falls. Productivity measures output per unit of input, not total output.
+
+**Is barter impossible?**
+No. Barter is inefficient rather than impossible, because it needs a double coincidence of wants and many exchange ratios between goods.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Economics (9640)* specification, version 1.2, sections 3.1.3.1 and 3.1.3.2, with section 3.5 (quantitative skills). First teaching September 2020.

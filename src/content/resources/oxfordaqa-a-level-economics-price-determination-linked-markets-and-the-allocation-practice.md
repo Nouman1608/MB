@@ -144,6 +144,23 @@ These questions cover sections 3.1.2.5 to 3.1.2.7 of the OxfordAQA International
 - Take all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on price determination questions?**
+Common losses are not showing the equation step, dividing by the final value in percentage changes, stating a price without saying which side has the excess, mixing up joint demand and joint supply, and defining price mechanism functions without applying them.
+
+**How do I work out a surplus or shortage at a given price?**
+Substitute the price into both the demand and the supply equations, then compare the quantities. Say whether there is excess supply (a surplus) or excess demand (a shortage) and give its size.
+
+**How do I find equilibrium with composite demand?**
+Add the demands from each use at every price to get total demand, then set it equal to supply. Use the new price to find how much goes to each use.
+
+**How should I apply the functions of the price mechanism?**
+Apply each function, such as rationing, signalling and incentives, to the scenario in the question rather than just defining it, with a short link to how buyers and sellers respond.
+
+**Which OxfordAQA 9640 sections do these questions cover?**
+They cover sections 3.1.2.5 to 3.1.2.7 of the OxfordAQA International AS and A-level Economics (9640) specification: price determination, linked markets and the allocation of resources.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, first teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022. Published by OxfordAQA.

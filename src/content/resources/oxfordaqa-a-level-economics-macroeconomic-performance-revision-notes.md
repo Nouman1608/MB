@@ -14,13 +14,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-economy-in-a-global-environment-oxfordaqa-alevel-economics"
     subtopic: "the-measurement-of-macroeconomic-performance-oxfordaqa-alevel-economics"
-description: "Condensed recall notes on government macroeconomic objectives, the Gini coefficient and other performance indicators, and index numbers, for OxfordAQA International A-Level Economics (9640), sub-topic 3.2.1."
+description: "Revision notes on macroeconomic objectives, the Gini coefficient, performance indicators and index numbers for OxfordAQA International A-level Economics 9640."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -174,6 +176,23 @@ This sub-topic's indicators and objectives recur throughout the rest of Topic 2 
 
 - [Measurement of Macroeconomic Performance study guide](/resources/a-level-oxfordaqa-economics-measurement-of-macroeconomic-performance/)
 - [Measurement of Macroeconomic Performance practice questions](/resources/oxfordaqa-a-level-economics-macroeconomic-performance-practice/)
+
+## Frequently asked questions
+
+**What does the Gini coefficient measure?**
+The Gini coefficient is a summary measure of income or wealth inequality, on a scale from 0 (perfect equality) to 1 (perfect inequality). It is the indicator used for the objective of an equitable distribution of income.
+
+**Why are weights used in an index number?**
+A composite index is built from weighted components, so components with a larger share of what is being measured have more influence on the index value. An index measures proportional change from a base year, not an absolute value.
+
+**How can government macroeconomic objectives conflict?**
+A policy that advances one objective can threaten another. For example, cutting interest rates to boost economic growth and reduce unemployment can work against price stability, so explain the mechanism rather than just listing objectives.
+
+**Why do these indicators matter for later topics?**
+Later topics on fiscal and monetary policy are assessed against these objectives. A policy is judged successful by whether it moves the named indicators towards the objectives without causing an unacceptable conflict elsewhere.
+
+**Which part of the OxfordAQA 9640 specification covers macroeconomic performance?**
+Sub-topic 3.2.1 of the OxfordAQA International AS and A-level Economics (9640) specification, which covers government macroeconomic objectives (3.2.1.1) and the indicators and index numbers used to measure them (3.2.1.2).
 
 ## Official syllabus
 

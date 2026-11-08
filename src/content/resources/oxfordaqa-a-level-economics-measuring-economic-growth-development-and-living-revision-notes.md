@@ -227,6 +227,23 @@ Weaknesses: averages hide distribution; informal and unpaid work missed; composi
 - Treating the Gini as a percentage without saying whether the scale is 0 to 1 or 0 to 100.
 - Concluding without a judgement that depends on distribution, sustainability or the time frame.
 
+## Frequently asked questions
+
+**What is the difference between GDP, GNI and NNI?**
+GDP is the value of production within a country's borders, whoever owns the firms. GNI adds income received from abroad and subtracts income paid abroad, and NNI is GNI minus capital depreciation.
+
+**What is the difference between HDI, IHDI and MPI?**
+HDI measures average achievement in health, education and income. IHDI adjusts that average for inequality, while the MPI counts overlapping deprivation using headcount times average intensity.
+
+**What is a PPP exchange rate?**
+A purchasing power parity rate equalises the cost of the same basket of goods in two countries. It gives a fairer comparison of purchasing power than market exchange rates, which are driven by trade and capital flows.
+
+**What are the limits to economic growth?**
+Environmental limits include finite resources, pollution, climate change and habitat loss, and social limits include congestion, rising inequality and stress. Output can rise while well-being falls.
+
+**What is sustainable development?**
+Sustainable development improves the well-being of current and future generations. Growth that depletes natural capital is not sustainable.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, section 3.4.3.1, published by OxfordAQA (first teaching September 2020, first A-level exams May/June 2022).

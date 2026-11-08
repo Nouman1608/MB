@@ -234,6 +234,23 @@ Investment depends on the **rate of change** of output, not its level. If output
 </figure>
 
 
+## Frequently asked questions
+
+**What are injections and withdrawals in the circular flow?**
+Injections are investment, government spending and exports. Withdrawals are saving, taxes and imports, and equilibrium national income is where injections equal withdrawals.
+
+**How can you tell a demand-side shock from a supply-side shock in data?**
+A shift of AD moves the price level and real GDP in the same direction. A cost shock to SRAS moves them in opposite directions, with prices rising while output falls.
+
+**What is the basic accelerator?**
+The accelerator says investment depends on the rate of change of output, not its level. If output keeps rising but more slowly, net investment falls, which makes investment volatile.
+
+**What determines saving?**
+Saving rises with disposable income, higher interest rates, uncertainty about the future and attitudes to thrift. It falls with easier credit, rising wealth and expectations of higher future income.
+
+**Is real national income a full measure of living standards?**
+No. Real national income per head is a better guide than the total, but it does not show how income is shared, unpaid work, leisure or environmental damage.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), version 1.2, first teaching September 2020, published by OxfordAQA. Sections 3.2.2.1, 3.2.2.2 and 3.2.2.3, with section 3.5 quantitative skills.

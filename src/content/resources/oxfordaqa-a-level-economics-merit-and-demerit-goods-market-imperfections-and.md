@@ -210,6 +210,23 @@ The shares sum to 100%. The richest 20% receive 50 ÷ 5 = 10 times the poorest 2
 - Using "equal" and "equitable" as synonyms.
 - Treating income and wealth as the same thing.
 
+## Frequently asked questions
+
+**Why is classifying a merit good a value judgement?**
+Calling a good a merit good means judging that people ought to consume more of it than they choose to. Someone can accept every fact about the good and still reject that label.
+
+**Do I need MSC and MSB diagrams for merit goods in OxfordAQA 9640?**
+No. The OxfordAQA 9640 specification says MSC and MSB curves are not needed. Use one supply curve and two demand curves, one showing perceived benefit and one showing full benefit.
+
+**Why is monopoly a market failure?**
+A monopolist restricts output to raise price above marginal cost, so too little is produced and a deadweight loss arises. The failure is the restricted output, not simply the high profit.
+
+**What is the difference between occupational and geographical immobility?**
+Occupational immobility means workers cannot easily switch jobs because their skills do not transfer. Geographical immobility means they cannot easily move to where jobs are, because of housing costs, family ties or missing information.
+
+**Why does an unequal distribution of income misallocate resources?**
+In a market economy consumption depends on income and wealth, not need. Low-income households may be unable to afford housing, nutrition, education or healthcare even where the benefit exceeds the cost, while resources go to what richer households can pay for.
+
 ## Official syllabus
 
 Source: the OxfordAQA International AS and A-level Economics specification (9640), version 1.2, from Oxford International AQA Examinations. Covered here: 3.1.5.4, 3.1.5.5, 3.1.5.6.

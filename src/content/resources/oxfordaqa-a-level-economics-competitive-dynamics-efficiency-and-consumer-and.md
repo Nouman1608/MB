@@ -255,6 +255,23 @@ Evaluation: the tariff moves surplus from consumers to producers and the governm
 - Forgetting that perfect discrimination removes the deadweight loss.
 - Counting tariff revenue as a loss to the country.
 
+## Frequently asked questions
+
+**Why is a monopoly allocatively inefficient?**
+A profit-maximising monopoly produces where MR = MC and sets price from the demand curve, so price is above marginal cost. Consumers value extra units more than they cost to make, so too little is produced and a deadweight loss appears.
+
+**What drives dynamic efficiency?**
+Dynamic efficiency is influenced by research and development, investment in human capital (skills) and non-human capital (machines and buildings), and technological change. Together these improve products and lower costs over time.
+
+**Does third-degree price discrimination raise or lower welfare?**
+The firm's profit rises and consumer surplus usually falls, but total welfare can rise or fall. It depends on whether total output rises, for example by serving buyers a single price would shut out, and on how output is shared between groups.
+
+**What are conduct and performance indicators in market structure analysis?**
+Conduct indicators describe how firms behave, such as pricing, advertising and R&D spending. Performance indicators describe results, such as profit, prices, unit costs, productivity and quality, and the OxfordAQA 9640 specification asks you to use both to compare market structures.
+
+**What are the limitations of using consumer and producer surplus to judge welfare?**
+Willingness to pay is hard to measure and depends on income, surplus treats each unit of currency as equal so it ignores who gains, and it assumes no externalities, so marginal cost may not be the full social cost.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, sections 3.3.3.8 to 3.3.3.10 and quantitative skills 3.5. First teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022. Published by OxfordAQA.

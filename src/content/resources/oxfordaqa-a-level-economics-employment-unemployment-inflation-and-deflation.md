@@ -217,6 +217,23 @@ Output falls while prices rise, so unemployment may rise too.
 * Dividing unemployed by the working-age population instead of the labour force.
 * Recommending extra demand for structural unemployment without evaluating the risk.
 
+## Frequently asked questions
+
+**Who counts as unemployed on the ILO measure?**
+A person is ILO unemployed if they have no job, are available to start work soon and have actively looked for work recently. Anyone in work is employed, and everyone else of working age is economically inactive.
+
+**Why does extra aggregate demand not fix structural unemployment?**
+Structural unemployment comes from a mismatch of skills or location, which lowers the normal capacity level of output. Raising aggregate demand alone then risks inflation rather than jobs, so retraining and mobility support are better matched to the cause.
+
+**How does a fall in the exchange rate affect inflation?**
+A depreciation raises the domestic price of imports, which adds to costs and prices, and it also makes exports cheaper, which lifts aggregate demand. An appreciation works in reverse and can reduce inflation.
+
+**How does excessive money supply growth cause inflation?**
+If the money supply grows faster than productive capacity and the extra money is spent, spending outruns output. Aggregate demand shifts right and bids up the price level.
+
+**What global influences affect employment?**
+Falling demand abroad cuts exports and causes cyclical unemployment, cheaper foreign producers can cause structural unemployment, and offshoring, inward investment, migration, the exchange rate and world commodity prices all affect jobs.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, first teaching September 2020, published by Oxford International AQA Examinations. Sections 3.2.3.2 and 3.2.3.3.
