@@ -19,7 +19,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "numbers-and-the-number-system-edexcel-igcse-maths"
     subtopic: "electronic-calculators-edexcel-igcse-maths"
-description: "Study guide for Edexcel IGCSE Maths 4MA1 sections 1.10-1.11: metric units, time, money, currency conversion and accurate calculator use."
+description: "Detailed study guide for Edexcel IGCSE Maths 4MA1 sections 1.10-1.11: metric units, time, money, currency conversion and accurate calculator use."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
 featured: false

@@ -19,7 +19,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "numbers-and-the-number-system-edexcel-igcse-maths"
     subtopic: "standard-form-edexcel-igcse-maths"
-description: "Twelve original 4MA1 questions on rounding, estimation, upper and lower bounds and standard form, with fully worked, mark-by-mark answers."
+description: "Twelve original 4MA1 practice questions on rounding, estimation, upper and lower bounds and standard form, with fully worked, mark-by-mark answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
 featured: false

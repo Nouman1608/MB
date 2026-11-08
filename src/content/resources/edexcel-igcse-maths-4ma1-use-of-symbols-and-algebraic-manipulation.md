@@ -19,7 +19,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "equations-formulae-and-identities-edexcel-igcse-maths"
     subtopic: "algebraic-manipulation-edexcel-igcse-maths"
-description: "Study guide for Edexcel IGCSE Maths A 4MA1 sections 2.1-2.2: indices, substitution, expanding, factorising, algebraic fractions and proof."
+description: "Detailed study guide for Edexcel IGCSE Maths A 4MA1 sections 2.1-2.2: indices, substitution, expanding, factorising, algebraic fractions and proof."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
 featured: false
