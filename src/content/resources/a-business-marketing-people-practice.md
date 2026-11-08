@@ -13,13 +13,15 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "marketing-and-people-edexcel-alevel-business"
-description: "Original exam-style case-study practice questions with full worked answers on market research, pricing, motivation and organisational structure for A Level Business."
+description: "Case-study practice questions with worked answers on market research, pricing, motivation and structure for Edexcel International A Level Business WBS11."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -116,3 +118,17 @@ has just launched a similar bottle at £19.*
 - Ignoring Verdo's premium positioning in the pricing question.
 - Describing delayering as only cost-cutting, without also weighing the effect on remaining managers' workload or on staff retention.
 - Forgetting to state which leadership style suits a wider span of control.
+
+## Frequently asked questions
+
+**How many marks is each command word worth in Edexcel WBS11 Business?**
+The specification publishes a fixed tariff for its eight command words: define (2), calculate (4), construct (4), explain (4), analyse (6), discuss (8), assess (10) and evaluate (20).
+
+**How are marks awarded on case-study answers?**
+Marks are given for knowledge, application, analysis and evaluation. Application means using the case study's actual figures and situation; generic answers about "a business" are capped at the lower bands.
+
+**Does a pay rise always motivate staff?**
+Not according to Herzberg: pay is a hygiene factor, so poor pay demotivates, but raising it beyond an acceptable level does not by itself motivate. Assuming pay always motivates is a common way to lose marks.
+
+**What does a top-band evaluation include?**
+It weighs both sides, reaches a clear judgement, and states what that judgement depends on. Concluding only that "there are advantages and disadvantages" does not reach the top band.

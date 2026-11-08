@@ -275,6 +275,23 @@ Growth alone does not show a tumour is malignant. Secondary tumours in other org
 
 Work through the [revision notes](/resources/oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours-revision-notes/), then the [practice questions](/resources/oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours-practice/). The [exam preparation guide](/resources/oxfordaqa-igcse-biology-exam-preparation/) covers command words.
 
+## Frequently asked questions
+
+**What is the difference between sexual and asexual reproduction?**
+Sexual reproduction is the fusion of a male and a female gamete, so the offspring get a mixture of genetic information and show variation. Asexual reproduction needs one parent and no gametes, so the offspring are clones.
+
+**What is differentiation?**
+Differentiation is the process by which cells become specialised into different kinds of cell as an organism develops, such as red blood cells, nerve cells and root hair cells. They have the same genes but different genes are active.
+
+**Why can a plant cutting grow roots when an animal limb cannot regrow?**
+Many plant cells can still differentiate at any age, so a cut shoot can grow new roots. Most animal cells become specialised early in development, and in a mature animal cell division is mainly for repair and replacement.
+
+**Where do stem cells come from?**
+The OxfordAQA 9201 specification names human embryos and adult bone marrow as sources. Stem cells can be made to differentiate into many types of human cell and might help with conditions such as paralysis.
+
+**Is knowledge of stem cell techniques required for OxfordAQA 9201?**
+No. The specification states that knowledge of stem cell techniques is not required, but you should be able to make informed judgements about social and ethical issues in using them.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), specification Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.5.1 a and 3.5.2 a to o.

@@ -165,6 +165,20 @@ These questions cover sections 3.2.1 and 3.2.2 of the OxfordAQA International GC
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Is light a reactant in the photosynthesis equation?**
+No. Light is the energy source and is written above the arrow, not as a reactant: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂. Writing light as a reactant loses marks.
+
+**How do you deal with an anomalous result when calculating a mean?**
+Identify the result that does not fit the pattern, leave it out of the mean, and make clear which value was ignored. Not showing which result was excluded is a common error.
+
+**How do you answer a greenhouse cost question?**
+Calculate the extra yield multiplied by the price per kilogram, then subtract the extra cost to find the net gain or loss. Calculating the extra yield without subtracting the cost loses marks.
+
+**How should you describe stomata opening and closing?**
+Mention the guard cells: water entering the guard cells opens the pore and water leaving them closes it. Writing "stomata open and close" without the guard cells does not earn full credit.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.2.1 and 3.2.2.

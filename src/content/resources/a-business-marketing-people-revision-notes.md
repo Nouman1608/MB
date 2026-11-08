@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Condensed recall notes on market research, the marketing mix, segmentation, motivation theory and organisational structure for A Level Business."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -251,3 +253,16 @@ A Level Business is marked on **application, analysis and evaluation**, not know
   <figcaption>Analysis is a chain; evaluation weighs both sides and says what the judgement depends on.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between primary and secondary market research?**
+Primary research is collected first-hand for the specific purpose, through surveys, interviews, focus groups, observation or test marketing; it is relevant and current but costly and slow. Secondary research already exists, so it is cheap and immediate but may be out of date or not fit the purpose.
+
+**How do you calculate market share?**
+Market share = the firm's sales ÷ total market sales × 100. Market growth = change in market size ÷ original market size × 100.
+
+**What is the difference between a tall and a flat organisational structure?**
+A tall structure has many levels and narrow spans of control, giving close supervision but slow communication. A flat structure has few levels and wide spans of control, giving faster communication and more empowerment but possibly overstretched managers.
+
+**Is a gap on a positioning map always an opportunity?**
+No. A gap may exist because there is no demand for that combination of attributes, or because serving it is not profitable, so it is not automatically an opportunity.

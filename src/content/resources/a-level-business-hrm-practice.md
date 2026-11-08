@@ -13,13 +13,15 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "human-resource-management-as-cambridge-alevel-business"
-description: "Original exam-style practice questions with full worked answers on recruitment, motivation and management for Cambridge AS & A Level Business (9609) Topic 2 Human resource management."
+description: "Practice questions with worked answers on recruitment, motivation and management for Topic 2 Human resource management in Cambridge AS & A Level Business 9609."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -141,3 +143,17 @@ study guide identifies this as the central skill Business at this level assesses
 consistently reward a justified recommendation reached from the scenario over a balanced list of
 points with no conclusion, since judgement, not just recall, is what distinguishes a strong answer at
 AS and A Level. Question 7 additionally illustrates a habit worth carrying into every answer on this topic: treating recruitment, training, motivation and management as connected aspects of how a business handles its people, rather than three isolated sub-topics revised and answered separately.
+
+## Frequently asked questions
+
+**How do you answer a recruitment "advise" question in Cambridge 9609 Business?**
+Weigh internal and external recruitment against the specific details in the scenario, then reach a justified recommendation. Examiners reward a justified recommendation over a balanced list of points with no conclusion.
+
+**Which motivation theories are in Cambridge 9609 Topic 2?**
+The content theories of Taylor, Mayo, Maslow, Herzberg and McClelland, and the process theory of Vroom, applied through financial and non-financial motivators.
+
+**What are McGregor's Theory X and Theory Y?**
+A Theory X manager assumes workers are inherently lazy and must be closely controlled, while a Theory Y manager assumes workers are self-motivated and capable of responsibility. The assumption shapes which management style the manager adopts.
+
+**Why should HRM answers link recruitment, training and motivation?**
+Recruitment decides who is available to motivate, and motivation approaches interact with the management style in place, so answers that connect these ideas to the scenario score more highly than separate fact lists.

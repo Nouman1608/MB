@@ -268,6 +268,23 @@ Sound works in the dark but can attract predators. Chemical signals last but cha
 
 Use the [revision notes](/resources/oxfordaqa-igcse-biology-nervous-system-reflexes-and-animal-behaviour-revision-notes/), then test yourself on the [practice set](/resources/oxfordaqa-igcse-biology-nervous-system-reflexes-and-animal-behaviour-practice/).
 
+## Frequently asked questions
+
+**What is a synapse?**
+A synapse is a junction between two neurones. The signal crosses it as a chemical, not as an electrical impulse, and the chemical causes an impulse to be sent along the next neurone.
+
+**What is imprinting?**
+Imprinting is an early attachment that happens during a short sensitive period soon after birth or hatching, after which the young animal follows the imprinted object, such as goslings following a parent.
+
+**How are sniffer dogs and police horses trained?**
+Sniffer dogs are trained by operant conditioning: they are rewarded each time they indicate the target scent. Police horses are trained by repeated, safe exposure to crowds, flags and loud noises until they stop reacting, which is habituation.
+
+**What types of signal do animals use to communicate?**
+Animals use sound, chemical and visual signals. Sound works in the dark but can attract predators, chemical signals last but change slowly, and visual signals are quick but need light.
+
+**Which sections of OxfordAQA 9201 Biology cover the nervous system and behaviour?**
+Section 3.4.1 covers the human nervous system and reflexes, and section 3.4.6 covers behaviour, including courtship, parental care, types of learning, training animals and communication.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA: sections 3.4.1 and 3.4.6.

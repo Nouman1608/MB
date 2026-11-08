@@ -187,6 +187,20 @@ Make a judgement about which treatment the panel should support, using the infor
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Next, [book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How many cells does meiosis make?**
+One cell dividing by meiosis goes through two divisions and makes four gametes, each with a single set of chromosomes. Writing that the cell splits into two is a common error.
+
+**What is the difference between a gene and an allele?**
+A gene is a section of a chromosome that controls a characteristic, and alleles are different forms of the same gene, such as black fur and brown fur. Using the two words as if they mean the same thing loses marks.
+
+**What is the difference between a benign and a malignant tumour?**
+Benign tumours do not invade other tissues. Malignant tumours have cells that invade healthy tissue, and some may enter the bloodstream and form secondary tumours elsewhere.
+
+**How should you answer an ethics question on stem cells?**
+Give points for and against each option, using the information supplied, and finish with a reasoned judgement. Listing only advantages or only objections limits the marks.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), specification Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.5.1 a and 3.5.2 a to o.

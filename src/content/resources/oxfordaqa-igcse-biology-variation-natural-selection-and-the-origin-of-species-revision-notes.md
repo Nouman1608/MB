@@ -230,6 +230,20 @@ variation (alleles) then a selection pressure (competition, predation, disease o
 - Quoting survival data without numbers, or without comparing the groups.
 - Treating generations and years as the same thing in a time-scale answer.
 
+## Frequently asked questions
+
+**What is a mutation?**
+A mutation is a change in a gene that produces a new allele. Mutations are random and are the original source of new alleles; they do not happen because the organism needs them.
+
+**What is Lamarck's theory of evolution?**
+Lamarck's theory is based on the idea that changes that occur in an organism during its lifetime can be inherited. It is not accepted for most characteristics because acquired changes do not alter the alleles in the gametes.
+
+**What is the difference between continuous and discontinuous variation?**
+Continuous variation shows a full range of values with no gaps, such as height or leaf length. Discontinuous variation falls into separate groups, such as blood group.
+
+**How do scientists decide whether two populations are separate species?**
+They test whether the populations can interbreed to produce fertile offspring. Horses and donkeys can mate, but the mule is usually sterile, so they are different species.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams in May/June 2018 onwards, published by OxfordAQA. Section 3.6 Variation and evolution: 3.6.1 and 3.6.2 a to c.

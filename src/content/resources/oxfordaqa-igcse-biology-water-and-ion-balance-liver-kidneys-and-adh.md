@@ -234,6 +234,23 @@ The same loop runs the other way when water content is too high: less ADH, less 
 
 Check recall with the [revision notes](/resources/oxfordaqa-igcse-biology-water-and-ion-balance-liver-kidneys-and-adh-revision-notes/), then attempt the [practice questions](/resources/oxfordaqa-igcse-biology-water-and-ion-balance-liver-kidneys-and-adh-practice/). For exam technique across the whole course see [OxfordAQA IGCSE Biology exam preparation](/resources/oxfordaqa-igcse-biology-exam-preparation/).
 
+## Frequently asked questions
+
+**Why must water and ion content be controlled?**
+Cells work properly only when the surrounding fluid has the right amount of water and dissolved ions, so water and ions taken in must be balanced by those lost.
+
+**What does the liver do with poisons and old red blood cells?**
+Poisonous substances such as alcohol and drugs are detoxified in the liver into less harmful substances. Old red blood cells are broken down in the liver and their iron is stored for reuse.
+
+**How does the body respond to drinking a large volume of water?**
+The water content of the blood rises, so the pituitary gland releases less ADH. The kidneys reabsorb less water, so a larger volume of more dilute urine is produced and the water content falls back to normal.
+
+**What is the difference between concentrated and dilute urine?**
+Concentrated urine has more dissolved substances, such as urea and ions, per cm³ and a smaller volume. Dilute urine has less per cm³ and a larger volume; the total amount of urea excreted need not change.
+
+**Which section of OxfordAQA 9201 Biology covers the liver, kidneys and ADH?**
+Section 3.4.3, which covers water and ion loss, the liver, the healthy kidney, ADH and negative feedback.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), specification Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.4.3, Control of water and ion content of the body.

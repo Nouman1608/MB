@@ -270,6 +270,20 @@ Show the working line in calculations, then the answer with its unit.
 - Naming a signal type without saying what it is used for in the example.
 - Leaving out units in a speed or time calculation.
 
+## Frequently asked questions
+
+**What is the order of a reflex arc?**
+Stimulus, receptor, sensory neurone, relay neurone in the CNS, motor neurone, effector, response. A chemical is released at each synapse to pass the signal from one neurone to the next.
+
+**Why are reflexes faster than voluntary actions?**
+Reflexes are automatic: few neurones and synapses are involved and the response does not wait for conscious thought, so it is quicker than a voluntary action made through the brain.
+
+**What are the four mating strategies in OxfordAQA 9201 Biology?**
+A mate for life, several mates over a lifetime, a mate for a breeding season, and several mates over one breeding season.
+
+**What are the benefits and risks of parental care?**
+Parental care means more offspring survive and more of the parents' genes are passed on. The risks to parents include using up energy, being unable to feed, injury from predators and having less energy for later broods.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA: sections 3.4.1 and 3.4.6.

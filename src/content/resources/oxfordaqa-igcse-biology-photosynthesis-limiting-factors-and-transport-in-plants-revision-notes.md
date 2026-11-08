@@ -294,6 +294,20 @@ Must-know distinction: the transpiration stream carries water upwards to be lost
 - Saying water moves up the xylem "because the roots push it" and forgetting the pull from evaporation in leaves.
 - Naming xylem as the sugar carrier.
 
+## Frequently asked questions
+
+**What does a plant use glucose from photosynthesis for?**
+Glucose is used for respiration, converted into insoluble starch or into fats and oils for storage, used to make cellulose for cell walls, and combined with nitrate ions to make proteins.
+
+**How do you tell the limiting factor from a graph?**
+On the rising part of the line, the factor on the x-axis is limiting. On the flat part, another factor is limiting; name one that was held constant and support it with data.
+
+**How can you make the pondweed photosynthesis practical more reliable?**
+Repeat the counts and take a mean, use a heat shield between the lamp and the plant, count for longer, or measure the volume of gas instead of counting bubbles.
+
+**What is the difference between the transpiration stream and translocation?**
+The transpiration stream carries water upwards in the xylem to be lost from the leaves, while translocation carries dissolved sugars in the phloem away from the leaves to where they are needed.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.2.1 and 3.2.2.

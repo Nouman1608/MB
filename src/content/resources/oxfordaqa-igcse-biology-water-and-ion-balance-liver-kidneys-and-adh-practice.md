@@ -155,6 +155,20 @@ Links: the [OxfordAQA Biology hub](/boards/oxfordaqa/igcse/biology/), the [print
 - Try all free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Which organ makes urea?**
+The liver makes urea: excess amino acids are deaminated to form ammonia, which is converted into urea. The kidneys only remove urea from the blood. Saying the kidneys make urea, or missing the ammonia step, loses marks.
+
+**Which gland releases ADH?**
+ADH is released by the pituitary gland, not the kidney. Writing that the kidney releases ADH is a frequent error.
+
+**What wording should you use for water in the kidney?**
+Say that more or less water is reabsorbed into the blood, not that more or less water is "made". Link any change in urine to the water content of the blood that caused it.
+
+**Why is ADH control an example of negative feedback?**
+A change in the water content of the blood triggers a response that reverses the change: low water content increases ADH release so more water is reabsorbed, and as the level returns to normal, less ADH is released.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), specification Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.4.3, Control of water and ion content of the body.

@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Condensed recall notes on corporate objectives, SWOT and PESTLE, Ansoff, Porter, decision trees and investment appraisal for A Level Business."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -263,3 +265,19 @@ Then judge, and say what the judgement **depends on**. "It depends on whether th
   <figcaption>A strong evaluation moves from numbers to qualitative factors to a justified judgement.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Which parts of a SWOT analysis are internal and which are external?**
+Strengths and weaknesses are internal to the business; opportunities and threats are external. Putting an item in the wrong half is a common error.
+
+**How do you work out a decision tree?**
+Work from right to left: expected value = the sum of probability × payoff for each outcome, and net gain = expected value − cost of the decision. Choose the branch with the highest net gain, then evaluate the limitations, such as subjective probabilities.
+
+**Why is NPV better than payback and ARR?**
+NPV discounts future cash flows, reflecting that a pound received in five years is worth less than a pound today. Payback and ARR do not discount cash flows, so they treat later money as equally valuable.
+
+**What is the difference between risk and uncertainty?**
+Risk can be quantified with probabilities; uncertainty cannot. Decision trees and expected values handle risk, while contingency planning and crisis management address what cannot be predicted.
+
+**What does PESTLE stand for in OCR A Level Business?**
+Political, Economic, Social, Technological, Ethical, Legal and Environmental: seven factors, with Ethical a distinct, examinable factor.
