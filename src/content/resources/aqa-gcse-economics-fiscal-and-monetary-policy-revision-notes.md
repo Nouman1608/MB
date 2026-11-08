@@ -20,8 +20,10 @@ syllabusTopics:
 description: "Condensed AQA GCSE Economics revision notes for 3.2.3.1 and 3.2.3.2: fiscal policy, balanced budgets, surpluses and deficits, and monetary policy."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-11-05
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 publishedDate: 2026-11-05
 featured: false
 ---
@@ -191,6 +193,23 @@ A rise in Bank Rate leads to:
 - Confusing the budget deficit with the national debt, or with the current account.
 - Saying the government sets UK interest rates.
 - Giving a policy with no conflict or drawback in an evaluation question.
+
+## Frequently asked questions
+
+**What is the difference between a budget deficit and the national debt?**
+A budget deficit is one year's gap when government spending is greater than revenue. The national debt is the total the government owes from all past borrowing, so even a smaller deficit still adds to the debt.
+
+**Who sets interest rates in the UK?**
+The Bank of England's nine-member Monetary Policy Committee sets Bank Rate, independently of the government since 1997.
+
+**How does a rise in interest rates reduce inflation?**
+Borrowing becomes dearer and saving more rewarding, so households and firms spend and invest less, the pound tends to rise, and lower total demand reduces pressure on prices.
+
+**What are the limits of monetary policy?**
+Time lags of a year or two, low confidence, banks not passing changes on, one rate for the whole UK, and little effect on cost-push inflation from world energy or food prices.
+
+**What is expansionary fiscal policy?**
+Expansionary fiscal policy is higher government spending or lower taxes to raise total demand, which can boost growth and jobs but may raise inflation and borrowing.
 
 ## Official syllabus
 

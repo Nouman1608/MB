@@ -114,6 +114,20 @@ These questions cover **sections 3.2.2.2 Economic growth and 3.2.2.3 Employment 
 - Writing "unemployment is bad for the economy" with no chain of reasoning.
 - Ending a 9-mark answer with a summary instead of a judgement.
 
+## Frequently asked questions
+
+**Should growth be measured with nominal or real GDP?**
+Use real GDP, which removes the effect of inflation. Using nominal GDP as evidence that output rose is a common way to lose marks.
+
+**What do you divide by to find the unemployment rate?**
+Divide the number unemployed by the labour force, the employed plus the unemployed, not by the number employed or the whole population.
+
+**How should I finish a 9-mark answer in AQA GCSE Economics?**
+End with a judgement that answers the question, not a summary of the points already made.
+
+**Which AQA GCSE Economics sections do these questions cover?**
+They cover AQA GCSE Economics 8136 sections 3.2.2.2 Economic growth and 3.2.2.3 Employment and unemployment.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/aqa-gcse-economics-economic-growth-and-unemployment-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-economic-growth-and-unemployment/).

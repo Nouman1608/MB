@@ -135,6 +135,20 @@ These questions cover **section 3.1.2, Resource allocation**, in the AQA GCSE Ec
 - Answering for the firm when the question asks about the worker, or the reverse.
 - Listing advantages and disadvantages in an evaluation question without a judgement.
 
+## Frequently asked questions
+
+**How should a market be defined in AQA GCSE Economics?**
+A market is an opportunity for buyers and sellers to interact in order to establish a price. Describing it only as a place, or leaving out price, loses marks.
+
+**Which sector do retail and banking belong to?**
+The tertiary sector, which provides services. Putting them in the secondary sector is a common mistake.
+
+**Does a fall in a sector's share of jobs mean fewer jobs in that sector?**
+Not necessarily. If total employment grows, a sector's share can fall while its number of jobs falls only a little or even rises.
+
+**What should I check before answering a division of labour question?**
+Check whether the question asks about the worker or the firm, and answer for that group, explaining why each benefit or cost follows.
+
 ## Next steps
 
 - Recheck terms in the [revision notes](/resources/aqa-gcse-economics-resource-allocation-markets-economic-sectors-and-revision-notes/), then return to the [study guide](/resources/aqa-gcse-economics-resource-allocation-markets-economic-sectors-and/) for any weak area.

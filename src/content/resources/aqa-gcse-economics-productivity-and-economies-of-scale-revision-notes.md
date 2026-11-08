@@ -260,6 +260,20 @@ Use these as patterns. Each moves from cause to effect to a judgement.
 - Giving diseconomies of scale as simply "higher costs" with no cause.
 - Evaluating growth without a judgement about when it pays.
 
+## Frequently asked questions
+
+**What is division of labour?**
+Division of labour is when workers each specialise in one task, which can raise productivity.
+
+**Does total cost fall with economies of scale?**
+No. Total cost still rises as output grows; it is average cost, the cost per unit, that may fall.
+
+**Is hiring extra workers in the same factory an economy of scale?**
+No. Economies of scale are long-run changes in the scale of production, not extra workers in the same plant.
+
+**Can lower profit per unit still mean higher total profit?**
+Yes. If output rises enough, total profit can rise even when profit per unit falls, so check both.
+
 ## Official syllabus
 
 AQA, *GCSE Economics (8136)* specification, for first teaching from September 2017, sections 3.1.4.2 and 3.1.4.3.

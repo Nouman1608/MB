@@ -99,6 +99,20 @@ These questions cover **sections 3.2.4.1 Why countries trade and the importance 
 - Not finishing the chain: "the pound falls" without explaining what happens to export prices or sales.
 - Ignoring that a firm can be both an exporter and an importer.
 
+## Frequently asked questions
+
+**How do you convert a foreign price into pounds?**
+Divide the foreign price by the exchange rate. Going from pounds to a foreign currency, multiply; going from a foreign currency to pounds, divide.
+
+**What is a common mistake with appreciation and depreciation?**
+Reversing their effects. A strong pound makes imports cheaper and exports dearer; a weak pound does the opposite.
+
+**How far should I take an exchange rate chain of reasoning?**
+Finish the chain: say what happens to export or import prices and then to sales, rather than stopping at the pound falls.
+
+**Can a firm be affected by the exchange rate as both an exporter and an importer?**
+Yes. A firm that exports and also buys imported materials gains on one side and loses on the other when the exchange rate changes, so consider both.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/aqa-gcse-economics-international-trade-and-exchange-rates-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-international-trade-and-exchange-rates/).

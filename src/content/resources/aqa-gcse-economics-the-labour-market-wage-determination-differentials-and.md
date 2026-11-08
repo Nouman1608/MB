@@ -204,6 +204,23 @@ Deductions are 145.50 ÷ 510 × 100 = 28.5% of gross pay (to 1 decimal place).
 - Subtracting deductions from net pay, or applying a rate to the whole of gross pay when the question gives an allowance.
 - Mixing annual and monthly figures.
 
+## Frequently asked questions
+
+**Why is the demand for labour a derived demand?**
+Firms want workers only because buyers want the goods and services the workers produce.
+
+**What is the difference between gross pay and net pay?**
+Gross pay is total pay before deductions, including basic pay, overtime, bonuses and commission. Net pay is take-home pay after deductions.
+
+**What causes wage differentials between occupations?**
+Skills and qualifications, training time and cost, risk and working conditions, and demand and productivity.
+
+**What causes wage differentials within an occupation?**
+Experience and seniority, performance, extra qualifications or responsibility, and location.
+
+**What shifts the supply of labour to a job?**
+The number of people with the skills, pay and conditions in other jobs, the qualifications or risk involved, and non-wage benefits such as hours and holidays.
+
 ## Next steps
 
 Condense this page with the [revision notes](/resources/aqa-gcse-economics-the-labour-market-wage-determination-differentials-and-revision-notes/), practise with the [practice questions](/resources/aqa-gcse-economics-the-labour-market-wage-determination-differentials-and-practice/), and take a [free 10-minute diagnostic](/diagnostics/).

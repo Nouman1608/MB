@@ -249,6 +249,20 @@ Revenue = price × quantity. For a quick check, multiply the price index by the 
 - Leaving out the short-run and long-run difference when a question mentions time.
 - Using a PED calculated for one product to talk about a different product.
 
+## Frequently asked questions
+
+**Can I judge elasticity from how steep a curve looks?**
+Only as a rough guide. Steepness depends on the scale used, so calculate the number rather than relying on how the curve looks.
+
+**Which is more elastic, a PED of -3 or -0.5?**
+A PED of -3 is more elastic, because its size is larger. Compare sizes, not signs.
+
+**Does elasticity change over time?**
+Yes. Both PED and PES usually rise with time, as buyers find substitutes and firms expand capacity.
+
+**Does inelastic demand mean quantity does not change?**
+No. It means quantity demanded changes by a smaller percentage than price, not that it does not change at all.
+
 ## Official syllabus
 
 AQA GCSE Economics (8136) specification, for first teaching from September 2017, published by AQA. Sections 3.1.3.5 Price elasticity of demand and 3.1.3.6 Price elasticity of supply.

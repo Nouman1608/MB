@@ -12,11 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "how-markets-work-aqa-gcse-economics"
-description: "A specification map of Paper 1 for AQA GCSE Economics (8136), with in-depth notes on price determination (demand, supply, equilibrium and elasticity), market structures and market failure."
+description: "AQA GCSE Economics (8136) Paper 1 How markets work: a specification map, with notes on demand, supply, equilibrium, elasticity, competition and market failure."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -188,3 +190,20 @@ Saying a price change shifts the demand curve. Shifting demand when the question
 - State the three functions of the price mechanism.
 - Calculate PED, classify it, and link it to total revenue.
 - Explain the benefits of competition and the main types of market failure with government responses.
+
+## Frequently asked questions
+
+**What topics are in AQA GCSE Economics Paper 1?**
+Paper 1 How markets work covers economic foundations, resource allocation, how prices are determined, production, costs, revenue and profit, competitive and concentrated markets, and market failure.
+
+**What does price elasticity of demand greater than 1 mean?**
+Demand is elastic: quantity demanded is responsive to price, so a price rise reduces total revenue.
+
+**When is demand price inelastic?**
+Demand tends to be inelastic when there are few substitutes, the good is a necessity or addictive, or it takes a small share of income.
+
+**What are the three functions of the price mechanism?**
+Prices signal where resources are wanted, give producers an incentive to supply, and ration scarce goods among buyers.
+
+**How do I get marks for a market failure answer in AQA GCSE Economics?**
+Explain, with a real or plausible example, why the specific market outcome is inefficient, rather than just naming the type of failure.

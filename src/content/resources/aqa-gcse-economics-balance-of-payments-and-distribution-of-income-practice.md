@@ -100,6 +100,20 @@ These questions cover **sections 3.2.2.5 Balance of payments and 3.2.2.6 Distrib
 - Calling a tax progressive because rich people pay more money in total, rather than a higher percentage.
 - Giving a 9-mark answer with no judgement.
 
+## Frequently asked questions
+
+**What should I write after a current account calculation?**
+State whether the answer is a deficit or a surplus. Leaving out the word deficit or surplus after the number is a common way to lose a mark in AQA GCSE Economics.
+
+**Is a trade deficit in goods the same as a current account deficit?**
+No. The current account also includes trade in services and primary and secondary income, so a deficit in goods alone does not tell you the current account balance.
+
+**How do I show a tax is progressive?**
+Show that it takes a higher percentage of income from richer people, not just more money in total.
+
+**Which AQA GCSE Economics sections do these questions cover?**
+They cover AQA GCSE Economics 8136 sections 3.2.2.5 Balance of payments and 3.2.2.6 Distribution of income.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/aqa-gcse-economics-balance-of-payments-and-distribution-of-income-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-balance-of-payments-and-distribution-of-income/).

@@ -16,11 +16,13 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "how-the-economy-works-aqa-gcse-economics"
     subtopic: "inflation-and-price-stability-aqa-gcse-economics"
-description: "Stable prices, economic growth, full employment and the balance of payments -- the government's four principal economic objectives, and how pursuing one can undermine another. From section 3.2.2 Government objectives, which follows 3.2.1 (the site's existing guide to Interest Rates and Government Income and Expenditure)."
+description: "AQA GCSE Economics (8136) section 3.2.2 guide: stable prices, growth, full employment and the balance of payments, and why pursuing one can harm another."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 publishedDate: 2026-09-09
 featured: false
 ---
@@ -193,3 +195,19 @@ one of the four objectives.
   <figcaption>The current account adds income flows to the balance of trade.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are the four principal economic objectives of the government?**
+Stable prices, economic growth, full employment and a satisfactory balance of payments.
+
+**How is inflation measured in AQA GCSE Economics?**
+The rate of inflation is measured using the Consumer Price Index (CPI).
+
+**What are the costs of unemployment?**
+Unemployment costs individuals lost income, costs the government benefit payments and lost tax revenue, and costs the wider economy lost output.
+
+**Can a government achieve all its economic objectives at once?**
+Usually not. Policies to boost growth can raise inflation, raising interest rates can slow growth and raise unemployment, and stimulating demand can worsen the balance of payments.
+
+**How should I evaluate a policy against the government's objectives?**
+State the intended effect on the target objective and a plausible side effect on another, then reach a judgement that depends on the context.

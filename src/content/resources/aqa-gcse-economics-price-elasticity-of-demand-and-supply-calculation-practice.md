@@ -151,6 +151,20 @@ These questions cover **3.1.3.5 Price elasticity of demand** and **3.1.3.6 Price
 - Treating revenue and profit as the same thing.
 - Evaluating with only one side of the argument, or with no final judgement.
 
+## Frequently asked questions
+
+**Which value is the base for a percentage change in elasticity questions?**
+Use the starting value, not the new one, when working out the percentage change in price or quantity.
+
+**Does a negative PED mean demand is inelastic?**
+No. PED is normally negative because of the law of demand; judge elasticity by the size of the number, ignoring the sign.
+
+**How do you work out a new quantity after an 8% fall?**
+Multiply the original quantity by 0.92, not by 0.08, which would give only the size of the fall.
+
+**Which AQA GCSE Economics sections do these questions cover?**
+They cover AQA GCSE Economics 8136 sections 3.1.3.5 Price elasticity of demand and 3.1.3.6 Price elasticity of supply.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/aqa-gcse-economics-price-elasticity-of-demand-and-supply-calculation-revision-notes/) or the [study guide](/resources/aqa-gcse-economics-price-elasticity-of-demand-and-supply-calculation/) for any question you missed.

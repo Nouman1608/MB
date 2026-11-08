@@ -281,6 +281,20 @@ Chain template: cause → effect on competition → effect on price or choice �
 - Calculating a percentage change using the new figure as the base rather than the original.
 - Leaving out units, such as pounds, or the percentage sign.
 
+## Frequently asked questions
+
+**Do oligopolists compete on price?**
+They usually prefer non-price competition, such as branding and advertising, rather than price competition.
+
+**Are barriers to entry a cause or a consequence of market power?**
+Barriers to entry are a cause of market power; higher prices are a consequence.
+
+**Who is affected by market structure?**
+Consumers, producers and workers. Answers on advantages and disadvantages should consider all three groups, not consumers only.
+
+**Do monopolies always charge high prices?**
+Not always. A monopoly can set a high price because buyers have no alternative, but give the reason rather than saying it always does.
+
 ## Official syllabus
 
 Source: AQA, *GCSE Economics (8136) specification*, for first teaching from September 2017, sections 3.1.5.1 to 3.1.5.3.

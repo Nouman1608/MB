@@ -213,6 +213,23 @@ A good evaluation weighs both sides and reaches a judgement:
 - Giving ethical conflicts without saying who is harmed or how the firm gains.
 - Giving no unit. Write £ and, for average figures, per unit.
 
+## Frequently asked questions
+
+**What business objectives do I need for AQA GCSE Economics?**
+AQA GCSE Economics 8136 names profit, sales growth and increasing market share as business objectives.
+
+**How do you calculate market share?**
+Divide the firm's sales by the sales of the whole market and multiply by 100.
+
+**What is the difference between fixed and variable costs?**
+Fixed costs, such as rent and insurance, do not change when output changes. Variable costs, such as raw materials, rise as output rises.
+
+**How can a firm increase its profit?**
+By raising revenue by more than costs, or by cutting costs without losing revenue, for example by finding a cheaper supplier or advertising to raise sales.
+
+**Why do higher prices encourage firms to expand?**
+With costs unchanged, a higher price means more profit per unit, which gives firms an incentive to supply more.
+
 ## Official syllabus
 
 AQA, *GCSE Economics (8136)* specification, for first teaching from September 2017: section 3.1.4.1, The importance of cost, revenue and profit for producers.

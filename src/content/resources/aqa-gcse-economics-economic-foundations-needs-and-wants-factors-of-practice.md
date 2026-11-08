@@ -132,6 +132,20 @@ These questions cover **section 3.1.1, Economic foundations**, of the AQA specif
 - Giving a calculation answer with no decision or evaluation when one is asked for.
 - Writing about needs and wants as fixed, with no reference to time or circumstances.
 
+## Frequently asked questions
+
+**Is opportunity cost the money spent on something?**
+No. Opportunity cost is the best option given up because another was chosen, not the money spent, and only the single best alternative counts.
+
+**How should I answer an explain question in AQA GCSE Economics?**
+Give a reason, not just an example. An example with no explanation of why earns fewer marks.
+
+**Does capital mean money in economics?**
+No. Capital means equipment and buildings made to help produce further output, such as ovens or lorries. Treating capital as cash is a common error.
+
+**What should a calculation answer include?**
+Include units such as loaves or £, and if the question asks for a decision or evaluation, state the decision your figures support.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/aqa-gcse-economics-economic-foundations-needs-and-wants-factors-of-revision-notes/) and the [study guide](/resources/aqa-gcse-economics-economic-foundations-needs-and-wants-factors-of/).

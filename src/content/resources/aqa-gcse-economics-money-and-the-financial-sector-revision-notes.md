@@ -20,8 +20,10 @@ syllabusTopics:
 description: "Condensed AQA GCSE Economics revision notes for 3.2.5.1 and 3.2.5.2: functions and definition of money, the Bank of England, banks and building societies."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-11-05
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 publishedDate: 2026-11-05
 featured: false
 ---
@@ -140,6 +142,23 @@ Banks make profit from the **gap** between the interest rate they charge borrowe
 - Writing that money is "just cash".
 - Mixing up the Bank of England with high street banks.
 - Describing a bank's role without saying why it matters to the economy (investment, growth, stability).
+
+## Frequently asked questions
+
+**What are the four functions of money?**
+Medium of exchange, unit of account, store of value and means of deferred payment. A memory aid is My Uncle Stores Dollars.
+
+**What are the two main roles of the Bank of England in AQA GCSE Economics?**
+Influencing interest rates, through Bank Rate set by the Monetary Policy Committee, and ensuring the stability of the financial system.
+
+**How is a building society different from a bank?**
+A building society is a mutual owned by its members, the savers and borrowers. A commercial bank is owned by shareholders.
+
+**How do banks make a profit?**
+From the gap between the interest rate they charge borrowers and the rate they pay savers.
+
+**Is money just notes and coins?**
+No. Most money in the UK is held as bank and building society deposits spent by card or transfer; notes and coins are only a few per cent of the total.
 
 ## Official syllabus
 

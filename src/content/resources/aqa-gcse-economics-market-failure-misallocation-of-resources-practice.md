@@ -138,6 +138,20 @@ These questions cover sections 3.1.6.1 and 3.1.6.2 of the AQA GCSE Economics (81
 - Evaluating by repeating the explanation, with no limit, cost or alternative.
 - Leaving out the opportunity cost of public money.
 
+## Frequently asked questions
+
+**Is any cost to a firm an externality?**
+No. An externality is a cost or benefit to a third party, someone outside the transaction, not a cost the firm itself pays.
+
+**Does a tax on pollution remove the pollution?**
+No. A tax reduces output towards the social optimum, which reduces pollution; it does not make it zero.
+
+**What should a calculation answer on externalities include?**
+Use the right base for any percentage and give units, such as £1,000 a week, rather than a bare number.
+
+**How do I evaluate a government intervention in AQA GCSE Economics?**
+Go beyond repeating the explanation: give a limit, a cost or an alternative, including the opportunity cost of public money.
+
 ## Next steps
 
 - [Revision notes](/resources/aqa-gcse-economics-market-failure-misallocation-of-resources-revision-notes/)

@@ -283,6 +283,23 @@ A town needs more houses and a builder's PES is 0.2 (illustrative). Check the wo
 - Giving a factor with no explanation. "Substitutes" alone says little. Say that many substitutes make buyers switch, so demand is more elastic.
 - Stating that a price rise always raises revenue.
 
+## Frequently asked questions
+
+**How do you calculate price elasticity of demand?**
+PED equals the percentage change in quantity demanded divided by the percentage change in price. Quantity always goes on the top of the fraction.
+
+**What factors affect price elasticity of demand?**
+The availability and closeness of substitutes, whether the good is a necessity or luxury, the proportion of income spent on it, habit or addiction, and time.
+
+**How does PED affect a firm's revenue?**
+If demand is inelastic, raising the price increases revenue; if demand is elastic, raising the price reduces revenue and cutting it raises revenue.
+
+**What factors affect price elasticity of supply?**
+Spare capacity, stocks of finished goods, time, the length of the production period, and how easily resources can be switched between products.
+
+**Why do governments tax goods with inelastic demand?**
+Because buyers keep purchasing despite the higher price, taxes on goods such as fuel raise a lot of revenue.
+
 ## Next steps
 
 Revise with the [revision notes](/resources/aqa-gcse-economics-price-elasticity-of-demand-and-supply-calculation-revision-notes/), then try the [practice questions](/resources/aqa-gcse-economics-price-elasticity-of-demand-and-supply-calculation-practice/). Tick off progress on the [checklist](/checklists/aqa/gcse/economics/) and take a [free diagnostic](/diagnostics/).

@@ -258,6 +258,23 @@ A good judgement uses *if* and *depends*. The jam business gains if the extra ou
 - Giving only the benefits of the division of labour, with no costs or judgement.
 - Stating specialisation and the division of labour as identical. The second is one way of doing the first.
 
+## Frequently asked questions
+
+**What are the three economic sectors?**
+The primary sector takes natural resources from land or sea, the secondary sector makes and builds products, and the tertiary sector provides services.
+
+**What is the difference between a good and a service?**
+A good is a physical, tangible item that can usually be stored and is owned by the buyer. A service is an activity done for someone that cannot be stored.
+
+**How does a market allocate scarce resources?**
+Prices change when supply or demand changes. A higher price rations goods to those who will pay most and signals producers to move land and labour towards that good.
+
+**Why do individuals and producers specialise?**
+Specialising raises output from the same resources, and the extra output can be exchanged so everyone can gain.
+
+**What are the costs of the division of labour?**
+For workers, repetitive tasks can be boring and narrow skills make it harder to find other work. For firms, bored workers may be absent or leave, and one absence can halt a whole stage of production.
+
 ## Official syllabus
 
 AQA, *GCSE Economics* (code 8136): sections 3.1.2.1 to 3.1.2.3 of the specification, first teaching September 2017.

@@ -100,6 +100,20 @@ A) Raising interest rates  B) Increasing benefits  C) Investment in training  D)
 - Treating pollution as a private cost to the firm.
 - Writing one-sided evaluations with no judgement.
 
+## Frequently asked questions
+
+**Is supply-side policy the same as fiscal or monetary policy?**
+No. Supply-side policies aim to raise the economy's productive capacity, for example through training or deregulation; fiscal and monetary policy mainly change total demand.
+
+**What must I explain when I name a supply-side policy?**
+Explain how the policy increases productive capacity, such as training raising workers' productivity, rather than just naming it.
+
+**Is pollution a cost to the firm that causes it?**
+No. Pollution is an external cost borne by third parties; treating it as a private cost to the firm is a common mistake.
+
+**Which AQA GCSE Economics sections do these questions cover?**
+They cover AQA GCSE Economics 8136 sections 3.2.3.3 Supply-side policies and 3.2.3.4 Policies to correct externalities.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/aqa-gcse-economics-supply-side-and-externality-policies-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-supply-side-and-externality-policies/).

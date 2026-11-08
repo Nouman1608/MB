@@ -138,6 +138,20 @@ These questions cover **section 3.1.5.4, The labour market**, in AQA's GCSE Econ
 - Giving a cause of a wage gap with no link to the wage.
 - Stating a conclusion in an evaluation with no reason for it.
 
+## Frequently asked questions
+
+**What must a supply and demand answer about wages say?**
+State which curve moves, demand or supply of labour, and which way, then the effect on the wage and the number employed.
+
+**What is a common mistake when calculating income tax?**
+Applying the tax rate to the whole of gross pay when an allowance is given. Tax only the pay above the allowance.
+
+**What is often forgotten in overtime calculations?**
+The overtime multiplier, such as time and a half. Multiply the normal hourly rate by the multiplier before multiplying by overtime hours.
+
+**Should total income use gross or net pay?**
+Use net pay when adding up a worker's total income from different sources, unless the question asks for gross.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/aqa-gcse-economics-the-labour-market-wage-determination-differentials-and-revision-notes/) and the [study guide](/resources/aqa-gcse-economics-the-labour-market-wage-determination-differentials-and/).
