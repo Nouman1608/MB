@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "energy-aqa-gcse"
     subtopic: "national-and-global-energy-resources"
-description: "Original exam-style practice questions with full worked answers on renewable and non-renewable energy resources, their uses, reliability and environmental impact, for sub-topic 4.1.3 of AQA GCSE Physics (8463) -- also examinable as sub-topic 6.1.3 of GCSE Combined Science: Trilogy (8464)."
+description: "Original practice questions with worked answers on renewable and non-renewable energy resources for AQA GCSE Physics 8463 (4.1.3) and Combined Science 8464."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
@@ -107,3 +109,17 @@ too.
 This sub-topic rewards specificity over general impressions: an examiner wants a named resource, a named use, and a named, mechanism-based issue (carbon dioxide and climate change, not just "pollution"), rather than a broad statement that a resource is "good" or "bad" for the environment. When asked to compare resources, structure the answer around the same three lenses the specification itself uses -- renewable versus non-renewable, reliability, and environmental/economic/social impact -- since exam questions are built directly around this same three-way structure.
 
 Reliability and environmental impact are genuinely separate dimensions, not two ways of saying the same thing -- nuclear power is reliable but has a waste-storage issue, while wind power has comparatively few environmental drawbacks but is unreliable. A strong answer keeps these two dimensions distinct rather than collapsing them into a single "good vs bad" judgement about a resource.
+
+## Frequently asked questions
+
+**Is this energy resources content also in GCSE Combined Science?**
+Yes. The same material is examinable as sub-topic 6.1.3 of AQA GCSE Combined Science: Trilogy (8464), as well as sub-topic 4.1.3 of AQA GCSE Physics (8463).
+
+**Why do vague environmental answers lose marks?**
+Answers need a specific, named issue and its cause, such as carbon dioxide from burning fossil fuels contributing to climate change. Writing "pollution" or "bad for the environment" earns nothing.
+
+**How should you structure a comparison of energy resources?**
+Compare the resources using the specification's three lenses: renewable or non-renewable, reliability, and environmental, economic and social impact. Keep reliability and environmental impact as separate judgements.
+
+**What mistakes lose marks in energy resources questions?**
+Common errors include treating renewable as meaning clean or impact-free, forgetting that nuclear fuel is non-renewable, and describing reliability vaguely instead of linking it to weather dependence.

@@ -25,7 +25,9 @@ syllabusTopics:
 description: "Study guide for AQA GCSE Physics 8463 Topic 6 Waves: wave properties, v = fλ, sound, ultrasound, seismic waves, the EM spectrum, lenses and black bodies."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -319,6 +321,20 @@ A **perfect black body** absorbs all radiation that falls on it; it reflects and
 - Leaving GHz, MHz, kHz or μs unconverted before using v = f λ.
 - Measuring angles from the surface instead of the normal.
 - Saying a black body "only absorbs". It is also the best emitter.
+
+## Frequently asked questions
+
+**What is the difference between transverse and longitudinal waves?**
+In a transverse wave the oscillations are perpendicular to the direction of energy transfer, as in water ripples and all EM waves. In a longitudinal wave they are parallel, with compressions and rarefactions, as in sound in air.
+
+**How do you measure the speed of sound with an echo?**
+Stand a measured distance from a large wall, clap and time the echo. The sound travels there and back, so double the distance before dividing by the time; reaction time is the main source of error.
+
+**What is required practical 10 in AQA GCSE Physics?**
+Required practical 10 uses a Leslie cube of hot water with faces of different finish. Hold an infrared detector at the same distance from each face; matt black emits the most infrared and shiny silver the least.
+
+**What is a perfect black body?**
+A perfect black body absorbs all the radiation that falls on it, reflecting and transmitting none. Because a good absorber is also a good emitter, it is the best possible emitter.
 
 ## Official syllabus
 

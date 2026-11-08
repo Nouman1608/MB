@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "energy-aqa-gcse"
     subtopic: "energy-changes-in-a-system"
-description: "Condensed recall notes on kinetic, elastic potential and gravitational potential energy, specific heat capacity and power for sub-topic 4.1.1 of AQA GCSE Physics (8463)."
+description: "Condensed recall notes on kinetic, elastic and gravitational potential energy, specific heat capacity and power for sub-topic 4.1.1 of AQA GCSE Physics 8463."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
@@ -160,6 +162,19 @@ It is easy to blur 4.1.1 (this sub-topic) with 4.1.2 Conservation and Dissipatio
 
 **Answers:** 1. Heating, work done by a force, work done when a current flows. 2. Ek = ½mv², Ee = ½ke², Ep = mgh. 3. It quadruples, because Ek depends on v². 4. The energy needed to raise the temperature of 1 kg of a substance by 1°C. 5. The specific heat capacity of a material, by linking the decrease of one energy store (typically electrical work done via a heater) to the resulting temperature rise and thermal energy gained. 6. P = E/t and P = W/t.
 
+## Frequently asked questions
+
+**When does the elastic potential energy equation apply?**
+Ee = ½ke² applies only within the limit of proportionality, where force is proportional to extension. This is separate from the elastic limit, beyond which the spring is permanently deformed.
+
+**What is specific heat capacity?**
+Specific heat capacity is the energy needed to raise the temperature of 1 kg of a substance by 1°C. Water has an unusually high specific heat capacity, so it needs a lot of energy for a small temperature rise.
+
+**What is the difference between sub-topics 4.1.1 and 4.1.2 in AQA GCSE Physics?**
+Sub-topic 4.1.1 covers energy stores, kinetic, elastic and gravitational potential energy, specific heat capacity and power. Sub-topic 4.1.2 covers dissipation, reducing unwanted energy transfers and efficiency, which has calculations of its own.
+
+**What error affects the specific heat capacity practical?**
+Some energy is always dissipated to the surroundings rather than heating the material, which is a systematic error that should be mentioned in the write-up.
 
 ## Related resources
 

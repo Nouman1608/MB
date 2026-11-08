@@ -25,7 +25,9 @@ syllabusTopics:
 description: "Condensed AQA GCSE Physics 8463 Waves revision notes: definitions, equations, required practicals 8-10, EM spectrum, lenses, colour and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -319,6 +321,20 @@ Worked reminder: a white shirt seen through a blue filter looks **blue**; a red 
 - Giving magnification a unit, or using mm for one height and cm for the other.
 - For black bodies, forgetting that a good absorber is also a good emitter.
 - For Required practical 10, not keeping the detector the same distance from each face.
+
+## Frequently asked questions
+
+**Which waves equations do you need for AQA GCSE Physics?**
+You must recall v = fλ. T = 1/f and magnification = image height ÷ object height are given on the equation sheet.
+
+**What is the order of the electromagnetic spectrum?**
+From longest wavelength and lowest frequency to shortest wavelength and highest frequency: radio, microwave, infrared, visible, ultraviolet, X-ray, gamma. All travel at the same speed in a vacuum or air.
+
+**What is the difference between P-waves and S-waves?**
+P-waves are longitudinal and travel through solids and liquids. S-waves are transverse and cannot pass through liquids, which is why they show that part of the Earth's core is liquid. This is Higher tier only content.
+
+**What colour does an object appear through a coloured filter?**
+An opaque object reflects its own colour and absorbs the rest, and a filter transmits only its own colour. If the colour the object reflects is absorbed by the filter, no light reaches the eye and the object looks black.
 
 ## Official syllabus
 

@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Conservation of energy, energy dissipation, insulation, and efficiency calculations, for sub-topic 4.1.2 of AQA GCSE Physics (8463)."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-19
 updatedDate: 2026-09-27
@@ -217,6 +219,20 @@ insulation — a low thermal conductivity material is a good insulator.
 - Describe Required practical activity 2 (effectiveness of insulating materials).
 - Use efficiency = useful output ÷ total input (for both energy and power).
 - (HT only) Describe ways to increase efficiency of an energy transfer.
+
+## Frequently asked questions
+
+**What is the principle of conservation of energy?**
+Energy can be transferred usefully, stored or dissipated, but it can never be created or destroyed. In every system change some energy is dissipated, stored in less useful ways in the surroundings.
+
+**How do you calculate efficiency?**
+Efficiency = useful output energy transfer ÷ total input energy transfer, or useful power output ÷ total power input. It has no units, is often given as a percentage, and cannot exceed 1 (100%).
+
+**How does thermal conductivity affect the rate of cooling of a building?**
+The higher the thermal conductivity of the walls, the higher the rate of energy transfer by conduction. Thicker walls made of low-conductivity material make a building cool more slowly.
+
+**What is required practical activity 2 in AQA GCSE Physics?**
+Required practical activity 2 (physics only) investigates the effectiveness of different materials as thermal insulators. Containers of hot water are wrapped in different materials or thicknesses, and the one with the smallest temperature drop over the same time is the best insulator.
 
 ## Related resources
 

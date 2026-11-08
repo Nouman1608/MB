@@ -20,10 +20,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-dc-circuits"
     subtopic: "as-potential-dividers"
-description: "E.m.f. and internal resistance, Kirchhoff's first and second laws, combined resistance in series and parallel, and potential divider circuits, for Cambridge International AS & A Level Physics 9702."
+description: "E.m.f. and internal resistance, circuit symbols, Kirchhoff's laws, series and parallel resistance and potential dividers: Topic 10 of Cambridge AS Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 updatedDate: 2026-09-27
@@ -281,6 +283,20 @@ terminal p.d.
 - Kirchhoff's first and second laws, and their conservation-law basis
 - Combined resistance formulas for series and parallel
 - The potential divider principle, and thermistor/LDR sensing circuits
+
+## Frequently asked questions
+
+**What is the definition of e.m.f.?**
+Electromotive force is the energy transferred per unit charge by a source in driving charge around a complete circuit. Potential difference is the energy transferred per unit charge across a component.
+
+**What are Kirchhoff's laws?**
+Kirchhoff's first law says the sum of currents entering a junction equals the sum leaving it, a consequence of conservation of charge. The second law says that around any closed loop the sum of e.m.f.s equals the sum of p.d.s, a consequence of conservation of energy.
+
+**How do you tell a cell symbol from a capacitor symbol?**
+Both are two parallel lines across the wire. A cell's lines are of unequal length, with the long line as the positive terminal, while a capacitor's lines are of equal length.
+
+**How do thermistors and LDRs work in potential dividers?**
+Replacing a fixed resistor with a thermistor or LDR makes the output voltage depend on temperature or light intensity, because the component's changing resistance changes the voltage division ratio.
 
 ## Related resources
 
