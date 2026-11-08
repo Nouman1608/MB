@@ -186,6 +186,20 @@ C₇H₁₄O, with concentrated phosphoric acid and distilling the alkene off as
 - Find gaps: all free 10-minute [diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which OxfordAQA Chemistry exam assesses alcohols?**
+Section 3.3.5 Alcohols of OxfordAQA International AS and A-level Chemistry (9620) is International AS content, assessed in the Unit 2 exam (Organic 1 and Physical 1). The practical and synoptic Unit 5 exam can cover any content.
+
+**What are common mistakes in alcohols questions?**
+Frequent errors include giving a colour change for a tertiary alcohol, leaving H₂O out of alcohol to aldehyde or ketone equations, describing distillation for an aldehyde without "as it forms", and starting curly arrows at H⁺ or a positive charge.
+
+**How should I describe a Fehling's or Tollens' test to get full marks?**
+Give the condition, such as warming in a water bath, and an observation for both compounds, including the one that does not react. "Stays blue" is an observation, but "no reaction" is not.
+
+**How do you work out how many alkenes form from an alcohol?**
+Look at each carbon next to the C–OH carbon that carries a hydrogen atom: non-equivalent neighbours give different positional isomers. Then check each alkene for E/Z isomerism, since missing E/Z isomers is a common error.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS

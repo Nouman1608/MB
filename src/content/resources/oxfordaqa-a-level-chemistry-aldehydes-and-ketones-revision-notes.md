@@ -222,6 +222,19 @@ Ar values: Ag 107.9, Cu 63.5, O 16.0, C 12.0, H 1.0.
   <figcaption>The C=O carbon is delta plus and trigonal planar, so nucleophiles attack it.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does NaBH₄ reduce aldehydes and ketones to?**
+Aqueous NaBH₄ reduces an aldehyde to a primary alcohol and a ketone to a secondary alcohol. Overall equations use 2[H], for example RCHO + 2[H] → RCH₂OH.
+
+**Why is KCN used instead of HCN?**
+KCN is an ionic solid that supplies many cyanide ions, while HCN is a weak acid and a dangerous, highly toxic gas. Adding dilute acid afterwards protonates the alkoxide intermediate.
+
+**How do you tell if a hydroxynitrile forms as a racemate?**
+List the two groups on the C=O carbon. If they are different, as in aldehydes other than methanal and in unsymmetrical ketones, the product forms as a racemate; if they are identical, as in methanal or a symmetrical ketone, there is no chiral centre.
+
+**How do you name a hydroxynitrile?**
+Count from the nitrile carbon, which is C1, along the longest chain that includes it. Dropping the nitrile carbon when counting is a common naming error.
 
 ## Official syllabus
 

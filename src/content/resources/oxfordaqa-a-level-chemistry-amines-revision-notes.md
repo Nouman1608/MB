@@ -234,6 +234,20 @@ The product from a primary amine is an **N-substituted amide**; the N- shows tha
 - Missing the + charge on N in either intermediate, or omitting the final H⁺ removal.
 - Writing HCl as a product of an anhydride reaction.
 
+## Frequently asked questions
+
+**What is the order of base strength for amines and ammonia?**
+Primary aliphatic amines are stronger bases than ammonia, which is stronger than primary aromatic amines. The order depends on how available the lone pair on nitrogen is to accept a proton.
+
+**Why is the nitrile route better than the ammonia route for making primary amines?**
+The ammonia route gives a mixture, because the amine formed can attack more halogenoalkane. The nitrile route gives only the primary amine and adds one carbon to the chain.
+
+**Why can a quaternary ammonium ion not act as a base or nucleophile?**
+In R₄N⁺ the nitrogen has used its lone pair to form a fourth bond, so it has no lone pair left to accept a proton or attack a carbon. Repeated substitution therefore stops at the quaternary salt.
+
+**What is the difference between an amine and an amide?**
+An amide has a C=O group bonded to nitrogen, written –CONH–, while an amine has no C=O on the nitrogen. A primary amine reacting with an acyl chloride gives an N-substituted amide.
+
 ## Official syllabus
 
 Source document: the 9620 specification from OxfordAQA (International AS and A-level Chemistry), Version 5.3, first teaching 2019, for exams from May/June 2020. Section covered: 3.3.11 Amines, subsections 3.3.11.1 to 3.3.11.3, all International A2.

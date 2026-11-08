@@ -268,6 +268,20 @@ CH₂Cl₂, CHCl₃ and CCl₄. The product is a mixture.
 - Writing that CaO or CaCO₃ "absorbs" SO₂ with no acidic oxide and base reasoning.
 - Initiation written as ions (Cl⁺ and Cl⁻), or no mention of UV light.
 
+## Frequently asked questions
+
+**What is the difference between thermal and catalytic cracking?**
+Thermal cracking uses high pressure and high temperature and gives a high percentage of alkenes. Catalytic cracking uses a slight pressure, high temperature and a zeolite catalyst, and is used mainly to make motor fuels and aromatic hydrocarbons.
+
+**What do catalytic converters do?**
+Catalytic converters remove gaseous pollutants from engine exhaust by turning them into carbon dioxide, nitrogen and water. Carbon monoxide and unburned hydrocarbons are oxidised and nitrogen monoxide is reduced, for example 2CO + 2NO → 2CO₂ + N₂.
+
+**How is sulfur dioxide removed from power station flue gases?**
+Sulfur dioxide is an acidic oxide, so it is neutralised by calcium oxide, a basic oxide, or calcium carbonate, which reacts with acids. Both trap it as calcium sulfite, for example CaO + SO₂ → CaSO₃.
+
+**Are curly arrows needed in the free-radical mechanism?**
+No. The OxfordAQA 9620 specification says radical mechanisms show the unpaired electron as a dot and curly arrows are not required. Each step still needs its own balanced equation.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International

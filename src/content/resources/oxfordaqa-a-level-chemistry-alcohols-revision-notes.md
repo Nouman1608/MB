@@ -227,6 +227,20 @@ the equation, then (actual ÷ theoretical) × 100. More mole work: the
 - Not showing H⁺ released at the end, so the acid is not shown to be a catalyst.
 - Missing E/Z isomers, or a second positional isomer, among elimination products.
 
+## Frequently asked questions
+
+**Why can tertiary alcohols not be oxidised by acidified dichromate?**
+Oxidation removes the H from the –OH group and an H from the C–OH carbon to make C=O. A tertiary C–OH carbon has no hydrogen atom, so it cannot form C=O without breaking a C–C bond, and the dichromate stays orange.
+
+**What is the colour change when an alcohol is oxidised by acidified dichromate?**
+The orange dichromate(VI) ions are reduced to green chromium(III) ions, so the mixture turns from orange to green. A tertiary alcohol leaves the mixture orange.
+
+**Why does an aldehyde distil off before it is oxidised further?**
+An aldehyde has no hydrogen bonding between its molecules, so it has a lower boiling point than the alcohol. When distilled as it forms, it escapes from the flask before it can be oxidised to the carboxylic acid.
+
+**What are the steps in the acid-catalysed elimination mechanism?**
+A lone pair on oxygen accepts H⁺, forming a protonated alcohol; water then leaves to give a carbocation; finally, electrons from an adjacent C–H bond form the C=C and H⁺ is released, so the acid acts as a catalyst.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS

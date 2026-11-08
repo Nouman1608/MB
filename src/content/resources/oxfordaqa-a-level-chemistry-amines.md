@@ -292,6 +292,20 @@ A second mole of amine would neutralise the ethanoic acid.
 
 Move on to the [amines revision notes](/resources/oxfordaqa-a-level-chemistry-amines-revision-notes/) and, after those, the [amines practice set](/resources/oxfordaqa-a-level-chemistry-amines-practice/). Amide links return in [polymers](/resources/oxfordaqa-a-level-chemistry-polymers/), and amine routes in [organic synthesis](/resources/oxfordaqa-a-level-chemistry-organic-synthesis/). The free [diagnostics](/diagnostics/) show where to focus.
 
+## Frequently asked questions
+
+**How do you classify an amine as primary, secondary or tertiary?**
+Count the carbon atoms joined directly to the nitrogen: one for primary, two for secondary and three for tertiary. For example, (CH₃)₃CNH₂ is a primary amine because its nitrogen carries only one carbon.
+
+**Why is phenylamine a weaker base than ammonia?**
+In phenylamine the nitrogen lone pair overlaps with the delocalised electrons of the benzene ring and is partly drawn into it. Less electron density stays on nitrogen, so the lone pair is less available to accept a proton.
+
+**How are aromatic amines made?**
+Nitration puts an –NO₂ group on the benzene ring, which is then reduced to an –NH₂ group, usually by heating with tin and concentrated hydrochloric acid followed by sodium hydroxide. Aromatic amines made this way are used to manufacture dyes.
+
+**Why are quaternary ammonium salts used as cationic surfactants?**
+A quaternary ammonium salt with a single long hydrocarbon chain has a positive N⁺ head that interacts with water and a non-polar tail that mixes with oils and grease. Salts like this are used in liquid fabric softeners and hair conditioners.
+
 ## Official syllabus
 
 Source document: the 9620 specification from OxfordAQA (International AS and A-level Chemistry), Version 5.3, first teaching 2019, for exams from May/June 2020. Section covered: 3.3.11 Amines, subsections 3.3.11.1 to 3.3.11.3, all International A2.
