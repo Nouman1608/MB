@@ -18,10 +18,12 @@ syllabusTopics:
 description: "How to choose a global issue, pair a literary and a non-literary extract and structure the IB DP Language and Literature individual oral."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide covers the individual oral in IB Diploma Programme Language A: Language and
@@ -248,6 +250,20 @@ several pairings to compare, not one guess.
 - Context across time and place: [Time and space](/resources/ib-dp-language-a-language-literature-time-and-space/)
 - The whole course: [syllabus guide](/resources/ib-dp-language-a-language-and-literature-syllabus-guide/)
   and [subject guide](/resources/ib-dp-language-a-language-and-literature-subject-guide/)
+
+## Frequently asked questions
+
+**What texts do you use in the IB Language and Literature individual oral?**
+You use one literary work and one non-literary body of work, both studied in your course, and anchor the oral in a short extract from each. A body of work is a group of related non-literary texts, such as several adverts from one campaign.
+
+**How do you know if a global issue is a good choice?**
+Check that it matters to large numbers of people, crosses national borders, can be seen in ordinary local life, and that both of your texts engage with it through specific, quotable choices. If the last test fails, change the issue or the pairing.
+
+**How should you structure the individual oral?**
+One workable structure is an introduction with your angle and thesis, focused points on the literary extract, a link to the whole literary work, the same for the non-literary extract and body of work, then a comparison and conclusion.
+
+**Can you read the individual oral from a script?**
+The page advises against it: a prepared oral still needs to sound spoken, so practise from brief notes. Your teacher will share the official rules on notes and timing.
 
 ## Official syllabus
 

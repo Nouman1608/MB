@@ -18,10 +18,12 @@ syllabusTopics:
 description: "Step-by-step study guide to IB DP Language and Literature Paper 1: read an unseen non-literary text, plan, structure and time your analysis."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches the method for **Paper 1: guided textual analysis** in IB Diploma
@@ -268,6 +270,20 @@ Test yourself with the [revision notes](/resources/ib-dp-language-a-language-lit
 then try the [practice questions](/resources/ib-dp-language-a-language-literature-paper-1-guided-textual-analysis-practice/). Related:
 [Readers, writers and texts revision notes](/resources/ib-dp-language-a-language-literature-readers-writers-texts-revision-notes/)
 and the [Time and space revision notes](/resources/ib-dp-language-a-language-literature-time-and-space-revision-notes/).
+
+## Frequently asked questions
+
+**What counts as a non-literary text in IB Language and Literature Paper 1?**
+A non-literary text is written to do a job, such as selling, informing, warning, persuading or commemorating. Paper 1 passages come from different text types, such as adverts, opinion columns, speeches, infographics, leaflets and blogs.
+
+**How should you read a Paper 1 passage?**
+Read the guiding question first and underline its key words, then read the passage three times: once for gist, once to collect evidence on language, structure, visual features and context, and once to form a thesis.
+
+**How do you structure a Paper 1 body paragraph?**
+Use claim, evidence, effect, link: a claim that answers the guiding question, a short embedded quotation or precise visual detail, what that feature does to the reader, and a link back to the question.
+
+**How many paragraphs should a Paper 1 analysis have?**
+There is no set number, but in 75 minutes three strong paragraphs, each with one claim and two or three pieces of evidence, beat five thin ones.
 
 ## Official syllabus
 

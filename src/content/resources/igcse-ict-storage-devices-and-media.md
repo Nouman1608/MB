@@ -16,13 +16,15 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "storage-devices-and-media"
     subtopic: "storage-media-0417"
-description: "The device/media distinction, and the characteristics, uses, advantages and disadvantages of magnetic, optical and solid-state storage devices and media, for Cambridge IGCSE ICT 0417, Topic 3."
+description: "Storage devices versus media, and the uses, advantages and disadvantages of magnetic, optical and solid-state storage, for Cambridge IGCSE ICT 0417 Topic 3."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Topic 3, Storage devices and media**, of Cambridge
@@ -127,6 +129,20 @@ justify a storage choice for a described scenario using at least two
 of these criteria together (for example, "portable and shock-resistant"
 rather than just "fast"), since single-word justifications rarely
 earn full marks in this topic.
+
+## Frequently asked questions
+
+**What are the advantages and disadvantages of magnetic storage?**
+Magnetic hard drives and tape offer large capacity at a relatively low cost per gigabyte. They have slower access than solid-state storage and can be damaged by strong magnetic fields or physical shock.
+
+**What are the advantages and disadvantages of optical storage?**
+CD, DVD and Blu-ray discs are cheap and widely compatible, and read-only or write-once discs suit data that must not be changed after writing. They are generally slower and lower in capacity than magnetic or solid-state options, and depend on the disc surface staying clean and unscratched.
+
+**What are SD, xD and CFast?**
+They are formats of memory card, which Cambridge IGCSE ICT 0417 lists as solid-state storage media. They use the same technology as an SSD, but a memory card is a medium while an SSD is a device.
+
+**Why might a business use more than one type of storage?**
+Different technologies suit different stages of the same workflow. A photographer might use a memory card in the camera, a magnetic hard drive for a low-cost photo library, and Blu-ray discs as an offline archive.
 
 ## Official syllabus
 

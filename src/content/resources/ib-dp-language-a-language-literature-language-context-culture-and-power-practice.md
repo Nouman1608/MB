@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Original IB DP Lang and Lit practice on representation, bias and power: news reports, Wollstonecraft and a company memo, with model answers and plans."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -231,6 +233,20 @@ then Passage C in full is block comparison and weakens the argument.
 - [Printable checklist](/checklists/ib/ib-dp/language-a-language-and-literature/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**How do you show bias in a text in IB Language and Literature?**
+Quote the specific words that create a one-sided treatment, such as loaded labels or a hidden actor, and explain their effect. Writing "the text is biased" with no quotation and no effect earns little.
+
+**Should you treat one news report as neutral when comparing two?**
+No. Every text selects what to include and leave out, so show what each version foregrounds and omits rather than calling one biased and the other true.
+
+**How should you use historical context in an answer?**
+Link the context to a specific word or phrase in the passage and show how it changes the reading. A paragraph of general history with no link to the text is a common way to lose marks.
+
+**Which syllabus component does language and power belong to?**
+Marlbridge maps this unit to the Time and space area of exploration of IB DP Language A: Language and Literature. The course has no numbered subtopics.
 
 ## Official syllabus
 

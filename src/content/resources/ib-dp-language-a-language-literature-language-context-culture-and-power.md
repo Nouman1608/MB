@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Study guide for IB DP Language and Literature on representation, bias, power, gender and identity in texts, and how reception shifts across time and place."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches **Language, context, culture and power** for IB Diploma Programme Language
@@ -243,6 +245,20 @@ course as a whole, see the [syllabus
 guide](/resources/ib-dp-language-a-language-and-literature-syllabus-guide/), [exam
 preparation](/resources/ib-dp-language-a-language-and-literature-exam-preparation/) and [Readers,
 writers and texts](/resources/ib-dp-language-a-language-literature-readers-writers-texts/).
+
+## Frequently asked questions
+
+**What does representation mean in IB Language and Literature?**
+Representation is the way a text presents people, groups, places or events. In IB DP Language A: Language and Literature it is analysed through choices of selection and omission, naming, framing, foregrounding and agency.
+
+**What is the difference between context of production and context of reception?**
+Context of production is who made the text, when, where, for whom and through which institution. Context of reception is who reads it now, where, and what they already believe.
+
+**What is nominalisation?**
+Nominalisation turns an action into a noun, such as "the closure" or "the cuts". It can hide who carried out the action.
+
+**What is othering?**
+Othering presents a group as different from, and less than, an assumed "normal" reader. A stereotype is a related idea: a fixed, simplified representation of a group repeated until it seems natural.
 
 ## Official syllabus
 

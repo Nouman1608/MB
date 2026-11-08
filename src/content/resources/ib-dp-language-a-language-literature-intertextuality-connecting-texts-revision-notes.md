@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Condensed revision notes on Intertextuality for IB DP Language A: Language and Literature: key terms, method steps, distinctions and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These revision notes condense **Intertextuality: connecting texts**, the third syllabus component
@@ -185,6 +187,20 @@ Your teacher will share the assessment criteria.
   choices.
 - Explaining *how* texts differ but not *why*: the difference in purpose, audience or form.
 - Quoting a long passage when a short embedded phrase would carry the point.
+
+## Frequently asked questions
+
+**What is the difference between parody and satire?**
+Parody always imitates a particular style or form, usually to mock it. Satire attacks a target and may or may not imitate anything.
+
+**What is a hybrid text?**
+A hybrid text mixes the conventions of two types or forms, such as a charity leaflet laid out as a school report card or a poem written as terms and conditions. The analytical point is the gap between the borrowed form and the real purpose.
+
+**What are the three things a text can do with a convention?**
+A text can follow a convention, bend it or break it. Following keeps attention on the message; bending or breaking a convention pulls attention to the form itself.
+
+**Do you need to prove a writer read a source?**
+No. It is enough to show what a reader gains by making the connection, but do not invent a specific source that is not there; describe the general style instead.
 
 ## Official syllabus
 

@@ -18,10 +18,12 @@ syllabusTopics:
 description: "Study guide to close reading of prose, poetry and drama for IB DP Language A: Language and Literature, with original and pre-1929 worked examples."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches the close-reading tools for the three main literary forms -- prose, poetry
@@ -272,6 +274,23 @@ try the [practice
 questions](/resources/ib-dp-language-a-language-literature-analysing-literary-forms-practice/). Course
 overview: [syllabus guide](/resources/ib-dp-language-a-language-and-literature-syllabus-guide/) and
 [subject guide](/resources/ib-dp-language-a-language-and-literature-subject-guide/).
+
+## Frequently asked questions
+
+**What is an unreliable narrator?**
+An unreliable narrator is one whose account the reader has reason to doubt. Signals include protesting too much, contradictions, gaps and details that undercut the narrator's own claims, as in Poe's "The Tell-Tale Heart".
+
+**What is iambic pentameter?**
+Iambic pentameter is a line of ten syllables arranged as five iambs, each an unstressed syllable followed by a stressed one. Shakespeare's Sonnet 130 opens with an example: "My mistress' eyes are nothing like the sun".
+
+**What is dramatic irony?**
+Dramatic irony is when the audience knows something that a character does not. In Macbeth, Duncan praises the castle where the audience knows he will be murdered.
+
+**How do you structure an analytical paragraph on a literary text?**
+Make a claim linked to the question, name a feature of the form precisely, embed a short quotation as evidence, explain its effect on the reader or audience, and link back to the claim or the context.
+
+**Is Paper 1 in IB Language and Literature on literary texts?**
+No. In IB DP Language A: Language and Literature, Paper 1 is set on unseen non-literary passages, so literary form analysis is used mainly in Paper 2, the individual oral and the HL essay.
 
 ## Official syllabus
 

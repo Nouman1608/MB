@@ -16,13 +16,15 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "storage-devices-and-media"
     subtopic: "storage-media-0417"
-description: "Original exam-style practice questions with full worked answers on magnetic, optical and solid-state storage devices and media for Cambridge IGCSE ICT 0417, Topic 3."
+description: "Original exam-style storage questions with worked answers: devices versus media, and magnetic, optical and solid-state choices for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -93,6 +95,20 @@ Related: [Storage Devices and Media revision notes](/resources/igcse-ict-storage
 **7.** A strong answer weighs at least two criteria against each other rather than declaring solid-state simply "better." In favour of switching: solid-state storage offers faster access speed and much greater resistance to physical shock, which reduces the risk of losing design work to accidental drops or knocks, and would speed up day-to-day file access while working. Against switching entirely: solid-state storage has a higher cost per gigabyte than magnetic storage, so storing the studio's full archive of past projects on solid-state alone could be significantly more expensive for large total capacity than continuing to use magnetic storage for less frequently accessed, older work. A balanced recommendation might keep solid-state storage for actively worked-on files (prioritising speed and durability) while retaining magnetic storage for long-term archived projects (prioritising low cost per gigabyte), rather than switching everything to one technology. **[6]** (Marks for genuinely weighing at least two named criteria against each other, and for a scenario-appropriate rather than absolute conclusion.)
 
 **8.** Both an SSD (a storage device) and an SD memory card (storage media) use the same underlying solid-state technology — no moving parts, and data stored electronically rather than magnetically or optically. The distinction is not about the technology itself but about the role each one plays: an SSD is the hardware unit that reads and writes the data (making it a device), while an SD card is the removable physical material the data is actually recorded onto, separate from whatever device (such as a camera or card reader) reads it (making it a medium). The syllabus specifically expects candidates to identify which of these two roles a question is asking about, even when the underlying technology is identical. **[4]**
+
+## Frequently asked questions
+
+**How do you answer a "recommend a storage technology" question in IGCSE ICT?**
+Name one technology, then justify it against the scenario's actual purpose, such as speed, cost per gigabyte, portability, durability or write-once permanence. Single-word justifications like "fast" rarely earn full marks; use at least two criteria together.
+
+**What is the most common mistake in storage devices and media questions?**
+Using "storage device" and "storage medium" as if they mean the same thing. In Cambridge IGCSE ICT 0417 the device is the hardware that reads and writes data, and the medium is the material the data is recorded on, and some questions test that distinction directly.
+
+**Is one storage technology always the best answer?**
+No. Magnetic, optical and solid-state storage each lead on different measures, so the right choice depends on what the storage is for, such as everyday access, low-cost archiving or portability.
+
+**What is the order of optical disc capacity?**
+CD holds the least, DVD holds more, and Blu-ray holds the most. Mixing up this order is a common slip in exam answers.
 
 ## Official syllabus
 

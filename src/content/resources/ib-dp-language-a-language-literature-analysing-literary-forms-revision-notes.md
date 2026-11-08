@@ -18,10 +18,12 @@ syllabusTopics:
 description: "Revision notes for IB DP Lang and Lit: key terms for prose, poetry and drama, scansion steps, must-know distinctions and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and worked examples, start with the [study guide to analysing prose, poetry
@@ -217,6 +219,20 @@ intrusive. Name the convention, then say how its effect has shifted.
 - Quoting whole sentences instead of embedding the two or three words that carry the effect.
 - Retelling plot instead of analysing structure (flashback, pace, where the text turns).
 - Discussing context as background, not as something that changes how a convention works.
+
+## Frequently asked questions
+
+**How do you scan a line of poetry?**
+Count the syllables, mark the natural stresses as you would say the words, group them into feet and count the feet. Check two or three more lines before naming the metre, and look for the line that breaks the pattern.
+
+**What is the difference between enjambment and caesura?**
+Enjambment is when a sentence runs over the end of a line; caesura is a strong pause inside a line, often marked by a full stop or dash.
+
+**What is free indirect discourse?**
+Free indirect discourse is third-person narration that slips into a character's own words or thoughts without a tag such as "she thought". It gives closeness to the character, often with a trace of irony.
+
+**What is the difference between a soliloquy and an aside?**
+A soliloquy is a long speech by a character alone on stage; an aside is a brief remark to the audience that other characters present do not hear.
 
 ## Official syllabus
 

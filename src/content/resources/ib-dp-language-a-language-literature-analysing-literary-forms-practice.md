@@ -18,10 +18,12 @@ syllabusTopics:
 description: "Original IB DP Lang and Lit practice on a prose extract, a sonnet and a drama scene, with marked answers, model plans and examiner insights."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -237,6 +239,20 @@ features of A, then features of C.
   [printable checklist](/checklists/ib/ib-dp/language-a-language-and-literature/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Where are prose, poetry and drama analysis skills assessed in IB Language and Literature?**
+In IB DP Language A: Language and Literature they are used mainly in Paper 2, the comparative essay on two literary works, in the individual oral and in the HL essay. Paper 1 is set on unseen non-literary texts.
+
+**Why do answers that name techniques still lose marks?**
+Naming enjambment, dramatic irony or an unreliable narrator earns little unless you explain the effect of that technique in this particular passage. Link each feature to what it makes the reader or audience feel, notice or believe.
+
+**How do you identify a sonnet in an exam answer?**
+Check the rhyme scheme as well as the line count, because fourteen lines alone do not make a poem a Shakespearean or Petrarchan sonnet. A Shakespearean sonnet rhymes ABAB CDCD EFEF GG; a Petrarchan sonnet divides 8 + 6 with a turn at line 9.
+
+**How should you analyse a drama extract?**
+Treat the script as a performance and discuss stage directions and what the audience sees, not only the dialogue. Stage directions can show what a character is hiding or contradict what they say.
 
 ## Official syllabus
 

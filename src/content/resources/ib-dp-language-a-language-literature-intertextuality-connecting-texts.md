@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Study guide to Intertextuality in IB DP Language A: Language and Literature -- allusion, parody, text-type conventions and comparing texts."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches **Intertextuality: connecting texts**, the third of the three syllabus
@@ -238,6 +240,20 @@ guide](/resources/ib-dp-language-a-language-and-literature-syllabus-guide/) and 
 guide](/resources/ib-dp-language-a-language-and-literature-subject-guide/); for each assessment, see
 [exam preparation](/resources/ib-dp-language-a-language-and-literature-exam-preparation/) and the
 [assessment revision notes](/resources/ib-dp-language-a-language-and-literature-assessment-revision-notes/).
+
+## Frequently asked questions
+
+**What is an allusion?**
+An allusion is a brief, indirect reference to another text or event that the reader is expected to recognise. A headline calling a doomed project "a modern Titanic" alludes to the ship.
+
+**What is the difference between parody and pastiche?**
+Parody imitates a style or form in order to mock or criticise it, often by exaggerating its features. Pastiche imitates a style to celebrate or play with it, without mockery.
+
+**How many teaching hours does Intertextuality have in IB Language and Literature?**
+The IB subject brief recommends 50 teaching hours for Intertextuality: connecting texts at SL and 80 at HL, the same as each of the other two areas of exploration.
+
+**Which IB Language and Literature assessments use intertextuality?**
+All four can draw on it. Paper 2 and the individual oral depend on comparing texts, Paper 1 rewards knowing text-type conventions, and the HL essay can be built on an intertextual line of inquiry.
 
 ## Official syllabus
 

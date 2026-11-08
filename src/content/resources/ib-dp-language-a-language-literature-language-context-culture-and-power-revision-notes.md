@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Condensed IB DP Lang and Lit notes on context, representation, bias, power, gender and identity, with method steps, key distinctions and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and worked examples, read the [Language, context, culture and power study
@@ -192,6 +194,20 @@ and "joins him" makes her secondary.
 - Describing "the reader" as if every reader responds the same way.
 - Discussing gender only in texts about women, and missing how men are represented too.
 - Forgetting to say which version of the world the text offers, and who it serves.
+
+## Frequently asked questions
+
+**What is the difference between perspective and bias?**
+Every text has a perspective, the position it is written from. Bias is a stronger claim, a one-sided treatment presented as fair, and you must prove it with evidence of one-sided language.
+
+**What is an agentless passive?**
+An agentless passive is a passive verb with no actor named, such as "The library was closed". It hides who is responsible, which is why it is worth spotting in news reports and official texts.
+
+**What is a marked term?**
+A marked term adds a word that signals someone is unusual for a role, such as "male nurse" or "lady doctor". The marking reveals an assumption about who normally fills that role.
+
+**What are Stuart Hall's three reading positions?**
+They are the dominant or preferred reading, which accepts the intended meaning; the negotiated reading, which accepts some and resists some; and the oppositional reading, which rejects it.
 
 ## Official syllabus
 
