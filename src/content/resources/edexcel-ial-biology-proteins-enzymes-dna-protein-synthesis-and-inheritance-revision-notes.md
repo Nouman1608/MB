@@ -13,13 +13,15 @@ order: 149
 syllabusTopics:
   - qualification: "a-level"
     topic: "membranes-proteins-dna-and-gene-expression-edexcel-alevel-biology"
-description: "Revision notes with a self-test on proteins, enzymes, DNA replication, protein synthesis, mutation, inheritance, cystic fibrosis and genetic screening for Edexcel International A Level Biology, statements 2.6 to 2.18."
+description: "Revision notes and self-test on proteins, enzymes, DNA replication, protein synthesis, mutation, inheritance and screening for Edexcel IAL Biology, 2.6-2.18."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-11-05
 publishedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 Quick recall for specification statements 2.6 to 2.18 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2. These statements complete Topic 2 (Membranes, Proteins, DNA and Gene Expression), which is part of the International AS (IAS) content and is examined in Unit 1. Statements 2.1 to 2.5 (gas exchange, membranes and transport) are in the separate [gas exchange, membranes and osmosis revision notes](/resources/edexcel-a-level-biology-membranes-gas-exchange-revision-notes/).
 
@@ -267,6 +269,23 @@ Both prenatal tests carry a small risk of miscarriage, and no test is completely
 * Drawing a sex-linked cross without X and Y chromosomes in the genotypes.
 * Describing cystic fibrosis as "too much mucus" without linking it to chloride ions and water movement.
 * Giving only one viewpoint in a screening ethics question.
+
+## Frequently asked questions
+
+**What is the difference between lock and key and induced fit?**
+In the lock-and-key model the active site is a rigid shape that fits the substrate exactly. In the induced-fit model the active site changes shape slightly as the substrate binds.
+
+**What did the Meselson and Stahl experiment show?**
+Bacteria grown on heavy nitrogen and then moved to light nitrogen gave results that only semi-conservative replication fits: each new DNA molecule has one original strand and one new strand.
+
+**What does it mean that the genetic code is degenerate?**
+There are 64 possible triplets but only 20 amino acids, so most amino acids are coded for by more than one triplet.
+
+**How is red-green colour blindness inherited?**
+It is caused by a recessive allele on the X chromosome. A male with one recessive allele is colour blind, while a female needs two copies, so sons inherit it from their mothers.
+
+**What is the difference between amniocentesis and CVS?**
+Amniocentesis samples amniotic fluid later in pregnancy; chorionic villus sampling takes cells from the placenta earlier. Both carry a small risk of miscarriage.
 
 ## Official syllabus
 

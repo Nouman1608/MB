@@ -141,6 +141,20 @@ These questions follow the Pearson Edexcel International Advanced Subsidiary/Adv
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which Edexcel statements do these questions cover?**
+They cover statements 8.1 to 8.7 of Pearson Edexcel International A Level Biology (YBI11): neurones, reflexes, action potentials, synapses, the pupil and drugs.
+
+**How should you describe sodium ions entering an axon?**
+Say that sodium ions diffuse in through open channels. Writing just "sodium goes in" loses marks.
+
+**What unit conversion is often missed in nerve calculations?**
+Converting milliseconds to seconds before dividing to find a speed or frequency.
+
+**Should you use radius or diameter for the area of the pupil?**
+Use the radius in πr². Using the diameter is a common mistake.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification, Issue 2, Pearson Education Limited. Statements 8.1 to 8.7 of Topic 8.

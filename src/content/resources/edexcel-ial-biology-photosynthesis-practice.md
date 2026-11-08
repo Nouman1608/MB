@@ -135,6 +135,20 @@ These questions cover statements 5.1 to 5.8 (photosynthesis, including Core Prac
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which Edexcel statements do these questions cover?**
+They cover statements 5.1 to 5.8 of Pearson Edexcel International A Level Biology (YBI11), on photosynthesis, chromatography and Core Practical 10.
+
+**Should you describe ATP as "energy"?**
+No. ATP is a molecule that releases energy when it is hydrolysed. Calling ATP "energy" loses marks.
+
+**What should you say about chloroplast structures?**
+Give the function of each structure as well as its name. Listing structures with no function does not earn the marks.
+
+**What should a practical plan say about other variables?**
+Say how each other variable is controlled, not just which ones are kept the same.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology (YBI11) specification, Issue 2, published by Pearson Education Limited.

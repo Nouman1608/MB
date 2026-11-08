@@ -214,6 +214,23 @@ A balanced evaluation sets these against higher seed cost and resistance risk, a
 - Describing the heat shock as killing bacteria. It makes them take up DNA.
 - Treating microarray brightness as DNA amount rather than mRNA amount.
 
+## Frequently asked questions
+
+**What is recombinant DNA?**
+Recombinant DNA is DNA made by joining DNA from two different sources, such as a human gene inserted into a bacterial plasmid.
+
+**What are the three ways to obtain a gene for genetic engineering?**
+Cut it from the genome with restriction endonucleases, make cDNA from mRNA using reverse transcriptase, or synthesise the gene in a machine from a known base sequence.
+
+**How are drugs made by genetically modified organisms?**
+The human gene for a protein drug is put into a host such as bacteria, yeast, animals or plants. In animals the gene can be joined to a promoter active only in the mammary glands, so the protein is secreted in milk.
+
+**Does ligase join sticky ends by hydrogen bonds?**
+No. Hydrogen bonds hold the sticky ends together temporarily; DNA ligase forms phosphodiester bonds to seal the backbone.
+
+**What does heat shock do in bacterial transformation?**
+Heat shock, after chilling with calcium chloride, makes the bacterial membrane more permeable so plasmids can enter. It does not kill the bacteria.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification, Issue 2, February 2021, Pearson Education Limited.

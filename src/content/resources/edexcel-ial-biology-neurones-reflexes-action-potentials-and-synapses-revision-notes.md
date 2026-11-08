@@ -282,6 +282,23 @@ Parts: presynaptic knob (mitochondria, vesicles of ACh, voltage-gated Ca²⁺ ch
 - Mixing up nicotine (activates receptors) with alpha toxin (blocks them).
 - Forgetting units for speed, potential and area.
 
+## Frequently asked questions
+
+**What are the steps in a spinal reflex arc?**
+A receptor is stimulated, a sensory neurone enters the spinal cord by the dorsal root, synapses with a relay neurone in the grey matter, which synapses with a motor neurone leaving by the ventral root, and the effector responds.
+
+**What happens during an action potential?**
+Voltage-gated sodium channels open and Na⁺ diffuses in, depolarising the membrane. At the peak sodium channels close and voltage-gated potassium channels open, so K⁺ moves out and the membrane repolarises, briefly hyperpolarising.
+
+**Why is saltatory conduction faster and more efficient?**
+Myelin insulates the axon so action potentials occur only at the nodes of Ranvier, giving fewer sites to regenerate the impulse and fewer ions to pump back, so less ATP is used.
+
+**How do nicotine and alpha toxin affect synapses?**
+Both act on acetylcholine receptors but with opposite effects: nicotine activates the receptors, while alpha toxin blocks them.
+
+**Why is L-DOPA given instead of dopamine for Parkinson's disease?**
+L-DOPA crosses into the brain, where it is converted to dopamine; dopamine itself does not cross into the brain.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification, Issue 2, Pearson Education Limited. Statements 8.1 to 8.7 of Topic 8.
