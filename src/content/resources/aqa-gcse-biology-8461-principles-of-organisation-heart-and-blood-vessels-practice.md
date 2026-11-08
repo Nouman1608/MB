@@ -25,7 +25,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "organisation-aqa-gcse-biology"
     subtopic: "coronary-heart-disease-aqa-gcse-biology"
-description: "Original AQA GCSE Biology 8461 questions on organisation, the heart, lungs, pacemakers, blood vessels and blood-flow rates, with marked answers."
+description: "Original AQA GCSE Biology 8461 questions on organisation, the heart, lungs, blood vessels, blood-flow rates, blood cells and heart disease, with marked answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
 featured: false
@@ -37,10 +37,11 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover **4.2.1 Principles of organisation** and **4.2.2.2 The heart and blood vessels** of the
-AQA GCSE Biology (8461) specification, for teaching from September 2016 and exams from 2018 onwards. Both are
-assessed on Paper 1, set at Foundation and Higher Tier. Neither subtopic has content marked (HT only), so every
-question suits both tiers. Questions 2, 9 and 10 practise the size-and-scale and blood-flow rate skills (MS 1a, 1c).
+These questions cover **4.2.1 Principles of organisation**, **4.2.2.2 The heart and blood vessels**, **4.2.2.3 Blood**
+and **4.2.2.4 Coronary heart disease** of the AQA GCSE Biology (8461) specification, for teaching from September 2016
+and exams from 2018 onwards. All are assessed on Paper 1, set at Foundation and Higher Tier. None of these subtopics
+has content marked (HT only), so every question suits both tiers. Questions 1 to 12 cover 4.2.1 and 4.2.2.2;
+questions 13 to 21 cover blood and coronary heart disease. Questions 2, 9 and 10 practise the size-and-scale and blood-flow rate skills (MS 1a, 1c).
 
 Learn the content first in the [study guide for this unit](/resources/aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels/)
 and the [revision notes for this unit](/resources/aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels-revision-notes/).
@@ -247,6 +248,17 @@ prevent blood clots [1]. **[2]**
 - Calculating a percentage increase using the new value as the denominator.
 - Using cell, tissue and organ loosely, for example calling the heart a tissue.
 
+## Frequently asked questions
+
+**Which AQA GCSE Biology paper tests this content?**
+All of 4.2 Organisation is assessed on Paper 1 (1 hour 45 minutes, 100 marks), at both Foundation and Higher Tier. Rate calculations for blood flow (MS 1a, 1c) can appear on either tier.
+
+**How should I answer a 6-mark question on lung adaptations or CHD treatments?**
+Pair every feature with its effect (for lungs, the effect on diffusion), or compare treatments on the same criteria, and finish an evaluation with a judgement linked to the patient in the question.
+
+**What is the most common calculation slip on this topic?**
+Forgetting to convert units before dividing, such as mm to µm or dm³ to cm³, and using the new value instead of the original as the denominator in a percentage change.
+
 ## Next steps
 
 - [Revision notes for this unit](/resources/aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels-revision-notes/)
@@ -260,4 +272,5 @@ prevent blood clots [1]. **[2]**
 ## Official syllabus
 
 AQA GCSE Biology (8461) specification, Version 1.0, for teaching from September 2016 and exams from 2018 onwards
-(AQA), section 4.2 Organisation: 4.2.1 Principles of organisation and 4.2.2.2 The heart and blood vessels.
+(AQA), section 4.2 Organisation: 4.2.1 Principles of organisation, 4.2.2.2 The heart and blood vessels, 4.2.2.3 Blood and
+4.2.2.4 Coronary heart disease: a non-communicable disease.

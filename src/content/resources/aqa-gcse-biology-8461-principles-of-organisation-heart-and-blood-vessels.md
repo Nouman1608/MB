@@ -25,17 +25,20 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "organisation-aqa-gcse-biology"
     subtopic: "coronary-heart-disease-aqa-gcse-biology"
-description: "AQA GCSE Biology 8461 study guide to levels of organisation, the heart, lungs, double circulation and blood vessels, with blood-flow rate examples."
+description: "AQA GCSE Biology 8461 study guide to levels of organisation, the heart, lungs, blood vessels, blood and coronary heart disease, with blood-flow rate examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
 featured: false
 ---
 
-This guide teaches two subtopics of the AQA GCSE Biology (8461) specification, for teaching from September 2016
-and exams from 2018 onwards: **4.2.1 Principles of organisation** and **4.2.2.2 The heart and blood vessels**.
-Both sit in Topic 2, Organisation, which is assessed on Paper 1 (1 hour 45 minutes, 100 marks), set at
-Foundation and Higher Tier. Neither subtopic contains content the specification marks (HT only), so everything
-here is for both tiers. No required practical activity is listed under these two subtopics.
+Principles of organisation and the heart and blood vessels is the part of AQA GCSE Biology (8461) Topic 2 that explains how cells build tissues, organs and organ systems, and how the heart, lungs, blood and blood vessels work as one transport system. In the exam you must describe structures, explain how each one suits its function, carry out simple blood-flow rate calculations and evaluate treatments for coronary heart disease.
+
+This guide covers four subtopics of the AQA GCSE Biology (8461) specification, for teaching from September 2016
+and exams from 2018 onwards: **4.2.1 Principles of organisation**, **4.2.2.2 The heart and blood vessels**,
+**4.2.2.3 Blood** and **4.2.2.4 Coronary heart disease: a non-communicable disease**.
+All sit in Topic 2, Organisation, which is assessed on Paper 1 (1 hour 45 minutes, 100 marks), set at
+Foundation and Higher Tier. None of these subtopics contains content the specification marks (HT only), so everything
+here is for both tiers. No required practical activity is listed under these subtopics.
 
 For quick recall, use the [revision notes for this unit](/resources/aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels-revision-notes/).
 To test yourself, use the [practice questions for this unit](/resources/aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels-practice/).
@@ -55,6 +58,8 @@ lists every specification point.
 | 4.2.2.2 | Describe the natural pacemaker in the right atrium and the use of artificial pacemakers | Both |
 | 4.2.2.2 | Explain how the structure of arteries, veins and capillaries relates to their functions | Both |
 | 4.2.2.2 (MS 1a, 1c) | Use simple compound measures such as rate; carry out rate calculations for blood flow | Both |
+| 4.2.2.3 | Know the functions of plasma, red blood cells, white blood cells and platelets; recognise blood cells in a photograph or diagram and explain how they are adapted | Both |
+| 4.2.2.4 | Describe coronary heart disease and evaluate treatment by stents, statins, replacement valves, transplants and artificial hearts | Both |
 
 Two limits from the specification help you revise efficiently. You do **not** need the names of the heart
 valves. For the lungs, you need only the trachea, bronchi, alveoli and the capillary network around the
@@ -372,6 +377,20 @@ now, with statins to slow further build-up.
 - Giving veins thick walls, or arteries valves along their length.
 - Dividing time by amount in a rate calculation, or leaving out the unit.
 
+## Frequently asked questions
+
+**Why does the left ventricle have a thicker wall than the right ventricle?**
+The left ventricle pumps blood around the whole body, so it must produce a higher pressure. The right ventricle only pumps blood to the lungs, which are close to the heart, so it needs less muscle.
+
+**Where is the heart's natural pacemaker?**
+It is a group of cells in the right atrium that controls the resting heart rate. If it fails, an artificial pacemaker, an electrical device, can correct an irregular heart rate.
+
+**Do I need to learn the names of the heart valves for AQA GCSE Biology?**
+No. The 8461 specification says knowledge of the names of the heart valves is not required. You do need to know that valves prevent blood flowing backwards.
+
+**How do I work out heart rate from a pulse count?**
+Divide the number of beats by the counting time in seconds and multiply by 60. For example, 21 beats in 15 seconds is 21 / 15 x 60 = 84 beats per minute.
+
 ## Where to go next
 
 - [Revision notes for this unit](/resources/aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels-revision-notes/)
@@ -382,4 +401,5 @@ now, with statins to slow further build-up.
 ## Official syllabus
 
 AQA GCSE Biology (8461) specification, Version 1.0, for teaching from September 2016 and exams from 2018 onwards
-(AQA), section 4.2 Organisation: 4.2.1 Principles of organisation and 4.2.2.2 The heart and blood vessels.
+(AQA), section 4.2 Organisation: 4.2.1 Principles of organisation, 4.2.2.2 The heart and blood vessels, 4.2.2.3 Blood and
+4.2.2.4 Coronary heart disease: a non-communicable disease.
