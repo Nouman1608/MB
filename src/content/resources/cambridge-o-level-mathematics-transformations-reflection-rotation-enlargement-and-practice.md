@@ -118,6 +118,20 @@ These questions cover section 7.1 (Transformations) of the Cambridge O Level Mat
 - Drawing sloping edges freehand, when a ruler must be used.
 - Writing a translation as a coordinate pair when a column vector is asked for.
 
+## Frequently asked questions
+
+**What do you need to describe a rotation fully?**
+State that it is a rotation and give the centre, the angle and the direction of turn. Leaving out the centre or direction loses marks.
+
+**How do you describe a reflection?**
+Give the mirror line as an equation, such as x = −1 or y = −x. Describing it in words or as a flip does not earn the mark.
+
+**What does a negative scale factor do in an enlargement?**
+A negative scale factor puts the image on the opposite side of the centre and turns it upside down. Keeping the image on the same side is a common mistake.
+
+**How does an enlargement change area?**
+The area is multiplied by the square of the scale factor. For example, a scale factor of 3 multiplies area by 9, and a scale factor of −2 multiplies it by 4.
+
 ## Next steps
 
 - Recap quickly with the [revision notes](/resources/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and-revision-notes/).

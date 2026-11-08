@@ -234,6 +234,23 @@ Environmental limits include finite resources, climate change and loss of habita
 - Saying a high HDI means equality; that is what IHDI and Gini are for.
 - Saying PPP removes all problems: it still uses average prices and averages incomes.
 
+## Frequently asked questions
+
+**What is the difference between economic growth and economic development?**
+Economic growth is an increase in real national income over time, usually measured by one number. Development is a lasting improvement in well-being, including health, education, freedom from poverty and a fairer spread of income, so it needs several indicators.
+
+**Can a country have growth without development?**
+Yes. A country can grow quickly on the sale of one mineral while most households see nothing. Growth usually helps by raising tax revenue for schools and clinics, but it is neither necessary nor sufficient for development.
+
+**Why can market exchange rates mislead when comparing living standards?**
+Market rates reflect traded goods, capital flows and speculation, while non-traded services such as rent and haircuts are cheaper in poorer countries. PPP exchange rates correct for this by using the relative cost of the same basket.
+
+**What does the Multidimensional Poverty Index measure?**
+The MPI counts overlapping deprivations in health, education and living standards. It equals H times A, where H is the share of people who are poor and A is the average share of indicators in which the poor are deprived, so it shows depth as well as extent.
+
+**Do I need to know how national income is measured for OxfordAQA 9640?**
+No detailed knowledge of measuring national income is needed for section 3.4.3.1 of the OxfordAQA 9640 specification, but you must know how GDP, GNI and NNI differ and the limitations of each indicator.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, section 3.4.3.1, published by OxfordAQA (first teaching September 2020, first A-level exams May/June 2022).

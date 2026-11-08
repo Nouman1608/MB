@@ -13,13 +13,16 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-socialisation-identity-methods-9699"
-description: "Socialisation and the creation of social identity, and methods of sociological research -- the full content of Paper 1 for Cambridge International AS & A Level Sociology (9699)."
+  - qualification: "a-level"
+    topic: "paper-1-socialisation-identity-methods-9699"
+    subtopic: "approaches-to-sociological-research-9699"
+description: "Study guide to Paper 1 of Cambridge International AS & A Level Sociology 9699: socialisation, social control, identity and methods of sociological research."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers **Paper 1 Socialisation, Identity and Methods of
@@ -122,6 +125,20 @@ generalisability, reflecting interpretivism's view that human behaviour cannot b
 through the same methods used to study the natural world. Exam questions consistently ask candidates to apply this framework to a specific,
 sometimes unfamiliar research scenario, so practise identifying which approach a described method
 sits closer to, and why, rather than only being able to define the two approaches in the abstract.
+
+## Frequently asked questions
+
+**What does Cambridge 9699 Sociology Paper 1 cover?**
+Paper 1 covers socialisation, social control, conformity and resistance, social identity and change, and methods of research, including types of data, research design, approaches and research issues.
+
+**What is the difference between positivist and interpretivist approaches?**
+Positivists favour quantitative, structured methods such as surveys and official statistics, aiming for reliability and generalisation. Interpretivists favour qualitative methods such as unstructured interviews and participant observation, aiming for validity.
+
+**Why is Paper 1 important for the rest of Cambridge A Level Sociology?**
+Paper 1 lays the theoretical and methodological foundations that Paper 2 (The Family) and Papers 3 and 4 build on, so its concepts are used throughout the course.
+
+**How should you answer a research methods question in Cambridge Sociology?**
+Evaluate the named method in the specific research context given, for example explaining why an unstructured interview suits a sensitive topic, rather than listing general strengths and weaknesses.
 
 ## Official syllabus
 

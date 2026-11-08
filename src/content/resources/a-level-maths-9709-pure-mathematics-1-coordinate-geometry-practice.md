@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "coordinate-geometry-cambridge-alevel-maths"
 description: "12 original Cambridge 9709 Paper 1 coordinate geometry questions with mark-by-mark answers on lines, circles, tangents and intersections."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -152,6 +152,20 @@ Related: the [coordinate geometry study guide](/resources/a-level-mathematics-pu
 - The second coordinate of an intersection taken from the circle rather than the line.
 - Only one value kept from ±√, losing a second tangent or a second point.
 - "Show that" steps missing: substitution and conclusion must both be written.
+
+## Frequently asked questions
+
+**How do you find the perpendicular bisector of a line segment?**
+Find the midpoint of the segment, work out its gradient, take the negative reciprocal −1/m, and write the line through the midpoint with that gradient.
+
+**How do you find the shortest distance from a point to a line?**
+Write the line through the point perpendicular to the given line, find where the two lines meet (the foot of the perpendicular), then use the distance formula between the point and that foot.
+
+**How do you find the values of k for which a line is a tangent to a curve or circle?**
+Substitute the line into the curve to form one quadratic, then set its discriminant equal to zero. For no intersection the discriminant is negative, and for two distinct points it is positive.
+
+**What does "in the form ax + by + c = 0" require in Cambridge 9709 Paper 1?**
+Clear all fractions and collect every term on one side so that a, b and c are integers. A correct line left in y = mx + c form with fractions loses the final mark.
 
 ## Next steps
 

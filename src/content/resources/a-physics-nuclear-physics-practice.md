@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-nuclear-physics"
     subtopic: "a-radioactive-decay"
-description: "Original exam-style practice questions with full worked answers on binding energy, mass defect, radioactive decay and fission for A Level Physics."
+description: "Original Cambridge A Level Physics 9702 nuclear questions with worked answers: mass defect, binding energy, E = c²Δm, fission, fusion and decay constant."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: replaced reactor moderator/control-rod question (not in 9702 topic 23) with nuclear-equation and fusion-energy (E = c²Δm) questions from 23.1; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -56,11 +56,9 @@ Related: [Nuclear Physics revision notes](/resources/a-physics-nuclear-physics-r
 
 **5.** Explain what is meant by saying radioactive decay is **random** and **spontaneous**. **[2]**
 
-**6.** In a fission reactor, describe the function of:
-
-**(a)** the moderator **[2]**
-**(b)** the control rods **[2]**
-**(c)** the coolant **[1]**
+**6.** **(a)** Complete the nuclear equation for the first artificial transmutation: ¹⁴₇N + ⁴₂He → ¹⁷₈O + ? **[1]**
+**(b)** In a fusion reaction, ²₁H + ³₁H → ⁴₂He + ¹₀n. The masses are: ²₁H 2.01410 u, ³₁H 3.01605 u, ⁴₂He 4.00260 u, ¹₀n 1.00867 u. Calculate the energy released, in MeV. (1 u = 931.5 MeV) **[3]**
+**(c)** Explain, in terms of binding energy, why this reaction releases energy. **[1]**
 
 **7.** Define the decay constant, λ, and state the general exponential decay equation, noting the three quantities it can be applied to. **[3]**
 
@@ -91,9 +89,9 @@ N = 4.8 × 10⁵ ÷ 1.002 × 10⁻⁶ = **4.79 × 10¹¹ nuclei** [1].
 
 **5. Random** — it is impossible to predict **which nucleus will decay or when** [1]. **Spontaneous** — the decay is **unaffected by external conditions** such as temperature, pressure or chemical state [1].
 
-**6. (a)** It **slows the fast neutrons** produced by fission [1] so they are more likely to be absorbed and cause further fission [1].
-**(b)** They **absorb neutrons** [1], and are raised or lowered to control the rate of the chain reaction and keep it steady [1].
-**(c)** It **removes thermal energy** from the core, transferring it to generate steam [1].
+**6. (a)** ¹₁H (a proton): nucleon numbers 14 + 4 = 17 + 1 and proton numbers 7 + 2 = 8 + 1 [1].
+**(b)** Mass before = 2.01410 + 3.01605 = 5.03015 u; mass after = 4.00260 + 1.00867 = 5.01127 u [1]. Δm = 0.01888 u [1]; energy released = 0.01888 × 931.5 = **17.6 MeV** [1].
+**(c)** The helium-4 product has a **greater total binding energy** (higher binding energy per nucleon) than the two hydrogen nuclei, and the increase in binding energy is released [1].
 
 **7.** The decay constant is the **probability that any individual nucleus decays in unit time** [1]. The general equation x = x₀e^(−λt) [1] applies equally to the number of undecayed nuclei N, the activity A, or the measured count rate [1].
 
@@ -110,8 +108,22 @@ N = 4.8 × 10⁵ ÷ 1.002 × 10⁻⁶ = **4.79 × 10¹¹ nuclei** [1].
 - Saying the nucleus is heavier than its constituent nucleons.
 - Explaining fission and fusion without reference to the binding energy per nucleon curve.
 - Not converting the decay constant to consistent units before finding N.
-- Confusing the roles of the moderator and the control rods.
+- Subtracting masses in the wrong order: energy is released when the total mass of the products is **less** than the total mass of the reactants.
 - Explaining exponential decay by just citing "half-life" rather than its actual defining property — the rate of decay (or the rate of change of N) is proportional to N itself, so the same *fraction* decays in each equal time interval, however much is left.
 - Forgetting that x = x₀e^(−λt) applies equally to N, activity, or measured count rate — not just to activity.
 - Mixing up grams and kilograms when substituting mass defect into E = mc².
 - Treating the smooth exponential curve as literal finite-sample behaviour — a real finite sample of nuclei can and eventually will fully decay, even though the continuous exponential model it approximately follows only approaches zero asymptotically.
+
+## Frequently asked questions
+
+**What is the difference between mass defect and binding energy?**
+Mass defect is the difference between the total mass of the separate nucleons and the mass of the nucleus. Binding energy is the energy needed to separate the nucleus into its individual nucleons, equal to the mass defect multiplied by c².
+
+**Why do both fission and fusion release energy?**
+Binding energy per nucleon peaks around iron-56. Fusion of light nuclei and fission of heavy nuclei both move the products towards that peak, and the increase in binding energy is released as energy.
+
+**What does it mean that radioactive decay is random and spontaneous?**
+Random means it is impossible to predict which nucleus will decay or when. Spontaneous means the decay is unaffected by external conditions such as temperature, pressure or chemical state.
+
+**What mistakes lose marks in nuclear physics calculations?**
+Common errors include subtracting masses in the wrong order, not converting the decay constant into consistent time units before finding N, mixing grams and kilograms in E = mc², and explaining fission and fusion without referring to the binding energy per nucleon curve.

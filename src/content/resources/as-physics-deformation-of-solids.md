@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-deformation-of-solids"
     subtopic: "as-elastic-and-plastic-behaviour"
-description: "Hooke's law, stress, strain and the Young modulus, and elastic versus plastic deformation and elastic potential energy, for Cambridge International AS & A Level Physics 9702."
+description: "Hooke's law, stress, strain and the Young modulus, elastic and plastic deformation and elastic potential energy: Topic 6 of Cambridge AS Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -201,6 +201,20 @@ producing deformation in a solid.
 - Elastic vs. plastic deformation, and the elastic limit
 - Elastic potential energy from the area under a force–extension graph,
 Eₚ = ½Fx = ½kx²
+
+## Frequently asked questions
+
+**What is the formula for the Young modulus?**
+The Young modulus is E = stress/strain = (F/A)/(x/L), measured in Pa. It is valid only while the material obeys Hooke's law.
+
+**What is the difference between elastic and plastic deformation?**
+In elastic deformation the material returns to its original shape when the force is removed. In plastic deformation a permanent change in shape remains; the elastic limit is where deformation starts to become plastic.
+
+**Does strain have a unit?**
+No. Strain is extension divided by original length, a ratio of two lengths, so it has no unit.
+
+**What is the difference between brittle, ductile and polymeric materials?**
+Brittle materials such as glass break with little or no plastic deformation, ductile materials such as copper deform plastically a great deal before breaking, and polymeric materials such as rubber can stretch very far with different loading and unloading curves.
 
 ## Related resources
 

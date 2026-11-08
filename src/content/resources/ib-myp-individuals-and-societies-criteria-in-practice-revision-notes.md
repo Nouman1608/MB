@@ -11,7 +11,7 @@ order: 3
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-individuals-and-societies-assessment-criteria"
-description: "Condensed, criterion-by-criterion revision notes on what top-band evidence actually looks like for MYP Individuals and Societies's four assessment criteria -- Knowing and understanding, Investigating, Communicating, and Thinking critically -- with a worked example for each."
+description: "Revision notes on what top-band evidence looks like for each IB MYP Individuals and Societies criterion, A to D, with a worked example for each criterion."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -120,6 +120,20 @@ perspective or interpretation, with an evaluation of their relative strengths an
 to a substantiated conclusion. 5. Because the criterion rewards a systematic research question and
 process, which is common across disciplines, even though the specific methods and content each
 discipline uses differ substantially.
+
+## Frequently asked questions
+
+**What does top-band Criterion C evidence look like in MYP Individuals and Societies?**
+It organises the response around a clear argument, integrates evidence from properly referenced sources where it supports each point, and uses subject-specific terminology accurately. A chronological list of facts with no structure or referencing does not reach top band, even if the facts are correct.
+
+**Which MYP Individuals and Societies criterion assesses source evaluation?**
+The public subject brief gives only a one-line description of each criterion, so it does not settle which criterion's strands assess source evaluation. Check the strand-level descriptors in your school's copy of the subject guide.
+
+**Can one piece of coursework provide evidence for all four criteria?**
+Yes. A well-designed unit, such as a local-issue investigation, can provide evidence for conceptual knowledge (A), research (B), a referenced write-up (C) and a critical evaluation of perspectives (D) in one connected piece of work.
+
+**What does top-band Criterion D evidence include?**
+It considers more than one plausible perspective or interpretation, evaluates the strengths and weaknesses of each, and reaches a substantiated conclusion about which the evidence best supports.
 
 ## Official syllabus
 

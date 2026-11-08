@@ -13,11 +13,11 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-diversity-of-living-organisms-oxfordaqa-alevel-biology"
-description: "Condensed recall notes on classification, biodiversity indices and genetic diversity, with natural selection as a Unit 3 forward reference, for OxfordAQA International A Level Biology 9610."
+description: "Revision notes for OxfordAQA International AS and A-level Biology (9610) Unit 1 on classification, species, the index of diversity and genetic diversity."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -178,3 +178,16 @@ d = 210 / 102 = 2.06
   <figcaption>Index of diversity d = N(N-1) / sum of n(n-1) for 10, 4 and 1 individuals gives 2.06.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you calculate the index of diversity?**
+Use d = N(N − 1) ÷ Σn(n − 1), where N is the total number of organisms of all species and n is the number of each species. A higher index means a larger number of species, a more even spread of individuals between them, or both.
+
+**What is the difference between species richness and species diversity?**
+Species richness is the number of different species present. Species diversity takes account of both the number of species and the number of individuals in each.
+
+**How can genetic diversity within a species be measured?**
+The OxfordAQA 9610 specification (3.1.11.1) lists comparing the base sequence of DNA or mRNA, the frequency of specific base sequences or alleles in populations, and the amino acid sequence of encoded proteins.
+
+**How should a binomial name be written?**
+Write the genus with a capital letter and the species in lower case, both italicised or underlined, for example *Genus species*. A universal naming system avoids the confusion of local common names.

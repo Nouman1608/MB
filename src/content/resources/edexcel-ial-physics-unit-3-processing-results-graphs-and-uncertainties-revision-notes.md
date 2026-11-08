@@ -206,6 +206,20 @@ If the line misses the origin, say by how much and what it suggests, for example
 - Describing a repeat as a cure for a systematic error.
 - Saying a curve is proportional because it rises.
 
+## Frequently asked questions
+
+**Do I need to combine percentage uncertainties in Edexcel IAL Unit 3?**
+No. The specification states that students are not expected to compound percentage uncertainties, so you only need the percentage uncertainty of a single measurement.
+
+**Does a straight-line graph always mean proportionality?**
+Only if the line passes through the origin. A straight line with a non-zero intercept is linear but not proportional, and an intercept that should be zero suggests a systematic error.
+
+**Why does timing many oscillations reduce uncertainty?**
+The same timing uncertainty from reaction time is divided by a much longer total time, so the percentage uncertainty is smaller. In general, bigger measured quantities give smaller percentage uncertainties.
+
+**Can readings be precise but inaccurate?**
+Yes. A biased instrument can give repeat readings that agree closely, so they are precise, while all being shifted away from the true value.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Physics (YPH11), Specification, Issue 3, published by Pearson Education Limited. Section 3.5 Processing Results, within Unit 3: Practical Skills in Physics I.

@@ -259,6 +259,23 @@ The reverse route gives the same result: 3,242 + 1,100 − 595 = 3,747. Give the
 
 Next, try the [practice questions](/resources/edexcel-igcse-accounting-correction-of-errors-and-bank-reconciliation-statements-practice/).
 
+## Frequently asked questions
+
+**What is a bank reconciliation statement in Edexcel IGCSE Accounting?**
+A bank reconciliation statement explains the difference between the balance in the cash book (bank column) and the balance on the bank statement at a given date. It checks both records, finds missing entries such as bank charges, and helps detect fraud.
+
+**Why does a bank statement show a credit balance when the business has money in the bank?**
+The bank statement is the bank's record, and money held for the business is a liability of the bank, so it shows as a credit. The business's cash book shows the same position as a debit balance.
+
+**Which items are entered in the cash book before preparing the reconciliation?**
+Items on the bank statement but missing from the cash book, such as credit transfers, interest, bank charges, direct debits, standing orders and dishonoured cheques, are entered in the cash book first, along with any cash book errors. Only timing items and bank errors are left for the reconciliation statement.
+
+**What is a suspense account?**
+A suspense account is a temporary ledger account that holds the difference when a trial balance does not agree. Once the errors are found and corrected, the account should clear to nil.
+
+**Which errors do not affect the trial balance?**
+Errors of omission, commission, principle, original entry, compensating errors and complete reversals leave the trial balance agreeing, because equal debits and credits are still posted. The 4AC1 specification does not name these types, so describe each error in words too.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 3 Introduction to control processes, sections 3 Correction of errors and 4 Bank reconciliation statements, numbered 3.3 and 3.4 here.

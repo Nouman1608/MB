@@ -253,6 +253,23 @@ The practical lesson is that policy based on a gap estimate carries risk. A gove
 - Saying a gap closes whenever growth is positive, without comparing it with the trend.
 - Giving a multiplier answer with no comment on spare capacity.
 
+## Frequently asked questions
+
+**What is the multiplier effect?**
+An injection such as investment, government spending or exports becomes income for someone, who spends part of it, creating income for others. Total extra income is therefore a multiple of the first injection, with each round smaller because part leaks as saving, tax or imports.
+
+**Why does the multiplier process stop?**
+Each round of spending is smaller than the one before because part of the new income leaks out of the circular flow as saving, tax or imports. The rounds shrink towards a limit equal to the injection multiplied by the multiplier.
+
+**Does the multiplier work in reverse?**
+Yes. A fall in an injection, such as lower investment or exports, reduces national income by a multiple of the initial fall. This is why downturns can spread through an economy.
+
+**When is the multiplier most effective?**
+The multiplier has its largest real effect when there is spare capacity and leakages are small. Near full capacity extra demand raises prices more than output, and saving more in uncertain times or crowding out from government borrowing can weaken it.
+
+**Why is stimulus suited to a negative output gap but not a positive one?**
+With a negative gap there are unused resources, so extra aggregate demand can raise output and employment. With a positive gap output is already above potential, so further stimulus widens the gap and adds to inflationary pressure.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, first teaching September 2018, published by Pearson Education Limited. Sections 2.3.4 (item 4) and 2.3.5 (item 4).

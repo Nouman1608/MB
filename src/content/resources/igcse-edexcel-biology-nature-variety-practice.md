@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "the-nature-and-variety-of-living-organisms-edexcel-igcse-biology"
 description: "Original exam-style practice questions with full worked answers on characteristics of living organisms, the five kingdoms, viruses and pathogens."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -101,5 +101,19 @@ Related: [Nature and Variety of Living Organisms revision notes](/resources/igcs
 5. Put the levels of biological organisation in order, from smallest to largest.
 
 **Answers:** 1. Control of internal conditions (homeostasis). 2. Enzymes are secreted onto the food, digestion occurs outside the organism, and the soluble products are then absorbed. 3. They have no cytoplasm or organelles and can only reproduce inside a host cell, so they cannot carry out the characteristics of life independently. 4. Plants store starch and sucrose; animals and fungi store glycogen. 5. Organelle, cell, tissue, organ, organ system, organism.
+
+## Frequently asked questions
+
+**Is Pearson Edexcel International GCSE Biology 4BI1 tiered?**
+No. 4BI1 is an untiered, linear qualification, so every candidate is examined on the same content, including Topic 1.
+
+**Which topic covers cell structure in Edexcel 4BI1?**
+Cell structure and the movement of substances into and out of cells are in Topic 2, not Topic 1. Topic 1 covers the characteristics of living organisms and their variety, including pathogens.
+
+**How should you classify an organism you have not met before?**
+Apply the classification criteria to the features described, such as cell wall material, type of nutrition and whether the cells have a nucleus, rather than relying only on memorised example groups.
+
+**Are these questions taken from Edexcel past papers?**
+No. They are original questions written for revision and do not copy the exam's structure or mark tariffs. Use them alongside the official past papers from Pearson Edexcel.
 
 For condensed recall notes on this topic, see the [Nature and Variety of Living Organisms revision notes](/resources/igcse-edexcel-biology-nature-variety-revision-notes/).

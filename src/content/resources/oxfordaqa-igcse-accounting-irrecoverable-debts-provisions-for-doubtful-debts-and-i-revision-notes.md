@@ -233,6 +233,23 @@ The statement of financial position is also wrong at the year end by the same am
 - Giving an explanation without naming the concept or linking it to the situation in the question.
 - Omitting headings, dates or totals on ledger accounts.
 
+## Frequently asked questions
+
+**What is an irrecoverable debt?**
+A balance owed by a trade receivable that the business does not expect to collect, so it is written off: credit the customer's account and debit the irrecoverable debts account.
+
+**What is the difference between an irrecoverable debt and a provision for doubtful debts?**
+An irrecoverable debt is certain and tied to a named customer. A provision is an estimate on the remaining trade receivables, credited to the provision account rather than to a customer.
+
+**Is the recovery of irrecoverable debts examined in OxfordAQA International GCSE Accounting 9215?**
+No. The specification says the recovery of irrecoverable debts is not examined, and FIFO, AVCO and LIFO inventory valuation methods are not examined either.
+
+**How is the provision for doubtful debts shown in the statement of financial position?**
+The full provision is deducted from trade receivables, for example trade receivables 12,500 less provision 500. Only the increase or decrease goes to the income statement.
+
+**What does an inventory error do to profit?**
+The same error changes profit in opposite directions in consecutive years, because this year's closing inventory becomes next year's opening inventory.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), specification version 1.2, for exams from May/June 2026 onwards, published by OxfordAQA. These notes cover part of section 3.3.

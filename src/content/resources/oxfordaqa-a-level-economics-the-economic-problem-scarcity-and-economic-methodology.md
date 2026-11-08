@@ -250,6 +250,23 @@ Words such as should, fair or best usually signal normative statements. Split mi
 - Saying a point on the boundary is automatically allocatively efficient.
 - Treating a positive statement as true by definition.
 
+## Frequently asked questions
+
+**What are the three basic economic questions?**
+Every economy must decide what to produce, how to produce it, using which mix of workers, machines and natural resources, and who benefits from the output.
+
+**Why is a production possibility boundary bowed outwards?**
+Some resources are better at making one good than the other. As more of one good is produced, resources less suited to it are pulled in, so the opportunity cost rises.
+
+**What does ceteris paribus mean?**
+Ceteris paribus means all other things being equal. It lets economists isolate the effect of one variable while holding others constant, so a model can be tested even when several factors change at once.
+
+**Why is economics called a social science?**
+Economics explains human behaviour using theory and evidence, like a natural science. It differs because people react to being studied, controlled experiments are rare, many variables change at once and values shape the questions asked.
+
+**What are the advantages and disadvantages of a free market economy?**
+A free market responds quickly to wants, rewards efficiency and has little government cost. But it ignores people without income, under-provides public goods, ignores spillover costs and may allow monopoly.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), section 3.1.1 (the economic problem and methodology), published by OxfordAQA. First teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022.

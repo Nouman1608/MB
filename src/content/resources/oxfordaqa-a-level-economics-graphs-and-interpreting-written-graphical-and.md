@@ -152,7 +152,7 @@ Three cautions apply. The relationship is positive, but income may not be the on
 
 Suppose demand is Qd = 110 - 4P and supply is Qs = 6P - 30, with price (P) in units and quantity (Q) in thousands.
 
-- Equilibrium: 120 - 4P = 10P - 20, so 140 = 10P, P = 14 and Q = 54.
+- Equilibrium: 110 - 4P = 6P - 30, so 140 = 10P, P = 14 and Q = 54.
 - Demand cuts the price axis at 27.5 (set Q to zero) and the quantity axis at 110 (set P to zero). Supply cuts the price axis at 5.
 - Because price is on the vertical axis, rewrite demand as P = 27.5 - 0.25Q. The gradient is -0.25, the reciprocal of the coefficient on price in the quantity equation, with the same sign.
 - Consumer expenditure is the rectangle with width 54 and height 14, so 756.
@@ -233,6 +233,23 @@ A strong data answer follows a chain: the figure, what it means, why it matters,
 - Joining scatter points with a line.
 - Quoting a figure without the unit or year.
 - Stating a cause from a correlation alone.
+
+## Frequently asked questions
+
+**Why is price on the vertical axis in a supply and demand diagram?**
+Economics diagrams are an exception to the usual rule of putting the independent variable on the horizontal axis. By convention price goes on the vertical axis, even though price is usually the cause.
+
+**Can output still be below its previous peak when growth is positive?**
+Yes. A growth rate describes the slope of the level graph, not its height, so output can be recovering and still be lower than before a downturn.
+
+**How can a graph be misleading?**
+A truncated axis that starts above zero exaggerates small changes, two lines on different scales can be made to look related, and a pie chart shows shares but hides whether the total changed.
+
+**How should I interpret a written extract in a data-response question?**
+Extract the figures and who said them, quantify them as a percentage, ratio or gradient, connect the result to a concept such as elasticity, and judge what the evidence cannot show.
+
+**What are QS4 and QS9 in OxfordAQA Economics?**
+In the OxfordAQA International AS and A-level Economics (9640) specification, QS4 is constructing and interpreting a range of standard graphical forms, and QS9 is interpreting, applying and analysing information in written, graphical and numerical forms.
 
 ## Official syllabus
 

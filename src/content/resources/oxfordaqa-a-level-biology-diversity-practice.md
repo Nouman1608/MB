@@ -15,9 +15,9 @@ syllabusTopics:
     topic: "the-diversity-of-living-organisms-oxfordaqa-alevel-biology"
 description: "Original exam-style practice questions with full worked answers on classification, biodiversity indices, genetic diversity and species concepts."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -104,3 +104,17 @@ Related: [Diversity of Living Organisms revision notes](/resources/oxfordaqa-a-l
 - Writing binomial names without italics, or without capitalising the genus name.
 - Saying quadrats should be "placed randomly by eye" rather than positioned using random coordinates — this still introduces bias.
 - Assuming physical resemblance between species always indicates a recent common ancestor, rather than considering convergent evolution.
+
+## Frequently asked questions
+
+**Why must the species definition include the word "fertile"?**
+A species is a group of organisms that can interbreed to produce fertile offspring. Without "fertile", different species that produce sterile hybrids, such as the horse and donkey that produce a mule, would be counted as one species.
+
+**What is a limitation of the biological species concept?**
+It cannot be applied to organisms that reproduce asexually, or to extinct species known only from fossils.
+
+**Why is a transect used instead of random quadrats on a rocky shore?**
+A rocky shore has a clear environmental gradient from top to bottom, so species distribution is not random. A transect samples systematically along the gradient, showing how species composition changes with position.
+
+**How does convergent evolution make classification difficult?**
+Unrelated species can come to look alike because they adapted to similar environments, not because they share a recent common ancestor. Comparing DNA or amino acid sequences reveals the true relationship.

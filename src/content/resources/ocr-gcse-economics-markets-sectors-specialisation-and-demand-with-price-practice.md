@@ -131,6 +131,20 @@ These questions cover sections 2.1 (The role of markets) and 2.2 (Demand) of OCR
 - Describing factor and product markets without the link between them.
 - Leaving a diagram without labelled axes or curves.
 
+## Frequently asked questions
+
+**How do you calculate price elasticity of demand?**
+Divide the percentage change in quantity demanded by the percentage change in price, measuring each percentage change from the original figure. Always interpret the result as elastic or inelastic.
+
+**Does a negative PED mean demand is inelastic?**
+No. PED is normally negative because price and quantity demanded move in opposite directions. Whether demand is elastic depends on whether the size of the number is above or below 1.
+
+**What is the difference between revenue and profit?**
+Revenue is price multiplied by quantity sold, while profit is revenue minus costs. A price cut can raise revenue but not profit if the extra output costs more to make.
+
+**How should you answer an 8-mark question on specialisation in OCR GCSE Economics?**
+Give the benefits and the costs of specialisation, such as higher productivity against repetitive work or dependence on one product, and reach a conclusion rather than listing benefits only.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/ocr-gcse-economics-markets-sectors-specialisation-and-demand-with-price/) for any question you missed.
@@ -141,4 +155,4 @@ These questions cover sections 2.1 (The role of markets) and 2.2 (Demand) of OCR
 
 ## Official syllabus
 
-Source: Cambridge OCR, GCSE (9-1) Economics specification (J205), Version 2.0 (June 2026), for first assessment in 2019. Covered here: 2.1 and 2.2.
+Source: OCR, GCSE (9-1) Economics specification (J205), Version 2.0 (June 2026), for first assessment in 2019. Covered here: 2.1 and 2.2.

@@ -257,6 +257,23 @@ Use these in extended answers. Each link should be a reason, not just a statemen
 - Treating a steep curve as automatically inelastic.
 - Not stating a final judgement on which factor matters most.
 
+## Frequently asked questions
+
+**What is the difference between an extension of supply and an increase in supply?**
+An extension of supply is a movement along the curve caused by a rise in the good's own price. An increase in supply is a rightward shift of the whole curve caused by another determinant, such as lower costs.
+
+**What factors determine price elasticity of supply?**
+PES is higher when firms have spare capacity, hold stocks, have more time, can switch factors of production easily, have a short production period, can get inputs easily and face low barriers to entry.
+
+**What does a PES of 1 mean?**
+Unit elastic supply means quantity supplied changes by the same percentage as price. Any straight-line supply curve through the origin has a PES of 1 at every point.
+
+**How does a tax or subsidy shift the supply curve?**
+A per-unit tax shifts supply left, or upward by the tax. A per-unit subsidy shifts supply right, or downward by the subsidy.
+
+**Does a change in demand shift the supply curve?**
+No. A change in demand causes a movement along the supply curve, not a shift of it.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, sections 3.1.2.3 and 3.1.2.4, with quantitative skills in section 3.5.

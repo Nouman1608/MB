@@ -277,6 +277,20 @@ Where a question gives numbers, use them. State the private figure, add the exte
 
 Work through the [practice questions](/resources/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and-practice/), then use the [revision notes](/resources/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and-revision-notes/) close to the exam. Past papers for this course are listed on the [2281 past papers page](/resources/cambridge-o-level-economics-2281-past-papers/).
 
+## Frequently asked questions
+
+**What does section 2.10 of Cambridge O Level Economics 2281 cover?**
+Section 2.10 covers the definition of market failure and key terms (2.10.1), its causes (2.10.2) and its consequences (2.10.3). Diagrams are not needed for this section.
+
+**What is market failure?**
+Market failure means the price mechanism fails to allocate resources efficiently, so the output the market produces is not the output that gives most benefit to society.
+
+**What is the free rider problem?**
+Because nobody can be kept from using a public good once it exists, each person hopes others will pay. Too few pay, so private firms cannot earn enough revenue and the good is not supplied.
+
+**What is factor immobility?**
+Factor immobility is when land, labour or capital cannot easily move to the uses where they would be worth most. Occupational immobility is a lack of skills for a new job; geographical immobility is difficulty moving to where jobs are.
+
 ## Official syllabus
 
 Source: Cambridge International, Cambridge O Level Economics (2281), examination year 2026, version 2, section 2.10 headed Market failure.

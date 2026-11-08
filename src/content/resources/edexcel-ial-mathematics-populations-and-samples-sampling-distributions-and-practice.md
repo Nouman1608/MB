@@ -177,6 +177,20 @@ and [revision notes](/resources/edexcel-ial-mathematics-populations-and-samples-
 - A missing or reversed continuity correction.
 - A conclusion with no context, or "H₀ accepted".
 
+## Frequently asked questions
+
+**Should hypotheses be written in terms of X or p?**
+Hypotheses are about the population parameter, so write them in terms of p for a binomial test or λ for a Poisson test, for example H₀: p = 0.25. Writing them in terms of the sample count X loses the mark.
+
+**How do you handle a two-tailed test at the 5% level?**
+Split the significance level equally between the two tails, so each tail has 2.5%. Comparing a single tail with the whole 5% is a common mistake.
+
+**Why should you not say H₀ is accepted?**
+A result outside the critical region means there is insufficient evidence to reject H₀, not proof that it is true. Write "do not reject H₀" followed by a conclusion in context.
+
+**What do you need to do when a Poisson test uses a longer time period?**
+Scale the mean to the interval in the question first. For example, a rate of 3.2 per day becomes a mean of 16 for a 5-day count.
+
 ## Next steps
 
 - [Revision notes](/resources/edexcel-ial-mathematics-populations-and-samples-sampling-distributions-and-revision-notes/) and [study guide](/resources/edexcel-ial-mathematics-populations-and-samples-sampling-distributions-and/)

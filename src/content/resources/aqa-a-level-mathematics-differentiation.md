@@ -12,11 +12,11 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "g-differentiation-aqa-alevel-maths"
-description: "First principles, standard derivatives, stationary points, the product/quotient/chain rules, implicit and parametric differentiation, and forming differential equations -- Section G of AQA A-Level Mathematics (7357)."
+description: "AQA A-Level Maths (7357) Section G guide: first principles, standard derivatives, stationary points, calculus rules, implicit and parametric curves."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -249,6 +249,22 @@ actually ends.
   <figcaption>How chord gradients 12 + 2h approach the tangent gradient 12 at x = 3 on y = 2x².</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does AQA A-level Maths 7357 Section G cover?**
+Section G covers the derivative as a gradient and first principles (G1), standard derivatives (G2), tangents, normals and stationary points (G3), the product, quotient and chain rules (G4), implicit and parametric differentiation (G5) and forming differential equations (G6).
+
+**Which AQA 7357 papers can test differentiation?**
+Section G is Paper 1 content, but Paper 2 and Paper 3 can each assess any Paper 1 content, so differentiation can earn marks across the whole qualification.
+
+**What are the two interpretations of a derivative?**
+Geometrically it is the gradient of the tangent to the curve; physically it is the instantaneous rate of change of the quantity the function represents.
+
+**How do you avoid mistakes in connected rates of change?**
+Write out which variable each given rate is with respect to before using the chain rule, for example dV/dt = dV/dr × dr/dt, so that you link the right two rates.
+
+**How do you find where a function is increasing?**
+Differentiate and find where f′(x) > 0. The function is decreasing where f′(x) < 0.
 
 ## Official syllabus
 

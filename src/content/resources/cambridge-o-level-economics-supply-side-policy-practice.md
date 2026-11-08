@@ -163,6 +163,20 @@ These questions cover section 4.5 (4.5.1 to 4.5.3, supply-side policy) of the Ca
 - Mixing up privatisation (ownership) with deregulation (rules).
 - Ignoring the data in a table and writing general points.
 
+## Frequently asked questions
+
+**How should you define supply-side policy for full marks?**
+Say that it is government action that aims to increase the economy's ability to produce goods and services, its productive capacity. Defining it as any policy that affects the economy misses the key idea.
+
+**What is the difference between privatisation and deregulation?**
+Privatisation changes ownership, by selling state-owned firms to the private sector. Deregulation changes the rules, by removing restrictions on who may enter a market or how firms behave.
+
+**Does a cut in income tax always raise tax revenue?**
+No. A tax cut may encourage more work or investment, but saying it will raise revenue needs figures or reasoning. Some people may even work fewer hours because they reach their target income sooner.
+
+**How do you answer a supply-side question that uses a data table?**
+Use the figures in the table to support each point, show the working for any percentage change with the original value as the base, and link the measure to the macroeconomic aim the question names. General points that ignore the data lose marks in Cambridge O Level Economics 2281.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/cambridge-o-level-economics-supply-side-policy-revision-notes/) and the [study guide](/resources/cambridge-o-level-economics-supply-side-policy/).

@@ -13,13 +13,13 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "types-of-business-organisation-oxfordaqa"
-description: "Original exam-style practice questions with full worked answers on the four business ownership types, their liability and reporting obligations, and sources of finance."
+description: "OxfordAQA International A-level Accounting 9615 practice questions with marked answers on business ownership types, liability, reporting and finance."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-05
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -77,3 +77,14 @@ Related: [Types of Business Organisation study guide](/resources/a-level-oxforda
 - Treating "limited liability" as capping the company's losses rather than the owner's.
 - Listing a source of finance without explaining why it is or is not available to a given ownership type.
 - Giving a one-sided evaluation of ownership structure that ignores the reporting and control costs of incorporation.
+
+## Frequently asked questions
+
+**Where do students usually lose marks on business organisation questions?**
+Naming an ownership type's liability position without explaining why it holds, listing a source of finance without explaining why it is or is not available to that type of business, and giving one-sided evaluations.
+
+**How should I answer an evaluate question on ownership structure in OxfordAQA 9615?**
+Weigh the benefits of a structure against its costs, including the reporting and control costs of incorporation, and reach a supported conclusion. A one-sided answer loses marks.
+
+**How are the questions on this page organised?**
+Section A has short recall questions and Section B has longer explain and evaluate questions, followed by worked answers showing where each mark is earned.

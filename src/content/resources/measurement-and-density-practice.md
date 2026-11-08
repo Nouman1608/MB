@@ -21,9 +21,9 @@ syllabusTopics:
     subtopic: "density"
 description: "Original exam-style practice questions with full worked answers on measuring instruments, precision, density calculations and experimental method."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -111,3 +111,17 @@ Related: [Measurement and Density revision notes](/resources/measurement-and-den
 - Reading a measuring cylinder from the top of the meniscus.
 - Saying an object floats because it is "light".
 - Confusing resolution with accuracy.
+
+## Frequently asked questions
+
+**What are common mistakes in measurement and density questions?**
+Frequent slips include converting g/cm³ to kg/m³ by multiplying by 100 instead of 1000, reading a measuring cylinder from the top of the meniscus, and saying an object floats because it is "light".
+
+**How do you read a measuring cylinder correctly?**
+Read the scale at eye level from the bottom of the meniscus. Reading from the top of the meniscus, or from above or below, gives an inaccurate volume.
+
+**How do you convert density from g/cm³ to kg/m³?**
+Multiply by 1000. For example, 2.7 g/cm³ is 2700 kg/m³.
+
+**Which syllabus do these measurement questions follow?**
+They follow Cambridge O Level Physics 5054, subtopics 1.1 (measurement techniques), 1.3 Mass and weight and 1.4 Density, with full worked answers.

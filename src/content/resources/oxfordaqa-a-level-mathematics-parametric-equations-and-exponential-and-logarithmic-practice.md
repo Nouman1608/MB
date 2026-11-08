@@ -161,6 +161,20 @@ Learn the content first from the [study guide](/resources/oxfordaqa-a-level-math
 - Take all the [free 10-minute diagnostics](/diagnostics/) to find your next topic.
 - [Book a free trial class](/trial/) if you want help from a teacher.
 
+## Frequently asked questions
+
+**What do students forget after eliminating a trigonometric parameter?**
+The restriction on x or y. For example, x = 2cos θ only gives −2 ≤ x ≤ 2, so the Cartesian equation should state that limit.
+
+**What is the Cartesian equation of x = a cos θ, y = b sin θ?**
+It is the ellipse x²/a² + y²/b² = 1. Writing x² + y² = 1 is a common error.
+
+**Can eˣ = −2 have a solution?**
+No. eˣ is always positive, so any value of u = eˣ that is zero or negative must be rejected.
+
+**How do you give the points where a parametric curve meets a line?**
+Substitute the parametric x and y into the line, solve for the parameter, then substitute back to give full (x, y) coordinates rather than only parameter values or x-values.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2*, published by OxfordAQA. Sections P2.3 (Cartesian and parametric equations of curves and conversion between the two forms) and P2.5 (the function eˣ and its graph, ln x as the inverse of eˣ, exponential growth and decay including exponential functions as models).

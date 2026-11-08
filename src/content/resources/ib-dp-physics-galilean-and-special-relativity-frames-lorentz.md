@@ -244,6 +244,20 @@ Both explanations agree: time dilation in the Earth frame, length contraction in
 
 Try the [practice questions](/resources/ib-dp-physics-galilean-and-special-relativity-frames-lorentz-practice/), then condense with the [revision notes](/resources/ib-dp-physics-galilean-and-special-relativity-frames-lorentz-revision-notes/). Check coverage on the [printable checklist](/checklists/ib/ib-dp/physics/) and test yourself with the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**Do I need to derive the Lorentz transformations for IB DP Physics?**
+No. Derivations of the Lorentz transformations, velocity addition, time dilation and length contraction are not required, so the focus is on using the results.
+
+**Is there any SL content in IB DP Physics A.5?**
+No. All of A.5 is additional higher level content, so everything in this sub-topic is HL only.
+
+**Does a fast-moving object really shrink?**
+No. Length contraction is a feature of measurements made by observers in relative motion, not of forces squeezing the object.
+
+**Are world lines ever curved in this unit?**
+No. This unit is limited to constant velocity, so world lines on space-time diagrams are straight lines at tan θ = v/c to the ct axis.
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. Sub-topic A.5, Galilean and special relativity (additional higher level).

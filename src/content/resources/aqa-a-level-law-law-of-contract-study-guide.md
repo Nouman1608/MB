@@ -76,7 +76,7 @@ Consideration is something of value given in return for a promise. It must be su
 
 ### Intention to create legal relations
 
-Presumptions apply. Social and domestic agreements are presumed not to be legally binding (Balfour v Balfour, 1919), although the presumption can be rebutted where the parties are not living in harmony (Merritt v Merritt, 1969). Commercial agreements are presumed to be binding unless clearly excluded.
+Presumptions apply. Social and domestic agreements are presumed not to be legally binding (Balfour v Balfour, 1919), although the presumption can be rebutted where the parties are not living in harmony (Merritt v Merritt, 1970). Commercial agreements are presumed to be binding unless clearly excluded.
 
 ## Contract terms: general
 
@@ -151,3 +151,17 @@ Command words include *advise*, *explain*, *discuss* and *evaluate*. For problem
 5. Can liability for death by negligence be excluded in a business contract? *No, UCTA 1977 section 2(1) forbids excluding liability for death or personal injury caused by negligence.*
 6. What is the effect of frustration? *The contract ends automatically, without either party being in breach.*
 7. A buyer is promised goods at 800 pounds and has to pay 950 pounds elsewhere. What are the expectation damages? *150 pounds, if mitigation was reasonable.*
+
+## Frequently asked questions
+
+**Is law of contract compulsory in AQA A Level Law?**
+No. Law of contract is one of the optional substantive areas in AQA A Level Law 7162, examined on Paper 3 as an alternative to human rights.
+
+**What are the essential requirements of a contract?**
+A contract needs agreement through offer and acceptance, consideration, intention to create legal relations and, for some contracts, formality.
+
+**What is an innominate term?**
+An innominate term can be treated as a condition or a warranty depending on how serious the consequences of the breach are, as in Hong Kong Fir Shipping v Kawasaki (1962).
+
+**How should you answer an AQA contract problem question?**
+Use issue, rule and authority, application, then conclusion: identify the issue, state the rule with a case or statute, apply it to the facts and reach a conclusion. For essays, weigh both sides and reach a judgement.

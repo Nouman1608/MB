@@ -231,6 +231,19 @@ Let Y ~ N(35, 4²) for questions 1 to 5. Table values: Φ(1.5) = 0.9332 and Φ(1
   <figcaption>A normal model gives some probability to impossible values and fits skewed data badly.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What proportion of a normal distribution lies within one, two and three standard deviations?**
+About 2/3 (0.6827) lies within μ ± σ, about 0.95 (0.9545) within μ ± 2σ and about 0.997 (0.9973) within μ ± 3σ.
+
+**How do you standardise a normal variable?**
+Use Z = (X − μ)/σ, where Z ~ N(0, 1). Then read probabilities from the table of Φ(z) = P(Z ≤ z).
+
+**How do you find a normal probability for a negative z-value?**
+Use symmetry: Φ(−z) = 1 − Φ(z). Do not look up a negative z directly in a table of positive values.
+
+**How do you find two unknown parameters of a normal distribution?**
+Write each given probability as a standardising equation (x − μ)/σ = z, using percentage points for z, and solve the two equations simultaneously.
 
 ## Official syllabus
 

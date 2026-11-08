@@ -22,9 +22,9 @@ syllabusTopics:
     subtopic: "as-potential-dividers"
 description: "Condensed recall notes on Kirchhoff laws, resistance, e.m.f. and internal resistance, and potential dividers for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -179,3 +179,17 @@ An **ideal ammeter** has zero resistance and is connected in **series**; an **id
 Related: [D.C. Circuits practice questions](/resources/as-physics-dc-circuits-practice/) for further worked examples in this style.
 
 **Answers:** 1. The first law expresses conservation of charge; the second expresses conservation of energy. 2. More energy is dissipated within the source itself by its internal resistance, so less is available per unit charge at the terminals. 3. Gradient = −r (internal resistance); intercept = E (e.m.f.). 4. It provides an additional path for current, so more total current flows for the same p.d. 5. The LDR's resistance falls, so its share of the total resistance falls and the output p.d. across it decreases. 6. At balance, zero current flows through the galvanometer, so the measuring instrument itself draws no current and does not disturb the circuit being measured, unlike a real voltmeter which always draws a small current. 7. V_out = 12 x 6.0/(2.0+6.0) = 9.0 V; if the temperature falls, the thermistor's resistance rises, so it takes a larger share of the total resistance and the output p.d. rises above 9.0 V.
+
+## Frequently asked questions
+
+**Why does terminal p.d. fall as current increases?**
+As a source drives more current, more energy per unit charge is dissipated inside it by its internal resistance, so less is available at the terminals: V = E − Ir. When a source is being charged, the terminal voltage exceeds the e.m.f. by Ir instead.
+
+**What is a null method?**
+In a null method, such as with a potentiometer, a galvanometer detects when the current is zero at balance. Because no current flows through the meter, it does not disturb the circuit being measured.
+
+**How do ideal ammeters and voltmeters behave?**
+An ideal ammeter has zero resistance and is connected in series; an ideal voltmeter has infinite resistance and is connected in parallel. A real voltmeter draws a small current, slightly reducing the p.d. it measures.
+
+**How many circuit symbols must you know for Cambridge 9702?**
+You must recall and use the 27 symbols in the Cambridge 9702 syllabus's circuit-symbol table, and draw and interpret diagrams that use them.

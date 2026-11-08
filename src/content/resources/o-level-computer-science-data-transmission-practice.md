@@ -12,11 +12,20 @@ order: 3
 syllabusTopics:
   - qualification: "o-level"
     topic: "data-transmission-2210"
-description: "Original exam-style practice questions with full worked answers on packet structure, transmission methods, error detection and encryption, for Cambridge O-Level Computer Science (2210) Topic 2 Data Transmission."
+  - qualification: "o-level"
+    topic: "data-transmission-2210"
+    subtopic: "types-and-methods-of-data-transmission"
+  - qualification: "o-level"
+    topic: "data-transmission-2210"
+    subtopic: "methods-of-error-detection"
+  - qualification: "o-level"
+    topic: "data-transmission-2210"
+    subtopic: "encryption"
+description: "Original practice questions with worked answers for Cambridge O Level Computer Science 2210 Topic 2: packets, transmission methods, error checks and encryption."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -129,3 +138,17 @@ packet number specifically, rather than stating separately that "packets can arr
 digits and checksums distinct by what each one actually validates — a check digit catches manual
 data-entry errors, a checksum catches transmission errors in a data block — since the study guide
 identifies this as a common point of confusion alongside the parity-check-versus-checksum distinction.
+
+## Frequently asked questions
+
+**What does a parity block check do that a single parity bit cannot?**
+A parity block check checks both the rows and the columns of a block of data, so it can identify which bit is likely to be wrong. A single parity check only shows that an error has occurred somewhere in the byte.
+
+**What is the difference between a check digit and a checksum?**
+A check digit validates a single piece of manually entered data, such as an ISBN typed at a till. A checksum validates a whole block of transmitted data and catches errors introduced during transmission.
+
+**Which transmission method suits a device that only receives data?**
+Simplex transmission suits a device such as a printer that never needs to send data back, because data only needs to flow in one direction.
+
+**How should you describe packet reassembly in an answer?**
+Link the two ideas: packets can arrive out of order because they travel by different routes, so the receiving device uses the packet number in each header to put them back in sequence.

@@ -12,11 +12,11 @@ order: 7
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-eassessment-structure"
-description: "The discrete, modular and integrated course models IB MYP Sciences schools choose between, and how the content scope of its eAssessment, spanning biology, chemistry and physics topics, is set by the eAssessment option entered rather than by which model a school uses."
+description: "The discrete, modular and integrated course models IB MYP Sciences schools choose from, and why your eAssessment option, not the model, sets the exam scope."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -134,6 +134,20 @@ Before building a revision plan, confirm not only your course model but also whi
 eAssessment option you are entered for -- biology, chemistry, physics, or integrated sciences -- since
 this determines the precise scope of content your examination will draw on, distinct from the broader
 question of how your lessons were structured across the year.
+
+## Frequently asked questions
+
+**What is the difference between discrete, modular and integrated science in the MYP?**
+Discrete means biology, chemistry and physics (or other disciplines) taught as separate subjects. Modular means two or more discrete sciences taught in rotation across the year, and integrated means the disciplines are blended together rather than taught as separate strands.
+
+**Does my school's course model decide what is in my MYP Sciences eAssessment?**
+No. The on-screen examination is available in biology, chemistry, physics and integrated sciences, and the scope of your exam is set by the option you are entered for, not by how your school's timetable was structured.
+
+**Is MYP integrated sciences easier than discrete sciences?**
+No. The same framework and assessment criteria apply whichever course model a school uses, so integrated sciences content is not lighter or less rigorous.
+
+**How much of the MYP Sciences eAssessment is investigation skills?**
+The investigation-skills task (criteria B and C) carries half the available marks, 50 of 100. Practising designing, running and evaluating investigations deserves a matching share of revision time.
 
 ## Official syllabus
 

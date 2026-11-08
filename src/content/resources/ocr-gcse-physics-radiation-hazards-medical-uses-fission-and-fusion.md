@@ -256,6 +256,23 @@ An isotope of hydrogen with mass number 2 fuses with an isotope of hydrogen with
 - Choosing an alpha emitter as a medical tracer. Alpha particles cannot leave the body.
 - Describing fission as nuclei joining, or fusion as nuclei splitting.
 
+## Frequently asked questions
+
+**What makes a good medical tracer?**
+A good tracer emits gamma rays, which pass out of the body to the detector, and has a short half-life of the order of hours. It must last long enough for the scan but lose its activity quickly afterwards.
+
+**Why is an alpha emitter not used as a medical tracer?**
+Alpha particles would be absorbed inside the body, so they would never reach the detector, and they would damage tissue.
+
+**What is released in a nuclear fission event?**
+A heavy nucleus such as uranium-235 absorbs a neutron and splits into two smaller nuclei, which fly apart with a lot of kinetic energy. Two or three neutrons and gamma radiation are also released.
+
+**What is a chain reaction?**
+The neutrons released by one fission are absorbed by other uranium-235 nuclei, which split and release more neutrons, and so on.
+
+**What is nuclear fusion?**
+Nuclear fusion is when two light nuclei combine into one heavier nucleus, for example isotopes of hydrogen forming helium. It is how stars release energy.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249)* specification, Version 5.0 (July 2026), for first assessment in 2018, topic P6.2 Uses and hazards.

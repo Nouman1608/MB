@@ -20,11 +20,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-capacitance"
     subtopic: "a-discharging-a-capacitor"
-description: "Capacitors and the definition of capacitance, capacitor combinations, energy stored in a charged capacitor, and the exponential discharge of a capacitor through a resistor, for Cambridge International AS & A Level Physics 9702."
+description: "Capacitance C = Q/V, capacitors in series and parallel, energy W = ½CV² and exponential RC discharge: Topic 19 of Cambridge A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -258,6 +258,20 @@ increasingly opposes the supply.
 - τ = RC as the time constant, with the same meaning in charging and discharging
 
 *Extension, beyond 19.3 (background only, not examinable): Q = Q₀(1 − e^(−t/RC)) for charge rising during charging, while current still decays exponentially.*
+
+## Frequently asked questions
+
+**What is the capacitance of an isolated sphere?**
+Applying C = Q/V to an isolated conducting sphere of radius r, whose surface potential is Q/(4πε₀r), gives C = 4πε₀r. Its capacitance depends only on its radius.
+
+**What does the time constant RC tell you?**
+The time constant τ = RC is the time for the current, charge or voltage of a discharging capacitor to fall to 1/e, about 37%, of its initial value. It is not the time for complete discharge, and a larger RC means slower discharge.
+
+**Is capacitor charging examinable in Cambridge 9702?**
+Subtopic 19.3 of Cambridge 9702 covers discharging a capacitor and requires the form x = x₀e^(−t/RC). The charging equation Q = Q₀(1 − e^(−t/RC)) is included on this page as background only.
+
+**Where does the energy stored in a capacitor come from on a graph?**
+The energy stored is the area under a graph of potential difference against charge. Because that graph is a straight line through the origin, the area is a triangle, giving W = ½QV = ½CV².
 
 ## Related resources
 

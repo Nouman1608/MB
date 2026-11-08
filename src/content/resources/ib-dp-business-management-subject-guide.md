@@ -7,13 +7,13 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Business Management"]
 syllabusSeries: "First assessment 2024"
-description: "An overview of IB Diploma Programme Business Management -- its four interdisciplinary concepts (creativity, change, ethics, sustainability), its core business functions, and what the course aims to develop, for both Standard Level and Higher Level."
+description: "Overview of IB DP Business Management: its four concepts, five units, toolkit and how SL and HL are assessed, including the pre-released Paper 1 statement."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 IB Diploma Programme Business Management is designed to meet the needs
@@ -92,9 +92,9 @@ organisational structure, leadership and motivation. Unit 3, Finance
 and accounts, and Unit 4, Marketing, cover the financial and
 customer-facing functions of a business respectively. Unit 5,
 Operations management, covers how a business actually produces its
-goods or services. HL students study an additional extension layer of
-sub-topics within each of these units on top of the shared content
-common to both levels, so confirming exactly which sub-topics count as
+goods or services. HL students study additional HL-only sub-topics in
+Units 2 to 5 on top of the shared content common to both levels (Unit 1
+has the same content and teaching hours at SL and HL), so confirming exactly which sub-topics count as
 HL-only within each unit is worth doing early in the course rather
 than assuming SL and HL content overlaps completely.
 
@@ -133,8 +133,8 @@ interpretation rather than the mechanical calculation alone.
 
 ## Why HL adds a third paper
 
-At HL, students study extension content within each of the five units
-beyond what SL students cover. **Paper 1 is identical for SL and HL**
+At HL, students study extension content in Units 2 to 5 beyond what SL
+students cover. **Paper 1 is identical for SL and HL**
 (30 marks at both levels, built around the same pre-released statement
 and unseen case study) and does not draw on the extension content at
 all -- it is the one component where SL and HL students genuinely sit
@@ -151,6 +151,23 @@ structural difference -- a genuinely separate set of tasks, rather
 than simply a longer or harder version of the SL papers -- is why the
 shift from SL to HL Business Management involves a meaningfully
 different course, not the same course examined at a higher difficulty.
+
+## Frequently asked questions
+
+**How is IB DP Business Management assessed at SL and HL?**
+At SL, Paper 1 is worth 35%, Paper 2 35% and the internal assessment 30%. At HL, Paper 1 is worth 25%, Paper 2 30%, Paper 3 (built around a social-enterprise stimulus) 25% and the internal assessment 20%.
+
+**Is the internal assessment different at SL and HL?**
+No. SL and HL students complete the same business research project on a real organization, against the same criteria; only the weighting differs. It is marked by the student's teacher and then externally moderated.
+
+**Is Paper 1 the same for SL and HL?**
+Yes. Paper 1 is identical at SL and HL, built around the same pre-released statement and unseen case study, and it does not draw on HL extension content.
+
+**What is the business management toolkit?**
+The toolkit is a set of fifteen named quantitative and qualitative tools, such as SWOT analysis, the Ansoff matrix, STEEPLE analysis and decision trees, applied across units. Seven of the tools are HL only, and the toolkit has 10 teaching hours at SL against 35 at HL.
+
+**Is break-even analysis part of the toolkit?**
+No. Break-even analysis is syllabus content in sub-topic 5.5 of Unit 5 (Operations management), not one of the toolkit's tools.
 
 ## Source
 

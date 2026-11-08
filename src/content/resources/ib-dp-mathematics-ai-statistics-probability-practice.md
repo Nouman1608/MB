@@ -12,13 +12,13 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-mathematics-applications-and-interpretation-statistics-and-probability"
-description: "Original practice questions with full worked answers covering descriptive statistics, probability, distributions and inferential statistics, for IB Diploma Programme Mathematics: Applications and Interpretation."
+description: "Original IB DP Maths AI statistics and probability practice questions on averages, tree diagrams, correlation and the binomial model, with worked answers."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -95,6 +95,20 @@ Nearly every worked answer ends with a sentence interpreting what the result mea
 in this strand -- assessment objectives in this course reward communication and interpretation
 alongside pure calculation, so a set of practice questions that stopped at the numerical answer would
 misrepresent what full marks actually requires.
+
+## Frequently asked questions
+
+**When should you use the median instead of the mean?**
+Use the median when a data set is strongly skewed or contains extreme outliers. The mean is pulled towards extreme values, while the median is not affected by them in the same way, so it better represents a typical value.
+
+**How do you calculate probabilities without replacement?**
+Use a tree diagram where the second-branch probabilities change after the first draw, because the item is not put back. Multiply along each branch and add the branches that match the event you want.
+
+**Does a low probability mean an outcome is impossible?**
+No. A binomial distribution such as B(20, 0.03) gives a small but non-zero probability to every count of successes, so higher counts become less likely without being ruled out.
+
+**Are these IB Maths AI statistics questions from real past papers?**
+No. They are original questions written for revision and do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers.
 
 ## Official syllabus
 

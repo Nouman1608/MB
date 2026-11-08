@@ -148,6 +148,20 @@ The [study guide](/resources/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-
 - Take one of the free 10-minute [diagnostics](/diagnostics/) to find weak areas.
 - [Book a free trial class](/trial/) for help with any topic.
 
+## Frequently asked questions
+
+**Are these IB DP Physics stars questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Are these fusion and stars questions for SL or HL?**
+Both. E.5, Fusion and stars, has no additional higher level content, so every question is suitable for SL and HL.
+
+**What data do these questions supply?**
+They supply σ, L☉, R☉, T☉ = 5800 K, c, the atomic mass unit and its MeV equivalent, the parsec and light year conversions, k, e, kB and the Wien constant 2.9 × 10⁻³ m K.
+
+**What mistakes lose marks in HR diagram questions?**
+Common errors include putting hot stars on the right of the HR diagram and using L in solar units alongside σ in SI units.
+
 ## Official syllabus
 
 Source: IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. These questions are original and are not an IB publication.

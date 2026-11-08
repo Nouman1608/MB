@@ -126,6 +126,23 @@ Read the [study guide](/resources/edexcel-ial-economics-supply-and-price-elastic
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between an extension of supply and an increase in supply?**
+An extension or contraction of supply is a movement along the supply curve caused by a change in the good's own price. An increase or decrease in supply is a shift of the whole curve caused by another factor, such as a change in input costs or a subsidy.
+
+**How do you calculate price elasticity of supply?**
+Divide the percentage change in quantity supplied by the percentage change in price, using the original values as the base. A fall in both price and quantity still gives a positive PES, because a negative divided by a negative is positive.
+
+**How does an ad valorem tax shift the supply curve compared with a specific tax?**
+A specific tax adds the same amount per unit, so the supply curve shifts up in parallel. An ad valorem tax is a percentage of price, so the curve pivots and the gap widens at higher prices; drawing an ad valorem tax as a parallel shift is a common error.
+
+**Is elasticity the same as the slope of the supply curve?**
+No. The slope of a straight-line supply curve is the same everywhere, but PES can change along it because it depends on percentage changes. Confusing slope with elasticity is a frequent way to lose marks.
+
+**Which part of the Edexcel IAL Economics specification covers supply and PES?**
+Supply and price elasticity of supply are section 1.3.3, items 1 and 2, of the Edexcel IAL Economics specification (YEC11). This is Unit 1, Markets in action, an International AS unit that also counts towards the full International A Level.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, section 1.3.3 Supply, items 1 and 2. Published by Pearson Education Limited.

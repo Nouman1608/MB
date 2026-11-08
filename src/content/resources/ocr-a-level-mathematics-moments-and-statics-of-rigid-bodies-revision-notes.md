@@ -20,7 +20,7 @@ publishedDate: 2026-10-11
 featured: false
 ---
 
-These notes condense moments and statics of rigid bodies for OCR A Level Mathematics A (H240), content references 3.04a to 3.04c of the Cambridge OCR specification, Version 3.1 (August 2026). All of 3.04 is Stage 2, so it is A Level only. For full explanations and longer worked examples, read the [study guide](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies/), then try the [practice questions](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies-practice/). Wider links: the [course hub](/boards/ocr/a-level/mathematics/), the [checklist](/checklists/ocr/a-level/mathematics/) and the [free diagnostics](/diagnostics/).
+These notes condense moments and statics of rigid bodies for OCR A Level Mathematics A (H240), content references 3.04a to 3.04c of the OCR specification, Version 3.1 (August 2026). All of 3.04 is Stage 2, so it is A Level only. For full explanations and longer worked examples, read the [study guide](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies/), then try the [practice questions](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies-practice/). Wider links: the [course hub](/boards/ocr/a-level/mathematics/), the [checklist](/checklists/ocr/a-level/mathematics/) and the [free diagnostics](/diagnostics/).
 
 ## Key facts at a glance
 
@@ -179,6 +179,20 @@ With nothing else on the ladder, moments about the foot give S × L sin θ = W �
 </figure>
 
 
+## Frequently asked questions
+
+**What is the moment of a force?**
+The moment is the force multiplied by the shortest (perpendicular) distance from the point to the force's line of action. Anticlockwise moments are usually taken as positive and clockwise as negative.
+
+**What are the conditions for a rigid body to be in equilibrium?**
+The resultant force is zero, so forces balance when resolved in any direction, and the resultant moment about any point is zero.
+
+**What is the difference between a light, uniform and non-uniform rod?**
+A light rod has no weight. A uniform rod has its weight at the midpoint. A non-uniform rod has its weight at a point that may be given or that you need to find using moments.
+
+**How do you find the forces on a ladder against a smooth wall?**
+Resolve vertically to find the ground reaction R, take moments about the foot to find the wall reaction S, and resolve horizontally to show that the friction at the ground equals S.
+
 ## Official syllabus
 
-Cambridge OCR Level 3 Advanced GCE in Mathematics A (H240), Version 3.1 (August 2026), first assessment 2018, published by OCR. Content references 3.04a to 3.04c.
+OCR Level 3 Advanced GCE in Mathematics A (H240), Version 3.1 (August 2026), first assessment 2018, published by OCR. Content references 3.04a to 3.04c.

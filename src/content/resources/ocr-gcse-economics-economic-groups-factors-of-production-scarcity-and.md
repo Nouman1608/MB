@@ -216,6 +216,23 @@ The developer's figures are consistent: 150 homes at £210,000 earn £31.5m, aga
 - Listing costs and benefits without a judgement.
 - Mentioning sustainability in one word without saying which type or why.
 
+## Frequently asked questions
+
+**What is the economic problem?**
+Because resources are scarce and wants are unlimited, every economy must decide what to produce, how to produce it, for whom, and how resources should be allocated between uses, whether by markets, the government or a mix.
+
+**What is the difference between labour-intensive and capital-intensive production?**
+A labour-intensive method uses many workers and little equipment, while a capital-intensive method uses machines and few workers. The choice depends on the relative cost of each factor, the product, the scale of output and the skills available.
+
+**Why does opportunity cost rise as more of one good is produced?**
+As an economy moves more resources into one good, the resources moved later are less well suited to making it, so more of the other good has to be given up for each extra unit.
+
+**What is the opportunity cost of a government spending decision?**
+It is the next best use of the money that is given up. If a council ranks a bypass, a health clinic and a sports centre in that order and builds the bypass, the opportunity cost is the clinic.
+
+**What is J205/01 in OCR GCSE Economics?**
+Component J205/01, Introduction to Economics, is a written paper of 80 marks lasting 1 hour 30 minutes and worth 50% of the qualification.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Economics (J205), specification version 2.0 (June 2026), first assessment 2019, published by OCR (Oxford Cambridge and RSA). Sections 1.1 and 1.2 of Introduction to Economics.

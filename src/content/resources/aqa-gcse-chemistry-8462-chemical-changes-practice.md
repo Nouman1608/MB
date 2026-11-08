@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "chemical-changes-8462"
 description: "Eleven original AQA GCSE Chemistry 8462 Chemical changes questions on reactivity, redox, salts, titrations and electrolysis, with marked answers."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -179,6 +179,23 @@ Explain why a mixture is used, and why the anodes must be replaced regularly. **
 - Saying electrons, rather than ions, move through an electrolyte.
 - Predicting the metal at the cathode for every aqueous solution.
 - (Higher tier only) Putting electrons on the wrong side of a half equation.
+
+## Frequently asked questions
+
+**Which AQA GCSE Chemistry paper tests Chemical changes?**
+Section 4.4 Chemical changes of the AQA GCSE Chemistry 8462 specification is assessed on Paper 1 at Foundation and Higher Tier. Some parts, such as ionic equations and half equations, are Higher tier only.
+
+**What is the commonest mistake when naming the substance reduced?**
+Naming the metal instead of the metal oxide. The substance reduced is the one that loses oxygen, such as lead oxide, not lead.
+
+**How are six-mark method questions on making a salt marked?**
+They are marked by levels, so the steps must be in a logical order. A method that evaporates to dryness or skips adding excess solid and filtering it off cannot reach the top level.
+
+**Should spectator ions appear in an ionic equation?**
+No. An ionic equation must leave out spectator ions, such as sulfate ions in a neutralisation. Including them loses the mark.
+
+**What moves through an electrolyte during electrolysis?**
+Ions move through the electrolyte, not electrons. Also remember that in aqueous solutions the product at the cathode is not always the metal.
 
 ## Next steps
 

@@ -300,6 +300,20 @@ Converting: 0.000 81 = 8.1 × 10⁻⁴ (the point moves 4 places right). 7.06 ×
 
 Now try the [Structure and calculation practice questions](/resources/aqa-gcse-maths-8300-structure-and-calculation-practice/), then the [Number practice questions](/resources/aqa-gcse-mathematics-number-practice/).
 
+## Frequently asked questions
+
+**What is the difference between −3² and (−3)²?**
+−3² = −9 because the power acts before the minus sign, while (−3)² = 9 because the bracket includes the sign.
+
+**How do you write a number in standard form?**
+Write it as A × 10ⁿ, where 1 ≤ A < 10 and n is an integer. For example, 0.000 81 = 8.1 × 10⁻⁴, and 56 × 10³ must be adjusted to 5.6 × 10⁴.
+
+**How can you check your HCF and LCM?**
+For two numbers, the HCF multiplied by the LCM equals the product of the two numbers. This check works for two numbers only.
+
+**Is basic and additional Foundation content on the Foundation paper?**
+Yes. Both basic and additional Foundation content can appear on Foundation papers; only content in the Higher content only column is restricted to Higher tier.
+
 ## Official syllabus
 
 AQA GCSE Mathematics (8300) specification, for teaching from September 2015, exams from May/June 2017, version 1.0, published by AQA -- section 3.1.1 Structure and calculation (N1 to N9).

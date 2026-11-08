@@ -228,6 +228,23 @@ Claim: a country should liberalise trade. Chain: lower tariffs, cheaper inputs, 
 - Drawing a buffer stock without stating the floor and ceiling or what the authority does.
 - Calling a policy market-based or interventionist with no reason.
 
+## Frequently asked questions
+
+**Why may demand-side policies do little for a developing economy?**
+Demand-side policies help when there is spare capacity, but a developing economy often has supply problems such as poor roads, weak skills and little capital. More demand then raises prices and imports rather than output.
+
+**How does a buffer stock stabilise commodity prices?**
+An authority sets a floor and a ceiling price. It buys the surplus when the price would fall below the floor and sells from stock when it would rise above the ceiling, making farmers' incomes more predictable.
+
+**What do the World Bank, the IMF and NGOs do?**
+The World Bank lends for development projects and gives technical advice, the IMF oversees the international monetary system and lends to countries with balance of payments problems, often with conditions, and NGOs run local projects and campaign.
+
+**What role do remittances play in development?**
+Remittances raise household income, pay for schooling and health care, support the balance of payments and are more stable than some other flows. Drawbacks include brain drain, dependence on foreign labour markets and spending on consumption rather than investment.
+
+**What does the OxfordAQA 9640 specification say about the best route to development?**
+The OxfordAQA 9640 specification stresses that economists disagree on the best route to development and that the line between market-based and interventionist strategies is not clear cut, which is useful in evaluation.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, section 3.4.3.3 Policies to promote development. For International AS exams from May/June 2021 and International A-level exams from May/June 2022.

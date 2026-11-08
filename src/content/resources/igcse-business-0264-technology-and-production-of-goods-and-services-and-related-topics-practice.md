@@ -126,6 +126,23 @@ These questions cover sections 4.2 (**Technology and production of goods and ser
 - Forgetting to convert pence to pounds.
 - Ending an evaluation with a summary of points instead of a decision.
 
+## Frequently asked questions
+
+**Are these questions from Cambridge IGCSE Business 0264 past papers?**
+No. They are eleven original questions written for Marlbridge on sections 4.2 (Technology and production) and 4.3 (Sustainable production). All businesses are invented, so use the set alongside your board's official past papers.
+
+**Which figure do you divide by when calculating a percentage change?**
+Divide the change by the original figure, not the new one, then multiply by 100. Calculating the percentage on the new figure is a common way to lose the mark.
+
+**Why do students lose marks on technology questions about employees?**
+They often give advantages of technology for the business when the question asks about effects on employees, or a disadvantage. Keep businesses and employees separate and answer for the group the question names.
+
+**How should an evaluation question on technology or sustainability end?**
+It should end with a clear decision supported by the figures in the question, such as the saving and the time to recover the cost. A summary of points, or "it depends" with no reason, earns little.
+
+**What should you check in sustainability cost calculations?**
+Convert pence to pounds before multiplying, show the units in the final answer, such as pounds or years, and tie your reason to the named business.
+
 ## Next steps
 
 - Go back to the [revision notes](/resources/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics-revision-notes/) for any term you missed.

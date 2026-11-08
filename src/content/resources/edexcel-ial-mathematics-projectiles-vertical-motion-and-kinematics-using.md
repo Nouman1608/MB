@@ -332,6 +332,20 @@ j: 12 − 4 − 10 + 2 = 0
 - Giving displacement when the question asks for distance.
 - In vector work, differentiating the i and j parts together as one number, or writing a vector answer with a missing i or j.
 
+## Frequently asked questions
+
+**How do you solve projectile motion problems?**
+Split the motion into horizontal and vertical parts: horizontally the velocity is constant, and vertically the acceleration is −g. Time links the two directions, so find t from one direction and use it in the other.
+
+**What happens to the horizontal velocity of a projectile?**
+It stays constant at U cos α throughout the flight, because the only force is gravity, which acts vertically. Treating the horizontal velocity as changing is a common error.
+
+**How do you find when a vertically thrown ball is above a certain height?**
+Set the displacement equal to that height and solve the quadratic in t. The two roots are the times when the ball passes that height going up and coming down, so the time above it is their difference.
+
+**What level of calculus is needed in Edexcel IAL M2 kinematics?**
+The specification says the calculus in topic 1.3 is consistent with P1 to P4, so expect powers of t, exponentials and simple trigonometric functions of t.
+
 ## Next steps
 
 Revise the formulae and methods in the [revision notes](/resources/edexcel-ial-mathematics-projectiles-vertical-motion-and-kinematics-using-revision-notes/). Then test yourself with the [practice questions](/resources/edexcel-ial-mathematics-projectiles-vertical-motion-and-kinematics-using-practice/).

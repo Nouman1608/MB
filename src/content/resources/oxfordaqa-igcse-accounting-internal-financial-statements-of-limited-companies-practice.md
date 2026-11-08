@@ -196,6 +196,20 @@ Marks: land and machinery net book value 84,000 [1]; non-current assets total 28
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students usually lose marks on limited company statements in OxfordAQA 9215?**
+Common losses are treating interest paid as the full charge when some is still owing, using the opening inventory figure in current assets, and using retained earnings at the start of the year in the equity section.
+
+**What mistakes are common with non-current assets in company statements?**
+Depreciating land, applying the reducing balance rate to cost instead of net book value, and omitting accumulated depreciation from the non-current asset table.
+
+**Does putting an item under the wrong sub-heading lose marks if the total is right?**
+Yes. Each item must sit under the correct one of the five sub-headings, so a right total with an item in the wrong place still loses marks.
+
+**How should I comment on company results?**
+Give a figure, such as a ratio, together with a comment on what it shows. Ratios without a comment, or comments without any figure, lose marks.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), version 1.2, for International GCSE exams May/June 2026 onwards, published by OxfordAQA. Section 3.4, limited companies.

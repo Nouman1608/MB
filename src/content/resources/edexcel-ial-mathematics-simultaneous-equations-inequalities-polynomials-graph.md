@@ -236,6 +236,20 @@ Only one transformation is applied at a time in this topic. Combinations of tran
 - Solid line for a strict inequality, or dotted line for ≤ and ≥.
 - Showing an asymptote as a point the curve crosses, or forgetting to move it after a translation.
 
+## Frequently asked questions
+
+**How do you solve a quadratic inequality?**
+Rearrange so 0 is on one side, find the roots by factorising or the formula, sketch the curve, and read off where it is above or below the x-axis as required.
+
+**What does y = f(x) + a do to a graph?**
+It translates the whole graph up by a, or down if a is negative, so each point (p, q) moves to (p, q + a).
+
+**How do you show how many real roots an equation has using graphs?**
+Rearrange the equation into two simpler functions, sketch both on the same axes, and count the points where they intersect.
+
+**Are combined transformations part of Edexcel IAL Maths P1?**
+No. In Unit P1 only one transformation is applied at a time; combinations of transformations are covered in Unit P3 topic 1.4.
+
 ## Next steps
 
 Work through the [practice questions](/resources/edexcel-ial-mathematics-simultaneous-equations-inequalities-polynomials-graph-practice/), then use the [revision notes](/resources/edexcel-ial-mathematics-simultaneous-equations-inequalities-polynomials-graph-revision-notes/) to check recall. The [diagnostics](/diagnostics/) show which topics need more work.

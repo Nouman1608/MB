@@ -180,6 +180,20 @@ Use the [study guide](/resources/ocr-gcse-biology-single-gene-inheritance-geneti
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/) for help with crosses.
 
+## Frequently asked questions
+
+**How do you draw a Punnett square for full marks in OCR GCSE Biology A (J247)?**
+Define your letters first, write each parent's genotype, put one allele per gamete along the top and side, fill the boxes, then convert to phenotypes and a ratio or probability. Putting both alleles of a parent into one gamete is a common error.
+
+**Why don't real offspring numbers match the predicted ratio exactly?**
+A Punnett square gives probabilities, not guarantees, and fertilisation is random. Small samples can stray far from the predicted ratio, while large samples usually come much closer to it.
+
+**Does having three girls make the next baby more likely to be a boy?**
+No. Each fertilisation is independent, because each sperm carries X or Y with equal chance, so the probability of a boy is still 1/2. Treating a past result as changing the next birth's odds loses marks.
+
+**How do you work out an unknown genotype from a test cross?**
+Cross the individual with a homozygous recessive one. Any recessive offspring proves the individual is heterozygous, while all dominant offspring only make homozygous dominant likely, so a cautious conclusion that mentions the remaining probability is stronger.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018, published by OCR (Oxford Cambridge and RSA). Statements B5.1i to B5.1m.

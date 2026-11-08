@@ -12,13 +12,13 @@ order: 2
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-economics-unit-2"
-description: "Demand, supply and competitive market equilibrium -- sub-topics 2.1-2.3 of IB Diploma Programme Economics Unit 2 Microeconomics (35 SL / 70 HL teaching hours), first assessment 2022."
+description: "Study guide to demand, supply and competitive market equilibrium, IB DP Economics sub-topics 2.1 to 2.3, with the price mechanism and allocative efficiency."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **sub-topics 2.1 to 2.3** of Unit 2 Microeconomics —
@@ -209,6 +209,23 @@ exam-style short-answer questions on this content typically test.
   equilibrium.
 - Treat 2.1–2.3 as a prerequisite for the elasticity sub-topics later
   in Unit 2, not standalone content.
+
+## Frequently asked questions
+
+**What causes the supply curve to shift?**
+A change in a non-price determinant shifts the supply curve: costs of production, technology, the number of firms, taxes and subsidies, expectations, and the prices of related goods in joint or competitive supply.
+
+**What happens to equilibrium when demand shifts right?**
+With supply unchanged, a rightward shift of demand raises both the equilibrium price and the equilibrium quantity.
+
+**What happens to equilibrium when supply shifts right?**
+With demand unchanged, a rightward shift of supply lowers the equilibrium price and raises the equilibrium quantity.
+
+**What happens if demand and supply shift at the same time?**
+The direction of the change in price or quantity can become ambiguous without information about the relative size of each shift, so check whether a scenario affects demand, supply or both before analysing it.
+
+**Why should you master demand and supply before elasticity?**
+Elasticity asks how much quantity responds to a change in price or another determinant, which only makes sense once you can read a shift versus a movement on the demand and supply diagram.
 
 ## Official syllabus
 

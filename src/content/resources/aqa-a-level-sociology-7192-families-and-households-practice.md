@@ -20,9 +20,9 @@ description: "Original AQA 7192 Families and Households practice questions with 
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -141,6 +141,20 @@ Questions 9 to 11 are extended answers. The real exam marks these with levels of
 - Compare skills across topics with [Education practice](/resources/a-level-aqa-sociology-education-practice/) and [Crime and Deviance practice](/resources/a-level-aqa-sociology-crime-and-deviance-practice/).
 - Find gaps quickly with our [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/) with a Marlbridge sociology teacher.
+
+## Frequently asked questions
+
+**Is Families and households in Section A of AQA Paper 2?**
+Yes. Families and Households (4.2.2) is an option 1 topic, answered in Section A of AQA A-level Sociology (7192) Paper 2: Topics in Sociology.
+
+**How do you answer an "explain" question on families?**
+Link each cause to its effect rather than writing a list. For example, do not just name a law; explain how it changed patterns of divorce or family life.
+
+**How should you use time-use data on domestic labour?**
+Read which column refers to women and which to men, quote the figures, and then interpret them with a concept such as the dual burden. Time spent on tasks is not the whole story, since decision-making and emotion work matter too.
+
+**Why should you avoid writing "feminists say"?**
+Feminists do not all agree, so naming the strand or the sociologist, and showing how views differ, earns more credit than treating feminism as one view.
 
 ## Official syllabus
 

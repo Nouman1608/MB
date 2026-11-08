@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "differentiation-cambridge-alevel-maths-1"
 description: "Study guide to Cambridge 9709 Paper 1 differentiation (section 1.7): chords and limits, the chain rule, tangents, rates of change and stationary points."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -280,6 +280,23 @@ least surface area = 300 cm²
 - Finding x at a stationary point but not the y-coordinate when coordinates are asked for.
 - Stating "maximum" without showing the sign of d²y/dx² or the gradient either side.
 - Giving the whole domain where f′(x) > 0 is asked, instead of solving the inequality.
+
+## Frequently asked questions
+
+**How do you use the chain rule?**
+Differentiate the outside function, keep the inside unchanged, then multiply by the derivative of the inside. For example, (3x − 1)⁵ differentiates to 5(3x − 1)⁴ × 3 = 15(3x − 1)⁴.
+
+**What should you do if the second derivative is zero at a stationary point?**
+The second derivative test then tells you nothing, so check the sign of dy/dx just either side of the point to decide whether it is a maximum, minimum or neither.
+
+**Can a calculator do the differentiation in Cambridge 9709 Paper 1?**
+No. A scientific calculator is allowed, but not one that differentiates symbolically, and unsupported calculator answers earn no marks, so show the calculus by hand.
+
+**How do you prove a function is increasing for all x?**
+Show that f′(x) is always positive, often by completing the square, for example f′(x) = 3(x − 2)² + 3 ≥ 3 > 0. Then state that f is increasing.
+
+**How do you solve a maximum or minimum problem?**
+Use the constraint to write the quantity in one variable, differentiate and set the derivative to zero, confirm the nature with the second derivative, and answer the question asked with units.
 
 ## Next steps
 

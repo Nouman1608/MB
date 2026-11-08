@@ -142,6 +142,20 @@ The questions below are based on the AQA AS and A-level Economics specification,
 - Mixing up AD effects of credit with the capacity effect of investment.
 - Evaluating in general terms with no use of the data given.
 
+## Frequently asked questions
+
+**How do you work out the MPC without losing marks?**
+Use changes, not totals: MPC is the change in consumption divided by the change in income. Dividing total consumption by total income gives the average propensity to consume instead.
+
+**What is the most common multiplier formula mistake in AQA A-level Economics?**
+Writing the multiplier as 1/MPC. The formula AQA expects is 1/(1 - MPC), calculated from the MPC only.
+
+**How should an output gap be written in an answer?**
+Give it as a percentage of normal capacity output, with its sign. A negative gap shows actual output is below normal capacity.
+
+**How do I evaluate a policy in a data question on AD and AS?**
+Reach a stated judgement about the economy in the question using its numbers. Listing general limits of fiscal policy without using the data earns less credit.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/aqa-a-level-economics-aggregate-demand-and-economic-activity-short-run-and-revision-notes/) for any answer you lost marks on.

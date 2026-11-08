@@ -146,12 +146,29 @@ The timber supplier now allows Millbrook to pay one month after delivery, starti
 - Recommending a long-term fix for a short, small shortfall, or the reverse.
 - For "justify", giving one side only or no final choice.
 
+## Frequently asked questions
+
+**Are these Cambridge O Level Business Studies 7115 past paper questions?**
+No. They are eleven original questions written for Marlbridge on section 5.2, Cash-flow forecasting and working capital. Use them alongside the official past papers.
+
+**What is the most common slip when amending a cash-flow forecast?**
+Changing one month but not the months after it. Each closing balance becomes the next opening balance, so a change in an early month alters every later closing balance.
+
+**Is an overdraft included in working capital calculations?**
+Yes, as a current liability. Leaving it out, or counting it as an asset, gives a wrong working capital figure even when the arithmetic is right.
+
+**How do you choose a fix for a cash shortage in an exam answer?**
+Match the fix to the size and length of the shortfall in the case and quote the figures. Recommending a large long-term loan for a small gap lasting one month, or the reverse, does not fit the problem.
+
+**How should you show your working in cash-flow questions?**
+Show total inflows, total outflows and net cash flow before the closing balance. A wrong figure early on is easier to trace, and earn method marks, when the working is visible.
+
 ## Next steps
 
 - Review the [revision notes](/resources/o-level-business-cash-flow-forecasting-and-working-capital-revision-notes/).
 - Reread the [study guide](/resources/o-level-business-cash-flow-forecasting-and-working-capital/).
 - Go back to the [course hub](/boards/cambridge/o-level/business/) and tick off the [checklist](/checklists/cambridge/o-level/business/).
-- Take one of the [all free 10-minute diagnostics](/diagnostics/).
+- Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
 ## Official syllabus

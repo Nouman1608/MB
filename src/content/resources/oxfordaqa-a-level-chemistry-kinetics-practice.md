@@ -220,6 +220,20 @@ proportion with E ≥ Ea is unchanged, but there are more successful collisions 
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Is kinetics AS or A-level content in OxfordAQA 9620 Chemistry?**
+Section 3.1.6 Kinetics is all International AS content and is assessed in Unit 2 (Organic 1 and Physical 1), where questions may also draw on amount of substance.
+
+**Which other topic can kinetics questions draw on?**
+Kinetics questions in Unit 2 may also draw on amount of substance (section 3.1.2), for example converting gas volumes or masses into moles.
+
+**What are the most common mistakes in kinetics questions?**
+Typical slips are defining Ea without "minimum", explaining the temperature effect by more frequent collisions only, and linking concentration or pressure to a change in molecular energy. Rate units without a time part also lose marks.
+
+**What unit mistakes are common in kinetics questions?**
+Common errors are giving a negative rate, writing rate units with no time part, and leaving a gas volume in m³ when cm³ was asked for.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS

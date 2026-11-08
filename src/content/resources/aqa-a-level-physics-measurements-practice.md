@@ -15,9 +15,9 @@ syllabusTopics:
     subtopic: "limitation-of-physical-measurements"
 description: "Original exam-style practice questions with full worked answers on uncertainty, errors, precision and graphical analysis for AQA A Level Physics 7408."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -116,3 +116,17 @@ Absolute = 0.0341 × 11.55 = **±0.39 Ω** [1].
 - Forgetting to multiply, not add, the percentage uncertainty when a quantity is raised to a power.
 - Declaring a definite difference between two data points whose error bars overlap.
 - Forgetting that a squared quantity in a formula doubles its percentage-uncertainty contribution relative to a linear one.
+
+## Frequently asked questions
+
+**What is the difference between accuracy and precision?**
+Accuracy is how close a measurement is to the true value, while precision is how closely repeated readings agree with each other. A balance with a zero error gives precise readings that are all inaccurate by the same amount.
+
+**How do you combine uncertainties when dividing two quantities?**
+When quantities are multiplied or divided, add their percentage uncertainties. For R = V/I, the percentage uncertainty in R is the percentage uncertainty in V plus that in I.
+
+**Why time 20 oscillations rather than one?**
+The absolute uncertainty from reaction time is fixed, so timing a longer interval makes it a much smaller percentage of the reading. Divide the total by the number of oscillations to find the period.
+
+**What does it mean if error bars overlap?**
+If the error bars of two data points overlap, the difference between them may not be significant, because their true values could plausibly be equal.

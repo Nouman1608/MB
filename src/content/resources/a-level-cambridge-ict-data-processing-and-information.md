@@ -15,11 +15,11 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "data-processing-and-information"
-description: "Data and information, quality of information, encryption, validation and verification, and batch, online and real-time processing -- topic 1 of Cambridge International AS & A Level Information Technology (9626), a 21-topic syllabus staged across AS and A Level."
+description: "Study guide to Cambridge AS & A Level IT 9626 topic 1: data and information, information quality, encryption, validation and verification, and processing."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-08-21
 updatedDate: 2026-09-27
 featured: false
@@ -160,3 +160,17 @@ Treating validation and verification as the same thing, or swapping their defini
 - Compare batch, online and real-time processing, and justify a choice for a scenario.
 - Describe the steps in sequentially updating a master file from a transaction file, and write them as an algorithm.
 - Explain the need for encryption, contrast symmetric with asymmetric encryption, and describe the purpose and use of TLS/SSL and IPsec, with their advantages and disadvantages.
+
+## Frequently asked questions
+
+**Which topics are AS Level in Cambridge 9626 Information Technology?**
+Cambridge International AS & A Level Information Technology (9626) has 21 topics. AS Level candidates study topics 1 to 11 only, while the full A Level covers all 21, so Data processing and information is AS content.
+
+**What is the difference between a limit check and a range check?**
+A range check tests that a value falls between an upper and a lower limit, while a limit check tests a value against one boundary only, making it a one-sided range check.
+
+**Does validation make sure data is correct?**
+No. Validation only checks that data is reasonable as it is entered; it cannot tell whether a sensible-looking value is actually true. Verification is needed to check that data has been entered or transferred accurately.
+
+**When is batch processing unsuitable?**
+Batch processing is unsuitable where an immediate response is needed. For a booking system, queuing bookings for later processing would allow two customers to reserve the same seat before the file is updated, so online processing is used instead.

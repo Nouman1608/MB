@@ -253,6 +253,20 @@ Each frame below shows the separate points a full answer needs. Adapt the elemen
 - Saying noble gases are unreactive because they have "8 electrons" or "a full shell of 8" without allowing for helium.
 - Classifying from a single observation (for example "shiny, so a metal") when the question gives oxide or conductivity data to use.
 
+## Frequently asked questions
+
+**What is the difference between mass number and relative atomic mass?**
+Mass number is a whole number giving the protons plus neutrons in one isotope. Relative atomic mass (Ar) is a weighted mean for the element's isotopes, so it is usually not a whole number and has no units.
+
+**How do you calculate relative atomic mass when abundances are given as a ratio?**
+Multiply each mass number by its share of the ratio, add the products, and divide by the total of the ratio parts rather than by 100. For neon-20 and neon-22 in the ratio 9 : 1, you divide by 10.
+
+**How do you find an element's group and period from its electronic configuration?**
+For a main group element, the period number is the number of occupied shells and the group number is the number of electrons in the outer shell. In Edexcel International GCSE Chemistry (4CH1), for example, 2,5 is in Period 2, Group 5, which is nitrogen.
+
+**Why are noble gases unreactive?**
+Noble gases have a full outer shell of electrons, a stable arrangement, so they have no tendency to lose, gain or share electrons. Say "full outer shell" rather than "8 outer electrons", because helium's full shell holds 2.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Chemistry (4CH1) specification, Issue 3, September 2024, published by Pearson Education Limited. Topic 1 Principles of chemistry, sub-topics (c) Atomic structure (points 1.14–1.17) and (d) The Periodic Table (points 1.18–1.24).

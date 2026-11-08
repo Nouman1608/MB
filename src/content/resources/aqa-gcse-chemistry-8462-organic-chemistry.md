@@ -15,9 +15,9 @@ syllabusTopics:
     topic: "organic-chemistry-8462"
 description: "Study guide for AQA GCSE Chemistry 8462 Topic 7 Organic chemistry: crude oil, cracking, alkenes, alcohols, carboxylic acids and polymers."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -359,6 +359,20 @@ Amino acids have two **different** functional groups: an amine group (–NH2) an
 - Drawing a polymer without the extension bonds through the brackets, or leaving the C=C in the chain.
 - Confusing oxidation of ethanol (gives ethanoic acid) with combustion (gives CO2 and water).
 - Saying a weak acid is a dilute acid. Weak means partially ionised; dilute means low concentration.
+
+## Frequently asked questions
+
+**How long is the Paper 2 exam that tests Organic chemistry in AQA GCSE Chemistry 8462?**
+Paper 2 is 1 hour 45 minutes, worth 100 marks and 50% of the GCSE. It covers Topics 6 to 10 and can draw on ideas from sections 4.1 to 4.3.
+
+**Are larger hydrocarbons more flammable than smaller ones?**
+No. Smaller hydrocarbon molecules are more flammable. As the molecules get larger, flammability decreases and boiling point and viscosity increase.
+
+**What conditions are needed to make ethanol from ethene?**
+Ethene reacts with steam in the presence of a catalyst to make ethanol. Leaving out either "steam" or "catalyst" is a common error.
+
+**What is the difference between a weak acid and a dilute acid?**
+A weak acid, such as ethanoic acid, is only partially ionised in water. A dilute acid has a low concentration, so a weak acid is not necessarily dilute.
 
 ## Official syllabus
 

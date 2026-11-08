@@ -175,6 +175,20 @@ Links: [study guide](/resources/ocr-gcse-mathematics-sampling-and-representing-d
 - Try all [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which OCR GCSE Maths sections do these sampling and charts questions cover?**
+They cover sections 12.01 and 12.02 of OCR GCSE (9-1) Mathematics J560: sampling, charts, time series, cumulative frequency graphs and histograms. Cumulative frequency graphs and histograms are Higher tier only.
+
+**How do you describe a simple random sample in an exam answer?**
+Say that you number every member of the population, generate random numbers in that range, select the matching members and skip repeats until you have the sample size. Writing only "pick at random" does not say how everyone gets an equal chance.
+
+**What should you mention when describing a time series?**
+Describe the trend, the overall direction over time, and the seasonal variation, the pattern that repeats in each period. An answer such as "it goes up and down" earns little credit.
+
+**What is the most common mistake when reading a histogram?**
+Using the bar height as the frequency when the class widths differ. In a histogram, the area of the bar represents the frequency, so multiply frequency density by class width.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics (J560) specification, Version 2.1 (August 2026), for first assessment in 2017, published by OCR. Sections covered: 12.01a, 12.02a and 12.02b.

@@ -261,6 +261,20 @@ Check: a ratio of 3:1 on £36,000 profit gives £27,000 and £9,000. Dividends o
 - Classifying a business into the wrong sector because of the product it sells rather than the activity it carries out.
 - Forgetting to show a calculation step, such as the shortfall before deciding who is liable.
 
+## Frequently asked questions
+
+**What are the four factors of production?**
+Land, labour, capital and enterprise. In GCSE Business, capital means man-made resources such as machinery and vehicles, not money.
+
+**What are the five reasons for starting a business in AQA GCSE Business (8132)?**
+Producing goods, supplying services, distributing products, fulfilling a business opportunity, and providing a good or service to benefit others.
+
+**Which business structures have unlimited liability?**
+Sole traders and partnerships. Private and public limited companies have limited liability, so owners can lose only the money they invested.
+
+**What is the difference between a ltd and a plc?**
+Both have limited liability, but a plc can offer its shares to the public while a private limited company cannot. Plc owners can therefore lose control through a takeover.
+
 ## Official syllabus
 
 AQA GCSE Business (8132) specification, for first teaching from September 2017, published by AQA. Sections 3.1.1 and 3.1.2.

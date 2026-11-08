@@ -237,6 +237,23 @@ To evaluate disposal, pair each advantage with a disadvantage and link both to t
 
 Next, use the [revision notes](/resources/oxfordaqa-a-level-chemistry-polymers-revision-notes/), the [practice questions](/resources/oxfordaqa-a-level-chemistry-polymers-practice/) and the [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is the difference between addition and condensation polymers?**
+Addition polymers form when a C=C bond opens and the polymer is the only product. Condensation polymers form from monomers that each carry two reactive groups, and every new linkage releases a small molecule, usually water.
+
+**Why do polyamides have stronger forces between chains than polyesters?**
+Polyamides form hydrogen bonds between the H of an N–H group and the oxygen of a C=O group on a neighbouring chain. Polyesters have no hydrogen bonded to oxygen or nitrogen in the ester link, so only weaker permanent dipole–dipole forces act between C=O groups.
+
+**Why are polyesters and polyamides biodegradable but polyalkenes are not?**
+Ester and amide links contain a polar C=O bond, so the carbonyl carbon is δ+ and can be attacked by water or hydroxide ions, splitting the link. A polyalkene backbone has only non-polar C–C and C–H bonds, so there is no δ+ carbon to attack.
+
+**What does the 6,6 in nylon 6,6 mean?**
+Nylon 6,6 is made from hexanedioic acid and hexane-1,6-diamine, and each of these monomers contains six carbon atoms.
+
+**Is polymers AS or A2 content in OxfordAQA 9620 Chemistry?**
+Section 3.3.12, Polymers, is International A-level only and lists no practical activity of its own.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards: section 3.3.12 Polymers (3.3.12.1 Condensation polymers; 3.3.12.2 Biodegradability and disposal of polymers), International A-level only.

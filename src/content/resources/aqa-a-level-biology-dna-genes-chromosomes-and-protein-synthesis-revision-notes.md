@@ -227,6 +227,23 @@ Typical roles to recognise: no mRNA means no polypeptide; no ATP means a much lo
 </figure>
 
 
+## Frequently asked questions
+
+**What does it mean that the genetic code is universal, non-overlapping and degenerate?**
+Universal means the same triplet codes for the same amino acid in all organisms. Non-overlapping means each base belongs to only one triplet. Degenerate means most amino acids are coded for by more than one triplet.
+
+**Do I need to memorise the codon table for AQA A-level Biology?**
+No. You do not have to recall which codon codes for which amino acid; codon tables are supplied when needed.
+
+**What is the difference between a genome and a proteome?**
+The genome is the complete set of genes in a cell. The proteome is the full range of proteins the cell is able to produce.
+
+**What is the difference between a codon, an anticodon and a triplet?**
+A triplet is three bases on DNA, a codon is three bases on mRNA, and an anticodon is three bases on tRNA complementary to a codon.
+
+**What is the difference between a gene and a locus?**
+A gene is the base sequence that codes for a polypeptide or functional RNA; the locus is its fixed position on a DNA molecule.
+
 ## Official syllabus
 
 Source document: the AQA specification for AS and A-level Biology (codes 7401 and 7402), first teaching 2015, version 1.5, published by AQA. Sections 3.4.1 and 3.4.2 only.

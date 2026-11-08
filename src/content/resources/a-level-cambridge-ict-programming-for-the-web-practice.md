@@ -270,6 +270,20 @@ function setTheme() {
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is programming for the web an A Level topic in Cambridge 9626?**
+Yes. Programming for the web is topic 21 of Cambridge International AS & A Level Information Technology (9626) and is A Level only. It is examined in Paper 3 Advanced Theory and Paper 4 Advanced Practical, which covers sections 17 to 21.
+
+**Is JavaScript case-sensitive in 9626 answers?**
+Yes. JavaScript is case-sensitive, so writing getElementByID instead of getElementById, or getting an id's spelling or quotes wrong, makes the code fail and loses marks.
+
+**What are common mistakes in JavaScript exam answers?**
+Common slips include leaving quotes off an id, starting a setInterval with no clearInterval, attaching events to the wrong element, calling a function that is never written, and using CSS property names such as background-color inside JavaScript.
+
+**Is other correct code accepted in JavaScript questions?**
+Yes. The answers on this page show one acceptable version with indicative marking, and other correct code that meets the task also earns credit.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 21: Programming for the web (21.1 Programming for the web).

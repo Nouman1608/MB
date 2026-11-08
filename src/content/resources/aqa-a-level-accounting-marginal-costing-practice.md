@@ -225,6 +225,20 @@ as fixed costs are already covered [1]. All sales must cover fixed costs and the
 - Giving factors with no final recommendation on "advise" or "evaluate".
 - Rounding target-profit units down.
 
+## Frequently asked questions
+
+**Are these AQA 7127 marginal costing questions from past papers?**
+No. They are original practice questions with worked answers on section 3.10 of AQA A-Level Accounting 7127, written for revision. Use them alongside the official past papers.
+
+**What is the most common mistake in make-or-buy and special order questions?**
+Using full cost, including absorbed fixed overheads, instead of marginal cost. Ignoring avoidable fixed costs or income from freed space also loses marks.
+
+**Are all apportioned fixed costs saved when a product line closes?**
+No. Only fixed costs that are actually avoided are saved; treating all apportioned fixed costs as saved on closure is a common error.
+
+**How do I finish an advise or evaluate question in marginal costing?**
+Give the relevant factors and then a clear final recommendation supported by the figures. Points with no decision lose the last mark.
+
 ## Next steps
 
 - [Revision notes](/resources/aqa-a-level-accounting-marginal-costing-revision-notes/)

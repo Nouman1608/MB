@@ -196,6 +196,23 @@ Steroid hormones are lipid-soluble and pass through the plasma membrane. Inside,
 - Mixing up the effect of GTP: the G protein is active with GTP bound.
 - Describing insulin as entering cells.
 
+## Frequently asked questions
+
+**What is a ligand?**
+A ligand is a signalling chemical that binds reversibly to a specific binding site on a receptor protein, changing the receptor's shape and starting the response.
+
+**How does insulin increase glucose uptake?**
+Insulin binds a tyrosine kinase receptor in the plasma membrane, causing phosphorylation of tyrosine inside the cell. A sequence of reactions brings vesicles carrying glucose transporters to fuse with the membrane, so glucose enters faster by facilitated diffusion.
+
+**Why are steroid hormone responses slower than membrane receptor responses?**
+A steroid must cross the membrane, bind its intracellular receptor, and the receptor must bind DNA sequences to promote transcription before new mRNA and protein appear, so the response is slower but longer lasting.
+
+**Why does a signalling pathway need an off switch?**
+Without an off switch the cell would keep responding; for example, phosphodiesterase breaks down cAMP and the G protein switches off when GTP is hydrolysed, ending the epinephrine signal.
+
+**Is chemical signalling in the IB DP Biology SL course?**
+No. Topic C2.1 has no standard level content in the IB Biology guide (first assessment 2025), so all of it is additional higher level.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Topic C2.1, Chemical signalling (additional higher level).

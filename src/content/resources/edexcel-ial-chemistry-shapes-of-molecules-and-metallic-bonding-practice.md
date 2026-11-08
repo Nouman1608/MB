@@ -200,6 +200,23 @@ N₂ = 0.110 nm. Explain why the N≡N bond is shorter than the N-N bond. **[2]*
 - Find your weak spots with [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these Edexcel IAL Chemistry shapes and metallic bonding questions cover?**
+They cover Topic 3 parts 3C Shapes of molecules and 3D Metallic bonding, outcomes 3.16 to 3.22 of the Pearson Edexcel International A Level Chemistry specification (XCH11/YCH11). All of it is International AS content in Unit 1.
+
+**How do you count lone pairs on the central atom of an ion?**
+Start with the central atom's outer electrons, subtract those used in bonds, add one per negative charge or subtract one per positive charge, then halve what is left. Ignoring the charge gives the wrong number of lone pairs.
+
+**Does a double or triple bond count as one region of electron density?**
+Yes. All the pairs in a double or triple bond lie in the same region between the same two atoms, so each counts as one region when predicting shape. Counting it as more than one region gives the wrong shape.
+
+**How should you describe lone-pair repulsion in an explanation?**
+Say that lone pairs repel more strongly than bonding pairs, so the remaining bond angles close up. "Lone pairs take up more space" without the word repel can lose the mark.
+
+**How do you explain a difference in metal melting temperatures?**
+Compare ionic charge, the number of delocalised electrons per atom and ionic size, then link them to stronger electrostatic attraction and more energy needed to melt. Listing factors without that link usually falls short.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1,

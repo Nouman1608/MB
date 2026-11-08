@@ -17,11 +17,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-intertextuality"
 description: "Original IB DP Language A: Literature practice questions on the individual oral, with a translated and an original-language extract and worked answers."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -242,6 +242,20 @@ strong responses from two separate commentaries.
 - [Printable checklist](/checklists/ib/ib-dp/language-a-literature/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**How is the individual oral marked in IB Language A: Literature?**
+Your teacher marks the oral holistically against the IB criteria, not point by point. It is the internally assessed component of IB DP Language A: Literature, at both SL and HL.
+
+**Can you analyse sound effects in a translated work?**
+Be careful. Rhyme, alliteration, puns and single-word choices in a translated work may belong to the translator, so say "in this translation" when a point depends on them, and build main points on imagery, structure and perspective.
+
+**What makes a good extract for the oral?**
+A good extract shows the global issue through images, voice or structure rather than stating it outright, so there is something to analyse. It should also link to named moments elsewhere in the work.
+
+**Why do oral responses lose marks?**
+Common reasons are naming a theme such as "family" without narrowing it to an issue, giving one extract far more analysis than the other, linking to the whole work without naming a specific moment, and not returning to the issue at the end.
 
 ## Official syllabus
 

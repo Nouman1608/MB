@@ -259,6 +259,20 @@ An evaluation about finance weighs the factors against the facts. A good answer 
 - Confusing bankruptcy with liquidation. Bankruptcy relates to individuals; liquidation closes the business.
 - Naming a source without matching it to the need, such as a mortgage for a wage bill.
 
+## Frequently asked questions
+
+**What is the difference between capital and revenue expenditure?**
+Capital expenditure is spending on non-current assets used for more than a year, such as a van. Revenue expenditure is spending on day-to-day running, such as the van's fuel and repairs.
+
+**Why does the form of ownership affect sources of finance?**
+Ownership decides who can supply finance. A sole trader relies mainly on savings, profits and borrowing, while a public limited company can sell shares to the public and raise much larger sums.
+
+**What is sale and leaseback?**
+Selling a non-current asset, such as a building, and renting it back. The business gets cash now without borrowing but must pay rent and no longer owns the asset.
+
+**Which papers test business finance in Cambridge 9609?**
+Sections 5.1 and 5.2 are AS Level content. Paper 1 (Business Concepts 1) and Paper 2 (Business Concepts 2) test AS Level content, including application, analysis and evaluation.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education). Sections 5.1 Business finance and 5.2 Sources of finance.

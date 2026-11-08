@@ -158,6 +158,20 @@ In the real exam, extended answers are marked with levels of response, not point
 - Practise coursework planning with the [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/) and [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/).
 - Want feedback on your answers? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Should you add climate science facts to 0457 Written Exam answers?**
+No. Component 1 does not credit prior knowledge of the topic, so work from the sources given rather than adding outside facts about climate change.
+
+**Does a vested interest mean a source is wrong?**
+No. A vested interest is a reason to check the source's evidence closely, not proof that it is false. The source may still be accurate and well reasoned.
+
+**How do you answer a question that asks you to compare courses of action?**
+Compare the actions directly against criteria using evidence from all the sources, then reach a final judgement. Describing each action and stopping earns few marks.
+
+**What does a Team Project action need besides a plan?**
+It needs a before-and-after measure so the team can judge its success. An action with no way to measure its effect is a common weakness.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Topic list in section 3; Component 1 Written Exam, Component 2 Individual Report, Component 3 Team Project and command words in section 4.

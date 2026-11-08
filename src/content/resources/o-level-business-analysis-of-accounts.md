@@ -212,6 +212,20 @@ Match the ratio to the user. A lender or supplier cares most about liquidity (cu
 </figure>
 
 
+## Frequently asked questions
+
+**What is the difference between profitability and liquidity?**
+Profitability is how well a business earns profit compared with its revenue or the money invested in it. Liquidity is its ability to pay short-term debts when they fall due, using cash or assets that can quickly become cash.
+
+**What does it mean if gross profit margin is steady but profit margin falls?**
+The cause lies in overheads such as rent, wages or marketing, not in the cost of sales. A fall in gross profit margin itself points to cheaper pricing, dearer suppliers or wastage.
+
+**Can a profitable business run out of cash?**
+Yes. Profit and cash are different: a business can sell on credit and record a profit while customers have not yet paid, and it can be forced to stop trading if it cannot pay wages or suppliers on time.
+
+**How do you judge whether a ratio is good or bad?**
+A ratio on its own says little. Compare it with the same business in earlier years, with similar businesses and with the business's own targets, then explain why it changed using the case.
+
 ## Official syllabus
 
 Cambridge O Level Business Studies 7115 syllabus for examination in 2026, Cambridge International, section 5.5.

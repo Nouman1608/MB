@@ -13,13 +13,13 @@ syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-mathematics-branches-of-mathematical-study"
     subtopic: "ib-myp-mathematics-branches-of-mathematical-study-reasoning-with-data"
-description: "Statistics, probability and drawing conclusions from data -- one of four branches of the IB Middle Years Programme Mathematics framework, tied to the four MYP assessment criteria."
+description: "Study guide to the IB MYP Mathematics reasoning with data branch: statistics, probability and justified conclusions from data, mapped to all four criteria."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This guide covers **Reasoning with Data**, one of the four branches of
@@ -165,6 +165,20 @@ one or the other -- the two are calculated in genuinely different ways and are n
   <figcaption>The same event has a theoretical and an experimental probability, calculated differently.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**How does reasoning with data link to the four MYP assessment criteria?**
+Criterion A covers calculating statistics and probabilities and choosing representations; Criterion B covers noticing and testing trends; Criterion C covers presenting data and conclusions clearly; and Criterion D covers drawing valid real-world conclusions and reflecting on their limits.
+
+**Which graph is good for showing spread and outliers?**
+A box plot shows the spread of the data and any outliers clearly, which makes it a better choice than reporting the mean alone for skewed data.
+
+**What is the difference between theoretical and experimental probability?**
+Theoretical probability is worked out from equally likely outcomes, while experimental probability is estimated from the results of repeated trials.
+
+**How can a global context frame a statistics task?**
+A global context gives the data a real purpose, for example investigating recycling rates across neighbourhoods within globalization and sustainability. The context shapes which conclusions matter and which limitations are worth discussing.
 
 ## Official syllabus
 

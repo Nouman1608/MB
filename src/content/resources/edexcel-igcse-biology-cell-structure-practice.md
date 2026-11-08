@@ -13,13 +13,13 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "structures-and-functions-in-living-organisms-edexcel-igcse-biology"
     subtopic: "cell-structure-4bi1"
-description: "Original practice questions with full worked answers on cell structures, plant vs animal cells, biological molecules and enzymes, for Pearson Edexcel International GCSE Biology (4BI1)."
+description: "Original practice questions with worked answers on cell structures, plant and animal cells, biological molecules and enzymes for Edexcel IGCSE Biology 4BI1."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-06
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -99,6 +99,20 @@ judging reversibility, because the revision notes identify exactly this three-pa
 below optimum, at optimum, well above optimum -- as the answer format examiners look for, and flag
 "describing an enzyme as killed by heat" (rather than explaining denaturation as an active-site shape
 change) as the most common way marks are lost on this topic.
+
+## Frequently asked questions
+
+**Which parts of Edexcel International GCSE Biology 4BI1 do these questions cover?**
+They cover cell structure, plant and animal cells, stem cells, biological molecules and enzymes from Topic 2.
+
+**How should you identify an unlabelled cell?**
+Justify your answer using the structures that are described or visible, rather than naming the cell type without evidence.
+
+**Are these Edexcel past paper questions?**
+No. They are original practice questions with full worked answers. Use them alongside official Pearson Edexcel past papers.
+
+**How should you answer an enzyme graph question with several parts?**
+Describe the change first, then explain it, and then state any conclusion asked for, such as whether a change is reversible.
 
 ## Official syllabus
 

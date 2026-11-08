@@ -248,6 +248,20 @@ Newtonian ½mv² gives 7.3 × 10⁸ m s⁻¹, faster than light: impossible.
 
 For Paper 3 planning see [exam preparation](/resources/aqa-a-level-physics-exam-preparation/).
 
+## Frequently asked questions
+
+**What did Millikan's oil drop experiment show?**
+Every charge measured on the oil drops was a whole-number multiple of about 1.6 × 10⁻¹⁹ C, so charge is quantised with e as the smallest unit. Combined with e/m, this gave the electron's mass.
+
+**Why was Newton's corpuscular theory preferred to Huygens' wave theory?**
+Newton had a great reputation, his theory explained reflection, refraction and sharp shadows simply, and the speed of light in water could not yet be measured to decide between the two theories.
+
+**What was the significance of the Michelson-Morley experiment?**
+Rotating the interferometer through 90° should have shifted the fringes if the Earth moved through an ether, but no shift was detected. This showed absolute motion cannot be detected and that the speed of light is invariant.
+
+**How does a scanning tunnelling microscope work?**
+A fine conducting tip about 1 nm above a conducting surface has a small pd across the gap, and electrons cross it by quantum tunnelling. The current depends very strongly on the gap, so keeping it constant makes the tip follow the surface.
+
 ## Official syllabus
 
 AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, AS and A-level exams June 2016 onwards: section 3.12 Turning points in physics (A-level only). Published by AQA.

@@ -19,9 +19,9 @@ syllabusTopics:
     subtopic: "as-elastic-and-plastic-behaviour"
 description: "Original exam-style practice questions with full worked answers on Hooke law, the Young modulus and strain energy for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -75,7 +75,7 @@ Related: [Deformation of Solids revision notes](/resources/as-physics-deformatio
 
 **(b)** A rubber band is stretched and released. Its loading and unloading curves differ. State what the area between them represents. **[2]**
 
-**7.** A wire of original length 2.0 m and cross-sectional area 1.0 × 10⁻⁶ m² extends by 1.5 mm under a load of 60 N.
+**7.** A wire of original length 1.6 m and cross-sectional area 2.0 × 10⁻⁷ m² extends by 2.0 mm under a load of 50 N.
 
 **(a)** Calculate the stress, strain and Young modulus. **[3]**
 
@@ -124,7 +124,7 @@ A = πr² = π × (2.1 × 10⁻⁴)² = **1.385 × 10⁻⁷ m²** [1].
 
 ---
 
-**7. (a)** stress = F/A = 60 ÷ (1.0 × 10⁻⁶) = **6.0 × 10⁷ Pa** [1]; strain = x/L = (1.5 × 10⁻³) ÷ 2.0 = **7.5 × 10⁻⁴** [1]; E = stress/strain = **8.0 × 10¹⁰ Pa** [1].
+**7. (a)** stress = F/A = 50 ÷ (2.0 × 10⁻⁷) = **2.5 × 10⁸ Pa** [1]; strain = x/L = (2.0 × 10⁻³) ÷ 1.6 = **1.25 × 10⁻³** [1]; E = stress/strain = **2.0 × 10¹¹ Pa** [1].
 
 **(b)** The **limit of proportionality** is where extension stops being proportional to force [1]; the **elastic limit** is the point beyond which deformation becomes at least partly plastic — for many materials this lies close to, but not exactly at, the limit of proportionality [1].
 
@@ -141,3 +141,17 @@ A = πr² = π × (2.1 × 10⁻⁴)² = **1.385 × 10⁻⁷ m²** [1].
 - Treating the Young modulus as a property of the object.
 - Confusing strong, stiff and tough.
 - Using ½Fx on a non-linear force–extension graph.
+
+## Frequently asked questions
+
+**Why must you use the radius when calculating a wire's cross-sectional area?**
+Area is A = πr², so using the diameter instead of the radius makes the area four times too large and the stress four times too small. Halve the diameter first and convert to metres.
+
+**Which Cambridge 9702 topic covers deformation of solids?**
+Deformation of solids is Topic 6 of Cambridge International AS & A Level Physics 9702, covering stress and strain and elastic and plastic behaviour. It is AS Level content.
+
+**What are the units of stress and strain?**
+Stress is force per unit area, measured in pascals (Pa), equivalent to N m⁻². Strain is a ratio of two lengths, so it has no unit.
+
+**What mistakes lose marks in deformation of solids questions?**
+Common errors include omitting "up to the limit of proportionality" from Hooke's law, using the diameter instead of the radius, treating the Young modulus as a property of the object, and confusing strong, stiff and tough.

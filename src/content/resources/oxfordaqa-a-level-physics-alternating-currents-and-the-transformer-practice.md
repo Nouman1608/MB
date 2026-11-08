@@ -169,6 +169,23 @@ Read the [study guide](/resources/oxfordaqa-a-level-physics-alternating-currents
 - Try all [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these OxfordAQA A-level Physics a.c. questions cover?**
+They cover sections 3.10.5 and 3.10.6 of OxfordAQA International AS and A-level Physics (9630) and Required practical 7: rms values, oscilloscope traces, the transformer, efficiency and power transmission.
+
+**When can I use Vrms = Vo/√2?**
+Only for a sinusoidal waveform, and only with the peak value. Applying it to every waveform, or to a peak-to-peak value, is a common error.
+
+**What mistakes are common when reading an oscilloscope trace?**
+Mixing up peak and peak-to-peak values, and counting divisions without multiplying by the Y-gain or time-base setting. Take the period from one full cycle.
+
+**How should I describe energy losses in a transformer?**
+Name the cause, such as eddy currents in the core, resistance of the coils or hysteresis. Writing "heat" as a loss with no cause gains little credit.
+
+**What current do I use to find power lost in a transmission line?**
+Use the line current, found from I = P/V, in P = I²R. Putting the transmission voltage into I²R gives a wrong answer.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), specification Version 4.4, for exams from May/June 2020 onwards, published by OxfordAQA. These questions cover sections 3.10.5 and 3.10.6 and Required practical 7.

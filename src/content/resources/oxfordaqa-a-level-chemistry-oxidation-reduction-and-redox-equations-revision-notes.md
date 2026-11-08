@@ -253,6 +253,19 @@ Cover the answers and work through each one.
   <figcaption>A more positive E° means a stronger oxidising agent; a more negative E° means a stronger reducing agent.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the oxidation state of hydrogen in a metal hydride?**
+Hydrogen bonded to a metal, as in lithium hydride, LiH, has an oxidation state of −1 instead of the usual +1.
+
+**How do you write an oxidation state compared with an ionic charge?**
+Write the sign first for an oxidation state, such as +3, and the number first for an ionic charge, such as 3+. Writing an oxidation state without a sign loses the mark.
+
+**How can you tell if a reaction is not a redox reaction?**
+Work out the oxidation state of every element on both sides. If no oxidation state rises and none falls, as in SO₃ + H₂O → H₂SO₄, the reaction is not redox.
+
+**How many electrons go in a half-equation?**
+The number of electrons equals the total change in oxidation state. In 2O²⁻ → O₂ + 4e⁻, two oxygen atoms each rise by 2, so four electrons are lost.
 
 ## Official syllabus
 

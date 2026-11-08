@@ -40,11 +40,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-4-14"
 description: "IB DP Maths AA study guide to probability, discrete and continuous random variables, binomial and normal distributions, with worked examples."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 This study guide teaches the probability and distributions unit of IB Diploma Programme Mathematics: Analysis and Approaches from scratch. It is aligned to the IB *Mathematics: analysis and approaches guide*, first assessment 2021, syllabus sections 4.5–4.9 and 4.11–4.12 (SL and HL) and 4.13–4.14 (HL only). It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 sessions.
@@ -340,6 +340,23 @@ Paper 1 allows no technology, at SL and HL. Venn and tree problems, discrete dis
 ## Next steps
 
 Condense this unit with the [revision notes](/resources/ib-dp-mathematics-aa-probability-distributions-revision-notes/), then try the [practice questions](/resources/ib-dp-mathematics-aa-probability-distributions-practice/). The integration skills for 4.14 are taught in the [AA calculus study guide](/resources/ib-dp-mathematics-aa-calculus/). The [exam preparation guide](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/) helps you plan the final weeks.
+
+## Frequently asked questions
+
+**What does a fair game mean in probability?**
+If X is a player's gain, the game is fair when E(X) = 0. For example, winning 10 points on a six and losing 2 otherwise with a fair die gives E(gain) = 0.
+
+**What percentage of a normal distribution lies within one standard deviation of the mean?**
+About 68% of values lie within μ ± σ, 95% within μ ± 2σ and 99.7% within μ ± 3σ. The mean, median and mode are all equal to μ.
+
+**What does a standardized z-value tell you?**
+z = (x − μ)/σ gives the number of standard deviations x lies from the mean. For X ~ N(50, 4²), x = 58 has z = 2.
+
+**How do linear transformations affect the mean and variance?**
+E(aX + b) = aE(X) + b and Var(aX + b) = a²Var(X), for both discrete and continuous random variables. Adding b shifts the mean but does not change the variance.
+
+**Does the expected number of occurrences have to be a whole number?**
+No. The expected number of occurrences of A in n trials is n × P(A), which need not be a whole number.
 
 ## Official syllabus
 

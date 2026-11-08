@@ -209,6 +209,20 @@ Critical path: A -> C -> E   (2 + 5 + 1 = 8)
 - Describing initiation activities, such as setting scope, as part of planning.
 - Giving only advantages when the question asks for advantages and disadvantages.
 
+## Frequently asked questions
+
+**What are the four stages of the project life cycle?**
+In Cambridge 9626, the four stages are initiation, planning, execution and monitoring, and close. Initiation decides what the project is and whether to do it, while planning decides how and when, task by task.
+
+**What is the difference between an objective and a success criterion?**
+An objective is what the project must achieve, such as "launch online booking". A success criterion is the measure used at the end to judge it, such as "60% of bookings online within two months".
+
+**What is the critical path?**
+The critical path is the longest chain of dependent activities through a project network. Its activities have zero float, so the project cannot finish until every activity on it is complete, and any delay to them delays the project.
+
+**What is the difference between personal and single-user project management software?**
+Personal software manages one person's own tasks, while single-user software lets one manager control the plan for a whole project that others work on. Collaborative software lets many users share a live plan.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027, version 3 (published July 2025), Cambridge International, part of Cambridge University Press & Assessment. Topic 15, Project management, sections 15.1–15.3.

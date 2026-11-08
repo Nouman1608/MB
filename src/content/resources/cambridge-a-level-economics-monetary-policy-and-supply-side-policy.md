@@ -241,6 +241,23 @@ Unlike expansionary monetary policy, output rises while the price level falls.
 - Treating a movement along SRAS as a shift.
 - Giving only a list of tools with no chain of reasoning to AD or AS.
 
+## Frequently asked questions
+
+**Why is raising interest rates less suited to cost-push inflation?**
+A rate rise shifts AD left, which suits demand-pull inflation. With cost-push inflation, it also reduces real output and raises unemployment, so in Cambridge 9708 evaluation the cause of inflation is a key condition.
+
+**How does a cut in interest rates increase aggregate demand?**
+Lower rates reduce the cost of loans and variable-rate mortgages, reduce the reward for saving and make more investment projects worth undertaking. Consumption and investment rise, so AD shifts to the right.
+
+**How does a loan-to-value cap work as a credit regulation?**
+A loan-to-value cap limits the largest mortgage as a share of a house's price, so a lower cap means a larger deposit. Fewer buyers can afford the deposit, so borrowing and spending fall even if interest rates do not change.
+
+**How is supply-side policy different from expansionary monetary policy in AD/AS analysis?**
+Expansionary monetary policy shifts AD right, so output and the price level both rise. Supply-side policy shifts SRAS and LRAS right, so output rises while the price level falls or rises more slowly.
+
+**What are the limitations of supply-side policy?**
+Supply-side policies have long time lags, can carry a large opportunity cost in government spending and have uncertain effects, since workers may not use new skills. Extra capacity also brings no benefit if aggregate demand is too weak to use it.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, version 2, published by Cambridge University Press & Assessment. This guide covers sections 5.3 and 5.4.

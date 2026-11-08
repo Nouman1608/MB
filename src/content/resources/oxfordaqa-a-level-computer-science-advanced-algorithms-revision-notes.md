@@ -188,6 +188,20 @@ Left is always visited before right. The only change between the three is when t
 - Claiming in-order gives ascending output for any binary tree.
 - Mixing up which traversal gives prefix and which gives postfix.
 
+## Frequently asked questions
+
+**Which data structures do BFS and DFS use?**
+Breadth-first search uses a queue, and depth-first search uses a stack or recursion. In loop code, BFS removes from the front of the list and DFS removes from the end.
+
+**Do you need to memorise Dijkstra's algorithm for OxfordAQA 9645?**
+No. You must be able to trace it, but you are not expected to recall its steps or code it unless the question paper gives you the algorithm.
+
+**Which tree traversal gives a prefix or postfix expression?**
+Pre-order traversal of an expression tree gives the prefix expression, and post-order traversal gives the postfix expression.
+
+**Does in-order traversal always give sorted output?**
+No. In-order traversal gives ascending order only for a binary search tree, not for any binary tree.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA: section 3.11 Advanced algorithms.

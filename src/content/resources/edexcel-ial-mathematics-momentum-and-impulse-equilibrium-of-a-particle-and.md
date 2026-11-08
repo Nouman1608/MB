@@ -279,6 +279,23 @@ The greatest mass is 9 kg. For M = 6, the same moment equation with R_C included
 
 Next, try the [practice questions](/resources/edexcel-ial-mathematics-momentum-and-impulse-equilibrium-of-a-particle-and-practice/) and keep the [revision notes](/resources/edexcel-ial-mathematics-momentum-and-impulse-equilibrium-of-a-particle-and-revision-notes/) for the final weeks.
 
+## Frequently asked questions
+
+**What is the principle of conservation of momentum?**
+In a direct collision with no outside impulse along the line of motion, total momentum before equals total momentum after: m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂. If the particles join, they move with one common velocity afterwards.
+
+**When is a particle in equilibrium?**
+A particle is in equilibrium when the resultant of the forces on it is zero. Resolve in two perpendicular directions and set each total to zero.
+
+**Does an upward pull change the normal reaction?**
+Yes. If an applied force has a vertical component, the normal reaction is no longer equal to the weight: an upward pull reduces R and a downward push increases it.
+
+**What are the conditions for a rod to be in equilibrium under parallel forces?**
+The forces in each direction must sum to zero, and the total clockwise moment about any point must equal the total anticlockwise moment about that point.
+
+**Which value of g should you use in Edexcel IAL M1 questions?**
+Use the value of g given in the question. This guide uses g = 9.8 m s⁻² and gives answers to 3 significant figures unless they are exact.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification, Issue 3, April 2019 (Pearson Education Limited), unit M1 topics 4.3, 5.1, 5.2, 5.3 and 6.1.

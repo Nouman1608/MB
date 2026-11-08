@@ -12,11 +12,23 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "core-content-option-a-0470"
-description: "Original practice questions on the 1848 revolutions, German and Italian unification, and the road to war — built onto Paper 1's three-part essays and Paper 2's document-question format."
+  - qualification: "igcse"
+    topic: "core-content-option-a-0470"
+    subtopic: "revolutions-1848-0470"
+  - qualification: "igcse"
+    topic: "core-content-option-a-0470"
+    subtopic: "unification-italy-0470"
+  - qualification: "igcse"
+    topic: "core-content-option-a-0470"
+    subtopic: "unification-germany-0470"
+  - qualification: "igcse"
+    topic: "core-content-option-a-0470"
+    subtopic: "causes-first-world-war-0470"
+description: "Original Cambridge IGCSE History 0470 practice on the 1848 revolutions, Italian and German unification and the road to war, with Paper 1 and Paper 2 answers."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -103,7 +115,7 @@ questions below; each is worth 20 marks, split across three parts.
 
 **(a)** Any three: the **alliance system**, dividing Europe into the Triple Alliance and the Triple Entente; **militarism**, including the arms race and detailed mobilisation plans such as the Schlieffen Plan; **instability in the Balkans**, as the decline of Ottoman power created a vacuum that Austria-Hungary and Russia both sought to fill. **[4]**
 
-**(b)** The alliance system meant a **local quarrel could escalate into a general war**, as treaty obligations pulled each power in even where its own direct interests were not at stake. When Austria-Hungary moved against Serbia in July 1914, Russia's obligation to support Serbia, Germany's "blank cheque" support for Austria, and France's alliance commitment to Russia meant that a dispute confined to the Balkans drew in every major European power within weeks, rather than being resolved or contained as earlier Balkan crises had been. **[6]**
+**(b)** The alliance system meant a **local quarrel could escalate into a general war**, as treaty obligations pulled each power in even where its own direct interests were not at stake. When Austria-Hungary moved against Serbia in July 1914, Russia's commitment, as Serbia's protector, to support Serbia, Germany's "blank cheque" support for Austria, and France's alliance commitment to Russia meant that a dispute confined to the Balkans drew in every major European power within weeks, rather than being resolved or contained as earlier Balkan crises had been. **[6]**
 
 **(c)** **For:** the alliances converted an Austro-Serbian quarrel into a continental war, and the rigidity of mutual obligations removed the flexibility that had kept earlier crises (Morocco in 1905 and 1911, Bosnia in 1908) from escalating into general war. **Against:** the alliances were defensive in intent and had defused those earlier crises without war, so they were not automatically fatal; **militarism and mobilisation timetables** arguably mattered more, since the Schlieffen Plan meant Germany had to attack France in order to fight Russia, turning an eastern crisis into a western war regardless of the alliance structure itself; **nationalism in the Balkans** supplied the actual spark and underlying instability; and some historians emphasise the **specific decisions taken in July 1914** — Austria's determination to punish Serbia and Germany's willingness to risk a general war — over any structural cause. **Judgement:** the alliance system was the mechanism by which a local war became a general one, but not its underlying cause; without the Balkan instability there would have been nothing for the alliances to escalate, and without the mobilisation plans there would have been more time for diplomacy to intervene, so the alliance system is best understood as a necessary but not sufficient condition. **[10]** (Marks for accurate knowledge on both sides and a sustained, evidenced judgement.)
 
@@ -153,6 +165,17 @@ uses three.
 - On the document question, repeating what a source says without weighing its provenance (who wrote it, when, and why).
 - Giving Garibaldi, or war alone, sole credit for unification without weighing the diplomatic contribution alongside it.
 - Listing causes of the First World War without explaining how they interacted.
+
+## Frequently asked questions
+
+**How is IGCSE History 0470 Paper 1 structured?**
+Paper 1 (2 hours, 60 marks, 40%) has Section A on the Core Content (eight questions, answer two) and Section B on the Depth Studies (two on each, answer one). Each question is a three-part structured essay worth 4, 6 and 10 marks.
+
+**How is Paper 2 structured?**
+Paper 2 (1 hour 45 minutes, 40 marks, 30%) sets one five-part document question, with up to seven sources, on a prescribed Core Content topic that changes each series.
+
+**What is the most common weakness in (c) answers?**
+Narrating events in order instead of sustaining a judgement on the claim in the question.
 
 ## Official syllabus
 

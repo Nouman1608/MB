@@ -9,11 +9,11 @@ qualifications: ["igcse"]
 syllabusCodes: ["0470"]
 syllabusSeries: "2024-2026"
 order: 3
-description: "How Cambridge IGCSE History 0470's three components fit together -- Paper 1's core-plus-depth question pattern, Paper 2's source-based demands, the coursework versus Paper 4 choice, and a worked source-evaluation routine."
+description: "Exam preparation for Cambridge IGCSE History 0470: Paper 1 core and depth questions, Paper 2 sources, coursework or Paper 4, and a source-evaluation routine."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-07
 featured: false
 ---
@@ -137,3 +137,17 @@ sitting a series beyond 2026 should check that edition. The source-evaluation ro
 original model written for this resource, not a reproduction of any official past paper or mark
 scheme. Always check the current syllabus for your examination year at
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/649636-2024-2026-syllabus.pdf).*
+
+## Frequently asked questions
+
+**How is IGCSE History 0470 Paper 1 structured?**
+Paper 1 (2 hours, 60 marks, 40%) has Section A on the Core Content (eight questions, answer two) and Section B on the Depth Studies (two on each, answer one). Each question is a three-part structured essay worth 4, 6 and 10 marks.
+
+**How is Paper 2 structured?**
+Paper 2 (1 hour 45 minutes, 40 marks, 30%) sets one five-part document question, with up to seven sources, on a prescribed Core Content topic that changes each series.
+
+**What is the third component?**
+Either Component 3, coursework (one piece of extended writing on a depth study, 40 marks), or Paper 4, Alternative to Coursework (1 hour, one two-part structured essay on a depth study, 40 marks). Both are worth 30%.
+
+**How much does background knowledge help on Paper 2?**
+It supports your reading of the sources, but marks come from interpreting and evaluating the sources provided.

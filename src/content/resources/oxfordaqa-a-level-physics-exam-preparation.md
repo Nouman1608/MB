@@ -9,13 +9,13 @@ qualifications: ["a-level"]
 syllabusCodes: ["9630"]
 syllabusSeries: "For first teaching 2019"
 order: 3
-description: "How OxfordAQA International A-Level Physics 9630's five equally weighted papers work, why Physics in Practice can draw on any part of the specification, and a worked calculation-and-uncertainty routine."
+description: "How the five equal papers of OxfordAQA International A-level Physics (9630) work, why Paper 3 covers the whole course, and a worked uncertainty routine."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-09
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 ---
 
 OxfordAQA International A-Level Physics (9630) is modular, with five papers of identical size, each
@@ -123,6 +123,23 @@ uncertainty, combining uncertainties through a calculation, and appropriate sign
 predictable because they are mechanical once learned and recur across the specification. 4. Writing
 the relevant equation in symbols and rearranging it before substituting numbers, which protects marks
 on every paper regardless of topic.
+
+## Frequently asked questions
+
+**How many papers are there in OxfordAQA International A-level Physics (9630)?**
+There are five papers of identical size, each lasting 2 hours, worth 80 marks and counting for 20% of the full A-level. Two are AS papers and three are A-level papers.
+
+**What are the OxfordAQA International AS Physics papers?**
+AS Paper 1 covers Mechanics, Materials and Atoms, and AS Paper 2 covers Electricity, Waves and Particles. They are followed by A-level Paper 1 (Fields and Their Consequences), A-level Paper 2 (Energy and Energy Resources) and A-level Paper 3 (Physics in Practice).
+
+**Is there a practical exam in OxfordAQA A-level Physics?**
+No. Students complete ten required practicals, and these are assessed through written questions on apparatus, method, uncertainty and evaluation in the main papers.
+
+**How long do I have per mark in OxfordAQA A-level Physics?**
+Two hours for 80 marks gives about 1.5 minutes per mark. That leaves room to plan multi-step and extended answers before writing, especially on Paper 3.
+
+**Why does Paper 3 Physics in Practice need special revision?**
+Paper 3 can draw on any part of the specification, and it carries the same 20% weighting as each of the other papers. Reserve whole-course revision time for it rather than treating it as an afterthought.
 
 *Written against the assessment section of OxfordAQA's own International AS/A-level Physics (9630)
 qualification page (official OxfordAQA page, verified 2026-08-28). The calculation routine above is an

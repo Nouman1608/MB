@@ -259,6 +259,23 @@ Describe first with figures (for example "the rate doubled from 20 to 30 units")
 - Giving a tangent gradient without units or with points too close together.
 - Describing a control variable without saying how it is kept constant.
 
+## Frequently asked questions
+
+**How do you calculate pH from hydrogen ion concentration?**
+pH = −log₁₀[H⁺], with [H⁺] in mol dm⁻³. One unit lower in pH means ten times more hydrogen ions.
+
+**What is the difference between denatured and inactive enzymes?**
+Cold makes an enzyme slow, but it recovers when warmed. Heat denatures an enzyme by changing its tertiary structure, which is permanent.
+
+**What is a plateau on a substrate concentration graph caused by?**
+At high substrate concentration all the active sites are occupied, so enzyme concentration becomes the limiting factor. Calling every plateau "denaturation" is a common error.
+
+**How do you calculate percentage uncertainty?**
+Percentage uncertainty = (absolute uncertainty ÷ measured value) × 100.
+
+**What are examples of intracellular and extracellular enzymes?**
+Catalase and DNA polymerase act inside cells. Amylase and trypsin are extracellular enzymes that are secreted and act outside cells.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401, 7402), for first teaching 2015, published by AQA. Section 3.1.4.2 and Required Practical 1.

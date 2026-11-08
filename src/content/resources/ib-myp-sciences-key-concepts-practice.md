@@ -171,6 +171,20 @@ Study first with the [key concepts study guide](/resources/ib-myp-sciences-key-c
 - Listing pros and cons in a criterion D answer without reaching a judgement.
 - Controlled variables listed without a method of controlling them.
 
+## Frequently asked questions
+
+**What are common mistakes in MYP Sciences key concepts questions?**
+Frequent slips include naming a related concept such as energy or models when a key concept is asked for, classifying a change as reversible or irreversible with no reason, and calling a system closed when matter clearly enters or leaves it.
+
+**How do you check whether two variables are directly proportional?**
+Check the numbers: if one variable doubles, the other must double too. Claiming proportionality without checking is a frequent error.
+
+**How do you answer a form and function question?**
+Give both the structural feature (form) and what it does (function), and link them. A form with no function, or a function with no form, earns only part of the credit.
+
+**What does a Criterion D answer on key concepts need?**
+List the advantages and disadvantages and then reach a judgement. A list of pros and cons with no conclusion limits the credit.
+
 ## Next steps
 
 - [Key concepts revision notes](/resources/ib-myp-sciences-key-concepts-revision-notes/)

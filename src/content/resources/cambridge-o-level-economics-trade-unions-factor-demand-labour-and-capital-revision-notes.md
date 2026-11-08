@@ -239,6 +239,20 @@ Syllabus note: no diagrams or perfect and imperfect competition theory are requi
 - Calling monopoly bad without a counter-argument, or good without a condition.
 - Drawing diagrams for 3.8 when words are enough.
 
+## Frequently asked questions
+
+**What is collective bargaining?**
+Collective bargaining is when a trade union negotiates with an employer for all its members at once over pay, conditions and other terms. It is the main activity of a trade union.
+
+**What makes a trade union strong?**
+A union is stronger when membership is high, unemployment is low, its members' skills are scarce, the firm is profitable, demand for the product is strong, the union has funds and unity, and members are hard to replace with machines.
+
+**Is capital-intensive production always better?**
+No. It gives high output and lower unit cost at scale, but needs high start-up cost. Whether it is cheaper depends on relative factor prices and the size of the market.
+
+**Do you need diagrams for market structure in Cambridge O Level Economics 2281?**
+No. For section 3.8 the syllabus leaves out the formal theory of perfect and imperfect competition and any diagrams, so explain in words.
+
 ## Official syllabus
 
 The source is the Cambridge International syllabus for O Level Economics (2281), examination year 2026, version 2. The relevant parts are 3.4, 3.6 and 3.8.

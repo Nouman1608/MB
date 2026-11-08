@@ -37,11 +37,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-5-19"
 description: "Learn IB DP Maths AA HL further calculus from scratch: limits, l'Hôpital, further integration, differential equations and Maclaurin series."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 This study guide teaches the HL further calculus unit of IB Diploma Programme Mathematics: Analysis and Approaches from scratch. It is aligned to the IB *Mathematics: analysis and approaches guide*, first assessment 2021, and covers syllabus sections 5.12–5.19. All of this content is HL only (AHL). It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 HL sessions.
@@ -301,6 +301,23 @@ Find eˣ sin x up to x³.
 - Using the wrong sign in P(x) when forming the integrating factor.
 
 Test yourself with the [further calculus practice questions](/resources/ib-dp-mathematics-aa-hl-further-calculus-practice/), and see the [AA exam preparation guide](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/) and [AA syllabus guide](/resources/ib-dp-mathematics-analysis-and-approaches-syllabus-guide/) for the course structure.
+
+## Frequently asked questions
+
+**Is l'Hôpital's rule the same as the quotient rule?**
+No. In l'Hôpital's rule you differentiate the numerator and the denominator separately, then take the limit of f′(x)/g′(x). Using the quotient rule instead is a common error.
+
+**Do you have to test for continuity and differentiability in IB Maths AA HL?**
+No. In IB DP Mathematics: Analysis and Approaches, section 5.12 treats continuity and differentiability informally, and the guide says you will not be asked to test for either.
+
+**Will the substitution be given in IB integration questions?**
+The guide says a substitution will be given unless the integral is of the form ∫ k g′(x) f(g(x)) dx. Remember to change the limits as well as the variable.
+
+**How do you solve a homogeneous differential equation?**
+For dy/dx = f(y/x), substitute y = vx so that dy/dx = v + x dv/dx, separate the variables in v and x, integrate, then replace v with y/x.
+
+**What is the Maclaurin series formula?**
+f(x) = f(0) + x f′(0) + (x²/2!) f″(0) + (x³/3!) f‴(0) + …. New series can be built from known ones by substitution, multiplication, or term-by-term differentiation or integration.
 
 ## Official syllabus
 

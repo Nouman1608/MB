@@ -263,6 +263,23 @@ Air-sensitive products need oxygen excluded during reaction, filtering and washi
 - Leaving out desorption when describing a catalytic converter.
 - Calling Mn²⁺ a reactant, or describing the autocatalysis curve as a steady fall.
 
+## Frequently asked questions
+
+**What are the colours of vanadium's oxidation states?**
+VO₂⁺ (vanadium +5) is yellow, VO²⁺ (+4) is blue, V³⁺ (+3) is green and V²⁺ (+2) is violet. These are required by outcomes 17.18 and 17.19 of the Edexcel IAL Chemistry specification (YCH11).
+
+**Which metal hydroxides dissolve in excess sodium hydroxide?**
+Of the eight aqua ions in outcome 17.22, only the chromium(III) and zinc hydroxides dissolve in excess sodium hydroxide, because they are amphoteric. Excess ammonia dissolves the chromium, cobalt, nickel, copper and zinc hydroxides by ligand exchange.
+
+**Is the dichromate-chromate equilibrium a redox reaction?**
+No. In Cr₂O₇²⁻ + H₂O ⇌ 2CrO₄²⁻ + 2H⁺ chromium is +6 on both sides, so only H⁺ is transferred. Alkali turns the solution yellow and acid turns it orange.
+
+**What is the difference between a heterogeneous and a homogeneous catalyst?**
+A heterogeneous catalyst is in a different phase from the reactants and works at its surface, as V₂O₅ does in the Contact process. A homogeneous catalyst is in the same phase and works via an intermediate species, as Fe²⁺ does with peroxodisulfate and iodide.
+
+**Why are chelate complexes more stable?**
+When a bidentate or hexadentate ligand replaces monodentate ligands, the number of particles in solution rises, so ΔSsystem is large and positive. ΔH is small, so ΔStotal is positive and the equilibrium constant is large.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited -- Unit 5, Topic 17: Transition Metals and their Chemistry, outcomes 17.18 to 17.33 (including Core Practical 14).

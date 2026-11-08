@@ -138,6 +138,23 @@ These questions cover sections 5.1 Business finance and 5.2 Sources of finance o
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which sections of Cambridge AS and A Level Business 9609 do these questions cover?**
+Section 5.1 Business finance and section 5.2 Sources of finance. The questions are original and written for practice.
+
+**What is the difference between liquidation and administration?**
+Liquidation closes the business and sells its assets to pay creditors. Administration is when an outside administrator takes charge to try to rescue the business or sell it as a going concern.
+
+**What is the difference between leasing and hire purchase?**
+With leasing, the business rents an asset for regular payments and never owns it. With hire purchase, the business pays in instalments and owns the asset once the final payment is made.
+
+**How do I answer a recommend question on sources of finance?**
+Compare the options using the figures given, link each to its cost, control and use, and reject at least one alternative before making a clear recommendation.
+
+**Why can a profitable business run short of cash?**
+Profit is recorded when sales are made, but customers may pay later while costs must be paid now, so the bank balance can be negative even when the business is profitable.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education). Sections 5.1 Business finance and 5.2 Sources of finance.

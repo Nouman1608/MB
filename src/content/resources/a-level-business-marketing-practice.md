@@ -13,13 +13,13 @@ order: 5
 syllabusTopics:
   - qualification: "a-level"
     topic: "marketing-as-cambridge-alevel-business"
-description: "Original exam-style practice questions with full worked answers on market orientation, segmentation, market research and the marketing mix, for Cambridge AS & A Level Business (9609) Topic 3 Marketing."
+description: "Practice questions with worked answers on market orientation, segmentation, research and the marketing mix for Cambridge AS & A Level Business 9609 Topic 3."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -134,3 +134,17 @@ competitors yet), not stated as a generic definition of price skimming. The same
 Matrix and product life cycle questions — connecting the two frameworks, rather than treating them as
 separate, unrelated tools, is exactly the kind of applied reasoning this topic rewards at AS and A
 Level.
+
+## Frequently asked questions
+
+**How do you answer a pricing "advise" question in Cambridge 9609 Business?**
+Recommend a method and justify it by referring to the specific market condition in the scenario, rather than giving a generic definition of the pricing method.
+
+**How do the Boston Matrix and the product life cycle connect?**
+Both appear under product portfolio analysis. A "dog" has a low market share in a low-growth market and may be, but need not be, in the decline stage of its life cycle, so the two tools are linked without measuring the same thing.
+
+**Why is sampling used in market research?**
+Surveying a whole population is usually too costly and slow, so a business studies a sample. The syllabus expects you to know why sampling is needed and what its limitations are.
+
+**What are the main pricing methods in Cambridge 9609 Topic 3?**
+Competitive, penetration, skimming, price discrimination, dynamic, cost-based and psychological pricing.

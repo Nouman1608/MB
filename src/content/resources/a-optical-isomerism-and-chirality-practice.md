@@ -14,11 +14,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-an-introduction-to-a-level-organic-chemistry"
     subtopic: "a-isomerism"
-description: "Original exam-style practice questions with full worked answers on chiral centres, enantiomers, racemic mixtures and the relevance of chirality to drug synthesis for Cambridge A Level Chemistry 9701."
+description: "Practice questions with worked answers on chiral centres, enantiomers, racemic mixtures and chiral drugs such as ibuprofen, for Cambridge 9701 Chemistry."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-09-01
 featured: false
 ---
@@ -31,7 +31,7 @@ featured: false
 Work through these **before** looking at the answers. Write full answers — the
 marks are for the reasoning, not the conclusion.
 
-Related: [Optical Isomerism and Chirality revision notes](/resources/a-optical-isomerism-and-chirality/)
+Related: [Optical Isomerism and Chirality study guide](/resources/a-optical-isomerism-and-chirality/)
 
 ---
 
@@ -121,3 +121,17 @@ Related: [Optical Isomerism and Chirality revision notes](/resources/a-optical-i
 - Claiming enantiomers differ in melting point or boiling point — they don't; only optical and biological activity differ.
 - Explaining ibuprofen's different biological activity without mentioning that receptors are themselves chiral.
 - Forgetting *why* HCN/HBr-type addition to a planar intermediate gives a racemic product by default — equal probability of attack from either face.
+
+## Frequently asked questions
+
+**How do you identify a chiral centre in an exam question?**
+Check that the carbon is bonded to four different groups. A carbon with an –OH group is not automatically chiral; propan-2-ol, for example, has two identical CH₃ groups on its central carbon.
+
+**Why can two enantiomers of a drug have different effects?**
+Biological receptors are themselves chiral and fit one specific three-dimensional shape. Only one enantiomer may bind effectively, while the other binds poorly or not at all.
+
+**Why are enantiomers hard to separate?**
+Enantiomers have identical physical properties such as boiling point and solubility. Distillation and recrystallisation rely on differences in these properties, so they cannot separate a racemic mixture.
+
+**Where are marks usually lost on optical isomerism questions?**
+Common errors include calling a racemic mixture "not chiral" instead of saying its rotations cancel, claiming enantiomers have different melting or boiling points, and not explaining that attack on a planar intermediate from either face is equally likely.

@@ -241,6 +241,20 @@ In the short run, some measures raise costs or cut demand: a sharp rise in the m
 - Ignoring spare capacity and weak demand.
 - A conclusion that repeats points without choosing between them.
 
+## Frequently asked questions
+
+**What is supply-side policy?**
+Supply-side policy aims to raise an economy's productive capacity by improving the quality or quantity of factors of production, or by making markets work better.
+
+**How many supply-side measures does the OCR specification list?**
+The OCR A Level Economics (H460) notes cover twelve measures, including education and training, tax and benefit reform, the National Minimum Wage, labour market flexibility, immigration, privatisation, deregulation, trade union reform, infrastructure, R&D and subsidies.
+
+**Why do supply-side policies take a long time to work?**
+Many measures, such as education, training, infrastructure and house building, raise capacity only after several years. Time lags are a key evaluation point, along with cost, elasticity and whether demand is strong enough to use the new capacity.
+
+**Do supply-side policies affect inequality?**
+They can. Measures create winners and losers, and some carry costs for workers, such as the extra insecurity that flexible contracts can bring, so evaluation should ask who gains, who loses and what happens to inequality.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)*, specification Version 3.0 (June 2026), for first assessment in 2021: Macroeconomics, The application of policy instruments, topic Supply side policy.

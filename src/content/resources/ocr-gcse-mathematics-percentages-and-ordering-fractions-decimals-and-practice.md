@@ -153,6 +153,20 @@ How to use the set: attempt each question on paper before you read the answer. M
 - Try [all free 10-minute diagnostics](/diagnostics/) to find what to revise next.
 - [Book a free trial class](/trial/) if you want help with the topics that stayed difficult.
 
+## Frequently asked questions
+
+**Which OCR GCSE Maths sections do these percentages and ordering questions cover?**
+They cover sections 2.03 and 2.04 of OCR GCSE (9-1) Mathematics J560: percentages, multipliers, percentage change, original-value problems, simple interest, ordering and inequality symbols. All of it is Foundation and Higher content.
+
+**What do you divide by when finding a percentage change?**
+Divide the change by the original, starting value and multiply by 100. Using the final figure as the base is one of the most common ways to lose marks, and you should also say whether the change is an increase or a decrease.
+
+**How should you write money answers in percentage questions?**
+Give money to two decimal places, such as £48.60 rather than £48.6. Leaving out the final zero can cost a mark.
+
+**When ordering fractions, decimals and percentages, which form should the answer be in?**
+Convert to decimals to compare, but write the final answer in the original forms given in the question. Giving only the converted decimals does not answer what was asked.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics (J560), Version 2.1 (August 2026), first assessment 2017, published by OCR. Sections 2.03a-2.03c and 2.04a-2.04b.

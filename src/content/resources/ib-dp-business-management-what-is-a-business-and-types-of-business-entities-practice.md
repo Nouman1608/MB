@@ -150,6 +150,20 @@ Read the [study guide](/resources/ib-dp-business-management-what-is-a-business-a
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Does limited liability mean owners can lose nothing?**
+No. Limited liability means shareholders cannot lose more than they invested, but they can still lose the money they put into the business. Treating it as freedom from all loss is a common error.
+
+**What are common mistakes on business sectors and entity questions?**
+Students often give a sector label without tying it to an activity in the stem, mix up the private and public sectors with the four economic sectors, list entity features with no consequence for the owner, and calculate percentages without showing the division. Calling every social enterprise non-profit also loses marks.
+
+**Which sections of the IB Business Management guide cover business types?**
+Section 1.1 (What is a business?) and section 1.2 (Types of business entities) are the first two sections of Unit 1 in the IB Business management guide, first assessment 2024.
+
+**How should you answer a recommend question on choosing a business entity?**
+Compare at least two entity types against the case's size, finance needs and risk, and give a reasoned judgement. A recommendation with no comparison, or an "evaluate" answer with no conclusion, earns little credit.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. Sections 1.1 and 1.2 of Unit 1.

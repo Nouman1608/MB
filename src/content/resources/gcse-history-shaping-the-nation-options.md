@@ -11,11 +11,11 @@ order: 2
 syllabusTopics:
   - qualification: "gcse"
     topic: "shaping-the-nation-8145"
-description: "The named thematic study and British depth study options within Paper 2 (Shaping the Nation) of AQA GCSE History (8145), and how to approach each once your school's choices are confirmed."
+description: "The thematic study and British depth study options in AQA GCSE History 8145 Paper 2, Shaping the nation, and how to approach each once your school has chosen."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-05
 featured: false
 ---
@@ -137,6 +137,17 @@ political, social and religious content covered in the depth study's first three
   for the shared site-study skill, and connect it explicitly back to your specific depth study's content.
 - Do not confuse Paper 2's options with [Paper 1's period study and wider world depth study options](/resources/gcse-history-understanding-the-modern-world-options/)
   -- the two papers draw on entirely different named content.
+
+## Frequently asked questions
+
+**What are the thematic study options?**
+Britain: Health and the people, c1000 to the present; Britain: Power and the people, c1170 to the present; and Britain: Migration, empires and the people, c790 to the present.
+
+**How do thematic studies differ from depth studies?**
+Thematic studies trace change over hundreds of years through recurring factors; depth studies examine a short period in detail.
+
+**How are the two AQA GCSE History 8145 papers structured?**
+Each paper lasts 2 hours, is worth 84 marks (including 4 for spelling, punctuation and grammar) and 50% of the GCSE. Paper 1 is a period study and a wider world depth study; Paper 2 is a thematic study and a British depth study with the historic environment.
 
 ## Official syllabus
 

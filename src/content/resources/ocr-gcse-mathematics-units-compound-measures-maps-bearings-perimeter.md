@@ -322,6 +322,20 @@ Perimeter = 28 + 2π = 34.3 cm (3 s.f.)
 - Giving only the arc as the perimeter of a sector, or counting the inside diameter of a semicircle.
 - Rounding in the middle of a multi-step answer, or leaving out units.
 
+## Frequently asked questions
+
+**Why are area and volume conversion factors squared and cubed?**
+A square 1 m by 1 m is also 100 cm by 100 cm, so its area is 100 × 100 = 10 000 cm². Volume uses three lengths, so the factor is cubed: 100³ = 1 000 000.
+
+**How must bearings be written?**
+A bearing is measured clockwise from north and written with three figures, such as 065° rather than 65°. Start from the point the bearing is "from" and draw a north line there.
+
+**What is the formula for arc length?**
+Arc length = (angle/360) × 2πr. For a sector of radius 9 cm and angle 80°, the arc length is 2/9 × 18π = 4π cm.
+
+**Does cutting a notch from the corner of a rectangle change its perimeter?**
+No. A rectangular notch cut from a corner removes and adds the same total length, so the perimeter equals the outer rectangle's. A notch cut from the middle of an edge adds two extra sides, so the perimeter increases.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), sections 10.01 and 10.02, published by OCR.

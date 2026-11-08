@@ -155,6 +155,20 @@ These questions are for OxfordAQA International GCSE Mathematics (9260), specifi
 - Try all free [10-minute diagnostics](/diagnostics/).
 - Talk it through with a tutor: [book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which height do you use for the area of a parallelogram or trapezium?**
+Use the perpendicular height, never the sloping side. Using the slanted side as the height is a common lost mark.
+
+**Which height of a cone goes in which formula?**
+The slant height l goes in the curved surface area πrl, and the perpendicular height h goes in the volume (1/3)πr²h. Mixing them up is a frequent error.
+
+**How do you find the perimeter of a composite shape?**
+Add only the outside edges, including any curved arcs, and leave out joins inside the shape. Counting an internal join or forgetting a curved edge loses marks.
+
+**Should you round part-way through an area or volume question in OxfordAQA 9260?**
+No. In OxfordAQA International GCSE Mathematics (9260), round only at the end of a multi-step question, and give the units: cm for length, cm² for area and cm³ for volume.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards), published by OxfordAQA. Section 3.3.2 Mensuration and calculation.

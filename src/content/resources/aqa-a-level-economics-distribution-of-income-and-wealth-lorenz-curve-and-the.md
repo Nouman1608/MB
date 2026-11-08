@@ -240,6 +240,23 @@ A person who weights equality heavily will favour a flatter distribution and str
 - Claiming a fall in the Gini means the poor are better off in absolute terms.
 - Calling any inequality a market failure instead of excessive inequality.
 
+## Frequently asked questions
+
+**What is the difference between income and wealth?**
+Income is a flow received over a period, such as pay, profit, rent, interest, dividends and benefits. Wealth is a stock of net assets at one moment, such as property, savings, shares and pension rights, minus debts.
+
+**What is the difference between equality and equity?**
+Equality means everyone gets the same share. Equity means a distribution judged fair and just, which involves a value judgement and need not be equal.
+
+**What does a higher Gini coefficient mean?**
+A higher Gini coefficient means more inequality. It runs from 0, perfect equality, to 1, perfect inequality.
+
+**What are the limitations of the Gini coefficient?**
+One number hides the shape of the distribution, it says nothing about absolute living standards, results depend on the unit and income measure used, and data on the very rich are often weak.
+
+**How can inequality cause market failure?**
+Markets respond to ability to pay, so low-income households may not buy goods with high benefits, such as preventive healthcare, leaving consumption below the socially efficient level.
+
 ## Official syllabus
 
 AQA, *AS and A-level Economics* specification (7135 and 7136), version 1.3, 29 June 2022, first teaching from September 2015: section 3.1.7.1 on the AQA website (printed as 4.1.7.1 in the combined PDF).

@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "how-the-economy-works-aqa-gcse-economics"
     subtopic: "interest-rates-saving-borrowing-spending-investment-aqa-gcse-economics"
-description: "Condensed recall notes on interest rate effects, UK government revenue/spending, and direct/indirect and progressive/regressive taxation for AQA GCSE Economics (8136), 3.2.1.1 and 3.2.1.2."
+description: "AQA GCSE Economics (8136) revision notes for 3.2.1.1 and 3.2.1.2: interest rate effects, UK government income and spending, and types of taxation."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -126,6 +126,20 @@ Government revenue and spending decisions here connect directly to the broader *
 - Calculate the interest earned on £2,400 saved at 4% for one year.
 - Name two factors that influence why different loans offer different interest rates.
 - Explain why income tax counts as both direct and progressive.
+
+## Frequently asked questions
+
+**How does a rise in interest rates affect consumers and producers?**
+Consumers are discouraged from borrowing and spending and encouraged to save. Producers face dearer borrowing, so investment is discouraged.
+
+**Why do different loans have different interest rates?**
+Factors include the risk of the borrower, with riskier borrowers paying more, the term length of the loan or savings, and the wider rate level set by the central bank.
+
+**Why is income tax both direct and progressive?**
+It is direct because it is paid by the person on whom it is levied, and progressive because it takes a larger percentage of income as income rises.
+
+**Are indirect taxes always regressive?**
+Not automatically, but they are often regressive, because a fixed amount added to a price takes a larger share of a low income than a high one.
 
 ## Related resources
 

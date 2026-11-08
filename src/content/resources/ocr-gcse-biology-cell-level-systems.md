@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "cell-level-systems-ocr-gcse-biology"
-description: "Cell structures and microscopy, DNA and protein synthesis, enzymes, respiration and the synthesis and breakdown of biological molecules, and photosynthesis, including experiments to investigate it -- a study guide to Topic B1 Cell level systems for OCR GCSE Gateway Science Suite Biology A (J247)."
+description: "Study guide to OCR GCSE Gateway Biology A (J247) Topic B1 Cell level systems: cell structures, microscopy, DNA, enzymes, respiration and photosynthesis."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide covers **Topic B1 Cell level systems**, the first of six
@@ -307,3 +307,20 @@ Saying bacteria have no DNA rather than no nucleus. Confusing magnification with
 - Give the word and balanced symbol equation for photosynthesis, and explain why it is endothermic.
 - Describe the two-stage process of photosynthesis and identify light intensity, carbon dioxide concentration and temperature as limiting factors.
 - Describe an experiment to measure the rate of photosynthesis and an experiment to show that light is needed for starch production.
+
+## Frequently asked questions
+
+**Is OCR GCSE Biology A tiered?**
+Yes. OCR GCSE (9-1) Gateway Science Biology A (J247) has a Foundation tier, papers 1 and 2 for grades 5 to 1, and a Higher tier, papers 3 and 4 for grades 9 to 4.
+
+**What are the four sections of Topic B1 Cell level systems?**
+Topic B1 is divided into B1.1 Cell structures, B1.2 What happens in cells (and what do cells need)?, B1.3 Respiration and B1.4 Photosynthesis.
+
+**How much can a light microscope magnify?**
+A light microscope magnifies up to roughly 2000 times and resolves detail down to about 200 nm. Electron microscopes reach far higher magnification and resolution, showing internal structure.
+
+**Why can a mutation affect a protein?**
+The sequence of bases in DNA determines the sequence of amino acids, which sets the folded shape of the protein. A change in the base sequence can change that shape and destroy the protein's function.
+
+**Why revise respiration and photosynthesis together?**
+They are natural counterparts: respiration releases energy from glucose, while photosynthesis captures energy to build it. Revising their equations side by side helps you avoid confusing the two processes.

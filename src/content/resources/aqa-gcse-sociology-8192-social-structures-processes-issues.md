@@ -17,9 +17,9 @@ description: "Study guide to AQA GCSE Sociology 8192 section 3.2: comparing theo
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers section 3.2, Social structures, social processes and social issues, of the AQA GCSE Sociology (8192) specification, Version 1.2 (June 2026), for GCSE exams 2019 onwards. Section 3.2 sets out how you handle theories, extracts, methods and debates in every topic. The specification does not attach it to one paper: Paper 1 (The sociology of families and education) and Paper 2 (The sociology of crime and deviance and social stratification) both assess "relevant areas of social theory and methodology", and both expect you to draw on the entire course.
@@ -172,6 +172,23 @@ A connection earns credit when it strengthens an argument: "Becker's master stat
 - Quick recall: [families and education revision notes](/resources/aqa-gcse-sociology-families-education-revision-notes/) and [crime and stratification revision notes](/resources/gcse-sociology-crime-stratification-revision-notes/).
 - Exam technique: [AQA GCSE Sociology exam preparation](/resources/aqa-gcse-sociology-exam-preparation/).
 - Related 8192 units: [the sociological approach](/resources/aqa-gcse-sociology-8192-the-sociological-approach/) and [education](/resources/aqa-gcse-sociology-8192-education/).
+
+## Frequently asked questions
+
+**What is the difference between social structures, processes and issues?**
+Social structures are the lasting, organised patterns of society, such as families and the education system. Social processes are how those structures work on people, such as socialisation and labelling. Social issues are patterns people debate, such as divorce or crime.
+
+**Why are official crime statistics incomplete?**
+Recorded crime misses the dark figure of crime that is unreported or unrecorded, which is why victim surveys such as the Crime Survey for England and Wales and self-report studies are used alongside them.
+
+**Why do divorce statistics not show all relationship breakdown?**
+They record legal divorces but miss separations without divorce and empty shell marriages.
+
+**What is a common evaluation point against functionalism?**
+Functionalism explains how institutions hold society together, but critics say it can idealise middle-class life and assume a value consensus.
+
+**Why does the poverty figure depend on the definition?**
+Different measures give different totals: Townsend estimated that just over 6% of the population was poor in 1968 to 1969 on the state standard and a little over 9% on relative income, and more than 22% on his own relative deprivation measure.
 
 ## Official syllabus
 

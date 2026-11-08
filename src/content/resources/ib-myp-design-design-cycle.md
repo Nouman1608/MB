@@ -12,7 +12,7 @@ order: 7
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-design-assessment-criteria"
-description: "Inquiring and analysing, developing ideas, creating the solution, evaluating -- IB Middle Years Programme Design's repeated methodology, and how its four stages map directly onto the four assessment criteria."
+description: "The IB MYP Design cycle: inquiring and analysing, developing ideas, creating the solution and evaluating, and how each stage maps onto Criteria A to D."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -128,6 +128,20 @@ new problem, and the criteria are reassessed every time. Revising the design cyc
 one-time task completed early in the course -- it is a working habit that should be reinforced and
 checked against on every project, since weak documentation habits established early tend to persist
 into later, more complex projects unless they are actively corrected.
+
+## Frequently asked questions
+
+**What is the design cycle in MYP Design?**
+The design cycle is the repeated method every MYP Design project is built around: inquire into and analyse a problem, develop ideas, create the solution, then test and evaluate it. Each of its four stages is assessed by one of the four criteria.
+
+**Does a polished final product guarantee a high MYP Design mark?**
+No. Because the ePortfolio is assessed as a complete design folder, a polished product with thin documentation of inquiry and specification typically scores lower than a rougher prototype backed by thorough process evidence.
+
+**Should you include weaknesses in your MYP Design evaluation?**
+Yes. Stage D requires objective testing and an honest account of limitations, so identifying real weaknesses and how the solution could be improved is rewarded rather than penalised.
+
+**Does MYP Design count towards the MYP certificate?**
+Yes. The MYP certificate requires a satisfactory level of achievement in at least one course from physical and health education, arts or design, so design can meet that requirement.
 
 ## Official syllabus
 

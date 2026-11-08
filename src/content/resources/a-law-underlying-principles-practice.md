@@ -1,5 +1,5 @@
 ---
-title: "A Level Law: Underlying Principles and Law Making — Practice Questions"
+title: "Edexcel International A Level Law: Underlying Principles and Law Making — Practice Questions"
 resourceType: "practice-questions"
 subject: "law"
 level: ["a-levels"]
@@ -12,13 +12,16 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-underlying-principles-and-english-legal-system-yla1"
+  - qualification: "a-level"
+    topic: "paper-1-underlying-principles-and-english-legal-system-yla1"
+    subtopic: "the-sources-of-english-law-its-enforcement-and-administration-yla1"
 description: "Original exam-style practice questions with full worked answers on parliamentary law making, delegated legislation, statutory interpretation and precedent."
 author: "marlbridge-academic-team"
-reviewer: "aizaz-raoof-ali"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -75,3 +78,17 @@ Limitations in practice: **membership of international treaties and the European
 - Confusing overruling with reversing.
 - Giving a case name without explaining what it decided.
 - Saying obiter dicta is binding.
+
+## Frequently asked questions
+
+**What does Underlying Principles and Law Making cover in Edexcel A Level Law?**
+It covers parliamentary law making, parliamentary supremacy, delegated legislation, statutory interpretation and judicial precedent.
+
+**What are common mistakes on the legislative process?**
+Leaving out a stage, especially the committee stage or Royal Assent, is a frequent slip when describing how a Bill passes through Parliament.
+
+**Is it enough to name a case in a statutory interpretation answer?**
+No. Giving a case name without explaining what it decided earns little; say how the court applied the rule and what the outcome shows.
+
+**What precedent mistakes cost marks?**
+Common errors are saying obiter dicta is binding and confusing overruling with reversing. Only the ratio decidendi binds, and reversing applies to the same case on appeal.

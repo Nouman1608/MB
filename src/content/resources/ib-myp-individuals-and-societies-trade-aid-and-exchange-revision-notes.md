@@ -186,6 +186,20 @@ The **WTO** (from 1995, taking over from the 1947 GATT) sets trade rules for mem
 - One-sided answers on aid with no counter-argument and no final judgement.
 - Source questions that ignore the origin and purpose of the source.
 
+## Frequently asked questions
+
+**What is the difference between a trade surplus and a trade deficit?**
+The balance of trade is the value of exports minus the value of imports. A positive balance is a trade surplus (exports greater than imports) and a negative balance is a trade deficit (imports greater than exports).
+
+**What is the difference between fair trade and free trade?**
+Free trade removes government barriers such as tariffs and quotas. Fair trade adds rules: a minimum price for producers, a Fairtrade Premium spent on projects the producer group chooses, and standards on working conditions, child labour and the environment.
+
+**What is the UN aid target of 0.7% of GNI?**
+In 1970 the UN General Assembly set a target that donor countries should give 0.7% of gross national income as aid. To find a donor's aid as a percentage of GNI, divide aid by GNI and multiply by 100.
+
+**How many marks is each task in the MYP Individuals and Societies on-screen examination?**
+The on-screen examination has three tasks: Investigating (26 marks, criteria A and B), Communicating (18 marks, criteria A and C) and Thinking critically (36 marks, criteria A, C and D). Each criterion has eight achievement levels in four bands.
+
 ## Official syllabus
 
 These notes are aligned to the International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Individuals and societies*, from 2014. The brief lists "trade, aid and exchange" among the topics explored in the individuals and societies on-screen examinations. The full subject guide is available to schools through the IB.

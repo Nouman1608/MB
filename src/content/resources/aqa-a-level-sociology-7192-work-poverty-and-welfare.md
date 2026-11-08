@@ -20,9 +20,9 @@ description: "Study guide to AQA A-level Sociology 7192 Work, Poverty and Welfar
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers Work, Poverty and Welfare for AQA A-level Sociology (7192), using the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). The topic is section 4.2.4 of the specification (the specification-at-a-glance list also shows it as 3.2.4). It is one of the four Option 1 topics on Paper 2: Topics in Sociology, which the specification sets as a 2 hour written exam, 80 marks, 33.3% of the A-level.
@@ -162,6 +162,23 @@ AO1 is knowledge and understanding, AO2 is application, and AO3 is analysis and 
 - Assuming Braverman's deskilling thesis is the only view of the labour process. Bring in Blauner, Gallie and post-Fordism.
 
 Next, try the [practice questions](/resources/aqa-a-level-sociology-7192-work-poverty-and-welfare-practice/). See also the [A-level Sociology course structure](/resources/a-level-sociology-course-structure/) and [Methods in Context](/resources/a-level-sociology-methods-in-context/) for evaluating research.
+
+## Frequently asked questions
+
+**What is the UK official measure of relative low income?**
+A household is in relative low income if its income is below 60% of the median household income, adjusted for household size.
+
+**What were Beveridge's five giants?**
+The 1942 Beveridge Report named five "giants", Want, Disease, Ignorance, Squalor and Idleness, and shaped the post-war welfare state.
+
+**What is the culture of poverty?**
+Oscar Lewis, studying poor families in Mexico and Puerto Rico, described a culture of poverty marked by feelings of marginality, helplessness and dependency. Rodman (1963) argued instead that the poor share mainstream values but stretch them to fit their situation.
+
+**What is deskilling?**
+Deskilling means reducing the knowledge and judgement a job needs. Braverman (1974) argued managers use Taylorism and machinery to deskill work, while Gallie's survey analysis (1991) found little evidence of widespread deskilling.
+
+**What is welfare pluralism?**
+Welfare pluralism, or the mixed economy of welfare, means welfare provided by the state, private, voluntary and informal sectors together.
 
 ## Official syllabus
 

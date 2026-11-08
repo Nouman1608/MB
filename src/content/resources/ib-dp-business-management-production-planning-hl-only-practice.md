@@ -161,6 +161,20 @@ Evaluate whether Cadenza Foods should use JIT or JIC for its ingredients. **[8]*
 - Try all free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Is production planning HL only in IB Business Management?**
+Yes. Section 5.6, Production planning, is labelled HL only in Unit 5 of the IB Business management guide, first assessment 2024.
+
+**What are common mistakes on production planning calculations?**
+Frequent errors include calculating the reorder level without adding buffer stock, using actual output rather than capacity as the denominator for capacity utilization, mixing units in productivity measures, and giving a final number with no working or units. Comparing cost to buy and cost to make at only one volume, ignoring the crossover, also loses marks.
+
+**How should you approach an evaluate question on JIT or JIC?**
+Weigh the cost of a stoppage against the cost of holding stock, using facts from the case such as how steady demand is and how reliable suppliers are. Give both sides and reach a judgement rather than claiming one method always wins.
+
+**What should you include in a make-or-buy recommendation?**
+Compare cost to buy and cost to make at the forecast volume and note where the answer would flip. Add non-numerical factors such as quality, control, supplier reliability and capacity before giving a judgement.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. This page covers section 5.6, Production planning (HL only).

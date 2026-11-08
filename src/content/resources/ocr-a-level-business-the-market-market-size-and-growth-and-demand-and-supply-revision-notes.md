@@ -250,6 +250,20 @@ A good paragraph links a cause to a consequence for the named business, then add
 - Listing market structure features without linking them to decision making power.
 - Evaluation that ends with "it depends" and no stated judgement tied to the business.
 
+## Frequently asked questions
+
+**What is the formula for market share?**
+Market share is a business's sales divided by total market sales, multiplied by 100. Check whether the data are by value or by volume and use the same measure throughout.
+
+**What is the difference between a movement along a demand curve and a shift?**
+A change in the product's own price causes a movement along the curve. A change in any other determinant, such as income, the price of substitutes or tastes, shifts the whole curve.
+
+**What happens to price and quantity when demand shifts right?**
+When demand shifts right with supply unchanged, both equilibrium price and quantity rise. When demand shifts left, both fall.
+
+**Is a dominant firm the same as a large firm?**
+No. Market power comes from having few substitutes and high barriers to entry, not from size alone, so a large firm in a competitive market may have little power over price.
+
 ## Official syllabus
 
 OCR, *Advanced GCE in Business (H431) Specification*, Version 2.1 (January 2026), External influences: the market, market size and growth, and demand and supply.

@@ -226,6 +226,20 @@ Differentiate each of these with respect to x, unless told otherwise.
 - Using the product rule when only a constant multiplies the function, which wastes time and invites slips.
 - Giving a rounded decimal when the question implies an exact answer such as 3√3/4 or e².
 
+## Frequently asked questions
+
+**What is the derivative of tan x?**
+The derivative of tan x is sec²x, which is 1/cos²x, with x in radians. For tan(kx), the derivative is k sec²(kx).
+
+**What is the derivative of ln(kx)?**
+The derivative of ln(kx) is 1/x, because ln(kx) = ln k + ln x and ln k is a constant. For ln(ax + b), the chain rule gives a/(ax + b).
+
+**What is the difference between differentiating ln(x²) and (ln x)²?**
+ln(x²) = 2 ln x, so its derivative is 2/x. (ln x)² needs the chain rule, giving 2 ln x / x.
+
+**How do you check a derivative answer quickly?**
+Substitute a simple value such as x = 0 or x = 1 and check whether the sign of the gradient makes sense for the original function. Also check the form: a product-rule answer has two terms and a quotient-rule answer has a squared denominator.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA: section 3.3, International A-level Unit P2 (Pure Maths), content P2.6 Differentiation (differentiation of e^x, ln x, sin x, cos x and tan x, and the product, quotient and chain rules, and dy/dx = 1/(dx/dy)).

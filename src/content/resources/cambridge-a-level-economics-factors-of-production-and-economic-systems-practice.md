@@ -172,6 +172,20 @@ Judgement: keep the system, since unit cost has nearly halved, but monitor turno
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 factors of production questions from past papers?**
+No. They are original practice questions with worked answers covering sections 1.3 and 1.4 of the Cambridge International AS & A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**Is money a factor of production?**
+No. Cash or a bank loan is not capital, because capital is a produced input used to make goods, while money is only a claim to buy one. Calling cash or a loan capital is a common error.
+
+**How should you show a loss in a profit calculation?**
+State a negative profit as a loss, with the minus sign. Writing a positive number for a loss, or leaving out the sign, loses marks.
+
+**How should you end an "evaluate" question on economic systems?**
+If your judgement is that "it depends", state what it depends on, and use the data in your argument. Concluding without saying what the answer depends on is a common way to lose marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education). Sections 1.3.1 to 1.3.5 and 1.4.1 to 1.4.2.

@@ -236,6 +236,20 @@ Always link the comment to the context. A statement like "the model is not accur
 </figure>
 
 
+## Frequently asked questions
+
+**How do you reduce y = ax^n to a straight line?**
+Take logs: lg y = n lg x + lg a. Plot lg y against lg x; the gradient is n and the intercept is lg a, so a = 10^(intercept).
+
+**How do you reduce y = kb^x to a straight line?**
+Take logs: lg y = x lg b + lg k. Plot lg y against x; the gradient is lg b and the intercept is lg k. With natural logs, b = e^(gradient) and k = e^(intercept).
+
+**Is (log x)² the same as 2 log x?**
+No. The power law, log xⁿ = n log x, applies only to the input of the logarithm, so (log x)² cannot be simplified that way.
+
+**Which points should you use to find the gradient of a log graph?**
+Take points from the line of best fit, not from the data table, and use the same base for every log in the question.
+
 ## Official syllabus
 
 OCR, *A Level Mathematics A (H240) specification*, Version 3.1 (August 2026), for first assessment in 2018, published by OCR. These notes cover section 1.06f to 1.06i.

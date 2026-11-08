@@ -256,6 +256,20 @@ Worked reminders:
 - Titration calculations: [amount of substance revision notes](/resources/ocr-a-level-chemistry-amount-of-substance-revision-notes/)
 - [Free 10-minute diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**What is the difference between accuracy and precision?**
+An accurate result is close to the true value, while precise results are close to each other when repeated. Results can be tightly grouped yet all wrong by the same amount, which is precise but not accurate.
+
+**What is the difference between random and systematic error?**
+Random error scatters results either way and is reduced by repeating and averaging. Systematic error shifts results in one direction every time, such as heat loss, and repeating does not remove it.
+
+**How many significant figures should a final answer have?**
+Give the answer to the least number of significant figures in the data used, and round only once, at the end. Keep trailing zeros, for example when a mass measured to 3 s.f. gives a concentration of 0.0938 mol dm⁻³.
+
+**How do you write a good evaluation in a practical question?**
+Name a specific limitation in the procedure and give an improvement that fixes that limitation. Answers such as "human error" or "use better equipment" are too vague to earn credit.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, published by OCR -- Module 1, section 1.1 Practical skills assessed in a written examination (1.1.1 Planning, 1.1.2 Implementing, 1.1.3 Analysis, 1.1.4 Evaluation).

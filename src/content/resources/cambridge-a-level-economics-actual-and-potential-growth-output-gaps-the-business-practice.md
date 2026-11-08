@@ -127,6 +127,20 @@ These questions cover outcomes 9.2.1 to 9.2.4 of the Cambridge International AS 
 - Listing policies without effects, lags or costs.
 - Evaluating with only "it depends" and no stated condition.
 
+## Frequently asked questions
+
+**What do you divide by when calculating an output gap?**
+Divide the gap by potential output, not actual output, then multiply by 100.
+
+**Is potential growth caused by a rise in aggregate demand?**
+No. A rise in aggregate demand moves actual output; potential growth is a rise in productive capacity, driven by the quantity and quality of resources.
+
+**How do I identify a phase of the business cycle in a data question?**
+Give evidence from the data, such as the growth rate, unemployment and inflation, rather than just naming the phase.
+
+**Why does the sign of the output gap matter for stimulus?**
+With a negative gap, stimulus can raise output using spare capacity; with a positive gap, it mainly raises prices. Ignoring the sign of the gap weakens an evaluation.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/cambridge-a-level-economics-actual-and-potential-growth-output-gaps-the-business-revision-notes/) and [study guide](/resources/cambridge-a-level-economics-actual-and-potential-growth-output-gaps-the-business/).

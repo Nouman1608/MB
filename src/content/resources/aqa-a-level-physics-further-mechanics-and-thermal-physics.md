@@ -250,6 +250,20 @@ c_rms = √(3kT/m) = √(3 × 1.38 × 10⁻²³ × 300 / 4.65 × 10⁻²⁶) = 5
 - Using °C in pV = nRT or in Charles's law ratios.
 - Mixing grams and kilograms in n = mass/molar mass.
 
+## Frequently asked questions
+
+**Is a simple pendulum truly simple harmonic?**
+Only approximately. Its restoring force is mg sin θ, and the small-angle approximation sin θ ≈ θ (in radians) makes it proportional to displacement, so a pendulum is simple harmonic only for small angles.
+
+**What is the difference between light, critical and heavy damping?**
+Light damping gives oscillations with gradually decreasing amplitude and an almost unchanged period. Critical damping returns the system to equilibrium in the shortest time without oscillating, and heavy damping returns it slowly without oscillating.
+
+**How do you calculate energy in a continuous-flow heating problem?**
+For a fluid flowing continuously, power = (mass per second) × c × Δθ, written P = (m/t)cΔθ. Rearrange it to find the flow rate or the temperature rise.
+
+**What is the internal energy of an ideal gas?**
+An ideal gas has no intermolecular forces, so its internal energy is all kinetic. The mean kinetic energy of a molecule is ½m(c_rms)² = (3/2)kT.
+
 ## Official syllabus
 
 AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.6 Further mechanics and thermal physics (A-level only).

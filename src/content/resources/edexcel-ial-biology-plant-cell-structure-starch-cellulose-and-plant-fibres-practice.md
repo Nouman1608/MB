@@ -157,6 +157,20 @@ These questions follow the Pearson Edexcel International Advanced Subsidiary/Adv
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which Edexcel topic do these questions cover?**
+They cover plant cell structure, starch, cellulose, plant fibres, xylem and phloem, Core Practical 7 and sustainability, from Topic 4 of Pearson Edexcel International A Level Biology (YBI11).
+
+**Should you describe where a structure is when asked for its function?**
+No. Give what the structure does. Describing its position instead of its function is a common way to lose marks.
+
+**What should you avoid in a plan diagram?**
+Do not draw individual cells or use shading; draw only tissue outlines in the correct proportions.
+
+**What should you do when describing a trend in a table?**
+Quote figures from the table. A trend described without figures loses marks.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification, Issue 2, February 2021, Pearson Education Limited: Topic 4, statements 4.1 to 4.7.

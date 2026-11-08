@@ -257,6 +257,20 @@ is simply the cost of making 200 more units.
 - Listing benefits of ZBB without evaluating them against its cost and time.
 - Ending an evaluation without a judgement.
 
+## Frequently asked questions
+
+**How do you calculate the production budget?**
+Production = budgeted sales + closing inventory − opening inventory. Each month's closing inventory becomes the next month's opening inventory.
+
+**What is the difference between a favourable and an adverse variance?**
+A favourable variance means actual profit is higher than budget, from revenue above budget or a cost below it. An adverse variance means actual profit is lower, from revenue below budget or a cost above it.
+
+**What is budgetary slack?**
+Budgetary slack is when managers pad their cost budgets to make targets easier to meet. It is one of the limitations of budgeting, alongside reliance on forecasts and the time and cost of preparation.
+
+**Why is the budgeted income statement different from the cash budget?**
+The budgeted income statement uses the accruals basis, so it includes non-cash items such as depreciation and records income and expenses when earned or incurred. The cash budget shows only cash received and paid.
+
 ## Official syllabus
 
 AQA A-level Accounting (7127) specification, version 1.1, October 2026, A-level exams June 2019

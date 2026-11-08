@@ -212,6 +212,20 @@ The mean difference for identical twins is 1.8 cm.
 - Browse [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which part of Edexcel International GCSE Biology 4BI1 do these questions cover?**
+They cover sub-topic 3(b), Inheritance: genetic terms, protein synthesis, crosses, pedigrees, sex determination, cell division and mutation.
+
+**What must a genetic diagram include?**
+Include the gametes, each written as a single allele. Leaving out gametes, or writing them as pairs, loses marks.
+
+**Should you answer a probability question with a ratio?**
+No. Give a probability as a fraction, decimal or percentage, not as a ratio such as 3 : 1.
+
+**How should you answer a pedigree question?**
+Name the individuals you are using as evidence. Answers that do not identify the individuals lose marks.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1) specification, Issue 3 (September 2024), Pearson Education Limited; first assessment June 2019. Topic 3, Reproduction and inheritance, sub-topic (b) Inheritance, points 3.14–3.39.

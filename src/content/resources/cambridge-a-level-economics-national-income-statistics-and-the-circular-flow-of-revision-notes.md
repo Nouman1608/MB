@@ -254,6 +254,20 @@ Household income  ->  [spend on domestic output]  ->  firms
 - Calculations with no units, or with the starting measure and price basis left unstated.
 - Treating equilibrium as the same as full employment or as a good outcome.
 
+## Frequently asked questions
+
+**What is the difference between GDP, GNI and NNI?**
+GDP is the value of final goods and services produced inside a country over a year. GNI adds net primary income from abroad, and NNI is GNI minus depreciation.
+
+**Why are imports a leakage and exports an injection?**
+Spending on imports goes to foreign firms, so it leaves the domestic circular flow. Exports are foreign spending on domestic output, so they create income for domestic firms.
+
+**Is equilibrium national income the same as full employment?**
+No. Equilibrium only means injections equal leakages, so national income is stable with no tendency to rise or fall. It is not necessarily a good outcome, and treating it as full employment is a common error.
+
+**What happens to GNI when net primary income from abroad is negative?**
+GNI is below GDP, because more income is paid abroad to non-residents than residents earn from abroad. Keep the minus sign when you add net primary income to GDP.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, sections 4.1 and 4.2 (Cambridge University Press & Assessment).

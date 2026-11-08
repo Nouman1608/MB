@@ -168,6 +168,20 @@ These questions follow the Pearson Edexcel International Advanced Subsidiary/Adv
 - Writing the discriminant without brackets round a negative coefficient.
 - Giving the "no real roots" interval when the question asks for two distinct roots.
 
+## Frequently asked questions
+
+**How do you evaluate a fractional power such as 16^(3/4) without a calculator?**
+Take the root first and then the power, so 16^(3/4) is the fourth root of 16 raised to the power 3. Taking the root first keeps the numbers small, and a negative power means you also take the reciprocal.
+
+**What is a common mistake when rationalising a denominator with two terms?**
+Using the wrong conjugate or multiplying only the numerator by it. Multiply top and bottom by the denominator with the sign between its terms changed, and watch for a negative denominator changing the sign of the whole fraction.
+
+**What is the difference between the conditions for equal roots and two distinct real roots?**
+Equal roots need b² − 4ac = 0, and two distinct real roots need b² − 4ac > 0. Giving the no-real-roots interval (b² − 4ac < 0) when the question asks for two distinct roots is a common way to lose marks.
+
+**Are exact answers required in Edexcel IAL P1 surd questions?**
+When a question asks for an exact answer or a form such as a + b√c, a decimal approximation will not earn the final mark. Keep surds and fractions in your working and final answer.
+
 ## Next steps
 
 - Recap the methods with the [revision notes](/resources/edexcel-ial-mathematics-indices-surds-and-quadratics-functions-discriminant-revision-notes/).

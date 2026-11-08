@@ -30,9 +30,9 @@ syllabusTopics:
     subtopic: "energy-work-and-power-cambridge-alevel-maths"
 description: "Condensed revision notes for Cambridge 9709 Mechanics (Paper 4): formulae, method steps, key distinctions and a 12-question self-test with answers."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -218,6 +218,23 @@ Use g = 10 m s⁻² throughout, as the syllabus expects.
 - Missing the weight component mg sin θ when a car climbs a hill.
 - Using P = Fv with the resultant force instead of the driving force.
 - Rounding intermediate values to 2 or 3 significant figures, so the final answer is inaccurate.
+
+## Frequently asked questions
+
+**Which mechanics formulae are given in the Cambridge 9709 formula list (MF19)?**
+Only the constant acceleration formulae (v = u + at, s = ½(u + v)t, s = ut + ½at² and v² = u² + 2as) are in MF19. Formulae such as W = mg, F = μR, P = Fv, kinetic energy and potential energy must be learned.
+
+**When can you use F = μR?**
+Only when the particle is in limiting equilibrium (about to slip) or already sliding. Otherwise friction satisfies F ≤ μR and its value comes from resolving forces.
+
+**How do you solve a connected particles problem?**
+Draw a separate diagram for each particle, write resultant force = ma for each in its own direction of motion, and use the same acceleration for both. Add the equations to eliminate the tension, then find the tension from one equation.
+
+**How do you find the acceleration of a car working at a given power?**
+Find the driving force with D = P/v at that speed, subtract the resistance (and mg sin θ on a hill), then set the resultant force equal to ma. At maximum steady speed, a = 0.
+
+**Is kinetic energy conserved in a collision?**
+Not in general. Momentum is conserved in a direct impact, but kinetic energy is usually lost.
 
 ## Official syllabus
 

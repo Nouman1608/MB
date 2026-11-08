@@ -261,6 +261,20 @@ A good conclusion picks a side and says what it depends on: "Growth is most like
 - Forgetting that the same growth rate has different consequences depending on its source.
 - Missing the context in a data question, such as the country's stage of development.
 
+## Frequently asked questions
+
+**Does growth from higher AD shift the AD curve or LRAS?**
+Actual growth from a rise in consumption, investment, government spending or net exports is a shift of AD. Potential growth from more or better factors of production is a shift of LRAS; confusing the two is a common error.
+
+**What are the opportunity costs of economic growth?**
+Resources used for investment or training to raise future output cannot be used for current consumption, so faster growth can mean lower living standards now.
+
+**Why does productivity matter most for long-run growth?**
+A country cannot keep adding workers, but productivity can keep rising. Real GDP growth is roughly the growth of employment plus the growth of output per worker.
+
+**Does economic growth always cause inflation or inequality?**
+No. Both depend on the source and speed of growth. Inflation builds if AD rises faster than potential output, and inequality rises only if the gains go mainly to higher earners.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics, Specification, Issue 2, June 2018, Pearson Education Limited: Unit 2, section 2.3.5 Economic growth, statements 1 to 3.

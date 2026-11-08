@@ -25,11 +25,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-2-11"
 description: "11 original IB DP Maths AA questions on rational, exp and log functions, equations and transformations, with mark-by-mark answers."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -183,6 +183,20 @@ Learn the methods first in the [study guide](/resources/ib-dp-mathematics-aa-sl-
 - Tick off sections on the [printable syllabus checklist](/checklists/ib/ib-dp/mathematics-analysis-and-approaches/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**How should you write an asymptote in an IB Maths answer?**
+Give it as the equation of a line, such as x = 3 or y = 2, not as a single number. A sketch should also show every horizontal and vertical asymptote as a dashed line.
+
+**What is the horizontal asymptote of (ax + b)/(cx + d)?**
+The horizontal asymptote is y = a/c and the vertical asymptote is x = −d/c. Do not confuse y = a/c with the y-intercept, which is b/d.
+
+**Why must you check the whole domain when solving equations on a GDC?**
+A root can sit very close to an asymptote, and a default window can hide it. Check for further intersections across the whole domain, and substitute your answer back into both sides.
+
+**Do you need to say why you reject a solution in a disguised quadratic?**
+Yes. When substituting u = eˣ or u = aˣ, reject any u ≤ 0 and state the reason, that aˣ > 0 for all x. In IB DP Mathematics: Analysis and Approaches, the rejection line is part of a complete answer.
 
 ## Official syllabus
 

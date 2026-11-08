@@ -231,6 +231,20 @@ A strong "discuss" answer on growth:
 - Describing a merger and a takeover as the same thing. A merger is agreed by both sides; a takeover means one side gains control.
 - Naming methods but never tying them to the business described in the stem.
 
+## Frequently asked questions
+
+**What is the difference between organic and external growth?**
+Organic growth comes from the business's own activity, such as opening new stores, and is usually slower but keeps more control. External growth means joining with or buying another business through a merger or takeover, which is faster but costly and can cause culture clashes.
+
+**How does franchising help a business expand?**
+The franchisee pays fees and a share of revenue and provides the money to run the outlet, so the franchisor can grow quickly with less of its own capital. The drawback is less control over quality, so one poor outlet can damage the brand.
+
+**How do you interpret average unit cost figures?**
+Describe the pattern with figures, find the output where average unit cost is lowest, and link the change to a cause. A fall suggests economies of scale; a later rise suggests diseconomies of scale.
+
+**Are diseconomies of scale certain when a business grows?**
+No. AQA GCSE Business (8132) treats them as a risk that rises with growth, caused by poor communication, coordination issues and reduced staff motivation; a well-managed large business can avoid them.
+
 ## Official syllabus
 
 AQA GCSE Business (8132) specification, for first teaching from September 2017, published by AQA. This guide covers section 3.1.7 Expanding a business.

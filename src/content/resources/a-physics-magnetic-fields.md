@@ -26,11 +26,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-magnetic-fields"
     subtopic: "a-electromagnetic-induction"
-description: "The magnetic field concept, the force on a current-carrying conductor and on a moving charge, magnetic fields due to currents, and electromagnetic induction, for Cambridge International AS & A Level Physics 9702."
+description: "Magnetic forces F = BIL sin θ and F = BQv sin θ, the Hall effect, velocity selection, field patterns and electromagnetic induction: Topic 20 of Cambridge 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-09-27
 featured: false
@@ -375,6 +375,20 @@ moving faster or slower than v₀ = E/B feels a net force and is deflected.
 - Field patterns for a straight wire, flat coil and solenoid, and the effect of a ferrous core
 - Faraday's law (rate of change of flux linkage) and Lenz's law (opposing direction)
 - The induction experiments: magnet and coil with a galvanometer, a wire moved through a magnet's field, the factors that increase the induced e.m.f., and finding its direction with Lenz's law
+
+## Frequently asked questions
+
+**What is the Hall voltage formula?**
+The Hall voltage is V_H = BI/(ntq), where n is the number density of charge carriers, t is the thickness of the slice in the direction of B and q is the charge on each carrier. Because V_H is proportional to B, a Hall probe can measure magnetic flux density.
+
+**How does a velocity selector work?**
+A velocity selector uses crossed electric and magnetic fields whose forces act in opposite directions on a charged particle. Only particles with speed v₀ = E/B feel balanced forces and pass through undeflected.
+
+**Do parallel wires carrying current attract or repel?**
+Two parallel wires carrying current in the same direction attract, and wires carrying current in opposite directions repel. Each wire experiences a force F = BIL in the field produced by the other.
+
+**What does an iron core do inside a solenoid?**
+A ferrous core greatly increases the magnetic flux density produced for the same current, because the core becomes magnetised and adds its own field. This is the basis of an electromagnet.
 
 ## Related resources
 

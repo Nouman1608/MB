@@ -22,9 +22,9 @@ syllabusTopics:
     subtopic: "as-linear-momentum-and-its-conservation"
 description: "Original exam-style practice questions with full worked answers on Newton laws, momentum, impulse and collisions for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -138,3 +138,17 @@ Final momentum = 0.058 × (−30) = −1.74 kg m s⁻¹ [1 for using a negative]
 - Saying kinetic energy is conserved in all collisions.
 - Explaining safety features as "absorbing force" rather than extending time.
 - Identifying weight and normal contact force as a third-law pair.
+
+## Frequently asked questions
+
+**When is momentum conserved?**
+Total momentum is conserved in any closed system where no external resultant force acts. It is conserved in every collision and explosion, whether or not kinetic energy is conserved.
+
+**What happens to momentum and kinetic energy in an explosion?**
+If the objects start at rest, the total momentum after an explosion is still zero, so the fragments move off with equal and opposite momenta. Kinetic energy increases, supplied by a chemical or elastic potential store.
+
+**Why must you choose a positive direction in momentum questions?**
+Momentum is a vector, so a velocity in the opposite direction must be negative. Treating both velocities in a rebound as positive gives a momentum change that is far too small.
+
+**What mistakes lose marks in dynamics questions?**
+Common errors include quoting F = ma as Newton's second law without the momentum form, identifying weight and normal contact force as a third-law pair, and saying kinetic energy is conserved in all collisions.

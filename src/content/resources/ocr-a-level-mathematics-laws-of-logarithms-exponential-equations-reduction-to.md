@@ -330,6 +330,20 @@ Typical refinements are a model that levels off at a maximum value, adding a con
 - Reading the intercept as k or a instead of ln k or lg a.
 - Using a model far outside the range of the data and saying nothing about it.
 
+## Frequently asked questions
+
+**How do you solve an exponential equation such as 3^x = 5?**
+Take logs of both sides and divide: x = ln 5 / ln 3 = 1.46 to 3 significant figures. Writing x = ln 5 × ln 3 is a common error.
+
+**How do you solve an equation like 9^x − 3^x − 6 = 0?**
+Substitute t = 3^x to get a quadratic in t, then solve it. Since 3^x > 0 for every x, reject any negative value of t.
+
+**How can you tell whether data fit a power model or an exponential model?**
+If lg y against lg x gives a straight line, the relationship is a power law, y = ax^n. If lg y (or ln y) against x gives a straight line, it is exponential, y = kb^x.
+
+**What are the limitations of exponential growth and decay models?**
+Exponential growth continues without bound, decay never reaches zero, the model gives decimals for whole-number counts, and predictions far outside the data used are unreliable.
+
 ## Next steps
 
 Work through the [practice questions](/resources/ocr-a-level-mathematics-laws-of-logarithms-exponential-equations-reduction-to-practice/), then use the [revision notes](/resources/ocr-a-level-mathematics-laws-of-logarithms-exponential-equations-reduction-to-revision-notes/) for the final weeks.

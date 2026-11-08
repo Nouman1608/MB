@@ -176,6 +176,23 @@ These questions cover statements P5.1a to P5.1e, P5.1j and P5.1k of OCR GCSE (9-
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these OCR GCSE Physics A wave questions cover?**
+They cover topic P5.1 Wave behaviour, statements P5.1a to P5.1e, P5.1j and P5.1k, of OCR GCSE (9-1) Physics A (J249): wave terms, v = fλ, transverse and longitudinal waves, measuring wave speeds and evidence that the wave travels, not the medium.
+
+**What units should I convert before using v = fλ?**
+Convert kHz to Hz, cm or mm to m, and ms to s before substituting. Rearranging the equation the wrong way round is another common slip, so write the rearranged form first.
+
+**How do I tell a displacement-distance graph from a displacement-time graph?**
+Check the horizontal axis. You read a wavelength from a displacement-distance graph and a period from a displacement-time graph, and mixing them up is a misconception the specification lists.
+
+**How should I compare transverse and longitudinal waves?**
+Compare the direction of vibration with the direction of travel for each type. Describing one wave as "up and down" without relating it to the travel direction gains little credit.
+
+**What must a method for measuring wave speed include?**
+State what is measured, how it is measured and what is calculated from it. In echo methods, remember the sound travels to the wall and back.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249)*. Specification Version 5.0, July 2026; first assessment 2018. Topic P5.1 Wave behaviour, statements P5.1a to P5.1e, P5.1j and P5.1k.

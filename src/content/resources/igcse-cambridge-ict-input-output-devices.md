@@ -12,11 +12,20 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "input-and-output-devices"
-description: "Input devices, direct data entry devices and output devices -- Topic 2 of Cambridge IGCSE ICT (0417), 2026-2028 series."
+  - qualification: "igcse"
+    topic: "input-and-output-devices"
+    subtopic: "input-devices-and-their-uses-0417"
+  - qualification: "igcse"
+    topic: "input-and-output-devices"
+    subtopic: "direct-data-entry-and-associated-devices-0417"
+  - qualification: "igcse"
+    topic: "input-and-output-devices"
+    subtopic: "output-devices-and-their-uses-0417"
+description: "Input devices, direct data entry devices such as RFID and barcode readers, and output devices for Cambridge IGCSE ICT 0417 Topic 2, 2026 to 2028."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-01
 featured: false
 ---
@@ -118,6 +127,20 @@ robot arm, triggering a motor), which makes it the correct answer
 whenever a scenario describes a computer system causing something to
 move or operate physically rather than displaying, printing or
 sounding an output.
+
+## Frequently asked questions
+
+**What is direct data entry in IGCSE ICT?**
+In Cambridge IGCSE ICT (0417), direct data entry devices read data automatically from a card, tag, mark or code rather than relying on a person typing it. Examples include magnetic stripe readers, chip and PIN readers, RFID readers, OMR, OCR, barcode readers and QR scanners.
+
+**Is a touch screen an input or an output device?**
+A touch screen is both: it is an input device when used to make a selection and an output device when displaying an image. This dual role is a point that is tested directly.
+
+**Why might RFID be chosen instead of a barcode reader?**
+An RFID reader does not need a direct line of sight and can read a tag at a short distance, which helps when a tag is concealed or moving, such as a patient wristband. A barcode reader needs the code to be visible to the scanner.
+
+**What is an actuator?**
+An actuator is an output device that converts an electrical signal into physical movement, such as opening a valve or moving a robot arm. It is the correct answer whenever a scenario describes a computer system making something move or operate physically.
 
 ## Official syllabus
 

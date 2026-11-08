@@ -342,6 +342,23 @@ mass     = 0.320 × 71.0 = 22.7 g
 - Forgetting the factor of two when a metal halide holds two halide ions.
 - Calling the sunlight reaction disproportionation.
 
+## Frequently asked questions
+
+**Why does electronegativity decrease down Group 7?**
+Each halogen down the group has an extra occupied shell, so the atom is larger and more shielded. The shared electron pair in a bond is further from a more shielded nucleus and is attracted less strongly, even though the proton number rises.
+
+**Why do the boiling points of the halogens increase down the group?**
+The halogens are simple molecular substances made of diatomic molecules. Boiling only overcomes van der Waals forces between molecules, which get stronger as the number of electrons per molecule rises; the X–X covalent bond is not broken.
+
+**Why is silver nitrate acidified with nitric acid in the halide test?**
+Nitric acid removes ions such as carbonate or hydroxide that would otherwise form their own precipitates with silver ions. Hydrochloric acid is never used because it would add chloride ions.
+
+**What is disproportionation in halogen chemistry?**
+Disproportionation is when one element is both oxidised and reduced in the same reaction. When chlorine reacts with water or with cold, dilute sodium hydroxide, chlorine goes from 0 to −1 and to +1.
+
+**Why is chlorine added to drinking water if it is toxic?**
+Chlorine kills bacteria and prevents water-borne disease. It is toxic and can form chlorinated organic compounds, but the OxfordAQA 9620 specification asks you to appreciate that the health gain outweighs the toxic effects.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS

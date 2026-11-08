@@ -24,7 +24,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "ecosystems-biodiversity-and-fieldwork-5014-2027"
     subtopic: "fieldwork-investigations-5014-2027"
-description: "Food webs, energy flow, forests, biodiversity management and sampling methods for fieldwork, written for Cambridge O Level Environmental Management 5014 Topic 5."
+description: "Study guide to food webs, energy flow, forests, biodiversity and fieldwork sampling for Cambridge O Level Environmental Management 5014 Topic 5."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
@@ -149,3 +149,17 @@ Command words matter. **Describe** needs what you see or what happens; **explain
 6. A 200 m2 field has a mean of 3.5 plants per m2 from random quadrats. Estimate the population. *3.5 x 200 = 700 plants.*
 7. Why is random placement of quadrats better than choosing where to put them? *It avoids bias, such as picking areas that look richer.*
 8. Suggest one limitation of the capture-mark-recapture method. *Marked animals may not mix evenly with the rest, or marking may make them easier for predators to catch.*
+
+## Frequently asked questions
+
+**How do you calculate energy transfer efficiency between trophic levels?**
+Divide the energy at the higher trophic level by the energy at the level below and multiply by 100. For example, 2 000 kJ reaching primary consumers from 20 000 kJ fixed by producers is an efficiency of 10%.
+
+**How does capture-mark-recapture estimate a population?**
+Multiply the number in the first sample by the number in the second sample, then divide by the number of marked animals recaptured. The method assumes marked animals mix evenly, none are lost or gained, and marking does not affect survival.
+
+**Which way should food chain arrows point?**
+Arrows point in the direction of energy flow, from the organism eaten to the organism that eats it. Drawing them from consumer to food is a common mistake.
+
+**Why are forests important in Cambridge O Level Environmental Management 5014?**
+Forests store carbon, help regulate the water cycle through transpiration and hold a large share of the world's species. Deforestation causes loss of habitat, soil erosion and more flooding.

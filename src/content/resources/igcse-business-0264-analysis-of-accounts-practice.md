@@ -156,6 +156,20 @@ The syllabus gives no formulas, so answers use the standard forms. All businesse
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Does the Cambridge IGCSE Business 0264 syllabus give ratio formulas?**
+No. The 0264 syllabus names the ratios in section 5.5 but gives no formulas, so answers use the standard forms, such as ROCE = profit ÷ capital employed × 100.
+
+**What are common mistakes on analysis of accounts questions?**
+Students often divide ROCE by revenue instead of capital employed, forget to subtract current liabilities when finding capital employed, leave an overdraft out of current liabilities, and forget to remove inventory in the acid test. Giving a figure with no comment on what it means for the business also loses marks.
+
+**Should liquidity ratios be written as percentages?**
+No. Margins and ROCE are percentages, while the current ratio and acid test ratio are shown as ratios such as 1.5:1 or as a single number. Mixing these up is a common error.
+
+**How should you answer a justify question using ratios?**
+Use the ratios to support a decision for the user in the question, such as a bank or supplier, and weigh at least one point against it before concluding.
+
 ## Official syllabus
 
 Aligned to section 5.5 of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education).

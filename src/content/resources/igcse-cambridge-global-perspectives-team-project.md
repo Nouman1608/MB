@@ -9,7 +9,7 @@ qualifications: ["igcse"]
 syllabusCodes: ["0457"]
 syllabusSeries: "2025-2027"
 order: 3
-description: "How the 70-mark Team Project works -- the Explanation of Research and Planning, Evidence of Action, Collaboration and the individual Reflective Paper -- Component 3 of Cambridge IGCSE Global Perspectives (0457), 2025-2027 series."
+description: "How the 70-mark Team Project works: Explanation of Research and Planning, Evidence of Action, Collaboration and the Reflective Paper, for Cambridge IGCSE 0457."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -164,6 +164,23 @@ memory in the final week.
 
 - [Cambridge IGCSE Global Perspectives: Component 2 – Individual Report (0457)](/resources/igcse-cambridge-global-perspectives-individual-report/)
 - [Cambridge IGCSE Global Perspectives: The Written Exam (0457)](/resources/igcse-cambridge-global-perspectives-written-exam/)
+
+## Frequently asked questions
+
+**How many marks is the IGCSE Global Perspectives 0457 Team Project worth?**
+The Team Project is worth 70 marks, or 35% of the qualification, joint-largest with the Written Exam. It is internally assessed and externally moderated.
+
+**How are Team Project marks split between the team and the individual?**
+The Team Element is worth 25 marks: Explanation of Research and Planning (10), Evidence of Action (5) and Collaboration (10). The Personal Element is worth 45 marks, all marked from the candidate's own Reflective Paper.
+
+**What are the word limits in the 0457 Team Project?**
+The Explanation of Research and Planning is 300–400 words, and the Reflective Paper is 750–1000 words excluding citations and bibliography. Marks cannot be awarded beyond the first 400 or 1000 words respectively.
+
+**What counts as Evidence of Action?**
+It can be posters, leaflets, web pages, videos of up to 10 minutes, presentations or event photographs, as long as it shows what the team actually did. Evidence of research or planning meetings does not count.
+
+**Do all team members get the same collaboration mark?**
+Not entirely. Five collaboration marks are awarded identically to the whole team and five are awarded individually, based on teacher observation, so individual marks can vary within a team.
 
 ## Official syllabus
 

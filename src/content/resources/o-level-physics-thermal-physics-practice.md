@@ -19,11 +19,11 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "thermal-physics"
     subtopic: "transfer-of-thermal-energy"
-description: "Original exam-style questions with full worked answers on specific heat capacity, gas pressure and the particle model, momentum of gas particles, pressure and volume of a gas, evaporation and thermal energy transfer, for Cambridge O Level Physics (5054)."
+description: "Original Cambridge O Level Physics 5054 thermal questions with worked answers on specific heat capacity, gas pressure, particle momentum and evaporation."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-24
 featured: false
 ---
@@ -106,3 +106,17 @@ Most questions practise a skill tested in the June 2025 Paper 22. After each ans
 - Mentioning only more frequent collisions, and not harder collisions, when temperature rises.
 - Forgetting that velocity reverses on a rebound, so the change in momentum is 2mv.
 - Explaining evaporative cooling without saying it is the faster molecules that escape.
+
+## Frequently asked questions
+
+**What are common mistakes in O Level Physics thermal questions?**
+Frequent slips include leaving time in minutes when calculating energy from power, saying particles "expand" when a gas is heated, and mentioning only more frequent collisions, not harder ones, when temperature rises.
+
+**What units should I use in ΔE = mcΔθ?**
+Use mass in kilograms, temperature change in °C or K, and time in seconds when finding energy from power. Leaving mass in grams or time in minutes gives wrong answers.
+
+**How do these thermal physics questions link to past papers?**
+Most questions practise a skill tested in the June 2025 Paper 22. After each answer there is a tip and, where one matches, the real question to try next.
+
+**Which syllabus do these questions follow?**
+They are original questions on thermal physics for Cambridge O Level Physics 5054, covering specific heat capacity, gas pressure and the particle model, with full worked answers.

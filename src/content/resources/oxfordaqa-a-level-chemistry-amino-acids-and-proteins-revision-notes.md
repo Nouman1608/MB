@@ -224,6 +224,19 @@ When you have finished, try the [practice questions](/resources/oxfordaqa-a-leve
   <figcaption>Amines are classed by the number of carbons bonded directly to nitrogen.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is a zwitterion?**
+A zwitterion is the form of an amino acid with an –NH₃⁺ group and a –COO⁻ group, so it has no overall charge. It forms when H⁺ transfers internally from the –COOH group to the –NH₂ group.
+
+**How do you calculate the Mr of a peptide?**
+Add the Mr values of the amino acids and subtract 18.0 for each peptide link formed. A chain of n amino acids has n − 1 links, so a tripeptide loses two water molecules.
+
+**What is the difference between secondary and tertiary protein structure?**
+Secondary structure, such as an α-helix or β-pleated sheet, is held by hydrogen bonds between C=O and N–H groups on the backbone. Tertiary structure depends on the side chains, including S–S bonds between cysteine –SH groups.
+
+**Which amino acid forms disulfide bonds?**
+Only cysteine, with its –SH side chain, can form S–S bonds. Methionine also contains sulfur but cannot, so treating any sulfur-containing side chain as able to form S–S bonds is an error.
 
 ## Official syllabus
 

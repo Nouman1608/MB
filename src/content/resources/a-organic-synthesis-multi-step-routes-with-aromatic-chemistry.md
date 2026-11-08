@@ -14,11 +14,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-organic-synthesis"
     subtopic: "a-organic-synthesis"
-description: "Devising and analysing multi-step organic synthesis routes that combine aliphatic, aromatic and nitrogen chemistry, for Cambridge International AS & A Level Chemistry 9701."
+description: "Devising and analysing multi-step organic synthesis routes that combine aliphatic, aromatic and nitrogen chemistry, for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -207,6 +207,20 @@ conditions, not because it matches one specific "intended" answer.
   description
 - Always check for isomer mixtures (directing effects) and small-molecule
   by-products (H₂O, HCl, ammonium/aminium salts) at each step
+
+## Frequently asked questions
+
+**How do you make 4-nitrophenyl ethanoate from benzene?**
+Nitrate benzene, reduce nitrobenzene to phenylamine with Sn/conc. HCl then NaOH, diazotise below 10 °C and warm with water to give phenol. Nitrate phenol with dilute HNO₃, separate 4-nitrophenol from 2-nitrophenol, then react it with ethanoyl chloride.
+
+**What by-products should you look for when analysing a synthesis route?**
+Check each step for small molecules or salts released, such as H₂O, HCl or NH₄Cl, and for isomer mixtures caused by directing effects. For example, nitrating phenol gives both 2-nitrophenol and 4-nitrophenol.
+
+**Is there only one correct answer to a synthesis route question?**
+No. Several valid routes to the same target often exist. A route is correct if every step uses a genuine syllabus reaction with compatible reagents and conditions.
+
+**Why must you give specific reagents in synthesis questions?**
+Writing "oxidise" or "reduce" is not a complete answer, because different reagents are specified for different changes. Give the actual reagent and conditions, such as acidified K₂Cr₂O₇ with distillation or reflux.
 
 ## Related resources
 

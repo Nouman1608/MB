@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "key-ideas-aqa-gcse-biology"
 description: "Condensed AQA GCSE Biology 8461 Key ideas notes: the nine big ideas, core equations, linking chains, must-know contrasts and a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 These revision notes cover section 4.8, **Key ideas**, of the AQA GCSE Biology (8461) specification, for first teaching 2016 with exams from 2018 (version 1.0). The key ideas run through all eight topics and can be tested on Paper 1 or Paper 2, at Foundation and Higher tier, every May/June. Points drawn from Higher tier only content are marked.
@@ -281,6 +281,23 @@ Each chain joins two or more key ideas. Learn the links, not just the facts.
 - Missing the "because" link in a two-idea answer, so only one mark is scored.
 - Mixing up gene and genome.
 - Stating photosynthesis releases energy -- it takes in energy from light.
+
+## Frequently asked questions
+
+**Why does surface area to volume ratio matter?**
+Surface area to volume ratio falls as size increases, so large organisms need exchange surfaces and transport systems. A bigger organism has a larger surface area but a smaller ratio.
+
+**What are the core equations for photosynthesis and respiration?**
+Photosynthesis: carbon dioxide + water → glucose + oxygen, using light. Aerobic respiration: glucose + oxygen → carbon dioxide + water. Recognise the symbols CO₂, H₂O, O₂ and C₆H₁₂O₆.
+
+**What is the three-domain system?**
+Carl Woese's system classifies organisms into archaea, bacteria and eukaryota.
+
+**Why does high biodiversity make an ecosystem more stable?**
+Many species depend on each other for food, shelter, pollination and seed dispersal, so an ecosystem with more species is less affected when one population changes.
+
+**What is a genome?**
+The genome is the entire genetic material of an organism. A gene is one section of DNA coding for a particular protein.
 
 ## Official syllabus
 

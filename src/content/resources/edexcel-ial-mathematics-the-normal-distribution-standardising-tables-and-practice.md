@@ -122,6 +122,20 @@ Study first with the [study guide](/resources/edexcel-ial-mathematics-the-normal
 - Giving a probability above 1 or an expected count with no rounding comment.
 - Missing the symmetry shortcut when two probabilities are equal.
 
+## Frequently asked questions
+
+**What is a common mistake when standardising a Normal variable?**
+Dividing by the variance instead of the standard deviation. For X ~ N(μ, σ²) use z = (x − μ)/σ, so take the square root of the variance first.
+
+**Why might z be negative in an inverse Normal question?**
+If the value you want lies below the mean, its z-value is negative. Dropping this minus sign when the probability is below 0.5 gives an answer on the wrong side of the mean.
+
+**How do you find μ and σ from two probabilities?**
+Find the z-value for each probability with the correct sign, write two equations of the form x = μ + zσ, and solve them simultaneously. Keep unrounded values until the final answer.
+
+**Which z-value do you use for a symmetrical 90% interval?**
+The tails outside a central 90% interval each hold 5%, so look up Φ(z) = 0.95, not 0.90.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/edexcel-ial-mathematics-the-normal-distribution-standardising-tables-and/) for any question that cost you marks.

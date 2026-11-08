@@ -249,6 +249,20 @@ Rules for the curve:
 - Classifying a catalyst without stating the physical states involved.
 - Listing sustainability benefits without the chain: lower temperature, less fuel burned, less CO₂.
 
+## Frequently asked questions
+
+**Why does increasing concentration increase the rate of reaction?**
+A higher concentration means more reactant particles per dm³, so collisions are more frequent and more collisions per second have energy of at least the activation energy. Concentration changes the frequency of collisions, not the energy of each one.
+
+**Does a catalyst change the enthalpy change of a reaction?**
+No. On an enthalpy profile the reactant and product levels are fixed, so ΔH is unchanged; only the activation energy hump is lower. The catalyst lowers the forward and reverse activation energies by the same amount.
+
+**How do you convert a gas volume rate into moles per second?**
+Divide the rate in cm³ s⁻¹ by 24 000, using the molar gas volume of 24.0 dm³ mol⁻¹ at RTP. For example, 1.2 cm³ s⁻¹ ÷ 24 000 = 5.0 × 10⁻⁵ mol s⁻¹.
+
+**What are the sustainability benefits of using catalysts in industry?**
+A catalyst lets a process reach a useful rate at a lower temperature, so less energy is needed, less fossil fuel is burned, and carbon dioxide emissions and costs fall. Against this, some catalysts are toxic and need careful handling, recovery and disposal.
+
 ## Official syllabus
 
 Source: section 3.2.2 Reaction rates, learning outcomes (a) to (g), in the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, published by OCR.

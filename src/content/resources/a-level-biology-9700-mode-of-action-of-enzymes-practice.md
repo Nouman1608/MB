@@ -162,6 +162,20 @@ Plot volume against time and find the **initial rate** from a tangent at t = 0 [
 - [AS Level Biology 9700 diagnostic](/practice/9700/diagnostic/as/), or [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which part of the Cambridge 9700 syllabus do these questions cover?**
+They cover section 3.1, Mode of action of enzymes, including how enzymes work and how the progress of a reaction is followed.
+
+**What units should enzyme rates have?**
+Give rates with units, such as cm³ s⁻¹ for a volume per time, and s⁻¹ when rate is calculated as 1/time. Missing units is a common error.
+
+**Should you use "same shape" for an active site and its substrate?**
+No. Write "complementary" instead of "same shape". Using "same shape" is a common way to lose marks.
+
+**How should you improve an experiment in an evaluation answer?**
+Pair each limitation with an improvement that actually deals with it. An improvement that does not address the stated limitation earns no credit.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, published by Cambridge Assessment International Education (Cambridge University Press & Assessment, September 2022). Topic 3, Enzymes, section 3.1 Mode of action of enzymes, learning outcomes 1 to 4.

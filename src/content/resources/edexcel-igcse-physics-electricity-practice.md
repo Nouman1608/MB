@@ -22,11 +22,11 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "electricity"
     subtopic: "electric-charge"
-description: "Original exam-style practice questions with full worked answers on mains safety, circuits, resistance and electrostatic charge for Edexcel International GCSE Physics 4PH1."
+description: "Original practice questions with answers on mains safety, circuits, resistance, I-V graphs and static charge for Edexcel International GCSE Physics 4PH1."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false
@@ -87,7 +87,7 @@ Describe how the current–voltage graph for each of the three components would 
 
 **9.** An electric heater connected to the 230 V mains takes a current of 8.7 A.
 
-**(a)** State the equation linking power, current and voltage. **[1]**
+**(a)** State the equation linking energy transferred, current, voltage and time. **[1]**
 
 **(b)** Calculate the power of the heater, in kW. **[2]**
 
@@ -118,12 +118,23 @@ Describe how the current–voltage graph for each of the three components would 
 
 **8.** The resistor (at constant temperature) gives a straight line through the origin, because its resistance stays constant as current increases, so current is directly proportional to voltage. The filament lamp's graph curves, flattening as voltage/current increases, because the filament heats up as more current flows, and its resistance rises with temperature, so progressively larger increases in voltage are needed to produce the same increase in current. The diode's graph shows almost no current at all for voltage applied in one direction (reverse bias), then a sharp rise in current once a small forward voltage is exceeded (forward bias), because a diode is designed to conduct current in one direction only. **[6]** (2 marks per component: correct graph shape/behaviour plus the correct physical reason.)
 
-**9.** **(a)** Power = current × voltage (*P* = *IV*) [1].
-**(b)** *P* = 8.7 × 230 = 2001 W [1] = **2.0 kW** [1].
+**9.** **(a)** Energy transferred = current × voltage × time (*E* = *IVt*) [1].
+**(b)** *P* = *IV* = 8.7 × 230 = 2001 W [1] = **2.0 kW** [1].
 
 *Mark-scheme insight (Pearson Edexcel 4PH1 June 2024 mark scheme, Paper 1PR, Question 2(b)(ii)):* the mark scheme gives separate marks for the answer in W and for converting it to kW, so check the unit the question asks for. *Try the real question next:* Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 2.
 
 *Source for the mark-scheme insights on this page: [Pearson Edexcel International GCSE Physics 4PH1 Paper 1PR mark scheme (Summer 2024)](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Physics/2017/Exam-materials/4ph1-1pr-rms-20240822.pdf), paraphrased.*
+
+## Frequently asked questions
+
+**Are these Edexcel IGCSE electricity questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers from Pearson Edexcel.
+
+**Which real past paper question can I try next?**
+Try Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 2, whose mark scheme is paraphrased on this page.
+
+**Which specification do these questions follow?**
+They follow the Pearson Edexcel International GCSE in Physics (4PH1) specification, Issue 4, the same specification cited by the Electricity study guide and revision notes.
 
 ## Official syllabus
 

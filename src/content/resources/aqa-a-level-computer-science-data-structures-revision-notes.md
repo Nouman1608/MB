@@ -13,11 +13,14 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "fundamentals-of-data-structures"
     subtopic: "data-structures-7517"
-description: "Condensed recall notes on the definition of a data structure and using single- and multi-dimensional arrays, for AQA A-Level Computer Science (7517), 4.2.1.1 and 4.2.1.2."
+  - qualification: "a-level"
+    topic: "fundamentals-of-data-structures"
+    subtopic: "single-and-multi-dimensional-arrays-7517"
+description: "Recall notes for AQA A-Level Computer Science 7517 sections 4.2.1.1 and 4.2.1.2: the definition of a data structure, vectors, matrices and n-dimensional arrays."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -102,6 +105,20 @@ AQA's specification says arrays "(or equivalent)" because different languages im
 - For a program storing 5 students' scores across 3 tests, state the array dimensions needed and what each index represents.
 - Explain the difference between an array's dimensionality and its size, with an example of each.
 - State why you should check your own course's index origin rather than assume one, since AQA sets no pseudocode convention of its own at this level.
+
+## Frequently asked questions
+
+**What is an n-dimensional array in AQA A-Level Computer Science?**
+An n-dimensional array is a set of elements of the same data type, indexed by a tuple of n integers, where a tuple is an ordered list with one index value per dimension.
+
+**Can an array be large but still one-dimensional?**
+Yes. Dimensionality and size are independent: a 1-D array can hold 100 values, while a 2×2 array is two-dimensional but holds only 4 values.
+
+**Why do arrays matter for the rest of AQA 7517 data structures?**
+Records, files and abstract data types such as queues, stacks, graphs and hash tables are often implemented using arrays or the same indexing logic, so later questions assume array fluency.
+
+**Do all elements of an array have to be the same data type?**
+Yes. In the AQA 7517 definition, an array holds elements of the same data type.
 
 ## Related resources
 

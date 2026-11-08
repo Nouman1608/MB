@@ -13,7 +13,16 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-biopsychology-development-9685"
-description: "Condensed recall notes on the nervous system, synaptic transmission, brain localisation, Piaget vs Vygotsky, and research methods 1 for OxfordAQA A-Level Psychology (9685) Unit 2."
+  - qualification: "a-level"
+    topic: "unit-2-biopsychology-development-9685"
+    subtopic: "biopsychology-9685"
+  - qualification: "a-level"
+    topic: "unit-2-biopsychology-development-9685"
+    subtopic: "cognitive-development-9685"
+  - qualification: "a-level"
+    topic: "unit-2-biopsychology-development-9685"
+    subtopic: "research-methods-1-9685"
+description: "Revision notes on the nervous system, synapses, brain localisation, Piaget, Vygotsky and research methods 1 for OxfordAQA International A-Level Psychology 9685."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -139,6 +148,20 @@ perform it.
 5. Name the four categories of research method listed under Methods in Research Methods 1.
 
 **Answers:** 1. The somatic and autonomic nervous systems. 2. The timing of when object permanence develops in infants, via violation-of-expectation methodology. 3. Strength: can efficiently and ethically identify relationships without manipulating variables; limitation: cannot establish causation and can be affected by unmeasured third variables. 4. Support given by a more knowledgeable other, adjusted and withdrawn as the learner's competence grows, within their zone of proximal development. 5. The experimental method (laboratory, field and natural experiments), observation techniques, self-report techniques (questionnaires, interviews), and correlations.
+
+## Frequently asked questions
+
+**How is OxfordAQA 9685 Unit 2 assessed?**
+Unit 2 is a single 1 hour 30 minute exam worth 90 marks, with every topic compulsory in its own 30-mark section: biopsychology, cognitive development and research methods 1.
+
+**What evidence supports brain plasticity?**
+Maguire et al. found London taxi drivers had a significantly larger posterior hippocampus than controls, with volume correlating with years of driving experience.
+
+**What is split-brain research evidence for?**
+Split-brain research, on patients whose corpus callosum has been severed, is key evidence for hemispheric lateralisation. It is not itself the key evidence for plasticity.
+
+**How does functional recovery happen after brain trauma?**
+Mechanisms include recruitment of homologous areas in the opposite hemisphere and axonal sprouting, where undamaged neurons form new connections to compensate for lost pathways.
 
 ## Related resources
 

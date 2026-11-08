@@ -282,6 +282,20 @@ Use more strips. Doubling the strips (here, six instead of three, h = 0.5) gives
 
 Work through the [revision notes](/resources/oxfordaqa-a-level-mathematics-integration-indefinite-definite-integrals-areas-and-revision-notes/), then try the [practice questions](/resources/oxfordaqa-a-level-mathematics-integration-indefinite-definite-integrals-areas-and-practice/). The existing [P1 revision notes](/resources/oxfordaqa-a-level-mathematics-p1-revision-notes/) and [P1 practice](/resources/oxfordaqa-a-level-mathematics-p1-practice/) cover the rest of the unit.
 
+## Frequently asked questions
+
+**Why is there a + c in indefinite integration?**
+Differentiating a constant gives zero, so reversing differentiation cannot tell which constant was there. A given point on the curve lets you find c.
+
+**Which section of OxfordAQA 9660 covers integration and the trapezium rule?**
+Section P1.4 of the OxfordAQA International AS and A-level Mathematics 9660 specification covers indefinite and definite integration of xⁿ, areas and the trapezium rule.
+
+**What is the difference between a definite integral and an area?**
+A definite integral is signed, so it is negative for a region below the x-axis. An area is always positive; the two agree only when the curve is above the axis.
+
+**When is the trapezium rule used?**
+It estimates the area under a curve when the function cannot be integrated with the methods available, by splitting the area into trapezium-shaped strips.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, section P1.4 Integration (International AS exams from May/June 2018, International A-level from May/June 2019), published by OxfordAQA.

@@ -161,6 +161,20 @@ These questions cover sections 3.6.2.1 (Nerve impulses) and 3.6.2.2 (Synaptic tr
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which sections of the AQA specification do these questions cover?**
+They cover sections 3.6.2.1 (Nerve impulses) and 3.6.2.2 (Synaptic transmission) of AQA A-level Biology 7402.
+
+**Should you quote data when explaining a trace or table?**
+Yes. Quote figures from the table or trace. Giving no data when asked to explain it is a common way to lose marks.
+
+**What unit conversion is often missed in nerve impulse calculations?**
+Converting milliseconds to seconds before calculating a speed or a frequency.
+
+**Can a number of impulses be a decimal?**
+No. Impulses are whole events, so do not give an answer such as 3.75 as a number of impulses.
+
 ## Official syllabus
 
 AQA AS and A-level Biology (7401/7402) specification, for first teaching 2015, published by AQA. These questions follow sections 3.6.2.1 and 3.6.2.2. Check the current document on the AQA website for the latest version.

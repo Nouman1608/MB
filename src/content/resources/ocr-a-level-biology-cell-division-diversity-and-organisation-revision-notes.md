@@ -14,13 +14,13 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "foundations-in-biology-ocr-alevel-biology"
     subtopic: "cell-division-cell-diversity-and-cellular-organisation-ocr-alevel-biology"
-description: "Condensed revision notes on the cell cycle and checkpoints, mitosis, meiosis, the PAG1 root tip squash, specialised cells, tissues and stem cells for OCR A Level Biology A (H420) 2.1.6."
+description: "Condensed notes on the cell cycle, mitosis, meiosis, the PAG1 root tip squash, specialised cells and stem cells for OCR A Level Biology A H420, section 2.1.6."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-05
+reviewStatus: "review-pending"
 publishedDate: 2026-11-05
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-11-05."
 ---
 
 These notes condense learning outcomes 2.1.6(a) to (m) of the OCR A Level Biology A specification (H420, Version 4.1, April 2026, first assessment 2025), including the PAG1 microscopy work on stained sections and squashes of plant tissue. The course sits on the [OCR A Level Biology hub](/boards/ocr/a-level/biology/); tick off outcomes on the [printable checklist](/checklists/ocr/a-level/biology/). Microscope use, calibration and drawing rules are in the [cell structure revision notes](/resources/ocr-a-level-biology-cell-structure-microscopy-and-prokaryotes-versus-revision-notes/) and the [practical endorsement revision notes](/resources/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques-revision-notes/); DNA replication in S phase is in the [nucleotides and DNA revision notes](/resources/ocr-a-level-biology-nucleotides-atp-dna-structure-and-semi-conservative-revision-notes/); and xylem and phloem return in the [exchange and transport revision notes](/resources/ocr-a-level-biology-exchange-and-transport-revision-notes/). The [free diagnostics](/diagnostics/) show gaps quickly.
@@ -284,6 +284,20 @@ No names of the sub-stages of prophase 1 are needed. Meiosis can also be observe
 * Twisting the coverslip in a squash, so chromosomes are smeared, or drawing cells with shading.
 * Calling a tissue an organ (for example "xylem is an organ").
 * Saying stem cells are found only in embryos, or forgetting that plant stem cells are in meristems.
+
+## Frequently asked questions
+
+**What happens in the S phase of the cell cycle?**
+In the S phase of interphase, DNA is replicated, so each chromosome becomes two sister chromatids. Interphase is the longest part of the cycle and the cell is very active, not resting.
+
+**How do you calculate the mitotic index?**
+Divide the number of cells in mitosis by the total number of cells counted. For example, 36 cells in mitosis out of 240 gives a mitotic index of 0.15, or 15%.
+
+**How many chromosome combinations can independent assortment produce?**
+With n pairs of homologous chromosomes, independent assortment gives 2ⁿ combinations. For humans, with 23 pairs, that is 2²³, before crossing over is counted.
+
+**What are the sources of stem cells?**
+Stem cells come from embryos, adult tissues such as bone marrow, umbilical cord blood and induced pluripotent stem (iPS) cells made by reprogramming adult cells. In plants, stem cells are found in the meristems.
 
 ## Official syllabus
 

@@ -281,6 +281,20 @@ State symbols matter here: if the question had said the water stayed as a gas, y
 
 Move on to the [revision notes](/resources/ib-dp-chemistry-counting-particles-by-mass-the-mole-revision-notes/), then the [practice questions](/resources/ib-dp-chemistry-counting-particles-by-mass-the-mole-practice/). A summary of the whole component is in the [notes for Structure 1](/resources/ib-dp-chemistry-structure-1-revision-notes/).
 
+## Frequently asked questions
+
+**What is the mole in IB DP Chemistry?**
+The mole is the SI unit for amount of substance; one mole contains NA elementary entities, where the Avogadro constant is 6.02 × 10²³ mol⁻¹. An elementary entity is whatever you choose to count, such as an atom, molecule, ion or electron.
+
+**What is the difference between Mr and molar mass?**
+Relative formula mass, Mr, is a ratio with no units, while molar mass, M, is the mass of one mole of a substance in g mol⁻¹. They have the same number.
+
+**What does Avogadro's law state?**
+Avogadro's law states that equal volumes of gases at the same temperature and pressure contain the same number of molecules. So the mole ratio in a balanced equation can be used as a volume ratio for gases only.
+
+**Why are square brackets used for concentration in IB Chemistry?**
+The IB guide requires square brackets for molar concentration: [AgNO₃] = 0.100 mol dm⁻³ means the concentration of silver nitrate is 0.100 mol dm⁻³.
+
 ## Official syllabus
 
 Source document: *Diploma Programme Chemistry guide* (International Baccalaureate Organization), for first assessment in 2025, published in February 2023. This page follows its Structure 1.4 statements.

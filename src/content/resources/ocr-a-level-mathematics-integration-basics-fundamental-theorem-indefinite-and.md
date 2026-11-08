@@ -316,6 +316,20 @@ One integral from 0 to 2 would give 0, the trap from example 12.
 - Subtracting the wrong way round for two curves, or ignoring a crossing between the limits.
 - Using x-limits in a parametric integral after changing to t.
 
+## Frequently asked questions
+
+**Which parts of integration basics are A Level only in OCR A Level Mathematics A (H240)?**
+Integrating powers of x, definite integrals and the area between a curve and the x-axis are Stage 1 content. Standard integrals of e^kx, 1/x, sin kx and cos kx, and the area between two curves, are A Level only.
+
+**How do you find the area between two curves?**
+Find where the curves meet, decide which curve is on top between those x-values, then integrate (upper − lower) between the limits. Check for any crossing inside the interval.
+
+**How do you find an area against the y-axis?**
+Express x in terms of y, then find ∫ x dy between the two y-values. This is A Level only content.
+
+**What should you do before integrating a squared bracket or a fraction?**
+Expand the bracket or split the fraction into separate powers of x first. Integrating a squared bracket or product term by term gives the wrong answer.
+
 ## Official syllabus
 
 This guide follows content references 1.08a to 1.08f of the OCR A Level in Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018, published by OCR.

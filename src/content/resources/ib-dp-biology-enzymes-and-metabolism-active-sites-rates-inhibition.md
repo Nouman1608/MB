@@ -212,6 +212,23 @@ In **feedback inhibition** the end product of a pathway inhibits an enzyme near 
 - Saying a competitive inhibitor "blocks" the enzyme at all substrate concentrations.
 - Giving rate as "time taken" without converting to 1 / time.
 
+## Frequently asked questions
+
+**Why are enzymes described as globular proteins?**
+The polypeptide folds into a compact, roughly spherical shape. Folding brings the few amino acids of the active site together, and bonds throughout the protein hold the active site in the right shape for catalysis.
+
+**What is denaturation?**
+Denaturation is the loss of an enzyme's three-dimensional structure when the bonds holding it are disrupted, for example by high temperature or extreme pH. The active site changes shape, and the loss of activity is usually permanent.
+
+**Why is the initial rate used when measuring enzyme activity?**
+The reaction rate is highest at the start, when substrate is most concentrated, and falls as substrate is used up, so the initial rate (the gradient at the start) gives a fair comparison.
+
+**What is the difference between linear and cyclical metabolic pathways?**
+A linear pathway, such as glycolysis, runs from a start molecule to an end product. A cyclical pathway, such as the Krebs cycle or Calvin cycle, regenerates its starting molecule so it can run again. This is HL-only content.
+
+**How do statins work?**
+Statins are competitive inhibitors: they compete with the substrate of an enzyme in cholesterol synthesis in the liver, so less cholesterol is made.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. This page is a paraphrase aligned to section C1.1.

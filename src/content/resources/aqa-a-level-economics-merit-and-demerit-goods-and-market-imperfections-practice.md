@@ -133,6 +133,20 @@ These questions follow the AQA AS and A-level Economics specification (version 1
 - Treating immobility as a labour-only issue with no stated consequence.
 - Evaluating with a list, without a final judgement and a reason for it.
 
+## Frequently asked questions
+
+**Is every good with an externality a merit or demerit good?**
+No. AQA says not all products with externalities in consumption are merit or demerit goods; the classification also depends on a judgement that consumers misjudge their own interest.
+
+**What height should be used for a monopoly deadweight loss triangle?**
+Use the gap between price and marginal cost at the monopoly output, not the price on its own.
+
+**How should information failure be explained in an answer?**
+Say which quantity is misallocated, such as a merit good being under-consumed, rather than only describing the missing information.
+
+**Is factor immobility only about labour?**
+No. Treating immobility as a labour-only issue, with no stated consequence, is a common way to lose marks; state the effect, such as structural unemployment or wasted resources.
+
 ## Next steps
 
 - Review the [revision notes](/resources/aqa-a-level-economics-merit-and-demerit-goods-and-market-imperfections-revision-notes/) and [study guide](/resources/aqa-a-level-economics-merit-and-demerit-goods-and-market-imperfections/).

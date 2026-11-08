@@ -12,19 +12,21 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "number-operations-and-integers-ocr-gcse-maths"
-description: "Original exam-style practice questions with full worked answers on integers, order of operations, primes, fractions and estimation."
+description: "OCR GCSE Maths J560 number practice with worked answers: negative numbers, order of operations, primes, HCF and LCM, fractions, estimating, inverse operations."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNote: "2026-11-08 recheck: added intro naming OCR J560 topic 1, questions on reciprocals and inverse operations (1.04), negative-number order of operations and prime factorisation in index form, and FAQ; rewrote description. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNeeded: true
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
 > and they do **not** replicate the exam's exact structure, question count or
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
+
+Number operations and integers is the first topic of OCR GCSE (9–1) Mathematics J560: calculating with integers, whole number theory (factors, multiples, primes, HCF and LCM), combining operations in the correct order, and inverse operations. These questions practise each of those skills, with some fraction, rounding and percentage work from neighbouring topics.
 
 Related: [Number Operations and Integers revision notes](/resources/ocr-gcse-mathematics-number-revision-notes/)
 
@@ -88,6 +90,14 @@ Related: [Number Operations and Integers revision notes](/resources/ocr-gcse-mat
 
 **10.** Calculate 40% of 65% of £500, giving your method clearly. **[3]**
 
+**11.** (a) Write down the reciprocal of 0.25. **[1]**
+(b) Use an inverse operation to check that 391 ÷ 17 = 23. **[1]**
+(c) Amir thinks of a number, multiplies it by 4 and subtracts 7. His answer is 29. Find his number. **[2]**
+
+**12.** Calculate (−3)² − 2 × (−5). **[2]**
+
+**13.** Write 360 as a product of prime factors, in index form. **[2]**
+
 ## Answers to additional questions
 
 **8.** Increase: 65 × 1.2 = £78 [1]. Decrease: 78 × 0.8 = **£62.40** [1]. This is not £65 because the 20% decrease is calculated on the larger, already-increased price (£78), not on the original £65, so the absolute amount removed is larger than the absolute amount added [1].
@@ -95,6 +105,14 @@ Related: [Number Operations and Integers revision notes](/resources/ocr-gcse-mat
 **9.** 84 = 2² × 3 × 7; 126 = 2 × 3² × 7 [2]. HCF = product of the lowest power of each common prime = 2 × 3 × 7 = **42** [1]. LCM = product of the highest power of every prime present = 2² × 3² × 7 = **252** [1].
 
 **10.** 65% of £500 = 500 × 0.65 = £325 [1]; 40% of £325 = 325 × 0.4 = **£130** [1]. (Equivalently, 40% × 65% = 26% of £500 = £130, since multiplying successive percentage multipliers together gives the same overall result [1].)
+
+**11. (a)** 0.25 = 1/4, so the reciprocal is **4** [1].
+**(b)** 23 × 17 = 391, so the division is correct [1].
+**(c)** Reverse each step: 29 + 7 = 36 [1]; 36 ÷ 4 = **9** [1].
+
+**12.** (−3)² = 9 and 2 × (−5) = −10 [1]; 9 − (−10) = **19** [1].
+
+**13.** 360 = 2 × 2 × 2 × 3 × 3 × 5 [1] = **2³ × 3² × 5** [1].
 
 ## A note on prime factorisation for HCF and LCM
 
@@ -123,3 +141,14 @@ six-step reading of the acronym can otherwise introduce.
 - Rounding to a convenient number rather than 1 significant figure in estimation.
 - Dropping the trailing zero in 3.050, which is needed to show three decimal places.
 - Treating multiplication as always ranking above division, or addition as always ranking above subtraction, instead of working left to right within each equal-ranking pair.
+
+## Frequently asked questions
+
+**What is the difference between HCF and LCM?**
+The HCF is the largest number that divides into both numbers; the LCM is the smallest number both divide into. Use prime factorisation: lowest powers of shared primes for the HCF, highest powers of all primes for the LCM.
+
+**Is 1 a prime number?**
+No. A prime has exactly two distinct factors, 1 and itself, and 1 has only one factor.
+
+**How do inverse operations help in OCR GCSE questions?**
+They undo a calculation, so you can check an answer (multiply to check a division) or work backwards through a "think of a number" problem.

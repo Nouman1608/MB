@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "newtonian-world-and-astrophysics"
     subtopic: "gravitational-fields-ocr-alevel"
-description: "Study guide to gravitational potential, potential energy, the force-distance graph and escape velocity for OCR A Level Physics A (H556)."
+description: "Study guide to gravitational potential, gravitational potential energy, the force-distance graph and escape velocity for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false
@@ -205,6 +205,20 @@ Worked example 6: the Moon has an escape speed of v = √(2 × 4.902 × 10¹² /
 - Forgetting to square-root in v = √(2GM/r), or using the planet's diameter instead of radius.
 
 Try the [practice questions](/resources/ocr-a-level-physics-gravitational-potential-potential-energy-and-escape-practice/) next, and tick off each statement on the [checklist](/checklists/ocr/a-level/physics/).
+
+## Frequently asked questions
+
+**What is escape velocity?**
+Escape velocity is the minimum launch speed an object needs to reach infinity with no further propulsion. Setting ½mv² − GMm/r = 0 gives v = √(2GM/r).
+
+**Does escape velocity depend on the mass of the object?**
+No. The object's mass cancels, so the escape velocity is the same for a grain of dust and a spacecraft; it depends on the mass M and the distance r from the centre.
+
+**How do you find the work done from a force-distance graph?**
+The work done in moving a mass between two distances is the area under the force-distance graph between them. Counting squares or using trapezia estimates it; trapezia overestimate because the curve bows towards the axes.
+
+**How do you predict whether a planet keeps its atmosphere?**
+Compare the escape speed with the speeds of the gas atoms or molecules in the upper atmosphere. If typical speeds are well below the escape speed the planet keeps the gas; if they are close to or above it, atoms escape over time.
 
 ## Official syllabus
 

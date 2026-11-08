@@ -15,9 +15,9 @@ syllabusTopics:
     subtopic: "conservation-and-dissipation-of-energy"
 description: "Condensed recall notes on energy stores and transfers, conservation, efficiency, power and reducing unwanted transfers for AQA GCSE Physics 8463."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -184,3 +184,16 @@ the next sub-topic after this one.
   <figcaption>Same work in less time means greater power.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are the energy stores in GCSE Physics?**
+The energy stores are kinetic, gravitational potential, elastic potential, chemical, thermal, magnetic, electrostatic and nuclear. Energy is transferred between them mechanically, electrically, by heating or by radiation.
+
+**What is a closed system?**
+A closed system is one where no energy enters or leaves, so the total energy stays constant even though it moves between stores.
+
+**What does dissipation mean?**
+Dissipation is energy being transferred to less useful stores, usually the thermal store of the surroundings, where it becomes spread out and hard to use. Friction and air resistance are common causes; the energy is not destroyed.
+
+**How can unwanted energy transfers be reduced?**
+Lubrication reduces friction between moving surfaces, streamlining reduces air resistance, and thermal insulation reduces the rate of energy transfer by conduction.

@@ -251,6 +251,20 @@ Example for aid: tied aid of 300 with a 20% price mark-up has real value 300 / 1
 - Giving advantages only, with no judgement on which strategy matters most or when.
 - Using real country statistics from memory. Use only the data given, and label any examples as illustrative.
 
+## Frequently asked questions
+
+**What is the turning point in the Lewis model?**
+It is the point at which the surplus labour in farming is used up. After it, further transfers to industry cost farm output, so wages start to rise.
+
+**Is tourism income a pure gain for a developing country?**
+No. Leakages, such as hotels importing food and fuel or foreign owners repatriating profit, must be subtracted to find the net foreign exchange gain.
+
+**What is the difference between bilateral and multilateral aid?**
+Bilateral aid goes from one government to another. Multilateral aid is pooled through an institution such as the World Bank.
+
+**Why does leakage reduce the tourism multiplier?**
+Only the share of extra income spent on domestically produced goods keeps circulating in the economy. Spending on imports and profits sent abroad leak out, so a larger leakage means a smaller multiplier.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification, Issue 2, June 2018, first assessment June 2020, published by Pearson Education Limited: section 4.3.6, Growth and development in developing, emerging and developed economies, item 3, parts c and d.

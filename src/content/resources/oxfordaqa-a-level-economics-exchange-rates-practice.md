@@ -145,6 +145,23 @@ Disadvantage: the rate cannot adjust to shocks [1], so if the peg is set too hig
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on exchange rate questions?**
+Common losses are confusing depreciation with devaluation, using the wrong base for a percentage change in a rate, inverting the exchange rate in a calculation, and stating that depreciation improves the trade balance without mentioning elasticity.
+
+**Why do two currencies change by different percentages when the exchange rate moves?**
+Each percentage change uses a different base. A 25% fall in one currency against another is a 33.3% rise in the other, so always state which currency you mean.
+
+**How should I explain a factor that causes a currency to appreciate?**
+Link the factor to a shift in demand for, or supply of, the currency and then to the new equilibrium rate. A named factor with no step to a shift gains less credit.
+
+**How do I answer an evaluate question that says depreciation will "always" help an economy?**
+The word "always" invites a counter-case. Weigh the gains against conditions such as low price elasticities, time lags, limited spare capacity and dearer imported inputs, and reach a supported judgement.
+
+**Which OxfordAQA 9640 section do these questions cover?**
+They cover section 3.4.2.2 (exchange rates) of the OxfordAQA International AS and A-level Economics (9640) specification, which is extra International A2 content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, first teaching September 2020, published by OxfordAQA: section 3.4.2.2.

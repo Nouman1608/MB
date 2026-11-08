@@ -233,6 +233,20 @@ Interpretation means using the figures to say something about the business.
 
 Condense this with the [revision notes](/resources/edexcel-igcse-business-sources-of-business-finance-and-cash-flow-forecasting-revision-notes/), then test yourself on the [practice questions](/resources/edexcel-igcse-business-sources-of-business-finance-and-cash-flow-forecasting-practice/). Return to the [4BS1 Business hub](/boards/edexcel/igcse/business/), tick off progress on the [checklist](/checklists/edexcel/igcse/business/), or find weak spots with the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**Why does cash matter to a business?**
+Cash is needed to pay suppliers, overheads and employees. A business that cannot meet its debts on time is insolvent and may be forced to close.
+
+**Why are cash and profit different?**
+Profit is sales revenue minus costs over a period, while cash is what has actually been received and paid. Credit sales, equipment purchases and loans all make the two figures differ.
+
+**What is venture capital?**
+Venture capital is investment by specialist investors, often into young businesses with growth potential, usually in return for a share of the ownership.
+
+**How can a business deal with a forecast cash shortfall?**
+It can arrange an overdraft, ask suppliers for longer payment terms, delay a purchase, encourage customers to pay sooner or sell a spare asset.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 3: Business finance, sections 3.1 "Business finance - sources" (3.1.1 to 3.1.3) and 3.2 "Cash flow forecasting" (3.2.1 to 3.2.2).

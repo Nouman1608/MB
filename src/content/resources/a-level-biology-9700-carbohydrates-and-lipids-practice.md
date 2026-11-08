@@ -172,6 +172,20 @@ Learn it first: [Carbohydrates and lipids study guide](/resources/a-level-biolog
 - [Free 9700 AS diagnostic](/practice/9700/diagnostic/as/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What is the difference between condensation and hydrolysis?**
+Condensation joins two molecules and releases a water molecule; hydrolysis adds water to break the bond. Mixing these up is a common way to lose marks in Cambridge 9700 answers.
+
+**Which part of the Cambridge 9700 syllabus do these questions cover?**
+They cover section 2.2 Carbohydrates and lipids, learning outcomes 1 to 11, in Topic 2 Biological molecules.
+
+**What should you remember in Mr calculations for condensation products?**
+Subtract the mass of one water molecule for each bond formed. Forgetting to subtract the water is one of the most frequent errors.
+
+**Why must you write α-glucose or β-glucose rather than just glucose?**
+Different polysaccharides are built from different ring forms, so writing only "glucose" may not answer a question about a specific polysaccharide.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment -- Topic 2, Biological molecules (section 2.2 Carbohydrates and lipids).

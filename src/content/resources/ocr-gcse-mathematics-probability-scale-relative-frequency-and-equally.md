@@ -298,6 +298,20 @@ With 1000 trials, a gap of 0.061 is bigger than you would usually expect from ch
 
 Test yourself with the [practice questions](/resources/ocr-gcse-mathematics-probability-scale-relative-frequency-and-equally-practice/), use the [revision notes](/resources/ocr-gcse-mathematics-probability-scale-relative-frequency-and-equally-revision-notes/) close to the exam, and tick off 11.01a to 11.01d on the [checklist](/checklists/ocr/gcse/mathematics/). The [free diagnostics](/diagnostics/) are a quick check on the whole course.
 
+## Frequently asked questions
+
+**What is relative frequency?**
+Relative frequency is the number of times an outcome happened divided by the total number of trials. It is used as an estimate of probability when the probability cannot be worked out by reasoning.
+
+**What happens to relative frequency as the number of trials increases?**
+As the number of trials increases, the relative frequency settles closer to the theoretical probability, although it may not reach it exactly. The estimate from the largest sample is the most reliable.
+
+**If a fair coin lands heads four times in a row, is tails more likely next?**
+No. Past results do not change the next one, so the probability of heads on a fair coin is still 1/2. Short runs of the same result are normal in random experiments.
+
+**What is the difference between theoretical probability and relative frequency?**
+Theoretical probability comes from reasoning about equally likely outcomes and needs no trials. Relative frequency comes from the results of an experiment, so it is an estimate.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, published by OCR. Unit 11.01: Basic probability and experiments.

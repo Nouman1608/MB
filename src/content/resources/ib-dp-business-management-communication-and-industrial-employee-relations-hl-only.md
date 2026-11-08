@@ -216,6 +216,20 @@ Payroll is 160 × 38,000 = 6,080,000. The claim costs 5% of this, 304,000, and t
 
 Use the [revision notes](/resources/ib-dp-business-management-communication-and-industrial-employee-relations-hl-only-revision-notes/) for recall and the [practice questions](/resources/ib-dp-business-management-communication-and-industrial-employee-relations-hl-only-practice/) to test yourself. Check the [course hub](/boards/ib/ib-dp/business/), the [checklist](/checklists/ib/ib-dp/business/) and the [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What are the main barriers to communication in a business?**
+Common barriers include language and jargon, cultural differences, noise and distraction, information overload, many levels of hierarchy, poor channel choice, technology problems, lack of feedback, and distance or time zones. In IB Business Management section 2.6 barriers are taught at AO2, so you must apply them to the case and explain their effect.
+
+**What is a no-strike agreement?**
+A no-strike agreement is a deal in which a union agrees not to strike, typically in return for an agreed way of settling disputes. It protects continuity of output but removes employees' strongest form of pressure.
+
+**What is a single-union agreement and why might an employer want one?**
+A single-union agreement means the employer deals with one union for all employees rather than several. Bargaining is simpler and quicker, but one union may not represent every group of workers fairly.
+
+**What is industrial democracy in IB Business Management?**
+Employee participation and industrial democracy mean staff take part in decisions through works councils, suggestion schemes, consultation or representation at senior level. It can reduce conflict because staff feel heard, though decisions may slow down.
+
 ## Official syllabus
 
 IB *Business management guide*, first assessment 2024, International Baccalaureate Organization: sections 2.6 and 2.7 (2.7 is HL only).

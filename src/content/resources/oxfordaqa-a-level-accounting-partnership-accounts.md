@@ -264,6 +264,23 @@ Keverne is owed 24,750 in total. The 12,000 loan is a liability; interest on it 
 
 Condense the methods with the [revision notes](/resources/oxfordaqa-a-level-accounting-partnership-accounts-revision-notes/), then try the [practice questions](/resources/oxfordaqa-a-level-accounting-partnership-accounts-practice/). Another International A-level financial accounting topic is [accounting for organisations with incomplete records](/resources/oxfordaqa-a-level-accounting-accounting-for-organisations-with-incomplete/); for planning your revision see [OxfordAQA A-level Accounting exam preparation page](/resources/oxfordaqa-a-level-accounting-exam-preparation/).
 
+## Frequently asked questions
+
+**What does the appropriation account show in partnership accounts?**
+It shows how profit for the year is shared among the partners: interest on drawings is added, then salaries and interest on capital are deducted, and the residual profit or loss is shared in the profit-sharing ratio.
+
+**Why is interest on drawings added in the appropriation account?**
+Interest on drawings is a charge on the partners, so it increases the amount left to share. Subtracting it is a common error.
+
+**What is goodwill in a partnership?**
+Goodwill is the extra value of the business as a going concern over the fair value of its net assets, built up from reputation, customer loyalty and location. On a change in partnership it is created in the old ratio and, if not kept, written off in the new ratio.
+
+**How is a revaluation account used on admission or retirement?**
+Credit increases in asset values and debit decreases and any new liabilities to the revaluation account. The resulting profit or loss is shared between the old partners in the old profit-sharing ratio.
+
+**Is dissolution of partnerships examined in OxfordAQA 9615?**
+No. The specification notes that dissolution of partnerships will not be examined in section 3.2.5.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA: section 3.2.5, Partnership accounts.

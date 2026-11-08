@@ -227,6 +227,23 @@ A **non-governmental organization (NGO)** is independent of government and does 
 - Treating a cooperative as non-profit by definition. The guide places it among for-profit social enterprises.
 - Listing features with no link to the case.
 
+## Frequently asked questions
+
+**What are the four sectors of economic activity?**
+The IB guide names the primary sector (taking or growing output from nature), secondary (making goods), tertiary (providing services) and quaternary (knowledge-based activities such as research). Some textbooks place quaternary activity inside the tertiary sector, but the guide lists it separately.
+
+**What is value added?**
+Value added is the difference between what a business pays for its inputs and the price at which it sells its output.
+
+**What are the main challenges of starting a business?**
+Common challenges include raising start-up finance with no trading record, weak cash flow in the first months when costs come before sales, and competition from established firms. Opportunities include being your own boss, keeping the profit and meeting a gap in the market.
+
+**What is an NGO?**
+A non-governmental organization is independent of government and does not aim to make a profit. In the IB guide it is the non-profit form of social enterprise.
+
+**What is the difference between a sole trader and a partnership?**
+A sole trader has one owner who keeps all profit and decisions but carries all risk. A partnership has two or more owners who share capital, skills and decisions; in general both have unlimited liability.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. Sections 1.1 and 1.2 of Unit 1.

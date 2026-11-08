@@ -24,9 +24,9 @@ syllabusTopics:
     subtopic: "induced-potential-transformers-and-the-national-grid"
 description: "Twelve original AQA GCSE Physics 8463 magnetism questions on fields, electromagnets, F = BIl, motors, generators and transformers, with marked answers."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -187,6 +187,20 @@ Explain how closing the switch in circuit A starts the motor, and what happens w
 - [Printable checklist](/checklists/aqa/gcse/physics/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Which parts of AQA GCSE magnetism are Higher tier only?**
+In AQA GCSE Physics 8463 Topic 7, sections 4.7.1 and 4.7.2.1 are for both tiers, while the motor effect, F = BIl, the generator effect and transformers are Higher tier only. The topic is examined on Paper 2.
+
+**What is the difference between the motor effect and the generator effect?**
+In the motor effect, a current-carrying conductor in a magnetic field experiences a force. In the generator effect, moving a conductor relative to a magnetic field, or changing the field, induces a potential difference.
+
+**Why must you convert centimetres before using F = BIl?**
+F = BIl needs the length in metres. Using a length in centimetres gives a force 100 times too large and loses the conversion and final marks.
+
+**What mistakes lose marks in magnetism questions?**
+Common errors include drawing field lines without arrows or from south to north, saying a magnet can repel an unmagnetised piece of iron, and saying high-voltage transmission reduces resistance rather than current.
 
 ## Official syllabus
 

@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "accounting-concepts-and-modern-practice"
   - qualification: "o-level"
     topic: "accounting-concepts-and-modern-practice"
-description: "Exam-style questions with full worked answers on the ten accounting concepts, the five fundamental ethical principles, digital records and the four types of data storage, including a 20-mark structured question, for Cambridge IGCSE Accounting (0452) Topic 7, 2027-2029 syllabus."
+description: "Exam-style practice with worked answers on the ten concepts, ethical principles, digital records and data storage for Cambridge IGCSE Accounting 0452 Topic 7."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 publishedDate: 2026-09-16
 featured: false
 ---
@@ -360,3 +360,17 @@ in the question. The command words on page 23 of the syllabus define
 way" and "advise" as "write down a suggested course of action in a
 given situation". Keep calculations laid out line by line, as in Question 13,
 so each adjustment can earn its mark even if a later figure is wrong.
+
+## Frequently asked questions
+
+**How should you structure an answer about an accounting concept in Cambridge IGCSE Accounting 0452?**
+Name the concept, say what it requires, apply it to the figure in the question and state the effect on profit or on the statement of financial position. Topic 7 answers earn marks for application rather than recitation.
+
+**What does "discuss" mean in a 0452 accounting question?**
+The syllabus command words define "discuss" as writing about issues or topics in depth in a structured way. For a storage question, give both advantages and disadvantages and a conclusion that fits the business.
+
+**What does "advise" mean in a 0452 accounting question?**
+The syllabus defines "advise" as writing down a suggested course of action in a given situation. Recommend a clear action for the business described and support it.
+
+**How do you answer an ethics question in Topic 7?**
+Name the principle, then connect it to the person and the pressure described in the scenario, such as an owner asking for a higher profit to obtain a loan. Naming a principle with no link to the situation loses marks.

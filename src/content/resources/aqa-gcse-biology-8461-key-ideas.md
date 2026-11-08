@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "key-ideas-aqa-gcse-biology"
 description: "Study guide to the nine AQA GCSE Biology 8461 key ideas, showing where each appears in the specification and how to use them in linked answers."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This study guide teaches section 4.8, **Key ideas**, of the AQA GCSE Biology (8461) specification, for first teaching 2016 with exams from 2018 (version 1.0). The specification says these ideas are embedded throughout the subject content and underpin many aspects of the assessment, so they can appear on Paper 1 or Paper 2. Section 4.8 has no tier split of its own, but some content you use to explain the ideas is Higher tier only, and it is labelled. The exams run every May/June for the life of the specification.
@@ -242,6 +242,23 @@ Each numbered step is a separate creditworthy point. Link them with "so" or "bec
 - Describing evolution as organisms "choosing" to adapt -- selection acts on variation that already exists.
 - Stating that photosynthesis is exothermic -- it is endothermic; respiration is exothermic.
 - Writing one long sentence for a linked answer; separate clear steps earn separate marks.
+
+## Frequently asked questions
+
+**Are there new facts to learn in AQA GCSE Biology section 4.8?**
+No. Section 4.8 lists nine key ideas that link content from across the specification; you use them to connect topics in linked answers.
+
+**What are the nine key ideas in AQA GCSE Biology?**
+Structure and function of molecules; cells, tissues, organs and systems; populations, communities and ecosystems; interdependence and adaptation; photosynthesis; respiration and metabolism; cycling of chemicals; genome and environment; and evolution by natural selection.
+
+**Why can't a plant grow well in soil lacking nitrate?**
+Plants need nitrate ions, as well as glucose from photosynthesis, to make amino acids and proteins. Without nitrate fewer proteins are made, so growth is limited.
+
+**Is photosynthesis endothermic or exothermic?**
+Photosynthesis is endothermic because it takes in energy from light. Respiration is exothermic.
+
+**Are enzymes killed at high temperatures?**
+No. Enzymes are denatured: the shape of the active site changes so the substrate no longer fits.
 
 ## Official syllabus
 

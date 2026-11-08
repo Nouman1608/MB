@@ -12,6 +12,21 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-cognition-and-behaviour-9218"
+  - qualification: "igcse"
+    topic: "paper-1-cognition-and-behaviour-9218"
+    subtopic: "memory-9218"
+  - qualification: "igcse"
+    topic: "paper-1-cognition-and-behaviour-9218"
+    subtopic: "perception-9218"
+  - qualification: "igcse"
+    topic: "paper-1-cognition-and-behaviour-9218"
+    subtopic: "biopsychology-9218"
+  - qualification: "igcse"
+    topic: "paper-1-cognition-and-behaviour-9218"
+    subtopic: "research-methods-9218"
+  - qualification: "igcse"
+    topic: "paper-2-social-context-and-behaviour-9218"
+    subtopic: "research-methods-paper2-9218"
 description: "Condensed recall notes on memory, perception, biopsychology, research methods and ethics for International GCSE Psychology."
 author: "marlbridge-academic-team"
 specCheck:
@@ -113,3 +128,17 @@ Neurological damage (stroke, injury) can affect motor abilities and behaviour de
 5. Distinguish the independent from the dependent variable.
 
 **Answers:** 1. Five to nine items, held for roughly 18 to 30 seconds. 2. Forgetting caused by the absence of the cue needed to access a stored memory; it explains why a memory can be recovered later with the right prompt, which decay cannot. 3. That memory is reconstructive — recall is shaped by cultural schemas, so details are omitted, shortened or altered to fit expectations. 4. Gregory's constructivist theory; its weakness is that it struggles to explain how perception is normally so fast and accurate. 5. The independent variable is what the researcher changes; the dependent variable is what is measured.
+
+## Frequently asked questions
+
+**What is the working memory model?**
+It replaces the single short-term store with four components: the central executive, the phonological loop, the visuo-spatial sketchpad and the episodic buffer. Baddeley and Hitch's dual-task studies support it.
+
+**What is retrieval failure?**
+Retrieval failure is forgetting caused by the absence of the cue needed to access a stored memory. It explains why a memory can return later with the right prompt, which decay cannot.
+
+**What did Penfield's study of the interpretive cortex show?**
+Electrical stimulation of the temporal lobes during surgery triggered vivid memories and sensations, linking this area to memory and interpretation of experience.
+
+**What is Hebb's theory of learning?**
+Hebb's theory says that neurons which fire together repeatedly strengthen their connection, so learning involves neuronal growth.

@@ -123,6 +123,17 @@ Evaluate whether Draymar should spend the 12,500 on the programme. **[9]**
 - Giving two similar points and expecting them to count as two different ones.
 - Forgetting that a cost advantage can be offset by delivery, quality or brand.
 
+## Frequently asked questions
+
+**Does a business with little competition face no risk?**
+No. A business with minimal competition can still face other risks, such as changing tastes, rising costs or new entrants, so writing "no competition means no risk" is a common error.
+
+**How do you avoid a generic conclusion in an evaluate question?**
+Use the figures and facts in the stem to support your judgement, such as the size of a cost compared with revenue or profit. A conclusion that would suit any business earns fewer marks.
+
+**Which part of OxfordAQA IGCSE Business 9225 do these questions cover?**
+They cover sections 3.2.5 Legislation and 3.2.6 Competitive environment of OxfordAQA International GCSE Business (9225).
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/oxfordaqa-igcse-business-legislation-and-competitive-environment-revision-notes/) and re-read the [study guide](/resources/oxfordaqa-igcse-business-legislation-and-competitive-environment/).

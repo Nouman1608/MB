@@ -168,6 +168,23 @@ These questions follow section 1.4 of the Cambridge O Level Statistics syllabus 
 - All [free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What makes a good set of response options for a closed question?**
+The options must be exhaustive, so every possible answer has an option, and mutually exclusive, so no answer fits two options. Overlapping bands such as 20–30 and 30–40, or gaps between bands, lose marks.
+
+**How do you answer a question asking you to rewrite a badly worded question?**
+Name the exact fault, such as leading, loaded, vague or double-barrelled, and then write a corrected version. Naming the fault without rewriting, or keeping the loaded word in the rewrite, loses marks.
+
+**How do you calculate a response rate?**
+Divide the number of usable replies by the number of people asked and multiply by 100. Use the number usable, not the number returned, since spoiled forms cannot be counted.
+
+**Why should advantages of open and closed questions be linked to the survey?**
+General statements about question types are weaker than points applied to the survey in the question. When two separate points are asked for, giving the same advantage twice in different words earns only one mark.
+
+**Which part of the Cambridge O Level Statistics 4040 syllabus do these questions cover?**
+They cover section 1.4, general ideas of surveys, including closed and open questions in questionnaires, from the 4040 syllabus for examination in 2025, 2026 and 2027. The questions are original, not past-paper questions.
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, published by Cambridge University Press & Assessment. Section 1.4: general ideas of surveys, including the use of closed and open questions in questionnaires.

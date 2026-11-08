@@ -13,6 +13,15 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-introductory-topics-9685"
+  - qualification: "a-level"
+    topic: "unit-1-introductory-topics-9685"
+    subtopic: "memory-9685"
+  - qualification: "a-level"
+    topic: "unit-1-introductory-topics-9685"
+    subtopic: "social-psychology-9685"
+  - qualification: "a-level"
+    topic: "unit-1-introductory-topics-9685"
+    subtopic: "psychopathology-9685"
 description: "Memory, social psychology, and psychopathology -- the full content of Unit 1 for OxfordAQA International AS and A-Level Psychology (9685)."
 author: "marlbridge-academic-team"
 specCheck:
@@ -81,11 +90,11 @@ specification, Version 3.1 —
 
 **Conformity** — yielding to group pressure — occurs at three levels: **compliance** (public agreement only), **identification** (adopting the group's view while with them), and **internalisation** (genuine private acceptance). Two explanations account for it: **normative social influence** (the desire to be liked) and **informational social influence** (the desire to be right).
 
-**Asch's** line-judgement studies showed conformity rising with group size up to about three, falling sharply when one confederate dissented, and increasing with task difficulty. **Zimbardo's** prison study demonstrated the power of social roles; it is not itself named in the specification's social psychology sub-topic, but the sub-topic's bullets are each introduced with "including," so this well-known study remains legitimately teachable as an illustration of conformity to social roles. It attracts serious ethical and methodological criticism.
+**Asch's** line-judgement studies showed conformity rising with group size up to about three, falling sharply when one confederate dissented, and increasing with task difficulty. *Enrichment, not required:* **Zimbardo's** prison study is often used to illustrate conformity to social roles, but neither the study nor conformity to social roles appears in the 9685 social psychology content, so an exam question will not name it. It can support a point about situational pressure in an evaluation, and it attracts serious ethical and methodological criticism.
 
 **Obedience** — following a direct order from an authority figure. **Milgram** found 65% of participants continued to 450 volts. Situational variables that reduced obedience included **proximity to the victim** (obedience fell as the victim was brought physically closer), a **less prestigious location**, the **presence of a disobedient peer/ally**, and a **reduction in the authority figure's apparent status** — in one variation, replacing the lab-coated experimenter with an ordinarily dressed member of the public cut obedience to about a fifth. Explanations include the **agentic state** and **legitimacy of authority**; the dispositional alternative is the **authoritarian personality**.
 
-**Resistance** comes from social support and an internal **locus of control**. **Minority influence** — also not itself named in this sub-topic, but likewise legitimately teachable under its "including" wording — works through consistency, commitment and flexibility.
+**Resistance** comes from social support and an internal **locus of control**. *Enrichment, not required:* **minority influence** (consistency, commitment and flexibility) is not in the 9685 content either. Questions on this sub-topic will be set on what the specification names: types of and explanations for conformity, Asch's variables, explanations of and situational variables in obedience, and resistance through social support and locus of control.
 
 ## Memory
 
@@ -148,3 +157,17 @@ Confusing normative with informational influence. Describing compliance as inter
 - Distinguish episodic, semantic and procedural long-term memory.
 - Evaluate eyewitness testimony research and outline the cognitive interview.
 - Describe the two named disorders (phobias, depression) with their defining characteristics, explanations and treatments, including the components of systematic desensitisation and CBT.
+
+## Frequently asked questions
+
+**How is Unit 1 of OxfordAQA International A-Level Psychology 9685 assessed?**
+Unit 1 is a 1.5-hour written exam worth 90 marks, split into three 30-mark sections: Memory, Social Psychology and Psychopathology. It is 50% of the International AS and 20% of the full International A-level.
+
+**Which disorders are named in Unit 1 Psychopathology?**
+The specification names two disorders in this unit: phobias and depression. OCD is not named here; it belongs to the OxfordAQA International GCSE Psychology (9218) specification.
+
+**Are explanations for forgetting part of the 9685 memory content?**
+No. Section 3.1.1 lists the multi-store model, the working memory model, types of long-term memory, and eyewitness testimony with the cognitive interview. Interference and retrieval failure are not included.
+
+**What is the difference between normative and informational social influence?**
+Normative social influence is conformity driven by the desire to be liked. Informational social influence is conformity driven by the desire to be right.

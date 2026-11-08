@@ -12,11 +12,11 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "summary-representation-of-data-4040"
-description: "Original exam-style practice questions with full worked answers on tabulation, chart selection and interpretation of data for Cambridge O Level Statistics Topic 2 (4040)."
+description: "Original questions with worked answers on two-way tables, choosing and justifying charts, and interpreting data, for Cambridge O Level Statistics 4040 Topic 2."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -123,3 +123,20 @@ concrete, rather than abstract textbook knowledge.
 - Confusing a pie chart's strength (showing proportion) with a bar chart's strength (showing exact comparative values).
 - Reading a two-way table's row and column totals inaccurately under time pressure, which then produces an incorrect chart or conclusion built on that misread figure.
 - Answering an interpretation question (like Q5) with a single vague observation rather than two clearly separate, chart-grounded comparisons.
+
+## Frequently asked questions
+
+**How do you justify a choice of chart in O Level Statistics 4040?**
+Name the specific feature of the data that makes the chart suitable, such as proportions of a whole, individual values that need preserving, or spread and median. A generic answer such as "it is clear and easy to read" does not earn the marks.
+
+**What skills does the summary representation topic test?**
+It tests three separate skills: constructing a representation correctly, choosing the right representation and justifying the choice, and interpreting a representation already given. Practise each one on its own.
+
+**Why do interpretation answers lose marks?**
+Describing a chart's appearance, such as "the bars are different heights", earns little. State a data-based conclusion instead, and when two comparisons are asked for, make two clearly separate, chart-grounded points.
+
+**Does an unordered stem-and-leaf diagram lose marks?**
+Yes. A stem-and-leaf diagram with an unordered leaf row loses marks even when the underlying values are correct.
+
+**Are these Topic 2 practice questions from Cambridge past papers?**
+No. They are original questions written for revision on Topic 2 of Cambridge O Level Statistics 4040 and do not replicate the exam's structure or mark tariffs. Use them alongside official past papers.

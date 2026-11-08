@@ -17,9 +17,9 @@ syllabusTopics:
     topic: "ib-myp-sciences-related-concepts"
 description: "IB MYP Sciences study guide to variation, natural selection, evidence for evolution, food webs, competition, symbiosis and population sampling."
 author: "marlbridge-academic-team"
-reviewer: "ameer-hamza"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ameer-hamza on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -210,6 +210,23 @@ The method assumes: marks do not rub off or harm the animal; marked animals mix 
 - Forgetting to divide by quadrat area when the quadrat is not 1 m².
 - Stating that a predator peak happens at the same time as the prey peak. It lags.
 - Calling any close relationship "symbiosis" without saying which type, or calling commensalism mutualism.
+
+## Frequently asked questions
+
+**How do you explain natural selection step by step?**
+Give the full chain: there is genetic variation; more offspring are produced than can survive, so there is competition or predation; individuals with a suitable variation are more likely to survive and reproduce; they pass on the alleles; over many generations the advantageous allele becomes more common.
+
+**What is the difference between continuous and discontinuous variation?**
+Continuous variation can take any value in a range, such as height, and is plotted as a histogram. Discontinuous variation falls into distinct groups, such as ABO blood group, and is plotted as a bar chart.
+
+**Why do food chains rarely have more than four or five levels?**
+Only part of the energy at one trophic level reaches the next, because energy is lost as heat from respiration, in movement and in parts not eaten or digested. After a few levels too little energy is left to support another level.
+
+**Why does the predator population peak after the prey population?**
+When prey numbers rise there is more food, so predator numbers rise after a lag. More predators then eat more prey, prey numbers fall, and predator numbers fall in turn.
+
+**Are evolution and interactions between organisms in the IB MYP Sciences syllabus?**
+The IB MYP Sciences subject brief (from 2014) lists evolution and interactions between organisms among the topics explored in the on-screen examinations. Schools design their own units, so the depth may vary.
 
 ## Next steps
 

@@ -255,6 +255,20 @@ At a neuromuscular junction the postsynaptic membrane belongs to a muscle fibre 
 - Saying "calcium causes release" without saying vesicles fuse with the membrane.
 - Giving the drug effect without linking it to the step that changes.
 
+## Frequently asked questions
+
+**What is the difference between spatial and temporal summation?**
+Spatial summation is when several presynaptic neurones release transmitter onto the same postsynaptic neurone at the same time. Temporal summation is when one presynaptic neurone fires repeatedly, so depolarisations add up before earlier ones fade.
+
+**How do inhibitory synapses work?**
+An inhibitory transmitter opens Cl⁻ and K⁺ channels on the postsynaptic membrane. Cl⁻ diffuses in and K⁺ diffuses out, hyperpolarising the membrane, so more depolarisation is needed to reach threshold.
+
+**How do you calculate the maximum frequency of nerve impulses?**
+Maximum frequency equals 1 divided by the refractory period, with the period in seconds. For example, a refractory period of 1.25 ms gives 1 ÷ 0.00125 s = 800 impulses per second.
+
+**How is a neuromuscular junction different from a synapse between neurones?**
+At a neuromuscular junction the postsynaptic cell is a muscle fibre, and its membrane is deeply folded with more receptors and more acetylcholinesterase. It is always excitatory, whereas a neurone-to-neurone synapse can be excitatory or inhibitory.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), Version 5.1, for International A-level exams May/June 2018 onwards, published by OxfordAQA. Notes follow sections 3.4.3.1 and 3.4.3.2.

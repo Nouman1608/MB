@@ -234,6 +234,20 @@ Total = 240 500 J = 2.4 × 10⁵ J. The melting stage is the largest, even thoug
 * Forgetting that a flat part of a graph is a change of state, not "no energy being supplied".
 * Reading a cooling curve as heating, or vice versa.
 
+## Frequently asked questions
+
+**How are particles arranged in solids, liquids and gases?**
+In a solid the particles touch in a regular pattern and vibrate in place. In a liquid they touch with no pattern and slide past each other. In a gas they are far apart and move randomly in straight lines between collisions.
+
+**Why are metals good conductors of heat?**
+Metals contain free electrons that move through the lattice, collide with particles and share energy quickly. Non-metals have no free electrons, so they conduct heat much more slowly.
+
+**Why can convection not happen in a solid?**
+Convection needs the heated part of a fluid to expand, become less dense and rise while cooler fluid sinks. The particles in a solid cannot flow, so convection currents cannot form.
+
+**How does temperature difference affect the rate of cooling?**
+The bigger the temperature difference between an object and its surroundings, the faster it transfers energy by heating. A hot drink cools quickly at first and more slowly as it nears room temperature.
+
 ## Official syllabus
 
 These notes are aligned to sections 3.4.1 and 3.4.2 of the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, published by OxfordAQA.

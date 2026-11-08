@@ -18,6 +18,8 @@ description: "Study guide to hypothesis testing for OCR A Level Mathematics A: t
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08 recheck: added a specification note: H240 2.05c covers the significance level as the probability of incorrectly rejecting H0, but Type I/II error terms and Type II calculations are not in the H240 specification, so that material is now labelled as extension. Please re-review."
+reviewNeeded: true
 ---
 
 This guide follows the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. It covers sections 2.05a to 2.05e of Statistical Hypothesis Testing. Sections 2.05a to 2.05c are Stage 1 content, common with AS. Sections 2.05d and 2.05e, the sample mean and the test for a normal mean, are **A Level only**. Hypothesis testing for correlation (2.05f and 2.05g) has its own pages, so it is not repeated here.
@@ -124,6 +126,8 @@ Now suppose 4 customers order a hot drink. Using the p-value, 2 × P(X ≤ 4) = 
 
 
 ## 2.05c: inference and errors
+
+> **Specification note.** H240 statement 2.05c asks you to appreciate that the significance level is the probability of incorrectly rejecting the null hypothesis. The terms "Type I error" and "Type II error", and Type II error calculations, are not listed in the H240 specification, so the Type II material on this page is extension work that helps understanding but is not required for the exam.
 
 A sample is used to infer something about a whole population, so the conclusion carries risk. Two things can go wrong.
 
@@ -264,6 +268,20 @@ P(Type II) = P(X̄ < 34.728) = P(Z < −1.066) = 0.143
 - Forgetting to halve the level (or double the probability) in a two-tail test.
 - Dividing by σ rather than σ/√n when standardising a sample mean.
 - Concluding "the machine has changed" with certainty, or writing "accept H₀".
+
+## Frequently asked questions
+
+**What does hypothesis testing cover in OCR A Level Mathematics A (H240)?**
+Sections 2.05a to 2.05e cover the language of hypothesis testing, binomial tests, inference and the significance level, the sample mean, and the test for a normal mean. The sample mean and normal mean test, 2.05d and 2.05e, are A Level only.
+
+**What is a critical region?**
+The critical region is every outcome that would make you reject H₀. Its boundary is the critical value, and the outcomes outside it form the acceptance region.
+
+**What significance levels are used in hypothesis tests?**
+The significance level is set before you look at the data; typical levels are 10%, 5% and 1%.
+
+**Why should you never write "accept H₀"?**
+A test cannot prove anything, so conclusions must be tentative. Say that the data do not support rejecting H₀ at the stated level, and give the meaning in context.
 
 ## Next steps
 

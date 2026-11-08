@@ -230,6 +230,23 @@ When all firms match, nobody gains share and total revenue falls because demand 
 - Evaluation that is one-sided or missing
 - Using a one-off game to explain a market where firms meet again and again, without noting the difference
 
+## Frequently asked questions
+
+**What is a dominant strategy in game theory?**
+A dominant strategy is the best choice for a firm whatever its rival does. If both firms have a dominant strategy, that pair of choices is the likely outcome, even when a different pair would give both firms higher profit.
+
+**When is collusion more likely in an oligopoly?**
+Collusion is more likely when there are few firms that know each other, products are similar, demand and costs are stable, entry is difficult and competition law is weak or rarely enforced. It is less likely with many firms, very different products or costs, volatile demand or heavy penalties.
+
+**What is the difference between dominant and barometric price leadership?**
+A dominant price leader is usually the largest firm in the market, and others follow its prices. A barometric leader is followed because it judges market conditions well. Both are forms of tacit collusion that help firms avoid a price war.
+
+**Why can a price war reduce revenue for every firm?**
+When one firm cuts price and rivals match, no firm gains market share, so the effect depends on market demand. If market demand is price inelastic, the rise in quantity is proportionately smaller than the fall in price, so total revenue falls.
+
+**What are the main barriers to entry in oligopoly in Edexcel IAL Economics?**
+The Edexcel IAL Economics specification (YEC11, section 3.3.3 item 5) lists economies of scale, limit pricing, patents, branding, sunk costs and legal barriers. Each deters entry in a different way, for example by giving the entrant higher unit costs or making entry riskier.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, Pearson Education Limited: section 3.3.3, Market structures and contestability, item 5, Oligopoly (points a to g), in Unit 3, Business behaviour.

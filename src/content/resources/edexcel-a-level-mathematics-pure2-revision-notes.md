@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A Level Mathematics: Pure Mathematics 2 — Revision Notes"
+title: "Edexcel International A Level Mathematics: Pure Mathematics 2 — Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
 level: ["a-levels"]
@@ -12,13 +12,13 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-p2-pure-mathematics-2-edexcel-alevel-maths"
-description: "Condensed recall notes on proof, algebra and functions, sequences and series, exponentials/logarithms, trigonometry, differentiation and integration for Pearson Edexcel International A Level Mathematics (YMA01), Unit P2."
+description: "Revision notes for Edexcel IAL Mathematics YMA01 Unit P2: proof, factor theorem, circles, series, logarithms, trigonometry, differentiation and integration."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -267,6 +267,20 @@ Because every route through YMA01 requires all four Pure Mathematics units regar
 - Find and classify the stationary points of y = x³ − 3x.
 - Solve 2 sin²θ − 1 = 0 for 0° ≤ θ ≤ 360°.
 - Identify whether a sequence with terms 5, 10, 20, 40 is arithmetic or geometric, and find its next term.
+
+## Frequently asked questions
+
+**What is the difference between proof by deduction and proof by exhaustion?**
+Proof by deduction is a general algebraic argument that holds for all cases. Proof by exhaustion checks every case in a finite list, and you must confirm that the list is complete.
+
+**How do you find the centre and radius of a circle from its equation?**
+Complete the square in both x and y to write the equation as (x − a)² + (y − b)² = r². The centre is (a, b) and the radius is r.
+
+**How do you find the area between a curve and the x-axis when part of it is below the axis?**
+Split the integral at the roots and add the sizes of the separate areas. Adding signed definite integrals directly gives the wrong total area.
+
+**Are the chain and product rules in Edexcel IAL Pure 2?**
+No. The chain, product and quotient rules are introduced later, in Pure Mathematics 3. Pure 2 applies differentiation to stationary points and integration to definite integrals and areas.
 
 ## Related resources
 

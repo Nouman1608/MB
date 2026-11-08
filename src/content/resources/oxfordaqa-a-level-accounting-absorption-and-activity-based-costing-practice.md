@@ -208,6 +208,20 @@ Revenue [1]; variable cost of sales 216,200 [1]; contribution 235,000 [1]; profi
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Where do students usually lose marks on absorption and activity based costing questions?**
+Common losses are using budgeted hours instead of actual hours to find overheads absorbed, reversing the treatment of under- and over-absorption in the profit statement, and dividing a cost pool by units of output instead of the total driver quantity.
+
+**How should I set out an activity based costing calculation?**
+Show every driver rate and every attributed total, so an examiner can follow your method even if a final figure is wrong. Check that the attributed totals add back to the overheads in the pools.
+
+**What is the difference between mark-up and margin in pricing questions?**
+Mark-up is a percentage of cost, while margin is a percentage of the selling price. Read which one the question gives, because confusing them is a common way to lose marks.
+
+**How do I write a strong evaluation in OxfordAQA International A-level Accounting 9615?**
+Use the figures in the question on both sides of the argument and end with a supported decision. Generic lists of benefits and limitations add little, and evaluations that never reach a decision lose marks.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards (OxfordAQA). Section 3.2.2 Absorption and activity based costing.

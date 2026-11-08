@@ -16,9 +16,9 @@ syllabusTopics:
     subtopic: "as-similarities-and-trends-in-the-properties-of-the-group-2-metals-and-their-compounds"
 description: "Condensed recall notes on Group 2 reactions, thermal stability and solubility trends for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -139,3 +139,17 @@ At AS, describing the trend correctly with the equations above is sufficient; th
 
 For the full reaction equations, including the elements' reactions
 with oxygen and acids, see the [Group 2: The Alkaline Earth Metals study guide](/resources/as-group-2-the-alkaline-earth-metals/).
+
+## Frequently asked questions
+
+**How does reactivity change down Group 2?**
+Reactivity increases down Group 2 because the outer electrons are further from the nucleus and more shielded, so they are lost more easily. This is covered in Cambridge International AS & A Level Chemistry 9701.
+
+**Does magnesium react with cold water?**
+Magnesium reacts only very slowly with cold water, not vigorously; it reacts readily with steam. Saying it reacts vigorously with cold water is a common exam trap.
+
+**What charge do Group 2 ions have?**
+Group 2 elements always form 2+ ions, such as Mg²⁺ and Ca²⁺, by losing their two outer electrons. Writing them as 1+ ions is a mistake.
+
+**What gas is produced when a Group 2 nitrate decomposes?**
+Thermal decomposition of a Group 2 nitrate gives the metal oxide, brown nitrogen dioxide gas and oxygen. Forgetting the brown NO₂ is a common error.

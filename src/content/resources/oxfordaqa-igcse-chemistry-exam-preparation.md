@@ -9,13 +9,13 @@ qualifications: ["igcse"]
 syllabusCodes: ["9202"]
 syllabusSeries: "First teaching 2016, first examined 2018"
 order: 3
-description: "Why either OxfordAQA International GCSE Chemistry 9202 paper can assess any topic, how practical work is examined without a practical exam, the calculation set worth drilling, and a worked moles routine."
+description: "How OxfordAQA International GCSE Chemistry 9202 is examined: two papers with no content split, practicals tested in writing, calculations and a moles routine."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 ---
 
 OxfordAQA International GCSE Chemistry (9202) is a linear, untiered qualification taken over two years
@@ -131,6 +131,23 @@ multi-mark question rather than a single mark. 3. Through the written papers -- 
 practical exam, so apparatus, method, sources of error and improvements must be revised as written
 content. 4. In the structural explanation -- why the bonding or structure produces the property --
 rather than in stating the property itself.
+
+## Frequently asked questions
+
+**How many papers are there in OxfordAQA International GCSE Chemistry 9202?**
+There are two equally weighted written papers, each 1 hour 30 minutes, worth 90 marks and 50% of the qualification. The qualification is linear and untiered.
+
+**Can any topic come up on either OxfordAQA 9202 Chemistry paper?**
+Yes. Any part of the specification may be assessed on either paper, because there is no content split. A topic examined on the first paper can reappear on the second, so keep full coverage in your revision.
+
+**Is there a practical exam in OxfordAQA International GCSE Chemistry?**
+No. There is no separate practical examination; the five required practicals are assessed through written questions about apparatus, method, sources of error and improvements.
+
+**Which required practicals are in OxfordAQA 9202 Chemistry?**
+The five required practicals are the electrolysis of copper sulfate solution, flame tests to identify a metal ion, finding the concentration of a strong acid by titration with a strong base, factors affecting the rate of a reaction, and the test for a double bond in an unknown hydrocarbon.
+
+**How should you pace a 90-mark, 90-minute paper?**
+Aim for roughly a mark a minute and track marks against minutes as you go. Extended-response questions come later in the paper, so falling behind early leaves too little thinking time for them.
 
 *Written against the assessment section of OxfordAQA's own International GCSE Chemistry (9202)
 qualification page (official OxfordAQA page, verified 2026-08-28). The calculation routine above is an

@@ -161,6 +161,23 @@ Read the [study guide](/resources/oxfordaqa-a-level-physics-dc-circuits-potentia
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these OxfordAQA A-level Physics circuit questions cover?**
+They cover sections 3.4.4, 3.4.5 and 3.4.6 of OxfordAQA International AS and A-level Physics (9630): series and parallel circuits, energy and power, potential dividers, and emf and internal resistance.
+
+**What is the most common slip in parallel resistance calculations?**
+Forgetting to invert 1/R at the end. Work out the sum of the reciprocals, then take its reciprocal to get the total resistance.
+
+**How do I choose between P = I²R and P = V²/R?**
+Use P = I²R when the current is known and common, as in series, and use P = V²/R only with the pd across that particular resistor. Using a pd from the wrong part of the circuit gives a wrong answer.
+
+**How should I answer a sensor potential divider question?**
+State which component the output is measured across, then explain how its resistance changes and so how its share of the pd changes. A trend with no mention of where the output is taken gains little credit.
+
+**What mistakes are common with internal resistance?**
+Dividing the emf by the current and calling the result the internal resistance, giving the terminal pd where the emf is asked for, and leaving out the combined emf and internal resistance for cells in series or parallel.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Physics (9630)*, Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Sections 3.4.4, 3.4.5 and 3.4.6.

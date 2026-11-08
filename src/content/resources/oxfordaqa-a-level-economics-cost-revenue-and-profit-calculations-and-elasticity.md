@@ -237,6 +237,23 @@ A number is not an answer. Add a chain: the value, what it means for buyers or s
 - Forgetting fixed cost when moving from profit per unit to total profit.
 - Claiming a revenue rise means a profit rise.
 
+## Frequently asked questions
+
+**How does price elasticity of demand affect total revenue?**
+With inelastic demand, a price rise increases total revenue and a price cut reduces it. With elastic demand the opposite happens, and with unit elastic demand total revenue does not change.
+
+**Why does marginal cost below average cost pull average cost down?**
+If an extra unit costs less than the current average, adding it lowers the average; if it costs more, it raises the average. So average cost falls while marginal cost is below it and rises once marginal cost is above it.
+
+**How do you calculate income elasticity of demand and cross elasticity of demand?**
+Income elasticity is the percentage change in quantity demanded divided by the percentage change in income. Cross elasticity is the percentage change in quantity demanded of good A divided by the percentage change in the price of good B.
+
+**Why will a profit-maximising firm not produce where demand is inelastic?**
+Where demand is inelastic, marginal revenue is negative. A profit-maximising firm sets MR equal to MC, and marginal cost cannot be negative, so it operates on the elastic part of its demand curve.
+
+**Do I need to calculate marginal values for OxfordAQA 9640 AS exams?**
+The OxfordAQA International AS and A-level Economics (9640) specification says marginal values must be calculated for A2 assessments. Total and average cost, revenue and profit, and the elasticity calculations, apply at both AS and A2.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), version 1.2, published by OxfordAQA: section 3.5 (QS6 and QS8), and sections 3.1.2.2, 3.1.2.4, 3.1.3.3 to 3.1.3.5, 3.3.2.4 and 3.3.2.5.

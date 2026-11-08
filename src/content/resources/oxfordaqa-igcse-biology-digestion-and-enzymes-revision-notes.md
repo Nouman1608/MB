@@ -305,6 +305,20 @@ For data questions: find the highest value to give the best temperature or pH, d
 - Forgetting control variables such as volume, concentration and the factor that is not being tested.
 - Saying that low temperature denatures enzymes.
 
+## Frequently asked questions
+
+**What are enzymes in IGCSE Biology?**
+Enzymes are large proteins that act as biological catalysts: they increase the rate of a reaction without being used up. In digestion they speed up the breakdown of large insoluble molecules into small soluble ones.
+
+**Where is bile made and stored?**
+Bile is made in the liver and stored in the gall bladder before being released into the small intestine, where it neutralises acid and emulsifies fat.
+
+**Where is water mainly absorbed in the digestive system?**
+Much of the water mixed with food is absorbed into the blood in the large intestine. Giving the small intestine as the main site of water absorption is a common mistake.
+
+**Does low temperature denature enzymes?**
+No. At low temperature the reaction is only slow, because there are fewer successful collisions, and this is reversible. High temperature denatures the enzyme permanently.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. These notes cover section 3.2.4 Digestion, parts a to c.

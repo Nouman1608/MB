@@ -23,11 +23,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-superposition"
     subtopic: "as-the-diffraction-grating"
-description: "Original exam-style practice questions with full worked answers on interference, diffraction gratings and stationary waves for Cambridge AS & A Level Physics 9702."
+description: "Original practice questions with worked answers on interference, coherence, diffraction gratings and stationary waves for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -150,3 +150,17 @@ Using r₁² − r₂² = (r₁ − r₂)(r₁ + r₂) = 2 × 0.75 × x = 1.5x, 
 - Rounding the maximum order **up**.
 - Using λ instead of λ/2 for the fundamental on a fixed string.
 - Saying stationary waves transfer energy.
+
+## Frequently asked questions
+
+**What path difference gives constructive or destructive interference?**
+For two coherent sources in phase, constructive interference occurs where the path difference is a whole number of wavelengths, nλ, and destructive interference where it is (n + ½)λ.
+
+**Why does a pipe closed at one end only give odd harmonics?**
+A closed pipe must have a node at the closed end and an antinode at the open end, so its fundamental has L = λ/4. Only odd harmonics fit those end conditions.
+
+**Which demonstrations of two-source interference are in Cambridge 9702?**
+The Cambridge 9702 syllabus includes two-source interference demonstrated with water waves in a ripple tank, sound from two loudspeakers on one signal generator, light through a double slit, and microwaves through two gaps.
+
+**What mistakes lose marks in superposition questions?**
+Common errors include saying coherence requires equal amplitude, reversing the relationship between slit separation and fringe spacing, rounding the maximum grating order up, and saying stationary waves transfer energy.

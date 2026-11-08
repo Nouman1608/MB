@@ -12,13 +12,13 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "people-in-business-cambridge-igcse-business"
-description: "Condensed recall notes on motivation theory, organisational structure, leadership styles, recruitment/training, and communication for Cambridge IGCSE Business Studies (0450)."
+description: "Condensed revision notes on motivation theory, structure, leadership, recruitment, training and communication for Cambridge IGCSE Business Studies 0450."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-05
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -252,3 +252,16 @@ rather than reciting a definition that could apply to any business.
   <figcaption>Maslow's hierarchy ranks human needs, and each level can be linked to what work offers.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Why might a pay rise not improve motivation?**
+In Herzberg's theory pay is a hygiene factor: raising it removes a source of dissatisfaction but does not by itself create lasting motivation. Motivators such as recognition, responsibility and interesting work are needed as well.
+
+**What are the three types of training in IGCSE Business Studies 0450?**
+Induction training helps a new employee settle in, on-the-job training means learning while working, and off-the-job training uses courses away from the workplace. Know a benefit and a limitation of each.
+
+**What are common barriers to communication?**
+Common barriers include noise, jargon, a poor choice of communication method and a long chain of command. A business can reduce them through training, choosing a method suited to the message and shortening reporting lines.
+
+**What legal controls over employment do you need to know?**
+Contracts of employment, unfair dismissal, discrimination, health and safety, and the legal minimum wage, together with their impact on employers and employees.

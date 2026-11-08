@@ -12,13 +12,13 @@ order: 3
 syllabusTopics:
   - qualification: "gcse"
     topic: "the-role-of-markets-and-money-ocr-gcse-economics"
-description: "Original exam-style practice questions with full worked answers on demand and supply, equilibrium, elasticity, competition, the labour market and the role of money, for OCR GCSE (9-1) Economics (J205)."
+description: "Original practice questions with worked answers on demand, supply, elasticity, competition, labour markets and money for OCR GCSE Economics (J205) Topic 2."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-04
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -103,3 +103,17 @@ Question 4 is built around the single most heavily tested distinction in this to
 ## Approaching markets and money questions
 
 Before attempting any question involving a demand or supply curve, decide explicitly whether the cause described is a change in the good's own price (a movement along the curve) or a change in anything else (a shift of the whole curve), since this single judgement underpins nearly every question in this topic. For calculation questions involving cost, revenue, profit or net pay, write out the relevant formula before substituting the numbers given, since method marks are available even where an arithmetic slip affects the final figure. For "evaluate" questions specifically, structure the answer with a clear case for, a clear case against, and a final judgement that explicitly weighs the two rather than simply presenting both sides and stopping — OCR mark schemes reward this evaluative structure directly, and its absence is one of the most common reasons a strong explain-level answer fails to reach the highest mark band.
+
+## Frequently asked questions
+
+**What is the difference between a shift of the demand curve and a movement along it?**
+A change in the product's own price causes a movement along the demand curve. A change in any other factor, such as income, tastes or a health report, shifts the whole curve, and answers should name the non-price cause.
+
+**What is price elasticity of demand?**
+Price elasticity of demand measures how responsive quantity demanded is to a change in price. Describing it as simply "high demand" or "low demand" is a common mistake.
+
+**How does a monopoly differ from a competitive market?**
+A monopoly is not just a market with fewer firms: its market power lets it affect price, output and consumer choice, whereas competition between producers tends to push prices down.
+
+**How do you calculate net pay in OCR GCSE Economics?**
+Subtract the standard deductions, income tax, national insurance and pension contributions, from gross pay. Omitting one of the three deductions is a common error.

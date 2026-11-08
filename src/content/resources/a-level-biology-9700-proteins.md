@@ -235,6 +235,23 @@ Collagen is a structural protein in skin, tendons, ligaments, bone, cartilage an
 - How protein shape controls enzyme action: [Enzymes study guide](/resources/a-level-biology-enzymes/)
 - Check your AS topics: [9700 AS diagnostic](/practice/9700/diagnostic/as/)
 
+## Frequently asked questions
+
+**What are the four levels of protein structure?**
+Primary structure is the amino acid sequence; secondary is the coiling or folding of the backbone held by hydrogen bonds; tertiary is the further folding of the whole chain; quaternary is two or more chains joined into one functional protein.
+
+**Why are globular proteins soluble?**
+Hydrophobic R groups fold inside the molecule and hydrophilic R groups face outwards, so globular proteins such as haemoglobin dissolve in water.
+
+**What is the structure of haemoglobin?**
+Haemoglobin has quaternary structure, with two α-globin and two β-globin chains. Each chain has a haem group, a non-protein prosthetic group with Fe²⁺ at its centre that binds oxygen.
+
+**What is the structure of collagen?**
+A collagen molecule is three polypeptide chains wound into a triple helix, held by hydrogen bonds, with glycine at almost every third position. Molecules form staggered, cross-linked fibrils that bundle into fibres.
+
+**What is the difference between globular and fibrous proteins?**
+Globular proteins, such as haemoglobin, fold into compact soluble shapes. Fibrous proteins, such as collagen, form long insoluble fibres with a structural role.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment -- Topic 2, Biological molecules (section 2.3 Proteins).

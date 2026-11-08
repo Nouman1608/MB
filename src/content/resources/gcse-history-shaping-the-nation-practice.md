@@ -13,9 +13,9 @@ syllabusTopics:
     topic: "shaping-the-nation-8145"
 description: "Original exam-technique practice questions with full worked answers on Paper 2's structure, options and revision approach, for AQA GCSE History (8145)."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -87,6 +87,20 @@ Related: [Shaping the Nation revision notes](/resources/gcse-history-shaping-the
 **7.** Section A thematic studies span roughly 850–1,240 years (c1170, c1000 or c790 to the present day) across four chronological parts, tracing a single theme (health, power, or migration and empire) over a very long period; Section B depth studies instead cover a single 20–40 year period in close, detailed focus across three content parts plus a historic-environment fourth part. Because of this difference, revision for a thematic study should build a chronological anchor list of major turning points and practise explaining each through the specification's named factors, tracing change across centuries, while revision for a depth study should instead focus on close, detailed knowledge of the specific short period and practise connecting its political, religious and social strands together, rather than using the same long-span revision approach for both halves of the paper. **[6]** (Marks for correctly stating the structural difference and for a genuine, specific implication for how revision should differ.)
 
 **8.** Revising the religious troubles and political succession content as two entirely separate sets of notes is a weak approach, because BC Elizabethan England specifically expects students to connect the religious threat posed by Catholic plots to the political question of the succession, rather than treating "religion" and "politics" as unconnected topics. A better approach is to revise by tracing how the two strands interact directly — for example, explaining how the threat of a Catholic claimant to the throne shaped both Elizabeth's religious policy and her government's response to plots against her — so that an exam answer can draw connections across the depth study's content parts rather than describing each part in isolation. **[5]**
+
+## Frequently asked questions
+
+**How are the two AQA GCSE History 8145 papers structured?**
+Each paper lasts 2 hours, is worth 84 marks (including 4 for spelling, punctuation and grammar) and 50% of the GCSE. Paper 1 is a period study and a wider world depth study; Paper 2 is a thematic study and a British depth study with the historic environment.
+
+**What does Paper 2 Section A contain?**
+One thematic study from three: Health and the people, Power and the people, or Migration, empires and the people.
+
+**How is the historic environment examined?**
+By the fourth and final question of Paper 2 Section B, a 16-mark essay on the site AQA specifies for your British depth study; the site changes each year.
+
+**Are these real AQA past-paper questions?**
+No. They are original questions in the style of AQA GCSE History 8145; use them alongside the official past papers and mark schemes.
 
 ## Official syllabus
 

@@ -254,6 +254,23 @@ Look for "should", "fair", "too high" and "better". These signal value judgement
 - Listing advantages of a system with no disadvantages, or vice versa.
 - Describing a model as useless because it is simplified, rather than judging whether the assumption matters.
 
+## Frequently asked questions
+
+**What does ceteris paribus mean in economics?**
+Ceteris paribus means "other things held equal" while one variable changes. It lets economists isolate one cause, but in real markets other things do change, so predictions based on it can fail.
+
+**Why is a PPF usually bowed outwards?**
+A bowed-out PPF shows rising marginal opportunity cost. Resources are not equally suited to producing both goods, so as more of one good is made, ever larger amounts of the other must be given up. A straight-line PPF shows constant opportunity cost.
+
+**Is moving from inside the PPF to the frontier economic growth?**
+No. A point inside the frontier shows unemployed or misallocated resources, so moving to the frontier is better use of existing resources. Growth in productive potential is shown by an outward shift of the frontier.
+
+**What are the four functions of money?**
+Money acts as a medium of exchange, a measure of value, a store of value and a method of deferred payment. Together these make specialisation workable, since workers can sell their output for money and buy what they need.
+
+**What are the main differences between free market, command and mixed economies?**
+A free market economy allocates resources through the price mechanism, a command economy through central planning, and a mixed economy uses both. In a mixed economy the state provides public and merit goods, regulates, redistributes through taxes and benefits, promotes competition and manages the macroeconomy.
+
 ## Official syllabus
 
 Source: Pearson Education Limited, Edexcel International Advanced Subsidiary/Advanced Level in Economics (specification, Issue 2, June 2018; first teaching September 2018), section 1.3.1 Introductory concepts, items 1 to 6.

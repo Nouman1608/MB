@@ -22,11 +22,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-4-11"
 description: "Study guide to Pearson and Spearman correlation, the regression line, χ² tests and the t-test, with worked examples, for IB DP Maths AI SL and HL."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 This study guide teaches correlation, regression and hypothesis testing for IB Diploma Programme Mathematics: Applications and Interpretation. It is aligned to the IB *Mathematics: applications and interpretation guide*, first assessment 2021, and covers syllabus sections 4.4, 4.10 and 4.11, which are common content for SL and HL. It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 sessions.
@@ -327,6 +327,20 @@ t = 2.62, p-value = 0.0120 (3 s.f.)
 ## Where to go next
 
 Condense this into recall with the [revision notes](/resources/ib-dp-mathematics-ai-correlation-hypothesis-testing-revision-notes/), then test yourself with the [practice questions](/resources/ib-dp-mathematics-ai-correlation-hypothesis-testing-practice/). The [syllabus guide](/resources/ib-dp-mathematics-applications-and-interpretation-syllabus-guide/), [subject guide](/resources/ib-dp-mathematics-applications-and-interpretation-subject-guide/) and [exam preparation guide](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/) show how this unit fits the whole course.
+
+## Frequently asked questions
+
+**What is the difference between Pearson's r and Spearman's rank correlation coefficient?**
+Pearson's r measures the strength of a linear relationship, while Spearman's rₛ is Pearson's r applied to ranks and measures any monotonic relationship. Spearman's rₛ is also less sensitive to outliers.
+
+**Does a strong correlation mean one variable causes the other?**
+No. A strong correlation shows that two variables move together, but it does not show that one causes the other.
+
+**Why is extrapolation from a regression line unreliable?**
+Extrapolation predicts outside the range of the x data, where the trend may not continue. The IB Maths AI guide also warns that a y on x regression line is built to predict y and cannot always be used reliably to predict x.
+
+**Do you calculate χ² and p-values by hand in IB Maths AI?**
+No. Every paper is technology required, so you find r, rₛ, regression lines, χ² statistics and p-values on your GDC. The exam tests choosing the right tool, setting up hypotheses and interpreting the result in context.
 
 ## Official syllabus
 

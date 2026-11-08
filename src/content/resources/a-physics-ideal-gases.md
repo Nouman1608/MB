@@ -20,11 +20,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-ideal-gases"
     subtopic: "a-kinetic-theory-of-gases"
-description: "The mole and the Avogadro constant, the equation of state for an ideal gas, and the kinetic theory model of gases, for Cambridge International AS & A Level Physics 9702."
+description: "The mole and Avogadro constant, the ideal gas equation pV = nRT, and kinetic theory with r.m.s. speed: Topic 15 of Cambridge International A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -274,6 +274,20 @@ are related by N = nNₐ but appear in different versions of the gas equations.
 - Deriving pV = (1/3)Nm⟨c²⟩ from the momentum change of particles colliding with a wall
 - Why cᵣₘₛ, not mean speed, is used — mean *velocity* is zero because directions are random
 - Average molecular kinetic energy ∝ thermodynamic temperature
+
+## Frequently asked questions
+
+**What is an ideal gas?**
+An ideal gas is one that obeys pV = nRT at all pressures, volumes and temperatures. Temperature in this equation must always be in kelvin.
+
+**How is the Boltzmann constant related to the molar gas constant?**
+The Boltzmann constant is k = R/Nₐ, the molar gas constant divided by the Avogadro constant, so it is effectively the gas constant per particle. This links pV = nRT to pV = NkT.
+
+**How do you derive pV = (1/3)Nm⟨c²⟩?**
+Consider a particle rebounding elastically from one wall of a cube of side L, with momentum change 2mvₓ every 2L/vₓ. Summing over N particles, using ⟨vₓ²⟩ = ⟨c²⟩/3 for random motion in three dimensions, and dividing the force by the wall area L² gives pV = (1/3)Nm⟨c²⟩.
+
+**Why is the root-mean-square speed used in kinetic theory?**
+The mean velocity of gas molecules is zero because they move randomly in all directions, so positive and negative components cancel. Squaring the velocities gives all-positive values, and the mean square speed is what emerges from the derivation.
 
 ## Related resources
 

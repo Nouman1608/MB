@@ -164,6 +164,23 @@ Data: G = 6.67 × 10⁻¹¹ N m² kg⁻²; g = 9.81 m s⁻²; ε₀ = 8.85 × 10
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to see what to revise next.
 - [Book a free trial class](/trial/) if you want help with any of these questions.
 
+## Frequently asked questions
+
+**Is Coulomb's law in OxfordAQA International AS Physics?**
+No. Sections 3.8.1 Coulomb's law and 3.8.2 Electric field strength of OxfordAQA International AS and A-level Physics (9630) are International A-level only.
+
+**What distance do I use for a charged sphere?**
+Measure r to the centre of the sphere, not its surface, because the charge acts as if it were at the centre. Convert cm to m and nC or μC to C first.
+
+**How should I define electric field strength for full marks?**
+Say it is the force per unit positive charge at that point. Leaving out "positive" makes the definition incomplete.
+
+**How do I describe the path of a charged particle between parallel plates?**
+Call it a parabola and give the reason: the speed parallel to the plates is constant because there is no force in that direction, while there is a constant acceleration across the field. Writing only "it curves" gains less.
+
+**How should I approach a "show that" question?**
+Start from the given data and the relevant equations and work towards the stated value. Starting from the result and working backwards does not show the method.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Sections 3.8.1 Coulomb's law and 3.8.2 Electric field strength (International A-level only).

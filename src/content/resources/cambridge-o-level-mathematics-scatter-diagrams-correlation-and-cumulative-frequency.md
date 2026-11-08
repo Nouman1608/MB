@@ -243,6 +243,20 @@ A comparison that gives only numbers, without saying what they mean, earns littl
 - Describing correlation without a context sentence.
 - Extending a line of best fit far beyond the data and treating the result as reliable.
 
+## Frequently asked questions
+
+**What does the Cambridge 4024 syllabus say about a line of best fit?**
+The syllabus notes say a line of best fit is a single ruled line drawn by inspection, extends across the full data set, and does not need to pass through any particular point but has a roughly even spread of points on either side.
+
+**How do you describe correlation in an exam answer?**
+Name the type of correlation, positive, negative or zero, and say what it means in context, for example that older cars tend to be worth less.
+
+**What does the interquartile range show?**
+The interquartile range, upper quartile minus lower quartile, shows how spread out the middle half of the data is, so extreme values do not affect it.
+
+**How do you find a percentile from a cumulative frequency curve?**
+Work out the height as a fraction of the total, such as 0.9 × n for the 90th percentile, read across to the curve and then down to the horizontal axis.
+
 ## Next steps
 
 Try the [practice questions](/resources/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency-practice/), then check your overall readiness with the [free 10-minute diagnostics](/diagnostics/). The [O Level Mathematics past papers page](/resources/cambridge-o-level-mathematics-4024-past-papers/) shows where to find official papers.

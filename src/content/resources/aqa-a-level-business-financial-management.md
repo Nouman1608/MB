@@ -252,6 +252,23 @@ Throughout section 3.5 the text asks you to consider these.
 - Using total variable cost instead of cost per unit in contribution.
 - Listing finance sources without matching them to the firm's need and time horizon.
 
+## Frequently asked questions
+
+**What are the three profit measures in AQA Business?**
+Gross profit = revenue − cost of sales; profit from operations = gross profit − operating expenses; and profit for the year = profit from operations − finance costs − tax.
+
+**How do you calculate return on investment?**
+ROI (%) = profit gained ÷ amount invested × 100. For example, an oven costing £84,000 that adds £10,080 to annual profit gives an ROI of 12%.
+
+**What are the limitations of break-even analysis?**
+Break-even analysis assumes a constant price, straight-line costs and that all output is sold, so it is only as reliable as those assumptions.
+
+**What types of financial objective can a business set?**
+Objectives can cover revenue, costs and profit; cash flow, such as keeping the closing balance above a set floor; capital expenditure levels; and capital structure, the mix of debt and share capital.
+
+**Which section of the AQA Business specification covers financial management?**
+Section 3.5, Decision making to improve financial performance, subsections 3.5.1 to 3.5.4, in AQA AS and A-level Business (7131 and 7132).
+
 ## Official syllabus
 
 AQA AS and A-level Business (7131/7132), section 3.5 Decision making to improve financial performance, subsections 3.5.1 to 3.5.4, published by AQA.

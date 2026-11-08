@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A Level Mathematics: Straight-Line Coordinate Geometry (YMA01)"
+title: "Edexcel International A Level Mathematics: Straight-Line Coordinate Geometry (YMA01)"
 seoTitle: "Edexcel IAL Maths P1 Straight Lines Study Guide"
 resourceType: "study-guides"
 subject: "mathematics"
@@ -294,6 +294,20 @@ Check that the midpoint lies on the line: 3(2) − 2(4) + 2 = 6 − 8 + 2 = 0.
 - Reading the gradient of 2x + 7y = 21 as 2 or 7. Rearrange to y = mx + c first, or use m = −a/b.
 - Giving the answer as y = mx + c where the question wants the ax + by + c = 0 layout, or giving non-integer coefficients when integers are requested.
 - Not checking the answer. Substituting the given point into the final equation takes seconds and catches most slips.
+
+## Frequently asked questions
+
+**What forms of a straight-line equation do you need for Edexcel IAL Pure 1?**
+You need to work with y − y₁ = m(x − x₁) and ax + by + c = 0. You will also use y = mx + c, which is useful for reading off the gradient and the y-intercept.
+
+**How do you find the gradient from ax + by + c = 0?**
+Rearrange to y = −(a/b)x − c/b, so the gradient is −a/b when b is not zero. Reading the gradient as a or b is a common mistake.
+
+**How do you find the gradient of a perpendicular line?**
+Turn the gradient upside down and change its sign, so the two gradients multiply to −1. This fails for horizontal and vertical lines, which are perpendicular to each other.
+
+**How can you check a straight-line equation?**
+Substitute the given point, or the second point, into your final equation. If it does not give a true statement, there is an error in the working.
 
 ## Where to go next
 

@@ -145,6 +145,20 @@ These questions follow the OxfordAQA International AS and A-level Mathematics sp
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you find the vector AB from position vectors?**
+Use AB = OB − OA, "end minus start". Writing OA − OB reverses every sign.
+
+**Why use different letters for the parameters of two lines?**
+The two lines usually reach a common point at different parameter values. Using the same letter for both forces them to be equal and can give a wrong answer.
+
+**How do you show two lines in 3D intersect?**
+Equate components, solve two of the equations for the two parameters, then check that the values satisfy the third equation. Solving only two equations is not enough.
+
+**How do you prove two vectors are parallel?**
+Show that one is a scalar multiple of the other by checking every component, not just one pair. A negative scalar multiple still counts as parallel.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2 (International AS exams from May/June 2018, A-level from May/June 2019), published by OxfordAQA. This page covers section P2.10, first part (Unit P2, International A-level only).

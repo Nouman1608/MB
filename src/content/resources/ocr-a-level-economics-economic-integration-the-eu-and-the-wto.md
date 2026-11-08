@@ -216,6 +216,23 @@ Evaluation: the WTO has no power to force a member, relies on consensus, and cov
 - Listing EU pros and cons without saying which members, or over what time period.
 - Calling the WTO a world government: it enforces rules its members agreed.
 
+## Frequently asked questions
+
+**What decides whether a customs union creates or diverts trade?**
+Trade diversion is worse when the gap between the partner's price and the outsider's price is large and when the old external tariff was high. Trade creation is larger when home costs are high, demand is price elastic and partners are efficient producers.
+
+**What are the advantages and disadvantages of EU membership?**
+Advantages include tariff-free access to a large market, free movement of labour, scale economies, competition, inward investment and greater bargaining power. Disadvantages include budget contributions, loss of control over trade policy and, in the euro area, interest and exchange rates, trade diversion through the Common Agricultural Policy and compliance costs.
+
+**Why does the impact of EU membership vary between members?**
+It depends on each member's size and trade dependence, net budget position, euro membership, economic structure and labour flows. A small economy sending most of its exports to the bloc gains more from access than a large one that trades widely.
+
+**Why has the WTO struggled to agree new trade deals?**
+Decisions need consensus among a large, diverse membership, and the Doha Round launched in 2001 has largely stalled. Agriculture is the hardest area, as rich countries protect farmers while developing countries want market access and subsidy cuts.
+
+**Are trading blocs a stepping stone or a stumbling block to free trade?**
+Blocs liberalise trade among members, which can be a stepping stone towards wider free trade. They also discriminate against outsiders and can make multilateral deals harder, which makes them a stumbling block, so the judgement depends on whether they widen or replace global liberalisation.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)*, Version 3.0 (June 2026), for first assessment in 2021: The global context, Trade policies and negotiations.

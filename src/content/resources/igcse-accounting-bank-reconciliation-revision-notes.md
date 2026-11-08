@@ -206,6 +206,19 @@ If this had started from the cash book instead, the signs would reverse and the 
   <figcaption>Tick off first: each unmatched line needs a different action.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are the three steps in a bank reconciliation?**
+First tick off items that appear in both the cash book and the bank statement. Then update the cash book for items found only on the statement and any cash book errors, and finally prepare the reconciliation statement for the remaining timing differences and bank errors.
+
+**What does a favourable balance on a bank statement mean?**
+A favourable balance is money the bank holds for the business. Read the column words and the direction of the money, because a statement may use debit and credit from the bank's own point of view.
+
+**Is a cash book error corrected on the bank reconciliation statement?**
+No. An error in the cash book is corrected in the cash book itself. Only bank errors and timing differences appear on the reconciliation statement.
+
+**Why should you show the balance at each stage of a reconciliation?**
+Showing the balance reached after each adjustment makes the working easy to follow, so one slip does not hide the rest of the answer and method marks can still be earned.
 
 ## Official syllabus
 

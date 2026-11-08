@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-nitrogen-compounds"
     subtopic: "as-nitriles-and-hydroxynitriles"
-description: "Condensed recall notes on primary amine preparation, nitriles and hydroxynitriles for Cambridge AS & A Level Chemistry 9701, with amine basicity and further amine routes labelled as A Level extension."
+description: "Revision notes for Cambridge AS & A Level Chemistry 9701 on making primary amines, nitriles and hydroxynitriles, with A Level amine content clearly labelled."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -174,3 +174,16 @@ Nucleophilic addition of CN⁻ to the carbonyl carbon, then protonation of the r
   <figcaption>Equal attack from both faces of the planar C=O gives equal amounts of two enantiomers, a racemic mixture.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you favour a primary amine when reacting a halogenoalkane with ammonia?**
+Use excess ammonia, heated in ethanol in a sealed tube. Forgetting the excess ammonia is a common exam trap in Cambridge 9701.
+
+**Why do nitrile reactions matter in organic synthesis?**
+Making a nitrile, from a halogenoalkane or from a carbonyl compound, adds exactly one carbon atom to the chain. This is why nitrile steps appear in routes that need a longer carbon chain.
+
+**Does the hydroxynitrile from propanone form a racemic mixture?**
+No. Propanone is symmetrical, so its hydroxynitrile has two identical methyl groups on the new carbon and no chiral centre. A racemic mixture forms only when a chiral centre is created.
+
+**Why does a racemic mixture form when HCN adds to an aldehyde such as ethanal?**
+The carbonyl group is planar, so the cyanide ion can attack from either face with equal probability. This gives equal amounts of the two optical isomers.

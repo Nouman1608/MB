@@ -28,11 +28,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-1-8"
 description: "Condensed IB DP Maths AA revision notes on sequences, series, sigma notation, compound interest and sums to infinity, with a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 These are condensed revision notes. For full explanations and worked examples, use the [sequences, series and financial applications study guide](/resources/ib-dp-mathematics-aa-sequences-series-financial/).
@@ -237,6 +237,20 @@ When you use technology, the guide expects you to identify the first term and th
 - Test yourself: [practice questions with mark-by-mark answers](/resources/ib-dp-mathematics-aa-sequences-series-financial-practice/)
 - Related unit: [functions study guide](/resources/ib-dp-mathematics-aa-functions/) for exponential models
 - Course overview: [IB DP Maths AA subject guide](/resources/ib-dp-mathematics-analysis-and-approaches-subject-guide/) and [exam preparation guide](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/)
+
+## Frequently asked questions
+
+**What is the compound interest formula in IB Maths AA?**
+FV = PV × (1 + r/(100k))^(kn), for a rate of r% a year compounded k times a year for n years. k is 1 for yearly, 2 half-yearly, 4 quarterly and 12 monthly.
+
+**How do you find the real value of an investment after inflation?**
+Divide the future value by the inflation factor for the same period: real value = FV ÷ (1 + i/100)ⁿ, where i% is the annual inflation rate. Use the unrounded future value.
+
+**When does a geometric series have a sum to infinity?**
+Only when |r| < 1, and you should state this. Then S∞ = u₁/(1 − r); an arithmetic series with d ≠ 0 has no sum to infinity.
+
+**What does N mean in a GDC finance (TVM) calculation?**
+N is the total number of compounding periods, years × k, not the number of years. Set the present value as negative for money paid in.
 
 ## Official syllabus
 

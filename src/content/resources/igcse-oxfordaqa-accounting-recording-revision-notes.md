@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "sources-and-recording-of-data-oxfordaqa-igcse"
 description: "Condensed recall notes on double entry, books of prime entry, ledgers, the trial balance and error types for International GCSE Accounting."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -195,3 +195,19 @@ Treating capital expenditure as revenue **understates profit and understates non
   <figcaption>Correcting two misclassifications raises profit by a net 230.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does DEAD CLIC stand for in accounting?**
+DEAD CLIC is a memory aid: Debit Expenses, Assets and Drawings; Credit Liabilities, Income and Capital. It shows which side each type of account increases on.
+
+**Do cash sales go in the sales journal?**
+No. Only credit transactions go in the sales and purchases journals; cash sales are recorded straight in the cash book. Putting cash sales in the sales journal is a common exam trap.
+
+**Why does capital appear alongside liabilities in the accounting equation?**
+Under the business entity concept the business is separate from its owner, so capital is money the business owes back to the owner. The equation for OxfordAQA International GCSE Accounting 9215 is written Assets = Capital + Liabilities.
+
+**What is the effect of treating capital expenditure as revenue expenditure?**
+Profit is understated and non-current assets are understated. Stating the effect on both the statement of profit or loss and the statement of financial position is what full answers need.
+
+**What is the imprest system?**
+The petty cash book usually runs on the imprest system: a fixed float is restored at the end of each period by reimbursing exactly what was spent.

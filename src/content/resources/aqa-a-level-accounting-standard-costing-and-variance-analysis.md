@@ -272,6 +272,23 @@ it will, the standard should be updated.
   poor efficiency.
 - Listing causes without a judgement when a question asks you to evaluate.
 
+## Frequently asked questions
+
+**What is a standard cost?**
+A standard cost is a predetermined cost of one unit of output, set in advance from expected quantities and prices under planned working conditions. It is built up on a standard cost card from standard quantities of material and hours of labour at standard prices and rates.
+
+**How do you calculate the materials price and usage variances?**
+Materials price variance = (standard price − actual price) × actual quantity. Materials usage variance = (standard quantity for actual output − actual quantity) × standard price.
+
+**Why is the sales volume variance valued at standard contribution?**
+Each extra unit sold also carries its standard variable cost, so valuing the volume variance at selling price would overstate its effect on profit. Where a question gives a standard profit per unit and asks you to use it, follow the question.
+
+**What is management by exception?**
+Management by exception means managers set targets, measure performance against them and investigate only the significant variances, rather than every difference.
+
+**What are the disadvantages of standard costing?**
+Standards take time and money to set and update, can become out of date, suit repetitive production rather than one-off jobs, and can demotivate staff if too tight. A buyer chasing a favourable price variance may also cause adverse usage variances elsewhere.
+
 ## Next steps
 
 - [Revision notes](/resources/aqa-a-level-accounting-standard-costing-and-variance-analysis-revision-notes/)

@@ -210,6 +210,20 @@ Household: repayments 1,000 from income 4,000 gives a household debt-service rat
 - Writing an evaluation that restates the points instead of judging which matters most and why.
 - Giving real-world statistics from memory that you cannot back up.
 
+## Frequently asked questions
+
+**What is the dependency ratio?**
+The dependency ratio is the population aged 0 to 14 plus those aged 65 and over, divided by those aged 15 to 64. Two countries with similar totals can face very different problems if one has a young population and the other an ageing one.
+
+**Is all debt a constraint on development?**
+No. Debt that funds productive investment can raise future output. It becomes a constraint when debt service takes money from schools, roads and health or when interest and exchange rate changes raise the burden.
+
+**What is the difference between debt to GNI and the debt service ratio?**
+Debt to GNI compares the stock of debt with national income. The debt service ratio compares yearly interest and repayments with export earnings.
+
+**How should you evaluate constraints on development in Edexcel International A Level Economics?**
+Judge which constraint matters most and why, rather than restating the points, and reason from the data given instead of real-world statistics you cannot back up.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11) specification, Issue 2, June 2018, Pearson Education Limited, section 4.3.6, items 2a and 2b.

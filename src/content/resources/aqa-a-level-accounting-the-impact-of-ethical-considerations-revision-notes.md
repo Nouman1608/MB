@@ -222,6 +222,20 @@ Breaches: integrity (false revenue) and professional competence and due care (th
 - Ignoring the effect on profit or ratios when figures are given.
 - Ending an evaluation with no judgement.
 
+## Frequently asked questions
+
+**Which section of AQA A-Level Accounting 7127 covers ethics?**
+Section 3.18 The impact of ethical considerations covers the fundamental principles, threats and safeguards, corporate governance, audit, regulators, professional bodies and what to do about wrongdoing.
+
+**Who sits on a remuneration committee?**
+A remuneration committee is made up of independent non-executive directors and decides directors' pay. Putting executives on the remuneration committee is a common mistake.
+
+**Does the government set UK accounting standards?**
+No. UK accounting standards are set by the Financial Reporting Council (FRC), which also sets the UK Corporate Governance Code.
+
+**What does "comply or explain" mean in corporate governance?**
+Under the UK Corporate Governance Code, companies either comply with each provision or explain why they have not. It is not a legal requirement to comply with every provision.
+
 ## Official syllabus
 
 AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019 onwards, published by AQA -- section 3.18, The impact of ethical considerations.

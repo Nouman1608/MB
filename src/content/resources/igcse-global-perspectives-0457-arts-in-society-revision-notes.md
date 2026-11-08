@@ -153,6 +153,23 @@ You are not marked for knowing these, but accurate examples make your research a
 - Using a topic word as an Individual Report title instead of a question that divides opinion.
 - Forgetting that the Team Project must start from a local issue.
 
+## Frequently asked questions
+
+**Does IGCSE Global Perspectives 0457 assess knowledge of the arts?**
+No. The syllabus says knowledge of content is not assessed; Arts in society is a context for practising skills. Accurate examples still make your research and reasoning stronger.
+
+**What issues come under the Arts in society topic?**
+Examples include public funding for the arts, restitution of museum objects taken during colonial rule, arts in education, AI trained on artists' work, street art and censorship. Each can be seen at global, national and local level.
+
+**What is the difference between bias and vested interest?**
+Bias is in how a source presents material. A vested interest is something a person or group gains if a view is accepted, such as a gallery arguing for more public funding.
+
+**What is the difference between a value and evidence?**
+"Culture is a right" is a value, while "ticket prices rose last year" is evidence. A value on its own does not prove that a specific policy should follow.
+
+**What criteria can you use to judge a course of action in 0457?**
+Useful criteria include effectiveness, cost, feasibility, who benefits, sustainability and unintended effects. Name your criteria and use them to justify your final choice.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Assessment objectives are in section 2; the topic list and key terms in section 3; component details and command words in section 4.

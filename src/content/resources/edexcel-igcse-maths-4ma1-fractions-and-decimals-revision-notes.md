@@ -232,6 +232,20 @@ The pattern table is a quick check. When a question says **"prove"** or **"show 
 </figure>
 
 
+## Frequently asked questions
+
+**Which sections of Edexcel IGCSE Maths 4MA1 cover fractions and decimals?**
+Section 1.2 (Fractions) and section 1.3 (Decimals) of Topic 1, Numbers and the number system, cover them. Converting recurring decimals to fractions is Higher tier only; the rest is on both tiers.
+
+**What is the difference between a terminating and a recurring decimal?**
+A terminating decimal stops, such as 7/8 = 0.875. A recurring decimal has a digit or block of digits that repeats for ever, such as 5/11 = 0.454545...
+
+**How do you convert a mixed number to an improper fraction?**
+Multiply the whole number by the denominator and add the numerator, keeping the same denominator: 4 3/8 = (4 × 8 + 3)/8 = 35/8. To go back, divide: 47 ÷ 6 = 7 remainder 5, so 47/6 = 7 5/6.
+
+**Is a decimal with more digits always bigger?**
+No. To compare decimals, line up the decimal points and compare digit by digit from the left; 0.405 has more digits than 0.45 but is smaller.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Mathematics (Specification A) (4MA1), Specification, Issue 2, November 2017, Pearson Education Limited (first assessment June 2018). Topic 1, Numbers and the number system, sections 1.2 Fractions and 1.3 Decimals (Foundation Tier content, and Higher Tier statement 1.3A).

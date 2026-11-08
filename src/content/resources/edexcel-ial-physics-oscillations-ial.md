@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-5-thermodynamics-radiation-oscillations-and-cosmology"
     subtopic: "oscillations-edexcel"
-description: "Simple harmonic motion, displacement/velocity/acceleration equations, energy in oscillating systems, resonance and damping for sub-topic 5.5 of Pearson Edexcel International A Level Physics (YPH11), Unit 5."
+description: "Simple harmonic motion, its equations and graphs, energy in oscillations, resonance and damping: sub-topic 5.5 of Edexcel IAL Physics (YPH11), Unit 5."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-09-27
 featured: false
@@ -201,6 +201,20 @@ amplitude at resonance.
 - Explain resonance, and describe CORE PRACTICAL 16.
 - Apply conservation of energy to damped and undamped oscillations.
 - Distinguish free from forced oscillations, and explain how damping affects the resonance curve.
+
+## Frequently asked questions
+
+**What is Core Practical 16 in Edexcel IAL Physics?**
+Core Practical 16 determines the value of an unknown mass using the resonant frequencies of the oscillation of known masses.
+
+**Does damping increase the amplitude at resonance?**
+No. Damping always reduces the peak amplitude at resonance and broadens the resonance curve.
+
+**Is a simple pendulum an example of simple harmonic motion?**
+Only approximately, for small angles. Simple harmonic motion strictly requires F = −kx, or equivalently a = −ω²x.
+
+**Should my calculator be in degrees or radians for SHM calculations?**
+Radians. In x = A cos ωt and v = −Aω sin ωt, ωt is an angle in radians, and leaving the calculator in degrees is a common slip.
 
 ## Related resources
 

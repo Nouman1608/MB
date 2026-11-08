@@ -150,3 +150,20 @@ Command words: state needs a short fact, describe a feature, explain a reason, s
 6. Give one method of cleaning up an oil spill and a limitation. (Booms; ineffective in rough seas.)
 7. What are microplastics? (Very small fragments formed when plastics break down, which enter food chains.)
 8. A town of 2,000 people uses 30 litres each per day. How many cubic metres a day? (60,000 litres = 60 cubic metres.)
+
+## Frequently asked questions
+
+**What is eutrophication?**
+When fertiliser or sewage enters a lake, the extra nutrients cause rapid growth of algae. When the algae die, decomposing bacteria use up the oxygen in the water, so fish and other animals die.
+
+**What is the difference between water-borne and mosquito-borne diseases?**
+Water-borne diseases, such as cholera and typhoid, are spread by drinking or using contaminated water. Water-related insect diseases such as malaria depend on animals living in or near water, here mosquitoes that breed in standing water. Mixing the two up is a common mistake.
+
+**How are oil spills cleaned up?**
+Booms contain the slick, skimmers collect oil from the surface and dispersants break it into small droplets. Naming a specific method earns more than "clean up the oil".
+
+**How do you convert litres to cubic metres?**
+Divide by 1,000, because 1 cubic metre is 1,000 litres. Forgetting to convert between litres and cubic metres is a common error in water-use calculations.
+
+**What are microplastics?**
+Microplastics are very small fragments formed when plastics break down, and they enter food chains. This is why plastic is more than a litter problem.

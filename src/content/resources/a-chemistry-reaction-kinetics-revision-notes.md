@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-reaction-kinetics"
     subtopic: "a-homogeneous-and-heterogeneous-catalysts"
-description: "Condensed recall notes on rate equations, orders of reaction, rate constants and their units, initial rates and half-life methods, mechanisms and rate-determining steps, and homogeneous and heterogeneous catalysis for Cambridge A Level Chemistry 9701 (2025-2027)."
+description: "Revision notes on rate equations, orders, units of k, initial rates and half-life, rate-determining steps and catalysis, for Cambridge A Level Chemistry 9701."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -327,3 +327,19 @@ data-book values. Check the full syllabus wording in the
   <figcaption>A transition metal catalyst changes oxidation state to give an easier route and is then regenerated.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Can you work out orders of reaction from the balanced equation?**
+No. Orders come only from experimental data, such as an initial-rates table or half-lives. The order of a reactant can match its coefficient by coincidence, but that is not a rule.
+
+**What are the units of the rate constant k?**
+The units depend on the overall order. In Cambridge 9701 Chemistry, zero order is mol dm⁻³ s⁻¹, first order is s⁻¹, second order is dm³ mol⁻¹ s⁻¹ and third order is dm⁶ mol⁻² s⁻¹.
+
+**How do you show a reaction is first order using half-life?**
+Measure successive half-lives on a concentration–time graph. If they are constant, independent of the starting concentration, the reaction is first order, and k = 0.693/t½.
+
+**Why is a reactant zero order in the rate equation?**
+A zero-order reactant still takes part in the reaction, but it reacts only after the rate-determining step. For example, I₂ is zero order in the acid-catalysed iodination of propanone.
+
+**How does Fe²⁺ catalyse the reaction between peroxodisulfate and iodide ions?**
+The uncatalysed reaction is slow because both reactants are negative ions that repel. Fe²⁺ reduces S₂O₈²⁻ to SO₄²⁻ and becomes Fe³⁺, which then oxidises I⁻ to I₂ and is reformed as Fe²⁺, so each step involves oppositely charged ions.

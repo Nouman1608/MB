@@ -247,6 +247,23 @@ Reactivity links to oxidation too. A more reactive metal loses electrons more ea
 - [Electrolysis study guide](/resources/oxfordaqa-igcse-chemistry-electrolysis/) for more half equations at electrodes
 - [Free diagnostics](/diagnostics/) to check what to revise next
 
+## Frequently asked questions
+
+**What are the two definitions of oxidation in OxfordAQA 9202 Chemistry?**
+Oxidation is the gain of oxygen by a substance, and it is also the loss of electrons by a particle. Reduction is the loss of oxygen or the gain of electrons; OIL RIG (Oxidation Is Loss, Reduction Is Gain) helps you remember the electron version.
+
+**What is a redox reaction?**
+A redox reaction is one in which oxidation and reduction happen at the same time. In the blast furnace reaction Fe₂O₃ + 3CO → 2Fe + 3CO₂, iron(III) oxide is reduced and carbon monoxide is oxidised.
+
+**How do you know whether a half equation shows oxidation or reduction?**
+If the electrons are on the right, they have been given out, so the change is oxidation, as in Mg → Mg²⁺ + 2e⁻. If they are on the left, they have been taken in, so it is reduction, as in Ag⁺ + e⁻ → Ag.
+
+**Which metal is oxidised in a displacement reaction?**
+The more reactive metal is always oxidised, because it gives its electrons to the ions of the less reactive metal. When magnesium displaces silver, magnesium atoms are oxidised and silver ions are reduced.
+
+**Are neutralisation and carbonate decomposition redox reactions?**
+No. Neutralisation and the thermal decomposition of carbonates involve no oxygen or electron transfer of the kind that defines redox, so they are not redox reactions.
+
 ## Official syllabus
 
 International GCSE Chemistry (9202) specification published by OxfordAQA; Version 6.2, for exams May/June 2018 onwards. Unit covered: 3.8.4 Redox reactions, statements a to c.

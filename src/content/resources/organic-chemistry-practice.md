@@ -24,9 +24,9 @@ syllabusTopics:
     subtopic: "naming-organic-compounds"
 description: "Original exam-style practice questions with full worked answers on homologous series, isomerism, alkanes, alkenes and alcohols for IGCSE Chemistry."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -145,3 +145,17 @@ between butane and methylpropane, which is exactly the point being
 tested whenever a question pairs isomerism with a request to "draw"
 rather than just "name" a compound. For the full naming rules,
 including stem names and ester naming, see the [Organic Chemistry revision notes](/resources/organic-chemistry-revision-notes/).
+
+## Frequently asked questions
+
+**Which organic chemistry topics do these Cambridge IGCSE questions cover?**
+The questions cover Cambridge IGCSE Chemistry 0620 and O Level 5070 subtopics on formulae, homologous series, isomerism and naming, with a few extension questions on alkanes, alkenes and alcohols. Questions marked 0620 Extended are required for every 5070 candidate.
+
+**What are common mistakes in organic formulae and naming questions?**
+Frequent errors include giving only one characteristic of a homologous series, saying an alkene turns bromine water brown, treating propan-1-ol and propan-2-ol as the same compound, confusing empirical and molecular formulae, and leaving out C–H bonds in a displayed formula.
+
+**Do I need to name compounds with more than four carbons?**
+No. Cambridge IGCSE 0620 and O Level 5070 limit naming to compounds with up to four carbon atoms per molecule, so longer stems such as pent- and hex- are background only.
+
+**How should I describe colour changes in organic tests?**
+Give the starting and final colours using colour words, and write "colourless" rather than "clear", because clear is not a colour. A vague answer such as "changes colour" does not earn the mark.

@@ -209,6 +209,23 @@ In experiments with a bung on a string, the centripetal force is found from the 
 
 Try the [practice questions](/resources/oxfordaqa-a-level-physics-circular-motion-angular-speed-and-centripetal-force-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-physics-circular-motion-angular-speed-and-centripetal-force-revision-notes/) for the final weeks. If you are unsure where you stand across physics, take one of the [free 10-minute diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is a radian?**
+One radian is the angle at the centre of a circle when the arc length equals the radius. For an arc of length s on a circle of radius r, θ = s/r.
+
+**What are the formulas for centripetal acceleration and force?**
+Centripetal acceleration is a = v²/r = ω²r, and centripetal force is F = mv²/r = mω²r. Square v and then divide by r, not (v/r) squared.
+
+**Does the centripetal force do work?**
+No. It acts at right angles to the motion, so it does no work and the kinetic energy of the object stays constant.
+
+**How do you measure the period in a bung-on-a-string experiment?**
+Time many revolutions and divide by the number of revolutions. This reduces the percentage uncertainty in the period T.
+
+**What is the angular speed equation?**
+Angular speed is the angle turned per unit time: ω = v/r = 2πf, measured in rad s⁻¹. Angles must be in radians, not degrees.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams from May/June 2020 onwards, published by OxfordAQA. Section 3.6.1 Circular motion, within section 3.6 Circular and periodic motion (International A-level only).

@@ -158,6 +158,20 @@ Identify M, giving the evidence for each ion, and write the full equation for th
 - Gravimetric and gas-volume calculations: [Amount of substance questions](/resources/ocr-a-level-chemistry-amount-of-substance-practice/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**Which ions are tested in OCR A Level Chemistry 3.1.4 Qualitative analysis?**
+Section 3.1.4 of OCR A Level Chemistry A (H432) covers the anions carbonate, sulfate, chloride, bromide and iodide, and the ammonium cation. The tests are carried out on a test-tube scale and link to PAG4, Qualitative analysis of ions.
+
+**How should observations be written to earn credit in qualitative analysis?**
+Name the state and colour, such as "white precipitate" rather than "goes cloudy", and for a gas describe the effervescence and then the test result, such as limewater turning milky. Keep the observation separate from the inference you draw from it.
+
+**How should I lay out answers that identify an unknown salt?**
+Work through the results one test at a time, giving the evidence for each ion from a specific observation and treating negative results as evidence too. Then combine the ions into the formula and write any equation the question asks for.
+
+**What are common mistakes in qualitative analysis calculations?**
+Frequent slips include leaving a gas volume in cm³ when dividing by 24.0 dm³ mol⁻¹, rearranging the mole link between a halide salt and its silver halide precipitate wrongly, and rounding before the final answer.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 3.1.4 Qualitative analysis, learning outcome (a)(i) and (ii), with its additional guidance and PAG4. Published by OCR.

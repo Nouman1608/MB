@@ -24,9 +24,9 @@ syllabusTopics:
     subtopic: "reversible-reactions-and-equilibrium"
 description: "Original exam-style practice questions with full worked answers on rate factors, collision theory, catalysts and equilibrium for IGCSE Chemistry."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -124,3 +124,17 @@ Related: [Rates of Reaction revision notes](/resources/rates-of-reaction-revisio
 - Forgetting that a catalysed reaction reaches the same final amount of product.
 - Describing the hydrated/anhydrous copper sulfate colour change without stating it goes both ways — this is what makes it reversible, not just a one-way colour change.
 - Assuming higher pressure or higher temperature is always used in industry simply because it increases yield or rate — real conditions are a compromise that also weighs cost and safety.
+
+## Frequently asked questions
+
+**Which rates of reaction topics are Extended only in Cambridge IGCSE Chemistry 0620?**
+Collision theory explanations, equilibrium and all of the Haber process are beyond 0620 Core. O Level 5070 candidates need all of this content.
+
+**What is a common mistake when explaining the effect of temperature on rate?**
+Saying only that collisions become more frequent. A full answer also says that a greater proportion of collisions have energy equal to or above the activation energy.
+
+**Does a catalyst increase the yield of a reaction?**
+No. A catalyst increases the rate, but a catalysed reaction reaches the same final amount of product, and it does not change the position of equilibrium.
+
+**How should equilibrium be described in an exam answer?**
+Say that the forward and reverse reactions occur at the same rate in a closed system, so the concentrations stay constant. Saying the concentrations are equal is a common error.

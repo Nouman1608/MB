@@ -269,6 +269,20 @@ Removing the fourth electron means breaking into a full inner shell that is clos
 - Writing 3d before 4s when giving the configuration of an ion, or removing 3d electrons first from a d-block atom.
 - Quoting a relative atomic mass outside the span of the isotopic masses, which signals an arithmetic slip.
 
+## Frequently asked questions
+
+**What are the four stages of a time of flight mass spectrometer?**
+The OxfordAQA 9620 specification limits you to four stages: ionisation, acceleration, ion drift and ion detection, followed by data analysis. The whole instrument is under vacuum so that ions do not collide with air particles.
+
+**How do you calculate relative atomic mass from a mass spectrum?**
+Use Ar = Σ(isotopic mass × abundance) ÷ Σ(abundance). For peaks at m/z 46, 47 and 48 with abundances 8.0, 7.0 and 85.0, Ar = 4777 ÷ 100.0 = 47.77.
+
+**Which electrons are lost first when a d-block atom forms an ion?**
+The 4s electrons are lost first, even though 4s fills before 3d. Writing the 4s electrons in an ion's configuration, or removing 3d electrons first, is a common error.
+
+**Which elements are exceptions to the electron filling order up to krypton?**
+Chromium and copper are the two exceptions up to Z = 36, because a half-full or full 3d set is favoured. Their configurations end 3d⁵ 4s¹ and 3d¹⁰ 4s¹.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS and

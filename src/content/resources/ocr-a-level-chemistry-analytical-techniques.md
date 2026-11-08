@@ -246,6 +246,23 @@ Empirical formula C₅H₁₀O, mass 86.0.
 - Empirical and molecular formulae: [formula calculations from 2.1.3](/resources/ocr-a-level-chemistry-amount-of-substance/)
 - Ten-minute course checks: [Marlbridge diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**Which bonds absorb IR in the main greenhouse gases?**
+Carbon dioxide absorbs through its C=O bonds, water vapour through its O–H bonds and methane through its C–H bonds.
+
+**How do breathalysers use infrared?**
+Modern evidential breathalysers pass infrared radiation through a breath sample and measure the absorption by bonds in ethanol. Greater absorption means more ethanol in the breath.
+
+**What causes the M+1 peak in a mass spectrum?**
+About 1.1% of carbon atoms are carbon-13, so a few molecules are one mass unit heavier. They give a small M+1 peak just above the molecular ion peak.
+
+**How do you identify a carboxylic acid from an IR spectrum?**
+Look for a C=O absorption together with the very broad O–H absorption of the acid. Naming a carboxylic acid from the C=O peak alone is a common error.
+
+**What should you do if the data fit two isomers?**
+Give both structures. Combined analytical data sometimes cannot tell two isomers apart, and giving only one is a common error.
+
 ## Official syllabus
 
 Source document: OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 4.2.4 Analytical techniques, learning outcomes (a) to (h). Published by OCR.

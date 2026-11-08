@@ -223,6 +223,20 @@ Proof of cyclic quadrilateral: if angle BAD = p, the centre angle on the opposit
 - Ending a proof with the working but not the stated conclusion.
 - Rounding too early in a length or angle question that needs a decimal.
 
+## Frequently asked questions
+
+**Are circle theorems in the Core tier of OxfordAQA 9260?**
+No. Circle words such as chord, arc and tangent are Core, but the eight circle theorems and geometrical proof are Extension only in OxfordAQA International GCSE Mathematics 9260.
+
+**What is the difference between a sector and a segment?**
+A sector is bounded by two radii and an arc. A segment is bounded by a chord and an arc.
+
+**How do you find the distance from the centre of a circle to a chord?**
+The perpendicular from the centre bisects the chord, so use Pythagoras in the right-angled triangle formed by the radius, the half-chord and that distance.
+
+**What does the alternate segment theorem say?**
+The angle between a tangent and a chord equals the angle in the alternate segment, which is on the other side of the chord from that angle.
+
 ## Official syllabus
 
 These notes follow the OxfordAQA International GCSE Mathematics (9260) Specification, Version 5.1, for exams in May/June 2018 onwards, published by OxfordAQA, section 3.3.1, references G8 and G9.

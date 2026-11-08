@@ -34,14 +34,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "geometry-cambridge-igcse-maths"
     subtopic: "circle-theorems-ii-cambridge-igcse-maths"
-description: "Condensed recall notes on geometrical terms, constructions, scale drawings, similarity, symmetry, angles and circle theorems for Cambridge IGCSE Mathematics 0580."
+description: "Recall notes on geometry vocabulary, constructions, scale drawings, similarity, symmetry, polygon angles and circle theorems for Cambridge IGCSE Maths 0580."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-04
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 Condensed for the final weeks. Pair these notes with the
@@ -183,3 +183,16 @@ Always check whether all the vertices of a shape actually lie on the circle befo
   <figcaption>Opposite angles of a cyclic quadrilateral add to 180°.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between congruent and similar shapes?**
+Congruent shapes are identical in both shape and size. Similar shapes have the same shape, with equal angles and sides in the same ratio, but can be different sizes.
+
+**How do you find the exterior angle of a regular polygon?**
+The exterior angles of any polygon sum to 360°, so one exterior angle of a regular polygon with n sides is 360° ÷ n. The interior angle is 180° minus the exterior angle.
+
+**How many lines of symmetry does a kite have?**
+A kite that is not a rhombus has exactly one line of symmetry. Assuming it has two, like a rhombus, is a common error.
+
+**Which circle theorems are Core in Cambridge IGCSE 0580?**
+Core candidates need the angle in a semicircle is 90° and the angle between a tangent and a radius is 90°. The other circle theorems, including the alternate segment theorem, are Extended only.

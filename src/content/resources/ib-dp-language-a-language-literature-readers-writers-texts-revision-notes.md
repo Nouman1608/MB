@@ -12,13 +12,13 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-a-language-and-literature-readers-writers-and-texts"
-description: "Condensed revision notes on IB Diploma Programme Language A: Language and Literature's Readers, writers and texts component -- the close-reading toolkit shared across literary and non-literary text analysis -- with self-test questions."
+description: "Revision notes on Readers, writers and texts in IB DP Language A: Language and Literature: the close-reading toolkit for literary and non-literary texts."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 Readers, writers and texts is the foundational component that the [full syllabus
@@ -108,6 +108,17 @@ skim. 3. Because Paper 1's guided textual analysis is set on unseen non-literary
 making non-literary close-reading skill directly, externally examined -- not a secondary skill to
 literary analysis. 4. What type of text is it, who is its likely audience, what is its purpose, and
 (for multimodal texts) what visual/spatial elements does it use alongside words.
+
+## Frequently asked questions
+
+**What should you identify before analysing a text's techniques?**
+Identify the text type, its likely audience and its purpose, and for multimodal texts the visual and spatial elements it uses. This framing shapes which techniques are relevant to discuss.
+
+**How is Readers, writers and texts revised differently in Language and Literature?**
+Because IB DP Language A: Language and Literature studies both literary and non-literary texts, revise each technique in pairs: one literary application and one non-literary application, such as flashback in a novel and headline placement in a news report.
+
+**Why do non-literary texts need close reading in this course?**
+Paper 1's guided textual analysis is set on unseen non-literary passages, so non-literary close reading is directly examined rather than a secondary skill.
 
 ## Official syllabus
 

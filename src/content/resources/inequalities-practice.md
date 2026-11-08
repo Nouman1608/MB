@@ -13,19 +13,21 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "algebra-and-graphs"
     subtopic: "inequalities"
-description: "Original exam-style practice questions with full worked answers on solving linear inequalities, constructing inequalities from worded problems, number lines and regions."
+description: "Cambridge O Level Mathematics 4024 inequalities practice: linear inequalities, number lines, worded constraints and graphical regions, with worked answers."
 author: "muhammad-ghazali-siddiqui"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNote: "2026-11-08 recheck: added intro naming 4024 subtopic 2.6 and its conventions, Section C (syllabus-style double inequality, integer solutions, inequalities defining a region) and FAQ; rewrote description. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNeeded: true
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
 > and they do **not** replicate the exam's exact structure, question count or
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
+
+Subtopic 2.6 of Cambridge O Level Mathematics (Syllabus D) 4024 asks you to represent inequalities on a number line, construct and solve linear inequalities, show inequalities in two variables as regions on a graph, and list the inequalities that define a given region. The syllabus conventions are open circles and broken lines for strict inequalities, closed circles and solid lines for inclusive ones, and shading of the unwanted region.
 
 Related: [Inequalities revision notes](/resources/inequalities-revision-notes/)
 
@@ -63,6 +65,14 @@ Related: [Inequalities revision notes](/resources/inequalities-revision-notes/)
 
 **9.** A diagram shows a shaded region bounded by a solid horizontal line at y = 2 and a broken vertical line at x = 3, with the unshaded region above y = 2 and to the left of x = 3. State the two inequalities defining the unshaded region. **[3]**
 
+## Section C
+
+**10.** (a) Solve 3x < 2x + 4. **[1]**
+(b) Solve −3 ≤ 3x − 2 < 7. **[2]**
+(c) List the integers that satisfy both inequalities. **[1]**
+
+**11.** A triangle has vertices (0, 0), (4, 0) and (0, 4). Write down the three inequalities that define the region inside the triangle, including its edges. **[3]**
+
 ---
 
 ## Answers
@@ -89,6 +99,12 @@ Related: [Inequalities revision notes](/resources/inequalities-revision-notes/)
 
 **9.** The line y = 2 is solid, so the boundary is inclusive: **y ≥ 2** [1] [1]. The line x = 3 is broken, so the boundary is strict, and the unshaded region lies to the left: **x < 3** [1]. (Note: optimising a quantity subject to a system of inequalities — linear programming — is not part of this syllabus; the skill required stops at representing, solving and reading off regions.)
 
+**10. (a)** **x < 4** [1].
+**(b)** Add 2 throughout: −1 ≤ 3x < 9 [1]; divide by 3: **−⅓ ≤ x < 3** [1].
+**(c)** Both hold when −⅓ ≤ x < 3, so the integers are **0, 1, 2** [1].
+
+**11.** **x ≥ 0** [1], **y ≥ 0** [1] and **x + y ≤ 4** [1] (the hypotenuse joins (4, 0) and (0, 4), so its equation is x + y = 4; the origin satisfies x + y ≤ 4, so the triangle lies on that side). All three lines are solid because the edges are included.
+
 ---
 
 ## Where marks are usually lost
@@ -98,3 +114,16 @@ Related: [Inequalities revision notes](/resources/inequalities-revision-notes/)
 - Using a solid line for a strict inequality.
 - Treating a double inequality one side at a time and losing a bound.
 - Shading the wanted region instead of the unwanted region (the convention is the opposite of what many students expect).
+
+## Frequently asked questions
+
+**When do you reverse the inequality sign?**
+Only when you multiply or divide both sides by a negative number. Adding or subtracting any number, or multiplying by a positive number, keeps the sign the same.
+
+**Should I shade the region I want or the region I do not want?**
+The 4024 syllabus convention is to shade the unwanted region, unless the question tells you otherwise, so the required region is left clear.
+
+**Is linear programming on the 4024 syllabus?**
+No. The syllabus states that linear programming problems are not included; you represent, solve and identify regions, but you are not asked to optimise a quantity over them.
+
+For condensed recall notes, see the [Inequalities revision notes](/resources/inequalities-revision-notes/).

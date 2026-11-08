@@ -12,13 +12,19 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "component-2-modern-drama-and-literary-heritage-texts-4et1"
-description: "One modern drama text and one literary heritage text, assessed through open-book essay questions -- Component 2 of Pearson Edexcel International GCSE English Literature (4ET1), the examined alternative to Component 3's non-exam assessment."
+  - qualification: "igcse"
+    topic: "component-2-modern-drama-and-literary-heritage-texts-4et1"
+    subtopic: "section-a-modern-drama-4et1"
+  - qualification: "igcse"
+    topic: "component-2-modern-drama-and-literary-heritage-texts-4et1"
+    subtopic: "section-b-literary-heritage-texts-4et1"
+description: "Component 2 of Pearson Edexcel International GCSE English Literature 4ET1: one modern drama and one literary heritage text in an open-book essay exam."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide covers **Component 2 Modern Drama and Literary Heritage
@@ -126,6 +132,18 @@ both, missing the option that would actually suit the candidate's
 prepared material better. Running out of time on Section B because
 Section A's drama question, often the more comfortable of the two, was
 allowed to run over its allocated time.
+
+## Frequently asked questions
+
+**Is 4ET1 Component 2 open book?**
+Yes. Prescribed editions of the set texts are allowed but must be completely unmarked.
+
+**How long is the exam?**
+1 hour 30 minutes for 60 marks and 40% of the qualification: one 30-mark modern drama essay and one 30-mark literary heritage essay.
+
+**Where is context (AO4) assessed?**
+In Section B, Literary Heritage, where AO4 carries 10 of the 30 marks.
+
 
 ## Quick revision checklist
 

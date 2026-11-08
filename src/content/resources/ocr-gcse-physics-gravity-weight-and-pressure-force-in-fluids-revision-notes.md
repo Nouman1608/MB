@@ -247,6 +247,23 @@ All the questions are for both tiers. Questions 5 to 12 cover separate Physics o
 - Claiming a heavier object falls faster when there is no air resistance.
 - Giving a long unrounded decimal instead of a sensible number of significant figures.
 
+## Frequently asked questions
+
+**What is the acceleration in free fall at the Earth's surface?**
+It is about 10 m/s², or 9.8 m/s² more precisely, matching g = 10 N/kg. All masses accelerate equally when there is no air resistance.
+
+**What does a newtonmeter measure?**
+A newtonmeter measures weight, which is a force, in newtons (N). A balance that reads in kilograms measures mass.
+
+**Which parts of this topic are separate Physics only in OCR GCSE Physics A?**
+In OCR GCSE (9-1) Physics A (J249), applying the weight formulae flexibly (P2.3j), pressure force in fluids (P2.3n) and p = F / A with hydraulics (P2.3o) are separate Physics only.
+
+**How does a hydraulic system work?**
+An enclosed liquid cannot be compressed, so it passes pressure on equally to both pistons. Because F₁ / A₁ = F₂ / A₂, a small force on a small piston gives a larger force on a large piston.
+
+**In which direction does the force from fluid pressure act?**
+At right angles to the surface. Saying it acts along or parallel to the surface is a common way to lose the mark.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249) specification*, Version 5.0 (July 2026), first assessment 2018, Topic P2 Forces, statements P2.3g to P2.3j, P2.3n and P2.3o, with the equation list in the appendix.

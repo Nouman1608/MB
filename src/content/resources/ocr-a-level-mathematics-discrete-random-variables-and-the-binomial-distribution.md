@@ -268,6 +268,20 @@ So Y ~ B(30, 0.4). Dividing the variance by the mean gives q straight away.
 - Using npq as the standard deviation. It is the variance, so take the square root when σ is asked for.
 - Writing q as the success probability. Check which of p and q the question gives you.
 
+## Frequently asked questions
+
+**What is a discrete random variable?**
+It is a number produced by a chance process that takes separate values, usually whole numbers. Its probability distribution lists every value with its probability, as a table or a formula.
+
+**What does X ~ B(n, p) mean?**
+It means X has a binomial distribution with n trials and probability of success p on each trial. Write it, with the parameters and what counts as a success, at the start of a binomial answer.
+
+**Is the binomial distribution on the OCR AS and A Level Mathematics papers?**
+In OCR A Level Mathematics A (H240), references 2.04a to 2.04c are Stage 1 content common with AS, while 2.04d, the mean np and variance npq, is A Level only.
+
+**Why is the number of throws until the first six not binomial?**
+The number of trials is not fixed, so one of the four binomial conditions fails.
+
 ## Next steps
 
 Condense this unit with the [revision notes](/resources/ocr-a-level-mathematics-discrete-random-variables-and-the-binomial-distribution-revision-notes/), then test yourself on the [practice set](/resources/ocr-a-level-mathematics-discrete-random-variables-and-the-binomial-distribution-practice/). Take one of the [free diagnostics](/diagnostics/) to find your weaker areas, and tick off 2.04a to 2.04d on the [checklist](/checklists/ocr/a-level/mathematics/).

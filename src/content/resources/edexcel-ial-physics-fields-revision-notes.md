@@ -15,11 +15,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-4-further-mechanics-fields-and-particles"
     subtopic: "electric-and-magnetic-fields"
-description: "Condensed recall notes on electric fields, capacitance, magnetic flux density and electromagnetic induction for Edexcel International A Level Physics YPH11 (Unit 4, WPH14)."
+description: "Condensed recall notes on electric fields, capacitance, magnetic flux density and electromagnetic induction for Edexcel IAL Physics YPH11 (Unit 4, WPH14)."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -201,3 +201,16 @@ Faraday:  induced e.m.f. = -d(N phi)/dt
   <figcaption>The induced pole always opposes the magnet movement, so the meter deflects one way going in and the other way coming out.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between a radial and a uniform electric field?**
+A radial field, around a point charge, obeys an inverse square law. A uniform field, between parallel plates, has parallel equally spaced field lines and the same strength everywhere, E = V/d.
+
+**Why does a charged particle move in a circle in a magnetic field?**
+The magnetic force is always perpendicular to the velocity, so it acts as a centripetal force. Setting BQv = mv²/r gives the radius r = mv/BQ.
+
+**Are capacitor combinations examined in Edexcel IAL Physics?**
+No. The only combination outcome in the specification is for resistors; combining capacitors in series and parallel is background only and not examinable.
+
+**How long does a capacitor take to discharge?**
+After one time constant RC the charge has fallen to about 37% of its initial value, and after about 5RC it is effectively fully discharged. A larger RC gives a slower discharge.

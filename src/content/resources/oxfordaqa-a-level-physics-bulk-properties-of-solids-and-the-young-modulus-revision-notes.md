@@ -198,6 +198,23 @@ For a metal such as copper, describe the curve in order. The line is straight an
 - Giving a practical uncertainty without saying that the diameter, squared in the area, dominates it.
 - Ignoring the compression distance when working out the height reached by a spring-launched object.
 
+## Frequently asked questions
+
+**What is Hooke's law?**
+Extension is proportional to the applied force, up to the limit of proportionality. In symbols F = kΔL, where k is the stiffness in N m⁻¹.
+
+**What does brittle mean in A-level Physics?**
+A brittle material fractures with little or no plastic deformation. Brittle does not mean weak, and a brittle material such as glass can still be strong.
+
+**Which length do I use to calculate strain?**
+Use the original length of the sample, not the stretched length. Strain = extension ÷ original length, and it has no unit.
+
+**How do you calculate the Young modulus from stress and strain?**
+Divide the tensile stress by the tensile strain. For example, a stress of 4.5 × 10⁸ Pa with a strain of 2.5 × 10⁻³ gives E = 1.8 × 10¹¹ Pa.
+
+**What dominates the uncertainty in a Young modulus experiment?**
+The measurement of the wire's diameter, because it is squared in the cross-sectional area. Mentioning this makes a practical uncertainty answer more specific.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Sections 3.2.9 and 3.2.10.

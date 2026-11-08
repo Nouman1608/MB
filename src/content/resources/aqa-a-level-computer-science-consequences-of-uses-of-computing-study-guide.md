@@ -12,65 +12,69 @@ order: 8
 syllabusTopics:
   - qualification: "a-level"
     topic: "consequences-of-uses-of-computing"
-description: "Moral, social, ethical and legal issues of computing for AQA A Level Computer Science, with the four key Acts and a method for extended-response answers."
+description: "AQA A Level Computer Science 7517 section 4.8 study guide: moral, ethical, legal and cultural issues, challenges for legislators and planning extended answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-08
 featured: false
 ---
 
-Computing changes how people work, communicate, shop, learn and are governed, and AQA expects you to discuss those changes, not just describe technology. This topic is assessed through extended written answers, so the skill is building a balanced, well-evidenced argument with correct terminology. It also expects accurate knowledge of the main UK laws that apply to computer use.
+Section 4.8 of AQA A Level Computer Science (7517) asks you to show awareness of the individual (moral), social (ethical), legal and cultural opportunities and risks of computing, and to discuss the challenges facing legislators in the digital age. It is assessed through extended written answers on Paper 2, so the skill is building a balanced, well-evidenced argument about a scenario, not reciting facts about technology.
 
-## Where this fits in the specification
+## What does the AQA 7517 specification say about this topic?
 
-Consequences of uses of computing is section 4.8 of AQA 7517 and is assessed on Paper 2. Questions are usually scenario based, such as a school introducing facial recognition or a company using an algorithm to screen job applicants, and often carry the longest mark allocations on the paper. It connects to [Fundamentals of data representation](/resources/aqa-a-level-computer-science-fundamentals-of-data-representation-study-guide/) through encryption and data protection, and to networking through privacy and censorship.
+Section 4.8.1 is short. Students must understand that:
 
-## The scope of the topic
+- developments in computer science and digital technologies have dramatically altered communications and information flows in societies, enabling massive transformations in the capacity to **monitor behaviour**, **amass and analyse personal information**, and **distribute, publish, communicate and disseminate personal information**;
+- computer scientists and software engineers therefore have **power**, and the **responsibilities** that go with it, in the algorithms they devise and the code they deploy;
+- software and its algorithms **embed moral and cultural values**;
+- the issue of **scale** (software is used the whole world over) gives individual computer scientists and software engineers the potential to do great good, but also to cause great harm.
 
-The specification asks you to discuss the effects of computing on individuals, society and culture. A useful way to organise any answer is to separate:
+Students must also be able to **discuss the challenges facing legislators in the digital age**. The specification's teaching notes suggest hypotheticals and case studies, using Google Street View as an example: weighing individual and cultural expectations, informed consent, the value of the service and its commercial value.
 
-- **Moral** issues: questions of right and wrong for individuals and organisations.
-- **Social** issues: effects on groups, communities and relationships.
-- **Ethical** issues: professional and organisational standards, such as fairness and honesty.
-- **Legal** issues: what the law requires or forbids.
-- **Cultural** and **environmental** issues: changes to ways of life and effects on the planet.
+The specification does **not** name any particular law, so no Act is required learning. You may cite real law as evidence (see below), but the marks come from the quality of the discussion.
 
-Then, for each, give an opportunity (benefit) and a risk (harm), and say who is affected.
+## How should you organise an answer?
 
-## Key areas
+Use the specification's own four headings:
 
-### Computers in the workforce
+- **Individual (moral)** issues: what is right or wrong for a person, such as a programmer asked to build a system that tracks users without consent.
+- **Social (ethical)** issues: effects on groups and society, and the standards of fairness expected of organisations.
+- **Legal** issues: what the law allows or forbids, and where the law has not kept up.
+- **Cultural** issues: changes to ways of life, values and expectations, which differ between communities and countries.
 
-Automation can remove repetitive, dangerous or precise work and raise productivity, so goods may become cheaper. It can also replace jobs, so some workers need retraining and communities that depend on one industry can suffer. New jobs, such as data analysts and robot maintenance staff, appear, but not always where or for whom the jobs were lost. Remote working through communication technology widens access to work but can blur the line between work and home and isolate staff.
+For each, give an **opportunity** (benefit) and a **risk** (harm), say **who** is affected, and link it to the scenario.
 
-### Automated decision making and artificial intelligence
+## What are the main areas to discuss?
 
-Algorithms are used to decide on loans, insurance, recruitment and policing. Benefits are speed, consistency and the ability to process large data sets. Risks include **bias** inherited from training data, which can disadvantage groups already disadvantaged; a lack of transparency when a decision cannot be explained; and unclear **accountability** when a system makes a harmful decision. Machine learning systems improve with data, so who owns, collects and checks that data matters. Autonomous vehicles raise a clear question: who is responsible after a collision, the owner, the manufacturer or the programmer?
+### Monitoring behaviour
 
-### Environmental effects
+Employers, schools, platforms and governments can monitor behaviour through CCTV, location data, logged communications and online activity. This can improve safety, detect crime and personalise services. It also intrudes on privacy, may happen without informed consent and can have a chilling effect on what people say and do.
 
-Devices use rare materials, and discarded equipment is **e-waste**, sometimes processed unsafely. Data centres use large amounts of electricity and cooling water. Against this, computing can reduce travel through video conferencing, optimise energy use in buildings and logistics, and model climate change.
+### Amassing and analysing personal information
 
-### Censorship, monitoring and privacy
+Organisations can collect and combine huge amounts of personal data cheaply and analyse it to predict behaviour, target advertising or make decisions about loans, insurance, jobs and policing. Benefits are speed, consistency and new services. Risks include **bias** inherited from historical data, decisions that cannot be explained (lack of transparency), unclear **accountability** when a system causes harm, and data being kept or reused for purposes people did not agree to.
 
-**Censorship** of the internet by a state or provider may protect people from illegal or harmful material, but it can also suppress legitimate speech and political opposition. **Monitoring** of behaviour by employers, schools or governments through CCTV, location data or logged communications can improve safety and security, but intrudes on privacy and can have a chilling effect on what people say. Companies analyse personal information to personalise services and advertisements, while the individual may not know what is collected or how it is used. Anonymity online can protect whistleblowers and also shield harassment, which makes offensive and illegal communications hard to trace. Piracy of software, music and film deprives creators of income, though supporters argue that some access would not otherwise be paid for.
+### Distributing and publishing personal information
 
-## The legislation
+Information can now be published to the whole world instantly and is hard to remove. This supports free expression, journalism and whistleblowing, but also enables harassment, the spread of private images and data leaks. Anonymity protects some users and shields others who cause harm.
 
-| Act | What it covers |
+### Power, responsibility, values and scale
+
+Because software embeds the values of the people who design it (what it measures, what it optimises, who it was tested on), developers carry moral responsibility. A design choice that is acceptable in one culture may not be in another. Because software runs at a global scale, one decision by a small team can affect millions of people, for good (free access to information, medical tools) or harm (a security flaw, a biased algorithm, a feature that spreads misinformation).
+
+## What challenges face legislators in the digital age?
+
+| Challenge | Why it is hard |
 |---|---|
-| **Data Protection Act 2018** (working with UK GDPR) | How personal data is collected, stored and used |
-| **Computer Misuse Act 1990** | Unauthorised access and related offences |
-| **Copyright, Designs and Patents Act 1988** | Ownership and copying of creative work, including software |
-| **Regulation of Investigatory Powers Act 2000** | Powers of public bodies to intercept and monitor communications |
+| **Pace of change** | Technology changes faster than laws can be written and passed |
+| **Jurisdiction** | Data and services cross borders; a company, its servers and its users may be in different countries |
+| **Enforcement** | Offenders can be anonymous or abroad; encrypted communications are hard to inspect |
+| **Balancing rights** | Privacy against security; free speech against protection from harm |
+| **Technical understanding** | Legislators may not fully understand the technology they regulate |
+| **Unforeseen uses** | A law written for one technology may not fit a new one, such as AI-generated content |
 
-**Data protection** works through principles: data must be processed lawfully, fairly and transparently, collected for specific purposes, adequate and not excessive, accurate, kept no longer than necessary, and held securely. People (data subjects) have rights, including to see their data, to have errors corrected and, in some cases, to have it erased. The organisation that decides how data is used is the **data controller**.
-
-The **Computer Misuse Act 1990** makes it an offence to access a computer without authorisation, to do so with intent to commit a further offence, and to modify material without authorisation (for example by planting malware). Penetration testing is legal only with the owner's permission.
-
-The **Copyright, Designs and Patents Act 1988** makes copying software, music or images without permission an offence, so licence terms must be followed. It protects the rights of creators and gives them the legal basis to claim for infringement.
-
-The **Regulation of Investigatory Powers Act 2000** sets out when and how authorised bodies may intercept communications, access communications data and carry out surveillance, and requires lawful authority for them.
+**Citing real law (optional evidence).** If you refer to a law, say accurately what it does. In the UK, for example, the Data Protection Act 2018 governs how organisations process personal data, and the Computer Misuse Act 1990 makes unauthorised access to computer material an offence. Naming an Act without explaining its relevance earns nothing, and an inaccurate claim weakens the answer.
 
 ## Worked example: building an extended answer
 
@@ -78,35 +82,57 @@ The **Regulation of Investigatory Powers Act 2000** sets out when and how author
 
 Plan the answer as a short sequence of paragraphs, each with a point, an explanation and a link back to the scenario.
 
-1. **Benefit, individual and social:** the system can process every record quickly and consistently, so waiting times may fall and urgent cases may be spotted that a busy clinician might miss.
-2. **Risk, bias and fairness:** if the system was trained on historical data in which some groups were treated later, it may reproduce that disadvantage. The hospital should test results by group and keep a clinician able to override the ranking.
-3. **Risk, accountability:** if a patient is harmed by a wrong priority, who is responsible? The hospital must decide in advance, and the system must record why it ranked each patient.
-4. **Legal, data protection:** health records are personal data. The hospital must have a lawful basis, limit use to the stated purpose, keep the data secure and let patients see and correct it.
-5. **Legal, misuse:** security must prevent unauthorised access, which would be an offence under the Computer Misuse Act 1990.
+1. **Opportunity (social):** the system can process every record quickly and consistently, so waiting times may fall and urgent cases may be spotted that a busy clinician might miss.
+2. **Risk, values embedded in the algorithm (ethical):** if it was trained on historical data in which some groups were treated later, it may reproduce that disadvantage. The hospital should test results by group and keep a clinician able to override the ranking.
+3. **Risk, responsibility (moral):** if a patient is harmed by a wrong priority, who is responsible: the developers, the hospital or the clinician? The system must record why it ranked each patient so decisions can be explained and challenged.
+4. **Legal:** health records are highly personal data. The hospital needs a lawful basis to use them, must limit use to the stated purpose and keep them secure; the law may not yet say clearly who is liable for an automated decision, which is a challenge for legislators.
+5. **Cultural:** patients may expect a human to make decisions about their care, and trust may differ between communities.
 6. **Conclusion:** weigh the two sides and give a judgement, for example that the system is acceptable only as an aid to staff, with oversight and regular audit.
 
-This structure covers benefit, risk, law and judgement, which is what an extended-response mark scheme rewards. A reply that lists only advantages or only disadvantages is one-sided and is unlikely to earn the top marks.
+This structure covers opportunity, risk, law and judgement, which is what an extended-response mark scheme rewards. A reply that lists only advantages or only disadvantages is one-sided and is unlikely to earn the top marks.
 
 ## Common mistakes
 
 - Giving a list of points without explaining the consequence of each.
-- Naming an Act without saying what it requires. "Data Protection Act" alone earns nothing.
-- Confusing the Computer Misuse Act (unauthorised access) with the Copyright, Designs and Patents Act (copying).
+- Treating the topic as a list of laws to memorise. The specification names none; it asks for discussion.
+- Naming a law without saying what it requires, or getting it wrong.
 - Treating a technology as simply good or bad. Mark schemes look for balance.
 - Ignoring the scenario and writing a general essay.
 - Stating that a law "prevents" a harm. Laws prohibit conduct and provide penalties, but cannot stop it happening.
 
 ## Exam technique
 
-Read the command word: **discuss** requires both sides and a judgement; **describe** needs an account of what happens; **explain** needs a reason. For long answers, spend a minute choosing three or four issues from different categories (moral, social, legal, environmental), then write one clear paragraph per issue, using terms such as bias, accountability, privacy, consent and surveillance. Refer to the named people in the scenario.
+Read the command word: **discuss** requires both sides and a judgement; **describe** needs an account of what happens; **explain** needs a reason. For long answers, spend a minute choosing three or four issues from different categories (moral, ethical, legal, cultural), then write one clear paragraph per issue, using terms such as bias, accountability, privacy, consent, surveillance and scale. Refer to the named people in the scenario.
+
+## Frequently asked questions
+
+**Do I need to learn specific Acts for AQA 7517?**
+No. Section 4.8 does not name any law. You need to discuss legal issues and the challenges facing legislators; citing a real law accurately is optional supporting evidence.
+
+**What does "software embeds moral and cultural values" mean?**
+Software reflects the choices of its designers: what data it uses, what it optimises and who it was tested on. Those choices carry values, which may not suit every user or culture.
+
+**Why does scale matter in computing ethics?**
+Software can be used by millions of people worldwide, so one developer's decision can do great good or cause great harm far beyond what one person could do without it.
+
+**How are these questions marked?**
+They are extended-response questions marked on levels. Top answers are balanced, cover several categories of issue, apply each point to the scenario and reach a reasoned judgement.
 
 ## Check your understanding
 
-1. Name the Act that makes unauthorised access to a computer an offence. *Answer: the Computer Misuse Act 1990.*
-2. State two principles of data protection. *Answer: for example that data is kept no longer than necessary, and that it is held securely.*
-3. Give one way automated decision making may be unfair. *Answer: it may be trained on biased historical data and so repeat that bias.*
-4. Why is the lack of transparency in an algorithm a problem? *Answer: people affected cannot understand or challenge the decision.*
-5. What is e-waste and why does it matter? *Answer: discarded electronic equipment; it contains hazardous and valuable materials and may be disposed of unsafely.*
-6. Describe one risk of employer monitoring of staff. *Answer: it can intrude on privacy and reduce trust and morale.*
-7. Which Act covers software copying? *Answer: the Copyright, Designs and Patents Act 1988.*
-8. What does RIPA 2000 regulate? *Answer: the interception of communications and surveillance by public bodies.*
+1. Name the three capacities that the specification says computing has transformed. *Answer: to monitor behaviour; to amass and analyse personal information; to distribute, publish, communicate and disseminate personal information.*
+2. Give one way automated decision making may be unfair. *Answer: it may be trained on biased historical data and so repeat that bias.*
+3. Why is the lack of transparency in an algorithm a problem? *Answer: people affected cannot understand or challenge the decision.*
+4. Give two challenges facing legislators in the digital age. *Answer: any two of pace of change, jurisdiction, enforcement, balancing rights, technical understanding, unforeseen uses.*
+5. Describe one risk of employer monitoring of staff. *Answer: it can intrude on privacy and reduce trust and morale.*
+6. Why do software engineers carry responsibility for their code? *Answer: their algorithms embed values and run at a scale that can do great good or great harm.*
+7. What are the four categories of issue named in the specification? *Answer: individual (moral), social (ethical), legal and cultural.*
+
+## Related pages
+
+- [Consequences of uses of computing revision notes](/resources/aqa-a-level-computer-science-consequences-of-uses-of-computing-revision-notes/)
+- [Consequences of uses of computing practice questions](/resources/aqa-a-level-computer-science-consequences-of-uses-of-computing-practice/)
+
+## Official specification
+
+AQA, *AS and A-level Computer Science 7516/7517 specification*, Version 1.6 (31 July 2023), section 4.8.1 "Individual (moral), social (ethical), legal and cultural issues and opportunities".

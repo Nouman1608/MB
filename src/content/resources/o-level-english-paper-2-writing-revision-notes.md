@@ -12,11 +12,11 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "writing-1123"
-description: "Condensed recall notes on Directed Writing and Composition, mark allocation, and the five writing assessment objectives for Paper 2 of Cambridge O Level English Language (1123)."
+description: "Condensed notes on Cambridge O Level English Language 1123 Paper 2: directed writing and composition, mark allocation and the writing objectives W1 to W5."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -130,6 +130,20 @@ introductory stage and into focused, paper-specific exam preparation.
 **Answers:** 1. 80% Writing, 20% Reading — the reverse of Paper 1 (80% Reading, 20% Writing). 2. R3
 and R5. 3. Because there is no set audience or format being tested in Section B. 4. Section A:
 250-350 words. Section B: 350-450 words. 5. Consider, describe, explain.
+
+## Frequently asked questions
+
+**How long should my answers be in Cambridge O Level English Language 1123 Paper 2?**
+Aim for about 250 to 350 words for the Section A directed writing and about 350 to 450 words for the Section B composition.
+
+**Why is register (W4) not assessed in the 1123 composition?**
+Section B has no set audience or format being tested, so register is not separately assessed there. Its 25 marks go to W1, W2, W3 and W5.
+
+**How many source texts should I use in 1123 directed writing?**
+Draw at least one specific point from each source text when two are given. Using only one source, or writing a general opinion essay not grounded in the texts, are the most common ways to lose marks.
+
+**What composition questions are offered in 1123 Paper 2?**
+Section B offers a choice of four questions, two descriptive and two narrative, and you answer one. A descriptive piece focuses on a person, place or situation with no plot, while a narrative needs a sequence of connected events.
 
 ## Official syllabus
 

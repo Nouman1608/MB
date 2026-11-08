@@ -166,6 +166,20 @@ Check: 1 + 6 + 6 + 1 = 14 = 2 × (3 + 4).
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are the most common mistakes in chemical bonding questions?**
+Common slips include describing ionic compounds as molecules, drawing ions without brackets or charges, and using the wrong number of atoms so that electrons lost do not equal electrons gained.
+
+**How should halogens be written in equations?**
+Halogens are diatomic, so write them as I₂, Cl₂ or Br₂ in equations, not as single atoms. For example, 2Li + I₂ → 2LiI.
+
+**What must a covalent dot and cross diagram show?**
+Show each shared pair with one electron from each atom, and include all the non-bonding pairs, such as those on oxygen, nitrogen or halogen atoms. Missing non-bonding pairs is a frequent error.
+
+**What particles move in metallic bonding?**
+The delocalised particles in a metal are electrons. Writing "free ions" or "free protons" instead of delocalised electrons loses the mark.
+
 ## Official syllabus
 
 Source document: the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, from OxfordAQA. These questions follow its section 3.2.1, Chemical bonds: ionic, covalent and metallic.

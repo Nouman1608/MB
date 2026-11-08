@@ -155,6 +155,20 @@ Links: [study guide](/resources/oxfordaqa-a-level-physics-induced-fission-reacto
 - All free 10-minute [diagnostics](/diagnostics/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**What is the difference between the moderator and the control rods?**
+The moderator slows fast neutrons down to thermal speeds so they can cause further fission. Control rods absorb neutrons to keep the chain reaction steady or to shut it down. Saying the moderator absorbs neutrons is a common error.
+
+**Why does a reactor still need cooling after an emergency shut-down?**
+Inserting the control rods stops the chain reaction, but the fission products keep decaying and releasing energy. If cooling is lost, this decay heat can still melt the fuel.
+
+**Are these OxfordAQA A-level Physics past paper questions?**
+No. They are original practice questions with worked answers, written for revision on this topic of OxfordAQA International AS and A-level Physics (9630). Use them alongside the official past papers from the board.
+
+**Which sections of the OxfordAQA 9630 specification do these questions cover?**
+They cover sections 3.12.3 (induced fission), 3.12.4 (safety aspects of nuclear reactors) and 3.12.5 (nuclear fusion) of OxfordAQA International AS and A-level Physics (9630), which are International A-level only.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), specification version 4.4, for exams from May/June 2020 onwards, published by Oxford International AQA Examinations: sections 3.12.3 Induced fission, 3.12.4 Safety aspects of nuclear reactors and 3.12.5 Nuclear fusion (International A-level only).

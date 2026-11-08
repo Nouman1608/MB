@@ -230,6 +230,20 @@ Switching only 4 hectares from wheat to potatoes: gain 4 × 1,150 = £4,600, los
 - Describing a calculation result without applying it, for example saying the machine is cheaper but not weighing job losses.
 - Confusing scarcity with a shortage of a single product.
 
+## Frequently asked questions
+
+**What is the difference between goods and services?**
+Goods are physical items; services are activities done for others.
+
+**What is an economic resource?**
+An economic resource is an input to production that is limited in supply and can be used in more than one way.
+
+**Is scarcity the same as a shortage of a product?**
+No. Scarcity is the basic economic problem of there not being enough resources to meet everyone's wants; it is not a shortage of one particular product.
+
+**Who are the three main economic groups?**
+Consumers, producers and government.
+
 ## Official syllabus
 
 Source: the AQA GCSE Economics specification (8136), Version 1.0, published by AQA, for first teaching from September 2017. This page follows section 3.1.1, Economic foundations.

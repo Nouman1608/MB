@@ -220,6 +220,20 @@ Two-dimensional work is Stage 1 (shared with AS). Three-dimensional vectors (1.1
 </figure>
 
 
+## Frequently asked questions
+
+**Which vectors content is A Level only in OCR A Level Mathematics A (H240)?**
+Two-dimensional work is Stage 1, shared with AS. Three-dimensional vectors, 1.10b, and kinematics with vectors, 1.10h, are A Level only.
+
+**What is the difference between parallel and equal vectors?**
+Parallel vectors satisfy b = ka for some non-zero scalar k, so they can have different lengths and point in opposite directions. Equal vectors have the same magnitude and the same direction.
+
+**How do you find the point dividing AB in a given ratio?**
+If AP : PB = m : n, then p = a + m(b − a)/(m + n). Setting m = n gives the midpoint, (a + b)/2.
+
+**Is |a + b| equal to |a| + |b|?**
+Only when the vectors point the same way. To combine forces or velocities, add the vectors component by component and then find the magnitude.
+
 ## Official syllabus
 
 OCR, *A Level in Mathematics A (H240)*, Version 3.1 (August 2026), for first assessment in 2018, section 1.10 (Vectors), with the constant acceleration formulae from section 3.02e.

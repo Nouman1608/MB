@@ -22,11 +22,11 @@ syllabusTopics:
     subtopic: "chromosome-behaviour-in-mitosis-cambridge-alevel"
 description: "Condensed revision notes for Cambridge 9700 mitotic cell cycle: chromosome terms, cycle stages, telomeres, stem cells, tumours and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 These revision notes condense topic 5, The mitotic cell cycle, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. They cover sub-topics 5.1 (Replication and division of nuclei and cells) and 5.2 (Chromosome behaviour in mitosis). It is all AS Level content, tested on Paper 1 and Paper 2, and assumed knowledge for Paper 4. For full explanations and worked examples, use the [mitotic cell cycle study guide](/resources/a-level-biology-9700-the-mitotic-cell-cycle/).
@@ -259,6 +259,23 @@ time = 0.05 × 16 = 0.8 h = 48 min
 - Defining a stem cell as "a cell that can become any cell" with no mention of mitosis or differentiation.
 - Omitting the assumption (random, unsynchronised division) when calculating time from counts.
 - Forgetting to convert mm to µm in actual size calculations.
+
+## Frequently asked questions
+
+**What do telomeres do?**
+DNA replication cannot copy the very end of the molecule, so a short piece is lost from each end every cycle. Telomeres are non-coding repeated sequences at the ends, so the piece lost is telomere and genes are not lost.
+
+**What is a stem cell?**
+A stem cell is an unspecialised cell that divides by mitosis and gives rise to cells that can differentiate into specialised cells. One daughter can remain a stem cell, so the supply is not used up.
+
+**How do you calculate the time a cell spends in one stage of mitosis?**
+Divide the number of cells in that stage by the total counted, then multiply by the length of the whole cycle. This assumes cells are dividing at random times.
+
+**How does cytokinesis differ in plant and animal cells?**
+In animal cells the cell surface membrane pinches inwards. In plant cells the cell wall prevents pinching, so vesicles collect at the equator and fuse to form a cell plate.
+
+**Do plant cells form a spindle without centrioles?**
+Yes. Plant cells lack centrioles but still form a spindle during mitosis.
 
 ## Official syllabus
 

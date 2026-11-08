@@ -202,6 +202,23 @@ Chain to write: habitat or food removed, so fewer niches, so fewer species, so l
 </figure>
 
 
+## Frequently asked questions
+
+**What is the lowest possible value of the index of diversity?**
+The lowest value is 1, when only one species is present. If every species has one individual, Σn(n − 1) is 0 and d cannot be calculated.
+
+**What does a higher index of diversity mean?**
+A higher d means more species and a more even spread of individuals, so a more diverse community. It does not mean more individuals.
+
+**How does farming reduce biodiversity?**
+Farming techniques remove or simplify habitats and food sources, so there are fewer niches, fewer species and a lower index of diversity.
+
+**When can you compare two index of diversity values?**
+Only when the samples were collected with the same method, effort and time of year, and are large enough and random.
+
+**What is the difference between a community and a population?**
+A community is all the populations of different species in a habitat; a population is all the individuals of one species.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401, 7402), for first teaching 2015, published by AQA. These notes are aligned to section 3.4.6 and maths skill MS 2.3.

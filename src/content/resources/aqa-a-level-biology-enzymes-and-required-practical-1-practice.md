@@ -160,6 +160,20 @@ A tangent drawn at time 0 passes through (0, 0.00) and (30, 0.53).
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Should you say an enzyme is "killed" by heat?**
+No. Enzymes are not alive, so use "denatured". Using "killed" or "dead" loses marks in AQA 7402 answers.
+
+**How do you find the initial rate of an enzyme reaction from a graph?**
+Draw a tangent to the curve at time 0 and calculate its gradient using two points far apart. Drawing the tangent at the wrong place is a common mistake.
+
+**What should you say when naming a control variable?**
+Say how it is kept constant, for example using a water bath for temperature or a buffer for pH. Naming the variable alone is not enough.
+
+**Which part of the AQA specification do these enzyme questions cover?**
+They cover section 3.1.4.2 on enzymes and Required Practical 1, the investigation into a factor affecting the rate of an enzyme-controlled reaction.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401, 7402), for first teaching 2015, published by AQA. Section 3.1.4.2 and Required Practical 1.

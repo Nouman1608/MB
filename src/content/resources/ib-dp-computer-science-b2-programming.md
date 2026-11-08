@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-computer-science-theme-b"
     subtopic: "ib-dp-computer-science-b-2"
-description: "The programming process, core constructs, pseudocode and testing -- B.2 Programming, the largest single sub-topic in the IB Diploma Programme Computer Science syllabus at SL, first assessment 2027, and how it links to B.1's computational thinking cycle."
+description: "Guide to B.2 Programming in IB DP Computer Science, first assessment 2027: core constructs, modularity, pseudocode design, test plans and links to B.1."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -144,6 +144,20 @@ direct programming expression of decomposing a problem.
 - Know how modularity connects directly to B.1's "decompose" step.
 - Carry good testing and documentation habits from B.2 practice
   forward into the computational solution internal assessment.
+
+## Frequently asked questions
+
+**What does B.2 Programming cover in IB DP Computer Science?**
+B.2 covers sequence, selection and iteration, data types and structures, modularity, file and data handling, pseudocode and program design, and testing and debugging.
+
+**Which paper assesses B.2 Programming?**
+Paper 2 draws on Theme B, including B.2 and B.3 object-oriented programming at both levels, and B.4 abstract data types at HL only.
+
+**What should a test plan for a score from 0 to 100 include?**
+It should include a normal value such as 75, boundary values 0 and 100, and erroneous values such as −5 and 150, each with its expected outcome.
+
+**Is a program that runs without crashing correct?**
+Not necessarily. A program must also be checked with normal, boundary and erroneous test data against expected outcomes before it can be considered properly tested.
 
 ## Official syllabus
 

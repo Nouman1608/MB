@@ -157,6 +157,20 @@ Learn the content first with the [Section D study guide](/resources/aqa-a-level-
 - In periodic sequences, not stating the period before summing.
 - Giving answers to models without units, months or context.
 
+## Frequently asked questions
+
+**What does Section D of AQA A-level Maths cover?**
+Section D: Sequences and series (D1 to D6) of AQA 7357 covers binomial expansion, sequences and recurrence relations, sigma notation, arithmetic and geometric sequences and series, and using sequences in modelling.
+
+**Why do brackets matter in a binomial expansion?**
+The whole term, sign included, must be raised to the power. Writing −3x⁴ instead of (−3x)⁴ gives the wrong size and sign of the coefficient and loses the method mark.
+
+**How do you find the least n for which a sum exceeds a value?**
+Set up the inequality with Sₙ, solve it, and round up to the next integer, checking the neighbouring values. For a geometric series, remember to reverse the inequality when dividing by the log of a number between 0 and 1.
+
+**When can you use the sum to infinity of a geometric series?**
+Only when the common ratio satisfies |r| < 1. State this condition before quoting the sum to infinity.
+
 ## Next steps
 
 - Recap with the [Section D revision notes](/resources/aqa-a-level-mathematics-sequences-and-series-revision-notes/)

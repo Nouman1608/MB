@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Break-even analysis (YAC11) -- Practice Questions"
+title: "Edexcel International A Level Accounting: Break-even analysis (YAC11) -- Practice Questions"
 seoTitle: "Edexcel IAL Accounting Break-even Practice Questions"
 resourceType: "practice-questions"
 subject: "accounting"
@@ -146,6 +146,20 @@ Automating assembly would cut direct labour by 6.00 per pump and add 12,000 a ye
 - Ignoring a semi-fixed step, so a second break-even point is missed.
 - Plotting total costs from the origin, or stopping lines at the budget instead of capacity.
 - Giving an evaluation with no final recommendation.
+
+## Frequently asked questions
+
+**Are these Edexcel YAC11 break-even questions from past papers?**
+No. They are original practice questions with worked answers on topic 2.7 of Pearson Edexcel International A Level Accounting (YAC11), written for revision. Use them alongside the official past papers.
+
+**What are the most common mistakes in break-even calculations?**
+Common errors include dividing fixed costs by selling price instead of contribution, rounding break-even units down, calculating the margin of safety percentage on break-even sales, and forgetting the fixed element after the high-low method.
+
+**How can I check a fixed cost found by the high-low method?**
+Calculate the fixed element at both the high and the low output levels before building on it. Both results should agree.
+
+**How do I earn marks on an evaluation question about break-even?**
+Back the judgement with figures from earlier parts of the question, such as the change in profit, and finish with a recommendation. Pros and cons with no decision limit the credit.
 
 ## Next steps
 

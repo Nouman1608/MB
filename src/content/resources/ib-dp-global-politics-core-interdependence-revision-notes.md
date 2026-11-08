@@ -182,6 +182,20 @@ Use these links in Paper 1's longer answers. Keep the main focus on interdepende
 - Giving one-sided evaluations; Paper 1's longest question rewards exploring and evaluating different perspectives.
 - Naming a treaty without saying what it requires and whether states comply.
 
+## Frequently asked questions
+
+**What is the difference between sensitivity and vulnerability in interdependence?**
+Sensitivity is how badly an actor is hit by a change elsewhere, while vulnerability is how costly it is for that actor to adjust, for example by finding another supplier, market or ally. Both terms help show who depends on whom more in IB DP Global Politics answers.
+
+**How does voting work in the UN Security Council?**
+The Security Council has 15 members: five permanent members (China, France, Russia, the UK and the USA) and ten elected for two-year terms. A substantive decision needs nine votes in favour and no veto from a permanent member; an abstention is not a veto.
+
+**What is the difference between collective security and collective defence?**
+Collective security means all members of a system act against any member that commits aggression, which is the UN model. Collective defence means allies defend each other against an attack from outside, as in NATO's Article 5.
+
+**What is the difference between supranational and intergovernmental cooperation?**
+Supranational decisions bind members even when an individual member disagrees, as with much EU law. Intergovernmental cooperation lets states keep a veto or a right to opt out, as with ASEAN's consensus approach.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Diploma Programme *Global politics guide*, first assessment 2026 (published February 2024). Prescribed topic: Interdependence in global politics, within the core topics. See also the [syllabus guide](/resources/ib-dp-global-politics-syllabus-guide/) and [exam preparation guide](/resources/ib-dp-global-politics-exam-preparation/).

@@ -250,6 +250,20 @@ Interpreting the result: the MgI₂ lattice enthalpy is over three times that of
 
 Read the [one-sitting summary notes](/resources/ib-dp-chemistry-energy-cycles-in-reactions-revision-notes/) next, then try the [practice set](/resources/ib-dp-chemistry-energy-cycles-in-reactions-practice/) with full worked answers. Use the [checklist](/checklists/ib/ib-dp/chemistry/) to tick off each understanding.
 
+## Frequently asked questions
+
+**What is Hess's law?**
+Hess's law states that ΔH for a reaction does not depend on the route taken from the initial state to the final state, which follows from conservation of energy. Reverse an equation to change the sign of ΔH, and scale ΔH when you scale the equation.
+
+**What is a Born–Haber cycle used for?**
+A Born–Haber cycle uses Hess's law to find the lattice enthalpy of an ionic compound, which cannot be measured directly, from atomization, ionization, electron affinity and formation data. Building a complete cycle from nothing is not assessed, but HL students must read one and calculate a missing value.
+
+**What do standard conditions mean in IB DP Chemistry?**
+Standard conditions mean a pressure of 100 kPa, with data usually quoted at 298 K, and each substance in its standard state. For carbon the standard state is graphite.
+
+**Why is breaking a bond endothermic?**
+Energy must be put in to separate the bonded atoms, so bond breaking is endothermic. When a bond forms, the same amount of energy is released.
+
 ## Official syllabus
 
 Source document: International Baccalaureate Organization, *Diploma Programme Chemistry guide*, first assessment 2025 (published February 2023), sub-topic Reactivity 1.2.

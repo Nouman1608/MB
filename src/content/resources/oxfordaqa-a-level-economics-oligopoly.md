@@ -242,6 +242,23 @@ A revenue maximiser sells more at a lower price than a profit maximiser.
 - Saying collusion always works; state why cheating is tempting.
 - Treating a high concentration ratio as proof of collusion.
 
+## Frequently asked questions
+
+**What are the main characteristics of oligopoly?**
+An oligopoly has a small number of firms with a large share of sales, barriers to entry that protect the leaders, products that may be identical or differentiated, and interdependence, so each firm's best choice depends on rivals' responses.
+
+**What does the kinked demand curve show?**
+It assumes rivals ignore a price rise but match a price cut, so demand is elastic above the current price and inelastic below it. Marginal revenue has a vertical gap under the kink, so marginal cost can change without changing price.
+
+**What are the limitations of the kinked demand curve model?**
+It does not explain why the kink price was chosen, a cost rise common to all firms is usually matched by rivals, and real prices do change, often through price leadership. The OxfordAQA 9640 specification says it offers insight into only some features of some oligopolies.
+
+**Why do cartels tend to break down?**
+Each firm gains by secretly raising its own output above its quota, but if all cheat, the market price falls and joint profit drops, so agreements collapse unless cheating is easy to spot and punish.
+
+**Is game theory in the OxfordAQA 9640 oligopoly specification?**
+Section 3.3.3.4 of the OxfordAQA 9640 specification does not name game theory. A payoff table can still be used to illustrate interdependence between firms.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, first teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022; published by OxfordAQA.

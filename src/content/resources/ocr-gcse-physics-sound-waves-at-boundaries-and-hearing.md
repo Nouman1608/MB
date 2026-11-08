@@ -212,6 +212,23 @@ Hearing changes with age. The ability to hear the highest frequencies is usually
 
 Work through the [revision notes](/resources/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing-revision-notes/), then the [practice questions](/resources/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing-practice/). Tick off progress on the [checklist](/checklists/ocr/gcse/physics/) and see the [hub](/boards/ocr/gcse/physics/).
 
+## Frequently asked questions
+
+**In which materials does sound travel fastest?**
+As a general pattern, sound travels slowest in gases, faster in liquids and fastest in solids, because the particles are closer together and pass the disturbance on more quickly.
+
+**How does sonar measure the depth of the sea?**
+A ship sends a pulse of sound downwards and times the echo from the seabed. The sound travels down and back, so the depth is half of speed × time.
+
+**What is ultrasound?**
+Ultrasound is sound with a frequency above the upper limit of human hearing, about 20 kHz. Sound below 20 Hz is called infrasound.
+
+**Why does hearing get worse with age?**
+The ability to hear the highest frequencies is usually lost first, so the upper limit falls. Causes include damage to the hair cells, which the body does not replace, and wear from loud noise over many years.
+
+**What does the eardrum do?**
+The eardrum converts a sound wave in air into a vibration of a solid. It does not convert sound into electricity.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), first assessment 2018. Statements P5.1f to P5.1i.

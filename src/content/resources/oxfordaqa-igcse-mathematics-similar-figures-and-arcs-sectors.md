@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "geometry-and-measures-oxfordaqa-igcse-maths"
     subtopic: "mensuration-and-calculation-oxfordaqa-igcse-maths"
-description: "Study guide to similar figures, arc lengths and sector areas for OxfordAQA International GCSE Mathematics, with fully worked examples."
+description: "Study guide to similar figures, arc lengths and sector areas for OxfordAQA International GCSE Mathematics, with fully worked examples (9260)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -317,6 +317,19 @@ The arc is a length, so it scales by k. The area scales by k². Checking this li
   <figcaption>Arc length and sector area are the same fraction, angle over 360, of the circumference and the area.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does it mean for two figures to be similar?**
+Two figures are similar when one is an enlargement of the other: every pair of matching angles is equal and every pair of matching lengths is in the same ratio, the scale factor k.
+
+**How do you find the angle of a sector from its arc length?**
+Rearrange the arc length formula: θ = arc length ÷ (2πr) × 360. From the area, θ = area ÷ (πr²) × 360.
+
+**Does mass scale like volume for similar objects?**
+Yes, if the objects are made of the same material, because mass is proportional to volume. So mass scales by k³.
+
+**Are two sectors with the same angle similar?**
+Yes. Two sectors with equal angles are similar, so their arc lengths scale by k and their areas by k², where k is the ratio of the radii.
 
 ## Official syllabus
 

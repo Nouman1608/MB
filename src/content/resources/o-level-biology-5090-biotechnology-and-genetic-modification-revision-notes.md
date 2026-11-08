@@ -250,6 +250,20 @@ Reminder: percentage increase = (change ÷ starting value) × 100. If juice volu
 - Giving only advantages in a "discuss" question about GM.
 - Dividing by the final value when calculating a percentage increase.
 
+## Frequently asked questions
+
+**Why are bacteria useful in biotechnology?**
+Cambridge O Level Biology 5090 gives four reasons: a rapid reproduction rate, the ability to make complex molecules, no ethical concerns over their manipulation and growth, and the presence of plasmids into which genes can be inserted.
+
+**Which fermenter conditions do you need to know for 5090?**
+The syllabus limits fermenter conditions to five: temperature, pH, oxygen, nutrient supply and waste products. For each, know how it is controlled and why it matters.
+
+**What is the useful product of yeast in bread-making and in ethanol production?**
+Both use anaerobic respiration in yeast (glucose → ethanol + carbon dioxide). In bread, carbon dioxide is the useful product because its bubbles make the dough rise; in ethanol production, the ethanol is the useful product.
+
+**Is insulin or the insulin gene put into bacteria?**
+The gene that controls the production of human insulin is inserted into bacterial DNA, using a plasmid. The bacteria then make the insulin; the hormone itself is not put into them.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 18: Biotechnology and genetic modification, published by Cambridge Assessment International Education.

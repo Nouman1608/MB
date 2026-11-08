@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "electrons-waves-and-photons"
     subtopic: "waves-ocr-alevel"
-description: "Original practice questions with worked answers on EM waves, polarisation, refraction, critical angle and TIR for OCR A Level Physics A."
+description: "Original practice questions with worked answers on EM waves, polarisation, refraction, critical angle and total internal reflection for OCR A Level Physics A."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false
@@ -154,6 +154,20 @@ These questions cover the OCR Advanced GCE in Physics A (H556) specification, Ve
 - Omitting one of the two conditions for total internal reflection.
 - Saying the frequency changes when light enters glass.
 - Plotting i against r and quoting a gradient as n.
+
+## Frequently asked questions
+
+**What are the most common mistakes in refraction questions?**
+Common errors include measuring angles from the surface instead of the normal, plotting i against r and quoting the gradient as n, and saying the frequency changes when light enters glass. Using sin C = 1/n for a boundary between two materials also loses marks.
+
+**What are the two conditions for total internal reflection?**
+Light must travel from a medium of higher refractive index towards one of lower refractive index, and the angle of incidence must be greater than the critical angle. Missing either condition loses a mark.
+
+**How should you describe polarisation in an exam answer?**
+Describe a plane polarised wave as one whose oscillations are confined to a single plane containing the direction of travel. "Vibrating up and down" is not precise enough.
+
+**How do you explain why light bends towards the normal?**
+Say that light slows down because the second medium has a higher refractive index, so the ray bends towards the normal. Mentioning slowing down without the higher refractive index is incomplete.
 
 ## Next steps
 

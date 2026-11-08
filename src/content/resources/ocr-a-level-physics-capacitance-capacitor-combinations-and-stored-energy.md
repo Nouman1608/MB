@@ -265,6 +265,20 @@ The mean power is about 90 kW.
 - Using the e.m.f. as the p.d. across a capacitor that sits across one resistor.
 - Writing W = QV. The factor ½ comes from the p.d. rising during charging.
 
+## Frequently asked questions
+
+**What is capacitance in OCR A Level Physics A?**
+Capacitance is the charge stored per unit p.d. across a capacitor, C = Q/V, where Q is the size of the charge on one plate. It is measured in farads, where 1 F = 1 C V⁻¹; in OCR A Level Physics A (H556) this is section 6.1.1(a).
+
+**Does charge flow through a capacitor?**
+No. No electrons cross the insulating gap; charge flows to and from the plates through the external circuit. During charging, electrons move onto one plate and leave the other.
+
+**Why is the energy stored in a capacitor ½QV and not QV?**
+The p.d. across the capacitor rises from zero as it charges, so the energy stored is the area under the V-Q graph, a triangle of area ½QV. The battery supplies QV, but only ½QV is stored.
+
+**Why are capacitors used in defibrillators and camera flashes?**
+A capacitor can release its stored energy in a very short time, so the power can be very large. For the same mass, though, it stores much less energy than a battery.
+
 ## Official syllabus
 
 OCR, *Advanced GCE in Physics A (H556)* specification, Version 3.0, March 2026, first assessment 2017, sections 6.1.1 and 6.1.2.

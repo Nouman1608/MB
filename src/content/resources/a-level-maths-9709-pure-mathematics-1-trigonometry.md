@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "trigonometry-cambridge-alevel-maths-1"
 description: "Study guide to Cambridge 9709 Pure Mathematics 1 section 1.5 Trigonometry: graphs, exact values, sin⁻¹x, two identities and equations, fully worked."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -295,6 +295,23 @@ Dividing is safe here only because cos x = 0 does not satisfy the original equat
 - Taking cos θ = +12/13 without checking the quadrant.
 - Cancelling sin θ or cos θ and losing the solutions where it equals zero.
 - Keeping a value such as sin θ = 1.5 (or cos θ = −3), which has no solutions.
+
+## Frequently asked questions
+
+**What are the exact values of sin, cos and tan for 30°, 45° and 60°?**
+sin 30° = 1/2, sin 45° = √2/2, sin 60° = √3/2; cos 30° = √3/2, cos 45° = √2/2, cos 60° = 1/2; tan 30° = √3/3, tan 45° = 1 and tan 60° = √3. They can be rebuilt from half an equilateral triangle and a right isosceles triangle.
+
+**Which trigonometric ratios are positive in each quadrant?**
+All three are positive in the first quadrant, only sin in the second, only tan in the third and only cos in the fourth.
+
+**Are general solutions required in Cambridge 9709 Paper 1 trigonometry?**
+No. Section 1.5 asks for all solutions of simple trigonometric equations in a given interval, not general solutions.
+
+**Is sin⁻¹x the same as 1/sin x?**
+No. sin⁻¹x is the inverse function, which gives a principal value between −π/2 and π/2. 1/sin x is the reciprocal of sin x.
+
+**When is it safe to divide a trigonometric equation by cos x?**
+Only when cos x = 0 cannot be a solution of the original equation. If sin x or cos x is a common factor, factorise instead so you keep the zero solutions.
 
 ## Next steps
 

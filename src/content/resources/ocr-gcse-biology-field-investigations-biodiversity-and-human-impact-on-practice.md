@@ -163,6 +163,23 @@ Links: [study guide](/resources/ocr-gcse-biology-field-investigations-biodiversi
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you scale up a quadrat count to the whole area?**
+Work out the mean number per quadrat, divide by the quadrat area to get the number per square metre, and multiply by the total area. Giving the mean per quadrat when an estimate for the whole area is asked for is a common error.
+
+**Why does quadrat size matter in calculations?**
+A quadrat of 0.25 m² covers only a quarter of a square metre, so treating it as 1 m² gives an estimate four times too small. Always use the quadrat's area, not its side length.
+
+**Is a capture-recapture estimate an exact count?**
+No. Capture-recapture gives an estimate of the population size that depends on assumptions, such as marked animals mixing back into the population. Treating it as an exact count loses marks.
+
+**Can a pattern in field data prove a cause?**
+No. A pattern or correlation shows an association between two variables but does not prove that one causes the other. Quote figures from the data when describing it.
+
+**Which part of the J247 specification do these questions cover?**
+They cover OCR GCSE Biology A (J247) topic B6.1, statements B6.1a to B6.1d: field investigations, human impact on biodiversity, conservation and environmental change.
+
 ## Official syllabus
 
 Source: OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Topic B6.1 Monitoring and maintaining the environment, statements B6.1a to B6.1d.

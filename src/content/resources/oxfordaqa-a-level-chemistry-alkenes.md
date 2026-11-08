@@ -377,6 +377,23 @@ conversion? (Mr: C₂H₄O = 44.0, C₂H₆O₂ = 62.0)
 - Polymer unreactivity blamed on "strong intermolecular forces".
 - Epoxyethane ring opening drawn as electrophilic attack; water and alcohols attack as nucleophiles.
 
+## Frequently asked questions
+
+**How is epoxyethane made?**
+Epoxyethane is made by the partial oxidation of ethene with oxygen over a silver catalyst at about 220–280 °C and 1–3 MPa: 2CH₂=CH₂ + O₂ → 2C₂H₄O. Every reactant atom ends up in the product, so the atom economy is 100%.
+
+**Why is epoxyethane so reactive?**
+Its three-membered ring forces the bond angles to about 60°, far below 109.5°, so the ring is strained. Breaking one C–O bond opens the ring and releases the strain.
+
+**What are the hazards of making epoxyethane?**
+Complete combustion of ethene competes with the reaction and is far more exothermic, so temperature must be controlled. Epoxyethane is extremely flammable, forms explosive mixtures with air, and is toxic and classified as a human carcinogen.
+
+**What is ethane-1,2-diol made from epoxyethane used for?**
+Ethane-1,2-diol is used as antifreeze and engine coolant, and to make polyesters such as PET. Most epoxyethane produced goes to make it.
+
+**How do you test for a C=C double bond?**
+Shake the compound with bromine water. A compound with a C=C bond turns it from orange to colourless, while a saturated compound leaves it orange.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS

@@ -20,11 +20,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-ideal-gases"
     subtopic: "a-kinetic-theory-of-gases"
-description: "Original exam-style practice questions with full worked answers on the equation of state, kinetic theory and molecular kinetic energy for Cambridge AS & A Level Physics 9702."
+description: "Original practice questions with worked answers on pV = nRT, pV = NkT, kinetic theory and molecular kinetic energy for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -130,3 +130,17 @@ T₂ = 400 K, so p₂ = 2.4 × 10⁵ × (400 ÷ 300) [1] = **3.2 × 10⁵ Pa** [
 - Describing pressure as molecules simply "pushing" on the wall, rather than linking it to the rate of change of momentum during collisions.
 - Averaging speed directly instead of averaging the square of speed when finding c_rms.
 - Forgetting that N (number of molecules) and n (number of moles) require different constants (Nₐ vs R vs k).
+
+## Frequently asked questions
+
+**What are the assumptions of the kinetic theory of gases?**
+The model assumes a large number of molecules in random motion, negligible molecular volume compared with the container, no intermolecular forces except during collisions, perfectly elastic collisions, and collision times negligible compared with the time between collisions.
+
+**Do heavier gas molecules have more kinetic energy at the same temperature?**
+No. The mean translational kinetic energy of a molecule depends only on absolute temperature, so molecules of different gases at the same temperature have equal mean kinetic energy; the heavier molecules simply have a lower r.m.s. speed.
+
+**What is the difference between n and N in the gas equations?**
+In pV = nRT, n is the number of moles and R is the molar gas constant. In pV = NkT, N is the number of molecules and k is the Boltzmann constant; confusing the two is a common way to lose marks.
+
+**How should you explain gas pressure in kinetic theory answers?**
+Link pressure to the change in momentum of molecules colliding with the walls: each collision reverses a momentum component, exerting a force on the wall, and many collisions per second over the wall's area produce a steady pressure. Saying molecules simply push on the wall is not enough.

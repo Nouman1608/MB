@@ -12,11 +12,11 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-chemistry-reactivity-3"
-description: "Condensed revision notes on IB Diploma Programme Chemistry's Reactivity 3 -- proton transfer, electron transfer, electron sharing and electron-pair sharing reactions -- the largest single component in the syllabus, with self-test questions."
+description: "Condensed IB DP Chemistry Reactivity 3 revision notes on proton transfer, electron transfer, radical and electron-pair sharing reactions, with a self-test."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -200,6 +200,20 @@ electron-poor and accepts an electron pair. 6. Because explaining electron-trans
 electron-sharing mechanisms mechanistically requires already understanding electron configurations
 (Structure 1.3) and the bonding models (Structure 2) that describe how and where electrons are
 arranged in the first place.
+
+## Frequently asked questions
+
+**How many teaching hours does Reactivity 3 have in IB DP Chemistry?**
+Reactivity 3 has 24 hours at SL and 45 hours at HL, making it the largest single component in the DP Chemistry syllabus.
+
+**Which parts of Reactivity 3 are HL only?**
+At HL, proton transfer extends to pOH, dissociation constants, titration curves, salt hydrolysis and buffers, and electron transfer extends to electrochemical data. Reactivity 3.4 extends to Lewis acid–base theory and transition-element complexes.
+
+**How do you avoid mixing up oxidation and reduction?**
+Always check which species loses electrons and which gains them before writing half-equations. Oxidation is loss of electrons and reduction is gain, as in OIL RIG.
+
+**What is a common mistake with strong and weak acids in pH questions?**
+Treating strong and weak acids as interchangeable. A strong acid dissociates fully, but a weak acid only partly, so the same concentration does not give the same pH.
 
 ## Official syllabus
 

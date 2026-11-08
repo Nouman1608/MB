@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "introduction-to-economics-ocr-gcse-economics"
 description: "Main economic groups and factors of production, and the basic economic problem -- Topic 1 of Component 01 for OCR GCSE Economics (J205)."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **Topic 1 Introduction to Economics** (1.1 and 1.2),
@@ -171,3 +171,20 @@ Defining capital as money. Saying opportunity cost is "what you lose" rather tha
 - Interpret points on, inside and outside a PPC, and explain what shifts it.
 - Set out the three fundamental economic questions and how each system answers them.
 - Explain specialisation, interdependence, and why money solves the double coincidence of wants.
+
+## Frequently asked questions
+
+**What is the basic economic problem?**
+Resources are scarce and human wants are unlimited, so people, firms and governments must choose, and every choice has an opportunity cost: the value of the next best alternative given up.
+
+**What does a point inside a production possibility curve show?**
+A point inside the curve shows unemployed or inefficiently used resources. It is attainable but inefficient, not impossible.
+
+**What shifts a production possibility curve outward?**
+The curve shifts outward with economic growth, from more resources, better technology or improved education, not simply from producing more with existing resources.
+
+**What is a mixed economy?**
+A mixed economy combines the price mechanism and the state in answering what, how and for whom to produce. It is the system that nearly every real economy uses.
+
+**What topics are in OCR GCSE Economics Topic 1?**
+Topic 1, Introduction to Economics, covers sections 1.1 and 1.2 of Component 01 (J205/01): the main economic groups and factors of production, and the basic economic problem.

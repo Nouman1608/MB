@@ -13,11 +13,17 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-language-and-context-9670"
-description: "Condensed recall notes on language frameworks, discourse, register, spoken language and directed writing for OxfordAQA International AS/A-level English Language Unit 1 (9670)."
+  - qualification: "a-level"
+    topic: "unit-1-language-and-context-9670"
+    subtopic: "section-a-understanding-texts-9670"
+  - qualification: "a-level"
+    topic: "unit-1-language-and-context-9670"
+    subtopic: "section-b-directed-writing-9670"
+description: "Condensed notes on language frameworks, discourse, register, spoken language and directed writing for OxfordAQA International AS English Language 9670 Unit 1."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -127,3 +133,20 @@ Keep quotations **short**. A two-word quotation embedded in your own sentence de
 5. Does Unit 1's directed writing task require a separate commentary?
 
 **Answers:** 1. Quote the language, explain what it suggests, then explain why the writer chose it. 2. It conceals or omits the agent, so responsibility is obscured — which is why it recurs in institutional and political writing. 3. Field, tenor and mode. 4. They are normal features of unplanned spontaneous speech, serving functions such as buying planning time and holding the floor. 5. No -- Unit 1 credits a style sustained consistently throughout the writing itself; a reflective commentary is not part of this unit's assessment.
+
+## Frequently asked questions
+
+**What three-part sequence earns analysis marks in English Language?**
+Quote the language, explain what it suggests, then explain why the writer chose it. The mark is for the effect of the feature, not for naming it.
+
+**What is presupposition in language analysis?**
+Presupposition is what a sentence takes for granted without stating it. A question such as "When did you stop worrying about this?" smuggles in an assumption that is hard to challenge.
+
+**What is the difference between prescriptivism and descriptivism?**
+Prescriptivism treats language change and non-standard forms as decline, while descriptivism records variation without judgement. Attitudes to language variation are examinable in their own right.
+
+**Does OxfordAQA 9670 Unit 1 directed writing need a commentary?**
+No. There is no separate commentary on this unit, so credit goes to sustaining an appropriate style for the task chosen, not to explaining your choices afterwards.
+
+**How is power shown in conversation?**
+Power is visible in who interrupts, who controls the topic, and who asks and who answers questions. Analysing these patterns shows the relationship between speakers.

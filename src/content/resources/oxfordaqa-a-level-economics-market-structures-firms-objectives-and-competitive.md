@@ -202,6 +202,23 @@ In a market dominated by a few large firms, barriers to entry stop this adjustme
 
 Test yourself with the [practice set](/resources/oxfordaqa-a-level-economics-market-structures-firms-objectives-and-competitive-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-economics-market-structures-firms-objectives-and-competitive-revision-notes/).
 
+## Frequently asked questions
+
+**Why does market structure affect how firms behave?**
+Structure sets the pressures a firm faces. A firm selling an identical product among many rivals must take the market price, a firm with a differentiated product can compete on quality and style, and a firm with a large share must consider how rivals react.
+
+**What is a price taker?**
+A price taker is a firm too small to influence the market price, so it accepts the price set by market demand and supply. If it charged more for an identical product, buyers would go to rivals.
+
+**Why might a firm choose a plan that earns less profit?**
+A firm that values growth or market share may accept lower profit now to sell more and win customers. The objective a firm pursues explains its behaviour, and objectives can change over time.
+
+**Is profit always higher in a market dominated by a few large firms?**
+Not always. Economies of scale can give large firms lower costs, but a price war can cut profit, the threat of entry can restrain prices, and a competitive market can earn high profit in the short run.
+
+**Which OxfordAQA 9640 sections does this guide cover?**
+It covers sections 3.1.4.1 (market structures), 3.1.4.2 (the objectives of firms) and 3.1.4.3 (competitive markets) of the OxfordAQA International AS and A-level Economics (9640) specification, which is International AS content.
+
 ## Official syllabus
 
 OxfordAQA *International AS and A-level Economics* specification (9640), version 1.2, published by OxfordAQA International Examinations. First teaching September 2020; first International AS exams May/June 2021; first International A-level exams May/June 2022.

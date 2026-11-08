@@ -20,11 +20,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-chemistry-of-transition-elements"
     subtopic: "a-stability-constants-kstab"
-description: "Condensed recall notes on d-orbital splitting and colour, ligand exchange with copper(II) and cobalt(II), cis/trans and optical isomerism in complexes, and stability constants for Cambridge A Level Chemistry 9701 (2025-2027)."
+description: "Revision notes on d-orbital splitting and colour, copper(II) and cobalt(II) ligand exchange, isomerism in complexes and Kstab, for Cambridge 9701."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-27
 updatedDate: 2026-11-05
 featured: false
@@ -236,3 +236,19 @@ values. Check the full syllabus wording in the
   <figcaption>A large Kstab means almost all the metal ion is in the complex.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Why are transition metal complexes coloured?**
+Ligands split the d orbitals into two sets with an energy gap ΔE. An electron absorbs visible light of frequency given by ΔE = hf as it is promoted to the higher set, and the complementary colour of the absorbed light is seen.
+
+**Why are zinc and scandium(III) compounds white or colourless?**
+A d–d transition needs a partially filled d sub-shell. Sc³⁺ is d⁰ with no electron to promote and Zn²⁺ is d¹⁰ with no vacancy, so no visible light is absorbed.
+
+**Why does the coordination number fall when chloride replaces water around Cu²⁺?**
+Cl⁻ is a larger ligand than H₂O, so only four fit around the metal ion. [Cu(H₂O)₆]²⁺ changes from octahedral to tetrahedral [CuCl₄]²⁻, and the solution turns yellow-green.
+
+**Is water included in a Kstab expression?**
+No. Kstab is written like Kc, products over reactants, but [H₂O] is left out. The aqua ion such as [Cu(H₂O)₆]²⁺ stays in, and the ligand concentration is raised to the number of ligands exchanged.
+
+**How many stereoisomers does [Ni(en)₂(H₂O)₂]²⁺ have?**
+Three: the trans isomer, which has a plane of symmetry and is not optically active, and the two optical isomers of the cis form.

@@ -9,11 +9,11 @@ syllabusCodes: ["DP Biology"]
 order: 1
 description: "Condensed recall notes on the assessment structure -- papers, weightings and the internal assessment -- for IB Diploma Programme Biology."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-26
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the
@@ -99,6 +99,20 @@ Because Paper 2 specifically requires sustained scientific writing across multip
 6. Why does Paper 2 reward a different skill from Paper 1, beyond simply requiring more content recall?
 
 **Answers:** 1. Paper 1 (36%), Paper 2 (44%), internal assessment (20%). 2. 3,000 words. 3. The IA is an individual investigation that is formally graded; the collaborative sciences project is done with peers and builds investigative skills but is not itself part of the graded assessment. 4. Paper 2 (44%), which requires extended-response answers demanding sustained scientific writing, not just short answers. 5. Listing limitations without connecting them concretely to their actual impact on the results obtained, or proposing only vague improvements. 6. Because it requires structuring a coherent, well-sequenced argument across linked questions, which is a genuinely different skill from Paper 1's shorter, more data-focused format — planning and writing fluently under time pressure must both be practised directly.
+
+## Frequently asked questions
+
+**How is IB DP Biology assessed?**
+IB DP Biology is assessed by Paper 1 (36%), Paper 2 (44%) and an internal assessment (20%), so external examination makes up 80% of the grade.
+
+**Is the IB Biology weighting different at SL and HL?**
+No. The 80% external and 20% internal split is the same at SL and HL; the papers differ in length and demand, not in weighting.
+
+**How long can the IB Biology internal assessment report be?**
+The internal assessment is an individual scientific investigation written up in a report of up to 3,000 words.
+
+**Is the collaborative sciences project graded?**
+No. The interdisciplinary collaborative sciences project, done with peers from other group 4 subjects, builds investigative skills but is not itself graded, unlike the individual internal assessment.
 
 ## Official syllabus
 

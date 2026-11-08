@@ -19,14 +19,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "geometry-cambridge-igcse-maths"
     subtopic: "circle-theorems-cambridge-igcse-maths"
-description: "Geometrical vocabulary, constructions, scale drawings, similarity, symmetry, angle properties and circle theorems -- the Core and Extended content of Topic 4 Geometry for Cambridge IGCSE Mathematics 0580, 2025-2027 series."
+description: "Core and Extended Topic 4 Geometry for Cambridge IGCSE Maths 0580 (2025-2027): terms, constructions, bearings, similarity, symmetry, angles, circle theorems."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This guide covers **Topic 4 Geometry**, for Cambridge IGCSE
@@ -207,6 +207,23 @@ requires to be shown.
   similar shapes at Extended tier (k, k², k³).
 - Always state the specific geometric property by name when giving a
   reason for an angle calculation.
+
+## Frequently asked questions
+
+**Which constructions are required for Cambridge IGCSE 0580?**
+Core subtopic C4.2 requires constructing a triangle from the lengths of its three sides using a ruler and compasses only, with arcs shown. Perpendicular bisector and angle bisector constructions are not required.
+
+**How are bearings measured in IGCSE Maths?**
+Bearings are three-figure angles measured clockwise from north, from 000° to 360°.
+
+**Do you need to give reasons for angle answers in 0580?**
+Yes. The syllabus expects correct geometrical terminology when giving reasons, so state the property used, such as "angles in a triangle sum to 180°".
+
+**What are corresponding, alternate and co-interior angles?**
+When a line crosses parallel lines, corresponding angles are equal, alternate angles are equal and co-interior angles sum to 180°.
+
+**Which circle theorems are in Extended subtopic E4.8?**
+E4.8 covers the symmetry properties of circles: equal chords are equidistant from the centre, the perpendicular bisector of a chord passes through the centre, and tangents from an external point are equal in length.
 
 ## Official syllabus
 

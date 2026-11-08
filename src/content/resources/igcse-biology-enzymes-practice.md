@@ -13,14 +13,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "enzymes-cambridge-igcse-biology"
     subtopic: "enzymes-cambridge-igcse-biology"
-description: "Original exam-style questions with full worked answers on catalysts, enzyme action, the effect of temperature and pH, kinetic energy and collisions, and enzyme specificity, for Cambridge IGCSE Biology (0610)."
+description: "Exam-style questions with worked answers on catalysts, enzyme action, temperature, pH and specificity, with mark-scheme tips, for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -101,3 +101,17 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 - Using denaturation to explain a low rate at a low temperature.
 - Leaving out the enzyme–substrate complex when explaining enzyme action.
 - Treating a whole organism, such as yeast, as if it were the enzyme.
+
+## Frequently asked questions
+
+**Which parts of the enzymes topic are Extended only in Cambridge IGCSE Biology 0610?**
+Extended candidates must explain enzyme action using active site, substrate, enzyme-substrate complex and product, explain specificity, and explain the effects of temperature and pH using kinetic energy, shape and fit, and denaturation.
+
+**Are enzymes denatured at low temperatures?**
+No. Denaturation explains the fall in rate above the optimum, not a low rate at low temperatures, so do not use it to explain why a reaction is slow in the cold.
+
+**Is yeast an enzyme?**
+No. Yeast is a single-celled organism that contains enzymes. Treating a whole organism as if it were the enzyme is a common error.
+
+**How should you describe enzyme results from a table?**
+State the overall pattern, such as how the time taken or rate changes as temperature rises, and quote values from the data with their units.

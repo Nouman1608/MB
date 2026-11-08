@@ -17,13 +17,13 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "amount-of-substance-7405"
     subtopic: "the-mole-and-the-avogadro-constant-7405"
-description: "Original exam-style practice questions with full worked answers on relative atomic/molecular mass, the mole, the Avogadro constant and mole calculations for AQA A-Level Chemistry (7405), 3.1.2.1-3.1.2.2."
+description: "Original practice questions with worked answers on relative mass, the mole, the Avogadro constant and mole calculations for AQA A-Level Chemistry 7405."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-04
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -91,3 +91,20 @@ Related: [Relative Mass, the Mole and the Avogadro Constant study guide](/resour
 Treat every calculation as a short chain of separate, labelled steps rather than one combined formula: convert any volume to the correct unit first, calculate moles of the substance given, apply the balanced equation's mole ratio if the question moves from one substance to another, and only then convert to the quantity actually asked for (mass, number of particles, or volume of gas). Writing out each step explicitly, even for straightforward questions, both avoids the most common errors above and secures method marks under AQA's mark scheme even when a final numerical slip occurs.
 
 Before starting a multi-step question, identify which of the three core relationships — mass and Mr, concentration and volume, or moles and the Avogadro constant — the given data and the final target both belong to, since most errors come from applying the wrong pairing rather than an arithmetic slip. When a question involves a balanced equation, write the mole ratio out explicitly as a fraction (for example, 1 mol Mg : 1 mol H₂) rather than assuming a 1:1 relationship by default, since many equations in later topics use different ratios and this habit prevents a costly assumption error. Finally, check the final answer's significant figures against the least precise piece of data supplied in the question as a separate, deliberate last step, since AQA awards this as its own mark independent of whether the calculation method itself was correct.
+
+## Frequently asked questions
+
+**What is the most common unit mistake in AQA A-Level Chemistry mole calculations?**
+Forgetting to convert cm³ to dm³ (divide by 1000) before using a concentration in mol dm⁻³. Write the conversion as its own step so it can be credited.
+
+**How do you find the number of ions from moles of an ionic compound?**
+Multiply by the number of each ion in one formula unit; for example, each MgCl₂ formula unit contains two chloride ions. Missing this multiplier is a frequent way to lose marks.
+
+**Should you use relative molecular mass for ionic compounds?**
+No. For ionic compounds such as sodium chloride, use the term relative formula mass. Relative molecular mass applies to covalently bonded molecules.
+
+**How many significant figures should a mole calculation answer have?**
+Round the final answer to match the least precise measurement given in the question. Giving more figures than the data justify can lose a mark.
+
+**What step is often forgotten when moving between two substances?**
+Applying the mole ratio from the balanced equation. Always write the ratio down before converting moles of one substance into moles of another.

@@ -224,6 +224,20 @@ A test answer needs three parts: the **reagent**, the **condition** and the **ob
 - Using 2,4-DNPH to tell an aldehyde from a ketone.
 - Stating that all aldehydes, or all ketones, give the iodoform test.
 
+## Frequently asked questions
+
+**What is nucleophilic addition in carbonyl chemistry?**
+Nucleophilic addition is when a nucleophile attacks the δ+ carbonyl carbon and the C=O π bond breaks, so two groups add across the double bond and nothing is lost. In Edexcel IAL Chemistry (YCH11) the example is the addition of HCN to aldehydes and ketones to give a hydroxynitrile.
+
+**Why is potassium cyanide added in the reaction of HCN with a carbonyl compound?**
+HCN is a weak acid, so on its own it gives too few cyanide ions. KCN supplies the CN⁻ nucleophile, which attacks the carbonyl carbon using the lone pair on its carbon atom.
+
+**Which compounds give a positive iodoform test?**
+Compounds with a CH₃CO– group give a pale yellow precipitate of triiodomethane when warmed with iodine and sodium hydroxide solution. Among carbonyl compounds, these are methyl ketones such as butanone and hexan-2-one, and ethanal; other aldehydes do not.
+
+**Why is a 2,4-DNPH derivative recrystallised before its melting temperature is measured?**
+Impurities lower the melting temperature and make it melt over a range, so a crude derivative would not match a data table. Recrystallising from a minimum volume of hot solvent gives a pure solid with a sharp melting temperature that identifies the original carbonyl compound.
+
 ## Official syllabus
 
 Source: Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry, specification XCH11/YCH11, Issue 1, September 2017 (Pearson Education Limited). These notes cover Topic 15B: Carbonyl compounds, outcomes 15.6 to 15.8, in Unit 4.

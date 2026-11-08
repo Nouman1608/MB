@@ -233,9 +233,23 @@ Do not stop at the number: add the interpretation in words, since a bare figure 
 - Naming a good as a service, or a service as a good.
 - Giving a list of factors that shift demand but no consequence for producers or consumers.
 
+## Frequently asked questions
+
+**What determines price elasticity of demand?**
+The OCR GCSE Economics (J205) notes list the number of substitutes, whether the good is a necessity or luxury, its share of income, time, habit, and how narrowly the good is defined.
+
+**How are factor markets and product markets linked?**
+Households sell labour in factor markets and spend their wages in product markets, while firms sell output in product markets and use the receipts to buy factors. A fall in product demand leads to a fall in demand for factors.
+
+**What happens to revenue when price rises on an inelastic good?**
+Quantity falls by a smaller percentage than price rises, so total revenue rises. Over time buyers may find substitutes, and consumers on low incomes lose most.
+
+**What happens to the share of tertiary jobs as an economy develops?**
+As an economy develops, the share of jobs in the tertiary sector usually rises, while the share in primary industries falls.
+
 ## Official syllabus
 
-Source: Cambridge OCR, GCSE (9-1) Economics specification (J205), Version 2.0 (June 2026), for first assessment in 2019. Covered here: 2.1 and 2.2.
+Source: OCR, GCSE (9-1) Economics specification (J205), Version 2.0 (June 2026), for first assessment in 2019. Covered here: 2.1 and 2.2.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--02-three-sectors.webp" width="900" height="970" alt="Three cards describe the primary sector (extracting raw materials), secondary sector (making things) and tertiary sector (services). Two bars of illustrative job shares show a developing economy with mostly primary jobs and a developed economy with mostly tertiary jobs. A factory is secondary, not tertiary." loading="lazy">

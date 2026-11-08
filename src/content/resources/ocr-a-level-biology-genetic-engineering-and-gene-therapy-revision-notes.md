@@ -190,6 +190,23 @@ A patient has 40% of T cells carrying a working gene at 1 month and 20% at 12 mo
 - Writing that gene therapy "cures" a person without saying which cells are treated and whether the change is inherited.
 - Calculation answers without units or without the working that scales plated volumes up to the whole tube.
 
+## Frequently asked questions
+
+**What is a sticky end?**
+A sticky end is a short run of unpaired bases left at the end of a DNA fragment after a restriction enzyme makes a staggered cut. Fragments cut with the same enzyme have complementary sticky ends that can pair up.
+
+**Why is cDNA used when a gene is put into bacteria?**
+cDNA is made from mRNA by reverse transcriptase, so it has no introns. Bacteria cannot remove introns, so cDNA lets them make the correct protein.
+
+**What is a marker gene?**
+A marker gene, such as an antibiotic resistance gene or the gene for GFP, is included in the vector to show which cells have taken it up.
+
+**What is pharming?**
+Pharming is the use of genetically modified animals to make pharmaceuticals, often secreted in their milk. It is one of the ethical issues named in OCR A Level Biology A (H420) section 6.1.3(g).
+
+**What does transgenic mean?**
+A transgenic organism contains a gene from another species. DNA made by joining sequences from different sources is called recombinant DNA.
+
 ## Official syllabus
 
 These notes follow OCR Level 3 Advanced GCE in Biology A (H420), Version 4.1 (April 2026), for first assessment in 2025, published by OCR (Cambridge University Press & Assessment), module 6.1.3(f) to (h).

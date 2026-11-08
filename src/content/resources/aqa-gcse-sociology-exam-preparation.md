@@ -9,13 +9,13 @@ qualifications: ["gcse"]
 syllabusCodes: ["8192"]
 syllabusSeries: "For first teaching 2017"
 order: 2
-description: "Paper-by-paper exam preparation for AQA GCSE Sociology 8192 -- why theory and methods run through both papers, applying concepts to sociological scenarios, a worked evaluate-style answer and a checklist."
+description: "Exam preparation for AQA GCSE Sociology (8192) Papers 1 and 2: command words, theory and methods in both papers, and a worked evaluate answer plan."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-07
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 AQA GCSE Sociology (8192) is assessed through two written papers, not tiered: Paper 1 (The Sociology
@@ -118,6 +118,20 @@ Because a strong "evaluate" answer tests AO3-style judgement, which requires wei
 functionalist explanation against a genuinely contrasting perspective before reaching a conclusion --
 stopping after describing and supporting only the functionalist view would leave the answer
 one-sided and not fully evaluative.
+
+## Frequently asked questions
+
+**How long are the AQA GCSE Sociology exams?**
+AQA GCSE Sociology (8192) has two papers, each 1 hour 45 minutes, worth 100 marks and 50% of the GCSE.
+
+**What is the difference between "describe" and "explain" in GCSE Sociology?**
+Explain requires a reasoned account of why a sociological pattern or process occurs, often supported by a named theory or study. Describe only needs an accurate account without saying why.
+
+**What do "evaluate" and "to what extent" questions need?**
+They need a weighed judgement that brings in more than one sociological perspective or piece of evidence, rather than a straightforward description.
+
+**Which topics are on each AQA GCSE Sociology paper?**
+Paper 1 is The Sociology of Families and Education, and Paper 2 is The Sociology of Crime and Deviance and Social Stratification. Both also draw on social theory and research methods from across the course.
 
 *Written against AQA GCSE Sociology 8192 (specification-at-a-glance, verified 2026-08-28). The worked
 scenario above is an original example written for this resource, not a reproduction of any official

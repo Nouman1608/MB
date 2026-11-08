@@ -14,9 +14,9 @@ syllabusTopics:
     topic: "individuals-firms-markets-and-market-failure-aqa-alevel-economics"
 description: "Original exam-style practice questions with full worked answers on costs, revenue, market structures, market failure and behavioural economics."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -92,3 +92,17 @@ Firms avoid price competition because **a price cut is likely to be matched by r
 - Confusing economies of scale with falling average costs from higher output in the short run.
 - Describing monopoly without the deadweight loss.
 - Not considering dynamic efficiency in the evaluation.
+
+## Frequently asked questions
+
+**Does the law of diminishing returns apply in the long run?**
+No. It applies only in the short run, when at least one factor of production is fixed. Saying it applies in the long run is a common error.
+
+**What should an evaluation of monopoly include?**
+Include the deadweight loss from restricted output and a price above marginal cost, and consider dynamic efficiency, since supernormal profit may fund innovation.
+
+**Do these practice questions match the AQA Economics exam format?**
+No. They are short-answer topic review questions; they do not reproduce the 40-mark data-response and essay sections of Papers 1 and 2 or the multiple-choice and case-study format of Paper 3.
+
+**Which AQA A-level Economics section does this practice cover?**
+It covers section 3.1 Individuals, firms, markets and market failure of AQA A-level Economics 7136, including costs, market structures, behavioural economics and labour markets.

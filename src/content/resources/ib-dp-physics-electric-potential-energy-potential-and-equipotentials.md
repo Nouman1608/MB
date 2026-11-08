@@ -276,6 +276,20 @@ For four equal positive charges at the corners of a square, the field is zero at
 - Forgetting to convert cm or mm to metres.
 - Mixing electron-volts and joules in a kinetic energy equation. Convert to joules before finding a speed.
 
+## Frequently asked questions
+
+**How much teaching time does the HL electric potential content take?**
+The additional higher level part of D.2 is about six hours of teaching, and SL candidates do not study it.
+
+**Does the order of assembling charges change the total potential energy?**
+No. The order of assembly does not change the total, which is why you can find it by adding Ep for every pair, each counted once.
+
+**Which equipotential patterns must I recognise for IB DP Physics?**
+You must recognise equipotentials for a point charge, up to four point charges, solid and hollow charged conducting spheres inside and outside, and two oppositely charged parallel plates.
+
+**Are Coulomb's law and field lines retaught in this guide?**
+No. Coulomb's law, E = F/q and field lines belong to the shared SL and HL part of D.2 and are covered in a separate guide.
+
 ## Official syllabus
 
 Source: *Physics guide*, first assessment 2025, International Baccalaureate Organization (Diploma Programme), sub-topic D.2 Electric and magnetic fields, additional higher level.

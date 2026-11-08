@@ -12,7 +12,7 @@ order: 4
 syllabusTopics:
   - qualification: "igcse"
     topic: "computer-systems-9210"
-description: "Hardware, the CPU and fetch-execute cycle, memory and storage, system and application software, translators and logic gates for OxfordAQA International GCSE 9210."
+description: "The CPU and fetch-execute cycle, memory and storage, system and application software, translators and logic gates for OxfordAQA International GCSE 9210."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-08
@@ -123,3 +123,20 @@ For **state** or **name** questions, one precise term earns the mark. For **desc
 6. Name two functions of an operating system. *Memory management and file management (or any other from the list).*
 7. Give the output of the circuit in Worked example 1 when A = 0, B = 0, C = 0. *0.*
 8. How many 4 MB files fit on a 2 GB card, using 1 GB = 1,000 MB? *2,000 / 4 = 500.*
+
+## Frequently asked questions
+
+**What are the main parts of a CPU?**
+The CPU contains the arithmetic logic unit, which does calculations and logical comparisons, the control unit, which fetches and decodes instructions and directs the other parts, registers, and cache. This is covered in Topic 4 of OxfordAQA International GCSE Computer Science 9210.
+
+**What factors affect CPU performance?**
+Clock speed, the number of cores and the cache size all affect performance. More cores do not always mean proportionally faster processing, because it depends on the software.
+
+**What is the difference between RAM and ROM?**
+RAM is volatile, so it loses its contents when the power is turned off, while ROM is non-volatile and holds the start-up instructions, known as the bootstrap. Saying RAM is permanent, or that ROM can be freely written to, is a common mistake.
+
+**What is the difference between a compiler and an interpreter?**
+A compiler translates the whole program before it runs, while an interpreter translates and runs it statement by statement. A compiled program usually runs faster because it has already been translated.
+
+**Which logic gates are in the OxfordAQA 9210 syllabus?**
+The syllabus uses three gates: NOT, AND and OR. NOT inverts its single input, and AND gives 1 only when both inputs are 1.

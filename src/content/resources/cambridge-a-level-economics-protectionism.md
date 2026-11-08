@@ -228,6 +228,23 @@ A strong answer weighs the case, using these points:
 - Forgetting that consumers lose twice from some measures: higher price and less choice.
 - Listing arguments with no judgement about which is stronger.
 
+## Frequently asked questions
+
+**Is protectionism AS or A Level content in Cambridge 9708?**
+Protectionism is section 6.2 of the Cambridge International AS & A Level Economics 9708 syllabus, which is AS Level content in topic 6. The syllabus treats AS Level content as assumed knowledge for A Level Papers 3 and 4.
+
+**What is the difference between a tariff and a quota?**
+A tariff is a tax on imports that works through their price, while a quota is a physical limit on the quantity that may be imported. A quota fixes the import quantity whatever happens to demand, and gives the government no automatic revenue unless it sells the licences.
+
+**What is an embargo in international trade?**
+An embargo is a ban on trade in a product or with a country. Governments use embargoes for political, security, health or ethical reasons as well as economic ones, and the target's exporters are usually hit hardest.
+
+**Why do economists argue protection is an expensive way to save jobs?**
+The loss to consumers from higher prices can be large compared with the number of jobs protected, so the cost per job saved is high. A claim that protection saves jobs should be backed with a cost-per-job figure.
+
+**What is dumping?**
+Dumping is selling goods abroad below cost or below the price charged in the home market. It distorts competition, and an anti-dumping duty equal to the price gap is one argument for protection.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, section 6.2.

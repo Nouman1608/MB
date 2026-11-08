@@ -140,6 +140,20 @@ Evaluate which project the vineyard should choose. **[10]**
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which sections of Cambridge AS and A Level Business 9609 do these questions cover?**
+Section 10.3 Investment appraisal and section 10.4 Finance and accounting strategy, A Level content covering payback, ARR, NPV and the use of ratios in decisions.
+
+**What is the most common mistake in NPV calculations?**
+Discounting the initial cost or forgetting to subtract it. The initial cost is paid now, so it is not discounted; only future cash inflows are multiplied by discount factors.
+
+**How should payback be written?**
+In years and months rather than as a decimal, for example 2 years 4 months.
+
+**How do I evaluate an investment decision in 9609 Business?**
+Weigh the quantitative results, such as payback, ARR and NPV against targets, alongside qualitative factors developed in context, and reach a final judgement.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, sections 10.3 and 10.4.

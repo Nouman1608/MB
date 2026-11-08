@@ -253,6 +253,20 @@ For inverse and parameter questions, write the z-value as a labelled line (for e
 - Skipping the standardising line. Showing (x − μ)/σ makes your method visible even when a later table read-off slips.
 - Giving a probability with too few figures. Unless the question says otherwise, 3 significant figures is a safe default, and table-based answers are usually quoted to 4 decimal places.
 
+## Frequently asked questions
+
+**What does the second number in N(μ, σ²) represent?**
+It is the variance. For example, N(7, 16) has a standard deviation of 4, and you divide by 4 when standardising.
+
+**How do you find P(Z > z) from tables?**
+Use P(Z > z) = 1 − Φ(z), where Φ(z) = P(Z ≤ z). For a negative z, use symmetry: P(Z < −z) = 1 − Φ(z).
+
+**What is the symmetry shortcut for the Normal distribution?**
+If P(X < a) = P(X > b), then a and b are equally far from the mean, so μ = (a + b)/2.
+
+**How do you find the expected number in a range of a Normal distribution?**
+Multiply the number of items by the probability of that range. For example, 500 items with a probability of 0.0668 give an expected number of about 33.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics -- Specification, Issue 3, April 2019, first teaching September 2018, published by Pearson Education Limited.

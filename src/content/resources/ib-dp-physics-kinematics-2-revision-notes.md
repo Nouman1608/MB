@@ -280,6 +280,20 @@ Fluid resistance means the drag from a gas or a liquid. It opposes the velocity 
 - Reading an average from a chord when the question wants an instantaneous value from a tangent.
 - Rounding the time of flight early and carrying the error into the range.
 
+## Frequently asked questions
+
+**Do I need the equation of a projectile's trajectory for IB DP Physics?**
+No. Without fluid resistance the path is a parabola, but you do not need the equation of the trajectory; treat the horizontal and vertical components separately.
+
+**What is the acceleration of a projectile at the top of its flight?**
+It is still g downward. Only the vertical velocity is zero at the top; the horizontal velocity is unchanged, so zero velocity does not mean zero acceleration.
+
+**Is the effect of fluid resistance on projectiles examined quantitatively?**
+No. The guide asks for qualitative effects only, such as a smaller range and height, a non-parabolic path and a lower landing speed, so describe them in words.
+
+**How do these notes differ from the earlier A.1 revision notes?**
+The earlier notes cover the basic definitions and one cliff-launch example. These add average versus instantaneous values, non-uniform motion, all three launch types and the effect of fluid resistance.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Physics guide* (Diploma Programme), first assessment 2025, section A.1 Kinematics.

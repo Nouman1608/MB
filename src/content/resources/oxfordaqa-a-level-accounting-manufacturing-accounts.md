@@ -312,6 +312,23 @@ Always link the comment to the figures and finish with a judgement.
 - Showing finished goods at transfer price in the statement of financial position.
 - Commenting in general terms without using the factory cost per unit or the market price.
 
+## Frequently asked questions
+
+**What is prime cost in a manufacturing account?**
+Prime cost is the total of the direct costs: direct materials consumed, direct labour and any direct expenses, which can be traced to each unit made. Carriage inwards on raw materials is part of direct materials consumed.
+
+**How do you calculate the provision for unrealised profit with a mark-up?**
+With a mark-up of m% on cost, the provision equals finished goods at transfer price × m / (100 + m). With a margin of p% of the transfer price, it equals finished goods at transfer price × p / 100.
+
+**What three kinds of inventory does a manufacturer hold?**
+Raw materials that have been bought in but not yet used, work in progress that has been started but not finished at the year end, and finished goods. All three appear under current assets in the statement of financial position.
+
+**How are shared costs such as rent split in a manufacturing business?**
+Costs that cover the whole site are shared between the factory and the office on a fair basis, such as floor area for rent. Only the factory share goes in the manufacturing account as a factory overhead.
+
+**What should a comment on a manufacturer's statements include in OxfordAQA 9615?**
+Use figures such as the factory cost per unit and compare them with the market price an outside supplier would charge, then finish with a judgement. General comments that ignore these figures earn little credit.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS

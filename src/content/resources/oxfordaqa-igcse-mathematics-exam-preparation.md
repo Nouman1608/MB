@@ -9,13 +9,13 @@ qualifications: ["igcse"]
 syllabusCodes: ["9260"]
 syllabusSeries: "First teaching 2016, first examined 2018"
 order: 3
-description: "What the Core (grades 1-5) and Extension (grades 4-9) tiers of OxfordAQA International GCSE Mathematics 9260 mean in practice, why calculators are allowed throughout, and a worked method-marks routine."
+description: "Core (grades 1-5) and Extension (grades 4-9) tiers of OxfordAQA International GCSE Mathematics 9260 explained, with calculator tips and a method-marks routine."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 OxfordAQA International GCSE Mathematics (9260) is a linear, tiered qualification with no coursework:
@@ -122,6 +122,20 @@ the specification -- there is no content split between them. 3. The premium move
 speed to selecting the right calculation, setting it out correctly, and being fluent with your own
 machine -- including storing unrounded intermediate values. 4. Because the arithmetic happens inside
 the calculator and leaves no trace, so the written method is the only evidence of method a marker has.
+
+## Frequently asked questions
+
+**What grades can you get on the Core and Extension tiers of OxfordAQA IGCSE Maths?**
+The Core tier targets grades 1-5 and the Extension tier targets grades 4-9. The two ranges overlap only at grades 4 and 5.
+
+**Does OxfordAQA International GCSE Mathematics 9260 have coursework?**
+No. It is a linear, tiered qualification with no coursework, assessed by two question papers in the chosen tier.
+
+**Can you sit one Core paper and one Extension paper?**
+No. Each student takes both papers of one tier, Paper 1C and Paper 2C or Paper 1E and Paper 2E, in the same exam series. Within a tier both papers are weighted 50%.
+
+**How much time should you spend per mark in OxfordAQA 9260 Maths?**
+A little over a minute per mark on either tier: Core papers are 90 minutes for 80 marks and Extension papers are 120 minutes for 100 marks.
 
 *Written against the assessment section of OxfordAQA's own International GCSE Mathematics (9260)
 qualification page (official OxfordAQA page, verified 2026-08-28). The calculation routine above is an

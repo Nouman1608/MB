@@ -232,6 +232,23 @@ The **real economy** is the production of goods and services and the jobs and in
 - Explaining why rates differ with risk only, and leaving out security.
 - Listing effects without a chain of reasoning to AD, AS or employment.
 
+## Frequently asked questions
+
+**How do banks affect the macroeconomy?**
+Retail and commercial bank lending finances consumption and investment, two components of aggregate demand, so expanding lending raises AD and tighter lending lowers it. Investment banks raise long-term funds for firms, supporting capital formation and long-run aggregate supply.
+
+**What do pension funds, insurance funds and hedge funds do?**
+Pension funds invest contributions in long-term bonds and shares to pay retirement income. Insurance funds pool risk so that firms can take on risky activity, and hedge funds pursue high returns, often using leverage.
+
+**How does the stock market affect the real economy?**
+Share prices affect household wealth and confidence, so a fall in prices can reduce consumption through the wealth effect. Falling prices also make it harder for firms to raise equity, which can reduce investment.
+
+**What are the main forms of borrowing in OCR A Level Economics?**
+The OCR A Level Economics (H460) specification names mortgages, unsecured loans, overdrafts, credit cards and pay day lending. Secured mortgages are usually cheapest, while credit cards and pay day loans carry high rates.
+
+**Is the financial sector good for the real economy?**
+It turns saving into investment, spreads risk and allows consumption smoothing, which supports growth. However, credit booms can inflate asset prices and be followed by busts, and linked institutions can spread failure, so the benefits depend on stable lending and sensible pricing of risk.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, Macroeconomics: the financial sector, the role of the financial sector in the real economy.

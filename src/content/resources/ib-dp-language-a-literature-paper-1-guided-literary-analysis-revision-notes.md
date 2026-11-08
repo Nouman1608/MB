@@ -17,11 +17,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-time-space"
 description: "Condensed IB DP Literature Paper 1 revision notes: the method in steps, poetry, prose and drama terms, key distinctions and a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 For full explanations and two worked examples, use the
@@ -220,6 +220,20 @@ Questions 6–8 and 11 use this short poem.
   ignoring stage directions in drama.
 - **Quotations dropped in.** A long quotation on its own line, then a separate sentence about it.
 - **Unfinished answer.** No conclusion because planning or timing slipped.
+
+## Frequently asked questions
+
+**What is the difference between the speaker and the poet?**
+The speaker is the voice inside the poem; the poet is the real person who wrote it. They may differ, so in IB DP Language A: Literature Paper 1 write "the speaker" unless the poem makes them the same.
+
+**What is the difference between tone and mood?**
+Tone is the attitude of the voice in the text; mood is the atmosphere the reader experiences.
+
+**How should you time one Paper 1 analysis at SL?**
+One workable split for 75 minutes is 15 minutes reading, 10 planning, 5 on the introduction, 35 on body paragraphs, 5 on the conclusion and 5 checking.
+
+**What should a Paper 1 conclusion avoid?**
+New evidence, and a paragraph-by-paragraph repeat of the essay. In two or three sentences, say how the features work together to answer the guiding question.
 
 ## Official syllabus
 

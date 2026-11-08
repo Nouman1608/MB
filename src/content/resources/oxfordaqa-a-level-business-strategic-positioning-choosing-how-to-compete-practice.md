@@ -127,6 +127,17 @@ Before you start: [9725 checklist](/checklists/oxfordaqa/a-level/business/) · t
 - Claiming an advantage will last without asking how easily rivals could copy it.
 - Ending an evaluation without a clear, case-specific decision and the factor it depends on.
 
+## Frequently asked questions
+
+**How should you end an evaluation question on positioning?**
+Finish with a clear decision for the case business and name the factor it depends on. An evaluation that ends without a case-specific decision misses the top marks.
+
+**How do you compare the profit of two positioning options?**
+Work out contribution per unit for each option, multiply by the expected volume and subtract fixed costs. Comparing revenue or contribution alone, without fixed costs, can point to the wrong option.
+
+**Which OxfordAQA 9725 section do these questions cover?**
+They cover section 3.4.2, Strategic positioning: Choosing how to compete, of OxfordAQA International AS and A-level Business (9725), examined in Unit 4: Business strategy.
+
 ## Next steps
 
 - Revise the key points: [revision notes](/resources/oxfordaqa-a-level-business-strategic-positioning-choosing-how-to-compete-revision-notes/)

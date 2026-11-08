@@ -17,11 +17,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-intertextuality"
 description: "Condensed IB DP Language A: Literature revision notes on the individual oral: global issues, translated works, extract choice and structure."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 For full explanations and a worked pair of extracts, use the
@@ -50,7 +50,7 @@ Course links: [Literature course hub](/boards/ib/ib-dp/language-a-literature/) Â
 | Levels | Taken by both SL and HL students |
 
 Not in the brief: the timing, the extract length, what notes you may use, and the assessment
-criteria. Your teacher will give you these. Do not rely on second-hand figures.
+criteria. The full IB Language A guide does set them: the oral lasts 15 minutes (a 10-minute prepared response followed by 5 minutes of teacher questions), each extract is no more than 40 lines, you may take in an outline of no more than 10 bullet points, and it is marked out of 40 on four criteria (A to D, 10 marks each). Confirm the details with your teacher.
 
 ## Key definitions
 
@@ -209,6 +209,20 @@ structure if you say it.
 - Forcing the works to agree when they treat the issue differently.
 - Stating a thesis in the opening and never returning to it.
 - Giving no verbal signposts, so the listener loses the structure.
+
+## Frequently asked questions
+
+**What is the difference between a theme and a global issue?**
+A theme is what a work is about in broad terms, such as family or home. A global issue is a specific problem or tension within it that affects many people in many places, such as how economic migration divides families.
+
+**Can both works in the Literature oral be from the same language?**
+No. In IB DP Language A: Literature, the oral must use one work originally written in the language studied and one work studied in translation. Two works from the same language do not meet the brief.
+
+**How much is the individual oral worth in IB Literature?**
+It is worth 30% of the final grade at SL and 20% at HL, and it is internally assessed.
+
+**Which features of a translated work are safe to analyse?**
+Imagery, symbols, narrative perspective, structure, dialogue and setting usually carry across languages. Handle rhyme, alliteration, puns, sentence rhythm and single-word choices with care, because they may be the translator's.
 
 ## Official syllabus
 

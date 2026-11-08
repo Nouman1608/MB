@@ -318,6 +318,23 @@ lastItem (x:xs) = lastItem xs
 
 Next, use the [revision notes](/resources/oxfordaqa-a-level-computer-science-functional-programming-revision-notes/) for recall, then try the [practice questions](/resources/oxfordaqa-a-level-computer-science-functional-programming-practice/).
 
+## Frequently asked questions
+
+**Is functional programming AS or A-level content in OxfordAQA 9645?**
+Topic 12, Functional programming, is International A-level only in the 9645 specification and is assessed in the Unit 4 paper. Exam questions on it use the Haskell language.
+
+**What is a first-class object?**
+A first-class object is a value that may appear in an expression, be assigned to a variable, be passed as an argument and be returned from a function call. In functional languages, functions themselves are first-class objects.
+
+**What does g ∘ f mean in function composition?**
+g ∘ f is read as "g after f": f is applied first and its result is passed to g. In Haskell the composition operator is a full stop, so (g . f) x applies f then g.
+
+**What do map and filter do in Haskell?**
+map applies a function to every element of a list and returns a list of the same length. filter keeps only the elements that satisfy a condition, keeping their order.
+
+**What are the head and tail of a list?**
+Any non-empty list can be written as head:tail, where the head is the first element and the tail is the rest of the list. The tail is always a list, so the tail of a one-item list is the empty list [].
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. This page covers section 3.12 Functional programming (3.12.1 to 3.12.3).

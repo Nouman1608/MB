@@ -13,11 +13,11 @@ order: 10
 syllabusTopics:
   - qualification: "a-level"
     topic: "government-macroeconomic-intervention-a-cambridge-alevel-economics"
-description: "Original exam-style questions with full worked answers on cost-push and demand-pull inflation, interest rates, conflicting fiscal and monetary policy, the Phillips curve, supply-side policy, lost tax revenue and the multiplier effect of falling exports, for Cambridge International AS & A Level Economics (9708)."
+description: "Cambridge 9708 A Level practice on macroeconomic intervention: inflation types, interest rates, policy conflicts, the Phillips curve and the multiplier."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
@@ -113,3 +113,17 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 - Naming the Phillips curve without using it to explain the trade-off.
 - Leaving out a withdrawal when calculating the multiplier (it is 1 ÷ (MPS + MPT + MPM)).
 - Treating two countries or two policies as if they must have the same effect.
+
+## Frequently asked questions
+
+**Which Cambridge 9708 paper do these questions practise?**
+Each question practises a skill tested in the June 2024 Paper 42, and most answers point to the real question to try next.
+
+**What is the most common mistake on inflation policy questions?**
+Treating all inflation as demand-pull and ignoring the context given. Say whether a policy's effect on aggregate demand actually tackles the cause of the inflation in the question.
+
+**How should I answer a question where two policies are used at once?**
+Say which way each policy moves aggregate demand, then judge the combined effect rather than assuming the two policies must work in the same direction.
+
+**What do I need to remember for a multiplier calculation?**
+Include every withdrawal. In an open economy with a government the withdrawals are saving, taxation and imports, and leaving one out is a common error.

@@ -248,6 +248,23 @@ Public sector enterprises are owned by government. Their main objectives are usu
 - Confusing private and public limited companies. The difference is whether shares can be sold to the general public.
 - Giving a recommendation with no link to the facts in the question.
 
+## Frequently asked questions
+
+**How do you calculate market share in O Level Business 7115?**
+Market share (%) = (the business's sales ÷ total market sales) × 100, which is the standard form.
+
+**Does a partnership have limited liability?**
+In the usual form, no. Partners normally have unlimited liability, so they can be personally responsible for the business's debts.
+
+**Can shareholders in a limited company lose money?**
+Yes. Limited liability means shareholders can lose what they invested in shares, but their personal assets are protected from the company's debts.
+
+**What is a social enterprise?**
+A social enterprise is run like a business but exists mainly to achieve a social or environmental aim. It sells goods or services and aims to cover its costs.
+
+**What is the difference between internal and external stakeholders?**
+Internal stakeholders are inside the business, such as owners or shareholders, directors, managers and employees. External stakeholders are outside it, such as customers, suppliers, lenders, the government and the local community.
+
 ## Official syllabus
 
 Cambridge O Level Business Studies 7115 syllabus for examination in 2026, published by Cambridge International Education, sections 1.4.1 and 1.5.1 to 1.5.3.

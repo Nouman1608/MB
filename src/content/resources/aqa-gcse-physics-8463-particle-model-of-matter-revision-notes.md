@@ -24,9 +24,9 @@ syllabusTopics:
     subtopic: "particle-model-and-pressure"
 description: "Condensed AQA GCSE Physics 8463 Particle model notes: density, internal energy, heat capacity vs latent heat, heating graphs, gas pressure and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -273,6 +273,20 @@ bicycle pump) increases its internal energy, which can raise its temperature.
 - In gas pressure answers, giving "more collisions" without "per second" or "more often".
 - Applying pV = constant when the temperature is not constant.
 
+## Frequently asked questions
+
+**What is internal energy?**
+Internal energy is the total kinetic energy and potential energy of all the particles (atoms and molecules) that make up a system. Defining it as kinetic energy only, or as "the heat in an object", loses marks.
+
+**What does heating do to a system?**
+Heating either raises the temperature, as the particles gain kinetic energy, or changes the state, as the particles gain potential energy with no change in temperature.
+
+**What do the flat parts of a heating graph show?**
+Flat parts of a temperature-time graph show a change of state, such as melting or boiling, where the energy supplied increases internal energy but the temperature stays constant. Use E = mL for these parts, not ΔE = mcΔθ.
+
+**How do you measure the density of an irregular object?**
+In required practical 5, find the volume by displacement, using the rise in a measuring cylinder or the overflow from a eureka can, and measure the mass on a balance. Then calculate ρ = m/V and convert to kg/m³.
+
 ## Official syllabus
 
 AQA GCSE Physics (8463) specification, for teaching from September 2016 onwards, for exams in 2018 onwards
@@ -282,4 +296,3 @@ AQA GCSE Physics (8463) specification, for teaching from September 2016 onwards,
   <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--02-gas-pressure.webp" width="900" height="990" alt="Three boxes with the same eight particles. Hotter particles move faster and the pressure bar doubles. Squeezing to half the volume also doubles the bar because the walls are hit more often." loading="lazy">
   <figcaption>Faster particles or a smaller volume mean more forceful or more frequent wall collisions, so higher pressure.</figcaption>
 </figure>
-

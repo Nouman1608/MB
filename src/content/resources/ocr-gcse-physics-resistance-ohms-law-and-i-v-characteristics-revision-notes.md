@@ -208,6 +208,23 @@ Current on the vertical axis, p.d. on the horizontal axis.
 - Describing an experiment without saying what is kept constant, what is measured, and how readings are repeated.
 - Dot-to-dot lines on a graph instead of a smooth best-fit line.
 
+## Frequently asked questions
+
+**What are the units of current, potential difference and resistance?**
+Current is measured in amperes (A), potential difference in volts (V) and resistance in ohms (Ω). An ammeter measures current and a voltmeter measures potential difference.
+
+**How should an ammeter and voltmeter be connected?**
+The ammeter goes in series with the component, and the voltmeter goes in parallel across it. A standard test circuit also includes a variable resistor in series to change the current.
+
+**What are thermistors and LDRs used for?**
+A thermistor's resistance depends on temperature, so it is used in temperature sensing such as a thermostat or fire alarm. An LDR's resistance depends on light, so it is used in light sensing such as automatic night lights.
+
+**Why does a filament lamp's resistance increase?**
+As the current rises, the filament gets hotter. The ions vibrate more and the electrons collide with them more often, so the resistance increases.
+
+**Which axes should an I-V graph use?**
+Current goes on the vertical axis and potential difference on the horizontal axis. Draw a smooth line or curve of best fit rather than joining the dots.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), for first assessment in 2018, published by OCR.

@@ -20,11 +20,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-chemical-bonding"
     subtopic: "as-metallic-bonding"
-description: "Condensed recall notes on the three bond types, electronegativity and structure-property links for Cambridge AS & A Level Chemistry 9701, with polarisation as unassessed background."
+description: "Revision notes for Cambridge AS & A Level Chemistry 9701 on ionic, covalent and metallic bonding, electronegativity and linking structure to properties."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -168,3 +168,16 @@ Metallic bonding follows the same electrostatic logic: metal atoms release outer
   <figcaption>Higher cation charge and smaller ion radius give a stronger metallic bond and so a higher melting point.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Is bonding either fully ionic or fully covalent?**
+No. Ionic and covalent bonding form a continuum rather than a strict binary. The size of the electronegativity difference predicts how ionic or covalent a bond is.
+
+**Do ionic solids conduct electricity?**
+No. Ionic solids do not conduct because their ions are fixed in the lattice. They conduct when melted or dissolved, when the ions can move.
+
+**Is polarisation assessed in Cambridge 9701 bonding?**
+On this page polarisation is included as unassessed background that bridges ionic and covalent bonding. The assessed content covers the three bond types, electronegativity and structure–property links.
+
+**Why is graphite's fourth electron important?**
+In graphite each carbon atom uses three electrons in covalent bonds, and the fourth is delocalised, not unbonded. These delocalised electrons allow graphite to conduct electricity.

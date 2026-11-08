@@ -11,9 +11,9 @@ syllabusCodes: ["9701"]
 order: 1
 description: "9701 Chemistry grade thresholds and examiner-report notes for March, June and November 2024 and 2025, with links to Cambridge's official papers."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -327,6 +327,23 @@ Official documents: [past papers, mark schemes and examiner report](https://www.
 5. **Fix the topic.** Use the study guides on the [9701 Chemistry hub](/boards/cambridge/a-level/chemistry/) and practise with the [9701 self-check question bank](/practice/9701/).
 6. **Re-test** a week later on a different paper from another series, and check the June 2026 figures for our main syllabuses on the [grade thresholds page](/grade-thresholds/).
 7. **Plan the run-up** with the [exam calendar](/exam-calendar/). If you want a teacher to go through your answers, request a [free trial class](/trial/).
+
+## Frequently asked questions
+
+**Where can I download Cambridge 9701 Chemistry past papers?**
+Cambridge publishes recent papers, mark schemes, examiner reports and grade thresholds on the 9701 past-papers page. Older series are available to schools through the School Support Hub.
+
+**Can I use grade thresholds to predict my 9701 grade?**
+Only as a rough guide for that series. Grade thresholds change every series and should never be used to predict future ones.
+
+**Are older 9701 past papers still useful?**
+Yes, with care. The 2025 series were examined on the current 2025–2027 syllabus, while 2024 and earlier papers used an earlier version, so check the syllabus version and skip questions on content that has changed.
+
+**How should I use a 9701 past paper with the mark scheme and examiner report?**
+Sit the paper under timed conditions, mark it strictly with the mark scheme, then read the examiner report to see where candidates lost marks and why.
+
+**What mistakes do Cambridge 9701 examiners report most often?**
+Repeated issues include definitions missing key words, missing mole ratios or dilution factors in calculations, describing metallic bonding without electrostatic attraction, and saying covalent bonds break when substances melt or boil.
 
 ## About these notes
 

@@ -12,6 +12,18 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-introductory-topics-7182"
+  - qualification: "a-level"
+    topic: "paper-1-introductory-topics-7182"
+    subtopic: "social-influence-7182"
+  - qualification: "a-level"
+    topic: "paper-1-introductory-topics-7182"
+    subtopic: "memory-7182"
+  - qualification: "a-level"
+    topic: "paper-1-introductory-topics-7182"
+    subtopic: "attachment-7182"
+  - qualification: "a-level"
+    topic: "paper-1-introductory-topics-7182"
+    subtopic: "clinical-psychology-and-mental-health-7182"
 description: "Original exam-style practice questions with full worked answers on social influence, memory, attachment, and clinical psychology and mental health."
 author: "marlbridge-academic-team"
 specCheck:
@@ -55,6 +67,18 @@ Related: [Introductory Topics revision notes](/resources/aqa-a-level-psychology-
 
 **7.** Explain the **dispositional** explanation of obedience and give **one** weakness of it. **[4]**
 
+## Section C — clinical psychology and mental health
+
+**8.** Outline **one** behavioural, **one** emotional and **one** cognitive characteristic of depression. **[3]**
+
+**9.** Using the two-process model, explain how a dog phobia could be acquired and maintained. **[4]**
+
+**10.** Outline how systematic desensitisation could be used to treat a phobia of spiders. **[4]**
+
+**11.** Outline Beck's negative triad as an explanation of depression. **[3]**
+
+**12.** Explain how drug therapy is used to treat OCD, and give **one** limitation of it. **[4]**
+
 ---
 
 ## Answers
@@ -76,6 +100,16 @@ Related: [Introductory Topics revision notes](/resources/aqa-a-level-psychology-
 
 **7.** The **authoritarian personality (Adorno)** is the **dispositional** explanation of obedience: it locates the cause within the individual's own personality rather than in the features of the situation, and is measured using the **F-scale**, which identifies traits such as rigid, black-and-white thinking and excessive deference to authority [1] [1]. **Weakness:** it cannot explain **whole populations obeying** the same authority figure, as in Milgram's studies — a dispositional account would require an implausibly uniform personality across millions of people, which is why situational explanations such as proximity, location, uniform and the agentic state are generally preferred [1] [1].
 
+**8.** Behavioural, any one: **reduced activity levels**, disrupted sleep or eating [1]. Emotional, any one: persistent **low mood**, anger or low self-esteem [1]. Cognitive, any one: **negative schemas**, focusing on the negative, **absolutist thinking** [1].
+
+**9.** **Acquisition:** through **classical conditioning** — being bitten (unconditioned stimulus) causes fear (unconditioned response); the dog (neutral stimulus) is associated with the bite and becomes a **conditioned stimulus** producing fear [1] [1]. **Maintenance:** through **operant conditioning** — avoiding dogs reduces the anxiety, so avoidance is **negatively reinforced** [1], which prevents the person learning that most dogs are harmless, so the phobia persists [1].
+
+**10.** The patient is taught a **relaxation technique**, such as deep breathing [1]. Patient and therapist build an **anxiety hierarchy** from the least to the most frightening situation, for example a picture of a spider up to holding one [1]. The patient works up the hierarchy **gradually**, staying relaxed at each step before moving on [1]. Because relaxation and fear cannot exist together (**reciprocal inhibition**), the spider becomes associated with relaxation instead of fear [1].
+
+**11.** Beck argued depressed people hold **negative views of three things** [1]: **the self** (for example "I am worthless"), **the world** (for example "everyone is against me") and **the future** (for example "nothing will improve") [1]. These faulty schemas, often formed in childhood, lead to cognitive biases that maintain low mood [1].
+
+**12.** OCD is treated with **SSRIs**, such as fluoxetine [1], which **block the reuptake of serotonin** at the synapse so that more serotonin remains available to the postsynaptic neuron, correcting the low serotonin linked to OCD [1]. Limitation, any one: **side effects** such as nausea or headaches may lead patients to stop treatment [1]; drugs treat the **symptoms but not the cause**, so symptoms may return when medication stops; not all patients respond [1].
+
 ---
 
 ## Where marks are usually lost
@@ -85,3 +119,17 @@ Related: [Introductory Topics revision notes](/resources/aqa-a-level-psychology-
 - Giving Strange Situation percentages without describing the behaviours.
 - Stating definitions in the field of mental health without a limitation when asked.
 - Giving the dispositional explanation of obedience without stating its population-level weakness.
+
+## Frequently asked questions
+
+**What topics do these AQA A Level Psychology introductory practice questions cover?**
+They cover social influence, memory, attachment, and clinical psychology and mental health for AQA A Level Psychology 7182, including conformity, obedience, the working memory model, the Strange Situation, phobias, depression and OCD.
+
+**What are common mistakes on introductory topics questions?**
+Students often confuse compliance with internalisation, describe the working memory model without the episodic buffer, and give Strange Situation percentages without describing the behaviours.
+
+**How many marks does each point usually earn in these answers?**
+In the worked answers, many points earn two marks: one for identifying the idea and one for explaining or developing it. A bare name or label usually earns only the first mark.
+
+**What is the dispositional explanation of obedience?**
+The dispositional explanation is Adorno's authoritarian personality, measured with the F-scale. Its main weakness is that it cannot explain whole populations obeying.

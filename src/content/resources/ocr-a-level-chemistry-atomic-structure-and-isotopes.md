@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "ocr-a-level-chemistry-foundations-in-chemistry"
     subtopic: "ocr-a-level-chemistry-2-1-1"
-description: "Isotopes, atomic structure from atomic and mass number, relative isotopic and atomic mass, mass spectrometry, and relative molecular/formula mass, for OCR A Level Chemistry A H432, Module 2.1.1."
+description: "OCR A Level Chemistry A H432 2.1.1: isotopes, particle counts, relative isotopic and atomic mass, mass spectrometry and relative molecular or formula mass."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -173,9 +173,23 @@ use the latter term.
 </figure>
 
 
+## Frequently asked questions
+
+**What is relative isotopic mass in OCR A Level Chemistry?**
+Relative isotopic mass is the mass of a single isotope compared with 1/12th of the mass of an atom of carbon-12. Relative atomic mass is the weighted mean mass of all the isotopes of an element on the same scale.
+
+**How do you calculate relative atomic mass from percentage abundances?**
+Multiply each isotope's mass by its percentage abundance, add the products and divide by 100. For 75% at mass 35 and 25% at mass 37, Ar = (75 × 35 + 25 × 37) ÷ 100 = 35.5.
+
+**Do you need to know how a mass spectrometer works in H432 2.1.1?**
+No. The specification excludes how the instrument works. You need to use the masses and abundances of the peaks, and the calculation is limited to ions with single charges.
+
+**Should you say relative molecular mass for sodium chloride?**
+No. Sodium chloride has a giant ionic structure, so use relative formula mass. Relative molecular mass is for simple molecules.
+
 ## Official syllabus
 
-OCR, *Cambridge OCR Level 3 Advanced GCE in Chemistry A (H432)
+OCR, *OCR Level 3 Advanced GCE in Chemistry A (H432)
 specification*, Version 3.1, May 2026: [official specification
 PDF](https://www.ocr.org.uk/Images/171720-specification-accredited-a-level-gce-chemistry-a-h432.pdf),
 section 2.1.1 "Atomic structure and isotopes". Verified 2026-09-02.

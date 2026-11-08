@@ -155,6 +155,20 @@ Cohen et al. (2015) exposed adults to a cold virus. Those who reported more soci
 - Saying workplace stress is caused by workload alone. The specification asks for workload **and** control.
 - Describing SCR as a direct measure of stress rather than of sympathetic arousal.
 
+## Frequently asked questions
+
+**What does AQA A-level Psychology 7182 Stress cover?**
+Section 4.3.7 covers the physiology of stress, the role of stress in illness, sources of stress, measuring stress, individual differences in stress, and managing and coping with stress, including social support.
+
+**Does stress always suppress the immune system?**
+No. Segerstrom and Miller (2004) concluded from more than 300 studies that short-term stressors can boost some immune functions, while chronic stress suppresses them.
+
+**What did the Whitehall II study find about workplace stress?**
+Marmot et al. (1997) found that low job control made the largest contribution to higher coronary heart disease in lower grades of London civil servants, rather than high workload. The study is correlational, so confounding cannot be fully ruled out.
+
+**Is Type C personality a cause of cancer?**
+The evidence is mixed. Greer and Morris (1975) found women diagnosed with breast cancer reported more emotional suppression, but Nakaya et al. (2003) found no link between personality and cancer risk.
+
 ## Where to go next
 
 For the nervous and endocrine systems, revisit [Approaches in Psychology](/resources/a-level-aqa-psychology-approaches-in-psychology/). For Paper 1 content, see [Introductory Topics](/resources/aqa-a-level-psychology-introductory-topics/).

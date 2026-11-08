@@ -278,6 +278,23 @@ y − 4 = −(1/3)(x − 3)  →  x + 3y = 15
 
 Examiner insight: show every line of algebra in a proof and say what each step uses. Answers that rely on a gap, such as "clearly", tend to lose credit.
 
+## Frequently asked questions
+
+**What is the factor theorem?**
+If f(−b/a) = 0, then (ax + b) is a factor of the polynomial f(x). The converse also holds: if (ax + b) is a factor, then f(−b/a) = 0.
+
+**How do you find trial roots when the leading coefficient is not 1?**
+Try fractions b/a where b divides the constant term and a divides the leading coefficient, for example x = 1/3 for 3x³ − x² − 12x + 4.
+
+**What is the equation of a circle with centre (a, b) and radius r?**
+(x − a)² + (y − b)² = r². The signs inside the brackets are the opposite of the centre's coordinates, so centre (3, −5) gives (x − 3)² + (y + 5)².
+
+**Which circle properties are used in Edexcel IAL P2?**
+A diameter subtends a right angle at any point on the circle, the perpendicular from the centre to a chord bisects the chord, and a radius is perpendicular to the tangent at its point of contact.
+
+**What divisors are used in algebraic division in Edexcel IAL P2?**
+The specification asks only for division of a polynomial by a linear expression of the form (ax + b) or (ax − b), giving a quotient and a constant remainder.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics: Specification, Issue 3, April 2019, first teaching September 2018, published by Pearson Education Limited. This guide covers P2 sections 1.1, 1.2, 1.3, 2.1 and 3.1.

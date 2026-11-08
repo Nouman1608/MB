@@ -306,6 +306,20 @@ Example: 7 344 has digit sum 7 + 3 + 4 + 4 = 18, so it is divisible by 9. Its la
 - Not showing working on a method question that must be done by hand.
 - Writing only the bare answer where the question says "show that" or asks for working.
 
+## Frequently asked questions
+
+**Is 1 a prime number?**
+No. A prime has exactly two factors, and 1 has only one factor, so it is neither prime nor composite. The number 2 is the only even prime.
+
+**How do you find the HCF and LCM from prime factorisations?**
+For the HCF, take each prime that appears in both numbers to its lowest power. For the LCM, take every prime that appears to its highest power; for example, 72 = 2³ × 3² and 60 = 2² × 3 × 5 give HCF 12 and LCM 360.
+
+**What order do you do operations in when there is division and multiplication?**
+Multiplication and division have equal priority, so work them from left to right. For example, 48 ÷ 4 × 3 = 12 × 3 = 36, not 48 ÷ 12.
+
+**How can you tell if a number is divisible by 3 or 9?**
+Add its digits. A number is divisible by 3 if the digit sum is a multiple of 3, and by 9 if the digit sum is a multiple of 9; for example, 7 344 has digit sum 18, so it is divisible by 9.
+
 ## Official syllabus
 
-OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), published by OCR (Cambridge OCR): sections 1.01a, 1.02a to 1.02c, 1.03a and 1.04a.
+OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), published by OCR (Oxford Cambridge and RSA Examinations): sections 1.01a, 1.02a to 1.02c, 1.03a and 1.04a.

@@ -14,11 +14,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-structure-bonding-organic-chemistry-ych11"
     subtopic: "atomic-structure-and-the-periodic-table-ych11"
-description: "Condensed recall notes on subatomic particles, isotopes and mass spectrometry calculations for Pearson Edexcel International A-Level Chemistry (YCH11), outcomes 2.1-2.7."
+description: "Revision notes for Pearson Edexcel International A Level Chemistry YCH11 outcomes 2.1 to 2.7: subatomic particles, isotopes and mass spectra calculations."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -164,6 +164,20 @@ Relative atomic mass calculated from isotopic abundance is not a one-off exam tr
 - Calculate the relative atomic mass of an element with isotopes of mass 10 (20% abundance) and 11 (80% abundance).
 - Explain why chlorine's mass spectrum shows three molecular ion peaks, not two.
 - Define isotope precisely, using proton and neutron number.
+
+## Frequently asked questions
+
+**What is an isotope?**
+Isotopes are atoms of the same element, with the same atomic number, but different numbers of neutrons and so different mass numbers. This is outcome 2.5 of the Pearson Edexcel International A Level Chemistry specification.
+
+**Why does a diatomic element with two isotopes give three molecular ion peaks?**
+The two isotopes can combine in three ways, for example ³⁵Cl–³⁵Cl, ³⁵Cl–³⁷Cl and ³⁷Cl–³⁷Cl for chlorine. Assuming only two peaks, one per isotope, is a common mistake.
+
+**How do you find the number of neutrons in an atom?**
+Subtract the atomic number from the mass number. Confusing atomic number with mass number is one of the most frequent errors.
+
+**How do you identify a molecule from its molecular ion peak?**
+List the candidate molecular formulae with that relative molecular mass, then use other evidence, such as the fragmentation pattern or context, to decide between them.
 
 ## Related resources
 

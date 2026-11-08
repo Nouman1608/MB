@@ -217,6 +217,23 @@ Percentage of slow fibres = slow fibres ÷ total fibres × 100. In 200 fibres, 1
 - Describing antagonistic muscles as one pulling and one pushing.
 - Giving fibre properties without saying which type you mean.
 
+## Frequently asked questions
+
+**What is the sliding filament theory?**
+It explains muscle contraction as thin actin filaments being pulled past thick myosin filaments towards the centre of the sarcomere by repeated cross-bridge cycles. The filaments themselves do not shorten; the sarcomere does.
+
+**How do calcium ions start muscle contraction?**
+Calcium ions cause tropomyosin to move so that the binding sites on actin are exposed. Myosin heads can then bind to actin and form cross-bridges.
+
+**What is phosphocreatine used for in muscle?**
+Phosphocreatine regenerates ATP quickly from ADP during intense activity; it does not power the myosin heads directly and is not a long-term store. It is rebuilt in the sarcoplasm during rest using ATP from aerobic respiration.
+
+**What is the difference between slow and fast skeletal muscle fibres?**
+Slow fibres suit sustained activity: they have many mitochondria, myoglobin, a rich blood supply and rely on aerobic respiration, so they resist fatigue. Fast fibres contract quickly and powerfully but tire sooner.
+
+**Which part of the OxfordAQA 9610 specification covers skeletal muscle?**
+Section 3.4.4, skeletal muscles as effectors, in Unit 4: Control, covering muscle structure and the sliding filament theory (3.4.4.1) and antagonistic pairs and the skeleton (3.4.4.2).
+
 ## Official syllabus
 
 Source: OxfordAQA International AS and A-level Biology (9610), specification Version 5.1, for International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards, published by OxfordAQA. Section 3.4.4, Skeletal muscles as effectors.

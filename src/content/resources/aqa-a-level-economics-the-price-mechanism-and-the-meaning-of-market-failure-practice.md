@@ -133,6 +133,20 @@ These questions cover the **How markets and prices allocate resources** and **Th
 - Solving for output without adding the external cost to marginal private cost.
 - Leaving out units, such as £ or bunches, on a calculation.
 
+## Frequently asked questions
+
+**How should market failure be defined for AQA A-level Economics?**
+Market failure occurs whenever a market leads to a misallocation of resources. Defining it as when markets do not work, with no mention of misallocation, loses marks.
+
+**How do you find a shortage after demand shifts?**
+Test the old price: calculate quantity demanded and quantity supplied at the original equilibrium price and take the difference.
+
+**Is a small market an example of complete market failure?**
+No. Complete failure means a missing market that does not exist at all; a small market that exists but misallocates is partial failure.
+
+**What is often missed when solving for the social optimum with an externality?**
+Adding the external cost to marginal private cost to find marginal social cost before solving for output.
+
 ## Next steps
 
 - Revisit the [study guide](/resources/aqa-a-level-economics-the-price-mechanism-and-the-meaning-of-market-failure/) and [revision notes](/resources/aqa-a-level-economics-the-price-mechanism-and-the-meaning-of-market-failure-revision-notes/).

@@ -14,11 +14,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-an-introduction-to-a-level-organic-chemistry"
     subtopic: "a-isomerism"
-description: "Enantiomers, chirality, racemic mixtures, plane-polarised light, and why chirality matters for drug synthesis, for Cambridge International AS & A Level Chemistry 9701."
+description: "Enantiomers, chiral centres, plane-polarised light, racemic mixtures and why chirality matters in drug synthesis, for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -174,6 +174,20 @@ identical CH₃ groups) is not a chiral centre.
 - Drug relevance: enantiomers can have different biological activity;
   racemic mixtures may need separating; chiral catalysts can produce one
   pure enantiomer directly
+
+## Frequently asked questions
+
+**What is a chiral centre?**
+A chiral centre is a carbon atom bonded to four different groups. For example, carbon 2 in butan-2-ol is bonded to –OH, –H, –CH₃ and –CH₂CH₃, so butan-2-ol exists as a pair of enantiomers.
+
+**What is plane polarised light?**
+Ordinary light vibrates in every plane perpendicular to its direction of travel. A polarising filter selects light vibrating in one plane only, and a single enantiomer rotates that plane by a measurable angle.
+
+**Why do drug companies need to separate racemic mixtures?**
+The two enantiomers of a drug can have different biological activity: one may be effective while the other is inactive or harmful. Separation is difficult because enantiomers share the physical properties that distillation and recrystallisation rely on.
+
+**What does a chiral catalyst do?**
+A chiral catalyst favours the formation of one enantiomer over the other during the reaction itself. This produces a mainly pure optical isomer directly, so a racemic product does not need separating afterwards.
 
 ## Related resources
 

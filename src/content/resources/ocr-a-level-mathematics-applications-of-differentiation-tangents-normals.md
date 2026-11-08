@@ -266,6 +266,20 @@ When x = 2, h = 8/8 = 1 and V = 3(2) − 8/4 = 4. The greatest volume is 4 m³. 
 - Keeping a root outside the domain, or forgetting that an optimisation answer must fit the context.
 - Writing "it is a minimum" with no evidence. Quote the sign of the second derivative, or the signs of dy/dx either side.
 
+## Frequently asked questions
+
+**Which specification references cover applications of differentiation in OCR A Level Mathematics A (H240)?**
+References 1.07m to 1.07p cover tangents and normals, stationary points, increasing and decreasing functions, and points of inflection. Points of inflection, 1.07p, are A Level only.
+
+**How do you find the y-coordinate of a stationary point?**
+Substitute the x-value into the original equation of the curve, not into dy/dx. Stopping at the x-values and never finding y is a common way to lose marks.
+
+**Does d²y/dx² = 0 prove a point of inflection?**
+No. You also need d²y/dx² to change sign on either side of the point. On its own, d²y/dx² = 0 does not prove an inflection, nor that the point is not a maximum or minimum.
+
+**How do you use calculus to sketch a curve?**
+Find the stationary points and their nature, the intercepts with the axes and any points of inflection, then draw a curve with the correct shape through them, labelling the points found.
+
 ## Where next
 
 Work through the [practice questions](/resources/ocr-a-level-mathematics-applications-of-differentiation-tangents-normals-practice/), then keep the [revision notes](/resources/ocr-a-level-mathematics-applications-of-differentiation-tangents-normals-revision-notes/) for the final weeks. The [checklist](/checklists/ocr/a-level/mathematics/) lets you tick off each reference.
@@ -278,4 +292,4 @@ Work through the [practice questions](/resources/ocr-a-level-mathematics-applica
 
 ## Official syllabus
 
-*Cambridge OCR Level 3 Advanced GCE in Mathematics A (H240)* specification, Version 3.1 (August 2026), for first assessment in 2018, published by Cambridge OCR: section 1.07, Differentiation, references 1.07m to 1.07p.
+*OCR Level 3 Advanced GCE in Mathematics A (H240)* specification, Version 3.1 (August 2026), for first assessment in 2018, published by OCR: section 1.07, Differentiation, references 1.07m to 1.07p.

@@ -14,9 +14,9 @@ syllabusTopics:
     topic: "the-double-entry-model"
 description: "Source documents, books of prime entry, ledger accounts and the recording of adjustments -- the full content of Topic 3 for AQA A-Level Accounting (7127)."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 publishedDate: 2026-09-09
 featured: false
 ---
@@ -199,3 +199,20 @@ value. Forgetting closing inventory adjusts cost of sales as well as appearing o
   position.
 - Calculate depreciation by both straight line and reducing balance, and explain why they diverge.
 - Record irrecoverable debts and their recovery correctly, without reversing the original write-off.
+
+## Frequently asked questions
+
+**What are the books of prime entry in AQA A-Level Accounting 7127?**
+The specification names the purchases journal, sales journal, sales returns journal, purchases returns journal, general journal and three-column cash book. Transactions are entered here from source documents before being posted to the ledger accounts.
+
+**What is the recording chain in double entry accounting?**
+A transaction moves from a source document, to a book of prime entry, to a ledger account, to the trial balance, and finally to the financial statements. Exam questions can start anywhere along this chain.
+
+**How is the recovery of an irrecoverable debt recorded?**
+The recovery is recorded as income; the original write-off is not reversed.
+
+**Are manufacturing accounts examined in AQA 7127?**
+No. Income statements and statements of financial position are prepared from trial balances for service and trading businesses only; manufacturing accounts are not examined.
+
+**Is a prepayment an asset or a liability?**
+A prepayment is an expense paid in advance, so it is shown as a current asset. Treating it as a liability is a common mistake.

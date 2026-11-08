@@ -217,6 +217,20 @@ Before an assessment or a lesson task, ask yourself four things. Which context i
 - Comparing totals when a per-person or per-unit rate is needed.
 - Writing a long answer when the task asks for a single clear statement.
 
+## Frequently asked questions
+
+**What are the six global contexts in IB MYP?**
+The six global contexts are identities and relationships, orientation in space and time, personal and cultural expression, scientific and technical innovation, globalization and sustainability, and fairness and development.
+
+**What is the difference between key concepts and related concepts in MYP Mathematics?**
+Key concepts are broad ideas shared across the MYP; mathematics contributes three of them, form, logic and relationships. Related concepts are narrower and subject-specific, and the guide lists twelve for mathematics, such as approximation, quantity, space and equivalence.
+
+**How do you build a statement of inquiry?**
+Start with the unit mathematics, choose one key concept and one to three related concepts, choose the global context that explains why it matters, then write one sentence linking them with a verb such as "shapes" or "depends on". Check it is a general idea true beyond one lesson.
+
+**Do MYP Mathematics teachers have to use a global context?**
+Yes. Teachers have to pick a global context for their teaching, and they may also develop extra contexts if those help students see why an inquiry matters.
+
 ## Official syllabus
 
 IB *Mathematics guide* (MYP), for use from September 2020/January 2021, first assessment 2022, published by the International Baccalaureate Organization.

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "particles-and-medical-physics"
     subtopic: "nuclear-and-particle-physics-ocr-alevel"
-description: "Condensed revision notes on alpha scattering, nuclear radius and density, quark charges and beta decay for OCR A Level Physics A (H556)."
+description: "Condensed revision notes on alpha scattering, nuclear radius and density, quarks, hadrons, leptons and beta decay for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false
@@ -224,6 +224,20 @@ Method in steps for balancing a quark equation:
 - Putting a neutrino where the antineutrino belongs in beta-minus decay.
 - Adding quark charges but using +2/3 for an antiup quark.
 - Writing a bare equation with no charge check when the question says "show".
+
+## Frequently asked questions
+
+**What is the difference between hadrons and leptons?**
+Hadrons, such as protons and neutrons, feel the strong nuclear force and the weak nuclear force. Leptons, such as electrons and neutrinos, feel the weak nuclear force but not the strong nuclear force.
+
+**What are the quark compositions of the proton and neutron?**
+A proton is uud, giving a charge of +2/3 + 2/3 − 1/3 = +1. A neutron is udd, giving a charge of +2/3 − 1/3 − 1/3 = 0.
+
+**Why is every nucleus about the same density?**
+Nuclear radius is R = r₀A^(1/3), so nuclear volume is proportional to the nucleon number A, as is the mass. A cancels in mass divided by volume, so all nuclei have about the same density.
+
+**Which sections of OCR A Level Physics A cover the nuclear atom and fundamental particles?**
+They are sections 6.4.1 (The nuclear atom) and 6.4.2 (Fundamental particles) of OCR H556, in Module 6.
 
 ## Next steps
 

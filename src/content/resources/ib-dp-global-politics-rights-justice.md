@@ -12,7 +12,7 @@ order: 4
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-global-politics-rights-and-justice"
-description: "How rights are claimed, contested and enforced, examined through power, sovereignty, legitimacy and interdependence -- one of the three compulsory thematic studies of IB Diploma Programme Global Politics, first assessment 2026."
+description: "Study guide to the IB DP Global Politics Rights and justice thematic study: applying power, sovereignty, legitimacy and interdependence to real rights cases."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -150,6 +150,20 @@ case you know connects to one of the eight HL topic areas (equality or
 identity, for example), as a possible starting point for the
 independent case research the Global political challenges extension
 requires.
+
+## Frequently asked questions
+
+**How do you analyse a human rights issue in IB Global Politics?**
+Work through the four core concepts explicitly: which actors have the power to define or enforce the right, whether the state claims sovereign authority over it, whether each side's position is seen as legitimate, and how the issue creates pressure or obligations beyond the state through interdependence.
+
+**Why use current case studies for Rights and justice?**
+The IB DP Global Politics course is built around contemporary real-world examples, and current, live cases tend to be more persuasive in an extended answer than dated textbook cases that many candidates also use.
+
+**How can Rights and justice link to the other thematic studies?**
+Paper 2 may combine content from more than one thematic study, so practise linking cases, for example showing how a conflict also raises rights violations for the same population, or how unequal development raises questions of distributive justice.
+
+**How can HL students use Rights and justice for Paper 3?**
+HL students can note where a rights case connects to one of the eight HL topic areas, such as equality or identity, as a starting point for the independent case research the global political challenges extension requires.
 
 ## Official syllabus
 

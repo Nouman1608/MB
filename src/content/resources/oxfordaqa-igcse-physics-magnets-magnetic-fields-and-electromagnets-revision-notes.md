@@ -279,6 +279,20 @@ Write "close to" and not "exactly", because the clip count is a whole number and
 - Counting clips once and not repeating the trial.
 - Forgetting to control the other variables.
 
+## Frequently asked questions
+
+**Which metals are magnetic?**
+Only iron, steel, cobalt and nickel are magnetic materials. Saying that a magnet attracts all metals is a common error.
+
+**What is a uniform magnetic field?**
+A uniform field has parallel, equally spaced field lines pointing the same way, so its strength and direction are the same everywhere. One forms in the small gap between two flat, opposite poles placed close together.
+
+**What is the shape of the magnetic field around a straight wire?**
+The field lines form circles around the wire. The field is stronger closer to the wire and when the current is larger, and reversing the current reverses the direction of the field.
+
+**How does an electric bell work?**
+Current in the coil magnetises it, attracting an iron armature that hits the gong. The movement breaks the circuit, the current stops, a spring pulls the armature back, the circuit is remade and the cycle repeats.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, published by OxfordAQA. This page covers section 3.5.2.

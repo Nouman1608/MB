@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Budgeting (YAC11)"
+title: "Edexcel International A Level Accounting: Budgeting (YAC11)"
 seoTitle: "Edexcel IAL Accounting Budgeting Study Guide (YAC11)"
 resourceType: "study-guides"
 subject: "accounting"
@@ -301,6 +301,23 @@ Against the fixed budget, profit looks 4,290 favourable and materials 6,120 adve
 - Using this month's sales, not next month's, for a closing inventory policy.
 - Flexing fixed costs, or flexing all of a semi-variable cost.
 - Charging a full annual prepaid payment as the period's expense.
+
+## Frequently asked questions
+
+**What is the principal budget factor?**
+The principal budget factor is the factor that limits the level of activity, usually sales demand. It is identified early because it sets the level for the functional budgets.
+
+**In what order are budgets prepared in Edexcel YAC11?**
+Set objectives, form a budget committee and issue a budget manual, identify the principal budget factor, prepare the functional budgets, then the trade receivables, trade payables, capital and cash budgets, and finally the master budget, before review, approval and monitoring.
+
+**How do you calculate units to produce?**
+Units to produce = budgeted sales + required closing inventory − opening inventory. Materials purchases follow the same pattern: materials used + closing materials − opening materials.
+
+**What is a capital budget?**
+A capital budget sets out the planned purchases and disposals of non-current assets and when they will be paid for or received. These payments and receipts also appear in the cash budget.
+
+**What are the limitations of budgeting?**
+A budget is only as good as its forecasts, preparing it takes management time, and imposed or unrealistic budgets can demotivate staff.
 
 ## Official syllabus
 

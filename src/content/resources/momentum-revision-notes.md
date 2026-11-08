@@ -15,9 +15,9 @@ syllabusTopics:
     subtopic: "momentum"
 description: "Condensed recall notes on momentum, impulse and conservation of momentum in collisions for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -157,3 +157,16 @@ Crumple zones, airbags, seatbelts, crash mats and gloves all **increase the time
   <figcaption>The same impulse over a longer time needs a smaller force.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Is momentum conserved in an inelastic collision?**
+Yes. Momentum is conserved in both elastic and inelastic collisions; only kinetic energy distinguishes them. Claiming momentum is lost in an inelastic collision is a common error.
+
+**What is the total momentum before an explosion?**
+If the objects start at rest, the total momentum before is zero, so afterwards the pieces have equal and opposite momenta. This explains recoil, such as a rifle and bullet.
+
+**What does "objects stick together" mean in a momentum question?**
+It means the objects move off together with a common final velocity, so you use their combined mass after the collision.
+
+**Is F = Δp / Δt the same as F = ma?**
+Yes, when mass is constant: Δp = mΔv, so F = mΔv / Δt = ma. The momentum form also covers situations where mass changes, which O Level Physics 5054 does not require you to calculate.

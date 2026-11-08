@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Capital and revenue expenditure and non-current asset depreciation (YAC11)"
+title: "Edexcel International A Level Accounting: Capital and revenue expenditure and non-current asset depreciation (YAC11)"
 seoTitle: "Edexcel IAL Accounting Capital Spend and Depreciation"
 resourceType: "study-guides"
 subject: "accounting"
@@ -278,6 +278,23 @@ The vehicles charge of 4,400 is 2,800 on the van sold plus 1,600 on the new van.
 - Forgetting to remove the disposed asset's depreciation for earlier years from the provision.
 - Charging a full year on a part-year asset, or none on an asset sold in the year.
 - Saying depreciation provides cash for replacement.
+
+## Frequently asked questions
+
+**How do you decide if spending is capital or revenue expenditure?**
+The test is purpose, not size. Spending that brings an asset into use or improves its earning capacity is capital expenditure; spending that maintains it or keeps the business running is revenue expenditure.
+
+**What are the causes of depreciation?**
+Causes include wear and tear from use, obsolescence, the passage of time for fixed-term assets such as a lease, depletion of assets such as a quarry, and inadequacy when the business outgrows the asset.
+
+**What is the revaluation method of depreciation?**
+The revaluation method is used for small items such as tools, where tracking each one is impractical. Depreciation = opening valuation + additions − closing valuation.
+
+**How is a change of depreciation method handled?**
+The usual approach is to apply the new method to the carrying value from the date of the change, then compare the new charge with the old one to show the effect on profit.
+
+**Does depreciation affect cash?**
+No. A higher depreciation charge lowers profit for the year and the carrying value of the asset, but it never changes cash.
 
 ## Official syllabus
 

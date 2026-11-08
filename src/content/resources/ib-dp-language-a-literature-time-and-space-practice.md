@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-time-space"
 description: "Original IB DP Literature Time and space practice: context, reception and translation questions on three passages, with an oral plan and model answers."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -218,6 +218,20 @@ start.
 - [Printable checklist](/checklists/ib/ib-dp/language-a-literature/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**What is the Time and space area of exploration in IB Language A: Literature?**
+Time and space is the second of the three areas of exploration in IB DP Language A: Literature. It studies how works reflect and shape the time and place they were written in, and how they are read differently in other times and places.
+
+**Why do Time and space answers lose marks?**
+Common reasons are giving background history with no link to a quotation or a writer's choice, treating a work's setting as its context, and judging a character by today's values without analysing the work's own culture.
+
+**How should you write about context for an unseen passage?**
+Infer time and place from clues in the text, such as vocabulary, objects and social rules, and present them as inferences. Do not invent a precise date or country the passage does not support.
+
+**How should you write about a single word in a translated work?**
+Mention the translation, for example "in this translation, the word suggests", because a single English word may reflect the translator's choice rather than the writer's.
 
 ## Official syllabus
 

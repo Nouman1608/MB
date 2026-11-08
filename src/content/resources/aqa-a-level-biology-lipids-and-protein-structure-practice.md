@@ -140,6 +140,20 @@ Explain these results and suggest why the replacement changes only some bonds. *
 - Take one of the free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Which sections of the AQA specification do these questions cover?**
+They cover sections 3.1.3 (Lipids) and 3.1.4.1 (General properties of proteins) of AQA A-level Biology 7402.
+
+**What should you do after describing a trend in data?**
+Explain it. Describing a trend in data without an explanation is a common way to lose marks.
+
+**What should you say about a food test result?**
+Say what the result shows, not only the colour or appearance you saw.
+
+**Are these AQA past paper questions?**
+No. They are original practice questions with worked answers. Use them alongside official AQA past papers.
+
 ## Official syllabus
 
 AQA AS and A-level Biology (7401/7402) specification, for first teaching 2015, published by AQA: sections 3.1.3 and 3.1.4.1.

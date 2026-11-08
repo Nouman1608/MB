@@ -24,11 +24,11 @@ syllabusTopics:
     subtopic: "anaerobic-respiration-cambridge-igcse-biology"
 description: "Condensed respiration notes for Cambridge IGCSE Biology 0610: equations, uses of energy, yeast investigation, oxygen debt and a self-test with answers."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 For full explanations and worked examples, use the [respiration study guide](/resources/igcse-biology-0610-respiration/). These notes condense Topic 12, Respiration (sections 12.1, 12.2 and 12.3), of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. Core outcomes are for everyone. Supplement outcomes (12.2.3, 12.3.5, 12.3.6 and 12.3.7) are marked **Extended only**, for candidates taking Papers 2 and 4.
@@ -240,6 +240,20 @@ Method for data questions: describe the rates staying high after exercise, then 
 ## Next steps
 
 Test yourself on the [respiration practice questions](/resources/igcse-biology-respiration-practice/), and review the [gas exchange revision notes](/resources/igcse-biology-0610-gas-exchange-in-humans-revision-notes/) alongside these notes, since the two topics are often tested together.
+
+## Frequently asked questions
+
+**What are the uses of energy from respiration in Cambridge IGCSE Biology 0610?**
+The syllabus lists seven uses: muscle contraction, protein synthesis, cell division, active transport, growth, the passage of nerve impulses and the maintenance of a constant body temperature.
+
+**Does respiration produce energy?**
+No. Respiration releases energy from nutrient molecules; it does not make or produce energy. Using "releases" is the wording that earns credit.
+
+**Why does anaerobic respiration release less energy than aerobic respiration?**
+Anaerobic respiration does not break glucose down completely, so it releases much less energy per glucose molecule than aerobic respiration.
+
+**How does temperature affect respiration in yeast?**
+The rate rises as temperature increases up to an optimum and then falls, because respiration is controlled by enzymes. Above the optimum, the enzymes are denatured.
 
 ## Official syllabus
 

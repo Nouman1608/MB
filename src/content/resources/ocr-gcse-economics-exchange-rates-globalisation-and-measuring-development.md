@@ -209,6 +209,23 @@ Life expectancy shows health. Doctors per 1,000 people shows access to health ca
 - Reading GDP per capita as evidence of fairness between rich and poor.
 - Listing benefits and costs without a judgement.
 
+## Frequently asked questions
+
+**What is an exchange rate?**
+An exchange rate tells you how much of one currency you must pay to obtain a unit of another. If £1 = 1.25 dollars, multiply to go from pounds to dollars and divide to go from dollars to pounds.
+
+**How is a floating exchange rate determined?**
+The rate is set where the demand for pounds, from overseas buyers of exports, tourists and investors, meets the supply of pounds, from residents buying imports, holidays and assets abroad.
+
+**What has driven globalisation?**
+The OCR GCSE Economics (J205) guide lists falling transport costs, communications technology, trade agreements, multinational companies, rising incomes and freer movement of capital between countries.
+
+**Why is GDP per capita a limited measure of development?**
+GDP per capita is a mean, so a few very high incomes can pull it up, and it leaves out unpaid work, informal activity, pollution and how fairly income is shared. Health and education indicators give a fuller picture.
+
+**Does an appreciation help or harm an economy?**
+It makes exports dearer abroad, so exporters' sales and jobs are at risk, but imports become cheaper, which helps consumers and firms that use imported materials. The overall effect depends on elasticity, the share of imported costs and how long the change lasts.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Economics (J205), version 2.0 (June 2026), first assessment 2019, published by OCR.

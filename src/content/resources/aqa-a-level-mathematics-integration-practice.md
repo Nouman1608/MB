@@ -144,6 +144,23 @@ So ∫ x² eˣ dx = **eˣ(x² − 2x + 2) + c** [1]
 - Giving a decimal where an exact or log form is asked for.
 - Stating a long-term value but no limitation, or a limitation that does not refer to the context.
 
+## Frequently asked questions
+
+**What does AQA A-level Maths 7357 Section H cover?**
+Section H covers the Fundamental Theorem of Calculus, standard integrals, definite integrals and area, integration as the limit of a sum, substitution and integration by parts, partial fractions, separable differential equations and interpreting their solutions, content references H1 to H8.
+
+**How do you find the area between a line and a curve?**
+Find the x-coordinates where they meet, then integrate (upper − lower) between them. This works even when part of the region is below the x-axis, so no splitting is needed.
+
+**What must you do with the limits after a substitution?**
+Change them to values of the new variable, such as u, and integrate in u. Keeping the x-limits with a u-integral is a common slip that loses marks.
+
+**How do you integrate x²eˣ?**
+Use integration by parts twice, taking u = x² first and then u = 2x, to get eˣ(x² − 2x + 2) + c. Differentiate the answer to check the signs.
+
+**How should you comment on a differential equation model's long-term behaviour?**
+Let t → ∞ and state the limit in context, then give a limitation linked to the situation, such as a factor the model ignores.
+
 ## Next steps
 
 - [Integration revision notes](/resources/aqa-a-level-mathematics-integration-revision-notes/)

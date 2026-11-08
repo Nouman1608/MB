@@ -120,6 +120,20 @@ This set covers the global environment of business in the OCR A Level Business (
 - Writing only advantages, or only disadvantages, on an evaluate question.
 - Rounding part-way through a long calculation.
 
+## Frequently asked questions
+
+**How do you convert foreign currency into pounds in a business question?**
+When the rate is written as foreign units per £1, divide a foreign-currency amount by the rate to get pounds, and multiply a pound amount by the rate to get foreign currency. Using the wrong operation is one of the most common ways to lose marks on these questions.
+
+**What do you need to say about an exchange rate change for the top marks?**
+State whether the pound has strengthened or weakened, then explain whether the change helps or hurts the named business as an exporter or importer, using the figures given. A stated effect without its direction, or without a link to the business, earns few marks.
+
+**What topics are covered in the OCR A Level Business global environment questions?**
+The global environment content of OCR A Level Business (H431) includes globalisation, multinationals, international trade and barriers to trade, exchange rates, free trade and trading blocs, the European Union and emerging markets. Questions range from short definitions to longer case-based evaluations.
+
+**What support can a business get when trading internationally?**
+Financial support includes export credit insurance or guarantees, bank trade finance such as letters of credit, and government grants where offered. Non-financial support includes official advice and market data, trade fairs and delegations, business associations, and agents and distributors.
+
 ## Next steps
 
 - Read the [study guide](/resources/ocr-a-level-business-the-global-environment-of-business/) and [revision notes](/resources/ocr-a-level-business-the-global-environment-of-business-revision-notes/).

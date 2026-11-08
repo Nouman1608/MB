@@ -14,7 +14,7 @@ syllabusTopics:
     topic: "ib-myp-individuals-and-societies-constituent-disciplines"
   - qualification: "ib-myp"
     topic: "ib-myp-individuals-and-societies-eassessment-topics"
-description: "The discipline options IB MYP Individuals and Societies schools choose from, and the three eAssessment subjects -- history, geography, integrated humanities -- students can be examined in, with the eAssessment's three task types explained."
+description: "Which disciplines IB MYP Individuals and Societies schools can teach, the three eAssessment subjects (history, geography, integrated humanities) and the tasks."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -144,6 +144,20 @@ structured, judgement-based argument, which cannot access this task's top marks 
 accurate or detailed the description is. Neglecting the communicating task's audience-and-purpose
 demand, since presenting information "appropriately for audience and purpose" is itself part of what
 is assessed, not just the accuracy of the information presented.
+
+## Frequently asked questions
+
+**Which disciplines can be taught in IB MYP Individuals and Societies?**
+Schools can develop courses in integrated humanities, history, economics, geography, philosophy, sociology/anthropology, business management, psychology or world religions. The subject group name and its four assessment criteria stay the same everywhere, but the content studied can differ between schools.
+
+**Can I take the MYP Individuals and Societies eAssessment in economics or psychology?**
+No. The on-screen eAssessment is available only in history, geography or integrated humanities, so a school teaching economics or psychology may still direct students to one of those three. Confirm which of the three your own course prepares you for.
+
+**What are the four MYP Individuals and Societies assessment criteria?**
+The four criteria are A Knowing and understanding, B Investigating, C Communicating and D Thinking critically. They stay the same whichever discipline a school teaches.
+
+**What is assessed in the Communicating task?**
+The Communicating task (criteria A and C, 18 marks) asks students to engage creatively with a topic and present information appropriately for audience and purpose. Matching the format to the audience is itself part of what is assessed, not just the accuracy of the information.
 
 ## Official syllabus
 

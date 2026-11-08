@@ -1,6 +1,6 @@
 # Content gap report
 
-**Generated 19 Oct 2026, 17:56 PKT** by `python3 scripts/content-gap-report.py` (content-breadth sprint).
+**Generated 08 Nov 2026, 19:12 PKT** by `python3 scripts/content-gap-report.py` (content-breadth sprint).
 
 Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series only), which is the build-validated transcription of each board's official document. A topic counts as having a study guide (SG), revision notes (RN) or practice set (PQ) only if a resource of that type maps to it. Subtopic columns count exact subtopic mappings only. Nothing here says a page has been teacher-reviewed: all resources remain `review-pending`.
 
@@ -31,7 +31,7 @@ Topic lists come from `src/data/academic/syllabus-topics.ts` (the current series
 | 4CH1 (chemistry) | Issue 3, September 2024 | 39 | 14 / 14 / 11 | 4 / 4 | 17 / 17 | complete |
 | 4PH1 (physics) | Issue 4 | 24 | 8 / 8 / 8 | 8 / 8 | 30 / 30 | complete |
 | 4BI1 (biology) | Issue 3 | 45 | 15 / 15 / 15 | 5 / 5 | 12 / 12 | complete |
-| 8461 (biology) | For first teaching 2016 | 36 | 12 / 12 / 12 | 8 / 8 | 6 / 6 | complete |
+| 8461 (biology) | For first teaching 2016 | 45 | 14 / 17 / 14 | 8 / 8 | 31 / 31 | complete |
 | 8462 (chemistry) | For teaching from September 2016 | 48 | 16 / 16 / 16 | 11 / 11 | 8 / 8 | complete |
 | 8463 (physics) | For first teaching 2016 | 30 | 10 / 10 / 10 | 8 / 8 | 30 / 30 | complete |
 | 8300 (mathematics) | For first teaching 2015 | 39 | 13 / 13 / 13 | 6 / 6 | 7 / 7 | complete |
@@ -378,12 +378,12 @@ Topic-level gaps first, then subtopic depth. Past-paper guides (brief step 5) no
 | # | Topic | SG | RN | PQ | Subtopics missing a type (missing types) |
 |---|---|---|---|---|---|
 | 1 | Cell biology | 4 | 4 | 4 | -- |
-| 2 | Organisation | 2 | 2 | 2 | -- |
-| 3 | Infection and response | 1 | 1 | 1 | topic has no subtopic data |
-| 4 | Bioenergetics | 1 | 1 | 1 | topic has no subtopic data |
-| 5 | Homeostasis and response | 1 | 1 | 1 | topic has no subtopic data |
-| 6 | Inheritance, variation and evolution | 1 | 1 | 1 | topic has no subtopic data |
-| 7 | Ecology | 1 | 1 | 1 | topic has no subtopic data |
+| 2 | Organisation | 4 | 7 | 4 | -- |
+| 3 | Infection and response | 1 | 1 | 1 | -- |
+| 4 | Bioenergetics | 1 | 1 | 1 | -- |
+| 5 | Homeostasis and response | 1 | 1 | 1 | -- |
+| 6 | Inheritance, variation and evolution | 1 | 1 | 1 | -- |
+| 7 | Ecology | 1 | 1 | 1 | -- |
 | 8 | Key ideas | 1 | 1 | 1 | topic has no subtopic data |
 
 ### 8462 -- chemistry (aqa gcse, For teaching from September 2016)

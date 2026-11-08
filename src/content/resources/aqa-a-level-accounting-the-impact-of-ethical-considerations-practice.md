@@ -114,6 +114,20 @@ Learn the content in the [study guide](/resources/aqa-a-level-accounting-the-imp
 - Skipping the calculation when figures show the ethical effect.
 - Finishing an evaluation without a judgement.
 
+## Frequently asked questions
+
+**Are these AQA 7127 ethics questions from past papers?**
+No. They are original practice questions with marked answers on section 3.18 of AQA A-Level Accounting 7127, written for revision. Use them alongside the official past papers.
+
+**How should I name an ethical principle in an answer?**
+Use the specification's wording for the principle and link it to the fact in the scenario that breaches it. "Honesty" is not the name of a principle, and calling every breach "integrity" misses cases where objectivity or competence fits better.
+
+**What makes a good safeguard in an ethics answer?**
+The safeguard must match the threat it is meant to reduce. A safeguard that does not address the specific threat named earns little credit.
+
+**Should I recommend reporting wrongdoing to an outside body straight away?**
+No. Recommending external reporting with no internal step first is a common error; internal escalation and professional advice normally come before external reporting.
+
 ## Next steps
 
 - [Revision notes for this topic](/resources/aqa-a-level-accounting-the-impact-of-ethical-considerations-revision-notes/)

@@ -164,6 +164,23 @@ A deep network with layers 5, 4, 4, 2 has 5 × 4 + 4 × 4 + 4 × 2 = 20 + 16 + 8
 - Listing benefits or risks generically when the question gives a scenario.
 - Calling current systems generally intelligent, or stating superintelligence as a present-day fact.
 
+## Frequently asked questions
+
+**Is artificial intelligence on the OxfordAQA 9645 AS exam?**
+No. Section 3.16 Artificial intelligence is International A-level only, so it is not assessed at International AS. It is examined in Unit 4, Advanced concepts and principles of computer science, which is a written paper.
+
+**How do you work out the output of a node in a neural network?**
+Multiply each input by the weight on its connection, add the products to get the weighted sum, then apply the rule the question gives, such as outputting 1 if the sum reaches a threshold. Show the weighted sum before applying the rule, because applying the threshold to individual inputs is a common error.
+
+**How do you count the weights in a fully connected neural network?**
+Multiply the number of nodes in each pair of neighbouring layers and add the results. For example, layers of 5, 4, 4 and 2 nodes give 5 × 4 + 4 × 4 + 4 × 2 = 44 weights.
+
+**Do you need to calculate backpropagation for 9645?**
+No. You need to describe what backpropagation does: the output error is passed backwards through the network and the weights are adjusted to reduce it, repeated over many training examples. The specification does not ask for its mathematics.
+
+**How should you answer a "discuss" question on the benefits and risks of AI?**
+Make a point, apply it to the scenario given, and state its consequence, covering both benefits and risks. Finish with a judgement tied to the scenario, since generic lists of benefits and risks earn less.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.16 Artificial intelligence.

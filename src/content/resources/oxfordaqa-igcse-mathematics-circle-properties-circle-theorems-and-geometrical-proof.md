@@ -284,6 +284,20 @@ A G9 question may also place a circle in a larger figure, for example a quadrila
 - Quoting "alternate segment" for the segment next to the angle. The angle you want is on the opposite side of the chord.
 - Giving an answer with no reason in a "give a reason" part.
 
+## Frequently asked questions
+
+**What are the eight circle theorems for OxfordAQA International GCSE?**
+They are: the angle at the centre is twice the angle at the circumference; the angle in a semicircle is 90°; angles in the same segment are equal; opposite angles of a cyclic quadrilateral sum to 180°; a tangent is perpendicular to the radius; tangents from an external point are equal; the perpendicular from the centre bisects a chord; and the alternate segment theorem.
+
+**Why do radii help in circle proofs?**
+Radii of the same circle are equal, so joining the centre to two points on the circle makes an isosceles triangle with equal base angles.
+
+**What is the longest chord of a circle?**
+The diameter, which is a chord through the centre with length twice the radius.
+
+**What is the difference between a chord and a tangent?**
+A chord is a line segment with both ends on the circle. A tangent touches the circle at exactly one point.
+
 ## Official syllabus
 
 This guide follows the OxfordAQA International GCSE Mathematics (9260) Specification, Version 5.1, for exams in May/June 2018 onwards, published by OxfordAQA, section 3.3.1, references G8 and G9.

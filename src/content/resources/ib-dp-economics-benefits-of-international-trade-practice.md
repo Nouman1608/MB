@@ -130,6 +130,20 @@ Related pages: the [study guide](/resources/ib-dp-economics-benefits-of-internat
 - Treating absolute advantage as the same as comparative advantage.
 - Not using the extract in a context question.
 
+## Frequently asked questions
+
+**How do you calculate exports or imports from a free trade diagram?**
+Read quantity demanded and quantity supplied at the world price. Exports are quantity supplied minus quantity demanded when the world price is above the domestic price; imports are quantity demanded minus quantity supplied when it is below.
+
+**Which price do you use for export revenue or import expenditure?**
+Use the world price, not the domestic no-trade price. Multiply the world price by the quantity exported or imported.
+
+**How do you calculate opportunity cost for comparative advantage questions?**
+The opportunity cost of good X is the amount of good Y given up divided by the amount of X gained. Check which good sits in the denominator, because dividing the wrong way round is a common error.
+
+**What do IB Economics examiners look for in discuss answers on free trade?**
+Explain the mechanism behind each benefit, include the losers as well as the winners, and use any extract or data given. Unlabelled diagrams and benefits named without a mechanism lose marks.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/ib-dp-economics-benefits-of-international-trade-revision-notes/) for any question you lost marks on.

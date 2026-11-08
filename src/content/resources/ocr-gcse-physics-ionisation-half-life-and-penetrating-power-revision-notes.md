@@ -235,6 +235,23 @@ Questions 4 to 8 use P6.1k (Higher Tier only).
 - Describing the dice model without saying what each throw represents.
 - Saying "radiation makes things radioactive" in a safety answer.
 
+## Frequently asked questions
+
+**What is the difference between excitation and ionisation?**
+In excitation, an electron absorbs energy and moves to a higher energy level but stays in the atom. In ionisation, an outer electron is removed completely, leaving a positive ion.
+
+**Can heating a radioactive source change its half-life?**
+No. Radioactive decay is random, and outside conditions such as heating do not change when a nucleus decays or the half-life of the sample.
+
+**How do you explain half-life for full marks?**
+Give a definition, such as the time for the number of undecayed nuclei or the activity to halve, and link it to random decay and the large number of nuclei in a sample, which makes the overall pattern predictable.
+
+**Why do alpha particles have the shortest range?**
+Alpha particles are strongly ionising, so they lose energy quickly as they pass through matter. A particle that ionises a lot has a short range.
+
+**Is calculating net decline Higher tier in OCR GCSE Physics A?**
+Yes. In OCR GCSE (9-1) Physics A (J249), statement P6.1k on net decline after a whole number of half-lives, expressed as a ratio, is Higher tier only.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249)* specification, Version 5.0 (July 2026), for first assessment in 2018. Statements P6.1h to P6.1l.

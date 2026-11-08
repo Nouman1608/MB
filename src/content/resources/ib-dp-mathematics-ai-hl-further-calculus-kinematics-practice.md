@@ -28,11 +28,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-5-13"
 description: "12 original IB Maths AI HL questions on differentiation rules, substitution, areas, volumes of revolution and kinematics, with marked answers."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -185,6 +185,20 @@ Learn the methods first in the [study guide](/resources/ib-dp-mathematics-ai-hl-
 - Tick off topics on the [printable syllabus checklist](/checklists/ib/ib-dp/mathematics-applications-and-interpretation/)
 - Try [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Do you need analytic working on IB Maths AI HL calculus questions if a GDC is allowed?**
+Yes. All three AI HL papers require technology, but where a question says "show that" or asks for an exact answer you must write the analytic working, because a GDC value alone does not earn the method marks.
+
+**When should you substitute values in a related rates question?**
+Differentiate the linking equation with respect to time first, then substitute the values at the instant asked about. Substituting a value such as h = 30 before differentiating turns it into a constant and loses most of the marks.
+
+**What is the difference between displacement and total distance travelled?**
+Displacement is the integral of v(t) and can be negative or zero, while total distance is the integral of |v(t)| and is never negative. To find distance, split the time interval where v(t) = 0 or integrate |v(t)| on your GDC.
+
+**How do you show a step in a show that derivative question?**
+Write every intermediate line, including any identity you use such as cos²x + sin²x = 1. Jumping straight to the given result loses the final mark.
 
 ## Official syllabus
 

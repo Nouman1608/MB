@@ -12,110 +12,181 @@ order: 5
 syllabusTopics:
   - qualification: "o-level"
     topic: "aids-to-trade-that-support-commerce-7100"
-description: "How banks, insurers, advertisers, communication services and tourism help trade, with loan, premium and advertising calculations, for Cambridge O Level Commerce Topic 5."
+description: "Advertising, banking, insurance, finance and the six commercial calculations explained with worked examples for Cambridge O Level Commerce 7100 Topic 5."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Topic 5 has no subtopic list on file, so check which aids to trade the 2026-2028 syllabus names and whether transport and warehousing are treated here or only in Topic 4."
+reviewNote: "2026-11-08 recheck: rewritten against the syllabus subject content 5.1-5.4 (advertising, banking, insurance, sources of finance and calculations); removed tourism and communication (not Topic 5) and the principles of insurance (not in the syllabus); please review."
 publishedDate: 2026-11-08
 featured: false
 ---
 
-Producers and traders could not work efficiently if every business had to arrange its own finance, protection, publicity and communication. **Aids to trade** are specialist services that remove these difficulties and so make buying and selling easier. For Cambridge O Level Commerce you need to know what each aid offers, how a business uses it, and what its limits are, and you should be comfortable with short calculations on interest, premiums and cost of advertising.
+Aids to trade are services that do not make or sell goods themselves but make buying and selling easier. Topic 5 of the Cambridge O Level Commerce (7100) syllabus focuses on three of them, **advertising, banking and insurance**, and adds a fourth section on **sources of finance and commercial performance**, which contains the six commercial calculations you must be able to carry out. Examiners expect you to define each service, explain how it helps a business, and judge which option suits a given situation.
 
-## Where this fits in the specification
+## Where does Topic 5 fit in the syllabus?
 
-Topic 5 follows [Logistics in commerce](/resources/cambridge-o-level-commerce-logistics-in-commerce-study-guide/), which covered the movement and storage of goods, and precedes [Sustainability and ethics](/resources/cambridge-o-level-commerce-sustainability-and-ethics-study-guide/). Banking, insurance, advertising and communication appear in questions about almost any commercial situation, so the content here is worth revising alongside the other topics. Questions usually ask you to explain how a service helps a trader, to compare options, or to calculate a figure.
+Topic 1 lists the six aids to trade: communications, transport, warehousing, advertising, banking and insurance. Communication is taught in Topic 2 (section 2.6) and transport and warehousing in [Topic 4, Logistics in commerce](/resources/cambridge-o-level-commerce-logistics-in-commerce-study-guide/). Topic 5 covers the remaining three in depth, then moves on to how entrepreneurs raise finance and measure performance. It leads into [Topic 6, Sustainability and ethics](/resources/cambridge-o-level-commerce-sustainability-and-ethics-study-guide/), where misleading advertising returns as an ethical issue.
 
-## Banking services
+## Syllabus coverage (7100, 2026-2028)
 
-Banks keep money safe and make it available to those who need it. Services of use to traders are:
+| Section | What you must know |
+|---|---|
+| 5.1 Advertising | Purposes and types of advertising; traditional and digital media; factors in choosing media; methods of appeal; sales promotion |
+| 5.2 Banking | Accounts, customer services, methods of payment and sources of finance; internet and mobile banking and their impact |
+| 5.3 Insurance | Purposes; types of insurance risk; pooling of risk; calculating premiums; proposal form, cover note and policy; the insurance broker |
+| 5.4 Sources of finance and commercial performance | Entrepreneurship; short- and long-term finance; financial terms; six commercial calculations; improving performance |
 
-- **Current accounts** for receiving customer payments and paying suppliers and wages through cheques, cards and electronic transfers.
-- **Deposit and savings accounts**, where surplus funds earn interest.
-- **Overdrafts**, a flexible short-term arrangement allowing withdrawals beyond the balance up to a limit. Interest is charged only on the amount overdrawn but often at a high rate.
-- **Loans** for a fixed amount, usually repaid in instalments with interest, for buying equipment or premises.
-- **Foreign exchange** and international payments, which let importers and exporters settle bills in other currencies.
-- **Online and mobile banking**, which allow payments and account checks at any time.
+## What is advertising for, and what types are there? (5.1.1)
 
-The advantage of bank finance is that funds are available quickly; the disadvantages are interest costs and the risk that the bank may require security, such as property, for a large loan.
+**Advertising** is paid communication that tells people about a product and encourages them to buy it. Its purposes are to inform customers about new products, prices and features, to persuade them to choose one product over another, to remind them of an existing product, and to build a brand image.
 
-## Insurance
+| Type | What it does | Advantage | Disadvantage |
+|---|---|---|---|
+| Informative | Gives facts such as price, features and where to buy | Helps customers make a reasoned choice | May be less memorable |
+| Persuasive | Uses images and slogans to create a desire to buy | Can raise sales quickly | Can mislead or encourage people to buy what they do not need |
+| Collective (generic) | Promotes a whole product type for an industry, such as "drink more milk" | Shares the cost among many firms | Benefits rivals as well as the firms that pay |
+| Competitive | Compares a brand with its rivals | Shows customers why this brand is better | Can provoke an expensive advertising war |
 
-Insurance spreads the cost of loss across many people. Each policyholder pays a **premium**, and the insurance company compensates those who suffer a loss from an insured event. Businesses typically insure property against fire and theft, goods in transit, vehicles, employees' injuries and legal claims from customers.
+## Which advertising media should a business choose? (5.1.2)
 
-Important ideas include:
+**Traditional media** are television, radio, cinema, local and national newspapers, magazines and trade journals, leaflets and flyers, packaging, direct mail, sponsorship, catalogues and brochures, posters, transport vehicles, window displays, point of sale displays, signboards and word of mouth.
 
-- **Insurable interest**: the policyholder must suffer a financial loss if the event happens.
-- **Utmost good faith**: the policyholder must tell the insurer every important fact honestly.
-- **Indemnity**: compensation restores the policyholder to the position before the loss but not better.
-- **Excess**: an amount of each claim that the policyholder pays.
-- **Premium factors**: the likelihood and probable size of the loss, the value of what is insured, and the claims record of the policyholder.
+**Digital media** are social media advertising and other internet advertising (websites and search engines), display advertisements, video advertisements, email marketing, digital billboards and social media influencers.
 
-Not every risk can be insured. Trading risks such as a poor choice of product, falling demand or changing fashions are not insurable, because they depend on the business's own decisions and cannot be predicted from a pool of similar cases.
+| Medium | Advantages | Disadvantages |
+|---|---|---|
+| Television | Huge audience; sound, colour and movement | Very expensive to make and to broadcast |
+| Local newspaper | Cheap; reaches a local market | Black and white or low quality; short life |
+| Trade journal | Reaches a specialist audience of buyers | Small readership |
+| Social media | Cheap; can be targeted by age, location and interests; easy to change | Easy to scroll past; negative comments spread quickly |
+| Influencers | Trusted by followers; reaches young audiences | Expensive for top influencers; damage if the influencer's reputation falls |
 
-## Advertising
+The syllabus names eight **factors affecting the choice of medium**: the audience, cost, cultural and legal considerations, flexibility to change, local and international market coverage, multi-channel advertising, timing and type of product. A good answer applies them: a small café with a local market and a low budget would choose leaflets, a signboard and social media, not national television.
 
-Advertising is paid-for communication that tells people about goods and services and encourages them to buy. It can be **informative**, such as announcing a price change, or **persuasive**, such as comparing brands, or it can **remind** customers of a product they already know.
+## How do advertisers appeal to customers? (5.1.3)
 
-Media include newspapers, magazines, radio, television, posters, leaflets, cinema and the internet, including social media and search advertising. Choosing a medium depends on the cost, the audience reached, the nature of the product and the message. A bakery would probably use a local noticeboard or local radio, while a manufacturer of national brands could use television. Benefits of advertising include higher sales, wider awareness and support for new products. Drawbacks are the cost, which may be passed on in prices, and the possibility of misleading claims. In many countries there are laws and codes to control false advertising.
+The **methods of appeal** listed are emotion, fear, humour, rational, ambition, social acceptance, romantic, adventure, music, and endorsement by celebrities and social media influencers. A **rational** appeal uses facts, such as fuel economy figures for a car; a **fear** appeal shows what could go wrong, which suits insurance or road safety; **social acceptance** suggests that buying the product will help you fit in, which suits fashion. In an exam, explain why the appeal suits the product and audience in the scenario.
 
-## Communication
+## What is sales promotion? (5.1.4)
 
-Efficient communication lets a trader agree orders, price, delivery and payment and receive news quickly. Telephone, post and fax have been joined by email, video calls, messaging apps and websites. Business also uses the internet for **e-commerce**, selling directly to customers across borders, and for online tracking of deliveries and stock. Limits include equipment and staff training costs, the need for reliable connections, and risks to security and privacy.
+**Sales promotion** means short-term incentives used to increase sales. The methods named are point of sale, special offers, sponsorship, displays, competitions, coupons, sales periods, **loss leaders** (products sold below cost to attract customers who then buy other items), free gifts and free samples. The choice depends on the type of business, what competitors are doing, cost, the nature of the product, whether the product is new or old, and timing. Free samples suit a new food product; a sales period suits clearing old seasonal stock.
 
-## Tourism
+## What services do banks provide? (5.2.1)
 
-Tourism provides income through hotels, restaurants, guides, travel agents, airlines and the many shops that visitors use. It brings foreign currency into a country and creates jobs. It depends on other aids to trade, since visitors need transport, currency exchange, insurance, advertising and communication. A country that relies heavily on tourism can be hit hard by events that keep visitors away.
+| Category | Services |
+|---|---|
+| Accounts | **Current account** for everyday payments, with cheques, cards and possible overdraft; **deposit or savings account** for money that is not needed immediately, which earns interest |
+| Customer services | ATM, night safe (for depositing cash after closing time), foreign currency, financial advice, telephone banking |
+| Payments | Cash, cheque, credit card, debit card, store card, credit transfer, standing order, direct debit, electronic transfer, documentary credit (letter of credit) |
+| Sources of finance | Loan, overdraft, mortgage, hire purchase |
 
-## Worked example 1: a loan
+Some pairs are often confused. A **debit card** takes money straight from the current account; a **credit card** borrows money that is repaid later, with interest if the full balance is not paid. A **standing order** pays a fixed amount on a fixed date and is changed by the account holder; a **direct debit** lets the receiver collect an amount that can vary, such as an electricity bill. A **loan** is a fixed sum repaid in instalments over an agreed period; an **overdraft** lets a current account go below zero up to a limit and suits short-term cash shortages. A **mortgage** is a long-term loan secured on property. **Hire purchase** lets a buyer use goods immediately while paying in instalments; the goods belong to the buyer only after the last payment.
 
-A small printing business borrows $20,000 to buy a new press. The loan is for 2 years at 6% simple interest a year, repaid in equal monthly instalments.
+## How has digital technology changed banking? (5.2.2)
 
-Step 1: interest = 20,000 x 0.06 x 2 = $2,400.
-Step 2: total repayable = 20,000 + 2,400 = $22,400.
-Step 3: number of payments = 2 x 12 = 24.
-Step 4: monthly instalment = 22,400 / 24 = $933.33 (to the nearest cent).
+**Internet banking** uses a website and **mobile banking** uses a smartphone app. Advantages: 24-hour access, quick transfers and bill payments, no travel to a branch and lower costs for banks. Disadvantages: the risk of fraud and hacking, the need for a device and internet connection, and difficulty for some older or rural customers. The impact has been the **closure of bank branches**, the growth of **digital-only banks** and **less use of cash**, a move towards a cashless society.
 
-The owner should check that the extra income from the press comfortably exceeds the $933.33 paid each month.
+## Why do businesses insure, and against what? (5.3.1–5.3.2)
 
-## Worked example 2: premium, claim and advertising cost
+**Insurance** protects against the financial effect of a loss. The syllabus gives five **purposes**: risk reduction, compensation, financial protection, business confidence and investment (insurance companies invest the premiums they collect, providing funds for other businesses).
 
-A warehouse owner insures her building and contents worth $85,000. The premium rate is 0.4% of the value insured.
+| Type of insurance risk | What it covers |
+|---|---|
+| Consequential loss | Lost profit while a business cannot trade after, for example, a fire |
+| Employer's liability | Claims by employees injured at work |
+| Fire | Damage to buildings, stock and equipment by fire |
+| Motor | Damage to vehicles and claims from accidents |
+| Premises | Damage to the business's buildings |
+| Public liability | Claims by members of the public injured on the premises or by the business's products or activities |
+| Theft | Loss of stock, cash or equipment through theft |
 
-Step 1: annual premium = 85,000 x 0.4 / 100 = $340.
+## How does insurance work in practice? (5.3.3)
 
-A fire causes $30,000 of covered damage. The policy has an excess of $1,000.
+**Pooling of risk.** Many policyholders pay **premiums** into a common fund. In any year only a few suffer a loss, so the fund can compensate them. This is why a business can accept risks it could never afford alone.
 
-Step 2: the insurer pays 30,000 - 1,000 = $29,000.
-Step 3: the owner pays the $1,000 excess.
-Step 4: in this year, the owner paid $340 in premium and $1,000 in excess, a total of $1,340, and received $29,000.
+**Calculating a premium.** Premiums are usually quoted as a rate per $100 or per $1,000 of the value insured, so premium = (value insured / 100) x rate per $100. The rate is higher where a loss is more likely or would be larger.
 
-She also places a $2,500 advert that reaches 125,000 people.
+**Insurance documents** come in a fixed order. The **proposal form** is the application, on which the person seeking insurance gives full and truthful details of what is to be insured. The **cover note** is temporary proof of insurance while the policy is prepared. The **policy** is the full written contract, setting out what is covered and the conditions.
 
-Step 5: cost per person reached = 2,500 / 125,000 = $0.02.
+**The insurance broker** is an independent adviser who compares policies from different insurers, recommends the most suitable cover at the best price and helps with claims. The broker is paid by commission from the insurer.
 
-## Common mistakes
+You may meet the "principles of insurance" (insurable interest, utmost good faith and indemnity) in older textbooks. They are not named in the 7100 subject content, so you are not required to learn them; the duty to answer the proposal form honestly is the practical point to remember.
 
-- Mixing up the premium paid and the compensation received.
-- Stating that insurance stops a loss from happening. It only pays for the financial result.
-- Calculating interest for months without converting to years, or forgetting to add the interest to the loan when finding total repayments.
-- Calling every business risk insurable.
-- Describing a service without saying what benefit the trader gets.
+## How do entrepreneurs and enterprises raise finance? (5.4.1)
 
-## Exam technique
+**Entrepreneurship** is setting up and running a business, taking risks in the hope of making a profit.
 
-- A question that says "explain how" needs a link from the service to the benefit, such as "A loan lets the business buy a machine now, which raises output."
-- When asked to **compare** two options, such as an overdraft and a loan, write about both and reach a conclusion that fits the purpose and time period.
-- For calculations, write the formula, substitute, and show units. Check the answer is realistic: premiums should be much smaller than the loss insured.
-- In multiple-choice questions on definitions, read all options before choosing, because wrong options often use correct terms in the wrong place.
+| Short-term finance (under a year) | Long-term finance |
+|---|---|
+| Trade credit, debt factoring, hire purchase, leasing, sale and leaseback, overdraft, selling assets, owner's savings, retained profit | Ordinary shares, preference shares, loans, debentures, venture capital, crowdfunding |
 
-## Check your understanding
+**Trade credit** is buying now and paying the supplier later, usually within 30 to 90 days. **Debt factoring** is selling money owed by customers to a factor for immediate cash, less a fee. **Leasing** is renting equipment instead of buying it. **Sale and leaseback** means selling an asset such as a building and renting it back. **Ordinary shares** give voting rights and a variable dividend; **preference shares** receive a fixed dividend before ordinary shareholders. **Debentures** are long-term loans to a company at a fixed rate of interest; debenture holders are lenders, not owners. **Venture capital** comes from investors who fund risky new businesses in return for a share of ownership. **Crowdfunding** raises small amounts from many people online.
 
-1. State two services that a bank offers to a business. Answer: any two of current account, loan, overdraft, deposit account, foreign exchange, online banking.
-2. What is meant by an insurance premium? Answer: the payment made by the policyholder to the insurer for cover.
-3. Give one example of a business risk that cannot be insured. Answer: for example falling demand or an unpopular product.
-4. Calculate the interest on a $8,000 loan at 5% for 3 years, simple interest. Answer: 8,000 x 0.05 x 3 = $1,200.
-5. Name two advertising media and one factor in choosing between them. Answer: for example radio and posters; the cost or the audience reached.
-6. A claim for $9,500 is made on a policy with an excess of $500. How much does the insurer pay? Answer: $9,000.
-7. Explain one way tourism relies on aids to trade. Answer: for example tourists need banks to exchange currency, insurance for travel, and communication and advertising to learn about destinations.
+The right choice depends on the purpose and the time period. Finance for stock to sell in the next month suits trade credit or an overdraft; a new factory suits shares, a long-term loan or debentures. A sole trader cannot issue shares, so owner's savings, loans and crowdfunding matter more.
+
+You also need the **financial terms** sales, revenue, profit, working capital, assets and liabilities, interest, capital, **cash discounts** (a reduction for paying promptly) and **trade discounts** (a reduction given to traders buying for resale).
+
+## Which commercial calculations must you know? (5.4.2)
+
+| Measure | Formula |
+|---|---|
+| Revenue (sales or turnover) | Selling price per unit x number of units sold |
+| Gross profit | Revenue - cost of sales |
+| Gross profit margin (%) | Gross profit / revenue x 100 |
+| Net profit (profit for the year) | Gross profit - expenses |
+| Working capital | Current assets - current liabilities |
+| Mark-up (%) | (Average selling price - unit cost) / unit cost x 100 |
+
+## Worked example 1: commercial calculations
+
+A trader buys 400 lamps at $15 each and sells all of them at $24 each. Expenses for the year are $1,500. Current assets are $6,200 and current liabilities are $2,700.
+
+- Revenue = 24 x 400 = **$9,600**
+- Cost of sales = 15 x 400 = $6,000, so gross profit = 9,600 - 6,000 = **$3,600**
+- Gross profit margin = 3,600 / 9,600 x 100 = **37.5%**
+- Net profit = 3,600 - 1,500 = **$2,100**
+- Working capital = 6,200 - 2,700 = **$3,500**
+- Mark-up = (24 - 15) / 15 x 100 = **60%**
+
+Notice that the mark-up (60%) is higher than the gross profit margin (37.5%) because mark-up is measured on cost, which is smaller than revenue.
+
+## Worked example 2: an insurance premium
+
+A shop insures its stock worth $64,000. The insurer charges $1.25 per $100 insured.
+
+- Number of $100 units = 64,000 / 100 = 640
+- Premium = 640 x 1.25 = **$800** a year
+
+If the shop installs a sprinkler system and the rate falls to $1.00 per $100, the premium falls to 640 x 1.00 = $640, a saving of $160.
+
+## How can a business improve its performance? (5.4.3)
+
+To raise sales turnover, profit, mark-up or working capital, a business can reduce expenses (for example by cutting energy use or renegotiating rent), increase its mark-up, change its prices, improve its advertising or introduce new products. Always link the method to the measure: cutting expenses raises net profit but does not change gross profit, while raising the mark-up raises gross profit per unit but may reduce the number of units sold.
+
+## What are the common mistakes in Topic 5?
+
+- Confusing a premium (paid by the insured) with compensation (paid by the insurer).
+- Mixing up a standing order (fixed amount, set up by the payer) and a direct debit (variable amount, collected by the receiver).
+- Calling a cover note the full policy.
+- Treating debentures as shares: they are long-term loans.
+- Mixing up mark-up (on cost) and gross profit margin (on revenue).
+- Recommending expensive national television for a small local business without justifying it.
+
+## Frequently asked questions
+
+**What are the three aids to trade in Topic 5?** Advertising, banking and insurance. Topic 5 also covers sources of finance and the six commercial calculations; communication, transport and warehousing are taught in Topics 2 and 4.
+
+**What is the difference between advertising and sales promotion?** Advertising communicates through media to inform or persuade over time. Sales promotion uses short-term incentives, such as coupons, free samples or loss leaders, to raise sales quickly.
+
+**Why does pooling of risk work?** Many people pay small premiums into a fund, but only a few suffer a loss in any year, so the fund can pay their claims and still cover the insurer's costs.
+
+**Do I need to learn the principles of insurance?** No. The 7100 syllabus asks for purposes, types of risk, pooling, premium calculations, the three documents and the broker, but does not name insurable interest, utmost good faith or indemnity.
+
+## Where can I practise?
+
+Revise with the [aids to trade revision notes](/resources/o-level-commerce-aids-to-trade-revision-notes/), then try the [aids to trade practice questions](/resources/o-level-commerce-aids-to-trade-practice/).
+
+## Official syllabus
+
+Cambridge O Level Commerce (7100) syllabus for 2026, 2027 and 2028, Topic 5 Aids to trade that support commerce —
+[official syllabus PDF](https://www.cambridgeinternational.org/Images/693604-2026-2028-syllabus.pdf).

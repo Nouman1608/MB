@@ -260,6 +260,20 @@ Papers 3 and 4 use a case study, and the last part of some questions, and every 
 - Giving benefits of IT or AI with no cost or risk when asked to evaluate.
 - Ignoring the data in the case study.
 
+## Frequently asked questions
+
+**What is the difference between quality control and quality assurance?**
+Quality control detects faults after the event by inspecting or testing output. Quality assurance prevents faults by setting standards and checking the process throughout.
+
+**What are the three kinds of flexibility in Cambridge 9609 operations?**
+Volume, delivery time and specification. Ways to gain flexibility include multi-skilled staff, flexible machines, temporary contracts and outsourcing.
+
+**What are the six lean production strategies?**
+Kaizen, quality circles, simultaneous engineering, cell production, JIT manufacturing and waste management. Each has a limitation, so link it to the business in the case.
+
+**What is the difference between total float and free float?**
+Total float is the delay an activity can have without delaying the whole project. Free float is the delay allowed before the next activity is affected, and it can never be larger than the total float.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education): sections 9.2 and 9.3.

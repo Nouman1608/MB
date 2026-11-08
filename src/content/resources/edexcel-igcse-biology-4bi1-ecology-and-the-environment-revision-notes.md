@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "ecology-and-the-environment-edexcel-igcse-biology"
 description: "Condensed revision notes for Edexcel IGCSE Biology 4BI1 ecology: key terms, energy transfer, nutrient cycles, pollution and a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 These notes condense Topic 4, **Ecology and the environment** (points 4.1–4.18), of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3, for the June and November series examined under Issue 3. The course is untiered; points 4.3B, 4.4B, 4.11B and 4.18B are bold **B** statements and are examined on Paper 2 only. For full explanations and worked examples, read the [study guide](/resources/edexcel-igcse-biology-4bi1-ecology-and-the-environment/) first.
@@ -326,6 +326,23 @@ In both cases the **bacteria**, not the algae, cause the oxygen to fall.
 - Mixing up nitrifying and denitrifying bacteria, or naming bacteria species (not required).
 - Linking carbon monoxide to acid rain, or sulfur dioxide to haemoglobin.
 - Listing greenhouse gases without saying how human activity adds each one.
+
+## Frequently asked questions
+
+**How do you estimate a population with quadrats?**
+Place quadrats at random using random coordinates, count the species in each, find the mean per quadrat, convert to a mean per m² by dividing by the quadrat area, then multiply by the total area.
+
+**Why is only about 10% of energy passed to the next trophic level?**
+Energy is lost through respiration as heat, parts not eaten, undigested food in faeces, excretion, and movement and keeping warm in birds and mammals.
+
+**Which way do arrows point in a food chain?**
+Arrows point from the food to the feeder, showing the direction of energy flow.
+
+**What is the difference between nitrifying and denitrifying bacteria?**
+Nitrifying bacteria make nitrate and need oxygen. Denitrifying bacteria turn nitrate back into nitrogen gas. The nitrogen cycle is Paper 2 only.
+
+**Do algae cause the oxygen loss in eutrophication?**
+No. Bacteria that decompose dead plants and algae use up the oxygen by aerobic respiration, not the algae themselves.
 
 ## Official syllabus
 

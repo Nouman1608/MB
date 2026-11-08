@@ -13,9 +13,9 @@ description: "How Cambridge IGCSE Sociology 0495's two papers use different comp
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-09
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 Cambridge IGCSE Sociology (0495) is a linear, not-tiered qualification of two equally weighted written
@@ -114,6 +114,20 @@ questions they choose. 3. Because Paper 2 only requires answering two of its thr
 so depth on two topics is more valuable than shallow coverage of all three. 4. Naming a specific study or
 example and explicitly explaining how it demonstrates the concept, rather than defining the concept in
 the abstract.
+
+## Frequently asked questions
+
+**How many papers are in Cambridge IGCSE Sociology 0495?**
+Cambridge IGCSE Sociology (0495) has two equally weighted written papers: Paper 1, Research Methods, Identity and Inequality (2 hours, 80 marks), and Paper 2, Family, Education and Crime (1 hour 45 minutes, 80 marks).
+
+**Which questions are compulsory in IGCSE Sociology?**
+Paper 1 has a compulsory Question 1 plus a choice of Question 2 or Question 3. Paper 2 has no compulsory question: you choose two of three optional questions.
+
+**Should you revise all three Paper 2 topics for 0495?**
+Because you answer only two of the three Paper 2 questions, preparing your two strongest topics in depth can be more effective than covering all three thinly. Research Methods should be revised thoroughly regardless, since Paper 1's Question 1 is compulsory.
+
+**Is the 0495 exam tiered?**
+No. Cambridge IGCSE Sociology (0495) is a linear, not-tiered qualification, so every candidate sits the same two papers.
 
 *Written against the assessment overview of Cambridge International's own IGCSE Sociology (0495)
 syllabus PDF for the 2025-2027 examination series (official Cambridge document, verified 2026-08-27);

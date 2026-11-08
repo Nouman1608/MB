@@ -19,11 +19,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-3-6"
 description: "10 original IB DP Maths AI questions on perpendicular bisectors and Voronoi diagrams for SL and HL, with mark-by-mark worked answers."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -155,6 +155,20 @@ Learn the methods in the [study guide](/resources/ib-dp-mathematics-ai-voronoi-p
 - [Printable syllabus checklist](/checklists/ib/ib-dp/mathematics-applications-and-interpretation/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Do you need to construct perpendicular bisectors with compasses in IB Maths AI?**
+No. The IB guide says that in examinations the coordinates of the sites are given and you are not required to construct perpendicular bisectors. You work with their equations instead.
+
+**What topics do these IB Maths AI Voronoi diagram practice questions cover?**
+They cover sections 3.5 and 3.6 of the IB Maths AI guide: equations of perpendicular bisectors, Voronoi edges and vertices, finding the closest site, nearest neighbour interpolation, cell areas, adding a site and the toxic waste dump problem. This content is common to SL and HL.
+
+**Where is the solution to a toxic waste dump problem in IB Maths AI?**
+In examinations the solution point is always at a vertex where three edges meet, because that point is equally far from three sites. Compare the vertices and choose the one furthest from its nearest site.
+
+**What is one limitation of nearest neighbour interpolation?**
+Every point in a cell is given the value at its site, so the estimate ignores the values at other nearby sites and any gradual change across the region.
 
 ## Official syllabus
 

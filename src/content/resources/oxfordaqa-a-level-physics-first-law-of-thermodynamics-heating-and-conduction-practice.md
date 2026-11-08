@@ -159,6 +159,23 @@ Read the [study guide](/resources/oxfordaqa-a-level-physics-first-law-of-thermod
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - Next, [book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these OxfordAQA A-level Physics thermal physics questions cover?**
+They cover sections 3.11.1 and 3.11.2 of OxfordAQA International AS and A-level Physics (9630): internal energy, the first law of thermodynamics, specific heat capacity, specific latent heat, continuous flow, conduction and U-values.
+
+**What sign should W have when a gas expands?**
+In ΔU = Q + W, work done by the gas on its surroundings is negative and work done on the gas is positive. Using the wrong sign for an expanding gas is a common error.
+
+**How do I handle a question with a temperature change and a change of state?**
+Use Q = mcΔθ for each stage where the temperature changes and Q = ml for each stage at constant temperature, then add them. Using the wrong formula for a stage loses marks.
+
+**What unit conversions are needed in heating and conduction questions?**
+Convert masses from grams to kilograms and thicknesses from millimetres or centimetres to metres. For a rod, use the radius, not the diameter, to find the area.
+
+**How do I combine U-values for a wall and a window?**
+Work out U × A for each surface, add the products, then multiply by the temperature difference. Adding the U-values themselves gives the wrong answer.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Physics (9630)*, Version 4.4, for International AS and A-level exams from May/June 2020, published by OxfordAQA. Sections 3.11.1 and 3.11.2.

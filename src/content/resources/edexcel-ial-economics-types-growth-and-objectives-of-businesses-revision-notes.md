@@ -80,8 +80,8 @@ Must-know distinction: a not-for-profit body may earn a surplus. The question is
 | Merged share | (sales A + sales B) / market × 100 | (30 + 20) / 200 = 25% |
 | Percentage growth | change / original × 100 | (3.0 − 2.5) / 2.5 = 20% |
 | Takeover premium | (offer − market price) / market price × 100 | (5.50 − 4.00) / 4.00 = 37.5% |
-| Cost saving | combined costs before − costs after | 9.0 + 6.0 − 12.0 = £3.0m |
-| Vertical saving | (supplier price − in-house cost) × volume | (8.00 − 6.50) × 100,000 = £150,000 |
+| Cost saving | combined costs before − costs after | 9.0 + 6.0 − 12.0 = $3.0m |
+| Vertical saving | (supplier price − in-house cost) × volume | (8.00 − 6.50) × 100,000 = $150,000 |
 
 Always write the unit and say what the base is. In a percentage change question the base is the starting figure; in a share question it is the whole market.
 
@@ -128,7 +128,7 @@ Always write the unit and say what the base is. In a percentage change question 
 
 At maximum revenue, price elasticity of demand equals 1 for a straight-line demand curve.
 
-*Worked reminder.* A printer faces P = 66 − 3Q, with Q in thousands and money in £000. Total cost is TC = 20 + 12Q + 1.5Q², so MR = 66 − 6Q and MC = 12 + 3Q.
+*Worked reminder.* A printer faces P = 66 − 3Q, with Q in thousands and money in $000. Total cost is TC = 20 + 12Q + 1.5Q², so MR = 66 − 6Q and MC = 12 + 3Q.
 
 | Q | P | TR | TC | Profit | MR | MC |
 |---|---|---|---|---|---|---|
@@ -137,13 +137,13 @@ At maximum revenue, price elasticity of demand equals 1 for a straight-line dema
 | 7 | 45 | 315 | 177.5 | 137.5 | 24 | 33 |
 | 11 | 33 | 363 | 333.5 | 29.5 | 0 | 45 |
 
-- Profit maximum: 66 − 6Q = 12 + 3Q, so **Q = 6, P = 48, profit £142k**.
-- Revenue maximum: MR = 0, so **Q = 11, P = 33, TR £363k**, profit £29.5k.
+- Profit maximum: 66 − 6Q = 12 + 3Q, so **Q = 6, P = 48, profit $142k**.
+- Revenue maximum: MR = 0, so **Q = 11, P = 33, TR $363k**, profit $29.5k.
 - Sales volume maximum with no loss: 4.5Q² − 54Q + 20 = 0 gives **Q ≈ 11.6, P ≈ 31.1**, profit zero.
 
 Pattern: output rises and price falls as you move from profit to revenue to sales volume.
 
-**Satisficing:** managers aim for acceptable profit, sales and staff satisfaction, not the maximum. With a profit target of £100k or more, output from about 3 to 9 thousand units qualifies (profit is £101.5k at 3 and £101.5k at 9).
+**Satisficing:** managers aim for acceptable profit, sales and staff satisfaction, not the maximum. With a profit target of $100k or more, output from about 3 to 9 thousand units qualifies (profit is $101.5k at 3 and $101.5k at 9).
 
 **Principal-agent problem:** owners (principals) and managers (agents) have different aims, and managers know more (asymmetric information). Managers may chase revenue, growth, pay or status.
 
@@ -165,13 +165,13 @@ A group that makes tools, toys and tiles struggles to manage three unrelated bus
 
 1. A charity-run shop reinvests its surplus. Is it for-profit or not-for-profit?
 2. Name the type of integration when a brewer buys a chain of pubs.
-3. Two firms sell £15m and £10m in a market worth £200m. What is the merged market share?
-4. Revenue rises from £2.5m to £3.0m. Calculate the percentage growth.
-5. A bidder offers £5.50 for shares trading at £4.00. Calculate the premium.
+3. Two firms sell $15m and $10m in a market worth $200m. What is the merged market share?
+4. Revenue rises from $2.5m to $3.0m. Calculate the percentage growth.
+5. A bidder offers $5.50 for shares trading at $4.00. Calculate the premium.
 6. Give two constraints on the growth of a small firm.
 7. Demand is P = 84 − 6Q. At what output is revenue maximised, and what is the price?
 8. Using the same demand, find profit-maximising output if MC is constant at 12.
-9. A firm's revenue is £480k and its total cost is £350k. Calculate profit.
+9. A firm's revenue is $480k and its total cost is $350k. Calculate profit.
 10. Explain in one sentence why a manager paid on sales may prefer a different output from the owners.
 
 ### Answers
@@ -182,9 +182,9 @@ A group that makes tools, toys and tiles struggles to manage three unrelated bus
 4. (3.0 − 2.5) / 2.5 = 20%.
 5. (5.50 − 4.00) / 4.00 = 37.5%.
 6. Any two: small market, difficulty raising finance, owner objectives, regulation or bureaucracy.
-7. MR = 84 − 12Q = 0, so Q = 7 and P = 84 − 42 = 42. Revenue is £294.
+7. MR = 84 − 12Q = 0, so Q = 7 and P = 84 − 42 = 42. Revenue is $294.
 8. MR = 84 − 12Q = 12, so Q = 6 (price 48).
-9. 480 − 350 = £130k.
+9. 480 − 350 = $130k.
 10. Pay linked to sales rewards extra revenue even if profit falls, so the manager pushes output beyond the owners' preferred level.
 
 <figure class="topic-figure">
@@ -205,9 +205,26 @@ A group that makes tools, toys and tiles struggles to manage three unrelated bus
 - Treating profit maximisation as the only objective and ignoring satisficing and the principal-agent problem.
 - Stating MR = MC for every objective.
 - Giving a one-sided answer on mergers, with no judgement on which effect is larger.
-- Mixing up units or leaving out the unit (£, £000, thousands) in calculations.
+- Mixing up units or leaving out the unit ($, $000, thousands) in calculations.
 - Using real firms as examples without applying economic concepts to them.
 - Writing "not-for-profit" as "makes no money".
+
+## Frequently asked questions
+
+**Can a not-for-profit organisation make a surplus?**
+Yes. A not-for-profit body such as a charity can earn a surplus; the difference from a for-profit firm is that the surplus is reinvested in its purpose rather than distributed to owners. Writing that not-for-profit means "makes no money" is a common error.
+
+**What is the difference between forward and backward vertical integration?**
+Forward vertical integration is a move towards the customer, such as a brewer buying a chain of pubs. Backward vertical integration is a move towards the supplier, such as a manufacturer buying the firm that supplies its inputs.
+
+**What are the main constraints on business growth?**
+The Edexcel IAL Economics specification (section 3.3.1) names the size of the market, access to finance, owner objectives, and government regulation and bureaucracy. Any of these can keep a firm small even when it is profitable.
+
+**What is satisficing?**
+Satisficing is a behavioural theory in which managers aim for acceptable levels of profit, sales and staff satisfaction rather than the maximum. Any output that meets the owners' minimum target may be chosen.
+
+**At what output is revenue maximised?**
+Revenue is maximised where marginal revenue equals zero, which for a straight-line demand curve is where price elasticity of demand equals 1. Profit is maximised at a lower output, where MR equals MC.
 
 ## Official syllabus
 

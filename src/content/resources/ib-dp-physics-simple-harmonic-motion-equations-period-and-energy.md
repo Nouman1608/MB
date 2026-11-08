@@ -235,6 +235,20 @@ Check: ½ × 0.35 × 0.352² = 0.0217 J, which matches.
 - Forgetting that the energy graphs against time have half the period of the motion.
 - Taking only the positive root for v when the object is travelling in the negative direction.
 
+## Frequently asked questions
+
+**Which parts of IB DP Physics C.1 are HL only?**
+The phase angle, the sinusoidal equations for displacement and velocity, v = ±ω√(x₀² − x²) and the quantitative energy equations are additional higher level. The rest of C.1 is for SL and HL.
+
+**What is isochronous motion?**
+In SHM the period does not depend on the amplitude. A larger swing has a longer path but correspondingly larger speeds, so the time per cycle stays the same.
+
+**Can the equations for uniform acceleration be used in SHM?**
+No. In SHM the acceleration changes with displacement, so it is not constant and the uniform acceleration equations do not apply.
+
+**Is a pendulum swinging through a large angle still in SHM?**
+No. Its motion is still periodic, but the restoring force is proportional to displacement only for small angles, so a large swing is not simple harmonic.
+
 ## Official syllabus
 
 Source: *Physics guide*, first assessment 2025, International Baccalaureate Organization (Diploma Programme), sub-topic C.1 Simple harmonic motion.

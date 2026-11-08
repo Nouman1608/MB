@@ -13,11 +13,20 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "european-option-modern-europe-9489"
-description: "Original exam-style practice questions, built onto the real Paper 1 (one two-part sources question) and Paper 2 (two two-part outline-study questions) structure, covering France 1774-1814, German unification and Russia from autocracy to revolution."
+  - qualification: "a-level"
+    topic: "european-option-modern-europe-9489"
+    subtopic: "france-1774-1814-9489"
+  - qualification: "a-level"
+    topic: "european-option-modern-europe-9489"
+    subtopic: "liberalism-nationalism-germany-9489"
+  - qualification: "a-level"
+    topic: "european-option-modern-europe-9489"
+    subtopic: "russia-autocracy-revolution-9489"
+description: "Original Cambridge 9489 History practice in Paper 1 sources and Paper 2 outline formats on France 1774-1814, German unification and Russia 1881-1924."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -128,6 +137,14 @@ question they attempt.
 - On source questions, repeating what a source says without weighing its provenance (who wrote it, when, and why).
 - Treating Napoleon, or Bismarck's diplomacy and Prussian military strength, as simple either/or questions rather than explaining how the two sides of the argument interact.
 - Assuming all three topics could appear on either paper in the same series — check the rotation table, since exactly one topic is fixed for Paper 1 and the other two for Paper 2.
+
+## Frequently asked questions
+
+**How are the AS papers for 9489 structured?**
+Paper 1, Historical Sources (1 hour 15 minutes, 40 marks), is one two-part question on four sources, worth 15 and 25 marks. Paper 2, Outline Study (1 hour 45 minutes, 60 marks), is two two-part questions, each worth 10 + 20 marks.
+
+**What is the most common Paper 2 weakness?**
+Narrating events instead of explaining causes in part (a) and reaching a weighed judgement in part (b).
 
 ## Official syllabus
 

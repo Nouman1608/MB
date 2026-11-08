@@ -365,6 +365,23 @@ HA left = 3.50 × 10⁻³ mol;  A⁻ formed = 1.50 × 10⁻³ mol
 - Choosing an indicator whose range only overlaps the steep section.
 - Not updating moles of HA and A⁻ after adding acid or base to a buffer.
 
+## Frequently asked questions
+
+**What is a Brønsted–Lowry acid?**
+A Brønsted–Lowry acid is a proton (H⁺) donor and a base is a proton acceptor. In NH₃ + H₂O ⇌ NH₄⁺ + OH⁻, water is the acid going forwards and NH₄⁺ is the acid in the reverse reaction.
+
+**Why is the pH at half-neutralisation equal to pKa?**
+At half the equivalence volume, half the weak acid HA has been converted to A⁻, so [HA] = [A⁻]. These cancel in the Ka expression, leaving Ka = [H⁺], so pH = pKa; this is how Ka is found in Required practical 9.
+
+**Which indicator should you use for a weak acid and strong base titration?**
+Use phenolphthalein (pH 8.3–10.0), because the steep section of the pH curve lies in the alkaline range. An indicator is suitable only when its whole colour-change range lies within the steep section.
+
+**How do you calculate the pH of an acidic buffer?**
+Use [H⁺] = Ka × [HA] / [A⁻], taking [HA] as the weak acid and [A⁻] as its salt; the volume cancels, so moles can be used. Do not use √(Ka[HA]), because in a buffer [H⁺] does not equal [A⁻].
+
+**Is acids and bases tested at AS level in AQA Chemistry?**
+No. Section 3.1.12 of the AQA 7404/7405 specification is A-level only. It is placed on A-level Paper 1, and Paper 3 can test any content.
+
 ## Official syllabus
 
 AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level

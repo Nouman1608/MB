@@ -202,6 +202,20 @@ Ask each time: how big is the change? Is there a time lag? Is there spare capaci
 - Calling the deficit the national debt.
 - Writing "it depends" without saying on what.
 
+## Frequently asked questions
+
+**What is the difference between the budget deficit and the national debt?**
+The budget deficit is the gap in one year when government spending is greater than revenue. The national debt is the total built up from past borrowing, so calling the deficit the national debt is an error.
+
+**What is the difference between expansionary and contractionary fiscal policy?**
+Expansionary fiscal policy raises government spending or cuts taxes to increase spending in the economy. Contractionary fiscal policy cuts spending or raises taxes to reduce it.
+
+**Can the same fiscal measure help every macroeconomic aim?**
+No. Expansion that cuts unemployment may raise prices and imports, while contraction that helps stable prices may increase unemployment, so aims can conflict.
+
+**How does fiscal policy redistribute income?**
+Progressive taxes take a larger share of income from high earners, and spending on welfare, health and education helps low-income households, which narrows the gap between rich and poor.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281, syllabus for examination in 2026 (version 2), published by Cambridge University Press and Assessment (Cambridge International Education), section 4.3 Fiscal policy, statements 4.3.7 to 4.3.9.

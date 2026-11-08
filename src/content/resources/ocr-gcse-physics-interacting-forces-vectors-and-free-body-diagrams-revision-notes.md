@@ -255,6 +255,23 @@ A 130 N force is drawn at an angle whose triangle has sides in the ratio 5 : 12 
 - Writing "the car keeps moving because the force continues" rather than using the first law.
 - Skipping the stage in terminal velocity where drag rises as speed rises.
 
+## Frequently asked questions
+
+**What is the difference between contact and non-contact forces?**
+Contact forces need the objects to touch, such as the normal contact force and friction. Non-contact forces act at a distance, such as gravity, electrostatics and magnetism.
+
+**Does an object moving at constant velocity need a resultant force?**
+No. By Newton's first law, an object with zero resultant force stays at rest or keeps the same speed and direction. A force is only needed to change the velocity.
+
+**What is the difference between equilibrium and being stationary?**
+Equilibrium means the resultant force is zero, while stationary means the velocity is zero. An object in equilibrium can be at rest or moving at constant velocity.
+
+**Which interacting forces content is Higher tier only in OCR GCSE Physics A?**
+In OCR GCSE (9-1) Physics A (J249), terminal velocity, resolving a force into components and resultants of perpendicular forces are marked Higher tier only in these notes.
+
+**What are the properties of a Newton's third law pair?**
+The two forces are the same size, act in opposite directions, are the same type of force and act on different objects. Because they act on different objects, they never cancel.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0, July 2026, for first assessment in 2018, published by OCR: statements P2.2a to P2.2h and P2.2p.

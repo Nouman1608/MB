@@ -11,9 +11,9 @@ syllabusCodes: ["9618"]
 order: 1
 description: "9618 Computer Science past papers guide: grade thresholds and examiner report notes for June 2024 to June 2025, with links to Cambridge's official papers."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -198,6 +198,23 @@ Official documents: [past papers, mark schemes and examiner report](https://www.
 5. **Fix each topic.** Work through the [9618 self-check question bank](/practice/9618/) and the notes on the [Computer Science subject hub](/boards/cambridge/a-level/computer-science/), for example [databases practice](/resources/a-level-computer-science-databases-practice/) or [processor fundamentals revision notes](/resources/a-level-computer-science-processor-fundamentals-revision-notes/). Learn what each [command word](/command-words/) asks for.
 6. **Re-test on a different series.** Sit another paper a week or two later and compare. Use the [exam calendar](/exam-calendar/) to plan your papers up to the exam, and see [grade thresholds](/grade-thresholds/) for June 2026 thresholds for our flagship syllabuses.
 7. **Get help if a topic will not stick.** Book a [free trial lesson](/trial/).
+
+## Frequently asked questions
+
+**How many papers are there in Cambridge A Level Computer Science 9618?**
+There are four papers. Papers 1 and 2 make up the AS Level, and Papers 3 (Advanced Theory) and 4 (Practical) complete the full A Level.
+
+**What do 9618 paper numbers such as 11, 12 and 13 mean?**
+The first digit is the paper and the second digit is the variant, so Papers 11, 12 and 13 are three versions of Paper 1. Grade thresholds are given for each set of variants.
+
+**Where can I download 9618 past papers and mark schemes?**
+Cambridge publishes recent papers, mark schemes, examiner reports and grade thresholds on the 9618 past papers page of its website, and older series are available to schools through the School Support Hub.
+
+**Can I use grade thresholds to predict future 9618 grade boundaries?**
+No. Thresholds change every series, so past thresholds should not be used to predict future ones.
+
+**When was Cambridge 9618 Computer Science first examined?**
+9618 was first examined in 2021. Papers from 2019 and 2020 belong to the syllabus it replaced and were set on different content.
 
 ## About these notes
 

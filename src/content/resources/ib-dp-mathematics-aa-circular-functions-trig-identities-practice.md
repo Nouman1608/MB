@@ -34,11 +34,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-3-11"
 description: "12 original IB DP Maths AA trig questions on circular functions, identities and equations (3.5-3.11), with mark-by-mark worked answers."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -196,6 +196,20 @@ Learn the methods first in the [circular functions study guide](/resources/ib-dp
 - Plan your final weeks with the [AA exam preparation guide](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Should IB Maths AA trig answers be in radians or degrees?**
+Use radians unless the question uses degrees, since radian measure is assumed on IB DP Mathematics: Analysis and Approaches papers unless otherwise indicated.
+
+**Why do decimal answers lose marks on calculator-free trig questions?**
+Calculator-free questions on Paper 1 expect exact values, such as surds or multiples of π. A decimal approximation does not give the exact value asked for.
+
+**How do you get the sign right when finding one trig ratio from another?**
+Use cos²θ + sin²θ = 1 to find the square of the missing ratio, then choose the sign from the quadrant given in the question. If no quadrant is given, keep both signs.
+
+**Why should you not divide by sin x or cos x when solving trig equations?**
+Dividing by sin x or cos x loses the solutions where that ratio equals zero. Factorise instead, then solve each factor in the interval.
 
 ## Official syllabus
 

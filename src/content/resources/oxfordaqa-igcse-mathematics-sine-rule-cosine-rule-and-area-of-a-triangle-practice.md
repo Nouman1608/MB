@@ -159,6 +159,20 @@ Second triangle: C = 180° − 30° − 121.0° = 29.0°, c = 7 × sin 29.0° / 
 * Take the [free 10-minute diagnostics](/diagnostics/) to find your next weak spot.
 * [Book a free trial class](/trial/) if you would like a teacher to go through these questions with you.
 
+## Frequently asked questions
+
+**How do you enter the cosine rule on a calculator correctly?**
+Work out the whole product 2bc cos A before subtracting it from b² + c². Typing it as (b² + c² − 2bc) × cos A is a common error, and remember to take the square root at the end.
+
+**What should you do if a sine rule question says the angle is obtuse?**
+Inverse sine gives only the acute angle, so subtract it from 180° to get the obtuse one. Ignoring the word "obtuse" and quoting the calculator value loses marks.
+
+**Why should you not round a shared length in a multi-step triangle question?**
+Rounding a length such as AC early makes the later answers drift. Keep the full calculator value until the final line, as the OxfordAQA International GCSE Mathematics (9260) specification expects no rounding mid-calculation.
+
+**What units should a triangle area have?**
+Square units, such as cm². Giving an area in cm, or leaving out units, is a common lost mark.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), specification Version 5.1 (for exams May/June 2018 onwards), published by OxfordAQA. Statement G20, section 3.3.2 Mensuration and calculation.

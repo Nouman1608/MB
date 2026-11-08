@@ -152,6 +152,23 @@ Quick links: [course hub](/boards/aqa/a-level/mathematics/) | [checklist](/check
 - Multiplying an inequality by an expression of unknown sign.
 - Presenting a few cases as a proof, or a counter-example with no working.
 
+## Frequently asked questions
+
+**What does AQA A-level Maths 7357 overarching theme OT1 cover?**
+OT1 covers precise mathematical language, set notation applied to inequalities and probability, functions with their domain and range, and critiquing mathematical arguments.
+
+**How do you decide between ⇒, ⇐ and ⇔?**
+Test each direction separately. If only the left side forces the right, use ⇒; if both directions hold, use ⇔. One counter-example is enough to reject a direction.
+
+**How do you test whether two events are independent?**
+Check whether P(A ∩ B) = P(A) × P(B). If the two values differ, the events are not independent; state the comparison and a conclusion.
+
+**Why is x ↦ ±√x not a function?**
+A function must give exactly one output for each input in its domain, but this rule maps an input such as 4 to both 2 and −2.
+
+**How do you disprove a claim such as "6n + 1 is always prime"?**
+Find one counter-example and show why it fails, for example n = 4 gives 25 = 5 × 5. Checking a few cases that work never proves a general claim.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and-revision-notes/) and the [study guide](/resources/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and/).

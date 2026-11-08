@@ -28,11 +28,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-4-10"
 description: "Revision notes for IB DP Maths AA SL and HL statistics: sampling, outliers, box plots, mean and standard deviation, r and both regression lines."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 These are condensed revision notes. For full explanations and longer worked examples, read the [statistics study guide](/resources/ib-dp-mathematics-aa-statistics-correlation-regression/) first.
@@ -229,6 +229,19 @@ Worked reminder: y = 4.2x + 11 and x̄ = 5. Then ȳ = 4.2(5) + 11 = 32, because 
   <figcaption>The modal class is the tallest bar; the grouped mean uses mid-interval values: Σfx ÷ Σf.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What happens to the mean and standard deviation if you add a constant to every value?**
+Adding c to every value adds c to the mean, median and quartiles, but leaves the standard deviation, IQR, range and variance unchanged. Multiplying by k multiplies the standard deviation by k and the variance by k².
+
+**What is the difference between quota and stratified sampling?**
+In stratified sampling, each group is sampled at random in proportion to its size. In quota sampling, a fixed number is filled from each group but not at random, so the interviewer's choices can introduce bias.
+
+**Does the regression line pass through the mean point?**
+Yes. The regression line passes through (x̄, ȳ), so if you know the line and x̄ you can find ȳ.
+
+**Do you calculate standard deviation by hand in IB Maths AA?**
+No. The IB DP Mathematics: Analysis and Approaches guide expects standard deviation from technology only; use σx on the GDC, treating the data as the population unless told otherwise.
 
 ## Official syllabus
 

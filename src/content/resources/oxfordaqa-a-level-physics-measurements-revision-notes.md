@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "measurements-and-their-errors-oxfordaqa-alevel"
 description: "Condensed recall notes on SI units, uncertainty, accuracy and precision, error types and graphical analysis for International A Level Physics."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -177,3 +177,19 @@ Order-of-magnitude estimates are examinable: state assumptions, use round number
   <figcaption>Above 3.16 x 10^n the order of magnitude is 10^(n+1).</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Which SI base units do you need for OxfordAQA A-level Physics (9630)?**
+The base units used are the kilogram, metre, second, ampere, kelvin and mole. Derived units such as the newton (kg m s⁻²) and the joule (kg m² s⁻²) are built from them.
+
+**What is the uncertainty in a single reading from a scale?**
+The reading uncertainty is half the smallest scale division. If a measurement needs two readings, such as both ends of a length on a ruler, the uncertainty is doubled.
+
+**How does a zero error show up on a graph?**
+A zero error is an additive systematic error, so it gives the correct gradient but an unexpected intercept. A calibration error is proportional, so it changes the gradient and leaves the line through the origin.
+
+**Is dimensional analysis required in the OxfordAQA 9630 specification?**
+No. Dimensional analysis is not required by this specification. Checking that both sides of an equation have the same base units is useful background, but it cannot show that a dimensionless constant is right.
+
+**What do overlapping error bars mean?**
+If the error bars of two data sets overlap, the difference between them may not be significant. This comparison is a common evaluation question.

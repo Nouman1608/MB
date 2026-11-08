@@ -7,11 +7,11 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Chemistry"]
 order: 1
-description: "Condensed recall notes on the assessment structure -- papers, weightings, the structure-and-reactivity framework and the internal assessment -- for IB Diploma Programme Chemistry."
+description: "Recall notes on how IB Diploma Programme Chemistry is assessed: Paper 1 and Paper 2 weightings, the data booklet, the internal assessment and SL vs HL."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-08-26
 featured: false
 ---
@@ -95,6 +95,20 @@ The 80% external / 20% internal balance is deliberately weighted toward the two 
 6. Does the balance between Paper 1, Paper 2 and the IA change between SL and HL?
 
 **Answers:** 1. Structure and reactivity. 2. Paper 1: 36%, Paper 2: 44%. 3. Because both papers draw questions across the structure-and-reactivity framework rather than testing each topic in isolation, so understanding how topics connect is directly rewarded. 4. 3,000 words. 5. Listing limitations without connecting them concretely to their actual impact on the results obtained, or proposing only vague improvements. 6. No -- the percentage weightings are identical at both levels; only the depth and demand of the content examined changes.
+
+## Frequently asked questions
+
+**How is IB DP Chemistry assessed?**
+IB Diploma Programme Chemistry is assessed by Paper 1 (36%), with multiple-choice and data-based questions, Paper 2 (44%), with short-answer and extended-response questions, and an internal assessment (20%). External assessment makes up 80% at both SL and HL.
+
+**How long can the IB Chemistry internal assessment be?**
+The internal assessment is an individual scientific investigation with a report of up to 3,000 words. The collaborative sciences project builds skills but is not itself graded.
+
+**Do SL and HL Chemistry have different weightings?**
+No. The weightings for Paper 1, Paper 2 and the internal assessment are identical at SL and HL; the papers differ in length and demand.
+
+**Is the data booklet provided in every IB Chemistry exam?**
+Yes. A clean copy of the chemistry data booklet, with constants, formulae and data such as relative atomic masses, is provided to every candidate for every paper.
 
 ## Official syllabus
 

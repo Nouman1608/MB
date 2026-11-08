@@ -196,6 +196,20 @@ Links: [study guide](/resources/oxfordaqa-a-level-computer-science-representing-
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are these OxfordAQA 9645 representing data questions from past papers?**
+No. They are original practice questions with worked answers written for revision of section 3.5, Representing data. Use them alongside official past papers from your board or school.
+
+**What are common mistakes with two's complement?**
+A frequent error is flipping the bits of a negative number but not adding 1. Another is reading a mantissa that starts with 1 as positive, when in two's complement it is negative.
+
+**What are common mistakes when normalising a floating point number?**
+Students often move the point the wrong way for a negative exponent, or add the shift to the exponent instead of subtracting it. Check that the value is unchanged after normalising.
+
+**Can a parity bit correct errors?**
+No. A parity bit can only detect some errors; describing parity as able to correct errors loses marks. Majority voting is the method that can also correct errors.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards (OxfordAQA), section 3.5 Representing data.

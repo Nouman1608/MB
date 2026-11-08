@@ -14,9 +14,9 @@ syllabusTopics:
     topic: "data-and-its-collection-0479"
 description: "Condensed recall notes on data types, sampling methods and bias for Cambridge IGCSE Statistics 0479."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -127,5 +127,22 @@ Sources: incomplete sampling frame, non-response, self-selection, leading questi
 7. A population of 900 splits into groups of 400, 350 and 150. Find the stratified sample sizes for a total sample of 60.
 
 **Answers:** 1. Eye colour = qualitative; number of siblings = discrete quantitative; mass = continuous quantitative. 2. Fraction 50/500 = 1/10 → **30 girls and 20 boys**. 3. 9.65 ≤ t < 9.75. 4. Any two: incomplete sampling frame, non-response, self-selection, leading questions, interviewer effect. 5. Bias is a systematic error in the *method* — it shifts every result in the same direction, so collecting more data under the same flawed method simply produces more biased data. 6. To test the questionnaire on a small group first, exposing ambiguous or unclear wording before the full survey is run. 7. 27, 23 and 10 (sampling fraction 1/15, rounded so the parts total 60).
+
+## Frequently asked questions
+
+**Why is shoe size discrete data even with half sizes?**
+The deciding factor is whether the possible values form a finite, listable set, not whether they look like whole numbers. Shoe sizes, including half sizes, can only take specific values, so the data is discrete.
+
+**Is cluster sampling in the Cambridge IGCSE Statistics 0479 syllabus?**
+No. The 0479 syllabus names four sampling methods: simple random, systematic, stratified and quota. Cluster and opportunity sampling are common wider vocabulary, but treat them as background.
+
+**Which sampling method does not need a sampling frame?**
+Quota sampling. Of the four methods 0479 names, it is the only one that does not need a sampling frame, but it is not random and is open to interviewer bias.
+
+**Why does the upper class boundary use < rather than ≤?**
+Using ≤ for the lower bound and < for the upper bound means two adjacent classes never overlap at a shared boundary value. For example, 12.4 s to 1 decimal place lies in 12.35 ≤ t < 12.45.
+
+**What is the formula for a stratified sample size?**
+Stratified sample size = (group size ÷ population) × sample size. Round so the parts still add up to the required total.
 
 For the full worked explanation with additional detail, see the [Data and Its Collection study guide](/resources/igcse-cambridge-statistics-data-and-its-collection/); for exam-style questions with full mark schemes, see the [Data and Its Collection practice questions](/resources/statistics-data-collection-practice/).

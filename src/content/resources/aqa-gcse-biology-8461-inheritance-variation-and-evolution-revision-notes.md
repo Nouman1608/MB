@@ -27,11 +27,11 @@ syllabusTopics:
     subtopic: "classification-of-living-organisms-aqa-gcse-biology"
 description: "Condensed AQA GCSE Biology 8461 notes on meiosis, DNA, genetic crosses, evolution, breeding, GM, cloning and classification, with a self-test."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Condensed recall for the final weeks. For full explanations and worked examples, use the [Inheritance, variation and evolution study guide](/resources/aqa-gcse-biology-8461-inheritance-variation-and-evolution/).
@@ -335,6 +335,23 @@ These notes cover topic 6, **Inheritance, variation and evolution** (sections 4.
 - Defining a new species as "cannot breed" without "fertile offspring".
 - Saying antibiotics "make" bacteria mutate.
 - Listing only two of the three reasons Darwin's theory was slowly accepted.
+
+## Frequently asked questions
+
+**What is the difference between a gene and an allele?**
+A gene is a small section of DNA that codes for a particular sequence of amino acids to make a protein. An allele is a different version of a gene.
+
+**How do you carry out a genetic cross?**
+Write a key, write the parents' genotypes and their possible gametes, fill in a Punnett square, list the offspring genotypes and phenotypes, and give the answer in the form asked.
+
+**What are the steps of natural selection?**
+Variation exists from mutation, some individuals have a characteristic better suited to the environment, they are more likely to survive and breed, they pass on the alleles, and over many generations the allele becomes more common.
+
+**Is polydactyly caused by a dominant or recessive allele?**
+Polydactyly is caused by a dominant allele. Cystic fibrosis is caused by a recessive allele.
+
+**How do you read an evolutionary tree?**
+Trace back from two organisms to where their branches join, which is their most recent common ancestor. The more recent the join, the more closely related they are.
 
 ## Official syllabus
 

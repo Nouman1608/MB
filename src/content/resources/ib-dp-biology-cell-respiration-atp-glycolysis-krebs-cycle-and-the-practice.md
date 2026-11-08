@@ -155,6 +155,20 @@ Study first with the [study guide](/resources/ib-dp-biology-cell-respiration-atp
 - Try all [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between cell respiration and gas exchange?**
+Cell respiration is a chemical process in cells that releases energy from carbon compounds to make ATP. Gas exchange is the physical movement of oxygen and carbon dioxide across a surface by diffusion.
+
+**Which parts of IB DP Biology C1.2 Cell respiration are HL only?**
+Statements C1.2.7 to C1.2.17 are additional higher level content, covering redox reactions with NAD, glycolysis, anaerobic pathways, the link reaction, the Krebs cycle, the electron transport chain and respiratory substrates.
+
+**Why is a carbon dioxide absorbent used in a respirometer?**
+It absorbs the carbon dioxide released by respiration, so any change in gas volume, shown by the movement of the bead, is due only to oxygen uptake.
+
+**What does "net yield" of ATP in glycolysis mean?**
+Net yield means the ATP used at the start of glycolysis is subtracted from the ATP made; quoting the total made without subtracting the ATP used is a common way to lose the mark.
+
 ## Official syllabus
 
 IB Diploma Programme Biology guide, first assessment 2025, published by the International Baccalaureate Organization. Topic C1.2 (Cell respiration), statements C1.2.1 to C1.2.17; C1.2.7 to C1.2.17 are additional higher level.

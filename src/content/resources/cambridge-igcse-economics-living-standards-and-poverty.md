@@ -263,6 +263,20 @@ Those who keep jobs gain (8 - 6) x 800 = 1,600; the 200 who lose jobs lose 6 x 2
 - Defining progressive tax as "the rich pay more tax". A flat-rate tax also makes the rich pay more money; progressive means a higher *proportion*.
 - Listing policies without a chain of reasoning or a limitation.
 
+## Frequently asked questions
+
+**What do sections 5.1 and 5.2 of Cambridge IGCSE Economics 0455 cover?**
+They cover living standards (real GDP per head, the Human Development Index and differences in living standards and income distribution) and poverty (absolute and relative poverty, its causes and policies to reduce it).
+
+**What are the disadvantages of real GDP per head as a measure of living standards?**
+It is an average that hides inequality, leaves out unpaid work and the hidden economy, says nothing about health, education or leisure, ignores environmental damage, and depends on exchange rates when comparing countries.
+
+**Why do living standards differ between countries?**
+Differences come from natural resources and capital, education and health, institutions and stability, trade and geography, population growth, and debt and government policy.
+
+**Does a national minimum wage always reduce poverty?**
+Not always. Workers who keep their jobs earn more, but if the minimum is set well above the market wage some workers may lose their jobs. The effect depends on how responsive the demand for labour is.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International Education): sections 5.1 and 5.2.

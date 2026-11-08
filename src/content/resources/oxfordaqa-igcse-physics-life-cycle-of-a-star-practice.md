@@ -126,6 +126,20 @@ These questions follow the OxfordAQA International GCSE Physics (9203) specifica
 - Try all free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in life cycle of a star questions?**
+Mixing up the two routes, describing a black dwarf as a black hole, and claiming supernovae make every element. Learn the order of stages for each route separately.
+
+**Are these OxfordAQA International GCSE Physics past paper questions?**
+No. They are original practice questions written for revision on the life cycle of a star. Use them alongside the official past papers from the board.
+
+**Which section of the OxfordAQA International GCSE Physics (9203) specification do these questions cover?**
+They cover section 3.8.1 (life cycle of a star), statements a to i, of OxfordAQA International GCSE Physics (9203). The qualification is untiered.
+
+**Do you need to memorise star lifetimes and energy values?**
+No. Calculation questions supply data such as main sequence lifetimes, energy output per second and energy released per kilogram of hydrogen. Use the values given in the question.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), specification version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.8.1, Life cycle of a star.

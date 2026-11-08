@@ -254,6 +254,23 @@ If the asset is sold part way through the year and the question says to charge d
 - Treating the depreciation charge as a payment that reduces the bank balance.
 - Missing the months of depreciation owed in the year of sale when the question asks for them.
 
+## Frequently asked questions
+
+**How do you tell capital expenditure from revenue expenditure?**
+Ask whether the spending adds to what the business owns for the long term, or keeps the business running day to day. Buying a vehicle or paying carriage on a machine bought is capital expenditure; wages, fuel, insurance and servicing a vehicle are revenue expenditure.
+
+**Why do non-current assets depreciate?**
+Through wear and tear from use, obsolescence when newer, better equipment replaces them, and the passage of time. Depreciation spreads the cost over the useful life; it is not a market valuation.
+
+**Is depreciation a cash expense?**
+No. Cash leaves when the asset is bought, not when depreciation is charged. The charge reduces profit and the net book value of the asset, but not the bank balance.
+
+**How is depreciation recorded in OxfordAQA International GCSE Accounting 9215?**
+Debit the depreciation account and credit the provision for depreciation account with the year's charge, then transfer the depreciation to the income statement. The statement of financial position shows cost less the provision, giving net book value.
+
+**Are proceeds from selling a non-current asset sales income?**
+No. Sale proceeds of a non-current asset are capital income, recorded in the disposal account, not sales.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), specification version 1.2, first teaching 2024, first examined 2026, published by OxfordAQA. Section 3.3, Development of the accounting model.

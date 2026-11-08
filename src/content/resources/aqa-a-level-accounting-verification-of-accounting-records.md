@@ -353,6 +353,23 @@ control account disagree with its list of balances.
 
 For Paper 1 timing see [exam preparation](/resources/aqa-a-level-accounting-exam-preparation/); find weak spots with the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**Does an agreed trial balance prove the records are correct?**
+No. Agreeing totals suggest the double entry arithmetic is right, but six types of error keep debits equal to credits, so the records can still be wrong.
+
+**Which errors pass through a suspense account?**
+Only errors that caused the trial balance to disagree pass through suspense. Errors the trial balance does not reveal, such as commission or principle errors, are corrected directly between the ledger accounts concerned using the general journal.
+
+**Are control accounts part of the double entry in AQA 7127?**
+No. In AQA 7127 the sales and purchases ledger control accounts are memorandum records; the individual customer and supplier accounts carry the double entry. The control account balance is compared with the total of the list of individual balances.
+
+**What never appears in a sales ledger control account?**
+Cash sales, cash purchases and provisions for doubtful debts never appear, because none of them changes the amount owed by an individual credit customer.
+
+**What does an expense wrongly capitalised do to the financial statements?**
+It overstates profit and overstates non-current assets by the same amount. To redraft, correct profit first, then each affected line, then check that net assets equal corrected capital.
+
 ## Official syllabus
 
 AQA A-level Accounting (7127) specification, version 1.1, October 2026, A-level exams June 2019

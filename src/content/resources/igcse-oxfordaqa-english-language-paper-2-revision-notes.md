@@ -12,11 +12,17 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-source-based-reading-and-directed-writing-9270"
+  - qualification: "igcse"
+    topic: "paper-2-source-based-reading-and-directed-writing-9270"
+    subtopic: "section-a-reading-9270"
+  - qualification: "igcse"
+    topic: "paper-2-source-based-reading-and-directed-writing-9270"
+    subtopic: "section-b-writing-9270"
 description: "Condensed recall notes on modern-issue source reading and directed writing technique for OxfordAQA International GCSE English Language Paper 2 (9270)."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -145,6 +151,23 @@ data and implicit framing (emphasis, omission) that is just as
 analysable as continuous prose, even without lengthy text. 5. 20% AO1
 and 20% AO2 for Paper 2, compared with 30% AO1 and 30% AO2 for Paper 1 —
 together making an overall 50/50 AO1/AO2 split.
+
+## Frequently asked questions
+
+**Do I need to know about the topic of a Paper 2 source in OxfordAQA 9270?**
+No. You are not tested on prior knowledge of the topic, and a source about an unfamiliar issue provides everything you need to answer well.
+
+**What kinds of sources appear in OxfordAQA International GCSE English Language Paper 2?**
+Paper 2 uses current-affairs and issue-based writing, such as opinion pieces, reports and campaign material, and a source may be solely visual. This differs from Paper 1's literary non-fiction.
+
+**What are the reading skills R1 to R4?**
+R1 is reading and understanding for purpose, R2 is collating and synthesising detail, often across sources, R3 is developing an interpretation of the writer's ideas, and R4 is explaining and evaluating linguistic, grammatical, structural and presentational features.
+
+**What should I write before starting the Paper 2 directed writing?**
+Write one sentence naming the audience and one naming the purpose, then check every choice of vocabulary, tone, structure and form against them. Allow no more than about five minutes to plan.
+
+**How many marks is technical accuracy worth in Paper 2 Section B?**
+Technical accuracy (W4) is worth 10 of Section B's 40 marks, a quarter of the section, so it should not be neglected under time pressure.
 
 ## Related resources
 

@@ -135,6 +135,20 @@ These questions cover section 4 (topics 4.1 to 4.5) of Unit P2 in the Pearson Ed
 - Proofs that start from the answer, or skip the line showing why terms cancel.
 - Declaring a sequence increasing or decreasing from the first few terms only.
 
+## Frequently asked questions
+
+**When can you use the sum to infinity of a geometric series?**
+Only when the common ratio satisfies |r| < 1, in which case S∞ = a/(1 − r). Quoting S∞ without checking this condition loses marks.
+
+**Why do you need to reverse the inequality when solving with logarithms?**
+The logarithm of a number between 0 and 1 is negative, so dividing both sides by it reverses the inequality sign. Forgetting this gives the wrong least value of n.
+
+**What is a common error in binomial expansions with a negative term?**
+Not putting brackets around a term such as (−2x) before raising it to a power, which loses both the sign and the factor from the coefficient.
+
+**How should you give n in a sequences question asking for a whole number?**
+If the algebra gives a decimal, round to a whole number and check the terms either side. Leaving n as a decimal does not answer the question.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/edexcel-ial-mathematics-sequences-and-series-arithmetic-geometric-and-the/) for any question you missed.

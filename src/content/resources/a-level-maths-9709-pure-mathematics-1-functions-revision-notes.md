@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "functions-cambridge-alevel-maths"
 description: "Revision notes for Cambridge 9709 Pure Mathematics 1 section 1.2 Functions: range, composites, inverses, transformations and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -267,6 +267,23 @@ For a graph given only by its features (intercepts, turning points, asymptotes),
 - Sketching f and f⁻¹ without drawing the line y = x, or drawing curves that are not mirror images.
 - Moving y = f(x + a) by +a, or using scale factor a for y = f(ax).
 - Describing a transformation as "move" or "shift", or leaving out the vector, scale factor or direction.
+
+## Frequently asked questions
+
+**What is the difference between fg(x) and gf(x)?**
+fg(x) means apply g first and then f, so fg(x) = f(g(x)). The two composites are usually different.
+
+**What is the difference between f⁻¹(x) and 1/f(x)?**
+f⁻¹ is the inverse function that undoes f, while 1/f(x) is the reciprocal. For f(x) = 2x, f⁻¹(x) = x/2 but 1/f(x) = 1/(2x).
+
+**How do you find the range of a quadratic on a restricted domain?**
+Complete the square and check whether the vertex lies inside the domain. If it does not, the least or greatest value comes from the end of the domain instead.
+
+**Where do the graphs of f and f⁻¹ meet?**
+If f is increasing, the graphs can only meet on the line y = x, so you can solve f(x) = x. This shortcut can fail for a decreasing function.
+
+**How do you describe a transformation fully in Cambridge 9709?**
+Name the transformation and give its details: the column vector for a translation, the scale factor and direction for a stretch, or the mirror line for a reflection.
 
 ## Official syllabus
 

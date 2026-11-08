@@ -153,6 +153,20 @@ These questions cover sections B2.2 and B2.3 of the IB *Diploma Programme Biolog
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Which parts of IB DP Biology B2.2 and B2.3 are HL only?**
+Statements B2.2.4 to B2.2.9 and B2.3.7 to B2.3.10 are HL only, covering mitochondrion, chloroplast and nucleus adaptations, the protein secretion route, and named specialized cells such as pneumocytes, muscle fibres and gametes.
+
+**Why can eukaryotic mRNA be modified before translation but prokaryotic mRNA cannot?**
+In a eukaryote the nucleus separates transcription from translation, so the transcript can be modified before it leaves; a prokaryote has no nucleus, so ribosomes can bind the mRNA while it is still being made.
+
+**What is the difference between percentage points and percentage change?**
+A difference in percentage points subtracts one percentage from another (for example 62.5% − 15% = 47.5 percentage points), whereas percentage change divides the change by the original value; use the term that matches your calculation.
+
+**How do you calculate surface area to volume ratio for a cube-shaped cell?**
+For a cube of side s, surface area is 6s², volume is s³ and the ratio is 6/s, so doubling the side halves the ratio; give units such as µm⁻¹.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Diploma Programme Biology guide*, first assessment 2025, published February 2023, sections B2.2 and B2.3.

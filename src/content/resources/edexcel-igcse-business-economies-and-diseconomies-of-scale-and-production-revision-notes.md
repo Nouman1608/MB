@@ -248,6 +248,20 @@ For a judgement, decide which factor matters most to this business. A firm makin
 - Describing Kaizen as one big change.
 - Not applying a point to the business named in the stem.
 
+## Frequently asked questions
+
+**What is the difference between internal and external economies of scale?**
+Internal economies come from the business's own growth, such as spreading fixed costs over more units. External economies are falls in average total cost due to factors outside the firm, such as a skilled local labour pool or a specialist supplier nearby.
+
+**What causes diseconomies of scale?**
+Communication problems, harder co-ordination and control, weaker motivation and capacity pressure can all make average total cost rise as a business grows.
+
+**How do you calculate labour productivity?**
+Divide output by the number of workers, and state the time period and unit, such as 90 garments per worker per week.
+
+**What is Kaizen?**
+Kaizen means continuous improvement: everyone, including shop-floor workers, makes many small, regular suggestions to improve how work is done, cutting waste and improving quality.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 5: Business operations, sections 5.1 Economies and diseconomies of scale and 5.2 Production, all numbered points.

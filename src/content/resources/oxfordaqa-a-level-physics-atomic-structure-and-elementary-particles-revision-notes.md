@@ -251,6 +251,23 @@ Do the same for the other two observations in the table, and always mention that
 - Mixing MeV and joules in one calculation.
 - Writing that antimatter has negative mass or that the neutron and antineutron are identical.
 
+## Frequently asked questions
+
+**What is specific charge?**
+Specific charge is charge divided by mass, measured in C kg⁻¹. It carries a negative sign for electrons and negative ions.
+
+**How big are an atom and a nucleus?**
+Atomic radii are about 10⁻¹⁰ m and nuclear radii are about 10⁻¹⁵ m. Nearly all the mass of the atom is in the nucleus.
+
+**What happens in annihilation?**
+A particle and its antiparticle vanish together and photons carry off the energy. At least two photons are produced, in opposite directions, so that charge, energy and momentum are conserved.
+
+**Why do isotopes of one element have slightly different specific charges?**
+The specific charge of a nucleus is Z/A times that of a proton. Isotopes share Z but have different values of A, so their specific charges differ slightly.
+
+**Are a neutron and an antineutron the same particle?**
+No. Both are neutral, but they are a particle and its antiparticle, and treating them as identical is a common mistake.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), sections 3.3.1 and 3.3.2, Version 4.4 (for exams May/June 2020 onwards), published by OxfordAQA.

@@ -208,6 +208,23 @@ Where a few firms dominate and barriers are high, entry cannot compete the profi
 - Asserting that big firms always earn more profit, with no evaluation.
 - Using real-world statistics you cannot support.
 
+## Frequently asked questions
+
+**What features distinguish one market structure from another?**
+Market structures are distinguished by the number of firms competing, how different their products are, and how easily new firms can enter.
+
+**What objectives do firms have apart from profit?**
+The OxfordAQA 9640 specification names survival, growth and increasing market share. Objectives affect behaviour, for example a firm seeking market share may cut prices and promote heavily, though a detailed knowledge of each objective is not required.
+
+**What is the difference between normal and supernormal profit?**
+Normal profit is the minimum profit needed to keep a firm in the market. Supernormal profit is any profit above that level.
+
+**Why are profits likely to be lower in a competitive market?**
+With no barriers to entry, supernormal profit attracts new firms, supply increases and price falls until only normal profit remains. Where a few firms dominate and barriers are high, entry cannot compete the profit away.
+
+**Do I need to draw theory-of-the-firm diagrams for this OxfordAQA 9640 topic?**
+No. For sections 3.1.4.1 to 3.1.4.3, the specification says you do not need to draw the traditional theory-of-the-firm diagrams or know the formal model of perfect competition with its diagrams.
+
 ## Official syllabus
 
 OxfordAQA *International AS and A-level Economics* specification (9640), version 1.2, published by OxfordAQA International Examinations. First teaching September 2020; first International AS exams May/June 2021; first International A-level exams May/June 2022.

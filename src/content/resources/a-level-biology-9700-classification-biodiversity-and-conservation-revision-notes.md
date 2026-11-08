@@ -25,11 +25,11 @@ syllabusTopics:
     subtopic: "conservation-cambridge-alevel-biology"
 description: "Condensed Cambridge 9700 revision notes on classification, sampling, the Lincoln index, Simpson's index, correlation and conservation, with a self-test."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 These notes condense topic 18, Classification, biodiversity and conservation, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, sections 18.1 to 18.3. This is A Level content, examined on Paper 4; the statistics can also appear in Paper 5. For full explanations and longer worked examples, read the [study guide](/resources/a-level-biology-9700-classification-biodiversity-and-conservation/) first.
@@ -255,6 +255,23 @@ Control because they compete with, prey on, spread disease to or hybridise with 
 - Concluding "significant" without comparing with the critical value and stating the null hypothesis decision.
 - Describing zoos only as "keeping animals safe" without breeding, reintroduction, research or education.
 - Mixing up IUCN (assesses status, Red List) and CITES (controls trade).
+
+## Frequently asked questions
+
+**What are the three domains?**
+Archaea, Bacteria and Eukarya. Archaea and Bacteria are both prokaryotes, but differ in membrane lipids, rRNA base sequences and cell walls (only Bacteria have peptidoglycan).
+
+**What is the taxonomic hierarchy in order?**
+Kingdom, phylum, class, order, family, genus, species, from the largest group to the smallest.
+
+**How are viruses classified in Cambridge 9700?**
+Viruses are not placed in any domain. They are classified by their nucleic acid (DNA or RNA) and whether it is single- or double-stranded.
+
+**When should you use Spearman's rank rather than Pearson's correlation?**
+Use Spearman's for non-normal or ordinal data, and Pearson's for normally distributed, continuous data with a linear relationship.
+
+**What does a Simpson's index value near 1 mean?**
+A value of D near 1 means high diversity, with many species and individuals spread evenly; a value near 0 means one species dominates.
 
 ## Official syllabus
 

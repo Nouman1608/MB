@@ -185,6 +185,23 @@ Difficulties of maintaining it: rivals copy successful ideas; technology changes
 - Judging the options on profit alone and ignoring risk or fit with objectives.
 - Listing difficulties of keeping an advantage without ranking which is most serious in the case.
 
+## Frequently asked questions
+
+**Does cost leadership mean charging the lowest price?**
+No. Cost leadership means having the lowest costs; the business can charge the market price and keep a wider margin. Treating it as simply being cheap is a common error.
+
+**Why is market penetration usually the least risky Ansoff option?**
+Market penetration sells more of the same products in the same markets, so the business relies on what it already knows. Risk rises the further a business moves from its current products and customers.
+
+**Why is competitive advantage hard to maintain?**
+Rivals copy successful ideas, technology changes quickly, customer tastes shift and costs such as wages and materials rise, so an advantage can fade unless the business keeps renewing it.
+
+**What factors influence which markets a business competes in?**
+Factors include market size, growth and profitability, competition, resources and finance, core competencies, attitude to risk, corporate objectives, available information and the existing product portfolio.
+
+**Which section of the AQA Business specification covers choosing strategic direction?**
+Section 3.8, Choosing strategic direction (A-level only), covering 3.8.1 strategic direction and 3.8.2 strategic positioning, examined in AQA A-level Business 7132.
+
 ## Official syllabus
 
 AQA AS and A-level Business specification (7131 and 7132), section 3.8 Choosing strategic direction (A-level only), covering 3.8.1 and 3.8.2.

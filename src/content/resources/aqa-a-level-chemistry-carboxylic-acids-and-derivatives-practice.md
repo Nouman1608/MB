@@ -188,6 +188,23 @@ Yield = 2.52 ÷ 3.60 × 100 = **70.0%** [1]
 - Vague practical answers: no "minimum" volume or no sharp melting point.
 - Omitting the step that removes acid (NaHCO₃ wash) when purifying an ester.
 
+## Frequently asked questions
+
+**Is carboxylic acids and derivatives on the AQA AS Chemistry papers?**
+No. Section 3.3.9 of the AQA 7404/7405 specification, including Required practical 10, is A-level only. It is examined on A-level Paper 2, and Paper 3 can test any content and practical skill.
+
+**What is the correct name for the acyl chloride mechanism?**
+AQA calls it nucleophilic addition–elimination. Calling it "nucleophilic substitution" loses the mark, as do curly arrows that start at atoms or charges and a missing charge on the intermediate.
+
+**What ratio should be used in soap and biodiesel calculations?**
+One triglyceride molecule gives three soap or three biodiesel molecules, so use a 1 : 3 ratio. A 1 : 1 ratio is a method error and loses the final mark even if the arithmetic is right.
+
+**What wording do Required practical 10 answers need?**
+Be specific: say "the minimum volume of hot solvent" for recrystallisation and "a sharp melting point that matches the data value" for purity. When purifying an ester, include the sodium hydrogencarbonate wash that removes acid.
+
+**Why is ethanoic anhydride used to make aspirin industrially?**
+The reasons are its safer by-product and easier control of the reaction, not atom economy. Arguing that the anhydride is chosen for atom economy is a known way to lose marks.
+
 ## Next steps
 
 - [Revision notes for this topic](/resources/aqa-a-level-chemistry-carboxylic-acids-and-derivatives-revision-notes/)

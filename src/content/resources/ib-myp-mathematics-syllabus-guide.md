@@ -9,13 +9,13 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Mathematics"]
 syllabusSeries: "From 2020, first assessment 2022"
 order: 2
-description: "The four branches of the IB Middle Years Programme Mathematics framework -- numerical and abstract reasoning, thinking with models, spatial reasoning, reasoning with data -- and its four assessment criteria, for first assessment 2022."
+description: "The IB MYP Mathematics framework: its four branches, key and related concepts, the four assessment criteria and the eAssessment structure, first assessed 2022."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This guide covers the full framework of **IB Middle Years Programme
@@ -151,6 +151,20 @@ of achievement in DP mathematics courses -- so the habits built here,
 particularly the discipline of checking whether a calculated answer is
 actually realistic, carry forward directly into both DP Mathematics
 courses' problem-solving and reasoning assessment objectives.
+
+## Frequently asked questions
+
+**How many teaching hours does MYP Mathematics require?**
+The MYP requires at least 50 hours of teaching time for mathematics in each year of the programme, with a recommended 70 hours of guided learning per year in MYP years 4 and 5 for students taking MYP eAssessment.
+
+**What is the difference between standard and extended mathematics in the MYP?**
+Standard mathematics provides a sound knowledge of basic mathematical principles, while extended mathematics adds further topics and skills for greater breadth and depth. Both are judged against the same four criteria.
+
+**What is in the MYP Mathematics eAssessment?**
+The eAssessment is a 2-hour on-screen examination covering material from any of the four branches, made up of three tasks: knowing and understanding, investigating patterns, and applying mathematics in real-life contexts. Criterion C, Communicating, is assessed across all three tasks.
+
+**Does the MYP Mathematics framework set fixed content?**
+No. Unlike a Diploma Programme syllabus, the MYP framework is deliberately less prescriptive, so schools choose engaging content that meets local and national requirements within the four branches and four criteria.
 
 ## Official syllabus
 

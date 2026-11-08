@@ -370,6 +370,23 @@ Pubic and underarm hair grows in many people of all sexes; adrenal androgens con
 
 Test yourself with the [revision notes](/resources/edexcel-igcse-biology-4bi1-reproduction-revision-notes/), then the [practice questions](/resources/edexcel-igcse-biology-4bi1-reproduction-practice/).
 
+## Frequently asked questions
+
+**What does the ovule become after fertilisation?**
+The ovule becomes the seed and the ovary becomes the fruit. Saying the ovary becomes the seed is a common error.
+
+**How are insect-pollinated flowers adapted?**
+They must attract an insect and make it touch the anthers and stigma, for example with brightly coloured petals and nectar, so pollen is carried from flower to flower.
+
+**How do you take a plant cutting?**
+Cut a short shoot with a few leaves, remove the lower leaves to reduce water loss, dip the cut end in rooting powder and plant it in damp compost, covered to keep it moist.
+
+**What do FSH and LH do in the menstrual cycle?**
+FSH from the pituitary gland stimulates an egg to mature in the ovary. LH surges and triggers ovulation. This is Paper 2 only content.
+
+**What is the role of amniotic fluid?**
+Amniotic fluid acts as a shock absorber that protects and supports the developing embryo.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1) specification, Issue 3, first examination June 2019, Pearson Education Limited -- Topic 3, Reproduction and inheritance, sub-topic (a) Reproduction.

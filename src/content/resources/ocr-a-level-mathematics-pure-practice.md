@@ -12,19 +12,21 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-ocr-alevel-maths"
-description: "Original exam-style practice questions with full worked answers on logarithms, sequences, differentiation, integration and proof."
+description: "OCR A Level Maths H240 pure practice with worked answers: logs, series, calculus, proof, functions, radians, vectors, binomial expansion and trig equations."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNote: "2026-11-08 recheck: added intro naming OCR H240, three questions (binomial expansion, trigonometric equation using cos² = 1 − sin², tangent to a curve), an extra exam-trap bullet and FAQ; rewrote description. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNeeded: true
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
 > and they do **not** replicate the exam's exact structure, question count or
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
+
+These mixed questions sample the pure mathematics content of OCR A Level Mathematics A (H240), which is assessed on Paper 1 (Pure Mathematics) and alongside statistics and mechanics on Papers 2 and 3. They cover exponentials and logarithms, arithmetic series, differentiation and integration, proof, functions, radian measure, vectors, the binomial expansion and trigonometric equations.
 
 Related: [Pure Mathematics revision notes](/resources/ocr-a-level-mathematics-pure-revision-notes/)
 
@@ -71,6 +73,12 @@ Related: [Pure Mathematics revision notes](/resources/ocr-a-level-mathematics-pu
 **(a)** Find |**a**|. **[2]**
 **(b)** State, with a reason, whether **a** and **b** are parallel. **[2]**
 
+**11.** Find the binomial expansion of (2 + x)⁴, simplifying each term. **[3]**
+
+**12.** Solve 2cos²θ = 1 + sin θ for 0° ≤ θ < 360°. **[5]**
+
+**13.** Find the equation of the tangent to the curve y = x² − 3x + 1 at the point where x = 4. **[3]**
+
 ---
 
 ## Answers
@@ -102,6 +110,14 @@ Related: [Pure Mathematics revision notes](/resources/ocr-a-level-mathematics-pu
 **10. (a)** |**a**| = √(2² + 3² + (−6)²) = √(4 + 9 + 36) [1] = √49 = **7** [1].
 **(b) b** = 2**a** [1], so **a** and **b** **are parallel** — every component of **b** is exactly twice the corresponding component of **a**, confirming **b** is a scalar multiple of **a** [1].
 
+**11.** (2 + x)⁴ = 2⁴ + 4(2³)x + 6(2²)x² + 4(2)x³ + x⁴ [1] [1] = **16 + 32x + 24x² + 8x³ + x⁴** [1].
+
+**12.** Use cos²θ = 1 − sin²θ: 2 − 2sin²θ = 1 + sin θ [1]
+2sin²θ + sin θ − 1 = 0 → (2sin θ − 1)(sin θ + 1) = 0 [1]
+sin θ = ½ gives θ = **30°, 150°** [1] [1]; sin θ = −1 gives θ = **270°** [1].
+
+**13.** At x = 4, y = 16 − 12 + 1 = 5 [1]. dy/dx = 2x − 3 = 5 at x = 4 [1]. y − 5 = 5(x − 4), so **y = 5x − 15** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -114,3 +130,15 @@ Related: [Pure Mathematics revision notes](/resources/ocr-a-level-mathematics-pu
 - Swapping x and y the wrong way round when finding an inverse function, or forgetting to relabel the result in terms of x.
 - Using a calculator in degree mode for arc length and sector area — `s = rθ` and `Area = ½r²θ` only hold when θ is in **radians**.
 - Checking vectors for a parallel relationship by comparing only one or two components instead of all three — a genuine scalar multiple must hold across every component.
+- Losing a solution in a trigonometric equation: after factorising, solve each factor across the whole interval, as in Question 12.
+
+## Frequently asked questions
+
+**Which OCR A Level paper tests pure mathematics?**
+In H240, Paper 1 is Pure Mathematics; Papers 2 and 3 combine pure mathematics with statistics and mechanics respectively, so pure skills are needed on every paper.
+
+**How do I solve an exponential equation such as 3^(2x) = 40?**
+Take logarithms of both sides, bring the power down using log aⁿ = n log a, and divide. Keep full calculator accuracy until the final rounding.
+
+**When should I use the quotient rule?**
+Use it for y = u/v, giving dy/dx = (v du/dx − u dv/dx)/v². The order in the numerator matters, so the sign of the answer is a quick check.

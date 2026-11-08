@@ -322,6 +322,23 @@ then work through the [practice questions](/resources/edexcel-ial-chemistry-form
 Next in Unit 1: [atomic structure revision notes](/resources/edexcel-a-level-chemistry-atomic-structure-revision-notes/).
 The [exam preparation guide](/resources/edexcel-ial-chemistry-exam-preparation/) covers the whole course.
 
+## Frequently asked questions
+
+**Which unit is Formulae, Equations and Amount of Substance in for Edexcel IAL Chemistry?**
+Topic 1 sits in Unit 1: Structure, Bonding and Introduction to Organic Chemistry, an International AS unit of the Pearson Edexcel specification (YCH11). It covers outcomes 1.1 to 1.12, and the specification notes that its ideas are applied in every other unit.
+
+**Are titration calculations part of Edexcel IAL Chemistry Topic 1?**
+No. The specification states that titration calculations are not required at this stage; Topic 1 covers concentration in mol dm⁻³ and g dm⁻³ only.
+
+**When do you use relative formula mass instead of relative molecular mass?**
+Use relative formula mass for substances with giant structures, such as ionic lattices like MgO or giant covalent substances like SiO₂, because no separate molecule exists. Relative molecular mass is for simple molecular substances.
+
+**How do you find the molar mass of a volatile liquid?**
+Vaporise a weighed sample, measure the vapour's volume, temperature and pressure, and use M = mRT / pV. Pressure must be in Pa, volume in m³ and temperature in K.
+
+**What is an ionic equation?**
+An ionic equation shows only the species that change in a reaction and leaves out spectator ions, which are unchanged on both sides. Both atoms and total charge must balance.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11)

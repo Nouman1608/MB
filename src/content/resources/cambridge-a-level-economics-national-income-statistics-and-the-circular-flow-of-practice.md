@@ -155,6 +155,20 @@ These questions cover sections 4.1 and 4.2 of the Cambridge International AS & A
 - Defining GDP without final goods or without the time period.
 - Offering an evaluation as two lists with no judgement.
 
+## Frequently asked questions
+
+**How do you convert GDP at market prices to GDP at basic prices?**
+Subtract taxes on products and add subsidies on products. Adding the taxes, or subtracting the subsidies, is one of the most common errors in Cambridge 9708 national income calculations.
+
+**Is depreciation used to get from GDP to GNI?**
+No. GNI is GDP plus net primary income from abroad. Depreciation is the gross-to-net step, used to get from GNI to NNI.
+
+**Is a government transfer payment an injection into the circular flow?**
+No. Only government spending on goods and services counts as an injection. Transfer payments such as benefits, and bank lending, are not injections.
+
+**How do you show that national income will rise or fall?**
+Add up total injections and total leakages and compare them. If injections exceed leakages, national income rises; if leakages exceed injections, it falls. State both totals rather than just the direction.
+
 ## Next steps
 
 - Review the [revision notes](/resources/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of/).

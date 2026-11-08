@@ -256,6 +256,20 @@ Worked reminder: a bag holds 4 red and 6 green counters, and a counter is taken,
 - Showing an expected number without the working p × n, so your method is clear even if the final number is wrong.
 - Not giving a reason when the question says "explain" or "justify".
 
+## Frequently asked questions
+
+**How do you find the probability that an event does not happen?**
+Subtract the probability that it does happen from 1, because all outcomes of one experiment add up to 1. If a train is on time with probability 0.35, it is not on time with probability 0.65.
+
+**What is the difference between random and fair in probability?**
+Random means the next outcome cannot be predicted. Fair, or unbiased, means every outcome is equally likely, so a weighted dice is random but not fair.
+
+**How do you calculate an expected number of outcomes?**
+Multiply the probability by the number of trials. For example, a probability of 0.2 over 350 spins gives 0.2 × 350 = 70 expected greens; the real result will often differ.
+
+**Which denominator do you use for a relative frequency from a frequency tree?**
+Use the total for the group the question asks about. If the question is about one category, such as cash customers only, divide by that category's total rather than the whole group.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, published by OCR. Unit 11.01: Basic probability and experiments.

@@ -22,9 +22,9 @@ syllabusTopics:
     subtopic: "a-discharging-a-capacitor"
 description: "Original exam-style practice questions with full worked answers on capacitance, energy stored, combinations and exponential discharge for A Level Physics."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -141,3 +141,17 @@ opposes the supply, while during discharging it falls from its initial
 value as the driving p.d. across the capacitor itself falls. For the
 full derivation of both equations and the graphical method for finding
 RC, see the [Capacitance revision notes](/resources/a-physics-capacitance-revision-notes/).
+
+## Frequently asked questions
+
+**How do capacitors combine in series and parallel?**
+In parallel, capacitances add: C = C₁ + C₂ + …. In series, the reciprocals add: 1/C = 1/C₁ + 1/C₂ + …, which is the opposite way round to the rules for resistors.
+
+**Why is the energy stored on a capacitor ½QV and not QV?**
+The p.d. across the capacitor rises from zero to V as charge builds up, so the stored energy is the area under the Q-V graph, which is a triangle of area ½QV.
+
+**How do you find the time constant from a graph of ln Q against time?**
+Because ln Q = ln Q₀ − t/RC, a graph of ln Q against t is a straight line with gradient −1/RC. The time constant RC is therefore minus the reciprocal of the gradient.
+
+**What mistakes are common in A Level capacitor calculations?**
+Common errors include combining capacitors with the resistor rules, forgetting to convert μF to F, using RC instead of RC ln 2 for the half-life, and using the discharge equation for a charging problem.

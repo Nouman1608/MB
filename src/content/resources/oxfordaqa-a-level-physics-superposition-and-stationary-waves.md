@@ -207,6 +207,20 @@ A plot of f against 1/l is a straight line through the origin, which confirms f 
 
 Try the [practice questions](/resources/oxfordaqa-a-level-physics-superposition-and-stationary-waves-practice/), then condense your notes with the [revision notes](/resources/oxfordaqa-a-level-physics-superposition-and-stationary-waves-revision-notes/). For the earlier wave content in the same section, see the [course hub](/boards/oxfordaqa/a-level/physics/).
 
+## Frequently asked questions
+
+**What is the difference between a node and an antinode?**
+A node is a point of zero amplitude, where the medium does not oscillate. An antinode is a point of maximum amplitude. Adjacent nodes are half a wavelength apart.
+
+**Do points on a stationary wave oscillate in phase?**
+All points within one loop oscillate in phase, and points in neighbouring loops are in antiphase. In a progressive wave, by contrast, the phase changes steadily along the wave.
+
+**What graph gives a straight line when you vary the length of a string?**
+Plot frequency against 1/l. The gradient is ½√(T/μ), where T is the tension and μ is the mass per unit length.
+
+**What is the main source of uncertainty in string experiments?**
+Judging the frequency of maximum amplitude, because resonance happens over a range. Find it by going just above and below the peak and taking the middle.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), specification Version 4.4, for exams from May/June 2020 onwards, published by OxfordAQA. This guide covers section 3.5.5.

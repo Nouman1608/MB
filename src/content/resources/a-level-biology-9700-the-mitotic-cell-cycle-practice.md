@@ -22,11 +22,11 @@ syllabusTopics:
     subtopic: "chromosome-behaviour-in-mitosis-cambridge-alevel"
 description: "Original practice questions with marked answers on Cambridge 9700 mitotic cell cycle: chromosomes, interphase, telomeres, tumours and mitosis stages."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -168,6 +168,20 @@ Revise first with the [study guide](/resources/a-level-biology-9700-the-mitotic-
 - See the [9700 course hub](/boards/cambridge/a-level/biology/) and the [printable checklist](/checklists/cambridge/a-level/biology/).
 - Take the free 10-minute [9700 AS diagnostic](/practice/9700/diagnostic/as/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Which Cambridge 9700 topic do these questions cover?**
+They cover Topic 5, The mitotic cell cycle: chromosome structure, interphase, telomeres, stem cells, tumours and the stages of mitosis.
+
+**Which calculation errors are common in cell cycle questions?**
+Dividing by the wrong value in a percentage change and forgetting to convert hours to minutes or mm to µm.
+
+**How should you describe a DNA mass graph?**
+Quote values and units from the graph rather than describing its shape alone.
+
+**What counts as a difference between plant and animal cell division?**
+Give a difference in the process of division, not just a structure such as the cell wall.
 
 ## Official syllabus
 

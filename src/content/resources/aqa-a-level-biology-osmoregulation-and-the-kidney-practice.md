@@ -136,6 +136,20 @@ These questions follow AQA A-level Biology (7402), section 3.6.4.3, Control of b
 - Take any of the [free 10-minute diagnostics](/diagnostics/) to find your next weak spot.
 - [Book a free trial class](/trial/) if you would like a teacher to go through your answers.
 
+## Frequently asked questions
+
+**Which section of the AQA specification do these questions cover?**
+They cover section 3.6.4.3, Control of blood water potential, in AQA A-level Biology 7402.
+
+**Should you write "the pituitary" when describing ADH?**
+Say "posterior pituitary". Writing just "pituitary" without specifying which part is a common way to lose marks.
+
+**How should you describe a trend in a table?**
+Quote values from the table rather than writing "goes down". Give percentage changes with a sign and the correct base value.
+
+**What unit errors are common in kidney calculations?**
+Mixing mm and µm in magnification, and g and mg in glucose loads. Convert to the same unit before calculating.
+
 ## Official syllabus
 
 AQA, *AS and A-level Biology* specification (7401 and 7402), for first teaching 2015, section 3.6.4.3 Control of blood water potential (A-level only). Published by AQA.

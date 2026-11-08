@@ -233,6 +233,23 @@ Checks that an estimate is sensible:
 - Missing units, or giving newtons where joules are needed.
 - Using a stopping time of zero or the wrong direction for acceleration.
 
+## Frequently asked questions
+
+**What is the difference between thinking distance and braking distance?**
+Thinking distance is how far the vehicle travels during the driver's reaction time, and depends on the driver and the speed. Braking distance is how far it travels once the brakes act, and depends on speed, the road, the brakes and the tyres.
+
+**Does alcohol affect braking distance?**
+No. Alcohol and tiredness increase reaction time, so they lengthen the thinking distance. Blaming them for a longer braking distance is a common error.
+
+**What happens to stopping distance when speed doubles?**
+Thinking distance doubles, because it equals speed × reaction time. Braking distance quadruples at a constant deceleration, because it depends on speed squared.
+
+**Which stopping distance statements are Higher tier or separate Physics only in OCR GCSE Physics A?**
+In OCR GCSE (9-1) Physics A (J249), estimating stopping distances (P8.1f) and large accelerations (P8.1i) are separate Physics only, estimating forces on a public road (P8.1h) is Higher tier only, and the dangers of large decelerations (P8.1g) are for both tiers.
+
+**How do I estimate a braking force from a stopping distance?**
+Find the deceleration from a = v² ÷ 2s, then multiply by the vehicle's mass using F = ma. Do not use the vehicle's weight as the braking force.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Gateway Science Physics A (J249), Version 5.0, July 2026, first assessment 2018. Topic P8.1, statements P8.1f to P8.1i.

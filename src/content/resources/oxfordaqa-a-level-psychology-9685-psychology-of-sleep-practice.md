@@ -155,7 +155,7 @@ But sleep makes animals unresponsive, which is risky, and bottlenose dolphins sl
 ## Where marks are usually lost
 
 - Using a general jet lag account when the question gives a scenario with directions and timings.
-- Saying west-bound travel or backward shift rotation is easier.
+- Saying east-bound travel or backward shift rotation is easier. West-bound travel and forward rotation need a phase delay, which is the easier adjustment.
 - Mixing up the SCN (pacemaker), light (zeitgeber) and melatonin (hormone).
 - Describing only one side when the question asks for differences.
 - Forgetting to show working in calculations, or rounding too early.
@@ -163,6 +163,20 @@ But sleep makes animals unresponsive, which is risky, and bottlenose dolphins sl
 - Treating correlational evidence on personality, shift work or jet lag as proof of cause.
 - Describing narcolepsy symptoms at length and giving no biological explanation.
 - Ending extended answers without a judgement.
+
+## Frequently asked questions
+
+**What does OxfordAQA 9685 Psychology of sleep cover?**
+Section 3.3.1 covers biological rhythms, disruption of rhythms through shift work and jet lag, the nature of sleep, the functions of sleep, and sleep disorders including insomnia and narcolepsy.
+
+**How are the extended Psychology of sleep questions marked?**
+The real exam marks extended answers using levels of response, not point by point. The marks shown in these answers are indicative creditworthy points, and a strong answer ends with a judgement.
+
+**Why is the first night's data often left out of sleep lab studies?**
+On the first night the unfamiliar lab and electrodes often disturb sleep, so the record would not show the participant's typical sleep pattern.
+
+**What are common mistakes in Psychology of sleep answers?**
+Students often mix up the SCN (pacemaker), light (zeitgeber) and melatonin (hormone), ignore the directions and timings given in a scenario, and treat correlational evidence as proof of cause.
 
 ## Next steps
 

@@ -225,6 +225,23 @@ Mn²⁺:      4Mn²⁺ + MnO₄⁻ + 8H⁺ → 5Mn³⁺ + 4H₂O;   2Mn³⁺ + C
 - Writing one Contact process equation only; the oxidation of V₂O₄ back to V₂O₅ shows regeneration.
 - Leaving out the oxidation states when asked how variable oxidation states help catalysis.
 
+## Frequently asked questions
+
+**What are the four characteristic properties of transition metals?**
+Transition metals form complexes, form coloured ions, show variable oxidation states and have catalytic activity. In AQA A-level Chemistry 7405 these properties arise from an incomplete d sub-level in the atoms or ions of titanium to copper.
+
+**What colours does vanadium show when vanadate(V) is reduced by zinc?**
+Zinc in acid reduces VO₂⁺ (+5, yellow) to VO²⁺ (+4, blue), then V³⁺ (+3, green) and V²⁺ (+2, violet).
+
+**What is the difference between heterogeneous and homogeneous catalysts?**
+A heterogeneous catalyst is in a different phase from the reactants and works at active sites on its surface. A homogeneous catalyst is in the same phase and works through an intermediate species.
+
+**What is an autocatalyst?**
+An autocatalyst is a product of the reaction that it speeds up. Mn²⁺ is the example in the reaction between manganate(VII) and ethanedioate.
+
+**What is the difference between cis and trans isomers in complexes?**
+In a cis isomer the two identical ligands are at 90°; in a trans isomer they are at 180° in an octahedral complex, or at opposite corners in a square planar complex.
+
 ## Official syllabus
 
 AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards (AQA). Section 3.2.5 Transition metals (A-level only).

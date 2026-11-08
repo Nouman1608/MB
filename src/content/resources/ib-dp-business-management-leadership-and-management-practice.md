@@ -123,6 +123,20 @@ On balance, Tomas should move toward a democratic approach for the rota, because
 - Take the [free 10-minute diagnostics](/diagnostics/) to find other gaps.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the five leadership styles in IB Business Management?**
+Section 2.3 of the IB Business management guide names autocratic, paternalistic, democratic, laissez-faire and situational leadership.
+
+**What are common mistakes on leadership and management questions?**
+Students often write a definition of leadership that is really a definition of management, name a style without evidence from the case, confuse paternalistic with autocratic, and treat laissez-faire as "no leader". Ending an "evaluate" or "justify" answer with no conclusion also loses marks.
+
+**How do you identify a leadership style in a case study?**
+Look for clues about who makes the decision and how staff are involved: a decision announced without consulting anyone points to autocratic, a vote points to democratic, and a leader who adapts to an emergency points to situational. Quote the evidence from the case to support your choice.
+
+**Can an autocratic style ever be the right choice?**
+Yes. An autocratic style can suit an emergency, routine or safety-critical work, or an inexperienced team, because decisions are fast and accountability is clear. Strong answers weigh this against its effect on morale and staff turnover.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. This page covers section 2.3, Leadership and management.

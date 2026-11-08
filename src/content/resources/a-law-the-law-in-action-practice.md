@@ -1,5 +1,5 @@
 ---
-title: "A Level Law: The Law in Action — Practice Questions"
+title: "Edexcel International A Level Law: The Law in Action — Practice Questions"
 resourceType: "practice-questions"
 subject: "law"
 level: ["a-levels"]
@@ -12,13 +12,22 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-the-law-in-action-yla1"
-description: "Original exam-style practice questions with full worked answers on contract terms and the Consumer Rights Act 2015, negligence, actus reus, mens rea and omissions, theft, sentencing, defamation, and occupiers' liability for A Level Law Paper 2."
+  - qualification: "a-level"
+    topic: "paper-2-the-law-in-action-yla1"
+    subtopic: "the-market-yla1"
+  - qualification: "a-level"
+    topic: "paper-2-the-law-in-action-yla1"
+    subtopic: "the-criminal-offender-yla1"
+  - qualification: "a-level"
+    topic: "paper-2-the-law-in-action-yla1"
+    subtopic: "the-individual-yla1"
+description: "Edexcel International A Level Law Paper 2 practice with worked answers on contract, consumer rights, negligence, crime, defamation and occupiers' liability."
 author: "marlbridge-academic-team"
-reviewer: "aizaz-raoof-ali"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-30
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -85,3 +94,17 @@ Related: [The Law in Action revision notes](/resources/a-law-the-law-in-action-r
 - Naming a sentence type under the Criminal Justice Act 2003 without explaining what it involves.
 - Forgetting that the Defamation Act 2013 requires *serious* harm, not merely some harm.
 - Applying the 1957 Act's duty to a trespasser, or the 1984 Act's duty to a lawful visitor.
+
+## Frequently asked questions
+
+**What topics does Edexcel International A Level Law Paper 2 The Law in Action cover?**
+The Law in Action covers the market (contract, consumer rights and negligence), the criminal offender (criminal liability, property offences and sentencing) and the individual (defamation, human rights, privacy and occupiers' liability).
+
+**Why do causation answers lose marks?**
+Stating the "but for" test alone does not prove causation. You also need to address legal causation, asking whether the defendant's act was an operating and substantial cause.
+
+**Do you need to quote section numbers in Law in Action answers?**
+Where the question asks for them, yes, and accuracy matters: quoting the wrong Consumer Rights Act 2015 section, or mixing up which Act covers which offence, loses marks.
+
+**How should you answer a question naming a type of sentence?**
+Explain what the sentence involves and when it is used, not just its name. Naming a sentence under the Criminal Justice Act 2003 without explaining it earns little.

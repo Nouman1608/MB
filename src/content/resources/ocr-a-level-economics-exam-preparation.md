@@ -9,13 +9,13 @@ qualifications: ["a-level"]
 syllabusCodes: ["H460"]
 syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 3
-description: "How OCR A Level Economics H460's three equal components work, why Component 03 applies micro and macro content to an unseen theme, and a worked routine for transferring theory to unfamiliar material."
+description: "How the three equal components of OCR A Level Economics H460 work, why Component 03 applies micro and macro to an unseen theme, and a routine for transfer."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 OCR A Level Economics (H460) is linear and untiered, assessed by three compulsory components of equal
@@ -119,6 +119,23 @@ consequences are precisely what it rewards. 3. Because marks come from depth of 
 specific theme; a survey of loosely relevant models demonstrates range without applying anything
 thoroughly. 4. Accurate labelling and integration -- the prose must state what it shows and use its
 labelled points to carry the argument.
+
+## Frequently asked questions
+
+**How is OCR A Level Economics H460 assessed?**
+OCR A Level Economics (H460) is linear and untiered, with three compulsory components of equal weight: Component 01 (Microeconomics), Component 02 (Macroeconomics) and Component 03 (Themes in economics). Each is a 2-hour written paper worth 80 marks and one third of the qualification.
+
+**What is Component 03 in OCR A Level Economics?**
+Component 03, Themes in economics, is synoptic: it applies content from both Microeconomics and Macroeconomics to an unseen theme. There is no extra content list to learn, so preparation means practising the transfer of existing theory to unfamiliar material.
+
+**How do you revise for an unseen theme?**
+Take unfamiliar markets, industries or policy questions from the news and work them through with the specification's tools, such as market failure, elasticity, costs and revenues, and aggregate demand and supply. Refresh Components 01 and 02 shortly before Component 03 rather than revising them once and leaving them.
+
+**How much time do you have per mark in OCR A Level Economics papers?**
+Two hours for 80 marks gives about 1.5 minutes per mark, which leaves room to plan. Spending up to five minutes planning an extended answer, choosing the position, the two strongest arguments, the diagram and the decisive factor, produces a better structured essay.
+
+**How should diagrams be used in OCR A Level Economics answers?**
+Draw the core diagrams accurately, then state in the prose what each shows and use its labelled points to carry the argument forward. A diagram that appears without commentary does little analytical work.
 
 *Written against OCR's own live A Level Economics (H460) specification-at-a-glance page (official OCR
 page, verified 2026-08-28); OCR prints each component's weighting as 33⅓%. The unseen-theme routine

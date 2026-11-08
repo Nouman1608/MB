@@ -212,6 +212,19 @@ Notice that f jumps at x = 2 but F does not. Probabilities are areas, so F is co
   <figcaption>An exponential pdf starts at λ and decays; its mean and standard deviation are both 1/λ.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is P(X = a) for a continuous random variable?**
+It is 0 for every value a, because a single point has no width. So P(X < a) and P(X ≤ a) are equal.
+
+**How do you build the cdf from a piecewise pdf?**
+Integrate the first piece from the lower end of the interval up to x. For each later piece, add F at the previous boundary and integrate from that boundary to x, then check that F equals 1 at the top.
+
+**How do you find the mode of a continuous random variable?**
+Find where f(x) is greatest: solve f′(x) = 0 and check it is a maximum, or use an end point if f is always rising or falling. If f is constant over a range, there is no single mode.
+
+**How do you find the median from a piecewise cdf?**
+Work out F at each boundary, compare 1/2 with those values to choose the right piece, then solve F(m) = 1/2 in that piece and reject any root outside it.
 
 ## Official syllabus
 

@@ -180,6 +180,20 @@ number = 3.00 × 10⁻³ × 6.02 × 10²³ = **1.81 × 10²¹ K⁺ ions** [1]
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does this IB DP Chemistry Structure 1.4 practice set cover?**
+It covers Structure 1.4, "Counting particles by mass: the mole", from the IB Diploma Programme Chemistry guide: counting entities with the Avogadro constant, relative formula mass, empirical and molecular formulae, molar concentration and dilution, and reacting gas volumes using Avogadro's law.
+
+**Does relative formula mass have units?**
+No. Ar and Mr are ratios and have no units, while molar mass has the unit g mol⁻¹. Adding g mol⁻¹ to an Mr, or leaving it off a molar mass, is a common error.
+
+**What are the most common mistakes in mole calculations?**
+Typical errors include leaving out the atoms-per-formula-unit factor when the question asks for atoms or ions, using cm³ directly in n = CV, and dividing by the volume of water added instead of the final volume after dilution. Rounding a mole ratio too early in an empirical formula is another frequent slip.
+
+**Why must you follow a stated precision in IB Chemistry answers?**
+If a question asks for a specific precision, such as 2 decimal places, an answer to a different precision does not follow the instruction. Otherwise, match the precision of the data, usually 3 significant figures.
+
 ## Official syllabus
 
 Source document: *Diploma Programme Chemistry guide* (International Baccalaureate Organization), for first assessment in 2025, published in February 2023. This page follows its Structure 1.4 statements.

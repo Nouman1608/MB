@@ -19,9 +19,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "security-privacy-and-data-integrity"
     subtopic: "data-integrity"
-description: "AS study guide to data security, privacy, validation, verification, check digits and parity checks for Cambridge Computer Science 9618, with worked examples."
+description: "Cambridge 9618 Topic 6 study guide: security, privacy and integrity, threats and countermeasures, validation, verification, check digits and parity."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: fixed a broken sentence fragment in the countermeasures list; aligned threats and measures to syllabus 6.1 (added integrity definition, digital signatures, anti-spyware; worms/trojans/ransomware/DoS no longer taught as required); please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -34,30 +36,38 @@ Topic 6 is an AS Level topic, so it can be examined on Paper 1 (Theory Fundament
 
 ## Data security and privacy
 
-**Data security** means protecting data from loss, damage and unauthorised access. **Data privacy** is about the right of individuals to control who holds and uses their personal data. Data protection laws in many countries give people rights over their data and place duties on organisations, such as keeping data accurate, holding it only for a stated purpose and protecting it from misuse.
+The syllabus (6.1) asks you to explain the difference between three terms:
 
-### Threats to data
+- **Data security** means protecting data from loss, damage and unauthorised access.
+- **Data privacy** is about keeping personal data confidential: the right of individuals to control who holds and uses their data. Data protection laws give people rights over their data and place duties on organisations.
+- **Data integrity** means the data is accurate, complete and consistent, and has not been changed in error.
 
-Threats fall into accidental and deliberate groups.
+You also need to appreciate that both the **security of the data** and the **security of the computer system** matter: a system that is broken into can have its data stolen, but it can also be used to damage other systems or be made unavailable.
 
-- **Accidental**: a user deleting a file, hardware failure, power loss, fire or flood, or software bugs corrupting a file.
-- **Malicious software (malware)**: viruses attach to files and spread when the file is run; worms replicate across networks without user action; trojans pretend to be useful software; spyware records activity; ransomware encrypts files and demands payment.
-- **Hacking**: gaining unauthorised access to a system, often by guessing or stealing credentials.
-- **Phishing**: a fake email or message that tricks the user into revealing details or following a link.
-- **Pharming**: malware or a tampered DNS record sends the user to a fake website even though they typed the correct address.
-- **Denial of service**: flooding a server with requests so legitimate users cannot reach it.
+### What threats do networks and the internet pose?
 
-### Countermeasures
+The syllabus names these threats:
+
+- **Malware**, including **viruses** (programs that copy themselves, attached to other files, and may corrupt or delete data) and **spyware** (software that secretly records activity, such as key presses, and sends it to a third party).
+- **Hackers**: people who gain unauthorised access to a system, often by guessing or stealing passwords, to steal, change or delete data.
+- **Phishing**: a fake email or message that tricks the user into revealing details or following a link to a fake website.
+- **Pharming**: malicious code, or a tampered DNS record, sends the user to a fake website even though they typed the correct address.
+
+Data is also at risk from accidents, such as accidental deletion, hardware failure, fire or power loss, which is why backup procedures matter.
+
+### What security measures protect computer systems and data?
 
 Match the measure to the threat and say how it helps.
 
-- **User accounts and access rights** limit who can open, change or delete files. A receptionist might have read-only access to appointments, while a doctor can edit clinical notes.
- such as fingerprints use a physical trait that is hard to share, although a false rejection can lock out a genuine user.
-- **Two-factor authentication** asks for something you know plus something you have, for example a password plus a code sent to a phone.
-- **Firewalls** examine incoming and outgoing traffic and block anything that breaks the configured rules.
-- **Anti-malware software** scans files and compares them with known signatures and suspicious behaviour, and should be kept up to date.
-- **Encryption** makes stored or transmitted data unreadable without the key, so a stolen laptop does not reveal its files.
-- **Backups and recovery**: regular copies stored in a different place protect against loss. A backup stored beside the original is lost in the same fire.
+- **User accounts and passwords** identify each user and control access. Strong passwords are long, mixed and changed when compromised.
+- **Access rights** limit what each account can open, change or delete. A receptionist might have read-only access to appointments, while a doctor can edit clinical notes.
+- **Authentication techniques** prove identity. **Biometrics** such as fingerprints use a physical trait that is hard to share, although a false rejection can lock out a genuine user. A **digital signature** proves who sent a message and that it has not been altered.
+- **Firewalls** examine incoming and outgoing traffic and block anything that breaks the configured rules, protecting against hackers.
+- **Anti-virus software** scans files for known virus signatures and suspicious behaviour, and must be kept up to date. **Anti-spyware** detects and removes spyware.
+- **Encryption** makes stored or transmitted data unreadable without the key, so a stolen laptop or an intercepted message does not reveal its contents.
+- **Backups**: regular copies stored in a different place allow recovery after loss. A backup stored beside the original is lost in the same fire.
+
+These range from a stand-alone PC (password, anti-virus, encryption of the disk) to a network of computers (user accounts with access rights managed centrally, a firewall at the network boundary).
 
 ## Data integrity: validation and verification
 
@@ -117,13 +127,21 @@ A simple validation routine in Cambridge-style pseudocode shows how a range, typ
 
 ```
 FUNCTION ValidMonth(Entry : STRING) RETURNS BOOLEAN
-  IF LENGTH(Entry) = 0 THEN          // presence
+  DECLARE Index : INTEGER
+  DECLARE Ch : CHAR
+  IF LENGTH(Entry) = 0 THEN                  // presence
     RETURN FALSE
   ENDIF
-  IF NOT IS_NUM(Entry) THEN          // type
-    RETURN FALSE
+  FOR Index ← 1 TO LENGTH(Entry)             // type: digits only
+    Ch ← MID(Entry, Index, 1)
+    IF Ch < '0' OR Ch > '9' THEN
+      RETURN FALSE
+    ENDIF
+  NEXT Index
+  IF LENGTH(Entry) = 1 THEN                  // range: 1 to 12
+    RETURN Entry <> "0"
   ENDIF
-  RETURN (INT(Entry) >= 1) AND (INT(Entry) <= 12)   // range
+  RETURN LENGTH(Entry) = 2 AND Entry >= "01" AND Entry <= "12"
 ENDFUNCTION
 ```
 
@@ -137,6 +155,20 @@ ENDFUNCTION
 ## Exam technique
 
 Command words matter. **State** and **give** need a short fact. **Describe** needs a sentence that says what happens. **Explain** needs a reason, so add "because" or "so that". **Justify** in a scenario asks you to choose and defend a measure. Marks usually come as pairs: the measure and its effect. When a question gives a scenario, use its details, such as "clinic", "patients" or "online shop", in your answer.
+
+## Frequently asked questions
+
+**What is the difference between security, privacy and integrity of data?**
+Security protects data from loss, damage and unauthorised access. Privacy is about keeping personal data confidential and under the control of the person it concerns. Integrity means the data is accurate, complete and unchanged.
+
+**Which validation checks does the 9618 syllabus name?**
+Range, format, length, presence, existence and limit checks, and check digits. Type and uniqueness checks are useful extras but are not on the list.
+
+**What is the difference between a parity byte check and a parity block check?**
+A byte check adds one parity bit per byte and only detects an error. A block check adds parity to every row and column, so a single wrong bit can be located and corrected.
+
+**Is a digital signature the same as encryption?**
+No. A digital signature authenticates the sender and shows the message has not been altered; encryption hides the content from anyone without the key.
 
 ## Check your understanding
 

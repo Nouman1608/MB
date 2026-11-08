@@ -342,6 +342,20 @@ An asymptote is read from the rule: look for inputs that make a denominator zero
 - Giving the horizontal asymptote of a rational function as the vertical one.
 - Trusting an exponential model far outside the data it was built from.
 
+## Frequently asked questions
+
+**What makes a mapping a function?**
+A mapping is a function when every input has exactly one output. The relation x² + y² = 25 is not a function, because x = 3 gives both y = 4 and y = −4.
+
+**How do you find the equation of a line through two points?**
+Find the gradient m as the change in y divided by the change in x, then substitute one point into y = mx + c to find c. For (2, 7) and (6, 19), m = 3 and c = 1, so y = 3x + 1.
+
+**How do you find the greatest height in a quadratic model?**
+Find the axis of symmetry, t = −b/(2a), and substitute it into the model. For h = −5t² + 20t + 1, the axis is t = 2 and the greatest height is 21 m.
+
+**What does the thinking with models branch of MYP Mathematics include?**
+In the IB MYP Mathematics framework, thinking with models includes functions such as linear, quadratic, exponential and rational functions, their transformations, and using them to model real events with expressions, equations or graphs.
+
 ## Official syllabus
 
 Source: *Mathematics guide* of the Middle Years Programme, International Baccalaureate Organization; first assessment 2022. Section used: the framework for thinking with models.

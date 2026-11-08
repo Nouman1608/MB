@@ -129,6 +129,20 @@ Correct first three passes [1]. Correct last two passes [1]. Output **12** [1]. 
 - Stopping the labelling as soon as the destination gets a label.
 - Writing "not realistic" without saying what changes.
 
+## Frequently asked questions
+
+**What is the most common mistake when finding a feasible region's corners?**
+Missing the corners that lie on the axes, such as (0, 0) or a point where a constraint line meets the x-axis. Every corner of the feasible region needs to be tested in the objective function.
+
+**How do you translate "at least" and "at most" into inequalities?**
+"At least 10" means ≥ 10 and "at most 10" means ≤ 10. Reading them the wrong way round shades the wrong side of the line and spoils the whole linear programming answer.
+
+**Is the shortest path the one with the fewest edges?**
+No. In a weighted network the length of a path is the sum of the weights on its edges, so you must add the weights rather than count the edges.
+
+**What should a linear programming answer include?**
+Give the best value of the objective function together with the point where it happens, answered in context, such as how many of each item to make. A value without the point is incomplete.
+
 ## Next steps
 
 - [Revision notes](/resources/ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp-revision-notes/)

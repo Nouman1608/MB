@@ -25,11 +25,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-3-4"
 description: "12 original IB DP Maths AA practice questions on 3D solids, sine and cosine rules, bearings, arcs and sectors (3.1–3.4), with fully worked mark schemes."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -184,6 +184,20 @@ Learn the methods first in the [study guide](/resources/ib-dp-mathematics-aa-tri
 - Plan your final weeks with the [AA exam preparation guide](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Do arc length and sector area formulas use degrees or radians?**
+The formulas l = rθ and A = ½r²θ need θ in radians. Using an angle in degrees in these formulas is a common lost mark.
+
+**What calculator mode should you use for IB Maths AA geometry questions?**
+Match the question: radian mode when angles are in radians, such as sin 1.8, and degree mode when angles are given in degrees. A GDC in the wrong mode gives wrong answers.
+
+**How do you find the surface area of a combined solid?**
+Count only the faces on the outside. A face hidden where two solids join, such as the flat face of a hemisphere fixed to a cone, should not be included.
+
+**How should a "show that" answer be set out in IB Maths AA?**
+Start from the given information and work towards the stated result, without starting from the result itself. In IB DP Mathematics: Analysis and Approaches, calculator-free "show that" questions also need exact values rather than decimals.
 
 ## Official syllabus
 

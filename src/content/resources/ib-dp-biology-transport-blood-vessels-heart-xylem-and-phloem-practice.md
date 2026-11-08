@@ -177,6 +177,20 @@ These questions cover IB Diploma Programme Biology section B3.2 (Transport) from
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which parts of IB DP Biology B3.2 Transport are HL only?**
+The HL-only parts cover root pressure, tissue fluid and lymph, the pressure changes in the cardiac cycle and the pacemaker, single and double circulation, and phloem translocation with sieve tube elements and companion cells.
+
+**How can you tell an artery from a vein in a micrograph?**
+Compare wall thickness with lumen diameter: an artery has a thick wall relative to its lumen, while a vein has a thinner wall and a wider lumen. Cite the ratio rather than saying the wall "looks thick".
+
+**How do you compare disease data between regions of different size?**
+Convert case numbers to rates per head, such as cases per 100 000 people, before comparing; comparing raw case numbers is a common error.
+
+**How is water pulled up the xylem during transpiration?**
+Water evaporates from mesophyll cell walls, creating tension in the xylem; cohesion between water molecules by hydrogen bonds keeps the column continuous, so it is pulled up from the roots. Transpiration pulls, while root pressure pushes.
+
 ## Official syllabus
 
 This resource follows the IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization.

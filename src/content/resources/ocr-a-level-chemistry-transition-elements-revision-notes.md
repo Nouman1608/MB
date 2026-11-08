@@ -228,6 +228,20 @@ You need not recall these equations, but you must be able to build them.
 - Leaving out the acidification step when turning chromate into dichromate.
 - Missing the white CuI precipitate and describing only the brown colour.
 
+## Frequently asked questions
+
+**Why are scandium and zinc not transition elements?**
+A transition element is a d-block element that forms an ion with an incomplete d-sub-shell. Sc³⁺ has an empty 3d sub-shell and Zn²⁺ has a full 3d¹⁰ sub-shell, so neither qualifies, while Ti to Cu in Period 4 do.
+
+**Which metal hydroxides dissolve in excess sodium hydroxide or ammonia?**
+Excess NaOH redissolves only chromium(III) hydroxide. Excess aqueous ammonia redissolves two: chromium(III) hydroxide and copper(II) hydroxide.
+
+**What is the difference between the number of ligands and the coordination number?**
+The coordination number is the number of coordinate bonds to the central metal ion, not the number of ligands. For example, [Cu(en)₂(H₂O)₂]²⁺ has four ligands but a coordination number of 6, because each en ligand forms two bonds.
+
+**How does cis-platin work as an anti-cancer drug?**
+Inside a cell the chloride ligands of cis-Pt(NH₃)₂Cl₂ are replaced, and platinum binds to nitrogen atoms on DNA bases, often two adjacent guanines. The DNA is distorted so it cannot be copied, which stops the cell dividing.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 5.3.1 Transition elements, learning outcomes (a) to (l) with their additional guidance. Published by OCR.

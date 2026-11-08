@@ -160,6 +160,20 @@ See the [Rights and justice](/resources/ib-dp-global-politics-rights-justice/) a
 - Review how Paper 1 is marked in the [Global Politics assessment revision notes](/resources/ib-dp-global-politics-assessment-revision-notes/) and the [exam preparation guide](/resources/ib-dp-global-politics-exam-preparation/).
 - See the full course map in the [Global Politics syllabus guide](/resources/ib-dp-global-politics-syllabus-guide/).
 
+## Frequently asked questions
+
+**Where does the Westphalian idea of sovereignty come from?**
+The traditional model is traced to the Peace of Westphalia (1648), which ended the Thirty Years' War, though historians debate how much the treaties created it. Its four features are territoriality, supreme authority, non-intervention and legal equality between states.
+
+**What is the Responsibility to Protect?**
+The Responsibility to Protect (R2P) treats sovereignty as responsibility: a state keeps its right to non-intervention only if it protects its own people. It was set out by the International Commission on Intervention and State Sovereignty in 2001 and endorsed by UN members at the 2005 World Summit.
+
+**How is sovereignty examined in IB Global Politics Paper 1?**
+IB DP Global Politics Paper 1 is a source-based paper on the core topics with four sources and four compulsory questions worth 3, 4, 6 and 12 marks, and sovereignty is a likely focus. Sovereignty can also feed into Paper 2 section B integrating essays.
+
+**Does joining a supranational body always mean losing sovereignty?**
+Not necessarily. Under the idea of pooled sovereignty, states choose to share some powers by treaty and can often withdraw, so whether it counts as a loss depends on which notion of sovereignty you apply.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Diploma Programme *Global politics guide*, first assessment 2026 (published February 2024) -- core topics, prescribed topic "Sovereignty in global politics".

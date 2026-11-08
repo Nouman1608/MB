@@ -215,6 +215,23 @@ Good relations mean fewer disputes, less absence and more cooperation in times o
 - Forgetting that, with a fixed workforce, a wider span means fewer layers.
 - Saying money is the only motivator, or dismissing it.
 
+## Frequently asked questions
+
+**What is the difference between soft and hard HRM?**
+A hard approach treats employees as a cost and a resource to be used efficiently, with tight control and flexible contracts. A soft approach treats them as an asset to be developed, through training, involvement in decisions and strong communication.
+
+**What are the five core job characteristics in Hackman and Oldham's model?**
+Skill variety, task identity, task significance, autonomy and feedback. They lead to three critical psychological states: experienced meaningfulness, experienced responsibility and knowledge of results.
+
+**What are the stages of human resource flow?**
+A human resource plan forecasts the workforce needed and how to close any gap, followed by recruitment, training, redeployment and redundancy as needed to match the number, skills and location of employees.
+
+**Which financial motivation methods are named in AQA 7132?**
+The specification lists four: piece rate, commission, salary schemes and performance-related pay. Each has drawbacks, such as quality falling under piece rate.
+
+**Which section of the AQA Business specification covers human resource management?**
+Section 3.6, Decision making to improve human resource performance, covering HR objectives, HR data, job and organisational design, motivation and employer-employee relations.
+
 ## Official syllabus
 
 AQA, AS and A-level Business (7131 and 7132) specification, section 3.6 Decision making to improve human resource performance, for first teaching from September 2023. The formulas in section 2 are the standard forms, as the specification gives none.

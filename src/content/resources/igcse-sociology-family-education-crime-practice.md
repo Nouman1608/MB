@@ -12,13 +12,37 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-family-education-crime-0495"
-description: "An original practice paper for Cambridge IGCSE Sociology 0495 Paper 2: three 40-mark questions on Family, Education, and Crime, deviance and social control, each with parts (a) to (f), with mark schemes."
+  - qualification: "igcse"
+    topic: "paper-2-family-education-crime-0495"
+    subtopic: "kq-4-1-0495"
+  - qualification: "igcse"
+    topic: "paper-2-family-education-crime-0495"
+    subtopic: "kq-4-2-0495"
+  - qualification: "igcse"
+    topic: "paper-2-family-education-crime-0495"
+    subtopic: "kq-4-3-0495"
+  - qualification: "igcse"
+    topic: "paper-2-family-education-crime-0495"
+    subtopic: "kq-5-1-0495"
+  - qualification: "igcse"
+    topic: "paper-2-family-education-crime-0495"
+    subtopic: "kq-5-2-0495"
+  - qualification: "igcse"
+    topic: "paper-2-family-education-crime-0495"
+    subtopic: "kq-5-3-0495"
+  - qualification: "igcse"
+    topic: "paper-2-family-education-crime-0495"
+    subtopic: "kq-6-1-0495"
+  - qualification: "igcse"
+    topic: "paper-2-family-education-crime-0495"
+    subtopic: "kq-6-3-0495"
+description: "Original Cambridge IGCSE Sociology (0495) Paper 2 practice paper: three 40-mark questions on family, education and crime, parts (a) to (f), with marks."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-05
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions;
@@ -241,3 +265,17 @@ Your answer should include:
 - On (e), writing fewer than three points, or points with no evidence.
 - On (f), giving arguments on one side only (capped at 6 marks) or leaving out the conclusion.
 - Choosing the two questions badly: check every part of a question, including (f), before committing to it.
+
+## Frequently asked questions
+
+**How many questions do you answer on Cambridge IGCSE Sociology Paper 2?**
+Paper 2 of Cambridge IGCSE Sociology (0495) has three 40-mark questions, on Family, Education, and Crime, deviance and social control, and you answer two of them.
+
+**How do you get full marks on the "identify and develop three points" parts?**
+For parts (c) and (d), each of three points earns a mark for being identified and a further mark for being developed. Listing three points without developing them earns only half the marks.
+
+**What happens if you only argue one side in part (f)?**
+In this practice paper's mark scheme, part (f) answers with arguments on one side only are capped at 6 marks out of 14. The top level needs developed, evidenced points on each side and a conclusion.
+
+**How should you choose which two questions to answer?**
+Check every part of a question, including part (f), before committing to it, rather than choosing on the first part alone.

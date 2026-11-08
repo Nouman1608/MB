@@ -257,6 +257,20 @@ Use the same pattern for externalities: name the third party, say what they gain
 - Listing effects on consumers, workers, businesses and government without saying which are gains and which are losses.
 - Leaving out units, or forgetting to multiply by the quantity when a total is asked for.
 
+## Frequently asked questions
+
+**What is a mixed economy in Edexcel IGCSE Economics?**
+A mixed economy allocates resources partly through the market (the private sector) and partly through the government (the public sector). The Pearson Edexcel International GCSE Economics (4EC1) specification covers it in section 1.1.5, with externalities in 1.1.6.
+
+**What is the free rider problem?**
+A free rider benefits from a good without paying for it. Because a public good is non-excludable, many people will not pay voluntarily, so a private firm cannot cover its costs and the market fails to provide it.
+
+**What is the difference between a public good and the public sector?**
+A public good is a type of good that is non-excludable and non-rival, such as street lighting. The public sector is the part of the economy owned and run by the government, which provides many services that are not public goods, such as schooling.
+
+**What causes market failure in this unit?**
+The two causes covered are no provision, in the case of public goods, and the wrong amount being produced or consumed, in the case of externalities.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026, published by Pearson Education Limited, sections 1.1.5 and 1.1.6.

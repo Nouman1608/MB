@@ -290,6 +290,23 @@ In the invented market, a settlement at £10 gives employment of 400, at £12.40
 - Claiming a union always reduces employment; under monopsony it may raise it.
 - Stopping at "wages rise" without checking elasticity.
 
+## Frequently asked questions
+
+**What factors affect the supply of labour to a job?**
+Monetary factors include the wage rate, overtime and bonuses, pensions and tax. Non-monetary factors include job satisfaction, hours and flexibility, risk, location, status, training and promotion prospects, job security and working environment.
+
+**Why is labour supply more elastic in the long run?**
+In the short run the workforce is largely fixed, so firms rely on overtime or poaching. In the long run people can train, move region and enter the occupation from education or abroad.
+
+**What determines the size of economic rent?**
+Economic rent grows as labour supply becomes less elastic, for example because of scarce talent, long training or entry barriers, and as demand strengthens. If supply is perfectly inelastic, all earnings are economic rent.
+
+**Do trade unions always reduce employment?**
+No. In a competitive market a union wage above equilibrium can reduce employment, but under monopsony a union can raise both wages and employment. Unions may also raise productivity, shifting marginal revenue product to the right.
+
+**What are compensating wage differentials?**
+Compensating differentials are higher wages paid for unpleasant or unsocial work, such as night shifts, to attract enough workers. They are one of several causes of wage differences, alongside skills, scarcity, union strength and monopsony power.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)*, specification Version 3.0 (June 2026), for first assessment in 2021, published by OCR.

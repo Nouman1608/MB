@@ -12,13 +12,13 @@ order: 2
 syllabusTopics:
   - qualification: "gcse"
     topic: "the-role-of-markets-and-money-ocr-gcse-economics"
-description: "Condensed recall notes on markets, demand, supply, price determination, competition, production, the labour market and the role of money, for OCR GCSE (9-1) Economics (J205), Topic 2."
+description: "Condensed revision notes on markets, demand and supply, price, competition, production, the labour market and money for OCR GCSE Economics (J205) Topic 2."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -230,6 +230,23 @@ Topic 2 follows directly from Topic 1 (economic agents and the basic economic pr
 6. New health research increases demand for a food product at every price. Does this shift the demand curve or cause a movement along it, and in which direction?
 
 **Answers:** 1. Movement: a change in price. Shift: a change in anything else (income, tastes, costs, number of suppliers). 2. The price and quantity at which the demand and supply curves intersect, where quantity demanded equals quantity supplied. 3. The responsiveness of quantity demanded or supplied to a change in price. 4. £1,800 − £410 = £1,390. 5. Any two: enabling saving, enabling borrowing, enabling investment, transmitting interest rate changes through the economy. 6. It shifts the whole demand curve to the right (outward), since the cause is a change in tastes/preferences rather than a change in the product's own price.
+
+## Frequently asked questions
+
+**What are the primary, secondary and tertiary sectors?**
+The primary sector extracts raw materials, the secondary sector manufactures goods, and the tertiary sector provides services.
+
+**What is the difference between a product market and a factor market?**
+A product market trades goods and services, while a factor market trades land, labour, capital or enterprise.
+
+**Why is demand for labour a derived demand?**
+Employers want workers because of the demand for the products those workers make. Labour demand also shifts with productivity and the cost of machinery.
+
+**What is the role of the financial sector?**
+Banks, building societies and insurers enable saving, borrowing and investment, and they transmit interest rate changes through the economy. Describing the financial sector only as "storing money" is a common mistake.
+
+**Do economies of scale reduce total cost?**
+No. Economies of scale reduce average cost, the cost per unit, as output rises. Total cost still rises as more is produced.
 
 ## Related resources
 

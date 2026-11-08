@@ -15,9 +15,9 @@ syllabusTopics:
     topic: "physical-chemistry-4ch1"
 description: "Study guide for Edexcel International GCSE Chemistry 4CH1 Topic 3: energetics, Q = mcΔT, bond energies, rates of reaction and equilibria."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -348,6 +348,20 @@ Adding a catalyst → no change in the amount of SO₃ at equilibrium
 ## Next steps
 
 Test yourself with the [Physical chemistry practice questions](/resources/edexcel-igcse-chemistry-physical-chemistry-practice/), then use the [revision notes](/resources/edexcel-igcse-chemistry-4ch1-physical-chemistry-revision-notes/) for the final weeks. Moles are in the [Principles of chemistry study guide](/resources/igcse-edexcel-chemistry-principles-of-chemistry/). The next topic is [Organic chemistry](/resources/edexcel-igcse-chemistry-4ch1-organic-chemistry/).
+
+## Frequently asked questions
+
+**Why does increasing temperature increase the rate of reaction?**
+Particles move faster, so they collide more often, and a greater proportion of collisions have energy equal to or greater than the activation energy. A full answer in Edexcel International GCSE Chemistry (4CH1) gives both effects.
+
+**How do you calculate ΔH using bond energies?**
+Draw displayed formulae, add up the energy of all bonds broken and all bonds made, then calculate ΔH = bonds broken − bonds made. A negative answer means the reaction is exothermic; this method is Paper 2 only.
+
+**How does changing pressure affect the position of equilibrium?**
+Increasing the pressure shifts the position of equilibrium towards the side with fewer moles of gas, and decreasing it favours the side with more moles of gas. Count only gas molecules, not solids or liquids.
+
+**Why are measured enthalpy changes less negative than data-book values?**
+Heat is lost to the surroundings during the experiment, and in combustion the fuel may burn incompletely. A lid, insulation and a draught shield reduce heat loss.
 
 ## Official syllabus
 

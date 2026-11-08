@@ -230,6 +230,23 @@ None of these is a business expense. All three are **drawings**: 14,000 + 300 + 
 
 Test yourself with the [practice questions](/resources/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts-practice/), then use the [revision notes](/resources/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts-revision-notes/). Check your readiness with the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is the difference between the public sector and the private sector?**
+Public sector organisations are owned and controlled by the government and aim mainly to provide a service, funded largely by taxes. Private sector organisations are owned by individuals or groups and usually aim to make a profit for the owners.
+
+**Does a sole trader have limited liability?**
+No. Sole traders and partners in an ordinary partnership have unlimited liability, so creditors can claim the owners' personal assets if the business cannot pay its debts.
+
+**How do stakeholders use financial statements in Edexcel IGCSE Accounting?**
+Each stakeholder uses different figures: a bank checks whether profit covers loan repayments, a supplier checks whether receivables and bank cover what it is owed, and the tax authority starts from profit. Name the stakeholder, the figure and the decision it supports.
+
+**What are the six accounting concepts in the 4AC1 specification?**
+The six concepts are consistency, prudence, accruals (matching), materiality, money measurement and business entity. Each is a ground rule that makes financial statements consistent and fair.
+
+**Does the business entity concept apply to a sole trader?**
+Yes. The business is treated as separate from its owner even though a sole trader is not legally separate from the business, so the owner's personal spending from the business is drawings, not an expense.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 1 The accounting environment, sections 1.1 Types of business organisation and 1.2 Accounting concepts.

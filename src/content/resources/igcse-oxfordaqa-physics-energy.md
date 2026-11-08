@@ -12,11 +12,11 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "energy-oxfordaqa-igcse"
-description: "Work, energy transfers, conservation, efficiency, Sankey diagrams and energy resources -- Topic 2 Energy of OxfordAQA International GCSE Physics (9203), the second of eight topics in the full award."
+description: "Work, energy transfers, conservation, efficiency, Sankey diagrams and energy resources: Topic 2 Energy of OxfordAQA International GCSE Physics (9203)."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -107,7 +107,7 @@ Renewable sources are replenished on a timescale relevant to their use, but thei
 | Tidal and wave | Tidal timing is predictable; wave energy provides another renewable coastal source | Few locations are suitable; equipment must withstand marine conditions and can affect coastal ecosystems |
 | Geothermal | Can provide steady output where accessible heat is close to the surface | Viable sites are limited; drilling and fluid management can affect the local environment |
 
-Energy-resource decisions also have social implications: reliability, energy security, jobs, cost, land use and who experiences the environmental effects. For example, a remote sunny community may reduce diesel deliveries with solar panels, but it needs storage or another supply when sunlight is weak. A strong answer names the context, compares benefits and drawbacks, and explains the trade-off instead of declaring one source universally best. The OxfordAQA specification explicitly expects comparison of renewability and environmental effects of extraction, use and disposal, and awareness of advantages and drawbacks of renewable technologies ([official specification, section 3.2.3](https://www.oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-international-gcse-physics-specification.pdf)).
+Energy-resource decisions also have social implications: reliability, energy security, jobs, cost, land use and who experiences the environmental effects. For example, a remote sunny community may reduce diesel deliveries with solar panels, but it needs storage or another supply when sunlight is weak. A strong answer names the context, compares benefits and drawbacks, and explains the trade-off instead of declaring one source universally best. The OxfordAQA specification explicitly expects comparison of renewability and environmental effects of extraction, use and disposal, and awareness of advantages and drawbacks of renewable technologies ([official specification, section 3.2.3](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-physics-specification.pdf)).
 
 ## Worked example: efficiency and Sankey diagrams
 
@@ -164,6 +164,20 @@ generic list of pros and cons.
 
 The specification itself frames this using the idea of energy as a useful accounting tool: it lets us calculate how long a resource will last, or whether a proposed event or transfer is even physically possible.
 
+## Frequently asked questions
+
+**Is OxfordAQA International GCSE Physics 9203 tiered?**
+No. It is a linear, untiered qualification with 120 guided learning hours, assessed by exams at the end of the course.
+
+**Which parts of OxfordAQA IGCSE energy are Physics only?**
+Content marked P, such as the simple pendulum as an example of oscillation between kinetic and gravitational potential energy, is assessed only in the full Physics (9203) award and not in Combined Science (9204).
+
+**Does a device with a higher power always transfer more energy?**
+No. A higher power transfers energy faster, but it does not necessarily transfer more total energy unless both devices run for the same length of time.
+
+**How should I answer energy resource comparison questions?**
+Avoid listing sources. Name the context, compare the benefits and drawbacks of each option, and explain the trade-off rather than declaring one source universally best.
+
 ## Related resources
 
 - [Energy revision notes](/resources/oxfordaqa-igcse-physics-energy-revision-notes/)
@@ -172,7 +186,7 @@ The specification itself frames this using the idea of energy as a useful accoun
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203) specification —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-international-gcse-physics-specification.pdf).
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-physics-specification.pdf).
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-oxfordaqa-physics-energy--04-pendulum-energy.webp" width="900" height="1030" alt="A 0.50 kg pendulum bob with a 0.20 m highest point: 0.98 J gravitational at the top, 0.98 J kinetic at the bottom (about 2.0 m/s), 0.49 J of each halfway; total always 0.98 J." loading="lazy">
@@ -233,4 +247,3 @@ OxfordAQA International GCSE Physics (9203) specification —
   <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--07-stretching-a-spring.webp" width="900" height="960" alt="A load-extension graph is a straight line through the origin with gradient 40 N/m up to the limit of proportionality at 8.0 N, then curves. At 6.0 N the extension is 0.15 m." loading="lazy">
   <figcaption>Up to the limit of proportionality force is proportional to extension: F = kx.</figcaption>
 </figure>
-

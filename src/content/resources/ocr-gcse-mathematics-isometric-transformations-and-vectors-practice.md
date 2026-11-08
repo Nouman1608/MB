@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "congruence-and-similarity-ocr-gcse-maths"
     subtopic: "plane-vector-geometry-ocr-gcse-maths"
-description: "Original practice questions with worked answers on reflections, rotations, translations, combinations and vectors for OCR GCSE Mathematics."
+description: "Original practice questions with worked answers on reflections, rotations, translations, combinations and vectors for OCR GCSE Mathematics (J560)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -155,6 +155,20 @@ Revise first with the [study guide](/resources/ocr-gcse-mathematics-isometric-tr
 - Go to the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) and the [checklist](/checklists/ocr/gcse/mathematics/).
 - Take the [free 10-minute diagnostics](/diagnostics/) to find your next topic.
 - Book a free trial class: [/trial/](/trial/).
+
+## Frequently asked questions
+
+**Which OCR GCSE Maths sections do these transformations and vectors questions cover?**
+They follow OCR GCSE (9-1) Mathematics J560 sections 9.01a to 9.01d and 9.03a and 9.03b. Combinations of transformations and vector proofs are Higher tier only; reflections, rotations, translations and vector arithmetic are for both tiers.
+
+**What details do you need to describe a rotation fully?**
+Give the centre of rotation, the angle and the sense, clockwise or anticlockwise. A 180° turn needs no sense, but leaving out any other detail loses marks.
+
+**How should you write a translation in the exam?**
+Describe a translation with a column vector, found by subtracting the object's coordinates from the image's. Writing it as a coordinate pair or in words alone is a common way to lose marks.
+
+**How do you show that two vectors are parallel in a proof?**
+Show that one vector equals a number multiplied by the other, and then write a sentence stating the geometric conclusion. Saying they are parallel without showing the multiple is not enough.
 
 ## Official syllabus
 

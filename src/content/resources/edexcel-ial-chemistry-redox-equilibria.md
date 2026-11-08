@@ -261,6 +261,23 @@ Both give 2H₂ + O₂ → 2H₂O overall.
 - Forgetting the ×5 for Fe²⁺, the ×2 for thiosulfate, or the scale-up to the full flask.
 - Adding starch too early.
 
+## Frequently asked questions
+
+**Which unit is redox equilibria in for Edexcel IAL Chemistry?**
+Topic 16: Redox Equilibria is International A2 content in Unit 5 of the Pearson Edexcel specification (YCH11). It includes Core Practicals 12, 13a and 13b, which can also be tested in the Unit 6 practical skills paper.
+
+**Why is a reference electrode needed to measure electrode potentials?**
+A single electrode potential cannot be measured, because a voltmeter needs two connections and reads a difference. Fixing the standard hydrogen electrode at zero puts every other half-cell on a common scale.
+
+**Why does concentration change an electrode potential?**
+A half-cell is an equilibrium, such as Ag⁺ + e⁻ ⇌ Ag. Raising the concentration of the oxidised form shifts it to the right and makes E more positive, so a measured E matches E⦵ only under standard conditions.
+
+**How do you use E⦵ values to test for disproportionation?**
+Take E⦵ for the half-equation in which the species is reduced, minus E⦵ for the half-equation in which it is the product. A positive result means the disproportionation is feasible.
+
+**How does a hydrogen-oxygen fuel cell work?**
+A fuel cell uses the energy released when a fuel reacts with oxygen to generate a voltage, with fuel and oxygen fed in continuously at separate electrodes. In both acidic and alkaline electrolytes the overall reaction is 2H₂ + O₂ → 2H₂O.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, published by Pearson Education Limited. Unit 5: Transition Metals and Organic Nitrogen Chemistry, Topic 16: Redox Equilibria, outcomes 16.1 to 16.19.

@@ -27,11 +27,11 @@ syllabusTopics:
     subtopic: "conservation-cambridge-igcse-biology"
 description: "Study guide for Cambridge IGCSE Biology 0610 topic 20: food production, habitat destruction, pollution, eutrophication and conservation, with examples."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This study guide teaches topic 20, Human influences on ecosystems, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. It covers syllabus sections 20.1 to 20.4: food supply, habitat destruction, pollution and conservation. Everything is Core unless it is labelled **Extended only** (Supplement content). Core candidates are examined on Papers 1 and 3; Extended candidates sit Papers 2 and 4, which test Core and Supplement content together.
@@ -256,6 +256,20 @@ When a population becomes very small, **genetic variation is reduced**. The spec
 ## Where to go next
 
 Condense this into the [revision notes](/resources/igcse-biology-0610-human-influences-on-ecosystems-revision-notes/), then try the [practice questions](/resources/igcse-biology-0610-human-influences-on-ecosystems-practice/).
+
+## Frequently asked questions
+
+**What is biodiversity?**
+In Cambridge IGCSE Biology 0610, biodiversity is the number of different species that live in an area.
+
+**Why does untreated sewage reduce the oxygen in a river?**
+Untreated sewage contains organic matter. Bacteria decompose it using aerobic respiration, which uses up dissolved oxygen, so organisms that need oxygen, such as fish, may die.
+
+**What are the main sources of carbon dioxide and methane pollution?**
+Carbon dioxide comes mainly from the combustion of fossil fuels and the burning of forests. Both gases absorb thermal energy and add to the enhanced greenhouse effect, which contributes to climate change.
+
+**What is the difference between AI and IVF in conservation?**
+In artificial insemination, sperm is collected from a male and placed into a female. In in vitro fertilisation, eggs are fertilised by sperm outside the body and the embryos are then placed into a female to develop.
 
 ## Official syllabus
 

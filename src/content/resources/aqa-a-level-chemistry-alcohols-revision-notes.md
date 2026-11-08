@@ -264,6 +264,23 @@ condenser; never heat a sealed system; use an electric heater, not a flame, with
 - Naming only one but-2-ene or pent-2-ene when E and Z both form.
 - Writing "white" or "brown" for the Fehling's precipitate.
 
+## Frequently asked questions
+
+**How do you tell whether an alcohol is primary, secondary or tertiary?**
+Look at the carbon bonded to the –OH group and count the carbons joined to it: one for primary (none in methanol), two for secondary and three for tertiary. Counting all the branches in the molecule gives the wrong class.
+
+**What colour change shows that an alcohol has been oxidised by acidified potassium dichromate(VI)?**
+The mixture turns from orange to green as Cr₂O₇²⁻ ions are reduced to Cr³⁺ ions. A tertiary alcohol is not easily oxidised, so the dichromate stays orange.
+
+**Why is bioethanol not truly carbon neutral?**
+By the photosynthesis, fermentation and combustion equations alone, the CO₂ absorbed equals the CO₂ released. In practice, fossil fuels are burned to power farm machinery, make fertiliser, distil the ethanol and transport it, so there is a net release of CO₂.
+
+**What are the reagent and conditions for eliminating water from an alcohol?**
+Heat the alcohol with concentrated sulfuric acid or concentrated phosphoric acid as a catalyst. In AQA A-level Chemistry 7405, remember to check each alkene product for E/Z isomers.
+
+**What colour is the precipitate when an aldehyde is warmed with Fehling's solution?**
+The blue solution gives a red precipitate with an aldehyde, while a ketone leaves it blue. Writing "white" or "brown" for the precipitate loses the mark.
+
 ## Official syllabus
 
 AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level

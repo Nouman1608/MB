@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "global-challenges-ocr-gcse"
     subtopic: "powering-earth-ocr-gcse"
-description: "Condensed notes on energy sources, usage trends, a.c. versus d.c. and the live, neutral and earth wires for OCR GCSE Physics A (J249)."
+description: "Condensed notes on energy resources, trends in energy use, a.c. versus d.c. and the live, neutral and earth wires for OCR GCSE Physics A (J249), topic P8.2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false
@@ -226,6 +226,23 @@ Quick recall notes for OCR GCSE (9-1) Physics A (Gateway Science), J249, Version
 - Stating that the neutral wire is safe to touch. Say it is near 0 V in normal use only.
 - Not linking the open switch to the live wire still being connected.
 - Treating insulation as stopping current in a faulty circuit, rather than stopping contact with the conductor.
+
+## Frequently asked questions
+
+**What does OCR GCSE Physics A topic P8.2 cover?**
+In OCR GCSE (9-1) Physics A (J249), these statements cover the main energy resources, patterns and trends in their use, the UK mains supply, direct and alternating potential difference, and the live, neutral and earth wires.
+
+**What is the difference between a.c. and d.c.?**
+In a direct potential difference the direction stays the same, as from a cell or battery. In an alternating potential difference the direction reverses repeatedly, as in the mains supply.
+
+**What is the UK mains supply voltage and frequency?**
+The UK domestic mains supply is alternating current at 50 Hz and about 230 V. A frequency of 50 Hz means 50 complete cycles every second.
+
+**Does the earth wire carry current?**
+Not in normal use. The neutral wire completes the circuit, while the earth wire is a safety wire connected to the metal case that only carries current if there is a fault.
+
+**How do I describe a trend from an energy data table?**
+Quote the start and end values with their units, then describe the change. A trend answer without figures from the data usually loses marks.
 
 ## Official syllabus
 

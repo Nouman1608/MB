@@ -14,9 +14,9 @@ syllabusTopics:
     topic: "ib-dp-physics-topic-a"
 description: "Condensed recall notes on kinematics (topic A.1), common to both SL and HL, for IB Diploma Programme Physics."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-08-26
 featured: false
 ---
@@ -155,6 +155,19 @@ themselves vectors and inherit the same sign-convention discipline.
   <figcaption>With up positive the ball has a negative acceleration all the time, and signed areas give displacement.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Is there HL-only content in IB DP Physics A.1 Kinematics?**
+No. Topic A.1 is common to both SL and HL, and the syllabus adds no separate higher level content or extensions.
+
+**Can SUVAT be used when acceleration is changing?**
+No. The four SUVAT equations hold only for constant acceleration. For a curved velocity-time graph, use the gradient and estimate the area under the curve instead.
+
+**Why should distance not be substituted into SUVAT equations?**
+SUVAT needs displacement and velocity, which are vectors. A ball thrown up and caught at the same point travels twice its maximum height, but its displacement is zero.
+
+**How does kinematics link to A.2 Forces and momentum?**
+A.2 extends kinematics by asking what causes acceleration, adding Newton's laws and momentum. Forces and momentum are vectors, so they rely on the same sign conventions.
 
 ## Official syllabus
 

@@ -202,6 +202,20 @@ Worked reminder: H0 = 68 km s⁻¹ Mpc⁻¹ is 68 / 3.09 × 10¹⁹ = 2.20 × 10
 * Using t = 1/H0 with H0 still in km s⁻¹ Mpc⁻¹.
 * Describing the CMB as a "cold spot" rather than radiation arriving from all directions.
 
+## Frequently asked questions
+
+**How many light-years are in a parsec?**
+One parsec is about 3.26 light-years, or about 3.09 × 10¹⁶ m. A light-year, about 9.46 × 10¹⁵ m, is a distance, not a time.
+
+**Why does the expanding universe have no centre?**
+By the Cosmological principle no place is special, so an observer in any galaxy would see all distant galaxies receding with speed proportional to distance. Space itself expands, like dots on an inflating balloon moving apart from every dot.
+
+**How do you convert the Hubble constant into s⁻¹?**
+Convert megaparsecs to kilometres using 1 Mpc = 3.09 × 10¹⁹ km, then divide. For H0 = 70 km s⁻¹ Mpc⁻¹ this gives about 2.27 × 10⁻¹⁸ s⁻¹.
+
+**Which part of OCR A Level Physics A covers cosmology?**
+Cosmology is section 5.5.3, statements (a) to (o), of OCR H556, in module 5 (Newtonian world and astrophysics). It covers distance units, parallax, the Doppler shift, Hubble's law, the Big Bang and the composition of the universe.
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556), Version 3.0 (March 2026), first assessment 2017, published by OCR. Section 5.5.3, Cosmology.

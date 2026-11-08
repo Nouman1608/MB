@@ -262,6 +262,20 @@ The pressure falls to about a third, nearly tripling the volume; the cooling shr
 
 Next, condense this unit with the [Structure 1.5 revision notes](/resources/ib-dp-chemistry-ideal-gases-revision-notes/) and then try the [Structure 1.5 questions](/resources/ib-dp-chemistry-ideal-gases-practice/). For the wider component, see the [Structure 1 summary notes](/resources/ib-dp-chemistry-structure-1-revision-notes/).
 
+## Frequently asked questions
+
+**What is an ideal gas?**
+An ideal gas is a model, not a real substance: its particles move randomly, take up negligible volume, have no intermolecular forces and collide elastically. Real gases approach ideal behaviour when particles are far apart and moving fast.
+
+**Why does a real gas deviate from ideal behaviour at high pressure?**
+At high pressure the particles are pushed close together, so their own volume becomes a significant fraction of the container and the negligible-volume assumption fails. At low temperature, the no-forces assumption fails instead.
+
+**How can you estimate absolute zero from gas data?**
+Plot volume against temperature in °C at constant pressure and extend the straight line back to where the volume would be zero; it meets the temperature axis close to −273 °C. A real gas would condense long before then.
+
+**What is the combined gas law?**
+For a fixed amount of gas moving between conditions, P₁V₁/T₁ = P₂V₂/T₂. Any consistent pressure and volume units can be used, but temperature must be in kelvin.
+
 ## Official syllabus
 
 This page is based on the *Diploma Programme Chemistry guide* (International Baccalaureate Organization), first assessment 2025, published February 2023, sub-topic Structure 1.5.

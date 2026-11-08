@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "equations-formulae-and-identities-edexcel-igcse-maths"
-description: "Condensed recall notes on index notation, expanding, factorising, algebraic fractions and completing the square for Pearson Edexcel International GCSE Mathematics (4MA1), Higher Tier sub-topics 2.1-2.2."
+description: "Quick-recall notes on index laws, expanding, factorising, algebraic fractions, completing the square and proof for Edexcel IGCSE Maths 4MA1 Higher tier."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -189,6 +189,20 @@ A typical exam task: "Prove that the sum of any two consecutive odd numbers is a
 5. (x+1)/(x−1) + (x−2)/(x+1) = [(x+1)² + (x−2)(x−1)] / [(x−1)(x+1)] = (x² + 2x + 1 + x² − 3x + 2) / (x² − 1) = **(2x² − x + 3)/(x² − 1)**.
 
 Higher-tier candidates should expect 2.2A–2.2E assessed **both in isolation and combined** within a single longer question — practising them together is genuinely representative of exam demand.
+
+## Frequently asked questions
+
+**What does x⁰ equal?**
+x⁰ = 1 for any non-zero x. Similarly, x⁻³ means 1/x³ and x^(1/2) means the square root of x.
+
+**How do you expand three brackets?**
+Multiply the first two brackets fully and simplify, then multiply the result by the third bracket. Working systematically like this reduces sign errors.
+
+**Can you cancel terms in an algebraic fraction?**
+Only common factors can be cancelled, not separate added terms. Factorise the numerator and denominator fully first, then cancel any bracket that appears in both.
+
+**How do you prove a result using algebra in IGCSE Maths?**
+Represent the numbers in general form, such as 2n for any even number or 2n + 1 for an odd number, then simplify the expression to show it has the required property.
 
 ## Official syllabus
 

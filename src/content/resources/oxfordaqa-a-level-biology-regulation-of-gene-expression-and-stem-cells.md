@@ -180,6 +180,23 @@ In a trial, 78 of 120 treated patients improved, against 45 of 120 controls. Tre
 - Mixing up potency. Only totipotent cells can form a whole organism, and they exist only briefly in early mammalian embryos. Multipotent cells form a narrower range than pluripotent ones; unipotent cells form one type.
 - Treating a correlation in a methylation table as proof of cause.
 
+## Frequently asked questions
+
+**What is the difference between totipotent, pluripotent, multipotent and unipotent stem cells?**
+Potency falls in that order. Only totipotent cells can form a whole organism, and in mammals they exist only briefly in early embryos; pluripotent, multipotent and unipotent cells are all present in mature mammals and each gives rise to a more restricted range of cell types.
+
+**How does methylation of a promoter switch a gene off?**
+Methyl groups are added to DNA, commonly to cytosine bases in the gene's promoter. This makes the gene harder for the transcription machinery to use, so less mRNA is transcribed, even though the base sequence is unchanged.
+
+**How can knowledge of tumour suppressor genes be used to prevent cancer?**
+Testing for harmful alleles of tumour suppressor genes, such as BRCA1 and BRCA2, identifies people at higher risk, who can then choose extra screening or other preventive steps. A test shows risk, not certainty.
+
+**How is RNA interference used in research?**
+Because siRNA can be designed to pair with one specific mRNA, it can be used to silence a single gene and see what happens. For example, siRNA against an oncogene's mRNA reduces the cancer-promoting protein.
+
+**Which part of the OxfordAQA 9610 specification covers gene expression and stem cells?**
+Section 3.4.9 of Unit 4: Control, split into 3.4.9.1 epigenetic control and cancer genes, 3.4.9.2 RNA interference, and 3.4.9.3 stem cells and potency.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Biology (9610)*, Version 5.1, section 3.4.9 (3.4.9.1 to 3.4.9.3). Check oxfordaqa.com/9610 for the current specification.

@@ -13,13 +13,13 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "what-is-business-oxfordaqa-alevel-business"
-description: "Condensed recall notes on business purpose, ownership, stakeholders, market analysis and the external environment for A Level Business, primarily 9625 with 9725 divergences flagged."
+description: "Condensed notes on purpose, ownership, stakeholders, markets and the external environment for OxfordAQA International AS Business 9625, with 9725 changes noted."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -278,3 +278,16 @@ analysis (AO3) around 20–25% and evaluation (AO4) around 17.5–22.5%.
   <figcaption>Knowledge and application carry the most marks, but analysis and evaluation separate the top answers.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does SMART stand for in business objectives?**
+Specific, Measurable, Achievable, Relevant and Time-bound. "Increase sales" is not an objective; "increase sales by 10% within twelve months" is.
+
+**What forms of business ownership are in OxfordAQA 9625 and 9725?**
+9625 lists sole traders, private and public limited companies, private and public sector organisations, non-profit organisations and co-operatives, with no partnership category. 9725 reverses this, adding partnerships and dropping co-operatives.
+
+**What happens to exporters when a currency strengthens?**
+A strong currency makes imports cheap and exports dear (the SPICED memory hook), so exporters become less price competitive abroad while businesses that import inputs benefit.
+
+**Why can discount retailers grow during a recession?**
+Many of their goods are inferior goods with negative income elasticity of demand, so demand for them rises as incomes fall, while demand for luxury goods with high positive income elasticity falls sharply.

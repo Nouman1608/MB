@@ -286,6 +286,19 @@ $26,300.
   <figcaption>Loan interest is an expense before profit; salaries and interest on capital are shares of profit after it.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What types of partnership business are there?**
+A partnership can be a trading business, a service business with no cost of sales, a manufacturing business that prepares a manufacturing account first, or a combination. Every type ends at profit for the year, which the appropriation account then shares.
+
+**How is a debit balance on a partner's current account shown?**
+A debit balance means the partner has taken out more than has been credited. In the statement of financial position it is deducted, not added, when the partners' capital and current accounts are totalled.
+
+**Is a partner's loan part of capital?**
+No. A partner's loan is a liability of the business, so it is shown outside the partners' capital and current accounts.
+
+**How is a loss shared between partners?**
+A loss is shared in the profit-sharing ratio set by the agreement and debited to the current accounts. Sharing it in the wrong ratio or ignoring it are common errors.
 
 ## Official syllabus
 

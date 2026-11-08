@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "newtonian-world-and-astrophysics"
     subtopic: "oscillations-ocr-alevel"
-description: "Original practice questions with worked answers on SHM, energy, damping and resonance for OCR A Level Physics A (H556) section 5.3."
+description: "Original practice questions with worked answers on simple harmonic motion, SHM energy, damping and resonance for OCR A Level Physics A (H556) section 5.3."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false
@@ -134,6 +134,20 @@ These questions cover section 5.3 (Oscillations) of the OCR Advanced GCE in Phys
 - Describing a damped oscillation without the loss of energy as thermal energy.
 - Leaving the peak position unchanged but taller when damping is added.
 - Writing "frequencies match" at resonance without naming driving and natural.
+
+## Frequently asked questions
+
+**What are the most common mistakes in simple harmonic motion questions?**
+Common errors include leaving out the direction towards equilibrium in a = −ω²x, using degrees instead of radians in x = A sin ωt, taking the amplitude as the peak-to-peak distance, and forgetting 2π when changing between f and ω.
+
+**How does damping change a resonance curve?**
+More damping gives a lower and broader peak, with its maximum at a slightly lower frequency. Drawing a taller peak, or one unchanged in position, is marked wrong.
+
+**How does the energy of an oscillator depend on amplitude?**
+The total energy is proportional to the square of the amplitude, E = ½mω²A². Saying energy rises with A rather than A² is a common error.
+
+**How do you describe resonance for full marks?**
+Say that resonance happens when the driving frequency equals the natural frequency of the oscillator, giving maximum amplitude. Writing only "the frequencies match" without naming driving and natural loses the mark.
 
 ## Next steps
 

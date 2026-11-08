@@ -11,7 +11,7 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Individuals and Societies"]
 syllabusSeries: "From 2014"
 order: 2
-description: "The discipline options and four assessment criteria of IB Middle Years Programme Individuals and Societies -- knowing and understanding, investigating, communicating, thinking critically -- and the structure of its on-screen eAssessment."
+description: "The IB MYP Individuals and Societies framework: discipline options, key and related concepts, the four criteria A to D, teaching hours and on-screen exam tasks."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -147,6 +147,20 @@ sure a protest movement is successful?", models the kind of
 extended-writing, multi-perspective argument the thinking-critically
 task expects: taking a position, weighing it against alternatives, and
 reaching a reasoned judgement rather than simply describing events.
+
+## Frequently asked questions
+
+**How many teaching hours does MYP Individuals and Societies need?**
+The MYP requires at least 50 hours of teaching time for individuals and societies in each year, with a recommended 70 hours of guided learning per year in MYP years 4 and 5 for students pursuing eAssessment.
+
+**Why does MYP Individuals and Societies content vary between schools?**
+Which disciplines a school teaches is a school-level decision, so the content students study can vary considerably even though the subject group name and assessment criteria stay the same.
+
+**What does each MYP Individuals and Societies criterion assess?**
+Criterion A assesses factual and conceptual knowledge, B systematic research skills, C organising and communicating learning, and D critical thinking about individuals and societies and the process of investigation.
+
+**Is the MYP assessment structure the same across subjects?**
+Yes. Every MYP subject group uses four equally weighted criteria, each scored on eight achievement levels in four bands, although the criterion names and content differ.
 
 ## Official syllabus
 

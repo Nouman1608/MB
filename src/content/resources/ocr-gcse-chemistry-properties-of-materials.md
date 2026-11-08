@@ -250,6 +250,20 @@ Link each risk to a property (size, surface area, reactivity), weigh it against 
 
 When you finish, check recall using the [revision notes](/resources/ocr-gcse-chemistry-properties-of-materials-revision-notes/), attempt the [practice questions](/resources/ocr-gcse-chemistry-properties-of-materials-practice/), and read [OCR GCSE Chemistry exam preparation](/resources/ocr-gcse-chemistry-exam-preparation/) for paper structure and timing.
 
+## Frequently asked questions
+
+**Why do simple molecular substances have low boiling points?**
+Heating a simple molecular substance only has to overcome the weak intermolecular forces between molecules; the covalent bonds inside each molecule stay intact. Giant structures have strong bonds throughout that must be broken, so they need much more energy.
+
+**What size are nanoparticles?**
+Nanoparticles are usually taken as particles between 1 nm and 100 nm across, where 1 nm is 1 × 10⁻⁹ m. In OCR GCSE Chemistry A (J248), nanoparticle content is separate-chemistry content, not part of combined science.
+
+**Do single atoms have bulk properties?**
+No. Bulk properties such as hardness, conductivity and melting point belong to a large sample. A single copper atom is not shiny or a conductor; those properties come from billions of atoms bonded together.
+
+**What are nanoparticles used for?**
+Uses include catalysts, silver nanoparticles in antibacterial wound dressings, titanium dioxide and zinc oxide in sunscreens, and carbon nanotubes in sports equipment and electronics. Fullerene cages are being developed for drug delivery.
+
 ## Official syllabus
 
-OCR specification J248, Chemistry A (Gateway Science), Cambridge OCR Level 1/Level 2 GCSE (9-1): Version 4.0, August 2026; first assessment 2018. This page draws on sub-topic C2.3 Properties of materials.
+OCR specification J248, Chemistry A (Gateway Science), OCR Level 1/Level 2 GCSE (9-1): Version 4.0, August 2026; first assessment 2018. This page draws on sub-topic C2.3 Properties of materials.

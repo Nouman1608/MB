@@ -262,6 +262,20 @@ If a place has a mean annual temperature of 26 °C and 2,800 mm of rain a year (
 - Describing convergence as shared ancestry.
 - Using unnamed organisms when the question asks for named species.
 
+## Frequently asked questions
+
+**What is a range of tolerance?**
+A range of tolerance is the span of values of an abiotic variable within which a species can survive. It has an optimum in the middle, zones of stress either side, and limits of tolerance beyond which the species is absent.
+
+**What conditions do coral reefs need to form?**
+Coral reefs need shallow, clear, warm water (roughly 23 to 29 °C), stable salinity near that of the open ocean, and slightly alkaline seawater at about pH 8.1, as listed in IB DP Biology B4.1.5.
+
+**How do you answer an adaptation question in IB DP Biology?**
+Name the abiotic problem, state the feature, then explain how the feature helps; for example, rolled marram grass leaves trap humid air, so less water is lost by transpiration.
+
+**Which axes are used on a biome distribution graph?**
+Mean annual temperature goes on the horizontal axis and annual rainfall on the vertical axis, with a region marked for each biome.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section B4.1, Adaptation to environment.

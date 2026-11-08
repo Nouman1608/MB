@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "identification-of-ions-and-gases"
 description: "Condensed recall notes on every qualitative analysis test — cations, anions, gases and flame colours — for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -114,3 +114,17 @@ If a question describes a solid reacting (for example, a carbonate with acid) an
 7. Why does calcium give no precipitate with aqueous ammonia?
 
 **Answers:** 1. Zn²⁺ or Al³⁺ — add ammonia solution instead: the zinc precipitate redissolves in excess, the aluminium one does not. 2. Oxygen. 3. To remove carbonate ions, which would otherwise form a precipitate and give a false positive. 4. Bromide, Br⁻. 5. Potassium = lilac; calcium = orange-red. 6. Chromium(III), Cr³⁺. 7. Aqueous ammonia is too weak a base to precipitate calcium hydroxide, which is comparatively soluble, in any noticeable amount.
+
+## Frequently asked questions
+
+**How do you distinguish Zn²⁺ from Al³⁺ in IGCSE Chemistry?**
+Both give white precipitates that dissolve in excess sodium hydroxide. Use aqueous ammonia instead: the zinc precipitate redissolves in excess ammonia, but the aluminium precipitate does not.
+
+**Why do you acidify before testing for halide or sulfate ions?**
+Acidifying removes carbonate ions, which would otherwise also form a precipitate and give a false positive result.
+
+**Does calcium give a precipitate with aqueous ammonia?**
+No. Ammonia is too weak a base to give a useful precipitate with calcium ions, and that absence is itself the identifying result.
+
+**How do chlorine and ammonia affect damp litmus paper differently?**
+Chlorine bleaches damp litmus paper, while ammonia turns damp red litmus paper blue.

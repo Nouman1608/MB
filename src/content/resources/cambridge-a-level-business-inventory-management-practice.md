@@ -121,6 +121,20 @@ An order is placed on day 12 and the delivery arrives on day 20.
 - Take one of the [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which section of Cambridge AS and A Level Business 9609 do these questions cover?**
+Section 4.2 Inventory management (4.2.1 and 4.2.2), an AS Level section, including inventory control charts, re-order levels, supply chain management and JIT.
+
+**How do you calculate the re-order level?**
+Multiply daily usage by the lead time in days, then add the buffer inventory. Leaving the buffer out is a common error.
+
+**Does just in time mean holding no inventory?**
+No. JIT means holding the minimum inventory, with materials arriving just as they are needed, not zero inventory.
+
+**What is often forgotten when comparing JIT with JIC costs?**
+The bulk-buying discount that may be lost by ordering smaller amounts more often. Include it alongside the saving on holding costs.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education), section 4.2 Inventory management.

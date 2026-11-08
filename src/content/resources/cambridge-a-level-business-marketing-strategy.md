@@ -225,6 +225,20 @@ Net over 3 years = 3 × annual figure − set-up cost. Payback = set-up cost ÷ 
 - Treating pan-global and local adaptation as an all-or-nothing choice.
 - Recommending a market or entry method without using the figures and context given.
 
+## Frequently asked questions
+
+**What must a marketing strategy be consistent with?**
+In Cambridge 9609 section 8.2, a strategy must fit the business (its objectives, size, finance and image), the product and its life-cycle stage, and the market it targets.
+
+**What is a coordinated marketing strategy?**
+One where the four parts of the marketing mix send one message to one target group, and other functions such as operations, finance and human resources support it.
+
+**Why do businesses market internationally?**
+Reasons include a saturated or small home market, faster growth abroad and spreading risk across several markets. Threats include foreign competition and exchange-rate and legal risk.
+
+**Is pan-global versus local marketing an all-or-nothing choice?**
+No. A common middle path is one global brand with some adaptation of the product or message for each market, depending on how culture-linked the product is.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge Assessment International Education: section 8.2 (Marketing strategy).

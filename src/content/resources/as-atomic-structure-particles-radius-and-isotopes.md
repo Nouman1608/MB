@@ -19,9 +19,9 @@ syllabusTopics:
     subtopic: "as-isotopes"
 description: "Subatomic particles, deflection in an electric field, atomic and ionic radius trends, and isotopes, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -197,6 +197,20 @@ a group (shielding/distance)
   but nuclear-mass differences can affect vibrational behaviour and some
   rates. Compare density only for samples in the same physical form under
   matched conditions.
+
+## Frequently asked questions
+
+**Why do electrons deflect more than protons in an electric field?**
+Protons and electrons deflect in opposite directions because they have opposite charges. Electrons deflect further because their mass is much smaller; neutrons are not deflected because they have no charge.
+
+**Why do isotopes of an element have the same chemical properties?**
+Chemical behaviour depends on the arrangement of electrons, and isotopes of the same element have the same number of protons and electrons. They differ only in the number of neutrons, which affects physical properties such as mass and density.
+
+**Which syllabus points does this Cambridge 9701 guide cover?**
+It covers subtopics 1.1, Particles in the atom and atomic radius, and 1.2, Isotopes, from Topic 1 of Cambridge International AS & A Level Chemistry 9701 for the 2025–2027 series. Both are AS Level content.
+
+**Does shielding increase across a period?**
+No. Shielding stays roughly constant across a period because electrons are added to the same shell. The decrease in atomic radius is caused by increasing nuclear charge.
 
 ## Related resources
 

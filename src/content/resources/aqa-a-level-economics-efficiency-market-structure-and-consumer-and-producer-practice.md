@@ -137,6 +137,20 @@ Using the data, assess the two industries' static and dynamic performance. **[4]
 - Listing conduct and performance indicators without saying what each shows.
 - Reaching a one-sided conclusion on "always" statements.
 
+## Frequently asked questions
+
+**Where does a monopolist's price come from on a diagram?**
+Output comes from where MR equals MC, but the price is read from the demand curve at that output, not from the MR curve.
+
+**Which triangle is the deadweight loss?**
+The deadweight loss is the wedge between the demand curve and the MC curve over the output that is no longer traded. Shading the wrong triangle is a common error.
+
+**Is monopoly profit a deadweight loss?**
+No. Supernormal profit is a transfer from consumers to the producer, not a loss to society.
+
+**How should I answer an always statement about monopoly or efficiency?**
+Avoid a one-sided conclusion. Argue from the evidence and say under what conditions the statement holds.
+
 ## Next steps
 
 - Review the [revision notes](/resources/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer/).

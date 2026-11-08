@@ -33,9 +33,9 @@ description: "Condensed OxfordAQA 9690 Unit 3 notes: key terms, development theo
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 For full explanations and worked paragraphs, use the [Unit 3 People and development study guide](/resources/oxfordaqa-a-level-sociology-9690-people-and-development/).
@@ -173,6 +173,20 @@ Assessment reminders from the specification: AO1, AO2 and AO3 are roughly equal 
 ## Where next
 
 See the [OxfordAQA 9690 exam preparation guide](/resources/oxfordaqa-a-level-sociology-exam-preparation/) for how Unit 3 sits with the other units.
+
+## Frequently asked questions
+
+**What is the Great Divergence?**
+The Great Divergence is the widening gap in wealth and industry between western Europe, and later North America, and most of the world from the nineteenth century.
+
+**What is the difference between colonialism and neocolonialism?**
+Colonialism is direct political control of a territory and extraction of its resources and labour. Neocolonialism is indirect control after independence.
+
+**What is the difference between modernisation and dependency explanations?**
+Modernisation theory sees internal obstacles, such as traditional values, holding countries back. Dependency theory sees external obstacles, mainly exploitation by richer countries.
+
+**How should you define development in OxfordAQA 9690?**
+Not by income alone. The specification lists social indicators such as life expectancy, education, health, rights of women and other groups, human rights and democracy.
 
 ## Official syllabus
 

@@ -24,11 +24,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "probability-and-statistics-1-cambridge-alevel"
     subtopic: "the-normal-distribution-cambridge-alevel-maths"
-description: "Original exam-style Probability & Statistics 1 questions with full worked answers on probability distributions, conditional probability, the geometric distribution, permutations, the normal distribution and the normal approximation to the binomial, for Cambridge AS & A Level Mathematics 9709 Paper 5."
+description: "Original Cambridge 9709 Paper 5 practice questions with worked answers on probability, the geometric and normal distributions, permutations and approximations."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-24
 featured: false
 ---
@@ -121,3 +121,20 @@ Each question practises a skill tested in the June 2025 Paper 5 series. After ea
 - Conditional probability found as P(A and B) without dividing by P(B).
 - Repeated letters not divided out in arrangements.
 - z-values given the wrong sign.
+
+## Frequently asked questions
+
+**What topics are tested on Cambridge 9709 Paper 5 (Probability & Statistics 1)?**
+These practice questions cover probability distributions, conditional probability with tree diagrams, the geometric distribution, permutations with repeated letters, the normal distribution and the normal approximation to the binomial.
+
+**When do you use a continuity correction?**
+Use one when approximating a discrete binomial distribution with a continuous normal distribution. Write the inequality in whole numbers first, so "more than 100" becomes X ≥ 101, then use 100.5 as the boundary.
+
+**How do you find a conditional probability from a tree diagram?**
+Divide the probability of both events happening by the probability of the given event: P(A | B) = P(A and B) ÷ P(B). Forgetting to divide by P(B) is a common way to lose marks.
+
+**How do you count arrangements of letters with repeats?**
+Divide the factorial of the total number of letters by the factorial of the number of times each letter repeats. For "not together" questions, arrange the other letters first and then place the repeated letters in the gaps.
+
+**What is the probability that the first success happens within n trials in a geometric distribution?**
+It is 1 − qⁿ, where q is the probability of failure on each trial, because the only way to fail is to have n failures in a row.

@@ -182,6 +182,20 @@ Links: [revision notes for this set](/resources/ib-dp-physics-kinematics-2-revis
 - Try the [free 10-minute diagnostics](/diagnostics/) for all subjects.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these IB DP Physics kinematics questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Are these A.1 kinematics questions for SL or HL?**
+Both. The content of A.1 Kinematics is the same at SL and HL.
+
+**What value of g and assumptions do these questions use?**
+Use g = 9.81 m s⁻² and ignore fluid resistance unless a question tells you otherwise.
+
+**Is this the only set of A.1 practice questions?**
+No. This is a second set; the earlier A.1 practice questions are a different set, linked at the top of this page.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Physics guide* (Diploma Programme), first assessment 2025, section A.1 Kinematics.

@@ -285,6 +285,23 @@ When you evaluate, use these to qualify your conclusion, not as a stand-alone li
 - Treating a high current ratio as always good, when it may mean idle inventory or slow collection.
 - Saying depreciation is a cash outflow.
 
+## Frequently asked questions
+
+**Do you need to learn the ratio formulae for AQA A-Level Accounting 7127?**
+Yes. The specification's appendix of accounting ratios says candidates will be required to know the formulae, so they are not given in the exam. Section 3.8 covers calculating and appraising the ratios.
+
+**Why is interest added back when calculating ROCE for a sole trader?**
+ROCE measures the return on all long-term funds, including loans, so loan interest is added back to profit. For a limited company, profit from operations is used.
+
+**Why can a business make a profit but have less cash?**
+Profit is measured under the accruals concept, while cash is money actually received and paid. Credit sales, depreciation, inventory and non-current asset purchases, loans and drawings all make cash and profit differ.
+
+**Should receivable days use total revenue or credit sales?**
+Use credit sales, because cash sales never create a receivable. Using total revenue understates receivable days.
+
+**What are the non-financial limitations of ratio analysis?**
+Financial statements do not show staff skill or morale, customer satisfaction, reputation, market conditions, product quality, environmental impact or management quality. Use these to qualify a conclusion rather than as a stand-alone list.
+
 Next, test recall with the [revision notes](/resources/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information-revision-notes/) and then try the [practice questions](/resources/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information-practice/). The [exam preparation guide](/resources/aqa-a-level-accounting-exam-preparation/) explains the structure of both papers.
 
 ## Official syllabus

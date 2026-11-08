@@ -1,19 +1,19 @@
 ---
-title: "IB DP History: The Four Historical Concepts -- Practice Questions"
+title: "IB DP History: The Six Key Concepts -- Practice Questions"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["ib"]
-topic: "Historical concepts (cause and consequence, continuity and change, perspectives, significance)"
+topic: "Key concepts (change, continuity, causation, consequence, significance, perspectives)"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP History"]
-syllabusSeries: "First assessment 2028"
+syllabusSeries: "First assessment 2017"
 order: 3
-description: "Original practice questions with full worked answers applying cause and consequence, continuity and change, perspectives, and significance to historical scenarios, for IB Diploma Programme History's four transferable concepts."
+description: "Original practice questions with worked answers on the six key concepts of IB DP History (first assessed 2017), from spotting the concept to essay plans."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: rewritten from the 2028 four-concept framing to the six key concepts of the current course (first assessment 2017) per owner decision; slug kept; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -24,75 +24,84 @@ featured: false
 > mark tariffs -- the IB holds copyright in its own papers. Use these alongside
 > the official past papers available through your school or the IB store.
 
-Related: [Four Historical Concepts revision notes](/resources/ib-dp-history-four-concepts-revision-notes/)
+Related: [Six key concepts revision notes](/resources/ib-dp-history-four-concepts-revision-notes/)
 and the [IB DP History syllabus guide](/resources/ib-dp-history-syllabus-guide/).
+
+These questions practise the six key concepts of IB DP History (first
+assessed 2017): change, continuity, causation, consequence,
+significance and perspectives. Section A checks recall, Section B asks
+you to apply a concept to short scenarios, and Section C asks for essay
+plans of the kind Paper 2 and Paper 3 reward. Worked answers follow.
 
 ## Section A
 
-**1.** Name the four historical concepts that structure DP History's external papers. **[4]**
+**1.** Name the six key concepts of IB DP History. **[6]**
 
 **2.** Distinguish a long-term cause from a short-term cause. **[2]**
 
-**3.** State why correlation between two historical events is not, by itself, evidence of causation. **[2]**
+**3.** Explain the difference between consequence and significance. **[2]**
 
 ## Section B
 
-**4.** A historian argues that a revolution was caused entirely by a single economic crisis, ignoring other contributing factors.
+**4.** For each question, identify the key concept it mainly targets. **[4]**
 
-**(a)** Explain why this is a weak use of the "cause and consequence" concept. **[2]**
-**(b)** Suggest, in general terms, what a stronger causal analysis of the same event would include. **[2]**
+(a) "Discuss the reasons for the rise to power of Mussolini."
+(b) "Examine the impact of the Second World War on the role of women in two countries."
+(c) "To what extent did the Meiji reforms change Japanese society?"
+(d) "Evaluate the significance of the Marshall Plan for the development of the Cold War."
 
-**5.** Two accounts of the same colonial-era event are written: one by a colonial administrator, one by a member of the colonised population.
+**5.** A student writes: "The Russian Revolution of 1917 changed everything in Russia."
 
-**(a)** Using the concept of "perspectives," explain why these accounts might differ substantially despite describing the same facts. **[3]**
-**(b)** Explain why recognising a source's perspective is a precondition for evaluating its reliability. **[2]**
+(a) Explain why this is a weak use of the concept of change. **[2]**
+(b) Suggest two pieces of evidence of continuity that would strengthen the answer. **[2]**
 
-**6.** A ten-year period in a country's history is often described by textbooks as "an era of total transformation."
+**6.** Two accounts describe the same colonial uprising: one by a colonial administrator in an official report, one by a participant in a memoir written thirty years later.
 
-**(a)** Using the concept of "continuity and change," explain why this kind of all-or-nothing verdict should be treated with caution. **[3]**
-**(b)** Suggest what a stronger, more evidenced account of the same period might look like. **[2]**
+(a) Explain two reasons why their perspectives might differ. **[4]**
+(b) Explain one value and one limitation of the memoir for an historian studying the participants' motives. **[2]**
 
 ## Section C
 
-**7.** Using a historical figure or event you have studied, argue for its historical significance using explicit criteria. **[8]**
+**7.** Plan an answer to: "Evaluate the significance of one event you have studied for the region in which it took place." State your criteria and how you would apply them. **[8]**
 
-**8.** Choosing one event from your focused study, thematic study or regional study, apply all four historical concepts (cause and consequence, continuity and change, perspectives, significance) to explain why the event matters and how it should be understood. **[8]**
+**8.** Plan an answer to: "To what extent was economic crisis the main cause of the rise to power of one authoritarian leader?" Show how you would rank the causes. **[8]**
 
 ## Worked answers
 
-**1.** Cause and consequence, continuity and change, perspectives, and significance. **[4]**
+**1.** Change, continuity, causation, consequence, significance, perspectives. One mark each. **[6]**
 
-**2.** A long-term cause is an underlying condition building over years or decades before an event; a short-term cause is an immediate trigger occurring shortly before the event. **[2]**
+**2.** A long-term cause is an underlying condition that built up over years or decades (for example, economic weakness or nationalist feeling); a short-term cause is an immediate development or trigger shortly before the event (for example, an assassination or a failed harvest). **[2]**
 
-**3.** Two events occurring around the same time does not by itself establish that one caused the other -- a genuine causal claim requires evidence of an actual mechanism connecting the proposed cause to the effect, since the events could instead be coincidental or both driven by some third factor. **[2]**
+**3.** Consequence is *what resulted* from an event. Significance is a judgement about *how much the event matters*, using criteria such as scale, duration and impact on later developments. An event can have many consequences yet be judged of limited significance if they were short-lived. **[2]**
 
-**4. (a)** This is a weak use of the concept because it treats a single cause as fully sufficient, without weighing it against other plausible long-term or short-term causes, or explaining how multiple causes might have interacted -- exactly the flaw a strong "cause and consequence" answer avoids. **[2]**
-**(b)** It would identify and explicitly weigh multiple contributing causes (e.g. long-term social or political conditions alongside the immediate economic trigger), explain how they interacted, and follow the same reasoning through to both immediate and longer-term consequences rather than stopping at the single proposed cause. **[2]**
+**4.** (a) Causation. (b) Consequence (with comparison). (c) Change and continuity. (d) Significance. One mark each. **[4]**
 
-**5. (a)** The administrator's account is likely to emphasise justifications for colonial authority and may downplay harms, reflecting an official, power-holding position; the colonised individual's account is likely to emphasise the lived impact and injustices of colonial rule from a position directly affected by it -- both describe the same underlying facts but select, frame and emphasise them very differently because each writer's position shapes what they notice and choose to record. **[3]**
-**(b)** Because a source's perspective shapes what it includes, omits or emphasises, understanding that perspective is necessary before a historian can judge how far the source can be trusted for a given historical question -- a source is not simply "reliable" or "unreliable" in the abstract, but reliable for some purposes and not others depending on whose perspective it represents. **[2]**
+**5. (a)** It is an all-or-nothing claim. Change should be measured by extent, pace and who was affected, and balanced against what continued. **[2]**
+**(b)** Any two, for example: most of the population remained peasants working the land in the 1920s; the state remained highly centralised and authoritarian, as under the tsars; a secret police continued (the Cheka replacing the Okhrana); Russia remained a multinational state governed from Moscow and Petrograd. **[2]**
 
-**6. (a)** An all-or-nothing verdict like "total transformation" risks overstating the case -- periods of apparent sweeping change often contain genuine continuities beneath the surface (for example, existing power structures or social attitudes persisting despite formal political change), so a claim of total transformation needs to be checked against specific evidence of what actually stayed the same, not just what visibly changed. **[3]**
-**(b)** A stronger account would specify exactly what changed, what continued, and for whom -- for example, noting that political institutions changed significantly while economic structures or social attitudes changed more slowly or not at all for a particular group -- rather than applying a single uniform verdict to the whole period and population. **[2]**
+**6. (a)** Any two, developed: the administrator's position and purpose (an official report justifying the government's response, written for superiors); the participant's purpose (a memoir defending or explaining their own actions); the time gap (the memoir was written thirty years later, perhaps after independence, which may shape memory and how the uprising is presented); access to information (the administrator saw government intelligence, the participant knew the motives of those involved). **[4]**
+**(b)** Value: the participant can give direct evidence of why people joined, which an official report is unlikely to record. Limitation: thirty years later memory may be selective, and the account may be shaped by later political circumstances. **[2]**
 
-**7.** A strong answer names a specific figure or event and states explicit criteria for judging significance -- such as scale of impact (how many people or how much territory was affected), duration of effects (how long-lasting the consequences were), and commemorative or historiographical significance (how the event or figure has been remembered, taught or debated since). The answer then argues the case against each stated criterion using specific evidence, rather than simply asserting that the figure or event "was important." The strongest answers acknowledge that significance is not a fixed, objective property but an argued claim, and may note how judgements of significance have shifted over time as new criteria or perspectives have been applied by later historians. **[8]** (Marks for explicit, named criteria; specific supporting evidence for each; and a directly argued rather than asserted case.)
+**7.** Credit a plan that: names an event within the student's region and studied section; states two or three criteria in the introduction (for example, scale of impact on the population, duration of effects, and whether it was a turning point); devotes a paragraph to each criterion with specific, dated evidence; considers a counter-argument (for example, that its effects were limited or later reversed); and reaches a judgement on overall significance. Up to 2 marks for criteria, 4 for applying them with evidence, 2 for a supported judgement. **[8]**
 
-**8.** A strong answer selects one specific event and works through all four concepts as a connected analysis rather than four separate unrelated paragraphs: cause and consequence (what led to the event and what resulted, with multiple causes weighed rather than a single one asserted), continuity and change (what genuinely changed as a result and what continued despite the event, avoiding an all-or-nothing verdict), perspectives (whose viewpoints are represented in the sources or accounts of the event, and how that shapes what is emphasised), and significance (explicit criteria for why the event matters, applied with specific evidence). The strongest answers show how the four concepts interact for this specific event -- for example, how differing perspectives on the event have shaped later judgements of its significance -- demonstrating exactly the transferable, connected concept-application skill the revision notes identify as more valuable than treating "concept revision" and "content revision" as separate tracks. **[8]**
+**8.** Credit a plan that: names a specific leader (for example, Hitler, with the Depression from 1929); explains the economic crisis as a cause with evidence (unemployment, loss of confidence in the Weimar parties, rising Nazi vote from 1930); explains other causes (the appeal of Nazi ideology and propaganda, weaknesses of the Weimar constitution, the role of conservative elites in January 1933); explicitly ranks the causes, for instance arguing that the crisis was necessary but not sufficient because elite decisions turned electoral support into power; and concludes on "to what extent". Up to 2 marks for the economic factor, 3 for other factors, 3 for ranking and judgement. **[8]**
 
-## Why this set moves from recall to invented scenarios to your own content
+## Frequently asked questions
 
-Section A checks recall of the concepts themselves (naming them, and defining the distinctions they
-rest on) and uses no scenarios. Section B then deliberately uses generic, invented historical scenarios
-rather than specific named events, because the four concepts are explicitly transferable across any
-focused study, thematic study or regional study -- the skill being tested is applying the concept
-correctly to a scenario, which is identical whether or not it involves the exact period a given
-student studied. Section C then requires students to supply their own named, specific content, which
-is closer to the external papers, where the concepts are always applied to specific historical
-content rather than to invented cases.
+**Why practise identifying the concept in a question?**
+Because the concept decides the structure: causation needs ranked
+causes, significance needs criteria, change needs continuity.
+
+**What makes a strong significance answer?**
+Criteria stated at the start, applied in turn with specific evidence,
+and an overall judgement.
+
+**How do these questions relate to the real papers?**
+They are skill drills. Real Paper 2 and Paper 3 questions are 15-mark
+essays; use these plans as the first stage of writing one.
 
 ## Official syllabus
 
-International Baccalaureate Organization, *Diploma Programme Subject Brief -- Individuals and
-Societies: History*, first assessment 2028, (c) 2025 -- the same source cited by the
-[Four Historical Concepts revision notes](/resources/ib-dp-history-four-concepts-revision-notes/) and
-the [IB DP History syllabus guide](/resources/ib-dp-history-syllabus-guide/).
+International Baccalaureate Organization, *Diploma Programme Subject
+Brief — History*, first assessments 2017 (republished 2020). Related:
+[six key concepts study guide](/resources/ib-dp-history-four-concepts/).

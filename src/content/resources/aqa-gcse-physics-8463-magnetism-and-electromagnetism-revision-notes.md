@@ -24,9 +24,9 @@ syllabusTopics:
     subtopic: "induced-potential-transformers-and-the-national-grid"
 description: "Condensed AQA GCSE Physics 8463 magnetism and electromagnetism notes: fields, electromagnets, F = BIl, generators, transformers and a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -258,6 +258,20 @@ Worked reminder: np = 400, ns = 8000, Vp = 11 kV → Vs = 11 000 × 8000 / 400 =
 - Transformer answers that omit "alternating" or "changing" magnetic field.
 - Saying high p.d. transmission "reduces resistance" instead of "reduces current, so less heating".
 - Dynamo graphs drawn crossing the time axis.
+
+## Frequently asked questions
+
+**What is the difference between a permanent magnet and an induced magnet?**
+A permanent magnet produces its own magnetic field all the time. An induced magnet becomes a magnet only when placed in a magnetic field, loses most or all of its magnetism quickly when removed, and always causes attraction.
+
+**How do you make an electromagnet stronger?**
+An electromagnet is a solenoid with an iron core. Its field is made stronger by increasing the current or the number of turns, and the iron core itself makes the field stronger than an air-cored solenoid.
+
+**What is the difference between an alternator and a dynamo?**
+An alternator uses slip rings and produces alternating current, so its p.d. graph crosses the time axis. A dynamo uses a split-ring commutator and produces direct current, so its graph stays on one side of the axis.
+
+**How does a transformer work?**
+An alternating current in the primary coil produces a changing magnetic field in the iron core. This changing field passes through the secondary coil and induces an alternating p.d. across it.
 
 ## Official syllabus
 

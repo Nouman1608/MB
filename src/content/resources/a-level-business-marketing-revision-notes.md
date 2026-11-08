@@ -13,13 +13,13 @@ order: 4
 syllabusTopics:
   - qualification: "a-level"
     topic: "marketing-as-cambridge-alevel-business"
-description: "Condensed recall notes on market orientation and segmentation, primary/secondary research, and the marketing mix's 4Ps including the Boston Matrix, for Cambridge International AS & A Level Business (9609), Topic 3."
+description: "Condensed notes on orientation, segmentation, market research and the 4Ps, including the Boston Matrix, for Cambridge AS & A Level Business 9609 Topic 3."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-05
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -250,3 +250,17 @@ has a low market share in a low-growth market. It may coincide with the
 **decline** stage of the product life cycle, but need not: the matrix
 measures share and market growth, the life cycle measures the product's
 own sales over time.
+
+## Frequently asked questions
+
+**What are the three segmentation methods in Cambridge 9609?**
+Geographic, demographic and psychographic segmentation. Know an advantage and a disadvantage of each, because listing them without these is a common exam trap.
+
+**When should a business use price skimming or penetration pricing?**
+Price skimming suits a genuinely novel product with few early competitors, so a high initial price can recover development costs. Penetration pricing suits a new entrant trying to build market share quickly in a crowded market.
+
+**What is the difference between segmentation, targeting and positioning?**
+Segmentation divides the market into groups with shared characteristics, targeting chooses which segments to serve, and positioning decides how the product should be perceived against competitors within the target segment.
+
+**Are government statistics primary or secondary research?**
+Secondary. They already exist, so calling them primary because the business used them directly is a common error; primary research is data the business collects itself, such as a survey it commissions.

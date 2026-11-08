@@ -12,13 +12,13 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-business-unit-4"
-description: "Marketing planning, sales forecasting, market research, the seven Ps of the marketing mix, and international marketing -- IB Diploma Programme Business Management Unit 4, tied with Unit 3 as the largest unit at SL (30 hours) and 35 hours at HL."
+description: "Guide to IB DP Business Management Unit 4 Marketing: six sub-topics from marketing planning to the seven Ps and international marketing, and how to tackle them."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **Unit 4 — Marketing**, for IB Diploma Programme
@@ -203,6 +203,20 @@ instead of evaluating the trade-off for the specific context given.
   <figcaption>Four core Ps plus three extra Ps that matter especially for service businesses.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**How many teaching hours is IB Business Management Unit 4?**
+Unit 4 has 30 recommended teaching hours at SL, tied with Unit 3 as the largest unit, and 35 hours at HL, behind Units 3 and 5 at 45 hours each.
+
+**How should a marketing objective link to corporate objectives?**
+A marketing objective, such as a sales or market share target, should be set so that achieving it supports the business's wider corporate objectives from Unit 1, such as growth or profit, rather than describing it only as "increasing sales".
+
+**Why does a sales forecast matter beyond marketing?**
+Sales forecasts feed into production planning, cash flow planning and stock decisions, so a poor forecast has knock-on effects across Units 3 and 5. An optimistic forecast not matched by production capacity or cash reserves is a tension a strong answer should identify.
+
+**Why should you identify a business's orientation first?**
+Whether a business is market oriented or product oriented shapes every later marketing decision, from pricing to promotion. A strong Unit 4 answer names the orientation and explains its knock-on effects rather than only describing what the business did.
 
 ## Official syllabus
 

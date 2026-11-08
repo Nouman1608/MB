@@ -166,6 +166,20 @@ It fits Constantinople on the Bosphorus and Singapore on the Strait of Malacca, 
 - Writing a "debatable" question that has one correct factual answer.
 - Mixing up global interactions (key concept) with globalization (related concept and part of a global context name).
 
+## Frequently asked questions
+
+**What are the four key concepts of MYP Individuals and Societies?**
+The guide names change, global interactions, systems, and time, place and space as the key concepts the subject contributes. It also says culture, development and communities can be important in the subject.
+
+**How many key concepts are there in the MYP?**
+The MYP has sixteen key concepts explored across the whole programme. Individuals and societies contributes four of them.
+
+**Are MYP key and related concepts prescribed?**
+Yes. MYP has no prescribed content list, but the key and related concepts are prescribed and teachers must build units with them, although schools may add their own.
+
+**What is the difference between absolute and relative location?**
+Absolute location is a fixed position, such as a grid reference. Relative location describes a place in relation to other places or routes, such as Singapore's position on a major shipping lane.
+
 ## Official syllabus
 
 These notes are aligned to the IB *MYP Individuals and societies guide* (for use from September 2014/January 2015; published May 2014, updated April 2021), section "Key concepts" and the following sections on related concepts, global contexts, statements of inquiry and inquiry questions.

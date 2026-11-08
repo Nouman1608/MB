@@ -237,6 +237,20 @@ A higher interest rate tends to attract foreign savers, raising demand for the c
 - Forgetting redistribution: savers and borrowers are affected in opposite ways.
 - Concluding without a judgement when the command word asks you to discuss or evaluate.
 
+## Frequently asked questions
+
+**What are the three measures of monetary policy?**
+The three measures are changes in interest rates, changes in the money supply and changes in the foreign exchange rate.
+
+**How does an appreciation affect exports and imports?**
+An appreciation makes exports dearer abroad and imports cheaper at home. A depreciation does the opposite, with the size of the response depending on price elasticity of demand.
+
+**How does monetary policy affect savers and borrowers?**
+Higher interest rates reward savers and make borrowing dearer, while lower rates help borrowers and reduce the reward for saving, so the two groups are affected in opposite ways.
+
+**How can a central bank change the money supply?**
+It can sell or buy government bonds, change the share of deposits banks must hold as reserves, or limit or encourage bank lending directly.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281, syllabus for examination in 2026, published by Cambridge University Press & Assessment (Cambridge Assessment International Education): section 4.4, Monetary policy.

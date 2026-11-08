@@ -143,6 +143,20 @@ These questions cover section 4.3.5, item 3 (a to c), fiscal deficits and nation
 - Writing "future generations pay" without saying what they receive.
 - Giving an evaluation with no figures from the question and no conditional judgement.
 
+## Frequently asked questions
+
+**How do you express an output gap as a percentage?**
+Divide the output gap by potential output, not actual output, and multiply by 100. Dividing by actual output is a common error in Edexcel International A Level Economics questions.
+
+**Does a rise in interest rates raise the cost of all government debt at once?**
+No. Apply the new interest rate only to new and refinanced debt; existing debt at fixed rates keeps its old rate until it is refinanced.
+
+**How do you explain crowding out?**
+Show the chain: government borrowing adds to the demand for loanable funds, which raises interest rates if savings are limited, which reduces private investment.
+
+**How should you evaluate the burden of debt on future generations?**
+Ask what future generations receive as well as what they pay. Borrowing to fund investment that raises future output is different from borrowing for current spending.
+
 ## Next steps
 
 - Review the [revision notes](/resources/edexcel-ial-economics-fiscal-deficits-and-national-debt-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-fiscal-deficits-and-national-debt/).

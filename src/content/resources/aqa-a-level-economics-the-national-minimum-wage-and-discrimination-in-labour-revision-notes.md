@@ -221,6 +221,20 @@ Monopsony floor: add the marginal cost curve above supply and the MRP curve. The
 - Forgetting that wage discrimination needs market power.
 - Quoting real-world statistics from memory instead of using facts you are sure of.
 
+## Frequently asked questions
+
+**What is statistical discrimination?**
+Statistical discrimination is judging an individual by the average characteristics of their group rather than by their own productivity.
+
+**What is occupational segregation?**
+Occupational segregation is when a group is concentrated in particular, often lower-paid, occupations.
+
+**How is unemployment from a minimum wage measured?**
+It is labour supplied minus labour demanded at the minimum wage, which includes new people seeking work as well as jobs lost.
+
+**How do you calculate a pay gap?**
+Subtract the average pay of the second group from the average pay of the first, then divide by the average pay of the first group.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification (7135 and 7136), first teaching from September 2015, version 1.3, published by AQA. Sections 4.1.6.6 and 4.1.6.7.

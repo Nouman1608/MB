@@ -148,6 +148,20 @@ All nine debit items in the debit column [2], all four credit items in the credi
 - [Free diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How do you approach a trial balance question in OxfordAQA IGCSE Accounting 9215?**
+Head the trial balance with the business name and date, place every balance in the debit or credit column, and total both columns. Debit balances are assets, expenses and drawings; credit balances are liabilities, capital and income.
+
+**How many types of error should you know for trial balance questions?**
+Learn ten error types as two lists: six that the trial balance does not reveal because the totals still agree, and four that it does reveal because the totals disagree. Being able to tell look-alike pairs apart is what most error-naming questions test.
+
+**What is the difference between a trial balance and a statement of financial position?**
+A trial balance lists every ledger balance in debit and credit columns to check the arithmetic of the double entry. A statement of financial position is a financial statement showing the assets, liabilities and capital of the business at a date.
+
+**How should you name an error in a trial balance question?**
+Ask whether the whole transaction is missing, whether the wrong account or class of account was used, whether the sides were swapped, and whether the debit and credit amounts still match. Naming the error precisely and stating whether the totals agree is what earns the marks.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), specification version 1.2, section 3.2 Verification of accounting records, published by OxfordAQA.

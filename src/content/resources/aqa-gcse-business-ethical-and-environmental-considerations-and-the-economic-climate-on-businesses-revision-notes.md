@@ -240,6 +240,20 @@ For evaluate and justify questions, the judgement must come from the evidence in
 - Treating recycling and sustainability as the same item.
 - Missing the link to a functional area when the question names one.
 
+## Frequently asked questions
+
+**What are the environmental considerations in AQA GCSE Business (8132)?**
+The specification names traffic congestion, recycling, disposing of waste, noise pollution and air pollution.
+
+**What is the difference between environmental considerations and sustainability?**
+Environmental considerations are mostly local, immediate effects such as noise or traffic. Sustainability is a global, long-term issue, which the specification lists as global warming and using scarce resources.
+
+**How does a rise in interest rates affect a business?**
+It can hit a business twice: its own interest payments on loans and overdrafts rise, and customers who borrow to buy spend less, so profit and cash flow are squeezed.
+
+**How does the level of employment affect businesses?**
+When employment rises, household incomes and demand go up but recruiting becomes harder and pay may rise. When it falls, incomes and demand fall, especially for non-essentials.
+
 ## Official syllabus
 
 AQA GCSE Business (8132) specification, for first teaching from September 2017, published by AQA. Sections 3.2.2 and 3.2.3.

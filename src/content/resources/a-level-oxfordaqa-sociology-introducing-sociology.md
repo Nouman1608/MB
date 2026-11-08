@@ -13,13 +13,28 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-introducing-sociology-9690"
+  - qualification: "a-level"
+    topic: "unit-1-introducing-sociology-9690"
+    subtopic: "families-marriage-kinship-9690"
+  - qualification: "a-level"
+    topic: "unit-1-introducing-sociology-9690"
+    subtopic: "perspectives-on-families-9690"
+  - qualification: "a-level"
+    topic: "unit-1-introducing-sociology-9690"
+    subtopic: "social-change-changing-families-9690"
+  - qualification: "a-level"
+    topic: "unit-1-introducing-sociology-9690"
+    subtopic: "gender-age-experience-family-life-9690"
+  - qualification: "a-level"
+    topic: "unit-1-introducing-sociology-9690"
+    subtopic: "research-methods-9690"
 description: "Families (3.1.1), and research methods and theory (3.1.3) -- the content of Unit 1 for OxfordAQA International A-Level Sociology (9690)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers **Unit 1 Introducing Sociology**, one of two units
@@ -185,11 +200,25 @@ engaging with the demographic and social explanations behind it.
 - Remember 3.1.3 Research Methods and Theory resurfaces in Unit 2 as
   a single extended-response question, not new content.
 
+## Frequently asked questions
+
+**How is OxfordAQA International A-level Sociology 9690 Unit 1 assessed?**
+Unit 1 is a 1 hour 45 minute exam worth 60 marks: Section A Families (40 marks) and Section B Research methods (20 marks, short questions plus a structured question based on data about an unseen issue).
+
+**Which sociologists are named for OxfordAQA 9690 Unit 1?**
+The named sociologists are Engels, Oakley, Parsons, Smart, Stacey and Therborn, and all are directly assessable.
+
+**What is the triple shift?**
+The triple shift describes women carrying out paid work, domestic work and emotional work.
+
+**Is research methods examined only in Unit 1 of OxfordAQA 9690?**
+No. Research Methods and Theory (3.1.3) is examined in Unit 1 through short and structured questions, and again in Unit 2 through a single extended-response question.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Sociology (9690) specification,
 Version 1.1 —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/09/oxfordaqa-international-a-level-sociology-specification.pdf).
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/10/oxfordaqa-international-a-level-sociology-specification.pdf).
 Unit 1 timing and marks: 1 hour 45 minutes, 60 marks (Section A
 Families 40 marks; Section B Research methods 20 marks). A specimen
 question paper and mark scheme for this unit are published on the

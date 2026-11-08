@@ -228,6 +228,23 @@ This is comparable to atomic spacings, so diffraction is visible.
 
 Move on to the [revision notes](/resources/ocr-a-level-physics-photons-photoelectric-effect-and-wave-particle-duality-revision-notes/) and then test yourself with the [practice questions](/resources/ocr-a-level-physics-photons-photoelectric-effect-and-wave-particle-duality-practice/).
 
+## Frequently asked questions
+
+**What is Einstein's photoelectric equation?**
+Einstein's equation is hf = φ + KEmax: the photon energy hf provides the work function φ, and the rest becomes the maximum kinetic energy of the photoelectron.
+
+**Does light intensity affect the kinetic energy of photoelectrons?**
+No. Each electron interacts with one photon, whose energy depends only on frequency. Higher intensity above the threshold frequency means more photons per second, so more electrons are emitted per second.
+
+**Why does the wave model fail to explain the photoelectric effect?**
+The wave model predicts emission at any frequency if the light is intense enough, a delay at low intensity, and KEmax rising with intensity. In fact there is no emission below f₀, emission is immediate, and KEmax depends on frequency only.
+
+**How do you estimate the Planck constant with LEDs?**
+For LEDs of different colours, find the p.d. V at which each just begins to glow and plot V against 1/λ. Since eV = hc/λ, the gradient is hc/e, so h = gradient × e/c.
+
+**What is the de Broglie equation?**
+The de Broglie equation is λ = h/p = h/mv, giving the wavelength associated with a particle of momentum p. Electron diffraction by graphite is evidence for this wave-like behaviour.
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017, published by OCR. Section 4.5 Quantum physics (4.5.1 Photons, 4.5.2 The photoelectric effect, 4.5.3 Wave-particle duality).

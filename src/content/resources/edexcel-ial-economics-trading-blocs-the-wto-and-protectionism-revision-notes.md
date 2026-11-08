@@ -218,6 +218,23 @@ Preferential access favours members, which cuts across non-discrimination. This 
 - Mixing up a customs union (common external tariff) and a common market (free movement of factors).
 - Judging a bloc only on static gains and ignoring scale and competition.
 
+## Frequently asked questions
+
+**What are the main principles of the WTO?**
+The WTO acts as a forum for negotiating lower trade barriers, with agreed rates bound. Its non-discrimination principle covers most-favoured-nation treatment for all members and national treatment of imports once inside a market, and it runs dispute settlement and monitors members' trade policies.
+
+**What are the four types of trading bloc?**
+In order of integration, they are a free-trade area (no internal tariffs), a customs union (adds a common external tariff), a common market (adds free movement of labour and capital) and an economic and monetary union (adds a single currency and monetary policy).
+
+**Why does a free-trade area need rules of origin?**
+Each member of a free-trade area keeps its own external tariffs, so an outside firm could ship goods in through the member with the lowest tariff. Rules of origin check where goods were made to prevent this.
+
+**Why does a production subsidy cause a smaller welfare loss than a tariff?**
+A subsidy to domestic producers raises home output but leaves the price paid by consumers at the world price, so there is no loss of consumption. A tariff raises the price to consumers too, creating a second welfare-loss triangle, though a subsidy must be funded by taxpayers.
+
+**Are trading blocs a stepping stone or a stumbling block for free trade?**
+It depends on whether a bloc's external barriers fall or rise. Blocs can liberalise faster than global talks, but preferential access cuts across the WTO's non-discrimination principle and can divert trade from efficient outside suppliers.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics, Specification, Issue 2, June 2018, first teaching September 2018, published by Pearson Education Limited: section 4.3.2 Trade and the global economy, items 4 and 5.

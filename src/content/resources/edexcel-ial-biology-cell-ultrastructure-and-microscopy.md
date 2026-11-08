@@ -226,6 +226,23 @@ At a lower power the same graticule would show each division as a larger distanc
 - Describing a bacterial cell wall as cellulose. Bacterial walls are not made of cellulose, so give the function, not a guessed composition.
 - Forgetting that electron microscope specimens are dead.
 
+## Frequently asked questions
+
+**What is ultrastructure?**
+Ultrastructure means the detail of a cell that can be seen only with an electron microscope, such as organelles and internal membranes.
+
+**What is the difference between a tissue, an organ and an organ system?**
+A tissue is a set of similar cells that share one job, an organ is made of several tissues working together, and an organ system is a group of organs that together carry out a function.
+
+**How do lysosomes form?**
+Lysosomes form at the Golgi apparatus, which is why they contain enzymes made on the rough ER.
+
+**Why are specimens stained for light microscopy?**
+Most cell structures are almost transparent, so stains add contrast and make structures such as the nucleus visible.
+
+**Are electron microscope specimens alive?**
+No. Electron microscope specimens are dead, because they must be prepared and placed in a vacuum.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification, Issue 2, Pearson Education Limited. Statements 3.1 to 3.8 of Topic 3.

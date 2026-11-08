@@ -108,6 +108,17 @@ Analyse the competitive forces facing Vellan, using Porter's Five Forces. **[6]*
 - Evaluating a model with points that would fit any model.
 - Omitting a final judgement in "evaluate" and "recommend" answers.
 
+## Frequently asked questions
+
+**What models of strategic choice are in OCR A Level Business H431?**
+Section 1.10 of the H431 specification covers Porter's Five Forces, Porter's generic strategies and competitive advantage. You need to explain each model's nature and purpose, use it to evaluate a business's position or proposed position, and evaluate its usefulness.
+
+**How do you approach an evaluate question on the usefulness of a model?**
+Give points both for and against the model, then reach a judgement about when it is most useful. For Five Forces, for example, the trade-off is a structured check of the main pressures against the fact that it is only a snapshot of a changing market.
+
+**Is a low price the same as a cost leadership strategy?**
+No. Cost leadership means having the lowest costs in the whole market, which allows a business to charge less and still earn a margin. A business can charge a low price without having low costs, which is not a sustainable advantage.
+
 ## Next steps
 
 - Revise from the [revision notes](/resources/ocr-a-level-business-models-of-strategic-choice-revision-notes/) and the [study guide](/resources/ocr-a-level-business-models-of-strategic-choice/).

@@ -173,6 +173,20 @@ Combined projects need **both columns at every criterion**, plus evidence of whe
 - Changes to the plan made without a stated reason.
 - No explanation of the solution's impact on the client or target audience in Criterion D.
 
+## Frequently asked questions
+
+**What is the difference between product, digital and combined design?**
+Product design produces a physical object made from materials. Digital design produces something on screen or in software, such as a website, app or game. Combined design has physical and digital parts that work together as one solution.
+
+**What evidence does digital design produce for Criterion B?**
+Digital Criterion B evidence includes a measurable specification for points such as platform, load time, task time and contrast, plus wireframes, a site map, flowcharts and storyboards.
+
+**What is the difference between a usability test and a functional test?**
+In a usability test, real users carry out set tasks while you time and observe them. A functional test checks that each feature works as it should, such as every link, button, joint or hinge.
+
+**What evidence does a combined design project need?**
+A combined project needs both product and digital evidence at every criterion, because the physical and digital parts must each be researched, specified, made and tested.
+
 ## Official syllabus
 
 These notes are aligned to the International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Design*, from 2014.

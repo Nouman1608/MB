@@ -203,6 +203,23 @@ If demand falls by 40 at every price, Qd = 320 − 20P, so P = 9 and Q = 140: pr
 </figure>
 
 
+## Frequently asked questions
+
+**What is the difference between excess demand and excess supply?**
+Excess demand arises at a price below equilibrium, when buyers want more than sellers offer. Excess supply arises at a price above equilibrium, when sellers offer more than buyers want.
+
+**Why can a bumper harvest reduce farmers' revenue?**
+Demand for crops is unresponsive to price, so a rise in supply makes the price fall by proportionally more than quantity rises. Total revenue then falls even though output is higher.
+
+**What is the difference between joint demand and joint supply?**
+Joint demand describes goods bought together, such as printers and cartridges. Joint supply describes goods produced together by one process, such as planks and sawdust, so more of one means more of the other.
+
+**What are the three functions of the price mechanism?**
+Prices ration limited supply to those willing and able to pay, give an incentive to produce through higher profit, and signal information about scarcity and tastes to producers and consumers.
+
+**Is the price mechanism a fair way to allocate resources?**
+Prices apply the same rule to everyone, which removes favouritism, but the outcome reflects the distribution of income. So the price mechanism is impersonal without being neutral.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, first teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022. Published by OxfordAQA.

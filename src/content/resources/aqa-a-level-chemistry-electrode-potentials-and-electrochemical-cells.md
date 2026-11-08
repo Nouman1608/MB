@@ -268,6 +268,23 @@ Data: O₂ + 2H₂O + 4e⁻ ⇌ 4OH⁻, E⦵ = +0.40 V; 2H₂O + 2e⁻ ⇌ H₂ 
 - Saying a salt bridge carries electrons. Only ions move in it.
 - Treating "feasible" as "fast".
 
+## Frequently asked questions
+
+**What is the standard hydrogen electrode?**
+The standard hydrogen electrode is hydrogen gas at 100 kPa bubbled over a platinum electrode in a solution with 1.00 mol dm⁻³ H⁺ ions at 298 K. It is given a potential of 0.00 V, and other electrode potentials are measured against it.
+
+**When is a platinum electrode used in a half-cell?**
+A platinum electrode is used when both species in the half-cell are in solution, such as Fe³⁺ and Fe²⁺, because an inert conductor is needed to carry the electrons. It is also part of the standard hydrogen electrode.
+
+**How do you predict whether a redox reaction is feasible?**
+The species on the left of the half-equation with the more positive E⦵ is reduced, and the species on the right of the less positive one is oxidised. If the resulting EMF is positive, the reaction is feasible under standard conditions.
+
+**Why is a high-resistance voltmeter used in Required practical 8?**
+A high-resistance voltmeter lets almost no current flow, so the reading is the EMF of the cell. Metal strips are also cleaned with emery paper first to remove the oxide layer.
+
+**Why is potassium chloride avoided in a salt bridge with silver ions?**
+Chloride ions would precipitate silver chloride, so saturated potassium nitrate is used instead. This is a practical detail for AQA A-level Chemistry 7405 Required practical 8.
+
 ## Where to go next
 
 Test yourself with the [practice questions](/resources/aqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells-practice/), condense the topic with the [revision notes](/resources/aqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells-revision-notes/), and see the [AQA exam preparation guide](/resources/aqa-a-level-chemistry-exam-preparation/).

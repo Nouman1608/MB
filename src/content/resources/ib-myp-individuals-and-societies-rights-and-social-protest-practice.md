@@ -172,6 +172,20 @@ Using your knowledge of the UDHR, identify two rights the marchers could claim, 
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Is rights and social protest in the MYP Individuals and Societies on-screen exam?**
+Yes. The IB subject brief lists rights and social protest among the topics for the individuals and societies on-screen examinations, available in history, geography and integrated humanities.
+
+**How do you classify methods of protest?**
+Sort each action by how it applies pressure: legal challenges use the courts, economic non-cooperation such as a boycott withdraws money or labour, non-violent intervention such as a sit-in occupies a space, and militant action uses force against property or people. Justify each choice with what the action did.
+
+**How do you evaluate a source about a protest movement?**
+Explain what the source can show for the specific question, such as how part of the public reacted, and what limits it, such as being one person's view or written for a particular purpose. Link both points to the source's origin, date and purpose.
+
+**Are the sources in these practice questions real?**
+No. The places, data and Sources A and B are fictional, written for revision, and the bracketed points are a revision aid rather than IB marks.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Individuals and societies*, from 2014. The brief lists "rights and social protest" among the topics explored in the individuals and societies on-screen examinations; all questions here are original.

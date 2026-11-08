@@ -25,14 +25,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "mensuration-cambridge-igcse-maths"
     subtopic: "compound-shapes-and-parts-of-shapes-cambridge-igcse-maths"
-description: "Original exam-style practice questions with full worked answers on units of measure, area, perimeter, circles, arcs, sectors, surface area, volume and compound shapes for Cambridge IGCSE Mathematics 0580."
+description: "Practice questions with worked answers on unit conversion, area, circles, sectors, cylinders, cones, spheres and compound shapes for Cambridge IGCSE Maths 0580."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-01
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -160,3 +160,17 @@ Frustum = 144π − 16π/3 = 416π/3 = 435.6… = **436 cm³** [1].
 ## Approaching mensuration questions
 
 The most reliable way to avoid unit and formula errors on this topic is to write down which formula the question needs before substituting any numbers, and to check the given units against what the answer needs to be in -- since a wrong unit conversion or a swapped slant/perpendicular height produces an answer that still looks numerically plausible, it will not stand out as obviously wrong the way an arithmetic slip often does. For compound shapes, sketch (or describe to yourself) exactly which simple shapes the compound shape is built from and whether each one is added or removed, before calculating any individual area or volume.
+
+## Frequently asked questions
+
+**How do you convert m² to cm²?**
+Square the linear conversion factor: 1 m = 100 cm, so 1 m² = 100² = 10 000 cm². Using the linear factor of 100 for an area is a common error.
+
+**Which height do you use for the volume of a cone?**
+Use the perpendicular height, not the slant height. The two are related by Pythagoras' theorem, with the slant height as the hypotenuse.
+
+**How do you find the angle of a major sector?**
+Subtract the minor angle from 360° to get the larger angle, then use that angle in the arc length or sector area formula.
+
+**When should you round in a multi-step mensuration question?**
+Keep full calculator values throughout the working and round only the final answer, usually to 3 significant figures. Rounding early can make the final answer inaccurate.

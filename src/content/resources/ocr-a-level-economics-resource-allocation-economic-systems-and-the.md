@@ -277,6 +277,23 @@ The objective changes the output, the price and the profit.
 - Using total revenue where marginal revenue is needed to find the maximum.
 - Listing advantages and disadvantages without a judgement.
 
+## Frequently asked questions
+
+**What is an incentive in economics?**
+An incentive is a reward or a penalty that changes the pay-off of a choice, so that an economic agent behaves differently. A rise in price, for example, rewards producers and penalises buyers, so resources move towards the good.
+
+**What jobs do prices do in a market economy?**
+Prices signal where resources are wanted, ration limited goods to those willing and able to pay, and give producers an incentive through profit.
+
+**What is a mixed economy?**
+A mixed economy uses both markets and government: the private sector allocates most goods through prices, while the government provides some goods directly and taxes, subsidises and regulates. Every real economy is mixed, and they differ in the proportion of the two.
+
+**What happens when planners fix a price below equilibrium?**
+Quantity demanded exceeds quantity supplied, creating a shortage. In a free market the price would rise to remove the shortage, but with a fixed price the goods must be rationed in another way.
+
+**What are the objectives of economic agents?**
+Consumers are usually assumed to maximise utility, firms to maximise profit, and governments to pursue goals such as growth and fairer incomes. In practice firms may pursue revenue, growth or satisficing, and consumers may not always be rational.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, Component 1 content, area of study How competitive markets work.

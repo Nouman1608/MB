@@ -143,6 +143,23 @@ These questions cover statements B2.2a to B2.2e of OCR GCSE (9-1) Gateway Scienc
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What happens to the surface area to volume ratio as an organism gets bigger?**
+The surface area to volume ratio falls as an organism gets bigger, because volume increases faster than surface area. Saying the ratio rises is one of the most common errors.
+
+**Why should you name the valve in a heart question?**
+Name the specific valve, such as the bicuspid, tricuspid or semilunar valves, rather than writing "valve". Answers without the name usually miss the mark.
+
+**Which pulmonary vessel carries oxygenated blood?**
+The pulmonary vein carries oxygenated blood from the lungs to the heart, and the pulmonary artery carries deoxygenated blood to the lungs. Mixing these up is a frequent mistake.
+
+**How should a red blood cell adaptation be described?**
+Link each feature to its effect on function, for example a biconcave shape gives a larger surface area for oxygen to diffuse. Naming a feature with no effect does not earn the mark.
+
+**Which J247 statements do these questions cover?**
+They cover OCR GCSE Biology A (J247) statements B2.2a to B2.2e: surface area to volume ratio, exchange surfaces, the heart, blood vessels and blood.
+
 ## Official syllabus
 
 These questions follow OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), for first assessment in 2018, published by OCR: statements B2.2a to B2.2e.

@@ -302,6 +302,20 @@ In mechanics, a force P at angle θ above the horizontal has components P cos θ
 
 When you are ready, try the [practice questions](/resources/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities-practice/).
 
+## Frequently asked questions
+
+**Which trigonometric identities are A Level only in OCR A Level Mathematics A (H240)?**
+tan θ = sin θ / cos θ and sin²θ + cos²θ = 1 are Stage 1. The identities sec²θ = 1 + tan²θ and cosec²θ = 1 + cot²θ are Stage 2, A Level only.
+
+**When does arcsin(sin x) equal x?**
+Only when x is in the principal range of arcsin, from −π/2 to π/2. For other values, find the angle in that range with the same sine.
+
+**How do you find the greatest and least values of a sin x + b cos x?**
+Write the expression in R-form, such as R sin(x + α). The greatest value is R and the least is −R, where R = √(a² + b²).
+
+**What is the formula for cos(A + B)?**
+cos(A + B) = cos A cos B − sin A sin B. Writing a plus sign between the products is a common error; sin(A + B) is the one with a plus.
+
 ## Official syllabus
 
 OCR, *A Level Mathematics A (H240)* specification, Version 3.1 (August 2026), for first assessment in 2018. Sections 1.05h to 1.05q.

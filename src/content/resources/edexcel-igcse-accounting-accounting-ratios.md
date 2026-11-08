@@ -199,6 +199,23 @@ Useful comparisons are with the previous year, with a target, or with a similar 
 
 Condense the formulas with the [revision notes](/resources/edexcel-igcse-accounting-accounting-ratios-revision-notes/), then test yourself on the [practice questions](/resources/edexcel-igcse-accounting-accounting-ratios-practice/). Return to the [4AC1 Accounting hub](/boards/edexcel/igcse/accounting/) or tick off progress on the [checklist](/checklists/edexcel/igcse/accounting/). Find weak spots with the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is the difference between profitability and liquidity in Edexcel IGCSE Accounting?**
+Profitability is about whether a business earns a profit and how big it is compared with revenue or the money invested. Liquidity is about whether it can pay what it owes in the short term, so a profitable business can still be short of cash.
+
+**What are the five accounting ratios in the 4AC1 specification?**
+The five ratios are gross profit as a percentage of revenue, profit for the year as a percentage of revenue, return on capital employed, the current ratio and the liquid (acid test) ratio. The specification sets no benchmark figures for any of them.
+
+**How do you calculate capital employed?**
+The specification does not give a formula, so state yours; the usual one is equity plus non-current liabilities. The same figure comes from non-current assets plus current assets minus current liabilities, which gives a useful check.
+
+**How should liquidity ratios be written?**
+Write the current ratio and acid test ratio in the form x : 1, to 2 decimal places, not as percentages. Profitability ratios are shown as percentages with the % sign.
+
+**How do you interpret an accounting ratio?**
+Say what the ratio did, give a possible reason, link it to the other ratios and state the consequence for the business. Describing a change without a reason or consequence earns little credit.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1), Specification, Issue 1, October 2016, published by Pearson Education Limited. Topic 4: The preparation of financial statements, section 4 "The calculation and interpretation of accounting ratios", points (a) to (c).

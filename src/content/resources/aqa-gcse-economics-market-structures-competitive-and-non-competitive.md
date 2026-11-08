@@ -245,6 +245,23 @@ Then judge. The outcome depends on:
 - Confusing a large firm with a monopoly. A large firm in a competitive market is not a monopoly.
 - Forgetting the three distinguishing factors when asked how structures differ.
 
+## Frequently asked questions
+
+**What is a competitive market?**
+A market with a large number of producers, similar products, easy entry and exit, and buyers who can easily compare prices and switch.
+
+**Why are profits lower in competitive markets?**
+Firms cannot raise prices without losing customers, rivals keep prices close to cost, and high profits attract new firms whose entry pushes the price down.
+
+**What causes monopoly and oligopoly power?**
+Barriers to entry such as high start-up costs, economies of scale, legal protection like patents, brand loyalty, control of resources or outlets, mergers and natural growth.
+
+**What is oligopoly interdependence?**
+Each of the few large firms must consider how its rivals will react, because one firm's price change affects the others' sales and profits.
+
+**How do you calculate market share?**
+A firm's market share is its sales divided by the total sales of all firms in the market, written as a percentage.
+
 ## Official syllabus
 
 Source: AQA, *GCSE Economics (8136) specification*, for first teaching from September 2017, sections 3.1.5.1 to 3.1.5.3.

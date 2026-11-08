@@ -12,13 +12,13 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-b-sharing-the-planet"
-description: "Original comprehension-style practice questions with full worked answers on the Sharing the planet theme, plus a Paper 1 writing-task planning exercise, for IB Diploma Programme Language B."
+description: "Original comprehension practice with worked answers on the Sharing the planet theme, plus a Paper 1 writing-task planning exercise, for IB DP Language B."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -104,6 +104,17 @@ to genuine target-language material with a teacher, rather than assuming one spe
 The comprehension text is deliberately built around comparison and cause-and-effect content, matching
 the revision notes' point that Sharing the planet leans more heavily on this kind of language than a
 personally-focused theme like Identities.
+
+## Frequently asked questions
+
+**What is the Sharing the planet theme in IB Language B?**
+Sharing the planet is one of the five prescribed themes of IB DP Language B. It explores the challenges and opportunities faced by individuals and communities in the modern world.
+
+**How do you practise comprehension of an issue-based text?**
+Identify the arguments for and against, locate the stage a process or decision has reached, and explain any stated cause-and-effect relationship. Then repeat the same task types on a target-language text with your teacher.
+
+**Why practise the task in English first?**
+Practising a task type in a language you know well, then in your target language, separates learning the task from the language difficulty, so you are not tackling both at once.
 
 ## Official syllabus
 

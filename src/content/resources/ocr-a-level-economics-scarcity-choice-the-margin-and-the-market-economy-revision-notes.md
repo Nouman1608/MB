@@ -264,6 +264,20 @@ Use the same four moves for the market economy, government, the margin and ratio
 - Describing government intervention as simply good, without government failure.
 - Evaluating rationality in general terms, with no example of an agent and a situation.
 
+## Frequently asked questions
+
+**What is the basic economic problem?**
+Wants are unlimited and resources are limited, so there is scarcity. Scarcity forces choice, so every economy needs a way of settling what is made, how it is made and for whom.
+
+**How do you calculate a marginal value?**
+A marginal value is the change in the total divided by the change in quantity. Decision makers should do one more unit while marginal benefit is at least equal to marginal cost, and stop when marginal cost exceeds marginal benefit.
+
+**What does the government do in a market economy?**
+The OCR A Level Economics (H460) notes list providing a legal framework and property rights, supplying goods the market does not, using taxes, subsidies and regulation to correct failure, promoting competition, redistributing income and stabilising the economy.
+
+**Is the assumption of rationality realistic?**
+It is a useful starting model that predicts many firm decisions well, but people face limited information, follow habit, copy others, care about fairness and make poor judgements under pressure. Its accuracy varies by agent and situation.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, Component 1 content, area of study Scarcity and choice.

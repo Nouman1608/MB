@@ -162,6 +162,20 @@ Study first with the [study guide](/resources/ib-myp-individuals-and-societies-w
 - Research questions with no focus, place or time frame.
 - Extended responses that describe but never weigh or judge.
 
+## Frequently asked questions
+
+**What are common mistakes in warfare and peacekeeping answers?**
+Common slips include naming the 1914 trigger as the main cause without showing why it led to a wider war, and calling Korea (1950) or Kuwait (1990–91) peacekeeping when both were enforcement under Chapter VII. Classifying a war without naming the feature that justifies the label also loses credit.
+
+**How do you calculate percentage change in a conflict data question?**
+Subtract the starting value from the final value, divide by the starting value and multiply by 100. Dividing by the final value instead of the starting value is a frequent error.
+
+**How should you evaluate a source about a war or peacekeeping mission?**
+Tie each value and limitation to who wrote the source, when and why, and to the question being researched. Generic comments such as "could be biased" earn little without that link.
+
+**Are these IB MYP Individuals and Societies questions marked like the real exam?**
+No. Real MYP work is judged against criterion level descriptors with achievement levels 1–8, so the mark points in these answers are a revision aid, not IB marks. Each question is labelled with the criterion it trains.
+
 ## Next steps
 
 - [Warfare and peacekeeping revision notes](/resources/ib-myp-individuals-and-societies-warfare-and-peacekeeping-revision-notes/)

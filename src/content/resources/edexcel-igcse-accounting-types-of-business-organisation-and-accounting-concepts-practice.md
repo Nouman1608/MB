@@ -166,6 +166,20 @@ Links: [Edexcel IGCSE Accounting hub](/boards/edexcel/igcse/accounting/), [print
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**How do you describe a stakeholder's interest in the financial statements?**
+Name an item in the financial statements that the stakeholder would look at and say what decision it helps with. Describing an interest without naming a figure is a common way to lose marks.
+
+**How do you calculate an expense when a payment covers more than this year?**
+Divide the payment by the number of months it covers and charge only the months that belong to this year; the rest is a prepayment. Counting the whole payment as this year's expense is a common error.
+
+**Where are drawings deducted?**
+Drawings are deducted from capital, not from profit, because they are not a business expense. Closing capital is opening capital plus profit minus drawings.
+
+**How do you support an evaluate answer on accounting concepts?**
+Use figures from the question, such as an item's size as a percentage of revenue for materiality, and finish with a conclusion. A conclusion with no supporting figures earns little credit in Edexcel IGCSE Accounting (4AC1).
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 1 The accounting environment, sections 1.1 Types of business organisation and 1.2 Accounting concepts.

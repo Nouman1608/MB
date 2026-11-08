@@ -24,11 +24,11 @@ syllabusTopics:
     subtopic: "selection-cambridge-igcse-biology"
 description: "Condensed Cambridge IGCSE Biology 0610 notes on variation, mutation, adaptive features and selection, with Core and Extended labels and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 For full explanations and worked examples, use the [Variation and selection study guide](/resources/igcse-biology-0610-variation-and-selection/). These notes are for the final weeks.
@@ -222,6 +222,20 @@ Always name the **specific feature** from the question (here, number of eggs lai
 - In natural selection answers, leaving out **passing on alleles** or **over many generations**.
 - Saying bacteria "become immune" or "mutate because of the antibiotic". The mutation is random; the antibiotic selects.
 - In selective breeding, forgetting to select the **offspring** and repeat.
+
+## Frequently asked questions
+
+**What is the difference between continuous and discontinuous variation?**
+Continuous variation gives a range of phenotypes between two extremes, such as body length, and is caused by genes and the environment. Discontinuous variation gives a limited number of phenotypes with no intermediates, such as ABO blood groups, and is usually caused by genes only.
+
+**How should you display continuous and discontinuous data?**
+Plot continuous data as a histogram with touching bars and equal class intervals. Plot discontinuous data as a bar chart with separate bars.
+
+**What is a gene mutation in Cambridge IGCSE Biology 0610?**
+Core candidates describe mutation as genetic change, which is how new alleles are formed. Extended candidates describe a gene mutation as a random change in the base sequence of DNA.
+
+**Is body length continuous even if it is recorded to the nearest centimetre?**
+Yes. Body length can take any value in a range, so it is continuous variation; rounding the measurements does not turn it into discontinuous data.
 
 ## Official syllabus
 

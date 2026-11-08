@@ -272,6 +272,23 @@ Limits of the solutions: they cost money, can encourage short-term or risky beha
 - Describing diversification and conglomerate integration as the same thing.
 - Giving a one-sided answer with no judgement about which effects are likely to be larger.
 
+## Frequently asked questions
+
+**Why do some firms stay small?**
+Small firms persist when the market is small or local, the product is niche or personalised, the owner wants control, finance is scarce, or diseconomies of scale begin early.
+
+**What are the types of integration?**
+Horizontal integration joins firms in the same industry at the same stage, backward vertical integration moves towards suppliers, forward vertical integration moves towards customers, and conglomerate integration joins firms in unrelated industries.
+
+**What are the conditions for an effective cartel?**
+Conditions include few firms, similar products, high barriers to entry, similar costs and stable demand, easy detection and punishment of cheating, weak competition law enforcement, and trust and a leader. Link each condition to why it makes agreeing or policing the price easier.
+
+**What is the principal-agent problem?**
+The principal-agent problem arises because shareholders, the principals, and managers, the agents, have different objectives, and managers know more about the firm. Solutions include profit-related pay, share options, monitoring and shareholder votes.
+
+**Why do many mergers disappoint?**
+Mergers can fail because of culture clash and poor communication, expected savings not appearing, paying too high a price, or the new firm becoming too large to manage through diseconomies of scale.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, section 7.7 (Cambridge University Press & Assessment).

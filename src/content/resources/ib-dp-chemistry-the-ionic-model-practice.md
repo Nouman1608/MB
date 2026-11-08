@@ -168,6 +168,20 @@ M: [Ar] 3d¹⁰ 4s² 4p³
 - Try [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are these IB DP Chemistry ionic model questions from past papers?**
+No. They are original questions on Structure 2.1, written for revision, and they do not reproduce IB past papers or mark tariffs. Use them alongside the official past papers through your school or the IB store.
+
+**How should you write the charge on an ion?**
+Write the number before the sign, as in Mg²⁺ or PO₄³⁻. Writing the sign first, as Mg⁺², or leaving out the number is a common way to lose marks.
+
+**Why do ionic compounds conduct electricity only when molten or dissolved?**
+In the solid, the ions are fixed in the lattice and cannot move to the electrodes. When molten or dissolved the ions are free to move and carry the charge; electrons do not carry the current.
+
+**How do you rank lattice enthalpies of ionic compounds?**
+Compare ion charge first and then ion radius. Higher charges and smaller ions give a stronger attraction, and ranking by radius alone when the charges differ is a common mistake.
+
 ## Official syllabus
 
 Source: the International Baccalaureate's Diploma Programme *Chemistry guide*, issued in February 2023 for courses examined from 2025. This page follows its sub-topic Structure 2.1, The ionic model: understandings 2.1.1, 2.1.2 and 2.1.3, which are all common to SL and HL.

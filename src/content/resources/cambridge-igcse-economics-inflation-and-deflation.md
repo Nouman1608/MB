@@ -20,7 +20,7 @@ publishedDate: 2026-10-18
 featured: false
 ---
 
-This guide covers section 4.8, Inflation and deflation, of the Cambridge IGCSE Economics syllabus for examination in 2026. The course is not tiered, so all candidates study this content. Paper 1 is 30 multiple-choice questions (45 minutes) and may include calculations. Paper 2 is structured questions (2 hours 15 minutes). The syllabus says calculators may be used in both papers. All countries, firms and figures below are invented for illustration.
+This guide covers section 4.8, Inflation and deflation, of the Cambridge IGCSE Economics (0455) syllabus for examination in 2026. The course is not tiered, so all candidates study this content. Paper 1 is 30 multiple-choice questions (45 minutes) and may include calculations. Paper 2 is structured questions (2 hours 15 minutes). The syllabus says calculators may be used in both papers. All countries, firms and figures below are invented for illustration.
 
 Go to the [course hub](/boards/cambridge/igcse/economics/) or the [printable checklist](/checklists/cambridge/igcse/economics/). When you finish, use the [revision notes](/resources/cambridge-igcse-economics-inflation-and-deflation-revision-notes/) and the [practice questions](/resources/cambridge-igcse-economics-inflation-and-deflation-practice/). To find weak spots first, take a [free 10-minute diagnostic](/diagnostics/).
 
@@ -265,6 +265,20 @@ Evaluation points: rates can only be cut so far. Firms and households may not bo
 - Forgetting to divide by the old CPI, or by the sum of weights.
 - Saying all inflation harms everyone: borrowers can gain.
 - Recommending higher interest rates as an automatic cure for every inflation cause.
+
+## Frequently asked questions
+
+**What does section 4.8 of Cambridge IGCSE Economics cover?**
+Section 4.8 of the Cambridge IGCSE Economics 0455 syllabus covers the definitions of inflation and deflation, measuring them with the Consumer Prices Index, their causes, their consequences and the policies used to control them.
+
+**What is the Consumer Prices Index?**
+The CPI follows the prices of a basket of goods and services that households typically buy. Each group in the basket has a weight showing its share of household spending, and the index compares prices with a base year set at 100.
+
+**Why does deflation make debts harder to repay?**
+A debt is usually fixed in money terms. If wages and prices fall, the same debt takes more months of pay to repay, so its real burden rises.
+
+**How can a government control inflation?**
+It can raise interest rates or reduce the money supply (monetary policy), raise taxes or cut government spending (fiscal policy), or use supply-side policies such as training and investment to raise productivity. Each has limits such as time lags and conflicts with other aims.
 
 ## Official syllabus
 

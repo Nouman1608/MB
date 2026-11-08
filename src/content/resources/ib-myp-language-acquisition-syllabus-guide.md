@@ -9,11 +9,11 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Language Acquisition"]
 syllabusSeries: "From 2020"
 order: 2
-description: "The four assessment criteria of IB Middle Years Programme Language Acquisition -- listening, reading, speaking, writing -- and its emergent/capable/proficient assessment levels, for the from-2020 framework."
+description: "The IB MYP Language Acquisition framework from 2020: key concepts, four criteria, six teaching phases, three proficiency levels and the eAssessment structure."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -162,6 +162,20 @@ the IB's broad and balanced course of study, but it does not set out
 separate qualifying conditions for the bilingual certificate. Students should confirm those
 conditions with their school's MYP coordinator rather than assuming
 whether this subject counts towards it.
+
+## Frequently asked questions
+
+**How many teaching hours does IB MYP Language Acquisition need?**
+The MYP requires at least 50 hours of teaching time for the subject in each year of the programme, rising to a recommended 70 hours of guided learning per year in MYP years 4 and 5 for students pursuing eAssessment.
+
+**What is the difference between the classroom mark scale and the eAssessment marks?**
+Classroom assessment uses achievement levels 0–8 for each criterion, giving a total out of 32. The eAssessment blueprint allocates 24 raw marks to each criterion, and the actual distribution can vary by up to three marks from that figure.
+
+**Is MYP Language Acquisition compulsory?**
+Yes, in every year of the programme, except for bilingual students pursuing courses in multiple languages within the MYP Language and Literature subject group.
+
+**What are the global contexts in MYP Language Acquisition?**
+As in every MYP subject group, students explore concepts through six global contexts: identities and relationships, orientation in space and time, personal and cultural expression, scientific and technical innovation, globalization and sustainability, and fairness and development.
 
 ## Official syllabus
 

@@ -168,6 +168,20 @@ These questions cover outcomes 7.1 to 7.4 of Topic 7 (Probability) in the Cambri
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Why do you need both orders for "one of each"?**
+With two picks, "one of each" can happen in two orders, such as red then blue or blue then red. Counting only one order gives half the correct probability.
+
+**What is the quickest way to find "at least one"?**
+Use the complement: P(at least one) = 1 − P(none). Listing every possible outcome takes longer and is easier to get wrong.
+
+**What do you do when letters or items repeat?**
+Count the tiles or items, not the different letter types. A letter that appears twice gives two equally likely tiles.
+
+**Which part of the 0479 syllabus do these questions cover?**
+They cover Topic 7, Probability, outcomes 7.1 to 7.4, of the Cambridge IGCSE Statistics (0479) syllabus for examination in 2027.
+
 ## Official syllabus
 
 Cambridge IGCSE Statistics 0479 syllabus for examination in 2027, Version 1, Cambridge International Education (part of Cambridge University Press & Assessment). These questions cover Topic 7, outcomes 7.1 to 7.4.

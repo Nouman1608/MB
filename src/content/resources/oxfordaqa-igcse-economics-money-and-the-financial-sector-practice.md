@@ -139,6 +139,20 @@ These questions cover sections 3.2.5.1 (the role of money) and 3.2.5.2 (the role
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you answer a question on the functions of money?**
+Money acts as a medium of exchange, a unit of account, a store of value and a means of deferred payment. In a scenario, match the function to what the money is doing in the sentence and apply it, rather than just naming a function.
+
+**How do you calculate the real value of savings after inflation?**
+Divide the money value by one plus the inflation rate, for example dividing by 1.06 for 6% inflation. Subtracting 6% of the balance gives a slightly wrong answer.
+
+**What is the difference between a loan loss and a bank run?**
+A loan loss is about solvency: if borrowers fail to repay, the loss is set against the bank's own funds. A bank run is about liquidity: if many depositors withdraw at once, the bank may not hold enough cash even if it is sound.
+
+**What do these OxfordAQA International GCSE Economics money questions cover?**
+They cover sections 3.2.5.1 (the role of money) and 3.2.5.2 (the role and importance of the financial sector) of the OxfordAQA International GCSE Economics (9214) specification.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), specification version 1.0, for exams May/June 2025 onwards, published by OxfordAQA. Sections 3.2.5.1 and 3.2.5.2.

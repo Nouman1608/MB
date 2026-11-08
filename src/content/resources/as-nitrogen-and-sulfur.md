@@ -14,11 +14,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-nitrogen-and-sulfur"
     subtopic: "as-nitrogen-and-sulfur"
-description: "Why nitrogen is so unreactive, the basicity of ammonia, and the role of nitrogen oxides in photochemical smog and acid rain, for Cambridge International AS & A Level Chemistry 9701."
+description: "Nitrogen and sulfur for Cambridge AS & A Level Chemistry 9701: why N₂ is unreactive, the basicity of ammonia, and nitrogen oxides in smog and acid rain."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-11-05
 featured: false
@@ -165,6 +165,20 @@ coordinate bond
 catalytic converter equation
 - NOx and photochemical smog (PAN)
 - NOx and acid rain: direct route vs catalysing SO₂ oxidation
+
+## Frequently asked questions
+
+**Why is nitrogen gas so unreactive?**
+A full answer gives two reasons: the N≡N triple bond is very strong, and the molecule is non-polar. Giving only the strong triple bond is incomplete.
+
+**Why is ammonia a base?**
+In Brønsted-Lowry terms, ammonia accepts a proton using the lone pair on its nitrogen atom, forming the ammonium ion. Saying it is basic because it is an alkali does not answer the question.
+
+**How do nitrogen oxides contribute to acid rain?**
+Nitrogen oxides can form nitric acid directly, and nitrogen dioxide also acts catalytically in the oxidation of sulfur dioxide. Do not confuse these direct and indirect routes.
+
+**Which Cambridge 9701 subtopic covers nitrogen and sulfur?**
+Nitrogen and sulfur are subtopic 12.1, in Topic 12 of Cambridge International AS & A Level Chemistry 9701, and are AS Level content.
 
 ## Related resources
 

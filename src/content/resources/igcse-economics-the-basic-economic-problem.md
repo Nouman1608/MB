@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "the-basic-economic-problem-cambridge-igcse-economics"
-description: "Finite resources and unlimited wants, the factors of production, opportunity cost, and production possibility curve diagrams -- the full content of Topic 1 for Cambridge IGCSE Economics 0455, 2026 series."
+description: "Topic 1 of Cambridge IGCSE Economics 0455: finite resources and unlimited wants, factors of production, opportunity cost and production possibility curves."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **Topic 1 The basic economic problem**, for Cambridge
@@ -161,6 +161,23 @@ or better resources or improved technology, and only the shift is a
 
 For exam-style questions with full mark schemes on this topic, see the
 [Basic Economic Problem practice questions](/resources/the-basic-economic-problem-practice/).
+
+## Frequently asked questions
+
+**What is opportunity cost?**
+Opportunity cost is the next best alternative forgone when a choice is made. For a government that builds a new fleet, it is the hospitals, staff and treatments that could have been provided instead, not simply the money spent.
+
+**What do points inside, on and beyond a PPC mean?**
+A point on the curve shows full and efficient use of resources, a point inside shows unemployed or inefficiently used resources, and a point beyond is unattainable with current resources and technology.
+
+**What does economic growth mean on a PPC in IGCSE Economics?**
+In the Cambridge IGCSE Economics (0455) syllabus, economic growth means an outward shift of the whole PPC, a permanent increase in productive capacity. Moving from inside the curve towards it uses idle resources but is not what the syllabus means by economic growth.
+
+**What causes a PPC to shift outwards?**
+More or better resources, such as new discoveries or immigration of workers, improved technology, better education and training, and more investment in capital goods. War, natural disaster or a fall in the labour force can shift it inwards.
+
+**Is Cambridge IGCSE Economics 0455 tiered?**
+No. Cambridge IGCSE Economics 0455 is not tiered, so all candidates study the same content.
 
 ## Official syllabus
 

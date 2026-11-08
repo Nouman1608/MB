@@ -24,11 +24,11 @@ syllabusTopics:
     subtopic: "probability-edexcel-igcse-maths"
 description: "Twelve original Edexcel IGCSE Maths 4MA1 statistics and probability questions, Foundation and Higher, with fully worked mark-by-mark answers."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -197,6 +197,20 @@ Related: [study guide](/resources/edexcel-igcse-maths-4ma1-statistics-and-probab
 - Missing one of the routes in "exactly one" tree-diagram questions.
 - Keeping the same denominator on the second pick without replacement.
 - Writing probabilities as ratios or in words.
+
+## Frequently asked questions
+
+**How should probabilities be written in Edexcel IGCSE Maths?**
+Write probabilities as fractions, decimals or percentages. Ratios such as "3 : 5" or words such as "likely" are not accepted as probability answers.
+
+**What changes on the second pick without replacement?**
+Both the numerator and the denominator usually change, because there is one fewer item in the bag. Keeping the same denominator on the second branch of a tree diagram is a frequent error.
+
+**Where do you plot points on a cumulative frequency graph?**
+Plot each running total at the upper class boundary, not the midpoint, and start at the lower boundary of the first class with a cumulative frequency of 0. Cumulative frequency diagrams are Higher tier only in 4MA1.
+
+**Why do you divide by the total frequency for a grouped mean?**
+The estimated mean is Σfx ÷ Σf, the total of frequency × midpoint divided by the total frequency. Dividing by the number of classes instead is a common way to lose the final marks.
 
 ## Next steps
 

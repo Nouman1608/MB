@@ -12,13 +12,13 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-3-drama-open-text-0475"
-description: "Original exam-technique practice questions with full worked answers on Paper 3's open-book rule, format, and how the four assessment objectives are marked, for Cambridge IGCSE Literature in English (0475)."
+description: "Original practice with worked answers on Cambridge IGCSE Literature in English 0475 Paper 3: the open-book rule, the format and how the four AOs are marked."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description shortened to 140-160 characters and FAQ added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, testing exam technique
@@ -84,6 +84,19 @@ Related: [Paper 3 – Drama (Open Text) study guide](/resources/igcse-english-li
 **7.** Paper 2 studies two set texts, is closed book, and runs 1 hour 30 minutes for 50 marks; Paper 3 studies one set text, is open book, and runs 45 minutes for 25 marks. Because Paper 3 covers only one text but in a much shorter time, a candidate should prepare that single text in greater depth than either individual text on Paper 2, while also practising working quickly under a tighter time limit — since the open-book advantage of locating quotations is only useful if a candidate can do so fast enough to leave sufficient time for planning and writing a full, well-structured response addressing all four AOs within 45 minutes. **[6]** (Marks for correctly stating all three comparison points, and for a genuine, specific implication for Paper 3 preparation.)
 
 **8.** Spending a third of the available time (15 of 45 minutes) searching for quotations before starting to write is a poor use of exam time, since it leaves only 30 minutes for planning, writing and addressing all four assessment objectives in a single sustained response — a task that itself requires careful planning to complete well. A better approach is to prepare, in advance of the exam, a small bank of pre-identified key passages linked to major themes and characters in the play, so that only a few minutes are needed during the exam to select and confirm the most relevant quotations, leaving the great majority of the 45 minutes for planning a focused answer and writing a full response that addresses AO1 to AO4. **[5]**
+
+## Frequently asked questions
+
+**What can I take into Paper 3?**
+A clean copy of your set play, with no personal annotations, highlighting or underlining, and not an
+edition with extensive study notes or facing-page translations.
+
+**How long is Paper 3?**
+45 minutes for one question from a choice of two, worth 25 marks and 25% of the qualification.
+
+**What is Paper 3 paired with?**
+Paper 3 is always taken with Paper 1 and either Paper 4 Unseen or Component 5 Coursework.
+
 
 ## Official syllabus
 

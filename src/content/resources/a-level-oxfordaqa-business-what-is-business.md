@@ -13,13 +13,13 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "what-is-business-oxfordaqa-alevel-business"
-description: "Business objectives, stakeholders and the external environment -- the opening topic of OxfordAQA International AS & A-Level Business, primarily 9625 (first teaching September 2018) with 9725 divergences flagged."
+description: "Study guide to Topic 1 What is Business? for OxfordAQA International AS and A-level Business 9625: objectives, ownership, stakeholders and the environment."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **Topic 1 What is Business?**, the opening topic
@@ -272,3 +272,20 @@ Confusing mission with objectives, or strategy with tactics. Treating added valu
 - Calculate a four-firm concentration ratio and interpret market size/growth data.
 - Explain the first-year external environment items: degree of competition, barriers to entry, costs of inputs, government policies, and changes in incomes/interest rates/exchange rates.
 - Know that stakeholder mapping and PESTLE are second-year (A2) content, not first-year Topic 1.
+
+## Frequently asked questions
+
+**How does a business add value?**
+A business adds value as it transforms inputs into outputs, through branding, quality, convenience, speed, design and service, not only by charging more. Treating added value as the same as profit is a common mistake.
+
+**How do you calculate a four-firm concentration ratio?**
+Add the market shares of the four largest firms in the market. For example, shares of 28%, 22%, 15% and 10% give a four-firm concentration ratio of 75%, indicating a highly concentrated market.
+
+**Are decision trees first-year content in OxfordAQA Business?**
+Under 9625, decision trees with expected value and net gain calculations are first-year content (section 3.1.1.1). Under 9725 they move to second-year A2 content (section 3.4.3).
+
+**Is PESTLE in the OxfordAQA 9625 Business specification?**
+No. PESTLE as a named framework does not appear in 9625; 9725 adds a PESTLE reference, but only in its second-year content. The first-year external environment content is the narrower set of market and economic factors.
+
+**What do the square and circle on a decision tree mean?**
+A square marks a decision the business makes, and a circle marks a chance event whose outcomes are uncertain.

@@ -209,6 +209,20 @@ The elements support each other, so rivals find it hard to copy. A rival could c
 
 Recap with the [revision notes](/resources/edexcel-gcse-business-promotion-place-and-combining-the-marketing-mix-revision-notes/), then use the [practice questions](/resources/edexcel-gcse-business-promotion-place-and-combining-the-marketing-mix-practice/). Take the [free diagnostics](/diagnostics/) to find your weakest area.
 
+## Frequently asked questions
+
+**What is a market segment?**
+A market segment is a part of the market made up of customers with similar characteristics, such as age, income, location or lifestyle. Different segments respond to different promotion strategies.
+
+**What is targeted advertising online?**
+Targeted advertising online shows adverts to selected groups of internet users, chosen by details such as age, location, interests or browsing history. It suits small businesses because they pay to reach people who fit their segment.
+
+**What are the advantages of an e-newsletter?**
+An e-newsletter gives news and offers directly to customers who have signed up, at low cost, and the business can measure exactly what it earns. It only reaches people who have already chosen to receive it.
+
+**How can one element of the marketing mix influence another?**
+For example, a high-specification product usually needs a higher price, and a premium price needs promotion that stresses quality. Selling through a retailer means leaving room for the retailer's share, which affects the price the producer can charge.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2: Building a business, topic 2.2 Making marketing decisions, content items 2.2.3 Promotion, 2.2.4 Place and 2.2.5 Using the marketing mix to make business decisions.

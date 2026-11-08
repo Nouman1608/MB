@@ -145,3 +145,17 @@ Revising topic content instead of practising skills. Summarising a source rather
 - Apply all six evaluation criteria and demonstrate a weakness from the text.
 - Build an argument with a clear line of reasoning and a genuine counter-argument.
 - Remember reflection is not credited in this paper (unlike the Individual Report and Team Project) -- spend the time on analysis and evaluation instead.
+
+## Frequently asked questions
+
+**How long is the IGCSE Global Perspectives 0457 Written Exam?**
+Component 1 is a 1 hour 25 minute paper worth 70 marks, externally set and marked by Cambridge International. It has four compulsory questions based on source documents provided with the paper.
+
+**What is the difference between a topic and an issue in 0457?**
+A topic is a broad area of study from the syllabus list of 22, such as Environment, pollution and conservation. An issue is a specific question that arises within a topic once it is narrowed down, such as plastic waste exports to low-income countries.
+
+**What is the difference between an argument, an assertion and an assumption?**
+An argument is a conclusion supported by reasons, an assertion is a claim with no support, and an assumption is something taken for granted but unstated. Telling these apart in a source is a core Written Exam skill.
+
+**How should you prepare for the 0457 Written Exam?**
+Practise close reading of unfamiliar sources under timed conditions, naming whose perspective each source represents and what evidence supports it. Revising facts about specific topics is largely wasted effort.

@@ -259,6 +259,23 @@ A **hybrid** (managed or intermediate) system mixes features of fixed and floati
 - Saying a currency "depreciates" under a peg or "devalues" under a float.
 - Concluding an appreciation is always good. The answer depends on the objective and the time frame.
 
+## Frequently asked questions
+
+**What determines demand for and supply of a currency?**
+Demand for a currency comes from foreign buyers of exports, foreign investors, tourists and speculators expecting a rise. Supply comes from residents buying imports or foreign assets and speculators expecting a fall.
+
+**What happens to foreign exchange reserves when a central bank defends a peg?**
+If there is excess demand at the peg, the central bank sells its own currency and its reserves rise. If there is excess supply, it buys its own currency with reserves, which fall, so intervention alone cannot defend a peg under sustained selling.
+
+**Can a currency appreciate in real terms without changing in nominal terms?**
+Yes. If the nominal rate is unchanged but home prices rise faster than foreign prices, home goods become dearer relative to foreign goods, which is a real appreciation.
+
+**What are the main consequences of a currency depreciation?**
+Exports become cheaper abroad and imports dearer, imported inflation rises, net exports add to aggregate demand while dearer inputs reduce short-run aggregate supply, and debts in foreign currency become heavier. The size depends on openness, spare capacity and time lags.
+
+**Which exchange rate system is best?**
+It depends on the size and openness of the economy, the credibility of its institutions and central bank, its reserves, whether shocks are domestic or global, and its inflation record. Floating rates adjust automatically, while pegs offer stability and can import low inflation.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)*, Version 3.0 (June 2026), for first assessment in 2021, published by Oxford Cambridge and RSA Examinations.

@@ -165,6 +165,20 @@ Where a question gives bond enthalpies, use the values supplied.
 - Take [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does this IB DP Chemistry Reactivity 3.3 practice set cover?**
+It covers Reactivity 3.3, Electron sharing reactions, understandings 3.3.1 to 3.3.3 for SL and HL: radicals, homolytic fission with fish-hook arrows, and the initiation, propagation and termination steps of alkane halogenation, including bond enthalpy and yield calculations.
+
+**How do you check a propagation step is correct?**
+Each propagation step must have one radical on each side, so count the dots before moving on. A common error is writing a step that produces H• instead of the hydrogen halide.
+
+**What are common mistakes in radical mechanism answers?**
+Frequent errors include leaving the dot off a radical or putting it on the wrong atom, giving a halogen radical a negative charge, and showing homolytic fission with a full curly arrow. Mixing up kinetic and thermodynamic stability also loses marks.
+
+**What does "kinetically stable but thermodynamically unstable" mean for alkanes?**
+"Kinetically stable" refers to rate: alkane reactions have a high activation energy, so they are slow to start. "Thermodynamically unstable" refers to energy: reactions such as combustion are very exothermic once they begin.
+
 ## Official syllabus
 
 These questions practise Reactivity 3.3 (Electron sharing reactions), understandings 3.3.1 to 3.3.3, SL and HL. Source: *Chemistry guide*, IB Diploma Programme, International Baccalaureate, February 2023 (first assessment 2025).

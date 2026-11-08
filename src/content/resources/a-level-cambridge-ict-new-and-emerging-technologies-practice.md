@@ -160,6 +160,20 @@ Learn the content first with the [study guide](/resources/a-level-cambridge-ict-
 - Find your gaps with [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Is new and emerging technologies an A Level topic in Cambridge 9626?**
+Yes. New and emerging technologies is topic 13 of Cambridge International AS & A Level Information Technology (9626), A Level only content examined on Paper 3 Advanced Theory. Calculators are not allowed in Paper 3.
+
+**How precise does an identify answer need to be?**
+An identify question needs only the name of the technology, but it must be the precise term. A closely related but wrong name, such as confusing two similar technologies, earns nothing.
+
+**What are common mistakes on emerging technologies questions?**
+Common slips include describing only one side of a difference question, confusing holographic imaging with holographic data storage, dividing by the new figure instead of the original in a percentage reduction, and ignoring the energy and materials used to make new devices.
+
+**What does a discuss or evaluate question on emerging technologies need?**
+It needs points on both sides linked to the scenario's users, a balancing point and a weighed conclusion. Writing about the technology in general, or listing facts with no judgement, limits the marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027, version 3 (published July 2025), Cambridge International, part of Cambridge University Press & Assessment. Topic 13, New and emerging technologies, section 13.1.

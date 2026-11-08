@@ -189,6 +189,20 @@ Constants: e = 1.60 × 10^-19 C, proton mass 1.67 × 10^-27 kg, μ0 = 4π × 10^
 - Writing that parallel wires with same-direction currents repel.
 - Dropping the powers of ten in q/m, or giving it without units.
 
+## Frequently asked questions
+
+**Is there additional HL content in IB DP Physics D.3?**
+No. The guide gives D.3 no additional HL content, so the content is the same at SL and HL.
+
+**Does the period of a charge's circular path depend on its speed?**
+No. The period T = 2πm/(qB) is independent of speed; a faster particle simply moves on a larger circle.
+
+**Does a magnetic field exert a force on a stationary charge?**
+No. No magnetic force acts on a charge at rest, or on one moving parallel or antiparallel to the field. The force is largest when velocity and field are at 90°.
+
+**What shape is a charge's path in an electric field compared with a magnetic field?**
+In a uniform electric field at right angles to the velocity the path is a parabola. In a uniform magnetic field at right angles to the velocity it is a circle.
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. This page covers D.3, Motion in electromagnetic fields.

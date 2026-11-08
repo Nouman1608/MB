@@ -238,6 +238,20 @@ Corrabeck is more liquid, more profitable overall and less risky. Wentwater earn
 - Giving a ratio with no unit or interpretation. Say what the figure means for this business.
 - Treating depreciation as cash leaving the business.
 
+## Frequently asked questions
+
+**How do you calculate capital employed?**
+Capital employed is issued shares plus reserves plus non-current liabilities. Leaving out non-current liabilities is a common error in ROCE and gearing questions.
+
+**What does the gearing ratio show?**
+Gearing shows how far a business relies on long-term borrowing: non-current liabilities divided by capital employed, multiplied by 100. High gearing raises interest costs and risk.
+
+**How are the statement of profit or loss and statement of financial position linked?**
+Retained earnings are added to reserves, closing inventory is a current asset, trade receivables and payables come from credit sales and purchases, unpaid tax is a current liability, and depreciation lowers non-current assets.
+
+**Is one ratio enough to judge a business?**
+No. A single ratio says little on its own. Compare it with previous years, with a competitor or with a target, and look at several ratios together.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education): sections 10.1 and 10.2, with the ratio formulas from the syllabus appendix.

@@ -244,6 +244,20 @@ A staircase diagram shows this: draw y = f(x) and y = x, step vertically to the 
 
 Next, try the [practice set](/resources/edexcel-ial-mathematics-the-exponential-and-natural-logarithm-functions-practice/), and keep the [revision notes](/resources/edexcel-ial-mathematics-the-exponential-and-natural-logarithm-functions-revision-notes/) for last-minute recall.
 
+## Frequently asked questions
+
+**What are the key features of the graph of y = eˣ?**
+It passes through (0, 1), is always positive with range y > 0, has the x-axis as a horizontal asymptote as x → −∞, and is increasing everywhere.
+
+**How do you solve e^(ax + b) = p?**
+Take natural logarithms of both sides to get ax + b = ln p, then rearrange for x. This only has a solution when p > 0.
+
+**How do you solve ln(ax + b) = q?**
+Write both sides as powers of e, so ax + b = e^q, then solve for x. If logarithms were combined first, check the argument of each original logarithm is positive.
+
+**Does an iterative formula always converge to the root?**
+No. Whether the sequence converges depends on the rearrangement and the starting value; a different rearrangement of the same equation may move away from the root. A staircase diagram shows the behaviour.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification, Issue 3, April 2019, Unit P3, sections 3 and 6 (Pearson Education Limited).

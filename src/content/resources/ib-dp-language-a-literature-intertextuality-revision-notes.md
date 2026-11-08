@@ -12,13 +12,13 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-a-literature-intertextuality"
-description: "Condensed revision notes on IB Diploma Programme Language A: Literature's Intertextuality component -- how works of literature echo, respond to or subvert each other -- with a worked comparison approach and self-test questions."
+description: "Revision notes on Intertextuality in IB DP Language A: Literature: how works echo, respond to or subvert each other, with a comparison method and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 Intertextuality: connecting texts is where, as the [full syllabus
@@ -108,6 +108,17 @@ flattening genuine differences into a superficial similarity. 4. Because the ind
 work in the studied language with a work studied in translation around a common global issue, which is
 itself a spoken exercise in the same evidence-based, context-aware comparison this component
 practises in writing.
+
+## Frequently asked questions
+
+**What is the difference between an echo, a response and a subversion?**
+An echo or homage borrows form or content admiringly; a response engages critically or in dialogue with an earlier work's ideas; a subversion deliberately overturns the conventions or assumptions of an earlier work or genre.
+
+**What three questions structure a comparison of two literary works?**
+Ask what specifically connects the two works, how each treats that shared element differently, and what comparing them reveals that reading either alone would not.
+
+**Should Intertextuality and Time and space be revised separately?**
+No. In IB DP Language A: Literature, a work's historical and cultural context often explains why it echoes, responds to or subverts another work, so revising the two areas together produces stronger comparative essays.
 
 ## Official syllabus
 

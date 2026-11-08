@@ -24,12 +24,12 @@ syllabusTopics:
     subtopic: "vector-geometry-cambridge-igcse-maths"
 description: "Condensed recall notes on reflection, rotation, enlargement, translation, vector notation, magnitude and vector geometry for Cambridge IGCSE Mathematics 0580."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-04
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 Condensed for the final weeks. Pair these notes with the
@@ -159,3 +159,16 @@ OM = OA + (1/2)AB = a + (1/2)(b - a) = (1/2)a + (1/2)b
   <figcaption>Writing every vector in terms of a and b shows MN = half of AB, so the lines are parallel.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does a reflection in the x-axis do to a point?**
+A reflection in the x-axis maps (x, y) to (x, −y), and a reflection in the y-axis maps (x, y) to (−x, y).
+
+**What does a column vector mean in a translation?**
+The top number gives the movement in the x-direction and the bottom number the movement in the y-direction. For example, a vector with 4 on top and −2 below means 4 units right and 2 units down.
+
+**How do you find a vector between two points?**
+Subtract the start point from the end point. Reversing the order gives the vector in the opposite direction, so the vector NM is the negative of the vector MN.
+
+**When are two vectors parallel?**
+Two vectors are parallel when one is a scalar multiple of the other, for example 2a + 4b is parallel to a + 2b.

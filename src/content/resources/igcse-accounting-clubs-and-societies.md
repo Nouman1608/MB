@@ -301,6 +301,23 @@ Both totals are 17,560. A deficit would be subtracted from the opening fund inst
 - Forgetting that a club has an accumulated fund, not capital, and a surplus or deficit, not a profit or loss.
 - Adding the balance of a revenue-generating activity to the wrong side: a profit is income, a loss is expenditure.
 
+## Frequently asked questions
+
+**What is the difference between a receipts and payments account and an income and expenditure account?**
+A receipts and payments account summarises the cash book, recording every receipt and payment when cash moves, with no adjustments. An income and expenditure account does the job of a statement of profit or loss, including only revenue items for the year adjusted for amounts owing and prepaid.
+
+**What is the accumulated fund of a club?**
+The accumulated fund is the club's capital: total assets less total liabilities. The closing accumulated fund is the opening fund plus the surplus, or minus the deficit, for the year.
+
+**What is the difference between subscriptions in arrears and subscriptions in advance?**
+Subscriptions in arrears are owed by members at the year end and are an other receivable. Subscriptions in advance are received before the period they cover and are an other payable.
+
+**How are a club's revenue-generating activities shown in Cambridge IGCSE Accounting 0452?**
+Each activity, such as a café or a one-off event, gets its own short account, and only its net result goes to the income and expenditure account. A profit is shown as income and a loss as expenditure.
+
+**Is buying equipment for a club an expense?**
+No. Equipment such as a boat is a non-current asset shown in the statement of financial position, and only its depreciation is charged in the income and expenditure account.
+
 ## Official syllabus
 
 Source: Cambridge IGCSE Accounting 0452 syllabus for 2027, 2028 and 2029 (version 1), Cambridge University Press & Assessment, section 5.5. Amounts and names in this guide are invented.

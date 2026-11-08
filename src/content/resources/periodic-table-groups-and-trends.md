@@ -40,14 +40,14 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "the-periodic-table"
     subtopic: "noble-gases"
-description: "How the Periodic Table is arranged, and the trends in Group I, Group VII, the transition elements and the noble gases, for Cambridge IGCSE 0620 and O Level 5070."
+description: "Cambridge IGCSE 0620 and O Level 5070 guide to the Periodic Table: how it is arranged, Group I and Group VII trends, transition elements and noble gases."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 ---
 
 This guide covers **topic 8, The Periodic Table** — subtopics 8.1 to 8.5 — for
@@ -266,6 +266,23 @@ gases as unreactive and monatomic
 **0620 Extended and all 5070 candidates, additionally:** identifying trends in
 unfamiliar groups from given data · transition elements having variable oxidation
 numbers (iron(II)/iron(III))
+
+## Frequently asked questions
+
+**Why do elements in the same group have similar chemical properties?**
+Elements in the same group have the same number of electrons in their outer shell, which is why they react in similar ways and form ions of the same charge. Group I metals form 1+ ions and Group VII non-metals form 1− ions.
+
+**Why does Cambridge 0620 use Group I, VII and VIII instead of Groups 1, 17 and 18?**
+The Cambridge IGCSE 0620 and O Level 5070 syllabuses use the older Roman-numeral names throughout, so your exam paper will say Group I, Group VII and Group VIII. These correspond to modern Groups 1, 17 and 18.
+
+**How do the properties of Group I metals change down the group?**
+Lithium, sodium and potassium are relatively soft metals; down the group the melting point decreases, the density increases and the reactivity increases. Each reacts with cold water to release hydrogen and form an alkaline hydroxide solution.
+
+**What is a halogen displacement reaction?**
+A more reactive halogen displaces a less reactive one from a solution of its halide salt. For example, chlorine displaces iodine from potassium iodide, Cl₂ + 2KI → 2KCl + I₂, but iodine will not displace chloride.
+
+**Why are the noble gases unreactive?**
+The noble gases have a full outer electron shell, so they have no tendency to gain, lose or share electrons. They exist as single, separate atoms, which is what monatomic means.
 
 ## Related resources
 

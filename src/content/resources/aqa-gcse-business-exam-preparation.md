@@ -9,11 +9,11 @@ qualifications: ["gcse"]
 syllabusCodes: ["8132"]
 syllabusSeries: "For first teaching 2017"
 order: 2
-description: "Paper-by-paper exam preparation for AQA GCSE Business 8132 -- operations/HRM vs marketing/finance split, AO1/AO2/AO3 balance, case-study data-response strategy, a worked answer and a checklist."
+description: "Paper-by-paper exam preparation for AQA GCSE Business (8132): the Paper 1 and Paper 2 topic split, AO1 to AO3 balance, case-study technique and a worked answer."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-07
 featured: false
 ---
@@ -116,6 +116,20 @@ any business. 4. Because the business is described as small and local, its appea
 reputation that doesn't automatically transfer to a new town -- testing demand first (e.g. via a
 market stall) reduces the cash-flow risk of a full second shop while checking whether that reputation
 does transfer, a more context-justified recommendation than committing immediately.
+
+## Frequently asked questions
+
+**Is AQA GCSE Business (8132) tiered?**
+No. Everyone sits the same two written papers, each lasting 1 hour 45 minutes, worth 90 marks and 50% of the qualification.
+
+**What is the difference between AQA GCSE Business Paper 1 and Paper 2?**
+Paper 1 covers the influences of operations and human resources on business activity. Paper 2 covers the influences of marketing and finance on business activity.
+
+**What are AO1, AO2 and AO3 in GCSE Business?**
+AO1 is knowledge and understanding, AO2 is applying business concepts to a given context, and AO3 is analysing and evaluating business issues and decisions. AO2 and AO3 together carry more marks than AO1.
+
+**How do I stop my case-study answers being too generic?**
+Name specific details from the case study, such as the business's product, market, size or stated problem, inside your answer, and tie your recommendation to them.
 
 *Written against AQA GCSE Business 8132 (specification-at-a-glance / scheme of assessment, verified
 2026-08-28). The worked scenario above is an original example written for this resource, not a

@@ -197,6 +197,20 @@ For a decision question, a useful habit is to write the numbers first, then one 
 - Giving general advantages and disadvantages without using the figures or facts in the case.
 - Leaving out units: years, months, percentage or dollars.
 
+## Frequently asked questions
+
+**How do you calculate payback with uneven returns?**
+Write the cumulative returns year by year, find the year in which the running total passes the capital cost, then divide the amount still needed at the start of that year by that year's return. Add this fraction to the completed years, and multiply the fraction by 12 if months are asked for.
+
+**How do you calculate the average rate of return (ARR)?**
+Subtract the capital cost from total returns, divide by the years of use to get the average annual gain, then divide by the capital cost and multiply by 100.
+
+**Why does NPV fall when the discount rate rises?**
+A higher rate gives smaller discount factors, so each future return has a smaller present value. The total present value falls while the original cost stays the same, so NPV falls.
+
+**Can different appraisal methods rank projects differently?**
+Yes. A short payback does not guarantee a high ARR or a high NPV, and a project can have a positive ARR but a negative NPV if the discount rate is high enough.
+
 ## Official syllabus
 
 Source: *Business management guide*, first assessment 2024, International Baccalaureate Organization. Section 3.8, Investment appraisal; formulae and discount table as printed in the guide.

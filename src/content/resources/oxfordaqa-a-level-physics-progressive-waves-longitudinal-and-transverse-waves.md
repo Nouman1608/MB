@@ -277,6 +277,20 @@ Turning a vertical rod about its own axis changes nothing, because the rod stays
 
 Test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-progressive-waves-longitudinal-and-transverse-waves-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-physics-progressive-waves-longitudinal-and-transverse-waves-revision-notes/) to consolidate. The [exam preparation guide](/resources/oxfordaqa-a-level-physics-exam-preparation/) covers technique, and the free [diagnostics](/diagnostics/) show which topics need work.
 
+## Frequently asked questions
+
+**What happens when you rotate one Polaroid sheet in front of another?**
+The transmitted intensity changes as the second sheet turns. With the axes at 90° almost no light passes, and a full 360° turn gives two maxima and two minima.
+
+**Why does a radio aerial need to be aligned with the transmitter?**
+Radio waves from a vertical transmitter are polarised. A vertical receiving rod picks up the strongest signal, a horizontal one almost none, and a tilted rod a reduced signal from the component along it.
+
+**What is the difference between a displacement-distance graph and a displacement-time graph?**
+A displacement-distance graph is a snapshot of the whole wave at one instant, so it gives the wavelength and amplitude. A displacement-time graph shows the motion of one particle, so it gives the period and amplitude.
+
+**Which sections of the OxfordAQA 9630 specification does this guide cover?**
+It covers sections 3.5.3 (progressive waves) and 3.5.4 (longitudinal and transverse waves) of OxfordAQA International AS and A-level Physics (9630), Version 4.4, which are shared AS and A-level content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Sections 3.5.3 and 3.5.4.

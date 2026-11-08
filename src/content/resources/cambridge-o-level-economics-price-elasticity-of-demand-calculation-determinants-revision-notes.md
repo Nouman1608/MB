@@ -212,6 +212,20 @@ For an evaluation question, finish with a judgement: say which effect matters mo
 - Treating revenue as profit when asked about a firm's decision.
 - Giving one-sided answers on government taxes: say what happens to revenue and what happens to consumption.
 
+## Frequently asked questions
+
+**Why is demand for a single brand more elastic than demand for the whole product?**
+A single brand, such as one brand of tea, has many close substitutes that buyers can switch to, so its demand is elastic. Demand for the product as a whole has fewer substitutes, so it is less elastic.
+
+**Why does PED matter to consumers?**
+If demand is inelastic, a price rise leaves buyers paying noticeably more in total because they cannot easily cut back. If demand is elastic, buyers can switch to alternatives instead.
+
+**What do vertical and horizontal demand curves show?**
+A vertical demand curve shows perfectly inelastic demand, with a PED of zero. A horizontal demand curve shows perfectly elastic demand, with an infinite PED.
+
+**Why do governments tax goods with inelastic demand?**
+A tax on a good with inelastic demand raises more tax revenue because consumption falls only a little. The same fact makes it a weaker way to cut consumption.
+
 ## Official syllabus
 
 These notes follow section 2.7 of the Cambridge O Level Economics 2281 syllabus for examination in 2026, published by Cambridge Assessment International Education.

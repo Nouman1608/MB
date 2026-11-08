@@ -214,6 +214,23 @@ Standard form of capital employed (not given as a formula in this section of the
 - Leaving out units or the percentage sign in calculations.
 - Concluding without a judgement in "evaluate" or "recommend" answers.
 
+## Frequently asked questions
+
+**Can profit be used to measure the size of a business?**
+No. The Cambridge O Level Business Studies 7115 syllabus states that profit does not count as a size measure, because profit shows performance and firms of very different size can report the same profit.
+
+**What is the difference between a merger and a takeover?**
+A merger is when two firms agree to combine. A takeover is when one firm buys control of another. Both are forms of external growth.
+
+**What is overtrading?**
+Overtrading is when cash drains away during growth because stock, staff and premises are paid for before the extra sales bring in cash. Cash-flow forecasting, longer supplier credit, an overdraft or growing in stages can help.
+
+**Why do some businesses stay small?**
+Demand may be limited to a small or local niche, the owner may prefer a manageable workload and full control, or finance may be hard to get.
+
+**Why do governments support business start-ups?**
+More businesses mean more jobs, more output, more tax revenue and more competition. Support can include grants, which do not usually have to be repaid, and training schemes or advice.
+
 ## Official syllabus
 
 Source: Cambridge O Level Business Studies 7115 syllabus for examination in 2026, published by Cambridge University Press & Assessment, subject content 1.3. Check the current syllabus for your own examination series.

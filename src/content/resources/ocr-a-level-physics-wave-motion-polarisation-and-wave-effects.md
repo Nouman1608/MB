@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "electrons-waves-and-photons"
     subtopic: "waves-ocr-alevel"
-description: "Study guide to OCR A Level Physics A (H556) section 4.4.1: progressive waves, f = 1/T, v = fλ, wave effects, polarisation and intensity."
+description: "Study guide to OCR A Level Physics A (H556) section 4.4.1: progressive waves, f = 1/T, v = fλ, reflection, refraction, diffraction, polarisation and intensity."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false
@@ -218,6 +218,23 @@ intensity ∝ amplitude², so amplitude ratio = √(0.90 / 0.40) = √2.25 = 1.5
 - Saying that diffraction needs a gap "smaller than" the wavelength. The effect is significant when they are comparable.
 - Suggesting that sound can be polarised, or that polarisation shows a wave is longitudinal.
 - Using I ∝ A for amplitude and intensity. It is the square.
+
+## Frequently asked questions
+
+**What is the wave equation?**
+The wave equation is v = fλ, linking wave speed, frequency and wavelength. Frequency and period are related by f = 1/T.
+
+**How do you find frequency using an oscilloscope?**
+Count the horizontal divisions for several cycles, divide by the number of cycles, and multiply by the time base setting to get the period T. Then use f = 1/T.
+
+**Why does the frequency stay the same when a wave refracts?**
+The frequency is fixed by the source. When a wave slows down crossing a boundary, its wavelength shortens instead, since v = fλ.
+
+**Why can't sound waves be polarised?**
+Polarisation confines oscillations to one plane containing the direction of travel. Sound is longitudinal, so it oscillates along its line of travel and has no sideways plane to select.
+
+**How is intensity related to amplitude?**
+Intensity is proportional to the square of the amplitude, so doubling the amplitude gives four times the intensity. Intensity itself is power per unit area, I = P/A, in W m⁻².
 
 ## Next steps
 

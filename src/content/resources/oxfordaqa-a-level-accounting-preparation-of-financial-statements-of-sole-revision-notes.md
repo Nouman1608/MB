@@ -225,6 +225,22 @@ Next: try the [practice questions](/resources/oxfordaqa-a-level-accounting-prepa
   <figcaption>Profit = closing capital - opening capital + drawings - capital introduced.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between an other payable and a trade payable?**
+Trade payables are amounts owed to credit suppliers of goods. Other payables are accrued expenses and income received in advance.
+
+**How do you calculate an expense when there are accruals and prepayments?**
+Start with the amount paid, deduct an opening accrual and add a closing accrual; add an opening prepayment and deduct a closing prepayment. For example, wages paid of 41,300 with 560 owing at the start and 735 at the end give a charge of 41,475.
+
+**How is reducing balance depreciation calculated after the first year?**
+Apply the percentage to the carrying amount, not to cost. At 20% on a cost of 21,000, year 1 is 4,200 and year 2 is 20% × 16,800 = 3,360.
+
+**How are goods taken for own use recorded by a sole trader?**
+Record them at cost: debit drawings and credit purchases. They are never an expense.
+
+**Is income received in advance an asset?**
+No. Income received in advance is an other payable, a current liability. Listing it as an asset is a common mistake.
 
 ## Official syllabus
 

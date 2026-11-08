@@ -12,13 +12,34 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-family-education-crime-0495"
-description: "Condensed recall notes on family structures, the functionalist/Marxist/feminist perspectives, education's roles, and crime and deviance for Paper 2, Cambridge IGCSE Sociology (0495), 2025-2027 series."
+  - qualification: "igcse"
+    topic: "paper-2-family-education-crime-0495"
+    subtopic: "kq-4-1-0495"
+  - qualification: "igcse"
+    topic: "paper-2-family-education-crime-0495"
+    subtopic: "kq-4-2-0495"
+  - qualification: "igcse"
+    topic: "paper-2-family-education-crime-0495"
+    subtopic: "kq-4-3-0495"
+  - qualification: "igcse"
+    topic: "paper-2-family-education-crime-0495"
+    subtopic: "kq-5-1-0495"
+  - qualification: "igcse"
+    topic: "paper-2-family-education-crime-0495"
+    subtopic: "kq-5-2-0495"
+  - qualification: "igcse"
+    topic: "paper-2-family-education-crime-0495"
+    subtopic: "kq-5-3-0495"
+  - qualification: "igcse"
+    topic: "paper-2-family-education-crime-0495"
+    subtopic: "kq-6-1-0495"
+description: "Cambridge IGCSE Sociology (0495) Paper 2 recall notes, 2025-2027: family perspectives, education's roles, achievement, and crime, deviance and control."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: removed unsupported claim that Paper 2 Question 1 varies by series (syllabus fixes Q1 Family, Q2 Education, Q3 Crime); please re-review. Fix pass: softened unverifiable claim that examiners return to the New Right vs postmodernist pairing most; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -27,8 +48,9 @@ Condensed for the final weeks. For the full explanation, use the
 ## The Paper 2 rule
 
 Candidates answer **two of the three** topics (Family, Education, Crime) — decide early which two you
-will prepare in depth, but keep working knowledge of the third since Question 1 patterns vary by
-series.
+will prepare in depth. The layout is fixed: Question 1 is always Family, Question 2 Education and
+Question 3 Crime, each worth 40 marks with six parts (a)–(f). Cambridge expects two topics to be
+taught; a working knowledge of a third is only a safety net.
 
 ## Family — one mechanism per perspective
 
@@ -38,7 +60,7 @@ series.
 | Marxism | Family as unit of consumption |
 | Feminism | Joint vs segregated conjugal roles; domestic division of labour |
 
-**New Right vs Postmodernist on family diversity** — the pairing examiners return to most:
+**New Right vs Postmodernist on family diversity** — a key contrast to learn:
 - **New Right**: diversity = dysfunction; favours the traditional nuclear family.
 - **Postmodernist**: diversity = positive, evidence of individual choice.
 
@@ -140,6 +162,20 @@ time for candidates aiming at the top grades.
 dysfunction; favours the traditional nuclear family. 4. Material: access to digital technology.
 Cultural: cultural capital or linguistic factors. 5. Crime breaks the law; deviance breaks social
 norms — they overlap but are not identical, and both are relative across time and place.
+
+## Frequently asked questions
+
+**How many questions do you answer on Cambridge IGCSE Sociology Paper 2?**
+You answer two of the three Paper 2 questions, which cover Family, Education, and Crime, deviance and social control in Cambridge IGCSE Sociology (0495).
+
+**What is the warm bath theory?**
+The warm bath theory is the functionalist idea that the family stabilises adult emotions.
+
+**How do you sort explanations of educational achievement?**
+Group them into material explanations, such as access to digital technology, cultural explanations, such as cultural capital and linguistic factors, and in-school explanations, such as labelling and pupil subcultures.
+
+**What crime types does the 0495 syllabus name?**
+The syllabus names eleven types: violent, property, white-collar or corporate, expressive, instrumental, gang, green, organised or global, cyber, hate and domestic crime.
 
 ## Official syllabus
 

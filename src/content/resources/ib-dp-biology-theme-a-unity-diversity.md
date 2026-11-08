@@ -12,13 +12,13 @@ order: 5
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-biology-unity-diversity"
-description: "The full content of IB Diploma Programme Biology's Theme A -- water, nucleic acids, origins of cells, cell structure, viruses, classification, evolution and speciation, and conservation of biodiversity -- with HL-only content marked."
+description: "Study guide to IB DP Biology Theme A, Unity and diversity: water, nucleic acids, origins of cells, cells, viruses, classification, evolution and conservation."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide covers **Theme A -- Unity and diversity** (19 hours SL / 33 hours HL) of IB Diploma
@@ -124,8 +124,8 @@ divide into two fundamentally different organisational plans: **prokaryotic** an
 Prokaryotic cells lack a membrane-bound nucleus and membrane-bound organelles, and typically carry a
 single circular chromosome; eukaryotic cells have both a membrane-bound nucleus and membrane-bound
 organelles, and typically carry multiple linear chromosomes. Eukaryotic cells are also typically much
-larger than prokaryotic cells. This prokaryotic-versus-eukaryotic contrast is one of the most
-frequently examined ideas in Theme A precisely because it demonstrates both unity (every cell shares
+larger than prokaryotic cells. This prokaryotic-versus-eukaryotic contrast is a central idea in
+Theme A because it demonstrates both unity (every cell shares
 the same basic components) and a fundamental point of divergence (how those components are organised)
 in a single comparison.
 
@@ -272,6 +272,20 @@ overall diversity, or on evolution to explain how a shrinking population's genet
 affected. Preparing Theme A sub-topics with attention to how they connect to each other and to later
 themes, rather than as nine isolated definitions, is the more exam-effective approach the syllabus
 itself is structured around.
+
+## Frequently asked questions
+
+**Why is water essential to life?**
+Water's polarity lets hydrogen bonds form between molecules, giving cohesion, a high specific heat capacity and the ability to dissolve polar and ionic substances, so it is the medium for most biochemical reactions; no known life functions without it.
+
+**What is cladistics?**
+Cladistics classifies organisms by shared derived characteristics inherited from a common ancestor, shown in a cladogram where each branching point marks a most recent common ancestor, rather than by surface similarity. This is HL-only content.
+
+**What is the biological species concept?**
+The biological species concept defines a species as a group of organisms that can interbreed to produce fertile offspring; it can be hard to apply when populations that do not interbreed are diverging.
+
+**Why do viruses count as non-living in IB DP Biology?**
+A virus is genetic material inside a protein capsid with no independent metabolism, so it depends entirely on a host cell's machinery to replicate; describing viruses with cell-based terms such as growth or metabolism is a category error.
 
 ## Official syllabus
 

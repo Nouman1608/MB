@@ -17,9 +17,9 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-assessment-criteria"
 description: "IB MYP Language Acquisition study guide to multimodal texts: how images, layout, sound and words combine, and how to describe and interpret visuals."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -180,6 +180,20 @@ For criterion-by-criterion standards, see [the criteria in practice](/resources/
 - In listening tasks, noting what was said but not what was on screen at that moment.
 - In writing tasks, copying phrases from the stimulus instead of reusing the ideas in your own language.
 - Writing "the picture is nice" -- an evaluation with no effect or audience named.
+
+## Frequently asked questions
+
+**What is the difference between denotation and connotation?**
+Denotation is what is literally there, such as "a green headline", while connotation is what it suggests, such as nature or recycling. State the denotation first, then the connotation, because a connotation with no described detail behind it is just an opinion.
+
+**What are the four ways words and images can work together?**
+Words can anchor an image (fix its meaning), reinforce it (say the same thing), extend it (add information the other mode does not give) or contrast with it (pull against it, often for humour, irony or shock).
+
+**Do colours mean the same thing in every culture?**
+No. Connotations depend on culture; white can suggest weddings and purity in some cultures and mourning in others. When you interpret colour, think about the community the text was made for.
+
+**Are visuals tested in the IB MYP Language Acquisition eAssessment?**
+Yes. The MYP Language Acquisition brief (from 2020) describes Criterion A in terms of images and spatial aspects that come with oral text and Criterion B in terms of written, spatial and visual aspects, so expect questions about visuals and layout, not only the words.
 
 ## Next steps
 

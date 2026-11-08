@@ -14,9 +14,9 @@ syllabusTopics:
     topic: "microeconomic-decision-makers"
 description: "Condensed recall notes on money and banking, households, workers, trade unions and firms for Topic 3 of Cambridge O Level Economics (2281), 2026 series."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -275,6 +275,20 @@ around exactly this kind of interconnected reasoning rather than isolated defini
 **Answers:** 1. Income, rate of interest, confidence. 2. TC ÷ output. 3. Horizontal = same stage, same
 industry; vertical = different stage, same industry. 4. No, explicitly not required. 5. Workers,
 firms, government.
+
+## Frequently asked questions
+
+**Who are the decision makers in Topic 3 of Cambridge O Level Economics 2281?**
+Topic 3 looks at five groups of decision makers: banks, households, workers, trade unions and firms. Government is not one of them; it belongs to Topic 4.
+
+**Are a firm's objectives fixed?**
+No. Survival, social welfare, profit maximisation and growth are not mutually exclusive and can change with circumstances: a struggling firm may put survival first, while a secure firm may aim for growth.
+
+**Are marginal cost and marginal revenue required in Cambridge O Level Economics?**
+No. These notes point out that marginal cost and marginal revenue are not required at this level, so stick to total, average, fixed and variable costs and total and average revenue.
+
+**What is the difference between internal and external economies of scale?**
+Internal economies of scale come from the firm's own growth, such as bulk-buying discounts. External economies of scale come from the growth of the whole industry in a local area, such as a shared pool of skilled labour.
 
 ## Official syllabus
 

@@ -213,6 +213,20 @@ The assessment overview places Module 3 in component 01, Periodic table, element
 - Balancing slips: one H⁺ in the carbonate equation, or one NaOH for (NH₄)₂SO₄.
 - Stating a conclusion ("contains sulfate") when the question asked for an observation.
 
+## Frequently asked questions
+
+**How do you tell chloride, bromide and iodide apart with silver nitrate?**
+After acidifying with dilute nitric acid, silver nitrate gives a white precipitate with chloride, cream with bromide and yellow with iodide. Silver chloride dissolves in dilute ammonia, silver bromide only in concentrated ammonia, and silver iodide in neither.
+
+**How do you test for ammonium ions?**
+Warm the sample with aqueous sodium hydroxide and hold damp red litmus paper at the mouth of the tube without touching the glass. Ammonia gas is released and turns the litmus blue: NH₄⁺(aq) + OH⁻(aq) → NH₃(g) + H₂O(l).
+
+**Why must the litmus paper be damp in the ammonium test?**
+Ammonia has to dissolve in water to give OH⁻ ions before the litmus responds. Warming is also needed, because ammonia is very soluble in water and heat drives it out of the solution as a gas.
+
+**Why is distilled water used in test-tube analysis?**
+Tap water can contain chloride and sulfate ions, which could give a false positive in the halide or sulfate test. Distilled or deionised water avoids this.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 3.1.4 Qualitative analysis, learning outcome (a)(i) and (ii), with its additional guidance and PAG4. Published by OCR.

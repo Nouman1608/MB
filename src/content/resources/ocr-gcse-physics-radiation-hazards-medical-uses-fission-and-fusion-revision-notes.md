@@ -232,6 +232,23 @@ Example: ²H + ³H → ⁴He + ¹n. Nucleon number: 2 + 3 = 5 and 4 + 1 = 5. Pro
 - Omitting the neutron that triggers fission, or the neutrons released that continue the chain.
 - Not showing the power of 2 or the number of half-lives in a decay calculation.
 
+## Frequently asked questions
+
+**What is the difference between contamination and irradiation?**
+Irradiation is exposure to radiation from a source outside the body, with no radioactive atoms transferred. Contamination is radioactive atoms on or inside an object or person.
+
+**Does an irradiated object become radioactive?**
+No. In irradiation the radioactive atoms stay in the source, so the object does not become radioactive, and exposure stops when the source is removed or shielded.
+
+**Why are very high temperatures needed for nuclear fusion?**
+Nuclei are positively charged, so they repel each other. Very high temperature and pressure are needed to bring them close enough to fuse.
+
+**Which parts of this topic are separate Physics only in OCR GCSE Physics A?**
+In OCR GCSE (9-1) Physics A (J249), contamination and irradiation (P6.2a) is for both tiers. Hazards and half-life, medical uses, fission and fusion (P6.2b to P6.2e) are separate Physics only.
+
+**How do you work out how long until a source reaches a safe level?**
+Divide the starting activity by the safe level, find which power of 2 that ratio is, and multiply the number of half-lives by the half-life. This uses net decline after whole half-lives, which is Higher tier only.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249)* specification, Version 5.0 (July 2026), for first assessment in 2018, topic P6.2 Uses and hazards.

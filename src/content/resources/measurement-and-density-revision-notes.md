@@ -21,9 +21,9 @@ syllabusTopics:
     subtopic: "density"
 description: "Condensed recall notes on measuring length, volume and time, mass versus weight, and density for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -122,3 +122,17 @@ kg/m3  or  g/cm3
 8. Explain what inertia is, and which of mass or weight it depends on.
 
 **Answers:** 1. V = 24 cm³; ρ = 96/24 = **4 g/cm³**. 2. No — 4 g/cm³ is greater than water's 1 g/cm³, so it sinks. 3. Mass is matter in kg and constant; weight is a force in newtons that varies with gravitational field strength. 4. Submerge it in a displacement can or partly filled measuring cylinder; the volume of water displaced equals the stone's volume. 5. Human reaction time (~0.2 s) is a fixed error; spreading it over 20 swings and dividing reduces its effect on each period by a factor of 20. 6. period = 24.0/20 = **1.2 s**. 7. Force per unit mass; g = W/m. 8. Inertia is a body's resistance to a change in its state of rest or motion; it depends only on **mass**, since a weightless object in space still has inertia.
+
+## Frequently asked questions
+
+**How do you read a micrometer?**
+Add the main scale reading, in whole and half millimetres, to the thimble scale reading, in hundredths of a millimetre. A micrometer reads to 0.01 mm, and reading only one scale gives a large error.
+
+**How do you convert cm³ to m³?**
+Divide by 1 000 000, because 1 m³ = 1 000 000 cm³. Forgetting this conversion is a frequent slip in density questions.
+
+**What is the density of water?**
+Water has a density of 1 g/cm³, which is the same as 1000 kg/m³. Check which units a question uses before comparing densities.
+
+**Is inertia a property of mass or weight?**
+Inertia is a property of mass. An object in deep space is weightless but still resists a push, because its mass has not changed.

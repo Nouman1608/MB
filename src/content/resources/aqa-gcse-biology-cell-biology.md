@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "cell-biology-aqa-gcse-biology"
 description: "Cell structure, cell division, and transport in cells -- the full content of Topic 1 Cell biology for AQA GCSE Biology (8461)."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-08-21
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide covers **Topic 1 Cell biology**, the first of eight
@@ -241,3 +241,20 @@ Saying bacteria "have no DNA" rather than no nucleus — they have DNA, just not
 - Explain why electron microscopes changed our understanding of cells.
 - Distinguish embryonic and adult stem cells, and state one therapeutic use and one ethical concern.
 - Distinguish diffusion, osmosis and active transport by what moves, direction, and energy use.
+
+## Frequently asked questions
+
+**What does Topic 1 Cell biology in AQA GCSE Biology 8461 cover?**
+It covers 4.1.1 Cell structure, 4.1.2 Cell division and 4.1.3 Transport in cells.
+
+**What is the difference between eukaryotic and prokaryotic cells?**
+Eukaryotic cells, such as animal, plant and fungal cells, have a nucleus enclosing their genetic material. Prokaryotic cells, such as bacteria, have no nucleus; their DNA is a single loop, often with plasmids.
+
+**What is the maximum magnification of a light microscope?**
+About ×2000. Electron microscopes have much higher magnification and resolution, so they can show sub-cellular structures in detail.
+
+**What is the difference between diffusion, osmosis and active transport?**
+Diffusion is the net movement of particles down a concentration gradient. Osmosis is the diffusion of water across a partially permeable membrane. Active transport moves particles from a lower to a higher concentration using energy from respiration.
+
+**Do plant and animal cells differentiate in the same way?**
+No. Most animal cells differentiate early and lose the ability to differentiate, while many plant cells keep this ability throughout life.

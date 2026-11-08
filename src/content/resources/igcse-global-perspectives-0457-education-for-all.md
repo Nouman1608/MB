@@ -194,6 +194,23 @@ For Component 3, teams of two to five choose a topic and identify a **local** is
 - [Team Project revision notes](/resources/igcse-global-perspectives-team-project-revision-notes/)
 - Related topics: [Poverty and inequality](/resources/igcse-global-perspectives-0457-poverty-and-inequality/) and [Social identity and inclusion](/resources/igcse-global-perspectives-0457-social-identity-and-inclusion/)
 
+## Frequently asked questions
+
+**What issues come under Education for all in IGCSE Global Perspectives?**
+Global issues include why some children never start or leave school early, access versus quality, and equal chances for girls and boys. National and local issues include free and compulsory schooling, language of instruction, school distance and cost, and teacher shortages.
+
+**What causes children to be out of school?**
+Possible causes include cost, distance and safety, too few schools or teachers, conflict or disaster, social expectations such as early marriage, and disability. Test each against evidence from the sources.
+
+**What is SDG 4?**
+Sustainable Development Goal 4, adopted by United Nations member states in 2015, aims to "ensure inclusive and equitable quality education and promote lifelong learning opportunities for all". It is a real-world reference point for this topic.
+
+**What makes a good Individual Report question on education?**
+The question must divide opinion, such as "Should children be taught in their home language in their first years of school?" A question like "What is education for all?" only asks for description.
+
+**When should a Team Project plan how to measure success?**
+Measuring success must be planned at the start, for example by recording how many reading-buddy sessions took place and asking pupils and teachers short questions before and after.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Education for all is on the topic list in section 3; the assessment objectives are in section 2 and the component details and command words are in section 4.

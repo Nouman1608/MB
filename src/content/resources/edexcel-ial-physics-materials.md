@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-mechanics-and-materials"
     subtopic: "materials"
-description: "Density, upthrust, Stokes' law and viscosity, Hooke's law, the Young modulus and elastic strain energy for sub-topic 1.4 of Pearson Edexcel International A Level Physics (YPH11), Unit 1."
+description: "Density, upthrust, Stokes' law and viscosity, Hooke's law, the Young modulus and elastic strain energy: sub-topic 1.4 of Edexcel IAL Physics (YPH11), Unit 1."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -226,6 +226,20 @@ Hooke's-law behaviour.
 - Interpret force-extension and stress-strain graphs, identifying the limit of proportionality, elastic limit, yield point, elastic and plastic deformation, and breaking stress.
 - Describe CORE PRACTICAL 3 (determining the Young modulus of a material).
 - Calculate elastic strain energy using Eel = ½FΔx and from the area under a force-extension graph.
+
+## Frequently asked questions
+
+**What is Hooke's law in Edexcel IAL Physics?**
+Hooke's law is ΔF = kΔx, where k is the stiffness of the object in N/m. Extension is proportional to the applied force up to the limit of proportionality.
+
+**What is the difference between the limit of proportionality and the elastic limit?**
+The limit of proportionality is where a force-extension graph stops being a straight line. The elastic limit is the point beyond which the material no longer returns to its original shape when the force is removed.
+
+**How do you calculate elastic strain energy?**
+Elastic strain energy is Eel = ½FΔx while the material obeys Hooke's law. More generally it is the area under the force-extension graph, found graphically beyond the limit of proportionality.
+
+**How does temperature affect viscosity?**
+Viscosity is temperature dependent: for a liquid it typically decreases as the liquid warms. Stokes' law uses the viscosity at the temperature of the fluid.
 
 ## Related resources
 

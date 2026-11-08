@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "forces-and-their-effects-oxfordaqa-igcse"
 description: "Original exam-style practice questions with full worked answers on motion graphs, Newton laws, momentum and moments for International GCSE Physics."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -115,3 +115,17 @@ d = **0.64 m** from the pivot, on the other side [1] [1].
 - Naming weight and normal contact force on the same object as a third-law pair.
 - Forgetting to add drag back on to the resultant force to find the driving force.
 - Saying braking distance doubles (rather than quadruples) when speed doubles.
+
+## Frequently asked questions
+
+**Are these OxfordAQA International GCSE Physics past paper questions?**
+No. They are original practice questions on forces and their effects for OxfordAQA International GCSE Physics (9203), written for revision. Use them alongside the official past papers.
+
+**What are the most common mistakes in IGCSE forces questions?**
+Saying balanced forces mean an object is stationary, treating the driving force as the resultant force, and forgetting to add drag back on when finding a driving force. Balanced forces also allow steady motion.
+
+**What is the gradient of a distance-time graph?**
+The gradient of a distance-time graph is the speed. On a velocity-time graph the gradient is the acceleration and the area under the line is the distance travelled.
+
+**How do airbags and seatbelts reduce injury?**
+They increase the time over which the momentum changes. The change in momentum is fixed by the collision, so a longer time means a smaller force.

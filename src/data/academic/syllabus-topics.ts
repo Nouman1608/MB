@@ -936,7 +936,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2019', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA -- official International AS and A-level Physics specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-as-and-a-level-physics-specification.pdf', verifiedDate: '2026-09-16',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/10/oxfordaqa-international-as-and-a-level-physics-specification.pdf', verifiedDate: '2026-09-16',
     notes: "OxfordAQA International AS and A-level Physics (9630); the specification's entry codes are 9631 (International Advanced Subsidiary) and 9632 (International Advanced Level). Guided learning hours: 180 for the International AS, 360 for the full International A-level. Sections 3.1-3.5 are the shared AS/A-level content; sections 3.6-3.13 (Circular and periodic motion; Gravitational fields and satellites; Electric fields and capacitance; Exponential change; Magnetic fields; Thermal physics; Nuclear energy; Energy sources) are International A-level only. All 13 topics and their sub-topic structure are as printed in the specification's subject content; topics 10-13 (3.10-3.13, 19 sub-topics) were missing until E939 (round 43) and were added from the Version 4.4 PDF (42 pp., read to its copyright block) on 2026-09-17, with the printed upper-case sub-topic headings set in sentence case. Topics 1-9 verified directly against the official specification PDF (oxfordaqa.com), fetched in full 2026-08-19. Content of 3.2.3 (Motion along a straight line) and 3.2.5 (Newton's laws of motion) re-verified against the same PDF (oxfordaqaexams.org.uk/9630, Version 4.4), fetched 2026-09-02. D-240 (I361): relinked to the Version 4.4 copy linked from the OxfordAQA qualification page (42 pp., read to its copyright block 2026-09-16); all topic and sub-topic names above appear in it.",
     topics: [
       { number: 1, name: 'Measurements and their errors', slug: 'measurements-and-their-errors-oxfordaqa-alevel', stage: 'AS', subtopics: [
@@ -4331,8 +4331,8 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2018', effectiveTo: '2027', status: 'current',
     tiered: false,
     source: 'OxfordAQA — official International GCSE English Literature (9275) specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-english-literature-specification-2018.pdf', verifiedDate: '2026-09-16',
-    notes: 'Overlaps with AQA UK GCSE English Literature (8702). Two routes exist: Route A (Paper 1 + Paper 2a, with an unseen-prose section) and Route B (Paper 1 + Paper 2b + non-exam assessment). Both routes are listed: 3.1 Prose and drama (Paper 1, both routes), 3.2 Route A: Poetry and unseen texts, and 3.3 Route B: Poetry and non-exam assessment; set texts (from a prescribed list, plus the OxfordAQA poetry anthology People and Places) are not encoded here. D-240 (I361): Version 5.1 (copyright 2025, 24 pp.), linked from the OxfordAQA qualification page, read to its copyright block 2026-09-16; the routes, papers and section names above are unchanged. E939 (round 43, 2026-09-17): topics rebuilt from section 3 Subject content of the same PDF (24 pp., read to its copyright block) with its own numbers and names; 3.3 Route B (3.3.1 Poetry, 3.3.2 Unseen poetry, 3.3.3 Non-exam assessment) was previously left out, and the sub-topics were renumbered from 1.1-2.3 to the printed 3.1.1-3.2.3.',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/10/oxfordaqa-international-gcse-english-literature-specification-2018.pdf', verifiedDate: '2026-11-08',
+    notes: 'Overlaps with AQA UK GCSE English Literature (8702). Two routes exist: Route A (Paper 1 + Paper 2a, with an unseen-prose section) and Route B (Paper 1 + Paper 2b + non-exam assessment). Both routes are listed: 3.1 Prose and drama (Paper 1, both routes), 3.2 Route A: Poetry and unseen texts, and 3.3 Route B: Poetry and non-exam assessment; set texts (from a prescribed list, plus the OxfordAQA poetry anthology People and Places) are not encoded here. D-240 (I361): Version 5.1 (copyright 2025, 24 pp.), linked from the OxfordAQA qualification page, read to its copyright block 2026-09-16; the routes, papers and section names above are unchanged. E939 (round 43, 2026-09-17): topics rebuilt from section 3 Subject content of the same PDF (24 pp., read to its copyright block) with its own numbers and names; 3.3 Route B (3.3.1 Poetry, 3.3.2 Unseen poetry, 3.3.3 Non-exam assessment) was previously left out, and the sub-topics were renumbered from 1.1-2.3 to the printed 3.1.1-3.2.3. 2026-11-08: the 2026/07 PDF URL returned 404; sourceUrl moved to the 2026/10 upload, whose cover reads Version 5.2 (series label kept at 5.1 pending a full re-read of the changes).',
     topics: [
       { number: 1, name: 'Prose and drama', slug: 'prose-and-drama-9275', subtopics: [
         { number: '3.1.1', name: 'Prose fiction', slug: 'prose-fiction-9275' },
@@ -4729,7 +4729,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA — official specification PDF (International AS/A level Sociology 9690, Version 1.1)',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/09/oxfordaqa-international-a-level-sociology-specification.pdf', verifiedDate: '2026-10-04',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/10/oxfordaqa-international-a-level-sociology-specification.pdf', verifiedDate: '2026-10-04',
     notes: 'New qualification: for teaching from September 2026, International AS exams May/June 2027 onwards, International A-level exams May/June 2028 onwards. Read from the specification PDF itself (Version 1.0); re-checked against Version 1.1 on 2026-10-04 (D-387), which renames 3.2.1.1 from "The great divide" to "The Great Divergence" and rewrites its content (why Europe industrialised: modernisation theory, Weber, dependency theory); every other topic and subtopic name is unchanged. The slug the-great-divide-9690 is kept so existing resource mappings stay valid. International AS content is 3.1.1 Families, 3.1.2 Socialisation and social control and 3.1.3 Research methods and theory: Unit 1 Introducing Sociology assesses 3.1.1 (Section A, 40 marks) and 3.1.3 (Section B Research methods, 20 marks); Unit 2 Exploring Sociology assesses 3.1.2 (Section A, 40 marks) and 3.1.3 (Section B Research methods and theory, 20 marks, an extended response question). A2 adds 3.2.1 People and development (Unit 3), 3.2.2 People and the environment (Unit 4) and 3.2.3 People and technology (Unit 5). Subtopic numbers are the specification\'s own.',
     topics: [
       { number: 1, name: 'Unit 1 – Introducing Sociology', slug: 'unit-1-introducing-sociology-9690', stage: 'AS', subtopics: [
@@ -5245,6 +5245,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       { number: 2, name: 'Paper 2 – The Environment of Pakistan', slug: 'paper-2-environment-2059', subtopics: [
         { number: '2.1', name: 'The land of Pakistan', slug: 'the-land-of-pakistan-2059' },
         { number: '2.2', name: 'Natural resources – an issue of sustainability', slug: 'natural-resources-sustainability-2059' },
+        { number: '2.3', name: 'Power', slug: 'power-2059' },
+        { number: '2.4', name: 'Agricultural development', slug: 'agricultural-development-2059' },
+        { number: '2.5', name: 'Industrial development', slug: 'industrial-development-2059' },
+        { number: '2.6', name: 'Trade', slug: 'trade-2059' },
+        { number: '2.7', name: 'Transport and telecommunications', slug: 'transport-and-telecommunications-2059' },
+        { number: '2.8', name: 'Population and employment', slug: 'population-and-employment-2059' },
       ] },
     ],
   },

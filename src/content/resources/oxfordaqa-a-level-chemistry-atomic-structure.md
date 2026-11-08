@@ -20,11 +20,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "oxfordaqa-a-level-chemistry-atomic-structure"
     subtopic: "oxfordaqa-a-level-chemistry-3-1-1-3"
-description: "Fundamental particles, mass number and isotopes, the time-of-flight mass spectrometer, electron configuration to Z=36, and ionisation energy evidence for shell and sub-shell structure, for OxfordAQA International AS and A-level Chemistry 9620, section 3.1.1."
+description: "OxfordAQA 9620 section 3.1.1 Atomic structure: fundamental particles, isotopes, the time of flight mass spectrometer, configurations and ionisation energy."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -186,6 +186,19 @@ in the course.
   <figcaption>Electrons occupy orbitals singly before pairing; Cr (3d5 4s1) and Cu (3d10 4s1) are exceptions.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are isotopes?**
+Isotopes are atoms of the same element with the same number of protons but different numbers of neutrons, so their mass numbers differ. Their electron arrangements are the same, so they have the same chemical properties.
+
+**Does OxfordAQA 9620 require knowledge of how a mass spectrometer works?**
+Yes. OxfordAQA International AS and A-level Chemistry (9620) requires you to understand the principles of a simple time of flight mass spectrometer, including ionisation, acceleration, ion drift and ion detection, and to interpret simple mass spectra.
+
+**How do successive ionisation energies show the group of an element?**
+Successive ionisation energies rise gradually within a shell and show a large jump when an electron is removed from a shell closer to the nucleus. The number of electrons removed before the biggest jump gives the number of outer electrons and so the group.
+
+**What does "limited to mononuclear ions" mean for relative atomic mass calculations?**
+It means the calculations use ions containing a single atom, not molecular or polyatomic ions. For a 1+ ion, the mass-to-charge ratio is numerically equal to its relative mass.
 
 ## Official syllabus
 

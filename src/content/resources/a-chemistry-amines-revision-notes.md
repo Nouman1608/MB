@@ -19,9 +19,9 @@ syllabusTopics:
     subtopic: "a-phenylamine-and-azo-compounds"
 description: "Condensed recall notes on amine basicity, preparation, reactions and the comparison of aliphatic and aromatic amines for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -168,3 +168,16 @@ Aliphatic amines do not form stable diazonium salts, which is why this chemistry
   <figcaption>Six reactions turn benzene into 4-nitrophenyl ethanoate. (Cambridge only)</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Why must NaOH be added after reducing nitrobenzene to phenylamine?**
+Reduction with tin and concentrated HCl produces the phenylammonium salt, not the free amine. Adding NaOH removes the proton and liberates phenylamine, and this step is often left out of answers.
+
+**Why do aliphatic amines not form azo dyes?**
+Aliphatic amines do not form stable diazonium salts, so diazotisation and azo coupling are aromatic-only chemistry. In Cambridge 9701 Chemistry it is phenylamine that is diazotised below 10 °C.
+
+**What do amines form with copper(II) ions?**
+Amines act like ammonia and form complexes with Cu²⁺ ions, giving a deep blue solution. The nitrogen lone pair is donated to the copper ion.
+
+**Why does phenylamine react with bromine water without a catalyst?**
+The nitrogen lone pair is delocalised into the benzene ring, which activates the ring towards electrophiles. Phenylamine gives an immediate white precipitate of 2,4,6-tribromophenylamine at room temperature.

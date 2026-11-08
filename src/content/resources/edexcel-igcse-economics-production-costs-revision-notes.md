@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "business-economics-edexcel-igcse-economics"
-description: "Condensed recall notes on the factors of production, productivity, division of labour, costs, revenue and economies of scale for Pearson Edexcel International GCSE Economics (4EC1), 1.2.1-1.2.3."
+description: "Revision notes on factors of production, productivity, division of labour, costs, revenue and economies of scale for Edexcel International GCSE Economics 4EC1."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -169,6 +169,23 @@ As economies develop, employment and output typically shift from primary toward 
 5. State one advantage and one disadvantage of division of labour.
 
 **Answers:** 1. Land — rent (e.g. irrigation or drainage improves it); labour — wages (e.g. education and training improve it); capital — interest (e.g. investment in more or better machinery); enterprise — profit (e.g. better organisation of the other factors). 2. Profit = total revenue − total costs = $80,000 − ($15,000 + $40,000) = **$25,000**. 3. Internal — e.g. bulk-buying raw materials at a discount, which arises from the firm's own growth; external — e.g. a pool of locally trained skilled labour, which arises from the growth of the whole industry or area and benefits every firm in it, not just one. 4. Downward-sloping while economies of scale are captured, reaching a minimum at the most efficient scale, then upward-sloping once diseconomies of scale set in. 5. Advantage: higher output per worker through specialisation; disadvantage: repetitive, monotonous work can reduce worker motivation.
+
+## Frequently asked questions
+
+**What are the four factors of production?**
+The four factors of production are land, labour, capital and enterprise. In the Pearson Edexcel International GCSE Economics (4EC1) specification they are part of section 1.2.1 Production.
+
+**How do you calculate profit and average total cost?**
+Profit is total revenue minus total costs, where total costs are fixed costs plus variable costs. Average total cost is total costs divided by the number of units produced.
+
+**What is the difference between internal and external economies of scale?**
+Internal economies come from the firm's own growth, such as bulk buying, whatever its location. External economies come from the whole industry growing in one area, such as a pool of skilled labour and nearby suppliers that benefit every firm there.
+
+**What are the advantages and disadvantages of the division of labour?**
+Splitting production into specialised tasks raises output per worker and develops skills faster. The disadvantages are worker boredom and over-specialisation, which leaves a worker or business vulnerable if that one task is no longer needed.
+
+**What causes diseconomies of scale?**
+Diseconomies of scale happen when a firm grows too large and average costs start to rise. Causes include bureaucracy, communication problems, lack of control and distance between management and workers.
 
 ## Official syllabus
 

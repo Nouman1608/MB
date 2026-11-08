@@ -207,6 +207,20 @@ Conflicts to mention (syllabus 4.2.2): economic growth against balance of paymen
 - Listing policies with no judgement of how effective they might be.
 - Calling every deficit harmful without discussing cause and size.
 
+## Frequently asked questions
+
+**What are the four components of the current account?**
+The current account is made up of trade in goods, trade in services, primary income (wages, interest, profit and dividends) and secondary income (gifts, aid and remittances).
+
+**How do you measure the size of a current account balance?**
+Divide the balance by GDP and multiply by 100 to express it as a percentage of GDP, which shows how large it is relative to the economy.
+
+**How does a deficit affect the exchange rate under a floating system?**
+A deficit means more of the home currency is supplied to buy foreign currency for imports than is demanded by foreigners buying exports, so the currency tends to fall.
+
+**Will a depreciation always cure a deficit?**
+No. The outcome depends on the price elasticity of demand for exports and imports, and buyers often take time to change habits. If both are very inelastic, the deficit could widen.
+
 ## Official syllabus
 
 The source is the Cambridge O Level Economics 2281 syllabus for 2026 (version 2), published by Cambridge International. These notes cover section 6.4.

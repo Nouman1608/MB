@@ -21,9 +21,9 @@ syllabusTopics:
     subtopic: "radioactivity-cambridge-igcse-physics"
 description: "Study guide for Cambridge IGCSE Physics 0625 Topic 5: atomic structure, isotopes, fission and fusion, alpha, beta and gamma, half-life and safety."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-27
 updatedDate: 2026-09-28
 featured: false
@@ -271,6 +271,20 @@ When a question asks you to "explain" a precaution, name the precaution and link
 ## Next steps
 
 Test yourself with the [revision notes](/resources/igcse-physics-0625-nuclear-physics-revision-notes/), then try the [Core and Extended practice questions on nuclear physics](/resources/igcse-physics-0625-nuclear-physics-practice/) and the [Extended practice set](/resources/igcse-physics-nuclear-physics-extended-practice/). Find weak spots across the course with the [0625 Core diagnostic](/practice/0625/diagnostic/core/) or [0625 Extended diagnostic](/practice/0625/diagnostic/extended/). The previous topic is [Electricity and magnetism](/resources/igcse-physics-0625-electricity-and-magnetism/).
+
+## Frequently asked questions
+
+**Does the 0625 syllabus include positron (β⁺) emission?**
+No. The syllabus does not include β⁺, so "beta" always means β⁻, a fast-moving electron from the nucleus.
+
+**Does gamma emission change a nucleus into a different element?**
+No. Gamma emission leaves the nucleon number and the proton number unchanged, so the element stays the same and the nucleus only loses energy.
+
+**Is alpha radiation the most dangerous type?**
+Not without context. Alpha is the most ionising, but outside the body it is stopped by skin or air.
+
+**What is the quickest way to check a nuclide equation?**
+Check that the top numbers balance and the bottom numbers balance. That check alone catches most errors.
 
 ## Official syllabus
 

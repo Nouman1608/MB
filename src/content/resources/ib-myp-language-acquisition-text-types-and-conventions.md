@@ -17,9 +17,9 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-assessment-criteria"
 description: "IB MYP Language Acquisition study guide to text types: conventions of email, blog, article, speech, brochure, review and diary, with original models."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -205,6 +205,20 @@ Before you hand in, check:
 - **Layout without purpose:** a brochure shape with no call to action.
 - **Topic, not task:** describing the festival instead of making the request the task set.
 - **Blog and diary confused:** both use the first person, but only a blog has readers.
+
+## Frequently asked questions
+
+**What text types should I know for IB MYP Language Acquisition writing?**
+This guide covers seven common text types: email, blog post, article, speech, brochure or leaflet, review and diary entry. MYP has no prescribed content list, so check with your teacher which text types your units use.
+
+**What is the difference between a blog post and a diary entry?**
+Both use the first person, but a blog is public and speaks to readers, often ending with a question or call for comments. A diary entry is written for the writer alone, so addressing readers turns it into a blog.
+
+**How do I decide which register to use in an MYP writing task?**
+Register follows from audience and purpose, not from the topic. Decide the text type, audience and purpose first, then choose how formal to be and keep that register from the first paragraph to the last.
+
+**What are conventions in MYP Language Acquisition?**
+Conventions are the expected features of a text type, such as a subject line in an email or a headline and byline in an article. The MYP Language Acquisition brief (from 2020) lists conventions as an example related concept.
 
 ## Where to go next
 

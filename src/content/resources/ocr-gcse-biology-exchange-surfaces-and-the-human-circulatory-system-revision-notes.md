@@ -255,6 +255,23 @@ Conclusion: the smaller cube is reached more completely in the same time because
 - Writing that oxygen is carried by plasma.
 - Blaming narrow capillaries alone for slow flow.
 
+## Frequently asked questions
+
+**Why is the left ventricle wall thicker than the right?**
+The left ventricle pumps blood around the whole body, so it needs a thicker muscular wall than the right ventricle, which pumps blood only to the lungs. Saying it is thicker just "to pump harder" is incomplete.
+
+**Is oxygen carried by plasma?**
+No. Oxygen is carried by haemoglobin in red blood cells. Plasma carries substances such as dissolved food molecules, carbon dioxide and urea.
+
+**How are capillaries adapted for exchange?**
+Capillary walls are one cell thick, giving a short diffusion distance, and there are so many capillaries that their combined surface area is large.
+
+**How do you show a surface area to volume ratio?**
+Calculate and show both the surface area and the volume, with the correct units (cm² and cm³), and then write the ratio. Giving the ratio without the working loses marks.
+
+**What do these notes cover?**
+They cover OCR GCSE Biology A (J247) statements B2.2a to B2.2e on exchange surfaces and the human circulatory system.
+
 ## Official syllabus
 
 These notes follow OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), for first assessment in 2018, published by OCR: statements B2.2a to B2.2e.

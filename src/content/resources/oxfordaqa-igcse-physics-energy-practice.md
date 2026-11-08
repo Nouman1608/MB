@@ -12,13 +12,13 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "energy-oxfordaqa-igcse"
-description: "Original exam-style practice questions with full worked answers on work done, energy stores, kinetic and gravitational potential energy, power, efficiency, Sankey diagrams and energy resources for International GCSE Physics."
+description: "Original practice questions with worked answers on work, kinetic and potential energy, power, efficiency and Sankey diagrams for OxfordAQA IGCSE Physics 9203."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-04
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -98,3 +98,17 @@ Related: [Energy study guide](/resources/igcse-oxfordaqa-physics-energy/), [Ener
 ## Approaching Energy calculation questions
 
 The four core equations in this topic — work, gravitational potential energy, kinetic energy and power — are frequently combined rather than tested in isolation, so the most valuable practice is working through multi-step problems like Question 6, where the output of one equation becomes the input to another. Before calculating, identify which quantities are known and which equation connects them to the quantity being asked for, since misidentifying this is a more common source of lost marks than an arithmetic error once the right equation is chosen. For efficiency and Sankey diagram questions, always check that the useful and wasted branches sum back to the total input energy — this simple check catches most errors before they reach the final answer.
+
+## Frequently asked questions
+
+**Are these OxfordAQA International GCSE Physics past paper questions?**
+No. They are original questions written for practice on the Energy topic of OxfordAQA International GCSE Physics (9203). Use them alongside the official past papers from the board.
+
+**What value of g should you use in IGCSE energy calculations?**
+Use the value the question gives you. These questions use g = 10 N kg⁻¹, so check the data in each question before substituting into Ep = mgh.
+
+**How should you answer a question comparing energy resources?**
+Give a reasoned comparison for the specific situation described, using named advantages and drawbacks of each resource. A generic list of renewable and non-renewable pros and cons usually earns fewer marks.
+
+**Why are energy questions often multi-step?**
+The work, potential energy, kinetic energy and power equations are often combined, so the answer to one becomes the input to the next. Practise chaining them, and remember to take a square root when finding a speed from kinetic energy.

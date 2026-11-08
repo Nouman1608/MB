@@ -228,6 +228,20 @@ Use a group to find a second example quickly. If you have named jargon, a second
 - Repeating one point twice when asked for two different ones.
 - Forgetting to add a judgement or conclusion on "recommend" or "justify" questions.
 
+## Frequently asked questions
+
+**How do you tell internal from external communication?**
+Ask who receives the message: internal communication is between people inside the business, and external communication is with people outside it. The method does not decide the type, since an email can be either.
+
+**Why is communication important to a business?**
+Communication gives clear instructions, supports better decisions, keeps customers informed and helps employees feel involved. Poor communication leads to mistakes, delays, lost customers and unhappy staff.
+
+**What problems do communication barriers cause?**
+Barriers can cause mistakes and rework that raise costs, delays to decisions and deliveries, customers lost to rivals, poorer motivation and conflict, and weaker decisions based on incomplete information.
+
+**How should you suggest a way to reduce a communication barrier?**
+Match the fix to the barrier, then say what it costs or risks. For example, asking staff to reply to confirm a message tackles a lack of feedback.
+
 ## Official syllabus
 
 Aligned to section 2.3 of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education).

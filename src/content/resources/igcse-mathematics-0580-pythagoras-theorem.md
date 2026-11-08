@@ -280,6 +280,23 @@ Once Pythagoras is secure, the next steps in the 0580 syllabus are:
 
 Test yourself with the [Trigonometry practice questions](/resources/igcse-mathematics-trigonometry-practice/) and the [Extended trigonometry practice](/resources/igcse-mathematics-trigonometry-extended-practice/), recap with the [Trigonometry revision notes](/resources/igcse-mathematics-trigonometry-revision-notes/), and check where you stand with the [Core diagnostic](/practice/0580/diagnostic/core/) or [Extended diagnostic](/practice/0580/diagnostic/extended/).
 
+## Frequently asked questions
+
+**Is Pythagoras' theorem given on the 0580 exam?**
+No. Subtopic 6.1 asks you to know Pythagoras' theorem: recall it without being given it and recognise when it applies. The outcome is the same for Core and Extended in Cambridge IGCSE Mathematics 0580.
+
+**Which side is the hypotenuse?**
+The hypotenuse is the side opposite the right angle, and it is always the longest side. In a rotated triangle it may not be the side drawn at the top or on the slant.
+
+**How can you tell if you should have subtracted in Pythagoras?**
+If a "shorter side" comes out longer than the hypotenuse, you added when you should have subtracted. When the hypotenuse is given, subtract the squares.
+
+**How do you check whether a triangle is right-angled?**
+Square the longest side and compare it with the sum of the squares of the other two. For sides 20, 21 and 29, 20² + 21² = 841 = 29², so the triangle is right-angled.
+
+**How do you use Pythagoras in an isosceles triangle?**
+Split it down the middle into two right-angled triangles and use half the base, not the full base, as one of the shorter sides.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027* (Version 3), Subject content, topic 6 Trigonometry: C6.1 and E6.1 Pythagoras’ theorem. Linked references: E1.18 Surds, E3.4 Length and midpoint, C6.2/E6.2 Right-angled triangles and E6.6 Pythagoras’ theorem and trigonometry in 3D.

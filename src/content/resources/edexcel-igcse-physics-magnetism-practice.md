@@ -24,9 +24,9 @@ syllabusTopics:
     subtopic: "electromagnetic-induction"
 description: "Original exam-style practice questions with full worked answers on the motor effect, induction and transformers for Edexcel International GCSE Physics 4PH1."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -55,7 +55,7 @@ Related: [Magnetism and Electromagnetism revision notes](/resources/edexcel-igcs
 
 **4.** A current-carrying wire is held perpendicular to a magnetic field and experiences a force.
 
-**(a)** Name the rule used to predict the direction of the force, and state what each of its three fingers/thumb represents. **[2]**
+**(a)** State the direction of the force relative to the directions of the current and the magnetic field. **[2]**
 
 **(b)** State the force if the wire is rotated to lie parallel to the field, with a reason. **[2]**
 
@@ -109,7 +109,7 @@ Related: [Magnetism and Electromagnetism revision notes](/resources/edexcel-igcs
 
 **3.** Any two: **increase the current** [1]; **increase the number of turns**; add a **soft iron core** [1].
 
-**4. (a)** **Fleming's left-hand rule** [1] — **F**irst finger = **F**ield, se**C**ond finger = **C**urrent, thu**M**b = **M**otion [1].
+**4. (a)** The force is **at right angles to the current** [1] and **at right angles to the magnetic field** [1], as given by Fleming's left-hand rule.
 
 **(b)** **Zero** [1], because there is no component of the current perpendicular to the field — the force is maximum when they are perpendicular and zero when parallel [1].
 
@@ -159,3 +159,14 @@ I_p = (5.0 × 12) ÷ 240 [1] = **0.25 A** [1].
 - Explaining transmission losses in terms of voltage rather than I²R.
 - Confusing magnetically hard materials (permanent magnets) with magnetically soft materials (electromagnet cores).
 - Describing the field inside a solenoid as circular rather than uniform.
+
+## Frequently asked questions
+
+**Are these Edexcel IGCSE magnetism questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers from Pearson Edexcel.
+
+**Which real past paper question can I try next?**
+Try Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 10, whose mark scheme is paraphrased on this page.
+
+**Where can I revise magnetism and electromagnetism before trying these questions?**
+Use the Magnetism and Electromagnetism revision notes linked at the top of this page, which condense the motor effect, induction and transformers for Edexcel International GCSE Physics 4PH1.

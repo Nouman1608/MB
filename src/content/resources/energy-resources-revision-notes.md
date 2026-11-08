@@ -15,9 +15,9 @@ syllabusTopics:
     subtopic: "energy-work-and-power"
 description: "Condensed recall notes on renewable and non-renewable energy, electricity generation and efficiency for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -112,4 +112,18 @@ Both formulas — energy-based and power-based — give the same answer for the 
 7. Name the three factors the syllabus permits when comparing advantages and disadvantages of energy resources.
 8. Which one named resource can generate electricity without a turbine or generator, and how?
 
-**Answers:** 1. No — uranium is a finite fuel that will eventually be exhausted, even though it produces no CO₂. 2. (9/60) × 100 = **15%**. 3. Geothermal (heat from radioactive decay in the Earth), tidal (the Moon's gravitational pull), and nuclear (energy from a mined fuel). 4. Advantage: no fuel cost and no emissions in use. Disadvantage: intermittent — no output when the wind does not blow. 5. Chemical energy in coal → thermal energy → kinetic energy of steam and turbine → electrical energy in the generator, with thermal energy dissipated at each stage. 6. (900/1200) × 100 = **75%**. 7. Renewable status, availability, and environmental impact. 8. Solar — photovoltaic cells convert radiation directly into electricity, with no boiler, turbine or generator involved.
+**Answers:** 1. No — uranium is a finite fuel that will eventually be exhausted, even though it produces no CO₂. 2. (9/60) × 100 = **15%**. 3. Geothermal (heat from radioactive decay in the Earth), tidal (the Moon's gravitational pull), and nuclear (energy from a mined fuel). 4. Advantage: renewable, with no emissions in use. Disadvantage: intermittent — no output when the wind does not blow. 5. Chemical energy in coal → thermal energy → kinetic energy of steam and turbine → electrical energy in the generator, with thermal energy dissipated at each stage. 6. (900/1200) × 100 = **75%**. 7. Renewable status, availability, and environmental impact. 8. Solar — photovoltaic cells convert radiation directly into electricity, with no boiler, turbine or generator involved.
+
+## Frequently asked questions
+
+**Where does tidal energy come from?**
+Tidal energy comes chiefly from the Moon's gravity, not the Sun. Geothermal and nuclear energy also do not trace back to solar radiation.
+
+**Are Sankey diagrams examinable for Cambridge O Level 5054?**
+No. Sankey diagrams are background; the syllabus requires only the two efficiency equations, not diagram construction.
+
+**Is a renewable resource always pollution-free?**
+No. Renewable does not mean pollution-free. Biofuels, for example, are near carbon-neutral but their combustion still produces pollutants.
+
+**How should the environmental impact of wind or solar be phrased?**
+Say "no emissions in use", because manufacturing the equipment still has an environmental impact.

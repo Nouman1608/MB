@@ -230,6 +230,23 @@ Reasons for growth: economies of scale, market power, risk spreading, new market
 - Giving benefits of integration with no costs, or no judgement at the end.
 - Quoting a percentage without showing the working.
 
+## Frequently asked questions
+
+**What is satisficing?**
+Satisficing means aiming for a satisfactory outcome, such as a minimum profit target, rather than the maximum. It is realistic when information is poor, owners are content or the firm faces little competition.
+
+**What is the principal-agent problem?**
+Shareholders (principals) own the firm but managers (agents) run it and may not act in the owners' interests, for example pursuing sales, status or security. Asymmetric information lets managers hide slack.
+
+**Where does a sales revenue maximiser produce?**
+A sales revenue maximiser produces where marginal revenue is zero, so price elasticity of demand is 1. This gives higher output, a lower price and lower profit than profit maximisation.
+
+**What is the difference between organic and external growth?**
+Organic growth uses the firm's own resources, such as new products and sites, and is slower but keeps control. External growth comes through mergers or takeovers, which is faster but riskier.
+
+**How can shareholders control managers?**
+They can use profit-related pay and share options, independent directors and audits, and shareholder votes, and the threat of takeover also disciplines poorly performing managers.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), version 1.2, sections 3.3.1.3 and 3.3.1.4. First teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022. Published by OxfordAQA.

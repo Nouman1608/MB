@@ -349,6 +349,23 @@ Chord reminder: for a chord of length 2c at distance d from the centre of a circ
 11. **5** faces, **9** edges, **6** vertices.
 12. Tangent is perpendicular to the radius, so length = √(25² − 7²) = √576 = **24 cm**.
 
+## Frequently asked questions
+
+**What is the difference between a sector and a segment of a circle?**
+A sector is bounded by two radii and an arc. A segment is bounded by a chord and an arc.
+
+**How do you find the interior angle of a regular polygon?**
+Divide 360° by the number of sides to get the exterior angle, then subtract that from 180°. For a regular 12-sided polygon the exterior angle is 30°, so the interior angle is 150°.
+
+**How do you find a back bearing?**
+Add or subtract 180° from the original bearing. Bearings are measured clockwise from north and written with three figures.
+
+**How many lines of symmetry does a rhombus have?**
+A rhombus that is not a square has 2 lines of symmetry and rotational symmetry of order 2. Claiming four lines is a common way to overstate its symmetry.
+
+**Which circle theorems are in Cambridge O Level Mathematics 4024?**
+Topic 4.7 covers the angle in a semicircle, tangent and radius, the angle at the centre, angles in the same segment, cyclic quadrilaterals and the alternate segment theorem. Topic 4.8 adds equal chords, the perpendicular bisector of a chord and equal tangents from an external point.
+
 ## Official syllabus
 
 Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for examination in 2025, 2026 and 2027, Cambridge International Education, topic 4 Geometry, sections 4.1 to 4.8.

@@ -12,11 +12,11 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "scaling-up-ocr-gcse-biology"
-description: "Supplying the cell and the challenges of size -- the full content of Topic B2 Scaling Up for OCR GCSE (9-1) Biology A (Gateway Science) (J247), including diffusion, osmosis, mitosis, stem cells, and the human circulatory and plant transport systems."
+description: "Study guide to OCR GCSE Biology A (J247) Topic B2 Scaling Up: diffusion, osmosis, active transport, mitosis, stem cells, SA:V ratio and transport systems."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -213,6 +213,23 @@ methods rather than only the underlying biology.
 
 - [Scaling Up revision notes](/resources/ocr-gcse-biology-scaling-up-revision-notes/)
 - [Scaling Up practice questions](/resources/ocr-gcse-biology-scaling-up-practice/)
+
+## Frequently asked questions
+
+**What does Topic B2 Scaling Up cover in OCR GCSE Biology A (J247)?**
+Topic B2 has two parts: B2.1 Supplying the cell, covering diffusion, osmosis, active transport, mitosis, differentiation and stem cells, and B2.2 The challenges of size, covering surface area to volume ratio, the human circulatory system and transport in plants.
+
+**Why do large organisms need exchange surfaces and transport systems?**
+As an organism gets larger, its volume increases faster than its surface area, so its surface area to volume ratio falls. Diffusion alone would then be far too slow to supply every cell, so structures such as lungs, gut, capillaries, xylem, phloem and root hairs are needed.
+
+**Where are stem cells found?**
+Stem cells are found in embryonic animals, in adult animals (for example in bone marrow) and in meristems in plants. Treating "stem cell" as meaning only embryonic stem cells is a common error.
+
+**What is the difference between xylem and phloem?**
+Xylem is made of dead cells and carries water and dissolved mineral ions one way, upward from the roots. Phloem is made of living cells and carries dissolved food (sugars) in both directions, which is called translocation.
+
+**Which practicals are linked to the Scaling Up topic?**
+The practical work named for this topic includes examining root hair cells, observing mitosis in root tip cells and using a potometer to investigate transpiration rate. Questions can test the method, controlled variables and limitations of these practicals.
 
 ## Official syllabus
 

@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-time-space"
 description: "Time and space revision notes for IB DP Language A: Literature: key terms, a context-to-effect method, translation rules and a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 For full explanations and longer worked examples, read the
@@ -177,6 +177,20 @@ and [Intertextuality revision notes](/resources/ib-dp-language-a-literature-inte
 - In Paper 1, stating an exact period or country for an unseen passage with no textual support.
 - In the individual oral, discussing each work's context separately instead of linking both to the
   global issue.
+
+## Frequently asked questions
+
+**What is the difference between setting and context?**
+Setting is the time and place inside the story; context is the time and place around the work, when and where it was written. A novel written in 1950 and set in 1850 has a setting of 1850 and a context of production of 1950.
+
+**Which features of a work usually survive translation?**
+Plot and the order of events, structure, major images and symbols, point of view and characters' actions usually travel well. Sound, register, dialect and the connotations of single words often change.
+
+**What is an anachronistic reading?**
+An anachronistic reading judges a work only by the values of the reader's own time. On its own it is weak, because it skips what the work shows about its own culture; it can be a final step after that explanation.
+
+**How many teaching hours does Time and space have in IB Literature?**
+In IB DP Language A: Literature, Time and space has 50 recommended teaching hours at SL and 80 at HL.
 
 ## Official syllabus
 

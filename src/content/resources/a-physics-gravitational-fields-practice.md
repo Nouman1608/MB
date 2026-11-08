@@ -25,9 +25,9 @@ syllabusTopics:
     subtopic: "a-gravitational-potential"
 description: "Original exam-style practice questions with full worked answers on Newton law of gravitation, field strength, potential and orbits for A Level Physics."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -124,3 +124,17 @@ Related: [Gravitational Fields revision notes](/resources/a-physics-gravitationa
 - Forgetting that gravitational force provides the centripetal force in an orbit.
 - Confusing gravitational potential (J kg⁻¹) with gravitational potential energy (J) — check which the question asks for.
 - Treating g as a fixed constant rather than a quantity that decreases with distance from a mass.
+
+## Frequently asked questions
+
+**Why is gravitational potential always negative?**
+Gravitational potential is defined as zero at infinity, and because gravity is always attractive, work is released as a mass moves inwards. The potential at any finite distance is therefore less than zero.
+
+**What is the difference between gravitational potential and gravitational potential energy?**
+Gravitational potential is the work done per unit mass bringing a small mass from infinity to a point, in J kg⁻¹. Gravitational potential energy is the work done for an actual mass m, in joules, and the two are related by E = mϕ.
+
+**Why do astronauts in orbit feel weightless?**
+The astronaut and the spacecraft are both in free fall, accelerating towards Earth at the same rate, so there is no contact force between them. Gravity still acts; it is the absence of a normal contact force that produces weightlessness.
+
+**What mistakes are common in orbit calculations?**
+Common errors include using the height above the surface instead of the orbital radius from the centre, omitting the minus sign on potential, and forgetting that gravitational force provides the centripetal force.

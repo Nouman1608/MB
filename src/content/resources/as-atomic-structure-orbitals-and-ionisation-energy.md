@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-atomic-structure"
     subtopic: "as-ionisation-energy"
-description: "Electronic configuration by orbital, and how ionisation energy trends and data are explained and interpreted, for Cambridge International AS & A Level Chemistry 9701."
+description: "Orbitals, sub-shells and electron configurations, with first and successive ionisation energy trends explained, for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -209,6 +209,20 @@ outer-shell count have been removed, not before.
 - First ionisation energy: definition and equation
 - Explaining the down-a-group and across-a-period trends, including the two dips
 - Reading successive ionisation energy data to deduce configuration and group
+
+## Frequently asked questions
+
+**Why is 4s written before 3d in electron configurations?**
+The 4s sub-shell fills before 3d, so a full configuration reads 1s²2s²2p⁶3s²3p⁶4s²3d¹⁰ and so on. When transition metal ions form, however, the 4s electrons are removed first; both facts are examinable in Cambridge 9701.
+
+**Why does first ionisation energy increase across a period?**
+Nuclear charge increases across the period while shielding stays roughly the same, because electrons are added to the same shell. Full marks need both points, not just "more protons".
+
+**Why are there dips in ionisation energy at Group 13 and Group 16?**
+At Group 13 the electron is removed from a p sub-shell, which is higher in energy than the s sub-shell. At Group 16 the electron is removed from a doubly occupied orbital, where spin-pair repulsion makes it easier to remove.
+
+**How do successive ionisation energies give evidence for shells?**
+A large jump between successive ionisation energies shows that the next electron is being removed from a shell closer to the nucleus. The position of the jumps indicates how many electrons are in the outer shell.
 
 ## Related resources
 

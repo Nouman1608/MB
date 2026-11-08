@@ -202,6 +202,20 @@ Ratios help, but they have limits. Quote these with the business in front of you
 
 Work through the [practice questions](/resources/igcse-business-0264-analysis-of-accounts-practice/) and keep the [revision notes](/resources/igcse-business-0264-analysis-of-accounts-revision-notes/) beside you. For stakeholder groups, see [business objectives and stakeholder objectives](/resources/igcse-business-0264-business-objectives-and-stakeholder-objectives/). For owners of different kinds of firm, see [types of business organisation](/resources/igcse-business-0264-types-of-business-organisation/).
 
+## Frequently asked questions
+
+**Why is inventory left out of the acid test ratio?**
+Inventory is the least liquid current asset, because it must be sold before it becomes cash. Removing it shows whether the business can meet short-term debts without relying on selling stock.
+
+**Who uses a business's accounts?**
+Internal users include owners, managers and employees; external users include suppliers, government and lenders such as banks. Each looks at different figures, such as liquidity for a supplier deciding whether to sell on credit.
+
+**What are the limitations of ratio analysis?**
+Ratios use historical figures, the statement of financial position is a snapshot on one day, one year's ratio means little alone, non-financial factors are left out, timing choices can affect figures, and ratios show that something changed but not why.
+
+**How can a business improve its liquidity?**
+It can collect receivables sooner, hold less stock, delay payments to suppliers where they agree, or arrange longer-term finance in place of an overdraft. Each fix has a drawback to weigh.
+
 ## Official syllabus
 
 Aligned to section 5.5 of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education).

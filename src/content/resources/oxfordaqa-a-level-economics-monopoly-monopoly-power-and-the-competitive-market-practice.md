@@ -123,6 +123,23 @@ Evaluate whether Firm K's market position harms consumers. **[10]**
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on monopoly and concentration ratio questions?**
+Common losses are calling any firm with a large share a pure monopoly, leaving the "other firms" total out of a concentration ratio, mixing up percentage points and per cent, and describing benefits of monopoly without discussing whether they reach consumers.
+
+**How do I calculate a concentration ratio?**
+Add the sales of the n largest firms, divide by total market sales including all the smaller firms, and multiply by 100. Use the same measure, such as revenue or output, for every firm.
+
+**How should I explain a barrier to entry?**
+Name the barrier and then link it to monopoly power, for example by showing how it keeps rivals out so the firm can hold price above cost. Naming a barrier alone is only a start.
+
+**How should I evaluate whether a dominant firm harms consumers?**
+Use the figures given to support the argument, weigh possible benefits such as economies of scale against higher prices, consider whether savings are passed on, and choose a side rather than repeating the points.
+
+**Which OxfordAQA 9640 sections do these questions cover?**
+They cover sections 3.1.4.4 (monopoly and monopoly power) and 3.1.4.5 (the competitive market process) of the OxfordAQA International AS and A-level Economics (9640) specification.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, sections 3.1.4.4 and 3.1.4.5. First teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022. Published by OxfordAQA.

@@ -22,9 +22,9 @@ syllabusTopics:
     subtopic: "a-damped-and-forced-oscillations-resonance"
 description: "Condensed recall notes on simple harmonic motion, energy in SHM, damping and resonance for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -154,3 +154,17 @@ Examples: tuned circuits (selecting a radio station), MRI (nuclei driven at thei
 7. A mass–spring system oscillates with amplitude 0.030 m and angular frequency 6.0 rad/s. Find its maximum acceleration.
 
 **Answers:** 1. Motion in which acceleration is proportional to displacement from a fixed point and always directed towards that point (a = −ω²x). 2. Acceleration is greatest at maximum displacement; velocity is greatest at the equilibrium position. 3. v_max = ωx₀ = 4 × 0.05 = **0.2 m/s**. 4. Critical damping returns the system to equilibrium in the shortest possible time without oscillating; heavy damping returns it more slowly, also without oscillating. 5. The peak amplitude falls, the peak shifts to a slightly lower frequency, and the curve broadens. 6. A free oscillation occurs at the system's natural frequency with no external driving force; a forced oscillation is driven by an external periodic force at a chosen frequency, which may differ from the natural frequency. 7. a_max = ω²x₀ = 6.0² × 0.030 = 36 × 0.030 = **1.08 m/s²**.
+
+## Frequently asked questions
+
+**Why is there a minus sign in a = −ω²x?**
+The minus sign shows that the acceleration is always directed back towards the equilibrium position, opposite to the displacement. It is part of the definition of SHM, so omitting it loses the mark.
+
+**Where are velocity and acceleration greatest in SHM?**
+Velocity is greatest at the equilibrium position and zero at maximum displacement. Acceleration is greatest at maximum displacement and zero at equilibrium.
+
+**What is the difference between critical and heavy damping?**
+Critical damping returns a system to equilibrium in the shortest possible time without oscillating. Heavy damping also prevents oscillation but returns the system more slowly.
+
+**Does damping change the period of an oscillation?**
+For light damping the period stays essentially unchanged; damping reduces the amplitude instead. Increasing damping lowers and broadens the resonance peak.

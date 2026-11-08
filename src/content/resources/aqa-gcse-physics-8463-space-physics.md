@@ -21,9 +21,9 @@ syllabusTopics:
     subtopic: "red-shift"
 description: "Study guide for AQA GCSE Physics 8463 Space physics: the solar system, star life cycles, orbits and satellites, and red-shift, with worked examples."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -319,6 +319,20 @@ There is still much about the universe that is not understood:
 ## Next steps
 
 Go to the [revision notes](/resources/aqa-gcse-physics-8463-space-physics-revision-notes/) for condensed recall and a quick self-test. Then work through the [practice questions](/resources/aqa-gcse-physics-8463-space-physics-practice/). The [free diagnostics](/diagnostics/) help you find weak topics across the course.
+
+## Frequently asked questions
+
+**How did the Sun form?**
+The Sun formed from a nebula, a cloud of dust and gas, pulled together by gravitational attraction. As the material became denser and hotter, light nuclei began to fuse, releasing energy so the star began to shine.
+
+**Why is a satellite in a circular orbit accelerating?**
+Its direction changes all the time, so its velocity, a vector, changes even though its speed is constant. A changing velocity is an acceleration, caused by gravity acting towards the centre. This is Higher tier only in AQA GCSE Physics 8463.
+
+**What is red-shift?**
+Red-shift is the observed increase in the wavelength of light from most distant galaxies, which shows they are moving away. The further away a galaxy is, the faster it recedes and the bigger the increase in wavelength.
+
+**How does red-shift support the Big Bang theory?**
+Galaxies are moving away, with the most distant fastest, so the universe is expanding. It must have been smaller in the past, and running the expansion backwards leads to a very small, extremely hot and dense starting region.
 
 ## Official syllabus
 

@@ -29,9 +29,9 @@ description: "Original AQA GCSE Sociology 8192 Education practice questions with
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -199,6 +199,20 @@ Discuss how far sociologists would agree that schools operate on meritocratic pr
 - Check any weak areas against the [Education study guide](/resources/aqa-gcse-sociology-8192-education/).
 - Find your gaps across the whole course with our free [diagnostics](/diagnostics/).
 - Want help with extended answers? [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Which writer goes with the correspondence principle?**
+The correspondence principle belongs to Bowles and Gintis, the Marxist writers named in the AQA GCSE Sociology (8192) specification. Linking it to Durkheim or Parsons is a common way to lose marks.
+
+**Which Ball study should you use for which question?**
+Use Ball's Beachside Comprehensive study for teacher expectations and processes within schools, and the 1994 study by Ball, Bowe and Gewirtz for parental choice and competition between schools.
+
+**How do you answer a data question in GCSE Sociology?**
+Describe the pattern and quote figures from the table to support it. If the question asks for a calculation, show your working as well as the answer.
+
+**How do you answer an item-based question in GCSE Sociology?**
+Use the item's details and link them explicitly to a named sociological concept or study, rather than repeating the item.
 
 ## Official syllabus
 

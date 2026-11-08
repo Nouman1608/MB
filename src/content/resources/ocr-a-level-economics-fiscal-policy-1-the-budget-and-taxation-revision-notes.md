@@ -187,6 +187,23 @@ Overall versus current: Country B receipts 410 bn cu, current spending 395, capi
 - Forgetting that the current budget excludes capital spending.
 - Conclusions that repeat points instead of judging which matters most and why.
 
+## Frequently asked questions
+
+**What is the difference between the average and marginal tax rate?**
+The average tax rate is total tax paid divided by total income. The marginal tax rate is the rate on extra income, found by dividing the change in tax by the change in income; in a progressive system the marginal rate is above the average rate.
+
+**What are the features of a good tax?**
+The standard criteria are equity (vertical and horizontal), certainty, convenience, economy (cheap to collect), efficiency (few distortions) and adequate yield. No tax scores well on all of them, so weigh the criteria against the government's aim.
+
+**What is the difference between the budget position and the fiscal stance?**
+The budget position is the balance between receipts and spending: surplus, deficit or balanced. The fiscal stance is the direction policy pushes aggregate demand, whether expansionary, contractionary or neutral.
+
+**What is the difference between the overall and current budget balance?**
+The overall balance is total receipts minus current and capital spending. The current balance excludes capital spending, so a government can run an overall deficit while having a current budget surplus.
+
+**What are the main sources of UK tax revenue?**
+The main UK revenue sources to recall are VAT, income tax, National Insurance contributions, corporation tax, excise duties, council tax and business rates.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)*, Version 3.0 (June 2026), first assessment 2021, Component 2 content: The application of policy instruments, topic Fiscal policy, the first part. Published by OCR (Oxford Cambridge and RSA).

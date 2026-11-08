@@ -257,6 +257,20 @@ Close with a clear decision, a reason tied to the figures or facts in the stem a
 - Mixing up appreciation and depreciation, or the direction of the effect on exporters and importers.
 - Giving a one-sided answer to "evaluate" or "justify" and not reaching a judgement.
 
+## Frequently asked questions
+
+**What is the difference between an import tariff and an import quota?**
+An import tariff is a tax on imports, charged per unit or as a percentage of value, which raises the importer's cost. An import quota is a cap on the quantity of a good that can be imported.
+
+**How does an appreciation of the currency affect exporters and importers?**
+When the home currency appreciates, prices to overseas customers rise, so exporters become less competitive and sales may fall. Importers gain, because imported supplies become cheaper.
+
+**What are the disadvantages of an MNC for a host country?**
+The syllabus gives increased competition for local firms, environmental damage, exploitation of natural resources and repatriation of profits as examples.
+
+**How can a business respond to an import tariff?**
+It can raise its price, accept lower profit, find a local or tariff-free supplier, or produce inside the country. Weigh the cost of each option against the tariff.
+
 ## Official syllabus
 
 Aligned to section 6.2 of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education).

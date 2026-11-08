@@ -19,7 +19,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "transformations-and-vectors-cambridge-igcse-maths"
     subtopic: "magnitude-of-a-vector-cambridge-igcse-maths"
-description: "Study guide for Cambridge IGCSE Maths 0580 subtopics E7.2 and E7.3: column vectors, adding, subtracting, scaling and finding magnitude."
+description: "Detailed study guide for Cambridge IGCSE Maths 0580 subtopics E7.2 and E7.3: column vectors, adding, subtracting, scaling and finding magnitude."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
 featured: false
@@ -363,6 +363,23 @@ Both Extended papers can test this content.
 E7.4 Vector geometry (Extended only) builds directly on this page. You represent vectors as directed line segments, use position vectors, write routes through a diagram in terms of two given vectors, and use scalar multiples to show that lines are parallel or that three points are collinear. The [Transformations and vectors study guide](/resources/igcse-mathematics-transformations-and-vectors/) has a worked parallel-lines proof.
 
 Recap the whole topic with the [Transformations and vectors revision notes](/resources/igcse-mathematics-transformations-and-vectors-revision-notes/) and test yourself with the [Transformations and vectors practice questions](/resources/igcse-mathematics-transformations-and-vectors-practice/). If the Pythagoras step feels shaky, the [Pythagoras' theorem study guide](/resources/igcse-mathematics-0580-pythagoras-theorem/) covers it, and the [Coordinate geometry study guide](/resources/igcse-mathematics-coordinate-geometry/) covers length and midpoint. Check where you stand with the [Extended diagnostic](/practice/0580/diagnostic/extended/) (or the [Core diagnostic](/practice/0580/diagnostic/core/) if you sit Core).
+
+## Frequently asked questions
+
+**How do you find the magnitude of a vector?**
+Use Pythagoras on the components: the magnitude of (x, y) is √(x² + y²). Remember the square root, and square negative entries in brackets, so (−8)² = 64.
+
+**How do you find a translation vector?**
+Subtract the start coordinates from the finish coordinates (finish minus start). Check by adding the vector back to one starting point.
+
+**How do you multiply a vector by a scalar?**
+Multiply every component by the scalar, not just the top entry. For example, 3 × (2, −5) = (6, −15).
+
+**Can you add the magnitudes of two vectors?**
+No. Add the vectors component by component first, then find the magnitude of the result.
+
+**How accurate should a magnitude such as √74 be?**
+If you are asked for 3 significant figures, √74 = 8.60, not 8.6. Keep the trailing zero when it is part of the required accuracy.
 
 ## Official syllabus
 

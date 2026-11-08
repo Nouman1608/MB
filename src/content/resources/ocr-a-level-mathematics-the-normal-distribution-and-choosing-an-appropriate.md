@@ -272,6 +272,20 @@ Calculations that explicitly require the approximation are excluded, so this is 
 - Saying "the data are normal" as a reason, instead of "the data are continuous, symmetrical and bell-shaped".
 - Writing a limitation that does not refer to the context given.
 
+## Frequently asked questions
+
+**Is the normal distribution AS or A Level content in OCR A Level Mathematics A (H240)?**
+References 2.04e to 2.04h, covering the normal distribution and choosing an appropriate distribution, are A Level only.
+
+**How do you standardise a normal variable?**
+Use Z = (X − μ)/σ, which converts X ~ N(μ, σ²) to the standard normal Z ~ N(0, 1). Rearranged, X = μ + zσ.
+
+**What are the limitations of a normal model?**
+It gives a small non-zero probability to impossible values such as negative times, it cannot represent skewed data, and it treats as continuous measurements that are recorded to a finite accuracy.
+
+**Can a binomial distribution be approximated by a normal distribution in OCR H240?**
+The specification says a binomial distribution with large n can be approximated by N(np, npq), but calculations that explicitly require the approximation are excluded, so it is for understanding.
+
 ## Next steps
 
 Work through the [revision notes](/resources/ocr-a-level-mathematics-the-normal-distribution-and-choosing-an-appropriate-revision-notes/), then the [practice questions](/resources/ocr-a-level-mathematics-the-normal-distribution-and-choosing-an-appropriate-practice/). Check yourself against the [printable checklist](/checklists/ocr/a-level/mathematics/) and take a [free diagnostic](/diagnostics/).

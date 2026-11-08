@@ -20,7 +20,7 @@ publishedDate: 2026-10-11
 featured: false
 ---
 
-This guide covers moments and statics of rigid bodies in OCR A Level Mathematics A (H240), content references 3.04a to 3.04c of the Cambridge OCR specification, Version 3.1 (August 2026). All of 3.04 is Stage 2, so it is A Level only and is not part of AS. The specification lists Mechanics within Paper 3, Pure Mathematics and Mechanics. For the unit of moment, see the [units and kinematics guide](/resources/ocr-a-level-mathematics-quantities-units-and-kinematics-with-constant/). When you finish, use the [revision notes](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies-revision-notes/) and the [practice questions](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies-practice/). Wider links: the [course hub](/boards/ocr/a-level/mathematics/), the [checklist](/checklists/ocr/a-level/mathematics/) and the [free diagnostics](/diagnostics/).
+This guide covers moments and statics of rigid bodies in OCR A Level Mathematics A (H240), content references 3.04a to 3.04c of the OCR specification, Version 3.1 (August 2026). All of 3.04 is Stage 2, so it is A Level only and is not part of AS. The specification lists Mechanics within Paper 3, Pure Mathematics and Mechanics. For the unit of moment, see the [units and kinematics guide](/resources/ocr-a-level-mathematics-quantities-units-and-kinematics-with-constant/). When you finish, use the [revision notes](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies-revision-notes/) and the [practice questions](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies-practice/). Wider links: the [course hub](/boards/ocr/a-level/mathematics/), the [checklist](/checklists/ocr/a-level/mathematics/) and the [free diagnostics](/diagnostics/).
 
 ## What this unit covers
 
@@ -237,6 +237,20 @@ For a quick recap of the method and formulas, go to the [revision notes](/resour
 </figure>
 
 
+## Frequently asked questions
+
+**What does moments cover in OCR A Level Mathematics A (H240)?**
+References 3.04a to 3.04c cover the moment of a force, equilibrium of a rigid body, and problems with beams on supports, tilting, non-uniform rods, hinges, laminas and ladders.
+
+**When is a beam about to tilt?**
+A beam on two supports is about to tilt about one support when the reaction at the other support becomes zero. Set that reaction to zero and take moments about the support that remains.
+
+**Where does the weight of a rectangular lamina act?**
+The weight of a uniform rectangular lamina acts at its point of symmetry, the centre of the rectangle.
+
+**Which point should you take moments about?**
+Choosing a point where an unknown force acts removes that force from the equation, because a force through the point has zero moment about it. Do not include such forces in the moments equation.
+
 ## Official syllabus
 
-Cambridge OCR Level 3 Advanced GCE in Mathematics A (H240), Version 3.1 (August 2026), first assessment 2018, published by OCR. Content references 3.04a to 3.04c.
+OCR Level 3 Advanced GCE in Mathematics A (H240), Version 3.1 (August 2026), first assessment 2018, published by OCR. Content references 3.04a to 3.04c.

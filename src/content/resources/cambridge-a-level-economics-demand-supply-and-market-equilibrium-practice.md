@@ -151,6 +151,20 @@ These questions cover sections 2.1 and 2.4 of the Cambridge International AS & A
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - Want a teacher to go through your answers? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 demand and supply questions from past papers?**
+No. They are original practice questions with worked answers covering sections 2.1 and 2.4 of the Cambridge International AS & A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**What are common mistakes in demand and supply questions?**
+Common errors include calling a purely price-driven change a rise in demand, adding prices rather than quantities when building a market curve, and naming a surplus or shortage without saying how price then changes.
+
+**How should you show working when finding an equilibrium from equations?**
+Set quantity demanded equal to quantity supplied, solve for price, then substitute back to find quantity. Not showing the algebra is a common way to lose marks.
+
+**How do you tell which curve shifted from changes in price and quantity?**
+If price and quantity move in the same direction, demand most likely shifted. If they move in opposite directions, supply most likely shifted.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, sections 2.1 and 2.4.

@@ -241,6 +241,22 @@ range: π/6 ≤ θ + π/6 < 13π/6
   <figcaption>Two sides and a non-included angle can fit two different triangles.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between sec θ and arccos x?**
+sec θ is the reciprocal of cos θ, equal to 1/cos θ. arccos x is the inverse function of cos, which returns the angle whose cosine is x, and the notation cos⁻¹ x means arccos x, not 1/cos x.
+
+**What are the ranges of arcsin x and arccos x?**
+arcsin x gives angles from −π/2 to π/2 inclusive, and arccos x gives angles from 0 to π inclusive. Both accept inputs from −1 to 1 inclusive.
+
+**Why does sec θ = 0.4 have no solutions?**
+sec θ = 1/cos θ, so sec θ = 0.4 would need cos θ = 2.5, which is impossible. The graphs of sec and cosec never enter the strip between −1 and 1.
+
+**Which form of cos 2A should you use in an equation?**
+Choose the form that leaves one trig function: use 1 − 2 sin² A when the rest of the equation contains sin A, and 2 cos² A − 1 when it contains cos A. This turns the equation into a quadratic in a single function.
+
+**Are the t-formulae in the Edexcel IAL Maths P3 specification?**
+No. Unit P3 section 2 of the Edexcel IAL Mathematics specification (YMA01) covers reciprocal and inverse trig functions, sec² and cosec² identities, compound and double angle formulae and R-formulae, but the tan(θ/2) t-formulae are not required.
 
 ## Official syllabus
 

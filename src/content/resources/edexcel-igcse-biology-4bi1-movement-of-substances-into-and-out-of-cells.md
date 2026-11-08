@@ -318,6 +318,23 @@ Check one row: for 0.4 mol/dm³, (2.16 − 2.20) ÷ 2.20 × 100 = −1.8%.
 
 Condense this with the [revision notes](/resources/edexcel-igcse-biology-4bi1-movement-of-substances-into-and-out-of-cells-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-igcse-biology-4bi1-movement-of-substances-into-and-out-of-cells-practice/). For enzymes and cell structure, use the [cell structure practice questions](/resources/edexcel-igcse-biology-cell-structure-practice/). To find gaps across the course, try one of the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is diffusion?**
+Diffusion is the net movement of particles from a region of higher concentration to a region of lower concentration, down a concentration gradient.
+
+**What is active transport?**
+Active transport is the movement of substances against a concentration gradient, from lower to higher concentration, using energy from respiration.
+
+**Which four factors affect the rate of movement of substances?**
+The concentration gradient, temperature, distance and surface area to volume ratio.
+
+**Why do plant cells not burst in water?**
+The cell wall resists further expansion when the cell is full of water, so the cell becomes turgid rather than bursting.
+
+**What practical does Edexcel 4BI1 point 2.17 require?**
+Investigating diffusion and osmosis using both living and non-living systems, such as potato cylinders in sucrose solutions, agar cubes with indicator and Visking tubing.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1) specification, Issue 3, published by Pearson Education Limited: Topic 2, Structures and functions in living organisms, sub-topic (d) Movement of substances into and out of cells, points 2.15–2.17.

@@ -28,9 +28,9 @@ syllabusTopics:
     subtopic: "a-electromagnetic-induction"
 description: "Original exam-style practice questions with full worked answers on the motor effect, charged particles in fields, induction and Lenz law for A Level Physics."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -131,3 +131,17 @@ Related: [Magnetic Fields revision notes](/resources/a-physics-magnetic-fields-r
 - Forgetting to convert frequency in rev/s (or Hz) to angular frequency ω = 2πf (this conversion is examinable even though the generator e.m.f. formula ε₀ = BANω it feeds into, in Q8(b), is an extension beyond the 9702 syllabus).
 
 Work through the [Magnetic Fields revision notes](/resources/a-physics-magnetic-fields-revision-notes/) alongside these questions: the notes summarise the three ways to induce an e.m.f. and the flux/flux-linkage definitions in condensed form, while these questions test whether you can apply the generator e.m.f. formula and describe field patterns for a specific current-carrying conductor, rather than just recall the equations.
+
+## Frequently asked questions
+
+**What is the definition of magnetic flux density?**
+Magnetic flux density is the force per unit length per unit current on a conductor at right angles to the field, B = F/(IL). It is measured in tesla.
+
+**How do you find the radius of a charged particle's path in a magnetic field?**
+The magnetic force provides the centripetal force, so BQv = mv²/r, giving r = mv/(BQ). The radius is directly proportional to the particle's speed.
+
+**How does Lenz's law follow from conservation of energy?**
+If the induced current helped the change that produced it, the change would grow and energy would be created from nothing. Because it opposes the change, work must be done against the induced effect, and that work supplies the electrical energy.
+
+**Is the generator formula ε₀ = BANω required in Cambridge 9702?**
+No. The rotating-coil peak e.m.f. formula is an extension beyond the 9702 electromagnetic induction syllabus and is not a recall or data-booklet equation, although converting a rotation rate to angular frequency with ω = 2πf is examinable.

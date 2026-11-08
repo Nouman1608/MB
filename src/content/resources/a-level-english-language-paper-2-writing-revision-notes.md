@@ -13,11 +13,11 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-writing-9093"
-description: "Condensed recall notes on Paper 2 structure, Section A shorter writing and reflective commentary, and Section B extended writing for Cambridge International AS & A Level English Language 9093."
+description: "Condensed notes on Cambridge 9093 Paper 2 Writing: shorter writing and reflective commentary in Section A, and extended writing in Section B, with exam traps."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -96,6 +96,23 @@ Because the three categories are fixed but the specific topic within each one ch
 5. What three-part structure should every sentence of the reflective commentary follow?
 
 **Answers:** 1. 2 hours, 50 marks. 2. (a) shorter writing, max 400 words, 15 marks; (b) reflective commentary, no set word limit, 10 marks. 3. Imaginative/descriptive, discursive/argumentative, review/critical -- fixed every series, with only the topic within each category varying. 4. 600–900 words. 5. Identify the choice, quote it from your own text, explain its effect in relation to audience and purpose.
+
+## Frequently asked questions
+
+**How long is Cambridge 9093 Paper 2 and how many marks is it worth?**
+Paper 2 Writing lasts 2 hours and is worth 50 marks. Section A carries 25 marks and Section B carries 25 marks.
+
+**How are the marks split in Paper 2 Section A?**
+Part (a) is a shorter piece of writing of no more than 400 words, worth 15 marks. Part (b) is a reflective commentary on your own writing, with no set word limit, worth 10 marks.
+
+**What are the three Section B categories in 9093 Paper 2?**
+Section B offers one question in each of imaginative/descriptive, discursive/argumentative and review/critical writing. You answer one, writing 600 to 900 words.
+
+**How should each sentence of a reflective commentary be built?**
+Identify the choice, quote it from your own text, and explain its effect in relation to audience and purpose. Writing the commentary as a second essay or a retelling of your piece loses marks.
+
+**Can I use a dictionary in Cambridge 9093 English Language exams?**
+No. These notes state that no dictionaries are allowed.
 
 ## Official syllabus
 

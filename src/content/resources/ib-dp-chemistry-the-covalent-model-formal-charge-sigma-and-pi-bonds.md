@@ -268,6 +268,23 @@ The chain runs Lewis formula → domains → hybridization → geometry, and bac
 - The [subject hub](/boards/ib/ib-dp/chemistry/) and a [checklist of every understanding](/checklists/ib/ib-dp/chemistry/)
 - Short free [diagnostics](/diagnostics/) that show which units need work
 
+## Frequently asked questions
+
+**What evidence shows that benzene has delocalized bonds?**
+Physical evidence includes X-ray diffraction showing six equal C–C bond lengths and an enthalpy of hydrogenation much smaller than expected for three C=C bonds. Chemical evidence includes there being only one 1,2-disubstituted isomer and benzene's tendency to react by substitution rather than addition.
+
+**Why does benzene not decolourize bromine water like an alkene?**
+Benzene's delocalized ring is more stable than a structure with three separate double bonds, so it tends to react by substitution, which keeps the ring intact, rather than by addition.
+
+**What is hybridization in IB DP Chemistry?**
+Hybridization is the mixing of atomic orbitals on one atom to make new, equivalent hybrid orbitals for bonding. sp³ gives four orbitals at 109.5°, sp² gives three at 120° and sp gives two at 180°.
+
+**Is Structure 2.2.11 to 2.2.16 SL or HL?**
+These understandings, covering resonance, benzene, expanded octets, formal charge, sigma and pi bonds and hybridization, are higher level content in Structure 2.2.
+
+**How are resonance bonds different from single and double bonds?**
+The bonds that take part in resonance are all the same length, between the length of a single and a double bond of the same atoms, and the species is more stable than any single resonance structure suggests.
+
 ## Official syllabus
 
 Source: the IB *Chemistry guide* for the Diploma Programme (International Baccalaureate Organization), issued in February 2023 for first assessment in 2025. This page covers Structure 2.2, The covalent model, understandings 2.2.11 to 2.2.16, all of them additional higher level.

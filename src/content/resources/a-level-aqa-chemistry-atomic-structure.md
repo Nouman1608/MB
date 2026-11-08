@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "atomic-structure-7405"
     subtopic: "electron-configuration-7405"
-description: "Fundamental particles, mass number, isotopes and electron configuration -- the opening topic of AQA A-level Chemistry (7405), sitting within the Physical chemistry strand of the specification."
+description: "Fundamental particles, isotopes, time-of-flight mass spectrometry, electron configuration and ionisation energy: the first topic of AQA A-level Chemistry 7405."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -177,3 +177,20 @@ Writing the 3d sub-shell before 4s when giving configurations of transition meta
 - Account for the Al and S dips in Period 3.
 - Deduce the group of an element from successive ionisation energy data.
 - Explain how time-of-flight mass spectrometry separates isotopes and calculate Ar from a spectrum.
+
+## Frequently asked questions
+
+**Why is the 4s sub-shell filled before 3d but emptied first?**
+The 4s sub-shell is slightly lower in energy than 3d, so it fills first. When a transition metal atom ionises, however, the 4s electrons are lost before the 3d electrons, which is a frequent source of error.
+
+**How do you find an element's group from successive ionisation energies?**
+Look for the large jump, which happens when an electron is removed from a shell closer to the nucleus. If the jump comes between the second and third ionisation energies, the element has two outer electrons and is in Group 2.
+
+**Why is the first ionisation energy of aluminium lower than magnesium's?**
+Aluminium's outer electron is in a 3p orbital, which is higher in energy and slightly more shielded than magnesium's 3s electron, so it is easier to remove. Explaining this with inner-shell shielding alone is a common mistake.
+
+**Why is the first ionisation energy of sulfur lower than phosphorus's?**
+In sulfur two electrons share one 3p orbital and repel each other, which makes one of them easier to remove. Phosphorus has its three 3p electrons in separate orbitals.
+
+**How does time-of-flight mass spectrometry separate isotopes?**
+Ions with the same charge are accelerated to the same kinetic energy, so lighter ions travel faster and reach the detector sooner. The relative atomic mass is the weighted mean of the isotope peaks.

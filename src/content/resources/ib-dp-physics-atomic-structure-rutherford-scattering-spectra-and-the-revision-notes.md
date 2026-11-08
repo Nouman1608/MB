@@ -215,6 +215,20 @@ Method in steps:
 * Giving the Bohr energy with a positive sign.
 * Mixing up n in the energy formula with the number of photons or lines.
 
+## Frequently asked questions
+
+**Do I need to recall chemical symbols for IB DP Physics E.1?**
+No. You do not need to recall chemical symbols; nuclear notation uses X for the chemical symbol, with the nucleon number A and proton number Z.
+
+**How much detail on the scattering experiment is needed at SL?**
+At SL a qualitative account of the Geiger-Marsden-Rutherford experiment is enough. The nuclear radius, closest approach and Bohr model calculations are HL only.
+
+**Is there a shortcut for closest-approach calculations?**
+Yes. Using ke² = 1.44 MeV fm, the closest approach of an alpha particle is d (fm) = 2 × Z × 1.44 / E_k, with E_k in MeV.
+
+**How many spectral lines can four energy levels produce?**
+Count each distinct pair of levels. Three levels give three possible downward transitions, and four levels give six.
+
 ## Official syllabus
 
 IB *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization: sub-topic E.1 Structure of the atom.

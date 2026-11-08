@@ -155,6 +155,20 @@ The real exam marks extended answers with levels of response. A clear, supported
 - Choosing an Individual Report question with only one possible answer.
 - Planning a Team Project action with no way to measure success.
 
+## Frequently asked questions
+
+**What is the difference between participation and influence?**
+Signing a petition is participation. Whether it actually changes a decision is influence, which needs separate evidence.
+
+**What is a value in 0457 source questions?**
+A value is what someone believes matters, such as freedom, equality or order. Values explain why people reading the same evidence can reach different views.
+
+**What is the difference between a claim and a fact?**
+A fact can be checked, such as "turnout was 48%". A claim is put forward as true but still needs evidence, so if a statement still needs support, treat it as a claim.
+
+**Should you give your own political view in the Written Exam?**
+No. Judge the quality of the arguments in the sources rather than giving a party-political view. The exam rewards judgement about evidence and reasoning.
+
 ## Official syllabus
 
 These notes follow the Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Related pages: [Written Exam revision notes](/resources/global-perspectives-revision-notes/), [Individual Report revision notes](/resources/global-perspectives-individual-report-revision-notes/) and [Team Project revision notes](/resources/igcse-global-perspectives-team-project-revision-notes/).

@@ -316,6 +316,23 @@ Methanal is the one aldehyde that does not, because its carbonyl carbon carries 
 - Saying propanone gives a racemic mixture. Its product has two identical CH₃ groups, so no chiral centre.
 - Giving "toxic" for KCN without saying that acid releases HCN gas.
 
+## Frequently asked questions
+
+**Why does a nucleophile attack the carbon of a carbonyl group?**
+Oxygen is more electronegative than carbon, so the C=O bond is polar, Cδ+=Oδ−, and the carbon is electron deficient. A nucleophile donates an electron pair to this carbon while a pair of electrons from the double bond moves onto the oxygen.
+
+**What is the difference between an aldehyde and a ketone?**
+In an aldehyde the C=O group is at the end of the chain (–CHO) and the name ends in -al; in a ketone the C=O is joined to two carbon atoms and the name ends in -one. Aldehydes are readily oxidised to carboxylic acids, while ketones are not easily oxidised.
+
+**Why is acidified potassium dichromate not used to test for aldehydes?**
+Acidified dichromate oxidises aldehydes, but it also oxidises primary and secondary alcohols, so a colour change does not prove an aldehyde is present. Mild oxidising agents, Tollens' reagent and Fehling's solution, are used instead.
+
+**How do you name the product of a carbonyl compound with KCN and dilute acid?**
+The product is a hydroxynitrile, and the nitrile carbon counts as carbon 1 in the chain. For example, the product from ethanal, CH₃CH(OH)CN, has three carbons, so it is named as a propanenitrile.
+
+**Is there a required practical for aldehydes and ketones in AQA A-level Chemistry 7405?**
+No. Section 3.3.8 is A-level only and lists no required practical of its own. It is examined on A-level Paper 2, and Paper 3 can test any content and practical skill.
+
 ## Where this links
 
 Exam technique: [exam preparation](/resources/aqa-a-level-chemistry-exam-preparation/). Electron transfer in

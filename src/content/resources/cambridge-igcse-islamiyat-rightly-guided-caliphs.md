@@ -12,11 +12,14 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-0493"
-description: "The rule, achievements and significance of Abu Bakr, Umar, Uthman and Ali as leaders -- Subtopic 2.3, the Rightly Guided Caliphs, given a full deep dive beyond the bullet-point summary in the site's existing whole-Paper-2 study guide."
+  - qualification: "igcse"
+    topic: "paper-2-0493"
+    subtopic: "rightly-guided-caliphs-0493"
+description: "The rule, achievements and leadership of Abu Bakr, Umar, Uthman and Ali for Cambridge IGCSE Islamiyat 0493 Paper 2 subtopic 2.3, the Rightly Guided Caliphs."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-09
 featured: false
 ---
@@ -135,3 +138,14 @@ significance, rather than treating the two as a simple list.
   other states.
 - Revise how this subtopic connects to 2.1 (Hadith passages) and 2.4 (Articles of Faith and Pillars of
   Islam), since exam questions can draw links across Paper 2's subtopics.
+
+## Frequently asked questions
+
+**Who were the Rightly Guided Caliphs?**
+Abu Bakr (632–634), Umar (634–644), Uthman (644–656) and Ali (656–661), the four leaders who succeeded the Prophet (pbuh).
+
+**What was Abu Bakr's main challenge?**
+The Ridda wars against tribes that refused zakat or followed false prophets, which reunited Arabia.
+
+**How is 0493 Paper 2 structured?**
+Paper 2 lasts 1 hour 30 minutes and is worth 50 marks (50%). It has five questions: Questions 1 and 2 are compulsory and you choose two of Questions 3 to 5. Question 1 is worth 8 marks (4 + 4) and each other answered question 14 marks (10 + 4).

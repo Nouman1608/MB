@@ -160,6 +160,20 @@ Rules, norms and institutions do three things you can use in an answer:
 - Link actors to the key concepts: [power](/resources/ib-dp-global-politics-core-power/), [sovereignty](/resources/ib-dp-global-politics-core-sovereignty/), [legitimacy](/resources/ib-dp-global-politics-core-legitimacy/) and [interdependence](/resources/ib-dp-global-politics-core-interdependence/).
 - Check the course structure in the [syllabus guide](/resources/ib-dp-global-politics-syllabus-guide/) and the papers in [exam preparation](/resources/ib-dp-global-politics-exam-preparation/).
 
+## Frequently asked questions
+
+**Can a stakeholder become an actor?**
+Yes. A group can move from stakeholder to actor when it gains the means to act: residents who organise, raise money and bring a court case have turned themselves from people affected by an issue into actors who can shape it.
+
+**What is the difference between the structure and the dynamics of a political system?**
+In IB DP Global Politics, structure is the stable arrangement of a system: where authority sits, how decisions are made and how power is distributed. Dynamics describe how interactions within that system change over time.
+
+**Should you call a group terrorists or freedom fighters in a Global Politics answer?**
+No. The label for a resistance movement is contested, so report who uses which label rather than stating either as fact. Supporters and the government the group opposes often describe it very differently.
+
+**How is the stakeholders and systems topic examined?**
+The topic is part of the core, common to SL and HL, and is examined through Paper 1, a 1 hour 15 minute, 25-mark source-based paper with four compulsory questions. Sources will show actors, and you must say who they are, what they can do and what constrains them.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Diploma Programme *Global politics guide*, first assessment 2026 (published February 2024). Core topics: Understanding power and global politics -- prescribed topic "Framing global politics / Systems and interactions in global politics".

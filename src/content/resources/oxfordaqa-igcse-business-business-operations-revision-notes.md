@@ -240,6 +240,20 @@ State the case for, state the case against, use a figure or fact from the stem, 
 - Quoting figures without a unit or without a judgement at the end of an evaluation.
 - Ignoring the stem: naming outsourcing or franchising risks when the business uses neither.
 
+## Frequently asked questions
+
+**How do you calculate cost per usable unit when comparing suppliers?**
+Cost per usable unit is the price divided by one minus the proportion that is unusable. A supplier with a lower price can work out more expensive once unusable items are allowed for.
+
+**What is the difference between flow and cell production?**
+Flow production makes a standard product continuously along a line, which suits very large demand but needs costly equipment and is hard to change. Cell production splits production into small self-contained teams that each make a complete part or product, which suits medium volumes but needs trained, flexible staff.
+
+**What is the difference between job and batch production?**
+Job production makes one item to a customer's order, while batch production makes a group of identical items before switching to the next product.
+
+**How can ICT improve customer service?**
+Websites can give information, FAQs, order tracking and live chat at any hour. Good service still has costs, such as training, staff time and systems.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Business (9225) specification, version 3.1, OxfordAQA, for International GCSE exams May/June 2022 onwards. Section 3.3 Business operations (3.3.1 to 3.3.4).

@@ -171,6 +171,20 @@ Questions 4 to 12 use one context: Pemberwick Dental Practice, a clinic with fou
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are these OxfordAQA 9645 networking questions from real exam papers?**
+No. They are original practice questions with worked answers written for revision of section 3.14, Networking and cyber security. Use them alongside official past papers from your board or school.
+
+**What are common mistakes in bit rate calculations?**
+Common slips are dividing a number of bytes by the bit rate without first multiplying by 8, and using the number of signal levels as the bits per signal change instead of log₂ of the number of levels.
+
+**How should you show working in a subnet mask question?**
+Write the relevant octets of the address and the mask in binary and show the bitwise AND. A bare network identifier gives nothing to credit if it is wrong.
+
+**What is the difference between a domain name, an FQDN and a URL?**
+An FQDN is a domain name including the host name, identifying one host. A URL is the full address of a resource, including the protocol and path, so writing "https://" or the path when asked for an FQDN loses the mark.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.14 Networking and cyber security.

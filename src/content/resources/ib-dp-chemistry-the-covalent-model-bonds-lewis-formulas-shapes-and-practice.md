@@ -182,6 +182,23 @@ Explain the order of boiling points in terms of intermolecular forces. **[5]**
 - Tick off progress on the [checklist of Diploma Chemistry understandings](/checklists/ib/ib-dp/chemistry/)
 - See every unit on the [Diploma Chemistry overview](/boards/ib/ib-dp/chemistry/)
 
+## Frequently asked questions
+
+**Are these IB DP Chemistry Structure 2.2 questions from past papers?**
+No. They are original questions on Structure 2.2.1 to 2.2.10, written for revision. They do not reproduce past papers or mark tariffs, so use them alongside official past papers.
+
+**Why can fluoromethane not form hydrogen bonds?**
+In CH₃F the hydrogen atoms are bonded to carbon, not to fluorine. Hydrogen bonding needs H covalently bonded to a strongly electronegative atom, usually N, O or F, so the strongest force between CH₃F molecules is dipole–dipole.
+
+**How many electron domains does a double or triple bond count as in VSEPR?**
+A multiple bond counts as one electron domain. Treating it as two or three domains gives the wrong shape, which is a common way to lose marks.
+
+**How should you compare boiling points of covalent substances in an exam answer?**
+First note whether the molar masses are similar, then compare the types of intermolecular force. Say that intermolecular forces are overcome on boiling, not that covalent bonds break.
+
+**What are common mistakes when calculating RF values?**
+Measuring to the end of the plate or paper instead of the solvent front, or giving the value a unit. RF is a ratio between 0 and 1, with both distances measured from the base line.
+
 ## Official syllabus
 
 Source document: the International Baccalaureate Organization's *Chemistry guide* for the Diploma Programme, first assessment 2025, published in February 2023. Sections used: Structure 2.2.1 to 2.2.10.

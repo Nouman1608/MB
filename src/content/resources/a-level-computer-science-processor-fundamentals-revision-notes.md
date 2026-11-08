@@ -7,17 +7,26 @@ topic: "Processor Fundamentals"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9618"]
-syllabusSeries: "2027-2029"
+syllabusSeries: "2026"
 stage: "AS"
 order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "processor-fundamentals"
+  - qualification: "a-level"
+    topic: "processor-fundamentals"
+    subtopic: "cpu-architecture"
+  - qualification: "a-level"
+    topic: "processor-fundamentals"
+    subtopic: "assembly-language"
+  - qualification: "a-level"
+    topic: "processor-fundamentals"
+    subtopic: "bit-manipulation"
 description: "Condensed recall notes on CPU architecture, assembly language tracing, and bit manipulation for Cambridge AS & A Level Computer Science (9618), Topic 4."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-05
 featured: false
 ---
@@ -204,3 +213,17 @@ unchanged). 5. Its concepts (registers, the fetch-execute cycle,
 bit-level manipulation) recur whenever later topics discuss how
 software actually executes on hardware, including Topic 15 (Hardware
 and Virtual Machines) at full A Level.
+
+## Frequently asked questions
+
+**What does the program counter do?**
+The program counter (PC) holds the address of the next instruction to be fetched. During the fetch stage this address is copied to the memory address register (MAR).
+
+**What are the addressing modes in Cambridge 9618 assembly language?**
+Immediate, direct, indirect, indexed and relative. The immediate and direct pair is the most frequently confused.
+
+**How do you trace an assembly language program accurately?**
+Work through each instruction in sequence and write down the new value of every affected register or memory location after each line. One mis-tracked value early on makes every following line wrong.
+
+**What does the status register hold?**
+The status register holds flag bits set by the result of an operation, such as carry, negative, overflow and zero, which conditional instructions can test.

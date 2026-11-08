@@ -82,7 +82,7 @@ These questions cover section M2.5 (Projectiles) of the OxfordAQA International 
 
 ## Answers
 
-**1. (a)** Horizontal: x = 20 cos 60° × 1.5 = 10 × 1.5 = **15 m** [1]. Vertical: y = 20 sin 60° × 1.5 − 4.9 × 1.5² = 25.98 − 11.025 = **14.96 m** [1]
+**1. (a)** Horizontal: x = 20 cos 60° × 1.5 = 10 × 1.5 = **15 m** [1]. Vertical: y = 20 sin 60° × 1.5 − 4.9 × 1.5² = 25.981 − 11.025 = 14.956…, so **15.0 m** (3 s.f.) [1]
 **(b)** Horizontal velocity = 10 m/s; vertical velocity = 17.32 − 9.8 × 1.5 = 2.62 m/s [1]. Speed = √(10² + 2.62²) = **10.3 m/s** [1]. Angle = tan⁻¹(2.62 / 10) = **14.7° above the horizontal** [1]
 *Examiner insight:* Show the two velocity components before combining them, so any arithmetic slip is easy to locate. A direction needs a reference: above or below the horizontal.
 
@@ -144,6 +144,20 @@ These questions cover section M2.5 (Projectiles) of the OxfordAQA International 
 * Use the [course hub](/boards/oxfordaqa/a-level/mathematics/) and the [printable checklist](/checklists/oxfordaqa/a-level/mathematics/) to plan other topics.
 * Try [all free 10-minute diagnostics](/diagnostics/).
 * [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**What is the speed of a projectile at its highest point?**
+It is not zero. Only the vertical component of velocity is zero at the top, so the speed equals the horizontal component V cos α.
+
+**Can you use the level-ground range formula when a ball is thrown from a cliff?**
+No. When the landing point is above or below the launch point, put the landing level into the vertical equation instead, with the correct sign, such as y = −25 for a 25 m drop.
+
+**Why might a projectile question have two possible launch angles?**
+Using the trajectory equation often gives a quadratic in tan α. If both roots are valid, both angles should be given.
+
+**What should you write in a "does it clear the wall" question?**
+Find the height of the projectile at the wall's horizontal distance, compare it with the wall height, and state a clear conclusion. Leaving out the final statement loses marks.
 
 ## Official syllabus
 

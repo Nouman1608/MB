@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "waves-in-matter-ocr-gcse"
     subtopic: "wave-interaction-ocr-gcse"
-description: "Original practice questions with worked answers on refraction, ray diagrams, lenses and colour for OCR GCSE (9-1) Physics A topic P5.3."
+description: "Original practice questions with worked answers on reflection, refraction, ray diagrams, lenses and colour for OCR GCSE (9-1) Physics A (J249) topic P5.3."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
@@ -132,6 +132,23 @@ Links: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable checklist](
 - Visit the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [printable checklist](/checklists/ocr/gcse/physics/).
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**What do these OCR GCSE Physics A light questions cover?**
+They cover topic P5.3 Wave interactions of OCR GCSE (9-1) Physics A (J249): what happens to waves at boundaries, refraction and wave speed, ray diagrams, lenses and colour.
+
+**Where should angles be measured from in reflection and refraction questions?**
+From the normal, the line at 90° to the surface. Measuring from the mirror or block surface is one of the most common ways to lose marks.
+
+**How should I explain the cause of refraction?**
+Say that the wave changes speed as it enters the new substance. Mentioning "density" without the change in wave speed does not explain refraction.
+
+**What unit mistakes happen with v = fλ for light?**
+Leaving the wavelength in nanometres. Convert nm to m by multiplying by 10⁻⁹ before substituting.
+
+**How do I explain the colour of a filter or an object?**
+A filter transmits its own colour and absorbs the others, so it does not "make" colour. An opaque object's colour is the light it reflects, so say what it absorbs as well as what it reflects.
 
 ## Official syllabus
 

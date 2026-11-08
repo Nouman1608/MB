@@ -265,6 +265,20 @@ The result is a shortage of cash even with a healthy statement of profit or loss
 - Treating insolvency and bankruptcy as the same thing.
 - Showing no working when the question says calculate.
 
+## Frequently asked questions
+
+**How do you calculate capital employed?**
+Capital employed is non-current liabilities plus equity. It is used as the denominator in ROCE and in the gearing ratio.
+
+**What is the difference between the current ratio and the acid test ratio?**
+The current ratio is current assets divided by current liabilities. The acid test removes stock from current assets first, because stock is the slowest current asset to turn into cash.
+
+**Are the ratio formulas given in the IB Business Management exam?**
+The guide's appendix says students are given the formulae in the examination. You still need to know where each input comes from and how to interpret the result.
+
+**Why can a profitable business become insolvent?**
+A sale adds to profit when it is made, but the cash may not arrive for weeks, while stock and equipment may need paying for first. The result can be a shortage of cash even with a healthy statement of profit or loss.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Business management guide*, first assessment 2024: sections 3.5 and 3.6, the formulae for ratio analysis and the glossary of command terms.

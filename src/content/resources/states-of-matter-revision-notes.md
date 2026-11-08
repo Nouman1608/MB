@@ -24,9 +24,9 @@ syllabusTopics:
     subtopic: "diffusion"
 description: "Condensed recall notes on particle arrangement, changes of state and diffusion for Cambridge IGCSE 0620 and O Level 5070 — definitions, tables and exam traps."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -134,3 +134,17 @@ explanation marks, even if every fact stated is correct.
 7. Why does diffusion not happen in solids?
 
 **Answers:** 1. Gas particles move randomly at speed with negligible forces between them, so they spread to occupy all available space; liquid particles are held close by stronger forces. 2. Any two from the comparison table. 3. The gas with the lower relative molecular mass, because lighter particles move faster at the same temperature. 4. Energy supplied overcomes the forces holding particles in the lattice rather than increasing their kinetic energy, so temperature does not rise. 5. Gas particles are far apart with large spaces between them; liquid particles are already in contact. 6. "Describe" only requires stating what happens; "explain" requires referring to particle energy, motion and the forces between particles. 7. Solid particles are held in fixed positions and cannot move from place to place, so there is no net movement of particles down a concentration gradient.
+
+## Frequently asked questions
+
+**What is the difference between evaporation and boiling?**
+Evaporation happens only at the surface of a liquid, at any temperature below the boiling point, and is slow with no bubbles. Boiling happens throughout the liquid at a fixed temperature, forming bubbles.
+
+**Is sublimation one of the changes of state in the Cambridge IGCSE 0620 syllabus?**
+No. The 0620 and 5070 syllabuses name five changes of state: melting, boiling, evaporating, freezing and condensing. Sublimation is real chemistry but is not on the named list.
+
+**Is a change of state a physical or a chemical change?**
+A change of state is a physical change. No new substance forms, mass is conserved and the change is reversed by reversing the energy transfer.
+
+**Do particles expand when a substance is heated?**
+No. Particles do not change size; their spacing and speed increase when a substance is heated.

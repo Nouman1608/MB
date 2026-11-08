@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "redox"
 description: "Original exam-style practice questions with full worked answers on oxidation numbers, half equations, oxidising agents and displacement."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -122,5 +122,19 @@ sample), while iodide tests for something that can *oxidise* it (i.e. an
 oxidising agent present in the sample) — remembering them as a
 complementary pair, rather than two separate unrelated facts, makes both
 easier to recall correctly under exam pressure.
+
+## Frequently asked questions
+
+**What is the difference between an oxidising agent and a reducing agent?**
+An oxidising agent takes electrons from another species and is itself reduced. A reducing agent gives electrons to another species and is itself oxidised.
+
+**What is a common mistake with oxidation numbers in ions?**
+Forgetting that the oxidation numbers in a polyatomic ion must add up to the overall charge on the ion, not to zero. In a neutral compound they add up to zero.
+
+**In a metal displacement reaction, which substance is the oxidising agent?**
+The metal ion in solution is the oxidising agent, because it accepts electrons from the more reactive metal. Saying the metal itself is the oxidising agent is a common error.
+
+**Which redox content in these questions is beyond Cambridge IGCSE 0620 Core?**
+Questions marked 0620 Extended, 5070 required test content beyond 0620 Core, such as oxidation numbers, ionic equations and oxidising and reducing agents. O Level 5070 candidates need all of it.
 
 For condensed recall notes on this topic, see the [Redox Reactions revision notes](/resources/redox-reactions-revision-notes/); for the full explanation with additional worked examples, see the [Redox Reactions study guide](/resources/redox-reactions/).

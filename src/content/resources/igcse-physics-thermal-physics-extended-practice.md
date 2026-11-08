@@ -19,11 +19,11 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "thermal-physics-cambridge-igcse-physics"
     subtopic: "transfer-of-thermal-energy-cambridge-igcse-physics"
-description: "Original exam-style questions with full worked answers on pV = constant, gas pressure in terms of forces from particle collisions, specific heat capacity, boiling and evaporation, conduction in gases and the balance between energy received and energy emitted, for Cambridge IGCSE Physics (0625) Extended candidates."
+description: "Original Cambridge IGCSE Physics 0625 Extended thermal questions on pV = constant, gas pressure, specific heat capacity, evaporation and radiation, answered."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
@@ -162,6 +162,20 @@ Work through these twelve questions with a calculator, and cover the answers unt
 - Explaining evaporative cooling without saying that the remaining particles have a lower average kinetic energy.
 - Forgetting that an object reaches a constant temperature when it gains and loses energy at the same rate.
 - Calculating efficiency from the wasted energy instead of the useful energy.
+
+## Frequently asked questions
+
+**What are common mistakes in IGCSE Physics thermal calculations?**
+Frequent slips include turning the pV = constant calculation upside down, using the final temperature instead of the temperature change in mcΔθ, and stopping part-way through a two-step specific heat capacity calculation.
+
+**How can I check a pV = constant answer?**
+Before writing the answer, decide whether the pressure should rise or fall: if the volume decreases at constant temperature, the pressure must increase, and the other way round.
+
+**How should I explain gas pressure in IGCSE Physics?**
+Explain that particles collide with the container walls and exert a force on them, and pressure is force per unit area. Do not say the particles speed up if the temperature is constant.
+
+**How are these IGCSE Physics thermal answers marked?**
+Each answer shows where the marks go, with a [1] after every creditworthy point. The questions follow Topic 2, Thermal physics, of the Cambridge IGCSE Physics 0625 syllabus for 2026–2028.
 
 ## Next steps
 

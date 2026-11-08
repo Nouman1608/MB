@@ -273,6 +273,20 @@ This is also why eating plants directly gives humans more food from the same lan
 
 Test yourself with the [practice questions](/resources/ocr-gcse-biology-ecosystem-organisation-abiotic-and-biotic-factors-practice/), condense this with the [revision notes](/resources/ocr-gcse-biology-ecosystem-organisation-abiotic-and-biotic-factors-revision-notes/) and take a [diagnostic](/diagnostics/) to find weak spots.
 
+## Frequently asked questions
+
+**What is an ecosystem?**
+An ecosystem is all the living organisms in an area together with the non-living parts of it, such as water, light, temperature and dissolved minerals.
+
+**What are examples of abiotic and biotic factors?**
+The OCR GCSE Biology A (J247) specification names temperature, light intensity, moisture level and soil pH as abiotic factors, and predators and food as biotic factors.
+
+**What is a pyramid of biomass?**
+A pyramid of biomass shows the mass of living material at each trophic level of a food chain. Each level is usually smaller than the one below because biomass is lost through egestion, excretion and respiration.
+
+**Is this topic Higher Tier only?**
+No. None of statements B4.1e to B4.1j is marked as Higher Tier only in the specification, so all of this content is for both tiers.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), first assessment 2018, published by OCR. Topic B4.1, statements e to j.

@@ -28,14 +28,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "trigonometry-cambridge-igcse-maths"
     subtopic: "pythagoras-theorem-and-trigonometry-cambridge-igcse-maths"
-description: "Condensed recall notes on Pythagoras' theorem, right-angled and non-right-angled triangle trigonometry, exact values, trig functions and 3D problems for Cambridge IGCSE Mathematics 0580."
+description: "Recall notes on Pythagoras, SOHCAHTOA, exact values, sine and cosine graphs, the sine and cosine rules and 3D trigonometry for Cambridge IGCSE Mathematics 0580."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-04
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 Condensed for the final weeks. Pair these notes with the
@@ -173,3 +173,16 @@ Keeping an intermediate length in exact (surd) form, rather than rounding it ear
   <figcaption>Pull the right-angled triangle out of the solid, then use ordinary trigonometry.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**When do you use the sine rule?**
+Use the sine rule when you know a matching angle-side pair, an angle and the side opposite it. Otherwise, with two sides and the included angle or all three sides, use the cosine rule.
+
+**How do you find an angle with the cosine rule?**
+Rearrange it to cos A = (b² + c² − a²) ÷ 2bc, where a is the side opposite angle A, then take the inverse cosine.
+
+**What is the formula for the area of a non-right-angled triangle?**
+Area = ½ab sin C, where C is the angle between the sides a and b.
+
+**What is the exact value of tan 45°?**
+tan 45° = 1. Other exact values to know include sin 30° = 1/2 and cos 60° = 1/2.

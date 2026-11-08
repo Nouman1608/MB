@@ -150,6 +150,20 @@ These questions cover sections 3.1.3.4 to 3.1.3.6 of the OxfordAQA International
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate price elasticity of demand?**
+Divide the percentage change in quantity demanded by the percentage change in price, working out each percentage change from the original figure. Finish by stating whether demand is price elastic or price inelastic.
+
+**What does the sign of cross elasticity of demand show?**
+A positive cross elasticity shows the goods are substitutes, a negative one shows they are complements, and a value near zero means they are unrelated. Dropping the sign loses the information the question is testing.
+
+**What is the difference between revenue and profit in elasticity questions?**
+Revenue is price multiplied by quantity sold, while profit is revenue minus costs. A price cut that raises revenue can still lower profit if the extra output is costly to produce.
+
+**What are common mistakes in OxfordAQA 9214 elasticity questions?**
+Common mistakes include calculating percentage changes from the new figure, turning the elasticity fraction upside down, leaving out the word elastic or inelastic, dropping the sign of cross elasticity and mixing old prices with new quantities when working out revenue.
+
 ## Official syllabus
 
 Source: OxfordAQA International GCSE Economics (9214), specification for exams from May/June 2025, published by OxfordAQA.

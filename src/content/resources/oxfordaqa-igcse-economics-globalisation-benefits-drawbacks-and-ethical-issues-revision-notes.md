@@ -206,6 +206,20 @@ Ask: who gains and who loses, how big, how long, which country, and what policy 
 - Listing ethical issues without explaining who is harmed and how.
 - Giving a one-sided answer to an evaluation question and no judgement.
 
+## Frequently asked questions
+
+**What factors have caused the growth of globalisation?**
+The OxfordAQA International GCSE Economics (9214) specification focuses on new technology, such as cheaper communication and transport, and multinational companies, which invest abroad and build supply chains. Lower trade barriers and rising incomes also play a part.
+
+**How do you calculate trade as a percentage of GDP?**
+Add exports and imports, divide by GDP and multiply by 100. For example, exports of 25, imports of 31 and GDP of 140 give a trade share of 40%.
+
+**Why are many ethical issues in globalisation linked to external costs?**
+Pollution, habitat loss and emissions are costs to third parties that the producer does not pay, so the price of the good does not show its true cost to society. Firms therefore have little reason to reduce them without regulation or pressure from consumers.
+
+**How can producers respond to ethical concerns about trade?**
+Responses include fair-trade schemes, labour and environmental standards, and cleaner production processes. Higher standards raise costs, so there is a trade-off between ethical behaviour and lower prices or profits.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), specification version 1.0, for International GCSE exams May/June 2025 onwards, published by OxfordAQA. Section 3.2.4.3, Globalisation: benefits and drawbacks.

@@ -12,11 +12,14 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-living-muslim-life-9237"
-description: "Islam: beliefs and teachings, and Islam: practices -- an overview of Paper 1 for OxfordAQA International GCSE Islamiat (9237)."
+  - qualification: "igcse"
+    topic: "paper-1-living-muslim-life-9237"
+    subtopic: "islam-practices-9237"
+description: "Paper 1 of OxfordAQA International GCSE Islamiat 9237, Living the Muslim life: Islam's beliefs and teachings and Islamic practices, and how the paper is set."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -127,3 +130,14 @@ Confusing zakat with sadaqah, or omitting the nisab. Describing the fast without
 - Distinguish Salah from du'a, and zakat from sadaqah.
 - Explain the origin, practices and meaning of both Eids.
 - Explain how belief shapes daily conduct through halal, haram and social obligation.
+
+## Frequently asked questions
+
+**How are the 9237 papers structured?**
+Each paper lasts 1 hour 30 minutes and has two sections of 25 marks, with short questions building to an extended response worth 12 marks related to a set passage.
+
+**What are the two sections of Paper 1?**
+Section A, Islam: beliefs and teachings, and Section B, Islam: practices, each worth 25 marks.
+
+**How should answers on beliefs be structured?**
+Explain what Muslims believe and why, with reference to the Qur'an or Hadith, and link belief to practice.

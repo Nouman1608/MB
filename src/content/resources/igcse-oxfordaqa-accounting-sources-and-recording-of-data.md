@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "sources-and-recording-of-data-oxfordaqa-igcse"
-description: "Source documents, books of prime entry and double-entry bookkeeping -- the opening topic of OxfordAQA International GCSE Accounting (9215), first teaching September 2024."
+description: "OxfordAQA International GCSE Accounting 9215 Topic 1 guide to source documents, books of prime entry, double entry, the ledger and the trial balance."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 ---
 
 This guide covers **Topic 1 Sources and Recording of Data**, the
@@ -185,3 +185,17 @@ Debiting the wrong side because the "receives value" rule was applied to the per
 - Name every book of prime entry and what it records.
 - Balance a ledger account and prepare a trial balance.
 - List the six errors a trial balance cannot detect.
+
+## Frequently asked questions
+
+**What is the difference between a credit note and a debit note in OxfordAQA International GCSE Accounting 9215?**
+A credit note is issued when goods are returned, reducing the amount owed. A debit note is sent by the buyer to request a reduction, so confusing the two is a common mistake.
+
+**Why is the cash book both a book of prime entry and part of the ledger?**
+Cash and bank transactions are first recorded in the cash book, and the cash book also holds the cash and bank accounts themselves, so no separate ledger posting is needed for that side of the entry.
+
+**What are the three divisions of the ledger?**
+The sales ledger holds credit customers' accounts, the purchases ledger holds credit suppliers' accounts, and the general ledger holds everything else.
+
+**How is a return of goods to a supplier recorded?**
+Debit the supplier's account and credit the purchases returns account. The return is never credited to the purchases account itself, and posting returns against the original purchases or sales account is a common mistake.

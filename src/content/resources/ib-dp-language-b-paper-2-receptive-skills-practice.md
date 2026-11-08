@@ -21,11 +21,11 @@ syllabusTopics:
     topic: "ib-dp-language-b-social-organization"
 description: "Original IB DP Language B Paper 2 practice: two reading passages and a listening transcript with 12 marked questions and worked answers."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -239,6 +239,20 @@ quotations and your own words. **[8]**
 - [Printable Language B checklist](/checklists/ib/ib-dp/language-b/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**What skills does IB Language B Paper 2 test?**
+Paper 2 of IB DP Language B tests receptive skills in separate listening and reading sections. Typical skills include locating evidence, finding synonyms, working out reference words, paraphrasing, making inferences and listening for detail.
+
+**Why do Paper 2 multiple-choice answers go wrong?**
+A common trap is choosing an option because it shares a keyword with the text, when the text actually says something different. Read the full sentence and the one after it before choosing.
+
+**What should you do with an "in your own words" question?**
+Restate the idea in different words rather than copying the text. Copying shows you found the line; paraphrasing shows you understood it.
+
+**What is the most common listening trap?**
+Writing down the first number, time or place you hear before the speaker corrects it. Listen for signal words such as "sorry" or "actually" that introduce the real answer.
 
 ## Official syllabus
 

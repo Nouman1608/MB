@@ -230,6 +230,23 @@ Link each policy to a viewpoint. A free-market view stresses incentives and grow
 - Describing all taxes as progressive. A tax that takes a larger share from low earners is regressive.
 - Offering a policy list with no consequences or judgement.
 
+## Frequently asked questions
+
+**What does a Lorenz curve show?**
+A Lorenz curve plots the cumulative share of income against the cumulative share of households ranked from poorest to richest. The further it bows below the 45 degree line of equality, the more unequal the distribution.
+
+**What are the limitations of the Gini coefficient?**
+It is a single number, so different distributions can share the same value, it says nothing about the level of income, and it depends on the unit used and whether income is measured before or after tax.
+
+**What are the causes of poverty?**
+Causes include unemployment, low pay and insecure work, low skills, ill health or disability, large families or single-adult households, old age without an adequate pension, discrimination, living in a region with few jobs and inadequate benefits.
+
+**How can inequality be both a cause and a consequence of market failure?**
+Poor households may be unable to afford education or health care, so merit goods are under-consumed, and wealth can buy market power. Monopoly profits, information gaps and discrimination also create unequal rewards.
+
+**What role do value judgements play in debates about inequality?**
+Whether a fall in inequality is desirable is a normative question. Some value equal outcomes, some equal opportunities and some reward for effort, so a good answer says which view its conclusion assumes.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, first teaching September 2020, sections 3.3.5.1 and 3.3.5.2. Check the current specification at oxfordaqaexams.org.uk/economics.

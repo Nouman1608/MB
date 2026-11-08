@@ -243,6 +243,20 @@ mixing units gives answers a million times out.
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does OxfordAQA A-level Chemistry 3.3.4 Alkenes cover?**
+Section 3.3.4 of OxfordAQA International AS and A-level Chemistry (9620) covers the bonding and reactivity of alkenes, electrophilic addition, addition polymers including PVC, and epoxyethane. It is International AS content examined in Unit 2 (Organic 1 and Physical 1).
+
+**What are common mistakes in electrophilic addition mechanisms?**
+Frequent errors include starting the first arrow at an alkene carbon instead of the double bond, leaving partial charges off HBr or the induced dipole off Br₂, bonding hydrogensulfate to carbon through sulfur, and explaining the major product by product stability rather than carbocation stability.
+
+**How do you draw the repeating unit of an addition polymer?**
+Take the two carbons from one C=C, change the double bond to a single bond, keep every substituent on its original carbon and add extension bonds at each end. A repeating unit with a C=C or with substituents moved is a common error.
+
+**How do you name an addition polymer?**
+Write poly followed by the monomer name in brackets, as the IUPAC rule requires. For example, propenenitrile gives poly(propenenitrile).
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS

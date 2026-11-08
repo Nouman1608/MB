@@ -11,11 +11,11 @@ order: 3
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-assessment-criteria"
-description: "Condensed, criterion-by-criterion revision notes on what top-band evidence actually looks like for MYP Sciences's four assessment criteria -- Knowing and understanding, Inquiring and designing, Processing and evaluating, and Reflecting on the impacts of science -- with a worked example for each."
+description: "Revision notes on top-band evidence for the four IB MYP Sciences criteria, from knowing and understanding to reflecting on impacts, with a worked example each."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -118,6 +118,20 @@ a risk or limitation, reaching a reasoned judgment, rather than describing only 
 well-designed investigation naturally requires scientific knowledge to underpin it (A), a designed
 method (B), data processing and evaluation (C), and often a reflection on its broader significance (D)
 all within one connected piece of work.
+
+## Frequently asked questions
+
+**What are the four IB MYP Sciences assessment criteria?**
+The criteria are A Knowing and understanding, B Inquiring and designing, C Processing and evaluating, and D Reflecting on the impacts of science.
+
+**What does top-band Criterion B evidence look like?**
+Top-band Criterion B evidence comes from a student who formulates their own testable research question and hypothesis, identifies the variables to control and justifies the chosen method. Following a prescribed worksheet procedure is not the ceiling of Criterion B.
+
+**Why is one investigation often used to assess all four MYP Sciences criteria?**
+A single well-designed investigation can produce evidence for all four criteria: the underlying concept (A), the design (B), the data processing and evaluation (C) and the wider significance (D). Practising complete investigations reflects how coursework is usually set.
+
+**Do the MYP Sciences criteria change between course models?**
+No. The descriptors are the same for discrete, modular and integrated courses, so revising the criteria transfers across models even where the content differs.
 
 ## Official syllabus
 

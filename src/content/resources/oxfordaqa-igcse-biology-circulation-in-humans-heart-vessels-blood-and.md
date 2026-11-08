@@ -286,6 +286,23 @@ Compatible donors are group O and group B: 88 + 30 = 118.
 - Claiming a transplant removes the need for drugs. Immune-suppressing drugs are needed to reduce rejection.
 - Reading the compatibility table the wrong way round. Always say donor and recipient.
 
+## Frequently asked questions
+
+**What is the difference between arteries, veins and capillaries?**
+Arteries carry blood away from the heart and have thick walls with muscle and elastic fibres to withstand high pressure. Veins carry blood back to the heart, have thinner walls and often contain valves. Capillaries are very narrow with thin walls, so substances pass between the blood and the cells.
+
+**Which blood vessels do you need to know for OxfordAQA 9201 Biology?**
+The specification limits the named vessels to five: the aorta, vena cava, pulmonary artery, pulmonary vein and coronary arteries.
+
+**What does the natural pacemaker do?**
+A group of cells in the right atrium acts as the heart's natural pacemaker and controls the resting heart rate. An artificial pacemaker is an electrical device that can correct an irregular rhythm.
+
+**What are the two ways a heart valve can become faulty?**
+The valve tissue can stiffen, so the valve cannot open fully, or the valve can develop a leak, so some blood flows backwards. A faulty valve can be replaced with a biological valve or a mechanical valve.
+
+**What does plasma transport?**
+Plasma carries carbon dioxide from the organs to the lungs, soluble products of digestion from the small intestine to other organs, and urea from the liver to the kidneys.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), specification Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. This guide follows section 3.2.3, statements a to t.

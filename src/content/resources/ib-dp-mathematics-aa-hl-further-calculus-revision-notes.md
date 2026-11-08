@@ -37,11 +37,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-5-19"
 description: "Condensed IB DP Maths AA HL further calculus revision notes: derivative tables, integration methods, DE methods, Maclaurin series and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 These revision notes condense the HL further calculus unit of IB Diploma Programme Mathematics: Analysis and Approaches for your final weeks. For full explanations and worked examples, use the [further calculus study guide](/resources/ib-dp-mathematics-aa-hl-further-calculus/). The notes are aligned to the IB *Mathematics: analysis and approaches guide*, first assessment 2021, syllabus sections 5.12–5.19, and all of the content is HL only (AHL). They follow the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so they apply to the May and November 2026, 2027 and 2028 HL sessions.
@@ -251,6 +251,20 @@ New series come from substitution (x → 2x, x → x²), products (eˣ sin x), a
 - Separable equations: exponentiating ln|y| = f(x) + C as y = e^(f(x)) + C.
 - Integrating factor: forgetting to divide the equation so y′ has coefficient 1.
 - Maclaurin products: missing cross terms, such as (x²/2) × x in the x³ term of eˣ sin x.
+
+## Frequently asked questions
+
+**What is the derivative of arctan x?**
+The derivative of arctan x is 1/(1 + x²). The derivative of arcsin x is 1/√(1 − x²) and of arccos x is −1/√(1 − x²).
+
+**How do you choose u in integration by parts?**
+Choose u to be the factor that gets simpler when differentiated, such as ln x, arcsin x or arctan x first, then polynomials. For eˣ sin x or eˣ cos x, apply parts twice and solve for the integral.
+
+**What is the difference between volume about the x-axis and about the y-axis?**
+About the x-axis, V = π∫y² dx with x-limits; about the y-axis, V = π∫x² dy with y-limits, after rewriting the curve as x in terms of y.
+
+**How do you use an integrating factor?**
+Write the equation as y′ + P(x)y = Q(x), find I(x) = e^(∫P dx) with no constant, then use d/dx(Iy) = IQ. Integrate and divide by I to get y.
 
 ## Official syllabus
 

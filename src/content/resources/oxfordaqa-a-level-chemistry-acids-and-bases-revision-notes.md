@@ -254,6 +254,19 @@ Indicator ranges to know: methyl orange 3.1–4.4 (red to yellow); phenolphthale
   <figcaption>In NH3 + H2O the acid H2O gives a proton to the base NH3; each acid and its conjugate base differ by one H+.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Is neutral water always pH 7?**
+No. Neutral means [H⁺] = [OH⁻], which gives pH 7 only at 25 °C. Kw changes with temperature, so at other temperatures neutral water has a different pH.
+
+**What is the difference between a strong acid and a concentrated acid?**
+"Strong" describes the extent of dissociation: a strong acid is completely dissociated in water. "Concentrated" describes how many moles of acid are in each dm³ of solution.
+
+**What is the difference between the end point and the equivalence point?**
+The end point is where the indicator changes colour. The equivalence point is where the reacting amounts of acid and base exactly match.
+
+**How does an acidic buffer resist a change in pH?**
+When acid is added, H⁺ combines with A⁻ to form HA and the equilibrium HA ⇌ H⁺ + A⁻ shifts left. When base is added, OH⁻ removes H⁺ and more HA dissociates, shifting the equilibrium right; large amounts of HA and A⁻ keep their ratio nearly constant.
 
 ## Official syllabus
 

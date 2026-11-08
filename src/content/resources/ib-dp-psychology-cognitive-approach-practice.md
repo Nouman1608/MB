@@ -12,7 +12,7 @@ order: 5
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-cognitive-approach"
-description: "Original practice questions with full worked answers covering mental processes, memory reliability and cross-approach comparison, for the compulsory core Cognitive approach of IB Diploma Programme Psychology."
+description: "Practice questions with worked answers on the IB DP Psychology cognitive approach: mental processes, reconstructive memory, schema and comparing approaches."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -90,6 +90,20 @@ Related: [Cognitive approach study guide](/resources/ib-dp-psychology-cognitive-
 **7.** A strong answer identifies specific cognitive models built on computer-like input/processing/storage/output structures -- multi-store models of memory, for example -- and explains that this framing gives cognitive psychology a testable, structured way to describe processes (encoding, storage, retrieval) that cannot be directly observed, which is a genuine methodological strength: it allows specific, falsifiable predictions to be generated and tested experimentally. The same framing is also a limitation, because reducing genuinely complex, embodied, emotional human cognition to a computer-like model risks oversimplifying processes that do not necessarily work in discrete, sequential stages the way a computer does -- real memory, for instance, is influenced by emotion, motivation and social context in ways a purely computational model does not easily represent, which limits the ecological validity of conclusions drawn from lab-based tests of these models. The strongest answers explicitly connect both the strength and the limitation back to named cognitive models and studies, rather than discussing "computer models" only in the abstract, and reach a substantiated conclusion about the overall value of this modelling approach rather than simply listing the strength and limitation side by side. **[8]**
 
 **8.** A cognitive explanation might focus on how stress narrows attentional focus during encoding (sometimes called weapon focus in eyewitness research), meaning fewer peripheral details are encoded accurately in the first place, and that subsequent recall is then further shaped by reconstructive processes and schema as time passes. A biological explanation of the same decline might instead focus on the physiological effects of stress hormones such as cortisol on the hippocampus, a brain structure central to memory consolidation, arguing that elevated stress hormones can impair the neural processes responsible for consolidating a memory in the first place. A strong answer does not simply present these two explanations side by side; it explicitly signals which approach is being used at each point (using approach-specific vocabulary throughout), and where relevant, notes that the two explanations are not necessarily competing but can operate on different levels of analysis -- the biological explanation addressing the underlying physiological mechanism, and the cognitive explanation addressing the resulting pattern of information-processing -- which is a more sophisticated evaluative point than presenting the two approaches as if only one can be correct. **[6]**
+
+## Frequently asked questions
+
+**Which IB Psychology paper examines the cognitive approach?**
+The cognitive approach is one of the three compulsory core approaches examined on Paper 1, alongside the biological and sociocultural approaches.
+
+**Are these IB Psychology cognitive approach questions official past paper questions?**
+No. They are original practice questions with worked answers. The final question is a revision exercise rather than a Paper 1 essay format.
+
+**Is comparing two approaches an IB Psychology Paper 1 essay format?**
+No. Comparing how two approaches explain the same behaviour is a useful revision exercise, but the Paper 1 essay is answered from the single approach the question names.
+
+**Can the cognitive approach be used in the IB Psychology internal assessment?**
+Yes. Many students design their experimental study within the cognitive approach, for example testing how a manipulated variable affects recall or decision-making, and use its vocabulary to justify their design.
 
 ## Official syllabus
 

@@ -15,9 +15,9 @@ syllabusTopics:
     subtopic: "oscillations-edexcel"
 description: "Condensed recall notes on simple harmonic motion, energy in SHM, damping and resonance for Edexcel International A Level Physics YPH11 (Unit 5, WPH15)."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -152,3 +152,17 @@ Increasing damping **reduces the peak amplitude** and makes the resonance curve 
 8. Distinguish a free oscillation from a forced oscillation.
 
 **Answers:** 1. Acceleration is proportional to displacement from equilibrium and is always directed towards the equilibrium position. 2. Velocity is maximum at the equilibrium position where displacement is zero; acceleration is maximum at maximum displacement. 3. It depends on length and gravitational field strength; it does not depend on amplitude (for small angles) or on the mass of the bob. 4. Light damping gives a slowly decaying oscillation; heavy damping returns to equilibrium slowly without oscillating; critical damping returns in the shortest time without overshooting. 5. The peak amplitude falls, the curve becomes broader, and the peak shifts slightly to a lower frequency. 6. F = −kx — the restoring force is directly proportional to displacement and directed towards equilibrium. 7. T = 2π√(0.60/15) = 1.26 s; ω = 2π/T = 5.0 rad/s; a_max = ω²A = 25 × 0.080 = 2.0 m/s². 8. A free oscillation occurs at the system's own natural frequency with no external driving force; a forced oscillation is driven by an external periodic force, possibly at a different frequency.
+
+## Frequently asked questions
+
+**Is v = ±ω√(A² − x²) required for Edexcel IAL Physics?**
+No. The velocity-displacement relation is background beyond the specification. It is not among the outcomes or the supplied formulae, and the same applies to the SHM energy equations on this page.
+
+**Is critical damping the slowest return to equilibrium?**
+No. Critical damping gives the fastest return to equilibrium without overshooting. It is used in car suspension and measuring instruments, where oscillation is undesirable.
+
+**What is Core Practical 16 in Edexcel IAL Physics?**
+Core Practical 16 determines an unknown mass from the resonant frequencies of oscillation of known masses.
+
+**Why do the energy curves of an oscillator have twice the frequency of the displacement?**
+Kinetic and potential energy each reach their maximum twice in every cycle, so their curves repeat twice as often as the displacement curve.

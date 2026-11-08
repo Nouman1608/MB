@@ -311,6 +311,23 @@ Add:  6x² − 2x + x² + 2x − 8 = 7x² − 8
 * Giving a few numerical checks as the whole proof.
 * Writing the final answer in a different form from the one asked for, such as a negative power when a fraction was requested.
 
+## Frequently asked questions
+
+**What is the difference between an expression, an equation and an identity in OCR GCSE Maths?**
+An expression has no equals sign and is simplified or expanded, not solved. An equation is true only for particular values of the letter, while an identity, written with ≡, is true for every value.
+
+**When do you add indices and when do you multiply them?**
+Add indices when multiplying terms with the same base, so a² × a³ = a⁵. Multiply indices when raising a power to a power, so (a²)⁴ = a⁸.
+
+**How do you represent even, odd and consecutive numbers in an algebraic proof?**
+Use 2n for any even number, 2n + 1 for any odd number and n, n + 1, n + 2 for consecutive integers, where n is an integer. Use two different letters, such as a and b, when the numbers need not be equal.
+
+**Are negative and fractional indices on the OCR GCSE Foundation tier?**
+No. In OCR GCSE Mathematics J560 section 6.01c, using the laws of indices with negative and fractional powers is Higher tier only; Foundation covers positive whole-number powers.
+
+**How many counterexamples do you need to disprove an algebraic claim?**
+One counterexample is enough. For example, x = 2 shows that (x + 2)² = x² + 4 is false, because the left side gives 16 and the right side gives 8.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics (J560), Version 2.1 (August 2026), for first assessment in 2017, published by OCR. These notes cover sections 6.01a to 6.01d.

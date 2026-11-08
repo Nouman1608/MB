@@ -178,6 +178,23 @@ unless you say why.
 - Not counting carbons: KCN is needed whenever the chain grows by one.
 - Giving one vague idea ("safer", "greener") for two marks.
 
+## Frequently asked questions
+
+**Is organic synthesis in AQA AS Chemistry?**
+No. Section 3.3.14 Organic synthesis of the AQA 7404/7405 specification is A-level only. It is examined on A-level Paper 2, and A-level Paper 3 can test any content.
+
+**How do you calculate the overall yield of a multi-step synthesis?**
+Multiply the yields of the individual steps together. Adding or averaging step yields is the most common mistake.
+
+**What must be included in the atom economy denominator?**
+Include every reactant from the balanced equation, weighted by its coefficient, such as 2NH₃. Leaving out a coefficient gives the wrong atom economy.
+
+**Why do reagents without conditions lose marks in synthesis routes?**
+A reagent is only fully correct with its conditions, such as aqueous rather than ethanolic KOH, concentrated acids for nitration, or excess ammonia for a primary amine. The wrong solvent can lead to a different product.
+
+**How many reasons do "explain two reasons" questions need?**
+Give two different points, each linked to a consequence such as risk to people or extra cost. One vague idea, such as "safer" or "greener", will not earn two marks.
+
 ## Next steps
 
 - [Organic synthesis revision notes](/resources/aqa-a-level-chemistry-organic-synthesis-revision-notes/)

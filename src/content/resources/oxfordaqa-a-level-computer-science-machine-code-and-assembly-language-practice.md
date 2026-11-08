@@ -282,6 +282,20 @@ Load x [1]; shift left by 3 for 8x [1]; shift left by 1 for 2x [1]; add and stor
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are these OxfordAQA 9645 assembly language questions from real past papers?**
+No. They are original practice questions with worked answers written for revision. Use them alongside official past papers from your board or school.
+
+**Which instruction set should you use to answer these questions?**
+Write answers in the Standard OxfordAQA assembly language instruction set given in the appendix to the 9645 specification. The topic, Machine code and assembly language, is International AS content in the written Unit 2 paper.
+
+**What are common mistakes in assembly language answers?**
+Common errors include leaving out the # before an immediate value, reading LDR R2, 25 as loading the number 25 rather than the contents of location 25, and treating [R6] as the value in R6 rather than the location it points to.
+
+**How do you write a WHILE loop in assembly language?**
+Branch out of the loop on the opposite of the WHILE condition, not on the condition itself. Also make sure the loop updates its counter or pointer, or the loop will never end.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.8 Machine code and assembly language, and 6 Appendix: Standard OxfordAQA assembly language instruction set.

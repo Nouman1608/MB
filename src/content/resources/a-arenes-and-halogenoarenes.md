@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-halogen-compounds"
     subtopic: "a-halogen-compounds"
-description: "The reactions and electrophilic substitution mechanism of benzene, directing effects of substituents, and the reactivity of halogenoarenes versus halogenoalkanes, for Cambridge International AS & A Level Chemistry 9701."
+description: "Benzene's substitution reactions and mechanism, directing effects of substituents, and why chlorobenzene resists hydrolysis, for Cambridge 9701 A Level."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -230,6 +230,20 @@ requires.
 - Halogenoarenes far less reactive than halogenoalkanes: stronger, shorter
   C–Cl bond (lone-pair delocalisation) + attack would disrupt ring
   aromaticity
+
+## Frequently asked questions
+
+**Why does benzene undergo substitution rather than addition?**
+Addition would permanently destroy benzene's delocalised π system. Substitution only disrupts it briefly in the intermediate before it is restored, so the ring keeps its aromatic stabilisation, making substitution far more favourable.
+
+**How is the nitronium ion formed in the nitration of benzene?**
+Concentrated sulfuric acid reacts with concentrated nitric acid: HNO₃ + 2H₂SO₄ → NO₂⁺ + H₃O⁺ + 2HSO₄⁻. The NO₂⁺ ion is the electrophile that attacks the ring.
+
+**Which groups direct to the 2- and 4-positions on a benzene ring?**
+In Cambridge 9701 Chemistry, –NH₂, –OH and alkyl (–R) groups direct to the 2-, 4- (and 6-) positions and activate the ring. –NO₂, –COOH and –COR direct to the 3-position and deactivate it.
+
+**Why does benzene need a catalyst to react with bromine?**
+Plain Br₂ is not electrophilic enough to react with benzene's stable delocalised ring. A halogen carrier such as AlBr₃ polarises Br₂ to generate an electrophilic bromine species that the ring can attack.
 
 ## Related resources
 

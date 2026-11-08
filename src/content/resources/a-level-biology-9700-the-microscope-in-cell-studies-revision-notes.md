@@ -231,6 +231,23 @@ If your answer says a mitochondrion is 1.8 mm long, you have missed a conversion
 </figure>
 
 
+## Frequently asked questions
+
+**How do you calibrate an eyepiece graticule?**
+Line up the eyepiece graticule with a stage micrometer, find where two lines coincide exactly, and divide the micrometer length by the number of eyepiece units. Recalibrate after changing the objective.
+
+**What is the difference between magnification and resolution?**
+Magnification is how many times larger the image is than the object. Resolution is the ability to distinguish two points close together as separate, which decides how much detail is seen.
+
+**What is the difference between a TEM and an SEM?**
+In a TEM the electron beam passes through a thin section and shows internal structure. In an SEM the beam scans the surface and gives a three-dimensional image of it.
+
+**Why can't living specimens be viewed in an electron microscope?**
+The electron microscope uses a vacuum, because air molecules would scatter the electrons, so TEM and SEM specimens must be dead.
+
+**What are the rules for a high-power cell drawing?**
+Draw correct shapes and relative sizes, show cell walls with two lines, include only visible contents, use a sharp pencil with continuous lines and no shading, and use ruled label lines that do not cross.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027 (Version 1, published September 2022), Cambridge International Education: topic 1 Cell structure, sub-topic 1.1 The microscope in cell studies, and the Practical assessment section.

@@ -137,6 +137,20 @@ These questions cover sections 1.2 (Business structure) and 1.3 (Size of busines
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which sections of Cambridge AS and A Level Business 9609 do these questions cover?**
+Section 1.2 Business structure and section 1.3 Size of business, including economic sectors, forms of ownership, measuring size and business growth.
+
+**How do you classify a business into a sector?**
+Classify it by the activity the firm performs, not by the product's final use. The four sectors in Cambridge 9609 are primary, secondary, tertiary and quaternary.
+
+**How do I answer an evaluate question on changing a business's legal structure?**
+Weigh the benefits and drawbacks for the person in the case, such as liability, control and access to finance, and reach a reasoned judgement that refers to their situation. Listing pros and cons with no judgement limits the marks.
+
+**What is the difference between a percentage change and a change in percentage points?**
+A change in percentage points is the simple difference between two percentages, such as a share moving from 20% to 25% (5 points, but a 25% increase). A percentage change compares the change with the starting value; quoting one when the other is asked for loses marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education).

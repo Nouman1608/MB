@@ -22,9 +22,9 @@ syllabusTopics:
     subtopic: "a-shapes-of-aromatic-organic-molecules"
 description: "Original exam-style practice questions with full worked answers on reaction mechanisms, curly arrows and benzene for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -134,3 +134,20 @@ Related: [Organic Mechanisms revision notes](/resources/a-chemistry-organic-mech
 - Saying Sₙ1 is faster "because it is tertiary" without mentioning carbocation stability.
 - Stating Markovnikov's rule as if it were a fact about hydrogen rather than explaining it through the relative stability of the possible carbocation intermediates.
 - Forgetting that a Friedel-Crafts catalyst such as AlCl₃ is regenerated at the end of the mechanism, and so is not consumed overall despite appearing to react when the electrophile is generated.
+
+## Frequently asked questions
+
+**Where must a curly arrow start in an organic mechanism?**
+A curly arrow shows the movement of a pair of electrons and must start from a bond or a lone pair. It must never start from an atom or a positive charge.
+
+**Why do tertiary halogenoalkanes react by SN1?**
+The tertiary carbocation formed is stabilised by three electron-donating alkyl groups, so it forms readily. The crowded tertiary carbon also blocks the backside attack needed for SN2.
+
+**Which halogenoalkane hydrolyses fastest, and why?**
+Iodoalkanes hydrolyse fastest because the C–I bond has the lowest bond enthalpy and breaks most easily. Reactivity follows bond enthalpy, not electronegativity; C–F is the most polar bond but the least reactive.
+
+**How should you explain Markovnikov's rule in Cambridge 9701 Chemistry?**
+Explain it through carbocation stability rather than stating it as a rule about hydrogen. With propene and HBr, the secondary carbocation is more stable than the primary one, so 2-bromopropane is the major product.
+
+**Why is AlCl₃ called a catalyst in Friedel-Crafts acylation?**
+AlCl₃ generates the acylium ion electrophile by accepting a lone pair from chlorine, but it is regenerated at the end when AlCl₄⁻ loses Cl⁻ as H⁺ leaves the ring. It is not consumed overall.

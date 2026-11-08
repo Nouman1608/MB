@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-alternating-currents"
     subtopic: "a-rectification-and-smoothing"
-description: "Original exam-style practice questions with full worked answers on r.m.s. values and rectification for Cambridge AS & A Level Physics 9702, plus questions on prerequisite (IGCSE/O Level) transformer background."
+description: "Original practice questions with worked answers on r.m.s. values, mean power and rectification for Cambridge A Level Physics 9702, plus transformer background."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -135,3 +135,17 @@ The current is **ten times greater**, so the power loss would be **100 times gre
 - Describing half-wave vs full-wave rectification only in words when the question asks to sketch or otherwise distinguish them graphically -- know the shape of each output waveform, not just a verbal description.
 - Explaining transmission loss in terms of voltage rather than I²R.
 - Confusing lamination (eddy currents) with a soft iron core (hysteresis).
+
+## Frequently asked questions
+
+**What is the r.m.s. value of an alternating current?**
+The r.m.s. value is the value of the direct current that would dissipate the same mean power in the same resistor. For a sinusoidal supply it equals the peak value divided by the square root of 2.
+
+**Is a mains voltage of 230 V a peak or an r.m.s. value?**
+Mains ratings such as 230 V are r.m.s. values, not peak values. Using a peak value where an r.m.s. value is needed, or the reverse, is one of the most common ways marks are lost on alternating-current questions.
+
+**How should you explain why electricity is transmitted at high voltage?**
+Explain it in terms of current: cable power loss is I²R, so a higher voltage means a lower current for the same power, and the loss falls with the square of the current. An explanation given only in terms of voltage does not earn the mark.
+
+**Are transformers part of Topic 21 in Cambridge 9702?**
+No. The 2025-2027 Cambridge 9702 syllabus does not list transformers as a Topic 21 outcome; it assumes them as IGCSE/O Level background, which is why those questions on this page are marked as prerequisite.

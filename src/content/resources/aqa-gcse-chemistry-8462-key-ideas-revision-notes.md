@@ -15,9 +15,9 @@ syllabusTopics:
     topic: "key-ideas-8462"
 description: "Condensed revision notes on the eight AQA GCSE Chemistry 8462 key ideas, with method steps, must-know distinctions and a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -282,6 +282,20 @@ For full explanations and worked examples, use the [Key ideas study guide](/reso
 - Writing that energy is "made" or "lost" in a reaction; it is **transferred** to or from the surroundings.
 - (Higher tier only) Dropping the negative sign on an exothermic energy change, or counting only one O–H bond per water molecule.
 - (Higher tier only) Confusing **strong** (fully ionised) with **concentrated** (lots of acid per volume).
+
+## Frequently asked questions
+
+**What is the difference between an element and a compound?**
+An element is made of one type of atom, and all its atoms have the same number of protons. A compound is two or more elements chemically combined in fixed proportions.
+
+**What is relative atomic mass?**
+Relative atomic mass is an average value for an element that takes account of the abundance of its isotopes. Isotopes are atoms of the same element with different numbers of neutrons.
+
+**Why do ionic compounds only conduct when molten or dissolved?**
+In a solid ionic compound the ions are held in place, so they cannot move to carry charge. When molten or dissolved, the ions are free to move and the substance conducts.
+
+**Why does a higher temperature increase the rate of reaction?**
+At a higher temperature particles move faster, so they collide more often and the collisions are more energetic. More collisions have at least the activation energy, so more are successful.
 
 ## Official syllabus
 

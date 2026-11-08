@@ -326,6 +326,20 @@ At x = 0 the gradient is negative on both sides, so **(0, 0) is a stationary poi
 - Declaring a maximum or minimum without testing signs. Say what you tested, for example "dy/dx at x = −2 is 15 (positive)".
 - Using one gradient for the whole curve. dy/dx changes with x, so substitute the x-value of the point you are asked about.
 
+## Frequently asked questions
+
+**What does dy/dx mean?**
+dy/dx is the gradient function: it gives the gradient of the curve at any value of x. Substitute an x-value to find the gradient at that point.
+
+**How do you find the equation of a tangent to a curve?**
+Find the y-coordinate from y = f(x), find the gradient m by substituting into dy/dx, then use y − y₁ = m(x − x₁) and rearrange.
+
+**What is a stationary point?**
+A stationary point is where the gradient of the curve is zero, so dy/dx = 0 and the tangent is horizontal. It can be a maximum, a minimum or a point of inflection.
+
+**How do you sketch a curve with known stationary points?**
+Mark the stationary points with their coordinates, find the y-intercept, use the highest power for the end behaviour, and join them with a smooth curve that is flat at each stationary point.
+
 ## Official syllabus
 
 This guide follows the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards), published by OxfordAQA: section 3.2.2, statements A13, A14 and A15. Check the current specification at oxfordaqa.com for the latest version.

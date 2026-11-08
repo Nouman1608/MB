@@ -278,6 +278,23 @@ If the firm must cut price to sell more, marginal revenue is below price. Suppos
 - Using price instead of marginal revenue when the product market is not perfectly competitive.
 - Listing factors without a chain of reasoning.
 
+## Frequently asked questions
+
+**What are sub-markets for labour?**
+The labour market is split into many sub-markets by occupation, skill level, industry, region, sector and contract type, each with its own demand, supply and wage. Moving between them needs training, qualifications or relocation, so vacancies and unemployment can exist together.
+
+**Does a wage rise always increase unit labour costs?**
+No. Unit labour cost depends on both the wage and productivity, so a wage rise raises ULC only if productivity rises by less. A ULC index can be found by dividing the wage index by the productivity index and multiplying by 100.
+
+**Why does the exchange rate matter when comparing unit labour costs between countries?**
+Wages are paid in local currency but compared in a common currency, so a depreciation can lower a country's unit labour cost in that currency without any change in local wages or productivity.
+
+**What is human capital?**
+Human capital is the stock of skills, knowledge, qualifications and health embodied in workers, raised by education, training and experience. It lifts productivity, lowers unit labour costs and raises marginal revenue product.
+
+**Why might firms under-invest in training?**
+Training costs are paid now and returns come later, and rival firms can hire away trained workers, gaining the benefit without paying for it. So a firm may invest less in training than is best for the economy.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification. Component 1, Microeconomics: area of study Labour market, topic Wage determination (the demand-side outcomes and MRP theory). The specification lists converting money values to real terms, calculating elasticity and calculating index numbers among the quantitative skills.

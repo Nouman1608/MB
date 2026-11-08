@@ -217,6 +217,20 @@ Weak unions face the opposite: low membership, plentiful unskilled substitutes, 
 - Mixing the base in a percentage gap.
 - Listing union advantages for workers only; the syllabus also asks about firms and government.
 
+## Frequently asked questions
+
+**What do sections 3.3 and 3.4 of Cambridge IGCSE Economics 0455 cover?**
+Section 3.3 covers workers: choice of occupation, wage determination, differences in earnings and division of labour. Section 3.4 covers trade unions: their definition, their role in the economy and the advantages and disadvantages of their activity.
+
+**How are wages determined?**
+Wages are set by the demand for and supply of labour, by the relative bargaining power of workers and employers, and by government policy such as a minimum wage.
+
+**Why do skilled workers usually earn more than unskilled workers?**
+Skilled work needs long, costly training, so supply is small, while the output is valuable, so demand is high. Unskilled labour is plentiful and demand for it is lower, so its wage is lower.
+
+**What is collective bargaining?**
+Collective bargaining is when union representatives negotiate with an employer for all members together on wages, working hours and conditions, which gives workers more power than they have alone.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment, sections 3.3 and 3.4.

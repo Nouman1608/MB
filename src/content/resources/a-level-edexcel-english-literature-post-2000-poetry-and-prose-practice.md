@@ -13,11 +13,17 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-post-2000-poetry-and-prose-yet01"
+  - qualification: "a-level"
+    topic: "unit-1-post-2000-poetry-and-prose-yet01"
+    subtopic: "unit-1-poetry-yet01"
+  - qualification: "a-level"
+    topic: "unit-1-post-2000-poetry-and-prose-yet01"
+    subtopic: "unit-1-prose-yet01"
 description: "Original exam-style practice questions with worked answer plans on Unit 1 of Pearson Edexcel International Advanced Level English Literature (YET01)."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-08-26
 featured: false
 ---
@@ -100,3 +106,17 @@ debates your text was written into — that you can connect precisely to moments
 than general background knowledge. Practising both styles against your own set text, rather than
 assuming the exam will ask one or the other, is the safest preparation given the open choice of
 question within each section.
+
+## Frequently asked questions
+
+**Does AO3 context apply to Section A of Edexcel YET01 Unit 1?**
+No. Context (AO3) is not credited in Section A, so spending Section A time on context analysis does not earn marks there. It does apply to the Section B prose essay.
+
+**What kind of context should I use for a post-2000 novel?**
+Use contemporary and social context relevant to when the text was written, such as the attitudes, events or debates it responds to, rather than reaching for general historical background.
+
+**How should I choose between the two questions in each section?**
+Check which question actually fits the poems or prose techniques you know best before committing. The choice of question exists so that you can play to your strengths.
+
+**How should I use the open-book allowance in Unit 1?**
+Check the text and quote accurately. Vague or paraphrased "quotations" when the actual text is available to you waste the advantage of an open-book exam.

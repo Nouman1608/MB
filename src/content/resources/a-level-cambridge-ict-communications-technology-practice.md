@@ -154,6 +154,20 @@ Learn the content first in the [study guide](/resources/a-level-cambridge-ict-co
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which Cambridge 9626 paper tests communications technology?**
+Communications technology is topic 14 of Cambridge International AS & A Level Information Technology (9626). It is A Level only and is assessed in Paper 3 Advanced Theory, where calculators are not allowed.
+
+**How do you show working in a data transfer calculation?**
+Show each step, including converting megabytes to megabits by multiplying by 8, before dividing by the bit rate. If the final figure is wrong, visible working is the only way to gain method credit.
+
+**What are common mistakes on communications technology questions?**
+Common slips include writing "faster" with no reason, forgetting to multiply megabytes by 8, naming a server without saying what it does in the scenario, giving the same security measure twice in different words, and confusing MAC addresses with IP addresses.
+
+**How do you answer an evaluate question on networks or cloud services?**
+Weigh advantages against drawbacks in the context of the scenario and finish with a conclusion. Listing advantages with no drawback or judgement limits the marks available.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027 (version 3), Cambridge University Press & Assessment: topic 14, Communications technology, sections 14.1 to 14.10.

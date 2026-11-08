@@ -142,6 +142,20 @@ Standard deviation = √3.654 = **1.91** (3 s.f.) [1]
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/) if you want help with any of these topics.
 
+## Frequently asked questions
+
+**Does adding a constant change the standard deviation?**
+No. Adding a constant shifts every value by the same amount, so measures of spread such as the standard deviation and IQR stay the same. Adding the constant to them is a common error.
+
+**Can a standard deviation be negative after coding?**
+No. A standard deviation or IQR is never negative, so when the multiplier is negative, use its positive size for the spread.
+
+**How do you combine two groups' standard deviations?**
+Work with Σx² for each group rather than averaging the two standard deviations, then take the square root of the combined variance at the end.
+
+**Which part of the 0479 syllabus do these questions cover?**
+They cover Topic 6, Transformations of data sets, outcomes 6.1 to 6.6, of the Cambridge IGCSE Statistics (0479) syllabus for examination in 2027.
+
 ## Official syllabus
 
 Cambridge IGCSE Statistics 0479 syllabus for examination in 2027, version 1, Cambridge University Press & Assessment (Cambridge International Education), Topic 6, outcomes 6.1 to 6.6.

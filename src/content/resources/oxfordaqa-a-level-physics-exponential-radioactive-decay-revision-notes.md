@@ -188,6 +188,23 @@ N_A is 6.02 × 10²³ mol⁻¹ in the calculations on this page. In an exam ques
 - Saying the decay rate of a sample is "constant" when it is the decay probability that is constant.
 - Not showing the substitution before the answer when asked to show a result.
 
+## Frequently asked questions
+
+**What does it mean that radioactive decay is spontaneous and random?**
+Spontaneous means it is not affected by temperature, pressure or chemical state. Random means you cannot predict which nucleus will decay, or when.
+
+**What is the difference between the decay constant and activity?**
+The decay constant λ is a probability per unit time for one nucleus and is the same for every sample of a nuclide. Activity A = λN is the number of decays per second in a particular sample, and it falls as N falls.
+
+**How do you convert a half-life into a decay constant?**
+Use λ = ln2/T½. For example, a half-life of 4.0 h gives λ = 0.17 h⁻¹, which is 4.8 × 10⁻⁵ s⁻¹.
+
+**How do you find the number of nuclei from a mass?**
+Convert the mass to grams, divide by the molar mass to get moles, then multiply by the Avogadro constant, 6.02 × 10²³.
+
+**What does the gradient of a ln A against time graph give?**
+The gradient is −λ. It is negative, but the decay constant itself is a positive number.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), specification version 4.4, for exams from May/June 2020 onwards, published by Oxford International AQA Examinations: section 3.9.2 Exponential changes in radioactivity (International A-level only).
@@ -196,4 +213,3 @@ OxfordAQA International AS and A-level Physics (9630), specification version 4.4
   <img src="https://img.marlbridge.com/a-physics-nuclear-physics--08-aphy-nuclear-reactor.webp" width="900" height="960" alt="Cross-section of a reactor with fuel rods in a moderator, control rods that absorb neutrons, coolant leaving hot and returning cool, and thick shielding. Heat passes to a heat exchanger, turbine and generator. Control rods hold k at 1." loading="lazy">
   <figcaption>The moderator slows neutrons and the control rods absorb them.</figcaption>
 </figure>
-

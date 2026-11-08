@@ -17,11 +17,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-intertextuality"
 description: "IB DP Language A: Literature study guide to the concepts the subject brief names and to critical perspectives, with a worked reading of Blake's London."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide covers **Course concepts and critical perspectives** for IB Diploma Programme Language A:
@@ -236,6 +236,20 @@ Next, condense this with the
 [revision notes](/resources/ib-dp-language-a-literature-literary-concepts-and-perspectives-revision-notes/)
 and apply it in the
 [practice questions](/resources/ib-dp-language-a-literature-literary-concepts-and-perspectives-practice/).
+
+## Frequently asked questions
+
+**Does the IB Literature subject brief list the course concepts and critical theories?**
+The brief for IB DP Language A: Literature prints no numbered list of concepts and names no school of criticism. It asks students to consider their own interpretations and the critical perspectives of others, and to negotiate meanings for texts.
+
+**What does "negotiate meanings" mean in IB Literature?**
+It means testing rival readings of a text against the evidence, keeping what holds up and dropping what does not, to reach a better-supported interpretation that may combine more than one reading.
+
+**How do you build an interpretation of a text?**
+Notice a detail, ask the question it raises, pick the lens the detail invites, make an arguable claim, test it against the whole text and a rival reading, and write it clearly and tentatively.
+
+**Is it enough to say a text is open to interpretation?**
+No. Say which readings are possible and which is best supported by the evidence; "it is open to interpretation" is not itself an interpretation.
 
 ## Official syllabus
 

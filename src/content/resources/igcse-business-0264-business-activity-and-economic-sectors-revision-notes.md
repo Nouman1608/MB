@@ -254,6 +254,20 @@ The syllabus says candidates apply their understanding to a variety of business 
 - Evaluating with one side only. Say what could go wrong with the change, then decide.
 - Leaving out units or currency on a calculation.
 
+## Frequently asked questions
+
+**What are the four factors of production?**
+The four factors are land (natural resources and space), labour (human effort), capital (man-made equipment and buildings) and enterprise (the risk-taking and organizing that brings the others together).
+
+**Is capital the same as money in IGCSE Business?**
+No. As a factor of production, capital means man-made equipment and buildings used in production. Money is not a factor, and defining capital as money is a common error.
+
+**Is added value the same as profit?**
+No. Added value is the selling price minus the cost of bought-in inputs, before wages, rent and other costs are paid. Profit is what remains after all those costs.
+
+**How can a business increase added value?**
+It can raise the selling price, for example through a stronger brand, better design or higher quality, or lower the cost of bought-in inputs, for example through cheaper or bulk suppliers and less waste. Each route has a risk, such as lost sales or lower quality.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education), sections 1.1 Business activity and 1.2 Economic sectors.

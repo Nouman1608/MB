@@ -21,9 +21,9 @@ description: "11 original IB DP ESS questions on soil systems, erosion data, far
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,6 +160,23 @@ Learn the content first in the [study guide](/resources/ib-dp-ess-soil-agricultu
 - [ESS exam preparation guide](/resources/ib-dp-environmental-systems-and-societies-exam-preparation/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Which part of the IB ESS syllabus do these soil and food questions cover?**
+They cover soil, agriculture and food, which sit in Topic 5 Land. The 2026 subject brief gives Topic 5 8 teaching hours at SL and 15 at HL, and all data in the questions are fictional.
+
+**What do students get wrong when explaining salinization?**
+They often leave out evaporation. Salinization happens when irrigation water evaporates in hot, dry conditions and leaves dissolved salts behind near the surface.
+
+**What does intensive farming mean in IB ESS?**
+Intensive farming means high inputs per unit area. Using "intensive" to mean a big or commercial farm is a common mistake.
+
+**How do you explain why livestock farming has a low energy ratio?**
+Link it to energy lost between trophic levels, mainly as heat, because the animals eat crops that people could eat. Answers without this trophic-level loss usually miss marks.
+
+**How do you show working in ESS calculation questions?**
+Show each step and give units, such as ha, GJ or t per ha per year. For a percentage reduction, divide by the original value, not the new one.
 
 ## Official syllabus
 

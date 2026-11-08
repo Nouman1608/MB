@@ -132,6 +132,20 @@ Judgement: a conclusion that weighs both sides [1], using criteria such as the s
 - Giving both sides of an evaluation but no verdict.
 - Skipping the working in a calculation, so a small slip loses every mark.
 
+## Frequently asked questions
+
+**How do you tell trade creation from trade diversion in a calculation?**
+Work out the price of each source including the tariff before the bloc and after it. If the country switches from a domestic producer to a partner, trade is created; if it switches from an outsider to a partner, trade is diverted. Both are HL only.
+
+**Why is lost tariff revenue important in trade diversion questions?**
+Consumers pay a little less when they switch to the partner, but the government loses the tariff it used to collect on the outsider's goods, and the real resource cost rises. Counting only the price fall overstates the gain.
+
+**How do you calculate the percentage fall in average cost from economies of scale?**
+Work out average cost before and after as (fixed cost + variable cost × output) ÷ output, then divide the fall by the original average cost and multiply by 100. Using the new average cost as the base is a common slip.
+
+**What do IB Economics examiners expect in an evaluate answer on joining a bloc?**
+Explain the advantages and disadvantages with their mechanisms, say which stakeholders gain and lose, weigh their size, and finish with a verdict. Giving both sides with no verdict loses marks.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/ib-dp-economics-economic-integration-revision-notes/) for the definitions and methods.

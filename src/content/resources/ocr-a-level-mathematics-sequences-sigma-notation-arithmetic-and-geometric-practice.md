@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-ocr-alevel-maths"
     subtopic: "sequences-and-series-ocr-alevel-maths"
-description: "Twelve original practice questions with worked answers on sequences, series, sigma notation and modelling for OCR A Level Mathematics A."
+description: "Twelve original practice questions with worked answers on sequences, series, sigma notation and modelling for OCR A Level Mathematics A (H240)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -133,6 +133,20 @@ These questions follow the OCR A Level Mathematics A specification (Version 3.1,
 - Rounding an interest ratio early, so the final pound figure is out.
 - Giving n as a decimal when the question asks for a whole number of years or weeks.
 - Assuming the first term of a saving plan earns interest for the wrong number of periods.
+
+## Frequently asked questions
+
+**How many terms are in a sigma sum from r = m to r = k?**
+There are k − m + 1 terms. Using last minus first, without adding one, is a common slip.
+
+**What ratio do you use for a percentage decrease in a geometric model?**
+A fall of 12% leaves 88% each period, so the ratio is r = 0.88, not 0.12. An increase of 12% gives r = 1.12.
+
+**Why might an inequality reverse when solving for n with logarithms?**
+If you divide by the logarithm of a number less than 1, you are dividing by a negative value, so the inequality sign must reverse.
+
+**How should you give n when the question asks for a number of years?**
+Give a whole number, and check the integers either side of your decimal answer to confirm which one first meets the condition.
 
 ## Next steps
 

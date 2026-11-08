@@ -220,6 +220,20 @@ Use the meanings in the syllabus. Define means give a precise meaning. Identify 
 - Using a defect rate from a sample as if it were certain.
 - Writing a recommendation with no drawback or no reason.
 
+## Frequently asked questions
+
+**What is the difference between quality control and quality assurance?**
+Quality control checks goods or services, mostly at the end or at set checkpoints, to find and remove faults. Quality assurance organises the whole business so that faults are prevented at every stage, with every employee responsible for quality.
+
+**Which businesses are best suited to quality assurance?**
+Quality assurance suits businesses where faults are costly or dangerous, such as food, medicine, safety equipment and healthcare, or where reputation matters greatly. It costs more to set up but cuts waste later.
+
+**Should a business always choose the cheapest location?**
+No. The cheapest site or country may lack skilled workers, be far from customers or carry political and exchange-rate risk, so weigh those factors against the cost saving.
+
+**Can manufacturing location factors be used for a service business?**
+Not without care. A manufacturer is driven by costs and moving materials, while a service business depends more on closeness to customers, footfall and visibility, so using the wrong set of factors is a common error.
+
 ## Official syllabus
 
 Aligned to sections 4.5 and 4.6 of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education).

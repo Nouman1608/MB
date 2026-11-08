@@ -37,11 +37,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-1-8"
 description: "12 original IB DP Maths AI practice questions with marked worked answers on sequences, interest, loans, annuities, errors and GDC equation solving."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -200,6 +200,23 @@ Give answers exactly or to 3 significant figures, and money to the nearest cent,
 - More AI practice: [statistics and probability](/resources/ib-dp-mathematics-ai-statistics-probability/) and [geometry and trigonometry](/resources/ib-dp-mathematics-ai-geometry-trigonometry/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Should you write down your TVM solver entries in IB Maths AI?**
+Yes. Write down every TVM entry, such as N, I%, PV, PMT, FV and P/Y, because if you leave them out a single slip loses every mark. Give PV and PMT opposite signs, since money in and money out are entered with different signs.
+
+**Can you write calculator notation like 1.4E11 in an IB Maths AI answer?**
+No. Calculator notation is not acceptable, so write the number in the form a × 10ᵏ, for example 1.4 × 10¹¹.
+
+**How do you calculate percentage error correctly?**
+Use ε = |(v_A − v_E)/v_E| × 100%, dividing by the exact value v_E. Using the approximate value as the denominator is a common mistake.
+
+**What does N mean in the TVM solver when interest is compounded monthly?**
+N is the total number of periods, not the number of years. For monthly compounding over 6 years, N = 72, and entering years instead of periods gives the wrong answer.
+
+**What topics do these IB Maths AI number and finance practice questions cover?**
+They cover sections 1.1–1.8 of the IB Maths AI guide: standard form, arithmetic and geometric sequences, compound interest and depreciation, exponents and logarithms, bounds and percentage error, loans and annuities, and solving systems and polynomials with technology. This content is common to SL and HL.
 
 ## Official syllabus
 

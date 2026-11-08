@@ -182,6 +182,20 @@ Maintenance is reapportioned 60:40 to Press and Finishing. Budgeted activity is 
 - Adding unavoidable fixed overhead to a make-or-buy comparison.
 - Recommending without any non-financial factor.
 
+## Frequently asked questions
+
+**Are these Cambridge 9706 costing questions from past papers?**
+No. They are eleven original questions with worked answers on sections 2.1 and 2.2 of Cambridge 9706, written for revision. Use them alongside the official past papers.
+
+**How many labels does a cost classification need?**
+A cost classification tends to earn credit when it gives both a traceability label, direct or indirect, and a behaviour label, such as fixed, variable, semi-variable or stepped.
+
+**What is the most common mistake in perpetual AVCO questions?**
+Not recalculating the average cost after each receipt. A running record showing units, value and average after each movement lets a slip be traced.
+
+**How should I answer a costing decision question?**
+Show the workings, exclude unavoidable fixed overhead, and include at least one non-financial factor in the recommendation. Recommending without any non-financial factor is a common way to lose marks.
+
 ## Next steps
 
 - [Study guide](/resources/cambridge-a-level-accounting-costs-cost-behaviour-and-traditional-costing-methods/) and [revision notes](/resources/cambridge-a-level-accounting-costs-cost-behaviour-and-traditional-costing-methods-revision-notes/)

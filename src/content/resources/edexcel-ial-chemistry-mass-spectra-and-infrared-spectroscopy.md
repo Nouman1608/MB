@@ -278,6 +278,23 @@ Link each observation to a conclusion, then check it against the spectra. An ora
 - Saying "C=O, so it is an aldehyde" without checking 2775–2700 cm⁻¹.
 - Missing the halogen pattern: two peaks two units apart in a 3 : 1 or 1 : 1 ratio.
 
+## Frequently asked questions
+
+**Which unit examines mass spectra and IR in Edexcel IAL Chemistry?**
+Topic 10D, Mass spectra and IR, is assessed in the International AS examination for Unit 2 of the Pearson Edexcel specification (XCH11/YCH11). Topic 15E in Unit 4 extends it later.
+
+**Why is only the positive fragment detected in a mass spectrum?**
+When a molecular ion breaks apart it forms a positive ion and an uncharged radical. The radical is not accelerated or deflected, so you work out what was lost from the difference in m/z.
+
+**What does the fingerprint region of an IR spectrum show?**
+Below about 1500 cm⁻¹ many overlapping absorptions form a pattern unique to the compound. It is used to match a whole spectrum against a reference spectrum.
+
+**How do you use IR and mass spectra together to identify a compound?**
+Find the functional group from the IR spectrum, find Mr from the molecular ion, write a formula that fits both, then use the fragments to place the groups. Spectra support a structure rather than prove it, so present your answer as a suggestion with reasons.
+
+**How does IR show whether an alcohol was oxidised to an aldehyde or a carboxylic acid?**
+Both products absorb near 1720 cm⁻¹ for C=O. An aldehyde also shows C–H at 2775–2700 cm⁻¹ with no O–H band, while a carboxylic acid shows a very broad O–H band at 3300–2500 cm⁻¹.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017 (Pearson Education Limited). Mass spectra and IR is part 10D of Topic 10, outcomes 10.21 to 10.23, in Unit 2.

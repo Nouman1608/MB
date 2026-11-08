@@ -23,11 +23,11 @@ syllabusTopics:
     topic: "ib-dp-language-b-sharing-the-planet"
 description: "Condensed IB DP Language B revision notes for Paper 1 writing: register, audience, purpose and text-type conventions, with a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 For full explanations and worked examples, use the
@@ -54,8 +54,8 @@ Course links: [Language B hub](/boards/ib/ib-dp/language-b/) ·
 | SL and HL | Same outline; the nature of the assessment differs |
 | HL | Tasks require more complex language and structures and demand higher-order thinking skills; a higher word range |
 
-Not in the brief: word ranges, the list of text types and the marking criteria. Get these from your
-teacher, who has the full subject guide.
+Not in the brief: word ranges, the list of text types and the marking criteria. The full subject guide sets the Paper 1 word ranges: 250 to 400 words at SL and 450 to 600 words at HL.
+Get the text-type list and criteria from your teacher, who has the full guide.
 
 ## Definitions
 
@@ -213,6 +213,20 @@ Before the exam, write these down in your target language and learn them:
 - Choosing a task for its topic without the vocabulary to write about it.
 - Translating English formulas word for word instead of using the target-language ones.
 - At HL, describing or reporting without weighing, evaluating or answering an objection.
+
+## Frequently asked questions
+
+**What is the difference between a report and a proposal?**
+A report sets out findings and recommendations about what happened. A proposal argues for something that should happen, with a plan and its benefits.
+
+**What is the difference between an article and a blog post?**
+An article is usually third person and neutral, with a headline and quotations. A blog post is first person, more personal and invites comments from readers.
+
+**Which part of a text carries most of its conventions?**
+The opening and the closing carry most conventions, so draft them first when you plan a Paper 1 response.
+
+**Where do you find the Paper 1 word ranges and text-type list?**
+The IB DP Language B subject brief does not print them, but the full subject guide does: 250 to 400 words at SL and 450 to 600 words at HL. Your teacher will share the text-type list and marking criteria from the guide.
 
 ## Official syllabus
 

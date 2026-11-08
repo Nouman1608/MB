@@ -302,6 +302,23 @@ two apart.
 - [Exam preparation for this course](/resources/oxfordaqa-igcse-chemistry-exam-preparation/)
 - [Every unit of this course, on the hub](/boards/oxfordaqa/igcse/chemistry/) and the [tick-off checklist](/checklists/oxfordaqa/igcse/chemistry/)
 
+## Frequently asked questions
+
+**Why do ionic compounds have high melting points?**
+An ionic compound such as sodium chloride is a giant lattice held by strong electrostatic forces between oppositely charged ions, acting in all directions. Melting means overcoming a very large number of these strong attractions, which needs a large amount of energy.
+
+**Why do ionic compounds conduct electricity only when melted or dissolved?**
+In the solid, each ion is locked in place in the lattice and cannot travel. When the compound melts or dissolves, the ions are free to move and carry the current; the charge carriers are ions, not electrons.
+
+**Are covalent bonds broken when a simple molecular substance boils?**
+No. Boiling only overcomes the weak intermolecular forces between molecules; the strong covalent bonds inside each molecule are not broken. When water boils, the steam is still made of H₂O molecules.
+
+**Why does silicon dioxide have a very high melting point?**
+Silicon dioxide is a giant covalent structure in which every atom is linked to others by strong covalent bonds throughout. Melting it means breaking a huge number of strong covalent bonds, which takes a very large amount of energy.
+
+**Is section 3.2.2 tiered in OxfordAQA International GCSE Chemistry 9202?**
+No. The 9202 qualification is untiered, so every statement in section 3.2.2 applies to every candidate, and the section has no required practical of its own.
+
 ## Official syllabus
 
 Published by OxfordAQA: the International GCSE Chemistry (9202) specification, Version 6.2, valid

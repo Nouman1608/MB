@@ -262,6 +262,23 @@ The IMF's three main roles are surveillance of members' economies, lending to me
 - Treating the IMF as a regulator of banks.
 - Listing instruments without judging how well they work.
 
+## Frequently asked questions
+
+**What are the functions of a central bank?**
+A central bank operates monetary policy, issues notes and coins, acts as banker to the government and to commercial banks, serves as lender of last resort, supervises or helps regulate the financial system and may manage foreign reserves or the exchange rate.
+
+**What are the advantages and disadvantages of an inflation target?**
+An inflation target is transparent, anchors expectations and holds the central bank accountable. However, it can ignore other objectives after a supply shock, relies on backward-looking data with policy lags and may overlook asset-price bubbles.
+
+**Why does lender of last resort support create moral hazard?**
+If banks expect to be rescued, the downside of risky bets is limited, so risk-taking looks more attractive. Lending at a penalty rate and against collateral with a haircut is meant to limit this.
+
+**Why are financial institutions regulated?**
+Depositors cannot easily check a bank's risks (information asymmetry), one failure can spread through the system (systemic risk), safety nets encourage risk-taking (moral hazard) and consumers need protection from mis-selling and hidden charges.
+
+**What is the cost of tighter capital requirements?**
+A higher capital requirement means a bank can support fewer risk-weighted assets with the same capital, so lending capacity falls unless it raises more capital. Compliance costs and activity moving to lightly regulated firms are further costs.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021: the financial sector, covering the role of the central bank and financial regulation.

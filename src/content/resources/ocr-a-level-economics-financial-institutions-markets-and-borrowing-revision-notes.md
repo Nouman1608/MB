@@ -255,6 +255,23 @@ Judgement factors: size of leverage, quality of lending, trust between instituti
 - Evaluating with a list rather than weighing which point matters most in the context.
 - Forgetting the exchange rate direction: a depreciation lowers the foreign price of exports.
 
+## Frequently asked questions
+
+**What is the difference between retail, commercial and investment banks?**
+Retail banks serve households and small firms, commercial banks lend to and take deposits from businesses, and investment banks issue and trade securities and advise large clients. Treating all banks as one type is a common mistake.
+
+**What is inter-bank lending?**
+Inter-bank lending is short-term borrowing between banks, often overnight, which moves liquidity from banks with surplus funds to those with a gap after daily payments. If trust breaks down, this funding can stop and credit to the real economy falls.
+
+**What is the difference between a nominal and an effective annual interest rate?**
+A nominal annual rate multiplies a monthly rate by 12, while the effective annual rate includes compounding. For example, 1.8% a month is a nominal 21.6% a year but an effective rate of about 23.9%.
+
+**What is leverage and why does it matter?**
+Leverage is the ratio of assets held to the capital invested, often raised by borrowing. It amplifies gains and losses, so a small fall in asset values can wipe out a highly leveraged fund's capital and trigger forced selling.
+
+**What is a loan-to-value ratio?**
+The loan-to-value ratio is the mortgage loan divided by the value of the property. If house prices fall far enough, the property can be worth less than the loan, leaving the household in negative equity.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, Macroeconomics: the financial sector, the role of the financial sector in the real economy.

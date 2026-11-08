@@ -12,11 +12,11 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-investigation-breadth-studies-4hi1"
-description: "The five Historical Investigation options and eight Breadth Study options -- one of each studied -- for Paper 2 of Pearson Edexcel International GCSE History (4HI1)."
+description: "The five historical investigations and eight breadth studies of Edexcel International GCSE History 4HI1 Paper 2, one of each studied, and how to revise them."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -159,6 +159,17 @@ omits.
 
 - [Paper 2 revision notes](/resources/edexcel-igcse-world-history-paper-2-revision-notes/)
 - [Paper 2 practice questions](/resources/edexcel-igcse-world-history-paper-2-practice/)
+
+## Frequently asked questions
+
+**What does Paper 2 contain?**
+One historical investigation (from five options) and one breadth study (from eight options).
+
+**How is the Paper 2 historical investigation question structured?**
+Part (a) asks you to describe two features (6 marks), part (b) asks how far one source supports another (8 marks) and part (c) is a 16-mark judgement that uses the sources and your own knowledge.
+
+**How is the Paper 2 breadth study question structured?**
+Part (a) asks you to explain two ways something was different at two dates (6 marks), part (b) to explain two causes (8 marks) and part (c) is a 16-mark essay on change, continuity or significance across the period.
 
 ## Official syllabus
 

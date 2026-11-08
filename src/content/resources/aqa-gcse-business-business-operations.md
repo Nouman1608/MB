@@ -24,9 +24,9 @@ syllabusTopics:
     subtopic: "good-customer-services-aqa-gcse-business"
 description: "Production methods, procurement and stock management, quality, and customer service -- the full content of Topic 3.3 for AQA GCSE Business (8132)."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-09
 featured: false
 ---
@@ -190,3 +190,16 @@ syllabus's specific methods (product knowledge, engagement, post-sales service) 
   <figcaption>A business can make a profit on paper yet run out of cash if customers pay late.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Which paper is Business operations examined on in AQA GCSE Business (8132)?**
+Topic 3.3 Business operations is examined on Paper 1, Influences of operations and HRM on business activity.
+
+**What is total quality management (TQM)?**
+TQM makes quality the responsibility of every employee in every department, aiming to get things right first time. It reduces defects and recalls but adds training and inspection costs.
+
+**Why can franchising and outsourcing cause quality problems?**
+As a business grows through franchising or outsourcing, it has less direct oversight of every unit produced or service given, so standards may vary between outlets or suppliers.
+
+**What are the benefits of good customer service?**
+The specification lists greater customer satisfaction, customer loyalty, increased spend and profitability. Poor service risks dissatisfied customers, a poor word-of-mouth reputation and reduced revenue.

@@ -317,6 +317,23 @@ Round up: 3,385 lamps would fall just short of the target.
 
 Next: [practice questions](/resources/oxfordaqa-a-level-accounting-marginal-costing-practice/) · [revision notes](/resources/oxfordaqa-a-level-accounting-marginal-costing-revision-notes/).
 
+## Frequently asked questions
+
+**What is contribution?**
+Contribution is the selling price less the marginal cost. Each unit's contribution goes first towards the fixed costs and, once they are covered, becomes profit.
+
+**How do you calculate break-even output?**
+Break-even = fixed costs ÷ contribution per unit. Break-even revenue is break-even output multiplied by the selling price, and profit at that point is zero.
+
+**How do you rank products when a resource is limited?**
+Divide each product's contribution by the amount of the limiting factor it uses, such as labour hours, and make the products with the highest contribution per unit of that factor first. Ranking by contribution per unit of product is a common error.
+
+**Should a special order below the normal price be accepted?**
+On financial grounds, accept it if it adds contribution and there is spare capacity. If normal sales would be lost, deduct the contribution they would have earned, and consider non-financial factors such as other customers pressing for discounts.
+
+**How do you find the sales volume needed for a target profit?**
+Target volume = (fixed costs + target profit) ÷ contribution per unit. Check whether the answer passes any capacity or cost step, and round up to a whole unit.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards (OxfordAQA). Section 3.1.10 Marginal costing.

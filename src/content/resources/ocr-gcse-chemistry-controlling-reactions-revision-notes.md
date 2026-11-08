@@ -236,6 +236,20 @@ Enzymes are **biological catalysts**: they speed up reactions in living things a
 - Treating a longer time as a faster rate when using 1/t.
 - In surface area questions, forgetting to multiply by the number of small pieces.
 
+## Frequently asked questions
+
+**How do you calculate a mean rate of reaction?**
+Divide the change in the amount of product or reactant by the time taken. For example, 105 cm³ of gas collected in 70 s gives a mean rate of 105 ÷ 70 = 1.5 cm³/s.
+
+**What does a flat line on a rate graph mean?**
+A flat line means the reaction has stopped because one reactant has run out. It does not mean the reaction is going at a constant rate.
+
+**Why does temperature affect rate differently from concentration?**
+Increasing concentration, pressure or surface area only makes collisions more frequent. Increasing temperature makes collisions more frequent and also gives a larger share of them at least the activation energy, so temperature answers must mention activation energy.
+
+**How does cutting a solid into smaller pieces affect the rate?**
+Cutting a solid keeps its volume the same but increases the total surface area, so the surface area to volume ratio rises. More particles are exposed to collisions, so the rate increases, and a powder reacts fastest.
+
 ## Official syllabus
 
 OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification, Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Sub-topic C5.2 Controlling reactions, learning outcomes C5.2a–C5.2i, mathematical learning outcomes CM5.2i–CM5.2iv and the linked practical suggestions (PAG C1, PAG C7, PAG C8).

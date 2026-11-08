@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "magnetism-and-magnetic-fields-ocr-gcse"
     subtopic: "magnets-and-magnetic-fields-ocr-gcse"
-description: "Study guide to magnets, field patterns, the Earth's field, current-carrying wires and solenoids for OCR GCSE Physics A (J249), topic P4.1."
+description: "Study guide to magnets, magnetic field patterns, the Earth's field, current-carrying wires and solenoids for OCR GCSE Physics A (J249), topic P4.1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false
@@ -195,6 +195,23 @@ More current lifts more clips. From 1.0 A to 2.0 A the number rises from 9 to 18
 - Treating the geographic and magnetic poles as the same point.
 - Confusing the field of the solenoid with the field in the wire: a solenoid field looks like a bar magnet.
 - Forgetting that line spacing shows strength, so unequal spacing means a non-uniform field.
+
+## Frequently asked questions
+
+**What is a magnetic field?**
+A magnetic field is the space around a magnet or a current in which magnets and magnetic materials experience forces. It is shown with field lines, and closer lines mean a stronger field.
+
+**What is the shape of the magnetic field around a straight wire?**
+The field lines are concentric circles around the wire, in planes at right angles to it. The field is stronger with a larger current and weaker further from the wire.
+
+**How do you find the direction of the field around a wire?**
+Use the right-hand grip rule: point your right thumb along the conventional current, and your curled fingers show the direction of the field. Reversing the current reverses the field.
+
+**Why is soft iron used for the core of an electromagnet?**
+Soft iron magnetises and demagnetises easily, so the electromagnet switches off when the current stops. Steel would stay magnetised.
+
+**What does the field of a solenoid look like?**
+It has the same shape as a bar magnet's field. Inside the solenoid the lines are close, nearly parallel and nearly uniform, and one end acts as a north pole and the other as a south pole.
 
 ## Official syllabus
 

@@ -230,6 +230,20 @@ Production schedules, stock, seasonal hiring, finance for a peak, marketing timi
 - Choosing a forecasting method with no reason tied to the case (new product, stable seasonal sales).
 - Repeating the case facts without using them in the argument.
 
+## Frequently asked questions
+
+**What is the difference between price, income and promotional elasticity of demand?**
+All three divide the percentage change in quantity demanded by a percentage change in something else: the product's price for PED, consumer income for YED, and promotional spending for PromED. The Cambridge 9609 syllabus does not print the formulas, so these are standard forms.
+
+**How does price elasticity affect revenue?**
+If demand is inelastic, a price rise increases revenue and a price cut reduces it. If demand is elastic, a price rise reduces revenue and a price cut increases it.
+
+**What does a negative income elasticity of demand mean?**
+A negative YED means an inferior good: demand falls when incomes rise. A YED above 1 means a normal good whose demand grows faster than income.
+
+**When should a business use qualitative sales forecasting?**
+When there is no sales history, such as for a brand-new product, or when conditions have changed sharply. Its weakness is that opinions are subjective and may be wrong.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028 (Cambridge University Press & Assessment), section 8.1 Marketing analysis.

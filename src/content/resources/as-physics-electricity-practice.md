@@ -22,9 +22,9 @@ syllabusTopics:
     subtopic: "as-resistance-and-resistivity"
 description: "Original exam-style practice questions with full worked answers on current, resistance, resistivity and I-V characteristics for AS Physics."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -139,3 +139,17 @@ over any increase in collision frequency, **lowering** resistance.
 Recognising which effect dominates for a given material is the key
 skill this pair of components tests. For the full I–V characteristic
 table and resistivity treatment, see the [Electricity revision notes](/resources/as-physics-electricity-revision-notes/).
+
+## Frequently asked questions
+
+**What does I = nAvq mean?**
+In I = nAvq, n is the number density of charge carriers, A the cross-sectional area, v the drift velocity and q the charge on each carrier. For a fixed current, a smaller area means a higher drift velocity.
+
+**What is the unit of resistivity?**
+Resistivity is measured in ohm metres (Ω m), not ohms per metre. It is a property of the material, while resistance also depends on the object's length and cross-sectional area.
+
+**Why is the drift velocity of electrons in a metal so small?**
+Metals have a very large number density of free electrons, so from I = nAvq the drift velocity needed for a typical current is tiny, of the order of millimetres per second. The current starts almost instantly because the electric field travels through the conductor far faster than the electrons move.
+
+**What mistakes lose marks in AS electricity questions?**
+Common errors include confusing resistivity with resistance, halving instead of quartering resistance when the diameter doubles, omitting the constant-temperature condition from Ohm's law, and using e.m.f. and p.d. interchangeably.

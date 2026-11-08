@@ -160,6 +160,23 @@ Justify a suitable type of business organisation for Hana. **[8]**
 - Giving one advantage twice in different words when asked for two.
 - Recommending a type without comparing it with another or using the figures.
 
+## Frequently asked questions
+
+**Are these Cambridge IGCSE Business 0264 past paper questions?**
+No. They are original questions written for Marlbridge on section 1.4 (Types of business organisation), with invented businesses. They do not reproduce past papers, so use them alongside your board's official papers.
+
+**How do you work out a shareholder's percentage after new shares are issued?**
+Find the new total number of shares first, then divide the shareholder's holding by that new total and multiply by 100. Dividing by the old total is a common slip.
+
+**What is easy to forget in a first-year franchise calculation?**
+The initial fee. In the first year the franchisee pays both the royalty on sales and the initial fee, so both must be deducted from operating profit.
+
+**How do you answer a franchise question from the right viewpoint?**
+Check whether the question asks about the franchisor, the business that owns the brand, or the franchisee, who runs the outlet. Answering from the wrong side earns no credit, and questions on both sides need both views.
+
+**How do you answer a "recommend and justify" question on business type?**
+Make a clear choice, give reasons tied to the case figures, such as the finance needed and the risk, and say why an alternative type is less suitable. Listing all four types without choosing is weak.
+
 ## Next steps
 
 - Review the [study guide](/resources/igcse-business-0264-types-of-business-organisation/) and use the [revision notes](/resources/igcse-business-0264-types-of-business-organisation-revision-notes/).

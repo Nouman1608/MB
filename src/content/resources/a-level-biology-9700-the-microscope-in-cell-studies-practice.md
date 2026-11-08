@@ -165,6 +165,20 @@ Revise first with the [1.1 study guide](/resources/a-level-biology-9700-the-micr
 - [Free 9700 AS diagnostic](/practice/9700/diagnostic/as/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Does magnification have a unit?**
+No. Write magnification as, for example, ×1500, never "×1500 µm". Make sure both measurements are in the same unit before dividing.
+
+**Why should you show your working in microscope calculations?**
+If the final answer is wrong, a method mark can only be given when the working is shown. Also round the final answer to a sensible number of significant figures.
+
+**Which part of the Cambridge 9700 syllabus do these questions cover?**
+They cover sub-topic 1.1, The microscope in cell studies: magnification, scale bars, graticules, slide preparation, drawings and resolution.
+
+**What should a slide preparation answer include?**
+Include a stain, the technique for lowering the coverslip and focusing at low power first. Leaving out any of these is a common way to lose marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027 (Version 1, published September 2022), Cambridge International Education: topic 1 Cell structure, sub-topic 1.1 The microscope in cell studies, and the Practical assessment section.

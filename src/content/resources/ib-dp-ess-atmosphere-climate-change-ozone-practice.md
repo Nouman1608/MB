@@ -27,9 +27,9 @@ description: "11 original IB DP ESS questions on the atmosphere, climate change 
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -183,6 +183,23 @@ All data tables are fictional. Learn the content first in the [study guide](/res
 - [Topic 2 Ecology practice questions](/resources/ib-dp-ess-topic-2-ecology-practice/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Are these IB ESS atmosphere and climate questions from past papers?**
+No. They are original practice questions and all data tables are fictional. They do not copy the IB's exam structure or mark tariffs, so use them alongside official past papers from your school.
+
+**Which part of the IB ESS syllabus do these questions cover?**
+They cover Topic 6 Atmosphere and climate change, including stratospheric ozone. The 2026 subject brief gives this topic 10 teaching hours at SL and 23 at HL.
+
+**What are common mistakes on IB ESS climate change questions?**
+Frequent errors include confusing ozone depletion with global warming, saying greenhouse gases absorb UV or reflect heat, leaving out units and describing a feedback without closing the loop. Quoting a data trend without figures from the table also loses marks.
+
+**How do you earn marks when classifying mitigation and adaptation strategies?**
+Each mark needs both the correct label and a reason. A correct label with no reason does not earn the mark.
+
+**How are "to what extent" essays marked in IB ESS?**
+Extended essays are marked holistically, so the indicative points on this page are a guide only. A strong answer compares, weighs evidence and ends with a stated judgement rather than listing facts about one side.
 
 ## Official syllabus
 

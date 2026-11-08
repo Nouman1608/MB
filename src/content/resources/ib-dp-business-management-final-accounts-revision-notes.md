@@ -256,6 +256,20 @@ For an AO3 question, name the asset, say which method fits and why, then give on
 - Writing a bare number with no unit or working when the command term is calculate.
 - Giving a choice of depreciation method with no link to the asset in the question.
 
+## Frequently asked questions
+
+**How do you calculate cost of sales?**
+Cost of sales is opening inventory plus purchases minus closing inventory. Work it out first, then subtract it from sales revenue to get gross profit.
+
+**In what order do interest, tax and dividends come off profit?**
+Take off interest to get profit before tax, then tax to get profit after tax, then dividends to get retained profit for the year. Subtracting dividends before tax is a common error.
+
+**What is the difference between net assets and working capital?**
+Net assets are total assets minus total liabilities, and they equal equity. Working capital uses only current items: current assets minus current liabilities.
+
+**What are examples of intangible assets?**
+Standard examples are patents, trademarks or brand names, copyrights, licences or franchise rights, and goodwill. They all sit in non-current assets on the balance sheet.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Business management guide*, first assessment 2024: section 3.4 Final accounts and the Glossary of command terms.

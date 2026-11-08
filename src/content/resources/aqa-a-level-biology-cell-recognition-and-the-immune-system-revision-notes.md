@@ -17,13 +17,13 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "cells-aqa-alevel-biology"
     subtopic: "cell-recognition-and-the-immune-system-aqa-alevel-biology"
-description: "Condensed AQA A-level Biology 7402 notes on section 3.2.4: antigens, phagocytosis, T and B cells, antibodies, vaccines, HIV, monoclonal antibodies and the ELISA test."
+description: "Condensed AQA 7402 notes on 3.2.4: antigens, phagocytosis, T and B cells, antibodies, vaccines, HIV, monoclonal antibodies and ELISA, for A-level Biology."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-05
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-11-05."
 ---
 
 Short notes for the final weeks. These notes follow section 3.2.4, Cell recognition and the immune system, in the AQA AS and A-level Biology specification (A-level 7402), for first teaching 2015, exams June 2016 onwards. The section is part of the AS content, so nothing here is marked A-level only. Find the [AQA A-level Biology hub](/boards/aqa/a-level/biology/), tick off topics on the [checklist](/checklists/aqa/a-level/biology/), and use the free [diagnostics](/diagnostics/) to find weak spots. Virus structure and protein structure are in the [cell structure notes](/resources/aqa-a-level-biology-cell-structure-revision-notes/) and the [lipids and protein structure notes](/resources/aqa-a-level-biology-lipids-and-protein-structure-revision-notes/).
@@ -251,6 +251,23 @@ When asked to **evaluate** data on vaccines or monoclonal antibodies, look at sa
 - Saying HIV directly kills people, rather than the opportunistic infections that follow loss of TH cells.
 - Missing the washing step, or its reason, in ELISA answers.
 - Forgetting that memory cells are the reason the secondary response is faster.
+
+## Frequently asked questions
+
+**Why are antibodies described as complementary to antigens?**
+Each antibody's binding site has a shape complementary to one specific antigen, so they fit together. Saying they are "the same shape" is a common error in AQA 7402 answers.
+
+**Why is the well washed in an ELISA test?**
+Washing removes unbound antibodies. Any unbound enzyme-linked antibody left in the well would change colour and give a false positive.
+
+**How does HIV cause the symptoms of AIDS?**
+HIV infects and destroys helper T cells, so B cells, cytotoxic T cells and phagocytes are not stimulated properly. The immune system cannot respond to other pathogens, and opportunistic infections cause the symptoms.
+
+**Why does antigen variability make people ill again?**
+When a pathogen such as the influenza virus changes its surface antigens, memory cells from an earlier infection or vaccine no longer have complementary receptors, so the next infection triggers a slow primary response.
+
+**Do I need to know how monoclonal antibodies are produced for AQA?**
+No. The specification states that details of the commercial production of monoclonal antibodies are not required.
 
 ## Official syllabus
 

@@ -171,6 +171,20 @@ Learn the content first with the [Bonding study guide](/resources/ocr-gcse-chemi
 - Try the [C2.1 purity and separating mixtures practice](/resources/ocr-gcse-chemistry-purity-separating-practice/).
 - [Book a free trial class](/trial/) with a Marlbridge teacher.
 
+## Frequently asked questions
+
+**What does OCR GCSE Chemistry C2.2 Bonding cover?**
+Sub-topic C2.2 of OCR GCSE (9–1) Chemistry A (J248) covers metals and non-metals, electron arrangements and position in the periodic table, ionic, covalent and metallic bonding, dot and cross diagrams, the limitations of models, group reactivity and the development of the periodic table.
+
+**What are common mistakes in ionic dot and cross diagrams?**
+Students often leave out square brackets or charges, show electrons still on the metal ion's old outer shell, or write a formula whose charges do not balance. Always check that the total positive and negative charges add up to zero.
+
+**How should I answer a "compare" question on bonding?**
+Make direct comparisons between the two substances, for example how the particles and the forces between them differ. Writing two separate descriptions without linking them is a common way to lose marks.
+
+**How do you estimate how many atoms span a nanoparticle?**
+Divide the diameter of the particle by the diameter of one atom, making sure both lengths are in the same unit first. Mixing nanometres and metres is a frequent error.
+
 ## Official syllabus
 
 OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification, Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Sub-topic C2.2 Bonding.

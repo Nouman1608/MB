@@ -15,9 +15,9 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-assessment-criteria"
 description: "Condensed IB MYP Language Acquisition criterion D revision notes: task-decoding grid, connective and register tables, checking order and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -176,6 +176,20 @@ Check these against the descriptors your teacher gives you.
 - Connectives that contradict the logic, such as *therefore* before an unrelated point.
 - Over-ambitious structures full of errors that block meaning.
 - No time left to check verbs, agreement and accents.
+
+## Frequently asked questions
+
+**How do you decode an MYP Language Acquisition writing task?**
+Before writing, identify the purpose, the audience, the text type and what the stimulus offers. These four answers decide your register, layout and content.
+
+**What is a cohesive device?**
+Cohesive devices are the language that joins ideas: connectives such as "however" and "therefore", and reference words such as "this" or "such a project" that point back to something already said. A connective must match the logic of the sentence.
+
+**Should I copy phrases from the stimulus in an MYP writing task?**
+No. Reuse the stimulus's ideas in your own words rather than copying its phrases word for word. Lifting stimulus phrases is a common way to lose credit.
+
+**How is MYP Language Acquisition writing assessed?**
+Criterion D has eight achievement levels in four bands, like the other three criteria, and carries 24 marks in the on-screen examination blueprint.
 
 ## Official syllabus
 

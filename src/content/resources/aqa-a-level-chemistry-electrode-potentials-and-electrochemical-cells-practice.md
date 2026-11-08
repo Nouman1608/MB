@@ -176,6 +176,23 @@ PbSO₄ + 2e⁻ ⇌ Pb + SO₄²⁻, E⦵ = −0.36 V
 - Explaining a concentration change without saying how the equilibrium shifts.
 - Leaving electrons or spectator ions on both sides of an overall equation.
 
+## Frequently asked questions
+
+**Is electrode potentials an AS topic in AQA Chemistry?**
+No. Section 3.1.11 of the AQA 7404/7405 specification is A-level only. It is listed under A-level Paper 1, and Paper 3 can assess any content, including Required practical 8.
+
+**Should you multiply E⦵ when you scale up a half-equation?**
+No. E⦵ does not depend on the amount, so it stays the same when a half-equation is doubled to balance electrons. Multiplying the E⦵ value gives a wrong EMF.
+
+**What does a negative EMF tell you about a cell?**
+A correctly written cell, with the more positive electrode on the right, always has a positive EMF. A negative answer signals that the electrodes have been placed the wrong way round.
+
+**Which way round must IUPAC half-equations be written?**
+Every electrode half-equation is written as a reduction, with electrons on the left. Reversing only the arrow on an oxidation is not enough.
+
+**Does a feasible reaction have to be fast?**
+No. A positive EMF shows a reaction is feasible under standard conditions, but it says nothing about the rate. Treating feasibility as a statement about rate loses marks.
+
 ## Next steps
 
 - [Revision notes for this section](/resources/aqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells-revision-notes/)

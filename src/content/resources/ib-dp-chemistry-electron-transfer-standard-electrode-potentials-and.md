@@ -267,6 +267,20 @@ Clean and degrease the object so the coating sticks, then weigh it. Connect it t
 
 Next, consolidate with the [condensed notes](/resources/ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and-revision-notes/), and check yourself on the [marked questions](/resources/ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and-practice/).
 
+## Frequently asked questions
+
+**How do you read a table of standard electrode potentials?**
+Every E⦵ value is quoted for the reduction, with electrons on the left. A more positive E⦵ means the species on the left is a stronger oxidizing agent, and a more negative E⦵ means the species on the right is a stronger reducing agent.
+
+**Why does the product at the anode depend on the concentration of sodium chloride?**
+The E⦵ values for oxidizing chloride (+1.36 V) and water (+1.23 V) are close. Concentrated NaCl(aq) gives chlorine at the anode, while dilute NaCl(aq) gives mainly oxygen, as E⦵ predicts.
+
+**What happens when copper(II) sulfate is electrolysed with copper electrodes?**
+Copper is far easier to oxidize than water, so the copper anode dissolves while copper deposits at the cathode. With inert graphite or platinum electrodes, oxygen forms at the anode instead.
+
+**How are ΔG⦵ and E⦵cell linked to Reactivity 1.4?**
+Electrochemical data give ΔG⦵ = −nFE⦵cell, while thermodynamic data give ΔG⦵ = ΔH⦵ − TΔS⦵. Both routes give the same quantity and either can predict spontaneity.
+
 ## Official syllabus
 
 Source document: the *Diploma Programme Chemistry guide* (International Baccalaureate Organization), first assessment 2025, published February 2023, sub-topic Reactivity 3.2, understandings 3.2.12 to 3.2.16 (additional higher level).

@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "probability-aqa-gcse-maths"
 description: "Eleven original AQA GCSE Maths 8300 Probability questions on relative frequency, Venn and tree diagrams and conditional probability, with marked answers."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -182,6 +182,20 @@ Learn the content first in the [study guide](/resources/aqa-gcse-maths-8300-prob
 - Stating that events are or are not independent without a calculation.
 - Writing probabilities as ratios or as "1 in 5".
 - Forgetting the "neither" region on a Venn diagram.
+
+## Frequently asked questions
+
+**How do you draw a tree diagram without replacement?**
+On the second set of branches, reduce the total by one and reduce the count of the item already taken. Keeping the same denominator on both picks is the most common mistake.
+
+**Do you add or multiply on a tree diagram?**
+Multiply along the branches to find the probability of each outcome, then add the outcomes that fit the event. Adding along a path loses the marks.
+
+**How do you show two events are independent?**
+Calculate P(A) × P(B) and compare it with P(A and B). They are independent only if these are equal, and a yes or no without the calculation earns no mark.
+
+**Which references does AQA GCSE Maths Topic 5 Probability cover?**
+Topic 5 Probability in AQA GCSE Mathematics 8300 covers P1 to P9, including relative frequency, expected outcomes, sample spaces, Venn and tree diagrams and, at Higher tier, conditional probability.
 
 ## Next steps
 

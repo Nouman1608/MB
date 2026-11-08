@@ -203,6 +203,23 @@ then silver nitrate, produces a white precipitate that dissolves in dilute aqueo
 - Record progress on the [printable checklist](/checklists/edexcel/a-level/chemistry/).
 - Take a free 10-minute [diagnostic](/diagnostics/).
 
+## Frequently asked questions
+
+**What do these Edexcel IAL Chemistry Group 7 practice questions cover?**
+They cover Topic 8C, Inorganic chemistry of Group 7, of the Pearson Edexcel International A Level Chemistry specification (YCH11), outcomes 8.24 to 8.28. The topic is taught at International AS level in Unit 2.
+
+**How do you show that a halogen reaction is disproportionation?**
+Give the oxidation number of the element before and in each product, showing that it both rises and falls in the same reaction. Stating only the reduction does not show the definition.
+
+**Why is Mr(I₂) used instead of Ar(I) in iodine calculations?**
+Iodine exists as I₂ molecules, so the mass of iodine reacting or formed uses the molar mass of I₂, not of a single iodine atom. Using Ar(I) gives an answer out by a factor of two.
+
+**How should you describe observations for halides with concentrated sulfuric acid?**
+Describe what is seen or smelled, such as steamy fumes, purple vapour, a yellow solid or a bad-egg smell. Naming a gas such as hydrogen sulfide without the observation may not earn the mark.
+
+**What is needed for an "evaluate" question on chlorine in water treatment?**
+An evaluation needs points for and against, leading to a judgement. Listing only the benefits limits the credit available.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11)

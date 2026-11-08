@@ -247,6 +247,20 @@ Batch time lost. A line runs 35 hours a week, with 8 changeovers of 1.25 hours e
 - Judging a sustainability measure without weighing its cost against its saving or image effect.
 - Describing the problems of changing method in general, rather than for the business and the method in the question.
 
+## Frequently asked questions
+
+**What is the difference between efficiency and effectiveness?**
+Efficiency means producing output with the least waste of resources, which lowers unit costs. Effectiveness means achieving the business's aims and meeting customer needs.
+
+**How do you calculate labour productivity?**
+The standard form is output in a period divided by the number of employees in that period. You can also divide by hours worked when staff work different hours.
+
+**What is the difference between batch and flow production?**
+Batch production makes a group of identical items and then stops to switch to another product. Flow production runs continuously, making standardised items along a line.
+
+**Do sustainability measures always raise costs?**
+No. Set-up costs often rise because of new equipment or training, but running costs often fall through lower energy use and less waste, so compare the outlay with the yearly saving.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus, for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International). Section 4.1, The nature of operations.

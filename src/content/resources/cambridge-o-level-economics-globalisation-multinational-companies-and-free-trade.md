@@ -195,6 +195,20 @@ Average cost falls by 6, which is 50%. The firm can cut its price, sell more, or
 
 Revise from the [revision notes](/resources/cambridge-o-level-economics-globalisation-multinational-companies-and-free-trade-revision-notes/), then attempt the [practice questions](/resources/cambridge-o-level-economics-globalisation-multinational-companies-and-free-trade-practice/). Tick off progress on the [checklist](/checklists/cambridge/o-level/economics/) and find gaps with the [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What do sections 6.2.1 to 6.2.3 of Cambridge O Level Economics 2281 cover?**
+They cover what globalisation means, the role of multinational companies and their costs and benefits to host and home countries, and the benefits of free trade for consumers, producers and the economy in a variety of countries.
+
+**Why do firms become multinational?**
+A firm may go multinational to cut labour or material costs, sell inside a large market without paying import barriers, be close to customers or gain from a lower tax rate.
+
+**How do producers benefit from free trade?**
+Producers gain larger markets, economies of scale as fixed costs are spread over more units, cheaper imported inputs, and competition that pushes them to cut costs and improve quality.
+
+**Does free trade have losers?**
+Yes. Domestic producers that cannot match cheaper imports lose sales, and some workers may lose jobs. The gains to consumers must be weighed against these losses.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281, syllabus for examination in 2026 (version 2), published by Cambridge University Press & Assessment (Cambridge International Education): section 6.2, topics 6.2.1 to 6.2.3.

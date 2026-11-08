@@ -12,7 +12,10 @@ order: 2
 syllabusTopics:
   - qualification: "gcse"
     topic: "paper-1-cognition-and-behaviour-8182"
-description: "Hypotheses, sampling, experimental design and data handling -- Section 3.1.4 Research Methods within Paper 1 (Cognition and Behaviour), distinct from the site's existing whole-paper guide, which also covers Memory, Perception and Development."
+  - qualification: "gcse"
+    topic: "paper-1-cognition-and-behaviour-8182"
+    subtopic: "research-methods-8182"
+description: "Guide to section 3.1.4 Research Methods in AQA GCSE Psychology (8182) Paper 1: hypotheses, variables, sampling, experimental designs, ethics and data handling."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -144,3 +147,17 @@ examined as their own question, not just mentioned in passing.
 - Revise BPS ethical guidelines and how they apply to a described study.
 - Practise calculating mean, median, mode and range from a small data set, and interpreting a normal
   distribution.
+
+## Frequently asked questions
+
+**Where is research methods assessed in AQA GCSE Psychology 8182?**
+Research methods is section 3.1.4, the fourth and final section of Paper 1, Cognition and Behaviour. It is also tested within questions on memory, perception and development.
+
+**Which sampling method gives the most representative sample?**
+Stratified sampling, which samples proportionally from subgroups of the population, gives the most representative sample of the four methods, but it needs more information about the population in advance.
+
+**What is the difference between independent groups and repeated measures designs?**
+Independent groups uses different participants in each condition, which avoids order effects but introduces participant variables. Repeated measures uses the same participants in every condition, which controls participant variables but introduces order effects.
+
+**Can a correlation show cause and effect?**
+No. A correlation measures the relationship between two co-variables without either being manipulated, so it cannot show that one causes the other.

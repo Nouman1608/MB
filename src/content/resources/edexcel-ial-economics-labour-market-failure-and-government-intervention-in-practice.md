@@ -144,6 +144,20 @@ These questions cover 3.3.4 item 4 and 3.3.5 item 2 of the Pearson Edexcel Inter
 - Treating a pay gap as proof of discrimination.
 - Concluding without a judgement.
 
+## Frequently asked questions
+
+**Does a minimum wage always cause unemployment?**
+No. Check the market structure first. In a competitive market a minimum wage above equilibrium creates unemployment, but in a monopsony a minimum wage within a range can raise both pay and employment.
+
+**Where is the monopsony wage read from?**
+Find employment where marginal revenue product equals the marginal cost of labour, then read the wage from the labour supply curve at that employment, not from the demand curve.
+
+**How should you evaluate a training subsidy?**
+Include its cost, the time lag before benefits arrive and the deadweight of workers who would have trained anyway. Saying "training helps" without these points loses marks in Edexcel International A Level Economics answers.
+
+**Does a pay gap prove discrimination?**
+No. A pay gap can have other causes, so treating it as proof of discrimination without evidence is a common error.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/edexcel-ial-economics-labour-market-failure-and-government-intervention-in-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-labour-market-failure-and-government-intervention-in/).

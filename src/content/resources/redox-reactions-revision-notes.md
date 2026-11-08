@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "redox"
 description: "Condensed recall notes on oxidation and reduction by oxygen, electrons and oxidation number for Cambridge IGCSE 0620 and O Level 5070, with the standard tests."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -187,3 +187,16 @@ Related: [Redox Reactions practice questions](/resources/redox-reactions-practic
   <figcaption>The oxidising agent is the substance that gets reduced; the reducing agent is the one that gets oxidised.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does OIL RIG mean in chemistry?**
+OIL RIG stands for Oxidation Is Loss, Reduction Is Gain, of electrons. Oxidation and reduction always happen together, because electrons lost by one species are gained by another.
+
+**How do you test for an oxidising agent or a reducing agent?**
+Potassium iodide solution turns from colourless to brown with an oxidising agent, as iodide is oxidised to iodine. Acidified potassium manganate(VII) turns from purple to colourless with a reducing agent.
+
+**How do you work out an oxidation number?**
+Use the rules: an uncombined element is 0, oxygen is normally −2, hydrogen is normally +1, and the numbers add up to zero in a neutral compound or to the charge in an ion. For example, Mn in KMnO₄ is +7.
+
+**What definition of redox do Cambridge IGCSE 0620 Core students need?**
+For 0620 Core, the oxygen definition (gain or loss of oxygen) is the complete requirement. The electron and oxidation number definitions are Extended for 0620 and required for O Level 5070.

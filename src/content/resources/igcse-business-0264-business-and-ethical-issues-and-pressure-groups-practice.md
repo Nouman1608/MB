@@ -150,6 +150,20 @@ These questions cover sections 6.4 (Business and ethical issues) and 6.5 (Pressu
 - Take the [free 10-minute diagnostics](/diagnostics/) to find other weak topics.
 - Book a free trial class: [trial](/trial/).
 
+## Frequently asked questions
+
+**Can a pressure group force a business to change?**
+No. A pressure group has no power to order a business to act; it works by affecting sales, reputation or the law, for example through publicity, boycotts or lobbying government.
+
+**What are common mistakes on ethics and pressure group questions in IGCSE Business 0264?**
+Students often write that being ethical improves the "image" without saying what that does to sales, give only the final figure in a calculation, treat a pressure group as if it can force a business to act, and leave out one side in a "justify" or "consider" question. Writing long answers to "state" questions wastes time.
+
+**Which sections of the Cambridge IGCSE Business 0264 syllabus cover ethics and pressure groups?**
+In the Cambridge IGCSE Business 0264 syllabus, section 6.4 covers business and ethical issues and section 6.5 covers pressure groups.
+
+**Why should you note assumptions in ethics calculations?**
+Calculations of the cost of a fair price or a boycott often assume that sales do not change. Saying so, and what would happen if sales did change, strengthens a comment or judgement.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge International, sections 6.4 and 6.5.

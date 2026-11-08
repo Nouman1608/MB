@@ -271,6 +271,23 @@ Non-financial limitations, which no ratio captures:
 - Describing a ratio as "good" or "bad" without comparing it with anything.
 - Listing limitations in general terms with no link to the business in the question.
 
+## Frequently asked questions
+
+**How many ratios and financial measures are in OxfordAQA International GCSE Accounting 9215?**
+Nine. The specification also asks you to appraise performance on profitability and liquidity, and to know the limitations of financial statements and ratio analysis.
+
+**How is the rate of inventory turnover calculated?**
+Divide cost of sales by average inventory, where average inventory is opening inventory plus closing inventory, divided by two.
+
+**Is a higher ratio always better?**
+No. A single ratio means little until it is compared with last year, a budget or a similar business, and higher is not always better: a very high payable days figure may mean the business is struggling to pay.
+
+**What are the limitations of ratio analysis?**
+Financial limitations include historic figures that may not predict the future and year-end balances that may not be typical. Non-financial factors such as staff skills, morale, customer loyalty, reputation and the state of the market are not captured by any ratio.
+
+**Why does paying a short-term debt improve the current ratio?**
+Paying a trade payable from the bank lowers current assets and current liabilities by the same amount, so a current ratio above 1 : 1 rises even though cash falls.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), specification version 1.2, for exams from May/June 2026 onwards, section 3.5: Interpretation, analysis and communication of financial information. This page deals with the ratios, appraisal, cash and profit, and limitations content points. Stakeholders and the use of computers in accounting are other content points in the same section and are not covered here.

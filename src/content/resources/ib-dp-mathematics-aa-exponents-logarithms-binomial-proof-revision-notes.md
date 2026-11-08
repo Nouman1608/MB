@@ -25,11 +25,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-1-9"
 description: "Condensed IB DP Maths AA revision notes on exponent and log laws, exponential equations, LHS to RHS proof and binomial expansions, with a self-test."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 For full explanations and longer worked examples, read the [exponents, logarithms, binomial theorem and proof study guide](/resources/ib-dp-mathematics-aa-exponents-logarithms-binomial-proof/) first.
@@ -241,6 +241,19 @@ AA Paper 1 allows no technology; Paper 2 requires it. Be fluent by hand with exp
   <figcaption>The solution of 5^(x+1) = 3^(2x) is where the curves meet, found with logs.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between = and ≡?**
+The = sign states an equation, true only for certain values, such as x² − 9 = 0 for x = ±3. The ≡ sign states an identity, true for every value, such as x² − 9 ≡ (x − 3)(x + 3).
+
+**Does log(x + y) equal log x + log y?**
+No. There is no law for the log of a sum. The product law says log xy = log x + log y, which is different.
+
+**What is the change of base formula for logarithms?**
+log_a x = (log_b x)/(log_b a). By hand, change to a base where both numbers are powers of the same thing; with a GDC, change to ln or log.
+
+**What is the difference between log x and ln x?**
+In IB DP Mathematics: Analysis and Approaches, log x means log base 10 and ln x means the natural logarithm, base e.
 
 ## Official syllabus
 

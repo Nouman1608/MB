@@ -244,6 +244,20 @@ Worked reminder, 2,2-dimethylbutane, CH₃C(CH₃)₂CH₂CH₃:
 - Omitting UV radiation from the conditions.
 - Counting equivalent positions twice, for example treating 1-chlorohexane and 6-chlorohexane as different.
 
+## Frequently asked questions
+
+**What are the three stages of radical substitution in OCR A Level Chemistry?**
+Initiation, where UV radiation splits the halogen molecule into two radicals by homolytic fission; propagation, where a radical reacts with a molecule to give a new radical; and termination, where two radicals combine and the chain stops.
+
+**Why is radical substitution of limited use in synthesis?**
+Further substitution gives di-, tri- and higher substituted products, the halogen radical can remove H from any carbon to give structural isomers, and termination gives longer alkanes. The result is a mixture with only a small amount of each product.
+
+**Why is carbon monoxide dangerous?**
+Carbon monoxide is toxic because it binds to haemoglobin and reduces oxygen transport in the blood.
+
+**Do you need hybridisation for OCR A Level Chemistry 4.1.2 Alkanes?**
+No. You need to describe σ-bonds as direct overlap between the nuclei that allows free rotation, but hybridisation is not required.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 4.1.2 Alkanes, learning outcomes (a) to (g). Published by OCR.

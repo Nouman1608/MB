@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "business-in-the-real-world-aqa-gcse-business"
 description: "Condensed recall notes on business purpose, ownership, stakeholders, location, growth and business planning for GCSE Business."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -241,3 +241,17 @@ A business plan contains the business idea, aims and objectives, target market a
 5. Give the two main purposes of a business plan.
 
 **Answers:** 1. Opportunity cost is the next best alternative given up when a choice is made; the three sectors are primary, secondary and tertiary. 2. Unlimited liability means the owner's personal assets can be seized to pay business debts; limited liability restricts losses to the amount invested. 3. It is owned by shareholders who buy its shares on the stock market, not by the government — "public" refers to who may buy shares. 4. For example, owners want to cut costs to raise profit while employees want higher wages and better conditions; the same money cannot satisfy both. 5. To raise finance from lenders or investors, and to force the owner to think through the risks before committing money.
+
+## Frequently asked questions
+
+**Is a public limited company part of the public sector?**
+No. A plc is in the private sector because it is owned by shareholders, not the government. Confusing "public limited company" with "public sector" is a very common error.
+
+**What is the difference between organic and external growth?**
+Internal (organic) growth comes from new products, outlets or markets, which is slower but keeps control. External growth happens through mergers and takeovers, which is faster but costs more and risks a clash of cultures.
+
+**What are economies of scale?**
+Economies of scale lower average unit cost (total cost ÷ output) as output rises, for example through purchasing economies from bulk-buying. They do not reduce total costs, which is a common exam trap.
+
+**Why do weight-losing industries locate near raw materials?**
+Because the finished product is lighter than the raw materials, so it is cheaper to move the finished product than the inputs. Weight-gaining and service industries tend to locate near the market instead.

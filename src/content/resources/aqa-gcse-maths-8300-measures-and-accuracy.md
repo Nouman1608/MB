@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "number-aqa-gcse-maths"
     subtopic: "measures-and-accuracy-aqa-gcse-maths"
-description: "Study guide for AQA GCSE Maths 8300 section 3.1.3 (N13-N16): units, estimation, rounding, error intervals and bounds, with worked examples."
+description: "Detailed study guide for AQA GCSE Maths 8300 section 3.1.3 (N13-N16): units, estimation, rounding, error intervals and bounds, with worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
 featured: false
@@ -343,6 +343,20 @@ You use the upper bound in calculations even though the interval ends with <: us
 - Rounding an intermediate answer, then rounding again at the end.
 - Writing an error interval with ≤ at both ends, or forgetting that truncation only goes upwards.
 - (Higher) Using UB ÷ UB for the maximum of a division, or UB − UB for the maximum of a subtraction.
+
+## Frequently asked questions
+
+**How do you write an error interval for a rounded value?**
+Go half a unit either side of the value, using ≤ on the left and < on the right. For example, 6.3 to 1 decimal place gives 6.25 ≤ x < 6.35.
+
+**Should you round during a calculation?**
+No. The specification says you should not round values during intermediate steps. Keep the full calculator value and round only the final answer.
+
+**How do you round in a real-life context?**
+Let the context decide. If 230 people need coaches with 52 seats each, 230 ÷ 52 = 4.42..., so 5 coaches are needed even though 4.42 rounds to 4.
+
+**How do you give an answer to a suitable degree of accuracy using bounds?**
+Work out the upper and lower bounds of the answer and round both. Give the answer to the greatest accuracy at which both bounds agree, and state that as your reason.
 
 ## Where to go next
 

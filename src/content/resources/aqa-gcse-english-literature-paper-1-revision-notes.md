@@ -12,11 +12,17 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "paper-1-shakespeare-and-the-19th-century-novel-8702"
-description: "Condensed recall notes on Paper 1's closed-book structure and approach for AQA GCSE English Literature (8702)."
+  - qualification: "gcse"
+    topic: "paper-1-shakespeare-and-the-19th-century-novel-8702"
+    subtopic: "section-a-shakespeare-8702"
+  - qualification: "gcse"
+    topic: "paper-1-shakespeare-and-the-19th-century-novel-8702"
+    subtopic: "section-b-the-19th-century-novel-8702"
+description: "Condensed notes on AQA GCSE English Literature 8702 Paper 1: the closed-book Shakespeare and 19th-century novel sections, the AOs and how to answer."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-08-26
 featured: false
 ---
@@ -105,3 +111,17 @@ revision time disproportionate to its 40% share of the qualification.
 6. Why does being closed book affect how precisely a candidate should aim to recall quotations?
 
 **Answers (continued):** 5. Unseen poetry — since the poems are unfamiliar on the day, no amount of memorising specific quotations in advance can substitute for genuine analytical skill practised under timed conditions. 6. Because there is no text available to check against in the exam room, an imprecisely recalled quotation cannot be corrected or verified on the spot — and a vague paraphrase is harder to make apt than a precisely chosen reference, which is what the mark scheme actually rewards, so precision is worth prioritising even though verbatim accuracy itself is not directly credited.
+
+## Frequently asked questions
+
+**How long is AQA GCSE English Literature Paper 1?**
+Paper 1 of AQA GCSE English Literature (8702) lasts 1 hour 45 minutes, is closed book and is worth 64 marks, or 40% of the GCSE. Paper 2 lasts 2 hours 15 minutes for 96 marks and 60%.
+
+**What does each section of Paper 1 involve?**
+Both sections follow the same pattern: a set extract, then a whole-text essay, once for the Shakespeare play and once for the 19th-century novel. Start from the extract and reach outward to the whole text.
+
+**How should I organise a quotation bank for the 19th-century novel?**
+Organise it chronologically across the novel, not only by theme, so you can trace how a character or theme develops. Answers that only cover one moment underperform those that show development.
+
+**Should I spend more time revising Paper 1 or Paper 2?**
+Weight revision towards Paper 2, which carries 60% of the GCSE and includes unseen poetry that cannot be prepared through memorised quotations. Paper 1's demands are real but should not take a share of revision time beyond its 40% weighting.

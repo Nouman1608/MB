@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "biological-molecules-aqa-alevel-biology"
 description: "Original exam-style practice questions with full worked answers on carbohydrates, proteins, enzymes and food tests for AQA A Level Biology 7402."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-08-22
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -120,3 +120,17 @@ Related: [Biological Molecules revision notes](/resources/aqa-a-level-biology-bi
 - Forgetting to add the ethanol/lipid mixture to water — a positive lipid test needs both steps, not ethanol alone.
 - Describing glycogen as "the same as starch" without mentioning its greater branching and why that matters for a higher metabolic rate.
 - Placing disulfide bridges at secondary rather than tertiary structure — secondary structure is hydrogen bonds only, in a regular repeating pattern.
+
+## Frequently asked questions
+
+**Which AQA topic do these questions cover?**
+They cover AQA A-level Biology 7402 biological molecules: carbohydrates, lipids, proteins, enzymes and food tests.
+
+**What should you revise before attempting these questions?**
+Work through the AQA biological molecules revision notes first, then use these questions to test recall and explanation.
+
+**What is a common mistake in the non-reducing sugar test?**
+Forgetting to neutralise the solution after acid hydrolysis, before repeating Benedict's test.
+
+**Are these AQA past paper questions?**
+No. They are original exam-style questions with full worked answers. Use them alongside official AQA past papers.

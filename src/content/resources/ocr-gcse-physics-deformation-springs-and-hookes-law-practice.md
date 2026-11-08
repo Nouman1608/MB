@@ -150,6 +150,20 @@ Links: [study guide](/resources/ocr-gcse-physics-deformation-springs-and-hookes-
 - Stopping at a number in N cm when the question asks for joules.
 - Stating that a single force can stretch an object that has nothing holding the other end.
 
+## Frequently asked questions
+
+**What are the most common mistakes in spring and Hooke's law questions?**
+Common errors include using the stretched length as the extension, substituting centimetres into F = ke or E = ½ke², forgetting to square the extension, and reading the spring constant from the curved part of a graph.
+
+**How do you describe a spring investigation for full marks?**
+Describe how you measure the extension for each load and say how the result is obtained from the graph, for example the spring constant from the gradient of the straight section. Missing the graph step loses marks.
+
+**Should you give energy in N cm or joules?**
+Give energy in joules. If you work in N cm from a graph, convert using 100 N cm = 1 J before giving the final answer.
+
+**Can one force stretch a spring?**
+No. A spring with nothing holding its other end would simply move. Stretching needs forces pulling on different parts in opposite directions, such as a load pulling down and a clamp pulling up.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/ocr-gcse-physics-deformation-springs-and-hookes-law/) for any question you missed.

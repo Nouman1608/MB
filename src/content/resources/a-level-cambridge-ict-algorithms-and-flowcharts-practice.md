@@ -270,6 +270,20 @@ Count and Passes set to 0 before the loop [1]; first INPUT before the loop and `
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which Cambridge 9626 paper tests algorithms and flowcharts?**
+Algorithms and flowcharts is topic 4 of Cambridge International AS & A Level Information Technology (9626), AS Level content examined in Paper 1 Theory. Paper 2 Practical also expects you to apply knowledge from sections 1 to 7.
+
+**What symbol should you use for assignment in 9626 pseudocode?**
+The syllabus does not fix an assignment symbol, so any clear symbol such as an arrow can be used as long as you are consistent. The comparison operators listed in the syllabus are >, < and =.
+
+**How do you write "70 or more" using only >, < and =?**
+Write the condition as greater than 69, for example Mark > 69. Writing Mark > 70 would wrongly exclude a mark of exactly 70, a common boundary slip.
+
+**What are common mistakes in algorithm questions?**
+Common slips include setting a total or counter to 0 inside the loop, forgetting the INPUT at the end of a WHILE body, processing the rogue value, naming an error without writing the corrected line, and drawing decisions with unlabelled exits.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3), Cambridge International Education. Topic 4: Algorithms and flowcharts (4.1 Algorithms, 4.2 Flowcharts) and the flowchart symbols table at the end of the subject content.

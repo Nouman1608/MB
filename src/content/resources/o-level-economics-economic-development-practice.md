@@ -12,14 +12,14 @@ order: 5
 syllabusTopics:
   - qualification: "o-level"
     topic: "economic-development"
-description: "Original exam-style questions with full worked answers on policies to reduce poverty, absolute and relative poverty, the benefits of citizens working abroad, education and earnings, the primary sector and opportunity cost, and GDP per head as a measure of living standards, for Cambridge O Level Economics (2281)."
+description: "Practice questions with worked answers on poverty, working abroad, education, the primary sector and GDP per head, for Cambridge O Level Economics 2281."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -108,3 +108,17 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 - Writing about emigration in general when the question is about the gains from citizens working abroad.
 - Giving money or profit as an opportunity cost instead of the alternative goods or services given up.
 - Treating GDP per head as a complete measure of living standards.
+
+## Frequently asked questions
+
+**How are explain questions marked in Cambridge O Level Economics?**
+Each point usually needs an identification and a linked explanation, with a mark for each. Naming a policy or effect without explaining how it works earns only part of the credit.
+
+**Where do the examiner insights on this page come from?**
+They paraphrase the Cambridge O Level Economics (2281) June 2024 Principal Examiner Report for Teachers and the June 2024 mark scheme for Paper 22. Each answer also names the real question to try next.
+
+**Should an opportunity cost be given as money?**
+No. Give the alternative goods or services that are given up, not money or profit. Opportunity cost is the next-best alternative forgone.
+
+**Is GDP per head a complete measure of living standards?**
+No. It is an average, so it hides how income is shared, and it leaves out things such as leisure, pollution, health and education. Treating it as a complete measure is a common way to lose marks.

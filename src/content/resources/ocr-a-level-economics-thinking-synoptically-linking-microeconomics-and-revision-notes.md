@@ -235,6 +235,20 @@ Pay rose in money terms but bought nothing extra. At macro level this limits con
 - Using only micro or only macro when the question asks for both.
 - Leaving a diagram uncommented or with unlabelled axes.
 
+## Frequently asked questions
+
+**How is OCR A Level Economics Component 03 assessed?**
+Themes in economics is a 2-hour written paper worth 80 marks and one third of the A level. It has 30 multiple-choice questions and 50 marks of short answer and extended response questions on an unseen theme.
+
+**Does Component 03 have its own content?**
+No. Component 03 is entirely synoptic: it prescribes no content of its own and draws on the microeconomics and macroeconomics content, applied to an unseen theme.
+
+**How long should you spend on the multiple-choice questions?**
+The notes give timing advice of about 40 to 45 minutes on the multiple-choice questions, 15 to 20 minutes on the stimulus material, and about 60 minutes on the 50 marks of theme questions.
+
+**What does "think as economists" mean?**
+In the OCR specification it means using models to explain behaviour, making causal connections, and recognising the limits of those models.
+
 ## Official syllabus
 
 OCR, *A Level Economics (H460)*, Version 3.0 (June 2026), for first assessment in 2021: sections 2c, 3a, 3b, 3f and the Quantitative Skills annex.

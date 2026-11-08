@@ -322,6 +322,20 @@ An adult ticket costs £12 and a child ticket costs £7.50. Check in (1): 24 + 2
 
 Revise the key results in the [revision notes](/resources/oxfordaqa-igcse-mathematics-linear-equations-and-forming-equations-from-problems-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-mathematics-linear-equations-and-forming-equations-from-problems-practice/). Tick off the content on the [printable checklist](/checklists/oxfordaqa/igcse/mathematics/) and find gaps with the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is a linear equation?**
+A linear equation is one where the unknown appears only to the first power. You solve it by applying the same operation to both sides until the unknown is on its own.
+
+**How do you expand a minus sign in front of a bracket?**
+Change the sign of every term inside the bracket, not just the first. So −(x − 4) is −x + 4, not −x − 4.
+
+**Which references cover linear equations in OxfordAQA 9260?**
+In OxfordAQA International GCSE Mathematics (9260), A19 covers solving linear equations and finding approximate solutions with a graph, and A22 covers forming expressions, formulae and equations from problems. Both are Core.
+
+**When should you use two unknowns in a word problem?**
+Use two unknowns when the problem gives two separate facts. Write one equation for each fact, solve the pair, and answer in context with units.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.2.3, references A19 and A22.

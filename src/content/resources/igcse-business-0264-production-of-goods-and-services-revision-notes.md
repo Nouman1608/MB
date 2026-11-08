@@ -250,6 +250,20 @@ Use the same chain for an advantage, a disadvantage or a factor affecting invent
 - Writing only one side when asked to justify, with no reason why the other methods are weaker.
 - Treating a rise in output as a rise in productivity when the workforce also grew.
 
+## Frequently asked questions
+
+**How do you calculate labour productivity for Cambridge IGCSE Business 0264?**
+Labour productivity = output in a period ÷ number of employees in that period, giving units per employee. Always state the unit and the time period, and productivity can also be measured per hour worked.
+
+**What is the difference between job and batch production?**
+Job production makes one product at a time to a customer's own specification. Batch production makes a group of identical products together before the equipment is changed for the next batch, giving lower unit costs than job production but less individuality.
+
+**What are the disadvantages of just-in-time inventory control?**
+Production stops if a delivery is late, so the business depends on reliable suppliers. Orders may be smaller and dearer with fewer bulk discounts, and a sudden rise in demand is hard to meet from stock.
+
+**What factors affect how much inventory a business holds?**
+The main factors are the type of product (perishable or durable), how steady demand is, supplier reliability and delivery time, storage space and cost, the cash available and the production method used.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge International Education, section 4.1.

@@ -210,6 +210,23 @@ For worked questions in exam style, use the [practice set](/resources/oxfordaqa-
 </figure>
 
 
+## Frequently asked questions
+
+**What is allele frequency?**
+Allele frequency is the fraction of the copies of a gene in a population's gene pool that are a particular allele. It is a proportion between 0 and 1, and the frequencies of all alleles of one gene add up to 1.
+
+**What is the difference between genetic drift and natural selection?**
+Genetic drift is a change in allele frequency due to chance and is not linked to an allele being useful. Natural selection depends on the effect of an allele on survival or reproduction.
+
+**Why does genetic drift have a bigger effect in small populations?**
+In a small population there are few copies of each allele, so each chance event is a large fraction of the whole and an allele can be lost entirely. In a large population random effects average out.
+
+**What are the conditions for the Hardy-Weinberg principle?**
+The standard conditions are a large population, random mating, no mutation, no migration into or out of the population, and no selection. If these hold, allele frequencies stay the same from one generation to the next.
+
+**Is Hardy-Weinberg on the International AS or the A-level in OxfordAQA Biology (9610)?**
+Sections 3.3.7.1 and 3.3.7.2 sit in Unit 3, Populations and genes, which is assessed in the International A-level. The International AS covers Units 1 and 2 only.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), Version 5.1, for International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards, published by OxfordAQA. Sections 3.3.7.1 and 3.3.7.2.

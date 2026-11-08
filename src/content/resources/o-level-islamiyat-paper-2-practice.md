@@ -12,11 +12,23 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-2058"
-description: "Original practice paper in the Cambridge O Level Islamiyat 2058 Paper 2 format: Question 1 on set Hadiths in Arabic and English, then two-part questions on Sahih al-Bukhari and Sahih Muslim, Umar's caliphate, fasting and al-qadr, with levels-based mark guidance."
+  - qualification: "o-level"
+    topic: "paper-2-2058"
+    subtopic: "major-teachings-hadiths-2058"
+  - qualification: "o-level"
+    topic: "paper-2-2058"
+    subtopic: "history-importance-hadiths-2058"
+  - qualification: "o-level"
+    topic: "paper-2-2058"
+    subtopic: "rightly-guided-caliphs-2058"
+  - qualification: "o-level"
+    topic: "paper-2-2058"
+    subtopic: "articles-faith-pillars-2058"
+description: "Original Cambridge O Level Islamiyat 2058 Paper 2 practice: set Hadiths, Bukhari and Muslim, Umar's caliphate, fasting and al-qadr, with mark guidance."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -198,3 +210,14 @@ An answer arguing that some things, such as when a person is born or dies, are o
 - Narrating battles in Question 3 without names, dates or places, which keeps an answer below Level 4.
 - In Question 4, listing exemptions without saying who makes up the days later and who pays fidya.
 - In Question 5(b), giving a one-word judgement without reasons.
+
+## Frequently asked questions
+
+**How is 2058 Paper 2 structured?**
+Paper 2 lasts 1 hour 30 minutes and is worth 50 marks (50%). It has five questions: Questions 1 and 2 are compulsory and you choose two of Questions 3 to 5. Question 1 is worth 8 marks (4 + 4) and each other answered question 14 marks (10 + 4).
+
+**What does Question 2 on the Hadiths test?**
+The history and importance of the Hadiths, for example the compilers and features of Sahih al-Bukhari and Sahih Muslim, and their role in Muslim law.
+
+**Are these real Cambridge questions?**
+No. They are original questions in the published format and tariffs.

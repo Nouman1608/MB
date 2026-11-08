@@ -324,6 +324,23 @@ because their oxides are toxic and irritant.
 - Writing `SO₂ + H₂O → H₂SO₄`. Sulfur stays +4, so the product is H₂SO₃.
 - Forgetting that Al₂O₃ reacts with bases as well as acids.
 
+## Frequently asked questions
+
+**How does sodium react with cold water?**
+Sodium reacts vigorously: it floats, melts into a ball, fizzes and moves about, forming sodium hydroxide and hydrogen. The solution is strongly alkaline, at about pH 13 to 14.
+
+**Why is the pH of magnesium oxide in water only about 9 to 10?**
+Magnesium hydroxide is only slightly soluble, so the mixture is a weakly alkaline suspension. Giving pH 14 for MgO is a common error.
+
+**Which oxides do Period 3 elements form when burned in oxygen?**
+Sodium, magnesium, aluminium, silicon, phosphorus and sulfur form Na₂O, MgO, Al₂O₃, SiO₂, P₄O₁₀ and SO₂. Each forms its highest oxide except sulfur, which first forms SO₂.
+
+**Why do Al₂O₃ and SiO₂ both have high melting points?**
+Both need a lot of energy to melt, but for different reasons: aluminium oxide is held by strong ionic attraction, while silicon dioxide is macromolecular with covalent bonds throughout.
+
+**Are the pH values for oxide solutions fixed constants?**
+No. The pH values quoted are illustrative approximate readings that depend on the amount of oxide, water volume, temperature and dissolved carbon dioxide. This section, 3.2.4 of AQA A-level Chemistry 7405, is A-level only.
+
 ## Official syllabus
 
 AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level

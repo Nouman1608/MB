@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-waves-and-electricity"
     subtopic: "electric-circuits"
-description: "Condensed recall notes on current, resistance, Kirchhoff laws, internal resistance, potential dividers and I-V characteristics for Edexcel International A Level Physics YPH11."
+description: "Condensed recall notes on current, resistance, Kirchhoff's laws, internal resistance, potential dividers and I-V characteristics for Edexcel IAL Physics YPH11."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -31,7 +31,7 @@ Condensed for the final weeks. For the full explanation, use the
 I = Q/t        I = n A v q        (number density, area, drift velocity, charge)
 ```
 
-**The drift velocity equation explains why a thin wire glows first.** For the same current, reducing the cross-sectional area A must increase the drift velocity v, so electrons collide more frequently with the lattice, transferring more energy and heating that section faster. That reasoning is a standard extended-answer question.
+**Why a thin section of wire gets hotter first.** The current is the same throughout, so from I = nqvA a smaller cross-sectional area A means a larger drift velocity v. The heating itself is explained by resistance: R = ρl/A is larger for the thin section, so with the same current the power dissipated there, P = I²R, is greater. That reasoning is a standard extended-answer question.
 
 Metals have a very high number density n, so drift velocity is tiny (millimetres per second) — yet the current flows almost instantly, because the electric field is established throughout the circuit at nearly the speed of light. Along a uniform current-carrying wire, potential varies **linearly** with distance from one end, which is the working principle behind a potential divider's continuous voltage split.
 
@@ -154,3 +154,16 @@ Substituting a **thermistor** or **LDR** makes the output respond to temperature
   <figcaption>Which component the output is across decides whether it rises or falls.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is Core Practical 7 in Edexcel IAL Physics?**
+Core Practical 7 determines the electrical resistivity of a material. Measure length and diameter, with a micrometer for the diameter, and plot R against l/A; the gradient gives the resistivity.
+
+**What are Kirchhoff's laws?**
+Kirchhoff's first law says current into a junction equals current out, from conservation of charge. The second law says the sum of e.m.f.s equals the sum of p.d.s around any loop, from conservation of energy.
+
+**Why does an NTC thermistor's resistance fall as it warms?**
+Heating releases more charge carriers in the semiconductor, and this outweighs the increase in lattice vibration, so resistance falls. A filament lamp does the opposite, because only the lattice vibration increases.
+
+**How do you predict the output of a sensor potential divider?**
+Use V_out = V_in × R₂/(R₁ + R₂) and ask what happens to the sensor's share of the total resistance. If the sensor's resistance falls, its share of the supply p.d. falls too.

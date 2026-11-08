@@ -174,6 +174,20 @@ Any data you need is supplied in each question.
 - Mole calculations: [Amount of substance practice](/resources/ocr-a-level-chemistry-amount-of-substance-practice/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry alkanes questions from past papers?**
+No. They are original practice questions with worked answers on section 4.1.2 of OCR A Level Chemistry A (H432).
+
+**Why are alkanes unreactive?**
+Give both reasons: C–C and C–H bonds are strong, and they have very low polarity. Giving only bond strength is a common way to lose marks.
+
+**How do you explain the 109.5° bond angle in an alkane?**
+Refer to the four bonding pairs around each carbon repelling each other equally, which gives a tetrahedral arrangement. Stating 109.5° alone is not enough.
+
+**What should an "evaluate" answer include?**
+It should reach a clear judgement. An answer that gives no judgement is unlikely to earn full credit.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 4.1.2 Alkanes, learning outcomes (a) to (g). Published by OCR.

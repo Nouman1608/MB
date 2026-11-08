@@ -282,6 +282,20 @@ In-order outputs **date, fig, kiwi, lime, pear, plum, yam**: alphabetical order,
 - Writing pre-order as "root, right, left". Left always comes before right in all three traversals.
 - Saying in-order sorts any binary tree; it only does so for a binary search tree.
 
+## Frequently asked questions
+
+**Which programming languages are used for OxfordAQA 9645 Unit 3?**
+Unit 3: Advanced Programming is an on-screen exam taken in C#, Python or VB.Net. The specification sets no pseudo-code standard.
+
+**What are the typical applications of BFS and DFS in OxfordAQA 9645?**
+The specification's typical application for breadth-first search is the shortest path in an unweighted graph, and for depth-first search it is navigating a maze.
+
+**Why is post-order traversal used to empty a tree?**
+Post-order deals with both subtrees before the node itself, so no node is deleted while its children can still only be reached through it.
+
+**What are the applications of Dijkstra's algorithm?**
+Applications include satellite navigation and journey planners, and routing packets across networks, where link-state protocols such as OSPF use Dijkstra's algorithm to find lowest-cost paths.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA: section 3.11 Advanced algorithms (3.11.1 Graph algorithms and 3.11.2 Tree algorithms).

@@ -228,6 +228,20 @@ Ethanoic anhydride acylates the –OH of 2-hydroxybenzoic acid. Industry prefers
 - Answering "safer" for the aspirin question without saying what the hazard is.
 - Saying an impure solid melts "at a different temperature" without "lower" and "over a range".
 
+## Frequently asked questions
+
+**How do you name an ester?**
+Name the alcohol part first, ending in -yl, then the acid part, ending in -oate. For example, HCOOCH₂CH₂CH₂CH₂CH₃ has a one-carbon acid part and a five-carbon alcohol part, so it is pentyl methanoate.
+
+**Why does alkaline hydrolysis of an ester go to completion?**
+In alkali the acid forms as its carboxylate ion, which does not react with the alcohol, so the reverse reaction cannot happen. Acid hydrolysis, by contrast, is reversible.
+
+**What is the difference between soap and biodiesel?**
+Soap is made by hydrolysing a fat or oil with alkali, giving glycerol and salts of long-chain carboxylic acids. Biodiesel is made by reacting a vegetable oil with methanol and a catalyst, giving a mixture of methyl esters of long-chain carboxylic acids.
+
+**Why are two molecules of ammonia or amine needed per acyl chloride?**
+The second molecule of ammonia or amine removes the H⁺ that would otherwise form HCl, giving an ammonium salt. Using only one molecule per acyl chloride leaves HCl next to a base.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards: section 3.3.9 Carboxylic acids and derivatives (3.3.9.1 and 3.3.9.2) and required practical 10, International A2 content.

@@ -12,13 +12,13 @@ order: 5
 syllabusTopics:
   - qualification: "o-level"
     topic: "mensuration"
-description: "Original exam-style questions with full worked answers on area units, arcs and sectors, circles, cylinders, cones and hemispheres, for Cambridge O Level Mathematics 4024."
+description: "Original Cambridge O Level Mathematics 4024 mensuration questions on area units, arcs and sectors, circles, cylinders, cones and hemispheres, with answers."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-24
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -145,6 +145,23 @@ These questions cover mensuration for Cambridge O Level Mathematics 4024: area a
 - Giving a decimal when the question says "in terms of π", or leaving π in an answer that asks for 3 significant figures.
 - Giving 20 when 20.03 litres of paint are needed, instead of rounding up to the next whole number.
 - Mixing units, such as a depth in cm with a volume in m³, without converting first.
+
+## Frequently asked questions
+
+**How do you convert m² to cm² in O Level Mathematics?**
+Square the length factor: 1 m = 100 cm, so 1 m² = 100 × 100 = 10 000 cm². For volume, cube it, so 1 m³ = 1 000 000 cm³. Multiplying by 100 or 1000 instead is a common error.
+
+**Should you use the slant height or the vertical height for a cone?**
+The curved surface area of a cone, πrl, needs the slant height l. The volume, ⅓πr²h, needs the perpendicular height h.
+
+**What does "give your answer in terms of π" mean?**
+Leave π as a symbol in the final answer, such as 22.5π cm², instead of converting it to a decimal. If the question asks for 3 significant figures instead, give a decimal without π.
+
+**How do you find the perimeter of a sector?**
+Add the arc length to the two straight edges, which are both radii. Forgetting the straight edges is a frequent way to lose marks on sector and segment perimeters.
+
+**Why should you avoid rounding during a mensuration problem?**
+Rounding in the middle of a multi-step problem can change the final third significant figure. Keep full calculator values until the last step, then round as the Cambridge O Level Mathematics 4024 question asks.
 
 ## Next steps
 

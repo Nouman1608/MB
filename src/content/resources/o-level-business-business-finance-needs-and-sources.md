@@ -208,6 +208,20 @@ Larkhollow Bikes is a sole trader's workshop. The owner, Mirela, wants a cargo b
 - Saying crowd-funding and micro-finance are the same. Micro-finance is small loans; crowd-funding is many small contributions.
 - Recommending a source that the legal form rules out, such as a share issue for a sole trader.
 
+## Frequently asked questions
+
+**Can a sole trader raise finance by issuing shares?**
+No. A sole trader cannot issue shares, so relies on savings, loans and retained profit. Recommending a share issue for a sole trader is a common error.
+
+**Is an overdraft short-term or long-term finance?**
+An overdraft is short-term external finance. It is flexible and interest is charged only on the amount used, but rates can be high and the bank can withdraw it.
+
+**What is trade credit?**
+Trade credit means buying goods now and paying the supplier later. It is short-term finance, often with no interest, but delaying payment too long can harm the relationship with the supplier.
+
+**Which sources of finance does the Cambridge O Level Business 7115 syllabus name?**
+The syllabus itself names overdraft, debt, equity, micro-finance and crowd-funding. Other sources, such as retained profit, bank loans and trade credit, are standard examples that fit its categories.
+
 ## Official syllabus
 
 Cambridge O Level Business Studies 7115 syllabus for examination in 2026, published by Cambridge University Press & Assessment (Cambridge International Education), section 5.1 Business finance: needs and sources.

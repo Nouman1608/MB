@@ -8,13 +8,13 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Business Management"]
 order: 1
-description: "Paper-by-paper exam preparation for IB Diploma Programme Business Management -- how to use the pre-released Paper 1 statement, what to practise for the fully unseen Paper 2 and HL Paper 3, the four concepts as a planning tool, a worked scenario and a before/during-exam checklist."
+description: "Exam preparation for IB DP Business Management: using the pre-released Paper 1 statement, practising for unseen Paper 2 and HL Paper 3, with a checklist."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 The [assessment revision notes](/resources/ib-dp-business-management-assessment-revision-notes/) set
@@ -34,9 +34,9 @@ unseen until the exam itself.
 **Exam-preparation priority**: treat the released statement as material to actively research and
 annotate over three months, not background reading to skim once. Build short notes on each named
 research topic in advance, and re-read the released extract closely enough to predict, in general
-terms, what kind of organisation and issue the full case study is likely to explore -- students who
-only skim the advance material consistently underperform relative to their overall preparation,
-since case-study-based questions carry a substantial share of Paper 1's marks.
+terms, what kind of organisation and issue the full case study is likely to explore. Skimming the
+advance material once wastes the main advantage Paper 1 offers, since every question on the paper is
+based on the case study.
 
 ## Paper 2 and HL Paper 3: fully unseen stimulus material
 
@@ -129,6 +129,23 @@ analysis around what the scenario is fundamentally about, rather than answering 
 unit-specific content in isolation. 5. Listing the tool's components generically without applying
 them to the scenario's actual figures and details, or stopping at the analysis without reaching a
 reasoned judgement.
+
+## Frequently asked questions
+
+**How far in advance is the IB Business Management Paper 1 statement released?**
+The Paper 1 statement is released three months before the exam. It names a small number of research topics and gives roughly the first 200 words of a fictitious case study of 800 to 1,000 words; the rest stays unseen until the exam.
+
+**How much is each IB DP Business Management paper worth?**
+Paper 1 is worth 35% at SL and 25% at HL. The assessment revision notes on this site set out the full weighting of every component at SL and HL.
+
+**What kind of organization does HL Paper 3 focus on?**
+HL Paper 3 uses a social-enterprise stimulus. Because profit maximization is not necessarily the main objective, answers need to weigh social or environmental impact alongside, or instead of, financial performance.
+
+**How can you prepare for Paper 2 if the material is unseen?**
+Practise applying standard business tools such as SWOT, Ansoff's matrix and decision trees to a range of unfamiliar short scenarios under timed conditions. The skill being tested is applying well-known tools quickly to new material.
+
+**What are the four concepts in IB DP Business Management?**
+The four concepts are change, creativity, ethics and sustainability. Identifying the most relevant one before a longer answer gives a fast way to frame the analysis on any paper.
 
 ## Official syllabus
 

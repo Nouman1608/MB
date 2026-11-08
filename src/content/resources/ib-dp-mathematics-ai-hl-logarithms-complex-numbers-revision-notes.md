@@ -28,11 +28,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-1-13"
 description: "Condensed IB Maths AI HL revision notes on logarithm laws, rational exponents, sums to infinity and complex numbers, with a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 These are condensed notes for the final weeks. For full explanations and longer worked examples, use the [study guide for this unit](/resources/ib-dp-mathematics-ai-hl-logarithms-complex-numbers/).
@@ -232,6 +232,20 @@ Total distance = h + 2 × (hr) / (1 − r). The 2 counts each rise and its fall.
 - Writing an exponential form with the angle in degrees.
 - Adding sinusoid amplitudes directly instead of adding the complex numbers.
 - Giving only a GDC answer with no complex number written down, so no method mark can be awarded if the answer is wrong.
+
+## Frequently asked questions
+
+**Why must you check the roots of a logarithmic equation?**
+The laws of logarithms only hold for positive arguments, so substitute every root back into the original equation. Reject any root that makes a log argument zero or negative.
+
+**How do you find the argument of a complex number in the second or third quadrant?**
+Find the reference angle α = arctan |b/a|, then adjust by quadrant: θ = π − α in quadrant 2 and θ = −(π − α) in quadrant 3, keeping −π < θ ≤ π. A quick sketch of the point helps you check the quadrant.
+
+**How do you add two sinusoids of the same frequency using complex numbers?**
+Write each wave A cos(ωt + α) as the complex number Ae^(iα), add the complex numbers, and read off the modulus as the new amplitude and the argument as the new phase. The answer takes the form R cos(ωt + β).
+
+**Do you calculate complex numbers by hand or with a GDC in IB Maths AI HL?**
+The IB guide says sums, differences, products and quotients of complex numbers are done by hand and with technology, so practise both. Powers of complex numbers in Cartesian form are calculated with technology.
 
 ## Official syllabus
 

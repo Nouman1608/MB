@@ -25,11 +25,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-1-9"
 description: "IB DP Maths AA study guide to exponents, logarithms, simple deductive proof and the binomial theorem, with fully worked examples for SL and HL."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 This study guide teaches the exponents, logarithms, binomial theorem and simple proof unit of IB Diploma Programme Mathematics: Analysis and Approaches. It is aligned to the IB *Mathematics: analysis and approaches guide*, first assessment 2021, syllabus sections 1.5, 1.6, 1.7 and 1.9. All of it is common content, so it is examined at both SL and HL. It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 sessions.
@@ -362,6 +362,23 @@ Simplify the power of x in the general term first.
 ## Where next
 
 Condense this into the [revision notes](/resources/ib-dp-mathematics-aa-exponents-logarithms-binomial-proof-revision-notes/). Then attempt the [practice questions](/resources/ib-dp-mathematics-aa-exponents-logarithms-binomial-proof-practice/), which have mark-by-mark answers. Logarithmic and exponential graphs are taught in the [AA functions study guide](/resources/ib-dp-mathematics-aa-functions/). You will use e^x and ln x again throughout the [AA calculus study guide](/resources/ib-dp-mathematics-aa-calculus/). For the whole course, see the [AA syllabus guide](/resources/ib-dp-mathematics-analysis-and-approaches-syllabus-guide/) and the [AA exam preparation guide](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/).
+
+## Frequently asked questions
+
+**What does a logarithm mean?**
+A logarithm answers "what power?": for a > 0, a ≠ 1 and b > 0, a^x = b is equivalent to log_a b = x. So log₂ 32 = 5 because 2⁵ = 32.
+
+**Can you take the log of zero or a negative number?**
+No. The number inside the logarithm must be positive, so log_a 0 and the log of a negative number are not defined.
+
+**How do you lay out an LHS to RHS proof?**
+Start with one side only and transform it with valid algebraic steps until it becomes the other side. Do not work on both sides at once or start by assuming the result, and check the identity with a numerical value.
+
+**How do you solve an exponential equation like 9^x − 4(3^x) + 3 = 0?**
+Spot the hidden quadratic: 9^x = (3^x)², so let y = 3^x and solve the quadratic in y. Reject any negative value of y, because 3^x > 0 for every x.
+
+**What is the general term of a binomial expansion?**
+In (a + b)^n the general term is nCr a^(n−r) b^r, and there are n + 1 terms. Keep any minus sign with b so the signs alternate correctly.
 
 ## Official syllabus
 

@@ -264,6 +264,23 @@ Muscle cells from a healthy person (A) and a person with Type 2 diabetes (B) are
 * Saying Type 2 diabetes means no insulin. The body does not respond to its own insulin.
 * Dividing by the final value in a percentage change. Divide by the starting value.
 
+## Frequently asked questions
+
+**What is homeostasis?**
+Homeostasis is keeping conditions inside the body relatively constant by automatic control systems, because cells work best when their surroundings stay within narrow limits.
+
+**Where is glucose stored in the body?**
+Much of the glucose is stored as glycogen in the liver and muscles. When blood glucose falls, glucagon makes the stored glycogen change back into glucose.
+
+**How are Type 1 and Type 2 diabetes treated?**
+Type 1 diabetes is controlled by injecting insulin, along with diet and exercise, because the pancreas does not make enough of the hormone. Type 2 can be controlled by diet, exercise and drugs that help cells respond to insulin.
+
+**Is the structure of the eye and ear in the OxfordAQA 9201 homeostasis topic?**
+No. The specification says that knowledge of the structure and function of sense organs such as the eye and ear is not required.
+
+**What is normal core body temperature?**
+Core temperature is normally close to 37 °C. The thermoregulatory centre compares what it detects with this level and sends signals to effectors such as skin blood vessels, sweat glands and muscles.
+
 ## Official syllabus
 
 The OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA.

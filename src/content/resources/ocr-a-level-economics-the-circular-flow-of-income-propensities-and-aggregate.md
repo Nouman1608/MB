@@ -321,6 +321,23 @@ A change in any component at each price level shifts AD. A rise shifts the curve
 - Writing MPC + MPS = 1 using national income when taxes and imports exist; use disposable income.
 - Stating the accelerator as "investment depends on output" instead of its *change*.
 
+## Frequently asked questions
+
+**What are the three methods of measuring national income?**
+The output method adds the value added by each sector, the income method adds incomes earned by the factors of production, and the expenditure method adds spending on final goods and services, C + I + G + (X − M).
+
+**What is the difference between physical and monetary flows in the circular flow?**
+Physical flows are movements of resources, goods and services, such as labour supplied to firms and goods supplied to households. Monetary flows are the payments, such as wages and consumer spending, that move in the opposite direction.
+
+**Why does a rise in imports reduce aggregate demand?**
+Aggregate demand measures planned spending on domestic output. Spending on imports goes to foreign producers, so imports enter AD with a negative sign: AD = C + I + G + (X − M).
+
+**Is income the main determinant of consumption?**
+The OCR A Level Economics (H460) guide concludes that income is the main determinant, but the link is not fixed. Who receives the income, whether a rise is expected to last, wealth, credit, interest rates and time lags all affect how much is spent.
+
+**Does MPC plus MPS always equal 1?**
+MPC + MPS = 1 holds when the base is disposable income, because disposable income is either consumed or saved. Using national income as the base when taxes and imports exist is a common error.
+
 ## Official syllabus
 
 This guide is aligned to the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, published by OCR.

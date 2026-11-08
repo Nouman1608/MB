@@ -204,6 +204,20 @@ Graph check: a distance–time graph that becomes a straight line shows constant
 - Rounding in the middle of a calculation, then losing a significant figure.
 - Describing an experiment without saying how to know that terminal velocity has been reached.
 
+## Frequently asked questions
+
+**What is the difference between mass and weight?**
+Mass, in kg, does not change from place to place. Weight is the gravitational force on an object, W = mg, measured in newtons, and it depends on the gravitational field strength.
+
+**How do you calculate tension in a lift cable when it accelerates?**
+Take upward as positive and apply T − mg = ma, so T = m(g + a). The tension is greater than the weight when accelerating upward and less than the weight when the acceleration is downward.
+
+**What happens when a skydiver opens a parachute?**
+Drag suddenly becomes larger than the weight, so the net force is upward and the skydiver decelerates. Drag then falls with speed until it equals the weight again, at a lower terminal velocity.
+
+**Which sections of OCR A Level Physics A cover dynamics and terminal velocity?**
+They are sections 3.2.1 Dynamics and 3.2.2 Motion with non-uniform acceleration in Module 3 of OCR H556. Moments, equilibrium, density and pressure are in 3.2.3 and 3.2.4.
+
 ## Official syllabus
 
 OCR A Level Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017, published by OCR. Sections 3.2.1 and 3.2.2.

@@ -9,11 +9,11 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Chemistry"]
 syllabusSeries: "First assessment 2025"
 order: 2
-description: "The Structure and Reactivity strands of the IB Diploma Programme Chemistry syllabus, with every numbered sub-topic (Structure 1-3, Reactivity 1-3) and recommended teaching hours, for first assessment 2025."
+description: "Every numbered sub-topic of the IB DP Chemistry syllabus, Structure 1 to 3 and Reactivity 1 to 3, with SL and HL teaching hours, for first assessment 2025."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -145,6 +145,20 @@ Building a habit of asking "what bonding model explains this mechanism"
 every time you meet a new reaction type in Reactivity 3 is one of the
 most efficient ways to revise this component, since it forces the
 cross-referencing the exam itself rewards.
+
+## Frequently asked questions
+
+**How many teaching hours does IB DP Chemistry have?**
+Recommended teaching time for syllabus content is 110 hours at SL and 180 hours at HL, on top of 40 hours (SL) or 60 hours (HL) of experimental work.
+
+**What are the six components of the IB DP Chemistry syllabus?**
+The Structure strand has Structure 1 (particulate nature of matter), Structure 2 (bonding and structure) and Structure 3 (classification of matter). The Reactivity strand has Reactivity 1 (what drives reactions), Reactivity 2 (how much, how fast and how far) and Reactivity 3 (mechanisms).
+
+**Which is the largest component in DP Chemistry?**
+Reactivity 3, the mechanisms of chemical change, is the largest single component, with 24 hours at SL and 45 hours at HL.
+
+**Is entropy in the SL DP Chemistry syllabus?**
+No. Reactivity 1.4, entropy and spontaneity, is additional higher level content, so it is studied at HL only.
 
 ## Official syllabus
 

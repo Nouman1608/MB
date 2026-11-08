@@ -212,6 +212,23 @@ ultraviolet lamp.
 - Comparing with a standard run on a different plate or a different GC column.
 - In GC-MS, saying the mass spectrometer separates the mixture; GC separates, MS identifies.
 
+## Frequently asked questions
+
+**What is the moving phase in gas chromatography?**
+In gas chromatography the moving phase is a gas passed through the column under pressure at high temperature. In TLC and column chromatography the moving phase is a liquid solvent.
+
+**Which way does the solvent move in TLC and column chromatography?**
+In TLC the solvent moves up the plate, while in column chromatography it moves down the column. Mixing up these directions is a frequent error.
+
+**Why is a lid placed on the TLC container?**
+The lid saturates the air in the container with solvent vapour, which stops the solvent evaporating from the plate. "To make it neat" is not an acceptable reason.
+
+**What do GC and MS each do in GC-MS?**
+Gas chromatography separates the components of the mixture, and the mass spectrometer then analyses each separated component. Saying the mass spectrometer separates the mixture is incorrect.
+
+**Does a larger Rf value mean a substance is more strongly retained?**
+No. A large Rf value means the substance is weakly retained by the stationary phase and more soluble in the moving phase. In gas chromatography, a long retention time means the component is strongly retained; this is all A-level only content in AQA 7405.
+
 ## Official syllabus
 
 AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level

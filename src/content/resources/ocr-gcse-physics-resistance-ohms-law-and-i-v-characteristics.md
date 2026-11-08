@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "electricity-ocr-gcse"
     subtopic: "simple-circuits-ocr-gcse"
-description: "Study guide to resistance, V = IR, resistors, lamps, diodes, thermistors, LDRs and I-V graphs for OCR GCSE (9-1) Gateway Science Physics A."
+description: "Study guide to resistance, V = IR, resistors, filament lamps, diodes, thermistors, LDRs and I-V graphs for OCR GCSE (9-1) Gateway Science Physics A (J249)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false
@@ -218,6 +218,23 @@ Dark: I = 5.0 ÷ 500 000 = 0.000 010 A = **10 µA**. Bright: I = 5.0 ÷ 2000 = 0
 ## Next steps
 
 Work through the [practice questions](/resources/ocr-gcse-physics-resistance-ohms-law-and-i-v-characteristics-practice/), then use the [revision notes](/resources/ocr-gcse-physics-resistance-ohms-law-and-i-v-characteristics-revision-notes/) to tidy your recall. Tick off progress on the [checklist](/checklists/ocr/gcse/physics/), and check the course [hub](/boards/ocr/gcse/physics/) for other topics.
+
+## Frequently asked questions
+
+**What is an ohmic conductor?**
+An ohmic conductor, such as a fixed resistor or a metal wire at constant temperature, has a constant resistance whatever the potential difference. Its I-V graph is a straight line through the origin.
+
+**What does the I-V graph of a diode look like?**
+There is almost no current in the reverse direction. In the forward direction there is almost no current until a small potential difference is reached, then a steep rise, because a diode allows current in one direction only.
+
+**How does an NTC thermistor's resistance change with temperature?**
+The resistance of an NTC thermistor decreases as its temperature rises. This is why it is used for temperature sensing.
+
+**Does a resistor use up current?**
+No. A resistor limits the current in a circuit, but it does not use the current up.
+
+**What is the equation linking p.d., current and resistance?**
+Potential difference (V) = current (A) × resistance (Ω), or V = IR. It can be rearranged as I = V ÷ R or R = V ÷ I.
 
 ## Official syllabus
 

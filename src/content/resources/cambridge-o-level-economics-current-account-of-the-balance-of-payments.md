@@ -230,6 +230,20 @@ An evaluative answer reaches a judgement, such as: "Supply-side policy is most e
 - Calling a deficit "bad" without checking its cause.
 - Giving the balance as a positive number when imports exceed exports.
 
+## Frequently asked questions
+
+**What does section 6.4 of Cambridge O Level Economics 2281 cover?**
+Section 6.4 covers the structure of the current account and how to calculate its balances, the causes of deficits and surpluses, their consequences for GDP, employment, inflation and the exchange rate, and policies for balance of payments stability.
+
+**What causes a current account deficit?**
+Causes include high prices or low quality compared with rivals, strong income growth that raises imports, a high exchange rate, falling world prices for a few primary exports, large profits and interest paid abroad, and recession in trading partners.
+
+**Can a falling currency cause inflation?**
+Yes. A fall in the exchange rate raises the price of imports, so firms that use imported inputs face higher costs and may raise prices, which is cost-push inflation.
+
+**Can a current account surplus be a problem?**
+Yes. Balance of payments stability covers both extremes. A large persistent surplus can cause problems for partner countries and may be reduced, for example by letting the currency rise or lowering import barriers.
+
 ## Official syllabus
 
 The source is the Cambridge O Level Economics 2281 syllabus for 2026 (version 2), published by Cambridge International. This guide covers section 6.4.

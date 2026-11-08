@@ -163,6 +163,20 @@ These questions cover all of topic B.2 (Greenhouse effect) in the IB *Physics gu
 - Take the [free 10-minute diagnostics](/diagnostics/) to find your next weak area.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these IB DP Physics greenhouse effect questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Are these greenhouse effect questions for SL or HL?**
+Both. They cover all of B.2, Greenhouse effect, and the guide sets no extra content for HL alone in B.2.
+
+**What constants do these questions use?**
+Use σ = 5.67 × 10⁻⁸ W m⁻² K⁻⁴, h = 6.63 × 10⁻³⁴ J s, c = 3.00 × 10⁸ m s⁻¹ and Wien's constant 2.9 × 10⁻³ m K where needed.
+
+**What slips lose marks in planetary energy balance calculations?**
+Common slips are using °C in σT⁴, forgetting the fourth root, and letting the atmosphere radiate only upward instead of equally up and down.
+
 ## Official syllabus
 
 Source: the *Physics guide* for the IB Diploma Programme (first assessment 2025), International Baccalaureate Organization. Topic B.2, Greenhouse effect.

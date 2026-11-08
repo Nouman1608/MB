@@ -28,9 +28,9 @@ syllabusTopics:
     subtopic: "a-electric-potential"
 description: "Original exam-style practice questions with full worked answers on Coulomb law, field strength, potential and charged particle motion for A Level Physics."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -119,3 +119,17 @@ Difference: gravitational force is **always attractive**, whereas electric force
 - Dropping the sign of the source charge when calculating potential, or misreading what a negative potential means physically.
 
 Work through the [Electric Fields revision notes](/resources/a-physics-electric-fields-revision-notes/) alongside these questions: the notes summarise the equations and the radial-versus-uniform field distinction in condensed form, while these questions test whether you can apply the point-charge formulas correctly and interpret the sign of a calculated potential, rather than just recall the equations.
+
+## Frequently asked questions
+
+**What is the definition of electric field strength?**
+Electric field strength at a point is the force per unit positive charge placed at that point, E = F/Q. Its unit is N C⁻¹, which is equivalent to V m⁻¹.
+
+**What path does an electron follow between parallel plates?**
+An electron entering a uniform electric field at right angles to the field follows a parabola, because the electric force has a constant direction, just like projectile motion. In a uniform magnetic field it would follow a circle instead.
+
+**What is the difference between the formulas for E and V around a point charge?**
+Field strength from a point charge is E = Q/(4πε₀r²), with r squared, while potential is V = Q/(4πε₀r), with r to the first power. Mixing the two up is a common slip, as is dropping the sign of the charge when calculating potential.
+
+**How do electric fields compare with gravitational fields?**
+Both follow inverse square laws. Gravitational force is always attractive and gravitational potential is always negative, whereas electric force can attract or repel and electric potential can be positive or negative.

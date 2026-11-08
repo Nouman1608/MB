@@ -13,14 +13,14 @@ order: 4
 syllabusTopics:
   - qualification: "a-level"
     topic: "cell-membranes-and-transport-cambridge-alevel-biology"
-description: "Original exam-style questions with full worked answers on proton cotransport, evidence for active transport, exocytosis, water potential, plasmodesmata and the fluid mosaic membrane, for Cambridge International AS & A Level Biology (9700)."
+description: "Original Cambridge 9700 questions with worked answers on cotransport, evidence for active transport, exocytosis, water potential and membrane permeability."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -97,3 +97,17 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 - Forgetting that the number closer to zero is the higher water potential.
 - Treating movement through plasmodesmata as if it needs membrane proteins.
 - Explaining membrane permeability by size alone, without mentioning charge or the hydrophobic core.
+
+## Frequently asked questions
+
+**Which exam paper are these cell membranes questions modelled on?**
+Each question practises a skill tested in the June 2024 Cambridge 9700 Paper 22, with an examiner-style insight after each answer.
+
+**What should you revise before attempting these questions?**
+Work through the Cambridge 9700 cell membranes and transport study guide or revision notes first, then use these questions to practise applying the ideas.
+
+**How should you describe results from a data set?**
+Compare each result with the control and quote values with units. Describing the data without these comparisons is a common way to lose marks.
+
+**Are these Cambridge past paper questions?**
+No. They are original exam-style questions with full worked answers, written to practise the skills tested. Use them alongside official past papers.

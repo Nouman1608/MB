@@ -13,13 +13,13 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "algebra-oxfordaqa-igcse-maths"
     subtopic: "notation-and-manipulation-oxfordaqa-igcse-maths"
-description: "Generalised expressions, formulae, expanding and factorising, index laws and algebraic fractions -- sub-topic 3.2.1 Notation and Manipulation, the opening sub-topic of Algebra in OxfordAQA International GCSE Mathematics (9260)."
+description: "Expressions, formulae, expanding, factorising, index laws, algebraic fractions and proof: sub-topic 3.2.1 of OxfordAQA International GCSE Maths 9260."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This guide covers **sub-topic 3.2.1 Notation and Manipulation**, the
@@ -213,6 +213,22 @@ several of them at once is what a strong answer actually requires.
   <figcaption>Factorise, then cancel whole brackets only.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between an identity and an equation?**
+An identity is true for all values of the variable, while an equation is true only for specific values. Sub-topic A3 of OxfordAQA 9260 tests this distinction directly.
+
+**What are the tiers in OxfordAQA International GCSE Maths 9260?**
+9260 has a Core tier covering grades 1 to 5 and an Extension tier covering grades 4 to 9. Most points in this sub-topic have a Core version and a more demanding Extension version.
+
+**Is a calculator allowed in OxfordAQA IGCSE Maths 9260?**
+Yes. A scientific calculator is permitted on every 9260 paper, as there is no calculator-free component, but index law questions are quicker to do mentally.
+
+**How can you check a factorisation?**
+Multiply the brackets back out and confirm that you get the original expression. Expanding and factorising are inverse operations.
+
+**Which factorising is Extension only in OxfordAQA 9260?**
+Core candidates factorise quadratics of the form x² + bx + c, including the difference of two squares. Factorising ax² + bx + c, where a is not 1, is Extension content (A5).
 
 ## Official syllabus
 

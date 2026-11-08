@@ -263,6 +263,20 @@ A real example is lactase, the enzyme that digests lactose. In most mammals the 
 - Answering "the enzyme is damaged" without linking the base change to amino acid order, shape and active site.
 - Confusing a non-coding variant with a coding one: the protein sequence is unchanged, but the expression of the gene is altered.
 
+## Frequently asked questions
+
+**What is an allele?**
+An allele, or variant, is one of the different versions of the same gene.
+
+**How many chromosomes are in a human body cell?**
+Human body cells have 23 pairs of chromosomes. Each chromosome is a long, coiled molecule of DNA in the nucleus that carries many genes.
+
+**How can a variant in non-coding DNA affect phenotype?**
+A variant in non-coding DNA does not change the protein itself but can alter how genes are expressed, for example by stopping transcription of mRNA. This is Higher Tier only content in OCR GCSE Biology A (J247).
+
+**Are reproduction and meiosis covered in this guide?**
+No. This guide covers statements B5.1a to B5.1e only; reproduction, meiosis, genetic crosses, sex determination and the history of genetics are covered elsewhere.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), for first assessment in 2018, published by OCR: module B5.1, statements B5.1a to B5.1e.

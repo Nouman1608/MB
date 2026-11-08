@@ -223,6 +223,20 @@ write-down and provision are realistic, as reliable figures make a credible appl
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How do I get full marks when naming an accounting concept?**
+Link the concept to a specific figure or date in the question and say what it changes. Naming a concept on its own, without that link, is a common way to lose marks in OxfordAQA International A-level Accounting 9615.
+
+**What mistakes are common in inventory valuation questions on accounting concepts?**
+Comparing total net realisable value with total cost instead of working line by line, and dividing and multiplying the wrong way when finding cost from a mark-up on cost.
+
+**What should I check after moving a capital item out of expenses?**
+Remember to charge depreciation on it. Moving the item to non-current assets without adding the depreciation charge leaves the corrected profit wrong.
+
+**Which section of the 9615 specification do these questions cover?**
+Section 3.1.5 Accounting concepts used in the preparation of accounting records, including inventory at net realisable value, sale or return goods, capital costs and corrections to profit.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Accounting (9615) Specification*, Version 1.2, for International AS

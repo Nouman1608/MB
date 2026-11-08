@@ -25,9 +25,9 @@ syllabusTopics:
     subtopic: "as-reacting-masses-and-volumes-of-solutions-and-gases"
 description: "Condensed recall notes on mole calculations, limiting reagents, percentage yield and gas volumes for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -145,3 +145,17 @@ Addition reactions have 100% atom economy; substitution and elimination do not.
 7. Write the full and ionic equations for silver nitrate solution reacting with sodium chloride solution to form a silver chloride precipitate.
 
 **Answers:** 1. V = 0.025 dm³; n = 0.200 × 0.025 = **5.00 × 10⁻³ mol**. 2. Mg: 6.0/24.3 = 0.247 mol ÷ 2 = 0.123. O₂: 4.0/32 = 0.125 mol ÷ 1 = 0.125. Mg gives the smaller value, so **Mg is limiting** (O₂ is in excess). 3. pV = nRT, with p in Pa, V in m³, T in K, R = 8.31 J K⁻¹ mol⁻¹. 4. 52.2/12 = 4.35; 13.0/1 = 13.0; 34.8/16 = 2.175. Divide by 2.175 → 2 : 6 : 1 → **C₂H₆O**. 5. Yield compares actual product obtained with the theoretical maximum; atom economy compares the mass of the desired product with the total mass of all reactants, each M_r multiplied by its coefficient in the balanced equation. 6. LCM of 3 and 2 is 6, so two Al³⁺ and three O²⁻ → **Al₂O₃**. 7. Full: AgNO₃(aq) + NaCl(aq) → AgCl(s) + NaNO₃(aq); ionic: Ag⁺(aq) + Cl⁻(aq) → AgCl(s), with Na⁺ and NO₃⁻ omitted as spectator ions.
+
+## Frequently asked questions
+
+**What is relative atomic mass?**
+Relative atomic mass is the weighted mean mass of an atom of an element compared with one twelfth of the mass of a carbon-12 atom. It is rarely a whole number because elements exist as mixtures of isotopes.
+
+**When can you use 24 dm³ mol⁻¹?**
+The molar volume of 24 dm³ mol⁻¹ applies only to gases at room temperature and pressure. Using it for a solid or liquid is an exam trap.
+
+**What does a percentage yield above 100% mean?**
+A percentage yield above 100% usually means the product is impure or still wet, or that there is an arithmetic error. It cannot represent a genuine yield.
+
+**When should you round in a multi-step calculation?**
+Keep full values through the calculation and round only at the end. Rounding partway through can compound errors and change the final answer.

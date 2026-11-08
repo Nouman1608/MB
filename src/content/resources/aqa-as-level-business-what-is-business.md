@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "forms-of-business-and-stakeholders-aqa-aslevel-business"
 description: "Entrepreneurs, business planning and objectives, forms of business and stakeholders -- sub-topics 3.1.1 and 3.1.2 of Unit 3.1 for AQA AS-Level Business (7137)."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-03
 updatedDate: 2026-09-17
 featured: false
@@ -39,8 +39,11 @@ explicitly scoped by AQA to also draw on 3.1.1 and 3.1.2).
 This guide does not cover the remainder of Unit 3.1 -- **3.1.3
 Marketing management** and **3.1.4 Financial management** -- nor Unit
 3.2 (**3.2.1 People management** and **3.2.2 Operations management**),
-the unit AS Paper 2 focuses on. None of those four sub-topics is yet
-published on this site as a dedicated AS resource.
+the unit AS Paper 2 focuses on. Each has its own AS guide:
+[marketing management](/resources/aqa-as-level-business-marketing-management/),
+[financial management](/resources/aqa-as-level-business-financial-management/),
+[people management](/resources/aqa-as-level-business-people-management/) and
+[operations management](/resources/aqa-as-level-business-operations-management/).
 
 ## Where this fits in 7137
 
@@ -198,6 +201,20 @@ Business is assessed as its own complete qualification.
   yield, and distinguish internal from external stakeholders.
 - Remember that AS Business (7137) is a stand-alone qualification with
   its own full assessment on this content.
+
+## Frequently asked questions
+
+**What are the characteristics of entrepreneurs in AQA AS Business (7137)?**
+The specification names six: risk taker, resilient, focused, passionate, innovative and adaptable. Exam answers should link them to the challenges of setting up a business, such as funding, competition and uncertainty.
+
+**Which influences on business decisions does the AQA specification name?**
+Objectives, risk, reward, resources, market conditions, ethics and opportunity costs. Questions usually ask you to apply them to a specific scenario rather than list them.
+
+**How do you calculate market capitalisation?**
+Multiply the number of issued shares by the current share price. For example, 2,000,000 shares at 150p gives a market capitalisation of £3,000,000.
+
+**Which forms of business are in AQA AS Business 3.1.2?**
+Sole traders, private limited companies (Ltd), public limited companies (plc), co-operatives (worker, consumer and producer) and social enterprises. Compare them on control, access to finance and liability.
 
 ## Official syllabus
 

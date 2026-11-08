@@ -223,6 +223,23 @@ The same method works for trade and investment questions. Replace the aid chains
 - Not using a figure from the data when asked to use the source.
 - Giving only one side of liberalisation.
 
+## Frequently asked questions
+
+**How do you calculate the terms of trade?**
+Divide the export price index by the import price index and multiply by 100. A fall compared with the base year means more exports are needed to buy each unit of imports.
+
+**What is the difference between tied aid and conditional aid?**
+With tied aid the cost to the recipient is a price premium, because the money must be spent with donor suppliers. With conditional aid the cost is a loss of policy choice.
+
+**How can aid harm the economy that receives it?**
+A large aid inflow can strengthen the exchange rate and make exports dearer, free food aid can lower local food prices and farm incomes, and aid can replace tax revenue and weaken accountability. Aid is also fungible, so it may release domestic funds for unproductive uses.
+
+**What is tariff escalation?**
+Tariff escalation means higher tariffs on processed goods than on raw materials. It makes it harder for poor exporters to add value by processing their primary products.
+
+**Why are primary product prices volatile?**
+The price elasticity of demand for primary products is low, so a change in supply moves the price a long way. Countries that depend on one primary export face unstable export revenue.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, sections 11.5.1 and 11.5.2.

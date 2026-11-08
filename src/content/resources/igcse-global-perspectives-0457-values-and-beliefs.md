@@ -175,6 +175,23 @@ Each member should research a different perspective, such as students, parents, 
 
 Test yourself with the [revision notes](/resources/igcse-global-perspectives-0457-values-and-beliefs-revision-notes/), then try the [practice set](/resources/igcse-global-perspectives-0457-values-and-beliefs-practice/). For more source-based practice, use our [Written Exam practice questions](/resources/global-perspectives-practice/). Related topics: [Change in culture and communities](/resources/igcse-global-perspectives-0457-change-in-culture-and-communities/), [Social identity and inclusion](/resources/igcse-global-perspectives-0457-social-identity-and-inclusion/) and [Political power and action](/resources/igcse-global-perspectives-0457-political-power-and-action/).
 
+## Frequently asked questions
+
+**What is the difference between universalism and cultural relativism?**
+Universalism is the view that some values, such as basic human rights, apply to everyone everywhere. Cultural relativism is the view that values should be understood within each culture, not judged only by outside standards. Present both as perspectives.
+
+**What does secular mean?**
+Secular means not connected with religion. A secular state does not give one religion official authority.
+
+**What causes disagreements about values?**
+Possible causes include different religious or moral teachings, generational change, migration bringing different traditions, economic change such as online shopping, and laws written when a society shared more beliefs than it does now.
+
+**How can a law balance competing values?**
+In England and Wales, the Sunday Trading Act 1994 allowed large shops to open on Sundays but only for six hours, while smaller shops could open for longer. A compromise law keeps some of what each side wants.
+
+**What makes a weak Individual Report question on values and beliefs?**
+"What do different religions believe?" is descriptive and does not divide opinion. A stronger question is "Should freedom of expression include the right to offend religious beliefs?"
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Section 2 sets out the assessment objectives, section 3 lists the topics and section 4 describes each component. Your teacher will confirm which topics your class uses.

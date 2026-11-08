@@ -3,137 +3,179 @@ title: "IB Diploma Programme History: Syllabus Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["ib"]
-topic: "Full syllabus (focused study, thematic study, regional study)"
+topic: "Full syllabus (prescribed subjects, world history topics, HL options, internal assessment)"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP History"]
-syllabusSeries: "First assessment 2028"
+syllabusSeries: "First assessment 2017"
 order: 2
-description: "The focused study, thematic study, and HL-only regional study options of IB Diploma Programme History, with recommended teaching hours for SL and HL, for first assessment 2028."
+description: "Every option in IB DP History (first assessed 2017): five prescribed subjects and case studies, twelve world history topics, four HL regions and teaching hours."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: rewritten to present the current course (first assessment 2017, last exams 2027) per owner decision, with case studies and HL section examples from the 2017 History guide; 2028 content kept to a labelled section; please re-review (check the HL section titles quoted); previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
 
-This guide covers the full syllabus structure of **IB Diploma Programme
-History**, first assessment 2028, for both Standard Level (SL) and
-Higher Level (HL) students. It complements the
-[subject overview](/resources/ib-dp-history-subject-guide/) and the
-[assessment revision notes](/resources/ib-dp-history-assessment-revision-notes/)
-already on the site by setting out the actual options within each
-inquiry context -- what topics a student can end up studying, not just
-the four concepts that structure how they are examined.
+IB Diploma Programme History, in the course **first assessed in 2017**
+and examined until 2027, is built from four components: one of five
+**prescribed subjects** (Paper 1), two of twelve **world history
+topics** (Paper 2), at HL one of four **regional options** (Paper 3), and
+the **historical investigation** (internal assessment). This guide lists
+every option so you can confirm exactly what your class studied. For a
+shorter overview, see the
+[subject overview](/resources/ib-dp-history-subject-guide/); for the
+papers themselves, see the
+[assessment revision notes](/resources/ib-dp-history-assessment-revision-notes/).
 
-Total teaching hours are 150 at SL and 240 at HL.
+Recommended teaching time is 150 hours at SL and 240 hours at HL.
 
-## Focused study (50 hours, both SL and HL)
+## What are the five prescribed subjects? (40 hours, SL and HL)
 
-Choose **one** of five options. Each option contains **two** focused
-studies, both of which must be studied.
+Your school chooses **one** prescribed subject. Each is studied through
+**two case studies**, each taken from a different region of the world,
+and both case studies must be taught because Paper 1 sources can be set
+on either.
 
-- **Independence and identity** -- how nations, peoples and identities
-  are formed, asserted and contested.
-- **Political and economic transitions** -- how societies shift between
-  political and economic systems.
-- **Conflict and displacement** -- the causes and human consequences of
-  conflict and forced movement.
-- **Climate and innovation** -- how societies have responded to
-  environmental change and technological innovation across history.
-- **Protest and change** -- how organised protest has driven, or
-  responded to, social and political change.
+| Prescribed subject | Case study 1 | Case study 2 |
+|---|---|---|
+| 1. Military leaders | Genghis Khan (c1200–1227) | Richard I of England (1173–1199) |
+| 2. Conquest and its impact | The final stages of Muslim rule in Spain | The conquest of Mexico and Peru |
+| 3. The move to global war | Japanese expansion in East Asia (1931–1941) | German and Italian expansion (1933–1940) |
+| 4. Rights and protest | Civil rights movement in the United States (1954–1965) | Apartheid South Africa (1948–1964) |
+| 5. Conflict and intervention | Rwanda (1990–1998) | Kosovo (1989–2002) |
 
-Paper 1 is source-based and set on the five focused-study options, but
-students answer questions on only the one option their class has
-studied. Both focused studies within the chosen option must be taught,
-since Paper 1's overarching inquiry question can draw on either or both
-of them, and students are not permitted to choose which of the two they
-prepare.
+Paper 1 sets a separate group of four sources and four questions for
+each prescribed subject; you answer only the set for yours. See the
+[prescribed subjects study guide](/resources/ib-ib-dp-world-history-prescribed-subjects-study-guide/)
+for the question types.
 
-## Thematic study (80 hours, both SL and HL)
+## What are the twelve world history topics? (90 hours, SL and HL)
 
-Choose **one** of four options.
+Your school chooses **two** topics and teaches them through examples
+from more than one region of the world.
 
-- **Conflict** (from 750 CE) -- causes, conduct and consequences of
-  conflict examined thematically across a broad historical span.
-- **Innovation and transformation** (from 750 CE) -- how technological
-  and social innovation has transformed societies.
-- **Authoritarian rule** (from 1750 CE) -- the emergence, methods and
-  impact of authoritarian political systems.
-- **Popular movements** (from 1750 CE) -- the origins and impact of
-  organised popular political movements.
+| No. | World history topic |
+|---|---|
+| 1 | Society and economy (750–1400) |
+| 2 | Causes and effects of wars (750–1500) |
+| 3 | Dynasties and rulers (750–1500) |
+| 4 | Societies in transition (1400–1700) |
+| 5 | Early Modern states (1450–1789) |
+| 6 | Causes and effects of Early Modern wars (1500–1750) |
+| 7 | Origins, development and impact of industrialization (1750–2005) |
+| 8 | Independence movements (1800–2000) |
+| 9 | Emergence and development of democratic states (1848–2000) |
+| 10 | Authoritarian states (20th century) |
+| 11 | Causes and effects of 20th-century wars |
+| 12 | The Cold War: Superpower tensions and rivalries (20th century) |
 
-Paper 2 is set on the thematic studies: Section A tests the four
-specified historical concepts using an example from the class's chosen
-theme, and Section B combines a short response with an essay response on
-that same theme. Each thematic study spans a very long period (from 750
-CE or 1750 CE to the present), so the actual historical examples
-studied within a chosen theme are themselves a further, teacher-level
-selection -- confirm which specific examples your class covered within
-the theme, not just which of the four broad themes you studied.
+Many schools choose two of the twentieth-century topics, for
+example Authoritarian states with The Cold War. Each topic in the guide
+lists prescribed content areas (for Authoritarian states: the
+emergence of authoritarian states, consolidation and maintenance of
+power, and the aims and results of policies) and suggests examples, but
+the choice of named states or wars is the teacher's. The
+[world history topics study guide](/resources/ib-ib-dp-world-history-world-history-topics-study-guide/)
+explains how Paper 2 essays are built.
 
-## Regional study -- HL only (90 hours, HL only)
+## What are the HL regional options? (90 hours, HL only)
 
-Choose **one** of four regions, then **two** studies from within that
-region.
+HL students study **one** of four regional options and, within it,
+**three** of its eighteen sections.
 
-- **Africa and the Middle East**
-- **The Americas**
-- **Asia and Oceania**
-- **Europe**
+- **History of Africa and the Middle East**
+- **History of the Americas**
+- **History of Asia and Oceania**
+- **History of Europe**
 
-This entire component does not exist for SL students. Paper 3 (HL only)
-sets two essay questions on each of the 12 regional studies within the
-selected region, and students answer two questions from two different
-regional studies within it. At 90 hours, this is the single largest
-component in the whole HL course -- larger than either the focused study
-or the thematic study -- reflecting how central sustained regional depth
-is to the HL history experience specifically, rather than being a minor
-add-on to the SL core.
+Each section covers a defined period. Examples from the 2017 guide
+include, for Europe, "Imperial Russia, revolutions and the establishment
+of the Soviet Union (1853–1924)" and "European states in the inter-war
+years (1918–1939)", and for the Americas, "The Mexican Revolution
+(1884–1940)", "The Great Depression and the Americas (mid 1920s–1939)"
+and "Civil rights and social movements in the Americas post-1945".
 
-Each region groups together several individual regional studies -- for
-example, topics spanning a particular period of transformation or
-conflict specific to that part of the world -- and it is each school's
-choice, not each student's, which region and which two studies within it
-are taught. This makes it especially important for HL students to
-confirm early exactly which regional studies apply to them, since Paper
-3's questions are written separately for each of the 12 regional studies
-across the four regions, and revising the wrong one wastes a
-disproportionate share of study time given how many hours this
-component carries.
+Paper 3 sets two questions on each of the eighteen sections of a
+region, so 36 questions in all, and HL students answer three. Because
+you have studied only three sections, roughly six questions will be on
+your content, which is why every section you study must be revised
+fully. See the
+[HL options study guide](/resources/ib-ib-dp-world-history-hl-options-depth-studies-study-guide/).
 
-## Internal assessment -- historical investigation (20 hours, both SL and HL)
+## What is the internal assessment? (20 hours, SL and HL)
 
-Students formulate their own inquiry question, identify and select
-sources, analyse and evaluate those sources, and synthesize evidence
-into a written response on a historical topic of their own choosing. The
-topic does not have to come from the focused study, thematic study or
-(at HL) regional study the class has covered -- students may investigate
-any historical topic they can source and evaluate evidence for, which
-makes this the one part of the syllabus genuinely open to personal
-interest rather than teacher-selected content.
+The **historical investigation** is a written piece of up to 2,200
+words on a historical topic of the student's own choice; it does not
+have to come from the options the class studied. It has three sections:
 
-## How to approach it
+| Section | Content | Marks |
+|---|---|---|
+| 1. Identification and evaluation of sources | The question, two sources chosen for detailed analysis, their value and limitations | 6 |
+| 2. Investigation | A focused, evidenced and argued answer to the question | 15 |
+| 3. Reflection | What the investigation showed about the methods and challenges historians face | 4 |
 
-Because your class studies only one focused-study option, one
-thematic-study option and (at HL) one region, the first and most
-important revision step is simply confirming exactly which of these your
-course covered -- revising an unstudied option is a common, avoidable
-waste of time in a subject with this much optionality. Across all three
-external papers, the same four concepts (cause and consequence,
-continuity and change, perspectives, significance) structure the
-questions, so practise applying all four to your specific focused study,
-thematic study and (at HL) regional studies, rather than treating
-"content revision" and "concept revision" as separate tasks. HL students
-should note that the regional study is worth a larger share of the HL
-external grade (35%) than either Paper 1 (20%) or Paper 2 (25%)
-individually, so it merits proportionate revision time despite being
-entirely new content layered on top of the shared SL core.
+It is marked out of 25 by the teacher and moderated by the IB, and is
+worth 25% at SL and 20% at HL. See the
+[historical investigation study guide](/resources/ib-dp-history-investigation-ia/).
+
+## How should you use this syllabus?
+
+Start by writing down your own prescribed subject, your two world
+history topics and, at HL, your region and three sections. Then match
+each to its paper: Paper 1 (prescribed subject, 30% SL / 20% HL),
+Paper 2 (world history topics, 45% SL / 25% HL), Paper 3 (HL options,
+35% HL). At HL, Paper 3 carries more weight than any other single
+component, so give your three regional sections at least as much
+revision time as your two world history topics.
+
+## What changes for first exams in 2028?
+
+*This section describes the successor course only. It does not apply
+to exams in 2027 or earlier.*
+
+From first teaching in August 2026 (first assessment May 2028), the
+IB's 2025 subject brief replaces the components above with four inquiry
+contexts:
+
+- a **focused study** (50 hours; one of five options: Independence and
+  identity; Political and economic transitions; Conflict and
+  displacement; Climate and innovation; Protest and change), examined
+  by a source-based Paper 1;
+- a **thematic study** (80 hours; one of four options: Conflict;
+  Innovation and transformation; Authoritarian rule; Popular
+  movements), examined by Paper 2;
+- an HL-only **regional study** (90 hours) in one of the same four
+  regions, examined by HL Paper 3;
+- the **historical investigation** (20 hours), without the separate
+  reflection section.
+
+The new course also uses four paired concepts (cause and consequence,
+continuity and change, perspectives, significance) instead of the six
+key concepts.
+
+## Frequently asked questions
+
+**How many prescribed subjects do I study?**
+One, chosen by your school, through its two case studies from
+different regions.
+
+**How many world history topics are examined on Paper 2?**
+Twelve are set, two questions on each; you answer two essays, each
+from a different topic.
+
+**How many HL sections do I need to study?**
+Three of the eighteen sections in your school's regional option.
+
+**Does the historical investigation have to be on a syllabus topic?**
+No. Students choose their own historical topic, provided they can find
+and evaluate suitable sources.
 
 ## Official syllabus
 
-International Baccalaureate Organization, *Diploma Programme Subject
-Brief -- Individuals and Societies: History*, first assessment 2028,
-© 2025.
+International Baccalaureate Organization, *History guide*, first
+examinations 2017 (published 2015), and *Diploma Programme Subject
+Brief — Individuals and societies: History*, first assessments 2017
+(republished 2020). The 2028 section draws on the IB's 2025 subject
+brief for the new course.

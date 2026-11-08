@@ -223,6 +223,20 @@ Example: a franchisee outlet has revenue of 210,000 and costs of 150,000 before 
 
 Condense this with the [revision notes](/resources/edexcel-igcse-business-business-objectives-and-types-of-organisation-revision-notes/), then try the [practice questions](/resources/edexcel-igcse-business-business-objectives-and-types-of-organisation-practice/). Return to the [4BS1 Business hub](/boards/edexcel/igcse/business/), tick off progress on the [checklist](/checklists/edexcel/igcse/business/) or find weak spots with the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**Why do business objectives change?**
+The 4BS1 specification lists market conditions, technology, performance, legislation and internal reasons. In a downturn, for example, a business may move from a growth objective to survival.
+
+**What are the arguments for and against public ownership?**
+Public ownership can provide essential services even where they make little profit and keep prices affordable. Against it, managers may be less efficient without competition, taxpayers may cover losses and political decisions can override commercial ones.
+
+**What does separation of ownership and control mean?**
+In a company, shareholders own the business but directors usually run it day to day. In a sole trader business, the owner and manager are the same person.
+
+**Can objectives conflict with each other?**
+Yes. Cutting prices to raise sales and market share may lower profit, so a good answer says which objective matters more in the situation given and why.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 1: Business activity and influences on business, sections 1.1 and 1.2.

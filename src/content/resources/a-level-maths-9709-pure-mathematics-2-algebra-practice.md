@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "algebra-cambridge-alevel-maths-2"
 description: "11 original Cambridge 9709 Paper 2 Algebra questions with mark-by-mark answers on modulus, polynomial division and the factor and remainder theorems."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -133,6 +133,20 @@ Related: the [study guide](/resources/a-level-maths-9709-pure-mathematics-2-alge
 - A "show that" factor proof with no substituted working or no concluding sentence.
 - In a "hence" part, starting again from scratch instead of using the previous answer, which can lose method credit.
 - Forgetting the restriction √t ≥ 0 or y² ≥ 0 after a substitution.
+
+## Frequently asked questions
+
+**How do you solve |x − a| < b?**
+Write it as a − b < x < a + b, a single interval. For |x − a| > b the answer is two outer pieces, x < a − b or x > a + b.
+
+**How do you find the remainder when dividing by (2x − 1)?**
+Use the remainder theorem: substitute the root of the divisor, here x = 1/2, into the polynomial. For a divisor (ax + b), the remainder is p(−b/a).
+
+**What degree is the remainder after dividing by a quadratic?**
+The remainder has lower degree than the divisor, so after dividing by a quadratic it can be linear, of the form Ax + B. Stop dividing only when that is reached.
+
+**When can you square both sides of a modulus equation?**
+Squaring is safe when both sides are moduli, because both are non-negative. If one side is an ordinary expression, solve the two cases separately and check each answer.
 
 ## Next steps
 

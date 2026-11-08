@@ -8,13 +8,13 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language A: Language and Literature"]
 seoTitle: "IB Language A: Language and Literature – DP Course Overview"
 seoDescription: "IB Diploma Language A: Language and Literature explained: its three areas of exploration, how it treats language and texts, and SL and HL teaching hours."
-description: "An overview of IB Diploma Programme Language A: Language and Literature -- its exploration of language's practical and aesthetic dimensions, its three areas of exploration, and teaching hours at SL and HL."
+description: "Overview of IB DP Language A: Language and Literature: literary and non-literary texts, areas of exploration, works studied, aims and SL and HL assessment."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 IB Diploma Programme Language A: Language and Literature studies the
@@ -151,6 +151,20 @@ candidates both), and candidates apply close reading skills developed
 across the whole course, reflecting the course's core claim that language shapes meaning regardless
 of whether a text calls itself "literature." (Paper 1's texts are non-literary at both levels; it is
 Language A: Literature's Paper 1 that is exclusively literary.)
+
+## Frequently asked questions
+
+**How many literary works do you study in IB Language and Literature?**
+SL students study at least 4 literary works and HL students at least 6, including works originally written in the language studied and works in translation. Each area of exploration also includes non-literary texts taking equivalent teaching time.
+
+**What is the difference between IB Language and Literature and IB Literature?**
+Both are Language A courses, but Language A: Language and Literature gives non-literary texts such as advertisements, speeches and articles equal weight with literature. Language A: Literature is a more purely literary course.
+
+**Are Paper 1 texts literary or non-literary in IB Language and Literature?**
+Paper 1 sets two previously unseen non-literary texts from different text types at both SL and HL. It is Language A: Literature's Paper 1 that uses literary texts.
+
+**What does the individual oral involve?**
+The individual oral is a prepared spoken response, at both SL and HL, on how a global issue of your choice is presented in one studied literary work and one studied non-literary body of work, supported by an extract from each.
 
 ## Source
 

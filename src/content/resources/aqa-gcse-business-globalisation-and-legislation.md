@@ -223,6 +223,20 @@ Case-study questions test application and analysis, then evaluation. A reliable 
 - Forgetting that compliance costs are weighed against the cost of failure and the benefits of a safer, fairer firm.
 - Treating globalisation as only a threat. It also opens markets and lowers costs.
 
+## Frequently asked questions
+
+**What is globalisation in GCSE Business?**
+Globalisation is the growing connection of the world's economies and markets, so goods, services, money and ideas move more freely between countries. The AQA specification does not give a one-line definition, so this standard one is used.
+
+**Is globalisation only a threat to UK businesses?**
+No. It brings more overseas rivals and longer supply chains, but it also opens bigger markets through exports and gives access to cheaper components and new suppliers.
+
+**What does the Health and Safety at Work Act (1974) mean for a business?**
+In general terms, it places duties on employers to keep the workplace reasonably safe. AQA GCSE Business (8132) asks you to be aware of the benefits of a safe working environment, such as fewer accidents, less absence and a better reputation.
+
+**What happens if a business breaks consumer law on trade descriptions?**
+It can face refunds, replacements, recalls and possible penalties, and a business found to mislead customers can lose trust and sales.
+
 ## Official syllabus
 
 AQA GCSE Business (8132), specification for first teaching from September 2017, published by AQA: sections 3.2.4 Globalisation and 3.2.5 Legislation, with the assessment overview. Check aqa.org.uk/8132 for the current version.

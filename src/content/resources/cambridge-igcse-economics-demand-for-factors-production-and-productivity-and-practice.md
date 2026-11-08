@@ -149,6 +149,20 @@ This set tests sections 3.6 and 3.8 of the Cambridge IGCSE Economics 0455 syllab
 - Try all free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Does a rise in output prove that productivity rose?**
+No. Productivity is output per worker or per unit of input, so output can rise while productivity falls if more workers are added. Always calculate output per worker before and after.
+
+**How do you explain the effect of a change in factor prices?**
+Say which factor has become cheaper or dearer relative to the other, then explain how the firm may switch towards the relatively cheaper factor. Stating that "costs changed" without the relative comparison is incomplete.
+
+**How should you evaluate monopoly in Cambridge IGCSE Economics 0455?**
+Give advantages as well as disadvantages, such as economies of scale and funds for research against higher prices and less choice, and then reach a judgement. Writing only that "monopoly is bad" earns little.
+
+**Does more competition increase a firm's profit?**
+No. Competition and lower prices tend to hold profit down, and high profits attract new firms, which pushes profit back down.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: sections 3.6 Firms and production and 3.8 Market structure.

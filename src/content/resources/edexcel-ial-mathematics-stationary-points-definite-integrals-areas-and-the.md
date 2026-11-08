@@ -353,6 +353,20 @@ Doubling the strips cut the error to a quarter. For smooth curves this is roughl
 - Missing a crossing point between two curves and using one integral throughout.
 - Using n y-values for n strips. There are n + 1.
 
+## Frequently asked questions
+
+**What is a stationary point?**
+A stationary point of y = f(x) is a point where the gradient is zero, so f′(x) = 0. It can be a local maximum, a local minimum or a point of inflection.
+
+**How do you find where a function is increasing?**
+Find f′(x), solve f′(x) = 0, and work out where f′(x) > 0. If there are two separate intervals, give them separately.
+
+**How do you solve an optimisation problem in A Level Maths?**
+Write the quantity to optimise in terms of two variables, use the constraint to eliminate one, differentiate and set the derivative to zero. Then show it is the maximum or minimum required and answer in context with units.
+
+**Does using more strips make the trapezium rule more accurate?**
+Generally yes. For smooth curves, doubling the number of strips reduces the error to roughly a quarter.
+
 ## Where to go next
 
 Work through the [practice questions](/resources/edexcel-ial-mathematics-stationary-points-definite-integrals-areas-and-the-practice/) and keep the [revision notes](/resources/edexcel-ial-mathematics-stationary-points-definite-integrals-areas-and-the-revision-notes/) open for the formulas. The [Pure Mathematics 2 overview](/resources/a-level-edexcel-mathematics-pure-mathematics-2/) places this unit within P2.

@@ -14,11 +14,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-equilibria"
     subtopic: "as-chemical-equilibria"
-description: "Original exam-style practice questions with full worked answers on dynamic equilibrium, Kc, Kp and Le Chateliers principle for Cambridge AS & A Level Chemistry 9701."
+description: "Original practice questions with worked answers on dynamic equilibrium, Kc, Kp and Le Chatelier's principle for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -128,3 +128,17 @@ No units because there are **two moles of gas/species on each side**, so the con
 - Assuming Kc always has units.
 - Believing pressure or concentration changes alter the value of K — they only shift the position of equilibrium; only temperature changes K.
 - Forgetting Kp uses partial pressures, not concentrations, and that units depend on the net change in gas moles.
+
+## Frequently asked questions
+
+**What are the two features of a system at dynamic equilibrium?**
+The rates of the forward and reverse reactions are equal, and the concentrations of all species remain constant. Saying the concentrations become equal, rather than constant, is a common error.
+
+**Why does a catalyst not change the position of equilibrium?**
+A catalyst increases the rates of the forward and reverse reactions equally, so equilibrium is reached sooner but its position, and the yield, are unchanged.
+
+**What is the only factor that changes the value of Kc?**
+Temperature is the only factor that changes Kc. Pressure and concentration changes shift the position of equilibrium but leave the value of K unchanged.
+
+**How do you calculate a partial pressure for Kp?**
+Multiply the mole fraction of the gas by the total pressure. Kp uses partial pressures, not concentrations, and its units depend on the net change in gas moles.

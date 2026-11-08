@@ -276,6 +276,23 @@ Each step comes from a different section: 3.3.10, 3.3.8, 3.3.5 and 3.3.4.
 - Forgetting that HBr or steam adds to give a major and a minor product with an unsymmetrical alkene.
 - Using "excess" in the wrong place: excess NH₃ for a primary amine; excess oxidising agent for an acid.
 
+## Frequently asked questions
+
+**How many steps can an AQA A-level Chemistry synthesis question ask for?**
+You must be able to devise a synthesis of up to four steps using only reactions in the AQA 7404/7405 specification. Section 3.3.14 is A-level only.
+
+**How is percentage atom economy calculated?**
+Divide the Mr of the desired product by the sum of the Mr of all reactants, weighted by their coefficients in the balanced equation, and multiply by 100. The formula itself is in section 3.1.2.5.
+
+**Why do chemists aim for fewer steps in a synthesis?**
+Each step loses some product, so the overall yield falls with every extra step. Each step also needs its own reagents, solvent, separation, energy and time.
+
+**Can you convert an alcohol directly into a halogenoalkane in AQA synthesis questions?**
+No. The specification content has no reaction that turns an alcohol directly into a halogenoalkane, and no way to make an acyl chloride, so plan routes around these gaps.
+
+**Is there a required practical for organic synthesis?**
+Section 3.3.14 lists no required practical of its own. The practical side appears in Required practical 5 (distillation of a product) and Required practical 10 (preparing a pure organic solid and liquid).
+
 ## Where to go next
 
 Revise the individual reactions in [halogenoalkanes](/resources/aqa-a-level-chemistry-halogenoalkanes/),

@@ -13,11 +13,17 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "monitoring-and-control"
-description: "Exam-style questions with full worked answers on monitoring vs control, sensors, calibration, actuators, and microprocessor-controlled systems, for Cambridge AS & A Level Information Technology (9626) Topic 3."
+  - qualification: "a-level"
+    topic: "monitoring-and-control"
+    subtopic: "monitoring-and-measurement-technologies"
+  - qualification: "a-level"
+    topic: "monitoring-and-control"
+    subtopic: "control-technologies"
+description: "Original practice questions with worked answers on monitoring and control, sensors, calibration, actuators and control systems for Cambridge 9626 topic 3."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false
@@ -176,3 +182,17 @@ elements: the sensor reading, a decision box
 comparing it to a threshold, and the actuator action as the outcome —
 and remember that a genuine control system re-checks the sensor
 continuously rather than acting once and stopping.
+
+## Frequently asked questions
+
+**Is Monitoring and control an AS Level topic in Cambridge 9626?**
+Yes. Monitoring and control is topic 3 of Cambridge International AS & A Level Information Technology (9626), part of the AS content (topics 1 to 11) examined in Paper 1 Theory.
+
+**How do you answer a question linking a sensor to a real device?**
+State the specific property the sensor measures and explain why that property matches the scenario's need. Naming the sensor alone makes a weak answer.
+
+**What must a control-system flowchart answer show?**
+It should show the sensor reading, a decision box comparing the reading with a threshold, and the actuator action as the outcome, with the system looping back to re-check the sensor rather than stopping after one action.
+
+**What is the most common slip on monitoring and control questions?**
+The most frequent slip is blurring monitoring and control in a described scenario. Before answering, check whether the system only records values for a person to review or automatically triggers a response, because the two are tested as a deliberate contrast.

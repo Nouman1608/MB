@@ -218,6 +218,23 @@ Some problems cannot be solved by a computer at all, however much time or power 
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these OxfordAQA 9645 theory of computation questions from past papers?**
+No. They are original practice questions with marked answers, written for revision of section 3.13, Theory of computation. Use them alongside official past papers from your board or school.
+
+**What topics do these theory of computation practice questions cover?**
+They cover finite state machines and Mealy machines, regular expressions, Turing machines, BNF and the classification of algorithms using Big O, including tractable and intractable problems.
+
+**What are common mistakes with Mealy machines?**
+The most common error is writing the outputs inside the states instead of on the arcs. Each output belongs to a transition and is written as input / output.
+
+**How should you show a Turing machine trace?**
+Show the state and the tape after each change rather than only the final tape. A final tape on its own is hard to credit if a single step goes wrong.
+
+**What is the difference between an intractable and a non-computable problem?**
+An intractable problem has no polynomial-time solution but can still be solved, just slowly. A non-computable problem, such as the Halting problem, cannot be solved by any algorithm at all.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.13 Theory of computation.

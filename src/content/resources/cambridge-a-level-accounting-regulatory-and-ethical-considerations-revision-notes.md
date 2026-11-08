@@ -257,6 +257,20 @@ Non-cash deals, such as shares issued in exchange for a building, are not cash f
 - Describing the auditor as responsible for preparing the accounts.
 - Giving a one-sided answer to an evaluation question without a justified conclusion.
 
+## Frequently asked questions
+
+**What does stewardship mean for company directors?**
+Stewardship is the duty of directors to look after the company's resources on behalf of the shareholders: act in their best interests, safeguard assets, keep proper accounting records, prepare financial statements that give a true and fair view and report to shareholders.
+
+**Does a change in accounting estimate restate past years?**
+No. Under IAS 8, a change in estimate, such as a revised useful life, is applied from now on; restating past years for a change in estimate is a common mistake.
+
+**When must a provision be made under IAS 37?**
+A provision is made when there is a present obligation, an outflow is probable and the amount can be reliably estimated. A possible obligation that is not probable does not get a provision.
+
+**Is the auditor responsible for preparing the accounts?**
+No. The directors prepare the financial statements; the auditor examines them independently and gives an opinion on whether they show a true and fair view. An audit report is not a guarantee of accuracy.
+
 ## Official syllabus
 
 Cambridge International, AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028, section 3.2.

@@ -167,6 +167,20 @@ Using the key concept of communication and the related concepts of ergonomics an
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are the key concepts in the MYP Design subject brief?**
+The brief names communication, communities, development and systems as the key concepts for design. Its related concept examples are adaptation, ergonomics, sustainability and innovation.
+
+**Should you design to the 5th or 95th percentile?**
+Use the 95th percentile for clearance, such as a doorway or handle opening, so larger users fit. Use the 5th percentile for reach, such as a shelf or switch, so smaller users can reach, and cover the 5th to 95th range for adjustable products.
+
+**What is the difference between invention and innovation?**
+Invention creates something new. Innovation is a new idea or new combination that is put into successful use and adopted.
+
+**What makes a weak statement of inquiry in MYP Design?**
+A statement written as a question about one product, such as "How can we make a good homework app?", does not link concepts or a context. A stronger statement connects a key concept, a related concept and a global context.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Design*, from 2014. The brief names the key concepts and related-concept examples used here and says each criterion has eight achievement levels in four bands; all questions and data are original and fictional.

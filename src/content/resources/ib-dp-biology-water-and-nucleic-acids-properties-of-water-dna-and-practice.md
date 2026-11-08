@@ -148,6 +148,20 @@ Two species gave these base percentages: species W had A 31.2, T 31.0, G 18.9, C
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which parts of IB DP Biology A1.1 Water and A1.2 Nucleic acids are HL only?**
+Statements A1.1.7 and A1.1.8 (the origin and retention of water and the search for life beyond Earth) and A1.2.11 to A1.2.15 (directionality, purine-pyrimidine pairing, nucleosomes, Hershey-Chase and Chargaff) are HL only.
+
+**How do you write a complementary DNA strand in the 5' to 3' direction?**
+Pair each base (A with T, G with C), remember the new strand is antiparallel, then reverse the sequence you wrote so it reads 5' to 3'; for mRNA, use U instead of T.
+
+**Where is the hydrogen bond in water?**
+A hydrogen bond forms between molecules, between the slightly positive hydrogen of one water molecule and the slightly negative oxygen of another; placing it inside a single molecule is a common error.
+
+**How do you calculate the energy needed to warm water?**
+Use energy = mass × specific heat capacity × temperature change, keeping units consistent (grams with J per g per K), and show the substitution as well as the answer.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization (topics A1.1 and A1.2).

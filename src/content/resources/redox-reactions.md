@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "redox"
 description: "Oxidation and reduction by oxygen transfer, electron transfer and oxidation number, for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -205,6 +205,20 @@ electrons, reduction as gain of electrons · oxidation number rules and how to
 calculate one · identifying redox by oxidation number change · oxidising agent and
 reducing agent, defined and identified · colour-change redox tests using
 manganate(VII) and iodide
+
+## Frequently asked questions
+
+**What are the three definitions of oxidation in Cambridge IGCSE Chemistry 0620?**
+Oxidation is the gain of oxygen, the loss of electrons, or an increase in oxidation number. In 0620 the oxygen definition is Core and the other two are Extended, while O Level 5070 requires all three.
+
+**Why is a displacement reaction a redox reaction?**
+In a reaction such as zinc with copper(II) sulfate, zinc atoms lose electrons to form Zn²⁺ ions and are oxidised, while Cu²⁺ ions gain electrons to form copper and are reduced.
+
+**What does the Roman numeral in a name like iron(III) oxide mean?**
+It gives the oxidation number of the element in the compound, so iron(III) oxide contains iron with an oxidation number of +3. Using Roman numerals this way is Core content.
+
+**Does Cambridge IGCSE redox include electrode potentials?**
+No. Electrode potentials and disproportionation are A Level Chemistry 9701 ideas and are not part of the 0620 or 5070 redox content.
 
 ## Related resources
 

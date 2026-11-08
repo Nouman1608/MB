@@ -239,6 +239,23 @@ Importance is greater where the business sells on trust or image, is highly visi
 - Recommending an action with no justification linked to the business's situation.
 - Concluding without a judgement.
 
+## Frequently asked questions
+
+**What is the difference between a CSR policy and a CSR profile?**
+A CSR policy is what the business commits to and how it will deliver and report it. A CSR profile is how stakeholders judge the business's behaviour.
+
+**Is a mission statement the same as a slogan?**
+No. A slogan is marketing wording, while a mission statement should guide decisions inside the business by saying what it is for.
+
+**Is CSR just giving money to charity?**
+No. Donations are one possible part of a CSR policy, but CSR covers the effects of all a business's decisions on society, the community and the environment, usually going beyond what the law requires.
+
+**Why is the value of CSR hard to measure?**
+The cost of CSR is often immediate and easy to measure, but its value, such as loyalty, reputation and lower risk, arrives more slowly and is harder to put a figure on.
+
+**How can a business improve its CSR profile credibly?**
+Choose actions that suit the business and its main stakeholders, set measurable targets such as a stated cut in waste, and make claims verifiable through independent reporting, as exaggerated claims can harm its reputation.
+
 ## Official syllabus
 
 OCR, Advanced GCE in Business (H431), specification Version 2.1, January 2026, for first assessment in 2017; sections 1.3 and 1.4 under Business objectives and strategy.

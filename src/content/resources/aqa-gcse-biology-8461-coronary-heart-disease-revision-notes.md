@@ -16,13 +16,13 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "organisation-aqa-gcse-biology"
     subtopic: "coronary-heart-disease-aqa-gcse-biology"
-description: "Condensed AQA GCSE Biology 8461 notes on coronary heart disease, stents, statins, faulty valves, transplants and artificial hearts, with an evaluation frame and self-test."
+description: "Condensed AQA GCSE Biology 8461 notes on coronary heart disease, stents, statins, faulty valves, transplants and artificial hearts, with a self-test."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-05
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-11-05."
 ---
 
 These are condensed recall notes for **4.2.2.4 Coronary heart disease: a non-communicable disease** of the AQA
@@ -148,6 +148,23 @@ reduces the chance of another. The judgement depends on the patient's fitness fo
 - Saying CHD is a blockage in the aorta or the heart chambers.
 - Listing advantages only in an "evaluate" question, or ending without a judgement.
 - Confusing heart valve faults (a leak or a stiff valve) with blocked arteries.
+
+## Frequently asked questions
+
+**What causes coronary heart disease?**
+Layers of fatty material build up inside the coronary arteries, which narrow, so less blood flows to the heart muscle. The muscle gets less oxygen, so it carries out less aerobic respiration.
+
+**What is the difference between a stent and a statin?**
+A stent is a mechanical device that holds a narrowed artery open. A statin is a drug that reduces blood cholesterol, slowing the build-up of fatty material.
+
+**What can go wrong with heart valves?**
+A valve can leak or become stiff and fail to open fully. Faulty valves can be replaced with biological or mechanical valves.
+
+**Is coronary heart disease communicable?**
+No. Coronary heart disease is a non-communicable disease; it is not caused by a pathogen and cannot spread between people.
+
+**How do you answer an "evaluate" question on CHD treatments?**
+Say what the treatment does, give at least one advantage and one disadvantage, compare with an alternative if given, and finish with a justified judgement for that patient.
 
 ## Official syllabus
 

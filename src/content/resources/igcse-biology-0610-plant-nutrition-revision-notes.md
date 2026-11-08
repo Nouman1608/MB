@@ -21,11 +21,11 @@ syllabusTopics:
     subtopic: "leaf-structure-cambridge-igcse-biology"
 description: "Condensed notes on photosynthesis, starch tests, rate experiments, limiting factors and leaf tissues, with a self-test, for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 These notes condense topic 6, Plant nutrition, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028: section 6.1 (Photosynthesis) and section 6.2 (Leaf structure). Everything is Core unless it is marked **Extended only** (the balanced equation, 6.1.10, and limiting factors, 6.1.11), which is examined on Papers 2 and 4, not Papers 1 and 3. For full explanations and worked examples, use the [plant nutrition study guide](/resources/igcse-biology-0610-plant-nutrition/).
@@ -242,6 +242,20 @@ In a vascular bundle in the leaf, **xylem is on the upper side, phloem on the lo
 - (Extended) Naming light as limiting where the line is flat.
 - Listing leaf features without saying how each one helps photosynthesis.
 - Forgetting that a lamp close to the plant warms the water, so temperature was not controlled.
+
+## Frequently asked questions
+
+**What is the word equation for photosynthesis?**
+Carbon dioxide + water → glucose + oxygen, in the presence of light and chlorophyll. Cambridge IGCSE Biology 0610 Extended candidates also need the balanced chemical equation.
+
+**Why do plants need nitrate and magnesium ions?**
+Nitrate ions are needed to make amino acids, which are built into proteins, so a lack of nitrate causes poor growth. Magnesium ions are needed to make chlorophyll, so a lack causes yellow leaves and less photosynthesis.
+
+**What do the colours of hydrogencarbonate indicator mean?**
+Purple shows carbon dioxide is lower than in air, orange-red shows it is the same as air, and yellow shows it is higher than air. A water plant in bright light can turn it purple, while in the dark respiration alone turns it yellow.
+
+**What is a limiting factor in photosynthesis?**
+A limiting factor is the factor in shortest supply that limits the rate of photosynthesis. Light intensity, carbon dioxide concentration and temperature can each be limiting; this content is Extended only.
 
 ## Official syllabus
 

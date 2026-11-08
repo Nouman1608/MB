@@ -237,6 +237,20 @@ The shortest distance is along the perpendicular. To find it, construct the perp
 - Shading a region that satisfies only some of the rules.
 - Giving a slanted distance instead of the perpendicular as the shortest distance.
 
+## Frequently asked questions
+
+**How do you find a back bearing?**
+Add 180° if the bearing is below 180°, otherwise subtract 180°. The bearing of B from A and the bearing of A from B always differ by 180°.
+
+**How do you use a map scale such as 1 : n?**
+Write the scale with both sides in the same unit, multiply by n to go from the drawing to real life, and divide by n to go the other way. Then convert to a sensible unit, remembering 100 000 cm = 1 km.
+
+**What is the locus of points equidistant from two points?**
+It is the perpendicular bisector of the line joining the two points. Points equidistant from two crossing lines lie on the bisector of the angle between them.
+
+**What is the shortest distance from a point to a line?**
+The shortest distance is along the perpendicular from the point to the line. Any slanted route is longer.
+
 ## Official syllabus
 
 These notes follow the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA, references G12 and G13.

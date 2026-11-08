@@ -198,6 +198,20 @@ Factors affecting transfer earnings and rent in an occupation:
 
 Next: test yourself with the [practice set](/resources/cambridge-a-level-economics-imperfect-labour-markets-wage-differentials-transfer-practice/) and use the [revision notes](/resources/cambridge-a-level-economics-imperfect-labour-markets-wage-differentials-transfer-revision-notes/).
 
+## Frequently asked questions
+
+**Which Cambridge 9708 outcomes does this imperfect labour markets guide cover?**
+It covers outcomes 8.3.8 to 8.3.10 of the Cambridge International AS and A Level Economics 9708 syllabus: wage determination in imperfect labour markets, wage differentials, transfer earnings and economic rent. Topic 8 is A Level content.
+
+**What is a monopsony in the labour market?**
+A monopsony is a single buyer of labour. Because hiring one more worker raises the wage for all, its marginal cost of labour is above the supply curve, so it employs fewer workers at a lower wage than a competitive market would.
+
+**Is a star performer's whole wage economic rent?**
+No. Only the part of the wage above the person's next best alternative is economic rent. Calling the whole wage rent when the person has a real alternative job is a common error.
+
+**Why does the elasticity of labour demand matter for a union wage rise?**
+The elasticity decides how many jobs are lost when the union raises the wage above equilibrium. Describing a union gain without mentioning the elasticity of labour demand is a common error.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment. Outcomes 8.3.8 to 8.3.10.

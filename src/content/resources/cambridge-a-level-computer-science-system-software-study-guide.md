@@ -19,7 +19,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "system-software"
     subtopic: "language-translators"
-description: "Operating system functions, utility software, libraries, interrupts, assemblers, compilers, interpreters and IDE features for Cambridge International AS and A Level Computer Science 9618."
+description: "Guide to Topic 5 of Cambridge AS Computer Science 9618: operating system tasks, utilities, libraries and DLLs, interrupts, translators and IDE features."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
@@ -143,3 +143,17 @@ For **describe** questions on the OS, give the task and how the OS performs it, 
 6. Give two differences between a compiler and an interpreter. *Answer: a compiler translates the whole program before it runs and produces object code; an interpreter translates a statement at a time, each time it runs, and produces none.*
 7. What is the purpose of a breakpoint? *Answer: it pauses the program at a chosen line so the programmer can inspect variables.*
 8. A company sells a finished game. Which kind of translator should it use and why? *Answer: a compiler, because the customer receives fast-running object code without the source code.*
+
+## Frequently asked questions
+
+**What are the main functions of an operating system?**
+An operating system manages hardware, processes, memory, files and security, and provides a user interface. Device drivers let it communicate with particular devices.
+
+**What is a dynamic link library (DLL)?**
+A DLL is a library loaded when a program runs rather than built into it, so many programs share one copy, executables are smaller and an update benefits every program. A program fails if the library is missing or incompatible.
+
+**Why is defragmentation not used on solid-state drives?**
+Defragmentation speeds up magnetic hard disks by placing each file in contiguous blocks. A solid-state drive has no moving heads, so scattered data does not slow access.
+
+**What debugging features does an IDE provide?**
+IDE debugging tools include breakpoints that pause the program at a chosen line, single stepping through one statement at a time, and variable watch windows that show values as they change.

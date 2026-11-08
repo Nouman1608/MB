@@ -22,11 +22,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-4-11"
 description: "11 original questions with marked answers on correlation, regression, χ² tests and t-tests for IB DP Mathematics: Applications and Interpretation."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -222,6 +222,20 @@ A pooled two-sample t-test is used, at the 5% level, to test whether the mean re
 - [Printable checklist](/checklists/ib/ib-dp/mathematics-applications-and-interpretation/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**How do you describe correlation to get the mark in IB Maths AI?**
+Give both the strength and the direction, and say "linear" when describing Pearson's r, for example "strong negative linear correlation". A single word such as "negative" does not earn the mark.
+
+**What do you need to write in a hypothesis test conclusion?**
+Write the comparison, such as the p-value against the significance level or χ²calc against the critical value, and then a statement in the context of the question. Either part on its own is not enough for the conclusion mark.
+
+**How do you rank tied values for Spearman's rank correlation coefficient?**
+Tied values share the average of the ranks they would occupy, so two values in positions 4 and 5 both get 4.5. Giving tied values consecutive ranks loses the method mark and makes rₛ wrong.
+
+**Why should you predict with the unrounded regression coefficients?**
+Rounding a and b to 3 significant figures before substituting can change the final answer and cost the accuracy mark. Use the values stored in your GDC, then round the prediction.
 
 ## Official syllabus
 

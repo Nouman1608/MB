@@ -12,13 +12,13 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "the-allocation-of-resources-cambridge-igcse-economics"
-description: "The price mechanism, demand and supply curves, market equilibrium and disequilibrium, price elasticity, market failure and the mixed economy -- the full content of Topic 2 for Cambridge IGCSE Economics 0455, 2026 series."
+description: "Topic 2 of Cambridge IGCSE Economics 0455: the price mechanism, demand and supply, equilibrium, price elasticity, market failure and the mixed economy."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-01
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **Topic 2 The allocation of resources**, for Cambridge
@@ -156,6 +156,23 @@ typically only earns partial credit.
   <figcaption>Merit goods are under-consumed and demerit goods over-consumed.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**What is the difference between a movement along and a shift of a demand curve?**
+A movement along the curve, an extension or contraction, is caused only by a change in the good's own price. A shift is caused by a change in a non-price condition, such as income, tastes or the price of related goods.
+
+**How do you calculate price elasticity of demand in Cambridge IGCSE Economics?**
+Divide the percentage change in quantity demanded by the percentage change in price. Then say what the value means for a firm's total revenue if it raises or lowers its price.
+
+**Do you need to draw diagrams for market failure in IGCSE Economics 0455?**
+No. The 0455 syllabus does not require demand and supply diagrams for market failure itself, so focus on explaining its causes and consequences in words.
+
+**What is a mixed economic system?**
+A mixed economic system uses both the price mechanism and government intervention to allocate resources. Tools include maximum and minimum prices, indirect taxes, subsidies, regulation, privatisation, nationalisation and direct provision.
+
+**What happens when the price is below equilibrium?**
+Quantity demanded exceeds quantity supplied, creating a shortage, or excess demand, which tends to push the price up towards equilibrium.
 
 ## Official syllabus
 

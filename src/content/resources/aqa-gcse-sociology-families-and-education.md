@@ -12,13 +12,31 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "paper-1-families-and-education-8192"
-description: "A guide to Paper 1 of AQA GCSE Sociology (8192): the sociological approach, social structures and processes, families (functions, forms, conjugal roles, criticisms of families with Zaretsky and Delphy and Leonard, divorce) and education, with research methods pointed to its own guide."
+  - qualification: "gcse"
+    topic: "paper-1-families-and-education-8192"
+    subtopic: "functions-of-families-8192"
+  - qualification: "gcse"
+    topic: "paper-1-families-and-education-8192"
+    subtopic: "family-forms-8192"
+  - qualification: "gcse"
+    topic: "paper-1-families-and-education-8192"
+    subtopic: "conjugal-role-relationships-8192"
+  - qualification: "gcse"
+    topic: "paper-1-families-and-education-8192"
+    subtopic: "changing-relationships-within-families-8192"
+  - qualification: "gcse"
+    topic: "paper-1-families-and-education-8192"
+    subtopic: "criticisms-of-families-8192"
+  - qualification: "gcse"
+    topic: "paper-1-families-and-education-8192"
+    subtopic: "divorce-8192"
+description: "Guide to AQA GCSE Sociology (8192) Paper 1: families, education, perspectives, Zaretsky, Delphy and Leonard, divorce and differential achievement."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers **Paper 1 The Sociology of Families and Education**,
@@ -156,3 +174,17 @@ Describing one perspective without contrasting others in an "assess" question. T
 - Explain conjugal roles, symmetry, the dual burden and the triple shift, with named studies.
 - Outline functionalist, Marxist and interactionist views of education.
 - Separate internal from external factors and apply them to class, gender and ethnicity.
+
+## Frequently asked questions
+
+**What does Zaretsky argue about the family?**
+Zaretsky, a Marxist, argues that capitalist society has created an illusion that the private life of the family is separate from the economy. The family cushions people from capitalism but cannot meet all their needs, and in doing so props capitalism up.
+
+**What do Delphy and Leonard argue about the family?**
+Delphy and Leonard, feminists, see the family as an economic system in which men, rather than capitalists as such, benefit from and exploit women's work, so the family maintains patriarchy.
+
+**What is stratified diffusion?**
+Stratified diffusion is Young and Willmott's principle that social changes, such as the symmetrical family, spread downward from higher to lower social classes over time.
+
+**Which sections of the 8192 specification are on Paper 1?**
+Paper 1 of AQA GCSE Sociology (8192) covers Families (3.3) and Education (3.4), and also draws on the sociological approach, social structures and processes, and research methods.

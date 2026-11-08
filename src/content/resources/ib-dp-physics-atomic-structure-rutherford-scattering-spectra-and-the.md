@@ -232,6 +232,20 @@ Absorption works in reverse: a 10.2 eV photon is absorbed by a ground-state hydr
 * Treating the distance of closest approach as the nuclear radius. It is only an upper limit on the radius when the alpha particle has not reached the nucleus.
 * Giving the Bohr energy as positive. Bound levels are negative.
 
+## Frequently asked questions
+
+**Why was a thin foil and an evacuated chamber used in the Geiger-Marsden experiment?**
+The foil is thin so that most alpha particles meet at most one nucleus, and the chamber is evacuated so that air does not scatter them.
+
+**Does the Bohr model work for every atom?**
+No. The Bohr model with E = −13.6/n² eV suits hydrogen, not atoms with more electrons.
+
+**Is the distance of closest approach the same as the nuclear radius?**
+No. When the alpha particle has not reached the nucleus, the distance of closest approach is only an upper limit on the nuclear radius.
+
+**Do I need to recall chemical symbols for IB DP Physics?**
+No. If a chemical symbol matters, the question will give it.
+
 ## Official syllabus
 
 IB *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization: sub-topic E.1 Structure of the atom.

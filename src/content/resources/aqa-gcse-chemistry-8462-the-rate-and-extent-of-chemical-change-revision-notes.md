@@ -15,9 +15,9 @@ syllabusTopics:
     topic: "the-rate-and-extent-of-chemical-change-8462"
 description: "Condensed AQA GCSE Chemistry 8462 notes on rates and equilibrium: rate formulas, collision theory, catalysts, Le Chatelier and a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -278,6 +278,20 @@ amount of NO₂. Increasing the pressure shifts left (1 molecule vs 2).
 - Forgetting that equilibrium needs a closed system.
 - Counting atoms, not molecules, when predicting pressure effects.
 - Giving the direction of shift but not the effect on the amount of the named product.
+
+## Frequently asked questions
+
+**How do you calculate the mean rate of a reaction?**
+Mean rate of reaction is the quantity of reactant used, or product formed, divided by the time taken. Give the unit, such as g/s or cm³/s.
+
+**How do you find the rate at a particular time from a graph?**
+Draw a tangent to the curve at that time and calculate its gradient; calculating the gradient is Higher tier only. The tangent should touch the curve without cutting through it.
+
+**What does Le Chatelier's Principle say?**
+If a condition is changed for a system at equilibrium, the system responds to counteract the change. This is Higher tier only content in AQA GCSE Chemistry 8462.
+
+**How does a catalyst increase the rate of reaction?**
+A catalyst provides a different pathway with a lower activation energy and is not used up. Enzymes are catalysts in biological systems.
 
 ## Official syllabus
 

@@ -12,13 +12,13 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-drama-0475"
-description: "Condensed recall notes on Paper 2 Drama's format, the one-of-each question rule, the closed-book requirement, and how each assessment objective is rewarded, for Cambridge IGCSE Literature in English (0475), 2026 series."
+description: "Condensed notes on Cambridge IGCSE Literature in English 0475 Paper 2 Drama: format, the one-of-each question rule, closed-book rule and what each AO rewards."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description shortened to 140-160 characters and FAQ added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -115,6 +115,21 @@ under-prepare Paper 2 relative to its actual weighting in the final grade.
 Do not confuse Paper 2's "essay question" with a free-choice essay — the question still names a
 specific character, relationship or theme, and the mark scheme still rewards textual reference over a
 general discussion of the play's themes in the abstract. Treat it as a directed essay, not an open one.
+
+## Frequently asked questions
+
+**How is Paper 2 Drama structured?**
+It lasts 1 hour 30 minutes and is worth 50 marks: two questions on two set plays, 25 marks each. You
+must answer one passage-based (a) question and one essay (b) question.
+
+**Is Paper 2 open book?**
+No. Set texts may not be taken into the exam room; passages for the passage-based questions are
+printed on the paper.
+
+**Who takes Paper 2?**
+Candidates on the route Paper 1 plus Paper 2. Paper 2 is worth 50% of the qualification, the same as
+Paper 1.
+
 
 ## Self-test
 

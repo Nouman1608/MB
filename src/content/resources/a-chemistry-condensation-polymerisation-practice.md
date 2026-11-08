@@ -22,9 +22,9 @@ syllabusTopics:
     subtopic: "a-degradable-polymers"
 description: "Original exam-style practice questions with full worked answers on polyesters, polyamides, hydrolysis and biodegradability for A Level Chemistry."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -121,3 +121,20 @@ Related: [Condensation Polymerisation revision notes](/resources/a-chemistry-con
 - Forgetting that a functional group not directly involved in the polymerisation reaction (such as the ester in methyl 2-methylpropenoate) survives unreacted as a pendant group on the finished chain, rather than being eliminated.
 
 **Deducing monomers from a repeat unit, or predicting the type of polymerisation from a monomer's structure, both come down to the same check: look for a C=C bond first (addition, whatever else is present), and if there isn't one, look for the two reactive functional groups at each end of the repeating section (condensation, whether those two ends came from one monomer or two).** For the underlying reasoning in full, see the [Condensation Polymerisation revision notes](/resources/a-chemistry-condensation-polymerisation-revision-notes/) and the [Condensation Polymerisation and Polymer Degradability](/resources/a-condensation-polymerisation-and-polymer-degradability/) study guide.
+
+## Frequently asked questions
+
+**Why must monomers in condensation polymerisation have two functional groups?**
+The chain has to be able to grow at both ends. A monomer with only one reactive group would stop the chain from growing.
+
+**Why are polyamides stronger than polyesters?**
+Amide linkages contain both N–H and C=O, so they form hydrogen bonds between adjacent chains. Ester linkages have no N–H and can only form weaker permanent dipole–dipole attractions.
+
+**How can a single monomer form a condensation polymer?**
+A single monomer can self-condense if it carries two different reactive groups, such as the amine and carboxylic acid in 6-aminohexanoic acid. Water is still eliminated at every amide linkage.
+
+**How do you tell whether a monomer forms an addition or a condensation polymer?**
+Check for a C=C bond first; if there is one, the monomer polymerises by addition whatever other groups it has. If not, look for two reactive functional groups at the ends of the repeating section, which signals condensation.
+
+**Where are marks usually lost on condensation polymerisation questions?**
+Common errors include not showing the small molecule eliminated, saying polyesters hydrogen bond between chains, and giving the wrong hydrolysis products for acid or alkaline conditions.

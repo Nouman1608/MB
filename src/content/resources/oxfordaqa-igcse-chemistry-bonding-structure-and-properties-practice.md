@@ -200,6 +200,20 @@ To check the rest of the course, try a free [diagnostic](/diagnostics/). All uni
 - [Tick-off checklist](/checklists/oxfordaqa/igcse/chemistry/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are the most common mistakes in structure and properties questions?**
+Common slips are stating that covalent bonds break on melting or boiling, naming electrons as the charge carriers in molten ionic compounds, and explaining a high melting point without saying that a large amount of energy is needed.
+
+**How do you answer a question comparing the melting points of two substances?**
+Name the structure of each substance and the forces that must be overcome, then say which needs more energy. Answering only one side of the comparison is incomplete.
+
+**How do you decide the state of a substance at a given temperature?**
+Compare the temperature with the melting and boiling points: below the melting point it is a solid, between them a liquid, and above the boiling point a gas. Take care ordering negative temperatures.
+
+**How can you identify a structure type from data?**
+Use the properties that decide it, such as melting point and whether the substance conducts as a solid, when molten or in solution, and quote those values in your answer.
+
 ## Official syllabus
 
 Published by OxfordAQA: the International GCSE Chemistry (9202) specification, Version 6.2, valid

@@ -189,6 +189,20 @@ To evaluate, weigh the points. A strong, consistent culture can be an asset, but
 - Listing clash problems without a judgement on how serious they are or how to manage them.
 - Writing "Apollo" when you mean "Athena". Remember the pairs: role and rules, task and teams.
 
+## Frequently asked questions
+
+**What is organizational culture?**
+Organizational (corporate) culture is the shared values, beliefs and accepted behaviour in a business, often summed up as "the way we do things here". It has a visible layer, such as dress and rituals, and a hidden layer of values underneath.
+
+**Why does organizational culture matter to a business?**
+Culture affects motivation and retention, recruitment, decision speed, customer service and how easily the business can change. A culture that resists new ideas makes any change harder.
+
+**What causes a cultural clash?**
+In section 2.5 the main triggers are growth, mergers and takeovers, and a change of leadership style. Each brings together groups with different values, rules or expectations.
+
+**Is one of Handy's culture types the best?**
+No. Culture is judged by fit: stable, high-volume work with safety risks suits Apollo, fast-changing project work suits Athena, a very small firm can run on Zeus, and highly skilled professionals may expect Dionysus-style freedom.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide* (first assessment 2024), International Baccalaureate Organization, Unit 2, section 2.5 Organizational (corporate) culture (HL only). Test yourself with the [practice questions](/resources/ib-dp-business-management-organizational-corporate-culture-hl-only-practice/).

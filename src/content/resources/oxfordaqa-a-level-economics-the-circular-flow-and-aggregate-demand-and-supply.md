@@ -226,6 +226,23 @@ Net investment halves between the third and fourth rows although output is still
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-economics-the-circular-flow-and-aggregate-demand-and-supply-practice/), then check recall with the [revision notes](/resources/oxfordaqa-a-level-economics-the-circular-flow-and-aggregate-demand-and-supply-revision-notes/). Tick off outcomes on the [checklist](/checklists/oxfordaqa/a-level/economics/).
 
+## Frequently asked questions
+
+**What is the difference between nominal and real national income?**
+Nominal income is measured at the prices of the year it is earned. Real income removes the effect of price changes, so it shows whether more output is being produced.
+
+**What happens when injections exceed withdrawals?**
+Spending exceeds output, so national income rises until withdrawals grow to match injections. When withdrawals exceed injections, income falls.
+
+**Does a change in the price level shift the AD curve?**
+No. A change in the price level is a movement along AD and SRAS. Other influences on spending shift AD, and changes in costs shift SRAS.
+
+**What are the components of aggregate demand?**
+Aggregate demand is consumption plus investment plus government spending plus exports minus imports, written AD = C + I + G + (X - M).
+
+**What is the difference between saving and investment?**
+Saving is income not spent on consumption and is a withdrawal. Investment is spending on capital goods that add to future capacity and is an injection; the two are decided by different people, so they need not be equal.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), version 1.2, first teaching September 2020, published by OxfordAQA. Sections 3.2.2.1, 3.2.2.2 and 3.2.2.3, with section 3.5 quantitative skills.

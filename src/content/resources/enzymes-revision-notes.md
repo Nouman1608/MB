@@ -18,11 +18,11 @@ syllabusTopics:
     subtopic: "effects-of-temperature-and-ph"
 description: "Condensed recall notes on enzyme action, the lock-and-key model and the effects of temperature and pH for Cambridge O Level Biology 5090."
 author: "saad-zai"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -120,3 +120,17 @@ Rate increases with substrate concentration until all active sites are occupied.
 
 For the full explanation, including how reaction progress is
 investigated experimentally, see the [Enzymes study guide](/resources/enzymes/).
+
+## Frequently asked questions
+
+**What is an enzyme?**
+An enzyme is a protein that acts as a biological catalyst. It speeds up a reaction by lowering the activation energy and is not used up, so it can be reused.
+
+**Can a denatured enzyme work again if it is cooled?**
+No. Denaturation is permanent: the bonds holding the active site's shape have broken, so cooling does not restore activity.
+
+**How can you follow the progress of an enzyme-catalysed reaction?**
+Measure the disappearance of a reactant or the appearance of a product over time, for example testing samples of a starch and amylase mixture with iodine, or collecting oxygen from catalase and hydrogen peroxide in a gas syringe.
+
+**Is substrate concentration in the O Level Biology 5090 enzymes syllabus?**
+The 5090 enzymes outcomes cover enzyme action and the effects of temperature and pH; substrate concentration is included on this page as extension material only.

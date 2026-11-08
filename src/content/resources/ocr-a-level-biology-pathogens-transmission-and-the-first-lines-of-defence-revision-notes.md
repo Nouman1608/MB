@@ -223,6 +223,23 @@ These revision notes condense OCR A Level Biology A (H420) statements 4.1.1(a) t
 - Drawing with shading, overlapping label lines or no title and scale.
 - Stopping phagocytosis at engulfment without the phagosome, lysosomes and enzyme digestion.
 
+## Frequently asked questions
+
+**What type of pathogen causes potato late blight?**
+Potato and tomato late blight is caused by a protoctist, not a fungus. Malaria is also caused by a protoctist, and these two are commonly assigned to the wrong type.
+
+**Are viruses living cells?**
+No. Viruses are not cells and can reproduce only inside host cells, whereas bacteria are prokaryotic cells. Confusing the two loses marks.
+
+**What happens after a phagocyte engulfs a pathogen?**
+The pathogen is enclosed in a phagosome, lysosomes fuse with it and their enzymes digest the pathogen. Stopping the description at engulfment misses the marks for these later steps.
+
+**What makes a good blood smear drawing?**
+Use clear continuous lines with no shading, label lines that do not overlap, and include a title and a scale or magnification.
+
+**Which specification statements do these notes cover?**
+They cover OCR A Level Biology A (H420) section 4.1.1 (a) to (e), on pathogens, their transmission and the first lines of defence in plants and animals.
+
 ## Official syllabus
 
 OCR A Level in Biology A (H420), specification Version 4.1 (April 2026), for first assessment in 2025, published by OCR. Statements 4.1.1(a) to 4.1.1(e).

@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "integration-cambridge-alevel-maths-1"
 description: "11 original Cambridge 9709 Paper 1 integration questions with mark-by-mark answers: definite and improper integrals, areas and volumes of revolution."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -132,6 +132,23 @@ Total: 60 marks. Questions 10 and 11 are extended problems that combine several 
 - Integrating straight across a root, so areas above and below the axis cancel.
 - Using x-limits in a ∫ x dy integral, or y² instead of x² for rotation about the y-axis.
 - Squaring the difference of radii for a solid with a hole, or leaving out π.
+
+## Frequently asked questions
+
+**How do you integrate (ax + b)ⁿ?**
+Raise the power by one, then divide by the new power and by a. Forgetting to divide by a, or losing its sign when a is negative, is a common mistake.
+
+**How do you find the equation of a curve from its gradient function?**
+Integrate dy/dx including + c, substitute the given point to find c, and write the full equation y = … as the final answer.
+
+**How do you evaluate an integral with an infinite upper limit?**
+Integrate as usual, then state in words that the term tends to 0 as x → ∞ instead of substituting ∞ as if it were a number.
+
+**How do you find a volume of revolution for a region with a hole?**
+Use π ∫ (outer² − inner²) dx, squaring each radius before subtracting. Squaring the difference of the radii is a wrong method.
+
+**Why can a definite integral give the wrong area?**
+Regions below the x-axis give negative values, so integrating straight across a root can make areas cancel. Split at each root and add the sizes of the parts.
 
 ## Next steps
 

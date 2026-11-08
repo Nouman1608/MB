@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "integration-cambridge-alevel-maths-1"
 description: "Study guide to Cambridge 9709 Pure Mathematics 1 section 1.8 Integration: reverse differentiation, definite integrals, areas and volumes, fully worked."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -335,6 +335,23 @@ Using π∫(5 − x² − 1)² dx instead gives 512π/15. That is a common wrong
 - Forgetting π, or forgetting to square, in a volume.
 - For a region with a hole, squaring the difference instead of taking the difference of the squares.
 - Giving a decimal from the calculator when an exact answer was asked for.
+
+## Frequently asked questions
+
+**What is an improper integral in Cambridge 9709 Paper 1?**
+A definite integral is improper when one limit is infinite or the integrand is undefined at one end of the interval. You integrate normally and then decide what happens at that end; not every improper integral has a value.
+
+**How do you find the area between a curve and a line?**
+Find where they meet, then integrate (upper graph − lower graph) between those x-values. This single integral works even if part of the region is below the x-axis.
+
+**Why do you need + c when integrating?**
+Any constant differentiates to zero, so reversing differentiation cannot tell you what the constant was. A point on the curve is then used to find c.
+
+**Which integration formulae are in MF19?**
+MF19 gives ∫ xⁿ dx = xⁿ⁺¹/(n + 1) for n ≠ −1. It does not give the (ax + b)ⁿ result or the volume of revolution formulae, so learn those.
+
+**How do you find the area between a curve and the y-axis?**
+Rearrange the equation to make x the subject and integrate x with respect to y, using y-values as the limits.
 
 ## Next steps
 

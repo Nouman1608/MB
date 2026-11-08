@@ -128,6 +128,20 @@ Trade body averages: gross profit margin 38.0%, operating expenses to revenue 27
 - Offering a recommendation with no drawback, or one that does not fit the ratio in the question.
 - Giving the same points to every stakeholder.
 
+## Frequently asked questions
+
+**Are these Cambridge 9706 AS ratio questions from past papers?**
+No. They are original practice questions with worked answers on section 1.6 of Cambridge 9706 AS Accounting, written for revision. Use them alongside the official past papers.
+
+**Why should I write the formula before calculating a ratio?**
+The syllabus accepts only the appendix formulae, and giving a ratio without the formula is a common way to lose marks. Writing the divisor in words also helps you check you have used the right base.
+
+**How do I answer questions about different stakeholders?**
+Give each stakeholder the information it actually needs and explain why. Giving the same points to every stakeholder misses the point of the question.
+
+**What makes a strong ratio evaluation?**
+Say which figure changed, what drives it and what the named stakeholder should do about it, comparing each ratio with its benchmark as you make your judgement.
+
 ## Next steps
 
 - Review with the [revision notes](/resources/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-as-revision-notes/) and the [study guide](/resources/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-as/).

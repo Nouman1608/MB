@@ -183,6 +183,20 @@ A quick test of our own: a textbook settles a factual question; a conceptual ans
 - Treating a correlation as a tested relationship. In science, a relationship should be testable by experiment.
 - Writing a statement of inquiry that is just a topic fact. It needs concepts and a global context, and should transfer.
 
+## Frequently asked questions
+
+**What are the key concepts in IB MYP Sciences?**
+The IB MYP Sciences guide names change, relationships and systems as the key concepts for sciences. They are three of the sixteen MYP key concepts, and the guide also notes that development, time, place and space, and creativity can matter in sciences.
+
+**What is the difference between qualitative and quantitative change?**
+Qualitative change is a difference in kind, such as a tadpole growing legs. Quantitative change is a difference you measure as a number or rate, such as a ball's speed rising as it falls.
+
+**What is the difference between an open and a closed system in MYP Sciences?**
+In the guide's sense, a closed system is one where resources are not removed or replaced, while an open system has its resources renewed regularly. A pond is open because water, nutrients and organisms enter and leave.
+
+**What does form and function mean in science?**
+It is the link between how something is built and what it does. For example, many alveoli with walls one cell thick give the lungs a large surface area and a short diffusion path, which speeds up gas exchange.
+
 ## Where next
 
 Revise from the [key concepts revision notes](/resources/ib-myp-sciences-key-concepts-revision-notes/), then try the [practice questions](/resources/ib-myp-sciences-key-concepts-practice/). For concepts in real units, see the [cycles study guide](/resources/ib-myp-sciences-cycles/) and the [evolution and interactions guide](/resources/ib-myp-sciences-evolution-and-interactions/); for assessment, see [criteria in practice](/resources/ib-myp-sciences-criteria-in-practice/).

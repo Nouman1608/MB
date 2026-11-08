@@ -250,6 +250,20 @@ Data: load 1.0, 2.0, 3.0, 4.0, 5.0 N; extension 11, 22, 33, 54, 55 mm. The first
 - Deleting an anomalous point with no check or reason.
 - Not stating the quantity plotted and what the gradient represents.
 
+## Frequently asked questions
+
+**How do you correct a zero error?**
+Subtract a positive zero error, where the instrument reads above zero when it should read zero, and add the size of a negative one. Check for it before the experiment, not after.
+
+**When are repeat readings worth taking?**
+Repeats help where there is random scatter, such as hand timing or a diameter that varies along a wire. They do not help with a zero error or a digital reading that does not change.
+
+**What is the difference between accuracy and precision?**
+Accuracy is how close a value is to the true value. Precision is how close repeated readings are to each other.
+
+**What is the difference between repeatable and reproducible?**
+A measurement is repeatable if the same operator using the same method gets the same result. It is reproducible if different operators or different apparatus get the same result.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Physics, specification Issue 3 (July 2021), Pearson Education Limited: Unit 3 sections 3.3 and 3.4, with Appendix 10 on uncertainties and practical work.

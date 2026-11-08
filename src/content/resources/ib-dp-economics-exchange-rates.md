@@ -239,6 +239,23 @@ The link between the current account and the exchange rate is taught in sub-topi
 
 Next: [revision notes](/resources/ib-dp-economics-exchange-rates-revision-notes/) and the [practice set](/resources/ib-dp-economics-exchange-rates-practice/).
 
+## Frequently asked questions
+
+**What factors change the demand for and supply of a currency?**
+The IB DP Economics guide lists foreign demand for exports, domestic demand for imports, inward and outward investment, remittances, speculation, relative inflation, relative interest rates, relative growth rates and central bank intervention.
+
+**How do higher interest rates affect a currency?**
+Higher interest rates attract funds from abroad as portfolio investment, which raises demand for the currency, so it tends to appreciate.
+
+**How does a central bank maintain a fixed exchange rate?**
+It can buy or sell its own currency using foreign exchange reserves, change interest rates to influence demand for the currency, or restrict or tax foreign exchange transactions. Reserves are finite, so defending an overvalued peg cannot last for ever.
+
+**How does a depreciation affect inflation?**
+Imports cost more, which raises prices directly, and dearer imported inputs shift short-run aggregate supply left. Rising net exports also shift aggregate demand right, adding to demand-pull pressure.
+
+**Is a fixed or floating exchange rate better?**
+It depends on context. A fixed rate gives more certainty but needs large reserves and ties interest rates to the peg; a floating rate frees monetary policy but brings volatility. A small, trade-dependent economy may value stability, while a large economy may value policy freedom.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization, February 2020, sub-topic 4.5.

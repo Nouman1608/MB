@@ -14,7 +14,7 @@ syllabusTopics:
     topic: "ib-myp-individuals-and-societies-constituent-disciplines"
   - qualification: "ib-myp"
     topic: "ib-myp-individuals-and-societies-eassessment-topics"
-description: "Condensed revision notes on the discipline options IB MYP Individuals and Societies schools choose from, and the three eAssessment subjects (history, geography, integrated humanities) students can be examined in."
+description: "Revision notes on the disciplines IB MYP Individuals and Societies schools may teach and its three eAssessment subjects: history, geography and humanities."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -137,3 +137,17 @@ geography, and integrated humanities. 3. Thinking critically (36 of 80 marks), c
 extended piece of writing. 4. Evaluating a source's value or limitation for a specific research
 purpose, not simply summarising what it says. 5. Taking a clear position, weighing it against
 alternative viewpoints, and reaching a reasoned judgement, rather than a purely descriptive narrative.
+
+## Frequently asked questions
+
+**Does my school's taught discipline decide my MYP Individuals and Societies eAssessment subject?**
+Not automatically. The on-screen eAssessment exists only in history, geography and integrated humanities, so a student taught through another discipline should confirm with their school which of the three applies to their cohort.
+
+**How many marks is the MYP Individuals and Societies on-screen examination worth?**
+The three tasks total 80 marks: Investigating (26 marks, criteria A and B), Communicating (18 marks, criteria A and C) and Thinking critically (36 marks, criteria A, C and D).
+
+**What topics can appear in the MYP Individuals and Societies eAssessment?**
+The official brief lists topics including demographics and human movements, settlement and urban morphology, superpowers and alliances, significant individuals, warfare and peacekeeping, rights and social protest, trade, aid and exchange, economic agents, measurements and trends, and industrialization and technological developments.
+
+**Why do MYP criteria feel similar across different subject groups?**
+Every MYP subject group is assessed against four criteria (A–D) using the same level-and-band structure, although each group's criteria have their own names and skills. This shared logic lets the IB apply a similar standard of rigour across very different kinds of work.

@@ -12,7 +12,7 @@ order: 4
 syllabusTopics:
   - qualification: "a-level"
     topic: "theory-of-computation-7517"
-description: "Abstraction, finite state machines, regular expressions, BNF, Big-O, computability and the Turing machine for AQA A Level Computer Science, with worked examples."
+description: "AQA A Level Computer Science 7517 section 4.4 guide: abstraction, finite state machines, regular expressions, BNF, Big-O, computability and Turing machines."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-08
@@ -152,3 +152,17 @@ whereas the regular expression is `[A-Z]+` followed by three digits, written out
 6. Explain what the halting problem shows. *Answer: no algorithm can decide for every program and input whether the program halts, so some problems are non-computable.*
 7. What does a universal Turing machine do? *Answer: it reads a description of another Turing machine and its input and simulates that machine, so one machine can run any program.*
 8. Using the machine in worked example 1, what is the tape after running it on `0 0 1 1`? *Answer: `0 1 0 0` (3 + 1 = 4).*
+
+## Frequently asked questions
+
+**What is the halting problem?**
+The halting problem asks whether a general algorithm can decide, for any program and input, whether the program eventually stops. It has been proved that no such algorithm exists, so the problem is non-computable.
+
+**What is the difference between tractable and intractable problems?**
+A tractable problem can be solved in polynomial time or better. An intractable problem has a solution, but it takes exponential time or worse, which is unreasonable even for modest inputs.
+
+**Why can BNF describe languages that regular expressions cannot?**
+BNF rules can be recursive, so BNF can describe nested structures such as matched brackets. Regular languages cannot count without limit.
+
+**What is a universal Turing machine?**
+A universal Turing machine reads a description of another Turing machine and its input from the tape and simulates it. It is the stored-program computer in abstract form.

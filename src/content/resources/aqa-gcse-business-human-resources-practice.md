@@ -122,6 +122,20 @@ These questions cover topic 3.4 Human resources from the AQA GCSE Business (8132
 - Take all free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What does topic 3.4 Human resources cover in AQA GCSE Business (8132)?**
+Organisational structures, recruitment and selection, motivating employees, and training. These practice questions are original and are not taken from AQA papers.
+
+**How do you calculate span of control?**
+Divide the number of subordinates by the number of managers at that level. A common slip is dividing by the number of new managers only rather than the new total.
+
+**What is the difference between a job description and a person specification?**
+A job description sets out the job: its title, duties and responsibilities. A person specification sets out the person needed: qualifications, skills, experience and qualities.
+
+**How do I score well on a recommend question in human resources?**
+Make a clear choice and give a reason that fits the business in the case. Naming a method without explaining why it suits that business earns little.
+
 ## Official syllabus
 
 AQA GCSE Business (8132), specification for first teaching from September 2017, published by AQA. These questions follow section 3.4 Human resources, including 3.4.1 to 3.4.4.

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Marketing mix and strategy (YBS11)"
+title: "Edexcel International A Level Business: Marketing mix and strategy (YBS11)"
 seoTitle: "Edexcel IAL Business Marketing Mix and Strategy Guide"
 resourceType: "study-guides"
 subject: "business"
@@ -284,6 +284,20 @@ A distribution channel is the chain of businesses a product passes through betwe
 - Calling any price cut penetration. It is a low launch price to build share.
 - Forgetting that mark-up is a percentage of cost, not of the selling price.
 - Treating predatory pricing as normal competition. It is below cost and aimed at a rival.
+
+## Frequently asked questions
+
+**What are the three marketing objectives in the Edexcel IAL Business specification?**
+The YBS11 specification lists increasing market share, increasing revenue and building a brand.
+
+**What are the benefits of strong branding?**
+Strong branding adds value, lets a business charge premium prices and reduces the price elasticity of demand, so a price rise loses fewer sales.
+
+**What is the difference between corporate and individual branding?**
+Corporate (family) branding uses one name across many products, so a new product borrows trust but a failure can damage them all. Individual branding gives each product its own name, protecting the others but costing more to build.
+
+**How have price comparison sites affected pricing?**
+Price comparison sites make prices transparent, so demand becomes more elastic for similar goods and differentiation and brand strength matter more.
 
 ## Official syllabus
 

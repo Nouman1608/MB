@@ -144,6 +144,23 @@ Links: [study guide](/resources/ocr-gcse-physics-gas-pressure-compression-and-th
 - Find weak areas with the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these OCR GCSE Physics A gas pressure questions cover?**
+They cover topic P1.3 Pressure, statements P1.3a to P1.3g, of OCR GCSE (9-1) Physics A (J249): particle motion and gas pressure, compression, pV = constant, work done on a gas and atmospheric pressure.
+
+**How do I get full marks explaining a change in gas pressure?**
+Say the particles move faster or slower, then give both effects on the collisions with the walls: how often they happen and how hard each one is. Finish by linking the force from the collisions to pressure as force per unit area.
+
+**What unit mistakes are common in gas pressure calculations?**
+Forgetting to convert kPa to Pa before using force = pressure × area, and mixing cm³ with m³ in the same equation. Convert first, then substitute.
+
+**When can I use pV = constant?**
+Only for a fixed mass of gas at constant temperature. State that the temperature is constant when you use it, and check that your rearrangement gives a lower pressure for a larger volume.
+
+**Why is "there is no air at height" marked wrong?**
+At height there is less air above you and the air is thinner, but there is still air. Write about the smaller weight of air above and fewer particles per cubic metre.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249)* specification, Version 5.0 (July 2026), first assessment 2018, topic P1.3 Pressure, statements P1.3a to P1.3g.

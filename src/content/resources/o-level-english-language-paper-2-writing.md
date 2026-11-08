@@ -12,13 +12,13 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "writing-1123"
-description: "A deep dive into Paper 2 of Cambridge O-Level English Language (1123): Directed Writing and Composition, the two tasks, their assessment objectives, and how marks are actually awarded."
+description: "Cambridge O Level English Language 1123 Paper 2 Writing in depth: directed writing and composition, their assessment objectives and how the marks are awarded."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 Paper 2 – Writing carries exactly half of the marks in Cambridge O Level
@@ -165,6 +165,18 @@ available from Cambridge International, show real examples of how
 examiners apply these objectives to full-length answers -- use them
 alongside this guide rather than as a substitute for understanding the
 assessment structure first.
+
+## Frequently asked questions
+
+**How long should directed writing be?**
+About 250–350 words, based on one or two texts totalling roughly 400–450 words.
+
+**How long should the composition be?**
+About 350–450 words, chosen from four titles: two descriptive and two narrative.
+
+**How are Paper 2's 50 marks split?**
+Directed writing carries 25 marks (15 writing, 10 reading) and composition 25 marks, all for writing.
+
 
 ## Official syllabus
 

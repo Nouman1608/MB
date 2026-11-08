@@ -238,6 +238,20 @@ cheaper, and review the decision before the lease expires [1]. **[10]**
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Where do students usually lose marks on manufacturing accounts questions?**
+Common losses are using a mark-up percentage directly on the transfer price, charging the whole closing provision for unrealised profit to profit rather than the change, and including office shares of rent, power or depreciation in factory overheads.
+
+**How do you convert a mark-up into a fraction of the transfer price?**
+A mark-up of m% on cost equals m/(100 + m) of the transfer price. For example, a 40% mark-up is 40/140 of the transfer price, not 40%.
+
+**How should finished goods appear in the statement of financial position?**
+Finished goods at transfer price must have the provision for unrealised profit deducted, so they are shown at cost. Showing them at transfer price is a common mistake.
+
+**What should I consider in a make-or-buy evaluation in OxfordAQA 9615?**
+Compare the factory cost per unit with the price an outside supplier would charge, and remember that not all factory costs would stop if production ended. Treating every factory cost as avoidable is a common mistake.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS

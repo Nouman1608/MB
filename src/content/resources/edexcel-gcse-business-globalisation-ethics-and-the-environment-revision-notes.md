@@ -235,6 +235,20 @@ Judgement: It is worthwhile if the extra sales are likely, so the answer should 
 - Not reaching a judgement in an evaluate or justify answer.
 - Confusing the percentage share with the percentage change.
 
+## Frequently asked questions
+
+**Who pays a tariff on imported goods?**
+A tariff is a tax on imports, so the importer pays it, although the cost may be passed on to customers in higher prices. Saying the exporter pays the tariff is a common error.
+
+**What is a trade bloc?**
+A trade bloc is a group of countries that agree to trade with each other on easier terms, such as low or no tariffs between members, while usually keeping tariffs on goods from outside. The European Union is an example.
+
+**What is a multinational?**
+A multinational is a business with operations, such as factories, shops or offices, in more than one country, usually with a head office in one country. Host countries can gain jobs and tax receipts but local firms may face more competition.
+
+**Do ethical choices always reduce a business's profit?**
+Not always. Ethical choices often raise costs in the short run, but they can bring a better reputation, loyal customers and motivated staff, so Edexcel GCSE Business (1BS0) answers should weigh the trade-off between ethics and profit.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2: Building a business, Topic 2.1 Growing the business, items 2.1.3 and 2.1.4.

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Capital and revenue expenditure and depreciation (YAC11) -- Practice Questions"
+title: "Edexcel International A Level Accounting: Capital and revenue expenditure and depreciation (YAC11) -- Practice Questions"
 seoTitle: "Edexcel IAL Accounting Depreciation Practice Questions"
 resourceType: "practice-questions"
 subject: "accounting"
@@ -180,6 +180,20 @@ Headings and layout [1]; plant cost section [2]; vehicles cost [1]; plant accumu
 - Mixing up the part-exchange allowance with the price paid.
 - Giving the profit effect without saying higher or lower.
 - Putting disposals at the wrong figure in the cost and depreciation sections of the schedule.
+
+## Frequently asked questions
+
+**Are these Edexcel YAC11 depreciation questions from past papers?**
+No. They are original practice questions with worked answers on outcomes 1.1.11 to 1.1.20 of Pearson Edexcel International A Level Accounting (YAC11), written for revision. Use them alongside the official past papers.
+
+**Should I give a reason when classifying capital and revenue items?**
+Yes. A bare label usually earns less than a label with a short reason, so give both even when only a classification is asked for.
+
+**How is a part-exchange allowance treated?**
+The part-exchange allowance is treated like sale proceeds of the old asset in the disposal account, not as a reduction in the price of the new asset.
+
+**What are common mistakes in a schedule of non-current assets?**
+Disposals must reduce cost at the original cost and reduce depreciation at the accumulated figure. Using the wrong figure in either section is a common error.
 
 ## Next steps
 

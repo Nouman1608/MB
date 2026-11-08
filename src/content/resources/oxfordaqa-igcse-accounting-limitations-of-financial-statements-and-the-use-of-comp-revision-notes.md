@@ -164,7 +164,7 @@ Manual methods: low cost, no power needed, suit few transactions. Slow, error-pr
 
 ## Quick self-test
 
-1. State two non-financial factors that a income statement does not show.
+1. State two non-financial factors that an income statement does not show.
 2. Why does historical cost limit a return on capital employed comparison?
 3. A business has current assets of 90,000 and current liabilities of 60,000. Calculate the current ratio.
 4. It uses 30,000 of its cash to pay trade payables. Calculate the new current ratio.
@@ -221,6 +221,23 @@ Manual methods: low cost, no power needed, suit few transactions. Slow, error-pr
 - Saying software stops all errors or that manual methods are always cheaper.
 - Comparing ratios across businesses without saying the definitions and sizes may differ.
 - Using year-end figures without noting that they may be unrepresentative.
+
+## Frequently asked questions
+
+**What non-financial factors do financial statements not show?**
+Management quality and staff skills, staff morale and industrial relations, reputation and customer loyalty, market and competitor conditions, changes in law and environmental conduct.
+
+**Does accounting software remove all errors?**
+No. Software removes arithmetic slips, but it does not remove input errors or errors of principle, because wrong data is still posted wrongly.
+
+**What is the difference between a limitation of a statement and a limitation of a ratio?**
+A limitation of a statement comes from how the figures are produced, such as historical cost or a year-end snapshot. A limitation of a ratio is that it needs a comparison and does not give reasons. Many points apply to both.
+
+**Should I ignore ratios because they have limitations?**
+No. A limit is not a reason to ignore the figures: say what the ratios suggest first, then explain what limits their usefulness.
+
+**What are the advantages and disadvantages of manual accounting?**
+Manual methods cost little, need no power and suit a business with few transactions. They are slow, error-prone and hard to search.
 
 ## Official syllabus
 

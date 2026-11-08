@@ -12,7 +12,19 @@ order: 4
 syllabusTopics:
   - qualification: "gcse"
     topic: "paper-2-social-context-and-behaviour-8182"
-description: "Original exam-style practice questions with full worked answers on social influence, language and communication, brain and neuropsychology, and psychological problems."
+  - qualification: "gcse"
+    topic: "paper-2-social-context-and-behaviour-8182"
+    subtopic: "social-influence-8182"
+  - qualification: "gcse"
+    topic: "paper-2-social-context-and-behaviour-8182"
+    subtopic: "language-thought-communication-8182"
+  - qualification: "gcse"
+    topic: "paper-2-social-context-and-behaviour-8182"
+    subtopic: "brain-and-neuropsychology-8182"
+  - qualification: "gcse"
+    topic: "paper-2-social-context-and-behaviour-8182"
+    subtopic: "psychological-problems-8182"
+description: "Practice questions and answers on social influence, language, brain and neuropsychology, and psychological problems for AQA GCSE Psychology 8182 Paper 2."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -71,6 +83,18 @@ Related: [Social Context and Behaviour revision notes](/resources/gcse-psycholog
 
 ---
 
+## Section D — brain and neuropsychology
+
+**10.** Name the **three** types of neuron and state the function of each. **[3]**
+
+**11.** Describe the process of synaptic transmission. **[4]**
+
+**12.** Identify **one** function of the occipital lobe and **one** function of the temporal lobe. **[2]**
+
+**13.** Explain **one** difference between a PET scan and a CT scan. **[2]**
+
+---
+
 ## Answers
 
 **1. Social factors** — features of the situation, such as **group size** or **task difficulty**, e.g. conformity increases as the size of the majority grows, up to a point [1] [1]. **Dispositional factors** — features of the individual, such as **personality** or **expertise**, e.g. a person with low self-esteem is more likely to conform [1] [1].
@@ -102,6 +126,16 @@ Do **not** credit the presence of other bystanders or the cost of helping as fac
 
 ---
 
+**10.** **Sensory neurons** carry impulses from **receptors** to the central nervous system [1]; **relay neurons** pass impulses **between neurons within the central nervous system** [1]; **motor neurons** carry impulses from the central nervous system to **muscles and glands** [1].
+
+**11.** An electrical impulse travels along the neuron to the **presynaptic terminal** [1], causing **neurotransmitters** to be released into the **synapse (synaptic gap)** [1]. The neurotransmitter crosses the gap and binds to **receptors on the next neuron** [1], making that neuron more likely to fire (**excitation**) or less likely to fire (**inhibition**) [1].
+
+**12.** Occipital lobe: **processing visual information** (the visual area) [1]. Temporal lobe: **processing sound** (the auditory area) **or** a role in **memory** [1].
+
+**13.** A **CT scan** uses X-rays to produce an image of the brain's **structure** [1], whereas a **PET scan** uses a **radioactive tracer** to show which areas are **active** during a task [1]. *(Also creditable: PET involves injecting a radioactive substance, CT does not.)*
+
+---
+
 ## Where marks are usually lost
 
 - Describing conformity and obedience as the same process instead of naming their distinct studies (Asch; Milgram).
@@ -114,3 +148,17 @@ Do **not** credit the presence of other bystanders or the cost of helping as fac
 ## Approaching Social Context and Behaviour questions
 
 In Paper 2, social influence sets situational (social) factors against dispositional ones, and psychological problems sets biological explanations against psychological ones; the strongest answers make the relevant contrast explicit rather than describing one side only. When a question gives a novel scenario — a stressful situation, an addiction case study, a crowd event — identify which named theory or study it is testing before writing, since Paper 2 rewards application to unfamiliar contexts over recalled description just as much as Paper 1 does. Where a question asks you to "compare" or "explain the difference between" two explanations, structure the answer so the comparison itself earns marks, not just two separate descriptions placed next to each other.
+
+## Frequently asked questions
+
+**What do these AQA GCSE Psychology 8182 Paper 2 practice questions cover?**
+They cover social influence, language, thought and communication, brain and neuropsychology, and psychological problems, including named studies such as Asch, Milgram, Piliavin and Kaij.
+
+**How should you answer a scenario question in GCSE Psychology Paper 2?**
+Identify which named theory or study the scenario is testing, make the relevant contrast explicit, such as social versus dispositional factors, and apply it to the details given.
+
+**Do you need to know named studies for AQA GCSE Psychology Paper 2?**
+Yes. Questions often name studies such as Asch, Milgram, Piliavin, Von Frisch, Penfield, Tulving, Wiles and Kaij, and you need to be able to say what each actually found.
+
+**What are common mistakes in GCSE Psychology Paper 2 answers?**
+Students often treat conformity and obedience as the same process, reverse Piaget's and Sapir-Whorf's positions, and list explanations of depression or addiction without comparing them when asked to.

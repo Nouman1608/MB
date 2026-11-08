@@ -12,13 +12,13 @@ order: 6
 syllabusTopics:
   - qualification: "o-level"
     topic: "trigonometry"
-description: "Original exam-style questions with full worked answers on Pythagoras, right-angled trigonometry, the sine and cosine rules, the area of a triangle and bearings, for Cambridge O Level Mathematics 4024."
+description: "Original Cambridge O Level Mathematics 4024 trigonometry questions on Pythagoras, right-angled triangles, the sine and cosine rules, triangle area and bearings."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-24
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -129,6 +129,23 @@ Use these questions to practise right-angled trigonometry, the sine and cosine r
 - Rounding in the middle of a multi-part question and losing the final accuracy mark.
 - Leaving the calculator in radian mode.
 - Using the wrong edge when finding the angle between a line and a plane in 3D.
+
+## Frequently asked questions
+
+**When do you use the sine rule instead of the cosine rule?**
+Use the sine rule when you know a side and the angle opposite it. Use the cosine rule when you know two sides and the angle between them, or all three sides.
+
+**Why is cos of an obtuse angle important in the cosine rule?**
+The cosine of an obtuse angle is negative, so the last term of the cosine rule is added rather than subtracted. Forgetting this gives a third side that is too short.
+
+**How do you find a back bearing?**
+Add 180° to the bearing, and if the result is over 360°, subtract 360°. Write every bearing with three figures, measured clockwise from north.
+
+**Which calculator mode should you use for Cambridge O Level trigonometry?**
+Use degree mode. Leaving the calculator in radian mode is a common reason for wrong answers.
+
+**How do you find the angle between a line and a plane in 3D?**
+Find the right-angled triangle formed by the line, its projection on the plane and the vertical edge, then use a trigonometric ratio. Using the wrong edge in the 3D shape is a frequent error.
 
 ## Next steps
 

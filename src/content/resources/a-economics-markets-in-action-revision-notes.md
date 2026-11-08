@@ -13,11 +13,11 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "markets-in-action-edexcel-alevel-economics"
-description: "Condensed recall notes on demand and supply, elasticity, market failure, government intervention and reasons consumers may not maximise utility for A Level Economics."
+description: "Condensed revision notes for Edexcel International A Level Economics YEC11: demand and supply, elasticity, market failure, intervention and irrational choice."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-11-05
 featured: false
@@ -229,3 +229,19 @@ Traditional theory assumes **rational** utility-maximising agents with full info
   <figcaption>Six ways real consumers depart from utility maximisation.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between a movement along and a shift of a demand curve?**
+A movement along the curve is caused by a change in the good's own price; a shift is caused by any other condition of demand, such as income, the price of substitutes or complements, tastes or advertising.
+
+**Who bears more of an indirect tax?**
+The more inelastic side of the market bears more of the tax. If demand is inelastic relative to supply, consumers pay most of it through a higher price.
+
+**What is the difference between adverse selection and moral hazard?**
+Adverse selection happens before a transaction, when the wrong people select in, as in used-car and insurance markets. Moral hazard happens after it, when behaviour changes because someone else bears the risk.
+
+**Why can a tax on a demerit good raise a lot of revenue but change little behaviour?**
+When demand for the demerit good is price inelastic, quantity barely falls after the tax, so consumption stays high and the tax collects large, stable revenue.
+
+**What reasons for not maximising utility does Edexcel YEC11 name?**
+The specification names six: the influence of other people's behaviour (herding), habitual behaviour, inertia, poor computational skills, the need to feel valued, and framing and bias.

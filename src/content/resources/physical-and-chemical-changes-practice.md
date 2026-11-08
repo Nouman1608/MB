@@ -18,12 +18,12 @@ syllabusTopics:
     subtopic: "physical-and-chemical-changes"
 description: "Original exam-style practice questions with full worked answers on identifying and justifying physical vs chemical changes for IGCSE Chemistry."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-01
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -113,3 +113,17 @@ shows why this distinction matters: a dramatic-looking state change
 (solid straight to gas) can still be entirely physical, because the
 substance itself never stops being iodine. For the full evidence
 table and further worked examples, see the [Physical and Chemical Changes study guide](/resources/physical-and-chemical-changes/).
+
+## Frequently asked questions
+
+**Which syllabuses do these physical and chemical changes questions cover?**
+They are written for Cambridge IGCSE Chemistry 0620 and Cambridge O Level Chemistry 5070, under the chemical reactions topic, for the 2026–2028 series.
+
+**How should you justify whether a change is physical or chemical?**
+State your classification first, then support it with evidence taken from the description in the question, rather than a general statement learned in advance.
+
+**What does "give one reason" require in a classification question?**
+Each classification needs its own reason, so for a three-part question give a separate reason for each change rather than one general statement.
+
+**Where can you revise physical and chemical changes in more depth?**
+The Physical and Chemical Changes study guide linked from this page has the full evidence table and further worked examples for 0620 and 5070.

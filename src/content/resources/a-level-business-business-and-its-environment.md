@@ -13,13 +13,13 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "business-and-its-environment-as-cambridge-alevel-business"
-description: "Enterprise, business structure, size of business, business objectives and stakeholders -- the full content of Topic 1 Business and its environment for Cambridge AS & A Level Business 9609, 2026-2028 series."
+description: "Study guide to enterprise, business structure, size, objectives and stakeholders: Topic 1 Business and its environment for Cambridge AS & A Level Business 9609."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **Topic 1 Business and its environment**, an AS
@@ -257,6 +257,23 @@ method for a given business, so being able to weigh organic growth
 growth through merger or takeover (faster, but bringing integration
 risk) for the actual circumstances described is more valuable than
 being able to define each method in isolation.
+
+## Frequently asked questions
+
+**What is the difference between an entrepreneur and an intrapreneur?**
+An entrepreneur creates and starts up a new business. An intrapreneur drives innovation and new ideas from within an existing business without bearing the full personal financial risk of starting one.
+
+**What are the four economic sectors in Cambridge 9609 Business?**
+The primary sector extracts raw materials, the secondary sector covers manufacturing and construction, the tertiary sector provides services, and the quaternary sector covers knowledge- and information-based activities such as research and IT.
+
+**How is the size of a business measured?**
+Business size can be measured by number of employees, annual turnover, capital employed and market share. Each can give a different impression, so a firm with few employees but high turnover should not automatically be classed as small.
+
+**What are the strengths and weaknesses of family businesses?**
+Strengths include shared commitment, trust and a long-term outlook. Weaknesses include a smaller pool of management talent, the risk of family disputes affecting the business, and succession problems.
+
+**What is the purpose of a business plan?**
+A business plan clarifies the business idea, supports applications for finance and sets objectives against which progress can be judged. It is only as reliable as the assumptions and forecasts behind it.
 
 ## Official syllabus
 

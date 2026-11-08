@@ -31,14 +31,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "coordinate-geometry-cambridge-igcse-maths"
     subtopic: "perpendicular-lines-cambridge-igcse-maths"
-description: "Condensed recall notes on coordinates, gradient, straight-line equations, length, midpoint, and parallel and perpendicular lines for Cambridge IGCSE Mathematics 0580."
+description: "Quick-recall notes on coordinates, gradient, y = mx + c, length, midpoint and parallel and perpendicular lines for Cambridge IGCSE Mathematics 0580 Topic 3."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-04
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 Condensed for the final weeks. Pair these notes with the
@@ -179,3 +179,16 @@ y = -(1/4)x + 5.5
   <figcaption>Perpendicular gradients multiply to -1.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you find the length of a line between two points?**
+Use Pythagoras' theorem on the horizontal and vertical distances: length = √((x₂ − x₁)² + (y₂ − y₁)²). Leaving the answer without the final square root is incomplete.
+
+**How do you find the midpoint of a line segment?**
+Add the two x-coordinates and divide by 2, then add the two y-coordinates and divide by 2.
+
+**What are the gradients of perpendicular lines?**
+Perpendicular lines have gradients that are negative reciprocals of each other, so a line with gradient 2 is perpendicular to a line with gradient −1/2.
+
+**What do m and c represent in y = mx + c?**
+m is the gradient of the line and c is the y-intercept, where the line crosses the y-axis.

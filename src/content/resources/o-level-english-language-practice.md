@@ -12,11 +12,11 @@ order: 1
 syllabusTopics:
   - qualification: "o-level"
     topic: "reading-1123"
-description: "Original exam-style practice questions with full worked answers on directed writing, composition, comprehension and summary skills."
+description: "Original practice with full worked answers on directed writing, composition, comprehension and summary for Cambridge O Level English Language 1123, both papers."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -100,3 +100,14 @@ Model answer, in continuous prose and the student's own words (within 150 words)
 - Lifting whole sentences from the passage in "own words" questions.
 - Naming a literary device (metaphor, simile) without explaining its effect on the reader.
 - Writing a summary answer as a list of separate points rather than joined, continuous prose.
+
+## Frequently asked questions
+
+**Are these 1123 practice questions taken from Cambridge past papers?**
+No. They are original questions written for Marlbridge, and the summary question has been rebuilt to the board's own summary tariff and word limit. Use them alongside the official past papers from Cambridge for practice at the exact format.
+
+**What does this Cambridge O Level English Language practice cover?**
+It covers directed writing, composition, comprehension and summary across both papers of Cambridge O Level English Language (1123), with full worked answers.
+
+**What should I revise before trying these questions?**
+The page links to the O Level English Language revision notes, which summarise the skills these questions test.

@@ -12,11 +12,11 @@ order: 4
 syllabusTopics:
   - qualification: "igcse"
     topic: "frequency-distributions-0479"
-description: "Original exam-style practice questions with full worked answers on grouped/ungrouped distributions, class boundaries, histograms, frequency polygons and cumulative frequency, for Cambridge IGCSE Statistics (0479) Topic 3."
+description: "Original questions with worked answers on class boundaries, histograms, frequency polygons and cumulative frequency for Cambridge IGCSE Statistics 0479."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review. Fix pass: rewrote garbled question 7 stem and answer (a); removed unsupported marks-lost claims; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -61,8 +61,8 @@ than a histogram for this purpose. **[3]**
 **(b)** State what is plotted on the horizontal axis when constructing this diagram. **[1]**
 
 **7.** A student mistakenly reads a cumulative frequency curve to find "the number of values below 25"
-by reading a value from the horizontal axis at cumulative frequency 25, instead of reading the
-cumulative frequency at height 25 on the horizontal axis.
+by finding 25 on the vertical (cumulative frequency) axis and reading across to the curve and down to
+the horizontal axis, instead of starting at 25 on the horizontal axis.
 
 **(a)** Identify the error the student has made. **[2]**
 **(b)** Describe the correct method for finding the number of values below 25 using the curve. **[2]**
@@ -104,9 +104,9 @@ set of axes, whereas two sets of histogram bars would overlap and obscure each o
 comparison much harder to read [1–2].
 **(b)** The midpoint of each class interval [1].
 
-**7. (a)** The student has read the curve from the wrong axis — the question asks for a count (a
-cumulative frequency value), which should be read from the vertical axis, not treated as if 25 were
-itself a cumulative frequency to look up on the horizontal axis [2].
+**7. (a)** The student has started from the wrong axis. Here 25 is a value of the variable, so it belongs
+on the horizontal axis; the answer is a count (a cumulative frequency), which is read from the vertical
+axis. The student treated 25 as if it were a cumulative frequency [2].
 **(b)** Locate 25 on the horizontal axis (the variable being measured), draw a vertical line up to the
 curve, then draw a horizontal line across to the vertical axis to read off the corresponding cumulative
 frequency, which gives the number of values below 25 [2].
@@ -125,8 +125,23 @@ Class B [1–2].
 
 ## A note on exam technique for this topic
 
-Question 7 illustrates the single most common error the study guide flags for this topic: confusing
-which axis to read a value from on a cumulative frequency curve. Before answering any question based
+Question 7 illustrates a common error on this topic: confusing which axis to read a value from on a cumulative frequency curve. Before answering any question based
 on a cumulative frequency graph, check explicitly whether the question is asking for a value (read
-from the horizontal axis) or a cumulative frequency (read from the vertical axis) — this one habit
-prevents the majority of marks lost on this sub-topic.
+from the horizontal axis) or a cumulative frequency (read from the vertical axis).
+
+## Frequently asked questions
+
+**Are these Cambridge IGCSE Statistics 0479 frequency distribution questions from past papers?**
+No. They are original questions written for revision and do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers available from your board.
+
+**How do you read a cumulative frequency curve without mixing up the axes?**
+Check first whether the question asks for a value of the variable, read from the horizontal axis, or a cumulative frequency (a count), read from the vertical axis. Reading from the wrong axis is a common error on this topic.
+
+**Do discrete data classes have boundaries?**
+Yes. For discrete data the 0479 syllabus requires class limits, boundaries, midpoints and widths, with each boundary lying halfway between the upper limit of one class and the lower limit of the next.
+
+**Why is the bar with the higher frequency not always the tallest on a histogram?**
+When class widths are unequal, bar height is frequency density, not frequency. A narrower class can have a lower frequency but a higher frequency density, so it is drawn taller.
+
+**What topic of IGCSE Statistics 0479 do these questions cover?**
+They cover Topic 3, Frequency distributions: grouped and ungrouped distributions, class boundaries, histograms, frequency polygons and cumulative frequency.

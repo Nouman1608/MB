@@ -260,6 +260,20 @@ The mass check matters. A solid that speeds up a reaction but gets used up is a 
 
 Use the [revision notes](/resources/aqa-gcse-chemistry-8462-properties-of-transition-metals-revision-notes/), then the [practice questions](/resources/aqa-gcse-chemistry-8462-properties-of-transition-metals-practice/). The [AQA GCSE Chemistry hub](/boards/aqa/gcse/chemistry/), the [printable checklist](/checklists/aqa/gcse/chemistry/) and the free [diagnostics](/diagnostics/) show where else to work.
 
+## Frequently asked questions
+
+**Which paper is section 4.1.3 Properties of transition metals assessed on?**
+It sits in Topic 1, Atomic structure and the periodic table, which is assessed on Paper 1 of AQA GCSE Chemistry 8462. Both statements, 4.1.3.1 and 4.1.3.2, are for Foundation and Higher tier.
+
+**Are transition metals more reactive than Group 1 metals?**
+No. Transition metals are much less reactive than Group 1 metals; they react far less vigorously with oxygen, water and halogens. They also have higher melting points and densities and are harder and stronger.
+
+**Should you write "heavier" or "denser" when comparing metals?**
+Write "denser". Density is mass per unit volume, and a large lump of sodium can weigh more than a small iron nail even though iron is far denser.
+
+**How do you write the formula of iron(III) oxide?**
+Iron(III) is Fe³⁺ and oxide is O²⁻, so two Fe³⁺ ions balance three O²⁻ ions to give Fe₂O₃. Check that total positive charge equals total negative charge.
+
 ## Official syllabus
 
 AQA GCSE Chemistry (8462) specification, for teaching from September 2016, GCSE exams June 2018 onwards, version 1.1, published by AQA -- section 4.1.3 Properties of transition metals (4.1.3.1 and 4.1.3.2).

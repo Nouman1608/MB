@@ -136,6 +136,20 @@ Evaluation: relying on price alone makes buyers pay more for years while supply 
 - Leaving the time period out of a short run and long run comparison.
 - Stating a conclusion in an evaluation with no figures from the data to support it.
 
+## Frequently asked questions
+
+**Should you state "elastic" or "inelastic" after calculating PES?**
+Yes. After the number, say whether supply is elastic, inelastic or unitary. Forgetting to describe the result is one of the listed ways marks are lost in Cambridge O Level Economics 2281.
+
+**Are substitutes a determinant of PES?**
+No. Substitutes and necessities are determinants of PED. Determinants of PES include spare capacity, stocks, time, ease of switching factors, availability of inputs and the length of the production process.
+
+**Why is PES positive when price falls?**
+When price falls, quantity supplied also falls, so both percentage changes are negative and the two negatives cancel to give a positive PES.
+
+**How do you compare PES in the short run and the long run?**
+State the time period and what firms can or cannot change in it. In the long run firms can expand capacity and new firms can enter, so supply is usually more elastic.
+
 ## Next steps
 
 - Return to the [revision notes](/resources/cambridge-o-level-economics-price-elasticity-of-supply-calculation-determinants-revision-notes/) and the [study guide](/resources/cambridge-o-level-economics-price-elasticity-of-supply-calculation-determinants/).

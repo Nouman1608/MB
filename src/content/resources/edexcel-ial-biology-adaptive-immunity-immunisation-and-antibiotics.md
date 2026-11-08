@@ -233,6 +233,23 @@ Using rates, not raw counts, is fair because the patient-days differ. The fall i
 
 Next, test yourself with the [practice questions](/resources/edexcel-ial-biology-adaptive-immunity-immunisation-and-antibiotics-practice/) and the [revision notes](/resources/edexcel-ial-biology-adaptive-immunity-immunisation-and-antibiotics-revision-notes/).
 
+## Frequently asked questions
+
+**What is the difference between B effector cells and B memory cells?**
+B effector cells act now, and most become plasma cells that secrete antibodies. B memory cells do not secrete antibody now but stay in the body and respond quickly if the same antigen returns.
+
+**What is the difference between bacteriostatic and bactericidal antibiotics?**
+Bacteriostatic antibiotics stop bacteria growing and reproducing. Bactericidal antibiotics kill bacteria; penicillin is an example.
+
+**Why do antibiotics not work on viruses?**
+Viruses have no cell wall and no ribosomes of their own, so they lack the bacterial features that antibiotics target.
+
+**Why are hospital-acquired infections common?**
+Patients are weak or have open wounds, devices such as catheters give bacteria a way in, many people are in close contact, and heavy antibiotic use selects for resistant bacteria.
+
+**What is the evolutionary race between pathogens and hosts?**
+Pathogens and hosts evolve in response to each other: a host with a better defence survives, and a pathogen variant that evades a defence spreads.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology (YBI11) specification, Issue 2, published by Pearson Education Limited.

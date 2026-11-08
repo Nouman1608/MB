@@ -13,7 +13,7 @@ order: 49
 syllabusTopics:
   - qualification: "igcse"
     topic: "globalisation-0457"
-description: "Original source-based 0457 questions on globalisation with mark-by-mark answers, plus Individual Report and Team Project planning tasks."
+description: "Original source-based questions on globalisation for Cambridge IGCSE Global Perspectives 0457, with mark-by-mark answers and report and project planning tasks."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -152,6 +152,20 @@ Judgement: Reyes's argument is better supported because it uses more of the evid
 - Check your weaker skills with the [free diagnostics](/diagnostics/).
 - Plan your coursework with [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/) and [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/).
 - Want feedback from a teacher? [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Can you use general knowledge about globalisation in these 0457 questions?**
+No. Answer from the four sources given. Answering from general knowledge about globalisation instead of the sources is a common way to lose marks.
+
+**How should you use figures from a table in 0457?**
+Quote the figures with their units and say whether they rose or fell. Copying numbers without interpreting them earns little.
+
+**Should source evaluation only point out weaknesses?**
+No. Evaluate a strength as well as a weakness, so your judgement of the source is balanced.
+
+**How do you judge which of two arguments is better?**
+Judge which argument is better reasoned and supported by evidence, not which policy you personally prefer.
 
 ## Official syllabus
 

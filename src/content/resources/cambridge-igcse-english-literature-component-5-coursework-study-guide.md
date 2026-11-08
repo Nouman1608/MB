@@ -12,11 +12,11 @@ order: 5
 syllabusTopics:
   - qualification: "igcse"
     topic: "component-5-coursework-0475"
-description: "How to plan, draft and finish a literature coursework portfolio: choosing texts and tasks, building an argument, using evidence and context, and avoiding plagiarism."
+description: "How to plan, draft and finish a Cambridge IGCSE Literature in English 0475 Component 5 coursework portfolio: texts, tasks, argument, evidence and authenticity."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the number of assignments, the permitted word limits, any rules about text choice and genre, the mark total, and the teacher's allowed level of support for the 2026 series."
+reviewNote: "2026-11-08 recheck: description now names board and code; FAQ added with syllabus word limits and marking. Check the number of assignments, the permitted word limits, any rules about text choice and genre, the mark total, and the teacher's allowed level of support for the 2026 series."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -94,6 +94,21 @@ Submitting work that is not your own can lead to serious penalties. Do not copy 
 ## Final checks before submission
 
 Read your piece aloud to hear awkward sentences. Confirm that every quotation is accurate, that the title or question is written at the top as agreed with your teacher, that you have answered the whole question and not only part of it, and that you have kept to the word limit. Check that all quotations and ideas drawn from others are acknowledged.
+
+## Frequently asked questions
+
+**How long is each Component 5 assignment?**
+Between 600 and 1200 words, including quotations but excluding references and bibliography. The
+syllabus warns that work significantly over or under this guidance may be disadvantaged.
+
+**How is Component 5 marked?**
+Your teacher marks each assignment out of 25 against the syllabus criteria, and Cambridge moderates a
+sample. The component is worth 25 marks and 25% of the qualification.
+
+**Can both assignments be on set texts?**
+No. The assignments must be on different texts, and only one of them may be on a text set for Papers
+1, 2 and 3.
+
 
 ## Check your understanding
 

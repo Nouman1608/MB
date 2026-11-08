@@ -13,13 +13,16 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "storage-devices-and-media"
     subtopic: "storage-devices-0417"
+  - qualification: "igcse"
+    topic: "storage-devices-and-media"
+    subtopic: "storage-media-0417"
 description: "Condensed recall notes on the device/media distinction and magnetic, optical and solid-state storage for Cambridge IGCSE ICT 0417, Topic 3."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -78,3 +81,17 @@ A common error is assuming a higher-capacity option is automatically the right r
 6. A photographer needs shock-resistant storage inside a moving camera. Which storage technology is most suitable, and why?
 
 **Answers:** 1. A storage device is the hardware that reads/writes data (e.g. a DVD drive); storage media is the physical material data is recorded onto (e.g. a DVD disc). 2. Magnetic, optical, solid-state. 3. Its very low cost per gigabyte at very large capacities makes the trade-off of slower, sequential access acceptable for long-term archival storage rather than day-to-day access. 4. Its read-only or write-once variants guarantee data cannot be altered after writing. 5. CD, DVD, Blu-ray. 6. Solid-state (e.g. an SD memory card) — it has no moving parts, giving it resistance to shock and vibration that magnetic or optical technology cannot match.
+
+## Frequently asked questions
+
+**What is the difference between a storage device and a storage medium?**
+A storage device is the hardware that reads and writes data, such as a DVD drive or an SSD unit. The storage medium is the physical material the data is recorded on, such as a DVD disc or a memory card.
+
+**What are the three storage technology families in IGCSE ICT?**
+Cambridge IGCSE ICT 0417 Topic 3 covers magnetic, optical and solid-state storage, for both devices and media. Examples are magnetic hard drives and tape, CD, DVD and Blu-ray discs, and SSDs, pen drives and SD, xD and CFast memory cards.
+
+**Why is magnetic tape still used for backup?**
+Magnetic tape has a very low cost per gigabyte at very large capacities. Its sequential access makes retrieving one file slow, but that is acceptable for long-term archives that are rarely accessed.
+
+**Why is solid-state storage used in cameras and portable devices?**
+Solid-state storage has no moving parts, so it resists damage from shock and vibration, and memory cards are compact and removable. It costs more per gigabyte than magnetic storage.

@@ -275,6 +275,20 @@ A good evaluation names one assumption, says whether it is reasonable, and says 
 - Stopping the labelling as soon as the destination gets a label, rather than when it is finished.
 - Following an arc backwards in a directed network.
 
+## Frequently asked questions
+
+**What does the command term "trace" mean?**
+To trace an algorithm means to follow it and record what happens at each step, usually in a trace table with a row for each pass.
+
+**How do you analyse an algorithm?**
+Ask four questions: does it stop, is it correct (test it on a case where you know the answer), how many steps does it need, and when does it fail, for example with 0, negative numbers or a very large list.
+
+**What is linear programming?**
+Linear programming finds the largest or smallest value of an objective function while several constraints, written as inequalities, must all be satisfied. The best value occurs at a corner of the feasible region.
+
+**When do you use a dashed line for an inequality graph?**
+Draw a solid line when the boundary is included (≤ or ≥) and a dashed line when it is not (< or >). Then use a test point such as the origin to decide which side satisfies the inequality.
+
 ## Where to go next
 
 Try the practice questions, then condense the unit with the revision notes (both linked at the top). For the course as a whole, read the [syllabus guide](/resources/ib-myp-mathematics-syllabus-guide/).

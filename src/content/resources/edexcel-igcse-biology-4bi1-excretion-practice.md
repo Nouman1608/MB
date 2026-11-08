@@ -164,6 +164,20 @@ Learn the content first with the [excretion study guide](/resources/edexcel-igcs
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which part of Edexcel International GCSE Biology 4BI1 do these questions cover?**
+They cover sub-topic 2(i), Excretion: waste gases in plants, organs of excretion, the urinary system, the nephron and ADH.
+
+**Is urine an excretory product?**
+Name the substance, such as urea, when asked for an excretory product. Answering "urine" loses marks.
+
+**How should you describe what ADH does?**
+Say that ADH changes the permeability of the collecting duct, not that ADH itself "reabsorbs water".
+
+**Are many of these questions Paper 2 only?**
+Yes. Most of the kidney questions are marked "Paper 2 only", because that content is examined only on Paper 2.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1) specification, Issue 3 (first assessment June 2019), published by Pearson Education Limited. These questions cover Topic 2, sub-topic (i) Excretion, points 2.70–2.79B.

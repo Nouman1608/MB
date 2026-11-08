@@ -128,6 +128,20 @@ These questions cover section 1.3, Business objectives, of the IB *Business mana
 - Try the [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these business objectives practice questions cover?**
+They cover section 1.3 of the IB DP Business Management guide (first assessment 2024), for SL and HL: vision and mission statements, common objectives such as growth, profit, shareholder value and ethics, strategic and tactical objectives, and CSR.
+
+**Is a mission statement an objective?**
+No. Vision and mission statements give direction, while objectives are specific, often measurable targets. Calling either statement an objective is a common error.
+
+**What is a common mistake in profit margin questions?**
+Calculating the change in profit when the question asks for the profit margin, or the reverse. Show the formula and working for any percentage.
+
+**How should you answer an evaluate question on CSR?**
+Say who benefits and how, weigh the costs against the benefits for the business in the case, remember the time frame, and decide which matters more.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. This page covers section 1.3, Business objectives.

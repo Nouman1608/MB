@@ -14,11 +14,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-structure-bonding-organic-chemistry-ych11"
     subtopic: "atomic-structure-and-the-periodic-table-ych11"
-description: "Original exam-style practice questions with full worked answers on subatomic particles, isotopes and mass spectrometry calculations for Pearson Edexcel International A-Level Chemistry (YCH11), outcomes 2.1-2.7."
+description: "Original practice questions with worked answers for Pearson Edexcel International A Level Chemistry YCH11 on subatomic particles, isotopes and mass spectra."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-04
 featured: false
 ---
@@ -88,3 +88,17 @@ Related: [Atomic Structure and Mass Spectrometry study guide](/resources/a-level
 Always set out the relative-atomic-mass calculation as an explicit weighted sum divided by 100, rather than jumping straight to a final number — examiners award method marks for showing (mass × abundance) terms even if an arithmetic slip changes the final answer. For diatomic mass spectrum questions, work out the full set of isotope combinations first (there are always three for a two-isotope diatomic element), then use combination probability, not intuition, to rank the peak heights. When asked to identify a compound from a single m/z value, resist the urge to state one formula with confidence — the specification explicitly tests whether you recognise that relative molecular mass alone is insufficient without further evidence.
 
 Before starting any subatomic-particle question, write out the atomic number and mass number as two separate labelled values first, since most errors come from mixing the two up under time pressure rather than from a genuine misunderstanding of what each represents. For ion questions specifically, decide the sign of the charge before adjusting the electron count — a common slip is adding electrons for a positive ion or removing them for a negative one, which is the opposite of the correct rule. Treat every isotopic-abundance calculation as a two-step process worth checking independently: first confirm the abundances sum to 100%, then confirm the final relative atomic mass falls between the lowest and highest isotope masses given, since a result outside that range always signals an arithmetic error.
+
+## Frequently asked questions
+
+**How do you calculate relative atomic mass from isotope abundances?**
+Multiply each isotope's mass by its percentage abundance, add the results and divide by 100. Using a simple unweighted average is the most common error in Edexcel International A Level Chemistry YCH11 questions.
+
+**How many molecular ion peaks does Cl₂ show in a mass spectrum?**
+Cl₂ shows three molecular ion peaks, at masses 70, 72 and 74, from the combinations ³⁵Cl–³⁵Cl, ³⁵Cl–³⁷Cl and ³⁷Cl–³⁷Cl. The peaks are not equal in height; their sizes follow the combination probabilities.
+
+**Does a molecular ion peak identify a compound on its own?**
+No. Several molecular formulae can share the same relative molecular mass, so other evidence such as fragmentation or context is needed to tell them apart.
+
+**How do you work out the number of electrons in an ion?**
+Start from the atomic number, which equals the number of electrons in the neutral atom, then add electrons for a negative charge or remove them for a positive charge. Forgetting this adjustment is a common mistake.

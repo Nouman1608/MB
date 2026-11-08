@@ -226,6 +226,20 @@ Before you build the disposal account, make sure the depreciation charged up to 
 - Describing depreciation as "putting money aside" or "the asset's market value".
 - Giving one cause of depreciation when the question asks for two.
 
+## Frequently asked questions
+
+**What are the causes of depreciation?**
+The usual causes are wear and tear from physical use, obsolescence when better equipment appears, the passage of time, as with a lease, and inadequacy or a change in demand. When a question asks for two causes, give two.
+
+**How is depreciation recorded using a provision for depreciation account?**
+Each year debit the depreciation expense account and credit the provision for depreciation account with the charge, then transfer the expense to the income statement. The asset account stays at cost, and the provision balance is carried down and brought down.
+
+**What is carrying value?**
+Carrying value is the cost of a non-current asset less accumulated depreciation to date. The Edexcel IGCSE glossary uses this term in place of net book value.
+
+**Why is depreciation charged?**
+Depreciation spreads the cost of a non-current asset across the years that benefit from it, so profit is not distorted by one large purchase. This follows the accruals concept.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 2, Introduction to bookkeeping, sections 2.4 and 2.5 (and the matching Depreciation points in Topic 5).

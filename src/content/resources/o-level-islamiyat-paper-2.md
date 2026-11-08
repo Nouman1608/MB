@@ -12,11 +12,17 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-2058"
-description: "Cambridge O Level Islamiyat 2058 (2026-2027 series), Paper 2: the major teachings and history of the Hadiths, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam. Identical structure to Cambridge IGCSE Islamiyat 0493."
+  - qualification: "o-level"
+    topic: "paper-2-2058"
+    subtopic: "history-importance-hadiths-2058"
+  - qualification: "o-level"
+    topic: "paper-2-2058"
+    subtopic: "rightly-guided-caliphs-2058"
+description: "Paper 2 of Cambridge O Level Islamiyat 2058 (2026-2027): the teachings and history of the Hadiths, the Rightly Guided Caliphs, and Articles and Pillars."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-01
 featured: false
 ---
@@ -154,3 +160,14 @@ feels more familiar than the historical sub-topics.
   Faith.
 - Name and explain the practice and significance of each of the five
   Pillars of Islam.
+
+## Frequently asked questions
+
+**How is 2058 Paper 2 structured?**
+Paper 2 lasts 1 hour 30 minutes and is worth 50 marks (50%). It has five questions: Questions 1 and 2 are compulsory and you choose two of Questions 3 to 5. Question 1 is worth 8 marks (4 + 4) and each other answered question 14 marks (10 + 4).
+
+**Does 2058 match IGCSE 0493?**
+Yes. The O Level and IGCSE syllabuses for 2026–2027 share the same four-topic structure for each paper.
+
+**How should Paper 2 be revised?**
+Evenly across all four topics, because Questions 1 and 2 are compulsory and the other questions give limited choice.

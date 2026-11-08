@@ -307,6 +307,23 @@ Both totals are **£367,900**. If yours differ, check that every adjustment appe
 - Listing debentures repayable in several years' time as a current liability.
 - Copying the trial balance share capital into the opening balance when shares were issued during the year.
 
+## Frequently asked questions
+
+**What are the three parts of equity in a limited company?**
+For AQA 7127 section 3.7, equity is made up of ordinary share capital at nominal value, share premium (the amount received above nominal value on a share issue) and retained earnings (profits after tax kept in the company, less dividends paid).
+
+**How do you record a share issue at a premium?**
+Debit bank with the number of shares × issue price, credit share capital with the number of shares × nominal value, and credit share premium with the number of shares × premium per share.
+
+**What are the three levels of profit in a company income statement?**
+Below gross profit, the income statement shows profit from operations, then profit for the year before tax after deducting finance costs, then profit for the year after tax.
+
+**Are preference shares examined in AQA A-Level Accounting 7127 section 3.7?**
+No. The specification notes that preference shares and general reserves will not be examined in this section.
+
+**How much debenture interest should be charged in the income statement?**
+Charge the full year's debenture interest as a finance cost, whether or not it has all been paid. Any unpaid interest is shown in other payables under current liabilities.
+
 Next, test yourself with the [revision notes](/resources/aqa-a-level-accounting-limited-company-accounts-revision-notes/) and then the [practice questions](/resources/aqa-a-level-accounting-limited-company-accounts-practice/). The [exam preparation guide](/resources/aqa-a-level-accounting-exam-preparation/) explains the paper structure.
 
 ## Official syllabus

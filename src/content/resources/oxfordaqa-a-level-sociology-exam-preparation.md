@@ -9,13 +9,13 @@ qualifications: ["a-level"]
 syllabusCodes: ["9690"]
 syllabusSeries: "Version 1.1 -- new specification: first teaching September 2026, first AS exams May/June 2027, first A-level exams May/June 2028"
 order: 3
-description: "How to prepare for OxfordAQA International A-Level Sociology 9690's five equally-weighted units from the specification and the Unit 1 specimen question paper and mark scheme, plus a worked evaluation-paragraph routine."
+description: "Exam preparation for OxfordAQA International A-level Sociology (9690): five equally weighted units, using the Unit 1 specimen, and an evaluation routine."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-09
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 OxfordAQA International A-Level Sociology (9690) is a brand-new specification: first teaching from
@@ -114,6 +114,20 @@ weighted 20% each, so no unit can be deprioritised relative to the others. 3. Bo
 substantive topic (Families; Socialisation and Social Control) with Research Methods content, making it
 a single cumulative thread across both papers. 4. A strong criticism is specific to the named study's own
 method, sample or assumptions, rather than a generic point that could be raised against almost any study.
+
+## Frequently asked questions
+
+**How many units are in OxfordAQA International A-level Sociology 9690?**
+There are five units, each worth 20% of the A-level: AS Units 1 and 2 (1 hour 45 minutes, 60 marks each) and A-level Units 3, 4 and 5 (1.5 hours, 50 marks each).
+
+**When are the first OxfordAQA 9690 Sociology exams?**
+First teaching is from September 2026, with first AS exams in May/June 2027 and first A-level exams in May/June 2028.
+
+**Are there past papers for OxfordAQA 9690 Sociology?**
+Not yet. OxfordAQA's qualification page links a specimen question paper and mark scheme for Unit 1 (9690/01) only, so preparation for the other units is built from the specification.
+
+**Which topics are in each 9690 unit?**
+Unit 1 covers Families with Research Methods, Unit 2 Socialisation and Social Control with Research Methods, Unit 3 People and Development, Unit 4 People and the Environment, and Unit 5 People and Technology.
 
 *Written against the assessment section of OxfordAQA's own International AS/A-level Sociology (9690)
 qualification page, explicitly titled as a new specification (official OxfordAQA page, verified

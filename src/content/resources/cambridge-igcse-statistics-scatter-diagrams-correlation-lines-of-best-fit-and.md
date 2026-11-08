@@ -211,6 +211,20 @@ Likewise, the drinks line gives y = 5 × 5 − 30 = −5 at 5 °C. Sales cannot 
 
 Condense this unit with the [revision notes](/resources/cambridge-igcse-statistics-scatter-diagrams-correlation-lines-of-best-fit-and-revision-notes/), then try the [practice questions](/resources/cambridge-igcse-statistics-scatter-diagrams-correlation-lines-of-best-fit-and-practice/). To check your overall readiness, take the [free 10-minute diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is the difference between interpolation and extrapolation?**
+Interpolation is estimating inside the range of the data; extrapolation is estimating outside it. Interpolation is generally more trustworthy, because the pattern is only known within the range of the data.
+
+**Does correlation prove causation?**
+No. Correlation shows an association between two variables, but it does not prove that one causes the other.
+
+**Which variable goes on the x-axis?**
+The independent variable usually goes on the x-axis and the dependent variable on the y-axis. Label both axes.
+
+**What does Topic 11 of Cambridge IGCSE Statistics cover?**
+Topic 11, Bivariate distributions, covers independent and dependent variables, correlation, scatter diagrams, lines of best fit by eye and by semi-averages, y = mx + c, estimation and the assumptions behind it.
+
 ## Official syllabus
 
 Cambridge IGCSE Statistics 0479 syllabus for examination in 2027, Topic 11 Bivariate distributions, published by Cambridge University Press & Assessment (Cambridge International).

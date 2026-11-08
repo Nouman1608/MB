@@ -12,13 +12,13 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "people-in-business-cambridge-igcse-business"
-description: "Original exam-style practice questions with full worked answers on motivation, organisation and management, recruitment and training, and communication, for Cambridge IGCSE Business Studies (0450) Topic 2 People in Business."
+description: "Original practice questions with worked answers on motivation, organisation, recruitment, training and communication for Cambridge IGCSE Business Studies 0450."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -132,3 +132,17 @@ definition of the underlying concept alone. The study guide identifies "recommen
 skill tested repeatedly across this topic's four sub-topics, so practising this applied structure
 across motivation, leadership, recruitment and communication questions alike is more valuable than
 revising each sub-topic's definitions in isolation.
+
+## Frequently asked questions
+
+**Are these Cambridge IGCSE Business Studies 0450 past paper questions?**
+No. They are original questions written for Marlbridge on Topic 2 People in business, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers available free from your board.
+
+**What does this practice set cover?**
+It covers the four parts of 0450 Topic 2: motivating employees, organisation and management, recruitment, selection and training, and internal and external communication.
+
+**How do you score well on "recommend and justify" questions in People in business?**
+Justify your recommendation with a specific detail given in the scenario, such as the stated priority, the type of workforce or the nature of a crisis. A definition of the underlying concept on its own does not earn the application marks.
+
+**Should you revise People in business definitions or applied answers?**
+Both, but practising the applied structure across motivation, leadership, recruitment and communication questions is more valuable than revising each sub-topic's definitions in isolation, because "recommend and justify" is tested repeatedly across the topic.

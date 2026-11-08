@@ -25,9 +25,9 @@ syllabusTopics:
     subtopic: "as-the-reactions-of-chlorine"
 description: "Original exam-style practice questions with full worked answers on halogen reactivity, displacement, disproportionation and halide tests for AS Chemistry."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -112,7 +112,7 @@ The chloride precipitate **dissolves in dilute ammonia** [1]; the bromide dissol
 
 ## Where marks are usually lost
 
-- Saying volatility and reactivity trend in the same direction.
+- Explaining the fall in volatility and the fall in reactivity with the same reason: volatility depends on intermolecular forces, reactivity on how strongly the atom attracts an electron.
 - Explaining volatility by "bigger molecules" rather than number of electrons.
 - Forgetting to acidify before adding silver nitrate.
 - Not giving both oxidation state changes when justifying disproportionation.
@@ -135,3 +135,17 @@ more reactive halogen higher up the group oxidises, and therefore
 displaces, a less reactive halide ion lower down. For the full reaction
 schemes, including the hot-versus-cold sodium hydroxide comparison, see the
 [Group 17: The Halogens revision notes](/resources/as-chem-group17-revision-notes/).
+
+## Frequently asked questions
+
+**Are these Group 17 questions original or from Cambridge past papers?**
+They are original exam-style questions with full worked answers, written for practice on the halogens in Cambridge International AS & A Level Chemistry 9701.
+
+**Do volatility and reactivity change in the same direction down Group 17?**
+Both decrease down the group, but for different reasons. Volatility decreases because molecules have more electrons and stronger instantaneous dipole forces, while reactivity decreases because the halogen atom attracts an incoming electron less strongly.
+
+**Why is dilute nitric acid added before silver nitrate in the halide test?**
+Acidifying with dilute nitric acid removes other ions, such as carbonate, that could also give a precipitate with silver nitrate. Forgetting to acidify is a common way to lose marks.
+
+**How do you justify that a reaction is disproportionation?**
+Show that the same element is both oxidised and reduced, giving both oxidation state changes. For chlorine with sodium hydroxide, chlorine goes from 0 to −1 in chloride and to a positive oxidation state in the other product.

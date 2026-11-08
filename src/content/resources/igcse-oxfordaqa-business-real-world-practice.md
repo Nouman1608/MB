@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "business-in-the-real-world-oxfordaqa-igcse-business"
-description: "Original exam-style practice questions with full worked answers on business ownership, objectives, stakeholders, location, business planning, growth and average unit costs, plus related Topic 2 (economic climate, legislation, ethics) and Finance questions."
+description: "Original practice questions with worked answers on ownership, aims, stakeholders, location, planning, growth and unit cost for OxfordAQA IGCSE Business 9225."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -35,21 +35,7 @@ featured: false
 
 Related: [Business in the Real World revision notes](/resources/igcse-oxfordaqa-business-real-world-revision-notes/)
 
-**Scope note:** re-summed by topic, questions 1, 2, 7 and 8 (21 marks)
-test this file's own named topic (Topic 1, sub-topics 3.1.1/3.1.2/3.1.7);
-questions 3, 4 and 6 (26 marks) test Topic 2 Influences on Business
-content (globalisation, the economic climate, legislation, ethics),
-duplicating that topic's own practice file; and question 5 (8 marks)
-tests sources of finance from the Finance section. The finance question
-is not strictly off-specification — 9225's ownership sub-topic requires
-analysing legal structures including by sources of finance available,
-and the specification stresses the integrated, cross-topic nature of
-business — but this remains a balance issue: four of Topic 1's seven
-sub-topics (aims and objectives, stakeholders, location, and business
-planning) previously received no marks at all. Section C below adds
-coverage of those four sub-topics to rebalance the paper toward its
-named topic, and question 14 sets the topic's named calculation,
-average unit costs (3.1.7 Expanding a business).
+Questions 3, 4 and 6 draw on Topic 2 (Influences on business) and question 5 on sources of finance, because the specification stresses that business topics are integrated. Section C covers aims and objectives, stakeholders, location and business planning, and question 14 sets the topic's named calculation, average unit costs (3.1.7 Expanding a business).
 
 ---
 
@@ -152,3 +138,20 @@ average unit costs (3.1.7 Expanding a business).
 - Not acknowledging the commercial cost of ethical behaviour.
 - Describing a franchise's benefits without linking them to reduced risk for a first-time owner.
 - Treating internal and external growth as differing only in speed, without addressing integration risk.
+
+## Frequently asked questions
+
+**Do these practice questions match the real OxfordAQA 9225 papers?**
+No. The Section A, B and C labels are organisational only. Each real 9225 paper lasts 2 hours for 90 marks, with Section A worth 15 marks of multiple-choice and short-answer questions and Sections B and C worth about 40 and 35 marks, each built around a case study or data-response stimulus.
+
+**Why do some Business in the Real World questions test other topics?**
+The 9225 specification stresses the integrated, cross-topic nature of business, and its ownership sub-topic includes analysing legal structures by the sources of finance available. Some questions here also test Topic 2 Influences on Business content.
+
+**How do you gain marks on questions about external factors?**
+Apply each factor to the specific business in the question, such as a clothing retailer, rather than describing the factor in general terms.
+
+**What do examiners expect when you name sources of finance?**
+Give a drawback for each source you name. Naming sources without a drawback is a common way to lose marks.
+
+**How should an answer on business ethics handle profit?**
+Acknowledge the commercial cost of ethical behaviour as well as its benefits, then reach a reasoned judgement for the business described.

@@ -12,11 +12,29 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "water-0680"
-description: "The water cycle, water sources and supply, water pollution, water-related diseases and marine aquaculture -- Topic 3 of Cambridge IGCSE Environmental Management (0680), the 2027-2029 series."
+  - qualification: "igcse"
+    topic: "water-0680"
+    subtopic: "water-sources-and-supply-0680"
+  - qualification: "igcse"
+    topic: "water-0680"
+    subtopic: "water-pollution-0680"
+  - qualification: "igcse"
+    topic: "water-0680"
+    subtopic: "water-related-diseases-0680"
+  - qualification: "igcse"
+    topic: "water-0680"
+    subtopic: "marine-aquaculture-0680"
+  - qualification: "igcse"
+    topic: "water-0680"
+    subtopic: "oil-pollution-0680"
+  - qualification: "igcse"
+    topic: "water-0680"
+    subtopic: "plastic-pollution-0680"
+description: "The water cycle, water supply, pollution, water-related diseases, marine aquaculture, and oil and plastic pollution: Topic 3 of Cambridge IGCSE 0680, 2027-2029."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -208,6 +226,23 @@ specifically for desalination and multipurpose dams, since these two
 sub-topics are the most frequently examined evaluative questions in
 Topic 3, but do not neglect oil and plastic pollution on the assumption
 that the topic ends at marine aquaculture.
+
+## Frequently asked questions
+
+**What is the difference between bioaccumulation and biomagnification?**
+Bioaccumulation is a toxin building up within a single organism over time. Biomagnification is that concentration increasing further as it passes up a food chain from prey to predator.
+
+**What are the stages of water treatment in 0680?**
+The syllabus lists screening, sedimentation, filtration and chlorination.
+
+**What size are microplastics?**
+Microplastics are defined as plastic pieces less than 5mm in length, formed when larger plastics break down.
+
+**Are bioplastics always biodegradable?**
+No. Bioplastics are made fully or partly from biological raw materials, but they can be biodegradable or not; being made from biological material does not automatically mean a plastic biodegrades.
+
+**How do malaria and cholera control strategies differ?**
+Malaria is vector-borne, spread by mosquitoes, so it is controlled by personal protection and vector control. Cholera is waterborne, so it is controlled by sanitation, safe water treatment and vaccination.
 
 ## Related resources
 

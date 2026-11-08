@@ -321,6 +321,23 @@ costing and variance analysis, which is International A-level only.
 - Leaving drawings out of the bank balance, or treating them as an expense.
 - Losing the bracket on an overdrawn balance carried into the next month.
 
+## Frequently asked questions
+
+**What is a budget?**
+A budget sets out, in money or in units, what a business intends to happen over a future period. Budgetary control compares actual results with the budget so that differences can be investigated.
+
+**Why is the sales budget usually prepared first?**
+Demand normally limits everything else the business can do, so the other budgets are built from it. Its weakness is that it is the hardest forecast to get right, and every other budget inherits its errors.
+
+**How do you calculate the purchases budget for materials?**
+Purchases (units) = materials used in production + closing materials inventory − opening materials inventory. Materials usage must be based on production units, not sales units.
+
+**When is a budget variance favourable or adverse?**
+A difference that raises profit compared with the budget is favourable, and one that reduces profit is adverse. The causes of significant differences are then investigated and acted on.
+
+**Why can a budget show a profit but only a small rise in cash?**
+Profit includes credit sales and expenses when earned or incurred, while cash only moves when money is received or paid. Growing receivables and inventory, and drawings, all use cash without reducing profit.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International

@@ -333,6 +333,20 @@ The key decision is which powers of 10 to use. Their indices differ by the lengt
 - Using different units in "one number as a fraction of another".
 - In recurring-decimal proofs, subtracting two multiples whose recurring parts do not line up, such as 100x − x for 0.58̇.
 
+## Frequently asked questions
+
+**How do you order fractions with different denominators?**
+Rewrite them all over a common denominator, such as the lowest common multiple of the denominators, and compare the numerators; converting each to a decimal also works. Give the final order using the original fractions, not the converted ones.
+
+**How do you multiply mixed numbers?**
+Convert them to improper fractions, cancel any common factors, then multiply the numerators and the denominators: 2 1/4 × 1 3/5 = 9/4 × 8/5 = 18/5 = 3 3/5. Never multiply the whole numbers and fraction parts separately.
+
+**How do you write one quantity as a fraction of another?**
+Write "part over whole" with both quantities in the same units, then simplify. For example, 40 minutes as a fraction of 2½ hours is 40/150 = 4/15.
+
+**What is the reciprocal of a fraction?**
+The reciprocal of a/b is b/a, because (a/b) × (b/a) = 1. Multiplying by a unit fraction such as 1/5 has the same effect as dividing by 5, and dividing by 2/5 is the same as multiplying by 5/2.
+
 ## Next steps
 
 Test your recall with the [fractions and decimals revision notes](/resources/edexcel-igcse-maths-4ma1-fractions-and-decimals-revision-notes/), then try the [fractions and decimals practice questions](/resources/edexcel-igcse-maths-4ma1-fractions-and-decimals-practice/). For the rest of Topic 1, use the [Numbers and the number system revision notes](/resources/edexcel-igcse-mathematics-number-revision-notes/) and the [Numbers and the number system practice questions](/resources/edexcel-igcse-mathematics-number-practice/).

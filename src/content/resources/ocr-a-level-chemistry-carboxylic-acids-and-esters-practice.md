@@ -183,6 +183,20 @@ The student starts with 4.64 g of hexanoic acid. Step 1 has a yield of 80.0% and
 - Printable checklist: [OCR A Level Chemistry checklist](/checklists/ocr/a-level/chemistry/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry carboxylic acids and esters questions from past papers?**
+No. They are original practice questions with marked worked answers on section 6.1.3 of OCR A Level Chemistry A (H432).
+
+**What is the second product when an acid anhydride or acyl chloride makes an ester?**
+An acid anhydride gives a carboxylic acid and an acyl chloride gives HCl as the second product. Writing water as the by-product is a common error.
+
+**What is the product of alkaline hydrolysis of an ester?**
+Alkaline hydrolysis gives the carboxylate salt, such as sodium propanoate, and an alcohol, not the free carboxylic acid.
+
+**How many ammonia or amine molecules react with one acyl chloride?**
+Two: one reacts to form the amide and the second, acting as a base, takes up the HCl formed.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 6.1.3 Carboxylic acids and esters, learning outcomes (a) to (f). Published by OCR.

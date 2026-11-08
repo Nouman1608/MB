@@ -137,6 +137,20 @@ Related pages: the [course hub](/boards/ib/ib-dp/physics/) and the [printable ch
 - Take any of the [free 10-minute diagnostics](/diagnostics/) to find your next topic.
 - [Book a free trial class](/trial/) if you would like help from a teacher.
 
+## Frequently asked questions
+
+**Are these IB DP Physics entropy questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Are these entropy and heat engine questions for SL or HL?**
+Every question is HL only, because all of sub-topic B.4, Thermodynamics, is additional higher level.
+
+**What constants do these questions use?**
+Use k_B = 1.38 × 10⁻²³ J K⁻¹ and 0 °C = 273.15 K. Latent heats are supplied as data in the questions that need them.
+
+**What slips lose marks in entropy calculations?**
+Common slips are using °C instead of kelvin, using log base 10 instead of the natural logarithm in S = k_B ln Ω, and leaving out the unit J K⁻¹ on ΔS.
+
 ## Official syllabus
 
 IB *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. This resource follows the second half of sub-topic B.4, Thermodynamics, which is entirely additional higher level.

@@ -205,6 +205,20 @@ Worked reminder: Marrick Dairy (invented) wants to sell its premium yoghurt, pri
 - Listing benefits of competitive advantage without saying why it might not last.
 - Using the same example in both an Ansoff and a Porter answer without linking them.
 
+## Frequently asked questions
+
+**What are the four Ansoff directions?**
+Market penetration, market development, new product development and diversification. Diversification, with a new product in a new market, is usually the highest risk.
+
+**What is the difference between strategic direction and strategic positioning?**
+Direction is where a business competes: which markets and which products, analysed with Ansoff's matrix. Positioning is how it competes on benefits and price, analysed with Porter's strategies and Bowman's clock.
+
+**What does "stuck in the middle" mean in Porter's strategies?**
+A business that is stuck in the middle has neither the lowest costs nor a clear difference from rivals, so it has no competitive advantage.
+
+**Which positions on Bowman's strategic clock are unsustainable?**
+Positions 6, 7 and 8 are generally seen as unsustainable because they combine a higher price with low benefits, so customers receive poor value.
+
 ## Official syllabus
 
 AQA AS and A-level Business specification (7131 and 7132), section 3.8 Choosing strategic direction (A-level only).

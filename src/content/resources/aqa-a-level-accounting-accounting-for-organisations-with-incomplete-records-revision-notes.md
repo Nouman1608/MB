@@ -245,6 +245,20 @@ A good evaluation links the choice to the business: size, credit trading, staff,
 - Not labelling a balancing figure, so the method is hard to credit if the answer is wrong.
 - Writing generic evaluation of single entry that is not linked to the business in the question.
 
+## Frequently asked questions
+
+**Which section of AQA A-Level Accounting 7127 covers incomplete records?**
+Section 3.14 Accounting for organisations with incomplete records covers statements of affairs, the capital method of finding profit, total accounts, mark-up and margin, and finding missing figures.
+
+**How do you calculate inventory lost in a fire or theft?**
+Find cost of sales from sales using the mark-up or margin, then expected closing inventory = opening inventory + purchases − cost of sales. The loss is expected closing inventory less any inventory saved, and goods taken by the owner must be deducted first.
+
+**Why are drawings added back when finding profit from capital?**
+Drawings reduced capital without being an expense, so they are added back. Capital introduced raised capital without being profit, so it is subtracted.
+
+**What are common mistakes in incomplete records questions?**
+Common errors include leaving drawings out of the capital method, applying a mark-up percentage to sales as if it were a margin, and using closing inventory instead of average inventory in the inventory turnover ratio.
+
 ## Official syllabus
 
 AQA, A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams from June 2019 onwards: section 3.14, Accounting for organisations with incomplete records.

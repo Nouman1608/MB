@@ -149,6 +149,23 @@ These questions cover OCR GCSE (9-1) Physics A (Gateway Science), J249, Version 
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which part of the OCR GCSE Physics A specification do these energy resources questions cover?**
+They cover OCR GCSE (9-1) Physics A (J249) statements P8.2a, P8.2b and P8.2g to P8.2j: energy resources, trends in their use, the mains supply, and the live, neutral and earth wires. All the questions are suitable for both Foundation and Higher tier.
+
+**How do I explain why an energy resource is renewable?**
+Link it to replacement: a renewable resource is replaced as fast as it is used, or is never used up. Saying it is cheap, clean or natural does not explain why it is renewable.
+
+**What is the difference between percentage change and share in a data question?**
+For percentage change, divide the change by the starting value and multiply by 100. For a share of the total, divide one value by the total for that year. Show the total you used so your method is visible.
+
+**How should I answer a "compare" question about two energy resources?**
+Make each point about both resources, for example how reliable each one is or where each can be used. Listing facts about one resource and then the other, with no link between them, gains fewer marks.
+
+**What are common mistakes with mains electricity questions?**
+Mixing up the jobs of the neutral and earth wires, writing "current" where "potential difference" is meant, and forgetting to convert a time base from milliseconds to seconds before using f = 1 ÷ T. Saying a switch in the neutral wire is safe is also a frequent error.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Physics A (Gateway Science) specification (J249), Version 5.0 (July 2026), for first assessment in 2018, published by OCR.

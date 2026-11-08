@@ -12,13 +12,22 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-research-methods-identity-inequality-0495"
+  - qualification: "igcse"
+    topic: "paper-1-research-methods-identity-inequality-0495"
+    subtopic: "kq-1-3-0495"
+  - qualification: "igcse"
+    topic: "paper-1-research-methods-identity-inequality-0495"
+    subtopic: "kq-2-1-0495"
+  - qualification: "igcse"
+    topic: "paper-1-research-methods-identity-inequality-0495"
+    subtopic: "kq-3-1-0495"
 description: "Original exam-style practice questions with full worked answers on research methods, sampling, social class, gender and ethnic inequality."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -104,3 +113,20 @@ Answer this question **or** Question 2, not both.
 - Explaining the gender pay gap solely through discrimination.
 - Treating all minority ethnic groups as having identical outcomes.
 - Attempting both Question 2 and Question 3 instead of choosing one.
+
+## Frequently asked questions
+
+**What should you check when defining research terms?**
+Make sure each definition states precisely what the term is. In Cambridge IGCSE Sociology (0495) Paper 1, a loose or wrong definition of a basic research term, such as a hypothesis, loses easy marks.
+
+**Do you answer both Question 2 and Question 3 on IGCSE Sociology Paper 1?**
+No. Question 1 on research methods is compulsory, and you then choose either Question 2 (Identity) or Question 3 (Inequality).
+
+**Why does the type of interview matter in a methods answer?**
+Structured and unstructured interviews have different strengths, so when a question names structured interviews, give the advantages of that type rather than of interviews in general.
+
+**Can you explain the gender pay gap through discrimination alone?**
+Explaining it solely through discrimination is a common way to lose marks; a strong answer considers more than one explanation.
+
+**Do all minority ethnic groups have the same outcomes?**
+No. Outcomes differ between groups, so avoid treating all minority ethnic groups as identical and give specific explanations.

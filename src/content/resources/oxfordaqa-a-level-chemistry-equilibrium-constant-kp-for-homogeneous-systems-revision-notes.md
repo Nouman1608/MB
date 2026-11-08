@@ -233,6 +233,20 @@ Kp = p(NO)^2 x p(O2) / p(NO2)^2
 - Saying Kp changes with pressure, or that a catalyst increases the equilibrium yield.
 - Explaining a temperature change without naming the endothermic or exothermic direction.
 
+## Frequently asked questions
+
+**What is the difference between Kp and Kc?**
+Kp is written using partial pressures, p(X), while Kc uses concentrations, [X], in mol dm⁻³. Writing square brackets inside a Kp expression is a common slip.
+
+**How do you convert Kp from kPa to Pa?**
+Since 1 kPa = 1000 Pa, multiply the Kp value by 1000 raised to the power Δn. For example, with Δn = −2, a Kp of 3.30 × 10⁻⁵ kPa⁻² becomes 3.30 × 10⁻¹¹ Pa⁻².
+
+**How can you tell if a reaction is exothermic from how Kp changes?**
+If Kp gets larger when the temperature rises, the forward reaction is endothermic. If Kp gets smaller on heating, the forward reaction is exothermic.
+
+**Does a catalyst change Kp?**
+No. A catalyst changes how quickly equilibrium is reached, not where it lies, so the equilibrium partial pressures and the value of Kp are unchanged.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for

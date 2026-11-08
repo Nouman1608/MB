@@ -145,6 +145,20 @@ This set covers sections 1.1 (Business activity) and 1.2 (Economic sectors) of t
 - Take the [free diagnostics](/diagnostics/) to compare topics.
 - [Book a free trial class](/trial/) for help with weaker topics.
 
+## Frequently asked questions
+
+**What are common mistakes on business activity and sectors questions in IGCSE Business 0264?**
+Students often write "money" for capital, include rent and wages in the cost of bought-in inputs when finding added value, give added value per unit when a monthly total is asked for, and mix up the primary, secondary and tertiary classification with private and public. Evaluating one side only also loses marks.
+
+**How do you find the opportunity cost of a choice?**
+Identify the options, pick the one chosen, then name the benefit of the next best alternative given up. Only that one alternative counts, not every option rejected and not the money spent on the choice.
+
+**Which sections of the Cambridge IGCSE Business 0264 syllabus do these questions cover?**
+They cover section 1.1 (Business activity) and section 1.2 (Economic sectors), including factors of production, added value, opportunity cost and the primary, secondary, tertiary, private and public sectors.
+
+**Can an organization belong to two sectors at once?**
+Yes. Every organization has a sector by type of activity (primary, secondary or tertiary) and a sector by ownership (private or public), so a state-run railway is tertiary and public.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education), sections 1.1 Business activity and 1.2 Economic sectors.

@@ -9,13 +9,13 @@ qualifications: ["a-level"]
 syllabusCodes: ["YMA01"]
 syllabusSeries: "Specification Issue 3, April 2019"
 order: 3
-description: "The five valid applied unit pairings for Edexcel IAL Mathematics YMA01, why every unit is worth exactly the same, and a worked routine for protecting method marks across 75-mark papers."
+description: "The five valid applied unit pairs for Edexcel IAL Mathematics YMA01, why every unit carries equal weight, and a routine for protecting method marks on a paper."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 Edexcel International A Level Mathematics (YMA01) is modular and unusually flexible. Every unit is an
@@ -122,6 +122,23 @@ second unit builds on the first, while the other three are breadth routes across
 cumulative: P2 assumes P1, P3 assumes both and P4 assumes all three, so an algebraic weakness reappears
 on every later paper. 4. Because method marks are awarded only for method that is visible, so an
 unwritten mental calculation earns nothing if the final answer is wrong.
+
+## Frequently asked questions
+
+**How many papers are there in Edexcel IAL Mathematics?**
+There are six papers: the four compulsory Pure Mathematics units P1, P2, P3 and P4 plus one pair of applied units. Each is a 1 hour 30 minute written paper worth 75 marks and 16.67% of the full IAL.
+
+**Which applied unit combinations are allowed in Edexcel IAL Maths YMA01?**
+Only five pairs are valid: M1+S1, M1+D1, M1+M2, S1+D1 and S1+S2. Confirm which pair your centre has entered you for before revising applied content.
+
+**Are the Edexcel IAL pure units cumulative?**
+Yes. P2 assumes P1, P3 assumes both and P4 assumes all three, so a weakness in early algebra reappears on every later paper.
+
+**How long should you spend per mark in an Edexcel IAL Maths paper?**
+With 75 marks in 1 hour 30 minutes, budget about 1.2 minutes per mark and bank time early.
+
+**Do you get method marks in Edexcel IAL Maths if the answer is wrong?**
+Yes. Marks are available for correct method independently of the final answer, but only when the method is written down.
 
 *Written against the Pearson Edexcel International Advanced Level Mathematics specification (official
 specification PDF, Issue 3, April 2019, verified 2026-08-28); the valid applied pairings are as listed

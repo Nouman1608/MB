@@ -268,6 +268,20 @@ With only two readings, for example V = 1.40 V at 0.20 A and V = 1.10 V at 0.80 
 
 Use the [revision notes](/resources/aqa-a-level-physics-electricity-revision-notes/), then the [practice questions](/resources/aqa-a-level-physics-electricity-practice/). See the [exam preparation guide](/resources/aqa-a-level-physics-exam-preparation/) and the free [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**Why does the resistance of a filament lamp increase?**
+A larger current heats the filament, so the metal ions vibrate more and the charge carriers collide with them more often, which increases the resistance. Explanations need the whole chain from current to temperature to resistance.
+
+**How do you measure resistivity in AQA Required practical 5?**
+Measure the wire's diameter with a micrometer at several points, find R = V/I for a range of lengths, and plot R against L. The gradient is ρ/A, so the resistivity is the gradient multiplied by the cross-sectional area.
+
+**Should you use R = V/I or the gradient of an I-V graph?**
+Always use R = V/I at the point concerned. On a curved I-V graph the gradient is not the resistance.
+
+**What is not required in AQA 7408 Electricity?**
+The AQA specification does not require the potentiometer as a measuring instrument, positive temperature coefficient thermistors, or the critical magnetic field of a superconductor.
+
 ## Official syllabus
 
 AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.5 Electricity.

@@ -17,11 +17,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-intertextuality"
 description: "Condensed IB DP Language A: Literature notes on course concepts, critical lenses and five tests for evaluating interpretations, with a self-test."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 For full explanations and the worked reading of Blake's "London", use the
@@ -214,6 +214,20 @@ Go back to the [study guide](/resources/ib-dp-language-a-literature-literary-con
 for the full method, or read [Readers, writers and texts](/resources/ib-dp-language-a-literature-readers-writers-texts/)
 and [Intertextuality](/resources/ib-dp-language-a-literature-intertextuality/) for the areas of
 exploration this unit supports.
+
+## Frequently asked questions
+
+**What is the difference between a concept and a theme?**
+A concept is a question you can bring to any text, such as perspective or culture. A theme is what one particular text is about, such as exile or loss.
+
+**What are the five tests for evaluating an interpretation?**
+Evidence, coverage, coherence, context and counter-reading. An unusual reading is not wrong, but a reading that fails these tests is weak.
+
+**Can you call a writer a Marxist or a feminist writer?**
+Avoid it. The lens belongs to the reader, not the writer, so write "a Marxist reading suggests" rather than "this is a Marxist poem". Blake, for example, wrote "London" in 1794, before Marx was born.
+
+**What is the difference between perspective in the text and perspective on the text?**
+Perspective in the text is the narrator's or speaker's point of view inside the work. A critical perspective on the text is the frame a reader brings to it.
 
 ## Official syllabus
 

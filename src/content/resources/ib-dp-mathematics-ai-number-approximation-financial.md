@@ -37,11 +37,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-1-8"
 description: "IB DP Maths AI study guide to standard form, sequences, compound interest, logarithms, rounding errors, loans, annuities and GDC equation solving."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 This study guide teaches the number, approximation, sequences and financial mathematics unit of IB Diploma Programme Mathematics: Applications and Interpretation from scratch. It is aligned to the IB *Mathematics: applications and interpretation guide*, first assessment 2021, syllabus sections 1.1 to 1.8, which are common content for SL and HL. It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 sessions.
@@ -319,6 +319,20 @@ Write the system down before quoting the solution.
 ## Next steps
 
 Go to the [revision notes](/resources/ib-dp-mathematics-ai-number-approximation-financial-revision-notes/) for a one-page recap, then try the [practice questions](/resources/ib-dp-mathematics-ai-number-approximation-financial-practice/). Related: [geometry and trigonometry](/resources/ib-dp-mathematics-ai-geometry-trigonometry/), [statistics and probability](/resources/ib-dp-mathematics-ai-statistics-probability/), the [AI syllabus guide](/resources/ib-dp-mathematics-applications-and-interpretation-syllabus-guide/) and [AI exam preparation](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/).
+
+## Frequently asked questions
+
+**Do you get full marks for a correct answer with no working in IB Maths AI?**
+Not necessarily. The IB guide says full marks are not necessarily awarded for a correct answer with no working, so write down your method even when the GDC does the calculation.
+
+**Which term uses rⁿ⁻¹ in a geometric sequence?**
+The nth term is uₙ = u₁rⁿ⁻¹, so year 8 of a salary uses r⁷, not r⁸. Counting from the wrong starting point is a common error.
+
+**How do you estimate the common difference from real data that is nearly arithmetic?**
+Use the first and last values: d ≈ (last − first)/(number of terms − 1). Predictions made further beyond the data are less reliable.
+
+**Is simple interest an arithmetic or geometric sequence?**
+Simple interest is arithmetic, because the same amount of interest is added each year. Compound interest is geometric growth, because the value is multiplied by the same factor each period.
 
 ## Official syllabus
 

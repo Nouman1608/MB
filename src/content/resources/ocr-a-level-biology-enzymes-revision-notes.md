@@ -14,13 +14,13 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "foundations-in-biology-ocr-alevel-biology"
     subtopic: "enzymes-ocr-alevel-biology"
-description: "Condensed revision notes on enzyme action, factors affecting rate, Q₁₀, cofactors, coenzymes, inhibitors and the PAG4 enzyme practicals for OCR A Level Biology A (H420) 2.1.4."
+description: "Revision notes on enzyme action, rate factors, Q₁₀, cofactors, coenzymes, inhibitors and PAG4 enzyme practicals for OCR A Level Biology A (H420), section 2.1.4."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-05
+reviewStatus: "review-pending"
 publishedDate: 2026-11-05
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-11-05."
 ---
 
 These notes condense learning outcomes 2.1.4(a) to (f) of the OCR A Level Biology A specification (H420, Version 4.1, April 2026, first assessment 2025), including the PAG4 practical work on rates of enzyme-controlled reactions. The course sits on the [OCR A Level Biology hub](/boards/ocr/a-level/biology/); tick off outcomes on the [printable checklist](/checklists/ocr/a-level/biology/). Protein structure, which underpins everything here, is in the [proteins revision notes](/resources/ocr-a-level-biology-proteins-inorganic-ions-and-biochemical-tests-revision-notes/), and industrial use of enzymes returns in the [immobilised enzymes revision notes](/resources/ocr-a-level-biology-microorganisms-in-biotechnology-and-immobilised-enzymes-revision-notes/). Practical technique is summarised in the [practical endorsement revision notes](/resources/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques-revision-notes/), and the [free diagnostics](/diagnostics/) show gaps quickly.
@@ -231,6 +231,23 @@ The switch from lock and key to induced fit is an example of a model being revis
 * Stating that a non-competitive inhibitor binds to the active site.
 * Measuring a mean rate over the whole reaction instead of the initial rate.
 * Forgetting to equilibrate solutions at the test temperature before mixing.
+
+## Frequently asked questions
+
+**Why should you not say an enzyme is "killed" at high temperature?**
+Enzymes are proteins, not living things, so they cannot be killed. Above the optimum, increased vibration breaks bonds holding the tertiary structure, the active site changes shape and is no longer complementary to the substrate, and the enzyme is denatured.
+
+**How do you calculate Q₁₀ correctly?**
+Divide the rate at the higher temperature by the rate at the temperature 10 °C lower. Q₁₀ is a ratio, so it has no units, and dividing the lower rate by the higher one is a common error.
+
+**What is the difference between a competitive and a non-competitive inhibitor?**
+A competitive inhibitor has a shape similar to the substrate and binds to the active site, competing with the substrate. A non-competitive inhibitor binds elsewhere on the enzyme, changing the shape of the active site, so it does not bind to the active site itself.
+
+**Why is the initial rate measured in enzyme practicals?**
+The initial rate is taken at the start, before substrate is used up and the reaction slows, so it gives a fair comparison between conditions. Using a mean rate over the whole reaction is a common way to lose marks in PAG4 questions.
+
+**What should you say when a rate graph levels off?**
+Explain that a factor other than the one on the x-axis is now limiting; when substrate concentration is no longer limiting, it is because all the active sites are occupied. Describing the plateau without naming the limiting factor does not earn the mark.
 
 ## Official syllabus
 

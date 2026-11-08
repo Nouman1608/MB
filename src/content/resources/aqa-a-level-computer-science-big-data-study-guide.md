@@ -12,11 +12,11 @@ order: 11
 syllabusTopics:
   - qualification: "a-level"
     topic: "big-data"
-description: "The characteristics of big data, why relational databases struggle with it, fact-based and graph models, and parallel processing with functional methods for AQA A Level Computer Science."
+description: "AQA A Level Computer Science 7517 Big Data study guide: the three Vs, lack of structure, fact-based models, graph schema and functional programming for scale."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check whether the specification lists veracity alongside volume, velocity and variety, and how far it expects fact-based and graph schema modelling to go."
+reviewNote: "Check whether the specification lists veracity alongside volume, velocity and variety, and how far it expects fact-based and graph schema modelling to go. 2026-11-08 recheck: checked against spec v1.6 4.11.1 (exactly three Vs; veracity removed); added lack-of-structure point and the three named functional features; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -29,12 +29,15 @@ Big Data is section 4.11 of AQA 7517 and is assessed on Paper 2. It draws on [Fu
 
 ## What makes data big
 
-Big data is usually described by a set of characteristics, the "Vs":
+The AQA specification calls Big Data "a catch-all term for data that won't fit the usual containers" and describes it in terms of exactly three characteristics:
 
-- **Volume**: the sheer quantity of data, from terabytes to petabytes and beyond, which will not fit on one machine or cannot be searched in reasonable time on one.
-- **Velocity**: the speed at which data is generated and must be processed, such as card transactions or sensor readings arriving continuously.
-- **Variety**: the range of forms, including structured tables, text, images, audio, video and logs, which often do not fit rigid table layouts.
-- **Veracity**: the reliability and quality of the data, which may be incomplete, inconsistent or biased. Some sources list this as a fourth V, so know it as an extra point.
+- **Volume**: too big to fit into a single server.
+- **Velocity**: streaming data, where the system must respond in milliseconds to seconds, such as card transactions or sensor readings arriving continuously.
+- **Variety**: data in many forms, such as structured, unstructured, text and multimedia.
+
+Other textbooks add further "Vs" such as veracity or value, but these are not in the 7517 specification, so do not offer them in place of the three above.
+
+The specification stresses that although size gets the attention, the **most difficult aspect of Big Data is its lack of structure**. This makes analysing the data significantly more difficult, and means relational databases are not appropriate because they need data to fit a row-and-column format. **Machine learning** techniques are needed to discern patterns in the data and extract useful information. Data from networked sensors, smartphones, video surveillance and mouse clicks is continuously streamed.
 
 A good answer ties each term to the scenario, for example: "A weather service receives readings from thousands of stations every few seconds (velocity), in many formats (variety), adding up to terabytes (volume)."
 
@@ -63,7 +66,13 @@ Social networks, recommendation systems and route finding are typical uses. Foll
 
 ## Processing big data with functional methods
 
-Processing must be spread across many machines, which is **parallel** or **distributed** processing. Functional programming makes this practical because a **pure function** has no side effects and its result depends only on its inputs, so many copies can run at once on different parts of the data in any order without interfering. Two **higher-order functions** matter most: **map**, which applies a function to every item independently, and **reduce** (fold), which combines many items into one result. The pattern of mapping on many machines, then grouping results by key and reducing, is known as **MapReduce**.
+When data is too big to fit on one server, the specification says the **processing must be distributed across more than one machine**, and that **functional programming is a solution** because it makes it easier to write correct and efficient distributed code. The three features of functional languages the specification names are:
+
+- **Immutable data structures**: data is never changed in place, so machines working on copies of the data cannot corrupt each other's work.
+- **Statelessness**: a function's result depends only on its inputs, not on stored state, so the same function can run on many machines at once in any order and give correct results.
+- **Higher-order functions**: functions such as **map** (apply a function to every item independently), **filter** and **reduce** (fold, combine many items into one result) take other functions as arguments, so the same operation can be sent to every machine.
+
+These features make code easier to write **correctly** (no side effects to reason about) and easier to **distribute** across servers. The worked example below shows the idea; the map-then-reduce pattern is widely known as MapReduce, though the specification does not require that name.
 
 ### Worked example 1: counting events with map and reduce
 
@@ -97,13 +106,27 @@ Large data sets raise the questions from [Consequences of uses of computing](/re
 
 For "explain" questions, give the term, what it means and what it causes in the scenario. A **describe** question wants features; a **justify** question wants a reason that matches the scenario. Use the scenario's own figures and data types in your answer.
 
+## Frequently asked questions
+
+**How many Vs does AQA 7517 require?**
+Three: volume, velocity and variety. Veracity and value appear in some textbooks but are not in the specification.
+
+**What is the hardest aspect of Big Data according to AQA?**
+Its lack of structure. Unstructured data is hard to analyse and does not fit the row-and-column format a relational database needs, so machine learning is used to find patterns.
+
+**Which features of functional programming help with Big Data?**
+Immutable data structures, statelessness and higher-order functions. Together they make it easier to write correct code that can be distributed across more than one server.
+
+**What is a graph schema used for?**
+It captures the structure of a data set as nodes (entities), edges (relationships) and properties (attributes), which suits highly connected data such as social networks.
+
 ## Check your understanding
 
 1. State three characteristics of big data. *Answer: volume, velocity and variety.*
 2. Why might a relational database be unsuitable for big data? *Answer: a fixed schema and joins across many machines make it hard to scale out and to hold varied data.*
 3. What is a fact in a fact-based model? *Answer: a small, unchanging, timestamped statement about an entity.*
 4. In a graph schema, what do edges represent? *Answer: the relationships between nodes.*
-5. Why is a pure function useful for parallel processing? *Answer: no side effects, so copies can run at once in any order.*
+5. Why does statelessness help distributed processing? *Answer: results depend only on inputs, with no side effects, so copies can run at once on different machines in any order.*
 6. In worked example 1, how many pairs does the map step produce for "login fail" alone? *Answer: two, (login,1) and (fail,1).*
 7. How many readings per day does one sensor send if it reports every 5 seconds? *Answer: 86,400 / 5 = 17,280.*
 8. Give one privacy risk of big data. *Answer: combining data sets may identify individuals.*

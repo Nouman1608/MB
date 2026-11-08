@@ -120,6 +120,20 @@ These questions cover the monopoly statements in the market structures topic of 
 - Evaluating with a list of pros and cons and no final judgement.
 - Dropping the "may be" in efficiency answers when scale economies are large.
 
+## Frequently asked questions
+
+**How does a monopolist choose its output and price?**
+A profit-maximising monopolist produces where marginal revenue equals marginal cost, then reads the price from the demand (average revenue) curve at that output. Quoting the MC or MR value as the price is a common mistake.
+
+**What is a natural monopoly?**
+A natural monopoly exists when average cost keeps falling over the whole range of market output, so one firm can supply the market more cheaply than two or more firms. Answers should refer to falling average cost, not just to there being one firm.
+
+**How do you show supernormal profit on a monopoly diagram?**
+Supernormal profit is the area between price (average revenue) and average total cost at the profit-maximising output, multiplied by that output. Shading it between price and marginal cost is a common error.
+
+**Does monopoly always harm consumers?**
+Not necessarily. Monopoly can lead to higher prices and a deadweight loss, but where economies of scale are large a monopolist may have lower costs, and supernormal profit can fund innovation. A strong answer on OCR A Level Economics (H460) reaches a final judgement rather than listing pros and cons.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/ocr-a-level-economics-monopoly-natural-monopoly-and-price-discrimination-revision-notes/).

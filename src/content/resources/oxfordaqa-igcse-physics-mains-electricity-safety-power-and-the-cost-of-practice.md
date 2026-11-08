@@ -141,6 +141,20 @@ These questions cover sections 3.6.3 (Using electricity in the home) and 3.6.5 (
 - Try all [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these OxfordAQA International GCSE Physics past paper questions?**
+No. They are original practice questions on mains electricity, safety, power and the cost of electricity for OxfordAQA International GCSE Physics (9203). Use them alongside the official past papers.
+
+**How do you write times in hours for kWh calculations?**
+Use decimal hours. One hour 30 minutes is 1.5 h and 20 minutes is about 0.33 h; writing 1.5 h as 1 h 50 min is a common error.
+
+**What mistakes lose marks in electricity cost questions?**
+Answering in pence when pounds were asked for, or the reverse, and subtracting meter readings the wrong way round. Check the unit the question asks for before giving the final answer.
+
+**Which sections of the OxfordAQA 9203 specification do these questions cover?**
+They cover sections 3.6.3 (using electricity in the home) and 3.6.5 (transferring electrical energy) of OxfordAQA International GCSE Physics (9203). The qualification is untiered.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203). For exams May/June 2018 onwards. Sections 3.6.3 and 3.6.5. Published by OxfordAQA.

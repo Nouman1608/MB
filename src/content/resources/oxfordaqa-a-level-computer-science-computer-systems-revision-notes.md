@@ -191,6 +191,20 @@ How it is then used: a **virtual machine** interprets it, **or** a **just-in-tim
 - Saying "compiled code has no errors" -- it can still contain logic errors.
 - Describing the OS's hiding role vaguely ("makes it easier") without saying what is hidden (hardware complexity) and from whom (users and other software).
 
+## Frequently asked questions
+
+**Is a virus checker system software or application software?**
+A virus checker is a utility program, and utility programs are system software. Classifying utilities such as virus checkers or compression programs as application software is a common way to lose marks.
+
+**What are the four functions of an operating system in OxfordAQA 9645?**
+Section 3.6.2 lists scheduling, memory allocation, I/O device management and interrupt handling. In a "describe" question, explain what the OS does for each rather than just naming them.
+
+**Is virtual memory in the OxfordAQA A-level Computer Science specification?**
+Not in this topic. The 9645 specification excludes virtual memory here, so memory allocation answers should cover allocation of main memory only.
+
+**Why do some compilers produce bytecode?**
+The specification gives three reasons: bytecode is more portable than machine code, security checks can be performed on it before it runs, and it can use less memory than equivalent machine code. It is then interpreted by a virtual machine or converted to machine code by a just-in-time compiler.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.6 Computer systems.

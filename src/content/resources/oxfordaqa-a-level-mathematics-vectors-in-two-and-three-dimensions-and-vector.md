@@ -270,6 +270,20 @@ Show the equations you set up, the values of s and t, and the check in the unuse
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-mathematics-vectors-in-two-and-three-dimensions-and-vector-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-mathematics-vectors-in-two-and-three-dimensions-and-vector-revision-notes/) to recall the methods. Tick off the topic on the [checklist](/checklists/oxfordaqa/a-level/mathematics/) and see the [course hub](/boards/oxfordaqa/a-level/mathematics/).
 
+## Frequently asked questions
+
+**What are skew lines?**
+Skew lines are not parallel and never meet. They can exist only in three dimensions.
+
+**What is a position vector?**
+The position vector of a point A is the vector OA from the origin to A. It has the same components as the coordinates of A.
+
+**Can you use i, j, k notation in OxfordAQA 9660 vectors questions?**
+Yes. The specification says column vectors will be used in questions, but you may use i, j, k notation in your answers.
+
+**How do you write the line through two points in vector form?**
+Use a = OA as the point and b = AB as the direction, so r = OA + t(OB − OA).
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2 (International AS exams from May/June 2018, A-level from May/June 2019), published by OxfordAQA. This page covers section P2.10, first part (Unit P2, International A-level only).

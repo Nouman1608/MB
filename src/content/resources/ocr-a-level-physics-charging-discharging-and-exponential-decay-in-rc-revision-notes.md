@@ -221,6 +221,20 @@ The time for the value to halve is the same wherever you start. After n half-tim
 </figure>
 
 
+## Frequently asked questions
+
+**What does x₀ mean in the capacitor charging and discharging equations?**
+In the discharge equation x = x₀e^(−t/CR), x₀ is the starting value at t = 0. In the charging equation x = x₀(1 − e^(−t/CR)), x₀ is the final value, so Q₀ = CV₀ and V₀ is the supply p.d.
+
+**What is the half-time of a discharging capacitor?**
+The half-time is t½ = CR ln 2 = 0.693 CR. It is the same wherever you start on the decay curve, because an exponential decay falls by the same fraction in every equal time interval.
+
+**How do you get a straight-line graph for a charging capacitor?**
+The capacitor p.d. while charging does not give a straight ln graph. Plot ln of the current, of the resistor p.d., or of (V₀ − V_C) against time instead; the gradient is −1/CR.
+
+**Which part of the OCR H556 specification covers charging and discharging capacitors?**
+It is section 6.1.3 of OCR A Level Physics A (H556), statements 6.1.3(a) to (e). Capacitance, capacitor combinations and stored energy are in sections 6.1.1 and 6.1.2.
+
 ## Official syllabus
 
 This page is aligned to the OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), first assessment 2017, published by OCR, section 6.1.3.

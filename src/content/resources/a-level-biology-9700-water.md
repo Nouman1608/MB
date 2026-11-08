@@ -226,6 +226,23 @@ Each property gets its own hydrogen-bond reason and its own named role.
 - Printable checklist: [9700 checklist](/checklists/cambridge/a-level/biology/)
 - Check your gaps: [Free 9700 AS diagnostic](/practice/9700/diagnostic/as/)
 
+## Frequently asked questions
+
+**Why does glucose dissolve in water but a triglyceride does not?**
+Glucose has many –OH groups, so it is polar and forms hydrogen bonds with water. A triglyceride is non-polar, with hydrocarbon fatty acid chains, so it cannot form hydrogen bonds with water.
+
+**Why does water have a high specific heat capacity?**
+When water is heated, much of the energy is used to break hydrogen bonds before the molecules move faster, so a lot of energy is needed to raise its temperature.
+
+**Why does water have a high latent heat of vaporisation?**
+For a water molecule to escape as vapour, all the hydrogen bonds holding it to other molecules must break, which needs a lot of energy.
+
+**How does transpiration cool a plant?**
+Water evaporates from the cell walls of mesophyll cells inside the leaf, taking energy with it, so a lot of heat is lost for only a small loss of water.
+
+**What are the roles of water as a solvent in living organisms?**
+Water allows transport of dissolved substances, provides a medium for metabolic reactions in the cytoplasm and removes waste such as urea dissolved in urine. It also takes part in reactions such as hydrolysis.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment -- Topic 2, Biological molecules (section 2.4 Water).

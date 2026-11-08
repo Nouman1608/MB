@@ -300,6 +300,23 @@ Percentage change = (new - old) / old x 100. Fold change = larger / smaller. Whe
 - Describing herd immunity without saying it protects those not immune.
 - Answering a "risk" question about antibiotics with only the benefits.
 
+## Frequently asked questions
+
+**What is the difference between clonal selection and clonal expansion?**
+Clonal selection is when only the lymphocytes with receptors complementary to the antigen are activated. Clonal expansion is when the selected lymphocyte divides by mitosis to form a clone of identical cells.
+
+**What is a cytokine?**
+A cytokine is a signalling protein released by one cell to change the behaviour of another cell. Interleukins are cytokines released by T helper cells.
+
+**Why is the secondary immune response faster?**
+Memory cells made during the primary response are long-lived, so when the same antigen appears again they respond quickly, giving a faster and larger secondary response.
+
+**What is a plasma cell?**
+A plasma cell is a differentiated B cell that secretes antibodies specific to one antigen.
+
+**Which outcomes do these notes cover?**
+They cover OCR A Level Biology A (H420) learning outcomes 4.1.1(f) to (n), on specific immunity, vaccination, sources of medicines and antibiotics.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420) specification*, Version 4.1 (April 2026), first assessment 2025: learning outcomes 4.1.1(f) to 4.1.1(n).

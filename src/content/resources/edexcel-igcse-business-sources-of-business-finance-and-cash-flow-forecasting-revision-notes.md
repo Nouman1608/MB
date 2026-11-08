@@ -258,6 +258,20 @@ For a cash-flow question, show each line of working: totals first, then net cash
 - Saying a cash shortage means the business is making a loss.
 - Describing the numbers ("it falls") without a cause or a consequence.
 
+## Frequently asked questions
+
+**What are the internal sources of finance in Edexcel IGCSE Business?**
+The 4BS1 specification lists personal savings, retained profit and selling assets. They carry no interest, but the amounts available are limited.
+
+**What is the difference between net cash flow and closing balance?**
+Net cash flow is total cash inflows minus total cash outflows for the month, the change in cash. The closing balance is the opening balance plus net cash flow, the total cash held at the end of the month.
+
+**What is trade payables as a source of finance?**
+Suppliers deliver goods now and the business pays later, for example in 30 days. It is a free, short-term source of finance because the business holds on to its cash for longer.
+
+**How do you choose a suitable source of finance?**
+Match the finance to how long the need lasts: short-term needs suit an overdraft or trade payables, while long-term needs such as machinery suit loan capital, share capital or retained profit.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 3: Business finance, sections 3.1 "Business finance - sources" (3.1.1 to 3.1.3) and 3.2 "Cash flow forecasting" (3.2.1 to 3.2.2).

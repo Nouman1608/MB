@@ -229,6 +229,20 @@ Many developing countries now export more manufactures and trade more with each 
 - Missing the working in a calculation.
 - Ending an evaluation with no decision.
 
+## Frequently asked questions
+
+**What is a trading bloc in Edexcel IGCSE Economics?**
+A trading bloc is a group of countries that agree to reduce or remove trade barriers between themselves, while usually keeping barriers against non-members. The Pearson Edexcel International GCSE Economics (4EC1) specification covers blocs in statement 2.2.2 d).
+
+**What is the difference between a free-trade area and a customs union?**
+Both remove barriers between members. In a free-trade area each member sets its own tariffs on non-members, while a customs union has one common external tariff.
+
+**What is the difference between trade creation and trade diversion?**
+Trade creation happens when a high-cost home producer is replaced by a lower-cost partner in the bloc. Trade diversion happens when a lower-cost outsider is replaced by a higher-cost partner because the outsider still faces the external tariff.
+
+**What does the WTO do?**
+The World Trade Organization provides a forum for negotiating lower trade barriers, promotes equal treatment of members, settles disputes, may allow retaliation of equal value, monitors trade policies, supports developing countries and allows duties on dumped goods.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1), specification Issue 3, first teaching September 2017, published by Pearson Education Limited. Statements 2.2.2 d), e) and f).

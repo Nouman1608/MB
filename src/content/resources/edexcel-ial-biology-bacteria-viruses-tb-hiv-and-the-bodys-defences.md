@@ -225,6 +225,23 @@ This shows why the response takes days to reach full strength.
 - Saying interferon kills viruses. It makes neighbouring cells resistant.
 - Confusing antigens with antibodies, or plasma cells with memory cells.
 
+## Frequently asked questions
+
+**How does Mycobacterium tuberculosis cause disease?**
+Alveolar macrophages engulf the bacteria, but the bacteria resist digestion and survive inside them. The immune system walls off the infection in tubercles, and if immunity weakens the bacteria multiply and destroy lung tissue.
+
+**Why is TB a particular danger for people with HIV?**
+HIV destroys helper T cells, so the immune system is weakened and cannot keep TB infection walled off.
+
+**What are the body's barriers to infection?**
+The skin, stomach acid, skin and gut flora, and mucus and cilia in the airways.
+
+**What is the role of lysozyme?**
+Lysozyme is an enzyme in tears, saliva and mucus that hydrolyses bacterial cell walls. It does not digest viruses.
+
+**What causes inflammation?**
+Damaged cells and mast cells release histamine, which causes vasodilation and makes capillaries more permeable, so the area becomes red and swollen.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification Issue 2, published by Pearson Education Limited, Topic 6, statements 6.5 to 6.9.

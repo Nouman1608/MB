@@ -27,9 +27,9 @@ description: "IB DP ESS Topic 4 study guide: the water cycle, water security, fi
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
 ---
 
 This study guide teaches Topic 4, Water, of IB Diploma Programme Environmental Systems and Societies (ESS). It covers syllabus sections 4.1 to 4.4: water systems, water access, use and security, aquatic food production systems, and water pollution. Topic 4 is studied at both SL and HL; the IB recommends 12 teaching hours at SL and 25 at HL, so HL students study some topics in extra depth. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.
@@ -263,6 +263,23 @@ Level 1 deals with the cause and is usually cheapest in the long run. Level 3 tr
 ## Next steps
 
 Use the [Topic 4 revision notes](/resources/ib-dp-ess-water-systems-security-pollution-revision-notes/), then the [Topic 4 practice questions](/resources/ib-dp-ess-water-systems-security-pollution-practice/). For exam format, see the [ESS exam preparation guide](/resources/ib-dp-environmental-systems-and-societies-exam-preparation/) and the [ESS syllabus guide](/resources/ib-dp-environmental-systems-and-societies-syllabus-guide/).
+
+## Frequently asked questions
+
+**What is the difference between a transfer and a transformation in the water cycle?**
+Transformations change the state of water, such as evaporation, condensation and melting. Transfers move water without changing its state, such as infiltration, runoff and advection.
+
+**How does urbanisation affect the hydrological cycle?**
+Impermeable surfaces cut infiltration, so more water becomes fast surface runoff. This shortens lag time and raises flood peaks in rivers.
+
+**What is catch per unit effort and why does it matter?**
+Catch per unit effort is catch divided by fishing effort, and it is a better guide to stock health than total catch. A steady catch with falling CPUE usually means the stock is shrinking.
+
+**What is the feed conversion ratio in aquaculture?**
+The feed conversion ratio is the mass of feed divided by the increase in mass of the farmed animals. A lower FCR is better.
+
+**What are the three levels of water pollution management?**
+They are changing the human activity that produces the pollutant, controlling its release, and cleaning up and restoring. Changing the activity tackles the cause and is usually cheapest in the long run.
 
 ## Official syllabus
 

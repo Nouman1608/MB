@@ -221,6 +221,20 @@ You will not need to convert between kWh and J. Stay in kWh, kW and h, or in J, 
 - Answering a cost question in pence when pounds were asked for, or the reverse.
 - Subtracting meter readings the wrong way round.
 
+## Frequently asked questions
+
+**What is the difference between ac and dc?**
+Direct current flows in one direction only, as from a battery. Alternating current repeatedly reverses direction, as in the mains supply.
+
+**How do you measure peak potential difference on an oscilloscope trace?**
+Measure from the zero line to the top of a peak, not from trough to peak. Multiply the number of divisions by the volts per division setting.
+
+**What does the earth wire do?**
+The earth wire joins the metal case of an appliance to earth. If a fault makes the case live, the current is conducted away through the earth wire instead of through a person.
+
+**What is the useful energy transfer in a kettle?**
+A kettle transfers electrical energy to thermal energy. A fan motor transfers electrical energy to kinetic energy, and a phone charger transfers it to chemical energy stored in the battery.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203). For exams May/June 2018 onwards. Sections 3.6.3 and 3.6.5. Published by OxfordAQA.

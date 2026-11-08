@@ -226,6 +226,23 @@ Use the pattern claim, because, so, but, overall.
 - Describing the WTO as able to impose penalties on members.
 - Ending with a summary rather than a justified judgement.
 
+## Frequently asked questions
+
+**What are the stages of economic integration?**
+The stages are a free trade area (no internal barriers, separate external tariffs), a customs union (adds a common external tariff), a monetary union (adds a single currency and central bank) and an economic union (adds a single market and common policies). Each stage brings more gains and gives up more sovereignty.
+
+**Does a rising share of trade within a bloc prove trade diversion?**
+No. Diversion requires imports from cheaper outsiders to fall, so compare the volume of outside imports before and after the bloc forms rather than relying on the intra-bloc share.
+
+**What is a bound tariff?**
+A bound tariff is a ceiling that a WTO member has promised not to raise a tariff above. The rate actually applied can be lower than the bound rate.
+
+**What is most-favoured-nation treatment?**
+Under the WTO's most-favoured-nation principle, a trade concession given to one member must be given to all members. Trading blocs are a permitted exception.
+
+**What problems does a single interest rate cause in a monetary union?**
+With one nominal interest rate, members with high inflation face low or negative real interest rates while members with low inflation face higher real rates, so one rate fits some economies badly. Adjustment then needs flexible wages, labour mobility or fiscal transfers.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)*, Version 3.0 (June 2026), for first assessment in 2021: The global context, Trade policies and negotiations.

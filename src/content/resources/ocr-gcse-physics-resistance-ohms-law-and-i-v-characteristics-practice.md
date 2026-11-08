@@ -155,6 +155,23 @@ These questions are for OCR GCSE (9-1) Gateway Science Physics A (J249), Version
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these OCR GCSE Physics A resistance questions cover?**
+They cover statements P3.2c to P3.2h of OCR GCSE (9-1) Physics A (J249): current, potential difference and resistance, V = IR, constant and changing resistance, circuit design and I-V characteristics.
+
+**What should I convert before using V = IR?**
+Convert milliamperes to amperes and kilohms to ohms before substituting. Leaving mA or kΩ unconverted is one of the most common ways to lose the answer mark.
+
+**How do I find resistance from a curved I-V graph?**
+Read a pair of values, V and I, at one point and calculate R = V ÷ I. Using the gradient of the curve as the resistance is a common error.
+
+**Does V = IR work for a filament lamp or diode?**
+Yes. V = IR applies at every point, including for non-linear components; what changes is the value of R. Claiming it does not apply loses marks.
+
+**What should a method answer for a resistance experiment include?**
+Say what you change, what you measure, what you keep constant and how you repeat readings. Answers missing the controlled variables or repeats tend to lose marks.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), for first assessment in 2018, published by OCR.

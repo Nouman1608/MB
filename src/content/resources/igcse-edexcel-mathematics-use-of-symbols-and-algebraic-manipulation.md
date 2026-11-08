@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "equations-formulae-and-identities-edexcel-igcse-maths"
-description: "Fractional and negative indices, expanding and factorising, algebraic fractions and completing the square -- sub-topics 2.1-2.2 of Topic 2 Equations, Formulae and Identities, Pearson Edexcel International GCSE Mathematics (Specification A, 4MA1), Higher Tier."
+description: "Higher tier Edexcel IGCSE Maths 4MA1 sub-topics 2.1-2.2: fractional and negative indices, expanding, factorising, algebraic fractions and completing the square."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This guide covers **sub-topics 2.1 Use of Symbols and 2.2 Algebraic
@@ -218,6 +218,20 @@ Higher-tier candidates should expect these five points (2.2A-2.2E) to be assesse
   <figcaption>Rewrite over the common denominator, then combine numerators carefully.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**Is 4MA1 sub-topic 2.2 Algebraic manipulation Higher tier only?**
+The content covered here is Higher-tier specific: expanding three linear brackets, factorising quadratics such as 6x² − 5x − 6, algebraic fractions, completing the square and algebraic proof. Higher tier in Edexcel IGCSE Maths 4MA1 covers grades 9 to 4, with grade 3 allowed.
+
+**What do negative and zero powers mean?**
+A negative power means the reciprocal of the positive power, so x⁻ⁿ = 1/xⁿ, and a zero power equals 1 for any non-zero base. A fractional power represents a root: x^(1/n) is the nth root of x.
+
+**What is the best way to expand three brackets?**
+Multiply the first two brackets together fully and simplify, then multiply the result by the third bracket. Trying to expand all three at once is where arithmetic slips creep in.
+
+**When should you complete the square instead of factorising?**
+Factorise when the quadratic has clean integer roots; complete the square when it does not, or when you need the turning point, for example writing 2x² + 6x − 1 in the form a(x + b)² + c.
 
 ## Official syllabus
 

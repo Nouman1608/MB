@@ -27,11 +27,11 @@ syllabusTopics:
     subtopic: "plant-hormones-aqa-gcse-biology"
 description: "Study guide for AQA GCSE Biology 8461 topic 5: homeostasis, nerves, brain, eye, hormones, kidneys, the menstrual cycle and plant hormones."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide teaches topic 5, **Homeostasis and response** (sections 4.5.1–4.5.4), of the AQA GCSE Biology (8461) specification, for teaching from September 2016 and exams from 2018 onwards. The topic is examined on Paper 2 (1 hour 45 minutes, 100 marks, 50% of the GCSE), which is set at Foundation and Higher tier. Content the specification marks "(HT only)" is labelled **Higher tier only** here; everything else is for both tiers.
@@ -407,6 +407,23 @@ Investigate the effect of light or gravity on newly germinated seedlings; record
 - Saying auxin "moves towards the light"; it collects on the shaded side.
 
 Next, condense this with the [revision notes](/resources/aqa-gcse-biology-8461-homeostasis-and-response-revision-notes/), work through the [practice questions](/resources/aqa-gcse-biology-8461-homeostasis-and-response-practice/), or try the free [diagnostics](/diagnostics/).
+
+## Frequently asked questions
+
+**What is homeostasis?**
+Homeostasis is the regulation of the internal conditions of a cell or organism to maintain optimum conditions for function in response to internal and external changes.
+
+**What are the parts of a control system?**
+Receptors detect stimuli, coordination centres such as the brain, spinal cord and pancreas process the information, and effectors (muscles or glands) bring about responses.
+
+**How does the eye focus on a near object?**
+The ciliary muscles contract, the suspensory ligaments loosen and the lens becomes thicker, refracting light more strongly.
+
+**What is Required Practical 7 in AQA GCSE Biology?**
+It investigates the effect of a factor, such as caffeine or practice, on human reaction time, for example by measuring how far a dropped ruler falls before it is caught.
+
+**What is Required Practical 8?**
+It investigates the effect of light or gravity on the growth of newly germinated seedlings.
 
 ## Official syllabus
 

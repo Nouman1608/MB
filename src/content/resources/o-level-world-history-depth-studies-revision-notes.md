@@ -12,11 +12,11 @@ order: 3
 syllabusTopics:
   - qualification: "o-level"
     topic: "depth-studies-2147"
-description: "Condensed recall notes on the five Depth Studies, how Paper 1 Section B examines them, and the source-evaluation technique Paper 2 tests on the Core Content prescribed topic, for Cambridge O Level World History (2147)."
+description: "Revision notes on the five Cambridge O Level History 2147 Depth Studies, how Paper 1 Section B tests them, and the source skills Paper 2 tests on Core Content."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -80,3 +80,14 @@ Two sources describe the same 1917 event in Russia: one, a Bolshevik Party accou
 6. Give one reason two sources on the same event might genuinely differ.
 
 **Answers:** 1. The First World War (1914–18); Germany (1918–45); Russia (1905–41); The United States (1919–41); The Second World War (1939–c.1945). 2. Content, origin (who produced it, when, for what purpose), and its value or limitations as evidence for a specific question. 3. Because 1905 failed to remove the Tsar while 1917 succeeded — they have different causes and different outcomes, so treating them as one continuous revolution misses this distinction. 4. A clear line of cause and effect from the Weimar Republic's specific weaknesses (economic crises, political instability, the legacy of Versailles) through to the conditions that allowed the Nazi Party to gain power. 5. Because although connected (e.g. events in Europe affecting Japan's strategic calculations), the two theatres have distinct causes, courses and actors that should each be known specifically, not blended into one narrative. 6. Different authors, audiences, or purposes behind each source's creation.
+
+## Frequently asked questions
+
+**How many Depth Studies do I need?**
+At least one of the five; it is examined in Paper 1 Section B, where two questions are set on each Depth Study and you answer one.
+
+**Are Depth Studies examined on Paper 2?**
+No. Depth Studies are examined only in Paper 1 Section B; Paper 2's sources are always set on a prescribed Core Content topic.
+
+**What are the five Depth Studies?**
+The First World War 1914–18; Germany 1918–45; Russia 1905–41; the United States 1919–41; and the Second World War in Europe and the Asia-Pacific, 1939–c.1945.

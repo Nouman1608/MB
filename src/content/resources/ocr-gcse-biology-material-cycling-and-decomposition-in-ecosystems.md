@@ -223,6 +223,20 @@ A sample of 480 g loses three-eighths of its mass. The fraction remaining is 5/8
 - Mixing up aerobic and anaerobic, or forgetting that the terms are about oxygen.
 - Leaving out the unit (g per day) or confusing the percentage loss with the rate.
 
+## Frequently asked questions
+
+**What do decomposers do in an ecosystem?**
+Decomposers, mainly bacteria and fungi, secrete enzymes onto dead material and waste, absorb the small soluble molecules produced, and respire. This returns carbon to the air or water as carbon dioxide and mineral ions to the soil, where plant roots can absorb them.
+
+**Why does decomposition slow down above an optimum temperature?**
+Decomposers use enzymes, and above the optimum temperature those enzymes denature and many microorganisms are killed, so less material is broken down. At very low temperatures decay is also very slow.
+
+**What is the difference between aerobic and anaerobic decay?**
+Aerobic decay happens with oxygen and anaerobic decay happens without it. Aerobic decay is faster; waterlogged soil, deep mud and tightly packed material have little oxygen, so decay there is anaerobic and slow.
+
+**Does OCR GCSE Biology A (J247) require the stages of the nitrogen cycle?**
+No. Statement B4.1a names nitrogen only as an example of a material that cycles and lists no stages for it, but you should know that microorganisms return nitrogen from dead organisms and waste to the soil.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), for first assessment in 2018, published by OCR: statements B4.1a to B4.1d and the associated mathematical learning outcomes BM4.1i to BM4.1v.

@@ -9,13 +9,13 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Environmental Systems and Societies"]
 syllabusSeries: "First assessment 2026"
 order: 2
-description: "The eight-topic syllabus structure, teaching hours at SL and HL, the three HL-only lenses, and the experimental programme of IB Diploma Programme Environmental Systems and Societies (ESS), for first assessment 2026."
+description: "The eight-topic syllabus, SL and HL teaching hours, the three HL-only lenses and the experimental programme of IB DP Environmental Systems and Societies (ESS)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: replaced the fieldwork/primary-data-only IA description with the 2026 brief's open-ended individual investigation and added Paper 1/Paper 2 structure, durations and SL/HL weights from the 2026 subject brief; please re-review; previously reviewed by azam-siddique on 2026-10-09."
 ---
 
 This guide covers the full syllabus structure of **IB Diploma Programme
@@ -114,8 +114,8 @@ Fifty hours, shared by SL and HL, split into three separately timed
 components: practical work (30 hours), the group-based collaborative
 sciences project (10 hours), and scientific investigation (10 hours).
 This underpins the internally assessed individual investigation, in
-which each student designs and carries out their own fieldwork-based
-enquiry, gathers primary data, and writes an evidence-based report
+which each student formulates their own research question, gathers
+and analyses data to answer it, and writes an evidence-based report
 capped at 3,000 words. The collaborative sciences project is not
 itself separately graded, so its main value to a student's final grade
 is the data-handling and investigative skills it builds for the
@@ -143,6 +143,23 @@ capped at 3,000 words, drafting a clear, testable research question
 early and checking it against the assessment criteria before
 collecting data saves far more marks than trying to rescue an
 unfocused question after the fact.
+
+## Frequently asked questions
+
+**How many topics are in the IB ESS syllabus?**
+The ESS syllabus for first assessment 2026 has eight numbered topics, from Topic 1 Foundations to Topic 8 Human populations and urban systems. HL students also study three HL-only lenses: environmental law, environmental and ecological economics, and environmental ethics.
+
+**What are the three concepts in IB ESS Topic 1?**
+Topic 1 Foundations is built on perspectives, systems and sustainability. These concepts are revisited throughout the course, so later topics expect you to apply them, not just recall content.
+
+**What is the ESS experimental programme?**
+It is 50 hours shared by SL and HL: 30 hours of practical work, 10 hours of the collaborative sciences project and 10 hours of scientific investigation. It underpins the internally assessed individual investigation.
+
+**Which IB ESS topics gain the most teaching hours at HL?**
+Topics 2 Ecology, 3 Biodiversity and conservation, 4 Water and 6 Atmosphere and climate change each gain 13 hours at HL. Topic 1 is 16 hours at both levels.
+
+**Is the ESS collaborative sciences project graded?**
+No. It is not separately graded, so its value is the data-handling and investigative skills it builds for the individual investigation.
 
 ## Official syllabus
 

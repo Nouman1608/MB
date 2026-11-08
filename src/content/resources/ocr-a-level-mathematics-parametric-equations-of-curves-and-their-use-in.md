@@ -264,6 +264,20 @@ After modelling a projectile or a wheel, you may be asked how realistic the mode
 - Rounding t early, then using the rounded value to find x.
 - Forgetting to reject a root outside the stated range of the parameter, such as a negative time.
 
+## Frequently asked questions
+
+**What is a parametric equation?**
+A parametric equation gives x and y separately as functions of a third variable, the parameter, such as x = f(t) and y = g(t). Each parameter value gives one point, and the curve has a direction of increasing parameter.
+
+**Can a parametric curve miss points of its Cartesian equation?**
+Yes. The Cartesian equation may describe more points than the parametric curve reaches. For example, x = 1/(t + 1) can never be 0, so a point on the Cartesian line is missing.
+
+**How do you write a line segment in parametric form?**
+From A to B, use x = x_A + t(x_B − x_A) and y = y_A + t(y_B − y_A) with 0 ≤ t ≤ 1.
+
+**How do you find the greatest height of a projectile given parametrically?**
+Treat y as a function of t, find the t-value of its maximum, for example by completing the square or the vertex of the quadratic, then substitute that t back into y.
+
 ## Next steps
 
 Check you can do each skill without notes, then use the [revision notes](/resources/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in-revision-notes/) to memorise the methods. The [practice questions](/resources/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in-practice/) have full worked answers. For the wider Pure Mathematics course, see [OCR A Level Mathematics: Pure Mathematics](/resources/ocr-a-level-mathematics-pure-mathematics/) and the [pure practice set](/resources/ocr-a-level-mathematics-pure-practice/). A [free 10-minute diagnostic](/diagnostics/) shows which topic to revise next.

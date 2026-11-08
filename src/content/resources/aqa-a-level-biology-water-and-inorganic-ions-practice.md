@@ -166,6 +166,20 @@ These questions cover sections 3.1.7 Water and 3.1.8 Inorganic ions of the AQA A
 - Check your gaps: [all free 10-minute diagnostics](/diagnostics/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**Which sections of the AQA specification do these questions cover?**
+They cover sections 3.1.7 (Water) and 3.1.8 (Inorganic ions) of AQA A-level Biology 7402.
+
+**Which unit errors are common in energy calculations?**
+Converting kJ to J or kg to g incorrectly. Check every unit before you calculate.
+
+**Should you use radius or diameter in a volume calculation?**
+Use the radius in πr²l. Using the diameter is a frequent mistake.
+
+**How should you answer a question about a property of water?**
+Link the property to a biological role. Quoting a property with no biological role does not earn full credit.
+
 ## Official syllabus
 
 AQA, AS and A-level Biology specification (7401 and 7402), first teaching 2015, sections 3.1.7 and 3.1.8.

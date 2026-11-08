@@ -268,6 +268,23 @@ Compare cyclic and non-cyclic: always give a similarity and differences, with bo
 </figure>
 
 
+## Frequently asked questions
+
+**What happens in non-cyclic photophosphorylation?**
+Light excites electrons in PSII, which pass down the electron transport chain, pumping H⁺ so ATP is made. PSI is excited and its electrons reduce NADP, and PSII is refilled by photolysis of water, releasing oxygen.
+
+**Why does cyclic photophosphorylation exist?**
+It makes extra ATP without extra reduced NADP, giving the right balance for the light-independent reactions.
+
+**What happens to GP and RuBP when the light is switched off?**
+GP rises and RuBP falls, because ATP and reduced NADP are no longer made to reduce GP and regenerate RuBP.
+
+**How do you calculate an Rf value?**
+Rf = distance from the origin to the middle of the spot ÷ distance from the origin to the solvent front. It has no units and is less than 1.
+
+**What is Core Practical 10 in Edexcel IAL Biology?**
+It investigates the rate of photosynthesis in an aquatic plant by measuring bubbles or gas volume per minute while varying a factor such as light intensity.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology (YBI11) specification, Issue 2, published by Pearson Education Limited.

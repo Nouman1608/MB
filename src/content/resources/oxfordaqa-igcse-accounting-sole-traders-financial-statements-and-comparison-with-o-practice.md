@@ -131,6 +131,20 @@ Statement of financial position: net book value 16,000 - 7,000 = 9,000 [1]. Curr
 - Try the [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How should you set out a sole trader's income statement in an exam?**
+Start with revenue, deduct cost of sales (opening inventory plus purchases less closing inventory) to find gross profit, then add other income and deduct expenses, adjusted for accruals and prepayments, to reach profit for the year. A clear heading with the business name and the period earns presentation marks.
+
+**How is the provision for doubtful debts treated in the income statement?**
+Only the increase or decrease in the provision is charged or credited to the income statement for the year. The full provision is deducted from trade receivables in the statement of financial position.
+
+**Why does each year-end adjustment affect two statements?**
+Every adjustment changes an income or expense figure in the income statement and creates or changes an asset or liability in the statement of financial position. For example, an expense owing is added to the expense and shown as a current liability.
+
+**How do you answer a question comparing business types for OxfordAQA 9215?**
+Match each advantage or disadvantage to the case in the question, such as limited liability for an owner who wants to protect personal assets or shared skills and capital for a partnership. Generic lists with no link to the scenario usually earn fewer marks than applied points.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), specification version 1.2, section 3.4, for exams from May/June 2026 onwards. Published by OxfordAQA.

@@ -227,6 +227,20 @@ histogram of the means, or find their range or standard deviation [1].
 - Comparing groups with no context or no measure of spread.
 - Treating one sample's result as a fact about the population.
 
+## Frequently asked questions
+
+**How should missing-value codes be treated when calculating statistics?**
+Remove them and reduce n before calculating the mean or standard deviation. Counting a code such as 0 meaning no response as a real value drags the mean down and distorts the spread.
+
+**How do you calculate standard deviation from Σx and Σx²?**
+Use σ² = Σx²/n − x̄², then take the square root. Forgetting to square the mean is a common slip that gives a very wrong answer.
+
+**How do you explain why a chart is misleading?**
+Say where the vertical axis starts and show, with figures, how that exaggerates the differences between bars. Saying the axis is wrong without detail earns little credit.
+
+**Should you remove an outlier from a data set?**
+Only if it is an error. A genuine extreme value belongs in the data, so keep it and use measures such as the median and IQR that are less affected by it.
+
 ## Next steps
 
 - Recap with the [Use of data revision notes](/resources/aqa-a-level-mathematics-use-of-data-in-statistics-revision-notes/).

@@ -111,7 +111,7 @@ These revision notes condense syllabus section 5.3 Limited companies from the Ca
 
 ## Worked reminder: statement of changes in equity
 
-Hartsholme Paints Ltd, year ended 31 March 2028. Opening: ordinary shares $80,000, 5% preference shares &#36;20,000, general reserve &#36;12,000, retained earnings &#36;18,500. During the year it issued 20,000 ordinary shares of &#36;1 at &#36;1, made a profit for the year of &#36;21,300, transferred &#36;3,000 to the general reserve, and paid the preference dividend and &#36;0.07 a share on all 100,000 ordinary shares.
+Hartsholme Paints Ltd, year ended 31 March 2028. Opening: ordinary shares $80,000, 5% preference shares $20,000, general reserve $12,000, retained earnings $18,500. During the year it issued 20,000 ordinary shares of $1 at $1, made a profit for the year of $21,300, transferred $3,000 to the general reserve, and paid the preference dividend and $0.07 a share on all 100,000 ordinary shares.
 
 ```
                           Ordinary  Preference General Retained   Total
@@ -127,7 +127,7 @@ Ordinary dividend paid                                   (7,000) (7,000)
 At 31 March 2028           100,000     20,000   15,000   28,800 163,800
 ```
 
-Dividends: 5% x $20,000 = &#36;1,000 and 100,000 x &#36;0.07 = &#36;7,000.
+Dividends: 5% x $20,000 = $1,000 and 100,000 x $0.07 = $7,000.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-limited-companies--01-lc-four-parts-of-equity.webp" width="900" height="990" alt="A stacked bar shows equity of 261,300 dollars made of ordinary share capital 150,000, preference share capital 40,000, general reserve 15,000 and retained earnings 56,300, each with a short meaning. A strip shows that moving 5,000 dollars from retained earnings to the general reserve leaves total equity unchanged." loading="lazy">
@@ -146,11 +146,11 @@ Suppose the accounts of a company leave out each item below. Each line is indepe
 
 | Item left out | Profit for the year | Equity | Statement of financial position |
 |---|---|---|---|
-| Electricity owing $900 | Overstated by &#36;900 | Overstated by &#36;900 | Other payables too low |
-| Depreciation $2,500 | Overstated by &#36;2,500 | Overstated by &#36;2,500 | Carrying value too high |
-| Insurance prepaid $400 | Understated by &#36;400 | Understated by &#36;400 | Other receivables too low |
-| Accrued debenture interest $1,000 | Overstated by &#36;1,000 | Overstated by &#36;1,000 | Other payables too low |
-| Transfer to general reserve $5,000 | No effect | No effect | Reserve and retained earnings wrong by &#36;5,000, total right |
+| Electricity owing $900 | Overstated by $900 | Overstated by $900 | Other payables too low |
+| Depreciation $2,500 | Overstated by $2,500 | Overstated by $2,500 | Carrying value too high |
+| Insurance prepaid $400 | Understated by $400 | Understated by $400 | Other receivables too low |
+| Accrued debenture interest $1,000 | Overstated by $1,000 | Overstated by $1,000 | Other payables too low |
+| Transfer to general reserve $5,000 | No effect | No effect | Reserve and retained earnings wrong by $5,000, total right |
 
 ## Adjustments in one glance
 
@@ -188,19 +188,19 @@ Suppose the accounts of a company leave out each item below. Each line is indepe
 ## Quick self-test
 
 1. What is the most a shareholder can lose if all their shares are fully paid?
-2. Assets are $96,000 and liabilities &#36;31,500. What is equity?
+2. Assets are $96,000 and liabilities $31,500. What is equity?
 3. Name the four parts of a limited company's capital structure.
-4. A company issues 90,000 ordinary shares of $0.50 and calls up &#36;0.30 a share. The holders of 2,000 shares have not paid. Find issued, called-up and paid-up capital.
+4. A company issues 90,000 ordinary shares of $0.50 and calls up $0.30 a share. The holders of 2,000 shares have not paid. Find issued, called-up and paid-up capital.
 5. Where does debenture interest appear in the statements?
-6. Profit from operations is $36,400. There are &#36;40,000 of 7% debentures, all interest paid. Find profit for the year.
+6. Profit from operations is $36,400. There are $40,000 of 7% debentures, all interest paid. Find profit for the year.
 7. What effect does a $4,000 transfer to the general reserve have on total equity?
 8. Debentures repayable in six years' time: which heading in the statement of financial position?
-9. Retained earnings start at $22,000. Profit for the year &#36;15,000, &#36;2,000 is transferred to the general reserve, preference dividend &#36;1,200, ordinary dividend &#36;6,000. Find closing retained earnings.
+9. Retained earnings start at $22,000. Profit for the year $15,000, $2,000 is transferred to the general reserve, preference dividend $1,200, ordinary dividend $6,000. Find closing retained earnings.
 10. Which statement shows the ordinary dividend?
 
 ### Answers
 
-1. The amount invested in the shares. 2. $96,000 - &#36;31,500 = &#36;64,500. 3. Preference share capital, ordinary share capital, general reserve, retained earnings. 4. Issued &#36;45,000; called-up &#36;27,000; paid-up &#36;27,000 - (2,000 x &#36;0.30) = &#36;26,400. 5. Finance costs in the statement of profit or loss, after profit from operations. 6. Interest &#36;2,800, so &#36;36,400 - &#36;2,800 = &#36;33,600. 7. None; it moves between reserves. 8. Non-current liabilities. 9. &#36;22,000 + &#36;15,000 - &#36;2,000 - &#36;1,200 - &#36;6,000 = &#36;27,800. 10. The statement of changes in equity.
+1. The amount invested in the shares. 2. $96,000 - $31,500 = $64,500. 3. Preference share capital, ordinary share capital, general reserve, retained earnings. 4. Issued $45,000; called-up $27,000; paid-up $27,000 - (2,000 x $0.30) = $26,400. 5. Finance costs in the statement of profit or loss, after profit from operations. 6. Interest $2,800, so $36,400 - $2,800 = $33,600. 7. None; it moves between reserves. 8. Non-current liabilities. 9. $22,000 + $15,000 - $2,000 - $1,200 - $6,000 = $27,800. 10. The statement of changes in equity.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-limited-companies--05-limited-liability.webp" width="900" height="770" alt="A failed company owes 70,000 dollars and its assets raise 30,000, a shortfall of 40,000. A fully paid shareholder loses only the 5,000 invested; a sole trader must find the 40,000 from private funds." loading="lazy">
@@ -227,6 +227,20 @@ Suppose the accounts of a company leave out each item below. Each line is indepe
 - Called-up and paid-up capital mixed up.
 - Statements that do not balance because an adjustment is used once instead of twice.
 - Evaluation answers that list advantages without linking them to the business described.
+
+## Frequently asked questions
+
+**What is equity in a limited company?**
+Equity is the shareholders' stake, equal to total assets minus total liabilities. It is made up of share capital and reserves, such as a general reserve and retained earnings.
+
+**What types of limited company are there?**
+A trading company buys and sells goods, a service company sells skills and has no cost of sales, a manufacturing company makes what it sells, and a combination does more than one of these. The type decides how the statement of profit or loss starts.
+
+**Which retained earnings figure goes in the statement of financial position?**
+Use the closing retained earnings from the statement of changes in equity, after profit, transfers and dividends. Using the opening figure is a common error.
+
+**Why might the statement of financial position not balance?**
+A common cause is using an adjustment only once instead of twice, for example including an accrual in an expense but leaving it out of other payables. Each adjustment affects both statements.
 
 ## Official syllabus
 

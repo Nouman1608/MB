@@ -193,6 +193,20 @@ These questions cover sections 3.2.2 and 3.2.3 of the OxfordAQA International GC
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are the most common mistakes in efficiency questions?**
+Dividing input by output instead of useful output by total input, and giving an efficiency above 1 or 100%. Efficiency is always less than 1 because some energy is always dissipated.
+
+**Can you say energy is "lost" or "used up"?**
+Avoid both phrases. Say the energy is dissipated to the surroundings, usually as thermal energy, because energy cannot be created or destroyed.
+
+**Do renewable energy sources have no environmental impact?**
+No. Every energy source has some environmental impact. For example, solar panels have a cost in manufacture and disposal, and wave devices may disturb marine life and shipping.
+
+**Which sections of the OxfordAQA International GCSE Physics (9203) specification do these questions cover?**
+They cover sections 3.2.2 (energy transfers, conservation and dissipation) and 3.2.3 (energy resources) of OxfordAQA International GCSE Physics (9203), which is untiered.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203) specification, Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.2.2 and 3.2.3.

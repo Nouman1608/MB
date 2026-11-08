@@ -242,6 +242,23 @@ propylamine, with one carbon too few, and a mixture.
 - Writing the amide product with an extra H on N (RCONH₂R′).
 - Giving HCl as a free by-product when excess amine or ammonia is used.
 
+## Frequently asked questions
+
+**What is the order of base strength for ammonia and amines?**
+A primary aliphatic amine such as methylamine is the strongest base, ammonia is in the middle and a primary aromatic amine such as phenylamine is the weakest. The order depends on how available the nitrogen lone pair is for accepting a proton.
+
+**Why does reducing a nitrile give a purer amine than using ammonia?**
+Reducing a nitrile gives only the primary amine, whereas reacting a halogenoalkane with ammonia gives a mixture because the amine product can substitute further. Nitrile reduction also keeps the C≡N carbon, so the chain grows by one carbon.
+
+**How many [H] are needed to reduce a nitrile or a nitro compound?**
+Reducing a nitrile to a primary amine needs 4[H], and reducing nitrobenzene to phenylamine needs 6[H], forming 2H₂O. Using 2[H] for a nitrile or 4[H] for a nitro compound leaves the equation unbalanced.
+
+**What is a quaternary ammonium salt used for?**
+A quaternary ammonium salt, R₄N⁺X⁻, with one long hydrocarbon chain is used as a cationic surfactant. It forms when excess halogenoalkane is used, and the substitution stops there because N has no lone pair and no H.
+
+**What is the difference between an amine and an amide?**
+In an amine the nitrogen is bonded only to carbon and hydrogen atoms; in an amide the nitrogen is bonded to a C=O carbon. In AQA A-level Chemistry 7405, amides are made from amines or ammonia with acyl chlorides or acid anhydrides.
+
 ## Official syllabus
 
 AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level

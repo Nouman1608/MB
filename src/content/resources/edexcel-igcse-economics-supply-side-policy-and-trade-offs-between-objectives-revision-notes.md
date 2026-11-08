@@ -206,6 +206,20 @@ Percentage change in exports: (108 - 120) / 120 x 100 = -10%.
 - Listing policies without applying them to the country or context in the question.
 - Ending an evaluation answer with no judgement, or a judgement not supported by what came before.
 
+## Frequently asked questions
+
+**What is supply-side policy in Edexcel IGCSE Economics?**
+Supply-side policy is government action to raise the economy's productive capacity by improving the quantity, quality or efficiency of resources. In the Pearson Edexcel International GCSE Economics (4EC1) specification it is section 2.1.2 c, and the trade-offs between objectives are section 2.1.3 a.
+
+**What is the difference between supply-side and demand-side policy?**
+Supply-side policy increases the economy's ability to produce. Fiscal and monetary policy used to change total spending act mainly on demand.
+
+**Which supply-side policies help structural unemployment?**
+Education and training and regional policy help structural unemployment, because they tackle a lack of the right skills or jobs in a particular area. Cyclical unemployment is helped more by higher demand.
+
+**Why do trade-offs between objectives happen?**
+A policy that boosts spending usually creates jobs and growth, but it can push prices up and worsen the current account. Improving one objective can therefore make another worse, especially in the short run.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1) Specification, Issue 3, February 2026, first teaching September 2017, Pearson Education Limited. Sections 2.1.2 c and 2.1.3 a.

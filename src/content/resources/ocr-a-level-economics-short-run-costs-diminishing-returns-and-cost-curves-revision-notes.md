@@ -239,6 +239,20 @@ Always finish with a view: the law matters most to firms with large fixed capaci
 - Confusing diminishing returns with diseconomies of scale.
 - Not showing the formula or the working in a calculation.
 
+## Frequently asked questions
+
+**What is the law of diminishing returns?**
+The law states that, with some inputs fixed, adding more of a variable input eventually raises output by less and less for each extra unit.
+
+**In what order do the cost curves reach their minimum?**
+As output rises, marginal cost reaches its lowest point first, then average variable cost, then average cost.
+
+**How do you work out AVC and fixed cost from average cost?**
+Average variable cost equals average cost minus average fixed cost. Total fixed cost is average fixed cost multiplied by output, and total cost is average cost multiplied by output.
+
+**What reduces the impact of diminishing returns?**
+The OCR A Level Economics (H460) notes list the timescale for adding capacity, flexibility such as outsourcing, shifts or hiring equipment, the level of demand, and technology and training that raise marginal product.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. Component 1 content, Competition and market power area of study: the short-run cost statements under the market structures topic.

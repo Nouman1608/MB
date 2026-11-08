@@ -161,6 +161,20 @@ These questions cover section 6.1 (6.1.1 and 6.1.2, international specialisation
 - Try a [free 10-minute diagnostic](/diagnostics/) to find weak spots.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What must a definition of national specialisation include?**
+Say that a country concentrates its resources on a limited range of goods and services and trades, selling part of its output abroad and importing the rest of what it needs. Leaving out trade is a common error.
+
+**Do low wages always mean low production costs?**
+No. Unit labour cost depends on output per worker as well as wages, so a country with higher wages but much higher productivity can produce more cheaply.
+
+**Which group gains which benefit from specialisation?**
+Lower prices, wider choice and better quality are benefits for consumers. Larger markets and economies of scale are benefits for firms. Putting a benefit under the wrong group loses marks.
+
+**How do you evaluate specialisation in Cambridge O Level Economics 2281?**
+Give both advantages and disadvantages, explain their effect on income, jobs or prices, and end with a judgement that states what it depends on, such as how diversified the economy is.
+
 ## Official syllabus
 
 Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: section 6.1 International specialisation.

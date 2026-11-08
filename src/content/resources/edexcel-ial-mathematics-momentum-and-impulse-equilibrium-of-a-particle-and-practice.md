@@ -20,7 +20,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-m1-mechanics-1-edexcel-alevel-maths"
     subtopic: "m1-moments-edexcel-alevel-maths"
-description: "Original practice questions with worked answers on Edexcel IAL Mathematics M1 momentum, impulse, equilibrium, friction at rest and moments."
+description: "Original practice questions with worked answers on Edexcel IAL Mathematics M1 momentum, impulse, equilibrium, friction at rest and moments (YMA01)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -139,6 +139,20 @@ Start with the [study guide](/resources/edexcel-ial-mathematics-momentum-and-imp
 - Taking a moment with the distance along a rod rather than the perpendicular distance.
 - Applying "about to tilt" without setting the correct reaction to zero.
 - Leaving out the final comparison in a "show that" question.
+
+## Frequently asked questions
+
+**Why do you need signed velocities in impulse and collision questions?**
+Impulse and momentum are vectors, so a particle that rebounds changes the sign of its velocity. Using speeds instead of signed velocities in I = mv − mu or in a conservation of momentum equation gives the wrong answer.
+
+**When can you use F = μR for a block at rest?**
+Only when the block is on the point of slipping, so friction is limiting. A block that is merely at rest has F ≤ μR, with friction just large enough to balance the other forces.
+
+**How do you handle an "about to tilt" question on a rod?**
+Set the reaction at the support that is about to lose contact to zero, then take moments about the other support. Forgetting to set the correct reaction to zero is a common mistake.
+
+**What distance is used when taking moments?**
+Use the perpendicular distance from the pivot to the line of action of the force, not simply the distance along the rod when the force is not at right angles to it.
 
 ## Next steps
 

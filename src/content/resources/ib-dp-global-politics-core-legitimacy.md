@@ -166,6 +166,20 @@ Watch the command terms. "Distinguish" asks you to make differences clear. "Eval
 
 Condense this into the [revision notes](/resources/ib-dp-global-politics-core-legitimacy-revision-notes/), then test yourself with the [practice questions](/resources/ib-dp-global-politics-core-legitimacy-practice/). For exam technique, read [exam preparation](/resources/ib-dp-global-politics-exam-preparation/).
 
+## Frequently asked questions
+
+**Is legitimacy the same as legality?**
+No. In IB DP Global Politics, legitimacy is about broad acceptance, not legal status: a law can be passed legally and still be widely rejected, and an illegal protest can still be widely seen as justified.
+
+**Can a government have power without legitimacy?**
+Yes. Power is the ability to effect change, and a government can hold it through coercion while lacking acceptance. Ruling by force alone is costly and unstable, which is why legitimacy matters.
+
+**How are sovereignty and legitimacy different?**
+Sovereignty describes a state's independence and control over its territory, while legitimacy describes acceptance. They can come apart: the Taliban took effective control of Afghanistan in August 2021 but have received very limited formal recognition from other states.
+
+**Do only elected governments count as legitimate?**
+No. Democracy or constitutionalism is the most widely accepted form of state legitimacy today, but the IB guide names other sources, such as government performance, order and stability, history, ideology and hereditary or traditional leadership where that is the norm.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Diploma Programme *Global politics guide*, first assessment 2026 (published February 2024). Prescribed topic: "Legitimacy in global politics", within the core topics "Understanding power and global politics".

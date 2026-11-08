@@ -15,9 +15,9 @@ syllabusTopics:
     topic: "the-rate-and-extent-of-chemical-change-8462"
 description: "AQA GCSE Chemistry 8462 rates and equilibrium taught from scratch: rate calculations, collision theory, catalysts, reversible reactions, Le Chatelier."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -335,6 +335,20 @@ effect on the position of equilibrium.
 - Recall and self-test: [revision notes](/resources/aqa-gcse-chemistry-8462-the-rate-and-extent-of-chemical-change-revision-notes/)
 - Exam-style practice: [practice questions](/resources/aqa-gcse-chemistry-8462-the-rate-and-extent-of-chemical-change-practice/)
 - Find your weak spots: [free 10-minute diagnostics](/diagnostics/)
+
+## Frequently asked questions
+
+**Which parts of AQA GCSE Chemistry 8462 section 4.6 are Higher tier only?**
+Calculating rates in mol/s, calculating the gradient of a tangent and the effects of changing concentration, temperature and pressure on equilibrium are Higher tier only. The rest of section 4.6 is for both tiers.
+
+**How does pressure affect the position of equilibrium?**
+For gaseous reactions, increasing the pressure shifts the equilibrium towards the side with fewer molecules. If both sides have the same number of gas molecules, pressure has no effect on the position of equilibrium.
+
+**What is the difference between rate and yield?**
+Rate is how fast a reaction happens, while yield is how much product is formed. A catalyst increases the rate but does not change the yield at equilibrium.
+
+**Why does increasing surface area increase the rate of reaction?**
+Breaking a solid into smaller pieces increases its surface area to volume ratio, so more particles are exposed and collisions are more frequent. This increases the rate of reaction.
 
 ## Official syllabus
 

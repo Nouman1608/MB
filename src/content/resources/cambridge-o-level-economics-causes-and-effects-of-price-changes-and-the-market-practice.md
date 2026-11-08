@@ -159,6 +159,20 @@ This set tests sections 2.6 and 2.9 of the Cambridge O Level Economics syllabus 
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - Book a [free trial class](/trial/).
 
+## Frequently asked questions
+
+**How many curves should you shift when one condition changes?**
+Shift only the curve that the condition affects. A change in income or tastes shifts demand, a change in costs or technology shifts supply; shifting both curves for a single cause, or the wrong curve, loses marks.
+
+**What should an answer on a price change always state?**
+State what happens to both the equilibrium price and the quantity, and explain the shortage or surplus at the old price that drives the price to its new level.
+
+**Does a market economic system have no government?**
+No. Even the most market-oriented economies have laws on property and contracts and some state services. Describing the market system as having no government at all is a common error.
+
+**How do you write a percentage change in a Cambridge O Level Economics 2281 answer?**
+Divide the change by the starting figure, not the new figure, and multiply by 100. Show the working so a slip in the arithmetic can still earn method credit.
+
 ## Official syllabus
 
 Aligned to the Cambridge O Level Economics 2281 syllabus for examination in 2026, sections 2.6 and 2.9, published by Cambridge International.

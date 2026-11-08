@@ -257,6 +257,23 @@ For limited companies, the specification states that these will not be examined:
 
 Use the [revision notes](/resources/oxfordaqa-igcse-accounting-internal-financial-statements-of-limited-companies-revision-notes/) for fast recall, then try the [practice questions](/resources/oxfordaqa-igcse-accounting-internal-financial-statements-of-limited-companies-practice/) with the answers covered. For the other forms of organisation, see the [course hub](/boards/oxfordaqa/igcse/accounting/). Tick off what you can do on the [checklist](/checklists/oxfordaqa/igcse/accounting/), and use the [diagnostics](/diagnostics/) to find weak spots.
 
+## Frequently asked questions
+
+**What is the difference between share capital and loan capital?**
+Share capital is provided by shareholders, who are the owners, and earns a dividend paid from profit that is not guaranteed. Loan capital is provided by lenders such as a bank or debenture holders, earns interest at a set rate whether or not there is a profit, and is repaid on an agreed date.
+
+**Are these the company's published accounts?**
+No. For OxfordAQA International GCSE Accounting 9215 the statements are prepared for internal use, not as the published accounts of the company.
+
+**What are retained earnings?**
+Retained earnings are the profits kept in the business over time. They are added to share capital to give total equity.
+
+**What is not examined for limited companies in OxfordAQA 9215?**
+The specification states that the statement of changes in equity, preference shares, general reserves, rights issues, bonus issues and the revaluation of non-current assets will not be examined for limited companies.
+
+**Is land depreciated in company statements?**
+No. Depreciating land is a common error; depreciation is charged on the other non-current assets.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), version 1.2, for International GCSE exams May/June 2026 onwards, published by OxfordAQA. This guide covers section 3.4, limited companies.

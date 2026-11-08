@@ -242,6 +242,23 @@ ATP is called a nucleotide derivative because it is built like a nucleotide but 
 - Saying that Meselson-Stahl "proved" the model without describing the bands.
 - In an evaluation, listing only strengths. Give at least one limitation too.
 
+## Frequently asked questions
+
+**What is a nucleotide?**
+A nucleotide is made of a pentose sugar, a nitrogen-containing organic base and a phosphate group.
+
+**How many phosphodiester bonds are in a DNA fragment?**
+A single chain of n nucleotides has n − 1 phosphodiester bonds. A double-stranded molecule of b base pairs has 2b nucleotides and 2(b − 1) phosphodiester bonds.
+
+**Why did scientists once doubt that DNA carried genetic information?**
+DNA has only four different bases, so it looked too simple, while proteins have many different amino acids. The information is in the order and length of the bases.
+
+**What does DNA helicase do in replication?**
+DNA helicase breaks the hydrogen bonds between complementary bases, so the double helix unwinds and each strand can act as a template.
+
+**What is the difference between ATP hydrolase and ATP synthase?**
+ATP hydrolase catalyses the hydrolysis of ATP to ADP and Pi. ATP synthase catalyses the resynthesis of ATP from ADP and Pi.
+
 ## Official syllabus
 
 AQA, *AS and A-level Biology* (7401 and 7402), specification for first teaching 2015, sections 3.1.5.1, 3.1.5.2 and 3.1.6.

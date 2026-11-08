@@ -248,6 +248,20 @@ A different market, with invented figures. Demand for factory workers is 2,000 -
 - Listing union effects for workers only, not firms and government.
 - Stopping after advantages when the question asks for a judgement.
 
+## Frequently asked questions
+
+**What are wage and non-wage factors in choosing an occupation?**
+Wage factors are money rewards such as the pay rate, overtime and bonuses. Non-wage factors include job security, hours, working conditions, promotion prospects, training, holidays and pensions, and location.
+
+**Why is the demand for labour a derived demand?**
+Firms hire workers only because consumers want the goods and services those workers produce, so the demand for labour comes from the demand for the product.
+
+**Does a gender pay gap prove discrimination?**
+Not on its own. Gaps can come from differences in occupations, hours and career breaks as well as discrimination, so consider these factors before drawing a conclusion.
+
+**What makes a trade union strong?**
+A union is stronger with high membership, scarce skills that are hard to replace, a profitable employer, low unemployment, supportive laws and united members.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment, sections 3.3 and 3.4.

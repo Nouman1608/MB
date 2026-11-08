@@ -262,6 +262,22 @@ Condense this with the [revision notes](/resources/oxfordaqa-a-level-mathematics
   <figcaption>Dividing by y − 4 hides the constant solution y = 4, which is the case A = 0.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is a first-order differential equation?**
+A differential equation connects a quantity with how fast it is changing. First order means the highest derivative in it is a first derivative such as dy/dx.
+
+**How do you know if a differential equation is separable?**
+It is separable when the right-hand side factorises as a function of x multiplied by a function of y. dy/dx = x + y is not separable, because it cannot be written that way.
+
+**How do you find the half-life from an exponential decay model?**
+For y = Ae^(−kt), the half-life is (ln 2)/k. The doubling time for growth y = Ae^(kt) is also (ln 2)/k.
+
+**What does Newton's law of cooling say?**
+It says the temperature T falls at a rate proportional to its excess over the surroundings temperature S, so dT/dt = −k(T − S) with k > 0. The temperature tends towards S over time.
+
+**What is in section P2.8 of the OxfordAQA 9660 specification?**
+P2.8 covers forming simple differential equations from statements about rates of change, and finding analytical solutions of simple first-order equations with separable variables.
 
 ## Official syllabus
 

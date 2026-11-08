@@ -141,6 +141,23 @@ These questions are matched to OxfordAQA International AS and A-level Economics 
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class on the [trial page](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on merit goods and market imperfections questions?**
+Common losses are calling a good a merit good without saying consumers undervalue it, treating every consumption externality as creating a merit or demerit good, using the demand curve as the marginal revenue curve, and writing "equal" where "equitable" is needed.
+
+**Does every consumption externality make a good a merit or demerit good?**
+No. The test is whether consumers are judged to undervalue or overvalue the good. Congestion from car journeys is a negative consumption externality, but car travel is not automatically a demerit good.
+
+**How do I find the marginal revenue curve for a straight-line demand curve?**
+The marginal revenue curve has the same intercept as demand and twice the slope. Using the demand curve as MR is a common error in monopoly calculations.
+
+**Should I describe policies when asked why a market fails?**
+No. When the question asks why the market fails, explain the cause and the resulting misallocation of resources. Describing a tax, subsidy or regulation answers a different question.
+
+**Which OxfordAQA 9640 sections do these questions cover?**
+They cover sections 3.1.5.4 (merit and demerit goods), 3.1.5.5 (market imperfections) and 3.1.5.6 (inequitable distribution of income and wealth) of the OxfordAQA International AS and A-level Economics (9640) specification.
+
 ## Official syllabus
 
 Source: the OxfordAQA International AS and A-level Economics specification (9640), version 1.2, from Oxford International AQA Examinations. Covered here: 3.1.5.4, 3.1.5.5, 3.1.5.6.

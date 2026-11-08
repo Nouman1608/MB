@@ -324,6 +324,20 @@ The vaccine contains weakened pathogens or their antigens. These stimulate lymph
 - Stating that carbon monoxide damages the alveoli; it combines with haemoglobin.
 - Treating a correlation in disease data as proof of cause without comment.
 
+## Frequently asked questions
+
+**What are the body's barriers to pathogens in Cambridge O Level Biology 5090?**
+The syllabus limits the barriers to four: skin, nose hairs, mucus and stomach acid. Skin is a tough barrier, nose hairs and mucus trap pathogens, and stomach acid kills pathogens in food and drink.
+
+**Which diseases are associated with smoking?**
+Tobacco smoke is strongly associated with bronchitis, emphysema, lung cancer, heart disease and reduced birth weight when the mother smokes in pregnancy.
+
+**How do babies get passive immunity?**
+Babies receive antibodies across the placenta and in breast milk. Passive immunity is short-term because no memory cells are made.
+
+**What do the three toxic parts of tobacco smoke do?**
+Nicotine is addictive and raises heart rate and blood pressure. Tar contains carcinogens and stops cilia working, and carbon monoxide combines with haemoglobin so less oxygen is carried.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 12: Disease and immunity, published by Cambridge Assessment International Education.

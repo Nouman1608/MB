@@ -305,6 +305,20 @@ Use a fresh sample for each test. Reagents from one test would interfere with th
 - Saying "bubbles" for carbonate without testing the gas with limewater.
 - Claiming that a blue colour with anhydrous copper(II) sulfate proves the water is pure.
 
+## Frequently asked questions
+
+**How do you test for ammonia gas?**
+Hold damp red litmus paper in the gas: ammonia, the only common alkaline gas, turns it blue. For an ammonium salt, warm it with sodium hydroxide solution and test the gas given off; the paper must be damp.
+
+**Why is nitric acid used before silver nitrate in the halide test?**
+The acid removes carbonate ions, which would otherwise also form a precipitate. Hydrochloric acid cannot be used because it adds chloride ions, which would always give a white precipitate.
+
+**How do you tell iron(II) from iron(III) ions?**
+Add sodium hydroxide solution: iron(II) gives a green precipitate and iron(III) gives a brown precipitate. Always write the charge or Roman numeral, and record the colour you see at once, because green iron(II) hydroxide darkens on standing in air.
+
+**How do you show that water is pure?**
+Anhydrous copper(II) sulfate only shows that water is present. To show it is pure, measure its boiling point: pure water boils at exactly 100 °C and freezes at exactly 0 °C at normal pressure, while impure water boils above 100 °C.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Chemistry (4CH1) specification, Issue 3, September 2024, published by Pearson Education Limited -- Topic 2 Inorganic chemistry, sub-topic (h) Chemical tests, points 2.44–2.50.

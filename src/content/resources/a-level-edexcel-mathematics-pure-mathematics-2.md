@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A Level Mathematics: Pure Mathematics 2 (YMA01)"
+title: "Edexcel International A Level Mathematics: Pure Mathematics 2 (YMA01)"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]
@@ -12,11 +12,11 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-p2-pure-mathematics-2-edexcel-alevel-maths"
-description: "Proof, algebra and functions, coordinate geometry, sequences and series, exponentials and logarithms, trigonometry, differentiation and integration -- the full content of Unit P2 for Pearson Edexcel International A Level Mathematics (YMA01)."
+description: "Edexcel IAL Maths Unit P2 guide for YMA01: proof, factor theorem, circles, sequences and series, logs, trig equations, stationary points and areas."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-01
 featured: false
 ---
@@ -180,6 +180,23 @@ integrates to a *negative* value, so finding a total area (rather than
 a signed integral) requires splitting at the roots of the function and
 adding the absolute value of each part, not simply evaluating one
 integral across the whole interval.
+
+## Frequently asked questions
+
+**What is in Edexcel IAL Pure Mathematics 2?**
+Unit P2 covers proof, algebraic division with the factor and remainder theorems, circles, sequences and series including binomial expansion, exponentials and logarithms, trigonometric identities and equations, stationary points, and definite integration with the trapezium rule.
+
+**Is Pure Mathematics 2 compulsory for Edexcel International A Level Maths?**
+Yes. Every route to the full International A Level (YMA01) requires all four Pure Mathematics units, P1 to P4, whichever pair of applied units a student chooses.
+
+**How do you use the factor theorem?**
+Substitute the root of the linear expression into the polynomial. If the result is zero, the expression is a factor; if not, the value you get is the remainder.
+
+**Is a definite integral always equal to the area under the curve?**
+No. A region below the x-axis gives a negative integral, so to find a total area you split the interval at the roots and add the absolute value of each part.
+
+**How do you tell whether to use the arithmetic or geometric series formula?**
+Check whether consecutive terms share a common difference (arithmetic) or a common ratio (geometric) before choosing a sum formula. Using the wrong one is a common error in P2.
 
 ## Official syllabus
 

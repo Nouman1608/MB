@@ -20,11 +20,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-carboxylic-acids-and-derivatives"
     subtopic: "a-acyl-chlorides"
-description: "Producing benzoic acid, relative acidity of carboxylic acids and phenols, and the reactions and addition-elimination mechanism of acyl chlorides, for Cambridge International AS & A Level Chemistry 9701."
+description: "Making benzoic acid, comparing acidity of carboxylic acids, phenols and alcohols, and acyl chloride reactions by addition-elimination, for Cambridge 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -249,6 +249,23 @@ the σ-bond framework).
   all release HCl, all addition-elimination
 - Hydrolysis ease: acyl chloride (fastest) > alkyl chloride > halogenoarene
   (essentially unreactive)
+
+## Frequently asked questions
+
+**Why are carboxylic acids more acidic than phenols?**
+In a carboxylate ion the negative charge is delocalised equally over two oxygen atoms. This stabilises the conjugate base more effectively than in a phenoxide ion, so carboxylic acids lose H⁺ more readily than phenols, which are in turn more acidic than alcohols.
+
+**Why is trichloroethanoic acid more acidic than ethanoic acid?**
+Chlorine atoms withdraw electron density inductively, which stabilises the negative charge on the carboxylate ion. More chlorine atoms, closer to the carboxyl group, give a bigger effect and a stronger acid.
+
+**Which carboxylic acids can be oxidised further in Cambridge 9701 Chemistry?**
+Methanoic acid and ethanedioic acid. Methanoic acid has an aldehyde-like hydrogen and is oxidised to carbon dioxide and water, while ethanedioic acid is oxidised to carbon dioxide by warm acidified KMnO₄.
+
+**What is the difference between nucleophilic addition and addition-elimination?**
+In nucleophilic addition, as with HCN and a carbonyl compound, the nucleophile simply adds across C=O. In addition-elimination, as with acyl chlorides, a leaving group (Cl⁻) then departs and the C=O re-forms, giving overall substitution.
+
+**Why do acyl chlorides hydrolyse faster than chloroalkanes?**
+The carbonyl carbon of an acyl chloride is made strongly electrophilic by both the oxygen and the chlorine pulling electron density away, so it reacts with cold water within seconds. Chloroalkanes need warming with aqueous alkali, and halogenoarenes barely react at all.
 
 ## Related resources
 

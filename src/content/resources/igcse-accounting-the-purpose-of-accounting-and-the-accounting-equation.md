@@ -252,6 +252,23 @@ Owner's equity rose by 12,000. During the year she paid in 4,000 of extra capita
 - Writing book-keeping and accounting as if they mean the same thing, or defining accounting as "writing in the books".
 - Stopping after one half of a transaction. Ask what the second change is.
 
+## Frequently asked questions
+
+**What is profit in Cambridge IGCSE Accounting 0452?**
+Profit is the amount by which income earned in a period exceeds the expenses of earning it. If expenses are greater than income, the business has made a loss.
+
+**Are trade receivables an asset or a liability?**
+Trade receivables are an asset, because they are customers who owe the business money. Trade payables are a liability, because they are suppliers the business owes.
+
+**Are drawings an expense?**
+No. Drawings reduce owner's equity directly and are not deducted when finding profit, so treating them as an expense is a common error.
+
+**Can a transaction change total assets without changing owner's equity?**
+Yes. Buying an asset on credit raises assets and liabilities together, and swapping one asset for another leaves total assets unchanged. Only capital introduced, profit, loss and drawings change owner's equity.
+
+**Why is accounting information compared with other figures?**
+Accounting information is useful because it is compared with something: an earlier period, a plan or another business. The comparison lets an owner monitor progress and supports decisions such as whether to hire staff.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1), published by Cambridge University Press & Assessment (Cambridge International Education). Sections 1.1 and 1.2.

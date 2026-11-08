@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "algebra-cambridge-alevel-maths-2"
 description: "Revision notes for Cambridge 9709 Paper 2 Algebra (2.1): modulus rules, polynomial division, the factor and remainder theorems, and a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -172,6 +172,23 @@ The line y = 2x is above the V only to the right of x = 1, so x > 1.
 - Not stating "so (x − a) is a factor" after showing p(a) = 0, which can cost the conclusion mark on a "show that".
 - Finding a and b correctly, then using the old p(x) with letters in a later part.
 - Ignoring a quadratic factor with negative discriminant instead of saying it gives no real roots.
+
+## Frequently asked questions
+
+**What does Cambridge 9709 section 2.1 Algebra cover?**
+It covers the modulus function and the graph of y = |ax + b|, modulus equations and inequalities, polynomial division by linear and quadratic divisors, and the factor and remainder theorems. Graphs of y = |f(x)| or y = f(|x|) for non-linear f are not included.
+
+**How long is Cambridge 9709 Paper 2?**
+Paper 2 lasts 1 hour 15 minutes for 50 marks, and it is offered only as part of AS Level on the Pure Mathematics only route.
+
+**How do you divide a polynomial by a quadratic without long division?**
+Compare coefficients: write p(x) ≡ (divisor)(Ax + B) + Cx + D, then match the coefficients of each power of x to find the quotient and remainder.
+
+**Why do you need a zero coefficient in long division?**
+Writing 0 for any missing power, such as 0x² in x⁴ + 2x³ − 3x + 1, keeps the columns lined up. Leaving it out is a common source of errors.
+
+**How do you find one root of a cubic?**
+Test ± factors of the constant term, then fractions, until the polynomial equals zero. State the factor theorem result, then divide to get the quadratic factor.
 
 ## Links
 

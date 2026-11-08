@@ -37,11 +37,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-5-8"
 description: "12 original IB DP Maths AI calculus questions for SL and HL on derivatives, integrals, optimisation and the trapezoidal rule, with marked answers."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -197,6 +197,23 @@ Estimate the limit of k(x) as x → 0, and explain why k(0) cannot be found by s
 - Plan your final weeks with the [AI exam preparation guide](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Are these IB Maths AI calculus practice questions from real past papers?**
+No. They are original questions written for revision and do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers available through your school or the IB store.
+
+**Do you need to differentiate by hand in IB Maths AI if a GDC is required on every paper?**
+Yes. Every paper in IB DP Maths AI requires a GDC, but questions that ask you to find f′(x) or an anti-derivative expect the expression written by hand, because that working earns the method marks. A GDC value alone usually scores only the final mark.
+
+**Why is + C needed in an indefinite integral answer?**
+Constants disappear when you differentiate, so an anti-derivative is only complete with a constant of integration. Leaving out + C costs the final accuracy mark, and in boundary-condition questions it also removes the substitution marks.
+
+**How should you show working when a definite integral is found on the GDC?**
+Write down the integral with its limits before giving the value from your calculator. A bare number with no expression earns no method mark if it is wrong.
+
+**How many decimal places should IB Maths AI calculus answers have?**
+Give answers exactly or to 3 significant figures unless the question asks for something else.
 
 ## Official syllabus
 

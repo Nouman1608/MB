@@ -260,6 +260,23 @@ Under monopsony, 6 + L = 30 − 0.5L gives L = 16. The wage comes from the suppl
 - Saying price discrimination always harms consumers.
 - Reading the monopsony wage from MCL instead of dropping down to the supply curve.
 
+## Frequently asked questions
+
+**What are the assumptions of monopoly in Edexcel IAL Economics?**
+In the Edexcel IAL Economics specification (YEC11, section 3.3.3 item 6), a pure monopoly is the only seller, so its demand curve is the downward-sloping market demand curve. It sells a product with no close substitutes, is a price maker that can choose price or output but not both, is protected by barriers to entry and is assumed to maximise profit.
+
+**Why is marginal revenue below price for a monopolist?**
+A monopolist faces a falling demand curve, so selling an extra unit means cutting the price on every unit sold. Marginal revenue is therefore below price, and for a straight-line demand curve MR has the same intercept and twice the slope.
+
+**Why does a monopolist never produce where demand is price inelastic?**
+Profit is maximised where MR equals MC, and marginal cost is positive, so MR must be positive at the optimum. Marginal revenue is positive only on the elastic part of a straight-line demand curve, so the monopolist sets output where demand is elastic.
+
+**Can a monopoly charge a lower price than a competitive industry?**
+It can if economies of scale give the single firm a much lower marginal cost than competitive firms would have, and the savings are passed on. Whether this happens depends on the size of the cost advantage, regulation and whether profits are reinvested.
+
+**Why is the marginal cost of labour above the wage in a monopsony?**
+To hire one more worker, a monopsonist must raise the wage for all its workers, not just the new one. The marginal cost of labour therefore lies above the labour supply curve, so the firm hires fewer workers at a lower wage than a competitive labour market would.
+
 ## Official syllabus
 
 Source: Pearson Education Limited, Edexcel International Advanced Subsidiary/Advanced Level in Economics (specification, Issue 2, June 2018; first teaching September 2018), section 3.3.3 Market structures and contestability, items 6 and 7.

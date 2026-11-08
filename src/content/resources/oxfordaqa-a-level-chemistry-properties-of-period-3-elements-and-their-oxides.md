@@ -309,6 +309,23 @@ excess alkali: `AlCl₃ + 4NaOH → NaAl(OH)₄ + 3NaCl`. The covalent chlorides
 - Claiming that the low melting point of SiCl₄ comes from weak Si–Cl bonds. The bonds stay intact.
 - Counting 3 mol of NaOH per mole of PCl₅. The five HCl molecules also need neutralising, giving 8.
 
+## Frequently asked questions
+
+**Is Period 3 oxides and chlorides AS or A2 content in OxfordAQA 9620 Chemistry?**
+Section 3.2.4 is listed under International A2 inorganic chemistry, so it is International A-level only. Unit 3 (Inorganic 2 and Physical 2) examines it, and it may also appear in Unit 5.
+
+**Why does aluminium chloride exist as Al₂Cl₆?**
+In an AlCl₃ unit the aluminium atom has only six outer-shell electrons. A chlorine atom on a second unit donates a lone pair to it, forming a co-ordinate bond, and two such bonds join the units into an Al₂Cl₆ molecule with two bridging chlorines.
+
+**Why is sodium more reactive with water than magnesium?**
+Each sodium atom loses one electron to form Na⁺, while each magnesium atom must lose two. Removing the second electron from an already positive ion costs extra energy, so magnesium reacts far more slowly.
+
+**Why does aluminium chloride give an acidic solution?**
+The Al³⁺ ion is small and highly charged, so it strongly polarises the O–H bonds of its six water ligands, releasing H⁺: [Al(H₂O)₆]³⁺ ⇌ [Al(H₂O)₅(OH)]²⁺ + H⁺.
+
+**Why is aluminium oxide called amphoteric?**
+Aluminium oxide reacts with both acids and bases. With nitric acid it forms aluminium nitrate and water, and with potassium hydroxide solution it forms KAl(OH)₄.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for

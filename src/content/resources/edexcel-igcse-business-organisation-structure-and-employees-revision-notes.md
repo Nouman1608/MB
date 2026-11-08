@@ -256,6 +256,20 @@ When you must justify or evaluate, write in this order.
 
 Try the [practice questions](/resources/edexcel-igcse-business-organisation-structure-and-employees-practice/), reread the [study guide](/resources/edexcel-igcse-business-organisation-structure-and-employees/) for any weak point, and use the [free diagnostics](/diagnostics/). Tick off progress on the [checklist](/checklists/edexcel/igcse/business/).
 
+## Frequently asked questions
+
+**What is the difference between a hierarchical and a flat structure?**
+A hierarchical structure has several levels of authority, making it tall and narrow with narrow spans of control. A flat structure has few levels and wide spans, giving quicker communication and lower management costs.
+
+**What is the chain of command?**
+The chain of command is the line of authority from the top of the business to the bottom, along which instructions pass down and reports pass up. A long chain means slow communication and more chances for a message to change.
+
+**What are the four functional areas in Edexcel IGCSE Business?**
+The 4BS1 specification lists human resources, finance, marketing and production. The areas depend on each other, for example marketing research shows demand and production makes the product.
+
+**What is the difference between dismissal and redundancy?**
+Dismissal ends a contract because of the employee's conduct or performance. Redundancy ends a contract because the job is no longer needed, so the two should not be treated as the same.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 2: People in business, section 2.5 "Organisation structure and employees", points 2.5.1 to 2.5.3.

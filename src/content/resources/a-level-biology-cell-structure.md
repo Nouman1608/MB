@@ -13,13 +13,13 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "cell-structure-cambridge-alevel-biology"
-description: "The microscope in cell studies, and cells as the basic units of living organisms -- the full content of Topic 1 Cell structure for Cambridge AS & A Level Biology 9700, 2025-2027 series."
+description: "Study guide to Cambridge AS & A Level Biology 9700 Topic 1 Cell structure: microscopy, magnification, organelles, prokaryotes and viruses, 2025-2027."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-08-21
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide covers **Topic 1 Cell structure**, an AS Level topic for
@@ -272,6 +272,20 @@ the surface area for absorption.
   <figcaption>The main organelles of an animal cell, drawn as seen with an electron microscope.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**What does Cambridge 9700 Topic 1 Cell structure cover?**
+It has two sub-topics: 1.1 The microscope in cell studies, and 1.2 Cells as the basic units of living organisms.
+
+**How are magnification calculations marked?**
+Mostly on procedural accuracy: using magnification = image size ÷ actual size and converting both measurements to the same unit before dividing.
+
+**How do you make a temporary mount for a light microscope?**
+Prepare a thin layer of cells, for example onion epidermis or a cheek-cell smear, on a slide with a stain and a coverslip, then draw what you see following the drawing conventions.
+
+**What is the best way to revise prokaryotic and eukaryotic cells?**
+Practise the comparison as a direct two-column table, stating precisely how each feature differs, rather than writing two separate lists.
 
 ## Official syllabus
 

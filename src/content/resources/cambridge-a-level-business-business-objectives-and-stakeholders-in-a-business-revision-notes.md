@@ -316,6 +316,20 @@ Conflict: shareholders gain what employees lose. The judgement depends on the bu
 - Forgetting to apply the answer to the business in the case.
 - Making a judgement without comparing both sides.
 
+## Frequently asked questions
+
+**What is the triple bottom line?**
+The triple bottom line means a business sets economic (financial), social and environmental objectives together, rather than judging itself on profit alone.
+
+**What are the stages of decision-making in Cambridge 9609 Business?**
+A standard form is: set objectives, gather information, identify options, choose an option, implement, and review against the objectives. Objectives start the process and act as the benchmark at review.
+
+**What is the difference between strategy and tactics?**
+A strategy is the long-term plan to reach an objective. Tactics are the short-term actions that carry the strategy out.
+
+**Why can a small stakeholder group have a lot of influence?**
+Influence depends on the power to affect the outcome, not on the size of the group. A small local group may be able to generate publicity or block a plan.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge Assessment International Education), sections 1.4 and 1.5.

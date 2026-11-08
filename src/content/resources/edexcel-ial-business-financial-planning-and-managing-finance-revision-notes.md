@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Financial planning and Managing finance (YBS11) -- Revision Notes"
+title: "Edexcel International A Level Business: Financial planning and Managing finance (YBS11) -- Revision Notes"
 seoTitle: "Edexcel IAL Business Managing Finance Revision Notes"
 resourceType: "revision-notes"
 subject: "business"
@@ -297,6 +297,20 @@ Internal causes are within management control; external causes are not, though a
 - Claiming factoring or selling assets is free of cost.
 - Showing no working on a calculate question, since the command word asks for workings.
 - Judging a ratio with no benchmark such as a past year or a rival.
+
+## Frequently asked questions
+
+**How do you calculate the margin of safety?**
+Margin of safety is actual (or budgeted) output minus break-even output. It shows how far sales can fall before the business starts to make a loss.
+
+**What is the difference between the current ratio and the acid test ratio?**
+The current ratio is current assets divided by current liabilities. The acid test ratio removes inventory from current assets first, so it shows whether short-term debts can be covered without selling stock.
+
+**What is the difference between historical and zero-based budgeting?**
+A historical budget starts from last period's actual figures, adjusted for expected changes, which is quick but carries over past inefficiency. A zero-based budget starts at zero, so every item of spending must be justified.
+
+**What is overtrading?**
+Overtrading means expanding output faster than the cash available to fund it. It is one of the internal causes of business failure in the Edexcel IAL Business (YBS11) specification.
 
 ## Official syllabus
 

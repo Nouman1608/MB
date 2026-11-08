@@ -239,6 +239,20 @@ Pick out the property in the data (for example, very thin layer, high surface ar
 
 Try the [practice questions](/resources/oxfordaqa-igcse-chemistry-structure-and-bonding-of-carbon-and-nanoparticles-practice/), then refresh mole calculations with the [quantitative chemistry revision notes](/resources/oxfordaqa-igcse-chemistry-quantitative-revision-notes/). Use the [diagnostics](/diagnostics/) to choose what to revise next.
 
+## Frequently asked questions
+
+**Why do nanoparticles behave differently from the bulk material?**
+Nanoparticles have a much higher surface area to volume ratio, so more of the material is at the surface where it can react or interact. This gives them properties different from the same material in bulk.
+
+**How do you calculate the surface area to volume ratio of a cube?**
+For a cube of side L, surface area = 6 × L², volume = L³, and the ratio is 6 ÷ L. A 50 nm cube has a ratio of 6 ÷ 50 = 0.12 nm⁻¹; keep both lengths in the same unit.
+
+**How is graphite similar to a metal?**
+Both graphite and metals contain delocalised electrons that move through the structure and carry an electric current. Graphite is not a metal, though; it is a giant covalent structure.
+
+**What are possible uses of nanoparticles?**
+The specification lists new computers, new catalysts, new coatings, highly selective sensors, stronger and lighter construction materials, and new cosmetics such as suntan creams and deodorants.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.2.3 and 3.2.4.

@@ -150,6 +150,23 @@ Bargaining power of suppliers: one wholesaler supplies 80% of the stock [1], so 
 - Use the [hub](/boards/cambridge/a-level/business/), [checklist](/checklists/cambridge/a-level/business/) and [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is business strategy in the AS or A Level part of Cambridge 9609?**
+Section 6.2 Business strategy is an A Level topic in Cambridge AS and A Level Business 9609. These questions use tools such as the Ansoff matrix, decision trees, force field analysis and SWOT.
+
+**What are the three stages of strategic management?**
+Analysis, choice and implementation. A tool such as SWOT is used within a stage but is not itself a stage.
+
+**What is the difference between expected value and net gain in a decision tree?**
+Expected value weights each outcome by its probability and adds them. Net gain is the expected value minus the cost of the option; giving expected value when net gain is asked for loses marks.
+
+**How do I avoid mistakes in a SWOT analysis question?**
+Decide first whether a fact is inside or outside the business. Strengths and weaknesses are internal, while opportunities and threats are external.
+
+**What do examiners want after a decision tree calculation?**
+A recommendation that also comments on the reliability of the probabilities and on risk, not just a choice of the option with the highest figure.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge Assessment International Education), section 6.2.

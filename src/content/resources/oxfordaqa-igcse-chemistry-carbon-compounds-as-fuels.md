@@ -333,6 +333,23 @@ A balanced judgement uses both columns.
 
 Next: condense this with the [revision notes](/resources/oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels-revision-notes/), then work through the [practice questions](/resources/oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels-practice/). Alkenes from cracking lead on to [synthetic and naturally occurring polymers](/resources/oxfordaqa-igcse-chemistry-synthetic-and-naturally-occurring-polymers/).
 
+## Frequently asked questions
+
+**Why is crude oil separated by fractional distillation?**
+Crude oil is a mixture of many compounds that are not chemically joined, mostly hydrocarbons, so a physical method can separate them. Fractional distillation splits it into fractions of molecules with similar numbers of carbon atoms and similar boiling points.
+
+**How do the properties of hydrocarbons change with molecule size?**
+As the number of carbon atoms increases, the boiling point rises, the hydrocarbon becomes more viscous and it becomes less flammable. Larger molecules have stronger forces between them, so more energy is needed to separate them.
+
+**What is the difference between complete and incomplete combustion?**
+In complete combustion, with plenty of oxygen, carbon forms carbon dioxide and hydrogen forms water. In incomplete combustion, with too little oxygen, some carbon forms toxic carbon monoxide or soot, while water still forms.
+
+**Why are large hydrocarbons cracked?**
+Fractional distillation gives more large hydrocarbons than are needed and fewer of the smaller, more useful ones. Cracking breaks large molecules into smaller alkanes, some useful as fuels, and alkenes.
+
+**What is the difference between making ethanol by hydration and by fermentation?**
+Hydration of ethene with steam uses a phosphoric acid catalyst in a continuous process, but ethene comes from crude oil. Fermentation of sugar uses enzymes in yeast in a batch process, and the sugar comes from plants, so it is renewable.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. This guide covers section 3.10.1 Carbon compounds as fuels and the required practical on testing for a double bond.

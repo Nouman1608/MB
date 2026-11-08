@@ -13,11 +13,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "the-effects-of-using-it"
     subtopic: "microprocessor-controlled-devices-0417"
-description: "The positive and negative effects of microprocessor/smart devices in the home and in transport, and the causes and prevention of RSI, back problems, eye problems and headaches from prolonged IT use, for Cambridge IGCSE ICT 0417, Topic 5."
+  - qualification: "igcse"
+    topic: "the-effects-of-using-it"
+    subtopic: "health-problems-0417"
+description: "Effects of smart devices in the home and transport, and the causes and prevention of RSI, back, eye and headache problems, for Cambridge IGCSE ICT 0417 Topic 5."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -130,6 +133,20 @@ toward reasoned discussion of trade-offs, which is worth recognising
 explicitly when revising so you approach 5.1 and 5.2 questions with
 the right kind of answer structure rather than trying to recall a
 single "correct" fact.
+
+## Frequently asked questions
+
+**What are the positive and negative effects of autonomous vehicles?**
+In Cambridge IGCSE ICT (0417), positives include reduced human error and passengers using travel time productively. Negatives include job displacement for professional drivers, safety questions about decision-making in unusual situations, and the data-security risk of control systems being accessed without authorisation.
+
+**What causes RSI and how can it be prevented?**
+Repetitive strain injury is caused by repeated small movements, such as typing or using a mouse. It can be prevented by taking regular breaks and using an ergonomic keyboard or mouse.
+
+**Can smart home devices affect physical fitness?**
+Yes. Automating small everyday tasks, such as adjusting heating or lighting, can remove small amounts of physical activity, which is sometimes raised as a negative effect on fitness, although the effect depends on the device.
+
+**What do discuss and evaluate questions on Topic 5 expect?**
+They expect both positive and negative effects stated explicitly, each linked to a named dimension, and a brief reasoned judgement where the question asks for one, rather than a one-sided answer.
 
 ## Official syllabus
 

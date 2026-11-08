@@ -179,6 +179,20 @@ For an evaluative answer, weigh costs against benefits, decide which matters mor
 - Describing CSR in general terms without using the case. Name the stakeholder affected and the likely effect on cost or reputation.
 - Giving a one-sided answer to an evaluation question. Weigh both sides, then decide.
 
+## Frequently asked questions
+
+**What is corporate social responsibility?**
+Corporate social responsibility (CSR) is the view that a business owes something to society, the environment and its stakeholders, not only returns to its owners. Examples include reducing emissions and waste, paying fair wages and sourcing materials responsibly.
+
+**What are the arguments against CSR?**
+CSR can raise costs and cut profit or dividends in the short term, some shareholders believe managers' main duty is to the owners, some firms use CSR language without real change, and benefits are hard to measure.
+
+**What are ethical objectives?**
+Ethical objectives are aims about acting in line with moral principles, going beyond what the law demands, such as paying suppliers a fair price or avoiding misleading advertising.
+
+**At what assessment level are strategic objectives and CSR tested in IB Business Management?**
+The IB guide lists strategic and tactical objectives and CSR at AO3, synthesis and evaluation, while vision and mission statements and the common objectives sit at AO2, application and analysis.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. This page covers section 1.3, Business objectives.

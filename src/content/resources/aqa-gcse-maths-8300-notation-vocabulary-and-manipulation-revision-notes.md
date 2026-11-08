@@ -332,6 +332,19 @@ fg(x) and gf(x) are usually different.
   <figcaption>Only like terms combine: x^2 tiles with x^2, xy with xy, numbers with numbers.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Why do brackets matter when substituting negative numbers?**
+Without brackets the power may only act on the digit. (−4)² = 16, but −4² = −16, so always put substituted values in brackets.
+
+**How do you factorise x² + bx + c?**
+Find the factor pair of c that adds to b, write (x + p)(x + q), then expand to check. For example, x² + 9x + 20 = (x + 4)(x + 5).
+
+**What is the difference of two squares?**
+a² − b² = (a + b)(a − b). It has no middle term, and there is no equivalent factorisation for a sum of two squares.
+
+**Is f⁻¹(x) the same as 1/f(x)?**
+No. f⁻¹(x) is the inverse function, which reverses f, while 1/f(x) is the reciprocal. Inverse functions are Higher tier content in AQA GCSE Maths 8300.
 
 ## Official syllabus
 

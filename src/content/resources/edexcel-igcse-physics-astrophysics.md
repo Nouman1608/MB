@@ -22,11 +22,11 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "astrophysics"
     subtopic: "cosmology"
-description: "Orbital motion and gravity, stellar evolution from nebula to white dwarf, and red-shift evidence for the Big Bang, for Pearson Edexcel International GCSE Physics 4PH1."
+description: "Orbits and gravity, stellar evolution, the HR diagram and red-shift evidence for the Big Bang: Topic 8 of Edexcel International GCSE Physics (4PH1)."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -227,6 +227,20 @@ apparent brightness (brightness as actually observed from Earth)**.
 - HR diagram basics (Physics only)
 - Red-shift, Δλ/λ₀ = v/c, and evidence for the expanding universe and Big Bang theory (Physics only)
 
+## Frequently asked questions
+
+**Which parts of Edexcel IGCSE astrophysics are Physics only?**
+Statements marked P are Physics-only content. They include absolute magnitude, the Hertzsprung-Russell diagram, and all of the cosmology sub-topic on red-shift and the Big Bang.
+
+**Does the 4PH1 specification name the stages for a massive star?**
+No. The outcome for stars much more massive than the Sun is a single general statement. The specification names four stages only for a Sun-like star: nebula, main sequence star, red giant and white dwarf.
+
+**Is gravitational field strength the same everywhere?**
+No. Gravitational field strength g varies from place to place and is different on other planets and the Moon than on Earth.
+
+**What units does Topic 8 use?**
+Topic 8 uses the kilogram, metre, metre per second, metre per second squared, newton, second and newton per kilogram.
+
 ## Related resources
 
 - [Radioactivity and Particles](/resources/edexcel-igcse-physics-radioactivity-and-particles/) — the previous topic
@@ -240,4 +254,3 @@ examination year.*
   <img src="https://img.marlbridge.com/edexcel-igcse-physics-astrophysics--07-expanding-space.webp" width="900" height="1150" alt="Rows of five galaxies at an earlier time (spacing 100) and later (spacing 150). Arrows from the viewing galaxy get longer for galaxies that were farther away. The same pattern is seen when another galaxy is the viewer, so there is no special centre." loading="lazy">
   <figcaption>Every galaxy sees the others recede, farther ones faster, with no centre.</figcaption>
 </figure>
-

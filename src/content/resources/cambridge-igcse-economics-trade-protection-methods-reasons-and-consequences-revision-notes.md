@@ -230,6 +230,20 @@ An exporter in Country H sends 5 000 000 of goods to Country A. A tariff cuts sa
 - Repeating a reason instead of explaining why it matters for that industry.
 - Ending an evaluation with no judgement.
 
+## Frequently asked questions
+
+**What are the four methods of protection at IGCSE?**
+The Cambridge IGCSE Economics 0455 syllabus covers tariffs, import quotas, subsidies to domestic producers and embargoes.
+
+**What are the reasons for protection?**
+The four reasons are protecting infant industries, slowing the decline of declining industries, protecting strategic industries such as food, energy and defence, and avoiding dumping.
+
+**What is the cost per job of protection?**
+It is the extra cost to consumers, or to taxpayers, of protecting an industry divided by the number of jobs protected. A high cost per job suggests protection is an expensive way to save jobs.
+
+**How does protection affect trading partners?**
+Protection reduces the exports, incomes and jobs of trading partners. If they retaliate with their own barriers, the protecting country's exporters lose too, and both countries can end up worse off.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International Education). Content: section 6.2, subtopics 6.2.4 to 6.2.6.

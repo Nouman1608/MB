@@ -12,11 +12,20 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "data-transmission"
-description: "Packets and packet switching, serial versus parallel and simplex versus duplex transmission, error detection methods, and symmetric versus asymmetric encryption -- the full content of Topic 2 for Cambridge IGCSE Computer Science 0478, 2026-2028 series."
+  - qualification: "igcse"
+    topic: "data-transmission"
+    subtopic: "types-and-methods-of-data-transmission-0478"
+  - qualification: "igcse"
+    topic: "data-transmission"
+    subtopic: "methods-of-error-detection-0478"
+  - qualification: "igcse"
+    topic: "data-transmission"
+    subtopic: "encryption-0478"
+description: "Guide to Topic 2 of Cambridge IGCSE Computer Science 0478 (2026-2028): packets, packet switching, transmission methods, USB, error detection and encryption."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-01
 featured: false
 ---
@@ -127,6 +136,20 @@ also supplies power) and a drawback (transmission speed limits compared
 with some dedicated interfaces, and a maximum practical cable length),
 so prepare at least one of each rather than assuming the topic is too
 minor to be examined in its own right.
+
+## Frequently asked questions
+
+**What is an automatic repeat query (ARQ)?**
+ARQ uses positive and negative acknowledgements plus a timeout to confirm that data has been received without error, so data can be resent if needed.
+
+**Is a check digit an error detection method for transmitted data?**
+A check digit is a separate idea: it detects data-entry errors in a single piece of entered data, such as an ISBN or barcode, rather than checking an entire transmitted packet.
+
+**What is the difference between symmetric and asymmetric encryption?**
+Symmetric encryption uses one shared key to encrypt and decrypt. Asymmetric encryption uses a linked public and private key pair, where data encrypted with the public key can only be decrypted with the matching private key.
+
+**What are the benefits and drawbacks of USB?**
+USB is a standardised, widely supported connector that can also supply power. Its drawbacks are transmission speed limits compared with some dedicated interfaces and a maximum practical cable length.
 
 ## Official syllabus
 

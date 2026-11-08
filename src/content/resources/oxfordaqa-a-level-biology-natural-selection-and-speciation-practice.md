@@ -164,6 +164,20 @@ These questions cover sections 3.3.8.1 and 3.3.8.2 of the OxfordAQA *Internation
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate allele frequency from genotype counts in a selection question?**
+Use frequency of D = (2 × number of DD + number of Dd) ÷ (2 × total individuals), because each individual carries two gene copies. Forgetting to double the number of individuals is a common error.
+
+**How do you explain a change in allele frequency from data?**
+Quote figures, say which phenotype survived better and why, then link survival to reproduction, inheritance of the allele and a higher allele frequency in the next generation. Leaving out reproduction and inheritance loses marks.
+
+**Is a geographical barrier the cause of speciation?**
+No. The barrier stops gene flow; divergence then comes from mutation, selection and chance. Treating the barrier itself as the cause of the new species is a common error.
+
+**How do you name the type of selection from a distribution?**
+Look at the mean and range: an unchanged mean with a narrower range is stabilising, a shifted mean is directional, and loss of the middle with two peaks is disruptive. Describe the change in the distribution as well as naming the type.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Biology (9610)*, specification Version 5.1, sections 3.3.8.1 and 3.3.8.2 (Unit 3, Populations and genes).

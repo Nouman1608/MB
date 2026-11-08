@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-psm1-s1-statistics-oxfordaqa-alevel-maths"
     subtopic: "s1-bernoulli-and-binomial-distributions-oxfordaqa-alevel-maths"
-description: "Conditions for a Bernoulli distribution, deriving its mean and variance, and building the binomial distribution as a sum of independent Bernoulli trials -- S1.3 of OxfordAQA International AS and A-Level Mathematics (9660)."
+description: "OxfordAQA International A-Level Maths (9660) S1.3 guide: Bernoulli trials, deriving mean and variance, and the binomial distribution as a sum of trials."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -200,6 +200,23 @@ variable, and the probability rules developed in S1.1 underpin why the
 binomial formula takes the form it does. Reviewing those two sub-topics
 alongside S1.3 makes the derivation of the binomial mean and variance
 considerably more intuitive than treating the formulas in isolation.
+
+## Frequently asked questions
+
+**What is a Bernoulli distribution?**
+A Bernoulli distribution describes a single trial with exactly two outcomes, success with probability p and failure with probability 1 − p. Its mean is E(X) = p and its variance is Var(X) = p(1 − p).
+
+**What are the conditions for a binomial distribution?**
+There must be a fixed number of trials n, each with only two possible outcomes, a constant probability of success p, and trials that are independent of each other.
+
+**How are the binomial mean and variance linked to the Bernoulli distribution in OxfordAQA 9660?**
+A binomial distribution is the sum of n independent Bernoulli trials, so its mean np and variance np(1 − p) are n times the single-trial values p and p(1 − p). The specification expects you to explain this deduction.
+
+**When does the binomial model not apply exactly?**
+When one of the conditions fails, for example sampling without replacement from a small population, which breaks independence. Spotting this is an assessable skill.
+
+**What is the standard deviation of a binomial distribution?**
+It is the square root of the variance, √(np(1 − p)). The variance itself is np(1 − p).
 
 ## Related resources
 

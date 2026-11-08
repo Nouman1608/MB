@@ -272,6 +272,20 @@ Bigger share and lower costs are gains, but six years is a long wait and assumes
 - Giving reasons for a sector shift when the question asks for consequences.
 - Writing that limited liability stops the business losing money. It limits the owners' personal loss.
 
+## Frequently asked questions
+
+**Which forms of business ownership are in Cambridge 9609 section 1.2.2?**
+The syllabus names eight: sole trader, partnership, private limited company, public limited company, franchise, co-operative, joint venture and social enterprise.
+
+**What is the difference between limited and unlimited liability?**
+With unlimited liability, the owner is personally responsible for all business debts, so personal assets can be used to pay them. With limited liability, the most an owner can lose is the money put into the firm.
+
+**Why has the importance of the primary sector fallen in many economies?**
+Rising incomes shift spending towards services, mechanisation lets farms and factories produce more with fewer workers, and firms move production to lower-cost countries.
+
+**What are the advantages of being a small business?**
+Closer contact with customers, quick decisions, flexibility and low overheads. Drawbacks include limited finance, few economies of scale and vulnerability to larger rivals.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education).

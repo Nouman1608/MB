@@ -158,6 +158,23 @@ P = Ae^(kt), where t is the number of years after 2010.
 - Answering a "which year" question with a number of years, or the wrong year.
 - Stating a generic limitation ("models are not perfect") with no link to the context.
 
+## Frequently asked questions
+
+**What does AQA A-level Maths 7357 Section F cover?**
+Section F covers exponential and logarithmic functions and their graphs, the laws of logarithms, solving equations of the form aˣ = b, using log graphs to estimate parameters, and exponential models, content references F1 to F7.
+
+**Why must you check roots after solving a logarithm equation?**
+Every log argument in the original equation must be positive. A root that makes any argument zero or negative must be rejected.
+
+**How do you solve 3^(2x + 1) − 10 × 3ˣ + 3 = 0?**
+Write 3^(2x + 1) as 3 × (3ˣ)², let u = 3ˣ and solve the quadratic in u. Keeping the factor 3 is essential, and any value of u that is not positive must be rejected.
+
+**How do you find a and n from a graph of ln y against ln x?**
+For y = axⁿ, ln y = ln a + n ln x, so the gradient is n and the intercept is ln a. Then a = e^(intercept); quoting the intercept as a loses the mark.
+
+**How should you state a limitation of an exponential growth model?**
+Tie it to the context, for example a town's population cannot grow without limit because of housing and services. A generic phrase such as "models are not perfect" does not earn the mark.
+
 ## Next steps
 
 - [Revision notes for this section](/resources/aqa-a-level-mathematics-exponentials-and-logarithms-revision-notes/)

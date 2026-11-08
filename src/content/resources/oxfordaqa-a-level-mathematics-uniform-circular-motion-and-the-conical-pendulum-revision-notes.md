@@ -215,6 +215,20 @@ Take g = 9.8 m s⁻² and give 3 significant figures unless exact.
 - Quoting the acceleration of a vector problem without a direction or sign. In vector form the sign carries the direction.
 - Omitting units, or giving a bare decimal where the question asked for an answer in terms of π.
 
+## Frequently asked questions
+
+**What are the formulae for uniform circular motion?**
+v = rω, a = rω² and a = v²/r, with ω = 2π/T. The OxfordAQA 9660 specification lists these among formulae you must learn, as they are not in the formulae booklet.
+
+**Is the speed constant in uniform circular motion?**
+Yes, the speed is constant, but the velocity keeps changing direction. That is why there is an acceleration towards the centre.
+
+**What condition on ω does a conical pendulum need?**
+The string leaves the vertical only when ω² > g/L, where L is the string length.
+
+**What provides the force towards the centre for a coin on a turntable?**
+Friction, which can be at most μR. The vertical forces balance, so R = mg.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2, published by OxfordAQA. Section M2.7 of Unit M2 (International A-level only).

@@ -21,9 +21,9 @@ description: "12 original IB DP ESS questions on climate, biomes, zonation and s
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -175,6 +175,23 @@ Learn the content first in the [study guide](/resources/ib-dp-ess-climate-biomes
 - [Printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Are these IB ESS climate and succession questions from past papers?**
+No. They are original practice questions, and the climate and transect data are fictional. Use them alongside official IB past papers from your school.
+
+**Which part of the IB ESS syllabus do these questions cover?**
+They cover climate, biomes, zonation and succession, which this site places in Topic 2 Ecology. The 2026 subject brief gives Topic 2 22 teaching hours at SL and 35 at HL.
+
+**How do you identify a biome from climate data in an exam?**
+Work out the annual precipitation and temperature range, check for a dry season or months below 0 °C, then name the biome. Marks are lost if you do not quote figures from the data as evidence.
+
+**What are the most common mistakes on succession questions?**
+Common slips include saying productivity falls late in succession when GPP rises and only NPP falls, naming a plagioclimax without the human activity that maintains it, and leaving units off NPP values.
+
+**How do you end a "to what extent" answer in IB ESS?**
+Finish with a clear judgement that weighs the evidence you have given. Ending without a judgement is a common way to lose marks on extended questions.
 
 ## Official syllabus
 

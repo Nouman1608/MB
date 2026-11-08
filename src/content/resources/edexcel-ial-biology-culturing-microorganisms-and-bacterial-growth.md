@@ -209,6 +209,23 @@ The specification asks you to investigate the rate of growth of microorganisms i
 
 Now test yourself with the [practice questions](/resources/edexcel-ial-biology-culturing-microorganisms-and-bacterial-growth-practice/) and compress the content with the [revision notes](/resources/edexcel-ial-biology-culturing-microorganisms-and-bacterial-growth-revision-notes/).
 
+## Frequently asked questions
+
+**What are the aims of aseptic technique?**
+To keep unwanted microorganisms out so the culture stays pure, and to keep the culture in so people are not exposed to it.
+
+**How do you use a haemocytometer?**
+Count cells in squares of known volume. One large square is 1 mm × 1 mm × 0.1 mm deep, which is 1 × 10⁻⁴ cm³, so divide the count by this volume and multiply by any dilution factor.
+
+**What are the four phases of a bacterial growth curve?**
+The lag phase, when cells adjust to the medium; the exponential phase, when they divide at a constant rate; the stationary phase, when division and death are balanced; and the death phase, when death exceeds division.
+
+**Why does turbidity not fall much in the death phase?**
+Turbidity measures all cells, including dead ones, which still scatter light, so the reading stays high even as viable cell numbers fall.
+
+**Why are plates incubated at about 25 °C?**
+Incubating at a modest temperature, rather than body temperature, reduces the chance of growing microorganisms that are harmful to humans.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology (YBI11) specification, Issue 2, published by Pearson Education Limited.

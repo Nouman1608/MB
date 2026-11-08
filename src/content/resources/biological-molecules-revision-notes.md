@@ -15,11 +15,11 @@ syllabusTopics:
     subtopic: "biological-molecules-content"
 description: "Condensed recall notes on carbohydrates, lipids, proteins, DNA and the food tests for Cambridge O Level Biology 5090."
 author: "saad-zai"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-08-22
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -119,3 +119,20 @@ above.
 7. Describe how you would test an unknown solution for starch, including the result for a positive test.
 
 **Answers:** 1. Nitrogen. 2. Benedict's solution, heated in a water bath; blue → brick-red precipitate. 3. Peptide bond. 4. Adenine with thymine; cytosine with guanine. 5. It is compact and insoluble, so large quantities can be stored without affecting the water potential of the cell, and it is readily hydrolysed back to glucose when needed. 6. Only Benedict's requires heating (in a water bath); iodine, biuret and the emulsion test are all carried out at room temperature. 7. Add a few drops of iodine solution directly to the sample at room temperature; a colour change from orange-brown to blue-black indicates starch is present.
+
+## Frequently asked questions
+
+**Which element distinguishes proteins from carbohydrates and lipids?**
+Nitrogen. Proteins contain nitrogen, while carbohydrates and lipids contain only carbon, hydrogen and oxygen.
+
+**What is a lipid made of?**
+A lipid is made of one glycerol and three fatty acids, joined by ester bonds.
+
+**What is biuret reagent?**
+Biuret reagent is either a ready-made biuret solution, or sodium hydroxide solution followed by dilute copper sulfate solution. A positive result for protein is a purple colour.
+
+**What is the difference between starch and cellulose?**
+Both are polymers of glucose. Starch and glycogen are storage polysaccharides, while cellulose is a structural polysaccharide with straight chains.
+
+**Is the non-reducing sugar test required for Cambridge O Level Biology 5090?**
+No. The notes mark it as beyond the 5090 syllabus, which lists four food tests. A negative Benedict's result only shows no reducing sugar is present.

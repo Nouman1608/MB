@@ -9,13 +9,13 @@ qualifications: ["igcse"]
 syllabusCodes: ["4ET1"]
 syllabusSeries: "For first teaching 2016"
 order: 3
-description: "Why Component 1 of Pearson Edexcel IGCSE English Literature 4ET1 is closed book while Component 2 is open book, how the coursework alternative differs, and a worked quotation-selection routine."
+description: "Exam preparation for Edexcel IGCSE English Literature 4ET1: closed-book Component 1, open-book Component 2, the coursework route and quotation selection."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 Pearson Edexcel International GCSE English Literature 4ET1 has one compulsory component and a choice
@@ -114,6 +114,18 @@ demonstrable, while comment on a quotation as a whole tends to restate it.
   do not let having the text tempt you into long quotation.
 - **In every paragraph**: point first, then evidence, then a named method, then the effect, then the
   link to the whole text.
+
+## Frequently asked questions
+
+**Which 4ET1 papers are open book?**
+Component 1 is closed book (the anthology poems are provided); Component 2 is open book with unmarked prescribed editions.
+
+**How are the marks weighted?**
+Component 1 is worth 60% (90 marks) and Component 2 or Component 3 40% (60 marks).
+
+**How much is the modern prose essay worth?**
+40 marks, the largest single question in Component 1, assessing AO1 and AO4.
+
 
 ## Self-test
 

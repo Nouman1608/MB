@@ -158,6 +158,20 @@ The actual significance level is 0.0107, about 1%, which is well below 5%. The d
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class on the [trial page](/trial/).
 
+## Frequently asked questions
+
+**How do you write hypotheses for a binomial or Poisson test?**
+Define the parameter p or λ in words, then write H₀ as the parameter equal to a specified value and H₁ with >, < or ≠. Hypotheses are about the parameter, never about the sample result.
+
+**What is the most common slip in upper-tail probabilities?**
+Writing P(X ≥ c) as 1 − P(X ≤ c) instead of 1 − P(X ≤ c − 1). The "minus one" is easy to forget.
+
+**How do you handle the significance level in a two-tailed test?**
+Split it between the two tails, so a 5% two-tailed test uses 2.5% in each tail.
+
+**What should a hypothesis test conclusion say?**
+It should give the decision and a sentence in the context of the question. "Do not reject H₀" means there is insufficient evidence against it, not that H₀ has been proved.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA: Unit S2 (Statistics), section S2.6, Hypothesis testing.

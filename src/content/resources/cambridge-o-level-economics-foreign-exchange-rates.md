@@ -205,6 +205,20 @@ Reserves are limited. If the problem is permanent, the authorities may have to d
 - Saying "demand for exports" when you mean demand for the currency. The link is: foreign buyers must buy the currency first.
 - Forgetting that a fixed rate still faces market pressure.
 
+## Frequently asked questions
+
+**What does section 6.3 of Cambridge O Level Economics 2281 cover?**
+Section 6.3 covers what a foreign exchange rate is, how the rate is determined in the foreign exchange market, the causes of fluctuations, the effects on export and import prices and spending, and floating versus fixed systems.
+
+**How is an exchange rate determined in a floating system?**
+The rate is set by demand for and supply of the currency. Demand comes from foreign buyers of exports, tourists and investors; supply comes from residents buying imports, travelling abroad or investing abroad.
+
+**How do multinational companies affect exchange rates?**
+When an MNC sets up in a country, it must buy the local currency to pay wages and suppliers, so demand rises and the currency tends to appreciate. When it leaves and sends money home, the currency tends to fall.
+
+**Why does an appreciation hurt exporters?**
+An appreciation raises the price of exports in foreign currency, so foreign buyers may buy fewer. Exporters paid in their home currency then receive less revenue if sales fall.
+
 ## Official syllabus
 
 This guide follows the Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: section 6.3 Foreign exchange rates.

@@ -27,11 +27,11 @@ syllabusTopics:
     subtopic: "plant-hormones-aqa-gcse-biology"
 description: "Twelve original AQA GCSE Biology 8461 questions on reflexes, the eye, diabetes, kidneys, hormones, IVF and auxin, with mark-by-mark answers."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -188,6 +188,20 @@ Learn the content first in the [study guide](/resources/aqa-gcse-biology-8461-ho
 - Track coverage with the [printable checklist](/checklists/aqa/gcse/biology/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Which topic of AQA GCSE Biology 8461 do these questions cover?**
+They cover topic 5, Homeostasis and response, including reflexes, the eye, hormones, diabetes, the kidneys, fertility treatment and plant hormones.
+
+**How do you calculate a percentage change correctly?**
+Divide the change by the original value, not the new value, then multiply by 100.
+
+**What units should mean reaction times have?**
+Give mean reaction times with units, such as seconds. Leaving units off is a common way to lose marks.
+
+**Are some of these questions Higher tier only?**
+Yes. Questions marked "Higher tier only", such as those on hormones in the menstrual cycle and IVF results, are for Higher tier students.
 
 ## Official syllabus
 

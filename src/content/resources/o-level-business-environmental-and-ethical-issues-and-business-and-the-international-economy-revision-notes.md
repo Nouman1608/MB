@@ -298,6 +298,20 @@ A new boiler costs Rs 420,000 and cuts a Rs 2,500,000 energy bill by 12%. The ye
 - Inventing named laws instead of describing the legal control in general terms.
 - Naming an ethical issue but not giving a business response.
 
+## Frequently asked questions
+
+**What is the difference between an import tariff and an import quota?**
+An import tariff is a tax on imported goods, which raises their price. An import quota is a limit on the quantity of a good that may be imported.
+
+**What is the difference between an external cost and an external benefit?**
+An external cost is borne by third parties, such as smoke harming the health of people nearby. An external benefit is a gain to third parties, such as local jobs created when a new factory attracts shops and cafes.
+
+**What is the difference between appreciation and depreciation of a currency?**
+Appreciation means a currency buys more foreign currency, while depreciation means it buys less. Reversing the two is the usual way to lose all the marks on an exchange-rate question.
+
+**What is repatriation of profits?**
+Repatriation of profits means a multinational sends profits back to its home country instead of reinvesting them where they were earned.
+
 ## Official syllabus
 
 Cambridge O Level Business Studies 7115, syllabus for examination in 2026, Cambridge University Press and Assessment (Cambridge International Education).

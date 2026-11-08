@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-environment-2059"
     subtopic: "the-land-of-pakistan-2059"
-description: "Condensed recall notes on Pakistan's location, administrative areas, topography and climate for Section 1 of Paper 2, Cambridge O Level Pakistan Studies (2059), 2026 series."
+description: "Revision notes on Pakistan's location, cities, topography and climate for Cambridge O Level Pakistan Studies 2059 Paper 2 Section 1, The land of Pakistan."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -125,6 +125,17 @@ builds — each later item assumes the earlier ones are already secure.
 **Answers:** 1. 64°E, 70°E, 76°E. 2. Arid, semi-arid, humid, highland. 3. The monsoon. 4. Steep,
 high-altitude terrain makes road and rail construction difficult and expensive. 5. How the landforms
 were geologically formed.
+
+## Frequently asked questions
+
+**How is Paper 2 structured?**
+Paper 2 (1 hour 30 minutes, 75 marks, 50%) asks you to answer three questions from a choice of five, each worth 25 marks, in four parts (a) to (d) built around maps, graphs, photographs and other resources; part (d) tests analysis.
+
+**What are Pakistan's four climate zones?**
+Arid, semi-arid, humid and highland.
+
+**Do I need landform formation?**
+No. You need to identify landforms and explain their influence on human activity.
 
 ## Official syllabus
 

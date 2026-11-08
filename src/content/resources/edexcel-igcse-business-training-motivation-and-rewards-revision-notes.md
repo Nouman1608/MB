@@ -243,6 +243,20 @@ Check for this month: 0.03 × 41,000 = 1,230, then 1,300 + 1,230 + 150 = 2,680.
 - Giving a one-sided answer to "evaluate" or "justify".
 - Using the word "motivated" without saying what it changes, such as output, quality or retention.
 
+## Frequently asked questions
+
+**What is the difference between induction, on-the-job and off-the-job training?**
+Induction helps a new starter settle in and learn the rules and safety procedures. On-the-job training builds job-specific skills at the workplace, while off-the-job training teaches wider or specialist skills away from the work area.
+
+**What are Herzberg's hygiene factors and motivators?**
+Hygiene factors, such as pay, working conditions and job security, cause dissatisfaction if poor but do not motivate when good. Motivators, such as achievement, recognition, responsibility and interesting work, give real motivation.
+
+**What is the difference between a bonus and commission?**
+Commission is a percentage of sales made, usually paid on top of basic pay. A bonus is an extra one-off payment for meeting a target, such as a profit or quality target.
+
+**What are the non-financial methods of motivation in Edexcel IGCSE Business?**
+The 4BS1 specification lists job rotation, job enrichment and autonomy. Job rotation adds variety, job enrichment adds depth and autonomy adds freedom.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 2: People in business, sections 2.3 Training and 2.4 Motivation and rewards, points 2.3.1, 2.4.1 and 2.4.2.

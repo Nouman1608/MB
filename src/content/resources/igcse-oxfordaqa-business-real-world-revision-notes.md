@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "business-in-the-real-world-oxfordaqa-igcse-business"
 description: "Condensed recall notes on business purpose, ownership, stakeholders, location and growth for OxfordAQA International GCSE Business 9225."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -220,3 +220,16 @@ e.g. $50,000 / 10,000 units = $5 per unit
   <figcaption>External factors usually bring a cost and often a partly offsetting benefit.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Do economies of scale reduce total costs?**
+No. Economies of scale reduce average cost, or cost per unit, as output rises; total costs still rise with output.
+
+**What is the difference between horizontal and vertical integration?**
+Horizontal integration joins businesses in the same industry at the same stage, such as buying a competitor. Vertical integration moves forward towards the customer, such as buying a retailer, or backward towards the supplier to secure inputs.
+
+**Why do weight-losing industries locate near raw materials?**
+Industries such as steel and food processing locate near raw materials because it is cheaper to transport the lighter finished product than the bulky inputs.
+
+**Is a public limited company owned by the government?**
+No. A public limited company is in the private sector, owned by shareholders, and treating it as government-owned is a common exam trap in OxfordAQA IGCSE Business 9225.

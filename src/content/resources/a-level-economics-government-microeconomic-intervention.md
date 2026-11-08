@@ -13,11 +13,11 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "government-microeconomic-intervention-as-cambridge-alevel-economics"
-description: "Why governments intervene in individual markets, the methods used -- indirect taxes, subsidies, price controls, buffer stocks, direct provision -- and policies to address income and wealth inequality, for Cambridge International AS & A Level Economics 9708."
+description: "Study guide to Cambridge 9708 Topic 3: why governments intervene in markets, taxes, subsidies, price controls, buffer stocks and redistribution policies."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -182,6 +182,23 @@ while progressive taxation and transfer payments redistribute *after*
 income and wealth have already been generated -- since evaluation
 questions reward this kind of precise, mechanism-linked answer over a
 general list of policy names.
+
+## Frequently asked questions
+
+**What are the reasons for government intervention in Cambridge 9708?**
+The syllabus names three: addressing the non-provision of public goods, addressing over-consumption of demerit goods and under-consumption of merit goods, and controlling prices in markets.
+
+**What does tax incidence mean?**
+Incidence is how the burden of a tax, or the benefit of a subsidy, splits between consumers and producers. It depends on the relative price elasticity of demand and supply in that market.
+
+**What is the difference between income and wealth?**
+Income is a flow, money received over a period of time such as wages, interest or dividends. Wealth is a stock, the value of assets owned at a point in time such as property, savings or shares.
+
+**Why is a minimum price the wrong tool for a merit good?**
+A minimum price raises the price and creates a surplus, which would worsen under-consumption. A subsidy, direct provision or information provision fits a merit good better.
+
+**Is Topic 3 AS or A Level content in Cambridge Economics?**
+Topic 3 Government microeconomic intervention is AS Level content in Cambridge International AS & A Level Economics 9708, building on Topic 2 The price system and the microeconomy.
 
 ## Official syllabus
 

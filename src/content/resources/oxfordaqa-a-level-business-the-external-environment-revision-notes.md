@@ -242,6 +242,20 @@ YED. Income rises 10% and quantity demanded falls 3%. YED = -3 / 10 = -0.3. Nega
 - Writing only one side of barriers to entry: say who gains and who loses.
 - Making a judgement in an evaluation answer with no reason or evidence for why one effect outweighs another.
 
+## Frequently asked questions
+
+**How do you calculate a four firm concentration ratio?**
+Rank the firms, pick the four largest, turn each into a percentage share of the market and add the shares together. The answer should be given as a percentage.
+
+**How do you use income elasticity of demand to forecast sales?**
+Multiply the YED, keeping its sign, by the percentage change in income to get the percentage change in quantity demanded, then apply it to current sales.
+
+**Can a market grow in volume but shrink in value?**
+Yes. If prices fall far enough, more units can be sold while total sales value falls. That is why you should always say whether you are using volume or value.
+
+**How do you calculate the value of a market?**
+The value of a market is its volume multiplied by the average price. Growth is then the change divided by the old figure, multiplied by 100.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725), specification Version 1.1, section 3.1.1.3, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. The 9625 specification (Version 3.1, first teaching September 2018) also has a section 3.1.1.3, checked against its text: it lists the degree of competition (number of businesses), the extent of barriers to entry, and calculating and interpreting market size, market growth or decline and concentration ratio; and the effect of changes in incomes, interest rates, exchange rates, costs of inputs, government policies and competition (including from abroad). It does not list income elasticity of demand, normal and inferior goods or the four firm form of the ratio in that section; those points, and market share, come from the 9725 wording. Published by OxfordAQA.

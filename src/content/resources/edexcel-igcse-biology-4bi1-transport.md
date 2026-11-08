@@ -432,6 +432,23 @@ These wall/lumen comparisons describe typical systemic vessels. Vessel names des
 
 Condense this into the [revision notes](/resources/edexcel-igcse-biology-4bi1-transport-revision-notes/), then try the [practice questions](/resources/edexcel-igcse-biology-4bi1-transport-practice/). Take a free [diagnostic](/diagnostics/) to find your weakest topics.
 
+## Frequently asked questions
+
+**What do xylem and phloem carry?**
+Xylem carries water and mineral ions from the roots to the rest of the plant. Phloem carries sucrose and amino acids between different parts of the plant.
+
+**What does blood plasma carry?**
+Carbon dioxide from respiring cells to the lungs, digested food such as glucose and amino acids, urea from the liver to the kidneys, hormones and heat energy.
+
+**How does a potometer measure the rate of transpiration?**
+A potometer measures water uptake by a leafy shoot. The distance an air bubble moves in a set time, or the volume using π r² × distance, gives the rate, which is used as an estimate of transpiration.
+
+**What are the risk factors for coronary heart disease?**
+Smoking, a diet high in saturated fat, lack of exercise and being overweight, high blood pressure and stress, and genetic factors.
+
+**What is the route of blood through the heart?**
+Vena cava, right atrium, right ventricle, pulmonary artery to the lungs, pulmonary vein, left atrium, left ventricle and out through the aorta.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1), Specification, Issue 3, September 2024, Pearson Education Limited: Topic 2, sub-topic (h) Transport, points 2.51–2.69.

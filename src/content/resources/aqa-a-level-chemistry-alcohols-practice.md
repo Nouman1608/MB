@@ -167,7 +167,7 @@ Ar values C = 12.0, H = 1.0, O = 16.0.
 *Examiner insight:* Each identification needs evidence from the data; a correct name with no reason gets only the name mark.
 
 **12. (a)** Fermentation of glucose with yeast, about 35 °C, no air [1]; ethanol (after fractional distillation) heated with concentrated phosphoric or sulfuric acid to give ethene [1]; addition polymerisation of ethene to poly(ethene) [1]
-**(b)** Any four: sugar cane is renewable [1]; less use of finite crude oil [1]; land used for fuel crops is not used for food and may raise food prices [1]; clearing forest destroys habitats and releases CO₂ [1]; fertiliser run-off; fossil-fuel energy is still used in farming and distillation. **[7]**
+**(b)** Any four: sugar cane is renewable [1]; less use of finite crude oil [1]; land used for fuel crops is not used for food and may raise food prices [1]; clearing forest destroys habitats and releases CO₂ [1]; fertiliser run-off [1]; fossil-fuel energy is still used in farming and distillation [1]. Maximum **[4]**.
 *Examiner insight:* "Discuss" expects points on both sides; four advantages with no drawbacks will not reach full marks.
 
 ## Where marks are usually lost
@@ -181,6 +181,20 @@ Ar values C = 12.0, H = 1.0, O = 16.0.
 - Missing E/Z isomers in elimination products.
 - Using masses instead of moles in percentage yield.
 - Using a 1 : 1 ratio for dichromate and alcohol instead of the 1 : 3 ratio in the equation.
+
+## Frequently asked questions
+
+**Is the alcohols topic in AQA AS Chemistry?**
+Yes. Section 3.3.5 Alcohols of the AQA 7404/7405 specification is all AS content, examined on Paper 2 at AS and A-level, and A-level Paper 3 can test any content.
+
+**How are marks given for curly-arrow mechanisms?**
+Each arrow must start at a bond or a lone pair; an arrow starting from an H⁺ ion or a positive charge is not credited. Show the intermediate carbocation and remember that H⁺ is regenerated in hydration and elimination.
+
+**What do examiners expect in a "discuss" question on biofuels?**
+A "discuss" question expects points on both sides, such as renewability and reduced crude oil use against land use for food and fossil-fuel energy in farming. A list of advantages with no drawbacks will not reach full marks.
+
+**How do you avoid losing marks in percentage yield calculations?**
+Convert both the reactant and the product masses to moles before comparing them. Dividing masses directly gives the wrong answer and loses the method marks.
 
 ## Next steps
 

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Budgeting (YAC11) -- Revision Notes"
+title: "Edexcel International A Level Accounting: Budgeting (YAC11) -- Revision Notes"
 seoTitle: "Edexcel IAL Accounting Budgeting Revision Notes (YAC11)"
 resourceType: "revision-notes"
 subject: "accounting"
@@ -230,6 +230,20 @@ Flexed profit minus fixed budget profit shows the effect of selling a different 
 - Flexing fixed overheads, or the fixed part of a semi-variable cost.
 - Labelling variances without F or A, or calling a lower cost adverse.
 - Losing the link between the cash budget's closing balance and the bank figure in the statement of financial position.
+
+## Frequently asked questions
+
+**Which unit of Edexcel YAC11 covers budgeting?**
+Budgeting is topic 2.4 in Unit 2 of Pearson Edexcel International A Level Accounting. It covers budgeting as a management tool, budget preparation, functional and cash budgets, budgeted statements and flexible budgets.
+
+**Is the purchase of a non-current asset included in the cash budget?**
+Yes. A capital purchase such as a van is still a cash payment, so it goes in the cash budget in the month it is paid. Leaving it out because it is "capital" is a common mistake.
+
+**Are irrecoverable debts and discounts cash items?**
+No. Irrecoverable debts and discounts allowed reduce trade receivables but are not cash receipts or payments, so they do not appear in the cash budget.
+
+**Where does a dividend appear in budgeted statements?**
+A dividend reduces retained earnings and the bank balance; it is not an expense in the budgeted statement of comprehensive income.
 
 ## Official syllabus
 

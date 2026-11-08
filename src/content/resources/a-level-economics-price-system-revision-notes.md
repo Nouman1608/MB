@@ -13,11 +13,11 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-price-system-and-the-microeconomy-as-cambridge-alevel-economics"
-description: "Condensed revision notes on demand and supply, elasticity, market equilibrium, and consumer/producer surplus for Cambridge AS & A Level Economics Topic 2 (9708)."
+description: "Revision notes for Cambridge 9708 Topic 2: demand and supply shifts, PED, YED, XED and PES, market relationships, price functions and economic surplus."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -182,3 +182,20 @@ memorised recall of the textbook cases alone.
 are complements. 3. The good is inferior. 4. Rationing, signalling, incentivising. 5. Consumer surplus
 falls sharply, since inelastic demand means quantity barely changes as price rises, so consumers pay much
 more for close to the same quantity.
+
+## Frequently asked questions
+
+**What is the step-by-step method for any elasticity calculation?**
+Calculate the percentage change in quantity, then the percentage change in price, income or the related good's price, and divide the first by the second. Only then interpret the coefficient by size and sign.
+
+**What does a negative cross elasticity of demand mean?**
+A negative XED means the two goods are complements. Getting this sign backwards, and treating them as substitutes, is a common way to lose marks.
+
+**What is joint supply?**
+Joint supply describes goods produced together from the same process, such as beef and leather from the same animal, so an increase in supply of one increases supply of the other.
+
+**How does elasticity affect consumer and producer surplus?**
+The more inelastic demand is, the more a supply shift changes consumer surplus; the more inelastic supply is, the more a demand shift changes producer surplus.
+
+**Does Cambridge 9708 Paper 2 reward diagrams?**
+Yes. AO1 credits written, numerical and diagrammatic forms, so sketch a diagram for shifts, equilibrium changes and shaded surplus areas.

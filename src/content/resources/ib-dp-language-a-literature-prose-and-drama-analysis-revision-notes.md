@@ -17,11 +17,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-intertextuality"
 description: "Revision notes on prose and drama for IB DP Language A: Literature: key terms, step-by-step methods, must-know distinctions and a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 For full explanations and worked examples, start with the
@@ -193,6 +193,20 @@ developed, beats three techniques named in a list.
 - Dropping long quotations in without comment instead of embedding a few precise words.
 - Writing a context paragraph that never connects to a technique or an effect.
 - In comparison, discussing the novel and the play in two separate blocks with no linking point.
+
+## Frequently asked questions
+
+**What is the difference between a narrator and a focaliser?**
+The narrator tells the story; the focaliser is the character whose perception shapes what is seen. In third-person limited narration they can be different.
+
+**What is the difference between a scene and a summary in prose?**
+A scene tells events at roughly real-time speed with detail; a summary compresses a long period into a few words. The balance between them shows what matters to a character.
+
+**What is the difference between a soliloquy, a monologue and an aside?**
+A soliloquy is a character alone on stage speaking their thoughts; a monologue is a long speech to other characters; an aside is a quick line that other characters on stage do not hear.
+
+**Why might a playwright keep a key event off stage?**
+To create suspense, to focus on characters' reactions rather than the event itself, to leave violence or spectacle to the audience's imagination, or because of the practical limits of the stage.
 
 ## Official syllabus
 

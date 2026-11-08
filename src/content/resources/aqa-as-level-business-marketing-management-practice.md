@@ -145,6 +145,20 @@ These questions cover section **3.1.3 Marketing management** of the AQA AS and A
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What base should you use for percentage change, share or index numbers?**
+Use the correct base year in each case: the original figure for percentage change and the base year as 100 for an index. Using the wrong year is the most common error.
+
+**What should you say after calculating an elasticity?**
+Read the value: say whether demand is elastic or inelastic, or whether the good is normal or inferior, and what it means for revenue. Giving a number without that reading loses marks.
+
+**Is a rise in revenue always good for a business?**
+Not necessarily. A price change that raises revenue can also change the profit margin, so check the effect on profit before concluding.
+
+**How should you use a confidence interval in an answer?**
+Apply it to the decision in the case, for example by saying whether the lower end of the interval would still make a launch worthwhile, rather than only defining it.
+
 ## Official syllabus
 
 AQA AS and A-level Business (7137, 7138) specification, version 1.1, November 2025: section 3.1.3 Marketing management, the assessment overview and the Annex on quantitative skills and formulae.

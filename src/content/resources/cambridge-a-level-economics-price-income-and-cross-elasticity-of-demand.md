@@ -198,6 +198,20 @@ Total expenditure of consumers equals price × quantity, and is the same amount 
 - Stating that revenue rises after any price rise, without checking whether demand is elastic.
 - Describing PED of 0.8 as "elastic" because the number is close to 1.
 
+## Frequently asked questions
+
+**Why are elasticity estimates not fully reliable?**
+Coefficients are estimates from past data and assume ceteris paribus, but tastes, incomes and other prices change. Firms using them for decisions should treat them as a guide rather than a fixed value.
+
+**Why is PED usually negative?**
+Price and quantity demanded normally move in opposite directions, following the law of demand, so the PED coefficient is normally negative.
+
+**How do firms use income elasticity of demand?**
+Firms expecting income growth plan more output of goods with high YED and less of inferior goods, whose demand falls as income rises.
+
+**Which Cambridge 9708 section covers PED, YED and XED?**
+Section 2.2 of Cambridge International AS and A Level Economics 9708, outcomes 2.2.1 to 2.2.8, covers price, income and cross elasticity of demand.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, section 2.2 (Cambridge University Press & Assessment).

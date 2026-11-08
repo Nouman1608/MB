@@ -243,6 +243,20 @@ An **appreciation** reverses every row.
 - Treating an FTA as the same thing as free trade with the whole world.
 - Forgetting that an exchange rate change helps one group and harms another.
 
+## Frequently asked questions
+
+**What are the arguments against free trade?**
+Arguments for some protection include protecting infant industries, avoiding job losses in uncompetitive industries, preventing dumping below cost, protecting strategic industries such as food and energy, avoiding overdependence, and stopping imports made under weaker standards from undercutting local firms.
+
+**How do you calculate the effect of a fall in exports to one trading partner?**
+Multiply the share of total exports going to that partner by the percentage fall in sales there. For example, if 50% of exports go to one country and sales there fall 12%, total exports fall by 6%.
+
+**How is an exchange rate determined in a free market?**
+The exchange rate is set where the demand for a currency equals its supply. Demand comes from foreigners who need the currency to buy the country's exports, pay for tourism, invest or save there; supply comes from residents changing it into foreign currency, for example to buy imports.
+
+**When does a depreciation help exporters most?**
+A depreciation helps exporters more if demand for their exports is price elastic, because the lower foreign price then raises sales by a larger proportion. It also raises costs for firms with imported inputs, and effects may take time because of contracts and fixed prices.
+
 ## Official syllabus
 
 These notes follow the OxfordAQA International GCSE Economics (9214) specification, version 1.0, for exams from May/June 2025 onwards, published by OxfordAQA.

@@ -14,11 +14,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-carbonyl-compounds"
     subtopic: "as-aldehydes-and-ketones"
-description: "Condensed recall notes on carbonyl reactions, nucleophilic addition, and the tests that identify aldehydes and ketones for Cambridge AS & A Level Chemistry 9701."
+description: "Revision notes for Cambridge AS & A Level Chemistry 9701 carbonyls: preparation, reduction, nucleophilic addition of HCN and the aldehyde and ketone tests."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -134,3 +134,17 @@ This is a **different** test from Tollens'/Fehling's: those two distinguish alde
 7. Explain why propanone gives a positive iodoform test even though it is a ketone.
 
 **Answers:** 1. Oxygen is much more electronegative than carbon, so the C=O bond is polar and the carbon carries a partial positive charge. 2. That a carbonyl group is present (aldehyde or ketone); it does **not** distinguish between them. 3. NaBH₄ (or LiAlH₄ in dry ether), giving the secondary alcohol. 4. The carbonyl is planar, so CN⁻ attacks with equal probability from either face, producing equal amounts of both enantiomers. 5. Tollens' — silver mirror with an aldehyde; Fehling's — brick-red precipitate with an aldehyde. Neither reacts with a ketone. 6. That the compound contains a CH₃CO– group; a negative result does not rule out the compound being an aldehyde or a ketone, only that this specific fragment is absent. 7. Its carbonyl carbon has a CH₃ group directly attached (CH₃–CO–CH₃), which is exactly the structural feature the iodoform test detects, regardless of whether the compound is an aldehyde or a ketone.
+
+## Frequently asked questions
+
+**Why is the carbonyl carbon attacked by nucleophiles?**
+Oxygen is much more electronegative than carbon, so the C=O bond is polar and the carbon carries a partial positive charge. Nucleophiles are attracted to this electron-deficient carbon.
+
+**What does adding HCN to a carbonyl compound do to the carbon chain?**
+Nucleophilic addition of HCN adds one carbon atom, forming a hydroxynitrile. Forgetting that the chain gains a carbon is a common exam trap.
+
+**Does the iodoform test distinguish aldehydes from ketones?**
+No. The iodoform test identifies a CH₃CO– group, which can be in either an aldehyde or a ketone; propanone, a ketone, gives a positive result.
+
+**How are reduction reactions written in organic equations?**
+Reduction is shown using [H] for the reducing agent, for example with NaBH₄. Using [O], which represents oxidation, is a mistake.

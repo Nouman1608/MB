@@ -237,6 +237,23 @@ The 900 is a current liability. The statement of financial position uses the sam
 - Adding drawings to expenses rather than deducting them from equity.
 - Leaving a disposal account without the cost or the accumulated depreciation transfer.
 
+## Frequently asked questions
+
+**What is the difference between trade discount and cash discount?**
+Trade discount reduces the list price and is never recorded; only the net invoice value is entered. Cash discount is given for prompt payment and is recorded in the discount columns of the cash book.
+
+**What are the four steps in a disposal account?**
+Debit disposal and credit the asset with its cost; debit accumulated depreciation and credit disposal; debit bank and credit disposal with the proceeds; then transfer the balance as the profit or loss on disposal.
+
+**How do you decide if spending is capital or revenue?**
+Ask whether the spending gives a benefit over more than one period by adding to an asset. If yes, it is capital expenditure; if not, it is revenue expenditure.
+
+**How should accruals and prepayments be shown in the statement of financial position?**
+Show them under the subheadings the specification uses: accrued expenses under current liabilities and prepayments under current assets, rather than as separate unlabelled headings.
+
+**Does a service business have a gross profit?**
+No. A service business has no cost of sales or gross profit; fees are listed and expenses deducted to reach profit for the year.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.1.3 The double entry model.

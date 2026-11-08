@@ -12,7 +12,7 @@ order: 6
 syllabusTopics:
   - qualification: "igcse"
     topic: "cyber-security-9210"
-description: "Cyber security threats such as social engineering, malware and brute force attacks, and the methods used to detect and prevent them, for OxfordAQA International GCSE 9210."
+description: "Social engineering, malware, brute force and other cyber threats, and the methods used to detect and prevent them, for OxfordAQA International GCSE 9210."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-08
@@ -111,3 +111,20 @@ For **describe** questions on a threat, say what the attacker does and what happ
 6. How many combinations does a 3-digit PIN have? *10^3 = 1,000.*
 7. Explain the purpose of penetration testing. *Authorised testers look for weaknesses so they can be fixed before real attackers find them.*
 8. Why does encryption protect data that is intercepted? *Without the key the ciphertext cannot be turned back into readable data.*
+
+## Frequently asked questions
+
+**What is social engineering in cyber security?**
+Social engineering tricks people into giving away information or access, rather than breaking technical defences. Examples include phishing, pharming, blagging and shouldering, and the main defence is training and awareness.
+
+**What is the difference between a virus and a worm?**
+A virus attaches itself to a file and needs that file to be opened to spread. A worm spreads by itself across a network.
+
+**Does a firewall stop viruses?**
+No. A firewall monitors network traffic and blocks unauthorised connections, while anti-malware software scans for and removes malware such as viruses. Saying a firewall "stops viruses" is a common mistake.
+
+**Why is a long password harder to crack by brute force?**
+A brute force attack tries every possible combination of characters. Making a password longer and using a wider character set increases the number of combinations dramatically, so the worst-case time to crack it grows.
+
+**How should you answer a question asking you to recommend security measures?**
+Pick measures that match the scenario and link each one to the specific threat it stops, rather than listing every measure. This topic is Topic 6 of OxfordAQA International GCSE Computer Science 9210.

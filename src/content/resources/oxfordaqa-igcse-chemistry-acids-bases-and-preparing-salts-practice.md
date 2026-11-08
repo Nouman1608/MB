@@ -197,6 +197,20 @@ Links: [acids, bases and salts study guide](/resources/oxfordaqa-igcse-chemistry
 - Spot weak topics quickly using our [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in acids and salts questions?**
+Common slips include calling an insoluble oxide or hydroxide an alkali, adding water to the products of ammonia and an acid, and missing the step that filters off the excess solid.
+
+**Is the titration practical part of the acids and salts topic in OxfordAQA 9202?**
+No. None of the required practicals sits in sections 3.5.1 or 3.5.2; the titration practical belongs to section 3.6.4, quantitative chemistry.
+
+**How do you measure pH with universal indicator?**
+Add a few drops of universal indicator to the solution and compare the colour with the colour chart to read an approximate pH. Using the indicator without the colour chart, or quoting an exact value, loses marks.
+
+**Which titration results should go into a mean volume?**
+Use only concordant results and leave out any trial that does not agree with the others. Including a non-concordant trial in the mean is a common error.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. This practice set covers section 3.5.1 The properties of acids and bases and section 3.5.2 Preparation of salts.

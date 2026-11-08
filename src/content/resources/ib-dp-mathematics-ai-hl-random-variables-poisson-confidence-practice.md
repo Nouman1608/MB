@@ -25,11 +25,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-4-17"
 description: "11 original IB Maths AI HL questions on linear combinations, the CLT, z and t confidence intervals and Poisson models, with mark-by-mark answers."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -191,6 +191,20 @@ Find unbiased estimates of the population mean and the population variance. **[3
 - Paper advice: [AI exam preparation](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Why is the total mass of 12 people not modelled as 12X?**
+12X means one observation multiplied by 12, which has variance 144Var(X). The total of 12 independent people is X₁ + … + X₁₂, with variance 12Var(X), because separate observations partly cancel each other's variation.
+
+**How do you choose between a binomial, Poisson and normal model?**
+Use a binomial model for a count of successes in a fixed number of independent trials with the same probability, and a Poisson model for random events occurring independently at a uniform average rate. Use a normal model for a continuous measurement such as a mass.
+
+**Do you use a z or t confidence interval when σ is unknown?**
+When the population standard deviation σ is unknown, use the t-distribution with sₙ₋₁, whatever the sample size. Use the z-interval only when σ is known.
+
+**What topics do these IB Maths AI HL practice questions cover?**
+They cover syllabus sections 4.14–4.17 of the IB Maths AI guide: linear combinations of random variables, unbiased estimates, the central limit theorem, confidence intervals and the Poisson distribution. All of it is HL only.
 
 ## Official syllabus
 

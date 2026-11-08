@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Control Accounts and Correction of Errors — Practice Questions"
+title: "Edexcel International A Level Accounting: Control Accounts and Correction of Errors — Practice Questions"
 resourceType: "practice-questions"
 subject: "accounting"
 level: ["a-levels"]
@@ -14,11 +14,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "control-procedures"
     subtopic: "control-accounts-yac11"
-description: "Original exam-style practice questions with full worked answers on control accounts, error classification, journal corrections, suspense accounts and statements of revised profit for Pearson Edexcel International A-Level Accounting (YAC11), 1.2.3-1.2.9."
+description: "Original practice questions with worked answers on control accounts, error types, journals, suspense accounts and revised profit for Edexcel IAL YAC11."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 publishedDate: 2026-09-04
 featured: false
 ---
@@ -94,9 +94,23 @@ Debits correctly entered [1] [1] [1]; credits correctly entered [1]; totals agre
 
 - Crediting discounts received on the wrong side of the control account.
 - Applying a suspense account to an error, such as omission or an error of principle, that would not actually unbalance the trial balance.
-- Forgetting that a reversed-but-correct-figure entry still unbalances the trial balance, since it is effectively a one-sided error of double the true amount.
+- Forgetting that posting both sides of an entry as debits (correct figure, correct accounts) unbalances the trial balance by double the amount. A complete reversal of entries, where the debit and credit are swapped, leaves the trial balance balanced.
 - Adjusting the statement of revised profit for a correction that only affects the statement of financial position, not an income or expense account.
 
 ## Approaching control account and error correction questions
 
 Work through every correction in the same fixed order: first classify the error against the specification's own two-way split (does it affect the trial balance's balancing or not), then write the correcting journal entry, then state explicitly whether a suspense account is involved, and only then assess the profit effect. Questions that describe a scenario rather than naming the error type are testing whether you can diagnose the category from the description — practise working backwards from "both sides were posted somewhere" (no trial balance effect) or "only one side was posted, or the two sides differ" (trial balance effect) rather than trying to memorise every possible scenario individually.
+
+## Frequently asked questions
+
+**Are these Edexcel YAC11 control accounts questions from past papers?**
+No. They are original questions written for revision on outcomes 1.2.3 to 1.2.9 of Pearson Edexcel International A Level Accounting (YAC11). They do not replicate the exam's structure or mark tariffs, so use them alongside the official past papers.
+
+**In what order should I answer an error correction question?**
+First classify the error by whether it affects the balancing of the trial balance, then write the correcting journal entry, then state whether a suspense account is involved, and only then assess the effect on profit.
+
+**How can I tell from a scenario whether an error affects the trial balance?**
+Work backwards from the description: if both sides were posted somewhere, the trial balance is not affected; if only one side was posted, or the two sides differ, the trial balance will not balance.
+
+**Which corrections affect a statement of revised profit?**
+Only corrections that change an income or expense account. Adjusting revised profit for a correction that affects only the statement of financial position is a common way to lose marks.

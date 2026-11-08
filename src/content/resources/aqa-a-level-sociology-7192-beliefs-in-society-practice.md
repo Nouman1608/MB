@@ -20,9 +20,9 @@ description: "Original AQA 7192 Beliefs in society practice questions with marke
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -135,6 +135,20 @@ Using the source and sociological ideas, analyse how religion has helped this co
 - Take a [diagnostic test](/diagnostics/) to see which topics need more work.
 - Want help with Paper 2 essays? [Book a free trial class](/trial/).
 - See how this option fits with your other papers in the [A-level Sociology course structure](/resources/a-level-sociology-course-structure/), and practise Paper 3 perspectives with the [Crime and Deviance practice questions](/resources/a-level-aqa-sociology-crime-and-deviance-practice/).
+
+## Frequently asked questions
+
+**Which section of AQA 7192 Paper 2 is Beliefs in society in?**
+Beliefs in Society (4.2.5) is an option 2 topic, answered in Section B of Paper 2: Topics in Sociology, alongside Global Development, The Media, and Stratification and Differentiation.
+
+**How should you answer an application question on Beliefs in society?**
+Use the details in the source, such as the figures or setting it gives, and link each point to them. A general answer about religion that ignores the source loses application marks.
+
+**How do you use census data on religion in an answer?**
+Say where and when the figures come from, for example the census for England and Wales, and do not treat them as world data. Then explain what they do and do not show about belief, belonging and identity.
+
+**Do short Beliefs in society questions need essay-style answers?**
+No. Short questions need precise, separate points that match the marks available; save extended argument and evaluation for the longer questions.
 
 ## Official syllabus
 

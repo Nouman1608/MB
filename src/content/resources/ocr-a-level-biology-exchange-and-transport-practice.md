@@ -164,6 +164,23 @@ These questions follow Module 3 (Exchange and transport, sections 3.1.1 to 3.1.3
 - Take [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Why is "the membrane is thin" not enough for the mark?**
+You need to link the feature to its effect, for example that a thin wall gives a shorter diffusion distance and so faster diffusion. Naming a feature without explaining how it affects diffusion is one of the most common ways to lose marks in Module 3.
+
+**What is the difference between hydrostatic pressure and oncotic pressure?**
+Hydrostatic pressure is the pressure of the blood pushing fluid out of the capillaries, while oncotic pressure is the tendency of plasma proteins to draw water back in by osmosis. Confusing the two, or forgetting to state the direction of net movement, loses marks in tissue fluid questions.
+
+**How should you describe the Bohr effect in an exam?**
+State which way the oxygen dissociation curve moves: higher carbon dioxide concentration shifts it to the right, so haemoglobin releases oxygen more readily in respiring tissue. Describing the effect without the direction of the shift is incomplete.
+
+**How do you avoid sign errors with water potential?**
+Water potential values are negative, so the less negative value is the higher water potential. Water moves from a higher (less negative) to a lower (more negative) water potential, and writing "high to low" with the signs mixed up is a common mistake.
+
+**Which part of the H420 course do these questions cover?**
+They cover Module 3 Exchange and transport of OCR A Level Biology A (H420): exchange surfaces, gas exchange, the heart, haemoglobin and transport in plants.
+
 ## Official syllabus
 
 OCR Advanced GCE in Biology A (H420), Version 4.1 (April 2026), for first assessment in 2025, published by OCR.

@@ -243,6 +243,20 @@ Evaluation: the gains are largest in repetitive tasks and large markets. They ar
 - Mixing up the base of a percentage difference (110% more versus 52.4% less).
 - Giving an earnings gap as a fact about all countries. Say "tends to" and give reasons.
 
+## Frequently asked questions
+
+**Why is the demand for labour a derived demand?**
+Firms hire workers only because consumers want the goods or services those workers make. A rise in demand for the product shifts the demand for labour to the right.
+
+**Why do primary sector workers often earn less than tertiary sector workers?**
+Primary work often needs fewer qualifications, so supply is large, output prices of raw materials may be low, and workers may be unorganised or seasonal. Tertiary pay is lifted by high skills and high value added, though this is not true everywhere.
+
+**Why are public sector wages less responsive to the market?**
+Public sector pay is set by the government through pay scales, so it responds less to local supply and demand. Comparisons with the private sector should include benefits such as pension contributions.
+
+**Which Cambridge O Level 2281 section covers workers and wages?**
+Section 3.3 (Workers) of the Cambridge O Level Economics 2281 syllabus covers choice of occupation, wage determination, differences in earnings, and division of labour and specialisation.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281, syllabus for examination in 2026, version 2, section 3.3 (Workers), Cambridge Assessment International Education, part of Cambridge University Press & Assessment.

@@ -268,6 +268,23 @@ The payroll supervisor is a close friend of Rhosyn's line manager. Rhosyn should
 
 Test yourself with the [revision notes](/resources/oxfordaqa-a-level-accounting-the-impact-of-ethical-considerations-revision-notes/), then work through the [practice questions](/resources/oxfordaqa-a-level-accounting-the-impact-of-ethical-considerations-practice/). For exam technique, read the [9615 exam preparation guide](/resources/oxfordaqa-a-level-accounting-exam-preparation/) before your mocks.
 
+## Frequently asked questions
+
+**How does the IESBA Code ask accountants to deal with threats?**
+Identify the threat, evaluate it, and address it by removing its cause, applying a safeguard or, if no safeguard works, declining or ending the work.
+
+**What is the difference between an executive director and an independent non-executive director?**
+Executive directors run the business. Independent non-executive directors have no close ties to the company, so they can challenge the executives.
+
+**What is corporate social responsibility?**
+Under corporate social responsibility a business weighs how its decisions affect staff, customers, suppliers, local people and the environment, as well as profit.
+
+**How do professional accountancy bodies establish and enforce codes of conduct?**
+They establish codes by publishing a code of ethics, often aligned with the IESBA Code, and making compliance a condition of membership. They enforce them by investigating complaints, holding disciplinary hearings and imposing sanctions.
+
+**Does a qualified audit opinion mean all the statements are wrong?**
+No. A qualified opinion relates to a specific material matter; an opinion that the statements as a whole are not fairly presented is an adverse opinion.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA -- section 3.2.10, The impact of ethical considerations.

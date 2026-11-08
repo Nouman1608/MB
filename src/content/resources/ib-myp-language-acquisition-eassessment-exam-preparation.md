@@ -14,11 +14,11 @@ order: 3
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-language-acquisition-eassessment-structure"
-description: "Task-by-task exam preparation for IB Middle Years Programme Language Acquisition's two eAssessment components -- the on-screen listening/reading/writing paper and the separately assessed speaking examination -- with a proficiency-level checklist."
+description: "How to prepare for both IB MYP Language Acquisition eAssessment components: the on-screen listening, reading and writing exam and the speaking exam."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -124,6 +124,20 @@ different registers (formal, informal, social, academic) so you can recognise an
 a given task actually calls for. 5. Because all four criteria are independently marked and equally
 weighted, so strength in one skill area does not compensate for weakness in another -- each is a
 genuinely separate quarter of the total assessment.
+
+## Frequently asked questions
+
+**How long is the IB MYP Language Acquisition on-screen exam?**
+IB guidance for MYP on-screen examinations generally puts sessions between 1 hour 45 minutes and 2 hours, but an exact figure for Language Acquisition is not published separately in public sources. Confirm the session length for your sitting with your school's exams office.
+
+**What is in the MYP Language Acquisition on-screen examination?**
+The on-screen exam assesses listening (Criterion A), reading (Criterion B) and writing (Criterion D) in one sitting, each worth 24 marks in the eAssessment blueprint. Speaking (Criterion C) is assessed separately.
+
+**What is the difference between MYP Language Acquisition phases and proficiency levels?**
+Teaching is organised into six phases that do not correspond to age or year group, while eAssessment reports results at three proficiency levels: emergent, capable and proficient. They are two different things, so pitch exam practice at the level your assessment targets.
+
+**How should I practise for the MYP Language Acquisition speaking examination?**
+Practise spontaneous, unscripted conversation on topics of personal, local and global interest, ideally with a partner who asks genuine follow-up questions. Recording mock interactions and reviewing them for fluency, vocabulary range and handling of unexpected questions is more realistic than rehearsing a script.
 
 ## Official syllabus
 

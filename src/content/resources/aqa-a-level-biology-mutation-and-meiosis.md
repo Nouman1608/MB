@@ -228,6 +228,23 @@ Fertilisation involves a random male gamete and a random female gamete, which ad
 - Using n as the diploid number in 2ⁿ. n is the number of homologous pairs.
 - Treating gametes as the product of meiosis in every life cycle.
 
+## Frequently asked questions
+
+**How does meiosis produce genetic variation?**
+Through independent segregation of homologous chromosomes in meiosis I and crossing over between non-sister chromatids of homologous chromosomes. Random fertilisation adds further variation.
+
+**Why might a base substitution have no effect on the polypeptide?**
+The genetic code is degenerate, so the new triplet may still code for the same amino acid.
+
+**Why does a base deletion usually have a large effect?**
+Bases are read in non-overlapping triplets, so a deletion shifts the reading frame and changes every codon after it. A deletion of three bases in a row keeps the frame in place.
+
+**What does the AQA specification require about meiosis?**
+Meiosis is needed only in sufficient detail to show how it produces genetic variation and halves the chromosome number.
+
+**Are all gametes made by meiosis?**
+In animals they are, but in plants and some algae and fungi, haploid organisms can make gametes by mitosis, and meiosis happens at a different stage of the life cycle.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015, section 3.4.3 (version 1.5), published by AQA.

@@ -12,14 +12,14 @@ order: 1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-economics-unit-2"
-description: "Condensed SL-level recall notes on demand, supply and competitive market equilibrium (sub-topics 2.1-2.3), with a first look at price ceilings, for IB Diploma Programme Economics."
+description: "SL revision notes for IB DP Economics sub-topics 2.1 to 2.3: demand, supply, competitive market equilibrium, consumer and producer surplus and price ceilings."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-26
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for the final weeks, covering the **SL-level** content of sub-topics 2.1-2.3. For the
@@ -173,6 +173,20 @@ elasticity calculations and diagrams.
 6. If demand shifts right while supply is unchanged, what happens to equilibrium price and quantity?
 
 **Answers:** 1. A change in the good's own price causes a movement along the curve; a change in any other determinant (income, tastes, related prices, etc.) causes the curve to shift. 2. As price rises, quantity supplied rises, ceteris paribus. 3. Price rises, as buyers compete for the limited quantity available, until the market clears at the new equilibrium. 4. Any two: income, tastes/preferences, price of substitutes or complements, population, consumer expectations. 5. Signalling, incentive, and rationing. 6. Both equilibrium price and equilibrium quantity rise.
+
+## Frequently asked questions
+
+**What is the law of supply?**
+The law of supply says that as price rises, quantity supplied rises, ceteris paribus, because a higher price makes it more profitable for firms to supply more.
+
+**What is the difference between a change in demand and a change in quantity demanded?**
+A change in demand is a shift of the whole curve caused by a determinant other than price. A change in quantity demanded is a movement along the curve caused by a change in the good's own price.
+
+**What happens when a price ceiling is set below equilibrium?**
+Quantity supplied falls below quantity demanded, creating a shortage, even though the ceiling was meant to make the good more affordable. A ceiling set above equilibrium has no effect.
+
+**What are the three functions of the price mechanism?**
+Signalling tells producers and consumers that something in the market has changed, incentive encourages producers to supply more and consumers to demand less when price rises, and rationing shares scarce goods among those most willing and able to pay.
 
 ## Official syllabus
 

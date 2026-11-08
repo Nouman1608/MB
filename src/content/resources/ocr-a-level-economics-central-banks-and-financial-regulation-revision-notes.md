@@ -262,6 +262,23 @@ Question type: "Evaluate the case for an inflation target when a supply shock ra
 - Giving the benefits of regulation with no cost, so no judgement.
 - Forgetting to convert pass-through, ratios and index changes to the same unit before comparing.
 
+## Frequently asked questions
+
+**What is the difference between an illiquid and an insolvent bank?**
+An insolvent bank has liabilities greater than its assets. An illiquid bank may be solvent but cannot meet immediate demands for cash, which is the case a lender of last resort is designed to help.
+
+**What is the difference between the capital ratio and the leverage ratio?**
+The capital ratio is capital divided by risk-weighted assets, while the leverage ratio is capital divided by total assets. Because it uses total assets, the leverage ratio cannot be gamed by low risk weights.
+
+**What is operational independence for a central bank?**
+Operational independence means the central bank chooses how to hit a target that the government sets. The government usually keeps the power to set the target, so independence does not mean the government has no say.
+
+**What is the difference between microprudential and macroprudential regulation?**
+Microprudential regulation looks at the health of each individual financial firm. Macroprudential policy looks at risks across the whole system, using tools such as capital buffers, loan limits and stress tests.
+
+**How did changes in financial regulation contribute to the 2007-08 crisis?**
+Looser rules on bank activities, securitisation that spread and hid risk, shadow banking outside capital and liquidity rules, reliance on ratings and models, and firm-by-firm supervision that missed system-wide risks all played a part. Each change should be linked to its effect.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021: the financial sector, covering the role of the central bank and financial regulation.

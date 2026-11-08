@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Meeting customer needs and The market (YBS11) -- Revision Notes"
+title: "Edexcel International A Level Business: Meeting customer needs and The market (YBS11) -- Revision Notes"
 seoTitle: "Edexcel IAL Business Customer Needs Revision Notes"
 resourceType: "revision-notes"
 subject: "business"
@@ -295,6 +295,20 @@ A quota sample of 100 asks 50 men and 50 women. It matches the target mix but th
 * Treating risk and uncertainty as the same.
 * Giving generic answers that do not use the figures or context in the source.
 * Stopping at a calculation without saying what it means for the business.
+
+## Frequently asked questions
+
+**How do you calculate price elasticity of demand?**
+PED is the percentage change in quantity demanded divided by the percentage change in price. It is normally negative; ignoring the sign, a value above 1 is elastic and below 1 is inelastic.
+
+**What is the difference between random, quota and stratified sampling?**
+Random sampling gives every member an equal chance of selection. Quota sampling fills set numbers from chosen groups, which is quick but open to bias. Stratified sampling splits the population into groups and draws randomly from each in proportion to its size.
+
+**How does PED affect total revenue?**
+If demand is elastic, a price rise lowers total revenue and a price cut raises it. If demand is inelastic, a price rise raises total revenue and a price cut lowers it.
+
+**What is the difference between market size and market share?**
+Market size is the total sales of all firms in the market, by value or volume. Market share is one firm's sales as a percentage of total market sales.
 
 ## Official syllabus
 

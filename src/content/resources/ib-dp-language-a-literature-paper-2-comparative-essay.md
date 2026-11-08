@@ -17,11 +17,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-time-space"
 description: "Study guide to the IB DP Literature Paper 2 comparative essay: reading the question, thesis, integrated comparison and quotations recalled from memory."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This study guide teaches the Paper 2 comparative essay for IB Diploma Programme Language A: Literature,
@@ -232,6 +232,20 @@ then test yourself with the [practice questions](/resources/ib-dp-language-a-lit
 For background, see the [Readers, writers and texts guide](/resources/ib-dp-language-a-literature-readers-writers-texts/),
 the [syllabus guide](/resources/ib-dp-language-a-literature-syllabus-guide/) and the
 [subject guide](/resources/ib-dp-language-a-literature-subject-guide/).
+
+## Frequently asked questions
+
+**How do you choose which two works to use in Paper 2?**
+Sketch a quick grid with your works down the side and the question's key terms across the top, then choose the pair with the fullest cells, even if it is not your favourite pair.
+
+**How do you build a quotation bank for IB Literature Paper 2?**
+Group short quotations, ideally three to ten words, under the concerns and features you expect questions on. Learn where each comes from and one technique in it, and test yourself by writing them from memory.
+
+**When does context belong in a Paper 2 essay?**
+In IB DP Language A: Literature, context earns its place when it explains a difference between the two works' methods. Dates and biography that explain nothing about method are decoration.
+
+**What is a hinged paragraph?**
+A hinged paragraph opens with a comparative topic sentence, gives evidence from each work, then states what the difference shows. It turns two pieces of evidence into a real comparison.
 
 ## Official syllabus
 

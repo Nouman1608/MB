@@ -225,6 +225,23 @@ These are different from economic arguments, because people can agree on the fac
 - Giving an ethical opinion with no economic reason.
 - Writing "the poor" without saying how they lose.
 
+## Frequently asked questions
+
+**What are the four main economic objectives of the UK government?**
+Full employment, price stability, economic growth and a balance of payments in which money flowing in and out is roughly in balance.
+
+**Why can lowering interest rates cause inflation?**
+Cheaper borrowing raises spending and investment, so demand rises. If firms cannot raise output quickly enough, they raise prices, so inflation rises.
+
+**Why might economic growth worsen the balance of payments?**
+As incomes rise, households buy more imports, so the current account balance can worsen.
+
+**What other objectives can governments pursue?**
+AQA GCSE Economics 8136 includes reducing inequality and managing environmental change, alongside the four principal objectives.
+
+**How do moral and ethical issues differ from economic arguments?**
+Economic arguments are about facts and effects; moral and ethical issues, such as fairness, responsibility and future generations, involve value judgements, so people can agree on the facts and still disagree.
+
 ## Official syllabus
 
 AQA GCSE Economics (8136) specification, for first teaching from September 2017, published by AQA: section 3.2.2.1 Economic objectives of the government.

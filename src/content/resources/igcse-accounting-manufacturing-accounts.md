@@ -277,6 +277,23 @@ If a question tells you to split one expense, such as rent, between the factory 
 - Showing one lump of inventory in the statement of financial position instead of raw materials, WIP and finished goods.
 - Leaving the owner's goods or private expenses out of drawings.
 
+## Frequently asked questions
+
+**What is the difference between a direct cost and an indirect cost in a manufacturing account?**
+A direct cost can be traced to the goods being made, such as raw materials and production workers' wages. An indirect cost, or factory overhead, is needed to run the factory but cannot be traced to one unit, such as factory rent, power and a supervisor's wages.
+
+**How is factory cost of production calculated in Cambridge IGCSE Accounting 0452?**
+Factory cost of production is prime cost plus factory overheads plus opening work in progress minus closing work in progress. Prime cost is direct material (raw materials consumed) plus direct labour.
+
+**What happens to gross profit if closing work in progress is higher?**
+A higher closing work in progress lowers factory cost of production and cost of sales by the same amount, so gross profit rises. An understated closing work in progress has the reverse effect.
+
+**How is cost of sales calculated for a manufacturer?**
+Cost of sales is opening inventory of finished goods plus factory cost of production minus closing inventory of finished goods. If the business also buys finished goods to resell, those purchases are added too.
+
+**Where does depreciation of factory machinery go?**
+Depreciation of factory machinery is a factory overhead in the manufacturing account. Depreciation of office equipment and other office, selling and distribution expenses stay in the statement of profit or loss.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1), Cambridge International, section 5.4 Manufacturing accounts.

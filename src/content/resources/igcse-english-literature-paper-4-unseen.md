@@ -12,14 +12,14 @@ order: 4
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-4-unseen-0475"
-description: "How Paper 4 Unseen is assessed in Cambridge IGCSE Literature in English 0475: the 1 hour 15 minute critical-commentary format, the choice between an unseen poem and an unseen prose extract, the 20-minute planning guidance, and how to build transferable close-reading skills for a text you cannot revise in advance, for the 2026 series."
+description: "Paper 4 Unseen in Cambridge IGCSE Literature in English 0475: the 1 hour 15 minute critical commentary, poem or prose choice, and transferable close reading."
 seoDescription: "How Cambridge IGCSE Literature 0475's Paper 4 Unseen works: the 1h15 critical-commentary format, poem-or-prose choice, and close-reading exam technique."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-31
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description shortened to 140-160 characters and FAQ added; 2028-2030 note corrected (Paper 1 plus either Paper 2 or coursework, per the 2028-2030 syllabus); please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide explains how **Paper 4 Unseen** works in Cambridge IGCSE
@@ -121,15 +121,30 @@ advance which they will pick; a candidate who has only ever practised
 unseen poetry can be caught out by a prose extract that, on the day,
 would actually have suited them better.
 
+## Frequently asked questions
+
+**How long is Paper 4 Unseen?**
+1 hour 15 minutes for one question from a choice of two (a prose passage or a poem), worth 25 marks
+and 25% of the qualification.
+
+**How long should I plan for?**
+The 0475 syllabus advises spending around 20 minutes reading the questions and planning your answer
+before you start to write.
+
+**Can I revise for an unseen paper?**
+Yes, by practising close reading: comment on language, structure and effect in unfamiliar poems and
+prose, and give a clear personal response supported by quotation.
+
+
 ## A note on syllabus currency
 
 This guide is written against the Cambridge IGCSE Literature in
 English (0475) syllabus for the 2026 examination series. Cambridge has
 since published a 2027 syllabus, and a further restructure applies
 from the 2028-2030 cycle: the current four-paper-plus-coursework
-structure is replaced by two components, with today's Paper 1 becoming
-open text and today's Paper 2 becoming a combined drama-and-unseen
-paper, so Papers 3 and 4 and the coursework component as described
+structure is replaced by a two-component route (Paper 1 Poetry and
+Prose, now open text, plus either Paper 2 Drama and Unseen or a
+50-mark coursework component), so Papers 3 and 4 and the coursework component as described
 across this family will no longer exist in that form. Confirm which
 syllabus cycle your candidates are sitting before revising from this
 guide.

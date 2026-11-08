@@ -334,6 +334,23 @@ the benefit against these harmful effects.
 When you are ready, test yourself with the [practice questions](/resources/aqa-a-level-chemistry-amino-acids-proteins-and-dna-practice/)
 and see [exam preparation](/resources/aqa-a-level-chemistry-exam-preparation/) for how the papers work.
 
+## Frequently asked questions
+
+**What is a zwitterion?**
+A zwitterion is an ion with a positive and a negative charge but no overall charge, formed when H⁺ moves from the –COOH group to the –NH₂ group of the same amino acid. Its structure is H₃N⁺–CHR–COO⁻.
+
+**What is a peptide link?**
+A peptide link is the –CO–NH– group formed when the –COOH of one amino acid reacts with the –NH₂ of the next and water is lost. Two different amino acids can join in either order, giving two different dipeptides.
+
+**What is a nucleotide in DNA?**
+A nucleotide is a phosphate ion bonded to 2-deoxyribose, which is bonded to one of the four bases adenine, cytosine, guanine or thymine. Covalent bonds between the phosphate of one nucleotide and the sugar of the next form a sugar–phosphate chain.
+
+**Do you need to memorise the structures of the DNA bases for AQA A-level Chemistry?**
+No. The structures of the phosphate ion, 2-deoxyribose and the four bases are given in the Chemistry Data Booklet. You need to explain how they join and how base pairs hydrogen bond.
+
+**Is section 3.3.13 tested at AS level?**
+No. Amino acids, proteins and DNA is A-level only in the AQA 7404/7405 specification, so it is not in the AS exams. At A-level it is on Paper 2, and Paper 3 can test any content.
+
 ## Official syllabus
 
 AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level

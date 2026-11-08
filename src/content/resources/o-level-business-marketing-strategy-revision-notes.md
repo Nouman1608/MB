@@ -218,6 +218,20 @@ Both papers assess the whole syllabus and use stimulus material, so numbers, quo
 - Quoting amounts without units or showing no working in a calculation.
 - Repeating the same point in different words in a two-reason question.
 
+## Frequently asked questions
+
+**What is the difference between a joint venture and licensing?**
+A joint venture involves shared ownership and shared profit with a local firm. Licensing gives another firm permission to use the brand or make the product in return for a fee or royalty.
+
+**Which element of the marketing mix is most important?**
+No element is always most important. It depends on the circumstances, such as what the target customers care about most, competitors' actions, the budget and the product's stage in its life cycle.
+
+**Do legal controls on marketing only harm businesses?**
+No. They add cost and checks, but they also build customer trust, and honest businesses gain because competitors cannot win sales with false claims.
+
+**What are the problems of entering a foreign market?**
+Cultural differences in language, tastes, customs and symbols, lack of knowledge about customers and local rules, distance and delivery costs, and competition from established local brands.
+
 ## Official syllabus
 
 Cambridge International, Cambridge O Level Business Studies 7115 syllabus for 2026, section 3.4 Marketing strategy (3.4.1 to 3.4.3).

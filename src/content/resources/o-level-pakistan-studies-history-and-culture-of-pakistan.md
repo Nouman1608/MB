@@ -12,11 +12,14 @@ order: 1
 syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-history-culture-2059"
-description: "Cultural and historical background to the Pakistan Movement, the emergence of Pakistan 1906-47, and nationhood 1947-99 -- the full content of Paper 1 for Cambridge O Level Pakistan Studies 2059, 2026 series (Version 1)."
+  - qualification: "o-level"
+    topic: "paper-1-history-culture-2059"
+    subtopic: "cultural-historical-background-2059"
+description: "Paper 1 of Cambridge O Level Pakistan Studies 2059, 2026 series: background to the Pakistan Movement, the emergence of Pakistan 1906-47 and nationhood 1947-99."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -138,6 +141,17 @@ in an exam question — connecting a reform movement in 1.1 to the
 political identity it helped shape in 1.2, for instance, or tracing
 how a challenge in 1.3 has roots that stretch back to the
 circumstances of Partition itself.
+
+## Frequently asked questions
+
+**How is Paper 1 structured?**
+Paper 1 (1 hour 30 minutes, 75 marks, 50%) has Section A, one compulsory source-based question of four parts (25 marks), and Section B, two questions from a choice of four, each with parts worth 4, 7 and 14 marks.
+
+**Is the syllabus changing?**
+Yes. A restructured syllabus takes effect from June 2028; the 2026 content on this page applies until then.
+
+**How is each section assessed?**
+Through key questions that link several focus points, so revise causes and consequences across a section, not isolated facts.
 
 ## Official syllabus
 

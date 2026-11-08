@@ -247,6 +247,19 @@ Profit or loss (profit)   1,500    Bank                         24,000
   <figcaption>Machine A leaves all three accounts; the profit balances the disposal account.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is depreciation?**
+Depreciation is the share of a non-current asset's cost consumed during an accounting period through wear and tear, the passage of time or obsolescence. It involves no cash payment and is not money set aside to replace the asset.
+
+**What journal entry records depreciation?**
+Debit the statement of profit or loss and credit the provision for depreciation account. The asset account stays at cost, so net book value is cost less the provision.
+
+**What is net book value?**
+Net book value is the cost of a non-current asset less its accumulated depreciation. The reducing balance percentage is applied to net book value each year, and the profit or loss on disposal compares proceeds with it.
+
+**How do you state the effect of an error on profit?**
+Say whether profit is overstated or understated and give the amount. A statement that profit is simply "wrong" without a direction and figure does not earn full marks.
 
 ## Official syllabus
 

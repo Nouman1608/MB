@@ -136,6 +136,20 @@ These questions cover sections 2.2 Motivation and 2.3 Management of the Cambridg
 - Try all [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which sections of Cambridge AS and A Level Business 9609 do these questions cover?**
+Section 2.2 Motivation and section 2.3 Management, including motivation theories, financial and non-financial methods, management roles and leadership styles.
+
+**What is the common mistake with commission calculations?**
+Applying the commission rate to the full sales figure when it is paid only on sales above a threshold. Show the threshold step in your working.
+
+**How do I use a motivation theory in an answer?**
+Tie the theory, level or factor to the facts given about the person or business in the case. Naming a theory level without applying it earns little.
+
+**What should I consider when judging a manager's effect on performance?**
+Use the figures to show the change, but allow for other possible causes before crediting the manager alone, and finish with a clear judgement or recommendation.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, sections 2.2.1 to 2.3.1.

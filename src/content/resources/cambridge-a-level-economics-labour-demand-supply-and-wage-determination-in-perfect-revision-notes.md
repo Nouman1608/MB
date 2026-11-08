@@ -231,6 +231,23 @@ At a wage of 100, the second worker's MRP of 120 exceeds the wage but the third 
 - Assuming equilibrium employment always rises. Check which curve shifted.
 - Listing evaluation points with no judgement about which matters most.
 
+## Frequently asked questions
+
+**What is the difference between MPP and MRP?**
+Marginal physical product counts the extra units of output from one more worker, while marginal revenue product counts the extra revenue in money. MRP equals MPP multiplied by marginal revenue, which equals price only if the firm can sell more without lowering its price.
+
+**How many workers does a wage-taking firm hire?**
+A wage-taking firm hires until MRP equals the wage. If MRP is above the wage, the extra worker adds more to revenue than to costs.
+
+**Why does the demand curve for labour slope downwards?**
+Diminishing marginal returns cut MPP as more workers share fixed capital, so MRP falls as employment rises. The firm only hires more workers at a lower wage.
+
+**What are the limitations of marginal revenue product theory?**
+The output of one worker can be hard to measure, especially in teams and public services, and real workers may not have full information or move freely. The model is best treated as a benchmark.
+
+**How do you find the equilibrium wage in a perfect labour market?**
+Set quantity of labour demanded equal to quantity supplied and solve for the wage, then substitute the wage back into both equations to find employment. The two quantities must agree.
+
 ## Official syllabus
 
 Source: Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, sections 8.3.1 to 8.3.7.

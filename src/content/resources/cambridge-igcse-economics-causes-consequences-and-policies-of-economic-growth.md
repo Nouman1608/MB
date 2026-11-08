@@ -222,6 +222,20 @@ The returns match, so cost alone does not decide. The scheme that is cheaper use
 - Calling any growth good. Growth that damages resources, or reaches only a few, may not raise living standards for most people.
 - Proposing a policy without a limit. Every policy has a delay, a cost or a side effect.
 
+## Frequently asked questions
+
+**What do sections 4.6.4 to 4.6.6 of Cambridge IGCSE Economics cover?**
+These sections of the Cambridge IGCSE Economics 0455 syllabus cover the causes of economic growth, its costs and benefits in different economies, and the policies that promote growth. Measuring growth and the supply-side measures themselves are taught in a separate part of the syllabus.
+
+**What is the difference between using resources more fully and increasing capacity?**
+Using idle resources more fully, often after a rise in total demand, moves the economy from inside the PPC towards the curve and can happen quickly. Increasing capacity through investment, technology or more and better factors shifts the whole curve to the right and is usually slower.
+
+**What happens if demand keeps rising once the economy is on its PPC?**
+Output cannot rise further because no spare resources remain, so extra spending pulls up prices instead. Demand-led growth is therefore a one-off gain, not a lasting rise in capacity.
+
+**Which policies can a government use to promote economic growth?**
+Options include fiscal policy such as spending on infrastructure or lower taxes, monetary policy such as lower interest rates, supply-side measures such as education and training, encouraging foreign investment, trade agreements, and stable laws and property rights. Each has limits such as delays, costs or side effects.
+
 ## Official syllabus
 
 Aligned to the Cambridge IGCSE Economics 0455 syllabus for examination in 2026, published by Cambridge University Press & Assessment (Cambridge Assessment International Education), sections 4.6.4 to 4.6.6.

@@ -11,11 +11,11 @@ order: 5
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-assessment-criteria"
-description: "Original scenario-based practice questions with full worked answers testing whether sample investigative evidence would meet top-band standard for each of MYP Sciences's four assessment criteria."
+description: "Original scenario-based IB MYP Sciences questions with worked answers testing whether sample evidence would reach top band for each of the four criteria."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -84,6 +84,20 @@ Related: [Criteria in Practice study guide](/resources/ib-myp-sciences-criteria-
 **6.** Top-band Criterion D evidence requires a genuine, two-sided evaluation -- presenting both a real benefit and a real limitation or risk, properly sourced where relevant, and reaching a reasoned judgment. The given response presents only a benefit (increased yield) and states a conclusion (a "positive development") without ever considering a genuine limitation or risk, or citing any source for its claims. A stronger version might read: "GM crops have been shown to increase yield under specific growing conditions [citation], which can contribute to food security in regions facing agricultural pressure. However, published sources have also raised ecological concerns, such as the potential for reduced biodiversity around GM crop monocultures, and economic concerns about smallholder farmers' dependence on seed suppliers [citation]. Weighing these considerations, GM crops appear to offer meaningful benefits in specific contexts, but their wider adoption raises genuine trade-offs that are not fully captured by yield figures alone." This presents both sides with sourcing, and reaches a reasoned, qualified judgment rather than a one-sided conclusion. **[6]**
 
 **7.** Consider an investigation into how light intensity affects the rate of photosynthesis in an aquatic plant. Criterion A evidence emerges from the scientific knowledge underpinning the investigation -- understanding and applying the concept that photosynthesis rate depends on light availability up to a saturation point, used to predict and interpret the expected pattern. Criterion B evidence emerges from designing the investigation itself -- formulating a specific testable question (how does light intensity affect the rate of oxygen bubble production), identifying variables to control (water temperature, carbon dioxide availability, plant size), and justifying the chosen method for varying and measuring light intensity. Criterion C evidence emerges from processing and evaluating the resulting data -- graphing bubble-production rate against light intensity, identifying the trend (including any levelling-off at high intensities), and evaluating a specific limitation of the method (for example, difficulty counting bubbles accurately at high production rates) with a specific improvement (using a gas syringe to measure volume instead of counting bubbles). Criterion D evidence emerges, where the task calls for it, from reflecting on the investigation's broader significance -- for example, connecting the findings to real-world applications such as optimising light conditions in commercial aquaculture or greenhouse agriculture, evaluating both benefits and limitations of applying laboratory findings to a real-world context. All four criteria's evidence arises from the same single, connected piece of investigative work, rather than requiring four separate, unrelated tasks. **[8]**
+
+## Frequently asked questions
+
+**Are these official IB MYP Sciences assessment tasks?**
+No. They are original scenario-based questions with worked answers, each asking whether a sample student response would reach top-band evidence for a criterion and what it would need instead.
+
+**How should I approach a question about whether evidence is top band?**
+Identify what the criterion's top band requires, say precisely what the sample evidence does and does not show, then describe what would need to be added. Linking each point to the criterion is what earns credit.
+
+**How many marks is each task in the MYP Sciences eAssessment?**
+The IB MYP Sciences brief (from 2014) sets three on-screen tasks: Knowing and understanding (criterion A, 25 marks), Investigation skills (criteria B and C, 50 marks) and Applying science (criterion D, 25 marks).
+
+**What should I revise before these practice questions?**
+Read the criteria in practice study guide and revision notes first, which explain top-band evidence for each criterion with a worked example.
 
 ## Official syllabus
 

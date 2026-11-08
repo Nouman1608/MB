@@ -6,13 +6,13 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Environmental Systems and Societies"]
-description: "An overview of IB Diploma Programme Environmental Systems and Societies (ESS) -- an interdisciplinary sciences / individuals-and-societies course, and how it can count toward either or both subject groups."
+description: "Overview of IB Diploma Programme Environmental Systems and Societies (ESS): what it covers, its aims, SL and HL assessment, and how it counts in subject groups."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: replaced the fieldwork/primary-data-only IA description with the 2026 brief's open-ended individual investigation and added Paper 1/Paper 2 structure, durations and SL/HL weights from the 2026 subject brief; please re-review; previously reviewed by azam-siddique on 2026-10-09."
 ---
 
 Environmental Systems and Societies (ESS) is an interdisciplinary IB
@@ -83,19 +83,25 @@ extra depth and breadth within shared topics and three HL-only content
 areas SL students never study (see below).
 
 The internal assessment is worth 25% at SL and 20% at HL. It takes the
-form of an individual investigation, normally built around fieldwork,
-in which students formulate their own research question, collect
-primary data, apply relevant ESS techniques to analyse it, and draw
+form of an individual investigation, an open-ended task in which
+students formulate their own research question, gather and analyse
+data to answer it (fieldwork is a common route), and draw
 evidence-based conclusions in a written report capped at 3,000 words
 and around 10 teaching hours of work. Because ESS is designed to be
 studied as either a sciences or an individuals-and-societies subject,
-this fieldwork-based investigation is deliberately built to draw on
+this investigation is deliberately built to draw on
 methods from both disciplines rather than treating them separately --
 a strong investigation typically combines a scientific data-collection
 method (such as quadrat sampling or water-quality testing) with an
 analysis that also considers the social, economic or political
 dimensions of the issue under study, rather than treating the
-fieldwork as a purely scientific exercise.
+investigation as a purely scientific exercise.
+
+The written papers are Paper 1, built on data from one previously
+unseen case study (1 hour and 25% at SL; 2 hours and 30% at HL), and
+Paper 2, with short-answer and data-based questions in Section A and
+structured essays in Section B (2 hours at SL, 2 hours 30 minutes at
+HL, 50% at both levels).
 
 ## How HL extends beyond SL
 
@@ -134,6 +140,23 @@ still want a genuinely scientific methodology represented in their programme. Ei
 still demands the same practical, data-handling and fieldwork skills expected of any DP science --
 it is not a "lighter" alternative to Biology, Chemistry or Physics, simply a differently structured
 one.
+
+## Frequently asked questions
+
+**What is IB Environmental Systems and Societies?**
+ESS is an interdisciplinary IB Diploma Programme course that combines the sciences with individuals and societies, offered at SL and HL. It covers topics from ecosystems and biogeochemical cycles to resource management, environmental economics and ethics.
+
+**How many teaching hours is IB ESS at SL and HL?**
+ESS has 150 recommended teaching hours at SL and 240 at HL. The 50-hour experimental programme is the same at both levels, so the 90 extra HL hours are all syllabus content.
+
+**What are the HL-only lenses in IB ESS?**
+HL students study three lenses that SL students do not: environmental law (5 hours), environmental and ecological economics (7 hours) and environmental ethics (5 hours). They are applied across the core content rather than added as marked sub-topics.
+
+**How much is the ESS internal assessment worth?**
+The individual investigation is worth 25% at SL and 20% at HL. It is a written report capped at 3,000 words, taking around 10 teaching hours of work.
+
+**Is IB ESS an easier option than Biology, Chemistry or Physics?**
+It is not a lighter alternative, simply a differently structured course. ESS still demands the practical, data-handling and fieldwork skills expected of any DP science.
 
 ## Source
 

@@ -9,13 +9,13 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language B"]
 syllabusSeries: "First assessment 2020"
 order: 2
-description: "The five prescribed themes of IB Diploma Programme Language B -- identities, experiences, human ingenuity, social organization, sharing the planet -- with their guiding principles and recommended topics, for first assessment 2020."
+description: "The five prescribed themes of IB DP Language B, with guiding principles and recommended topics, plus SL and HL differences and exam timings at a glance."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide covers the full syllabus structure of **IB Diploma Programme
@@ -41,8 +41,8 @@ and independent revision.
 
 Explores the nature of the self and what it is to be human. Recommended
 topics include lifestyles, health and well-being, beliefs and values,
-subcultures, and language and identity. A guiding question the theme
-returns to repeatedly: how do language and culture contribute to
+subcultures, and language and identity. One of the possible questions
+listed for the theme: how do language and culture contribute to
 forming an identity?
 
 ## Experiences
@@ -163,6 +163,20 @@ Language ab initio -- the two share the same five themes and aims, and
 schools choose between them based on how much prior experience of the
 target language their students bring, with Language B intended for
 students who already have some background in it.
+
+## Frequently asked questions
+
+**How long are the IB Language B exams at SL and HL?**
+Paper 1 lasts 1 hour 15 minutes at SL and 1 hour 30 minutes at HL. Paper 2 lasts 1 hour 45 minutes at SL and 2 hours at HL, because the listening section is 45 minutes at SL and 1 hour at HL while reading is 1 hour at both.
+
+**How many teaching hours does IB Language B have?**
+The recommended teaching time for IB DP Language B is 150 hours at SL and 240 hours at HL.
+
+**What criteria is Language B Paper 1 marked against?**
+Paper 1 is marked against three criteria: language, message and conceptual understanding. The conceptual understanding criterion penalises a response that ignores the expected text type, register or audience.
+
+**Does Language B share its themes with Language ab initio?**
+Yes. Both courses sit in group 2, language acquisition, and share the same five themes and aims; Language B works with them at a more advanced level of the target language.
 
 ## Official syllabus
 

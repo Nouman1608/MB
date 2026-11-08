@@ -172,6 +172,20 @@ Sum = 24 + 2 − 1 = **25** [1]
 - Giving surd answers as decimals when an exact form is asked for (Higher).
 - Not showing the repeating pattern when a recursive sequence cycles (Higher).
 
+## Frequently asked questions
+
+**What is the difference between a term-to-term rule and an nth term?**
+A term-to-term rule tells you how to get from one term to the next, such as add 5. The nth term is an expression in n that gives any term directly from its position. Giving the term-to-term rule when the nth term is asked for loses the marks.
+
+**How do you show whether a number is in a sequence?**
+Set the nth term equal to the number and solve for n. If n is a positive whole number the number is a term; if not, it is not. Show the equation and the value of n rather than just answering yes or no.
+
+**What is the most common mistake when finding a linear nth term?**
+Using the first term as the coefficient of n. The coefficient of n is the common difference, so 6, 11, 16, ... has nth term 5n + 1, not 6n + 5.
+
+**Which references cover sequences in AQA GCSE Maths 8300?**
+Section 3.2.4 Sequences covers A23 (generating terms), A24 (recognising special sequences) and A25 (nth terms of linear sequences, and of quadratic sequences at Higher tier).
+
 ## Next steps
 
 - [Sequences revision notes](/resources/aqa-gcse-maths-8300-sequences-revision-notes/)

@@ -310,6 +310,23 @@ moved.
 Condense this guide with the [revision notes](/resources/oxfordaqa-a-level-chemistry-kinetics-revision-notes/),
 then try the [practice questions](/resources/oxfordaqa-a-level-chemistry-kinetics-practice/).
 
+## Frequently asked questions
+
+**What is activation energy?**
+Activation energy, Ea, is the minimum energy that particles must have when they collide for a reaction to occur. Leaving out the word "minimum" is a common way to lose the definition mark.
+
+**Why does a small temperature rise cause a large increase in reaction rate?**
+Heating shifts the Maxwell–Boltzmann distribution to higher energies, and because Ea lies far out in the tail, the small fraction of molecules with energy at or above Ea grows by a large factor. Collisions also become slightly more frequent, but the energy effect dominates.
+
+**How does a catalyst increase the rate of a reaction?**
+A catalyst provides an alternative reaction route with a lower activation energy, so a greater proportion of collisions have enough energy to react. It does not give molecules extra energy, and the enthalpy change of the reaction is unchanged.
+
+**Does increasing concentration change the Maxwell–Boltzmann distribution?**
+No. A higher concentration or pressure puts more particles in each unit of volume, so they collide more often, but their energies are unchanged. The curve and the proportion of collisions with E ≥ Ea stay the same.
+
+**Are rate equations part of OxfordAQA 9620 kinetics?**
+Not in section 3.1.6, which is International AS content assessed in Unit 2. Orders, the rate constant and Required practical 8 belong to rate equations in section 3.1.11, which is International A-level only.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS

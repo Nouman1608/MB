@@ -329,6 +329,23 @@ subscriptions need to rise.
 - Crediting a whole life fee to income in the year received.
 - Forgetting the life membership fund when calculating the opening accumulated fund.
 
+## Frequently asked questions
+
+**Why is the excess of receipts over payments not a club's surplus?**
+The bank movement includes capital items, such as a capital donation or equipment bought, and ignores depreciation and timing differences such as arrears and advance subscriptions. The surplus comes from the income and expenditure account, which uses the accruals concept.
+
+**What is the accumulated fund of a club?**
+A club has no owner's capital, so the accumulated fund takes its place. It is measured as everything the club owns minus everything it owes.
+
+**How are life membership fees treated in club accounts?**
+Life membership fees are credited to a life membership fund and a share is released to income each year according to the club's policy. Crediting the whole fee to income in one year would overstate that year's surplus.
+
+**Which costs belong in a club's bar trading account?**
+Only costs caused by the bar, such as the wages of staff who run it. General costs of the club, such as its general insurance, go in the income and expenditure account.
+
+**What currency do OxfordAQA 9615 club accounts questions use?**
+OxfordAQA states that the currency in its question papers is the US dollar, so the figures in this guide are in dollars.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS

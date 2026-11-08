@@ -246,6 +246,20 @@ Problems of poor communication: mistakes, delays, low morale, lost customers and
 - Choosing a communication method by naming it only, with no link to urgency or complexity.
 - Leaving out units, or giving a percentage with no working.
 
+## Frequently asked questions
+
+**What is the difference between recruitment and selection?**
+Recruitment is attracting suitable people to apply for a vacancy. Selection is choosing between those who applied, using tools such as application forms, interviews, tests and references.
+
+**What is the difference between internal and external recruitment?**
+Internal recruitment fills a vacancy from the existing workforce, for example by promoting a team member. External recruitment fills it from outside the business.
+
+**Is dismissal a way of cutting costs?**
+No. Dismissal ends a contract because of something connected with the employee, such as serious misconduct. Redundancy relates to the job no longer being needed, for example after automation or a fall in demand.
+
+**What legal controls over employment are in Cambridge O Level Business 7115?**
+The syllabus lists five areas: employment contracts, unfair dismissal, discrimination, health and safety, and the legal minimum wage. Describe each in general terms and its effect on employers and employees.
+
 ## Official syllabus
 
 Cambridge O Level Business Studies 7115, syllabus for examination in 2026 (Version 2), published by Cambridge University Press & Assessment (Cambridge International). Sections 2.3 and 2.4 of the subject content.

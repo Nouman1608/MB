@@ -290,6 +290,20 @@ A 20% change in output produces a 50% change in price. Steeper curves magnify sh
 - Using a formula where the working does not show the substitution step.
 - Stopping an evaluation at one side of the argument, without a judgement.
 
+## Frequently asked questions
+
+**What is the cobweb model?**
+The cobweb model describes markets where producers decide this period's output from last period's price, so prices swing above and below equilibrium. The swings shrink if supply responds less strongly than demand and grow if supply responds more strongly.
+
+**What is the difference between joint supply and competitive supply?**
+In joint supply, producing more of one product also produces more of another, as with beef and hides. In competitive supply, a higher price for one product pulls resources away from another, so the other product's supply shifts left.
+
+**How are bond prices and yields related?**
+The yield on a bond is its fixed annual payment divided by its price. Because the payment is fixed, a fall in the bond's price raises its yield and a rise in price lowers it.
+
+**What assumptions does the supply and demand model make?**
+The OCR A Level Economics (H460) notes list rational behaviour, homogeneous goods, many buyers and sellers, full information, flexible prices, ceteris paribus and no externalities.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460) specification*, Version 3.0 (June 2026), first assessment 2021. Content of Component 1: Microeconomics, area of study "How competitive markets work".

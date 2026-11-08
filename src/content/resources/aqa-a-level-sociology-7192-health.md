@@ -20,9 +20,9 @@ description: "Study guide to AQA A-level Sociology 7192 Health: models of health
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers the Health topic of AQA A-level Sociology (7192), as set out in the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). Health is section 4.2.3 of the A-level subject content (the specification at a glance also lists it as 3.2.3). It is one of the four option 1 topics in Paper 2: Topics in Sociology, and it is answered in Section A of that paper.
@@ -165,6 +165,23 @@ The NHS was founded in 1948 to give care free at the point of use, yet access is
 - For evaluating surveys, interviews and official statistics, see [Methods in Context](/resources/a-level-sociology-methods-in-context/).
 - For how the three papers fit together, read [AQA A-level Sociology course structure](/resources/a-level-sociology-course-structure/).
 - Condense with the [Health revision notes](/resources/aqa-a-level-sociology-7192-health-revision-notes/) and test yourself with the [Health practice questions](/resources/aqa-a-level-sociology-7192-health-practice/).
+
+## Frequently asked questions
+
+**What is the difference between the biomedical and social models of health?**
+The biomedical model treats ill health as a physical malfunction in the individual, diagnosed and cured by doctors. The social model sees health as shaped by social conditions, meanings and power, not only biology.
+
+**What is the inverse care law?**
+The inverse care law is Tudor Hart's (1971) observation that "the availability of good medical care tends to vary inversely with the need for it in the population served".
+
+**What is the illness iceberg?**
+The illness iceberg, or clinical iceberg, is the idea that only a small share of cases of illness reach a doctor, so recorded illness is only the visible tip.
+
+**What is iatrogenesis?**
+Iatrogenesis is Illich's term, from *Limits to Medicine* (1975), for harm caused by medicine itself, such as injury from unsafe or wrong treatment.
+
+**Which part of the AQA 7192 specification covers Health?**
+Health is section 4.2.3 of the AQA AS and A-level Sociology (7191, 7192) specification and is an option 1 topic in Paper 2: Topics in Sociology.
 
 ## Official syllabus
 

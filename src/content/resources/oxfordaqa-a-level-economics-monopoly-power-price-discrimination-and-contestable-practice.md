@@ -137,6 +137,23 @@ Ten questions on sections 3.3.3.5 to 3.3.3.7 of the OxfordAQA International AS a
 - Try the [free diagnostics](/diagnostics/), each about ten minutes long.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on monopoly and price discrimination questions?**
+Common losses are taking the monopoly price from MR rather than demand, drawing MR with the wrong slope, forgetting that discrimination needs MR = MC in each segment separately, treating sunk costs as fixed costs, and equating contestable with many firms.
+
+**How steep is the marginal revenue curve for a linear demand curve?**
+For a linear demand curve P = a - bQ, marginal revenue is MR = a - 2bQ, so the MR curve is twice as steep and has the same intercept.
+
+**What is the difference between sunk costs and fixed costs?**
+A sunk cost is lost for good once a firm leaves the market. A fixed cost does not vary with output but may be recoverable, for example equipment that can be sold on exit, so it does not necessarily deter entry.
+
+**How should I evaluate whether a monopoly is against consumers' interests?**
+Tie the evaluation to conditions such as whether cost savings are passed on, how strong barriers are, whether the market is contestable and the type of good, and name the evidence that would settle the question.
+
+**Which OxfordAQA 9640 sections do these questions cover?**
+They cover sections 3.3.3.5 to 3.3.3.7 of the OxfordAQA International AS and A-level Economics (9640) specification: monopoly and monopoly power, price discrimination and contestable markets.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, published by OxfordAQA: sections 3.3.3.5, 3.3.3.6 and 3.3.3.7.

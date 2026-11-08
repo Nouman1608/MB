@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-environment-0448"
     subtopic: "natural-resources-sustainability-0448"
-description: "Original exam-style practice questions with full worked answers on water, forests, mineral resources and fish, for Cambridge IGCSE Pakistan Studies (0448) Paper 2 Section 2 Natural Resources."
+description: "Original practice questions with worked answers on water, forests, minerals and fish for Cambridge IGCSE Pakistan Studies 0448 Paper 2, Natural resources."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; added a short exam-format/content section (page was under 900 words); description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -120,3 +120,23 @@ dams, the Indus Waters Treaty, Balochistan and Sindh's fishing ports) rather tha
 matching the study guide's core advice for this section: Paper 2 questions frequently ask candidates
 to support a general point with a specific, located example, and vague answers without named detail
 lose marks even when the underlying explanation is otherwise sound. The same discipline applies across all four parts of this section -- water, forests, minerals and fish -- since each is assessed against the same underlying sustainability question the study guide identifies: how the resource is used, what damages it, and what would make continued use of it genuinely sustainable, without simply describing each resource as a separate, unconnected topic.
+
+## Named examples to use in answers
+
+| Resource | Named examples |
+|---|---|
+| Dams | Tarbela (Indus), Mangla (Jhelum), Warsak (Kabul River) |
+| Barrages | For example Sukkur and Kotri on the Indus |
+| Minerals | Rock salt from Khewra in the Salt Range |
+| Fishing ports | Karachi; Gwadar, Pasni and Ormara on the Balochistan coast |
+
+## Frequently asked questions
+
+**How is Paper 2 structured?**
+Paper 2 (1 hour 30 minutes, 75 marks, 50%) asks you to answer three questions from a choice of five, each worth 25 marks, in four parts (a) to (d) built around maps, graphs, photographs and other resources; part (d) tests analysis.
+
+**Which three dams must I know?**
+Mangla, Tarbela and Warsak; a barrage named instead of a dam earns no mark.
+
+**Why was the Indus Waters Treaty needed?**
+After partition the headwaters of Pakistan's rivers lay in India; the 1960 treaty, brokered by the World Bank, gave Pakistan the western rivers and India the eastern rivers.

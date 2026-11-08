@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "accounting-concepts-and-modern-practice"
   - qualification: "o-level"
     topic: "accounting-concepts-and-modern-practice"
-description: "Condensed recall notes on the ten accounting concepts and their applications, the five fundamental ethical principles, and digital records and the four types of data storage for Cambridge IGCSE Accounting (0452) Topic 7, 2027-2029 syllabus."
+description: "Condensed notes on the ten accounting concepts, five ethical principles, digital records and four storage types for Cambridge IGCSE Accounting 0452 Topic 7."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 publishedDate: 2026-09-16
 featured: false
 ---
@@ -208,3 +208,16 @@ internet connection, or ongoing cost, or dependence on the provider.
   <figcaption>Each concept moves the draft profit up or down, ending at $47,800.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does the duality concept mean?**
+Duality means every transaction has two aspects of equal value, both recorded by a debit and a credit of the same amount. It is the basis of double entry, the trial balance and the accounting equation.
+
+**What does the realisation concept mean?**
+Revenue is recognised when goods or services are passed to the customer and the customer accepts liability to pay, not when an order is received or cash is paid. A credit sale is recorded when the goods are supplied.
+
+**Can a business keep only part of its records digitally?**
+Yes. A business can keep all its records digitally or only part of them, for example a digital sales ledger and cash book with a handwritten petty cash book. The 0452 syllabus does not require knowledge of any particular software package.
+
+**Is 7.2 Accounting policies in the 2027-2029 Cambridge IGCSE Accounting syllabus?**
+No. For 2027 to 2029, section 7.2 is Ethical considerations; Accounting policies belongs to the 2026 syllabus. Answering with the older 7.2 content does not match the current sections 7.1 to 7.3.

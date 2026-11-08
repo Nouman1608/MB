@@ -33,9 +33,9 @@ description: "Original OxfordAQA 9690 Sociology Unit 3 practice questions on dev
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -181,6 +181,20 @@ Extended answers (Questions 9, 10 and 11) are shown as indicative creditworthy p
 ## Next steps
 
 Check your weaker areas with our free [diagnostics](/diagnostics/). For one-to-one help with Unit 3, [book a free trial class](/trial/). The [OxfordAQA 9690 exam preparation guide](/resources/oxfordaqa-a-level-sociology-exam-preparation/) explains how the units fit together.
+
+## Frequently asked questions
+
+**How should you define a term in OxfordAQA 9690 Sociology?**
+Explain what the term means rather than repeating its parts as a synonym. A definition such as "glocalisation means global and local" does not show understanding.
+
+**Do you need own-society examples in Unit 3 answers?**
+Yes, where the question asks for them. Leaving out examples from your own society, or one you know about, is a common way to lose marks in OxfordAQA 9690 extended answers.
+
+**How should you treat TNCs, NGOs and agencies in a globalisation answer?**
+Keep them separate. Transnational corporations, non-governmental organisations and international agencies play different roles, so merging them weakens the answer.
+
+**Which part of the 9690 specification do these questions cover?**
+They cover section 3.2.1 People and development, assessed in Unit 3 of the OxfordAQA International AS and A-level Sociology (9690) specification, first examined at A-level in May/June 2028.
 
 ## Official syllabus
 

@@ -19,7 +19,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "equations-formulae-and-identities-edexcel-igcse-maths"
     subtopic: "algebraic-manipulation-edexcel-igcse-maths"
-description: "Twelve original 4MA1 questions on indices, substitution, brackets, factorising, algebraic fractions and proof, with mark-by-mark answers."
+description: "Twelve original 4MA1 practice questions on indices, substitution, brackets, factorising, algebraic fractions and proof, with mark-by-mark answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
 featured: false
@@ -171,6 +171,20 @@ Learn the content first in the [study guide](/resources/edexcel-igcse-maths-4ma1
 - Not multiplying the subtracted square by a when completing the square with a ≠ 1.
 - On "show that" questions, jumping to the printed answer instead of showing each line.
 - In proofs, giving numerical examples instead of general algebra, or omitting the final statement.
+
+## Frequently asked questions
+
+**Do you add or multiply indices when multiplying powers?**
+Add them when multiplying powers of the same base, so t⁴ × t⁵ = t⁹. Multiplying the indices (t²⁰) is only correct for a power of a power, such as (t⁴)⁵.
+
+**What does "factorise fully" mean?**
+It means taking out the highest common factor of both the numbers and the letters, and checking whether what is left factorises again. For example, 3x² − 75 should first become 3(x² − 25) and then 3(x − 5)(x + 5).
+
+**Can you use numerical examples in an algebraic proof?**
+No. Examples only show a statement is true for particular numbers; a proof needs general algebra, such as writing an even number as 2n, and a final statement of what has been shown.
+
+**When can you cancel in an algebraic fraction?**
+Only cancel whole factors that multiply the entire numerator and denominator. Factorise both first; cancelling individual terms, such as the x² terms in a quadratic over a quadratic, is wrong.
 
 ## Next steps
 

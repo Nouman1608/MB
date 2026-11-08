@@ -147,6 +147,20 @@ These questions cover section 4.5, The seven Ps of the marketing mix, from the I
 - Take one of our [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class: [trial](/trial/).
 
+## Frequently asked questions
+
+**What are common mistakes on seven Ps practice questions?**
+Students often write about the seven Ps in general rather than for the named business, calculate percentage change from the new figure instead of the old one, and give a PED value without its sign or without saying whether demand is elastic or inelastic. Ignoring the data in a table when recommending a strategy also loses marks.
+
+**Is contribution the same as profit?**
+No. Contribution per unit is the selling price minus the variable cost per unit, and total contribution still has to cover fixed costs before any profit is made. Contribution pricing is an HL only part of section 4.5.
+
+**Which parts of the seven Ps are HL only in IB Business Management?**
+In section 4.5 of the IB Business management guide, dynamic pricing, competitive pricing, contribution pricing and price elasticity of demand are HL only.
+
+**How should you judge a pricing or promotion method in an exam answer?**
+State the conditions under which the method works for the business in the case, rather than calling it simply good or bad. Most of section 4.5 is assessed with "evaluate", so a reasoned judgement matters.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Diploma Programme Business management guide*, first assessment 2024, section 4.5, published February 2022 and updated May 2022.

@@ -18,7 +18,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "particles-radiation-and-radioactivity"
     subtopic: "elementary-particles-oxfordaqa"
-description: "Original practice questions with worked answers on Rutherford scattering, specific charge, antiparticles, annihilation and pair production."
+description: "Original practice questions with worked answers on Rutherford scattering, specific charge, antiparticles, annihilation and pair production for OxfordAQA 9630."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false
@@ -171,6 +171,23 @@ Read the [study guide](/resources/oxfordaqa-a-level-physics-atomic-structure-and
 - Course pages: [physics hub](/boards/oxfordaqa/a-level/physics/) and [checklist](/checklists/oxfordaqa/a-level/physics/)
 - Find your gaps: all free 10-minute [diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**What do these OxfordAQA A-level Physics atomic structure questions cover?**
+They cover sections 3.3.1 and 3.3.2 of OxfordAQA International AS and A-level Physics (9630): the constituents of the atom, Rutherford scattering, specific charge, nuclide notation, antiparticles, annihilation and pair production.
+
+**How do I work out the particles in an ion?**
+Find neutrons as A − Z, then adjust the electron count for the ion's charge rather than using the neutral atom. For the charge in a specific charge calculation, use the net charge, not Z protons alone.
+
+**Why do Rutherford scattering answers lose marks?**
+Listing observations without linking each one to its conclusion, and saying the alpha particle is attracted by the nucleus when it is repelled. Write each observation with the physics and the conclusion it supports.
+
+**What is the threshold energy for pair production?**
+The minimum photon energy is twice the rest energy of one particle, because both the particle and its antiparticle must be created. Using a single rest energy is a common mistake.
+
+**What unit mistakes are common in particle energy questions?**
+Leaving energies in MeV when joules are asked for, and using MeV directly with the Planck constant. Convert MeV to J by multiplying by 1.60 × 10⁻¹³.
 
 ## Official syllabus
 

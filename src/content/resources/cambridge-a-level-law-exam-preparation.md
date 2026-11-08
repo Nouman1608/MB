@@ -9,13 +9,13 @@ qualifications: ["a-level"]
 syllabusCodes: ["9084"]
 syllabusSeries: "2026-2028"
 order: 3
-description: "How Cambridge International A-Level Law 9084's four equally weighted papers still demand different content preparation, plus a worked IRAC-style problem-question routine."
+description: "How Cambridge International A Level Law 9084's four equally weighted papers differ in content and pacing, plus a step-by-step problem-question answer routine."
 author: "marlbridge-academic-team"
-reviewer: "aizaz-raoof-ali"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-09
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
 ---
 
 Cambridge International A-Level Law (9084) is a staged qualification of four papers, each worth exactly
@@ -117,6 +117,23 @@ time is available per mark, changing the pacing calculation. 3. The applied-prob
 -- identifying the issue, stating the rule with case authority, applying it to the facts, and reaching a
 conclusion -- transfers directly from Contract to Tort. 4. Stating a legal rule correctly but failing to
 apply it to the scenario's own specific facts, rather than to the topic in general.
+
+## Frequently asked questions
+
+**How many papers are there in Cambridge A Level Law 9084?**
+There are four papers, each worth 25% of the full A Level and each lasting 1 hour 30 minutes. Papers 1 (English Legal System) and 2 (Criminal Law) form the AS Level, and Papers 3 (Law of Contract) and 4 (Law of Tort) complete the A Level.
+
+**How many marks is each Cambridge 9084 Law paper worth?**
+Papers 1, 3 and 4 are each out of 75 marks, while Paper 2 (Criminal Law) is out of 60 marks. All four still carry the same 25% weighting.
+
+**How are the Contract and Tort papers structured in 9084?**
+Papers 3 and 4 share one structure: Section A is one problem question chosen from two (25 marks), and Section B is two essays chosen from three (25 marks each). The essays therefore carry 50 of each paper's 75 marks.
+
+**Do you need to cite cases in Cambridge A Level Law answers?**
+Yes. Marks are available for correctly naming and applying relevant case law, so a legal principle backed by a named case scores higher than the same principle stated in general terms.
+
+**What is the most common way to lose marks on a law problem question?**
+Stating a legal rule correctly but not applying it to the specific facts of the scenario. Each rule should be applied to the details given and followed by a conclusion about what it means for the parties.
 
 *Written against the assessment overview of Cambridge International's own AS & A Level Law (9084)
 syllabus PDF for 2026-2028 (official Cambridge document, verified 2026-08-28); the paper structure,

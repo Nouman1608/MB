@@ -250,6 +250,20 @@ Aim to include all five points in a full explanation. In a data question, add a 
 - Saying similar features show close relationship.
 - Giving a behavioural example when asked for a physiological one.
 
+## Frequently asked questions
+
+**Do organisms develop features because they need them?**
+No. Variation arises from random mutation and sexual reproduction; selection then favours individuals that already have useful features. Writing that organisms change because they need to is a common error.
+
+**Do individuals adapt during natural selection?**
+No. Natural selection changes the characteristics of a population over generations; individual organisms do not adapt in their lifetime.
+
+**What causes continuous variation?**
+Continuous variation is usually caused by both genes and the environment, often involving several genes. Saying it is caused by the environment only is incorrect.
+
+**What are the three types of adaptation?**
+Adaptations can be anatomical (structural), physiological (to do with body processes) or behavioural. These notes cover OCR A Level Biology A (H420) section 4.2.2 (e) to (i).
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420)* specification, Version 4.1 (April 2026), for first assessment in 2025: section 4.2.2(e) to (i), Classification and evolution.

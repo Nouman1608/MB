@@ -236,6 +236,23 @@ Profitability depends on the mix. Mereford Shoes imports leather and sells shoes
 - Saying an MNC always helps or always harms the host country.
 - Describing an ethical issue without a business response.
 
+## Frequently asked questions
+
+**What is sustainable development?**
+Sustainable development means meeting the needs of people today without harming the ability of future generations to meet their needs. A business can contribute by using renewable energy, cutting waste and recycling materials.
+
+**Why do businesses respond to pressure groups?**
+Pressure groups use publicity, petitions, protests and calls for consumer boycotts, and the resulting bad publicity can lower sales and damage the brand. Responding can protect sales but costs money, for example for new equipment.
+
+**What is an import quota?**
+An import quota is a limit on the quantity of a good that may be imported. It protects local firms by letting fewer imports in, but prices may rise if supply is short.
+
+**Does a multinational company always benefit the host country?**
+No. A multinational can bring jobs and investment, but it may bring in its own managers and send most of its profit back home, so it neither always helps nor always harms.
+
+**What ethical issues might a business face?**
+Examples include child labour in the supply chain, paying fair prices to suppliers, honest advertising, safe working conditions and the treatment of staff. Many involve a conflict between profit and acting fairly.
+
 ## Official syllabus
 
 Cambridge O Level Business Studies 7115, syllabus for examination in 2026, Cambridge University Press and Assessment (Cambridge International Education).

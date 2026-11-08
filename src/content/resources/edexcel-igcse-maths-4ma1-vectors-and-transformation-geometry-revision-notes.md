@@ -21,11 +21,11 @@ syllabusTopics:
     subtopic: "transformation-geometry-edexcel-igcse-maths"
 description: "Condensed 4MA1 revision notes on vectors and transformations: coordinate rules, complete descriptions, vector proof steps and a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 These revision notes cover topic 5, Vectors and transformation geometry, of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), first assessed in June 2018 with papers in January and June. They cover section 5.1 Vectors, which is **Higher tier only**, and section 5.2 Transformation geometry, which is Foundation content assumed at Higher tier, so both tiers need it. For full explanations and worked examples, read the [study guide](/resources/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry/) first.
@@ -272,6 +272,20 @@ Small worked reminder: a triangle with a side of 6 cm maps to a triangle whose m
 - Leaving a modulus as 17.80449… when the question asks for 3 significant figures, or rounding too early in a longer calculation.
 - In a "show that" or proof, simplifying correctly but never writing the concluding sentence about parallel lines or the common point.
 - Treating a vector expression like 2**a** + **b** as a number and trying to "cancel" **a** with **b**.
+
+## Frequently asked questions
+
+**Are vectors Higher tier only in Edexcel IGCSE Maths 4MA1?**
+Yes. Section 5.1, Vectors, is Higher tier only, while section 5.2, Transformation geometry (rotations, reflections, translations and enlargements), is on both tiers.
+
+**What defines an enlargement?**
+An enlargement is defined by a scale factor and a centre of enlargement. Using the origin when another centre is stated is a common mistake.
+
+**What is the difference between a vector and a scalar?**
+A vector has both magnitude (size) and direction, while a scalar, such as 5 or −2, has size only. Equal vectors have the same magnitude and the same direction.
+
+**Is |a − b| the same as |a| − |b|?**
+No. |**a** − **b**| is the magnitude of the single vector **a** − **b**, found by subtracting the components first and then using Pythagoras' theorem; it is not the difference of the two magnitudes.
 
 ## Official syllabus
 

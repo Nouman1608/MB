@@ -182,6 +182,20 @@ Credit, one each: workable order [1]; one action per step [1]; a time for every 
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between a change to the design and a change to the plan in MYP Design?**
+A change to the design alters the product itself, such as a different material or feature. A change to the plan alters how or when you make it, such as reordering steps or using a different machine, and both need to be justified in Criterion C.
+
+**How do you calculate contingency time in a Criterion C plan?**
+Multiply the number of lessons by the minutes per lesson to get the time available, subtract the total planned time, then divide the contingency by the time available and multiply by 100 for a percentage. A negative result means the plan does not fit.
+
+**Why is "I changed the handle from oak to pine" not a full justification?**
+It states the change but not the reason or its effect. A full justification explains why the change was needed and how it affects the product, the plan or the specification.
+
+**Are the marks in these MYP Design Criterion C questions real IB marks?**
+No. The bracketed points are a revision aid. Real MYP work is judged against criterion level descriptors on levels 1–8 in four bands.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Design*, from 2014. Published by the International Baccalaureate Organization.

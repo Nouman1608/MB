@@ -137,6 +137,20 @@ The filament of lamp Y now breaks. Assume the resistance of lamp X does not chan
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Are these OxfordAQA International GCSE Physics past paper questions?**
+No. They are original practice questions on series and parallel circuits and the heating effect of current for OxfordAQA International GCSE Physics (9203). Use them alongside the official past papers.
+
+**How do you calculate the efficiency of a lamp?**
+Divide the useful energy transferred as light by the total energy supplied, in the same time. Multiply by 100 if the question asks for a percentage rather than a decimal.
+
+**How do you solve a mixed series and parallel circuit?**
+Start with the supply current, find the pd across the series part with V = I × R, then subtract it from the supply pd to find the pd across the parallel block. Check that branch currents add up to the supply current.
+
+**Which part of the OxfordAQA 9203 specification do these questions cover?**
+They cover section 3.5.1 (electrical circuits), statements p to t: cells in series, series and parallel circuits, mixed circuits and the heating effect of current.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.5.1 (electrical circuits), statements p to t.

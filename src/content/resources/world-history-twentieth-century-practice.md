@@ -12,11 +12,26 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "core-content-option-b-0470"
-description: "Original IGCSE practice questions on Versailles, the League of Nations, Hitler's foreign policy and the Cold War — built onto Paper 1's three-part essays and Paper 2's document-question format."
+  - qualification: "igcse"
+    topic: "core-content-option-b-0470"
+    subtopic: "treaty-of-versailles-0470"
+  - qualification: "igcse"
+    topic: "core-content-option-b-0470"
+    subtopic: "league-of-nations-success-0470"
+  - qualification: "igcse"
+    topic: "core-content-option-b-0470"
+    subtopic: "hitlers-foreign-policy-0470"
+  - qualification: "igcse"
+    topic: "core-content-option-b-0470"
+    subtopic: "blame-cold-war-0470"
+  - qualification: "igcse"
+    topic: "core-content-option-b-0470"
+    subtopic: "ussr-control-eastern-europe-0470"
+description: "Original Cambridge IGCSE History 0470 practice on Versailles, the League, Hitler's foreign policy and the Cold War, in Paper 1 and Paper 2 formats with answers."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -152,6 +167,17 @@ uses three.
 **(e)** Source B directly supports the claim by describing the blockade as an attempt to force the Western powers out of Berlin altogether — a serious escalation that, if successful, would have reshaped the post-war settlement. Source C supports the claim from a different angle, arguing the Airlift's propaganda success helped define the Western powers' Cold War identity as protectors against Soviet pressure. Source A, on its own, does not support the claim (it denies any political purpose at all), but the historical record's rejection of the "technical difficulties" explanation, combined with what actually followed — the crisis directly contributing to the formation of NATO in 1949 and the permanent division of Germany into two states — supports treating it as a genuine turning point rather than a temporary local dispute. A well-supported judgement should conclude that the sources, read together with the blockade's known consequences, support the view that 1948–49 marked the point at which Cold War confrontation became institutionalised into fixed opposing blocs, rather than remaining a series of separate, reversible disputes. **[15]** (Marks for accurate use of all three sources with attention to provenance, own knowledge, and a sustained judgement.)
 
 ---
+
+## Frequently asked questions
+
+**How is IGCSE History 0470 Paper 1 structured?**
+Paper 1 (2 hours, 60 marks, 40%) has Section A on the Core Content (eight questions, answer two) and Section B on the Depth Studies (two on each, answer one). Each question is a three-part structured essay worth 4, 6 and 10 marks.
+
+**How is Paper 2 structured?**
+Paper 2 (1 hour 45 minutes, 40 marks, 30%) sets one five-part document question, with up to seven sources, on a prescribed Core Content topic that changes each series.
+
+**What does a 'how far' question on Hitler's foreign policy need?**
+Hitler's actions weighed against other causes, such as appeasement and the League's weakness, and a clear overall judgement.
 
 ## Official syllabus
 

@@ -236,6 +236,19 @@ A polyester made from 3-hydroxypropanoic acid has repeat unit –[O–CH₂–CH
   <figcaption>An amide or ester link forms when H and OH leave as water.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between addition and condensation polymerisation?**
+In addition polymerisation, monomers with a C=C bond join as the double bond opens and the polymer is the only product. In condensation polymerisation, a small molecule such as H₂O or HCl is lost at every link formed between monomers.
+
+**What are the products of acid and alkaline hydrolysis of a polyamide?**
+Hot aqueous acid gives a carboxylic acid, –COOH, and an ammonium salt, –NH₃⁺ Cl⁻, because the acid protonates the amine group. Hot aqueous alkali gives a carboxylate salt, –COO⁻ Na⁺, and the free amine, –NH₂.
+
+**How do you tell if a polymer is an addition or condensation polymer from its chain?**
+Look at the backbone. If –COO– or –CONH– links sit in the backbone, it is a condensation polymer; if the backbone is all carbon, it is an addition polymer even when ester or amide groups appear in the side groups.
+
+**Why does a diol with –OH groups on a benzene ring need a diacyl chloride?**
+Those –OH groups behave as phenols, and phenols are not readily esterified by carboxylic acids. Acyl chlorides are far more reactive, so a diacyl chloride is used to make the polyester.
 
 ## Official syllabus
 

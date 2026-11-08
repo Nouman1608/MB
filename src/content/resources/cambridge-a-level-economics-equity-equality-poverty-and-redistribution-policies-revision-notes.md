@@ -239,6 +239,23 @@ Poverty reduction, incentives, cost and funding, administration and take-up, pol
 - Ignoring cost, funding and take-up when judging a benefit.
 - Giving a conclusion that does not follow from the points made.
 
+## Frequently asked questions
+
+**What is the difference between equity and equality?**
+Equality describes a distribution, meaning sameness, while equity is a verdict on whether it is fair. Equal treatment can be inequitable, and unequal outcomes can be judged equitable if they reflect effort, skill or risk.
+
+**What is the difference between absolute and relative poverty?**
+Absolute poverty is measured against a fixed line based on basic needs, while relative poverty is measured against a moving line, such as 50% of median income. If every income rises by the same percentage, relative poverty does not change.
+
+**How do you calculate the effective marginal tax rate in the poverty trap?**
+When a benefit is withdrawn as earnings rise, the effective marginal tax rate is the income tax rate plus the benefit withdrawal rate. A high combined rate leaves little incentive to earn more.
+
+**How does a negative income tax work?**
+Each person receives a payment of G − t × Y, where G is the guaranteed income, t the tax rate and Y earnings. The break-even income is G ÷ t; above it, the person pays tax instead of receiving a payment.
+
+**Does reducing inequality always reduce efficiency?**
+Not necessarily. High marginal tax rates and generous benefits can weaken incentives, but spending on education and health can raise productivity, and severe inequality can damage demand, stability and growth.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education), section 8.2.

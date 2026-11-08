@@ -170,6 +170,20 @@ The line of best fit is absorbance = 0.80 − 0.00448 × concentration. A urine 
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Should you write "blood sugar levels"?**
+No. Write "blood glucose concentration". Using "sugar" or "levels" is too vague.
+
+**How should you answer an evaluation question on diabetes and the food industry?**
+Weigh the positions of health advisers and the food industry and reach a judgement. An answer that only lists views without a judgement does not earn full credit.
+
+**What should you remember when reading a calibration curve?**
+Multiply by the dilution factor if the sample was diluted, and avoid rounding too early in multi-step calculations.
+
+**Which sections of the AQA specification do these questions cover?**
+They cover sections 3.6.4.1 and 3.6.4.2 of AQA A-level Biology 7402, including Required Practical 11.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification for first teaching 2015, published by AQA (sections 3.6.4.1 and 3.6.4.2, with Required practical 11).

@@ -290,6 +290,20 @@ Ar = **28.1** (to one decimal place). Always check the abundances add to 100 bef
 
 Work through the [Atomic Structure practice questions](/resources/atomic-structure-practice/), then use the [revision notes](/resources/atomic-structure/) for recall. Check the [printable checklist](/checklists/cambridge/o-level/chemistry/) and the [Cambridge O Level Chemistry hub](/boards/cambridge/o-level/chemistry/). To see where you stand, try the [free 10-minute diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**Which syllabus sections does this Cambridge O Level 5070 guide cover?**
+It covers sections 2.1, 2.2 and 2.3 of the Cambridge O Level Chemistry 5070 syllabus for examination in 2026, 2027 and 2028: elements, compounds and mixtures, atomic structure, and isotopes.
+
+**Is air a compound or a mixture?**
+Air is a mixture. Its proportions can vary and its parts are not chemically bonded together, so it is not a compound; the same applies to seawater.
+
+**How many electrons are in the outer shell of helium?**
+Helium is in Group VIII but has only 2 electrons, which is a full outer shell for the first shell. It does not have 8 outer electrons.
+
+**How do you fill electron shells for an ion?**
+Use the number of electrons the ion actually has, not the proton number. Group and period rules refer to the neutral atom, not the ion.
+
 ## Official syllabus
 
 Cambridge O Level Chemistry 5070 syllabus for examination in 2026, 2027 and 2028, published by Cambridge International. Sections 2.1, 2.2 and 2.3.

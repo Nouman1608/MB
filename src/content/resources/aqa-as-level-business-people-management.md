@@ -258,6 +258,23 @@ Poor relations are caused by pay disputes, poor communication, unfair treatment 
 - Describing Hackman's conditions without applying them to the case.
 - Stating a style or structure is good without judging its fit.
 
+## Frequently asked questions
+
+**What HR data do you need to calculate for AQA AS Business (7137)?**
+Four measures: productivity, sales per employee, employee turnover, and employee costs as a percentage of revenue. You also need to analyse them with percentages, percentage changes and index numbers.
+
+**What are the five conditions in Hackman's model of team effectiveness?**
+A real team, a compelling direction, an enabling structure, a supportive context and expert coaching.
+
+**What is the difference between centralisation and decentralisation?**
+Centralisation keeps decisions at the top, giving consistency and tight control but slower decisions. Decentralisation passes decisions lower down, giving speed and local knowledge but less consistency and control.
+
+**What are the advantages and disadvantages of zero-hours contracts for a business?**
+Hours can match demand, so there is little paid idle time. The drawbacks are insecure staff, higher turnover and weak loyalty.
+
+**Which leadership styles are in AQA AS Business section 3.2.1?**
+Autocratic, democratic and transformational. A good answer judges which style fits the staff and situation in the case rather than calling one style best.
+
 ## Official syllabus
 
 AQA AS and A-level Business specification (7137, 7138), for first teaching from September 2026, section 3.2.1 People management.

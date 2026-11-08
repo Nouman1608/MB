@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Financial planning and Managing finance (YBS11) -- Practice Questions"
+title: "Edexcel International A Level Business: Financial planning and Managing finance (YBS11) -- Practice Questions"
 seoTitle: "Edexcel IAL Business Finance Practice Questions"
 resourceType: "practice-questions"
 subject: "business"
@@ -111,6 +111,20 @@ Links: [study guide](/resources/edexcel-ial-business-financial-planning-and-mana
 - Check progress with the [free diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 - Return to the [course hub](/boards/edexcel/a-level/business/) or the [printable checklist](/checklists/edexcel/a-level/business/).
+
+## Frequently asked questions
+
+**What do these financial planning practice questions cover?**
+They cover sections 2.3.2 Financial planning and 2.3.3 Managing finance of Unit 2 in Pearson Edexcel International A Level Business (YBS11): revenue and costs, sales forecasting, break-even, cash flow, budgets, profit, liquidity and business failure.
+
+**What is the most common break-even mistake?**
+Dividing fixed costs by the selling price instead of by contribution per unit. Break-even output is total fixed costs divided by (selling price − variable cost per unit).
+
+**Should an overdraft be included in current liabilities?**
+Yes. An overdraft is a current liability, so leaving it out overstates the current and acid test ratios.
+
+**How should you label a budget variance?**
+State whether each variance is favourable, meaning it raises profit, or adverse, meaning it lowers profit. A variance with no label loses marks.
 
 ## Official syllabus
 

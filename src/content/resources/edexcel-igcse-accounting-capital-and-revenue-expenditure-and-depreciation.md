@@ -259,6 +259,23 @@ Profit or loss = proceeds − carrying value. If proceeds are more than carrying
 
 Test yourself with the [revision notes](/resources/edexcel-igcse-accounting-capital-and-revenue-expenditure-and-depreciation-revision-notes/), then work through the [practice questions](/resources/edexcel-igcse-accounting-capital-and-revenue-expenditure-and-depreciation-practice/) and the [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is the difference between capital expenditure and revenue expenditure in Edexcel IGCSE Accounting?**
+Capital expenditure buys, adds to or improves a non-current asset that the business keeps for more than a year, and is debited to an asset account. Revenue expenditure pays for day-to-day running or keeps an asset in its present working order, and is charged as an expense in the income statement.
+
+**Are delivery and installation costs part of the cost of a non-current asset?**
+Yes. The cost of a non-current asset includes everything needed to acquire it and prepare it for use, such as the price, carriage, installation and legal fees on property. Repairs and routine maintenance are revenue expenditure.
+
+**What happens to profit if capital expenditure is treated as revenue expenditure?**
+The full cost is charged as an expense, so profit for the year is understated and the asset is missing from the statement of financial position. Because depreciation follows the asset, later years are affected too.
+
+**What is the difference between straight line and reducing balance depreciation?**
+Straight line charges the same amount each year: (cost minus residual value) divided by expected life. Reducing balance applies a fixed percentage to the carrying value at the start of each year, so the first charge is the largest, and residual value is not deducted first.
+
+**How do you calculate the profit or loss on disposal of a non-current asset?**
+Profit or loss on disposal is the sale proceeds minus the carrying value, which is cost less accumulated depreciation. A profit is added as income in the income statement and a loss is shown as an expense.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 2, Introduction to bookkeeping, sections 2.4 and 2.5 (and the matching Depreciation points in Topic 5).

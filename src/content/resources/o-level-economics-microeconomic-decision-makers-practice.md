@@ -12,13 +12,13 @@ order: 4
 syllabusTopics:
   - qualification: "o-level"
     topic: "microeconomic-decision-makers"
-description: "Original exam-style practice questions with full worked answers on households, workers, trade unions, firms (mergers, small firms, productivity and production methods) and costs/revenue calculations, for Cambridge O Level Economics (2281) Topic 3."
+description: "Practice questions with worked answers on households, workers, trade unions, firms, mergers and costs and revenue, for Cambridge O Level Economics 2281."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -123,3 +123,17 @@ viewpoint (workers) and a cost from another (the firm), and a strong answer stat
 is addressing explicitly rather than describing the outcome as simply "good" or "bad" in the abstract.
 
 This three-viewpoint habit (workers, firms, government) extends naturally to questions 7 and 8 as well: a small firm's survival or a switch to capital-intensive production can look different depending on whose perspective — owner, employee, or consumer — a question asks about, so checking which viewpoint a question specifies before answering is worth building into revision for this topic as a whole.
+
+## Frequently asked questions
+
+**What does Cambridge O Level Economics Topic 3 cover?**
+Topic 3 of Cambridge O Level Economics (2281), microeconomic decision makers, covers households, workers, trade unions and firms, including mergers, small firms, productivity, production methods, and costs and revenue.
+
+**Which calculations are tested in O Level microeconomic decision makers?**
+The most heavily tested numerical skill is moving between raw figures and total cost, average total cost, average variable cost, total revenue and average revenue. Show each formula and step.
+
+**How do you answer questions with more than one viewpoint?**
+State whose viewpoint you are addressing, such as workers, the firm or the government. The same outcome, such as a pay rise, can be a benefit for one group and a cost for another.
+
+**When is average revenue equal to price?**
+Average revenue equals price when every unit is sold at the same price, because total revenue divided by quantity sold gives back that price.

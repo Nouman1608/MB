@@ -194,6 +194,23 @@ The root of x² = 3x + 1 is (3 + √13)/2 = 3.3028, and the terms approach it.
 - Giving 2.54 when asked to justify 3 decimal places, or testing a poorly chosen interval.
 - Sketching e^(ax + b) + c with the asymptote at y = 0 rather than y = c.
 
+## Frequently asked questions
+
+**What is the relationship between eˣ and ln x?**
+ln x is the inverse function of eˣ, so the graph of y = ln x is the reflection of y = eˣ in the line y = x. If (a, b) is on y = eˣ, then (b, a) is on y = ln x.
+
+**Which graph do you plot for a power law y = axⁿ?**
+Plot log y against log x. The gradient of the straight line is n and the vertical intercept is log a.
+
+**Which graph do you plot for an exponential law y = kbˣ?**
+Plot log y against x. The gradient is log b and the vertical intercept is log k.
+
+**When can a sign change fail to show a root?**
+A discontinuity such as an asymptote of tan x can give a sign change with no root. A repeated root, or two roots in the same interval, can also mean a root exists without any change of sign.
+
+**Which P3 topics do these Edexcel IAL notes cover?**
+They cover exponential and logarithmic functions and logarithmic graphs (topics 3.1 to 3.3) and numerical methods for locating roots and iteration (topics 6.1 and 6.2) in Unit P3 of the Edexcel IAL Mathematics specification (YMA01).
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification, Issue 3, April 2019, Unit P3, sections 3 and 6 (Pearson Education Limited).

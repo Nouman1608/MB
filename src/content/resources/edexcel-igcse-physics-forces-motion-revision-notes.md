@@ -21,9 +21,9 @@ syllabusTopics:
     subtopic: "forces-movement-shape-and-momentum"
 description: "Condensed recall notes on speed, acceleration, Newton laws, momentum, moments and stopping distance for Edexcel International GCSE Physics 4PH1."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -244,3 +244,16 @@ Valid **up to the limit of proportionality**. Beyond the elastic limit, deformat
   <figcaption>Springs obey Hooke’s law up to the limit; rubber bands are elastic but not linear.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between distance and displacement?**
+Distance is the total path length travelled and is a scalar. Displacement is the straight-line distance from start to finish in a stated direction, so it is a vector.
+
+**When does an object topple over?**
+An object topples when the line of action of its weight falls outside its base.
+
+**Why does the direction of momentum matter?**
+Momentum is a vector, so assign a positive direction and treat motion the opposite way as negative. Ignoring this is a common exam trap in collision questions.
+
+**What happens to a spring beyond the elastic limit?**
+Hooke's law, F = kx, is valid only up to the limit of proportionality. Beyond the elastic limit, deformation is permanent and the spring will not return to its original length when the force is removed.

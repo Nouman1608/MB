@@ -284,6 +284,20 @@ A maize body cell has 20 chromosomes. One cell undergoing meiosis makes 4 gamete
 - Writing "the embryo is the patient" instead of saying it carries the patient's genes.
 - Forgetting units in rate answers, such as mm per month.
 
+## Frequently asked questions
+
+**What is the difference between mitosis and meiosis?**
+Mitosis produces two genetically identical body cells, each with the full chromosome number, for growth and repair. Meiosis produces four gametes, each with half the body number of chromosomes, one from each pair.
+
+**How many chromosomes are in human body cells and gametes?**
+A human body cell has 46 chromosomes in 23 pairs, and each gamete has 23. Fertilisation joins two gametes to restore the full number.
+
+**Why are stem cells from therapeutic cloning not rejected?**
+Therapeutic cloning makes an embryo that carries the patient's own genes, so the immune system does not see the stem cells as foreign.
+
+**What causes tumours?**
+Tumours result from uncontrolled cell division. Causes include chemical carcinogens, such as those in tobacco smoke and asbestos, and ionising radiation, such as UV and X-rays.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), specification Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.5.1 a and 3.5.2 a to o.

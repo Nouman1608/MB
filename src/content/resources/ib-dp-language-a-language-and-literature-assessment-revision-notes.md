@@ -7,13 +7,13 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language A: Language and Literature"]
 order: 1
-description: "IB DP Language A: Language and Literature -- condensed recall notes on the assessment structure at SL and HL, papers, weightings, the individual oral and the HL essay."
+description: "Quick recall of IB DP Language A: Language and Literature assessment: Paper 1, Paper 2, the individual oral and the HL essay, with SL and HL weightings."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-26
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the
@@ -87,6 +87,20 @@ Both Language A courses share an identical overall assessment structure and weig
 6. How does Paper 1 differ in scope between this course and Language A: Literature?
 
 **Answers:** 1. Three linked differences: a longer Paper 1 (both passages analysed, 40 marks, 2 hours 15 minutes), shifted weightings (Paper 2 and the oral both fall), and the added HL essay — an extra piece of independent written coursework only completed at Higher Level. 2. One literary work and one non-literary body of work. 3. 1,200 to 1,500 words. 4. Paper 1: 35%, Paper 2: 25%. 5. Any of: knowledge and understanding of both the literary work and the non-literary body of work and their context, the quality of analysis connecting the global issue across both, or focus and organisation within the time available. 6. This course's Paper 1 works with a wider range of non-literary text types, whereas Language A: Literature's Paper 1 focuses exclusively on literary extracts.
+
+## Frequently asked questions
+
+**How much is Paper 1 worth in IB Language and Literature?**
+Paper 1 is worth 35% at both SL and HL. SL students analyse one of two unseen non-literary texts in 1 hour 15 minutes for 20 marks; HL students analyse both in 2 hours 15 minutes for 40 marks.
+
+**How long is the HL essay in IB Language A: Language and Literature?**
+The HL essay is 1,200 to 1,500 words and is worth 20% of the HL grade. It is independent written coursework on a literary work or a non-literary text or body of work studied in class, and SL students do not write it.
+
+**Is the learner portfolio assessed?**
+No. The learner portfolio is mandatory but is not marked or moderated by the IB, although schools may be required to submit it to help check that a student's work is authentic.
+
+**Are the seven central concepts assessed directly?**
+No. Identity, culture, creativity, communication, perspective, transformation and representation shape teaching and study across the course, but no component assesses them directly.
 
 ## Official syllabus
 

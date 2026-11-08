@@ -217,6 +217,20 @@ Be ready to explain each of these pairs in a sentence and apply it to a case.
 - Conclusions that say "it depends" without saying on what.
 - No units or no pound sign on money results.
 
+## Frequently asked questions
+
+**What do the squares and circles on a decision tree mean?**
+A square is a decision node, where the business chooses a branch. A circle is a chance node, where chance decides the outcome; these drawing conventions are standard practice rather than specification wording.
+
+**How do you calculate expected value?**
+EV = the sum of (probability × payoff) at a chance node, and net gain = EV − the cost of the option. These are standard forms, since the specification does not set a formula.
+
+**In which direction do you work through a two-stage decision tree?**
+Work from right to left, calculating expected values at chance nodes and choosing the best option at each decision node. Rolling forward from left to right is a common error.
+
+**Should business success be judged on profit alone?**
+No. Use non-financial measures as well, such as market share, customer satisfaction and staff turnover, and consider different stakeholders.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Business (H431) specification, Version 2.1, sections 1.13 Decision making and 1.14 Decision trees, published by OCR (Oxford Cambridge and RSA).

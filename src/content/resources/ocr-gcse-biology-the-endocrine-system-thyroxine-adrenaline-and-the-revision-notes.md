@@ -257,6 +257,20 @@ Questions 2, 3, 4, 5, 6 and 10 draw on Higher Tier only content (B3.2b and B3.2d
 - Quoting a graph value without the day or the unit, or reading the wrong curve.
 - Describing a hormone graph without using any numbers from it.
 
+## Frequently asked questions
+
+**What does adrenaline do to the body?**
+Adrenaline, released by the adrenal glands in fear, shock or excitement, increases heart rate and the strength of the beat, increases breathing rate, releases glucose from the liver and sends more blood to the muscles. The muscles receive more oxygen and glucose for respiration.
+
+**What is the difference between oestrogen and progesterone in the menstrual cycle?**
+Oestrogen rebuilds and thickens the uterus lining. Progesterone, made after ovulation, maintains the lining; when progesterone falls, the lining breaks down.
+
+**Why is the pituitary gland important in the menstrual cycle?**
+The pituitary gland makes FSH and LH, which act on the ovaries. FSH matures an egg and LH triggers its release at ovulation.
+
+**When does ovulation happen in the menstrual cycle?**
+In a typical 28-day cycle, ovulation happens at about day 14, when the uterus lining is already thick. Day 1 is the first day of bleeding, and individual cycles vary.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Module B3.2, statements B3.2a to B3.2d.

@@ -213,6 +213,20 @@ One 50 Hz cycle lasts 2000 times as long as one 100 kHz cycle. The charger's inp
 
 Try the [practice questions](/resources/oxfordaqa-igcse-physics-transformers-and-the-national-grid-practice/) next.
 
+## Frequently asked questions
+
+**What are switch mode transformers used for?**
+Switch mode transformers operate at high frequencies, often between 50 kHz and 200 kHz. They are much lighter and smaller than traditional 50 Hz transformers, which makes them useful in mobile phone chargers.
+
+**Why do grid explanations need to mention current?**
+Saying "high voltage means less loss" is not enough. For a fixed power, P = V × I, so a higher voltage means a lower current, and a lower current means less energy is wasted heating the cables.
+
+**What is the difference between the primary and secondary coil?**
+The primary coil is the input coil, connected to the supply. The secondary coil is the output coil. Mixing them up is a common error in transformer calculations.
+
+**Which section of the OxfordAQA 9203 specification does this guide cover?**
+It covers section 3.6.2 (electricity transmission and distribution), statements a to g, of OxfordAQA International GCSE Physics (9203). The qualification is untiered.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), specification for exams May/June 2018 onwards, published by OxfordAQA, section 3.6.2.

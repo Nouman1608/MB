@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Analysis of accounting statements (YAC11) -- Practice Questions"
+title: "Edexcel International A Level Accounting: Analysis of accounting statements (YAC11) -- Practice Questions"
 seoTitle: "Edexcel IAL Accounting Ratio Analysis Practice Questions"
 resourceType: "practice-questions"
 subject: "accounting"
@@ -142,6 +142,20 @@ Non-current assets to revenue = 390,000 / 300,000 [1] = **1.30 times** [1].
 - Putting a bank overdraft on the wrong side of the liquidity ratios.
 - Comments that describe a change without a cause from the scenario and an effect.
 - In projections, using next year's closing inventory as its opening inventory.
+
+## Frequently asked questions
+
+**Are these Edexcel YAC11 ratio questions from past papers?**
+No. They are original practice questions with full worked answers on topic 1.5 of Pearson Edexcel International A Level Accounting (YAC11), written for revision. Use them alongside the official past papers.
+
+**Why should I show the formula with figures substituted?**
+A bare ratio shows no method if it turns out to be wrong. Showing each formula with the figures substituted, and labelling intermediate figures, lets method be credited.
+
+**What does a "comment" on a ratio need?**
+A comment needs a statement drawn from the figures and why it matters to the business in the question. Quoting the two numbers again, or describing a change without a cause and effect, earns little.
+
+**Where does a bank overdraft go in the liquidity ratios?**
+A bank overdraft is a current liability, not a negative current asset. Putting it on the wrong side changes both the current ratio and the liquid ratio.
 
 ## Next steps
 

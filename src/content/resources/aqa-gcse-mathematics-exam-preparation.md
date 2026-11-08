@@ -9,13 +9,13 @@ qualifications: ["gcse"]
 syllabusCodes: ["8300"]
 syllabusSeries: "For first teaching 2015"
 order: 1
-description: "Paper-by-paper exam preparation for AQA GCSE Mathematics 8300 -- Foundation/Higher tier strategy, non-calculator vs calculator paper strategy, a worked show-your-method answer and a checklist."
+description: "Exam preparation for AQA GCSE Mathematics 8300: Foundation and Higher tier strategy, the non-calculator paper, show-your-method answers and an exam checklist."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 AQA GCSE Mathematics (8300) is assessed through three written papers, each sat at Foundation or
@@ -115,6 +115,20 @@ step-by-step derivation reaching the given result -- not just a correct final an
 scheme awards credit for the shown steps. 4. The method marks available for each individual algebraic
 step (expanding the brackets, collecting terms, isolating x) -- a "show that" question specifically
 tests the derivation, not only whether the final value is correct.
+
+## Frequently asked questions
+
+**How many papers are there in AQA GCSE Maths 8300?**
+There are three written papers, each 1 hour 30 minutes and 80 marks: Paper 1 is non-calculator and Papers 2 and 3 are calculator papers. Each is worth a third of the 240 marks, with no coursework.
+
+**What grades can you get on Foundation and Higher tier in AQA GCSE Maths?**
+Foundation tier targets grades 1 to 5 and Higher tier targets grades 4 to 9. Higher papers include content that does not appear on Foundation papers at all.
+
+**Do you get marks for working in GCSE Maths if the answer is wrong?**
+Yes. Method marks on multi-step questions are available independently of a correct final answer, so writing out each step is worth doing even when the question feels easy.
+
+**What does show that mean in a GCSE Maths question?**
+Show that requires a full, step-by-step derivation reaching the given result. Writing only the final answer loses marks even when it is correct, because the steps themselves carry the marks.
 
 *Written against AQA GCSE Mathematics 8300 (specification-at-a-glance, verified 2026-08-28). The
 worked scenario above is an original example written for this resource, not a reproduction of any

@@ -7,18 +7,33 @@ topic: "Programming"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9210"]
-syllabusSeries: "Teaching from September 2017, exams from May/June 2019"
+syllabusSeries: "For teaching from September 2017, exams from May/June 2019"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "programming-9210"
-description: "Condensed recall notes on data types, sequence/iteration/selection, and arithmetic, relational and Boolean operators for OxfordAQA International GCSE Computer Science (9210), sections 3.2.1-3.2.5."
+  - qualification: "igcse"
+    topic: "programming-9210"
+    subtopic: "data-types-9210"
+  - qualification: "igcse"
+    topic: "programming-9210"
+    subtopic: "programming-concepts-9210"
+  - qualification: "igcse"
+    topic: "programming-9210"
+    subtopic: "arithmetic-operations-9210"
+  - qualification: "igcse"
+    topic: "programming-9210"
+    subtopic: "relational-operations-9210"
+  - qualification: "igcse"
+    topic: "programming-9210"
+    subtopic: "boolean-operations-9210"
+description: "Condensed notes on data types, sequence, selection and iteration, and arithmetic, relational and Boolean operators for OxfordAQA International GCSE 9210."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -158,6 +173,20 @@ Once data types, control structures and operators are secure, the rest of Topic 
 5. Explain why FOR is the wrong choice for a loop that repeats "until the user enters -1."
 
 **Answers:** 1. 23 DIV 4 = 5; 23 MOD 4 = 3. 2. `WHILE total <= 100 ... ENDWHILE` (a REPEAT...UNTIL testing `total > 100` after the body is equally acceptable). 3. The WHILE condition is true on entry, so the FOR loop inputs the five values and compares each in turn: 3 becomes the first HighScore, then 7 replaces it, 2 does not replace it, 9 replaces it, and 5 does not. 9 is output, "N" is input, the WHILE condition is now false and the loop ends — HighScore is **9**. 4. AND requires every part of the condition to be true before the whole condition is true; OR requires only one part to be true — using the wrong one silently changes which cases the code handles. 5. FOR needs a fixed count known in advance; "until the user enters -1" depends on unpredictable user input, so an indefinite loop (WHILE or REPEAT...UNTIL) is needed instead.
+
+## Frequently asked questions
+
+**What are the data types in OxfordAQA International GCSE Computer Science 9210?**
+Section 3.2.1 uses integer, real, Boolean, character and string. Exams use the specification's own general names even when a programming language uses a different term, such as float for real.
+
+**What are the three basic programming constructs?**
+The three combining principles are sequence, selection and iteration. Nearly every algorithm question asks you to identify or write some combination of these.
+
+**What is the difference between a WHILE loop and a REPEAT...UNTIL loop?**
+Both are indefinite loops. A WHILE loop checks its condition at the start, so it may not run at all, while a REPEAT...UNTIL loop checks its condition at the end, so it always runs at least once.
+
+**What is the difference between AND and OR in a condition?**
+AND requires every part of the condition to be true, while OR requires only one part to be true. Treating them as interchangeable silently changes the algorithm's logic.
 
 ## Official syllabus
 

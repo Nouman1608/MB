@@ -196,6 +196,20 @@ When two sets are compared, say which has the larger spread and which is more co
 
 Try the [practice questions](/resources/cambridge-igcse-statistics-standard-deviation-and-choosing-a-measure-of-dispersion-practice/), then use the [revision notes](/resources/cambridge-igcse-statistics-standard-deviation-and-choosing-a-measure-of-dispersion-revision-notes/) for a quick recall of the formulae and the table above.
 
+## Frequently asked questions
+
+**What are the two formulae for standard deviation?**
+Form 1 is SD = √[Σ(x − x̄)² / n]. Form 2 is SD = √[Σx² / n − (Σx / n)²], "the mean of the squares minus the square of the mean", which needs only Σx and Σx² and suits frequency tables. Both give the same answer.
+
+**What is the difference between Σx²/n and (Σx/n)²?**
+Σx²/n is the mean of the squares, while (Σx/n)² is the square of the mean. Squaring the sum instead of finding the mean of the squares is a common error.
+
+**When should you use the IQR instead of the standard deviation?**
+Use the IQR for data with an outlier or a very skewed shape, or a table with an open-ended class. Use the standard deviation when every value matters and the mean is the chosen average.
+
+**What does this unit of Cambridge IGCSE Statistics cover?**
+It covers outcomes 5.6 and 5.7 of Topic 5, Quartiles, percentiles and measures of dispersion, in Cambridge IGCSE Statistics (0479): calculating standard deviation and choosing between range, IQR and standard deviation.
+
 ## Official syllabus
 
 Cambridge IGCSE Statistics (0479) syllabus for examination in 2027, Cambridge University Press and Assessment (Cambridge International Education), Topic 5, outcomes 5.6 and 5.7.

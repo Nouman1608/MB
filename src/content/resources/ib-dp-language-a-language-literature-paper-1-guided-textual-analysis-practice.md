@@ -17,11 +17,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-language-and-literature-time-and-space"
 description: "Original IB DP Lang and Lit Paper 1 practice: a poster, a column and a speech, with short analysis questions, two extended tasks and model answers."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -243,6 +243,20 @@ never mentions the past has drifted.
 - [Printable checklist](/checklists/ib/ib-dp/language-a-language-and-literature/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**How long is Paper 1 in IB Language and Literature?**
+Paper 1 of IB DP Language A: Language and Literature lasts 1 hour 15 minutes at SL and 2 hours 15 minutes at HL. It is a guided analysis of unseen non-literary passages and is worth 35% at both levels.
+
+**Why do Paper 1 answers lose marks?**
+Common reasons are starting to write before choosing a thesis, naming techniques without their effect on the target audience, dropping in long quotations, and ignoring layout, images and typography in a multimodal text.
+
+**Do you need to analyse images in Paper 1?**
+Yes, when the passage is multimodal. Images, layout, colour and typography are part of the evidence, and leaving them out ignores much of how the text works.
+
+**How should you use context in a Paper 1 analysis?**
+Use context as evidence for why a feature works on its audience, place and moment, not only as a line in the introduction.
 
 ## Official syllabus
 

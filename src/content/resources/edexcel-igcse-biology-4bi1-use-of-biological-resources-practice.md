@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "use-of-biological-resources-edexcel-igcse-biology"
 description: "Twelve original Edexcel IGCSE Biology 4BI1 questions on crop yield, yeast, fermenters, breeding, GM and cloning, with mark-by-mark answers."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,6 +160,20 @@ Learn the content first in the [study guide](/resources/edexcel-igcse-biology-4b
 - Track coverage with the [printable checklist](/checklists/edexcel/igcse/biology/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Which topic of Edexcel International GCSE Biology 4BI1 do these questions cover?**
+They cover Topic 5, Use of biological resources: crop production, yeast and yoghurt, fermenters, fish farming, selective breeding, genetic modification and cloning.
+
+**Should you write "better conditions" in crop yield answers?**
+No. Name the specific condition, such as temperature, carbon dioxide or light. "Better conditions" is too vague.
+
+**How should you describe fermenter parts?**
+Say why each feature is needed as well as naming it. Describing parts without their purpose loses marks.
+
+**Are some of these questions Paper 2 only?**
+Yes. Questions marked "Paper 2 only", such as those on fish farming and cloning, cover content examined only on Paper 2.
 
 ## Official syllabus
 

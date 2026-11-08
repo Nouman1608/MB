@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-p1-pure-maths-oxfordaqa-alevel-maths"
-description: "Condensed recall notes on algebra, quadratics, coordinate geometry and calculus for OxfordAQA 9660 Unit P1, with circle and trigonometry sections marked as Unit PSM1 content."
+description: "Condensed recall notes for OxfordAQA 9660 Unit P1 on algebra, quadratics, coordinate geometry and calculus, with circle and trig flagged as Unit PSM1 content."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -267,3 +267,19 @@ For the area between two curves, find the intersections first: they are the limi
   <figcaption>The area between two curves is the integral of the top curve minus the bottom curve.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you show a quadratic is always positive?**
+Two conditions are needed: the coefficient a > 0 and the discriminant b² − 4ac < 0. Giving only one of them loses a mark.
+
+**How do you rationalise a denominator like a + √b?**
+Multiply the numerator and denominator by the conjugate a − √b, since (a + √b)(a − √b) = a² − b.
+
+**What happens if the second derivative is zero at a stationary point?**
+The second derivative test is inconclusive, so check the sign of the gradient on either side of the point to decide its nature.
+
+**Is the circle in OxfordAQA 9660 Unit P1?**
+No. P1 coordinate geometry covers straight lines and the intersection of a line and a curve. The circle (PP1.1) and trigonometry (PP1.2) belong to Unit PSM1.
+
+**Do you have to differentiate from first principles in Unit P1?**
+You need to know the limit definition of the derivative, as the limit of the gradient of a chord. Carrying out differentiation from first principles is not tested; routine questions use the power rule directly.

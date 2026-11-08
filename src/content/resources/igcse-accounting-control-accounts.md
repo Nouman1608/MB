@@ -229,6 +229,23 @@ Many businesses record transactions in accounting software. The syllabus asks ab
 - Mixing up the sides when a closing credit balance in the sales ledger is carried down. It goes on the debit side.
 - Using the cash sales figure from the cash book. Only credit sales belong in the account.
 
+## Frequently asked questions
+
+**What is a control account in Cambridge IGCSE Accounting 0452?**
+A control account is a single ledger account that summarises all the individual customer or supplier accounts, using totals from the books of prime entry. The sales ledger control account gives total trade receivables and the purchases ledger control account gives total trade payables.
+
+**Do you need to reconcile control accounts with ledger balances in 0452?**
+No. The syllabus note to section 3.4 says you do not need to reconcile control account balances with the sales ledger and purchases ledger balances. You do need to prepare the accounts and explain their purposes.
+
+**Why does the sales ledger control account normally have a debit balance?**
+Customers normally owe the business money, so the sales ledger control account normally has a debit balance. Suppliers are normally owed money, so the purchases ledger control account normally has a credit balance.
+
+**Is trade discount entered in a control account?**
+No. Trade discount is deducted on the invoice, so only the net invoice value appears in the sales or purchases journal and the control account. Cash discounts allowed and received are entered.
+
+**How does digital recording affect control accounts?**
+Software adds up the journals and postings itself, so a control account can be produced automatically at any date with fewer arithmetic mistakes. It cannot tell whether the data entered is right, so input errors remain.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1), published by Cambridge University Press & Assessment (Cambridge International Education): section 3.4 Control accounts.

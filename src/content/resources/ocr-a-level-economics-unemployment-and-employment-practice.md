@@ -170,6 +170,20 @@ These questions cover the Unemployment/Employment topic of the OCR A Level Econo
 - Mixing up percentage points and per cent.
 - Listing causes or consequences with no judgement on size, duration or who is affected.
 
+## Frequently asked questions
+
+**How do you calculate the unemployment, employment and inactivity rates?**
+The unemployment rate is the number unemployed divided by the labour force. The employment rate and inactivity rate use the working-age population as the base, so using the wrong denominator is a common error.
+
+**Are students and retired people counted as unemployed?**
+No. Unemployed people are without a job, actively looking for work and available to start. Full-time students, carers and retired people are economically inactive, not unemployed.
+
+**Does full employment mean zero unemployment?**
+No. Full employment means everyone who wants and is able to work at the going wage can find a job, so some frictional and voluntary unemployment remains.
+
+**What are common mistakes in unemployment calculations?**
+Typical errors include including cyclical unemployment in the natural rate, mixing up percentage points and per cent, and quoting results without saying what they mean.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/ocr-a-level-economics-unemployment-and-employment-revision-notes/) and [study guide](/resources/ocr-a-level-economics-unemployment-and-employment/).

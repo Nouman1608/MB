@@ -269,6 +269,23 @@ The 9625 text also lists government policies and the degree of competition (the 
 - Treating the concentration ratio as a sum of sales rather than shares.
 - Calling an inferior good low quality, or stopping at "costs go up" with no link to profit.
 
+## Frequently asked questions
+
+**What is the difference between a normal good and an inferior good?**
+Demand for a normal good rises when incomes rise and falls when incomes fall, so its YED is positive. Demand for an inferior good falls when incomes rise, so its YED is negative.
+
+**What is income elasticity of demand?**
+Income elasticity of demand (YED) measures how responsive quantity demanded is to a change in income. It is the percentage change in quantity demanded divided by the percentage change in income.
+
+**How does a rise in interest rates affect a business?**
+Firms with variable-rate loans pay more interest, which raises costs, and consumers paying more on loans and mortgages have less to spend, so demand for goods bought on credit, such as cars and furniture, tends to fall. A fall in interest rates works in the opposite direction.
+
+**What is the difference between a saturated and a dynamic market?**
+In a saturated market most potential customers already buy the product, so a firm can grow only by taking share from rivals. A dynamic market changes quickly, with new products, technology or tastes and often fast growth.
+
+**What are examples of barriers to entry?**
+Barriers to entry include high entry costs for premises, machinery, stock and launch marketing, legal requirements such as licences or permits, specialist knowledge, customer loyalty to existing businesses, and difficulty accessing resources or distribution.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725), Version 1.1, section 3.1.1.3, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. The 9625 specification (Version 3.1) section 3.1.1.3, checked against its text, lists degree of competition (number of businesses), extent of barriers to entry, market size, growth or decline and concentration ratio, and the effect of incomes, interest rates, exchange rates, costs of inputs, government policies and competition (including from abroad). It does not list income elasticity, normal and inferior goods or the four firm form; those points and market share come from 9725. Published by OxfordAQA.

@@ -226,6 +226,20 @@ Notice that the fixed costs did not change in any of these. Revenue rose by £1,
 
 Test recall with the [revision notes](/resources/aqa-gcse-business-business-location-and-business-planning-revision-notes/), then try the [practice questions](/resources/aqa-gcse-business-business-location-and-business-planning-practice/).
 
+## Frequently asked questions
+
+**Why do businesses write a business plan?**
+The AQA GCSE Business (8132) specification gives four reasons: setting up a new business, raising finance, setting objectives and detailing how the functions of the business will be organised.
+
+**What are the drawbacks of business planning?**
+A plan takes time to research and write, its figures are only forecasts that may be wrong, it can go out of date if the market changes, and a rigid plan can stop the owner adapting to new opportunities.
+
+**What is the difference between revenue and profit?**
+Revenue is income from sales, found by price times quantity sold. Profit is what is left after total costs are taken away from revenue; if total costs are greater, the business makes a loss.
+
+**How does competition affect where a business locates?**
+It can pull in two directions. Locating among rivals can bring more customers to the area but means sharing them, while locating away from rivals means fewer competitors but possibly fewer customers passing.
+
 ## Official syllabus
 
 AQA GCSE Business (8132) specification, for first teaching from September 2017, published by AQA: sections 3.1.5 Business location and 3.1.6 Business planning.

@@ -271,6 +271,20 @@ Universal indicator colours run roughly red (strongly acidic), orange, yellow, g
 - Forgetting to convert cm³ to dm³ before dividing.
 - In PAG C7, adding excess **acid** rather than excess solid, so the salt is contaminated.
 
+## Frequently asked questions
+
+**What is the ionic equation for neutralisation?**
+For every aqueous acid–alkali neutralisation the ionic equation is H⁺(aq) + OH⁻(aq) → H₂O(l). The metal ion and the acid's negative ion are spectator ions and do not change.
+
+**What does OIL RIG mean?**
+OIL RIG stands for Oxidation Is Loss, Reduction Is Gain, of electrons. In OCR GCSE Chemistry A (J248), redox in terms of electrons is Higher Tier only.
+
+**Why is excess solid used when making a salt?**
+Adding the insoluble base or carbonate in excess guarantees that no acid remains, and the unreacted solid is easy to remove by filtering. Excess acid would stay in the solution and contaminate the salt.
+
+**What is the difference between weak and dilute acids?**
+Weak and strong describe the degree of ionisation of the acid, while dilute and concentrated describe the amount of acid in a given volume of solution. A concentrated weak acid and a dilute strong acid can both exist; this distinction is Higher Tier only.
+
 ## Official syllabus
 
 OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification, Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Sub-topic C3.3 Types of chemical reactions, learning outcomes C3.3a–C3.3k, mathematical learning outcome CM3.3i and practical suggestions (PAG C6, PAG C7).

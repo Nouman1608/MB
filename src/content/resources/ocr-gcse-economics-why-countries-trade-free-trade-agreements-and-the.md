@@ -268,10 +268,27 @@ Country E and Country F each have a deficit of CU 48 billion. E's GDP is 800, so
 - Dividing by the wrong year when calculating percentage change: always divide by the starting value.
 - Quoting a trend without numbers when the question gives data.
 
+## Frequently asked questions
+
+**What is a free trade agreement?**
+A free trade agreement is a deal between countries to remove or reduce tariffs, quotas and other barriers on trade between them. Each member usually keeps its own barriers against non-members.
+
+**How is the European Union different from a free trade agreement?**
+The EU goes further than a basic free trade agreement: it adds a single market and a common external tariff on goods from outside the EU.
+
+**Why does removing a 25% tariff not cut the price by 25%?**
+The percentage fall is measured from the higher price that includes the tariff. A 25% tariff on a price of 48 makes it 60, and removing it is a fall of 12 out of 60, which is 20%.
+
+**What causes a current account deficit?**
+The OCR GCSE Economics (J205) guide lists a strong exchange rate, fast growth in domestic spending, low competitiveness, weak growth abroad and a lack of resources that forces the country to import.
+
+**What are the costs of international trade?**
+Domestic firms facing cheaper imports may shrink or close, their workers may need retraining before finding new jobs, a country can become dependent on imported essentials, and extra transport adds pollution.
+
 ## Next steps
 
 Test yourself with the [practice questions](/resources/ocr-gcse-economics-why-countries-trade-free-trade-agreements-and-the-practice/), then use the [revision notes](/resources/ocr-gcse-economics-why-countries-trade-free-trade-agreements-and-the-revision-notes/) for quick recall.
 
 ## Official syllabus
 
-OCR, Cambridge OCR Level 1/Level 2 GCSE (9-1) in Economics (J205), Version 2.0 (June 2026), first assessment 2019, section 4.1 and 4.2.
+OCR, OCR Level 1/Level 2 GCSE (9-1) in Economics (J205), Version 2.0 (June 2026), first assessment 2019, section 4.1 and 4.2.

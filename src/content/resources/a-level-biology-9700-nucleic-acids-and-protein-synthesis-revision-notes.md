@@ -22,11 +22,11 @@ syllabusTopics:
     subtopic: "protein-synthesis-cambridge-alevel-biology"
 description: "Condensed notes on DNA and RNA structure, replication, the genetic code, transcription, translation and mutations, with a self-test, for Cambridge 9700."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Condensed for the final weeks. For full explanations and worked examples, use the [nucleic acids and protein synthesis study guide](/resources/a-level-biology-9700-nucleic-acids-and-protein-synthesis/).
@@ -257,6 +257,23 @@ Link it to function: altered primary structure → altered tertiary structure �
 - Forgetting that introns are removed before mRNA leaves the nucleus.
 - Stating "the protein changes" without linking mutation → codon → amino acid sequence → shape.
 - Calling tRNA's triplet a codon.
+
+## Frequently asked questions
+
+**What is semi-conservative replication?**
+Each new DNA molecule has one parental strand and one newly made strand.
+
+**How many hydrogen bonds are there between DNA base pairs?**
+A–T pairs are held by two hydrogen bonds and C–G pairs by three. Giving A–T three hydrogen bonds is a common error.
+
+**What are purines and pyrimidines?**
+Purines are double-ring bases (adenine and guanine). Pyrimidines are single-ring bases (cytosine, thymine and uracil).
+
+**Do I need to know structural formulae of nucleotides for Cambridge 9700?**
+No. The notes state that no structural formulae are expected for the nucleotides or the bases.
+
+**What does DNA ligase do?**
+DNA ligase joins sections of new DNA by forming phosphodiester bonds in the sugar–phosphate backbone. It does not join bases or break hydrogen bonds.
 
 ## Official syllabus
 

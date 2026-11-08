@@ -13,7 +13,7 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "component-2-essay-9239"
-description: "Exam-style questions with full worked answers on choosing an essay question, justifying source selection, evaluating globally contrasting perspectives, and referencing, for Cambridge AS & A Level Global Perspectives & Research (9239) Component 2."
+description: "Practice questions with worked answers on essay titles, source selection, contrasting perspectives and referencing for the Cambridge 9239 Component 2 Essay."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -23,12 +23,13 @@ publishedDate: 2026-09-06
 featured: false
 ---
 
-> These are original practice questions written in the style of Cambridge AS &
-> A Level Global Perspectives & Research (9239) assessment objectives. They
-> are not taken from any past paper and are not endorsed by Cambridge
-> International.
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content. They are **not** reproduced past-paper questions,
+> and they do **not** replicate the exam's exact structure, question count or
+> mark tariffs — examination boards hold copyright in their own papers. Use
+> these alongside the official past papers available free from your board.
 >
-> **Coverage note:** this resource covers Components 1-3 (the AS Level). Component 4, the
+> **Coverage note:** this page covers Component 2 (the Essay), part of the AS Level. Component 4, the
 > Cambridge Research Report (85 marks, A Level only), has its own pages:
 > [study guide](/resources/a-level-global-perspectives-9239-component-4-cambridge-research-report/),
 > [revision notes](/resources/a-level-global-perspectives-9239-component-4-cambridge-research-report-revision-notes/) and
@@ -179,3 +180,17 @@ each source's selection explicitly justified rather than just cited,
 and does the conclusion offer a personal, reasoned judgement rather
 than a summary — since these three checks map directly onto where AO1
 and AO2 marks are most often lost.
+
+## Frequently asked questions
+
+**What do these 9239 essay practice questions test?**
+They test the decisions behind the Component 2 Essay: framing a title, choosing and justifying sources, developing contrasting perspectives, writing a conclusion and the limits of teacher support.
+
+**What are the three checks to make while drafting a Global Perspectives essay?**
+Check that the perspectives come from genuinely different standpoints, that each source's selection is explicitly justified, and that the conclusion gives a personal, reasoned judgement rather than a summary.
+
+**Why does the choice of essay question matter so much?**
+A question that only supports one side, or that disguises a local issue as a global one, makes every later stage harder however strong the research is. It deserves real time before research begins.
+
+**Where are AO1 and AO2 marks most often lost in the 9239 essay?**
+They are most often lost through perspectives that restate the same view, sources cited without justification, and conclusions that summarise instead of giving the candidate's own judgement.

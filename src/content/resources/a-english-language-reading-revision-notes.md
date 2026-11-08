@@ -13,11 +13,17 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-reading-9093"
+  - qualification: "a-level"
+    topic: "paper-1-reading-9093"
+    subtopic: "knowledge-and-understanding-9093"
+  - qualification: "a-level"
+    topic: "paper-1-reading-9093"
+    subtopic: "skills-and-techniques-9093"
 description: "Condensed recall notes on language frameworks, discourse analysis, register, and directed writing for Cambridge AS & A Level English Language 9093."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -127,3 +133,20 @@ Where Paper 1's Question 1(b) asks you to compare your own directed response wit
 5. What must Question 1(b) do beyond describing your own response?
 
 **Answers:** 1. The mark is awarded for the effect of the feature on the reader in that specific text, in relation to its audience and purpose — not for identification. 2. High modality asserts certainty and authority; low modality hedges and softens, reducing commitment to the claim. 3. It conceals or removes the agent, so responsibility is obscured — which is why it recurs in institutional and political language. 4. Field, tenor and mode. 5. It must compare your own response with the original text -- form, structure and language -- explaining why each feature suits the audience and purpose, rather than only describing your own choices.
+
+## Frequently asked questions
+
+**What does high and low modality signal in a text?**
+High modality, such as "must", asserts certainty and authority, while low modality, such as "might" or "could", hedges, softens a claim and lowers the risk of contradiction.
+
+**Why does the passive voice matter in language analysis?**
+The passive voice can conceal the agent, so a sentence like "Mistakes were made" avoids naming who was responsible. Pointing out who is hidden, and why, turns a grammar label into analysis.
+
+**What does directed writing require in Cambridge 9093 Paper 1?**
+Directed writing tests whether you can transform a text, not summarise it. Fix the form, audience and purpose first, change the register for the new audience, select relevant material and rephrase rather than lifting from the source.
+
+**What does Question 1(b) ask you to do in Paper 1?**
+It asks you to compare your own directed response with the original text, looking at form, structure and language. Describing your own response and the source separately, without comparing them, is a common trap.
+
+**How long should quotations be in an English Language analysis answer?**
+Keep quotations short. Embedding a two-word quotation in your own sentence shows more control than copying out a full line.

@@ -149,6 +149,20 @@ Links: [study guide](/resources/cambridge-a-level-economics-employment-unemploym
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 unemployment questions from past papers?**
+No. They are original practice questions with worked answers covering section 9.3, Employment/unemployment, outcomes 9.3.1 to 9.3.7 of the Cambridge International AS & A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**What are common mistakes in unemployment rate calculations?**
+The most common error is dividing the number unemployed by the entire population instead of the labour force. Show the labour force as the denominator in your working.
+
+**How do you read unemployment from a wage floor diagram?**
+The wage floor must be above the equilibrium wage to have any effect. Read employment from the demand curve at the floor and the labour supplied from the supply curve; the gap between them is the number unemployed.
+
+**How should you judge supply-side against demand-side policy for unemployment?**
+Reach a judgement that depends on the type and cause of unemployment. Applying demand-side policy to structural unemployment without comment, or concluding without saying which policy suits which cause, loses marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, section 9.3 Employment/unemployment (Cambridge University Press & Assessment).

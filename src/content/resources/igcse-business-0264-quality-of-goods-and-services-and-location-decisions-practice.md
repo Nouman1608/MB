@@ -132,6 +132,23 @@ Money figures are in dollars. All businesses are invented.
 - Recommending the cheapest country without weighing skills, stability or exchange-rate risk.
 - Giving a recommendation with no drawback or no final decision.
 
+## Frequently asked questions
+
+**Are these Cambridge IGCSE Business 0264 past paper questions?**
+No. They are original questions written for Marlbridge on sections 4.5 (Quality of goods and services) and 4.6 (Location decisions), not reproduced past-paper questions. Use them alongside the official past papers from your board or school.
+
+**How do you define quality so that it earns the marks?**
+Refer to the customer: quality is how well a good or service meets what the customer expects and needs. Words such as "very good" or "high standard" alone do not say what the standard is measured against.
+
+**What is the most common mistake in location questions?**
+Stopping at a list of location factors without saying how each one affects the business in the question. Each factor needs a link to the case, such as comparing a site's rent with the sales it could bring.
+
+**How do you answer a "recommend and justify" question on quality control or quality assurance?**
+Choose one approach, use facts from the stem such as the number of complaints, the budget or the importance of reputation, and weigh a drawback. Describing both methods without choosing one does not answer the question.
+
+**What do you need to include when working out the gain from a quality programme?**
+Subtract the cost of the programme from the savings it creates, and show each step with units. Stopping at the gross saving leaves the answer incomplete.
+
 ## Next steps
 
 - Review the [study guide](/resources/igcse-business-0264-quality-of-goods-and-services-and-location-decisions/) and the [revision notes](/resources/igcse-business-0264-quality-of-goods-and-services-and-location-decisions-revision-notes/).

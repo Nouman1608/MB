@@ -158,6 +158,20 @@ Option JIT: four weekly deliveries at full price, with a delivery charge of £30
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to find weak areas.
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What does topic 3.3 Business operations cover in AQA GCSE Business (8132)?**
+Production processes, the role of procurement, the concept of quality, and good customer service. These practice questions are original and test each of these areas.
+
+**How do you calculate unit cost?**
+Add fixed costs and total variable costs, then divide by output. A common error is leaving fixed costs out or dividing the wrong figure by output.
+
+**How should I judge whether a business should use just in time stock?**
+Do not judge it on cost alone. Weigh the saving on storage against the need for reliable suppliers and the risk of late deliveries, using the details in the question.
+
+**How do I choose between suppliers in an analyse question?**
+Use price, quality and reliability together for the business in the case. Choosing the cheapest supplier without weighing faulty items and late deliveries limits the marks.
+
 ## Official syllabus
 
 AQA GCSE Business (8132) specification, first teaching September 2017, published by AQA: section 3.3 Business operations (3.3.1 to 3.3.4).

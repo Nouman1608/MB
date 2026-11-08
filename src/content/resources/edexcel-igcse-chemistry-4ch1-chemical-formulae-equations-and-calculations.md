@@ -337,6 +337,20 @@ For gases at the same conditions, mole ratio = volume ratio. In `CH₄(g) + 2O�
 - Using cm³ directly in a mol/dm³ calculation (Paper 2).
 - Using 24 when the answer is wanted in cm³ (Paper 2).
 
+## Frequently asked questions
+
+**How do you balance a chemical equation?**
+Write every formula correctly, then balance one element at a time with numbers in front of formulae, leaving elements on their own such as H₂ or O₂ until last. Never change a formula or subscript to make an equation balance.
+
+**How do you do a reacting mass calculation?**
+Convert the mass you know into moles, use the balanced equation's ratio to find moles of the substance you want, then convert those moles back into a mass. Moles, not masses, react in the ratio shown in the equation.
+
+**How do you find the formula of a metal oxide by experiment?**
+Find the mass of metal and the mass of oxygen, either by heating magnesium in a crucible or by reducing copper(II) oxide with hydrogen or methane. Convert each mass to moles and find the simplest whole-number ratio, heating to constant mass to make sure the reaction is complete.
+
+**What state symbol does water have?**
+Water itself is a liquid, so it is written (l). A substance dissolved in water is (aq), and a precipitate is (s).
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Chemistry (4CH1) specification, Issue 3, September 2024, published by Pearson Education Limited -- Topic 1 Principles of chemistry, sub-topic (e) Chemical formulae, equations and calculations, points 1.25 to 1.36.

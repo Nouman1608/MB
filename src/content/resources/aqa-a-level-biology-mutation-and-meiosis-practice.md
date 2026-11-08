@@ -144,6 +144,20 @@ These questions follow AQA A-level Biology (7402), section 3.4.3, *Genetic diver
 - All free 10-minute [diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which section of the AQA specification do these questions cover?**
+They cover section 3.4.3, Genetic diversity can arise as a result of mutation or during meiosis, in AQA A-level Biology 7402.
+
+**What does n mean in 2ⁿ calculations?**
+n is the number of homologous pairs, not the diploid number. Using the diploid number is a common error.
+
+**Should you write chromosomes or chromatids?**
+Use the correct term for the structure you mean. Writing "chromosomes" when chromatids are meant, or the reverse, loses marks.
+
+**How do you calculate a percentage increase?**
+Divide the increase by the original value, not the new value, then multiply by 100.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015, section 3.4.3 (version 1.5), published by AQA.

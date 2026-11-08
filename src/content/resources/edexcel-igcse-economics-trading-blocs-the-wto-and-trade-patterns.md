@@ -237,6 +237,23 @@ Trade also links to the balance of payments. If Country D imports 560 million an
 
 The specification says Explain needs a statement with two further expansion points, and Evaluate needs a supported conclusion. Use the country and numbers in the question. When you calculate, show the working, because the specification says workings should be given.
 
+## Frequently asked questions
+
+**How do trading blocs affect non-member countries?**
+A non-member's goods still face the external tariff while partners trade freely, so its exports become dearer inside the bloc. It may lose sales and jobs.
+
+**What are the benefits of joining a trading bloc?**
+Members gain cheaper goods and more choice, a bigger market that can bring economies of scale, more competition that pushes firms to cut costs, and investment from outside firms that build factories inside the bloc to avoid the external tariff.
+
+**What are the costs of joining a trading bloc?**
+Inefficient firms that lose to partner imports may close and cut jobs, members may have to follow common rules and give up setting their own tariffs, and trade diversion can raise costs.
+
+**How do the trade patterns of developed and developing countries differ?**
+Developed countries mainly export manufactured goods, machinery and services, with a wide range of exports. Developing countries often rely on a narrow range of primary products, so their export earnings are less stable because primary product prices swing.
+
+**Why is relying on one export product risky?**
+When most export earnings come from one product, a fall in its world price causes a large fall in total earnings. This makes planning harder for the country.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1), specification Issue 3, first teaching September 2017, published by Pearson Education Limited. Statements 2.2.2 d), e) and f).

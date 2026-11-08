@@ -7,123 +7,160 @@ topic: "Internal assessment -- historical investigation"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP History"]
-syllabusSeries: "First assessment 2028"
+syllabusSeries: "First assessment 2017"
 order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-world-history-internal-assessment"
-description: "Condensed revision notes on the compulsory Historical Investigation internal assessment of IB Diploma Programme History -- source selection, evaluation and synthesis -- applicable regardless of which focused, thematic or regional study a student's class covers."
+description: "Quick notes on the IB DP History historical investigation (first assessed 2017): sections, marks, word limit, source evaluation, reflection and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: rewritten for the current course (first assessment 2017): three sections incl. reflection, 25 marks, 2,200 words, per owner decision; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
 
-The [full syllabus guide](/resources/ib-dp-history-syllabus-guide/) confirms the historical
-investigation is the one part of the syllabus genuinely open to personal interest -- unlike the
-focused study, thematic study and (at HL) regional study, which depend on which options your specific
-class was taught. These notes cover the **historical investigation**, alongside the
-[Four historical concepts revision notes](/resources/ib-dp-history-four-concepts-revision-notes/)
-already on the site.
+The IB DP History historical investigation (first assessed 2017) is a
+written inquiry of up to **2,200 words** in **three sections**, marked
+out of **25**, worth **25% at SL and 20% at HL**. You choose your own
+historical question, evaluate two sources in depth, argue an answer and
+reflect on historians' methods. These notes condense what you need; the
+[study guide](/resources/ib-dp-history-investigation-ia/) explains each
+step in full.
 
-## Why this content applies to every history student
+## Key facts
 
-Because the focused study, thematic study and regional study are all teacher/school-selected options,
-revision material tied to a specific option only helps students whose class actually studied it. The
-historical investigation is different: every DP History student, regardless of which options their
-school taught, completes this same internally assessed component using the same skills and criteria.
+| Item | Detail |
+|---|---|
+| Word limit | 2,200 (bibliography not counted) |
+| Marks | 25 |
+| Weighting | 25% SL, 20% HL |
+| Teaching time | 20 hours |
+| Marked by | Teacher, moderated by the IB |
+| Topic | Student's choice; need not be from the syllabus options |
 
-## The core skill: source-based inquiry, start to finish
+## The three sections
 
-The investigation is officially graded against **three sections**, and weakness in any one limits
-the whole investigation's mark: **Section 1 -- formulation of an appropriate inquiry question**;
-**Section 2 -- analysis of the chosen sources**, covering identifying and selecting relevant,
-appropriately varied sources and evaluating them (their origin, purpose, value and limitation); and
-**Section 3 -- synthesis of evidence from those sources** into a coherent, evidenced written
-response to the inquiry question. There is no separate "reflection" section in the current course.
+| Section | Must include | Marks | Guideline length |
+|---|---|---|---|
+| 1. Identification and evaluation of sources | The question stated clearly; two sources and why they are relevant; value and limitations by origin, purpose and content | 6 | ~500 words |
+| 2. Investigation | Focused critical analysis, range of evidence, perspectives, reasoned conclusion | 15 | ~1,300 words |
+| 3. Reflection | What the investigation showed about historians' methods and their challenges | 4 | ~400 words |
 
-## Worked example: from a broad topic to a focused inquiry question
+Check: 6 + 15 + 4 = 25 marks; 500 + 1,300 + 400 = 2,200 words.
 
-A student is interested in a broad historical topic (for example, a national independence movement)
-but has not yet formulated an assessable inquiry question.
+## Source evaluation in one line each
 
-```
-Too broad:        "What caused the independence movement?" -- invites
-                   a general narrative rather than a focused,
-                   evidence-based investigation
-Better:            "To what extent did [a specific named factor]
-                   contribute to [a specific, narrow outcome] between
-                   [precise dates]?"
-Why it works:      the narrower question can be answered with a
-                   manageable, specific set of sources, allows genuine
-                   evaluation of competing evidence, and produces an
-                   argument rather than a summary of events
-```
+- **Origin:** who produced it, when, where, what kind of source.
+- **Purpose:** why, and for which audience.
+- **Content:** what it says that bears on the question.
+- **Value:** what it can show *for your question*.
+- **Limitation:** what it cannot show, or may distort, *for your
+  question*.
 
-The single most common reason an otherwise well-researched investigation underperforms is an inquiry
-question left too broad to be answered with focused evidence within the word limit.
+## Worked example: Section 1 sentence pair
 
-## Evaluating sources: origin, purpose, value, limitation
+Question: "To what extent was Khrushchev's decision to place missiles
+in Cuba in 1962 motivated by the defence of Castro's regime?"
 
-For every source used, be ready to state not just what it says but where it came from (origin), why it
-was produced (purpose), what that makes it useful for (value), and what it cannot reliably tell you
-(limitation). A source's value and limitation are not fixed properties -- the same source can be highly
-valuable for one specific question and limited for another, depending on exactly what the investigation
-is trying to establish.
+> *Value:* Khrushchev's memoirs, dictated in retirement, give direct
+> evidence of how the decision-maker himself explained his motives,
+> including the stated aim of protecting Cuba.
+> *Limitation:* written after his removal from power and intended for
+> publication, they may stress defensive motives and play down the
+> wish to close the missile gap with the United States.
 
-## Common mistakes
+## Strong reflection topics
 
-Choosing an inquiry question so broad it cannot be answered with a focused set of sources within the
-word limit. Describing sources' content without evaluating their origin, purpose, value and
-limitation. Writing a narrative account of events instead of a structured argument that uses evidence
-to answer the specific inquiry question asked. Selecting a topic from the class's studied options by
-default, when the investigation may in fact be on any historical topic the student can source and
-evaluate evidence for.
+- Choosing between contradictory sources.
+- Working with translated or incomplete evidence.
+- How hindsight and later politics shape memoirs.
+- How historians' interpretations change as archives open.
+- Why the historian's methods differ from a scientist's.
 
-## Applying the four historical concepts to the investigation
+## How should you plan the investigation?
 
-The same four concepts (cause and consequence, continuity and change, perspectives, significance) that
-structure the external papers also strengthen an investigation's analysis. A strong investigation does
-not just narrate what happened — it explicitly weighs, for example, which of several causes mattered
-most (cause and consequence), argues how important an event or development was (significance), or considers how different sources present conflicting perspectives on the same
-event, using vocabulary consistent with the rest of the course rather than treating the internal
-assessment as a separate skill in isolation.
+| Stage | What to do | Output |
+|---|---|---|
+| 1. Topic | Pick an area you can source well and care about | A broad topic |
+| 2. Question | Narrow to one issue, place and period; use "to what extent" or "how far" | A focused question |
+| 3. Reading | Gather primary and secondary sources with different origins and perspectives | A working bibliography |
+| 4. Section 1 | Choose the two most useful sources and evaluate them for the question | About 500 words |
+| 5. Section 2 | Plan an argument by factor; write and redraft | About 1,300 words |
+| 6. Section 3 | Note the problems you met as you worked; turn them into a reflection | About 400 words |
+| 7. Check | Word count, references, bibliography, question stated at the start | Final draft |
 
-## Source selection: quality over quantity
+Keep a research log as you go: the problems you record during stages
+3 to 5 (missing evidence, contradictions, translation, bias) become the
+raw material for Section 3.
 
-A common misconception is that more sources automatically produce a stronger investigation. In fact,
-a smaller number of well-chosen, genuinely varied sources (differing in origin, type or perspective)
-that are evaluated in real depth typically scores more highly than a longer source list treated
-superficially. When selecting sources, deliberately look for at least one that challenges or
-complicates your emerging argument, since engaging honestly with counter-evidence is itself part of
-what strong evaluation and synthesis look like at this level.
+## What does a strong Section 2 paragraph contain?
 
-## Quick revision checklist
+- **Claim:** one sentence that answers part of the question.
+- **Evidence:** specific facts, dates and quotations from more than one
+  source.
+- **Analysis:** why the evidence supports the claim, and how strongly.
+- **Perspective:** where relevant, how a historian or contemporary saw
+  it differently, and why.
+- **Link:** a closing sentence that ties the point back to the
+  question and to your overall judgement.
 
-- Draft and refine an inquiry question early, checking it is narrow enough to answer with a focused
-  set of sources.
-- Practise stating a source's origin, purpose, value and limitation as a routine four-part habit, not
-  an afterthought.
-- Build the investigation as a sustained argument answering the specific question, not a general
-  narrative of the topic.
-- Remember the topic can be any historical topic you can source evidence for -- it does not have to
-  come from your class's studied focused study, thematic study or regional study.
+## How do you choose the two Section 1 sources?
+
+- Choose sources you actually use in Section 2.
+- Prefer two that differ: primary and secondary, or two perspectives.
+- Pick sources with enough provenance information to evaluate origin
+  and purpose properly.
+- Avoid textbooks and encyclopaedias for detailed evaluation: they
+  offer little to say about origin and purpose.
+
+## Common mistakes / traps
+
+- Question too broad ("What caused the Cold War?").
+- Section 1 describes sources instead of evaluating them.
+- Value and limitations not tied to the question.
+- Section 2 is narrative, with no argument or conclusion.
+- Reflection is generic and not about *your* investigation.
+- Over the word limit: excess material is not marked.
+
+## Reflection: weak versus strong
+
+| Weak | Strong |
+|---|---|
+| "Historians must be careful about bias." | "My two main accounts were written by participants years later, so I checked their claims against documents written at the time." |
+| "Some sources are more reliable." | "Relying on translated Soviet documents meant I could not check the original wording, a limitation historians of the USSR still face." |
 
 ## Self-test
 
-1. Why does the historical investigation apply to every history student regardless of their class's
-   chosen options?
-2. Name the four things a strong source evaluation states about each source used.
-3. What is the most common reason an investigation underperforms?
-4. Does the investigation's topic have to come from the class's studied options?
-5. What should a strong investigation produce: a narrative or an argument?
+1. What is the word limit?
+2. How many marks is each section worth?
+3. How many sources are analysed in detail in Section 1?
+4. What three things should value and limitations be linked to?
+5. What is the reflection about?
+6. What is the IA worth at HL?
 
-**Answers:** 1. Because it is a compulsory internal assessment component completed by every DP History
-student using the same skills and criteria, unlike the focused study, thematic study and regional
-study, which depend on school-selected options. 2. Origin, purpose, value and limitation. 3. An
-inquiry question left too broad to be answered with a focused, manageable set of sources. 4. No —
-students may investigate any historical topic they can source and evaluate evidence for. 5. A
-structured argument that uses evidence to answer the specific inquiry question, not a general
-narrative of events.
+**Answers:** 1. 2,200 words. 2. Section 1: 6; Section 2: 15;
+Section 3: 4. 3. Two. 4. Origin, purpose and content. 5. What the
+investigation showed about the methods historians use and their
+challenges and limitations. 6. 20%.
+
+## Frequently asked questions
+
+**Which section matters most?**
+Section 2, the investigation, carries 15 of the 25 marks, so most of
+your words and effort should go there.
+
+**Can I use more than two sources?**
+Yes. Two are evaluated in detail in Section 1, but Section 2 should
+draw on a wider range of evidence.
+
+**Does the bibliography count towards the word limit?**
+No, but it is required, and references should be consistent.
+
+## Official syllabus
+
+International Baccalaureate Organization, *History guide*, first
+examinations 2017 (internal assessment), and *Diploma Programme Subject
+Brief — History*, first assessments 2017. Practise with the
+[investigation practice questions](/resources/ib-dp-history-investigation-ia-practice/).

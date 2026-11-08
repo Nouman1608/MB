@@ -8,7 +8,7 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Global Politics"]
 order: 4
-description: "Paper-by-paper exam preparation for IB Diploma Programme Global Politics -- covering the core topics and all three thematic studies evenly, multi-perspective evaluation strategy, HL Paper 3's global political challenges extension, a worked scenario and a before/during-exam checklist."
+description: "How to prepare for each IB DP Global Politics paper: covering every thematic study, writing multi-perspective evaluations and tackling HL Paper 3."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -140,6 +140,20 @@ command terms in this subject. 3. A state-centred perspective, a humanitarian pe
 realist/interest-based perspective. 4. As complementary to, not a substitute for, strong core-topic
 and thematic-study understanding -- case studies are examined through the same core concepts, so
 case-study revision should apply that conceptual understanding rather than replace it.
+
+## Frequently asked questions
+
+**How much is each IB Global Politics paper worth?**
+In IB DP Global Politics, Paper 1 is worth 30% at SL and 20% at HL, and Paper 2 is worth 40% at SL and 30% at HL. HL students also sit Paper 3, worth 30%.
+
+**How should you manage time on IB Global Politics Paper 1?**
+Paper 1's structured questions generally move from lower-mark recall towards a more demanding final part. Allocate time to match each part's mark value, so you do not spend too long on an early, lower-mark part and leave too little for the final question.
+
+**How many case studies do HL students need for Global Politics Paper 3?**
+Each HL student independently researches their own cases, covering at least two case studies across at least two of the eight HL topic areas: borders, environment, equality, health, identity, poverty, security and technology.
+
+**What is the best way to revise for IB Global Politics?**
+Start with an honest topic-by-topic confidence audit and direct revision time at your weakest area, because Papers 1 and 2 draw questions from across the core topics and all three thematic studies. Practise writing evaluate and discuss answers that weigh more than one perspective before reaching a judgement.
 
 ## Official syllabus
 

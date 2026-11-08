@@ -278,6 +278,20 @@ overall equation.
 - Quoting "AgBr is insoluble in ammonia" without saying dilute.
 - Calling the sunlight reaction disproportionation.
 
+## Frequently asked questions
+
+**What is the difference between the oxidising ability of halogens and the reducing ability of halide ions?**
+Halogens are oxidising agents, and their oxidising ability decreases down the group. Halide ions are reducing agents, and their reducing ability increases from F⁻ to I⁻.
+
+**What do you see when sodium chloride reacts with concentrated sulfuric acid?**
+You see steamy fumes of hydrogen chloride from the acid–base reaction NaCl + H₂SO₄ → NaHSO₄ + HCl. Chloride is not a strong enough reducing agent to reduce the sulfuric acid, so there is no redox step.
+
+**Which silver halides dissolve in ammonia?**
+Dilute ammonia dissolves only silver chloride, while concentrated ammonia dissolves silver chloride and silver bromide. The solubility of the silver halides in ammonia falls from AgCl to AgI.
+
+**Is the reaction of chlorine water in sunlight disproportionation?**
+No. In sunlight, 2Cl₂ + 2H₂O → 4H⁺ + 4Cl⁻ + O₂, chlorine is only reduced (0 to −1) while oxygen is oxidised, so it is not disproportionation.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS

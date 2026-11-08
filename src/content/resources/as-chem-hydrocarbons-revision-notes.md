@@ -17,19 +17,47 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-hydrocarbons"
     subtopic: "as-alkenes"
-description: "Condensed recall notes on free-radical substitution and electrophilic addition mechanisms for Cambridge AS & A Level Chemistry 9701."
+description: "Condensed 9701 notes on making alkanes and alkenes, cracking, free-radical substitution, electrophilic addition, KMnO4 oxidation and Markovnikov's rule."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added missing 14.1-14.2 outcomes (making alkanes/alkenes incl. cracking with Al2O3, alkane unreactivity, combustion pollutants, addition polymerisation, ethane example), opening answer and FAQ; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 ---
+
+Hydrocarbons in Cambridge AS & A Level Chemistry 9701 (Topic 14) means alkanes and alkenes: how each is made,
+why alkanes are unreactive, free-radical substitution of alkanes, electrophilic addition to alkenes with
+Markovnikov's rule, oxidation of alkenes by KMnO₄, addition polymerisation and the pollutants from burning
+alkanes in engines.
 
 Condensed for the final weeks. For the full explanation, use the
 [Hydrocarbons: Alkanes and Alkenes study guide](/resources/as-hydrocarbons-alkanes-and-alkenes/).
 
-## Free-radical substitution (alkanes)
+## How are alkanes and alkenes made?
+
+| Product | Reaction | Reagents and conditions (9701) |
+|---|---|---|
+| Alkane | Hydrogenation of an alkene | H₂(g), Pt or Ni catalyst, heat |
+| Alkane + alkene | Cracking of a longer-chain alkane | Heat with Al₂O₃ |
+| Alkene | Elimination of HX from a halogenoalkane | NaOH in ethanol, heat |
+| Alkene | Dehydration of an alcohol | Heated Al₂O₃, or concentrated H₂SO₄ |
+
+Cracking turns heavy crude-oil fractions into more useful lower-Mr alkanes (for fuels) and alkenes (for
+polymers), for example C₁₀H₂₂ → C₈H₁₈ + C₂H₄.
+
+## Why are alkanes unreactive, and what do they make when they burn?
+
+Alkanes are generally unreactive, including towards polar reagents, because C–H bonds are **strong** and have
+**little polarity**, so nucleophiles and electrophiles are not attracted. Complete combustion gives CO₂ and H₂O;
+incomplete combustion in a limited oxygen supply also gives toxic **CO** (and soot). In a car engine the
+exhaust also contains **oxides of nitrogen** and **unburnt hydrocarbons**; a catalytic converter removes them,
+for example 2CO + 2NO → 2CO₂ + N₂.
+
+## How does free-radical substitution work?
+
+The syllabus exemplifies this with **ethane**; the steps are identical for methane, shown here.
+For ethane: Cl· + C₂H₆ → ·C₂H₅ + HCl, then ·C₂H₅ + Cl₂ → C₂H₅Cl + Cl·.
 
 Requires **UV light**. Three stages, all of which must be shown:
 
@@ -46,7 +74,7 @@ TERMINATION   Cl. + Cl.  ->  Cl2
 - Propagation steps consume a radical and produce one — this is why the chain continues.
 - The reaction is poorly controlled: further substitution gives CH₂Cl₂, CHCl₃, CCl₄.
 
-## Electrophilic addition (alkenes)
+## How does electrophilic addition work?
 
 The C=C is a region of **high electron density**, which attracts electrophiles.
 
@@ -71,6 +99,10 @@ Step 3  The nucleophile (e.g. Br-) attacks the carbocation
 | O₂ | — | Combustion |
 
 **The test for unsaturation:** bromine water, orange-brown → **colourless**.
+
+**Addition polymerisation.** Ethene gives poly(ethene), –[CH₂–CH₂]ₙ–, and propene gives poly(propene),
+–[CH₂–CH(CH₃)]ₙ–: the C=C opens and monomers join with no other product. In a repeat unit the methyl group of
+propene hangs off the chain; it is not part of the backbone.
 
 ## Locating a double bond by oxidative cleavage
 
@@ -101,7 +133,7 @@ is worth distinguishing clearly from the cold dilute acidified KMnO₄ diol test
 the two use the same reagent but very different conditions, and give
 completely different types of information.
 
-## Markovnikov's rule
+## What is Markovnikov's rule and why does it work?
 
 When HBr adds to an unsymmetrical alkene, the **hydrogen adds to the carbon already bearing more hydrogens**, because this route forms the **more stable carbocation**.
 
@@ -110,6 +142,16 @@ Carbocation stability:   tertiary > secondary > primary
 ```
 
 Alkyl groups are **electron-donating**, so they spread the positive charge and stabilise the cation. Explaining the major product requires naming the carbocation, not just quoting the rule.
+
+## Frequently asked questions
+
+**Which catalyst is used for cracking in 9701?**
+Aluminium oxide, Al₂O₃, with heat. Learn this pairing; the same oxide is also a dehydration catalyst for
+alcohols.
+
+**Why does HBr give mainly 2-bromopropane with propene?**
+Addition of H⁺ to the end carbon gives a secondary carbocation, stabilised by the inductive (electron-donating)
+effect of two alkyl groups. The less stable primary carbocation forms far less often.
 
 ## Exam traps
 

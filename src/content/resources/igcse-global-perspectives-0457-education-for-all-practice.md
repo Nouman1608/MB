@@ -13,7 +13,7 @@ order: 46
 syllabusTopics:
   - qualification: "igcse"
     topic: "education-for-all-0457"
-description: "Original source-based 0457 questions on Education for all, plus Individual Report and Team Project planning tasks, with marked answers."
+description: "Original source-based questions on Education for all for Cambridge IGCSE Global Perspectives 0457, with marked answers and report and project planning tasks."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -177,6 +177,20 @@ Judgement: bus passes help more children sooner; new schools are the better long
 - More coursework planning: [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/) and [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/); more source work: [Written Exam practice](/resources/global-perspectives-practice/).
 - Find your weak spots with a [free diagnostic](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**What topic do these 0457 practice questions use?**
+They use the topic Education for all from Cambridge IGCSE Global Perspectives 0457 as a context for source-based skills. The questions are original and written for practice.
+
+**How should you compare two courses of action in 0457?**
+Compare them directly on shared criteria such as cost, speed, reach and sustainability, then give a clear judgement. Describing each action separately misses the comparison marks.
+
+**Why does comparison data in a source matter?**
+Comparison data, such as figures for villages without a bus, shows whether a change is linked to the action or would have happened anyway. Missing it weakens an evaluation.
+
+**How do you identify a prediction or generalisation for marks?**
+Quote the statement from the source and explain why it is a prediction or generalisation and how it weakens the argument. Labelling it without quoting or explaining earns less.
 
 ## Official syllabus
 

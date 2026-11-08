@@ -12,11 +12,17 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "component-2-poetry-and-prose-texts-and-imaginative-writing-4ea1"
-description: "Condensed recall notes on anthology poetry/prose analysis and imaginative writing craft for Pearson Edexcel International GCSE English Language A Component 2 (4EA1)."
+  - qualification: "igcse"
+    topic: "component-2-poetry-and-prose-texts-and-imaginative-writing-4ea1"
+    subtopic: "section-a-poetry-and-prose-texts-4ea1"
+  - qualification: "igcse"
+    topic: "component-2-poetry-and-prose-texts-and-imaginative-writing-4ea1"
+    subtopic: "section-b-imaginative-writing-4ea1"
+description: "Condensed notes on anthology poetry and prose analysis and imaginative writing craft for Pearson Edexcel International GCSE English Language A 4EA1 Component 2."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -139,3 +145,20 @@ register to a specific purpose is hard to demonstrate in unplanned,
 first-draft prose. 5. Tense drift within a narrative, and a rushed,
 underdeveloped ending caused by skipping planning time — any two valid
 technical-accuracy issues are acceptable.
+
+## Frequently asked questions
+
+**Which texts can be set in Edexcel 4EA1 Paper 2 Section A?**
+Section A draws only on Part 2 of the Pearson Edexcel Anthology, so you know in advance which poems and prose extracts can appear. Build two or three prepared points on language, structure and effect for every Part 2 text.
+
+**What is technique transfer in imaginative writing?**
+Technique transfer means deliberately using a technique you noticed and analysed in an Anthology text, such as short sentences at a tense moment or a controlling central image, in your own Section B writing, adapted to the prompt's audience and purpose.
+
+**How long should I plan before the imaginative writing task?**
+Around five minutes. With 45 minutes for 30 marks, sketch an opening hook, a turning point and an ending that resolves or deliberately withholds resolution; without a plan, AO4's requirement to adapt form, tone and register is hard to show.
+
+**What loses AO5 marks in Edexcel IGCSE imaginative writing?**
+Common causes are tense drift within a narrative, overlong unpunctuated sentences, a rushed and underdeveloped ending, and vocabulary that is accurate but generic. AO5 is assessed separately from the imaginative content, so a vivid piece can still lose marks here.
+
+**Should I comment on form and structure in Anthology poems?**
+Yes. Stanza length, line breaks, rhyme or its absence, and where the tone shifts are structural choices examiners expect you to notice, not just imagery.

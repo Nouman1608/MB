@@ -11,11 +11,11 @@ order: 2
 syllabusTopics:
   - qualification: "gcse"
     topic: "understanding-the-modern-world-8145"
-description: "The named period study and wider world depth study options within Paper 1 (Understanding the Modern World) of AQA GCSE History (8145), and how to approach each once your school's choices are confirmed."
+description: "The period study and wider world depth study options in AQA GCSE History 8145 Paper 1, Understanding the modern world, and how to approach each one you study."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -155,6 +155,17 @@ your period study.
 longer-term causes.
 - Use the [Historic Environment study resources](/resources/gcse-history-historic-environment-revision-notes/)
 separately -- that content sits within Paper 2, not Paper 1.
+
+## Frequently asked questions
+
+**What are the period study options?**
+America, 1840–1895; Germany, 1890–1945; Russia, 1894–1945; and America, 1920–1973.
+
+**What are the wider world depth study options?**
+Five Conflict and tension studies: the First World War, 1894–1918; the inter-war years, 1918–1939; East and West, 1945–1972; Asia, 1950–1975; and the Gulf and Afghanistan, 1990–2009.
+
+**How are the two AQA GCSE History 8145 papers structured?**
+Each paper lasts 2 hours, is worth 84 marks (including 4 for spelling, punctuation and grammar) and 50% of the GCSE. Paper 1 is a period study and a wider world depth study; Paper 2 is a thematic study and a British depth study with the historic environment.
 
 ## Official specification
 

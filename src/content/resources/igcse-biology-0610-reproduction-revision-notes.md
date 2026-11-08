@@ -33,11 +33,11 @@ syllabusTopics:
     subtopic: "sexually-transmitted-infections-cambridge-igcse-biology"
 description: "Condensed Cambridge IGCSE Biology 0610 reproduction notes: flowers, gametes, the menstrual cycle, hormones and STIs, with a self-test and answers."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 These notes condense topic 16 (Reproduction) of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028, sections 16.1 to 16.6. Core content is tested on Papers 1 and 3 and is needed by everyone; content marked "Extended only" is Supplement, tested on Papers 2 and 4. Section 16.6 has no Supplement content. For full explanations and worked examples, use the [Reproduction study guide](/resources/igcse-biology-0610-reproduction/).
@@ -253,6 +253,20 @@ Questions often give a graph of lining thickness against days. Read the day numb
 ## Next steps
 
 Try the [Reproduction practice questions](/resources/igcse-biology-reproduction-practice/), revisit the [study guide](/resources/igcse-biology-0610-reproduction/) for any gaps, and look back at topic 15 with the [Drugs revision notes](/resources/igcse-biology-0610-drugs-revision-notes/).
+
+## Frequently asked questions
+
+**What is the difference between asexual and sexual reproduction?**
+Asexual reproduction produces genetically identical offspring from one parent, with no gametes. Sexual reproduction involves the fusion of the nuclei of two gametes to form a zygote and produces offspring that are genetically different from each other.
+
+**What is fertilisation in Cambridge IGCSE Biology 0610?**
+Fertilisation is the fusion of the nuclei of gametes. Writing only "fusion of gametes" misses the word nuclei and can lose the mark.
+
+**What conditions do seeds need to germinate?**
+Seeds need water, oxygen and a suitable temperature to germinate. Light is not one of the conditions needed.
+
+**How is HIV transmitted?**
+HIV is passed on in body fluids, through unprotected sex, sharing needles, transfusion of infected blood and from mother to baby. HIV infection may lead to AIDS, and the STI content in 0610 is all Core.
 
 ## Official syllabus
 

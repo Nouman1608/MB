@@ -228,6 +228,23 @@ Evaluate how each influence changes finance decisions: social (ethical investors
 
 A financial strategy brings together objectives, sources of finance, investment and budgeting. To recommend one, state the objective, funding mix (such as a loan for equipment), controls (budgets, cash forecasts, ratio targets) and risk, then justify against size, gearing and outlook.
 
+## Frequently asked questions
+
+**When is the final assessment of OCR A Level Business H431?**
+The specification version this guide follows, Version 2.1 (January 2026), states a final assessment in summer 2027. Check the series your own exams fall in.
+
+**What is the difference between absorption and marginal costing?**
+Absorption costing assigns all costs to units, adding overheads using a rate such as per labour hour. Marginal costing assigns only variable costs to units and treats fixed costs as a cost of the period, which suits short-term decisions.
+
+**What is the difference between straight-line and reducing balance depreciation?**
+Straight-line depreciation charges the same amount each year: (cost − residual value) ÷ useful life. Reducing balance applies a fixed percentage to the net book value each year, so the charge falls over time.
+
+**What are the limitations of payback and ARR?**
+Payback ignores cash received after the payback point and the time value of money. ARR ignores when the cash arrives. NPV reflects the value of waiting, but its result is sensitive to the discount rate chosen.
+
+**What is the difference between a cash-flow forecast and a cash-flow statement?**
+A cash-flow forecast predicts the business's future cash position, while a cash-flow statement reports what happened to cash in the past.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Business (H431), Version 2.1 (January 2026), topic 6, Accounting and financial considerations. Published by OCR.

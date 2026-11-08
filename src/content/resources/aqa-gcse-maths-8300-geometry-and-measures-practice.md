@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "geometry-and-measures-aqa-gcse-maths"
 description: "Twelve original AQA GCSE Maths 8300 geometry questions: angles, loci, circles, area, volume, trigonometry, similarity and vectors, fully worked."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -163,6 +163,20 @@ Learn the content in the [study guide](/resources/aqa-gcse-maths-8300-geometry-a
 - Missing steps in a "show that", which must lead to the exact given result.
 - Stopping at "parallel" in a collinearity proof.
 - Giving mass in grams when kilograms are asked for.
+
+## Frequently asked questions
+
+**What reasons are accepted for angle questions in GCSE Maths?**
+Write the geometric fact in words, such as alternate angles are equal or angles in a triangle add up to 180°. Colloquial terms like Z angles or F angles are not accepted.
+
+**How do you find the volume of a similar shape?**
+Cube the length scale factor to get the volume scale factor, then multiply. Using the length scale factor for a volume is a common way to lose all the marks; volume and area scale factors are Higher tier.
+
+**What is the most common mistake with a negative enlargement?**
+Treating the scale factor as positive, which puts the image on the wrong side of the centre. A negative scale factor places the image on the opposite side of the centre, inverted; this is Higher tier content.
+
+**Which references does AQA GCSE Maths Topic 4 Geometry and measures cover?**
+Topic 4 Geometry and measures in AQA GCSE Mathematics 8300 covers references G1 to G25, including angles, constructions, transformations, circles, mensuration, trigonometry, similarity and vectors.
 
 ## Next steps
 

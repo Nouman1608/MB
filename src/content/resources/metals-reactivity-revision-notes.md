@@ -30,9 +30,9 @@ syllabusTopics:
     subtopic: "corrosion-of-metals"
 description: "Condensed recall notes on metal properties, the reactivity series, displacement and rusting for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -155,3 +155,20 @@ iron + oxygen + water  ->  hydrated iron(III) oxide
 7. Zinc granules react steadily with dilute hydrochloric acid; magnesium ribbon reacts violently; lead reacts extremely slowly. Rank the three by reactivity.
 
 **Answers:** 1. It lies below hydrogen in the reactivity series, so it cannot displace hydrogen from the acid. 2. Magnesium oxide and hydrogen. 3. Yes — magnesium is more reactive than zinc, so it displaces zinc: Mg + ZnSO₄ → MgSO₄ + Zn. 4. Aluminium is above carbon in the reactivity series, so carbon cannot reduce its oxide; electrolysis is required. 5. Zinc is more reactive than iron, so it protects both as a barrier and sacrificially even when scratched; tin is less reactive, so a scratch causes the iron to corrode faster. 6. Metals have delocalised electrons in a "sea" around a lattice of positive ions; these electrons are free to move throughout the structure and carry charge, allowing conduction. 7. Magnesium (most vigorous) > Zinc (steady) > Lead (extremely slow) — matching their order in the reactivity series.
+
+## Frequently asked questions
+
+**Why do copper, silver and gold not react with dilute acid?**
+They lie below hydrogen in the reactivity series, so they cannot displace hydrogen from the acid.
+
+**What is the difference between the products of a metal with water and with steam?**
+A metal reacting with water gives a metal hydroxide and hydrogen, while a metal reacting with steam gives a metal oxide and hydrogen.
+
+**Does salt cause rusting?**
+No. Rusting needs both water and oxygen. Salt speeds rusting up, but it is not a cause.
+
+**Why does a scratched tin can rust faster than bare iron?**
+Tin is less reactive than iron, so once the coating is scratched the iron corrodes faster. Sacrificial protection only works with a more reactive metal, such as zinc or magnesium.
+
+**How is the extraction method for a metal decided?**
+It follows the metal's position in the reactivity series relative to carbon.

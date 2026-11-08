@@ -168,6 +168,20 @@ ZnO(s) + 2HCl(aq) → ZnCl₂(aq) + H₂O(l) ∆H₂
 - Printable checklist: [OCR A Level Chemistry checklist](/checklists/ocr/a-level/chemistry/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry enthalpy changes questions from past papers?**
+No. They are original practice questions with marked worked answers on section 3.2.1 of OCR A Level Chemistry A (H432).
+
+**Which mass goes into q = mc∆T?**
+Use the mass of the water or solution that is heated, not the mass of the fuel or solid. Using the wrong mass is one of the most common errors.
+
+**How do you convert q into ∆H?**
+Divide q by 1000 to change joules into kilojoules, then divide by the number of moles that reacted, and give the sign: negative for a temperature rise.
+
+**Can you double a definition equation to remove a ½?**
+No. Standard enthalpy definitions refer to 1 mol of the stated substance, so doubling the equation breaks the 1 mol rule.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 3.2.1 Enthalpy changes, learning outcomes (a) to (h). Published by OCR.

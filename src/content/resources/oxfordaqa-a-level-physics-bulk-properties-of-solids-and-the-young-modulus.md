@@ -222,6 +222,23 @@ The diameter dominates the uncertainty: ±0.01 mm on 0.20 mm is 5%, which is 10%
 - Calling any non-linear region "plastic": the elastic limit and the limit of proportionality are not always the same point.
 - Forgetting the ½ in the area under a straight-line force-extension graph.
 
+## Frequently asked questions
+
+**What is the Young modulus?**
+The Young modulus is the ratio of tensile stress to tensile strain within the elastic region: E = (F/A) / (ΔL/L) = FL/(AΔL). It is a property of the material, measured in pascals.
+
+**Does breaking stress depend on the thickness of a wire?**
+No. Breaking stress depends on the material. A thicker wire breaks at a larger force but at the same stress.
+
+**How do you find the energy stored in a stretched material?**
+The energy stored is the area under the force-extension graph. For a material obeying Hooke's law the area is a triangle, so energy stored = ½FΔL = ½kΔL².
+
+**How do you measure the Young modulus of a wire?**
+In Required practical 2, a long, thin wire is clamped at one end and loaded over a pulley, and its extension is measured for each load. A long, thin wire gives an extension large enough to measure accurately.
+
+**What does the gradient of a stress-strain graph show?**
+The gradient of the straight section through the origin is the Young modulus. A stress-strain graph is independent of the sample's dimensions for a given material.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Sections 3.2.9 and 3.2.10.

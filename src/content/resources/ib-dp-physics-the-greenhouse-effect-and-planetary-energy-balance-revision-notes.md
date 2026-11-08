@@ -22,7 +22,7 @@ featured: false
 
 These revision notes condense topic B.2 (Greenhouse effect) of the IB *Physics guide*, first assessment 2025, for Standard Level and Higher Level; the guide sets no extra content for Higher Level alone in B.2. For full explanations and worked examples, go to the [study guide](/resources/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance/). Test yourself with the [practice set](/resources/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance-practice/).
 
-Course page: [IB DP Physics](/boards/ib/ib-dp/physics/). Checklist: [IB DP Physics checklist](/checklists/ib/ib-dp/physics/). To find weak spots, try the [free 10-minute diagnostics](/diagnostics/). The radiation law used here is introduced in the [B.1 study guide](/resources/ib-dp-physics-molecular-model-temperature-internal-energy-and/).
+Course page: [IB DP Physics](/boards/ib/ib-dp/physics/). Checklist: [IB DP Physics checklist](/checklists/ib/ib-dp/physics/). To find weak spots, try the [free 10-minute diagnostics](/diagnostics/). The radiation law used here is introduced in the [B.1 study guide on thermal radiation](/resources/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan/).
 
 ## Definitions
 
@@ -210,6 +210,20 @@ If power in exceeds power out, the net power divides into the heat capacity to g
 - Dropping units, or giving a temperature in kelvin as "K°".
 - Naming a gas without giving both its natural and human sources.
 - In a layer model, forgetting the layer radiates both up and down.
+
+## Frequently asked questions
+
+**Is there HL-only content in IB DP Physics B.2?**
+No. The guide sets no extra content for Higher Level alone in B.2, Greenhouse effect, so these notes apply to SL and HL.
+
+**How does the solar constant change with distance from the star?**
+Intensity from a point source falls with the square of distance, so a planet twice as far away receives one quarter of the solar constant.
+
+**Do greenhouse gases reflect infrared radiation?**
+No. Greenhouse gases absorb infrared and re-emit it in all directions, so some returns to the surface; they do not mirror the radiation.
+
+**What happens to the equilibrium temperature if albedo rises?**
+A rise in albedo means less absorbed power, so the equilibrium temperature falls, all else being equal.
 
 ## Official syllabus
 

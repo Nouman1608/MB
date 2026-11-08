@@ -158,5 +158,19 @@ These questions cover statements C3.1.11 to C3.1.23 of the IB *Biology guide*, f
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which IB DP Biology statements do these hormone and plant growth questions cover?**
+They cover statements C3.1.11 to C3.1.23 of the IB Biology guide (first assessment 2025); the plant tropism and growth regulation statements (C3.1.17 to C3.1.23) are HL only.
+
+**How do you calculate heart rate from an ECG?**
+Divide 60 by the interval between successive R waves in seconds; for example, an interval of 0.75 s gives 80 beats per minute. Dividing 1 by the interval gives beats per second instead.
+
+**What is the difference between baroreceptors and chemoreceptors?**
+Baroreceptors in the carotid arteries and aortic arch detect blood pressure. Chemoreceptors detect blood chemistry such as pH and carbon dioxide; naming the wrong receptor type is a common mistake.
+
+**How should you answer a question on the control of ventilation rate?**
+Give the chain in order: more carbon dioxide forms carbonic acid and lowers blood pH, chemoreceptors detect it, the medulla signals the diaphragm and intercostal muscles, and faster, deeper breathing removes carbon dioxide (negative feedback).
+
 ## Official syllabus
 This page follows the IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization.

@@ -223,6 +223,20 @@ Use these to move from description to judgement:
 - Listing points for and against with no final judgement or conclusion that follows from the argument.
 - Misquoting a calculation, for example leaving out the base year in an index comparison.
 
+## Frequently asked questions
+
+**What is the difference between FDI and portfolio investment?**
+Foreign direct investment gives lasting control of productive assets abroad; portfolio investment is buying financial assets such as shares or bonds without control.
+
+**What is the difference between offshoring and outsourcing?**
+Offshoring moves an activity abroad; outsourcing hands an activity to another firm, which may be at home or abroad.
+
+**What is greenfield investment?**
+Greenfield investment builds new capacity abroad, in contrast to a merger or acquisition, which changes the ownership of existing assets.
+
+**Is trade liberalisation the same as globalisation?**
+No. Globalisation is the process of growing integration; trade liberalisation is a policy that is one of its causes.
+
 ## Official syllabus
 
 AQA, AS and A-level Economics specification (7135 and 7136), version 1.3, 29 June 2022, for first teaching from September 2015. Section 4.2.6.1 Globalisation (site-map number 3.2.6.1).

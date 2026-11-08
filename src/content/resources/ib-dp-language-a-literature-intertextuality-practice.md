@@ -12,13 +12,13 @@ order: 5
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-a-literature-intertextuality"
-description: "Original practice questions with full worked answers on building genuine comparative analysis, naming intertextual relationships, and preparing for Paper 2's comparative essay in IB Diploma Programme Language A: Literature."
+description: "Original practice questions with worked answers on comparing literary works and naming intertextual links, for Paper 2 in IB DP Language A: Literature."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -77,6 +77,20 @@ Related: [Intertextuality study guide](/resources/ib-dp-language-a-literature-in
 **6.** A student might characterise the later novel as primarily a **response** to the earlier one, since it engages critically and in dialogue with the colonising-perspective novel's account of the same events, rather than simply admiring or imitating its form. Where the later novel actively centres a perspective the earlier work marginalised or excluded, that specific move is better described as a **subversion**: it deliberately overturns the assumption, built into the earlier work's narrative structure, about whose experience is worth telling in detail. Naming the relationship this precisely -- response and subversion, rather than a vaguer "echo" or simply "connected" -- matters because it commits the essay to a specific argument about how the later work engages with the earlier one, which then gives the comparison a clear analytical throughline: every subsequent point about structure, voice or detail can be tied back to how it enacts that subversion, rather than the essay drifting into two separate summaries loosely linked by a shared setting. **[8]**
 
 **7.** The individual oral pairs a work originally written in the studied language with a work studied in translation, connected around a common global issue -- structurally, this is the same task as an intertextual comparison: identifying a specific point of connection between two works, rather than describing each in isolation, and explaining what comparing them reveals about the shared global issue that neither text would show alone. The three-question structure practised for Intertextuality (what connects them specifically, how each treats it differently, what the comparison reveals) transfers directly to structuring the oral's spoken commentary, and the habit of accounting for each work's own context, developed through this component's connection to Time and Space, supports the oral's expectation that candidates discuss how each work's own context shapes its treatment of the global issue. **[6]**
+
+## Frequently asked questions
+
+**What is intertextuality in IB Language A: Literature?**
+Intertextuality: connecting texts is one of the three areas of exploration in IB DP Language A: Literature. It studies how literary works echo, respond to or subvert other works, and how to compare them.
+
+**What is a weak comparative answer?**
+One that places two works side by side and describes each separately. A strong answer names a specific point of connection and uses it to show something neither work would reveal on its own.
+
+**Why does context matter when comparing works from different periods?**
+Two works can share a theme but treat it very differently because of when, where and in what literary tradition each was written. A strong comparison accounts for that difference instead of treating both as products of the same moment.
+
+**Which assessments use intertextuality skills?**
+Paper 2's comparative essay draws on them directly, and the individual oral, which pairs a work in the language studied with a work in translation around a global issue, uses the same comparative habits.
 
 ## Official syllabus
 

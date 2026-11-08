@@ -229,6 +229,20 @@ Sundell Cycles takes on six new assembly workers. Induction takes 4 hours each, 
 
 Work through the [revision notes](/resources/igcse-business-0264-human-resource-management-hrm-revision-notes/), then try the [practice questions](/resources/igcse-business-0264-human-resource-management-hrm-practice/). Check your coverage on the [printable checklist](/checklists/cambridge/igcse/business/), and take a [free 10-minute diagnostic](/diagnostics/).
 
+## Frequently asked questions
+
+**What is the difference between internal and external recruitment?**
+Internal recruitment fills a post with someone already working for the business, which is cheaper and quicker but gives fewer applicants and leaves a gap. External recruitment fills it from outside, bringing a larger pool and new ideas but costing more and taking longer.
+
+**What selection methods can a business use?**
+Methods include CVs or résumés, application forms, references, tests or assessment centres, and interviews. Businesses usually combine methods, as each has a limitation.
+
+**What is the difference between on-the-job and off-the-job training?**
+On-the-job training is learning while doing the job, often next to an experienced worker, which is cheap and directly relevant. Off-the-job training happens away from the workplace, at a college or training centre, where experts give wider skills and qualifications.
+
+**Why is training important to a business?**
+Training teaches employees the skills and knowledge to do their jobs better. It has costs, and trained staff may leave for other jobs, so a good answer weighs both sides.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education), section 2.1.

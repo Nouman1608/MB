@@ -188,6 +188,20 @@ Credit balances: sales 68,400; purchases returns 760; trade payables 4,350; loan
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students usually lose marks on correction of errors questions?**
+Common losses include giving only the label for an error type with no reason from the facts, correcting a complete reversal with the original amount instead of double, and correcting an error of original entry with the full right amount instead of the difference.
+
+**How do I name an error type and get the mark in Cambridge IGCSE Accounting?**
+Give the label and support it with a reason taken from the facts of the question, such as the wrong account of the right class being used. A label on its own is a common way to lose the mark.
+
+**How can I check a suspense account answer?**
+Total both sides of the suspense account: if they reach the same figure, the account clears and the difference has been fully explained. A missing line leaves it uncleared, which signals an error you have not dealt with.
+
+**What should I remember when showing the effect of errors on profit and the statement of financial position?**
+Only change profit for corrections that affect a revenue or expense account, not for an error that moves an amount between two expense accounts. Then carry any change in profit into capital on the statement of financial position.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting syllabus for exams in 2027, 2028 and 2029 (version 1), published by Cambridge International Education: sections 3.1 The trial balance and 3.2 Corrections of errors.

@@ -252,6 +252,23 @@ Two firms each emit 100 tonnes. The cap is 140 in total, so the cut is 60. Firm 
 - Drawing a tax on producers as a shift of demand.
 - Listing policies without a judgement about which is best and under what conditions.
 
+## Frequently asked questions
+
+**What is the difference between inclusive growth and sustainable growth?**
+Inclusive growth is about who gains from growth, while sustainable growth is about whether growth can continue without harming the ability of future generations to meet their needs.
+
+**How do you calculate how long resource reserves will last?**
+With constant extraction, the number of years equals reserves divided by annual extraction. For example, reserves of 400 extracted at 16 a year last 25 years.
+
+**Does a lower growth rate of emissions mean emissions are falling?**
+No. A lower growth rate of emissions is not a fall in emissions; emissions only fall if the growth rate is negative. Reading a fall in emissions growth as a fall in emissions is a common error.
+
+**Why may a carbon tax be regressive?**
+A carbon tax raises the price of goods, and low-income households spend a larger share of their income on them, so the tax takes a larger percentage of their income. Compare shares of income rather than money amounts.
+
+**What is the difference between a carbon tax and a permit scheme?**
+A tax raises the private cost of emissions, while a permit scheme sets the quantity of emissions allowed. Firms can trade permits, so those that can cut emissions cheaply sell to those that cannot.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International), sections 9.2.5 and 9.2.6.

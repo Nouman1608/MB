@@ -14,9 +14,9 @@ syllabusTopics:
     topic: "paper-2-studies-in-change-9245"
 description: "Condensed recall notes on tracing change across a society-in-change option and a thematic study for OxfordAQA International GCSE History Paper 2 (9245)."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -160,3 +160,14 @@ content emphasis.
 
 - [Studies in Change study guide](/resources/igcse-oxfordaqa-world-history-studies-in-change/)
 - [Studies in Change practice questions](/resources/igcse-oxfordaqa-world-history-studies-in-change-practice/)
+
+## Frequently asked questions
+
+**How is Paper 2 of OxfordAQA 9245 structured?**
+Paper 2, Studies in change (1 hour 45 minutes, 60 marks, 50%), has Section A on one society in change and Section B on one thematic study; each section has four questions worth 3, 6, 9 and 12 marks.
+
+**Which Section A options are there?**
+Life in Germany, 1919–1949; Life in Russia and the USSR, 1914–1953; and Life in the USA, 1920–1968.
+
+**How should a thematic study spanning c800 to today be revised?**
+With a small set of well-evidenced examples spread across the periods, rather than trying to cover every event.

@@ -251,6 +251,20 @@ You will not be given the method. Write the equation from the information in the
 </figure>
 
 
+## Frequently asked questions
+
+**What is the difference between a base and an alkali in OCR A Level Chemistry?**
+A base neutralises an acid, and an alkali is a base that dissolves in water to release OH⁻ ions. Every alkali is a base, but copper(II) oxide and calcium carbonate are bases that are not alkalis.
+
+**What is the difference between a strong acid and a concentrated acid?**
+Strength is the extent of dissociation and is a property of the acid. Concentration is the amount dissolved per dm³ and is a property of the solution.
+
+**Do HCl and CH₃COOH of the same concentration neutralise the same amount of alkali?**
+Yes. Equal volumes of equal-concentration HCl and CH₃COOH contain the same amount of acid, so they neutralise the same amount of alkali even though their strengths differ.
+
+**What ratio does sulfuric acid react in with sodium hydroxide?**
+H₂SO₄ reacts 1 : 2 with a monohydroxide such as NaOH, because it gives up to two H⁺ ions per molecule. Missing this puts the answer out by a factor of two.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 2.1.4 Acids, learning outcomes (a) to (e), with additional guidance PAG2 and HSW4. Published by OCR.

@@ -19,9 +19,9 @@ syllabusTopics:
     subtopic: "policies-to-correct-positive-and-negative-externalities-aqa-gcse-economics"
 description: "Condensed AQA GCSE Economics revision notes for 3.2.3.3 and 3.2.3.4: supply-side policies, their pros and cons, and policies to correct externalities."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-05
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-11-05."
 publishedDate: 2026-11-05
 featured: false
 ---
@@ -154,6 +154,23 @@ A strong answer says **which policy suits which case**: a ban for something very
 - Listing policies for externalities without saying how each changes price or quantity.
 - Saying a tax "solves" pollution without discussing elasticity, measurement or fairness.
 - Ignoring the cost to the government of subsidies and state provision.
+
+## Frequently asked questions
+
+**What supply-side policies are named in the AQA GCSE Economics specification?**
+Investment in education and training, lower direct taxes, lower taxes on business profits, trade union reform, and privatisation and deregulation.
+
+**What is the difference between privatisation and deregulation?**
+Privatisation changes ownership, selling state-owned firms to private owners. Deregulation removes rules that restrict competition.
+
+**Are supply-side policies a quick fix for a recession?**
+No. They are long-run policies that take time to raise productive capacity.
+
+**Why might a tax on cigarettes not cut smoking by much?**
+Demand is price inelastic because smoking is addictive, so a higher price reduces quantity only a little, though it raises revenue.
+
+**What policies can increase consumption of goods with positive externalities?**
+Subsidies, direct provision by the state, regulation that makes consumption compulsory, and information and education campaigns.
 
 ## Official syllabus
 

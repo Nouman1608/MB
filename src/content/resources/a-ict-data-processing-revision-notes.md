@@ -13,11 +13,11 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "data-processing-and-information"
-description: "Condensed recall notes on data and information, direct and indirect sources, quality of information, encryption, validation and verification, and processing methods for Cambridge AS & A Level Information Technology 9626, topic 1."
+description: "Condensed notes on data and information, sources, information quality, encryption, validation, verification and processing methods for Cambridge 9626 topic 1."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -137,3 +137,17 @@ The syllabus names nine validation checks:
 6. Why is batch processing suitable for payroll but not for airline booking?
 
 **Answers:** 1. Data is raw facts without meaning; information is data with **context** (and meaning) applied. 2. Direct data is collected for the specific purpose but is costly and slow; indirect data was gathered for another purpose so it is cheap but may be out of date or in the wrong format. 3. Accuracy, relevance, age, level of detail and completeness. 4. Validation is an automatic check that data is reasonable; verification checks that data has been copied accurately. Validation alone is insufficient because incorrect data can still be entirely reasonable — a wrong but valid date of birth passes every check. 5. Range (value within limits), type (correct data type), length (correct number of characters), presence (field not blank) — also format, lookup, consistency, limit and check digit. 6. Payroll is a high volume of similar transactions with no urgency, so it can be scheduled; booking requires an immediate response and confirmation, so it must be processed online.
+
+## Frequently asked questions
+
+**What is the difference between direct and indirect data?**
+In Cambridge 9626, direct data is collected for the specific purpose at hand, for example by questionnaire, interview, data logging or observation. Indirect data was collected for another purpose and reused, such as census data or the electoral register.
+
+**What is the difference between symmetric and asymmetric encryption?**
+Symmetric encryption uses one secret key to both encrypt and decrypt, so the key must be shared securely. Asymmetric encryption uses a public key to encrypt and a matching private key to decrypt, which solves key sharing but is slower.
+
+**When is TLS used and when is IPsec used?**
+TLS/SSL secures a client-server session, such as a browser connecting to a bank's server. IPsec encrypts and authenticates all packets between two hosts or networks, as in a VPN.
+
+**Why are both validation and verification needed?**
+Validation only checks that data is reasonable, so a wrong but valid value passes. Verification checks that data has been entered or copied accurately, but cannot catch an error already on the source document, so the two are used together.

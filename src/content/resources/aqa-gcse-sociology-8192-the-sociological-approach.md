@@ -17,9 +17,9 @@ description: "Study guide to AQA GCSE Sociology 8192 section 3.1: consensus and 
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers section 3.1, The sociological approach, of the AQA GCSE Sociology (8192) specification, Version 1.2 (June 2026), for GCSE exams 2019 onwards. Section 3.1 has no sub-sections and is not tied to one paper. Both Paper 1 (The sociology of families and education) and Paper 2 (The sociology of crime and deviance and social stratification) assess "relevant areas of social theory and methodology", and the specification expects you to draw on the whole course in both. Each paper is a 1 hour 45 minute written exam worth 100 marks and 50% of the GCSE.
@@ -154,6 +154,20 @@ The specification asks you to apply methods to each topic, and suggests teachers
 ## Where to go next
 
 Apply these perspectives in the [families and education guide](/resources/aqa-gcse-sociology-families-and-education/) and the [crime and stratification guide](/resources/aqa-gcse-sociology-crime-and-stratification/). The next units are [social structures, processes and issues](/resources/aqa-gcse-sociology-8192-social-structures-processes-issues/) and [education](/resources/aqa-gcse-sociology-8192-education/). For timing and command words across both papers, see the [exam preparation guide](/resources/aqa-gcse-sociology-exam-preparation/).
+
+## Frequently asked questions
+
+**When and where did Durkheim, Marx and Weber write?**
+Durkheim (1858-1917) wrote in France during the Third Republic, Marx (1818-1883) lived in London from 1849 and is described by the specification as writing in 19th-century Britain, and Weber (1864-1920) wrote in industrialising Germany in the early 20th century.
+
+**What are the four sociological perspectives in AQA GCSE Sociology?**
+Section 3.1 of the AQA GCSE Sociology (8192) specification covers functionalism, Marxism, feminism and interactionism.
+
+**Do all feminists agree?**
+No. Writers such as Delphy and Leonard blame men rather than capitalists for women's position, while others link it to capitalism.
+
+**How do sociological ideas change over time?**
+Studies reflect their time: Parsons (1959) was later criticised for an idealised middle-class picture of the family, and Willis (1977) studied boys moving into manual work that was easier to get in the 1970s.
 
 ## Official syllabus
 

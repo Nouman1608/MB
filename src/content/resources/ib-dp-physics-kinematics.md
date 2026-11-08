@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-physics-topic-a"
     subtopic: "ib-dp-physics-a-1"
-description: "Distance, displacement, speed, velocity, acceleration, the SUVAT equations and projectile motion -- sub-topic A.1 of IB Diploma Programme Physics, identical content at SL and HL."
+description: "Distance, displacement, velocity, acceleration, SUVAT and projectile motion: sub-topic A.1 of IB DP Physics, with identical content at SL and HL."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -174,6 +174,19 @@ draws on.
   <figcaption>Without air resistance range is greatest at 45 degrees and complementary angles give equal ranges.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Is there HL-only content in IB DP Physics A.1?**
+No. Like A.2, sub-topic A.1 has no additional higher level extension, so SL and HL students study identical content.
+
+**Can kinematics be used for the IB DP Physics internal assessment?**
+Yes. Kinematics is a frequent starting point for investigations, such as the acceleration of a trolley on a ramp or the range of a projectile launched at different angles.
+
+**How do I know whether SUVAT applies?**
+Check that the question describes constant acceleration first. A curved velocity-time graph is the clearest sign that the SUVAT equations cannot be applied directly.
+
+**How do I avoid sign errors in kinematics?**
+Set a consistent positive direction before starting any problem involving vectors and apply it throughout.
 
 ## Official syllabus
 
@@ -194,4 +207,3 @@ already on the site. Verified 2026-09-06.
   <img src="https://img.marlbridge.com/ib-dp-physics-kinematics--04-motion-graphs-together.webp" width="900" height="960" alt="One journey drawn as aligned s-t and v-t graphs: speeding up (curve, a = +2), steady 6 m/s (straight line, gradient 18 m / 3 s), slowing (a = -3). The areas 9, 18 and 6 m total 33 m, the end of the s-t graph." loading="lazy">
   <figcaption>Gradient of s-t is velocity; area under v-t is displacement.</figcaption>
 </figure>
-

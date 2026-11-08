@@ -280,6 +280,20 @@ Reminder K. A rectangle has width x cm and length (x + 5) cm, and a perimeter of
 - Not checking whether the answer is sensible (negative length, 2.5 people).
 - Rounding too early. Keep exact values until the final answer.
 
+## Frequently asked questions
+
+**What is the difference between an expression, an equation and a formula?**
+An expression has no equals sign and cannot be solved. An equation is solved to find the value of an unknown, while a formula is a rule linking letters that you substitute into.
+
+**How do you solve an equation using a graph?**
+To solve f(x) = g(x), draw y = f(x) and y = g(x) and read the x-coordinate of each crossing point. The solution is the x-value, not the y-value, and it is approximate.
+
+**What facts usually give you an equation in geometry problems?**
+Common ones are angles in a triangle adding to 180°, angles in a quadrilateral adding to 360°, angles on a straight line adding to 180°, equal opposite sides of a rectangle, and equal sides or angles in an isosceles triangle.
+
+**What should you do if your solution is impossible?**
+Say so in a sentence. For example, a negative width means no such shape exists, and stating that is the correct interpretation rather than giving the negative value as an answer.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.2.3, references A19 and A22.

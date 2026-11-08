@@ -252,6 +252,23 @@ Evaluation: the £30,000 could have funded something else, and there is no guara
 - Stating that a tax removes pollution. It reduces output; it does not make it zero.
 - Forgetting a direction. Always say whether output rises or falls.
 
+## Frequently asked questions
+
+**What is market failure in AQA GCSE Economics?**
+Market failure is the inability of the market system to allocate resources efficiently, leaving too much of some goods and too little of others.
+
+**How do you calculate social cost?**
+Social cost equals private cost plus external cost. Social benefit equals private benefit plus external benefit.
+
+**What is the difference between a negative and a positive externality?**
+With a negative externality, third parties bear a cost and too much is produced or consumed. With a positive externality, third parties receive a benefit and too little is produced or consumed.
+
+**How can the government correct market failure?**
+Through indirect taxes, subsidies, laws and regulation, information and education campaigns, and direct provision of goods.
+
+**Can externalities come from consumption as well as production?**
+Yes. The specification says both production and consumption can lead to negative and positive externalities, such as drivers adding congestion or vaccinated people protecting others.
+
 ## Official syllabus
 
 AQA, *GCSE Economics (8136) specification*, for first teaching from September 2017, sections 3.1.6.1 and 3.1.6.2.

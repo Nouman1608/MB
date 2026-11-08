@@ -132,6 +132,23 @@ These questions follow the OxfordAQA International AS and A-level Economics (964
 - Take one of our [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on labour demand questions?**
+Common losses are quoting a hiring number without comparing marginal revenue product with the wage, using price where the firm needs marginal revenue, mixing up a movement along the curve with a shift, and treating labour supply as being about pay only.
+
+**How should I explain how many workers a firm will hire?**
+Compare the marginal revenue product of the last worker hired and the first worker rejected with the wage. The firm hires while MRP is at least the wage and stops at the first worker whose MRP is below it.
+
+**When should I use marginal revenue rather than price to find MRP?**
+Use marginal revenue when the firm has market power in its product market, because it must lower its price to sell more, so MR is below price. For a price taker in a competitive product market, MR equals price.
+
+**What makes a strong evaluation in a labour market question?**
+Justify the judgement with named conditions, such as the time period, labour's share of costs or how complex the tasks are. Repeating the analysis does not count as evaluation.
+
+**Which OxfordAQA 9640 sections do these labour market questions cover?**
+They cover sections 3.3.4.1 and 3.3.4.2 of the OxfordAQA International AS and A-level Economics (9640) specification: the demand for labour, marginal productivity theory and the supply of labour, which are part of the extra International A2 content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, first teaching September 2020, published by OxfordAQA. See sections 3.3.4.1 and 3.3.4.2.

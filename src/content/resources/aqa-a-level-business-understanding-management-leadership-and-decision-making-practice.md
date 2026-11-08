@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "managers-leadership-and-decision-making-aqa-alevel-business"
     subtopic: "understanding-management-leadership-and-decision-making-aqa-alevel-business"
-description: "Original practice questions with worked answers on AQA A-Level Business (7132) 3.2.1: managers' role, Tannenbaum Schmidt, Blake Mouton, style."
+description: "Original practice questions with worked answers on AQA A-Level Business (7132) 3.2.1: Tannenbaum Schmidt, leadership styles and their effectiveness."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25
 featured: false
@@ -29,6 +29,8 @@ featured: false
 These questions cover section 3.2.1, Understanding management, leadership and decision making, in the AQA AS and A-level Business specification (7131/7132), for A-level Business (7132). They mix short answer, calculation and short case-study questions. The teaching is in the [study guide](/resources/aqa-a-level-business-understanding-management-leadership-and-decision-making/) and the [revision notes](/resources/aqa-a-level-business-understanding-management-leadership-and-decision-making-revision-notes/). The wider-topic [practice paper](/resources/aqa-a-level-business-managers-leadership-practice/) is separate. Course links: the [AQA A-level Business hub](/boards/aqa/a-level/business/), the [checklist](/checklists/aqa/a-level/business/) and the [free diagnostics](/diagnostics/).
 
 ## Questions
+
+Questions 1, 2, 4, 6 and 10 use the role of managers or the Blake Mouton grid. The current specification (version 2.0, June 2023) no longer lists either, and names only the Tannenbaum Schmidt continuum, so treat those questions as background practice.
 
 **1.** State **two** of the five activities that make up the role of managers. **[2]**
 
@@ -121,6 +123,20 @@ These questions cover section 3.2.1, Understanding management, leadership and de
 - Visit the [AQA A-level Business hub](/boards/aqa/a-level/business/) and the [checklist](/checklists/aqa/a-level/business/).
 - Try the [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**How do you write a Blake Mouton grid score?**
+Write both numbers in the order (concern for production, concern for people). Reversing the pair, or giving only one number, is one of the most common errors.
+
+**Is the Tannenbaum Schmidt continuum a set of boxes?**
+No. It is a line: at one end the manager uses authority and decides alone, and at the other the team has freedom to decide within limits. Treating it as four separate boxes loses marks.
+
+**How should you support a judgement about a manager's style?**
+Quote evidence from the case for the style or position you name, and judge effectiveness on more than one measure, such as turnover and quality as well as output.
+
+**Can you say a style demotivates staff without evidence?**
+No. Claims that a style motivates or demotivates staff need evidence from the case, such as labour turnover or output figures.
 
 ## Official syllabus
 

@@ -1,5 +1,5 @@
 ---
-title: "Momentum: Practice Questions"
+title: "Momentum: Practice Questions (Cambridge O Level Physics 5054)"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["o-levels"]
@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "motion-forces-and-energy"
     subtopic: "momentum"
-description: "Original exam-style practice questions with full worked answers on momentum, impulse, conservation, collisions and safety features."
+description: "Original Cambridge O Level Physics 5054 momentum questions with worked answers: p = mv, impulse, F = Δp/Δt, collisions, explosions and car safety."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added syllabus-mapped intro, impulse, recoil, opposite-direction collision and landing questions and an FAQ (page was under 900 words); please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -27,7 +27,9 @@ featured: false
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
 
-Related: [Momentum revision notes](/resources/momentum-revision-notes/)
+Related: [Momentum study guide](/resources/momentum/) and [Momentum revision notes](/resources/momentum-revision-notes/)
+
+Momentum is syllabus section **1.6** of Cambridge O Level Physics (5054), syllabus for 2026, 2027 and 2028. You must define momentum as mass × velocity (p = mv), define impulse as force × time (impulse = FΔt = Δ(mv)), apply conservation of momentum to simple problems in one dimension, and use resultant force = change in momentum ÷ time taken (F = Δp/Δt). These questions cover all four learning outcomes, including collisions, explosions, recoil and vehicle safety features.
 
 ---
 
@@ -63,6 +65,21 @@ Related: [Momentum revision notes](/resources/momentum-revision-notes/)
 
 **9.** State Newton's second law in terms of momentum, and show that it is equivalent to F = ma for a constant mass. **[3]**
 
+**10.** A footballer kicks a stationary 0.45 kg ball. The average force on the ball is 300 N and the contact lasts 0.015 s.
+
+**(a)** Calculate the impulse on the ball. **[2]**
+**(b)** Calculate the speed of the ball as it leaves the foot. **[2]**
+
+**11.** A 4.0 kg rifle fires a 0.010 kg bullet horizontally at 400 m/s. Calculate the recoil velocity of the rifle. **[3]**
+
+**12.** A 2.0 kg trolley moving right at 3.0 m/s collides with a 1.0 kg trolley moving left at 4.0 m/s. They stick together. Calculate the velocity of the trolleys after the collision, giving its direction. **[4]**
+
+**13.** A 60 kg student jumps down from a wall and lands at 5.0 m/s.
+
+**(a)** Calculate the change in momentum when the student comes to rest. **[1]**
+**(b)** Calculate the average force on the student if they land stiff-legged and stop in 0.050 s, and if they bend their knees and stop in 0.40 s. **[3]**
+**(c)** Explain why bending the knees is safer. **[2]**
+
 ---
 
 ## Answers
@@ -90,6 +107,17 @@ A **crumple zone deforms**, so the car takes longer to stop [1]. A **seat belt s
 
 **9.** F = Δp ÷ Δt [1]. For constant mass, Δp = Δ(mv) = mΔv, so F = mΔv/Δt = ma [1] — the momentum form and F = ma describe the same law, but the momentum form also covers situations where mass itself changes [1].
 
+**10. (a)** Impulse = FΔt = 300 × 0.015 [1] = **4.5 N s** [1].
+**(b)** Impulse = change in momentum, so 4.5 = 0.45 × v − 0 [1]; v = **10 m/s** [1].
+
+**11.** Total momentum before firing = 0 [1]. Bullet: 0.010 × 400 = 4.0 kg m/s forward, so the rifle has 4.0 kg m/s backward [1]: v = 4.0 ÷ 4.0 = **1.0 m/s backwards** (opposite to the bullet) [1].
+
+**12.** Take right as positive. Momentum before = (2.0 × 3.0) + (1.0 × −4.0) [1] = 6.0 − 4.0 = 2.0 kg m/s [1]. After: 3.0 × v = 2.0 [1], so v = **0.67 m/s to the right** [1].
+
+**13. (a)** Δp = 60 × 5.0 = **300 kg m/s** (300 N s) [1].
+**(b)** F = Δp/Δt: stiff-legged 300 ÷ 0.050 = **6000 N** [1]; knees bent 300 ÷ 0.40 = **750 N** [1] (1 mark for the method F = Δp/Δt) [1].
+**(c)** The change in momentum is the same either way [1], but bending the knees increases the time taken to stop, so the force on the body is smaller and injury is less likely [1].
+
 ---
 
 ## Where marks are usually lost
@@ -98,3 +126,20 @@ A **crumple zone deforms**, so the car takes longer to stop [1]. A **seat belt s
 - Assuming kinetic energy is conserved in a collision.
 - Forgetting that total momentum before an explosion is zero.
 - Explaining safety features by "absorbing the force" rather than extending the time.
+- Leaving out the minus sign for a body moving the opposite way in a collision.
+- Giving impulse in J instead of N s (or kg m/s).
+
+## Frequently asked questions
+
+**Is impulse the same as change in momentum?**
+Yes. The 5054 syllabus defines impulse as force × time for which the force acts, and impulse = FΔt = Δ(mv). The unit N s is equal to kg m/s.
+
+**Is kinetic energy conserved in a collision?**
+Not usually. Momentum is always conserved when no external resultant force acts, but kinetic energy is conserved only in an elastic collision. When objects stick together some kinetic energy is transferred to thermal energy and sound.
+
+**How do I show direction in a momentum calculation?**
+Choose one direction as positive before you start. Velocities and momenta in the opposite direction are negative. A negative answer means the object moves in the opposite direction.
+
+## Official syllabus
+
+Cambridge O Level Physics (5054) syllabus for examination in 2026, 2027 and 2028, Topic 1 Motion, forces and energy, section 1.6 Momentum, published by Cambridge International Education.

@@ -359,6 +359,20 @@ The exact value is 1.126162... so the estimate is a little low, because the omit
 - Dropping brackets on a negative term, for example (−3x)² is 9x², not −9x².
 - Leaving out the coefficient when b has a number in front of x: (2x)³ is 8x³, so the 8 must multiply the nCr value.
 
+## Frequently asked questions
+
+**What is nCr?**
+nCr = n!/(r!(n − r)!) is the number of ways of choosing r items from n. It gives the coefficients in the binomial expansion of (1 + x)ⁿ.
+
+**How do you find one coefficient in a binomial expansion?**
+Write down only the term you need, using nCr and the power of each part. For example, the x³ term of (1 + 2x)⁷ is 7C3 × (2x)³.
+
+**How can you write a recurring decimal as a fraction using series?**
+Treat it as a geometric series. For example, 0.272727... has a = 0.27 and r = 0.01, so its sum to infinity is 0.27/0.99.
+
+**Which OxfordAQA 9660 section covers sequences, series and binomial expansion?**
+Section P1.5 of the OxfordAQA 9660 specification, in Unit P1, covers sequences, recurrence relations, arithmetic and geometric series and the binomial expansion of (1 + x)ⁿ for positive integer n.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA: section P1.5, Sequences and series, under International AS Unit P1 (Pure Maths).

@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "introduction-to-economics-ocr-gcse-economics"
 description: "Condensed recall notes on scarcity, opportunity cost, factors of production, economic systems, specialisation and money for OCR GCSE Economics J205."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -199,3 +199,17 @@ the specific skill this sub-topic tests in scenario-based questions.
 4. Explain why money solves the double coincidence of wants problem created by specialisation and exchange.
 
 **Answers:** 1. The next best alternative forgone when a choice is made. 2. What, how, and for whom to produce; a market economy uses the price mechanism, a planned economy uses the state, and a mixed economy combines both. 3. The opportunity cost ratio is 2 food = 1 machinery. At 50 food, the curve allows (80 − 50) ÷ 2 = 15 machinery, but the economy produces only 10, so it lies inside the curve — resources are unemployed or used inefficiently. 4. Barter requires each party to want exactly what the other offers; money removes this requirement by acting as a medium of exchange that both parties accept, alongside serving as a measure of value, a store of value, and a means of deferred payment.
+
+## Frequently asked questions
+
+**What are the three fundamental economic questions?**
+Every economy must decide what to produce, how to produce it and for whom. A market economy answers through the price mechanism, a planned economy through the state, and a mixed economy combines both.
+
+**What is the double coincidence of wants?**
+Without money, trade needs each party to want exactly what the other has to offer at the same time. Money solves this problem by acting as a medium of exchange.
+
+**How do you show interdependence between economic groups?**
+Describe the two-way flow between each pair of groups: consumers buy from producers and supply labour to them, producers pay wages and supply goods, and the government taxes both and provides public services and regulation in return.
+
+**How does specialisation raise output?**
+Specialisation raises output through practice, mechanisation and economies of scale. It also creates interdependence, which requires exchange.

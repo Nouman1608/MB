@@ -231,6 +231,23 @@ Specimens must be dead, thin and treated before viewing, so living processes can
 - Saying bacterial DNA is "in the nucleus". Bacteria have no nucleus.
 - Putting chloroplasts in every plant cell.
 
+## Frequently asked questions
+
+**How do you calculate magnification in GCSE Biology?**
+Magnification equals image size divided by actual size, with both in the same units. To find the actual size, divide the image size by the magnification; to find the image size, multiply the actual size by the magnification.
+
+**What is the difference between magnification and resolution?**
+Magnification makes an image larger, while resolution is the smallest gap at which two neighbouring points still look separate. A light microscope cannot separate points closer than about 200 nm, so enlarging beyond that only gives a bigger, blurrier image.
+
+**What is the main difference between eukaryotic and prokaryotic cells?**
+Eukaryotic cells, such as animal and plant cells, have their genetic material enclosed in a nucleus. Prokaryotic cells, such as bacteria, have no nucleus and are much smaller, typically a few micrometres long.
+
+**Why can't a light microscope show ribosomes?**
+Ribosomes are about 25 nm across, far smaller than the roughly 200 nm resolution limit of a light microscope. A transmission electron microscope has much higher resolution, so ribosomes appear as tiny dots in a TEM image.
+
+**Is electron microscopy Higher Tier only in OCR GCSE Biology A (J247)?**
+No. Statements B1.1a to B1.1c, including electron microscopy, are not marked as Higher Tier only, so they apply to both Foundation and Higher Tier.
+
 ## Official syllabus
 
 This guide is aligned to OCR GCSE (9-1) Gateway Science Suite Biology A (J247), Version 4.0, published by OCR (Oxford Cambridge and RSA), first assessment in 2018, Topic B1, statements B1.1a to B1.1c.

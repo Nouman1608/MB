@@ -238,6 +238,20 @@ Ask: how big, how long, how financed, what caused it, how fast the policy works,
 - Giving a policy and no counterweight: cost to growth, jobs or inflation.
 - Ignoring time: supply-side effects are slow, demand-side effects faster.
 
+## Frequently asked questions
+
+**What is the balance of payments accounting identity?**
+The current account plus the capital account plus the financial account plus errors and omissions equals zero. A current account deficit is therefore matched by net inflows elsewhere.
+
+**What is the difference between expenditure-reducing and expenditure-switching policies?**
+Expenditure-reducing policies lower total demand, so spending on imports falls. Expenditure-switching policies change relative prices, for example through a lower exchange rate or tariffs, so spending moves from foreign to domestic goods.
+
+**What are the consequences of a current account surplus?**
+A persistent surplus builds overseas assets and supports export-led jobs, but it puts upward pressure on the currency and can bring a risk of inflation, trade disputes and weak domestic consumption.
+
+**What is the difference between a cyclical and a structural deficit on the current account?**
+A cyclical imbalance, such as one caused by a domestic boom, tends to close as the economic cycle turns. A structural imbalance, such as one caused by high unit labour costs, needs policy action, usually on the supply side.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), first assessment 2021. Topic: Balance of payments, in Component 2, Macroeconomics.

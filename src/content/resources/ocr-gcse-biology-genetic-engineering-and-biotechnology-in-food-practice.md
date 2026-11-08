@@ -181,6 +181,23 @@ Judgement: a clear conclusion that weighs the two sides, for example that benefi
 - Take [all free 10-minute diagnostics](/diagnostics/) to find other weak spots.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Why must the same restriction enzyme cut the gene and the plasmid?**
+Using the same restriction enzyme leaves matching sticky ends on the gene and the plasmid, so they can pair up and be joined. Forgetting this point is one of the most common errors on this topic.
+
+**What is the difference between restriction enzymes and ligase?**
+Restriction enzymes cut DNA at a particular base sequence, while ligase joins the gene and plasmid by sealing the sugar-phosphate backbones. Swapping these roles loses marks.
+
+**What does an antibiotic resistance gene do in genetic engineering?**
+It acts as a marker: only bacteria that have taken up the plasmid can grow on agar containing the antibiotic. It does not help the GM crop itself.
+
+**How should an evaluate question on GM crops be answered?**
+Give benefits and risks, including practical and ethical points, and finish with a judgement. Listing only advantages with no conclusion does not score full marks.
+
+**Which J247 statements do these questions cover?**
+They cover OCR GCSE Biology A (J247) statements B6.2d to B6.2g on genetic engineering and biotechnology in food production; the main steps (B6.2e) are Higher Tier only.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Statements B6.2d to B6.2g, topic B6.2 Feeding the human race.

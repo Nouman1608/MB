@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "mechanics-and-materials-oxfordaqa-alevel"
     subtopic: "newtons-laws-of-motion-oxfordaqa"
-description: "SUVAT equations, displacement-time and velocity-time graphs, and Newton's three laws of motion with F = ma -- 3.2.3 and 3.2.5 of OxfordAQA International AS and A-Level Physics (9630)."
+description: "SUVAT equations, motion graphs and Newton's three laws with F = ma: sub-topics 3.2.3 and 3.2.5 of OxfordAQA International A-Level Physics (9630)."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -191,6 +191,20 @@ ma.
 acceleration, then a SUVAT equation to find displacement, velocity or
 time.
 
+## Frequently asked questions
+
+**What does the area under a velocity-time graph represent?**
+The area under a velocity-time graph gives displacement, while its gradient gives acceleration. The gradient of a displacement-time graph gives velocity, and the area under an acceleration-time graph gives change in velocity.
+
+**How do you choose which SUVAT equation to use?**
+List which of the five variables (s, u, v, a, t) the question gives and which it asks for, then pick the single equation that links exactly those. Choosing an equation that needs a variable you do not have forces an unnecessary extra step.
+
+**Do Newton's third law pairs act on the same object?**
+No. A Newton's third law pair is two forces of the same type, equal in size and opposite in direction, acting on two different objects. Two balanced forces on one object, such as weight and the normal contact force on a book, are not a third-law pair.
+
+**When can you use F = ma in OxfordAQA 9630 Physics?**
+The OxfordAQA 9630 specification limits the use of F = ma to situations where the mass is constant. F is the resultant force on the object, not any single individual force.
+
 ## Related resources
 
 - [Motion Along a Straight Line and Newton's Laws revision notes](/resources/oxfordaqa-a-level-physics-mechanics-materials-revision-notes/)
@@ -200,4 +214,4 @@ time.
 
 OxfordAQA International AS and A-level Physics (9630) specification,
 Version 4.4 —
-[oxfordaqa.com/9630](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-as-and-a-level-physics-specification.pdf).
+[oxfordaqa.com/9630](https://www.oxfordaqa.com/wp-content/uploads/2026/10/oxfordaqa-international-as-and-a-level-physics-specification.pdf).

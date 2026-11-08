@@ -6,11 +6,11 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Chemistry"]
-description: "An overview of IB Diploma Programme Chemistry -- identifying patterns that explain matter at the microscopic level, its emphasis on scientific inquiry, and the aims shared across all three DP sciences subjects."
+description: "Overview of IB DP Chemistry: its focus on patterns in matter, scientific inquiry, the Structure and Reactivity strands, and how SL and HL are assessed."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -61,13 +61,9 @@ sciences, combining external examination with an individual internal
 assessment, at both Standard Level and Higher Level. Paper 1 is
 weighted at 36% of the final grade and is made up of multiple-choice
 questions (Paper 1A) and data-based questions (Paper 1B) spanning the
-syllabus; Paper 2 is weighted at 44% and includes short-answer and
-extended-response answers that draw together structure and reactivity
-concepts across topics. (The Paper 1A/1B
-split is taken from the guide's assessment outline; the exact split of
-question types within Paper 2 has not been verified here -- check the
-current subject guide's assessment section for the definitive
-breakdown.) Between
+syllabus; Paper 2 is weighted at 44% and is made up of short-answer and
+extended-response questions that draw together structure and reactivity
+concepts across topics. Between
 them, the two papers account for 80% of the final mark, with SL and
 HL differing in exam length and mark totals rather than in this
 weighting split.
@@ -134,12 +130,29 @@ Structure 3 gains 15 hours (16 to 31), Reactivity 1 gains 10 hours (12
 to 22, split evenly between energy cycles and entropy and
 spontaneity), Reactivity 2 gains 10 hours (21 to 31), and Reactivity 3
 gains 21 hours (24 to 45). These are the points where SL-level
-revision habits most often under-prepare HL candidates, since it is
+revision habits can under-prepare HL candidates, since it is
 easy to assume the additional depth concentrates in only a few
 components when in practice every component carries some HL-only
 material. Confirming exactly which sub-topics within each component
 count as HL-only is worth doing early in the course rather than
 discovering the gap only once exam preparation is already under way.
+
+## Frequently asked questions
+
+**How is IB DP Chemistry assessed?**
+Paper 1 is worth 36% and Paper 2 is worth 44%, so the external exams make up 80% of the final mark. The remaining 20% is the internal assessment, an individual scientific investigation.
+
+**What is in Paper 1 of IB DP Chemistry?**
+Paper 1 has multiple-choice questions in Paper 1A and data-based questions in Paper 1B, drawn from across the syllabus.
+
+**How long is the IB DP Chemistry internal assessment?**
+The internal assessment is a written report of up to 3,000 words on an investigation that the student designs and carries out individually.
+
+**Is the collaborative sciences project part of the internal assessment?**
+No. The collaborative sciences project is done with peers across the sciences and develops investigative and teamwork skills, but it is separate from the internally assessed component.
+
+**What is the difference between SL and HL in DP Chemistry?**
+SL and HL share the same assessment weighting but differ in exam length and mark totals, and HL students study additional content within all six syllabus components.
 
 ## Source
 

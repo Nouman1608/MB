@@ -184,6 +184,20 @@ With 90 minutes for 28 marks you have about 3.2 minutes per mark. A sensible spl
 - Exam planning: [exam preparation](/resources/ib-dp-global-politics-exam-preparation/) and [assessment revision notes](/resources/ib-dp-global-politics-assessment-revision-notes/)
 - Thematic studies: [rights and justice](/resources/ib-dp-global-politics-rights-justice/) and [peace and conflict](/resources/ib-dp-global-politics-peace-conflict/)
 
+## Frequently asked questions
+
+**Do SL students sit Paper 3 in IB Global Politics?**
+No. Everything in the global political challenges extension is HL only; SL students sit Papers 1 and 2 but not Paper 3.
+
+**Can one case study cover the HL research requirement if it touches several topic areas?**
+No. The IB guide sets a fixed minimum of at least two case studies and at least two topic areas, so a single case touching four areas is not enough on its own.
+
+**How should you start an HL Global Politics case study?**
+The guide suggests two ways in: pick a topic area first, such as health, and find a case that lets you study it in depth, or start from a case that interests you and map it onto every topic area it touches.
+
+**Which question on Global Politics Paper 3 is worth the most marks?**
+Question 3, worth 15 marks, carries over half of Paper 3's marks. It asks you to synthesise and evaluate your researched cases, so leave enough time to compare at least two cases from different topic areas and reach a justified judgement.
+
 ## Official syllabus
 
 This page is based on the International Baccalaureate Organization, Diploma Programme *Global politics guide*, first assessment 2026 (published February 2024): the HL extension on global political challenges, the HL assessment outline, the Paper 3 external assessment details and markbands, and the glossary of command terms.

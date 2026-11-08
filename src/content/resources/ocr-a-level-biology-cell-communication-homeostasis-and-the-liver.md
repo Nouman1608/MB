@@ -220,6 +220,20 @@ Ammonia in the blood of a patient is 0.24 mmol dm⁻³ in the hepatic portal vei
 
 Try the [practice questions](/resources/ocr-a-level-biology-cell-communication-homeostasis-and-the-liver-practice/), then use the [revision notes](/resources/ocr-a-level-biology-cell-communication-homeostasis-and-the-liver-revision-notes/) and [diagnostics](/diagnostics/) to find gaps.
 
+## Frequently asked questions
+
+**Do you need to know the ornithine cycle for OCR A Level Biology A?**
+No. The H420 specification does not require details of the ornithine cycle. Learn the overall change: ammonia reacts with carbon dioxide to form urea.
+
+**Which blood vessels supply the liver?**
+The hepatic artery brings oxygenated blood from the heart, and the hepatic portal vein brings blood rich in absorbed nutrients from the small intestine. The hepatic vein takes blood away from the liver.
+
+**Why do endotherms need more food than ectotherms?**
+Endotherms produce heat to control body temperature, which uses energy, so they need much more food but stay active in the cold. Ectotherms need less food but may be sluggish when cold.
+
+**How should you draw a stained liver section at low power?**
+At low power, draw a tissue plan only, showing the lobule outline, central vein and corner tracts, with no individual cells. Use clear single lines, ruled label lines that do not cross and state the magnification.
+
 ## Official syllabus
 
-OCR, *A Level in Biology A (H420)*, Version 4.1 (April 2026), first assessment 2025, Cambridge OCR. Sections 5.1.1 and 5.1.2.
+OCR, *A Level in Biology A (H420)*, Version 4.1 (April 2026), first assessment 2025, OCR. Sections 5.1.1 and 5.1.2.

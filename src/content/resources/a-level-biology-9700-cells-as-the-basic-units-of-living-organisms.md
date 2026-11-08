@@ -255,6 +255,23 @@ A virus has no cytoplasm, no ribosomes and no cell surface membrane of its own. 
 - [1.2 practice questions](/resources/a-level-biology-9700-cells-as-the-basic-units-of-living-organisms-practice/) with mark-by-mark answers
 - [Free 9700 AS diagnostic](/practice/9700/diagnostic/as/)
 
+## Frequently asked questions
+
+**Is the nucleolus surrounded by a membrane?**
+No. The nucleolus is a dense region inside the nucleus with no membrane of its own; it makes ribosomal RNA. The nucleus itself is bounded by a nuclear envelope of two membranes.
+
+**What are the six features of a typical bacterium in the Cambridge 9700 syllabus?**
+It is unicellular, generally 1–5 µm in diameter, has a peptidoglycan cell wall, circular DNA in the cytoplasm, only 70S ribosomes, and no organelles surrounded by double membranes.
+
+**What is a virus made of?**
+A virus is non-cellular, with a nucleic acid core of either DNA or RNA inside a protein capsid. Some viruses also have an outer envelope made of phospholipids.
+
+**What structures are found in plant cells but not animal cells?**
+Plant cells have a cellulose cell wall, plasmodesmata, chloroplasts and a large permanent vacuole bounded by the tonoplast. Plant cells also have mitochondria, as well as chloroplasts.
+
+**What do I need to know about ATP for section 1.2?**
+You only need to state that cells use ATP made in respiration as the immediate energy source for energy-requiring processes, such as protein synthesis.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment -- Topic 1, Cell structure (section 1.2 Cells as the basic units of living organisms).

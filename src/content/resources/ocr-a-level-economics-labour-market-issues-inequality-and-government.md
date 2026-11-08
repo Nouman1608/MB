@@ -195,6 +195,23 @@ Judge each intervention by who gains, the size of the effect, the time lag, the 
 - Mixing up income and wealth.
 - Listing policies without judging their effectiveness.
 
+## Frequently asked questions
+
+**Does a minimum wage always cause unemployment?**
+Only if it is set above the equilibrium wage, and the size of the job loss depends on the elasticity of demand for labour. If labour demand is inelastic, few jobs are lost and the total wage bill rises, so workers who stay in work gain.
+
+**What is the difference between the legal minimum wage and a voluntary living wage?**
+A legal minimum wage is a statutory price floor that all employers must pay. A voluntary living wage is a rate based on an estimate of living costs that employers choose to pay, which avoids a legal job-loss effect but covers only workers at those employers.
+
+**What are the types of labour market flexibility?**
+The OCR A Level Economics (H460) guide covers wage flexibility, numerical flexibility (temporary, part-time and zero-hours work and easy hiring and firing) and functional flexibility, where workers can do several jobs.
+
+**How does immigration affect wages and employment?**
+Migration shifts labour supply to the right, so in the simple model the wage tends to fall and total employment rises. A full answer also considers the skill sub-market affected, fiscal effects, remittances and effects on the source country.
+
+**Why does an ageing population matter for the labour market?**
+An ageing population raises the dependency ratio, reduces labour supply and increases pension and care costs. Possible responses include raising participation, later retirement and migration.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460) specification*, Version 3.0 (June 2026), first assessment 2021.

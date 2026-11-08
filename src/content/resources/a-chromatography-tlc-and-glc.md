@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-analytical-techniques"
     subtopic: "a-gas-liquid-chromatography"
-description: "Stationary and mobile phases, Rf values, retention times, and interpreting TLC and gas/liquid chromatograms, for Cambridge International AS & A Level Chemistry 9701."
+description: "Thin-layer and gas/liquid chromatography: stationary and mobile phases, Rf values, retention times and percentage composition, for Cambridge 9701 Chemistry."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -189,6 +189,20 @@ measurement.
 - Percentage composition from GLC: relative peak *area*, not peak height
 - Longer retention time: stronger interaction with the (liquid) stationary
   phase, not necessarily more of that component present
+
+## Frequently asked questions
+
+**What is the stationary phase in gas/liquid chromatography for Cambridge 9701?**
+In GLC the stationary phase is a high-boiling-point non-polar liquid coated onto an inert solid support inside a column. The mobile phase is an unreactive carrier gas such as nitrogen or helium.
+
+**Does a longer retention time mean there is more of a compound?**
+No. Retention time reflects how strongly a compound interacts with the stationary phase. The amount present is read from the area under its peak, which is a separate measurement.
+
+**Why does a compound have a low Rf value in TLC?**
+A low Rf means the compound interacts strongly with the stationary phase, such as aluminium oxide, or is not very soluble in the mobile solvent. It is held back and stays closer to the baseline.
+
+**How do you calculate percentage composition from a gas chromatogram?**
+Divide the area of the component's peak by the total area of all peaks and multiply by 100%. For peak areas of 12.0, 30.0 and 18.0, the second component is 30.0 ÷ 60.0 × 100% = 50.0%.
 
 ## Related resources
 

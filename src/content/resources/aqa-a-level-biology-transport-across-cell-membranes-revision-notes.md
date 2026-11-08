@@ -17,13 +17,13 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "cells-aqa-alevel-biology"
     subtopic: "transport-across-cell-membranes-aqa-alevel-biology"
-description: "Condensed AQA A-level Biology 7402 notes on section 3.2.3: the fluid-mosaic model, diffusion, osmosis, active transport, co-transport, and practicals on water potential and membrane permeability."
+description: "Condensed AQA A-level Biology 7402 notes on 3.2.3: the fluid-mosaic model, diffusion, osmosis, active transport, co-transport and Required Practicals 3 and 4."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-05
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-11-05."
 ---
 
 Short notes for the final weeks. These notes follow section 3.2.3, Transport across cell membranes, in the AQA AS and A-level Biology specification (A-level 7402), for first teaching 2015, exams June 2016 onwards. The section is part of the AS content, so nothing here is marked A-level only. It includes Required practicals 3 and 4. Find the [AQA A-level Biology hub](/boards/aqa/a-level/biology/), tick off topics on the [checklist](/checklists/aqa/a-level/biology/), and use the free [diagnostics](/diagnostics/) to find weak spots. Phospholipid structure is in the [lipids and protein structure notes](/resources/aqa-a-level-biology-lipids-and-protein-structure-revision-notes/); absorption in the ileum is revisited in the [exchange with the environment notes](/resources/aqa-a-level-biology-exchange-with-environment-revision-notes/).
@@ -215,6 +215,23 @@ Control variables: size and surface area of the pieces, volume of liquid, time i
 - Giving "the cell bursts" for a plant cell in a dilute solution.
 - Using change in mass, not percentage change, when cylinder masses differ.
 - In practical 4, failing to rinse the beetroot, so pigment from cut cells inflates every reading.
+
+## Frequently asked questions
+
+**What is the difference between channel and carrier proteins?**
+Channel proteins form water-filled pores for particular ions. Carrier proteins bind a specific molecule, then change shape to move it across the membrane.
+
+**Does co-transport of glucose use ATP directly?**
+No. ATP is used by sodium-potassium pumps to set up a sodium ion gradient. Glucose then enters with sodium ions through a co-transporter protein down the sodium gradient.
+
+**How do you find the water potential of a plant tissue in Required Practical 3?**
+Plot percentage change in mass against solution concentration and read where the line crosses zero change. At that concentration the tissue and the solution have the same water potential.
+
+**What does Required Practical 4 investigate?**
+It investigates how a variable such as temperature or ethanol concentration affects the permeability of cell-surface membranes, using pigment leaking from beetroot measured with a colorimeter.
+
+**Why is percentage change in mass used instead of change in mass?**
+Tissue samples often start at slightly different masses, so percentage change allows a fair comparison.
 
 ## Official syllabus
 

@@ -31,14 +31,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "geometry-cambridge-igcse-maths"
     subtopic: "circle-theorems-cambridge-igcse-maths"
-description: "Original exam-style practice questions with full worked answers on geometrical terms, constructions, scale drawings, similarity, symmetry, angles and circle theorems for Cambridge IGCSE Mathematics 0580."
+description: "Practice questions with worked answers on angle terms, triangle constructions, scale drawings, similarity, symmetry, polygons and circle theorems in IGCSE 0580."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-01
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -151,3 +151,17 @@ Related: [Geometry revision notes](/resources/igcse-mathematics-geometry-revisio
 ## Approaching geometry questions
 
 For circle-theorem questions, the first task is always identifying which theorem applies -- start by checking which points genuinely lie on the circle, whether a line passes through the centre, and whether a tangent is involved, since these features determine the theorem rather than the numbers themselves. For construction and scale-drawing questions, showing the method (visible arcs, a clearly labelled scale calculation) is what earns credit, not just a correct final answer or diagram, so treat the working as part of the answer rather than scratch work to be tidied away.
+
+## Frequently asked questions
+
+**Why must construction arcs be shown?**
+The visible arcs are the evidence of the ruler-and-compasses method, and they are what earns the construction marks. Leaving them out can lose marks even if the triangle is accurate.
+
+**How do you scale an area for similar shapes?**
+Square the linear scale factor. If lengths are multiplied by k, areas are multiplied by k² and volumes by k³.
+
+**Does the cyclic quadrilateral rule work for any quadrilateral?**
+No. Opposite angles sum to 180° only when all four vertices lie on the circle. A general quadrilateral only has an angle sum of 360°.
+
+**Do you need to name the circle theorem in an answer?**
+Usually yes. Name the theorem and apply it with the numbers, because both the reason and the calculation are typically credited.

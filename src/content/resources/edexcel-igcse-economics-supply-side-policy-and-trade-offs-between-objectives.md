@@ -237,6 +237,23 @@ Evaluation: a falling exchange rate can offset the loss of competitiveness, and 
 - Treating lower income tax as certain to raise output, with no mention of the effect on tax revenue.
 - Giving a list of seven policies with no chain and no conclusion.
 
+## Frequently asked questions
+
+**What are the seven supply-side policies in Edexcel IGCSE Economics?**
+The Edexcel IGCSE Economics (4EC1) specification lists privatisation, deregulation, education and training, regional policies for high unemployment, infrastructure spending, lower business taxes to stimulate investment, and lower income tax rates to encourage working.
+
+**What is the trade-off between unemployment and inflation?**
+When demand is stimulated, firms hire more workers. As spare workers run out, firms compete for staff, wages rise and costs and prices rise, so lower unemployment tends to come with higher inflation.
+
+**Why can supply-side policy reduce unemployment and inflation together?**
+It raises output and productive potential without adding extra pressure on prices. The drawback is time lags, since results can take years to appear.
+
+**How does inflation affect the current account?**
+When domestic prices rise faster than prices abroad, exports become dearer for foreign buyers and imports become relatively cheaper. Export revenue tends to fall and import spending to rise, so the current account worsens.
+
+**Does lowering income tax always increase output?**
+No. Some workers may choose to work less because they reach the same income sooner, many jobs have fixed hours, and the government loses tax revenue.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1) Specification, Issue 3, February 2026, first teaching September 2017, Pearson Education Limited. Sections 2.1.2 c and 2.1.3 a.

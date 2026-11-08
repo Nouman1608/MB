@@ -14,9 +14,9 @@ syllabusTopics:
     topic: "atomic-structure-and-the-periodic-table-8462"
 description: "Original exam-style practice questions with full worked answers on atomic structure, isotopes, electronic structure and group trends for AQA GCSE Chemistry."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -96,3 +96,17 @@ Related: [Atomic Structure and the Periodic Table revision notes](/resources/aqa
 - Saying noble gases have no electrons in their outer shell.
 - Explaining Group 7's melting/boiling point trend using the same "shielding and distance" argument as reactivity — that argument is about electron loss/gain, not intermolecular forces, and answers the wrong question if used here.
 - Naming a separation technique without stating the property it exploits (particle size, solubility, or boiling point) — the technique name alone is a partial answer.
+
+## Frequently asked questions
+
+**What are the relative masses and charges of protons, neutrons and electrons?**
+A proton has a relative mass of 1 and a charge of +1, a neutron has a relative mass of 1 and no charge, and an electron has a very small mass and a charge of −1. This is tested in AQA GCSE Chemistry 8462 atomic structure questions.
+
+**How do you calculate relative atomic mass from isotope abundances?**
+Multiply each isotope's mass number by its percentage abundance, add the results and divide by 100. Forgetting to divide by 100 is one of the most common mistakes.
+
+**How should you explain group trends in reactivity to get full marks?**
+Link the trend to the distance of the outer shell from the nucleus and to shielding, not just to "more shells". For Group 1 the outer electron is lost more easily down the group; for Group 7 an electron is gained less easily.
+
+**Why do you need to name the property when describing a separation technique?**
+Naming the technique alone, such as filtration, is only a partial answer. Full answers state the property it exploits, such as particle size, solubility or boiling point.

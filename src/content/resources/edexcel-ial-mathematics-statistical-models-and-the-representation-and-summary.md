@@ -252,6 +252,20 @@ Courier Q: Q2 − Q1 = 5 and Q3 − Q2 = 11, and the mean 51.07 exceeds the medi
 - Stopping a whisker at an outlier instead of at the last value inside the limits.
 - Comparing without numbers or without context.
 
+## Frequently asked questions
+
+**What are the stages of the mathematical modelling cycle?**
+State the real problem, make simplifying assumptions, build the model and make predictions, compare the predictions with observed data, then refine the assumptions and repeat if the fit is poor.
+
+**How do you calculate variance in Edexcel IAL S1?**
+Variance = Σx²/n − (mean)², or Σfx²/Σf − (mean)² for a frequency table. The standard deviation is the square root of the variance.
+
+**How do you estimate the median from grouped data?**
+Find the position n/2, locate its class using cumulative frequency, then use interpolation: lower boundary + class width × (position − cumulative frequency before the class) ÷ class frequency.
+
+**What does coding do to the mean and standard deviation?**
+With y = (x − a)/b, the mean of x is b × (mean of y) + a and the standard deviation of x is b × (standard deviation of y). Adding a constant changes location but not spread.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification Issue 3, April 2019, published by Pearson Education Limited: Unit S1: Statistics 1, sections 1.1 and 2.1 to 2.4.

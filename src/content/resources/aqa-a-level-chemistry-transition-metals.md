@@ -331,6 +331,23 @@ Each step is between oppositely charged ions. Fe³⁺ works too, with the steps 
 - Using 1 : 1 for MnO₄⁻ : Fe²⁺. It is 1 : 5.
 - Calling [CuCl₄]²⁻ square planar. The specification gives Cl⁻ as the example of a larger ligand that forms tetrahedral complexes.
 
+## Frequently asked questions
+
+**What is a ligand?**
+A ligand is a molecule or ion that forms a co-ordinate bond with a transition metal by donating a pair of electrons. A complex is a central metal atom or ion surrounded by ligands.
+
+**Why do NH₃ and H₂O swap without changing the co-ordination number?**
+NH₃ and H₂O are similar in size and uncharged, so the co-ordination number stays 6. The larger Cl⁻ ligand forms tetrahedral complexes such as [CuCl₄]²⁻, changing the co-ordination number to 4.
+
+**Why are transition metal ions coloured?**
+Some wavelengths of visible light are absorbed and the remaining wavelengths are transmitted or reflected, giving the colour seen. Changes in oxidation state, co-ordination number or ligand alter ΔE, so the colour changes.
+
+**How does a support medium help a heterogeneous catalyst?**
+A support medium spreads the catalyst thinly to maximise surface area and minimise cost. Impurities can poison the catalyst by blocking active sites.
+
+**Is there a required practical for transition metals in AQA A-level Chemistry 7405?**
+No. Section 3.2.5 lists no required practical; Required practical 11 belongs to section 3.2.6, Reactions of ions in aqueous solution.
+
 ## Official syllabus
 
 AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards (AQA). Section 3.2.5 Transition metals (A-level only).

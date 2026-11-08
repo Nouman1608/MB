@@ -280,6 +280,20 @@ Working scientifically links:
 </figure>
 
 
+## Frequently asked questions
+
+**What is the difference between genotype and phenotype?**
+The genotype is the pair of alleles an individual has, such as Vv. The phenotype is the feature you can observe, such as long wings.
+
+**Why can a recessive condition skip a generation?**
+Heterozygous parents carry the recessive allele but do not show the feature. If two carriers each pass on the recessive allele, a child can show the condition, with a probability of 1/4 for each child.
+
+**Why can't a Punnett square predict height?**
+Height is controlled by multiple genes, not a single gene, and is also influenced by the environment. This gives a range of values in the population rather than clear categories.
+
+**Is a ratio the same as a probability in genetics questions?**
+They are different forms of the same prediction: a 3 : 1 ratio corresponds to a probability of 3/4 for the dominant phenotype. Give the form the question asks for.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018, published by OCR (Oxford Cambridge and RSA). Statements B5.1i to B5.1m.

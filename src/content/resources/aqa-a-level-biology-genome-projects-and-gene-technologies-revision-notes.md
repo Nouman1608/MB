@@ -224,6 +224,23 @@ Ingredients: template DNA, two primers, free nucleotides, heat-stable DNA polyme
 </figure>
 
 
+## Frequently asked questions
+
+**Why can the proteome of a simple organism be predicted from its genome?**
+In simple organisms, such as bacteria, the genome sequence lets you work out the protein sequences. In complex organisms, non-coding DNA and regulatory genes mean the genome cannot easily be translated into the proteome.
+
+**What are the stages of PCR?**
+Denature at about 95 °C to separate the strands, anneal at roughly 50 to 65 °C so primers bind, and extend at about 72 °C as Taq polymerase builds complementary strands. Copies = starting molecules × 2ⁿ.
+
+**What is the difference between a primer and a probe?**
+A primer is a short sequence that starts DNA polymerase copying. A probe is a short, labelled, single-stranded sequence used to find a complementary sequence.
+
+**What are VNTRs?**
+Variable number tandem repeats are short base sequences repeated in a row. The number of repeats differs between individuals, which is the basis of genetic fingerprinting.
+
+**What is the difference between in vitro and in vivo gene cloning?**
+In vitro cloning happens outside cells, by PCR. In vivo cloning happens inside living host cells that have been transformed with a vector.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015, sections 3.8.3, 3.8.4.1, 3.8.4.2 and 3.8.4.3 (version 1.5), published by AQA.

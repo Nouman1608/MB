@@ -273,6 +273,20 @@ Most loci problems are set on a scale drawing. Convert each distance to centimet
 
 Try the [practice questions](/resources/ocr-gcse-mathematics-ruler-and-compass-constructions-and-loci-practice/), then use the [revision notes](/resources/ocr-gcse-mathematics-ruler-and-compass-constructions-and-loci-revision-notes/) to check recall. Return to the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) for other topics.
 
+## Frequently asked questions
+
+**What does equidistant mean?**
+Equidistant means the same distance away from two or more things. For example, every point on an angle bisector is equidistant from the two lines that form the angle.
+
+**Why is the perpendicular distance the shortest distance from a point to a line?**
+Any other route from the point to the line is the hypotenuse of a right-angled triangle, and the hypotenuse is the longest side. So the perpendicular route is always shorter.
+
+**What is the difference between a perpendicular from a point and a perpendicular at a point?**
+A perpendicular from a point starts at a point that is not on the line and drops to the line at 90°. A perpendicular at a point is drawn through a point that is on the line.
+
+**Why does the angle bisector construction work?**
+The arcs make two triangles with matching sides: the two arcs from the vertex are equal, the two crossing arcs are equal and the bisector is shared. The triangles are congruent, so the two angles at the vertex are equal.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), section 8.02, published by OCR.

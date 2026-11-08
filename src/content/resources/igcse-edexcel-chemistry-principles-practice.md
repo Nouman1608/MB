@@ -12,11 +12,11 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "principles-of-chemistry-4ch1"
-description: "Original exam-style practice questions with full worked answers on states of matter, atomic structure, bonding and electrolysis for Edexcel International GCSE Chemistry 4CH1."
+description: "Original practice questions with worked answers for Edexcel International GCSE Chemistry 4CH1 Topic 1: states of matter, atoms, bonding, moles and electrolysis."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -166,3 +166,17 @@ m = 0.20 × 58.5 = **11.7 g** [1].
 - Explaining the diffusion ring position without reference to relative molecular mass.
 - Omitting "electrostatic attraction" from the ionic bonding definition.
 - Working from mass ratios instead of converting to moles first.
+
+## Frequently asked questions
+
+**Are these Edexcel IGCSE Chemistry 4CH1 practice questions from past papers?**
+No. They are original exam-style questions with worked answers, written for revision. The mark-scheme insights quote published Pearson Edexcel mark schemes, but the questions themselves are not past-paper questions.
+
+**What must an ionic bonding definition include?**
+It must mention the electrostatic attraction between oppositely charged ions. Leaving out "electrostatic attraction" is a common way to lose marks.
+
+**How do you explain where the ring forms in the ammonia and hydrogen chloride diffusion experiment?**
+Refer to relative molecular mass: the gas with the lower relative molecular mass diffuses faster, so it travels further before the two gases meet.
+
+**How should you start an empirical formula calculation?**
+Convert each mass or percentage to moles by dividing by the relative atomic mass before finding the ratio. Working from mass ratios directly gives the wrong formula.

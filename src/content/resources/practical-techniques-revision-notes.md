@@ -34,11 +34,11 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "experimental-techniques-and-chemical-analysis"
     subtopic: "separation-and-purification"
-description: "Condensed recall notes on apparatus, solution vocabulary, titrations, paper chromatography and Rf, and separation and purification for Cambridge IGCSE 0620 and O Level 5070 (2026-2028)."
+description: "Recall notes for Cambridge IGCSE 0620 and O Level 5070 practical techniques: apparatus, solution terms, titration, chromatography, Rf and separation methods."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -203,6 +203,20 @@ Rf = 3.2 ÷ 8.0 = **0.40**.
 7. The sample is impure: it melts over a range, below the melting point of the pure compound.
 8. Rf = 4.5 ÷ 7.5 = 0.60.
 9. Spray the dried chromatogram with a locating agent.
+
+## Frequently asked questions
+
+**Why is the baseline in paper chromatography drawn in pencil?**
+Pencil does not dissolve in the solvent, so it does not run up the paper and interfere with the spots. The baseline must also sit above the solvent level.
+
+**How do you calculate an Rf value?**
+Divide the distance travelled by the substance by the distance travelled by the solvent, both measured from the baseline. Rf has no units and lies between 0 and 1.
+
+**How do melting and boiling points show whether a substance is pure?**
+A pure substance has a sharp, fixed melting and boiling point that matches the data-book value. An impure substance melts over a range below that value and boils at a higher temperature.
+
+**Which separation method is used for two liquids that mix?**
+Fractional distillation separates miscible liquids with different boiling points, such as ethanol and water, using a fractionating column. The liquid with the lower boiling point distils first.
 
 *These are original notes written for revision. Check the full syllabus wording in the
 [official 0620 syllabus](https://www.cambridgeinternational.org/Images/697205-2026-2028-syllabus.pdf) and

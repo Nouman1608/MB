@@ -227,6 +227,20 @@ Method for classifying a good:
 - Giving a list of contexts with no chain of reasoning.
 - Making a one-sided evaluation that never weighs how hard external costs and benefits are to measure.
 
+## Frequently asked questions
+
+**What is the difference between private, external and social cost?**
+Private cost is paid by the producer or consumer directly involved, external cost falls on a third party who is not compensated, and social cost is private cost plus external cost.
+
+**Who counts as a third party?**
+A third party is anyone outside the buyer-seller exchange, such as a neighbour, a rival firm or a taxpayer. Name the third party in an externality answer.
+
+**Is a public good one that is free or provided by the government?**
+No. A public good is defined by being non-rival and non-excludable, not by its price or by who provides it.
+
+**What makes externalities hard to correct?**
+External costs and benefits are hard to measure, so the socially optimal output is hard to know. A balanced evaluation weighs this difficulty.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics, Specification, Issue 2, June 2018 (first teaching September 2018), Pearson Education Limited. Section 1.3.5 Market failure, items 1 to 3.

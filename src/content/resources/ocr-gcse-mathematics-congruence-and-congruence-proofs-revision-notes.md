@@ -228,6 +228,20 @@ A shared angle at the apex counts as a common angle, so write "angle A is common
 - Setting corresponding sides equal in the wrong pairs when forming an equation in x.
 - Giving a fully worked proof of a result the question only asked you to use.
 
+## Frequently asked questions
+
+**What are the four conditions for congruent triangles?**
+The four conditions are SSS (three equal sides), SAS (two sides and the included angle), ASA (two angles and a side in the same position) and RHS (right angle, hypotenuse and one other side). Any one of them proves two triangles congruent.
+
+**What is the difference between congruent and similar shapes?**
+Congruent shapes are identical in shape and size. Similar shapes have the same shape but may be different sizes.
+
+**What does "included angle" mean in SAS?**
+The included angle is the angle between the two named sides. SAS only works when the equal angle sits between the two equal sides in both triangles.
+
+**How do you solve for x when corresponding sides of congruent triangles are given as expressions?**
+Set the two corresponding expressions equal and solve the equation, for example 5x − 4 = 3x + 10 gives x = 7. Substitute back into both expressions to check that they give the same length.
+
 ## Official syllabus
 
 Aligned to the OCR GCSE (9-1) in Mathematics (J560) specification, Version 2.1, August 2026, published by OCR, for first assessment in 2017. Content references 9.02a (Congruent triangles) and 9.02b (Applying congruent triangles).

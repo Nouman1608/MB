@@ -201,6 +201,23 @@ Another case: a council writes to 20,000 households with a norm message. On-time
 - Calling a nudge a ban or a tax.
 - Treating asymmetric information as simply "missing" information: one side knows more.
 
+## Frequently asked questions
+
+**What is utility maximisation?**
+Traditional theory assumes an individual weighs the options, uses the information available and chooses the one that gives the most satisfaction, or utility.
+
+**Why does imperfect information prevent rational choice?**
+Rational choice needs reliable information on price, quality, risk and alternatives. If information is missing, wrong or hard to compare, people may choose an option that costs them more.
+
+**What is a nudge?**
+A nudge steers choices without banning options or greatly changing prices, for example default enrolment in a savings plan, social-norm messages or clearer information.
+
+**What are the arguments for and against nudges?**
+Nudges are cheap, keep choice and can work where information fails. Against them, effects may fade, vary between people and be hard to measure, some see them as manipulative, and they may be too weak for large externalities.
+
+**How do altruism and fairness challenge traditional theory?**
+Altruism means a person's utility depends on others' wellbeing, so a purely self-interested model misses behaviour such as charity. Perceptions of fairness shape reactions to prices and wages, so a profit-maximising price rise can backfire.
+
 ## Official syllabus
 
 Source: the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, Oxford International AQA Examinations. Sections 3.3.1.1 and 3.3.1.2.

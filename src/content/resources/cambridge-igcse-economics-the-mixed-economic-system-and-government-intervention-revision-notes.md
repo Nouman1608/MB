@@ -186,6 +186,20 @@ Use a short chain: measure, how it works, intended result, side effect, judgemen
 - Forgetting opportunity cost or who pays.
 - Confusing nationalisation with privatisation.
 
+## Frequently asked questions
+
+**What is a mixed economic system?**
+A mixed economic system allocates resources partly through the private sector, using markets and the price mechanism, and partly through the public sector, using government decisions.
+
+**What is the difference between privatisation and nationalisation?**
+Privatisation transfers ownership of an asset or firm from the public sector to the private sector. Nationalisation transfers it from private to public ownership.
+
+**Do consumers always pay the whole of an indirect tax?**
+No. The burden is shared between consumers and producers, and it falls more on consumers when demand is less elastic, so check elasticity before deciding who pays.
+
+**How do you judge whether government intervention is effective?**
+Ask whether the measure addresses the cause of the failure, what it costs and who pays, whether it has side effects such as shortages or black markets, whether the government has enough information to set the right level, and how long it takes to work.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, Cambridge University Press & Assessment (Cambridge International), version 2, section 2.11.

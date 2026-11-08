@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "geometry-and-measures-aqa-gcse-maths"
 description: "AQA GCSE Maths 8300 geometry and measures study guide (G1-G25): angles, constructions, circles, mensuration, trig and vectors, with worked examples."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This guide teaches Topic 4, **Geometry and measures** (references G1–G25), of the AQA GCSE Mathematics (8300) specification, Version 1.0, for exams in May/June 2017 onwards and every May/June and November series after that. It covers all three parts: 3.4.1 Properties and constructions, 3.4.2 Mensuration and calculation, and 3.4.3 Vectors. Content in the specification's "Higher content only" column is marked **Higher tier only**; everything else is on both tiers. Geometry can be tested on Paper 1 (non-calculator) and on Papers 2 and 3 (calculator allowed).
@@ -363,6 +363,20 @@ NM is a multiple of OB, so NM is parallel to OB and half its length.
 - Leaving the calculator in radians.
 - Using the sine rule when the cosine rule is needed (no side–opposite-angle pair known).
 - Rubbing out construction arcs.
+
+## Frequently asked questions
+
+**What are the circle theorems for AQA GCSE Maths?**
+There are eight to know, all Higher tier only: the angle at the centre is twice the angle at the circumference, the angle in a semicircle is 90°, angles in the same segment are equal, opposite angles of a cyclic quadrilateral add to 180°, the tangent is perpendicular to the radius, tangents from a point are equal, the perpendicular from the centre bisects a chord, and the alternate segment theorem.
+
+**How do you work out the interior angle sum of a polygon?**
+The interior angles of an n-sided polygon add up to (n − 2) × 180°, and the exterior angles of any polygon add up to 360°.
+
+**How do you fully describe a transformation?**
+A translation needs a column vector, a reflection needs the equation of the mirror line, a rotation needs its centre, angle and direction, and an enlargement needs its centre and scale factor.
+
+**How do you find the volume of a frustum?**
+Treat it as a composite solid: find the volume of the whole cone and subtract the volume of the small cone that was cut off.
 
 ## Next steps
 

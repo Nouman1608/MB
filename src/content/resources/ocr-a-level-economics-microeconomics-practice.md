@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "microeconomics-ocr-alevel-economics"
 description: "Original exam-style practice questions with full worked answers on scarcity, elasticity, externalities, labour markets and intervention."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -99,3 +99,20 @@ that structure rather than setting several free-standing questions.
 - Ignoring monopsony in the minimum wage evaluation.
 - Confusing adverse selection (an information problem before the transaction) with moral hazard (a behaviour change after it).
 - Answering a Section B or C essay at only an "explain" level, without a clear judgement that weighs the evidence.
+
+## Frequently asked questions
+
+**How is the OCR A Level Economics microeconomics paper structured?**
+The page describes Component 1 as having a compulsory data-response question in Section A worth about 30 marks, then one essay chosen from Section B and one from Section C, each worth 25 marks.
+
+**What is the difference between adverse selection and moral hazard?**
+Adverse selection is an information problem before a transaction, where one side cannot tell good from poor quality. Moral hazard is a change in behaviour after a transaction, when someone no longer bears the full cost of a risk.
+
+**What is the difference between positive and normative statements?**
+A positive statement is a claim of fact that can be tested against evidence, while a normative statement contains a value judgement about what ought to happen. A common error is giving a normative statement that merely sounds factual.
+
+**Why should a minimum wage essay mention monopsony?**
+In a monopsony labour market a single buyer of labour restricts employment and pays below the competitive wage, so a minimum wage can raise both wages and employment. Ignoring this weakens the evaluation of whether a minimum wage reduces poverty.
+
+**What are the unintended consequences of a maximum rent?**
+A maximum price set below equilibrium creates a shortage, because more people want to rent than landlords supply. Strong answers on OCR A Level Economics (H460) discuss consequences such as reduced supply and black markets, not just the intended effect on affordability.

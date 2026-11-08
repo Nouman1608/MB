@@ -148,6 +148,20 @@ Money figures are in dollars ($). All businesses, people and countries are inven
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Does a tariff or a quota ban imports?**
+No. An import tariff is a tax on imported goods, and an import quota is a limit on the quantity that can be imported. Writing that either one bans imports is a common error.
+
+**What are common mistakes on international economy questions in IGCSE Business 0264?**
+Students often give the host country's view when the question asks about the business, or the reverse, call repatriation of profits a cost to the MNC instead of lost income for the host country, and treat all external effects as costs. Answering "evaluate" or "justify" without a decision or the stem's numbers also loses marks.
+
+**Are exchange rate calculations assessed in IGCSE Business 0264?**
+No. The Cambridge IGCSE Business 0264 syllabus notes that candidates will not be assessed on exchange rate calculations, so questions focus on the effects of appreciation and depreciation on price, costs and competitiveness.
+
+**Which syllabus section do these practice questions cover?**
+They cover section 6.2, Business and the international economy: globalisation, tariffs and quotas, multinational companies, external costs and benefits, and exchange rates.
+
 ## Official syllabus
 
 Aligned to section 6.2 of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education).

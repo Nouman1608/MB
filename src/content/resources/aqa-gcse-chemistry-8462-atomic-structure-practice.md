@@ -217,6 +217,23 @@ sulfur with no reason scores one mark.
 - Adding electrons to positive ions instead of removing them.
 - Dropping the divide-by-100 step, or rounding before the final line, in relative atomic mass.
 
+## Frequently asked questions
+
+**Which AQA GCSE Chemistry paper tests atomic structure?**
+Section 4.1.1 of the AQA GCSE Chemistry 8462 specification is examined on Paper 1 at Foundation and Higher Tier. Half equations and ionic equations are Higher tier only.
+
+**How should you balance a chemical equation without losing marks?**
+Change only the numbers in front of formulae, never the formulae themselves. Changing H₂O to H₂O₂ to make an equation balance loses the mark.
+
+**What do examiners want when you compare two atomic models?**
+Describe both models, not just one. Also remember that the alpha scattering experiment showed a nucleus, while electron shells came from Bohr's later adaptation.
+
+**How are separation technique questions marked?**
+The technique name usually earns one mark and the explanation the other. Say which property the technique relies on, such as differences in boiling point.
+
+**What slips happen in relative atomic mass calculations?**
+Dropping the divide-by-100 step or rounding before the final line are common errors. Keep full values until the end, then round as the question asks.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/aqa-gcse-chemistry-8462-atomic-structure-revision-notes/).

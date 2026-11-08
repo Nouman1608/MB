@@ -7,15 +7,15 @@ topic: "Exam preparation -- Papers 1 and 2"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9210"]
-syllabusSeries: "First teaching 2017, first examined 2019"
+syllabusSeries: "For teaching from September 2017, exams from May/June 2019"
 order: 3
-description: "How to prepare for OxfordAQA International GCSE Computer Science 9210's on-screen Paper 1 built on a pre-released skeleton program, the May/June-only series change, and a worked incremental-coding routine."
+description: "Preparing for OxfordAQA International GCSE Computer Science 9210: the on-screen Paper 1 skeleton program, the May/June-only series and a worked coding routine."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 ---
 
 OxfordAQA International GCSE Computer Science (9210) is linear and untiered, with no coursework. Both
@@ -127,6 +127,23 @@ now take place in May/June only, with no November series from 2026, so a disappo
 full year rather than a few months. 4. Because a program that runs and completes part of the task
 earns marks while a more ambitious one that does not compile earns very few, and errors found early
 are far cheaper to locate.
+
+## Frequently asked questions
+
+**How many papers are in OxfordAQA International GCSE Computer Science 9210?**
+There are two papers, each 2 hours long, worth 80 marks and 50% of the qualification. Paper 1 is an on-screen programming exam and Paper 2, Concepts and Principles of Computer Science, is a written paper; there is no coursework.
+
+**What is the pre-released skeleton program in 9210 Paper 1?**
+Paper 1 is an on-screen examination set against a skeleton program that candidates are given before the exam. Working with it extensively beforehand, by reading, running, tracing, breaking and extending it, is the biggest preparation opportunity.
+
+**Which programming languages can you use in the 9210 exam?**
+Paper 1 is available in C#, Python 3 or Visual Basic. Choosing a language early and practising only in it preserves fluency in areas such as loop syntax, string handling and file input.
+
+**Is there a November exam series for OxfordAQA 9210 Computer Science?**
+No. Examinations for this specification take place in May/June only, with no November series from 2026, so a disappointing result means waiting a full year to resit.
+
+**Why should you write trace tables out instead of tracing code in your head?**
+Mental tracing is where confident candidates make avoidable errors, and a written trace table, with a column per variable and a row per iteration, is creditable working in its own right.
 
 *Written against the assessment section of OxfordAQA's own International GCSE Computer Science (9210)
 qualification page (official OxfordAQA page, verified 2026-08-28). The coding routine above is an

@@ -239,6 +239,20 @@ If the heterozygote is Rt | rT, the parental gametes are Rt and rT, so the recom
 - Concluding "significant" without comparing with the critical value.
 - Stopping at "reject the null hypothesis" without stating what that means for the genes.
 
+## Frequently asked questions
+
+**Why does a dihybrid cross give a 9:3:3:1 ratio?**
+Each gene alone gives 3:1, and because unlinked genes assort independently the probabilities multiply: ¾ × ¾ = 9/16, ¾ × ¼ = 3/16, ¼ × ¾ = 3/16 and ¼ × ¼ = 1/16.
+
+**What ratio does a dihybrid test cross give?**
+Crossing a double heterozygote with a double homozygous recessive gives 1:1:1:1 for unlinked genes. For linked genes the same four classes appear but in unequal numbers.
+
+**What is the maximum recombinant frequency?**
+The maximum is 50%, the value for unlinked genes, because even if a chiasma forms between the loci in every meiosis only two of the four chromatids are recombinant.
+
+**What is the chi-squared formula used in IB DP Biology?**
+χ² = Σ (O − E)² / E, using counts (not percentages) for observed and expected values, with degrees of freedom equal to the number of classes minus one. This is HL-only content (D3.2.21).
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Sections D3.2.16 to D3.2.21 (additional higher level).

@@ -224,6 +224,20 @@ Learn these as pairs. Questions can test whether you can tell the two halves apa
 - Writing "limited liability" for an ordinary partnership.
 - Showing a current account in equity but leaving the capital accounts out, so total equity does not match net assets.
 
+## Frequently asked questions
+
+**What is an appropriation account?**
+An appropriation account shows how the profit for the year is shared among the partners. It starts from profit for the year and is not part of the income statement.
+
+**Are partners' drawings shown in the appropriation account?**
+No. Drawings are the partner taking out money that has already been earned, so they are debited to the partner's current account rather than appropriated.
+
+**Why do people form a partnership?**
+A partnership brings in more capital, shared skills, a shared workload and risk, and continuity. The drawbacks include unlimited liability in an ordinary partnership and possible disagreements between partners.
+
+**How are partners' accounts shown in the statement of financial position?**
+The equity section shows each partner's capital account and current account balance, with a debit current account balance deducted. Total equity should equal net assets, which checks the workings.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1), Specification, Issue 1, October 2016, published by Pearson Education Limited. Topic 4: The preparation of financial statements, section 2 (Financial statements of a partnership), points a to g.

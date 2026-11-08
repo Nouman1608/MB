@@ -14,7 +14,10 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "how-the-economy-works-aqa-gcse-economics"
     subtopic: "economic-objectives-of-the-government-aqa-gcse-economics"
-description: "Twelve original practice questions with worked answers for AQA GCSE Economics 3.2.2.1: objectives, conflicts, inequality, the environment and ethics."
+  - qualification: "gcse"
+    topic: "how-the-economy-works-aqa-gcse-economics"
+    subtopic: "inflation-and-price-stability-aqa-gcse-economics"
+description: "Eighteen original practice questions with worked answers for AQA GCSE Economics 3.2.2.1 and 3.2.2.4: objectives, conflicts, inequality, ethics and inflation."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18
 featured: false
@@ -121,6 +124,44 @@ Calculate the change in each indicator, and state which objectives moved in the 
 - It depends on how high inflation is, how much spare capacity exists and how long the policy lasts [1]. A reasoned conclusion such as "unemployment is the priority while inflation is low, but 'whatever it takes' goes too far" with a reason [1]. **[9]**
 *Examiner insight:* Evaluation needs a conclusion that weighs the points against each other and uses the context given. A balanced list with no judgement leaves marks unclaimed.
 
+## Inflation and price stability (3.2.2.4)
+
+These extra questions go deeper into price stability, one of the four objectives above. They cover what inflation is, how the Consumer Price Index (CPI) measures it, its causes and its consequences for different groups. For the full content, see the [inflation revision notes](/resources/aqa-gcse-economics-inflation-and-price-stability-revision-notes/).
+
+### Questions
+
+**13.** Define inflation. **[1]**
+
+**14.** The CPI for Country P was 104.0 in Year 1, 109.2 in Year 2 and 112.5 in Year 3.
+**(a)** Calculate the rate of inflation between Year 1 and Year 2. **[2]**
+**(b)** Calculate the rate of inflation between Year 2 and Year 3, to one decimal place. **[2]**
+**(c)** State whether prices fell between Year 2 and Year 3. **[1]**
+
+**15.** Explain how the CPI is used to measure inflation. **[3]**
+
+**16.** Distinguish between cost-push and demand-pull inflation, giving a cause of each. **[4]**
+
+**17.** Explain why a pensioner on a fixed income and a household with a large fixed-rate loan are affected differently by a rise in inflation. **[4]**
+
+**18.** Explain **one** way in which high inflation could harm UK exporters. **[3]**
+
+### Answers
+
+**13.** A sustained rise in the general price level over time [1]. **[1]**
+
+**14. (a)** (109.2 − 104.0) ÷ 104.0 × 100 [1] = **5.0%** [1].
+**(b)** (112.5 − 109.2) ÷ 109.2 × 100 [1] = **3.0%** [1].
+**(c)** No: prices still rose, but more slowly [1]. **[5]**
+*Examiner insight:* A fall in the rate of inflation is not a fall in prices. Only a negative rate means prices fell.
+
+**15.** Prices of a "basket" of goods and services that a typical household buys are recorded regularly [1]; each item is weighted by how much households spend on it [1]; the weighted cost is turned into an index, and the percentage change in the index over a year is the rate of inflation [1]. **[3]**
+
+**16.** Cost-push inflation happens when firms' costs rise and they pass them on as higher prices [1], e.g. a rise in wages or in the price of oil [1]. Demand-pull inflation happens when total demand grows faster than the economy's ability to supply [1], e.g. a large rise in consumer spending after a cut in interest rates [1]. **[4]**
+
+**17.** The pensioner's income does not rise with prices [1], so they can buy fewer goods and their real income falls [1]. The borrower's repayments are fixed in money terms [1], so as prices and wages rise the real burden of the debt falls and they may gain [1]. **[4]**
+
+**18.** If UK prices rise faster than prices abroad [1], UK goods become less price-competitive [1], so foreign buyers switch to other countries' goods and UK exports fall [1]. **[3]**
+
 ## Where marks are usually lost
 
 - Not showing the formula or working in calculation questions.
@@ -132,13 +173,27 @@ Calculate the change in each indicator, and state which objectives moved in the 
 - Concluding with a summary rather than a judgement.
 - Treating a progressive and a regressive tax as the same thing.
 
+## Frequently asked questions
+
+**Which AQA GCSE Economics sections do these questions cover?**
+They cover AQA GCSE Economics 8136 section 3.2.2.1 Economic objectives of the government, with extra questions on 3.2.2.4 Inflation and price stability.
+
+**What is the difference between a percentage change and a percentage-point change?**
+A percentage-point change is the simple difference between two rates, such as 4% to 6% being 2 percentage points. A percentage change compares the change with the starting value.
+
+**What is often missing from answers about government policy?**
+The conflict. Describing only the intended effect of a policy, without how it may harm another objective or group, loses marks.
+
+**What should I write after a current account calculation?**
+Name the result as a deficit or a surplus, not just its sign, and give the unit.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/aqa-gcse-economics-economic-objectives-of-the-government-conflicts-other-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-economic-objectives-of-the-government-conflicts-other/).
 - Check coverage on the [checklist](/checklists/aqa/gcse/economics/) and see the [AQA GCSE Economics hub](/boards/aqa/gcse/economics/).
-- Take one of the [all free 10-minute diagnostics](/diagnostics/).
+- Take one of the [free 10-minute diagnostics](/diagnostics/).
 - Want a teacher's help? [Book a free trial class](/trial/).
 
 ## Official syllabus
 
-AQA GCSE Economics (8136) specification, for first teaching from September 2017, published by AQA: section 3.2.2.1 Economic objectives of the government.
+AQA GCSE Economics (8136) specification, for first teaching from September 2017, published by AQA: sections 3.2.2.1 Economic objectives of the government and 3.2.2.4 Inflation and price stability.

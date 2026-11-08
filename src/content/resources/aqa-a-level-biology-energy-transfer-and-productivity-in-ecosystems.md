@@ -199,6 +199,23 @@ The indoor system converts a larger share of its food into biomass because R is 
 - Saying herbicides "kill the food chain". Say that they remove competing plants, so more NPP is stored in the crop.
 - Giving one-sided answers on farming. State the efficiency gain and a cost.
 
+## Frequently asked questions
+
+**Which part of the AQA specification covers energy transfer in ecosystems?**
+Section 3.5.3, Energy and ecosystems, which is A-level only in AQA Biology 7402.
+
+**How is biomass measured?**
+Biomass can be measured as the mass of carbon in tissue or as dry mass per given area. Dry mass is found by drying a sample in an oven until its mass is constant.
+
+**How do you calculate energy from calorimetry?**
+Energy (J) = mass of water (g) × 4.18 J g⁻¹ °C⁻¹ × temperature rise (°C). Dividing by the mass of tissue burned gives energy per gram.
+
+**How do farming practices increase the efficiency of energy transfer?**
+Simplifying food webs, for example with herbicides and pesticides, reduces energy losses to non-human food chains. Keeping livestock in pens or warm barns means they move less and use less energy keeping warm, which reduces respiratory losses so more energy goes into growth.
+
+**Is energy used up as it passes along a food chain?**
+No. Energy is transferred to the environment, mostly as heat from respiration, and some remains in faeces and urine. Saying energy is "used up" is a common error.
+
 ## Official syllabus
 
 AQA, AS and A-level Biology specification (7401 and 7402), first teaching 2015, section 3.5.3 Energy and ecosystems (A-level only), with mathematical skills MS 0.1, MS 0.3 and MS 2.4.

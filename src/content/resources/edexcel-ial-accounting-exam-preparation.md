@@ -9,11 +9,11 @@ qualifications: ["a-level"]
 syllabusCodes: ["YAC11"]
 syllabusSeries: "Specification Issue 2, September 2018"
 order: 3
-description: "Preparing for the unusually large 200-mark units of Edexcel IAL Accounting YAC11 -- Section A's two compulsory 55-mark questions, choosing three of four in Section B, and a worked own-figure routine."
+description: "How to prepare for the two 200-mark units of Edexcel IAL Accounting YAC11: two compulsory 55-mark questions, three of four in Section B, and own-figure working."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 publishedDate: 2026-09-07
 featured: false
 ---
@@ -121,6 +121,20 @@ questions of 30 marks are chosen from four. 3. Because the exam provides no temp
 ordering and dates must be produced from memory -- and a rehearsed layout is faster under time
 pressure. 4. Using the figures you have just computed rather than discussing the technique in general
 terms.
+
+## Frequently asked questions
+
+**How many units are in Edexcel International A Level Accounting?**
+There are two units. Unit 1 (The Accounting System and Costing) and Unit 2 (Corporate and Management Accounting) are each 3 hours, 200 marks and 50% of the full IAL. The International Advanced Subsidiary is awarded on Unit 1 alone.
+
+**How is each Edexcel IAL Accounting paper structured?**
+Section A has two compulsory multi-part data-response questions worth 55 marks each. Section B has four optional multi-part questions worth 30 marks each, of which you answer three.
+
+**How long should I spend per mark in Edexcel IAL Accounting?**
+With 180 minutes for 200 marks, you have about 0.9 minutes per mark: roughly 50 minutes for a 55-mark Section A question and about 27 minutes for a 30-mark Section B question.
+
+**How should I choose my Section B questions?**
+Read all four questions to the end before choosing, and choose on the parts carrying the most marks, because a familiar opening part may lead into an evaluative part you are less ready for.
 
 *Written against the Pearson Edexcel International Advanced Level Accounting specification (official
 specification PDF, Issue 2, verified 2026-08-28). The computation routine above is an original model

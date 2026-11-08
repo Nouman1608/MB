@@ -27,11 +27,11 @@ syllabusTopics:
     subtopic: "classification-of-living-organisms-aqa-gcse-biology"
 description: "Study guide for AQA GCSE Biology 8461 topic 6: meiosis, DNA, Punnett squares, inherited disorders, evolution, breeding, cloning and classification."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide teaches topic 6, **Inheritance, variation and evolution** (sections 4.6.1–4.6.4), of the AQA GCSE Biology (8461) specification, for teaching from September 2016 and exams from 2018 onwards. The topic is examined on Paper 2 (1 hour 45 minutes, 100 marks, 50% of the GCSE), set at Foundation and Higher tier. Content the specification marks "(HT only)" is labelled **Higher tier only**; everything else is for both tiers.
@@ -357,6 +357,23 @@ In a **simple autosomal, single-gene model** with complete penetrance and no new
 - Stating that antibiotics cause the mutation.
 
 Next, condense this with the [revision notes](/resources/aqa-gcse-biology-8461-inheritance-variation-and-evolution-revision-notes/), work through the [practice questions](/resources/aqa-gcse-biology-8461-inheritance-variation-and-evolution-practice/), or try the free [diagnostics](/diagnostics/).
+
+## Frequently asked questions
+
+**What is the difference between sexual and asexual reproduction?**
+Sexual reproduction is the fusion of male and female gametes, producing variation. Asexual reproduction needs one parent with no fusion of gametes, producing genetically identical clones.
+
+**What does meiosis produce?**
+Meiosis produces four gametes, each with a single set of chromosomes, which are all genetically different from each other.
+
+**What is DNA made of?**
+DNA is a polymer of repeating nucleotides, each with a sugar, a phosphate group and one of four bases (A, C, G or T), forming two strands in a double helix.
+
+**How is an animal cloned by adult cell cloning?**
+The nucleus is removed from an unfertilised egg cell and replaced with the nucleus from an adult body cell. An electric shock makes the egg divide into an embryo, which is inserted into the womb of an adult female.
+
+**Who proposed the theory of evolution by natural selection?**
+Charles Darwin proposed it, and Alfred Russel Wallace independently proposed evolution by natural selection at about the same time.
 
 ## Official syllabus
 

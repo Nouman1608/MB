@@ -272,6 +272,23 @@ A coil has two sides, each with 0.050 m of wire at right angles to a uniform fie
 
 Work through the [practice questions](/resources/ocr-gcse-physics-the-motor-effect-and-electric-motors-practice/) and use the [revision notes](/resources/ocr-gcse-physics-the-motor-effect-and-electric-motors-revision-notes/) to consolidate. The [free diagnostics](/diagnostics/) show which topics to prioritise.
 
+## Frequently asked questions
+
+**What is the equation for the force on a current-carrying wire?**
+For a conductor at right angles to the field, force = magnetic flux density × current × length (F = BIl), with F in N, B in T, I in A and l in m.
+
+**Why must the current in a motor coil reverse every half turn?**
+After half a revolution the two sides of the coil swap positions, so without a reversal the forces would push the coil back the way it came. Reversing the current every half turn keeps each force turning the coil the same way.
+
+**What is a commutator?**
+A commutator is the component in a d.c. motor that switches the connections to the coil as it turns, so the current in the coil reverses every half turn.
+
+**How can you make a motor turn faster?**
+Increase the current or use a stronger magnet. Both give a larger turning force, because F is proportional to I and to B.
+
+**Does the magnet also feel a force in the motor effect?**
+Yes. The magnet and the current-carrying conductor exert forces on each other, so the magnet feels an equal and opposite force.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), first assessment 2018, published by OCR, topic P4.2 Uses of magnetism, statements P4.2a to P4.2d.

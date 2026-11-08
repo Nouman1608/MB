@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "circular-measure-cambridge-alevel-maths"
 description: "Condensed 9709 circular measure notes: radian conversions, arc and sector formulas, segment and tangent methods, and an 11-question self-test."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -240,6 +240,20 @@ If you missed 9 or 11, reread the segment and major-sector method boxes above. I
 - Keeping a root that gives θ > 2π after solving a quadratic.
 - In tangent questions, forgetting the right angle between tangent and radius, so the angle at the centre is found wrongly.
 - Counting a line that lies inside a shaded region as part of its perimeter.
+
+## Frequently asked questions
+
+**What is a radian?**
+A radian is the angle at the centre of a circle subtended by an arc equal in length to the radius. So 2π radians = 360°, and 1 radian is about 57.3°.
+
+**Which circular measure formulae are in MF19 for Cambridge 9709?**
+Only the arc length s = rθ and sector area A = ½r²θ, both with θ in radians. The sector perimeter, triangle area, chord length and segment area must be built from them.
+
+**What is the difference between a sector and a segment?**
+A sector is bounded by two radii and an arc. A segment is bounded by a chord and an arc, so it is the sector with the triangle at the centre removed.
+
+**How do you find the length of a chord?**
+Use AB = 2r sin(θ/2), from splitting the isosceles triangle in half, or the cosine rule AB² = r² + r² − 2r² cos θ. Both give the same value.
 
 ## Official syllabus
 

@@ -269,6 +269,17 @@ Ignoring external factors risks being caught out by tax or interest changes, fal
 - Giving only advantages of ethical or green behaviour, with no cost or conflict.
 - Concluding without a judgement on impact and importance for named stakeholders.
 
+## Frequently asked questions
+
+**Which businesses are hit hardest in a slump?**
+Businesses selling luxuries or durable goods, such as cars, holidays and construction, usually suffer most in a slump because customers can delay these purchases. Highly indebted firms and those with high fixed costs also suffer more, while sellers of necessities or low-priced goods may even gain.
+
+**What is a subsidy and how does it affect a business?**
+A subsidy is money paid by government to a business or industry to lower its costs or encourage an activity. By reducing costs, it can lower a firm's break-even output or allow it to cut prices.
+
+**What does sustainability mean in OCR A Level Business?**
+Sustainability means using resources so that today's needs are met while future generations can still meet theirs. In OCR A Level Business (H431) you evaluate sustainable actions by weighing their cost against savings, brand effects and stakeholder reactions.
+
 ## Official syllabus
 
-OCR, *Cambridge OCR Level 3 Advanced GCE in Business (H431) Specification*, Version 2.1 (January 2026), Area of Study: External influences.
+OCR, *OCR Level 3 Advanced GCE in Business (H431) Specification*, Version 2.1 (January 2026), Area of Study: External influences.

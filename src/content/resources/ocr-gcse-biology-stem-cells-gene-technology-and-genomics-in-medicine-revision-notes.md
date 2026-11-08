@@ -228,6 +228,20 @@ Allele Z raises the lifetime risk of a disease from 8% to 40%. In a group of 500
 - Quoting a percentage without saying which group it refers to.
 - Giving an ethical view without explaining the reason behind it.
 
+## Frequently asked questions
+
+**What are the risks of using stem cells in medicine?**
+Risks include tumours if cells keep dividing, viruses passing from donor material to the recipient, cells not differentiating or working as intended, and rejection. Using embryonic stem cells also destroys an embryo, which some people object to.
+
+**How is human insulin made using gene technology?**
+The human gene for insulin is put into bacteria, which are grown in large fermenters and make human insulin. The insulin is then collected and purified for people with diabetes.
+
+**What are targeted drugs based on the genome?**
+Patients differ in their alleles, so they respond differently to drugs. A genetic test can show who is likely to benefit, so doctors can choose the right drug and dose, giving fewer wasted treatments and fewer side effects.
+
+**Why are changes to eggs, sperm or embryos ethically different from somatic gene therapy?**
+Somatic changes affect only the patient. Changes in eggs, sperm or embryos would be inherited, and the future person cannot consent.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Statements B6.3v, B6.3w and B6.3x.

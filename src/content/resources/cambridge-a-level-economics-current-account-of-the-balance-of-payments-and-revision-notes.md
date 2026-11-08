@@ -239,6 +239,23 @@ Import price 50 cu, 300 units: payment to foreign suppliers 15,000. A 10% tariff
 - Giving a conclusion that repeats the points and states no judgement.
 - Mixing up primary and secondary income.
 
+## Frequently asked questions
+
+**What are the four components of the current account?**
+The current account records trade in goods, trade in services, primary income and secondary income. Primary income is income from employment and investment, and secondary income is transfers with nothing given in return.
+
+**How do you calculate the current account balance?**
+Find credits minus debits for goods, services, primary income and secondary income, keeping the signs, then add the four balances. Label the result a deficit or surplus and give the unit.
+
+**What is the difference between a current account deficit and debt?**
+A deficit is a flow over one period, while debt is a stock. Describing a deficit as a debt is a common error.
+
+**Why might a tariff fail to improve the current account?**
+Its effect depends on how price elastic the demand for imports is, and trading partners may retaliate. A tariff also raises prices for consumers, so protection is not a free fix.
+
+**How do you work out the change in imports when income rises?**
+Multiply the income elasticity of demand for imports by the percentage change in income to get the percentage change in imports, then apply it to the base value of imports.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, sections 6.3 and 6.5 (Cambridge University Press & Assessment).

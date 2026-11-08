@@ -253,6 +253,20 @@ These tests are qualitative: they tell you whether a molecule is present, not ho
 - Naming lipids as a polymer of fatty acids only; glycerol is also needed.
 - Leaving out units, or giving rates without "per minute".
 
+## Frequently asked questions
+
+**How much ATP does aerobic respiration make compared with anaerobic respiration?**
+Aerobic respiration gives a large yield, about 30 ATP per glucose, while anaerobic respiration gives only 2 ATP per glucose. The exact figures vary between sources, but the key point is much more against much less.
+
+**What is the difference between a monomer and a polymer?**
+A monomer is one small unit and a polymer is a long chain of many repeating monomers. Glucose is the monomer of starch, glycogen and cellulose, and amino acids are the monomers of proteins.
+
+**How many water molecules are released when a polymer is made?**
+One water molecule is released at each join, and a chain of n monomers has n − 1 joins. A starch chain of 500 glucose units therefore releases 499 water molecules.
+
+**Why do muscles respire anaerobically during a sprint?**
+Oxygen is delivered too slowly to meet demand, so glucose is broken down without oxygen. This is quick but gives only 2 ATP per glucose and makes lactic acid.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Suite Biology A (J247)*, Version 4.0 (August 2026), first assessment 2018, topic B1.3 Respiration.

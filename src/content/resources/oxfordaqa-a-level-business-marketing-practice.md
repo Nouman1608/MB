@@ -13,13 +13,13 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "marketing-oxfordaqa-alevel-business"
-description: "Original practice paper in the section layout of the 9625 International AS Unit 1 paper (Sections A, B and C of 17, 27 and 36 marks), all on Topic 2 Marketing, with worked answers on marketing objectives, research, segmentation-targeting-positioning and the 7Ps marketing mix; the different 9725 layout and 4Ps mix are flagged."
+description: "Original OxfordAQA International AS Business marketing practice paper in the 9625 Unit 1 layout, with worked answers and notes on how the 9725 paper differs."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-05
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions:
@@ -89,7 +89,7 @@ Answer **all** questions.
 
 Answer **all** questions.
 
-**12.** A business estimates that the price elasticity of demand for its best-selling product is −0.4. Evaluate whether it should raise the product's price. **[12]**
+**12.** A business estimates that the price elasticity of demand for its best-selling product is −0.3. Evaluate whether it should raise the product's price. **[12]**
 
 **13.** Evaluate the extent to which digital marketing and social media have changed the effectiveness of the marketing mix for a business entering an international market. **[12]**
 
@@ -132,7 +132,7 @@ Marlbridge's own guide, not OxfordAQA's published mark scheme:
 - **Level 3 (7–9 marks):** developed analysis of both sides, applied to the context.
 - **Level 4 (10–12 marks):** balanced analysis leading to a supported judgement that explains what the answer depends on.
 
-**Indicative content for 12:** *interpreting the data* — a PED of −0.4 means demand is **price inelastic**, since the coefficient's magnitude is less than 1: a 10% price rise would reduce quantity demanded by about 4%, so **total revenue (price × quantity) would rise**. *For raising the price* — revenue rises and, because fewer units are made and sold, total costs may fall, so profit is likely to rise; the product's inelastic demand suggests loyal customers or few close substitutes. *Against* — PED is an estimate and **not fixed**: it can change as **competitors respond, substitutes emerge, or the product becomes less of a necessity**, and it may only hold for small price changes; a higher price may damage brand image or customer goodwill, encourage rivals to undercut, or lose customers over time even if the short-run figure is inelastic. *Judgement* — a price rise is likely to raise revenue in the short run, but the decision depends on how reliable the PED estimate is, how competitors react, and whether the higher price fits the rest of the marketing mix and the product's position.
+**Indicative content for 12:** *interpreting the data* — a PED of −0.3 means demand is **price inelastic**, since the coefficient's magnitude is less than 1: a 10% price rise would reduce quantity demanded by about 3%, so **total revenue (price × quantity) would rise**. *For raising the price* — revenue rises and, because fewer units are made and sold, total costs may fall, so profit is likely to rise; the product's inelastic demand suggests loyal customers or few close substitutes. *Against* — PED is an estimate and **not fixed**: it can change as **competitors respond, substitutes emerge, or the product becomes less of a necessity**, and it may only hold for small price changes; a higher price may damage brand image or customer goodwill, encourage rivals to undercut, or lose customers over time even if the short-run figure is inelastic. *Judgement* — a price rise is likely to raise revenue in the short run, but the decision depends on how reliable the PED estimate is, how competitors react, and whether the higher price fits the rest of the marketing mix and the product's position.
 
 **Indicative content for 13:** *case that digital marketing and social media have significantly changed the mix's effectiveness* — technology is an explicit influence on marketing planning in this specification, including **digital marketing and the use of social media, relationship marketing, dynamic pricing, e-commerce and m-commerce**; these channels allow a business entering an international market to **reach and research target segments directly and cheaply**, without the fixed costs of establishing physical distribution or traditional advertising in each new market; online data supports more **precise segmentation, targeting and positioning**. *Case for limited change* — the **underlying logic of the marketing mix — an integrated mix matched to a targeted segment — is unchanged**, and digital tools are new channels within promotion and place rather than a replacement for segmentation, targeting and positioning; the **difficulties of targeting international markets persist** regardless of channel, including cultural differences, language and varying regulation; for products needing physical distribution or high-touch service, traditional elements of the mix remain decisive. *Judgement* — digital marketing and social media have **substantially lowered the cost and difficulty of reaching international segments**, but they extend rather than replace the marketing mix framework; how much they change effectiveness depends on the product, the target market's internet use and the business's resources.
 
@@ -147,3 +147,14 @@ Marlbridge's own guide, not OxfordAQA's published mark scheme:
 - Stating whether demand is elastic or inelastic without linking it to the resulting change in total revenue.
 - Naming a Boston Matrix category without pairing it with a matching investment or marketing strategy.
 - Giving a one-sided evaluation of digital marketing's impact without weighing it against what the marketing mix framework still requires.
+
+## Frequently asked questions
+
+**How is the OxfordAQA 9625 International AS Unit 1 paper structured?**
+The 9625 Unit 1: Business and markets paper is a 1 hour 30 minute written exam worth 80 marks. It has three compulsory sections: Section A with multiple choice, short answer and data response questions worth about 17 marks, Section B with extended responses worth about 27 marks, and Section C with extended responses worth about 36 marks.
+
+**How is the 9725 Unit 1 paper different?**
+The 9725 Unit 1 paper lasts 1 hour 15 minutes and is worth 60 marks, in four sections: short answer (10 marks), calculation (10 marks), and two extended response sections worth 16 and 24 marks. 9725 also uses a 4Ps marketing mix rather than 9625's 7 elements.
+
+**How are the 12-mark evaluation questions marked in this practice paper?**
+They are marked as whole answers against levels, with the top level needing balanced analysis that leads to a supported judgement explaining what the answer depends on. These level descriptors are Marlbridge's own guide, not OxfordAQA's published mark scheme.

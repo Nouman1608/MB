@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "classification-of-businesses"
 description: "Original exam-style practice questions with full worked answers on business activity, sectors, added value, stakeholders and enterprise."
 author: "asif-iqbal"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -111,3 +111,17 @@ Related: [Business Activity and Classification revision notes](/resources/busine
 - Writing a one-sided answer to a "consider... justify your answer" question — a justified conclusion is required.
 - Describing specialisation without mentioning the resulting interdependence.
 - Confusing the public sector with a public good, or the private sector with privatisation.
+
+## Frequently asked questions
+
+**Is added value the same as profit?**
+No. Added value is the difference between the selling price and the cost of bought-in inputs. Profit also takes off all the other costs of running the business, such as rent and wages, so defining added value as profit loses marks.
+
+**How do I answer a "consider... justify your answer" question?**
+Give arguments for and against, then reach a justified judgement, for example saying what the answer depends on. A one-sided answer cannot gain the judgement marks.
+
+**What should I include when a question asks about stakeholders?**
+Name each stakeholder and state its objective, such as customers wanting low prices and good quality. Listing stakeholders without their objectives earns little.
+
+**What is the difference between the public sector and a public limited company?**
+The public sector is owned and controlled by the government. A public limited company is a privately owned business whose shares can be sold to the public, so it is in the private sector.

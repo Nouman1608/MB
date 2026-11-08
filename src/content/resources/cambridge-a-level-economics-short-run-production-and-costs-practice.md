@@ -155,6 +155,20 @@ These questions cover sections 7.5.1 and 7.5.2 of the Cambridge International AS
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What should you divide by when calculating average product and average costs?**
+Average and marginal product are per worker, so divide by the quantity of the variable factor. Average fixed, variable and total cost are per unit of output, so divide by output; using the wrong base is one of the most common lost marks.
+
+**How do you calculate marginal cost from a cost table?**
+Marginal cost is the change in total cost divided by the change in output. Dividing total cost by output gives average total cost, not marginal cost.
+
+**Does a rise in fixed costs shift the marginal cost curve?**
+No. A rise in fixed costs, such as rent, raises total cost and average total cost but leaves marginal cost and average variable cost unchanged, because marginal cost depends only on the extra cost of extra output.
+
+**How do you support a conclusion in a short-run costs question in Cambridge 9708?**
+Use figures from the data. For example, explain where average variable cost is lowest by comparing marginal cost with average variable cost, and avoid rounding too early when calculating percentage changes.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, sections 7.5.1 and 7.5.2.

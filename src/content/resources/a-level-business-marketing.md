@@ -13,13 +13,13 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "marketing-as-cambridge-alevel-business"
-description: "Market orientation, segmentation and demand/supply, primary and secondary market research, and the 4Ps of the marketing mix including product portfolio analysis and the Boston Matrix -- the full AS Level content of Topic 3 Marketing for Cambridge International AS & A Level Business 9609."
+description: "Study guide to Topic 3 Marketing in Cambridge AS & A Level Business 9609: market orientation, segmentation, research and the 4Ps with the Boston Matrix."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Topic 3 **Marketing** is AS Level content in Cambridge International
@@ -192,6 +192,23 @@ examples (a survey a business commissions itself, versus government
 trade statistics it already has access to) rather than abstract
 definitions, since scenario questions test whether you can identify
 which type of research a business used, not just define the terms.
+
+## Frequently asked questions
+
+**What is the difference between product orientation and market orientation?**
+Product orientation starts from what the business can make, while customer or market orientation starts from what customers want.
+
+**What is the difference between B2C and B2B marketing?**
+B2C marketing is business to consumer and B2B is business to business. Cambridge 9609 expects you to explain how marketing differs between consumer and industrial markets.
+
+**What do you need to know about customer relationship marketing?**
+Cambridge 9609 expects you to know the aims of customer relationship marketing (CRM) and to weigh its costs against its benefits to a business.
+
+**Is marketing studied again at A Level in Cambridge 9609?**
+Yes. Topic 8 (Marketing) at A Level covers marketing analysis and marketing strategy, building on the AS Level content of Topic 3 rather than repeating it.
+
+**What does the place element of the marketing mix cover?**
+Place covers channels of distribution: the objectives and usefulness of different distribution channels, both digital and physical.
 
 ## Official syllabus
 

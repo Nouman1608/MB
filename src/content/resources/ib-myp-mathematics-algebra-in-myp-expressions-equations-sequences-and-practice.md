@@ -133,6 +133,20 @@ These questions cover the Algebra rows of the numerical and abstract reasoning b
 - Using the nth power instead of the (n − 1)th in a geometric term.
 - Stopping a trace table one pass early or late.
 
+## Frequently asked questions
+
+**Is a pattern that fits the first few terms proven?**
+No. Checking a few terms only verifies a rule; a proof needs a general argument in terms of n that works for every term. Treating a pattern that fits a few terms as proven is a common weakness in IB MYP Mathematics work.
+
+**Why should you define the unknown before solving a word problem?**
+Writing "let h be the number of hours" and then the equation shows your reasoning clearly. Not defining the unknown, or not writing the equation before solving it, makes the method hard to follow and the communication weaker.
+
+**What should you check after solving an equation in context?**
+Check that the answer makes sense in the story. Reject impossible values, such as a negative width or a term number that is not a whole number, and state why.
+
+**What is a trace table used for?**
+A trace table records the value of each variable after every pass through an algorithm or flowchart. Stopping the table one pass early or late gives the wrong output, so test the stopping condition each time.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and-revision-notes/) for the methods you missed.

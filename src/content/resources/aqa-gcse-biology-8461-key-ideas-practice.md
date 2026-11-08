@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "key-ideas-aqa-gcse-biology"
 description: "Twelve original linked questions on the AQA GCSE Biology 8461 key ideas, from enzymes and exchange to cycling and evolution, with marked answers."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -156,6 +156,20 @@ Learn the ideas first in the [study guide](/resources/aqa-gcse-biology-8461-key-
 - [Printable checklist](/checklists/aqa/gcse/biology/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**What does section 4.8 Key ideas of AQA GCSE Biology 8461 cover?**
+It lists nine key ideas that run through the whole course, such as structure and function of molecules, exchange, photosynthesis, cycling and evolution. These questions link facts from two or more topics.
+
+**How should you write a linked answer?**
+Join the ideas with words such as "so" or "because". Not linking two ideas in a linked answer is a common way to lose marks.
+
+**What should a "compare" answer include?**
+Points about both processes or things being compared. "Compare" answers that describe only one process lose marks.
+
+**Should you say energy is made in respiration?**
+No. Energy is transferred, not made.
 
 ## Official syllabus
 

@@ -217,6 +217,20 @@ A plan reduces risk. It does not remove it, because forecasts are estimates.
 - Saying a plan guarantees success or removes risk.
 - Giving an evaluation with no conclusion that weighs the options and reaches a judgement.
 
+## Frequently asked questions
+
+**What are the four elements of the marketing mix?**
+The marketing mix is made up of price, product, promotion and place. A business controls all four, and together they decide whether customers in the target market choose it.
+
+**What should a business plan include?**
+The Edexcel GCSE Business (1BS0) specification lists the business idea, aims and objectives, target market (market research), forecast revenue, cost and profit, a cash-flow forecast, sources of finance, location and the marketing mix.
+
+**Why do businesses write a business plan?**
+The specification gives two purposes: minimising risk and obtaining finance. Lenders and investors want evidence, such as market research and realistic forecasts, that the business can repay.
+
+**What is the difference between profit and cash in a business plan?**
+Profit is revenue minus total cost, while cash flow tracks money actually coming in and going out. A profitable month can still leave the bank balance lower, for example when equipment is bought.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 1: Investigating small business, topic 1.4 Making the business effective, content items 1.4.3 The marketing mix and 1.4.4 Business plans.

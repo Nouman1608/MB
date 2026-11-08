@@ -172,6 +172,20 @@ A mild winter reduces demand by 20% at every price.
 - Find your weak spots with the [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/) if any answer here surprised you.
 
+## Frequently asked questions
+
+**What must a definition of demand include?**
+Demand is the quantity buyers are willing and able to buy at each price over a given period. Leaving out "willing and able", the price or the time period loses marks.
+
+**Does demand rise when the price of a good falls?**
+No. A fall in the good's own price causes an extension of demand, a movement along the curve. "Demand rises" describes a shift of the curve caused by something other than the good's own price.
+
+**How do you find market demand from individual demand?**
+Add the quantities demanded by each buyer at each price, across a row of the table. Adding down a column instead is a common error.
+
+**How do you decide whether a decision is micro or macro in Cambridge O Level Economics 2281?**
+Judge it by scale, not by who makes it. A government decision about one product is microeconomic, while one aimed at the whole economy is macroeconomic.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281 syllabus for examination in 2026 (version 2), published by Cambridge Assessment International Education, part of Cambridge University Press & Assessment. This page covers sections 2.1 to 2.3.

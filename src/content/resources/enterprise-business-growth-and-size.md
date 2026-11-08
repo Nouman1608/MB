@@ -13,13 +13,13 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "understanding-business-activity"
     subtopic: "enterprise-business-growth-and-size"
-description: "Entrepreneurship and business plans, measuring business size, why some businesses grow and others stay small, and why businesses fail, for Cambridge O Level Business Studies 7115."
+description: "Entrepreneurs, business plans, ways to measure business size, why businesses grow or stay small, and why they fail, for Cambridge O Level Business Studies 7115."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-01
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers subtopic **1.3 Enterprise, business growth and size**, from Topic 1, Understanding
@@ -195,6 +195,20 @@ relationships, and their owners often have less business experience to draw on w
 - The methods of measuring business size (employment, output value, capital employed and market share), and why profit is excluded
 - Internal vs external growth, problems of growth, and reasons some businesses stay small
 - Common causes of business failure, and why new businesses are at higher risk
+
+## Frequently asked questions
+
+**Is profit a way of measuring business size in Cambridge O Level Business Studies?**
+No. The 7115 syllabus explicitly excludes profit as a measure of size, because a small business can be highly profitable while a large one makes a loss. Use number of people employed, value of output, capital employed or market share instead.
+
+**What is a business plan and how does it help an entrepreneur?**
+A business plan sets out the business idea, objectives, target market, how it will be financed, and forecasts of costs, revenue and profit. It makes the entrepreneur think the idea through before committing money, is usually required by banks or investors, and gives a benchmark for measuring actual performance.
+
+**How do governments support business start-ups?**
+Common forms of support include grants that do not need to be repaid, training schemes, low-interest start-up loans and advice services. Governments support start-ups because new businesses create jobs and economic activity.
+
+**Why do some businesses choose to stay small?**
+The owner may prefer to keep personal control, the market may be small, such as a niche product or a very local service, or the extra risk and complexity of growth may not be worth it to the owner.
 
 ## Related resources
 

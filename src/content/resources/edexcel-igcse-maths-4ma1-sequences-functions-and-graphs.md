@@ -27,11 +27,11 @@ syllabusTopics:
     subtopic: "calculus-edexcel-igcse-maths"
 description: "Study guide for Edexcel IGCSE Maths A 4MA1 Topic 3: sequences, functions, straight-line and curved graphs, and calculus, with full worked examples."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This study guide covers Topic 3, **Sequences, functions and graphs** (sections 3.1–3.4), of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on that specification. 4MA1 is tiered: Foundation papers 1F and 2F, Higher papers 1H and 2H, and a calculator may be used on all of them. Sections 3.2 (function notation) and 3.4 (calculus) are **Higher tier only**, as are the extra Higher statements in 3.1 and 3.3; the rest is on both tiers, and Higher questions assume the Foundation content.
@@ -361,6 +361,23 @@ The same method solves other practical problems: write the quantity as a functio
 - Joining plotted points on a quadratic with straight lines, or drawing a flat-bottomed "U".
 - Differentiating 16/x as 16 instead of −16/x².
 - Stopping at the x-coordinate of a turning point when the question asks for the coordinates.
+
+## Frequently asked questions
+
+**How do you check whether a number is a term in a sequence?**
+Set the nth term equal to the number and solve for n. For the nth term 6n − 1, 6n − 1 = 95 gives n = 16, so 95 is a term, but 6n − 1 = 200 gives n = 33.5, so 200 is not.
+
+**How do you find an inverse function?**
+Write y = f(x), rearrange to make x the subject, then swap the letters. For f(x) = 3x − 5 this gives f⁻¹(x) = (x + 5)/3; function notation is Higher tier only in Edexcel IGCSE Maths 4MA1.
+
+**What is the period of the graph of y = tan x?**
+y = tan x has period 180°, is zero at 0° and 180°, and has vertical asymptotes at 90° and 270°. The sine and cosine graphs both have period 360°.
+
+**How do you find where a line meets a curve?**
+Set the two expressions for y equal, rearrange to make one side zero and solve. Then substitute each x-value back to find the y-coordinates, because the question usually asks for points.
+
+**How do you estimate the gradient of a curve at a point?**
+Draw the tangent at that point with a ruler, choose two points far apart on the tangent, and divide the change in y by the change in x.
 
 ## Next steps
 

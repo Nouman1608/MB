@@ -308,6 +308,20 @@ For a longer chain, change in steps. Two similar containers have surface areas 1
 
 Work through the [practice questions](/resources/ocr-gcse-mathematics-similarity-and-enlargement-practice/), then use the [revision notes](/resources/ocr-gcse-mathematics-similarity-and-enlargement-revision-notes/) to keep the methods fresh.
 
+## Frequently asked questions
+
+**How do you enlarge a shape from a centre of enlargement?**
+Work out the horizontal and vertical steps from the centre to each vertex, multiply them by the scale factor, and count the new steps from the centre. Counting from the shape instead of the centre is a common error.
+
+**What does a negative scale factor do in an enlargement?**
+The image appears on the opposite side of the centre and is turned through 180°. The size of the number gives the size of the image, so −2 makes it twice as big; negative scale factors are Higher tier only.
+
+**How do you find the centre of an enlargement?**
+Draw straight lines through pairs of matching vertices on the original and the image. The lines meet at the centre of enlargement, and a third line is a useful check.
+
+**How do you find a length from a volume ratio of similar solids?**
+Take the cube root of the volume ratio to get the length ratio, then use the length scale factor. For volumes in the ratio 27 : 64, the lengths are in the ratio 3 : 4.
+
 ## Official syllabus
 
 Aligned to the OCR GCSE (9-1) in Mathematics (J560) specification, Version 2.1, August 2026, published by OCR, for first assessment in 2017. Content references 9.04a (Similar triangles), 9.04b (Enlargement) and 9.04c (Similar shapes).

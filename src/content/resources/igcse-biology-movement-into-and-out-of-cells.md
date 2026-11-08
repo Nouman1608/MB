@@ -19,14 +19,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "movement-into-and-out-of-cells-cambridge-igcse-biology"
     subtopic: "active-transport-cambridge-igcse-biology"
-description: "Diffusion, osmosis and active transport, with the Core and Supplement split marked exactly as the official syllabus states it -- the full content of Topic 3 for Cambridge IGCSE Biology 0610, 2026-2028 series."
+description: "Diffusion, osmosis and active transport, with the Core and Supplement split marked as the syllabus states it, for Topic 3 of Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Topic 3 of Cambridge IGCSE Biology (0610) covers the three ways
@@ -191,6 +191,20 @@ the dialysis-tubing osmosis investigation and how you would measure
 the effect of surface area, temperature or concentration gradient on
 diffusion rate, since practical technique questions on this topic
 appear on the written papers as well as the practical paper.
+
+## Frequently asked questions
+
+**What factors affect the rate of diffusion?**
+The rate of diffusion is affected by surface area, temperature, concentration gradient and distance.
+
+**How are plants supported by water?**
+Plants are supported by the pressure of water inside the cells pressing outwards on the cell wall. This is a Core statement in Cambridge IGCSE Biology 0610.
+
+**How can you investigate osmosis?**
+Osmosis can be investigated with dialysis tubing, which acts as a partially permeable membrane, or by placing plant tissue in solutions of different concentrations and recording changes.
+
+**Why is active transport important for root hair cells?**
+Root hair cells take up mineral ions from the soil, where their concentration is often lower than inside the cell. Active transport moves the ions against the concentration gradient, which is why Supplement candidates cite ion uptake by root hairs as its importance.
 
 ## Official syllabus
 

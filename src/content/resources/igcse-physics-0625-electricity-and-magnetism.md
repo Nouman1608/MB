@@ -30,9 +30,9 @@ syllabusTopics:
     subtopic: "electromagnetic-effects-cambridge-igcse-physics"
 description: "Study guide for Cambridge IGCSE Physics 0625 Topic 4: magnetism, charge, circuits, electrical safety and electromagnetic effects, Core and Extended."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-27
 updatedDate: 2026-09-28
 featured: false
@@ -339,6 +339,20 @@ Extended: Is = 1.5 A  →  Ip = (12 × 1.5) / 230 = 0.078 A
 ## Next steps
 
 Test recall with the [revision notes](/resources/igcse-physics-0625-electricity-and-magnetism-revision-notes/), then try the [Core practice questions](/resources/igcse-physics-electricity-and-magnetism-practice/) and [Extended practice questions](/resources/igcse-physics-electricity-and-magnetism-extended-practice/). Find weak spots with the [0625 Core diagnostic](/practice/0625/diagnostic/core/) or [Extended diagnostic](/practice/0625/diagnostic/extended/). Next topic: [Nuclear physics](/resources/igcse-physics-0625-nuclear-physics/).
+
+## Frequently asked questions
+
+**Is any of the 0625 electrical safety content Extended only?**
+No. All of section 4.4, Electrical safety, is Core content, so every candidate needs it.
+
+**Do I need to memorise the electricity and magnetism equations?**
+Yes. Every equation in this topic is "recall and use", so you must learn them rather than rely on an equation sheet.
+
+**Why does a transformer not work on d.c.?**
+A transformer needs a changing field in its core to induce an e.m.f. in the secondary. Only a.c. in the primary produces that changing field.
+
+**What happens if both the current and the field are reversed in the force-on-a-conductor experiment?**
+The rod rolls the original way. Reversing either the current or the field alone makes it roll the other way.
 
 ## Official syllabus
 

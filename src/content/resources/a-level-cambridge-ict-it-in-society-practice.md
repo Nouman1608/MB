@@ -139,6 +139,20 @@ Learn the content first with the [study guide](/resources/a-level-cambridge-ict-
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Is IT in society an A Level topic in Cambridge 9626?**
+Yes. IT in society is topic 12 of Cambridge International AS & A Level Information Technology (9626) and is A Level only. Paper 3 Advanced Theory questions are based on sections 12 to 21.
+
+**How should you answer a compare question on communication services?**
+Make point-by-point comparisons between the two services, linked to the scenario, rather than describing each one separately. Describing two services in turn when the command word is compare limits the marks.
+
+**What are common mistakes on IT in society questions?**
+Common slips include describing a blockchain as simply encrypted or unhackable, calling debit and credit cards cryptocurrency, mixing up the data understanding and data preparation stages of data mining, and making generic points such as "IT is faster" with no technology or effect named.
+
+**How do you handle extended questions that name several groups?**
+Address every named group or area separately, giving each its own impacts and risks, and end with a conclusion. Ignoring one group or repeating the same point for each adds little credit.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027, version 3 (published July 2025), Cambridge International, part of Cambridge University Press & Assessment. Topic 12, IT in society, sections 12.1–12.5.

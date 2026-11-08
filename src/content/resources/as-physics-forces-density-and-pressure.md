@@ -20,11 +20,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-forces-density-and-pressure"
     subtopic: "as-density-and-pressure"
-description: "Moments, couples and the principle of moments, equilibrium of coplanar forces, and density, pressure and Archimedes' principle, for Cambridge International AS & A Level Physics 9702."
+description: "Moments, couples and torque, equilibrium of coplanar forces, density, hydrostatic pressure and Archimedes' principle: Topic 4 of Cambridge AS Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -185,6 +185,20 @@ forces
 - Density and pressure definitions
 - Deriving and using ∆p = ρg∆h
 - Archimedes' principle, F = ρgV, using displaced fluid volume
+
+## Frequently asked questions
+
+**What are the two conditions for equilibrium?**
+An object is in equilibrium when there is no resultant force and no resultant torque acting on it. Both are needed: zero resultant force alone still allows rotation.
+
+**What is a couple?**
+A couple is a pair of equal, opposite, parallel forces whose lines of action do not coincide. It has no resultant force but a nonzero resultant moment, and its torque is one force multiplied by the perpendicular distance between them.
+
+**What is the formula for hydrostatic pressure?**
+The pressure difference between two depths in a fluid is Δp = ρgΔh, where ρ is the fluid density and Δh the depth difference. It can be derived from the weight of a column of fluid acting over its base area.
+
+**What is Archimedes' principle?**
+Upthrust equals the weight of fluid displaced, F = ρgV, where ρ is the fluid's density and V the volume of fluid displaced. It arises because pressure on the bottom of a submerged object is greater than on its top.
 
 ## Related resources
 

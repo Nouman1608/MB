@@ -346,6 +346,20 @@ Put the sensor in series with a fixed resistor. Whichever has more resistance ge
 - Putting the switch or fuse in the neutral wire.
 - Giving an oscilloscope reading in divisions without multiplying by the Y-gain or timebase.
 
+## Frequently asked questions
+
+**What is a kilowatt-hour?**
+One kilowatt-hour (kW h) is the energy transferred when a 1 kW appliance runs for 1 hour. To find the energy in kW h, multiply the power in kW by the time in hours.
+
+**How do you read voltage and time from an oscilloscope trace?**
+Voltage = number of vertical divisions × Y-gain, and time = number of horizontal divisions × timebase. Giving a reading in divisions without multiplying is a common error.
+
+**What is the difference between a fuse and a trip switch?**
+Both protect a circuit by cutting off the current when it is too large, and both go in the live wire with a rating just above the normal current. Only a trip switch can be reset.
+
+**What must I include when stating Ohm's law?**
+State that the current in a conductor is directly proportional to the p.d. across it, provided the temperature stays constant. Leaving out the temperature condition is a common way to lose the mark.
+
 ## Official syllabus
 
 Cambridge O Level Physics 5054 syllabus for 2026, 2027 and 2028, Cambridge International, Section 4: Electricity and magnetism.

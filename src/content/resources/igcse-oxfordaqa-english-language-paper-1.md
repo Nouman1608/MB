@@ -12,13 +12,19 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-literary-non-fiction-and-composition-9270"
-description: "Literary non-fiction analysis and composition writing, with the full assessment structure (duration, marks, weighting), for OxfordAQA International GCSE English Language (9270) Paper 1."
+  - qualification: "igcse"
+    topic: "paper-1-literary-non-fiction-and-composition-9270"
+    subtopic: "section-a-literary-non-fiction-9270"
+  - qualification: "igcse"
+    topic: "paper-1-literary-non-fiction-and-composition-9270"
+    subtopic: "section-b-composition-9270"
+description: "OxfordAQA International GCSE English Language 9270 Paper 1: literary non-fiction analysis and composition writing, with duration, marks and weighting."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide covers **Paper 1 Literary Non-fiction and Composition**,
@@ -144,6 +150,18 @@ Why:  concrete sensory detail (sound, smell, touch)
 ## Common mistakes
 
 Feature-spotting without explaining effect. Summarising content instead of analysing craft. Treating Section A as if it set two texts to compare, when it is a single text throughout. Describing a whole day rather than one moment. Beginning imaginative writing with no ending planned. Losing register partway through. Using rhetorical questions as filler.
+
+## Frequently asked questions
+
+**How long is OxfordAQA 9270 Paper 1?**
+2 hours for 80 marks and 60% of the International GCSE.
+
+**What is in Section A?**
+A single literary non-fiction text for close study, divided into sections with questions, worth 40 marks.
+
+**What choice is there in Section B?**
+Three composition tasks, from which you choose one: descriptive, imaginative, argumentative and/or discursive (40 marks).
+
 
 ## Quick revision checklist
 

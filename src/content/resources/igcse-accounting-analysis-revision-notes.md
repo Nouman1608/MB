@@ -16,11 +16,11 @@ syllabusTopics:
     topic: "analysis-and-interpretation"
   - qualification: "o-level"
     topic: "analysis-and-interpretation"
-description: "Condensed recall notes on the ten accounting ratios, interpreting them, profit versus cash, inter-business comparison, interested parties and the limitations of accounting statements for Cambridge IGCSE Accounting (0452) Topic 6, 2027-2029 syllabus."
+description: "Quick recall for Cambridge IGCSE Accounting 0452 Topic 6: ten ratios, reading them, profit versus cash, comparing businesses, users and statement limits."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 publishedDate: 2026-09-16
 featured: false
 ---
@@ -288,3 +288,20 @@ credit to allow, by checking liquidity and how quickly the business
 pays its trade payables. 8. Historic cost; the application of
 accounting policies; non-financial aspects (e.g. skill of the
 workforce, location of the business, economic climate).
+
+## Frequently asked questions
+
+**What are the ten accounting ratios in Cambridge IGCSE Accounting 0452?**
+The ten ratios are gross profit margin, mark-up, profit margin, return on capital employed, the current ratio, the acid test ratio, rate of inventory turnover (times), inventory turnover (days), trade receivables turnover (days) and trade payables turnover (days).
+
+**Why can profit and cash be different?**
+Depreciation is an expense with no cash payment, buying non-current assets uses cash but is not an expense, and changes in inventory, receivables and payables move cash without changing profit. Loans, capital introduced, drawings and dividends also affect cash but not profit.
+
+**What does a fall in profit margin with a steady gross profit margin mean?**
+If the gross profit margin is steady but the profit margin falls, expenses have risen relative to revenue. A falling gross profit margin points instead to selling prices, purchase costs or inventory valuation.
+
+**What are the problems of inter-business comparison?**
+Detailed statements may not be available, the businesses may use different accounting policies or year-end dates, they may not be truly alike, the figures are historic and may include an untypical year, and ratios ignore non-financial aspects.
+
+**Do more inventory days or trade receivables days mean better performance?**
+Usually not. Higher inventory or trade receivables days normally mean goods are selling more slowly or customers are paying more slowly, which ties up cash in working capital.

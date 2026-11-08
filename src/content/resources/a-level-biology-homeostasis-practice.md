@@ -13,14 +13,14 @@ order: 14
 syllabusTopics:
   - qualification: "a-level"
     topic: "homeostasis-cambridge-alevel-biology"
-description: "Original exam-style questions with full worked answers on osmoreceptors and ADH, percentage change in urine flow, aquaporins in the collecting duct, negative feedback and glucagon, glucose test strips and biosensors, and abscisic acid and stomatal closure, for Cambridge International AS & A Level Biology (9700)."
+description: "Original Cambridge 9700 questions with worked answers on ADH and aquaporins, urine flow, glucagon and negative feedback, biosensors and ABA in stomata."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -107,3 +107,17 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 - Describing a data trend when the command word is "explain".
 - Saying water is "absorbed" without saying more water is reabsorbed into the blood.
 - Naming homeostasis when the question asks for the mechanism (negative feedback).
+
+## Frequently asked questions
+
+**Should you write "water level" in homeostasis answers?**
+No. Use "water potential" of the blood. Writing "water level" or "water concentration" is a common way to lose marks in Cambridge 9700 answers.
+
+**How do you calculate a percentage change correctly?**
+Divide the change by the starting value, not the final value, then multiply by 100.
+
+**What is the difference between "describe" and "explain" for data questions?**
+"Describe" asks you to state the trend in the data; "explain" asks for the biological reasons behind it. Describing a trend when the command word is "explain" does not earn the marks.
+
+**Is "homeostasis" enough when a question asks for the mechanism?**
+No. Name the mechanism, such as negative feedback, rather than just the general term homeostasis.

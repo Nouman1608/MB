@@ -318,6 +318,20 @@ spot 2: Rf = 5.6 / 8.0 = 0.70  → blue
 
 After the [revision notes](/resources/edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures-revision-notes/) and [practice questions](/resources/edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures-practice/) for this unit, try the [Principles of chemistry practice set](/resources/igcse-edexcel-chemistry-principles-practice/) and the [formulae, equations and calculations practice set](/resources/edexcel-igcse-chemistry-4ch1-formulae-equations-calculations-practice/).
 
+## Frequently asked questions
+
+**What is the difference between an element, a compound and a mixture?**
+An element contains only one type of atom, a compound contains two or more elements chemically combined in fixed proportions, and a mixture contains two or more substances not chemically combined. Mixtures can be separated by physical methods, while compounds need a chemical reaction to split them.
+
+**Why does the temperature stay constant while a pure substance melts?**
+The energy supplied is used to overcome the forces between particles rather than to raise the temperature. This is why a pure substance has a fixed melting point and boiling point.
+
+**How do you calculate the mass of crystals formed when a solution cools?**
+Read the solubility at the start and end temperatures, subtract to get the mass of crystals per 100 g of water, then scale by the actual mass of water. Solubility curves are Paper 2 only in Edexcel International GCSE Chemistry (4CH1).
+
+**Why is the chromatography baseline drawn in pencil?**
+Pencil does not dissolve in the solvent, whereas ink would dissolve and run up the paper with the samples. The solvent level must also start below the baseline so the spots do not dissolve into it.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Chemistry (4CH1) specification, Issue 3, September 2024, Pearson Education Limited. Topic 1 Principles of chemistry, sub-topics (a) States of matter and (b) Elements, compounds and mixtures, points 1.1–1.13.

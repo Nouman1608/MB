@@ -274,6 +274,23 @@ Suppose the boundary becomes K² + C² = 12,100. Then point c at (60, 80) become
 - Claiming that all boundary points are allocatively efficient.
 - Writing "scarcity means shortage" when it is a permanent condition.
 
+## Frequently asked questions
+
+**Why is economics called a social science?**
+Economics studies how households, firms and governments behave when resources are scarce. Like natural sciences it builds models and tests hypotheses, but human behaviour responds to incentives and controlled experiments are rarely possible.
+
+**What is the fundamental economic problem?**
+Scarcity, which results from limited resources and unlimited wants. It is a permanent condition, not the same as a temporary shortage.
+
+**What is opportunity cost?**
+Opportunity cost is the best alternative given up when a choice is made, not the sum of all alternatives forgone and not just the money cost.
+
+**Is the environment a scarce resource?**
+Yes. AQA A-level Economics treats clean air, water, forests and a stable climate as limited resources.
+
+**What is the difference between productive and allocative efficiency?**
+Productive efficiency means resources are used fully and at lowest cost, as at any point on the boundary. Allocative efficiency means output matches what society values most.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification, version 1.3 (29 June 2022), published by AQA. The content is the A-level sub-section Economic methodology and the economic problem (3.1.1 on the AQA website, 4.1.1 in the combined PDF).

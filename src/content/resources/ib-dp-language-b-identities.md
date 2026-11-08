@@ -12,13 +12,13 @@ order: 4
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-b-identities"
-description: "The nature of the self and what it means to be human -- lifestyles, health and well-being, beliefs, subcultures, and language and identity -- one of five compulsory themes of IB Diploma Programme Language B, first assessment 2020, examined through unseen material on Paper 2."
+description: "The Identities theme of IB DP Language B: lifestyles, health, beliefs, subcultures and language and identity, and how it appears in unseen Paper 2 texts."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide covers **Identities**, one of five compulsory themes for
@@ -42,9 +42,9 @@ comprehension for the exam's unseen material.
 
 Explores the nature of the self and what it means to be human.
 Recommended topics include lifestyles, health and well-being, beliefs
-and values, subcultures, and language and identity. The theme's
-guiding question -- how do language and culture contribute to forming
-an identity? -- is a useful lens to apply to any Identities text,
+and values, subcultures, and language and identity. One of the
+possible questions the IB lists for the theme -- how do language and
+culture contribute to forming an identity? -- is a useful key question to apply to any Identities text,
 whether written, audio, visual or audio-visual, rather than a fixed
 list of facts to memorise.
 
@@ -60,12 +60,12 @@ Identities fluently in speaking practice but has not built
 comprehension vocabulary for it separately is only prepared for half
 of what the exam actually tests.
 
-## Worked example: applying the guiding question to an unseen text
+## Worked example: applying the key question to an unseen text
 
 An unseen reading passage discusses how a community's traditional
 dress has changed across generations. The surface content simply
 describes changes in traditional dress over time. Applying the theme's
-guiding question means asking how the described change in dress
+key question means asking how the described change in dress
 reflects a shift in how the community's identity is expressed or
 understood across generations. The comprehension skill actually being
 tested is connecting a specific detail in the passage -- what changed,
@@ -118,7 +118,7 @@ spoken and written responses.
 ## Common exam pitfalls
 
 Discussing surface content of an Identities text without connecting
-it back to the theme's guiding question about language, culture and
+it back to the theme's key question about language, culture and
 identity formation is the most common gap -- a summary of what a
 passage says is not, on its own, an answer to a comprehension question
 that expects the broader theme applied. Assuming familiarity with a
@@ -141,7 +141,7 @@ named exam section -- it is one of the five themes Paper 2's unseen
 material can be drawn from, and one of several possible sources for
 Paper 1's writing task and the individual oral's stimulus. Preparation
 is most effective when it builds transferable comprehension and
-production fluency around the theme's vocabulary and guiding question,
+production fluency around the theme's vocabulary and key question,
 rather than treating Identities as a fixed block of content to recall
 verbatim.
 
@@ -156,6 +156,17 @@ works connects to the Identities theme, since the individual oral
 stimulus is drawn from one of them. Treat Identities as a lens applied
 fluently to unfamiliar material, rather than a fixed block of content
 to recall verbatim.
+
+## Frequently asked questions
+
+**What text types suit an Identities writing task?**
+Personal text types such as a blog post, diary entry or letter to a friend often suit Identities, but the syllabus does not fix the text type; it is set in each session's exam instructions, and register is assessed alongside content.
+
+**Is Identities a separate section of the IB Language B exam?**
+No. Like the other four themes, Identities is not a named exam section; it is one possible source for Paper 2's unseen texts, the Paper 1 writing task and the oral stimulus.
+
+**Why does culture matter when discussing identity?**
+Family structure, social expectations and the language used to discuss identity vary between cultures. Paying attention to how identity is discussed in your target-language culture strengthens both comprehension and your own responses.
 
 ## Official syllabus
 

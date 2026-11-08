@@ -161,6 +161,23 @@ Each member researches a different aspect, such as a different perspective, and 
 
 Practise the skills with the [practice questions](/resources/igcse-global-perspectives-0457-development-trade-and-aid-practice/), then review the [Written Exam guide](/resources/igcse-cambridge-global-perspectives-written-exam/) and the [Written Exam revision notes](/resources/global-perspectives-revision-notes/). Related topics that overlap with this one are [Globalisation](/resources/igcse-global-perspectives-0457-globalisation/) and [Poverty and inequality](/resources/igcse-global-perspectives-0457-poverty-and-inequality/).
 
+## Frequently asked questions
+
+**What is the difference between bilateral and multilateral aid?**
+Bilateral aid goes from one government to another, while multilateral aid goes through international organisations. Both are forms of money, goods or expertise given or lent to another country.
+
+**What are remittances?**
+Remittances are money sent home by people working in another country. They are one way development can be funded besides aid and trade.
+
+**What is a tariff?**
+A tariff is a tax on imports. Removing tariffs can make exports cheaper and bring more orders, but it can also put pressure on working conditions.
+
+**What is the 0.7% target for aid?**
+It is a target for official development assistance as a share of gross national income (GNI), which comes from a 1970 UN General Assembly resolution. The UK, for example, cut its aid from 0.7% to 0.5% of GNI in 2021.
+
+**What are good Team Project ideas on development, trade and aid?**
+A team might run a campaign on fair trade products among students, help a local small producer reach more buyers, or research where the school buys uniforms or food and present a proposal. The action must have a measurable result.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Your teacher will confirm which topics your class uses for each component.

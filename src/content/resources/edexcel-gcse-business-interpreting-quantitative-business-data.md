@@ -220,6 +220,20 @@ Cawood's sales grew 4%, which looks healthy, but the market grew 20%, so its sha
 - Calling a survey result a fact about all customers.
 - Listing limitations with no link to the business in the question.
 
+## Frequently asked questions
+
+**How do you read a pie chart in a business exam?**
+A sector's share is its angle divided by 360, as a percentage. A 90° sector of £72,000 revenue is 25%, or £18,000.
+
+**Why should you check the axis of a bar chart?**
+If the vertical axis does not start at zero, small gaps between bars can look much larger than they are. Read the title, axis labels and units before reading any values.
+
+**What level of maths is needed for Edexcel GCSE Business?**
+The 1BS0 specification says the minimum level of mathematics in the papers is equivalent to Key Stage 3, and quantitative questions are always set in a business context.
+
+**How should you use data in an answer?**
+Quote the figure from the case, work out what it means, such as a change, a share or a ratio, and then say what the business should do or what it risks.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2, Topic 2.4 Making financial decisions, item 2.4.2. Appendix 1 (command words), Appendix 2 (quantitative skills) and Appendix 3 (formulae) are used where noted.

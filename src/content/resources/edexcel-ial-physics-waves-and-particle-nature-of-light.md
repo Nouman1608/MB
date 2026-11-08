@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-waves-and-electricity"
     subtopic: "waves-and-particle-nature-of-light"
-description: "Wave properties, standing waves, refraction, diffraction, the photoelectric effect and atomic line spectra for sub-topic 2.3 of Pearson Edexcel International A Level Physics (YPH11), Unit 2."
+description: "Wave properties, standing waves, refraction, diffraction, the photoelectric effect and line spectra: sub-topic 2.3 of Edexcel IAL Physics (YPH11), Unit 2."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -215,6 +215,20 @@ intensity. Treating de Broglie wavelength as applicable only to electrons
 - Use E = hf and hf = φ + ½mv²max for the photoelectric effect, and explain its significance for wave-particle duality.
 - Explain atomic line spectra in terms of energy-level transitions.
 
+## Frequently asked questions
+
+**How is Unit 2 assessed in Edexcel IAL Physics?**
+Unit 2, Waves and Electricity, is a compulsory, externally assessed unit examined by a 1 hour 30 minute paper worth 80 marks.
+
+**Does the de Broglie equation apply only to electrons?**
+No. The relationship λ = h/p applies to any particle with momentum. Electron diffraction is simply the evidence the specification uses for the wave nature of particles.
+
+**When can total internal reflection occur?**
+Only when light travels from a denser to a less dense medium, and only when the angle of incidence is beyond the critical angle, where sin C = 1/n.
+
+**What limits the information from a pulse-echo technique?**
+The amount of information obtained is limited by the wavelength of the radiation or the duration of the pulses used.
+
 ## Related resources
 
 - [Unit 2: Electric Circuits](/resources/edexcel-ial-physics-electric-circuits/) — the next sub-topic, completing Unit 2
@@ -230,4 +244,3 @@ detail.*
   <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--01-aphy-waves-phase.webp" width="900" height="1060" alt="A sound wave of 250 Hz and wavelength 1.36 m is drawn as a displacement-distance graph with points A to D. A and B are 0.34 m apart (quarter cycle, 90 degrees), A and C 0.68 m (half cycle, antiphase), A and D 1.36 m (one cycle, in phase). A second graph of displacement against time gives the period 4.0 ms." loading="lazy">
   <figcaption>Phase difference is x/wavelength of a cycle; the distance graph gives wavelength, the time graph gives period.</figcaption>
 </figure>
-

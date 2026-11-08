@@ -9,13 +9,13 @@ qualifications: ["gcse"]
 syllabusCodes: ["8702"]
 syllabusSeries: "For first teaching 2015"
 order: 3
-description: "Paper-by-paper exam preparation for AQA GCSE English Literature 8702 -- why Paper 2's unequal weighting changes revision priority, closed-book quotation strategy, a worked extract-to-whole-text answer plan and a checklist."
+description: "Exam preparation for AQA GCSE English Literature 8702: weighting by paper, closed-book quotation strategy, a worked extract-to-whole-text plan and a checklist."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 AQA GCSE English Literature (8702) is assessed through two written papers of **unequal weighting**,
@@ -104,6 +104,18 @@ rushed at the end, where marks are just as available.
   explicitly, rather than analysing each poem separately with no direct comparison made.
 - **On every paper**: support every analytical point with a specific, accurately recalled quotation,
   not a vague paraphrase of what a text "is about."
+
+## Frequently asked questions
+
+**Which 8702 paper is worth more?**
+Paper 2, at 96 marks and 60%, against Paper 1's 64 marks and 40%.
+
+**Are any texts allowed in the exam?**
+No. Both papers are closed book, although extracts and the named anthology poem are printed.
+
+**How many questions do I answer?**
+Two on Paper 1 (Shakespeare and the 19th-century novel) and four on Paper 2 (modern text, anthology comparison and two unseen poetry questions).
+
 
 ## Self-test
 

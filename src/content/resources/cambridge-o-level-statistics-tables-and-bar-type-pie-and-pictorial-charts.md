@@ -233,6 +233,23 @@ Notice what each chart shows. The sectional chart shows that Saturday was the bu
 
 Test yourself on the [practice set](/resources/cambridge-o-level-statistics-tables-and-bar-type-pie-and-pictorial-charts-practice/), then use the [revision notes](/resources/cambridge-o-level-statistics-tables-and-bar-type-pie-and-pictorial-charts-revision-notes/) as a final check. Use the [diagnostics](/diagnostics/) to decide what to revise first.
 
+## Frequently asked questions
+
+**How do you complete a two-way table?**
+Use the row totals, column totals and grand total to find each missing entry by subtraction, then check that the row totals and column totals both add to the same grand total.
+
+**How do you find a percentage from a two-way table?**
+Choose the correct row or column as the base. For example, the percentage of girls who play tennis uses the total number of girls, not the whole club.
+
+**How do you read a frequency from a pie chart?**
+Reverse the angle calculation: frequency = (angle ÷ 360) × total. A 72° sector in a chart of 45 pupils represents 9 pupils.
+
+**Why use a percentage bar chart instead of a sectional bar chart?**
+A percentage bar chart compares proportions when the totals differ. It can show that two groups have the same share of a component, which a sectional bar chart may hide.
+
+**Is the Cambridge O Level Statistics 4040 syllabus tiered?**
+No. The 4040 syllabus applies to all candidates, so sections 2.1 and 2.2 on tables, pictograms, pie charts and bar charts are for everyone.
+
 ## Official syllabus
 
 This page is written against the Cambridge International Education syllabus Cambridge O Level Statistics (4040), version 1, valid for the 2025, 2026 and 2027 examinations. Publisher: Cambridge University Press & Assessment. Sections used: 2.1 and 2.2.

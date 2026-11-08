@@ -12,11 +12,20 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-language-the-individual-and-society-7702"
-description: "Original exam-style practice questions with full worked answers on textual variations, representations, discourse and language methods."
+  - qualification: "a-level"
+    topic: "paper-1-language-the-individual-and-society-7702"
+    subtopic: "section-a-textual-variations-and-representations-7702"
+  - qualification: "a-level"
+    topic: "paper-1-language-the-individual-and-society-7702"
+    subtopic: "methods-of-language-analysis-3-1-2-7702"
+  - qualification: "a-level"
+    topic: "paper-1-language-the-individual-and-society-7702"
+    subtopic: "section-b-childrens-language-development-7702"
+description: "Original practice with worked answers on textual variations, representation, discourse and analysis methods for AQA A-Level English Language 7702 Paper 1."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -91,3 +100,17 @@ Related: [Paper 1 revision notes](/resources/aqa-english-language-paper-1-revisi
 - Ignoring transitivity, which is often one of the most productive features for representation analysis.
 - Describing advertising language generically rather than analysing effect.
 - Treating mode as simply "spoken or written" rather than a continuum.
+
+## Frequently asked questions
+
+**What sections are in AQA A-level English Language Paper 1?**
+This practice follows Paper 1 of AQA A-level English Language (7702): Section A, Textual Variations and Representations, and Section B, Children's Language Development.
+
+**What is a common mistake in representation questions?**
+Identifying language features without linking them to the representation they create. Transitivity, which shows who acts on whom, is often one of the most revealing features and is frequently ignored.
+
+**How should I write about mode in AQA English Language?**
+Treat mode as a continuum rather than a simple choice between spoken and written. Explain where the text sits on that continuum and how this shapes its language.
+
+**How do I write about advertising language without being generic?**
+Link each feature to the specific advert and its effect on the target audience, rather than listing features that could apply to any advert.

@@ -253,6 +253,20 @@ Brightstitch Cooperative repairs and resells school uniforms and puts its surplu
 - Writing that all stakeholders can be satisfied at once.
 - Ignoring the context: the same decision has different effects in a small firm and a large one.
 
+## Frequently asked questions
+
+**What are typical objectives of public-sector organisations?**
+Public-sector organisations are owned and run by the state or local government, so typical objectives include providing a service to all citizens, staying within budget and meeting service standards, rather than maximising profit.
+
+**What is a social enterprise?**
+A social enterprise trades to meet a social or environmental purpose. It needs revenue to survive, but its surplus is mostly reinvested in that purpose.
+
+**How are objectives turned into targets and budgets?**
+A target breaks an objective into figures for a department, product or period. A budget allocates the money needed to reach that target, so managers have figures they can be held to.
+
+**What is accountability to stakeholders?**
+A business is accountable when it explains and justifies its actions to those affected by them. It matters because the business relies on stakeholders' trust, and annual reports, meetings and consultation are common ways to provide it.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge Assessment International Education), sections 1.4 and 1.5.

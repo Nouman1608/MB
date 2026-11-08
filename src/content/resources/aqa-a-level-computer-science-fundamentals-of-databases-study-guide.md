@@ -12,7 +12,7 @@ order: 10
 syllabusTopics:
   - qualification: "a-level"
     topic: "fundamentals-of-databases"
-description: "Relational databases, entity-relationship models, normalisation to third normal form, SQL, indexing and concurrency for AQA A Level Computer Science."
+description: "AQA A Level Computer Science 7517 section 4.10 databases guide: entity-relationship models, keys, normalisation to 3NF, SQL across tables and concurrent access."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-08
@@ -33,14 +33,18 @@ A **flat-file** database stores everything in one table. It suffers from **data 
 
 An **entity** is a thing about which data is stored (Customer, Product). **Attributes** are its properties. A **relationship** links entities and has a degree: **one-to-one**, **one-to-many** or **many-to-many**. In an entity-relationship (E-R) diagram, entities are boxes and relationships are lines with crow's-foot or numbers showing the many end. A many-to-many relationship, such as Order and Product, cannot be stored directly: it is resolved with a **link table** (here OrderLine) that carries both foreign keys and turns it into two one-to-many relationships.
 
-## Keys and integrity
+The specification also asks you to write **entity descriptions** in the form `Entity1 (Attribute1, Attribute2, ...)`, underlining the attribute or attributes that form the entity identifier, for example Customer (<u>CustomerID</u>, Name, Town).
 
-- A **primary key** uniquely identifies each record. It may be **composite** (two or more fields together).
-- A **candidate key** is any field that could serve as a primary key.
-- A **secondary key** is a field indexed to speed searching on that field but not unique.
-- A **foreign key** is a field in one table that is the primary key of another, which creates the link.
-- **Referential integrity** means every foreign key value matches an existing primary key value, so there are no orphan records. A DBMS enforces it by refusing to delete a customer who still has orders, or by deleting the dependent records too.
-- An **index** is a separate structure that allows a fast lookup of records by a field, at the cost of extra storage and slower inserts and updates.
+## What terms must you define for relational databases?
+
+The specification (4.10.2) lists four terms:
+
+- An **attribute** is a property of an entity, stored as a column (field) of a table.
+- A **primary key** is an attribute that uniquely identifies each record (row) in a table.
+- A **composite primary key** is a primary key made of two or more attributes together, such as (OrderID, ProductID) in an order-line table.
+- A **foreign key** is an attribute in one table that is the primary key of another table, which creates the link between them.
+
+A related idea worth knowing is **referential integrity**: every foreign key value should match an existing primary key value, so there are no orphan records (for example, no order for a customer who does not exist).
 
 ## Normalisation
 
@@ -111,7 +115,9 @@ When several users edit the same record, a **lost update** can occur: two users 
 - **Record locking**: a record being edited is locked so others cannot change it until it is released. It is safe but can reduce performance, and two users each waiting for a lock the other holds is a **deadlock**.
 - **Serialisation**: transactions are arranged so the result is the same as if they were run one at a time.
 - **Timestamp ordering**: each transaction gets a timestamp, and conflicting operations are carried out in timestamp order, with a transaction that would break the order rolled back.
-- **Commit and rollback**: a transaction's changes become permanent on commit, or are undone on rollback if any part fails, so the database is never left half-updated.
+- **Commitment ordering**: transactions are allowed to commit only in an order consistent with the order of their conflicting operations, so the overall result is equivalent to a serial order and no update is lost.
+
+These four methods are the ones named in the specification (4.10.5): record locks, serialisation, timestamp ordering and commitment ordering.
 
 ## Common mistakes
 
@@ -125,6 +131,20 @@ When several users edit the same record, a **lost update** can occur: two users 
 
 When asked to normalise, state the dependency that breaks each normal form before splitting, because the reason earns the marks. In SQL answers, write each clause on its own line, use the table name before a field where two tables share a field name, and finish with a semicolon.
 
+## Frequently asked questions
+
+**Which database terms must I define for AQA 7517?**
+Attribute, primary key, composite primary key and foreign key (specification 4.10.2). You should also explain the concept of a relational database and why databases are normalised.
+
+**How far do I need to normalise?**
+To third normal form. You should know the properties of a relation in 3NF: every non-key attribute depends on the key, the whole key and nothing but the key.
+
+**What SQL do I need?**
+Enough to retrieve, update, insert and delete data from multiple tables, and to define a table with `CREATE TABLE`. Questions are written by hand, so practise on paper.
+
+**How is concurrent access controlled?**
+By record locks, serialisation, timestamp ordering or commitment ordering, which stop the lost update problem when two clients edit the same record.
+
 ## Check your understanding
 
 1. What is a foreign key? *Answer: a field in one table that is the primary key of another, creating a link.*
@@ -134,4 +154,4 @@ When asked to normalise, state the dependency that breaks each normal form befor
 5. Write SQL to list the descriptions of products costing more than 3.00. *Answer: SELECT Description FROM Product WHERE Price > 3.00;*
 6. What happens if `DELETE FROM Customer;` is run? *Answer: every record in Customer is removed.*
 7. Describe the lost update problem. *Answer: two users read the same record, and the second save overwrites the first user's change.*
-8. Explain the purpose of rollback. *Answer: it undoes a partly completed transaction so the database stays consistent.*
+8. Name the four methods in the specification for controlling concurrent access. *Answer: record locks, serialisation, timestamp ordering and commitment ordering.*

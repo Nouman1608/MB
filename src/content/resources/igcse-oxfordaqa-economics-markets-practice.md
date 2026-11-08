@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "how-markets-work-oxfordaqa-igcse-economics"
 description: "Original exam-style practice questions with full worked answers on demand and supply, elasticity, competition and market failure."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -136,3 +136,17 @@ Regulation, any two ways, 2 marks each (1 for the way, 1 for how it protects con
 - Saying elastic demand always means cutting prices raises profit — revenue is not profit.
 - Listing disadvantages of monopoly without any regulatory remedy.
 - Confusing a monopoly (one dominant seller) with an oligopoly (a few large firms).
+
+## Frequently asked questions
+
+**How do you explain the effect of a change on equilibrium price and quantity?**
+Identify which curve moves, state which direction, describe the new equilibrium, and give the effect on both price and quantity. Answering only about price when quantity is also asked for loses marks.
+
+**What happens to quantity when demand and supply both shift?**
+The effect on one of price or quantity can be uncertain, because it depends on which shift is larger. Saying quantity definitely rises when both curves shift is a common mistake.
+
+**Is revenue the same as profit in elasticity questions?**
+No. Elasticity tells you what happens to total revenue when the price changes. Saying that cutting prices with elastic demand always raises profit confuses revenue with profit.
+
+**What is the difference between a monopoly and an oligopoly?**
+A monopoly is a single dominant seller. An oligopoly is a market dominated by a few large firms. Mixing the two up is a common error in OxfordAQA International GCSE Economics (9214) answers.

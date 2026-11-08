@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-m2-mechanics-2-edexcel-alevel-maths"
     subtopic: "m2-kinematics-edexcel-alevel-maths"
-description: "Original practice questions with worked answers on Edexcel IAL Maths M2 vertical motion, projectiles, calculus kinematics and vectors."
+description: "Original practice questions with worked answers on Edexcel IAL Maths M2 vertical motion, projectiles, calculus kinematics and vectors (YMA01)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -158,6 +158,20 @@ Read the [study guide](/resources/edexcel-ial-mathematics-projectiles-vertical-m
 - Reporting displacement when asked for distance, because the turning points were skipped.
 - Forgetting the constant of integration, or fixing it from the wrong condition.
 - Leaving a vector answer without i and j, or giving speed with a minus sign.
+
+## Frequently asked questions
+
+**What sign should g have when up is positive?**
+If upwards is taken as positive, the acceleration due to gravity is −g, for example −9.8 m s⁻². Using +9.8 with up as positive gives the wrong signs throughout.
+
+**How should you give the direction of a projectile on landing?**
+Give the angle together with its reference, such as 30° below the horizontal, found from tan θ = |v_y| ÷ |vₓ|. An angle with no reference direction loses the mark.
+
+**Why is distance travelled different from displacement in calculus kinematics?**
+If the particle turns round, the displacement is only the net change in position. For distance, find the times when v = 0, work out the position at each turning point and add the sizes of each stage.
+
+**Can you use suvat equations when acceleration depends on time?**
+No. The suvat equations only apply to constant acceleration. When acceleration varies with t, differentiate or integrate instead, remembering the constant of integration.
 
 ## Next steps
 

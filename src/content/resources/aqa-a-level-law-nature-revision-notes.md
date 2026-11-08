@@ -12,13 +12,40 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-nature-of-law-and-the-english-legal-system-7162"
-description: "Condensed recall notes on law making, precedent, statutory interpretation, the courts, legal personnel, access to justice, law and society, fault, and law and morality for AQA A Level Law 7162."
+  - qualification: "a-level"
+    topic: "the-nature-of-law-and-the-english-legal-system-7162"
+    subtopic: "nature-of-law-law-and-society-7162"
+  - qualification: "a-level"
+    topic: "the-nature-of-law-and-the-english-legal-system-7162"
+    subtopic: "nature-of-law-law-and-morality-7162"
+  - qualification: "a-level"
+    topic: "the-nature-of-law-and-the-english-legal-system-7162"
+    subtopic: "law-making-parliamentary-law-making-7162"
+  - qualification: "a-level"
+    topic: "the-nature-of-law-and-the-english-legal-system-7162"
+    subtopic: "law-making-delegated-legislation-7162"
+  - qualification: "a-level"
+    topic: "the-nature-of-law-and-the-english-legal-system-7162"
+    subtopic: "law-making-statutory-interpretation-7162"
+  - qualification: "a-level"
+    topic: "the-nature-of-law-and-the-english-legal-system-7162"
+    subtopic: "law-making-judicial-precedent-7162"
+  - qualification: "a-level"
+    topic: "the-nature-of-law-and-the-english-legal-system-7162"
+    subtopic: "the-legal-system-the-criminal-courts-and-lay-people-7162"
+  - qualification: "a-level"
+    topic: "the-nature-of-law-and-the-english-legal-system-7162"
+    subtopic: "the-legal-system-legal-personnel-and-the-judiciary-7162"
+  - qualification: "a-level"
+    topic: "the-nature-of-law-and-the-english-legal-system-7162"
+    subtopic: "the-legal-system-access-to-justice-and-funding-7162"
+description: "Revision notes on law making, precedent, interpretation, courts, legal personnel, access to justice, fault and law and morality for AQA A Level Law 7162."
 author: "marlbridge-academic-team"
-reviewer: "aizaz-raoof-ali"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -118,3 +145,17 @@ Law is enforced by the state; morality by conscience and social pressure. They o
 5. What secures judicial independence, and why does it matter?
 
 **Answers:** 1. The *ratio* is the legal reasoning necessary to the decision and binds lower courts; *obiter dicta* are remarks made by the way and are only persuasive, because only reasoning essential to the outcome carries authority. 2. Devolution, the Human Rights Act and declarations of incompatibility, international treaty obligations, and executive control of the parliamentary timetable — any three. 3. Procedural means the procedure required by the enabling Act was not followed; substantive means the body acted beyond the powers granted to it. 4. The literal rule respects parliamentary supremacy but can defeat Parliament's evident intention, while the purposive approach delivers just outcomes but risks judges legislating. 5. Security of tenure, protected salaries, immunity from being sued for judicial acts, and the separation of powers; it matters because judges must be free to rule against the government without fear.
+
+## Frequently asked questions
+
+**What are the three ways precedent operates in the AQA specification?**
+AQA A Level Law 7162 names following, distinguishing and overruling. Reversing is a different process, where a higher court changes the outcome of the same case on appeal.
+
+**What are the types of delegated legislation?**
+The three types are Orders in Council, statutory instruments and by-laws. Delegated legislation is justified by Parliament's lack of time and expertise, the need for speed in emergencies and local variation.
+
+**How do lay magistrates work?**
+Lay magistrates are unpaid volunteers who sit in threes, advised by a legally qualified clerk. They are cheap and locally knowledgeable but criticised as unrepresentative and inconsistent between benches.
+
+**What did LASPO 2012 change?**
+The Legal Aid, Sentencing and Punishment of Offenders Act 2012 substantially reduced civil legal aid, which raises the standard essay question of whether access to justice has suffered.

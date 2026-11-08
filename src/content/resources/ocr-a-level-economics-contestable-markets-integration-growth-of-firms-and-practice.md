@@ -138,6 +138,23 @@ Read the [study guide](/resources/ocr-a-level-economics-contestable-markets-inte
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Does a contestable market need many firms?**
+No. A perfectly contestable market can contain a single firm, because the credible threat of hit-and-run entry disciplines the incumbent. Saying a contestable market needs many firms is a common error.
+
+**Why are sunk costs important in contestable markets?**
+Sunk costs are spending that cannot be recovered on leaving. If entry requires sunk costs, a hit-and-run entrant may lose money, so the threat of entry becomes a barrier; citing low barriers without mentioning sunk costs misses the key point.
+
+**How do you identify the direction of vertical integration?**
+Backward vertical integration is a move towards suppliers, such as a brewer buying a hop farm, while forward vertical integration is a move towards customers, such as a manufacturer buying shops. State the direction as well as the type.
+
+**How do you calculate whether a fine deters a cartel?**
+Multiply the probability of detection by the fine to find the expected penalty, then compare it with the total gain from colluding. Comparing the gain with the fine alone overstates deterrence.
+
+**Which OCR A Level Economics component covers contestable markets?**
+Contestable markets, integration, growth of firms, regulation, competition policy and interdependence are part of Market structures in Component 1, Microeconomics (H460/01), of the OCR A Level Economics (H460) specification.
+
 ## Official syllabus
 
 OCR, *A Level Economics (H460)* specification, Version 3.0 (June 2026), first assessment 2021. Component 1, Microeconomics (H460/01).

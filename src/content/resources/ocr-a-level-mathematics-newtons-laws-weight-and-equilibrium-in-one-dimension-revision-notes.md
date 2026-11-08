@@ -204,6 +204,20 @@ Use g = 9.8 m s⁻².
 - Omitting a short statement of the model when asked, such as light string or smooth surface.
 - Leaving a negative tension or reaction without noticing that the situation cannot occur.
 
+## Frequently asked questions
+
+**What is the difference between mass and weight?**
+Mass, in kg, stays the same wherever the body is. Weight, in newtons, is W = mg, so it changes with the value of g.
+
+**What do light, inextensible and smooth mean in mechanics?**
+Light means a string has negligible mass, so the tension is the same throughout. Inextensible means its length is fixed, so connected ends share speed and acceleration. Smooth means a surface has no friction.
+
+**What does a normal reaction of zero mean?**
+R = 0 means the surface no longer pushes and the body loses contact with it. In a lift this happens when the downward acceleration reaches g.
+
+**What does a negative tension or reaction in an answer tell you?**
+It means the situation cannot occur under the model, because a string can only pull and a surface can only push. A tension of zero means the string is slack.
+
 ## Official syllabus
 
 OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), first assessment 2018, published by OCR: section 3.03, Forces and Newton's Laws.

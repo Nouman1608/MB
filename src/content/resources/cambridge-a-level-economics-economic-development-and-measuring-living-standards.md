@@ -270,6 +270,20 @@ Compare using the same year, PPP-adjusted income, and several indicators togethe
 - Describing the Kuznets curve as inevitable.
 - Comparing growth rates without the starting levels.
 
+## Frequently asked questions
+
+**Which Cambridge 9708 outcomes does this economic development guide cover?**
+It covers section 11.3, Economic development, outcomes 11.3.1 to 11.3.4 of the Cambridge International AS & A Level Economics 9708 syllabus: classification of economies, monetary, non-monetary and composite indicators, and comparing growth rates and living standards.
+
+**What does the Human Development Index measure?**
+The HDI combines indices for health, education and income, so it is not simply an income measure. Each dimension index is found as the actual value minus the minimum, divided by the maximum minus the minimum, using the limits given.
+
+**What is the Measure of Economic Welfare?**
+The MEW adjusts GDP by adding items such as household production and leisure and subtracting items such as regrettable necessities and environmental damage. It is hard to compare between countries because those items must be valued.
+
+**Why is GDP per capita a limited measure of living standards?**
+It is an average that hides distribution, it misses informal and subsistence output and unpaid work, and it ignores externalities and resource depletion. Exchange-rate swings and differences in price indices and data quality also affect comparisons between countries.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education), section 11.3.

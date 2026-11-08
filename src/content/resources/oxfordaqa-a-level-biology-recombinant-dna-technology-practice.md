@@ -128,6 +128,20 @@ These questions cover section 3.4.10 (Recombinant DNA technology) of the OxfordA
 - Back to the [course hub](/boards/oxfordaqa/a-level/biology/).
 - Book a free trial class: [trial](/trial/).
 
+## Frequently asked questions
+
+**How many fragments does a restriction enzyme produce?**
+A linear DNA molecule cut at n sites gives n + 1 fragments, while a circular plasmid cut at n sites gives n fragments. Check that your fragment sizes add up to the total length.
+
+**How do you calculate transformation efficiency?**
+Scale the colony count up from the volume spread to the whole volume of broth, then divide by the mass of plasmid DNA used, giving colonies per µg. Dividing without scaling up first is a common slip.
+
+**How do you explain the specificity of restriction endonucleases?**
+Explain it through the shape of the active site, which is complementary to one recognition sequence only. Saying the enzyme "recognises" the sequence adds little.
+
+**How do you evaluate the use of recombinant DNA technology?**
+Use the numbers given and weigh ethical, financial and social issues against each other, then state a conclusion and its condition. A one-sided list with no judgement scores poorly.
+
 ## Official syllabus
 
 The OxfordAQA *International AS and A-level Biology (9610)* specification, Version 5.1, for International A-level exams May/June 2018 onwards, published by OxfordAQA.

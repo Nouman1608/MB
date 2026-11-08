@@ -209,6 +209,23 @@ Practise all of this on the [Energetics practice questions](/resources/aqa-a-lev
 </figure>
 
 
+## Frequently asked questions
+
+**What is the definition of standard enthalpy of combustion?**
+It is the enthalpy change when 1 mole of a substance is completely burned in oxygen under standard conditions, with all reactants and products in their standard states. Saying "burned in air" loses the mark.
+
+**Which formula is used for Hess's law with combustion data?**
+With combustion data, ΔH = ΣΔcH⦵(reactants) − ΣΔcH⦵(products), which is the reverse order of the formation-data formula. Multiply each value by its coefficient in the equation.
+
+**Why do mean bond enthalpy values differ from Hess's law values?**
+Mean bond enthalpies are averaged over a range of compounds and apply only to gaseous molecules, so they give an approximate ΔH. Hess's law with formation or combustion data gives a more accurate value for the actual states.
+
+**What is the standard state of water at 298 K?**
+The standard state of water at 298 K is liquid, H₂O(l). Using H₂O(g) in a calculation changes the value of ΔH.
+
+**Is energetics examined at AS in AQA Chemistry 7404?**
+Yes. Section 3.1.4 Energetics is examined in AS Papers 1 and 2 and A-level Papers 1 and 2, and A-level Paper 3 can test any content.
+
 ## Official syllabus
 
 AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and

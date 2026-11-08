@@ -129,6 +129,20 @@ Motivational force = expectancy x instrumentality x valence, so if any one is ze
 
 For exam technique across all four units, see the [9685 exam preparation guide](/resources/oxfordaqa-a-level-psychology-exam-preparation/).
 
+## Frequently asked questions
+
+**What does OxfordAQA 9685 section 3.4.3 cover?**
+It covers group processes and individuals, communication at work, job motivation and satisfaction, and workplace stress, including the job demands-resources model.
+
+**What is Zajonc's drive theory of social facilitation?**
+Zajonc (1965) said the presence of others raises arousal, which makes the dominant, best-learned response more likely. Performance improves on easy or well-learned tasks and worsens on hard or new ones.
+
+**What are Hall's four zones of personal space?**
+Hall (1966) described intimate (up to about 46 cm), personal (about 46 cm to 1.2 m), social (about 1.2 m to 3.7 m) and public (beyond) distances, which vary by culture.
+
+**What is the job demands-resources model?**
+The J D-R model (Demerouti et al., 2001) says job demands lead to exhaustion through a health-impairment process, while job resources support motivation and can buffer the effect of demands.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Psychology (9685) specification, Version 3.1 (International A-level exams May/June 2020 onwards). Section 3.4.3 Applied psychology: Work and the individual; assessed in Unit 4: Approaches and application, Section C.

@@ -228,6 +228,20 @@ Independent variable: one factor (for example, exercise duration). Dependent var
 - Writing "causes" from a correlation without mentioning other variables.
 - Describing atheroma as "fat in the blood" instead of lipid-containing material in the artery wall.
 
+## Frequently asked questions
+
+**How are arteries adapted to their function?**
+Arteries have elastic fibres that stretch and recoil to keep blood moving between beats, collagen that stops the wall bursting, and smooth muscle that can narrow the lumen. They carry blood away from the heart at high pressure.
+
+**What is a myocardial infarction?**
+A myocardial infarction is the death of part of the cardiac muscle. It happens when blood flow through a coronary artery is interrupted, often by a thrombus on an atheroma, so muscle beyond the blockage is deprived of oxygen.
+
+**What is the difference between tissue fluid, plasma and lymph?**
+Plasma is the liquid part of blood inside vessels. Tissue fluid is plasma minus most of the protein, around the cells, and lymph is the excess tissue fluid that has drained into lymph vessels.
+
+**What are the main risk factors for coronary heart disease?**
+The risk factors named are diet, high blood cholesterol, cigarette smoking and high blood pressure. A risk factor raises the chance of the disease but does not guarantee it.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), Version 5.1, for International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards. Published by OxfordAQA.

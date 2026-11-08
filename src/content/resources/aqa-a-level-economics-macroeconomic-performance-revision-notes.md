@@ -16,11 +16,11 @@ syllabusTopics:
   - qualification: "as-level"
     topic: "the-national-economy-in-a-global-context-aqa-aslevel-economics"
     subtopic: "the-measurement-of-macroeconomic-performance-aqa-aslevel-economics"
-description: "Condensed recall notes on government macroeconomic policy objectives, macroeconomic indicators, index numbers and the uses of national income data for AQA A-Level Economics (7136), 3.2.1. AS Economics (7135) has 3.2.1.1-3.2.1.3; uses of national income data (3.2.1.4) is A-level only."
+description: "Revision notes for AQA A-Level Economics (7136) 3.2.1: the four policy objectives and their conflicts, indicators, index numbers and national income data."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -180,6 +180,20 @@ Beyond the four headline objectives, the specification explicitly names balancin
 - Explain what a fall in a price index from 100 to 96 represents.
 - State two underlying features of RPI/CPI you ARE expected to know, without needing their exact construction.
 - (A-level only) State two limitations of national income data as a measure of living standards, and explain why PPP exchange rates are used for international comparisons.
+
+## Frequently asked questions
+
+**What does productivity measure as a macroeconomic indicator?**
+Productivity measures the efficiency of resource use, alongside indicators such as real GDP, CPI, unemployment and the current account.
+
+**What does a fall in a price index from 100 to 96 mean?**
+It means prices have fallen by 4% relative to the base year. Index numbers are relative measures, not absolute values.
+
+**How many policy conflicts should I prepare for AQA 3.2.1?**
+Have two or three prepared, explained conflicts ready, such as growth against the balance of payments and low unemployment against price stability.
+
+**Is the use of national income data in AQA AS Economics?**
+No. 3.2.1.4 Uses of national income data, including its limits as a measure of living standards and the use of PPP exchange rates, is A-level only.
 
 ## Related resources
 

@@ -271,6 +271,23 @@ Worked reminder (Pell Joinery): sales revenue £120,000, cost of sales £78,000,
 - Confusing assets with liabilities, or non-current with current.
 - Giving a percentage with no working, or forgetting the percentage sign.
 
+## Frequently asked questions
+
+**Are formulae given in the AQA GCSE Business exam?**
+No. You are not given formulae in the AQA GCSE Business (8132) exam, so memorise the formulas for profit, profit margins, cash flow and average rate of return.
+
+**Do I need to draw a break-even chart for AQA GCSE Business?**
+No. You need to read and interpret a break-even chart, including the break-even output and margin of safety, but you do not draw one or use the break-even formula.
+
+**How do you calculate average rate of return?**
+Subtract the cost of the investment from the total return, divide by the number of years, then divide by the cost of the investment and multiply by 100.
+
+**Why can a profitable business run out of cash?**
+It may sell on credit, so profit is recorded before customers pay, while it still has to pay suppliers and staff now. Cash and profit are not the same.
+
+**What is the difference between an income statement and a statement of financial position?**
+An income statement shows revenue, costs and profit over a period of time. A statement of financial position shows assets and liabilities on one date, a snapshot in time.
+
 ## Official syllabus
 
 Aligned to AQA GCSE Business (8132), first teaching from September 2017, published by AQA: section 3.6 Finance.

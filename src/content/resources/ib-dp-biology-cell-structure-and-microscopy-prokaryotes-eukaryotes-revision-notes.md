@@ -263,6 +263,20 @@ For each eukaryote, the cytoplasm is compartmentalized, so reactions with differ
 - Saying differentiating cells lose genes, rather than switching genes on and off.
 - Stating evidence for endosymbiosis without linking it to prokaryotes (HL only).
 
+## Frequently asked questions
+
+**What is the difference between resolution and magnification?**
+Magnification is how many times larger the image is than the real object (image size ÷ actual size). Resolution is how well a microscope separates two close points, so more magnification gives no extra detail if resolution is low.
+
+**What three structures are found in all cells?**
+All cells have DNA, which stores genetic information; cytoplasm, mostly water, as the medium for metabolic reactions; and a plasma membrane, which separates the cell from its surroundings.
+
+**What is the difference between 70S and 80S ribosomes?**
+Prokaryotes, mitochondria and chloroplasts have smaller 70S ribosomes; the cytoplasm of eukaryotic cells has larger 80S ribosomes.
+
+**Which prokaryote does the IB DP Biology guide use as its model?**
+The guide asks only for the Gram-positive bacterium model, such as Bacillus or Staphylococcus, with a cell wall, plasma membrane, cytoplasm, naked DNA in a loop and 70S ribosomes.
+
 ## Official syllabus
 
 This resource is aligned to the IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization, section A2.2 (Cell structure).

@@ -251,6 +251,23 @@ On these figures the fuel cell bus goes further on the same mass of hydrogen, so
 
 Next, do the self-test in the [revision notes](/resources/oxfordaqa-igcse-chemistry-chemical-cells-and-fuel-cells-revision-notes/), followed by the [practice questions](/resources/oxfordaqa-igcse-chemistry-chemical-cells-and-fuel-cells-practice/). For moles and gas volumes, see the [quantitative chemistry study guide](/resources/oxfordaqa-igcse-chemistry-quantitative-chemistry/).
 
+## Frequently asked questions
+
+**Why does a chemical cell stop working?**
+A chemical cell produces a potential difference only until its reactants are used up. The reactants are sealed inside and nothing new is added, so once one runs out the reaction stops and the potential difference falls to zero.
+
+**What is the difference between a chemical cell and a fuel cell?**
+A chemical cell contains a fixed amount of reactants sealed inside it. A fuel cell produces electricity from a fuel reacting with oxygen, and the fuel and oxygen are supplied from outside.
+
+**Does a hydrogen fuel cell burn hydrogen?**
+No. Hydrogen and oxygen react in the cell to form water without a flame, and the energy is transferred as electricity rather than by combustion.
+
+**Do you need the electrode equations for fuel cells in OxfordAQA 9202 Chemistry?**
+No. The specification states that knowledge of the details of the reactions in fuel cells is not required. You need the overall change, hydrogen + oxygen → water.
+
+**Why is storing hydrogen as a fuel difficult?**
+Hydrogen is a gas with a very low density at room temperature and pressure, so a useful mass takes up a huge volume. It must be compressed to a high pressure in strong, heavy tanks or cooled to a liquid, and it is highly flammable.
+
 ## Official syllabus
 
 Source document: the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards (OxfordAQA). This page covers section 3.9.3, Chemical cells and fuel cells.

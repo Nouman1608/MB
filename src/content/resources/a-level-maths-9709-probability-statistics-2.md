@@ -30,9 +30,9 @@ syllabusTopics:
     subtopic: "hypothesis-tests-cambridge-alevel-maths"
 description: "Study guide for Cambridge 9709 Probability & Statistics 2 (Paper 6): Poisson, linear combinations, PDFs, estimation and hypothesis tests, fully worked."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -313,6 +313,23 @@ P(Type II) = Φ((503.92 − 505)/2) − Φ((496.08 − 505)/2)
 - Using σ²/n for a proportion instead of p̂(1 − p̂)/n.
 - Comparing a single probability, P(X = 9), with 5% instead of the tail P(X ≥ 9).
 - A conclusion that "proves" H₁, or that has no context.
+
+## Frequently asked questions
+
+**Can you take Cambridge 9709 Paper 6 with Paper 4?**
+No. Paper 6 is offered only as part of the full A Level, and it cannot be combined with Paper 4 (Mechanics). It assumes all of Probability & Statistics 1 and the calculus in Pure Mathematics 3.
+
+**What conditions does a Poisson model need?**
+Events must occur singly, independently, at random, and at a constant average rate in a fixed interval of time or space. For a Poisson distribution the mean equals the variance.
+
+**How do you find the median of a continuous random variable?**
+Solve the equation that sets the integral of f(x) from the lower limit up to m equal to 1/2. The 9709 syllabus excludes explicit use of the cumulative distribution function, so integrate f(x) directly.
+
+**What does the Central Limit Theorem say?**
+For a large sample, the sample mean X̄ is approximately normally distributed with mean μ and variance σ²/n, even if the population is not normal. If the population is normal, X̄ is exactly normal for any n.
+
+**What is a Type II error?**
+A Type II error is accepting H₀ when it is false. To find its probability you need a specific alternative value of the parameter.
 
 ## Next steps
 

@@ -323,6 +323,20 @@ Worked reminder: propan-1-ol, C₃H₇OH. 3CO₂ and 4H₂O give 10 O atoms; sub
 - (Higher Tier) Forgetting the small molecule in condensation polymerisation.
 - Listing fuel-cell advantages with no disadvantages when the command word is "evaluate".
 
+## Frequently asked questions
+
+**What is cracking and why is it done?**
+Cracking breaks long-chain alkanes into shorter alkanes and alkenes by passing the vapour over a hot catalyst. It is done because demand for short-chain fuels exceeds supply and alkenes are needed to make polymers; it is a chemical reaction, not a separation.
+
+**How does fractional distillation separate crude oil?**
+Crude oil is vaporised and fed into a column that is hot at the bottom and cool at the top. Each fraction condenses where the temperature drops below its boiling point, so larger molecules with stronger intermolecular forces are collected lower down.
+
+**How do you draw the repeat unit of an addition polymer?**
+Change the C=C in the monomer to a single bond, add a bond sticking out of each side, put brackets round the unit and write n. A C=C left inside the repeat unit is a common error.
+
+**What are the reactions at the electrodes of a hydrogen fuel cell?**
+With an acidic electrolyte, H₂ → 2H⁺ + 2e⁻ at the negative electrode and O₂ + 4H⁺ + 4e⁻ → 2H₂O at the positive electrode. The overall reaction is 2H₂ + O₂ → 2H₂O.
+
 ## Official syllabus
 
 Published by OCR: Version 4.0 (August 2026) of specification J248, for the GCSE (9–1) in Chemistry A, Gateway Science, first assessed in 2018. Content taken from it: sub-topic C6.2 Organic chemistry, statements C6.2a–C6.2q, maths outcome CM6.2i, and the practical suggestions "Use of models" and "Making nylon".

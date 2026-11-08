@@ -149,6 +149,23 @@ These questions cover section 4.2.1(a) to (e) of the OCR A Level Biology A (H420
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes with Simpson's Index of Diversity?**
+Forgetting to square n/N, forgetting to subtract the sum from 1, and using the number of species as N instead of the total number of individuals. Any of these gives the wrong value of D.
+
+**How do you describe random sampling so it earns the mark?**
+Say how the positions are chosen, for example by using random numbers as coordinates on a grid laid over the area. Calling a method random without saying how the positions were picked is a common way to lose marks.
+
+**Does equal species richness mean equal diversity?**
+No. Two habitats can have the same number of species but different diversity if the populations differ in evenness. When discussing a high or low value of D, refer to both richness and evenness.
+
+**Why is one sample not enough to draw conclusions about a habitat?**
+Chance can make a single sample unrepresentative, and one technique only samples some groups of organisms. Taking enough samples, ideally on more than one occasion, and calculating a mean gives a more reliable picture.
+
+**Which part of the H420 specification do these questions cover?**
+They cover OCR A Level Biology A (H420) section 4.2.1 (a) to (e): levels of biodiversity, sampling, species richness and evenness, Simpson's Index and genetic diversity.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420)* specification, Version 4.1 (April 2026), for first assessment in 2025: section 4.2.1(a) to (e), Biodiversity.

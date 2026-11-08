@@ -25,9 +25,9 @@ syllabusTopics:
     subtopic: "a-gibbs-free-energy-change"
 description: "Born-Haber cycles, enthalpies of solution and hydration, entropy change and Gibbs free energy, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -157,11 +157,6 @@ of the separation.
   <figcaption>Higher ionic charge and smaller ionic radius give a more exothermic lattice energy (and hydration enthalpy).</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--03-polarisation-covalent-character.webp" width="900" height="1150" alt="Left: Cs+ and Cl- as spheres; experiment (-668) is close to the ionic model (-652). Right: small Ag+ pulls the Cl- cloud towards it, giving shared electron density; experiment (-905) is clearly more exothermic than the model (-833). The gaps are 2.5 and 8.6 percent." loading="lazy">
-  <figcaption>A larger experimental-versus-model gap shows more covalent character, caused by a cation polarising the anion (AQA, OxfordAQA, Edexcel).</figcaption>
-</figure>
-
 
 ## Enthalpies of solution and hydration
 
@@ -251,11 +246,6 @@ before.
   <figcaption>ΔS = ΣS°(products) − ΣS°(reactants) = +160.7 J K-1 mol-1 for CaCO3 → CaO + CO2.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--09-total-entropy.webp" width="900" height="1070" alt="Grouped bars for CaCO3 decomposition at 298, 1079 and 1500 K. System entropy change is +165 each time; surroundings entropy change is -ΔH/T: -597, -165, -119. Total is -432 (not feasible), about 0 (borderline) and +46 (feasible)." loading="lazy">
-  <figcaption>For Edexcel, a reaction is feasible when ΔS(total) = ΔS(system) + ΔS(surroundings) is positive, with ΔS(surroundings) = −ΔH/T.</figcaption>
-</figure>
-
 
 ## Gibbs free energy change, ΔG
 
@@ -340,6 +330,23 @@ numerical errors in this topic.
 - ΔS = ΣS°(products) − ΣS°(reactants)
 - ΔG = ΔH − TΔS; feasible when ΔG ≤ 0
 - Feasibility temperature: T = ΔH / ΔS, when ΔH and ΔS have the same sign
+
+## Frequently asked questions
+
+**How do you calculate lattice energy from a Born-Haber cycle?**
+Apply Hess's law: the enthalpy change of formation equals the sum of atomisation of both elements, ionisation energy, electron affinity and lattice energy. Rearranging gives the lattice energy; for NaCl this comes to −787 kJ mol⁻¹.
+
+**Why is the electron affinity of chlorine more exothermic than that of fluorine?**
+Fluorine is so small that its outer shell is already crowded, so an incoming electron feels extra repulsion that outweighs the stronger nuclear attraction. The same anomaly makes oxygen's electron affinity less exothermic than sulfur's.
+
+**When is a reaction feasible according to the Gibbs equation?**
+In Cambridge 9701 Chemistry a reaction is feasible when ΔG = ΔH − TΔS is negative or zero. Feasible does not mean fast; ΔG says nothing about the rate.
+
+**How do you find the temperature at which a reaction becomes feasible?**
+Set ΔG = 0 so that T = ΔH/ΔS, after converting ΔH to J mol⁻¹ to match the units of ΔS. For CaCO₃ decomposition this gives about 1079 K.
+
+**How do ionic charge and radius affect lattice energy and hydration enthalpy?**
+Both become more exothermic as ionic charge increases and ionic radius decreases. Smaller, more highly charged ions attract oppositely charged ions or water dipoles more strongly.
 
 ## Related resources
 

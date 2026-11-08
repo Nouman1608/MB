@@ -13,11 +13,20 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "european-option-modern-europe-9489"
-description: "Condensed recall notes on the French Revolution, Napoleon, German unification, and Russia from autocracy to revolution for Cambridge AS & A Level History 9489, 2027-2029 series."
+  - qualification: "a-level"
+    topic: "european-option-modern-europe-9489"
+    subtopic: "france-1774-1814-9489"
+  - qualification: "a-level"
+    topic: "european-option-modern-europe-9489"
+    subtopic: "liberalism-nationalism-germany-9489"
+  - qualification: "a-level"
+    topic: "european-option-modern-europe-9489"
+    subtopic: "russia-autocracy-revolution-9489"
+description: "Revision notes for Cambridge 9489 History's European option, 2027-2029: the French Revolution, Napoleon, German unification and Russia from 1881 to 1924."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -125,3 +134,14 @@ Precision is what separates bands. "Bismarck fought several wars" is weak; "Bism
 5. Name the two contrasting Bolshevik economic policies of the Civil War and post-Civil War periods.
 
 **Answers:** 1. Bankruptcy forced the calling of the Estates-General in 1789, which gave the Third Estate the platform that converted long-standing grievances into a constitutional revolution. 2. Heir: legal equality in the Napoleonic Code and careers open to talent. Betrayer: press censorship and the creation of a new hereditary nobility with his coronation as Emperor. 3. Isolate each opponent diplomatically first; fight limited wars for defined objectives; stop once the objective is achieved rather than pursuing total victory. 4. The assassination of Alexander II, which triggered his son Alexander III's turn to repression and Russification, setting the tone for the autocracy's response to unrest through to 1917. 5. War Communism (1918-21) and the New Economic Policy (from 1921).
+
+## Frequently asked questions
+
+**What are the three European option topics?**
+France, 1774–1814; liberalism and nationalism in Germany, 1815–71; and Russia from autocracy to revolution, 1881–1924.
+
+**How are the AS papers for 9489 structured?**
+Paper 1, Historical Sources (1 hour 15 minutes, 40 marks), is one two-part question on four sources, worth 15 and 25 marks. Paper 2, Outline Study (1 hour 45 minutes, 60 marks), is two two-part questions, each worth 10 + 20 marks.
+
+**What was Bismarck's method of unification?**
+Realpolitik: three limited wars against Denmark (1864), Austria (1866) and France (1870–71), each fought after the opponent had been diplomatically isolated.

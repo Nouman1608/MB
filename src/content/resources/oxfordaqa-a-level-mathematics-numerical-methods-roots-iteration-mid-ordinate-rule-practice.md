@@ -149,6 +149,20 @@ Use Simpson's rule to estimate the total volume of water that flows in during th
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What must you state to show a root lies in an interval?**
+Give the values of f at both ends, say that they change sign and state that f is continuous on the interval. A sign change alone, without continuity, is not enough.
+
+**How do you show that a root is correct to a given number of decimal places?**
+Evaluate f at the bounds of the rounding interval, such as 1.235 and 1.245 for 1.24, and show there is a sign change. Testing only the rounded value does not justify it.
+
+**What is the most common error in the mid-ordinate rule?**
+Using the heights at the strip edges instead of at the midpoints of the strips. Remember to multiply the sum of the heights by the strip width h.
+
+**How many strips does Simpson's rule need?**
+An even number of strips, which means an odd number of ordinates. Applying it to an odd number of strips, or forgetting the factor h/3, loses marks.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2, published by OxfordAQA. This content is listed under P2.9 in International A-level Unit P2 (Pure Maths).

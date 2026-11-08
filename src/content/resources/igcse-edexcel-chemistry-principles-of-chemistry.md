@@ -12,11 +12,11 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "principles-of-chemistry-4ch1"
-description: "States of matter, atomic structure, bonding and electrolysis -- the opening topic of Pearson Edexcel International GCSE Chemistry (4CH1), an untiered qualification assessed across two papers."
+description: "Edexcel International GCSE Chemistry 4CH1 Topic 1 guide: states of matter, atomic structure, moles, ionic, covalent and metallic bonding, and electrolysis."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -244,3 +244,17 @@ Saying covalent bonds break when a simple molecular substance melts — only the
 - Explain ionic, covalent, giant covalent and metallic bonding, and use each to account for melting point and conductivity.
 - Balance equations and carry out mole, mass, concentration and percentage yield calculations.
 - Calculate an empirical formula from masses or percentages.
+
+## Frequently asked questions
+
+**What does Topic 1 Principles of Chemistry cover in Edexcel IGCSE Chemistry 4CH1?**
+It covers states of matter, elements, compounds and mixtures, atomic structure, the Periodic Table, chemical formulae, equations and calculations, ionic, covalent and metallic bonding, and electrolysis.
+
+**Which 4CH1 paper tests the bold "C" content?**
+Both Paper 1 and Paper 2 draw on all the topic areas, but only Paper 2 also assesses the bold, "C"-referenced content in the specification. Check which paper you are sitting so you know how deep to revise.
+
+**Do covalent bonds break when a simple molecular substance melts?**
+No. Only the weak forces between molecules are overcome. The covalent bonds inside the molecules stay intact.
+
+**Why do lighter particles diffuse faster?**
+At a given temperature, particles with a lower relative mass move faster on average, so they spread out more quickly from high to low concentration.

@@ -285,6 +285,20 @@ If a make-or-buy decision frees capacity, include the contribution the capacity 
 - Reconciling the profits with the adjustment in the wrong direction.
 - Recommending without a balanced reason or a non-financial factor.
 
+## Frequently asked questions
+
+**Which sections of Cambridge 9706 cover costs and traditional costing?**
+Sections 2.1 Costs and cost behaviour and 2.2 Traditional costing methods are AS Level content in Cambridge 9706. They cover cost classification, inventory valuation, unit, job and batch costing, absorption costing, marginal costing and break-even analysis.
+
+**What is the difference between job and batch costing?**
+Job costing collects costs for work done to a customer's specification. Batch costing collects costs for a group of identical items made together, and cost per item = batch cost ÷ items in the batch.
+
+**Which costs are relevant in a closure decision?**
+Only future costs that change with the decision are relevant. Unavoidable allocated fixed costs continue whether or not the product or department closes, so they should be left out.
+
+**How should under or over absorption be reported?**
+State whether overhead is under- or over-absorbed and its effect on profit, as well as the figure. Under-absorption reduces profit and over-absorption increases it.
+
 ## Official syllabus
 
 Cambridge International, AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028, sections 2.1 and 2.2.

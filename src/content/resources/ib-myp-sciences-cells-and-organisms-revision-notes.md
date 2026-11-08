@@ -17,9 +17,9 @@ syllabusTopics:
     topic: "ib-myp-sciences-related-concepts"
 description: "Condensed IB MYP Sciences revision notes on cells and organisms, with organelle tables, magnification methods, key distinctions and a checked self-test."
 author: "marlbridge-academic-team"
-reviewer: "ameer-hamza"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ameer-hamza on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -217,6 +217,20 @@ Viruses: not cells, not in any kingdom, reproduce only inside host cells.
 - Putting "organ" and "tissue" in the wrong order, or calling a single cell type an organ.
 - Binomial names with the wrong capitals, or not underlined when handwritten.
 - In a key, using a feature that is not visible or that does not split the group into two.
+
+## Frequently asked questions
+
+**What are the three ideas of cell theory?**
+All living things are made of one or more cells; the cell is the smallest unit that carries out the processes of life; and new cells come only from the division of existing cells.
+
+**How do you convert between mm, µm and nm?**
+1 mm = 1000 µm and 1 µm = 1000 nm, so multiply by 1000 to go from mm to µm or from µm to nm. Convert before dividing in any magnification calculation.
+
+**How do you write a binomial species name?**
+The first word is the genus, written with a capital letter, and the second is the species, written in lower case, as in Panthera leo. Linnaeus set up this two-part system in the 18th century.
+
+**What is the order of the classification hierarchy?**
+From largest group to smallest: domain, kingdom, phylum, class, order, family, genus, species. A species is a group of organisms that can interbreed to produce fertile offspring.
 
 ## Official syllabus
 

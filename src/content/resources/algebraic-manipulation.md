@@ -21,9 +21,9 @@ syllabusTopics:
     subtopic: "algebraic-fractions"
 description: "Simplifying, expanding, factorising and completing the square, plus algebraic fractions, for Cambridge O Level Mathematics (Syllabus D) 4024."
 author: "muhammad-ghazali-siddiqui"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-07-01
 updatedDate: 2026-08-18
 featured: false
@@ -326,6 +326,23 @@ as a perfect square, and as a quadratic trinomial
 - Completing the square for *x² + bx + c*
 - Adding, multiplying, dividing and simplifying algebraic fractions,
 including factorising before cancelling
+
+## Frequently asked questions
+
+**What are like terms?**
+Like terms have exactly the same letters raised to exactly the same powers, such as 3a² and 5a². To simplify, add or subtract their coefficients; 3a² and 3a are not like terms.
+
+**Which factorising forms are in Cambridge O Level Mathematics 4024?**
+The 4024 syllabus lists common factors, grouping (ax + bx + kay + kby), difference of two squares (a²x² − b²y²), perfect squares (a² + 2ab + b²), quadratic trinomials (ax² + bx + c) and ax³ + bx² + cx.
+
+**Is Cambridge O Level 4024 tiered?**
+No. 4024 has one untiered set of outcomes, and every candidate is assessed on all of the algebraic manipulation content across Paper 1 and Paper 2.
+
+**How do you complete the square when the coefficient of x² is not 1?**
+Factor the coefficient out of the x² and x terms only, complete the square inside the bracket, then multiply the subtracted constant by that coefficient. For example, 2x² + 8x + 3 = 2(x + 2)² − 5.
+
+**What does "factorise fully" mean?**
+Keep factorising until no bracket can be broken down further. For example, 2x² + 4x should become 2x(x + 2), not x(2x + 4).
 
 ## Related resources
 

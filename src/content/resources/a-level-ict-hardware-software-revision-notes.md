@@ -13,11 +13,26 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "hardware-and-software"
-description: "Condensed revision notes on mainframes/supercomputers, system and utility software, custom vs off-the-shelf software, and user interfaces for Cambridge AS & A Level Information Technology Topic 2 (9626)."
+  - qualification: "a-level"
+    topic: "hardware-and-software"
+    subtopic: "mainframe-computers-and-supercomputers"
+  - qualification: "a-level"
+    topic: "hardware-and-software"
+    subtopic: "system-software"
+  - qualification: "a-level"
+    topic: "hardware-and-software"
+    subtopic: "utility-software"
+  - qualification: "a-level"
+    topic: "hardware-and-software"
+    subtopic: "custom-written-and-off-the-shelf-software"
+  - qualification: "a-level"
+    topic: "hardware-and-software"
+    subtopic: "user-interfaces"
+description: "Condensed notes on mainframes and supercomputers, system and utility software, custom-written and off-the-shelf software and interfaces for Cambridge 9626."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-03
 updatedDate: 2026-09-27
 featured: false
@@ -132,3 +147,17 @@ every category, hold in mind at least one alternative it could be confused with,
 scenario where choosing between the two matters. This comparison-first revision style — rather than a
 long list of separate definitions — is what turns recognition of a term into the ability to justify a
 choice, which is what nearly every question in this topic actually tests.
+
+## Frequently asked questions
+
+**What is the difference between MIPS and FLOPS?**
+MIPS measures millions of instructions per second and is conventionally quoted for a mainframe's transaction workload, while FLOPS measures floating-point operations per second and is conventionally quoted for a supercomputer's computation-heavy workload. Both can be used for either class.
+
+**What is fault tolerance?**
+Fault tolerance is the ability of a system to keep running, often in a degraded state, when a component fails. In Cambridge 9626 it is a characteristic of both mainframes and supercomputers.
+
+**What types of utility software are in the 9626 syllabus?**
+The named types are anti-virus, back-up, data compression, disk defragmentation, formatting (low-level, partitioning and high-level), file copying and deleting, file management systems and disk management systems.
+
+**What are the advantages of off-the-shelf software?**
+Off-the-shelf software is cheaper, available immediately and well tested by a large user base, but it may include features that are not needed and cannot be tailored exactly. Custom-written software matches exact requirements but costs more and takes longer.

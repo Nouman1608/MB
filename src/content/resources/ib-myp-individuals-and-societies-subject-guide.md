@@ -6,7 +6,7 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Individuals and Societies"]
-description: "An overview of IB Middle Years Programme Individuals and Societies for ages 11-16: its aims, key and related concepts, the six global contexts, the four assessment criteria and the on-screen eAssessment."
+description: "An overview of IB MYP Individuals and Societies: its aims, key and related concepts, the six global contexts, the four criteria and the on-screen eAssessment."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -186,6 +186,20 @@ if you are preparing for the on-screen examination, practise with
 [source-evaluation exam preparation](/resources/ib-myp-individuals-societies-source-evaluation-exam-preparation/)
 and check which subjects your course covers in
 [discipline options and eAssessment subjects](/resources/ib-myp-individuals-societies-disciplines/).
+
+## Frequently asked questions
+
+**What subjects are in MYP Individuals and Societies?**
+Schools develop courses in integrated humanities, history, economics, geography, philosophy, sociology and anthropology, business management, psychology and world religions. They can be taught as discrete courses, as modules or as one integrated course.
+
+**How long is the MYP Individuals and Societies on-screen exam?**
+The on-screen examination lasts 2 hours and is taken at the end of MYP year 5. It has three source-based tasks: investigating (26 marks), communicating (18 marks) and thinking critically (36 marks).
+
+**Which topics can appear in the MYP Individuals and Societies eAssessment?**
+The brief lists demographics and human movements; settlement and urban morphology; superpowers, empires and alliances; significant individuals; warfare and peacekeeping; rights and social protest; trade, aid and exchange; economic agents; measurements and trends; and industrialization and technological developments.
+
+**How does MYP Individuals and Societies prepare students for the DP?**
+Working from sources, building evidence-based arguments and weighing perspectives carry forward to DP History, Geography, Global Politics, Economics and other subjects. The main change is that most DP assessment is by timed external examination.
 
 ## Source
 

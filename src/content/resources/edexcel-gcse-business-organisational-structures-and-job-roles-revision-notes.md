@@ -242,6 +242,20 @@ Link every answer to one of these facts. A general list of advantages gains less
 - Leaving out workings, units or the percentage sign in a Calculate answer.
 - On Explain, giving one point with no expansion. On Evaluate, giving no supported conclusion.
 
+## Frequently asked questions
+
+**What is the difference between a hierarchical and a flat structure?**
+A hierarchical structure has many layers, with each manager looking after a small number of people. A flat structure has few layers, with managers looking after larger teams and staff closer to the decision makers.
+
+**What is the difference between centralised and decentralised decision making?**
+In a centralised structure, important decisions are made at the top, giving consistency and control. In a decentralised structure, decisions are passed down to managers and teams in each branch or region, which suits a larger business where local knowledge matters.
+
+**What is the difference between a freelance and a temporary worker?**
+A temporary worker is employed for a fixed period or task, such as a seasonal rush. A freelance worker is self-employed and paid for the job, giving specialist skills only when needed.
+
+**What are the advantages of internal recruitment?**
+Internal recruitment is cheap and quick, the person already knows the business, and it motivates others by showing promotion is possible. It brings no new ideas and leaves a gap elsewhere.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2: Building a business, Topic 2.5 Making human resource decisions, items 2.5.1 and 2.5.2.

@@ -12,7 +12,7 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-global-politics-peace-and-conflict"
-description: "Original practice questions with full worked answers applying the four core concepts to the causes, dynamics and resolution of conflict, for IB Diploma Programme Global Politics's Peace and conflict thematic study."
+description: "Original IB DP Global Politics practice questions on Peace and conflict, with worked answers applying power, sovereignty, legitimacy and interdependence."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -85,6 +85,20 @@ concept-application -- not conflict-specific factual recall alone -- as the actu
 extended-response questions assess. Question 6 in particular is written to reward genuinely connecting
 two concepts rather than listing them separately, mirroring the syllabus's own emphasis on applying the
 core concepts together rather than as a checklist.
+
+## Frequently asked questions
+
+**Which IB Global Politics paper examines Peace and conflict?**
+Peace and conflict is one of the three compulsory thematic studies in IB DP Global Politics and is examined through Paper 2's extended-response questions. Those questions assess the application of core concepts rather than conflict-specific factual recall alone.
+
+**How do you use core concepts well in a Peace and conflict answer?**
+Name a specific conflict with real dates and actors, then apply the concepts explicitly and show how they interact, for example how a shift in power affected which side could claim legitimacy. Treating each concept as a separate checklist item scores less well.
+
+**Do you need named examples in Global Politics essays on conflict?**
+Yes. Extended answers are credited for accurate, named case-study detail, so a generic description of "a civil war" cannot reach the marks that a specific, dated example with named actors can.
+
+**How should you answer a discuss question on peace and conflict?**
+Define the key terms precisely, argue using a named example, and weigh both sides before reaching a judgement. Recognising where two processes depend on each other, rather than treating them as rivals, can strengthen the conclusion.
 
 ## Official syllabus
 

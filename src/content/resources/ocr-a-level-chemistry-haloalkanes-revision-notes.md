@@ -248,6 +248,20 @@ Overall for every cycle: **O₃ + O → 2O₂**
 - Leaving out dots on •Cl, •ClO, •NO or •NO₂.
 - Giving an overall equation that is not O₃ + O → 2O₂ (for example leaving the catalyst in).
 
+## Frequently asked questions
+
+**What are the conditions for hydrolysis of a haloalkane with aqueous alkali?**
+Heat the haloalkane under reflux with aqueous sodium hydroxide or potassium hydroxide. Leaving out "aqueous" or "heat under reflux" loses marks.
+
+**Why is ethanol used in the silver nitrate test for haloalkanes?**
+Ethanol is a common solvent: the haloalkane and the aqueous silver nitrate both dissolve in it, so they can react.
+
+**How do CFCs damage the ozone layer?**
+UV radiation breaks the weakest bond, C–Cl, homolytically to form chlorine radicals. Each radical catalyses the breakdown of a very large number of ozone molecules because it is regenerated.
+
+**What is the overall equation for ozone breakdown?**
+The overall equation is O₃ + O → 2O₂. The radical catalyst should not appear in the overall equation.
+
 ## Official syllabus
 
 Matched to: OCR, H432 A Level Chemistry A; Version 3.1 of the specification (May 2026), first assessed in 2017. Section 4.2.2 Haloalkanes, all statements (a) to (e).

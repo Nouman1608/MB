@@ -18,11 +18,11 @@ syllabusTopics:
     subtopic: "effects-of-temperature-and-ph"
 description: "Original exam-style practice questions with full worked answers on enzyme action, temperature, pH, denaturation and enzyme uses."
 author: "saad-zai"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -111,3 +111,17 @@ Related: [Enzymes revision notes](/resources/enzymes-revision-notes/)
 - Assuming every digestive enzyme has an optimum pH of 7 — trypsin's alkaline optimum (~8) is easily confused with amylase's neutral one (~7) if the specific enzyme in the question isn't checked carefully.
 
 Questions 7 and 8 draw on the substrate-concentration and reaction-progress sections of the [Enzymes revision notes](/resources/enzymes-revision-notes/) — material the earlier questions on this page don't reach, since they focus on temperature and pH rather than substrate concentration or practical method.
+
+## Frequently asked questions
+
+**Why do enzymes stop working at high temperatures?**
+Above the optimum, the bonds holding the enzyme's shape break, so the active site changes shape and the substrate no longer fits. The enzyme is denatured, which is permanent.
+
+**Is it correct to say an enzyme is "killed" by heat?**
+No. Enzymes are proteins and were never alive, so the correct term is denatured. Saying "killed" is a common way to lose marks in Cambridge O Level Biology 5090.
+
+**Does cold denature enzymes?**
+No. At low temperatures an enzyme works slowly because molecules have little kinetic energy, but its shape is unchanged, so warming it restores activity.
+
+**Do all enzymes have an optimum pH of 7?**
+No. Each enzyme has its own optimum: pepsin works best at about pH 2 in the stomach, amylase at about pH 7, and trypsin at about pH 8 in the small intestine.

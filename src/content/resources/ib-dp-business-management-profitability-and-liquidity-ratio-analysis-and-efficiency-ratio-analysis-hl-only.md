@@ -262,6 +262,20 @@ A business can make a profit and still become insolvent. Profit is recorded when
 - Using the closing stock figure alone when the case gives opening and closing stock.
 - Writing "good" or "bad" without a comparison, or recommending a strategy that ignores the case facts.
 
+## Frequently asked questions
+
+**What is the difference between gross profit margin and profit margin?**
+Gross profit margin is gross profit divided by sales revenue, times 100, so it reflects price and cost of sales. Profit margin uses profit before interest and tax, so it also reflects overheads.
+
+**How do you calculate debtor days and creditor days?**
+Debtor days are debtors divided by total sales revenue, times 365. Creditor days are creditors divided by cost of sales, times 365; both are HL only efficiency ratios.
+
+**What is the difference between insolvency and bankruptcy?**
+Insolvency is when a business or person cannot pay debts as they fall due, which is a financial position. Bankruptcy is the legal status or process that can follow insolvency.
+
+**Is a higher current ratio always better?**
+No. A high current ratio can mean large idle stock or cash that is not working for the business, so interpret it against the business's past results, rivals and objectives.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Business management guide*, first assessment 2024: section 3.5 (Profitability and liquidity ratio analysis), section 3.6 (Efficiency ratio analysis, HL only), the appendix on formulae for ratio analysis and the glossary of command terms.

@@ -19,9 +19,9 @@ syllabusTopics:
     subtopic: "as-ionisation-energy"
 description: "Original exam-style practice questions with full worked answers on ionisation energy trends, sub-shells and electron configurations for AS Chemistry."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -129,3 +129,17 @@ this as one principle applied in two contexts, rather than two
 unrelated facts to memorise separately, makes both questions much more
 predictable. For the full explanation, including orbital shapes and
 free radicals, see the [Atomic Structure and Ionisation Energy revision notes](/resources/as-chem-ionisation-energy-revision-notes/).
+
+## Frequently asked questions
+
+**What must a definition of first ionisation energy include?**
+It is the energy required to remove one mole of electrons from one mole of gaseous atoms to form one mole of gaseous 1+ ions. Omitting "one mole" or "gaseous" is a common reason for losing marks.
+
+**Why are there dips in first ionisation energy at aluminium and sulfur?**
+At aluminium the electron is removed from a 3p sub-shell, which is higher in energy than 3s. At sulfur the electron is removed from a paired orbital, where repulsion between the paired electrons makes it easier to remove.
+
+**How do you deduce an element's group from successive ionisation energies?**
+Look for the first large jump: the number of electrons removed before it equals the number of outer-shell electrons, which gives the group. Miscounting the jump position is a frequent error.
+
+**What is the electron configuration of Fe²⁺?**
+Fe²⁺ is [Ar]3d⁶, because the 4s electrons are lost before the 3d electrons. Writing it as 3d⁴4s² is a common mistake.

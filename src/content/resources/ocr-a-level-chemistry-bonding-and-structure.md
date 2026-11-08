@@ -221,6 +221,23 @@ A **simple molecular lattice** is a regular arrangement of small covalent molecu
 
 Revise with the [revision notes](/resources/ocr-a-level-chemistry-bonding-and-structure-revision-notes/), then test yourself on the [practice set](/resources/ocr-a-level-chemistry-bonding-and-structure-practice/), or take a [10-minute diagnostic](/diagnostics/).
 
+## Frequently asked questions
+
+**What is a dative covalent bond?**
+A dative covalent (coordinate) bond is a shared pair of electrons in which both electrons are supplied by one atom, as when ammonia donates its lone pair to boron in BCl₃.
+
+**What is electronegativity?**
+Electronegativity is an atom's ability to attract the bonding electrons in a covalent bond. Values rise towards fluorine, across a period and up a group.
+
+**When does hydrogen bonding happen?**
+Hydrogen bonding happens between a lone pair on N, O or F in one molecule and the H of an –NH, –OH or HF group in another. Hydrogen atoms bonded to carbon do not form hydrogen bonds.
+
+**Why does water have a higher boiling point than H₂S?**
+Water molecules form hydrogen bonds with each other, which need more energy to overcome than the weaker intermolecular forces in the other Group 16 hydrides.
+
+**Is there a PAG linked to OCR A Level Chemistry 2.2.2?**
+No. The specification links no PAG to the bonding and structure section.
+
 ## Official syllabus
 
 OCR, A Level Chemistry A specification (H432), Version 3.1 dated May 2026, first assessment 2017: section 2.2.2 Bonding and structure.

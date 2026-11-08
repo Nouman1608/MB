@@ -16,11 +16,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "financial-accounting"
     subtopic: "accounting-for-non-current-assets"
-description: "Capital versus revenue expenditure, depreciation methods, the cost and revaluation models, and accounting for disposal of non-current assets, for Cambridge AS & A Level Accounting 9706."
+description: "Capital versus revenue spending, why assets depreciate depreciation methods, cost and revaluation models and disposals, for Cambridge 9706 Accounting topic 1.3."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 publishedDate: 2026-09-01
 featured: false
 ---
@@ -177,6 +177,23 @@ difference in pattern (level charge vs declining charge) becomes intuitive, then
 disposal workings, since these are commonly tested together in a single structured question. Keep the
 capital/revenue expenditure distinction sharp early on — errors here cascade into every later financial
 statement calculation in this syllabus.
+
+## Frequently asked questions
+
+**What happens if capital expenditure is treated as revenue expenditure?**
+Profit is understated, because the spending is wrongly deducted as an expense in the current period, and the asset value on the statement of financial position is also understated. Treating revenue expenditure as capital has the opposite effect, overstating both.
+
+**What is the formula for straight-line depreciation?**
+Straight-line depreciation is (cost − residual value) ÷ useful life, giving an equal charge every year. It suits assets that lose value fairly evenly, such as fixtures and fittings.
+
+**Which accounting concept does depreciation apply?**
+Depreciation applies the matching (accruals) concept: the cost of using the asset is matched against the revenue it helps generate in each period, rather than being charged in full in the year of purchase.
+
+**How do you calculate profit or loss on disposal of a non-current asset?**
+Compare the sale proceeds, or part-exchange allowance, with the asset's carrying value at the date of disposal. The asset's cost and accumulated depreciation are closed off through a disposal account, and the profit or loss is recorded in the statement of profit or loss.
+
+**Which sub-topics make up Cambridge 9706 section 1.3?**
+Section 1.3 has two sub-points: 1.3.1 Capital and revenue income and expenditure, and 1.3.2 Changing asset values. It is AS Level content and sits before 1.4 Reconciliation and verification.
 
 ## Official syllabus
 

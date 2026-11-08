@@ -258,6 +258,20 @@ Exports rose by (90 - 80) / 80 x 100 = 12.5% from year 1 to year 3; imports fell
 - Quoting the table without calculating anything when the command word is analyse.
 - Evaluation with no judgement: a final sentence that picks a side and gives a reason tends to earn more than a list of points.
 
+## Frequently asked questions
+
+**Why do countries import goods?**
+Countries import because they lack certain resources, because overseas goods are cheaper, to give consumers more variety, and to buy inputs that firms need for their own production.
+
+**What are the benefits of trade for producers?**
+Producers gain a bigger market, economies of scale, cheaper inputs and pressure to innovate.
+
+**How do you calculate the balance on current account?**
+Add up all the credits and subtract all the debits. A positive result is a surplus, a negative result is a deficit, and zero means the account is balanced.
+
+**When does a current account deficit matter most for the UK?**
+The OCR GCSE Economics (J205) notes judge that it matters most when the deficit is large, long-lasting and caused by weak competitiveness, because a persistent deficit must be financed by borrowing or selling assets.
+
 ## Official syllabus
 
-OCR, Cambridge OCR Level 1/Level 2 GCSE (9-1) in Economics (J205), Version 2.0 (June 2026), first assessment 2019, sections 4.1 and 4.2.
+OCR, OCR Level 1/Level 2 GCSE (9-1) in Economics (J205), Version 2.0 (June 2026), first assessment 2019, sections 4.1 and 4.2.

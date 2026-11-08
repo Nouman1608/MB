@@ -14,9 +14,9 @@ syllabusTopics:
     topic: "the-allocation-of-resources-cambridge-igcse-economics"
 description: "Original exam-style practice questions with full worked answers on demand and supply, price elasticity, market failure and the mixed economy."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -128,3 +128,17 @@ reasoning clear on its own.
 - Naming a policy (tax, regulation) without linking it back to the specific market failure it corrects.
 - Giving demand/supply diagram answers without clearly labelling both the original and new equilibrium
   points, which weakens the diagram even when the underlying economics is correct.
+
+## Frequently asked questions
+
+**What do examiners look for when a question says use a diagram?**
+Draw a labelled diagram: both axes, the original demand and supply curves, any new curve after a shift, and both the original and new equilibrium points. A written description alone is weaker evidence.
+
+**Is a PED number on its own enough for full marks?**
+No. After calculating PED, state whether demand is elastic or inelastic with a reason; a bare number usually earns only the calculation marks.
+
+**How do I avoid losing marks on market failure policy questions?**
+Link each policy, such as a tax or regulation, back to the specific market failure it corrects rather than just naming it.
+
+**Which Cambridge IGCSE syllabus do these questions cover?**
+They cover The allocation of resources in Cambridge IGCSE Economics 0455, including demand and supply, price elasticity, market failure and the mixed economy.

@@ -246,6 +246,23 @@ The real economy suffers through these links:
 
 Next, test yourself with the [practice set](/resources/aqa-a-level-economics-commercial-and-investment-banks-credit-creation-and-practice/).
 
+## Frequently asked questions
+
+**How do commercial banks create credit?**
+When a bank makes a loan, it credits the borrower's account with a new deposit, which adds to the money available to spend. Banks can do this because depositors rarely all withdraw at once.
+
+**What limits credit creation by banks?**
+The demand for loans, the need to keep liquid assets, the capital needed to back loans, money leaking out as cash, and regulation and monetary policy.
+
+**What are the three objectives of a commercial bank?**
+Liquidity, profitability and security. They conflict because liquid, safe assets earn little while high-yielding assets are illiquid or risky.
+
+**What is moral hazard in banking?**
+Moral hazard exists when a bank is protected from the full cost of its own risks, for example by an expected rescue, so it gambles more freely while the taxpayer bears part of the cost.
+
+**Which sections of the AQA specification does this guide cover?**
+It covers commercial and investment banks and the regulation of the financial system, sections 4.2.4.2 and 4.2.4.4 of the AQA AS and A-level Economics specification, version 1.3.
+
 ## Official syllabus
 
 AQA, *AS and A-level Economics* specification (7135 and 7136), version 1.3, 29 June 2022, sections 4.2.4.2 and 4.2.4.4.

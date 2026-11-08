@@ -21,13 +21,13 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "quantitative-chemistry-9202"
     subtopic: "molar-concentrations-9202"
-description: "Conservation of mass in balanced equations, the mole concept, reacting-mass calculations, molar concentrations of solutions, and amount of substance in relation to gas volumes, for OxfordAQA International GCSE Chemistry 9202."
+description: "OxfordAQA International GCSE Chemistry 9202 guide to conservation of mass, the mole, reacting masses, concentrations and gas volumes, with worked examples."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-18
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 ---
 
 This guide covers **Quantitative chemistry**, one of the ten topic areas of
@@ -201,6 +201,23 @@ balanced equation
 - amount = mass ÷ molar mass
 - amount = concentration × volume (in dm³) for solutions
 - amount = gas volume (dm³) ÷ 24 at room temperature and pressure
+
+## Frequently asked questions
+
+**What is a mole in chemistry?**
+The mole is the unit chemists use to count particles. One mole of any substance contains the Avogadro constant of particles, about 6.02 × 10²³, and its mass in grams equals the relative formula mass.
+
+**How do you calculate the number of moles from a mass?**
+Use amount (mol) = mass (g) ÷ molar mass (g mol⁻¹). For example, 6.0 g of magnesium (Ar 24) is 6.0 ÷ 24 = 0.25 mol.
+
+**How do you calculate moles in a solution?**
+Use amount (mol) = concentration (mol dm⁻³) × volume (dm³), dividing any volume in cm³ by 1000 first. So 25.0 cm³ of 2.00 mol dm⁻³ acid contains 2.00 × 0.0250 = 0.0500 mol.
+
+**What volume does one mole of gas occupy?**
+At room temperature and pressure, one mole of any gas occupies 24 dm³ (24 000 cm³) at GCSE level, so amount (mol) = volume of gas (dm³) ÷ 24.
+
+**Why does mass seem to decrease in some reactions?**
+If a gas escapes from an open container, the measured mass of what is left falls, even though no atoms have been destroyed. Mass is conserved for the whole reacting system.
 
 ## Related resources
 

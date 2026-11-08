@@ -130,6 +130,20 @@ Attempt Questions 1 to 4 from memory first, then check them against the lists in
 - Take the [free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Where do students usually lose marks on stakeholder questions in OxfordAQA 9215?**
+Common losses are naming a group without saying what it wants, giving profit as the interest of every stakeholder, and forgetting to use figures from the scenario in an explain answer.
+
+**How should I answer a question about a decision that affects several stakeholders?**
+Write about every group the question names and say who gains and who loses from the decision. In a discuss question, finish with a conclusion.
+
+**How should I use this set of practice questions?**
+Attempt the recall questions from memory first and check them against the lists in the study guide, then work through the calculation and explain questions using the figures for the business in the scenario.
+
+**Which part of the 9215 specification do these questions cover?**
+The internal and external stakeholders content of section 3.5 of OxfordAQA International GCSE Accounting 9215.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), specification version 1.2, section 3.5, published by OxfordAQA, for exams from May/June 2026.

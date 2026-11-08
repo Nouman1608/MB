@@ -14,12 +14,12 @@ syllabusTopics:
     topic: "business-activity-marketing-and-people-ocr-gcse-business"
 description: "Condensed recall notes on business purpose, ownership, market research, the marketing mix, motivation and organisation for OCR GCSE Business J204."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 updatedDate: 2026-11-05
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -230,3 +230,20 @@ Losing staff raises recruitment and training costs and loses knowledge, which is
 5. Compare tall and flat structures.
 
 **Answers:** 1. A new business usually aims first for survival, covering costs and building customers; an established business can aim for growth, market share or profit, because objectives change as a business evolves. 2. Unlimited liability means the owner's personal assets can be seized to settle business debts; limited liability restricts loss to the amount invested. 3. It is cheaper and faster and the candidate is already known, but it brings no new ideas and creates another vacancy. 4. Hygiene factors such as pay prevent dissatisfaction but do not motivate, while motivators such as recognition and responsibility create satisfaction — so a pay rise gives a temporary lift while job enrichment gives a lasting one. 5. Tall structures have many levels and narrow spans, giving close supervision but slow communication; flat structures have few levels and wide spans, giving faster communication but potentially overstretched managers.
+
+## Frequently asked questions
+
+**What are the financial and non-financial methods of motivation in OCR GCSE Business?**
+The OCR GCSE Business (J204) specification lists pay, bonuses, profit sharing and fringe benefits as financial methods. Its non-financial methods are praise, award schemes and the working environment.
+
+**Does pay always motivate employees?**
+No. In Herzberg's theory pay is a hygiene factor, so a pay rise can remove dissatisfaction without necessarily motivating staff further. J204 does not name the theorists, but the idea helps explain why non-financial methods matter.
+
+**What is the difference between a tall and a flat organisational structure?**
+A tall structure has many levels and narrow spans of control, giving close supervision and clear promotion routes but slow communication. A flat structure has few levels and wide spans of control, giving faster communication and empowerment, but managers can be overstretched.
+
+**What are the five bases of market segmentation in J204?**
+The specification's five bases are age, gender, income, location and lifestyle. Segmenting lets a business tailor its marketing mix to each group.
+
+**What is the difference between on-the-job and off-the-job training?**
+On-the-job training is cheap and relevant, but a trainer's bad habits can be passed on. Off-the-job training is broader and of higher quality, but it is expensive and takes staff away from work.

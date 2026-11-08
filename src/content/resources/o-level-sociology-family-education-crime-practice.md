@@ -12,13 +12,25 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-family-education-crime-2251"
-description: "Original exam-style practice questions with full worked answers on family, education and crime, deviance and social control for Cambridge O Level Sociology Paper 2 (2251)."
+  - qualification: "o-level"
+    topic: "paper-2-family-education-crime-2251"
+    subtopic: "kq-4-2-2251"
+  - qualification: "o-level"
+    topic: "paper-2-family-education-crime-2251"
+    subtopic: "kq-4-3-2251"
+  - qualification: "o-level"
+    topic: "paper-2-family-education-crime-2251"
+    subtopic: "kq-5-3-2251"
+  - qualification: "o-level"
+    topic: "paper-2-family-education-crime-2251"
+    subtopic: "kq-6-1-2251"
+description: "Original Cambridge O Level Sociology (2251) Paper 2 practice questions with worked answers on family, education, and crime, deviance and social control."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -135,3 +147,17 @@ level cannot access explain-level marks no matter how accurate those facts are.
 - Presenting official crime statistics as a complete and accurate picture rather than acknowledging their known limitations.
 - Answering a family or education question with only common-sense assumptions about effort or personal choice, without engaging any named sociological factor from the syllabus.
 - Forgetting to give a specific, concrete example when a question asks candidates to explain a function or factor, rather than naming it in the abstract.
+
+## Frequently asked questions
+
+**How do you answer an evaluate-style question in O Level Sociology?**
+Weigh factors against each other and reach a judgement, rather than giving a one-sided list. A list of points on one side does not count as evaluation.
+
+**Why do you need a concrete example in an "explain" answer?**
+When a question asks you to explain a function or factor, a specific example shows you understand how it works. Naming it in the abstract earns less credit.
+
+**Can you explain educational achievement through effort alone?**
+No. Answers that rely only on common-sense ideas about effort or personal choice, without a named sociological factor from the 2251 syllabus, lose marks.
+
+**Are these questions from real Cambridge O Level papers?**
+No. They are original practice questions for Cambridge O Level Sociology (2251) Paper 2; use them alongside official past papers.

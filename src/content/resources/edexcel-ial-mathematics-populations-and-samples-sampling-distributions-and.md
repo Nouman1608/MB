@@ -253,6 +253,20 @@ Note how close it is: 0.0550 against 0.05. A value just outside the region is a 
 - Concluding "the claim is true" or "H₀ is true". A test never proves either.
 - Giving the conclusion in symbols only, with no reference to the context.
 
+## Frequently asked questions
+
+**What is a sampling frame?**
+A sampling frame is the list of all sampling units from which a sample is taken. A good frame names every member of the population once, such as a full enrolment list of students.
+
+**What is a statistic in S2?**
+A statistic is a quantity calculated only from the sample values, with no unknown parameter in it. The sample mean is a statistic, but X₁ − μ is not when μ is unknown.
+
+**What is a critical region?**
+The critical region is the set of values of the test statistic for which H₀ is rejected, and its boundary is the critical value. Choose it so its probability is as large as possible without exceeding the significance level.
+
+**When can you use a normal approximation in a binomial hypothesis test?**
+When n is large, X ~ B(n, p₀) can be approximated by N(np₀, np₀(1 − p₀)) with a continuity correction. The Edexcel IAL specification allows tests for p to use this approximation.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure

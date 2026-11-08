@@ -12,11 +12,17 @@ order: 1
 syllabusTopics:
   - qualification: "o-level"
     topic: "commerce-and-production-7100"
-description: "Trade, commerce, aids to trade and the different types of modern commerce -- the opening topic of Cambridge O Level Commerce (7100), which shares its six-topic structure with sibling IGCSE Commerce 0715."
+  - qualification: "o-level"
+    topic: "commerce-and-production-7100"
+    subtopic: "trade-and-commerce-7100"
+  - qualification: "o-level"
+    topic: "commerce-and-production-7100"
+    subtopic: "production-7100"
+description: "Guide to Topic 1 of Cambridge O Level Commerce 7100: trade and aids to trade, sectors of production, utility, specialisation, supply chains and intermediaries."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -169,3 +175,17 @@ Describing commerce as including the creation of goods — commerce covers trade
 - Explain why specialisation makes exchange, and therefore commerce, necessary.
 - Distinguish in-house from outsourced production, and a global from a domestic supply chain.
 - Name the home-trade and international-trade intermediaries.
+
+## Frequently asked questions
+
+**What are form, place and time utility in O Level Commerce?**
+Form utility comes from changing a product so it is more useful, place utility from moving goods to where consumers can reach them, and time utility from making goods available when they are wanted, for example by warehousing.
+
+**Why does specialisation make commerce necessary?**
+Specialisation means an individual, factory or country produces far more of one thing and far less of everything else, creating interdependence. Interdependence makes exchange necessary, and commerce is the mechanism that makes exchange possible.
+
+**How is Cambridge O Level Commerce 7100 assessed?**
+Candidates take two components: a multiple-choice paper worth 30% and a written paper worth 70%.
+
+**Does O Level Commerce 7100 have the same topics as IGCSE Commerce 0715?**
+Yes. Cambridge O Level Commerce 7100 shares an identical six-topic structure with Cambridge IGCSE Commerce 0715, although the two have different syllabus codes and official documents.

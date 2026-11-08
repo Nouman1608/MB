@@ -17,11 +17,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-time-space"
 description: "Original IB DP Literature Paper 1 practice: a poem, a prose extract and a drama scene, with analysis questions, two guiding-question tasks and models."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -258,6 +258,20 @@ The real exam is marked holistically against the IB criteria, not point by point
 - [Printable checklist](/checklists/ib/ib-dp/language-a-literature/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**How long is Paper 1 in IB Language A: Literature?**
+Paper 1 of IB DP Language A: Literature lasts 1 hour 15 minutes at SL and 2 hours 15 minutes at HL. It is a guided analysis of unseen literary passages, each with a guiding question.
+
+**Why do Paper 1 literary analyses lose marks?**
+Common reasons are retelling the passage instead of answering the guiding question, naming techniques without saying what they do, confusing the speaker or narrator with the author, and ignoring line breaks or stage directions.
+
+**Should you add historical context to an unseen passage?**
+Only what the passage itself shows, such as period details, place and social roles. Inventing a date or details of the writer's life is a common mistake.
+
+**What is a vague effect?**
+An effect that could fit any text, such as "it makes the reader want to read on". Say what this feature makes the reader think or feel about this character or idea.
 
 ## Official syllabus
 

@@ -235,6 +235,20 @@ Criterion B (investigating patterns) fits patterns and generalization: you find 
 - Stating that a model is "correct" instead of saying where it holds and what it ignores.
 - Leaving a solution without checking it against the context.
 
+## Frequently asked questions
+
+**Why do related concepts matter in MYP Mathematics?**
+Related concepts, together with a key concept and a global context, form a unit's statement of inquiry. They name the mathematical ideas at work, such as approximation or change, so that learning goes beyond procedures.
+
+**How can one change be described in three ways?**
+A change can be given as its size, its rate and its size relative to the start. A seedling growing from 12 cm to 27 cm in 5 days changes by 15 cm, at 3 cm per day, which is a 125% increase.
+
+**What does approximation mean in the IB MYP Mathematics glossary?**
+Approximation is a value or representation that comes near to the true one without being exact. The context decides how to round, for example rounding up the number of tiles needed to cover a floor.
+
+**Are the branch lists of related concepts fixed?**
+No. For each branch the guide lists related concepts that could be used within it, but the lists are suggestions, not limits.
+
 ## Official syllabus
 
 IB *Mathematics* guide, Middle Years Programme (for use from September 2020/January 2021; first assessment 2022), published by the International Baccalaureate Organization. Sections used: Table 2 (related concepts in mathematics), the branch descriptions with their links to MYP concepts, and the appendix glossary of related concepts.

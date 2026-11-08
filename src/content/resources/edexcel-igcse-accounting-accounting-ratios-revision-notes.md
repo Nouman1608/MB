@@ -172,6 +172,20 @@ A full comment has three parts: the change (with figures), a reason that fits th
 
 Work through the [practice questions](/resources/edexcel-igcse-accounting-accounting-ratios-practice/), re-read the [study guide](/resources/edexcel-igcse-accounting-accounting-ratios/) for anything shaky, and check the [4AC1 Accounting hub](/boards/edexcel/igcse/accounting/), the [checklist](/checklists/edexcel/igcse/accounting/) and the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is the formula for gross profit percentage?**
+Gross profit percentage is gross profit divided by revenue, multiplied by 100. Show the formula, the working and the answer to 1 or 2 decimal places with the % sign.
+
+**Does a high profit mean a business has good liquidity?**
+No. Profit is the difference between revenue and expenses, while liquidity depends on cash and assets that will soon become cash. A business can report a healthy profit and still be unable to pay a supplier on time.
+
+**What is a good current ratio for Edexcel IGCSE Accounting?**
+Many textbooks quote about 2 : 1 for the current ratio and 1 : 1 for the acid test as a rule of thumb, but the 4AC1 specification sets no benchmark. Normal ratios differ between types of business, so compare with the previous year, a target or a similar business.
+
+**Why is profit for the year percentage lower than gross profit percentage?**
+Profit for the year is gross profit minus other operating expenses, so it is a smaller share of revenue. If the profit percentage falls by more than the gross margin, expenses have grown faster than sales.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1), Specification, Issue 1, October 2016, published by Pearson Education Limited. Topic 4: The preparation of financial statements, section 4 "The calculation and interpretation of accounting ratios", points (a) to (c).

@@ -27,11 +27,11 @@ syllabusTopics:
     subtopic: "conservation-cambridge-igcse-biology"
 description: "Original IGCSE Biology 0610 practice questions on food supply, deforestation, pollution, eutrophication and conservation, with mark-by-mark answers."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -177,6 +177,20 @@ Terrestrial: plastic is not broken down by decomposers, so it builds up in landf
 - Browse the [Cambridge IGCSE Biology hub](/boards/cambridge/igcse/biology/) and tick off the [0610 checklist](/checklists/cambridge/igcse/biology/).
 - Take the [Core diagnostic](/practice/0610/diagnostic/core/) or [Extended diagnostic](/practice/0610/diagnostic/extended/), or try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Which papers test human influences on ecosystems in Cambridge IGCSE Biology 0610?**
+Topic 20 is tested on all papers. Core content is examined on Papers 1 and 3, and Supplement content, labelled Extended, is examined on Papers 2 and 4, where candidates must also know the Core material.
+
+**How do you calculate a percentage decrease in Biology data questions?**
+Subtract the new value from the original value, divide the change by the original value and multiply by 100. Dividing by the new value instead of the original is a common way to lose the mark.
+
+**Should you write "greenhouse effect" or "enhanced greenhouse effect"?**
+When describing the effect of extra carbon dioxide and methane from human activities, write "enhanced greenhouse effect". The natural greenhouse effect is not the problem caused by pollution.
+
+**How should you answer a question about conservation methods?**
+Name each method and then explain how it allows the population to recover or the habitat to be protected. A list of methods with no explanation usually earns fewer marks.
 
 ## Official syllabus
 

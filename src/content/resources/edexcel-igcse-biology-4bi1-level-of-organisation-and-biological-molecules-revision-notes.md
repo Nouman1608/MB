@@ -303,6 +303,23 @@ The iodine stays orange-brown after 80 s. Rate = 1/80 = 0.0125 s⁻¹. A time tw
 - Quoting the time as the rate; rate = 1/time, and the shortest time is the fastest rate.
 - Not pre-warming the enzyme and substrate separately, so the reaction starts at the wrong temperature.
 
+## Frequently asked questions
+
+**What are the levels of organisation in Edexcel 4BI1?**
+Organelle, cell, tissue, organ, system and organism. A tissue is many cells of one kind; an organ contains more than one kind of tissue.
+
+**Which elements are found in biological molecules?**
+Carbohydrates and lipids contain carbon, hydrogen and oxygen. Proteins also contain nitrogen.
+
+**Which food test needs heating?**
+Only Benedict's test, in a water bath. The iodine, biuret and emulsion tests do not need heating.
+
+**How do you calculate rate in the amylase practical?**
+Rate = 1 ÷ time, where time is when the iodine stays orange-brown. A longer time means a slower rate.
+
+**What is the difference between a slowed and a denatured enzyme?**
+Cold slows an enzyme reaction but the enzyme recovers when warmed. High temperature denatures the enzyme by changing the shape of its active site, permanently.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1) specification, Issue 3, first examination June 2019, Pearson Education Limited -- Topic 2, Structures and functions in living organisms: sub-topics (a) Level of organisation and (c) Biological molecules.

@@ -211,6 +211,20 @@ Use "so", "which means" and "depends on" to link each step.
 - Ignoring the data in a source and giving only general points.
 - Giving one-sided answers to evaluation questions. State who gains, who loses and what the outcome depends on.
 
+## Frequently asked questions
+
+**What is specialisation at a national level?**
+It means a country concentrating its resources on producing a narrow range of goods and services and trading them for everything else. It is different from one worker doing one job.
+
+**What is overspecialisation?**
+Overspecialisation is when a country relies on one or two exports. A fall in their price or demand then hits incomes, jobs and tax revenue together, which is why many governments try to diversify.
+
+**What is a multinational company?**
+A multinational company (MNC) is a firm that has production units in more than one country, owned or controlled by it. Being large is not enough to make a firm an MNC.
+
+**What are the benefits of free trade?**
+Consumers gain lower prices, more choice and better quality. Producers gain larger markets, economies of scale and cheaper imported inputs, and the economy gains as resources move to their best uses.
+
 ## Official syllabus
 
 Source: Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International), section 6.1 and sections 6.2.1 to 6.2.3.

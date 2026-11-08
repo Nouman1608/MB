@@ -201,6 +201,20 @@ Per kilogram, deuterium-tritium fusion releases about 3.4 × 10¹⁴ J, roughly 
 - Stating a number of collisions without rounding up.
 - Giving "radioactive waste" a single storage method for all classes.
 
+## Frequently asked questions
+
+**Why do fusion reactions need such high temperatures?**
+Nuclei are positively charged and repel each other, so they need a large kinetic energy to get close enough for the strong interaction to act. A practical fusion plasma must reach about 10⁸ K.
+
+**Why are light nuclei good moderators?**
+In an elastic collision a neutron loses the most kinetic energy when it hits a nucleus of similar mass. A head-on collision with hydrogen-1 can remove all of it, while a collision with uranium-238 removes less than 2%.
+
+**Why does a light-water reactor need enriched uranium?**
+Light water absorbs more neutrons than heavy water or graphite. Natural uranium is only about 0.7% uranium-235, so the fuel is enriched to a few per cent to keep the chain reaction going.
+
+**How is high-level nuclear waste stored?**
+Spent fuel and fission fragments are cooled for years, then sealed in glass and steel and kept deep underground. Low-level waste is sealed in drums for shallow burial, and intermediate-level waste is shielded and set in concrete.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), specification version 4.4, for exams from May/June 2020 onwards, published by Oxford International AQA Examinations: sections 3.12.3 Induced fission, 3.12.4 Safety aspects of nuclear reactors and 3.12.5 Nuclear fusion (International A-level only).

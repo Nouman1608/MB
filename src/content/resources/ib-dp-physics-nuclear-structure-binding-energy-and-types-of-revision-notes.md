@@ -242,6 +242,20 @@ Match the radiation to the job: a thickness gauge needs partial absorption; a le
 - Confusing the two descriptions: spontaneous means conditions have no effect, random means timing cannot be predicted.
 - Describing the curve without giving the numbers for the peak and for uranium.
 
+## Frequently asked questions
+
+**Do these notes cover activity and half-life?**
+No. These notes cover the first part of E.3: nuclear structure, binding energy and types of decay. Activity and half-life are the other part of E.3 and are covered separately.
+
+**Where is the peak of the binding energy per nucleon curve?**
+The curve has a broad peak near A = 56 to 62 at about 8.8 MeV per nucleon, and falls slowly to about 7.6 MeV per nucleon at uranium.
+
+**Does lead stop gamma rays completely?**
+No. Gamma rays are never fully stopped; their intensity falls with the thickness of lead or concrete. Claiming lead stops them completely loses marks.
+
+**Why is the binding energy curve fairly flat above A = 60?**
+This is HL only. The strong force has a short range, so each nucleon bonds only with its neighbours, and binding energy grows in proportion to A.
+
 ## Official syllabus
 
 IB *Physics guide*, first assessment 2025, International Baccalaureate Organization: sub-topic E.3, Radioactive decay (nuclear structure, binding energy and decay types, plus the related additional higher level understandings).

@@ -235,6 +235,23 @@ Run through these in order for any "evaluate the model" question.
 - Stating a domain but not testing the end points in the model.
 - Writing an answer in the wrong form, such as one combined fraction when the question asks for partial fractions.
 
+## Frequently asked questions
+
+**Which partial fraction denominators are in the AQA 7357 specification?**
+B10 covers denominators no more complicated than squared linear terms, with no more than three terms and constant or linear numerators: two or three distinct linear factors, (ax + b)², and (ax + b)(cx + d)².
+
+**How many terms does a repeated factor need?**
+A repeated factor such as (x + 3)² needs two terms, one over (x + 3) and one over (x + 3)². Leaving out the first-power term makes the identity impossible.
+
+**How do you write partial fractions when a factor has a coefficient, such as 3x − 1?**
+Keep the coefficient inside the factor, for example 3/(3x − 1), and substitute the value that makes it zero, here x = 1/3, not x = 3.
+
+**Which function should you choose to model something that approaches a limit?**
+Use a function of the form A − Be^(−kt), which has a horizontal asymptote at A. Repeating patterns suit sine or cosine models, and a best value suits a quadratic.
+
+**What should an "evaluate the model" answer include?**
+State an assumption, check the domain, say whether a prediction is interpolation or extrapolation, look at long-term behaviour, suggest a specific refinement, and give answers in context with units.
+
 ## Official syllabus
 
 AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), A-level exams June 2018 onwards, published by AQA. Sections B10 and B11 and theme OT3 are the sources for these notes.

@@ -13,14 +13,14 @@ order: 7
 syllabusTopics:
   - qualification: "a-level"
     topic: "human-resource-management-a-cambridge-alevel-business"
-description: "Original exam-style questions with full worked answers on flexible employment contracts, core and peripheral workers, hard and soft HRM, management by objectives, matrix structures and emotional intelligence, for Cambridge AS & A Level Business (9609)."
+description: "Worked practice questions on flexible contracts, core and peripheral workers, hard and soft HRM, MBO and matrix structures for Cambridge A Level Business 9609."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -99,3 +99,17 @@ Each question practises a skill tested in the June 2024 Paper 32. After each ans
 - Adding drawbacks or evaluation when the question asks only for advantages.
 - Confusing hard HRM with strict or unpleasant management; it is about treating labour as a cost to be controlled.
 - Describing a matrix structure without mentioning that staff report to two managers.
+
+## Frequently asked questions
+
+**Which Cambridge 9609 paper do these HRM questions practise?**
+Each question practises a skill tested in the June 2024 A Level Paper 32, and each answer is followed by an examiner insight, a mark-scheme insight or a tip.
+
+**Should you explain an advantage to the business or to employees?**
+Read the question carefully: if it asks for an advantage to the business, an advantage to employees earns no credit. This is one of the most common ways marks are lost on HRM questions.
+
+**Should you add evaluation to a question that asks only for advantages?**
+No. If the question asks only for advantages, adding drawbacks or evaluation uses time without earning extra marks.
+
+**How should you define flexible employment contracts?**
+Say what makes the contract flexible, for example that there are no guaranteed hours, rather than only naming the type of contract.

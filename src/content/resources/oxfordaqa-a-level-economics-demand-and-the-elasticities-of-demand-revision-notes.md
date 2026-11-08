@@ -213,6 +213,23 @@ On a straight-line demand curve, demand is elastic towards the top left, inelast
 - Leaving an evaluation point undeveloped, for example "it depends on costs" with no reason.
 - Treating a substitute as a complement, or the reverse, when reading a sign.
 
+## Frequently asked questions
+
+**What is the difference between a contraction in quantity demanded and a decrease in demand?**
+A contraction is a movement along the demand curve caused by a rise in the good's own price. A decrease in demand is a leftward shift of the whole curve caused by another influence, such as a fall in income for a normal good.
+
+**What does a negative income elasticity of demand mean?**
+A negative YED means the good is an inferior good: demand falls as income rises. Inferior does not mean poor quality; it describes how demand responds to income.
+
+**What is the difference between being price elastic and income elastic?**
+They are different measures. Price elastic means PED is above 1 in size, so quantity responds more than proportionally to the good's own price; income elastic means YED is above 1, so demand rises more than proportionally to income.
+
+**What makes demand for a product more price elastic?**
+Demand is more price elastic when there are many close substitutes, the good is a luxury, it takes a large share of income, the time period is long, or the good is narrowly defined, such as a single brand.
+
+**Which OxfordAQA 9640 unit examines demand and elasticity?**
+Sections 3.1.2.1 and 3.1.2.2 of the OxfordAQA International AS and A-level Economics (9640) specification are International AS content examined in Unit 1. The QS2 and QS8 quantitative skills can appear in any unit.
+
 ## Official syllabus
 
 Source: the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, Oxford International AQA Examinations. Sections covered: 3.1.2.1 and 3.1.2.2, with QS2 and QS8 from 3.5.

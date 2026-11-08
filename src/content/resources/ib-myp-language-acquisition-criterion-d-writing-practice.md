@@ -15,9 +15,9 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-assessment-criteria"
 description: "Original IB MYP Language Acquisition criterion D practice: decoding prompts, cohesion, register, accuracy, range and a model blog post, with answers."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -156,6 +156,20 @@ Indicative points: title and direct address to the reader [1]; persuasive purpos
 - Connectives that do not match the logic.
 - Repeating one structure ("It is good...") instead of showing range.
 - Basic verb errors that a final check would catch.
+
+## Frequently asked questions
+
+**What are the most common mistakes in MYP Language Acquisition writing?**
+Common slips include describing a topic when the prompt asks you to argue, choosing the wrong register for the audience, register drift in greetings or sign-offs, lifting stimulus phrases word for word and using connectives that do not match the logic.
+
+**How do I use the icons or photos in a writing stimulus?**
+Treat the images in a multimodal stimulus as part of the content. Ignoring the icons or photo means missing ideas the stimulus offers.
+
+**How are these MYP writing practice answers marked?**
+Real MYP work is judged against criterion level descriptors with achievement levels 1–8, so the mark points in these answers are a revision aid, not IB marks.
+
+**Can I practise these writing tasks in my target language?**
+Yes. Model answers are in English, but the tasks can be repeated in your target language using the notes on the page.
 
 ## Next steps
 

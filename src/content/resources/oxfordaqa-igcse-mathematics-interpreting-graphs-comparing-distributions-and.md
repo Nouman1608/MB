@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "statistics-and-probability-oxfordaqa-igcse-maths"
     subtopic: "interpretation-oxfordaqa-igcse-maths"
-description: "Study guide to reading graphs, comparing distributions, correlation and lines of best fit by eye, for OxfordAQA International GCSE Maths."
+description: "Study guide to reading graphs, comparing distributions, correlation and lines of best fit by eye, for OxfordAQA International GCSE Maths (9260)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -308,6 +308,20 @@ Because the line is drawn by eye, other sensible lines are accepted. Your estima
 ## Where to go next
 
 Work through the [practice set](/resources/oxfordaqa-igcse-mathematics-interpreting-graphs-comparing-distributions-and-practice/), then use the [revision notes](/resources/oxfordaqa-igcse-mathematics-interpreting-graphs-comparing-distributions-and-revision-notes/) for the final check. For the earlier skills of charts and averages, use the [course hub](/boards/oxfordaqa/igcse/mathematics/).
+
+## Frequently asked questions
+
+**Which statistics statements does this OxfordAQA 9260 topic cover?**
+It covers S6 (reading and interpreting graphs and diagrams), S7 (comparing distributions and making inferences) and S8 (correlation and lines of best fit by eye) in OxfordAQA International GCSE Mathematics (9260). All three are Core.
+
+**Which correlation terms do you need to know?**
+You should know positive correlation, negative correlation, no correlation, weak correlation and strong correlation. Strong means the points lie close to a straight line; weak means they are scattered round the trend.
+
+**Does a line of best fit have to go through the origin?**
+No. A line of best fit follows the direction of the points and does not need to pass through the origin or any particular point, although it should pass through or close to the mean point.
+
+**How do you read a composite bar chart?**
+Only the bottom section starts at zero, so read each part as the difference between the tops of its section and the one below. Compare the same categories across bars.
 
 ## Official syllabus
 

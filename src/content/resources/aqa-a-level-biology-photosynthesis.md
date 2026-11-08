@@ -241,6 +241,23 @@ The rate is higher in brighter light. For a small lamp, light intensity is rough
 - Saying the x-axis factor still limits the rate on a plateau. It does not; another factor does.
 - Giving Rf as a percentage or with units.
 
+## Frequently asked questions
+
+**Where do the two stages of photosynthesis take place?**
+The light-dependent reaction happens on the thylakoid membranes and the light-independent reaction happens in the stroma of the chloroplast.
+
+**Where does the oxygen released in photosynthesis come from?**
+The oxygen comes from water, by photolysis. It does not come from carbon dioxide.
+
+**Does the light-independent reaction happen in the dark?**
+It does not use light directly, but it needs the ATP and reduced NADP made in the light-dependent reaction, so it stops soon after light is removed.
+
+**What is Required Practical 7?**
+Chromatography of photosynthetic pigments, for example from shade-tolerant and shade-intolerant plants, with Rf values calculated to identify the pigments.
+
+**Why is the chloroplast extract made in an ice-cold, buffered, isotonic solution?**
+Cold reduces enzyme activity, the buffer keeps the pH constant, and the isotonic solution stops the chloroplasts gaining or losing water by osmosis.
+
 ## Official syllabus
 
 AQA AS and A-level Biology (7401 and 7402), specification for first teaching 2015, published by AQA. Section 3.5.1 and required practicals 7 and 8.

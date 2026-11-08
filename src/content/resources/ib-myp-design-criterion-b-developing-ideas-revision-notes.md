@@ -208,6 +208,20 @@ Why it works: it names the choice, quotes the scores, compares with the rejected
 - Digital projects with a finished-looking mock-up but no wireframes or navigation flow.
 - No sign of development between the chosen idea and the final presented design.
 
+## Frequently asked questions
+
+**What is a feasible design idea in MYP Design?**
+A feasible idea is one you can actually make with the skills, tools, materials, time and budget available. Ideas that exceed the budget or the workshop time need changing or rejecting.
+
+**How do you calculate a weighted decision matrix?**
+Give each specification point a weight, score each idea from 1 to 5 against it, then add weight × score for every point. If the totals are close, the written justification and client feedback matter more than the numbers.
+
+**What does a tolerance mean in a design specification?**
+A tolerance is the allowed variation in a measurement. For example, 150 ± 2 mm means any width from 148 mm to 152 mm is acceptable.
+
+**What should a Criterion B planning drawing include?**
+For a product, include scaled, dimensioned orthographic views, a 3D or isometric view, an exploded view and a parts list, with a title block giving the scale, projection method and units. For digital design, include wireframes, a site map or flowchart and a style guide.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Design*, from 2014.

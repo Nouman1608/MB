@@ -209,6 +209,23 @@ Reasons the UK pattern changes:
 - Listing costs without a chain of reasoning, or without saying who bears them.
 - Quoting real statistics you cannot source. Use the figures given in the question.
 
+## Frequently asked questions
+
+**What is comparative advantage?**
+A country has a comparative advantage in a good when its opportunity cost of producing it, the amount of the other good given up, is lower than another country's.
+
+**Can a country with an absolute disadvantage in everything gain from trade?**
+Yes. It can still have a comparative advantage in one good and gain by specialising in it. Gains disappear only if the two countries' opportunity costs are the same.
+
+**What are the assumptions of the comparative advantage model?**
+Constant opportunity costs, resources moving freely between uses, no transport costs or trade barriers, identical goods and technology, full employment, and only two goods and two countries.
+
+**How does trade create economies of scale?**
+A larger market allows higher output, which spreads fixed costs over more units and lowers average cost.
+
+**Why does the UK's pattern of trade change?**
+Because comparative advantage changes, and because of the growth of emerging economies, trade agreements and blocs, exchange rates, relative costs and productivity, and changing tastes, incomes and technology.
+
 ## Official syllabus
 
 AQA Advanced Level GCE in Economics (7136), specification version 1.3, 29 June 2022, published by AQA: section 4.2.6.2 Trade (first part), within The international economy.

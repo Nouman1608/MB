@@ -34,11 +34,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-5-8"
 description: "Study guide for IB DP Maths AA differentiation: limits, gradient, tangents, chain, product and quotient rules, stationary points and inflexion."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 This study guide teaches the differentiation unit of IB Diploma Programme Mathematics: Analysis and Approaches. It is aligned to the IB *Mathematics: analysis and approaches guide*, first assessment 2021, syllabus sections 5.1–5.4 and 5.6–5.8. All of it is SL content, so it is required at both SL and HL. It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 sessions.
@@ -359,6 +359,23 @@ Write the expression you are evaluating before the GDC value, so method marks ar
 - Using degrees with sin x and cos x in calculus.
 
 Go on to the [revision notes](/resources/ib-dp-mathematics-aa-sl-differentiation-revision-notes/) for condensed recall, then the [practice questions](/resources/ib-dp-mathematics-aa-sl-differentiation-practice/). For how calculus links to graph work, see the [functions strand overview](/resources/ib-dp-mathematics-aa-functions/). The [syllabus guide](/resources/ib-dp-mathematics-analysis-and-approaches-syllabus-guide/), [subject guide](/resources/ib-dp-mathematics-analysis-and-approaches-subject-guide/) and [exam preparation page](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/) cover the course as a whole.
+
+## Frequently asked questions
+
+**Do you need to calculate limits algebraically in IB Maths AA SL?**
+No. The IB DP Mathematics: Analysis and Approaches guide says formal analytic methods of calculating limits are not required at SL; you estimate limits from a table or graph. Differentiation from first principles is HL only.
+
+**Is f″(x) = 0 enough to show a point of inflexion?**
+No. f″ must also change sign. For y = x⁴, f″(0) = 0 but (0, 0) is a minimum, not a point of inflexion.
+
+**Does the order matter in the quotient rule?**
+Yes. For y = u/v, dy/dx = (v du/dx − u dv/dx)/v², and swapping the order of the numerator changes the sign of the answer.
+
+**What does concave-up mean?**
+A curve is concave-up where f″(x) > 0, meaning the gradient is increasing. It is concave-down where f″(x) < 0.
+
+**What does it mean for a function to be increasing?**
+f is increasing on an interval where f′(x) > 0 and decreasing where f′(x) < 0. Where f′(x) = 0 the tangent is horizontal.
 
 ## Official syllabus
 

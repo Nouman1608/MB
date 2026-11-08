@@ -216,6 +216,20 @@ Each shift followed a failure of the previous approach to deal with events.
 - Listing history without linking cause to the change in approach.
 - Saying "supply-side policy solves everything" without time lags and costs.
 
+## Frequently asked questions
+
+**What are the main conflicts between macroeconomic objectives?**
+The OCR A Level Economics (H460) guide covers five: unemployment and inflation, growth and inflation, inflation and the balance of payments, growth and the balance of payments, and growth and income and wealth equality.
+
+**Why did Keynes reject the idea that falling wages would cure unemployment?**
+During the Great Depression, wages and prices fell but full employment did not return. Keynes argued that deficient aggregate demand could hold an economy below full employment, and a large wage cut also cuts spending.
+
+**How do expectations affect monetary policy?**
+If expected inflation rises while the nominal interest rate stays the same, the real interest rate falls and can even become negative. The same nominal rate then stimulates the economy instead of restraining it.
+
+**Can supply-side policy remove conflicts between objectives?**
+Supply-side measures reduce conflicts most in the long run by raising productive capacity, but they give little relief in the short run and involve time lags and costs. Saying they solve everything is a common error.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. Topics: Policy conflicts; Approaches to policy and macroeconomic context.

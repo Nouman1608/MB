@@ -12,11 +12,17 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "fundamentals-of-programming"
-description: "Condensed recall notes on data types, constructs, arrays, subroutines, OOP and testing for AQA A Level Computer Science 7517."
+  - qualification: "a-level"
+    topic: "fundamentals-of-programming"
+    subtopic: "programming-aqa-alevel-cs"
+  - qualification: "a-level"
+    topic: "fundamentals-of-programming"
+    subtopic: "programming-paradigms-aqa-alevel-cs"
+description: "AQA A Level Computer Science 7517 revision notes for 4.1: data types, operations, strings, exceptions, subroutines, stack frames, recursion and OOP terms."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: expanded thin page with 4.1 content it lacked (operation lists, string handling, random numbers, exception handling, stack frames, hierarchy charts, aggregation/composition, specifiers, design principles, class diagrams) and an FAQ; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -50,6 +56,22 @@ MOD  remainder             17 MOD 5 = 2
 
 `n MOD 2 = 0` tests for even. MOD is also the basis of hashing and of check-digit algorithms.
 
+The specification (4.1.1.3 to 4.1.1.5) lists these operations:
+
+| Group | Operations |
+|---|---|
+| Arithmetic | addition, subtraction, multiplication, real/float division, integer division with remainder, exponentiation, rounding, truncation |
+| Relational | equal to, not equal to, less than, greater than, less than or equal to, greater than or equal to |
+| Boolean | NOT, AND, OR, XOR |
+
+**Rounding vs truncation:** 7.68 rounded to 1 decimal place is 7.7; truncated to 1 decimal place it is 7.6 (the extra digits are simply cut off).
+
+## String handling, random numbers and exceptions
+
+- **String operations (4.1.1.7):** length, position (where a substring first occurs), substring, concatenation, character to character code, character code to character, and conversions: string to integer, string to float, integer to string, float to string, date/time to string, string to date/time.
+- **Random number generation (4.1.1.8):** a library function returns a pseudo-random number, for example an integer between 1 and 6 to simulate a die.
+- **Exception handling (4.1.1.9):** code that might fail at run time (opening a missing file, converting "abc" to an integer, dividing by zero) is placed in a protected block; if an exception is raised, control passes to a handler that deals with it instead of the program crashing.
+
 ## Subroutines
 
 **Procedure** returns nothing; **function** returns a value.
@@ -60,6 +82,10 @@ MOD  remainder             17 MOD 5 = 2
 - **Local** variables exist only within the subroutine; **global** are visible throughout.
 
 **Prefer local variables and pass by value** where possible, because it prevents unintended side effects — one subroutine changing data another depends on. That reasoning is what the mark scheme wants, not just the definitions.
+
+**Stack frames (4.1.1.15):** each subroutine call pushes a stack frame onto the call stack holding the **return address**, the **parameters** and the **local variables**. When the subroutine ends, its frame is popped and execution continues at the return address.
+
+**Structured (procedural) approach (4.1.2.2):** the program is designed top-down as a hierarchy of subroutines, drawn as a **hierarchy chart**. Advantages: each module is small and easier to write, test and debug; modules can be reused and shared among programmers; the program is easier to maintain.
 
 ## Recursion
 
@@ -87,6 +113,16 @@ Recursion is elegant and natural for tree traversal, but uses more memory than i
 **Encapsulation exists to protect data integrity.** Making attributes private and forcing access through get and set methods means validation can be enforced in one place and internal representation can change without breaking other code. Answers that define it without giving that reason lose the explanation mark.
 
 **Composition ("has-a") versus inheritance ("is-a")** — a car *has an* engine; a car *is a* vehicle. Choosing inheritance where composition is meant produces fragile hierarchies.
+
+**More OOP terms in 4.1.2.3:**
+
+- **Instantiation**: creating an object from a class using a **constructor**; a reference to the new object is assigned to a variable.
+- **Aggregation** is a "has-a" relationship where the contained object can exist independently (a team has players, who still exist if the team is disbanded). **Composition** is a stronger form where the contained object is destroyed with its container (a house has rooms).
+- **Access specifiers**: public (+), private (-) and protected (#, visible to the class and its subclasses).
+- **Abstract, virtual and static methods**: an abstract method has no implementation and must be overridden; a virtual method may be overridden; a static method belongs to the class, not to any one object.
+- **Design principles**: encapsulate what varies; favour composition over inheritance; program to interfaces, not implementation.
+
+**Class diagrams:** a box with the class name, attributes and methods, with + / - / # specifiers. Single inheritance is an arrow with an open (hollow) triangle pointing to the superclass. **Composition** is a line with a **black (filled) diamond** and **aggregation** a line with a **white (hollow) diamond**, the diamond at the containing class.
 
 ## Data structures
 
@@ -121,6 +157,20 @@ Recursion is elegant and natural for tree traversal, but uses more memory than i
 - Confusing a stack with a queue.
 - Giving only normal test data.
 - Using inheritance where composition is correct.
+
+## Frequently asked questions
+
+**What does a stack frame store in AQA 7517?**
+The return address, the parameters and the local variables of a subroutine call. Frames are pushed on the call stack when a subroutine is called and popped when it returns.
+
+**What is the difference between aggregation and composition?**
+Both are "has-a" relationships. In aggregation the contained object can exist on its own; in composition it is destroyed with its container. In a class diagram composition uses a black diamond and aggregation a white diamond.
+
+**Which object-oriented design principles must I know?**
+Encapsulate what varies, favour composition over inheritance, and program to interfaces, not implementation.
+
+**Why use named constants?**
+They make code easier to read and mean a value such as a tax rate is changed in one place only.
 
 ## Self-test
 

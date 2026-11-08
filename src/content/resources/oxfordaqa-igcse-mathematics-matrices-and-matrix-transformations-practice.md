@@ -165,6 +165,20 @@ These questions follow the OxfordAQA International GCSE Mathematics (9260) speci
 - Find your weak spots with the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What order do you multiply matrices for a combined transformation?**
+If transformation A is done first and B second, the single matrix is BA. The first transformation is the right-hand matrix, nearest the point it acts on.
+
+**How do you fully describe a transformation from its matrix?**
+A rotation needs its angle, direction and centre; a reflection needs the equation of its mirror line; and an enlargement needs its scale factor and centre. Writing just "rotation" or "reflection" is an incomplete description.
+
+**How can you check a transformation matrix is right?**
+Apply it to one point, such as A(1, 0), and compare the image with what the transformation should do. For a combined transformation, also do the two transformations separately on that point.
+
+**Are matrices in the OxfordAQA 9260 Core tier?**
+No. In OxfordAQA International GCSE Mathematics (9260), matrix multiplication, the identity matrix, matrix transformations of the unit square and combined transformations (G23 to G26) are all Extension only.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1 (for exams May/June 2018 onwards), section 3.3.3, statements G23 to G26.

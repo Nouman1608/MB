@@ -21,11 +21,11 @@ syllabusTopics:
     subtopic: "transformation-geometry-edexcel-igcse-maths"
 description: "Eleven original Edexcel IGCSE Maths 4MA1 questions on vectors and transformations, Foundation and Higher, with mark-by-mark worked answers."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -154,6 +154,20 @@ Check: (2, 1) − (1, 0) = (1, 1), turned +90° gives (−1, 1), and (1, 0) + (�
 - In a proof, stopping at the algebra without stating "parallel" and the common point.
 - Confusing |**a** − **b**| with |**a**| − |**b**|.
 - Rounding a modulus early in a multi-step question.
+
+## Frequently asked questions
+
+**What must you include to describe a rotation fully?**
+Give the word "rotation", the angle and its direction (or sign), and the centre as a coordinate point. Leaving out the centre or the direction loses marks.
+
+**How do you find the vector →AB from →OA and →OB?**
+Walk from A back to O and then out to B, so →AB = −**a** + **b** = **b** − **a**. Writing **a** − **b** reverses the direction and is a common error.
+
+**Can you describe two transformations when the question asks for one?**
+No. If the question asks for a single transformation, describe one transformation that maps the object directly onto the image; a combination of two scores no marks for the description.
+
+**How do you find a translation vector between an object and its image?**
+Subtract the object's coordinates from the image's coordinates (image − object). Doing it the other way round gives the reverse translation.
 
 ## Next steps
 

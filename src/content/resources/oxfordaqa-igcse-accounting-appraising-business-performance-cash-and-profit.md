@@ -243,6 +243,23 @@ This table is an explanation tool, not a statement the specification asks you to
 - Describing the ratio without a reason or a judgement.
 - Comparing two ratios from different years when the basis changed, such as average inventory in one year and closing inventory in the other.
 
+## Frequently asked questions
+
+**How is capital employed calculated in OxfordAQA International GCSE Accounting 9215?**
+Capital employed is non-current assets plus current assets minus current liabilities.
+
+**What is the difference between cash and profit?**
+Profit is revenue minus expenses for a period under the accruals approach, so a sale counts when it is made. Cash is money actually received and paid, so a profitable business can still run short of cash when profit is tied up in receivables and inventory.
+
+**How do you write an appraisal of business performance?**
+State each result with its direction, compare it with the other year, give a likely reason, and reach a judgement. A list of ratios on its own earns little.
+
+**Can the current ratio rise while cash falls?**
+Yes. Paying a liability from the bank reduces current assets and current liabilities by the same amount, so a current ratio above 1 : 1 rises even though cash has fallen.
+
+**Why should inventory figures be on the same basis when comparing years?**
+Comparing ratios worked on average inventory in one year and closing inventory in another gives a misleading comparison. Use the same basis for both years, or say when it has changed.
+
 ## Official syllabus
 
 Source: OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards, published by OxfordAQA, section 3.5.

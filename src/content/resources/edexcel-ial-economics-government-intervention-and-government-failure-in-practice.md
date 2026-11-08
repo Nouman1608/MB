@@ -128,6 +128,20 @@ Links: [study guide](/resources/edexcel-ial-economics-government-intervention-an
 - Naming a cause of government failure without applying it.
 - Giving one-sided evaluation with no final judgement.
 
+## Frequently asked questions
+
+**Which quantity should you use for tax revenue or subsidy cost?**
+Use the new quantity traded after the intervention, multiplied by the tax or subsidy per unit. Basing it on the pre-intervention quantity is a common error in Edexcel International A Level Economics questions.
+
+**Is tax revenue a welfare gain?**
+No. Tax revenue is a transfer from buyers and sellers to the government. The welfare gain from a corrective tax is the welfare loss it removes, not the revenue it raises.
+
+**What is the difference between the price paid and the price received after a tax?**
+Consumers pay the new market price, while producers receive that price minus the tax. Mixing the two up loses marks in incidence and revenue calculations.
+
+**How do you apply a cause of government failure?**
+Show how the cause, such as an information gap or unintended consequences, leads to a net welfare loss in the case given. Naming a cause without applying it earns little credit.
+
 ## Next steps
 
 - Review the [revision notes](/resources/edexcel-ial-economics-government-intervention-and-government-failure-in-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-government-intervention-and-government-failure-in/).

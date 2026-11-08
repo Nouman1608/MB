@@ -25,13 +25,13 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "organisms-exchange-substances-with-their-environment-aqa-alevel-biology"
     subtopic: "mass-transport-aqa-alevel-biology"
-description: "Surface area to volume ratio, gas exchange, digestion and absorption, and mass transport in animals and plants -- the full content of Topic 3.3 for AQA A-Level Biology (7402)."
+description: "Surface area to volume ratio, gas exchange, digestion and absorption, and mass transport in animals and plants: section 3.3 of AQA A-level Biology (7402)."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-09
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide covers **3.3 Organisms exchange substances with their environment**, the third of eight
@@ -197,3 +197,17 @@ in terms of energy input.
   adaptive significance.
 - Distinguish the cohesion-tension theory (xylem, water) from the mass flow hypothesis (phloem, organic
   solutes).
+
+## Frequently asked questions
+
+**What does AQA A-level Biology section 3.3 cover?**
+It covers surface area to volume ratio (3.3.1), gas exchange (3.3.2), digestion and absorption (3.3.3), and mass transport in animals (3.3.4.1) and plants (3.3.4.2).
+
+**What features do efficient exchange surfaces share?**
+Four features: a large surface area, a short diffusion distance (thin walls), a steep concentration gradient maintained by a supply mechanism, and often a good blood or fluid supply.
+
+**Is digestion a hydrolysis process?**
+Yes. Carbohydrates, lipids and proteins are all broken down by hydrolysis into units small enough to be absorbed, by co-transport or diffusion.
+
+**What is the most common mistake in exchange surface answers?**
+Explaining an adaptation only as "increases surface area" without linking it to the underlying effect on the rate of exchange.

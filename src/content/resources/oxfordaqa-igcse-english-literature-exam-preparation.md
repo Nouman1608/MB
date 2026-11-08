@@ -9,13 +9,13 @@ qualifications: ["igcse"]
 syllabusCodes: ["9275"]
 syllabusSeries: "First teaching 2016; revised set texts for first teaching 2026"
 order: 3
-description: "How OxfordAQA International GCSE English Literature 9275's compulsory Paper 1 combines with either Route A's open-book Paper 2a or Route B's shorter Paper 2b plus a non-exam assessment."
+description: "Exam preparation for OxfordAQA International GCSE English Literature 9275: Paper 1, then Route A's Paper 2a or Route B's Paper 2b with a non-exam assessment."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 OxfordAQA International GCSE English Literature (9275) is linear, with one compulsory component and a
@@ -114,6 +114,18 @@ comment on a quotation as a whole tends to restate it.
   long quotation just because the text is available.
 - **In every paragraph**: point about method, embedded short quotation, analysis of a specific word,
   named technique, link outward.
+
+## Frequently asked questions
+
+**Which 9275 papers are closed book?**
+Paper 1 Prose and drama is closed book; Papers 2a and 2b are open book.
+
+**How do the routes differ?**
+Route A is Paper 1 plus Paper 2a; Route B is Paper 1 plus Paper 2b plus a 30-mark non-exam assessment.
+
+**When are the final exams?**
+The site's course record notes final May/June exams for this specification in 2027; check with your school.
+
 
 ## Self-test
 

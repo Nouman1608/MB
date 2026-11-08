@@ -300,6 +300,20 @@ Radius gradient 3/1 = 3, so tangent gradient -1/3
 - For an area estimate, missing the "under or over" comment, or using unequal strip widths.
 - For a circle tangent, using the radius gradient itself instead of its negative reciprocal.
 
+## Frequently asked questions
+
+**What do the gradient and intercept mean in a real-life graph?**
+The gradient is a rate, such as cost per hour, and the intercept is the starting value, such as a fixed charge. Give both meanings in context with units.
+
+**How do you find the turning point of a quadratic graph?**
+Find the x-value midway between the roots and substitute it to get y. At Higher tier, completing the square to (x + p)² + q gives the turning point (−p, q).
+
+**How do you estimate the area under a curve?**
+Split the area into equal-width strips and use trapezia, then say whether the result is an over- or underestimate. If the curve bends down, the trapezia sit below it and give an underestimate.
+
+**What is the difference between f(x) + a and f(x + a)?**
+f(x) + a moves the graph up or down by a. f(x + a) moves it left or right, in the opposite direction to the sign, so f(x − 2) moves 2 to the right.
+
 ## Official syllabus
 
 AQA GCSE Mathematics (8300) specification, for teaching from September 2015, exams from May/June 2017, version 1.0, published by AQA -- section 3.2.2 Graphs (A8 to A16).

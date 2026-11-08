@@ -151,6 +151,20 @@ Related pages: [study guide](/resources/ocr-gcse-physics-current-charge-and-circ
 - Wiring a voltmeter into the loop, or an ammeter on a branch by itself.
 - Swapping the long and short lines of a cell, or drawing a diode the wrong way round.
 
+## Frequently asked questions
+
+**What are the most common mistakes in current and charge questions?**
+Common errors include writing that current is "used up" in a component, leaving time in minutes in Q = It, using milliamperes without converting to amperes, and giving the wrong unit, such as A for charge. Wiring a voltmeter into the loop is another frequent mistake.
+
+**What are the two conditions for charge to flow?**
+There must be a source of potential difference, such as a cell or power supply, and a closed circuit. Giving only one condition, or writing "a battery" without mentioning the closed loop, loses marks.
+
+**How do you explain a series circuit for full marks?**
+State that there is only one path for the charge, so the current is the same everywhere and the supply potential difference is shared between the components. Missing the single-path point weakens the answer.
+
+**Do parallel branches share the potential difference?**
+No. Each branch is connected directly across the supply, so each branch has the same potential difference as the supply. It is the current that splits between the branches.
+
 ## Next steps
 
 - Revise the key points in the [revision notes](/resources/ocr-gcse-physics-current-charge-and-circuit-conventions-revision-notes/).

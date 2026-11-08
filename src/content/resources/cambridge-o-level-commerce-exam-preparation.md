@@ -9,11 +9,11 @@ qualifications: ["o-level"]
 syllabusCodes: ["7100"]
 syllabusSeries: "2026-2028"
 order: 3
-description: "Turning the 30/70 split of Cambridge O Level Commerce 7100 into a revision plan -- calculation-bearing multiple choice, writing to a varying mark tariff on Paper 2, a worked applied answer and a checklist."
+description: "How to prepare for Cambridge O Level Commerce 7100 Papers 1 and 2: timing multiple choice, writing to the mark tariff, applied answers and an exam checklist."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-07
 featured: false
 ---
@@ -122,6 +122,20 @@ higher-tariff questions present a specific trader or transaction and award marks
 it; an unapplied definition earns the knowledge mark and stops. 4. It explains why the fact benefits
 that particular retailer, which is where the explanation mark sits -- the fact alone is only half of
 each point.
+
+## Frequently asked questions
+
+**How is Cambridge O Level Commerce 7100 assessed?**
+There are two compulsory papers: Paper 1 Multiple Choice (1 hour, 40 marks, 30%) and Paper 2 Written (2 hours, 80 marks, 70%) with structured questions of varying length. The syllabus is not tiered and grades run A* to E.
+
+**How long should you spend on each mark in O Level Commerce Paper 2?**
+Paper 2 gives 120 minutes for 80 marks, which is about 1.5 minutes per mark. A four-mark part is therefore roughly a six-minute answer, including thinking time.
+
+**Are there calculations in O Level Commerce Paper 1?**
+Yes. The syllabus notes that Paper 1 questions may involve simple calculations, so routine commercial calculations such as percentages, discounts, simple interest and profit figures are worth practising for speed.
+
+**What is the difference between state, explain and discuss in Commerce questions?**
+State asks for a fact, explain asks for a fact plus its reason, and discuss asks for reasons on more than one side followed by a judgement.
 
 *Written against the assessment overview of Cambridge O Level Commerce 7100 (official syllabus for
 2026-2028, Version 2, verified 2026-08-27). The worked scenario above is an original example written

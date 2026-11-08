@@ -194,6 +194,20 @@ Z  GRADIRNSGQEL
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which sections of the AQA specification do these questions cover?**
+They cover sections 3.4.5 (Species and taxonomy) and 3.4.7 (Investigating diversity) of AQA A-level Biology 7402.
+
+**What should you do after quoting data on relationships?**
+Say what the data mean for how closely the organisms are related. Quoting data without interpreting it loses marks.
+
+**Can you judge relatedness from appearance alone?**
+No. Use evidence such as DNA, mRNA or protein sequence data. Concluding relatedness from appearance alone is a common error.
+
+**What should you consider when comparing two means?**
+Consider the standard deviations as well as the means. Ignoring the spread is a frequent mistake.
+
 ## Official syllabus
 
 These questions follow sections 3.4.5 and 3.4.7 of the *AQA AS and A-level Biology* specification (7401 and 7402) for first teaching 2015, published by AQA.

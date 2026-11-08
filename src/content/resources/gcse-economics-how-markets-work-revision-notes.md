@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "how-markets-work-aqa-gcse-economics"
 description: "Condensed recall notes on demand, supply, price determination, elasticity, competition and market failure for GCSE Economics."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -256,3 +256,19 @@ Both only have an effect on the correct side of equilibrium — a maximum price 
   <figcaption>A tax shifts supply up and a subsidy shifts it down.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between a movement along a demand curve and a shift?**
+A change in the good's own price causes a movement along the demand curve. A change in any other condition of demand, such as income, the price of substitutes or tastes, shifts the whole curve.
+
+**What jobs does the price mechanism do?**
+The price mechanism signals to producers where resources are wanted, gives them an incentive to supply more of what is scarce and profitable, and rations goods among buyers.
+
+**What is the difference between a merit good and a public good?**
+A public good is both non-excludable and non-rival, such as street lighting. A merit good, such as healthcare or education, is under-consumed because its benefits are underestimated, and it can be sold privately.
+
+**What happens when a maximum price is set below equilibrium?**
+It creates a shortage, because quantity demanded is greater than quantity supplied at that price, which leads to queues and black markets. A maximum price set above equilibrium has no effect.
+
+**Do economies of scale reduce total costs?**
+No. Economies of scale reduce average cost, the cost per unit, as a firm grows. Total costs still rise with output.

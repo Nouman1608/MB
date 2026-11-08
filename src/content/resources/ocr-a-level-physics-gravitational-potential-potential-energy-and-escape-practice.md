@@ -134,6 +134,20 @@ These questions cover section 5.4.4 (Gravitational potential and energy), statem
 - Stopping at the distance from the centre and not converting it to a height.
 - Defining potential without "per unit mass" or without "from infinity".
 
+## Frequently asked questions
+
+**What are the most common mistakes in gravitational potential questions?**
+Common errors include dropping the negative sign from Vg or E, using height above the surface instead of distance from the centre, and subtracting potentials in the wrong order. Rounding two similar potentials before subtracting them also damages the answer.
+
+**How do you write a full-mark definition of gravitational potential?**
+Say it is the work done per unit mass in bringing a small test mass from infinity to the point. Leaving out "per unit mass" or "from infinity" loses the mark.
+
+**When can you use mgh instead of −GMm/r?**
+Only for small height changes where the field is close to uniform. For large changes in height, use the change in −GMm/r, because g varies with distance.
+
+**How do you find a height from a distance from the centre?**
+Subtract the planet's radius: h = r − R. Stopping at r, the distance from the centre, when the question asks for a height above the surface is a common slip.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/ocr-a-level-physics-gravitational-potential-potential-energy-and-escape-revision-notes/) or the [study guide](/resources/ocr-a-level-physics-gravitational-potential-potential-energy-and-escape/).

@@ -20,11 +20,11 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "forces-and-motion"
     subtopic: "forces-movement-shape-and-momentum"
-description: "Distance-time and velocity-time graphs, the equations of motion, and forces including Hooke's law and momentum, for Pearson Edexcel International GCSE Physics 4PH1."
+description: "Motion graphs, v² = u² + 2as, forces, stopping distance, Hooke's law, momentum and moments: Topic 1 of Pearson Edexcel International GCSE Physics (4PH1)."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -316,6 +316,20 @@ situations.
 - Hooke's law and elastic behaviour
 - p = mv, conservation of momentum, and F = Δp/Δt (Physics only)
 - Moment = force × perpendicular distance, and the principle of moments (Physics only)
+
+## Frequently asked questions
+
+**Which parts of Edexcel IGCSE forces and motion are Physics only?**
+Momentum, Newton's third law, and moments with the principle of moments are Physics only, along with the units newton metre and kilogram metre per second.
+
+**Are weight and the ground's upward push a Newton's third law pair?**
+No. They are different types of force and both act on you, and they are equal only because you are in equilibrium. A third-law pair always acts on different objects.
+
+**What affects thinking distance and braking distance?**
+Thinking distance is affected by reaction time and speed. Braking distance is affected by speed, mass and the road condition.
+
+**How do crumple zones and airbags make a car safer?**
+They extend the time over which momentum changes in a collision, which reduces the force involved, since force = change in momentum / time taken.
 
 ## Related resources
 

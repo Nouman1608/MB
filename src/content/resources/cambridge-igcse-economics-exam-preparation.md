@@ -9,11 +9,11 @@ qualifications: ["igcse"]
 syllabusCodes: ["0455"]
 syllabusSeries: "For examination in 2026"
 order: 3
-description: "How the 30/70 split between Paper 1 multiple choice and Paper 2 structured questions should shape revision for Cambridge IGCSE Economics 0455 -- question choice, timing per mark, a worked chain-of-reasoning answer and a checklist."
+description: "How to prepare for Cambridge IGCSE Economics 0455 Paper 1 multiple choice and Paper 2 structured questions: weighting, timing per mark and question choice."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-07
 featured: false
 ---
@@ -132,6 +132,20 @@ concentrated in the extended parts rather than the opening ones. 4. Because the 
 is the price of a complement (petrol), not the price of cars themselves; a change in the price of a
 related good shifts the demand curve, whereas only a change in the good's own price produces a
 movement along it.
+
+## Frequently asked questions
+
+**How many papers are there in Cambridge IGCSE Economics 0455?**
+There are two compulsory papers: Paper 1 Multiple Choice (45 minutes, 30 marks, 30%) and Paper 2 Structured Questions (2 hours 15 minutes, 90 marks, 70%). Both are externally assessed.
+
+**Is Cambridge IGCSE Economics tiered?**
+No. The 0455 syllabus is not tiered, so every candidate takes the same two papers, and grades run from A* to G.
+
+**Is there a penalty for wrong answers in Paper 1?**
+No. There is no penalty for a wrong answer, so never leave a multiple-choice question blank. There is also no method mark: each answer is simply right or wrong.
+
+**What is the most common mistake on demand and supply questions?**
+Confusing a shift of a curve with a movement along it. Only a change in the good's own price causes a movement; a change in something else, such as the price of a complement, shifts the curve.
 
 *Written against Cambridge IGCSE Economics 0455 (assessment overview, official syllabus for
 examination in 2026, verified 2026-08-27). The worked scenario above is an original example written

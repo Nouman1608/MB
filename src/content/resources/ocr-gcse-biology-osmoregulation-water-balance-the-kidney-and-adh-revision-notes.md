@@ -259,6 +259,20 @@ Small reminder: urine volume falls from 1300 cm³ to 400 cm³ on a hot day. Chan
 
 Test yourself next with the [practice questions](/resources/ocr-gcse-biology-osmoregulation-water-balance-the-kidney-and-adh-practice/), and use the [diagnostics](/diagnostics/) to find weak spots.
 
+## Frequently asked questions
+
+**What is the difference between filtration and selective reabsorption in the kidney?**
+Filtration happens in the Bowman's capsule, driven by pressure, and is not selective for useful substances. Reabsorption happens later in the tubule and is selective: all the glucose and much of the water and useful ions return to the blood.
+
+**What is the difference between the cortex and the medulla of the kidney?**
+The cortex is the outer layer containing the Bowman's capsules and convoluted tubules. The medulla is the inner region, made of the loops of Henlé and collecting ducts.
+
+**How does negative feedback control ADH release?**
+When blood becomes too concentrated, the hypothalamus detects it and more ADH is released, so more water is reabsorbed. As the blood water potential returns to normal, ADH release falls, which switches the response off.
+
+**Why does high salt intake cause thirst?**
+High salt intake makes the blood more concentrated. The body responds with thirst, more ADH and more water reabsorbed, and the salt is excreted in a small volume of concentrated urine.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018, published by OCR.

@@ -12,14 +12,14 @@ order: 6
 syllabusTopics:
   - qualification: "o-level"
     topic: "external-influences-on-business-activity"
-description: "Original exam-style questions with full worked answers on import quotas, tax rates, external costs and benefits, pressure groups, exchange rates and interest rates, for Cambridge O Level Business Studies (7115)."
+description: "Original practice questions with worked answers on import quotas, tax, external costs, pressure groups, exchange and interest rates for O Level Business 7115."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -42,7 +42,7 @@ Each question practises a skill tested in the June 2024 Paper 12. After each ans
 **4.** An environmental pressure group objects to a clothing retailer selling cheap, low-quality clothes that are quickly thrown away. Explain **one** way the pressure group might try to influence the retailer's decisions. **[3]**
 
 **5.** A business in country A, whose currency is the dollar, sells a machine part to customers in Europe. It keeps the price at 60 dollars. The exchange rate changes from 1 dollar = 0.80 euros to 1 dollar = 0.90 euros.
-**(a)** Calculate the price of the part in euros before and after the change.
+**(a)** State whether the dollar has appreciated or depreciated, and whether the part becomes dearer or cheaper for European customers.
 **(b)** State **one** likely effect of this change on the business's export sales. **[3]**
 
 **6.** Explain **one** way a rise in interest rates could affect a business that has a large bank loan. **[2]**
@@ -79,7 +79,7 @@ Each question practises a skill tested in the June 2024 Paper 12. After each ans
 
 *Try the real question next:* Cambridge O Level Business Studies 7115, June 2024, Paper 12, Question 3(e).
 
-**5. (a)** Before: 60 × 0.80 = **48 euros** [1]. After: 60 × 0.90 = **54 euros** [1].
+**5. (a)** Each dollar now buys more euros, so the dollar has **appreciated** [1]. European customers need more euros to pay 60 dollars, so the part becomes **dearer** for them [1]. (The 7115 syllabus says exchange rate calculations are not assessed, so the direction and reason are what matter.)
 **(b)** The part is now more expensive for foreign buyers, so **export sales are likely to fall** [1].
 
 *Tip:* When a country's currency appreciates (buys more foreign currency), its exports become dearer abroad and imports become cheaper at home.
@@ -97,3 +97,17 @@ Each question practises a skill tested in the June 2024 Paper 12. After each ans
 - Giving costs or benefits to the business itself when the question asks about external costs and benefits.
 - Saying a pressure group "puts pressure on" a business without explaining the method it uses.
 - Getting the direction of an exchange-rate effect the wrong way round.
+
+## Frequently asked questions
+
+**Are these Cambridge O Level Business Studies 7115 past paper questions?**
+No. They are original questions written for Marlbridge, each practising a skill tested in the June 2024 Paper 12. After each answer the page points to the real question to try next from the official past papers.
+
+**Where do the examiner insights on this page come from?**
+They are paraphrased from the Cambridge O Level Business Studies 7115 June 2024 mark scheme for Paper 12 and the June 2024 Principal Examiner Report for Teachers, as the page's source notes state.
+
+**Why does repeating the question lose marks?**
+Restating the stem, such as saying a business "pays less tax" when asked how it gains from a tax cut, gives no new point. Each mark needs a benefit, cost or effect that goes beyond the words of the question.
+
+**How do you develop a short "explain" answer on an external influence?**
+Say what the change does to the business's costs, profit or cash flow, not just that something "costs more". The second mark usually comes from that consequence.

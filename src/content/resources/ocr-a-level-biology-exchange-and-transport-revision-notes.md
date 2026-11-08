@@ -245,6 +245,23 @@ Imagine water that loses oxygen from 80% to 40% saturation along a lamella. Bloo
 - Forgetting that xylem is dead and phloem is living.
 - Quoting water movement from "high to low" without the sign.
 
+## Frequently asked questions
+
+**What do the external and internal intercostal muscles do?**
+During normal inspiration the external intercostal muscles contract to raise the ribcage, while the internal intercostal muscles are used in forced expiration. Mixing up the two is a frequent error in gas exchange answers.
+
+**How should inspiration be described without saying air is "sucked in"?**
+Describe the volume of the thorax increasing, so the pressure inside falls below atmospheric pressure, and air then moves into the lungs down the pressure gradient.
+
+**What is the countercurrent system in fish gills?**
+In fish gills, blood flows in the opposite direction to the water passing over the lamellae. This keeps a diffusion gradient along the whole length of the lamella, so more oxygen is taken up than with parallel flow.
+
+**How do you calculate heart rate from an ECG?**
+Measure the time between two R waves, which is the time for one heartbeat, and divide 60 seconds by it to give beats per minute.
+
+**What is the main difference between xylem and phloem?**
+Xylem vessels are dead tissue that carry water and mineral ions upwards from the roots, while phloem sieve tubes are living tissue that transport assimilates such as sucrose in both directions. These notes cover Module 3 of OCR A Level Biology A (H420).
+
 ## Official syllabus
 
 OCR Advanced GCE in Biology A (H420), Version 4.1 (April 2026), for first assessment in 2025, published by OCR.

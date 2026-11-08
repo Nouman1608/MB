@@ -228,6 +228,20 @@ You may be asked to describe energy transfers without numbers. Name every store 
 
 Try the [practice set](/resources/oxfordaqa-a-level-physics-work-power-efficiency-and-conservation-of-energy-practice/) when you can do the worked examples without looking.
 
+## Frequently asked questions
+
+**When is work done negative?**
+Work is negative when the angle between the force and the displacement is greater than 90°, so cos θ is negative. The force opposes the motion and takes energy from the object, as friction does.
+
+**Does the normal force do work on a sliding block?**
+No. The normal force is at 90° to the movement, and cos 90° = 0, so W = Fs cos θ = 0. A force at right angles to the displacement transfers no energy.
+
+**How do you derive P = Fv?**
+Power is the rate of doing work, P = ΔW/Δt. For a constant force F moving its point of action at speed v, ΔW = FΔs, so P = FΔs/Δt = Fv.
+
+**Which sections of the OxfordAQA 9630 specification does this guide cover?**
+It covers sections 3.2.7 (work, energy and power) and 3.2.8 (conservation of energy) of OxfordAQA International AS and A-level Physics (9630), Version 4.4, which are shared AS and A-level content.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Physics (9630)*, Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Sections 3.2.7 and 3.2.8.

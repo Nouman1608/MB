@@ -259,6 +259,20 @@ Judge performance by looking at: **current performance** (are margins healthy?),
 - Dividing by revenue when finding ARR, instead of by the cost of the investment.
 - Saying an asset is a liability, or treating the statement of financial position as covering a period.
 
+## Frequently asked questions
+
+**What is the difference between internal and external sources of finance?**
+Internal sources come from within the business, such as retained profit and selling unwanted assets. External sources come from outside, such as loans, overdrafts, share issues, trade credit, hire purchase and government grants.
+
+**Why is cash flow important even for a profitable business?**
+Wages, rent and suppliers must be paid on time in cash. A business can make a profit on paper while running short of cash, which can lead to high-cost borrowing, loss of trust and even insolvency.
+
+**How do you read the break-even output from a chart?**
+Find where the revenue line crosses the total cost line. Below that output the business makes a loss, and above it a profit.
+
+**How do you judge a business's financial performance in AQA GCSE Business (8132)?**
+Compare its profit margins with its previous performance, with competitors and with its own objectives, rather than looking at one year's figures alone.
+
 ## Official syllabus
 
 Aligned to AQA GCSE Business (8132), first teaching from September 2017, published by AQA: section 3.6 Finance, covering 3.6.1 to 3.6.4.

@@ -215,6 +215,23 @@ For a judgement question, set out both sides, then decide. Useful lines of evalu
 
 For the link to the balance of payments objective, see [government objectives](/resources/igcse-oxfordaqa-economics-government-objectives/).
 
+## Frequently asked questions
+
+**What is a multinational company?**
+A multinational company (MNC) is a firm that operates in more than one country. MNCs spread production by building or buying plants abroad, which moves capital and technology across borders and increases trade.
+
+**Why do multinational companies move production abroad?**
+Making goods where costs, especially labour costs, are lower can cut the cost per unit and raise profit per unit. The drawback is that jobs may be lost in the firm's home country.
+
+**What does sustainability mean in globalisation questions?**
+Sustainability means producing and consuming in ways that still leave future generations able to meet their own needs. Pollution, habitat loss and using resources up too quickly all threaten it.
+
+**Are jobs with multinational companies good for workers in less developed countries?**
+It depends. An MNC job can raise household income above local options, but it may involve longer hours, lower pay per hour or weaker safety standards. A good answer avoids treating all MNC jobs as either wholly good or wholly exploitative.
+
+**How do you evaluate the effects of globalisation?**
+Ask who gains and who loses, which type of country is affected, whether the effect is short run or long run, how large the gains and losses are, and what policy, such as training or minimum standards, could change the outcome. Then finish with a reasoned judgement rather than a list.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), specification version 1.0, for International GCSE exams May/June 2025 onwards, published by OxfordAQA. Section 3.2.4.3, Globalisation: benefits and drawbacks.

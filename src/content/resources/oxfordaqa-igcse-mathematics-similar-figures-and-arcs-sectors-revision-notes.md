@@ -238,6 +238,20 @@ Area = 70/360 × π × (14² − 9²) = 7/36 × 115π = 70.2 cm²
 * Leaving out units or mixing cm², m² and cm³.
 * Giving no written method for a multi-step answer. A clear line of working lets an examiner see which ideas you used even if the final value slips.
 
+## Frequently asked questions
+
+**What is the formula for arc length?**
+Arc length = (θ/360) × 2πr, where θ is the angle at the centre in degrees and r is the radius. The area of a sector is (θ/360) × πr².
+
+**If two similar shapes have areas in the ratio 16 : 25, what is the length ratio?**
+The length ratio is 4 : 5, found by taking the square root of each part. The volume ratio would then be 64 : 125.
+
+**How many cm² are in 1 m²?**
+There are 10 000 cm² in 1 m² and 1 000 000 cm³ in 1 m³, because areas scale by 100² and volumes by 100³. Using 100 or 1000 is a common error.
+
+**Are similar figures and sectors in the OxfordAQA 9260 Core tier?**
+No. In OxfordAQA International GCSE Mathematics (9260), similar figures (G17) and arcs and sectors (G18) are both Extension only.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), specification Version 5.1 (for exams May/June 2018 onwards), published by OxfordAQA. Statements G17 and G18, section 3.3.2 Mensuration and calculation.

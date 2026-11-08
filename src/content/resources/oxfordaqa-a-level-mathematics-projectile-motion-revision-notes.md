@@ -205,6 +205,19 @@ Take g = 9.8 m/s². Answers follow.
   <figcaption>Find where v = 0, split the motion there, and add the sizes of the stages for distance.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are the equations of motion for a projectile?**
+With launch speed V at angle α above the horizontal, x = (V cos α)t and y = (V sin α)t − ½gt². The horizontal acceleration is 0 and the vertical acceleration is −g.
+
+**What launch angle gives the greatest range on level ground?**
+45°. The angles α and 90° − α give the same range, but different heights and times of flight.
+
+**Do you need to derive the range and time of flight formulae?**
+Yes. These notes advise deriving results such as the time of flight 2V sin α / g and the range V² sin 2α / g in your answer, rather than just writing them down.
+
+**What modelling assumptions are made for projectiles?**
+The object is modelled as a particle, there is no air resistance or wind, g is constant and downwards, and the motion is in a vertical plane.
 
 ## Official syllabus
 

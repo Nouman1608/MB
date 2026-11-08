@@ -13,7 +13,7 @@ order: 61
 syllabusTopics:
   - qualification: "igcse"
     topic: "water-food-and-agriculture-0457"
-description: "Original source-based 0457 questions on water, food and farming, with model answers and Individual Report and Team Project planning tasks."
+description: "Original source-based questions on water, food and farming for Cambridge IGCSE Global Perspectives 0457, with model answers plus report and project tasks."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -156,6 +156,20 @@ In the real exam, extended answers are marked with levels of response, not point
 - Revise the exam with the [Written Exam study guide](/resources/igcse-cambridge-global-perspectives-written-exam/) and [Written Exam practice](/resources/global-perspectives-practice/).
 - Practise coursework planning with the [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/) and the [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/).
 - Want feedback on your answers? [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Are the places in these water and farming questions real?**
+No. All the sources concern Sorvana Plain in a fictional country, and the questions are original practice for IGCSE Global Perspectives 0457.
+
+**How do you identify a fact, prediction or value for marks?**
+Quote the exact words from the source and explain why they are a fact, prediction or value. Naming the type without quoting is a common reason marks are lost.
+
+**Does a company's vested interest prove its claim is false?**
+No. A vested interest is a reason to test the claim's evidence, such as how a yield figure was measured, not proof that the source is wrong.
+
+**Why does fairness matter when judging water actions?**
+Actions can affect groups differently, for example smallholders and large farms. Ignoring who pays and who loses most weakens the evaluation.
 
 ## Official syllabus
 

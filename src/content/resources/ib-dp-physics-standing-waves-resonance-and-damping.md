@@ -212,6 +212,20 @@ Critical damping is the borderline: any less and the system overshoots, any more
 
 Condense this with the [revision notes](/resources/ib-dp-physics-standing-waves-resonance-and-damping-revision-notes/), then test yourself with the [practice questions](/resources/ib-dp-physics-standing-waves-resonance-and-damping-practice/). For exam technique see [IB DP Physics exam preparation](/resources/ib-dp-physics-exam-preparation/).
 
+## Frequently asked questions
+
+**Is there HL-only content in IB DP Physics C.4?**
+No. The guide adds no higher level content to C.4, so everything here applies at both SL and HL.
+
+**How does a closed pipe compare in pitch with an open pipe of the same length?**
+The closed pipe's first harmonic is half that of the open pipe, so it sounds an octave lower. An octave is a frequency ratio of 2.
+
+**How does the tension of a string affect its harmonics?**
+A tighter string, or a lighter one per unit length, has a higher wave speed, so it gives higher harmonic frequencies for the same length.
+
+**Why are car suspensions and door closers designed near critical damping?**
+Critical damping returns a system to equilibrium in the shortest time without overshooting. Any less damping and it overshoots; any more and it is slower.
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. Section C.4, standing waves and resonance.

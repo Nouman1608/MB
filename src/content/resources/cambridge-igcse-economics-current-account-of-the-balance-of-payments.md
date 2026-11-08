@@ -203,6 +203,20 @@ A strong answer picks a policy that matches the cause, says how it works, then s
 
 Next, check yourself with the [practice questions](/resources/cambridge-igcse-economics-current-account-of-the-balance-of-payments-practice/) and take a [free diagnostic](/diagnostics/).
 
+## Frequently asked questions
+
+**What are the four sections of the current account?**
+In the Cambridge IGCSE Economics 0455 syllabus, the current account is made up of trade in goods, trade in services, primary income and secondary income. The current account balance is the sum of the four section balances.
+
+**How is a current account deficit paid for?**
+A country with a deficit can borrow from abroad, sell assets to foreigners or use its savings of foreign currency. Borrowing raises future interest payments, which worsens the primary income balance.
+
+**How does the current account affect GDP and employment?**
+Net exports (exports minus imports) are part of total spending. A persistent deficit drags on demand and can cost jobs in export and import-competing industries, while a surplus adds to demand and can create jobs.
+
+**Which policies can reduce a current account deficit?**
+Options include supply-side policies to raise export competitiveness, higher interest rates or taxes to cut spending on imports, protection such as tariffs and quotas, a lower exchange rate, and export promotion. Each works best when it matches the cause of the deficit.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International Education), section 6.4.

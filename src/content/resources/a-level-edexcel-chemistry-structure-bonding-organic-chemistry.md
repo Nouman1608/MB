@@ -13,11 +13,11 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-structure-bonding-organic-chemistry-ych11"
-description: "Formulae and amount of substance, atomic structure, bonding, and introductory organic chemistry -- Unit 1 of Pearson Edexcel International Advanced Level Chemistry, the first of three units forming the International AS."
+description: "Formulae and moles, atomic structure, bonding, shapes of molecules and introductory organic chemistry, Unit 1 of Edexcel International A Level Chemistry."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -188,3 +188,20 @@ Counting only bonding pairs when predicting shape. Claiming a molecule with pola
 - Convert between empirical, molecular, structural, displayed and skeletal formulae.
 - Identify structural isomers and assign E/Z correctly.
 - Distinguish homolytic from heterolytic fission and draw the correct curly arrows.
+
+## Frequently asked questions
+
+**Why is the bond angle in ammonia 107° rather than 109.5°?**
+Ammonia has four electron pairs around nitrogen: three bonding pairs and one lone pair. The lone pair repels more strongly than bonding pairs, pushing the bonds closer together and reducing the angle from 109.5° to 107°.
+
+**Why is tetrachloromethane non-polar even though its bonds are polar?**
+Its four polar C–Cl bonds are arranged symmetrically in a tetrahedron, so the dipoles cancel. Water is polar because its bent shape means its dipoles do not cancel.
+
+**What is needed for hydrogen bonding?**
+Hydrogen must be bonded directly to nitrogen, oxygen or fluorine, and there must be a lone pair on the electronegative atom of a neighbouring molecule. Hydrogen being present is not enough on its own.
+
+**What is the difference between homolytic and heterolytic fission?**
+In homolytic fission each atom takes one electron, forming radicals, shown with single-headed curly arrows. In heterolytic fission both electrons go to one atom, forming ions, shown with double-headed arrows.
+
+**Are intermolecular forces in Unit 1 of Edexcel International A Level Chemistry?**
+Intermolecular forces are examined in Unit 2 of this specification. Unit 1's outcome stops at distinguishing polar bonds from polar molecules.

@@ -12,13 +12,13 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-biology-unity-diversity"
-description: "Condensed revision notes on IB Diploma Programme Biology's Theme A -- Unity and diversity -- water, nucleic acids, cell structure, classification, evolution and conservation -- with HL-only content marked and self-test questions."
+description: "Revision notes for IB DP Biology Theme A, Unity and diversity: water, nucleic acids, cells, viruses, cladistics, evolution and conservation, with a self-test."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 These notes go deeper into **Theme A -- Unity and diversity** (19 hours SL / 33 hours HL) than
@@ -102,8 +102,8 @@ single "correct" account of the origin of cells.
 The shared and distinguishing features of cells, and specifically what separates prokaryotic from
 eukaryotic organisation. A reliable way to revise this is a direct comparison table: presence or
 absence of a membrane-bound nucleus, membrane-bound organelles, chromosome structure (circular vs
-linear), and typical cell size. Prokaryotic and eukaryotic organisation is one of the most
-frequently tested unity-vs-diversity contrasts in Theme A, precisely because it shows both a shared
+linear), and typical cell size. Prokaryotic and eukaryotic organisation is a central unity-vs-diversity
+contrast in Theme A, because it shows both a shared
 feature (all cells have a plasma membrane, cytoplasm and genetic material) and a fundamental point
 of divergence.
 
@@ -262,6 +262,20 @@ suited to the environment; reproductive isolation lets diverging populations bec
 distinct enough to become separate species. 7. Any two threats (habitat loss, invasive species,
 overexploitation, climate change, pollution) and any two responses (protected areas, legal
 frameworks, captive breeding, restoration).
+
+## Frequently asked questions
+
+**How many teaching hours does IB DP Biology Theme A have?**
+Theme A, Unity and diversity, has 19 recommended teaching hours at SL and 33 at HL.
+
+**What are the three components of a nucleotide?**
+Every nucleotide is built from a phosphate group, a pentose sugar and a nitrogenous base; DNA and RNA are both polymers of nucleotides.
+
+**What is the difference between prokaryotic and eukaryotic cells?**
+Prokaryotic cells lack a membrane-bound nucleus and membrane-bound organelles and have a circular chromosome; eukaryotic cells have both, with linear chromosomes, and are typically larger. All cells share a plasma membrane, cytoplasm and genetic material.
+
+**What threats to biodiversity and conservation responses should you know?**
+Name specific threats such as habitat loss, invasive species, overexploitation, climate change and pollution, and specific responses such as protected areas, legal frameworks, captive breeding and restoration.
 
 ## Official syllabus
 

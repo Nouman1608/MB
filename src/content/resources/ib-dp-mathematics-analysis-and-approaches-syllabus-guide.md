@@ -9,13 +9,13 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Analysis and Approaches"]
 syllabusSeries: "First assessment 2021"
 order: 2
-description: "The five content strands of IB Diploma Programme Mathematics: Analysis and Approaches -- number and algebra, functions, geometry and trigonometry, statistics and probability, and calculus -- with recommended teaching hours for SL and HL, for first assessment 2021."
+description: "The five content strands of IB DP Mathematics: Analysis and Approaches, with SL and HL teaching hours, the toolkit, the exploration and paper structure."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 This guide covers the full syllabus structure of **IB Diploma Programme
@@ -154,6 +154,20 @@ the content and the calculator policy differ. Choosing between the two
 courses is best made on genuine mathematical interest and aptitude
 rather than perceived ease, since both are assessed to an equally
 demanding standard.
+
+## Frequently asked questions
+
+**How many teaching hours does IB Maths AA have at SL and HL?**
+The five content strands total 120 hours at SL and 210 hours at HL. A further 30 hours at both levels go to the toolkit and the mathematical exploration, with up to 15 of those hours for the exploration itself.
+
+**Which IB Maths AA topics grow the most from SL to HL?**
+Number and algebra grows the most proportionally, from 19 to 39 hours, followed closely by geometry and trigonometry, from 25 to 51 hours. Calculus adds the most hours in absolute terms, from 28 to 55, while functions and statistics and probability grow far less.
+
+**Is complex numbers in the IB Maths AA SL syllabus?**
+No. Complex numbers and proof by induction are HL content within the number and algebra strand of the first assessment 2021 guide.
+
+**How should you choose a topic for the IB Maths AA exploration?**
+Choose a topic within a strand you are already comfortable with. The exploration is assessed on mathematical understanding and communication rather than novelty, so a well-executed piece on familiar ground tends to score more reliably than an ambitious one beyond your technical control.
 
 ## Official syllabus
 

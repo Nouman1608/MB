@@ -205,6 +205,23 @@ When writing about these, name the mechanism (for example "conditionality reduce
 - Citing the Easterlin Paradox without saying what the evidence shows.
 - Giving a list of measures with no statement of which is best for what purpose.
 
+## Frequently asked questions
+
+**What is the difference between economic growth and economic development?**
+Economic growth is a rise in real GDP, one quantity. Economic development is a sustained improvement in living standards and wellbeing, covering income, health, education, poverty, freedom and economic structure.
+
+**How do you calculate the HDI?**
+Turn each dimension into an index using the goalposts given, multiply the health, education and income indices together and take the cube root. Because it is a geometric mean, a weak dimension pulls the HDI down more than a simple average would.
+
+**What is the Genuine Progress Indicator?**
+The GPI starts from consumption, adjusts it for inequality, adds unpaid work such as household work and volunteering, and subtracts pollution, resource depletion and crime costs. It can show welfare stagnating even while GDP grows.
+
+**What are the roles of the IMF, the World Bank and the WTO?**
+The IMF monitors the world economy and lends to members with balance of payments difficulties. The World Bank provides long-term finance and advice for development, and the WTO sets trade rules, hosts negotiations and settles trade disputes.
+
+**When does overseas development assistance work?**
+ODA tends to work when it funds projects with high returns, such as vaccination, roads and schools. It is less effective when it is tied, diverted by corruption or replaces local tax effort, so judge it on how it is used.
+
 ## Official syllabus
 
 OCR A Level in Economics (H460), Version 3.0 (June 2026), first assessment 2021, published by OCR. Component 2: Macroeconomics, Area of Study "Economic policy objectives and indicators of macroeconomic performance", topic "Economic growth and development".

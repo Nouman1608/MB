@@ -14,11 +14,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-structure-bonding-organic-chemistry-ych11"
     subtopic: "atomic-structure-and-the-periodic-table-ych11"
-description: "Protons, neutrons and electrons, isotopes, and using a mass spectrometer to determine relative atomic and molecular mass -- outcomes 2.1-2.7 of Pearson Edexcel International A-Level Chemistry (YCH11), Unit 1's Atomic Structure content."
+description: "Protons, neutrons, electrons, isotopes, and mass spectra for relative atomic and molecular mass, outcomes 2.1 to 2.7 of Edexcel International A Level Chemistry."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -184,6 +184,20 @@ mass from isotopic abundances.
 different neutron number.
 - Practise predicting the molecular ion peaks for a diatomic element's
 mass spectrum from its isotopic abundances.
+
+## Frequently asked questions
+
+**How do you calculate relative atomic mass from isotopic abundances?**
+Multiply each isotope's mass by its percentage abundance, add the results and divide by 100. For chlorine, (35 × 75 + 37 × 25) ÷ 100 = 35.5.
+
+**Why does chlorine show three molecular ion peaks in a mass spectrum?**
+Chlorine exists as Cl₂ molecules, and its two isotopes, ³⁵Cl and ³⁷Cl, can combine in three ways. This gives three molecular ion peaks rather than two.
+
+**What is the difference between mass number and relative atomic mass?**
+Mass number is the whole-number total of protons and neutrons in one specific isotope. Relative atomic mass is a weighted mean across an element's isotopes on the carbon-12 scale, so it is rarely a whole number.
+
+**How do you work out the number of electrons in an ion?**
+Start from the atomic (proton) number, then adjust for the charge. A positive ion has fewer electrons than protons, and a negative ion has more.
 
 ## Related resources
 

@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "forces-ocr-gcse"
 description: "Condensed recall notes on motion, Newton's laws and forces in action for OCR GCSE (9-1) Physics A Gateway Science (J249), Topic P2 Forces."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -213,6 +213,23 @@ Topic P1 (Matter) established the particle model, changes of state and pressure 
 </figure>
 
 
+## Frequently asked questions
+
+**What does Topic P2 Forces cover in OCR GCSE Physics A?**
+In OCR GCSE (9-1) Physics A (J249), Topic P2 has three parts: P2.1 Motion, P2.2 Newton's laws and P2.3 Forces in action.
+
+**What is the difference between mass and weight?**
+Mass is the amount of matter in an object, measured in kg, and it does not change with location. Weight is the force of gravity on that mass, measured in N, and it changes with gravitational field strength.
+
+**What is terminal velocity?**
+Terminal velocity is the constant velocity an object reaches when the driving and resistive forces on it balance. The forces are still acting, but the resultant force is zero.
+
+**Why can't a Newton's third law pair cancel out?**
+The two forces in a third-law pair act on different objects, so they can never cancel each other or produce equilibrium on one object.
+
+**Is momentum or kinetic energy conserved in a collision?**
+Momentum, mass × velocity, is a vector and is always conserved in a collision. Kinetic energy is a scalar and is often not conserved.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Physics A (Gateway Science) J249 Specification*,
@@ -269,4 +286,3 @@ fetched and verified in full 2026-09-02.
   <img src="https://img.marlbridge.com/ocr-gcse-physics-moments-levers-and-gears--09-gears.webp" width="900" height="950" alt="A 15-tooth driver at 240 rpm and 2.5 N m turns clockwise and meshes with a 60-tooth driven gear turning anticlockwise. Ratio 4 gives 10 N m and 60 rpm. In a gear train ratios multiply, 4 times 2.5 = 10." loading="lazy">
   <figcaption>A larger driven gear gives a larger moment but a slower turn, by the gear ratio.</figcaption>
 </figure>
-

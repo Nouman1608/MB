@@ -208,6 +208,23 @@ So off the job is cheaper on these figures. You must still judge the whole pictu
 - Mixing up commission (tied to the worker's own sales) and profit sharing (tied to the business's profit).
 - Evaluating training without a decision for the business in the stem.
 
+## Frequently asked questions
+
+**What is span of control?**
+Span of control is the number of people a manager is directly responsible for. It is different from the number of levels in a structure, which is a common confusion.
+
+**What is the difference between a salary and a wage?**
+A salary is a fixed yearly amount, usually paid in monthly instalments, while a wage is paid by the hour or week. Commission and profit sharing can be added to link pay to sales or business profit.
+
+**What is the difference between on the job and off the job training?**
+On the job training happens at the workplace while doing the real job, which is cheap and practical but takes the trainer's time. Off the job training happens away from the workplace, such as at a college, and can teach wider skills but adds fees and travel costs.
+
+**What is induction training?**
+Induction training introduces a new employee to the business, covering the layout, safety rules, colleagues and the job. It helps new staff settle quickly and avoid early mistakes.
+
+**How do you calculate commission on sales above a target?**
+Subtract the target from total sales to find the sales that qualify, multiply by the commission rate, then add any basic salary. Applying the rate to all sales is a common error.
+
 ## Next steps
 
 Condense this guide with the [revision notes](/resources/oxfordaqa-igcse-business-human-resources-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-business-human-resources-practice/).

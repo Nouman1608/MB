@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-m1-mechanics-1-edexcel-alevel-maths"
     subtopic: "m1-dynamics-edexcel-alevel-maths"
-description: "Condensed revision notes on F = ma, pulleys, connected particles, inclined planes and F = μR for Pearson Edexcel IAL Mathematics Unit M1."
+description: "Condensed revision notes on F = ma, pulleys, connected particles, inclined planes and F = μR for Pearson Edexcel IAL Mathematics Unit M1 (YMA01)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -215,6 +215,23 @@ Mass cancels on a slope when only gravity, R and friction act. If a question giv
 - Rounding too early. Carry full values through the working and round the final answer, using the value of g the question gives.
 - Stating an answer as a magnitude when the question asks for a vector, or the reverse.
 - Forgetting units, or leaving an acceleration negative without saying what the sign means.
+
+## Frequently asked questions
+
+**What is Newton's second law?**
+Newton's second law states that the resultant force on a particle equals its mass times its acceleration, F = ma, and the acceleration is in the same direction as the resultant force.
+
+**What is the difference between mass and weight?**
+Mass is measured in kg and does not change, while weight is a force measured in newtons and equals mg, acting vertically downwards.
+
+**Is the tension the same on both sides of a smooth pulley?**
+Yes. A light string over a smooth fixed pulley has the same tension on each side, so a pulley equation should use T on each side, not 2T.
+
+**Does the mass matter for a particle sliding on a slope?**
+When only weight, the normal reaction and friction act, the mass cancels, so the acceleration is g sin α − μg cos α down a rough plane whatever the mass.
+
+**Which Edexcel IAL M1 topics do these notes cover?**
+They cover topics 4.1 (Newton's laws and vector dynamics), 4.2 (connected particles, pulleys and inclined planes) and 4.4 (friction, F = μR) of Unit M1 in the Edexcel IAL Mathematics specification (YMA01).
 
 ## Official syllabus
 

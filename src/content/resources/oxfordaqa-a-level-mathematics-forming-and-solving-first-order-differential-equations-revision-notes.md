@@ -234,6 +234,22 @@ Setting the rate equal to zero finds the limiting value without solving the equa
   <figcaption>Dividing by y − 4 hides the constant solution y = 4, which is the case A = 0.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you write "proportional to" as a differential equation?**
+"The rate of change of y is proportional to y" becomes dy/dt = ky, with k a constant. Use a positive rate for an increase and write −k with k > 0 for a decrease.
+
+**What is the solution of dy/dt = ky?**
+Separating and integrating gives y = Ae^(kt), where A is the value of y when t = 0. For k < 0 this is exponential decay, which never reaches zero.
+
+**What is the difference between a general solution and a particular solution?**
+A general solution still contains the constant of integration, +c. A particular solution uses an initial condition to find the value of c.
+
+**How can you check that a function satisfies a differential equation?**
+Differentiate the function and substitute both it and its derivative into the equation. If the two sides are equal for all values of the variable, the function is a solution.
+
+**Does every model in this topic level off at a limiting value?**
+No. Exponential growth has no upper limit, while cooling and infusion models such as dx/dt = a − bx tend to a limiting value. Square-root draining models reach zero in a finite time.
 
 ## Official syllabus
 

@@ -22,9 +22,9 @@ syllabusTopics:
     subtopic: "as-density-and-pressure"
 description: "Condensed recall notes on moments, equilibrium, centre of gravity, density, pressure and upthrust for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -157,3 +157,16 @@ An object floats if its **average density** is less than the fluid's — which i
   <figcaption>A body floats when its average density is below the fluid density.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Why does an object topple?**
+An object topples when the line of action of its weight falls outside its base. A lower centre of gravity and a wider base make an object more stable.
+
+**Does the shape of a container affect the pressure at a given depth?**
+No. Pressure in a fluid is p = ρgh, which depends only on depth, density and g, so a narrow tube and a wide tank of the same depth give the same pressure.
+
+**Why does a steel ship float?**
+An object floats if its average density is less than the fluid's. A ship's overall density, including the enclosed air in its hull, is less than that of water, even though steel itself is denser.
+
+**How do you choose a pivot in moments questions?**
+Take moments about a point where an unknown force acts. That force then has zero moment about the point, so it drops out of the equation and fewer unknowns remain.

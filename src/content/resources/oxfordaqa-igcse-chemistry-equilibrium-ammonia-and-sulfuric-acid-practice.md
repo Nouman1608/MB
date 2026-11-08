@@ -181,6 +181,20 @@ CO(g) + Cl₂(g) ⇌ COCl₂(g), with energy given out in the forward direction.
 - Try one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in equilibrium questions?**
+Frequent slips include defining equilibrium without "closed system", saying the amounts are equal at equilibrium, and predicting a temperature effect before working out which direction is exothermic.
+
+**Why must you count molecules, not atoms, in pressure questions?**
+The effect of pressure depends on the number of gas molecules on each side of the balanced equation. Counting atoms, or ignoring the numbers in front of formulae, gives the wrong prediction.
+
+**What mole ratios cause errors in Haber and contact process calculations?**
+Read the ratio from each balanced equation. Forgetting the 2 : 1 ratios in the ammonium sulfate and Stage 2 calculations is a common mistake.
+
+**How should you answer a question about compromise conditions?**
+Give both sides of the compromise: the benefit for yield or rate and the drawback, such as cost or safety. Saying only that high pressure is expensive gives just one side.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. This practice set covers section 3.8.2 Factors affecting equilibrium and section 3.8.3 Production of ammonia and sulfuric acid.

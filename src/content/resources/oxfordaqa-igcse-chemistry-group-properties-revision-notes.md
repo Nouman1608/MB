@@ -260,6 +260,20 @@ Mole questions often borrow these reactions. Keep three habits:
 
 For full explanations go back to the [study guide](/resources/oxfordaqa-igcse-chemistry-group-properties/); for exam-style practice use the [practice questions](/resources/oxfordaqa-igcse-chemistry-group-properties-practice/). The [transition metals notes](/resources/oxfordaqa-igcse-chemistry-transition-metals-revision-notes/) compare those metals with Group 1, the [electrolysis notes](/resources/oxfordaqa-igcse-chemistry-electrolysis-revision-notes/) reuse halide ions at the anode, and the [diagnostics](/diagnostics/) will show where else to focus.
 
+## Frequently asked questions
+
+**Why do Group 1 compounds have the formula they do?**
+An alkali metal always forms a 1+ ion, so the formula depends only on the charge of the non-metal ion: one M⁺ for each Cl⁻, and two M⁺ for each O²⁻ or S²⁻.
+
+**How do you predict the properties of an unfamiliar element such as francium or astatine?**
+Use the group pattern and give the reason. Francium, at the bottom of Group 1, should be the most reactive alkali metal, while astatine, at the bottom of Group 7, should be the least reactive halogen with the highest melting point.
+
+**What colour change shows a halogen displacement reaction?**
+When chlorine water is added to a bromide solution, the colourless solution turns yellow-orange as bromine forms. Describe the specific colour change rather than just saying "it changes colour".
+
+**Why is fluorine not used in displacement tests in water?**
+Fluorine reacts with water itself, so displacement questions in aqueous solution normally use chlorine, bromine and iodine.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. These notes cover section 3.7.1 Group properties (statements a to f).

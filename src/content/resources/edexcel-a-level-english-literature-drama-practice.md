@@ -13,11 +13,14 @@ order: 4
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-drama-yet01"
+  - qualification: "a-level"
+    topic: "unit-2-drama-yet01"
+    subtopic: "unit-2-pre-1900-and-post-1900-drama-yet01"
 description: "Original exam-style practice questions with worked answer plans on Unit 2 Drama, Pearson Edexcel International Advanced Level English Literature (YET01)."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-04
 featured: false
 ---
@@ -87,3 +90,17 @@ These qualifications mark against level descriptors rather than fixed per-point 
 ## Choosing between the question styles in each section
 
 The two questions offered within each section reward slightly different preparation, even though both are marked against the same four objectives. A question centred on a character or theme (like Q1 or Q2) rewards having a clear map of the key moments where that character or theme develops across the play, ready to discuss regardless of the exact wording. A question centred on convention or context (like Q1b or Q3) rewards having specific points of comparison prepared in advance — the genre or period the play draws on, and at least one documented critical or directorial reading that differs from your own, so that AO5 can be deployed precisely rather than reconstructed under time pressure. Practising both styles against your own set texts, rather than assuming the exam will favour one type of question, is the safest preparation given the open choice within each section.
+
+## Frequently asked questions
+
+**Why do Edexcel International A Level Drama questions start with a statement?**
+Every question gives a statement to respond to because the statement is how the exam assesses AO5, inviting you to show that the play can be read in different ways. Each question also asks you to consider relevant contextual factors, which ties it to AO3.
+
+**What is a common mistake with AO5 in drama essays?**
+Naming AO5 in the introduction but then arguing only one fixed reading for the rest of the essay. Keep testing the statement against other interpretations throughout.
+
+**Should I write about staging in Edexcel YET01 Unit 2?**
+Yes. Discussing a character only through dialogue, while ignoring staging, stage directions and performance choices, is a common way to lose marks, because these are central to how drama makes meaning.
+
+**Which plays can be studied for Edexcel Unit 2 Drama?**
+Section A uses a pre-1900 play: Doctor Faustus, Othello, The Rover, She Stoops to Conquer or Twelfth Night. Section B uses a post-1900 play: A Raisin in the Sun, A Streetcar Named Desire, Death of a Salesman, Top Girls or Waiting for Godot.

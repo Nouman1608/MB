@@ -11,11 +11,11 @@ syllabusSeries: "9625 (legacy, final A-level exams 2027) alongside 9725 (revised
 order: 3
 description: "Why two OxfordAQA International A-Level Business specifications are running in parallel right now, how their papers differ, and a worked case-study routine."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-09
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 OxfordAQA currently has two International A-Level Business specifications live at once. 9625 is the
@@ -116,6 +116,23 @@ and A-level structure differ between them. 2. AS papers are 20% of the A-level e
 with all questions based on case studies (two case-study sections per paper), following teacher feedback. 4. Using the case
 study's own specific figures, dates and stakeholders, rather than writing generic theory that could
 apply to any business in the topic area.
+
+## Frequently asked questions
+
+**What is the difference between OxfordAQA Business 9625 and 9725?**
+9625 is the established OxfordAQA International A-Level Business specification and 9725 is its revised replacement. They differ in paper timings and structure: 9625's AS papers are 90 minutes while 9725's AS units are 75 minutes, and each 9725 A2 paper has separate topics and is fully case-study based.
+
+**When are the last exams for OxfordAQA Business 9625?**
+For 9625, the final May/June AS series was 2026 with an AS resit series in January 2027, and the final A-level series is June 2027 with an A2 resit series in January 2028. After that there are no more 9625 exams.
+
+**When are the first exams for OxfordAQA Business 9725?**
+First teaching of 9725 AS starts in September 2026, with first AS exams in May/June 2027. A2 teaching starts in September 2027, with first A-level exams in May/June 2028.
+
+**How are the OxfordAQA International A-Level Business papers weighted?**
+Both 9625 and 9725 have four papers: two AS papers each worth 20% of the full A-level and two A-level papers each worth 30%.
+
+**What is the structure of the 9725 A2 papers?**
+Each 9725 A2 paper, Unit 3 Business analysis and Unit 4 Business strategy, has two compulsory sections. Each section has one case study followed by five short answer and extended response questions worth 40 marks, with no stand-alone essay section.
 
 *Written against the assessment sections of OxfordAQA's own International AS/A-level Business
 qualification pages for both 9625 (legacy) and 9725 (revised) (official OxfordAQA pages, both verified

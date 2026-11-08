@@ -19,11 +19,11 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "natural-resources-5014-2027"
     subtopic: "fracking-5014-2027"
-description: "Condensed recall notes on fossil fuel formation, renewable and non-renewable energy resources, energy demand, conservation and management, hydrogen fuels, heat pumps and fracking for the 2027-2029 Cambridge O Level Environmental Management 5014 syllabus."
+description: "Recall notes on fossil fuel formation, renewable and non-renewable energy, demand, conservation, hydrogen, heat pumps and fracking for O Level 5014 (2027-2029)."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: expanded thin page with a benefits and limitations table for every energy resource (1.4.4) and an FAQ; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-21
 featured: false
 ---
@@ -70,6 +70,20 @@ For explanation and worked examples, use the
 example: wind has no emissions during generation but its output depends
 on the wind; nuclear gives steady output with very little carbon dioxide
 during generation but produces radioactive waste.
+
+**Benefits and limitations at a glance (1.4.4):**
+
+| Resource | Benefit | Limitation |
+|---|---|---|
+| Fossil fuels | Reliable, high energy output; infrastructure already built | Carbon dioxide emissions; finite; air pollution |
+| Nuclear (uranium) | Large, steady output with very little carbon dioxide | Radioactive waste; high build and decommissioning cost; accident risk |
+| Biofuels | Can be carbon-neutral if crops are replanted; use waste | Compete with food crops for land; emissions when burned |
+| Geothermal | Continuous output; small land area | Electricity only practical in tectonically active areas |
+| Hydro-electric | Reliable; dams can control floods and store water | Flooding of land and habitats; people displaced; high build cost |
+| Tidal | Tides are predictable | Few suitable sites; harms estuary habitats |
+| Wave | No emissions in use | Equipment damaged by storms; output varies |
+| Solar | No fuel cost; no emissions in use | No output at night; needs storage or back-up |
+| Wind | No emissions in use; land below still usable | Output depends on wind; visual and noise objections |
 
 **Demand factors (1.4.5), all eight:** transport; personal and national
 wealth; climate; human population size; industry; disruption to supply;
@@ -140,6 +154,17 @@ put in the correct group. "Define" (1.6.1) wants the syllabus wording.
 - Revising oil pollution here: in this edition it is 3.5, in Topic 3
   Water.
 - Listing demand factors without explaining how each affects demand.
+
+## Frequently asked questions
+
+**Is nuclear power renewable in 5014?**
+No. The syllabus classifies nuclear power using uranium as non-renewable (finite), with fossil fuels.
+
+**What is the difference between blue and green hydrogen?**
+Blue hydrogen is produced from natural gas; green hydrogen is produced using renewable resources. Both are new energy resources in 1.5.2.
+
+**Does battery storage save energy?**
+No. It stores surplus electricity, for example from solar panels at midday, so it can be used later, which helps intermittent renewable resources supply a steady demand.
 
 ## Related resources
 

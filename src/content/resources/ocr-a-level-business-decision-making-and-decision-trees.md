@@ -198,6 +198,20 @@ A tree is a decision aid, not the decision. Use it with the tools above.
 - Treating a short-term decision as automatically operational.
 - Concluding "it depends" without saying on what.
 
+## Frequently asked questions
+
+**What is the difference between strategic, tactical and operational decisions?**
+Strategic decisions set the overall frame for the business, tactical decisions fit inside it, and operational decisions carry it out day to day. Time horizon and level often line up, but not always.
+
+**What factors should a business consider when making a decision?**
+The level and nature of risk, the accuracy of forecasts, how volatile the market is and the potential for bias among managers, all judged against the business's objectives.
+
+**What are the limitations of decision trees?**
+Probabilities and payoffs are estimates, often subjective; the tree ignores qualitative factors; and the expected value is an average that may never actually occur.
+
+**When is a decision tree most useful?**
+A tree is most valuable for costly, hard-to-reverse choices made under risk. It is a decision aid, not the decision, so use it alongside other tools.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Business (H431) specification, Version 2.1, sections 1.13 Decision making and 1.14 Decision trees, published by OCR (Oxford Cambridge and RSA).

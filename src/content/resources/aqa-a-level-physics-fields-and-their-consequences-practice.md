@@ -178,6 +178,20 @@ Take G = 6.67 × 10⁻¹¹ N m² kg⁻², ε₀ = 8.85 × 10⁻¹² F m⁻¹, e 
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which AQA A-level Physics paper assesses Fields and their consequences?**
+Section 3.7, Fields and their consequences, is A-level only core content in AQA 7408 and is assessed in Paper 2. It includes Required practicals 9, 10 and 11.
+
+**Why is gravitational potential negative?**
+Gravitational potential is defined as zero at infinity, and because the force is attractive, work must be done on a mass to move it out to infinity. A full answer needs both ideas.
+
+**How do you combine electric fields and potentials from two charges?**
+Field strengths are vectors, so add them taking direction into account. Potentials are scalars, so add them as signed numbers.
+
+**What mistakes are common in capacitor discharge questions?**
+Students often confuse the time constant RC with the half-time 0.69RC, and use a charging equation of the form 1 − e^(−t/RC) for current, even though current always decays.
+
 ## Official syllabus
 
 AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.7 Fields and their consequences.

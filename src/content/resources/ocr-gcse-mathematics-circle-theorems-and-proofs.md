@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "basic-geometry-ocr-gcse-maths"
     subtopic: "circles-ocr-gcse-maths"
-description: "Study guide to OCR GCSE Mathematics J560 section 8.05: circle terms, every circle theorem and its proof, with fully worked examples."
+description: "Detailed study guide to OCR GCSE Mathematics J560 section 8.05: circle terms, every circle theorem and its proof, with fully worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -308,6 +308,23 @@ Start from the given facts. Name any line you add to the diagram. Give a reason 
 ## Next steps
 
 Work through the [practice set](/resources/ocr-gcse-mathematics-circle-theorems-and-proofs-practice/) and use the [revision notes](/resources/ocr-gcse-mathematics-circle-theorems-and-proofs-revision-notes/) to recall the reasons.
+
+## Frequently asked questions
+
+**Why is the angle at the centre twice the angle at the circumference?**
+Joining the point on the circumference to the centre makes two isosceles triangles, because their sides include two radii. Using the exterior angle of each triangle, the angle at the centre comes out as 2p + 2q, which is twice the angle p + q at the circumference.
+
+**What does "apply and prove" mean for circle theorems in OCR GCSE Maths?**
+Apply means using a theorem to find angles and lengths, with a reason for each step. Prove means showing why the theorem is true from facts you already know; both are required for 8.05b to 8.05h on the Higher tier of J560.
+
+**Why does the radius and chord theorem need two proofs?**
+The theorem says a radius bisects a chord if and only if it is perpendicular to it, so both directions must be proved. One direction uses congruent triangles by SSS and the other uses RHS.
+
+**What is a cyclic quadrilateral?**
+A cyclic quadrilateral is a four-sided shape with all four vertices on a circle. Its opposite angles are supplementary, which means they add up to 180°.
+
+**How should you finish a circle theorem proof?**
+End with a sentence stating the result you set out to prove, written with the angle letters from the diagram. A numerical answer is not needed, but every statement before it needs a reason.
 
 ## Official syllabus
 

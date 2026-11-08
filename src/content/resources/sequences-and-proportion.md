@@ -16,13 +16,13 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "algebra-and-graphs"
     subtopic: "proportion"
-description: "Finding the nth term of linear, quadratic, cubic and exponential sequences, and direct and inverse proportion, for Cambridge O Level Mathematics (Syllabus D) 4024."
+description: "Find the nth term of linear, quadratic, cubic and exponential sequences, and solve direct and inverse proportion, for Cambridge O Level Maths 4024."
 author: "muhammad-ghazali-siddiqui"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-18
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This guide covers subtopics **2.7 Sequences** and **2.8 Proportion**, from
@@ -220,6 +220,20 @@ sequences, and simple combinations
 - Setting up y = kx (or the square/root/cube variant) from y ∝ x, finding
 k, then solving
 - Direct vs inverse proportion, and not confusing the two
+
+## Frequently asked questions
+
+**Is Cambridge O Level Mathematics 4024 tiered for sequences and proportion?**
+No. Cambridge O Level Mathematics (Syllabus D) 4024 is not tiered, so every candidate covers all of subtopics 2.7 Sequences and 2.8 Proportion.
+
+**What is a term-to-term rule?**
+A term-to-term rule describes how each term relates to the one before it, such as adding or multiplying by a constant. The nth term, by contrast, gives any term directly from its position.
+
+**How do you set up a proportion equation?**
+Write the relationship with a constant k, such as y = kx for direct or y = k/x for inverse proportion, substitute the given pair to find k, rewrite the full equation, then use it to answer the question.
+
+**What graph shows direct proportion?**
+Direct proportion, y = kx, gives a straight line through the origin. Inverse proportion, y = k/x, gives a curve (a hyperbola).
 
 ## Related resources
 

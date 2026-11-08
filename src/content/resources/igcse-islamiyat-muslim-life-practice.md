@@ -12,11 +12,17 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-living-muslim-life-9237"
-description: "Original practice paper in the OxfordAQA International GCSE Islamiat 9237 Paper 1 format: two 25-mark sections (beliefs and teachings; practices) of 1, 2, 4, 6 and 12-mark parts, with prescribed-passage extended responses and full mark guidance."
+  - qualification: "igcse"
+    topic: "paper-1-living-muslim-life-9237"
+    subtopic: "islam-beliefs-teachings-9237"
+  - qualification: "igcse"
+    topic: "paper-1-living-muslim-life-9237"
+    subtopic: "islam-practices-9237"
+description: "Original practice paper in the OxfordAQA International GCSE Islamiat 9237 Paper 1 format: beliefs and teachings, and practices, with full mark guidance."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -217,3 +223,14 @@ An answer that explains a range of these points, reasons about their implication
 - In the 6-mark parts, giving a vague reference ("the Qur'an says to pray") instead of a specific teaching applied to the question, which limits the AO2 credit to one mark.
 - In the 12-mark parts, making only one point of significance (maximum Level 2) or not using the passage at all (maximum Level 1).
 - Describing a practice without examining why it matters for Muslims, which is what the command word **examine** asks for.
+
+## Frequently asked questions
+
+**How are the 9237 papers structured?**
+Each paper lasts 1 hour 30 minutes and has two sections of 25 marks, with short questions building to an extended response worth 12 marks related to a set passage.
+
+**How are the 1- and 2-mark parts marked?**
+One mark for each correct answer; the 4-mark part gives a mark for each reason identified and developed.
+
+**Are these real OxfordAQA questions?**
+No. They are original questions in the published format and tariffs.

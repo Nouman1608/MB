@@ -22,14 +22,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "reproduction-cambridge-igcse-biology"
     subtopic: "sexual-reproduction-in-humans-cambridge-igcse-biology"
-description: "Original exam-style questions with full worked answers on asexual and sexual reproduction, the female reproductive system, gametes, the amniotic sac, the placenta and the advantages of sexual reproduction, for Cambridge IGCSE Biology (0610)."
+description: "Exam-style questions with worked answers on asexual and sexual reproduction, gametes, the amniotic sac and the placenta for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -140,3 +140,14 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 - Mixing up the functions of the placenta and the amniotic sac.
 - Not giving the direction in which substances cross the placenta, or writing "food" instead of "nutrients".
 - Stopping at "variation" when discussing the advantages of sexual reproduction.
+
+## Frequently asked questions
+
+**Which reproduction topics are Extended only in Cambridge IGCSE Biology 0610?**
+The functions of the placenta and umbilical cord, the advantages and disadvantages of sexual reproduction for a population, and haploid and diploid chromosome numbers are Supplement content, marked Extended here.
+
+**What is fertilisation in IGCSE Biology?**
+Fertilisation is the fusion of the nuclei of two gametes. Saying "the fusion of gametes" without mentioning nuclei is a common way to lose the mark.
+
+**How do these questions relate to the real exam?**
+Each original question practises a skill tested in the Cambridge IGCSE Biology 0610 June 2024 Paper 42, and where a close match exists the answer points to the real question to try next.

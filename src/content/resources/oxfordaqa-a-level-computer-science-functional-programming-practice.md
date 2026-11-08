@@ -226,6 +226,23 @@ First call splits the head 'c' from the tail; [1] the third call matches the bas
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these OxfordAQA 9645 functional programming questions from past papers?**
+No. They are original practice questions with worked answers, written for revision, and they do not reproduce past papers. Use them alongside official past papers from your board or school.
+
+**Which language is used for functional programming questions in these practice questions?**
+The questions are written in Haskell and cover section 3.12 Functional programming of the OxfordAQA 9645 specification: function types, composition, recursion, map, filter, folds and lists.
+
+**What are common mistakes with function composition?**
+When evaluating g ∘ f, the function f is applied first and then g. Applying g first swaps the results and is one of the most common ways to lose marks.
+
+**Does ℕ include 0 in the OxfordAQA 9645 specification?**
+Yes. This specification puts 0 in the set of natural numbers ℕ, and forgetting this is a frequent error in number-set questions.
+
+**How should you answer a recursion trace question?**
+Write out every call and its result rather than giving only the final answer. A bare final answer shows no evidence of the recursion, and trace marks depend on that working.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. These questions cover section 3.12 Functional programming (3.12.1 to 3.12.3).

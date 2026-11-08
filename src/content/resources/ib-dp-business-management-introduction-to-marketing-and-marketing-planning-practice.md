@@ -166,6 +166,20 @@ low     | V               |                | Z              |
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between a percentage change and a percentage point change in market share?**
+If a share rises from 10.0% to 10.7%, it has risen by 0.7 percentage points, not by 0.7%. Writing "up 0.7%" in that case is a common way to lose marks when comparing two shares.
+
+**What are common mistakes on market share and growth calculations?**
+Students often divide by the market total from the wrong year, mix up market growth with the business's own sales growth, and round too early in multi-step calculations. Keep the measure and period the same on the top and bottom of each calculation.
+
+**Does an empty space on a position map prove there is demand?**
+No. An empty area on a position map may be a gap in the market, but it may also mean customers do not want that combination, so it needs research before it is treated as an opportunity.
+
+**Which sections of the IB Business Management guide cover introduction to marketing and marketing planning?**
+These are sections 4.1 Introduction to marketing and 4.2 Marketing planning in Unit 4 of the IB Business management guide, first assessment 2024. The importance of market share and market leadership is the HL only part of 4.1.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Business management guide*, first assessment 2024, sections 4.1 and 4.2.

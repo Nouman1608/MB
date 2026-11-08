@@ -224,6 +224,20 @@ A good evaluation weighs these against long-term benefits such as lower unit cos
 - Describing batch production as "small scale flow". The key feature is the switch between batches.
 - Giving advantages and disadvantages with no reference to the business, its product, its volume or its customers.
 
+## Frequently asked questions
+
+**What is the transformational process in operations?**
+Inputs, such as materials, staff time and machines, are transformed through work such as baking or assembling into outputs: finished goods or completed services. Services follow the same pattern.
+
+**What is mass customisation?**
+Mass customisation means producing standardised parts in volume but combining them to meet individual customer choices, giving variety at a lower cost than job production.
+
+**When is capital intensive production cheaper than labour intensive?**
+Only above the output at which their total costs are equal. Below that output, the option with lower fixed costs is cheaper; above it, the option with lower variable cost per unit wins.
+
+**What problems arise when a business changes its operations method?**
+The cost of new machinery, layout changes and training, disruption to output, staff resistance and new skills, risk to quality or brand image, and the need for suppliers and demand to support the new method.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus, for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International). Section 4.1, The nature of operations.

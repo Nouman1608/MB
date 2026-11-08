@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "algebra-ocr-gcse-maths"
     subtopic: "algebraic-equations-ocr-gcse-maths"
-description: "Twelve original practice questions with worked answers on solving linear and quadratic equations for OCR GCSE (9-1) Mathematics J560."
+description: "Twelve original practice questions with fully worked answers on solving linear and quadratic equations for OCR GCSE (9-1) Maths J560, Foundation and Higher."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -148,6 +148,20 @@ These questions cover sections 6.03a and 6.03b of the OCR GCSE (9-1) Mathematics
 - Tick off the topic on the [OCR GCSE Mathematics checklist](/checklists/ocr/gcse/mathematics/) and visit the [course hub](/boards/ocr/gcse/mathematics/).
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Which OCR GCSE Maths sections do these linear and quadratic equations questions cover?**
+They cover sections 6.03a and 6.03b of OCR GCSE (9-1) Mathematics J560: solving linear equations and quadratic equations. Questions using the quadratic formula, rearranging, completing the square or algebraic fractions are Higher tier only.
+
+**Why should you never divide both sides of x² − 5x = 0 by x?**
+Dividing by x loses the solution x = 0. Factorise instead, as x(x − 5) = 0, to get both solutions, x = 0 and x = 5.
+
+**What should you do with a negative solution in an area problem?**
+Reject it and say why, because a length cannot be negative. Rejecting a root with a reason is part of the answer when a context limits the values.
+
+**How can you check a solution to an equation?**
+Substitute your answer back into the original equation, not your rearranged one, and check both sides are equal. This quickly catches sign slips, especially with negative numbers.
 
 ## Official syllabus
 

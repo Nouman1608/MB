@@ -166,6 +166,20 @@ Recommendation: agile, because the requirements are unclear and expected to chan
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is the system life cycle an A Level topic in Cambridge 9626?**
+Yes. The system life cycle is topic 16 of Cambridge International AS & A Level Information Technology (9626) and is A Level only. It is examined in Paper 3 Advanced Theory, where calculators are not allowed.
+
+**How should expected results be written in a test plan?**
+Give a clear expected result for each item of test data, such as "accepted" or "rejected with an error message", rather than just writing "error". Vague expected results are a common way to lose marks.
+
+**What are common mistakes on system life cycle questions?**
+Common slips include confusing the system specification with the user requirements specification, putting data stores on a level 0 DFD, drawing flows straight from entities to stores, and recommending a development method without linking it to how certain the requirements are.
+
+**What does an evaluate question on implementation need?**
+It needs advantages and disadvantages applied to the organisation in the scenario and a justified conclusion. Answers with no disadvantages and no conclusion cannot reach the top marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 16: System life cycle.

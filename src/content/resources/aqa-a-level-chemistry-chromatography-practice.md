@@ -217,6 +217,23 @@ values from elsewhere.
 - Claiming a matching Rf value or retention time proves identity.
 - Picking a molecular formula from a high-resolution m/z value without showing the precise-mass sums.
 
+## Frequently asked questions
+
+**Is chromatography on the AQA AS Chemistry papers?**
+No. Section 3.3.16 Chromatography of the AQA 7404/7405 specification is A-level only. It is listed under A-level Paper 2, and Paper 3 can assess any content and practical skill, including Required practical 12.
+
+**How do you explain separation in chromatography for full marks?**
+Refer to both phases: separation depends on the balance between solubility in the moving phase and retention by the stationary phase. An answer that mentions only one phase gets at most one mark.
+
+**What mistakes cost marks when calculating Rf values?**
+Measure from the baseline to the centre of the spot, not from the plate edge or to the top of the spot. Rf has no units and is always between 0 and 1, so a value above 1 means the division was done the wrong way round.
+
+**Does a matching Rf value or retention time prove what a substance is?**
+No. A match with a standard run under the same conditions is evidence, not proof. Claiming a match proves identity is a common way to lose marks.
+
+**How should retention time be defined?**
+Retention time is the time from injection into the GC column until the component reaches the detector. A definition that does not say it starts at injection is incomplete.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/aqa-a-level-chemistry-chromatography-revision-notes/).

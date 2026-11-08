@@ -25,7 +25,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "law-of-tort-9084"
     subtopic: "general-defences-and-remedies-9084"
-description: "Negligence, nuisance and Rylands v Fletcher, trespass to land and the person, general defences and remedies, with a worked damages problem for Cambridge A Level Law."
+description: "Negligence, nuisance, Rylands v Fletcher, trespass, defences and remedies for Cambridge A Level Law 9084, with key cases and a worked damages calculation."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
@@ -121,3 +121,20 @@ Command words include *explain*, *analyse*, *discuss* and *advise*. In problem q
 5. Why was Fagan v Metropolitan Police Commissioner important for battery? *It treated battery as capable of being a continuing act.*
 6. How does contributory negligence affect damages? *It reduces them by a share that is just and equitable; it is not a complete defence.*
 7. A claimant's loss is 60,000 pounds and she is found 20 per cent to blame. What is the award? *60,000 - 12,000 = 48,000 pounds.*
+
+## Frequently asked questions
+
+**What must a claimant prove in the tort of negligence?**
+The claimant must prove, on the balance of probabilities, that the defendant owed a duty of care, that the duty was breached, and that the breach caused damage that was not too remote.
+
+**What is the Caparo test for a duty of care?**
+Caparo Industries v Dickman (1990) asks whether harm was reasonably foreseeable, whether there was sufficient proximity between the parties, and whether it is fair, just and reasonable to impose a duty. Established duty situations, such as driver to other road users, do not need this analysis each time.
+
+**What is the difference between private nuisance and trespass to land?**
+Private nuisance is an indirect, unreasonable interference with another person's use or enjoyment of land. Trespass to land is a direct, unjustified interference with land in another's possession and is actionable without proof of damage.
+
+**Is contributory negligence a complete defence?**
+No. Under the Law Reform (Contributory Negligence) Act 1945 it reduces damages by the share that is just and equitable, rather than defeating the claim entirely.
+
+**Which topics does the Cambridge 9084 law of tort cover?**
+Law of tort is Topic 4 of the A Level stage of Cambridge A Level Law 9084, in four parts: the tort of negligence, torts affecting land, torts affecting the person, and general defences and remedies.

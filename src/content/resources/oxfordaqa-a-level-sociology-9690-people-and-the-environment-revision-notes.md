@@ -27,9 +27,9 @@ description: "Condensed revision notes for OxfordAQA 9690 Unit 4 People and the 
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 These notes condense the [People and the environment study guide](/resources/oxfordaqa-a-level-sociology-9690-people-and-the-environment/); read that first for full explanations and worked paragraphs.
@@ -157,6 +157,20 @@ When you finish, test yourself with the [practice questions](/resources/oxfordaq
 - Using pets and livestock as examples without linking them to a sociological view of human-animal relations.
 - Dropping the specified examples from your own society in extended answers.
 - Listing environmental problems without applying a theory to any of them.
+
+## Frequently asked questions
+
+**What is the difference between ecological modernisation and green Marxism?**
+Ecological modernisation theory says capitalism can be reformed to become greener. Green Marxism says capitalism's drive for growth is the cause of environmental damage.
+
+**What is the difference between animal welfare and animal rights?**
+Animal welfare aims to reduce suffering while animals are still used. Animal rights rejects the use of animals altogether.
+
+**What is the difference between climate scepticism and denialism?**
+Scepticism questions the evidence, while denialism rejects strong evidence, often because of interests or identity.
+
+**Why must you say which Brand you mean?**
+Two writers called Brand appear in this unit: Stewart Brand, linked to "the long now", and Ulrich Brand, who with Wissen wrote about the imperial mode of living. Writing "Brand" alone leaves the examiner unsure which idea you mean.
 
 ## Official syllabus
 

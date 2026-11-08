@@ -22,11 +22,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-1-14"
 description: "Condensed IB DP Maths AA HL complex numbers notes: forms, conversions, De Moivre, roots and conjugate pairs, with a quick self-test and common mark losses."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 For full explanations and longer worked examples, start with the [complex numbers study guide](/resources/ib-dp-mathematics-aa-hl-complex-numbers/). These notes are for the final weeks.
@@ -130,7 +130,7 @@ When you are ready, test yourself with the [complex numbers practice questions](
 
 **Multiple angle.** Real part of (c + is)³ gives cos 3θ = 4cos³θ − 3cos θ.
 
-**Equation with a conjugate.** To solve z + 2z* = 6 − 3i, let z = a + bi. Then a + bi + 2a − 2bi = 3a − bi. Equate parts: 3a = 6 and −b = −3, so z = 2 + 3i. Always substitute a + bi when z and z* appear together.
+**Equation with a conjugate.** To solve z + 3z* = 8 + 4i, let z = a + bi. Then a + bi + 3a − 3bi = 4a − 2bi. Equate parts: 4a = 8 and −2b = 4, so z = 2 − 2i. Always substitute a + bi when z and z* appear together.
 
 **Square root by equating parts.** (x + iy)² = −5 + 12i gives x² − y² = −5 and xy = 6. Then x⁴ + 5x² − 36 = 0, so x² = 4 and the roots are ±(2 + 3i).
 
@@ -220,6 +220,20 @@ When you are ready, test yourself with the [complex numbers practice questions](
 - In the induction proof, writing "assume true for n" instead of "for n = k", or leaving out the concluding sentence. Both cost reasoning marks.
 - In a "show that" multiple-angle identity, skipping the binomial expansion or the substitution s² = 1 − c². Every step must be visible.
 - Leaving a quotient with i in the denominator, which is not the requested form a + bi.
+
+## Frequently asked questions
+
+**What is the imaginary part of a complex number?**
+For z = a + bi, Im z = b, which is a real number. So Im(2 − 7i) = −7, not −7i.
+
+**How do you divide complex numbers in Cartesian form?**
+Multiply the top and bottom by the conjugate of the denominator. The denominator becomes c² + d², a real number, and you can split the result into real and imaginary parts.
+
+**How do you solve an equation with z and z* in it?**
+Substitute z = a + bi and z* = a − bi, collect terms, then equate the real parts and the imaginary parts to get two equations for a and b.
+
+**What shape do the roots of zⁿ = w make on an Argand diagram?**
+They are the vertices of a regular n-gon centred at the origin, all with the same modulus and spaced 2π/n apart. Area questions can use n × ½r² sin(2π/n).
 
 ## Official syllabus
 

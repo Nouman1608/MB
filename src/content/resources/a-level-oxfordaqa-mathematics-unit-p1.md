@@ -12,11 +12,11 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-p1-pure-maths-oxfordaqa-alevel-maths"
-description: "Algebra, coordinate geometry, differentiation, integration, and sequences and series -- the full content of Unit P1 for OxfordAQA International AS and A-Level Mathematics (9660)."
+description: "OxfordAQA International A-Level Maths (9660) Unit P1 guide: algebra, straight lines, differentiation, integration, and arithmetic and geometric series."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -83,12 +83,6 @@ tends to be the most self-contained sub-topic; practise recognising
 whether a given sequence is arithmetic or geometric before choosing a
 solution method, since misidentifying the type is a common source of
 error.
-
-## Official syllabus
-
-OxfordAQA International AS and A-level Mathematics (9660)
-specification, Version 5.2 —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2023/10/oxfordaqa-a-level-mathematics-specification.pdf).
 
 ## Algebra and functions
 
@@ -184,3 +178,26 @@ Omitting + c in indefinite integration. Losing solutions in trigonometric equati
 - Differentiate to find tangents, normals and stationary points, and classify them (P1).
 - Integrate, including definite integrals and areas below the axis (P1).
 - Find equations of circles and apply circle properties, and solve trigonometric equations giving every solution in the given interval (PSM1, not P1 -- see above).
+
+## Frequently asked questions
+
+**What topics are in OxfordAQA 9660 Unit P1?**
+Unit P1 covers algebra, coordinate geometry of lines and curves, differentiation, integration, and arithmetic and geometric sequences and series.
+
+**Are circles and trigonometry in OxfordAQA Unit P1?**
+No. Circle geometry and trigonometry are 9660 content, but they belong to the pure maths strand of Unit PSM1 (PP1.1 Circle and PP1.2 Trigonometry), not to Unit P1.
+
+**Which units make up the OxfordAQA International AS and A-level in Mathematics?**
+The International AS is Unit P1 plus Unit PSM1. The full International A-level adds Unit P2 and either Unit S2 or Unit M2.
+
+**Is differentiation from first principles tested in Unit P1?**
+The definition of the gradient as the limit of a chord gradient is required, but carrying out differentiation from first principles is not tested. Routine work uses the rule that ax^n differentiates to anx^(n−1).
+
+**What discriminant condition means a quadratic has real roots?**
+b² − 4ac ≥ 0, because a repeated root is also real. Using > 0 alone is a common mistake.
+
+## Official syllabus
+
+OxfordAQA International AS and A-level Mathematics (9660)
+specification, Version 5.2 —
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2023/10/oxfordaqa-a-level-mathematics-specification.pdf).

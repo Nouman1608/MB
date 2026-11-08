@@ -9,13 +9,13 @@ qualifications: ["a-level"]
 syllabusCodes: ["YET01"]
 syllabusSeries: "Specification Issue 7, February 2026"
 order: 3
-description: "Why Edexcel IAL English Literature YET01's 50-mark units give unusually generous time per mark, how Unit 3's uneven 20/30 section split changes pacing, and a worked comparative-paragraph routine."
+description: "Exam preparation for Edexcel International A Level English Literature YET01: time per mark in each unit, pacing by section and a comparative paragraph routine."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 Edexcel International A Level English Literature (YET01) is modular: four externally assessed units,
@@ -102,6 +102,18 @@ texts is still two separate discussions.
 - **In every comparative paragraph**: open on the point of comparison, evidence both texts to equal
   depth, pivot explicitly, and close on what the difference reveals.
 - **In every use of context**: place it inside an analytical paragraph explaining a specific choice.
+
+## Frequently asked questions
+
+**Are YET01 exams open book?**
+Yes. All four units are 2-hour, 50-mark open-book examinations.
+
+**How are the units weighted?**
+Each unit is 25% of the International A Level; Units 1 and 2 are 50% each of the International AS.
+
+**Which unit has uneven sections?**
+Unit 3: Section A Poetry is 20 marks and Section B Prose 30 marks.
+
 
 ## Self-test
 

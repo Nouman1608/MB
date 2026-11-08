@@ -22,9 +22,9 @@ syllabusTopics:
     subtopic: "a-specific-heat-capacity-and-specific-latent-heat"
 description: "Original exam-style practice questions with full worked answers on thermal equilibrium, temperature scales and thermometers for A Level Physics."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-11-05
 featured: false
@@ -111,3 +111,17 @@ Related: [Temperature revision notes](/resources/a-physics-temperature-revision-
 - Forgetting to use the correct differences (X_θ − X₀ over X₁₀₀ − X₀) when calculating an empirical temperature.
 - Using Q = mcΔθ across a change of state — it only applies while the substance stays in a single state; a change of state needs Q = mL instead.
 - Forgetting Δθ is the same size in kelvin or Celsius, so temperature *changes* never need converting, even though absolute temperatures do.
+
+## Frequently asked questions
+
+**What is the difference between temperature and thermal energy?**
+Temperature is a measure of the mean kinetic energy of the molecules, while thermal energy is the total energy of all the molecules. A large bath of warm water can therefore hold more thermal energy than a small cup of boiling water.
+
+**Do you add 273 to a temperature change?**
+No. A temperature interval is the same size in kelvin and degrees Celsius, so a rise of 25 °C is a rise of 25 K. Only absolute temperatures are converted by adding 273.
+
+**Why is a thermocouple used for rapidly changing temperatures?**
+A thermocouple has a small thermal capacity, so it responds quickly and absorbs very little energy from the system it is measuring. Its disadvantage is that its response is non-linear and it needs calibration.
+
+**What happens to molecules at absolute zero?**
+At absolute zero, 0 K, the lowest possible temperature, a substance has its minimum possible internal energy. Saying the energy is zero or that molecules stop moving loses marks.

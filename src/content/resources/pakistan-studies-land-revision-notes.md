@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-environment-0448"
     subtopic: "the-land-of-pakistan-0448"
-description: "Condensed recall notes on Pakistan's location, administrative areas and cities, topography, drainage and climate for Section 1 of Paper 2, Cambridge IGCSE Pakistan Studies (0448), 2026 series."
+description: "Revision notes on Pakistan's location, areas and cities, topography, drainage and climate for Cambridge IGCSE Pakistan Studies 0448 Paper 2 Section 1."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -130,6 +130,17 @@ becomes a lookup against the map you have already built rather than a separate p
 
 **Answers:** 1. 64°E, 70°E and 76°E. 2. Gwadar (coastal) and Hyderabad (inland). 3. Hindu Kush,
 Karakoram, Himalaya. 4. The monsoon. 5. A benefit paired with a problem.
+
+## Frequently asked questions
+
+**Which lines of latitude and longitude must I know?**
+Latitudes 30°N and 36°N and longitudes 64°E, 70°E and 76°E, together with the Tropic of Cancer.
+
+**Do I need to know how landforms were formed?**
+No. The syllabus requires you to identify landforms and explain how they affect human activity, not their geological formation.
+
+**How is Paper 2 structured?**
+Paper 2 (1 hour 30 minutes, 75 marks, 50%) asks you to answer three questions from a choice of five, each worth 25 marks, in four parts (a) to (d) built around maps, graphs, photographs and other resources; part (d) tests analysis.
 
 ## Official syllabus
 

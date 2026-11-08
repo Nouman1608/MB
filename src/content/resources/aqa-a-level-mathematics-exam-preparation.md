@@ -9,11 +9,11 @@ qualifications: ["a-level"]
 syllabusCodes: ["7357"]
 syllabusSeries: "For first teaching 2017"
 order: 3
-description: "Paper-by-paper exam preparation for AQA A-Level Mathematics 7357 -- pure content across every paper, mechanics vs statistics revision split, a worked show-that answer and a checklist."
+description: "Paper-by-paper exam preparation for AQA A-Level Maths (7357): pure content on every paper, mechanics and statistics, command words and a show-that example."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-07
 updatedDate: 2026-09-27
 featured: false
@@ -138,6 +138,23 @@ condition requires both sin(x) not equal to 0 and cos(x) not equal to 0. The fir
 sin(x) from numerator and denominator a valid step; the second means the denominator cos(x), and so
 tan(x), is defined. Stating the full condition shows exactly when the identity holds, which a rigorous
 "show that" answer at A-Level is expected to demonstrate.
+
+## Frequently asked questions
+
+**How many papers are there in AQA A-level Maths 7357?**
+There are three compulsory written papers, each 2 hours and 100 marks and worth one third of the A-level: Paper 1 (pure), Paper 2 (pure and mechanics) and Paper 3 (pure and statistics). The qualification is not tiered.
+
+**Is pure maths only tested on AQA Paper 1?**
+No. Pure content appears on all three papers, so techniques such as differentiation, integration and trigonometric identities need to stay in active revision while you study mechanics and statistics.
+
+**What is the AQA large data set?**
+It is a data set the specification requires you to become familiar with before the exam, available from the AQA website. Paper 3 statistics questions can assume you know its contexts and main features.
+
+**What is the difference between "hence" and "hence or otherwise"?**
+"Hence" means you must build on the earlier result, and another method may not earn the marks. "Hence or otherwise" means the earlier result is the intended route, but any correct method is accepted.
+
+**What does a "show that" question require?**
+A full, step-by-step derivation that reaches the given result, including any validity conditions. Stating the final answer without the working loses marks even when it is right.
 
 *Written against AQA A-Level Mathematics 7357 (specification-at-a-glance, verified 2026-08-28). The
 worked scenario above is an original example written for this resource, not a reproduction of any

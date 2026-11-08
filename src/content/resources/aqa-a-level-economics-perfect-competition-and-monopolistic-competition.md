@@ -236,6 +236,23 @@ Worked example: the café spends £60 on advertising, raising FC to 420. Demand 
 - Claiming perfect competition is always efficient without naming the externality assumption.
 - Treating advertising as a price tactic.
 
+## Frequently asked questions
+
+**What are the assumptions of perfect competition?**
+Large numbers of producers, identical products, freedom of entry and exit, and perfect knowledge.
+
+**What is the efficient allocation proposition?**
+It states that, given certain assumptions, perfect competition results in an efficient allocation of resources, with P = MC and output at minimum average cost. The key assumption is that there are no externalities.
+
+**What does perfect competition being a yardstick mean?**
+The model is used as a benchmark for judging how efficiently real product and labour markets perform, not as a description of real markets.
+
+**What is excess capacity in monopolistic competition?**
+In the long run the firm produces less than the output at which average cost is lowest. The gap between the two is excess capacity.
+
+**What are the characteristics of monopolistic competition?**
+Many firms with small shares, differentiated products, low barriers to entry and exit, a downward-sloping but fairly elastic demand curve, and non-price competition.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification (7135 and 7136), version 1.3, 29 June 2022, AQA, for first teaching from September 2015.

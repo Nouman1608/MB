@@ -12,13 +12,25 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-introducing-sociology-9292"
-description: "Original exam-style practice questions with full worked answers on families, education and research methods for OxfordAQA International GCSE Sociology (9292) Paper 1."
+  - qualification: "igcse"
+    topic: "paper-1-introducing-sociology-9292"
+    subtopic: "families-9292"
+  - qualification: "igcse"
+    topic: "paper-1-introducing-sociology-9292"
+    subtopic: "education-9292"
+  - qualification: "igcse"
+    topic: "paper-1-introducing-sociology-9292"
+    subtopic: "research-methods-9292"
+  - qualification: "igcse"
+    topic: "paper-2-exploring-sociology-9292"
+    subtopic: "research-methods-paper2-9292"
+description: "Original practice questions with worked answers on families, education and research methods for OxfordAQA International GCSE Sociology (9292) Paper 1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -275,3 +287,17 @@ study of one society would miss [1].
   figures from the item to support it.
 - Forgetting that research with children requires parental consent as
   well as the child's own agreement.
+
+## Frequently asked questions
+
+**How do you answer a data item question in 9292 Sociology?**
+Read the item carefully, give the correct country or group, state the size of any gap, and quote figures from the item to support any pattern you describe.
+
+**How do you answer a "naming" question for full marks?**
+Name the family type, perspective or factor and then explain it. Naming without explaining is a common way to lose marks.
+
+**How do you compare two perspectives on the family or education?**
+State a clear point of difference between them, not just a description of each one side by side.
+
+**What consent is needed for research with children?**
+Research with children needs parental or guardian consent as well as the child's own agreement, an ethical point that is easy to forget in OxfordAQA International GCSE Sociology answers.

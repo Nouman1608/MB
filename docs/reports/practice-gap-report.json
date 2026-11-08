@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T17:14:41.544Z",
+  "generatedAt": "2026-11-08T14:12:36.975Z",
   "reports": [
     {
       "code": "0620",
@@ -7,7 +7,7 @@
       "qualificationSlug": "igcse",
       "subjectSlug": "chemistry",
       "syllabusSeries": "2026-2028",
-      "totalQuestions": 132,
+      "totalQuestions": 203,
       "totalSubtopics": 49,
       "coveredSubtopics": 49,
       "coveragePct": 100,
@@ -22,50 +22,21 @@
       "qualificationSlug": "igcse",
       "subjectSlug": "physics",
       "syllabusSeries": "For examination in 2026, 2027 and 2028",
-      "totalQuestions": 18,
-      "totalSubtopics": 11,
-      "coveredSubtopics": 0,
-      "coveragePct": 0,
+      "totalQuestions": 108,
+      "totalSubtopics": 24,
+      "coveredSubtopics": 24,
+      "coveragePct": 100,
       "gaps": [],
       "thin": [],
-      "topicsWithoutTaxonomy": [
-        {
-          "topicNumber": 3,
-          "topicName": "Waves",
-          "topicSlug": "waves-cambridge-igcse-physics"
-        },
-        {
-          "topicNumber": 4,
-          "topicName": "Electricity and magnetism",
-          "topicSlug": "electricity-and-magnetism-cambridge-igcse-physics"
-        },
-        {
-          "topicNumber": 5,
-          "topicName": "Nuclear physics",
-          "topicSlug": "nuclear-physics-cambridge-igcse-physics"
-        },
+      "topicsWithoutTaxonomy": [],
+      "topicOnlyTagged": [
         {
           "topicNumber": 6,
           "topicName": "Space physics",
-          "topicSlug": "space-physics-cambridge-igcse-physics"
-        }
-      ],
-      "topicOnlyTagged": [
-        {
-          "topicNumber": 1,
-          "topicName": "Motion, forces and energy",
-          "topicSlug": "motion-forces-and-energy-cambridge-igcse-physics",
-          "resourceSlug": "igcse-physics-motion-forces-and-energy-practice",
-          "resourceTitle": "IGCSE Physics: Motion, Forces and Energy — Practice Questions",
-          "questionCount": 9
-        },
-        {
-          "topicNumber": 2,
-          "topicName": "Thermal physics",
-          "topicSlug": "thermal-physics-cambridge-igcse-physics",
-          "resourceSlug": "igcse-physics-thermal-physics-practice",
-          "resourceTitle": "IGCSE Physics: Thermal Physics — Practice Questions",
-          "questionCount": 9
+          "topicSlug": "space-physics-cambridge-igcse-physics",
+          "resourceSlug": "igcse-physics-0625-space-physics-practice",
+          "resourceTitle": "Cambridge IGCSE Physics 0625: Space physics -- Practice Questions",
+          "questionCount": 13
         }
       ]
     },
@@ -75,10 +46,10 @@
       "qualificationSlug": "igcse",
       "subjectSlug": "mathematics",
       "syllabusSeries": "2025-2027",
-      "totalQuestions": 64,
+      "totalQuestions": 179,
       "totalSubtopics": 72,
-      "coveredSubtopics": 41,
-      "coveragePct": 57,
+      "coveredSubtopics": 72,
+      "coveragePct": 100,
       "gaps": [],
       "thin": [],
       "topicsWithoutTaxonomy": [],
@@ -87,17 +58,25 @@
           "topicNumber": 2,
           "topicName": "Algebra and graphs",
           "topicSlug": "algebra-and-graphs-cambridge-igcse-maths",
-          "resourceSlug": "igcse-mathematics-algebra-and-graphs-practice",
-          "resourceTitle": "IGCSE Mathematics: Algebra and Graphs — Practice Questions",
-          "questionCount": 10
+          "resourceSlug": "igcse-mathematics-0580-graphs-in-practical-situations-practice",
+          "resourceTitle": "Cambridge IGCSE Mathematics 0580: Graphs in practical situations -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Algebra and graphs",
+          "topicSlug": "algebra-and-graphs-cambridge-igcse-maths",
+          "resourceSlug": "igcse-mathematics-0580-graphs-of-functions-and-sketching-curves-practice",
+          "resourceTitle": "Cambridge IGCSE Mathematics 0580: Graphs of functions and sketching curves -- Practice Questions",
+          "questionCount": 11
         },
         {
           "topicNumber": 1,
           "topicName": "Number",
           "topicSlug": "number-cambridge-igcse-maths",
-          "resourceSlug": "igcse-mathematics-number-practice",
-          "resourceTitle": "IGCSE Mathematics: Number — Practice Questions",
-          "questionCount": 8
+          "resourceSlug": "igcse-mathematics-0580-powers-roots-and-indices-practice",
+          "resourceTitle": "Cambridge IGCSE Mathematics 0580: Powers, roots and indices I -- Practice Questions",
+          "questionCount": 11
         }
       ]
     },
@@ -107,7 +86,7 @@
       "qualificationSlug": "a-level",
       "subjectSlug": "chemistry",
       "syllabusSeries": "2025-2027",
-      "totalQuestions": 278,
+      "totalQuestions": 392,
       "totalSubtopics": 90,
       "coveredSubtopics": 90,
       "coveragePct": 100,
@@ -122,7 +101,7 @@
       "qualificationSlug": "a-level",
       "subjectSlug": "physics",
       "syllabusSeries": "2025-2027",
-      "totalQuestions": 157,
+      "totalQuestions": 245,
       "totalSubtopics": 76,
       "coveredSubtopics": 76,
       "coveragePct": 100,
@@ -130,6 +109,2111 @@
       "thin": [],
       "topicsWithoutTaxonomy": [],
       "topicOnlyTagged": []
+    },
+    {
+      "code": "4CH1",
+      "boardSlug": "edexcel",
+      "qualificationSlug": "igcse",
+      "subjectSlug": "chemistry",
+      "syllabusSeries": "Issue 3, September 2024",
+      "totalQuestions": 123,
+      "totalSubtopics": 17,
+      "coveredSubtopics": 17,
+      "coveragePct": 100,
+      "gaps": [],
+      "thin": [],
+      "topicsWithoutTaxonomy": [
+        {
+          "topicNumber": 3,
+          "topicName": "Physical chemistry",
+          "topicSlug": "physical-chemistry-4ch1"
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Organic chemistry",
+          "topicSlug": "organic-chemistry-4ch1"
+        }
+      ],
+      "topicOnlyTagged": [
+        {
+          "topicNumber": 1,
+          "topicName": "Principles of chemistry",
+          "topicSlug": "principles-of-chemistry-4ch1",
+          "resourceSlug": "edexcel-igcse-chemistry-4ch1-atomic-structure-and-the-periodic-table-practice",
+          "resourceTitle": "Pearson Edexcel International GCSE Chemistry 4CH1: Atomic structure and the Periodic Table -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Principles of chemistry",
+          "topicSlug": "principles-of-chemistry-4ch1",
+          "resourceSlug": "edexcel-igcse-chemistry-4ch1-electrolysis-practice",
+          "resourceTitle": "Pearson Edexcel International GCSE Chemistry 4CH1: Electrolysis -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Inorganic chemistry",
+          "topicSlug": "inorganic-chemistry-4ch1",
+          "resourceSlug": "edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals-practice",
+          "resourceTitle": "Pearson Edexcel International GCSE Chemistry 4CH1: Extraction and uses of metals -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Principles of chemistry",
+          "topicSlug": "principles-of-chemistry-4ch1",
+          "resourceSlug": "edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding-practice",
+          "resourceTitle": "Pearson Edexcel International GCSE Chemistry 4CH1: Ionic, covalent and metallic bonding -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Principles of chemistry",
+          "topicSlug": "principles-of-chemistry-4ch1",
+          "resourceSlug": "edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures-practice",
+          "resourceTitle": "Pearson Edexcel International GCSE Chemistry 4CH1: States of matter; elements, compounds and mixtures -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Organic chemistry",
+          "topicSlug": "organic-chemistry-4ch1",
+          "resourceSlug": "edexcel-igcse-chemistry-organic-practice",
+          "resourceTitle": "Pearson Edexcel IGCSE Chemistry: Organic Chemistry — Practice Questions (4CH1)",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Physical chemistry",
+          "topicSlug": "physical-chemistry-4ch1",
+          "resourceSlug": "edexcel-igcse-chemistry-physical-chemistry-practice",
+          "resourceTitle": "Pearson Edexcel IGCSE Chemistry: Physical Chemistry — Practice Questions (4CH1)",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Principles of chemistry",
+          "topicSlug": "principles-of-chemistry-4ch1",
+          "resourceSlug": "igcse-edexcel-chemistry-principles-practice",
+          "resourceTitle": "Edexcel IGCSE Chemistry: Principles of Chemistry — Practice Questions",
+          "questionCount": 13
+        }
+      ]
+    },
+    {
+      "code": "4PH1",
+      "boardSlug": "edexcel",
+      "qualificationSlug": "igcse",
+      "subjectSlug": "physics",
+      "syllabusSeries": "Issue 4",
+      "totalQuestions": 81,
+      "totalSubtopics": 30,
+      "coveredSubtopics": 30,
+      "coveragePct": 100,
+      "gaps": [],
+      "thin": [],
+      "topicsWithoutTaxonomy": [],
+      "topicOnlyTagged": []
+    },
+    {
+      "code": "9708",
+      "boardSlug": "cambridge",
+      "qualificationSlug": "a-level",
+      "subjectSlug": "economics",
+      "syllabusSeries": "For examination in 2026, 2027 and 2028",
+      "totalQuestions": 619,
+      "totalSubtopics": 53,
+      "coveredSubtopics": 53,
+      "coveragePct": 100,
+      "gaps": [],
+      "thin": [],
+      "topicsWithoutTaxonomy": [],
+      "topicOnlyTagged": [
+        {
+          "topicNumber": 1,
+          "topicName": "Basic economic ideas and resource allocation",
+          "topicSlug": "basic-economic-ideas-and-resource-allocation-cambridge-alevel-economics",
+          "resourceSlug": "a-level-economics-basic-ideas-practice",
+          "resourceTitle": "A Level Economics: Basic Economic Ideas and Resource Allocation — Practice Questions",
+          "questionCount": 9
+        },
+        {
+          "topicNumber": 10,
+          "topicName": "Government macroeconomic intervention",
+          "topicSlug": "government-macroeconomic-intervention-a-cambridge-alevel-economics",
+          "resourceSlug": "a-level-economics-government-macroeconomic-intervention-a-level-practice",
+          "resourceTitle": "A Level Economics: Government Macroeconomic Intervention (A Level) — Practice Questions (Cambridge 9708)",
+          "questionCount": 7
+        },
+        {
+          "topicNumber": 8,
+          "topicName": "Government microeconomic intervention",
+          "topicSlug": "government-microeconomic-intervention-a-cambridge-alevel-economics",
+          "resourceSlug": "a-level-economics-government-microeconomic-intervention-a-level-practice",
+          "resourceTitle": "A Level Economics: Government Microeconomic Intervention (A Level) — Practice Questions (Cambridge 9708)",
+          "questionCount": 6
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Government microeconomic intervention",
+          "topicSlug": "government-microeconomic-intervention-as-cambridge-alevel-economics",
+          "resourceSlug": "a-level-economics-government-microeconomic-intervention-practice",
+          "resourceTitle": "A Level Economics: Government Microeconomic Intervention — Practice Questions (Cambridge 9708)",
+          "questionCount": 8
+        },
+        {
+          "topicNumber": 11,
+          "topicName": "International economic issues",
+          "topicSlug": "international-economic-issues-a-cambridge-alevel-economics",
+          "resourceSlug": "a-level-economics-international-economic-issues-a-level-practice",
+          "resourceTitle": "A Level Economics: International Economic Issues (A Level) — Practice Questions (Cambridge 9708)",
+          "questionCount": 6
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "The macroeconomy",
+          "topicSlug": "the-macroeconomy-as-cambridge-alevel-economics",
+          "resourceSlug": "a-level-economics-macroeconomy-practice",
+          "resourceTitle": "A Level Economics: The Macroeconomy — Practice Questions (Cambridge 9708)",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 7,
+          "topicName": "The price system and the microeconomy",
+          "topicSlug": "the-price-system-and-the-microeconomy-a-cambridge-alevel-economics",
+          "resourceSlug": "a-level-economics-price-system-a-level-practice",
+          "resourceTitle": "A Level Economics: The Price System and the Microeconomy (A Level) — Practice Questions (Cambridge 9708)",
+          "questionCount": 6
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "The price system and the microeconomy",
+          "topicSlug": "the-price-system-and-the-microeconomy-as-cambridge-alevel-economics",
+          "resourceSlug": "a-level-economics-price-system-practice",
+          "resourceTitle": "A Level Economics: The Price System and the Microeconomy — Practice Questions (Cambridge 9708)",
+          "questionCount": 10
+        }
+      ]
+    },
+    {
+      "code": "9609",
+      "boardSlug": "cambridge",
+      "qualificationSlug": "a-level",
+      "subjectSlug": "business",
+      "syllabusSeries": "For examination in 2026, 2027 and 2028",
+      "totalQuestions": 322,
+      "totalSubtopics": 34,
+      "coveredSubtopics": 34,
+      "coveragePct": 100,
+      "gaps": [],
+      "thin": [],
+      "topicsWithoutTaxonomy": [],
+      "topicOnlyTagged": [
+        {
+          "topicNumber": 1,
+          "topicName": "Business and its environment",
+          "topicSlug": "business-and-its-environment-as-cambridge-alevel-business",
+          "resourceSlug": "a-business-environment-practice",
+          "resourceTitle": "A Level Business: Business and Its Environment — Practice Questions",
+          "questionCount": 8
+        },
+        {
+          "topicNumber": 10,
+          "topicName": "Finance and accounting",
+          "topicSlug": "finance-and-accounting-a-cambridge-alevel-business",
+          "resourceSlug": "a-level-business-finance-a-level-practice",
+          "resourceTitle": "A Level Business: Finance and Accounting (A Level) — Practice Questions (Cambridge 9609)",
+          "questionCount": 6
+        },
+        {
+          "topicNumber": 7,
+          "topicName": "Human resource management",
+          "topicSlug": "human-resource-management-a-cambridge-alevel-business",
+          "resourceSlug": "a-level-business-hrm-a-level-practice",
+          "resourceTitle": "A Level Business: Human Resource Management (A Level) — Practice Questions (Cambridge 9609)",
+          "questionCount": 7
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Human resource management",
+          "topicSlug": "human-resource-management-as-cambridge-alevel-business",
+          "resourceSlug": "a-level-business-hrm-practice",
+          "resourceTitle": "A Level Business: Human Resource Management — Practice Questions (Cambridge 9609)",
+          "questionCount": 9
+        },
+        {
+          "topicNumber": 8,
+          "topicName": "Marketing",
+          "topicSlug": "marketing-a-cambridge-alevel-business",
+          "resourceSlug": "a-level-business-marketing-a-level-practice",
+          "resourceTitle": "A Level Business: Marketing (A Level) — Practice Questions (Cambridge 9609)",
+          "questionCount": 6
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Marketing",
+          "topicSlug": "marketing-as-cambridge-alevel-business",
+          "resourceSlug": "a-level-business-marketing-practice",
+          "resourceTitle": "A Level Business: Marketing — Practice Questions (Cambridge 9609)",
+          "questionCount": 8
+        },
+        {
+          "topicNumber": 9,
+          "topicName": "Operations management",
+          "topicSlug": "operations-management-a-cambridge-alevel-business",
+          "resourceSlug": "a-level-business-operations-a-level-practice",
+          "resourceTitle": "A Level Business: Operations Management (A Level) — Practice Questions (Cambridge 9609)",
+          "questionCount": 6
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Operations management",
+          "topicSlug": "operations-management-as-cambridge-alevel-business",
+          "resourceSlug": "a-level-business-operations-practice",
+          "resourceTitle": "A Level Business: Operations Management — Practice Questions (Cambridge 9609)",
+          "questionCount": 11
+        }
+      ]
+    },
+    {
+      "code": "9618",
+      "boardSlug": "cambridge",
+      "qualificationSlug": "a-level",
+      "subjectSlug": "computer-science",
+      "syllabusSeries": "2026",
+      "totalQuestions": 233,
+      "totalSubtopics": 44,
+      "coveredSubtopics": 44,
+      "coveragePct": 100,
+      "gaps": [],
+      "thin": [],
+      "topicsWithoutTaxonomy": [],
+      "topicOnlyTagged": [
+        {
+          "topicNumber": 1,
+          "topicName": "Information representation",
+          "topicSlug": "information-representation",
+          "resourceSlug": "a-computer-science-data-representation-practice",
+          "resourceTitle": "A Level Computer Science: Information Representation — Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 14,
+          "topicName": "Communication and internet technologies",
+          "topicSlug": "communication-and-internet-technologies",
+          "resourceSlug": "a-level-computer-science-communication-internet-a-level-practice",
+          "resourceTitle": "A Level Computer Science: Communication and Internet Technologies (A Level) — Practice Questions (Cambridge 9618)",
+          "questionCount": 7
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Communication",
+          "topicSlug": "communication",
+          "resourceSlug": "a-level-computer-science-communication-practice",
+          "resourceTitle": "A Level Computer Science: Communication — Practice Questions (Cambridge 9618)",
+          "questionCount": 9
+        },
+        {
+          "topicNumber": 13,
+          "topicName": "Data Representation",
+          "topicSlug": "a-data-representation",
+          "resourceSlug": "a-level-computer-science-data-representation-a-level-practice",
+          "resourceTitle": "A Level Computer Science: Data Representation (A Level) — Practice Questions (Cambridge 9618)",
+          "questionCount": 7
+        },
+        {
+          "topicNumber": 8,
+          "topicName": "Databases",
+          "topicSlug": "databases",
+          "resourceSlug": "a-level-computer-science-databases-practice",
+          "resourceTitle": "A Level Computer Science: Databases — Practice Questions (Cambridge 9618)",
+          "questionCount": 13
+        },
+        {
+          "topicNumber": 20,
+          "topicName": "Further Programming",
+          "topicSlug": "further-programming",
+          "resourceSlug": "a-level-computer-science-further-programming-a-level-practice",
+          "resourceTitle": "A Level Computer Science: Further Programming (A Level) — Practice Questions (Cambridge 9618)",
+          "questionCount": 6
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Processor Fundamentals",
+          "topicSlug": "processor-fundamentals",
+          "resourceSlug": "a-level-computer-science-processor-fundamentals-practice",
+          "resourceTitle": "A Level Computer Science: Processor Fundamentals — Practice Questions (Cambridge 9618)",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 16,
+          "topicName": "System Software",
+          "topicSlug": "a-system-software",
+          "resourceSlug": "a-level-computer-science-system-software-a-level-practice",
+          "resourceTitle": "A Level Computer Science: System Software (A Level) — Practice Questions (Cambridge 9618)",
+          "questionCount": 7
+        },
+        {
+          "topicNumber": 9,
+          "topicName": "Algorithm Design and Problem-solving",
+          "topicSlug": "algorithm-design-and-problem-solving",
+          "resourceSlug": "cambridge-a-level-computer-science-algorithm-design-and-problem-solving-practice",
+          "resourceTitle": "Cambridge A Level Computer Science (9618): Algorithm Design and Problem-solving -- Practice Questions",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 18,
+          "topicName": "Artificial Intelligence (AI)",
+          "topicSlug": "artificial-intelligence-ai",
+          "resourceSlug": "cambridge-a-level-computer-science-artificial-intelligence-ai-practice",
+          "resourceTitle": "Cambridge A Level Computer Science (9618): Artificial Intelligence (AI) -- Practice Questions",
+          "questionCount": 8
+        },
+        {
+          "topicNumber": 19,
+          "topicName": "Computational thinking and Problem-solving",
+          "topicSlug": "computational-thinking-and-problem-solving",
+          "resourceSlug": "cambridge-a-level-computer-science-computational-thinking-and-problem-solving-practice",
+          "resourceTitle": "Cambridge A Level Computer Science (9618): Computational thinking and Problem-solving -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 10,
+          "topicName": "Data Types and Structures",
+          "topicSlug": "data-types-and-structures",
+          "resourceSlug": "cambridge-a-level-computer-science-data-types-and-structures-practice",
+          "resourceTitle": "Cambridge A Level Computer Science (9618): Data Types and Structures -- Practice Questions",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 7,
+          "topicName": "Ethics and Ownership",
+          "topicSlug": "ethics-and-ownership",
+          "resourceSlug": "cambridge-a-level-computer-science-ethics-and-ownership-practice",
+          "resourceTitle": "Cambridge A Level Computer Science (9618): Ethics and Ownership -- Practice Questions",
+          "questionCount": 9
+        },
+        {
+          "topicNumber": 15,
+          "topicName": "Hardware and Virtual Machines",
+          "topicSlug": "hardware-and-virtual-machines",
+          "resourceSlug": "cambridge-a-level-computer-science-hardware-and-virtual-machines-practice",
+          "resourceTitle": "Cambridge A Level Computer Science (9618): Hardware and Virtual Machines -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Hardware",
+          "topicSlug": "hardware",
+          "resourceSlug": "cambridge-a-level-computer-science-hardware-practice",
+          "resourceTitle": "Cambridge A Level Computer Science (9618): Hardware -- Practice Questions",
+          "questionCount": 13
+        },
+        {
+          "topicNumber": 11,
+          "topicName": "Programming",
+          "topicSlug": "programming",
+          "resourceSlug": "cambridge-a-level-computer-science-programming-practice",
+          "resourceTitle": "Cambridge A Level Computer Science (9618): Programming -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 17,
+          "topicName": "Security",
+          "topicSlug": "security",
+          "resourceSlug": "cambridge-a-level-computer-science-security-practice",
+          "resourceTitle": "Cambridge A Level Computer Science (9618): Security -- Practice Questions",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "Security, privacy and data integrity",
+          "topicSlug": "security-privacy-and-data-integrity",
+          "resourceSlug": "cambridge-a-level-computer-science-security-privacy-and-data-integrity-practice",
+          "resourceTitle": "Cambridge A Level Computer Science (9618): Security, privacy and data integrity -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 12,
+          "topicName": "Software Development",
+          "topicSlug": "software-development",
+          "resourceSlug": "cambridge-a-level-computer-science-software-development-practice",
+          "resourceTitle": "Cambridge A Level Computer Science (9618): Software Development -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "System Software",
+          "topicSlug": "system-software",
+          "resourceSlug": "cambridge-a-level-computer-science-system-software-practice",
+          "resourceTitle": "Cambridge A Level Computer Science (9618): System Software -- Practice Questions",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "code": "5070",
+      "boardSlug": "cambridge",
+      "qualificationSlug": "o-level",
+      "subjectSlug": "chemistry",
+      "syllabusSeries": "2026-2028",
+      "totalQuestions": 203,
+      "totalSubtopics": 49,
+      "coveredSubtopics": 49,
+      "coveragePct": 100,
+      "gaps": [],
+      "thin": [],
+      "topicsWithoutTaxonomy": [],
+      "topicOnlyTagged": []
+    },
+    {
+      "code": "9709",
+      "boardSlug": "cambridge",
+      "qualificationSlug": "a-level",
+      "subjectSlug": "mathematics",
+      "syllabusSeries": "2026-2027",
+      "totalQuestions": 232,
+      "totalSubtopics": 38,
+      "coveredSubtopics": 38,
+      "coveragePct": 100,
+      "gaps": [],
+      "thin": [],
+      "topicsWithoutTaxonomy": [],
+      "topicOnlyTagged": [
+        {
+          "topicNumber": 4,
+          "topicName": "Mechanics",
+          "topicSlug": "mechanics-cambridge-alevel-maths",
+          "resourceSlug": "a-level-mathematics-mechanics-practice",
+          "resourceTitle": "A Level Mathematics: Mechanics Practice Questions (Cambridge 9709 Paper 4)",
+          "questionCount": 7
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "Probability & Statistics 1",
+          "topicSlug": "probability-and-statistics-1-cambridge-alevel",
+          "resourceSlug": "a-level-mathematics-probability-statistics-1-practice",
+          "resourceTitle": "A Level Mathematics: Probability & Statistics 1 Practice Questions (Cambridge 9709 Paper 5)",
+          "questionCount": 7
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Pure Mathematics 1",
+          "topicSlug": "pure-mathematics-1-cambridge-alevel",
+          "resourceSlug": "a-level-mathematics-pure-1-mixed-practice",
+          "resourceTitle": "A Level Mathematics: Pure Mathematics 1 Mixed Practice (Cambridge 9709 Paper 1)",
+          "questionCount": 9
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Pure Mathematics 3",
+          "topicSlug": "pure-mathematics-3-cambridge-alevel",
+          "resourceSlug": "a-level-mathematics-pure-3-algebra-calculus-practice",
+          "resourceTitle": "A Level Mathematics: Pure Mathematics 3 Algebra and Calculus — Practice Questions (Cambridge 9709)",
+          "questionCount": 8
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Pure Mathematics 3",
+          "topicSlug": "pure-mathematics-3-cambridge-alevel",
+          "resourceSlug": "a-level-mathematics-pure-3-trig-vectors-complex-practice",
+          "resourceTitle": "A Level Mathematics: Pure Mathematics 3 Trigonometry, Vectors and Complex Numbers — Practice Questions (Cambridge 9709)",
+          "questionCount": 8
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Pure Mathematics 2",
+          "topicSlug": "pure-mathematics-2-cambridge-alevel",
+          "resourceSlug": "a-level-mathematics-pure-mathematics-2-practice",
+          "resourceTitle": "A Level Mathematics: Pure Mathematics 2 — Practice Questions",
+          "questionCount": 9
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Pure Mathematics 1",
+          "topicSlug": "pure-mathematics-1-cambridge-alevel",
+          "resourceSlug": "a-level-mathematics-quadratics-practice",
+          "resourceTitle": "A Level Mathematics: Quadratics — Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "Probability & Statistics 2",
+          "topicSlug": "probability-and-statistics-2-cambridge-alevel",
+          "resourceSlug": "a-level-maths-9709-probability-statistics-2-practice",
+          "resourceTitle": "Cambridge International AS & A Level Mathematics 9709: Probability & Statistics 2 -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Pure Mathematics 1",
+          "topicSlug": "pure-mathematics-1-cambridge-alevel",
+          "resourceSlug": "a-level-maths-9709-pure-mathematics-1-circular-measure-practice",
+          "resourceTitle": "Cambridge International AS & A Level Mathematics 9709: Circular measure -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Pure Mathematics 1",
+          "topicSlug": "pure-mathematics-1-cambridge-alevel",
+          "resourceSlug": "a-level-maths-9709-pure-mathematics-1-coordinate-geometry-practice",
+          "resourceTitle": "Cambridge International AS & A Level Mathematics 9709: Coordinate Geometry (Pure Mathematics 1) -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Pure Mathematics 1",
+          "topicSlug": "pure-mathematics-1-cambridge-alevel",
+          "resourceSlug": "a-level-maths-9709-pure-mathematics-1-differentiation-practice",
+          "resourceTitle": "Cambridge International AS & A Level Mathematics 9709: Pure Mathematics 1 Differentiation -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Pure Mathematics 1",
+          "topicSlug": "pure-mathematics-1-cambridge-alevel",
+          "resourceSlug": "a-level-maths-9709-pure-mathematics-1-functions-practice",
+          "resourceTitle": "Cambridge International AS & A Level Mathematics 9709: Functions -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Pure Mathematics 1",
+          "topicSlug": "pure-mathematics-1-cambridge-alevel",
+          "resourceSlug": "a-level-maths-9709-pure-mathematics-1-integration-practice",
+          "resourceTitle": "Cambridge International AS & A Level Mathematics 9709: Integration (Pure Mathematics 1) -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Pure Mathematics 1",
+          "topicSlug": "pure-mathematics-1-cambridge-alevel",
+          "resourceSlug": "a-level-maths-9709-pure-mathematics-1-series-practice",
+          "resourceTitle": "Cambridge International AS & A Level Mathematics 9709: Series -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Pure Mathematics 1",
+          "topicSlug": "pure-mathematics-1-cambridge-alevel",
+          "resourceSlug": "a-level-maths-9709-pure-mathematics-1-trigonometry-practice",
+          "resourceTitle": "Cambridge International AS & A Level Mathematics 9709: Pure Mathematics 1 Trigonometry -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Pure Mathematics 2",
+          "topicSlug": "pure-mathematics-2-cambridge-alevel",
+          "resourceSlug": "a-level-maths-9709-pure-mathematics-2-algebra-practice",
+          "resourceTitle": "Cambridge International AS & A Level Mathematics 9709: Pure Mathematics 2 Algebra -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Pure Mathematics 2",
+          "topicSlug": "pure-mathematics-2-cambridge-alevel",
+          "resourceSlug": "a-level-maths-9709-pure-mathematics-2-differentiation-practice",
+          "resourceTitle": "Cambridge International AS & A Level Mathematics 9709: Pure Mathematics 2 Differentiation -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Pure Mathematics 2",
+          "topicSlug": "pure-mathematics-2-cambridge-alevel",
+          "resourceSlug": "a-level-maths-9709-pure-mathematics-2-integration-practice",
+          "resourceTitle": "Cambridge International AS & A Level Mathematics 9709: Pure Mathematics 2 Integration -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Pure Mathematics 2",
+          "topicSlug": "pure-mathematics-2-cambridge-alevel",
+          "resourceSlug": "a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials-practice",
+          "resourceTitle": "Cambridge International AS & A Level Mathematics 9709: Pure Mathematics 2 Logarithms and Exponentials -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Pure Mathematics 2",
+          "topicSlug": "pure-mathematics-2-cambridge-alevel",
+          "resourceSlug": "a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations-practice",
+          "resourceTitle": "Cambridge International AS & A Level Mathematics 9709: Pure Mathematics 2 Numerical Solution of Equations -- Practice Questions",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Pure Mathematics 2",
+          "topicSlug": "pure-mathematics-2-cambridge-alevel",
+          "resourceSlug": "a-level-maths-9709-pure-mathematics-2-trigonometry-practice",
+          "resourceTitle": "Cambridge International AS & A Level Mathematics 9709: Pure Mathematics 2 Trigonometry -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "Probability & Statistics 1",
+          "topicSlug": "probability-and-statistics-1-cambridge-alevel",
+          "resourceSlug": "a-level-maths-9709-representation-of-data-practice",
+          "resourceTitle": "Cambridge International AS & A Level Mathematics 9709: Representation of data -- Practice Questions",
+          "questionCount": 11
+        }
+      ]
+    },
+    {
+      "code": "4024",
+      "boardSlug": "cambridge",
+      "qualificationSlug": "o-level",
+      "subjectSlug": "mathematics",
+      "syllabusSeries": "2025-2027",
+      "totalQuestions": 210,
+      "totalSubtopics": 23,
+      "coveredSubtopics": 23,
+      "coveragePct": 100,
+      "gaps": [],
+      "thin": [],
+      "topicsWithoutTaxonomy": [
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number"
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Coordinate geometry",
+          "topicSlug": "coordinate-geometry"
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Geometry",
+          "topicSlug": "geometry"
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "Mensuration",
+          "topicSlug": "mensuration"
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "Trigonometry",
+          "topicSlug": "trigonometry"
+        },
+        {
+          "topicNumber": 8,
+          "topicName": "Probability",
+          "topicSlug": "probability"
+        }
+      ],
+      "topicOnlyTagged": [
+        {
+          "topicNumber": 3,
+          "topicName": "Coordinate geometry",
+          "topicSlug": "coordinate-geometry",
+          "resourceSlug": "o-level-mathematics-coordinate-geometry-practice",
+          "resourceTitle": "O Level Mathematics: Coordinate Geometry Practice Questions (Cambridge 4024)",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Geometry",
+          "topicSlug": "geometry",
+          "resourceSlug": "o-level-mathematics-geometry-practice",
+          "resourceTitle": "O Level Mathematics: Geometry Practice Questions (Cambridge 4024)",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "Mensuration",
+          "topicSlug": "mensuration",
+          "resourceSlug": "o-level-mathematics-mensuration-practice",
+          "resourceTitle": "O Level Mathematics: Mensuration Practice Questions (Cambridge 4024)",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number",
+          "resourceSlug": "o-level-mathematics-number-practice",
+          "resourceTitle": "O Level Mathematics: Number Practice Questions (Cambridge 4024)",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 8,
+          "topicName": "Probability",
+          "topicSlug": "probability",
+          "resourceSlug": "o-level-mathematics-probability-practice",
+          "resourceTitle": "O Level Mathematics: Probability Practice Questions (Cambridge 4024)",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "Trigonometry",
+          "topicSlug": "trigonometry",
+          "resourceSlug": "o-level-mathematics-trigonometry-practice",
+          "resourceTitle": "O Level Mathematics: Trigonometry Practice Questions (Cambridge 4024)",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "code": "0610",
+      "boardSlug": "cambridge",
+      "qualificationSlug": "igcse",
+      "subjectSlug": "biology",
+      "syllabusSeries": "For examination in 2026, 2027 and 2028",
+      "totalQuestions": 230,
+      "totalSubtopics": 61,
+      "coveredSubtopics": 61,
+      "coveragePct": 100,
+      "gaps": [],
+      "thin": [],
+      "topicsWithoutTaxonomy": [],
+      "topicOnlyTagged": [
+        {
+          "topicNumber": 4,
+          "topicName": "Biological molecules",
+          "topicSlug": "biological-molecules-cambridge-igcse-biology",
+          "resourceSlug": "igcse-biology-0610-biological-molecules-practice",
+          "resourceTitle": "Cambridge IGCSE Biology 0610: Biological molecules -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 21,
+          "topicName": "Biotechnology and genetic modification",
+          "topicSlug": "biotechnology-and-genetic-modification-cambridge-igcse-biology",
+          "resourceSlug": "igcse-biology-0610-biotechnology-and-genetic-modification-practice",
+          "resourceTitle": "Cambridge IGCSE Biology 0610: Biotechnology and genetic modification -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 10,
+          "topicName": "Diseases and immunity",
+          "topicSlug": "diseases-and-immunity-cambridge-igcse-biology",
+          "resourceSlug": "igcse-biology-0610-diseases-and-immunity-practice",
+          "resourceTitle": "Cambridge IGCSE Biology 0610: Diseases and immunity -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 15,
+          "topicName": "Drugs",
+          "topicSlug": "drugs-cambridge-igcse-biology",
+          "resourceSlug": "igcse-biology-0610-drugs-practice",
+          "resourceTitle": "Cambridge IGCSE Biology 0610: Drugs -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 13,
+          "topicName": "Excretion in humans",
+          "topicSlug": "excretion-in-humans-cambridge-igcse-biology",
+          "resourceSlug": "igcse-biology-0610-excretion-in-humans-practice",
+          "resourceTitle": "Cambridge IGCSE Biology 0610: Excretion in humans -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 11,
+          "topicName": "Gas exchange in humans",
+          "topicSlug": "gas-exchange-in-humans-cambridge-igcse-biology",
+          "resourceSlug": "igcse-biology-0610-gas-exchange-in-humans-practice",
+          "resourceTitle": "Cambridge IGCSE Biology 0610: Gas exchange in humans -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 14,
+          "topicName": "Coordination and response",
+          "topicSlug": "coordination-and-response-cambridge-igcse-biology",
+          "resourceSlug": "igcse-biology-0610-hormones-homeostasis-and-tropic-responses-subtopic-practice",
+          "resourceTitle": "Cambridge IGCSE Biology 0610: Hormones, homeostasis and tropic responses (by subtopic) -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 20,
+          "topicName": "Human influences on ecosystems",
+          "topicSlug": "human-influences-on-ecosystems-cambridge-igcse-biology",
+          "resourceSlug": "igcse-biology-0610-human-influences-on-ecosystems-practice",
+          "resourceTitle": "Cambridge IGCSE Biology 0610: Human influences on ecosystems -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "Plant nutrition",
+          "topicSlug": "plant-nutrition-cambridge-igcse-biology",
+          "resourceSlug": "igcse-biology-0610-leaf-structure-subtopic-practice",
+          "resourceTitle": "Cambridge IGCSE Biology 0610: Leaf structure (by subtopic) -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 19,
+          "topicName": "Organisms and their environment",
+          "topicSlug": "organisms-and-their-environment-cambridge-igcse-biology",
+          "resourceSlug": "igcse-biology-0610-organisms-and-their-environment-practice",
+          "resourceTitle": "Cambridge IGCSE Biology 0610: Organisms and their environment -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 16,
+          "topicName": "Reproduction",
+          "topicSlug": "reproduction-cambridge-igcse-biology",
+          "resourceSlug": "igcse-biology-0610-sex-hormones-and-stis-subtopic-practice",
+          "resourceTitle": "Cambridge IGCSE Biology 0610: Sex hormones in humans and sexually transmitted infections (by subtopic) -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 9,
+          "topicName": "Transport in animals",
+          "topicSlug": "transport-in-animals-cambridge-igcse-biology",
+          "resourceSlug": "igcse-biology-0610-transport-in-animals-practice",
+          "resourceTitle": "Cambridge IGCSE Biology 0610: Transport in animals -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 18,
+          "topicName": "Variation and selection",
+          "topicSlug": "variation-and-selection-cambridge-igcse-biology",
+          "resourceSlug": "igcse-biology-0610-variation-and-selection-practice",
+          "resourceTitle": "Cambridge IGCSE Biology 0610: Variation and selection -- Practice Questions",
+          "questionCount": 11
+        }
+      ]
+    },
+    {
+      "code": "9700",
+      "boardSlug": "cambridge",
+      "qualificationSlug": "a-level",
+      "subjectSlug": "biology",
+      "syllabusSeries": "For examination in 2025, 2026 and 2027",
+      "totalQuestions": 349,
+      "totalSubtopics": 44,
+      "coveredSubtopics": 44,
+      "coveragePct": 100,
+      "gaps": [],
+      "thin": [],
+      "topicsWithoutTaxonomy": [],
+      "topicOnlyTagged": [
+        {
+          "topicNumber": 2,
+          "topicName": "Biological molecules",
+          "topicSlug": "biological-molecules-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-9700-carbohydrates-and-lipids-practice",
+          "resourceTitle": "Cambridge International AS & A Level Biology 9700: Carbohydrates and lipids -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Cell membranes and transport",
+          "topicSlug": "cell-membranes-and-transport-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-9700-cell-membranes-and-transport-subtopic-practice",
+          "resourceTitle": "Cambridge International AS & A Level Biology 9700: Cell membranes and transport (by subtopic) -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Cell structure",
+          "topicSlug": "cell-structure-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-9700-cells-as-the-basic-units-of-living-organisms-practice",
+          "resourceTitle": "Cambridge International AS & A Level Biology 9700: Cells as the basic units of living organisms -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 18,
+          "topicName": "Classification, biodiversity and conservation",
+          "topicSlug": "classification-biodiversity-and-conservation-cambridge",
+          "resourceSlug": "a-level-biology-9700-classification-biodiversity-and-conservation-practice",
+          "resourceTitle": "Cambridge International AS & A Level Biology 9700: Classification, biodiversity and conservation -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 15,
+          "topicName": "Control and coordination",
+          "topicSlug": "control-and-coordination-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-9700-control-and-coordination-subtopic-practice",
+          "resourceTitle": "Cambridge International AS & A Level Biology 9700: Control and coordination (by subtopic) -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 12,
+          "topicName": "Energy and respiration",
+          "topicSlug": "energy-and-respiration-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-9700-energy-and-respiration-subtopic-practice",
+          "resourceTitle": "Cambridge International AS & A Level Biology 9700: Energy and respiration (by subtopic) -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Enzymes",
+          "topicSlug": "enzymes-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-9700-factors-that-affect-enzyme-action-practice",
+          "resourceTitle": "Cambridge International AS & A Level Biology 9700: Factors that affect enzyme action -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 9,
+          "topicName": "Gas exchange",
+          "topicSlug": "gas-exchange-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-9700-gas-exchange-practice",
+          "resourceTitle": "Cambridge International AS & A Level Biology 9700: Gas exchange -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 19,
+          "topicName": "Genetic technology",
+          "topicSlug": "genetic-technology-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-9700-genetic-technology-practice",
+          "resourceTitle": "Cambridge International AS & A Level Biology 9700: Genetic technology -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 14,
+          "topicName": "Homeostasis",
+          "topicSlug": "homeostasis-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-9700-homeostasis-subtopic-practice",
+          "resourceTitle": "Cambridge International AS & A Level Biology 9700: Homeostasis (by subtopic) -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 11,
+          "topicName": "Immunity",
+          "topicSlug": "immunity-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-9700-immunity-subtopic-practice",
+          "resourceTitle": "Cambridge International AS & A Level Biology 9700: Immunity (by subtopic) -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 10,
+          "topicName": "Infectious diseases",
+          "topicSlug": "infectious-diseases-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-9700-infectious-diseases-subtopic-practice",
+          "resourceTitle": "Cambridge International AS & A Level Biology 9700: Infectious diseases (by subtopic) -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 16,
+          "topicName": "Inheritance",
+          "topicSlug": "inheritance-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-9700-inheritance-subtopic-practice",
+          "resourceTitle": "Cambridge International AS & A Level Biology 9700: Inheritance (by subtopic) -- Practice Questions",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Enzymes",
+          "topicSlug": "enzymes-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-9700-mode-of-action-of-enzymes-practice",
+          "resourceTitle": "Cambridge International AS & A Level Biology 9700: Mode of action of enzymes -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "Nucleic acids and protein synthesis",
+          "topicSlug": "nucleic-acids-and-protein-synthesis-cambridge-alevel",
+          "resourceSlug": "a-level-biology-9700-nucleic-acids-and-protein-synthesis-practice",
+          "resourceTitle": "Cambridge International AS & A Level Biology 9700: Nucleic acids and protein synthesis -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 13,
+          "topicName": "Photosynthesis",
+          "topicSlug": "photosynthesis-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-9700-photosynthesis-practice",
+          "resourceTitle": "Cambridge International AS & A Level Biology 9700: Photosynthesis -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Biological molecules",
+          "topicSlug": "biological-molecules-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-9700-proteins-practice",
+          "resourceTitle": "Cambridge International AS & A Level Biology 9700: Proteins -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 17,
+          "topicName": "Selection and evolution",
+          "topicSlug": "selection-and-evolution-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-9700-selection-and-evolution-practice",
+          "resourceTitle": "Cambridge International AS & A Level Biology 9700: Selection and evolution -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Biological molecules",
+          "topicSlug": "biological-molecules-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-9700-testing-for-biological-molecules-practice",
+          "resourceTitle": "Cambridge International AS & A Level Biology 9700: Testing for biological molecules -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Cell structure",
+          "topicSlug": "cell-structure-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-9700-the-microscope-in-cell-studies-practice",
+          "resourceTitle": "Cambridge International AS & A Level Biology 9700: The microscope in cell studies -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "The mitotic cell cycle",
+          "topicSlug": "the-mitotic-cell-cycle-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-9700-the-mitotic-cell-cycle-practice",
+          "resourceTitle": "Cambridge International AS & A Level Biology 9700: The mitotic cell cycle -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 8,
+          "topicName": "Transport in mammals",
+          "topicSlug": "transport-in-mammals-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-9700-transport-in-mammals-subtopic-practice",
+          "resourceTitle": "Cambridge International AS & A Level Biology 9700: Transport in mammals (by subtopic) -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 7,
+          "topicName": "Transport in plants",
+          "topicSlug": "transport-in-plants-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-9700-transport-in-plants-practice",
+          "resourceTitle": "Cambridge International AS & A Level Biology 9700: Transport in plants -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Biological molecules",
+          "topicSlug": "biological-molecules-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-9700-water-practice",
+          "resourceTitle": "Cambridge International AS & A Level Biology 9700: Water -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Biological molecules",
+          "topicSlug": "biological-molecules-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-biological-molecules-practice",
+          "resourceTitle": "A Level Biology: Biological Molecules — Practice Questions (Cambridge 9700)",
+          "questionCount": 9
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Cell membranes and transport",
+          "topicSlug": "cell-membranes-and-transport-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-cell-membranes-practice",
+          "resourceTitle": "A Level Biology: Cell membranes and transport — Practice Questions (Cambridge 9700)",
+          "questionCount": 6
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Cell structure",
+          "topicSlug": "cell-structure-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-cell-structure-practice",
+          "resourceTitle": "A Level Biology: Cell Structure — Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 15,
+          "topicName": "Control and coordination",
+          "topicSlug": "control-and-coordination-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-control-and-coordination-practice",
+          "resourceTitle": "A Level Biology: Control and coordination — Practice Questions (Cambridge 9700)",
+          "questionCount": 6
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Enzymes",
+          "topicSlug": "enzymes-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-enzymes-practice",
+          "resourceTitle": "A Level Biology: Enzymes — Practice Questions",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 14,
+          "topicName": "Homeostasis",
+          "topicSlug": "homeostasis-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-homeostasis-practice",
+          "resourceTitle": "A Level Biology: Homeostasis — Practice Questions (Cambridge 9700)",
+          "questionCount": 6
+        },
+        {
+          "topicNumber": 11,
+          "topicName": "Immunity",
+          "topicSlug": "immunity-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-immunity-practice",
+          "resourceTitle": "A Level Biology: Immunity — Practice Questions (Cambridge 9700)",
+          "questionCount": 6
+        },
+        {
+          "topicNumber": 10,
+          "topicName": "Infectious diseases",
+          "topicSlug": "infectious-diseases-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-infectious-diseases-practice",
+          "resourceTitle": "A Level Biology: Infectious diseases — Practice Questions (Cambridge 9700)",
+          "questionCount": 6
+        },
+        {
+          "topicNumber": 16,
+          "topicName": "Inheritance",
+          "topicSlug": "inheritance-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-inheritance-practice",
+          "resourceTitle": "A Level Biology: Inheritance — Practice Questions (Cambridge 9700)",
+          "questionCount": 7
+        },
+        {
+          "topicNumber": 12,
+          "topicName": "Energy and respiration",
+          "topicSlug": "energy-and-respiration-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-respiration-practice",
+          "resourceTitle": "A Level Biology: Energy and respiration — Practice Questions (Cambridge 9700)",
+          "questionCount": 6
+        },
+        {
+          "topicNumber": 8,
+          "topicName": "Transport in mammals",
+          "topicSlug": "transport-in-mammals-cambridge-alevel-biology",
+          "resourceSlug": "a-level-biology-transport-in-mammals-practice",
+          "resourceTitle": "A Level Biology: Transport in mammals — Practice Questions (Cambridge 9700)",
+          "questionCount": 6
+        }
+      ]
+    },
+    {
+      "code": "5054",
+      "boardSlug": "cambridge",
+      "qualificationSlug": "o-level",
+      "subjectSlug": "physics",
+      "syllabusSeries": "2026-2028",
+      "totalQuestions": 145,
+      "totalSubtopics": 25,
+      "coveredSubtopics": 25,
+      "coveragePct": 100,
+      "gaps": [],
+      "thin": [],
+      "topicsWithoutTaxonomy": [],
+      "topicOnlyTagged": []
+    },
+    {
+      "code": "2281",
+      "boardSlug": "cambridge",
+      "qualificationSlug": "o-level",
+      "subjectSlug": "economics",
+      "syllabusSeries": "2026",
+      "totalQuestions": 380,
+      "totalSubtopics": 39,
+      "coveredSubtopics": 39,
+      "coveragePct": 100,
+      "gaps": [],
+      "thin": [],
+      "topicsWithoutTaxonomy": [],
+      "topicOnlyTagged": [
+        {
+          "topicNumber": 5,
+          "topicName": "Economic development",
+          "topicSlug": "economic-development",
+          "resourceSlug": "o-level-economics-economic-development-practice",
+          "resourceTitle": "O Level Economics: Economic development — Practice Questions (Cambridge 2281)",
+          "questionCount": 6
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Government and the macroeconomy",
+          "topicSlug": "government-and-the-macroeconomy",
+          "resourceSlug": "o-level-economics-government-and-the-macroeconomy-practice",
+          "resourceTitle": "O Level Economics: Government and the macroeconomy — Practice Questions (Cambridge 2281)",
+          "questionCount": 6
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "International trade and globalisation",
+          "topicSlug": "international-trade-and-globalisation",
+          "resourceSlug": "o-level-economics-international-trade-practice",
+          "resourceTitle": "O Level Economics: International trade and globalisation — Practice Questions (Cambridge 2281)",
+          "questionCount": 6
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Microeconomic decision makers",
+          "topicSlug": "microeconomic-decision-makers",
+          "resourceSlug": "o-level-economics-microeconomic-decision-makers-practice",
+          "resourceTitle": "O Level Economics: Microeconomic Decision Makers — Practice Questions (Cambridge 2281)",
+          "questionCount": 8
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "The allocation of resources",
+          "topicSlug": "the-allocation-of-resources",
+          "resourceSlug": "o-level-economics-the-allocation-of-resources-practice",
+          "resourceTitle": "O Level Economics: The Allocation of Resources — Practice Questions",
+          "questionCount": 5
+        }
+      ]
+    },
+    {
+      "code": "7115",
+      "boardSlug": "cambridge",
+      "qualificationSlug": "o-level",
+      "subjectSlug": "business",
+      "syllabusSeries": "2026",
+      "totalQuestions": 241,
+      "totalSubtopics": 25,
+      "coveredSubtopics": 25,
+      "coveragePct": 100,
+      "gaps": [],
+      "thin": [],
+      "topicsWithoutTaxonomy": [],
+      "topicOnlyTagged": [
+        {
+          "topicNumber": 6,
+          "topicName": "External influences on business activity",
+          "topicSlug": "external-influences-on-business-activity",
+          "resourceSlug": "o-level-business-external-influences-practice",
+          "resourceTitle": "O Level Business: External influences on business activity — Practice Questions (Cambridge 7115)",
+          "questionCount": 6
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "Financial information and decisions",
+          "topicSlug": "financial-information-and-decisions",
+          "resourceSlug": "o-level-business-financial-information-and-decisions-practice",
+          "resourceTitle": "O Level Business: Financial information and decisions — Practice Questions (Cambridge 7115)",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Marketing",
+          "topicSlug": "marketing",
+          "resourceSlug": "o-level-business-marketing-practice",
+          "resourceTitle": "O Level Business: Marketing — Practice Questions (Cambridge 7115)",
+          "questionCount": 6
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Operations management",
+          "topicSlug": "operations-management",
+          "resourceSlug": "o-level-business-operations-management-practice",
+          "resourceTitle": "O Level Business: Operations management — Practice Questions (Cambridge 7115)",
+          "questionCount": 6
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "People in business",
+          "topicSlug": "people-in-business",
+          "resourceSlug": "o-level-business-people-in-business-practice",
+          "resourceTitle": "O Level Business Studies: People in Business — Practice Questions",
+          "questionCount": 11
+        }
+      ]
+    },
+    {
+      "code": "2210",
+      "boardSlug": "cambridge",
+      "qualificationSlug": "o-level",
+      "subjectSlug": "computer-science",
+      "syllabusSeries": "2026-2028",
+      "totalQuestions": 80,
+      "totalSubtopics": 7,
+      "coveredSubtopics": 7,
+      "coveragePct": 100,
+      "gaps": [],
+      "thin": [],
+      "topicsWithoutTaxonomy": [
+        {
+          "topicNumber": 1,
+          "topicName": "Data representation",
+          "topicSlug": "data-representation-2210"
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Software",
+          "topicSlug": "software-2210"
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "The internet and its uses",
+          "topicSlug": "the-internet-and-its-uses-2210"
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "Automated and emerging technologies",
+          "topicSlug": "automated-and-emerging-technologies-2210"
+        },
+        {
+          "topicNumber": 7,
+          "topicName": "Algorithm design and problem-solving",
+          "topicSlug": "algorithm-design-and-problem-solving-2210"
+        },
+        {
+          "topicNumber": 8,
+          "topicName": "Programming",
+          "topicSlug": "programming-2210"
+        },
+        {
+          "topicNumber": 9,
+          "topicName": "Databases",
+          "topicSlug": "databases-2210"
+        },
+        {
+          "topicNumber": 10,
+          "topicName": "Boolean logic",
+          "topicSlug": "boolean-logic-2210"
+        }
+      ],
+      "topicOnlyTagged": [
+        {
+          "topicNumber": 7,
+          "topicName": "Algorithm design and problem-solving",
+          "topicSlug": "algorithm-design-and-problem-solving-2210",
+          "resourceSlug": "o-level-computer-science-algorithm-design-practice",
+          "resourceTitle": "O Level Computer Science: Algorithm design and problem-solving — Practice Questions (Cambridge 2210)",
+          "questionCount": 6
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "Automated and emerging technologies",
+          "topicSlug": "automated-and-emerging-technologies-2210",
+          "resourceSlug": "o-level-computer-science-automated-and-emerging-technologies-practice",
+          "resourceTitle": "O Level Computer Science: Automated and Emerging Technologies — Practice Questions (Cambridge 2210)",
+          "questionCount": 7
+        },
+        {
+          "topicNumber": 10,
+          "topicName": "Boolean logic",
+          "topicSlug": "boolean-logic-2210",
+          "resourceSlug": "o-level-computer-science-boolean-logic-practice",
+          "resourceTitle": "O Level Computer Science: Boolean logic — Practice Questions (Cambridge 2210)",
+          "questionCount": 5
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Data representation",
+          "topicSlug": "data-representation-2210",
+          "resourceSlug": "o-level-computer-science-data-representation-practice",
+          "resourceTitle": "O Level Computer Science: Data Representation — Practice Questions",
+          "questionCount": 9
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Data transmission",
+          "topicSlug": "data-transmission-2210",
+          "resourceSlug": "o-level-computer-science-data-transmission-practice",
+          "resourceTitle": "Cambridge O-Level Computer Science: Data Transmission — Practice Questions (2210)",
+          "questionCount": 8
+        },
+        {
+          "topicNumber": 9,
+          "topicName": "Databases",
+          "topicSlug": "databases-2210",
+          "resourceSlug": "o-level-computer-science-databases-practice",
+          "resourceTitle": "O Level Computer Science: Databases — Practice Questions (Cambridge 2210)",
+          "questionCount": 5
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Hardware",
+          "topicSlug": "hardware-2210",
+          "resourceSlug": "o-level-computer-science-hardware-practice",
+          "resourceTitle": "O Level Computer Science: Hardware — Practice Questions (Cambridge 2210)",
+          "questionCount": 8
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "The internet and its uses",
+          "topicSlug": "the-internet-and-its-uses-2210",
+          "resourceSlug": "o-level-computer-science-internet-and-its-uses-practice",
+          "resourceTitle": "O Level Computer Science: The Internet and Its Uses — Practice Questions (Cambridge 2210)",
+          "questionCount": 7
+        },
+        {
+          "topicNumber": 8,
+          "topicName": "Programming",
+          "topicSlug": "programming-2210",
+          "resourceSlug": "o-level-computer-science-programming-practice",
+          "resourceTitle": "O Level Computer Science: Programming — Practice Questions (Cambridge 2210)",
+          "questionCount": 6
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Software",
+          "topicSlug": "software-2210",
+          "resourceSlug": "o-level-computer-science-software-practice",
+          "resourceTitle": "O Level Computer Science: Software — Practice Questions (Cambridge 2210)",
+          "questionCount": 6
+        }
+      ]
+    },
+    {
+      "code": "4MA1",
+      "boardSlug": "edexcel",
+      "qualificationSlug": "igcse",
+      "subjectSlug": "mathematics",
+      "syllabusSeries": "Specification Issue 2, November 2017",
+      "totalQuestions": 202,
+      "totalSubtopics": 36,
+      "coveredSubtopics": 36,
+      "coveragePct": 100,
+      "gaps": [],
+      "thin": [],
+      "topicsWithoutTaxonomy": [],
+      "topicOnlyTagged": [
+        {
+          "topicNumber": 2,
+          "topicName": "Equations, formulae and identities",
+          "topicSlug": "equations-formulae-and-identities-edexcel-igcse-maths",
+          "resourceSlug": "edexcel-igcse-mathematics-algebraic-manipulation-practice",
+          "resourceTitle": "Pearson Edexcel IGCSE Mathematics: Use of Symbols and Algebraic Manipulation — Practice Questions (4MA1)",
+          "questionCount": 6
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Numbers and the number system",
+          "topicSlug": "numbers-and-the-number-system-edexcel-igcse-maths",
+          "resourceSlug": "edexcel-igcse-mathematics-number-practice",
+          "resourceTitle": "Edexcel IGCSE Mathematics: Numbers and the Number System — Practice Questions",
+          "questionCount": 7
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Numbers and the number system",
+          "topicSlug": "numbers-and-the-number-system-edexcel-igcse-maths",
+          "resourceSlug": "edexcel-igcse-maths-4ma1-applying-number-and-calculators-practice",
+          "resourceTitle": "Pearson Edexcel International GCSE Mathematics A 4MA1: Applying number and electronic calculators -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Numbers and the number system",
+          "topicSlug": "numbers-and-the-number-system-edexcel-igcse-maths",
+          "resourceSlug": "edexcel-igcse-maths-4ma1-degree-of-accuracy-and-standard-form-practice",
+          "resourceTitle": "Edexcel International GCSE Mathematics A 4MA1: Degree of accuracy and standard form -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Equations, formulae and identities",
+          "topicSlug": "equations-formulae-and-identities-edexcel-igcse-maths",
+          "resourceSlug": "edexcel-igcse-maths-4ma1-expressions-formulae-and-linear-equations-practice",
+          "resourceTitle": "Edexcel International GCSE Mathematics A 4MA1: Expressions, formulae and linear equations -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Numbers and the number system",
+          "topicSlug": "numbers-and-the-number-system-edexcel-igcse-maths",
+          "resourceSlug": "edexcel-igcse-maths-4ma1-fractions-and-decimals-practice",
+          "resourceTitle": "Edexcel International GCSE Mathematics A 4MA1: Fractions and decimals -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Geometry and trigonometry",
+          "topicSlug": "geometry-and-trigonometry-edexcel-igcse-maths",
+          "resourceSlug": "edexcel-igcse-maths-4ma1-geometry-and-trigonometry-practice",
+          "resourceTitle": "Edexcel International GCSE Mathematics A 4MA1: Geometry and trigonometry -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Equations, formulae and identities",
+          "topicSlug": "equations-formulae-and-identities-edexcel-igcse-maths",
+          "resourceSlug": "edexcel-igcse-maths-4ma1-inequalities-practice",
+          "resourceTitle": "Edexcel International GCSE Mathematics A 4MA1: Inequalities -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Numbers and the number system",
+          "topicSlug": "numbers-and-the-number-system-edexcel-igcse-maths",
+          "resourceSlug": "edexcel-igcse-maths-4ma1-integers-powers-and-roots-practice",
+          "resourceTitle": "Pearson Edexcel International GCSE Mathematics A 4MA1: Integers, powers and roots -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Numbers and the number system",
+          "topicSlug": "numbers-and-the-number-system-edexcel-igcse-maths",
+          "resourceSlug": "edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion-practice",
+          "resourceTitle": "Pearson Edexcel International GCSE Mathematics A 4MA1: Percentages, ratio and proportion -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Equations, formulae and identities",
+          "topicSlug": "equations-formulae-and-identities-edexcel-igcse-maths",
+          "resourceSlug": "edexcel-igcse-maths-4ma1-proportion-practice",
+          "resourceTitle": "Edexcel International GCSE Mathematics A 4MA1: Proportion -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Equations, formulae and identities",
+          "topicSlug": "equations-formulae-and-identities-edexcel-igcse-maths",
+          "resourceSlug": "edexcel-igcse-maths-4ma1-quadratic-equations-practice",
+          "resourceTitle": "Pearson Edexcel International GCSE Mathematics A 4MA1: Quadratic equations -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Sequences, functions and graphs",
+          "topicSlug": "sequences-functions-and-graphs-edexcel-igcse-maths",
+          "resourceSlug": "edexcel-igcse-maths-4ma1-sequences-functions-and-graphs-practice",
+          "resourceTitle": "Edexcel International GCSE Mathematics A 4MA1: Sequences, functions and graphs -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Numbers and the number system",
+          "topicSlug": "numbers-and-the-number-system-edexcel-igcse-maths",
+          "resourceSlug": "edexcel-igcse-maths-4ma1-set-language-and-notation-practice",
+          "resourceTitle": "Pearson Edexcel International GCSE Mathematics A 4MA1: Set language and notation -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Equations, formulae and identities",
+          "topicSlug": "equations-formulae-and-identities-edexcel-igcse-maths",
+          "resourceSlug": "edexcel-igcse-maths-4ma1-simultaneous-linear-equations-practice",
+          "resourceTitle": "Edexcel International GCSE Mathematics A 4MA1: Simultaneous linear equations -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "Statistics and probability",
+          "topicSlug": "statistics-and-probability-edexcel-igcse-maths",
+          "resourceSlug": "edexcel-igcse-maths-4ma1-statistics-and-probability-practice",
+          "resourceTitle": "Pearson Edexcel International GCSE Mathematics A 4MA1: Statistics and probability -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Equations, formulae and identities",
+          "topicSlug": "equations-formulae-and-identities-edexcel-igcse-maths",
+          "resourceSlug": "edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation-practice",
+          "resourceTitle": "Edexcel International GCSE Mathematics A 4MA1: Use of symbols and algebraic manipulation -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "Vectors and transformation geometry",
+          "topicSlug": "vectors-and-transformation-geometry-edexcel-igcse-maths",
+          "resourceSlug": "edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry-practice",
+          "resourceTitle": "Pearson Edexcel International GCSE Mathematics A 4MA1: Vectors and transformation geometry -- Practice Questions",
+          "questionCount": 11
+        }
+      ]
+    },
+    {
+      "code": "8461",
+      "boardSlug": "aqa",
+      "qualificationSlug": "gcse",
+      "subjectSlug": "biology",
+      "syllabusSeries": "For first teaching 2016",
+      "totalQuestions": 159,
+      "totalSubtopics": 31,
+      "coveredSubtopics": 31,
+      "coveragePct": 100,
+      "gaps": [],
+      "thin": [],
+      "topicsWithoutTaxonomy": [
+        {
+          "topicNumber": 8,
+          "topicName": "Key ideas",
+          "topicSlug": "key-ideas-aqa-gcse-biology"
+        }
+      ],
+      "topicOnlyTagged": [
+        {
+          "topicNumber": 4,
+          "topicName": "Bioenergetics",
+          "topicSlug": "bioenergetics-aqa-gcse-biology",
+          "resourceSlug": "aqa-gcse-biology-8461-bioenergetics-practice",
+          "resourceTitle": "AQA GCSE Biology 8461: Bioenergetics -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Cell biology",
+          "topicSlug": "cell-biology-aqa-gcse-biology",
+          "resourceSlug": "aqa-gcse-biology-8461-cell-division-practice",
+          "resourceTitle": "AQA GCSE Biology 8461: Cell division -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Cell biology",
+          "topicSlug": "cell-biology-aqa-gcse-biology",
+          "resourceSlug": "aqa-gcse-biology-8461-cell-structure-practice",
+          "resourceTitle": "AQA GCSE Biology 8461: Cell structure -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 7,
+          "topicName": "Ecology",
+          "topicSlug": "ecology-aqa-gcse-biology",
+          "resourceSlug": "aqa-gcse-biology-8461-ecology-practice",
+          "resourceTitle": "AQA GCSE Biology 8461: Ecology -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Organisation",
+          "topicSlug": "organisation-aqa-gcse-biology",
+          "resourceSlug": "aqa-gcse-biology-8461-health-lifestyle-and-cancer-practice",
+          "resourceTitle": "AQA GCSE Biology 8461: Health issues, lifestyle and cancer -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "Homeostasis and response",
+          "topicSlug": "homeostasis-and-response-aqa-gcse-biology",
+          "resourceSlug": "aqa-gcse-biology-8461-homeostasis-and-response-practice",
+          "resourceTitle": "AQA GCSE Biology 8461: Homeostasis and response -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Infection and response",
+          "topicSlug": "infection-and-response-aqa-gcse-biology",
+          "resourceSlug": "aqa-gcse-biology-8461-infection-and-response-practice",
+          "resourceTitle": "AQA GCSE Biology 8461: Infection and response -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "Inheritance, variation and evolution",
+          "topicSlug": "inheritance-variation-and-evolution-aqa-gcse-biology",
+          "resourceSlug": "aqa-gcse-biology-8461-inheritance-variation-and-evolution-practice",
+          "resourceTitle": "AQA GCSE Biology 8461: Inheritance, variation and evolution -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 8,
+          "topicName": "Key ideas",
+          "topicSlug": "key-ideas-aqa-gcse-biology",
+          "resourceSlug": "aqa-gcse-biology-8461-key-ideas-practice",
+          "resourceTitle": "AQA GCSE Biology 8461: Key ideas -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Organisation",
+          "topicSlug": "organisation-aqa-gcse-biology",
+          "resourceSlug": "aqa-gcse-biology-8461-plant-tissues-and-organ-system-practice",
+          "resourceTitle": "AQA GCSE Biology 8461: Plant tissues and the plant organ system -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Organisation",
+          "topicSlug": "organisation-aqa-gcse-biology",
+          "resourceSlug": "aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels-practice",
+          "resourceTitle": "AQA GCSE Biology 8461: Principles of organisation; the heart and blood vessels -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Cell biology",
+          "topicSlug": "cell-biology-aqa-gcse-biology",
+          "resourceSlug": "aqa-gcse-biology-8461-transport-in-cells-practice",
+          "resourceTitle": "AQA GCSE Biology 8461: Transport in cells -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Cell biology",
+          "topicSlug": "cell-biology-aqa-gcse-biology",
+          "resourceSlug": "aqa-gcse-biology-cell-biology-practice",
+          "resourceTitle": "AQA GCSE Biology: Cell Biology — Practice Questions",
+          "questionCount": 8
+        }
+      ]
+    },
+    {
+      "code": "8462",
+      "boardSlug": "aqa",
+      "qualificationSlug": "gcse",
+      "subjectSlug": "chemistry",
+      "syllabusSeries": "For teaching from September 2016",
+      "totalQuestions": 180,
+      "totalSubtopics": 8,
+      "coveredSubtopics": 8,
+      "coveragePct": 100,
+      "gaps": [],
+      "thin": [],
+      "topicsWithoutTaxonomy": [
+        {
+          "topicNumber": 3,
+          "topicName": "Quantitative chemistry",
+          "topicSlug": "quantitative-chemistry-8462"
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Chemical changes",
+          "topicSlug": "chemical-changes-8462"
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "Energy changes",
+          "topicSlug": "energy-changes-8462"
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "The rate and extent of chemical change",
+          "topicSlug": "the-rate-and-extent-of-chemical-change-8462"
+        },
+        {
+          "topicNumber": 7,
+          "topicName": "Organic chemistry",
+          "topicSlug": "organic-chemistry-8462"
+        },
+        {
+          "topicNumber": 8,
+          "topicName": "Chemical analysis",
+          "topicSlug": "chemical-analysis-8462"
+        },
+        {
+          "topicNumber": 9,
+          "topicName": "Chemistry of the atmosphere",
+          "topicSlug": "chemistry-of-the-atmosphere-8462"
+        },
+        {
+          "topicNumber": 10,
+          "topicName": "Using resources",
+          "topicSlug": "using-resources-8462"
+        },
+        {
+          "topicNumber": 11,
+          "topicName": "Key ideas",
+          "topicSlug": "key-ideas-8462"
+        }
+      ],
+      "topicOnlyTagged": [
+        {
+          "topicNumber": 1,
+          "topicName": "Atomic structure and the periodic table",
+          "topicSlug": "atomic-structure-and-the-periodic-table-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-atomic-structure-practice",
+          "resourceTitle": "AQA GCSE Chemistry 8462: A simple model of the atom, symbols, relative atomic mass, electronic charge and isotopes -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 8,
+          "topicName": "Chemical analysis",
+          "topicSlug": "chemical-analysis-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-chemical-analysis-practice",
+          "resourceTitle": "AQA GCSE Chemistry 8462: Chemical analysis -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds-practice",
+          "resourceTitle": "AQA GCSE Chemistry 8462: Chemical bonds and ionic compounds -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Chemical changes",
+          "topicSlug": "chemical-changes-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-chemical-changes-practice",
+          "resourceTitle": "AQA GCSE Chemistry 8462: Chemical changes -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 9,
+          "topicName": "Chemistry of the atmosphere",
+          "topicSlug": "chemistry-of-the-atmosphere-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere-practice",
+          "resourceTitle": "AQA GCSE Chemistry 8462: Chemistry of the atmosphere -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-covalent-and-metallic-bonding-practice",
+          "resourceTitle": "AQA GCSE Chemistry 8462: Covalent bonding and metallic bonding -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "Energy changes",
+          "topicSlug": "energy-changes-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-energy-changes-practice",
+          "resourceTitle": "AQA GCSE Chemistry 8462: Energy changes -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 11,
+          "topicName": "Key ideas",
+          "topicSlug": "key-ideas-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-key-ideas-practice",
+          "resourceTitle": "AQA GCSE Chemistry 8462: Key ideas -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 7,
+          "topicName": "Organic chemistry",
+          "topicSlug": "organic-chemistry-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-organic-chemistry-practice",
+          "resourceTitle": "AQA GCSE Chemistry 8462: Organic chemistry -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Atomic structure and the periodic table",
+          "topicSlug": "atomic-structure-and-the-periodic-table-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-properties-of-transition-metals-practice",
+          "resourceTitle": "AQA GCSE Chemistry 8462: Properties of transition metals -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Quantitative chemistry",
+          "topicSlug": "quantitative-chemistry-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-quantitative-chemistry-practice",
+          "resourceTitle": "AQA GCSE Chemistry 8462: Quantitative chemistry -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Atomic structure and the periodic table",
+          "topicSlug": "atomic-structure-and-the-periodic-table-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-the-periodic-table-practice",
+          "resourceTitle": "AQA GCSE Chemistry 8462: The periodic table -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "The rate and extent of chemical change",
+          "topicSlug": "the-rate-and-extent-of-chemical-change-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-the-rate-and-extent-of-chemical-change-practice",
+          "resourceTitle": "AQA GCSE Chemistry 8462: The rate and extent of chemical change -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 10,
+          "topicName": "Using resources",
+          "topicSlug": "using-resources-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-using-resources-practice",
+          "resourceTitle": "AQA GCSE Chemistry 8462: Using resources -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Atomic structure and the periodic table",
+          "topicSlug": "atomic-structure-and-the-periodic-table-8462",
+          "resourceSlug": "aqa-gcse-chemistry-atomic-structure-practice",
+          "resourceTitle": "AQA GCSE Chemistry: Atomic Structure and the Periodic Table — Practice Questions",
+          "questionCount": 10
+        }
+      ]
+    },
+    {
+      "code": "8463",
+      "boardSlug": "aqa",
+      "qualificationSlug": "gcse",
+      "subjectSlug": "physics",
+      "syllabusSeries": "For first teaching 2016",
+      "totalQuestions": 108,
+      "totalSubtopics": 30,
+      "coveredSubtopics": 30,
+      "coveragePct": 100,
+      "gaps": [],
+      "thin": [],
+      "topicsWithoutTaxonomy": [],
+      "topicOnlyTagged": [
+        {
+          "topicNumber": 4,
+          "topicName": "Atomic structure",
+          "topicSlug": "atomic-structure-aqa-gcse",
+          "resourceSlug": "aqa-gcse-physics-8463-atomic-structure-practice",
+          "resourceTitle": "AQA GCSE Physics 8463: Atomic structure -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Electricity",
+          "topicSlug": "electricity-aqa-gcse",
+          "resourceSlug": "aqa-gcse-physics-8463-electricity-practice",
+          "resourceTitle": "AQA GCSE Physics 8463: Electricity -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "Forces",
+          "topicSlug": "forces-aqa-gcse",
+          "resourceSlug": "aqa-gcse-physics-8463-forces-practice",
+          "resourceTitle": "AQA GCSE Physics 8463: Forces -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 7,
+          "topicName": "Magnetism and electromagnetism",
+          "topicSlug": "magnetism-and-electromagnetism-aqa-gcse",
+          "resourceSlug": "aqa-gcse-physics-8463-magnetism-and-electromagnetism-practice",
+          "resourceTitle": "AQA GCSE Physics 8463: Magnetism and electromagnetism -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Particle model of matter",
+          "topicSlug": "particle-model-of-matter-aqa-gcse",
+          "resourceSlug": "aqa-gcse-physics-8463-particle-model-of-matter-practice",
+          "resourceTitle": "AQA GCSE Physics 8463: Particle model of matter -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 8,
+          "topicName": "Space physics",
+          "topicSlug": "space-physics-aqa-gcse",
+          "resourceSlug": "aqa-gcse-physics-8463-space-physics-practice",
+          "resourceTitle": "AQA GCSE Physics 8463: Space physics -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "Waves",
+          "topicSlug": "waves-aqa-gcse",
+          "resourceSlug": "aqa-gcse-physics-8463-waves-practice",
+          "resourceTitle": "AQA GCSE Physics 8463: Waves -- Practice Questions",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "code": "8300",
+      "boardSlug": "aqa",
+      "qualificationSlug": "gcse",
+      "subjectSlug": "mathematics",
+      "syllabusSeries": "For first teaching 2015",
+      "totalQuestions": 150,
+      "totalSubtopics": 7,
+      "coveredSubtopics": 7,
+      "coveragePct": 100,
+      "gaps": [],
+      "thin": [],
+      "topicsWithoutTaxonomy": [
+        {
+          "topicNumber": 3,
+          "topicName": "Ratio, proportion and rates of change",
+          "topicSlug": "ratio-proportion-and-rates-of-change-aqa-gcse"
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Geometry and measures",
+          "topicSlug": "geometry-and-measures-aqa-gcse-maths"
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "Probability",
+          "topicSlug": "probability-aqa-gcse-maths"
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "Statistics",
+          "topicSlug": "statistics-aqa-gcse-maths"
+        }
+      ],
+      "topicOnlyTagged": [
+        {
+          "topicNumber": 2,
+          "topicName": "Algebra",
+          "topicSlug": "algebra-aqa-gcse-maths",
+          "resourceSlug": "aqa-gcse-mathematics-algebra-practice",
+          "resourceTitle": "AQA GCSE Mathematics: Algebra — Practice Questions",
+          "questionCount": 13
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number-aqa-gcse-maths",
+          "resourceSlug": "aqa-gcse-mathematics-number-practice",
+          "resourceTitle": "AQA GCSE Mathematics: Number — Practice Questions",
+          "questionCount": 7
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number-aqa-gcse-maths",
+          "resourceSlug": "aqa-gcse-maths-8300-fractions-decimals-and-percentages-practice",
+          "resourceTitle": "AQA GCSE Mathematics 8300: Fractions, decimals and percentages -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Geometry and measures",
+          "topicSlug": "geometry-and-measures-aqa-gcse-maths",
+          "resourceSlug": "aqa-gcse-maths-8300-geometry-and-measures-practice",
+          "resourceTitle": "AQA GCSE Mathematics 8300: Geometry and measures -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Algebra",
+          "topicSlug": "algebra-aqa-gcse-maths",
+          "resourceSlug": "aqa-gcse-maths-8300-graphs-practice",
+          "resourceTitle": "AQA GCSE Mathematics 8300: Graphs -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number-aqa-gcse-maths",
+          "resourceSlug": "aqa-gcse-maths-8300-measures-and-accuracy-practice",
+          "resourceTitle": "AQA GCSE Mathematics 8300: Measures and accuracy -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Algebra",
+          "topicSlug": "algebra-aqa-gcse-maths",
+          "resourceSlug": "aqa-gcse-maths-8300-notation-vocabulary-and-manipulation-practice",
+          "resourceTitle": "AQA GCSE Mathematics 8300: Notation, vocabulary and manipulation -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "Probability",
+          "topicSlug": "probability-aqa-gcse-maths",
+          "resourceSlug": "aqa-gcse-maths-8300-probability-practice",
+          "resourceTitle": "AQA GCSE Mathematics 8300: Probability -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Ratio, proportion and rates of change",
+          "topicSlug": "ratio-proportion-and-rates-of-change-aqa-gcse",
+          "resourceSlug": "aqa-gcse-maths-8300-ratio-proportion-and-rates-of-change-practice",
+          "resourceTitle": "AQA GCSE Mathematics 8300: Ratio, proportion and rates of change -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Algebra",
+          "topicSlug": "algebra-aqa-gcse-maths",
+          "resourceSlug": "aqa-gcse-maths-8300-sequences-practice",
+          "resourceTitle": "AQA GCSE Mathematics 8300: Sequences -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Algebra",
+          "topicSlug": "algebra-aqa-gcse-maths",
+          "resourceSlug": "aqa-gcse-maths-8300-solving-equations-and-inequalities-practice",
+          "resourceTitle": "AQA GCSE Mathematics 8300: Solving equations and inequalities -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "Statistics",
+          "topicSlug": "statistics-aqa-gcse-maths",
+          "resourceSlug": "aqa-gcse-maths-8300-statistics-practice",
+          "resourceTitle": "AQA GCSE Mathematics 8300: Statistics -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number-aqa-gcse-maths",
+          "resourceSlug": "aqa-gcse-maths-8300-structure-and-calculation-practice",
+          "resourceTitle": "AQA GCSE Mathematics 8300: Structure and calculation -- Practice Questions",
+          "questionCount": 12
+        }
+      ]
     }
   ]
 }

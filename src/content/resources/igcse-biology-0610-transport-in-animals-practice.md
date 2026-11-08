@@ -27,11 +27,11 @@ syllabusTopics:
     subtopic: "blood-cambridge-igcse-biology"
 description: "Twelve original questions with mark-by-mark answers on circulation, the heart, blood vessels and blood, Core and Extended, for Cambridge IGCSE Biology."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -181,6 +181,20 @@ Before you start, read the [transport in animals study guide](/resources/igcse-b
 - Take the [0610 Core diagnostic](/practice/0610/diagnostic/core/) or [0610 Extended diagnostic](/practice/0610/diagnostic/extended/).
 - Browse the [Cambridge IGCSE Biology hub](/boards/cambridge/igcse/biology/) and tick off the [printable checklist](/checklists/cambridge/igcse/biology/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Which sections of transport in animals are tested in Cambridge IGCSE Biology 0610?**
+Topic 9 has four sections: 9.1 Circulatory systems, 9.2 Heart, 9.3 Blood vessels and 9.4 Blood. Parts marked Extended test Supplement content for Papers 2 and 4; everything else is Core.
+
+**How do you convert a pulse count to beats per minute?**
+Scale the count up to 60 seconds by multiplying it by 60 divided by the counting time; for example, a 20-second count is multiplied by 3. Forgetting this conversion is a common way to lose marks.
+
+**Should you define an artery by the oxygen it carries?**
+No. Arteries are defined by the direction of blood flow, carrying blood away from the heart. The pulmonary artery, for example, carries deoxygenated blood.
+
+**How should you compare two blood vessels in an exam answer?**
+Give matched differences that say something about both vessels, such as "arteries have thicker walls than veins". One-sided statements such as "veins have valves" do not make a comparison.
 
 ## Official syllabus
 

@@ -131,6 +131,20 @@ These questions cover statements 6.5 to 6.9 of the Pearson Edexcel International
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which Edexcel statements do these questions cover?**
+They cover statements 6.5 to 6.9 of Pearson Edexcel International A Level Biology (YBI11): bacteria, viruses, TB, HIV, barriers, non-specific defences and antibodies.
+
+**How should you answer a "compare" question?**
+Compare the two items in a single statement, for example by naming what each has. Separate descriptions do not count as a comparison.
+
+**What units cause problems in microscope calculations?**
+Converting between millimetres, micrometres and nanometres. Check every unit before dividing.
+
+**Should you say antibodies "kill" pathogens?**
+No. Name a precise action, such as agglutination or neutralising toxins, rather than saying antibodies kill.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification Issue 2, published by Pearson Education Limited, Topic 6, statements 6.5 to 6.9.

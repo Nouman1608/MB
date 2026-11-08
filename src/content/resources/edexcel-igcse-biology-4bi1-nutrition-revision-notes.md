@@ -338,6 +338,23 @@ Order: mouth → oesophagus → stomach → duodenum → ileum → colon → rec
 - Describing villi as only "having a large surface area" when the question asks for three adaptations.
 - In 2.33B, forgetting to divide by the mass of food, or mixing up J and kJ.
 
+## Frequently asked questions
+
+**How do you identify a limiting factor from a graph?**
+If the line is still rising, the factor on the x-axis is limiting. If the line is flat, another factor is limiting.
+
+**How do you test a leaf for starch?**
+Boil the leaf in water to kill it, put it in hot ethanol with the flame off to remove chlorophyll, soften it in warm water, then add iodine. Blue-black shows starch.
+
+**What are magnesium and nitrate ions used for in plants?**
+Magnesium ions are needed to make chlorophyll; nitrate ions are needed to make amino acids for proteins.
+
+**What does bile do?**
+Bile is made in the liver and stored in the gall bladder. It is alkaline, so it neutralises stomach acid, and it emulsifies lipids into small droplets. It is not an enzyme.
+
+**What affects a person's energy requirement?**
+Energy requirements are higher with more activity, vary with age, being high for body size while growing, and rise in pregnancy.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1), Specification, Issue 3, September 2024, published by Pearson Education Limited. Topic 2: Structures and functions in living organisms, sub-topic (e) Nutrition, statements 2.18–2.33B.

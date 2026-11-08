@@ -176,6 +176,20 @@ State which meter measures the current through the lamp. **[1]**
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - Ask about a [free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in charge and current calculations?**
+Leaving time in minutes or hours in Q = It, and mixing up the units C and A. Time must be in seconds, charge in coulombs and current in amperes.
+
+**Are these OxfordAQA International GCSE Physics past paper questions?**
+No. They are original practice questions written for revision on this topic of OxfordAQA International GCSE Physics (9203). Use them alongside the official past papers from the board.
+
+**Is the OxfordAQA International GCSE Physics (9203) exam tiered?**
+No. The qualification is untiered, so all candidates study the same electrical circuits content in section 3.5.1.
+
+**Which units are used in V = E/Q?**
+Potential difference V is in volts, energy E in joules and charge Q in coulombs. One volt is one joule per coulomb.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), specification version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.5.1 Electrical circuits, statements a to g.

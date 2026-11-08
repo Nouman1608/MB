@@ -12,13 +12,13 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "reproduction-and-inheritance-edexcel-igcse-biology"
-description: "Condensed revision notes on sexual and asexual reproduction, DNA and the genome, monohybrid inheritance, mitosis and meiosis, variation and natural selection, for Topic 3 of Pearson Edexcel International GCSE Biology (4BI1)."
+description: "Revision notes on reproduction, DNA, monohybrid crosses, mitosis versus meiosis, variation and natural selection for Pearson Edexcel IGCSE Biology 4BI1 Topic 3."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Related: [Topic 3 study guide](/resources/igcse-edexcel-biology-reproduction-and-inheritance/).
@@ -262,6 +262,20 @@ a specific protein. 3. Because most phenotypic features actually arise from poly
 identical (diploid) cells, meiosis produces 4 genetically different haploid cells; mitosis occurs in
 growth/repair/cloning/asexual reproduction, meiosis occurs in gamete formation. 5. Usually no effect
 on phenotype, occasionally a small effect, rarely a significant one.
+
+## Frequently asked questions
+
+**What conditions does a seed need to germinate?**
+A seed needs water, oxygen and a suitable temperature. Water activates enzymes and lets the seed swell, oxygen is needed for aerobic respiration, and a suitable temperature lets enzymes work at a useful rate.
+
+**Are most characteristics controlled by a single gene?**
+No. The Edexcel IGCSE Biology (4BI1) specification stresses that most phenotypic features result from polygenic inheritance, where many genes act together, rather than a single gene.
+
+**Which Topic 3 content is only on Paper 2?**
+Paper 2 adds the roles of FSH and LH in the menstrual cycle, DNA and RNA structure, protein synthesis (transcription and translation), and how mutations change a protein's amino acid sequence.
+
+**How is sex determined in humans?**
+By one pair of sex chromosomes: females are XX and males are XY. Half of sperm carry a Y chromosome, so each child has a 50% chance of being a boy.
 
 ## Official syllabus
 

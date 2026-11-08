@@ -25,11 +25,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-5-11"
 description: "Condensed IB DP Maths AA revision notes on integration, definite integrals, areas between curves and kinematics, with a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 For full explanations and longer worked examples, start with the [integration and kinematics study guide](/resources/ib-dp-mathematics-aa-sl-integration-kinematics/). These notes are for the final weeks.
@@ -255,6 +255,19 @@ The guide splits this unit between hand methods and technology.
   <figcaption>Area between curves is the integral of top minus bottom between the intersection points.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between displacement and distance in kinematics?**
+Displacement is ∫ v dt and can be negative, because it is the change in position. Distance is ∫ |v| dt and is never negative, because it counts movement in either direction.
+
+**What is the integral of 1/x?**
+∫ (1/x) dx = ln x + C. It is the only power that gives a logarithm; the power rule xⁿ⁺¹/(n + 1) needs n ≠ −1.
+
+**How do you use a boundary condition in integration?**
+Integrate to get F(x) + C, then substitute the known point, such as y = 5 when x = 2, to find C. In kinematics, use a known value such as v(0) or s(0) to fix each constant.
+
+**Which integration skills must be done by hand in IB Maths AA?**
+In IB DP Mathematics: Analysis and Approaches, Paper 1 allows no technology, so the standard integrals, linear composites, the reverse chain rule, substitution and definite integrals by F(b) − F(a) must be done by hand. Paper 2 uses a GDC.
 
 ## Official syllabus
 

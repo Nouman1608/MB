@@ -18,11 +18,11 @@ syllabusTopics:
     subtopic: "equations"
 description: "Condensed recall notes on index laws, linear, simultaneous and quadratic equations, and changing the subject for Cambridge O Level Mathematics 4024."
 author: "muhammad-ghazali-siddiqui"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 Condensed for the final weeks. For worked examples, use the
@@ -174,3 +174,19 @@ For worked examples with full explanations, see the [Indices and Equations study
   <figcaption>Squaring adds a second branch, so the rearrangement is valid only when y + 2 &gt;= 0.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you solve an equation with the unknown in the power?**
+Rewrite both sides with the same base and then equate the indices. For example, 9^x = 27 becomes 3^(2x) = 3³, so 2x = 3 and x = 3/2.
+
+**What does a negative index mean?**
+A negative index means a reciprocal, so 2⁻³ = 1/8, not −8. Any non-zero number to the power 0 equals 1.
+
+**What does the discriminant tell you?**
+For ax² + bx + c = 0, if b² − 4ac is positive there are two roots, if it is zero there is one repeated root, and if it is negative there are no real roots.
+
+**Why must you check solutions to a fractional equation?**
+Any solution that makes an original denominator zero must be rejected, because the equation is undefined there.
+
+**Are logarithms needed for index equations in Cambridge O Level Maths 4024?**
+No. Index equations such as 32^x = 2 are solved by matching bases and equating indices, and logarithms are not needed.

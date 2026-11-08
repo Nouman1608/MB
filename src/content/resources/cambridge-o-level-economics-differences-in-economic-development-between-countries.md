@@ -244,6 +244,20 @@ Examiners ask for a judgement, not just a list. Build a chain, then weigh it.
 - Mixing up GDP growth with growth in income per head.
 - Stating a cause only. The syllabus asks for impacts too.
 
+## Frequently asked questions
+
+**What does section 5.4.1 of Cambridge O Level Economics 2281 ask for?**
+For each of seven areas (income, productivity, population growth, sector sizes, saving and investment, education and healthcare), you must explain what causes countries to differ and what impact the difference has.
+
+**How does low income keep a country poor?**
+Low income means people save little and the government collects little tax, so there is less investment and less spending on hospitals, schools and roads. Productivity stays low, which keeps income low.
+
+**Why does productivity differ between countries?**
+Differences come from capital per worker, technology, education and training, health, management and the mix of industries. Higher productivity lets firms pay higher wages and compete abroad.
+
+**How does healthcare affect economic development?**
+Healthy workers work more days, concentrate better and live longer, so skills are used for longer. Poor health lowers productivity and school attendance, raises spending on medicine and reduces saving.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International Education).

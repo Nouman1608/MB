@@ -251,6 +251,20 @@ Course pages: [IB DP Biology hub](/boards/ib/ib-dp/biology/), [printable checkli
 - Giving the ratio of energy density without the biological consequence.
 - Treating ABO antibodies as made against the person's own antigens.
 
+## Frequently asked questions
+
+**What is the difference between condensation and hydrolysis?**
+Condensation joins two molecules and releases a water molecule; hydrolysis breaks a bond by splitting a water molecule into -H and -OH, which are added to the two products.
+
+**What is the difference between starch, glycogen and cellulose?**
+Starch (plants) and glycogen (animals) are coiled, branched polymers of alpha-glucose used as energy stores, with glycogen more highly branched. Cellulose is made of beta-glucose in straight chains cross-linked by hydrogen bonds, giving plant cell walls strength.
+
+**How many peptide bonds are in a chain of n amino acids?**
+An unbranched chain of n monomers contains n − 1 bonds, so n − 1 water molecules are released when it is built and used when it is fully hydrolysed.
+
+**Why is fat the long-term energy store rather than glycogen?**
+Lipid stores about 37 kJ per gram compared with about 17 kJ per gram for carbohydrate (values given as data in IB DP Biology questions), and it is insoluble and stable, so it stores more energy in less mass without osmotic effects.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Topic B1.1, Carbohydrates and lipids.

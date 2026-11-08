@@ -214,6 +214,20 @@ Smallest n = **34** [1]. **[8]**
 - σ used in place of σ/√n for the sample mean.
 - Conclusions written as certainties, or with no context.
 
+## Frequently asked questions
+
+**What is a p-value in a hypothesis test?**
+A p-value is the probability, assuming the null hypothesis is true, of a result at least as extreme as the one observed. If it is less than the significance level, you reject the null hypothesis.
+
+**Why must hypotheses use p, μ or ρ rather than sample values?**
+Hypotheses are statements about the population parameter, not the sample result. Writing them with r, x̄ or a sample proportion, or without defining the parameter, loses marks.
+
+**How do you handle a two-tailed test at the 5% level?**
+Split the significance level equally, so each tail is compared with 2.5%. Comparing each tail with the full 5% is a common mistake.
+
+**How should you write the conclusion of a hypothesis test?**
+Compare with the significance level, then conclude in context using non-definite language, such as there is sufficient evidence to suggest the proportion has decreased. Never claim the test proves a result.
+
 ## Next steps
 
 - [Hypothesis testing revision notes](/resources/aqa-a-level-mathematics-statistical-hypothesis-testing-revision-notes/)

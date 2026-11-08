@@ -164,6 +164,20 @@ Revise first with the [study guide](/resources/ib-dp-physics-first-law-of-thermo
 - Take the [free 10-minute diagnostics](/diagnostics/) to find your weakest topics.
 - Book a [free trial class](/trial/) for help with thermodynamics.
 
+## Frequently asked questions
+
+**Are these IB DP Physics first law questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Are these gas process questions for SL or HL?**
+Every question is HL only, because all of B.4 is additional higher level. Entropy, the second law and heat engines are practised in a separate unit.
+
+**What data and assumptions do these questions use?**
+Use R = 8.31 J mol⁻¹ K⁻¹ where needed, and treat all gases as monatomic ideal gases.
+
+**What unit slips lose marks in first law questions?**
+Common slips are mixing kJ with J, or cm³ and litres with m³, and using Celsius temperatures in an equation that needs T in kelvin.
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. Topic B.4 (Thermodynamics) is additional higher level only.

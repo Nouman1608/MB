@@ -216,6 +216,23 @@ Pure aspirin melts sharply at about 135–136 °C. A lower, broad range shows im
 - Controls that do not answer the stated hazard.
 - A recrystallisation description with no "minimum volume of hot solvent".
 
+## Frequently asked questions
+
+**Which alcohol does a Grignard reagent give with each carbonyl compound?**
+Methanal gives a primary alcohol, any other aldehyde gives a secondary alcohol and a ketone gives a tertiary alcohol. With carbon dioxide a Grignard reagent gives a carboxylic acid.
+
+**Why must apparatus be dry for a Grignard reaction?**
+Water reacts with the Grignard reagent to give an alkane, destroying it. All apparatus and the ether solvent must therefore be dry.
+
+**What is the difference between reflux and distillation?**
+Reflux heats a mixture with a vertical condenser so vapour returns to the flask and nothing is lost. Distillation removes the volatile part of the mixture and collects it.
+
+**When is steam distillation used?**
+Steam distillation purifies a volatile compound that does not mix with water and would decompose near its own boiling temperature. The compound distils with the water below 100 °C.
+
+**What is Core Practical 16 in Edexcel IAL Chemistry?**
+Core Practical 16 in the Edexcel IAL Chemistry specification (YCH11) is the preparation of aspirin from 2-hydroxybenzoic acid and ethanoic anhydride. The product is collected, recrystallised and checked by its melting temperature.
+
 ## Official syllabus
 
 Source: Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry, specification XCH11/YCH11, Issue 1, September 2017 (Pearson Education Limited). These notes cover Topic 20: Organic Synthesis, outcomes 20.1 to 20.5, including Core Practical 16, in Unit 5.

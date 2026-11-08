@@ -22,11 +22,11 @@ syllabusTopics:
     subtopic: "antibodies-and-vaccination-cambridge-alevel-biology"
 description: "Condensed 9700 AS Biology notes on the immune response, memory cells, antibody structure, monoclonal antibodies and vaccination, with a self-test."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 For full explanations and a worked data example, use the [immunity study guide](/resources/a-level-biology-9700-immunity/). These notes condense topic 11 of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027: section 11.1 The immune system (outcomes 1–4) and section 11.2 Antibodies and vaccination (outcomes 1–6). It is AS Level content, examined on Papers 1 and 2, and Paper 4 can draw on it too. Every outcome applies to all candidates.
@@ -228,6 +228,23 @@ Why fuse? Plasma cells make the antibody but cannot divide; myeloma cells divide
 - Saying a vaccine contains antibodies or "a small dose of the disease" instead of **antigens**.
 - Confusing natural passive (across the placenta) with artificial passive (antibody injection).
 - Explaining herd immunity as "everyone is vaccinated"; it works because **enough** people are immune that transmission breaks down.
+
+## Frequently asked questions
+
+**Which cells produce antibodies?**
+Only plasma cells, which form from B-lymphocytes, secrete antibodies. T-helper and T-killer cells do not produce antibodies.
+
+**What gives long-term immunity after an infection or vaccine?**
+Memory cells, which are long-lived and recognise the antigen quickly if it enters again. Antibodies themselves do not stay in the blood for years.
+
+**Why are B-lymphocytes fused with myeloma cells to make monoclonal antibodies?**
+Plasma cells make the required antibody but cannot divide, while myeloma cells divide indefinitely. The fused hybridoma cell does both.
+
+**What is the difference between active and passive immunity?**
+Active immunity is made by your own immune system and produces memory cells. Passive immunity comes from antibodies given to you, such as across the placenta or by injection, and gives no memory.
+
+**What does a vaccine contain?**
+A vaccine contains antigens, for example in live attenuated or killed pathogens, toxoids or isolated antigen molecules. It does not contain antibodies.
 
 ## Official syllabus
 

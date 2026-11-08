@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T16:57:56.120Z",
+  "generated": "2026-11-08T14:12:38.613Z",
   "libraryPublic": true,
   "framework": {
     "schoolYear": "2026-27",
@@ -1171,7 +1171,7 @@
       ],
       "learningObjectives": [
         "Explain why most lipids are nonpolar and hydrophobic, and how their parts are put together",
-        "Tell saturated and unsaturated fatty acids apart and link the number of double bonds to kinks, packing and whether a fat is solid or liquid",
+        "Tell saturated and unsaturated fatty acids apart and explain how cis double bonds, tail packing and fatty-acid mixture affect whether a fat is solid or liquid",
         "Describe the jobs of fats, phospholipids, steroids and cholesterol in living things",
         "Explain why phospholipids arrange themselves into a bilayer in water",
         "Predict what happens to a cell or organism when the lipids it makes or contains are changed"
@@ -1203,8 +1203,7 @@
       ],
       "keyPoints": [
         "Lipids are mostly carbon and hydrogen joined by nonpolar C–H bonds, so most lipids are hydrophobic. They are not polymers of repeating monomers.",
-        "A saturated fatty acid has only C–C single bonds and a straight tail. An unsaturated one has at least one C=C double bond, which kinks the tail.",
-        "More double bonds mean more kinks, looser packing and a fat that is more liquid at room temperature.",
+        "Cis C=C bonds bend many unsaturated fatty-acid tails; trans double bonds do not make the same pronounced kink. Tail packing and the fatty-acid mixture affect melting behaviour.",
         "Fats store energy (about twice as much per gram as carbohydrate) and can insulate. Phospholipids form membrane bilayers. Steroids act as hormones. Cholesterol stabilises animal cell membranes.",
         "Structure explains function: change the lipid and you change what it can do."
       ],
@@ -1226,7 +1225,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/1-5-lipids-study-guide/",
-      "words": 3372,
+      "words": 3379,
       "sourceFile": "src/content/ap-resources/biology/1-5-lipids-study-guide.md"
     },
     {
@@ -1692,9 +1691,9 @@
       ],
       "keyPoints": [
         "A protein is one or more linear chains of amino acids joined by covalent peptide bonds. Each bond forms between a carboxyl group and the next amine group, and releases one water molecule.",
-        "Every amino acid has the same core (central carbon, H, amine group, carboxyl group) plus a variable R group that is nonpolar, polar or ionic.",
+        "Most standard protein-building amino acids share an alpha-carbon framework with H, amino, carboxyl and R groups; proline is cyclic at the amino nitrogen, and modified residues also occur in proteins.",
         "Primary structure is the sequence. Secondary structure (α-helices, β-pleated sheets) comes from hydrogen bonds between backbone atoms.",
-        "Tertiary structure comes from R-group interactions: hydrogen bonds, hydrophobic interactions, ionic interactions and disulfide bridges. Quaternary structure is two or more chains fitting together.",
+        "Tertiary structure can be stabilized by R-group interactions, including hydrogen bonds, hydrophobic effects, ionic interactions and, when cysteines form them, disulfide bonds. Quaternary structure is two or more chains fitting together.",
         "The sequence decides the shape, and the shape decides the function. One changed amino acid can be enough to change both."
       ],
       "faqs": [
@@ -1715,7 +1714,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/1-7-proteins-study-guide/",
-      "words": 3938,
+      "words": 3969,
       "sourceFile": "src/content/ap-resources/biology/1-7-proteins-study-guide.md"
     },
     {
@@ -2201,7 +2200,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/2-10-origins-cell-compartmentalization-study-guide/",
-      "words": 2337,
+      "words": 2540,
       "sourceFile": "src/content/ap-resources/biology/2-10-origins-cell-compartmentalization-study-guide.md"
     },
     {
@@ -2390,7 +2389,7 @@
         "Calculate surface area, volume and surface area-to-volume ratio for cubes, spheres, rectangular solids and cylinders",
         "Explain why a cell's exchange with its surroundings depends on surface area but its needs depend on volume",
         "Explain how small size, flattened or long shapes and membrane folds such as microvilli raise the ratio",
-        "Relate body size to the rate of heat exchange and to metabolic rate per unit body mass",
+        "Relate surface-area-to-volume ratio to heat exchange, and compare typical metabolic rate per unit mass in mammals of different sizes",
         "Use a supply-and-demand model to find the largest size a cell can reach"
       ],
       "skills": [
@@ -2420,7 +2419,7 @@
         "Materials enter and leave a cell through its surface, but every part of its volume uses them. So the surface area-to-volume ratio (SA/V) controls how well a cell can keep up.",
         "As a cell grows, volume rises faster than surface area, so SA/V falls. For a cube SA/V = 6/s; for a sphere SA/V = 3/r.",
         "Cells stay small, take flat or long shapes, or fold their membranes (microvilli, root hairs, cristae) to keep exchange fast enough.",
-        "Larger organisms have a lower SA/V, so they exchange heat with the environment more slowly in proportion to their mass. Smaller organisms usually have a higher metabolic rate per unit body mass."
+        "For similarly shaped organisms, larger size lowers SA/V. Among mammals, smaller species typically have a higher metabolic rate per unit mass, in part because they lose heat faster relative to their mass; this is not a universal rule for all organisms."
       ],
       "faqs": [
         {
@@ -2440,7 +2439,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/2-2-cell-size-study-guide/",
-      "words": 2389,
+      "words": 2409,
       "sourceFile": "src/content/ap-resources/biology/2-2-cell-size-study-guide.md"
     },
     {
@@ -2683,7 +2682,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/2-3-plasma-membrane-study-guide/",
-      "words": 4271,
+      "words": 4304,
       "sourceFile": "src/content/ap-resources/biology/2-3-plasma-membrane-study-guide.md"
     },
     {
@@ -2873,7 +2872,7 @@
       "learningObjectives": [
         "Explain how the hydrophobic interior of a membrane makes it selectively permeable",
         "Predict whether a substance crosses the bilayer freely, in small amounts or only through proteins, from its size, polarity and charge",
-        "Describe how cell walls of bacteria, archaea, fungi and plants give structure, act as a barrier to some substances and prevent osmotic lysis",
+        "Describe how cell walls, where present in bacteria, archaea, fungi and plants, provide structure, act as a porous barrier and resist osmotic swelling",
         "Calculate a standard error and use mean ± 2 SE to decide whether to reject a null hypothesis"
       ],
       "skills": [
@@ -2903,7 +2902,7 @@
       "keyPoints": [
         "A membrane is selectively permeable because its interior is hydrophobic: the fatty acid tails block ions and polar molecules.",
         "Small nonpolar molecules (N₂, O₂, CO₂) cross freely. Small polar, uncharged molecules (H₂O, NH₃) cross in small amounts. Ions and large polar molecules need channel or transport proteins.",
-        "Cell walls in bacteria, archaea, fungi and plants give shape, block some substances and stop the cell bursting when water rushes in (osmotic lysis).",
+        "Where present, cell walls give cells shape, act as porous barriers and resist osmotic swelling; some organisms and cell types lack a wall.",
         "To evaluate a hypothesis, state a null hypothesis of no difference. If the mean ± 2 SE error bars do not overlap, reject it; if they overlap, fail to reject it."
       ],
       "faqs": [
@@ -2924,7 +2923,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/2-4-membrane-permeability-study-guide/",
-      "words": 4259,
+      "words": 4319,
       "sourceFile": "src/content/ap-resources/biology/2-4-membrane-permeability-study-guide.md"
     },
     {
@@ -3115,7 +3114,7 @@
       "learningObjectives": [
         "Explain how a selectively permeable membrane lets a cell build and keep concentration gradients",
         "Describe passive transport as net movement down a concentration gradient with no direct metabolic energy",
-        "Describe active transport as movement that needs a direct input of energy and can move substances from low to high concentration",
+        "Describe active transport as energy-coupled movement across a membrane, distinguishing direct ATP-driven primary transport from secondary transport driven by an ion gradient",
         "Describe how endocytosis and exocytosis move large substances, or large amounts of material, into and out of cells, and why they need energy",
         "Use concentration data to decide whether a substance is moved passively or actively",
         "Evaluate a transport experiment and propose a better investigation"
@@ -3146,10 +3145,10 @@
       ],
       "keyPoints": [
         "Because the membrane lets some substances through and blocks others, a cell can keep different concentrations inside and outside. These differences are concentration gradients.",
-        "Passive transport is net movement from high to low concentration. It needs no direct input of metabolic energy (no ATP).",
-        "Active transport needs a direct input of energy, usually from ATP, and a membrane protein. It can move a substance from low to high concentration.",
+        "Passive transport needs no metabolic-energy input: uncharged solutes move down their concentration gradient, while ions move down their electrochemical gradient.",
+        "Active transport couples movement to an energy source: primary transport uses energy directly, commonly ATP hydrolysis; secondary transport uses an ion gradient established by primary transport.",
         "Endocytosis (into the cell) and exocytosis (out of the cell) move large molecules, particles or large amounts of material inside vesicles. Both need energy.",
-        "Evidence for active transport: the substance builds up above its outside concentration, and the build-up stops when ATP production is blocked."
+        "Evidence for energy-dependent uptake can include accumulation against the relevant gradient and sensitivity to an energy-supply inhibitor; blocking ATP production directly tests ATP-driven primary transport, while secondary transport may continue temporarily on an existing ion gradient."
       ],
       "faqs": [
         {
@@ -3158,7 +3157,7 @@
         },
         {
           "question": "Does active transport always move substances against their gradient?",
-          "answer": "No. The defining feature is the direct input of energy. Moving a substance from low to high concentration is the most common reason a cell uses it, but it is not part of the definition."
+          "answer": "No. Active transport is energy-coupled: a primary transporter uses energy directly, while a secondary cotransporter uses an ion gradient. Moving a substance uphill is common, but it is not the whole definition."
         }
       ],
       "version": "1.0",
@@ -3169,7 +3168,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/2-5-membrane-transport-study-guide/",
-      "words": 3057,
+      "words": 3089,
       "sourceFile": "src/content/ap-resources/biology/2-5-membrane-transport-study-guide.md"
     },
     {
@@ -3412,7 +3411,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/2-6-facilitated-diffusion-study-guide/",
-      "words": 2727,
+      "words": 2736,
       "sourceFile": "src/content/ap-resources/biology/2-6-facilitated-diffusion-study-guide.md"
     },
     {
@@ -3634,7 +3633,7 @@
         "page-biology"
       ],
       "keyPoints": [
-        "Tonicity compares two solutions. Water moves by osmosis from the hypotonic side (fewer solute particles) to the hypertonic side (more solute particles). Isotonic means no net movement.",
+        "Tonicity compares effective, nonpenetrating solutes across a membrane. When pressure is equal, water tends to move from the hypotonic side toward the hypertonic side; pressure differences also affect the actual water-potential gradient.",
         "Water moves from higher water potential to lower water potential. Ψ = Ψp + Ψs, where Ψp is pressure potential and Ψs is solute potential.",
         "Solute potential is never positive: Ψs = −iCRT, with R = 0.0831 L bar mol⁻¹ K⁻¹ and T in kelvin. Pure water in an open container has Ψ = 0.",
         "A cell wall lets plant cells become turgid without bursting; animal cells and wall-less protists must control water balance in other ways, such as a contractile vacuole.",
@@ -3658,7 +3657,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/2-7-tonicity-osmoregulation-study-guide/",
-      "words": 3097,
+      "words": 3136,
       "sourceFile": "src/content/ap-resources/biology/2-7-tonicity-osmoregulation-study-guide.md"
     },
     {
@@ -3846,7 +3845,7 @@
       ],
       "learningObjectives": [
         "Compare simple diffusion, facilitated diffusion and active transport by energy use, direction and the proteins involved",
-        "Explain why active transport needs membrane proteins and a direct input of metabolic energy such as ATP",
+        "Explain how primary active transport couples a membrane pump directly to ATP, and how secondary active transport can use an ion gradient",
         "Describe the steps of the sodium–potassium pump cycle and its 3 Na⁺ : 2 K⁺ : 1 ATP ratio",
         "Explain what an electrochemical gradient is and how the pump helps maintain the membrane potential",
         "Use pump stoichiometry to calculate ion movement and ATP use",
@@ -3877,7 +3876,7 @@
         "page-biology"
       ],
       "keyPoints": [
-        "Active transport moves substances using a direct input of metabolic energy, usually ATP. It often moves ions against their concentration gradient, from low to high concentration.",
+        "Primary active transport uses energy directly, commonly ATP hydrolysis; secondary active transport uses an ion gradient as its immediate energy source. Both can move a substance against its own electrochemical gradient.",
         "Active transport always needs a membrane protein (a pump). The pump is specific and changes shape as it works.",
         "The sodium–potassium pump moves 3 Na⁺ out and 2 K⁺ in for every ATP. This keeps Na⁺ high outside and K⁺ high inside.",
         "An electrochemical gradient combines a concentration difference and a charge difference. The pump moves one net positive charge out per cycle, helping keep the inside of the cell negative (the membrane potential).",
@@ -3886,7 +3885,7 @@
       "faqs": [
         {
           "question": "Does active transport always move substances against their gradient?",
-          "answer": "Not always, but often. What defines active transport is the direct use of metabolic energy by a membrane protein. In some cases this energy is used to move a substance from low to high concentration, which passive transport can never do."
+          "answer": "Not always, but often. Primary active transport uses energy directly, while secondary active transport uses an ion gradient through a cotransporter. Either can drive a substance against its own electrochemical gradient."
         },
         {
           "question": "Why does the cell spend so much ATP on pumping ions?",
@@ -3901,7 +3900,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/2-8-mechanisms-transport-study-guide/",
-      "words": 2280,
+      "words": 2291,
       "sourceFile": "src/content/ap-resources/biology/2-8-mechanisms-transport-study-guide.md"
     },
     {
@@ -4388,7 +4387,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/3-1-enzymes-study-guide/",
-      "words": 3790,
+      "words": 3805,
       "sourceFile": "src/content/ap-resources/biology/3-1-enzymes-study-guide.md"
     },
     {
@@ -4630,7 +4629,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/3-2-environmental-impacts-on-enzyme-function-study-guide/",
-      "words": 4115,
+      "words": 4200,
       "sourceFile": "src/content/ap-resources/biology/3-2-environmental-impacts-on-enzyme-function-study-guide.md"
     },
     {
@@ -4871,7 +4870,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/3-3-cellular-energy-study-guide/",
-      "words": 2964,
+      "words": 3025,
       "sourceFile": "src/content/ap-resources/biology/3-3-cellular-energy-study-guide.md"
     },
     {
@@ -5115,7 +5114,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/3-4-photosynthesis-study-guide/",
-      "words": 2646,
+      "words": 2665,
       "sourceFile": "src/content/ap-resources/biology/3-4-photosynthesis-study-guide.md"
     },
     {
@@ -5366,7 +5365,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/3-5-cellular-respiration-study-guide/",
-      "words": 3626,
+      "words": 3657,
       "sourceFile": "src/content/ap-resources/biology/3-5-cellular-respiration-study-guide.md"
     },
     {
@@ -5612,7 +5611,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/4-1-cell-communication-study-guide/",
-      "words": 3530,
+      "words": 3551,
       "sourceFile": "src/content/ap-resources/biology/4-1-cell-communication-study-guide.md"
     },
     {
@@ -5859,7 +5858,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/4-2-introduction-signal-transduction-study-guide/",
-      "words": 3076,
+      "words": 3123,
       "sourceFile": "src/content/ap-resources/biology/4-2-introduction-signal-transduction-study-guide.md"
     },
     {
@@ -6101,7 +6100,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/4-3-signal-transduction-pathways-study-guide/",
-      "words": 3239,
+      "words": 3309,
       "sourceFile": "src/content/ap-resources/biology/4-3-signal-transduction-pathways-study-guide.md"
     },
     {
@@ -6591,7 +6590,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/4-5-cell-cycle-study-guide/",
-      "words": 3033,
+      "words": 3050,
       "sourceFile": "src/content/ap-resources/biology/4-5-cell-cycle-study-guide.md"
     },
     {
@@ -6839,7 +6838,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/4-6-regulation-cell-cycle-study-guide/",
-      "words": 2742,
+      "words": 2761,
       "sourceFile": "src/content/ap-resources/biology/4-6-regulation-cell-cycle-study-guide.md"
     },
     {
@@ -7060,11 +7059,11 @@
         "page-biology"
       ],
       "keyPoints": [
-        "Meiosis makes haploid (n) cells from a diploid (2n) cell. In animals these cells become gametes, so fertilization restores the diploid number.",
+        "Meiosis reduces a diploid chromosome set to haploid products. Animal gametogenesis produces gametes, with unequal oogenesis also forming polar bodies. Fertilization restores the diploid number.",
         "DNA is copied once (in S phase before meiosis), but the cell divides twice. That is why chromosome number halves.",
         "Meiosis I separates homologous chromosomes: it is the division that halves the chromosome number. Sister chromatids stay joined.",
         "Meiosis II separates sister chromatids, much like mitosis. The result is four haploid cells, each chromosome with a single chromatid.",
-        "Mitosis and meiosis both use a spindle to move chromosomes, but mitosis gives two genetically identical diploid cells while meiosis gives four haploid cells that differ genetically."
+        "Both use a spindle. Mitosis preserves parental ploidy and chromosome complement in the faithful-copying model; meiosis reduces a diploid set to haploid products with generally varied allele combinations."
       ],
       "faqs": [
         {
@@ -7088,7 +7087,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/5-1-meiosis-study-guide/",
-      "words": 3346,
+      "words": 3508,
       "sourceFile": "src/content/ap-resources/biology/5-1-meiosis-study-guide.md"
     },
     {
@@ -7277,7 +7276,7 @@
         "mb-ap-bio-5.1-study-guide"
       ],
       "learningObjectives": [
-        "Explain how correct separation of homologues and sister chromatids gives each gamete one set of chromosomes with a mix of maternal and paternal chromosomes",
+        "Explain how correct separation gives one member of each homologous pair, with different possible parental-origin combinations across meiotic products",
         "Explain how crossing over between non-sister chromatids in prophase I produces recombinant chromatids",
         "Calculate the number of chromosome combinations produced by independent assortment and by random fertilization",
         "Predict the chromosome numbers of gametes and zygotes after nondisjunction in meiosis I or meiosis II",
@@ -7309,11 +7308,11 @@
         "page-biology"
       ],
       "keyPoints": [
-        "When meiosis works correctly, every gamete gets exactly one chromosome from each homologous pair: a haploid set that mixes maternal and paternal chromosomes.",
+        "Correct segregation gives one member of each homologous pair. Across many meioses, the parental-origin combinations vary; a particular product need not contain whole chromosomes from both origins.",
         "Crossing over: in prophase I, non-sister chromatids of a homologous pair swap matching segments, making chromatids with new combinations of alleles.",
         "Independent assortment: each homologous pair lines up at metaphase I independently of the others, giving 2ⁿ chromosome combinations (over 8 million for humans, n = 23).",
         "Random fertilization multiplies the variation again: any one of a huge number of eggs can meet any one of a huge number of sperm.",
-        "Nondisjunction is a failure of separation. Gametes end up with n + 1 or n − 1 chromosomes, and the zygote is no longer correctly diploid."
+        "One-pair nondisjunction produces affected n + 1 or n − 1 products; normal n products also remain after an error in only one meiosis II daughter. Fusion of an affected product with a normal gamete gives 2n + 1 or 2n − 1."
       ],
       "faqs": [
         {
@@ -7322,7 +7321,7 @@
         },
         {
           "question": "Why does nondisjunction in meiosis I affect all four gametes, but in meiosis II only two?",
-          "answer": "In meiosis I, a whole homologous pair goes to one cell, so both cells from the first division are wrong, and so are all four products. In meiosis II, the error happens in only one of the two cells, so the other cell still makes two normal gametes."
+          "answer": "For the model with one error in one chromosome pair and faithful separation otherwise: a meiosis I error affects all four products; a meiosis II error in only one daughter leaves two normal-count products. These predictions do not describe simultaneous errors in both daughters or other segregation failures."
         },
         {
           "question": "Do I need to know the life cycles of ferns, mosses or other organisms?",
@@ -7337,7 +7336,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/5-2-meiosis-genetic-diversity-study-guide/",
-      "words": 3181,
+      "words": 3249,
       "sourceFile": "src/content/ap-resources/biology/5-2-meiosis-genetic-diversity-study-guide.md"
     },
     {
@@ -7580,7 +7579,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/5-3-mendelian-genetics-study-guide/",
-      "words": 3475,
+      "words": 3651,
       "sourceFile": "src/content/ap-resources/biology/5-3-mendelian-genetics-study-guide.md"
     },
     {
@@ -7784,7 +7783,7 @@
       "studyMinutes": 50,
       "difficulty": "core",
       "calculator": "scientific",
-      "calculatorNote": "Recombination frequency = recombinant offspring ÷ total offspring × 100%; 1% = 1 map unit. Chi-square critical values at p = 0.05: 3.84 (1 df), 5.99 (2 df), 7.81 (3 df)",
+      "calculatorNote": "Recombination frequency = recombinant offspring ÷ total offspring × 100%; for short intervals, 1% estimates 1 map unit. Chi-square critical values at p = 0.05: 3.84 (1 df), 5.99 (2 df), 7.81 (3 df)",
       "related": [
         "mb-ap-bio-5.4-revision-notes",
         "mb-ap-bio-5.4-practice",
@@ -7801,8 +7800,8 @@
       ],
       "keyPoints": [
         "Many traits do not follow Mendel's ratios. You show this quantitatively: a chi-square test rejects the Mendelian expectation.",
-        "Genes close together on one chromosome are linked. Recombinant offspring come from crossing over; the percentage of recombinants gives the map distance (1% = 1 map unit).",
-        "Incomplete dominance: the heterozygote is a blend. Codominance: the heterozygote shows both phenotypes. Both give a 1 : 2 : 1 phenotypic ratio from two heterozygotes.",
+        "Nearby loci can show linkage. In an appropriate test cross, recombinant frequency estimates map distance for short intervals; hidden multiple crossovers make the raw percentage underestimate longer map lengths.",
+        "Incomplete dominance gives an intermediate heterozygote phenotype; codominance expresses both alleles. Crossing two matching heterozygotes for the same pair of alleles gives 1 : 2 : 1 under the simple unbiased model.",
         "Males (XY) have one X, so X-linked recessive traits appear more often in males than in females. Birds (ZW) and bees (haplodiploidy) use other systems.",
         "Pleiotropy: one gene affects several traits. Mitochondrial and chloroplast genes are usually inherited only from the mother."
       ],
@@ -7824,7 +7823,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/5-4-non-mendelian-genetics-study-guide/",
-      "words": 2772,
+      "words": 2999,
       "sourceFile": "src/content/ap-resources/biology/5-4-non-mendelian-genetics-study-guide.md"
     },
     {
@@ -8048,7 +8047,7 @@
       ],
       "keyPoints": [
         "Phenotype = genotype acting in an environment. The same alleles can give different traits under different conditions.",
-        "The environment works mainly by changing gene expression (which genes are switched on, and how strongly) or by changing how active a gene product is. The DNA sequence is not changed.",
+        "In the non-mutational plastic responses studied here, conditions change gene expression or gene-product activity without requiring a DNA-sequence change. Other environmental exposures can also cause mutations.",
         "Phenotypic plasticity is the ability of one genotype to produce different phenotypes. A reaction norm graph shows it: phenotype against environment, one line per genotype.",
         "To show an effect is environmental, keep the genotype the same (clones, identical twins, inbred lines) and change only the environment."
       ],
@@ -8070,7 +8069,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/5-5-environmental-effects-on-phenotype-study-guide/",
-      "words": 2772,
+      "words": 2869,
       "sourceFile": "src/content/ap-resources/biology/5-5-environmental-effects-on-phenotype-study-guide.md"
     },
     {
@@ -8294,7 +8293,7 @@
         "Hereditary information is stored in DNA in all cells. Some viruses use RNA as their genetic material instead.",
         "Prokaryotes typically have one circular chromosome. Eukaryotes typically have several linear chromosomes, wound around histone proteins so they fit in the nucleus.",
         "Plasmids are small, extra circles of DNA, separate from the chromosomes. They are common in bacteria and also occur in some eukaryotes, such as yeasts.",
-        "Purines (A, G) have a double ring; pyrimidines (C, T, U) have a single ring. Every base pair is one purine plus one pyrimidine: A with T (or U in RNA), G with C.",
+        "Purines (A, G) have a fused five- and six-membered ring; pyrimidines (C, T, U) have one six-membered ring. Canonical Watson–Crick pairs contain one purine plus one pyrimidine: A with T (or U in RNA), G with C.",
         "Purine–pyrimidine pairing keeps the double helix the same width all along and is shared by all known cellular life, which is evidence of common ancestry."
       ],
       "faqs": [
@@ -8304,11 +8303,11 @@
         },
         {
           "question": "Do I need to draw the ring structures of the bases?",
-          "answer": "No. You need to know which bases are purines (double ring) and which are pyrimidines (single ring), and why a purine always pairs with a pyrimidine. The full chemical structures are not required."
+          "answer": "No. You need to know which bases are purines (fused five- and six-membered rings) and which are pyrimidines (one six-membered ring), and why canonical Watson–Crick pairs contain one of each. The full chemical structures are not required."
         },
         {
           "question": "Do mitochondria and chloroplasts have their own DNA?",
-          "answer": "Yes. Each has its own small circular DNA, similar to a bacterial chromosome. This is part of the evidence for endosymbiosis that you met in Topic 2.10."
+          "answer": "Yes. Mitochondria and chloroplasts have their own DNA. Many teaching examples show small circular genomes, but size and physical form vary; some organelle genomes include linear or branched molecules. Similarities to bacteria are one line of evidence for endosymbiosis."
         }
       ],
       "version": "1.0",
@@ -8319,7 +8318,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/6-1-dna-rna-structure-study-guide/",
-      "words": 3070,
+      "words": 3098,
       "sourceFile": "src/content/ap-resources/biology/6-1-dna-rna-structure-study-guide.md"
     },
     {
@@ -8818,7 +8817,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/6-3-transcription-rna-processing-study-guide/",
-      "words": 2894,
+      "words": 2993,
       "sourceFile": "src/content/ap-resources/biology/6-3-transcription-rna-processing-study-guide.md"
     },
     {
@@ -9066,7 +9065,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/6-4-translation-study-guide/",
-      "words": 2453,
+      "words": 2501,
       "sourceFile": "src/content/ap-resources/biology/6-4-translation-study-guide.md"
     },
     {
@@ -9311,7 +9310,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/6-5-regulation-gene-expression-study-guide/",
-      "words": 3051,
+      "words": 3350,
       "sourceFile": "src/content/ap-resources/biology/6-5-regulation-gene-expression-study-guide.md"
     },
     {
@@ -9555,7 +9554,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/6-6-gene-expression-cell-specialization-study-guide/",
-      "words": 2921,
+      "words": 2977,
       "sourceFile": "src/content/ap-resources/biology/6-6-gene-expression-cell-specialization-study-guide.md"
     },
     {
@@ -9801,7 +9800,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/6-7-mutations-study-guide/",
-      "words": 3038,
+      "words": 3300,
       "sourceFile": "src/content/ap-resources/biology/6-7-mutations-study-guide.md"
     },
     {
@@ -10047,7 +10046,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/6-8-biotechnology-study-guide/",
-      "words": 2556,
+      "words": 2872,
       "sourceFile": "src/content/ap-resources/biology/6-8-biotechnology-study-guide.md"
     },
     {
@@ -10513,16 +10512,16 @@
         "page-biology"
       ],
       "keyPoints": [
-        "A new species arises when two populations become reproductively isolated, so genes no longer flow between them.",
+        "Speciation occurs as reproductive barriers reduce gene flow between populations; gene exchange can sometimes continue while lineages diverge.",
         "Biological species concept: a species is a group whose members can interbreed and produce viable, fertile offspring. It applies to sexually reproducing organisms.",
         "Pre-zygotic barriers stop a zygote forming (habitat, timing, behaviour, mechanical, gametic). Post-zygotic barriers act after (hybrids die, are sterile, or their offspring fail).",
         "Allopatric speciation follows a geographic split. Sympatric speciation happens in the same area, for example by polyploidy in plants or a switch to a new host.",
-        "Speciation can be slow and steady (gradualism) or quick after long stasis (punctuated equilibrium). It is fastest in adaptive radiations into new habitats."
+        "Speciation can be slow and steady (gradualism) or quick after long stasis (punctuated equilibrium). Adaptive radiation can be rapid when ecological opportunity opens new niches, but rates of trait divergence and species formation vary among lineages and conditions."
       ],
       "faqs": [
         {
           "question": "If two animals produce a hybrid, are they the same species?",
-          "answer": "Not necessarily. Under the biological species concept the offspring must be viable and fertile, and the groups must exchange genes in nature. A horse and a donkey produce mules, but mules are almost always sterile, so horses and donkeys are separate species."
+          "answer": "Not necessarily. Under the biological species concept, members of one species can usually interbreed in nature and produce viable, fertile offspring. Distinct species are reproductively isolated overall, although occasional hybrids and some gene exchange can occur. A horse and a donkey produce mules, but mules are almost always sterile."
         },
         {
           "question": "Does speciation need a physical barrier?",
@@ -10537,7 +10536,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/7-10-speciation-study-guide/",
-      "words": 2670,
+      "words": 2812,
       "sourceFile": "src/content/ap-resources/biology/7-10-speciation-study-guide.md"
     },
     {
@@ -10763,12 +10762,12 @@
         "Populations with little genetic diversity are at risk of decline or extinction, because a new disease or change in the environment can affect almost every individual in the same way.",
         "Diverse populations are more resilient: they are more likely to already contain some individuals that can survive a new pressure.",
         "Whether an allele is helpful depends on the environment. An allele that is adaptive under one set of conditions may be harmful under another.",
-        "Selection acts on variation that already exists. A population cannot produce the right allele on demand when the pressure arrives."
+        "Selection can act on heritable variants already present, while new mutations also arise independently of need. A population does not produce a particular helpful allele on demand; its response depends on relevant variants and how they affect reproduction in that environment."
       ],
       "faqs": [
         {
           "question": "Is a small population always low in genetic diversity?",
-          "answer": "Not always, but usually over time. A small population loses alleles by chance and through inbreeding, and it has fewer individuals carrying rare alleles in the first place. A population that recently shrank may still hold much of its old diversity for a while."
+          "answer": "Not always. Small populations often lose alleles by genetic drift. Inbreeding alone mainly increases homozygosity and lowers heterozygosity; it does not necessarily remove alleles, though it can expose harmful recessive variants. A recently reduced population may retain much of its earlier diversity for a while."
         },
         {
           "question": "Do I need to learn the details of particular endangered species?",
@@ -10783,7 +10782,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/7-11-variations-populations-study-guide/",
-      "words": 2373,
+      "words": 2539,
       "sourceFile": "src/content/ap-resources/biology/7-11-variations-populations-study-guide.md"
     },
     {
@@ -10986,7 +10985,7 @@
       "studyMinutes": 35,
       "difficulty": "core",
       "calculator": "four-function",
-      "calculatorNote": "Only subtraction, ratios and simple scaling are needed. Course dates: Earth formed about 4.6 billion years ago (bya); conditions became suitable about 3.9 bya; earliest fossil evidence about 3.5 bya",
+      "calculatorNote": "Only subtraction, ratios and simple scaling are needed. This guide uses an instructional model: Earth formed about 4.6 billion years ago (bya), a course timeline marks 3.9 bya as a possible habitability interval, and widely accepted fossil evidence is about 3.5 bya. These dates do not establish a global no-life boundary.",
       "related": [
         "mb-ap-bio-7.12-revision-notes",
         "mb-ap-bio-7.12-practice",
@@ -11002,7 +11001,7 @@
         "page-biology"
       ],
       "keyPoints": [
-        "Earth formed about 4.6 billion years ago (bya). It was too hostile for life until about 3.9 bya. The earliest fossil evidence of life is about 3.5 bya.",
+        "Earth formed about 4.6 billion years ago (bya). A course timeline uses about 3.9 bya as a model marker for possible habitability; the oldest widely accepted fossil evidence is about 3.5 bya. Geological evidence does not prove that Earth was globally uninhabitable before 3.9 bya.",
         "Together these dates give a plausible window for the origin of life: roughly between 3.9 and 3.5 bya.",
         "The RNA world hypothesis proposes that RNA was the first genetic material, because RNA can both store information and catalyse reactions.",
         "Its three assumptions: RNA replication once carried genetic information between generations; that replication depended on base pairing; and genetically encoded proteins were not yet the catalysts."
@@ -11025,7 +11024,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/7-12-origins-life-on-earth-study-guide/",
-      "words": 2716,
+      "words": 2869,
       "sourceFile": "src/content/ap-resources/biology/7-12-origins-life-on-earth-study-guide.md"
     },
     {
@@ -11270,7 +11269,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/7-2-natural-selection-study-guide/",
-      "words": 2604,
+      "words": 2625,
       "sourceFile": "src/content/ap-resources/biology/7-2-natural-selection-study-guide.md"
     },
     {
@@ -11517,7 +11516,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/7-3-artificial-selection-study-guide/",
-      "words": 2596,
+      "words": 2678,
       "sourceFile": "src/content/ap-resources/biology/7-3-artificial-selection-study-guide.md"
     },
     {
@@ -11763,7 +11762,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/7-4-population-genetics-study-guide/",
-      "words": 2920,
+      "words": 2982,
       "sourceFile": "src/content/ap-resources/biology/7-4-population-genetics-study-guide.md"
     },
     {
@@ -11988,7 +11987,7 @@
       "keyPoints": [
         "Hardy–Weinberg equilibrium is a model of a population that is not evolving: allele and genotype frequencies stay the same from one generation to the next.",
         "For two alleles with frequencies p and q: p + q = 1, and the genotype frequencies are p² (homozygous one way), 2pq (heterozygous) and q² (homozygous the other way).",
-        "The five conditions are a large population, no migration, no new mutations, random mating and no natural selection. Real populations never meet all five.",
+        "In the idealised Hardy–Weinberg model, the five assumptions are a very large population, no migration or mutation, random mating and no selection. These are sufficient assumptions for stable allele frequencies and genotype proportions; real populations can still fit the model closely or have stable frequencies when forces balance.",
         "Because the conditions are never fully met, the model is a null hypothesis: if observed data differ clearly from its prediction, at least one condition is being broken.",
         "Count alleles to get p from genotype data. Use q = √(q²) only if you assume the population is in equilibrium."
       ],
@@ -12014,7 +12013,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/7-5-hardy-weinberg-equilibrium-study-guide/",
-      "words": 2794,
+      "words": 2892,
       "sourceFile": "src/content/ap-resources/biology/7-5-hardy-weinberg-equilibrium-study-guide.md"
     },
     {
@@ -12241,7 +12240,7 @@
         "Fossils are dated by their position in rock layers (lower is usually older), by radioactive decay of isotopes such as carbon-14, and by matching layers and fossils between sites.",
         "Each half-life halves the amount of a radioactive isotope. Carbon-14 (half-life about 5,700 years) dates once-living material up to about 50,000 years old.",
         "Homologous structures (same basic parts, different uses) and vestigial structures (reduced remnants) show common ancestry.",
-        "The fewer differences between two species' DNA or protein sequences, the more recently they shared a common ancestor."
+        "Fewer sequence differences can support a more recent common ancestor when comparing suitable homologous sequences under comparable rates and an adequate evolutionary model; they do not alone prove a branching history or its date."
       ],
       "faqs": [
         {
@@ -12261,7 +12260,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/7-6-evidence-evolution-study-guide/",
-      "words": 2543,
+      "words": 2671,
       "sourceFile": "src/content/ap-resources/biology/7-6-evidence-evolution-study-guide.md"
     },
     {
@@ -12448,7 +12447,7 @@
         "mb-ap-bio-7.6-study-guide"
       ],
       "learningObjectives": [
-        "Describe the cell-level and molecular features that every eukaryote shares: membrane-bound organelles, linear chromosomes and genes interrupted by introns",
+        "Describe typical eukaryotic cell organisation, linear chromosomes and spliceosomal introns, including how lineage-specific losses and modifications fit common ancestry",
         "Explain why a set of shared, complex features is better explained by one common ancestor than by many separate origins",
         "Tell apart features shared by all life from features shared only by eukaryotes",
         "Compare gene structures and use shared intron positions as evidence, while noting that introns can be gained or lost",
@@ -12479,9 +12478,9 @@
         "page-biology"
       ],
       "keyPoints": [
-        "All eukaryotes (animals, plants, fungi and protists) share three features at the cell and molecular level: membrane-bound organelles, linear chromosomes, and genes that contain introns.",
-        "These features are complex and built the same way in every eukaryote. One shared ancestor that already had them explains this far better than many separate origins.",
-        "Most bacteria and archaea lack all three: no nucleus or other membrane-bound organelles, usually one circular chromosome, and protein-coding genes without spliceosomal introns.",
+        "Eukaryotes typically have a nucleus with linear chromosomes, membrane-bound compartments and spliceosomal introns. These core features are widespread and support common ancestry, although lineages can lose or modify them.",
+        "Homologous cell and molecular systems across eukaryotes support inheritance from a common ancestor; their present-day forms can differ or be reduced in some lineages.",
+        "Bacteria and archaea have no nucleus and generally lack the eukaryotic nucleus/endomembrane system; some bacteria do have internal membrane-bounded compartments. Many have a circular chromosome, and spliceosomal introns are uncommon in prokaryotes.",
         "Shared design lets you predict: a drug or mutation that disrupts splicing affects yeast, plants and human cells, but not bacteria."
       ],
       "faqs": [
@@ -12502,7 +12501,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/7-7-common-ancestry-study-guide/",
-      "words": 2602,
+      "words": 2620,
       "sourceFile": "src/content/ap-resources/biology/7-7-common-ancestry-study-guide.md"
     },
     {
@@ -12695,7 +12694,7 @@
       "learningObjectives": [
         "Explain why evolution is an ongoing process in every population, including humans",
         "Use mutation rates and population sizes to show how genomes change from one generation to the next",
-        "Interpret fossil data that show continuous change in a lineage",
+        "Interpret sampled fossil data for morphological trends and explain the limits imposed by gaps and time resolution",
         "Explain resistance to antibiotics, pesticides, herbicides and chemotherapy drugs as natural selection on existing variation",
         "Explain how pathogens evolve and how this can lead to new or re-emerging diseases",
         "Evaluate an investigation into evolving resistance and propose a better-designed follow-up investigation"
@@ -12727,9 +12726,9 @@
       ],
       "keyPoints": [
         "Every species is still evolving: new mutations arise each generation, and environments keep changing what is favoured.",
-        "Evidence includes changes in genomes over time, continuous change in fossil lineages, resistance to drugs and pesticides, and pathogens that cause new diseases.",
-        "Resistance is not caused by the drug. The drug selects variants that already exist, so they survive, reproduce and become common.",
-        "Large populations with short generations, such as bacteria, viruses and tumour cells, evolve fastest."
+        "Evidence includes genome changes, fossil samples showing morphological trends, resistance to drugs and pesticides, and pathogens that cause new diseases.",
+        "Resistance mutations are not directed by need. Selection can increase variants already present and variants arising during treatment; some exposures can also alter mutation supply.",
+        "Large populations and short generation times can supply mutations quickly and allow rapid change, but evolution rate also depends on mutation, selection, drift, gene flow, effective population size and how rate is measured."
       ],
       "faqs": [
         {
@@ -12749,7 +12748,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/7-8-continuing-evolution-study-guide/",
-      "words": 2473,
+      "words": 2695,
       "sourceFile": "src/content/ap-resources/biology/7-8-continuing-evolution-study-guide.md"
     },
     {
@@ -12974,14 +12973,14 @@
       "keyPoints": [
         "A tree is a hypothesis about how lineages are related. Each node stands for the most recent common ancestor of the lineages that branch from it, and marks a speciation event.",
         "Judge relatedness by how recently two lineages share an ancestor, not by how close their tips are drawn. Branches can rotate at a node without changing the tree.",
-        "A cladogram shows only the branching order. A phylogenetic tree also shows time or amount of change, calibrated by dated fossils or a molecular clock.",
+        "A cladogram is a topology-only representation of phylogenetic relationships. Phylogenetic trees may have unscaled branches or branch lengths scaled to evolutionary change; a time-calibrated chronogram uses a stated time scale.",
         "Shared derived characters (traits gained or lost) group lineages; the outgroup shows which state is ancestral. Traits every group shares, or that only one lineage has, do not help.",
         "Molecular data (DNA and protein sequences) usually give more reliable trees than body form, because they provide many characters and are less often misled by convergent evolution."
       ],
       "faqs": [
         {
           "question": "Is a cladogram the same as a phylogenetic tree?",
-          "answer": "Both show branching order. In this course a phylogenetic tree also shows time or amount of change along its branches; a cladogram does not, so its branch lengths mean nothing."
+          "answer": "A cladogram is one way to represent phylogenetic relationships, usually showing branching order only. Phylogenetic trees can also have arbitrary branch lengths; interpret lengths only when the figure states they represent time or evolutionary change. A time tree needs calibration."
         },
         {
           "question": "Does the outgroup represent the ancestor of the other species?",
@@ -12996,7 +12995,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/7-9-phylogeny-study-guide/",
-      "words": 3306,
+      "words": 3327,
       "sourceFile": "src/content/ap-resources/biology/7-9-phylogeny-study-guide.md"
     },
     {
@@ -13218,7 +13217,7 @@
         "Organisms respond to changes inside them (hunger, dehydration, hormones) and outside them (light, temperature, predators) with behavioural responses (what they do) and physiological responses (changes inside the body).",
         "Taxis is movement directed toward or away from a stimulus. Kinesis is a change in speed or turning rate that is not directed.",
         "Organisms communicate with visual, sound, touch, electrical and chemical signals. Signals change the receiver's behaviour and can change who survives and reproduces.",
-        "Natural selection favours innate and learned behaviours that raise survival and reproduction. Cooperation often raises individual fitness and helps the population survive.",
+        "Natural selection can favour innate or learned behaviours when their heritable basis raises direct or inclusive reproductive success. Cooperation can benefit actors or relatives, but its costs, benefits and effects on group persistence vary.",
         "A good behaviour experiment changes one variable, counts or measures the response, and uses a control that rules out other explanations, such as a side bias in the apparatus."
       ],
       "faqs": [
@@ -13239,7 +13238,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/8-1-responses-environment-study-guide/",
-      "words": 3060,
+      "words": 3136,
       "sourceFile": "src/content/ap-resources/biology/8-1-responses-environment-study-guide.md"
     },
     {
@@ -13458,7 +13457,7 @@
       ],
       "keyPoints": [
         "Energy flows one way: in as light (or chemical energy), out as heat. Matter cycles: atoms of carbon, nitrogen, phosphorus and water are reused again and again.",
-        "Endotherms use heat from their own metabolism to keep body temperature steady, so they need much more food than ectotherms of the same size. Ectotherms control temperature mainly by behaviour.",
+        "Endothermy and ectothermy describe the predominant source of body heat: internal metabolism or external surroundings. Body temperature can vary in endotherms and can be regulated behaviourally by ectotherms; energy demand depends on conditions and activity, not body mass alone.",
         "A net energy gain allows storage, growth and more reproduction; a net loss leads to loss of mass, less reproduction and eventually death.",
         "Only a small fraction (often about 10%) of the energy at one trophic level ends up in the next, so food chains are short and higher levels are small.",
         "Autotrophs capture energy from sunlight (photosynthesis) or from inorganic molecules (chemosynthesis). Heterotrophs get energy by eating organic matter that came from autotrophs."
@@ -13481,7 +13480,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/8-2-energy-flow-through-ecosystems-study-guide/",
-      "words": 2824,
+      "words": 3354,
       "sourceFile": "src/content/ap-resources/biology/8-2-energy-flow-through-ecosystems-study-guide.md"
     },
     {
@@ -13656,7 +13655,7 @@
     {
       "resourceId": "mb-ap-bio-8.3-study-guide",
       "title": "Population Ecology: Study Guide (Biology 8.3)",
-      "description": "Learn what a population is, how births, deaths and population size set its growth rate, how to use dN/dt = B − D and dN/dt = rₘₐₓN, and how to graph exponential growth.",
+      "description": "Learn what a population is, how births, deaths and population size set its growth rate, how to use dN/dt = B − D and dN/dt = rN for exponential growth, and how to graph population data.",
       "course": "biology",
       "unit": 8,
       "topics": [
@@ -13674,7 +13673,7 @@
         "Define a population and describe how its members interact with each other and with their environment",
         "Explain how birth rate, death rate and population size together set the rate of population growth",
         "Use dN/dt = B − D and per capita rates to calculate and compare population growth",
-        "Describe exponential growth, use dN/dt = rₘₐₓN and say when it applies",
+        "Describe exponential growth, use dN/dt = rN and say when a constant per-capita rate is a reasonable model",
         "Link adaptations for obtaining and using energy and matter to births and deaths",
         "Construct a suitable graph of population data, including a log scale and error bars where appropriate"
       ],
@@ -13706,7 +13705,7 @@
       "keyPoints": [
         "A population is all the individuals of one species in one area that interact with each other and with their environment.",
         "Population growth depends on birth rate, death rate and population size: dN/dt = B − D, where B and D are births and deaths per unit time.",
-        "Per capita growth rate r = (B − D) ÷ N. With no limits on reproduction, r stays at its maximum, rₘₐₓ, and growth is exponential: dN/dt = rₘₐₓN.",
+        "Per capita growth rate r = (B − D) ÷ N. Exponential growth occurs when r is positive and approximately constant over the modelled interval: dN/dt = rN. Under ideal unconstrained conditions, r may approach rₘₐₓ.",
         "In exponential growth the population adds more individuals each time step, but the per capita rate and the doubling time stay constant. On a log scale the curve becomes a straight line.",
         "Births and deaths depend on how well organisms obtain and use energy and matter, so adaptations for feeding and energy use shape population growth."
       ],
@@ -13732,7 +13731,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/8-3-population-ecology-study-guide/",
-      "words": 2973,
+      "words": 3048,
       "sourceFile": "src/content/ap-resources/biology/8-3-population-ecology-study-guide.md"
     },
     {
@@ -13913,7 +13912,7 @@
       "resourceType": "study-guide",
       "prerequisites": [
         "Births, deaths and per capita growth rates (dN/dt = B − D)",
-        "Exponential growth and the equation dN/dt = rₘₐₓN"
+        "Exponential growth and the equation dN/dt = rN, where r is constant over the modelled interval"
       ],
       "prerequisiteResources": [
         "mb-ap-bio-8.3-study-guide"
@@ -13953,7 +13952,7 @@
       "keyPoints": [
         "Population density is the number of individuals per unit area or volume. Resources set how many individuals an area can support, and density sets how much of each resource each individual gets.",
         "Carrying capacity (K) is the largest population size the environment's total resources can support in the long term.",
-        "Density-dependent factors (competition, predation, disease, waste) hit a larger fraction of the population as density rises. Density-independent factors (storms, frost, fire) hit about the same fraction at any density.",
+        "Classify a factor by its observed per-capita relationship with density: some effects strengthen as density rises, while others do not; factor names alone do not determine the pattern.",
         "As these limits take hold, growth usually becomes logistic: dN/dt = rₘₐₓN(K − N)/K. The curve is S-shaped, growth is fastest at N = K/2 and stops at N = K."
       ],
       "faqs": [
@@ -13978,7 +13977,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/8-4-effect-density-on-populations-study-guide/",
-      "words": 2578,
+      "words": 2634,
       "sourceFile": "src/content/ap-resources/biology/8-4-effect-density-on-populations-study-guide.md"
     },
     {
@@ -14224,7 +14223,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/8-5-community-ecology-study-guide/",
-      "words": 2352,
+      "words": 2533,
       "sourceFile": "src/content/ap-resources/biology/8-5-community-ecology-study-guide.md"
     },
     {
@@ -14444,7 +14443,7 @@
       "keyPoints": [
         "Ecosystems with few components, or little variety among them, are often less resilient: a change hits them harder and they recover more slowly.",
         "Diversity gives back-up: if one species fails, another that does a similar job can take over (functional redundancy).",
-        "A keystone species has an effect far larger than its abundance suggests. Remove it and the ecosystem often collapses.",
+        "A keystone species has an effect on a community or ecosystem feature that is disproportionately large relative to its abundance.",
         "Producers, keystone species and essential abiotic factors (water, light, nutrients, temperature) hold up the diversity of an ecosystem.",
         "Adding or removing any component changes the ecosystem's structure; short-term effects (on direct partners) and long-term effects (on the whole community) can differ."
       ],
@@ -14466,7 +14465,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/8-6-biodiversity-study-guide/",
-      "words": 2157,
+      "words": 2208,
       "sourceFile": "src/content/ap-resources/biology/8-6-biodiversity-study-guide.md"
     },
     {
@@ -14654,7 +14653,7 @@
         "mb-ap-bio-8.6-study-guide"
       ],
       "learningObjectives": [
-        "Explain how a changing environment selects among variations that already exist, including heterozygote advantage, and why mutations are not caused by the need for them",
+        "Explain how selection changes the frequency of heritable variants, including heterozygote advantage, and why mutations are not directed by need",
         "Explain how an invasive species can spread by exploiting a niche free of predators or competitors, or by outcompeting native species",
         "Describe how human activities, including biomagnification and eutrophication, change ecosystems and can cause extinctions",
         "Explain how geological and meteorological events change habitats and where species live",
@@ -14686,8 +14685,8 @@
         "page-biology"
       ],
       "keyPoints": [
-        "Variation comes first; selection comes second. Mutations arise at random. A change in the environment then favours the variants that happen to suit it.",
-        "Heterozygote advantage: the heterozygous genotype has a higher relative fitness than either homozygote, so both alleles stay in the population.",
+        "Mutations are not directed by need. A helpful heritable variant may pre-exist or arise later; selection changes its frequency when it affects survival or reproduction.",
+        "Heterozygote advantage: in a given environment the heterozygote can have higher relative fitness than either homozygote, which can maintain both alleles under suitable conditions.",
         "An invasive species spreads when it finds a niche free of its usual predators or competitors, or outcompetes native species for resources.",
         "Biomagnification: a persistent, fat-soluble toxin becomes more concentrated at each trophic level. Eutrophication: extra nutrients cause an algal bloom, then decomposers use up the oxygen.",
         "Geological and meteorological events, such as continental drift, El Niño and meteor impacts, change habitats and where species are found."
@@ -14710,7 +14709,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/biology/8-7-disruptions-ecosystems-study-guide/",
-      "words": 3114,
+      "words": 3377,
       "sourceFile": "src/content/ap-resources/biology/8-7-disruptions-ecosystems-study-guide.md"
     },
     {
@@ -56263,7 +56262,7 @@
         "A reaction cannot go faster than its slowest elementary step. That step is the rate-limiting (rate-determining) step.",
         "When the first step is the slow step, the rate law of the whole reaction is the rate law of that step: each reactant in it is raised to its coefficient in the step.",
         "The rate law comes from the slow step, not from the overall equation, so reactants used only in later fast steps do not appear in it.",
-        "An intermediate never appears in a final rate law. A catalyst can, if it takes part in the slow step.",
+        "An experimentally determined rate law can contain an intermediate concentration; when deriving a predictive law from a mechanism, eliminate unmeasured intermediate concentrations using justified kinetic assumptions. A catalyst can appear if it takes part in a rate-controlling step.",
         "A mechanism that adds up correctly and predicts the experimental rate law is consistent with the evidence, but it is not proven."
       ],
       "faqs": [
@@ -56284,7 +56283,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/chemistry/5-8-reaction-mechanism-rate-law-study-guide/",
-      "words": 2113,
+      "words": 2134,
       "sourceFile": "src/content/ap-resources/chemistry/5-8-reaction-mechanism-rate-law-study-guide.md"
     },
     {
@@ -56755,7 +56754,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/chemistry/6-1-endothermic-exothermic-processes-study-guide/",
-      "words": 2359,
+      "words": 2394,
       "sourceFile": "src/content/ap-resources/chemistry/6-1-endothermic-exothermic-processes-study-guide.md"
     },
     {
@@ -59137,7 +59136,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/chemistry/7-10-reaction-quotient-le-ch-teliers-study-guide/",
-      "words": 1937,
+      "words": 1952,
       "sourceFile": "src/content/ap-resources/chemistry/7-10-reaction-quotient-le-ch-teliers-study-guide.md"
     },
     {
@@ -60092,7 +60091,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/chemistry/7-3-reaction-quotient-equilibrium-constant-study-guide/",
-      "words": 1933,
+      "words": 1969,
       "sourceFile": "src/content/ap-resources/chemistry/7-3-reaction-quotient-equilibrium-constant-study-guide.md"
     },
     {
@@ -62001,7 +62000,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/chemistry/8-10-buffer-capacity-study-guide/",
-      "words": 1949,
+      "words": 1968,
       "sourceFile": "src/content/ap-resources/chemistry/8-10-buffer-capacity-study-guide.md"
     },
     {
@@ -62657,7 +62656,7 @@
         "mb-ap-chem-8.2-study-guide"
       ],
       "learningObjectives": [
-        "Explain why only a small fraction of a weak acid or weak base ionizes, and rank the concentrations of all species in its solution",
+        "Explain how the ionized fraction of a weak acid or weak base depends on K and analytical concentration, and rank species for a specified solution",
         "Write K_a and K_b expressions and convert between K and pK",
         "Calculate the pH of a weak acid or weak base solution from its initial concentration and K_a, pK_a, K_b or pK_b",
         "Calculate percent ionization from K and concentration, or from a measured pH, and explain how it changes on dilution",
@@ -62688,7 +62687,7 @@
         "page-chemistry"
       ],
       "keyPoints": [
-        "A weak acid ionizes only slightly: [H₃O⁺] is much smaller than the starting acid concentration, and most HA molecules stay intact.",
+        "For a weak acid at a specified concentration, calculate the degree of ionization from K_a; common concentrations may be only slightly ionized, while sufficiently dilute solutions can have a substantial ionized fraction.",
         "K_a = [H₃O⁺][A⁻] / [HA] and K_b = [OH⁻][HB⁺] / [B]. A smaller K (larger pK) means a weaker acid or base.",
         "For a weak acid, x = [H₃O⁺] ≈ √(K_a × c) when x is under about 5% of c. For a weak base the same method gives [OH⁻]; then convert pOH to pH.",
         "Percent ionization = (x ÷ c) × 100%. It rises when the solution is diluted, although [H₃O⁺] falls.",
@@ -62712,7 +62711,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/chemistry/8-3-weak-acid-base-equilibria-study-guide/",
-      "words": 1943,
+      "words": 1973,
       "sourceFile": "src/content/ap-resources/chemistry/8-3-weak-acid-base-equilibria-study-guide.md"
     },
     {
@@ -63418,7 +63417,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/chemistry/8-6-molecular-structure-acids-bases-study-guide/",
-      "words": 2124,
+      "words": 2105,
       "sourceFile": "src/content/ap-resources/chemistry/8-6-molecular-structure-acids-bases-study-guide.md"
     },
     {
@@ -64575,7 +64574,7 @@
         "page-chemistry"
       ],
       "keyPoints": [
-        "E° is the cell potential when Q = 1 (standard conditions). Real cells usually have Q ≠ 1, so E ≠ E°.",
+        "E° is defined for standard-state activities, which give Q = 1. A nonstandard mixture can also have Q = 1, so Q = 1 implies E = E° but does not by itself prove standard conditions.",
         "The cell potential is the drive towards equilibrium: the further the cell is from equilibrium, the larger the size of E. At equilibrium (Q = K), E = 0 and the cell is 'dead'.",
         "For a galvanic cell (E° > 0, so K > 1), Q < 1 (more reactant, less product than standard) moves the cell further from equilibrium, so E > E°. Q > 1 moves it closer, so E < E°.",
         "Reason with Q, not Le Châtelier's principle: a working cell is not at equilibrium.",
@@ -64599,7 +64598,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/chemistry/9-10-cell-potential-under-nonstandard-conditions-study-guide/",
-      "words": 2278,
+      "words": 2290,
       "sourceFile": "src/content/ap-resources/chemistry/9-10-cell-potential-under-nonstandard-conditions-study-guide.md"
     },
     {
@@ -65540,7 +65539,7 @@
         "A process that is thermodynamically favoured but does not occur at a measurable rate is under kinetic control.",
         "The usual cause of kinetic control is a high activation energy: very few collisions have enough energy to react.",
         "No visible change does not mean equilibrium. Under kinetic control Q is far from K; the system is stuck, not balanced.",
-        "A catalyst, a spark or strong heating can start a kinetically controlled reaction. Nothing can make a process with ΔG° > 0 go to a large extent on its own."
+        "A catalyst, a spark or heating can change the rate, but a catalyst does not change ΔG° or K. ΔG° > 0 means products are not favoured under standard-state conditions; it does not make product formation impossible at every composition. The equilibrium position depends on K and the actual mixture."
       ],
       "faqs": [
         {
@@ -65564,7 +65563,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/chemistry/9-4-thermodynamic-kinetic-control-study-guide/",
-      "words": 1872,
+      "words": 1952,
       "sourceFile": "src/content/ap-resources/chemistry/9-4-thermodynamic-kinetic-control-study-guide.md"
     },
     {
@@ -66510,7 +66509,7 @@
         "page-chemistry"
       ],
       "keyPoints": [
-        "A galvanic (voltaic) cell runs a thermodynamically favourable redox reaction and produces electrical energy. An electrolytic cell uses electrical energy to drive an unfavourable one.",
+        "A galvanic (voltaic) cell runs a thermodynamically favourable redox reaction under its actual operating conditions and produces electrical energy. An electrolytic cell uses electrical energy to drive the reverse, unfavourable direction under those conditions.",
         "In every cell, oxidation happens at the anode and reduction happens at the cathode.",
         "Electrons flow through the external wire from the anode to the cathode. They never travel through the salt bridge or the solution.",
         "Ions carry the charge inside the cell: anions move towards the anode and cations move towards the cathode, keeping each half-cell electrically neutral.",
@@ -66534,7 +66533,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/chemistry/9-8-galvanic-voltaic-electrolytic-cells-study-guide/",
-      "words": 2336,
+      "words": 2351,
       "sourceFile": "src/content/ap-resources/chemistry/9-8-galvanic-voltaic-electrolytic-cells-study-guide.md"
     },
     {
@@ -78389,7 +78388,7 @@
     {
       "resourceId": "mb-ap-macro-exam-skills-task-verbs",
       "title": "Task Verbs and Free-Response Technique: Exam Skills Guide (Macroeconomics)",
-      "description": "What each free-response task verb asks you to do, how much to write, how to read a multi-part question, plan your time and show work, with original worked examples.",
+      "description": "What each free-response task verb asks for in economics answers, how much to write, how to read a multi-part question, plan your time and show work, with original examples.",
       "course": "macroeconomics",
       "unit": 1,
       "topics": [],
@@ -89333,7 +89332,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-1/1-2-displacement-velocity-acceleration-study-guide/",
-      "words": 2539,
+      "words": 2866,
       "sourceFile": "src/content/ap-resources/physics-1/1-2-displacement-velocity-acceleration-study-guide.md"
     },
     {
@@ -91497,7 +91496,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-1/2-6-gravitational-force-study-guide/",
-      "words": 2602,
+      "words": 2832,
       "sourceFile": "src/content/ap-resources/physics-1/2-6-gravitational-force-study-guide.md"
     },
     {
@@ -93188,7 +93187,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-1/3-4-conservation-energy-study-guide/",
-      "words": 2282,
+      "words": 2413,
       "sourceFile": "src/content/ap-resources/physics-1/3-4-conservation-energy-study-guide.md"
     },
     {
@@ -93429,7 +93428,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-1/3-5-power-study-guide/",
-      "words": 2602,
+      "words": 2635,
       "sourceFile": "src/content/ap-resources/physics-1/3-5-power-study-guide.md"
     },
     {
@@ -93915,7 +93914,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-1/4-2-change-momentum-impulse-study-guide/",
-      "words": 2444,
+      "words": 2526,
       "sourceFile": "src/content/ap-resources/physics-1/4-2-change-momentum-impulse-study-guide.md"
     },
     {
@@ -94136,7 +94135,7 @@
       "keyPoints": [
         "The total momentum of a system is the vector sum of the momenta of its parts: p_sys = m₁v₁ + m₂v₂ + …",
         "The centre-of-mass velocity is v_cm = p_sys / (total mass). With no net external force, it stays constant.",
-        "Internal forces come in third-law pairs, so their impulses cancel. Only an external impulse can change a system's momentum: Δp_sys = F_net,ext Δt.",
+        "Internal forces come in third-law pairs, so their impulses cancel. Only an external impulse can change a system's momentum: Δp_sys = J_ext = F_avg,net,ext Δt, where F_avg,net,ext is the interval-average net external force.",
         "Whether momentum is constant depends on the system you choose. Momentum is never created or destroyed; it is moved between a system and its surroundings.",
         "In a short collision or explosion, external impulses are tiny, so total momentum just before equals total momentum just after."
       ],
@@ -94158,7 +94157,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-1/4-3-conservation-linear-momentum-study-guide/",
-      "words": 2712,
+      "words": 2742,
       "sourceFile": "src/content/ap-resources/physics-1/4-3-conservation-linear-momentum-study-guide.md"
     },
     {
@@ -94878,7 +94877,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-1/5-2-connecting-linear-rotational-motion-study-guide/",
-      "words": 2034,
+      "words": 2068,
       "sourceFile": "src/content/ap-resources/physics-1/5-2-connecting-linear-rotational-motion-study-guide.md"
     },
     {
@@ -95356,7 +95355,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-1/5-4-rotational-inertia-study-guide/",
-      "words": 2428,
+      "words": 2571,
       "sourceFile": "src/content/ap-resources/physics-1/5-4-rotational-inertia-study-guide.md"
     },
     {
@@ -96073,7 +96072,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-1/6-1-rotational-kinetic-energy-study-guide/",
-      "words": 2642,
+      "words": 2668,
       "sourceFile": "src/content/ap-resources/physics-1/6-1-rotational-kinetic-energy-study-guide.md"
     },
     {
@@ -96555,7 +96554,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-1/6-3-angular-momentum-angular-impulse-study-guide/",
-      "words": 2718,
+      "words": 2800,
       "sourceFile": "src/content/ap-resources/physics-1/6-3-angular-momentum-angular-impulse-study-guide.md"
     },
     {
@@ -97041,7 +97040,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-1/6-5-rolling-study-guide/",
-      "words": 2978,
+      "words": 3199,
       "sourceFile": "src/content/ap-resources/physics-1/6-5-rolling-study-guide.md"
     },
     {
@@ -97287,7 +97286,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-1/6-6-motion-orbiting-satellites-study-guide/",
-      "words": 2725,
+      "words": 2762,
       "sourceFile": "src/content/ap-resources/physics-1/6-6-motion-orbiting-satellites-study-guide.md"
     },
     {
@@ -97769,7 +97768,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-1/7-2-frequency-period-shm-study-guide/",
-      "words": 2000,
+      "words": 2034,
       "sourceFile": "src/content/ap-resources/physics-1/7-2-frequency-period-shm-study-guide.md"
     },
     {
@@ -99218,7 +99217,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-1/8-4-fluids-conservation-laws-study-guide/",
-      "words": 2544,
+      "words": 2622,
       "sourceFile": "src/content/ap-resources/physics-1/8-4-fluids-conservation-laws-study-guide.md"
     },
     {
@@ -100585,7 +100584,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/10-1-electric-charge-electric-force-study-guide/",
-      "words": 2590,
+      "words": 2631,
       "sourceFile": "src/content/ap-resources/physics-2/10-1-electric-charge-electric-force-study-guide.md"
     },
     {
@@ -100804,7 +100803,7 @@
       "keyPoints": [
         "Charge is conserved: a system's net charge changes only when charge crosses its boundary.",
         "In solids, charging almost always means moving electrons, not protons.",
-        "Rubbing and contact transfer electrons; the two objects gain equal and opposite charges.",
+        "Rubbing and contact can transfer electrons. For an isolated pair, their charge changes are equal and opposite; final charges need not be.",
         "A nearby charge can separate the charges inside a neutral object (induction or polarization) without changing its net charge.",
         "Grounding connects an object to Earth, a huge, nearly neutral system that can give or take electrons freely."
       ],
@@ -100826,7 +100825,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/10-2-conservation-electric-charge-process-charging-study-guide/",
-      "words": 2421,
+      "words": 2483,
       "sourceFile": "src/content/ap-resources/physics-2/10-2-conservation-electric-charge-process-charging-study-guide.md"
     },
     {
@@ -101048,7 +101047,7 @@
         "E points away from positive charges and toward negative charges. A positive charge is pushed along E; a negative charge is pushed opposite to E.",
         "For a point charge E = k|q|/r², so doubling the distance cuts the field to one quarter.",
         "Fields from several charges add as vectors, not as plain numbers.",
-        "In electrostatic equilibrium a conductor has zero field inside, its excess charge on the surface, and a field perpendicular to the surface."
+        "In electrostatic equilibrium a conductor has zero field inside and a perpendicular field at its surface. If no charge is inside a cavity, excess charge lies on the outer surface of the conductor; a charge inside a cavity can induce charge on its inner wall."
       ],
       "faqs": [
         {
@@ -101068,7 +101067,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/10-3-electric-fields-study-guide/",
-      "words": 3377,
+      "words": 3490,
       "sourceFile": "src/content/ap-resources/physics-2/10-3-electric-fields-study-guide.md"
     },
     {
@@ -101310,7 +101309,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/10-4-electric-potential-energy-study-guide/",
-      "words": 2361,
+      "words": 2375,
       "sourceFile": "src/content/ap-resources/physics-2/10-4-electric-potential-energy-study-guide.md"
     },
     {
@@ -101552,7 +101551,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/10-5-electric-potential-study-guide/",
-      "words": 2617,
+      "words": 2691,
       "sourceFile": "src/content/ap-resources/physics-2/10-5-electric-potential-study-guide.md"
     },
     {
@@ -102227,7 +102226,7 @@
       ],
       "learningObjectives": [
         "Define current as the rate at which charge crosses a cross-section of a conductor and use I = ΔQ/Δt",
-        "Explain that a potential difference (emf) from a source makes charge move around a circuit",
+        "Explain how a source emf supplies energy per charge and how a terminal potential difference drives current in a connected circuit",
         "Explain why zero current does not mean the charge carriers are at rest",
         "Give the direction of conventional current and relate it to the motion of electrons or ions",
         "Find the charge that passes a point from the area under a current–time graph"
@@ -102258,7 +102257,7 @@
       ],
       "keyPoints": [
         "Current is the rate at which charge passes through a cross-section of a wire: I = ΔQ/Δt. 1 A = 1 C/s.",
-        "Charge moves around a circuit because a source, such as a battery, keeps a potential difference (emf) across it.",
+        "A source emf supplies energy per charge; a terminal potential difference drives current in a connected circuit.",
         "Zero current means zero net motion of charge. The carriers still move quickly in random directions.",
         "Current is a scalar, but it has a direction: conventional current is the way positive charge would move.",
         "In metal wires the carriers are electrons, so they actually move opposite to the conventional current."
@@ -102281,7 +102280,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/11-1-electric-current-study-guide/",
-      "words": 2640,
+      "words": 2781,
       "sourceFile": "src/content/ap-resources/physics-2/11-1-electric-current-study-guide.md"
     },
     {
@@ -102523,7 +102522,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/11-2-simple-circuits-study-guide/",
-      "words": 2793,
+      "words": 2797,
       "sourceFile": "src/content/ap-resources/physics-2/11-2-simple-circuits-study-guide.md"
     },
     {
@@ -102745,7 +102744,7 @@
         "Resistance R measures how strongly an object opposes the movement of charge. Unit: ohm, 1 Ω = 1 V/A.",
         "For a uniform conductor, R = ρL/A: longer means more resistance, thicker means less.",
         "Resistivity ρ belongs to the material, not the object. For most conductors it rises with temperature.",
-        "Ohm's law: I = ΔV/R. An ohmic element keeps the same R at every current.",
+        "At fixed temperature and other physical conditions, an ohmic element has I proportional to ΔV and a constant R over its stated operating range.",
         "On a graph of I against ΔV, the slope is 1/R. A straight line through the origin means the element is ohmic."
       ],
       "faqs": [
@@ -102766,7 +102765,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/11-3-resistance-resistivity-ohms-law-study-guide/",
-      "words": 2551,
+      "words": 2610,
       "sourceFile": "src/content/ap-resources/physics-2/11-3-resistance-resistivity-ohms-law-study-guide.md"
     },
     {
@@ -103009,7 +103008,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/11-4-electric-power-study-guide/",
-      "words": 2218,
+      "words": 2235,
       "sourceFile": "src/content/ap-resources/physics-2/11-4-electric-power-study-guide.md"
     },
     {
@@ -103254,7 +103253,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/11-5-compound-direct-current-dc-circuits-study-guide/",
-      "words": 3114,
+      "words": 3174,
       "sourceFile": "src/content/ap-resources/physics-2/11-5-compound-direct-current-dc-circuits-study-guide.md"
     },
     {
@@ -103497,7 +103496,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/11-6-kirchhoffs-loop-rule-study-guide/",
-      "words": 2661,
+      "words": 2674,
       "sourceFile": "src/content/ap-resources/physics-2/11-6-kirchhoffs-loop-rule-study-guide.md"
     },
     {
@@ -103740,7 +103739,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/11-7-kirchhoffs-junction-rule-study-guide/",
-      "words": 2120,
+      "words": 2127,
       "sourceFile": "src/content/ap-resources/physics-2/11-7-kirchhoffs-junction-rule-study-guide.md"
     },
     {
@@ -104202,7 +104201,7 @@
       ],
       "keyPoints": [
         "A magnetic field B is a vector field. It exerts forces on moving charges, on currents and on magnetic materials. Its unit is the tesla (T).",
-        "Magnetic fields come from dipoles. A north pole is never found without a south pole: there are no magnetic monopoles.",
+        "A bar magnet is a dipole, so cutting it gives smaller magnets with both poles. No isolated magnetic monopole has been confirmed; the dipole model does not describe every magnetic-field geometry.",
         "Field lines are closed loops. Outside a magnet they run from N to S; inside, from S back to N.",
         "Like poles repel, unlike poles attract, and a compass needle lines up with the field at its position.",
         "Permanent and induced magnetism both come from the alignment of tiny dipoles, made by the motion of electrons.",
@@ -104226,7 +104225,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/12-1-magnetic-fields-study-guide/",
-      "words": 3028,
+      "words": 3406,
       "sourceFile": "src/content/ap-resources/physics-2/12-1-magnetic-fields-study-guide.md"
     },
     {
@@ -104469,7 +104468,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/12-2-magnetism-moving-charges-study-guide/",
-      "words": 3455,
+      "words": 3731,
       "sourceFile": "src/content/ap-resources/physics-2/12-2-magnetism-moving-charges-study-guide.md"
     },
     {
@@ -104706,13 +104705,13 @@
       ],
       "version": "1.0",
       "publishedDate": "2026-10-05",
-      "updatedDate": "2026-10-05",
+      "updatedDate": "2026-11-01",
       "editorialStatus": "drafted",
       "checkedBy": "marlbridge-academic-team",
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/12-3-magnetism-current-carrying-wires-study-guide/",
-      "words": 2906,
+      "words": 3248,
       "sourceFile": "src/content/ap-resources/physics-2/12-3-magnetism-current-carrying-wires-study-guide.md"
     },
     {
@@ -104940,7 +104939,7 @@
       "faqs": [
         {
           "question": "Is the induced emf the same thing as a potential difference?",
-          "answer": "It is measured in volts and drives a current like a battery does, so you can treat it as the emf of a source in the circuit. The difference is where it comes from: a changing magnetic flux rather than a chemical reaction."
+          "answer": "Emf is work per unit charge around a circuit, measured in volts. A changing magnetic flux creates a nonconservative electric field, so the induced emf around a path is not generally a single-valued electrostatic potential difference between two endpoints. In circuit calculations, model it as the emf of a source."
         },
         {
           "question": "Does a loop need to be a closed circuit for an emf to be induced?",
@@ -105682,7 +105681,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/13-3-refraction-study-guide/",
-      "words": 2658,
+      "words": 2872,
       "sourceFile": "src/content/ap-resources/physics-2/13-3-refraction-study-guide.md"
     },
     {
@@ -106171,7 +106170,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/14-1-properties-wave-pulses-waves-study-guide/",
-      "words": 3018,
+      "words": 3040,
       "sourceFile": "src/content/ap-resources/physics-2/14-1-properties-wave-pulses-waves-study-guide.md"
     },
     {
@@ -106366,7 +106365,7 @@
         "Read amplitude, wavelength and period from displacement–position and displacement–time graphs, and tell the two graphs apart",
         "Write and use cosine (or sine) equations for displacement as a function of time at one place, and as a function of position at one time",
         "Use v = fλ to calculate and to predict how wavelength changes when the speed or the frequency changes",
-        "Explain that amplitude does not depend on frequency, link frequency to pitch, and state that energy carried increases with frequency"
+        "Treat source amplitude and frequency as independent inputs, link frequency to pitch, and qualify energy–frequency comparisons by the wave type and held amplitude variable"
       ],
       "skills": [
         "1",
@@ -106396,13 +106395,13 @@
         "Period T is the time for one full oscillation; frequency f is how many repeat each second; T = 1/f.",
         "Wavelength λ is the distance between matching points, such as crest to next crest.",
         "A displacement–time graph shows T; a displacement–position graph shows λ. Always read the horizontal axis first.",
-        "v = fλ. In one medium the speed is fixed, so a higher frequency means a shorter wavelength.",
-        "Amplitude is independent of frequency. Higher frequency sounds have higher pitch, and a wave carries more energy at higher frequency."
+        "v = fλ. In the nondispersive model used for this course, the speed is treated as fixed over the stated frequency range, so a higher frequency means a shorter wavelength.",
+        "Source amplitude and frequency can be chosen independently. Higher frequency sounds have higher pitch. Energy or power comparisons need a specified wave type and held amplitude variable."
       ],
       "faqs": [
         {
           "question": "If I increase the frequency of a source, does the wave travel faster?",
-          "answer": "No. The speed is set by the medium (Topic 14.1). The source sets the frequency. With v fixed, v = fλ means the wavelength must get shorter. Doubling f halves λ."
+          "answer": "In the ideal nondispersive model, the medium fixes the speed over the stated range. The source sets frequency; then v = fλ means a higher frequency has a shorter wavelength. In real materials, dispersion can make speed depend slightly on frequency."
         },
         {
           "question": "Should I use sine or cosine in the wave equation?",
@@ -106417,7 +106416,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/14-2-periodic-waves-study-guide/",
-      "words": 2468,
+      "words": 2521,
       "sourceFile": "src/content/ap-resources/physics-2/14-2-periodic-waves-study-guide.md"
     },
     {
@@ -106637,8 +106636,8 @@
       ],
       "keyPoints": [
         "At a boundary between two media, a wave is partly reflected and partly transmitted.",
-        "If the wave slows down in the new medium, the reflected pulse is inverted. If it speeds up, the reflected pulse is upright.",
-        "The transmitted pulse is never inverted.",
+        "For transverse displacement pulses on two joined strings at the same tension, a slower second string gives an inverted reflection and a faster second string an upright reflection.",
+        "In the equal-tension string displacement model shown here, the transmitted pulse is upright.",
         "Frequency does not change at a boundary. The wavelength changes in proportion to the speed: λ₂/λ₁ = v₂/v₁.",
         "Only transverse waves can be polarized. Polarizing a wave usually reduces its intensity.",
         "Intensity is average power per unit area: I = P/A, in W/m²."
@@ -106661,7 +106660,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/14-3-boundary-behavior-waves-polarization-study-guide/",
-      "words": 2676,
+      "words": 2864,
       "sourceFile": "src/content/ap-resources/physics-2/14-3-boundary-behavior-waves-polarization-study-guide.md"
     },
     {
@@ -106904,7 +106903,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/14-4-electromagnetic-waves-study-guide/",
-      "words": 2366,
+      "words": 2370,
       "sourceFile": "src/content/ap-resources/physics-2/14-4-electromagnetic-waves-study-guide.md"
     },
     {
@@ -107096,10 +107095,10 @@
       "learningObjectives": [
         "Tell apart the rest frequency of a source and the frequency an observer measures",
         "Explain with a wavefront diagram why an approaching source is heard at a higher frequency and a receding one at a lower frequency",
-        "Predict that there is no shift when source and observer share the same velocity",
-        "Compare shifts in different situations: a larger relative speed gives a larger difference from the rest frequency",
+        "Predict no shift when source and observer share the same velocity relative to the same uniform medium (for sound), or have no relative motion (for light)",
+        "For classical sound in still air, compare source and observer radial speeds relative to the air; do not infer an exact shift from source–observer relative speed alone",
         "Describe how the observed pitch of a passing source changes with time",
-        "Apply the same reasoning to light, using red shift and blue shift"
+        "Identify radial red and blue shifts for light, and distinguish them from the medium-dependent sound model"
       ],
       "skills": [
         "1",
@@ -107128,9 +107127,9 @@
       "keyPoints": [
         "The Doppler effect is a difference between the frequency a source emits (its rest frequency) and the frequency an observer measures, caused by relative motion.",
         "Source and observer getting closer: observed frequency is higher. Getting farther apart: observed frequency is lower.",
-        "Same velocity (so the distance between them stays constant): no shift at all.",
-        "A greater relative speed gives a greater difference between observed and rest frequency.",
-        "Light shows the same effect: a receding source is red-shifted (longer λ), an approaching one blue-shifted (shorter λ)."
+        "Same velocity relative to the same uniform medium (so their separation stays constant): no sound shift.",
+        "For sound, the source and observer velocities relative to the medium enter separately; when one radial speed increases with the other conditions fixed, the shift magnitude increases.",
+        "For radial motion in vacuum, light is red-shifted when source and observer recede and blue-shifted when they approach; use the relativistic light model, not the medium-based sound model."
       ],
       "faqs": [
         {
@@ -107144,13 +107143,13 @@
       ],
       "version": "1.0",
       "publishedDate": "2026-10-05",
-      "updatedDate": "2026-10-05",
+      "updatedDate": "2026-11-01",
       "editorialStatus": "drafted",
       "checkedBy": "marlbridge-academic-team",
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/14-5-doppler-effect-study-guide/",
-      "words": 2451,
+      "words": 3016,
       "sourceFile": "src/content/ap-resources/physics-2/14-5-doppler-effect-study-guide.md"
     },
     {
@@ -110328,7 +110327,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/9-1-kinetic-theory-temperature-pressure-study-guide/",
-      "words": 3027,
+      "words": 3068,
       "sourceFile": "src/content/ap-resources/physics-2/9-1-kinetic-theory-temperature-pressure-study-guide.md"
     },
     {
@@ -110818,7 +110817,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/9-3-thermal-energy-transfer-equilibrium-study-guide/",
-      "words": 3291,
+      "words": 3372,
       "sourceFile": "src/content/ap-resources/physics-2/9-3-thermal-energy-transfer-equilibrium-study-guide.md"
     },
     {
@@ -111057,7 +111056,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/9-4-first-law-of-thermodynamics-study-guide/",
-      "words": 2350,
+      "words": 2495,
       "sourceFile": "src/content/ap-resources/physics-2/9-4-first-law-of-thermodynamics-study-guide.md"
     },
     {
@@ -111300,7 +111299,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/9-5-specific-heat-thermal-conductivity-study-guide/",
-      "words": 2596,
+      "words": 2660,
       "sourceFile": "src/content/ap-resources/physics-2/9-5-specific-heat-thermal-conductivity-study-guide.md"
     },
     {
@@ -111487,7 +111486,7 @@
         "mb-ap-phys2-9.5-study-guide"
       ],
       "learningObjectives": [
-        "Describe entropy as a measure of how spread out a system's energy is, and of how much of that energy cannot be used to do work",
+        "Describe energy spreading as a qualitative entropy model, and explain how entropy and the surroundings constrain available work",
         "State the second law for an isolated system and use it to predict which way a spontaneous process goes",
         "Explain why entropy is a state function, so its change depends only on the start and end states",
         "Explain why an isolated system moves toward thermodynamic equilibrium, where its entropy is greatest",
@@ -111543,7 +111542,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-2/9-6-entropy-second-law-thermodynamics-study-guide/",
-      "words": 2875,
+      "words": 2998,
       "sourceFile": "src/content/ap-resources/physics-2/9-6-entropy-second-law-thermodynamics-study-guide.md"
     },
     {
@@ -112824,7 +112823,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/10-1-electrostatics-conductors-study-guide/",
-      "words": 2635,
+      "words": 2945,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/10-1-electrostatics-conductors-study-guide.md"
     },
     {
@@ -113064,7 +113063,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/10-2-redistribution-charge-between-conductors-study-guide/",
-      "words": 2111,
+      "words": 2442,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/10-2-redistribution-charge-between-conductors-study-guide.md"
     },
     {
@@ -113309,7 +113308,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/10-3-capacitors-study-guide/",
-      "words": 2699,
+      "words": 3028,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/10-3-capacitors-study-guide.md"
     },
     {
@@ -113737,7 +113736,7 @@
       ],
       "learningObjectives": [
         "Define current as the rate of charge flow through a cross-section and use I = dq/dt in both directions",
-        "Explain drift velocity and derive I = nqv_dA from a model of moving charge carriers",
+        "Explain mean drift velocity and derive the current-magnitude relation |I| = n|q|v_dA from a one-species transport model",
         "Explain why zero current does not mean the charge carriers are at rest",
         "Use current density as a vector, J = nqv_d, and relate it to the field in a conductor with E = ρJ",
         "Find the total current from a non-uniform current density by integrating J over the cross-section",
@@ -113769,7 +113768,7 @@
       ],
       "keyPoints": [
         "Current is the rate at which charge crosses a cross-section: I = dq/dt, measured in amperes (1 A = 1 C/s).",
-        "Charge carriers move randomly at high speed; a potential difference adds a slow average drift, so I = nqv_dA.",
+        "Thermal motion averages to zero net current; a slow mean drift gives |I| = n|q|v_dA for one carrier species.",
         "Zero current means zero net motion of carriers, not carriers at rest.",
         "Current density J = nqv_d is a vector; the field in a conductor is E = ρJ, and the total current is I = ∫J·dA.",
         "Current has a direction along the wire but is a scalar: currents at a junction add as numbers, not as vectors.",
@@ -113793,7 +113792,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/11-1-electric-current-study-guide/",
-      "words": 2696,
+      "words": 2745,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/11-1-electric-current-study-guide.md"
     },
     {
@@ -114032,7 +114031,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/11-2-simple-circuits-study-guide/",
-      "words": 2915,
+      "words": 2984,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/11-2-simple-circuits-study-guide.md"
     },
     {
@@ -114273,7 +114272,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/11-3-resistance-resistivity-ohms-law-study-guide/",
-      "words": 2793,
+      "words": 2960,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/11-3-resistance-resistivity-ohms-law-study-guide.md"
     },
     {
@@ -114513,7 +114512,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/11-4-electric-power-study-guide/",
-      "words": 2674,
+      "words": 2676,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/11-4-electric-power-study-guide.md"
     },
     {
@@ -114752,7 +114751,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/11-5-compound-direct-current-circuits-study-guide/",
-      "words": 2800,
+      "words": 2821,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/11-5-compound-direct-current-circuits-study-guide.md"
     },
     {
@@ -115232,7 +115231,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/11-7-kirchhoffs-junction-rule-study-guide/",
-      "words": 2758,
+      "words": 2785,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/11-7-kirchhoffs-junction-rule-study-guide.md"
     },
     {
@@ -115472,7 +115471,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/11-8-resistor-capacitor-rc-circuits-study-guide/",
-      "words": 2892,
+      "words": 2913,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/11-8-resistor-capacitor-rc-circuits-study-guide.md"
     },
     {
@@ -115661,8 +115660,8 @@
         "mb-ap-physcem-11.8-study-guide"
       ],
       "learningObjectives": [
-        "Describe a magnetic field as a vector field and read or draw a field-line map for a magnet",
-        "Use Gauss's law for magnetism to explain why field lines close and why poles always come in pairs",
+        "Describe a magnetic field as a vector field and read or draw a field-line map for a bar magnet",
+        "Use Gauss's law for magnetism to explain zero net flux through a closed surface, and explain why cutting an ordinary bar magnet yields two dipoles",
         "Calculate the magnetic flux through parts of a closed surface and use the zero total to find a missing part",
         "Explain permanent and induced magnetism, and ferromagnetic, paramagnetic and diamagnetic behaviour, in terms of dipole alignment",
         "Describe Earth's field as a dipole field and explain what magnetic permeability measures and why it varies"
@@ -115693,9 +115692,9 @@
       ],
       "keyPoints": [
         "A magnetic field B is a vector field. It tells you the magnetic force on moving charges, currents and magnetic materials. Its unit is the tesla (T).",
-        "There are no magnetic monopoles. Every source of B is a dipole or a set of dipoles, so north and south poles always come together.",
-        "Gauss's law for magnetism: ∮B·dA = 0 for every closed surface. Field lines form closed loops; outside a magnet they run from N to S, inside from S to N.",
-        "Magnetism in materials comes from the circulating and spinning motion of electrons. Aligned dipoles give permanent or induced magnetism.",
+        "No isolated magnetic monopole has been confirmed. Ordinary bar magnets have paired poles; currents and moving charges can produce magnetic-field geometries that are not point-dipole fields.",
+        "Gauss's law for magnetism: ∮B·dA = 0 for every closed surface. A bar-magnet dipole has loops from N to S outside and S to N inside; other field configurations need not close within the modeled region.",
+        "Orbital motion and intrinsic quantum angular momentum contribute magnetic moments; electron spin is not literal rotation of a charged ball. Bulk magnetisation depends on how atomic moments align.",
         "Permeability μ measures how strongly a material magnetises. Free space has the constant μ₀; for real materials μ is not a constant."
       ],
       "faqs": [
@@ -115716,7 +115715,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/12-1-magnetic-fields-study-guide/",
-      "words": 2604,
+      "words": 3004,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/12-1-magnetic-fields-study-guide.md"
     },
     {
@@ -115960,7 +115959,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/12-2-magnetism-moving-charges-study-guide/",
-      "words": 2273,
+      "words": 2584,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/12-2-magnetism-moving-charges-study-guide.md"
     },
     {
@@ -116200,7 +116199,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/12-3-magnetic-fields-current-carrying-wires-study-guide/",
-      "words": 2650,
+      "words": 3330,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/12-3-magnetic-fields-current-carrying-wires-study-guide.md"
     },
     {
@@ -116440,7 +116439,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/12-4-amp-res-law-study-guide/",
-      "words": 2936,
+      "words": 3446,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/12-4-amp-res-law-study-guide.md"
     },
     {
@@ -116678,7 +116677,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/13-1-magnetic-flux-study-guide/",
-      "words": 2493,
+      "words": 2743,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/13-1-magnetic-flux-study-guide.md"
     },
     {
@@ -116919,7 +116918,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/13-2-electromagnetic-induction-study-guide/",
-      "words": 2613,
+      "words": 2949,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/13-2-electromagnetic-induction-study-guide.md"
     },
     {
@@ -117158,7 +117157,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/13-3-induced-currents-magnetic-forces-study-guide/",
-      "words": 2728,
+      "words": 2811,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/13-3-induced-currents-magnetic-forces-study-guide.md"
     },
     {
@@ -117397,7 +117396,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/13-4-inductance-study-guide/",
-      "words": 2193,
+      "words": 2321,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/13-4-inductance-study-guide.md"
     },
     {
@@ -117874,7 +117873,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/13-6-circuits-capacitors-inductors-lc-circuits-study-guide/",
-      "words": 2124,
+      "words": 2307,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/13-6-circuits-capacitors-inductors-lc-circuits-study-guide.md"
     },
     {
@@ -118062,7 +118061,7 @@
         "Describe charge as a scalar property that comes in whole-number multiples of e",
         "Use Coulomb's law to find the size and direction of the force between two point charges",
         "Add Coulomb forces as vectors to find the net force from up to four charges",
-        "Compare electric and gravitational forces and explain why gravity dominates at large scales",
+        "Compare electric and gravitational forces and explain why gravity can dominate the large-scale dynamics of nearly neutral bulk matter",
         "Explain permittivity and polarisation, and the difference between conductors and insulators"
       ],
       "skills": [
@@ -118094,7 +118093,7 @@
         "Coulomb's law: F = |q₁q₂|/(4πε₀r²), directed along the line joining the charges.",
         "Like charges repel; unlike charges attract. The two forces in a pair are equal and opposite.",
         "With several charges, find each pair force separately, then add them as vectors.",
-        "The electric force between two particles is far larger than their gravitational force, but large bodies are almost neutral, so gravity wins at large scales."
+        "Electric forces between charged particles can be far larger than gravity. In nearly neutral bulk matter, electric effects often cancel substantially; gravitational source mass is positive, but gravitational forces still add as vectors and may cancel directionally."
       ],
       "faqs": [
         {
@@ -118114,7 +118113,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/8-1-electric-charge-electric-force-study-guide/",
-      "words": 2961,
+      "words": 2987,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/8-1-electric-charge-electric-force-study-guide.md"
     },
     {
@@ -118338,7 +118337,7 @@
         "Charge is conserved: a system's net charge changes only when charge crosses its boundary.",
         "In solids, charging almost always means moving electrons. Protons stay in their nuclei.",
         "Friction and contact move charge between objects; induction rearranges charge inside an object without touching it.",
-        "A neutral object can be polarized, and a charged object always attracts a neutral one.",
+        "A neutral object can be polarized; a charged rod attracts a small neutral polarizable object in the usual non-uniform-field demonstration.",
         "Grounding connects an object to a huge, nearly neutral reservoir such as Earth, which can give or take electrons."
       ],
       "faqs": [
@@ -118359,7 +118358,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/8-2-conservation-electric-charge-process-charging-study-guide/",
-      "words": 2344,
+      "words": 2488,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/8-2-conservation-electric-charge-process-charging-study-guide.md"
     },
     {
@@ -118602,7 +118601,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/8-3-electric-fields-study-guide/",
-      "words": 4981,
+      "words": 5372,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/8-3-electric-fields-study-guide.md"
     },
     {
@@ -118845,7 +118844,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/8-4-electric-fields-charge-distributions-study-guide/",
-      "words": 3227,
+      "words": 3459,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/8-4-electric-fields-charge-distributions-study-guide.md"
     },
     {
@@ -119084,7 +119083,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/8-5-electric-flux-study-guide/",
-      "words": 2613,
+      "words": 2691,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/8-5-electric-flux-study-guide.md"
     },
     {
@@ -119320,7 +119319,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/8-6-gauss-law-study-guide/",
-      "words": 1958,
+      "words": 2219,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/8-6-gauss-law-study-guide.md"
     },
     {
@@ -119559,7 +119558,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/9-1-electric-potential-energy-study-guide/",
-      "words": 2226,
+      "words": 2245,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/9-1-electric-potential-energy-study-guide.md"
     },
     {
@@ -119799,7 +119798,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/9-2-electric-potential-study-guide/",
-      "words": 2461,
+      "words": 2573,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/9-2-electric-potential-study-guide.md"
     },
     {
@@ -120039,7 +120038,7 @@
       "checkedDate": "2026-10-05",
       "author": "marlbridge-academic-team",
       "url": "/advanced-course-resources/physics-c-electricity-and-magnetism/9-3-conservation-electric-energy-study-guide/",
-      "words": 2213,
+      "words": 2314,
       "sourceFile": "src/content/ap-resources/physics-c-electricity-and-magnetism/9-3-conservation-electric-energy-study-guide.md"
     },
     {
@@ -145192,7 +145191,7 @@
     {
       "resourceId": "mb-ap-stats-exam-skills-task-verbs",
       "title": "Task Verbs and Free-Response Technique: Exam Skills Guide (Statistics)",
-      "description": "What each free-response task verb asks you to do, how much to write, how to read a multi-part question, plan your time and show work, with original worked examples.",
+      "description": "What each free-response task verb asks for in statistics answers, how much to write, how to read a multi-part question, plan your time and show work, with original examples.",
       "course": "statistics",
       "unit": 1,
       "topics": [],

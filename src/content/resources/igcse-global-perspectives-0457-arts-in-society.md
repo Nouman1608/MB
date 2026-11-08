@@ -163,6 +163,23 @@ The syllabus lists posters, leaflets, web pages, videos (10 minutes maximum), pr
 
 Practise on unseen sources with the [Arts in society practice questions](/resources/igcse-global-perspectives-0457-arts-in-society-practice/). For the exam, read [The Written Exam guide](/resources/igcse-cambridge-global-perspectives-written-exam/), the [Global Perspectives revision notes](/resources/global-perspectives-revision-notes/) and the [Global Perspectives practice set](/resources/global-perspectives-practice/).
 
+## Frequently asked questions
+
+**What is a perspective in IGCSE Global Perspectives 0457?**
+The syllabus defines a perspective as a viewpoint on an issue based on evidence and reasoning. Strong answers say who holds the view and why.
+
+**What is restitution in the Arts in society topic?**
+Restitution means returning an object to the people or country it was taken from. The return of cultural objects such as the Benin Bronzes is a global issue with contrasting perspectives.
+
+**What is the Bilbao effect?**
+It refers to the claim that the Guggenheim Museum Bilbao helped the city's economy after it opened. Be careful: a city building a gallery and then growing does not prove the gallery caused the growth.
+
+**Why should you be cautious about arts economic impact reports?**
+Economic impact reports are often paid for by the organisation they describe, which may have a vested interest in more funding. Check who produced the figures and how.
+
+**Can the Team Project be based on a global arts issue?**
+No. The Team Project starts from a local issue, and the team must carry out an action whose success it can measure. The Individual Report is the component based on a global issue.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). The topic list and the meanings of issue and perspective are in section 3; the assessment objectives are in section 2; the components and command words are in section 4.

@@ -240,6 +240,20 @@ Even a correct tax can fail on cost. If the tax of 1.5 removes a welfare loss of
 - Calling any policy that has side effects "government failure" without comparing welfare before and after.
 - Evaluating with a list of side effects and no judgement about which matters most.
 
+## Frequently asked questions
+
+**What is the difference between a specific tax and an ad valorem tax?**
+A specific tax takes the same amount from every unit sold. An ad valorem tax is a percentage of the price, so the amount per unit rises with the price.
+
+**Why is a corrective tax hard to set at the right level?**
+The tax should equal the external cost per unit, but the government may not know that cost. If it mis-estimates it, the tax can leave a welfare loss or create a new one.
+
+**What problems can a rent cap cause?**
+A maximum rent set below equilibrium creates a shortage, which can lead to rationing by queue or connections, lower quality and less new building.
+
+**Which Edexcel International A Level Economics section covers government intervention?**
+Section 1.3.6 in Unit 1 of the Pearson Edexcel International A Level Economics specification covers taxes, subsidies, price controls, permits, property rights, state provision, regulation, information and government failure.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, Pearson Education Limited. This page covers section 1.3.6 items 1 and 2 of Unit 1.

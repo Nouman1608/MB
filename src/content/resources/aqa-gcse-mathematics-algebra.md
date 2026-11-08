@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "algebra-aqa-gcse-maths"
 description: "Notation and manipulation, graphs, solving equations and inequalities, and sequences -- the full content of Topic 2 Algebra for AQA GCSE Mathematics (8300)."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This guide covers **Topic 2 Algebra**, the second of six topic areas
@@ -199,6 +199,20 @@ into contextual, multi-step problems on this specification, practise
 past-paper questions that combine algebra with another topic area
 rather than only questions labelled "Algebra," since that is closer to
 how AQA actually assesses it.
+
+## Frequently asked questions
+
+**What are the four parts of AQA GCSE Maths Topic 2 Algebra?**
+Topic 2 Algebra in AQA GCSE Mathematics 8300 has four sub-sections: 3.2.1 notation, vocabulary and manipulation; 3.2.2 graphs; 3.2.3 solving equations and inequalities; and 3.2.4 sequences.
+
+**Which algebra topics are Higher tier only in AQA GCSE Maths?**
+Higher-tier-only content includes factorising ax² + bx + c, completing the square and the quadratic formula, perpendicular lines, exponential and trigonometric graphs, composite and inverse functions, algebraic proof, circle equations, quadratic sequences, iteration and quadratic inequalities.
+
+**Is solving quadratics by factorising on the Foundation paper?**
+Yes. Solving quadratic equations by factorising (A18) is Foundation tier content, while equations needing completing the square or the quadratic formula are Higher tier only.
+
+**Which paper is algebra tested on in AQA GCSE Maths?**
+Algebra is assessed across all three papers, and questions often combine it with number, ratio or geometry rather than testing it on its own.
 
 ## Related resources
 

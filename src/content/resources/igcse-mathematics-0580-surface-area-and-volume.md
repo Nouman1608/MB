@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "mensuration-cambridge-igcse-maths"
     subtopic: "surface-area-and-volume-cambridge-igcse-maths"
-description: "Cambridge IGCSE Maths 0580 subtopic 5.4 study guide: surface area and volume of cuboids, prisms, cylinders, spheres, pyramids and cones."
+description: "Cambridge IGCSE Maths 0580 subtopic 5.4 study guide: surface area and volume of cuboids, prisms, cylinders, spheres, pyramids and cones, with worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
 featured: false
@@ -312,6 +312,23 @@ Round **down**: the 71st sphere would need more metal than is left.
 ## Where this leads
 
 Subtopic 5.5 applies these formulas to compound solids and parts of solids. The [Mensuration revision notes](/resources/igcse-mathematics-mensuration-revision-notes/) summarise the formulas for quick recall. Test yourself with the [Mensuration practice questions](/resources/igcse-mathematics-mensuration-practice/), and revise right-angled triangles with the [Pythagoras’ theorem study guide](/resources/igcse-mathematics-0580-pythagoras-theorem/). To check where you stand across the course, try the [Core diagnostic](/practice/0580/diagnostic/core/) or the [Extended diagnostic](/practice/0580/diagnostic/extended/).
+
+## Frequently asked questions
+
+**Which surface area and volume formulas are given in the 0580 exam?**
+Page 2 of every 0580 paper lists the curved surface areas of a cylinder and a cone, the surface area of a sphere, and the volumes of a prism, pyramid, cylinder, cone and sphere. It gives only the curved part of a cylinder and a cone, so add the circular end or ends yourself for a total surface area.
+
+**Do you use slant height or perpendicular height for the volume of a cone?**
+Use the perpendicular height for the volume of both a cone and a pyramid. Using the slant height in a volume formula is a common error.
+
+**Why is there a 1/3 in the volume of a pyramid?**
+A pyramid or cone has one third of the volume of the prism or cylinder with the same base and height, so the formula is (1/3) × base area × height.
+
+**Should you use 3.14 for π?**
+No. Use the π key on your calculator, or 3.142 if told to, and round only the final answer. Using 3.14 or rounding part-way can push the answer outside the accepted range.
+
+**Is surface area and volume the same for Core and Extended 0580?**
+Yes. The learning outcome for subtopic 5.4 is word-for-word the same for Core and Extended in Cambridge IGCSE Mathematics 0580.
 
 ## Official syllabus
 

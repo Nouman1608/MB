@@ -145,6 +145,20 @@ These questions cover parametric equations of curves for OCR A Level Mathematics
 - Stopping at the Cartesian equation when the question asks for a restriction.
 - Giving a bare number with no unit in a modelling question.
 
+## Frequently asked questions
+
+**Why do you need to state a range after eliminating a trigonometric parameter?**
+Because sin θ and cos θ lie between −1 and 1, x or y may be restricted. For example, x = 3 − 2cos θ gives 1 ≤ x ≤ 5, and leaving this out loses marks.
+
+**How do you show a parametric "show that" step clearly?**
+Write down the identity you use, such as sin²θ + cos²θ ≡ 1, and show each stage of rearranging to reach the given Cartesian equation.
+
+**How do you decide whether two particles collide?**
+Both particles must be at the same point at the same time, so use the same value of the parameter for both. Checking the time from one particle only is not enough.
+
+**Should you work in degrees or radians in parametric models?**
+If the model contains π, for example πt/15, work in radians. Mixing degrees and radians is a common error.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in-revision-notes/) for the method boxes.

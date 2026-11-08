@@ -147,6 +147,20 @@ Links: the [Business hub](/boards/edexcel/gcse/business/), the [printable checkl
 - Find weak spots with the [free diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What do these quantitative business data questions cover?**
+They follow Pearson Edexcel GCSE Business (1BS0) Theme 2 item 2.4.2: taking information from graphs and charts, and using financial, marketing and market data, plus the use and limitations of financial information.
+
+**What does the command word Identify mean in a data question?**
+Identify asks you to select the answer by reading a graph or table, so give the value and its unit. Calculate asks for working to be shown.
+
+**What are the most common mistakes in business data calculations?**
+Dividing a percentage change by the new figure instead of the original, giving a percentage change without saying whether it is an increase or decrease, mixing up gross and net profit margins, and forgetting to divide by the number of years in an average rate of return.
+
+**Does higher sales always mean a higher market share?**
+No. If the whole market grows faster than the business's sales, its market share falls even though its sales have risen.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2, Topic 2.4 Making financial decisions, item 2.4.2.

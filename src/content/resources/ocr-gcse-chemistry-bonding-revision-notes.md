@@ -298,6 +298,19 @@ For a ball and stick model of a simple molecule, just count each colour of ball.
   <figcaption>Electronic configurations 1-20 and how to read group and period from them.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between ionic, covalent and metallic bonding?**
+Ionic bonding is the electrostatic attraction between positive and negative ions formed by electron transfer. Covalent bonding is a shared pair of electrons between two non-metal atoms, and metallic bonding is the attraction between positive metal ions and delocalised electrons.
+
+**What do the group and period numbers tell you about an atom?**
+For groups 1 to 7, the group number is the number of electrons in the outer shell, and group 0 atoms have a full outer shell. The period number is the number of occupied electron shells.
+
+**Why does reactivity increase down group 1?**
+Each element down group 1 has an extra shell, so the single outer electron is further from the nucleus and screened by more inner electrons. It is attracted less strongly and lost more easily, so reactivity increases.
+
+**What is the difference between a covalent bond and an intermolecular force?**
+A covalent bond joins atoms within one molecule and is strong. An intermolecular force acts between neighbouring molecules and is weak, which is why simple molecular substances melt without their molecules splitting.
 
 ## Official syllabus
 

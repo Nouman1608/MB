@@ -22,11 +22,11 @@ syllabusTopics:
     subtopic: "investigation-of-limiting-factors-cambridge-alevel"
 description: "Quick-recall notes on chloroplasts, pigments, Rf, cyclic and non-cyclic photophosphorylation, the Calvin cycle and limiting factors for Cambridge 9700."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 These revision notes condense Topic 13, Photosynthesis, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. They cover sections 13.1 (Photosynthesis as an energy transfer process) and 13.2 (Investigation of limiting factors). This is A Level content, examined in Paper 4; the investigations also feed the planning and analysis skills tested in Paper 5. For full explanations and worked examples, use the [photosynthesis study guide](/resources/a-level-biology-9700-photosynthesis/).
@@ -267,6 +267,23 @@ Light-dependent stage → **ATP + reduced NADP** → used in the Calvin cycle to
 - Explaining temperature effects on the light-dependent stage instead of on the **enzymes of the Calvin cycle**.
 - Measuring Rf to the top edge of a spot, or quoting it with units.
 - Giving bubble counts as a precise measure of oxygen volume; bubbles vary in size.
+
+## Frequently asked questions
+
+**What is the difference between an absorption spectrum and an action spectrum?**
+An absorption spectrum shows the light absorbed by a pigment at each wavelength; an action spectrum shows the rate of photosynthesis at each wavelength.
+
+**How do you calculate an Rf value?**
+Divide the distance moved by the pigment by the distance moved by the solvent front, both measured from the origin. Match it to reference values for the same solvent.
+
+**Where are protons pumped during photophosphorylation?**
+Protons are transferred from the stroma into the thylakoid space, then return to the stroma by facilitated diffusion through ATP synthase, which makes ATP.
+
+**What are GP and TP used for?**
+GP is used to make some amino acids. TP is used to make carbohydrates, lipids and amino acids, and most TP is used to regenerate RuBP.
+
+**Why are bubble counts not a precise measure of oxygen?**
+Bubbles vary in size, so counting them does not give an accurate volume. Collecting gas in a capillary tube or gas syringe is more reliable.
 
 ## Official syllabus
 

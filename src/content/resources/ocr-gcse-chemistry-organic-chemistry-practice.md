@@ -198,6 +198,20 @@ Find other J248 topics through the [chemistry hub for OCR GCSE](/boards/ocr/gcse
 - [J248 checklist to print and tick](/checklists/ocr/gcse/chemistry/)
 - [Every J248 topic on the hub](/boards/ocr/gcse/chemistry/)
 
+## Frequently asked questions
+
+**What does OCR GCSE Chemistry C6.2 Organic chemistry cover?**
+Sub-topic C6.2 of OCR GCSE (9–1) Chemistry A (J248) covers homologous series, organic reactions, addition and condensation polymers, natural polymers, crude oil and fractional distillation, cracking, and cells and fuel cells. Condensation polymers and making nylon are Higher Tier only.
+
+**What are common mistakes in organic chemistry questions?**
+Frequent errors include writing "clear" instead of colourless for bromine water, leaving the –COOH carbon out of an acid's name, forgetting the nickel catalyst for hydrogen addition, keeping a double bond in an addition polymer's repeat unit, and giving only "heat" for cracking.
+
+**How do you answer an "evaluate" question on fuel cells?**
+Give advantages, such as only water being produced at the point of use and continuous running, and disadvantages, such as hydrogen storage, flammability and cost, then reach a judgement for the stated use. Listing only advantages loses marks.
+
+**How do you explain boiling point differences between crude oil fractions?**
+Link chain length to the strength of the intermolecular forces and the energy needed to overcome them. Explaining boiling points with covalent bonds breaking is a common mistake.
+
 ## Official syllabus
 
 Published by OCR: Version 4.0 (August 2026) of specification J248, for the GCSE (9–1) in Chemistry A, Gateway Science, first assessed in 2018. Content taken from it: sub-topic C6.2 Organic chemistry, statements C6.2a–C6.2q, maths outcome CM6.2i, and the practical suggestions "Use of models" and "Making nylon".

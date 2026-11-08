@@ -22,14 +22,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "inheritance-cambridge-igcse-biology"
     subtopic: "meiosis-cambridge-igcse-biology"
-description: "Original exam-style questions with full worked answers on genes and alleles, sex determination, monohybrid crosses, sex linkage, mitosis and meiosis, and stem cells and gene expression, for Cambridge IGCSE Biology (0610)."
+description: "Exam-style inheritance questions with worked answers on alleles, sex determination, monohybrid crosses, sex linkage and cell division for Cambridge IGCSE 0610."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -158,3 +158,14 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 - Assuming every division that produces gametes is meiosis, even in haploid organisms.
 - Saying specialised cells have lost genes, instead of saying different genes are expressed.
 - Skipping the genetic diagram, which often carries marks of its own.
+
+## Frequently asked questions
+
+**Which inheritance topics are Extended only in Cambridge IGCSE Biology 0610?**
+Sex linkage, mitosis and meiosis, stem cells and gene expression are Supplement content, so the questions on them here are marked Extended. Genes, alleles, sex inheritance and monohybrid crosses are Core.
+
+**Why should you always draw the full genetic diagram?**
+Each line of a genetic diagram, from parents' phenotypes and genotypes to gametes and offspring, can carry marks of its own. Skipping straight to the ratio risks losing those marks even if the final answer is right.
+
+**How do these questions relate to the real exam?**
+Each original question practises a skill tested in the Cambridge IGCSE Biology 0610 June 2024 Paper 42, and where a close match exists the answer points to the real question to try next.

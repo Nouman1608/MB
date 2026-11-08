@@ -217,6 +217,23 @@ Evaluation: the benefit to employers is short-run and depends on weak enforcemen
 - Calling any pay gap discrimination without separating explained from unexplained parts.
 - Forgetting that wage discrimination needs market power.
 
+## Frequently asked questions
+
+**What does a national minimum wage do in a competitive labour market?**
+Set above the equilibrium wage, it acts as a price floor: employment falls and more people want to work, creating excess supply of labour.
+
+**Can a minimum wage increase employment?**
+Yes, under monopsony. A floor set between the monopsony wage and the competitive wage can raise both the wage and employment.
+
+**What are the conditions for wage discrimination?**
+Employer power over wages, separable groups of workers, different elasticities of labour supply, barriers to mobility, and prejudice or weak competition.
+
+**Which group is paid less under wage discrimination?**
+The group whose labour supply is less elastic is paid the lower wage, even if its workers are equally productive.
+
+**What are the disadvantages of a minimum wage?**
+It may cause unemployment among the young and low-skilled, raise costs and prices, be poorly targeted at poor households, and lead firms to cut hours, training or hiring.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification (7135 and 7136), first teaching from September 2015, version 1.3, published by AQA. Sections 4.1.6.6 and 4.1.6.7.

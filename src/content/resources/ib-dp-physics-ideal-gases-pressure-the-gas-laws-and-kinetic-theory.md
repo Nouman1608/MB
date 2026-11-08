@@ -242,6 +242,20 @@ On an isothermal curve PV is the same everywhere. A curve further from the axes 
 - Forgetting that v² in P = (1/3)ρv² is the mean of squared speeds.
 - Using (3/2)kBT as the energy of the whole gas rather than of one molecule.
 
+## Frequently asked questions
+
+**Which gas laws does the IB DP Physics guide require?**
+The guide restricts the laws to three empirical results, each with one quantity held fixed, together with the full ideal gas equation. Temperature in every gas equation is in kelvin.
+
+**Does P = (1/3)ρv² only apply to a cubic container?**
+No. The derivation uses a cube for convenience, but the result holds for any container shape.
+
+**Is a gas at high pressure more ideal?**
+No, the reverse is true. A real gas behaves most like an ideal gas at low pressure, low density and high temperature, well above its condensation point.
+
+**How are R and kB related?**
+The molar gas constant is R = NAkB. Since 6.02 × 10²³ × 1.38 × 10⁻²³ = 8.31, PV = nRT and PV = NkBT agree.
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. This page covers section B.3 (Gas laws).

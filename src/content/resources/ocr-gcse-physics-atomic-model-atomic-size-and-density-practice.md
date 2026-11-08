@@ -152,6 +152,20 @@ Course links: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable chec
 - Explaining low gas density using lighter or smaller particles instead of larger spacing.
 - Giving an error source with no direction of effect on the result.
 
+## Frequently asked questions
+
+**What are the most common mistakes in atomic model and density questions?**
+Common errors include giving the plum pudding model a nucleus, calling the nucleus the biggest part of the atom rather than the heaviest, and not converting grams to kilograms or cm³ to m³ before using the density equation. Treating 1 g/cm³ as 100 kg/m³ is another frequent slip.
+
+**How do you answer an alpha scattering question for full marks?**
+Give each observation and say what it shows: most alpha particles passing straight through shows the atom is mostly empty space, and a few large deflections show a small, dense, positively charged nucleus. Listing observations without conclusions loses marks.
+
+**How do you explain why a gas has a low density?**
+Explain it in terms of spacing: the particles in a gas are far apart with empty space between them, so a given volume contains far fewer particles and much less mass. Saying the particles are lighter or smaller is wrong.
+
+**How should you describe an error in a density experiment?**
+Name the source of error and say which way it affects the result, for example whether it makes the measured volume, and so the density, too large or too small. An error source with no direction of effect earns less credit.
+
 ## Next steps
 
 - Review with the [revision notes](/resources/ocr-gcse-physics-atomic-model-atomic-size-and-density-revision-notes/) or the [study guide](/resources/ocr-gcse-physics-atomic-model-atomic-size-and-density/).

@@ -207,6 +207,23 @@ Exam wording to use: for sensitivity, write "summation"; for acuity, write "sepa
 </figure>
 
 
+## Frequently asked questions
+
+**What is the difference between a taxis and a kinesis?**
+A taxis is a directional movement towards or away from a stimulus. A kinesis is a non-directional change in the speed of movement or rate of turning. Both keep a mobile organism in a favourable environment.
+
+**Does IAA have the same effect in shoots and roots?**
+No. A high IAA concentration stimulates cell elongation in shoots but inhibits elongation in roots.
+
+**Why is a simple reflex fast?**
+The pathway is short, from receptor through sensory, relay and motor neurones to the effector, with few synapses, and no decision is needed.
+
+**How does a Pacinian corpuscle produce a generator potential?**
+Pressure deforms the lamellae and stretches the neurone membrane, widening stretch-mediated sodium ion channels. Na⁺ diffuses in and the depolarisation is the generator potential; if it reaches threshold, an action potential is produced.
+
+**What is the difference between sensitivity and acuity in the retina?**
+Sensitivity is about detecting dim light: many rods connect to one bipolar neurone, so their effects summate. Acuity is about seeing fine detail: each cone connects to its own bipolar neurone.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification for first teaching 2015, published by AQA (sections 3.6.1.1 and 3.6.1.2).

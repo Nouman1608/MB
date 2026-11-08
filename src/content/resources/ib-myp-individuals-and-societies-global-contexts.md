@@ -196,6 +196,20 @@ The context also guides **strand iii**. A fairness question needs data that comp
 
 Test your recall with the [revision notes](/resources/ib-myp-individuals-and-societies-global-contexts-revision-notes/), then try the [practice questions](/resources/ib-myp-individuals-and-societies-global-contexts-practice/). The [subject guide](/resources/ib-myp-individuals-and-societies-subject-guide/) gives the course overview.
 
+## Frequently asked questions
+
+**Which global context do most MYP Individuals and Societies inquiries use?**
+The guide notes that many inquiries in this subject focus on orientation in space and time. Teachers are also encouraged to offer units in the other five contexts.
+
+**Does the MYP guide give a list of topics for each global context?**
+No. The guide lists the six contexts but gives no fixed list of topics for each; its own examples come from a table of example statements of inquiry, with each context used once.
+
+**What is the purpose of a global context in MYP?**
+It gives the real-world angle of a unit and shows why the inquiry matters to people and the planet. The guide says global contexts point learning towards common humanity and shared guardianship of the planet.
+
+**How can a global context help with Criterion B?**
+The global context can be used to justify why a research question matters, linking the investigation to its real-world relevance.
+
 ## Official syllabus
 
 This page is aligned to the IB *MYP Individuals and societies guide* (for use from September 2014/January 2015; published May 2014, updated April 2021), published by the International Baccalaureate Organization. It draws on the guide's sections on global contexts, statements of inquiry and the year 5 objectives and Criterion B descriptors.

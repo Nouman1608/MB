@@ -42,12 +42,12 @@ syllabusTopics:
     subtopic: "noble-gases"
 description: "Original exam-style practice questions with full worked answers on group trends, electron configuration and transition metals."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -145,3 +145,17 @@ from different underlying causes — halogen reactivity does not
 in the same order.
 
 For condensed recall notes on this topic, see the [The Periodic Table revision notes](/resources/periodic-table-revision-notes/); for the full explanation with additional detail, see the [The Periodic Table: Groups and Trends study guide](/resources/periodic-table-groups-and-trends/).
+
+## Frequently asked questions
+
+**What are the most common mistakes in periodic table questions?**
+Typical slips include saying reactivity increases down both Group I and Group VII, confusing group number with period number, and describing a displacement reaction without naming reactivity as the reason it happens.
+
+**What does "0620 Extended, 5070 required" mean on a question?**
+It marks content that only Extended (Supplement) candidates need for Cambridge IGCSE 0620, but that every Cambridge O Level 5070 candidate must know.
+
+**What does "Background — beyond both syllabuses" mean?**
+It labels material that goes further than Cambridge 0620 and 5070 require. The syllabuses ask you to describe the Group I and Group VII trends, so a full explanation in terms of atomic radius and shielding is extension work.
+
+**Which Cambridge syllabus topic do these periodic table questions cover?**
+They cover Topic 8, The Periodic Table, for Cambridge IGCSE Chemistry 0620 and O Level Chemistry 5070: arrangement of elements, Group I, Group VII, transition elements and noble gases.

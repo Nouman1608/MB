@@ -217,6 +217,23 @@ Cover the answers, then try each one.
 - Choosing multipliers that make the electron numbers unequal, so the overall equation has the wrong ratio.
 - Naming the element rather than the species, e.g. "chlorine is reduced" when the question asks which ion is the oxidising agent.
 
+## Frequently asked questions
+
+**What is an oxidising agent?**
+An oxidising agent is an electron acceptor, so it is itself reduced. A reducing agent is an electron donor and is oxidised.
+
+**What is the oxidation state of hydrogen in a metal hydride?**
+Hydrogen is −1 in metal hydrides such as NaH or CaH₂, instead of its usual +1. Oxygen is similarly an exception in peroxides, where it is −1.
+
+**Which side of a half-equation do electrons go on?**
+Electrons appear on the left in a reduction half-equation and on the right in an oxidation half-equation. Balance charge with electrons, not extra H⁺.
+
+**What is the difference between an oxidation state and an ionic charge?**
+An oxidation state is written with the sign first, such as +3, while an ionic charge is written with the number first, such as 3+. Mixing the two formats can lose marks.
+
+**What does "show that" mean in AQA A-level Chemistry 7405 redox questions?**
+"Show that" means every step must be written, because the answer is already given. "State" or "give" needs only the answer, but an oxidation state still needs its sign.
+
 ## Related pages
 
 - [Study guide for this section](/resources/aqa-a-level-chemistry-oxidation-reduction-and-redox-equations/)

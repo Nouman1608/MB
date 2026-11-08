@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "topic-c2-elements-compounds-mixtures-j248"
     subtopic: "c2-1-purity-separating-mixtures-j248"
-description: "Purity, melting point, relative formula mass, empirical formula and the four core separation techniques -- subtopic C2.1 of OCR GCSE (9-1) Chemistry A (Gateway Science) J248."
+description: "OCR GCSE Chemistry A (J248) C2.1 Purity and separating mixtures: purity and melting point, Mr, empirical formulae, separation techniques and Rf values."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -172,6 +172,23 @@ method for an unfamiliar mixture described in an exam question.
 - [Purity and Separating Mixtures revision notes](/resources/ocr-gcse-chemistry-purity-separating-revision-notes/)
 - [Purity and Separating Mixtures practice questions](/resources/ocr-gcse-chemistry-purity-separating-practice/)
 
+## Frequently asked questions
+
+**What does pure mean in chemistry?**
+In OCR GCSE (9–1) Chemistry A (J248), a pure substance is a single chemical substance, not mixed with anything else. This differs from the everyday sense: "pure" fruit juice is a mixture, not chemically pure.
+
+**How can melting point show whether a substance is pure?**
+A pure substance melts and boils at a single, sharp temperature. Impurities lower the melting point and make the substance melt over a wider range of temperatures.
+
+**How do you calculate an Rf value?**
+Rf = distance travelled by the spot ÷ distance travelled by the solvent front, both measured from the baseline. For a spot that moves 3.2 cm when the solvent front moves 8.0 cm, Rf = 0.4.
+
+**What is the difference between simple and fractional distillation?**
+Simple distillation separates a liquid from dissolved solids, or from a liquid with a very different boiling point. Fractional distillation separates two or more miscible liquids with similar boiling points and needs a fractionating column.
+
+**Which paper is C2.1 Purity and separating mixtures assessed on?**
+C2.1 is assessed on Paper 1 at Foundation Tier and Paper 3 at Higher Tier, alongside Topics C1 (Particles) and C3 (Chemical reactions).
+
 ## Official syllabus
 
 OCR GCSE (9-1) Chemistry A (Gateway Science) J248 specification,
@@ -207,4 +224,3 @@ Version 4.0, August 2026 —
   <img src="https://img.marlbridge.com/atomic-structure--01-element-compound-mixture.webp" width="900" height="1020" alt="Three boxes of particles: an element has one type of atom; a compound has bonded atoms in a fixed 1:2 ratio, separable only chemically; a mixture has unbonded atoms in any ratio, separable physically." loading="lazy">
   <figcaption>An element, a compound and a mixture compared at particle level.</figcaption>
 </figure>
-

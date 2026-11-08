@@ -161,6 +161,23 @@ Related pages: [study guide](/resources/oxfordaqa-a-level-economics-diminishing-
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on diminishing returns and cost curve questions?**
+Common losses are dividing a cost by the number of workers when cost per unit of output is wanted, confusing marginal and average values, saying diminishing returns means total output falls, and using returns to scale where one input is fixed.
+
+**When do diminishing returns begin?**
+Diminishing returns begin where marginal product starts to fall, not where total product stops rising. Quote the marginal product figures to show the point.
+
+**How do I show the type of returns to scale in a calculation?**
+Compare the percentage change in output with the percentage change in inputs at each step. Raw output figures alone do not show whether returns are increasing, constant or decreasing.
+
+**Does a high minimum efficient scale always mean a concentrated industry?**
+Not on its own. Always compare the minimum efficient scale with market demand, because it is the size of MES relative to the market that suggests how many firms can produce at lowest cost.
+
+**Which OxfordAQA 9640 sections do these practice questions cover?**
+They cover sections 3.3.2.1 to 3.3.2.3 of the OxfordAQA International AS and A-level Economics (9640) specification: diminishing returns, returns to scale, and short-run and long-run cost curves, which are International A2 content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, sections 3.3.2.1, 3.3.2.2 and 3.3.2.3 and section 3.5. First teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022. Published by OxfordAQA.

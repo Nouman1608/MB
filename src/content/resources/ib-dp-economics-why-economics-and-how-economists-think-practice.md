@@ -133,6 +133,20 @@ Read the [study guide](/resources/ib-dp-economics-why-economics-and-how-economis
 - Discussing models without naming a limitation and a strength.
 - Listing economists without stating their ideas.
 
+## Frequently asked questions
+
+**How do you calculate opportunity cost from PPC data?**
+Between two points on the curve, divide the amount of one good given up by the extra amount of the other good gained. This gives the opportunity cost per unit, which rises along a curve that bows outwards.
+
+**How do you tell whether a statement is positive or normative?**
+A positive statement can be tested against evidence, while a normative statement contains a value judgement. Words such as "should" or "ought" usually signal a normative statement.
+
+**What should a labelled PPC diagram include?**
+Label both axes with the two goods, draw the curve bowed outwards from the origin, and mark any points the question names, such as a point inside the curve, on it, or beyond it. Unlabelled axes lose marks.
+
+**What are common mistakes in IB Economics Unit 1 questions?**
+Common slips include listing everything given up as the opportunity cost, calling a point inside the PPC efficient, showing growth as a move along the curve, and listing imports as an injection.
+
 ## Next steps
 
 - Review with the [revision notes](/resources/ib-dp-economics-why-economics-and-how-economists-think-revision-notes/) and the [study guide](/resources/ib-dp-economics-why-economics-and-how-economists-think/).

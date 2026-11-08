@@ -243,6 +243,23 @@ The guide asks for strengths and limitations in promoting growth, low unemployme
 - Treating every tax cut as costless. It can reduce revenue.
 - Listing constraints without saying which policy they apply to.
 
+## Frequently asked questions
+
+**What are the constraints on supply-side policies?**
+The guide lists equity concerns, time lags, vested interests, environmental impact and, for interventionist policies, costs that must be funded through taxes, borrowing or cuts elsewhere.
+
+**How do supply-side policies reduce inflation?**
+By shifting LRAS to the right, they raise real output and lower the price level at the same time, so they can support growth and low inflation together.
+
+**What are labour market supply-side policies?**
+Market-based labour policies include reducing the power of labour unions, reducing unemployment benefits so job seekers accept offers sooner, and abolishing minimum wages so wages fall to the market-clearing level.
+
+**Do income tax cuts always pay for themselves?**
+No. An income tax cut can raise the reward for working, but tax revenue falls unless taxable income rises by enough. The result depends on how strongly people respond.
+
+**What are the strengths of market-based supply-side policies?**
+They can improve how resources are allocated, and most do not require extra government spending.
+
 ## Next steps
 
 Revise with the [revision notes](/resources/ib-dp-economics-supply-side-policies-revision-notes/) and test yourself with the [practice questions](/resources/ib-dp-economics-supply-side-policies-practice/). The earlier [demand and supply](/resources/ib-dp-economics-demand-supply-equilibrium/) guide helps with the labour market diagram, and the [macroeconomics measuring and managing the economy](/resources/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy/) page covers wider Unit 3 context. For advice on writing answers, see [exam preparation](/resources/ib-dp-economics-exam-preparation/).

@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "what-is-business-aqa-alevel-business"
 description: "Original exam-style practice questions with full worked answers on business purpose, objectives, ownership and decision making for AQA A Level Business."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -169,3 +169,17 @@ Answer **one** question from this section.
 - Identifying a stakeholder conflict without explaining *why* the two groups' interests oppose.
 - Naming an external factor (whether organised by PESTLE or not) without linking it to a specific effect on the business's decision making.
 - In Sections C and D, writing about both essay options instead of choosing one and developing it fully, or describing both sides of the argument without reaching a supported judgement.
+
+## Frequently asked questions
+
+**How are the Section C and D essays marked in AQA 7132 Paper 1?**
+Each section offers a choice of one 25-mark essay from two, marked against a levels-based mark scheme rather than discrete points. Choose one question and develop it fully rather than writing about both options.
+
+**What do you need for a stakeholder conflict answer?**
+Explain why the two groups' interests oppose on the specific decision, not just that they differ. Identifying a conflict without the reason is a common way to lose marks.
+
+**How should you write about external factors in AQA Business?**
+Link each factor to a specific effect on the business's decisions. Naming a factor, whether organised by PESTLE or not, without that link earns little credit.
+
+**What should an answer about becoming a plc include?**
+Weigh the advantages, such as access to capital, against the corresponding loss of control and other drawbacks, and reach a judgement for the business in the question.

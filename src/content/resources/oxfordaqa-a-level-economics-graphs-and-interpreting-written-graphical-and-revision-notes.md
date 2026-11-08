@@ -238,6 +238,23 @@ Year 3 growth is positive, yet output is still below the original 150. A line gr
 - Copying a sentence from the extract without using its figures in a calculation.
 - Offering an evaluation point with no link to the figures given.
 
+## Frequently asked questions
+
+**What is the difference between a percentage change and a percentage point change?**
+A percentage point change is the difference between two rates, for example 6.0% to 7.5% is a rise of 1.5 percentage points. The same move is a 25% relative change in the rate.
+
+**How do you calculate the angles in a pie chart?**
+Divide each item by the total and multiply by 360. Check the answer by making sure the angles add up to 360 degrees.
+
+**Which graph should I use for data over time?**
+Use a line graph, with time on the horizontal axis. Bar charts suit separate categories, pie charts show shares of one total, and scatter graphs show whether two variables move together.
+
+**Does a scatter graph prove that one variable causes another?**
+No. A pattern shows correlation only; to argue cause you need a reason, a mechanism and a check on other factors that could explain the pattern.
+
+**Are graph skills tested at AS or A2 in OxfordAQA 9640 Economics?**
+QS4 and QS9 in section 3.5 of the OxfordAQA International AS and A-level Economics (9640) specification could be assessed in any assessment, and the specification adds no extra A2 requirement for either.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, section 3.5 Quantitative skills, items QS4 and QS9. Published by OxfordAQA.

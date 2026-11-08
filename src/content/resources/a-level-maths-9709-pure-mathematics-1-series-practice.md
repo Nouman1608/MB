@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "series-cambridge-alevel-maths"
 description: "Original Cambridge 9709 Paper 1 Series questions with marked answers: binomial terms, APs, GPs, sums to infinity and linked progressions."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -162,6 +162,20 @@ Revise first with the [study guide](/resources/a-level-maths-9709-pure-mathemati
 - Rounding mid-calculation, then losing the accuracy mark on a 3 s.f. answer.
 - Skipping algebra on "show that" parts, where the answer is printed and every step must be visible.
 - Dividing by a variable that could be zero (d or a) without saying why it is non-zero.
+
+## Frequently asked questions
+
+**How do you find the term independent of x in a binomial expansion?**
+Write the general term, combine all the powers of x into a single index, set that index equal to zero and solve for r. Then substitute r to evaluate the term.
+
+**When does a geometric progression have a sum to infinity?**
+Only when |r| < 1. If r is an expression in x, solve −1 < r < 1 as a strict double inequality to find the values of x for which it converges.
+
+**How do you find the least number of terms for a sum to exceed a value?**
+Form a quadratic inequality from the sum formula, solve it, then take the next whole number and check the sums on either side. A decimal answer, or rounding down, loses the final mark.
+
+**How do you find a coefficient in a product such as (2 − x)(1 + kx)⁷?**
+Expand the harder bracket up to the power you need, then add every product of terms whose powers give the target power. Missing one of the products is the most common error.
 
 ## Next steps
 

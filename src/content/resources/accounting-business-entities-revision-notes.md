@@ -19,9 +19,9 @@ syllabusTopics:
     subtopic: "the-accounting-system"
 description: "Condensed recall notes on business structures, the accounting system, financial statements and partnership accounts."
 author: "javaid-iqbal-sabri"
-reviewer: "zain-ud-din-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by zain-ud-din-ahmed on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -168,3 +168,20 @@ Computerised systems apply the **same double-entry principles** as manual ones, 
 7. State two advantages and one disadvantage of a computerised accounting system.
 
 **Answers:** 1. Under the business entity concept the business is separate from its owner, so capital is an amount the business owes back to the owner. 2. Credit sales of goods only; cash sales go to the cash book and sales of non-current assets go to the general journal. 3. The capital account records each partner's permanent investment while the current account records their fluctuating entitlement from profit, salaries, interest and drawings — separating them keeps the permanent stake clear. 4. Commission is posting to the wrong account of the correct type, such as the wrong customer; principle is posting to an entirely wrong category of account, such as recording an asset as an expense. 5. They are an appropriation of profit already earned, not a cost of earning it, so they are deducted from retained earnings rather than charged in the income statement. 6. Realisation says revenue should be recorded once it is earned, not necessarily when cash is received; prudence says profits and asset values should not be overstated, nor losses and liabilities understated, so profit should not be anticipated before it is actually earned. 7. Advantages: speed, and reduced arithmetic error (or easier report generation); disadvantage: setup and training cost, or reliance on system reliability and data security.
+
+## Frequently asked questions
+
+**What does unlimited liability mean?**
+Unlimited liability means the owner's personal assets can be taken to settle the business's debts. It applies to sole traders and usually to partners.
+
+**What happens if a partnership has no partnership agreement?**
+The Partnership Act 1890 applies: profits and losses are shared equally, and partners receive no salaries and no interest on capital.
+
+**Does a balanced trial balance mean there are no errors?**
+No. Errors such as omission, commission, principle, original entry and complete reversal leave the trial balance balanced, so agreement does not prove the records are correct.
+
+**Are dividends an expense?**
+No. Dividends are an appropriation of profit, so they do not appear in the income statement; they are shown as a deduction from retained earnings.
+
+**Are preference shares examined in Cambridge 9706?**
+According to these notes, preference shares are not examined in 9706; the focus is on ordinary shares, debentures and reserves.

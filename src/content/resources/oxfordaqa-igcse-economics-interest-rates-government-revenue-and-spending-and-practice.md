@@ -167,6 +167,23 @@ These questions cover sections 3.2.1.1 and 3.2.1.2 of the OxfordAQA Internationa
 * Take the free [10-minute diagnostics](/diagnostics/).
 * Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**How do you tell whether a tax is progressive or regressive?**
+Compare the tax paid as a percentage of each person's income, not the amount of money paid. A household that pays more money can still pay a smaller percentage of its income.
+
+**How do you calculate income tax with tax bands?**
+Work band by band: apply each rate only to the slice of income that falls inside that band, then add the amounts. Applying the top rate to the whole income is a common mistake.
+
+**How do you answer a question on the effects of an interest rate change?**
+Give a developed chain for each group the question names, running from the rate to repayments or the reward for saving, then to spending or investment. Remember that savers and borrowers are affected in opposite ways.
+
+**How do you evaluate a choice between two ways of raising tax revenue?**
+Weigh both options against a stated aim, such as reliability of revenue or fairness, and finish with a judgement. An evaluation that lists points with no conclusion usually scores less.
+
+**What are common mistakes in interest rate and taxation questions?**
+Common slips include judging a tax progressive from the money paid rather than the share of income, writing "people borrow less" with no link to spending, describing sharia-compliant finance as having no return for the bank, and counting borrowing as revenue.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214) specification, version 1.0, for exams from May/June 2025, published by OxfordAQA: sections 3.2.1.1 and 3.2.1.2.

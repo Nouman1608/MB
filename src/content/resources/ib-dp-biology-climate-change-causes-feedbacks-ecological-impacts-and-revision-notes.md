@@ -235,6 +235,20 @@ The debate on non-native plantations versus native rewilding is a nature of scie
 - Naming an organism but not linking its response to the specific change.
 - (HL only) Saying owls or insects "adapt" individually instead of describing selection across generations.
 
+## Frequently asked questions
+
+**What is a tipping point in climate change?**
+A tipping point is a threshold beyond which a system shifts to a new state that is hard to reverse, such as boreal forest changing from a net carbon sink to a net carbon source.
+
+**What is the difference between ocean acidification and coral bleaching?**
+Ocean acidification is caused by carbon dioxide dissolving and lowering pH, which suppresses calcification. Bleaching is caused by raised water temperature, which makes corals expel their symbiotic algae (zooxanthellae).
+
+**Which statements in IB DP Biology D4.3 are HL only?**
+D4.3.9 to D4.3.12 are HL only: phenology and its cues, loss of synchrony between populations, extra insect generations per year, and evolution as a consequence of climate change.
+
+**Why does melting ice speed up warming?**
+Ice and snow reflect most incoming sunlight, while darker land or open water absorbs much more, so melting increases the heat absorbed and causes further melting, a positive feedback.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, International Baccalaureate Organization (section D4.3).

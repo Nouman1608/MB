@@ -216,6 +216,20 @@ Net profit margin = net profit / sales revenue × 100, so 57,600 / 640,000 × 10
 - Saying share capital must be repaid. It is not repaid, but it dilutes ownership.
 - Writing a general list of reasons for changed aims without linking to the situation described.
 
+## Frequently asked questions
+
+**What is the difference between a merger and a takeover?**
+In a merger, two businesses agree to combine into one. In a takeover, one business buys enough shares in another to control it, even if the target business does not want this.
+
+**Why is a public limited company more at risk of a takeover?**
+A plc's shares are offered to the public and traded on the stock market, so another business can buy enough of them to gain control. Selling shares to many shareholders also means the founders may lose control of decisions.
+
+**How do you calculate the interest on a loan as a percentage in Edexcel GCSE Business?**
+Subtract the amount borrowed from the total repayment, divide by the amount borrowed and multiply by 100. Borrowing £20,000 and repaying £22,400 gives 2,400 / 20,000 × 100 = 12%, a formula from Appendix 3 of the 1BS0 specification.
+
+**How can changing aims affect a business's workforce and product range?**
+A business aiming for growth may hire more staff and add product lines for new customers. A business switching to survival may reduce staff to save cost, close loss-making branches or drop weak products.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2: Building a business, Topic 2.1 Growing the business, items 2.1.1 and 2.1.2.

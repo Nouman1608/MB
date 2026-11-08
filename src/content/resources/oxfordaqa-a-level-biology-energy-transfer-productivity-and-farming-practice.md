@@ -169,6 +169,20 @@ These questions cover sections 3.3.4.1 and 3.3.4.2 of the OxfordAQA Internationa
 - Take all the free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**How do you define GPP or NPP for full marks?**
+Include "in a given area (or volume), in a given time", which turns a vague statement about energy into a definition of a rate. Leaving this phrase out is a common way to lose marks.
+
+**How do you evaluate farming data in OxfordAQA International A-level Biology (9610)?**
+Use figures from the data to reach a justified decision, and consider economic, environmental and ethical points. Listing facts from a single viewpoint does not evaluate the data.
+
+**What is a common error with the consumer net production equation?**
+Leaving out the urine term in N = I − (F + U + R), or forgetting that all four terms are energy values. Check that F, U, R and N add up to I.
+
+**How do you explain how a farming practice increases productivity?**
+Give a cause and a consequence: name how the practice reduces an energy loss, such as less respiration or less crop eaten by pests, then say what happens to the yield.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology, Version 5.1, for International A-level exams May/June 2018 onwards, sections 3.3.4.1 and 3.3.4.2.

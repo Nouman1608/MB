@@ -179,6 +179,20 @@ Need a refresher first? Read the [study guide](/resources/cambridge-o-level-econ
 - Changing both curves when the question changes one condition.
 - Quoting percentage changes against the wrong base, such as dividing by the new value.
 
+## Frequently asked questions
+
+**What is the difference between an extension in supply and an increase in supply?**
+An extension is a rise in quantity supplied caused by a rise in the good's own price, shown as a movement along the curve. An increase in supply is a shift of the curve to the right, caused by a change in a condition of supply.
+
+**How do you find market supply from individual supply schedules?**
+Add the quantities supplied by every seller at each price, working across each row. Adding prices, or adding down a column, is a common error.
+
+**What is the difference between a shortage and a surplus?**
+A shortage (excess demand) happens when the price is below equilibrium, so quantity demanded exceeds quantity supplied. A surplus (excess supply) happens when the price is above equilibrium.
+
+**What should an answer about equilibrium include?**
+Give both the equilibrium price and the equilibrium quantity, with units. Giving only the price when the question asks for sales loses marks.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/cambridge-o-level-economics-supply-and-equilibrium-and-disequilibrium-prices-revision-notes/) for any answer you missed.

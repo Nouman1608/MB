@@ -154,6 +154,20 @@ They differ from the topic-level practice set; related pages are under Next step
 - [A Level Biology 9700 diagnostic](/practice/9700/diagnostic/a-level/), or [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How are these Cambridge 9700 control and coordination questions organised?**
+Each question is tagged with the subtopic (15.1 or 15.2) and learning outcomes it tests, so you can practise one outcome at a time.
+
+**How do you convert milliseconds for frequency calculations?**
+Convert ms to s before dividing 1 by the time. Forgetting this conversion gives an answer 1000 times too large or too small.
+
+**Should you say ATP gives "energy" in muscle contraction?**
+Give ATP's specific roles rather than just "energy". Giving ATP only an energy role is a common way to lose marks.
+
+**Do the filaments shorten when a muscle contracts?**
+No. The filaments slide past each other and stay the same length. Saying the filaments shorten is marked as wrong.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, published by Cambridge University Press & Assessment. Topic 15, Control and coordination: sections 15.1 and 15.2.

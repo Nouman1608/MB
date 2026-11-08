@@ -295,6 +295,20 @@ Answer: **−4/3**.
 
 Try the [practice questions](/resources/oxfordaqa-a-level-mathematics-inverse-trigonometric-functions-and-secant-cosecant-practice/), then condense with the [revision notes](/resources/oxfordaqa-a-level-mathematics-inverse-trigonometric-functions-and-secant-cosecant-revision-notes/). Check your progress against the [checklist](/checklists/oxfordaqa/a-level/mathematics/) and the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**Why do inverse trig functions need a restricted domain?**
+A function has an inverse only if each output comes from exactly one input. Sine, cosine and tangent repeat their values, so only one piece of each graph is used.
+
+**Is sin⁻¹(sin x) always equal to x?**
+No. It equals x only when x lies in the principal interval −π/2 ≤ x ≤ π/2. Outside it, the answer is the angle in that interval with the same sine.
+
+**How are the graphs of inverse trig functions drawn?**
+Reflect the restricted piece of the original graph in the line y = x. For example, sin⁻¹x is the reflection of sin x on [−π/2, π/2].
+
+**Where are sec, cosec and cot in the OxfordAQA 9660 specification?**
+Inverse trigonometric functions, secant, cosecant, cotangent and the identities 1 + tan²x = sec²x and 1 + cot²x = cosec²x are in section P2.4 of the OxfordAQA 9660 specification, in Unit P2.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA: content area P2.4 Trigonometry (inverse trigonometric functions; secant, cosecant and cotangent).

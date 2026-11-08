@@ -225,6 +225,20 @@ Always say whether the assumption is reasonable and how the answer would change 
 - Following an arc against its arrow.
 - Calling a model's answer exact without stating an assumption.
 
+## Frequently asked questions
+
+**What is an algorithm in IB MYP Mathematics?**
+An algorithm is a well-defined procedure: a finite list of ordered steps that turns an input into an output. A flowchart draws the same procedure, and a trace table records what happens at each step.
+
+**What is a weighted network?**
+A weighted network is a set of vertices joined by edges where each edge carries a number, such as a distance, time or cost. The length of a path is the total of the weights along it.
+
+**Are linear programming and networks core MYP Mathematics content?**
+In the IB MYP Mathematics framework, linear programming (with inequalities), networks and weighted networks are MYP 4-5 extended content. Flowcharts appear at MYP 1-3, and analysing algorithms is MYP 4-5 standard content.
+
+**When should you stop labelling in a shortest-path method?**
+Keep going until the destination's label is final, not as soon as it first receives a label, because a shorter route may still be found through another vertex.
+
 ## Official syllabus
 
 IB *Mathematics guide (for use from September 2020/January 2021)*, MYP Mathematics, first assessment 2022, published by the International Baccalaureate Organization. The notes paraphrase the Thinking with models branch of the framework.

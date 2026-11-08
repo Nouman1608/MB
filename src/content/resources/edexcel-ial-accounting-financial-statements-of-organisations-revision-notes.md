@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Financial statements of organisations (YAC11) -- Revision Notes"
+title: "Edexcel International A Level Accounting: Financial statements of organisations (YAC11) -- Revision Notes"
 seoTitle: "Edexcel IAL Accounting Financial Statements Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"
@@ -266,6 +266,20 @@ Raw materials consumed (opening + purchases + carriage in - closing)
 - Recording only the current year's subscriptions in cash, ignoring arrears and advances.
 - Calling a club's result "profit" instead of "surplus" or "deficit".
 - Deducting the whole unrealised profit provision from profit, rather than only the change.
+
+## Frequently asked questions
+
+**Which Edexcel YAC11 topic covers financial statements of organisations?**
+Topic 1.3 in Unit 1 covers sole traders and year-end adjustments, departmental statements, incomplete records, partnerships, clubs and non-profit-making organisations, and manufacturers.
+
+**What is a club's result called?**
+A club's income and expenditure account shows a surplus or a deficit, not a profit. Calling it "profit" is a common mistake.
+
+**What is prime cost?**
+Prime cost is raw materials consumed plus other direct costs. Factory overheads are added and work in progress adjusted to find the cost of production.
+
+**How much of the unrealised profit provision is charged each year?**
+Only the change in the provision for unrealised profit is deducted from or added to profit, not the whole provision.
 
 ## Official syllabus
 

@@ -13,11 +13,17 @@ order: 5
 syllabusTopics:
   - qualification: "a-level"
     topic: "international-option-history-9489"
-description: "Original exam-style practice questions with full worked answers on the three topics of the International Option for Cambridge AS & A Level History (9489), 2027-2029 syllabus."
+  - qualification: "a-level"
+    topic: "international-option-history-9489"
+    subtopic: "international-relations-1919-29-9489"
+  - qualification: "a-level"
+    topic: "international-option-history-9489"
+    subtopic: "international-history-1929-39-9489"
+description: "Original practice questions with worked answers on the three topics of the International option for Cambridge AS and A Level History 9489, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -82,6 +88,17 @@ Related: [International History, 1870–1939 revision notes](/resources/a-level-
 **7.** A strong evaluation notes genuine continuity in the League's structural weaknesses — its limited enforcement power and dependence on member states' willingness to act militarily or economically were present throughout both decades, not newly created in the 1930s. However, a balanced answer should also weigh factors specific to the 1930s that go beyond simply exposing pre-existing weaknesses: the Great Depression's impact on political ideologies and the rise of dictatorships created a genuinely more hostile international environment than existed in the 1920s, and the specific ambitions of Japan, Italy and Germany in the 1930s presented a different order of challenge than the smaller disputes the League had previously managed. A well-reasoned conclusion might argue that pre-existing weaknesses were a necessary but not sufficient explanation — they made the League vulnerable, but the specific scale and coordinated nature of 1930s aggression is what actually caused its failures to become so visible and consequential. **[8]** (Marks for genuine evaluation weighing continuity of weakness against 1930s-specific factors, rather than asserting one cause alone.)
 
 **8.** This strategy correctly uses the fact that the rotation is fixed and published, but it puts the depth in the wrong place. The Paper 1 topic is examined through a single two-part Historical Sources question (40 marks), where the credit rests mainly on comparing and evaluating the sources supplied, supported by contextual knowledge of the period. The other two topics are both examined on Paper 2, the Outline Study (60 marks, two two-part essay questions), which rewards detailed historical knowledge used to explain, analyse and reach a judgement — so it is the Paper 2 topics that demand the most detailed, secure knowledge. Giving them only light coverage leaves the candidate weakest on the paper worth more marks (60 marks, against 40 for Paper 1). A better strategy secures thorough, essay-ready knowledge of both Paper 2 topics, and prepares the Paper 1 topic with enough contextual knowledge to interpret and evaluate sources, practising the source-comparison and "how far do the sources support" skills that paper rewards. **[6]** (Marks for correctly identifying what each paper examines and how, and for reaching a reasoned, qualified recommendation rather than either extreme.)
+
+## Frequently asked questions
+
+**How are the AS papers for 9489 structured?**
+Paper 1, Historical Sources (1 hour 15 minutes, 40 marks), is one two-part question on four sources, worth 15 and 25 marks. Paper 2, Outline Study (1 hour 45 minutes, 60 marks), is two two-part questions, each worth 10 + 20 marks.
+
+**Which topic is on which paper?**
+The three topics in each AS option rotate between Paper 1 and Paper 2 according to the table printed in the 2027–2029 syllabus; in any year the topic set for Paper 1 is not set for Paper 2.
+
+**What are the three International option topics?**
+Imperialism and the emergence of world powers, c.1870–1918; international relations, 1919–29: conflict and cooperation; and international history, 1929–39: the rise of extremism and the road to war.
 
 ## Official syllabus
 

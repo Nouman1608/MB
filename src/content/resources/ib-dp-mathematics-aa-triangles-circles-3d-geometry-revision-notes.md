@@ -25,11 +25,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-3-4"
 description: "Revision notes for IB DP Maths AA sections 3.1–3.4: formula tables, method steps, key distinctions and a self-test on triangles, solids and radians."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 For full explanations and longer worked examples, read the [study guide](/resources/ib-dp-mathematics-aa-triangles-circles-3d-geometry/) first. These notes condense the 3D geometry, triangle trigonometry and radian measure unit of IB Diploma Programme Mathematics: Analysis and Approaches. They are aligned to the IB *Mathematics: analysis and approaches guide*, first assessment 2021, and cover syllabus sections 3.1–3.4, which are SL content examined at both SL and HL. They follow the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so they apply to the May and November 2026, 2027 and 2028 sessions.
@@ -232,6 +232,23 @@ Paper 1 (SL and HL) allows no technology. Paper 2 requires it, as does HL Paper 
 - Using the sine rule for the largest angle of a triangle when it may be obtuse.
 - Decimal answers on Paper 1 questions that ask for exact values.
 - No labelled diagram, so the angle used in the working is not clear to the examiner.
+
+## Frequently asked questions
+
+**Do arc length and sector area formulas need the angle in radians?**
+Yes. The formulas l = rθ and A = ½r²θ only work when θ is in radians, and IB Maths AA exam papers assume radian measure unless a question says otherwise, so check your calculator mode before every trigonometry calculation.
+
+**What is the difference between the perimeter of a sector and its arc length?**
+The arc length is rθ on its own. The perimeter of a sector is the arc plus the two radii, rθ + 2r, and forgetting the two radii is a common way to lose marks.
+
+**How do you find the area of a segment of a circle?**
+Find the sector area ½r²θ with θ in radians, find the triangle area ½r² sin θ, and subtract: segment area = sector area − triangle area.
+
+**Are 3D trigonometry questions different at SL and HL in IB Maths AA?**
+The IB guide says SL examinations set only right-angled trigonometry on 3D shapes, so you find a right-angled triangle inside the solid. HL students should also be ready to use the sine or cosine rule in a 3D triangle.
+
+**What is the difference between the height and the slant height of a cone?**
+The height h is the vertical distance from the apex to the centre of the base, used in V = (1/3)πr²h. The slant height l runs from the apex to the edge of the base, is used in the curved surface area πrl, and satisfies l² = r² + h².
 
 ## Official syllabus
 

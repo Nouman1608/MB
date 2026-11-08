@@ -188,6 +188,20 @@ Opening balances on correct sides [1]. Credit purchases and interest, credit [1]
 - Try the free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which side does a customer's dishonoured cheque go on in the sales ledger control account?**
+A dishonoured cheque means the customer still owes the money, so it is debited to the sales ledger control account. Placing it on the credit side is a common error in Cambridge IGCSE Accounting (0452) questions.
+
+**Where does interest charged by a supplier go?**
+Interest charged by a supplier on an overdue account increases what the business owes, so it is a credit in the purchases ledger control account.
+
+**How is a contra entry shown in control accounts?**
+A contra sets off an amount between the sales ledger and the purchases ledger, so it appears in both control accounts on opposite sides: a credit in the sales ledger control account and a debit in the purchases ledger control account.
+
+**How do you find a missing figure such as credit sales?**
+Enter every known figure, total the side with more information, and the difference is the missing item. Credit sales go on the debit side of the sales ledger control account, so they are often the balancing figure.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1), published by Cambridge University Press & Assessment (Cambridge International Education): section 3.4 Control accounts.

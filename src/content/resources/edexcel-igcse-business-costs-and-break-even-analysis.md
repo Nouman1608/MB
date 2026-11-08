@@ -199,6 +199,20 @@ The specification explains the command words. Define needs a term from the conte
 - Saying a price rise "always increases profit" without considering the number of units customers still buy.
 - Listing limitations without applying them to the business in the question.
 
+## Frequently asked questions
+
+**What is break-even?**
+Break-even is the level of output at which revenue equals total costs, so the business makes neither a profit nor a loss. Below it the business makes a loss, and above it a profit.
+
+**How do you read the break-even point from a chart?**
+Find where the revenue line crosses the total costs line, then read down to the horizontal axis for break-even output and across to the vertical axis for break-even revenue.
+
+**What are the limitations of break-even charts?**
+They assume a constant price and variable cost per unit, fixed costs that stay fixed and that everything made is sold. The figures are forecasts, demand is not shown and the chart suits a single product.
+
+**What is the difference between variable cost per unit and total variable cost?**
+Variable cost per unit is the cost of making one item, while total variable cost is that figure multiplied by output. Treating one as the other is a common error.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 3: Business finance, section 3.3 Costs and break-even analysis, points 3.3.1 to 3.3.3.

@@ -14,13 +14,13 @@ syllabusTopics:
     topic: "accounting-procedures"
   - qualification: "o-level"
     topic: "accounting-procedures"
-description: "Condensed recall notes on capital and revenue items, depreciation methods and disposals, accruals and prepayments, irrecoverable debts and the allowance, and inventory at the lower of cost and net realisable value, for Cambridge IGCSE Accounting (0452) Topic 4, 2027-2029 syllabus."
+description: "Quick-recall Cambridge IGCSE Accounting 0452 Topic 4 notes: capital and revenue items, depreciation, disposals, accruals, irrecoverable debts and inventory."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-16
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -331,3 +331,19 @@ profit is overstated by $600 because opening inventory is understated.
   <figcaption>Loss or profit on disposal is proceeds minus NBV.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you calculate the profit or loss on disposal of a non-current asset?**
+Profit or loss on disposal equals the sale proceeds minus the net book value at the date of disposal. Net book value is cost minus accumulated depreciation.
+
+**What is the double entry for depreciation in Cambridge IGCSE Accounting 0452?**
+Debit the statement of profit or loss and credit the provision for depreciation account. The provision builds up as accumulated depreciation, which is deducted from cost in the statement of financial position.
+
+**How is inventory valued in Cambridge IGCSE Accounting?**
+Inventory is valued at the lower of cost and net realisable value, item by item. Net realisable value is the expected selling price minus the costs still to be paid to complete and sell the goods.
+
+**What happens next year if closing inventory is valued wrongly?**
+The wrong figure becomes the next year's opening inventory, so next year's gross profit and profit for the year move by the same amount in the opposite direction.
+
+**What is the effect of treating revenue expenditure as capital expenditure?**
+Profit is overstated and non-current assets are overstated. If the wrongly capitalised amount has been depreciated, the overstatement is the amount less the depreciation charged on it.

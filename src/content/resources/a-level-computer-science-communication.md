@@ -7,17 +7,20 @@ topic: "Communication"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9618"]
-syllabusSeries: "2027-2029"
+syllabusSeries: "2026"
 stage: "AS"
 order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "communication"
-description: "LAN/WAN characteristics, client-server and peer-to-peer models, network topologies, cloud computing, wired and wireless media, Ethernet and CSMA/CD, IP addressing, and how URLs and DNS locate resources on the web -- the full content of Topic 2 Communication for Cambridge International AS & A Level Computer Science 9618."
+  - qualification: "a-level"
+    topic: "communication"
+    subtopic: "networks-including-the-internet"
+description: "Guide to Topic 2 Communication in Cambridge AS Computer Science 9618: LANs and WANs, network models, topologies, cloud, media, CSMA/CD, IP addresses and DNS."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -145,6 +148,20 @@ sub-topic. Keep the WWW/internet distinction and the static/dynamic
 and public/private IP address distinctions especially sharp, since
 these pairs of similar-sounding terms are common sources of confused
 or reversed answers under exam pressure.
+
+## Frequently asked questions
+
+**Which paper assesses Communication in Cambridge 9618 Computer Science?**
+Communication is AS content examined on Paper 1, Theory Fundamentals, which assesses syllabus sections 1 to 8.
+
+**What network topologies are in the Cambridge 9618 syllabus?**
+Bus, star, mesh and hybrid. You need to know how packets are transmitted between two hosts in each and be able to justify a topology for a given situation.
+
+**What does DNS do?**
+DNS, the Domain Name Service, translates the domain name within a URL into the IP address that the network uses to route the request.
+
+**Which transmission media are named in the 9618 syllabus?**
+Copper cable, fibre-optic cable, radio waves (including WiFi), microwaves and satellites.
 
 ## Official syllabus
 

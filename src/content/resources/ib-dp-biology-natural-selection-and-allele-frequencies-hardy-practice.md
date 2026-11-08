@@ -148,6 +148,20 @@ These questions follow the IB *Biology guide*, first assessment 2025, section D4
 - Try all free 10-minute diagnostics at [diagnostics](/diagnostics/).
 - Book a free trial class at [trial](/trial/).
 
+## Frequently asked questions
+
+**Which parts of IB DP Biology D4.1 Natural selection are HL only?**
+Statements D4.1.9 to D4.1.15 are HL only, covering gene pools and allele frequencies, types of selection, the Hardy-Weinberg equation and its conditions, and artificial selection.
+
+**How do you use Hardy-Weinberg when given a dominant phenotype percentage?**
+Subtract it from 100% to get the recessive phenotype, which equals q²; take the square root to find q, then p = 1 − q. Treating the dominant phenotype as p² is a common error.
+
+**How do you calculate allele frequency from genotype counts?**
+Total alleles = 2 × the number of individuals; count homozygotes twice and heterozygotes once for the allele, divide by the total, and check that the two allele frequencies add up to 1.
+
+**Why is antibiotic resistance natural selection rather than artificial selection?**
+The antibiotic acts as a selection pressure and resistant bacteria survive and reproduce more, but nobody chooses which bacteria breed; in artificial selection, humans deliberately choose the parents.
+
 ## Official syllabus
 
 IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section D4.1 Natural selection.

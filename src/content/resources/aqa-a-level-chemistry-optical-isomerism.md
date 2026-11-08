@@ -287,6 +287,23 @@ Total: 4 structural isomers + 1 extra stereoisomer = **5 isomers**.
 - Explaining racemate formation without naming the **planar** group and attack from **both sides** with
   equal probability.
 
+## Frequently asked questions
+
+**What is a chiral centre?**
+A chiral centre, or asymmetric carbon atom, is a carbon bonded to four different atoms or groups. A molecule with one chiral centre cannot be superimposed on its mirror image.
+
+**Do enantiomers have different physical properties?**
+No. Enantiomers have the same physical properties, such as melting and boiling points, and react in the same way with most reagents. They differ in their effect on plane-polarised light, rotating it in opposite directions.
+
+**How do you show that a solution is optically active?**
+Pass plane-polarised light through the sample and turn a second polarising filter until the light is darkest. Compare the angle with that needed for the pure solvent; a difference means the sample rotates the plane of polarised light.
+
+**Why might only half of a racemic drug work?**
+An enzyme's active site is stereospecific, so its shape fits only one enantiomer of a substrate or drug. If a drug is made as a racemate, only half of it may fit the target active site.
+
+**Does AQA A-level Chemistry include molecules with more than one chiral centre?**
+No. In the AQA 7404/7405 specification, optical isomerism is limited to molecules with a single chiral centre. Section 3.3.7 is A-level only.
+
 ## Where to go next
 
 Work through the [practice questions](/resources/aqa-a-level-chemistry-optical-isomerism-practice/), then use

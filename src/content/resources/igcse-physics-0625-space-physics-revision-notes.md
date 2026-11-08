@@ -21,9 +21,9 @@ syllabusTopics:
     subtopic: "stars-and-the-universe-cambridge-igcse-physics"
 description: "Condensed Cambridge IGCSE Physics 0625 space physics revision notes: key facts, equations, star life cycle, Hubble constant and a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-27
 updatedDate: 2026-09-28
 featured: false
@@ -221,6 +221,20 @@ planetary nebula + white dwarf        supernova → nebula (hydrogen + heavier e
 - Redshift described as a colour change rather than an increase in observed wavelength.
 - Age of the Universe left in seconds when years are asked for.
 - Light-year used as a time unit.
+
+## Frequently asked questions
+
+**What is redshift?**
+Redshift is an increase in the observed wavelength of electromagnetic radiation emitted from receding stars and galaxies. Describe it as a change in wavelength, not simply a colour change.
+
+**Why is a stable star stable?**
+In a stable star the inward force of gravity is balanced by an outward force due to the high temperature at its centre. A full answer names both forces and says they are balanced.
+
+**What is the Sun made of and what powers it?**
+The Sun is a medium-sized star made mostly of hydrogen and helium. Stable stars are powered by nuclear fusion of hydrogen into helium, not by burning.
+
+**What is the current estimate of the Hubble constant in IGCSE Physics 0625?**
+The Cambridge IGCSE Physics 0625 syllabus uses H₀ = 2.2 × 10⁻¹⁸ per second. Its reciprocal, about 4.5 × 10¹⁷ s, estimates the age of the Universe; convert to years if a question asks.
 
 ## Official syllabus
 

@@ -15,11 +15,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "macroeconomic-performance-and-policy-edexcel-alevel-economics"
     subtopic: "measures-of-economic-performance-edexcel-alevel-economics"
-description: "Condensed notes with formulas, worked reminders and a self-test on inflation, the CPI, causes of inflation and deflation, the ILO unemployment measure and the causes and effects of unemployment, Edexcel International Advanced Level Economics."
+description: "Condensed notes on inflation, the CPI, deflation, ILO unemployment and the causes and effects of unemployment for Edexcel International A Level Economics."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-05
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-11-05."
 publishedDate: 2026-11-05
 featured: false
 ---
@@ -216,6 +216,23 @@ Inactive       = 30.0 - 24.0 = 6.0m, so 6.0 / 30.0 = 20.0%
 - Assuming lower unemployment always means more people in work.
 - Describing structural unemployment as "not enough demand", which is demand deficiency.
 - Ignoring that the effects of inflation depend on whether it was expected, and on how high and how stable it is.
+
+## Frequently asked questions
+
+**Can unemployment fall without more people finding jobs?**
+Yes. Unemployment can also fall if people stop looking for work and become economically inactive, so lower unemployment does not always mean more people in work. Check the employment and inactivity rates too.
+
+**What is the difference between unemployment and underemployment?**
+Unemployed people have no job. Underemployed people have a job but want more work, or are in a job below their skills.
+
+**Who gains and who loses from inflation?**
+People on fixed incomes and savers whose interest rate is below inflation tend to lose, while borrowers gain because the real value of their debt falls. The effects also depend on whether inflation was expected and how high and stable it is.
+
+**What is fiscal drag?**
+Fiscal drag is the rise in tax revenue as incomes and prices rise with inflation, which pulls more income into tax.
+
+**How do you calculate the unemployment rate in Edexcel International A Level Economics?**
+Divide the number of ILO unemployed by the labour force, which is the employed plus the unemployed, and multiply by 100. Dividing by the whole population is a common error.
 
 ## Official syllabus
 

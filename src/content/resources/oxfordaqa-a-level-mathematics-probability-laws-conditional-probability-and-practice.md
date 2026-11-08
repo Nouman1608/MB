@@ -179,6 +179,20 @@ A pupil is chosen at random from the 200.
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to find your weakest topics.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the most common mistake in conditional probability from a table?**
+Dividing by the grand total instead of the total for the condition. In a "given" question, the denominator is the total of the group you are told about.
+
+**How do you show two events are independent?**
+Calculate P(A) × P(B) and compare it with P(A ∩ B). Stating independence or dependence without this numerical comparison earns no credit.
+
+**What changes when you pick without replacement?**
+Both the numerator and the denominator change on each later pick, because an item has been removed. Keeping the denominator the same is a common error.
+
+**What is the difference between P(A | B) and P(B | A)?**
+P(A | B) is the probability of A given that B has happened, and P(B | A) is the reverse. They are usually different, so read the question carefully.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA. Section S1.1 (Further probability), Unit PSM1, International AS exams from May/June 2018 and International A-level exams from May/June 2019.

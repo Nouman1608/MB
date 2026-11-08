@@ -26,7 +26,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover moments and statics of rigid bodies in OCR A Level Mathematics A (H240), content references 3.04a to 3.04c of the Cambridge OCR specification, Version 3.1 (August 2026). All of this content is Stage 2, so it is A Level only. Take g = 9.8 m s⁻² throughout. If a method is unfamiliar, start with the [study guide](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies/) or the [revision notes](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies-revision-notes/). See also the [course hub](/boards/ocr/a-level/mathematics/), the [checklist](/checklists/ocr/a-level/mathematics/) and the [free diagnostics](/diagnostics/).
+These questions cover moments and statics of rigid bodies in OCR A Level Mathematics A (H240), content references 3.04a to 3.04c of the OCR specification, Version 3.1 (August 2026). All of this content is Stage 2, so it is A Level only. Take g = 9.8 m s⁻² throughout. If a method is unfamiliar, start with the [study guide](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies/) or the [revision notes](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies-revision-notes/). See also the [course hub](/boards/ocr/a-level/mathematics/), the [checklist](/checklists/ocr/a-level/mathematics/) and the [free diagnostics](/diagnostics/).
 
 ## Questions
 
@@ -158,6 +158,20 @@ Both tensions are positive here, so **1 ≤ x ≤ 7**. [1]
 - Rounding part-way through and losing accuracy in the final answer.
 - Omitting the unit N m or the sense of a resultant moment.
 
+## Frequently asked questions
+
+**How do you take moments when a force is at an angle to a rod?**
+Use the perpendicular distance from the point to the line of action, d sin θ, or resolve the force and use its perpendicular component. Measuring along the rod is a common error.
+
+**Where does the weight of a uniform beam act?**
+The weight of a uniform beam or rod acts at its midpoint. Leaving it out, or putting it at an end, loses marks.
+
+**How do you give a hinge force in OCR A Level Mathematics?**
+Find both the horizontal and vertical components, then give the magnitude and the direction, for example as an angle above the horizontal. A single component, or a magnitude with no direction, is incomplete.
+
+**What units should a moment have?**
+A moment is measured in newton metres (N m), and a resultant moment needs its sense, clockwise or anticlockwise.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies-revision-notes/) or the [study guide](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies/).
@@ -167,4 +181,4 @@ Both tensions are positive here, so **1 ≤ x ≤ 7**. [1]
 
 ## Official syllabus
 
-Cambridge OCR Level 3 Advanced GCE in Mathematics A (H240), Version 3.1 (August 2026), first assessment 2018, published by OCR. Content references 3.04a to 3.04c.
+OCR Level 3 Advanced GCE in Mathematics A (H240), Version 3.1 (August 2026), first assessment 2018, published by OCR. Content references 3.04a to 3.04c.

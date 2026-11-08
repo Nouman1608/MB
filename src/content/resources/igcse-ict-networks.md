@@ -13,13 +13,13 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "networks-and-the-effects-of-using-them"
     subtopic: "networks-0417"
-description: "Router operation, common network devices, wi-fi and Bluetooth, cloud computing, and the differences between extranets, intranets, the internet, LANs, WLANs and WANs, for Cambridge IGCSE ICT 0417, section 4.1."
+description: "Routers, NICs, hubs, switches and bridges, wi-fi and Bluetooth, cloud computing, intranets, extranets, LANs, WLANs and WANs for Cambridge IGCSE ICT 0417, 4.1."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 ---
 
 This guide covers **4.1, Networks**, the first half of Topic 4 in
@@ -137,6 +137,20 @@ wirelessly, and multiple sites) rather than abstract definitions, and
 be ready to classify a described network (for example, "a school
 connects its three campuses across a city") using the correct term
 with a stated reason.
+
+## Frequently asked questions
+
+**What is the difference between wi-fi and Bluetooth?**
+Both are wireless connection methods. Wi-fi typically connects a device to a wider network, and through it the internet, over a larger range; Bluetooth typically connects two devices directly to each other over a much shorter range, such as headphones or a wireless keyboard, with no network infrastructure in between.
+
+**What are the advantages and disadvantages of cloud storage?**
+Cloud storage can be reached from any internet-connected device and reduces reliance on local storage hardware. Its disadvantages are that you need a working internet connection to access the data, and you rely on a third-party provider for its security and availability.
+
+**Why is a switch more efficient than a hub?**
+A hub sends incoming data to every connected device, whichever one it is meant for. A switch learns which device is on which port and sends data only to the intended recipient, so it makes better use of network capacity.
+
+**What does a bridge do on a network?**
+A bridge connects two separate network segments so that they function as one combined network. In Cambridge IGCSE ICT 0417 it is often confused with a hub or a switch, so describe what each device does with data.
 
 ## Official syllabus
 

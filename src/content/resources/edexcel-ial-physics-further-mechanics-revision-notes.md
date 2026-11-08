@@ -15,9 +15,9 @@ syllabusTopics:
     subtopic: "further-mechanics"
 description: "Condensed recall notes on momentum in two dimensions, circular motion and centripetal force for Edexcel International A Level Physics YPH11 (Unit 4, WPH14)."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -157,3 +157,16 @@ Below this the object leaves the circular path.
   <figcaption>Tension is larger than weight when acceleration is upward and smaller when it is downward, T = m(g + a).</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the tension at the top and bottom of a vertical circle?**
+At the top, T = mv²/r − mg; at the bottom, T = mv²/r + mg, so tension is greatest at the bottom. If energy is conserved the object is faster at the bottom, and the tensions differ by 6mg rather than 2mg.
+
+**What is the minimum speed at the top of a vertical circle?**
+At the minimum speed the tension is zero and weight alone provides the centripetal force, so mg = mv²/r and v_min = √(gr).
+
+**What provides the centripetal force in common situations?**
+Tension provides it for a ball on a string, friction for a car on a flat bend, gravitational attraction for a planet in orbit, and the magnetic force BQv for a charged particle in a magnetic field.
+
+**What is the difference between Core Practicals 9 and 10?**
+Core Practical 9 investigates the relationship between force and change of momentum. Core Practical 10 uses ICT, such as video analysis, to analyse collisions between small spheres.

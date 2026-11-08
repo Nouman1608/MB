@@ -115,6 +115,20 @@ These questions cover the **Perfect competition** and **Monopolistic competition
 - Leaving units off money answers, and not saying whether a number is firms or entrants.
 - Describing non-price competition with no cost or judgement.
 
+## Frequently asked questions
+
+**What shape is a perfectly competitive firm's demand curve?**
+It is horizontal at the market price, because the firm is a price taker. Drawing it sloping downward is a common mistake.
+
+**How is the MR curve related to a straight-line demand curve?**
+For a straight-line demand curve, the MR curve has twice the slope. Using the demand slope as the MR slope gives the wrong output.
+
+**Should a firm close as soon as it makes a loss?**
+No. In the short run a firm keeps producing as long as price covers average variable cost; calling any loss a reason to close immediately loses marks.
+
+**Where is a monopolistically competitive firm in long-run equilibrium?**
+Not at the lowest point of average cost. It makes normal profit where AR touches AC, at an output below the minimum-cost point, leaving excess capacity.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/aqa-a-level-economics-perfect-competition-and-monopolistic-competition-revision-notes/).

@@ -31,14 +31,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "statistics-cambridge-igcse-maths"
     subtopic: "histograms-cambridge-igcse-maths"
-description: "Original exam-style practice questions with full worked answers on classifying and interpreting data, averages, range, charts, scatter diagrams, cumulative frequency and histograms for Cambridge IGCSE Mathematics 0580."
+description: "Worked practice questions on data types, averages, range, pie charts, scatter diagrams, cumulative frequency and histograms for Cambridge IGCSE 0580."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-01
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -172,5 +172,19 @@ Total        22        23        15        60
 - When reading a value (e.g. the median) from a stem-and-leaf diagram, record the **full** value -- stem and leaf together -- not just the leaf digit found in the middle row.
 - If a question adds a constant to every data value, update **both** the mode and the median by that constant, not just one of them (the range stays unchanged either way).
 - When reading an interquartile range from a cumulative frequency graph, record **both** quartile readings as working before subtracting -- giving only the final difference, with no readings shown, risks losing the method mark even with a correct final answer.
+
+## Frequently asked questions
+
+**What is the difference between discrete and continuous data?**
+Discrete data are counted, such as the number of siblings, while continuous data are measured, such as height. Decide by what the data measure, not by how they are displayed.
+
+**How do you find the median of a data set?**
+Put the values in order first, then find the middle value. Giving the position of the middle value instead of the value itself is a common error.
+
+**Does positive correlation mean one variable causes the other?**
+No. Correlation only describes a pattern in the data, where one variable tends to increase as the other increases; it does not show cause and effect.
+
+**What happens to the mode and median if a constant is added to every value?**
+Both the mode and the median increase by that constant, so update both values rather than only one.
 
 *Source: Cambridge International, 0580 Mathematics Principal Examiner Report, June 2024 series, Papers 12, 22, 23, 31 (verified 2026-09-02).*

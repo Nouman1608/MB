@@ -11,13 +11,13 @@ order: 5
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-mathematics-assessment-criteria"
-description: "Original MYP Mathematics practice questions, scenario-based with full worked answers, testing whether sample coursework evidence would meet top-band standard for each of the four assessment criteria."
+description: "Original IB MYP Mathematics practice questions with worked answers, testing whether sample coursework evidence meets the top band for each assessment criterion."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, modelling the kind of
@@ -92,6 +92,20 @@ subject-group guide additionally recognises a level of 0 below the lowest band, 
 actual attainable range is 0-8, and the four-criterion total is 0-32, not 4-32), but a single
 well-designed coursework task is often built to generate evidence relevant to more than one criterion
 simultaneously, so revising the criteria as entirely separate, unconnected skills risks producing work that satisfies one criterion while accidentally neglecting another the same task was also meant to assess. A mathematical investigation task illustrates this directly: the investigative process itself -- noticing a pattern, forming and testing a conjecture -- generates Criterion B evidence, while how clearly and completely that process is written up, with correct notation and a logical structure a reader can follow, generates Criterion C evidence at the very same time, from the very same piece of work. A student who focuses revision only on "getting the right formula" (Criterion B's eventual output) while neglecting how that process is documented and communicated (Criterion C) can undermine their own mark on a task that was always going to be assessed on both criteria together. **[6]**
+
+## Frequently asked questions
+
+**Why is solving textbook problems not enough for the top band in Criterion A?**
+The top band of Criterion A in IB MYP Mathematics requires applying mathematics in both familiar and unfamiliar situations. Correct answers to familiar, textbook-style problems do not show that the same knowledge transfers to an unfamiliar problem.
+
+**Can a final formula alone earn top-band Criterion B credit?**
+No. Top-band Criterion B evidence shows the investigation itself: noticing a pattern, forming a conjecture, testing it on further cases and justifying it. A formula with no working that led to it does not show that process.
+
+**Does a correct answer guarantee a high level in Criterion C?**
+No. Criterion C assesses the clarity and completeness of the communication, so labelled equations, each step in sequence with correct notation and a concluding sentence are needed, not just the right final values.
+
+**What lifts a modelling answer to the top band in Criterion D?**
+Reflecting critically on the result, including whether the model is reasonable and where its limits are. A prediction made far outside the range the model was built on, with no comment on validity, is unlikely to reach the top band.
 
 ## Official syllabus
 

@@ -12,13 +12,22 @@ order: 2
 syllabusTopics:
   - qualification: "gcse"
     topic: "paper-2-modern-texts-and-poetry-8702"
-description: "Modern prose or drama, the poetry anthology cluster, and unseen poetry -- the full structure of Paper 2 for AQA GCSE English Literature (8702), the paper worth 60% of the qualification."
+  - qualification: "gcse"
+    topic: "paper-2-modern-texts-and-poetry-8702"
+    subtopic: "section-a-modern-texts-8702"
+  - qualification: "gcse"
+    topic: "paper-2-modern-texts-and-poetry-8702"
+    subtopic: "section-b-poetry-8702"
+  - qualification: "gcse"
+    topic: "paper-2-modern-texts-and-poetry-8702"
+    subtopic: "section-c-unseen-poetry-8702"
+description: "AQA GCSE English Literature 8702 Paper 2 Modern Texts and Poetry: the modern prose or drama text, the anthology cluster, unseen poetry and the paper's format."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide covers **Paper 2 Modern Texts and Poetry**, the second of
@@ -132,6 +141,18 @@ Choosing the comparison poem well before the exam -- rather than
 deciding in the moment -- is one of the highest-value pieces of
 Section B preparation, since it removes a difficult decision from
 under time pressure.
+
+## Frequently asked questions
+
+**How long is AQA 8702 Paper 2?**
+2 hours 15 minutes for 96 marks and 60% of the GCSE, closed book.
+
+**What are the three sections?**
+Section A modern texts (30 + 4 marks), Section B the poetry anthology cluster (30) and Section C unseen poetry (24 + 8).
+
+**Is the anthology provided in the exam?**
+The named poem is printed for Section B, but you must recall the second poem you compare it with.
+
 
 ## Quick revision checklist
 

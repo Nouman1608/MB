@@ -267,6 +267,23 @@ Definitions below are standard forms or the writer's own wording, not the specif
 - Writing "price rises" without saying what happens to revenue.
 - Listing the stages of NPD without applying them to the product given.
 
+## Frequently asked questions
+
+**How does price elasticity of demand affect revenue?**
+With elastic demand, a price rise cuts revenue and a price cut raises it. With inelastic demand, a price rise raises revenue and a price cut reduces it.
+
+**How do you calculate price elasticity of demand?**
+PED is the percentage change in quantity demanded divided by the percentage change in price. A value above 1, ignoring the sign, is elastic and a value below 1 is inelastic.
+
+**What is an integrated marketing mix?**
+An integrated mix is one where product, price, promotion and place all send one message to the same target market. A premium chocolate at a discount price, for example, gives mixed signals, while an integrated mix reinforces positioning, avoids wasted spend and is harder to copy.
+
+**What is multi-channel distribution?**
+Multi-channel distribution uses several routes to customers at once, such as a shop, a website and a wholesaler. It reaches more customers and spreads risk, but can cause channel conflict and raises management cost.
+
+**What are the 7Ps in OxfordAQA 9625?**
+The 9625 section is headed "7Ps": product, price, promotion and place, plus people, process and physical environment. 9725 uses the four elements of product, price, promotion and place.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business specification, section 3.1.2.4 The marketing mix. Text read: 9725 Version 1.1 (4Ps) and 9625 Version 3.1 (7Ps); the two differ, see the 9625 section above. Published by OxfordAQA.

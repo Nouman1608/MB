@@ -242,6 +242,20 @@ Heart rate = 60 ÷ cycle time. Pulse pressure = systolic − diastolic.
 - Mixing up valve closures with the pressure that causes them in cardiac cycle questions.
 - Forgetting that mature xylem vessels are dead and phloem sieve tubes are living.
 
+## Frequently asked questions
+
+**What is the difference between arteries, veins and capillaries?**
+Arteries have thick walls with elastic fibres and smooth muscle and a narrow lumen; veins have thin, flexible walls, a wide lumen and valves; capillaries have walls one cell thick, giving a short diffusion distance for exchange.
+
+**How do you measure pulse rate?**
+Press two fingertips (not the thumb) on the carotid or radial artery of a rested person, count beats for a timed period, multiply by 60 ÷ seconds counted, and repeat and average.
+
+**What is the difference between transpiration pull and root pressure?**
+Transpiration pull is a negative pressure potential (tension) from water evaporating at the leaves; root pressure is a positive pressure from roots actively transporting mineral ions into the xylem so water follows by osmosis.
+
+**Which statements in IB DP Biology B3.2 Transport are HL only?**
+Statements B3.2.11 to B3.2.18 are HL only: tissue fluid and lymph, single and double circulation, heart structure and the cardiac cycle, root pressure and phloem.
+
 ## Official syllabus
 
 This resource follows the IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization.

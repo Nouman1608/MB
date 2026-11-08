@@ -267,6 +267,23 @@ Calculate the maximum mass of sulfuric acid that can be made from 8.0 tonnes of 
 
 Condense this unit with the [revision notes](/resources/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid-practice/). Related: [rate of reaction](/resources/oxfordaqa-igcse-chemistry-rate-of-reaction/), [energy changes](/resources/oxfordaqa-igcse-chemistry-exothermic-endothermic-and-energy-change/) and the [exam preparation page](/resources/oxfordaqa-igcse-chemistry-exam-preparation/). The [free diagnostics](/diagnostics/) will show which other topics need work.
 
+## Frequently asked questions
+
+**How does raising the temperature affect an equilibrium?**
+Raising the temperature favours the direction that absorbs energy, the endothermic direction. So for a reaction whose forward direction is exothermic, a higher temperature gives a lower yield of product. Always decide which direction is exothermic first.
+
+**How does pressure affect the yield of a gas reaction?**
+Count the molecules of gas on each side of the balanced equation. Increasing pressure favours the reaction that produces fewer molecules, and decreasing pressure favours the one that produces more; if both sides have the same number, the yield does not change.
+
+**What conditions are used in the Haber process?**
+Nitrogen and hydrogen pass over an iron catalyst at about 450 °C and about 200 atmospheres. The ammonia is removed by cooling, and the unreacted nitrogen and hydrogen are recycled.
+
+**Why does the contact process use atmospheric pressure?**
+Higher pressure would favour sulfur trioxide, because 3 molecules of gas become 2, but the equilibrium mixture already contains a high proportion of sulfur trioxide at atmospheric pressure. Extra pressure would add cost for little gain.
+
+**Does a catalyst increase the yield of an equilibrium reaction?**
+No. A catalyst speeds up the forward and backward reactions, so equilibrium is reached sooner, but it does not change the yield. It lets a plant produce product faster.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. This guide covers section 3.8.2 Factors affecting equilibrium and section 3.8.3 Production of ammonia and sulfuric acid.

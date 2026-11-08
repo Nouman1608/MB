@@ -246,6 +246,20 @@ critical values: 1/3 and 2
 </figure>
 
 
+## Frequently asked questions
+
+**Which section of Edexcel IGCSE Maths 4MA1 covers inequalities?**
+Section 2.8, Inequalities, in Topic 2 (Equations, formulae and identities) covers them. Symbols, number lines, linear inequalities and graph regions are on both tiers, and quadratic inequalities are Higher tier only.
+
+**What does an open circle mean on a number line?**
+An open (empty) circle means the end value is not included, for > or <. A closed (filled) circle means the value is included, for ≥ or ≤.
+
+**What does a double-ended inequality such as −2 < x ≤ 6 mean?**
+It gives a lower and an upper limit together: x is greater than −2 and less than or equal to 6. On a number line it is shown with an open circle at −2 and a closed circle at 6, joined by a line.
+
+**Do you need solid or dashed lines for graph inequalities in 4MA1?**
+The specification notes that conventions for showing whether a boundary is included are not required. Many textbooks still use solid lines for ≤ or ≥ and dashed lines for < or >.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Mathematics (Specification A) (4MA1), Specification, Issue 2, November 2017, Pearson Education Limited (first assessment June 2018). Topic 2, Equations, formulae and identities, section 2.8 Inequalities (Foundation tier statements 2.8A–E and Higher tier statements 2.8A–B).

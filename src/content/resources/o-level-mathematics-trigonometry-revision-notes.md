@@ -308,6 +308,23 @@ Paper 1 can include any of this topic, so practise the structure without a calcu
 - Drawing no sketch in a 3D problem, so the wrong triangle is used.
 - Forgetting units, such as cm² for area.
 
+## Frequently asked questions
+
+**Are the sine rule and cosine rule given in the Cambridge O Level Mathematics 4024 exam?**
+Yes. The sine rule, cosine rule and area formula are in the List of formulas, but you still need to know when to use each one.
+
+**How accurate should trigonometry answers be in O Level Mathematics?**
+Paper 2 asks for angles in degrees to 1 decimal place and other non-exact answers to 3 significant figures, unless the question says otherwise. Avoid rounding until the final answer.
+
+**What is the ambiguous case of the sine rule?**
+When you know two sides and a non-included angle, the sine rule can give an angle B and also 180° − B, because both have the same sine. Keep the obtuse value only if the angle sum stays below 180°.
+
+**What is the difference between angles of elevation and depression?**
+An angle of elevation is measured up from the horizontal to the line of sight, and an angle of depression is measured down from the horizontal. Both are measured from the horizontal, never the vertical.
+
+**How do you find the space diagonal of a cuboid?**
+Use √(l² + w² + h²), which comes from applying Pythagoras' theorem twice: once for the base diagonal and once with the height.
+
 ## Official syllabus
 
 Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for examination in 2025, 2026 and 2027, topic 6 Trigonometry (Cambridge University Press & Assessment).

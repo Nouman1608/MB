@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "external-influences-facing-businesses-ocr-alevel-business"
-description: "Original exam-style practice questions with full worked answers on markets, market forces, globalisation and PESTLE factors for OCR A Level Business (H431), the External Influences Facing Businesses area of study."
+description: "Original practice questions with worked answers on markets, market forces, globalisation and PESTLE factors for OCR A Level Business H431 External influences."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-04
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -111,3 +111,17 @@ relate to a Resource Booklet describing a real-life business.
 ## Approaching external influences questions
 
 The highest-value skill this topic rewards is linking one external factor to a specific, named consequence for a specific business, rather than listing PESTLE categories in isolation. Before writing an evaluative answer, identify which one or two factors matter most in the scenario given, trace the causal chain from that factor through to costs, revenue or strategy, and only then weigh the opportunity against the risk. Diagram-based questions on demand and supply should always state which curve shifts, in which direction, and why, before describing the new equilibrium — examiners reward the reasoning behind the shift as much as the correct final answer.
+
+## Frequently asked questions
+
+**How do these questions relate to the OCR H431/02 paper?**
+They are original questions modelled on H431/02 (The UK Business Environment), whose live paper has a Section A of short-answer questions worth 20 marks and a Section B of extended-response questions worth 60 marks based on a Resource Booklet about a real-life business. They are not past-paper questions.
+
+**Do all the practice questions use the Resource Booklet?**
+No. Questions 3 to 9 are free-standing, and only Question 10 uses the Resource Booklet on Ferrowest Components Ltd.
+
+**How should you write a demand and supply diagram answer?**
+State which curve shifts, in which direction and why, before describing the new equilibrium. Confusing a shift in the curve with a movement along it is a common way to lose marks.
+
+**How do you approach an evaluative question on external influences?**
+Identify the one or two factors that matter most in the scenario, trace the chain from that factor to costs, revenue or strategy, and then weigh the opportunity against the risk for that business.

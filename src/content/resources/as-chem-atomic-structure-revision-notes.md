@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-atomic-structure"
     subtopic: "as-isotopes"
-description: "Condensed recall notes on protons, neutrons and electrons, beams in an electric field, atomic and ionic radius trends, and isotopes for Cambridge AS Level Chemistry 9701 (2025-2027)."
+description: "Revision notes for Cambridge AS & A Level Chemistry 9701 atomic structure: subatomic particles, beams in an electric field, radius trends and isotopes."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-27
 updatedDate: 2026-09-27
 featured: false
@@ -206,6 +206,20 @@ is 75% ³⁵Cl and 25% ³⁷Cl.
    have 17 electrons with the same electronic configuration, and chemical reactions involve the
    electrons, so they react in the same way.
 10. Ar = (10 × 20 + 11 × 80) ÷ 100 = (200 + 880) ÷ 100 = 1080 ÷ 100 = 10.8
+
+## Frequently asked questions
+
+**Which way are protons, electrons and neutrons deflected in an electric field?**
+Electrons are deflected towards the positive plate, protons towards the negative plate, and neutrons not at all. The sign of the charge decides the direction, and the charge-to-mass ratio decides how much.
+
+**Why is an electron beam deflected more than a proton beam?**
+An electron has a much smaller mass than a proton, so its charge-to-mass ratio is much larger. The electron beam therefore bends through a larger angle.
+
+**How many electrons are in an Mg²⁺ ion?**
+Magnesium has 12 electrons, and forming Mg²⁺ removes two, leaving 10. For ions in Cambridge 9701, change only the electron count; the protons and neutrons stay the same.
+
+**How do isotopes of the same element differ?**
+Isotopes have the same number of protons but different numbers of neutrons. Their chemical properties are the same because they have the same electron configuration; physical differences are limited to mass and density.
 
 *These are original notes written for revision. Isotope abundances marked illustrative are rounded,
 not data-book values. Check the full syllabus wording in the

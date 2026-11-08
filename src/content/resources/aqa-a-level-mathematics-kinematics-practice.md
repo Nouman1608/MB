@@ -193,6 +193,23 @@ Using sin 2α = 2 sin α cos α, R = U² sin 2α / g [1]
 - Dropping or mishandling a constant of integration, especially a vector one.
 - Giving only the speed when the velocity or direction of motion is asked for.
 
+## Frequently asked questions
+
+**What does AQA A-level Maths 7357 Section Q cover?**
+Section Q covers the language of kinematics, motion graphs, the constant acceleration (suvat) formulae, variable acceleration using calculus, and projectiles, content references Q1 to Q5. It is assessed on Paper 2.
+
+**What is the difference between displacement and distance travelled?**
+Displacement is the signed change in position, a vector, while distance is the total length of path covered. A particle that goes 9 m forward then 15 m back has displacement −6 m but distance 24 m.
+
+**When can you not use the suvat equations?**
+When the acceleration depends on t. Then use calculus: v = ∫ a dt and r = ∫ v dt, with a constant of integration each time.
+
+**How do you find the total distance travelled when velocity is a function of t?**
+Solve v = 0 to find where the particle changes direction, find the position at the start, at each time of rest and at the end, then add the sizes of the changes. Integrating straight across gives only the displacement.
+
+**How do you show a projectile clears a wall?**
+Find the time to reach the wall from the constant horizontal velocity, find the height at that time, compare it with the wall height and state the conclusion.
+
 ## Next steps
 
 - Recap with the [Kinematics revision notes](/resources/aqa-a-level-mathematics-kinematics-revision-notes/).

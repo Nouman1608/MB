@@ -228,6 +228,23 @@ Advantages: more sales, spreading risk (a fall at home is offset by sales abroad
 - Recommending an extension strategy without saying why the product needs one.
 - Forgetting a disadvantage: every method has a cost.
 
+## Frequently asked questions
+
+**What are the four stages of the product life cycle?**
+The four stages are introduction, growth, maturity and decline.
+
+**What is an extension strategy?**
+An extension strategy tries to stop sales falling when a product is mature or in decline. When recommending one, link it to a fact in the case and say why the product needs it.
+
+**How do you calculate a cost-plus price?**
+The cost-plus selling price is the unit cost plus the unit cost multiplied by the mark-up percentage. For example, a unit cost of 3.20 with a 45% mark-up gives a price of 4.64.
+
+**What are the advantages of entering new markets abroad?**
+Entering markets in other countries can bring more sales, spread risk because a fall at home may be offset by sales abroad, and extend a product's life.
+
+**What is ecommerce?**
+Ecommerce is buying and selling using the internet. Syllabus examples include mobile or internet banking, online shopping and online ticketing.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment, section 3.3 Marketing mix.

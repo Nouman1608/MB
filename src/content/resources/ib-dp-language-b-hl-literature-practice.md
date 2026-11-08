@@ -19,11 +19,11 @@ syllabusTopics:
     topic: "ib-dp-language-b-sharing-the-planet"
 description: "Original IB DP Language B HL practice on literary extracts: three passages, analysis questions, theme links and an oral plan, with marked answers."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -239,6 +239,20 @@ connection.
 - [Printable Language B checklist](/checklists/ib/ib-dp/language-b/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Is literature studied at SL in IB Language B?**
+No. In IB DP Language B, the study of literary works is required at HL only; SL students do not study literary works for assessment.
+
+**What are the five steps for discussing a literary extract?**
+Locate the extract in the work, summarise it briefly, analyse two or three features with short quotations, connect it to the whole work, and link it to a prescribed theme.
+
+**Why do HL literature answers lose marks?**
+Common reasons are retelling what happens instead of explaining how the language works, naming a technique without its effect, quoting long sentences, and treating a narrator's or character's view as the author's.
+
+**How do you link a literary extract to a theme convincingly?**
+Name the prescribed theme together with a recommended topic or one of its possible questions, and support the link with evidence from the extract. A one-sentence theme label is not enough.
 
 ## Official syllabus
 

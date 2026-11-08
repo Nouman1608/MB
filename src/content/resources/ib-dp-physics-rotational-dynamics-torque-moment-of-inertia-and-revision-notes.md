@@ -210,6 +210,20 @@ The guide's linking idea is that the equations of motion and the conservation la
 - Giving a final answer without a sense when the question asks for the direction of rotation.
 - Not showing the substitution in a "show that" question, where the full route is needed.
 
+## Frequently asked questions
+
+**Is angular velocity treated as a vector in IB DP Physics?**
+No. The guide uses angular speed with a sense of rotation, clockwise or counter-clockwise, rather than a full vector treatment.
+
+**Does rotational equilibrium mean the body is at rest?**
+No. Zero resultant torque means constant angular velocity, which can be non-zero, so a body in rotational equilibrium can still be turning.
+
+**Torque and energy are both in N m, so are they the same thing?**
+No. Torque is a turning effect with a sense, while energy is a scalar. Write torque in N m and energy in J.
+
+**Is kinetic energy conserved when two spinning bodies join?**
+No. Angular momentum is conserved if no external torque acts, but kinetic energy is lost when bodies join.
+
 ## Official syllabus
 
 These notes follow sub-topic A.4 (Rigid body mechanics) of the IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization.

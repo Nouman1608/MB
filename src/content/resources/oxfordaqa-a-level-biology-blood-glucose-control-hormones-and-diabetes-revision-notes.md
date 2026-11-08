@@ -242,6 +242,20 @@ Because each chain reverses the other's effect, the system shows **negative feed
 - Stating that a correlation in risk-factor data proves cause.
 - Quoting a percentage change without the units or the starting value as the denominator.
 
+## Frequently asked questions
+
+**How does insulin lower blood glucose?**
+Insulin attaches to receptors on target cells, increases the number of channel proteins for glucose in the cell-surface membrane, and activates enzymes that convert glucose to glycogen. More glucose enters cells by facilitated diffusion, so blood glucose falls.
+
+**Why is insulin injected rather than taken as a tablet?**
+Insulin is a protein, so a tablet would be digested by proteases in the gut and the hormone destroyed. It is therefore injected.
+
+**What is the difference between glycogen and glucagon?**
+Glycogen is the branched polymer of glucose stored in liver and muscle cells. Glucagon is the protein hormone from the pancreas that activates enzymes converting glycogen to glucose.
+
+**How do you interpret a glucose tolerance test?**
+Check whether the starting value is within the typical fasting range of about 4 to 6 mmol dm⁻³, how high and how late the peak is, and how quickly the concentration returns to the start. A slow or incomplete fall suggests poor regulation.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Biology (9610)*, Version 5.1, for International A-level exams May/June 2018 onwards: section 3.4.7, Hormones and the control of blood glucose concentration.

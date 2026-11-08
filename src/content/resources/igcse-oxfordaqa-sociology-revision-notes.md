@@ -12,13 +12,25 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-introducing-sociology-9292"
+  - qualification: "igcse"
+    topic: "paper-1-introducing-sociology-9292"
+    subtopic: "families-9292"
+  - qualification: "igcse"
+    topic: "paper-1-introducing-sociology-9292"
+    subtopic: "education-9292"
+  - qualification: "igcse"
+    topic: "paper-1-introducing-sociology-9292"
+    subtopic: "research-methods-9292"
+  - qualification: "igcse"
+    topic: "paper-2-exploring-sociology-9292"
+    subtopic: "research-methods-paper2-9292"
 description: "Condensed recall notes on families, education and research methods for OxfordAQA International GCSE Sociology (9292) Paper 1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -165,3 +177,17 @@ internalises and acts out, making the original expectation come true. 5.
 Reliability is consistency on repetition, favoured by quantitative
 methods; validity is giving a true picture, favoured by qualitative
 methods.
+
+## Frequently asked questions
+
+**Which sociologist goes with each perspective on the family in 9292?**
+The OxfordAQA International GCSE Sociology (9292) notes pair functionalism with Parsons, Marxism with Engels and feminism with Oakley.
+
+**What did Therborn show about family systems?**
+Therborn identified different family systems across world regions, showing that family form is not universal.
+
+**What are boomerang children?**
+Boomerang children are adult children who return to the family home, usually for economic reasons.
+
+**What ethical principles apply to sociological research?**
+Informed consent, confidentiality, protection from harm, no deception and the right to withdraw. Research with children also needs parental or guardian consent.

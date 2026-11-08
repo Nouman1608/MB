@@ -25,11 +25,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-1-16"
 description: "Condensed IB DP Maths AA HL revision notes on counting, binomial series, partial fractions, proof and linear systems, with a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 For full explanations and worked examples, start with the [study guide for this unit](/resources/ib-dp-mathematics-aa-hl-counting-partial-fractions-proof-systems/). These notes are for fast recall in the final weeks.
@@ -241,6 +241,20 @@ On Paper 2 or 3, a GDC solver or matrix row reduction can do the arithmetic. The
 - A missing or incomplete concluding sentence in induction; without it the proof is not complete.
 - A counterexample given with no working to show it breaks the statement.
 - A system with infinitely many solutions answered with one particular solution instead of the general solution.
+
+## Frequently asked questions
+
+**When is a binomial expansion with a fractional or negative index valid?**
+The expansion of (1 + x)ⁿ for n ∈ ℚ that is not a natural number is an infinite series, valid only for |x| < 1. For (a + b)ⁿ, take out aⁿ first; the expansion is then valid for |b/a| < 1.
+
+**Which counting topics are not required in IB Maths AA HL?**
+The IB DP Mathematics: Analysis and Approaches guide does not require permutations with identical objects, circular arrangements, or proof of the binomial theorem.
+
+**How do you prove divisibility by induction?**
+In the inductive step, write a^(k+1) as a × a^k, then split off a multiple of the expression you assumed divisible. For example, 9^(k+1) − 1 = 9(9^k − 1) + 8.
+
+**How can you tell a linear system has no solution?**
+Eliminate variables until one equation is left. If it reads something false, such as 0 = 1, the system is inconsistent and has no solution; if it reads 0 = 0, there are infinitely many solutions.
 
 ## Official syllabus
 

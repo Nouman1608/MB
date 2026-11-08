@@ -168,6 +168,20 @@ In the real exam, questions like 6, 9 and 10 are marked holistically against the
 - Take one of our [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is sovereignty in IB Global Politics?**
+The IB DP Global Politics guide starts from sovereignty as a state's independence, control over its territory and ability to govern itself, while treating the concept as contestable. It is a core topic common to SL and HL.
+
+**How are the longer sovereignty questions marked?**
+Extended source evaluations, essays and HL recommendation questions are marked holistically against IB markbands, not point by point. For a recommendation, the top band requires challenges or unintended consequences of the proposed action to be considered.
+
+**What is the difference between a percentage change and a percentage-point change?**
+A percentage-point change is the simple difference between two percentages, for example, going from 60% to 45% is a fall of 15 percentage points. Confusing it with percentage change is a common way to lose marks when describing Paper 1 data.
+
+**What are common mistakes on sovereignty questions?**
+Frequent slips include using "sovereignty" without naming the notion or dimension meant, describing sources one after another in a compare-and-contrast answer, naming real cases without explaining how they support the point, and leaving out a judgement on evaluate, discuss or recommend questions.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Diploma Programme *Global politics guide*, first assessment 2026 (published February 2024) -- core topics, prescribed topic "Sovereignty in global politics".

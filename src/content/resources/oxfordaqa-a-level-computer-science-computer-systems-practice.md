@@ -161,6 +161,20 @@ Load x from 150 [1]; subtract the immediate value 7 using #7 [1]; store the resu
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are these OxfordAQA 9645 computer systems questions real past paper questions?**
+No. They are original questions written for revision, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside official past papers from your board or school.
+
+**What do these computer systems practice questions cover?**
+They cover topic 6 of the 9645 specification, sections 3.6.1 to 3.6.3.2: hardware and software, system software and OS functions, scheduling and memory allocation, language levels, assembly language and program translators. All of it is International AS content in Unit 2.
+
+**What are common mistakes in scheduling and memory allocation questions?**
+Common slips include forgetting that a process needing less than a full time slice finishes early, and counting memory locations exclusively so block sizes come out one short. Keep a running clock and write the start and end location of each block.
+
+**How do you answer "explain two differences" between a compiler and an interpreter?**
+Each difference should describe both translators, for example by linking them with "whereas". Two facts about the compiler alone do not count as a difference.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.6 Computer systems.

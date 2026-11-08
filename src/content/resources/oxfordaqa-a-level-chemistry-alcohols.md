@@ -299,6 +299,20 @@ Answer: **45.0 %**. Losses include incomplete reaction, further oxidation and li
 Next, try the [alcohols question set](/resources/oxfordaqa-a-level-chemistry-alcohols-practice/). Redox language for the dichromate colour change is in the
 [9620 redox guide](/resources/oxfordaqa-a-level-chemistry-oxidation-reduction-and-redox-equations/).
 
+## Frequently asked questions
+
+**How do you classify an alcohol as primary, secondary or tertiary?**
+Find the carbon atom that carries the –OH group and count how many other carbon atoms are bonded to it: one for primary, two for secondary and three for tertiary. Counting every carbon in the molecule is a common mistake.
+
+**How do you oxidise a primary alcohol to a carboxylic acid?**
+Mix the alcohol with excess acidified potassium dichromate(VI) and heat under reflux until the reaction is complete, then distil off the acid. To stop at the aldehyde instead, keep the alcohol in excess and distil the aldehyde as it forms.
+
+**How do Fehling's solution and Tollens' reagent tell aldehydes from ketones?**
+Both are mild oxidising agents that react only with aldehydes, because an aldehyde has a hydrogen on its carbonyl carbon. Fehling's solution turns from blue to a red precipitate and Tollens' reagent gives a silver mirror, while a ketone gives no change.
+
+**Can alkenes from alcohols be used to make polymers without crude oil?**
+Yes. The OxfordAQA 9620 specification notes that alkenes made by eliminating water from alcohols can be used to make addition polymers without monomers derived from crude oil, provided the alcohol itself comes from a non-petroleum source such as plant material.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS

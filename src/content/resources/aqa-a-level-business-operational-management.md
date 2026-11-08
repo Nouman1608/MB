@@ -199,6 +199,23 @@ On an **inventory control chart** the line falls steadily at the rate of use, a 
 
 Practise with the [practice questions](/resources/aqa-a-level-business-operational-management-practice/), then check recall with the [revision notes](/resources/aqa-a-level-business-operational-management-revision-notes/).
 
+## Frequently asked questions
+
+**How do you calculate labour productivity and unit cost?**
+Labour productivity = output ÷ number of employees (or per hour worked). Unit cost = total costs ÷ output. The specification names these measures without formulas, so these are the standard forms.
+
+**What is lean production?**
+Lean production aims to cut waste of every kind, including time, materials, space and effort, while still meeting customer needs. Just in Time is part of lean production: stock arrives only as it is needed.
+
+**What is mass customisation?**
+Mass customisation means making products to individual customer wishes at close to mass-production cost.
+
+**How should a business choose a supplier?**
+Consider price, quality, reliability, speed, flexibility, payment terms, ethical and environmental record, location and the supplier's financial strength, and weigh them for the business in question.
+
+**Which section of the AQA Business specification covers operations?**
+Section 3.4, Decision making to improve operational performance, covering operational objectives, operations data, efficiency and productivity, quality, and inventory and supply chains.
+
 ## Official syllabus
 
 AQA AS and A-level Business specification (7131 and 7132), subject content section 3.4, published by AQA.

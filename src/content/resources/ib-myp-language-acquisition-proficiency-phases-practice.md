@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-eassessment-structure"
   - qualification: "ib-myp"
     topic: "ib-myp-language-acquisition-assessment-criteria"
-description: "Original practice questions with full worked answers on matching revision to proficiency level, the four criteria's equal weighting, and the compulsory-status exception, for IB MYP Language Acquisition."
+description: "Original questions with worked answers on matching IB MYP Language Acquisition revision to your proficiency level and on its four equally weighted criteria."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -95,6 +95,20 @@ MYP eAssessment results are reported at. Day-to-day teaching uses a separate, fi
 **7.** MYP Language Acquisition is compulsory in every year of the programme, with one specific exception: bilingual students may instead pursue courses of study in multiple languages within the MYP Language and Literature subject group. This distinction matters because the proficiency-level structure (emergent, capable, proficient) and the four independently-weighted criteria described in this guide apply specifically to the Language Acquisition pathway -- a student on the bilingual Language and Literature route instead follows that subject group's own different assessment structure. The student should first check with their school or teacher which specific pathway they are actually enrolled in, since assuming the Language Acquisition structure applies without confirming this could lead to revising against the wrong assessment framework entirely. **[5]**
 
 **8.** An example of over-reaching: a capable-level student attempting proficient-level idiomatic language they do not fully control risks introducing genuine errors that a lower level of accurate, secure capable-level language would have avoided, and does not actually demonstrate capable-level competence more convincingly -- the assessment credits accuracy and control at the assessed level, not borrowed complexity from a higher one. An example of under-reaching: an emergent-level student who only ever practises very simple, formulaic phrases well below what the emergent level's own descriptors expect (for instance, avoiding any variation in sentence structure at all) fails to demonstrate the full range of what top-band emergent evidence should show, even though nothing in their language use is technically wrong. In both cases, "harder is always better" and its inverse both miss the actual target: producing the strongest, most accurate, most complete evidence specifically for one's own confirmed proficiency level, neither reaching beyond it nor staying safely below it. **[6]**
+
+## Frequently asked questions
+
+**Are these official IB MYP Language Acquisition questions?**
+No. They are original practice questions with full worked answers, written to test understanding of proficiency levels, the four criteria and revision planning. Use them alongside the study guide and revision notes.
+
+**What is the difference between the six phases and the three proficiency levels?**
+The six phases are a finer continuum used for day-to-day teaching, while emergent, capable and proficient are the three levels at which MYP eAssessment results are reported. They serve different purposes and are not the same scale.
+
+**How does MYP Language Acquisition link to the Diploma Programme?**
+MYP Language Acquisition examination tasks are aligned with the skills needed for DP Language Acquisition and DP Studies in Language and Literature, so criterion habits built at MYP transfer to either DP pathway.
+
+**How should I check my answers to these questions?**
+Compare each answer with the worked answers, checking that you have explained the reason and described what the student should do, not just stated a fact. Scenario questions reward linking the advice to the student's own proficiency level.
 
 ## Official syllabus
 

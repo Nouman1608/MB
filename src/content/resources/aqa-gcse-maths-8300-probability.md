@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "probability-aqa-gcse-maths"
 description: "Study guide for AQA GCSE Maths 8300 Probability (P1-P9): relative frequency, sample spaces, Venn and tree diagrams, and conditional probability."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This study guide teaches Topic 5, **Probability** (specification references P1 to P9), of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 (version 1.0). Probability can be tested on any of the three papers at Foundation or Higher tier. P1 to P8 are for both tiers; P9, conditional probability, is Higher tier only and is labelled where it appears. Exams run every May/June and November.
@@ -287,6 +287,20 @@ Probability can appear on Paper 1, so you must add, subtract and multiply fracti
 - Putting the "both" number into each circle as well as the overlap in a Venn diagram.
 - Writing "3 : 5" or "3 out of 8" as a probability. Write 3/8.
 - Giving a probability greater than 1 and not noticing.
+
+## Frequently asked questions
+
+**What is relative frequency?**
+Relative frequency is the number of times an outcome happened divided by the number of trials. It is an estimate of the probability, and it becomes more reliable with more trials.
+
+**How do you calculate expected outcomes in probability?**
+Multiply the probability by the number of trials. The answer is an average over many repeats, so it does not have to be a whole number.
+
+**How do you fill in a Venn diagram from totals?**
+Put the number in both sets into the overlap first, subtract it from each set total to get the only regions, then subtract everything inside the circles from the grand total to get the region outside.
+
+**How much of AQA GCSE Maths is probability and statistics?**
+Probability and statistics together make up about 15% of the marks at both Foundation and Higher tier in AQA GCSE Mathematics 8300.
 
 ## Next steps
 

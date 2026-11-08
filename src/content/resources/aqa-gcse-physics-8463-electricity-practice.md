@@ -30,9 +30,9 @@ syllabusTopics:
     subtopic: "static-electricity"
 description: "Eleven original AQA GCSE Physics 8463 Electricity questions on circuits, resistance, mains safety, power, National Grid and static, with answers."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -210,6 +210,20 @@ resistance is 2.0 kΩ. At 5 °C it is 8.0 kΩ.
 - [Printable AQA GCSE Physics checklist](/checklists/aqa/gcse/physics/)
 - Try [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Which AQA GCSE Physics paper assesses electricity?**
+Section 4.2 Electricity of AQA GCSE Physics 8463 is assessed on Paper 1, at both Foundation and Higher Tier. No content in section 4.2 is Higher tier only.
+
+**Why do you switch off between readings in the resistance of a wire practical?**
+Switching off stops the wire heating up, because resistance changes with temperature. Keeping the temperature constant makes it a fair test of how length affects resistance.
+
+**How should you answer a 6-mark explain question in AQA GCSE Physics?**
+Each mark needs a function or a reason, not just a name or a fact. Listing items, such as wire colours, without explaining what each does keeps the answer in a low mark band.
+
+**What mistakes lose marks in GCSE electricity calculations?**
+Common errors include leaving time in minutes, not converting kW, kΩ and mA to base units, giving answers without a unit, and saying current is "used up" by components in a series circuit.
 
 ## Official syllabus
 

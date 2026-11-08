@@ -12,13 +12,13 @@ order: 4
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-ecology"
-description: "Original practice questions with full worked answers on ecosystem structure, energy flow, nutrient cycling and ecosystem change, for Topic 2 of IB Diploma Programme Environmental Systems and Societies."
+description: "Original practice questions with worked answers on ecosystem structure, energy flow, nutrient cycling and ecosystem change for IB DP ESS Topic 2 Ecology."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -84,6 +84,20 @@ the exception: it is an HL energy-flow question, marked on ecological efficiency
 investigation method rather than on systems or sustainability vocabulary. Question 6 in particular is
 written to penalise an answer that describes only the direct effect of a disturbance, mirroring one of
 the exam traps the revision notes flag.
+
+## Frequently asked questions
+
+**What does IB ESS Topic 2 Ecology cover?**
+It covers ecosystem structure, energy flow, nutrient cycling and ecosystem change. It is the largest topic in the syllabus, with 22 teaching hours at SL and 35 at HL.
+
+**Why do Topic 2 questions ask for systems thinking?**
+The course expects Topic 1's concepts of systems and sustainability to be revisited throughout, so ecology answers are stronger when they treat an ecosystem as a system of connected storages and transfers rather than recalling facts in isolation.
+
+**What is a common mistake on ecosystem disturbance questions?**
+Describing only the direct effect of a disturbance. A strong answer also traces the indirect, cascading effects through other trophic levels.
+
+**Is there HL-only content in these Topic 2 questions?**
+Yes. Question 7 is an HL question marked on ecological efficiency and a quantitative investigation method rather than on systems vocabulary.
 
 ## Official syllabus
 

@@ -276,6 +276,23 @@ A shortcut that skips the magnification is real size = (structure length ÷ bar 
 - Drawings with shading, overlapping label lines or no magnification.
 - Using one graticule calibration for every objective lens.
 
+## Frequently asked questions
+
+**What is the secretory pathway for a protein?**
+The gene is transcribed in the nucleus and mRNA leaves through a pore. Ribosomes on the rough ER translate it, a vesicle carries the protein to the Golgi apparatus for modification and packaging, and a secretory vesicle releases it by exocytosis.
+
+**What is the difference between rough and smooth ER?**
+Rough ER has ribosomes and makes proteins; smooth ER has no ribosomes and makes lipids.
+
+**Why do electron microscopes have better resolution?**
+Electrons have a much shorter wavelength than light, and a shorter wavelength gives better resolution.
+
+**What is Core Practical 5 in Edexcel IAL Biology?**
+It uses a light microscope to observe and draw cells, such as cheek or blood cells, with a graticule calibrated against a stage micrometer for each objective lens.
+
+**What is the difference between a TEM and an SEM?**
+A TEM uses thin sections and shows internal detail. An SEM shows the surface of a specimen in three dimensions.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification, Issue 2, Pearson Education Limited. Statements 3.1 to 3.8 of Topic 3.

@@ -168,6 +168,23 @@ Data for this set: Fe = 55.8. R = 8.31 J mol⁻¹ K⁻¹. Use any other values g
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these Edexcel IAL Chemistry Unit 6 practice questions cover?**
+They target Unit 6: Practical Skills in Chemistry II of the Pearson Edexcel International A Level Chemistry specification (YCH11), an International A2 unit. The questions cover the practical work of Units 4 and 5, including Core Practicals 9 to 16, and earlier tests.
+
+**Which mole ratios are easy to miss in redox titration questions?**
+Iodine reacts with thiosulfate in a 1 : 2 ratio, and manganate(VII) reacts with iron(II) in a 1 : 5 ratio. Put the ratio on its own line, then remember any scale-up from the aliquot to the volumetric flask.
+
+**How do you use the half-neutralisation pH to find Ka?**
+At half the end-point volume, half the weak acid has become its anion, so [HA] = [A⁻] and the ratio cancels in the Ka expression. Then pH = pKa and Ka = 10^(−pH); using the end-point pH instead is a common error.
+
+**Which way round should a cell diagram be written?**
+Put the more positive half-cell, the positive electrode, on the right, with phase lines and a double line for the salt bridge. A reversed diagram gives a negative emf that contradicts your calculated E⦵cell.
+
+**Why must temperatures be in kelvin in an activation energy calculation?**
+The Arrhenius relationship uses 1/T with T in kelvin. Using degrees Celsius gives a badly wrong activation energy, so convert every temperature before taking 1/T.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited. Unit 6: Practical Skills in Chemistry II, with Core Practicals 9 to 16 from Units 4 and 5.

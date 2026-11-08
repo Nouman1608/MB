@@ -332,6 +332,20 @@ Expect these skills in short questions that ask you to simplify, evaluate or sol
 
 Next, condense this into your own notes with the [revision notes](/resources/aqa-a-level-mathematics-rational-indices-and-surds-revision-notes/), then try the [practice questions](/resources/aqa-a-level-mathematics-rational-indices-and-surds-practice/).
 
+## Frequently asked questions
+
+**What is a surd?**
+A surd is a root that cannot be written as a fraction of integers, such as √2, √7 or 3√5. √16 is not a surd because it equals 4.
+
+**Is the square root of a + b equal to √a + √b?**
+No. There is no rule for the root of a sum: for example √(9 + 16) = 5, but √9 + √16 = 7.
+
+**How do you simplify a surd such as √50?**
+Find the largest square number that divides the number under the root and take its square root outside. For example, √50 = √25 × √2 = 5√2.
+
+**When can you combine powers using the laws of indices?**
+Only when the powers share the same base. For example, 2³ × 2⁴ = 2⁷, but 2³ × 3² cannot be written as a single power by adding indices.
+
 ## Official syllabus
 
 AQA, *A-level Mathematics 7357*, specification (version 1.3, dated 31 January 2018), which applies to A-level exams from June 2018: section 3.3 B: Algebra and functions, content references B1 and B2.

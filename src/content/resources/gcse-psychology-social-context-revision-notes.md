@@ -12,7 +12,19 @@ order: 3
 syllabusTopics:
   - qualification: "gcse"
     topic: "paper-2-social-context-and-behaviour-8182"
-description: "Condensed recall notes on social influence, language and communication, brain and neuropsychology, and psychological problems for AQA GCSE Psychology (8182) Paper 2."
+  - qualification: "gcse"
+    topic: "paper-2-social-context-and-behaviour-8182"
+    subtopic: "social-influence-8182"
+  - qualification: "gcse"
+    topic: "paper-2-social-context-and-behaviour-8182"
+    subtopic: "language-thought-communication-8182"
+  - qualification: "gcse"
+    topic: "paper-2-social-context-and-behaviour-8182"
+    subtopic: "brain-and-neuropsychology-8182"
+  - qualification: "gcse"
+    topic: "paper-2-social-context-and-behaviour-8182"
+    subtopic: "psychological-problems-8182"
+description: "Revision notes for AQA GCSE Psychology (8182) Paper 2: social influence, language and communication, brain and neuropsychology, and psychological problems."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -51,6 +63,19 @@ dispositional factors) and **obedience** (Milgram's Agency Theory — agency, au
 proximity, plus Adorno's dispositional Authoritarian Personality). Treating them as the same process
 loses marks.
 
+## Bystanders and crowds — social vs dispositional factors
+
+| Behaviour | Social factors | Dispositional factors |
+|---|---|---|
+| **Conformity** (Asch) | Group size, anonymity, task difficulty | Personality, expertise |
+| **Obedience** (Milgram) | Agency, authority, culture, proximity | Authoritarian Personality (Adorno) |
+| **Bystander behaviour** (Piliavin) | Presence of others, cost of helping | Similarity to victim, expertise |
+| **Crowds** | Social loafing, deindividuation, culture | Personality, morality |
+
+**Piliavin's subway study:** a confederate collapsed on a New York subway train, appearing either ill (with a cane) or drunk. The ill victim was helped far more often and more quickly — people weigh the **cost of helping** against the cost of not helping.
+
+**Asch:** participants judged line lengths after confederates gave the same wrong answer; about a third of critical-trial answers conformed. **Milgram:** all participants gave shocks to at least 300 volts and about two-thirds went to the maximum 450 volts — explained by the **agentic state**.
+
 ## Worked example: comparing explanations of depression
 
 ```
@@ -73,6 +98,23 @@ a question asks for comparison specifically.
 
 Learn with a labelled diagram, not a bullet list — this consistently makes brain and neuropsychology
 content stick better, since it is the topic students find least intuitive.
+
+| Area | Main function |
+|---|---|
+| **Frontal lobe** | Thinking, planning; motor area (voluntary movement) |
+| **Parietal lobe** | Somatosensory area (touch, temperature, pain) |
+| **Occipital lobe** | Visual area |
+| **Temporal lobe** | Auditory area; memory |
+| **Cerebellum** | Balance and co-ordination |
+
+- **Neurons:** sensory (receptors to CNS), relay (within the CNS), motor (CNS to muscles and glands).
+- **Synaptic transmission:** impulse arrives, neurotransmitter crosses the synapse, the next neuron is
+  excited or inhibited. **Hebb:** learning strengthens connections between neurons that fire together.
+- **Penfield:** stimulating the temporal lobe during surgery for epilepsy triggered vivid memories (the
+  interpretive cortex).
+- **Scans:** CT (structure, X-rays), PET (activity, radioactive tracer), fMRI (activity, blood oxygen).
+  **Tulving's 'gold' memory study** used PET to show episodic and semantic memories involve different
+  brain areas.
 
 ## Non-verbal communication and its explanations
 
@@ -142,6 +184,20 @@ are opposite claims. 2. Milgram's study, supporting the Agency Theory of obedien
 CBT). 4. Because the question specifically asks for comparison, and simply describing both
 explanations side by side does not demonstrate the comparative skill being assessed. 5. Using a
 labelled diagram rather than a prose or bullet-list description.
+
+## Frequently asked questions
+
+**What is the difference between conformity and obedience?**
+Conformity is changing behaviour to fit a majority, studied by Asch. Obedience is following a direct order from an authority figure, studied by Milgram and explained by his Agency Theory.
+
+**What did Piliavin's subway study find?**
+A confederate who collapsed appearing ill, with a cane, was helped far more often and more quickly than one who appeared drunk, suggesting people weigh the cost of helping against the cost of not helping.
+
+**What are the functions of the four brain lobes?**
+The frontal lobe handles thinking, planning and the motor area, the parietal lobe the somatosensory area, the occipital lobe the visual area, and the temporal lobe the auditory area and memory.
+
+**What are the characteristics of the ICD dependence syndrome?**
+Characteristics include tolerance, withdrawal, a compulsion to use and difficulty controlling use. Addiction differs from substance misuse, which is harmful use without dependence.
 
 ## Related resources
 

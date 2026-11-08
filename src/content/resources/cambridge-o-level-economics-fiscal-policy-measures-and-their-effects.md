@@ -214,6 +214,20 @@ Fiscal measures that help one aim can hurt another. Expansion that cuts unemploy
 - Using aggregate demand or aggregate supply, which the syllabus says are not required here.
 - Describing a measure without the chain that links it to the aim.
 
+## Frequently asked questions
+
+**What does fiscal policy mean in Cambridge O Level Economics 2281?**
+Fiscal policy means the government changing how much it spends and how much it taxes to steer the economy towards its macroeconomic aims. A good definition names both the tools and the purpose.
+
+**Do you need aggregate demand diagrams for statement 4.3.9?**
+No. The syllabus says aggregate demand and aggregate supply are not required for 4.3.9, so explain effects as chains from a change in tax or spending to what households and firms do and then to the aim.
+
+**Why can a budget deficit grow without any new policy?**
+In a recession, tax revenue tends to fall because people earn and spend less, and welfare spending tends to rise as more people claim benefits, so the deficit grows automatically.
+
+**Why might fiscal policy fail to reduce structural unemployment?**
+Structural unemployment comes from workers lacking the skills for the jobs on offer, so extra spending in general does little. Spending on training is a better measure.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281, syllabus for examination in 2026 (version 2), published by Cambridge University Press and Assessment (Cambridge International Education), section 4.3 Fiscal policy, statements 4.3.7 to 4.3.9.

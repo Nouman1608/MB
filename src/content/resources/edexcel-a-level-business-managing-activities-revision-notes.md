@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A Level Business: Managing Business Activities — Revision Notes"
+title: "Edexcel International A Level Business: Managing Business Activities — Revision Notes"
 resourceType: "revision-notes"
 subject: "business"
 level: ["a-levels"]
@@ -13,11 +13,11 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "managing-business-activities-edexcel-alevel-business"
-description: "Condensed recall notes on raising finance, financial planning, break-even, profitability and liquidity ratios, business failure, resource management and external influences for Edexcel International A Level Business (WBS12), Unit 2."
+description: "Condensed notes on finance, break-even, ratios, business failure, resources and external influences for Edexcel International A Level Business (WBS12) Unit 2."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -223,6 +223,20 @@ Unit 1 (Marketing and People) covers how a business identifies and meets custome
 
 [Managing Business Activities study guide](/resources/a-level-edexcel-business-managing-business-activities/) |
 [Managing Business Activities practice questions](/resources/edexcel-a-level-business-managing-activities-practice/)
+
+## Frequently asked questions
+
+**How do you calculate break-even and margin of safety?**
+Find contribution per unit (selling price minus variable cost per unit), then divide total fixed costs by it to get the break-even point. Margin of safety is current sales minus break-even sales.
+
+**Why can a profitable business still fail?**
+Profit is not the same as cash. A business can be profitable on paper but fail if customers pay late while suppliers demand quick payment, leaving it unable to pay its bills.
+
+**What is the difference between internal and external causes of business failure?**
+Internal causes include poor cash-flow management, overestimated sales and overtrading. External causes include market conditions, competition, economic factors, exchange rates and interest rates. Keep the two lists separate in answers.
+
+**What happens when capacity utilisation is too low or too high?**
+Under-utilisation spreads fixed costs across fewer units, raising average cost. Over-utilisation risks quality problems, breakdowns and staff burnout.
 
 ## Official specification
 

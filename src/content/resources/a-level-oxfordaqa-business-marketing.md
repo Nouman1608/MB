@@ -13,13 +13,13 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "marketing-oxfordaqa-alevel-business"
-description: "Marketing objectives and plans, marketing data, segmentation and targeting, and the marketing mix -- Topic 2 of OxfordAQA International AS & A-Level Business, primarily 9625 with 9725 divergences flagged."
+description: "Study guide to Topic 2 Marketing in OxfordAQA International AS and A-level Business 9625: objectives, data, segmentation and the 7Ps, with 9725 changes noted."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **Topic 2 Marketing**, the second of five
@@ -265,7 +265,6 @@ A2 under 9725).
   <figcaption>In the Delphi technique anonymous experts revise their forecasts over rounds until they converge.</figcaption>
 </figure>
 
-
 ## Specification transition note
 
 9625 remains current for students already on the course. Its **final
@@ -279,6 +278,23 @@ starting A2 from **September 2027** (one year later than AS) follow
 content described above is expected to carry over in substance, but
 students should always confirm which specification code applies to
 their own cohort before relying on any single syllabus document.
+
+## Frequently asked questions
+
+**Is the marketing mix 4Ps or 7Ps in OxfordAQA Business?**
+Under 9625 the marketing mix is the 7Ps: product, price, promotion, place, people, process and physical environment. Under 9725 it is simplified to the classic 4Ps, so check which code applies to your cohort.
+
+**What does a PED of −0.4 mean for a price increase?**
+A PED of −0.4 means demand is price inelastic, so quantity demanded falls by a smaller percentage than the price rises and total revenue rises. Linking the elasticity to what happens to revenue is what most questions test.
+
+**How do you calculate customer retention rate?**
+Customer retention rate = (customers at end of period − new customers gained) ÷ customers at start of period × 100. Examiners often ask you to interpret the figure as well as calculate it.
+
+**When are the last 9625 Business exams?**
+The final 9625 AS series was June 2026, with a resit series in January 2027, and the final A2 series is June 2027, with a resit series in January 2028. Students starting AS from September 2026 follow 9725.
+
+**Is the Boston Matrix first-year content in OxfordAQA Business?**
+Under 9625 the Boston Matrix is part of the first-year marketing mix content. Under 9725 it moves to A2 content.
 
 ## Related resources
 

@@ -20,9 +20,9 @@ description: "Condensed revision notes for AQA A-level Sociology 7192 Health: ke
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 These notes condense the [Health study guide](/resources/aqa-a-level-sociology-7192-health/); go there first if a term or study is new to you.
@@ -155,6 +155,20 @@ Paper 2 rule, as printed: Section A is "one from option 1: 4.2.1, 4.2.2, 4.2.3 o
 - Ignoring research design. The specification makes it an integral element of every topic.
 
 For labelling ideas you can reuse here, see the [AQA Crime and Deviance revision notes](/resources/a-level-aqa-sociology-crime-and-deviance-revision-notes/). For method evaluation, use the [Methods in Context revision notes](/resources/a-level-sociology-methods-in-context-revision-notes/). Health inequality links to the [Work, Poverty and Welfare revision notes](/resources/aqa-a-level-sociology-7192-work-poverty-and-welfare-revision-notes/) and the [Stratification and Differentiation revision notes](/resources/aqa-a-level-sociology-7192-stratification-and-differentiation-revision-notes/).
+
+## Frequently asked questions
+
+**What is the difference between disease, illness and sickness?**
+Disease is a biological condition, illness is how the person feels it, and sickness is the social status of being sick.
+
+**What is the difference between morbidity and mortality?**
+Morbidity refers to rates of illness, while mortality refers to rates of death.
+
+**What is the difference between provision and access in health care?**
+Provision is the services that exist in an area; access is who actually uses them. Mixing the two up is a common error in AQA 7192 Health answers.
+
+**What is the difference between impairment and disability?**
+Impairment is a difference in the body, while disability is the barriers society builds around it. This distinction comes from the social model of disability.
 
 ## Official syllabus
 

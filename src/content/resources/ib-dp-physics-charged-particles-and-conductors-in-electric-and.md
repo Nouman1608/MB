@@ -207,6 +207,20 @@ Doubling the separation halves the force per unit length. Doubling one current d
 - Mixing up the two field-line rules: one gives the force on a charge or wire, the other gives the field around a wire.
 - Writing that parallel wires with currents in the same direction repel.
 
+## Frequently asked questions
+
+**Why is gravity ignored for an electron between charged plates?**
+The weight of an electron is tiny compared with the electric force eE, so it can be neglected, and you should say so if asked to justify it.
+
+**Does matching a charge-to-mass ratio prove what a particle is?**
+No. Comparing q/m with known values helps identify the particle, but other particles can share the same ratio, so a match does not prove it.
+
+**Which angle is θ in F = qvB sin θ?**
+θ is the angle between the velocity (or current) and the magnetic field, not the angle to the field's normal.
+
+**Where is circular motion covered for IB DP Physics?**
+Circular motion and centripetal force are covered under forces and momentum, which this unit builds on when a charge moves in a magnetic field.
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. This page covers D.3, Motion in electromagnetic fields.

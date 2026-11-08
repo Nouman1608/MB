@@ -178,6 +178,20 @@ Use this information to explain how these cells are adapted to their function. *
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which section of the AQA GCSE Biology 8461 specification do these questions cover?**
+They cover section 4.1.1 Cell structure: organelles, microscopy, specialised cells, differentiation and culturing microorganisms.
+
+**What must you do before calculating magnification?**
+Put the image size and the real size in the same unit before dividing. Forgetting this is the most common error.
+
+**How should you describe an adaptation of a specialised cell?**
+Name the adaptation and add "so that..." to explain how it helps the cell's function. Naming it without the explanation loses marks.
+
+**Should you use radius or diameter in πr²?**
+Use the radius, which is half the diameter.
+
 ## Official syllabus
 
 AQA GCSE Biology (8461) specification, for first teaching 2016, exams from 2018, version 1.0, published by AQA -- section 4.1.1 Cell structure (4.1.1.1 to 4.1.1.6), with required practical activities 1 and 2.

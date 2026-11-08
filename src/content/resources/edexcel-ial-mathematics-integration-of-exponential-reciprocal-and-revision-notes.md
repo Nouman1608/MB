@@ -232,6 +232,23 @@ Answer each question, then check below. Assume x > 0 where a logarithm of x appe
 - Leaving an unsimplified exact answer, such as 6 ln 4 instead of 12 ln 2, or a trigonometric value that should be exact.
 - Giving a bare answer to a "show that" question. Write each stage so the route from the integral to the stated result is visible.
 
+## Frequently asked questions
+
+**What is the integral of tan x?**
+∫ tan x dx = −ln|cos x| + c, which can also be written ln|sec x| + c. Do not confuse it with the derivative of tan x, which is sec² x.
+
+**What is the f′(x)/f(x) rule in integration?**
+If the numerator is the derivative of the denominator, or a constant multiple of it, then ∫ f′(x)/f(x) dx = ln|f(x)| + c. For example, 2x/(x² + 9) integrates to ln(x² + 9) + c.
+
+**Why does the integral of 1/x have a modulus sign?**
+The function 1/x is defined for negative x, but ln x is not, so the result is written ln|x| + c. The modulus can be left out only when the question states x > 0 or the expression is always positive.
+
+**Should integration in P3 be done in degrees or radians?**
+Radians. The standard results for integrating sin kx and cos kx assume x is in radians, so limits such as π/6 and π/4 must be used in radian mode.
+
+**Which integration topics are in Edexcel IAL Maths Unit P3?**
+Unit P3 of the Edexcel IAL Mathematics specification (YMA01) covers integrating e^kx, 1/x, sin kx and cos kx in topic 5.1, and integration by recognition of known derivatives and using trigonometric identities in topic 5.2.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification, Issue 3, April 2019, first teaching September 2018, published by Pearson Education Limited. These notes cover Unit P3 topics 5.1 and 5.2.

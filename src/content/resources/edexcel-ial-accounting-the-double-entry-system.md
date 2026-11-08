@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: The double entry system (YAC11)"
+title: "Edexcel International A Level Accounting: The double entry system (YAC11)"
 seoTitle: "Edexcel A-Level Accounting Double Entry System Guide"
 resourceType: "study-guides"
 subject: "accounting"
@@ -315,6 +315,23 @@ A clerk keys a sale of 4,500 as 5,400. The package debits trade receivables 5,40
 - Calculating the allowance before writing off the irrecoverable debt.
 - Charging the whole allowance to the statement of profit or loss each year rather than the change.
 - Believing a balanced trial balance proves the records are free of error.
+
+## Frequently asked questions
+
+**What is the double entry system in Edexcel IAL Accounting?**
+Every transaction has two effects, so it is recorded twice: once as a debit in one account and once as a credit of the same amount in another. Total debits therefore always equal total credits.
+
+**What is the difference between the sales ledger, purchases ledger and general ledger?**
+The sales ledger holds a personal account for each credit customer and the purchases ledger one for each supplier. The general ledger holds the nominal accounts, such as expenses, revenue, drawings and capital, and the real accounts for assets.
+
+**How does the imprest system work for petty cash?**
+A fixed float is set, payments are recorded in analysis columns and each column total is debited to its expense account. At the end of the period the amount spent is reimbursed from the bank, restoring the float to its original level.
+
+**Are drawings an expense of the business?**
+No. Drawings are not an expense, so they do not reduce profit; the drawings account is closed to the capital account. Treating drawings as an expense is a common error.
+
+**Does a balanced trial balance prove the accounts are correct?**
+No. Agreement shows that total debits equal total credits, but some errors leave both sides equal. For example, a sale keyed as 5,400 instead of 4,500 is posted to both sides, so only comparing the invoice with the entry finds it.
 
 ## Official syllabus
 

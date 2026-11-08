@@ -223,6 +223,23 @@ A government **subsidy** of £10 a stool works the other way. The workshop now b
 - **Stating a factor without a chain.** Write "costs fall, so firms can make more profit at each price, so supply rises", not just "costs".
 - **Leaving out axes, units or labels.** Label price, quantity, D or S, and the units.
 
+## Frequently asked questions
+
+**What is demand in AQA GCSE Economics?**
+Demand is how much of a good or service consumers are both willing and able to purchase at a given price over a stated period.
+
+**Why does the demand curve slope down?**
+At a higher price consumers switch to cheaper alternatives, and the same income buys less, so quantity demanded falls.
+
+**What factors shift the demand curve?**
+Income, tastes and advertising, the prices of substitutes and complements, population, season or weather, expected future prices and the availability of credit.
+
+**What factors shift the supply curve?**
+Production costs, technology, taxes and subsidies, the number of firms, weather and natural events, the price of other goods the firm could make, and expected future prices.
+
+**What causes a movement along a supply curve?**
+Only a change in the good's own price. A change in any other factor shifts the whole supply curve.
+
 ## Official syllabus
 
 This page follows the AQA GCSE Economics (8136) specification for first teaching in 2017, published by AQA, sections 3.1.3.1 and 3.1.3.2. Check the current specification at aqa.org.uk/8136.

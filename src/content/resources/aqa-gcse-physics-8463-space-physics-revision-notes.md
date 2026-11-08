@@ -21,9 +21,9 @@ syllabusTopics:
     subtopic: "red-shift"
 description: "Revision notes for AQA GCSE Physics 8463 Space physics: key facts, star life cycles, orbit rules, red-shift and the Big Bang, plus a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -277,6 +277,20 @@ There is still much not understood, for example **dark mass** and **dark energy*
 - (Higher tier) Reversing the orbit rule; faster means a **smaller** radius.
 - Dividing a wavelength change by the observed value instead of the laboratory value.
 - Describing red-shift without stating that the **wavelength increases** and that further galaxies show a **bigger** increase.
+
+## Frequently asked questions
+
+**Why does a main sequence star stay the same size?**
+Gravity pulls the star's material inwards while energy released by fusion pushes it outwards. These two effects are balanced, so the star is in equilibrium and stays the same size.
+
+**What is the life cycle of a star the size of the Sun?**
+A Sun-sized star goes from nebula to protostar to main sequence star, then becomes a red giant, a white dwarf and finally a black dwarf. Much more massive stars become red super giants and then explode as supernovae.
+
+**Where are elements heavier than iron made?**
+Fusion in stars produces elements up to iron, but elements heavier than iron are produced in a supernova. The supernova explosion also distributes the elements throughout the universe.
+
+**What are dark mass and dark energy?**
+Dark mass, or dark matter, bends light and holds galaxies together but does not emit electromagnetic radiation. Dark energy is the unknown cause of the universe expanding ever faster; both are still not understood.
 
 ## Official syllabus
 

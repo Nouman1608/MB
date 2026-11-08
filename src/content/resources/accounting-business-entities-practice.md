@@ -19,9 +19,9 @@ syllabusTopics:
     subtopic: "the-accounting-system"
 description: "Original exam-style practice questions with full worked answers on sole traders, partnerships, limited companies and books of prime entry."
 author: "javaid-iqbal-sabri"
-reviewer: "zain-ud-din-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by zain-ud-din-ahmed on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -123,3 +123,17 @@ It should cover: the **profit- and loss-sharing ratio** [1]; **salaries and inte
 - Describing share premium as distributable.
 - Confusing historic cost (original purchase price) with current market value.
 - Naming a computerised system's advantages without also acknowledging the security and reliability risks the syllabus expects.
+
+## Frequently asked questions
+
+**Are these Cambridge 9706 practice questions taken from past papers?**
+No. They are original questions written for revision, grouped by topic because Cambridge 9706 question papers are not divided into lettered sections. Use them alongside the official past papers from your board.
+
+**What topics do these business entities practice questions cover?**
+They cover books of prime entry, sole trader and company financial statements, partnership appropriation, ordinary shares and debentures, company reserves, sources of finance, accounting concepts and computerised accounting systems.
+
+**What is the most common mistake in partnership profit-sharing questions?**
+Sharing the whole profit in the profit-sharing ratio before deducting partners' salaries and interest on capital. Those appropriations come first, and only the residual profit is shared in the ratio.
+
+**What should an answer on computerised accounting systems include?**
+Alongside the advantages, acknowledge the security and reliability risks the syllabus expects, rather than listing benefits only.

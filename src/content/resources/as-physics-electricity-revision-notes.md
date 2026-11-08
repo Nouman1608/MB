@@ -22,9 +22,9 @@ syllabusTopics:
     subtopic: "as-resistance-and-resistivity"
 description: "Condensed recall notes on current, potential difference, resistance, resistivity and I-V characteristics for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -150,3 +150,16 @@ For a given current, a **thinner** wire (smaller A) means a **higher drift veloc
   <figcaption>Collisions versus carrier number: why metals and NTC thermistors behave oppositely.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between e.m.f. and potential difference?**
+E.m.f. is the energy converted from other forms to electrical energy per unit charge by a source. Potential difference is the energy transferred from electrical to other forms per unit charge between two points, V = W/Q.
+
+**What is Ohm's law?**
+The current through a conductor is directly proportional to the potential difference across it, provided physical conditions, especially temperature, remain constant. Omitting the temperature condition loses the mark.
+
+**Why does a filament lamp's I-V graph curve?**
+As current increases the filament gets hotter, so the lattice ions vibrate more and electrons collide with them more often. Resistance increases, so the graph's gradient falls.
+
+**What happens to resistance when a wire's diameter doubles?**
+Area is proportional to the diameter squared, so doubling the diameter quadruples the area and quarters the resistance, from R = ρL/A.

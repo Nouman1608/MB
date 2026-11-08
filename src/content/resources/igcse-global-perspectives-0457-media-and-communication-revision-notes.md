@@ -154,6 +154,20 @@ To turn a row into a perspective, add evidence and reasoning: who says it, what 
 
 For more general skills practice, see [Global Perspectives practice](/resources/global-perspectives-practice/) and the [Team Project revision notes](/resources/igcse-global-perspectives-team-project-revision-notes/).
 
+## Frequently asked questions
+
+**What are the assessment objective weightings in IGCSE Global Perspectives 0457?**
+AO1 Research, analysis and evaluation is 68% of the qualification and 100% of Component 1. AO2 Reflection is 15%, assessed in Components 2 and 3, and AO3 Communication and collaboration is 17%.
+
+**What is the difference between misinformation and disinformation?**
+The difference is intent. Misinformation is false information shared by someone who believes it is true, while disinformation is shared on purpose to mislead.
+
+**What is the difference between analyse and evaluate?**
+Analyse means showing meaning and links, such as how a cause leads to a consequence. Evaluate means judging the quality or value of something, such as a source or an argument.
+
+**Does media coverage that matches public concern prove the media caused it?**
+No. A correlation between coverage and concern does not prove cause, because public concern might also shape what the media covers.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Topic list: section 3; assessment objectives and weightings: section 2; components and command words: section 4.

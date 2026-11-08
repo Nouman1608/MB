@@ -22,14 +22,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "transformations-and-vectors-cambridge-igcse-maths"
     subtopic: "vector-geometry-cambridge-igcse-maths"
-description: "Original exam-style practice questions with full worked answers on reflection, rotation, enlargement, translation, vector notation, magnitude and vector geometry for Cambridge IGCSE Mathematics 0580."
+description: "Cambridge IGCSE Maths 0580 practice with worked answers on reflection, rotation, enlargement, translation, column vectors, magnitude and vector geometry."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-01
 updatedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08 recheck: rewrote Question 2, which was circular (it described the transformation it asked students to describe), as a 180° rotation image plus the two required facts; tidied the parallelogram reasoning in 5(b). Please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNeeded: true
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -53,7 +53,10 @@ Related: [Transformations and Vectors revision notes](/resources/igcse-mathemati
 **(a)** Describe fully the single transformation that maps triangle A onto triangle B, where B has vertices (1, −1), (3, −1) and (1, −4). **[2]**
 **(b)** Triangle A is enlarged by scale factor 3, centre the origin. State the coordinates of the image of the point (1, 4). **[2]**
 
-**2.** Describe fully the single transformation that maps a shape onto its image after a rotation of 180° about the point (2, 3), given that this is what has been applied. State the two pieces of information (other than "rotation") that must always be given to describe a rotation fully. **[3]**
+**2.** The point P(5, 4) is rotated 180° about the point (2, 3).
+
+**(a)** Find the coordinates of the image of P. **[2]**
+**(b)** State the two pieces of information, other than the word "rotation", that must always be given to describe a rotation fully. **[2]**
 
 **3.** *(Extended)* a = (3, 4) and b = (−6, 1) are vectors.
 
@@ -78,7 +81,8 @@ Related: [Transformations and Vectors revision notes](/resources/igcse-mathemati
 **1. (a)** **Reflection in the x-axis** (the line y = 0) [2].
 **(b)** Enlargement scale factor 3 about the origin multiplies each coordinate by 3: (1, 4) → **(3, 12)** [2].
 
-**2.** A rotation must always state the **angle of rotation** (with direction, if not 180°) and the **centre of rotation** [2]. Here: rotation of **180° about (2, 3)** [1].
+**2. (a)** A rotation of 180° about (2, 3) takes P to the point on the other side of the centre at the same distance, so (2, 3) is the midpoint of P and its image [1]. Image = (2 × 2 − 5, 2 × 3 − 4) = **(−1, 2)** [1].
+**(b)** The **angle of rotation** (with its direction, clockwise or anticlockwise, unless it is 180°) [1] and the **centre of rotation** [1].
 
 **3. (a)** a + b = (3 + (−6), 4 + 1) = **(−3, 5)** [1].
 **(b)** 2a − b = (2×3 − (−6), 2×4 − 1) = (6 + 6, 8 − 1) = **(12, 7)** [2].
@@ -86,7 +90,7 @@ Related: [Transformations and Vectors revision notes](/resources/igcse-mathemati
 **4.** |v| = √((−5)² + 12²) [1] = √(25 + 144) = √169 = **13** [1].
 
 **5. (a)** OM = OA + ½AB = a + ½(b − a) [1] = **½a + ½b** (or ½(a + b)) [1].
-**(b)** OP = 2 × ½(a + b) = **a + b** [1]. AP = OP − OA = (a + b) − a = **b = OB** [1]. Since AP = OB, AP is parallel and equal in length to OB, so OA is parallel and equal to BP — both pairs of opposite sides are parallel and equal, so **OAPB is a parallelogram** [1].
+**(b)** OP = 2 × ½(a + b) = **a + b** [1]. AP = OP − OA = (a + b) − a = **b = OB** [1]. Since AP = OB, the opposite sides AP and OB are parallel and equal in length; likewise BP = OP − OB = a = OA. Both pairs of opposite sides are parallel and equal, so **OAPB is a parallelogram** [1].
 
 **6.** Column vector = (image x-coordinate − object x-coordinate, image y-coordinate − object y-coordinate) using the first vertex: (5 − 1, −1 − 1) = **(4, −2)** [1]. **Translation by the column vector (4, −2)** [1].
 
@@ -112,3 +116,17 @@ Related: [Transformations and Vectors revision notes](/resources/igcse-mathemati
 ## Approaching transformations and vectors questions
 
 For a "describe fully" transformation question, write down each required piece of information as a separate labelled item before combining it into a sentence -- mirror line, or angle and centre, or scale factor and centre, or column vector -- since a correct transformation named without its required extra detail typically only earns partial credit. For vector-geometry routes, treat every unconverted intermediate vector as unfinished working rather than a final answer, and keep track of direction carefully: the vector from one named point to another is always end point minus start point, and reversing that order simply negates the result rather than producing a different, unrelated vector.
+
+## Frequently asked questions
+
+**What must you state to describe a rotation fully?**
+Give the word rotation, the centre of rotation and the angle with its direction, such as 90° clockwise. A reflection needs its mirror line, and an enlargement needs its scale factor and centre.
+
+**How do you enlarge a shape about the origin?**
+Multiply both coordinates of every vertex by the scale factor. Multiplying only one coordinate is a common error.
+
+**How do you find the magnitude of a column vector?**
+Use Pythagoras' theorem: the magnitude of a vector with components x and y is √(x² + y²). Remember to take the square root at the end.
+
+**How do you show three points are collinear using vectors?**
+Show that two displacement vectors between the points are multiples of each other and share a common point, so the points lie on one straight line.

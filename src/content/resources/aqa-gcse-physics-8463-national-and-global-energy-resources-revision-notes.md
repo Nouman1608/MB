@@ -295,6 +295,20 @@ In an answer, name the type of consideration **and** give a specific example of 
 - On "explain why the issue has not been solved", repeating the scientific problem instead of naming a
   political, social, ethical or economic barrier.
 
+## Frequently asked questions
+
+**What is a renewable energy resource?**
+A renewable energy resource is one that is being, or can be, replenished as it is used, such as wind, solar, tides or bio-fuel. Saying it "never runs out" without the idea of replenishment does not earn the mark.
+
+**Is nuclear fuel a fossil fuel?**
+No. Nuclear fuel, such as uranium or plutonium, is not a fossil fuel, but it is non-renewable because supplies are finite.
+
+**What is the difference between renewable and reliable?**
+Renewable means a resource is replenished as it is used; reliable means it can supply energy whenever needed. Wind is renewable but unreliable, while coal is reliable but non-renewable.
+
+**Do you need to know how power stations generate electricity for AQA GCSE 4.1.3?**
+No. The AQA 8463 specification states that descriptions of how energy resources are used to generate electricity are not required for section 4.1.3.
+
 ## Official syllabus
 
 AQA GCSE Physics (8463) specification, Version 1.1, 30 September 2019, for teaching from September 2016 and

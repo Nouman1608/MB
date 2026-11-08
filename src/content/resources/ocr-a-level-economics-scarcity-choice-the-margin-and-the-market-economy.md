@@ -237,6 +237,23 @@ Marginal revenue is £21 for every batch. Marginal cost is below £21 up to batc
 
 See the [revision notes](/resources/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy-revision-notes/) for a compact version and the [practice set](/resources/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy-practice/) for original questions with worked answers.
 
+## Frequently asked questions
+
+**What is scarcity in economics?**
+Scarcity is the gap between unlimited wants and the limited resources available to satisfy them. It is not the same as rarity: tap water may be plentiful, yet it is scarce in the economic sense because supplying it uses resources.
+
+**What is the difference between needs and wants?**
+Needs are what a person must have to survive or avoid serious harm, such as food, water and shelter. Wants are things people desire beyond that, and the line between the two moves with time and place.
+
+**What is diminishing marginal utility?**
+Diminishing marginal utility means the extra satisfaction from each additional unit of a good falls as more is consumed. For example, the second cup of coffee usually adds less satisfaction than the first.
+
+**What does rationality mean in economics?**
+In basic models a rational agent has consistent preferences and aims to maximise utility (households), profit (firms) or welfare (government) using the information available. OCR A Level Economics (H460) answers should evaluate how realistic this assumption is.
+
+**Should fixed costs affect a marginal decision?**
+No. Marginal cost is the extra cost of one more unit, so fixed or sunk costs do not change it and should not affect the decision about the next unit. Putting fixed cost into marginal cost is a common error.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, Component 1 content, area of study Scarcity and choice.

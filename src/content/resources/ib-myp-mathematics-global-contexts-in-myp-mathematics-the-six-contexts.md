@@ -264,6 +264,20 @@ Criterion D is applying mathematics in real-life contexts. It asks you to identi
 - Listing related concepts that the unit does not use.
 - Presenting a model result as certain, without saying what it ignores.
 
+## Frequently asked questions
+
+**Which key concepts does mathematics contribute to the MYP?**
+Mathematics contributes three of the sixteen MYP key concepts: form, logic and relationships. Other key concepts can also be used in mathematics units.
+
+**Which global context suits most mathematical inquiries?**
+Many mathematical inquiries fit scientific and technical innovation naturally, but the IB MYP Mathematics guide encourages teachers to offer the other global contexts too.
+
+**What makes a good statement of inquiry?**
+A good statement of inquiry is a full sentence stating a general idea, uses the concepts in plain words rather than the topic name, shows the context in what it says, and can be explored throughout the unit.
+
+**Is a statement of inquiry a question?**
+No. A statement of inquiry is one sentence that sets conceptual understanding in a global context; inquiry questions are then written from it to guide the unit.
+
 ## Official syllabus
 
 IB *Mathematics guide* (MYP), for use from September 2020/January 2021, first assessment 2022, published by the International Baccalaureate Organization. This page covers the global contexts and statements of inquiry material in the section on teaching and learning through inquiry.

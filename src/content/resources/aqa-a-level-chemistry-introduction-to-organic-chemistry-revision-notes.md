@@ -251,6 +251,23 @@ opposite sides, it is the E isomer.
   same.
 - Missing "restricted rotation" when explaining why E–Z isomers exist.
 
+## Frequently asked questions
+
+**What are the features of a homologous series?**
+Members of a homologous series have the same general formula, differ by CH₂, contain the same functional group so have similar chemical properties, and show a gradual trend in physical properties such as boiling point.
+
+**What is a skeletal formula?**
+A skeletal formula shows the carbon skeleton as lines, with hydrogen atoms on carbon left out and functional groups drawn in. Each line end and corner is a carbon atom, so count the end carbons carefully.
+
+**What is the difference between structural isomers and stereoisomers?**
+Structural isomers have the same molecular formula but a different structural formula. Stereoisomers have the same structural formula but a different arrangement of atoms in space.
+
+**In what order are prefixes written in an IUPAC name?**
+Prefixes are written in alphabetical order, so chloro comes before methyl. Writing them out of order is a common way to lose a naming mark.
+
+**Does Z always mean the two hydrogens are on the same side?**
+No. The AQA A-level Chemistry 7405 specification uses E and Z with CIP priorities, so Z is not always the form with both H atoms on one side. Apply the priority rules each time.
+
 ## Official syllabus
 
 AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level

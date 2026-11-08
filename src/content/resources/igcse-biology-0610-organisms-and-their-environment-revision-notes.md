@@ -27,11 +27,11 @@ syllabusTopics:
     subtopic: "populations-cambridge-igcse-biology"
 description: "Condensed revision notes for 0610 Organisms and their environment: key definitions, pyramids, energy efficiency, nutrient cycles and a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 These notes condense topic 19, Organisms and their environment, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028 (sections 19.1 to 19.4) for your final weeks of revision. Supplement content is marked **Extended only**; Core candidates (Papers 1 and 3) can skip it, while Extended candidates (Papers 2 and 4) need all of it. For full explanations and worked examples, use the [Organisms and their environment study guide](/resources/igcse-biology-0610-organisms-and-their-environment/).
@@ -255,6 +255,20 @@ Limited to: **food supply, competition, predation, disease**.
 - Giving a percentage efficiency with the numbers inverted (lower level ÷ higher level), producing a value above 100 %.
 - Leaving units off a population growth rate.
 - For crops versus livestock, saying "cows waste energy" instead of naming the extra trophic level and where the energy goes.
+
+## Frequently asked questions
+
+**What is the principal source of energy for biological systems?**
+The Sun is the principal source of energy input to biological systems. Light energy is absorbed by producers in photosynthesis and passed along food chains.
+
+**Which processes are in the carbon cycle for Cambridge IGCSE Biology 0610?**
+The syllabus limits the carbon cycle to photosynthesis, feeding, respiration, decomposition, formation of fossil fuels and combustion. For each process, say where the carbon moves from and to.
+
+**What are the phases of a sigmoid population growth curve?**
+The phases are lag, exponential (log), stationary and death. In the stationary phase, limiting factors such as food or space act and the birth rate equals the death rate.
+
+**What factors affect the rate of population growth?**
+The 0610 syllabus limits these factors to food supply, competition, predation and disease.
 
 ## Official syllabus
 

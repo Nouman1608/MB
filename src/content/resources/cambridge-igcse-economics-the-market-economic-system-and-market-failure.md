@@ -240,6 +240,20 @@ When markets fail, the quantity bought and sold differs from the socially best q
 - Giving over-consumption for a merit good. It is under-consumed.
 - Stopping at "monopolies charge high prices" without saying that output is restricted.
 
+## Frequently asked questions
+
+**Are demand and supply diagrams required for market failure in Cambridge IGCSE Economics 0455?**
+No. The Cambridge IGCSE Economics 0455 syllabus states that demand and supply diagrams for market failure are not required, so explain market failure in words, with figures where useful.
+
+**What is market failure?**
+Market failure occurs when the free market fails to allocate resources efficiently, so too much of some goods and too little of others is produced and consumed. The result is a misallocation of resources.
+
+**What is the free rider problem?**
+Because non-payers cannot be excluded from a public good, people have an incentive to enjoy it while others pay. Firms cannot earn enough revenue, so the market does not provide the good.
+
+**Is a toll road a public good?**
+No. If non-payers can be excluded by charging a toll, the road is not non-excludable, so it does not meet the definition of a public good.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455, syllabus for examination in 2026, Version 2, published by Cambridge University Press & Assessment (Cambridge Assessment International Education), sections 2.9 and 2.10.

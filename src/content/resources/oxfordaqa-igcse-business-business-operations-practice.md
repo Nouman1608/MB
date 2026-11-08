@@ -126,6 +126,17 @@ This practice set is aligned to the OxfordAQA International GCSE Business (9225)
 - Ending a "justify" or "evaluate" answer without a decision.
 - Leaving out units or workings on calculations.
 
+## Frequently asked questions
+
+**How do you evaluate JIT in an exam answer?**
+Weigh both the benefits and the costs of JIT for the business in the question, using any figures given, and then reach a decision. Giving only benefits or only costs will not reach the evaluation marks.
+
+**Are stock control charts examined in OxfordAQA IGCSE Business?**
+No. The OxfordAQA International GCSE Business (9225) specification says students will not be asked to draw or interpret stock control charts.
+
+**Which part of the 9225 specification do these questions cover?**
+They cover section 3.3 Business operations of OxfordAQA International GCSE Business (9225): production processes, procurement, quality and customer service.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/oxfordaqa-igcse-business-business-operations-revision-notes/) and re-read the [study guide](/resources/oxfordaqa-igcse-business-business-operations/).

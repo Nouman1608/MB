@@ -13,13 +13,16 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-drama-yet01"
-description: "One pre-1900 and one post-1900 drama text -- Unit 2 of Pearson Edexcel International AS & A-Level English Literature (YET01), the second half of the International Advanced Subsidiary."
+  - qualification: "a-level"
+    topic: "unit-2-drama-yet01"
+    subtopic: "unit-2-pre-1900-and-post-1900-drama-yet01"
+description: "Unit 2 Drama of Pearson Edexcel International A Level English Literature YET01: one pre-1900 and one post-1900 play, completing the International AS."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide covers **Unit 2: Drama**, the second of two units forming
@@ -139,6 +142,18 @@ periods. Discussing a play only as if it were a novel, ignoring the
 performance and staging choices that are central to how meaning is made
 in drama. Bringing an annotated copy of the set text into the open-book
 exam, which is not permitted.
+
+## Frequently asked questions
+
+**How long is YET01 Unit 2?**
+2 hours for 50 marks, open book: 50% of the International AS and 25% of the International A Level.
+
+**What are the two sections?**
+Section A Pre-1900 Drama and Section B Post-1900 Drama, 25 marks each, both assessing AO1, AO2, AO3 and AO5.
+
+**What is AO5?**
+Exploring literary texts informed by different interpretations.
+
 
 ## Quick revision checklist
 

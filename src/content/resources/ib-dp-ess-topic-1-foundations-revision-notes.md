@@ -12,13 +12,13 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-foundation"
-description: "Condensed revision notes on IB Diploma Programme ESS Topic 1 -- Perspectives, Systems and Sustainability -- the foundation unit the specification says is revisited throughout the course, with key vocabulary and self-test questions."
+description: "Revision notes on IB DP ESS Topic 1 Foundations: perspectives, systems and sustainability, with key vocabulary, common exam pitfalls and a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
 ---
 
 Topic 1 -- Foundations is deliberately the first thing every ESS student studies, and, as the
@@ -115,6 +115,23 @@ producing. 6. Any well-justified example, e.g.: a question on freshwater over-ex
 analysed as a system with defined inputs/outputs and a feedback loop, and evaluated against whether
 extraction is exceeding the resource's natural income -- both Topic 1 concepts applied directly to
 Topic 4 content.
+
+## Frequently asked questions
+
+**What is the difference between open, closed and isolated systems in IB ESS?**
+An open system exchanges both energy and matter with its surroundings, a closed system exchanges only energy, and an isolated system exchanges neither. Most ecosystems are treated as open systems in the course.
+
+**Does negative feedback mean something bad in ESS?**
+No. Negative feedback counteracts a change and moves the system back towards equilibrium, while positive feedback amplifies a change. The terms describe direction, not a value judgement.
+
+**What does the ecological footprint measure?**
+It measures the area of land and water needed to sustainably provide all the resources a population consumes and to assimilate its waste, at its current rates. It is introduced in 1.3 Sustainability as an environmental indicator.
+
+**Is sustainability a yes or no label in IB ESS?**
+No. A resource is used sustainably only while consumption stays within its natural income, so the same resource can move between sustainable and unsustainable use as consumption changes.
+
+**Which Topic 1 subtopic has the most teaching hours?**
+1.3 Sustainability is the largest, with 8 hours, compared with 5 hours for 1.2 Systems and 3 hours for 1.1 Perspectives.
 
 ## Official syllabus
 

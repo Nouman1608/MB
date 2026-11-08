@@ -164,6 +164,20 @@ Validity: |3x/4| < 1, so **|x| < 4/3** [1]. **[6]**
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is the binomial series for rational powers examined at OxfordAQA International AS?**
+No. Section P2.2 of the OxfordAQA International AS and A-level Mathematics (9660) specification places the binomial series for any rational power and series of rational functions in International A-level Unit P2 (Pure Maths), not at International AS.
+
+**What is the most common mistake when expanding (a + bx)ⁿ?**
+Forgetting to take a out of the bracket first, or taking it out and forgetting to raise it to the power n. Write (a + bx)ⁿ = aⁿ(1 + (b/a)x)ⁿ before expanding.
+
+**How do you find the range of validity for a binomial expansion?**
+Write the expression as a constant times (1 + u)ⁿ and solve |u| < 1 for x. Stating |x| < 1 for every expansion is a common error; for (1 + 4x)ⁿ the range is |x| < 1/4.
+
+**Can you use a binomial expansion to estimate a value outside the range of validity?**
+No. The series only equals the function inside the range of validity, so choose a value of x inside it when estimating. Outside the range the terms can grow without bound.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, section P2.2 (International AS exams from May/June 2018, A-level from May/June 2019), published by OxfordAQA.

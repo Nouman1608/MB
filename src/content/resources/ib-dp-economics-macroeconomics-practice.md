@@ -19,13 +19,13 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-economics-unit-3"
     subtopic: "ib-dp-economics-3-3"
-description: "Original practice questions with full worked answers on measuring economic activity, the AD-AS model, and macroeconomic objectives, for IB Diploma Programme Economics Unit 3 sub-topics 3.1-3.3."
+description: "Original practice questions with worked answers for IB DP Economics sub-topics 3.1 to 3.3: GDP and GNI, the business cycle, AD-AS shifts and objectives."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -93,6 +93,20 @@ direction of both output and price-level change together, not just one variable 
 the specific skill IB data-response and extended-response questions on this sub-topic test. Question
 7 in particular is written to require distinguishing the two most commonly confused causes of
 recession, mirroring the two worked examples the revision notes themselves use to build this skill.
+
+## Frequently asked questions
+
+**How should you read growth and inflation figures in an IB Economics data question?**
+Separate levels from rates of change. A falling growth rate with positive growth means output is still rising, and a falling inflation rate with positive inflation means prices are still rising, so check what the data actually describes before naming a cause.
+
+**What makes an AD-AS diagram earn marks in an extended answer?**
+The diagram should do analytical work: label the axes, both curves and the equilibrium price level and real output, and use the direction of change in both output and the price level together, not one variable alone.
+
+**Should you use real-world examples in IB Economics answers?**
+Yes. IB Economics rewards accurate, specific application, such as a named country's recent GDP figures or an inflation episode, over generic theory on its own.
+
+**Is there an HL-only calculation in sub-topics 3.1 to 3.3?**
+Yes. HL students may be asked to construct a weighted price index from supplied data.
 
 ## Official syllabus
 

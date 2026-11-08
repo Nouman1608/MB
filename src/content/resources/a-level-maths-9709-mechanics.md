@@ -30,9 +30,9 @@ syllabusTopics:
     subtopic: "energy-work-and-power-cambridge-alevel-maths"
 description: "Study guide to Cambridge 9709 Mechanics (Paper 4): forces, kinematics, momentum, Newton's laws, and energy, work and power, with worked examples."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -235,6 +235,23 @@ At maximum speed a = 0. On level ground with the same power and resistance, the 
 - Using the same acceleration for motion up and down a rough plane.
 - Using the full force instead of F cos θ for work done.
 - Using P = Fv with the resistance instead of the driving force.
+
+## Frequently asked questions
+
+**How long is Cambridge 9709 Paper 4 Mechanics?**
+Paper 4 lasts 1 hour 15 minutes and is worth 50 marks, with 6 to 8 structured questions. It counts towards both the AS Level and the A Level, but it cannot be combined with Paper 6.
+
+**Are impulse and the coefficient of restitution in 9709 Mechanics?**
+No. Section 4.3 covers momentum and its conservation in direct impacts in one dimension, including coalescence, but impulse and the coefficient of restitution are not in this syllabus.
+
+**How accurate should answers be in 9709 Mechanics?**
+Give non-exact answers to 3 significant figures, or to 1 decimal place for angles in degrees, and take g = 10 m s⁻².
+
+**Why is the acceleration different up and down a rough slope?**
+Friction always opposes motion, so it acts down the slope when the particle moves up and up the slope when it moves down. The resultant force, and so the acceleration, changes.
+
+**When can you not use the constant acceleration formulae?**
+When acceleration varies with time. Then use calculus: v = ds/dt, a = dv/dt, s = ∫v dt and v = ∫a dt, finding constants from the starting conditions.
 
 ## Next steps
 

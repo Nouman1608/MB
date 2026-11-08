@@ -181,6 +181,20 @@ Revise first with the [immunity study guide](/resources/a-level-biology-9700-imm
 - Take the [9700 AS diagnostic](/practice/9700/diagnostic/as/) or [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How are these Cambridge 9700 immunity questions organised?**
+Each question is labelled with the learning outcome from subtopics 11.1 and 11.2 that it tests, from phagocytes to vaccination programmes.
+
+**How should you name types of immunity?**
+Always say both parts, for example "artificial passive" or "natural active". Writing only "passive" does not show which type is meant.
+
+**What should you revise before trying these questions?**
+Work through the immunity study guide and revision notes first, then use the questions to test recall and application.
+
+**Are these Cambridge past paper questions?**
+No. They are original questions written for revision and practice, with mark-by-mark answers. Use them alongside official past papers.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, Version 1 (published September 2022), Cambridge University Press & Assessment. Topic 11 Immunity, sub-topics 11.1 and 11.2.

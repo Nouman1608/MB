@@ -238,6 +238,23 @@ Example: a frontier with maxima of 80 consumer goods and 40 capital goods that b
 - Forgetting that unemployment lags the cycle.
 - Leaving out units or workings in a calculation.
 
+## Frequently asked questions
+
+**What is the difference between nominal and real GDP?**
+Nominal GDP is measured at current prices, so it includes the effect of price changes. Real GDP is adjusted for price changes and is the measure used for economic growth.
+
+**What are the four stages of the economic cycle?**
+The stages are boom, downturn, recession and recovery. In a boom growth is high and unemployment low, in a downturn growth slows but stays positive, in a recession output falls and unemployment rises, and in a recovery growth picks up while unemployment is still high.
+
+**What is the difference between a downturn and a recession?**
+In a downturn growth slows but output is still rising. In a recession output actually falls. Mixing up the two is a common way to lose marks.
+
+**Why does unemployment lag behind output in the economic cycle?**
+In a recovery, firms first use spare capacity before hiring new workers, so unemployment falls slowly even when output is rising. This is why unemployment usually peaks after the low point in output.
+
+**What are the limitations of GDP as a measure?**
+GDP figures may include inflation, ignore population growth, miss unrecorded and unpaid work, hide inequality, and leave out pollution, resource depletion, leisure and quality of life. Data may also be estimated and later revised.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1), specification Issue 3, February 2026, published by Pearson Education Limited: section 2.1.1 a), Economic growth.

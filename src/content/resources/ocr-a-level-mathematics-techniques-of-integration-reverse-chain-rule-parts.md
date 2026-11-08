@@ -254,6 +254,20 @@ Use A/(x − 1) + B/(x + 2) + C/(x + 2)². Putting x = 1 gives A = 1. Putting x 
 
 Try the [free 10-minute diagnostics](/diagnostics/) to see which method to revise first.
 
+## Frequently asked questions
+
+**When do you use integration by parts instead of substitution?**
+Use parts for a product of unrelated functions, such as x and eˣ. Use substitution for a function inside another function.
+
+**How many times do you apply integration by parts for x² cos 2x?**
+Twice. Each application reduces the power of x by one, so a power of x² needs two applications; watch the minus sign in uv − ∫ v du each time.
+
+**Which substitution should you use for √(a² − x²)?**
+Try x = a sin θ. For example, ∫₀² √(4 − x²) dx uses x = 2 sin θ.
+
+**Do rectangle sums give the exact value of an integral?**
+No. Rectangles give upper and lower bounds; for a decreasing function the left-edge heights give an upper bound and the right-edge heights a lower bound.
+
 ## Official syllabus
 
 OCR, *A Level Mathematics A (H240) specification*, Version 3.1 (August 2026), for first assessment in 2018. Content statements 1.08g, 1.08h, 1.08i, 1.08j and 1.09f.

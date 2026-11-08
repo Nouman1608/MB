@@ -210,6 +210,20 @@ Treat these as possible causes. In an answer, pick the one the data supports and
 - Listing limitations that have nothing to do with the business in the question.
 - Giving no final judgement when the question says evaluate or recommend.
 
+## Frequently asked questions
+
+**How should the current ratio be written?**
+Write the current ratio and the liquid capital ratio in the form x:1, for example 1.80:1, not as a decimal or a percentage.
+
+**Is a high current ratio always good?**
+No. A high current ratio may mean idle inventory or slow collection from customers, so check what makes up the current assets before calling it good.
+
+**Does depreciation reduce cash?**
+No. Depreciation reduces profit but involves no cash; the cash left when the asset was bought.
+
+**What does a good ratio appraisal answer include?**
+Describe the change, give a likely cause and its consequence for the business, and finish with a judgement when the question says evaluate or recommend. A change described with no cause or consequence earns little.
+
 ## Official syllabus
 
 AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019 onwards, published by AQA -- section 3.8, Analysis and evaluation of financial information.

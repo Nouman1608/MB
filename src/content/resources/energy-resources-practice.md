@@ -15,9 +15,9 @@ syllabusTopics:
     subtopic: "energy-work-and-power"
 description: "Original exam-style practice questions with full worked answers on energy resources, efficiency, Sankey diagrams and power for Cambridge O Level Physics."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -101,3 +101,17 @@ Related: [Energy Resources revision notes](/resources/energy-resources-revision-
 - Forgetting to convert kW to W or minutes to seconds.
 - Bringing in cost or general reliability when the question asks specifically for the syllabus's three permitted factors: renewable, availability, environmental impact.
 - Saying every renewable resource skips the turbine and generator — only solar photovoltaic does; hydroelectric, wind, tidal and wave power still use a turbine, just driven directly rather than by steam.
+
+## Frequently asked questions
+
+**Are these O Level energy resources questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official Cambridge past papers.
+
+**Are Sankey diagrams on the Cambridge O Level 5054 syllabus?**
+No. The syllabus requires only the two efficiency equations, so the Sankey diagram part of these questions is background and not examinable.
+
+**Do the 5054 advantages and disadvantages include cost?**
+No. The syllabus restricted comparison excludes cost and reliability, which is why the solar evaluation question here is marked as an extension beyond the strict 5054 scope.
+
+**What unit slips lose marks in energy calculations?**
+Forgetting to convert kW to W or minutes to seconds before calculating energy is a common way to lose marks.

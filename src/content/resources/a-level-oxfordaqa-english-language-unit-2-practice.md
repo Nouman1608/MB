@@ -13,11 +13,17 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-language-and-society-9670"
-description: "Original exam-style practice questions with full worked answers on the four social functions of language, connecting text analysis to academic argument, and Unit 2's assessment structure."
+  - qualification: "a-level"
+    topic: "unit-2-language-and-society-9670"
+    subtopic: "section-a-language-and-social-groups-texts-9670"
+  - qualification: "a-level"
+    topic: "unit-2-language-and-society-9670"
+    subtopic: "section-b-language-and-social-groups-writing-9670"
+description: "Original practice with worked answers on the social functions of language, linking text analysis to argument, and the format of OxfordAQA 9670 Unit 2."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-05
 featured: false
 ---
@@ -86,3 +92,14 @@ Related: [Unit 2 Language and Society study guide](/resources/a-level-oxfordaqa-
 - Writing a Section B essay that restates the Section A analysis instead of using it as evidence for an argument.
 - Confusing Unit 2's academic-essay Section B with Unit 1's transformed or creative Directed Writing task.
 - Revising only written prose and being caught out by an unfamiliar spoken or multimodal text in the exam.
+
+## Frequently asked questions
+
+**What do these OxfordAQA 9670 Unit 2 practice questions cover?**
+They cover the social functions of language, linking text analysis to argument, and the format of OxfordAQA International A-level English Language Unit 2, Language and Society, with worked answers.
+
+**How should I write about a social function of language in a text?**
+Name the specific language feature with precise terminology and say which social function it demonstrates. Describing what a text says, without naming the feature and the function, is a common way to lose marks.
+
+**What is a common mistake when comparing Unit 2 with Unit 1?**
+Confusing Unit 2's academic-essay Section B with Unit 1's transformed or creative directed writing task. The two Section B tasks assess different skills, so prepare for each separately.

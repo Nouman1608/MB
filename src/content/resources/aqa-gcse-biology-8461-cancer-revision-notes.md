@@ -16,14 +16,18 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "organisation-aqa-gcse-biology"
     subtopic: "cancer-aqa-gcse-biology"
-description: "Condensed AQA GCSE Biology 8461 notes on cancer: uncontrolled cell division, benign and malignant tumours, secondary tumours, and lifestyle and genetic risk factors, with a self-test."
+description: "AQA GCSE Biology 8461 cancer revision notes: uncontrolled cell division, benign and malignant tumours, secondary tumours and risk factors, with a self-test."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-05
+reviewStatus: "review-pending"
 publishedDate: 2026-11-05
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: expanded thin notes (opening answer, worked risk comparison, FAQ, question headings); please re-review; previously reviewed by hina-mogul on 2026-11-05."
 ---
+
+Cancer is the result of changes in cells that lead to uncontrolled growth and division. For AQA GCSE Biology
+(8461) you must be able to define cancer, compare benign and malignant tumours, explain how malignant cells spread
+to form secondary tumours, and give lifestyle and genetic risk factors.
 
 These are condensed recall notes for **4.2.2.7 Cancer** of the AQA GCSE Biology (8461) specification, Version
 1.0, for teaching from September 2016 and exams from 2018 onwards. Organisation is assessed on Paper 1, set at
@@ -36,7 +40,7 @@ Carcinogens and other risk factors are covered alongside other non-communicable 
 The course hub is [AQA GCSE Biology](/boards/aqa/gcse/biology/), and the [printable checklist](/checklists/aqa/gcse/biology/)
 lists every point. To find your weak spots fast, try the [free 10-minute diagnostics](/diagnostics/).
 
-## What cancer is
+## What is cancer?
 
 Cancer is the result of **changes in cells** that lead to **uncontrolled growth and division**.
 
@@ -47,7 +51,7 @@ change in a cell (e.g. damage to DNA) -> the cell no longer controls when it div
 
 Normal cells divide only when new cells are needed for growth or repair. Cancer cells keep dividing.
 
-## Benign vs malignant tumours
+## What is the difference between benign and malignant tumours?
 
 | | Benign tumour | Malignant tumour |
 |---|---|---|
@@ -69,7 +73,7 @@ means it does not spread, not that it is always harmless.
 5. There they settle and divide, forming secondary tumours.
 ```
 
-## Risk factors for cancer
+## What are the risk factors for cancer?
 
 Scientists have identified **lifestyle** risk factors for various cancers. Some cancers also have **genetic**
 risk factors.
@@ -82,6 +86,11 @@ risk factors.
 | Infection | Some viruses living in cells can trigger cancer, for example HPV and cervical cancer |
 
 A risk factor raises the chance of a cancer. It does not make the cancer certain.
+
+**Worked example: comparing risk.** In a study, 18 in every 10 000 people who used sunbeds regularly developed
+skin cancer over ten years, compared with 6 in every 10 000 people who did not. 18 / 6 = 3, so the sunbed users
+were **three times** as likely to develop skin cancer. The data show a correlation; to say UV light causes the
+cancer you also need a mechanism (UV damages DNA in skin cells) and a large, representative sample.
 
 ## Must-know distinctions
 
@@ -112,6 +121,20 @@ A risk factor raises the chance of a cancer. It does not make the cancer certain
 6. It can grow large and press on an organ, such as the brain.
 7. Any two: smoking; obesity; heavy drinking of alcohol; too much UV exposure.
 8. Inheriting certain alleles, for example of the BRCA genes, which raise the risk of breast cancer.
+
+## Frequently asked questions
+
+**Is every tumour a cancer?**
+No. Only malignant tumours are cancers. A benign tumour is a growth of abnormal cells that stays in one area,
+usually within a membrane, and does not invade other parts of the body.
+
+**How does cancer spread to other organs?**
+Cells break away from a malignant tumour, travel in the blood and settle elsewhere, where they divide to form
+secondary tumours.
+
+**Do I need to know cancer treatments for 8461?**
+No. Subtopic 4.2.2.7 covers what cancer is, the two types of tumour and risk factors. Treatments such as
+chemotherapy are not part of the specification content.
 
 ## Where marks are usually lost
 

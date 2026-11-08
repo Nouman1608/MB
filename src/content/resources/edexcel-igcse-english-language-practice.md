@@ -12,11 +12,17 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "component-1-non-fiction-texts-and-transactional-writing-4ea1"
-description: "Original exam-style practice questions with full worked answers on non-fiction analysis, comparison and transactional writing."
+  - qualification: "igcse"
+    topic: "component-1-non-fiction-texts-and-transactional-writing-4ea1"
+    subtopic: "section-a-non-fiction-texts-4ea1"
+  - qualification: "igcse"
+    topic: "component-1-non-fiction-texts-and-transactional-writing-4ea1"
+    subtopic: "section-b-transactional-writing-4ea1"
+description: "Original practice with worked answers on non-fiction analysis, comparison and transactional writing for Pearson Edexcel IGCSE English Language A 4EA1 Paper 1."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -107,3 +113,14 @@ Common error: writing about **one text and then the other in separate halves**, 
 - Comparing texts sequentially rather than point by point.
 - Writing an article with no headline or subheadings.
 - Retelling the content instead of analysing the writer's attitude.
+
+## Frequently asked questions
+
+**How do I describe tone for marks in Edexcel IGCSE English Language?**
+Name the precise kind of tone and show how the language creates it. Describing tone only as "negative" without saying what kind is a common way to lose marks.
+
+**Why does retelling a non-fiction text lose marks?**
+Questions on non-fiction reward analysis of how the writer conveys an attitude, not a summary of what the text says. Retelling the content leaves the analysis unanswered.
+
+**What does this Edexcel 4EA1 Paper 1 practice cover?**
+It gives original practice with worked answers on non-fiction analysis, comparison and transactional writing for Pearson Edexcel International GCSE English Language A (4EA1) Paper 1.

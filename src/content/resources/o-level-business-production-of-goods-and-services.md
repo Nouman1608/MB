@@ -237,6 +237,23 @@ Benefits are faster production, fewer errors, less waste, lower unit costs and m
 - Recommending a method without comparing it with an alternative.
 - Listing features of a method with no link to the firm described.
 
+## Frequently asked questions
+
+**How do you calculate labour productivity in O Level Business 7115?**
+Labour productivity = output in a period ÷ number of workers, which is the standard form. Always state the units, such as mugs per worker per week.
+
+**What is Kaizen?**
+Kaizen is a Japanese word for continuous improvement. Workers at all levels suggest many small improvements, often in teams, rather than one big change.
+
+**What is the difference between batch and flow production?**
+Batch production moves a group of identical items through each stage and then resets for a different batch, giving more variety. Flow production moves standard products continuously along a line, giving very low unit cost but little flexibility.
+
+**How can a business increase efficiency?**
+The syllabus names automation and technology, and improving labour skills through training. Both can raise output per worker, but each has costs, such as the purchase of machines or time away from work.
+
+**When is job production the right choice?**
+Job production suits one-off items made to a customer's order, such as a staircase built for one house. It gives an exact match and high quality but a high cost per unit.
+
 ## Official syllabus
 
 Cambridge O Level Business Studies 7115, syllabus for examination in 2026, published by Cambridge International. Section 4.1: Production of goods and services.

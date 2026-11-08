@@ -236,6 +236,20 @@ For an AO3 answer, link one or two limitations to the business described, then g
 * Stating the new break-even figure after a change but not saying what it means for profit and margin of safety.
 * Leaving out units, currency or axis labels.
 
+## Frequently asked questions
+
+**How do you calculate break-even quantity in IB Business Management?**
+Divide fixed costs by contribution per unit, where contribution per unit is selling price minus variable cost per unit. The IB guide gives no formulas for section 5.5, so this is the usual textbook form.
+
+**How do you calculate the margin of safety?**
+Margin of safety is actual (or planned) output minus break-even quantity. If you give it as a percentage, state the base you used, such as actual output or capacity.
+
+**How do you calculate target price?**
+Add fixed costs, variable costs at the expected output and the target profit, then divide by the expected output. Whether customers will pay that price is a separate question.
+
+**What is the difference between total contribution and contribution per unit?**
+Contribution per unit is selling price minus variable cost per unit. Total contribution is contribution per unit multiplied by units sold, or total revenue minus total variable costs.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Business management guide*, first assessment 2024, section 5.5 Break-even analysis.

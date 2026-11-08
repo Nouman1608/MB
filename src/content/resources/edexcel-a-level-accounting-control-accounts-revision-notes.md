@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Control Accounts and Correction of Errors — Revision Notes"
+title: "Edexcel International A Level Accounting: Control Accounts and Correction of Errors — Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"
 level: ["a-levels"]
@@ -14,11 +14,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "control-procedures"
     subtopic: "control-accounts-yac11"
-description: "Condensed recall notes on control accounts, error correction, suspense accounts and statements of revised profit for Pearson Edexcel International A-Level Accounting (YAC11), 1.2.3-1.2.9."
+description: "Revision notes on control accounts, error correction, suspense accounts and statements of revised profit for Edexcel IAL Accounting (YAC11), 1.2.3 to 1.2.9."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -56,6 +56,7 @@ This is the organising idea for the whole sub-topic — learn it first.
 | **Principle** | Posted to the wrong *type* of account (e.g. capital vs. revenue expenditure) |
 | **Original entry** | Wrong figure entered correctly on both sides |
 | **Complete reversal** | Debit and credit entries swapped |
+| **Compensating** | Two or more errors of equal value cancel each other out |
 
 **Errors that DO unbalance the trial balance:**
 
@@ -153,7 +154,7 @@ Correction:  journal entry removing it from purchases and adding it
              was understated) in the statement of revised profit
 ```
 
-Practising this kind of diagnosis -- working from a described scenario back to the correct error category -- is a more exam-realistic skill than simply memorising the five category names in isolation.
+Practising this kind of diagnosis -- working from a described scenario back to the correct error category -- is a more exam-realistic skill than simply memorising the six category names in isolation.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-a-level-accounting-control-accounts-revision-notes--04-principle-error-200.webp" width="900" height="1090" alt="A 200 dollar purchase of office equipment is debited to Purchases, an expense, instead of Equipment, a non-current asset. Both sides were still entered, so debits equal credits and the trial balance balances: an error of principle. The correcting journal debits Equipment 200 and credits Purchases 200. Purchases were overstated, so profit was understated and revised profit rises by 200." loading="lazy">
@@ -171,10 +172,24 @@ Practising this kind of diagnosis -- working from a described scenario back to t
 ## Quick self-test
 
 - State the formula for building a receivables control account from opening balance to closing balance.
-- List the five error types that do **not** unbalance the trial balance.
+- List the six error types that do **not** unbalance the trial balance.
 - Explain why an imbalance divisible by 9 suggests a transposition error.
 - Work the four-step suspense account sequence from memory for a one-sided entry.
 - State the profit-adjustment rule for an understated expense.
+
+## Frequently asked questions
+
+**How do you build a receivables control account?**
+Start from the opening balance, add credit sales, then deduct sales returns, cash and cheques received, discounts allowed and irrecoverable debts written off, and adjust for any contra entries, to find the closing balance.
+
+**Which errors unbalance the trial balance?**
+One-sided entries, transposition errors, where digits are reversed, and casting errors, where a column is added up wrongly, all cause the trial balance totals to differ.
+
+**How does an understated expense affect profit?**
+An understated expense overstates profit, so correcting it always reduces the profit figure in the statement of revised profit.
+
+**What is an error of principle?**
+An error of principle posts an entry to the wrong type of account, such as office equipment debited to purchases instead of to equipment. Both sides are entered, so the trial balance still balances.
 
 ## Related resources
 

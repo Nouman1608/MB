@@ -249,6 +249,23 @@ The sixth unit has MR 28 above MC 25, so it adds 3 to profit. The seventh has MR
 - Drawing MC = MR but reading price from the MC curve instead of AR.
 - Listing causes of economies of scale with no evaluation of size or timing.
 
+## Frequently asked questions
+
+**What is the relationship between SRAC and LRAC?**
+Each plant size has its own short-run average cost curve, and the LRAC curve is the envelope that touches the lowest-cost choice at each output. LRAC never lies above any SRAC curve.
+
+**How does price elasticity of demand relate to marginal revenue?**
+Where demand is elastic, MR is positive and a price fall raises total revenue. Where demand is unit elastic, MR is zero and total revenue is at its maximum, and where demand is inelastic, MR is negative and a price fall lowers total revenue.
+
+**What is normal profit?**
+Normal profit is the least return needed to keep resources in their present use, and it is counted within total costs. Zero economic profit therefore still means the owner is earning normal profit.
+
+**Why does minimum efficient scale matter for market structure?**
+Dividing market size by MES shows how many firms could operate at lowest cost. A small MES relative to the market supports many firms and low barriers, while a large MES means few firms, perhaps only one, and high barriers to entry.
+
+**Do economies of scale always benefit consumers?**
+Not always. Lower costs reach consumers only if firms pass the savings on, which is less likely in a concentrated market. Economies may also take years to appear, and growth can bring diseconomies of scale.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), first assessment 2021.

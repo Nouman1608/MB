@@ -233,6 +233,20 @@ Write "may contribute": the specification uses that wording.
 - Missing the suck-back precaution in the carbonate experiment.
 - Linking CO₂ to "holes in the ozone layer" instead of the greenhouse effect and climate change.
 
+## Frequently asked questions
+
+**What is the composition of dry air?**
+Dry air is about 78% nitrogen, 21% oxygen, 0.9% argon and 0.04% carbon dioxide by volume. Argon is more abundant than carbon dioxide, and giving carbon dioxide as 4% or 0.4% is a common mistake.
+
+**How do you calculate the percentage of oxygen in air from an experiment?**
+Subtract the final volume from the starting volume, divide by the starting volume and multiply by 100. Let the apparatus return to room temperature first, and never divide by the final volume.
+
+**What is thermal decomposition?**
+Thermal decomposition is breaking down a compound using heat alone. Metal carbonates decompose to the metal oxide and carbon dioxide; copper(II) carbonate, for example, turns from green to black.
+
+**How should you describe the link between carbon dioxide and climate change?**
+Carbon dioxide is a greenhouse gas that absorbs some of the infrared radiation given out by the Earth's surface. The Edexcel International GCSE Chemistry (4CH1) specification says increasing amounts of carbon dioxide may contribute to climate change, so use that wording, and do not link carbon dioxide to the ozone layer.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Chemistry (4CH1), Specification, Issue 3, September 2024, published by Pearson Education Limited. Topic 2: Inorganic chemistry, sub-topic (c) Gases in the atmosphere, points 2.9–2.14.

@@ -267,6 +267,20 @@ For evaluation, ask whether the monopoly passes on its savings, whether its posi
 - Treating labour-intensive as "bad". It suits some products and output levels.
 - Describing monopoly only as high prices. Give an advantage and evaluate.
 
+## Frequently asked questions
+
+**Do you need perfect competition theory or diagrams for Cambridge IGCSE Economics market structure?**
+No. The Cambridge IGCSE Economics 0455 syllabus says the theory of perfect and imperfect competition is not required, and diagrams are not required for sections 3.8.1 and 3.8.2.
+
+**What is the difference between production and productivity?**
+Production is the total quantity of goods and services made. Productivity is output per unit of input, such as output per worker, so production is a total and productivity is a ratio.
+
+**What are the characteristics of a monopoly?**
+A monopoly has one seller or one firm with a very large share, few or no close substitutes, barriers to entry such as patents or high start-up costs, power to set its own price and high profits that are hard to compete away.
+
+**When does capital-intensive production make sense?**
+Capital-intensive production suits large, steady output of identical goods, where high fixed costs are spread over many units, or where labour is dear or scarce. Labour-intensive methods suit small or varied output, personal services and craft goods.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: sections 3.6 Firms and production and 3.8 Market structure.

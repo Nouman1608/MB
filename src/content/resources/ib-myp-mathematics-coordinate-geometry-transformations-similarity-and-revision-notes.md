@@ -260,6 +260,20 @@ Isometric transformations give a congruent image. Check one vertex and one side 
 - Using AAA or SSA to claim congruence.
 - Claiming a shape tessellates because it "looks" like it fits, without the 360° angle argument.
 
+## Frequently asked questions
+
+**What are the conditions for congruent triangles?**
+Any one of SSS (three pairs of equal sides), SAS (two sides and the included angle), ASA or AAS (two angles and a matching side) or RHS (right angle, equal hypotenuses and one other side) proves congruence. Equal angles alone prove similarity, not congruence.
+
+**How do you find the gradient of a perpendicular line?**
+Flip the gradient and change its sign, so the perpendicular gradient to m is −1/m; the two gradients multiply to −1. In IB MYP Mathematics perpendicular gradients are extended content.
+
+**What is an isometric transformation?**
+A reflection, rotation or translation is isometric: lengths and angles do not change, so the image is congruent to the object. An enlargement changes lengths, so it is not isometric.
+
+**Why do some shapes tessellate?**
+A tessellation covers the plane with no gaps and no overlaps, so the angles at each meeting point must add to 360°. For example, six equilateral triangles meet at a point because 6 × 60° = 360°.
+
 ## Official syllabus
 
 IB *Mathematics guide (for use from September 2020/January 2021)*, MYP, first assessment 2022, published by the International Baccalaureate Organization. Content is drawn from the spatial reasoning branch, geometry rows.

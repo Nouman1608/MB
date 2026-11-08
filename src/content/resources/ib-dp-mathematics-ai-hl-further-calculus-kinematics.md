@@ -28,11 +28,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-5-13"
 description: "IB Maths AI HL study guide to chain, product and quotient rules, second derivatives, substitution, volumes of revolution and kinematics."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 This study guide teaches the HL further calculus unit of IB Diploma Programme Mathematics: Applications and Interpretation. It is aligned to the IB *Mathematics: applications and interpretation guide*, first assessment 2021, syllabus sections 5.9–5.13, and all of it is HL only (AHL). It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 HL sessions.
@@ -333,6 +333,20 @@ a = v(dv/ds) = (s² + 1)(2s) = 5 × 4 = 20 m s⁻²
 ## Next steps
 
 Condense this unit with the [revision notes](/resources/ib-dp-mathematics-ai-hl-further-calculus-kinematics-revision-notes/), then work the [practice set](/resources/ib-dp-mathematics-ai-hl-further-calculus-kinematics-practice/). For paper formats and planning, see the [AI syllabus guide](/resources/ib-dp-mathematics-applications-and-interpretation-syllabus-guide/), the [AI subject guide](/resources/ib-dp-mathematics-applications-and-interpretation-subject-guide/) and [AI exam preparation](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/). Volumes of solids also appear in the [geometry and trigonometry unit](/resources/ib-dp-mathematics-ai-geometry-trigonometry/).
+
+## Frequently asked questions
+
+**Are the chain, product and quotient rules in IB Maths AI SL?**
+No. In IB DP Maths AI, the chain, product and quotient rules, related rates, the second derivative, substitution, volumes of revolution and kinematics (sections 5.9–5.13) are all HL only.
+
+**What does a point of inflexion mean in a real-world context?**
+It is where the rate of change is at its greatest or least. For example, if N(t) counts people who have heard a rumour, a change from concave-up to concave-down marks the moment the rumour is spreading fastest.
+
+**How do you integrate a function with a linear inside such as cos(4x − 1)?**
+Integrate as normal and divide by the coefficient of x, so ∫cos(4x − 1) dx = (1/4) sin(4x − 1) + C. Check by differentiating your answer.
+
+**When can you use substitution to integrate?**
+Use substitution when the integral has the form ∫f(g(x))g′(x) dx, so the derivative of an inner function g(x), or a multiple of it, also appears. Let u = g(x), write du = g′(x) dx and rewrite the whole integral in u.
 
 ## Official syllabus
 

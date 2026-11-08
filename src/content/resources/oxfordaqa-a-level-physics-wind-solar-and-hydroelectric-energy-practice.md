@@ -141,6 +141,20 @@ These questions cover sections 3.13.2 to 3.13.4 of the OxfordAQA International A
 - Take the free 10-minute [diagnostics](/diagnostics/).
 - Next, [book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in wind turbine calculations?**
+Using the diameter instead of the blade length for r in P = ½πr²ρv³, forgetting that v is cubed, and treating the maximum power as the power actually delivered.
+
+**Is pumped storage an energy source?**
+No. Pumped storage stores energy by pumping water uphill when demand is low and releasing it through turbines when demand is high. Calling it an energy source is a common error.
+
+**Are these OxfordAQA A-level Physics past paper questions?**
+No. They are original practice questions with worked answers, written for revision on this topic of OxfordAQA International AS and A-level Physics (9630). Use them alongside the official past papers from the board.
+
+**Is renewable energy in OxfordAQA International AS Physics (9630)?**
+No. Sections 3.13.2 to 3.13.4 sit in section 3.13 of the OxfordAQA International AS and A-level Physics (9630) specification, which is International A-level only.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), specification version 4.4, for International AS and A-level exams from May/June 2020, published by OxfordAQA. These questions follow sections 3.13.2, 3.13.3 and 3.13.4.

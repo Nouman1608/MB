@@ -158,3 +158,17 @@ Command words: **describe** means give the main features of a stage; **explain**
 6. Why would a hospital avoid direct changeover for patient records? *If the new system fails there is no working backup, which risks patient safety.*
 7. State two things checked during evaluation. *Whether it meets the requirements and whether it is easy to use or efficient.*
 8. What is the purpose of a test plan? *It lists what will be tested, with which data, and the expected results so that actual results can be compared.*
+
+## Frequently asked questions
+
+**What are the stages of the systems life cycle in IGCSE ICT?**
+Cambridge IGCSE ICT (0417) lists six stages: analysis, design, development and testing, implementation, documentation and evaluation. Evaluation often reveals new problems, which starts the analysis of the next version.
+
+**What are normal, abnormal and extreme test data?**
+Normal data is valid data the system should accept, abnormal data is invalid data it should reject, such as text in a number field, and extreme data is the largest and smallest valid values on the edge of the accepted range.
+
+**What is a requirements specification?**
+A requirements specification is the agreed list of what the new system must do, produced at the end of analysis after researching the current system and identifying its problems and the users' requirements.
+
+**How should systems life cycle questions be answered?**
+Exam questions usually set a scenario, so apply each point to the organisation in the question rather than reciting a definition, and use the exact vocabulary such as test plan, technical documentation and direct changeover.

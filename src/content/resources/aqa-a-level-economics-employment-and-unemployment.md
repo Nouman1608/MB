@@ -244,6 +244,23 @@ Evaluation: effects depend on duration, scale, who is affected and the generosit
 
 Questions reward AO1 knowledge, AO2 application to the context given, AO3 chains of analysis and AO4 evaluation. Name the type of unemployment, link the cause to the policy, then judge using time period, scale and cause.
 
+## Frequently asked questions
+
+**What is the difference between the claimant count and the Labour Force Survey?**
+The claimant count counts people claiming an unemployment-related benefit, from benefit records. The LFS measure comes from a household survey using the ILO test and is internationally comparable.
+
+**What are the four types of unemployment in AQA A-level Economics?**
+Seasonal, frictional, structural and cyclical (demand-deficient) unemployment, each with a different cause and a different policy that fits.
+
+**What is real wage unemployment?**
+Real wage unemployment exists when the real wage is held above the level at which the labour market clears, for example by union bargaining power or a minimum wage set above equilibrium.
+
+**What is the natural rate of unemployment?**
+The natural rate is the unemployment rate when the economy is at its productive potential, with no cyclical unemployment. It is not zero.
+
+**What are the consequences of unemployment for the economy?**
+Lost output, lower tax revenue and higher benefit spending, and wider inequality. For individuals it means lost income and loss of skills and confidence.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification (7135 and 7136), first teaching from September 2015, version 1.3, published by AQA. This page follows the Employment and unemployment sub-section.

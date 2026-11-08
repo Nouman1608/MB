@@ -9,13 +9,13 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Applications and Interpretation"]
 syllabusSeries: "First assessment 2021"
 order: 2
-description: "The five content strands of IB Diploma Programme Mathematics: Applications and Interpretation -- number and algebra, functions, geometry and trigonometry, statistics and probability, and calculus -- with recommended teaching hours for SL and HL, for first assessment 2021."
+description: "The five content strands of IB DP Mathematics: Applications and Interpretation, with SL and HL teaching hours, the toolkit, the exploration and paper structure."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 This guide covers the full syllabus structure of **IB Diploma Programme
@@ -152,6 +152,20 @@ modelling real, data-rich situations with full technology support (this
 course) or to rigorous manual algebraic and analytical technique
 (Analysis and Approaches), since both are assessed to an equally
 demanding IB standard and neither is inherently the "easier" option.
+
+## Frequently asked questions
+
+**How many teaching hours does each IB Maths AI strand have?**
+Number and algebra has 16 hours at SL and 29 at HL, functions 31 and 42, geometry and trigonometry 18 and 46, statistics and probability 36 and 52, and calculus 19 and 41. The strands total 120 hours at SL and 210 at HL.
+
+**What is the toolkit in IB Maths AI?**
+The toolkit is time within the taught hours for developing inquiry, modelling and technology skills that transfer across strands. It shares 30 hours at both SL and HL with the exploration, which can take up to 15 of those hours.
+
+**Which IB Maths AI strands should HL students prioritise?**
+At HL the two largest strands are statistics and probability (52 hours) and geometry and trigonometry (46 hours), with functions third (42 hours). At SL the largest are statistics and probability and functions.
+
+**What is on IB Maths AI Paper 1 and Paper 2?**
+Paper 1 has compulsory short-response questions and Paper 2 has compulsory extended-response questions, both with technology allowed throughout. HL students also sit Paper 3, with two extended-response problem-solving questions.
 
 ## Official syllabus
 

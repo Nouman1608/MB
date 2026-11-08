@@ -19,13 +19,13 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "business-economics-edexcel-igcse-economics"
     subtopic: "government-intervention-edexcel-igcse-economics"
-description: "Monopoly and oligopoly, the demand and supply of labour, and how governments intervene in markets and the labour market -- sub-topics 1.2.4-1.2.6 of Topic 2 Business Economics, Pearson Edexcel International GCSE Economics (4EC1)."
+description: "Monopoly, oligopoly, the labour market, trade unions and government intervention: sub-topics 1.2.4 to 1.2.6 of Edexcel International GCSE Economics 4EC1."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-28
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **sub-topics 1.2.4–1.2.6**, the second half of Topic 2
@@ -189,6 +189,23 @@ wage set above the equilibrium wage.
   <figcaption>The current account adds income flows to the balance of trade.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**What are the features of a monopoly in Edexcel IGCSE Economics?**
+In the Pearson Edexcel International GCSE Economics (4EC1) specification, a monopoly has a single dominant firm, a unique product, price-maker status and high barriers to entry.
+
+**What is the difference between a monopoly and an oligopoly?**
+A monopoly is a single dominant firm. An oligopoly has a few dominant firms that are aware of each other, with differentiated products, high barriers to entry, interdependent pricing and the possibility of collusion.
+
+**Is a monopoly always bad for consumers?**
+Not always. The case against is higher prices and reduced choice; the case for is economies of scale and funded innovation, for example in pharmaceuticals. A strong answer weighs both before reaching a judgement.
+
+**What happens when a minimum wage is set above equilibrium?**
+Quantity of labour supplied rises above quantity demanded, so there is an excess supply of labour, or unemployment. Workers who keep their jobs earn more, while others lose out.
+
+**Why do some firms stay small?**
+The specification gives a limited market size, serving a niche market, financing constraints and the owner's own goals as reasons some firms stay small.
 
 ## Official syllabus
 

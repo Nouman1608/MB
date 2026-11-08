@@ -150,6 +150,20 @@ These questions cover sections 4.2.3 (Resistance), 4.2.4 (Resistivity) and 4.2.5
 - Using output energy rather than input energy when finding the cost or efficiency.
 - Omitting units or giving too many significant figures.
 
+## Frequently asked questions
+
+**What are the most common mistakes in resistance and power questions?**
+Common errors include stating Ohm's law without the constant-temperature condition, taking the slope of a curved I-V graph as the resistance, and using diameter as radius or not converting mm² to m². Mixing kW with seconds, or W with hours, also confuses kW h and joules.
+
+**How do you show that a filament lamp is non-ohmic?**
+Calculate V/I at two or more points and show that the resistance changes. Calling a lamp non-ohmic without calculated values does not earn the marks.
+
+**How do you calculate the resistor needed in series with an LED?**
+Subtract the LED's p.d. from the supply p.d. to get the p.d. across the resistor, then divide by the required current. Forgetting to subtract the LED's p.d. is a common mistake.
+
+**How should you explain why a thermistor's resistance falls when heated?**
+Say that heating releases more charge carriers in the semiconductor, which outweighs the extra collisions. "Electrons move faster" is not accepted.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/ocr-a-level-physics-resistance-resistivity-and-electrical-power-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-resistance-resistivity-and-electrical-power/).

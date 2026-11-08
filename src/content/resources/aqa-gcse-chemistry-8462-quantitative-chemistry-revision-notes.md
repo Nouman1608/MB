@@ -15,9 +15,9 @@ syllabusTopics:
     topic: "quantitative-chemistry-8462"
 description: "Condensed AQA GCSE Chemistry 8462 quantitative chemistry notes: Mr, moles, reacting masses, yield, atom economy, concentration and gas volumes."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -347,6 +347,20 @@ moles H2SO4 = 0.100 × 0.0200 = 0.00200 mol  →  NaOH = 0.00400 mol
 - Dividing theoretical by actual mass in percentage yield, giving a value over 100%.
 - In atom economy, leaving out the balancing number of the desired product or of a reactant.
 - Multiplying moles by 24 cm³ instead of 24 dm³ (or 24 000 cm³) for a gas volume.
+
+## Frequently asked questions
+
+**What is the law of conservation of mass?**
+No atoms are lost or made in a chemical reaction, so the mass of the products equals the mass of the reactants. This is why chemical equations must be balanced.
+
+**How do you calculate percentage yield?**
+Percentage yield is the actual mass of product made divided by the maximum theoretical mass, multiplied by 100. Dividing the wrong way round gives a value over 100%.
+
+**What volume does one mole of gas occupy at room temperature and pressure?**
+One mole of any gas occupies 24 dm³ (24 000 cm³) at room temperature and pressure. Gas volume calculations are Higher tier only in AQA GCSE Chemistry 8462.
+
+**How do you convert cm³ to dm³ for concentration calculations?**
+Divide the volume in cm³ by 1000 to get dm³ before calculating a concentration in g/dm³ or mol/dm³. Leaving the volume in cm³ is one of the most common errors.
 
 ## Official syllabus
 

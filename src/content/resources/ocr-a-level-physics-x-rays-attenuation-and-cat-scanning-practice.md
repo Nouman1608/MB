@@ -148,6 +148,20 @@ These questions cover section 6.5.1 (Using X-rays), statements (a) to (g), of th
 - Adding intensities, or multiplying coefficients, for layers of different material.
 - Using log to base 10 instead of the natural logarithm in the attenuation law.
 
+## Frequently asked questions
+
+**What are the most common mistakes in X-ray questions?**
+Common errors include forgetting that about 99% of the electrical power becomes thermal energy, confusing the photoelectric effect with Compton scattering, and using one electron rest energy instead of two for the pair production threshold. Using log base 10 instead of the natural logarithm in the attenuation law also loses marks.
+
+**How do you calculate attenuation through layers of different materials?**
+Add the exponents μx for each layer, because the transmitted fractions multiply. Adding intensities, or multiplying the coefficients, gives the wrong answer.
+
+**How should you describe how X-ray photons are produced?**
+Give the mechanism, not just the name: in braking radiation, electrons decelerating near target nuclei emit photons of any energy up to eV; characteristic lines come from electrons dropping into vacancies in inner shells of target atoms. Naming the spectrum without a mechanism does not earn full marks.
+
+**Does tube current or tube voltage set the maximum X-ray photon energy?**
+The tube voltage sets the maximum photon energy, hf_max = eV. The tube current sets the number of electrons per second and so the intensity of the beam.
+
 ## Next steps
 
 - Go over the [revision notes](/resources/ocr-a-level-physics-x-rays-attenuation-and-cat-scanning-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-x-rays-attenuation-and-cat-scanning/).

@@ -229,6 +229,20 @@ A strong conclusion reads like this: "On balance a [style] approach is best here
 - Skipping a conclusion, or repeating the introduction as one.
 - Writing about scientific and intuitive thinking at SL when it is not required, or leaving it out at HL.
 
+## Frequently asked questions
+
+**What is the difference between paternalistic and autocratic leadership?**
+In both styles the leader makes the decision. A paternalistic leader explains the decision and shows concern for staff welfare, while an autocratic leader simply expects decisions to be followed.
+
+**What is the difference between democratic and laissez-faire leadership?**
+In a democratic style the leader involves staff in decisions but still guides the discussion. In a laissez-faire style the leader sets goals and then gives staff wide freedom to decide how to work, with minimal direction.
+
+**Are there calculations in IB Business Management section 2.3?**
+No. Section 2.3, Leadership and management, has no calculations, although a question may give figures such as staff turnover for you to use as evidence.
+
+**What criteria should you use to evaluate a leadership style?**
+Judge a style against the urgency of the decision, the skill and experience of the staff, the risk and cost of mistakes, its effect on motivation and turnover, and its fit with the organization's culture and size. Then reach a clear judgement.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. This page covers section 2.3, Leadership and management.

@@ -211,6 +211,23 @@ The **World Trade Organisation (WTO)** is the body that sets rules for trade bet
 - Treating a quota's gain as government revenue.
 - Writing "terms of trade improved so the current account improved" without elasticities.
 
+## Frequently asked questions
+
+**What causes comparative advantage?**
+Comparative advantage comes from factor endowments such as land, labour and capital, productivity and technology, relative costs including wages and the exchange rate, and economies of scale and learning.
+
+**Why does comparative advantage change over time?**
+Investment in education and capital, new technology, discovery or exhaustion of resources, rising wages and exchange rate changes all shift relative costs. A policy that protects an industry today may block the shift to a better one.
+
+**What are the costs of international trade?**
+Costs include structural unemployment where industries shrink, over-specialisation that exposes a country to falls in its main export price, dependence on imported essentials, environmental costs and unequal gains between groups.
+
+**What does the World Trade Organisation do?**
+The WTO provides a forum for negotiating lower trade barriers, administers agreements, monitors members' trade policies and settles disputes. Its power is limited because it relies on members accepting its rulings and negotiations are slow.
+
+**What are the limitations of the comparative advantage model?**
+It assumes constant opportunity costs, no transport costs or tariffs, full employment, mobile resources within each country, and two countries and two goods. In reality opportunity costs often rise as a country specialises.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, first teaching September 2020, first International AS exams May/June 2021, first International A-level exams May/June 2022; section 3.4.1.2 Trade.

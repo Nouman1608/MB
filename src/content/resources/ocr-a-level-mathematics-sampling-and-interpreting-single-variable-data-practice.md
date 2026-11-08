@@ -155,6 +155,20 @@ Read the [study guide](/resources/ocr-a-level-mathematics-sampling-and-interpret
 - Entering 0 for missing data.
 - Comparing two sets with an average only.
 
+## Frequently asked questions
+
+**How do you explain why a sample is biased?**
+Name the method, then say who in this particular context could be missed or over-represented and how that could change the result. Calling a sample "biased" without a reason tied to the context earns little credit.
+
+**What goes on the vertical axis of a histogram with unequal class widths?**
+Frequency density, which is frequency divided by class width. In a histogram, area, not height, represents frequency.
+
+**Which values do you use for a grouped mean and standard deviation?**
+Use the class midpoints, not the class boundaries, and state the results as estimates, because one midpoint represents every value in a class.
+
+**How should you compare two data sets in OCR A Level Mathematics?**
+Comment on both a measure of average and a measure of spread, in context. Comparing with an average only is a common way to lose marks.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/ocr-a-level-mathematics-sampling-and-interpreting-single-variable-data-revision-notes/).

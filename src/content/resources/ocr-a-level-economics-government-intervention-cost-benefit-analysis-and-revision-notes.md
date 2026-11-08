@@ -242,6 +242,23 @@ These notes condense the OCR A Level Economics (H460) topics "Alternative method
 </figure>
 
 
+## Frequently asked questions
+
+**Why do governments intervene in markets?**
+Governments intervene to correct market failure, such as externalities, public goods, information failure and market power, and to reduce inequity in income, wealth and access to resources. Every method has a cost, so weigh benefit against cost and side effects.
+
+**What happens when a maximum price is set below equilibrium?**
+Quantity demanded exceeds quantity supplied, creating a shortage. Consumers would pay more than the capped price for the last unit supplied, which encourages black markets, queues and falling quality.
+
+**What is net present value in cost benefit analysis?**
+Net present value is the present value of benefits minus the present value of costs, where future amounts are discounted using amount divided by (1 + r) to the power n. A project passes if NPV is above zero, though the result is sensitive to the discount rate.
+
+**How do tradable pollution permits lower the cost of cutting emissions?**
+The government caps total emissions and lets firms trade permits. Firms with low abatement costs cut emissions and sell spare permits, while firms with high costs buy them, so the cap is met at the lowest total cost.
+
+**What are the causes of government failure?**
+Causes include imperfect information, distorted incentives such as short-term vote-winning policies, regulatory capture, unintended consequences, administrative and compliance costs, and time lags.
+
 ## Official syllabus
 
 OCR A Level in Economics (H460), Version 3.0 (June 2026), for first assessment in 2021, published by OCR. Topics: "Alternative methods of government intervention" and "Government failure".

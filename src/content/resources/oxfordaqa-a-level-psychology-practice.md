@@ -13,7 +13,16 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-introductory-topics-9685"
-description: "Original exam-style practice questions with full worked answers on memory, social influence and psychopathology -- the three 30-mark sections of Unit 1 Introductory Topics in Psychology."
+  - qualification: "a-level"
+    topic: "unit-1-introductory-topics-9685"
+    subtopic: "memory-9685"
+  - qualification: "a-level"
+    topic: "unit-1-introductory-topics-9685"
+    subtopic: "social-psychology-9685"
+  - qualification: "a-level"
+    topic: "unit-1-introductory-topics-9685"
+    subtopic: "psychopathology-9685"
+description: "Practice questions with worked answers on memory, social psychology and psychopathology for Unit 1 of OxfordAQA International A-Level Psychology 9685."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -89,3 +98,17 @@ Related: [Introductory Topics revision notes](/resources/oxfordaqa-a-level-psych
 - Confusing the agentic state with legitimacy of authority, or describing obedience without reference to Milgram's actual variables.
 - Giving a definition of abnormality without a linked limitation.
 - Describing a therapy without linking it back to the explanation that justifies it.
+
+## Frequently asked questions
+
+**What do these OxfordAQA 9685 Unit 1 practice questions cover?**
+They cover the three 30-mark sections of Unit 1: memory, social psychology and psychopathology, including the working memory model, the cognitive interview, conformity, obedience, phobias and depression.
+
+**Are these OxfordAQA 9685 Unit 1 questions taken from past papers?**
+No. They are original exam-style questions with full worked answers, organised into the three sections of Unit 1.
+
+**How should you answer a question on a therapy for a disorder?**
+Describe the therapy and link it back to the explanation that justifies it, for example how the two-process model justifies systematic desensitisation for phobias.
+
+**What are common mistakes in Unit 1 practice questions?**
+Students often confuse normative with informational social influence, name working memory components without dual-task evidence, and give a definition of abnormality without a linked limitation.

@@ -316,6 +316,23 @@ The ions attract the delocalised electrons, not each other.
 
 Run through the [revision notes](/resources/oxfordaqa-igcse-chemistry-chemical-bonds-ionic-covalent-and-metallic-revision-notes/), then try the [practice questions](/resources/oxfordaqa-igcse-chemistry-chemical-bonds-ionic-covalent-and-metallic-practice/), which have fully worked answers.
 
+## Frequently asked questions
+
+**How do you work out the charge on an ion from its group number?**
+For metals, the charge equals the group number, so a Group 2 metal forms a 2+ ion. For non-metals in Groups 5 to 7, the charge is the group number minus 8, so a Group 6 element forms a 2− ion. Elements in Groups 4 and 0 do not usually form simple ions.
+
+**What is ionic bonding?**
+Ionic bonding is the strong electrostatic attraction between oppositely charged ions, acting in all directions through a giant lattice. In sodium chloride, each Na⁺ ion is surrounded by six Cl⁻ ions and each Cl⁻ ion by six Na⁺ ions.
+
+**What is metallic bonding?**
+A metal is a giant structure of positive ions in a regular pattern, with outer electrons that are delocalised and can move through the whole structure. Strong electrostatic attraction between the positive ions and the delocalised electrons holds it together.
+
+**How do you check a dot and cross diagram for a molecule?**
+Add up the outer electrons of all the atoms; the total should equal twice the number of shared pairs plus non-bonding pairs. For oxygen, O₂, 6 + 6 = 12 = 2 × (2 + 4).
+
+**Why does a lithium ion have the electron arrangement of helium?**
+A lithium atom (2,1) loses its single outer electron, which empties its second shell. The ion is left with the arrangement 2, the same as helium, not neon.
+
 ## Official syllabus
 
 Source document: the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, from OxfordAQA. This page follows its section 3.2.1, Chemical bonds: ionic, covalent and metallic.

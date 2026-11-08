@@ -232,6 +232,20 @@ Every group faces scarcity. Consumers have limited income and time. Producers ha
 - Treating interdependence as a list of separate roles rather than a chain of cause and effect.
 - Copying a definition when the question says "explain" and asks for the context.
 
+## Frequently asked questions
+
+**Who are the main economic groups?**
+The OCR GCSE Economics (J205) notes identify consumers, producers and the government. Consumers buy output and supply labour, producers employ factors and make output, and the government collects tax, provides services, makes rules and redistributes income.
+
+**How are economic groups interdependent?**
+Households supply labour, firms pay wages, households spend on output, both pay tax, and the government spends on services both use. A change for one group, such as a higher business tax, affects the others.
+
+**What are the three types of sustainability?**
+Economic sustainability asks whether an activity can keep generating income and jobs, social sustainability asks whether it supports well-being and fairness over time, and environmental sustainability asks whether it protects natural resources.
+
+**How do you calculate opportunity cost from time?**
+Compare the time each option takes. If a colouring takes 120 minutes and a haircut 30 minutes, the opportunity cost of one colouring is 120 divided by 30, which is 4 haircuts.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Economics (J205), specification version 2.0 (June 2026), first assessment 2019, published by OCR (Oxford Cambridge and RSA). Sections 1.1 and 1.2 of Introduction to Economics.

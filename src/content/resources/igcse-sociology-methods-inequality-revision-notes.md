@@ -12,13 +12,25 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-research-methods-identity-inequality-0495"
-description: "Condensed recall notes on research methods, sociological perspectives, socialisation, identity, and social class, gender and ethnic inequality for Cambridge IGCSE Sociology 0495."
+  - qualification: "igcse"
+    topic: "paper-1-research-methods-identity-inequality-0495"
+    subtopic: "kq-1-2-0495"
+  - qualification: "igcse"
+    topic: "paper-1-research-methods-identity-inequality-0495"
+    subtopic: "kq-1-3-0495"
+  - qualification: "igcse"
+    topic: "paper-1-research-methods-identity-inequality-0495"
+    subtopic: "kq-2-1-0495"
+  - qualification: "igcse"
+    topic: "paper-1-research-methods-identity-inequality-0495"
+    subtopic: "kq-3-1-0495"
+description: "Cambridge IGCSE Sociology (0495) Paper 1 notes: research methods, perspectives, socialisation and identity, and class, gender and ethnic inequality."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -109,3 +121,17 @@ Condensed for the final weeks. For the full explanation, use the
 6. Explain the cycle of deprivation.
 
 **Answers:** 1. Reliability means repeating the study would give the same result — favoured by quantitative methods; validity means it gives a true picture — favoured by qualitative methods. 2. Participant observation, combined with snowball sampling — access and trust are needed to reach the group, and observation gives valid insight into their meanings, though the results are not reliable or representative. 3. To test the method on a small scale so that problems with wording, timing or procedure can be corrected before the main study. 4. Absolute poverty is lacking the basic necessities for survival; relative poverty is falling below the standard of living considered acceptable within that particular society. 5. Intergenerational mobility compares a person's class position with their parents'; intragenerational compares positions within a single person's own working life. 6. Poor housing and diet lead to poor health and educational underachievement, which lead to low-paid or insecure work, which reproduces poverty in the next generation.
+
+## Frequently asked questions
+
+**What is the difference between reliability and validity?**
+Reliability means repeating the study would give the same result; validity means it gives a true and accurate picture. Quantitative methods tend to favour reliability and qualitative methods validity.
+
+**Does a bigger sample remove bias?**
+No. A larger sample reduces sampling error, but a biased method remains biased whatever the size of the sample.
+
+**What is the glass ceiling?**
+The glass ceiling is the barrier that blocks women's promotion into senior roles. It is linked to vertical segregation, which concentrates women at lower levels within occupations.
+
+**What is the cycle of deprivation?**
+Poor housing and diet lead to poor health and educational underachievement, which lead to low-paid or insecure work, reproducing poverty into the next generation.

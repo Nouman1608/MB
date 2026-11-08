@@ -282,6 +282,23 @@ Growth can fund the technology and tax base for sustainable development, but not
 - Listing difficulties of measurement without saying whether GDP is over- or understated.
 - Showing a long-run cause such as education as a shift of AD alone.
 
+## Frequently asked questions
+
+**What is the difference between real and nominal GDP?**
+Nominal GDP values output at the prices of the year of production, so it can rise simply because prices rise. Real GDP values output at the prices of a fixed base year, removing the effect of price changes, so only real GDP shows whether more is being produced.
+
+**What is a recession?**
+A recession is a period of falling real output. A widely used rule is two consecutive quarters of falling real GDP, although this is a convention and a long, mild decline can still be a problem.
+
+**How is GDP measured?**
+GDP is the value of all final goods and services produced in a period. In principle it can be measured by output (value added), income (wages, profits, rent and interest) or expenditure (consumption, investment, government spending and net exports), and the three should agree.
+
+**What causes long-run economic growth?**
+Long-run growth comes from a rise in potential output: more capital, better education and training, technological progress, more or better natural resources, a larger labour force and better institutions. It is shown by a rightward shift of LRAS or an outward shift of the PPF.
+
+**Does a shift in economic structure help sustainable development?**
+It can, if growth moves towards cleaner, more productive services and some income is invested in education and clean capital. It can also hurt, if growth rests on resource extraction or simply moves pollution abroad, so the outcome depends on policy.
+
 ## Official syllabus
 
 This guide follows the OCR *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, published by OCR (Oxford Cambridge and RSA Examinations).

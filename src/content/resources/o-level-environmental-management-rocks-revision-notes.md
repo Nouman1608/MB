@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "o-level"
     topic: "rocks-and-minerals-and-their-exploitation-5014"
-description: "Condensed recall notes on rock types, the rock cycle, mineral extraction, impacts and sustainable management for Cambridge O Level Environmental Management 5014."
+description: "Revision notes on rock types, the rock cycle, minerals and reserves, mining methods, extraction impacts and sustainable management for Cambridge O Level 5014."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 ---
 
 Condensed for the final weeks, following the **outgoing 2025-2026 edition** of 5014 (nine-topic
@@ -124,3 +124,20 @@ The calculation itself is worth one mark; the reasons it is unreliable are worth
 7. Distinguish between a mineral and a reserve.
 
 **Answers:** 1. The rate of cooling — slow cooling underground allows large crystals to grow, whereas rapid cooling at the surface produces small ones. 2. The heat and pressure of metamorphism usually destroys fossils present in the original rock, but in low-grade metamorphic rocks such as slate, fossils can rarely survive, typically flattened or distorted by cleavage. 3. It is cheaper and safer with high recovery rates, but it destroys a large surface area and creates dust and noise. 4. Habitat destruction and loss of land; water contamination through acid mine drainage and sediment; air pollution from dust and machinery emissions. 5. Extending the resource's life through efficient extraction, recycling and substitution, and restoring sites afterwards — since the resource itself cannot be renewed. 6. 400 ÷ 8 = 50 years, but this assumes a constant extraction rate, no new discoveries, a fixed economic threshold, and no substitution or recycling — all of which typically change. 7. A mineral is a naturally occurring solid with a definite chemical composition and crystalline structure; a reserve is a known deposit not yet mined that could be extracted in future, and only counts once extraction is economically viable.
+
+## Frequently asked questions
+
+**What does crystal size tell you about an igneous rock?**
+Crystal size shows how fast the magma or lava cooled. Slow cooling underground, as in granite, gives large crystals, while rapid cooling at the surface, as in basalt, gives small ones.
+
+**What is the difference between a mineral and a reserve in O Level Environmental Management?**
+A mineral is a naturally occurring solid with a definite chemical composition and an ordered crystalline structure, whether or not it is mined. A reserve is a known deposit that has not yet been extracted.
+
+**What is the difference between open-cast and deep mining?**
+Open-cast mining is cheap, safe and has high recovery, but it destroys a large surface area and creates dust, noise and visible scars. Deep shaft mining causes less surface damage and reaches deeper deposits, but it is expensive, dangerous and risks subsidence.
+
+**What does sustainable use of a mineral resource mean?**
+It means meeting present needs without preventing future generations from meeting theirs. For a finite resource this involves extending its life through efficiency, recycling and substitution, since it cannot be renewed.
+
+**Which edition of 5014 do these rocks notes cover?**
+They cover the outgoing 2025-2026 edition of Cambridge O Level Environmental Management 5014, whose final sitting is in Mauritius only. The 2027-2029 edition adds an ore definition and biological extraction, and has its own notes.

@@ -242,6 +242,20 @@ Your answers can only be as precise as your data. If g is given to two significa
 - Missing units on a final answer, or giving N cm when the question works in metres.
 - Mixing up the variable m (mass) with the unit m (metre), or the variable s (displacement) with the unit s (second).
 
+## Frequently asked questions
+
+**What does Section P of AQA A-level Maths cover?**
+Section P (content reference P1) of the AQA 7357 specification covers the SI units of the fundamental quantities length, time and mass, and the derived units of velocity, acceleration, force, weight and moment.
+
+**Is g a constant in A-level mechanics?**
+The AQA specification says g may be taken as constant and is used to varying degrees of accuracy, but it is not a universal constant. Always use the value of g that the question gives, such as exactly 9.8 m s⁻² if stated.
+
+**Why must you convert units before substituting into F = ma?**
+The formula only gives a force in newtons if mass is in kilograms and acceleration is in m s⁻². Using grams, tonnes or km h⁻¹ directly gives answers wrong by factors such as 1000 or 3.6.
+
+**How accurately should you give mechanics answers?**
+Your answer can only be as precise as your data. If g is given to two significant figures, such as 9.8, quoting a force to four significant figures claims more accuracy than the data supports.
+
 ## Next steps
 
 - Condensed recall: [Quantities and units revision notes](/resources/aqa-a-level-mathematics-quantities-and-units-in-mechanics-revision-notes/).

@@ -203,6 +203,20 @@ State a benefit and a concern for each angle you use. Then give a judgement, wit
 - Listing advantages and disadvantages of GM technology with no link to the data given.
 - Evaluating with a one-sided answer and no conclusion.
 
+## Frequently asked questions
+
+**What is the difference between a restriction endonuclease and DNA ligase?**
+A restriction endonuclease cuts both strands of DNA at a specific recognition sequence, often leaving sticky ends. DNA ligase joins the sugar-phosphate backbones of the fragment and vector by forming phosphodiester bonds.
+
+**What is the difference between PCR and in vivo amplification?**
+PCR copies DNA in a tube without cells and is quick but needs some sequence knowledge for primers. In vivo amplification uses living host cells that divide and can also make the protein.
+
+**How many copies of DNA does PCR make?**
+Starting from one template, PCR gives 2ⁿ copies after n cycles if every cycle is complete. A cycle that is only 90% efficient multiplies the amount by 1.9 rather than 2.
+
+**What is insertional inactivation?**
+Insertional inactivation is when a new gene is inserted inside a marker gene, so the marker stops working. Colonies that lose the marker contain the insert, separating recombinant cells from those with an empty vector.
+
 ## Official syllabus
 
 The OxfordAQA *International AS and A-level Biology (9610)* specification, Version 5.1, for International A-level exams May/June 2018 onwards, published by OxfordAQA.

@@ -9,13 +9,13 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Analysis and Approaches"]
 syllabusSeries: "First assessment 2021"
 order: 5
-description: "Paper-by-paper exam preparation for IB DP Mathematics: Analysis and Approaches -- building genuine by-hand fluency for Paper 1, showing full working on 'show that' questions, HL Paper 3 strategy, a worked derivative proof and a checklist."
+description: "Exam preparation for IB DP Maths Analysis and Approaches: by-hand fluency for Paper 1, full working on show-that questions, HL Paper 3 strategy and a checklist."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 The [assessment revision notes](/resources/ib-dp-mathematics-analysis-and-approaches-assessment-revision-notes/)
@@ -126,6 +126,20 @@ eˣ (which is eˣ), needed as u and v's derivatives before applying the product 
 unlike a timed exam paper, the exploration is completed over an extended period without exam-day
 time pressure, so starting early leaves time for a full draft to be checked against the criteria and
 revised at least once, which consistently outperforms work rushed in the final weeks.
+
+## Frequently asked questions
+
+**What does hence or otherwise mean in an IB Maths AA question?**
+Hence asks you to build explicitly on a result from an earlier part of the same question. Hence or otherwise means you may use that earlier result or any other valid method.
+
+**Do you still need to show working on IB Maths AA Paper 2 if a calculator is allowed?**
+Yes. Show that and multi-step questions on Paper 2 still need the algebraic or logical steps written out, because a calculator can confirm an answer but cannot replace the steps a mark scheme is built around.
+
+**Why do you lose marks on a show that question when the final answer is right?**
+A show that question asks for a fully justified derivation reaching a given result, and credit is awarded for the steps themselves. Writing only the final line, or skipping intermediate algebra, loses those marks even though the answer matches.
+
+**Is a calculator allowed on IB Maths AA HL Paper 3?**
+Yes. HL Paper 3 consists of two extended-response problem-solving questions using technology, worth 20%, and lasts 1 hour 15 minutes for the current course through November 2028.
 
 ## Official syllabus
 

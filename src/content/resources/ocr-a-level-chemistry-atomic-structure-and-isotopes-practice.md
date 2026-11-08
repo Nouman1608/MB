@@ -180,6 +180,20 @@ nitrate, hydroxide, zinc, ammonium
 - Try the [free 10-minute diagnostics](/diagnostics/) to find your next gap.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry 2.1.1 and 2.1.2 questions from past papers?**
+No. They are original practice questions with worked answers on atomic structure, isotopes, compounds, formulae and equations in OCR A Level Chemistry A (H432).
+
+**What must a definition of relative atomic mass include?**
+It must say "weighted mean" and refer to carbon-12. Writing "average mass" or leaving out carbon-12 loses marks.
+
+**How do you calculate relative atomic mass from mass spectrum data?**
+Multiply each relative isotopic mass by its abundance, add the products, and divide by the total abundance. Dividing by the number of isotopes is a common error.
+
+**What is a common mistake when writing ionic equations?**
+Writing an equation that balances in atoms but not in charge. Check that the total charge is the same on both sides, and include state symbols when they are asked for.
+
 ## Official syllabus
 
-OCR, *Cambridge OCR Level 3 Advanced GCE in Chemistry A (H432) specification*, Version 3.1, May 2026, first assessment 2017. Sections 2.1.1 "Atomic structure and isotopes" and 2.1.2 "Compounds, formulae and equations".
+OCR, *OCR Level 3 Advanced GCE in Chemistry A (H432) specification*, Version 3.1, May 2026, first assessment 2017. Sections 2.1.1 "Atomic structure and isotopes" and 2.1.2 "Compounds, formulae and equations".

@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-mechanics-and-materials"
     subtopic: "mechanics"
-description: "Condensed recall notes on kinematics, projectiles, Newton laws, momentum and energy for Edexcel International A Level Physics YPH11."
+description: "Condensed recall notes on kinematics, projectiles, Newton's laws, momentum, moments, work and power for Edexcel International A Level Physics YPH11 Unit 1."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: labelled impulse as Unit 4 topic 4.3 content (not Unit 1); please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -92,13 +92,13 @@ d = 48 / 40 = 1.2 m
 </figure>
 
 
-## Momentum and impulse
+## Momentum (and a note on impulse)
 
 ```
-p = mv          impulse = Ft = delta-p
+p = mv          impulse = Ft = delta-p   (impulse: Unit 4, topic 4.3)
 ```
 
-Impulse is the **area under a force–time graph**.
+Unit 1 needs **p = mv** and **conservation of linear momentum in one dimension**. Impulse, FΔt = Δp, is listed in the specification under Unit 4 topic 4.3 Further Mechanics, not Unit 1; it is shown here because it links the two units. Impulse is the **area under a force–time graph**.
 
 **Momentum is conserved in all collisions; kinetic energy only in elastic ones.** In an inelastic collision the missing kinetic energy becomes thermal energy, sound and deformation.
 
@@ -166,3 +166,16 @@ Related: [Mechanics practice questions](/resources/edexcel-ial-physics-mechanics
   <figcaption>The normal force is perpendicular to the slope, and the weight splits into components along and into it.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does a velocity-time graph show in Edexcel IAL Physics?**
+The gradient of a velocity-time graph gives the acceleration and the area under it gives the displacement. On a displacement-time graph, the gradient gives the velocity.
+
+**Is impulse part of Unit 1 in Edexcel IAL Physics?**
+No. Unit 1 needs p = mv and conservation of linear momentum in one dimension. Impulse, FΔt = Δp, is listed under Unit 4 topic 4.3 Further Mechanics.
+
+**What is Core Practical 1 in Edexcel IAL Physics?**
+Core Practical 1 determines the acceleration of a freely-falling object, measuring g with light gates or strobe or video photography. The result can be compared with the standard value of 9.81 m s⁻².
+
+**What is special about a pair of Newton's third law forces?**
+The two forces are equal and opposite, act on different bodies and are of the same type.

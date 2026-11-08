@@ -13,6 +13,15 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-introductory-topics-9685"
+  - qualification: "a-level"
+    topic: "unit-1-introductory-topics-9685"
+    subtopic: "memory-9685"
+  - qualification: "a-level"
+    topic: "unit-1-introductory-topics-9685"
+    subtopic: "social-psychology-9685"
+  - qualification: "a-level"
+    topic: "unit-1-introductory-topics-9685"
+    subtopic: "psychopathology-9685"
 description: "Condensed recall notes on social influence, memory and psychopathology for International A Level Psychology."
 author: "marlbridge-academic-team"
 specCheck:
@@ -44,7 +53,7 @@ The distinction predicts durability: NSI changes behaviour only while observed; 
 
 **Resistance:** social support and an internal locus of control.
 
-**Zimbardo** — the prison study showed ordinary people adopting brutal guard roles from situational role assignment (though archival evidence suggests the guards were also actively coached toward toughness, and an alternative social-identity-based reading is well established, so this is not a "pure" situational effect), and ethical concerns (psychological harm, unclear informed consent) and methodological criticism (demand characteristics, a small unrepresentative sample) further limit what it can be taken to prove. Neither Zimbardo's study nor minority influence below is itself named in the specification's social psychology sub-topic, but every bullet in that sub-topic is introduced with "including," so both remain legitimately teachable as illustrations of it -- they are not named, not "off-specification."
+**Zimbardo** — the prison study showed ordinary people adopting brutal guard roles from situational role assignment (though archival evidence suggests the guards were also actively coached toward toughness, and an alternative social-identity-based reading is well established, so this is not a "pure" situational effect), and ethical concerns (psychological harm, unclear informed consent) and methodological criticism (demand characteristics, a small unrepresentative sample) further limit what it can be taken to prove. *Enrichment only:* neither Zimbardo's study nor minority influence (below) appears in the 9685 social psychology content, so no exam question will name them; use them, if at all, as supporting evidence in an evaluation, and put your revision time into the named content first.
 
 **Minority influence** works through **consistency, commitment and flexibility** — a minority that is consistent and appears committed to its position, while still flexible enough to negotiate, is more persuasive than a rigid one.
 
@@ -100,6 +109,20 @@ The specification names exactly **two** disorders in this unit.
 2. What does the working memory model explain that the multi-store model cannot?
 3. Why is the authoritarian personality an inadequate explanation of obedience?
 4. Explain the two-process model and how it justifies exposure therapy.
-5. What criticism applies to Zimbardo's prison study, and what three factors explain minority influence?
+5. Name two situational variables in Milgram's research that reduced obedience, and two explanations of resistance to social influence.
 
-**Answers:** 1. NSI is the need to be liked, producing compliance that lasts only while observed; ISI is the need to be right, producing internalisation that persists. 2. Dual-task performance — two tasks using different slave systems can be carried out simultaneously, which a single unitary short-term store cannot explain. 3. It cannot account for entire populations obeying, which would require an implausibly uniform personality type across millions of people. 4. Classical conditioning creates the phobia and operant conditioning maintains it, because avoidance is negatively reinforced by anxiety reduction; exposure without avoidance therefore breaks the cycle. 5. Zimbardo's study is criticised for ethical harm, for demand characteristics from a small unrepresentative sample, and for archival evidence that the guards were coached toward toughness rather than adopting brutality purely from situational assignment; minority influence works through consistency, commitment and flexibility.
+**Answers:** 1. NSI is the need to be liked, producing compliance that lasts only while observed; ISI is the need to be right, producing internalisation that persists. 2. Dual-task performance — two tasks using different slave systems can be carried out simultaneously, which a single unitary short-term store cannot explain. 3. It cannot account for entire populations obeying, which would require an implausibly uniform personality type across millions of people. 4. Classical conditioning creates the phobia and operant conditioning maintains it, because avoidance is negatively reinforced by anxiety reduction; exposure without avoidance therefore breaks the cycle. 5. Proximity (obedience fell when the learner was in the same room or the teacher had to place his hand on a shock plate) and location (obedience fell when the study moved from Yale to a run-down office block); resistance is explained by social support (a disobedient ally) and an internal locus of control.
+
+## Frequently asked questions
+
+**What is the difference between NSI and ISI?**
+Normative social influence is the need to be liked and produces compliance that lasts only while observed. Informational social influence is the need to be right and produces internalisation, which persists.
+
+**Are explanations for forgetting in the OxfordAQA 9685 memory content?**
+No. Explanations for forgetting, such as interference and retrieval failure, are not in this specification's memory content, so do not write about them in a memory answer.
+
+**Which disorders does OxfordAQA 9685 Unit 1 name?**
+The unit names exactly two disorders: phobias and depression. OCD belongs to the OxfordAQA International GCSE (9218) specification instead.
+
+**Does anxiety always worsen eyewitness accuracy?**
+No. Weapon focus narrows attention, but the evidence on anxiety is contradictory, so claiming anxiety always worsens accuracy is a common exam trap.

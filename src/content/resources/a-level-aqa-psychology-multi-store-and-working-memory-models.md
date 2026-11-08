@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-introductory-topics-7182"
     subtopic: "memory-7182"
-description: "The multi-store model (sensory register, STM, LTM) and the working memory model (central executive, phonological loop, visuo-spatial sketchpad, episodic buffer) -- the two structural models within the Memory topic (4.1.2 in the A-level content, 3.1.2 in the AS content), AQA A-Level Psychology (7182)."
+description: "Study guide to the multi-store model and the working memory model in the Memory topic of AQA A-Level Psychology (7182), with coding, capacity and duration."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -161,6 +161,20 @@ interfere with each other, using the working memory model's separate
 components.
 - Practise clearly distinguishing what each model is actually
 describing (a sequence of stores, versus internal STM structure).
+
+## Frequently asked questions
+
+**What is the difference between the multi-store model and the working memory model?**
+The multi-store model describes memory as a sequence of separate stores: the sensory register, short-term memory and long-term memory. The working memory model is a more detailed account of short-term memory itself, splitting it into interacting components.
+
+**What are the four components of the working memory model?**
+They are the central executive, the phonological loop, the visuo-spatial sketchpad and the episodic buffer. The episodic buffer was added to the model later than the other three, so it is easy to forget.
+
+**What is the capacity and duration of short-term memory?**
+Short-term memory holds about 7±2 items, following Miller, and lasts about 18 to 30 seconds without rehearsal. Its coding is mainly acoustic, while long-term memory coding is mainly semantic.
+
+**Are types of long-term memory still on the AQA 7182 specification?**
+No. Episodic, semantic and procedural memory were removed in version 1.4 of the specification, so they are not required for exams from June 2026 (AS) and June 2027 (A-level). They can still be useful when evaluating the multi-store model.
 
 ## Official syllabus
 

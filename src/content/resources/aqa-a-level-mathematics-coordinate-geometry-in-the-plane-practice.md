@@ -171,6 +171,23 @@ Course hub: [/boards/aqa/a-level/mathematics/](/boards/aqa/a-level/mathematics/)
 - Working in degrees when the model is in radians.
 - Giving a decimal when the question says "exact".
 
+## Frequently asked questions
+
+**What does AQA A-level Maths 7357 Section C cover?**
+Section C covers straight lines, circles, parametric equations of curves and parametric equations in modelling, content references C1 to C4.
+
+**How do you find the values of k for which a line is a tangent to a circle?**
+Substitute the line into the circle to form a quadratic, then set its discriminant equal to zero. Using > 0 or ≥ 0 instead loses the method mark.
+
+**How do you test whether a point is inside a circle?**
+Substitute the point into (x − a)² + (y − b)² and compare the result with r², not with r. Less than r² means inside.
+
+**What must you include after converting a trigonometric parametric curve to Cartesian form?**
+State the range of x (and y if asked) that the parameter allows. For x = 2 + sin θ, for example, 1 ≤ x ≤ 3; this is often a separate mark.
+
+**How do you show a quadrilateral is a square in a coordinate geometry question?**
+Show that all four angles are right angles, for example using gradients multiplying to −1, and that adjacent sides are equal. Showing only one of these leaves the shape unproved.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/aqa-a-level-mathematics-coordinate-geometry-in-the-plane-revision-notes/).

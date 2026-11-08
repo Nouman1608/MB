@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "differentiation-cambridge-alevel-maths-2"
 description: "11 original Cambridge 9709 Paper 2 differentiation questions, from chain rule to implicit curves, with mark-by-mark answers and examiner insights."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -142,6 +142,20 @@ Related: the [study guide](/resources/a-level-maths-9709-pure-mathematics-2-diff
 - Exact answers are converted to decimals, or decimal gradients are rounded before the last line.
 - A factor such as e^(−x) or e^(2x) is cancelled without saying it can never be zero.
 - The nature of a stationary point is found by a different method from the one the question names.
+
+## Frequently asked questions
+
+**Which rules are tested in Cambridge 9709 Paper 2 differentiation?**
+Section 2.4 tests derivatives of eˣ, ln x, sin x, cos x and tan x, the chain, product and quotient rules, and the first derivative of parametric and implicit curves.
+
+**How do you differentiate an xy term implicitly?**
+Use the product rule: d/dx (xy) = y + x dy/dx. Treating it as x dy/dx alone loses marks.
+
+**How do you find a normal to a parametric curve at a given value of t?**
+Use that value of t to find x, y and dy/dx, then take the normal gradient as −1/m. Substituting the t-value as if it were x is a wrong method.
+
+**Why should you say a factor like e^(−x) is never zero?**
+Before cancelling a factor when solving dy/dx = 0, state that it can never be zero. Otherwise the step is unjustified and solutions could be lost.
 
 ## Next steps
 

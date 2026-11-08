@@ -12,11 +12,11 @@ order: 3
 syllabusTopics:
   - qualification: "o-level"
     topic: "writing-1123"
-description: "Original exam-technique practice questions with full worked answers on Paper 2's format, the five writing assessment objectives, and how marks split between Directed Writing and Composition, for Cambridge O Level English Language (1123)."
+description: "Original practice on Cambridge O Level English Language 1123 Paper 2: the format, writing objectives W1 to W5 and the directed writing marks."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -164,3 +164,17 @@ good." Timing discipline matters just as much as technique, since
 under-planning Section B because it feels more creative than Section A
 is one of the most common and avoidable ways marks are lost on this
 paper.
+
+## Frequently asked questions
+
+**Are these Cambridge O Level English Language 1123 Paper 2 questions from real past papers?**
+No. They are original exam-technique questions written for Marlbridge, testing understanding of Paper 2's format and mark scheme rather than reproducing full Directed Writing or Composition tasks.
+
+**What is the most useful exam habit for 1123 Paper 2?**
+Treat Sections A and B as genuinely different skills. Section A rewards disciplined, source-grounded writing for a stated audience and purpose, while Section B rewards controlled, structured expression with no material to lean on.
+
+**Why is under-planning Section B risky?**
+Under-planning Section B because it feels more creative than Section A is one of the most common and avoidable ways marks are lost on this paper. Check what each section's marks reward before writing, rather than judging a draft by whether it sounds good.
+
+**Where can I practise full-length 1123 writing tasks?**
+Use these questions alongside official past papers and specimen mark schemes, freely available from Cambridge International, for full-length writing practice.

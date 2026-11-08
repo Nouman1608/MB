@@ -12,11 +12,26 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "core-content-option-b-0470"
-description: "Condensed recall notes on Versailles, the League of Nations, Hitler's foreign policy, the origins of the Cold War, containment and Soviet control of Eastern Europe for Cambridge IGCSE History 0470."
+  - qualification: "igcse"
+    topic: "core-content-option-b-0470"
+    subtopic: "treaty-of-versailles-0470"
+  - qualification: "igcse"
+    topic: "core-content-option-b-0470"
+    subtopic: "league-of-nations-success-0470"
+  - qualification: "igcse"
+    topic: "core-content-option-b-0470"
+    subtopic: "hitlers-foreign-policy-0470"
+  - qualification: "igcse"
+    topic: "core-content-option-b-0470"
+    subtopic: "blame-cold-war-0470"
+  - qualification: "igcse"
+    topic: "core-content-option-b-0470"
+    subtopic: "ussr-control-eastern-europe-0470"
+description: "Revision notes for Cambridge IGCSE History 0470 Option B: Versailles, the League, Hitler's foreign policy, the Cold War, containment and Eastern Europe."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -153,6 +168,17 @@ than leaving the analysis step to be improvised under timed conditions.
 
 - [IGCSE World History: International Relations since 1919 (Cambridge 0470)](/resources/igcse-world-history-twentieth-century-1919-1989/)
 - [IGCSE History: The Nineteenth Century 1848-1914 — Revision Notes](/resources/igcse-world-history-nineteenth-century-revision-notes/)
+
+## Frequently asked questions
+
+**What were the Big Three's aims at Versailles?**
+Wilson wanted the Fourteen Points and self-determination, Clemenceau wanted Germany weakened for French security, and Lloyd George wanted a firm peace that would not cause another war.
+
+**What was the League of Nations' key weakness?**
+It had no army of its own, and major powers such as the USA were never members.
+
+**What was the order of Hitler's foreign policy steps?**
+Rearmament, the Saar plebiscite (1935), the Rhineland (1936), the Rome–Berlin Axis, Anschluss (1938), the Sudetenland (1938), the rest of Czechoslovakia (March 1939) and Poland (September 1939).
 
 ## Official syllabus
 

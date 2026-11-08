@@ -17,11 +17,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-intertextuality"
 description: "Original IB DP Language A: Literature practice: apply critical lenses to a Rossetti sonnet and new prose, then evaluate two rival interpretations."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -225,6 +225,20 @@ The real exam is marked holistically against the IB criteria, not point by point
 - [Printable checklist](/checklists/ib/ib-dp/language-a-literature/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**What is a critical lens in IB Language A: Literature?**
+A critical lens, or critical perspective, is a set of questions a reader brings to a text, such as a class, gender or formalist reading. In IB DP Language A: Literature no component assesses lenses by name; they are tools for building and testing interpretations.
+
+**Why do answers using a critical lens lose marks?**
+A common mistake is naming a lens and then retelling what happens, with no analysis of a specific word or image. Using biography or history in place of the text, rather than alongside it, is another.
+
+**How do you evaluate another reader's interpretation?**
+Test it against criteria such as precise evidence and how much of the text it covers, rather than simply disagreeing with it. Treating another reader's view as fact is also a mistake.
+
+**What makes a good thesis for a comparison of two passages?**
+An arguable claim about how the passages work, not a topic such as "both are about power". Each point of comparison should use evidence from both passages.
 
 ## Official syllabus
 

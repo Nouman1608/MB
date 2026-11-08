@@ -270,6 +270,20 @@ Activation energy = 190 − 40 = **150 kJ**. ΔH = 125 − 40 = **+85 kJ**, so e
 - Writing "bonds formed − bonds broken", which gives the wrong sign.
 - Describing the copper sulfate colours the wrong way round.
 
+## Frequently asked questions
+
+**Why does a reaction that gets hotter have a negative ΔH?**
+ΔH describes the energy change of the chemicals, not the thermometer. In an exothermic reaction the chemicals lose energy to the surroundings, so the temperature rises while ΔH is negative.
+
+**What happens to energy when copper sulfate crystals are heated and then rewetted?**
+Heating blue hydrated copper sulfate gives white anhydrous copper sulfate and water, which is endothermic. Adding water to the white powder turns it blue and releases the same amount of energy, so the reverse reaction is exothermic.
+
+**Why are calorimetry results usually lower than the true values?**
+Energy also heats the container, the thermometer and the air, fuels may burn incompletely, and some fuel evaporates before burning. Slow reactions also lose more heat before the highest temperature is reached.
+
+**What is the difference between activation energy and ΔH?**
+Activation energy is the minimum energy needed for the reaction, measured from the reactant level up to the peak. ΔH is the difference between the reactant and product levels.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. These notes cover section 3.9.1 Exothermic and endothermic reactions and section 3.9.2 Calculating and explaining energy change.

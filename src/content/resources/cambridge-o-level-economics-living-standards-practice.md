@@ -158,6 +158,20 @@ Evaluate whether people in Country P have higher living standards than people in
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to find weak spots.
 - [Book a free trial class](/trial/) for help with any question you could not answer.
 
+## Frequently asked questions
+
+**How do you work out whether living standards have risen?**
+Use the price index to convert nominal GDP into real GDP, divide by the population of the same year to get real GDP per head, then compare the years. Ignoring the price index, or dividing by the wrong year's population, loses marks.
+
+**What is the income component of the HDI?**
+The HDI's income component is income per head, not total GDP. Writing "GDP" for the income component is a common error.
+
+**How do you find the average income of one fifth of the population?**
+Multiply the group's share of total income by the total, then divide by the number of people in that fifth. Quoting the share itself as an income is a frequent mistake.
+
+**Can one indicator decide which country has higher living standards?**
+Not in a Cambridge O Level Economics 2281 answer. Compare what each indicator shows and leaves out, and check that figures are real and per head, before reaching a conclusion based on the evidence.
+
 ## Official syllabus
 
 Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International Education). The content follows section 5.1, Living standards.

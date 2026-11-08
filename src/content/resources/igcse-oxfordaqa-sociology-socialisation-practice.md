@@ -13,13 +13,13 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-exploring-sociology-9292"
     subtopic: "socialisation-and-social-control-9292"
-description: "Original exam-style practice questions with full worked answers on types and agencies of socialisation and the functionalist, Marxist, feminist and social action perspectives, covering OxfordAQA International GCSE Sociology 3.2.2.2 (9292)."
+description: "Original practice questions with worked answers on socialisation, its agencies and four perspectives for OxfordAQA International GCSE Sociology (9292)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-05
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -88,3 +88,17 @@ These questions cover 3.2.2.2 Socialisation only — types of socialisation, its
 - Describing a perspective's view of socialisation in vague terms ("Marxists think it's about class") rather than explaining the specific mechanism the perspective identifies.
 - Comparing two perspectives without an explicit point of contrast, rather than just placing two descriptions side by side.
 - Treating identity as fixed or natural rather than explaining it as something built through interaction with socialising agencies.
+
+## Frequently asked questions
+
+**Do re-socialisation and inadequate socialisation count as separate concepts?**
+Yes. The OxfordAQA International GCSE Sociology (9292) specification lists them alongside primary and secondary socialisation, so treat them as distinct concepts rather than leaving them out.
+
+**How do you explain an agency of socialisation for full marks?**
+Name the agency and explain the specific mechanism by which it socialises individuals, rather than just naming it.
+
+**How should you describe a perspective on socialisation?**
+Name the perspective's specific mechanism rather than writing in vague terms such as "Marxists think it's about class".
+
+**How do you compare two perspectives on socialisation?**
+Give an explicit point of contrast between them. Placing two separate descriptions side by side does not count as a comparison.

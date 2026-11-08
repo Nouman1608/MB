@@ -137,6 +137,20 @@ Evaluate which policy the government should choose. **[8]**
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between a budget deficit and the national debt?**
+A budget deficit is the gap when government spending is greater than revenue in one year. The national debt is the running total the government owes, which grows when deficits are financed by borrowing.
+
+**How do you set out a budget balance calculation?**
+Show the total revenue and total spending before subtracting, and state whether the result is a deficit or a surplus. A bare negative number without the word deficit leaves the answer incomplete.
+
+**What are common mistakes in fiscal and monetary policy questions?**
+Common slips include confusing the deficit with the national debt, describing what a policy does without explaining why it changes demand, stopping a chain at "spending falls" before reaching inflation, treating a surplus as always good or a deficit as always bad, and reversing the direction of an interest rate effect.
+
+**How do you evaluate a choice between fiscal and monetary policy in OxfordAQA 9214?**
+Use the data in the question, such as spare capacity and inflation relative to target, to weigh each policy, then reach a judgement about which suits the situation. Arguments for and against with no conclusion, or a generic answer that ignores the data, usually score less.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), specification version 1.0, for exams May/June 2025 onwards, published by OxfordAQA. Sections 3.2.3.1 and 3.2.3.2.

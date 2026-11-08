@@ -104,6 +104,23 @@ These questions cover content area 3, Marketing and marketing strategies, in the
 - Giving advantages of a sampling or pricing method with no contrast against another.
 - Finishing "recommend" and "justify" questions without a judgement.
 
+## Frequently asked questions
+
+**Are these OCR A Level Business H431 past paper questions?**
+No. They are twelve original practice questions written for Marlbridge on content area 3, Marketing and marketing strategies. Use them alongside OCR's own past papers.
+
+**How do you interpret an elasticity figure in an exam answer?**
+Give the sign and size of the figure, say whether demand is elastic or inelastic, and explain what that means for revenue or pricing. Calculating the number without interpreting it earns less.
+
+**What base should a mark-up be calculated on?**
+A mark-up is a percentage of cost, not of the selling price. State the base you have used so your method is clear.
+
+**What should follow a Boston Matrix classification?**
+A recommendation for each product, such as invest, harvest or divest. Naming the quadrant gets the classification, but the recommendation shows you can use the model to make a decision.
+
+**How should standard deviation answers be presented?**
+State which divisor you used and show the squared deviations, then link the result to a decision such as staffing or stock levels rather than leaving it as a bare number.
+
 ## Next steps
 
 - [Revision notes for this topic](/resources/ocr-a-level-business-marketing-and-marketing-strategies-revision-notes/)

@@ -233,6 +233,23 @@ TR is greatest at 12 tiles (432, price 36), where MR = 0. For one unit steps, MR
 - Claiming that technology lowers average cost without saying at what output.
 - Listing patent points without a judgement on length, breadth and cost of research.
 
+## Frequently asked questions
+
+**What is the difference between normal and abnormal profit?**
+Normal profit is the least reward that stops the owner switching to the next best use, and economists count it as a cost. Abnormal (supernormal) profit is any profit left after normal profit is covered.
+
+**What is the difference between invention and innovation?**
+Invention is creating a new idea, product or process. Innovation is bringing an invention to market for the first time.
+
+**Where is total revenue at its maximum?**
+Total revenue is greatest where marginal revenue is zero, which is also where price elasticity of demand is 1 in size. This is not the same as the point of maximum profit.
+
+**Why does normal profit differ between industries?**
+Normal profit depends on the owner's next best alternative and what is risked. Higher risk, scarce skills, long waits for returns and specialist assets that are hard to sell all raise the reward needed.
+
+**What are the arguments for and against patents?**
+Patents reward and encourage invention, help recover research costs and lead to ideas being disclosed. Against them, they allow monopoly prices, block rivals, can delay follow-on innovation and involve legal costs.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), version 1.2: sections 3.3.2.4, 3.3.2.5 and 3.3.2.6, with quantitative skills in section 3.5.

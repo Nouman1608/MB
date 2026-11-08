@@ -243,6 +243,20 @@ For example, "explain how a tax reduces pollution" needs the chain cost up, supp
 - Listing supply side policies without linking them to an objective.
 - Finishing an evaluation with no judgement.
 
+## Frequently asked questions
+
+**What are examples of supply side policies?**
+Examples include education and training, infrastructure, support for research and technology, lower taxes on work or profits, less red tape and more competition.
+
+**What are the drawbacks of supply side policies?**
+They cost government money or lose tax revenue, with an opportunity cost, and they involve time lags, uncertainty and winners and losers. They suit long-run goals but are too slow on their own for a short-run problem.
+
+**How do you find the new equilibrium after a tax?**
+Rewrite the supply equation using the price sellers keep, which is the market price minus the tax, then set it equal to demand and solve for the new price and quantity.
+
+**How do you evaluate a policy to correct an externality?**
+The OCR GCSE Economics (J205) notes give five steps: state what the policy does, explain its effect on output and the externality, name the cost and who pays, add a limit from the context, and reach a judgement with a reason.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Economics (J205), specification Version 2.0 (June 2026), first assessment 2019, published by OCR. Sections 3.7 and 3.8.

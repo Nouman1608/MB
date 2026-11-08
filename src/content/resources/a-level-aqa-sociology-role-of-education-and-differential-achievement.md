@@ -13,13 +13,13 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-education-theory-methods-7192"
     subtopic: "education-7192"
-description: "Sociological explanations of the role and functions of education, and differential educational achievement by class, gender and ethnicity -- two of the four content strands of 3.1.1 Education, AQA A-Level Sociology (7192)."
+description: "Study guide to the role of education and differential achievement by class, gender and ethnicity in AQA AS and A-level Sociology (7191/7192) Education."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers two of the four content strands within **3.1.1
@@ -153,6 +153,20 @@ differential achievement.
 within each social variable.
 - Practise the claim-claim-contrast structure for comparing
 perspectives.
+
+## Frequently asked questions
+
+**What are the four strands of AQA Sociology 3.1.1 Education?**
+They are the role and functions of education, differential educational achievement by class, gender and ethnicity, relationships and processes within schools, and the significance of educational policies.
+
+**What is the correspondence principle?**
+The correspondence principle is Bowles and Gintis's concept that the structure of schooling, such as hierarchy, discipline and extrinsic reward, mirrors the capitalist workplace.
+
+**What is the difference between material and cultural explanations of class achievement?**
+Material explanations focus on a lack of physical and financial resources, such as books or a quiet study space. Cultural explanations focus on factors such as Bourdieu's cultural capital or restricted and elaborated speech codes.
+
+**How do functionalists and Marxists differ on role allocation?**
+Functionalists see role allocation as a fair, meritocratic matching of people to jobs. Marxists see the same process as reproducing class inequality behind an appearance of fairness.
 
 ## Official syllabus
 

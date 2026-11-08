@@ -279,6 +279,23 @@ Common pairs that get swapped: lysosome and ribosome (digestion versus protein s
 - Quoting raw counts when a rate per 100 000 is needed for fair comparison.
 - Describing herd immunity without saying who is protected.
 
+## Frequently asked questions
+
+**What is the difference between innate and adaptive immunity?**
+Innate immunity gives a broad response to categories of pathogen, does not change during life and has no memory; phagocytes are its cells. Adaptive immunity is specific to one pathogen, improves after exposure and builds memory using B-cells and T-cells.
+
+**How does a B-cell become activated?**
+A B-cell must bind its specific antigen and be contacted by a helper T-cell activated by the same antigen. It then divides by mitosis to form a clone of plasma cells, which secrete antibody, and memory cells.
+
+**Why do antibiotics not work against viruses?**
+Antibiotics block processes specific to bacteria, such as cell wall synthesis or bacterial ribosomes. Viruses have no metabolism or ribosomes of their own and use the host cell's machinery, so there is nothing for the antibiotic to target.
+
+**What is herd immunity?**
+Herd immunity is when enough of a population is immune that transmission of a pathogen is greatly impeded, so unvaccinated people also gain protection.
+
+**What is a zoonosis?**
+A zoonosis is an infectious disease that transfers from other species to humans; examples in IB DP Biology C3.2 include tuberculosis, rabies, Japanese encephalitis and COVID-19.
+
 ## Official syllabus
 
 IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization, section C3.2.

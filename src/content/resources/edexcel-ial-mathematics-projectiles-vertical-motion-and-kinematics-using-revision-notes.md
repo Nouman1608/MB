@@ -218,6 +218,22 @@ v = dr/dt     a = dv/dt     r = ∫v dt     v = ∫a dt
   <figcaption>Eliminating t gives a quadratic in tan α, so there are usually two launch angles.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the formula for the time of flight of a projectile?**
+For a projectile launched at speed U at angle α and landing at its launch level, the time of flight is T = 2U sin α ÷ g. The range is then (U cos α)T.
+
+**What is the speed of a projectile at its highest point?**
+At the highest point the vertical velocity is zero, so the speed equals the horizontal component of velocity, U cos α.
+
+**How do you differentiate a position vector?**
+Differentiate the i and j components separately: if r = x(t)i + y(t)j, then v = x′(t)i + y′(t)j. When integrating, the constant of integration is a vector.
+
+**When is a particle moving parallel to j?**
+A particle moves parallel to j when the i-component of its velocity is zero. It is at rest only when both components are zero at the same time.
+
+**Which topics are in Edexcel IAL Mechanics 2 section 1?**
+Unit M2 section 1 of the Edexcel IAL Mathematics specification (YMA01) covers vertical motion under gravity, projectiles, kinematics using calculus in one dimension and kinematics using vectors and calculus.
 
 ## Official syllabus
 

@@ -17,9 +17,9 @@ syllabusTopics:
     topic: "ib-myp-sciences-related-concepts"
 description: "IB MYP Sciences study guide to the carbon, water, nitrogen and rock cycles, human impacts on them and how to write a criterion D response."
 author: "marlbridge-academic-team"
-reviewer: "ameer-hamza"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ameer-hamza on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -193,6 +193,23 @@ The [criteria in practice guide](/resources/ib-myp-sciences-criteria-in-practice
 - Confusing weathering (breakdown in place) with erosion (removal and transport).
 - Treating the greenhouse effect as harmful in itself. Without it the Earth would be far colder; the problem is the enhanced effect.
 - In criterion D answers, listing only benefits, or giving no final judgement.
+
+## Frequently asked questions
+
+**What is the difference between nitrogen fixation, nitrification and denitrification?**
+Nitrogen fixation converts nitrogen gas into ammonium compounds, nitrification converts ammonium into nitrate and needs oxygen, and denitrification returns nitrate to nitrogen gas in oxygen-poor conditions.
+
+**How do you tell if a forest is a carbon sink or a carbon source?**
+Compare the carbon taken in by photosynthesis with the carbon released by respiration of plants and decomposers. If more carbon enters than leaves, the forest is a carbon sink; if more leaves, for example after burning, it becomes a source.
+
+**What is the difference between weathering and erosion?**
+Weathering is the breakdown of rock in place, while erosion is the removal and transport of the broken material. Both feed sediment into the rock cycle.
+
+**Is the greenhouse effect harmful?**
+Not in itself. Without the greenhouse effect the Earth would be far colder; the problem is the enhanced greenhouse effect caused by extra greenhouse gases from human activity.
+
+**Are cycles in the IB MYP Sciences syllabus?**
+The IB MYP Sciences subject brief (from 2014) lists "cycles" among the topics explored in the on-screen examinations. MYP has no prescribed content list, so your school's unit may cover different examples.
 
 ## Next steps
 

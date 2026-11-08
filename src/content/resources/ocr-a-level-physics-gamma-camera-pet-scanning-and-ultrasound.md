@@ -226,6 +226,23 @@ At θ = 90° the shift is zero, so the beam must not be across the vessel.
 - Using Δf/f = v/c without the 2 and the cos θ.
 - Leaving out the square in the reflection equation.
 
+## Frequently asked questions
+
+**What does the collimator do in a gamma camera?**
+The collimator is a thick lead plate with many narrow parallel holes. It only lets through gamma photons travelling nearly along the holes, so the image is not blurred.
+
+**Why does PET not need a collimator?**
+In PET the line along which annihilation happened is fixed by the two photons detected at almost the same instant on opposite sides of the ring. Without a collimator, PET detects a much larger fraction of the emitted radiation than a gamma camera.
+
+**Why is gel used in an ultrasound scan?**
+Air has a very small acoustic impedance, so without gel about 99.9% of the ultrasound would be reflected at the skin. The gel removes air and has an impedance close to that of skin, so nearly all the beam enters the body; this is impedance matching.
+
+**How does a piezoelectric transducer produce and detect ultrasound?**
+An alternating p.d. across a piezoelectric crystal makes it vibrate and emit ultrasound pulses. Between pulses, returning echoes make the crystal vibrate and produce a small alternating p.d.
+
+**What is the difference between an A-scan and a B-scan?**
+An A-scan sends pulses in one direction and displays echo strength against time, so each peak marks a boundary at depth d = ct/2. A B-scan combines many A-scans across the body into a two-dimensional image.
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556), specification Version 3.0 (March 2026), for first assessment in 2017, published by OCR: sections 6.5.2 and 6.5.3.

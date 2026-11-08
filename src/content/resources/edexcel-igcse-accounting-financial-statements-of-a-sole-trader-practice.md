@@ -211,6 +211,20 @@ Correct title, name and date [1]. Net assets equal closing capital, which confir
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Why are drawings not shown in the income statement?**
+Drawings are the owner taking money or goods for personal use, not a business expense, so they never appear in the income statement. They are deducted from equity in the statement of financial position.
+
+**Is a loan repayment an expense?**
+No. A loan repayment reduces the liability; only the interest on the loan is an expense in the income statement. Showing loan repayments or the purchase of equipment as expenses is a common error.
+
+**What headings do sole trader financial statements need?**
+Each statement needs the business name, the statement title and the date wording: "for the year ended" on the income statement and "at" on the statement of financial position. Leaving these out can lose presentation marks in Edexcel IGCSE Accounting (4AC1).
+
+**How do you comment on a sole trader's financial position?**
+Quote figures from the statements to support the comment, for example a negative working capital figure. A general remark about risk without a figure earns little credit.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 4 The preparation of financial statements, section 4.1 Financial statements of a sole trader, points (a) and (b).

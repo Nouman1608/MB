@@ -135,6 +135,20 @@ These questions cover sections 3.1.1, 3.1.2 and 3.2.1 of the Cambridge O Level E
 - Stating that higher interest rates always reduce spending, without mentioning confidence, debt or income.
 - Giving general points on banks without tying them to the group named.
 
+## Frequently asked questions
+
+**Is cash the only form of money?**
+No. Bank deposits are money too, alongside coins and notes and electronic or mobile money. Answers that list only cash are a common way to lose marks in Cambridge O Level Economics 2281.
+
+**Do higher interest rates always reduce household spending?**
+Not always. Higher rates raise the cost of borrowing and the reward for saving, but the effect also depends on confidence, existing debt and income, so say how strongly spending is likely to change.
+
+**How should you answer a question about why banks matter to a named group?**
+Tie each point to the group in the question, whether government, producers or consumers. General points about banks that are not linked to the named group earn less credit.
+
+**Can you use a calculator in Cambridge O Level Economics 2281?**
+Yes, calculators may be used, but you should still show the working for percentages, ratios and interest, because marks are lost when working is missing.
+
 ## Next steps
 
 - Review the [revision notes](/resources/cambridge-o-level-economics-money-banking-and-household-spending-saving-and-revision-notes/).

@@ -1,0 +1,129 @@
+---
+/**
+ * /advanced-course-resources/<course>/flashcards/unit-<n>/ -- one unit's
+ * flashcards for an advanced (College Board AP) course, filterable by topic,
+ * with links to the same unit's study resources. One page per unit (not per
+ * topic: a per-topic page would hold two or three cards). A course whose deck
+ * sets `inheritsFrom` (Calculus BC) shows the parent's cards for shared
+ * topics -- see src/data/ap-flashcards/index.ts. Built only when the library
+ * is built and only for units that have cards.
+ */
+import PageLayout from '../../../../layouts/PageLayout.astro';
+import Section from '../../../../components/layout/Section.astro';
+import Container from '../../../../components/layout/Container.astro';
+import FlashcardStudy from '../../../../components/tools/FlashcardStudy.astro';
+import ApDraftBanner from '../../../../components/ap/ApDraftBanner.astro';
+import ApTrademarkNote from '../../../../components/ap/ApTrademarkNote.astro';
+import type { ApCourse, ApUnit } from '../../../../data/ap/frameworks';
+import {
+  apFlashcardCourses, apFlashcardsPath, apUnitsWithCards, apCardsForUnit, apDeckStorageId, apDeckFor, apUnitSegment,
+} from '../../../../data/ap-flashcards';
+import { routes } from '../../../../utils/urls/routes';
+import {
+  apLibraryBuilt, apNoindex, apUrls, apVisibleName, apMetaName, apResourcesForCourse, apTypeLabel, apCourse, type ApEntry,
+} from '../../../../utils/ap/library';
+
+export function getStaticPaths() {
+  if (!apLibraryBuilt()) return [];
+  return apFlashcardCourses().flatMap((course) => {
+    const units = apUnitsWithCards(course.slug).map((x) => x.unit);
+    return units.map((unit, i) => ({
+      params: { course: course.slug, unit: apUnitSegment(unit.number) },
+      props: { course, unit, prev: units[i - 1], next: units[i + 1] },
+    }));
+  });
+}
+
+interface Props { course: ApCourse; unit: ApUnit; prev?: ApUnit; next?: ApUnit }
+const { course: c, unit: u, prev, next } = Astro.props;
+const path = apFlashcardsPath(c.slug, u.number);
+const hubPath = apFlashcardsPath(c.slug);
+const coursePath = apUrls.course(c.slug);
+const visible = apVisibleName(c);
+const deck = apDeckFor(c.slug)!;
+const unitCards = apCardsForUnit(c.slug, u.number);
+const topicsWithCards = u.topics.filter((t) => unitCards.some((x) => x.topic === t.number));
+const groups = topicsWithCards.map((t) => ({ key: t.number, label: `${t.number} ${t.title}` }));
+const cards = unitCards.map((card) => ({ ...card, group: card.topic }));
+const first = topicsWithCards[0]?.number;
+const last = topicsWithCards[topicsWithCards.length - 1]?.number;
+const range = first === last ? `topic ${first}` : `topics ${first} to ${last}`;
+const inherited = unitCards.filter((x) => x.course !== c.slug).length;
+// Kept within the 165-character meta limit (src/utils/seo/meta.ts): the closing clause is dropped for long unit titles.
+const descCore = `${unitCards.length} free flashcards for ${apMetaName(c)} Unit ${u.number}, ${u.title}: ${range}.`;
+const descTail = ' 2026–27 framework. Study online or print.';
+const description = descCore.length + descTail.length <= 160 ? descCore + descTail : descCore;
+
+// The unit's own study resources, as on the course hub: shared Calculus AB/BC material is listed for both.
+const otherCalculus = c.slug === 'calculus-ab' ? 'calculus-bc' : c.slug === 'calculus-bc' ? 'calculus-ab' : undefined;
+const resources: ApEntry[] = [
+  ...(await apResourcesForCourse(c.slug)),
+  ...(otherCalculus ? (await apResourcesForCourse(otherCalculus)).filter((r) => r.data.calculusScope === 'ab-and-bc') : []),
+];
+const STUDY_TYPES = ['study-guide', 'revision-notes', 'practice-questions'];
+const study = u.topics.map((t) => ({
+  topic: t,
+  links: STUDY_TYPES.flatMap((type) => {
+    const r = resources.find((x) => x.data.resourceType === type && x.data.topics.includes(t.number));
+    return r ? [{ label: apTypeLabel[type], href: apUrls.resource(r) }] : [];
+  }),
+})).filter((x) => x.links.length > 0);
+const unitLevel = resources.filter((r) => r.data.unit === u.number && r.data.topics.length === 0 && r.data.resourceType !== 'exam-skills');
+---
+<PageLayout
+  title={`${u.title} Flashcards (${c.name}, Unit ${u.number})`}
+  description={description}
+  path={path}
+  eyebrow={`Flashcards · ${visible} · Unit ${u.number}`}
+  heading={`Unit ${u.number}: ${u.title} flashcards`}
+  lead={`${unitCards.length} cards on ${range}${u.bcOnly && c.slug === 'calculus-bc' ? ' (BC only)' : ''}. Pick a topic or study the whole unit.`}
+  headingFont="sans"
+  breadcrumbs={[
+    { label: 'Home', href: routes.home },
+    { label: 'Advanced courses', href: apUrls.index },
+    { label: c.name, href: coursePath },
+    { label: 'Flashcards', href: hubPath },
+    { label: `Unit ${u.number}`, href: path },
+  ]}
+  noindex={apNoindex()}
+>
+  <Section surface="white" spacing="md">
+    <Container>
+      <ApDraftBanner />
+      <FlashcardStudy code={apDeckStorageId(c.slug)} scope="unit" groupNoun="topic" groups={groups} cards={cards} />
+      {inherited > 0 && deck.inheritsFrom && (
+        <p class="m-0 mt-6 max-w-[75ch] text-[14px] text-ink-mute">{inherited === unitCards.length ? 'Every card in this unit is' : `${inherited} of these cards are`} shared with the {apVisibleName(apCourse(deck.inheritsFrom))} flashcards, because the two courses share these topics.</p>
+      )}
+    </Container>
+  </Section>
+
+  <Section surface="ivory" spacing="md" border labelledby="fc-next-heading">
+    <Container>
+      <h2 id="fc-next-heading" class="m-0 mb-4 text-[length:var(--text-h3)] font-semibold text-navy-800">Study Unit {u.number} further</h2>
+      {study.length > 0 ? (
+        <ul class="m-0 list-none divide-y divide-rule rounded-sm border border-rule bg-white p-0">
+          {study.map(({ topic, links }) => (
+            <li class="m-0 flex flex-wrap items-baseline justify-between gap-x-4 gap-y-2 px-4 py-3">
+              <span class="text-[15px]"><span class="font-mono text-[13px] text-ink-mute">{topic.number}</span> {topic.title}</span>
+              <span class="flex flex-wrap gap-2">{links.map((l) => <a href={l.href} class="rounded-sm border border-gold-500 px-2 py-0.5 text-[13px] text-navy-800 no-underline hover:bg-ivory">{l.label}<span class="sr-only">: {topic.number} {topic.title}</span></a>)}</span>
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <p class="m-0 text-[15px] text-ink-mute">No Marlbridge study guides for this unit yet.</p>
+      )}
+      {unitLevel.length > 0 && (
+        <ul class="m-0 mt-4 list-disc space-y-1 ps-5 text-[15px]">
+          {unitLevel.map((r) => <li><a href={apUrls.resource(r)} class="underline decoration-teal-500 underline-offset-2">{r.data.title}</a></li>)}
+        </ul>
+      )}
+      <nav aria-label="Other units" class="mt-8 flex flex-wrap gap-x-6 gap-y-3 text-[14.5px]">
+        {prev && <a href={apFlashcardsPath(c.slug, prev.number)} class="underline decoration-teal-500 underline-offset-2">← Unit {prev.number}: {prev.title}</a>}
+        {next && <a href={apFlashcardsPath(c.slug, next.number)} class="underline decoration-teal-500 underline-offset-2">Unit {next.number}: {next.title} →</a>}
+        <a href={hubPath} class="underline decoration-teal-500 underline-offset-2">All {c.name} flashcards</a>
+        <a href={`${coursePath}#roadmap`} class="underline decoration-teal-500 underline-offset-2">{visible} unit roadmap</a>
+      </nav>
+    </Container>
+  </Section>
+  <ApTrademarkNote />
+</PageLayout>

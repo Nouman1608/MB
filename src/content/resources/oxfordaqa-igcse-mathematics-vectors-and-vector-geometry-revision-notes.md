@@ -241,6 +241,19 @@ The two diagonals are →AC and →BD. Notice that →BD uses the route B to A t
   <figcaption>AC = 3AB with a shared point A means A, B and C are on one line.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between a vector and a scalar?**
+A vector has a size and a direction, while a scalar is only a size. Multiplying a vector by a scalar gives a parallel vector.
+
+**What is the difference between parallel and collinear?**
+Parallel lines have vectors that are scalar multiples of each other but need never meet. Collinear points lie on one straight line, so the vectors are parallel and also share a point.
+
+**How do you find a vector in a geometry diagram?**
+Choose a route along edges whose vectors you know. Going with an arrow adds its vector and going against it subtracts it; then collect the a terms and b terms into one simplified answer.
+
+**Is a − b the same as b − a?**
+No. They are negatives of each other, so subtraction of vectors is not commutative. Addition is commutative: a + b = b + a.
 
 ## Official syllabus
 

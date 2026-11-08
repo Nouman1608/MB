@@ -12,11 +12,11 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "frequency-distributions-0479"
-description: "Condensed recall notes on grouped and ungrouped frequency distributions, class boundaries and widths, histograms, frequency polygons and cumulative frequency, for Topic 3 of Cambridge IGCSE Statistics (0479), examination 2027."
+description: "Recall notes on grouped data, class boundaries, frequency density, frequency polygons and cumulative frequency for Cambridge IGCSE Statistics 0479 Topic 3."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review. Fix pass: replaced doubtful claim that limits and boundaries coincide for continuous data, and unsupported most-common-error claim, with the 0479 syllabus wording; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -37,11 +37,10 @@ a generic response.
 | Data type | What's required |
 |---|---|
 | Discrete (e.g. number of siblings) | Class limits, boundaries, midpoints AND widths |
-| Continuous (e.g. height, time) | Class boundaries, midpoints and widths ONLY — limits and boundaries coincide, so only boundaries are examined |
+| Continuous (e.g. height, time) | Class boundaries, midpoints and widths only |
 
-For continuous data, the stated class limits and the class boundaries coincide, so only the boundaries
-need to be examined separately -- that is different from limits simply not existing. Using discrete-style
-limits for continuous data (or vice versa) is the single most common error Cambridge flags in this outcome.
+The 0479 syllabus asks for class limits as well as boundaries only for discrete data; for continuous data
+it asks for class boundaries, midpoints and widths. Keep the two cases apart.
 (This is separate from the equal-class-widths rule below, which applies to frequency polygons specifically
 -- histograms must still handle unequal class widths via frequency density.)
 
@@ -117,8 +116,7 @@ not just each representation in isolation.
    cumulative frequency?
 
 **Answers:** 1. Discrete data requires class limits, boundaries, midpoints and widths; continuous data
-requires only class boundaries, midpoints and widths, since for continuous data the stated limits and the
-boundaries coincide, so only the boundaries need to be examined separately. 2. Whenever class widths are unequal; frequency density = frequency ÷ class width. 3. Each
+requires only class boundaries, midpoints and widths. 2. Whenever class widths are unequal; frequency density = frequency ÷ class width. 3. Each
 class's midpoint, plotted against its frequency; this differs from a histogram, which uses bars
 positioned at class boundaries rather than single points at midpoints. 4. From each cumulative
 total, subtract the cumulative total before it (the running total up to the previous class boundary);
@@ -133,6 +131,23 @@ the discrete-versus-continuous distinction from outcome 2 resurfaces every time 
 introduces a new grouped-data question. Treating the conversions between raw data, grouped tables and
 cumulative tables as a reusable skill, rather than three separate topics to memorise once, pays off
 directly when Topic 4's estimation techniques assume this fluency is already secure.
+
+## Frequently asked questions
+
+**How do you find how many values lie above a point on a cumulative frequency curve?**
+Read the cumulative frequency at that value, then subtract it from the total. For example, if 45 of 60 students scored 50 or below, 60 − 45 = 15 scored above 50.
+
+**Where do you plot points on a cumulative frequency graph?**
+Plot each running total against the upper class boundary of its class. For continuous data, join the points with a smooth curve or straight-line polygon.
+
+**Where do you plot points on a frequency polygon?**
+Plot each class's frequency against its midpoint, not its boundary. Frequency polygons in IGCSE Statistics 0479 use equal class widths.
+
+**What does grouping data cost?**
+Grouping makes a large data set easier to summarise, but the exact original values are lost and can only be estimated. Treating grouping as a free simplification is a common mistake.
+
+**Which topic of Cambridge IGCSE Statistics 0479 do these notes cover?**
+They cover Topic 3, Frequency distributions, for examination in 2027, including class boundaries, histograms, frequency polygons and cumulative frequency.
 
 ## Official syllabus
 

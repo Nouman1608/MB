@@ -139,6 +139,20 @@ These questions cover sections 6.2.1 to 6.2.3 of the Cambridge O Level Economics
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is globalisation just more trade?**
+No. Globalisation means national economies becoming more tied together and dependent on each other, through movements of goods, services, money, firms, technology and ideas. Defining it as trade alone loses marks.
+
+**Should an answer on MNCs be about the host or the home country?**
+Read the question carefully. Benefits and costs differ for the host country, where the MNC operates, and the home country, where its headquarters are, so writing about the wrong one is a common error.
+
+**Should a free trade question be answered with tariffs and quotas?**
+No. Questions on section 6.2.3 ask about the benefits of free trade, meaning trade without barriers. Protection methods belong to a different part of the syllabus.
+
+**How do you finish an evaluation on MNCs in Cambridge O Level Economics 2281?**
+Give both sides and end with a conclusion that judges which factor matters most, such as how much the MNC buys locally or whether the jobs would otherwise exist.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281, syllabus for examination in 2026 (version 2), published by Cambridge University Press & Assessment (Cambridge International Education): section 6.2, topics 6.2.1 to 6.2.3.

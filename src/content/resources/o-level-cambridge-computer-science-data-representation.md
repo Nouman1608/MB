@@ -12,11 +12,11 @@ order: 1
 syllabusTopics:
   - qualification: "o-level"
     topic: "data-representation-2210"
-description: "Number systems, binary, and data storage -- the opening topic of Cambridge O-Level Computer Science (2210), which shares its ten-topic structure with sibling syllabus 0478."
+description: "Guide to Topic 1 of Cambridge O Level Computer Science 2210 (2026-2028): binary, hex, overflow, two's complement, text, sound, images and compression."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -36,9 +36,6 @@ represented underpins later topics on hardware, software and
 programming, where data types and storage limits recur constantly.
 
 ## Syllabus coverage
-
-**CAMBRIDGE O-LEVEL COMPUTER SCIENCE (2210) — TOPIC 1 DATA
-REPRESENTATION**
 
 **CAMBRIDGE O-LEVEL COMPUTER SCIENCE (2210) — TOPIC 1 DATA
 REPRESENTATION**
@@ -146,3 +143,17 @@ Confusing sample rate with sample resolution. Dividing by 1000 rather than 1024 
 - Compare ASCII, extended ASCII and Unicode.
 - Calculate image and sound file sizes with correct unit conversion.
 - Distinguish lossless from lossy compression and justify which suits a given file type.
+
+## Frequently asked questions
+
+**Is O Level Computer Science 2210 the same as IGCSE 0478?**
+The 2210 syllabus shares its content and ten-topic structure with Cambridge IGCSE Computer Science 0478, and textbooks endorsed for 0478 are suitable for 2210.
+
+**Can run-length encoding make a file bigger?**
+Yes. On noisy or photographic data where values rarely repeat, storing each short run as a value and count can take more space than the original, so RLE suits simple graphics better.
+
+**Where is hexadecimal used in computing?**
+Hexadecimal is used in MAC addresses, IPv6 addresses, colour codes and memory dumps. It is a shorthand for humans; the computer itself stores binary.
+
+**What is a common mistake in O Level Computer Science file size questions?**
+Dividing by 1000 instead of 1024, labelling the answer KB or MB instead of KiB or MiB, or forgetting to convert bits to bytes first.

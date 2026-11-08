@@ -206,6 +206,20 @@ To convert to joules, multiply by 1.60 × 10⁻¹³: 184.7 MeV = 2.96 × 10⁻¹
 
 Test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-nuclear-radius-mass-energy-and-binding-energy-practice/), then condense with the [revision notes](/resources/oxfordaqa-a-level-physics-nuclear-radius-mass-energy-and-binding-energy-revision-notes/).
 
+## Frequently asked questions
+
+**Why do both fission and fusion release energy?**
+Both move nuclei towards the peak of the binding energy per nucleon curve, near A = 56. Fusing light nuclei or splitting heavy nuclei gives products with a higher binding energy per nucleon, and the increase is released as energy.
+
+**What does a higher binding energy per nucleon mean?**
+A higher binding energy per nucleon means the nucleus is more tightly bound and more stable. It is found by dividing the binding energy by the nucleon number A.
+
+**What is 1 u in MeV?**
+One atomic mass unit is equivalent to 931.5 MeV. Working from the rounded values 1.66 × 10⁻²⁷ kg and c = 3.00 × 10⁸ m s⁻¹ gives about 934 MeV, so use 931.5 MeV when masses are in u.
+
+**Is nuclear radius in OxfordAQA International AS Physics?**
+No. Sections 3.12.1 and 3.12.2 are part of section 3.12 of the OxfordAQA International AS and A-level Physics (9630) specification, which is International A-level only.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), version 4.4, for International AS and A-level exams from May/June 2020 onwards, published by OxfordAQA. Sections 3.12.1 and 3.12.2.

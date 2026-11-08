@@ -12,11 +12,17 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "component-1-non-fiction-texts-and-transactional-writing-4ea1"
+  - qualification: "igcse"
+    topic: "component-1-non-fiction-texts-and-transactional-writing-4ea1"
+    subtopic: "section-a-non-fiction-texts-4ea1"
+  - qualification: "igcse"
+    topic: "component-1-non-fiction-texts-and-transactional-writing-4ea1"
+    subtopic: "section-b-transactional-writing-4ea1"
 description: "Condensed recall notes on reading non-fiction, language analysis, comparison and transactional writing for Edexcel International GCSE English Language 4EA1."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -119,3 +125,20 @@ Marks are available for accuracy, and the same errors recur:
 7. What should you note before starting a transactional writing task, and why?
 
 **Answers:** 1. Quote the language, explain what it suggests, then explain why the writer chose it for that audience and purpose. 2. Writing about each text in turn produces two separate accounts; addressing the same feature in both texts together produces genuine comparison. 3. It presupposes the reader's agreement, making disagreement feel unreasonable rather than simply different. 4. Form, audience and purpose. 5. Two complete sentences joined only by a comma; fix it with a full stop, a semicolon, or a coordinating conjunction. 6. Literal comprehension, inference, and language/structural analysis. 7. The specified purpose, audience and form, then check the finished response against that note — this catches the most common way marks are lost: drifting into a generic essay-like register regardless of what form was asked for.
+
+## Frequently asked questions
+
+**How long is Edexcel IGCSE English Language A Paper 1?**
+Component 1 of Pearson Edexcel International GCSE English Language A (4EA1) lasts 2 hours 15 minutes, carries 90 marks (45 per section) and is worth 60% of the qualification. Advised timing is about 1 hour 30 minutes for Section A and 45 minutes for Section B.
+
+**Are both Section A texts unseen in 4EA1 Paper 1?**
+No. Section A pairs one previously unseen extract with a non-fiction text from Part 1 of the Pearson Edexcel International GCSE English Anthology, supplied in the exam. Reading all ten Part 1 texts in advance is worthwhile.
+
+**What are the transactional writing forms in 4EA1?**
+The six specified forms are an article, a speech, a letter, a guide, a review and the text of a leaflet. A report is not one of the named forms.
+
+**How should I compare two non-fiction texts?**
+Use a point-by-point structure, writing about the same feature in both texts together, and compare how the writers achieve their effects rather than just what they say. Comparative connectives such as "whereas" and "by contrast" help.
+
+**What is a comma splice and how do I fix it?**
+A comma splice is two complete sentences joined only by a comma. Fix it with a full stop, a semicolon or a coordinating conjunction.

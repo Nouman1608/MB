@@ -14,11 +14,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-equilibria"
     subtopic: "as-bronsted-lowry-theory-of-acids-and-bases"
-description: "The Brønsted-Lowry theory, strong vs weak acids and bases, neutralisation, and reading titration curves and indicator choice, for Cambridge International AS & A Level Chemistry 9701."
+description: "Brønsted-Lowry acids and bases for Cambridge AS & A Level Chemistry 9701: strong vs weak, neutralisation, titration curves and choosing an indicator."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -180,6 +180,23 @@ pH, conductivity
 weak/weak combinations
 - Choosing an indicator: colour-change range must sit on the vertical part
 of the curve
+
+## Frequently asked questions
+
+**What is a Brønsted-Lowry acid and base?**
+A Brønsted-Lowry acid is a proton (H⁺) donor and a Brønsted-Lowry base is a proton acceptor. This definition is in subtopic 7.2 of Cambridge International AS & A Level Chemistry 9701.
+
+**Is a weak acid the same as a dilute acid?**
+No. Strength describes how far an acid dissociates, while concentration describes how much acid is dissolved. A weak acid can be concentrated and a strong acid can be dilute.
+
+**Why does a weak acid have a higher pH than a strong acid of the same concentration?**
+A weak acid only partially dissociates, so it produces fewer free H⁺ ions than a strong acid at the same concentration. Fewer H⁺ ions means a higher pH.
+
+**How do you choose an indicator for a titration?**
+Choose an indicator whose colour-change range falls within the steep, near-vertical part of the titration curve. Methyl orange changes colour in acidic conditions and phenolphthalein in alkaline conditions; for a strong acid–strong base titration either works.
+
+**Why is there no suitable indicator for a weak acid–weak base titration?**
+A weak acid–weak base titration curve has no sharp vertical section, so the pH changes only gradually through the equivalence point. No simple indicator gives a reliable end point.
 
 ## Related resources
 

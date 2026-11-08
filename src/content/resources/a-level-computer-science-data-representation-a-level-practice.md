@@ -7,17 +7,23 @@ topic: "Data Representation"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9618"]
-syllabusSeries: "2027-2029"
+syllabusSeries: "2026"
 stage: "A"
 order: 13
 syllabusTopics:
   - qualification: "a-level"
     topic: "a-data-representation"
-description: "Original exam-style questions with full worked answers on enumerated, composite and pointer data types, normalised binary floating-point representation and random file access by hashing, for Cambridge AS & A Level Computer Science (9618)."
+  - qualification: "a-level"
+    topic: "a-data-representation"
+    subtopic: "user-defined-data-types"
+  - qualification: "a-level"
+    topic: "a-data-representation"
+    subtopic: "floating-point-numbers-representation-and-manipulation"
+description: "Practice questions with worked answers for Cambridge A Level Computer Science 9618: user-defined types, normalised floating point and hashed random files."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
 featured: false
@@ -127,3 +133,17 @@ ENDTYPE
 - Not showing working for floating-point conversions, which throws away the method marks.
 - Using unsuitable data types in record declarations, such as INTEGER for a code that contains letters or a telephone number.
 - Leaving out DECLARE, or ENDTYPE, in a composite type declaration.
+
+## Frequently asked questions
+
+**How do you know if a floating-point mantissa is normalised?**
+A normalised positive mantissa starts 01 and a normalised negative mantissa starts 10, in two's complement.
+
+**Is the exponent positive or negative when you normalise a small binary number?**
+Moving the binary point to the right to normalise gives a negative exponent, and moving it to the left gives a positive exponent. Getting this sign wrong is a common error.
+
+**How do you declare a pointer type in Cambridge 9618 pseudocode?**
+Put the caret before the type name, as in TYPE TScorePointer = ^INTEGER. To follow (dereference) the pointer, put the caret after the variable name.
+
+**What is a collision in a hashed random file?**
+A collision happens when the hashing algorithm gives a position that is already occupied. A full answer explains both where the record is stored instead, such as the next free position or an overflow area, and how it is found again.

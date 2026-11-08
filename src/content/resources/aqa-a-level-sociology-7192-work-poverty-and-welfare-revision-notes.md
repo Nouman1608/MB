@@ -20,9 +20,9 @@ description: "Condensed AQA 7192 Work, Poverty and Welfare revision notes: key t
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 These notes condense the [Work, Poverty and Welfare study guide](/resources/aqa-a-level-sociology-7192-work-poverty-and-welfare/). Read that first if a term here is new to you.
@@ -158,6 +158,20 @@ For every point, the specification asks for both the evidence and the sociologic
 ## Next steps
 
 Work through the [practice questions](/resources/aqa-a-level-sociology-7192-work-poverty-and-welfare-practice/). For evaluating the research methods behind poverty studies, see the [Methods in Context revision notes](/resources/a-level-sociology-methods-in-context-revision-notes/). For links between deprivation and achievement, see the [AQA Education revision notes](/resources/aqa-a-level-sociology-education-revision-notes/). For links between poverty and crime, see the [Crime and Deviance revision notes](/resources/a-level-aqa-sociology-crime-and-deviance-revision-notes/). For class, life chances and the transnational capitalist class, see [Stratification and Differentiation](/resources/aqa-a-level-sociology-7192-stratification-and-differentiation/); for state policy and domestic labour, see [Families and Households](/resources/aqa-a-level-sociology-7192-families-and-households/).
+
+## Frequently asked questions
+
+**What is the difference between absolute and relative poverty?**
+Absolute poverty asks whether a person can survive; relative poverty asks whether they can live like others around them. Relative poverty should be linked to a normal living standard or a share of the median income.
+
+**What is the difference between income and wealth?**
+Income is a flow of money over time, such as wages or benefits; wealth is a stock of assets, such as property and savings. A retired homeowner can have wealth but a low income.
+
+**Is the underclass a proven fact?**
+No. The underclass idea is a contested claim, and studies such as Shildrick and colleagues' work challenge it, so present counter-evidence in AQA 7192 answers.
+
+**What is the difference between cultural and structural explanations of poverty?**
+Cultural explanations look at the values of the poor, while structural explanations look at jobs, pay, benefits and unequal access to resources.
 
 ## Official syllabus
 

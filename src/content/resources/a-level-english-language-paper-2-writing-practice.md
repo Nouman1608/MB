@@ -13,11 +13,11 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-writing-9093"
-description: "Original exam-style Section A and Section B writing briefs with model planning structures and commentary guidance for Cambridge International AS & A Level English Language (9093)."
+description: "Original Section A and Section B writing briefs with model plans and commentary guidance for Cambridge International AS & A Level English Language 9093 Paper 2."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -106,3 +106,17 @@ Try planning (without necessarily writing in full) a further leaflet brief: your
 - Running well under or well over either word range, especially drafting Section B without a plan and losing control of length and structure partway through.
 - Choosing a Section B option for its apparent impressiveness rather than one that can genuinely be sustained and controlled for 600–900 words.
 - Assuming the three Section B categories vary from series to series -- they do not; only the topic within each fixed category changes.
+
+## Frequently asked questions
+
+**How is Cambridge 9093 Paper 2 Writing structured?**
+Section A asks for a shorter piece of writing, up to 400 words in this practice brief, followed by a reflective commentary on your linguistic choices. Section B asks you to answer one extended writing question of 600 to 900 words.
+
+**What should a reflective commentary include?**
+A strong commentary sentence names a specific choice, quotes it and explains its effect in relation to the audience and purpose of your text. Retelling the content of what you wrote does not earn the analysis marks.
+
+**How should I choose a Section B question?**
+Choose the option you can sustain and control for 600 to 900 words, not the one that sounds most impressive. Plan the shape before writing so that length and structure stay under control.
+
+**What types of writing appear in Section B?**
+The Section B options cover imaginative or descriptive writing, discursive or argumentative writing, and review or critical writing. It is worth practising planning in all three registers.

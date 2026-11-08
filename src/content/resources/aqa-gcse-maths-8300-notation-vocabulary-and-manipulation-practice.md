@@ -188,6 +188,20 @@ Sum = 6n + 6 [1] = 6(n + 1), which is a multiple of 6 [1]
 - Missing the concluding sentence in a proof, or testing numbers instead of using n (Higher).
 - Composing functions in the wrong order (Higher).
 
+## Frequently asked questions
+
+**What does factorise fully mean?**
+Take out the highest common factor of all the terms, including both numbers and letters. A correct but incomplete factorisation does not earn full marks.
+
+**What is the most common mistake when expanding a squared bracket?**
+Missing the middle term. (3x + 1)² is not 9x² + 1; expand it as (3x + 1)(3x + 1) to get four terms and collect the middle two.
+
+**How do you work out a composite function like fg(x)?**
+The function written next to x acts first, so for fg(x) apply g first and then f. Composing in the wrong order is a common Higher tier error.
+
+**Which part of AQA GCSE Maths covers algebraic notation and manipulation?**
+Section 3.2.1 Notation, vocabulary and manipulation (A1 to A7) of AQA GCSE Mathematics 8300 covers notation, substitution, vocabulary, simplifying, expanding, factorising, rearranging formulae, proof and functions.
+
 ## Next steps
 
 - [Revision notes for this section](/resources/aqa-gcse-maths-8300-notation-vocabulary-and-manipulation-revision-notes/)

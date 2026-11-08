@@ -198,6 +198,20 @@ Quick recall for outcomes OT2.1 to OT2.7 and OT3.1 to OT3.5 of the AQA A-level M
 - Rounding intermediate results, so the final digit is out.
 - Treating the first pass as final when the result is implausible and the cycle should be repeated.
 
+## Frequently asked questions
+
+**Why can a sign change fail to show a root?**
+A sign change only shows a root if the function is continuous on the interval. For example, tan x changes sign between x = 1 and x = 2 because of the asymptote at x = π/2, not because of a root.
+
+**Why should you not round in the middle of a calculation?**
+Early rounding can change the final digits or wipe out the answer altogether. For example, 1000(√2 − 1.41) is 4.21 to 3 significant figures, but rounding √2 to 1.41 first gives 0.
+
+**What is the difference between a model's limitation and an error?**
+A limitation is a known restriction of a model, such as ignoring air resistance. An error is a mistake in the working.
+
+**Which parts of the AQA 7357 specification cover problem solving and modelling?**
+Problem solving is overarching theme OT2 (OT2.1 to OT2.7) and mathematical modelling is OT3 (OT3.1 to OT3.5), in sections 3.1.2 and 3.1.3 of the AQA A-level Mathematics specification.
+
 ## Official syllabus
 
 Source: AQA A-level Mathematics 7357, sections 3.1.2 (OT2) and 3.1.3 (OT3), published by AQA, for first teaching 2017.

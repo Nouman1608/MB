@@ -188,6 +188,20 @@ Share of sales to a buyer     = sales to that buyer ÷ total sales × 100
 - Giving five equal paragraphs with no view on which force matters most.
 - Recommending a response without saying what it depends on.
 
+## Frequently asked questions
+
+**What are the five forces in the OxfordAQA 9725 specification?**
+The five forces are rivalry, buyer power, supplier power, the threat of entry and the threat of substitutes. Strong forces mean lower industry profitability, while weak forces mean higher profitability.
+
+**How do you calculate a four firm concentration ratio?**
+Add together the market shares of the four largest firms in the industry. A higher ratio means the market is dominated by fewer firms, but it is evidence to use alongside other case data rather than proof of rivalry on its own.
+
+**What is the difference between a rival and a substitute?**
+A rival makes the same kind of product, while a substitute meets the same need in a different way. For a ferry operator, another ferry is a rival, but a bridge or a flight is a substitute.
+
+**How should a business respond to a change in one of the five forces?**
+Name the force and the direction of change, estimate the effect on profit, and list options such as defend, adapt, combine or exit. Then weigh each against cost, time, risk and the firm's objectives.
+
 ## Next steps
 
 - Full explanations: [study guide](/resources/oxfordaqa-a-level-business-analysing-the-industry-environment/)

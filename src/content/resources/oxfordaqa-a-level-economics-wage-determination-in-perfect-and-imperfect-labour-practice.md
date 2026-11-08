@@ -146,6 +146,23 @@ These questions cover OxfordAQA International AS and A-level Economics (9640), s
 - Take the free [10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on wage determination questions?**
+Common losses are reading the monopsony wage from the marginal cost of labour or MRP curve, forgetting the 2 in the marginal cost of labour for a linear supply curve, stating employment from supply when a fixed wage is above equilibrium, and writing about unions without saying which market structure applies.
+
+**Where do you read the wage in a monopsony labour market?**
+The monopsonist hires where the marginal cost of labour equals marginal revenue product, then reads the wage from the labour supply curve at that level of employment, not from the MCL or MRP curve.
+
+**How do I find employment when a union sets a wage above equilibrium?**
+At a fixed wage, employment is the smaller of the quantity of labour supplied and the quantity demanded. In a competitive market that means reading employment from the demand curve, with the rest as excess supply.
+
+**Does a trade union always raise wages at the cost of jobs?**
+Not always. In a competitive labour market a union wage above equilibrium cuts employment, but in a monopsony a union can raise both the wage and employment, so contrast the two structures and reach a conclusion.
+
+**Which OxfordAQA 9640 sections do these questions cover?**
+They cover sections 3.3.4.3 and 3.3.4.4 of the OxfordAQA International AS and A-level Economics (9640) specification: wage determination in perfectly and imperfectly competitive labour markets, including monopsony, trade unions and imperfect information.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, first teaching September 2020, first International A-level exams May/June 2022, published by OxfordAQA. Sections 3.3.4.3 and 3.3.4.4, with section 3.5 (quantitative skills).

@@ -13,7 +13,7 @@ order: 47
 syllabusTopics:
   - qualification: "igcse"
     topic: "employment-0457"
-description: "How to use Employment to practise IGCSE Global Perspectives 0457 skills: issues, perspectives, causes, evidence and courses of action."
+description: "How to use the Employment topic to practise Cambridge IGCSE Global Perspectives 0457 skills: issues, perspectives, causes, evidence and courses of action."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -186,6 +186,23 @@ Each team member researches a different perspective, such as students, employers
 - [Employment revision notes](/resources/igcse-global-perspectives-0457-employment-revision-notes/) and [practice questions](/resources/igcse-global-perspectives-0457-employment-practice/)
 - [Written Exam guide](/resources/igcse-cambridge-global-perspectives-written-exam/) and [Global Perspectives revision notes](/resources/global-perspectives-revision-notes/)
 - [0457 course hub](/boards/cambridge/igcse/global-perspectives/) and [0457 checklist](/checklists/cambridge/igcse/global-perspectives/)
+
+## Frequently asked questions
+
+**What is the difference between unemployment and underemployment?**
+Unemployment means people without work who are available and looking for it. Underemployment means people working fewer hours, or in lower-skilled roles, than they want.
+
+**What is the gig economy?**
+The gig economy is short tasks or jobs arranged through apps, often paid per task. Whether app-based workers should have the same rights as employees is an issue that divides opinion.
+
+**What did the Uber BV v Aslam case decide?**
+In February 2021 the UK Supreme Court ruled that Uber drivers were "workers", not self-employed, giving them rights such as the minimum wage and holiday pay. It shows perspectives on gig work are not simply for or against.
+
+**Why do automation forecasts differ so much?**
+A 2013 Oxford study estimated about 47% of US jobs were at high risk of computerisation, while a 2018 OECD study estimated about 14% of jobs across OECD countries were highly automatable. Both are predictions, and the gap comes mainly from their methods.
+
+**What are good Team Project ideas on employment?**
+Possible local issues include students knowing little about local apprenticeships, or young people lacking interview experience, which a mock-interview day could address. The action must be something the team can carry out and measure.
 
 ## Official syllabus
 

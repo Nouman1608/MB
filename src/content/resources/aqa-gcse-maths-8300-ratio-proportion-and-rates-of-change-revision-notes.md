@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "ratio-proportion-and-rates-of-change-aqa-gcse"
 description: "Condensed AQA GCSE Maths 8300 revision notes for ratio, proportion and rates of change (R1-R16): units, percentages, proportion, growth and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 These notes cover Topic 3, **Ratio, proportion and rates of change** (references R1–R16), of the AQA GCSE Mathematics (8300) specification, Version 1.0, for exams in May/June 2017 onwards and every May/June and November series after that. Most of this topic is on both the Foundation and Higher tiers. Statements the specification places in its "Higher content only" column are marked **Higher tier only** below. Any of it can appear on Paper 1 (non-calculator) or on Papers 2 and 3 (calculator).
@@ -248,6 +248,20 @@ Compound interest: **Total accrued = P(1 + r/100)ⁿ**. You must know this formu
 - Writing y = k/x for "inversely proportional to x²".
 - Reading a tangent gradient from two points very close together, which makes the estimate inaccurate.
 - Leaving out units on a rate of change or a density.
+
+## Frequently asked questions
+
+**Is the compound interest formula given in the GCSE Maths exam?**
+No. You must know Total accrued = P(1 + r/100)ⁿ for AQA GCSE Maths 8300, as it is not given in the exam.
+
+**What is the difference between average and instantaneous rate of change?**
+The average rate of change is the gradient of the chord joining two points on a curve. The instantaneous rate is the gradient of the tangent at one point. Both are Higher tier content.
+
+**How do you combine two ratios that share a quantity?**
+Make the shared quantity the same in both ratios. For example, a : b = 2 : 3 and b : c = 4 : 5 become 8 : 12 and 12 : 15, giving a : b : c = 8 : 12 : 15.
+
+**What is the difference between 140% of a value and an increase of 140%?**
+140% of £50 is £70, found with multiplier 1.4. An increase of 140% on £50 gives £120, found with multiplier 2.4.
 
 ## Official syllabus
 

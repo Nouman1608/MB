@@ -259,6 +259,20 @@ MnO₄⁻ + 8H⁺ + 4Mn²⁺ → 5Mn³⁺ + 4H₂O        C₂O₄²⁻ + 2Mn³�
 - Using the Fe²⁺ ratio (1 : 5) for ethanedioate (2 : 5).
 - Forgetting to scale up from the titrated portion to the whole solution.
 
+## Frequently asked questions
+
+**What is the difference between the number of ligands and the co-ordination number?**
+The co-ordination number is the number of co-ordinate bonds to the central metal, not the number of ligands. [Co(C₂O₄)₃]⁴⁻ has three bidentate ligands but a co-ordination number of six.
+
+**Which electrons are lost first when a transition metal forms an ion?**
+The 4s electrons are lost before the 3d electrons. So Co²⁺ is [Ar] 3d⁷, not [Ar] 4s² 3d⁷, and Cu²⁺ is [Ar] 3d⁹.
+
+**What is the difference between heterogeneous and homogeneous catalysts?**
+A heterogeneous catalyst is in a different phase from the reactants and works at active sites on its surface, such as iron in the Haber process. A homogeneous catalyst is in the same phase and works through an intermediate species, such as Fe²⁺ with peroxodisulfate and iodide ions.
+
+**Why is carbon monoxide toxic?**
+In haemoglobin, oxygen forms a co-ordinate bond to the iron(II) in haem so that blood can carry it. Carbon monoxide replaces the oxygen, so less oxygen is transported.
+
 ## Official syllabus
 
 Source: OxfordAQA's International AS and A-level Chemistry specification (9620), Version 5.3, for exams from May/June 2020. Section 3.2.5 Transition metals (International A2), 3.2.5.1 to 3.2.5.6.

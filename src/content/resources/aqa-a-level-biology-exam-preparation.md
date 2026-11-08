@@ -11,13 +11,13 @@ qualifications: ["a-level"]
 syllabusCodes: ["7402"]
 syllabusSeries: "For first teaching 2015"
 order: 3
-description: "Paper-by-paper exam preparation for AQA A-Level Biology 7402 -- why Paper 3 draws on all eight topics, comprehension and essay-writing strategy, practical-skills fluency, a worked answer and a checklist."
+description: "How AQA A-Level Biology 7402 Papers 1, 2 and 3 work, with strategy for the Paper 2 comprehension, the Paper 3 essay and practical skills, plus a checklist."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-07
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 AQA A-Level Biology (7402) is assessed through three written papers, not tiered: Paper 1 (any content
@@ -126,3 +126,20 @@ worked scenario above is an original example written for this resource, not a re
 official past or sample paper question. Always check the current specification for your examination
 year at
 [aqa.org.uk](https://www.aqa.org.uk/subjects/biology/a-level/biology-7402/specification/specification-at-a-glance).*
+
+## Frequently asked questions
+
+**How many papers are there in AQA A-Level Biology 7402?**
+There are three written papers, each 2 hours. Paper 1 covers Topics 1–4 and Paper 2 covers Topics 5–8 (each 91 marks, 35%); Paper 3 covers Topics 1–8 (78 marks, 30%).
+
+**What is in AQA A-Level Biology Paper 3?**
+Paper 3 can draw on any content from all eight topics. It includes a 25-mark essay chosen from two titles and 15 marks of critical analysis of experimental data.
+
+**How is the Paper 3 essay marked?**
+It is marked for scientific content, organisation and how well the material addresses the specific title. Planning a structure around a clear line of argument scores better than listing disconnected facts.
+
+**What is the Paper 2 comprehension section?**
+Paper 2 includes a 15-mark comprehension component based on unfamiliar scientific text or data. Practise extracting the specific information each question asks for under time pressure.
+
+**Are practical skills tested in the written AQA Biology papers?**
+Yes. All three papers assess practical skills, so revise the required practicals' methods, apparatus and evaluation points such as sources of error and ways to improve precision.

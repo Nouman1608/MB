@@ -116,3 +116,17 @@ When a question gives a scenario, use it. Name the method and variables from the
 5. What does debriefing involve? *Explaining the true aims after the study, addressing concerns and offering the chance to withdraw data.*
 6. Find the mean of 4, 7, 7, 10 and 12. *40 / 5 = 8.*
 7. Give one limitation of opportunity sampling. *The sample may not be representative, so generalisation is limited.*
+
+## Frequently asked questions
+
+**What is the difference between a true experiment and a quasi-experiment?**
+In a true experiment, participants are randomly allocated to conditions. In a quasi-experiment, the independent variable is a characteristic participants already have, such as age or gender, so random allocation is not possible.
+
+**What are credibility and transferability in qualitative research?**
+Credibility is the qualitative equivalent of validity, and transferability is the equivalent of generalisation. Both are strengthened by triangulation, reflexivity, rich description and checking findings with participants.
+
+**What does standard deviation show?**
+Standard deviation measures how far values typically are from the mean. A small standard deviation means the data are clustered close to the mean.
+
+**How is approaches to researching behaviour used in IB Psychology?**
+It runs through the whole course: you use it to evaluate studies in the core approaches and options, and it is the basis of the internal assessment, a simple experimental study.

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Social and ethical accounting (YAC11) -- Practice Questions"
+title: "Edexcel International A Level Accounting: Social and ethical accounting (YAC11) -- Practice Questions"
 seoTitle: "Edexcel IAL Accounting Social and Ethical Practice Questions"
 resourceType: "practice-questions"
 subject: "accounting"
@@ -143,6 +143,20 @@ Machine B uses much less water and is quieter.
 - [Printable checklist](/checklists/edexcel/a-level/accounting/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**How do you answer an Evaluate question on social and ethical accounting?**
+Use the scenario's details, give points on both sides and finish with a clear judgement. In the Edexcel specification, Evaluate means reaching a supported judgement drawing on strengths, weaknesses and alternative actions.
+
+**Why do general points about the environment or society lose marks?**
+Answers need to apply to the business in the question, for example naming the specific resource, community or group affected. General statements about "the environment" or "society" without scenario detail are a common way to lose marks.
+
+**Does reducing the allowance for irrecoverable debts increase profit?**
+Yes. A decrease in the allowance is credited to profit, so cutting it raises profit, while an increase is an expense. In an ethics question, say whether profit rises or falls and which concept, usually prudence, the change breaks.
+
+**What one-off costs should be included when a decision is made?**
+Include costs that occur only in the first year, such as redundancy pay when a department closes, and any cash needed up front. Leaving them out overstates the benefit of the decision in that year.
 
 ## Official syllabus
 

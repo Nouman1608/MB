@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "polymers"
 description: "Original exam-style practice questions with full worked answers on addition polymers, repeat units, disposal and condensation polymers."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -107,3 +107,17 @@ Related: [Polymers revision notes](/resources/polymers-revision-notes/)
 - *(0620 Extended, 5070 required)* Describing proteins as synthetic polymers, or forgetting that the same amide linkage found in nylon also holds proteins together — this is exactly why the two are compared so often.
 
 Question 7 runs the logic of the [Polymers revision notes](/resources/polymers-revision-notes/) in reverse — deducing a monomer from a given repeat unit — rather than only building a polymer forwards from its monomer, which is the direction most textbook questions default to.
+
+## Frequently asked questions
+
+**What should a repeat unit of an addition polymer show to get full marks?**
+The double bond must be gone, the bonds must extend through the brackets to show the chain continues, and n must be written outside the brackets.
+
+**Which parts of polymers are Core in Cambridge IGCSE Chemistry 0620?**
+0620 Core is 11.8 outcomes 1 to 5: monomers and polymers, poly(ethene) from ethene, and the disposal and environmental problems of plastics. Repeat units, linkages, condensation polymers and proteins are Supplement, and O Level 5070 candidates need all of it.
+
+**How do you work out the monomer from an addition polymer's repeat unit?**
+Put the double bond back between the two carbons that were joined by single bonds, and remove the extending bonds. Simply deleting the brackets and n is a common way to lose marks.
+
+**What is a common mistake when comparing ways of disposing of plastics?**
+Giving the advantages of recycling without mentioning that plastics must be sorted by type, which is labour-intensive and costly. Each method needs a balanced advantage and disadvantage.

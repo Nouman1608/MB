@@ -8,28 +8,38 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Environmental Systems and Societies"]
 order: 2
-description: "Paper-by-paper exam preparation for IB Diploma Programme Environmental Systems and Societies -- how to answer questions that combine scientific and societal strands, a worked scenario and a before/during-exam checklist."
+description: "Paper-by-paper exam preparation for IB DP Environmental Systems and Societies: answering across scientific and societal strands, a worked scenario, a checklist."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-07
 featured: false
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: replaced the fieldwork/primary-data-only IA description with the 2026 brief's open-ended individual investigation and added Paper 1/Paper 2 structure, durations and SL/HL weights from the 2026 subject brief; please re-review; previously reviewed by azam-siddique on 2026-10-09."
 ---
 
 The [assessment revision notes](/resources/ib-dp-environmental-systems-and-societies-assessment-revision-notes/)
-set out how ESS's written papers and fieldwork investigation are weighted. These notes turn that
+set out how ESS's written papers and individual investigation are weighted. These notes turn that
 into an exam-day plan -- specifically how to answer questions that deliberately combine scientific
 and societal reasoning -- with a worked scenario and a checklist, alongside the
 [full syllabus guide](/resources/ib-dp-environmental-systems-and-societies-syllabus-guide/) already
 on the site.
 
+## What are ESS Paper 1 and Paper 2?
+
+- **Paper 1** gives you data in a variety of forms on one previously unseen case study. All
+  questions are compulsory and test analysis and evaluation of that data. SL: 1 hour, 25%.
+  HL: 2 hours, 30%.
+- **Paper 2** has Section A (short-answer and data-based questions) and Section B (structured
+  essays, with a limited choice). SL: 2 hours. HL: 2 hours 30 minutes. 50% at both levels.
+
+For Paper 1, practise reading unfamiliar graphs, maps and tables quickly. For Paper 2 Section B,
+practise planning a structured essay in a few minutes.
+
 ## The core exam-preparation skill: answering across both strands
 
 Because ESS can count as a sciences subject, an individuals-and-societies subject, or both, its
-written papers are deliberately built to combine short-answer, data-based and extended-response
-questions drawing on scientific methodology **and** societal analysis side by side, rather than
-separating the two into different papers. The single most valuable exam-preparation habit is
+written papers deliberately draw on scientific methodology **and** societal analysis side by
+side, rather than separating the two into different papers. The single most valuable exam-preparation habit is
 therefore **checking every "evaluate" or "discuss" answer for both dimensions** before finishing it
 -- a strong answer on an environmental policy, for instance, weighs both its scientific
 effectiveness (does it actually reduce the measured environmental impact) and its social/economic
@@ -119,6 +129,20 @@ contributors to plastic pollution; societal factor: effectiveness depends on enf
 whether accessible alternatives exist for consumers and businesses. 4. A strong answer explicitly
 weighs both the scientific and societal dimensions of the issue before reaching a judgement; an
 incomplete answer addresses only one dimension, even if that single dimension is well argued.
+
+## Frequently asked questions
+
+**How do you answer an "evaluate" question in IB ESS?**
+Weigh both the scientific dimension, such as whether a policy reduces the measured environmental impact, and the societal dimension, such as cost, enforcement and feasibility. Finish with an explicit, reasoned judgement.
+
+**How should you prepare for IB ESS Paper 1?**
+Paper 1 is built on one previously unseen case study, so practise reading unfamiliar graphs, maps and tables quickly. Data-analysis practice matters as much as content recall.
+
+**What do the ESS command terms expect?**
+State, identify and outline need short, precise factual answers. Explain, compare and suggest need a reasoned chain of cause and effect, and evaluate, discuss and to what extent need a judgement that weighs several perspectives or pieces of evidence.
+
+**Why does precise terminology matter in IB ESS answers?**
+Terms used loosely on either side lose marks, such as calling a change "unsustainable" without naming the system or timescale, or calling a policy "effective" without saying at what. A short glossary of terms such as carrying capacity, resilience and environmental value system helps.
 
 ## Official syllabus
 

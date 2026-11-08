@@ -14,11 +14,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-an-introduction-to-a-level-organic-chemistry"
     subtopic: "a-isomerism"
-description: "Condensed recall notes on enantiomers, optical activity, racemic mixtures, the effect of optical isomers on plane-polarised light, and chirality in the synthesis of drug molecules for Cambridge A Level Chemistry 9701 (2025-2027)."
+description: "Revision notes on chiral centres, enantiomers, plane-polarised light, racemic mixtures and chiral drug synthesis, for Cambridge A Level Chemistry 9701."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -236,3 +236,19 @@ syllabus ideas only. Check the full syllabus wording in the
   <figcaption>A chiral catalyst avoids separation and waste; an ordinary route gives a 50 : 50 racemate.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is a racemic mixture and why is it optically inactive?**
+A racemic mixture is an equimolar (50:50) mixture of two enantiomers. Each rotates plane-polarised light by the same angle in opposite directions, so the rotations cancel and there is no net rotation.
+
+**How do the properties of two enantiomers differ?**
+Enantiomers have identical physical and chemical properties with ordinary reagents. In Cambridge 9701 Chemistry they differ only in the direction they rotate plane-polarised light and in their potential biological activity.
+
+**Why does adding HCN to an aldehyde give a racemic mixture?**
+The C=O group is planar, so the CN⁻ nucleophile is equally likely to attack from either side. When a chiral centre forms, the two enantiomers are produced in equal amounts.
+
+**Why are chiral catalysts used in drug synthesis?**
+A chiral catalyst produces mainly a single pure optical isomer directly. This avoids the difficult, expensive separation of a racemic mixture, reduces waste and lowers the risk of side effects from the other enantiomer.
+
+**Are meso compounds and diastereoisomers in the 9701 syllabus?**
+No. You need to identify chiral centres, including molecules with more than one, but meso compounds and the term diastereoisomers are not required.

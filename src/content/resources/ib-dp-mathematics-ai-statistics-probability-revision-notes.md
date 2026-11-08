@@ -12,13 +12,13 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-mathematics-applications-and-interpretation-statistics-and-probability"
-description: "Condensed revision notes on the Statistics and probability strand of IB Diploma Programme Mathematics: Applications and Interpretation -- one of the course's two largest strands by teaching hours -- with technology-use guidance and self-test questions."
+description: "Revision notes on the IB DP Maths AI statistics and probability strand: descriptive statistics, probability, distributions, inference and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 Statistics and probability is one of this course's two largest strands by teaching hours at both SL
@@ -150,6 +150,20 @@ rule out other explanations, such as a third factor influencing both variables, 
 being coincidental. 5. Because the course's assessment objectives include communication and
 interpretation alongside calculation, so a full-mark answer explains what a calculated statistic means
 in the real-world context of the question, not just reports the numerical value.
+
+## Frequently asked questions
+
+**How many teaching hours does statistics and probability have in IB Maths AI?**
+Statistics and probability has 36 teaching hours at SL and 52 at HL, making it one of the course's two largest strands at both levels.
+
+**What is the difference between mutually exclusive and independent events?**
+Mutually exclusive events cannot both occur at the same time. Independent events are ones where one occurring does not affect the probability of the other, and confusing the two leads to using the wrong combination rule.
+
+**Is the Poisson distribution in IB Maths AI SL?**
+No. The binomial and normal distributions are studied at both levels, but the Poisson distribution is HL only.
+
+**Why is calculating a statistic only half the task in IB Maths AI?**
+The assessment objectives include communication and interpretation, so a complete answer explains what the calculated value means in the real-world context of the question, not just the number itself.
 
 ## Official syllabus
 

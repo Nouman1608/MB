@@ -12,11 +12,20 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "data-representation-0478"
-description: "Binary and hexadecimal number systems, how text, sound and images are represented in binary, and data storage and compression -- the full content of Topic 1 for Cambridge IGCSE Computer Science 0478, 2026-2028 series."
+  - qualification: "igcse"
+    topic: "data-representation-0478"
+    subtopic: "number-systems-0478"
+  - qualification: "igcse"
+    topic: "data-representation-0478"
+    subtopic: "text-sound-and-images-0478"
+  - qualification: "igcse"
+    topic: "data-representation-0478"
+    subtopic: "data-storage-and-compression-0478"
+description: "Guide to Topic 1 of Cambridge IGCSE Computer Science 0478 (2026-2028): binary, hexadecimal, two's complement, text, sound and images, storage and compression."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -133,6 +142,20 @@ size increases proportionally, since more samples must be stored.
 Increasing the **sample resolution** (bits per sample) instead allows
 each individual measurement to be recorded more precisely, again at
 the cost of a larger file.
+
+## Frequently asked questions
+
+**Why do computers use binary?**
+Computers are built from components such as transistors that reliably hold only two stable states, on and off. Binary maps directly onto those states, making circuits simple, cheap and less vulnerable to errors from small voltage changes.
+
+**When does overflow happen in 8-bit binary addition?**
+Overflow happens when the result needs more than 8 bits, for example when the sum of two unsigned values exceeds 255. The extra leftmost bit is lost and the stored answer is wrong.
+
+**Is Cambridge IGCSE Computer Science 0478 tiered?**
+No. 0478 is not tiered, so all candidates study the same content. It is graded A* to G, unlike the 9 to 1 graded 0984 syllabus.
+
+**What is the most common mistake in IGCSE file size calculations?**
+Using 1000 instead of 1024 as the conversion factor between storage units. The syllabus requires 1024 from the kibibyte upwards.
 
 ## Related resources
 

@@ -137,6 +137,20 @@ These questions cover sections 3.1.5.1 to 3.1.5.3 of the AQA specification for G
 - Writing about price only when a question asks about price and choice.
 - Assessing with a one-sided answer and no judgement.
 
+## Frequently asked questions
+
+**What factors distinguish market structures?**
+The number of producers, the degree of product differentiation and the ease of entry. Listing outcomes such as high prices instead of these factors loses marks.
+
+**How should monopoly and oligopoly be defined?**
+State the number of producers: a monopoly has a single producer supplying the whole market, while an oligopoly has a few large sellers sharing most of the sales.
+
+**Is every large firm a monopoly?**
+No. A large firm in a competitive market is not a monopoly; size alone does not make a firm a monopoly.
+
+**What should an assess question on market power include?**
+Explain how each cause reduces competition, consider both sides, and finish with a judgement rather than a one-sided answer.
+
 ## Next steps
 
 - Read the [revision notes](/resources/aqa-gcse-economics-market-structures-competitive-and-non-competitive-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-market-structures-competitive-and-non-competitive/) for any question you missed.

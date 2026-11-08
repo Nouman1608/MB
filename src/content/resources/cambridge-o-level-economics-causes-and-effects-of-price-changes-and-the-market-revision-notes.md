@@ -209,6 +209,20 @@ Make a point, explain how it works, then qualify it. For example: competition lo
 - Evaluating with a bare "it depends" rather than saying what it depends on.
 - Using country examples with no link to the question.
 
+## Frequently asked questions
+
+**What causes the demand curve to shift?**
+Demand shifts when a condition of demand changes at every price, such as incomes, tastes, fashion or advertising, the price of a substitute or complement, population or expectations about future prices.
+
+**What causes the supply curve to shift?**
+Supply shifts with changes in costs such as wages, raw materials or energy, new technology, taxes or subsidies, weather and disease for farm products, and the number of firms in the market.
+
+**What is the market economic system?**
+In a market economic system the questions of what, how and for whom to produce are settled mainly by demand and supply through the price mechanism. Resources are mostly privately owned, firms seek profit and the government plays a small part.
+
+**What are the disadvantages of a market economic system?**
+Public and merit goods may be under-supplied, demerit goods and harmful side effects over-produced, gaps in income and wealth can be wide, powerful firms can limit output and raise prices, and output and employment can be unstable.
+
 ## Official syllabus
 
 Aligned to the Cambridge O Level Economics 2281 syllabus for examination in 2026, sections 2.6 and 2.9, published by Cambridge International.

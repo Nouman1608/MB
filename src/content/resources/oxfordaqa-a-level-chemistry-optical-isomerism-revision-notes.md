@@ -215,6 +215,20 @@ In butane-1,2-diol, C1 is a CH₂ group, so C2 is the only chiral centre. In 1-p
 
 The [introduction to organic chemistry guide](/resources/oxfordaqa-a-level-chemistry-introduction-to-organic-chemistry/) covers stereoisomers and E–Z isomerism (3.3.1.3). The [transition metals guide](/resources/oxfordaqa-a-level-chemistry-transition-metals/) covers optical isomers of octahedral complexes (3.2.5.3).
 
+## Frequently asked questions
+
+**Which carbon atoms can never be chiral centres?**
+A carbon in a C=C, C=O or C≡N bond, any CH₃ or CH₂ carbon, and any carbon in a benzene ring can never be a chiral centre. Check every CH carbon and every carbon with no hydrogen.
+
+**What is the difference between optical isomerism and E–Z isomerism?**
+Optical isomerism comes from a carbon atom with four different groups. E–Z isomerism comes from a C=C bond that cannot rotate, where both carbons carry two unlike groups.
+
+**How many chiral centres does the OxfordAQA 9620 specification expect?**
+Section 3.3.7.1 limits optical isomerism to molecules with a single chiral centre.
+
+**How do you draw the second enantiomer of a molecule?**
+Draw the first with two bonds in the plane, one wedge and one hashed bond, then reflect it in a mirror line so left and right swap while wedges and hashed bonds stay the same. Do not also swap two groups, as that redraws the original enantiomer.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards: section 3.3.7 Optical isomerism (3.3.7.1), International A2 content.

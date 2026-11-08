@@ -268,6 +268,20 @@ v = √(2Ek/m) = √(2 × 2.40 × 10⁻¹⁷ / 9.11 × 10⁻³¹) = 7.26 × 10�
 - Giving one photon in annihilation: there are two, to conserve momentum.
 - Leaving energy in eV inside hc/λ without converting to joules.
 
+## Frequently asked questions
+
+**What is specific charge?**
+Specific charge is charge divided by mass, in C kg⁻¹. For a nucleus or ion, use the net charge and take the mass as A × 1.67 × 10⁻²⁷ kg; the electron's specific charge is 1.76 × 10¹¹ C kg⁻¹.
+
+**How does the strong nuclear force depend on separation?**
+The strong nuclear force between nucleons is attractive up to about 3 fm, repulsive closer than about 0.5 fm, and has no significant effect beyond about 3 fm. The repulsion stops the nucleus collapsing.
+
+**Why was the neutrino hypothesised?**
+Beta particles are emitted with a range of kinetic energies up to a maximum, so without another particle energy would not be conserved. The neutrino, in beta-minus decay an antineutrino, was proposed to carry the missing energy.
+
+**What happens to quarks in beta decay?**
+In beta-minus decay a down quark changes to an up quark, turning a neutron into a proton. In beta-plus decay an up quark changes to a down quark.
+
 ## Official syllabus
 
 AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.2 Particles and radiation.

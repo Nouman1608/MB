@@ -16,9 +16,9 @@ syllabusTopics:
     subtopic: "as-halogenoalkanes"
 description: "Condensed recall notes on nucleophilic substitution SN1 and SN2, elimination and reactivity trends for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -142,3 +142,17 @@ mechanism choice.
 
 For the full mechanism diagrams and production routes, see the
 [Halogenoalkanes study guide](/resources/as-halogenoalkanes/).
+
+## Frequently asked questions
+
+**How are halogenoalkanes classified?**
+A primary halogenoalkane has the carbon bonded to the halogen attached to one other carbon, a secondary to two and a tertiary to three. The class affects which substitution mechanism is favoured.
+
+**Is SN1 faster than SN2 because it has two steps?**
+No. The rate of SN1 depends on how stable the carbocation intermediate is, not on the number of steps. Saying it is faster because it has two steps is an exam trap.
+
+**Which reagents convert an alcohol into a halogenoalkane?**
+Reagents include hydrogen halides, KCl with concentrated acid, PCl₃, PCl₅ and SOCl₂. These routes appear in the Cambridge International AS & A Level Chemistry 9701 halogenoalkanes content.
+
+**What must the curly arrows show in a nucleophilic substitution mechanism?**
+Curly arrows must start from a lone pair or a bond, not from an atom, and the nucleophile's lone pair should be shown. Missing the lone pair is a common error.

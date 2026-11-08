@@ -219,6 +219,20 @@ alone does not explain the difference from BaSO₄.
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are the most common mistakes in Group 2 exam questions?**
+Frequent slips are leaving shielding out of ionisation energy answers, giving Mg(OH)₂ instead of MgO for magnesium with steam, and using words such as "molecules" or "intermolecular forces" for metals.
+
+**Which unit examines Group 2 in OxfordAQA 9620 Chemistry?**
+Group 2 (section 3.2.2.1) is International AS content in Unit 1 (Inorganic 1 and Physical 1), and Unit 5 can draw on all content.
+
+**How do you identify Group 2 ions in Required practical 3?**
+Add sodium hydroxide solution to one portion of the unknown and dilute sulfuric acid to another, using solutions of similar concentration. The hydroxide and sulfate solubility trends predict the precipitates, and you should state the observation that proves each ion.
+
+**Why do Group 2 hydroxide calculations often need a factor of two?**
+Each M(OH)₂ releases two hydroxide ions, so one mole of Ba(OH)₂ reacts with two moles of HCl. Forgetting this doubling is a common way to lose marks in titration and concentration questions.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry* (9620) specification, Version 5.3, for International AS

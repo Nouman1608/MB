@@ -215,6 +215,20 @@ Try each question before you open the answers.
 
 Examiner insights in the practice set give further pointers on how answers gain or lose credit.
 
+## Frequently asked questions
+
+**Are shareholders internal or external stakeholders?**
+Owners and shareholders are usually treated as internal stakeholders. Shareholders in a large publicly held company are sometimes placed in the external column because they rarely work in the business, so state your choice and one reason.
+
+**What are typical stakeholder conflicts?**
+Common pairs include shareholders against employees over dividends and pay, shareholders against customers over prices, managers against owners over growth and dividends, the business against suppliers over prices and credit, and the business against the local community over jobs versus noise or pollution.
+
+**Why does change bring conflict among stakeholders?**
+A change such as new technology, a relocation or a merger shifts costs and benefits, so some groups gain while others lose, often with little notice. Poor communication adds fear and makes conflict worse.
+
+**How can a business reduce stakeholder conflict?**
+Standard approaches include communication and consultation, compromise such as phasing a change, prioritizing the most affected or most influential group, and sharing the gain. Each has a cost, so a good answer weighs it.
+
 ## Official syllabus
 
 This page follows the *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization, section 1.4 Stakeholders.

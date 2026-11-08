@@ -159,6 +159,20 @@ These questions test section 2.10 (Market failure) of the 2026 examination sylla
 - Tick progress on the printable [checklist](/checklists/cambridge/o-level/economics/) and return to the [subject hub](/boards/cambridge/o-level/economics/).
 - Take all the [free 10-minute diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**Is a good public because the state provides it?**
+No. A public good must be non-excludable and non-rival. A good the government runs can still be private if people can be excluded or if one person's use reduces what is left for others.
+
+**What is the difference between a demerit good and an external cost?**
+A demerit good is over-consumed because the consumer underestimates the harm to themselves and others. An external cost is harm to third parties from production or consumption; labelling harm to third parties alone as a demerit good is an error.
+
+**Does under-consumption of a merit good mean nobody buys it?**
+No. Under-consumption means people buy less than the amount that would be best for society, not that the good is not bought at all.
+
+**Should market failure answers include government policy?**
+Only if the question asks for it. In Cambridge O Level Economics 2281, section 2.10 asks for causes and consequences; government responses belong to section 2.11.
+
 ## Official syllabus
 
 Source: Cambridge International, Cambridge O Level Economics (2281), examination year 2026, version 2, section 2.10 headed Market failure.

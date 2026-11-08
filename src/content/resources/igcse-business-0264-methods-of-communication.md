@@ -260,6 +260,20 @@ Stavndale Foods has a head office and a packing plant. Oksana Beck, an office ma
 - Recommending a method with no reason for rejecting the others.
 - Giving a solution that does not match the barrier named.
 
+## Frequently asked questions
+
+**What methods of communication does the IGCSE Business syllabus name?**
+The syllabus names seven groups: meetings (face-to-face or virtual), email, text messages, social media, phone calls, letters, and posters and noticeboards.
+
+**What are the advantages and disadvantages of email?**
+Email is fast, cheap per message, can reach many people at once and can carry attachments. However, the receiver may not read it quickly, or at all, and tone can be misread.
+
+**What is a communication barrier?**
+A communication barrier is anything that stops a message being sent, received or understood as intended. Examples include language differences, jargon, poor choice of method, technical failure, too many levels in the chain of communication, information overload and no feedback.
+
+**How do you recommend a method of communication?**
+Choose a method, give reasons tied to the facts of the situation, explain why the alternatives were rejected, and say what could change your decision.
+
 ## Official syllabus
 
 Aligned to section 2.3 of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education).

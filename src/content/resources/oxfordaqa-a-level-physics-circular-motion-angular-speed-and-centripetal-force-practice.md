@@ -186,6 +186,23 @@ These questions cover OxfordAQA International AS and A-level Physics (9630), Ver
 - Try one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is circular motion in OxfordAQA International AS Physics?**
+No. Section 3.6.1 Circular motion of OxfordAQA International AS and A-level Physics (9630) is International A-level only. These questions cover angular speed, centripetal acceleration and centripetal force.
+
+**What unit should angular speed have?**
+Angular speed is measured in rad s⁻¹. Writing m s⁻¹, or Hz with no mention of radians, loses the unit mark.
+
+**What conversions are needed before using circular motion formulas?**
+Convert revolutions per minute to revolutions per second, use the radius rather than the diameter, and convert grams to kilograms. Then use radians, not degrees.
+
+**Why shouldn't I use "centrifugal force" in an answer?**
+Only real forces, such as tension, friction, a normal force or gravity, act on the object, and their resultant points to the centre. Explain outward motion using the object's inertia, and do not add a centripetal or centrifugal arrow to a free-body diagram.
+
+**How do I answer a question about whether an object stays in place or slips?**
+Calculate the centripetal force needed and compare it with the maximum force available, such as friction, then state the comparison in words. A number alone without the comparison does not finish the answer.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams from May/June 2020 onwards, published by OxfordAQA. Section 3.6.1 Circular motion (International A-level only).

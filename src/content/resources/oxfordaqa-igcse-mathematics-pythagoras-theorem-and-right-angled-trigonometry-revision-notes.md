@@ -231,6 +231,20 @@ Answer each question, then check the answers below.
 - In 3D, using a sloping edge as a vertical height.
 - In 3D, measuring an angle to an edge when the question asks for the angle with a plane.
 
+## Frequently asked questions
+
+**How do you choose between sin, cos and tan?**
+Use sin for the opposite and hypotenuse, cos for the adjacent and hypotenuse, and tan for the opposite and adjacent. Label the sides from the angle you are using first.
+
+**How do you find the space diagonal of a cuboid?**
+Use √(l² + w² + h²). This comes from finding the base diagonal √(l² + w²) first, then using it in a vertical right-angled triangle with the height.
+
+**What is the angle between a line and a plane?**
+It is the angle between the line and its shadow (projection) on the plane. Measuring an angle to an edge instead is a common error in OxfordAQA International GCSE Mathematics (9260) 3D questions.
+
+**What is the difference between sin θ and sin⁻¹?**
+sin θ gives a ratio from an angle, while sin⁻¹ gives an angle from a ratio. Use the inverse function when you know two sides and want an angle.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.3.2 Mensuration and calculation, statement G19.

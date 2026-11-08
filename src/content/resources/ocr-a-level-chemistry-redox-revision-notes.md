@@ -242,6 +242,19 @@ Concentrated sulfuric acid and nitric acid can act like this with metals: sulfur
   <figcaption>In the zinc-copper cell electrons flow from the negative zinc electrode to the positive copper electrode, giving E° cell = +1.10 V.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the oxidation number of oxygen in a peroxide?**
+In a peroxide the two oxygen atoms are bonded to each other, so each has an oxidation number of −1 rather than the usual −2. The other named exception is hydrogen in a metal hydride, such as KH, which is −1.
+
+**What is the difference between an oxidation number and an ionic charge?**
+Oxidation numbers are written with the sign first, such as +2, while ionic charges are written with the number first, such as 2+. Mixing the two forms is a common way to lose marks.
+
+**What do "nitrate" and "sulfate" mean without a Roman numeral?**
+The OCR specification treats "nitrate" alone as NO₃⁻ and "sulfate" alone as SO₄²⁻. Other oxidation numbers must be shown with a numeral, such as nitrate(III) for NO₂⁻ and sulfate(IV) for SO₃²⁻.
+
+**Why does concentrated sulfuric acid not always give hydrogen with metals?**
+With concentrated sulfuric acid or nitric acid, sulfur or nitrogen in the acid can be reduced instead of hydrogen. This gives SO₂ or NO₂ rather than H₂.
 
 ## Official syllabus
 

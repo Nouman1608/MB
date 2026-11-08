@@ -19,9 +19,9 @@ syllabusTopics:
     subtopic: "a-proton-1h-nmr-spectroscopy"
 description: "Condensed recall notes on carbon-13 and proton NMR, chemical shift, splitting and integration for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -180,3 +180,20 @@ Use **deuterated solvents** such as CDCl₃, because ordinary solvents would con
 6. Predict the number of carbon-13 peaks for propan-2-ol, and explain why it differs from propan-1-ol.
 
 **Answers:** 1. It is inert, volatile, non-toxic and gives a single sharp peak away from most others, because all twelve of its protons are equivalent. 2. Two — there are two chemically different carbon environments, CH₃ and CH₂. 3. A signal is split into n+1 lines, where n is the number of hydrogen atoms on the **adjacent** carbon atoms, not on the same carbon. 4. The ratio of the numbers of hydrogen atoms in each environment — not the absolute number. 5. It identifies OH and NH protons: adding D₂O exchanges the labile hydrogen for deuterium, which is not detected, so that peak disappears. 6. Two peaks: the two CH₃ groups are equivalent by the molecule's symmetry, both attached identically to the central CHOH carbon, so they give a single combined peak — unlike propan-1-ol, where all three carbons occupy genuinely different environments and give three separate peaks.
+
+## Frequently asked questions
+
+**Why is TMS used as the reference in NMR spectroscopy?**
+TMS (tetramethylsilane) is inert, volatile, non-toxic and gives a single sharp peak because all twelve of its protons are equivalent. It is defined as δ = 0.
+
+**Do I need to memorise proton NMR chemical shift values for Cambridge 9701?**
+No. The table of typical ¹H chemical shift values is printed in the Data section of the 9701 syllabus and provided in the examination, so you need to read it correctly rather than memorise it.
+
+**Why are OH and NH peaks not split in proton NMR?**
+OH and NH protons exchange rapidly with the solvent, so they do not couple with neighbouring protons. They appear as broad singlets at variable shift and are left out of the n+1 count for adjacent groups.
+
+**Why are deuterated solvents such as CDCl₃ used in NMR?**
+Ordinary solvents contain hydrogen and would produce large proton peaks that hide the sample's signals. Deuterium is not detected in ¹H NMR.
+
+**Is there splitting in carbon-13 NMR?**
+Not at this level. In Cambridge 9701 Chemistry, ¹³C NMR shows one peak per distinct carbon environment, with no splitting, and peak heights are not quantitative.

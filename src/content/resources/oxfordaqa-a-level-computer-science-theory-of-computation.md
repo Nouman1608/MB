@@ -254,6 +254,23 @@ Some problems cannot be solved algorithmically. The **Halting problem** is the u
 
 Use the [revision notes](/resources/oxfordaqa-a-level-computer-science-theory-of-computation-revision-notes/) and [practice questions](/resources/oxfordaqa-a-level-computer-science-theory-of-computation-practice/). Search and sort traces: [searching and sorting guide](/resources/oxfordaqa-a-level-computer-science-searching-and-sorting-algorithms/); binary search trees: [advanced data structures guide](/resources/oxfordaqa-a-level-computer-science-advanced-data-structures/).
 
+## Frequently asked questions
+
+**Is theory of computation AS or A-level content in OxfordAQA 9645?**
+Section 3.13, Theory of computation, is International A-level only and is assessed in Unit 4. It covers finite state machines, regular expressions, Turing machines, BNF and syntax diagrams, and the classification of algorithms.
+
+**Why are Turing machines important?**
+Turing machines provide a general, formal model of computation and a definition of what is computable. The Universal Turing machine can simulate the behaviour of any other Turing machine.
+
+**What can BNF describe that a regular expression cannot?**
+BNF can define languages such as palindromes or strings with equal numbers of a and b, which need unlimited memory of what came earlier. A finite state machine has a fixed number of states, so no regular expression can describe them.
+
+**What is the Halting problem?**
+The Halting problem is the unsolvable problem of determining whether a program will eventually stop if given particular input, without executing the program. It shows that some problems cannot be solved by a computer, however fast the hardware.
+
+**What is the difference between polynomial and exponential complexity?**
+Polynomial complexity, such as O(n²) or O(n³), grows as a power of n, while exponential complexity, such as O(2ⁿ), grows with n in the exponent. Calling O(n²) exponential is a common error.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.13 Theory of computation.

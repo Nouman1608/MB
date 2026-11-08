@@ -306,6 +306,23 @@ For a cyclic quadrilateral WXYZ with angle WXY = 87°, angle WZY = **93°**. If 
 - Cubing an area ratio: area ratio 4 : 9 means volume ratio 8 : 27.
 - Counting a rhombus as having four lines of symmetry.
 
+## Frequently asked questions
+
+**What does the geometry topic cover in Cambridge O Level Mathematics 4024?**
+Topic 4 covers geometrical terms, constructions and nets, scale drawings and bearings, similarity, symmetry, angle facts and two sets of circle theorems.
+
+**How do you construct a triangle from three sides?**
+Use a ruler and compasses only: draw one side, then draw arcs from each end with radii equal to the other two sides, and join to where the arcs cross. The syllabus requires you to show the construction arcs.
+
+**How do you show that two triangles are similar?**
+State the pairs of equal angles, giving a reason for each, such as corresponding angles or vertically opposite angles. Two pairs of equal angles are enough, because the third pair must then be equal too.
+
+**How do you find the number of sides of a regular polygon from its interior angle?**
+Subtract the interior angle from 180° to get the exterior angle, then divide 360° by the exterior angle. An interior angle of 162° gives an exterior angle of 18°, so the polygon has 20 sides.
+
+**How do you find the length of a tangent from a point outside a circle?**
+The tangent meets the radius at 90°, so use Pythagoras' theorem with the distance from the point to the centre as the hypotenuse. Tangents from the same external point are equal in length.
+
 ## Official syllabus
 
 Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for examination in 2025, 2026 and 2027, Cambridge International Education, topic 4 Geometry, sections 4.1 to 4.8.

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-ocr-alevel-maths"
     subtopic: "algebra-and-functions-ocr-alevel-maths"
-description: "Twelve original practice questions with worked answers on OCR A Level Mathematics A H240 sections 1.02a-1.02i, from indices to regions."
+description: "Twelve original practice questions with fully worked answers on OCR A Level Mathematics A H240 sections 1.02a-1.02i, from indices to regions."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -159,6 +159,20 @@ Links: [study guide](/resources/ocr-a-level-mathematics-indices-surds-simultaneo
 - Forgetting that dividing by a negative reverses an inequality.
 - Writing a solution to an "or" inequality as one chained inequality.
 - Using solid and dashed boundaries the wrong way round.
+
+## Frequently asked questions
+
+**What does a negative index mean?**
+A negative index gives a reciprocal, not a negative number. For example, 8^(−2/3) = 1/4, not −4.
+
+**What is the condition for a quadratic to have real roots?**
+Real roots need b² − 4ac ≥ 0, which includes equal roots. Using b² − 4ac > 0 when the question says "real roots" is a common error; > 0 is the condition for two distinct real roots.
+
+**How do you avoid false solution pairs in simultaneous equations?**
+Substitute each x-value back into the linear equation to find the matching y, and give both coordinates. Substituting into the quadratic can create pairs that do not satisfy both equations.
+
+**How should you show regions for strict and non-strict inequalities?**
+Use a dashed boundary for a strict inequality (< or >) and a solid boundary for ≤ or ≥. Using them the wrong way round loses marks in OCR A Level Mathematics region questions.
 
 ## Next steps
 

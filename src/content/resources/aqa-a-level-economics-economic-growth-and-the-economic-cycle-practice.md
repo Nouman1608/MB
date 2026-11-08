@@ -126,6 +126,20 @@ Identify the likely phase of the cycle in each year and justify each using the d
 - Stopping the bubble chain before it reaches spending and output.
 - Giving a list of costs and benefits with no judgement about size or timing.
 
+## Frequently asked questions
+
+**How do you turn nominal growth into real growth without losing marks?**
+Deflate the nominal figure using the price index rather than simply subtracting inflation from nominal growth, which is only an approximation.
+
+**How can I tell which phase of the economic cycle an economy is in?**
+Use several indicators together, such as real GDP growth, inflation, unemployment and investment. Reading the phase from one indicator alone is a common mistake.
+
+**Should a recovery from recession be shown as a PPC shift?**
+No. A recovery uses spare capacity, so it is a movement from inside the PPC towards the curve, not an outward shift.
+
+**What must an answer about an economic shock say?**
+It must say which curve shifts, AD, SRAS or LRAS, and in which direction, then follow the effect through to output and prices.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/aqa-a-level-economics-economic-growth-and-the-economic-cycle-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-economic-growth-and-the-economic-cycle/).

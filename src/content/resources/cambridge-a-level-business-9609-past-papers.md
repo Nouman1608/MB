@@ -11,9 +11,9 @@ syllabusCodes: ["9609"]
 order: 1
 description: "Grade thresholds and examiner report notes for Cambridge AS & A Level Business 9609, for every series from March 2020 to November 2025."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -671,6 +671,23 @@ Official documents: [past papers, mark schemes and examiner report](https://www.
 5. **Re-test.** Take the free [AS Level diagnostic](/practice/9609/diagnostic/as/) or [A Level diagnostic](/practice/9609/diagnostic/a-level/) (all our diagnostics are listed on the [diagnostics page](/diagnostics/)), and use the [9609 self-check question bank](/practice/9609/) for quick practice on single topics.
 6. **Plan ahead.** See the [exam calendar](/exam-calendar/) for exam dates, and our [grade thresholds page](/grade-thresholds/) for June 2026 thresholds for our flagship syllabuses.
 7. **Get help if you are stuck.** Book a [free trial class](/trial/) with one of our teachers.
+
+## Frequently asked questions
+
+**Where can I find Cambridge AS and A Level Business 9609 past papers?**
+On the Cambridge International website, which publishes recent papers, mark schemes, examiner reports and grade thresholds for 9609.
+
+**Which 9609 past papers match the current syllabus?**
+Papers from March 2023 to November 2025 were set on the revised four-paper syllabus and are the closest match to exams in 2026 to 2028. Earlier papers from March 2020 to November 2022 used a three-paper structure, so use them for topic practice rather than timed mocks.
+
+**Were there 9609 Business exams in June 2020?**
+No. Cambridge cancelled the June 2020 series because of COVID-19.
+
+**How long should I spend on each mark in 9609 Business?**
+The examiner reports suggest about 1.5 minutes per mark and 10 to 15 minutes reading the case. On Paper 4, allow about 15 minutes to read and plan, then about 30 minutes per essay.
+
+**Can I use old grade thresholds to predict my grade?**
+No. Grade thresholds change every series and should not be used to predict future ones; they show how a mark converted to a grade in that particular series.
 
 ## About these notes
 

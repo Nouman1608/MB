@@ -170,6 +170,20 @@ Study first with the [study guide](/resources/ib-myp-design-sustainable-and-ethi
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are the five stages of a product's life cycle?**
+The five stages are raw materials, manufacture, distribution, use and end of life. Designing for disassembly, single materials and clear labelling makes the end-of-life stage less harmful.
+
+**How do you find the break-even point between a reusable and a single-use product?**
+Write the reusable total as embodied energy plus per-use energy × n, and the single-use total as per-item energy × n. Set them equal, solve for n, and the reusable option is lower from the next whole use.
+
+**What is data minimisation in digital design?**
+Data minimisation means collecting only the personal data a solution actually needs. Extra fields such as a home address in a homework app should be removed, and consent boxes should not be pre-ticked.
+
+**Why must a materials decision matrix justify its weights?**
+The weights decide which criteria matter most, so they change the result. Explaining why, for example, embodied energy is weighted more than finish shows the choice is reasoned rather than arranged to favour one material.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Middle Years Programme Subject Brief -- Design*, from 2014 (published by the International Baccalaureate Organization, © 2015). The brief names ergonomics and sustainability as examples of related concepts; the questions here are original and written by Marlbridge.

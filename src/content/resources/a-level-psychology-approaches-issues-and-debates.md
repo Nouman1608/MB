@@ -13,6 +13,18 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-approaches-issues-and-debates-9990"
+  - qualification: "a-level"
+    topic: "paper-1-approaches-issues-and-debates-9990"
+    subtopic: "biological-approach-9990"
+  - qualification: "a-level"
+    topic: "paper-1-approaches-issues-and-debates-9990"
+    subtopic: "cognitive-approach-9990"
+  - qualification: "a-level"
+    topic: "paper-1-approaches-issues-and-debates-9990"
+    subtopic: "learning-approach-9990"
+  - qualification: "a-level"
+    topic: "paper-1-approaches-issues-and-debates-9990"
+    subtopic: "social-approach-9990"
 description: "The Biological, Cognitive, Learning and Social Approaches -- the full content of Paper 1 for Cambridge AS & A Level Psychology 9990."
 author: "marlbridge-academic-team"
 specCheck:
@@ -45,14 +57,17 @@ qualification.
 **CAMBRIDGE AS & A LEVEL PSYCHOLOGY 9990 — PAPER 1 APPROACHES, ISSUES
 AND DEBATES**
 
-- 1.1 The Biological Approach — explaining behaviour through
+The syllabus groups the 12 core studies (section 3.1.1) under four
+unnumbered approaches:
+
+- The Biological Approach — explaining behaviour through
 physiological processes, including the nervous system, hormones and
 genetics
-- 1.2 The Cognitive Approach — explaining behaviour through internal
+- The Cognitive Approach — explaining behaviour through internal
 mental processes such as memory, perception and thinking
-- 1.3 The Learning Approach — explaining behaviour through
+- The Learning Approach — explaining behaviour through
 conditioning and observational learning
-- 1.4 The Social Approach — explaining behaviour through the influence
+- The Social Approach — explaining behaviour through the influence
 of other people and the social context
 
 ## How to approach it
@@ -158,6 +173,115 @@ approach is itself examinable:
 For each one the syllabus expects the psychology being investigated, the background, the aim(s), the
 procedure (including research method, sample, design, controls and variables), the ethical issues,
 the results, the conclusions, and the strengths and weaknesses of every element of the study.
+
+## Biological approach
+
+The syllabus's main assumptions for the biological approach are that behaviour, cognitions and
+emotions can be explained in terms of the working of the brain and the effect of hormones, genetics
+and evolution, and that similarities and differences between people can be understood in terms of
+biological factors and their interaction with other factors.
+
+- **Dement and Kleitman (1957), sleep and dreams.** Adult participants slept in a laboratory with
+  EEG electrodes recording brain activity and eye movements, and were woken by a doorbell during
+  either REM or non-REM sleep and asked to report any dream into a recorder. Dreams were recalled far
+  more often after REM awakenings than after non-REM awakenings, estimates of dream length were more
+  accurate when the dream had lasted a shorter time, and the pattern of eye movements tended to
+  match the dream content. It uses both experimental and correlational methods, and is useful for
+  ultradian rhythms and for criticising self-report of dreams.
+- **Hassett et al. (2008), monkey toy preferences.** Rhesus monkeys were given a choice between
+  stereotypically "boys'" wheeled toys and "girls'" plush toys, with interactions coded using a
+  behavioural checklist and compared with data on children from another study. Male monkeys, like
+  boys, showed a stronger preference for wheeled toys, while females interacted more evenly with
+  both, which suggests hormones may contribute to sex differences in play that socialisation alone
+  does not explain.
+- **Hölzel et al. (2011), mindfulness and brain scans.** Participants on an eight-week
+  mindfulness-based stress reduction programme had MRI scans before and after, alongside a control
+  group. The mindfulness group showed increases in grey-matter concentration in regions including
+  the left hippocampus, which the researchers linked to learning, memory and emotional regulation.
+  It illustrates localisation of function and a longitudinal design.
+
+## Cognitive approach
+
+The syllabus's main assumptions are that information is processed through the same input –
+process – output route in all humans, similar to a computer, and that individual differences in
+cognitive processing (attention, language, thinking and memory) can help explain behaviour and
+emotion.
+
+- **Andrade (2010), doodling.** Participants listened to a deliberately dull mock telephone message
+  and wrote down the names of people coming to a party; half shaded printed shapes while listening.
+  In a surprise memory test the doodling group recalled more of the names and places than the
+  control group, which suggests doodling may reduce daydreaming and so help attention during a
+  boring task.
+- **Baron-Cohen et al. (2001), the eyes test.** The 'Reading the Mind in the Eyes' Test was revised
+  so that each photograph of a pair of eyes came with four mental-state words to choose from. Adults
+  with Asperger syndrome or high-functioning autism scored lower than general-population controls,
+  and scores were negatively correlated with Autism Spectrum Quotient scores — evidence about
+  theory of mind as an individual difference in social sensitivity.
+- **Pozzulo et al. (2012), line-ups.** Children and adults viewed a target (cartoon and human
+  faces) and then made identifications from target-present and target-absent line-ups. Children
+  made more false positive responses than adults in target-absent line-ups, which has direct
+  implications for how police use child eyewitnesses.
+
+## Learning approach
+
+The syllabus's main assumptions are that we all begin life as a blank slate, with experiences and
+interactions with the environment shaping behaviour in directly observable ways, and that we learn
+through operant conditioning, classical conditioning and social learning, understood using the
+stimulus–response model.
+
+- **Bandura et al. (1961), aggression.** Nursery-age children watched an adult model behave either
+  aggressively or non-aggressively towards a Bobo doll (with a no-model control group), and the
+  sex of the model was varied. After mild frustration, children who had seen the aggressive model
+  imitated more physical and verbal aggression, and boys showed more physical aggression than
+  girls — support for social learning theory.
+- **Fagen et al. (2014), elephant learning.** Working juvenile elephants were trained, using
+  positive reinforcement with food and a secondary reinforcer marking each correct step, to take
+  part in a trunk wash used to test for tuberculosis. The behaviour was built up by shaping and
+  behavioural chaining and recorded on a behavioural checklist, showing operant conditioning as a
+  humane alternative to harsher traditional training.
+- **Saavedra and Silverman (2002), button phobia.** A case study of a nine-year-old boy whose
+  phobia of buttons involved disgust as well as fear. Exposure with reinforcement alone reduced his
+  distress only a little; treatment that added disgust-focused imagery (evaluative learning)
+  produced a much larger reduction, maintained at follow-up. It brings together classical
+  conditioning, operant conditioning and evaluative learning.
+
+## Social approach
+
+The syllabus's main assumption is that behaviour, cognitions and emotions are influenced by social
+contexts, social environments and groups, and by the actual, implied or imagined presence of
+others.
+
+- **Milgram (1963), obedience.** Forty men recruited by newspaper advertisement acted as
+  "teachers" told to give increasing electric shocks to a "learner" (a confederate) for wrong
+  answers, with an experimenter using standard verbal prods. All 40 went to at least 300 volts and
+  26 (65%) went to the maximum 450 volts, many showing extreme tension. The main study measured
+  obedience but manipulated no independent variable; it considers dispositional and situational
+  hypotheses.
+- **Perry et al. (2015), personal space.** In two experiments, participants were given oxytocin or a
+  placebo nasal spray, then chose a comfortable distance from another person on a computerised
+  Comfortable Interpersonal Distance Scale and chose between pictures of rooms. Oxytocin led
+  participants high in empathy to prefer closer distances, but those low in empathy to prefer
+  greater distances — a person-by-situation interaction.
+- **Piliavin et al. (1969), subway Samaritans.** In a field experiment on the New York subway, a
+  confederate collapsed while appearing either ill (carrying a cane) or drunk, with the victim's
+  race also varied, and observers recorded how passengers responded. The cane victim received
+  spontaneous help on almost every trial and the drunk victim on about half; there was no
+  diffusion-of-responsibility effect in this setting, which led the researchers to propose a
+  cost–reward (arousal: cost–reward) model of helping.
+
+## Frequently asked questions
+
+**How many core studies are there in Cambridge 9990 Psychology Paper 1?**
+There are 12 compulsory core studies, three for each of the biological, cognitive, learning and social approaches. They are listed in section 3.1.1 of the syllabus.
+
+**Which issues and debates are tested on 9990 Paper 1?**
+The five AS Level issues and debates are the application of psychology to everyday life, individual and situational explanations, nature versus nurture, the use of children in research and the use of animals in research. Reductionism, determinism, idiographic versus nomothetic and cultural differences belong to the A Level specialist options.
+
+**What do you need to know about each core study for Paper 1?**
+The syllabus expects the psychology being investigated, the background, the aims, the procedure, the ethical issues, the results, the conclusions, and the strengths and weaknesses of the study. A precisely recalled named study earns more credit than a vague description.
+
+**How should you revise issues and debates for Cambridge A Level Psychology?**
+Apply each debate to the four approaches and their core studies rather than revising it as a separate block. For example, the biological approach leans toward nature and the learning approach toward nurture.
 
 ## Official syllabus
 

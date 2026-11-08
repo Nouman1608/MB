@@ -11,9 +11,9 @@ syllabusCodes: ["9702"]
 order: 1
 description: "9702 Physics past papers guide: grade thresholds and examiner report notes for March 2024 to June 2025, with links to Cambridge's official papers."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -276,6 +276,20 @@ Official documents: [past papers, mark schemes and examiner report](https://www.
 5. **Fix one topic at a time.** Use the resources on the [9702 Physics hub](/boards/cambridge/a-level/physics/), for example [D.C. circuits revision notes](/resources/as-physics-dc-circuits-revision-notes/), [superposition revision notes](/resources/as-physics-superposition-revision-notes/) or [capacitance revision notes](/resources/a-physics-capacitance-revision-notes/), then practise in the [9702 self-check question bank](/practice/9702/).
 6. **Re-test after a week.** Sit a paper from a different series and check that the same errors have gone. For the June 2026 thresholds of our main syllabuses, see the [grade thresholds page](/grade-thresholds/).
 7. **Get help if a topic will not stick.** Book a [free trial lesson](/trial/) with one of our physics teachers.
+
+## Frequently asked questions
+
+**Where can you download Cambridge 9702 Physics past papers?**
+Cambridge International publishes recent 9702 past papers, mark schemes, examiner reports and grade thresholds on the syllabus's past-papers page; older series are available to schools through the School Support Hub. This page does not host any papers.
+
+**Which Cambridge 9702 exam series does this page summarise?**
+This page gives grade thresholds and examiner report notes for five Cambridge 9702 series: March 2024, June 2024, November 2024, March 2025 and June 2025. Other series link to Cambridge's official past-papers page.
+
+**Can grade thresholds predict future 9702 grade boundaries?**
+No. Grade thresholds change every series, so the thresholds on this page must never be used to predict future ones.
+
+**Are 2024 Cambridge 9702 papers still useful for the 2025-2027 syllabus?**
+The 2024 series were set on the syllabus in use before 2025-2027, so check the syllabus version on the paper's front cover against the current syllabus before using an older paper.
 
 ## About these notes
 

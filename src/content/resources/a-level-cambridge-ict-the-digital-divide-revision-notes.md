@@ -180,6 +180,20 @@ If 70% of one group and 40% of another have home internet, the gap is **30 perce
 - Marked practice: [The digital divide practice questions](/resources/a-level-cambridge-ict-the-digital-divide-practice/)
 - Related AS revision notes: [Hardware and software](/resources/a-level-ict-hardware-software-revision-notes/) and [Data processing](/resources/a-ict-data-processing-revision-notes/)
 
+## Frequently asked questions
+
+**What is the digital divide?**
+In Cambridge 9626, the digital divide is the gap between people or regions that have access to modern technology and information and those that have restricted or no access. Including "restricted" matters, because partial access counts.
+
+**What causes the digital divide?**
+The syllabus names two causes: the availability of high and low performance computers, and the availability of wireless connections. A good device with no signal gives no access, while an old, slow device on fast Wi-Fi gives restricted access.
+
+**Which groups are affected by the digital divide?**
+The syllabus groups are different age groups, people in cities and rural areas, people with different levels of education, different socioeconomic groups, people with accessibility barriers, and people in more and less industrially developed nations.
+
+**How can the effects of the digital divide be reduced?**
+Measures should match the cause, for example improving coverage where there is no signal or providing devices where computers are too slow. The syllabus specifically names digital literacy teaching as a way to reduce the effects.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027, version 3 (published July 2025), Cambridge International, part of Cambridge University Press & Assessment. Topic 6, The digital divide, section 6.1.

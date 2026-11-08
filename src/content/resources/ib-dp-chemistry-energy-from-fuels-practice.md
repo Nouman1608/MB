@@ -174,6 +174,20 @@ Recommendation: **A**, because it gives lower net emissions without land-use har
 - Take [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does this IB DP Chemistry Reactivity 1.3 practice set cover?**
+It covers Reactivity 1.3, Energy from fuels: complete and incomplete combustion equations, comparing fossil fuels and the CO₂ they release, the greenhouse effect, biofuels, and hydrogen and methanol fuel cells.
+
+**What are common mistakes when balancing combustion equations?**
+Students often forget to subtract the oxygen atom already in an alcohol when balancing O₂, include CO₂ in an equation that asks for carbon monoxide or carbon only, or give wrong metal oxide formulas such as NaO.
+
+**How should you explain the greenhouse effect in an IB answer?**
+Explain that CO₂ absorbs infrared radiation emitted by the Earth's surface and re-emits it, some of it back towards the ground. Writing "CO₂ traps heat" or saying it "reflects" heat, or confusing this with ozone depletion, loses marks.
+
+**Are biofuels carbon neutral?**
+Not fully. The carbon in a biofuel was recently fixed from the air, but farming, fertiliser, processing and transport usually burn fossil fuels, so calling biofuels carbon neutral without qualification loses marks.
+
 ## Official syllabus
 
 Source: *Chemistry guide*, International Baccalaureate Diploma Programme, February 2023 (first assessment 2025). Practised here: Reactivity 1.3, Energy from fuels, understandings 1.3.1 to 1.3.5, common to SL and HL.

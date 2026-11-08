@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-language-and-literature-intertextuality"
 description: "Original IB DP Language and Literature practice on Intertextuality: three passages, analysis questions, a guided analysis and a comparison plan."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -243,6 +243,20 @@ covers Passage A in full and then Passage C leaves the connection unargued.
 - [Printable checklist](/checklists/ib/ib-dp/language-a-language-and-literature/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**What is intertextuality in IB Language and Literature?**
+Intertextuality: connecting texts is the third area of exploration in IB DP Language A: Language and Literature. It studies how a text's meaning depends partly on other texts, on the conventions of its type or form, and on the texts it is placed beside.
+
+**How do you analyse an intertextual reference in an exam answer?**
+Name the source or the kind of source, say what is kept and what is changed, then explain the effect of that gap on meaning. Explaining the source text itself, instead of what the new text does with it, earns little.
+
+**When can you call a text a parody?**
+Only when it imitates a style or form in order to mock or criticise something, and you can say what it mocks. Imitation without mockery is pastiche.
+
+**How do you write a comparison that earns marks?**
+Weave both texts into each point, often in the same sentence, using short embedded quotations. Writing about one text and then the other, with the comparison left to the end, is a common way to lose marks.
 
 ## Official syllabus
 

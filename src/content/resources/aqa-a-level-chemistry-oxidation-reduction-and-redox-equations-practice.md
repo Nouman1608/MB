@@ -167,6 +167,23 @@ Concentration = 2.25 × 10⁻³ ÷ 0.0250 dm³ [1] = **0.0900 mol dm⁻³** [1]
 - Using the wrong mole ratio from the overall equation in a titration calculation.
 - Writing "hydrogen" or "chlorine" when the question needs a named ion such as H⁺ or Br⁻.
 
+## Frequently asked questions
+
+**Is redox AS content in AQA Chemistry?**
+Yes. Section 3.1.7 Oxidation, reduction and redox equations of the AQA 7404/7405 specification is AS content and part of the full A-level. It is assessed in Paper 1 at AS and A-level, and A-level Paper 3 can include any content.
+
+**Can you define oxidation as gain of oxygen in AQA Chemistry?**
+No. The specification defines oxidation as electron loss and reduction as electron gain, so "gain of oxygen" alone does not earn the mark.
+
+**How should oxidation states be written to get the mark?**
+Always include a sign and write the sign before the number, such as +5, not "5" or "5+". An average oxidation state such as +2.5 is accepted and should not be rounded.
+
+**What makes an overall redox equation lose its balancing mark?**
+Leaving any electrons in the final equation, or H⁺ and H₂O on both sides, loses the mark. Multiply the half-equations so electrons lost equal electrons gained, then cancel.
+
+**Why do answers naming "hydrogen" or "chlorine" lose marks?**
+When a question asks for a species, name the exact ion or molecule, such as H⁺ or Br⁻. "Hydrogen" is ambiguous between H⁺ and H₂.
+
 ## Next steps
 
 - [Revision notes for this section](/resources/aqa-a-level-chemistry-oxidation-reduction-and-redox-equations-revision-notes/)

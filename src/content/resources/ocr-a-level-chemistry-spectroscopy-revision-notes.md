@@ -193,6 +193,20 @@ For each environment give three things: shift range, relative area, and splittin
 - Stopping at one structure when the data fit two isomers.
 - Forgetting to use the molecular ion to turn the empirical formula into the molecular formula.
 
+## Frequently asked questions
+
+**What is the n + 1 rule in proton NMR?**
+A signal is split by the non-equivalent protons on adjacent carbon atoms, and n adjacent protons split it into n + 1 peaks. For example, a CH₂ between a CH₃ and a CH₂ has 3 + 2 = 5 neighbours and appears as a sextet.
+
+**Why are carbon-13 NMR lines not split?**
+Every carbon-13 spectrum assessed in OCR A Level Chemistry A (H432) is proton decoupled, so each carbon environment gives a single line with no splitting. Line heights do not show the number of carbons, so count lines, not heights.
+
+**How do you tell an ester or acid C=O from a ketone C=O in carbon-13 NMR?**
+A C=O carbon at δ 160–185 belongs to a carboxylic acid, ester or amide, while one at δ 190–220 belongs to an aldehyde or ketone. Giving just "C=O" without the type misses the point.
+
+**What is the difference between equivalent and adjacent protons?**
+Equivalent protons are related by symmetry and do not split each other. Non-equivalent protons on adjacent carbon atoms do split each other's signals.
+
 ## Official syllabus
 
 Source document: OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 6.3.2 Spectroscopy, learning outcomes (a) to (e). Published by OCR.

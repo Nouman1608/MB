@@ -313,6 +313,20 @@ Use the figures in the answer, then say why: more people have memory cells, so f
 - Saying antibiotics treat viral disease or that bacteria "get used to" the drug.
 - Giving an answer for a non-specific defence that only says "kills pathogens", with no mechanism.
 
+## Frequently asked questions
+
+**What is the difference between antibiotics, antivirals and antiseptics?**
+Antibiotics kill bacteria or stop them growing but do not work on viruses. Antivirals stop viruses replicating, and antiseptics are applied to living tissue such as skin to kill microorganisms and prevent infection.
+
+**What are the non-specific defences of the human body?**
+Non-specific defences include the skin, blood clotting, nose hairs and mucus, cilia that sweep mucus to the throat, stomach acid, lysozyme in tears, and phagocytes. They work against any pathogen.
+
+**Why do some vaccines need to be updated?**
+Some pathogens, like flu viruses, change their antigens often, so the vaccine has to be updated. A vaccine is specific to one pathogen, and boosters may be needed to raise the level of memory cells again.
+
+**Why are antivirals hard to develop?**
+Viruses live inside host cells and use the cell's own machinery, so a medicine that harms the virus easily harms the host. Each antiviral is designed for a particular virus.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), first assessment 2018, published by OCR. These notes cover statements B6.3j, B6.3k, B6.3l and B6.3o.

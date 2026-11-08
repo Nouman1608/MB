@@ -16,7 +16,7 @@ syllabusTopics:
     topic: "crude-and-standardised-rates-and-their-use-4040"
   - qualification: "igcse"
     topic: "crude-and-standardised-rates-0479"
-description: "How to calculate crude rates and standardised rates (death, birth, fertility and accident rates), why standardisation is needed, and how to compare populations — Cambridge O Level Statistics 4040 Topic 7 and IGCSE Statistics 0479 Topic 9, with a full worked example."
+description: "Crude, age-specific and standardised death, birth and accident rates, and comparing populations: Cambridge O Level Statistics 4040 and IGCSE 0479 study guide."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
@@ -160,6 +160,23 @@ Always use the definition the question gives.
   says otherwise).
 - Stating which rate is higher without explaining *why* the crude and
   standardised rates disagree.
+
+## Frequently asked questions
+
+**Why is it called a crude rate?**
+It is "crude" because it ignores how the population is made up. Deaths depend strongly on age, so a town with many elderly residents can have a high crude death rate even if every age group in it is healthy.
+
+**What is an age-specific rate?**
+An age-specific rate is the number of events in one age group divided by the number of people in that group, multiplied by 1000. Most standardised rate questions need these rates first.
+
+**Who chooses the standard population?**
+The standard population is always given in the question. It may be given as numbers of people or as percentages; with percentages, the divisor is 100.
+
+**How do you explain why crude and standardised rates disagree?**
+Name the population feature that causes the difference, such as a larger proportion of elderly people, rather than just saying "the populations are different". Cambridge IGCSE Statistics 0479 outcome 9.4 asks for this kind of conclusion.
+
+**How do you find the number of deaths from a death rate?**
+Use number of events = rate × population ÷ 1000. For example, a district of 125 000 people with a crude death rate of 8.4 per thousand has 1 050 deaths.
 
 ## Related pages
 

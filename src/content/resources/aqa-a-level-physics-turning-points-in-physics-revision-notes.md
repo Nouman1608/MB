@@ -22,7 +22,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "turning-points-in-physics-aqa-alevel"
     subtopic: "special-relativity-aqa-alevel"
-description: "Condensed revision notes for the AQA A-Level Physics 7408 Turning points option, with formula table, method steps and a quick self-test."
+description: "Condensed revision notes for the AQA A-Level Physics 7408 Turning points option, with a formula table, step-by-step methods and a quick self-test with answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-06
 featured: false
@@ -163,6 +163,20 @@ Useful derived results: Millikan radius r = √(9ηv/(2ρg)); Fizeau c = 2d/t wi
 - Calling Michelson-Morley a failure of the apparatus; its significance is the null result.
 - Swapping proper and dilated time, or contracting a length perpendicular to the motion.
 - Forgetting to subtract m₀c² when asked for kinetic energy rather than total energy.
+
+## Frequently asked questions
+
+**How do you find e/m with a fine-beam tube?**
+The magnetic force provides the centripetal force, Bev = mv²/r, and the accelerating pd gives ½mv² = eV. Combining these gives e/m = 2V/(B²r²).
+
+**What are Einstein's two postulates of special relativity?**
+Physical laws have the same form in all inertial frames, and the speed of light in free space is invariant.
+
+**What is the difference between Planck's and Einstein's ideas about light?**
+Planck quantised the emission of energy from a black body, E = hf. Einstein went further and said light itself travels as photons, with one photon giving all its energy to one electron.
+
+**What is proper time?**
+Proper time t₀ is measured in the frame where the clock is at rest. An observer moving relative to the clock measures a longer time, t = t₀/√(1 − v²/c²).
 
 ## Official syllabus
 

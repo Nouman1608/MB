@@ -157,6 +157,20 @@ These questions cover statements 6.16 to 6.20 of the Pearson Edexcel Internation
 * All [free 10-minute diagnostics](/diagnostics/)
 * [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which Edexcel statements do these questions cover?**
+They cover statements 6.16 to 6.20 of Pearson Edexcel International A Level Biology (YBI11): decomposition, PCR, gel electrophoresis, DNA profiling and time of death.
+
+**What should a PCR answer include?**
+Give what happens at each temperature stage, not just the temperatures, and say why the polymerase used is not denatured.
+
+**How should you rule a suspect in or out from a DNA profile?**
+Quote the loci that match or differ. Ruling suspects in or out without naming the loci loses marks.
+
+**What should you give when asked for a time of death?**
+Give the actual estimated time, not just the elapsed time since death.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification Issue 2, February 2021, Pearson Education Limited: Topic 6, statements 6.16 to 6.20.

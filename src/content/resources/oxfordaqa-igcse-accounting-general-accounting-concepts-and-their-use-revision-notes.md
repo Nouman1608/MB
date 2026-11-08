@@ -211,6 +211,23 @@ Memory aid: accruals asks "which period?", prudence asks "what is the cautious f
 - Showing the prepayment as an expense, or the accrual as an asset.
 - Saying the business "owns" the owner's personal assets, which ignores business entity.
 
+## Frequently asked questions
+
+**How many general accounting concepts are in OxfordAQA International GCSE Accounting 9215?**
+Ten. The specification also names six situations in which they are applied: preparation of financial statements, asset valuation, depreciation of non-current assets, inventories, purchase of non-current assets and transactions in ledger accounts.
+
+**What is the difference between the accruals and prudence concepts?**
+Accruals puts each item in the right year. Prudence chooses the cautious figure when an amount is uncertain.
+
+**What is the difference between business entity and money measurement?**
+Business entity decides whose transaction it is, separating the business from its owner. Money measurement decides whether an item can be recorded, because it must have a money value.
+
+**How is net realisable value calculated?**
+Net realisable value = expected selling price − costs to make the goods saleable − selling costs. Inventory is valued line by line at the lower of cost and net realisable value.
+
+**Is depreciation a cash cost?**
+No. Writing that depreciation is a cash cost, or that it puts money aside, is a common mistake; it spreads the cost of an asset over its useful life without moving any cash.
+
 ## Official syllabus
 
 Source: OxfordAQA International GCSE Accounting (9215), specification version 1.2, for exams from May/June 2026 onwards, section 3.3 Development of the accounting model (general accounting concepts and their use).

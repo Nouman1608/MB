@@ -130,6 +130,20 @@ These questions cover statements 1 to 3 of 4.3.2 Trade and the global economy in
 - Describing a change in the terms of trade without saying what it means for imports obtained.
 - Ending an evaluation with a summary but no judgement.
 
+## Frequently asked questions
+
+**What is the formula for the terms of trade?**
+Terms of trade index = 100 × export price index ÷ import price index. Putting import prices on top is a common error in Edexcel International A Level Economics questions.
+
+**What is the difference between absolute and comparative advantage?**
+Absolute advantage means making a good with fewer resources than another country. Comparative advantage means making it at a lower opportunity cost, and trade can benefit both countries even when one has an absolute advantage in everything.
+
+**Does a rise in export prices always raise export revenue?**
+No. Revenue is price times quantity, so the effect depends on the price elasticity of demand for exports. With elastic demand, revenue falls.
+
+**What should you say when the terms of trade change?**
+Say what the change means for the quantity of imports obtained for each unit of exports, not just whether the index went up or down.
+
 ## Next steps
 
 - Review with the [revision notes](/resources/edexcel-ial-economics-comparative-advantage-patterns-of-trade-and-the-terms-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-comparative-advantage-patterns-of-trade-and-the-terms/).

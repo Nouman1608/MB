@@ -13,13 +13,19 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-prose-and-unseen-9695"
+  - qualification: "a-level"
+    topic: "paper-2-prose-and-unseen-9695"
+    subtopic: "section-a-prose-9695"
+  - qualification: "a-level"
+    topic: "paper-2-prose-and-unseen-9695"
+    subtopic: "section-b-unseen-9695"
 description: "The format and structure of Paper 2 Prose and Unseen -- an AS Level paper for Cambridge International A Level English Literature 9695, 2024-2026 series."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-01
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added 2026 and 2027 Paper 2 prose set-text lists and an FAQ; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide covers **Paper 2 – Prose and Unseen**, an AS Level paper for
@@ -161,6 +167,30 @@ effect in that passage, rather than stopping at identification.
   reflects the real paper, not each section revised in isolation.
 - For Section B specifically, resist the temptation to guess at
   context beyond the passage — analyse what is actually on the page.
+
+## Which prose set texts are on Paper 2 in 2026 and 2027?
+
+Study one prose text for Section A; Section B is always an unseen text, which may be prose, poetry or
+drama. From the 9695 syllabuses for 2024 to 2026 and for 2027 and 2028:
+
+| Examination in 2026 | Examination in 2027 |
+|---|---|
+| Kiran Desai, *The Inheritance of Loss*; *Stories of Ourselves, Volume 1* selection; Evelyn Waugh, *A Handful of Dust*; Colson Whitehead, *The Underground Railroad* | *Stories of Ourselves, Volume 3* selection; Evelyn Waugh, *A Handful of Dust*; Colson Whitehead, *The Underground Railroad*; Tara June Winch, *The Yield* |
+
+## Frequently asked questions
+
+**How much is Paper 2 worth?**
+Paper 2 is a 2-hour paper worth 50 marks, with 25 marks for each section: 50% of the AS Level, or 25%
+of the full A Level.
+
+**Can I prepare for the unseen?**
+Yes, by practising a reading method rather than learning content: read for gist, annotate form and
+language, then plan an argument about how the writer creates meaning and effect.
+
+**Which story collection is set?**
+For 2026 it is a selection from *Stories of Ourselves, Volume 1*; from 2027 it is a new selection from
+*Volume 3*. The syllabus lists the individual stories.
+
 
 ## A note on syllabus currency
 

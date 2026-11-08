@@ -12,13 +12,13 @@ order: 3
 syllabusTopics:
   - qualification: "o-level"
     topic: "coordinate-geometry"
-description: "Original exam-style questions with full worked answers on gradients, equations of lines, perpendicular and parallel lines, midpoints and lengths, for Cambridge O Level Mathematics 4024."
+description: "Twelve original Cambridge O Level Mathematics 4024 coordinate geometry questions on gradients, line equations, parallel and perpendicular lines, with answers."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-24
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -147,6 +147,23 @@ These last two questions are structured so that each part feeds the next. In the
 - Stopping at "the gradients are equal" in a "show that" question without writing the conclusion.
 - Leaving the answer as y = mx + c when the question asks for the form ax + by = c with integer values.
 - Rounding too early in a length calculation, or forgetting the square root.
+
+## Frequently asked questions
+
+**How do you find the gradient of a line written as ax + by = c?**
+Rearrange the equation to make y the subject, in the form y = mx + c. The gradient is the coefficient of x only once y is on its own, so the gradient of 4y + 3x = 12 is −3/4, not 3 or 4.
+
+**What is the most common mistake with perpendicular gradients?**
+Changing the sign without inverting the fraction, or inverting without changing the sign. The perpendicular gradient is the negative reciprocal, so the two gradients multiply to −1.
+
+**How do you answer a "show that" coordinate geometry question?**
+Show each calculation, such as both gradients, and then write a clear conclusion in words. Stopping at "the gradients are equal" without saying the lines are parallel can lose the final mark.
+
+**Can you still get marks in Cambridge O Level Mathematics if a final answer is wrong?**
+Yes. Method marks are awarded for correct working even when the final answer is wrong, and a wrong early answer in a multi-part question can still earn follow-through marks later if your method is clear.
+
+**Which coordinate geometry questions are non-calculator in 4024?**
+The questions marked no calculator on this page are in the style of Paper 1; the others allow a calculator, as in Paper 2.
 
 ## Next steps
 

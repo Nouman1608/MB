@@ -18,11 +18,11 @@ syllabusTopics:
     subtopic: "exothermic-and-endothermic-reactions"
 description: "Condensed recall notes on energy changes, reaction pathway diagrams, activation energy and bond energy calculations for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: labelled the calorimetry (Q = mc dT) section as background, since it is not a 0620 or 5070 outcome; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -100,6 +100,9 @@ dH = 678 - 862 = -184 kJ/mol   -> EXOTHERMIC
 
 ## Calorimetry — measuring ΔH experimentally
 
+*(Background only, not a 0620/5070 outcome: neither syllabus asks you to use Q = mcΔT. It is included because
+schools often run this practical and it leads into AS 9701.)*
+
 > **Not on the 0620/5070 syllabus.** Calorimetry, specific heat
 > capacity and Q = mcΔT calculations are not part of either syllabus's
 > chemical energetics content — the only quantitative energetics outcome
@@ -175,5 +178,19 @@ energetics diagram.)
 7. Give two reasons why a calorimetry experiment usually underestimates the true energy change.
 
 **Answers:** 1. **Negative** — the reaction releases energy to the surroundings, so it is exothermic. 2. Endothermic — energy must be supplied to break a bond. 3. 950 − 1120 = **−170 kJ/mol**, exothermic. 4. It lowers the activation energy by providing an alternative pathway; the reactant and product energy levels, and therefore ΔH, are unchanged. 5. Any two: thermal decomposition of calcium carbonate, photosynthesis, dissolving ammonium nitrate, reaction of citric acid with sodium hydrogencarbonate. 6. *(Background)* Q = 25.0 × 4.18 × 4.0 = **418 J**. 7. *(Background)* Any two: heat lost to the surroundings during the reaction, heat absorbed by the thermometer and container rather than staying in the solution, and extra heat lost through an open or poorly insulated cup rather than a proper calorimeter — all of which mean less energy is measured than the reaction actually released.
+
+## Frequently asked questions
+
+**What is the sign of ΔH for an exothermic reaction?**
+ΔH is negative for an exothermic reaction, even though the surroundings get hotter, because the sign is from the system's point of view. Endothermic reactions have a positive ΔH and the surroundings get colder.
+
+**Is bond breaking exothermic or endothermic?**
+Bond breaking is endothermic because energy must be supplied to break a bond, and bond making is exothermic. ΔH = bonds broken − bonds made, and reversing these flips the whole answer.
+
+**Does a catalyst change ΔH?**
+No. A catalyst lowers the activation energy by providing an alternative pathway, but the reactant and product energy levels, and so ΔH, stay the same. This is 0620 Extended content and required for 5070.
+
+**Is calorimetry on the Cambridge IGCSE 0620 syllabus?**
+No. Neither Cambridge IGCSE 0620 nor O Level 5070 asks you to use Q = mcΔT; it is included on this page as background because schools often run the practical and it leads into AS Chemistry 9701.
 
 For the full worked explanation with additional detail, see the [Exothermic and Endothermic Reactions study guide](/resources/exothermic-and-endothermic-reactions/); for exam-style questions with full mark schemes, see the [Exothermic and Endothermic Reactions practice questions](/resources/energetics-practice/).

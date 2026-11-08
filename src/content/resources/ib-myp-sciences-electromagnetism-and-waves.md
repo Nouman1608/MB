@@ -17,9 +17,9 @@ syllabusTopics:
     topic: "ib-myp-sciences-related-concepts"
 description: "IB MYP Sciences study guide to magnets, electromagnets, the motor effect, induction, wave properties, v = fλ and the electromagnetic spectrum."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -201,6 +201,20 @@ Higher frequency means more energy per wave, so the high-frequency end is the mo
 - Forgetting to halve the distance in echo questions.
 - Leaving MHz or cm in v = fλ instead of converting to Hz and m.
 - Saying frequency changes on refraction. Frequency stays the same; speed and wavelength change.
+
+## Frequently asked questions
+
+**How can you make an electromagnet stronger?**
+Increase the current, add more turns of wire, or use a soft iron core. Soft iron magnetises strongly and loses its magnetism as soon as the current stops, so the electromagnet can be switched on and off.
+
+**What is the difference between transverse and longitudinal waves?**
+In a transverse wave the vibrations are at right angles to the direction the energy travels, as in water waves and all electromagnetic waves. In a longitudinal wave the vibrations are parallel to the direction of travel, making compressions and rarefactions, as in sound.
+
+**Does frequency change when a wave refracts?**
+No. Frequency is set by the source, so it stays the same during refraction; only the wave's speed and wavelength change. If the speed falls, the wavelength falls too.
+
+**What is electromagnetic induction?**
+Induction is the motor effect in reverse: when a wire cuts magnetic field lines, or the field through a coil changes, a voltage is induced. A magnet held still inside a coil induces nothing; movement or a changing field is needed.
 
 ## Where next
 

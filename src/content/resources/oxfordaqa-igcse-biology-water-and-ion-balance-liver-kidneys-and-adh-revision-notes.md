@@ -243,6 +243,20 @@ Reading data: a table or graph showing urine volume down and concentration up po
 - Forgetting units, or mixing cm³ and dm³ in the same calculation.
 - Saying glucose is lost in the urine of a healthy person.
 
+## Frequently asked questions
+
+**How does water leave the body?**
+Water leaves in the breath from the lungs, in sweat from the skin and in urine from the kidneys. Only the kidney output is adjusted to keep the body's water balance.
+
+**What does the liver do with excess amino acids?**
+Excess amino acids are deaminated in the liver, which removes the nitrogen-containing part and forms ammonia. Ammonia is converted into urea, which passes into the blood and is removed by the kidneys in urine.
+
+**Is filtering in the kidney selective?**
+No. Filtering removes useful and waste substances together; it is reabsorption that is selective. In a healthy kidney all the glucose is reabsorbed, so none appears in the urine.
+
+**What does more ADH do to urine?**
+More ADH makes the kidneys reabsorb more water, so a smaller volume of more concentrated urine is produced. It happens when the water content of the blood is too low.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), specification Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.4.3, Control of water and ion content of the body.

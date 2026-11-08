@@ -158,6 +158,20 @@ Revise first with the [study guide](/resources/cambridge-igcse-economics-trade-p
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate tariff revenue?**
+Multiply the tariff per unit by the quantity of imports after the tariff, not by the whole quantity demanded or the imports before it.
+
+**Does an import quota raise government revenue?**
+Only if the government sells the import licences. Otherwise the gap between the world price and the home price goes to whoever holds the licences.
+
+**Is every cheap import an example of dumping?**
+No. Dumping means selling a good abroad below its cost of production or below the price charged in the exporter's home market. A good that is simply cheaper because the foreign producer is more efficient is not dumping.
+
+**What should an evaluation of protection include in Cambridge IGCSE Economics 0455?**
+Cover who gains and who loses in the home country and in trading partners, explain what an elasticity value means for the policy, include units such as cost per job, and finish with a judgement.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International Education). Content: section 6.2, subtopics 6.2.4 to 6.2.6.

@@ -144,6 +144,20 @@ Read the [study guide](/resources/ib-dp-physics-rotational-dynamics-torque-momen
 - Try the [free 10-minute diagnostics](/diagnostics/) to find your next weak spot.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these IB DP Physics rotational dynamics questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Are these rigid body mechanics questions for SL or HL?**
+Every question is HL only, because sub-topic A.4, Rigid body mechanics, is additional higher level content.
+
+**Do I need to remember moment of inertia formulas for these questions?**
+No. Where a question needs the moment of inertia of a particular shape, the formula is given. Use g = 9.81 N kg⁻¹ throughout.
+
+**What slips lose marks in rotational dynamics calculations?**
+Common slips are not converting between revolutions, degrees and radians, and rounding intermediate values too early.
+
 ## Official syllabus
 
 These questions follow sub-topic A.4 (Rigid body mechanics) of the IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. A.4 is additional higher level content only.

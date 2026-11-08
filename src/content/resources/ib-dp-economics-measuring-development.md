@@ -231,6 +231,23 @@ A fair conclusion is that the relationship is positive but conditional. It depen
 - Listing strengths and limitations without applying them to a named indicator or country.
 - Claiming growth always brings development, or never does.
 
+## Frequently asked questions
+
+**What is the difference between economic growth and economic development?**
+Economic growth is a rise in real output, usually shown by real GDP or GNI. Economic development is a broader improvement in how people live, including income, health, education, equity and environmental security.
+
+**What are the three dimensions of the Gender Inequality Index?**
+Reproductive health, measured by maternal mortality and adolescent births; empowerment, measured by women's share of parliamentary seats and secondary education by gender; and the labour market, measured by women's participation in the labour force.
+
+**What is the Happy Planet Index?**
+The Happy Planet Index asks how efficiently a country turns environmental resources into good lives, combining life expectancy, reported well-being and inequality of outcomes and relating them to ecological footprint. It is the only listed index with sustainability built in.
+
+**Why is GNI per person converted at PPP?**
+Converting at the market exchange rate can mislead because prices of non-traded goods and services differ between countries. PPP adjusts for these price differences, so it is a better guide to what incomes buy.
+
+**Does economic growth always lead to development?**
+No. Growth often helps through higher incomes and tax revenue for health and schooling, but the relationship is conditional on the sources of growth, how its gains are shared and how the revenue is spent.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization (February 2020). This page covers sub-topic 4.8.

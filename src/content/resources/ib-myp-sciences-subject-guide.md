@@ -6,11 +6,11 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Sciences"]
-description: "An overview of IB Middle Years Programme Sciences -- an inquiry-based, often integrated science course exploring the connections between science and everyday life, for ages 11-16."
+description: "An overview of IB MYP Sciences: an inquiry-based course linking science to everyday life, its aims, discrete or integrated models and how it is assessed."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -127,6 +127,20 @@ the MYP's emphasis on inquiry, investigation design and evaluating evidence (cri
 transfers directly into DP science's internally assessed investigations -- but it is worth
 confirming with a school's DP coordinator how a given MYP structure has prepared a student for their
 chosen DP science subjects specifically.
+
+## Frequently asked questions
+
+**What is IB MYP Sciences?**
+IB MYP Sciences is the Middle Years Programme science course, built around inquiry: students investigate issues through research, observation and experimentation and explore the links between science and everyday life, including ethics, culture, economics, politics and the environment.
+
+**How is IB MYP Sciences assessed?**
+It is assessed against four equally weighted criteria: A Knowing and understanding, B Inquiring and designing, C Processing and evaluating, and D Reflecting on the impacts of science, each scored from 0 to 8. Most schools assess mainly through classroom coursework, with an optional on-screen eAssessment.
+
+**Is the MYP Sciences eAssessment compulsory?**
+No. Schools can opt into MYP eAssessment for an IB-validated result, with an on-screen exam in biology, chemistry, physics or integrated sciences. Most schools assess primarily through classroom-based, criterion-referenced coursework.
+
+**Does integrated MYP science prepare students for DP Biology, Chemistry or Physics?**
+Yes in principle: the MYP's focus on inquiry, investigation design and evaluating evidence transfers to DP internally assessed investigations. The DP teaches the sciences as separate subjects with SL and HL, so confirm with the school's DP coordinator how your MYP course prepares you.
 
 ## Source
 

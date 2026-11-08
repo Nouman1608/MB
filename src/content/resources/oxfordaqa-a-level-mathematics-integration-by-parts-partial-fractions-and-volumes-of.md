@@ -335,6 +335,20 @@ V = π [ln|x + 1| − ln|x + 2|] from 0 to 2
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-mathematics-integration-by-parts-partial-fractions-and-volumes-of-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-mathematics-integration-by-parts-partial-fractions-and-volumes-of-revision-notes/) for the final weeks.
 
+## Frequently asked questions
+
+**Where does integration by parts come from?**
+It is the product rule reversed. Integrating (uv)′ = u v′ + u′ v and rearranging gives ∫ u v′ dx = uv − ∫ u′ v dx.
+
+**What is a proper fraction in partial fractions?**
+A fraction is proper when the degree of the numerator is less than the degree of the denominator. If it is not, divide first before splitting into partial fractions.
+
+**Which axes are used for volumes of revolution in OxfordAQA 9660?**
+Section P2.7 of the OxfordAQA 9660 specification uses the x-axis or the y-axis as the axis of rotation, with a full turn of 360°.
+
+**How do you integrate partial fractions with linear factors?**
+Split the fraction into terms such as A/(ax + b), then integrate each to (A/a) ln|ax + b|. Remember the 1/a factor for each bracket.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2*, published by OxfordAQA, for International AS exams from May/June 2018 and International A-level exams from May/June 2019. See section P2.7 (Integration).

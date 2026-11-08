@@ -12,13 +12,13 @@ order: 4
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-mathematics-analysis-and-approaches-functions"
-description: "Condensed revision notes on the Functions strand of IB Diploma Programme Mathematics: Analysis and Approaches -- the toolkit the Calculus strand depends on -- with worked reminders and self-test questions."
+description: "Revision notes on the Functions strand of IB DP Mathematics: Analysis and Approaches: inverses, composites, transformations and exp-log pairs, with a self-test."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 Functions carries 21 hours at SL and 32 at HL, as the
@@ -176,3 +176,16 @@ exponential, logarithmic, rational.
   <figcaption>y = aˣ and y = logₐ x are inverses, so their graphs are reflections in y = x.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How many teaching hours does the Functions strand have in IB Maths AA?**
+The Functions strand carries 21 hours at SL and 32 at HL in IB DP Mathematics: Analysis and Approaches, and comes before Calculus, which builds on it.
+
+**What does y = kf(x) do to a graph?**
+It is a vertical stretch with scale factor k. By contrast, y = f(kx) is a horizontal stretch with scale factor 1/k.
+
+**How are exponential and logarithmic functions related?**
+They are inverses of each other: y = a^x can be rewritten as x = log_a y, and the graph of a logarithmic function is the reflection of the matching exponential graph in the line y = x.
+
+**What is the quickest way to sketch a transformed graph?**
+Apply the transformation to the key features of the base graph, such as intercepts, turning points and asymptotes, rather than replotting the whole curve.

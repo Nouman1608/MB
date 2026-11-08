@@ -21,11 +21,11 @@ syllabusTopics:
     subtopic: "transformation-geometry-edexcel-igcse-maths"
 description: "Study guide for Edexcel IGCSE Maths 4MA1 topic 5: vectors, column vectors, vector proof, rotations, reflections, translations and enlargements."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This study guide teaches topic 5, Vectors and transformation geometry, of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), first assessed in June 2018 with papers available in January and June. It covers section 5.1 (Vectors) and section 5.2 (Transformation geometry). Section 5.1 is **Higher tier only**. Section 5.2 is Foundation tier content, and the Higher tier assumes it ("See Foundation Tier"), so every candidate needs it.
@@ -351,6 +351,20 @@ The side from (2, 1) to (3, 1) (length 1) maps to the side from (4, 1) to (7, 1)
 - Describing a translation in words ("5 left, 3 up") instead of a column vector, or writing the two components the wrong way round.
 - Measuring an enlargement from the origin instead of the stated centre.
 - Giving two transformations (for example "reflection then translation") when the question says "single transformation". This scores nothing.
+
+## Frequently asked questions
+
+**How do you find the magnitude of a column vector?**
+Use Pythagoras' theorem on the components: the magnitude of (x, y) is √(x² + y²). Square a negative component in full, so for (7, −24) the magnitude is √(49 + 576) = 25.
+
+**How do you prove that three points lie on a straight line using vectors?**
+Show that two of the vectors joining the points are scalar multiples of each other, so they are parallel, and that they share a common point. Your final sentence must name both facts.
+
+**How do you show two vectors are parallel?**
+Show that one is a scalar multiple of the other. For example, 6**a** − 9**b** = 3(2**a** − 3**b**), so it is parallel to 2**a** − 3**b**.
+
+**How do you rotate a shape 90° anticlockwise about a point that is not the origin?**
+Subtract the centre from each vertex, turn the result using (x, y) → (−y, x), then add the centre back. Anticlockwise rotations are positive angles and clockwise rotations are negative.
 
 ## Next steps
 

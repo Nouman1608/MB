@@ -194,6 +194,23 @@ The placebo group also improved, which is why a control is needed. A statistical
 * Saying bacteria "grow best at body temperature" in school work. Practical incubation is deliberately cooler.
 * Describing a placebo as "a fake drug that does nothing" without linking it to the control of expectation.
 
+## Frequently asked questions
+
+**What is tensile strength?**
+Tensile strength is the stress a material withstands when pulled before it breaks. Stress is force ÷ cross-sectional area, measured in pascals.
+
+**Why use stress rather than breaking mass to compare fibres?**
+A thicker fibre can hold more mass, so dividing the force by the cross-sectional area allows a fair comparison between fibres of different diameters.
+
+**What conditions do bacteria need to grow?**
+Nutrients, water, a suitable temperature and pH, oxygen for aerobes, and freedom from inhibitors such as antibiotics.
+
+**Who was William Withering?**
+William Withering was an eighteenth-century English physician who studied a herbal remedy for dropsy, identified foxglove as the active ingredient and tested different doses. His work is a historic example of drug testing.
+
+**Why do drug trials use a placebo group?**
+A placebo looks the same as the drug but has no active ingredient, so the placebo group allows for improvement caused by expectation and the effect of the drug itself can be measured.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology, specification Issue 2 (Pearson Education Limited), Topic 4, statements 4.8 to 4.13.

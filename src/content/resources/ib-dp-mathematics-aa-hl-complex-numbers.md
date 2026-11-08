@@ -22,11 +22,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-1-14"
 description: "Study guide to complex numbers for IB DP Maths AA HL: Cartesian, polar and Euler forms, the Argand diagram, conjugate roots and De Moivre's theorem."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 This study guide teaches the complex numbers unit of IB Diploma Programme Mathematics: Analysis and Approaches from scratch. It is aligned to the IB *Mathematics: analysis and approaches guide*, first assessment 2021, and covers syllabus sections 1.12–1.14. All of this content is HL only (AHL). It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 HL sessions.
@@ -295,6 +295,23 @@ HL Paper 1 is calculator-free, so every skill in this unit must work by hand: co
 ## Where to go next
 
 Condense this unit with the [revision notes](/resources/ib-dp-mathematics-aa-hl-complex-numbers-revision-notes/), then test it with the [practice set](/resources/ib-dp-mathematics-aa-hl-complex-numbers-practice/). Other strands of the course have their own guides, such as the [functions study guide](/resources/ib-dp-mathematics-aa-functions/) and the [calculus study guide](/resources/ib-dp-mathematics-aa-calculus/). For the course as a whole, read the [AA syllabus guide](/resources/ib-dp-mathematics-analysis-and-approaches-syllabus-guide/), the [subject guide](/resources/ib-dp-mathematics-analysis-and-approaches-subject-guide/) and the [exam preparation guide](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/).
+
+## Frequently asked questions
+
+**Are complex numbers in IB Maths AA SL?**
+No. Complex numbers (syllabus sections 1.12 to 1.14) are HL only in IB DP Mathematics: Analysis and Approaches.
+
+**What is Euler form of a complex number?**
+Euler form writes z as re^(iθ), where r is the modulus and θ is the argument. It is equivalent to polar form r(cos θ + i sin θ) = r cis θ.
+
+**What does multiplying by i do on an Argand diagram?**
+Multiplying by i, which has modulus 1 and argument π/2, rotates a point anticlockwise by π/2 about the origin. In general, multiplying by r cis θ enlarges by scale factor r and rotates by θ.
+
+**Why do complex roots come in conjugate pairs?**
+If a polynomial has real coefficients and a + bi is a root, then a − bi is also a root. Each pair gives the real quadratic factor z² − 2az + (a² + b²).
+
+**When should you use De Moivre's theorem for a power?**
+Convert to polar form and use (r cis θ)ⁿ = rⁿ cis(nθ) whenever the power is more than about 3, because a binomial expansion would take far longer.
 
 ## Official syllabus
 

@@ -209,6 +209,23 @@ residue –CO–(CH₂)₃–CO– has five carbons, not three.
 - Disposal answers without a disadvantage for each method.
 - Miscounting carbons when naming monomers from a chain section.
 
+## Frequently asked questions
+
+**Is polymers AS content in AQA Chemistry?**
+No. Section 3.3.12 Polymers of the AQA 7404/7405 specification is A-level only. It is examined on A-level Paper 2, and A-level Paper 3 can test any content.
+
+**What are the most common errors when drawing a condensation repeating unit?**
+Including only one monomer residue when two monomers are used, and leaving –OH or –H on the ends instead of extension bonds. Linkages written as –CO–NH₂– or –CO–OH– are also wrong.
+
+**What by-product forms when an acyl chloride is used to make a polymer?**
+When the reactant is an acyl chloride, the small molecule lost is HCl, not water. Showing water in that case loses the mark.
+
+**Between which groups do hydrogen bonds form in polyamides?**
+Hydrogen bonds form between the N–H of one chain and the C=O oxygen of another, not between two N–H groups. Polyesters have no N–H or O–H in the link, so they do not form hydrogen bonds between chains.
+
+**What should a polymer disposal answer include?**
+Give an advantage and a disadvantage for each method, with chemistry where relevant. Answers that list only advantages do not reach full marks.
+
 ## Next steps
 
 - [Polymers revision notes](/resources/aqa-a-level-chemistry-polymers-revision-notes/)

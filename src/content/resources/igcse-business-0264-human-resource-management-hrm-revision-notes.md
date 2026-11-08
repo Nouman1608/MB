@@ -261,6 +261,20 @@ Cost of training = cost per person × number of people, plus any lost output whi
 
 Use the [study guide](/resources/igcse-business-0264-human-resource-management-hrm/) for any gap, then try the [practice questions](/resources/igcse-business-0264-human-resource-management-hrm-practice/).
 
+## Frequently asked questions
+
+**What are the main contents of an employment contract?**
+An employment contract sets out duties and responsibilities, working hours, holiday entitlement and sick pay.
+
+**What are the four legal controls over employment?**
+The syllabus lists unfair dismissal, discrimination, health and safety, and the legal minimum wage. Describe them in general terms and give an effect on both the employer and the employee.
+
+**How do you calculate the cost of training?**
+Multiply the cost per person by the number of people trained, then add any output lost while they are away from work.
+
+**What is induction training?**
+Induction introduces new employees to the business, its rules, safety and colleagues. It is not skills training for the job itself.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education), section 2.1.

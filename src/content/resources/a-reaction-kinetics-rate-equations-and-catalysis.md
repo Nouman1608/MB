@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-reaction-kinetics"
     subtopic: "a-homogeneous-and-heterogeneous-catalysts"
-description: "Rate equations, orders of reaction, rate constants, reaction mechanisms, and homogeneous and heterogeneous catalysis, for Cambridge International AS & A Level Chemistry 9701."
+description: "Rate equations, orders of reaction, rate constants, mechanisms and rate-determining steps, and homogeneous and heterogeneous catalysis, for Cambridge 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review. 2026-11-08: SO₂-oxidation catalysis bullet now names NO₂ as catalyst and NO as intermediate, matching the revision notes; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -204,10 +204,11 @@ step of the mechanism and regenerated in a later step — never appearing in
 the overall balanced equation, but genuinely taking part in the reaction
 pathway.
 
-- **Atmospheric oxides of nitrogen catalysing SO₂ oxidation**: NO reacts
-  with O₂ to form NO₂, which then oxidises SO₂ to SO₃ while being reduced
-  back to NO — the NO is regenerated and can catalyse further SO₂
-  oxidation, contributing to acid rain formation.
+- **Atmospheric oxides of nitrogen catalysing SO₂ oxidation**: NO₂
+  oxidises SO₂ to SO₃ while being reduced to NO (SO₂ + NO₂ → SO₃ + NO), and
+  the NO then reacts with O₂ to re-form NO₂ (NO + ½O₂ → NO₂). NO₂ is used in
+  the first step and regenerated in the second, so it is the catalyst and NO
+  is an intermediate; the SO₃ goes on to contribute to acid rain.
 - **Fe²⁺/Fe³⁺ in the I⁻/S₂O₈²⁻ reaction**: the direct reaction between I⁻
   and S₂O₈²⁻ is slow, since both ions are negatively charged and repel each
   other. Fe²⁺ reduces S₂O₈²⁻ to give Fe³⁺ (which, being a cation, doesn't
@@ -249,6 +250,23 @@ unchanged and available to react again.
   (different phase from reactants)
 - Homogeneous catalysis: consumed in one step, regenerated in a later step
   (same phase as reactants)
+
+## Frequently asked questions
+
+**How do you deduce orders of reaction from an initial-rates table?**
+Compare two experiments where only one concentration changes. If doubling it doubles the rate the order is 1, if the rate quadruples the order is 2, and if the rate is unchanged the order is 0.
+
+**How do you identify order from a rate–concentration graph?**
+A horizontal line shows zero order, a straight line through the origin shows first order, and an upward curve through the origin shows second order.
+
+**How do you deal with an intermediate in the rate-determining step?**
+Its concentration cannot be measured directly, so re-express it using a fast pre-equilibrium before the slow step. For 2NO + Br₂ → 2NOBr, this turns rate = k[NOBr₂][NO] into rate = k[NO]²[Br₂].
+
+**What is the difference between a reaction intermediate and a catalyst?**
+An intermediate is formed in one step and used up in a later step. A catalyst is used in one step and regenerated in a later step, so it does not appear in the overall equation.
+
+**How does a heterogeneous catalyst work?**
+Reactant molecules adsorb onto active sites on the catalyst surface, bonds within them are weakened so they react more easily, and the products then desorb. Iron in the Haber process works this way.
 
 ## Related resources
 

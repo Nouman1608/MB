@@ -193,6 +193,20 @@ Formatting checklist: title, legend, category and value axis labels, series labe
 - Leaving a chart without a title or axis labels.
 - Saving or exporting in a format other than the one asked for.
 
+## Frequently asked questions
+
+**What is the difference between relative, absolute and mixed cell references?**
+In Cambridge 9626, a relative reference such as B4 changes when copied, an absolute reference such as $B$4 does not change, and a mixed reference fixes only the column ($B4) or only the row (B$4). Mixed references let one formula fill a two-way table.
+
+**What is the difference between an input message and an error message?**
+An input message appears when a cell is selected and tells the user what to enter. An error message appears when a validation rule is broken and should say what went wrong and what data is allowed.
+
+**Why use FALSE in a VLOOKUP formula?**
+FALSE makes VLOOKUP look for an exact match, so a missing code returns an error rather than a wrong row. Omitting it is a common mistake.
+
+**How do you lock formulas but allow data entry in a spreadsheet?**
+Cells start locked, so clear the locked setting on the input cells, then protect the worksheet. Formulas can no longer be edited, but the unlocked input cells can still be changed.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 8: Spreadsheets (8.1 Creating a spreadsheet; 8.2 Testing a spreadsheet; 8.3 Using a spreadsheet; 8.4 Graphs and charts).

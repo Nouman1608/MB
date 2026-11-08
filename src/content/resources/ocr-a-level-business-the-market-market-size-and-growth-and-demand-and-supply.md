@@ -255,6 +255,17 @@ Evaluation points: markets can adjust quickly or slowly, so the effect depends o
 - Describing a diagram without stating the new price and quantity.
 - Ending an evaluation without a judgement tied to the case.
 
+## Frequently asked questions
+
+**What is the difference between market size by value and by volume?**
+Market size by value is total sales revenue in pounds, while by volume it is total units sold. They can move differently, for example value can rise while volume falls if prices go up.
+
+**What is excess supply?**
+Excess supply happens when the price is above equilibrium, so quantity supplied is greater than quantity demanded. It leads to unsold stock, storage costs and pressure to cut prices.
+
+**What makes an oligopoly different from other market structures?**
+An oligopoly is dominated by a few large firms that are interdependent, so if one firm cuts its price, rivals may follow. This is why firms in an oligopoly often compete through branding and service rather than price.
+
 ## Official syllabus
 
 OCR, *Advanced GCE in Business (H431) Specification*, Version 2.1 (January 2026), External influences: the market, market size and growth, and demand and supply.

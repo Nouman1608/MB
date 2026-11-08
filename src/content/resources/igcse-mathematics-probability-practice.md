@@ -22,14 +22,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "probability-cambridge-igcse-maths"
     subtopic: "conditional-probability-cambridge-igcse-maths"
-description: "Original exam-style practice questions with full worked answers on basic probability, relative and expected frequency, combined events and conditional probability for Cambridge IGCSE Mathematics 0580."
+description: "Practice questions with worked answers on probability, relative and expected frequency, tree diagrams and conditional probability for Cambridge IGCSE 0580."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-01
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -127,3 +127,17 @@ Related: [Probability revision notes](/resources/igcse-mathematics-probability-r
 ## Approaching probability questions
 
 Before multiplying or adding anything, decide what kind of question is in front of you: a single event (count outcomes), a combined event across two or more stages (build a tree and multiply along branches), or a conditional probability (restrict to a smaller sample space first). Getting this classification right first is what determines whether the next step should be a multiplication, an addition, or a division -- most errors on this topic come not from arithmetic mistakes but from applying the wrong one of these three operations to a correctly understood situation.
+
+## Frequently asked questions
+
+**What is the difference between theoretical probability and relative frequency?**
+Theoretical probability comes from counting equally likely outcomes. Relative frequency is an experimental estimate found from data, as the number of times an event happened divided by the number of trials.
+
+**How do you calculate expected frequency?**
+Multiply the probability of the event by the number of trials. For example, a probability of 0.15 over 300 rolls gives an expected 45 occurrences.
+
+**When do you multiply and when do you add probabilities on a tree diagram?**
+Multiply along the branches to find the probability of one path, and add the probabilities of different paths that give the required outcome.
+
+**Can a probability be greater than 1?**
+No. Every probability lies between 0 and 1, so an answer greater than 1 shows an error. Give probabilities as fractions, decimals or percentages, not as ratios.

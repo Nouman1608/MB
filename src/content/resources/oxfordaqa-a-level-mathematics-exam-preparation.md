@@ -11,11 +11,11 @@ syllabusSeries: "First assessed 2019"
 order: 3
 description: "How OxfordAQA International A-Level Mathematics 9660's compulsory units weight against the Statistics-or-Mechanics option, plus a worked full-working routine."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-09
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 OxfordAQA International A-Level Mathematics (9660) is a modular qualification of four units, three of
@@ -106,6 +106,20 @@ introduces both statistics and mechanics at AS level, so it directly feeds which
 taken at A-level, and its relevant sections should be revisited once the option is confirmed. 4. Because
 method marks are available even when the final answer is wrong, so full working captures partial credit
 that an answer alone would not.
+
+## Frequently asked questions
+
+**How many units are in OxfordAQA International A-level Mathematics 9660?**
+There are four units. Unit P1, Unit PSM1 and Unit P2 are compulsory, and the fourth is a choice between Unit S2 (Statistics) and Unit M2 (Mechanics).
+
+**How long is each OxfordAQA 9660 Mathematics exam and how many marks is it worth?**
+Unit P1 and Unit PSM1 are each 1.5 hours and 80 marks, worth 20% each. Unit P2 is 2.5 hours and 120 marks, worth 37.5%. Unit S2 or Unit M2 is 1.5 hours and 80 marks, worth 22.5%.
+
+**What is the difference between Unit P1 and Unit PSM1 in OxfordAQA A-level Maths?**
+Both are AS units of 1.5 hours and 80 marks. Unit P1 is pure maths only, while Unit PSM1 combines pure maths with an introduction to both statistics and mechanics.
+
+**What should you check after answering an A-level Maths question?**
+Sanity-check the result against the question's real-world context before moving on. This takes seconds and catches many arithmetic slips without re-deriving the whole solution.
 
 *Written against the assessment section of OxfordAQA's own International AS/A-level Mathematics (9660)
 qualification page (official OxfordAQA page, verified 2026-08-28); the unit structure, timings and

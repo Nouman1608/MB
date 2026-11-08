@@ -260,6 +260,20 @@ Segmentation helps a business aim its marketing money well. Disadvantages: resea
 
 Try the [practice questions](/resources/edexcel-igcse-business-market-research-and-the-market-practice/), use the [revision notes](/resources/edexcel-igcse-business-market-research-and-the-market-revision-notes/) to recall the lists, and find your gaps with the [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is the difference between market orientation and product orientation?**
+A market-oriented business starts from what customers want, found through research, and designs its offer around the results. A product-oriented business starts from what it can make and then looks for buyers.
+
+**What is test marketing?**
+Test marketing means selling a product in a limited area or for a limited period before a full launch. It tests real buying with real money, but it is slow and competitors can see the product early.
+
+**What is market segmentation?**
+Market segmentation is dividing a market into groups of customers who share characteristics so a business can target its product, price and promotion. The 4BS1 specification lists location, demographics, lifestyle, income and age.
+
+**How can a business respond to increased competition?**
+It can improve quality or service, change prices, promote more strongly or find a niche. Each response has a drawback, such as lower profit per sale after a price cut.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 4: Marketing, sections 4.1 Market research and 4.2 The market, points 4.1.1 to 4.2.3.

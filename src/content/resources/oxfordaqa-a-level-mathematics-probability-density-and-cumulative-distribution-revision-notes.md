@@ -201,6 +201,19 @@ A pdf that rises then falls has its highest point where the probability density 
   <figcaption>An exponential pdf starts at λ and decays; its mean and standard deviation are both 1/λ.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What makes a function a valid probability density function?**
+It must satisfy f(x) ≥ 0 everywhere and have a total area of 1 under its graph.
+
+**How do you get a pdf from a cdf?**
+Differentiate each piece of the cdf, f(x) = dF/dx, and state that f is zero outside the range.
+
+**How do you find the upper quartile of a continuous distribution?**
+Solve F(x) = 3/4 in the correct piece of the cdf. For the lower quartile solve F(x) = 1/4, and for the median F(x) = 1/2.
+
+**Can a pdf take a value greater than 1?**
+Yes. f(x) is a density, not a probability, so it can exceed 1; only the area under it gives probability.
 
 ## Official syllabus
 

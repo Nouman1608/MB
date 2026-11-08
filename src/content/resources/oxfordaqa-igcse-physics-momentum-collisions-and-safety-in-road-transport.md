@@ -274,6 +274,20 @@ The thinking distance has not changed, because the weather does not alter the dr
 
 Work through the [practice questions](/resources/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport-practice/) and keep the [revision notes](/resources/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport-revision-notes/) to hand.
 
+## Frequently asked questions
+
+**How does tiredness affect stopping distance?**
+Tiredness increases the driver's reaction time, so the thinking distance gets longer. The braking distance is unchanged, but the total stopping distance increases.
+
+**Do air bags reduce the change in momentum?**
+No. The change in momentum is the same; the air bag increases the time over which it happens, which reduces the force. It also spreads the force over a larger area of the chest and head.
+
+**Is momentum part of the full OxfordAQA International GCSE Physics award?**
+Yes. Section 3.1.4 (momentum) is marked P in the OxfordAQA International GCSE Physics (9203) specification, so it is part of the full Physics award.
+
+**Why does a seat belt stretch slightly?**
+Stretching lets the body stop over a longer time, so the force on it is smaller. The belt also holds the person in the seat so they do not hit the windscreen.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, published by OxfordAQA.

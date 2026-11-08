@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-alternating-currents"
     subtopic: "a-rectification-and-smoothing"
-description: "Condensed recall notes on r.m.s. values, peak values and rectification for Cambridge AS & A Level Physics 9702, plus a recap of prerequisite (IGCSE/O Level) transformer background."
+description: "Condensed recall notes on r.m.s. and peak values, mean power, rectification and smoothing for Cambridge A Level Physics 9702, with transformer background."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -159,3 +159,16 @@ half-wave case and no flat gaps.
   <figcaption>Half-wave leaves gaps, full-wave does not, and a capacitor with a larger time constant RC gives a smoother output.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Why is the mean value of an alternating current not useful?**
+An alternating current spends equal time flowing in each direction, so its mean over a full cycle is zero, which says nothing about the power delivered. Squaring the values makes them all positive, which is why the root-mean-square value is used instead.
+
+**What is the relationship between mean power and peak power for a.c.?**
+For a sinusoidal supply in a resistive load, the mean power is exactly half the peak power. Equivalently, mean power equals I_rms × V_rms, or half of I₀V₀.
+
+**Why can a transformer not work on direct current?**
+A steady direct current produces a constant magnetic flux in the core, so there is no rate of change of flux linkage in the secondary coil and no e.m.f. is induced.
+
+**Where is the smoothing capacitor connected in a rectifier circuit?**
+The smoothing capacitor is connected in parallel with the load, not in series. It charges at each peak and discharges through the load between peaks, and a larger capacitance or load resistance reduces the ripple by increasing the time constant RC.

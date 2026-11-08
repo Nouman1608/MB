@@ -9,13 +9,13 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Business Management"]
 syllabusSeries: "First assessment 2024"
 order: 2
-description: "The five units of the IB Diploma Programme Business Management syllabus -- Introduction to business management, Human resource management, Finance and accounts, Marketing, and Operations management -- with HL-only sub-topics marked, for first assessment 2024."
+description: "The five units of IB DP Business Management, first assessment 2024, with every sub-topic, HL-only content marked and recommended teaching hours at SL and HL."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers the full syllabus structure of **IB Diploma Programme
@@ -166,6 +166,20 @@ reading through the formulae. Since the business research project
 start identifying a workable business and problem early in the course --
 a well-chosen, well-documented organization makes every later unit's
 content easier to apply concretely rather than abstractly.
+
+## Frequently asked questions
+
+**How many teaching hours is IB DP Business Management?**
+Total recommended teaching hours are 150 at SL and 240 at HL. These cover the five units, the business management toolkit, research time for the pre-released statement and the internal assessment.
+
+**What are the five units of IB Business Management?**
+The units are Unit 1 Introduction to business management, Unit 2 Human resource management, Unit 3 Finance and accounts, Unit 4 Marketing, and Unit 5 Operations management.
+
+**Which unit has the most HL only content?**
+Unit 5, Operations management, has the highest concentration, with five of its nine sub-topics HL only. It runs to 15 hours at SL but 45 hours at HL.
+
+**Which sub-topics are HL only in IB Business Management?**
+The HL only sub-topics are 2.5 Organizational culture, 2.7 Industrial/employee relations, 3.6 Efficiency ratio analysis, 3.9 Budgets, 4.3 Sales forecasting, 4.6 International marketing, and 5.3, 5.6, 5.7, 5.8 and 5.9 in Operations management.
 
 ## Official syllabus
 

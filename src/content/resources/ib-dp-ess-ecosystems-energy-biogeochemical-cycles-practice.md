@@ -24,9 +24,9 @@ description: "11 original IB DP ESS questions on 2.1-2.3 with marked answers: Li
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -231,6 +231,23 @@ how they are assessed.
 - [Printable IB DP ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Which IB ESS syllabus sections do these practice questions cover?**
+They cover sections 2.1 to 2.3 of Topic 2 Ecology: individuals, populations, communities and ecosystems; energy and biomass; and biogeochemical cycles. They follow the subject brief for first assessment 2026 and suit both SL and HL.
+
+**What units should productivity answers have in IB ESS?**
+Productivity is a rate, so give energy or mass per unit area per unit time, such as kJ m⁻² yr⁻¹. Answers that miss the time component are a common way to lose marks.
+
+**What mistakes do students make in consumer productivity calculations?**
+A frequent error is subtracting respiration before removing faecal loss. Another is calculating ecological efficiency the wrong way up, which gives a value over 100%.
+
+**How should you present a Lincoln index answer?**
+Round the estimate to a whole number of animals and say that it is an estimate. Leaving a decimal number of animals without comment can lose a mark.
+
+**How do you explain why a population stops growing?**
+Use a negative feedback loop rather than just saying "resources run out". Link rising density to less food, more disease or predation, and the resulting changes in birth and death rates.
 
 ## Official syllabus
 

@@ -227,6 +227,23 @@ The cell number grows exponentially. Real tumours grow more slowly because some 
 
 Test yourself next with the [practice questions](/resources/ocr-gcse-biology-non-communicable-disease-cardiovascular-treatment-practice/).
 
+## Frequently asked questions
+
+**What is a non-communicable disease?**
+A non-communicable disease cannot be passed from one person to another and involves no pathogen. Most are long-lasting and multifactorial, caused by an interaction of inherited, lifestyle and environmental factors.
+
+**What is the difference between a stent and a coronary bypass?**
+A stent is a wire mesh tube expanded inside a narrowed coronary artery to hold it open, with quick recovery. A coronary bypass joins a length of blood vessel around the blocked section; it is major open surgery with a longer recovery but can treat several blockages.
+
+**What is the difference between a benign and a malignant tumour?**
+A benign tumour grows in one place, does not spread and is not cancer. A malignant tumour invades neighbouring tissue, and its cells can break off, travel in the blood and form secondary tumours elsewhere.
+
+**Is cancer inherited?**
+Most cancers start with changes in body cells during a lifetime and are not passed to children. Inherited variants can raise the risk, but they are only one of several interacting factors.
+
+**Is this topic Higher Tier only in OCR GCSE Biology A (J247)?**
+No. Statements B6.3r to B6.3u are not in bold in the J247 specification, so non-communicable disease, cardiovascular treatment, lifestyle and cancer are tested in both Foundation and Higher Tier papers.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018, published by OCR.

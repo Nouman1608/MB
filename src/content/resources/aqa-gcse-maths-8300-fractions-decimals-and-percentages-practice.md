@@ -157,6 +157,20 @@ Is the manager correct? Show your working. **[6]**
 - Rounding an intermediate multiplier and getting a final answer that is not exact.
 - Giving a yes/no judgement without the two figures it depends on.
 
+## Frequently asked questions
+
+**How do you order fractions, decimals and percentages?**
+Convert every value to a decimal, pad them to the same number of decimal places, compare them, and then write the answer using the original values given in the question.
+
+**How do you convert a recurring decimal to a fraction?**
+Let x equal the decimal, multiply by a power of 10 so the recurring tails line up, subtract the two equations and solve for x. This is Higher tier content in AQA GCSE Maths 8300.
+
+**What is the most common mistake with fractions in ratio questions?**
+Using the wrong denominator. In a ratio 2 : 5, red is 2/5 of yellow but 2/7 of the total, so read carefully whether the question asks for a fraction of the total or of the other part.
+
+**Which AQA GCSE Maths content references cover fractions, decimals and percentages?**
+Section 3.1.2 covers N10 (fraction and decimal conversions, including recurring decimals at Higher tier), N11 (fractions in ratio problems) and N12 (fractions and percentages as operators).
+
 ## Next steps
 
 - [Fractions, decimals and percentages revision notes](/resources/aqa-gcse-maths-8300-fractions-decimals-and-percentages-revision-notes/)

@@ -229,6 +229,23 @@ The **International Monetary Fund (IMF)** is an international organisation of me
 - Listing causes with no chain to a shift in demand or supply.
 - Saying intervention always works without mentioning reserves.
 
+## Frequently asked questions
+
+**How does a central bank raise the value of its currency?**
+It can sell foreign currency from its reserves to buy its own currency, raising demand, or raise interest rates to attract portfolio inflows. Reserves are finite, so intervention suits short-lived swings rather than a fundamental imbalance.
+
+**What are the advantages and disadvantages of a fixed exchange rate?**
+A fixed rate gives stability and certainty, lowers risk for trade and investment and can discipline inflation. But it needs large reserves, ties interest rates to defending the peg and cannot adjust automatically to shocks.
+
+**How does a depreciation affect firms and consumers?**
+Exporters gain price competitiveness or higher margins, while importers and firms using imported inputs face higher costs. Consumers pay more for imported goods and foreign holidays, and borrowers with foreign-currency debts lose.
+
+**What is a managed float?**
+In a managed float the market sets the exchange rate, but the central bank intervenes to smooth or steer it. It reduces extreme swings while keeping some flexibility, but needs reserves and can leave policy unclear.
+
+**Which part of the OxfordAQA 9640 specification covers exchange rates?**
+Section 3.4.2.2 of the OxfordAQA International AS and A-level Economics (9640) specification, which is extra International A2 content, covers determination, speculation, intervention, exchange rate systems, effects and the role of the IMF.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, first teaching September 2020, published by OxfordAQA: section 3.4.2.2.

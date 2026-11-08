@@ -219,6 +219,20 @@ The anode product is the same in each pair because the halide wins in concentrat
 - Describing chlorine's test as "turns litmus red" without the bleaching.
 - Leaving out the fume cupboard or the reason for it in the lead(II) bromide experiment.
 
+## Frequently asked questions
+
+**What is the difference between the anode and the cathode?**
+The anode is the positive electrode, where anions arrive and oxidation (loss of electrons) happens. The cathode is the negative electrode, where cations arrive and reduction (gain of electrons) happens.
+
+**What are the products of electrolysing molten and aqueous sodium chloride?**
+Molten sodium chloride gives sodium at the cathode and chlorine at the anode. Concentrated sodium chloride solution gives hydrogen at the cathode and chlorine at the anode, leaving sodium hydroxide in solution.
+
+**Why does dilute sulfuric acid give twice as much hydrogen as oxygen?**
+Balancing the half-equations for the same four electrons gives 2 H₂ at the cathode for every 1 O₂ at the anode. Equal moles of gas have equal volumes at the same temperature and pressure, so the hydrogen volume is twice the oxygen volume.
+
+**What does OIL RIG mean?**
+OIL RIG stands for Oxidation Is Loss, Reduction Is Gain, referring to electrons. It is how you explain whether an electrode reaction in Edexcel International GCSE Chemistry (4CH1) is oxidation or reduction.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Chemistry (4CH1), Specification, Issue 3, September 2024, published by Pearson Education Limited. Topic 1: Principles of chemistry, sub-topic (i) Electrolysis, statements 1.55C–1.60C.

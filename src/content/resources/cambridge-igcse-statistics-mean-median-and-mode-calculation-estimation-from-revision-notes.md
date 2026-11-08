@@ -169,6 +169,20 @@ Short examples:
 - Giving a grouped mean or median without the word "estimate".
 - Forgetting that a given mean means a given total, and trying to guess the missing value.
 
+## Frequently asked questions
+
+**How do you combine the means of two groups?**
+Add the two group totals and divide by the total number of values. Never average the two means directly unless the groups are the same size.
+
+**When should you use n/2 and when (n + 1)/2 for the median?**
+Use (n + 1)/2 for a list or an ungrouped frequency table. Use n/2 for a grouped distribution, a cumulative frequency graph and interpolation.
+
+**How do you find the modal class when class widths are unequal?**
+Choose the class with the highest frequency density, where frequency density = frequency ÷ class width, rather than the highest frequency.
+
+**What boundaries do you use for discrete grouped data?**
+For classes such as 1–5, 6–10 and 11–15, use the boundaries 0.5, 5.5, 10.5 and 15.5 when you interpolate, not the class limits.
+
 ## Official syllabus
 
 These notes follow Topic 4, Measures of central tendency (outcomes 4.1 to 4.4), of the Cambridge IGCSE Statistics 0479 syllabus for examination in 2027, published by Cambridge University Press & Assessment (Cambridge International Education).

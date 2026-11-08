@@ -321,6 +321,20 @@ For 6a x 7 = 4b9: the units digit of 7 x (units digit) is 9, which needs 7 x 7 =
 - Reversing the steps of a number puzzle in the original order instead of the opposite order.
 - Forgetting to carry in a missing-digit sum, then not checking the answer by the inverse.
 
+## Frequently asked questions
+
+**How do you test whether a large number is prime?**
+Check whether it is divisible by each prime up to its square root. If none of them divides it exactly, the number is prime, because factors come in pairs and one of each pair is at most the square root.
+
+**Is a number's prime factorisation always the same?**
+Yes. Every whole number above 1 has exactly one prime factorisation, apart from the order of the factors, so different factor trees always end at the same primes.
+
+**What is the order of operations in OCR GCSE Maths?**
+Work out brackets first, then powers, roots and reciprocals, then multiplication and division from left to right, and finally addition and subtraction from left to right. A fraction bar or the line over a root sign acts like a bracket.
+
+**How do you solve an "I'm thinking of a number" problem?**
+Write the steps in the order given, then undo them in reverse order using inverse operations. For "double, add 9, divide by 5 gives 7", work 7 × 5 = 35, 35 − 9 = 26 and 26 ÷ 2 = 13.
+
 ## Official syllabus
 
-OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), published by OCR (Cambridge OCR): sections 1.01a, 1.02a to 1.02c, 1.03a and 1.04a.
+OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), published by OCR (Oxford Cambridge and RSA Examinations): sections 1.01a, 1.02a to 1.02c, 1.03a and 1.04a.

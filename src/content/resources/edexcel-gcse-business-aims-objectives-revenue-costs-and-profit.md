@@ -224,6 +224,20 @@ A price rise lowers break even output and widens the margin of safety, if custom
 - Calling the gap between price and variable cost the profit, when fixed costs have not yet been covered.
 - Giving a break even or margin of safety figure with no units.
 
+## Frequently asked questions
+
+**What is the difference between a business aim and a business objective?**
+A business aim is a long-term, general goal: where the owner wants the business to be. A business objective is a more specific target, usually with a number and a date, that moves the business towards its aim.
+
+**Why do aims and objectives differ between businesses?**
+Reasons include the stage of the business, the owner's motives, its size and ownership, the type of business and conditions in the market. Aims also change over time.
+
+**How does a price rise affect break even?**
+A price rise makes the revenue line steeper, lowering the break even level of output and widening the margin of safety, as long as customers keep buying at the new price.
+
+**What should I do if break even output is not a whole number?**
+Round up to the next whole unit, because a business cannot sell part of a product and rounding down would leave it just short of covering its costs.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. The subject content covered is in Theme 1 (Investigating small business), under Topic 1.3 (Putting a business idea into practice): items 1.3.1 and 1.3.2.

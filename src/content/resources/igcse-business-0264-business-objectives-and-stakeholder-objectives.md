@@ -208,6 +208,20 @@ For a question that asks you to justify a decision, work through four steps.
 
 Next, test yourself with the [practice questions](/resources/igcse-business-0264-business-objectives-and-stakeholder-objectives-practice/).
 
+## Frequently asked questions
+
+**What is a business objective?**
+A business objective is a target that a business sets itself and tries to reach, such as survival, growth, profit or market share.
+
+**Why are objectives important to a business?**
+Objectives give direction, guide decision making, set a target to measure success against, help motivate and co-ordinate staff, and tell stakeholders such as lenders what the business is trying to achieve.
+
+**Who are the internal and external stakeholders of a business?**
+Internal stakeholders are owners, managers and employees. External stakeholders include customers, suppliers, lenders, the government and the local community.
+
+**What are typical stakeholder conflicts?**
+Owners want low costs and high profit while employees want higher wages, and owners want higher prices while customers want lower prices or better quality. Conflicts arise because stakeholders want different things from the same limited money.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press and Assessment (Cambridge International Education). This guide follows section 1.5, including the formula for market share in the syllabus list of formulas and ratios.

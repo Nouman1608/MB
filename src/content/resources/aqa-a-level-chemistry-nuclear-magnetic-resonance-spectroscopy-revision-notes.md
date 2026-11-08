@@ -244,6 +244,23 @@ The CH₃ (3H) has 2 neighbouring H, so it is a **triplet**. Ratio 2 : 3.
   ester group is bonded to O).
 - Forgetting to check the final structure against **every** peak, ratio and splitting pattern.
 
+## Frequently asked questions
+
+**Why is ¹³C NMR simpler than ¹H NMR?**
+At this level, ¹³C spectra show one line per carbon environment with no splitting, and the wide δ range means little overlap. ¹H spectra also give integration and splitting patterns to interpret.
+
+**Can you use ¹³C peak heights to count carbon atoms?**
+No. Do not try to read the number of carbons from ¹³C peak heights. The number of peaks gives the number of carbon environments, and each δ value shows the type of carbon.
+
+**How do you tell an aldehyde from a ketone using NMR?**
+Both show a C=O carbon at about δ 190–220 in ¹³C NMR, but only an aldehyde has a ¹H peak at δ 9–10. These approximate ranges are not from the AQA booklet, so always use the Chemistry Data Booklet in the exam.
+
+**Why is CHCl₃ unsuitable as an NMR solvent?**
+CHCl₃ contains a hydrogen atom that would give a large peak in a ¹H spectrum. CDCl₃ and other deuterated solvents, or CCl₄ with no H atoms, are used instead.
+
+**Which techniques are combined to confirm a structure in AQA A-level Chemistry 7405?**
+Mass spectrometry gives Mr and the molecular formula, infrared shows the functional groups present, and NMR shows the carbon or hydrogen environments. Check the final structure against every peak, ratio and splitting pattern.
+
 ## Official syllabus
 
 AQA AS and A-level Chemistry (7404/7405) specification, version 1.2, July 2026, for AS and A-level

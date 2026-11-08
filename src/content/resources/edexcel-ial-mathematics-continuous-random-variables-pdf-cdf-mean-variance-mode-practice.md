@@ -164,6 +164,20 @@ f(x) = kx for 0 ≤ x < 2, f(x) = (2k/3)(5 − x) for 2 ≤ x ≤ 5, and f(x) = 
 - Missing an end-point mode, or not checking a stationary point is a maximum.
 - Rounding too early, or giving a decimal where an exact value is requested.
 
+## Frequently asked questions
+
+**How do you find an unknown constant in a probability density function?**
+Integrate the pdf over its whole interval, including every piece if it is piecewise, and set the total equal to 1. Then check that f(x) is never negative with your value.
+
+**What makes a function a valid probability density function?**
+It must satisfy two conditions: f(x) ≥ 0 for every x, and the total area under f(x) equals 1. Address both conditions when asked to show or explain validity.
+
+**What is the formula for the variance of a continuous random variable?**
+Var(X) = E(X²) − [E(X)]². Writing E(X²) − E(X) without squaring the mean is a common mistake.
+
+**Which unit covers continuous random variables in Edexcel IAL Maths?**
+Continuous random variables are section 2 (topics 2.1 to 2.5) of Unit S2 in Pearson Edexcel International A Level Mathematics (YMA01).
+
 ## Next steps
 
 - Revise from the [revision notes](/resources/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode-revision-notes/).

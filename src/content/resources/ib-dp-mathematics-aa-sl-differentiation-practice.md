@@ -34,11 +34,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-5-8"
 description: "11 original IB DP Maths AA differentiation questions on limits, tangents, the chain, product and quotient rules and optimisation, with marked answers."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -201,6 +201,20 @@ Numerator = 2x² + 4 − 4x² − 2x = −2x² − 2x + 4 [1]
 - [Printable syllabus checklist](/checklists/ib/ib-dp/mathematics-analysis-and-approaches/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Why should you rewrite terms like 3/x or √x before differentiating?**
+The power rule needs terms written as powers of x, so rewrite 3/x as 3x⁻¹ and √x as x^(1/2) first. Differentiating them unrewritten is a common source of errors.
+
+**What is the most common chain rule mistake?**
+Missing the derivative of the inside function, especially for ln(ax + b) and e^(kx). Differentiate the outer function, keep the inside unchanged, then multiply by the derivative of the inside.
+
+**How do you interpret a derivative in context?**
+Give its value with units and say what it measures, such as the rate at which temperature changes per minute. A positive value means the quantity is increasing and a negative value means it is decreasing.
+
+**Do you have to show working when using a GDC for differentiation in IB Maths AA?**
+Yes. On Paper 2 of IB DP Mathematics: Analysis and Approaches, write the expression you are evaluating before giving the GDC value, so that method marks are available.
 
 ## Official syllabus
 

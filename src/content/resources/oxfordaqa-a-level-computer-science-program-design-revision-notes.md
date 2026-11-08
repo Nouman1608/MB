@@ -221,6 +221,23 @@ For a month number from 1 to 12: normal 7; boundary 1 and 12 (accept), 0 and 13 
 - Listing an advantage of the structured approach with no reason, such as "easier" without saying why.
 - Naming "speed" as an evaluation criterion instead of efficiency in time and memory.
 
+## Frequently asked questions
+
+**What is the difference between a hierarchy chart and a structure chart?**
+Both show the modules of a program and which module calls which. A structure chart also shows the data passed between modules, such as parameters and return values.
+
+**What is the difference between abstraction and decomposition?**
+Abstraction removes unnecessary details from a problem, asking "what can I leave out?". Decomposition breaks a problem into smaller sub-problems, asking "what smaller jobs is this made of?".
+
+**What are the three features of the structured approach in OxfordAQA 9645?**
+The features to name are modularised programming, with one module per task; parameters in and return values out; and local variables, or block scope where the language supports it.
+
+**Will you be asked to write pseudocode in the 9645 exam?**
+No. You must understand pseudocode and convert it to program code, but the specification says you will not be asked to write pseudocode. Writing pseudocode when the question asks for program code loses marks.
+
+**What are the evaluation criteria for a software system?**
+The specification lists correctness, efficiency and maintainability. Name efficiency in terms of processing time and memory rather than just "speed".
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.3 Program design.

@@ -244,6 +244,20 @@ Plum-pudding model replaced by the nuclear model; later the neutron, then measur
 - Writing β⁺ or electron-capture equations without the neutrino, or with an antineutrino.
 - Naming fission and fusion regions the wrong way round on the binding energy per nucleon graph.
 
+## Frequently asked questions
+
+**How do you find half-life from a graph of ln A against time?**
+Since ln A = ln A₀ − λt, a graph of ln A against t is a straight line with gradient −λ and intercept ln A₀. The decay constant is minus the gradient, and the half-life is ln 2/λ.
+
+**How do you convert atomic mass to nuclear mass?**
+Subtract the mass of the electrons: nuclear mass = atomic mass − Z × 0.000549 u. Binding energy calculations need nuclear mass, not atomic mass.
+
+**Why does electron diffraction give a better nuclear radius than alpha scattering?**
+Electrons are leptons and do not feel the strong force, so electron diffraction measures the radius directly. Alpha closest-approach distances give only an upper limit for the radius.
+
+**What decay does a proton-rich nucleus undergo?**
+A nucleus below the line of stability on an N-Z graph has too many protons and decays by beta-plus emission or electron capture. In both, Z decreases by 1 and N increases by 1.
+
 ## Official syllabus
 
 AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026 (AS and A-level exams June 2016 onwards), published by AQA. Section 3.8 Nuclear physics (A-level only).
@@ -257,4 +271,3 @@ AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026 (AS
   <img src="https://img.marlbridge.com/a-physics-nuclear-physics--09-aphy-nuclear-radius.webp" width="900" height="1110" alt="Nuclei with A = 4, 64 and 216 have radii 1.9, 4.8 and 7.2 fm from R = 1.2 A^(1/3) fm. R plotted against the cube root of A is a straight line of gradient R0. Mass and volume both scale with A, so every nucleus has the same density, about 2.3 x 10^17 kg per cubic metre." loading="lazy">
   <figcaption>Nuclear radius grows as the cube root of A, so nuclear density is constant.</figcaption>
 </figure>
-

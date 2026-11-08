@@ -247,6 +247,20 @@ Overall: C₆H₆ + E⁺ → C₆H₅E + H⁺.
 - Showing the hydrogen halide adding to give the less stable carbocation.
 - Closing the horseshoe over all six carbons of the benzene intermediate.
 
+## Frequently asked questions
+
+**Why is every Brønsted–Lowry base also a Lewis base?**
+A Brønsted–Lowry base accepts H⁺ by donating a lone pair to it, which is what a Lewis base does. Not every Lewis acid is a Brønsted–Lowry acid: BCl₃, for example, has no H⁺ to give.
+
+**Is SN2 stereospecific?**
+Yes. In SN2 the nucleophile attacks from the side opposite the halogen, flipping the other three groups so the configuration is inverted. SN1 is not stereospecific, because the planar carbocation can be attacked on either face.
+
+**How do you predict the major product of HX adding to an unsymmetrical alkene?**
+The major product comes from the more stable carbocation, and carbocation stability is tertiary > secondary > primary because of the positive inductive effect of alkyl groups. This is HL content in IB DP Chemistry Reactivity 3.4.12.
+
+**Why does benzene undergo substitution rather than addition?**
+Addition would destroy benzene's delocalised π system, which is energetically costly. Substitution keeps the delocalised ring, so benzene reacts with electrophiles by electrophilic substitution.
+
 ## Official syllabus
 
 This guide follows the *Diploma Programme Chemistry guide* (International Baccalaureate Organization), first assessment 2025, published February 2023, sub-topic Reactivity 3.4, understandings 3.4.6 to 3.4.13 (additional higher level).

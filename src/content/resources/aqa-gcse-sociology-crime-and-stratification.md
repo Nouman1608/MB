@@ -12,13 +12,13 @@ order: 2
 syllabusTopics:
   - qualification: "gcse"
     topic: "paper-2-crime-and-stratification-8192"
-description: "Crime, deviance, social control, and the theories of social stratification -- the full content of Paper 2 for AQA GCSE Sociology (8192), covering sections 3.5 and 3.6 of the specification."
+description: "AQA GCSE Sociology (8192) Paper 2 guide to crime and deviance, social control and stratification, sections 3.5 and 3.6, with a worked comparison."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers **Paper 2 The Sociology of Crime and Deviance and
@@ -167,6 +167,23 @@ they represent and be able to state their argument in one sentence.
 
 [Crime, Deviance and Social Stratification revision notes](/resources/gcse-sociology-crime-stratification-revision-notes/) |
 [Crime, Deviance and Social Stratification practice questions](/resources/gcse-sociology-crime-stratification-practice/)
+
+## Frequently asked questions
+
+**What is the difference between crime and deviance?**
+Deviance is broader than crime: a deviant act breaks social norms but need not be illegal, while crime breaks the law.
+
+**What is the dark figure of crime?**
+The dark figure is crime that goes unreported or unrecorded, which is why official statistics may under-represent the true crime rate.
+
+**How do Marx and Weber differ on class?**
+Marx's account centres on ownership of the means of production. Weber adds status and party as separate dimensions of stratification alongside class.
+
+**How do you compare functionalist and Marxist views of stratification?**
+State each position accurately, then set them side by side: Davis and Moore see inequality as a fair outcome of meritocratic competition, while Marxists see it as the product of unequal ownership and power.
+
+**Is research methods part of AQA GCSE Sociology Paper 2?**
+Yes. Research methods (section 3.7) is examined across both papers of AQA GCSE Sociology (8192) rather than as a standalone section.
 
 ## Official syllabus
 

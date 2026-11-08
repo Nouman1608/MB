@@ -295,6 +295,23 @@ servicing, and ends with a clear recommendation.
 - Saying "accept" for a negative NPV because total inflows exceed the outlay before discounting.
 - Listing factors with no final decision.
 
+## Frequently asked questions
+
+**Which investment appraisal methods are in AQA A-Level Accounting 7127?**
+Section 3.13 names two methods: payback and net present value (NPV). Both work with cash flows, not profit, and the section is assessed on Paper 2.
+
+**Why is depreciation left out of investment appraisal cash flows?**
+Depreciation is a non-cash expense, and the asset's cost is already counted in the initial outlay, so including depreciation would count the cost twice. If a forecast profit is given after depreciation, add the depreciation back.
+
+**What is a sunk cost?**
+A sunk cost is money already spent, such as a feasibility study paid last month. It is not a relevant cash flow because the decision cannot change it.
+
+**How do you calculate payback with unequal cash inflows?**
+Build a cumulative cash flow column and find the year in which it turns positive. Then months into that year = (amount still to recover at the start of the year ÷ that year's cash inflow) × 12.
+
+**What does a positive net present value mean?**
+A positive NPV means the project earns more than the cost of capital and adds value, so it should be accepted on financial grounds. When choosing between projects, prefer the one with the higher positive NPV.
+
 ## Next steps
 
 Try the [practice questions](/resources/aqa-a-level-accounting-capital-investment-appraisal-practice/),

@@ -209,6 +209,20 @@ Judgement: the speed, the public announcement and the focus on customer safety a
 - Listing stakeholder groups without saying how each is affected.
 - Judging crisis management only by the final outcome.
 
+## Frequently asked questions
+
+**What is the difference between contingency planning and crisis management?**
+The difference is timing. Contingency planning happens before an event, preparing actions in advance, while crisis management happens during and after it, dealing with the event as it unfolds.
+
+**Does the OCR H431 specification give a formula for contingency planning?**
+No. The specification does not name a model or formula for this section, so calculations such as expected loss and checklists are standard ways of organising the thinking.
+
+**What are the disadvantages of contingency planning?**
+It costs money and management time even if the event never happens, cannot cover every event, can become out of date or untested, and may create false confidence.
+
+**Why should you be careful with hindsight when judging crisis management?**
+An outcome can be poor even when the decisions were sound, and the other way round, so judge the response against what was possible at the time.
+
 ## Official syllabus
 
 This guide follows the *OCR A Level in Business (H431)* specification, Version 2.1 (January 2026), published by OCR, content heading Contingency planning and crisis management within Business objectives and strategy.

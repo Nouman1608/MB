@@ -184,6 +184,20 @@ Unit conversions: 1 MeV = 1.60 × 10⁻¹³ J; 1 fm = 10⁻¹⁵ m.
 - Mixing up mass defect (u) with binding energy (MeV).
 - Saying only "iron is stable" instead of comparing binding energy per nucleon before and after.
 
+## Frequently asked questions
+
+**What is the formula for nuclear radius?**
+The radius of a nucleus is R = R₀A^(1/3), where A is the nucleon number and R₀ is about 1.2 fm. A common error is using R = R₀A without the cube root.
+
+**Why do all nuclei have about the same density?**
+The volume of a nucleus, (4/3)πR₀³A, is proportional to A, and its mass is also roughly proportional to A. Mass divided by volume therefore does not depend on A, giving a density of about 2.3 × 10¹⁷ kg m⁻³.
+
+**What is the difference between mass defect and binding energy?**
+The mass defect is the total mass of the separate nucleons minus the mass of the nucleus. The binding energy is the energy equivalent of that mass defect, Δm c², and is the minimum energy needed to separate the nucleus into its nucleons.
+
+**How does electron diffraction measure the size of a nucleus?**
+High-energy electrons scattered by nuclei give a diffraction pattern with a central maximum and a first minimum at a measurable angle. The angle of the first minimum and the electron wavelength give the nuclear diameter.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), version 4.4, for International AS and A-level exams from May/June 2020 onwards, published by OxfordAQA. Sections 3.12.1 and 3.12.2.

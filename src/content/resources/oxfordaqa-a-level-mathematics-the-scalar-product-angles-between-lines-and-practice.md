@@ -170,6 +170,20 @@ Area = ½ × BC × AD = ½ × 9 × 6 = **27** [1] **[2]**
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which vectors do you use to find the angle between two lines?**
+Use the direction vectors of the lines, not their position vectors. The points on the lines do not affect the angle.
+
+**What is the most common mistake with the scalar product angle formula?**
+Forgetting to divide by |u||v|. The scalar product alone is not cos θ; use cos θ = (u.v) / (|u||v|).
+
+**How do you find the foot of the perpendicular from a point to a line?**
+Write the general point X on the line in terms of t, form PX, solve PX.d = 0 for t, then substitute t back to give X as a point.
+
+**Is the distance from a point to any point on a line the perpendicular distance?**
+No. The perpendicular distance is the length PX to the foot of the perpendicular, which is the shortest distance to the line.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, section P2.10 (Vectors), published by OxfordAQA. For International AS exams from May/June 2018 and International A-level exams from May/June 2019.

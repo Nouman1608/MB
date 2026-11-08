@@ -227,6 +227,20 @@ Neither is eliminated, so both are restricted to a smaller realized niche. X is 
 
 Condense this in the [revision notes](/resources/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and-revision-notes/), then try the [practice questions](/resources/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and-practice/). Return to the [course hub](/boards/ib/ib-dp/biology/) or the [checklist](/checklists/ib/ib-dp/biology/).
 
+## Frequently asked questions
+
+**What are the three oxygen tolerance groups in IB DP Biology B4.2?**
+Obligate anaerobes cannot use oxygen and are harmed by it, facultative anaerobes grow with or without oxygen (usually better with it), and obligate aerobes need oxygen for aerobic respiration.
+
+**How do archaea obtain energy?**
+Archaea are metabolically diverse: different species obtain energy for ATP production from light, from oxidising inorganic chemicals, or from oxidising carbon compounds.
+
+**How do herbivores and plants adapt to each other?**
+Herbivores have chewing or piercing mouthparts and may have enzymes that detoxify plant poisons. Plants resist with physical structures such as thorns, spines and tough leaves, and chemical defences such as toxic alkaloids and tannins.
+
+**Does competitive exclusion always eliminate a species?**
+No. When two species compete for the same limiting resource, one may be eliminated, or both may survive with each restricted to part of its fundamental niche.
+
 ## Official syllabus
 
 IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Sub-topic B4.2, Ecological niches (Form and function: Ecosystems).

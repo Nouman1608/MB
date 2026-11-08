@@ -290,6 +290,23 @@ Second reminder: a pH investigation gives the times for starch to disappear as 1
 - Mixing up transcription (making mRNA in the nucleus) with translation (making the protein in the cytoplasm).
 - Suggesting every enzyme works best at 37 °C or at pH 7.
 
+## Frequently asked questions
+
+**What is a nucleotide?**
+A nucleotide is the monomer of DNA, made of a sugar, a phosphate group and one base. The four bases are A, T, G and C.
+
+**What does tRNA do?**
+tRNA carries amino acids to the ribosome, where they are joined in the order set by the mRNA. Protein synthesis is Higher Tier only content in OCR GCSE Biology A (J247).
+
+**What does denatured mean?**
+A denatured enzyme has had its shape, including the active site, permanently altered, so the substrate no longer fits and the enzyme cannot work.
+
+**What is metabolism?**
+Metabolism is all the chemical reactions in a cell or organism. Enzymes catalyse these reactions.
+
+**What is a triplet?**
+A triplet is a group of three bases in DNA that codes for one amino acid.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), for first assessment in 2018, published by OCR: module B1.2.

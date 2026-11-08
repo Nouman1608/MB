@@ -302,6 +302,20 @@ Worked reminder: Birchwood Bikes must choose between promoting a current mechani
 - Describing employment law in detail you are unsure of instead of keeping to general impact.
 - Forgetting units or the working in a calculation.
 
+## Frequently asked questions
+
+**What is span of control?**
+Span of control is the number of subordinates who report directly to a manager. It is not the number of people in the whole business, which is a common wrong definition.
+
+**What is the difference between a job description and a person specification?**
+A job description sets out what the job involves, such as its title, duties and responsibilities. A person specification sets out what the candidate needs to have, such as skills, qualifications and experience.
+
+**What are the main reasons a business recruits?**
+In OCR GCSE Business (J204) the three reasons are to replace employees who leave, because of business growth, and to fill skill gaps.
+
+**Why does employee retention matter?**
+Retained staff already know the business and its customers, and keeping them saves the time and cost of recruiting and training replacements. Motivation helps retention, and both support the business's performance.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Business J204, Version 2.0 (January 2026), published by OCR, section 3 People.

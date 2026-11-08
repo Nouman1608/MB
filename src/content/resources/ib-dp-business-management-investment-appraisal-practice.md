@@ -134,6 +134,20 @@ These questions cover section 3.8, Investment appraisal, of the IB *Business man
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What are common mistakes on investment appraisal calculations?**
+Frequent errors include leaving payback as a decimal when years and months are asked for, dividing ARR by total returns instead of the capital cost, giving total present value instead of NPV, and using the wrong year's discount factor. Missing units such as years, percentages or dollars also loses marks.
+
+**Is NPV on the SL syllabus for IB Business Management?**
+No. In section 3.8 of the IB Business management guide, payback period and average rate of return are studied at SL and HL, while net present value is HL only.
+
+**Will I be given the investment appraisal formulas in the exam?**
+The guide says a copy of its formulae will be provided for the examination, and HL candidates are given a discount table for NPV. You still need to know the steps for each method and show your working.
+
+**How should you write a recommendation on an investment?**
+Use the figures you have calculated, compare them with any benchmark in the case, and include a counter-point such as the reliability of forecasts. A recommendation based on one number with no counter-argument is a common way to lose marks.
+
 ## Official syllabus
 
 Source: *Business management guide*, first assessment 2024, International Baccalaureate Organization. Section 3.8, Investment appraisal; formulae and discount table as printed in the guide.

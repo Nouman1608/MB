@@ -140,6 +140,23 @@ These questions cover section 3.4.3.2, Factors that affect economic development,
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on economic development questions?**
+Common losses are using the Harrod-Domar formula the wrong way up, describing the Kuznets curve without the cause of each half, writing "unrealistic" as a limitation without a reason, and writing about growth when the question asks about development.
+
+**How do you calculate the terms of trade?**
+Divide the export price index by the import price index and multiply by 100. Reversing the division is a common slip that gives the wrong direction of change.
+
+**How should I evaluate whether one development factor matters more than another?**
+Pick a side and justify it, while showing that the factors interact. A strong final view names what the judgement hinges on, such as diversification or the binding constraint in the case, rather than ending with a one-line summary.
+
+**Is debt always harmful to development?**
+No. Calling debt always harmful, or deficits always helpful, loses marks; borrowing helps if it is invested at returns above the interest cost, and is risky when it is in foreign currency or export earnings fall.
+
+**Which OxfordAQA 9640 section do these questions cover?**
+They cover section 3.4.3.2, Factors that affect economic development, of the OxfordAQA International AS and A-level Economics (9640) specification, which is International A2 content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, section 3.4.3.2, first teaching September 2020 (OxfordAQA).

@@ -294,6 +294,20 @@ A strong answer weighs both sides.
 - Treating a rise in sales as a rise in market share.
 - Placing external economies inside the firm.
 
+## Frequently asked questions
+
+**What does section 3.5 of Cambridge O Level Economics 2281 cover?**
+Section 3.5, Firms, covers the classification of firms (3.5.1), small firms (3.5.2), causes and forms of growth (3.5.3), mergers (3.5.4) and economies and diseconomies of scale (3.5.5).
+
+**What challenges do small firms face?**
+Small firms can find it hard to raise finance because lenders see them as risky, compete on price with large rivals, recruit and keep skilled staff, and survive a fall in demand with few reserves.
+
+**Why do firms grow?**
+Firms grow to earn higher profit, gain market power, cut costs through economies of scale, spread risk across more products or markets, survive against bigger rivals and meet the ambitions of owners and managers.
+
+**What are the advantages of a conglomerate merger?**
+A conglomerate merger spreads risk over unrelated activities, so a fall in demand in one industry may be offset by another. The drawbacks are that managers lack knowledge of the new industry and there are few cost savings from scale.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281, syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International). Section 3.5, Firms.

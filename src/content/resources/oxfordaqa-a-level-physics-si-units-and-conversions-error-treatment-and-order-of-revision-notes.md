@@ -233,6 +233,20 @@ Whenever a quantity is found from a gradient or intercept, carry the percentage 
 - Drawing extreme lines that miss some error bars.
 - Giving an estimate as an exact figure with no stated assumptions.
 
+## Frequently asked questions
+
+**What SI prefixes do you need for OxfordAQA A-level Physics (9630)?**
+You need T (10¹²), G (10⁹), M (10⁶), k (10³), c (10⁻²), m (10⁻³), μ (10⁻⁶), n (10⁻⁹), p (10⁻¹²) and f (10⁻¹⁵), and to work with standard form.
+
+**What is the difference between accuracy and precision?**
+A result is accurate when it lies close to the true value. Readings are precise when repeated values agree closely with each other, with a small spread.
+
+**What is the difference between fractional and percentage uncertainty?**
+Fractional uncertainty is Δx / x. Percentage uncertainty is the same ratio multiplied by 100%. Absolute uncertainty, Δx, has the same unit as x.
+
+**How do you estimate a physical quantity?**
+State your assumptions, use sensible round values and give the answer as an order of magnitude. An estimate given as an exact figure with no stated assumptions loses marks.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Physics (9630)*, Version 4.4, section 3.1 Measurements and their errors, for International AS and A-level exams from May/June 2020 onwards. Published by OxfordAQA.

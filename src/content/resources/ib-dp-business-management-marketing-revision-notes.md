@@ -12,13 +12,13 @@ order: 4
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-business-unit-4"
-description: "Condensed revision notes on IB Diploma Programme Business Management Unit 4 -- marketing planning, sales forecasting, market research and the seven Ps of the marketing mix."
+description: "Condensed IB DP Business Management Unit 4 revision notes on marketing planning, sales forecasting, market research and the seven Ps, with a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Unit 4 is tied for the largest unit by teaching hours at SL (30 hours, tied with Unit 3) and runs to 35 hours at HL (tied with Unit 2), and
@@ -155,6 +155,20 @@ mix is tailored to local culture, language, legal requirements and consumer beha
 marketing objective (e.g. a sales or market share target) should be set so that achieving it
 directly supports the business's wider corporate objectives (e.g. growth or profit maximisation),
 rather than being pursued in isolation from what the business as a whole is trying to achieve.
+
+## Frequently asked questions
+
+**What calculations are in IB Business Management Unit 4?**
+The two calculations in 4.1 are market share, which is the business's sales divided by total market sales times 100, and market growth, which is the change in market sales divided by the earlier period's sales times 100.
+
+**Does sales forecasting involve a calculation in IB Business Management?**
+Section 4.3, Sales forecasting (HL only), asks for the benefits and limitations of sales forecasting rather than a calculation. Calculating a trend uses simple linear regression from the HL toolkit.
+
+**What is STP in marketing?**
+STP stands for segmentation, targeting and positioning, which a marketing plan needs before setting the marketing mix. Segmentation divides the market into groups, targeting chooses which to serve, and positioning decides how the product should be seen against rivals.
+
+**What is a common mistake on the seven Ps?**
+Listing all seven Ps without linking any of them to the specific business or product in the question is a frequent error. Explain why the relevant Ps matter for that business instead.
 
 ## Official syllabus
 

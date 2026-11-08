@@ -356,6 +356,23 @@ explains the modelling cycle (OT3) that this question uses.
 - Leaving out the x-range after eliminating a trigonometric parameter.
 - Rounding t before using it to find x in a parametric model.
 
+## Frequently asked questions
+
+**How do you find the gradient of ax + by + c = 0?**
+Rearrange to y = −(a/b)x − c/b, so the gradient is −a/b. Writing a/b or −b/a is a common error.
+
+**How do you find the centre of a circle through two given points?**
+The centre lies on the perpendicular bisector of the chord joining them. Find that line, then intersect it with any other line the centre is known to lie on.
+
+**How do you interpret a straight-line model in AQA 7357?**
+The gradient is a rate of change and the intercept is a starting value. Interpret both in context with units, and state where the model stops working.
+
+**Why use parametric equations in a model?**
+In a model the parameter is usually time, so the parametric form tells you where something is at each moment, which a Cartesian equation cannot.
+
+**Which AQA 7357 papers can test coordinate geometry?**
+Section C is listed under Paper 1, but Papers 2 and 3 can assess any Paper 1 content, so these skills can earn marks on all three papers.
+
 ## Next steps
 
 Condense this into the [revision notes](/resources/aqa-a-level-mathematics-coordinate-geometry-in-the-plane-revision-notes/),

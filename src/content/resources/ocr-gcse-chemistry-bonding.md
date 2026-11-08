@@ -310,6 +310,23 @@ Later work showed that atomic number (proton number) is the true ordering princi
 
 After this guide, go to the revision notes and then the practice set (both linked in the opening section). The [purity and separating mixtures guide](/resources/ocr-gcse-chemistry-purity-and-separating-mixtures/) covers C2.1, and the [J248 exam preparation page](/resources/ocr-gcse-chemistry-exam-preparation/) covers the whole course. The [diagnostics](/diagnostics/) show what still needs work.
 
+## Frequently asked questions
+
+**How do you write the formula of an ionic compound from a dot and cross diagram?**
+Work out the charge on each ion from the electrons transferred, then combine the ions so the charges balance to zero. For example, in calcium fluoride one Ca²⁺ ion balances two F⁻ ions, giving CaF₂.
+
+**What are the limitations of dot and cross diagrams?**
+Dot and cross diagrams show where electrons came from, but real electrons are identical, so the dots and crosses are only bookkeeping. They are also flat, so they do not show the 3D shape of a molecule.
+
+**Why did Mendeleev swap the order of some elements?**
+Mendeleev ordered elements by atomic weight but swapped some pairs so that elements sat with others of similar properties. Ordering by atomic number later explained these swaps, which is why the modern table is in atomic number order.
+
+**Why does reactivity decrease down group 7?**
+Group 7 atoms react by gaining one electron. Going down the group, the incoming electron is further from the nucleus and attracted less strongly, so reactivity decreases.
+
+**Is sodium chloride made of molecules?**
+No. A sodium chloride crystal is a giant ionic lattice in which each ion is surrounded by oppositely charged ions, and the formula gives only their ratio. Describing it as molecules or as having intermolecular forces is an error.
+
 ## Official syllabus
 
 OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification, Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Sub-topic C2.2 Bonding.

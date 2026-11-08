@@ -30,9 +30,9 @@ syllabusTopics:
     subtopic: "hypothesis-tests-cambridge-alevel-maths"
 description: "12 original Cambridge 9709 Paper 6 practice questions with mark-by-mark answers on Poisson, PDFs, confidence intervals and hypothesis tests."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -172,6 +172,23 @@ Related: the [study guide](/resources/a-level-maths-9709-probability-statistics-
 - The significance level quoted as the Type I error probability for a discrete test.
 - The Type II probability calculated under H₀ instead of the stated true value.
 - Conclusions stated as certain, or with no context.
+
+## Frequently asked questions
+
+**What topics come up on Cambridge 9709 Paper 6 Probability & Statistics 2?**
+These questions cover the Poisson distribution and its approximations, linear combinations of random variables, continuous random variables, sampling and confidence intervals, and hypothesis tests with Type I and Type II errors.
+
+**Why do variances add even when you subtract two random variables?**
+For independent X and Y, Var(aX + bY) = a²Var(X) + b²Var(Y), and squaring the coefficient makes a negative b positive. So Var(X − Y) = Var(X) + Var(Y).
+
+**What is the probability of a Type I error in a Poisson or binomial test?**
+It is the actual probability of the rejection region when H₀ is true, which is usually below the stated significance level. Quoting the significance level itself is a common mistake in discrete tests.
+
+**How should you write the conclusion to a hypothesis test in 9709?**
+State it in context and without certainty, for example "there is evidence at the 5% level that the mean has decreased" or "there is insufficient evidence that…". Hypotheses must use the parameter (μ, p or λ), not the sample value.
+
+**How do you change the Poisson mean for a different interval?**
+Scale λ in proportion to the interval. A rate of 0.8 faults per metre, for example, gives a mean of 2.4 for a 3-metre length.
 
 ## Next steps
 

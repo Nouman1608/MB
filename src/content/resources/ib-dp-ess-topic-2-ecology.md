@@ -12,13 +12,13 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-ecology"
-description: "Ecosystem structure, energy flow, nutrient cycling and ecosystem change -- IB Diploma Programme ESS Topic 2, the largest syllabus topic at both SL and HL, and how it applies Topic 1's systems concepts to real ecosystems."
+description: "Ecosystem structure, energy flow, nutrient cycling and ecosystem change in IB DP ESS Topic 2 Ecology, and how it applies Topic 1 systems ideas to ecosystems."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
 ---
 
 This guide covers **Topic 2 -- Ecology**, for IB Diploma Programme
@@ -154,6 +154,20 @@ can appear in Paper 1.
   when writing about Topic 2 content.
 - HL: practise ecological efficiency calculations specifically, not
   only descriptive content.
+
+## Frequently asked questions
+
+**Why do food chains rarely have more than four or five trophic levels?**
+Energy transfer between trophic levels is inefficient, with most energy lost as heat at each stage. Too little energy is left to support further levels.
+
+**What is the difference between energy flow and nutrient cycling?**
+Energy flows through an ecosystem in one direction and is ultimately lost as heat. Nutrients cycle and are reused, so treating the two as the same process is a common error.
+
+**What is a trophic cascade?**
+A trophic cascade is a chain of indirect effects that spreads through an ecosystem's trophic levels after a disturbance to one part, such as removing a top predator. Prey may increase and then over-consume their own food source.
+
+**Does the IB list the subtopics for ESS Topic 2?**
+The public subject brief gives only Topic 2's name and teaching hours. The subtopic breakdown is in the IB's subject guide, so check your school's copy for the official subtopics.
 
 ## Official syllabus
 

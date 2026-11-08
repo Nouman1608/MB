@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Global business (YBS11) -- Practice Questions"
+title: "Edexcel International A Level Business: Global business (YBS11) -- Practice Questions"
 seoTitle: "Edexcel IAL Business Global Business Practice Questions"
 resourceType: "practice-questions"
 subject: "business"
@@ -104,6 +104,20 @@ Links: [study guide](/resources/edexcel-ial-business-global-business/), [revisio
 - Course hub: [Edexcel A Level Business](/boards/edexcel/a-level/business/) and the [printable checklist](/checklists/edexcel/a-level/business/).
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**What do these Global business practice questions cover?**
+They cover Unit 4 Global business of Pearson Edexcel International A Level Business (YBS11), sections 4.3.1 to 4.3.4: globalisation, global markets and expansion, global marketing, and global industries and companies.
+
+**What are common mistakes on global business questions?**
+Mixing up the direction of an exchange rate change, confusing off-shoring with outsourcing or a tariff with a quota, and giving only the benefits or only the costs of multinationals to a host country.
+
+**How do you answer an analyse question in Unit 4?**
+Build a chain of reasoning that links a cause to its consequences for the firm in the data, rather than listing factors. General descriptions of globalisation without the firm in the case earn little.
+
+**What should follow a calculation in a global business question?**
+If the question asks for a comparison, compare the figures after calculating them and say what the difference means for the business's decision.
 
 ## Official syllabus
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business, Specification, Issue 1, September 2017, Unit 4: Global business (first assessment June 2020).

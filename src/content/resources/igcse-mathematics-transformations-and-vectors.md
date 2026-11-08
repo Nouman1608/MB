@@ -16,14 +16,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "transformations-and-vectors-cambridge-igcse-maths"
     subtopic: "vector-geometry-cambridge-igcse-maths"
-description: "Reflection, rotation, enlargement and translation, plus vector notation, magnitude and vector geometry -- the Core and Extended content of Topic 7 Transformations and Vectors for Cambridge IGCSE Mathematics 0580, 2025-2027 series."
+description: "Core and Extended Topic 7 for Cambridge IGCSE Maths 0580 (2025-2027): reflection, rotation, enlargement, translation, vectors, magnitude and vector geometry."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This guide covers **Topic 7 Transformations and Vectors**, for
@@ -179,6 +179,20 @@ base vectors.
 - Practise expressing vectors in a diagram in terms of two given base
   vectors, then using that form to show parallelism or collinearity
   (Extended).
+
+## Frequently asked questions
+
+**Do Core candidates get combined transformations in 0580?**
+No. Core questions (C7.1) do not involve combinations of transformations, while Extended questions (E7.1) may.
+
+**Can an enlargement have a negative scale factor?**
+Yes, at Extended tier. A negative scale factor places the image on the opposite side of the centre and turns it upside down. Core enlargements use positive and fractional scale factors only.
+
+**Are vectors in the Core syllabus for Cambridge IGCSE 0580?**
+Column vectors are used to describe translations at Core, but vectors in two dimensions, magnitude and vector geometry (E7.2 to E7.4) are Extended only.
+
+**How are marks given for describing a transformation?**
+The name of the transformation earns a mark of its own and each required detail earns a further mark, so a correctly named transformation with a missing detail earns only part of the marks.
 
 ## Official syllabus
 

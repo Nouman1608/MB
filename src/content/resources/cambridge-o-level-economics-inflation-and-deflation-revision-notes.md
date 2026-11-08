@@ -222,6 +222,20 @@ Evaluation checklist: (1) policy matches the cause; (2) time lags; (3) cost to g
 - Using demand-side policies for cost-push inflation without noting the limit.
 - Ending an evaluation without a judgement.
 
+## Frequently asked questions
+
+**How is the Consumer Prices Index calculated?**
+Each category's price index is multiplied by its weight, the results are added and the total is divided by the sum of the weights. The base year has an index value of 100.
+
+**What is the difference between demand-pull and cost-push inflation?**
+Demand-pull inflation happens when total demand grows faster than the economy's ability to supply. Cost-push inflation starts on the supply side, when firms face higher costs such as wages, raw materials or energy and pass them on in higher prices.
+
+**Who gains and who loses from inflation?**
+Savers earning less interest than the inflation rate and lenders at fixed rates lose, and workers lose if pay rises more slowly than prices. Borrowers with fixed repayments can gain.
+
+**Do demand-side policies work against cost-push inflation?**
+Only partly. Raising interest rates or taxes reduces demand, but it does little about the cause of cost-push inflation, such as a world energy price rise, and it may cut output further.
+
 ## Official syllabus
 
 Source: the Cambridge O Level Economics (2281) syllabus for the 2026 examinations (version 2), from Cambridge University Press & Assessment; this page follows section 4.8.

@@ -162,6 +162,20 @@ Links: [study guide](/resources/ib-dp-biology-production-and-the-carbon-cycle-pr
 - Take all free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What units are used for primary production?**
+Primary production is measured as mass of carbon per square metre per year, usually g m⁻² yr⁻¹; units that leave out "per area" or "per time", or use energy units, tend to lose credit.
+
+**How do you decide whether an ecosystem is a carbon sink or a source?**
+Subtract both autotroph respiration and heterotroph and decomposer respiration from photosynthesis; a positive net uptake means a sink and a negative value means a source.
+
+**Is any of IB DP Biology C4.2.15 to C4.2.22 HL only?**
+No. Statements C4.2.15 to C4.2.22 on production, the carbon cycle, sinks and sources, the Keeling Curve and recycling apply at both SL and HL; C4.2 has no additional higher level content.
+
+**How should you explain the two features of the Keeling Curve?**
+Explain them separately: the annual fluctuation comes from photosynthesis and respiration in the northern hemisphere seasons, while the long-term rise comes from combustion of fossil fuels.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Statements C4.2.15 to C4.2.22.

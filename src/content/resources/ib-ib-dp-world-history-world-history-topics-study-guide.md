@@ -52,16 +52,16 @@ description: "The twelve IB DP History world history topics, from medieval socie
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the current subject guide for the named examples and regions required in each topic and the exact Paper 2 format, as teachers choose the case studies within each topic."
+reviewNote: "Check the current subject guide for the named examples and regions required in each topic and the exact Paper 2 format, as teachers choose the case studies within each topic. 2026-11-08 recheck: corrected essay marking (holistic markbands, two questions per topic), added FAQ."
 publishedDate: 2026-11-08
 featured: false
 ---
 
-The world history topics are the breadth part of IB History. There are twelve, covering societies, wars, rulers, states and ideologies from the eighth century to the end of the twentieth. You do not learn everything: your teacher selects case studies from different regions within each topic you study, and you answer essay questions that ask you to compare, evaluate and write thematically across those examples.
+The world history topics are the breadth part of IB History. There are twelve, covering societies, wars, rulers, states and ideologies from the eighth century to the end of the twentieth. You do not learn everything: your school chooses two of the twelve topics, and your teacher selects examples from different regions within each, and you answer essay questions that ask you to compare, evaluate and write thematically across those examples.
 
 ## Where this fits in the course
 
-These topics are assessed in Paper 2, which asks for essays on topics you have studied. Essays are marked out of 15 against criteria for focus, knowledge, application and argument. For a typical sitting you answer two essays, each on a different topic, in 1 hour 30 minutes. That is 30 marks in 90 minutes, or 3 minutes per mark, so each 15 mark essay should take about 45 minutes including planning. Check the current guide for the exact format and for which topics are open to you.
+These topics are assessed in Paper 2, which asks for essays on topics you have studied. Each essay is marked out of 15 using five holistic markbands, which reward focus on the question, accurate knowledge, analysis, evaluation of perspectives and a reasoned conclusion. Paper 2 sets two questions on each of the twelve topics, and you answer two essays, each on a different topic, in 1 hour 30 minutes. That is 30 marks in 90 minutes, or 3 minutes per mark, so each 15 mark essay should take about 45 minutes including planning.
 
 ## The twelve topics
 
@@ -140,3 +140,17 @@ Common command terms include **compare and contrast**, **evaluate**, **discuss**
    *Any two from rise to power, methods of control, ideology and the limits of control.*
 8. Why should your examples come from more than one region when a question asks for it?
    *The question requires comparison across regions, and a single region does not meet that requirement.*
+
+## Frequently asked questions
+
+**How many world history topics do I study?**
+Two of the twelve, chosen by your school, each taught through examples from more than one region of the world.
+
+**How are Paper 2 essays marked?**
+Each essay is marked out of 15 using five markbands; the top band (13–15) needs a focused, well-structured, well-supported argument that evaluates different perspectives.
+
+**How long should each Paper 2 essay take?**
+About 45 minutes: 30 marks in 90 minutes is 3 minutes per mark, including about five minutes of planning.
+
+**Can both essays come from the same topic?**
+No. Your two essays must be on two different world history topics.

@@ -24,11 +24,11 @@ syllabusTopics:
     subtopic: "plant-disease-aqa-gcse-biology"
 description: "Condensed AQA GCSE Biology 8461 notes on pathogens, the seven named diseases, defences, vaccines, drugs and plant disease, with a self-test."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 These are condensed recall notes for section **4.3 Infection and response** of the AQA GCSE Biology (8461)
@@ -356,6 +356,23 @@ and **aphids** (insects).
 - Giving the order of drug testing wrongly, or omitting "low dose first" and "optimum dose" in clinical trials.
 - (Higher tier only) Describing monoclonal antibody production without the hybridoma cell or without cloning a single cell.
 - Treating aphids as a pathogen, or learning extra named plant diseases the specification does not require.
+
+## Frequently asked questions
+
+**What are the three ways pathogens spread?**
+By direct contact, by water and by air.
+
+**How does vaccination protect against disease?**
+A dead or inactive form of the pathogen stimulates white blood cells to produce antibodies. If the same live pathogen enters later, white blood cells respond quickly to produce the correct antibodies, so the pathogen is destroyed before it causes illness.
+
+**What is the difference between an antibody and an antitoxin?**
+An antibody binds to a specific pathogen; an antitoxin neutralises the toxins released by bacteria.
+
+**Can antibiotics treat viral diseases?**
+No. Antibiotics kill bacteria and cannot treat viral diseases such as colds, flu or measles, because viruses live and reproduce inside cells.
+
+**What are the stages of drug testing?**
+Preclinical testing on cells, tissues and live animals, then clinical trials on healthy volunteers and patients at a very low dose first, with further trials to find the optimum dose. Results are published only after peer review.
 
 ## Official syllabus
 

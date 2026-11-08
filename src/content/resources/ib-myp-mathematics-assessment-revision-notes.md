@@ -9,11 +9,11 @@ syllabusCodes: ["MYP Mathematics"]
 order: 1
 description: "Condensed recall notes on the four assessment criteria, standard vs extended levels, and eAssessment structure for IB Middle Years Programme Mathematics."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-26
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 Condensed for quick recall of how the subject is assessed. For the full subject overview, use the
@@ -62,8 +62,9 @@ top of the standard curriculum, preparing students for DP-level mathematics.
 
 ## If your school offers MYP eAssessment (year 5)
 
-A 2-hour on-screen exam, three tasks mapping to the same four criteria: knowing and understanding,
-investigating patterns, and applying mathematics in real-life contexts.
+A 2-hour on-screen exam with three tasks: knowing and understanding, investigating patterns, and
+applying mathematics in real-life contexts. Criterion C, communicating, is assessed across all three
+tasks, so all four criteria are covered.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-myp-mathematics-assessment-revision-notes--09-eassessment-structure.webp" width="900" height="980" alt="A clock showing a 2-hour on-screen exam in MYP year 5. Three tasks map to the same criteria used in class: task 1 knowing and understanding (criterion A), task 2 investigating patterns (B), task 3 applying mathematics in real-life contexts (D)." loading="lazy">
@@ -109,6 +110,23 @@ Both DP mathematics courses (Analysis and Approaches, and Applications and Inter
 6. Why is timed practice worth including in revision even for a student confident at spotting patterns?
 
 **Answers:** 1. Knowing and understanding; Investigating patterns; Communicating; Applying mathematics in real-life contexts. 2. Both cover the same four criteria, but extended mathematics adds further topics and greater depth, preparing students for DP-level maths. 3. By matching their work against the level descriptor that best fits, not by totalling exam marks. 4. Applying mathematics in real-life contexts. 5. Because the level descriptors reward depth and quality of mathematical thinking within a pathway's scope, not the sheer quantity of content covered — both pathways are assessed against the identical criteria. 6. Because criterion B rewards justifying a generalisation, not just spotting it, and timed conditions test whether that justification can be produced under exam-style time pressure, not only during untimed classwork.
+
+## Frequently asked questions
+
+**What are the four assessment criteria in IB MYP Mathematics?**
+The four criteria are A, Knowing and understanding; B, Investigating patterns; C, Communicating; and D, Applying mathematics in real-life contexts. They are equally weighted.
+
+**How is each MYP Mathematics criterion scored?**
+Each criterion is judged against level descriptors and given a best-fit level, not a total of exam marks. The descriptor bands run from 1 to 8, and the subject-group guide also recognises a level of 0, so each criterion ranges from 0 to 8 and the subject total from 0 to 32.
+
+**Is there a Standard Level and Higher Level in MYP Mathematics?**
+No. MYP Mathematics has no SL/HL split; instead schools offer standard and extended mathematics, which are assessed against the same four criteria, with extended mathematics adding topics and depth.
+
+**How long is the MYP Mathematics eAssessment?**
+Where a school offers MYP eAssessment in year 5, it is a 2-hour on-screen exam. It samples the same criteria used in classroom assessment.
+
+**Why does Criterion C matter if your answer is right?**
+Criterion C, Communicating, rewards correct notation, clear working and suitable representations independently of getting the right answer, so weak communication can lower your level even when the mathematics is correct.
 
 ## Official syllabus
 

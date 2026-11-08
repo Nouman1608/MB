@@ -116,6 +116,20 @@ Evaluate which proposal the owner should choose. **[10]**
 - Take the free [10-minute diagnostics](/diagnostics/) to find weak topics.
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between market development and new product development?**
+Market development sells existing products in a new market, while new product development launches new products in an existing market. Mixing these up is one of the most common errors in AQA 7132 Ansoff answers.
+
+**How do you calculate the net gain from a marketing campaign?**
+Work out the extra contribution from the extra sales, then subtract the cost of the campaign or investment. Forgetting to subtract the cost is a frequent mistake.
+
+**Does a higher profit margin mean higher total profit?**
+Not necessarily. Total profit depends on volume as well as margin, so a strategy with a lower margin but much higher sales can earn more. Calculating margin while ignoring volume, or the reverse, loses marks.
+
+**How should you use Bowman's strategic clock in an answer?**
+Place the business on the clock and explain why customers would, or would not, stay with it at that combination of price and perceived benefits. Placing it without that explanation earns little credit.
+
 ## Official syllabus
 
 AQA AS and A-level Business specification (7131 and 7132), section 3.8 Choosing strategic direction (A-level only).

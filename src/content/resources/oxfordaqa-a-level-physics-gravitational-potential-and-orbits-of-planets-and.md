@@ -281,6 +281,20 @@ Every geosynchronous satellite of the Earth has this radius, whatever its mass.
 
 Try the [practice questions](/resources/oxfordaqa-a-level-physics-gravitational-potential-and-orbits-of-planets-and-practice/), then condense with the [revision notes](/resources/oxfordaqa-a-level-physics-gravitational-potential-and-orbits-of-planets-and-revision-notes/).
 
+## Frequently asked questions
+
+**How do you derive the orbital speed of a satellite?**
+Set the gravitational force equal to the centripetal force: GMm/r² = mv²/r. Cancelling m and one r gives v = √(GM/r), so the speed does not depend on the satellite's mass and larger orbits are slower.
+
+**What does T² ∝ r³ mean for satellites?**
+For a circular orbit T² = (4π²/GM) r³, which is Kepler's third law. If the orbit radius doubles, the period increases by a factor of about 2.83 and the speed falls by a factor of about 0.707.
+
+**Why does a satellite move more slowly in a higher orbit even though energy was supplied?**
+Raising the orbit makes the total energy −GMm/(2r) less negative, but the extra energy goes into potential energy. The kinetic energy GMm/(2r) falls as r increases, so the satellite ends up slower.
+
+**Is gravitational potential in OxfordAQA International AS Physics?**
+No. Sections 3.7.3 and 3.7.4 sit in section 3.7 of the OxfordAQA International AS and A-level Physics (9630) specification, which is marked International A-level only.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for exams from May/June 2020 onwards, published by OxfordAQA. Sections 3.7.3 and 3.7.4.

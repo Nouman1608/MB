@@ -319,6 +319,23 @@ Esters are **volatile**: they evaporate easily at room temperature. They have **
 
 Move on to the [condensed notes](/resources/oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions-revision-notes/) for fast recall, then try the [practice questions](/resources/oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions-practice/). For command words, see the [OxfordAQA chemistry exam preparation guide](/resources/oxfordaqa-igcse-chemistry-exam-preparation/); a [free diagnostic](/diagnostics/) will flag your weaker areas. Related: [acids, bases and salts](/resources/oxfordaqa-igcse-chemistry-acids-bases-and-preparing-salts/).
 
+## Frequently asked questions
+
+**Why do alcohols form neutral solutions even though they contain OH?**
+The –OH group in an alcohol is covalently bonded and does not release H⁺ or OH⁻ ions into water, so the solution is neutral. Calling an alcohol a base or an alkali because of its OH is a common error.
+
+**What is the difference between oxidising ethanol and burning it?**
+Oxidising ethanol with a chemical oxidising agent or by microbial action keeps the two-carbon chain and gives ethanoic acid. Combustion breaks the molecule down completely to carbon dioxide and water.
+
+**Why are carboxylic acids weak acids?**
+Only a small fraction of carboxylic acid molecules ionise in water, CH₃COOH ⇌ CH₃COO⁻ + H⁺. A strong acid such as hydrochloric acid ionises completely, so at the same concentration it releases far more H⁺ ions and has a lower pH.
+
+**How is ethyl ethanoate made?**
+Ethanol reacts with ethanoic acid, with an acid catalyst, to give ethyl ethanoate and water. The reaction is reversible, so you never collect the full calculated mass of ester.
+
+**What are esters used for?**
+Esters are volatile and have distinctive, often fruity, smells, so they are used in flavourings and perfumes.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. Content taught here: 3.10.3 Organic compounds – their structure and reactions (alcohols, carboxylic acids, esters).

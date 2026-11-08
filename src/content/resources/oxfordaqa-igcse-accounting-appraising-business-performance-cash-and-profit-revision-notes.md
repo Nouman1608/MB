@@ -244,6 +244,22 @@ Name the stakeholder where the question does. A lender looks first at liquidity 
   <figcaption>Kesterwick grew but its margins and return all fell.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How should I write an appraisal sentence?**
+Use the pattern result, comparison, reason, judgement: state the figure and its direction, compare it with another year, give a likely reason and say what it means for the business.
+
+**Is a higher current ratio always better?**
+No. A very high current ratio can mean idle cash or too much inventory, so a higher ratio is not always better for the business.
+
+**Which ratios does a lender look at first?**
+A lender looks first at liquidity and ROCE. Name the stakeholder where the question does, and pick the ratios that matter most to that reader.
+
+**Do drawings and loan repayments affect profit?**
+No. Drawings and loan repayments reduce cash but do not change profit, which is one reason a profitable business can have a falling bank balance.
+
+**What is profit from operations?**
+Profit from operations is gross profit minus expenses, before loan interest. If there is no loan interest, it equals profit for the year.
 
 ## Official syllabus
 

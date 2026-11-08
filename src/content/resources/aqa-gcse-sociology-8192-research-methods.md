@@ -38,9 +38,9 @@ description: "Study guide to AQA GCSE Sociology 8192 section 3.7: research desig
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers section 3.7, Sociological research methods, of the AQA GCSE Sociology (8192) specification, Version 1.2 (June 2026), for GCSE exams 2019 onwards. Section 3.7 has seven content rows: research design, qualitative and quantitative methods, different types of data, primary and secondary sources, interpretation of data, practical issues and ethical issues. It is not a separate paper. Paper 1 (The sociology of families and education) and Paper 2 (The sociology of crime and deviance and social stratification) both assess "relevant areas of social theory and methodology"; each is a 1 hour 45 minute written exam worth 100 marks and 50% of the GCSE.
@@ -213,6 +213,23 @@ Covert observation is the classic dilemma. It may give the most valid picture of
 ## Where to go next
 
 Test yourself with the [revision notes](/resources/aqa-gcse-sociology-8192-research-methods-revision-notes/), then the [practice questions](/resources/aqa-gcse-sociology-8192-research-methods-practice/). For methods in topic context, see [Families and Education](/resources/aqa-gcse-sociology-families-and-education/) and [Crime and Stratification](/resources/aqa-gcse-sociology-crime-and-stratification/).
+
+## Frequently asked questions
+
+**What is a systematic sample?**
+A systematic sample takes every nth name on a list. To pick 100 pupils from a roll of 1,200, you would take every 12th name, though a list ordered in a pattern can create bias.
+
+**What is mixed methods research?**
+Mixed methods research combines quantitative and qualitative methods in one study, such as a questionnaire to find how common something is, then interviews to find out why. It allows triangulation but costs more time and money.
+
+**What is the difference between primary and secondary data?**
+Primary data are collected first-hand by the researcher for their own study. Secondary data already exist, produced by someone else for another purpose, such as official statistics.
+
+**Are official statistics useless because they are secondary data?**
+No. Their usefulness depends on the topic and the definitions used; they are quick, cheap and can cover a whole country, but were made for another purpose.
+
+**Which section of AQA GCSE Sociology covers research methods?**
+Research methods is section 3.7 of the AQA GCSE Sociology (8192) specification, which has seven content rows covering research design, methods, types of data, sources, interpretation, and practical and ethical issues.
 
 ## Official syllabus
 

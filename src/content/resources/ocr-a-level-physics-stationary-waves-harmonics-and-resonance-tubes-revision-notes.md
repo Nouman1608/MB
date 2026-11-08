@@ -197,6 +197,20 @@ Use this skeleton for any "explain" question on a string or tube.
 
 Try the [practice questions](/resources/ocr-a-level-physics-stationary-waves-harmonics-and-resonance-tubes-practice/) next.
 
+## Frequently asked questions
+
+**What is the difference between a node and an antinode?**
+A node is a point of zero amplitude where the two waves are always in antiphase and cancel. An antinode is a point of maximum amplitude where they are always in phase and add.
+
+**How far apart are adjacent nodes?**
+Adjacent nodes, and adjacent antinodes, are half a wavelength (λ/2) apart. A node and the next antinode are λ/4 apart.
+
+**Do all points on a stationary wave have the same amplitude?**
+No. The amplitude varies with position, from zero at a node to a maximum at an antinode. All points between two adjacent nodes oscillate in phase.
+
+**Which section of OCR A Level Physics A covers stationary waves?**
+It is section 4.4.4 (Stationary waves), statements (a) to (g), of OCR H556. The resonance tube method links to practical activity group 5.
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556), Version 3.0 (March 2026), for first assessment in 2017, published by OCR. Section 4.4.4, Stationary waves.

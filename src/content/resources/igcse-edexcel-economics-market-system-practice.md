@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "the-market-system-edexcel-igcse-economics"
-description: "Original exam-style practice questions with full worked answers on demand, supply, elasticity, market failure and government intervention, built as four compulsory questions with mixed sub-question types, matching the specification's paper structure."
+description: "Original practice questions with worked answers on demand, supply, elasticity, market failure and intervention for Edexcel International GCSE Economics 4EC1."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -141,3 +141,17 @@ This specification's papers are not divided into lettered sections. Instead, eac
 - Explaining a market change without stating all four steps: which curve shifts, which direction, the new equilibrium, and the effect on both price and quantity.
 - Confusing capital (machinery and equipment) with money in the factors of production.
 - Confusing economies of scale (falling costs from growth) with diseconomies of scale (rising costs from excessive growth).
+
+## Frequently asked questions
+
+**How do you explain the effect of a change on a market for full marks?**
+Cover four steps: which curve shifts, in which direction, the new equilibrium, and the effect on both price and quantity. Leaving out any step loses marks.
+
+**Does a good's price decide whether its demand is elastic?**
+No. Saying elasticity depends on whether a good is "cheap" is a common error. Explain using the factors that affect elasticity, such as the number of close substitutes, whether the good is a necessity, and the share of income spent on it.
+
+**How do you classify a good using income elasticity of demand?**
+A positive YED means a normal good, and a YED above 1 means a luxury normal good. A negative YED means an inferior good, whose demand falls as income rises.
+
+**How should you evaluate a government policy on market failure in Edexcel IGCSE Economics?**
+Explain how the policy works, give the arguments for and against using the features of the market in the question, and finish with a judgement, which may suggest combining it with other policies.

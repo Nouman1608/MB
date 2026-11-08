@@ -247,6 +247,23 @@ A recommendation for Selworth: investigate material usage first, check whether t
 - Giving a cause without saying which variance it explains, or stating a cause that contradicts the signs.
 - Ending with a list of variances and no recommendation.
 
+## Frequently asked questions
+
+**What is a standard cost card?**
+A standard cost card collects the predetermined values for one unit of output: the standard quantity and price of materials, the standard hours and rate of labour, the fixed overhead absorbed, and the standard selling price and profit.
+
+**How do you calculate the labour rate and efficiency variances?**
+Labour rate variance = (standard rate − actual rate) × actual hours. Labour efficiency variance = (standard hours for actual output − actual hours) × standard rate.
+
+**What are the fixed overhead variances in Cambridge 9706?**
+The fixed overhead variances are expenditure, volume, capacity and efficiency. Capacity plus efficiency must equal the volume variance.
+
+**How is the sales volume variance valued in Cambridge 9706?**
+In this guide the sales volume variance uses the standard profit per unit after fixed overhead has been absorbed: (actual units sold − budgeted units) × standard profit per unit.
+
+**Which section of Cambridge 9706 covers standard costing?**
+Standard costing is section 4.2, A Level content within the cost and management accounting topic of Cambridge International AS and A Level Accounting 9706.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Accounting 9706 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education), section 4.2 Standard costing.

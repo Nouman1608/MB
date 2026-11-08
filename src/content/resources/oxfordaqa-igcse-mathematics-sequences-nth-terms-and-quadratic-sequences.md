@@ -255,6 +255,20 @@ For 150: 3n² − n − 148 = 0 has discriminant 1 + 4(3)(148) = 1777. It is not
 
 Use the revision notes for a condensed version, then try the practice questions, and tick off what you have covered on the checklist.
 
+## Frequently asked questions
+
+**What is an arithmetic progression?**
+An arithmetic progression is a sequence where every term differs from the previous one by a fixed step, the common difference d. It is also called a linear sequence.
+
+**How do you find the nth term of a quadratic sequence?**
+Find the second difference and halve it to get a. Subtract an² from each term, find the nth term bn + c of the linear remainder, and write an² + bn + c, testing it on the first two terms.
+
+**What is the nth term of 46, 40, 34?**
+It is 52 − 6n, because the common difference is −6 and 46 − (−6) = 52. Writing 6n + 52 is a common sign error.
+
+**Which sequences topics are Extension only in OxfordAQA 9260?**
+In OxfordAQA International GCSE Mathematics (9260), generating terms, special number families, arithmetic progressions and linear nth terms are Core. Spotting and finding the nth term of quadratic sequences (A25 and A26) are Extension only.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.2.4, references A24, A25 and A26.

@@ -177,6 +177,20 @@ Heading with date [1]. Starts with 5,102 [1]. Adds 820 [1]. Deducts 1,650 [1]. C
 - Find your weak spots: the [free diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How do you correct an error of original entry?**
+An error of original entry puts the wrong figure in both accounts, so the correcting journal is for the difference between the wrong and right amounts, not the full figure. Journalising the full figure is a common error.
+
+**Where do unpresented cheques go?**
+Unpresented cheques and uncredited lodgements are timing differences, so they appear only on the bank reconciliation statement. Adjusting the cash book for them is a common way to lose marks.
+
+**How should a bank reconciliation statement be laid out?**
+Give it a heading and a date, start from the updated cash book balance (or the bank statement balance) and label the first and last lines clearly. Take care with signs when the account is overdrawn.
+
+**Is a dishonoured cheque shown on the bank reconciliation statement?**
+No. A dishonoured cheque is entered in the cash book, where it reduces the balance, because the bank has already removed it from the account. It does not belong on the reconciliation statement.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 3 Introduction to control processes, sections 3 Correction of errors and 4 Bank reconciliation statements, numbered 3.3 and 3.4 here.

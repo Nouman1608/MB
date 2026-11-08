@@ -20,11 +20,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-oscillations"
     subtopic: "a-damped-and-forced-oscillations-resonance"
-description: "Simple harmonic motion and its defining equation, energy exchange during SHM, and damped and forced oscillations and resonance, for Cambridge International AS & A Level Physics 9702."
+description: "Simple harmonic motion and a = −ω²x, energy in SHM, damped and forced oscillations and resonance: Topic 17, Oscillations, of Cambridge A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -243,6 +243,20 @@ damping decreases.
 - Energy interchange between kinetic and potential energy during SHM
 - E_K = ½mω²(x₀² − x²) and total energy E = ½mω²x₀²
 - Free vs damped vs forced oscillations, and the resonance amplitude peak
+
+## Frequently asked questions
+
+**How do you find the speed at a given displacement in SHM?**
+Use v = ±ω√(x₀² − x²), where x₀ is the amplitude. The speed is maximum, v₀ = ωx₀, at x = 0 and zero at x = ±x₀.
+
+**What is the total energy of an oscillator in SHM?**
+The total energy is E = ½mω²x₀², which stays constant in the absence of damping. The kinetic energy at displacement x is ½mω²(x₀² − x²), and the potential energy is ½mω²x².
+
+**What are the phase relationships between displacement, velocity and acceleration in SHM?**
+Velocity is a quarter-cycle (90°) ahead of displacement, and acceleration is in antiphase with displacement (180° out of phase).
+
+**How does damping affect a resonance curve?**
+Lighter damping gives a sharper, higher resonance peak, while heavier damping gives a flatter, lower one. Resonance still happens with damping present.
 
 ## Related resources
 

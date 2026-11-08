@@ -167,6 +167,20 @@ Cost on the debit side [1]. Provision of 19,520 on the credit side [1]. Bank 17,
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students usually lose marks on depreciation and disposal questions?**
+Common losses are leaving the residual value out of the straight line calculation, using cost instead of the opening net book value for reducing balance, and entering the net book value rather than cost and provision in the disposal account.
+
+**Is a large repair capital expenditure?**
+Not because of its size. Calling a repair or fuel cost capital because the amount is large is a common mistake; classify it by its purpose, not its cost.
+
+**What should I do if a question asks for depreciation in the year of sale?**
+Charge the part-year depreciation to the provision before you open the disposal account. Forgetting it when the question asks for it is a common mistake.
+
+**Which side do the balances go on in a provision for depreciation account?**
+The provision for depreciation has a credit balance. Putting it on the debit side of the provision account loses marks.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), specification version 1.2, first teaching 2024, first examined 2026, published by OxfordAQA. Section 3.3, Development of the accounting model.

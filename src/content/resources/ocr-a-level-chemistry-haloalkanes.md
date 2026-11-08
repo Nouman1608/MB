@@ -279,6 +279,20 @@ Scientists linked chlorine radicals to ozone loss in the 1970s, and measurements
 - Writing an overall ozone equation that still contains Cl• or ClO•.
 - Breaking a C–F bond in a CFC. UV breaks the weaker C–Cl bond.
 
+## Frequently asked questions
+
+**Which mechanism do you need for haloalkanes in OCR A Level Chemistry?**
+You need the nucleophilic substitution mechanism of aqueous alkali with a primary haloalkane, shown with curly arrows. The arrow goes from the lone pair on the hydroxide ion to the δ+ carbon.
+
+**Why do iodoalkanes hydrolyse fastest?**
+The C–I bond has the lowest bond enthalpy, so it breaks most easily. It is the least polar C–X bond, so polarity does not explain the rate trend.
+
+**Why were CFCs used?**
+CFCs are non-toxic, non-flammable and unreactive, so they were used as refrigerants, aerosol propellants and solvents.
+
+**How do nitrogen oxides break down ozone?**
+The NO radical catalyses ozone breakdown: •NO + O₃ → •NO₂ + O₂, then •NO₂ + O → •NO + O₂. The overall equation is O₃ + O → 2O₂.
+
 ## Official syllabus
 
 Source document: the OCR specification for A Level Chemistry A, code H432, in its Version 3.1 of May 2026 (first assessment 2017). This guide follows section 4.2.2 Haloalkanes, statements (a) to (e).

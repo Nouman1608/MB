@@ -24,9 +24,9 @@ description: "Condensed 9699 notes on intelligence and class in education: key t
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 These notes condense the [study guide for this unit](/resources/a-level-sociology-9699-intelligence-social-class-and-educational-attainment/); go there for full explanations and worked paragraphs.
@@ -174,6 +174,20 @@ They cover sections 6.1 (Intelligence and educational attainment) and 6.2 (Socia
 - Treating labelling and subcultures as inevitable. Always note that pupils can resist.
 - Writing about one factor only in an essay that asks you to weigh explanations.
 - Listing compensatory programmes with no judgement on whether they worked.
+
+## Frequently asked questions
+
+**Why is intelligence so hard to define in A Level Sociology?**
+There is no agreed definition: some psychologists see one general ability, g, while Gardner and Sternberg describe several kinds of intelligence. A test can only measure the version its designers chose, which is why defining intelligence as "what IQ tests measure" needs comment.
+
+**What is the difference between cultural deprivation and cultural capital?**
+Cultural deprivation explanations blame the home for lacking the attitudes, values and language schools need. Cultural capital, from Bourdieu, shifts the focus to the school, which rewards middle-class culture as if it were natural ability.
+
+**Did Bernstein say working-class speech is inferior?**
+No. Bernstein contrasted restricted and elaborated codes and denied that working-class speech is inferior, so claiming he did is a common way to lose marks in Cambridge 9699 Paper 3.
+
+**Which syllabus sections do these notes cover?**
+They cover sections 6.1 (Intelligence and educational attainment) and 6.2 (Social class and educational attainment) of the Cambridge International AS & A Level Sociology (9699) syllabus, both assessed on Paper 3, Education.
 
 ## Official syllabus
 

@@ -212,6 +212,23 @@ Growth of a whole plant from a small piece shows that many plant cells keep the 
 - Treating "pluripotent" and "totipotent" as the same. Totipotent cells can form any type of body cell and occur only briefly in early embryos.
 - Giving only advantages or only disadvantages in an "evaluate" answer.
 
+## Frequently asked questions
+
+**What is a gene mutation?**
+A gene mutation is an alteration to the order of bases in DNA. Mutations can arise spontaneously or be caused by mutagenic agents.
+
+**Which gene mutations usually have the biggest effect?**
+Additions, deletions and duplications that are not a multiple of three cause a frame shift, changing every triplet after them. A substitution changes one triplet at most, and an early stop codon gives a short polypeptide unlikely to work.
+
+**How can a change in amino acid sequence affect a protein?**
+If an amino acid changes, the primary structure changes. Different R groups can form different bonds, so the tertiary structure and function of the protein may change.
+
+**What does tissue culture of cauliflower explants show?**
+Growing a whole plant from a small piece shows that many plant cells keep the ability to divide and differentiate. The specification suggests it as an opportunity for aseptic technique.
+
+**What is the difference between totipotent and pluripotent cells?**
+Totipotent cells can form any type of body cell; pluripotent cells can form many, but not all, cell types. Treating the two as the same is a common error.
+
 ## Official syllabus
 
 Source: AQA, AS and A-level Biology (7401 and 7402), specification for first teaching 2015, version 1.5, sections 3.8.1 and 3.8.2.1.

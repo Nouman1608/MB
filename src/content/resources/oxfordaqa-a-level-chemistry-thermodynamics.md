@@ -353,6 +353,23 @@ T = –88 / –0.170 = 518 K
 Revise from the [revision notes](/resources/oxfordaqa-a-level-chemistry-thermodynamics-revision-notes/),
 then test yourself with the [practice questions](/resources/oxfordaqa-a-level-chemistry-thermodynamics-practice/).
 
+## Frequently asked questions
+
+**Is thermodynamics AS or A2 content in OxfordAQA 9620 Chemistry?**
+Section 3.1.8 Thermodynamics is International A2 physical chemistry, so it is International A-level only. It is assessed in Unit 3 (Inorganic 2 and Physical 2), and Unit 5 can draw on all content.
+
+**What does it mean if a Born–Haber lattice enthalpy is more exothermic than the perfect ionic model value?**
+The real lattice is held more strongly than pure electrostatic attraction predicts, which is evidence for covalent character. This comes from polarisation: the cation distorts the anion's electron cloud, most strongly with a small or highly charged cation and a large anion.
+
+**Why is the second electron affinity of oxygen endothermic?**
+Adding an electron to O⁻(g) means pushing a negative electron onto an ion that is already negative. The repulsion means energy must be supplied, so O⁻(g) + e⁻ → O²⁻(g) is endothermic.
+
+**How do you calculate an enthalpy of solution from lattice and hydration enthalpies?**
+Enthalpy of solution = lattice enthalpy of dissociation + the sum of the hydration enthalpies of the ions. Count a hydration enthalpy twice if the formula contains two of that ion, as for Cl⁻ in SrCl₂.
+
+**How do you find the temperature at which a reaction becomes feasible?**
+Set ΔG = 0 in ΔG = ΔH – TΔS, so T = ΔH/ΔS with ΔS converted to kJ K⁻¹ mol⁻¹ and T in kelvin. Then state whether the reaction is feasible above or below that temperature.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for

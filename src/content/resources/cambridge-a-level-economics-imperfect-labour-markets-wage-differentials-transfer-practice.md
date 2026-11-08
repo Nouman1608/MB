@@ -166,6 +166,20 @@ Learn the content first in the [study guide](/resources/cambridge-a-level-econom
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 imperfect labour market questions from past papers?**
+No. They are original practice questions covering outcomes 8.3.8 to 8.3.10 of the Cambridge International AS and A Level Economics 9708 syllabus: unions, minimum wages, monopsony, wage differentials, transfer earnings and economic rent. Use them alongside official past papers.
+
+**What are common mistakes with a wage floor above equilibrium?**
+A common error is using supply as employment when the floor is above equilibrium. Employment is read from the demand curve at the floor.
+
+**Where do you read the wage in a monopsony?**
+The monopsony employs where the marginal cost of labour equals MRP, then pays the wage on the supply curve at that employment. Reading the wage from the marginal cost column is a frequent slip.
+
+**How should you evaluate whether a minimum wage reduces employment?**
+End with a supported judgement that names the conditions it depends on, such as where the minimum wage is set and whether the employer is a monopsony. Writing "it depends" without naming the condition loses marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, Cambridge University Press & Assessment. Outcomes 8.3.8 to 8.3.10.

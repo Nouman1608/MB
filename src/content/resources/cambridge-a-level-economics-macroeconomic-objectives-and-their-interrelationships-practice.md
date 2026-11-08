@@ -148,6 +148,20 @@ These questions cover sections 10.1.1 and 10.2.1 to 10.2.5 of the Cambridge Inte
 - Try all the free [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 macroeconomic objectives questions from past papers?**
+No. They are original practice questions with worked answers covering sections 10.1.1 and 10.2.1 to 10.2.5 of the Cambridge International AS and A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**What are common mistakes in real wage and real growth calculations?**
+A frequent error is subtracting percentages where a ratio is needed, which gives only an approximation. Divide the growth factors instead, and keep extra digits until the final rounding step.
+
+**Does an 8% currency fall raise import prices by 8%?**
+No. A fall in the exchange rate does not raise import prices one for one; the rise in import prices is found from the reciprocal of the new rate. Treating it as a 1-for-1 rise is a common slip.
+
+**What are common mistakes with Phillips curve diagrams?**
+Common errors are drawing a sloping long-run Phillips curve or placing it at zero unemployment, and moving the short-run curve without saying what changed in expectations or costs.
+
 ## Official syllabus
 
 Cambridge International AS and A Level Economics (9708) syllabus for examination in 2026, 2027 and 2028, Cambridge University Press & Assessment, sections 10.1.1 and 10.2.1 to 10.2.5.

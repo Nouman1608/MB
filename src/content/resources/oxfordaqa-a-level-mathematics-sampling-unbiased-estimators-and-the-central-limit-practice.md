@@ -148,6 +148,20 @@ T₁ = (X₁ + X₂ + X₃)/3, T₂ = (X₁ + 2X₂ + 3X₃)/6, T₃ = (X₁ + X
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to find your next weak topic.
 - [Book a free trial class](/trial/) for help with estimation and sampling distributions.
 
+## Frequently asked questions
+
+**What divisor gives an unbiased estimate of the variance?**
+Divide by n − 1, not n. Using n is one of the most common ways to lose marks in this topic.
+
+**How do you standardise a sample mean?**
+Use z = (value − μ) / (σ/√n). Using σ instead of the standard error σ/√n gives the wrong probability.
+
+**How do you round a required sample size?**
+Always round up to the next whole number, then check the condition at that value. Rounding to the nearest integer can give a sample that is too small.
+
+**Why can you treat a sample mean as normal for a large sample?**
+Because of the Central Limit Theorem, not because the data are normal. Say that n is large, so X̄ is approximately normally distributed.
+
 ## Official syllabus
 
 These questions follow section S2.5 of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2 (International AS exams from May/June 2018, A-level from May/June 2019), published by OxfordAQA.

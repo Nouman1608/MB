@@ -12,11 +12,17 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "types-and-components-of-computer-systems"
+  - qualification: "igcse"
+    topic: "types-and-components-of-computer-systems"
+    subtopic: "hardware-and-software-0417"
+  - qualification: "igcse"
+    topic: "types-and-components-of-computer-systems"
+    subtopic: "the-main-components-of-computer-systems-0417"
 description: "Condensed recall notes on hardware, software, storage, networks, safety and the effects of ICT for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -43,7 +49,7 @@ Questions almost always ask *which device for this situation and why*. The answe
 | **Touchscreen** | Public kiosk — intuitive, no training, no loose parts to damage or steal |
 | **OMR** | Multiple-choice marking — reads pencil marks at high speed |
 | **OCR** | Converting printed documents into editable text |
-| **MICR** | Bank cheques — hard to forge and readable even when the cheque is dirty |
+| **RFID reader** | Hospital wristbands or stock tags — no line of sight needed, readable while the tag is moving or hidden |
 | **Sensors** | Monitoring and control — continuous automatic readings, no human error |
 | **Chip and PIN reader** | Payment — secure, encrypted |
 
@@ -123,8 +129,22 @@ The syllabus gives this topic exactly two subtopics, and exam questions are set 
 
 1. Distinguish system from application software, with two examples of each.
 2. Give three differences between RAM and ROM.
-3. Which input device suits a bank processing cheques, and why?
+3. Which input device suits a hospital reading patient wristband tags, and why?
 4. What does encryption actually achieve?
 5. Give two health risks and two safety risks, each with a prevention.
 
-**Answers:** 1. System software runs the computer — operating systems and device drivers; application software performs user tasks — word processors and browsers. 2. RAM is volatile, ROM is not; RAM holds data in current use, ROM holds boot instructions; RAM is writable, ROM is read-only. 3. MICR — the magnetic ink characters are difficult to forge and can be read reliably even if the cheque is dirty or creased. 4. It scrambles data so that anyone intercepting it cannot read it without the key; it does not prevent interception itself. 5. Health: RSI, prevented by wrist rests and breaks; eye strain, prevented by anti-glare screens and breaks. Safety: electrocution, prevented by not overloading sockets; trailing cables, prevented by cable ducts.
+**Answers:** 1. System software runs the computer — operating systems and device drivers; application software performs user tasks — word processors and browsers. 2. RAM is volatile, ROM is not; RAM holds data in current use, ROM holds boot instructions; RAM is writable, ROM is read-only. 3. An RFID reader — it does not need a direct line of sight, so a tag can be read at a short distance even when the patient is moving or the tag is covered. 4. It scrambles data so that anyone intercepting it cannot read it without the key; it does not prevent interception itself. 5. Health: RSI, prevented by wrist rests and breaks; eye strain, prevented by anti-glare screens and breaks. Safety: electrocution, prevented by not overloading sockets; trailing cables, prevented by cable ducts.
+
+## Frequently asked questions
+
+**Is a device driver system software or application software?**
+A device driver is system software, even though it relates to one device. In Cambridge IGCSE ICT (0417), classifying it as application software is a common mistake.
+
+**Does encryption stop data being intercepted?**
+No. Encryption makes intercepted data unreadable without the key, but it does not prevent the data being intercepted. Saying it prevents interception is a standard error.
+
+**What is the difference between a health risk and a safety risk?**
+Health risks are long-term physical effects of computer use, such as RSI, eye strain and back problems, while safety risks are immediate dangers such as electrocution, fire and trailing cables. Questions ask for each hazard together with its prevention.
+
+**Why does an SSD suit a laptop?**
+A solid state drive has no moving parts, so it survives being carried and knocked, uses less power so battery life improves, and is fast and silent. The trade-off is a higher price per gigabyte.

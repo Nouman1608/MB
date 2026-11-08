@@ -294,6 +294,23 @@ The $1,950 of accepted goods stays as revenue: that sale has been realised.
 The [exam preparation guide](/resources/oxfordaqa-a-level-accounting-exam-preparation/) shows how the four
 papers fit together. To find weak spots across the course, try the free [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**How many accounting concepts are in OxfordAQA International A-level Accounting 9615 section 3.1.5?**
+The section lists ten general accounting concepts and applies them to named situations, including financial statements, asset valuation, depreciation, inventory, purchases of non-current assets, ledger entries and sale or return goods.
+
+**Why can't a business revalue its premises upwards because market prices have risen?**
+Under the historic cost concept assets stay at the price actually paid, a figure anyone can check against the invoice. Revaluing an asset upwards just because its market price has risen is a common error.
+
+**Which costs are included in the cost of a non-current asset?**
+The asset account is debited with full historic cost: the price plus whatever had to be spent before the asset could be used, such as carriage and fitting. Running costs such as servicing are revenue expenditure and go to expenses.
+
+**Why can inventory fall to net realisable value but never rise above cost?**
+Realisation means gains wait until they are earned, while prudence means a loss that can already be foreseen is recognised now. That imbalance is why inventory is valued at the lower of cost and net realisable value.
+
+**What happens to asset values if a business is no longer a going concern?**
+If the owner decides to close the business, going concern no longer holds, and assets are shown at what they are expected to raise on sale rather than at historic cost.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Accounting (9615) Specification*, Version 1.2, for International AS

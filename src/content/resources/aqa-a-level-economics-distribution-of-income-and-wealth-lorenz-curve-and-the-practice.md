@@ -148,6 +148,20 @@ Evaluation:
 - Forgetting to subtract debt when finding net wealth.
 - Describing costs and benefits of redistribution with no judgement.
 
+## Frequently asked questions
+
+**Do I need to calculate the Gini coefficient for AQA A-level Economics?**
+No. The specification asks you to interpret the Gini coefficient, not calculate it, so trying to calculate it when asked to interpret wastes time.
+
+**How should I describe the axes of a Lorenz curve?**
+Say that households are ranked from poorest first along the horizontal axis, with the cumulative share of income or wealth on the vertical axis.
+
+**What is a common mistake when working out net wealth?**
+Forgetting to subtract debts, such as a mortgage, from the value of assets.
+
+**Does a lower Gini coefficient mean the poor are better off?**
+Not necessarily in absolute terms. A lower Gini shows the distribution is more equal, but it says nothing about absolute living standards.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/aqa-a-level-economics-distribution-of-income-and-wealth-lorenz-curve-and-the-revision-notes/) or the [study guide](/resources/aqa-a-level-economics-distribution-of-income-and-wealth-lorenz-curve-and-the/).

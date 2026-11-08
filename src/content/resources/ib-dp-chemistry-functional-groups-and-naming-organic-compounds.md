@@ -283,6 +283,20 @@ Butan-2-amine is the trap: its NH₂ carbon has two carbon neighbours, but only 
 - Naming 1-methylpentan-2-ol: a methyl on carbon 1 extends the chain, giving hexan-3-ol.
 - Classifying amines by the carbon, like alcohols.
 
+## Frequently asked questions
+
+**What is a functional group?**
+A functional group is the reactive region of a molecule that decides how a compound typically reacts and shapes its physical properties. Examples include the hydroxyl group in alcohols, the carbonyl group in aldehydes and ketones, and the carboxyl group in carboxylic acids.
+
+**What is the difference between an amino group and an amido group?**
+An amino group is –NH₂ on a carbon atom, while an amido group, –CO–NH–, has the nitrogen bonded to a C=O carbon. The C=O joined to the nitrogen is what makes the group amido rather than amino.
+
+**How do you find the longest chain when naming an organic compound?**
+Pick the longest carbon chain that includes the functional group and any multiple bond, then number it so the suffix group gets the lowest number. A methyl on carbon 1 extends the chain, so "1-methylpentan-2-ol" is really hexan-3-ol.
+
+**Do you need to draw stereochemical formulas in IB DP Chemistry Structure 3.2?**
+You should recognise stereochemical formulas, but the IB guide does not expect you to draw them unless a question asks. The other formula types are empirical, molecular, full structural, condensed structural and skeletal.
+
 ## Official syllabus
 
 Source: the International Baccalaureate's Diploma Programme *Chemistry guide*, issued in February 2023 for courses examined from 2025. This page follows Structure 3.2, Functional groups: Classification of organic compounds, understandings 3.2.1 to 3.2.6, which are common to SL and HL.

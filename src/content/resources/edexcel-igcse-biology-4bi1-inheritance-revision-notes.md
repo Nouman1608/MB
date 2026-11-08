@@ -297,6 +297,23 @@ Antibiotic resistance: a random mutation gives resistance → the antibiotic kil
 - Writing that antibiotics cause bacteria to mutate or "become immune".
 - Swapping 46 and 23, or saying meiosis makes two cells.
 
+## Frequently asked questions
+
+**How do you set out a genetic diagram?**
+State the symbols, give the parents' phenotypes and genotypes, circle the gametes with one allele each, draw a Punnett square, then give offspring genotypes, phenotypes and the ratio or probability.
+
+**What does a pedigree with two unaffected parents and an affected child show?**
+The allele for the condition is recessive, and both parents must be heterozygous carriers.
+
+**Who decides the sex of a baby?**
+The sperm decides. Eggs all carry an X chromosome, while half of sperm carry X and half carry Y.
+
+**How many chromosomes are in human body cells and gametes?**
+Human body cells are diploid with 46 chromosomes; gametes are haploid with 23.
+
+**Are most mutations harmful?**
+No. Most mutations have no effect, some have a small effect and rarely one has a significant effect. Mutation rate is increased by ionising radiation and chemical mutagens. This is Paper 2 only content.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1) specification, Issue 3 (September 2024), Pearson Education Limited; first assessment June 2019. Topic 3, Reproduction and inheritance, sub-topic (b) Inheritance, points 3.14–3.39.

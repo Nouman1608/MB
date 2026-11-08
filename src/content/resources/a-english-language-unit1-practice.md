@@ -13,11 +13,17 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-language-and-context-9670"
-description: "Original exam-style practice questions with full worked answers on audience, purpose, genre and mode, and directed writing, for OxfordAQA International AS/A-level English Language Unit 1 (9670)."
+  - qualification: "a-level"
+    topic: "unit-1-language-and-context-9670"
+    subtopic: "section-a-understanding-texts-9670"
+  - qualification: "a-level"
+    topic: "unit-1-language-and-context-9670"
+    subtopic: "section-b-directed-writing-9670"
+description: "Original practice with worked answers on audience, purpose, genre and mode and on directed writing, for OxfordAQA International AS English Language 9670 Unit 1."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -182,3 +188,17 @@ has not changed.
 - Writing a commentary or justification of choices -- this unit credits a sustained, consistent style
   in the writing itself, not an explanation of it afterwards.
 - Losing the chosen register partway through a Section B response.
+
+## Frequently asked questions
+
+**How is OxfordAQA International AS English Language Unit 1 structured?**
+This practice paper follows the unit's two sections: Section A, Understanding Texts, has one compulsory question worth 25 marks, and Section B, Directed Writing, offers a choice of one question worth 25 marks, for 50 marks in total. There is no separate commentary on this unit.
+
+**What is a common mistake when analysing audience, purpose, genre and mode?**
+Identifying a feature of audience, purpose, genre or mode without showing how the language of the text signals it. Confusing purpose with genre, or describing one while claiming to analyse the other, also loses marks.
+
+**Is a sudden shift from formal to casual language a change of field?**
+No. Field is the subject matter, which has not changed. A shift from formal to casual phrasing is a tenor shift, because tenor governs the relationship between participants and so the level of formality; it may also be a mode shift if the new phrasing borrows features of speech.
+
+**How do I get marks in the Unit 1 directed writing task?**
+Credit goes to sustaining a style appropriate to the task throughout. Choose a register that suits the new form and audience, use the source texts for content rather than copying their phrasing, and do not slip back into the source's register partway through.

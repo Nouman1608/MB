@@ -163,6 +163,20 @@ tan α = 1/2, so **α = 26.6°** below the negative i direction. [1]
 - Forgetting to reject a root that is physically impossible.
 - Leaving the sign convention unstated in vertical motion.
 
+## Frequently asked questions
+
+**How do you answer a modelling assumption question in M1?**
+State the assumption and its effect on the motion. For example, an inextensible string means the connected objects have the same acceleration, and a light string means the tension is the same throughout.
+
+**What is the difference between speed and velocity in mechanics?**
+Velocity is a vector with size and direction, while speed is only its magnitude. For a velocity given as ai + bj, the speed is √(a² + b²).
+
+**Why should you always say where an angle is measured from?**
+An angle such as 30° is ambiguous unless you name the reference direction, for example the positive i direction or north. Giving an angle without its reference line is a common way to lose a mark.
+
+**What should you do with a negative root in a time equation?**
+Reject any root that is physically impossible, such as a negative time or a time before the motion starts, and give a reason. Accepting both roots without checking loses marks.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/edexcel-ial-mathematics-mathematical-models-vectors-in-mechanics-and-constant-revision-notes/).

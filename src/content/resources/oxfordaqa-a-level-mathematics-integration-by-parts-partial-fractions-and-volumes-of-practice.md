@@ -118,6 +118,20 @@ Learn the methods first in the [study guide](/resources/oxfordaqa-a-level-mathem
 - Try all the free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the most common mistake in integration by parts?**
+Losing the minus sign in uv − ∫ v (du/dx) dx, especially when v is negative. Choosing the wrong factor as u is the other common slip.
+
+**What should you do when a partial fractions question has a numerator of the same degree as the denominator?**
+Divide first. Splitting an improper fraction without dividing means the constants A and B cannot be matched.
+
+**What limits do you use for a volume of revolution about the y-axis?**
+Use y-limits and integrate π ∫ x² dy, with x² written in terms of y. Using x-limits is a common error.
+
+**How many times do you integrate by parts for x² e^(3x)?**
+Twice. The first pass with u = x² leaves an integral containing x, so a second pass with u = x is needed.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2*, published by OxfordAQA, for International AS exams from May/June 2018 and International A-level exams from May/June 2019. See section P2.7 (Integration).

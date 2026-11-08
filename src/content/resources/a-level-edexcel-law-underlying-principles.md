@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Law: Underlying Principles of Law and the English Legal System (YLA1)"
+title: "Edexcel International A Level Law: Underlying Principles of Law and the English Legal System (YLA1)"
 resourceType: "study-guides"
 subject: "law"
 level: ["a-levels"]
@@ -12,13 +12,19 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-underlying-principles-and-english-legal-system-yla1"
-description: "The nature and purpose of law, legal theories, and how English law is made and administered -- Paper 1 of Pearson Edexcel International Advanced Level Law, one of two compulsory papers."
+  - qualification: "a-level"
+    topic: "paper-1-underlying-principles-and-english-legal-system-yla1"
+    subtopic: "the-nature-purpose-of-and-liability-in-law-yla1"
+  - qualification: "a-level"
+    topic: "paper-1-underlying-principles-and-english-legal-system-yla1"
+    subtopic: "the-sources-of-english-law-its-enforcement-and-administration-yla1"
+description: "Legal theory, law and morality, law making, interpretation, the courts and legal personnel: Paper 1 of Pearson Edexcel International A Level Law."
 author: "marlbridge-academic-team"
-reviewer: "aizaz-raoof-ali"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
 ---
 
 This guide covers **Paper 1 Underlying Principles of Law and the
@@ -144,3 +150,17 @@ Confusing the rule of law with the separation of powers. Saying courts can strik
 - Explain equitable remedies and when they are granted.
 - Evaluate access to justice after LASPO and compare ADR with litigation.
 - Assess whether parliamentary supremacy is absolute.
+
+## Frequently asked questions
+
+**What does Edexcel International A Level Law Paper 1 cover?**
+Paper 1, Underlying Principles of Law and the English Legal System, covers 1.1 the nature, purpose of and liability in law, including legal theory and law and morality, and 1.2 the sources of English law, its enforcement and administration.
+
+**What are positivism, natural law and utilitarianism?**
+Positivism holds that law and morality are separate, so a rule is law if made by the correct procedure. Natural law holds that a law conflicting with a higher moral law is not properly law. Utilitarianism holds that the right law is the one producing the greatest happiness of the greatest number.
+
+**Can UK courts strike down an Act of Parliament?**
+No. Under the Human Rights Act 1998 courts may issue a declaration of incompatibility, but this does not invalidate the Act. Saying courts can strike down an Act is a common mistake.
+
+**What are the theories of punishment?**
+The specification requires the theories of punishment, such as retribution, deterrence and rehabilitation, and how they relate to the sentences actually available.

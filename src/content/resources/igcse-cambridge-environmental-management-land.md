@@ -12,11 +12,20 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "land-0680"
+  - qualification: "igcse"
+    topic: "land-0680"
+    subtopic: "soils-and-crop-growth-0680"
+  - qualification: "igcse"
+    topic: "land-0680"
+    subtopic: "food-production-and-crop-yield-0680"
+  - qualification: "igcse"
+    topic: "land-0680"
+    subtopic: "soil-erosion-0680"
 description: "Soils and crop growth, food production and crop yield, and soil erosion -- Topic 2 of Cambridge IGCSE Environmental Management (0680), the 2027-2029 series."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-01
 featured: false
 ---
@@ -117,6 +126,20 @@ question on erosion strategies wants candidates to weigh a strategy's
 effectiveness against its cost or practicality in the given scenario,
 not simply
 name it.
+
+## Frequently asked questions
+
+**Why is loam an ideal soil for crops in Cambridge IGCSE Environmental Management 0680?**
+Loam has the right mix of mineral particles and pore spaces, retains moisture, contains useful organic and inorganic content, drains adequately and is easy to cultivate.
+
+**How is sustainable food production defined in 0680?**
+It is defined as producing enough food for the present generation using methods that let future generations keep growing food from the same land.
+
+**How do Paper 1 and Paper 2 differ in 0680 for 2027-2029?**
+The papers are the same length and equally weighted, but Paper 1 leans towards knowledge and recall (AO1 is 55% of its marks) while Paper 2 leans towards analysis and judgement (AO3 is 40% of its marks). Practical fieldwork questions are limited to Paper 2.
+
+**How do I answer a scenario question on land management?**
+Match the specific strategy to the specific problem in the scenario, such as terracing for a steep hillside, rather than listing every strategy you know. This is what earns application and evaluation marks.
 
 ## Official syllabus
 

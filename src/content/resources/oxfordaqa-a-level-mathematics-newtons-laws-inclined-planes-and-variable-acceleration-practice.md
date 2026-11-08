@@ -177,6 +177,20 @@ At t = 4/3: i component = 64/27 − 4 = −44/27 [1]
 - Take the [free 10-minute diagnostics](/diagnostics/) to find your weakest topics.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which component of weight acts along a slope?**
+For a slope at angle θ to the horizontal, mg sin θ acts down the slope and mg cos θ acts into it. Swapping sin and cos is the most common error on inclined planes.
+
+**Does friction change direction when a block moves up then down a slope?**
+Yes. Friction always opposes motion, so it acts down the slope while the block moves up and up the slope once it slides back down.
+
+**How do you decide whether a block stays at rest after it stops on a rough slope?**
+Compare mg sin θ with the maximum friction μ mg cos θ. If mg sin θ is not greater than the maximum friction, the block stays at rest.
+
+**Can you use suvat when the force depends on time?**
+No. If the acceleration is a function of t, integrate a to find v and integrate v to find the position, with a separate constant for each integration.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, for International AS exams from May/June 2018 and International A-level exams from May/June 2019, published by OxfordAQA. These questions follow section M2.4.

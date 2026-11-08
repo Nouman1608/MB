@@ -16,9 +16,9 @@ syllabusTopics:
     subtopic: "arrays-and-lists-oxfordaqa-alevel-cs"
 description: "Original exam-style practice questions with full worked answers on static vs dynamic data structures, arrays and lists, and one- and two-dimensional structures."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-05
 featured: false
 ---
@@ -66,7 +66,7 @@ Related: [Arrays and Lists study guide](/resources/a-level-oxfordaqa-computer-sc
 
 **5.** A **dynamic structure (list)** is more appropriate [1]. The **number of chat messages is not known in advance and grows continuously** as the stream runs, so a structure that can **expand as needed** is more appropriate than a fixed-size structure that would need repeated resizing or risk running out of space [1] [1].
 
-**6.** **Python does not contain a built-in fixed-size array type** in the way languages such as C# or Java do [1]. Its built-in **list behaves dynamically — it can grow or shrink during execution** [1], so a programmer typically uses a list even when the underlying concept being modelled is a static array, since the list's size and contents are never actually fixed at creation even if the programmer only ever treats it as such [1] — unless they specifically import the **array module** or **numpy** to get a genuinely fixed-size, typed structure instead [1]. (The vocabulary distinction — array meaning static, list meaning dynamic — still matters for a written answer, even though the practical Python tool used may be the same dynamic list either way.)
+**6.** **Python does not contain a built-in fixed-size array type** in the way languages such as C# or Java do [1]. Its built-in **list behaves dynamically — it can grow or shrink during execution** [1], so a programmer typically uses a list even when the underlying concept being modelled is a static array, since the list's size and contents are never actually fixed at creation even if the programmer only ever treats it as such [1] — unless they use a library such as **numpy**, whose arrays have a fixed size and a single element type once created [1]. (The standard-library **array module** gives a typed structure, but it can still grow and shrink with append and pop, so it is not fixed-size.) (The vocabulary distinction — array meaning static, list meaning dynamic — still matters for a written answer, even though the practical Python tool used may be the same dynamic list either way.)
 
 **7.** An appropriate structure is a **two-dimensional array or list of lists**, indexed by **two coordinates** — here, student and test [1] [1]. For example, `scores[student][test]` would access a specific student's score in a specific test, using **zero-based indexing** so `scores[2][1]` accesses the 3rd student's 2nd test score [1] [1]. With **zero-based indexing across 25 students and 4 tests**, the student index would run from **0 to 24** and the test index from **0 to 3** [1]. (Being explicit about which coordinate maps to which real-world quantity — student vs test — is what distinguishes a complete answer from one that only states "use a 2D array".)
 
@@ -83,3 +83,17 @@ Related: [Arrays and Lists study guide](/resources/a-level-oxfordaqa-computer-sc
 - Assuming a question requires more than two dimensions.
 - Stating a 2D structure's indexing without specifying which coordinate represents which real-world quantity.
 - Treating "dynamic is always better" as true without acknowledging the resizing overhead and the efficiency case for static structures.
+
+## Frequently asked questions
+
+**How many dimensions do OxfordAQA 9645 exam questions require?**
+Exam questions will not require arrays or lists of more than two dimensions.
+
+**How do you justify a static or dynamic data structure in an exam?**
+Base the choice on whether the number of elements is known and fixed, which suits a static structure, or unknown and growing, which suits a dynamic one.
+
+**What should a two-dimensional structure answer include?**
+State which coordinate represents which real-world quantity, such as scores[student][test], and give the index ranges. Saying only use a 2D array is incomplete.
+
+**Is a dynamic data structure always better than a static one?**
+No. A dynamic structure has resizing overhead and is still limited by available memory, while a static structure gives faster, more predictable access when the size is known in advance.

@@ -239,6 +239,23 @@ This practical is the analysis of some inorganic and organic unknowns. Recall th
 - Missing the two-unit pair that shows Cl or Br, or swapping the 3 : 1 and 1 : 1 ratios.
 - Giving one structure when the data fit more than one isomer, instead of saying which isomers fit and what would separate them.
 
+## Frequently asked questions
+
+**What is the difference between the molecular ion peak and the base peak?**
+The molecular ion peak is at the highest m/z value, ignoring the tiny M+1 peak, and gives Mr. The base peak is the tallest peak, set at 100% relative abundance, and is often a fragment.
+
+**How do chlorine and bromine show up in a mass spectrum?**
+One chlorine atom gives two peaks two units apart in a height ratio of about 3 : 1, from chlorine-35 and chlorine-37. One bromine atom gives two peaks two units apart of about equal height, from bromine-79 and bromine-81.
+
+**Why is the O–H absorption of an alcohol broad?**
+Hydrogen bonding between alcohol molecules means the O–H bonds are in slightly different surroundings, so they absorb over a spread of wavenumbers. An acid O–H band is even broader, at 3300–2500 cm⁻¹.
+
+**When should you use IR and when mass spectrometry?**
+IR identifies bonds and so functional groups, while mass spectrometry gives Mr and information about the carbon skeleton. Isomers with different functional groups are easier to separate by IR; isomers with the same groups often need a mass spectrum.
+
+**What is Core Practical 8 in Edexcel IAL Chemistry?**
+Core Practical 8 in the Edexcel IAL Chemistry specification (YCH11) is the analysis of some inorganic and organic unknowns. It draws on the Unit 1 and Unit 2 tests for ions, gases and functional groups, with spectra used to confirm conclusions.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017 (Pearson Education Limited). Mass spectra and IR is part 10D of Topic 10, outcomes 10.21 to 10.23, in Unit 2.

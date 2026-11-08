@@ -193,6 +193,23 @@ These questions cover sections 1.2.1 and 1.2.2 of OCR A Level Biology A (H420), 
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What should a risk assessment include?**
+A risk assessment gives three separate items: the hazard, the resulting risk and the control measure. Stating only the hazard, such as "hot water", does not earn the marks.
+
+**Why should vague words like "careful" or "fair" be avoided in method answers?**
+They do not tell the examiner what you would actually do. Name the specific action, such as the volume measured, the apparatus used or how a variable is kept constant.
+
+**Can you extrapolate a calibration line?**
+No. Read unknown values only from within the range of the known concentrations used to draw the calibration line. Extrapolating beyond it is a common error.
+
+**How do you calculate a percentage change correctly?**
+Divide the change by the starting value, not the final value, and multiply by 100. Dividing by the final value is a frequent mistake in practical calculations.
+
+**Which part of the H420 specification do these questions test?**
+They test OCR A Level Biology A (H420) sections 1.2.1 and 1.2.2, the practical skills and techniques that underpin the Practical Endorsement.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Biology A (H420), specification Version 4.1 (April 2026), for first assessment in 2025, published by OCR. Sections 1.2.1 and 1.2.2 are the source for these questions.

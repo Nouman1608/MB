@@ -209,6 +209,20 @@ Reading a ln graph:
 - Giving only "wear gloves" for safety, instead of tongs, distance and short exposure.
 - Writing "random" without saying that every undecayed nucleus has the same fixed chance of decaying per second.
 
+## Frequently asked questions
+
+**What does it mean that radioactive decay is random and spontaneous?**
+Spontaneous means decay needs no trigger and is not affected by temperature, pressure or chemical bonding. Random means you cannot predict when a particular nucleus will decay, though each undecayed nucleus has the same fixed chance of decaying per second.
+
+**How do alpha and beta decay change the nucleus?**
+In alpha decay the nucleon number falls by 4 and the proton number by 2. In β⁻ decay a neutron becomes a proton, so Z rises by 1 and A is unchanged; in β⁺ decay Z falls by 1.
+
+**What is the link between half-life and the decay constant?**
+The half-life and decay constant are linked by λt½ = ln 2, so t½ = 0.693/λ. Both must use the same time unit.
+
+**Which section of OCR A Level Physics A covers radioactivity?**
+Radioactivity is section 6.4.3, statements (a) to (h), of OCR H556. Module 6 content is assessed in Exploring physics (component 02) and Unified physics (component 03).
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556), specification Version 3.0 (March 2026), first assessment 2017, published by OCR: section 6.4.3, Radioactivity.

@@ -17,14 +17,14 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-chemistry-of-transition-elements"
     subtopic: "a-general-characteristic-chemical-properties-of-the-first-set-of-transition-elements-titanium-to-copper"
-description: "Why transition elements have variable oxidation states, act as catalysts and form complex ions, ligands, coordination number, and transition-metal redox titrations, for Cambridge International AS & A Level Chemistry 9701."
+description: "Variable oxidation states, catalysis, ligands, complex ions, ligand exchange and transition-metal redox titrations for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-17
 updatedDate: 2026-11-05
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 ---
 
 This guide covers subtopics **28.1, General physical and chemical
@@ -318,6 +318,23 @@ easy to get backwards.
   in excess NH₃(aq)
 - MnO₄⁻/Fe²⁺ 1:5; MnO₄⁻/C₂O₄²⁻ 2:5 (self-indicating); Cu²⁺/I⁻ 2:4, indirect
   iodometric determination
+
+## Frequently asked questions
+
+**Why are scandium and zinc not transition elements?**
+A transition element is a d-block element that forms at least one stable ion with an incomplete d sub-shell. Sc³⁺ has an empty 3d sub-shell and Zn²⁺ has a full one, so neither has an incomplete d sub-shell, even though both are in the d-block.
+
+**Why do transition elements have variable oxidation states?**
+The 3d and 4s sub-shells are very close in energy, so several electrons can be removed at comparable energetic cost. This lets elements such as iron and copper form ions in more than one oxidation state, such as Fe²⁺ and Fe³⁺.
+
+**What is the difference between a monodentate and a bidentate ligand?**
+A monodentate ligand, such as H₂O, NH₃ or Cl⁻, forms one dative bond to the central metal ion. A bidentate ligand, such as 1,2-diaminoethane or the ethanedioate ion, forms two dative bonds to the same metal ion.
+
+**Why does excess ammonia redissolve copper(II) hydroxide but excess sodium hydroxide does not?**
+With limited ammonia, NH₃ acts as a base and precipitates the hydroxide, but in excess it acts as a ligand and forms the soluble deep blue complex [Cu(NH₃)₄(H₂O)₂]²⁺. At Cambridge 9701 level, the hydroxide precipitate formed with NaOH(aq) does not redissolve in excess.
+
+**Why is a potassium manganate(VII) titration self-indicating?**
+MnO₄⁻ is intensely purple, while the products such as Mn²⁺ are colourless, so the end point is the first permanent trace of pink or purple. This shows that MnO₄⁻ is no longer being used up.
 
 ## Related resources
 

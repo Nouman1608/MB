@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "energy-aqa-gcse"
     subtopic: "national-and-global-energy-resources"
-description: "Renewable and non-renewable energy resources, their uses, and their environmental impact, for sub-topic 4.1.3 of AQA GCSE Physics (8463) -- also examinable as sub-topic 6.1.3 of GCSE Combined Science: Trilogy (8464)."
+description: "Renewable and non-renewable energy resources, their uses, reliability and impacts: AQA GCSE Physics 8463 sub-topic 4.1.3, also Combined Science 8464 6.1.3."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-19
 updatedDate: 2026-08-19
 featured: false
@@ -44,10 +44,9 @@ first for the underlying ideas about useful and wasted energy transfer.
 Students should be able to describe the main energy sources available
 and to distinguish between energy resources that are renewable and
 energy resources that are non-renewable. Students should be able to
-describe the uses of energy resources for the generation of electricity,
-for heating (including in industry, transport, and in the domestic
-context of the National Grid), and understand that different energy
-resources are more or less reliable than others.
+compare ways that different energy resources are used, the uses to
+include transport, electricity generation and heating, and understand
+why some energy resources are more reliable than others.
 
 Students should be able to give a broad, general description of the
 main energy sources available for use on Earth, including: fossil fuels
@@ -89,7 +88,7 @@ Earth are:
 ## Uses of energy resources
 
 Energy resources are used for **generating electricity**, for **heating**
-(in industry, homes, and via district or National Grid systems), and for
+(in homes and in industry), and for
 **transport** (fuels for vehicles). Resources vary in their reliability —
 for example, wind and solar depend on weather conditions and are less
 consistently available than fossil fuels or nuclear power, which can
@@ -160,6 +159,20 @@ naming a specific issue (e.g. "it's bad for the environment" rather than
 - Compare reliability between different energy resources.
 - Describe environmental, economic and social issues linked to specific resources.
 - State the UK trend: decreasing fossil fuel use, increasing renewable use.
+
+## Frequently asked questions
+
+**What are the main energy resources in AQA GCSE Physics?**
+The main energy resources are fossil fuels (coal, oil and gas), nuclear fuel, bio-fuel, wind, hydro-electricity, geothermal, the tides, the Sun and water waves. Fossil fuels and nuclear fuel are non-renewable; the rest are renewable.
+
+**Why are wind and solar power less reliable?**
+Wind and solar power depend on weather conditions, so they cannot generate electricity on demand. Fossil fuels and nuclear power can generate reliably whenever needed.
+
+**How has UK electricity generation changed over recent decades?**
+The use of fossil fuels to generate electricity in the UK has been decreasing, while the use of some renewable resources has been increasing, reflecting responses to climate change and energy security.
+
+**Does renewable mean environmentally harmless?**
+No. A renewable resource is one that is replenished as it is used, but it can still cause environmental, economic or social issues, such as hydro-electric dams affecting river ecosystems.
 
 ## Related resources
 

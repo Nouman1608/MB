@@ -191,6 +191,20 @@ Normal gradient = −5 [1]
 - Reporting only the first solution in a trigonometric equation within an interval.
 - Giving a rate or time without units, or commenting on a model without referring to the context.
 
+## Frequently asked questions
+
+**What is the derivative of cos kx?**
+The derivative of cos kx is −k sin kx. Leaving out the minus sign is one of the most common errors.
+
+**What is the derivative of ln kx?**
+The derivative of ln kx is 1/x, because the k is a constant that disappears. Writing k/x or 1/(kx) is wrong.
+
+**How do you differentiate when x is given in terms of y?**
+Find dx/dy and take the reciprocal, since dy/dx = 1/(dx/dy). Using dx/dy as the gradient of the curve is a common mistake.
+
+**Which section of Edexcel IAL Pure 3 covers these differentiation rules?**
+Section 4 of Unit P3 in Pearson Edexcel International A Level Mathematics (YMA01) covers standard derivatives, the product, quotient and chain rules, dy/dx = 1/(dx/dy), and exponential models.
+
 ## Next steps
 
 - Go back to the [revision notes](/resources/edexcel-ial-mathematics-differentiation-of-exponential-logarithmic-and-revision-notes/) for any rule you missed.

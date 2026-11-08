@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "geometry-and-measures-aqa-gcse-maths"
 description: "Condensed AQA GCSE Maths 8300 geometry revision notes: formulas to know, angle reasons, circle theorems, trig, similarity, vectors and a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 These notes cover Topic 4, **Geometry and measures** (references G1–G25), of the AQA GCSE Mathematics (8300) specification, Version 1.0, for exams in May/June 2017 onwards and every May/June and November series after that. Content from the specification's "Higher content only" column is marked **Higher tier only**; everything else can be set on both tiers. Geometry appears on the non-calculator Paper 1 as well as the calculator Papers 2 and 3.
@@ -327,6 +327,20 @@ Practise these without a calculator so that your arithmetic is fast and accurate
 - Choosing the sine rule without a known side–opposite-angle pair.
 - Rubbing out construction arcs; they are the evidence of method.
 - Proving collinearity with "parallel" only, without mentioning the shared point.
+
+## Frequently asked questions
+
+**What are the conditions for congruent triangles?**
+Two triangles are congruent if they satisfy SSS, SAS, ASA or RHS. Three equal angles (AAA) shows the triangles are similar, not congruent.
+
+**How do you find the perimeter of a sector?**
+Add the arc length to two radii. The arc length is (θ/360) × 2πr, and forgetting the two radii is a common mistake.
+
+**When do you use the sine rule or the cosine rule?**
+Use the sine rule when you know a side and its opposite angle. Use the cosine rule when you know two sides and the angle between them, or all three sides. Both are Higher tier in AQA GCSE Maths 8300.
+
+**Which exact trig values do you need for the non-calculator paper?**
+Learn the values of sin, cos and tan for 0°, 30°, 45°, 60° and 90°, such as sin 30° = 1/2 and cos 30° = √3/2, as these can be tested on Paper 1.
 
 ## Official syllabus
 

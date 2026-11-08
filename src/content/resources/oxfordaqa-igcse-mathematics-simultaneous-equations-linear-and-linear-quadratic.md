@@ -302,6 +302,20 @@ Draw a smooth curve through the first row of points and a straight line through 
 
 Try the [practice questions](/resources/oxfordaqa-igcse-mathematics-simultaneous-equations-linear-and-linear-quadratic-practice/), then use the [revision notes](/resources/oxfordaqa-igcse-mathematics-simultaneous-equations-linear-and-linear-quadratic-revision-notes/) to recall the methods quickly. The [diagnostics](/diagnostics/) show where to focus next.
 
+## Frequently asked questions
+
+**What does "simultaneous" mean in simultaneous equations?**
+It means you want one pair of values of x and y that makes both equations true at the same time. On a graph, that pair is where the two lines meet.
+
+**How accurate is a graphical solution to simultaneous equations?**
+It is approximate and only as accurate as the drawing, so state it to the precision the scale allows, often 1 decimal place, and write "approximately" if the crossing is not on grid lines.
+
+**Are linear-quadratic simultaneous equations in OxfordAQA 9260 Core?**
+No. In OxfordAQA International GCSE Mathematics (9260), reference A21, solving two linear equations algebraically or by graph is Core, while one linear and one quadratic equation is Extension only.
+
+**How do you solve one linear and one quadratic equation?**
+Rewrite the linear equation as y = … (or x = …), substitute it into the quadratic in brackets, rearrange to ax² + bx + c = 0 and solve. Put each x-value back into the linear equation to find its y-value.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. This page follows section 3.2.3, statement A21.

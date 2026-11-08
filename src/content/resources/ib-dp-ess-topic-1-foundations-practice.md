@@ -12,13 +12,13 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-foundation"
-description: "Original practice questions with full worked answers on environmental value systems, systems thinking and sustainability, for Topic 1 of IB Diploma Programme Environmental Systems and Societies."
+description: "Original practice questions with worked answers on environmental value systems, systems thinking and sustainability for IB DP ESS Topic 1 Foundations."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -88,6 +88,20 @@ course and must be applied to unfamiliar content in later topics, not only recal
 penalise an answer that mislabels a stabilising effect as "positive feedback" simply because the
 outcome (worse flooding) sounds negative in the everyday sense -- exactly the common exam error the
 study guide flags.
+
+## Frequently asked questions
+
+**What does IB ESS Topic 1 Foundations cover?**
+Topic 1 covers 1.1 Perspectives, 1.2 Systems and 1.3 Sustainability, with 16 teaching hours at both SL and HL. These concepts are revisited throughout the course, so later questions expect you to apply them.
+
+**Why do Topic 1 questions use unfamiliar scenarios?**
+Topic 1 concepts must be applied to new content in later topics, not only recalled. Practising with unfamiliar scenarios builds the analytical answers the course rewards.
+
+**What is the most common feedback mistake in ESS answers?**
+Calling a change "positive feedback" because the outcome sounds bad. Positive feedback amplifies a change and negative feedback stabilises it; neither word is a value judgement.
+
+**How do you justify an environmental value system in an exam answer?**
+Quote the specific words or actions in the scenario that show ecocentrism, anthropocentrism or technocentrism. A label without evidence from the text does not earn the justification marks.
 
 ## Official syllabus
 

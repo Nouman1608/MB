@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "nuclear-physics-cambridge-igcse-physics"
     subtopic: "radioactivity-cambridge-igcse-physics"
-description: "Sixteen original Cambridge IGCSE Physics 0625 nuclear physics questions, Core and Extended: atoms and ions, nuclide notation, isotopes, background radiation, alpha, beta and gamma, decay equations, half-life, fission, uses and safety, with full worked answers."
+description: "Original Cambridge IGCSE Physics 0625 nuclear physics practice questions, Core and Extended: isotopes, alpha, beta and gamma, decay equations and half-life."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-28
 updatedDate: 2026-09-28
 featured: false
@@ -298,6 +298,20 @@ Check: top 235 + 1 = 236 and 141 + 92 + 3 = 236; bottom 92 + 0 = 92 and 56 + 36 
 - [Extended practice set on nuclear physics](/resources/igcse-physics-nuclear-physics-extended-practice/) for six more Supplement questions.
 - Free [0625 Core diagnostic](/practice/0625/diagnostic/core/) or [0625 Extended diagnostic](/practice/0625/diagnostic/extended/).
 - Next topic: [Space physics study guide](/resources/igcse-physics-0625-space-physics/).
+
+## Frequently asked questions
+
+**Are these 0625 nuclear physics questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers available from your board.
+
+**Which questions should Core candidates answer?**
+Questions 1 to 8 cover Core content and every candidate should do them. Questions 9 to 16 are marked Extended, cover Supplement content examined only on Papers 2 and 4, and are not needed for Core.
+
+**How reliable are the marks shown on each question?**
+The marks are indicative only. They show roughly how much detail each part needs, not an official mark scheme.
+
+**Where can I find more Extended nuclear physics questions?**
+The Extended practice set on nuclear physics has six more Supplement questions to try after this set.
 
 ## Official syllabus
 

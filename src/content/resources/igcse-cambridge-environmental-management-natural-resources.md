@@ -12,11 +12,23 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "natural-resources-0680"
-description: "Rock formation, extraction, energy resources and fracking -- the opening topic of Cambridge IGCSE Environmental Management (0680), a seven-topic syllabus for the 2027-2029 series."
+  - qualification: "igcse"
+    topic: "natural-resources-0680"
+    subtopic: "formation-of-rocks-0680"
+  - qualification: "igcse"
+    topic: "natural-resources-0680"
+    subtopic: "extraction-of-rocks-ores-and-minerals-0680"
+  - qualification: "igcse"
+    topic: "natural-resources-0680"
+    subtopic: "sustainable-management-of-rocks-ores-and-minerals-0680"
+  - qualification: "igcse"
+    topic: "natural-resources-0680"
+    subtopic: "energy-resources-0680"
+description: "Rock formation, extraction and sustainable management of ores, fossil fuels, renewable and nuclear energy and energy demand for Cambridge IGCSE 0680 Topic 1."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description claimed fracking coverage the body lacked; corrected description, added nuclear, tidal and wave power, electricity generation, energy demand factors (1.4.5), a pointer to the 1.5-1.6 guide and an FAQ; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -84,7 +96,7 @@ examination 2027, 2028 and 2029 —
 A **natural resource** is any material or energy source from the environment that people find useful.
 
 - **Renewable** resources replenish naturally within a human timescale — biofuels (bioethanol, biomass, biogas and wood), geothermal power, hydro-electric power, tidal power, wave power, solar power and wind power.
-- **Non-renewable** resources exist in a fixed stock and are consumed faster than they form — coal, oil, natural gas, and mineral ores.
+- **Non-renewable (finite)** resources exist in a fixed stock and are used up faster than they form. The syllabus classifies fossil fuels (coal, petroleum and natural gas) and **nuclear power using uranium** as non-renewable energy resources; rocks, ores and minerals are also finite.
 - **Sustainable** is not a synonym for renewable. A renewable resource can be used unsustainably: a forest is renewable, but if felling outpaces regrowth the stock still collapses. **Sustainable use** means meeting present needs without preventing future generations from meeting theirs.
 
 ## Fossil fuels
@@ -102,6 +114,20 @@ Their costs are the reason the topic exists: carbon dioxide driving the enhanced
 | HEP | Reliable, long-lived, allows flood control | Dam displaces people and habitat, high capital cost, silting |
 | Geothermal | Continuous output, small footprint | Electricity generation only viable in tectonically active areas -- ground/air source heat pumps for heating work anywhere |
 | Biofuels (bioethanol, biomass, biogas, wood) | Use waste, can be carbon-neutral if replanted | Combustion pollutants, competes with food for land |
+| Tidal | Predictable twice-daily tides, no emissions in use | Few suitable estuaries, high capital cost, damages mudflat habitats |
+| Wave | No emissions in use, large potential on exposed coasts | Equipment damaged by storms, output varies, still costly |
+
+**Nuclear power** (non-renewable) uses the heat from splitting uranium atoms to raise steam that drives turbines. It gives large, continuous output with very low carbon emissions in use, but power stations are very expensive to build and decommission, radioactive waste stays dangerous for thousands of years, and accidents such as Chernobyl (1986) and Fukushima (2011) can contaminate wide areas.
+
+All of these except solar photovoltaic panels generate electricity in the same basic way: a source of energy turns a **turbine** connected to a **generator**. Fossil fuels, biofuels, nuclear power and geothermal heat raise steam; water drives the turbines in HEP, tidal and wave schemes; wind turns the blades directly.
+
+## What affects the demand for energy? (1.4.5)
+
+The syllabus names eight factors. **Transport**: more vehicles and flights raise demand for petroleum. **Personal and national wealth**: richer households own more appliances and cars, and richer countries use more energy per person. **Climate**: very hot or very cold places need energy for cooling or heating. **Human population size**: more people need more energy. **Industry**: manufacturing countries use far more energy than agricultural ones. **Disruption to supply**, **unreliable supply** and **scarcity of resources** reduce the energy available, pushing up prices and making countries look for alternatives or cut consumption.
+
+## Where are energy management and fracking covered? (1.5–1.6)
+
+Sub-topics 1.5 (strategies for managing energy resources, and new resources such as blue and green hydrogen and ground and air source heat pumps) and 1.6 (fracking: the extraction of natural gas or petroleum from shale rock by hydraulic fracturing, and its benefits and limitations) are taught in full in the [energy management, new energy resources and fracking guide](/resources/igcse-cambridge-environmental-management-energy-management-and-fracking/). Use it alongside this page so that all six sub-topics of Topic 1 are covered.
 
 ## Rocks, ores and minerals (1.1–1.3)
 
@@ -160,6 +186,17 @@ The question asks why abundance is not enough — cost, intermittency and infras
 ## Common mistakes
 
 Using renewable and sustainable interchangeably. Saying solar and wind produce "no pollution" without the qualifier *in use*, ignoring manufacturing emissions. Describing HEP as having no environmental impact. Listing renewable sources without their limitations when the question says "discuss the benefits and limitations" -- 0680's own command-word table has no "evaluate" entry, so this stem is how the syllabus actually phrases the instruction. Forgetting that fresh water can be depleted despite being renewable.
+
+## Frequently asked questions
+
+**Is nuclear power renewable?**
+No. The 0680 syllabus classifies nuclear power using uranium as non-renewable (finite), alongside fossil fuels, even though it has very low carbon emissions in use.
+
+**Is renewable the same as sustainable?**
+No. A renewable resource can still be used unsustainably, for example if a forest is felled faster than it regrows. Sustainable management means meeting present needs without compromising the ability of future generations to meet theirs.
+
+**Does this guide cover fracking?**
+Fracking (1.6) and energy conservation strategies (1.5) are covered in the linked energy management and fracking guide; this page covers rocks, ores and minerals (1.1-1.3) and energy resources (1.4).
 
 ## Quick revision checklist
 

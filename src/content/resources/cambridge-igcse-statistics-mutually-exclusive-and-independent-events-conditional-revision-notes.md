@@ -198,6 +198,20 @@ The three orders for exactly one head are HTT, THT and TTH. A tree with three st
 - Leaving a tree unlabelled, with branches that do not add to 1, or with no outcomes listed at the end.
 - Answering an independence test with only numbers and no statement of the conclusion.
 
+## Frequently asked questions
+
+**What is the difference between mutually exclusive and independent events?**
+Mutually exclusive events cannot both occur in one trial, so P(A ∩ B) = 0. Independent events can both occur, and the probability of both is the product of their probabilities.
+
+**Can mutually exclusive events be independent?**
+Not if both events have non-zero probabilities, because P(A ∩ B) = 0 cannot equal P(A) × P(B). Writing "mutually exclusive" as the reason for independence is a common error.
+
+**Is P(A given B) the same as P(B given A)?**
+Usually not. Check which group is the condition, and divide by the size of the group named after "given".
+
+**How do you check a tree diagram?**
+The branches from each point should add to 1, and the probabilities of all the end outcomes should add to 1.
+
 ## Official syllabus
 
 Source: the Cambridge IGCSE Statistics 0479 syllabus (examination year 2027), published by Cambridge University Press & Assessment. Covered here: Topic 7 Probability, outcomes 7.5 to 7.7. Hub: [Cambridge IGCSE Statistics](/boards/cambridge/igcse/statistics/).

@@ -140,6 +140,20 @@ Links: [study guide](/resources/ocr-gcse-economics-fiscal-policy-government-budg
 - Forgetting units such as cu, million or per year.
 - Giving a definition of opportunity cost without applying it.
 
+## Frequently asked questions
+
+**What is the difference between direct and indirect taxes?**
+Direct taxes are paid straight to the government from income or profit, such as income tax, national insurance and corporation tax. Indirect taxes are added to the price of goods and services, such as VAT and fuel duty.
+
+**How do you calculate income tax with tax bands?**
+Apply each rate only to the part of income that falls within its band, then add the amounts together. Charging the top rate on the whole income is a common mistake.
+
+**What is the difference between a budget deficit and the national debt?**
+A budget deficit is the gap in a single year when government spending is above revenue. The national debt is the total amount the government owes from past borrowing.
+
+**Do savers gain when interest rates fall?**
+No. Savers earn less interest when rates fall, so they lose out, while borrowers gain because their repayments fall. Saying savers gain from a rate cut is a common error.
+
 ## Next steps
 
 - Read the [study guide](/resources/ocr-gcse-economics-fiscal-policy-government-budgets-and-monetary-policy/) and [revision notes](/resources/ocr-gcse-economics-fiscal-policy-government-budgets-and-monetary-policy-revision-notes/).

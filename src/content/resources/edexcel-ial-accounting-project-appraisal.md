@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Project appraisal (YAC11)"
+title: "Edexcel International A Level Accounting: Project appraisal (YAC11)"
 seoTitle: "Edexcel IAL Accounting Project Appraisal Study Guide"
 resourceType: "study-guides"
 subject: "accounting"
@@ -76,15 +76,15 @@ of that year. Payback in months assumes cash arrives evenly during the year.
 
 ### The running example
 
-Fellgarth Textiles plc is considering a dyeing machine costing £240,000, payable now. It will run for
-five years and then be sold for £30,000. Net cash inflows from operating it are expected to be
-£60,000, £75,000, £80,000, £70,000 and £50,000 in years 1 to 5.
+Fellgarth Textiles plc is considering a dyeing machine costing $240,000, payable now. It will run for
+five years and then be sold for $30,000. Net cash inflows from operating it are expected to be
+$60,000, $75,000, $80,000, $70,000 and $50,000 in years 1 to 5.
 
 | Year | 0 | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|---|
-| Net cash flow (£) | (240,000) | 60,000 | 75,000 | 80,000 | 70,000 | 80,000 |
+| Net cash flow ($) | (240,000) | 60,000 | 75,000 | 80,000 | 70,000 | 80,000 |
 
-Year 5 is £50,000 operating inflow plus the £30,000 sale proceeds.
+Year 5 is $50,000 operating inflow plus the $30,000 sale proceeds.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--01-relevant-cash-flows.webp" width="900" height="1050" alt="Wexcombe Cider example. Counted: canning line, installation, sale of old fillers (year 0 outlay 216,000) and resale in year 5. Left out and crossed: depreciation, engineer fee, head-office share and loan interest, with a reason for each." loading="lazy">
@@ -107,7 +107,7 @@ capital (WACC)** weights each cost by that source's share of total finance.
 
 Fellgarth's long-term finance and the cost of each source are:
 
-| Source | Amount (£) | Cost |
+| Source | Amount ($) | Cost |
 |---|---|---|
 | Ordinary shares and reserves | 450,000 | 12% |
 | 8% preference shares | 150,000 | 8% |
@@ -147,7 +147,7 @@ question gives discount factors, use them exactly as printed.
 
 ### Worked example 2: NPV at 10%
 
-| Year | Net cash flow (£) | Factor at 10% | Present value (£) |
+| Year | Net cash flow ($) | Factor at 10% | Present value ($) |
 |---|---|---|---|
 | 0 | (240,000) | 1.000 | (240,000) |
 | 1 | 60,000 | 0.909 | 54,540 |
@@ -157,8 +157,8 @@ question gives discount factors, use them exactly as printed.
 | 5 | 80,000 | 0.621 | 49,680 |
 | | | **NPV** | **34,060** |
 
-Present value of inflows: 54,540 + 61,950 + 60,080 + 47,810 + 49,680 = £274,060.
-NPV = 274,060 − 240,000 = **£34,060 positive**, so on financial grounds the machine should be bought.
+Present value of inflows: 54,540 + 61,950 + 60,080 + 47,810 + 49,680 = $274,060.
+NPV = 274,060 − 240,000 = **$34,060 positive**, so on financial grounds the machine should be bought.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--03-discounting-npv.webp" width="900" height="1030" alt="Pairs of bars compare each cash flow with its present value after multiplying by 0.909, 0.826, 0.751 and 0.683. Present values total 155,754; less the 120,000 outlay gives NPV of 35,754." loading="lazy">
@@ -190,7 +190,7 @@ State the formula you use.
 
 ### Worked example 3: PI
 
-PI = 274,060 ÷ 240,000 = **1.14**. Each £1 invested returns £1.14 in present-value terms.
+PI = 274,060 ÷ 240,000 = **1.14**. Each $1 invested returns $1.14 in present-value terms.
 
 ## Internal rate of return (2.6.1)
 
@@ -208,9 +208,9 @@ addition of the two sizes.
 
 ### Worked example 4: IRR
 
-At 10%, NPV = +£34,060 (worked example 2). Try 16%:
+At 10%, NPV = +$34,060 (worked example 2). Try 16%:
 
-| Year | Net cash flow (£) | Factor at 16% | Present value (£) |
+| Year | Net cash flow ($) | Factor at 16% | Present value ($) |
 |---|---|---|---|
 | 0 | (240,000) | 1.000 | (240,000) |
 | 1 | 60,000 | 0.862 | 51,720 |
@@ -248,13 +248,13 @@ Use the base the question asks for and show it. Accept if ARR beats the business
 
 ### Worked example 5: ARR
 
-Operating cash inflows over five years: 60,000 + 75,000 + 80,000 + 70,000 + 50,000 = £335,000.
-Total depreciation = 240,000 − 30,000 = £210,000 (£42,000 a year, straight-line).
+Operating cash inflows over five years: 60,000 + 75,000 + 80,000 + 70,000 + 50,000 = $335,000.
+Total depreciation = 240,000 − 30,000 = $210,000 ($42,000 a year, straight-line).
 
-Total profit = 335,000 − 210,000 = £125,000. Average annual profit = 125,000 ÷ 5 = **£25,000**.
+Total profit = 335,000 − 210,000 = $125,000. Average annual profit = 125,000 ÷ 5 = **$25,000**.
 
 - On initial investment: 25,000 ÷ 240,000 × 100 = **10.4%**
-- On average investment: (240,000 + 30,000) ÷ 2 = £135,000; 25,000 ÷ 135,000 × 100 = **18.5%**
+- On average investment: (240,000 + 30,000) ÷ 2 = $135,000; 25,000 ÷ 135,000 × 100 = **18.5%**
 
 The same project gives very different ARRs depending on the base, which is why you must state it.
 
@@ -274,7 +274,7 @@ column and find the year in which it turns positive.
 
 ### Worked example 6: payback
 
-| Year | Net cash flow (£) | Cumulative (£) |
+| Year | Net cash flow ($) | Cumulative ($) |
 |---|---|---|
 | 0 | (240,000) | (240,000) |
 | 1 | 60,000 | (180,000) |
@@ -282,9 +282,9 @@ column and find the year in which it turns positive.
 | 3 | 80,000 | (25,000) |
 | 4 | 70,000 | 45,000 |
 
-£25,000 is still to recover at the end of year 3, and year 4 brings £70,000.
+$25,000 is still to recover at the end of year 3, and year 4 brings $70,000.
 25,000 ÷ 70,000 × 12 = 4.3 months, so payback is **3 years 4 months** to the nearest month. The
-year 5 cash flow, including the £30,000 sale proceeds, plays no part.
+year 5 cash flow, including the $30,000 sale proceeds, plays no part.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--02-payback-running-total.webp" width="900" height="1010" alt="Bars show the running total of cash for the Kestrel press from -120 to +80 thousand pounds. The total crosses zero between years 2 and 3. 34,000 divided by 52,000 times 12 gives 7.8 months, so payback is 2 years 8 months." loading="lazy">
@@ -325,6 +325,23 @@ Go to the [revision notes](/resources/edexcel-ial-accounting-project-appraisal-r
 formulae on one page and ten short recall questions. After that, work through the
 [practice questions](/resources/edexcel-ial-accounting-project-appraisal-practice/). Check your gaps
 with the [free diagnostics](/diagnostics/).
+
+## Frequently asked questions
+
+**What is the difference between discounted and non-discounted project appraisal methods?**
+In Edexcel IAL Accounting, NPV, the weighted average cost of capital, the profitability index and IRR are the discounted methods, and ARR and payback are the non-discounted methods. The difference is whether the method allows for the time value of money.
+
+**What is the decision rule for net present value?**
+Accept a project if its NPV is positive, because it earns more than the cost of capital, and reject it if NPV is negative. Between two projects that exclude each other, choose the one with the higher NPV.
+
+**How do you calculate IRR by interpolation?**
+Find one discount rate giving a positive NPV and one giving a negative NPV, then use IRR = L + [NPV at L ÷ (NPV at L − NPV at H)] × (H − L). Because NPV at H is negative, the denominator adds the sizes of the two NPVs; the result is an estimate.
+
+**Is depreciation included in project appraisal cash flows?**
+Depreciation is not a cash flow, so it is left out of NPV, IRR and payback calculations. The average rate of return is different because it uses profit, so depreciation is charged there.
+
+**What should you do if NPV and IRR give different answers?**
+When NPV and IRR disagree between projects that exclude each other, follow NPV, because it measures the increase in value in money terms. Evaluation answers should also weigh non-financial factors such as the workforce, environment and reliability of forecasts.
 
 ## Official syllabus
 

@@ -13,12 +13,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-environment-2059"
     subtopic: "the-land-of-pakistan-2059"
-description: "Location, administrative areas and cities, natural topography, and climate -- Section 1 of Paper 2 The Environment of Pakistan, for Cambridge O Level Pakistan Studies 2059, 2026 series (Version 1)."
+description: "The land of Pakistan for Cambridge O Level Pakistan Studies 2059 Paper 2 Section 1: location, administrative areas and cities, topography and climate, 2026."
 seoDescription: "Cambridge O Level Pakistan Studies (2059) Paper 2, Section 1: location, terrain, climate and administrative divisions of Pakistan explained."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-01
 featured: false
 ---
@@ -172,3 +172,14 @@ effect (agriculture, water supply, transport) is being described.
   zones.
 - Explain the effects of climate (temperature, rainfall, flooding,
   drought) on Pakistan's economy and people.
+
+## Frequently asked questions
+
+**How is Paper 2 structured?**
+Paper 2 (1 hour 30 minutes, 75 marks, 50%) asks you to answer three questions from a choice of five, each worth 25 marks, in four parts (a) to (d) built around maps, graphs, photographs and other resources; part (d) tests analysis.
+
+**Which cities must I locate?**
+Fifteen: Islamabad, Murree, Rawalpindi, Gujranwala, Lahore, Faisalabad, Multan, Sialkot, Peshawar, Chitral, Gilgit, Hyderabad, Karachi, Quetta and Gwadar.
+
+**How many sections does 2059 Paper 2 have?**
+Eight, as in IGCSE 0448: land, natural resources, power, agriculture, industry, trade, transport and telecommunications, and population and employment.

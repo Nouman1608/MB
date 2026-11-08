@@ -12,11 +12,17 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-literary-non-fiction-and-composition-9270"
+  - qualification: "igcse"
+    topic: "paper-1-literary-non-fiction-and-composition-9270"
+    subtopic: "section-a-literary-non-fiction-9270"
+  - qualification: "igcse"
+    topic: "paper-1-literary-non-fiction-and-composition-9270"
+    subtopic: "section-b-composition-9270"
 description: "Condensed recall notes on analysing literary non-fiction, structural analysis and composition technique for OxfordAQA International GCSE English Language 9270."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -126,3 +132,17 @@ Related: [Literary Non-fiction and Composition practice questions](/resources/ox
 7. In the "market at dawn" worked example, what makes the strong version more effective than the weak one?
 
 **Answers:** 1. Factual writing using the techniques of imaginative writing — travel writing, memoir, biography, essays, speeches, opinion journalism. 2. Identify the feature, quote it briefly, explain its effect on the reader in relation to purpose. 3. The placement and ordering of information — openings, delayed reveals, shifts, closings — are deliberate authorial choices producing effects, and commenting on them strengthens an answer even though structure is not a separately allocated mark. 4. A single text only, divided into sections with questions -- no comparison is required on this paper. 5. Any three: sentence demarcation, consistent tense, subject–verb agreement, apostrophes, purposeful paragraphing. 6. Section A tests reading and Section B tests writing — they are different skills, so strong analysis does not guarantee strong composition, and each needs its own dedicated revision time. 7. It replaces a single flat, general statement with concrete sensory detail, varied sentence lengths (including a short opener for impact), and a closing image that suggests the scene rather than stating it directly.
+
+## Frequently asked questions
+
+**What composition tasks are offered in OxfordAQA 9270 Paper 1?**
+There are three tasks, descriptive, imaginative, and argumentative and/or discursive, and you choose one. Hold the register to the stated form and audience throughout.
+
+**Is structure marked separately from language in OxfordAQA 9270 Paper 1?**
+No. Structure is part of the same overall mark, not a separate allocation, so where a writer places information is worth analysing alongside language.
+
+**Why should I revise reading and writing separately for Paper 1?**
+Section A tests reading and Section B tests writing, and skill in one does not guarantee skill in the other. Treating strong analysis as evidence that your composition will also be strong is an exam trap.
+
+**What earns marks in an analytical point?**
+Identify the feature with correct terminology, quote it briefly, then explain its effect on the reader, tied to the writer's purpose. The mark is in the explanation of effect.

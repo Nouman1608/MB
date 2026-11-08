@@ -12,13 +12,46 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-nature-of-law-and-the-english-legal-system-7162"
-description: "Nature of law, the rule of law, law making and the legal system -- Section 3.1 of AQA A-level Law (7162), one of five content sections and the only one examined on all three papers, at 25 marks on each (75 of the qualification's 300 marks)."
+  - qualification: "a-level"
+    topic: "the-nature-of-law-and-the-english-legal-system-7162"
+    subtopic: "nature-of-law-7162"
+  - qualification: "a-level"
+    topic: "the-nature-of-law-and-the-english-legal-system-7162"
+    subtopic: "nature-of-law-law-and-society-7162"
+  - qualification: "a-level"
+    topic: "the-nature-of-law-and-the-english-legal-system-7162"
+    subtopic: "law-making-delegated-legislation-7162"
+  - qualification: "a-level"
+    topic: "the-nature-of-law-and-the-english-legal-system-7162"
+    subtopic: "law-making-statutory-interpretation-7162"
+  - qualification: "a-level"
+    topic: "the-nature-of-law-and-the-english-legal-system-7162"
+    subtopic: "law-making-judicial-precedent-7162"
+  - qualification: "a-level"
+    topic: "the-nature-of-law-and-the-english-legal-system-7162"
+    subtopic: "law-making-law-reform-7162"
+  - qualification: "a-level"
+    topic: "the-nature-of-law-and-the-english-legal-system-7162"
+    subtopic: "law-making-the-european-union-7162"
+  - qualification: "a-level"
+    topic: "the-nature-of-law-and-the-english-legal-system-7162"
+    subtopic: "the-legal-system-the-civil-courts-and-other-forms-of-dispute-resolution-7162"
+  - qualification: "a-level"
+    topic: "the-nature-of-law-and-the-english-legal-system-7162"
+    subtopic: "the-legal-system-the-criminal-courts-and-lay-people-7162"
+  - qualification: "a-level"
+    topic: "the-nature-of-law-and-the-english-legal-system-7162"
+    subtopic: "the-legal-system-legal-personnel-and-the-judiciary-7162"
+  - qualification: "a-level"
+    topic: "the-nature-of-law-and-the-english-legal-system-7162"
+    subtopic: "the-legal-system-access-to-justice-and-funding-7162"
+description: "Nature of law, the rule of law, law making and the legal system: Section 3.1 of AQA A Level Law 7162, examined at 25 marks on each of the three papers."
 author: "marlbridge-academic-team"
-reviewer: "aizaz-raoof-ali"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
 ---
 
 This guide covers **Section 3.1 The Nature of Law and the English
@@ -169,3 +202,17 @@ Reversing the standards of proof between criminal and civil. Confusing ratio dec
 - Apply the interpretation rules and the language rules to a statute, and explain the impact of EU law and the Human Rights Act 1998 on interpretation.
 - Explain precedent, including ratio, obiter, following, distinguishing, overruling and the Practice Statement.
 - Describe the roles of legal personnel and evaluate lay involvement.
+
+## Frequently asked questions
+
+**How much of AQA A Level Law is the nature of law and the English legal system?**
+Section 3.1 is examined on all three AQA A Level Law 7162 papers, at 25 marks on each, so it carries 75 of the qualification's 300 marks. It is the only section examined on every paper.
+
+**Which sections of AQA A Level Law are compulsory?**
+The nature of law and the English legal system, Criminal law and Tort are compulsory. Law of contract and Human rights are options, and Paper 3 examines one or the other.
+
+**Is AQA AS Level Law still available?**
+No. AQA now offers a single Law qualification at A Level; the separate AS Level Law (7161) has been withdrawn.
+
+**Does the Practice Statement let any court depart from precedent?**
+No. The Practice Statement applies to the Supreme Court, allowing it to depart from its own previous decisions; saying it applies to any court is a common mistake.

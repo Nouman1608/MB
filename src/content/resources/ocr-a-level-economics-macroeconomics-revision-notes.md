@@ -12,13 +12,13 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "macroeconomics-ocr-alevel-economics"
-description: "Condensed recall notes on aggregate demand and supply, policy objectives, and fiscal/monetary/supply-side policy for OCR A Level Economics (H460), Component 2 Macroeconomics -- the global context and financial sector content areas are not covered by these notes."
+description: "Condensed revision notes on AD/AS, the multiplier, policy objectives, the Phillips curve and policy conflicts for OCR A Level Economics (H460) Component 2."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -123,6 +123,20 @@ The circular flow of income models injections (investment, government spending, 
 ## How this connects to the synoptic paper
 
 Component 3 (Themes in economics) is fully synoptic across both Microeconomics and Macroeconomics, so make sure you revise the global context and financial sector content areas from your course materials -- they are not covered by these condensed notes -- with an eye to how they connect back to microeconomic content such as market structures and exchange-rate determination, rather than treating Macroeconomics as entirely self-contained.
+
+## Frequently asked questions
+
+**What is the difference between the short-run and long-run Phillips curve?**
+The short-run Phillips curve shows a trade-off between inflation and unemployment. In the long run the curve is vertical at the natural rate of unemployment (NAIRU), so there is no permanent trade-off.
+
+**What are the three main types of macroeconomic policy?**
+The three types are fiscal policy (government spending and taxation), monetary policy (interest rates and the money supply) and supply-side policy, which aims to shift long-run aggregate supply through structural reform.
+
+**What is a macroeconomic policy conflict?**
+A policy conflict arises when a policy that advances one objective threatens another. For example, cutting interest rates to boost growth can push inflation above target through higher spending and a weaker currency.
+
+**What does a multiplier of 4 mean?**
+A multiplier of 4 means an initial injection generates four times as much extra national income once successive rounds of spending have worked through. With an MPC of 0.75, a £10m injection produces £40m of extra national income.
 
 ## Related resources
 

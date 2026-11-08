@@ -135,6 +135,23 @@ These questions cover section 4.2 (costs, scale of production and break-even ana
 - Forgetting that "justify" needs a decision supported by evidence from the case.
 - Listing limitations of break-even without saying how they affect a decision.
 
+## Frequently asked questions
+
+**Are these Cambridge O Level Business Studies 7115 past paper questions?**
+No. They are original questions written for Marlbridge on section 4.2, Costs, scale of production and break-even analysis. Use them alongside the official past papers.
+
+**What is the most common mistake in break-even calculations?**
+Dividing fixed costs by the selling price instead of by contribution per unit. Write the formula first, then substitute the figures from the question.
+
+**How should margin of safety be expressed?**
+Give it in the units the question uses, and if a percentage is asked, divide by actual or expected sales, not by the break-even level.
+
+**How do you explain a diseconomy of scale in a case study?**
+Take the cause from the case, such as many layers of management or several sites, and finish by explaining the effect on average cost. A list of diseconomies with no link to the firm gains little.
+
+**What does a "justify" question on pricing or dropping a product need?**
+A clear decision backed by figures from the case, with at least one point against. For a loss-making product, compare the loss from continuing with the loss from stopping rather than judging on the loss alone.
+
 ## Next steps
 
 - Recap the formulas in the [revision notes](/resources/o-level-business-costs-scale-of-production-and-break-even-analysis-revision-notes/).

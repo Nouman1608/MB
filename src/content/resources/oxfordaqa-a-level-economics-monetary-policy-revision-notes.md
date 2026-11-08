@@ -224,6 +224,23 @@ Evaluation: banks may hold reserves rather than lend; firms may not borrow if co
 - Recommending a rate rise for cost-push inflation while ignoring the lost output.
 - Leaving out the time lag and the size of the output gap in an evaluation.
 
+## Frequently asked questions
+
+**What is the prime objective of monetary policy?**
+The prime objective is usually to control inflation. Subsidiary objectives include moderating fluctuations in economic activity, so a flexible target can tolerate a temporary overshoot when the alternative is a large loss of output.
+
+**How does a rise in interest rates reduce aggregate demand?**
+Higher rates raise borrowing costs and saving rewards, so consumption and investment fall, asset prices and confidence fall, and the currency may appreciate, cutting net exports. AD shifts left, easing inflationary pressure.
+
+**How does quantitative easing work?**
+The central bank buys government bonds with newly created money, so the money supply rises, bond prices rise and yields fall. Cheaper borrowing and higher asset prices raise consumption and investment, shifting AD right.
+
+**Why is raising interest rates a poor response to cost-push inflation?**
+Monetary policy works on demand and cannot lower costs directly. If inflation comes mainly from import costs, higher rates reduce output and jobs without tackling the cause.
+
+**Who carries out monetary policy?**
+The central bank carries out monetary policy, not the government. Writing that "the government sets interest rates" is a common error.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), version 1.2, published by OxfordAQA: section 3.2.4.1 Monetary policy and section 3.5 Quantitative skills.

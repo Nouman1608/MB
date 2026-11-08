@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "what-is-business-aqa-alevel-business"
 description: "Condensed recall notes on business purpose, ownership, stakeholders and the external environment for AQA A Level Business 7132."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -156,3 +156,17 @@ stakeholders exist.
 4. What three things does a top-band evaluation contain?
 
 **Answers:** 1. Shareholders own a plc but directors control decisions, so their objectives can diverge; share options and performance-related pay align directors' interests with shareholders'. 2. Importers benefit as imports become cheaper; exporters are hurt as their goods become dearer abroad. 3. Advantage: flotation raises substantial capital for expansion; disadvantage: it dilutes ownership and control and exposes the firm to hostile takeover. 4. Both sides of the argument, a clear judgement, and a statement of what that judgement depends on.
+
+## Frequently asked questions
+
+**What is added value?**
+Added value is the difference between the cost of inputs and the price the customer pays. It is increased by branding, quality, service, convenience and design; in AQA it is named under 3.4.1, so it is background for this topic.
+
+**What does SMART stand for?**
+Specific, measurable, achievable, realistic and time-bound. Objectives stated too generally to measure are a common exam trap.
+
+**Is PESTLE the AQA specification's list of external factors?**
+No. The specification names six factors: competition, market conditions, incomes, interest rates, demographic factors, and environmental issues and fair trade. PESTLE is a common way to organise revision, so name the actual factor in an answer.
+
+**What happens to importers and exporters when a currency strengthens?**
+A strong currency makes imports cheap and exports dear, so importers benefit while exporters become less price competitive abroad.

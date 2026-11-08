@@ -341,6 +341,23 @@ anhydride mechanism.
 - Stopping the substitution mechanism at the N⁺ intermediate without the deprotonation step.
 - Naming CH₃CONHCH₃ "methylethanamide" without the N-, which places the methyl group on carbon.
 
+## Frequently asked questions
+
+**What is an amine?**
+An amine is a compound based on ammonia, NH₃, in which one or more hydrogen atoms are replaced by alkyl or aryl groups. Amines are classified as primary, secondary or tertiary by the number of carbon atoms bonded to the nitrogen.
+
+**Why are amines weak bases?**
+The nitrogen lone pair accepts a proton by forming a dative bond to H⁺, but in water only a small fraction of the amine reacts. The OH⁻ ions formed make the solution alkaline.
+
+**Why is phenylamine a weaker base than ammonia?**
+In phenylamine the nitrogen lone pair is delocalised into the benzene ring, so it is less available to accept a proton. Answers that only say the ring is electron-withdrawing, with no mention of the lone pair, lose marks.
+
+**What conditions are used to make a primary amine from a halogenoalkane?**
+Heat the halogenoalkane with excess ammonia in ethanol in a sealed container. Excess ammonia makes the primary amine the main product, but further substitution still gives a mixture that needs separating.
+
+**Is there a required practical for amines in AQA A-level Chemistry 7405?**
+No. No required practical is listed under section 3.3.11, which is A-level only. The reactions of acyl chlorides and acid anhydrides with ammonia and primary amines also appear in 3.3.9.2 Acylation.
+
 ## Next steps
 
 Next, use the [revision notes](/resources/aqa-a-level-chemistry-amines-revision-notes/) and the

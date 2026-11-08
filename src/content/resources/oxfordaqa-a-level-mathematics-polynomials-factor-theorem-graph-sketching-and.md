@@ -279,6 +279,20 @@ Examiners usually give credit for method shown. When you use the Factor Theorem,
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-mathematics-polynomials-factor-theorem-graph-sketching-and-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-mathematics-polynomials-factor-theorem-graph-sketching-and-revision-notes/) for quick recall. Tick off topics on the [checklist](/checklists/oxfordaqa/a-level/mathematics/) and see the [course hub](/boards/oxfordaqa/a-level/mathematics/).
 
+## Frequently asked questions
+
+**What is the Factor Theorem?**
+The Factor Theorem says that (x − a) is a factor of f(x) exactly when f(a) = 0.
+
+**What scale factor does y = f(ax) have?**
+y = f(ax) is a stretch parallel to the x-axis with scale factor 1/a. So y = f(2x) has scale factor 1/2, not 2.
+
+**Which OxfordAQA 9660 section covers polynomials and the Factor Theorem?**
+Section P1.1, in Unit P1, covers expanding and dividing polynomials, the Remainder and Factor Theorems, curve sketching and single transformations of graphs.
+
+**What should a sketch of a cubic show?**
+Show the shape, the y-intercept, every x-intercept as coordinates, whether each root is crossed or touched, and the end behaviour from the sign of the leading coefficient.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA. See section 3.1, International AS Unit P1 (Pure Maths), content area P1.1.

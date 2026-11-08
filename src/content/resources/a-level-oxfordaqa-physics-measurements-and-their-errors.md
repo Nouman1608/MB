@@ -13,11 +13,11 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "measurements-and-their-errors-oxfordaqa-alevel"
-description: "SI units, measurement limitations and estimation -- the opening section of OxfordAQA International AS & A-Level Physics (9630), shared content with the International AS award (9631)."
+description: "SI units and prefixes, random and systematic error, combining uncertainties and estimation: Section 3.1 of OxfordAQA International A-Level Physics (9630)."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -72,7 +72,7 @@ an estimate step by step rather than simply stating a number.
 ## Official syllabus
 
 OxfordAQA International AS & A-Level Physics specification PDF —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-as-and-a-level-physics-specification.pdf).
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/10/oxfordaqa-international-as-and-a-level-physics-specification.pdf).
 
 ## SI units, prefixes and homogeneity
 
@@ -198,3 +198,17 @@ Using precision and accuracy interchangeably. Adding percentage uncertainties wh
 - Combine uncertainties correctly for sums, products and powers.
 - Use error bars to find maximum and minimum gradients and quote an uncertainty in the gradient.
 - Identify which measurement dominates the overall uncertainty and justify the improvement that matters.
+
+## Frequently asked questions
+
+**What is the difference between a random error and a systematic error in physics?**
+Random errors scatter readings unpredictably about the true value and are reduced by repeating measurements and taking a mean. Systematic errors shift every reading in the same direction, such as a zero error, and repeating does not remove them; only correcting the instrument or method does.
+
+**How do you combine uncertainties when multiplying or dividing quantities?**
+When quantities are multiplied or divided you add their percentage uncertainties. When quantities are added or subtracted you add the absolute uncertainties instead, and when a quantity is raised to a power n you multiply its percentage uncertainty by n.
+
+**How do you find the uncertainty in the gradient of a graph?**
+Draw the steepest and shallowest lines that still pass through all the error bars. The uncertainty in the gradient is half the difference between the maximum and minimum gradients.
+
+**How are marks given for an order-of-magnitude estimate in OxfordAQA 9630 Physics?**
+Marks go to a reasoned method rather than numerical precision: state each assumption explicitly, use round numbers and give the final answer to one significant figure. An assumption that is not written down in the working earns nothing.

@@ -241,6 +241,20 @@ Whether that is good enough depends on how long the firm expects to stay, whethe
 
 Condense this with the [revision notes](/resources/edexcel-igcse-business-classification-of-businesses-and-location-decisions-revision-notes/), then test yourself on the [practice questions](/resources/edexcel-igcse-business-classification-of-businesses-and-location-decisions-practice/).
 
+## Frequently asked questions
+
+**How does the nature of a business affect where it locates?**
+A mine or farm must be where the resource is, a heavy manufacturer needs space and transport links, a shop needs footfall, and an office service such as web design has wide freedom of location.
+
+**Why does proximity to materials matter?**
+A business using heavy, bulky or perishable inputs saves transport costs and delay by being close to its suppliers, especially when the finished product weighs much less than the materials.
+
+**Why might a business relocate?**
+A business may move when rent rises, when materials or customers are now elsewhere, when it needs more space, or for similar reasons. The savings should be weighed against one-off moving costs and any lost customers.
+
+**Can one business operate in more than one sector?**
+Yes. A timber company might run forestry (primary), a sawmill (secondary) and a delivery service (tertiary), and the sectors often link in a chain of production.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 1: Business activity and influences on business, sections 1.3 Classification of businesses and 1.4 Decisions on location.

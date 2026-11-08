@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "introduction-to-economics-ocr-gcse-economics"
 description: "Original exam-style practice questions with full worked answers on economic systems, the price mechanism, specialisation and money."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -100,3 +100,17 @@ A. full and efficient use of resources  B. unemployed or inefficiently used reso
 - Giving advantages of specialisation without linking them to productivity.
 - Confusing economic capital (productive equipment) with money — money is only a means of exchange, not a factor of production itself.
 - Not showing the opportunity-cost ratio explicitly when checking whether a production point lies on, inside or outside the PPC.
+
+## Frequently asked questions
+
+**What are the four factors of production and their rewards?**
+The factors are land, which earns rent; labour, which earns wages; capital, which earns interest; and enterprise, which earns profit.
+
+**Is money a factor of production?**
+No. In economics, capital means man-made productive equipment such as machinery, not money. Confusing capital with money is a common error in OCR GCSE Economics (J205).
+
+**How do you tell if a production point is on, inside or outside a production possibility curve?**
+Use the opportunity cost ratio to work out the maximum amount of one good the economy could make alongside the given amount of the other, then compare it with actual output. Show the ratio explicitly in your working.
+
+**How are multiple-choice questions marked in GCSE Economics?**
+Only the option you select is marked, so partial reasoning does not earn partial credit. Work out the answer carefully before choosing.

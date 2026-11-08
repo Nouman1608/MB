@@ -17,9 +17,9 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-related-concepts"
 description: "Original IB MYP Language Acquisition practice questions on key concepts, word choice, conventions, idiom and statements of inquiry, with model answers."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -148,6 +148,20 @@ Only adults are told about fees and the last closed day (28 February); children 
 - Changing between formal and informal "you" during a role-play.
 - Writing a statement of inquiry that is a question, a task or tied to one place.
 - Describing a cultural practice with no explanation of the values behind it.
+
+## Frequently asked questions
+
+**What are common mistakes in MYP Language Acquisition concept questions?**
+Common slips include mixing up key and related concepts, explaining an idiom by translating it word for word, and writing a statement of inquiry that is a question, a task or tied to one place.
+
+**What makes a good statement of inquiry?**
+A good statement of inquiry names or clearly implies a key concept, uses at least one related concept, points to a global context, and is a general claim that would still hold in another language or unit.
+
+**How do I rewrite a message for a new audience in MYP Language Acquisition?**
+Identify the new audience and purpose first, then replace every informal word or form that no longer fits. Leaving informal words in place, or switching between formal and informal "you", is a frequent error.
+
+**How are these MYP Language Acquisition practice answers marked?**
+Real MYP work is judged against criterion level descriptors with achievement levels 1–8 in four bands, so the mark points on this page are a revision aid, not IB marks.
 
 ## Next steps
 

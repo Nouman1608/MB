@@ -18,11 +18,11 @@ syllabusTopics:
     subtopic: "network-issues-and-communication-0417"
 description: "Condensed recall notes spanning both 4.1 Networks and 4.2 Network issues and communication, for Cambridge IGCSE ICT 0417, Topic 4."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 ---
 
 Condensed for the final weeks, spanning both halves of Topic 4. For the full explanation, use the
@@ -103,3 +103,20 @@ The security and communication content in 4.2 exists specifically *because* data
 6. A company needs staff in five offices to jointly edit a shared document while talking. Which conferencing type, and why?
 
 **Answers:** 1. Connecting networks/devices to the internet; storing computer addresses; routing data packets. 2. A hub broadcasts to every connected device; a switch learns which device is on which port and sends data only to the intended recipient. 3. An intranet is accessible only within one organisation; an extranet extends controlled access to specific external parties while still restricting general public access. 4. Something you know (password), something you have (token/card), something you are (biometric). 5. It relies on a database of known malware signatures, so it cannot recognise malware discovered after its last update. 6. Web-conferencing — staff need to view and edit the same live document together, which audio- or video-conferencing alone cannot provide.
+
+## Frequently asked questions
+
+**What are the three functions of a router in IGCSE ICT?**
+A router connects networks and devices to the internet, stores computer addresses, and routes data packets towards their destination. In Cambridge IGCSE ICT 0417, learn all three as separate points, because a vague "connects to the internet" answer does not cover them.
+
+**What is the difference between a hub and a switch?**
+A hub broadcasts incoming data to every connected device, whichever device it is meant for. A switch learns which device is on which port and sends data only to the intended recipient, which makes better use of the network.
+
+**What is the difference between an intranet and an extranet?**
+An intranet is a private network that only members of one organisation can access. An extranet extends that private network so specific external parties, such as suppliers or customers, get controlled access while the general public is still kept out.
+
+**What does "something you know, something you have, something you are" mean?**
+It is a way of grouping authentication methods: a password is something you know, a token or card is something you have, and a biometric such as a fingerprint is something you are. Combining methods from different groups gives stronger multi-factor authentication.
+
+**Why must anti-malware software be kept up to date?**
+Anti-malware relies on a database of known malware signatures. If it is not updated, it cannot recognise malware that was discovered after its last update.

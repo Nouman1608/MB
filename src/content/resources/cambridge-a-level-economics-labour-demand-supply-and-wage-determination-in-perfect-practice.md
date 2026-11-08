@@ -128,6 +128,20 @@ These questions cover sections 8.3.1 to 8.3.7 of the Cambridge International AS 
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 labour market questions from past papers?**
+No. They are original practice questions with worked answers covering sections 8.3.1 to 8.3.7 of the Cambridge International AS & A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**What are common mistakes in MRP calculations?**
+A common error is using price as marginal revenue when the firm has to lower its price to sell more; show total revenue first and use the change in it. Another is showing only the final number of workers hired without comparing MRP with the wage.
+
+**Does a change in the wage shift the labour demand curve?**
+No. A change in the wage causes a movement along the labour demand or supply curve, while other factors shift the curve. Treating a wage change as a shift is a frequent mistake.
+
+**How should you label a labour market diagram?**
+Name the vertical axis as the wage rate, not price, and the horizontal axis as employment or the quantity of labour, and label both curves. Leaving axes unnamed or labelling the vertical axis "price" loses marks.
+
 ## Official syllabus
 
 Source: Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, sections 8.3.1 to 8.3.7.

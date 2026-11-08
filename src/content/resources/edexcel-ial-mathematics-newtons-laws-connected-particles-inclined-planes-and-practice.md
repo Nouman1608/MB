@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-m1-mechanics-1-edexcel-alevel-maths"
     subtopic: "m1-dynamics-edexcel-alevel-maths"
-description: "Original practice questions with full worked answers on F = ma, pulleys, slopes and friction for Pearson Edexcel IAL Mathematics Unit M1."
+description: "Original practice questions with full worked answers on F = ma, pulleys, slopes and friction for Pearson Edexcel IAL Mathematics Unit M1 (YMA01)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -148,6 +148,20 @@ Find the tension in the cable during these 5 s. **[3]**
 - Giving one stage's distance when the question asks for the total.
 - Mixing signs in T − mg = ma and mg − T = ma.
 - Rounding intermediate values and losing the third significant figure.
+
+## Frequently asked questions
+
+**What is the normal reaction on an inclined plane?**
+On a plane inclined at α with no other perpendicular forces, R = mg cos α, not mg. Using R = mg on a slope is one of the most common errors in M1 dynamics.
+
+**What happens to the tension when a connected particle hits the ground?**
+Once the particle lands and does not bounce, the string goes slack and the tension becomes zero. The other particle then moves under the remaining forces, so its acceleration must be recalculated.
+
+**Which way does friction act on a slope?**
+Friction opposes the motion: it acts up the slope for a particle sliding down and down the slope for a particle moving up. Once the particle has stopped, it no longer has sliding friction acting on it.
+
+**Should you write one equation for a pair of connected particles?**
+Write one F = ma equation for each particle, because the forces on them differ. Adding the equations eliminates the tension so you can find the acceleration.
 
 ## Next steps
 

@@ -165,12 +165,16 @@ test('real banks: every checked file is a practice file in a Foundation/Higher b
   // Higher-only questions per bank (whole-question labels). First pinned after the
   // 28 Sep 2026 check; re-pinned 4 Oct 2026 (D-386) after the 28 files added by
   // D-382 to D-384 were checked against the specifications and added above.
-  assert.deepEqual(counts, { '4MA1': 81, '8461': 8, '8462': 12, '8463': 12, '8300': 34 });
+  // Re-pinned 8 Nov 2026: 8300 +1 Higher (algebra practice Q13, inverse function, A7 HT).
+  assert.deepEqual(counts, { '4MA1': 81, '8461': 8, '8462': 12, '8463': 12, '8300': 35 });
   // Review fix (28 Sep 2026): total questions per bank, pinned. Every file in these
   // banks is in HIGHER_LABELS_CHECKED, so a new question without a Higher label would
   // silently count as 'both'. A changed total fails here until the new or removed
   // questions are checked against the specification and these numbers updated.
-  assert.deepEqual(totals, { '4MA1': 202, '8461': 133, '8462': 180, '8463': 108, '8300': 147 });
+  // Re-pinned 8 Nov 2026: 8461 +26 (health/lifestyle/cancer 14, plant tissues and organ
+  // system 12), both files checked against the specification: no (HT only) content.
+  // 8300 +3 (algebra practice: expanding, linear equations, functions), Higher labels checked.
+  assert.deepEqual(totals, { '4MA1': 202, '8461': 159, '8462': 180, '8463': 108, '8300': 150 });
 });
 
 /**

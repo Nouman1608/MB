@@ -9,13 +9,13 @@ qualifications: ["a-level"]
 syllabusCodes: ["H431"]
 syllabusSeries: "Version 2.1 (January 2026), for first assessment in 2017; final assessment summer 2027"
 order: 3
-description: "What OCR A Level Business H431's withdrawal timetable means for candidates, how its three equal 80-mark components differ, why every paper is synoptic, and a worked evaluation routine."
+description: "How to prepare for OCR A Level Business H431 before its final summer 2027 exams: the three 80-mark synoptic papers, timing and a worked evaluation routine."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 OCR A Level Business (H431) is assessed by three equally weighted components, each a 2-hour written
@@ -122,6 +122,20 @@ has different components each worth 90 rather than 80 marks, so a resit is not t
 national and global scale, and all three components are synoptic, expecting material to be connected across that
 arc rather than compartmentalised. 4. Because a conclusion needs something to be measured against; a
 judgement offered without a stated criterion reads as a preference rather than an evaluation.
+
+## Frequently asked questions
+
+**How many exam papers are there in OCR A Level Business H431?**
+There are three equally weighted components, each a 2-hour written paper worth 80 marks and one third of the qualification: Component 01 (Operating in a Local Business Environment), Component 02 (The UK Business Environment) and Component 03 (The Global Business Environment).
+
+**How is the successor specification H436 different from H431?**
+H436 has different components (Business Activity, Marketing and People; Operations, Finance and External Influences; Strategy, Risk and Managing Change), each worth 90 marks rather than 80. Its first teaching is 2026 and first assessment 2028.
+
+**How much time should you spend per mark in an H431 paper?**
+Two hours for 80 marks gives about 1.5 minutes per mark. Protect enough time for the final extended question, which is usually worth as much as the first.
+
+**How should you use data supplied in an H431 paper?**
+Calculate from it, for example margins, ratios, market share or percentage change, and then argue from the result. An evaluation that uses the supplied data outperforms one built on theory alone.
 
 *Written against OCR's own accredited A Level Business H431 specification and its published successor
 H436 specification (official OCR documents, verified 2026-08-26). OCR prints each component's

@@ -20,7 +20,7 @@ publishedDate: 2026-10-11
 featured: false
 ---
 
-These notes condense OCR A Level Mathematics A (H240) content references 1.03a to 1.03f (straight lines and circles) from the Cambridge OCR specification, Version 3.1 (August 2026). All of it is Stage 1, common to AS and A Level. The [study guide](/resources/ocr-a-level-mathematics-straight-lines-and-circles/) has the full explanations and longer examples. Test yourself with the [practice set](/resources/ocr-a-level-mathematics-straight-lines-and-circles-practice/), tick topics off on the [checklist](/checklists/ocr/a-level/mathematics/), see the [course hub](/boards/ocr/a-level/mathematics/) and try the [free diagnostics](/diagnostics/). Parametric equations (1.03g, 1.03h) are not covered here.
+These notes condense OCR A Level Mathematics A (H240) content references 1.03a to 1.03f (straight lines and circles) from the OCR specification, Version 3.1 (August 2026). All of it is Stage 1, common to AS and A Level. The [study guide](/resources/ocr-a-level-mathematics-straight-lines-and-circles/) has the full explanations and longer examples. Test yourself with the [practice set](/resources/ocr-a-level-mathematics-straight-lines-and-circles-practice/), tick topics off on the [checklist](/checklists/ocr/a-level/mathematics/), see the [course hub](/boards/ocr/a-level/mathematics/) and try the [free diagnostics](/diagnostics/). Parametric equations (1.03g, 1.03h) are not covered here.
 
 ## Key results
 
@@ -249,6 +249,20 @@ The discriminant is positive, so the line cuts the circle at two points. Quote t
 - Quoting a decimal when the question expects an exact value such as 8√2.
 - Not showing the substitution or the discriminant in a "show that" or "find the values" question, so the reasoning is not visible.
 
+## Frequently asked questions
+
+**How do you find the centre and radius of x² + y² + 6x − 4y − 12 = 0?**
+Complete the square in x and in y: (x + 3)² + (y − 2)² = 25, so the centre is (−3, 2) and the radius is 5. If x² and y² have a coefficient, divide by it first.
+
+**How do you decide whether a line meets a circle?**
+Substitute the line into the circle to get a quadratic and use the discriminant: b² − 4ac > 0 means two intersection points, = 0 means the line is a tangent, and < 0 means they do not meet.
+
+**Which circle properties are in OCR A Level Mathematics A (H240)?**
+Reference 1.03f uses the angle in a semicircle being 90°, the perpendicular from the centre bisecting a chord, and the radius being perpendicular to the tangent.
+
+**What do m and c mean in a straight-line model?**
+The gradient m is the rate of change, in units of y per unit of x, and the intercept c is the starting value when x = 0.
+
 ## Official syllabus
 
-*Cambridge OCR Level 3 Advanced GCE in Mathematics A (H240)* specification, Version 3.1 (August 2026), for first assessment in 2018, published by Cambridge OCR: section 1.03, Coordinate Geometry in the x-y plane, references 1.03a to 1.03f.
+*OCR Level 3 Advanced GCE in Mathematics A (H240)* specification, Version 3.1 (August 2026), for first assessment in 2018, published by OCR: section 1.03, Coordinate Geometry in the x-y plane, references 1.03a to 1.03f.

@@ -13,11 +13,11 @@ order: 4
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-4-language-exploration-9670"
-description: "How to explore language independently, from choosing a focus and data to analysis and evaluation, for the Language Exploration unit of OxfordAQA A Level English Language."
+description: "Unit 4 Language Exploration for OxfordAQA 9670: the exam and NEA routes, word counts, and how to design, analyse and write up a language investigation."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the exact content and format of Unit 4 for both routes (exam and non-exam assessment), including word limits, marks and what the exam paper asks, as only general investigation skills are taught here."
+reviewNote: "2026-11-08 recheck: added both routes' format from spec v5.2 and flagged the two Unit 4b word counts (2,500-3,000 in the overview; about 2,500 in 3.4.2). Check the exact content and format of Unit 4 for both routes (exam and non-exam assessment), including word limits, marks and what the exam paper asks, as only general investigation skills are taught here."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -27,6 +27,21 @@ Unit 4 is the point at which you stop responding to data chosen for you and star
 ## Where this fits in the specification
 
 Unit 4 completes the A Level in 9670, after the AS units and Unit 3 on [language variation](/resources/oxfordaqa-a-level-english-language-unit-3-language-variation-study-guide/). It draws on everything you have learnt: the language levels, the effect of context, social groups, variation, change and attitudes. The route with an examination tests how well you can analyse and discuss language material under time pressure. The investigation route tests your ability to design and carry out an independent study over a longer period. Check the specification and your school's guidance for which one you are following and what the task requires.
+
+## How is Unit 4 assessed?
+
+The OxfordAQA International AS and A-level English Language specification (9670, Version 5.2) offers
+two routes. Both are worth 50 marks and 30% of the International A-level.
+
+| Route | Format | What you do |
+|---|---|---|
+| **Unit 4a** (written exam) | 2 hours 30 minutes; no sections; one question from a choice of two | Investigate data provided on the paper (no more than three texts or data sets, linked by a topic or theme), devise a research question, analyse at least two of the texts or data sets, and write a report using the suggested structure: Aim(s), Method, Analysis, Conclusion |
+| **Unit 4b** (non-exam assessment) | Assessed by teachers and moderated | Devise a research question, collect your own data, analyse it and write up a report |
+
+**What is the word count for Unit 4b?** The specification gives two figures. The assessment overview
+says an investigation of **2,500 to 3,000 words**, while the detailed section 3.4.2 says a report of
+**approximately 2,500 words (excluding data)**. Plan for about 2,500 words excluding data and check
+the current limit with your teacher before you write up.
 
 ## What it means to explore language
 
@@ -104,6 +119,22 @@ The counts are only a starting point. The marks come from the quality of the ana
 - Show awareness of context, audience and purpose in every analytical point.
 - Leave time to conclude and to evaluate.
 - Keep a record of your data, methods and sources as you go, so that nothing has to be reconstructed later.
+
+## Frequently asked questions
+
+**Is Unit 4a the same as the coursework route?**
+No. Unit 4a is a 2 hour 30 minute exam on data supplied in the paper; Unit 4b is a non-exam
+investigation using data you collect yourself. Both test the same skills and carry the same marks.
+
+**What topics can a Unit 4b investigation cover?**
+Any topic whose central focus is an aspect of language. The specification's examples include local
+and social varieties, language and power, new communication technologies, children's language,
+the media and language in the environment.
+
+**Does the data count towards the word limit?**
+Section 3.4.2 says the report is approximately 2,500 words excluding data, so the data goes in an
+appendix and is not counted.
+
 
 ## Check your understanding
 

@@ -232,6 +232,20 @@ The sum of the two is not exponential. Use only the mean and variance results fo
 - Rounding too early in an exponential calculation. Keep unrounded values until the final line.
 - Not showing the integral or the substitution when a question says "show that" or asks for exact values.
 
+## Frequently asked questions
+
+**What are the mean and variance of an exponential distribution?**
+For an exponential distribution with rate λ, the mean is 1/λ, the variance is 1/λ² and the standard deviation is 1/λ.
+
+**What is the formula for P(X > x) in an exponential distribution?**
+P(X > x) = e^(−λx) for x ≥ 0. The cdf, for the lower tail, is F(x) = 1 − e^(−λx).
+
+**How do you find the median of an exponential distribution?**
+Solve F(x) = 0.5, which gives x = ln 2 / λ.
+
+**What is the difference between the variance of X₁ + X₂ and of 2X?**
+For two independent copies of X, Var(X₁ + X₂) = 2Var(X). For 2X, the variance is 4Var(X), because Var(aX) = a²Var(X).
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2 (International AS exams from May/June 2018, A-level from May/June 2019), published by OxfordAQA: sections S2.2 (second part) and S2.3.

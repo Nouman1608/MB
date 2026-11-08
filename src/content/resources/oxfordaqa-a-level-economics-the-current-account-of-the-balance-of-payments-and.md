@@ -208,6 +208,23 @@ In the short run, policymakers can use different instruments for different aims,
 - Saying growth always reduces unemployment or always widens inequality. Give the condition.
 - Confusing deflationary policy with deflation. Deflationary policy reduces AD.
 
+## Frequently asked questions
+
+**What is the balance of payments?**
+The balance of payments is a record of a country's financial transactions with the rest of the world. The current account is only one part of it.
+
+**How does productivity affect the current account?**
+Higher productivity lowers unit labour costs, so firms can cut prices or raise quality. If this happens across exporters, goods become more competitive, so exports rise and imports may fall.
+
+**Why does growth at home often worsen the current account?**
+Rising incomes at home raise spending on imports. If import demand is more income elastic than export demand, or incomes grow faster at home than abroad, imports rise faster than exports.
+
+**Can economic growth widen inequality?**
+Yes. If higher incomes grow faster than lower incomes, average income rises while the share of the poorest falls, so inequality widens.
+
+**How can conflicts between macroeconomic objectives be reconciled?**
+In the short run, policymakers can use different instruments for different aims or accept a trade-off. In the long run, supply-side policies such as education, training and investment shift LRAS right, raising output without adding to inflation.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, first teaching September 2020, published by OxfordAQA: sections 3.2.3.4 and 3.2.3.5.

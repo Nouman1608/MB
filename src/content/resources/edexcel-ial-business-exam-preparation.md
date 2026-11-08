@@ -9,13 +9,13 @@ qualifications: ["a-level"]
 syllabusCodes: ["YBS11"]
 syllabusSeries: "Specification Issue 1, September 2017"
 order: 3
-description: "How the internal section structure of Edexcel IAL Business YBS11 changes between the AS units and the A2 units, why source booklets drive every answer, and a worked essay-from-source routine."
+description: "How Edexcel IAL Business (YBS11) exam structure changes from the AS units to the A2 units, why source booklets drive every answer, and a 20-mark essay routine."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Edexcel International A Level Business (YBS11) is modular: four externally assessed units, each 2
@@ -120,6 +120,20 @@ essay writing. 2. They draw on different source booklets, so answering Section B
 business is an easy and costly error. 3. Interpret it -- state what the figure means for the
 business's decision -- rather than quoting it and moving on. 4. When it is followed by the specific
 factor the answer turns on and an explanation of why that factor is decisive in this case.
+
+## Frequently asked questions
+
+**How many units are there in Edexcel International A Level Business?**
+Edexcel International A Level Business (YBS11) has four externally assessed units, each lasting 2 hours, worth 80 marks and 25% of the full qualification. Units 1 and 2 form the International Advanced Subsidiary, and Units 3 and 4 complete the full A Level.
+
+**How are marks split between source-based questions and essays?**
+In Units 1 and 2, 60 marks come from source-based short and extended responses and 20 from one essay. In Units 3 and 4, 40 marks come from source-based responses and 40 from two 20-mark essays.
+
+**Do Sections A and B use the same source in Units 1 and 2?**
+No. In Units 1 and 2, Sections A and B are based on different source booklets, so check which business each section is about before writing.
+
+**When is "it depends" acceptable in a 20-mark essay conclusion?**
+Only when it is followed by the specific factor the answer turns on, such as market conditions, cash position or time horizon, and why that factor is decisive for this business.
 
 *Written against the Pearson Edexcel International Advanced Level Business specification (official
 specification PDF, Issue 1, September 2017, verified 2026-08-28). The essay routine above is an

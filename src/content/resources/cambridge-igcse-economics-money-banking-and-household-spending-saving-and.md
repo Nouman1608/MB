@@ -280,6 +280,20 @@ Evaluation. A fall in interest rates may fail to raise spending if confidence is
 - Treating saving as money "lost". Saving is income not spent.
 - Giving a factor but no chain: say what changes, then what it does to spending, saving or borrowing.
 
+## Frequently asked questions
+
+**What do sections 3.1 and 3.2 of Cambridge IGCSE Economics 0455 cover?**
+They cover money (3.1.1), banking (3.1.2) and the influences on household spending, saving and borrowing (3.2.1).
+
+**What is money?**
+Money is anything that is generally accepted as payment for goods and services and for the settlement of debts. Its forms include coins and notes, bank deposits and digital payments.
+
+**What does lender of last resort mean?**
+The central bank acts as lender of last resort when it lends to a commercial bank that cannot meet its customers' withdrawals, so that savers keep confidence in the banking system.
+
+**How do commercial banks make a profit?**
+Commercial banks earn income from the gap between the interest they charge borrowers and the interest they pay savers, while keeping part of their deposits ready for withdrawals.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, Cambridge University Press & Assessment (Cambridge Assessment International Education), sections 3.1 Money and banking and 3.2 Households. Practise next with the [practice questions](/resources/cambridge-igcse-economics-money-banking-and-household-spending-saving-and-practice/) and the [free diagnostics](/diagnostics/).

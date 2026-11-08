@@ -254,6 +254,23 @@ The paragraph names a concept, applies it, chains it to a macro result, and ends
 - Drawing a diagram and never referring to it in the text.
 - Ignoring time: short run and long run often reverse a conclusion.
 
+## Frequently asked questions
+
+**How do you analyse an unseen theme in OCR A Level Economics?**
+Name the setting, list the actors, find the shock, sort the evidence into micro and macro, pick two or three models the evidence supports, then build a chain of reasoning and judge what matters most.
+
+**How much of OCR A Level Economics tests quantitative skills?**
+The specification states that quantitative skills make up at least 20% of the overall assessment marks, across the three components.
+
+**How should you tackle numerical multiple-choice questions?**
+Cover the options and work out your own answer first, check units and whether the answer is a percentage, points or a ratio, and eliminate options that break a definition.
+
+**What are common mistakes in Component 03 extended answers?**
+Writing a general essay instead of using the stimulus, treating micro and macro as separate halves, confusing percentage points with percentages or nominal with real values, and ignoring the time period are frequent errors.
+
+**How many marks are the extended response questions worth in Component 03?**
+Low-tariff questions are worth up to 4 marks, and extended responses range from 8 up to 25 marks, within 50 marks on the unseen theme.
+
 ## Official syllabus
 
 OCR, *A Level Economics (H460)*, Version 3.0 (June 2026), for first assessment in 2021. The sections used are 2c (Content of Component 3: Themes in economics), 3a (Forms of assessment), 3b (Assessment objectives), 3f (Synoptic assessment) and the Quantitative Skills annex.

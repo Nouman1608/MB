@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-nitrogen-compounds"
     subtopic: "as-nitriles-and-hydroxynitriles"
-description: "Original exam-style practice questions with full worked answers on primary amine preparation, nitriles and hydroxynitriles for AS Chemistry, with clearly labelled A Level extension questions on amine basicity and further amine routes."
+description: "Original practice questions with worked answers for Cambridge AS & A Level Chemistry 9701 on primary amines, nitriles and hydroxynitriles, with extension work."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -112,3 +112,17 @@ Syllabus outcome 19.1 is limited to **one production reaction** (a halogenoalkan
 - (A Level extension questions) Forgetting the second step (NaOH) in the phenylamine preparation; explaining phenylamine's weakness by the inductive effect rather than delocalisation; trying to reduce a nitrile with NaBH₄ — it is not a powerful enough reducing agent.
 
 For condensed recall notes on this topic, see the [Nitrogen Compounds revision notes](/resources/as-chemistry-nitrogen-compounds-revision-notes/); for the full explanation with worked examples, see the [Nitrogen Compounds: Amines and Nitriles study guide](/resources/as-nitrogen-compounds-amines-and-nitriles/).
+
+## Frequently asked questions
+
+**How is ethylamine made from bromoethane?**
+Bromoethane is heated with excess concentrated ammonia in ethanol in a sealed tube, by nucleophilic substitution. Using excess ammonia favours the primary amine.
+
+**Why must ethanolic KCN be used to make a nitrile from a halogenoalkane?**
+Ethanolic KCN gives substitution to the nitrile. In aqueous conditions hydroxide ions compete, favouring hydrolysis to the alcohol instead.
+
+**What happens when a nitrile is hydrolysed with sodium hydroxide?**
+Alkaline hydrolysis gives the carboxylate salt and releases ammonia. The mixture must then be acidified to obtain the free carboxylic acid.
+
+**Which questions on this page are beyond AS level?**
+The questions on amine basicity, reducing nitriles to amines, phenylamine and the reaction of methylamine with acid are labelled A Level extension rather than AS content in Cambridge 9701.

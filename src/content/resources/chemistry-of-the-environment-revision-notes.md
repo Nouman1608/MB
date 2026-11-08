@@ -30,9 +30,9 @@ syllabusTopics:
     subtopic: "air-quality-and-climate"
 description: "Condensed recall notes on water treatment, fertilisers, air pollutants and the greenhouse effect for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -175,3 +175,16 @@ Photosynthesis is the reverse of respiration (and of burning glucose), and it is
   <figcaption>CO2 and methane absorb thermal energy and re-emit some back down, slowing loss to space.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between carbon monoxide and carbon dioxide as pollutants?**
+Carbon monoxide is toxic, while carbon dioxide is a greenhouse gas. Swapping their effects is a common exam trap in Cambridge IGCSE 0620 and O Level 5070.
+
+**Is the greenhouse effect harmful?**
+The natural greenhouse effect is necessary to keep the Earth warm. It is the enhanced greenhouse effect, caused by extra greenhouse gases, that leads to climate change.
+
+**How does eutrophication kill fish?**
+Eutrophication kills fish through oxygen depletion in the water, not by poisoning them. This point is needed for the mark.
+
+**What is the difference between flue gas desulfurisation and a catalytic converter?**
+Flue gas desulfurisation removes sulfur dioxide from power station gases using calcium oxide, tackling acid rain. A catalytic converter is a different method, used in vehicles to reduce exhaust pollutants.

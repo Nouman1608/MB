@@ -13,13 +13,13 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "structures-and-functions-in-living-organisms-edexcel-igcse-biology"
     subtopic: "cell-structure-4bi1"
-description: "Cell structures and their functions, plant vs animal cells, and the three major biological molecules -- sub-topics (b) and (c) of Topic 2 Structures and Functions in Living Organisms, Pearson Edexcel International GCSE Biology (4BI1)."
+description: "Cell structures and functions, plant and animal cells, biological molecules and enzymes, covering Topic 2 sub-topics (b) and (c) of Edexcel IGCSE Biology 4BI1."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide covers **sub-topics (b) Cell Structure and (c) Biological
@@ -176,6 +176,20 @@ it across carbohydrates, proteins and lipids.
 - Explain enzyme temperature and pH effects in terms of active-site
 shape and denaturation, not vague heat damage.
 
+## Frequently asked questions
+
+**What does a "B" reference mean in the Edexcel International GCSE Biology 4BI1 specification?**
+Points marked B, such as 2.5B cell differentiation and 2.6B stem cells, are in the Biology International GCSE but not the Science Double Award. They are assessed on Paper 2.
+
+**What are carbohydrates, proteins and lipids made from?**
+Starch and glycogen are built from simple sugars, proteins are built from amino acids, and lipids are built from fatty acids and glycerol. The same units are released when these molecules are digested.
+
+**Which structures do plant cells have that animal cells do not?**
+Plant cells have a cell wall, chloroplasts and a large permanent vacuole. Both plant and animal cells have a nucleus, cytoplasm, cell membrane, mitochondria and ribosomes.
+
+**Is enzyme denaturation permanent?**
+Yes. At high temperature the active site changes shape and activity does not recover when the enzyme is cooled. At low temperature activity is reduced but the enzyme is not damaged, so it speeds up again when warmed toward its optimum.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3
@@ -230,4 +244,3 @@ Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3
   <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--07-starch-iodine-end-point.webp" width="900" height="990" alt="Starch and amylase tubes stand in a water bath at a set temperature. After mixing, one drop every 30 seconds goes on iodine in a spotting tile. Wells at 30 to 120 seconds are blue-black; the well at 150 seconds is the first orange-brown, the end point. Rate = 1000 ÷ 150 = 6.7." loading="lazy">
   <figcaption>The end point is the first well where iodine stays orange-brown.</figcaption>
 </figure>
-

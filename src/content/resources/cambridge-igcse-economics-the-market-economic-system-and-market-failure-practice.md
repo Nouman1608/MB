@@ -151,6 +151,20 @@ This set tests sections 2.9 and 2.10 of the Cambridge IGCSE Economics 0455 sylla
 - Try all [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What two features make a good a public good?**
+A public good is non-excludable, so non-payers cannot be stopped from benefiting, and non-rival, so one person's use does not reduce what is left for others. Giving only one feature loses marks.
+
+**What is the difference between external cost and social cost?**
+External cost is the cost to third parties who are not part of the transaction. Social cost is private cost plus external cost, so check which one the question asks for.
+
+**Are merit goods over-consumed or under-consumed?**
+Merit goods are under-consumed in a free market and demerit goods are over-consumed. Reasons for under-consumption of merit goods include imperfect information as well as a lack of money.
+
+**Why can a monopoly raise its price?**
+A monopoly is protected by barriers to entry and its product has no close substitutes, so customers have few alternatives. It can restrict output and raise price, which Cambridge IGCSE Economics 0455 answers should explain rather than just assert.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455, syllabus for examination in 2026, Version 2, published by Cambridge University Press & Assessment (Cambridge Assessment International Education), sections 2.9 and 2.10.

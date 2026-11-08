@@ -422,6 +422,20 @@ t = 3.05 s   (reject the negative root)
 - Using the sine rule when the given angle is not opposite a given side.
 - Stopping at ± in the quadratic formula without calculating both values.
 
+## Frequently asked questions
+
+**What does algebraic formulae cover in OCR GCSE Mathematics J560?**
+Section 6.02 covers forming formulae, substituting into them, changing the subject, using standard formulae and the kinematics formulae. Most of it is for both tiers.
+
+**How do you write a formula for a fixed charge plus a cost per unit?**
+Write the fixed charge as a number on its own, the charge per unit as a number multiplied by the letter, and add them. A £35 call-out plus £22 an hour gives C = 35 + 22h.
+
+**How do you make t the subject of h = (3t − 5)/(t + 2)?**
+Multiply both sides by (t + 2), collect the terms in t on one side, factorise out t, then divide by the remaining bracket.
+
+**Which kinematics formulae are used in OCR GCSE Mathematics?**
+The formulae are v = u + at, s = ut + ½at² and v² = u² + 2as. Choose the one that links the quantity you want to the quantities you are given.
+
 ## Next steps
 
 Condense this unit using the [revision notes](/resources/ocr-gcse-mathematics-algebraic-formulae-forming-substituting-rearranging-revision-notes/), then test yourself with the [practice questions](/resources/ocr-gcse-mathematics-algebraic-formulae-forming-substituting-rearranging-practice/).

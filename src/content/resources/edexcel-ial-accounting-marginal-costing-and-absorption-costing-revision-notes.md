@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Marginal costing and absorption costing (YAC11) -- Revision Notes"
+title: "Edexcel International A Level Accounting: Marginal costing and absorption costing (YAC11) -- Revision Notes"
 seoTitle: "Edexcel IAL Accounting Marginal Costing Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"
@@ -231,6 +231,19 @@ If only one product exists, there is no ranking to do: output is simply the fact
   <figcaption>ABC charges overheads by the activities that cause them, which can change product costs and prices sharply.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is contribution in marginal costing?**
+Contribution is revenue minus all variable costs, including variable selling costs. In a marginal costing statement it is the subtotal before fixed costs are deducted, and it should be labelled contribution, not gross profit.
+
+**Are selling and administration costs included in inventory value?**
+No. Selling, distribution and administration costs are period costs under both marginal and absorption costing, so they are deducted in the period and never included in the value of closing inventory.
+
+**Do you close a product or service that makes a loss after apportioned overheads?**
+Not automatically. Apportioned fixed costs usually remain after closure and are charged to the other products, so the test is whether the product's contribution exceeds the costs that closure would actually save.
+
+**What is a limiting factor?**
+A limiting factor is a scarce resource, such as materials, labour hours, machine hours or space, that stops a business meeting all demand. When one applies, products are ranked by contribution per unit of that resource rather than by contribution per unit.
 
 ## Official syllabus
 

@@ -132,6 +132,20 @@ These questions cover OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate the area of a bacterial colony or clear zone?**
+Use area = πr², where r is half the diameter. For the clear agar around an antibiotic disc, subtract the area of the disc from the area of the whole clear zone.
+
+**How many aseptic precautions do you need to give for full marks?**
+Give as many different precautions as the marks available, each with a reason, such as flaming the loop to sterilise it or taping the lid so oxygen can still enter. Repeating "keep it sterile" in different words counts as only one idea.
+
+**How do you judge whether a drug trial shows the drug works?**
+Compare the drug group with the placebo group, because the placebo group may also improve. Only the difference between the two groups can be credited to the drug.
+
+**How do you calculate percentage change in GCSE Biology?**
+Subtract the original value from the new value, divide by the original value and multiply by 100, keeping the sign to show an increase or decrease. Dividing by the new value is a common slip.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Statements B6.3m, B6.3n, B6.3p and B6.3q.

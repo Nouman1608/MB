@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Marketing mix and strategy (YBS11) -- Practice Questions"
+title: "Edexcel International A Level Business: Marketing mix and strategy (YBS11) -- Practice Questions"
 seoTitle: "Edexcel IAL Business Marketing Mix Practice Questions"
 resourceType: "practice-questions"
 subject: "business"
@@ -138,6 +138,20 @@ These questions cover section 1.3.3, Marketing mix and strategy, in Unit 1 (Mark
 - Tick off the topic on the [checklist](/checklists/edexcel/a-level/business/) and return to the [course hub](/boards/edexcel/a-level/business/).
 - Try the [free diagnostics](/diagnostics/) to find the next weak spot.
 - [Book a free trial class](/trial/) for help with the weak topics.
+
+## Frequently asked questions
+
+**What do these marketing mix and strategy questions cover?**
+They cover section 1.3.3 of Unit 1 in Pearson Edexcel International A Level Business (YBS11): marketing objectives, the product life cycle and Boston Matrix, design, promotion and branding, pricing strategies and distribution.
+
+**How is Unit 1 of Edexcel IAL Business assessed?**
+Unit 1 is a 2-hour written paper of 80 marks. Sections A and B each carry 30 marks of short and extended responses tied to sources, and Section C is a single 20-mark essay.
+
+**What are common mistakes with mark-up and relative market share?**
+Applying mark-up to the selling price instead of the unit cost, and dividing by total market share instead of the largest rival's share when finding relative market share.
+
+**How should you give a price elasticity answer?**
+Show your working, give the value with its sign, and say what it means, for example whether demand is price elastic or inelastic and what that means for revenue.
 
 ## Official syllabus
 

@@ -150,6 +150,20 @@ Use v = 343 m s⁻¹ for the speed of sound in air.
 - Putting the diameter instead of the radius into the area of a circle.
 - Rounding too early, or omitting units.
 
+## Frequently asked questions
+
+**What are the most common mistakes in wave motion questions?**
+Common errors include using the time base setting as the period without multiplying by the divisions per cycle, mixing up displacement-time and displacement-distance graphs, and saying frequency changes in refraction. Treating intensity as proportional to amplitude instead of amplitude squared also loses marks.
+
+**How do you answer a diffraction question for full marks?**
+Compare the wavelength with the gap width: diffraction is significant when they are comparable. An answer that does not make this comparison is incomplete.
+
+**What should you conclude from a polarisation experiment?**
+After describing the observations, state that the wave must be transverse, because only transverse waves can be polarised. Describing what happens without that conclusion loses a mark.
+
+**Where is a compression on a displacement-distance graph of a longitudinal wave?**
+Taking displacement to the right as positive, the centre of a compression is at a zero crossing where the graph slopes downwards. It is not at a peak of the graph.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ocr-a-level-physics-wave-motion-polarisation-and-wave-effects-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-wave-motion-polarisation-and-wave-effects/).

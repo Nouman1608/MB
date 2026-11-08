@@ -147,6 +147,23 @@ These questions test globalisation in the OxfordAQA International AS and A-level
 - Find gaps: all free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class: [trial](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on globalisation questions?**
+Common losses are using "percent" where "percentage points" is needed for a change in openness, quoting a nominal wage rise without deflating it, assuming lower emissions per unit means lower total emissions, and treating all LEDCs or MEDCs as alike.
+
+**How do you calculate the openness ratio?**
+Add exports and imports, divide by GDP and multiply by 100. A change between two openness ratios should be given in percentage points.
+
+**How do I work out the tax saved through transfer pricing?**
+Work out the profit in each country before applying that country's own tax rate, then compare the total tax at the two transfer prices. Applying one tax rate to the group's total profit is a common mistake.
+
+**How should I answer an evaluate question on whether a country gains from globalisation?**
+Compare the size of the gains and losses, name which groups win and lose, use any data given and reach a supported judgement. A list of costs and benefits with no judgement scores less well.
+
+**Which OxfordAQA 9640 section do these questions cover?**
+They cover section 3.4.1.1, Globalisation, of the OxfordAQA International AS and A-level Economics (9640) specification, which is International A2 content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, section 3.4.1.1 Globalisation. First teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022.

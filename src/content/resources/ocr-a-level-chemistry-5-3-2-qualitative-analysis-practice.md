@@ -178,6 +178,23 @@ Judgement: her chloride result is invalid; her copper result is supported but no
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry 5.3.2 qualitative analysis questions from past papers?**
+No. They are original practice questions with marked answers, written for section 5.3.2 of the OCR A Level Chemistry A (H432) specification.
+
+**Which H432 papers assess qualitative analysis?**
+Section 5.3.2 is in Module 5, which is assessed in components 01 and 03 of the full A level.
+
+**What happens when excess ammonia is added to a copper(II) precipitate?**
+The pale blue precipitate dissolves to give a deep blue solution. Calling it a "deep blue precipitate" is a common error.
+
+**Why should you avoid hydrochloric acid or barium chloride before a halide test?**
+They add chloride ions to the sample, which would give a false positive with silver nitrate.
+
+**What must a "describe a test" answer include?**
+It must give the reagent and the observation. A reagent without an observation is a common way to lose marks.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 5.3.2 Qualitative analysis, learning outcome (a)(i) and (a)(ii), with additional guidance (PAG4, HSW4) and the linked statements 3.1.4(a) and 5.3.1(j). Published by OCR.

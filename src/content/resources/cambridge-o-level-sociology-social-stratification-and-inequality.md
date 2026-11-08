@@ -12,13 +12,16 @@ order: 3
 syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-research-methods-identity-inequality-2251"
-description: "Class, gender, ethnicity and life chances -- Topic 3, Social Stratification and Inequality, given a full deep dive beyond the connective overview treatment in the site's existing whole-Paper-1 study guide."
+  - qualification: "o-level"
+    topic: "paper-1-research-methods-identity-inequality-2251"
+    subtopic: "kq-3-1-2251"
+description: "Cambridge O Level Sociology (2251) Topic 3, Social Stratification and Inequality: class, gender, ethnicity, life chances, meritocracy and intersectionality."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-09
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide expands on **Topic 3: Social Stratification and Inequality**, part of Paper 1 in Cambridge
@@ -138,3 +141,17 @@ rather than showing awareness that they can intersect and compound one another f
 - Practise applying stratification concepts to a given scenario, rather than only reciting definitions.
 - Revise how class, gender and ethnicity can intersect in shaping an individual's experience of
   stratification.
+
+## Frequently asked questions
+
+**What are life chances in sociology?**
+Life chances are a person's opportunities to improve their quality of life, such as access to good education, secure employment, healthcare and material security. They show that stratification has concrete consequences.
+
+**What is a meritocracy?**
+A meritocracy is a system in which social position is determined by individual ability and effort rather than inherited advantage. Sociologists challenge how meritocratic societies really are, because starting points such as family wealth and education access are unequal.
+
+**What does section 3.1 of the 2251 syllabus cover?**
+Section 3.1 covers stratification in open and closed societies, including achieved and ascribed status, poverty and wealth, power, social mobility, meritocracy, modern slavery and the caste system, and how age, gender, ethnicity and class affect life chances.
+
+**What does intersectionality mean in stratification?**
+Intersectionality means that class, gender, ethnicity and age can combine and compound one another in shaping a person's life chances, rather than acting as separate forms of inequality.

@@ -12,11 +12,11 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "topic-c1-particles-j248"
     subtopic: "c1-2-atomic-structure-j248"
-description: "Condensed recall notes covering both C1.2 Atomic structure (assessed on Papers 1 and 3) and C4.1 Predicting chemical reactions -- periodic table development and Group 1/7/0 properties (assessed on Papers 2 and 4) -- for GCSE Chemistry."
+description: "Recall notes for OCR GCSE Chemistry J248 on C1.2 atomic structure and C4.1 periodic table, Group 1, 7 and 0 trends, which are assessed on different papers."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -239,3 +239,16 @@ Unreactive because they have **full outer shells**, so they have no tendency to 
   <figcaption>Group 0 elements have full outer shells, which makes them unreactive.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What did the alpha-scattering experiment show?**
+Most alpha particles passed straight through, showing the atom is mostly empty space; some were deflected, showing the nucleus is positive; and a very few bounced back, showing the nucleus is very small but contains most of the mass. Each observation needs its conclusion.
+
+**Why are relative atomic masses not whole numbers?**
+Relative atomic mass is a weighted average of the masses of an element's isotopes, based on their abundances. Chlorine, with chlorine-35 and chlorine-37, is the standard example.
+
+**Why does Group 7 reactivity decrease down the group?**
+A halogen atom must gain an electron. Further down the group the outer shell is further from the nucleus with more shielding, so an incoming electron is attracted less strongly.
+
+**Which OCR J248 papers assess atomic structure and the periodic table?**
+In OCR GCSE Chemistry J248, C1.2 Atomic structure is assessed on Papers 1 and 3, while C4.1 Predicting chemical reactions, including the periodic table and group properties, is assessed on Papers 2 and 4.

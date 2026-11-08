@@ -176,6 +176,23 @@ Worked reminder: reading a stacked bar. In a sectional bar chart with 1 cm = 10 
 - Leaving out titles, axis labels or sector labels.
 - Showing only the final figures when the question asks for working.
 
+## Frequently asked questions
+
+**What is the difference between a sectional bar chart and a percentage bar chart?**
+A sectional bar chart shows amounts, with each bar's height equal to its total. A percentage bar chart shows shares, with every bar the same height and each part a percentage of its own total.
+
+**What is the difference between a dual bar chart and a sectional bar chart?**
+A dual bar chart puts the bars for two groups side by side for each category. A sectional bar chart stacks the components of each bar on top of one another.
+
+**What is the formula for a pie chart angle?**
+Angle = (frequency ÷ total) × 360°. It is quicker to find the angle for one item first, 360° ÷ total, then multiply by each frequency.
+
+**What sets the scale in a pictogram?**
+The key value sets the scale in a pictogram, while in a bar chart the axis does. Forgetting the key on a pictogram or dual bar chart is a common way to lose marks.
+
+**Which sections of Cambridge O Level Statistics 4040 do these notes cover?**
+They condense section 2.1 (tables and two-way tables) and the pictogram, pie chart and bar chart parts of section 2.2 of the 4040 syllabus for examination in 2025, 2026 and 2027.
+
 ## Official syllabus
 
 This page is written against the Cambridge International Education syllabus Cambridge O Level Statistics (4040), version 1, valid for the 2025, 2026 and 2027 examinations. Publisher: Cambridge University Press & Assessment. Sections used: 2.1 and 2.2.

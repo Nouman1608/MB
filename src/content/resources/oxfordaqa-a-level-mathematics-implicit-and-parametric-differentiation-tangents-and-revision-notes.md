@@ -203,6 +203,19 @@ For a general-point question, keep the letter p or φ throughout and clear fract
   <figcaption>The tangent and normal at P(2, 3) are perpendicular because their gradients multiply to −1.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you find the equation of a normal to a curve?**
+Find the tangent gradient m at the point, then use the normal gradient −1/m in y − b = m(x − a) form. The tangent and normal gradients multiply to −1.
+
+**What is the difference between dy/dt and dy/dx on a parametric curve?**
+dy/dt is the rate of change of y with the parameter. The gradient of the curve is dy/dx, found as (dy/dt) ÷ (dx/dt).
+
+**When does a curve have a vertical tangent?**
+A curve has a vertical tangent where the denominator of dy/dx is zero but the numerator is not. For a parametric curve this means dx/dt = 0 with dy/dt ≠ 0, and the tangent is x = constant.
+
+**What should you do if both dx/dt and dy/dt are zero?**
+The formula gives 0/0, so do not quote a gradient or call it a horizontal tangent without further work.
 
 ## Official syllabus
 

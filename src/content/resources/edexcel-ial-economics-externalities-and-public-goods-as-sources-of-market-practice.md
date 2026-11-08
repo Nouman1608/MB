@@ -152,6 +152,20 @@ These questions are aligned to the Pearson Edexcel International Advanced Subsid
 - Calling a good public because the state provides it, or testing only one of rivalry and excludability.
 - Describing free riding with no link to non-provision, or ending an evaluation without a judgement.
 
+## Frequently asked questions
+
+**How should you set out an externality calculation?**
+Write down the two equations you set equal, such as marginal social cost and marginal social benefit, before solving. If the equation is not shown, an arithmetic slip cannot be traced and method marks are lost.
+
+**Is the total external cost the same as the welfare loss?**
+No. The welfare loss is only the triangle between the socially optimal quantity and the market quantity. Using the whole external cost, or the whole area under the curves, is a common error in Edexcel International A Level Economics questions.
+
+**How do you test whether a good is a public good?**
+Test rivalry and excludability separately. A public good is both non-rival and non-excludable, so checking only one feature is not enough.
+
+**How do you link free riding to market failure?**
+Explain that people can use a non-excludable good without paying, so firms cannot charge for it and will not supply it. The market failure is non-provision of a good worth having.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/edexcel-ial-economics-externalities-and-public-goods-as-sources-of-market-revision-notes/) and [study guide](/resources/edexcel-ial-economics-externalities-and-public-goods-as-sources-of-market/).

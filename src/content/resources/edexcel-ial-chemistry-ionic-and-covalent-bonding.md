@@ -235,6 +235,23 @@ The further suggested practical tests this directly. A charged rod held next to 
 
 Try the [practice questions](/resources/edexcel-ial-chemistry-ionic-and-covalent-bonding-practice/). Wider Unit 1 reading: the [overview guide to structure, bonding and organic chemistry](/resources/a-level-edexcel-chemistry-structure-bonding-organic-chemistry/) and the [overview bonding notes](/resources/edexcel-a-level-chemistry-bonding-revision-notes/).
 
+## Frequently asked questions
+
+**Are shapes of molecules and metallic bonding in this Edexcel IAL Chemistry guide?**
+No. This guide teaches Topic 3 parts 3A and 3B, outcomes 3.1 to 3.15, of the Pearson Edexcel specification (XCH11/YCH11). Shapes of molecules (3C) and metallic bonding (3D) are taught on a separate page.
+
+**What is the evidence for ions in ionic compounds?**
+Ionic compounds have high melting temperatures and conduct only when molten or dissolved. Electron density maps show nearly circular contours around each ion with density falling almost to zero between them, and coloured ions migrate towards the oppositely charged electrode.
+
+**What is polarisation in ionic bonding?**
+Polarisation is the distortion of an anion's electron cloud by a nearby cation. Electron density is pulled into the space between the ions, so the bond gains some covalent character.
+
+**What is the bonding continuum between ionic and covalent?**
+Ionic and covalent bonding are the ends of one continuum. Equal electronegativity gives pure covalent bonding, a small difference gives polar covalent bonding and a very large difference gives ionic bonding, with no sharp cut-off.
+
+**Why does Al₂Cl₆ form from AlCl₃?**
+Aluminium in AlCl₃ has only six outer electrons. In the vapour at lower temperatures, a chlorine atom of each unit donates a lone pair to the aluminium of the other, forming two dative bonds so each aluminium has eight outer electrons.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11), Specification, Issue 1, September 2017, published by Pearson Education Limited. Topic 3: Bonding and Structure, parts 3A Ionic bonding and 3B Covalent bonding, outcomes 3.1 to 3.15.

@@ -190,6 +190,20 @@ Links: [study guide](/resources/oxfordaqa-igcse-chemistry-carbon-compounds-as-fu
 - Try one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in fuels questions?**
+Frequent slips include saying fractions are separated by melting point, forgetting the column is cooler at the top, and leaving water out of incomplete combustion products.
+
+**How should you answer an "evaluate biofuels" question?**
+Give both advantages and disadvantages, using any information provided, and then make a judgement. A one-sided answer that lists only advantages does not earn full marks.
+
+**How do you balance a cracking equation?**
+Make the total number of carbon atoms and hydrogen atoms on the right equal those in the starting hydrocarbon. Check hydrogen as well as carbon, because equations that balance only carbon are a common error.
+
+**Is the bromine water test a required practical in OxfordAQA 9202 Chemistry?**
+Yes. Testing for a carbon–carbon double bond with bromine water is the required practical in this unit, and you may be asked about its risk assessment, such as wearing eye protection and gloves.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. This practice set covers section 3.10.1 Carbon compounds as fuels and the required practical on testing for a double bond.

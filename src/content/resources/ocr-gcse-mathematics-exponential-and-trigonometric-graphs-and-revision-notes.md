@@ -251,6 +251,20 @@ When a graph is supplied without its equation, use its key points. Read off the 
 </figure>
 
 
+## Frequently asked questions
+
+**What point does every graph of y = kˣ pass through?**
+Every graph of y = kˣ with k > 0 passes through (0, 1), because k⁰ = 1. The graph stays above the x-axis and has the asymptote y = 0.
+
+**What is the period of the sin, cos and tan graphs?**
+y = sin x and y = cos x repeat every 360°, while y = tan x repeats every 180°. Sine and cosine have a range of −1 to 1, but tangent takes all values and has asymptotes instead of a maximum or minimum.
+
+**How do you reflect a graph in the x-axis?**
+Put a minus sign in front of the whole right-hand side of the equation, which changes the sign of every y-value. For example, y = x² − 6x becomes y = −x² + 6x, not −x² − 6x.
+
+**How can you count the solutions of an equation like sin x = 0.4?**
+Draw the line y = 0.4 on a sketch of y = sin x and count the crossings. For a value between 0 and 1, there are two solutions every 360°, so there are four between 0° and 720°.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, specification Version 2.1 (August 2026), first assessment 2017, published by OCR: statements 7.01b, 7.01d, 7.01e and 7.03a.

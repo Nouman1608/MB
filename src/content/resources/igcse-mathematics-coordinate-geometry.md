@@ -25,14 +25,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "coordinate-geometry-cambridge-igcse-maths"
     subtopic: "perpendicular-lines-cambridge-igcse-maths"
-description: "Coordinates, straight-line graphs, gradient, length, midpoint, and parallel and perpendicular lines -- the Core and Extended content of Topic 3 Coordinate geometry for Cambridge IGCSE Mathematics 0580, 2025-2027 series."
+description: "Core and Extended Topic 3 Coordinate geometry for Cambridge IGCSE Maths 0580 (2025-2027): gradient, line equations, length, midpoint and perpendicular lines."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This guide covers **Topic 3 Coordinate geometry**, for Cambridge
@@ -182,6 +182,20 @@ answer instead of the calculated values of m and c.
 - Practise multi-step questions that chain several of these
   techniques together, since this is how Extended-tier questions
   typically combine the subtopics.
+
+## Frequently asked questions
+
+**Is the length and midpoint of a line Core or Extended in 0580?**
+Length and midpoint are Extended-only content in Cambridge IGCSE Mathematics 0580, under subtopic E3.4.
+
+**Do Core candidates find gradients from coordinates?**
+No. Core (C3.3) finds the gradient of a straight line from a grid only, while Extended (E3.3) adds calculating the gradient from the coordinates of two points.
+
+**What is a perpendicular bisector?**
+The perpendicular bisector of a line segment passes through its midpoint at right angles to it. Its gradient is the negative reciprocal of the segment's gradient, and finding its equation is part of Extended subtopic E3.7.
+
+**Why do sign errors happen in gradient calculations?**
+Sign errors usually come from swapping which point is (x₁, y₁) and which is (x₂, y₂) partway through. Subtract the coordinates in the same order in the numerator and the denominator.
 
 ## Official syllabus
 

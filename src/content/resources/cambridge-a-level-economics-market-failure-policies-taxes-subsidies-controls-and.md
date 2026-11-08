@@ -233,6 +233,20 @@ The state supplies public goods, which are non-excludable, so private firms cann
 - Calling a quota revenue for the government.
 - Evaluating without numbers, time or elasticity.
 
+## Frequently asked questions
+
+**Which Cambridge 9708 measures does this guide to taxes, subsidies and controls cover?**
+It covers the first group of measures in section 8.1.1 of the Cambridge International AS & A Level Economics 9708 syllabus: specific and ad valorem indirect taxes, subsidies, price controls, production quotas, prohibitions and licences, regulation and deregulation, and direct provision.
+
+**Does a production quota raise revenue for the government?**
+No. A quota fixes output and the price rises to clear demand, but the extra income goes to the sellers holding the quota. Calling a quota revenue for the government is a common error.
+
+**What are the gains and risks of deregulation?**
+Deregulation removes controls to increase competition, which can bring lower prices, more choice and lower costs. It may also reduce quality, so treat price, output and quality separately before judging.
+
+**How should you evaluate a policy to correct market failure?**
+Use numbers, the time period and elasticity in your evaluation. Evaluating without them is a common error.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics (9708), syllabus for examination in 2026, 2027 and 2028, published by Cambridge International, section 8.1.1.

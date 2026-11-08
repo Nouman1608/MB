@@ -135,6 +135,20 @@ These questions cover tariffs, quotas, export subsidies, the causes and conseque
 - Giving WTO roles with no effect on trade.
 - Ending evaluation with "it depends" and no reason.
 
+## Frequently asked questions
+
+**What import volume should tariff revenue be calculated on?**
+Use the import volume after the tariff, not the free-trade import volume, then multiply by the tariff per unit.
+
+**Is the whole consumer surplus loss from a tariff a deadweight loss?**
+No. Part goes to domestic producers and part to the government as revenue; only the production and consumption triangles are deadweight loss.
+
+**How do I show trade diversion in an answer?**
+Compare the landed prices, including the tariff, of the outside supplier and the member before and after the customs union is formed.
+
+**What is a common mistake about quotas?**
+Not saying who holds the import licences. The quota rent goes to whoever holds the licences, which is the government only if it sells them.
+
 ## Next steps
 
 - Review the [revision notes](/resources/aqa-a-level-economics-protectionism-trading-blocs-and-the-wto-revision-notes/) and [study guide](/resources/aqa-a-level-economics-protectionism-trading-blocs-and-the-wto/).

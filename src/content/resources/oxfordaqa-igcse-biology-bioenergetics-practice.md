@@ -12,14 +12,14 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "bioenergetics-oxfordaqa-igcse-biology"
-description: "Original exam-style practice questions with full worked answers on photosynthesis, exchange and transport in plants, human circulation, digestion, breathing and respiration for OxfordAQA International GCSE Biology (9201)."
+description: "Practice questions with worked answers on photosynthesis, plant transport, circulation, digestion, breathing and respiration for OxfordAQA IGCSE Biology 9201."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-03
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -137,3 +137,17 @@ to answer synoptic questions that expect a candidate to compare or link the two 
 - Naming an enzyme without stating what substance it breaks down.
 - Describing xylem or phloem without specifying the direction of transport.
 - Treating B-marked content (e.g. pacemakers, stents, artificial hearts) as optional -- in the specification, B marks content that is in International GCSE Biology but not in Combined Science, so it is required for every 9201 Biology candidate.
+
+## Frequently asked questions
+
+**How do you answer a limiting factor question in IGCSE Biology?**
+Work out which factor (light, temperature or carbon dioxide) is in short supply in the scenario given, using what the question says has and has not changed. Listing all three factors generically does not earn the marks.
+
+**What does it mean when a photosynthesis graph levels off?**
+While the graph rises, the factor on the x-axis is limiting. Once it plateaus, that factor is no longer limiting and another one, such as carbon dioxide concentration or temperature, is holding the rate back.
+
+**How are marks given for tracing oxygen or glucose through the body?**
+Marks are typically awarded per correctly sequenced and explained stage, so name each system in order and say what happens at each one. Naming the systems alone usually earns only part of the credit.
+
+**Is B-marked content optional in OxfordAQA 9201 Biology?**
+No. In the specification, B marks content that is in International GCSE Biology but not in Combined Science, so topics such as pacemakers, stents and artificial hearts are required for every 9201 Biology candidate.

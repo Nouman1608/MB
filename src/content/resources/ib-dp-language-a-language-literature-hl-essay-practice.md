@@ -19,11 +19,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-language-and-literature-intertextuality"
 description: "Original IB DP Language and Literature HL essay practice: three passages, line-of-inquiry, analysis, referencing and essay-plan tasks with answers."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -243,6 +243,20 @@ produces three separate descriptions.
 - Tick off skills on the [printable checklist](/checklists/ib/ib-dp/language-a-language-and-literature/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Do SL students write the HL essay in IB Language and Literature?**
+No. The HL essay is written only by Higher Level students of IB DP Language A: Language and Literature; SL students take Paper 1, Paper 2 and the individual oral.
+
+**What makes a weak HL essay paragraph?**
+Common weaknesses are writing about a topic rather than answering a focused line of inquiry, naming techniques without quoting words and explaining their effect, and dropping quotations in as separate sentences instead of embedding them.
+
+**Do you need to cite an idea you paraphrased from a critic?**
+Yes. A borrowed idea needs a citation even when it is written in your own words, not only when you quote exactly.
+
+**How should you write about a non-literary body of work in the HL essay?**
+Track features that recur across the texts, such as a repeated slogan, image or form of address, and explain how their effect builds. Discussing each text separately, one after another, is a common way to lose focus.
 
 ## Official syllabus
 

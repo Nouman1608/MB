@@ -181,6 +181,20 @@ Decimal **0.4** and percentage **40%** [1]
 - Try the [free 10-minute diagnostics](/diagnostics/) to find the next topic to revise.
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Can a probability be written as a ratio?**
+No. A probability must be a fraction, decimal or percentage between 0 and 1, never a ratio such as 3:5 and never a value above 1.
+
+**Is the probability of a two-outcome event always 1/2?**
+Only when the two outcomes are equally likely. A drawing pin landing point up or point down, for example, has two outcomes that need not be equally likely.
+
+**How do you work out expected frequency?**
+Multiply the probability of the event by the number of trials. Multiplying by the wrong quantity, such as the number of counters in the bag instead of the number of trials, is a common error.
+
+**Can you say a die is biased from one small experiment in OxfordAQA 9260?**
+No. In OxfordAQA International GCSE Mathematics (9260), a gap between results and the model in a small experiment could easily be chance, so a good answer mentions the number of trials and suggests more trials before deciding.
+
 ## Official syllabus
 
 These questions follow the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA, section 3.4.3 Probability, statements S9 to S13.

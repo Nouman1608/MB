@@ -128,6 +128,20 @@ Calculate the balance for each component, the current account balance, and the t
 - Stopping at the home effects when the question asks about the global economy.
 - Judging a deficit without referring to size, cause or financing.
 
+## Frequently asked questions
+
+**What is a common sign error in balance of payments calculations?**
+Reversing signs so that a deficit appears as a surplus. Subtract debits from credits for each item and check the sign of the final balance.
+
+**How do I judge a change in unit labour cost?**
+Compare it with competitors' unit labour costs. Writing that unit labour cost rose, with no comparison, does not show the effect on competitiveness.
+
+**What is often forgotten in elasticity questions on depreciation?**
+The rise in import prices. Calculate the change in import volume and also apply the higher price to imports, rather than changing volumes only.
+
+**How should I judge whether a current account deficit matters?**
+Refer to its size relative to GDP, its cause and how it is financed, rather than assuming every deficit is bad.
+
 ## Next steps
 
 - [Revision notes](/resources/aqa-a-level-economics-the-balance-of-payments-and-correcting-imbalances-revision-notes/) for condensed recall.

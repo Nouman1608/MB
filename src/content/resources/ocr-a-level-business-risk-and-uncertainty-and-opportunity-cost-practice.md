@@ -100,6 +100,20 @@ These questions cover the Risk and uncertainty and Opportunity cost content (num
 - Describing stakeholder effects without saying which group and how.
 - Closing an evaluation with a recap that never commits to a conclusion.
 
+## Frequently asked questions
+
+**What is the most common mistake with opportunity cost questions?**
+The most common mistake is treating opportunity cost as the amount of money spent, or as the total of every option rejected. Opportunity cost is only the value of the next best alternative given up.
+
+**How do you show working in an expected value question?**
+Multiply each net outcome by its probability, add the results, and keep any minus signs for loss outcomes. Leaving out a minus sign on a loss is a common way to lose accuracy marks.
+
+**How should you evaluate methods of reducing risk in OCR A Level Business?**
+Judge each method on its cost, how effective it is and whether it suits the business in the case, such as a pilot or trial before a large commitment. In OCR A Level Business (H431) the evaluation marks come from weighing these against each other and reaching a justified judgement.
+
+**What risks does an entrepreneur face?**
+An entrepreneur risks losing the savings put into the business, has no guaranteed income, and gives up the income from other work as an opportunity cost. Their personal assets may also be at risk if their liability is unlimited.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ocr-a-level-business-risk-and-uncertainty-and-opportunity-cost-revision-notes/).

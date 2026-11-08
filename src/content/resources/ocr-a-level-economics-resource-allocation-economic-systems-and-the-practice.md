@@ -157,6 +157,23 @@ These questions cover Allocation of resources and The objectives of economic age
 - Listing market and government failures with no weighing.
 - Concluding without a judgement that depends on the context.
 
+## Frequently asked questions
+
+**What is resource allocation?**
+Resource allocation is the way scarce resources are shared out between competing uses. A good definition mentions scarcity and the three questions every economy faces: what to produce, how to produce it and for whom.
+
+**How do you find the utility-maximising combination of goods?**
+Compare marginal utility per pound, which is marginal utility divided by price, and buy the units with the highest value first until the budget is spent. Comparing raw marginal utility figures when prices differ is a common mistake.
+
+**What is the difference between profit, revenue and sales volume maximisation?**
+Profit is maximised where marginal revenue equals marginal cost, revenue is maximised where marginal revenue is zero, and sales volume is maximised at the highest output that still avoids a loss. Using the profit rule for a revenue or volume objective loses marks.
+
+**Do planned economies have prices?**
+Yes. Planned economies do have prices, but they are set by planners rather than by the market. Describing a planned economy as having no prices is a common error.
+
+**How should you finish an evaluation on economic systems in OCR A Level Economics?**
+Weigh market failures against government failures rather than just listing them, then give a judgement that depends on the context, such as the goal that matters most or the quality of institutions.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/ocr-a-level-economics-resource-allocation-economic-systems-and-the/) on any weak area.

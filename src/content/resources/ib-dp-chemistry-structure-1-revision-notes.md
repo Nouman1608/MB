@@ -12,11 +12,11 @@ order: 1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-chemistry-structure-1"
-description: "Condensed recall notes on Structure 1 -- particle theory, the nuclear atom, electron configurations, the mole and ideal gases, with the HL-only mass spectra and ionisation energy extensions -- for IB Diploma Programme Chemistry."
+description: "Condensed IB DP Chemistry Structure 1 revision notes: particles, the nuclear atom, electron configurations, the mole and ideal gases, plus HL-only extensions."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -243,6 +243,20 @@ over-learn rather than a topic to revise once and move past. Electron configurat
 practised by writing out configurations for unfamiliar elements under timed conditions rather than
 memorising a fixed list, since Paper 1 multiple-choice questions frequently test the underlying
 aufbau logic with elements you won't have seen drilled in class.
+
+## Frequently asked questions
+
+**How many teaching hours does Structure 1 have in IB DP Chemistry?**
+Structure 1 has 17 guided hours at SL and 21 at HL. The extra four HL hours cover mass spectra in Structure 1.2 and ionisation energies in Structure 1.3.
+
+**Why are chromium and copper exceptions to the aufbau principle?**
+Both gain extra stability from a half-filled (chromium) or completely filled (copper) 3d sublevel, so one 4s electron moves into the 3d sublevel.
+
+**What is the most common slip in ideal gas calculations?**
+Forgetting to convert temperatures from degrees Celsius to kelvin before substituting into pV = nRT. The answer can look plausible but is wrong.
+
+**Is relative atomic mass the mass of the most common isotope?**
+No. Relative atomic mass is the average of the isotope masses weighted by their relative abundance, which is why it is usually not a whole number.
 
 ## Official syllabus
 

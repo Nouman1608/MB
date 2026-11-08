@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "logarithmic-and-exponential-functions-cambridge-2"
 description: "12 original Cambridge 9709 Paper 2 questions on logarithms and exponentials, with mark-by-mark worked answers and an examiner insight for each."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -146,6 +146,20 @@ Related: the [study guide](/resources/a-level-maths-9709-pure-mathematics-2-loga
 - Premature rounding of a gradient, so the constant found from e^(gradient) is wrong at 3 s.f.
 - "Show that" answers that skip the log-law step turning the result into the given form.
 - Sketches of y = e^(kx) that cross the x-axis or omit (0, 1).
+
+## Frequently asked questions
+
+**How do you solve an equation with the unknown in the index?**
+Take logarithms of both sides and bring the index down with the power law, keeping the whole index in a bracket, for example (2x + 1) ln 7 = ln 30. Then solve for x.
+
+**How do you spot a hidden quadratic in an exponential equation?**
+Look for terms such as e^(2x) = (eˣ)² or 3^(x + 1) = 3 × 3ˣ. Substitute u = eˣ or u = 3ˣ, solve the quadratic, and reject any value of u that is not positive.
+
+**Why do you reverse an inequality after dividing by ln 0.85?**
+The logarithm of a number between 0 and 1 is negative, and dividing an inequality by a negative number reverses its direction.
+
+**How do you find k and n from a graph of ln y against ln x?**
+For y = kxⁿ, ln y = ln k + n ln x, so the gradient is n and the intercept on the ln y axis is ln k. Then k = e^(intercept).
 
 ## Next steps
 

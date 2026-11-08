@@ -256,6 +256,20 @@ Technology changes the choice of method: it can make batch changes faster and ma
 - Mixing up inventories held as raw materials with finished goods when explaining why they are held.
 - Treating lean production as only cutting costs, and forgetting quality and speed of response.
 
+## Frequently asked questions
+
+**What is the difference between production and productivity?**
+Production is the total amount a business makes in a period. Productivity compares output with the resources used, usually as output per worker, so production can rise while productivity stays the same.
+
+**Does just-in-time mean holding no inventories?**
+No. JIT keeps inventories very low, with materials arriving just as they are needed, and it depends on reliable suppliers, accurate demand forecasts and few breakdowns.
+
+**What are the costs of holding too much inventory?**
+Storage space, insurance, the risk of damage or going out of date, and money tied up that could be used elsewhere. Holding too little risks stopping production or disappointing customers.
+
+**What is the difference between CAD and CAM?**
+Computer-aided design (CAD) uses software to draw and test products on screen. Computer-aided manufacturing (CAM) uses computers to control machines and robots that cut, weld or assemble.
+
 ## Official syllabus
 
 Cambridge O Level Business Studies 7115, syllabus for examination in 2026, published by Cambridge International. Section 4.1: Production of goods and services.

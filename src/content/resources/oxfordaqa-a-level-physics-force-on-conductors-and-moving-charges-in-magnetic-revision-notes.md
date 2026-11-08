@@ -35,11 +35,6 @@ Both sections assume the field is perpendicular to the current or to the velocit
 - **Base units of the tesla:** 1 T = 1 N A⁻¹ m⁻¹ = 1 kg s⁻² A⁻¹.
 - **Cyclotron:** a device that accelerates charged particles in a spiral path using a magnetic field to bend the path and an alternating electric field in a gap to speed the particle up.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-alternating-currents--04-crossed-fields-balance.webp" width="900" height="1195" alt="Top: charged particles pass between plates with E down and B into the page; qE and qBv balance when v = E/B so that particle goes straight, slower ones bend down and faster ones bend up (trajectories integrated numerically). Bottom (Cambridge only): current I through a slice of width d in a field B; carriers pile up on one edge until qE_H = Bqv, giving V_H = BI/(ntq)." loading="lazy">
-  <figcaption>Equal electric and magnetic forces give v = E/B for the selector and V_H = BI/(ntq) for the Hall slice.</figcaption>
-</figure>
-
 
 ## Formulae
 
@@ -163,11 +158,6 @@ At speeds approaching the speed of light these simple results stop working, beca
   <figcaption>Field lines of a straight wire, a flat coil and a solenoid, with B falling as 1/r away from the wire.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-alternating-currents--09-rectification-smoothing.webp" width="900" height="1140" alt="Three graphs share the same 50 Hz input (dashed). One diode gives half-wave rectification with a gap; a bridge of four diodes gives full-wave rectification with no gap and pulses at twice the frequency; a smoothing capacitor fills the gaps, with small RC giving large ripple and large RC giving small ripple." loading="lazy">
-  <figcaption>Half-wave leaves gaps, full-wave does not, and a capacitor with a larger time constant RC gives a smoother output.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 
@@ -180,6 +170,23 @@ At speeds approaching the speed of light these simple results stop working, beca
 - Mixing up charge and mass, for example using the proton mass for an alpha particle.
 - Giving too many or too few significant figures, or leaving out the unit.
 - Describing a definition with no mention of right angles, current, length or force.
+
+## Frequently asked questions
+
+**What is the radius of a charged particle's circular path in a magnetic field?**
+Setting the magnetic force equal to the centripetal force, BQv = mv²/r, gives r = mv/(BQ). A faster or heavier particle moves in a larger circle.
+
+**Does the magnetic force change a particle's speed?**
+No. The force acts at right angles to the velocity, so it does no work. It changes only the direction of motion, not the speed.
+
+**How does a cyclotron accelerate particles?**
+The electric field in the gap between the two dees accelerates the particle, adding kinetic energy QV at each crossing. Inside the dees the magnetic field only bends the path into semicircles, so the path spirals outwards.
+
+**Why is the cyclotron frequency fixed?**
+The time for each semicircle is πm/(BQ), which does not depend on speed. So the pd across the gap can alternate at a fixed frequency, f = BQ/(2πm).
+
+**How does a current balance measure magnetic flux density?**
+Zero the balance with the current off, then record the change in mass Δm when a current I flows. The force on the wire is Δm g, and since F = BIL, B can be found from the current and the length of wire in the field.
 
 ## Official syllabus
 

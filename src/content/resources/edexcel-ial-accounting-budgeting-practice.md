@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Budgeting (YAC11) -- Practice Questions"
+title: "Edexcel International A Level Accounting: Budgeting (YAC11) -- Practice Questions"
 seoTitle: "Edexcel IAL Accounting Budgeting Practice Questions"
 resourceType: "practice-questions"
 subject: "accounting"
@@ -175,6 +175,20 @@ Receipts April [1], May [1], June [1]. Suppliers one month later [1]. Wages, Jun
 - Flexing fixed overheads or the fixed part of a semi-variable cost.
 - Omitting F or A from a variance.
 - Charging a prepaid expense in full to the budget period.
+
+## Frequently asked questions
+
+**Are these Edexcel YAC11 budgeting questions from past papers?**
+No. They are original practice questions with worked answers on topic 2.4 of Pearson Edexcel International A Level Accounting (YAC11), written for revision. Use them alongside the official past papers.
+
+**What are the most common mistakes in receipts schedules?**
+Applying the receipt pattern to total sales when some sales are for cash, and treating discounts allowed or irrecoverable debts as cash receipts.
+
+**How is a semi-variable cost flexed?**
+Flex only the variable element of a semi-variable cost to the actual activity; the fixed part stays the same. Flexing fixed overheads or the fixed part is a common error.
+
+**How can I check a closing receivables balance?**
+Check it independently from the payment pattern, for example all of the final month's credit sales plus the part of the previous month's still unpaid.
 
 ## Next steps
 

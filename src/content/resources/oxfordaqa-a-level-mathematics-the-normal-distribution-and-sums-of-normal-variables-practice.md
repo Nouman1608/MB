@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-s2-statistics-oxfordaqa-alevel-maths"
     subtopic: "s2-normal-distribution-oxfordaqa-alevel-maths"
-description: "Eleven original practice questions with worked answers on the normal distribution for OxfordAQA International A-level Mathematics."
+description: "Eleven original practice questions with fully worked answers on the normal distribution for OxfordAQA International A-level Mathematics (9660)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -169,6 +169,20 @@ P = 1 − Φ(1) = 1 − 0.8413 = **0.1587** [1]
 - Check coverage on the [course hub](/boards/oxfordaqa/a-level/mathematics/) and the [checklist](/checklists/oxfordaqa/a-level/mathematics/).
 - Try all [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**What does the second number in N(μ, σ²) represent?**
+It is the variance, not the standard deviation. A normal distribution with mean 35 and standard deviation 4 is written N(35, 4²) or N(35, 16).
+
+**How do you find an upper-tail normal probability?**
+Standardise, then subtract the table value from 1: P(Z > z) = 1 − Φ(z). Forgetting to subtract from 1 is a common error.
+
+**What is the variance of X − Y for independent normal variables?**
+The variances add, so Var(X − Y) = σ₁² + σ₂², even though the means subtract.
+
+**What is the difference between 5X and the sum of five independent copies of X?**
+Both have mean 5μ, but 5X has variance 25σ², while X₁ + ... + X₅ has variance 5σ². Read the context to decide which one is meant.
 
 ## Official syllabus
 

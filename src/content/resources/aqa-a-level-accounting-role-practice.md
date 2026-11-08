@@ -14,9 +14,9 @@ syllabusTopics:
     topic: "an-introduction-to-the-role-of-the-accountant-in-business"
 description: "Original exam-style practice questions with full worked answers on accounting concepts, ethics, stakeholders and the limitations of accounts."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -94,3 +94,17 @@ Related: [The Role of the Accountant revision notes](/resources/aqa-a-level-acco
 - Listing ethical principles without the consequences of breaching them.
 - Giving only "they are historic" as a limitation.
 - Not weighing objectivity against relevance in the historic cost evaluation.
+
+## Frequently asked questions
+
+**Are these AQA 7127 role of the accountant questions from past papers?**
+No. They are original questions written for revision. They do not replicate the exam's structure, question count or mark tariffs, so use them alongside the official past papers available free from AQA.
+
+**What topics do these practice questions cover?**
+They cover qualitative characteristics of financial information, accounting concepts, professional ethics, limitations of financial statements, the historic cost convention, users of accounts and a prepayment calculation.
+
+**What are the common mistakes in role of the accountant answers?**
+Common errors include confusing materiality with prudence, listing ethical principles without the consequences of breaching them, and giving only "they are historic" as a limitation of financial statements.
+
+**How should I approach an evaluate question in this topic?**
+Give arguments on both sides and reach a judgement. In an evaluation of historic cost, for example, marks are lost by not weighing objectivity against relevance.

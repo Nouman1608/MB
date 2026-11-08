@@ -158,6 +158,20 @@ These questions cover statements 7.9 to 7.15 of the Pearson Edexcel Internationa
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which Edexcel statements do these questions cover?**
+They cover statements 7.9 to 7.15 of Pearson Edexcel International A Level Biology (YBI11): muscles and movement, the heartbeat, cardiac output, adrenaline and Core Practical 17.
+
+**Which units are often mixed up in cardiac calculations?**
+Seconds with minutes, and cm³ with dm³. Convert before calculating.
+
+**How should you calculate heart rate from several beats on an ECG?**
+Divide by the number of intervals between beats, not the number of beats, when finding the time per beat.
+
+**Are these Edexcel past paper questions?**
+No. They are original practice questions with worked answers. Use them alongside official Pearson Edexcel past papers.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification, Issue 2, February 2021, Pearson Education Limited. Statements 7.9 to 7.15 of Topic 7, including Core Practical 17.

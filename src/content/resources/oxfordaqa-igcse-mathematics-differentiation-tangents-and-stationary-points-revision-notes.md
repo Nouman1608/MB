@@ -240,6 +240,20 @@ Choose a and b so that no other stationary x-value lies between them and the one
 - Leaving a tangent equation as y − y₁ = m(x − x₁) with numbers in it when asked for the form y = mx + c.
 - Sketching a stationary point as a sharp corner instead of a smooth curve with a flat tangent.
 
+## Frequently asked questions
+
+**How do you differentiate kxⁿ?**
+Multiply by the power, then reduce the power by 1, so kxⁿ becomes knxⁿ⁻¹. A term kx becomes k, and a constant becomes 0.
+
+**Is differentiation in the Core tier of OxfordAQA 9260?**
+No. Differentiation, tangents and stationary points (A13 to A15) are Extension only in OxfordAQA International GCSE Mathematics 9260.
+
+**How do you classify a stationary point using signs of the gradient?**
+If dy/dx changes from positive to negative it is a maximum, from negative to positive a minimum, and if the sign does not change it is a point of inflection.
+
+**What is the difference between a stationary point and a turning point?**
+Every maximum and minimum is a stationary point. A stationary point of inflection also has zero gradient but is not a turning point.
+
 ## Official syllabus
 
 These notes follow the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards), published by OxfordAQA: section 3.2.2, statements A13, A14 and A15.

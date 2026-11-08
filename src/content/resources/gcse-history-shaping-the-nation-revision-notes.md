@@ -11,11 +11,11 @@ order: 3
 syllabusTopics:
   - qualification: "gcse"
     topic: "shaping-the-nation-8145"
-description: "Condensed recall notes on Paper 2's thematic study and British depth study options, and how to approach each, for AQA GCSE History (8145)."
+description: "Condensed revision notes on the thematic study and British depth study options of AQA GCSE History 8145 Paper 2, Shaping the nation, and how to approach each."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -83,3 +83,14 @@ Because AQA publishes four distinct depth-study options and three distinct thema
 6. What is the most common way marks are lost on the historic environment component?
 
 **Answers:** 1. Section A: one thematic study; Section B: one British depth study including historic environment. 2. Thematic: AA Health and the People, AB Power and the People, AC Migration, Empires and the People. Depth: BA Norman England, BB Edward I, BC Elizabethan England, BD Restoration England. 3. Thematic studies span roughly 850–1,240 years across four chronological parts; depth studies cover a single 20–40 year period across three content parts plus a historic-environment fourth part. 4. Any two of: war, religion, chance, government, communication, science and technology, role of the individual. 5. Because most major developments in a long-span theme are explained by more than one factor working together, not a single isolated cause, and the specification specifically rewards showing that interaction. 6. Naming the site's feature without connecting it back to a specific event or development from the wider depth study.
+
+## Frequently asked questions
+
+**What are the British depth study options?**
+Norman England, c1066–c1100; Medieval England: the reign of Edward I, 1272–1307; Elizabethan England, c1568–1603; and Restoration England, 1660–1685.
+
+**How are the two AQA GCSE History 8145 papers structured?**
+Each paper lasts 2 hours, is worth 84 marks (including 4 for spelling, punctuation and grammar) and 50% of the GCSE. Paper 1 is a period study and a wider world depth study; Paper 2 is a thematic study and a British depth study with the historic environment.
+
+**How is the historic environment examined?**
+By the fourth and final question of Paper 2 Section B, a 16-mark essay on the site AQA specifies for your British depth study; the site changes each year.

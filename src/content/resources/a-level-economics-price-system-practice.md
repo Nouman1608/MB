@@ -13,11 +13,11 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-price-system-and-the-microeconomy-as-cambridge-alevel-economics"
-description: "Original exam-style practice questions with full worked answers on demand and supply, elasticity, market equilibrium and consumer/producer surplus, for Cambridge AS & A Level Economics (9708) Topic 2."
+description: "Cambridge 9708 Topic 2 practice with worked answers: shifts and movements, PED, XED and YED calculations, total revenue, equilibrium and price functions."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -142,3 +142,17 @@ price change depends entirely on whether demand is elastic or inelastic at that 
 the direction of the price change alone. Practising this pairing — a given price change, and the correct
 total revenue conclusion for each possible elasticity value — is more exam-effective than memorising
 the elasticity formulae in isolation from their real-world implication for a firm's pricing decisions.
+
+## Frequently asked questions
+
+**What is the most heavily tested elasticity application in Cambridge 9708 Topic 2?**
+The link between PED and total revenue. The direction of the revenue change after a price change depends on whether demand is elastic or inelastic at that price, not only on the direction of the price change.
+
+**How should I practise elasticity questions?**
+Pair each price change with the correct total revenue conclusion for each possible elasticity value, rather than memorising the formulae in isolation.
+
+**Which topic does this practice cover?**
+It covers Topic 2 The price system and the microeconomy, an AS Level topic in Cambridge International AS & A Level Economics 9708.
+
+**Are these real Cambridge past paper questions?**
+No. They are original questions written for revision; use them alongside the official past papers available from Cambridge International.

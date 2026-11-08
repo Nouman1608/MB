@@ -11,9 +11,9 @@ syllabusCodes: ["9708"]
 order: 1
 description: "Cambridge 9708 Economics past papers guide: grade thresholds for 17 series from March 2020 to November 2025 and examiner report notes for 15."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -665,6 +665,23 @@ Official documents: [past papers, mark schemes and examiner report](https://www.
 5. **Fix the topic.** Work through the weak topics using the [9708 Economics subject hub](/boards/cambridge/a-level/economics/) and tick them off on the [9708 checklist](/checklists/cambridge/a-level/economics/). Test yourself with the [9708 self-check question bank](/practice/9708/).
 6. **Re-test.** Sit a different series on the same component a week later and see whether the same errors come back.
 7. **Get help if you are stuck.** Our [grade thresholds page](/grade-thresholds/) has the June 2026 thresholds for our flagship syllabuses, and you can [book a free trial lesson](/trial/).
+
+## Frequently asked questions
+
+**Where can I download Cambridge 9708 Economics past papers?**
+Cambridge International publishes recent 9708 papers, mark schemes, examiner reports and grade thresholds on its official past papers page for the syllabus.
+
+**What do the paper numbers like 12 or 42 mean in Cambridge 9708?**
+The first digit is the component and the second is the variant. Papers 1 and 3 are multiple choice, and Papers 2 and 4 are data response and essays.
+
+**Which 9708 variants are sat in the March series?**
+In the March series covered on this page, only the second variant of each component was sat: Papers 12, 22, 32 and 42.
+
+**What do Cambridge 9708 examiner reports say decides the highest marks?**
+The reports repeatedly say that evaluation decides the highest marks, alongside obeying the command word, drawing and using the right diagram, and using the data given.
+
+**How should I use a Cambridge 9708 past paper?**
+Sit the paper first under timed conditions, mark it with the mark scheme, then read the examiner report to see where marks were lost.
 
 ## About these notes
 

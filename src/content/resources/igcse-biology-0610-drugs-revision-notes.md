@@ -18,11 +18,11 @@ syllabusTopics:
     subtopic: "drugs-cambridge-igcse-biology"
 description: "Condensed Cambridge IGCSE Biology 0610 notes on drugs and antibiotics, with the Core/Extended split, a resistance method box and a self-test with answers."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 These notes condense topic 15 (Drugs) of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028, section 15.1. Outcomes 15.1.1 to 15.1.4 are Core (Papers 1 and 3, and needed by Extended candidates too); outcome 15.1.5 is Supplement, labelled "Extended only" here and tested on Papers 2 and 4. For full explanations and worked examples, use the [Drugs study guide](/resources/igcse-biology-0610-drugs/).
@@ -218,6 +218,19 @@ Try the [Drugs practice questions](/resources/igcse-biology-0610-drugs-practice/
   <figcaption>Compare percentages, not raw numbers, when sample sizes differ.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is a drug in Cambridge IGCSE Biology 0610?**
+A drug is any substance taken into the body that modifies or affects chemical reactions in the body. Both parts of the definition are needed for full credit.
+
+**Why do antibiotics not work against viruses?**
+Antibiotics act on structures and processes found in bacterial cells, and viruses are not cells, so they do not have these targets. This is why antibiotics are not prescribed for viral infections such as colds.
+
+**What is the difference between resistant bacteria and immunity?**
+Bacteria become resistant to an antibiotic, meaning they are not killed by it. People, not bacteria, become immune to a disease, so writing that bacteria are "immune" to an antibiotic is incorrect.
+
+**Does an antibiotic cause bacteria to become resistant?**
+No. A random mutation already gives a few bacteria resistance; the antibiotic kills the non-resistant bacteria, so the resistant ones survive, reproduce and pass on the resistance. This is natural selection.
 
 ## Official syllabus
 

@@ -9,11 +9,11 @@ qualifications: ["o-level"]
 syllabusCodes: ["5014"]
 syllabusSeries: "2025-2026"
 order: 3
-description: "Preparing for both equally weighted papers of Cambridge O Level Environmental Management 5014 -- Paper 1's two-section structure, working from source material under time pressure, and a worked data-response routine."
+description: "Paper-by-paper exam preparation for the 2025-2026 Cambridge O Level Environmental Management 5014 papers, with pacing advice and a data-response routine."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-07
 featured: false
 ---
@@ -131,6 +131,20 @@ matching their 20/60 mark split -- Section A is where over-writing is most tempt
 rewarded. 3. The overall direction of the change, at least one specific quoted value with its unit,
 and any point at which the pattern breaks. 4. Because an unqualified strategy is an assertion; naming
 its cost or constraint is what turns it into the evaluation that extended-response questions reward.
+
+## Frequently asked questions
+
+**How are the 2025-2026 Cambridge O Level Environmental Management papers structured?**
+Both papers last 1 hour 45 minutes and carry 80 marks, 50% each. Paper 1 Theory has Section A (short and structured questions, 20 marks) and Section B (source-based questions, 60 marks), while Paper 2 Management in Context is source-based throughout.
+
+**How should I split my time in 5014 Paper 1?**
+Matching the 20/60 mark split, spend roughly 26 minutes on Section A and 79 minutes on Section B, and avoid over-writing short answers in Section A.
+
+**What is the difference between describing and explaining data?**
+Describing a trend means stating what the figures show, its direction, size and any anomaly, with quoted values and units. Explaining means giving the environmental process that causes the pattern.
+
+**Which 5014 syllabus edition do these notes follow?**
+They follow the outgoing 2025-2026 edition, whose final sitting is the November 2026 series in Mauritius only. The 2027-2029 edition renames both papers and changes the weightings, so check which edition your course uses.
 
 *Written against the assessment overview of Cambridge O Level Environmental Management 5014 (official
 syllabus for 2025-2026, verified 2026-08-28). 2026 is the final examination year of this syllabus

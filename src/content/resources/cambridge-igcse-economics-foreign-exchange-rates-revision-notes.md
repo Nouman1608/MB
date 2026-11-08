@@ -208,6 +208,20 @@ Short judgement: a small economy that trades mostly with one partner may gain fr
 - Describing a fixed rate as "never changing" when the authorities can change it.
 - Listing advantages and disadvantages with no judgement about which suits which economy.
 
+## Frequently asked questions
+
+**What is a foreign exchange rate?**
+A foreign exchange rate is the price of one currency in terms of another: how much of one currency buys a unit of another.
+
+**Who demands and supplies a currency?**
+Demand for a currency comes from foreigners buying the country's exports, services and assets. Supply comes from the country's residents selling their currency to buy imports and foreign assets.
+
+**Why do higher interest rates make a currency appreciate?**
+Higher interest rates attract foreign savers, who must buy the currency first, so demand rises; residents also keep more savings at home, so supply falls. Both push the exchange rate up.
+
+**Does a depreciation always improve a country's trade position?**
+No. A depreciation makes exports cheaper abroad and imports dearer at home, but it improves the trade position most when demand for exports and imports is price elastic. In the short run demand is often less elastic.
+
 ## Official syllabus
 
 Source: Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, Cambridge University Press & Assessment, section 6.3 Foreign exchange rates (6.3.1 to 6.3.5).

@@ -12,11 +12,20 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "land-0680"
-description: "Original exam-style practice questions with full worked answers on soils and crop growth, food production and crop yield, and soil erosion, for Cambridge IGCSE Environmental Management (0680) Topic 2 Land."
+  - qualification: "igcse"
+    topic: "land-0680"
+    subtopic: "soils-and-crop-growth-0680"
+  - qualification: "igcse"
+    topic: "land-0680"
+    subtopic: "food-production-and-crop-yield-0680"
+  - qualification: "igcse"
+    topic: "land-0680"
+    subtopic: "soil-erosion-0680"
+description: "Original practice questions with worked answers on soils, crop growth, food production and soil erosion for Cambridge IGCSE Environmental Management 0680."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -120,3 +129,14 @@ topic: soil composition and cover (2.1) shape farming decisions (2.2), and poor 
 the leading cause of soil erosion (2.3). A strong answer traces this chain explicitly — connecting the
 specific farming change described to the specific erosion risk it creates — rather than describing
 soil erosion causes and farming methods as two separate, unconnected lists. Question 9 rewards the same chain-tracing skill in reverse, working backwards from a described erosion outcome to identify both its downstream impacts and the specific preventive strategy that would have addressed the actual cause described, rather than naming a generic erosion-control method disconnected from the scenario. This same discipline -- matching a specific strategy to a specific problem rather than listing every strategy known for this topic -- is exactly what earns the application and evaluation marks that Cambridge questions on Land are designed to test, on either paper: Paper 1 consists of short-answer and structured questions with extended response questions based on source material, and Paper 2 of short-answer, data processing and analysis, and extended response questions based on source material, which it uses to illustrate issues of environmental management and fieldwork investigations.
+
+## Frequently asked questions
+
+**Are these 0680 Land practice questions from Cambridge past papers?**
+No. They are original questions written for Marlbridge and do not replicate the exam's exact structure, question count or mark tariffs. Use them alongside the official Cambridge past papers.
+
+**How should I link farming decisions and soil erosion in an answer?**
+Trace the cause-and-effect chain explicitly: connect the specific farming change described to the specific erosion risk it creates, rather than writing causes of erosion and farming methods as two separate lists.
+
+**What should I revise before trying these Land questions?**
+The page links to the Land study guide and the Land revision notes for Cambridge IGCSE Environmental Management (0680).

@@ -200,6 +200,20 @@ Check that the ray stays thin and sharp, and that the normal is at 90° to the s
 - Rounding the angle too early in a chain of calculations.
 - Leaving the pulse broadening argument as "the signal gets blurred" without saying the pulses overlap and limit the data rate.
 
+## Frequently asked questions
+
+**What is the refractive index of a material?**
+The refractive index is n = c/cs, the speed of light in a vacuum divided by the speed of light in the material. The refractive index of air is approximately 1.
+
+**How do you calculate the critical angle?**
+Use sin θc = n2/n1, where n1 is the refractive index of the denser medium the light is in and n2 is that of the less dense medium beyond the boundary.
+
+**Which way does light bend when it enters a denser medium?**
+It bends towards the normal, so the angle of refraction is smaller than the angle of incidence. Entering a less dense medium, it bends away from the normal.
+
+**What is Snell's law?**
+Snell's law states that n1 sin θ1 = n2 sin θ2 at a boundary, with both angles measured from the normal. It is used to find angles, refractive indices and speeds.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Section 3.5.8 Refraction at a plane surface.

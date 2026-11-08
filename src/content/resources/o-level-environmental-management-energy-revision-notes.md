@@ -12,13 +12,13 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "energy-and-the-environment-5014"
-description: "Condensed recall notes on fossil fuel formation, renewable and non-renewable resources, energy demand, conservation and oil pollution for Cambridge O Level Environmental Management (5014), 2025-2026 series."
+description: "Recall notes on fossil fuels, renewable and non-renewable energy, energy demand, conservation and oil pollution for Cambridge O Level 5014, 2025-2026 edition."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 ---
 
 Condensed recall notes for **Topic 2 Energy and the Environment**, the
@@ -166,6 +166,23 @@ serve both purposes.
 
 - [Cambridge O Level Environmental Management: Energy and the Environment (5014)](/resources/o-level-cambridge-environmental-management-energy-and-the-environment/)
 - [Cambridge O Level Environmental Management: Rocks and Minerals](/resources/o-level-cambridge-environmental-management-rocks-and-minerals/)
+
+## Frequently asked questions
+
+**Is nuclear power renewable or non-renewable in O Level Environmental Management 5014?**
+Non-renewable. The 2025-2026 syllabus classifies nuclear power using uranium as non-renewable, alongside the fossil fuels coal, oil and gas.
+
+**What factors affect energy demand in 5014?**
+The syllabus names domestic demand, industrial demand, transport, personal and national wealth, and climate. In an answer, link each factor to a reason demand rises or falls, for example how climate changes heating or cooling needs.
+
+**What is the difference between preventing oil spills and minimising their impact?**
+Prevention strategies, such as the MARPOL convention and double-hulled tankers, reduce the chance of a spill happening. Booms, detergent sprays and skimmers are used after a spill to limit its impact, so keep them as a separate list.
+
+**Do you need a case study for oil pollution in 5014?**
+Yes. The syllabus expects you to study the impact and management of a specific, named oil pollution event, and one well-prepared case can answer both an impact question and a management question.
+
+**Which 5014 syllabus do these energy notes follow?**
+They follow the outgoing 2025-2026 edition, where Energy and the Environment is Topic 2 of nine. The 2027-2029 edition moves energy into the Natural Resources topic, so check which edition your course uses.
 
 ## Official syllabus
 

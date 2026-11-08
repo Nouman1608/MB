@@ -235,6 +235,23 @@ Dependence on a few primary exports exposes a country to volatile prices. Divers
 - Reading the Gini as 0 to 100 on a 0 to 1 scale, or stopping at B without doing 1 − 2B.
 - Forgetting that the horizontal axis must be cumulative population ordered poorest first.
 
+## Frequently asked questions
+
+**Why are birth rates higher in low-income countries?**
+High infant mortality leads families to have more children as insurance, children provide labour and support in old age, and female education, job opportunities and access to contraception are more limited.
+
+**What is optimum population?**
+The optimum population is the population that, given the available resources, capital and technology, gives the highest output per head.
+
+**What is urbanisation?**
+Urbanisation is a rise in the share of the population living in towns and cities, usually as workers move from low-productivity farming to industry and services.
+
+**How does employment by sector change with development?**
+Employment usually shifts from the primary sector towards the secondary and then tertiary sectors as farm productivity rises and demand for manufactures and services grows.
+
+**Why is dependence on primary exports risky?**
+A country relying on a few primary exports is exposed to volatile world prices, so a price fall can cut its export earnings sharply.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International), section 11.4.

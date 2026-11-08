@@ -268,7 +268,7 @@ Upper bound of C/L = 37.75 / 12.45 = 3.0321...
 Lower bound of C/L = 37.25 / 12.55 = 2.9681...
 ```
 
-Both bounds round to 3 to 1 sf, so the cost per metre is **£3 to 1 sf**. Rounding to 3.0 would not be justified, because the bounds already differ in the first decimal place (3.0 and 2.9). **To choose the accuracy, round both bounds and give the figure only if they agree.**
+Both bounds round to 3.0 to 2 sf, so the cost per metre is **£3.0 to 2 sf** (about £3 per metre). Giving 3 sf would not be justified, because to 3 sf the bounds are 3.03 and 2.97, which disagree. **To choose the accuracy, round both bounds and give the figure only if they agree.**
 
 ### Discrete and continuous quantities (Higher tier only)
 
@@ -304,6 +304,20 @@ A **discrete** quantity is counted, so only whole numbers occur. The spec's exam
 ## Next steps
 
 Read the condensed [revision notes](/resources/ocr-gcse-mathematics-rounding-estimation-error-intervals-and-bounds-revision-notes/) next, and then work through the [practice questions](/resources/ocr-gcse-mathematics-rounding-estimation-error-intervals-and-bounds-practice/) under timed conditions.
+
+## Frequently asked questions
+
+**Why is the upper limit of an error interval not included?**
+A value exactly at the upper limit would round up to the next value, so it is excluded with <. For example, a length of 3.7 to 1 decimal place gives 3.65 ≤ b < 3.75.
+
+**When should you round in a multi-step calculation?**
+Round only the final answer and keep the full values in the working. If no accuracy is stated, 3 significant figures is a sensible default for measurements, and money is given to the nearest penny.
+
+**How do you estimate a calculation with a square root?**
+Round each number to 1 significant figure and replace the number under the root with the nearest perfect square. For example, √24.3 becomes √25 = 5.
+
+**What is the difference between discrete and continuous bounds?**
+A continuous quantity such as mass can take any value, so its upper bound is never reached: 150 ≤ m < 250 for 200 g to the nearest 100 g. A discrete count can only be a whole number, so 200 cars to the nearest hundred gives 150 ≤ n ≤ 249.
 
 ## Official syllabus
 

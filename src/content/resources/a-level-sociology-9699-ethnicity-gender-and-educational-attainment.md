@@ -24,9 +24,9 @@ description: "Study guide to Cambridge 9699 Sociology sections 6.3-6.4: racism i
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers sections 6.3 (Ethnicity and educational attainment) and 6.4 (Gender and educational attainment) of the Cambridge International AS & A Level Sociology (9699) syllabus for examination in 2024, 2025 and 2026. Both sections sit in topic 6, Education and inequality, which is part of Paper 3 – Education. Paper 3 is an A Level paper, not an AS Level paper.
@@ -174,6 +174,20 @@ The marks for Questions 1 to 3 are not printed separately; your teacher will con
 - Saying girls are "naturally" better students, which is biological, not sociological.
 - Calling the crisis of masculinity a fact rather than a debated argument.
 - Ignoring class when discussing gender or ethnicity.
+
+## Frequently asked questions
+
+**How does Cambridge 9699 Paper 3 test ethnicity and gender in education?**
+Paper 3 has four compulsory questions: a short answer, two explanations, two arguments against a quotation, and a 26-mark essay. It is 1 hour 15 minutes, 50 marks and 21% of the A Level.
+
+**What are Sewell's four responses to schooling?**
+Sewell identified conformists, innovators, retreators (often written retreatists) and rebels among African-Caribbean boys, which shows boys of the same ethnicity respond in different ways.
+
+**Why are cultural explanations of ethnic attainment criticised?**
+They can blame the victim and risk treating a whole group as having one culture.
+
+**Which key concepts link to topic 6 in Cambridge Sociology?**
+The syllabus links topic 6 to two key concepts: Inequality and opportunity, and Socialisation, culture and identity.
 
 ## Official syllabus
 

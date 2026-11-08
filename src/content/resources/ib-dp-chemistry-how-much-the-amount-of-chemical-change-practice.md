@@ -172,6 +172,20 @@ Route C: Fe₂O₃(s) + 3H₂(g) → 2Fe(s) + 3H₂O(g)
 - [Syllabus tick-list to print](/checklists/ib/ib-dp/chemistry/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does this IB DP Chemistry Reactivity 2.1 practice set cover?**
+It covers Reactivity 2.1, How much? The amount of chemical change: balanced equations with state symbols, reacting masses, gas volumes and solution calculations, limiting reactants, percentage yield and atom economy.
+
+**How do you identify the limiting reactant?**
+Find the moles of each reactant and divide each by its coefficient in the balanced equation; the smallest result is the limiting reactant. Choosing from masses or raw moles alone can give the wrong answer.
+
+**What are common mistakes in reacting quantity calculations?**
+Typical errors include using the mole ratio the wrong way up, putting cm³ into n = cV, mixing kilograms and grams, and calculating a yield from the reactant in excess. Missing a coefficient when totalling molar masses for atom economy is another frequent slip.
+
+**Why is "human error" not accepted as a reason for low yield?**
+"Human error" or "experimental error" is too vague to earn credit. Name a specific step in the method where product is lost, or a specific chemical reason, and link it to the lower mass collected.
+
 ## Official syllabus
 
 *Diploma Programme Chemistry guide*, first assessment 2025 (International Baccalaureate Organization, February 2023). The questions follow its Reactivity 2.1 understandings.

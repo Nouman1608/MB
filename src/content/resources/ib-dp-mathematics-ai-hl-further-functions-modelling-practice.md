@@ -25,11 +25,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-2-10"
 description: "12 original IB Maths AI HL practice questions on sections 2.7-2.10, from inverses to logistic models and log-log data, with fully worked mark schemes."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -204,6 +204,20 @@ Revise first from the [study guide](/resources/ib-dp-mathematics-ai-hl-further-f
 - [Printable checklist](/checklists/ib/ib-dp/mathematics-applications-and-interpretation/).
 - [All free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**What is the scale factor of the transformation y = f(3x)?**
+y = f(3x) is a horizontal stretch with scale factor 1/3, not 3. Treating it as a stretch by 3 is a common way to lose marks.
+
+**How should you describe a transformation to get full marks?**
+Name each transformation precisely and give its details, such as a translation with its vector or a stretch with its direction and scale factor. Describing transformations only as "moves" does not earn the marks.
+
+**What is a common mistake when reading the intercept of a log graph?**
+On a graph of log₁₀ y against log₁₀ x for y = ax^b, the intercept is log₁₀ a, not a itself. You need to raise 10 to the power of the intercept to find a.
+
+**Which IB Maths AI syllabus sections do these practice questions cover?**
+They cover AHL 2.7–2.10 of the IB Maths AI guide: composite and inverse functions, transformations, further models such as half-life, logistic and piecewise functions, and logarithmic scales. Every question is HL only.
 
 ## Official syllabus
 

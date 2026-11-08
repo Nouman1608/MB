@@ -16,13 +16,13 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "algebra-and-graphs"
     subtopic: "proportion"
-description: "Original exam-style practice questions with full worked answers on arithmetic and geometric sequences, nth terms, direct and inverse proportion."
+description: "Cambridge O Level Maths 4024 sequences and proportion practice: nth terms of linear, quadratic, cubic and exponential sequences, direct and inverse proportion."
 author: "muhammad-ghazali-siddiqui"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNote: "2026-11-08 recheck: added Section C (combination sequence 2ⁿ + n, subscript notation, inverse square-root proportion, ∝ notation) and FAQ; corrected the cubic row of the sequence-type table (constant third difference); rewrote description. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNeeded: true
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -75,6 +75,19 @@ Related: [Sequences and Proportion revision notes](/resources/sequences-and-prop
 **(a)** Find the equation connecting y and x. **[3]**
 **(b)** Find y when x = 25. **[1]**
 
+## Section C
+
+**11.** The nth term of a sequence is 2ⁿ + n. Find the first three terms. **[2]**
+
+**12.** The sequence T has nth term Tₙ = 5n − 2. Show that 98 is a term of T and state which term it is. **[2]**
+
+**13.** y is inversely proportional to √x. When x = 9, y = 6.
+
+**(a)** Find y when x = 4. **[2]**
+**(b)** Find x when y = 2. **[2]**
+
+**14.** The time, t hours, to paint a fence is inversely proportional to the number of painters, n. Write this statement using the proportional symbol ∝. **[1]**
+
 ---
 
 ## Answers
@@ -106,6 +119,15 @@ Related: [Sequences and Proportion revision notes](/resources/sequences-and-prop
 **10. (a)** y = k√x [1]; 12 = k√16 = 4k, so k = 3 [1]; **y = 3√x** [1].
 **(b)** y = 3 × √25 = 3 × 5 = **15** [1].
 
+**11.** T₁ = 2 + 1 = **3**, T₂ = 4 + 2 = **6**, T₃ = 8 + 3 = **11** [2] (1 mark for two correct).
+
+**12.** 5n − 2 = 98, so 5n = 100 [1] and n = 20, a positive whole number, so 98 is the **20th term** [1].
+
+**13. (a)** y = k/√x; 6 = k/3, so k = 18 [1]; y = 18/√4 = **9** [1].
+**(b)** 2 = 18/√x, so √x = 9 [1] and **x = 81** [1].
+
+**14.** **t ∝ 1/n** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -117,13 +139,27 @@ Related: [Sequences and Proportion revision notes](/resources/sequences-and-prop
 - Confusing y ∝ x³ with y ∝ 3x — cube proportion means the equation contains x³, not a coefficient of 3.
 - Not recognising a cubic sequence (1, 8, 27, 64, ...) as the cube numbers, and instead trying to force a quadratic nth-term method onto it.
 
+## Frequently asked questions
+
+**Which sequences does the 4024 syllabus include?**
+Subtopic 2.7 covers linear, quadratic, cubic and exponential sequences and simple combinations of these, such as 2ⁿ + n. You must continue sequences, describe term-to-term rules and find and use the nth term.
+
+**How do you find the nth term of a quadratic sequence?**
+Find the second difference and halve it to get the coefficient of n². Subtract that n² term from each term of the sequence, then find the nth term of the linear sequence that is left.
+
+**How do you answer a proportion question?**
+Write the relationship with a constant k (for example y = k/x² for inverse square proportion), substitute the given pair to find k, then use the complete equation to find the unknown.
+
+**Do I need the ∝ symbol?**
+Yes. The 4024 syllabus states that knowledge of the proportional symbol ∝ is required, so you may need to write or read statements such as t ∝ 1/n.
+
 ## Recognising a sequence type quickly
 
 | Sequence type | Signal | nth term form |
 |---|---|---|
 | Linear | Constant first difference | an + b |
 | Quadratic | Constant second difference | an² + bn + c |
-| Cubic | Terms match n³, 2n³, etc. (check against cube numbers) | an³ + ... |
+| Cubic | Constant third difference (often linked to the cube numbers) | an³ + ... |
 | Exponential (geometric) | Constant **ratio** between terms | a × rⁿ⁻¹ |
 
 Always write out the differences (and, if those aren't constant, the

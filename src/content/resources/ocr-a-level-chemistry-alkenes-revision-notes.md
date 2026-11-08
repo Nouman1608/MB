@@ -229,6 +229,20 @@ Data: C = 12.0, H = 1.0, Br = 79.9; molar gas volume at RTP = 24.0 dm³ mol⁻¹
 - Leaving C=C in a repeat unit, or giving a four-carbon repeat unit for a simple polymer.
 - Saying "clear" for the bromine test result.
 
+## Frequently asked questions
+
+**What is an electrophile in OCR A Level Chemistry?**
+An electrophile is an electron pair acceptor. Defining it as "something that attacks a double bond" is not enough.
+
+**What is the difference between E/Z and cis–trans isomerism?**
+Every cis–trans pair is an E/Z pair, but not every E/Z pair can be named cis or trans. Cis compares identical groups, while Z compares higher-priority groups, so the two names can disagree.
+
+**What is the bromine water test for alkenes?**
+Add bromine water and shake. If an alkene is present the colour changes from orange to colourless; with no C=C it stays orange. Write "colourless", not "clear".
+
+**What is the difference between biodegradable and photodegradable polymers?**
+Biodegradable polymers are broken down by microorganisms, while photodegradable polymers are broken down by light.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 4.1.3 Alkenes, learning outcomes (a) to (l). Published by OCR.

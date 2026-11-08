@@ -20,14 +20,14 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-chemistry-of-transition-elements"
     subtopic: "a-stability-constants-kstab"
-description: "Why transition-metal complexes are coloured, cis/trans and optical isomerism in complexes, and stability constants, for Cambridge International AS & A Level Chemistry 9701."
+description: "Why transition-metal complexes are coloured, cis/trans and optical isomerism in complexes, and Kstab calculations for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 ---
 
 This guide covers subtopics **28.3, Colour of complexes**, **28.4,
@@ -232,6 +232,23 @@ geometry rather than assuming.
   centre; non-superimposable mirror images
 - Kstab = equilibrium constant for complex formation (solvent omitted);
   larger Kstab = more stable complex, drives ligand exchange
+
+## Frequently asked questions
+
+**How do d orbitals split in octahedral and tetrahedral complexes?**
+In an octahedral complex the five d orbitals split into two higher-energy and three lower-energy orbitals. In a tetrahedral complex the pattern is reversed, with three higher and two lower, and the splitting is inherently smaller for comparable ligands.
+
+**Why is Zn²⁺ colourless while Cu²⁺ is coloured?**
+Zn²⁺ is d¹⁰, so there is no vacant d orbital for an electron to be promoted into, while Cu²⁺ has a vacancy and can absorb visible light in a d–d transition. The common simple aqueous ions of d⁰ ions such as Sc³⁺ and d¹⁰ ions such as Zn²⁺ are colourless.
+
+**Why does adding ammonia change the colour of copper(II) solutions?**
+Ammonia replaces water ligands to form [Cu(NH₃)₄(H₂O)₂]²⁺, and NH₃ produces a larger splitting energy ΔE than H₂O. A different frequency of light is absorbed, so the observed colour changes from pale blue to deep blue.
+
+**Is water included in a Kstab expression?**
+No. Water is the solvent, so the water molecules released are left out of the expression. The aqua ion, such as [Cu(H₂O)₆]²⁺, is a dissolved species and does appear in the denominator.
+
+**Which isomer of [Pt(NH₃)₂Cl₂] is polar?**
+In the bond-dipole model used for Cambridge A Level Chemistry 9701, the cis isomer is polar because its bond dipoles do not cancel, and the trans isomer is non-polar because identical opposite bonds cancel. Check the actual geometry rather than relying on the words cis or trans alone.
 
 ## Related resources
 

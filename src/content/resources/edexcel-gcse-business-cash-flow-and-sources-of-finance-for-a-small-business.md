@@ -207,6 +207,20 @@ A justified recommendation weighs both sides. The loan is certain and keeps owne
 - Calling an overdraft a long-term source, or retained profit a short-term one.
 - Saying a negative closing balance means a loss. It means cash is short.
 
+## Frequently asked questions
+
+**Why can a profitable business run out of cash?**
+Profit is recorded when a sale is made, but customers often pay later while the business pays for materials first. A job can make a profit yet leave the business short of cash for weeks, so it may struggle to pay suppliers, overheads and wages.
+
+**What does a negative closing balance on a cash-flow forecast mean?**
+It means the business forecasts that it will have spent more cash than it has, so cash is short in that month. It does not mean the business has made a loss.
+
+**What is the difference between an overdraft and trade credit?**
+An overdraft lets a business spend more than it has in its bank account up to an agreed limit, with interest charged on the amount overdrawn. Trade credit lets a business receive goods from a supplier now and pay later, usually with no interest.
+
+**What can a business do if its cash-flow forecast shows a gap?**
+It can arrange short-term finance such as an overdraft, ask customers to pay sooner, negotiate longer credit from suppliers, or time large purchases for a stronger month. In Edexcel GCSE Business (1BS0), interpreting the forecast earns marks as well as calculating it.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 1: Investigating small business, Topic 1.3 Putting a business idea into practice, items 1.3.3 and 1.3.4.

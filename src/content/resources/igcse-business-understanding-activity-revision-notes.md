@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "understanding-business-activity-cambridge-igcse-business"
 description: "Condensed recall notes on needs and wants, sectors, business objectives, stakeholders and legal structures for Cambridge IGCSE Business Studies 0450."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -175,3 +175,16 @@ Measured by **number of employees, capital employed, value of output, or market 
   <figcaption>Each measure of size has a limitation, so different measures can give different answers.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Is a public limited company part of the public sector?**
+No. A public limited company is owned by private shareholders, so it is in the private sector, while the public sector is owned by government. Treating the two as the same is a common exam trap.
+
+**What is deindustrialisation?**
+Deindustrialisation is the decline of the secondary sector and the rise of the tertiary sector as an economy develops. It usually happens because manufacturing relocates to countries with lower labour costs while domestic incomes rise and demand shifts towards services.
+
+**Why do business objectives change over time?**
+Survival is usually the priority for a start-up, and once a business is established it shifts towards profit, growth and market share. Many businesses also increasingly set social and environmental objectives.
+
+**Does limited liability mean a business has limited debts?**
+No. Limited liability means the owner can lose only the amount they invested, so their personal assets are protected; it says nothing about how much the business itself owes.

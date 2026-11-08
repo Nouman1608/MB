@@ -15,11 +15,11 @@ syllabusTopics:
     subtopic: "pressure"
 description: "Pressure as force per unit area, atmospheric pressure and the liquid barometer, and pressure beneath a liquid surface, for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-18
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 ---
 
 This guide covers subtopic **1.8 Pressure**, from Topic 1, Motion, forces
@@ -176,6 +176,20 @@ experiment that shows this
 - How a liquid barometer's column height indicates atmospheric pressure
 - Δp = ρgΔh, and that pressure beneath a liquid depends on both depth and
 density
+
+## Frequently asked questions
+
+**What is the unit of pressure?**
+Pressure is measured in pascals (Pa). One pascal is a force of one newton acting on an area of one square metre.
+
+**How does a liquid barometer measure atmospheric pressure?**
+Atmospheric pressure pushes down on the open reservoir and supports a column of liquid in a tube that has a vacuum at the top. The height of the column is a direct measure of atmospheric pressure, so a taller column means a higher pressure.
+
+**Why is mercury used in a barometer instead of water?**
+Mercury is about 13.6 times denser than water, so it gives a manageably short column for typical atmospheric pressures. A water barometer would need to be over 10 m tall.
+
+**Is pressure tiered in Cambridge O Level Physics 5054?**
+No. 5054 is not tiered, so every candidate covers all of subtopic 1.8, Pressure, including Δp = ρgΔh.
 
 ## Related resources
 

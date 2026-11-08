@@ -23,11 +23,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-chemical-bonding"
     subtopic: "as-dot-and-cross-diagrams"
-description: "Covalent and coordinate bonding, expanded octets, orbital overlap, bond energy and length, VSEPR shapes and bond angles, hydrogen bonding and van der Waals' forces, and dot-and-cross diagrams including odd-electron species, for Cambridge International AS & A Level Chemistry 9701."
+description: "Covalent and dative bonds, σ and π overlap, VSEPR shapes and bond angles, hydrogen bonding and van der Waals' forces for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -285,6 +285,20 @@ sp³
 - Hydrogen bonding as a special case of pd-pd forces, limited to N–H/O–H
 - Water/ice's three anomalous properties, each explained by hydrogen bonding
 - Dot-and-cross diagrams, including expanded-octet and odd-electron species
+
+## Frequently asked questions
+
+**What does VSEPR theory say about molecular shape?**
+VSEPR theory says that electron pairs around a central atom repel each other and arrange themselves as far apart as possible. Count both bonding pairs and lone pairs, because lone pairs affect the shape.
+
+**Why is the bond angle in ammonia smaller than in methane?**
+Ammonia has a lone pair on nitrogen, which repels more strongly than bonding pairs and compresses the bond angles. The smaller angle is not because the N–H bond is weaker.
+
+**Are hydrogen bonds a type of van der Waals' force in Cambridge 9701?**
+Yes. The syllabus uses van der Waals' forces as the umbrella term for intermolecular forces, including hydrogen bonding as well as the weaker dispersion forces.
+
+**Why is ice less dense than liquid water?**
+In ice, hydrogen bonding holds the molecules in an open, ordered lattice with more space between molecules than in the liquid. Saying only that "hydrogen bonds are strong" does not explain the lower density.
 
 ## Related resources
 

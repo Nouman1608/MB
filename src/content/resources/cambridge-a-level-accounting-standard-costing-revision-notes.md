@@ -206,6 +206,20 @@ Compute the answers from the information given, then check below.
 - Stopping at calculations when a question asks for a recommendation. Give a balanced reason, mention non-financial factors and state a justified decision.
 - Leaving out units or currency in the answer line.
 
+## Frequently asked questions
+
+**Is a favourable variance always good?**
+No. Ask why it arose and whether it can be repeated; for example, a favourable material price variance from cheaper material may cause an adverse usage variance elsewhere.
+
+**Which units are used in the sales price variance?**
+Use the units actually sold, not the budgeted units: sales price variance = (actual price − standard price) × actual units sold.
+
+**What are the advantages of standard costing?**
+Variances show where results depart from the plan so managers can focus on exceptions, each variance can be tied to a responsible manager, standards give staff a clear target, and inventory can be valued quickly at standard.
+
+**What should a standard costing recommendation include?**
+Give a balanced reason using the data, mention non-financial factors such as quality, staff and suppliers, and state a justified decision. Stopping at the calculations loses marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Accounting 9706 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education), section 4.2 Standard costing.

@@ -128,7 +128,7 @@ These questions cover section 3.1.1 (the economic problem and methodology) of th
 ## Where marks are usually lost
 
 - Writing opportunity cost as "money spent" rather than the best option rejected.
-- Calculating an opportunity cost the wrong way up (bowls per vase instead of vases per bowl).
+- Calculating an opportunity cost the wrong way up (vases per bowl when the question asks what one vase costs in bowls).
 - Describing a point inside the boundary as unattainable.
 - Calling any boundary point allocatively efficient without comparing cost with value.
 - Forgetting that growth in a renewable stock depends on the opening stock.
@@ -142,6 +142,23 @@ These questions cover section 3.1.1 (the economic problem and methodology) of th
 - Course pages: [OxfordAQA economics hub](/boards/oxfordaqa/a-level/economics/) and [checklist](/checklists/oxfordaqa/a-level/economics/).
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
+
+## Frequently asked questions
+
+**Where do students lose marks on the economic problem and methodology?**
+Common losses are writing opportunity cost as money spent rather than the best option rejected, describing a point inside the production possibility boundary as unattainable, and classifying a prediction as normative because it might be wrong.
+
+**Is a prediction a positive or a normative statement?**
+A prediction is positive, because it can be tested against evidence, even if it turns out to be false. Normative statements contain a value judgement, such as what the government ought to do.
+
+**What does a point inside the production possibility boundary show?**
+A point inside the boundary is possible but inefficient, because resources are unemployed or badly used. A point outside the boundary is unattainable with current resources.
+
+**How should I answer an assess question on planned and market economies?**
+Weigh both systems against a clear criterion, such as efficiency or fairness, and reach a judgement. A list of advantages and disadvantages without weighing them scores less well.
+
+**Which OxfordAQA 9640 section do these questions cover?**
+They cover section 3.1.1, the economic problem and methodology, of the OxfordAQA International AS and A-level Economics (9640) specification, which is International AS content.
 
 ## Official syllabus
 

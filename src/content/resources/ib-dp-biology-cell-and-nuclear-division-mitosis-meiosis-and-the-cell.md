@@ -229,6 +229,23 @@ Genes control the cycle. **Proto-oncogenes** normally stimulate division. A muta
 - Calling G1, S and G2 "rest phases".
 - Writing that every tumour is cancer.
 
+## Frequently asked questions
+
+**How does cytokinesis differ in animal and plant cells?**
+In animal cells a ring of actin and myosin contracts and pinches the membrane inward. In plant cells, which have a rigid wall, vesicles fuse across the middle of the cell to build new membrane and wall.
+
+**Why must every daughter cell receive at least one mitochondrion?**
+Mitochondria cannot be made from scratch; they arise only by division of a pre-existing mitochondrion, so a daughter cell without one could not make ATP or recover.
+
+**Which division of meiosis halves the chromosome number?**
+Meiosis I halves the chromosome number by separating homologous chromosomes. Meiosis II separates sister chromatids, much like mitosis.
+
+**How many chromosome combinations can random orientation produce in humans?**
+For n pairs of chromosomes there are 2 to the power n combinations, ignoring crossing over; humans have n = 23, giving 8 388 608 combinations.
+
+**Is interphase a resting stage?**
+No. In the IB DP Biology HL content (D2.1.14), interphase is metabolically very active: the cell synthesises proteins and DNA and increases its numbers of mitochondria and chloroplasts.
+
 ## Official syllabus
 
 IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization (sub-topic D2.1).

@@ -150,6 +150,23 @@ Related pages: the [study guide](/resources/oxfordaqa-a-level-mathematics-expone
 - Try all free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in logarithm questions?**
+Splitting log(x + y) into log x + log y, combining logarithms with different bases, and keeping a root that makes the argument of a logarithm negative are the usual errors. Each one costs marks even when the rest of the method is right.
+
+**Why does the inequality sign change when solving 0.92^t < 0.24?**
+The logarithm of a number between 0 and 1 is negative. Dividing both sides of an inequality by a negative number reverses the inequality sign, so it must be flipped at that step.
+
+**How should you round a "least whole number" answer in an exponential growth question?**
+Find the boundary value, then round up to the next whole number rather than to the nearest one. Checking the model at the whole numbers either side of the boundary confirms the answer.
+
+**Do you need to check solutions to log equations?**
+Yes. Solving a log equation often gives a quadratic with two roots, and any root that makes an argument of a logarithm zero or negative must be rejected.
+
+**Are these the same as OxfordAQA 9660 past paper questions?**
+No. They are original questions written for revision of section PP1.3 of the OxfordAQA 9660 specification, and they do not copy the exam's structure or mark tariffs. Use them alongside official past papers.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2: section PP1.3, Exponential and logarithms. Published by OxfordAQA for International AS exams from May/June 2018 and International A-level exams from May/June 2019.

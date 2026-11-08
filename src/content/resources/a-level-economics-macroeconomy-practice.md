@@ -13,11 +13,11 @@ order: 4
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-macroeconomy-as-cambridge-alevel-economics"
-description: "Original exam-style practice questions with full worked answers on inflation, the consumer price index, deflation and disinflation, aggregate demand and real GDP for Cambridge AS & A Level Economics (9708) Topic 4."
+description: "Cambridge 9708 practice on the macroeconomy: CPI and inflation, deflation and disinflation, aggregate demand and real GDP, with worked answers and tips."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-24
 featured: false
 ---
@@ -145,6 +145,20 @@ Other valid answers include uncertainty reducing investment, menu costs, and red
 - Linking demand-pull and cost-push inflation to the wrong curve on the AD/AS diagram.
 - Listing consequences of inflation with no chain of reasoning.
 - Ending an evaluation with "it depends" and no condition that decides the answer.
+
+## Frequently asked questions
+
+**How do you calculate a percentage change in an index without losing marks?**
+Divide the change by the starting value, not the end value, then multiply by 100. Dividing by the new value is one of the most common slips.
+
+**Why is a rise in nominal GDP not the same as economic growth?**
+Nominal GDP can rise because prices rise. Growth in output is measured by real GDP, so treating a nominal rise as growth in output loses marks.
+
+**How are Cambridge 9708 extended Economics answers marked?**
+Extended answers in the real exam are marked with levels of response. The evaluation needs a clear condition that decides the answer; ending with it depends and no reason does not gain credit.
+
+**What is a common mistake when listing the components of aggregate demand?**
+Leaving out net exports, or listing exports on their own. The fourth component is net exports, X minus M.
 
 ## Next steps
 

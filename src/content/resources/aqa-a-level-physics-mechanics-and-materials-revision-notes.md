@@ -232,6 +232,20 @@ Qualitative points:
 - Taking the Young modulus from a point beyond the limit of proportionality.
 - Quoting efficiency above 1, or as a percentage and a decimal in the same line.
 
+## Frequently asked questions
+
+**What is the difference between the limit of proportionality and the elastic limit?**
+The limit of proportionality is the end of the straight-line region where Hooke's law applies. The elastic limit is the point beyond which a permanent extension remains after the load is removed.
+
+**What is the difference between elastic and inelastic collisions?**
+In an elastic collision total kinetic energy is conserved. In an inelastic collision it is not, but total momentum is still conserved in both.
+
+**What is the difference between stiffness and the Young modulus?**
+Stiffness k, in F = kΔL, is a property of one particular object. The Young modulus E = stress/strain is a property of the material itself.
+
+**When can you use the suvat equations?**
+The suvat equations apply only when acceleration is uniform. They cannot be used when acceleration varies, for example when air resistance is significant.
+
 ## Official syllabus
 
 AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.4 Mechanics and materials.

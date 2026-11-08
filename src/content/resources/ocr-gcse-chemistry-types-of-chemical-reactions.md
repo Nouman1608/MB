@@ -291,6 +291,23 @@ The specification lists determining the pH of unknown solutions and use of pH pr
 - Using "weak" to mean "dilute" (Higher Tier only).
 - Saying a fall of 2 in pH means twice as much H⁺. It is 100 times (Higher Tier only).
 
+## Frequently asked questions
+
+**What is oxidation and reduction in terms of oxygen?**
+Oxidation is the gain of oxygen and reduction is the loss of oxygen, and the two always happen together in a redox reaction. An oxidising agent gives oxygen to another substance and is itself reduced.
+
+**What ions do acids and alkalis produce in water?**
+Acids form hydrogen ions, H⁺, when they dissolve in water, and solutions of alkalis contain hydroxide ions, OH⁻. The H⁺ ions are free in the solution, not still attached to the acid molecule.
+
+**What is the difference between a base and an alkali?**
+A base is a substance that neutralises an acid, such as a metal oxide or hydroxide. An alkali is a soluble base, and its solution contains hydroxide ions, so every alkali is a base.
+
+**What does a pH titration curve look like?**
+When a strong alkali is added to a strong acid, the pH rises slowly at first, then jumps steeply through pH 7 near exact neutralisation over a tiny volume, then levels off at a high value as excess OH⁻ builds up. This is Higher Tier only.
+
+**How do you measure pH accurately?**
+A pH meter or probe gives a more precise reading than universal indicator. Calibrate it in buffer solutions of known pH, and rinse the probe with distilled water between samples.
+
 ## Official syllabus
 
 OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification, Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Sub-topic C3.3 Types of chemical reactions, learning outcomes C3.3a–C3.3k, mathematical learning outcome CM3.3i and practical suggestions (PAG C6, PAG C7).

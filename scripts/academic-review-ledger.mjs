@@ -295,9 +295,24 @@ for (const d of docs) {
     // Questions sit under "## Questions" or "## Section A/B/C" headings; the
     // answers under "## Answers" (or "Answer plans", "Answer (worked)",
     // "Worked answers", "Model approach" or "Mark scheme" for essay subjects).
-    const ansAt = d.body.search(/^##\s+(?:Answers?\b|Answer plans\b|Worked answers\b|Mark scheme\b|Model (?:answers?|approach)\b)/im);
+    // Essay subjects also use "Model plans", "Indicative answers/content",
+    // "Mark schemes", "How … are marked" sections, or an inline
+    // "*Indicative content.*" paragraph under each question (2026-11-08).
+    // Answer guidance is looked for after the first numbered question, so a
+    // "How the essays are marked" section placed before the questions does not
+    // hide them.
+    const Q_RE = /^\*\*\d+\.?\*\*|^\*\*\d+\.\s|^\d+\.\s+\*\*|^\*\*Q\d+|^\*\*Question \d+|^#{2,4}\s+Question \d+|^#{3,4}\s+\d+\.\s/m;
+    const firstQ = d.body.search(Q_RE);
+    const after = firstQ >= 0 ? d.body.slice(firstQ) : d.body;
+    const ANS = [
+      /^#{2,4}\s+(?:Answers?\b|Answer plans\b|Worked answers?\b|Mark schemes?\b|Markschemes?\b|Mark guidance\b|Model (?:answers?|approach|(?:essay )?plans?)\b|Indicative (?:answers?|content)\b|How\b.*\bmarked\b)/im,
+      /^(?:\*{1,2}|_)(?:Indicative (?:content|answers?)|Mark scheme|Worked answer|Model answer)\b/im,
+      /^#{3,4}\s+.*\bindicative content\b/im,
+    ];
+    const rel = ANS.map((re) => after.search(re)).filter((i) => i >= 0);
+    const ansAt = rel.length ? (firstQ >= 0 ? firstQ : 0) + Math.min(...rel) : -1;
     const qRegion = ansAt >= 0 ? d.body.slice(0, ansAt) : d.body;
-    const qCount = (qRegion.match(/^\*\*\d+\.?\*\*|^\*\*\d+\.\s|^\d+\.\s+\*\*|^\*\*Q\d+|^\*\*Question \d+/gm) || []).length;
+    const qCount = (qRegion.match(new RegExp(Q_RE.source, 'gm')) || []).length;
     if (!qCount) { qa = 'WARN'; warns.push('no-numbered-questions-found'); }
     else if (ansAt < 0) { qa = 'FAIL'; fails.push('missing-answer-guidance'); }
     else qa = 'PASS';

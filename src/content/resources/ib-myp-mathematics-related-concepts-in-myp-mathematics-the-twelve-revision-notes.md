@@ -219,6 +219,20 @@ Link to the criteria as well. Criterion B (investigating patterns) leans on patt
 - Describing a model as perfect, without saying what it ignores.
 - Claiming a link between two variables is causal because they are correlated.
 
+## Frequently asked questions
+
+**What are the twelve related concepts in MYP Mathematics?**
+The twelve related concepts are approximation, change, equivalence, generalization, models, patterns, quantity, representation, simplification, space, systems and validity.
+
+**Which related concepts appear in all four MYP Mathematics branches?**
+Equivalence, quantity and systems appear under all four branches in the guide's lists, while space appears under spatial reasoning only. The lists are suggestions, not limits.
+
+**What is the difference between key concepts and related concepts?**
+Mathematics has three key concepts, form, logic and relationships, which are broad ideas shared across the MYP. The twelve related concepts are narrower ideas specific to mathematics.
+
+**What does generalization mean in MYP Mathematics?**
+Generalization is a broad statement built from particular cases. To support one, fit a rule to the cases and then test it on terms you did not use to build it.
+
 ## Official syllabus
 
 IB *Mathematics* guide, Middle Years Programme (for use from September 2020/January 2021; first assessment 2022), published by the International Baccalaureate Organization. Sections used: Table 2 (related concepts in mathematics), the branch descriptions with their links to MYP concepts, and the appendix glossary of related concepts.

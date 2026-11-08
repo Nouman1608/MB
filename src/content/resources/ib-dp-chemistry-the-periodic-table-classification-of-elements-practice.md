@@ -182,6 +182,23 @@ First read the [study guide](/resources/ib-dp-chemistry-the-periodic-table-class
 - [Topic checklist](/checklists/ib/ib-dp/chemistry/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are these IB DP Chemistry Structure 3.1 questions from past papers?**
+No. They are original questions on Structure 3.1, written for revision, and they do not reproduce IB past papers or mark tariffs.
+
+**How do you explain periodic trends in atomic radius for full marks?**
+Do not rely on nuclear charge alone. Include shielding and the main energy level of the outer electrons, for example the same level and similar shielding across a period.
+
+**How do you write an oxidation state correctly?**
+Write the sign first, as −1 or +5. Writing "1−" or "5+" reads as an ion charge and may not earn the mark.
+
+**Which electrons are removed first when a transition element forms an ion?**
+The 4s electrons are removed before the 3d electrons. Removing 3d electrons first is a common HL mistake.
+
+**Is the colour of a transition metal complex the colour it absorbs?**
+No. The colour you see is the complementary colour of the light absorbed. Giving the absorbed colour as the observed colour is a common way to lose the mark.
+
 ## Official syllabus
 
 Content here maps to the International Baccalaureate Organization's Diploma Programme *Chemistry guide*, published in February 2023 for first assessment in 2025. Sub-topic covered: Structure 3.1, The periodic table: classification of elements. Understandings 3.1.1 to 3.1.6 are SL and HL; 3.1.7 to 3.1.10 are additional higher level.

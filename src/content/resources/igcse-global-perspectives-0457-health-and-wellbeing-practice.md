@@ -13,7 +13,7 @@ order: 50
 syllabusTopics:
   - qualification: "igcse"
     topic: "health-and-wellbeing-0457"
-description: "Original source-based 0457 questions on Health and wellbeing, with marked answers, plus Individual Report and Team Project planning tasks."
+description: "Original source-based questions on Health and wellbeing for Cambridge IGCSE Global Perspectives 0457, with marked answers and report and project planning tasks."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -162,6 +162,20 @@ Weighing up: states criteria such as effectiveness, fairness and cost [1]. Sees 
 - Work through the [Written Exam practice questions](/resources/global-perspectives-practice/), the [Individual Report practice questions](/resources/igcse-global-perspectives-individual-report-practice/) and the [Team Project practice questions](/resources/igcse-global-perspectives-team-project-practice/).
 - Check your strengths and gaps with a [diagnostic](/diagnostics/).
 - Want help from a teacher? [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**What topic do these IGCSE Global Perspectives practice questions use?**
+They use Health and wellbeing from the 0457 topic list as a context for source-based skills. The sources and questions are original and written for practice.
+
+**Why does self-reported survey data weaken health evidence?**
+People's reports of their own behaviour are often inaccurate, and without a comparison group you cannot tell whether a change would have happened anyway. Look for both weaknesses.
+
+**Is a personal story good evidence of a health trend?**
+No. A single second-hand story is testimony, not evidence of a pattern. Treating it as proof of a trend is a common mistake.
+
+**What does a Team Project need to measure success?**
+It needs "before" data to compare with results after the action. Planning an action with nothing to measure against makes success impossible to show.
 
 ## Official syllabus
 

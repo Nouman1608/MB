@@ -271,6 +271,23 @@ Cragmoor Garden Tools: product X contributes 18 and uses 2 machine hours; Y cont
 - Dividing fixed costs by selling price, not contribution per unit.
 - Ranking by contribution per unit, not per unit of the scarce resource.
 
+## Frequently asked questions
+
+**What is the difference between FIFO and AVCO?**
+FIFO assumes the oldest items are issued first, so closing inventory is valued at the newest purchase prices. AVCO values issues and closing inventory at a weighted average cost, which in the perpetual method is recalculated after each receipt. With rising prices, FIFO gives the highest profit.
+
+**Do I have to draw a break-even chart for Cambridge 9706?**
+No. The syllabus says you will not be asked to prepare a break-even chart, but you should be able to read and interpret one.
+
+**How do you calculate the margin of safety?**
+Margin of safety = budgeted sales − break-even sales. It can be given in units, revenue or as a percentage of budgeted sales.
+
+**Why do absorption and marginal costing give different profits?**
+Absorption costing carries some fixed production overhead in closing inventory, while marginal costing charges it all in the period. The difference equals the change in inventory units × fixed overhead per unit.
+
+**What is just in time inventory management?**
+Under just in time (JIT), materials arrive close to when production needs them, in small, frequent deliveries, so little inventory is held.
+
 ## Official syllabus
 
 Cambridge International, AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028, sections 2.1 and 2.2.

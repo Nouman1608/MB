@@ -220,6 +220,23 @@ Advantages: the plants are renewable, they take up carbon dioxide as they grow, 
 - Drawing cells in a plan diagram, or shading.
 - Forgetting to convert µm and mm before finding magnification.
 
+## Frequently asked questions
+
+**What is the middle lamella?**
+The middle lamella is the layer shared by two neighbouring plant cells that holds their walls together.
+
+**What are plasmodesmata?**
+Plasmodesmata are narrow channels through the cell walls that connect the cytoplasm of neighbouring plant cells.
+
+**What is the difference between amylose and amylopectin?**
+Amylose is an unbranched chain of α-glucose with α-1,4 glycosidic bonds. Amylopectin has α-1,4 chains with α-1,6 branches.
+
+**What is an amyloplast?**
+An amyloplast is a plastid that stores starch as grains.
+
+**Why are plant-based materials seen as more sustainable than oil-based plastics?**
+Oil-based plastics come from a non-renewable resource. Plant-based products such as starch bioplastics and fibre composites come from renewable plants that take up carbon dioxide as they grow.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification, Issue 2, February 2021, Pearson Education Limited: Topic 4, statements 4.1 to 4.7.

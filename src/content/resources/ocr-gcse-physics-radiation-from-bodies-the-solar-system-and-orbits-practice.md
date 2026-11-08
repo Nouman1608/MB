@@ -144,6 +144,23 @@ These questions cover statements P8.3d, P8.3e, P8.3f, P8.3g and P8.3h of OCR GCS
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these OCR GCSE Physics A orbits questions cover?**
+They cover statements P8.3d to P8.3h of OCR GCSE (9-1) Physics A (J249): radiation emitted by bodies, the solar system, circular orbits and Earth's temperature as a radiation balance.
+
+**Why is "it gives out more radiation" too vague?**
+When a body's temperature changes, two separate things change: the intensity of the radiation and the wavelength of strongest emission. Name each property in its own point to earn both marks.
+
+**What mistakes are common in orbit speed calculations?**
+Using the diameter instead of the radius in 2πr / T, and forgetting to convert hours or days into seconds before dividing. Check that your speed is in m/s.
+
+**How should I describe the force on a satellite in orbit?**
+State that gravity acts towards the centre of the orbit, and use "velocity" rather than "speed" for the quantity that changes direction. Leaving out the direction of the force is a common way to lose marks.
+
+**How do I write a full answer about Earth's temperature balance?**
+Describe what happens to the absorbed and emitted radiation, name infrared being absorbed and re-emitted by the atmosphere, and carry on until the new equilibrium is described. Stopping before the new balance is reached loses marks.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), first assessment 2018, published by OCR.

@@ -16,11 +16,11 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "chemical-energetics"
     subtopic: "exothermic-and-endothermic-reactions"
-description: "Exothermic and endothermic reactions, reaction pathway diagrams, activation energy, and calculating enthalpy change from bond energies, for Cambridge IGCSE 0620 and O Level 5070."
+description: "Exothermic and endothermic reactions, reaction pathway diagrams, activation energy and bond energy calculations for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-18
 featured: false
 ---
@@ -216,6 +216,20 @@ Ea, and drawing a fully-labelled reaction pathway diagram
 - *(0620 Extended, 5070 required)* explaining ΔH in terms of bond breaking
 (endothermic) and bond making (exothermic)
 - *(0620 Extended, 5070 required)* calculating ΔH from given bond energies
+
+## Frequently asked questions
+
+**What is activation energy?**
+Activation energy, Ea, is the minimum energy colliding particles must have to react. It is shown on a reaction pathway diagram from the reactants' energy level up to the peak of the curve, and it is always positive.
+
+**How do you tell if a reaction is exothermic from a reaction pathway diagram?**
+If the products are below the reactants, energy has been released and the reaction is exothermic, with a negative ΔH. If the products are above the reactants, the reaction is endothermic.
+
+**Which parts of this topic are Extended for Cambridge IGCSE 0620?**
+The ΔH sign convention, activation energy, fully labelled pathway diagrams, explaining ΔH through bond breaking and making, and bond energy calculations are Supplement content for 0620. All of it is required for O Level 5070.
+
+**What are examples of exothermic and endothermic reactions?**
+Combustion, neutralisation and most oxidation reactions are exothermic. Thermal decomposition and photosynthesis are endothermic.
 
 ## Related resources
 

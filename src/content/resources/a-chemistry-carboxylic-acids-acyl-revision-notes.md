@@ -22,9 +22,9 @@ syllabusTopics:
     subtopic: "a-acyl-chlorides"
 description: "Condensed recall notes on carboxylic acid reactions, acidity, acyl chlorides and their derivatives for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -146,3 +146,16 @@ Less vigorous than acyl chlorides, cheaper, and produce a carboxylic acid rather
   <figcaption>Ethanoic anhydride is preferred industrially: safer by-product and easier to control. AQA and OxfordAQA.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Can NaBH₄ reduce a carboxylic acid?**
+No. NaBH₄ is not powerful enough; a carboxylic acid is reduced to a primary alcohol with LiAlH₄ in dry ether. Using NaBH₄ here is a common error.
+
+**Why is ethanoic anhydride used instead of ethanoyl chloride to make aspirin?**
+Acid anhydrides react less vigorously than acyl chlorides, are cheaper, and give a carboxylic acid by-product instead of corrosive HCl. This is why ethanoic anhydride is used industrially to make aspirin.
+
+**How is benzoic acid made from methylbenzene?**
+Heat methylbenzene with hot alkaline KMnO₄, then add dilute acid. The whole side-chain is oxidised to a –COOH group on the ring, whatever its original length.
+
+**Why does methanoic acid give a positive Tollens' test?**
+Methanoic acid, HCOOH, keeps an aldehyde-like hydrogen atom on its carbonyl carbon, so it can be oxidised further like an aldehyde. Most other carboxylic acids resist further oxidation.

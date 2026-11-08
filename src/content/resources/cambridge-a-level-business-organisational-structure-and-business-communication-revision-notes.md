@@ -296,6 +296,20 @@ Use these to turn description into judgement.
 - Calculating a delayering saving and not weighing it against non-financial effects.
 - Ignoring the difference between formal and informal channels.
 
+## Frequently asked questions
+
+**Does a manager stay accountable after delegating a task?**
+Yes. Authority for the task can be passed down, but ultimate accountability stays with the manager who delegated it.
+
+**What is the difference between delegation and decentralisation?**
+Delegation passes a task and its authority to one subordinate. Decentralisation moves decision-making lower down the whole organisation.
+
+**What is the difference between line and staff functions?**
+Line functions directly produce or sell, such as operations and sales, and have authority in the chain of command. Staff functions support and advise, such as human resources, finance, IT and legal.
+
+**What is a matrix structure?**
+In a matrix structure, staff report to both a functional manager and a project or product manager. It shares skills across projects, but having two bosses can cause conflict or confusion.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge International: sections 7.1 and 7.2.

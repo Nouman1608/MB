@@ -200,6 +200,20 @@ Ir = 0.0064 × 8.0 = 0.051 mW m⁻²;  transmitted = 7.95 mW m⁻²
 - Describing the collimator, scintillator and tubes without saying what each does to the signal.
 - Giving a one-sided answer when asked to discuss a scanner's cost and benefit.
 
+## Frequently asked questions
+
+**Why is technetium-99m used as a medical tracer?**
+Tc-99m emits gamma photons of about 140 keV that escape the body, gives out no alpha or beta, and has a half-life of about 6 hours. That is long enough to use but short enough to keep the dose small.
+
+**Why does fluorine-18 have to be made close to the PET scanner?**
+F-18 has a half-life of about 110 minutes, so a large fraction decays in transit. It needs a nearby supply and a tight schedule.
+
+**What is acoustic impedance?**
+Acoustic impedance is Z = ρc, the product of a medium's density and the speed of ultrasound in it, measured in kg m⁻² s⁻¹. A large difference in Z at a boundary reflects a large fraction of the ultrasound.
+
+**Which sections of OCR A Level Physics A cover the gamma camera, PET and ultrasound?**
+They are sections 6.5.2 (Diagnostic methods in medicine) and 6.5.3 (Using ultrasound) of OCR H556. X-rays, attenuation and CAT scanning are in 6.5.1.
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556), specification Version 3.0 (March 2026), for first assessment in 2017, published by OCR: sections 6.5.2 and 6.5.3.

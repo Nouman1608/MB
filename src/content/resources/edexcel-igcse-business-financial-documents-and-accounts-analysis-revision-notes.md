@@ -208,6 +208,20 @@ Command words in the specification: calculate (give working), explain (a fact wi
 
 Test yourself on the [practice questions](/resources/edexcel-igcse-business-financial-documents-and-accounts-analysis-practice/), return to the [study guide](/resources/edexcel-igcse-business-financial-documents-and-accounts-analysis/), and check the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is the difference between gross profit and operating profit?**
+Gross profit is revenue minus cost of sales. Operating profit is gross profit minus other operating expenses such as wages, rent and advertising.
+
+**How do you calculate ROCE?**
+Return on capital employed is operating profit divided by capital employed, multiplied by 100. It shows how much operating profit each 100 of long-term funds produced.
+
+**What is the difference between markup and profit margin?**
+Markup measures profit per item against the cost per item, while a margin measures profit against revenue. Because the bases differ, markup is always the larger figure for the same profit.
+
+**Do you have to construct financial statements in Edexcel IGCSE Business?**
+No. The 4BS1 specification states that you will not be asked to construct an income statement or a statement of financial position; you read them, take figures from them and interpret them.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 3: Business finance, sections 3.4 and 3.5; Appendix 2 (command word taxonomy) and Appendix 4 (formulae).

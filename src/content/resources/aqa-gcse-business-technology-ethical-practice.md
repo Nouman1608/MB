@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "influences-on-business-aqa-gcse-business"
     subtopic: "technology-aqa-gcse-business"
-description: "Original exam-style practice questions with full worked answers on e-commerce, digital communication, and ethics/environment/sustainability trade-offs for AQA GCSE Business (8132), 3.2.1 and 3.2.2."
+description: "Original practice questions with worked answers on e-commerce, digital communication and ethics and environment trade-offs for AQA GCSE Business (8132)."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-04
 featured: false
 ---
@@ -84,3 +84,17 @@ Related: [Technology and Ethical/Environmental Considerations study guide](/reso
 ## Approaching technology and ethical/environmental questions
 
 For every technology question, name the specific functional area (marketing, operations, human resources or finance) affected before describing the effect, since answers that describe the technology in isolation score lower than those that link it explicitly to the business. For every ethics, environmental or sustainability question, use the same four-step structure every time: name the action, state its cost, state its benefit, then reach a reasoned judgement — this reusable template is what the specification's repeated use of the word "trade-off" is signalling should be practised, and applying it consistently is worth more than trying to write a different structure for each scenario.
+
+## Frequently asked questions
+
+**Which parts of AQA GCSE Business (8132) do these questions cover?**
+Section 3.2.1 Technology and section 3.2.2 Ethical and environmental considerations, both part of Topic 2 Influences on business.
+
+**How do I answer a technology question in GCSE Business?**
+Name the specific functional area affected, such as marketing, operations, human resources or finance, before describing the effect. Describing the technology on its own scores lower.
+
+**What structure should I use for an ethics or environment trade-off question?**
+Name the action, state its cost to the business, state its benefit, then reach a reasoned judgement. The specification's repeated use of the word "trade-off" signals this kind of answer.
+
+**What are the four functional areas of a business in AQA GCSE Business?**
+Business operations, human resources, marketing and finance.

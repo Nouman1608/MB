@@ -263,6 +263,23 @@ overall: 2O3 → 3O2
 - Writing ozone equations where Cl• is not regenerated, or with ClO without the radical dot.
 - Saying UV breaks the C–F bond in CFCs.
 
+## Frequently asked questions
+
+**What conditions favour substitution or elimination with KOH?**
+Aqueous KOH favours nucleophilic substitution to give an alcohol, while ethanolic KOH and heat favour elimination to give an alkene. Swapping these conditions is a common error.
+
+**What are the reagents for making a nitrile or an amine from a halogenoalkane?**
+A nitrile is made by refluxing with KCN in aqueous ethanol, which adds one carbon to the chain. A primary amine is made by heating with excess ammonia in ethanol in a sealed container.
+
+**What is the difference between a nucleophile and a base?**
+A nucleophile donates an electron pair to a carbon atom, while a base accepts a proton (H⁺). The hydroxide ion can act as either, which is why substitution and elimination can happen together.
+
+**Why does UV light break C–Cl bonds but not C–F bonds in CFCs?**
+The C–F bond is stronger than the C–Cl bond, so UV radiation in the upper atmosphere breaks only the C–Cl bond, forming chlorine radicals. Saying UV breaks the C–F bond loses the mark.
+
+**Is there a required practical for halogenoalkanes in AQA A-level Chemistry 7405?**
+No required practical is listed under section 3.3.3. The suggested activities are test-tube hydrolysis with silver nitrate to compare rates and preparing a chloroalkane.
+
 ## Next steps
 
 Work through the [practice questions](/resources/aqa-a-level-chemistry-halogenoalkanes-practice/), go back to

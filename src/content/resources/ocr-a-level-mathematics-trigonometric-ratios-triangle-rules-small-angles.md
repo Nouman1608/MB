@@ -348,6 +348,20 @@ x = π/3 or π/2
 - Using ½ab sin C with an angle that is not between sides a and b.
 - Measuring a bearing from the wrong north line. Draw a sketch.
 
+## Frequently asked questions
+
+**In which quadrants are sine, cosine and tangent positive?**
+Sine is positive in the first and second quadrants, cosine in the first and fourth, and tangent in the first and third.
+
+**What are the small angle approximations?**
+For small θ in radians, sin θ ≈ θ, cos θ ≈ 1 − θ²/2 and tan θ ≈ θ.
+
+**How do you solve a quadratic equation in sin θ?**
+Treat sin θ as a single unknown and factorise, then solve each factor for θ in the interval. Reject any value of sin θ outside −1 to 1.
+
+**How do you find an interior angle of a triangle in a bearings problem?**
+Draw a north line at each point and use the bearings, with parallel north lines, to find the angle inside the triangle at the turning point. Then apply the sine or cosine rule.
+
 ## Official syllabus
 
 OCR, *A Level in Mathematics A (H240) specification*, Version 3.1 (August 2026), for first assessment in 2018, published by OCR.

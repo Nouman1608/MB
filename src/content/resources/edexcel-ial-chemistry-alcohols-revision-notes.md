@@ -209,6 +209,19 @@ Go back to the [study guide](/resources/edexcel-ial-chemistry-alcohols/) for any
   <figcaption>Fermentation needs yeast, about 35 degrees C and no air, followed by fractional distillation.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you oxidise a primary alcohol to an aldehyde rather than an acid?**
+Warm it with potassium dichromate(VI) in dilute sulfuric acid and distil off the aldehyde as it forms. Heating under reflux with excess oxidant gives the carboxylic acid instead.
+
+**What colour change shows that an alcohol has been oxidised by dichromate?**
+The solution changes from orange to green. A tertiary alcohol is not oxidised, so the mixture stays orange.
+
+**Why does an aldehyde have a lower boiling point than the alcohol it came from?**
+Aldehyde molecules cannot form hydrogen bonds with each other, while alcohol molecules can. Saying the aldehyde has "weaker bonds" does not earn the mark.
+
+**Where should the thermometer bulb be placed during distillation?**
+The thermometer bulb should be level with the side arm of the distillation flask, not in the liquid, so it measures the temperature of the vapour leaving.
 
 ## Official syllabus
 

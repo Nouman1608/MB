@@ -16,19 +16,21 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "algebra-and-graphs"
     subtopic: "equations"
-description: "Original exam-style practice questions with full worked answers on index laws, linear and quadratic equations, simultaneous equations and rearranging formulae."
+description: "Cambridge O Level Mathematics 4024 practice questions with worked answers on index laws, linear, fractional, quadratic and simultaneous equations and formulas."
 author: "muhammad-ghazali-siddiqui"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNote: "2026-11-08 recheck: added intro naming 4024 subtopics 2.4 and 2.5, Section C (index equation, index simplification, two-denominator fractional equation, subject inside a root and appearing twice) and FAQ; fixed a garbled exam-trap bullet; rewrote description. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNeeded: true
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
 > and they do **not** replicate the exam's exact structure, question count or
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
+
+These questions cover subtopics 2.4 (Indices II) and 2.5 (Equations) of Cambridge O Level Mathematics (Syllabus D) 4024: positive, zero, negative and fractional indices, linear and fractional equations, simultaneous equations, quadratics by factorising, completing the square and the formula, and changing the subject. Knowledge of logarithms is not required, so every index equation is solved by matching bases.
 
 Related: [Indices and Equations revision notes](/resources/indices-and-equations-revision-notes/)
 
@@ -66,6 +68,16 @@ Related: [Indices and Equations revision notes](/resources/indices-and-equations
 
 **11.** Solve 5^(x+1) = 25^x. **[3]**
 
+## Section C
+
+**12.** Solve 32^x = 2. **[2]**
+
+**13.** Simplify (3x⁴)² × 2x⁻³. **[2]**
+
+**14.** Solve 2/(x + 2) + 3/(2x − 1) = 1. **[5]**
+
+**15.** Make x the subject of k = √(x/(x + 1)). **[4]**
+
 ---
 
 ## Answers
@@ -94,11 +106,19 @@ Related: [Indices and Equations revision notes](/resources/indices-and-equations
 
 **11.** Rewrite 25 as 5² so both sides share the same base: 5^(x+1) = (5²)^x = 5^(2x) [1]. Once the bases match, the indices must be equal: x + 1 = 2x [1]; x = **1** [1].
 
+**12.** 32 = 2⁵, so 2^(5x) = 2¹ [1]; 5x = 1, **x = 1/5** [1].
+
+**13.** (3x⁴)² = 9x⁸ [1]; 9x⁸ × 2x⁻³ = **18x⁵** [1].
+
+**14.** Multiply every term by (x + 2)(2x − 1): 2(2x − 1) + 3(x + 2) = (x + 2)(2x − 1) [1]; 7x + 4 = 2x² + 3x − 2 [1]; 2x² − 4x − 6 = 0, so x² − 2x − 3 = 0 [1]; (x − 3)(x + 1) = 0 [1]; **x = 3 or x = −1** [1]. Neither is an excluded value (−2 or ½). Check x = 3: 2/5 + 3/5 = 1 ✓.
+
+**15.** Square both sides: k² = x/(x + 1) [1]; k²x + k² = x [1]; k² = x − k²x = x(1 − k²) [1]; **x = k²/(1 − k²)** [1].
+
 ---
 
 ## Where marks are usually lost
 
-- Writing x⁵ × x³ as x¹⁵, adding the powers only when multiplying, never when the two terms are added or subtracted.
+- Writing x⁵ × x³ as x¹⁵. When multiplying, add the powers (x⁸); index laws never apply to terms that are added or subtracted.
 - Multiplying only part of the expression when clearing fractions.
 - Forgetting the ± in the quadratic formula.
 - Not rejecting the negative root in a context question.
@@ -107,5 +127,19 @@ Related: [Indices and Equations revision notes](/resources/indices-and-equations
 - Cross-multiplying only one side of a fractional equation, rather than every term on both sides.
 - Confusing a fractional-index question, e.g. 27^(2/3), with a negative-index question, e.g. 3⁻² — the first is a root-then-power calculation, the second a reciprocal.
 - Trying to equate indices before the bases actually match — 5^(x+1) = 25^x only becomes solvable once 25 is rewritten as 5², not before.
+
+## Frequently asked questions
+
+**Do I need logarithms to solve index equations in 4024?**
+No. The syllabus says knowledge of logarithms is not required. Write both sides as powers of the same base, such as 32 = 2⁵, then equate the indices.
+
+**What does a fractional index mean?**
+The denominator is a root and the numerator is a power: 27^(2/3) = (∛27)² = 9. A negative index means a reciprocal: 3⁻² = 1/9.
+
+**Which method should I use for a quadratic equation?**
+Factorise if it factorises easily; otherwise use the quadratic formula, which is given in the 4024 List of formulas. Use completing the square when the question asks for it or wants an exact surd answer.
+
+**Why must I check answers to a fractional equation?**
+A value that makes a denominator zero cannot be a solution, so compare each root with the excluded values before giving your final answer.
 
 For condensed recall notes on this topic, see the [Indices and Equations revision notes](/resources/indices-and-equations-revision-notes/); for the full explanation with worked examples, see the [Indices and Equations study guide](/resources/indices-and-equations/).

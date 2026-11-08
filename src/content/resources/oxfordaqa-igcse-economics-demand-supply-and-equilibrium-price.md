@@ -269,6 +269,23 @@ A strong answer uses the model to give a clear prediction, then states one limit
 - Stating a new price or quantity without saying which curve moved and what gap opened at the starting price.
 - Saying quantity must rise when both curves shift.
 
+## Frequently asked questions
+
+**What factors shift the demand curve?**
+Apart from the good's own price, demand is influenced by income, tastes and fashion (including advertising), prices of related goods, population size and age structure, expectations about future prices or income, and seasons, weather and events. A change in any of these shifts the whole curve.
+
+**What factors shift the supply curve?**
+Supply is influenced by costs of production, technology and productivity, taxes and subsidies, the number of firms in the market, weather and natural events, and expectations about future prices. A change in one of these shifts the supply curve left or right.
+
+**How do you find market demand from individual demand?**
+Add the quantities that every buyer would purchase at each price. The totals at each price form the market demand schedule, and market supply is found the same way by adding all firms' supply at each price.
+
+**When is a supply and demand diagram less reliable?**
+The model works best where many buyers and sellers trade near-identical goods. It is less reliable when several factors change at once, when supply takes months or years to respond, when prices are fixed by contracts, or when governments or firms with market power affect prices.
+
+**What is excess demand?**
+Excess demand, or a shortage, exists when the price is below equilibrium, so buyers want more than sellers offer. Buyers compete for the limited supply and the price rises towards equilibrium.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), specification Version 1.0, first teaching September 2023, first examined May/June 2025. Published by OxfordAQA.

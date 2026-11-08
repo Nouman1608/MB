@@ -251,6 +251,20 @@ When a question gives a case, ask three things in turn. What changed? What is th
 - Listing the entrepreneur's roles without tying any of them to the case.
 - Giving a one-sided answer to "evaluate" or "justify" and never stating a decision.
 
+## Frequently asked questions
+
+**What does obsolete mean in GCSE Business?**
+A product or service is obsolete when it is out of date and few people still want it, usually because something better has replaced it. It does not mean broken; the need it met often remains, which creates room for a new idea.
+
+**What are the five ways a business can add value?**
+The Edexcel GCSE Business (1BS0) specification lists convenience, branding, quality, design and a unique selling point (USP). Each makes the output worth more to the customer than the inputs the business bought.
+
+**Is value added the same as profit?**
+No. Value added can be pictured as the selling price less the cost of bought-in inputs, but wages, rent and other costs still have to be paid out of it. Profit is revenue minus total costs.
+
+**What are the three roles of an entrepreneur?**
+An entrepreneur organises resources, makes business decisions and takes risks. In a context question, tie each role to a detail from the case rather than just listing them.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 1: Investigating small business, Topic 1.1 Enterprise and entrepreneurship, items 1.1.1 to 1.1.3.

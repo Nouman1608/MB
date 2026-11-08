@@ -170,6 +170,20 @@ Related pages: the [study guide](/resources/cambridge-a-level-economics-firms-ob
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 firms' objectives and pricing questions from past papers?**
+No. They are original practice questions with worked answers covering section 7.8, Differing objectives and policies of firms, of the Cambridge International AS and A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**What are common mistakes in profit maximisation questions?**
+A common error is using the revenue-maximising output as the profit-maximising one. Another is quoting MR = MC without the numbers to show it, so compare MR with MC and show the working.
+
+**Does satisficing mean making no profit?**
+No. Profit satisficing means aiming for a satisfactory target level of profit rather than the maximum. Saying satisficing means "making no profit" is a frequent mistake.
+
+**Is limit pricing the same as pricing below cost?**
+No. Describing limit pricing as pricing below cost is a common error; the limit price stays above cost and is set low enough to deter entry.
+
 ## Official syllabus
 
 Cambridge International AS and A Level Economics (9708) syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, section 7.8.

@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "organisation-oxfordaqa-igcse-biology"
-description: "Cell structure, tissues and organ systems -- the opening topic of OxfordAQA International GCSE Biology (9201), largely co-teachable with OxfordAQA International GCSE Combined Science (9204)."
+description: "Cell structure, tissues, organs, organ systems and transport in cells, covering Topic 1 Organisation of OxfordAQA International GCSE Biology 9201."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide covers **Topic 1 Organisation**, the first of six topics
@@ -254,3 +254,17 @@ Muddling diffusion, osmosis and active transport — only active transport requi
 - Name the animal tissues found in the stomach and the plant tissues found in a leaf.
 - Define diffusion, osmosis and active transport, and say which one requires energy from respiration.
 - Explain how the small intestine, lungs, roots and leaves are each adapted as exchange surfaces.
+
+## Frequently asked questions
+
+**What is osmosis in OxfordAQA IGCSE Biology?**
+Osmosis is the diffusion of water from a dilute solution to a more concentrated solution through a partially permeable membrane. The 9201 specification also expects you to know the terms isotonic, hypotonic, hypertonic, turgor and plasmolysis.
+
+**How is a bacterial cell different from a plant or animal cell?**
+A bacterial cell is prokaryotic: its genes are not in a distinct nucleus, and some genes are in circular structures called plasmids. It has cytoplasm and a membrane surrounded by a cell wall.
+
+**What are examples of plant tissues?**
+Plant tissues include epidermal tissue, palisade mesophyll, spongy mesophyll, and xylem and phloem. Stems, roots and leaves are plant organs.
+
+**Is OxfordAQA 9201 Organisation shared with Combined Science?**
+Yes, largely. OxfordAQA International GCSE Biology 9201 is linear and untiered, and this topic is largely co-teachable with OxfordAQA International GCSE Combined Science 9204.

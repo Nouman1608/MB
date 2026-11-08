@@ -321,6 +321,20 @@ Worked reminder (inverse proportion): 8 taps fill a tank in 15 minutes. Taps × 
 - Leaving out units, or giving too many significant figures for rounded data.
 - In Criterion D tasks, giving an answer without commenting on whether it is reasonable in the context.
 
+## Frequently asked questions
+
+**What do the number set symbols N, Z and Q mean?**
+In the IB MYP Mathematics guide's notation, N is the positive integers and zero, Z is the integers, Q is the rational numbers and Q' is the irrational numbers. For example, √49 = 7 is in N and π is in Q'.
+
+**What is the difference between the GCF and the LCM?**
+The greatest common factor takes the lowest power of the shared primes, and the lowest common multiple takes the highest power of every prime. For 252 and 198 the GCF is 18 and the LCM is 2772.
+
+**What is a logarithm?**
+A logarithm answers "what power?": log_a x = y means aʸ = x. For example, log₂ 8 = 3; logarithms are extended content in MYP Mathematics.
+
+**What are the rules for standard form?**
+A number in standard form is a × 10ᵏ, where a is at least 1 and less than 10 and k is a whole number. A first factor of 10 or more, or below 1, is not standard form.
+
 ## Official syllabus
 
 IB *Mathematics guide*, Middle Years Programme (for use from September 2020/January 2021, first assessment 2022), International Baccalaureate Organization: mathematics framework, numerical and abstract reasoning.

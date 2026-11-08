@@ -121,6 +121,20 @@ Then state how far from AD the boundary arc meets the line that is equidistant f
 - Try all free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Are constructions and loci on both tiers of OCR GCSE Maths?**
+Yes. Section 8.02, ruler and compass constructions and loci, in OCR GCSE (9-1) Mathematics J560 is Foundation and Higher content, with no part restricted to the Higher tier.
+
+**Why should you leave construction arcs on your drawing?**
+The arcs are the evidence of how you constructed the line. Rubbing them out leaves no sign of the method, which is a common way to lose marks.
+
+**How wide should the compasses be for a perpendicular bisector?**
+Open the compasses to more than half the length of the segment and keep the same radius for the arcs from both ends. If the radius is too small or changes, the arcs will not cross in the right place.
+
+**What should you do with real distances in a scale drawing loci question?**
+Convert every real distance to a drawing length using the scale before you set your compasses or ruler. Read any answer from the drawing and convert it back to a real distance at the end.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), section 8.02, published by OCR.

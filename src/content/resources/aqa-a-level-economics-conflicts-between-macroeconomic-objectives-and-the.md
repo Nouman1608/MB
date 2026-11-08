@@ -222,6 +222,23 @@ Monetarist and supply-side economists argue that in the long run the objectives 
 - Stating the output gap without dividing by potential output.
 - Offering demand policy as the cure for stagflation without commenting on the trade-off.
 
+## Frequently asked questions
+
+**What is an output gap?**
+An output gap is the difference between actual output and potential output, usually expressed as a percentage of potential output. A negative gap means spare capacity; a positive gap means demand is stretching capacity.
+
+**Why can economic growth conflict with the current account?**
+Demand-led growth raises incomes, and part of the extra income is spent on imports, so the current account balance can worsen as the economy grows.
+
+**What does AQA call the long-run Phillips curve?**
+The AQA 7136 specification calls it the L-shaped Phillips curve and says it is also known as the vertical long-run Phillips curve.
+
+**What is the monetarist view of macroeconomic conflicts?**
+Monetarist and supply-side economists argue that in the long run the objectives are compatible, because long-run output and unemployment are set by supply-side factors and low, stable inflation encourages saving and investment.
+
+**What axis does unemployment go on in a Phillips curve?**
+Unemployment goes on the horizontal axis and inflation on the vertical axis. Plotting unemployment on the vertical axis is a common error.
+
 ## Official syllabus
 
 AQA AS and A-level Economics (7135 and 7136), specification for first teaching from September 2015, version 1.3, 29 June 2022, published by AQA. Combined PDF section 4.2.3.4, Possible conflicts between macroeconomic policy objectives.

@@ -293,6 +293,20 @@ a^2 = 25 x 10^(2n) = 2.5 x 10^1 x 10^(2n) = 2.5 x 10^(2n+1)
 - Leaving 13.5 × 10⁴ or 0.3 × 10⁻⁵ as a final answer: neither is standard form.
 - Adding the a parts when the powers are different.
 
+## Frequently asked questions
+
+**What is the difference between decimal places and significant figures?**
+Decimal places count the digits after the decimal point. Significant figures count from the first non-zero digit, wherever it is, so 0.006 07 has 3 significant figures but 5 decimal places.
+
+**How do you multiply numbers in standard form?**
+Multiply the front numbers and add the powers of 10, then adjust so the front number is between 1 and 10. For example, (4.5 × 10⁶) × (3 × 10⁻²) = 13.5 × 10⁴ = 1.35 × 10⁵.
+
+**How do you choose a suitable degree of accuracy from bounds?**
+Round the upper and lower bounds to the same accuracy and find the level at which they agree. If the bounds of a speed are 8.13... and 7.79..., they differ at 2 significant figures but both give 8 to 1 significant figure, so 8 m/s is the suitable answer; this is Higher tier in 4MA1.
+
+**How should you write a calculator answer such as 1.35E5?**
+Write it in proper standard form as 1.35 × 10⁵. The calculator notation "1.35E5" should never be given as a final answer.
+
 ## Next steps
 
 Condense this page with the [revision notes](/resources/edexcel-igcse-maths-4ma1-degree-of-accuracy-and-standard-form-revision-notes/), then try the [practice questions](/resources/edexcel-igcse-maths-4ma1-degree-of-accuracy-and-standard-form-practice/). For mixed Topic 1 questions use the [Numbers and the number system practice](/resources/edexcel-igcse-mathematics-number-practice/). To find gaps across the course, try a free [diagnostic](/diagnostics/).

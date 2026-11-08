@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "topic-c2-elements-compounds-mixtures-j248"
     subtopic: "c2-1-purity-separating-mixtures-j248"
-description: "Condensed recall notes on purity, melting point, relative formula mass, empirical formula and the five separation techniques for OCR GCSE (9-1) Chemistry A Gateway Science (J248), C2.1."
+description: "Revision notes for OCR GCSE Chemistry A (J248) C2.1: what purity means, Mr and empirical formulae, choosing a separation technique, and using Rf values."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -180,6 +180,20 @@ Beyond simply separating a mixture, chromatography's real analytical power is co
 
 - [Purity and Separating Mixtures study guide](/resources/ocr-gcse-chemistry-purity-and-separating-mixtures/)
 - [Purity and Separating Mixtures practice questions](/resources/ocr-gcse-chemistry-purity-separating-practice/)
+
+## Frequently asked questions
+
+**What is an empirical formula?**
+An empirical formula is the simplest whole-number ratio of atoms in a compound. For a compound with 2.4 g of carbon and 0.6 g of hydrogen, the mole ratio is 0.2 : 0.6, which simplifies to 1 : 3, giving CH₃.
+
+**How do you separate sand and salt from water?**
+First filter the mixture: the insoluble sand stays on the filter paper and the salt solution passes through as the filtrate. Then crystallise the filtrate by heating to evaporate water until crystals form, and leave them to cool and dry.
+
+**How does chromatography show whether a sample is pure?**
+A pure substance produces a single spot on a chromatogram, while a mixture produces several spots at different Rf values. Rf values should only be compared for spots run under the same conditions, ideally on the same chromatogram.
+
+**Why are Rf values compared on the same chromatogram?**
+Rf values are consistent for a given substance only under the same conditions of solvent, paper and temperature. Mixing measurements from chromatograms run under different conditions gives an invalid comparison.
 
 ## Official syllabus
 

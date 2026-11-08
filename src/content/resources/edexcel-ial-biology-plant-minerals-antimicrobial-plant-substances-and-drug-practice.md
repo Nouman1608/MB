@@ -137,6 +137,20 @@ These questions cover statements 4.8 to 4.13 of Topic 4 (International AS) in th
 * [All free 10-minute diagnostics](/diagnostics/)
 * [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which Edexcel statements do these questions cover?**
+They cover statements 4.8 to 4.13 of Pearson Edexcel International A Level Biology (YBI11), including Core Practicals 8 and 9.
+
+**Should you answer "nitrogen" for the ion plants absorb?**
+No. Name the ion, nitrate. Answering "nitrogen" when the ion is asked for loses marks.
+
+**How should you describe aseptic technique?**
+Give specific steps, such as flaming the loop or working near a Bunsen flame. Vague words like "clean" do not earn marks.
+
+**Are these Edexcel past paper questions?**
+No. They are original practice questions with worked answers. Use them alongside official Pearson Edexcel past papers.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology, specification Issue 2 (Pearson Education Limited), Topic 4, statements 4.8 to 4.13.

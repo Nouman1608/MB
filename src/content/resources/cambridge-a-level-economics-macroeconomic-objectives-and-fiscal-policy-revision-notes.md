@@ -279,6 +279,23 @@ Full employment version: if output cannot rise further because SRAS is vertical,
 - Evaluating without saying when the conclusion changes.
 - Treating a tax cut and a spending rise of the same size as identical.
 
+## Frequently asked questions
+
+**What is the difference between a budget deficit and the national debt?**
+A budget deficit is a flow over one year, when government spending exceeds revenue. The national debt is a stock, the accumulated total of past borrowing.
+
+**What are the reasons for taxation?**
+Governments tax to raise revenue, to redistribute income, to discourage demerit goods and activities with negative externalities, and to influence aggregate demand.
+
+**What is the difference between current and capital government spending?**
+Current spending is on day-to-day items such as teachers' salaries, while capital spending is on lasting assets. Capital spending adds to demand now and may raise productive capacity later.
+
+**Why does the national debt matter?**
+Interest on the debt is an opportunity cost for spending elsewhere, taxes may have to rise later, foreign-held debt sends interest abroad, and very high debt can raise the interest lenders demand. The debt-to-GDP ratio shows how heavy it is relative to the economy.
+
+**How do you calculate real growth from nominal growth and inflation?**
+Real growth equals one plus nominal growth, divided by one plus inflation, minus 1. Subtracting the inflation rate from nominal growth gives only an approximation.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge International AS & A Level Economics (9708) syllabus for examination in 2026, 2027 and 2028*, Subject content, section 5 Government macroeconomic intervention (AS Level), sections 5.1 and 5.2.

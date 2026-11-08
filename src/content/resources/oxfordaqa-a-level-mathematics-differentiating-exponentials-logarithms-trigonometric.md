@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-p2-pure-maths-oxfordaqa-alevel-maths"
     subtopic: "p2-differentiation-oxfordaqa-alevel-maths"
-description: "Study guide to OxfordAQA 9660 P2.6: derivatives of e^x, ln x and trig functions, product, quotient and chain rules, and dy/dx = 1/(dx/dy)."
+description: "Detailed study guide to OxfordAQA 9660 P2.6: derivatives of e^x, ln x and trig functions, product, quotient and chain rules, and dy/dx = 1/(dx/dy)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -272,6 +272,20 @@ Write u, v, du/dx and dv/dx down before you substitute. It keeps the signs under
 - Taking dx/dy, then forgetting to flip it.
 
 Test yourself with the [practice questions](/resources/oxfordaqa-a-level-mathematics-differentiating-exponentials-logarithms-trigonometric-practice/) and see how you do on the [diagnostics](/diagnostics/).
+
+## Frequently asked questions
+
+**What is the quotient rule?**
+For y = u/v, dy/dx = (v du/dx − u dv/dx) / v². The order in the numerator matters, so reversing it gives the wrong sign.
+
+**What is the product rule?**
+For y = uv, dy/dx = u dv/dx + v du/dx. Use it when two functions that each contain x are multiplied; a constant multiplier does not need it.
+
+**How do you use the chain rule?**
+Differentiate the outer function with the inner function left as it is, then multiply by the derivative of the inner function: dy/dx = dy/du × du/dx. For three layers, work from the outside inwards and multiply all three derivatives.
+
+**Why is it useful to factorise a product rule answer?**
+Taking out a common factor, such as e^(−3x), makes it easier to find where the gradient is zero. Because e^(kx) is never zero, the remaining factor gives the solution directly.
 
 ## Official syllabus
 

@@ -154,6 +154,23 @@ Other functions are equally valid if explained. **[4]**
 - Using actual inflation when a lender's decision rests on expected inflation.
 - Stating that the quantity theory is right or wrong without testing the assumptions about V and T.
 
+## Frequently asked questions
+
+**What are the functions of money?**
+Money acts as a medium of exchange, a unit of account, a store of value and a standard of deferred payment. Questions on OCR A Level Economics (H460) may ask you to link each function to a characteristic, such as acceptability or durability.
+
+**How do you calculate the credit multiplier?**
+The maximum credit multiplier is 1 divided by the reserve ratio. If people also withdraw part of each deposit as cash, add that cash drain to the reserve ratio before dividing, and remember the result is a maximum, not a fixed outcome.
+
+**What is the difference between the nominal and real interest rate?**
+The nominal rate is the rate quoted, while the real rate adjusts for inflation. Approximately, real equals nominal minus inflation; exactly, (1 + real) = (1 + nominal) / (1 + inflation).
+
+**What are common mistakes in money and banking questions?**
+Frequent errors include counting a bank's own cash in the money supply, forgetting the cash drain in credit creation, shifting the money demand curve when it is the money supply that changes, and treating a nominal rate as the real return.
+
+**How should you evaluate the quantity theory of money?**
+Test its assumptions that velocity is stable and transactions are fixed, rather than simply saying it is right or wrong. Explain what happens to the price level when either assumption fails.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates/).

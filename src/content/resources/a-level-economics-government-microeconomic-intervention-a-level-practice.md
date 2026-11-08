@@ -13,11 +13,11 @@ order: 8
 syllabusTopics:
   - qualification: "a-level"
     topic: "government-microeconomic-intervention-a-cambridge-alevel-economics"
-description: "Original exam-style questions with full worked answers on marginal revenue product, derived demand and structural unemployment, correcting externalities with taxes and subsidies, and the Lorenz curve and Gini coefficient, for Cambridge International AS & A Level Economics (9708)."
+description: "Cambridge 9708 A Level practice on microeconomic intervention: MRP and derived demand, structural unemployment, externalities, subsidies and the Gini."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
@@ -101,3 +101,17 @@ Each question practises a skill tested in the June 2024 Paper 42. After each ans
 - Stating that a policy "depends on elasticity" without explaining how.
 - Describing a tax or subsidy without linking it to reaching the output where MSB = MSC.
 - Reversing the Gini coefficient: a higher value means more inequality.
+
+## Frequently asked questions
+
+**Which Cambridge 9708 paper do these questions practise?**
+Each question practises a skill tested in the June 2024 Paper 42, with examiner or mark-scheme insights after the answers.
+
+**How should a labour market diagram be labelled?**
+Label the axes and curves as the demand for and supply of labour. Labelling a labour market with AD and AS is a common mistake.
+
+**Is it enough to say a tax policy depends on price elasticity?**
+No. Saying a policy depends on price elasticity earns only lower evaluation credit; you need to explain how the elasticity changes the outcome.
+
+**What should a tax or subsidy answer on externalities link to?**
+It should link the tax or subsidy to reaching the socially optimal output, where marginal social benefit equals marginal social cost.

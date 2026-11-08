@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-carboxylic-acids-and-derivatives"
     subtopic: "as-esters"
-description: "Original exam-style practice questions with full worked answers on carboxylic acid reactions, esterification and hydrolysis."
+description: "Original practice questions with worked answers for Cambridge AS & A Level Chemistry 9701 on carboxylic acid reactions, esterification and ester hydrolysis."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -112,3 +112,17 @@ Acyl chlorides are not part of the AS 9701 syllabus (Topic 18.2 covers only este
 - Trying to reduce a carboxylic acid with NaBH₄ — it isn't strong enough; only LiAlH₄ can do it.
 - Naming acid hydrolysis and alkaline hydrolysis as if they give the same products — acid hydrolysis gives the free carboxylic acid, alkaline hydrolysis gives the carboxylate salt.
 - Forgetting that reaction with a reactive metal is a redox reaction (producing hydrogen), while reaction with an alkali is neutralisation — the same acid, two different reaction types depending on what it reacts with.
+
+## Frequently asked questions
+
+**Why are carboxylic acids described as weak acids?**
+Carboxylic acids only partially dissociate in aqueous solution, so an equilibrium is set up and only a small proportion of molecules release H⁺. Saying they are weak because they are dilute is wrong.
+
+**How do you name the ester made from an acid and an alcohol?**
+The alcohol supplies the alkyl part, which is named first, and the acid supplies the second part. Ethanol and ethanoic acid give ethyl ethanoate.
+
+**Why does ethanoic acid have a higher boiling point than propanone?**
+Ethanoic acid molecules form hydrogen bonds with one another through their O–H groups, while propanone cannot. More energy is needed to separate ethanoic acid molecules.
+
+**Is the acyl chloride question on this page AS content?**
+No. The question on ethanoyl chloride is labelled A Level extension and is not AS content in Cambridge International AS & A Level Chemistry 9701.

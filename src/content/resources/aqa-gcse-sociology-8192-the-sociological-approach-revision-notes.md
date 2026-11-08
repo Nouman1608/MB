@@ -17,9 +17,9 @@ description: "Revision notes for AQA GCSE Sociology 8192 section 3.1: key terms,
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 For full explanations and worked paragraphs, read the [study guide for this unit](/resources/aqa-gcse-sociology-8192-the-sociological-approach/) first.
@@ -157,6 +157,20 @@ Use these in evaluation by explaining what has changed, not just that a study is
 ## Linked resources
 
 Apply the perspectives to topic content in the [families and education revision notes](/resources/aqa-gcse-sociology-families-education-revision-notes/) and the [crime and stratification revision notes](/resources/gcse-sociology-crime-stratification-revision-notes/). For methods, see the [research methods guide](/resources/aqa-gcse-sociology-research-methods/).
+
+## Frequently asked questions
+
+**What is the difference between consensus and conflict theories?**
+Consensus theories, such as functionalism, see society resting on shared values. Conflict theories see society resting on competing interests, by class for Marxism and by gender for feminism.
+
+**What is the difference between structure and agency?**
+Structure means institutions shape behaviour; agency means individuals interpret situations and make choices. Interactionism stresses agency.
+
+**Is interactionism a consensus or a conflict theory?**
+It fits neither neatly. Interactionism focuses on small-scale interaction and meanings rather than society-wide agreement or conflict, so explain why if you place it.
+
+**Why do you need to give context for Durkheim, Marx and Weber?**
+The AQA GCSE Sociology (8192) specification asks for their contextualised work, so say when and where each wrote and how that shaped their ideas.
 
 ## Official syllabus
 

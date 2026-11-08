@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "membranes-proteins-dna-and-gene-expression-edexcel-alevel-biology"
-description: "Condensed recall notes on Fick's Law, gas exchange surfaces, the fluid mosaic model and membrane transport for Pearson Edexcel International A-Level Biology (YBI11), outcomes 2.1-2.5."
+description: "Condensed notes on Fick's Law, gas exchange surfaces, the fluid mosaic model, osmosis and membrane transport for Edexcel IAL Biology YBI11, outcomes 2.1-2.5."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-02
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -155,6 +155,23 @@ Outcomes 2.1-2.5 open Topic 2 (Membranes, Proteins, DNA and Gene Expression), wh
 - Define osmosis precisely, distinguishing it from diffusion in general.
 - Complete the five-row comparison table (energy, direction, protein/vesicle) from memory.
 - Predict the effect on gas exchange rate if surface area is halved, all else constant.
+
+## Frequently asked questions
+
+**What is Fick's Law?**
+The rate of diffusion is proportional to surface area × concentration difference ÷ diffusion distance. Every adaptation of an efficient exchange surface links to one of these variables.
+
+**What does Core Practical 3 investigate?**
+Core Practical 3 investigates membrane permeability, such as the effect of temperature and alcohol concentration, both of which increase permeability.
+
+**How is osmosis defined for Edexcel YBI11?**
+Osmosis is the movement of free water molecules through a partially permeable membrane down a water potential gradient.
+
+**What is the defining feature of active transport?**
+Active transport moves substances against their concentration gradient through carrier proteins, using ATP as an immediate source of energy.
+
+**Which transport mechanisms are often forgotten?**
+Endocytosis and exocytosis are often left out when a question covers all membrane transport mechanisms.
 
 ## Related resources
 

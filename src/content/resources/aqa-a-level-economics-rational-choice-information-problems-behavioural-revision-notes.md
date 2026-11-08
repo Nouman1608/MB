@@ -240,6 +240,20 @@ A café owner has paid 500 for a coffee machine (sunk). Opening one more evening
 - Using one-sided conclusions, such as "nudges always work".
 - Mixing up default and mandated choice.
 
+## Frequently asked questions
+
+**Does diminishing marginal utility mean total utility falls?**
+No. It means each extra unit adds less satisfaction than the one before; total utility can still rise.
+
+**Is a tax a nudge?**
+No. A nudge changes how a choice is presented without forbidding options or significantly changing incentives; a tax changes the price, and a ban removes choice.
+
+**Do nudges always work?**
+No. Their effects can fade, vary between people and be hard to measure, so avoid one-sided conclusions.
+
+**Is the equi-marginal principle in the AQA specification?**
+No. The AQA 7136 specification does not require the equi-marginal principle.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification, version 1.3 (29 June 2022), published by AQA: the A-level sub-section Individual economic decision making, 3.1.2 on the AQA website (4.1.2 in the combined PDF).

@@ -194,6 +194,20 @@ An employer arguing for low pay might quote the mode or median, and a union argu
 - Picking the modal class from the largest frequency when the classes are not equally wide.
 - Stating "the median is best" without giving the reason linked to the data.
 
+## Frequently asked questions
+
+**What is the difference between the mode and the modal class?**
+The mode is the most frequent value, used for lists and ungrouped tables. The modal class is the class with the highest frequency, or frequency density if widths differ, used for grouped data.
+
+**Which average is affected by an outlier?**
+The mean, because it uses every value, so one extreme value shifts it. The median and mode barely move, so the median is often better when there is an outlier.
+
+**What do you divide by to find the mean from a frequency table?**
+Divide Σfx by Σf, the total frequency, not by the number of classes or rows.
+
+**What does section 5.1 of Cambridge O Level Statistics cover?**
+Section 5.1 of the 4040 syllabus covers measures of central tendency: the mean, median, mode and modal class from lists and frequency tables, and choosing an appropriate average.
+
 ## Official syllabus
 
 Cambridge O Level Statistics (4040), syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment (Cambridge International). Section 5.1: measures of central tendency, mean, median, mode and modal class.

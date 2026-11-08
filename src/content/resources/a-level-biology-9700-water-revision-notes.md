@@ -206,6 +206,23 @@ Links: hydrophobic R groups folding into the centre of globular proteins (2.3) a
 - Mixing g and kg, or J and kJ, in thermal calculations.
 - Saying non-polar substances "repel" water instead of "cannot form hydrogen bonds with water".
 
+## Frequently asked questions
+
+**Which properties of water are required for Cambridge 9700 section 2.4?**
+The outcome is limited to solvent action, high specific heat capacity and latent heat of vaporisation. Cohesion in the xylem is in Topic 7 and water potential is in Topic 4.
+
+**Why is water a polar molecule?**
+Oxygen attracts the shared electrons in each O–H bond more than hydrogen does, so oxygen is δ− and each hydrogen is δ+. The molecule is bent, so it has a δ− side and a δ+ side.
+
+**How many hydrogen bonds can one water molecule form?**
+Up to four. In liquid water these hydrogen bonds constantly break and re-form.
+
+**How do you answer a "relate a property to a role" question on water?**
+Give three links: name the property, give the hydrogen-bond reason, and name a role in an organism or process with its effect. Missing one link usually loses a mark.
+
+**Why does only evaporated sweat cool the body?**
+Energy is taken from the skin to break hydrogen bonds as water in sweat evaporates. Sweat that drips off removes very little heat.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment -- Topic 2, Biological molecules (section 2.4 Water).

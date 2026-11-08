@@ -188,6 +188,20 @@ Both conditions: −3/2 < x ≤ 5, so the integers are **−1, 0, 1, 2, 3, 4, 5*
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/) if you want help from a teacher.
 
+## Frequently asked questions
+
+**When do you reverse the inequality sign?**
+Reverse the sign whenever you multiply or divide both sides by a negative number. Adding or subtracting, even a negative number, does not change the sign.
+
+**Do you use an open or closed circle on a number line?**
+Use an open circle for a strict inequality (< or >), where the boundary is not included, and a closed circle for ≤ or ≥, where it is. Swapping them is a common lost mark.
+
+**How should you answer an inequality question set in context?**
+Give the answer as an inequality, not an equation such as x = 12, and check whether the quantity must be a whole number. For items that can only be whole, round down to the largest whole number that still satisfies the condition.
+
+**Are quadratic inequalities and graph regions in the OxfordAQA 9260 Core tier?**
+No. In OxfordAQA International GCSE Mathematics (9260), reference A23, linear inequalities in one variable and number lines are Core, while quadratic inequalities, inequalities in two variables and regions on a graph are Extension only.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1 (for exams May/June 2018 onwards), published by OxfordAQA. Section 3.2.3, reference A23.

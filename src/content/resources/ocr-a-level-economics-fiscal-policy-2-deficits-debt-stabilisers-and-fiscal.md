@@ -236,6 +236,23 @@ A **fiscal rule** is a commitment that limits the budget, for instance a ceiling
 - Treating crowding out as certain.
 - Describing a stabiliser as a policy decision.
 
+## Frequently asked questions
+
+**Can government debt rise while the debt-to-GDP ratio stays the same?**
+Yes. If nominal GDP grows at the same rate as the debt, the ratio stays flat even though debt rises in money terms. The ratio is the better measure of burden because it compares debt with the income that supports it.
+
+**What is discretionary fiscal policy?**
+Discretionary fiscal policy is a deliberate change in government spending or taxes. Expansionary policy shifts aggregate demand right to close a negative output gap, while contractionary policy shifts it left to reduce inflationary pressure.
+
+**What is a golden rule in fiscal policy?**
+A golden rule is a fiscal rule that the government should borrow only to invest, so current spending is covered by revenue. Other common rules set ceilings on the deficit or the debt-to-GDP ratio.
+
+**What limits the effectiveness of fiscal policy?**
+Fiscal policy faces time lags in recognition, decision, implementation and impact, uncertainty about the size of the multiplier, possible crowding out, limited room when debt is high and households saving in expectation of future taxes.
+
+**Why is it risky to cut spending in a recession to reduce a deficit?**
+Tightening in a recession deepens the downturn, because the spending cut lowers GDP through the multiplier. Tax revenue then falls and benefit spending rises, so the deficit shrinks by much less than the cut.
+
 ## Official syllabus
 
 OCR A Level in Economics (H460) specification, version 3.0 (June 2026), for first assessment in 2021, published by OCR.

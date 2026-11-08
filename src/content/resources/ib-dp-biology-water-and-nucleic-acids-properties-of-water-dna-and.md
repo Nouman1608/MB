@@ -239,6 +239,23 @@ Percentage of 32P in pellet = 8500 / 10 000 x 100 = 85%. Percentage of 35S in su
 - Forgetting the 5' to 3' reversal.
 - Putting thymine in RNA.
 
+## Frequently asked questions
+
+**What is a nucleotide made of?**
+A nucleotide has a phosphate group, a pentose (five-carbon) sugar and a nitrogenous base; nucleotides join by condensation reactions to form a strong sugar-phosphate backbone.
+
+**Why is DNA described as antiparallel?**
+The two strands of the double helix run in opposite directions, so the 5' end of one strand lies opposite the 3' end of the other, and complementary bases pair by hydrogen bonds (A with T, G with C).
+
+**What is the Goldilocks zone?**
+The Goldilocks zone is the region around a star where a planet's surface could hold liquid water, neither too hot nor too cold; being in the zone does not prove that life exists. This is HL-only content in IB DP Biology A1.1.
+
+**What did the Hershey-Chase experiment show?**
+Bacteriophages were labelled with 32P (which marks DNA) or 35S (which marks protein); most of the DNA label entered the bacteria while most of the protein label stayed outside, supporting DNA as the genetic material.
+
+**What did Chargaff's data show?**
+In many species A is about equal to T and G to C, but the ratio (A+T)/(G+C) differs between species, which falsified the tetranucleotide hypothesis that the four bases repeat in a fixed sequence.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization (topics A1.1 and A1.2).

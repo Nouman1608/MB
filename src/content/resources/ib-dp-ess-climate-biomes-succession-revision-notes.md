@@ -21,9 +21,9 @@ description: "Condensed IB DP ESS revision notes on biomes, atmospheric cells, z
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
 ---
 
 For full explanations and worked examples, use the [climate, biomes, zonation and succession study guide](/resources/ib-dp-ess-climate-biomes-succession/). These notes condense it for the final weeks before your exams.
@@ -180,6 +180,23 @@ A station has monthly means from −25 °C to 9 °C and 182 mm precipitation a y
 - Describing r- and K-strategists without linking them to early and late seral stages.
 - Treating a plagioclimax as natural, or forgetting to name the human activity that maintains it.
 - Writing that the climax is fixed, instead of noting it depends on climate, soil and disturbance.
+
+## Frequently asked questions
+
+**What is the difference between zonation and succession?**
+Zonation is a change in community along an environmental gradient in space, while succession is a change in community at one place over time. A sand dune transect shows zonation that also reflects succession, because inland dunes are older.
+
+**Why are hot deserts found at about 30° north and south?**
+In the tricellular model, air from the Hadley cell sinks at about 30°, warming and drying as it descends. The resulting high pressure prevents cloud and rain, so the reason is sinking air, not simply heat.
+
+**When is net primary productivity highest during succession?**
+NPP is usually highest mid-succession. Later, respiration by the large standing biomass rises to nearly match GPP, so NPP falls towards zero even though GPP keeps rising.
+
+**What is a plagioclimax?**
+A plagioclimax is a community held below climax by human activity, such as grazed pasture, a mown lawn or moorland burned in rotation. Always name the activity that maintains it.
+
+**What does the P:R ratio show?**
+The P:R ratio is gross productivity divided by respiration. A value above 1 means biomass is still accumulating, and the ratio falls towards 1 as a community approaches climax.
 
 ## Official syllabus
 

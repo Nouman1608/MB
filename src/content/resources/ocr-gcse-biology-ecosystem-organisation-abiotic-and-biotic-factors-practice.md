@@ -162,6 +162,23 @@ These questions cover statements B4.1e to B4.1j of OCR GCSE (9-1) Gateway Scienc
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between a population and a community?**
+A population is all the organisms of one species living in an area, while a community is the populations of all the different species living there. An ecosystem adds the non-living (abiotic) parts to the community.
+
+**Which way do arrows go in a food chain?**
+Arrows point from the organism being eaten to the organism that eats it, showing the direction of biomass transfer. Drawing arrows from predator to prey is a common error.
+
+**Is egestion the same as excretion?**
+No. Egestion is the loss of undigested food as faeces, while excretion is the removal of waste made by the body's own metabolism, such as urea. Calling egestion excretion loses marks.
+
+**How do you avoid mistakes in biomass efficiency calculations?**
+Divide the biomass at the higher trophic level by the biomass at the level below it, multiply by 100 and include the % sign. Dividing by the wrong trophic level is a frequent mistake.
+
+**Which part of the J247 specification do these questions cover?**
+They cover OCR GCSE Biology A (J247) statements B4.1e to B4.1j: levels of organisation, abiotic and biotic factors, interdependence, trophic levels, pyramids of biomass and efficiency.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), first assessment 2018, published by OCR. Topic B4.1, statements e to j.

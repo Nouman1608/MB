@@ -261,6 +261,20 @@ For independent exponential waiting times, section 3 applies to their means and 
 - Mixing units, such as a rate per minute with a time in hours. Convert first.
 - Using P(X < x) = e^(−λx). That is P(X > x); the cdf is 1 − e^(−λx).
 
+## Frequently asked questions
+
+**How do you find the mean of a continuous random variable?**
+Integrate x f(x) over the range where the pdf is non-zero: E(X) = ∫ x f(x) dx.
+
+**What is Var(aX + b)?**
+Var(aX + b) = a²Var(X). Adding the constant b does not change the spread, and the multiplier a is squared.
+
+**When does the exponential distribution apply?**
+It models the gap between events that occur singly, independently, at random and at a constant average rate λ, which are the same conditions as for a Poisson count.
+
+**Which OxfordAQA 9660 sections cover continuous means and the exponential distribution?**
+Expectation and variance of continuous random variables are in section S2.2, and the exponential distribution is in section S2.3, both in Unit S2 of OxfordAQA 9660. Proofs of the exponential mean and variance are not required.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2 (International AS exams from May/June 2018, A-level from May/June 2019), published by OxfordAQA: sections S2.2 (second part) and S2.3.

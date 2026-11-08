@@ -15,9 +15,9 @@ syllabusTopics:
     topic: "procedural-programming"
 description: "Condensed recall notes on constructs, subroutines, scope, recursion, data structures and algorithm complexity for A Level Computer Science."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -138,3 +138,17 @@ At AS, compare the two on their **efficiency of use of time and memory** without
 5. *(A-level)* What does Big O actually describe?
 
 **Answers:** 1. By value passes a copy so the original is unchanged; by reference passes the address so the original can be modified. By value is safer as it avoids unintended side effects. 2. Every unfinished call remains on the call stack with its own local variables and return address until the base case is reached. 3. A static structure has a fixed size set when created, giving fast direct indexed access but wasting space if under-filled or failing if it overflows; a dynamic structure grows and shrinks as the program runs, using memory efficiently, but costs more to reach an arbitrary element. 4. Breadth-first uses a queue; depth-first uses a stack, or recursion. 5. How the running time or space requirement grows as the input size grows — not the actual execution time.
+
+## Frequently asked questions
+
+**What is the difference between a WHILE loop and a REPEAT UNTIL loop?**
+A WHILE loop tests its condition before the loop body, so it may run zero times. A REPEAT UNTIL loop tests its condition after the body, so it always runs at least once.
+
+**Why is passing by value usually preferred to passing by reference?**
+Passing by value gives the subroutine a copy, so it prevents side effects where one subroutine unintentionally changes data another depends on, and it makes each subroutine independently testable.
+
+**Which sorting algorithms are named in OxfordAQA A Level Computer Science 9645?**
+Bubble sort and merge sort. You may be asked to write code for bubble sort, but you will only be asked to demonstrate how merge sort operates, not to code it.
+
+**What test data should you use for a range of 1 to 100?**
+Use normal, boundary and erroneous data. Boundary testing should include 0, 1, 100 and 101 to catch off-by-one errors.

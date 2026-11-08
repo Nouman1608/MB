@@ -205,6 +205,20 @@ Other links: [Edexcel economics hub](/boards/edexcel/a-level/economics/), [print
 - Calculating a percentage fall from the wrong base.
 - Listing effects without a chain of reasoning, and evaluating without a conclusion.
 
+## Frequently asked questions
+
+**What is asymmetric information?**
+Information is asymmetric when one side of a transaction knows more than the other, for example a patient and a doctor, or an insurer that cannot see each customer's true risk.
+
+**What is speculation?**
+Speculation is buying an asset mainly to sell it later at a higher price, not for the income it earns. When many buyers expect further rises, speculation can push prices far above fundamental value.
+
+**Who bears the cost of moral hazard in banking?**
+If depositors or the state will cover a bank's losses, the bank gains from risky lending while others bear the losses. Name who bears the cost in an answer.
+
+**How should you define a market bubble?**
+Refer to fundamental value and expectations: prices driven by expected price rises move far from the underlying value of the asset.
+
 ## Official syllabus
 
 Source: Pearson Education Limited, Edexcel International Advanced Subsidiary/Advanced Level in Economics (specification, Issue 2, June 2018; first teaching September 2018), section 1.3.5 Market failure, items 4 to 6.

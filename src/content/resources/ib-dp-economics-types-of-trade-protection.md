@@ -264,6 +264,23 @@ Evaluation matters because a standard can have two purposes. It may protect buye
 - Drawing an export subsidy as a shift in demand. It is a payment to producers.
 - Leaving out axes, curves, Pw or Pt.
 
+## Frequently asked questions
+
+**What are the effects of a tariff?**
+A tariff raises the domestic price, increases domestic production, reduces consumption and imports, and raises government revenue. Consumer surplus falls by more than the gain to producers and government, so there is a net welfare loss.
+
+**How does a quota differ from a tariff with the same effect on price?**
+Price, production and consumption effects are the same. With a tariff the government collects the revenue, while with a quota the gain goes to licence holders; and with a quota the import quantity is fixed while the price adjusts.
+
+**What is an export subsidy?**
+An export subsidy is a government payment on each unit sold abroad. Exporters will not sell at home for less than they earn abroad, so the domestic price rises, home consumers pay more, producers gain and taxpayers fund the subsidy.
+
+**What are administrative barriers to trade?**
+Administrative barriers are non-tax rules, such as labelling rules, safety standards tested locally, import licences and slow customs checks, that raise the cost of selling imports or limit how much can be sold.
+
+**Are product standards always protectionism?**
+Not always. A standard may protect buyers from unsafe or misleading products, or it may mainly shelter domestic firms from competition, so evaluation should weigh which purpose it serves.
+
 ## Official syllabus
 
 Source: IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization in February 2020. Sub-topic 4.2, Types of trade protection (includes HL only calculations).

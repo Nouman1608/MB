@@ -37,11 +37,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-5-8"
 description: "Study guide to IB DP Maths AI SL calculus: limits, derivatives, tangents, integration, area, optimisation and the trapezoidal rule, with worked examples."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 This study guide teaches the core calculus unit of IB Diploma Programme Mathematics: Applications and Interpretation. It is aligned to the IB *Mathematics: applications and interpretation guide*, first assessment 2021, syllabus sections 5.1–5.8, which are common content for SL and HL. It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 SL and HL sessions.
@@ -308,6 +308,20 @@ The estimate is too big because this curve bends so that each straight top edge 
 - [AI syllabus guide](/resources/ib-dp-mathematics-applications-and-interpretation-syllabus-guide/) and [subject guide](/resources/ib-dp-mathematics-applications-and-interpretation-subject-guide/)
 - [AI exam preparation](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/)
 - Other AI units: [geometry and trigonometry](/resources/ib-dp-mathematics-ai-geometry-trigonometry/) and [statistics and probability](/resources/ib-dp-mathematics-ai-statistics-probability/)
+
+## Frequently asked questions
+
+**What calculus is in the IB Maths AI SL syllabus?**
+Sections 5.1–5.8 of the IB Maths AI guide cover estimating limits, derivatives as rates of change, differentiating axⁿ for integer n, tangents and normals, anti-differentiation with boundary conditions, area with technology, stationary points, optimisation and the trapezoidal rule. This content is common to SL and HL.
+
+**Do you need to calculate limits formally in IB Maths AI?**
+No. In this course you only estimate limits from a table or a graph, for example by watching chord gradients approach a value from both sides. Formal methods for calculating limits are not required.
+
+**How do you differentiate a term like 4/x?**
+Rewrite it as a negative power first, 4x⁻¹, then apply f′(x) = anxⁿ⁻¹ to get −4x⁻², which is −4/x².
+
+**Is there a calculator-free paper in IB Maths AI?**
+No. Both SL papers are 90 minutes and both require a GDC. You still need to differentiate and anti-differentiate by hand because that working earns method marks.
 
 ## Official syllabus
 

@@ -14,7 +14,7 @@ syllabusTopics:
     topic: "ib-myp-individuals-and-societies-constituent-disciplines"
   - qualification: "ib-myp"
     topic: "ib-myp-individuals-and-societies-eassessment-topics"
-description: "Original practice questions with full worked answers on the three eAssessment subjects, their task types, and source-evaluation and extended-writing technique, for IB MYP Individuals and Societies."
+description: "Original IB MYP Individuals and Societies practice questions on the eAssessment subjects, task types, source evaluation and extended writing, with answers."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -94,6 +94,20 @@ Related: [Discipline Options study guide](/resources/ib-myp-individuals-societie
 **7.** A strong response would first state a clear position on the extent to which economic hardship is the most important factor -- for example, agreeing partially, or arguing it is significant but not solely determinant. It would then present evidence and reasoning supporting that position, explicitly compare economic hardship against at least one alternative factor (such as political repression, a specific triggering event, or effective organisational coordination), and reach a substantiated judgement about which factor or combination of factors the evidence best supports as most important. Simply presenting accurate information about several possible causes of protest, without taking or defending a position on their relative importance, does not demonstrate the extent-based judgement this question type specifically requires -- the "to what extent" framing signals that a structured, weighed argument, not a balanced list of causes, is what earns top marks. **[6]**
 
 **8.** The official sample topics span multiple disciplines by design: for example, "settlement and urban morphology" could be studied through a geography lens (spatial patterns, land use) but also connects to historical urban development and social/economic factors integrated humanities would cover; "rights and social protest" could be studied through a history lens (specific past protest movements and their causes) but also connects to broader social-science themes of political participation and rights that both geography (spatial and demographic patterns of protest) and integrated humanities could address. Because these topics are written broadly enough to be approached from more than one disciplinary angle, all three eAssessment subjects can draw on genuinely overlapping sample content even though a student's own taught discipline may have emphasised only one specific angle on it. **[5]**
+
+## Frequently asked questions
+
+**What are the four assessment criteria in IB MYP Individuals and Societies?**
+The criteria are A Knowing and understanding, B Investigating, C Communicating and D Thinking critically. They apply whichever discipline a school chooses to teach.
+
+**What is the most common mistake in source-evaluation questions?**
+Summarising what a source says instead of judging its value or limitation for a specific research purpose. Evaluating a source is a different skill from restating its content.
+
+**How do you compare two sources in the Investigating task?**
+Judge both sources against the same research question, naming what each can and cannot tell you about it, then weigh them against each other. Official sample questions ask candidates to compare and contrast two sources in terms of their usefulness for a stated topic.
+
+**Why does the Communicating task care about audience and purpose?**
+The Communicating task asks students to present information appropriately for audience and purpose, so the choice of format and style is assessed alongside the accuracy of the content. Neglecting the audience is a common way to lose credit.
 
 ## Official syllabus
 

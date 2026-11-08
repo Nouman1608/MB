@@ -56,7 +56,7 @@ Each party must give something in return, which is **consideration**. It must be
 
 ### Intention and capacity
 
-In social and family arrangements it is presumed that no legal relations are intended (Balfour v Balfour, 1919), but the presumption may be rebutted (Merritt v Merritt, 1969). In commercial dealings the opposite presumption applies. As to capacity, a minor is bound by contracts for necessaries and beneficial contracts of service, but other contracts are generally not enforceable against them.
+In social and family arrangements it is presumed that no legal relations are intended (Balfour v Balfour, 1919), but the presumption may be rebutted (Merritt v Merritt, 1970). In commercial dealings the opposite presumption applies. As to capacity, a minor is bound by contracts for necessaries and beneficial contracts of service, but other contracts are generally not enforceable against them.
 
 ## Contents of a contract
 
@@ -115,3 +115,20 @@ Command words include *explain*, *discuss*, *evaluate* and *advise*. For problem
 5. Give one reason a frustration claim would fail. *The event was self-induced, or performance only became more expensive.*
 6. What are the two limbs of the remoteness rule in Hadley v Baxendale? *Losses arising naturally from the breach, and losses within the parties' contemplation when the contract was made.*
 7. A buyer is promised 500 units at 12 pounds each and buys at 14 pounds elsewhere. What are the damages? *500 x 2 = 1,000 pounds.*
+
+## Frequently asked questions
+
+**What are the requirements for a valid contract in A Level Law?**
+A valid contract usually needs agreement (offer and acceptance), consideration, intention to create legal relations and capacity. Some contracts, such as those for the sale of land, also need a particular form like writing.
+
+**What is the difference between a condition and a warranty?**
+Breach of a condition allows the innocent party to end the contract and claim damages, as in Poussard v Spiers and Pond (1876). Breach of a warranty gives only damages, as in Bettini v Gye (1876).
+
+**When is a contract frustrated?**
+A contract is frustrated when an event that is neither party's fault makes performance impossible, illegal or radically different, as in Taylor v Caldwell (1863). Frustration does not apply where the event is self-induced or only makes performance more expensive.
+
+**What is the remoteness test for contract damages?**
+Under Hadley v Baxendale (1854), a claimant can recover losses arising naturally from the breach and losses that were in the contemplation of both parties when the contract was made. The claimant must also show causation and mitigate their loss.
+
+**Which part of the Cambridge 9084 syllabus covers the law of contract?**
+Law of contract is Topic 3 of the A Level stage of Cambridge International A Level Law 9084, covering 3.1 formation, 3.2 contents, 3.3 discharge and 3.4 remedies for breach.

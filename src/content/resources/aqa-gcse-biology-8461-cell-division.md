@@ -304,6 +304,23 @@ the feature does not protect against).
 - Whole-topic notes: [Cell biology revision notes](/resources/aqa-gcse-biology-cell-biology-revision-notes/)
 - Check what you know with a free [10-minute diagnostic](/diagnostics/)
 
+## Frequently asked questions
+
+**Why is mitosis important?**
+Mitosis is needed for growth and development of multicellular organisms, repair and replacement of cells, and asexual reproduction.
+
+**What is therapeutic cloning?**
+In therapeutic cloning an embryo is produced with the same genes as the patient. Stem cells from the embryo are not rejected by the patient's body because they are genetically identical.
+
+**What are the risks and objections to using stem cells?**
+There is a risk of transferring viral infection, and some people have ethical or religious objections to using embryos.
+
+**Is there a required practical for AQA GCSE cell division?**
+No. There is no required practical in 4.1.2. The specification suggests using models and analogies to explain how cells divide, and evaluating the issues around stem cell use.
+
+**Do bacteria divide by mitosis?**
+No. Bacteria divide by binary fission. Mitosis happens in eukaryotic cells.
+
 ## Official syllabus
 
 AQA GCSE Biology (8461) specification, Version 1.0, for teaching from September 2016 and exams from 2018

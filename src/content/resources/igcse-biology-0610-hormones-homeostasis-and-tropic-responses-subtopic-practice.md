@@ -225,6 +225,20 @@ For explanations, read the [coordination and response study guide](/resources/ig
 - Browse the [Cambridge IGCSE Biology hub](/boards/cambridge/igcse/biology/) and tick off the [printable checklist](/checklists/cambridge/igcse/biology/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which parts of topic 14 do these Cambridge IGCSE Biology 0610 questions cover?**
+They cover three subtopics of topic 14, Coordination and response: 14.3 Hormones, 14.4 Homeostasis and 14.5 Tropic responses. Parts marked Extended test Supplement content for Papers 2 and 4; everything else is Core.
+
+**What is the difference between glucagon and glycogen?**
+Glucagon is a hormone secreted by the pancreas. Glycogen is a storage carbohydrate, so the two words name different substances and mixing them up loses marks.
+
+**How do you calculate a percentage increase in blood glucose concentration?**
+Subtract the starting value from the final value, divide by the starting value and multiply by 100. Dividing by the final value instead of the original value is a common slip.
+
+**How should you write a comparison answer in Biology?**
+Make every point comparative, using words such as "faster", "slower" or "longer lasting", so that each statement says how one thing differs from the other. Describing only one side of the comparison does not earn the mark.
+
 ## Official syllabus
 
 Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028, topic 14 Coordination and response, subtopics 14.3 Hormones, 14.4 Homeostasis and 14.5 Tropic responses. Published by Cambridge University Press & Assessment.

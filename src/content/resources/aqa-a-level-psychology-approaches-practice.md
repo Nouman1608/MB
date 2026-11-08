@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-psychology-in-context-7182"
     subtopic: "approaches-in-psychology-7182"
-description: "Original exam-style practice questions with full worked answers on the six approaches to psychology -- behaviourist, social learning theory, cognitive, biological, psychodynamic, humanistic -- for AQA A-Level Psychology (7182) Paper 2."
+description: "Practice questions with worked answers on the six approaches in AQA A-Level Psychology (7182) Paper 2, from behaviourism to humanistic psychology."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -134,3 +134,17 @@ data, the other favours idiographic, in-depth case material that is harder to ve
 A strong answer states this shared determinism explicitly before contrasting the evidence types, since
 the question rewards an explicit comparison on both named dimensions rather than two separate
 descriptions.
+
+## Frequently asked questions
+
+**What topics do these AQA 7182 approaches practice questions cover?**
+They cover classical and operant conditioning, social learning theory, the cognitive and biological approaches, the psychodynamic approach, humanistic psychology, and comparison of approaches, with short answer, application and extended writing questions.
+
+**How do you get full marks on a mediational processes question?**
+Name all four processes, attention, retention, motor reproduction and motivation, and apply each one to the scenario. Defining the processes generically, without the details of the scenario, limits the marks.
+
+**How should you answer a question comparing two approaches?**
+Compare them explicitly on the dimensions the question names, such as determinism and type of evidence, stating similarities before differences. Two separate descriptions with no direct comparison earn fewer marks.
+
+**How should you approach an extended writing question on approaches?**
+Define any key standard the question uses, apply it directly to the approach named, and use at least one other approach as an explicit point of comparison before reaching a balanced conclusion.

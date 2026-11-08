@@ -19,9 +19,9 @@ syllabusTopics:
     subtopic: "globalisation-benefits-and-drawbacks-aqa-gcse-economics"
 description: "Condensed AQA GCSE Economics revision notes for 3.2.4.3 and 3.2.4.4: free trade, trade barriers, the EU, globalisation, multinationals and ethical issues."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-05
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-11-05."
 publishedDate: 2026-11-05
 featured: false
 ---
@@ -167,6 +167,23 @@ A car is imported for £20,000. A 10% tariff adds 0.10 × 20,000 = **£2,000**, 
 - Treating the EU as only a free-trade area: it is a single market and customs union.
 - Ignoring the drawbacks for less developed countries, or only giving drawbacks.
 - Ethical points with no economic link (cost, price, jobs or the environment).
+
+## Frequently asked questions
+
+**What is the difference between a free-trade area, a customs union and a single market?**
+A free-trade area removes tariffs and quotas between members. A customs union also charges the same tariff on imports from outside. A single market adds free movement of services, capital and people.
+
+**What is the difference between a tariff and a quota?**
+A tariff is a tax on imports, which raises their price. A quota is a limit on the quantity of a good that can be imported.
+
+**What factors have caused globalisation to grow?**
+New technology, cheaper transport, multinational companies seeking new markets and cheaper inputs, fewer trade barriers, freer movement of capital and the growth of emerging economies.
+
+**Does the UK still need to know about the EU for AQA GCSE Economics?**
+Yes. The UK left the EU, but the 8136 specification still expects you to know the EU's significance as the UK's largest trading partner and as a single market and customs union.
+
+**Does a tariff make domestic goods cheaper?**
+No. A tariff makes imports dearer for consumers; it does not lower the price of domestic goods.
 
 ## Official syllabus
 

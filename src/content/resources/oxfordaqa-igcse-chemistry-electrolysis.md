@@ -287,6 +287,23 @@ These are important reagents for the chemical industry. Sodium hydroxide is used
 
 Use the [electrolysis revision notes](/resources/oxfordaqa-igcse-chemistry-electrolysis-revision-notes/) for recall, then the [practice questions](/resources/oxfordaqa-igcse-chemistry-electrolysis-practice/). See also the [exam preparation page](/resources/oxfordaqa-igcse-chemistry-exam-preparation/) and the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**Why must an ionic compound be molten or dissolved for electrolysis?**
+In the solid, the ions vibrate but stay in fixed positions, so they cannot carry charge. When the compound melts or dissolves, the lattice breaks up and the ions are free to move to the electrodes.
+
+**What forms at the cathode when a salt solution is electrolysed?**
+If the metal is more reactive than hydrogen, such as sodium or magnesium, hydrogen gas forms. If the metal is less reactive than hydrogen, such as copper or silver, the metal is deposited on the cathode.
+
+**Why is aluminium oxide dissolved in cryolite?**
+Pure aluminium oxide melts at over 2000 °C. Dissolving it in molten cryolite gives a mixture that is molten at a much lower temperature, so less energy is needed; cryolite is not a catalyst.
+
+**Why do the carbon anodes need replacing in aluminium extraction?**
+Oxygen forms at the positive carbon electrodes, and at the high temperature the carbon reacts with it to form carbon dioxide. The anodes burn away and must be replaced regularly.
+
+**What are the products of electrolysing sodium chloride solution?**
+Hydrogen forms at the cathode because sodium is more reactive than hydrogen, and chlorine forms at the anode because the chloride ions are concentrated. The Na⁺ and OH⁻ ions left behind make sodium hydroxide solution.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. This guide covers section 3.3.2 Electrolysis and its required practical.

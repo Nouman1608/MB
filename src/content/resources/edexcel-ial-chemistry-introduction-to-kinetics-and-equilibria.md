@@ -283,6 +283,23 @@ Higher pressure favours C (3 gas molecules become 2) and speeds the reaction, bu
 
 Go on to the [revision notes](/resources/edexcel-ial-chemistry-introduction-to-kinetics-and-equilibria-revision-notes/) and [practice questions](/resources/edexcel-ial-chemistry-introduction-to-kinetics-and-equilibria-practice/).
 
+## Frequently asked questions
+
+**Which unit is Introduction to Kinetics and Equilibria in for Edexcel IAL Chemistry?**
+Topic 9 is in Unit 2: Energetics, Group Chemistry, Halogenoalkanes and Alcohols, an International AS unit of the Pearson Edexcel specification (YCH11). It has two parts, 9A Kinetics and 9B Equilibria, and later topics 11, 13 and 14 build on it.
+
+**What is the difference between rate = 1/time and the gradient of a tangent?**
+Rate = 1/time gives an average rate for a reaction timed to a fixed point, such as a cross vanishing, and is good for comparing runs. The gradient of a tangent to a concentration or amount against time graph gives the rate at a particular instant, and the tangent at t = 0 gives the initial rate.
+
+**How do you find the activation energy of a catalysed reaction from its profile?**
+Measure from the reactant level to the highest point on the catalysed route. If the catalysed route has two humps, the activation energy is the taller one, not the first hump or the intermediate dip.
+
+**How do catalysts make industrial processes more sustainable?**
+A lower activation energy gives a useful rate at a lower temperature, so less fuel is burnt. A catalyst can also make a route with fewer steps or by-products possible, raising atom economy and reducing waste.
+
+**Why does industry use a compromise temperature for an exothermic equilibrium?**
+A low temperature gives a high equilibrium yield but a slow rate, while a high temperature is fast but gives a low yield. A compromise temperature, often with a catalyst and recycling of unreacted reactants, gives a reasonable yield quickly enough.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Topic 9: Introduction to Kinetics and Equilibria (outcomes 9.1 to 9.11). Published by Pearson Education Limited.

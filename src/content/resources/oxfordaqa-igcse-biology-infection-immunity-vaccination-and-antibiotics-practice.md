@@ -152,6 +152,20 @@ Total **[6]**
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between antibodies and antitoxins?**
+Antibodies act on the pathogen itself, destroying particular bacteria or viruses, while antitoxins counteract the toxins that pathogens release. Mixing the two up is a common way to lose marks.
+
+**Why can antibiotics not treat flu or colds?**
+Flu and colds are caused by viruses, and antibiotics cannot kill viral pathogens. It is difficult to develop drugs that kill viruses without also damaging the body's tissues.
+
+**How should you explain antibiotic resistance?**
+Describe the sequence: a mutation produces a resistant individual, the antibiotic kills the non-resistant bacteria, and the resistant ones survive and reproduce so the resistant strain increases. Writing that bacteria "build up resistance" does not earn the marks.
+
+**How do you compare clear zones in the antibiotic practical?**
+Calculate each zone's area using πr², where r is half the measured diameter, and give the answer in mm². Comparing diameters when the question asks for area loses marks.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), section 3.4.7 Infection and response and the required practical on disinfectants and antibiotics. Specification Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA.

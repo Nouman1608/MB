@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "particles-and-medical-physics"
     subtopic: "medical-imaging-ocr-alevel"
-description: "Condensed revision notes on X-ray tubes, attenuation, contrast media and CAT scanning for OCR A Level Physics A (H556), with a self-test."
+description: "Condensed revision notes on X-ray tubes, attenuation mechanisms, contrast media and CAT scanning for OCR A Level Physics A (H556), with a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false
@@ -204,6 +204,20 @@ Order to quote: tube rotates, detectors record, computer reconstructs, display s
 - Describing contrast media without linking to high atomic number and strong absorption.
 - Listing CAT components without saying what each one does.
 - Giving a one-sided answer to a question that asks you to weigh benefit against risk.
+
+## Frequently asked questions
+
+**What is the attenuation coefficient?**
+The attenuation coefficient μ describes how strongly a material reduces the intensity of an X-ray beam in I = I₀e^(−μx). It depends on the material and photon energy and is measured in m⁻¹ or cm⁻¹.
+
+**What is the half-value thickness?**
+The half-value thickness is the thickness of material that halves the beam intensity, x½ = ln 2/μ. Each extra half-value thickness halves the intensity again.
+
+**What is the difference between the photoelectric effect and Compton scattering?**
+In the photoelectric effect the photon is absorbed completely and an inner-shell electron is ejected. In Compton scattering the photon ejects a loosely bound outer electron and continues in a new direction with less energy.
+
+**Which section of OCR A Level Physics A covers X-rays and CAT scanning?**
+It is section 6.5.1 (Using X-rays), statements (a) to (g), of OCR H556. Tracers, the gamma camera, PET and ultrasound are in 6.5.2 and 6.5.3.
 
 ## Official syllabus
 

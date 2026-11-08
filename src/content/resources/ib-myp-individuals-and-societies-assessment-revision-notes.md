@@ -85,6 +85,20 @@ Students who progress from MYP Individuals and Societies into a DP individuals-a
 
 **Answers:** 1. Knowing and understanding; Investigating; Communicating; Thinking critically. 2. History, geography and integrated humanities. 3. The thinking-critically task (36 marks). 4. Source material — no task simply asks for facts recalled in isolation. 5. Typically four bands (e.g. 1-2, 3-4, 5-6, 7-8); higher bands reward more sophisticated, nuanced performance against the criterion. 6. Any of: working from source material, constructing an evidence-based argument, or evaluating multiple perspectives on a contested issue.
 
+## Frequently asked questions
+
+**What are the four assessment criteria in MYP Individuals and Societies?**
+The four criteria are A Knowing and understanding, B Investigating, C Communicating and D Thinking critically. Each is equally weighted and scored on an 8-point scale, with a level of 0 below the lowest band.
+
+**Is there an exam for MYP Individuals and Societies?**
+Most assessment is classroom-based coursework. Where a school opts into MYP eAssessment for history, geography or integrated humanities, students sit a 2-hour on-screen exam with three tasks.
+
+**How are the MYP Individuals and Societies eAssessment tasks weighted?**
+The tasks are weighted by marks rather than equally: investigating (Criteria A and B) is worth 26 marks, communicating (A and C) 18 marks, and thinking critically (A, C and D) 36 marks, out of 80 in total.
+
+**How should you revise for the MYP Individuals and Societies eAssessment?**
+Every task works from provided source material, so building comfort with unfamiliar sources under timed conditions is a better use of revision time than memorising facts in isolation.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Individuals and Societies

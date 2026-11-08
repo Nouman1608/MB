@@ -140,6 +140,20 @@ These questions cover **section 3.1.4.1, The importance of cost, revenue and pro
 - Evaluating with a list and no judgement.
 - Missing units such as £ or "per unit".
 
+## Frequently asked questions
+
+**What is a common mistake when working out average cost?**
+Using total variable cost instead of total cost, or leaving fixed costs out of total cost. Average cost is total cost divided by output.
+
+**How do you calculate average revenue when a firm sells at different prices?**
+Divide total revenue by the number of units sold, not by the number of different prices.
+
+**Does a price rise always increase profit?**
+No. A higher price raises profit per unit but may cut sales, so compare total revenue and total cost before and after.
+
+**What should an ethics answer in AQA GCSE Economics include?**
+Say who is harmed and how the firm gains, then weigh both sides and reach a judgement rather than listing points.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/aqa-gcse-economics-business-objectives-costs-revenue-and-profit-revision-notes/) and the [study guide](/resources/aqa-gcse-economics-business-objectives-costs-revenue-and-profit/).

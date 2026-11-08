@@ -220,6 +220,23 @@ Raises skills, health and productivity, so people can earn more. It addresses ca
 - Listing policies without a judgement or without using the context given.
 - Leaving out the unit or the working in a calculation.
 
+## Frequently asked questions
+
+**How do tradable pollution permits work?**
+The government sets a cap on total pollution and issues permits that firms can trade. Firms that can cut pollution cheaply cut more and sell permits, while firms with costly cuts buy them, so the same cap is met at lower total cost.
+
+**What is the difference between absolute and relative poverty?**
+Absolute poverty means being unable to afford basic needs such as food, water, shelter and clothing, judged against a fixed standard. Relative poverty means income far lower than what is normal in that country, often a fraction of the median.
+
+**What is a progressive tax?**
+A progressive tax takes a rising percentage of income as income goes up. Saying the rich simply pay "more" is not enough, since a flat tax also takes more money from higher earners.
+
+**Why might a pollution tax fail to cut pollution much?**
+If demand for the good is price inelastic, buyers keep buying when the price rises, so quantity falls only a little and the tax mainly raises revenue. It can also hit poorer households hard.
+
+**Can economic growth reduce relative poverty?**
+If every income rises by the same percentage, absolute poverty can fall but relative poverty and inequality do not change, because the median-based poverty line rises too.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1), specification Issue 3, February 2026, Pearson Education Limited, section 2.1.1 e) and f).

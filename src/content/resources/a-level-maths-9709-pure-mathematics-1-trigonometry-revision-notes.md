@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "trigonometry-cambridge-alevel-maths-1"
 description: "Revision notes for Cambridge 9709 Pure 1 Trigonometry (1.5): graph facts, exact values, principal values, identities, equation methods and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -249,6 +249,23 @@ A square root always gives two signs.
 - In a proof, working on both sides at once or starting from the answer.
 - A sketch with no coordinates at the end points, turning points or intercepts.
 - Rounding a principal value to 1 d.p. before adding 180° or dividing by 2.
+
+## Frequently asked questions
+
+**What trigonometry is in Cambridge 9709 Pure Mathematics 1?**
+Section 1.5 covers graphs of sin, cos and tan, exact values, principal values of the inverse functions, the identities tan θ ≡ sin θ/cos θ and sin²θ + cos²θ ≡ 1, and solving simple equations in a given interval.
+
+**Are sec, cosec and cot in 9709 Paper 1?**
+No. Secant, cosecant, cotangent and compound angles are not in section 1.5. They appear in Pure Mathematics 2 and Pure Mathematics 3.
+
+**What are the principal value ranges of sin⁻¹, cos⁻¹ and tan⁻¹?**
+sin⁻¹x lies from −π/2 to π/2, cos⁻¹x lies from 0 to π, and tan⁻¹x lies strictly between −π/2 and π/2.
+
+**What is the period of y = a sin bx + c?**
+The period is 2π/b (or 360°/b), and there are b cycles between 0 and 2π. For tan bx the period is π/b (or 180°/b).
+
+**What is the difference between an identity and an equation?**
+An identity is true for all values of θ and you prove it, starting from one side and finishing at the other. An equation is true only for some values and you solve it.
 
 ## Official syllabus
 

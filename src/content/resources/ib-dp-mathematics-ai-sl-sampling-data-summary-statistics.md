@@ -22,11 +22,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-4-3"
 description: "Study guide to sampling methods, outliers, histograms, cumulative frequency, box plots, mean and standard deviation for IB DP Maths AI SL and HL."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 This study guide teaches sampling, data presentation and summary statistics for IB Diploma Programme Mathematics: Applications and Interpretation. It is aligned to the IB *Mathematics: applications and interpretation guide*, first assessment 2021, and covers syllabus sections 4.1, 4.2 and 4.3, which are common content for SL and HL. It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 sessions.
@@ -281,6 +281,20 @@ The order matters for the mean: adding 3 **before** scaling adds 7.5 percentage 
 ## Where to go next
 
 Fix the definitions and methods with the [revision notes](/resources/ib-dp-mathematics-ai-sl-sampling-data-summary-statistics-revision-notes/), then test yourself with the [practice questions](/resources/ib-dp-mathematics-ai-sl-sampling-data-summary-statistics-practice/). For paper formats and timing, read the [exam preparation guide](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/) and the [syllabus guide](/resources/ib-dp-mathematics-applications-and-interpretation-syllabus-guide/).
+
+## Frequently asked questions
+
+**What are the five sampling methods in IB Maths AI?**
+The IB Maths AI guide lists simple random, convenience, systematic, quota and stratified sampling. Simple random and stratified sampling use random selection; convenience and quota sampling do not.
+
+**Is an outlier always a mistake?**
+No. An outlier is a value more than 1.5 × IQR from the nearest quartile, and it may be a valid value or a recording error. Use the context to decide whether to keep it.
+
+**What should you do with missing data in a data set?**
+Leave that response out of calculations that need the missing value and say that you have done so. You should not invent a value.
+
+**How do you choose the interval for a systematic sample?**
+Divide the population size by the sample size to get k, choose a random start between 1 and k, then take every k-th member. For 40 from a list of 600, k = 15.
 
 ## Official syllabus
 

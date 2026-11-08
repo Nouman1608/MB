@@ -26,11 +26,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "oxfordaqa-a-level-chemistry-amount-of-substance"
     subtopic: "oxfordaqa-a-level-chemistry-3-1-2-5"
-description: "Relative atomic and molecular mass, the mole and Avogadro constant, the ideal gas equation, empirical and molecular formulae, and balanced-equation calculations including percentage atom economy, for OxfordAQA International AS and A-level Chemistry 9620, section 3.1.2."
+description: "OxfordAQA 9620 section 3.1.2 Amount of substance: relative masses, the mole and Avogadro constant, pV = nRT, empirical formulae, yield and atom economy."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -202,6 +202,19 @@ method that Required Practical 1 exercises directly.
   <figcaption>Atom economy is fixed by the equation; yield depends on the experiment.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the definition of relative atomic mass?**
+Relative atomic mass, Ar, is the weighted mean mass of an atom of an element, allowing for its isotopes, divided by one twelfth of the mass of an atom of carbon-12. Relative molecular mass, Mr, is defined in the same way for a molecule.
+
+**How do you find a molecular formula from an empirical formula?**
+Divide the given relative molecular mass by the mass of the empirical formula, then multiply the empirical formula by that whole number. For example, CH₂ has mass 14 and Mr 42 gives a factor of 3, so the molecular formula is C₃H₆.
+
+**How do you calculate percentage atom economy?**
+Atom economy (%) = (coefficient × molar mass of the desired product) ÷ (sum of each reactant's coefficient × molar mass) × 100, using the same balanced equation. Make sure you identify the one desired product when a reaction gives more than one.
+
+**What is Required Practical 1 in OxfordAQA A-level Chemistry?**
+Required Practical 1 is making up a volumetric solution and carrying out a simple acid–base titration. It links directly to the mole and concentration calculations in section 3.1.2.
 
 ## Official syllabus
 

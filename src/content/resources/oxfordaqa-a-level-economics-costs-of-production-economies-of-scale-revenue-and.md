@@ -233,6 +233,23 @@ Cutting the price from 36 to 32 raises sales from 6 to 8 shirts. TR rises from 2
 - Mixing up internal and external economies: ask whether it is the firm or the industry that has grown.
 - Saying a firm "makes a profit" because revenue is high. Profit needs costs compared.
 
+## Frequently asked questions
+
+**What is the difference between the short run and the long run in economics?**
+They are not fixed lengths of time. In the short run one or more inputs, such as the size of the factory, are fixed; in the long run every input can be varied, so the firm can change its scale.
+
+**Why is the average revenue curve the same as the firm's demand curve?**
+When every unit sells at one price, average revenue equals price. Buyers decide how many units to take at each price, so plotting price against quantity traces the demand curve.
+
+**What is minimum efficient scale and why does it matter?**
+Minimum efficient scale is the smallest output at which long-run average cost reaches its lowest level. A new firm producing well below it has higher unit costs than established rivals, which can act as a barrier to entry.
+
+**Does a firm always benefit from economies of scale when it expands?**
+Not necessarily. The firm may already be at minimum efficient scale, demand may be too small to use the extra capacity, expansion costs come first, diseconomies can set in, and consumers gain only if lower costs are passed on in lower prices.
+
+**Which OxfordAQA 9640 sections cover costs, economies of scale and profit?**
+Sections 3.1.3.3 (costs of production), 3.1.3.4 (economies and diseconomies of scale) and 3.1.3.5 (average revenue, total revenue and profit) of the OxfordAQA International AS and A-level Economics (9640) specification, which is International AS content.
+
 ## Official syllabus
 
 Source document: the OxfordAQA specification for International AS and A-level Economics (9640), version 1.2. Sections used: 3.1.3.3, 3.1.3.4 and 3.1.3.5, plus quantitative skills QS2, QS5 and QS6 from 3.5.

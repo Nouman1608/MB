@@ -142,6 +142,20 @@ These questions cover sub-topics C.2 (Wave model) and C.5 (Doppler effect) from 
 - Take the [free 10-minute diagnostics](/diagnostics/) to find gaps.
 - Or [book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these IB DP Physics wave and Doppler questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Which of these wave and Doppler questions are HL only?**
+Questions 1 to 9 are for SL and HL. Questions 10 and 11 use the Doppler formulas for sound, which are additional higher level, so they are HL only.
+
+**Where do I find the data for these questions?**
+Every value you need, such as the speed of sound or c = 3.00 × 10⁸ m s⁻¹, is given in the question itself.
+
+**What slips lose marks in wave calculations?**
+Common slips are leaving kHz or MHz unconverted in v = fλ, and leaving out units or giving a speed to too many significant figures.
+
 ## Official syllabus
 
 Source: *Physics guide*, first assessment 2025, International Baccalaureate Organization (Diploma Programme), sub-topics C.2 Wave model and C.5 Doppler effect.

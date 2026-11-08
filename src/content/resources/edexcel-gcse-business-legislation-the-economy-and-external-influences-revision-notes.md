@@ -216,6 +216,20 @@ Method for a response question:
 - Ending an "evaluate" or "justify" answer without a decision.
 - Treating an external influence as the owner's fault or something the business controls.
 
+## Frequently asked questions
+
+**What are the four areas of employment law in Edexcel GCSE Business?**
+The 1BS0 specification lists recruitment, pay, discrimination, and health and safety. Use the area names in your answer, then explain what the business must do.
+
+**How does a stronger pound affect a business?**
+A stronger pound makes imports cheaper and exports dearer for overseas buyers. A weaker pound does the reverse, helping exporters but raising the cost of imported materials.
+
+**How do higher interest rates affect a small business?**
+Loans and overdrafts cost more to repay, and customers may save more and spend less. A business might delay an expansion funded by borrowing.
+
+**Is legislation only a cost to a business?**
+No. Complying costs money for training, checks and records, but meeting obligations brings a safer workplace, a better reputation, easier recruitment and fewer disputes, while not meeting them risks fines, compensation and lost sales.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 1: Investigating small business, Topic 1.5 Understanding external influences on business, items 1.5.3, 1.5.4 and 1.5.5.

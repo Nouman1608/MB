@@ -13,9 +13,9 @@ syllabusTopics:
     topic: "understanding-the-modern-world-8145"
 description: "Condensed recall notes on Paper 1's period study and wider world depth study options, and the causation/change skills both test, for AQA GCSE History (8145)."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -132,3 +132,14 @@ Causation and change/continuity. 3. Long-term causes, short-term causes, and the
 Because the top level of AQA's published mark schemes for causation questions describes a "complex
 explanation of the relationship between causes" — naming all three without explaining how they
 reinforced each other does not show that. 5. Paper 2.
+
+## Frequently asked questions
+
+**What does Paper 1 contain?**
+Section A, one period study from four, and Section B, one wider world depth study from five.
+
+**What are the six Paper 1 Section A questions?**
+Three on two interpretations (how they differ, 4; why they differ, 4; which is more convincing, 8), then describe (4), in what ways (8) and a 12-mark judgement on which of two factors mattered more: 40 marks.
+
+**What are the four Paper 1 Section B questions?**
+A source analysis (4), how useful two sources are (12), an account question (8) and a 16-mark essay with 4 extra marks for spelling, punctuation and grammar.

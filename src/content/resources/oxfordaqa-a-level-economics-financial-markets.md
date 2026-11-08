@@ -219,6 +219,23 @@ Evaluation: effects depend on how big and how connected the institution is, how 
 - Saying money is wealth. Money is one form of wealth.
 - Describing moral hazard without saying who bears the cost.
 
+## Frequently asked questions
+
+**What is the difference between the money market and the capital market?**
+The money market trades short-term funds and assets with a life of up to about a year, such as government bills. The capital market trades long-term finance, such as shares and bonds, to fund investment.
+
+**Why might a bank fail?**
+Banks borrow short through deposits that can be withdrawn on demand and lend long through loans repaid over years. This maturity mismatch means a run of withdrawals can leave a bank illiquid, and large loan losses can make it insolvent.
+
+**What does a lender of last resort do?**
+The central bank acts as lender of last resort by lending to a sound but illiquid bank to stop a bank run spreading through the system.
+
+**What is the difference between debt and equity finance?**
+Debt is borrowed money repaid with fixed interest, which is owed even if profit falls, so it raises risk for the firm. Equity is ownership through shares, which earn dividends only if paid and give votes, so it is safer for the firm but dilutes control.
+
+**How does systemic risk affect the real economy?**
+One failure can spread through linked institutions, so credit dries up, firms cut investment and households cut spending. Through the multiplier, national income falls by more than the initial fall in spending.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, section 3.4.2.3, first teaching September 2020, published by OxfordAQA.

@@ -12,11 +12,20 @@ order: 4
 syllabusTopics:
   - qualification: "igcse"
     topic: "hardware-0478"
-description: "Original exam-style practice questions with full worked answers on computer architecture, input/output devices, sensors, data storage and network hardware, for Cambridge IGCSE Computer Science (0478) Topic 3 Hardware."
+  - qualification: "igcse"
+    topic: "hardware-0478"
+    subtopic: "computer-architecture-0478"
+  - qualification: "igcse"
+    topic: "hardware-0478"
+    subtopic: "data-storage-0478"
+  - qualification: "igcse"
+    topic: "hardware-0478"
+    subtopic: "network-hardware-0478"
+description: "Original practice questions with worked answers for Cambridge IGCSE Computer Science 0478 Topic 3: CPU, fetch-execute, sensors, storage and network hardware."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -123,3 +132,17 @@ for 3.2 — knowing what each named sensor actually measures, not just recognisi
 scenario-based questions on this sub-topic test. Question 5 rewards naming the specific register
 involved at each stage of the fetch-decode-execute cycle in the correct order, exactly as recommended
 for building this skill through repeated diagram practice rather than a single memorised summary. Question 9 rewards the same explicit-comparison habit applied to IPv4 versus IPv6, which the study guide flags as one of several "explain the difference between" pairs that recur across sub-topics 3.3 and 3.4. Building a short reference table for each of these named pairs -- RAM vs ROM, primary vs secondary storage, local vs cloud storage, IPv4 vs IPv6 -- before the exam is a more reliable revision strategy than trying to recall each distinction from a single general description of the topic.
+
+## Frequently asked questions
+
+**What is an embedded system?**
+An embedded system is built to perform one dedicated function, such as controlling a greenhouse or a washing machine, whereas a general-purpose computer runs many different programs.
+
+**What is the difference between RAM and ROM?**
+RAM is volatile and holds the data and instructions currently in use. ROM is non-volatile and typically holds the startup instructions.
+
+**How do you answer sensor scenario questions in IGCSE Computer Science?**
+Name the specific sensor and state what physical quantity it measures, such as a moisture sensor measuring soil moisture. Recognising only that a sensor is involved does not earn the mark.
+
+**Why was IPv6 introduced?**
+The number of devices connecting to the internet grew beyond what the limited supply of IPv4 addresses could support, and IPv6 provides a vastly larger number of addresses.

@@ -130,6 +130,23 @@ These questions follow sections 3.1 (Marketing, competition and the customer) an
 - Recommending a segmentation method without evidence from the case.
 - Evaluating one side only and then stating a decision with no reason.
 
+## Frequently asked questions
+
+**Are these Cambridge O Level Business Studies 7115 past paper questions?**
+No. They are twelve original questions written for Marlbridge on sections 3.1 (Marketing, competition and the customer) and 3.2 (Market research). Use them alongside the official past papers.
+
+**How do you analyse market research data in an exam answer?**
+Quote figures from the table or chart and compare them, then give a conclusion that answers the business's question. Copying the table into words without a comparison stays at description.
+
+**What should you write in a market research calculation?**
+Show the division line even when the answer is simple, and write the unit, such as % or degrees. A bare number leaves it unclear what has been calculated.
+
+**How do you answer a "distinguish" question?**
+State a point about each of the two things being compared. Defining only one of them leaves the contrast incomplete.
+
+**How do you avoid losing marks on "two" questions?**
+Make sure the two points are genuinely different ideas. Two versions of the same idea, or a benefit and a limitation that are the same point reversed, earn credit only once.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/o-level-business-marketing-competition-and-the-customer-and-market-research-revision-notes/) for any question you lost marks on.

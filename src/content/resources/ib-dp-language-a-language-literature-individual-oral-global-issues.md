@@ -17,11 +17,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-language-and-literature-intertextuality"
 description: "How to choose a global issue, pair a literary and a non-literary extract and structure the IB DP Language and Literature individual oral."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This study guide covers the individual oral in IB Diploma Programme Language A: Language and
@@ -69,7 +69,7 @@ and its assessment objectives include analysing "relationships among different t
 texts "offer perspectives on human concerns". The oral tests exactly these skills.
 
 The brief does not give the timing, the extract length, the rules on notes or the assessment
-criteria. Your teacher will share these. Plan with the official rules in front of you.
+criteria. The full IB Language A guide does set them: the oral lasts 15 minutes (a 10-minute prepared response followed by 5 minutes of teacher questions), each extract is no more than 40 lines, you may take in an outline of no more than 10 bullet points, and it is marked out of 40 on four criteria (A to D, 10 marks each). Confirm the details with your teacher.
 
 ## Choosing a global issue
 
@@ -248,6 +248,20 @@ several pairings to compare, not one guess.
 - Context across time and place: [Time and space](/resources/ib-dp-language-a-language-literature-time-and-space/)
 - The whole course: [syllabus guide](/resources/ib-dp-language-a-language-and-literature-syllabus-guide/)
   and [subject guide](/resources/ib-dp-language-a-language-and-literature-subject-guide/)
+
+## Frequently asked questions
+
+**What texts do you use in the IB Language and Literature individual oral?**
+You use one literary work and one non-literary body of work, both studied in your course, and anchor the oral in a short extract from each. A body of work is a group of related non-literary texts, such as several adverts from one campaign.
+
+**How do you know if a global issue is a good choice?**
+Check that it matters to large numbers of people, crosses national borders, can be seen in ordinary local life, and that both of your texts engage with it through specific, quotable choices. If the last test fails, change the issue or the pairing.
+
+**How should you structure the individual oral?**
+One workable structure is an introduction with your angle and thesis, focused points on the literary extract, a link to the whole literary work, the same for the non-literary extract and body of work, then a comparison and conclusion.
+
+**Can you read the individual oral from a script?**
+The page advises against it: a prepared oral still needs to sound spoken, so practise from brief notes. Your teacher will share the official rules on notes and timing.
 
 ## Official syllabus
 

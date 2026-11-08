@@ -16,11 +16,11 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "organic-chemistry"
     subtopic: "polymers"
-description: "Addition and condensation polymerisation, nylon and PET, proteins as natural polyamides, and the environmental impact of plastics, for Cambridge IGCSE 0620 and O Level 5070."
+description: "Guide to polymers for Cambridge IGCSE 0620 and O Level 5070: addition and condensation polymerisation, nylon and PET, proteins and plastic disposal."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-18
 featured: false
 ---
@@ -78,7 +78,9 @@ monomers (11.8)
 **CAMBRIDGE O LEVEL CHEMISTRY 5070**
 
 5070 has no Core/Extended split — every outcome above, Core and Supplement
-alike, is required for every O Level candidate.
+alike, is required for every O Level candidate, except the named
+poly(ethene)-from-ethene outcome, which 5070 does not list separately (see
+the scope note under addition polymerisation).
 
 ## What a polymer is
 
@@ -259,6 +261,20 @@ and their respective monomer pairs
 - *(0620 Extended, 5070 required)* proteins as natural polyamides built from
 amino acids
 - Environmental challenges of plastic disposal: landfill, oceans, burning
+
+## Frequently asked questions
+
+**What is the difference between a polymer and a plastic?**
+A polymer is a large molecule built from many smaller monomers joined in a long chain. A plastic is the material made from polymers, so polymer describes the molecular structure and plastic describes the material.
+
+**What is the difference between a polyamide and a polyester?**
+A polyamide such as nylon forms from a dicarboxylic acid and a diamine, joined by amide links. A polyester such as PET forms from a dicarboxylic acid and a diol, joined by ester links.
+
+**How do you deduce the repeat unit of an addition polymer from an alkene?**
+Open the C=C double bond into single bonds so each carbon can bond to its neighbours, then draw the two carbons with their side groups in brackets with n outside.
+
+**Why are plastics difficult to dispose of?**
+Most plastics are chemically very stable and do not readily biodegrade, so they persist in landfill and collect in the oceans, and burning some of them releases toxic gases.
 
 ## Related resources
 

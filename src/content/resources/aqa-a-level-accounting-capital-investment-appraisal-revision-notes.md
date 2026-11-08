@@ -242,6 +242,20 @@ add the factors (0.893 + 0.797 + 0.712 = 2.402) and multiply: 22 000 × 2.402 = 
 - Listing benefits and limitations without explaining why each matters.
 - Ending an evaluation with no clear recommendation.
 
+## Frequently asked questions
+
+**How do you calculate a discount factor?**
+For a cost of capital r, written as a decimal, and a cash flow at the end of year n, the discount factor is 1 ÷ (1 + r)ⁿ. The year-0 factor is always 1.000, and factors supplied in a question should be used exactly as given.
+
+**What is the cost of capital?**
+The cost of capital is the rate of return a business must pay to the providers of its finance, such as interest on loans or the return expected by owners. It is the minimum return a project must earn and is used as the discount rate.
+
+**Where does the residual value go in an NPV calculation?**
+The residual value is a cash inflow in the final year of the project, when the asset is disposed of. Leaving it out, or putting it in year 1, is a common mistake.
+
+**Which non-financial factors matter in an investment decision?**
+Relevant factors include effects on staff, product quality and customer reaction, supplier reliability, environmental impact and reputation, legal requirements such as health and safety, and fit with long-term aims.
+
 ## Official syllabus
 
 AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019

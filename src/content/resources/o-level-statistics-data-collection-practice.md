@@ -24,9 +24,9 @@ syllabusTopics:
     subtopic: "types-of-data-and-variable-4040"
 description: "Original exam-style practice questions with full worked answers on data types, sampling and census methods for Cambridge O Level Statistics 4040."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-08-26
 featured: false
 ---
@@ -116,3 +116,20 @@ Related: [Data and Its Collection revision notes](/resources/o-level-statistics-
 - Describing a census as always being "more accurate" without acknowledging its cost and practicality trade-offs.
 - Explaining stratified sampling as equal group sizes rather than proportional group sizes.
 - Naming a source of bias without explaining *why* it skews the results in a particular direction.
+
+## Frequently asked questions
+
+**Are these O Level Statistics 4040 data collection questions from past papers?**
+No. They are original questions written for revision and do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers available from your board.
+
+**How do you decide whether data is discrete or continuous?**
+The test is whether the variable can only take separate, specified values (discrete) or any value in a range (continuous), not how big the numbers are. "Counted versus measured" is a useful rule of thumb, but it is not the deciding test.
+
+**What is the most common mistake when describing stratified sampling?**
+Describing it as taking equal numbers from each group. Stratified sampling takes numbers in proportion to each group's size.
+
+**How do you earn full marks when naming a source of bias?**
+Name the source and explain why it skews the results in a particular direction. Naming a source of bias without that explanation is a common way to lose marks.
+
+**Which topic of Cambridge O Level Statistics 4040 do these questions cover?**
+They cover Topic 1, Data and its collection: types of data, census and sampling methods, bias and questionnaire design, from the 4040 syllabus for 2025 to 2027.

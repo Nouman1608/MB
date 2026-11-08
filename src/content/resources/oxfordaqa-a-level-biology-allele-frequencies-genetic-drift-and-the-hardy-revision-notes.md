@@ -171,6 +171,20 @@ If they hold, allele frequencies stay constant from generation to generation.
 - Treating a bottleneck as selection against weak individuals rather than a random reduction in numbers and variety.
 - Rounding p and q early, so that the final number of individuals is slightly out.
 
+## Frequently asked questions
+
+**What do p², 2pq and q² stand for in the Hardy-Weinberg equation?**
+In p² + 2pq + q² = 1, p² is the frequency of individuals homozygous for the first allele, 2pq is the frequency of heterozygotes, and q² is the frequency of individuals homozygous for the second allele.
+
+**What is a genetic bottleneck?**
+A genetic bottleneck is a severe reduction in population size caused by an environmental event or human activity. The survivors are a small sample of the gene pool, so genetic variety falls and is not restored when numbers recover, except slowly by new mutations.
+
+**What are the advantages and disadvantages of selecting for high-yielding breeds?**
+The advantage is a population that reliably gives a high yield. The disadvantage is a smaller, less varied gene pool, leaving little variation if conditions change, and breeding between relatives makes harmful homozygous recessive genotypes more likely.
+
+**What is the difference between natural and artificial selection?**
+In artificial selection, people choose which individuals breed. In natural selection, the environment determines which individuals survive and reproduce; both change allele frequencies.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), Version 5.1, for International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards, published by OxfordAQA. Sections 3.3.7.1 and 3.3.7.2.

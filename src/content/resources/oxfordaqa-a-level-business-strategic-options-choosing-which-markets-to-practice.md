@@ -140,6 +140,17 @@ Judgement: Option A is better, because it uses existing strengths against a grow
 - Using reasons from outside the case when told to identify them from the case.
 - Ending an evaluation without a decision or without saying what it depends on.
 
+## Frequently asked questions
+
+**How do you identify the Ansoff strategy in a case?**
+Check whether the product is existing or new and whether the market is existing or new. A new market with an existing product is market development, while a new product for an existing market is product development.
+
+**How should you answer a question on functional implications of a strategy?**
+Take each function the question names and write an action and its consequence for the case business, linked to the chosen strategy. Answering a two-function question with only one function, or giving points that do not mention the case, limits the marks.
+
+**Which OxfordAQA 9725 section do these questions test?**
+They test section 3.4.1 Strategic options: choosing which markets to compete in and what products to offer, of OxfordAQA International AS and A-level Business (9725), examined in Unit 4: Business strategy.
+
 ## Next steps
 
 - Key terms and checklists: [revision notes](/resources/oxfordaqa-a-level-business-strategic-options-choosing-which-markets-to-revision-notes/)

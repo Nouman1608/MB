@@ -12,13 +12,19 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-texts-and-genres-7717"
-description: "Condensed recall notes on open-book exam technique, the elements framework, and structuring the connective essay for AQA A-Level English Literature B Paper 2 (7717)."
+  - qualification: "a-level"
+    topic: "paper-2-texts-and-genres-7717"
+    subtopic: "option-2a-elements-of-crime-writing-7717"
+  - qualification: "a-level"
+    topic: "paper-2-texts-and-genres-7717"
+    subtopic: "option-2b-elements-of-political-and-social-protest-writing-7717"
+description: "Condensed notes on open-book technique, the elements framework, the Section C rule and set-text lists for AQA A-Level English Literature B Paper 2 (7717)."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added Section C rubric, current set-text changes (Kala 2027; 2B post-2000 texts) and FAQ; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -59,7 +65,8 @@ each quickly.
 the *same* elements framework used for set texts.
 - **Section B** — essay on one set text (25 marks).
 - **Section C** — a genuinely *connective* essay across two set texts
-(25 marks).
+(25 marks). The question paper says you must write about two texts you
+have **not** used in Section B.
 
 All three sections carry equal marks — do not under-revise the unseen
 passage because it "isn't a memorised text."
@@ -112,13 +119,27 @@ post-2000 prose requirements.
 
 ## Recent set-text additions
 
-AQA introduced additional optional texts to this specification for
-first assessment 2027. If your course was updated to include one of
-these newer additions, check with your teacher which text list
-version applies to your specific examination series before relying on
-older revision material that may reference only the original text
-list — a mismatch here could mean revising analytical points for a
-text your centre does not actually study.
+The current specification (Version 1.5.1, 1 October 2025) adds Colin
+Walsh's *Kala* to Option 2A as a post-2000 prose text, first assessed
+in 2027. In Option 2B the post-2000 prose texts are *Harvest*,
+*Brotherless Night* and *The Kite Runner*; *The Handmaid's Tale* (1985)
+can only be the further text. Check with your teacher which text list
+applies to your examination series before relying on older revision
+material.
+
+## Frequently asked questions
+
+**How long should I spend on each section?**
+About an hour each: the paper lasts 3 hours and every section is worth
+25 marks.
+
+**Do I need quotations if the exam is open book?**
+You need to find them quickly rather than memorise them. Know where
+the key passages for each element sit in your clean copy.
+
+**Where can I practise full papers?**
+Try the [Option 2A crime writing practice](/resources/a-level-aqa-english-literature-b-crime-writing-practice/)
+or the [Option 2B protest writing practice](/resources/a-level-aqa-english-literature-b-political-and-social-protest-writing-practice/).
 
 ## Self-test
 

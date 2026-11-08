@@ -215,6 +215,23 @@ A short chain for an extended answer: depreciation, export prices fall abroad, d
 - Forgetting that a rise in home interest rates raises demand for the home currency.
 - Applying a percentage change to the wrong base: divide by the original value.
 
+## Frequently asked questions
+
+**How is the exchange rate determined in a floating system?**
+In a floating system the rate is set by the demand for and supply of the currency. Demand comes from foreign buyers of exports, foreign tourists and foreign investors, while supply comes from residents paying for imports, travelling abroad or sending money overseas.
+
+**Why does the demand curve for a currency slope downwards?**
+At a lower exchange rate the country's goods are cheaper in foreign currency, so foreign buyers want more of them and need more of the currency to pay for them.
+
+**Which Edexcel IGCSE Economics paper covers exchange rates?**
+Exchange rates are section 2.2.3 of the Pearson Edexcel International GCSE Economics (4EC1) specification, examined in Paper 2, Macroeconomics and the Global Economy.
+
+**When does a depreciation improve the current account?**
+A depreciation improves the current account only if the extra export earnings and the fall in import quantities outweigh the higher price paid for each import. This is more likely when demand for exports and imports is price elastic, and the effect may take time to appear.
+
+**Who gains and who loses from a depreciation?**
+Exporters gain because their goods are cheaper abroad, while importers and consumers of imported goods lose because imports cost more. Firms that use imported materials face higher costs, which may cancel some of their gain in competitiveness.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, published by Pearson Education Limited, section 2.2.3.

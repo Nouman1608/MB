@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "the-allocation-of-resources-cambridge-igcse-economics"
 description: "Condensed recall notes and comparison tables on demand and supply, price determination, elasticity and market failure for Cambridge IGCSE Economics 0455."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for quick recall of Topic 2's eleven sub-topics. For the full
@@ -204,6 +204,23 @@ fall after a price change; explain how market demand and market supply
 are built from individual curves; and name, with one worked example
 each, a public good, a merit good, a demerit good, an external cost
 and an external benefit.
+
+## Frequently asked questions
+
+**What topics are in Cambridge IGCSE Economics Topic 2?**
+Topic 2 of Cambridge IGCSE Economics (0455), the allocation of resources, has eleven sub-topics, including demand and supply, price determination, price elasticity of demand and supply, market economic systems, market failure and the mixed economic system.
+
+**What causes market failure in Cambridge IGCSE Economics?**
+The syllabus lists public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility as causes of market failure.
+
+**What is the difference between a merit good and a public good?**
+A public good is non-excludable and non-rival, so the free market under-provides it. A merit good, such as education, can be excludable and rival; its problem is that it is under-consumed if left to the market.
+
+**How does price elasticity of demand affect revenue?**
+If demand is elastic, a price rise lowers revenue and a price cut raises it. If demand is inelastic, a price rise raises revenue and a price cut lowers it.
+
+**What determines price elasticity of supply?**
+The main determinants are spare capacity, how easily stock can be stored, the time period, and how easily production can be switched between goods.
 
 ## Official syllabus
 

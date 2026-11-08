@@ -12,13 +12,13 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "people-in-business-cambridge-igcse-business"
-description: "Motivation theory and methods, organisational structure and leadership styles, recruitment and training, and internal/external communication -- the full content of Topic 2 for Cambridge IGCSE Business Studies 0450, 2026 series."
+description: "Study guide to Topic 2 People in business for Cambridge IGCSE Business Studies 0450: motivation, structure, leadership, recruitment, training and communication."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-31
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **Topic 2 People in business**, for Cambridge IGCSE
@@ -147,6 +147,23 @@ a limited company, since ownership structure shapes how much formal
 hierarchy a business is likely to have in the first place — a useful
 reminder that Cambridge's six topics are meant to be read as a
 connected whole rather than six isolated revision lists.
+
+## Frequently asked questions
+
+**Which motivation theorists are named in the 0450 syllabus?**
+Maslow, Taylor and Herzberg are named individually. You should be able to state each theory's core idea and use it to explain why a motivation method might or might not suit a given workforce.
+
+**What is the difference between dismissal and redundancy?**
+Dismissal is when an employee is removed because of their own conduct or performance. Redundancy is when the job role itself is no longer needed, for example because of automation or reduced product demand, and is not the employee's fault.
+
+**What are the financial and non-financial methods of motivation?**
+Financial rewards are wage, salary, bonus, commission and profit sharing. Non-financial methods are job enrichment, job rotation, teamworking, training and opportunities for promotion, and it helps to revise them as two separate lists.
+
+**What are the functions of management?**
+The 0450 syllabus lists planning, organising, coordinating, commanding and controlling, along with the importance of delegation as a balance between trust and control.
+
+**Where does "recommend and justify" appear in People in business?**
+It appears across five outcomes: motivation methods, leadership style, who to employ, which employees to make redundant and which communication method to use. Answer with the scenario's own details, such as company size, workforce and budget.
 
 ## Official syllabus
 

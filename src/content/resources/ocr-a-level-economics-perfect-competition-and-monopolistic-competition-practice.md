@@ -116,6 +116,20 @@ Teaching pages: the [study guide](/resources/ocr-a-level-economics-perfect-compe
 - Naming a barrier without explaining how it works.
 - Evaluation with no judgement or no link back to the question.
 
+## Frequently asked questions
+
+**When should a loss-making firm shut down in the short run?**
+A firm should stay open in the short run as long as price is at least equal to average variable cost, because each unit then contributes something towards fixed costs. Judging shut-down by the size of the loss rather than price against AVC is a common error.
+
+**Where does a firm maximise profit?**
+A firm maximises profit, or minimises loss, where marginal cost equals marginal revenue, with MC cutting MR from below. Setting output where MC equals average cost is a frequent mistake.
+
+**What shape is the demand curve for a perfectly competitive firm?**
+It is horizontal at the market price, because the firm is a price taker and its demand is perfectly elastic. Drawing a sloping line for the firm's demand loses marks.
+
+**How do you describe entry in a market structure question?**
+Say what changes and why. In perfect competition, supernormal profit attracts entrants, market supply shifts right and price falls; in monopolistic competition, entrants take customers, so each firm's demand curve shifts left until only normal profit remains.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ocr-a-level-economics-perfect-competition-and-monopolistic-competition-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-perfect-competition-and-monopolistic-competition/).

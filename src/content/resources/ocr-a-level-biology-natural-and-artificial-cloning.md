@@ -211,6 +211,20 @@ Clones within a pair share a genotype, so their differences are due to environme
 - Writing that clones are "exactly identical". The environment still alters phenotype.
 - Giving one-sided answers to an evaluation. Include a benefit, a risk and a judgement.
 
+## Frequently asked questions
+
+**What is a clone in biology?**
+A clone is a group of genetically identical individuals or cells that come from one parent by asexual reproduction. Asexual reproduction uses mitosis only, so differences between clones come from the environment, apart from rare mutations.
+
+**What is vegetative propagation?**
+Vegetative propagation is natural cloning in plants, where part of the parent, such as a runner, rhizome, tuber, bulb, corm or sucker, grows into a new independent plant. It is rapid and needs no pollinator.
+
+**What is the main disadvantage of plant clones?**
+Clones have low genetic variation, so a single disease can affect every plant in a crop.
+
+**Which practical activity is linked to plant cloning in H420?**
+The OCR A Level Biology A (H420) specification links this unit to practical activity group 2, the dissection of plant material to produce cuttings.
+
 ## Official syllabus
 
 OCR Advanced GCE in Biology A (H420), Version 4.1 (April 2026), first assessment 2025, published by OCR. Section 6.2.1(a) to (d) is covered here.

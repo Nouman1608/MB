@@ -19,9 +19,9 @@ syllabusTopics:
     subtopic: "as-bonding-and-structure"
 description: "Original exam-style practice questions with full worked answers on the ideal gas equation, kinetic theory and giant structures for AS Chemistry."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -117,3 +117,17 @@ Related: [Ideal Gases and Structure revision notes](/resources/as-chem-states-st
 Working through this table by elimination — as in Question 7 — is the standard technique for a "deduce the structure" question.
 
 For condensed recall notes on this topic, see the [Ideal Gases and Structure revision notes](/resources/as-chem-states-structure-revision-notes/); for the full explanation with additional worked examples, see the [Ideal Gases and Structure study guide](/resources/as-states-of-matter-ideal-gases-and-structure/).
+
+## Frequently asked questions
+
+**What units must you use in the ideal gas equation?**
+In pV = nRT, pressure must be in Pa, volume in m³ and temperature in K, with R = 8.31 J K⁻¹ mol⁻¹. Using cm³ or °C is the most common way to lose marks in Cambridge 9701 gas calculations.
+
+**Under what conditions do real gases deviate most from ideal behaviour?**
+Real gases deviate most at high pressure, when the molecules' own volume is no longer negligible, and at low temperature, when intermolecular forces become significant. Answers should name the specific assumptions that fail.
+
+**Why does graphite conduct electricity but diamond does not?**
+In graphite each carbon atom is bonded to three others, so one electron per atom is delocalised and can move through the structure. In diamond all four outer electrons are used in covalent bonds, so there are no mobile electrons.
+
+**How do you deduce structure from conductivity data?**
+A substance that conducts only when molten or dissolved has an ionic structure, while one that conducts in both solid and molten states is metallic. A high melting point rules out a simple molecular structure.

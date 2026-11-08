@@ -130,6 +130,20 @@ Judgement: Y is the better choice [1], because X's extra £13,000 of expected ne
 - All free 10-minute [diagnostics](/diagnostics/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**What is the most common mistake in decision tree questions?**
+Stopping at the expected value without subtracting the cost of the option to find the net gain. Always finish the calculation and show the working so a slip can still be credited.
+
+**Should you always recommend the option with the highest net gain?**
+Not automatically. Check the worst case, whether the business can fund the option, and whether it fits the mission and other influences before recommending. Recommending on net gain alone is a frequent weakness.
+
+**How should you use the numbers in a decision-making case study?**
+Use them to support an argument, for example to show the size of a possible loss, rather than repeating the figures from the question.
+
+**Is scientific decision making always better than intuition?**
+No. Answers lose marks for stating that one approach is always better; the right approach depends on the quality of the data, the time available and the size of the decision.
+
 ## Official syllabus
 
 AQA AS and A-level Business specification (7131 and 7132), subject content section 3.2.2 *Understanding management decision making*, published by AQA.

@@ -12,13 +12,13 @@ order: 4
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-4-unseen-0475"
-description: "Condensed recall notes on format, timing, the poetry/prose choice, and the four assessment objectives for Paper 4 Unseen in Cambridge IGCSE Literature in English (0475)."
+description: "Condensed notes on Cambridge IGCSE Literature in English 0475 Paper 4 Unseen: format, timing, the poetry or prose choice and the four assessment objectives."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-05
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description shortened to 140-160 characters and FAQ added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -123,6 +123,21 @@ unstructured commentary written under increased time pressure.
 - Assuming Paper 4 is "lower stakes" because there's no set text to
 learn — for candidates on this route it carries the same 25%
 weighting as an entire studied set text on Paper 2.
+
+## Frequently asked questions
+
+**How long is Paper 4 Unseen?**
+1 hour 15 minutes for one question from a choice of two (a prose passage or a poem), worth 25 marks
+and 25% of the qualification.
+
+**How long should I plan for?**
+The 0475 syllabus advises spending around 20 minutes reading the questions and planning your answer
+before you start to write.
+
+**Can I revise for an unseen paper?**
+Yes, by practising close reading: comment on language, structure and effect in unfamiliar poems and
+prose, and give a clear personal response supported by quotation.
+
 
 ## Self-test
 

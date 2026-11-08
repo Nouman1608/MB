@@ -13,13 +13,19 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-place-in-literary-texts-9675"
-description: "Place as a literary genre -- Unit 2 of OxfordAQA International AS & A-Level English Literature (9675), the second half of the International AS, covering one prose and one poetry text."
+  - qualification: "a-level"
+    topic: "unit-2-place-in-literary-texts-9675"
+    subtopic: "unit-2-section-a-9675"
+  - qualification: "a-level"
+    topic: "unit-2-place-in-literary-texts-9675"
+    subtopic: "unit-2-section-b-9675"
+description: "Unit 2 Place in Literary Texts of OxfordAQA International AS English Literature 9675: one prose and one poetry text studied through the idea of place."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide covers **Unit 2 Place in Literary Texts**, the second of two
@@ -135,6 +141,18 @@ copy of the set text into the open-book exam, which is not permitted.
 Spending equal revision time on both sections without checking that
 each is genuinely worth the same 25 marks -- both deserve full
 preparation.
+
+## Frequently asked questions
+
+**How long is OxfordAQA 9675 Unit 2?**
+2 hours for 50 marks, open book: 50% of the International AS and 20% of the International A-level.
+
+**What are the two sections?**
+Section A is an essay on a prose set text and Section B an essay on a poetry set text, 25 marks each.
+
+**Is Unit 2 open book?**
+Yes, unlike Unit 1 and Unit 3.
+
 
 ## Quick revision checklist
 

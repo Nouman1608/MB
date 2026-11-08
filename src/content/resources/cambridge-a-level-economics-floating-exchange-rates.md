@@ -212,6 +212,20 @@ A balanced conclusion names the most important factor for the case given and exp
 - Forgetting that import costs enter SRAS as well as net exports entering AD.
 - Stopping at "AD shifts right" without stating output, price level and employment.
 
+## Frequently asked questions
+
+**Is floating exchange rates AS or A Level content in Cambridge 9708?**
+Section 6.4 is in topic 6, which is AS Level content in the Cambridge International AS and A Level Economics 9708 syllabus. AS Level content is assumed knowledge for A Level papers.
+
+**What causes a floating currency to appreciate?**
+Demand for a currency rises when foreign demand for the country's goods rises, foreigners want to invest in its firms or assets, its interest rates rise relative to those abroad, or speculators expect the currency to rise.
+
+**What causes a floating currency to depreciate?**
+Supply of a currency rises when households prefer imports, domestic firms invest abroad, domestic interest rates fall relative to those abroad, or speculators expect the currency to fall and sell it. Expectations can make this self-fulfilling.
+
+**Does a depreciation always improve the economy?**
+No. Claiming depreciation always improves the economy is a common error, because imported input costs rise and the gain in output depends on spare capacity and how responsive exports and imports are.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International), section 6.4 Exchange rates.

@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "development-of-practical-skills-in-biology-ocr-alevel-biology"
-description: "Practical skills assessed in the written examinations and practical skills assessed in the Practical Endorsement -- the full content of Module 1 for OCR A-Level Biology A (H420)."
+description: "OCR A Level Biology A (H420) Module 1: planning, implementing, analysis and evaluation skills tested in the written papers, plus the Practical Endorsement."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide covers **Module 1 Development of practical skills in
@@ -210,3 +210,20 @@ Confusing a control variable with a control experiment. Calculating a mean witho
 - Carry out serial dilution and use a colorimeter calibration curve.
 - Calculate rate as 1/time and from an initial tangent.
 - Select the correct statistical test and interpret it against the critical value at p = 0.05.
+
+## Frequently asked questions
+
+**Is Module 1 of OCR A Level Biology A examined on its own paper?**
+No. Module 1 Development of practical skills is embedded throughout the written papers of OCR A Level Biology A (H420) and is also reported separately through the Practical Endorsement, so it has no dedicated exam paper.
+
+**What is the difference between a control variable and a control experiment?**
+A control variable is a factor kept constant so that it does not affect the result, such as temperature or pH. A control experiment is a parallel run in which the factor under test is absent, for example boiled enzyme, to show that the observed effect is caused by that factor.
+
+**Why is the initial rate used when a reaction slows down?**
+The initial rate is found from the gradient of a tangent at the start of the curve, because substrate concentration is highest and least changed at that point. Alternatively, rate can be calculated as 1/time when time is measured to a fixed end point.
+
+**How do you make a tenfold serial dilution?**
+Transfer 1 cm³ of the stock solution into 9 cm³ of solvent, mix, and repeat the step from each new solution. This gives a known range of concentrations from a single stock, which can be used to make a colorimeter calibration curve.
+
+**Why are repeats important in biology practicals?**
+Biological material varies naturally, so a mean of several repeats is more trustworthy than a single reading. Reporting the spread of results alongside the mean shows how reliable that mean is.

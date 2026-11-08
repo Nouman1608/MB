@@ -25,11 +25,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-2-11"
 description: "IB DP Maths AA study guide to rational, exponential and log functions, solving equations and graph transformations, with worked examples."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 This study guide teaches the rational, exponential and logarithmic functions, solving equations and transformations unit of IB Diploma Programme Mathematics: Analysis and Approaches. It is aligned to the IB *Mathematics: analysis and approaches guide*, first assessment 2021, syllabus sections 2.8, 2.9, 2.10 and 2.11. All of this content is common to SL and HL. It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 sessions.
@@ -318,6 +318,23 @@ y-intercept: 4 − 2 = 2        x-intercept: eˣ = 2, x = ln 2
 ## Next steps
 
 Condense this into the [revision notes](/resources/ib-dp-mathematics-aa-sl-rational-exponential-log-functions-transformations-revision-notes/), then try the [practice set](/resources/ib-dp-mathematics-aa-sl-rational-exponential-log-functions-transformations-practice/). For paper structure and timing, read the [exam preparation guide](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/). The [syllabus guide](/resources/ib-dp-mathematics-analysis-and-approaches-syllabus-guide/) and [subject guide](/resources/ib-dp-mathematics-analysis-and-approaches-subject-guide/) cover the whole course.
+
+## Frequently asked questions
+
+**How do you write aˣ in base e?**
+Use aˣ = e^(x ln a). This lets you compare growth models with different bases and is the form used in calculus.
+
+**Does the order of graph transformations matter?**
+Yes. Stretching y = x² vertically by 2 and then translating 5 down gives y = 2x² − 5, but translating first and then stretching gives a different graph. Apply transformations in the order stated.
+
+**How do you find the asymptotes of a rational function like (ax + b)/(cx + d)?**
+Set the denominator cx + d = 0 for the vertical asymptote, x = −d/c. For the horizontal asymptote, divide top and bottom by x and let x → ±∞, giving y = a/c.
+
+**What happens to an asymptote under a transformation?**
+Track it like any key feature. A horizontal stretch such as y = f(2x) does not move a horizontal asymptote, while a reflection y = −f(x) changes y = 1 to y = −1.
+
+**When must you solve an equation graphically?**
+When equations mix function types, such as ln(x + 3) = x − 1, no algebraic rearrangement isolates x, so use a GDC on Paper 2 to find the intersections.
 
 ## Official syllabus
 

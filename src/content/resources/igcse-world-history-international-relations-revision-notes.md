@@ -12,11 +12,17 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-international-relations-depth-studies-9245"
+  - qualification: "igcse"
+    topic: "paper-1-international-relations-depth-studies-9245"
+    subtopic: "paper-1-section-a-9245"
+  - qualification: "igcse"
+    topic: "paper-1-international-relations-depth-studies-9245"
+    subtopic: "paper-1-section-b-9245"
 description: "Condensed recall notes on the peace treaties, the League of Nations, the origins of the Second World War and the Cold War for International GCSE History."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -129,3 +135,14 @@ type on this paper**, and evaluating a source's limitations (how it is
 5. When are Section A's three pre-released sources published, and what must you not bring into the exam?
 
 **Answers:** 1. Clemenceau wanted revenge and security; Wilson wanted self-determination and a League of Nations; Lloyd George wanted a middle course punishing Germany while preserving trade. 2. Blame, Reparations, Army, Territory. 3. The USA never joined; the League had no army; decisions required unanimity; key powers were initially excluded; sanctions were ineffective; Britain and France pursued their own interests — any four. 4. For: Britain was unprepared and rearming, and public opinion feared war. Against: it emboldened Hitler and sacrificed Czechoslovakia. 5. 1 February for a May/June sitting, or 1 July for an October/November sitting; no notes or annotations may be brought in, since a clean copy of all five sources is provided on the day.
+
+## Frequently asked questions
+
+**What did the Big Three want in 1919?**
+Clemenceau wanted security and revenge for France, Wilson a fair peace based on the Fourteen Points, and Lloyd George a moderate peace that protected British interests.
+
+**What were the League of Nations' aims?**
+To prevent war through collective security, encourage disarmament, improve living and working conditions, and enforce the peace treaties.
+
+**What are the four Paper 1 questions in each section of OxfordAQA 9245?**
+Section A (source-based) has questions worth 4, 6, 8 and 12 marks on unseen and pre-released sources; Section B (knowledge-based) has questions worth 3, 6, 9 and 12 marks.

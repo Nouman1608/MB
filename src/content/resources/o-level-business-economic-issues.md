@@ -228,6 +228,23 @@ The command words in the syllabus include calculate, define, explain, identify, 
 - Applying a general answer to every business. A firm with no loan is not hurt by a rise in the interest rate on loans.
 - Treating a percentage point as a percentage. A rate moving from 5% to 8% is 3 percentage points, but the interest bill rises by 60%.
 
+## Frequently asked questions
+
+**How do you calculate the GDP growth rate?**
+GDP growth rate = (new GDP − old GDP) ÷ old GDP × 100. This is the standard form of the calculation.
+
+**How does inflation affect a business?**
+Higher inflation raises the cost of materials, rent and wages. If the business keeps its selling price fixed, its profit margin falls.
+
+**What types of tax affect businesses in Cambridge O Level Business 7115?**
+Taxes on profit paid by companies, taxes on income paid by workers and owners, and taxes on spending, such as sales tax added to the price of goods and services.
+
+**How does government spending affect businesses?**
+Government spending raises sales for firms that win contracts, creates jobs and incomes that households spend locally, and improves services such as transport and education. Cuts in spending can have the reverse effects.
+
+**Does a tax cut always raise a business's sales?**
+No. A cut in profit tax leaves more profit after tax but does not change the price customers pay, so it does not directly raise demand.
+
 ## Official syllabus
 
 Cambridge O Level Business Studies 7115 syllabus for 2026, Cambridge University Press & Assessment (Cambridge Assessment International Education), section 6.1 Economic issues.

@@ -153,6 +153,23 @@ Evaluation: Conventional rate cuts are of little use, but unconventional tools a
 - Treating a symmetric target as only about overshoots.
 - Not using the information in the question in evaluation.
 
+## Frequently asked questions
+
+**What is the difference between a symmetric and an asymmetric inflation target?**
+Under a symmetric target, misses above and below the target count equally. Under an asymmetric target, one direction of miss, usually overshooting a ceiling, is treated as worse.
+
+**How does quantitative easing work?**
+The central bank creates electronic money to buy assets, usually government bonds, from financial institutions. This raises bond prices and lowers yields, and puts more money into the financial system, which may encourage lending and spending.
+
+**What is a liquidity trap?**
+A liquidity trap occurs when interest rates are close to zero and the demand for money is very elastic, so people hold cash and further cuts in the policy rate fail to raise spending.
+
+**What are common mistakes in monetary policy calculations?**
+Common errors include confusing percentage points with percent, reversing the effect of an exchange rate change on export prices, and calculating the multiplier from the marginal propensity to consume instead of the marginal propensity to withdraw.
+
+**How do you evaluate monetary policy in OCR A Level Economics?**
+Weigh which limitation matters most in the context given, such as cost-push inflation from energy prices or rates already near zero, and use the information in the question rather than listing general limits.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/ocr-a-level-economics-monetary-policy-and-inflation-targeting-revision-notes/) and [study guide](/resources/ocr-a-level-economics-monetary-policy-and-inflation-targeting/).

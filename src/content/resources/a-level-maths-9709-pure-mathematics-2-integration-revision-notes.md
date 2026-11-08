@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "integration-cambridge-alevel-maths-2"
 description: "Revision notes for Cambridge 9709 Paper 2 integration (section 2.5): standard results, trig identities, trapezium rule steps and a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -230,6 +230,23 @@ Paper 2 questions often link integration to another section of the paper or to P
 - Rounding ordinates to 2 d.p. before adding, so the 3 s.f. answer is wrong.
 - Stating "over-estimate" or "under-estimate" with no reason about the shape of the curve.
 - Leaving an "exact" answer as a decimal, or as ln 9 − ln 3 instead of ln 3.
+
+## Frequently asked questions
+
+**What integration is in Cambridge 9709 section 2.5?**
+Section 2.5 covers integrating e^(ax + b), 1/(ax + b), sin(ax + b), cos(ax + b) and sec²(ax + b), using trig identities to reach these forms, and the trapezium rule.
+
+**Is integration by substitution or by parts on Cambridge 9709 Paper 2?**
+No. The general method of substitution, integration by parts and partial fractions are not on Paper 2; they belong to section 3.5 on Paper 3.
+
+**How many ordinates does the trapezium rule use?**
+With n strips there are n + 1 ordinates, so "4 intervals" means 5 y-values. The strip width is h = (b − a)/n.
+
+**What is the difference between integrating 1/(ax + b) and 1/(ax + b)²?**
+1/(ax + b) gives (1/a) ln|ax + b|. 1/(ax + b)² is a power, (ax + b)⁻², which integrates to −1/(a(ax + b)).
+
+**Why does a lower limit of 0 rarely give zero?**
+Values such as e⁰ = 1 and cos 0 = 1 leave a term to subtract, so always substitute the lower limit in full.
 
 ## Official syllabus
 

@@ -200,6 +200,20 @@ At Foundation tier, compare areas and volumes by calculating each one and then w
 - Using the length scale factor for area or volume (Higher tier only).
 - Applying a square root to a volume ratio, or a cube root to an area ratio (Higher tier only).
 
+## Frequently asked questions
+
+**How do you prove two triangles are similar?**
+Show any one of three tests: all three pairs of sides in the same ratio, two pairs of sides in the same ratio with equal angles between them, or two pairs of equal angles. Give a reason for each equal angle, such as a common angle or corresponding angles.
+
+**How do you find the scale factor of an enlargement?**
+Divide a length on the image by the matching length on the original. A scale factor less than 1 means the image is smaller than the original.
+
+**How are the area and volume scale factors related to the length scale factor?**
+If the length scale factor is k, the area scale factor is k² and the volume scale factor is k³. This relationship is Higher tier only in OCR GCSE Mathematics J560.
+
+**What is the difference between similar and congruent shapes?**
+Similar shapes have the same shape but can be different sizes. Congruent shapes are the same shape and the same size.
+
 ## Official syllabus
 
 Aligned to the OCR GCSE (9-1) in Mathematics (J560) specification, Version 2.1, August 2026, published by OCR, for first assessment in 2017. Content references 9.04a (Similar triangles), 9.04b (Enlargement) and 9.04c (Similar shapes).

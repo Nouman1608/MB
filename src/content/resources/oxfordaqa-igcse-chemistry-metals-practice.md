@@ -197,6 +197,20 @@ Fe₃O₄ + 4CO → 3Fe + 4CO₂
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in metals questions?**
+Frequent slips include calling an alloy a compound, leaving spectator ions in an ionic equation, and saying the metal ion is oxidised in a displacement reaction.
+
+**Which part of the OxfordAQA 9202 specification do these metals questions cover?**
+They cover section 3.3.1 Metals: properties and alloys, the reactivity series, displacement, extraction, copper from low-grade ores, recycling and metal carbonates.
+
+**How do you write an ionic equation for a displacement reaction?**
+Leave out the spectator ions and show only the metal atom and the ions that change, then check that charges balance. For copper in silver nitrate solution, write Cu + 2Ag⁺ → Cu²⁺ + 2Ag.
+
+**Is there a required practical for metals in OxfordAQA 9202 Chemistry?**
+No. Section 3.3.1 has no required practical; the copper sulfate electrolysis practical belongs to section 3.3.2.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.3.1 Metals, including 3.3.1.1 The reactivity series and 3.3.1.2 Metal carbonates.

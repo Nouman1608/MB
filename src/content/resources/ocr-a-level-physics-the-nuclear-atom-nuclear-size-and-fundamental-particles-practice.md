@@ -156,6 +156,20 @@ Course pages: [OCR A Level Physics hub](/boards/ocr/a-level/physics/) | [checkli
 - Putting a neutrino in beta-minus decay and an antineutrino in beta-plus decay.
 - Adding charges without writing the left and right totals side by side.
 
+## Frequently asked questions
+
+**What are the most common mistakes in nuclear and particle physics questions?**
+Common errors include using R = r₀A instead of the cube root, stating that nuclear density increases with A, giving an antiquark the same sign of charge as its quark, and putting a neutrino in beta-minus decay instead of an antineutrino.
+
+**How do you describe the alpha scattering experiment for full marks?**
+Say why a vacuum and a thin foil are used, and link each observation to a conclusion: most particles pass straight through, so the atom is mostly empty space; a few are deflected through large angles or rebound, so the nucleus is small, charged and massive.
+
+**How do you describe the strong nuclear force graph?**
+State that it is repulsive below about 0.5 fm, attractive from about 0.5 fm to about 3 fm, and negligible beyond a few femtometres. Leaving out these values, or saying it is attractive at every separation, loses marks.
+
+**How do you check charge in a quark equation?**
+Write the total charge on the left and on the right side by side, using quark charges in units of e, and show they are equal. A hadron's total charge must be a whole number of e.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/ocr-a-level-physics-the-nuclear-atom-nuclear-size-and-fundamental-particles-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-the-nuclear-atom-nuclear-size-and-fundamental-particles/).

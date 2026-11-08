@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "business-in-the-real-world-oxfordaqa-igcse-business"
-description: "Business activity, ownership, aims and objectives, business planning and growth -- the opening topic of OxfordAQA International GCSE Business (9225), whose content areas mirror AQA's domestic GCSE Business for this topic only."
+description: "Study guide to Topic 1 Business in the Real World for OxfordAQA International GCSE Business 9225: purpose, ownership, objectives, planning and growth."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **Topic 1 Business in the Real World**, the first
@@ -231,3 +231,20 @@ Saying limited liability means the business has limited debts. Treating added va
 - Decide which location factor dominates for a given business.
 - Distinguish internal (including franchising) from external growth and classify integration types.
 - Calculate and interpret average unit cost.
+
+## Frequently asked questions
+
+**Can you use AQA GCSE Business 8132 resources for OxfordAQA 9225?**
+For Topic 1 only, because its content closely mirrors AQA's domestic GCSE Business (8132). The 9225 course as a whole uses international accounting terms and adds content such as Sharia-compliant finance and developing-country competition, so domestic materials would miss parts of it.
+
+**Is franchising a form of business ownership?**
+No. Franchising has no liability status of its own: the franchisee trades as a sole trader, partnership or company, and that underlying legal form decides its liability.
+
+**How do you calculate average unit cost in OxfordAQA IGCSE Business?**
+Average unit cost = total costs ÷ output. For example, total costs of $50,000 for 10,000 units give $5 per unit, and a fall in average unit cost as output rises is an economy of scale.
+
+**What is the difference between fixed and variable costs?**
+Fixed costs, such as rent, do not change with output. Variable costs, such as raw materials, change directly with output, and the two together make total costs.
+
+**What is the difference between internal and external growth?**
+Internal growth is organic, using reinvested profit to open new stores, expand through e-commerce or franchise, and is slower but controlled. External growth is by merger or takeover, which is faster but risks culture clashes.

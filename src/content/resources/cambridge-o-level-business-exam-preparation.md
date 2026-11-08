@@ -11,9 +11,9 @@ syllabusSeries: "2026"
 order: 3
 description: "How Cambridge O Level Business Studies 7115's two equally weighted papers demand different answering techniques, and a worked case-study application routine."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-09
 featured: false
 ---
@@ -119,6 +119,20 @@ misunderstanding the business's situation early can distort answers to later que
 Because vague everyday language scores lower than the exact business term the mark scheme expects for
 the same point. 4. Applying the concept using the case's own specific figures and stated situation,
 rather than writing generic theory that could describe any business in the same industry.
+
+## Frequently asked questions
+
+**How long are the Cambridge O Level Business Studies 7115 papers?**
+Both papers last 1 hour 30 minutes, are worth 80 marks each and carry 50% of the total. The qualification is linear and not tiered.
+
+**What is the difference between 7115 Paper 1 and Paper 2?**
+Paper 1 (Short Answer and Data Response) has four questions mixing short answers with structured data tasks. Paper 2 (Case Study) has four questions all based on a single case-study insert.
+
+**Do Paper 1 and Paper 2 test different content?**
+No. Each paper draws on content from the entire syllabus, so all six topic areas are examined twice, once in short-answer and data-response style and once through case application.
+
+**Why should I read the whole case-study insert before answering?**
+All four Paper 2 questions relate to the same business, so misreading its situation in Question 1 can distort the answers to the later questions as well.
 
 *Written against the assessment overview of Cambridge International's own O Level Business Studies
 (7115) syllabus PDF for the 2026 examination series (official Cambridge document, verified 2026-08-27);

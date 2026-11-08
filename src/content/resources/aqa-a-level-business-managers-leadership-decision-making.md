@@ -12,13 +12,13 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "managers-leadership-and-decision-making-aqa-alevel-business"
-description: "Management vs leadership, leadership styles, scientific and intuitive decision making, and stakeholder mapping -- the full content of Topic 2 for AQA A-Level Business (7132)."
+description: "Study guide to Topic 2 Managers, leadership and decision making for AQA A-level Business 7132: leadership styles, decision trees and stakeholder mapping."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **Topic 2 Managers, Leadership and Decision Making**,
@@ -185,6 +185,22 @@ stakeholder needs.
   <figcaption>Expected value is the sum of probability times payoff; net gain subtracts the cost of the option.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between management and leadership?**
+Management is broadly associated with planning, organising and controlling existing operations, while leadership is associated with setting direction, inspiring people and driving change.
+
+**What is the difference between scientific and intuitive decision making?**
+Scientific decision making uses data, such as decision trees and expected values, which reduces guesswork but depends on the quality of the data. Intuitive decision making draws on experience and can be faster where data is limited or a decision is urgent.
+
+**What is stakeholder mapping?**
+Stakeholder mapping plots stakeholders by their power (ability to influence the business) and their interest (how much a decision affects them), to decide how to manage the relationship with each group.
+
+**What is the difference between risk, uncertainty and opportunity cost?**
+Risk is a measurable chance of an unfavourable outcome; uncertainty is where the likelihood or nature of outcomes cannot be reliably estimated; and opportunity cost is the value of the next-best alternative given up.
+
+**Is AQA 7132 Business being replaced?**
+AQA has accredited a replacement specification, 7138, for first teaching from September 2026, which runs alongside 7132 during the transition. 7132 is current for cohorts taking exams through summer 2027.
 
 ## Official syllabus
 

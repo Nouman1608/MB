@@ -157,6 +157,20 @@ For the debates themselves (Section A of Paper 3), see the [Issues and debates s
 - Naming only five Prochaska stages or not applying the model to a person or intervention.
 - Writing general learning theory in an application question without using the scenario's details.
 
+## Frequently asked questions
+
+**What does the AQA 7182 specification list for Addiction?**
+It lists describing addiction, risk factors, nicotine addiction, gambling addiction, reducing addiction, and the application of Prochaska's six-stage model of behaviour change. This is section 4.3.10, part of Option 3.
+
+**What are the six stages of Prochaska's model?**
+The stages in order are precontemplation, contemplation, preparation, action, maintenance and termination. Naming only five stages is a common way to lose marks.
+
+**What is the difference between partial and variable reinforcement?**
+Partial reinforcement means not every response is rewarded. A variable ratio schedule means the number of responses before a reward keeps changing.
+
+**How long is AQA Psychology Paper 3?**
+Paper 3 is 2 hours long, worth 96 marks and 33.3% of the A-level.
+
 ## Official syllabus
 
 AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), for teaching from September 2025, section 4.3.10 Addiction and the Paper 3 scheme of assessment. Check aqa.org.uk/7182 for the current version.

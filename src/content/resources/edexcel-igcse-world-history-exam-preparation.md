@@ -9,11 +9,11 @@ qualifications: ["igcse"]
 syllabusCodes: ["4HI1"]
 syllabusSeries: "Issue 5, February 2026"
 order: 3
-description: "How the option structure of Pearson Edexcel IGCSE History 4HI1 governs revision -- two depth studies from eight on Paper 1, an investigation plus a breadth study on Paper 2, and a worked change-and-continuity routine."
+description: "How to choose and revise your Edexcel International GCSE History 4HI1 options: two depth studies, one investigation and one breadth study, and a revision plan."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-07
 featured: false
 ---
@@ -134,3 +134,17 @@ specification; confirm with your centre which options you are entered for. The c
 routine above is an original model written for this resource, not a reproduction of any official past
 paper or mark scheme. Always check the current specification for your examination year at
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/History/2017/specification-and-sample-assessments/int-gcse-history-specification.pdf).*
+
+## Frequently asked questions
+
+**How many options does a 4HI1 candidate study?**
+Four: two depth studies for Paper 1, and one historical investigation plus one breadth study for Paper 2.
+
+**How long are the 4HI1 papers?**
+Each paper lasts 1 hour 30 minutes, carries 60 marks and is worth 50% of the qualification.
+
+**How should depth and breadth notes differ?**
+Depth study notes need dense, specific detail on a short period; breadth study notes should track change and continuity, and what drove change, across a long period.
+
+**What does the historical investigation reward?**
+Handling evidence: reading, interpreting and cross-referring sources, not narrating the topic.

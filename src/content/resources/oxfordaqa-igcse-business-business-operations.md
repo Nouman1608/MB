@@ -189,6 +189,20 @@ Benefits of good service include greater customer satisfaction, loyalty and repe
 - Writing "TQM means checking quality at the end". It means every employee builds in quality throughout.
 - Listing customer service ideas without linking them to loyalty, reputation or sales.
 
+## Frequently asked questions
+
+**What is Kaizen?**
+Kaizen is continuous improvement: all employees look for small, regular improvements, such as a quicker way to set up a machine or a layout that cuts walking time. Many small gains add up, and staff who suggest changes may feel more involved.
+
+**What is buffer stock?**
+Buffer stock is spare stock kept to satisfy demand if sales jump or a delivery is late. Its benefit is protection against running out, but it has storage and holding costs.
+
+**When is job production the right choice?**
+Job production makes one item at a time to a customer's own order, so it suits unique, high-value, made-to-measure products. Its drawbacks are that it is slow and costly per item and needs skilled labour.
+
+**How can growth put quality at risk?**
+As a business grows, managers see less of the daily work, new staff need training, and outsourcing gives the business less direct control over part of the work.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Business (9225) specification, version 3.1, OxfordAQA, for International GCSE exams May/June 2022 onwards. Section 3.3 Business operations (3.3.1 to 3.3.4).

@@ -224,6 +224,23 @@ Kilbride gives up a third of the profits and is compensated; Mottram's share sta
 - Treating a retiring partner's debit current account balance as an addition.
 - Showing the retiring partner's loan as capital rather than a liability.
 
+## Frequently asked questions
+
+**What are the Partnership Act 1890 rules when there is no agreement?**
+Where partners have no agreement, section 24 of the Act applies: profits are shared equally, no salaries or interest on capital are paid, no interest is charged on drawings, and a partner's advance beyond the agreed capital earns interest at 5% a year from the date of the advance.
+
+**How do you calculate interest on drawings?**
+For each drawing, multiply the amount by the rate and by the months from the date of the drawing to the year end, divided by 12. Counting months from the start of the year is a common mistake.
+
+**Is interest on a partner's loan an appropriation of profit?**
+No. Loan interest is an expense in the income statement, charged before profit for the year. Interest on capital and partners' salaries are appropriations of that profit.
+
+**What is the difference between fixed and fluctuating capital accounts?**
+With fixed capitals each partner has two accounts: a capital account that changes only by agreement and a current account for salaries, interest, profit shares and drawings. With fluctuating capitals there is one account per partner that changes every year.
+
+**How do you work out the amount due to a retiring partner?**
+Amount due = capital, plus a credit or minus a debit current account balance, plus the partner's share of revaluation profit and of goodwill. A debit current account balance is deducted, not added.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA: section 3.2.5, Partnership accounts.

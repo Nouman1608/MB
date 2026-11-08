@@ -184,6 +184,23 @@ Data for this set: Ar values H = 1.0, N = 14.0, Cl = 35.5, Pt = 195.1; molar gas
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What do these Edexcel IAL Chemistry transition metal questions cover?**
+They cover outcomes 17.1 to 17.17 of Topic 17: Transition Metals and their Chemistry in the Pearson Edexcel International A Level Chemistry specification (YCH11). This is International A2 content in Unit 5.
+
+**Which electrons are removed first when a transition metal forms an ion?**
+The 4s electrons are removed first, then the 3d electrons. For example, Fe³⁺ is [Ar] 3d⁵, not [Ar] 3d³ 4s².
+
+**How do you find the coordination number when a ligand is bidentate?**
+Count the dative bonds, not the ligands: each bidentate ligand forms two bonds and EDTA⁴⁻ forms six. Three bidentate ligands therefore give a coordination number of 6.
+
+**What is the common mistake when explaining the colour of a complex?**
+Describing electrons falling back and emitting light describes emission, which is the wrong model. Colour comes from d electrons absorbing visible light to move between split d-orbitals, and the colour seen is the light that is not absorbed.
+
+**What must you say to explain carbon monoxide poisoning?**
+Say that CO replaces O₂ on the iron(II) in haemoglobin by ligand exchange and binds more strongly, so the change is not easily reversed. Describing CO as simply "blocking" haemoglobin misses those points.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, published by Pearson Education Limited. Topic 17: Transition Metals and their Chemistry, outcomes 17.1 to 17.17.

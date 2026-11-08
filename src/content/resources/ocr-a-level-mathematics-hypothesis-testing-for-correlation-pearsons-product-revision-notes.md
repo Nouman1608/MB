@@ -208,6 +208,20 @@ Critical values below are supplied as data and computed to 4 decimal places.
 - Treating a significant result as proof of causation.
 - Forgetting that a one-tail p-value must be doubled for a two-tail test.
 
+## Frequently asked questions
+
+**What does Pearson's product-moment correlation coefficient measure?**
+r measures how close the points lie to a straight line, with −1 ≤ r ≤ 1. Its sign gives the direction of the trend, and its size gives the tightness of the points, not the gradient.
+
+**Is a table of critical values provided in the OCR A Level Mathematics exam?**
+The OCR H240 specification says a table of critical values will be provided for the correlation test. You still need to choose the right row and column.
+
+**What is the difference between strong and significant correlation?**
+Strong describes the size of r. Significant describes the outcome of the hypothesis test, which depends on r, the sample size and the significance level.
+
+**Does changing the units of a variable change r?**
+Positive scaling or shifting of the data leaves r unchanged. Multiplying one variable by a negative number flips the sign of r.
+
 ## Official syllabus
 
 OCR, *A Level Mathematics A (H240)* specification, Version 3.1 (August 2026), for first assessment in 2018, section 2.05 Statistical Hypothesis Testing, references 2.05f and 2.05g.

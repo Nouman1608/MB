@@ -141,6 +141,23 @@ These questions cover oligopoly, interdependence, collusion and price and non-pr
 - Try all the free 10-minute [diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does interdependence mean in oligopoly?**
+Interdependence means each firm's best decision on price or output depends on how its few rivals are likely to react. This is why the assumptions of oligopoly should be linked to firms' behaviour rather than just stating "few firms".
+
+**How do you find a dominant strategy in a game theory payoff matrix?**
+Check the firm's best reply to each of the rival's possible choices in turn. If the same choice is best whatever the rival does, it is a dominant strategy; show each comparison rather than only naming the final cell.
+
+**Why are cartels unstable?**
+Each member can earn more by secretly raising output above its agreed quota while the others stick to theirs. Because every member faces the same incentive to cheat, collusive agreements tend to break down.
+
+**What is the difference between predatory pricing and limit pricing?**
+Predatory pricing cuts price, often below cost, to drive an existing rival out of the market, with the aim of raising price later. Limit pricing sets a price just low enough to make entry unprofitable for a potential entrant, between the incumbent's cost and the entrant's cost. Confusing the two is a common way to lose marks.
+
+**How should you answer a 10-mark evaluate question on oligopoly in Edexcel IAL Economics?**
+In Edexcel IAL Economics (YEC11), a balanced list of points is weaker than a supported judgement. Name the stakeholders affected, use any data given, reach a conclusion and say which conditions would change it.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, Pearson Education Limited: section 3.3.3, Market structures and contestability, item 5, Oligopoly (points a to g), in Unit 3, Business behaviour.

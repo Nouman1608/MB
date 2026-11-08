@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-reaction-kinetics"
     subtopic: "a-homogeneous-and-heterogeneous-catalysts"
-description: "Original exam-style practice questions with full worked answers on rate equations, orders of reaction, half-life, reaction mechanisms and catalysis for Cambridge A Level Chemistry 9701."
+description: "Practice questions with worked answers on rate equations, orders, half-life, rate constants, mechanisms and catalysis, for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-29
 featured: false
 ---
@@ -148,3 +148,17 @@ Step 2 (fast): XY + X → Z
 - Forgetting that a constant half-life is unique to first-order reactions — stating it "gets shorter" or "gets longer" without checking which order applies.
 - Including a homogeneous catalyst's formula in the final balanced equation.
 - In mechanism questions, forgetting that species appearing only *after* the rate-determining step do not affect the rate equation.
+
+## Frequently asked questions
+
+**How does the half-life of a first-order reaction change as it proceeds?**
+It stays the same. Successive halvings of concentration take equal times, which is how a first-order reaction can be identified from a concentration–time graph without calculating k.
+
+**How do you work out the units of a rate constant?**
+Rearrange the rate equation to make k the subject and substitute the units, with rate in mol dm⁻³ s⁻¹ and concentrations in mol dm⁻³. For rate = k[A]²[B], this gives mol⁻² dm⁶ s⁻¹.
+
+**Do species that react after the rate-determining step appear in the rate equation?**
+No. Only species involved in the rate-determining step, or in steps before it, appear in the rate equation. A reactant that enters only in a later fast step is zero order.
+
+**Where are marks usually lost on rate equations questions in Cambridge 9701?**
+Common errors include reading orders from the balanced equation instead of the data, wrongly saying a half-life gets shorter or longer without checking the order, and including a homogeneous catalyst in the overall equation.

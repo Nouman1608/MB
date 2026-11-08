@@ -143,6 +143,20 @@ The questions below test 4.1 and 4.2 of the Cambridge O Level Economics 2281 syl
 - Taking full employment to mean no unemployed at all.
 - Finishing a discussion with no judgement linked to the case.
 
+## Frequently asked questions
+
+**How do you calculate the unemployment rate?**
+Divide the number unemployed by the labour force (people in work plus the unemployed) and multiply by 100. Dividing by the number in work is a common error.
+
+**What is the difference between a percentage change and a percentage point change?**
+A percentage point change is the simple difference between two rates, such as unemployment falling from 9% to 6%, which is 3 percentage points. A percentage change compares the change with the starting value.
+
+**Does full employment mean nobody is unemployed?**
+No. Full employment means almost everyone willing and able to work has a job, so a low level of unemployment remains.
+
+**How do you show that two macroeconomic aims conflict?**
+Write a chain of cause and effect, for example from higher demand to more hiring, rising wages and costs, and higher prices. Stating that two aims clash without this chain loses marks in Cambridge O Level Economics 2281.
+
 ## Next steps
 
 - Go back over the [study guide](/resources/cambridge-o-level-economics-the-role-of-government-and-macroeconomic-aims/) and the [revision notes](/resources/cambridge-o-level-economics-the-role-of-government-and-macroeconomic-aims-revision-notes/) for any question you lost marks on.

@@ -285,6 +285,20 @@ A "discuss" answer needs points on **both** sides.
 
 Test yourself with the [revision notes](/resources/o-level-biology-5090-biotechnology-and-genetic-modification-revision-notes/), then try the [practice questions](/resources/o-level-biology-5090-biotechnology-and-genetic-modification-practice/).
 
+## Frequently asked questions
+
+**Why does a fermenter usually need cooling?**
+Respiration of the microorganisms releases heat. Cool water flowing through a water jacket keeps the temperature at the optimum, because too much heat would denature their enzymes.
+
+**How is human insulin made using bacteria?**
+The human insulin gene is cut from human DNA and inserted into a plasmid, which is taken up by a bacterium. The bacteria reproduce rapidly in a fermenter, each carrying the gene, and the insulin they make is extracted and purified.
+
+**Why are crop plants genetically modified?**
+Cambridge O Level Biology 5090 names three reasons: to give resistance to herbicides, to give resistance to insect pests, and to provide additional vitamins, as in Golden Rice.
+
+**What does lactase do?**
+Lactase breaks down lactose, the sugar in milk, into glucose and galactose. Milk treated with lactase is sold as lactose-free.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 18: Biotechnology and genetic modification, published by Cambridge Assessment International Education.

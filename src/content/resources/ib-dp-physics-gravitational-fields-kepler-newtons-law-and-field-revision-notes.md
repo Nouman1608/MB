@@ -232,6 +232,20 @@ A quick check on any answer: the unit of GM/r² is N m² kg⁻² × kg / m² = N
 - Drawing field lines for a sphere that do not point at the centre, or that cross.
 - Mixing days and seconds when working out T²/r³ for a single body, though not when taking a ratio.
 
+## Frequently asked questions
+
+**Is the HL gravitational potential content in these notes?**
+No. These notes cover the SL and HL part of D.1; the potential-based, HL only content of D.1 is not included.
+
+**Are orbits treated as circular in IB DP Physics calculations?**
+Yes. In calculations the guide treats orbits as circular, so r is the orbital radius.
+
+**When can a planet be treated as a point mass?**
+When it is spherical with uniform density, or spherically symmetric, or when the separation is far bigger than the size of either body. The distance is then measured from its centre.
+
+**Are N kg⁻¹ and m s⁻² the same unit?**
+Yes. They are equivalent units, which is why gravitational field strength g equals the free-fall acceleration.
+
 ## Official syllabus
 
 This page follows sub-topic D.1 (Gravitational fields), standard level and higher level content, of the IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization.

@@ -253,6 +253,20 @@ Layout with columns and the float received [1]; payments in date order with vouc
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How much is reimbursed to the petty cashier under the imprest system?**
+The petty cashier is reimbursed exactly the amount spent in the period, which restores the float to its fixed starting level. Reimbursing a different sum is a common error in 4AC1 questions.
+
+**How is a contra entry shown in the cash book?**
+A contra entry, such as cash paid into the bank, is recorded on both sides of the cash book: in one column on the debit side and the other column on the credit side. Showing it on one side only loses marks.
+
+**Is the discount column included in the cash book balance?**
+No. The discount columns record discount allowed and discount received but are not part of the cash or bank balance. Each of the cash and bank columns is balanced separately.
+
+**What do examiners look for in a journal entry?**
+Each journal entry should show the date, the account debited, the account credited, equal amounts and a narrative explaining the transaction. Leaving out the narrative is a common way to lose marks.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 2 Introduction to bookkeeping, sections 2.1 Business documentation and 2.2 Books of original entry.

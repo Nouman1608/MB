@@ -165,6 +165,17 @@ Revise first with the [study guide](/resources/o-level-biology-5090-transport-in
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What does Topic 11 cover in Cambridge O Level Biology 5090?**
+Topic 11, Transport in humans, covers the circulatory system, the heart (including the heart-rate investigation and coronary heart disease), blood vessels and blood. The syllabus is not tiered, so every question applies to every candidate.
+
+**Which value should you divide by in a percentage change?**
+Divide the change by the starting value, not the final value, then multiply by 100. Using the wrong baseline is a common error in heart-rate questions.
+
+**Are these questions taken from past papers?**
+No. They are original practice questions written for revision on Topic 11. Use them alongside the official Cambridge O Level Biology 5090 past papers.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 11: Transport in humans, published by Cambridge Assessment International Education.

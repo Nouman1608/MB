@@ -239,6 +239,23 @@ A short, qualified judgement beats a long list.
 - Forgetting to state units or the price year for a real value.
 - Using weights that do not sum to 100 without dividing by their total.
 
+## Frequently asked questions
+
+**What is an index number?**
+An index number expresses a value as a percentage of its value in a chosen base year, which is set to 100. It shows change over time, not the size of the original variable.
+
+**Why does a weighted index differ from a simple average of category indices?**
+Each category is weighted by its share of typical spending, so categories with large weights move the overall index more. An unweighted average treats every category as equally important.
+
+**Why is real national income a better indicator of output than nominal income?**
+Nominal income can rise just because prices rise. Real values remove the effect of price changes, so real national income shows whether output itself has increased.
+
+**Does an index of 109.2 mean every household faced a 9.2% price rise?**
+No. An index is an average, so a household that spends mostly on categories whose prices rose faster faces a different rate from the average.
+
+**Which OxfordAQA 9640 skills cover index numbers and real values?**
+Quantitative skills QS5 (index numbers) and QS7 (converting money to real terms) in section 3.5 of the OxfordAQA International AS and A-level Economics (9640) specification, with related content in section 3.2.1.2. They could be assessed in any of the assessments.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, section 3.5 Quantitative skills (QS5 and QS7), with related content in 3.2.1.2 and 3.2.2.1. First teaching September 2020; first International AS exams May/June 2021; first International A-level exams May/June 2022. Published by OxfordAQA.

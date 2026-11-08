@@ -143,6 +143,20 @@ These questions cover sections 4.4.1 to 4.4.3 (Monetary policy) of the Cambridge
 - Take one of the free 10-minute [diagnostics](/diagnostics/).
 - Try a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Does monetary policy use taxes and government spending?**
+No. Monetary policy uses interest rates, the money supply and the exchange rate. Taxes and government spending are fiscal policy, so defining monetary policy by them loses marks.
+
+**What is the difference between a nominal and a real interest rate?**
+The nominal rate is the rate quoted. The real rate allows for inflation and is approximately the nominal rate minus the inflation rate.
+
+**How do you explain the effect of an interest rate change?**
+Give a chain of steps, such as a higher rate making loans dearer, so households and firms borrow and spend less, so total spending grows more slowly. Saying rates "affect the economy" with no chain earns little.
+
+**How do you write an evaluation on monetary policy in Cambridge O Level Economics 2281?**
+Use the case data, explain why points such as time lags or low confidence weaken the policy in that case, and end with a verdict rather than a list.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281, syllabus for examination in 2026, published by Cambridge University Press & Assessment (Cambridge Assessment International Education): section 4.4, Monetary policy.

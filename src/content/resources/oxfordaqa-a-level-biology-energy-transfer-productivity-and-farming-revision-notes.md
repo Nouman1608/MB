@@ -203,6 +203,20 @@ Method in steps for an evaluation question:
 - Describing a farming practice but not linking it to energy flow or respiration.
 - Evaluating with only economic points when the question asks for environmental and ethical ones too.
 
+## Frequently asked questions
+
+**How do you calculate the net production of a consumer?**
+Use N = I − (F + U + R), where I is the chemical energy of food ingested, F is the energy in faeces, U is the energy in urine and R is the energy lost in respiration.
+
+**Why is energy transfer between trophic levels inefficient?**
+Not all of an organism is eaten, not all that is eaten is absorbed, some absorbed material is excreted, and much absorbed energy is used in respiration and lost as heat.
+
+**What is the difference between a biological agent and a pesticide?**
+A biological agent is a living organism used to reduce pests, such as the parasitic wasp *Encarsia formosa* against whitefly. A pesticide is a chemical, such as an insecticide, herbicide or fungicide.
+
+**What is the difference between a pyramid of biomass and a pyramid of energy?**
+A pyramid of biomass shows the dry mass present at one moment, so it is a stock and can be inverted. A pyramid of energy shows energy transferred over time, so it is a rate.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology, Version 5.1, for International A-level exams May/June 2018 onwards, sections 3.3.4.1 and 3.3.4.2.

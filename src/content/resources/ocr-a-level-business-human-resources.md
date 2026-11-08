@@ -228,7 +228,7 @@ Management is directing resources to achieve objectives. Standard functions: pla
 Leadership is influencing others to follow towards goals.
 
 - **Trait theory:** Carlyle and Galton, leaders are born with qualities. **McGregor:** Theory X assumes workers dislike work and need control; Theory Y assumes they seek responsibility.
-- **Behavioural:** Blake and Moulton's managerial grid plots concern for production against concern for people.
+- **Behavioural:** Blake and Mouton's managerial grid plots concern for production against concern for people.
 - **Contingency:** Lewin's styles and Tannenbaum and Schmidt's continuum, from boss-centred to subordinate-centred, with the best choice depending on the situation.
 - **Functional:** Adair's Three Circles, balancing task, team and individual.
 
@@ -306,6 +306,23 @@ A strategy is the long-term plan combining the topics above. Its impact depends 
 - Giving a definition and stopping, where the command word is evaluate.
 - Using a ratio without average staff.
 - Naming a theorist but not applying it.
+
+## Frequently asked questions
+
+**What is workforce planning?**
+Workforce planning matches the number and skills of staff to future needs: staff required, less existing staff after expected leavers, equals recruits needed. It depends on forecasts that may be wrong.
+
+**What flexible working practices are in OCR A Level Business H431?**
+Part-time work, flexi-time, compressed hours, home or remote working, annualised hours, term-time working, structured time off in lieu, job sharing and zero hours contracts.
+
+**What is the difference between line and staff relationships?**
+Line relationships link a manager to subordinates in a direct chain of command. Staff relationships are advisory, such as HR specialists advising line managers.
+
+**What is Vroom's expectancy theory?**
+Vroom argued that effort depends on expecting that effort leads to performance and that performance leads to a reward the employee values.
+
+**Is high labour turnover always bad?**
+Not always. High turnover may signal poor pay or management, but some turnover brings fresh ideas, so interpret it against past results, targets and rivals.
 
 ## Official syllabus
 

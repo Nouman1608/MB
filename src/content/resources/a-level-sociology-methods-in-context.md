@@ -13,13 +13,13 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-education-theory-methods-7192"
     subtopic: "methods-in-context-7192"
-description: "How AQA A-Level Sociology's distinctive 20-mark methods-in-context question works -- applying sociological research methods to the study of education -- for Paper 1 of AQA A-Level Sociology (7192)."
+description: "How the 20-mark methods in context question works in AQA A Level Sociology (7192) Paper 1: applying research methods to education, with a worked example."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers **3.1.2 Methods in Context**, the second of three compulsory content areas
@@ -116,6 +116,20 @@ depth and reaching an overall judgement about whether the method suits the topic
   point directly from it.
 - Aim for three or four genuinely combined points explored in depth, closing with an explicit
   judgement, rather than many shallow points.
+
+## Frequently asked questions
+
+**How many marks is the methods in context question worth?**
+It is worth 20 marks on Paper 1 of AQA A Level Sociology (7192), a 2-hour, 80-mark exam that also has 50 marks of Education questions and 10 marks of Theory and Methods.
+
+**Can you revise methods in context as a separate topic?**
+Not really. Section 3.1.2 names no content of its own; it is the skill of applying the research methods from 3.1.3 to the education content from 3.1.1, so you revise both and practise combining them.
+
+**What does a high-scoring methods in context point look like?**
+It names a feature of the method and a feature of the education setting and explains how they interact. For example, structured interviews suit teachers' limited time, but teachers may give socially desirable answers about how they treat pupils.
+
+**Which education-specific issues are worth preparing in advance?**
+Gatekeeper access through head teachers and parents, school timetabling, the power imbalance between adult researchers and pupils, and informed consent with minors recur across many different items.
 
 ## Official syllabus
 

@@ -7,17 +7,23 @@ topic: "System Software"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9618"]
-syllabusSeries: "2027-2029"
+syllabusSeries: "2026"
 stage: "A"
 order: 16
 syllabusTopics:
   - qualification: "a-level"
     topic: "a-system-software"
-description: "Original exam-style questions with full worked answers on interpreters, syntax rules and Backus-Naur Form, Reverse Polish Notation, multi-tasking, shortest remaining time scheduling and disk thrashing, for Cambridge AS & A Level Computer Science (9618)."
+  - qualification: "a-level"
+    topic: "a-system-software"
+    subtopic: "purposes-of-an-operating-system-os"
+  - qualification: "a-level"
+    topic: "a-system-software"
+    subtopic: "translation-software"
+description: "Practice questions with worked answers for Cambridge A Level Computer Science 9618: interpreters, BNF, Reverse Polish Notation, scheduling and disk thrashing."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
 featured: false
@@ -119,3 +125,17 @@ Each question practises a skill tested in the June 2025 Paper 31. After each ans
 - Leaving a stray `|` at the start or end of a list of alternatives in BNF.
 - Saying SRT runs the shortest job first without explaining pre-emption when a shorter process arrives.
 - Stating that multi-tasking runs processes concurrently without giving the benefit that was asked for.
+
+## Frequently asked questions
+
+**How does an interpreter execute a program?**
+An interpreter translates and executes one line at a time, stops and reports an error when it finds one, and produces no executable file, so lines are translated again every time they run.
+
+**Why does BNF need recursion?**
+Recursion lets a definition refer to itself so that a repeated part can be any length. BNF without recursion only allows a fixed number of characters, which is a common way to lose marks.
+
+**What is shortest remaining time scheduling?**
+Shortest remaining time is a pre-emptive routine that always runs the process with the least processor time left, so a newly arrived shorter process replaces the running one. Short processes finish quickly, minimising average waiting time.
+
+**What is disk thrashing?**
+Disk thrashing happens when memory is too small, so pages swapped out to secondary storage are needed again almost at once. The computer spends more time swapping pages than executing instructions and performance falls sharply.

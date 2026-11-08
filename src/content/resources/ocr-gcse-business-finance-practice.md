@@ -132,6 +132,17 @@ These questions cover section 5, Finance (5.1 to 5.5), of the OCR GCSE (9-1) Bus
 - Giving one side of an evaluation, or no judgement at the end.
 - Leaving out working, so one slip costs the whole answer.
 
+## Frequently asked questions
+
+**What finance topics are tested in OCR GCSE Business J204?**
+Section 5 of OCR GCSE (9-1) Business (J204) covers the finance function, sources of finance, revenue, costs, profit and loss including margins and average rate of return, break-even, and cash and cash flow.
+
+**Should you round break-even output up or down?**
+Round break-even output up to the next whole unit, because selling a fraction of a unit is not possible and rounding down would leave the business just short of covering its costs.
+
+**How do you pick the right source of finance in an exam answer?**
+Match the source to how much is needed, for how long, and whether the business is new or established with a profit history. A source with no link to the business in the question earns little credit.
+
 ## Next steps
 
 - Re-read the [Finance revision notes](/resources/ocr-gcse-business-finance-revision-notes/) and the [Finance study guide](/resources/ocr-gcse-business-finance/).

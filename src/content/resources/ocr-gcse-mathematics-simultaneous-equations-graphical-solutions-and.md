@@ -285,6 +285,20 @@ Each bisection halves the interval, so you gain accuracy steadily but slowly.
 
 Next, use the [revision notes](/resources/ocr-gcse-mathematics-simultaneous-equations-graphical-solutions-and-revision-notes/), and then attempt the [practice questions](/resources/ocr-gcse-mathematics-simultaneous-equations-graphical-solutions-and-practice/). Use the [checklist](/checklists/ocr/gcse/mathematics/) to track progress, and the [diagnostics](/diagnostics/) to find weak spots.
 
+## Frequently asked questions
+
+**How do you solve simultaneous equations using a graph?**
+Draw both lines on the same axes, using a ruler, and read the coordinates where they cross. A graph reading is approximate unless the crossing falls exactly on grid lines.
+
+**How do you find the roots of a quadratic from its graph?**
+Read the x-coordinates where the curve meets the x-axis, because y = 0 there. To solve a quadratic equal to a number k, draw the line y = k and read where it crosses the curve.
+
+**What is interval bisection?**
+Interval bisection tests the midpoint of an interval where the sign of f changes, then keeps the half that still contains the sign change. The interval halves each time; this method is Higher tier only.
+
+**Which sign-change method should you use in OCR GCSE Maths?**
+The OCR GCSE Mathematics J560 specification states that specific methods will not be requested, so you can use either a decimal search or interval bisection. Show your test values and their signs in a table.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, published by OCR.

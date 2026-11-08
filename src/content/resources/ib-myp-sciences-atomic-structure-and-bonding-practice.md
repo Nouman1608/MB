@@ -17,9 +17,9 @@ syllabusTopics:
     topic: "ib-myp-sciences-related-concepts"
 description: "Original criterion A-D practice questions on atoms, isotopes, ions and bonding, with fully worked answers, for IB MYP Sciences students in years 4 and 5."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -185,6 +185,20 @@ Learn the content with the [study guide](/resources/ib-myp-sciences-atomic-struc
 - Classifying from one piece of data only; use melting point **and** conductivity.
 - Means that include an obvious anomaly without comment.
 - Extended responses that describe uses but never evaluate or conclude.
+
+## Frequently asked questions
+
+**What are common mistakes in atomic structure questions?**
+Frequent slips include giving the electron's relative mass as 0 rather than negligible, putting too many electrons in the third shell instead of starting the fourth, and subtracting electrons for a negative ion when they should be added.
+
+**How do you classify a substance by its structure from data?**
+Use more than one piece of evidence, such as melting point and electrical conductivity together, and quote the data in your answer. Classifying from one property alone is a common error.
+
+**How are IB MYP Sciences practice answers marked?**
+Real MYP work is judged against criterion level descriptors, so the mark points on this page are a revision aid, not IB marks. Questions are labelled by the criterion they train.
+
+**What does a Criterion D question on materials need?**
+An extended Criterion D response should weigh benefits against costs or drawbacks and reach a conclusion. Describing uses without evaluating them limits the credit.
 
 ## Next steps
 

@@ -9,11 +9,11 @@ qualifications: ["o-level"]
 syllabusCodes: ["2058"]
 syllabusSeries: "2026-2027"
 order: 3
-description: "Working the four-from-five question structure of Cambridge O Level Islamiyat 2058 -- which two questions are compulsory, how to choose the other two, a time budget matched to the 8-mark and 14-mark tariffs and a worked answer structure."
+description: "Question choice and timing for Cambridge O Level Islamiyat 2058: the two compulsory questions, choosing the other two, and timing for 8- and 14-mark tariffs."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-07
 featured: false
 ---
@@ -134,3 +134,14 @@ knowledge given in part (a).
 resource, not a reproduction of any official mark scheme or past paper. Always check the current
 syllabus for your examination year at
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697279-2026-2027-syllabus.pdf).*
+
+## Frequently asked questions
+
+**How is 2058 Paper 1 structured?**
+Paper 1 lasts 1 hour 30 minutes and is worth 50 marks (50%). It has five questions: Questions 1 and 2 are compulsory and you choose two of Questions 3 to 5. Question 1 is worth 8 marks (4 + 4) and each other answered question 14 marks (10 + 4).
+
+**How should I divide 90 minutes?**
+By marks: about 13 minutes for the 8-mark Question 1 and about 24 minutes for each 14-mark question (13 + 72 = 85), leaving about 5 minutes to choose questions and check.
+
+**How should I choose the optional questions?**
+Read all three in full and choose those where you can answer both parts, not just the topic you like.

@@ -246,6 +246,23 @@ A fictional example: the country of Kesmar relies on a tree crop that takes six 
 - Using "long run" and "short run" as labels without saying what is fixed in each.
 - Forgetting the HL point is HL only, or pushing it into SL answers where it is not required.
 
+## Frequently asked questions
+
+**What are the determinants of price elasticity of supply?**
+The IB DP Economics guide lists five: time, mobility of factors of production, unused capacity, ability to store, and the rate at which costs increase as output grows.
+
+**What do perfectly elastic and perfectly inelastic supply curves look like?**
+A perfectly inelastic supply curve is vertical, with PES = 0. A perfectly elastic supply curve is horizontal at one price, with PES equal to infinity.
+
+**Why is the PES of primary commodities lower than for manufactured goods?**
+Crops and mines take a long time to expand, land and deposits are fixed and hard to switch, many farm goods are perishable, and pushing fixed land harder makes costs rise quickly. Manufacturers can add shifts and hold stock. This is HL only.
+
+**How does unused capacity affect PES?**
+A firm with spare machines, space and labour can raise output without new investment, so supply is more elastic. A firm already at full capacity must build or buy more first.
+
+**What does a PES between 0 and 1 mean?**
+Supply is relatively inelastic: quantity supplied changes by a smaller percentage than price.
+
 ## Next steps
 
 Next, work through the [practice questions](/resources/ib-dp-economics-elasticity-of-supply-practice/), then use the [revision notes](/resources/ib-dp-economics-elasticity-of-supply-revision-notes/) as a quick recap.

@@ -219,6 +219,23 @@ Condensed recall notes for OxfordAQA International AS and A-level Economics (964
 - Stopping at a list of advantages and disadvantages with no judgement.
 - Mixing in fiscal or monetary policy points that belong in other sections.
 
+## Frequently asked questions
+
+**What is the difference between a supply-side policy and a supply-side improvement?**
+A supply-side policy is a deliberate government measure to expand productive capacity or efficiency. A supply-side improvement is any gain in capacity or efficiency, including those firms make on their own through invention, innovation, training and investment.
+
+**Why does the marginal tax rate matter more than the average rate for incentives?**
+The incentive to work more depends on how much of each extra unit earned the worker keeps, which is set by the marginal rate. A higher tax-free allowance mainly helps people entering work, while a lower rate rewards extra effort.
+
+**How do supply-side policies affect inflation?**
+If policies raise productivity faster than wages, unit labour costs fall, so firms' costs and the price level fall. SRAS and LRAS shift right.
+
+**Does a rise in potential output automatically raise actual output?**
+No. If demand does not rise, extra capacity stands idle and the negative output gap widens, so supply-side policy needs enough demand to use the new capacity.
+
+**Which types of unemployment do supply-side policies target?**
+Supply-side policies mainly target structural unemployment, and frictional unemployment through better matching. They do little for demand-deficient unemployment.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, section 3.2.4.3 Supply-side policies and section 3.5 Quantitative skills. First teaching September 2020; first International AS exams May/June 2021; first International A-level exams May/June 2022. Published by OxfordAQA.

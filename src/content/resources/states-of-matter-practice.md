@@ -24,9 +24,9 @@ syllabusTopics:
     subtopic: "diffusion"
 description: "Original exam-style practice questions with full worked answers on the three states, changes of state, diffusion and heating curves."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -120,3 +120,17 @@ Related: [States of Matter revision notes](/resources/states-of-matter-revision-
 - *(0620 Extended, 5070 required)* Saying pressure is caused by particles "pushing" rather than colliding.
 - Describing a change of state when the command word asks for an explanation.
 - Saying diffusion happens in solids, or that particles in a solid have no energy at all.
+
+## Frequently asked questions
+
+**Which states of matter questions are Extended in Cambridge IGCSE Chemistry 0620?**
+Explaining changes of state and heating curves using kinetic particle theory, explaining gas temperature and pressure effects in terms of particles, and the effect of relative molecular mass on diffusion are Extended. O Level 5070 candidates need all of it.
+
+**What is a common mistake when describing particles in a solid?**
+Saying the particles do not move. Particles in a solid vibrate about fixed positions, and they still have energy.
+
+**Why does describing a change of state lose marks when the question says explain?**
+An explanation must refer to particle energy, motion and the forces between particles. An answer that only says what happens does not earn the explanation marks.
+
+**How should gas pressure be explained in terms of particles?**
+Say that gas particles move randomly and collide with the walls of the container, and that the force of these collisions per unit area is the pressure. Saying the particles push on the walls is a common error.

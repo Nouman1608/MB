@@ -18,11 +18,11 @@ syllabusTopics:
     subtopic: "drugs-cambridge-igcse-biology"
 description: "Study guide to Cambridge IGCSE Biology 0610 topic 15: what a drug is, how antibiotics treat bacterial infections and how resistance such as MRSA develops."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide teaches topic 15 (Drugs) of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. Topic 15 has one section, 15.1 Drugs, with four Core learning outcomes and one Supplement outcome. Core outcomes are tested on Papers 1 and 3 (and Extended candidates must know them too); the Supplement outcome, marked "Extended only" below, is tested on Papers 2 and 4. The topic is short, but it links directly to disease (topic 10) and natural selection (topic 18), so questions on it often carry more marks than its length suggests.
@@ -245,6 +245,20 @@ Number of bacteria = 2 to the power 8 = 256
 ## Where to go next
 
 Use the [revision notes](/resources/igcse-biology-0610-drugs-revision-notes/) for a one-page summary and a quick self-test, then try the [practice questions](/resources/igcse-biology-0610-drugs-practice/), which include data and extended-response questions with mark-by-mark answers. Topic 16 follows in the syllabus: start with the [Reproduction study guide](/resources/igcse-biology-0610-reproduction/). Tick the topic off on the [checklist](/checklists/cambridge/igcse/biology/) when you can do every outcome in the table above without notes.
+
+## Frequently asked questions
+
+**What is an antibiotic in Cambridge IGCSE Biology 0610?**
+An antibiotic is a drug used to treat bacterial infections by killing bacteria or stopping their growth. Topic 15 also covers why antibiotics do not affect viruses and how bacteria become resistant to them.
+
+**What is MRSA?**
+MRSA is a strain of the bacterium Staphylococcus aureus that is resistant to antibiotics. It is the example of a resistant bacterium named in the 0610 syllabus.
+
+**How does using antibiotics only when essential limit antibiotic resistance?**
+Every use of an antibiotic kills non-resistant bacteria and leaves any resistant ones to survive and reproduce. Using antibiotics less often gives fewer chances for resistant bacteria to be selected, so resistant strains develop and spread more slowly.
+
+**Why can a resistant strain of bacteria spread so quickly?**
+Bacteria reproduce by dividing, so their numbers double with each division. A single resistant bacterium can produce hundreds of resistant descendants in a few hours.
 
 ## Official syllabus
 

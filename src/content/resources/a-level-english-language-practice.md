@@ -13,11 +13,17 @@ stage: "A"
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-3-language-analysis-9093"
-description: "Original exam-style practice questions with full worked answers on language change and child language acquisition for Cambridge International AS & A Level English Language (9093), Paper 3 Language Analysis."
+  - qualification: "a-level"
+    topic: "paper-3-language-analysis-9093"
+    subtopic: "section-a-language-change-9093"
+  - qualification: "a-level"
+    topic: "paper-3-language-analysis-9093"
+    subtopic: "section-b-child-language-acquisition-9093"
+description: "Original practice with full worked answers on language change and child language acquisition for Cambridge 9093 Paper 3 Language Analysis (A Level only)."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -80,3 +86,17 @@ Because both sections reward specific, illustrated examples over general stateme
 - Giving stages of acquisition without approximate ages or features.
 - Describing a theory without a criticism when one is asked for.
 - Treating over-generalisation as a simple error rather than evidence of rule learning.
+
+## Frequently asked questions
+
+**Is Cambridge 9093 Paper 3 Language Analysis an AS or A Level paper?**
+Paper 3 Language Analysis is A Level only. Its two sections cover language change and child language acquisition.
+
+**How do I write about child language acquisition stages for full marks?**
+Name each stage and give its approximate age range and typical features. Stages given without ages or features are a common way to lose marks.
+
+**Why should I give a criticism with each theory of language acquisition?**
+When a question asks for a criticism, describing a theory without one leaves marks unclaimed, and pairing each theory with its standard criticism shows evaluation rather than description.
+
+**How can I build an evidence bank for Paper 3?**
+Both sections reward specific, illustrated examples over general statements, so prepare a small bank in advance: one example for each named process of language change, and the acquisition stages with approximate ages and examples of typical speech.

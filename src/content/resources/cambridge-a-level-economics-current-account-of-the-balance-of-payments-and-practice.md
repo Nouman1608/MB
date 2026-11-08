@@ -142,6 +142,20 @@ These questions cover sections 6.3 and 6.5 (outcomes 6.3.1 to 6.3.4 and 6.5.1 to
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 current account practice questions from past papers?**
+No. They are original practice questions with worked answers covering sections 6.3 and 6.5 of the Cambridge International AS and A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**What are common mistakes in current account calculations?**
+Common errors include giving a deficit without a minus sign, giving the balance without a unit, using the balance of goods and services as the current account balance, and using the wrong base for a percentage of GDP.
+
+**Is a current account surplus always good?**
+No. A large persistent surplus has problems as well as benefits, so answers should show that a surplus is not automatically good. The government objective is stability of the current account, not a balance of exactly zero.
+
+**How should you explain a policy to correct a current account deficit?**
+State the chain from the policy to imports, exports or income flows and then to the account. Stating a policy without that link, or ending with a summary and no judgement, loses marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, sections 6.3 and 6.5 (Cambridge University Press & Assessment).

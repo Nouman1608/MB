@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "series-cambridge-alevel-maths"
 description: "Revision notes for Cambridge 9709 Paper 1 Series: binomial terms, AP and GP formulae, convergence and a quick self-test with answers."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -217,6 +217,22 @@ Other distinctions that cost marks:
   <figcaption>A recurrence settles at the limit L where L = f(L); the cobweb shows the terms closing in on it.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you test whether three numbers are in an AP or a GP?**
+Three terms a, b, c are in arithmetic progression when 2b = a + c, and in geometric progression when b² = ac.
+
+**Which binomial expansions are in Cambridge 9709 Paper 1?**
+Paper 1 covers (a + b)ⁿ for a positive integer n, using ⁿCᵣ and n!. The expansion of (1 + x)ⁿ for rational n belongs to Pure Mathematics 3.
+
+**Which term of (a + b)ⁿ uses ⁿCᵣ?**
+The general term ⁿCᵣ aⁿ⁻ʳ bʳ is the (r + 1)th term. Counting from r = 1 by mistake shifts every term by one place.
+
+**Which GP sum formula should you use when r > 1?**
+Use a(rⁿ − 1)/(r − 1) to keep the numbers positive. When r < 1, use a(1 − rⁿ)/(1 − r); both give the same value.
+
+**Are the series formulae in the 9709 formula list?**
+Yes. The binomial expansion and the AP and GP term and sum formulae are in MF19, but you should know them well enough to use without looking.
 
 ## Official syllabus
 

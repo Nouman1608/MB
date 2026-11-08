@@ -133,6 +133,20 @@ Links: [Edexcel A Level Economics hub](/boards/edexcel/a-level/economics/), [pri
 - Calling any growth harmful to the environment without referring to total emissions.
 - Giving conflicts as certain, with no reference to size, time or cause.
 
+## Frequently asked questions
+
+**Should growth be measured with real or nominal GDP?**
+Use real GDP, which removes the effect of rising prices. Quoting nominal growth as the growth objective is a common error in Edexcel International A Level Economics questions.
+
+**What is the difference between a shift of the Phillips curve and a movement along it?**
+A change in aggregate demand moves the economy along the short-run Phillips curve. A shock such as a rise in imported fuel prices shifts the whole curve, so every unemployment rate comes with higher inflation.
+
+**What is the difference between the budget deficit and the national debt?**
+The deficit is a flow, the gap between spending and revenue in one year. The debt is a stock, the total owed from past borrowing.
+
+**How should you present a conflict between objectives?**
+Do not present it as certain. Explain the chain, then say how the size of the change, the time period and the cause of the problem affect whether the conflict holds.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/edexcel-ial-economics-macroeconomic-objectives-and-conflicts-between-them-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-macroeconomic-objectives-and-conflicts-between-them/).

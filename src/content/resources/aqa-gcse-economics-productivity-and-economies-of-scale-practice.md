@@ -142,6 +142,20 @@ Benefit: technical economies [1], as a bigger factory with larger machines sprea
 - Writing about benefits only in an evaluation answer, with no costs and no judgement.
 - Assuming that a bigger firm always has a higher profit.
 
+## Frequently asked questions
+
+**Is higher production the same as higher productivity?**
+No. Production is the total amount made; productivity is output per worker or per hour. A firm can produce more by hiring workers while productivity falls.
+
+**What should I write when a question asks for average cost?**
+Give the cost per unit, total cost divided by output, with the unit such as £ per unit, rather than total cost.
+
+**Does a bigger firm always make more profit?**
+No. Growth pays only while economies of scale outweigh the costs; diseconomies of scale can raise average cost and cut profit per unit.
+
+**How should I evaluate whether a firm should grow?**
+Weigh the benefits, such as lower average costs, against the costs, such as the money needed and the risk of diseconomies, and finish with a judgement.
+
 ## Next steps
 
 - Review the [revision notes](/resources/aqa-gcse-economics-productivity-and-economies-of-scale-revision-notes/) and the [study guide](/resources/aqa-gcse-economics-productivity-and-economies-of-scale/).

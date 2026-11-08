@@ -13,7 +13,7 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "component-1-written-exam-9239"
-description: "How the source-based Written Exam works within Cambridge International AS & A Level Global Perspectives & Research (9239), a syllabus built around the Critical Path approach to research and reasoning."
+description: "How the 45-mark, source-based Written Exam works in Cambridge AS & A Level Global Perspectives & Research 9239, built around the Critical Path approach."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -157,3 +157,20 @@ Disagreeing with a conclusion instead of examining the reasoning. Naming a falla
 - Interrogate statistics for baseline, sample and fair comparison.
 - Explain perspectives by reference to their contexts and recognise trade-offs between them.
 - Sustain an argument, address counter-arguments, and acknowledge its limits.
+
+## Frequently asked questions
+
+**What is the Cambridge Global Perspectives 9239 Written Exam?**
+Component 1 is an externally set and marked written paper, worth 45 marks, based on unseen source material about a global issue. It tests reasoning skills from the Critical Path rather than memorised subject content.
+
+**What are the routes through Cambridge AS & A Level Global Perspectives & Research?**
+There are three: AS Level only, with Components 1-3 in one series; a staged A Level, with Components 1-3 in Year 1 and Component 4 in Year 2; or the full A Level in a single series with all four components.
+
+**What fallacies should you know for the 9239 Written Exam?**
+Useful ones include hasty generalisation, false cause, false dichotomy, ad hominem, appeal to authority, circular reasoning and straw man. Always explain how the flaw operates in the specific source rather than just naming it.
+
+**How should you check statistics in a source?**
+Ask what the baseline is, how large the sample is and whether percentages hide small absolute numbers. Check whether the comparison being made is fair.
+
+**What changes at A Level compared with identifying perspectives?**
+The demand rises from identifying perspectives to critically evaluating them and constructing a sustained argument of your own, supported by evaluated evidence.

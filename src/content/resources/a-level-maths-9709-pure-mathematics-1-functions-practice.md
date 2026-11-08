@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "functions-cambridge-alevel-maths"
 description: "12 original Cambridge 9709 Paper 1 questions on functions -- ranges, composites, inverses and graph transformations -- with mark-by-mark answers."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -164,6 +164,23 @@ Related: the [Functions study guide](/resources/a-level-mathematics-pure-mathema
 - Using scale factor 2 instead of ½ for the stretch in y = f(2x).
 - A sketch of f and f⁻¹ with no line y = x, or with end points that do not swap coordinates.
 - Giving decimals when the question asks for exact answers.
+
+## Frequently asked questions
+
+**How do you find the range of a function on a restricted domain?**
+Work out whether the function is increasing or decreasing on the domain, evaluate it at the end points, and take care with < and ≤ at any end point that is not included.
+
+**How do you show a composite function cannot be formed?**
+Compare the range of the inner function with the domain of the outer one. If the range includes values outside that domain, the composite cannot be formed.
+
+**How do you decide the sign of the square root in an inverse function?**
+Use the domain of the original function. If the domain lies to the left of the vertex of a parabola, for example, take the negative root, and give a reason.
+
+**What transformation maps y = f(x) onto y = f(2x)?**
+A stretch parallel to the x-axis with scale factor ½. Using scale factor 2, or words such as "squash", loses marks in Cambridge 9709 Paper 1.
+
+**What is the domain of an inverse function?**
+The domain of f⁻¹ is the range of f. Using the domain of f instead is a common error.
 
 ## Next steps
 

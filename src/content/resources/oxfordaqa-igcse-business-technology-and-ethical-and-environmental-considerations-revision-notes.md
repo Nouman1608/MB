@@ -277,6 +277,20 @@ For evaluate and justify, the conclusion must depend on a detail in the case. Us
 - Evaluating without a judgement, or with a conclusion that could fit any business.
 - Dropping the units, such as £ or years, in a calculation.
 
+## Frequently asked questions
+
+**What does sustainability mean in OxfordAQA IGCSE Business?**
+The specification gives no definition. The usual definition is serving today's demand without leaving later generations short of what they will need.
+
+**Which environmental areas does the 9225 specification name?**
+The named areas include traffic congestion, recycling, disposing of waste, noise pollution and air pollution. For each, link the problem to a response the business could make, such as fewer, fuller deliveries to cut congestion.
+
+**Does ethical behaviour include religious observance?**
+Yes. Ethical behaviour includes religious observance, such as allowing staff time for prayer or festivals, and charitable giving.
+
+**What is the difference between e-commerce and digital communication?**
+E-commerce is selling online, while digital communication is contact with stakeholders, such as owners, employees, customers and suppliers.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Business (9225) specification, version 3.1, for International GCSE exams May/June 2022 onwards, published by OxfordAQA. Sections 3.2.1 and 3.2.2.

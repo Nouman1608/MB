@@ -295,6 +295,20 @@ Possible responses: raise pay if it is clearly below the market, redesign jobs, 
 - Saying pay "does not matter" because of Herzberg. His claim is that pay does not create lasting motivation, not that it is irrelevant.
 - Answering an SL question with HL content that is not asked for.
 
+## Frequently asked questions
+
+**What is the difference between hygiene factors and motivators?**
+In Herzberg's theory, hygiene factors such as pay, working conditions, policy, supervision and job security prevent dissatisfaction. Motivators such as achievement, recognition, responsibility, the work itself and advancement create lasting satisfaction.
+
+**What are the five levels of Maslow's hierarchy of needs?**
+From lowest to highest, the levels are physiological, safety, love/belonging (social), esteem and self-actualization.
+
+**What is the difference between formative and summative appraisal?**
+Formative appraisal is ongoing feedback aimed at development, such as coaching. Summative appraisal is a review at the end of a period that judges performance, often linked to pay or promotion; appraisal is HL only in section 2.4.
+
+**What are the signs of demotivation at work?**
+Signs include absence, lateness, falling output, more complaints, more errors and resignations. Link them to a cause in the case, such as pay seen as unfair, repetitive work or no route to promotion.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, International Baccalaureate Organization. Section 2.4, Motivation and demotivation, in Unit 2: Human resource management.

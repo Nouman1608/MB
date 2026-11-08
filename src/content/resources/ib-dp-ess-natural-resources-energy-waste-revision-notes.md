@@ -24,9 +24,9 @@ description: "Condensed IB DP ESS revision notes on natural capital, sustainable
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
 ---
 
 For full explanations and worked examples, start with the
@@ -188,6 +188,23 @@ year at 0.8 t/m³. Volume per year = 12,000 ÷ 0.8 = 15,000 m³, so lifespan = 1
 - Mixing up the three levels of the pollution management model — composting is controlling release, not altering human activity.
 - Forgetting units (TWh, m³, t per year) in calculated answers.
 - Treating energy security and climate goals as the same thing, when the question wants the tension between them.
+
+## Frequently asked questions
+
+**What is the difference between natural capital and natural income?**
+Natural capital is the stock, such as a forest, and natural income is the flow it produces, such as the yearly timber growth. Calling the whole resource natural income is a common error.
+
+**Why is harvesting at maximum sustainable yield risky?**
+Stock estimates are uncertain, and a population held at about half its carrying capacity has little margin. A poor year or an overestimate can push the stock into decline.
+
+**What is the difference between energy efficiency and energy conservation?**
+Energy efficiency uses technology to get the same output from less energy, such as LED bulbs or insulation. Energy conservation means using less energy by choice, such as turning devices off.
+
+**What is the difference between percentage change and percentage points?**
+A renewable share rising from 17.9% to 30.6% is a rise of 12.7 percentage points, but a relative increase of 70.9%. Say which one you mean in energy-mix answers.
+
+**What is the waste hierarchy in IB ESS?**
+From best to worst, it runs reduction, reuse, recycling, energy recovery and landfill. Strategies higher up the hierarchy tackle causes rather than outcomes.
 
 ## Official syllabus
 

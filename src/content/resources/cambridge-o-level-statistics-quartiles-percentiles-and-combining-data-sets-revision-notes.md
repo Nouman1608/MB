@@ -168,6 +168,23 @@ mean = 60/8 = 7.5
 
 Work through the [practice questions](/resources/cambridge-o-level-statistics-quartiles-percentiles-and-combining-data-sets-practice/) once you can finish the self-test without notes. Section 6 builds on this unit, in the [guide on adding or multiplying by a constant](/resources/cambridge-o-level-statistics-effects-of-adding-or-multiplying-by-a-constant-and/).
 
+## Frequently asked questions
+
+**What is a percentile?**
+A percentile divides the data into hundredths. The 90th percentile has 90% of the data at or below it, so the lower quartile, median and upper quartile are the 25th, 50th and 75th percentiles.
+
+**What is the formula for Σx² when combining data sets?**
+For a set of n values with mean x̄ and standard deviation σ, Σx² = n(σ² + x̄²). Writing it as just n × σ² leaves out the mean squared, which is a common error.
+
+**Why must a cumulative frequency graph start at zero?**
+The graph needs a starting point at cumulative frequency 0 at the lower boundary of the first class. Leaving it out shifts the graph and makes readings in the first class wrong.
+
+**Should you round the combined mean before finding the combined standard deviation?**
+No. Rounding the combined mean before using it to find the combined variance shifts the standard deviation. Keep full accuracy until the final square root.
+
+**Which part of the Cambridge O Level Statistics 4040 syllabus do these notes cover?**
+They cover sections 5.3 and 5.4 of the 4040 syllabus for examination in 2025, 2026 and 2027: quartiles and percentiles, and the mean and standard deviation of combined sets of data.
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment, topic 5, sections 5.3 and 5.4.

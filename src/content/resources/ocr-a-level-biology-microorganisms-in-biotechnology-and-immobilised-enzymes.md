@@ -235,6 +235,20 @@ Examples include glucose isomerase (glucose to fructose, a sweeter sugar), lacta
 - Forgetting the dilution factor or the volume plated when calculating viable cell numbers.
 - Saying immobilised enzymes "work faster" without qualifying that diffusion may slow them.
 
+## Frequently asked questions
+
+**Why are microorganisms used in biotechnology?**
+Microorganisms have short life cycles, simple growth requirements and simple genetic material that can be modified. Fermenters can run all year in any climate on a small area of land, and there are fewer ethical objections than with animals.
+
+**How is mycoprotein made?**
+Mycoprotein is made from the fungus *Fusarium venenatum*, grown in continuous culture on a carbohydrate source with added nitrogen. The mycelium is harvested, heat-treated to lower its RNA content and processed into meat substitutes.
+
+**How does bacteria turn milk into yoghurt?**
+*Lactobacillus* and *Streptococcus thermophilus* ferment lactose in milk to lactic acid. The fall in pH denatures milk protein, which makes it curdle.
+
+**What is biotechnology?**
+Biotechnology is the industrial use of living organisms, or parts of them, to produce food, drugs or other products, as covered in OCR A Level Biology A (H420) section 6.2.1.
+
 ## Official syllabus
 
 OCR Advanced GCE in Biology A (H420), Version 4.1 (April 2026), for first assessment in 2025, published by OCR.

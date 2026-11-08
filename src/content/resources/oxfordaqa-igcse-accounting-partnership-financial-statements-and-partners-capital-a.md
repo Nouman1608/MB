@@ -262,6 +262,23 @@ The specification asks you to comment as well as prepare. A good comment states 
 - Forgetting that a debit balance on a current account is deducted in equity.
 - Adding the current accounts to the capital accounts and then adding the loan again.
 
+## Frequently asked questions
+
+**What is a partnership appropriation account?**
+The appropriation account follows the income statement and shows how the profit for the year is shared between the partners. Interest on drawings is added, then interest on capital and partnership salaries are deducted, and the residual profit is split in the profit sharing ratio.
+
+**Is interest on a partner's loan an expense or an appropriation of profit?**
+Interest on a partner's loan is an expense, so it goes in the income statement before the profit for the year is found. Interest on capital and partnership salaries are appropriations, so they belong in the appropriation account instead.
+
+**What is the difference between a partner's capital account and current account?**
+The capital account holds the fixed amount each partner has invested, which usually stays the same from year to year. The current account records the partner's share of profit, interest and salary, less drawings and interest on drawings, so it changes every year.
+
+**What does a debit balance on a partner's current account mean?**
+A debit balance means the partner has withdrawn more than the profit, interest and salary credited to them. It is shown as a deduction within the current accounts on the statement of financial position and is worth commenting on as a sign the partner is overdrawing.
+
+**Are admission and retirement of partners examined in OxfordAQA IGCSE Accounting 9215?**
+No. The 9215 specification states that admission, retirement of a partner, dissolution of partnerships and changes to the profit sharing ratio will not be examined.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), specification version 1.2, first teaching 2024, first examined 2026 (OxfordAQA, an Oxford University Press and AQA partnership). Subject content section 3.4, Partnerships.

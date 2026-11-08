@@ -12,7 +12,7 @@ order: 5
 syllabusTopics:
   - qualification: "a-level"
     topic: "fundamentals-of-data-representation"
-description: "Number systems, two's complement, floating point, character sets, images, sound, compression and encryption for AQA A Level Computer Science, with worked examples."
+description: "AQA A Level Computer Science 7517 section 4.5 guide: number bases, two's complement, floating point, character sets, images, sound, compression and encryption."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-08
@@ -112,3 +112,17 @@ A stereo recording lasts 40 seconds at 22,050 Hz with 16-bit samples. Size = 22,
 6. Apply RLE to AAABBBBC. *Answer: (A,3), (B,4), (C,1).*
 7. State why a one-time pad is unbreakable when used correctly. *Answer: the key is random, as long as the message and never reused, so every plaintext is equally likely.*
 8. Even parity is used. The seven data bits 1011001 contain four 1s. What is the parity bit? *Answer: 0.*
+
+## Frequently asked questions
+
+**When is a floating-point number normalised?**
+A floating-point number is normalised when the first two bits of the mantissa are different, 01 for a positive number and 10 for a negative one. This gives maximum precision and a unique representation.
+
+**What does the Nyquist theorem say?**
+The sample rate must be at least twice the highest frequency in a sound for it to be reproduced faithfully.
+
+**Can a parity bit correct errors?**
+No. A parity bit only detects an odd number of changed bits and cannot say where the error is. Majority voting, which sends each bit three times, can correct a single error per group.
+
+**Why is the Vernam cipher unbreakable when used correctly?**
+The key is truly random, at least as long as the message and used only once, so every plaintext is equally likely. In practice the key is hard to share securely.

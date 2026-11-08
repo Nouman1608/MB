@@ -28,11 +28,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-5-18"
 description: "11 original IB DP Maths AI HL differential equations questions on separation, slope fields, Euler's method and phase portraits, with marked answers."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -179,6 +179,20 @@ Learn the methods in the [differential equations study guide](/resources/ib-dp-m
 - Plan your final weeks with the [AI exam preparation guide](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Do you need to show working for Euler's method if you use a GDC table?**
+Yes. Write down the update formula and at least the first step by hand, because the formula line earns the method mark. A GDC table with no formula shown can lose it.
+
+**What topics do these IB Maths AI HL differential equations questions cover?**
+They cover syllabus sections 5.14–5.18 of the IB Maths AI guide: setting up and separating differential equations, slope fields, Euler's method for single and coupled equations, phase portraits from eigenvalues and second order equations. All of it is HL only.
+
+**Why must a general solution keep its arbitrary constant?**
+The general solution describes the whole family of solutions, so the constant must stay in it until an initial condition fixes it. Placing a constant on both sides and never combining them usually costs the accuracy mark for the particular solution.
+
+**How should you answer a question that asks you to state a region of a slope field?**
+Give an inequality or a clear description of where the gradient is positive or negative, such as above a named curve. Saying only "positive gradient" does not identify where the region is.
 
 ## Official syllabus
 

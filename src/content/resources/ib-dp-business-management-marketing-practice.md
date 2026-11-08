@@ -12,13 +12,13 @@ order: 4
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-business-unit-4"
-description: "Original practice questions with full worked answers covering marketing planning, sales forecasting, market research, the seven Ps and international marketing, for IB Diploma Programme Business Management Unit 4."
+description: "Original IB DP Business Management Unit 4 practice questions with worked answers: marketing planning, market research, the seven Ps and international marketing."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -97,6 +97,20 @@ test Unit 4 -- asking students to justify a marketing recommendation for a speci
 not just define marketing terms in isolation. Question 7 deliberately stacks two straightforward
 explanations (7a, 7b), an HL-only applied-reasoning question (7c), and a full evaluate-style question
 (7d) into one scenario, mirroring Paper 2's typical final-question structure.
+
+## Frequently asked questions
+
+**What are the three extra Ps in the seven Ps of the marketing mix?**
+The three Ps added to Product, Price, Place and Promotion are People, Process and Physical evidence. They matter most for service businesses, where the product is intangible and experienced.
+
+**Are Unit 4 marketing questions mostly calculations?**
+No. Unlike Unit 3, Unit 4 questions are more evenly split between qualitative justification, such as recommending a sampling method, and applied numerical reasoning, such as interpreting a sales forecast against production capacity.
+
+**How should you answer a question on standardizing or adapting a marketing mix?**
+Weigh the trade-off for the specific product and markets in the case: standardization lowers cost with one global approach, while adaptation tailors the mix to local culture, language, laws and consumer behaviour. International marketing is HL only in IB DP Business Management.
+
+**What topics are in IB DP Business Management Unit 4?**
+Unit 4, Marketing, covers introduction to marketing, marketing planning, sales forecasting (HL only), market research, the seven Ps of the marketing mix, and international marketing (HL only).
 
 ## Official syllabus
 

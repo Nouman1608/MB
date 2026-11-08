@@ -223,6 +223,19 @@ A comment that only says "the model is not realistic" earns little, because it n
   <figcaption>Eliminating t gives a quadratic in tan α, so there are usually two launch angles.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you find velocity from a position vector?**
+Differentiate each component of r with respect to t to get v = dr/dt. Differentiate again for the acceleration.
+
+**What constant do you add when integrating a vector?**
+Add a constant vector, with one unknown for each component. Find each component from the given position or velocity at a known time.
+
+**What does "smooth" mean in a mechanics model?**
+A smooth surface has no friction, so the only contact force is perpendicular to the surface.
+
+**How do you find the least speed of a particle?**
+Write |v|² as a function of t, then differentiate it or complete the square to find its minimum. Take the square root to give the speed.
 
 ## Official syllabus
 

@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "bonding-structure-and-the-properties-of-matter-8462"
     subtopic: "ionic-bonding-8462"
-description: "Original exam-style practice questions with full worked answers on the three types of chemical bond and ionic bonding by electron transfer for AQA GCSE Chemistry (8462), 4.2.1.1 and 4.2.1.2."
+description: "Original practice questions with worked answers for AQA GCSE Chemistry 8462 on the three strong bond types, ionic bonding by electron transfer and ion charges."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-04
 featured: false
 ---
@@ -89,3 +89,17 @@ Related: [Chemical Bonds and Ionic Bonding study guide](/resources/gcse-aqa-chem
 ## Approaching chemical bonding and ionic bonding questions
 
 Always justify a bond-type identification from the elements' positions in the periodic table rather than simply naming the bond, since full marks depend on showing the metal/non-metal (or non-metal/non-metal, or metal-alone) reasoning explicitly. For any electron-transfer explanation, work through the same three-part structure every time: state each element's outer-shell electron count and group, state how many electrons are lost or gained and the resulting ion charge, then name the noble gas electronic structure each ion now matches, before finally stating that electrostatic attraction between the oppositely charged ions is what forms the bond — this sequence mirrors exactly how the specification itself builds the explanation, and applying it consistently to an unfamiliar element pair, not just to memorised examples like sodium chloride, is what the exam actually tests.
+
+## Frequently asked questions
+
+**What are the three types of strong chemical bond in AQA GCSE Chemistry 8462?**
+The three types are ionic, covalent and metallic bonds. Ionic bonding occurs between metals and non-metals, covalent between non-metals, and metallic bonding in metals.
+
+**How do you work out the charge on an ion from the group number?**
+Metals in Groups 1 and 2 lose electrons to form 1+ and 2+ ions, and non-metals in Groups 6 and 7 gain electrons to form 2− and 1− ions. This simple rule only applies reliably to these four groups.
+
+**How should you describe the formation of an ionic bond?**
+Describe two steps: electrons are transferred from the metal atom to the non-metal atom, then the oppositely charged ions are held together by strong electrostatic forces of attraction. Saying only "electrons move" is incomplete.
+
+**What do examiners look for in an ionic dot and cross diagram?**
+Dots and crosses should show electrons from the different atoms, and each finished ion needs square brackets and its charge. Missing brackets and charges is a frequent way to lose marks.

@@ -19,11 +19,11 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "thermal-physics-cambridge-igcse-physics"
     subtopic: "transfer-of-thermal-energy-cambridge-igcse-physics"
-description: "The kinetic particle model, gas pressure and the kelvin scale, thermal expansion, specific heat capacity, changes of state, and conduction, convection and radiation -- everything Topic 2 Thermal physics asks of Core and Extended candidates in Cambridge IGCSE Physics 0625, examined 2026-2028."
+description: "Cambridge IGCSE Physics 0625 Topic 2 thermal physics guide for 2026-2028: particle model, gas pressure, kelvin scale, specific heat capacity and heat transfer."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-08-24
 updatedDate: 2026-09-28
 featured: false
@@ -250,6 +250,20 @@ Where more than one transfer process matters:
   metal tubes and fins, and air moving over the large surface area of the
   fins carries it away by convection. Despite its name, a car radiator
   transfers energy mainly by conduction and convection, not radiation.
+
+## Frequently asked questions
+
+**What is in Topic 2 Thermal physics of IGCSE Physics 0625?**
+Topic 2 covers the kinetic particle model, gas pressure and the kelvin scale, thermal expansion, specific heat capacity, changes of state, and conduction, convection and radiation. It is the second of the six topics in the Cambridge IGCSE Physics 0625 syllabus.
+
+**Why does temperature stay constant during a change of state?**
+While a substance melts, boils, condenses or freezes, energy is being transferred but the temperature stays constant. The energy goes into overcoming, or is released by, the forces between particles rather than changing their kinetic energy.
+
+**When does an object stay at a constant temperature?**
+An object stays at a constant temperature when it transfers energy away at the same rate as it receives energy. This radiation balance is Supplement content and also explains how greenhouse gases affect the Earth's temperature.
+
+**What is the difference between conduction, convection and radiation?**
+Conduction needs particle contact, convection needs a fluid whose density can change, and radiation needs no medium at all. Questions often describe a situation, such as a vacuum flask, and ask which process dominates.
 
 ## Official syllabus
 

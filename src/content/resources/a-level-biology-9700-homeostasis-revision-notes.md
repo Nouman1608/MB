@@ -22,11 +22,11 @@ syllabusTopics:
     subtopic: "homeostasis-in-plants-cambridge-alevel-biology"
 description: "Cambridge 9700 homeostasis revision notes: nephron, ADH, glucagon signalling, insulin, biosensors and stomata, with a self-test and common mark losses."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 These revision notes cover topic 14, Homeostasis, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027: section 14.1 (outcomes 1–11) and section 14.2 (outcomes 1–4). This is **A Level content**, examined on Paper 4 alongside AS knowledge, and it may set the context for Paper 5. For full explanations and worked examples, use the [homeostasis study guide](/resources/a-level-biology-9700-homeostasis/).
@@ -273,6 +273,23 @@ H₂O₂ + colourless chromogen —(peroxidase)→ coloured product + H₂O
 - Saying glucose is not filtered in the glomerulus.
 - Stating that ABA itself enters the guard cell as the second messenger.
 - In percentage change calculations, dividing by the final value instead of the **starting** value.
+
+## Frequently asked questions
+
+**Where is urea made?**
+Urea is made in the liver by deamination of excess amino acids. The Cambridge 9700 syllabus does not require the details of the cycle.
+
+**Where is ADH made and released?**
+ADH is made in the hypothalamus and released from the posterior pituitary gland. It acts on the collecting ducts of the kidney.
+
+**What is the difference between glycogenesis, glycogenolysis and gluconeogenesis?**
+Glycogenesis makes glycogen from glucose, glycogenolysis breaks glycogen down to glucose, and gluconeogenesis makes new glucose from non-carbohydrate sources.
+
+**Does ADH make the kidney actively reabsorb water?**
+No. ADH increases the permeability of the collecting duct to water by causing vesicles containing aquaporins to fuse with the membrane; water then moves by osmosis.
+
+**What is the second messenger when ABA closes stomata?**
+Calcium ions entering the guard cell cytoplasm act as the second messenger. ABA is the hormone and binds to receptors on the guard cell membrane.
 
 ## Official syllabus
 

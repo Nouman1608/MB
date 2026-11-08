@@ -258,6 +258,20 @@ If you forget a rotational equation, write the translational one and swap each s
 
 Test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-rotational-motion-moment-of-inertia-torque-and-angular-practice/), and condense the topic with the [revision notes](/resources/oxfordaqa-a-level-physics-rotational-motion-moment-of-inertia-torque-and-angular-revision-notes/).
 
+## Frequently asked questions
+
+**What is the difference between angular speed and angular velocity?**
+Angular speed, ω = Δθ/Δt in rad s⁻¹, has size only. Angular velocity also has a direction, the sense of rotation, so in a single-axis problem one sense is positive and the other negative.
+
+**What are the equations for uniform angular acceleration?**
+They match the SUVAT equations: ω = ω₀ + αt, θ = (ω₀ + ω)t/2, θ = ω₀t + ½αt² and ω² = ω₀² + 2αθ. Each leaves out one quantity, so pick the one that omits the quantity you do not have.
+
+**What unit is angular displacement measured in?**
+Angular displacement is measured in radians, and one revolution is 2π rad. Convert degrees and revolutions per minute to radians and rad s⁻¹ before using any rotational formula.
+
+**Which section of the OxfordAQA 9630 specification does this guide cover?**
+It covers section 3.13.1 (rotational motion) of OxfordAQA International AS and A-level Physics (9630), Version 4.4, which is International A-level only.
+
 ## Official syllabus
 
 Published by OxfordAQA: International AS and A-level Physics (9630), specification Version 4.4, which applies to exams from May/June 2020. Source for this page: section 3.13.1, Rotational motion.

@@ -246,6 +246,23 @@ A conclusion must refer to the data, use words such as "mean" and "increased", r
 - Averaging an anomaly into the mean without comment.
 - Mixing mm and µm in a magnification calculation.
 
+## Frequently asked questions
+
+**What is the difference between a hypothesis and a prediction?**
+A hypothesis is a testable explanation built from scientific theory. A prediction is what you expect to see in the results if the hypothesis is right.
+
+**What is the difference between accuracy and precision?**
+Accuracy is how close a measurement is to the true value. Precision is how close repeat measurements are to each other, so results can be precise without being accurate.
+
+**What is the difference between random and systematic error?**
+Random error scatters readings unpredictably above and below the true value and is reduced by repeating and averaging. Systematic error shifts every reading the same way, for example a zero error, and repeating does not remove it.
+
+**When should you use a bar chart or a line graph?**
+Use a line graph or scatter graph when both variables are numerical and continuous, and a bar chart with gaps when the independent variable is a category such as species or site. Grouped continuous data goes in a histogram with touching bars.
+
+**How much of the OCR GCSE Biology A (J247) exam tests practical skills?**
+OCR says 15% of the questions in the written papers assess practical skills. None of the working scientifically statements is Higher Tier only, so Foundation and Higher candidates need all of it.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), first assessment 2018, published by OCR: section 5e Working scientifically (statements 1.2, 1.3, 1.4 and 2a to 2d), the mathematical skills table in section 5f, and Topic B7 Practical skills.

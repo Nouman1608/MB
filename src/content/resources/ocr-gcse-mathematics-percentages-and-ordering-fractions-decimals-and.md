@@ -344,6 +344,20 @@ The profit is compared with the buying price, because that is the original value
 
 Write the multiplier you use, as this shows your method even if the arithmetic slips. Give money to two decimal places. Write "increase" or "decrease" after a percentage change. In a "show that" question, show every step.
 
+## Frequently asked questions
+
+**What does percent mean?**
+Percent means "out of 100" or parts per hundred. So 35% is 35/100, which is 0.35 as a decimal.
+
+**Do a 20% decrease and a 20% increase cancel out?**
+No. The second change works on a different amount, so 20% off and then 20% on does not return to the starting value.
+
+**How do you calculate simple interest?**
+Find the interest per year as amount × rate ÷ 100, then multiply by the number of years. For £1,500 at 3% for 4 years, the interest is £45 a year, so £180 in total.
+
+**How do you order negative decimals?**
+Negatives are smaller than positives, and for negative numbers a larger digit means a smaller number. For example, −2.5 is smaller than −2.05.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics (J560), Version 2.1 (August 2026), first assessment 2017, published by OCR. Sections 2.03a-2.03c and 2.04a-2.04b.

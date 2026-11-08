@@ -30,9 +30,9 @@ syllabusTopics:
     subtopic: "corrosion-of-metals"
 description: "Original exam-style practice questions with full worked answers on the reactivity series, extraction, displacement, rusting and alloys."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -137,3 +137,17 @@ Related: [Metal Properties and Reactivity revision notes](/resources/metals-reac
 - Saying alloys are harder because the atoms bond more strongly.
 - Treating "reacts with water" and "reacts with steam" as the same test — steam supplies more energy, so a metal that barely reacts with cold water can react rapidly with steam.
 - Assuming any protective coating gives sacrificial protection — only a coating metal more reactive than iron (such as zinc) does; paint and grease are barrier methods only.
+
+## Frequently asked questions
+
+**Are these metal reactivity practice questions from IGCSE past papers?**
+No. They are original exam-style practice questions with worked answers, covering the reactivity series, extraction, displacement, rusting and alloys.
+
+**What is the difference between a metal reacting with water and with steam?**
+They are different tests. Steam supplies more energy, so a metal that barely reacts with cold water can react rapidly with steam.
+
+**Does any protective coating give sacrificial protection?**
+No. Only a coating metal more reactive than iron, such as zinc, gives sacrificial protection. Other coatings act only as barriers.
+
+**Which parts of this topic are 0620 Extended?**
+The blast furnace symbol equation, explaining alloy hardness in terms of structure, sacrificial protection and galvanising, and displacement reactions with aqueous metal ions go beyond 0620 Core. They are required for O Level 5070.

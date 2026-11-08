@@ -15,9 +15,9 @@ syllabusTopics:
     subtopic: "further-mechanics"
 description: "Original exam-style practice questions with full worked answers on momentum in two dimensions, circular motion and vertical circles for Edexcel IAL Physics."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -116,3 +116,17 @@ T = (0.40 × 5.2² ÷ 0.65) + (0.40 × 9.81) [1]
 - Saying the centripetal force changes the speed.
 - Forgetting that Ek = p²/2m is derived from Ek = ½mv² and p = mv, and is chosen specifically because momentum, not velocity, is given.
 - Confusing CORE PRACTICAL 9 (force and change of momentum) with CORE PRACTICAL 10 (ICT analysis of sphere collisions).
+
+## Frequently asked questions
+
+**Which Edexcel IAL Physics unit covers further mechanics?**
+Further mechanics is sub-topic 4.3 of Unit 4 (Further Mechanics, Fields and Particles) in Pearson Edexcel International A Level Physics (YPH11).
+
+**What is the formula for centripetal force?**
+Centripetal force is F = mv²/r = mω²r, directed towards the centre of the circle. It is the resultant of the real forces acting, not an extra force.
+
+**Why must angles be in radians in circular motion?**
+The equations v = ωr and ω = 2π/T measure angular displacement in radians, where 2π radians = 360°. Mixing degrees and radians in the same calculation gives wrong answers.
+
+**What mistakes lose marks in further mechanics questions?**
+Common errors include not resolving momentum into components in two-dimensional collisions, using the string length instead of the radius in a conical pendulum, and forgetting that tension and weight both act towards the centre at the top of a vertical circle.

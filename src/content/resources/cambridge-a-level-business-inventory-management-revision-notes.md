@@ -247,6 +247,20 @@ Suppose the cafe above has a chart reading 360 kg at day 0 and 160 kg at day 8, 
 - Misreading a chart: calling the vertical rise usage, or ignoring the lead time gap.
 - Defining supply chain management as just buying from suppliers, rather than coordinating the whole flow.
 
+## Frequently asked questions
+
+**What are the three types of inventory?**
+Raw materials (inputs not yet used), work in progress (part-finished goods) and finished products (completed goods awaiting sale or delivery).
+
+**What is the difference between buffer inventory and the re-order level?**
+Buffer inventory is the minimum safety level the business plans not to go below. The re-order level is the higher level that triggers a new order, so that the delivery arrives before inventory falls below the buffer.
+
+**How do you read an inventory control chart?**
+The downward slope shows the rate of usage, the vertical rise shows a delivery and its height is the order quantity, and the gap between ordering and the rise is the lead time.
+
+**Does the order quantity change the re-order level?**
+No. The re-order level depends on daily usage, lead time and buffer inventory. The order quantity changes the maximum inventory level and how long each cycle lasts.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education), section 4.2 Inventory management.

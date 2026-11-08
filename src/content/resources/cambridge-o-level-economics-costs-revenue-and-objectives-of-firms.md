@@ -240,6 +240,20 @@ Examiner insight: a question that gives you figures expects numbers in your answ
 
 Condense this with the [revision notes](/resources/cambridge-o-level-economics-costs-revenue-and-objectives-of-firms-revision-notes/), then test yourself with the [practice questions](/resources/cambridge-o-level-economics-costs-revenue-and-objectives-of-firms-practice/).
 
+## Frequently asked questions
+
+**What does section 3.7 of Cambridge O Level Economics 2281 cover?**
+Section 3.7 covers firms' costs, revenue and objectives: the six cost definitions and their calculation and diagrams, total and average revenue, the influence of sales on revenue, and the objectives of survival, social welfare, profit maximisation and growth.
+
+**Can you use a calculator in Cambridge O Level Economics?**
+The assessment overview says calculators may be used in the examination. Still show your working, such as TC = FC + VC with the figures, so the examiner can see your method.
+
+**Why is the lowest point of ATC to the right of the lowest point of AVC?**
+Just past the lowest point of average variable cost, average fixed cost is still falling by more than average variable cost is rising, so average total cost keeps falling for a while before it turns up.
+
+**Can a firm's objectives change over time?**
+Yes. Objectives are not mutually exclusive: a new firm may aim first for survival, then growth, and later profit.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge O Level Economics 2281 syllabus for examination in 2026*, version 2, section 3.7. Cambridge University Press & Assessment.

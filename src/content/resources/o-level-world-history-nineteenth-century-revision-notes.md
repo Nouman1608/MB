@@ -12,11 +12,26 @@ order: 1
 syllabusTopics:
   - qualification: "o-level"
     topic: "core-content-option-a-2147"
+  - qualification: "o-level"
+    topic: "core-content-option-a-2147"
+    subtopic: "revolutions-1848-2147"
+  - qualification: "o-level"
+    topic: "core-content-option-a-2147"
+    subtopic: "unification-italy-2147"
+  - qualification: "o-level"
+    topic: "core-content-option-a-2147"
+    subtopic: "unification-germany-2147"
+  - qualification: "o-level"
+    topic: "core-content-option-a-2147"
+    subtopic: "overseas-empires-2147"
+  - qualification: "o-level"
+    topic: "core-content-option-a-2147"
+    subtopic: "causes-first-world-war-2147"
 description: "Condensed recall notes on the 1848 revolutions, unification, alliances, imperialism and the causes of the First World War for Cambridge O Level History 2147."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: replaced the Eastern Question section (outside the 1848-1914 syllabus) with the Balkans 1890-1914 and the syllabus imperialism case studies; added the 1902 Anglo-Japanese Alliance; FAQ added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -51,21 +66,25 @@ The **Ems Telegram** provoked France into declaring war, so the southern German 
 | **Triple Alliance** (1882) | Germany, Austria-Hungary, Italy |
 | **Triple Entente** (1907) | Britain, France, Russia |
 
-Britain abandoned "splendid isolation" because German naval expansion threatened its naval supremacy; the *Entente Cordiale* (1904) and the Anglo-Russian agreement (1907) settled colonial disputes.
+Britain abandoned "splendid isolation" — first with the **Anglo-Japanese Alliance (1902)** — and German naval expansion pushed it towards France and Russia; the *Entente Cordiale* (1904) and the Anglo-Russian agreement (1907) settled colonial disputes.
 
 **Alliances turned a local crisis into a general war** — but they were also intended to deter one, and noting both sides is what raises an answer.
 
-## The Eastern Question and imperialism
+## The Balkans and imperialism
 
-**The Eastern Question** — what would happen to the territories of the declining **Ottoman Empire**, and which power would gain from its collapse.
+**Developments in the Balkans (1890–1914)** — as Ottoman power collapsed, Russia and Austria-Hungary competed for influence.
 
 | Power | Concern |
 |---|---|
-| **Russia** | Wanted access to the Mediterranean through the Straits; posed as protector of Ottoman Christians |
-| **Britain** | Wanted to block Russian expansion towards the Mediterranean and the route to India, so generally propped up the Ottoman Empire |
-| **Austria-Hungary** | Feared Balkan nationalism, encouraged by Ottoman retreat, spreading to her own Slav subjects |
+| **Russia** | Saw itself as protector of the Slavs, backed Serbia, wanted influence over the Straits |
+| **Austria-Hungary** | Feared Serbian nationalism would spread to its own Slav subjects |
+| **Serbia** | Wanted to unite the South Slavs, including the Serbs of Bosnia |
 
-**Motives for imperialism in Africa:** **economic** (raw materials such as rubber and cotton, and new markets); **strategic** (routes such as the Suez Canal and the Cape, and coaling stations for naval power); **national prestige and rivalry** (colonies as a mark of great-power status, and seizing territory to deny it to a rival); **ideological/religious** (the "civilising mission" and missionary activity).
+Key crises: **Bosnian Crisis 1908–09** (Austria annexed Bosnia; Russia backed down when Germany supported Austria) and the **Balkan Wars 1912–13** (Serbia doubled in size).
+
+**Imperialism (syllabus case studies):** French **assimilation and direct rule** (Faidherbe, Senegal); British **indirect rule** (Lugard, Nigeria); Belgian **private imperialism** (Leopold II, the Congo); the British in **India** after the events of 1857; the **Spanish–American War** (1898) and US control of the Philippines and intervention in Cuba to 1906.
+
+**Motives for imperialism:** **economic** (raw materials such as rubber and cotton, and new markets); **strategic** (routes such as the Suez Canal and the Cape, and coaling stations for naval power); **national prestige and rivalry** (colonies as a mark of great-power status, and seizing territory to deny it to a rival); **ideological/religious** (the "civilising mission" and missionary activity).
 
 ## Long-term causes — MANIA
 
@@ -101,7 +120,7 @@ Examiners reward **weighing**, not listing. Always reach an explicit conclusion,
 - Omitting dates, names and treaties — precision separates the bands.
 - Narrating events instead of explaining or evaluating.
 - A conclusion that summarises rather than judges.
-- Treating the Eastern Question as simply "the decline of Turkey" without naming which power gained what from the outcome.
+- Treating the Balkans as simply "the decline of Turkey" without explaining why Austria-Hungary and Russia each saw vital interests at stake.
 - Listing imperial motives as a single undifferentiated list, rather than grouping them as economic, strategic, prestige and ideological.
 
 ## Self-test
@@ -111,6 +130,17 @@ Examiners reward **weighing**, not listing. Always reach an explicit conclusion,
 3. Why did Britain abandon splendid isolation?
 4. What does MANIA stand for?
 5. Why did the July Crisis escalate so rapidly?
-6. What was the Eastern Question, and why did Britain and Russia take opposite positions on it?
+6. Why did the Bosnian Crisis of 1908–09 make war more likely?
 
-**Answers:** 1. The revolutionaries divided between liberals and radicals; the middle classes withdrew support when property seemed threatened; the peasantry remained uninvolved; the conservative powers retained their armies — any two. 2. Isolate each opponent diplomatically; fight a limited war for a defined objective; stop once that objective is secured. 3. German naval expansion under Tirpitz threatened British naval supremacy, and colonial disputes with France and Russia had been settled by the 1904 and 1907 agreements. 4. Militarism, Alliances, Nationalism, Imperialism, Assassination. 5. The Schlieffen Plan required an immediate attack on France once Russia mobilised, so German military planning left almost no time for diplomacy. 6. The Eastern Question was the problem of what would happen to the declining Ottoman Empire's territories; Russia wanted access to the Mediterranean through the Straits, while Britain wanted to block that same Russian expansion to protect the route to India, so she generally propped the Ottoman Empire up rather than letting it collapse.
+**Answers:** 1. The revolutionaries divided between liberals and radicals; the middle classes withdrew support when property seemed threatened; the peasantry remained uninvolved; the conservative powers retained their armies — any two. 2. Isolate each opponent diplomatically; fight a limited war for a defined objective; stop once that objective is secured. 3. German naval expansion under Tirpitz threatened British naval supremacy, and colonial disputes with France and Russia had been settled by the 1904 and 1907 agreements. 4. Militarism, Alliances, Nationalism, Imperialism, Assassination. 5. The Schlieffen Plan required an immediate attack on France once Russia mobilised, so German military planning left almost no time for diplomacy. 6. Austria-Hungary's annexation of Bosnia enraged Serbia; Russia backed down in 1909 when Germany supported Austria, and was determined not to be humiliated again, so it backed Serbia in 1914.
+
+## Frequently asked questions
+
+**Why did the 1848 revolutions fail?**
+The revolutionaries split between liberals and radicals, the middle classes withdrew once property seemed threatened, the peasants stayed largely uninvolved, and the conservative powers kept control of their armies.
+
+**What was Bismarck's method of unification?**
+Isolate each opponent diplomatically, fight a limited war for a defined objective (Denmark 1864, Austria 1866, France 1870–71), and stop once the objective was achieved.
+
+**Was the assassination at Sarajevo the main cause of the First World War?**
+It was the trigger, not the underlying cause: alliances, the arms race, imperial rivalry and Balkan nationalism had already made a general war likely.

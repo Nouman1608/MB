@@ -247,6 +247,20 @@ short-term liabilities = same total
 - Missing opening or closing work in progress in factory cost of production.
 - Not checking that the statement of financial position balances.
 
+## Frequently asked questions
+
+**Does a service business have cost of sales?**
+No. A service business sells skills or time rather than goods, so its expenses come straight off revenue without a cost of sales section.
+
+**Does a balanced statement of financial position prove the accounts are right?**
+No. A statement of financial position can still balance when an adjustment has been missed, because the error affects both profit and the related asset or liability. A balance check does not find these errors.
+
+**How is the allowance for irrecoverable debts charged in the statement of profit or loss?**
+Write off irrecoverable debts first, calculate the new allowance on the remaining trade receivables, and charge only the movement in the allowance. Charging the full allowance is a common error.
+
+**How are a manufacturer's inventories shown in the statement of financial position?**
+A manufacturing sole trader shows inventories in three parts under current assets: raw materials, work in progress and finished goods.
+
 ## Official syllabus
 
 Cambridge International Education, Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1), section 5.1 Sole traders.

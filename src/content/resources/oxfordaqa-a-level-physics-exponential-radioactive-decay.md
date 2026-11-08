@@ -215,6 +215,23 @@ If you had taken ln of the **measured** rate, the points would curve and the gra
 - Using mass in micrograms or milligrams directly in N = (m/M)N_A.
 - Giving too many significant figures. Match the data supplied.
 
+## Frequently asked questions
+
+**What is the decay constant?**
+The decay constant λ is the probability per unit time that any one given nucleus will decay, measured in s⁻¹ or another inverse time unit. A large λ means a short-lived nuclide.
+
+**What is the equation for exponential decay?**
+N = N₀e^(−λt), and the activity follows the same law, A = A₀e^(−λt). It comes from the decay rule ΔN/Δt = −λN.
+
+**How is half-life related to the decay constant?**
+Putting N = ½N₀ into the exponential law gives ln 2 = λT½, so T½ = ln2/λ.
+
+**How can decay be modelled without the exponential function?**
+In each short time step Δt, each nucleus has probability λΔt of decaying, so the new number is N(old)(1 − λΔt). Repeating this step by step models the decay.
+
+**Does half-life describe one nucleus?**
+No. Half-life describes a large sample: half of the nuclei decay in that time, but which ones decay is unpredictable.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), specification version 4.4, for exams from May/June 2020 onwards, published by Oxford International AQA Examinations: section 3.9.2 Exponential changes in radioactivity (International A-level only).
@@ -228,4 +245,3 @@ OxfordAQA International AS and A-level Physics (9630), specification version 4.4
   <img src="https://img.marlbridge.com/a-physics-nuclear-physics--09-aphy-nuclear-radius.webp" width="900" height="1110" alt="Nuclei with A = 4, 64 and 216 have radii 1.9, 4.8 and 7.2 fm from R = 1.2 A^(1/3) fm. R plotted against the cube root of A is a straight line of gradient R0. Mass and volume both scale with A, so every nucleus has the same density, about 2.3 x 10^17 kg per cubic metre." loading="lazy">
   <figcaption>Nuclear radius grows as the cube root of A, so nuclear density is constant.</figcaption>
 </figure>
-

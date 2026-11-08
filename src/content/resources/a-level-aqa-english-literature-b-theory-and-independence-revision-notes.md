@@ -12,11 +12,14 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "non-exam-assessment-theory-and-independence-7717"
-description: "Condensed recall notes on text selection, the AQA Critical anthology, the conventional vs re-creative essay choice, and the commentary requirement for AQA A-Level English Literature B's Theory and Independence non-exam assessment (7717)."
+  - qualification: "a-level"
+    topic: "non-exam-assessment-theory-and-independence-7717"
+    subtopic: "text-selection-7717"
+description: "Condensed notes on the 7717 Theory and Independence NEA: text selection, the AQA Critical anthology, re-creative writing and the commentary requirement."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-05
 featured: false
 ---
@@ -171,3 +174,20 @@ understanding that the re-creative piece alone cannot show on its own.
 5. Any text that appears on the A-level exam paper set-text lists,
 even if it is not the specific text your own centre studies for the
 exam.
+
+## Frequently asked questions
+
+**How long are the AQA English Literature B NEA essays?**
+Each of the two Theory and Independence essays should be 1,250 to 1,500 words, with 1,500 the maximum. AQA's teaching guide excludes quotations from the count, and for a re-creative response the creative piece and its commentary count together in the one total.
+
+**Can I use an exam set text for the 7717 NEA?**
+No. Any text that appears on the A-level exam paper set-text lists is banned for the NEA, even if your own centre studies a different exam text.
+
+**Can I write about a single poem from a collection for the NEA?**
+Only for a re-creative piece. If you use a poetry or short-story collection, you must study the whole text and analyse at least two poems or stories in detail, unless your piece is re-creative, when a single poem or story can be the sole focus.
+
+**Is the commentary optional for a re-creative NEA piece?**
+No. The commentary must explicitly connect your creative choices to the base text and to the Critical anthology section you used, explaining why you made each significant choice and what critical reading it produces.
+
+**Can one of my NEA texts be a translation?**
+Yes. One of the two texts may be a text in translation, provided it is a translation recognised by academia as high quality; it is then treated as the original author's own words for assessment.

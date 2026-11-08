@@ -161,6 +161,20 @@ These questions cover statements B4.1a to B4.1d of the OCR GCSE (9-1) Gateway Sc
 - Take one of our [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/) if you want to go through any of these with a teacher.
 
+## Frequently asked questions
+
+**How do you explain the role of decomposers for full marks?**
+Say that decomposers secrete enzymes, absorb the soluble products, respire and release carbon dioxide, and that mineral ions are returned to the soil. Writing that decomposers "eat dead things" or simply "break it down" does not explain the role.
+
+**How do you calculate the rate of decay from mass data?**
+Subtract the final mass from the starting mass, then divide the mass lost by the time taken, giving units such as g per day. For several intervals, work out each interval separately so a change in rate is not missed.
+
+**How do you describe a set of decay results in a table?**
+For a "describe" question, state the pattern and quote figures from the table, such as the peak value and the values at each end. Leave any explanation until the question asks for it.
+
+**What variables matter in a decay or composting investigation?**
+Name the independent variable you change (temperature, water content or oxygen), the dependent variable you measure (loss of mass), and the control variables such as starting mass, type of material and piece size. Writing "keep everything the same" without naming them is weak.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), for first assessment in 2018, published by OCR: statements B4.1a to B4.1d and mathematical learning outcomes BM4.1i to BM4.1v.

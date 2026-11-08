@@ -153,6 +153,20 @@ The same shape works for other extended questions on this unit. For shift work a
 - Treating correlational evidence, such as personality and insomnia, as proof of cause.
 - Describing narcolepsy symptoms but giving no explanation.
 
+## Frequently asked questions
+
+**What is the difference between circadian, infradian and ultradian rhythms?**
+Circadian rhythms last about 24 hours, such as the sleep/wake cycle. Infradian rhythms last longer than a day, such as the menstrual cycle. Ultradian rhythms repeat more than once a day, such as the cycle of sleep stages.
+
+**Why is REM sleep called paradoxical sleep?**
+The brain looks awake on the EEG, but the body is almost paralysed.
+
+**What are the three Ps in Spielman's model of insomnia?**
+They are predisposing, precipitating and perpetuating factors.
+
+**What is the main cause of narcolepsy with cataplexy?**
+Narcolepsy with cataplexy is linked to the loss of brain cells that produce the neurotransmitter hypocretin, also called orexin.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Psychology (9685) specification, Version 3.1 (International A-level exams May/June 2020 onwards), section 3.3.1 Psychology of sleep; Unit 3 details in section 2.3; assessment objectives and weightings in section 4.3.

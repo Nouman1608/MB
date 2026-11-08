@@ -22,9 +22,9 @@ syllabusTopics:
     subtopic: "a-kinetic-theory-of-gases"
 description: "Condensed recall notes on the equation of state, kinetic theory and the mole for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -153,3 +153,16 @@ Hence internal energy depends only on temperature — which is what makes isothe
   <figcaption>ΔU = q + W, with W the work done on the gas, negative when the gas expands.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the equation for the mean kinetic energy of a gas molecule?**
+The mean translational kinetic energy of a molecule is ½m⟨c²⟩ = (3/2)kT, where k is the Boltzmann constant and T is the absolute temperature in kelvin.
+
+**How do you calculate the r.m.s. speed of gas molecules?**
+The root-mean-square speed is c_rms = √⟨c²⟩ = √(3kT/m) = √(3RT/M), where m is the mass of one molecule and M is the molar mass in kg mol⁻¹.
+
+**When do real gases deviate from ideal gas behaviour?**
+Real gases deviate most at high pressure and low temperature, when molecules are close together so their own volume and the attractions between them are no longer negligible.
+
+**Why is the internal energy of an ideal gas only kinetic?**
+The kinetic model assumes no intermolecular forces except during collisions, so an ideal gas has no molecular potential energy. Its internal energy is entirely kinetic and depends only on temperature.

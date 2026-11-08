@@ -322,6 +322,20 @@ Read the wording before you reach for a formula.
 
 Work through the [practice questions](/resources/oxfordaqa-igcse-mathematics-percentage-change-interest-and-exponential-growth-and-practice/), then condense your notes using the [revision notes](/resources/oxfordaqa-igcse-mathematics-percentage-change-interest-and-exponential-growth-and-revision-notes/). The [Number practice set](/resources/igcse-oxfordaqa-mathematics-number-practice/) tests the rest of the strand.
 
+## Frequently asked questions
+
+**What is a multiplier in percentages?**
+A multiplier is the decimal you multiply by to apply a percentage change. An increase of 12% is a multiplier of 1.12 and a decrease of 12% is 0.88.
+
+**What is the formula for exponential growth and decay?**
+Amount = start × kᵗ, where k = 1 + r/100 for growth and k = 1 − r/100 for decay. Growth has k above 1 and decay has k between 0 and 1.
+
+**Which references cover percentages and interest in OxfordAQA 9260?**
+In OxfordAQA International GCSE Mathematics (9260), N15 covers percentage change, simple and compound interest and reverse percentages, and N20 covers repeated proportional change and exponential growth and decay.
+
+**How do you choose the right percentage method?**
+If you have old and new amounts, use change ÷ original. If you have the original and a percentage, multiply by the multiplier. If you have the final amount and need the start, divide by the multiplier.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Spec references: N15 (3.1.2) and N20 (3.1.3).

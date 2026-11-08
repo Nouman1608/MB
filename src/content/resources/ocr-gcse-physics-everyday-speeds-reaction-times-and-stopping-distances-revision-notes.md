@@ -238,6 +238,23 @@ Method for an "explain" question on stopping distance:
 - Not linking a factor to its effect: a wet road lowers friction and so the braking force, and a heavier vehicle has more kinetic energy to remove.
 - Forgetting the unit, or giving m when the question asks for a time in s.
 
+## Frequently asked questions
+
+**What typical speeds do I need to know for OCR GCSE Physics A?**
+Statement P8.1a of OCR GCSE (9-1) Physics A (J249) expects approximate values, such as about 1.5 m/s for walking, about 6 m/s for cycling and about 340 m/s for sound in air. A value in the right region is what counts.
+
+**What is reaction time?**
+Reaction time is the delay between a stimulus, such as something seen or heard, and the start of the response. An alert person typically has a reaction time of about 0.2 s in a ruler drop.
+
+**Why does braking distance quadruple when speed doubles?**
+The brakes must remove the vehicle's kinetic energy, which depends on speed squared. Doubling the speed gives four times the kinetic energy, so with the same braking force the braking distance is four times as long.
+
+**How does a wet road affect stopping distance?**
+A wet road lowers the friction between the tyres and the road, which reduces the braking force that can be applied. This increases the braking distance, not the thinking distance.
+
+**How do I make reaction time measurements more reliable?**
+Repeat the measurement several times and take the mean. Treat a result far from the others as an anomaly and consider repeating it.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249) specification*, Version 5.0, July 2026, first assessment in 2018. Statements P8.1a to P8.1e.

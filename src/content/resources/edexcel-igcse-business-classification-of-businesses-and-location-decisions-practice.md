@@ -146,6 +146,20 @@ Calculate the percentage of its total sales revenue that comes from the secondar
 - Take the [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these classification and location practice questions cover?**
+They follow Pearson Edexcel International GCSE Business (4BS1) sections 1.3 and 1.4: classifying activity as primary, secondary or tertiary, location factors, the impact of the internet, legal controls and trade blocs, and relocation.
+
+**How do you classify a business into a sector?**
+Look at the activity described rather than the business name. Verbs such as "grows" or "digs" point to primary, "makes" or "processes" to secondary, and "sells", "delivers" or "repairs" to tertiary.
+
+**What do students forget in tariff and relocation calculations?**
+Adding the tariff to the cost of producing outside a trade bloc before comparing, turning monthly rent into an annual figure, and including the one-off cost of a move.
+
+**What is the difference between Explain and Analyse in Edexcel IGCSE Business?**
+The specification's command-word table says Explain is a statement of fact with two expansion points and no context, while Analyse is an extended answer placed in the context of the question.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 1: Business activity and influences on business, sections 1.3 Classification of businesses and 1.4 Decisions on location.

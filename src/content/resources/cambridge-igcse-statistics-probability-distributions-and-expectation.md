@@ -237,6 +237,23 @@ Over 200 plays the expected total gain for a player is 200 × (−0.75) = −£1
 
 Try the [practice questions](/resources/cambridge-igcse-statistics-probability-distributions-and-expectation-practice/), use the [revision notes](/resources/cambridge-igcse-statistics-probability-distributions-and-expectation-revision-notes/) for quick recall, and tick off the topic on the [printable checklist](/checklists/cambridge/igcse/statistics/). The [course hub](/boards/cambridge/igcse/statistics/) lists the other topics, and the [free 10-minute diagnostics](/diagnostics/) show which topics need most work.
 
+## Frequently asked questions
+
+**What is a probability distribution?**
+A probability distribution lists every possible value of a variable with its probability. Every probability lies between 0 and 1, and ΣP(x) = 1.
+
+**How do you calculate expected frequency?**
+Multiply the number of trials by the probability: expected frequency = n × p.
+
+**Can the expectation be a value that cannot happen?**
+Yes. E(X) is the average over many trials, so it can be a value such as 1.14 counters that never occurs in a single trial; do not round it to a whole number.
+
+**How do you tell whether a game is fair?**
+Find the expected gain, the expected payout minus the cost to play. A game is fair when the expected gain is zero.
+
+**What does Topic 8 of Cambridge IGCSE Statistics cover?**
+Topic 8, Probability distributions, covers building probability distribution tables using ΣP(x) = 1 (outcome 8.1) and calculating and using expectation (outcome 8.2).
+
 ## Official syllabus
 
 Cambridge IGCSE Statistics 0479 syllabus for examination in 2027, Cambridge University Press & Assessment (Cambridge International Education), Topic 8: Probability distributions, learning outcomes 8.1 and 8.2.

@@ -257,6 +257,22 @@ Net assets equal total equity, which is the check that the whole chain of workin
   <figcaption>When interest and salaries exceed profit the shortfall is a loss shared in the agreed ratio.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between an ordinary partnership and a limited liability partnership?**
+Partners in an ordinary partnership have unlimited liability, so their personal assets can be used to pay the firm's debts. Members of a limited liability partnership (LLP) have limited liability, and the LLP is a legal person separate from its owners.
+
+**What happens if partners have no partnership agreement?**
+Section 24 of the Partnership Act 1890 sets default rules that apply where there is no agreement or the agreement is silent. For example, profits and losses are shared equally and a partner's loan to the firm earns interest at 5% a year; an agreement always overrides these defaults.
+
+**Where does interest on a partner's loan go?**
+Interest on a partner's loan is an expense of the firm, so it is deducted in the income statement before profit for the year. It does not appear in the appropriation account.
+
+**Why is interest on drawings added in the appropriation account?**
+Interest on drawings is charged to the partner, so it increases the profit available to share. Deducting it instead of adding it is a common error in Edexcel IGCSE Accounting (4AC1) questions.
+
+**What is the difference between a partner's capital account and current account?**
+The capital account is often kept fixed and changes only when long-term capital is paid in or withdrawn. The current account collects the yearly movements: interest on capital, salary and share of profit are credited, while drawings, interest on drawings and any share of loss are debited.
 
 ## Official syllabus
 

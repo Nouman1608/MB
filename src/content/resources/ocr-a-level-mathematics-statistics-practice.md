@@ -12,13 +12,13 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "statistics-ocr-alevel-maths"
-description: "Original exam-style practice questions with full worked answers on sampling, probability, the binomial and normal distributions, and hypothesis testing, for OCR A Level Mathematics A (H240)."
+description: "Original OCR A Level Mathematics A (H240) statistics questions on sampling, probability, binomial and normal distributions and hypothesis testing, with answers."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-04
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -91,3 +91,17 @@ Question 3 and question 4 look superficially similar — both ask for a probabil
 ## Approaching statistics questions
 
 Before any probability calculation, identify explicitly which distribution the scenario describes and state the reason, since this single judgement determines the entire method that follows. For any distribution given as N(μ, variance), always take the square root of the stated variance to find the standard deviation before standardising, since substituting the variance directly into the standardisation formula in place of the standard deviation is a common and entirely avoidable error. For hypothesis-testing questions specifically, write out the null and alternative hypotheses formally in terms of the population parameter before attempting any calculation, identify whether the test is one-tailed or two-tailed directly from the question's wording, and always finish by writing the conclusion back into the context of the original scenario rather than stopping at a bare "reject" or "do not reject" statement, since OCR's mark schemes consistently reward this final contextual step as a distinct, separately creditable part of the answer.
+
+## Frequently asked questions
+
+**How do you choose between a binomial and a normal model?**
+Use a binomial model for a fixed number of discrete trials, each with two outcomes and the same probability of success. Use a normal model for continuous data that cluster symmetrically around a mean, such as heights.
+
+**What do you do when a normal distribution is given as N(μ, σ²)?**
+The second number is the variance, so take its square root to get the standard deviation before standardising. For X ~ N(30, 16), σ = 4.
+
+**How do you decide the direction of a one-tailed hypothesis test?**
+Follow the wording of the question: a question about an increase gives H₁: p > the stated value, and one about a decrease gives H₁: p < the stated value.
+
+**How do you show two events are independent in OCR A Level Mathematics?**
+Calculate P(A) × P(B) explicitly and compare it with P(A ∩ B). If they are equal, the events are independent; an informal comparison does not earn the marks.

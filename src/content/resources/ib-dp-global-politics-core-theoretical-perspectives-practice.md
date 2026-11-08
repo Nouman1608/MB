@@ -133,6 +133,20 @@ Conclusion: they offer more insight into **why** legitimacy is contested, less i
 - Try [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which theories do you need for IB Global Politics?**
+The IB DP Global Politics guide prescribes no single theory but strongly encourages a range, naming realism, liberalism and the critical theories feminism, postcolonialism and social constructivism. The core topic is the same for SL and HL.
+
+**How do you show a source uses realist or liberal reasoning?**
+Point to the specific words in the source that show the reasoning, then name the concept they reflect. Labelling a source "realist" without quoting or pointing to the text does not score on an identify or explain question.
+
+**How are theory essays marked in IB Global Politics?**
+Extended answers are marked against IB markbands on a best-fit basis. Discuss and to what extent questions need a balanced review of a range of arguments and a clear judgement, so defending only one side keeps an essay below the top band.
+
+**What are common mistakes when using theory in Global Politics?**
+Common slips include defining theories at length without applying them, using theory without linking it to power, sovereignty, legitimacy or interdependence, giving critical theories only one line each, and stating a theory's claim as fact rather than as an argument.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Diploma Programme *Global politics guide*, first assessment 2026 (published February 2024). Core topics: "Understanding power and global politics" -- prescribed topic "Theoretical perspectives in global politics".

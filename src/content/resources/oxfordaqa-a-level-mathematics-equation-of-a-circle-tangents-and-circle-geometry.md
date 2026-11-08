@@ -88,11 +88,6 @@ Expanded equations always have x² and y² with equal coefficients and no xy ter
   <figcaption>Substituting a line into a circle gives a quadratic whose discriminant counts the intersections.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--09-two-circles.webp" width="900" height="1058" alt="OCR only. Circles x^2+y^2=16 and (x-6)^2+(y-2)^2=9 with d=sqrt(40) between 1 and 7 so they cross at two points; number line of d shows the touching and separate cases." loading="lazy">
-  <figcaption>Compare the distance between centres with the sum and difference of the radii.</figcaption>
-</figure>
-
 
 ## 2. Completing the square
 
@@ -261,6 +256,23 @@ Every example here is short algebra that you can do by hand, so write each step 
 ## Next steps
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-mathematics-equation-of-a-circle-tangents-and-circle-geometry-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-mathematics-equation-of-a-circle-tangents-and-circle-geometry-revision-notes/) for quick recall. The wider [Unit P1 pure maths guide](/resources/a-level-oxfordaqa-mathematics-unit-p1/) covers the straight-line and quadratics skills used here. The [diagnostics](/diagnostics/) show which topics to prioritise.
+
+## Frequently asked questions
+
+**How do you find the centre and radius of a circle from its equation?**
+Write the equation in the form (x − a)² + (y − b)² = r², completing the square if it is expanded. The centre is (a, b), with signs opposite to those in the brackets, and the radius is the square root of the right-hand side.
+
+**Do you need calculus to find a tangent to a circle in OxfordAQA 9660?**
+No. The OxfordAQA 9660 specification says implicit differentiation is not required for tangents and normals to a circle. You use the fact that the tangent is perpendicular to the radius, so its gradient is the negative reciprocal of the radius gradient.
+
+**How can you tell whether a point is inside, on or outside a circle?**
+Substitute the point into (x − a)² + (y − b)². If the result equals r² the point is on the circle, if it is less than r² the point is inside, and if it is more than r² the point is outside.
+
+**When does an equation like x² + y² + 2x − 6y + 15 = 0 not give a circle?**
+After completing the square, the right-hand side is r². If it comes out zero the equation describes a single point, and if it is negative no points satisfy it, so there is no circle.
+
+**How do you find the length of a tangent from a point outside a circle?**
+The tangent, the radius to the point of contact and the line to the centre form a right-angled triangle. So the tangent length squared equals the distance from the point to the centre squared, minus r².
 
 ## Official syllabus
 

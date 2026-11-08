@@ -16,14 +16,20 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "cells"
     subtopic: "specialised-cells-tissues-and-organs"
-description: "Condensed recall notes on animal, plant and bacterial cells, specialisation and levels of organisation for Cambridge O Level Biology 5090."
+description: "Condensed recall notes on animal, plant and bacterial cells, specialised cells, levels of organisation and magnification for Cambridge O Level Biology 5090."
 author: "saad-zai"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: expanded thin notes (opening answer, extra magnification example in micrometres, FAQ, question headings); please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
+
+Cambridge O Level Biology 5090 Topic 1 tests whether you can name the
+structures in animal, plant and bacterial cells and their functions, link
+the features of specialised cells to their jobs, order the levels of
+organisation from cell to organism, and use magnification = image size ÷
+actual size. These notes condense all of 1.1 and 1.2 onto one page.
 
 Condensed for the final weeks. For the full explanation, use the
 [Cell Structure and Organisation study guide](/resources/cell-structure-and-organisation/),
@@ -32,7 +38,7 @@ cells, tissues and organs in full for Cambridge O Level Biology 5090.
 For exam-style practice with full worked answers on this topic, see
 the [Cell Structure and Organisation practice questions](/resources/cell-structure-and-organisation-practice/).
 
-## Which cell has what
+## Which structures does each type of cell have?
 
 | Structure | Animal | Plant | Bacterial | Function |
 |---|---|---|---|---|
@@ -75,7 +81,7 @@ add a drop of stain at one edge, then lower a coverslip **at an
 angle** rather than dropping it flat, to avoid trapping air bubbles
 that would otherwise obscure the view.
 
-## Magnification
+## How do you calculate magnification?
 
 ```
 magnification = image size / actual size
@@ -94,7 +100,15 @@ other two quantities. Always convert image size and actual size to
 the **same units** before dividing — mixing mm and µm is the single
 most common source of a wrong answer here.
 
-## Levels of organisation
+**Worked example (actual size in µm).** A mitochondrion in an electron
+micrograph is 12 mm long at ×8000.
+
+```
+actual size = 12 / 8000 = 0.0015 mm
+0.0015 mm x 1000 = 1.5 µm
+```
+
+## What are the levels of organisation?
 
 ```
 organelle -> cell -> tissue -> organ -> organ system -> organism
@@ -103,6 +117,21 @@ organelle -> cell -> tissue -> organ -> organ system -> organism
 - **Tissue** — group of similar cells with a shared function (e.g. muscle).
 - **Organ** — several tissues working together (e.g. stomach, leaf).
 - **Organ system** — organs cooperating (e.g. digestive system).
+
+## Frequently asked questions
+
+**Do bacterial cells have ribosomes?**
+Yes. Bacteria, animal cells and plant cells all have ribosomes, cell
+membranes and cytoplasm. Bacteria lack a nucleus, mitochondria and
+chloroplasts.
+
+**Which stain should I use for onion and cheek cells?**
+Iodine solution is commonly used for onion epidermis; methylene blue for
+cheek cells. Either gives contrast so the nucleus can be seen.
+
+**How many marks does a specialised-cell question need?**
+Usually one mark for the feature and one for how it helps. Always join the
+two with "so" or "which".
 
 ## Exam traps
 

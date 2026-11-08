@@ -126,6 +126,20 @@ These questions cover topic 5, Business operations, sections 5.3 Factors of prod
 - Take the [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these factors of production and quality questions cover?**
+They follow Pearson Edexcel International GCSE Business (4BS1) sections 5.3 and 5.4: the four factors of production and how their mix changes, capital-intensive and labour-intensive activities, quality, quality control, TQM and competitive advantage.
+
+**Does capital mean money in this topic?**
+No. In factors of production, capital means equipment, machinery, vehicles, tools, software and fitted buildings, not simply money. Writing that capital means money is a common error.
+
+**How do you decide if a business is capital-intensive?**
+Compare the cost of capital with the cost of labour in the data given, rather than judging by the size or type of business alone.
+
+**What should an evaluation of a quality change include?**
+Quote figures from the case, weigh the costs and risks of the change, such as training, against the savings, and finish with a clear judgement.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 5 Business operations: section 5.3 Factors of production and section 5.4 Quality. The specification lists headings only for these sections, so the definitions of the four factors, quality, quality control, TQM and competitive advantage, the lists of TQM features and the payback and defect-cost methods on this page are written in Marlbridge's own standard wording.

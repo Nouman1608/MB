@@ -206,6 +206,20 @@ Technology; ethical and environmental influences; market conditions and competit
 - Reaching no judgement in an evaluation, or a judgement that ignores the data.
 - Not linking operations decisions to other functions, competitors or technology.
 
+## Frequently asked questions
+
+**What is the difference between quality control and quality assurance?**
+Quality control inspects finished or part-finished output and removes faults, so it detects problems. Quality assurance builds agreed standards into every stage of production, so it prevents them.
+
+**What is the difference between labour-intensive and capital-intensive production?**
+Labour-intensive production uses labour as the main input, with low fixed costs and high variable costs, and suits small or varied output. Capital-intensive production relies on machinery, with high fixed costs and low variable costs, and suits large, steady output.
+
+**What are the three ways of matching supply to demand in AQA 7132?**
+Outsourcing, using temporary and part-time employees, and producing to order.
+
+**How do you calculate the maximum stock level?**
+Maximum stock = buffer stock + re-order quantity, because stock is at the buffer level when a new delivery arrives.
+
 ## Official syllabus
 
 AQA AS and A-level Business specification (7131 and 7132), subject content section 3.4, published by AQA.

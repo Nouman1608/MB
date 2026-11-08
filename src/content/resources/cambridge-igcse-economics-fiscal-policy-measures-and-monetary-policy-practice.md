@@ -146,6 +146,20 @@ This set tests sections 4.3.7 to 4.3.9 and 4.4.1 to 4.4.3 of the Cambridge IGCSE
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate the budget balance?**
+Budget balance is government revenue minus government spending. A negative result is a deficit and a positive result is a surplus, so always write the word deficit or surplus after the figure.
+
+**Does a tax cut always reduce revenue by the full amount?**
+Not necessarily. If lower taxes encourage more work or spending, the tax base can grow, so revenue may fall by less than the simple arithmetic suggests, although this is not guaranteed.
+
+**Is a higher interest rate the same as a smaller money supply?**
+No. They are separate monetary policy measures. The interest rate is the price of borrowing and the reward for saving, while the money supply is the total amount of money in the economy; confusing them loses marks.
+
+**Do you need aggregate demand diagrams for fiscal policy in Cambridge IGCSE Economics 0455?**
+No. The syllabus notes that aggregate demand and aggregate supply are not required for section 4.3.9. Explain effects through spending, firms' output, jobs and prices instead.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: sections 4.3.7 to 4.3.9 and 4.4.1 to 4.4.3.

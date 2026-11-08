@@ -142,6 +142,20 @@ These questions follow the AQA GCSE Economics (8136) specification, for first te
 - Describing a deficit and the national debt as the same thing.
 - Writing a one-sided answer to an evaluate question, or one with no judgement.
 
+## Frequently asked questions
+
+**How do you remove VAT from a price that includes it?**
+Divide the tax-inclusive price by one plus the rate, for example by 1.20 for 20% VAT. Subtracting 20% from the inclusive price gives the wrong answer.
+
+**How do I judge whether a tax is progressive or regressive?**
+Look at the percentage of income paid in tax at different incomes, not the amount of money paid.
+
+**Is a budget deficit the same as the national debt?**
+No. A deficit is the gap between spending and revenue in one year; the national debt is the total built up from past borrowing.
+
+**What should I write when asked to state a tax or spending area?**
+Name a specific one, such as VAT or health, rather than a general answer such as tax goes on services.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/aqa-gcse-economics-uk-government-revenue-spending-direct-and-indirect/) and the [revision notes](/resources/aqa-gcse-economics-uk-government-revenue-spending-direct-and-indirect-revision-notes/).

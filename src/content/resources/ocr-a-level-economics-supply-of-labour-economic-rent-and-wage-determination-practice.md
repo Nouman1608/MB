@@ -151,6 +151,23 @@ Revise first with the [study guide](/resources/ocr-a-level-economics-supply-of-l
 - Writing "it depends" with no statement of what it depends on.
 - Leaving out units, such as £000 per year.
 
+## Frequently asked questions
+
+**What is the difference between economic rent and transfer earnings?**
+Transfer earnings are the minimum payment needed to keep a worker in their current job, such as the pay in their next best job. Economic rent is any payment above that, so treating all earnings as economic rent is a mistake.
+
+**How do you calculate the wage elasticity of labour supply?**
+Divide the percentage change in the quantity of labour supplied by the percentage change in the wage, and show both percentage changes. If the question asks for the midpoint method, use the average of the start and end values as the base.
+
+**Where is the wage set in a monopsony labour market?**
+The monopsonist employs workers up to the point where the marginal cost of labour equals marginal revenue product, then pays the wage read off the supply curve at that employment, not off the marginal cost of labour curve.
+
+**What happens when a union raises the wage above equilibrium?**
+Employment falls to the amount firms demand at the higher wage while more workers want jobs, so unemployment results. Answers should follow the union wage through to its effect on employment rather than stopping at "wages rise".
+
+**Why can a backward-bending labour supply curve occur?**
+As the wage rises, the substitution effect encourages more work, but the income effect lets people afford more leisure. At higher wages the income effect may dominate, so hours offered fall; say which effect dominates in each range.
+
 ## Next steps
 
 - Recall with the [revision notes](/resources/ocr-a-level-economics-supply-of-labour-economic-rent-and-wage-determination-revision-notes/) and re-read the [study guide](/resources/ocr-a-level-economics-supply-of-labour-economic-rent-and-wage-determination/).

@@ -197,5 +197,19 @@ Ethylene (IUPAC name ethene, C₂H₄) is a gas that stimulates ripening: chloro
 - Writing that auxin makes cells "grow" with no mechanism: say proton pumping, acid, loosened cross links, osmosis.
 - Calling ethylene feedback negative.
 
+## Frequently asked questions
+
+**How do the hypothalamus and pituitary control thyroxine?**
+When thyroxine falls, the hypothalamus releases more thyrotropin-releasing hormone, the pituitary releases more thyroid-stimulating hormone, and the thyroid secretes more thyroxine; rising thyroxine then inhibits the hypothalamus and pituitary (negative feedback).
+
+**What is a tropism?**
+A tropism is a directional growth response to a directional stimulus; positive phototropism is a shoot growing towards light because cells on the shaded side elongate more. This is HL-only content in IB DP Biology C3.1.
+
+**How do auxin and cytokinin coordinate root and shoot growth?**
+Shoot tips make auxin, which travels towards the roots, and root tips make cytokinin, which travels to the shoots; auxin inhibits lateral buds while cytokinin promotes them, so a balance matches shoot growth to root growth.
+
+**How do auxin efflux carriers create a concentration gradient?**
+Auxin can diffuse into cells but not out, so it leaves through efflux carriers on one side of each cell; when the carriers in a tissue line up the same way, auxin moves in one direction and a gradient is maintained.
+
 ## Official syllabus
 This page follows the IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization.

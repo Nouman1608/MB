@@ -227,6 +227,20 @@ Aim: investigate the V-I characteristics of a filament lamp, a diode and a resis
 - Describing the practical with the voltmeter in series, or leaving out the reversed readings.
 - Forgetting that the diode conducts in the forward direction only.
 
+## Frequently asked questions
+
+**What is an ohmic resistor?**
+An ohmic resistor has a current directly proportional to the potential difference across it at constant temperature, so its I-V graph is a straight line through the origin and its resistance is constant.
+
+**How does the resistance of a thermistor change with temperature?**
+A thermistor's resistance falls as its temperature rises. This makes it useful as a temperature sensor, for example in a thermostat.
+
+**What is the difference between a thermistor and an LDR?**
+A thermistor's resistance depends on temperature, while an LDR's resistance depends on light intensity. For both, the resistance falls as the temperature or light level rises.
+
+**What does a steeper I-V graph mean?**
+With current on the vertical axis, a steeper line means a lower resistance, because more current flows for each volt. The gradient of an ohmic resistor's graph is 1 ÷ R.
+
 ## Official syllabus
 
 This page follows the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, Version 5.2, published by OxfordAQA, section 3.5.1 Electrical circuits, statements h to o.

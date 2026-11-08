@@ -7,18 +7,18 @@ topic: "Tort"
 boards: ["aqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["7162"]
-syllabusSeries: "2017-onwards"
-order: 1
+syllabusSeries: "For teaching from September 2017 onwards, A-level exams 2019 onwards"
+order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "tort-7162"
 description: "Negligence, occupiers' liability, nuisance, vicarious liability, defences and remedies -- the full content of Section 3.3 for AQA A-Level Law (7162)."
 author: "marlbridge-academic-team"
-reviewer: "aizaz-raoof-ali"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-09
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
 ---
 
 This guide covers **3.3 Tort**, the third of five subject-content sections in AQA A-level Law (7162),
@@ -143,3 +143,17 @@ second party liable for an underlying tort committed by someone else.
   claims.
 - Correctly match the 1957 or 1984 Occupiers' Liability Act to the claimant's status.
 - Identify available defences and remedies, and apply them after (not instead of) the main tort analysis.
+
+## Frequently asked questions
+
+**Which AQA A Level Law paper examines tort?**
+Tort is examined on Paper 2 of AQA A Level Law 7162, where it carries 75 of the paper's 100 marks alongside 25 marks on the nature of law and the English legal system.
+
+**What are the three stages of negligence?**
+Negligence has three stages: duty of care, breach of duty against the objective standard of a reasonable person, and damage caused by the breach, both factually and legally. A claim fails if any one stage is not met.
+
+**When do you need the Caparo test?**
+Use the Caparo three-part test for novel duty situations. Applying it where a duty is already established by precedent is unnecessary and wastes time.
+
+**Is vicarious liability a separate tort?**
+No. Vicarious liability is a route to holding a second party, such as an employer, liable for an underlying tort committed by someone else.

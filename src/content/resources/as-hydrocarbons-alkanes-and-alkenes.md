@@ -19,9 +19,9 @@ syllabusTopics:
     subtopic: "as-alkenes"
 description: "Free-radical substitution in alkanes and electrophilic addition in alkenes, with full mechanisms, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -266,6 +266,20 @@ dilute vs hot concentrated acidified KMnO₄; addition polymerisation
 - Electrophilic addition mechanism for bromine/ethene and HBr/propene
 - Markovnikov addition explained by carbocation stability and inductive
 effects
+
+## Frequently asked questions
+
+**What happens in the initiation step of free-radical substitution?**
+UV light causes homolytic fission of the halogen molecule, splitting the bond evenly into two radicals, each with one electron. Writing it as forming Cl⁺ and Cl⁻ ions is a common mistake.
+
+**Why are there two propagation steps in free-radical substitution?**
+Each propagation step must consume one radical and produce a new one, which keeps the chain reaction going. Combining them into one equation loses this detail and the marks that go with it.
+
+**How do you predict the major product of electrophilic addition to propene?**
+The major product forms through the more stable carbocation. With hydrogen bromide, propene gives mainly 2-bromopropane because the secondary carbocation is stabilised by the inductive effect of alkyl groups.
+
+**How do you test for a C=C double bond?**
+Add aqueous bromine: an alkene decolourises it, while an alkane gives no change. This test is part of the Cambridge International AS & A Level Chemistry 9701 hydrocarbons content.
 
 ## Related resources
 

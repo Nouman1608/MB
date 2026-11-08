@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "forces-ocr-gcse"
     subtopic: "newtons-laws-ocr-gcse"
-description: "Original OCR GCSE Physics A practice questions on F = ma, inertia, momentum, collisions and circular motion, with worked answers."
+description: "Original OCR GCSE Physics A (J249) practice questions on F = ma, inertia, momentum, collisions and circular motion, with fully worked answers and marks."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
@@ -139,6 +139,23 @@ These questions cover statements P2.2i, P2.2j, P2.2k, P2.2l and P2.2q of OCR GCS
 - Go to the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [checklist](/checklists/ocr/gcse/physics/).
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Which questions in this OCR GCSE Physics A set are Higher tier?**
+Questions on inertial mass, momentum and collisions, force and change in momentum, and circular motion are marked Higher tier only. They follow statements P2.2j to P2.2l and P2.2q of OCR GCSE (9-1) Physics A (J249); the F = ma questions are for both tiers.
+
+**What force do I use in F = ma when several forces act?**
+Use the resultant force, found by combining all the forces, not just one of them. Using a single force such as the pull alone is a common mistake.
+
+**How do I set out a collision question?**
+Write the total momentum before and after as separate sums, include a zero term for any stationary object, and use the combined mass if the objects join. Give a direction for any velocity or momentum answer.
+
+**What unit is momentum measured in?**
+Momentum is measured in kg m/s. Leaving out the unit or using a wrong one loses the final mark.
+
+**How should I explain a car safety feature using momentum?**
+Link the feature to a longer time for the same change in momentum, which gives a smaller force. Answers that mention force but not the time and change in momentum lose marks at Higher tier.
 
 ## Official syllabus
 

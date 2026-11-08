@@ -9,13 +9,13 @@ qualifications: ["igcse"]
 syllabusCodes: ["9203"]
 syllabusSeries: "First teaching 2016, first examined 2018"
 order: 3
-description: "Why either OxfordAQA International GCSE Physics 9203 paper can assess any topic, the unit and rearrangement discipline that protects marks, graph work, and a worked substitution routine."
+description: "How to prepare for both OxfordAQA International GCSE Physics (9203) papers: equation rearrangement, SI units, graph work, practical questions and definitions."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 ---
 
 OxfordAQA International GCSE Physics (9203) is a linear, untiered qualification taken over two years,
@@ -129,6 +129,20 @@ the written papers, since there is no separate practical exam -- so the instrume
 the main source of uncertainty, and a targeted improvement should be revised for each practical.
 4. Because physics definitions are exact and each qualifying clause -- "per unit mass", "per unit
 time", "at right angles to the line of action" -- carries meaning that the paraphrase usually drops.
+
+## Frequently asked questions
+
+**How many papers are there in OxfordAQA International GCSE Physics (9203)?**
+There are two equally weighted written papers, each 1 hour 30 minutes long, worth 90 marks and 50% of the qualification. Any part of the specification may be assessed on either paper.
+
+**Is OxfordAQA International GCSE Physics tiered?**
+No. OxfordAQA International GCSE Physics (9203) is a linear, untiered qualification, so every candidate sits the same two papers.
+
+**Can you take International GCSE Physics and Combined Science together with OxfordAQA?**
+No. The board's Prohibited Combinations rule means a centre cannot enter a student for both a separate science and Combined Science in the same series.
+
+**How much time should you spend per mark?**
+Each paper has 90 marks in 90 minutes, so about one minute per mark is a simple way to track your progress during the exam.
 
 *Written against the assessment section of OxfordAQA's own International GCSE Physics (9203)
 qualification page (official OxfordAQA page, verified 2026-08-28). The substitution routine above is

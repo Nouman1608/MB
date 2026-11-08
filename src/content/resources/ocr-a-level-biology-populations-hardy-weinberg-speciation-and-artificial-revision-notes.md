@@ -197,6 +197,23 @@ The equations are provided in assessments where needed. Conditions for constant 
 - Stopping an explanation of selection before the allele frequency rises.
 - Writing about ethics without weighing benefit against harm.
 
+## Frequently asked questions
+
+**What is a gene pool?**
+A gene pool is all the alleles of all the genes in a population. Evolution is a change in allele frequencies in the gene pool over generations.
+
+**What is gene flow?**
+Gene flow is the movement of alleles between populations by interbreeding. An isolating mechanism is any barrier that stops gene flow, which can lead to speciation.
+
+**Does genetic drift give an advantage?**
+No. Genetic drift is a change in allele frequency by chance, so it is not linked to any advantage. Explaining drift as an advantage confuses it with natural selection.
+
+**What does wild type mean?**
+Wild type is the naturally occurring form of an organism or allele. The H420 specification asks you to explain why genetic material, including wild types, must be kept as a resource for artificial selection.
+
+**Do I need to recall the Hardy-Weinberg equations for OCR A Level Biology?**
+No. The OCR A Level Biology A (H420) specification says the equations will be provided where needed, but you must know what p, q, p², 2pq and q² represent and use them correctly.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420)* specification, Version 4.1 (April 2026), for first assessment in 2025: section 6.1.2(e) to (h), Patterns of inheritance (stabilising and directional selection, genetic drift, the genetic bottleneck and founder effect, Hardy-Weinberg, isolating mechanisms and artificial selection).

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-ocr-alevel-maths"
     subtopic: "exponentials-and-logarithms-ocr-alevel-maths"
-description: "Original practice questions with worked answers on a^x, e^x, the gradient of e^kx, log_a x and ln x for OCR A Level Mathematics A (H240)."
+description: "Original exam-style practice questions with worked answers on a^x, e^x, the gradient of e^kx, log_a x and ln x for OCR A Level Mathematics A (H240)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -142,6 +142,20 @@ These questions cover exponential and logarithmic functions in OCR A Level Mathe
 - Applying ln to part of a side only.
 - Forgetting that the domain of an inverse function is the range of the original.
 - Taking the logarithm of zero or a negative number.
+
+## Frequently asked questions
+
+**What is the asymptote of y = a^x + c?**
+The horizontal asymptote is y = c, not y = 0. Adding a constant moves the whole graph, and its asymptote, up or down by c.
+
+**What is the gradient of y = e^(kx)?**
+The gradient is k e^(kx), so it is k times the value of the function. Leaving out the factor k, or the minus sign when k is negative, is a common error.
+
+**Should exponential and logarithm answers be exact or decimal in OCR A Level Mathematics?**
+Give an exact form, such as ln 7, when the question asks for it, and avoid rounding intermediate values, which can make the final digit wrong.
+
+**Why can you not take the logarithm of a negative number?**
+ln x and log_a x are only defined for x > 0, so an equation such as e^x = −3 has no solution. Taking the logarithm of zero or a negative number is a common slip.
 
 ## Next steps
 

@@ -107,6 +107,23 @@ These questions follow the OCR A Level Business (H431) content "Different stakeh
 - Stating that conflict exists without showing what each group wants.
 - Evaluating with no judgement, or a recommendation without a cost to some group.
 
+## Frequently asked questions
+
+**Are these OCR A Level Business H431 past paper questions?**
+No. They are original practice questions written for Marlbridge on the content "Different stakeholder and business objectives" and "Stakeholders". Use them alongside OCR's own past papers.
+
+**What makes a SMART objective rewrite earn credit?**
+It needs a figure and a date. Adding "specific" wording without either is unlikely to be enough.
+
+**How do you show stakeholder conflict convincingly?**
+Show what each group wants and use figures from the case, for example how a pay rise reduces the profit available for dividends. Claims of conflict with no figure are less convincing.
+
+**How do you link sector to objectives in an answer?**
+Tie each organisation's objectives to its source of funds or its owners, such as a council-funded trust being accountable for public money. Listing objectives with no reason reads as description.
+
+**What should a recommendation about stakeholders include?**
+Name who loses as well as who gains, and justify the choice against the organisation's own objectives. A recommendation with no cost to any group is limited.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ocr-a-level-business-different-stakeholder-and-business-objectives-and-stakeholders-revision-notes/) and the [study guide](/resources/ocr-a-level-business-different-stakeholder-and-business-objectives-and-stakeholders/).

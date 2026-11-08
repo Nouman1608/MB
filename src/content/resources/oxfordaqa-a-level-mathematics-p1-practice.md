@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-p1-pure-maths-oxfordaqa-alevel-maths"
-description: "Original exam-style practice questions with full worked answers on indices, surds, quadratics, binomial expansion, simultaneous equations, differentiation and integration for OxfordAQA 9660 Unit P1, plus two trigonometry questions marked as Unit PSM1 content."
+description: "Original practice questions with worked answers for OxfordAQA 9660 Unit P1 on indices, surds, quadratics, binomials and calculus, plus two PSM1 trig items."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -38,12 +38,6 @@ Related: [Pure Maths 1 revision notes](/resources/oxfordaqa-a-level-mathematics-
 
 ## Section B
 
-**Questions 6 and 7 test trigonometry** (sine/cosine rule, area of a triangle, solving a trig
-equation). OxfordAQA's 9660 specification places all trigonometry in Unit PSM1's pure maths
-strand (PP1.2), not in Unit P1 -- P1 contains no trigonometry at all, including the sin/cos/tan graphs.
-They're included in this P1 practice set because every P1 candidate also sits PSM1, but they are
-PSM1-syllabus questions, not P1 ones.
-
 **3.** The quadratic kx² + (k + 3)x + 4 = 0 has equal roots.
 
 **(a)** Show that k² − 10k + 9 = 0. **[3]**
@@ -52,6 +46,12 @@ PSM1-syllabus questions, not P1 ones.
 **4.** Find the first four terms of the expansion of (1 + 2x)⁸ in ascending powers of x. **[4]**
 
 **5.** Solve the simultaneous equations y = x² − 3x + 4 and y = 2x − 2. **[5]**
+
+**Questions 6 and 7 test trigonometry** (sine/cosine rule, area of a triangle, solving a trig
+equation). OxfordAQA's 9660 specification places all trigonometry in Unit PSM1's pure maths
+strand (PP1.2), not in Unit P1 -- P1 contains no trigonometry at all, including the sin/cos/tan graphs.
+They're included in this P1 practice set because every P1 candidate also sits PSM1, but they are
+PSM1-syllabus questions, not P1 ones.
 
 **6.** *(PSM1 content)* In triangle ABC, AB = 8 cm, AC = 11 cm and angle BAC = 52°.
 
@@ -122,3 +122,20 @@ the roots and taking each part's absolute value separately -- needed
 only for that mixed case -- is background knowledge rather than
 something a P1 paper requires.) For the underlying rules, including how the second
 derivative classifies a stationary point, see the [Pure Maths 1 revision notes](/resources/oxfordaqa-a-level-mathematics-p1-revision-notes/).
+
+## Frequently asked questions
+
+**Is trigonometry in OxfordAQA 9660 Unit P1?**
+No. The OxfordAQA 9660 specification places trigonometry in the pure maths strand of Unit PSM1 (PP1.2), so P1 contains no trigonometry. The two trigonometry questions here are included because every P1 candidate also sits PSM1.
+
+**What discriminant condition gives equal roots?**
+A quadratic has equal roots when b² − 4ac = 0. Using b² − 4ac > 0 instead is a common slip in "find the values of k" questions.
+
+**What is the most common calculus error in Unit P1?**
+Mixing up the tangent and normal gradients. The tangent uses the gradient from differentiating, and the normal uses its negative reciprocal.
+
+**Do you need to check the sign of a curve before finding an area?**
+Yes. If the curve lies entirely below the x-axis, the signed integral is negative and the area is its magnitude. P1 will not set a region that is partly above and partly below the axis.
+
+**What mistakes happen in binomial expansion questions?**
+A frequent one is not raising the whole term to the power, for example forgetting to square the 2 in (2x)². Write each term with its bracket before simplifying.

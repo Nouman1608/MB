@@ -197,6 +197,20 @@ Advantage: ransomware on the network cannot reach and encrypt them, so files can
 - Confusing confidentiality (who is allowed to see the data) with security (stopping unauthorised access).
 - Forgetting that ransomware victims may not get files back even after paying.
 
+## Frequently asked questions
+
+**What is the difference between phishing, smishing, vishing and pharming?**
+Phishing uses an email with a link to a fake site, smishing uses an SMS text message, and vishing uses a phone call or voicemail, all relying on the user handing over details. Pharming uses malicious code or a tampered DNS server to redirect the browser to a fake site even when the correct address is typed.
+
+**What is the difference between anonymising and aggregating data?**
+Anonymising removes or replaces identifiers such as names and ID numbers from each record, while aggregating combines many records into totals or averages so no individual record is shown.
+
+**Does a firewall remove malware?**
+No. In Cambridge 9626, a firewall filters network traffic; it does not remove malware and cannot stop a person giving their details to a scammer. Anti-malware software and user awareness are needed as well.
+
+**Does a trojan replicate itself?**
+No. A trojan looks legitimate but carries a hidden payload and relies on the user installing it. A worm is the type of malware that is standalone and spreads across networks by itself.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 5: eSecurity (5.1 Personal data; 5.2 Malware).

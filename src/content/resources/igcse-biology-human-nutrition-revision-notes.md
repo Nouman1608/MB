@@ -25,14 +25,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "human-nutrition-cambridge-igcse-biology"
     subtopic: "absorption-cambridge-igcse-biology"
-description: "Condensed recall notes on diet, the digestive system, physical and chemical digestion, and absorption, with the Core/Supplement split, for Cambridge IGCSE Biology (0610)."
+description: "Condensed recall notes on diet, digestion, enzymes and absorption, with the Core and Supplement split marked, for Cambridge IGCSE Biology 0610 Topic 7."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-05
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Topic 7 spans five sub-topics (7.1-7.5) and is examined on every tier
@@ -220,3 +220,16 @@ acids; lacteals absorb fatty acids and glycerol.
   <figcaption>Capillaries take sugars and amino acids; the lacteal takes fatty acids and glycerol.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Which vitamins and minerals do you need to know for Cambridge IGCSE Biology 0610?**
+Only vitamins C and D and the mineral ions calcium and iron are required. A lack of vitamin C causes scurvy and a lack of vitamin D causes rickets.
+
+**What does bile do in digestion?**
+Bile emulsifies fats and oils, breaking them into smaller droplets to increase the surface area for lipase without changing the fat chemically. It is also alkaline, so it neutralises acidic stomach contents entering the duodenum. Both roles are Supplement content.
+
+**What do capillaries and lacteals absorb in a villus?**
+Capillaries absorb sugars and amino acids into the blood. Lacteals, which are part of the lymphatic system, absorb fatty acids and glycerol.
+
+**Is egestion the same as excretion?**
+No. Egestion is the removal of undigested food from the body as faeces, while excretion removes waste products of metabolism. Confusing them is a common exam trap.

@@ -215,6 +215,20 @@ Other links: the [AQA A-level Economics hub](/boards/aqa/a-level/economics/), th
 - Stating a political view without showing the economic mechanism.
 - Ending without a judgement tied to the objective.
 
+## Frequently asked questions
+
+**What is the difference between means-tested and universal benefits?**
+Means-tested benefits go only to those below an income or asset threshold, which targets help and costs less but can suffer from low take-up. Universal benefits go to everyone and are simpler.
+
+**Are households exactly on the poverty line counted as below it?**
+No. Counting households on the line as below it is a listed error; only incomes below the line count.
+
+**What is the difference between equality of opportunity and equality of outcome?**
+Equality of opportunity is about fair starting points, such as access to education. Equality of outcome is about final incomes.
+
+**Do education policies reduce poverty quickly?**
+No. Cash transfers help at once, while education works slowly but may reduce dependency in the long run.
+
 ## Official syllabus
 
 The AQA AS and A-level Economics specification (7135 and 7136), version 1.3, 29 June 2022, published by AQA, first taught from September 2015.

@@ -212,6 +212,20 @@ A **DNA barcode** is a short, standard stretch of DNA that varies between specie
 - Confusing a larger genome with a more complex organism.
 - Stating that diploid numbers can be odd.
 
+## Frequently asked questions
+
+**What is the morphological species concept?**
+The morphological species concept, used by Linnaeus, defines a species as a group of organisms sharing observable structural traits. It works for fossils and preserved specimens, but individuals of one species can differ strongly while different species can look almost identical.
+
+**Why is it sometimes impossible to say whether two populations are one species or two?**
+Speciation is usually gradual, so at an intermediate stage populations may differ somewhat or interbreed only partly, and deciding whether they are one species or two becomes an arbitrary choice.
+
+**Why is a mule usually sterile?**
+A horse gamete has 32 chromosomes and a donkey gamete 31, so a mule has 63. This odd number means the chromosomes cannot all pair in meiosis, so balanced gametes are unlikely; this is HL-only content in IB DP Biology A3.1.13.
+
+**What is environmental DNA?**
+Environmental DNA (eDNA) is DNA shed into water, soil or air. Sampling it, copying barcode regions by PCR, sequencing them and matching to a reference database lets the biodiversity of a habitat be assessed without catching every organism.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Sub-topic A3.1, Diversity of organisms.

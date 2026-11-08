@@ -15,9 +15,9 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-assessment-criteria"
 description: "Original IB MYP Language Acquisition Criterion B reading questions on three multimodal texts: a webpage, a column and a leaflet, with worked answers."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -159,6 +159,20 @@ Comparison: A uses visuals as evidence and persuasion; C uses layout for quick s
 - Labelling purpose or attitude with no evidence.
 - Missing a range such as "Tuesday to Thursday" in information transfer.
 - Writing about one text only in a comparison question.
+
+## Frequently asked questions
+
+**What are the most common mistakes in MYP Language Acquisition reading questions?**
+Common slips include true/false answers with no supporting quotation, describing colours or layout without saying what they add, copying extra words when only a phrase is asked for, and labelling purpose or attitude with no evidence.
+
+**How do you answer a comparison question in MYP Language Acquisition reading?**
+Refer to both texts and compare them on the same point, with evidence from each. Writing about one text only is a frequent way to lose credit.
+
+**How are these MYP Language Acquisition reading answers marked?**
+Real MYP work is judged against criterion level descriptors with achievement levels 1–8, so the mark points on this page are a revision aid, not IB marks.
+
+**Can I use these reading questions to practise in my target language?**
+Yes. The texts are in English, so answer in your target language for extra practice, or ask your teacher for a similar text in that language.
 
 ## Next steps
 

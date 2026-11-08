@@ -22,11 +22,11 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "waves"
     subtopic: "light-and-sound"
-description: "Wave properties and the Doppler effect, the electromagnetic spectrum and its uses and hazards, and reflection, refraction and sound, for Pearson Edexcel International GCSE Physics 4PH1."
+description: "Wave properties, the Doppler effect, the EM spectrum, reflection, refraction and sound: Topic 3 of Pearson Edexcel International GCSE Physics (4PH1)."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -254,6 +254,20 @@ angle**, and only when travelling from a denser to a less dense medium.
 - The electromagnetic spectrum order, uses and hazards
 - Law of reflection; n = sin i/sin r; total internal reflection and sin c = 1/n
 - Pitch (frequency) and loudness (amplitude) of sound (Physics only)
+
+## Frequently asked questions
+
+**Is sound reflection and refraction in the Science Double Award?**
+Yes. Outcome 3.23, that sound waves are longitudinal and can be reflected and refracted, has no P reference, so it is also in the Science Double Award.
+
+**What do waves transfer?**
+Waves transfer energy and information without transferring matter itself.
+
+**Why do periscopes and binoculars use prisms instead of mirrors?**
+A prism turns the beam by total internal reflection off a face at 45°, greater than the critical angle for glass, and total internal reflection loses no light to absorption at the reflecting surface.
+
+**What is the range of human hearing?**
+Humans typically hear frequencies between 20 Hz and 20,000 Hz. This is Physics-only content.
 
 ## Related resources
 

@@ -270,6 +270,23 @@ Money cuts the time spent searching for trading partners, so people can speciali
 
 Next, use the [revision notes](/resources/ocr-a-level-economics-opportunity-cost-the-ppf-specialisation-and-trade-revision-notes/) for a short version and the [practice set](/resources/ocr-a-level-economics-opportunity-cost-the-ppf-specialisation-and-trade-practice/) for original questions with worked answers.
 
+## Frequently asked questions
+
+**Why is the production possibility frontier bowed outward?**
+A PPF that is concave to the origin shows increasing opportunity cost: as more of one good is produced, resources less suited to making it are switched over, so more of the other good must be given up for each extra unit. A straight-line PPF shows constant opportunity cost.
+
+**What does a PPF show?**
+A PPF illustrates scarcity, because points beyond it are unattainable; choice, because selecting one point means rejecting others; opportunity cost, shown by movement along it; and productive efficiency, because every point on it is productively efficient.
+
+**What is the double coincidence of wants?**
+Under barter, each trader must find someone who both has what they want and wants what they offer at the same time, as when a baker who needs a bicycle repair must find a repairer who wants bread. Money removes this problem by acting as a medium of exchange.
+
+**How does specialisation encourage exchange?**
+When producers specialise, total output rises, but each ends up with only the good they specialise in. Exchange turns that specialist output into a mix of goods, so both can end up with more than they would have produced alone.
+
+**How useful is the concept of opportunity cost?**
+It is most useful when alternatives can be valued, as with a firm or a clear budget, and less precise for social choices involving health or the environment. The OCR A Level Economics (H460) guide treats it as a guide to decisions rather than a decision rule.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, Component 1 content, areas of study Scarcity and choice (Opportunity cost; Specialisation and trade).

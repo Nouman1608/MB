@@ -21,9 +21,9 @@ syllabusTopics:
     subtopic: "fission-and-fusion"
 description: "Atomic structure and radioactive decay, half-life calculations, and nuclear fission and fusion, for Pearson Edexcel International GCSE Physics 4PH1."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -257,6 +257,20 @@ charged nuclei.
 - Contamination vs irradiation
 - Chain reactions, control rods, moderator and shielding in fission
 - Fusion as the energy source for stars, and why it needs high temperature/pressure
+
+## Frequently asked questions
+
+**Which radiation is used to monitor the thickness of paper?**
+Beta. Alpha would be completely absorbed whatever the thickness and gamma would pass through almost unaffected, but beta is partly absorbed, so the count rate changes with thickness.
+
+**Is neutron radiation compared with alpha, beta and gamma for penetration?**
+No. Neutron radiation enters the specification only through its effect on the nucleus: neutron emission decreases the mass number by 1 and leaves the atomic number unchanged.
+
+**What is the difference between contamination and irradiation?**
+Contamination means radioactive material has been transferred onto or into an object or person, an ongoing risk. Irradiation is exposure to an external source without transfer of material, and it stops once the source is removed.
+
+**How is radiation detected at Edexcel IGCSE?**
+The specification names photographic film and the Geiger-Müller detector as detection methods.
 
 ## Related resources
 

@@ -181,6 +181,20 @@ Plan (6 by 4)       Front elevation      Side elevation (from right)
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the order of rotation symmetry of a shape with no rotation symmetry?**
+It is order 1, not order 0, because every shape fits onto itself once in a full turn, counting the starting position.
+
+**Why are AAA and SSA not conditions for congruent triangles?**
+Three equal angles only show the triangles are similar, not the same size, and two sides with a non-included angle can fit two different triangles. The valid conditions are SSS, SAS, ASA or AAS, and RHS.
+
+**How do you match the sides of similar triangles correctly?**
+Match vertices by the letters in the statement, not by their position on the page, and use whole sides. Using part of a side, such as DB instead of AB, gives the wrong scale factor.
+
+**How many lines of symmetry does a rhombus have?**
+A rhombus that is not a square has 2 lines of symmetry and rotation symmetry of order 2. A parallelogram that is not a rectangle or rhombus has no lines of symmetry.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.3.1, references G6, G7, G10 and G11.

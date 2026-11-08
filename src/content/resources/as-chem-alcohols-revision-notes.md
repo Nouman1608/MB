@@ -16,9 +16,9 @@ syllabusTopics:
     subtopic: "as-alcohols"
 description: "Condensed recall notes on alcohol classification, oxidation products, distinguishing tests and elimination for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -162,3 +162,17 @@ For the full explanation, including the iodoform test, see the
 [Alcohols: Reactions and Oxidation study guide](/resources/as-alcohols-reactions-and-oxidation/);
 for exam-style practice with full worked answers, see the
 [Alcohols practice questions](/resources/as-chem-alcohols-practice/).
+
+## Frequently asked questions
+
+**What colour change shows that acidified dichromate has oxidised an alcohol?**
+The solution turns from orange to green as Cr₂O₇²⁻ is reduced to Cr³⁺. No colour change occurs with a tertiary alcohol.
+
+**What is the difference between Tollens' reagent and Fehling's solution results?**
+Tollens' reagent gives a silver mirror with an aldehyde, while Fehling's solution gives a brick-red precipitate. Confusing these two results is a common exam trap.
+
+**What conditions are needed to dehydrate an alcohol?**
+Dehydration needs a concentrated acid catalyst and heat, not a dilute acid. The alcohol loses water to form an alkene, for example ethanol to ethene.
+
+**Why are alcohols weaker acids than water?**
+Alkyl groups are electron-donating, which makes it harder to release a hydrogen ion and destabilises the alkoxide ion formed. Full answers link the electron-donating effect to both of these points.

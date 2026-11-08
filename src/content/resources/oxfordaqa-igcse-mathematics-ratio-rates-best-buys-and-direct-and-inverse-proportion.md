@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "number-oxfordaqa-igcse-maths"
     subtopic: "ratio-and-proportion-oxfordaqa-igcse-maths"
-description: "Worked study guide to ratio, rates of pay, best buys and direct and inverse proportion for OxfordAQA International GCSE Mathematics."
+description: "Worked study guide to ratio, rates of pay, best buys and direct and inverse proportion for OxfordAQA International GCSE Mathematics (9260), with examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -379,6 +379,20 @@ The overall change is not "-8% + 5% = -3%". Percentages of different amounts can
 ## Next steps
 
 Condense this with the [revision notes](/resources/oxfordaqa-igcse-mathematics-ratio-rates-best-buys-and-direct-and-inverse-proportion-revision-notes/), then try the [practice questions](/resources/oxfordaqa-igcse-mathematics-ratio-rates-best-buys-and-direct-and-inverse-proportion-practice/). Tick off the topic on the [checklist](/checklists/oxfordaqa/igcse/mathematics/) and run a [free diagnostic](/diagnostics/) to find weak spots.
+
+## Frequently asked questions
+
+**Does the order of a ratio matter?**
+Yes. The ratio of boys to girls is not the ratio of girls to boys, so write the parts in the order the question gives.
+
+**How do you combine two ratios?**
+Scale both ratios so the shared term has the same number, then read off the combined ratio. For example, A : B = 2 : 3 and B : C = 4 : 5 become 8 : 12 and 12 : 15, so A : B : C = 8 : 12 : 15.
+
+**What does direct proportion look like on a graph?**
+A straight line through the origin, because the ratio of the two quantities stays constant. Inverse proportion gives a curve falling towards the axes.
+
+**Which references does ratio and proportion cover in OxfordAQA 9260?**
+In OxfordAQA International GCSE Mathematics (9260), N16 to N19 cover ratio notation, dividing in a ratio, ratio problems and rates including best buys, and N20 covers direct and inverse proportion and repeated proportional change.
 
 ## Official syllabus
 

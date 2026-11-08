@@ -20,7 +20,7 @@ publishedDate: 2026-10-18
 featured: false
 ---
 
-These notes condense section 4.8, Inflation and deflation, of the Cambridge IGCSE Economics syllabus for examination in 2026. The course is not tiered. For full explanations and worked examples, read the [study guide](/resources/cambridge-igcse-economics-inflation-and-deflation/), then test yourself with the [practice questions](/resources/cambridge-igcse-economics-inflation-and-deflation-practice/). The [course hub](/boards/cambridge/igcse/economics/), the [checklist](/checklists/cambridge/igcse/economics/) and the [free diagnostics](/diagnostics/) show where to go next. All figures are invented for illustration.
+These notes condense section 4.8, Inflation and deflation, of the Cambridge IGCSE Economics (0455) syllabus for examination in 2026. The course is not tiered. For full explanations and worked examples, read the [study guide](/resources/cambridge-igcse-economics-inflation-and-deflation/), then test yourself with the [practice questions](/resources/cambridge-igcse-economics-inflation-and-deflation-practice/). The [course hub](/boards/cambridge/igcse/economics/), the [checklist](/checklists/cambridge/igcse/economics/) and the [free diagnostics](/diagnostics/) show where to go next. All figures are invented for illustration.
 
 ## 4.8.1 Definitions
 
@@ -245,6 +245,20 @@ Evaluation prompts: What caused the price change? How long will the policy take?
 - Giving a policy without saying how it reaches prices.
 - Evaluation that lists drawbacks without judging which matters most in the case given.
 - Treating all deflation as harmful.
+
+## Frequently asked questions
+
+**What is the difference between demand-pull and cost-push inflation?**
+Demand-pull inflation happens when total demand rises faster than the economy's ability to produce. Cost-push inflation happens when rising production costs, such as wages, raw materials, energy or indirect taxes, are passed on in higher prices.
+
+**Who loses from inflation?**
+Savers whose interest rate is below inflation and lenders at fixed rates lose in real terms, and workers lose if pay rises more slowly than prices. Borrowers with fixed repayments can gain.
+
+**Is deflation always harmful?**
+No. Supply-side deflation from falling costs or new technology usually comes with rising output and is often welcome. Demand-side deflation from weak total demand usually comes with falling output and rising unemployment.
+
+**What are the limits of the CPI?**
+The CPI reflects an average household, so groups such as pensioners or students may face different rates. The basket and weights must be updated as habits change, and it does not fully capture improvements in quality.
 
 ## Official syllabus
 

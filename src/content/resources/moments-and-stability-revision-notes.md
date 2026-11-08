@@ -15,9 +15,9 @@ syllabusTopics:
     subtopic: "forces"
 description: "Condensed recall notes on Hooke\u2019s law, the principle of moments, centre of gravity and stability for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -152,3 +152,17 @@ than relying on just one.
 6. A see-saw pivoted at its centre has a 300 N weight 1.2 m from the pivot on one side. Find the distance from the pivot for a balancing 400 N weight on the other side.
 
 **Answers:** 1. Extension = 0.06 m; k = 3/0.06 = **50 N/m**. 2. For an object in equilibrium, the sum of clockwise moments about a point equals the sum of anticlockwise moments about the same point. 3. 40 × 0.25 = **10 N m**. 4. Suspend it freely from one point and mark the vertical with a plumb line; repeat from a second point; the centre of gravity is where the lines intersect. 5. It has a lower centre of gravity and a wider wheelbase, so the car must tilt much further before the line of action of its weight falls outside its base. 6. 400 × d = 300 × 1.2 → d = 360 ÷ 400 = **0.9 m**.
+
+## Frequently asked questions
+
+**How do you find the centre of gravity of an irregular flat shape?**
+Suspend the shape from one point, hang a plumb line and draw the vertical line. Repeat from a second point; the centre of gravity is where the two lines cross.
+
+**When does an object topple over?**
+An object topples when the vertical line through its centre of gravity falls outside its base. A low centre of gravity and a wide base make an object more stable.
+
+**What are the two conditions for equilibrium?**
+An object is in equilibrium when the moments balance (no resultant moment) and the forces balance (no resultant force). Both conditions are needed.
+
+**What units should I use when calculating moments?**
+A moment is measured in newton metres (N m), so convert any distances in centimetres to metres before calculating.

@@ -142,6 +142,20 @@ Related: [study guide](/resources/ib-dp-physics-atomic-structure-rutherford-scat
 * Try [all free 10-minute diagnostics](/diagnostics/).
 * [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these IB DP Physics atomic structure questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Which of these questions are HL only?**
+Questions 1 to 5 are for SL and HL. Questions 6 to 12 are additional higher level, so they are HL only.
+
+**What constants and precision do these questions use?**
+Use c = 3.00 × 10⁸ m s⁻¹, h = 6.63 × 10⁻³⁴ J s, e = 1.60 × 10⁻¹⁹ C, k = 8.99 × 10⁹ N m² C⁻², R₀ = 1.2 fm and ke² = 1.44 MeV fm, and give numerical answers to three significant figures.
+
+**What unit and sign slips lose marks here?**
+Substituting eV straight into E = hf without converting to joules, and giving Bohr energy levels a positive sign, are common ways to lose marks.
+
 ## Official syllabus
 
 IB *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization: sub-topic E.1 Structure of the atom.

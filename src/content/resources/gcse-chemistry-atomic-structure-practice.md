@@ -12,11 +12,11 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "topic-c1-particles-j248"
     subtopic: "c1-2-atomic-structure-j248"
-description: "Original exam-style practice questions with full worked answers spanning C1.2 Atomic structure (Papers 1 and 3) and C4.1 group trends and the periodic table (Papers 2 and 4) for GCSE Chemistry."
+description: "Original OCR GCSE Chemistry J248 practice questions with worked answers on C1.2 atomic structure and C4.1 group trends and the periodic table."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -258,3 +258,17 @@ chlorine + potassium bromide → potassium chloride + bromine [1].
 - Confusing group number (outer-shell electrons) with period number (occupied shells).
 - Assuming melting/boiling point and reactivity change in the same direction down Group 7 — they don't.
 - Predicting a less reactive halogen can displace a more reactive one — displacement only ever goes from more reactive to less reactive.
+
+## Frequently asked questions
+
+**Which J248 topics does this practice set cover?**
+It spans two OCR GCSE Chemistry J248 topics: C1.2 Atomic structure, assessed on Papers 1 and 3, and C4.1 Predicting chemical reactions, covering group trends and the periodic table, assessed on Papers 2 and 4. Use each half alongside the paper it belongs to.
+
+**How is the OCR J248 paper structured?**
+OCR's J248 papers open with a Section A of 15 multiple-choice questions worth 15 marks, followed by a longer Section B of short-answer and extended questions. This set mirrors that format with a topic sample.
+
+**Where are marks usually lost on atomic structure and periodic table questions?**
+Common errors include giving alpha-scattering observations without their conclusions, saying reactivity increases down both Group 1 and Group 7, and giving only one reason for the Group 1 trend. Confusing group number with period number is another frequent slip.
+
+**Do melting points and reactivity change in the same direction down Group 7?**
+No. Melting and boiling points increase down Group 7, while reactivity decreases. Assuming they change in the same direction loses marks.

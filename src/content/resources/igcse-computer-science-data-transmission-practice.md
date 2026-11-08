@@ -12,11 +12,20 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "data-transmission"
-description: "Original exam-style practice questions with full worked answers on packet switching, transmission methods, error detection and encryption, for Cambridge IGCSE Computer Science (0478) Topic 2 Data Transmission."
+  - qualification: "igcse"
+    topic: "data-transmission"
+    subtopic: "types-and-methods-of-data-transmission-0478"
+  - qualification: "igcse"
+    topic: "data-transmission"
+    subtopic: "methods-of-error-detection-0478"
+  - qualification: "igcse"
+    topic: "data-transmission"
+    subtopic: "encryption-0478"
+description: "Original practice questions with worked answers for Cambridge IGCSE Computer Science 0478 Topic 2: packet switching, transmission, errors and encryption."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -122,3 +131,17 @@ error-detection methods distinct by what each one actually checks — a parity c
 checksum recalculates a value for comparison, an echo check resends the data itself — since these
 three methods are easily confused with each other on exam questions that name only one and ask for a
 description. Question 9 rewards preparing at least one named benefit and one named drawback of USB specifically, since the study guide flags this as a topic students sometimes wrongly treat as too minor to be examined in its own right on a full paper.
+
+## Frequently asked questions
+
+**What are the three parts of a data packet?**
+A packet has a header, a payload and a trailer. The header contains the destination address, the packet number and the originator's address.
+
+**How should you answer a describe packet switching question?**
+Narrate the process as a sequence, from breaking the message into packets through routing and out-of-order arrival to reordering with packet numbers, rather than listing facts in any order.
+
+**What is the difference between a parity check, a checksum and an echo check?**
+A parity check counts the 1-bits against an expected odd or even total, a checksum recalculates a value sent with the data, and an echo check sends the received data back for comparison.
+
+**Why is serial transmission better over long distances?**
+Sending one bit at a time along a single wire avoids skew, where bits sent along parallel wires arrive at slightly different times, which causes more errors as cable length increases.

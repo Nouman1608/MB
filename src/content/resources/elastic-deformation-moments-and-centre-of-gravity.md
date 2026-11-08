@@ -15,9 +15,9 @@ syllabusTopics:
     subtopic: "forces"
 description: "Spring constant and load-extension graphs, the principle of moments, and centre of gravity and stability, for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 featured: false
 ---
@@ -217,6 +217,20 @@ graph (elastic limit not required)
 - Both conditions for equilibrium: no resultant force, and no resultant moment (the principle of moments), and the metre-rule experiment that verifies the moment condition
 - Centre of gravity: definition, the plumb-line method for a plane lamina,
 and its qualitative link to stability
+
+## Frequently asked questions
+
+**Is the elastic limit required for Cambridge O Level Physics 5054?**
+No. Only the limit of proportionality, where the load-extension graph stops being a straight line, is required; an understanding of the elastic limit is not.
+
+**Is Cambridge O Level Physics 5054 tiered?**
+No. 5054 is not tiered, so every candidate covers all of this content.
+
+**What are the conditions for equilibrium?**
+There must be no resultant force and no resultant moment. Balanced moments alone are not enough, because a body can have zero resultant moment and still accelerate if the forces do not balance.
+
+**Where are the rest of the 5054 forces topics covered?**
+The balanced and unbalanced forces, friction and circular motion parts of subtopic 1.5 are covered on the Forces and Motion page.
 
 ## Related resources
 

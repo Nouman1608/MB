@@ -12,13 +12,13 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "bioenergetics-oxfordaqa-igcse-biology"
-description: "Condensed recall notes on photosynthesis, exchange and transport in plants, circulation, digestion, breathing and respiration, for OxfordAQA International GCSE Biology (9201), Topic 2 Bioenergetics."
+description: "Condensed notes on photosynthesis, plant transport, circulation, digestion, breathing and respiration for OxfordAQA IGCSE Biology 9201, Topic 2 Bioenergetics."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -243,6 +243,20 @@ This three-step chain -- breathing supplies, circulation transports, respiration
 ## How this connects forward
 
 Topic 1 (Organisation) covers cells, tissues and organs in general; Bioenergetics applies that structure to the specific systems responsible for capturing and using energy. Several sub-topics later in the specification, including infection and response, assume the digestion, circulation and gas-exchange content covered here, so a solid grasp of this topic's connected systems pays off well beyond Topic 2 itself.
+
+## Frequently asked questions
+
+**What are the limiting factors for photosynthesis?**
+Light, temperature and carbon dioxide concentration. In an exam question, identify the one that is in short supply in the specific scenario, such as low temperature on a bright but cold morning.
+
+**What do xylem and phloem transport?**
+Xylem carries water from the roots to the leaves, in one direction. Phloem carries dissolved sugars, and its direction depends on where sugars are being produced and where they are needed.
+
+**Which enzymes digest starch, protein and fat?**
+Amylase breaks down starch, protease breaks down protein and lipase breaks down fat. Digestion turns these insoluble food molecules into soluble substances that can be absorbed.
+
+**How do breathing, circulation and respiration link together?**
+Breathing brings oxygen into the alveoli, the double circulatory system transports oxygen and glucose to cells, and respiration in the mitochondria releases energy from them. Exam questions often expect this connected chain.
 
 ## Official syllabus
 

@@ -13,7 +13,7 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "a-proof-aqa-alevel-maths"
-description: "Condensed AQA A-level Maths proof notes: method steps, algebraic forms, the √2 and primes proofs, key distinctions and a quick self-test."
+description: "Condensed AQA A-level Maths proof notes: method steps, algebraic forms, the √2 and primes proofs, key distinctions and a quick self-test (7357)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-06
 featured: false
@@ -261,6 +261,20 @@ If the question names the method ("prove by contradiction"), you must use that m
 - In the primes proof, claiming that p₁p₂…pₙ + 1 must be prime.
 - Not stating clearly what the contradiction is.
 - Using ⇔ where only ⇒ holds.
+
+## Frequently asked questions
+
+**Which named proofs do you need for AQA A-level Maths?**
+The AQA 7357 specification names two proofs you should be able to write in full: that √2 is irrational and that there are infinitely many primes.
+
+**What is the difference between a counter-example and a proof by contradiction?**
+A counter-example shows that a statement is false by giving one case where it fails. A proof by contradiction shows that a statement is true by assuming it is false and reaching something impossible.
+
+**When does checking cases count as a proof?**
+Only when the cases cover every possibility, which is proof by exhaustion. Testing a few values that work never proves a statement claimed for all numbers.
+
+**Why does the √2 proof need the phrase in lowest terms?**
+The contradiction comes from showing that a and b are both even, which clashes with a/b having no common factor. If lowest terms is left out of the assumption, there is nothing to contradict.
 
 ## Official syllabus
 

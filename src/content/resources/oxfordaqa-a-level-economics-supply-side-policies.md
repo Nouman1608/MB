@@ -207,6 +207,23 @@ Industrial policy is targeted support for particular industries or regions: subs
 - Ignoring the demand side. Extra capacity needs spending to use it.
 - Evaluation with no judgement. Conclude, then give the condition your conclusion depends on.
 
+## Frequently asked questions
+
+**Which supply-side policies does the OxfordAQA 9640 specification name?**
+The OxfordAQA 9640 specification names tax changes aimed at incentives, government spending on education and training, infrastructure, welfare reforms, deregulation and industrial policy, in section 3.2.4.3.
+
+**How can a corporation tax cut raise investment?**
+A lower tax rate raises the after-tax return on a project, so investments that fell below a firm's minimum acceptable return may now go ahead. More investment raises the capital stock and shifts LRAS right.
+
+**How do welfare reforms affect the incentive to work?**
+Benefits withdrawn as earnings rise act like a tax on extra earnings. A gentler withdrawal rate increases the net gain from taking a job, but costs more and can weaken support for those who cannot work.
+
+**What are the risks of industrial policy?**
+Governments may back the wrong industries, lobbying can distort choices, other taxpayers fund the support, and some of the jobs created would have existed anyway.
+
+**How can supply-side policies improve the current account?**
+Higher productivity and lower costs improve price and quality competitiveness, which can raise exports and reduce imports. The full current account also includes income and transfers, so it may not improve by as much.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, section 3.2.4.3 Supply-side policies and section 3.5 Quantitative skills. First teaching September 2020; first International AS exams May/June 2021; first International A-level exams May/June 2022. Published by OxfordAQA.

@@ -158,6 +158,20 @@ These questions cover section 6.3 (6.3.1 to 6.3.5, foreign exchange rates) of th
 - Take the [free 10-minute diagnostics](/diagnostics/) to see where you are weakest.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**When do you divide rather than multiply in a currency conversion?**
+If the rate is quoted with the home currency as one unit, multiply to convert into the foreign currency and divide to convert back. Multiplying when the question needs dividing is a common slip.
+
+**Is an appreciation of one currency the same percentage as the depreciation of the other?**
+No. A 20% appreciation of one currency is a smaller percentage depreciation of the other, so quote the percentage for the currency the question asks about.
+
+**Does a lower exchange rate always help exports?**
+A lower rate makes exports cheaper abroad, but whether spending on them rises depends on the price elasticity of demand. Refer to PED rather than assuming the effect.
+
+**What must you remember about defending a fixed exchange rate?**
+A central bank defending a fixed rate must buy its own currency using foreign currency reserves, or raise interest rates. Reserves are limited, so in Cambridge O Level Economics 2281 evaluations note that a fixed rate cannot always be held.
+
 ## Official syllabus
 
 These questions follow the Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: section 6.3 Foreign exchange rates.

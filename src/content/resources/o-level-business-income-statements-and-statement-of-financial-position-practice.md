@@ -166,6 +166,23 @@ Related pages: the [study guide](/resources/o-level-business-income-statements-a
 - Describing financing without percentages or amounts from the data.
 - Listing several recommendations and never choosing one.
 
+## Frequently asked questions
+
+**Are these Cambridge O Level Business Studies 7115 past paper questions?**
+No. They are original practice questions written for Marlbridge on sections 5.3 (Income statements) and 5.4 (Statement of financial position). Use them alongside the official past papers.
+
+**Where does a new cost such as advertising go in an income statement calculation?**
+A new running cost such as advertising belongs in expenses, not in cost of sales. Putting it in the wrong line changes gross profit and loses marks.
+
+**What should an "evaluate" answer on an income statement proposal include?**
+The calculation, a clear decision and a condition under which the decision would change, such as how customers react to a price rise. A calculation alone is not enough.
+
+**How do you answer a "justify" question comparing two businesses' statements?**
+Compare the two point by point using figures or percentages from the data, then make a clear choice. Naming one business with no weighing does not meet the command word.
+
+**Is it better to give several recommendations or one?**
+Recommend one main action and say why it beats the alternatives. Listing every possible idea without choosing does not show evaluation.
+
 ## Next steps
 
 - Review the [revision notes](/resources/o-level-business-income-statements-and-statement-of-financial-position-revision-notes/) and the [study guide](/resources/o-level-business-income-statements-and-statement-of-financial-position/).

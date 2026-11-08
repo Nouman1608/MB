@@ -23,11 +23,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-an-introduction-to-as-level-organic-chemistry"
     subtopic: "as-isomerism"
-description: "The naming conventions, mechanism vocabulary and isomerism you need before studying any specific organic reaction, for Cambridge International AS & A Level Chemistry 9701."
+description: "Cambridge AS Level Chemistry 9701 Topic 13: organic formulae and naming, bond fission, nucleophiles and electrophiles, curly arrows, shapes and isomerism."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -190,6 +190,23 @@ nucleophilic substitution, nucleophilic addition
 - Structural isomerism: chain, positional, functional group
 - Stereoisomerism: geometrical (cis/trans) and optical (chiral centres,
 enantiomers)
+
+## Frequently asked questions
+
+**What is the difference between a nucleophile and an electrophile?**
+In Cambridge International AS & A Level Chemistry 9701, a nucleophile is an electron-pair donor, attracted to a region of positive or partial positive charge. An electrophile is an electron-pair acceptor, attracted to a region of negative or partial negative charge.
+
+**What is the difference between homolytic and heterolytic fission?**
+Homolytic fission splits a covalent bond so that each atom keeps one electron, producing two free radicals. Heterolytic fission splits a bond so that one atom keeps both electrons, producing two oppositely charged ions.
+
+**Where should a curly arrow start in a mechanism?**
+A curly arrow shows the movement of an electron pair and always starts at a bond or a lone pair, pointing to where the pair ends up. Starting an arrow from an atom is a common mistake.
+
+**What is a chiral centre?**
+A chiral centre is a carbon atom bonded to four different groups. It produces two non-superimposable mirror-image structures called enantiomers.
+
+**Why do alkenes show cis/trans isomerism?**
+Rotation around the C=C double bond is restricted by the π bond, so the two substituents on each carbon are locked on one side or the other. This gives geometrical (cis/trans) isomers.
 
 ## Related resources
 

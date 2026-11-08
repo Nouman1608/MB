@@ -9,13 +9,13 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Biology"]
 syllabusSeries: "First assessment 2025"
 order: 1
-description: "Paper-by-paper exam preparation for IB Diploma Programme Biology -- how to allocate time across Paper 1 and Paper 2, a worked practice scenario, and a before/during-exam checklist."
+description: "Exam preparation for IB Diploma Programme Biology: time planning for Paper 1 and Paper 2, a worked data-based scenario and a before and during exam checklist."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 The [assessment revision notes](/resources/ib-dp-biology-assessment-revision-notes/) set out what
@@ -123,6 +123,20 @@ spending equal time on a 2-mark and an 8-mark question wastes time that could be
 the higher-value question. 5. It should read and state approximate values from the graph to satisfy
 "describe," and separately explain the underlying biological mechanism to satisfy "explain," rather
 than treating the two as one combined task.
+
+## Frequently asked questions
+
+**How should you divide your time in IB Biology Paper 1?**
+Allocate time roughly in proportion to the marks each question carries, so an 8-mark question gets more of your working time than a 2-mark question, and read the axes and units of data questions carefully.
+
+**Is IB DP Biology Paper 1 only multiple choice?**
+No. Paper 1 has a multiple-choice section followed by a data-based section that needs written answers, and it draws on the whole syllabus; it is worth 36% of the final grade.
+
+**How do you prepare for IB Biology data-based questions?**
+Practise with unfamiliar graphs, tables and experimental descriptions from past papers or practice questions, because data-based questions test reading and reasoning from new data rather than recall.
+
+**How should you answer "describe" and "explain" in the same question?**
+Treat them as two tasks: first describe the pattern using approximate values read from the graph, then explain the biological mechanism behind it.
 
 ## Official syllabus
 

@@ -150,6 +150,20 @@ These questions cover section 3.4, **Legal controls**, of the Cambridge IGCSE Bu
 - Take the [free 10-minute diagnostics](/diagnostics/) to find your next topic.
 - [Book a free trial class](/trial/) if you want help with evaluation answers.
 
+## Frequently asked questions
+
+**Is every strong advertising claim misleading?**
+No. A clear opinion such as "the best pizza in the city" differs from a false factual claim that can be checked, such as a battery life that testing does not support. Treating every enthusiastic claim as misleading is a common error.
+
+**What are common mistakes on legal controls questions in IGCSE Business 0264?**
+Students often describe the effect on customers only when the question asks about the business, name laws from memory instead of explaining purpose and effect, confuse faulty goods with a customer who has changed their mind, and leave out the formula or units in calculations. Giving only costs or only benefits in an evaluate answer also loses marks.
+
+**Do you need to know named consumer protection laws?**
+No. The Cambridge IGCSE Business 0264 syllabus does not ask for named laws, so explain the purpose of legal controls and their effects on the business in general terms.
+
+**Which syllabus section covers legal controls on marketing?**
+Legal controls are section 3.4 of the Cambridge IGCSE Business 0264 syllabus, covering misleading promotion, faulty goods and the effects of legal controls on marketing.
+
 ## Official syllabus
 
 These questions follow the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International), section 3.4 Legal controls.

@@ -287,6 +287,23 @@ Compare 4-methylcyclohexan-1-ol: there the two routes round the ring from C1 are
 
 The [Amino acids, amides and chirality revision notes](/resources/ocr-a-level-chemistry-amino-acids-amides-and-chirality-revision-notes/) condense this page, and the [practice questions](/resources/ocr-a-level-chemistry-amino-acids-amides-and-chirality-practice/) test it. Related pages: the [Amines study guide](/resources/ocr-a-level-chemistry-amines/), [Carboxylic acids and esters](/resources/ocr-a-level-chemistry-carboxylic-acids-and-esters/) and [Alkenes](/resources/ocr-a-level-chemistry-alkenes/) for E/Z isomerism.
 
+## Frequently asked questions
+
+**What does section 6.2.2 cover in OCR A Level Chemistry A?**
+It covers α-amino acids and the reactions of their two functional groups, primary and secondary amides, optical isomerism, and finding chiral centres in any molecule.
+
+**How do you make an ester of an amino acid?**
+Heat the amino acid with an excess of the alcohol and concentrated sulfuric acid as the catalyst. The COOH group forms the ester.
+
+**How do you draw a 3-D diagram of a chiral molecule?**
+Draw two neighbouring bonds as plain lines in the plane of the page, one solid wedge pointing towards you and one hashed wedge pointing away, with both wedges on the side opposite the plain pair. Drawing four plain bonds makes the mirror images look identical.
+
+**Which carbon atoms can never be chiral centres?**
+A carbon that is part of a C=C or C=O, a carbon carrying two or more hydrogens (CH₂ or CH₃), and a carbon carrying two identical groups cannot be chiral centres.
+
+**What is the difference between an amide and an amine?**
+An amide has a C=O group attached to the nitrogen; an amine does not. CH₃CH₂NHCH₃ is therefore an amine, not an amide.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 6.2.2 Amino acids, amides and chirality, learning outcomes (a)(i)–(ii), (b), (c) and (d). Published by OCR.

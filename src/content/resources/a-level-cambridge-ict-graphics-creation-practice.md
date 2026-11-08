@@ -169,6 +169,20 @@ Answers show one acceptable set of points, with a [1] per creditworthy point. Th
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is graphics creation an A Level topic in Cambridge 9626?**
+Yes. Graphics creation is topic 19 of Cambridge International AS & A Level Information Technology (9626) and is A Level only. It is examined in Paper 3 Advanced Theory, based on sections 12 to 21, and Paper 4 Advanced Practical, based on sections 17 to 21.
+
+**Can you use a calculator for graphics file-size questions?**
+No. Calculators are not allowed in Paper 3, so file-size and resolution calculations must be worked by hand, with the working shown and units given.
+
+**What are common mistakes on graphics creation questions?**
+Common slips include calling CMYK additive, missing the divide-by-8 step in file sizes, giving resolution answers without units, choosing JPEG for a logo that needs transparency, and forgetting that text converted to curves can no longer be edited as text.
+
+**How do you score well on a describe-how question about graphics software?**
+Name the specific tools used and link each one to its purpose in the scenario. A general description such as "make it look professional" with no named tools earns little.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 19: Graphics creation (19.1 Common graphics skills; 19.2 Vector graphics; 19.3 Bitmap images; 19.4 Compression; 19.5 Text).

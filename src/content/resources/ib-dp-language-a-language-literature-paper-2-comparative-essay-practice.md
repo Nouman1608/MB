@@ -17,11 +17,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-language-and-literature-time-and-space"
 description: "Original IB DP Language and Literature Paper 2 practice: thesis, woven comparison and evidence tasks with a full essay plan and indicative answers."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -228,6 +228,20 @@ each work its own half of the essay is not.
 - [Printable checklist](/checklists/ib/ib-dp/language-a-language-and-literature/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**What is the most common structural mistake in Paper 2?**
+Writing in blocks, with one half of the essay on each work and the only comparison in the last sentence. In IB DP Language A: Language and Literature Paper 2, every body paragraph should discuss both works.
+
+**What does "to what effect" mean in a Paper 2 question?**
+It is the second half of a double demand: as well as explaining how the writers present something, you must explain what their choices achieve. Answering only the "in what ways" half leaves the question half done.
+
+**How should you use context in a Paper 2 essay?**
+Use context to explain a difference between the two works' methods or effects. Context stated as dates and facts, never linked to a writer's choice, adds little.
+
+**What should you do if a question suits only one of your works?**
+Choose another question or another pair of works rather than forcing the second work to fit. Test the fit by naming one comparable moment from each work before you commit.
 
 ## Official syllabus
 

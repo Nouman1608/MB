@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Break-even analysis (YAC11)"
+title: "Edexcel International A Level Accounting: Break-even analysis (YAC11)"
 seoTitle: "Edexcel IAL Accounting Break-even Analysis Study Guide"
 resourceType: "study-guides"
 subject: "accounting"
@@ -219,6 +219,23 @@ The straight lines assume that the selling price and variable cost per unit stay
 - Starting the total costs line at the origin, or the sales revenue line at the fixed cost figure.
 - Reading break-even where the revenue line crosses the fixed costs line.
 - Ignoring a step in semi-fixed costs, so a second break-even point is missed.
+
+## Frequently asked questions
+
+**How does the high-low method split a semi-variable cost?**
+Variable cost per unit = (cost at high output − cost at low output) ÷ (high output − low output). The fixed element is the total cost at either level less output × variable cost per unit, and it should agree at both levels.
+
+**How do you calculate the break-even point?**
+Break-even output = fixed costs ÷ unit contribution, where unit contribution is selling price less variable cost per unit. Break-even revenue = break-even output × selling price.
+
+**What is the margin of safety?**
+The margin of safety is how far budgeted or actual sales are above the break-even point. As a percentage it is margin of safety ÷ budgeted sales × 100.
+
+**Why can there be more than one break-even point?**
+When a semi-fixed (stepped) cost jumps to a new level at a band of output, fixed costs rise, so the business can move back into loss and need a second break-even point within the new band.
+
+**What is the difference between a semi-variable and a semi-fixed cost?**
+A semi-variable cost has a fixed element plus a variable element. A semi-fixed, or stepped, cost is fixed over a band of output and then jumps to a new level when the band is passed.
 
 ## Where to go next
 

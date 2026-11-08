@@ -306,6 +306,23 @@ Add 180° again: 113.198...° + 180° = 293.198...°
 - Leaving a negative calculator angle such as −66.8° as an answer when the range is 0° ⩽ x ⩽ 360°.
 - Drawing tan x crossing the lines x = 90° or x = 270°, or joining the branches across an asymptote.
 
+## Frequently asked questions
+
+**Are exact trigonometric values on the Core 0580 syllabus?**
+No. Subtopics E6.3 Exact trigonometric values and E6.4 Trigonometric functions are Extended only in Cambridge IGCSE Mathematics 0580.
+
+**What are the exact values of sin 30°, cos 30° and tan 30°?**
+sin 30° = 1/2, cos 30° = √3/2 and tan 30° = √3/3 (which equals 1/√3). A half-equilateral triangle with the side of length 1 opposite the 30° angle helps you recall them.
+
+**Why do trigonometric equations often have two solutions?**
+Between 0° and 360° the sine, cosine and tangent graphs reach most values twice. Use symmetry to find the second solution: 180° − x for sine and 360° − x for cosine.
+
+**Should you give 0.866 when asked for an exact value?**
+No. When a question asks for an exact value, give the surd form, such as √3/2, because decimals like 0.866 are only approximations.
+
+**Does the graph of y = tan x cross x = 90°?**
+No. y = tan x has vertical asymptotes at x = 90° and x = 270°, so the graph never crosses those lines and its branches should not be joined across them.
+
 ## Next steps
 
 Practise the equation and exact-value questions in the [Extended trigonometry practice set](/resources/igcse-mathematics-trigonometry-extended-practice/). If you sit Core papers, the [Core diagnostic](/practice/0580/diagnostic/core/) covers your content instead.

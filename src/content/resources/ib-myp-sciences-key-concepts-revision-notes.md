@@ -180,6 +180,20 @@ The guide's headings are remembering facts and topics (factual), analysing big i
 - Writing a statement of inquiry that names the topic and would not transfer.
 - Writing a "debatable" question that has a factual answer.
 
+## Frequently asked questions
+
+**How do you describe a change using the key concept of change?**
+Name the system, say whether the change is qualitative or quantitative and whether it is reversible, then give its cause and consequence. Those four parts make a full description.
+
+**Are all chemical changes irreversible?**
+No. Melting, dissolving and many reactions, such as dehydrating copper(II) sulfate, can be reversed. Calling every change irreversible is a common error.
+
+**What is the difference between a correlation and a relationship in science?**
+In MYP Sciences a relationship is a connection between variables found by observation or experiment that can be tested by experiment. A correlation alone has not been tested in that way.
+
+**What related concepts are used in MYP Sciences?**
+The guide lists twelve related concepts for each science, and nine appear in all three lists, including consequences, energy, evidence and form. They combine with a key concept and a global context to build a statement of inquiry.
+
 ## Official syllabus
 
 These notes are aligned to the IB *MYP Sciences guide* (for use from September 2014/January 2015; published May 2014, updated May 2019), International Baccalaureate Organization. Your teacher will share the task-specific clarifications for any assessed work.

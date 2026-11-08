@@ -206,6 +206,23 @@ Group profit is 100 cu either way. Raising the price from 100 to 140 cuts the gr
 - Writing "transfer pricing is illegal". Setting prices that do not match market prices is the problem, and enforcement varies.
 - Stopping at one-sided description when a question says "assess".
 
+## Frequently asked questions
+
+**Why do firms move production overseas?**
+Firms compare labour cost per unit, not just wages, along with shipping and management costs. Low wages attract production only if productivity is high enough to make the total cost per unit lower.
+
+**How does globalisation affect LEDCs?**
+LEDCs can gain export markets, FDI, jobs, technology and cheaper imports, but face risks such as low pay, profits sent abroad, local firms squeezed, dependence on a few exports or one TNC, and wider inequality.
+
+**How does globalisation affect MEDCs?**
+MEDCs gain cheaper goods and inputs, larger markets and returns on overseas investment, but face structural unemployment in declining industries, pressure on low-skilled wages and regional inequality.
+
+**What is a pollution haven?**
+A pollution haven is a country with weak environmental rules that attracts dirty production. Its existence is part of the composition effect of globalisation on the environment.
+
+**Where is globalisation assessed in OxfordAQA 9640 Economics?**
+Globalisation is section 3.4.1.1 of the OxfordAQA International AS and A-level Economics (9640) specification. It is International A2 content assessed in Unit 4, where you are expected to use what you learned in Units 1 and 2.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, section 3.4.1.1 Globalisation. First teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022.

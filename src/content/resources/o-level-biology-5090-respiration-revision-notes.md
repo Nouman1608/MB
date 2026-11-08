@@ -238,6 +238,20 @@ Describe first, then explain. "Describe" wants the pattern with data; "explain" 
 - Explaining the fall in yeast respiration above the optimum without saying enzymes are denatured.
 - Forgetting that a shorter time for a colour change means a faster rate.
 
+## Frequently asked questions
+
+**Which respiration equations need to be balanced in Cambridge O Level Biology 5090?**
+Only aerobic respiration needs a balanced chemical equation in this syllabus. The anaerobic equations for humans and yeast are learned as word equations.
+
+**What is the difference between respiration and breathing?**
+Respiration is the chemical reactions in cells that break down nutrient molecules and release energy. Breathing is the movement of air into and out of the lungs.
+
+**How could you improve the yeast and temperature investigation?**
+Use smaller temperature steps near the highest rate to find the optimum more precisely, collect gas volume rather than counting bubbles, and repeat each temperature at least three times to find a mean, leaving out any clear anomaly.
+
+**How do you measure an oxygen debt from data?**
+Subtract the resting oxygen uptake from each value measured after exercise, then add the extra oxygen used until uptake returns to the resting value.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 10: Respiration, published by Cambridge Assessment International Education.

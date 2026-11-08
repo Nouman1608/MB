@@ -184,6 +184,20 @@ Deduce the new oxidation number of X. Show your working. **[4]**
 - Related OCR topic: [Acids](/resources/ocr-a-level-chemistry-acids/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**What does OCR A Level Chemistry 2.1.5 Redox cover?**
+Section 2.1.5 of OCR A Level Chemistry A (H432) covers oxidation number rules, Roman numerals in names and formulae, oxidation and reduction as electron transfer, reactions of metals with dilute acids, and interpreting unfamiliar redox reactions. It sits in Module 2, Foundations in chemistry.
+
+**What are the most common mistakes in redox questions?**
+Frequent errors include giving oxygen in a peroxide −2 or hydrogen in a metal hydride +1, writing an oxidation number as a charge such as 3+, giving iron(III) salts as the product of iron with a dilute acid, and treating all atoms of an element as changing when only some do.
+
+**How do you use electrons lost and gained to find a new oxidation number?**
+Work out the total moles of electrons lost by the reducing species, divide by the moles of the other species to get electrons gained per atom, and change its oxidation number by that amount. Always check that electrons lost equal electrons gained.
+
+**Do I need ionic equations for metals reacting with acids in OCR 2.1.5?**
+No. The specification states that ionic equations are not required for outcome (e), so give the full equation with the correct salt formula.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 2.1.5 Redox, learning outcomes (a) to (f). Published by OCR.

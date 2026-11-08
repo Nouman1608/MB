@@ -191,6 +191,17 @@ Revise first with the [study guide](/resources/o-level-biology-5090-disease-and-
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does Topic 12 cover in Cambridge O Level Biology 5090?**
+Topic 12, Disease and immunity, has three sections: 12.1 Disease (including malaria, HIV, cholera, alcohol and tobacco smoke), 12.2 Antibiotics and 12.3 Immunity. The syllabus is not tiered, so every question applies to every candidate.
+
+**How should you answer a "compare" question?**
+Give matched points that say something about both things being compared, using comparative words. One-sided answers that describe only one of them do not earn comparison marks.
+
+**Why do units and rounding matter in data questions?**
+A mean or rate without its unit, or rounded to the wrong number of figures, can lose a mark even when the method is correct. Check the units and any rounding instruction before writing the final answer.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 12: Disease and immunity, published by Cambridge Assessment International Education.

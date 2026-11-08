@@ -22,11 +22,11 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "energy-resources-and-energy-transfers"
     subtopic: "energy-resources-and-electricity-generation"
-description: "Original exam-style practice questions with full worked answers on energy stores, efficiency, thermal transfer and energy resources for Edexcel IGCSE Physics 4PH1."
+description: "Original practice questions with worked answers on energy stores, efficiency, thermal energy transfer and energy resources for Edexcel IGCSE Physics 4PH1."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: rewrote a common-mistakes bullet that described friction work not asked in question 8; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -111,7 +111,21 @@ Transfers: **mechanically**, **electrically**, **by heating**, **by radiation** 
 - Saying energy is "lost".
 - Explaining metal conduction without free electrons.
 - Comparing energy resources on one dimension only.
-- In Q8, forgetting that the work done against friction is **dissipated to the thermal energy store of the crate and floor**, not stored anywhere — there is no stored quantity for it to equal. Always check that the distance used is measured in the direction of the applied force, not just the total path travelled.
+- In work-done calculations such as question 8, using a distance that is not along the line of the force. Use the distance moved in the direction of the force, not the total path travelled.
 - Classifying nuclear power as renewable because it does not burn fossil fuels — it is non-renewable because its fuel reserve is finite.
 
 Work through the [Energy revision notes](/resources/edexcel-igcse-physics-energy-revision-notes/) alongside these questions: the notes summarise the stores, transfers and resource classifications in condensed form, while these questions test whether you can apply the work, kinetic-energy and renewable/non-renewable definitions to a specific example rather than just recall them.
+
+## Frequently asked questions
+
+**Are these Edexcel IGCSE energy questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers from Pearson Edexcel.
+
+**Which specification do these questions follow?**
+They follow the Pearson Edexcel International GCSE Physics (4PH1) content on energy stores, efficiency, thermal energy transfer and energy resources.
+
+**What mistakes lose marks in energy questions?**
+Common errors include comparing energy resources on one dimension only, and using a distance in work-done calculations that is not along the line of the force.
+
+**How should I use the revision notes with these questions?**
+The Energy revision notes summarise the stores, transfers and resource classifications in condensed form. These questions then test whether you can apply those definitions to a specific example rather than just recall them.

@@ -359,6 +359,20 @@ Tangent: y = (1/2)x - 5   (or x - 2y = 10)
 - Drawing the tangent to a curve as a chord that cuts the curve in two places.
 - Counting grid squares for an area without converting to the units on the axes.
 
+## Frequently asked questions
+
+**What do m and c mean in y = mx + c?**
+m is the gradient and c is the y-intercept. The equation must be written starting y = before you read them off.
+
+**How do you find the roots and turning point of a quadratic graph?**
+The roots are where the curve crosses the x-axis, found by solving y = 0. The turning point lies on the line of symmetry halfway between the roots, so substitute that x-value to find its y-coordinate.
+
+**What does the gradient of a velocity-time graph show?**
+The gradient of a velocity-time graph is the acceleration and the area under it is the distance travelled. Estimating these from curves is Higher tier content in AQA GCSE Maths 8300.
+
+**How do you find the equation of a tangent to a circle?**
+The tangent is perpendicular to the radius at the point of contact, so find the radius gradient, take its negative reciprocal, and use the point to find c. Circle equations x² + y² = r² are Higher tier only.
+
 ## Where to go next
 
 Fix the facts with the [Graphs revision notes](/resources/aqa-gcse-maths-8300-graphs-revision-notes/), then test yourself with the [Graphs practice questions](/resources/aqa-gcse-maths-8300-graphs-practice/). For other parts of Topic 2, use the [Algebra revision notes](/resources/aqa-gcse-mathematics-algebra-revision-notes/) and [Algebra practice questions](/resources/aqa-gcse-mathematics-algebra-practice/).

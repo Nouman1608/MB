@@ -13,7 +13,7 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "component-3-team-project-9239"
-description: "Condensed recall notes on Component 3's team formation, presentation, reflective paper and mark allocation for Cambridge International AS & A Level Global Perspectives & Research (9239)."
+description: "Recall notes on team formation, the 30-mark presentation and 10-mark reflective paper for the Cambridge AS & A Level Global Perspectives 9239 Team Project."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -96,3 +96,20 @@ Because the presentation's 30 marks are split across both AO1 (research, analysi
 6. Give two things a teacher is NOT allowed to do once research and preparation begin.
 
 **Answers:** 1. 40 marks total: presentation 30 marks, reflective paper 10 marks. 2. Three or four members — the syllabus notes they work together well and often find it easier to agree on what problem to research. 3. AO1 (Research, analysis and evaluation) and AO3 (Communication). 4. Maximum 10 minutes; work beyond the limit is simply not assessed. 5. Maximum 800 words; AO2 (Reflection). 6. Any two of: offering detailed subject guidance, carrying out research on the candidate's behalf, writing or correcting any part of their notes, preparing any part of the presentation, producing any part of the transcript, or suggesting amendments to the presentation or reflective paper.
+
+## Frequently asked questions
+
+**How many marks is the 9239 Team Project worth?**
+The Team Project is worth 40 marks of externally marked coursework: 30 marks for the presentation and 10 marks for the reflective paper.
+
+**How long can the Team Project presentation be?**
+The presentation has a maximum of 10 minutes, and anything beyond that limit is not assessed. It can be a live recording to an audience of at least three, including the class teacher, or a voiceover recording.
+
+**What is the word limit for the 9239 reflective paper?**
+The reflective paper has a maximum of 800 words and is assessed entirely against AO2, Reflection. It should reflect on collaboration and learning, not repeat the research findings.
+
+**Can a team submit one shared presentation?**
+No. Research is collaborative, but assessment is entirely individual, so team presentations are not accepted and only each candidate's own work is marked.
+
+**What must each candidate submit for the Team Project?**
+Each candidate submits four items: the recording, the supporting audio or visual materials, a verbatim transcript and the reflective paper.

@@ -131,6 +131,17 @@ In Year 2 Kestrine borrowed to open two hotels, both opening in the final quarte
 - Writing about culture in general terms instead of using the case.
 - Ending an evaluation without a clear, supported judgement.
 
+## Frequently asked questions
+
+**What should you do when a question asks you to amend financial statements?**
+Change every line an event affects, not just one, because entries in the statement of financial position and income statement move together. Amending one line without its matching line is a common error.
+
+**How do you interpret a ratio for the higher marks?**
+Judge each ratio against its trend over time, a benchmark such as rivals or the industry average, and the context of the business. Describing a ratio change without any of these limits the marks available.
+
+**Which OxfordAQA 9725 section do these questions test?**
+They test section 3.3.2 of OxfordAQA International AS and A-level Business (9725), Analysis of the existing internal position of a business: the Boston Matrix, financial statements and ratios, profit centres and business culture.
+
 ## Next steps
 
 - Shorter recall version: [revision notes](/resources/oxfordaqa-a-level-business-analysis-the-existing-internal-position-of-a-revision-notes/)

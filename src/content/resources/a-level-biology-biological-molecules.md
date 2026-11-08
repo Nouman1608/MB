@@ -13,13 +13,13 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "biological-molecules-cambridge-alevel-biology"
-description: "Testing for biological molecules, carbohydrates and lipids, proteins, and water -- the full content of Topic 2 Biological molecules for Cambridge AS & A Level Biology 9700, 2025-2027 series."
+description: "Study guide to Cambridge AS & A Level Biology 9700 Topic 2: food tests, carbohydrates and lipids, proteins and water, for the 2025-2027 exam series."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-01
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide covers **Topic 2 Biological molecules**, an AS Level topic
@@ -185,6 +185,20 @@ acids and protein synthesis.
   <figcaption>Each test has a clear colour change; non-reducing sugars need acid hydrolysis first.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**What are the four sub-topics of Cambridge 9700 Topic 2 Biological molecules?**
+2.1 Testing for biological molecules, 2.2 Carbohydrates and lipids, 2.3 Proteins and 2.4 Water.
+
+**How are the biochemical tests marked?**
+They are marked almost entirely on procedural accuracy: knowing exactly which reagent to use, how to carry out the test and what a positive result looks like.
+
+**Why is Biological molecules important for later 9700 topics?**
+It follows on from Cell structure and supplies the chemistry of carbohydrates, lipids, proteins and water that later topics assume you already know.
+
+**What is the most common mistake across Biological molecules?**
+Answering at the level of naming a molecule or reaction without explaining how its structure relates to its function.
 
 ## Official syllabus
 

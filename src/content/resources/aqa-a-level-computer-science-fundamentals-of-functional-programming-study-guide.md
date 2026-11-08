@@ -12,7 +12,7 @@ order: 12
 syllabusTopics:
   - qualification: "a-level"
     topic: "fundamentals-of-functional-programming"
-description: "Function types, first-class functions, higher-order functions map, filter and fold, composition, partial application and list processing for AQA A Level Computer Science."
+description: "AQA A Level Computer Science 7517 section 4.12 guide: function types, first-class and higher-order functions, map, filter, fold, composition and lists."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-08
@@ -134,3 +134,17 @@ In an evaluate question, write out the intermediate lists, one step per line, as
 6. Evaluate a left fold with * and a start of 1 over [2, 3, 4]. *Answer: ((1 x 2) x 3) x 4 = 24.*
 7. What is partial application? *Answer: supplying some of a function's arguments to get a new function that takes the rest.*
 8. With double and add3, what is double after add3 applied to 1? *Answer: double(add3(1)) = double(4) = 8.*
+
+## Frequently asked questions
+
+**What is the difference between map, filter and fold?**
+Map applies a function to every item and returns a list of the same length. Filter keeps only the items for which a predicate is true. Fold combines all the items into a single value using a function and a starting value.
+
+**What is a pure function?**
+A pure function always gives the same result for the same arguments and has no side effects, such as changing a global variable or writing to a file.
+
+**What is partial application in functional programming?**
+Partial application supplies only some of a function's arguments and returns a new function that takes the rest. For example, applying add to 5 gives a function that adds 5.
+
+**In what order is a function composition applied?**
+In g after f, the function f runs first and g is applied to its result, so (g after f)(x) = g(f(x)). Applying composition in the wrong order is a common mistake.

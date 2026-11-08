@@ -286,6 +286,20 @@ The first section is a trapezium because the car does not start from rest.
 - (Extended) Treating the first part of a speed–time graph as a triangle when the starting speed is not zero.
 - (Extended) Giving a deceleration as a negative number when the question asks for the deceleration.
 
+## Frequently asked questions
+
+**Which parts of 0580 subtopic 2.9 are Extended only?**
+Travel graphs, conversion graphs and the gradient of a straight line as a rate of change are Core and Extended. Finding the gradient of a tangent to a curve and working with speed–time graphs, acceleration and deceleration are Extended only in Cambridge IGCSE Mathematics 0580.
+
+**How do you work out a speed in km/h from minutes?**
+Convert the time into hours first. For example, 36 km in 45 minutes is 36 ÷ 0.75 = 48 km/h; dividing by 45 gives a value per minute, not per hour.
+
+**How do you find distance from a speed–time graph?**
+Find the area under the graph by splitting it into rectangles, triangles and trapezia. If a section starts at a non-zero speed, it is a trapezium, not a triangle.
+
+**Should a deceleration be given as a negative number?**
+If the question asks for the deceleration, give it as a positive value, because the word already tells you the object is slowing down. The gradient of that section is negative.
+
 ## Next steps
 
 - Practise with the [graphs in practical situations practice questions](/resources/igcse-mathematics-0580-graphs-in-practical-situations-practice/).

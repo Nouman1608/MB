@@ -21,9 +21,9 @@ description: "Condensed IB DP ESS revision notes on the HL lenses: legal princip
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
 ---
 
 For full explanations and worked examples, start with the [HL lenses study guide](/resources/ib-dp-ess-hl-lenses-law-economics-ethics/). These notes are for recall in the final weeks.
@@ -277,6 +277,23 @@ Ozone depletion: **law** — Montreal Protocol, binding phase-out. **Economics**
 - [ESS assessment revision notes](/resources/ib-dp-environmental-systems-and-societies-assessment-revision-notes/)
 - [Topic 2: Ecology revision notes](/resources/ib-dp-ess-topic-2-ecology-revision-notes/)
 - [ESS syllabus guide](/resources/ib-dp-environmental-systems-and-societies-syllabus-guide/)
+
+## Frequently asked questions
+
+**What is the difference between hard law and soft law in IB ESS?**
+Hard law is legally binding and enforceable, with penalties for a breach. Soft law is non-binding guidance or targets with no penalty, such as voluntary national climate pledges, and it works through reputation.
+
+**What is the difference between a carbon tax and cap-and-trade?**
+A carbon tax fixes the price of emitting and lets the quantity cut vary. Cap-and-trade fixes the total quantity of emissions and lets the permit price vary.
+
+**What is the difference between environmental and ecological economics?**
+Environmental economics places the environment inside the economy and fixes market failure by putting a price on it. Ecological economics places the economy inside the biosphere and puts limits on the scale of material throughput first.
+
+**Why is choosing a discount rate an ethical issue?**
+A high discount rate gives less weight to costs and benefits felt by future generations. Choosing it is therefore partly a judgement about how much future people matter.
+
+**What is the difference between weak and strong sustainability?**
+Weak sustainability assumes natural capital can be replaced by human-made capital. Strong sustainability holds that critical natural capital cannot be replaced.
 
 ## Official syllabus
 

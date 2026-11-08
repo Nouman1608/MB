@@ -12,11 +12,11 @@ order: 5
 syllabusTopics:
   - qualification: "o-level"
     topic: "the-internet-and-its-uses-2210"
-description: "Original exam-style questions with full worked answers on URLs, the DNS, web browsers, SSL, cookies, blockchain and cyber security threats, for Cambridge O Level Computer Science (2210)."
+description: "Original practice questions with worked answers for Cambridge O Level Computer Science 2210: URLs, DNS, browsers, SSL, cookies, blockchain and cyber threats."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
 featured: false
@@ -122,3 +122,17 @@ Identify the **three** parts of this URL and state what each part is. **[3]**
 - Saying SSL "encrypts the data" without describing how the digital certificate is requested, sent and checked.
 - Describing cookies without saying how long each type is stored.
 - Treating phishing and pharming as the same thing.
+
+## Frequently asked questions
+
+**What are the three parts of a URL?**
+A URL has a protocol, such as https, a domain name, such as www.example.org, and the path and file name of the web page. Name each part rather than calling it the first or middle part.
+
+**How does the DNS find a web page?**
+The browser sends the domain name to the DNS, which searches for the matching IP address and passes the request to another DNS if it cannot find it. The IP address is returned, and the browser then requests the page from the web server.
+
+**What is a common mistake when describing SSL?**
+Saying SSL just encrypts the data. A full answer also describes the browser asking the server to identify itself, the server sending its digital certificate and the browser checking it before the secure connection goes ahead.
+
+**How can you protect against phishing and pharming?**
+For phishing, avoid clicking links in unexpected emails and type the address yourself. For pharming, use anti-malware software and check for a valid certificate and an https connection before entering details.

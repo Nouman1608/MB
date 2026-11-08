@@ -152,6 +152,20 @@ These questions cover reference G21 in section 3.3.3 of the OxfordAQA Internatio
 * Try all the free 10-minute [diagnostics](/diagnostics/).
 * [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you fully describe a rotation?**
+Give the angle, the direction (clockwise or anticlockwise) and the centre of rotation. For a 180° rotation the direction is not needed; for any other angle, leaving it out loses marks.
+
+**How do you write a translation vector?**
+Write it as a column vector with the horizontal move on top and the vertical move underneath. Right and up are positive; swapping the numbers or reversing the signs is a common error.
+
+**Where do you measure an enlargement from?**
+Measure from the centre of enlargement, not from a corner of the shape. Each image point lies on the ray from the centre, k times as far away.
+
+**Does the order of combined transformations matter?**
+Yes. Applying them in a different order often gives a different result, so do the first transformation first. Combined transformations are Extension only in OxfordAQA International GCSE Mathematics (9260).
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Reference G21 in section 3.3.3.

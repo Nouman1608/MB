@@ -240,6 +240,20 @@ Size check: water has c = 4200 J/kg °C, so 1 kg warmed by 1 °C needs 4200 J. C
 - Writing "the mass is lost" for evaporation instead of "the particles escape into the air".
 - Dropping units, or leaving a 6-figure answer with no rounding when significant figures are requested.
 
+## Frequently asked questions
+
+**What is the difference between specific heat capacity and specific latent heat?**
+Specific heat capacity is the energy needed to warm 1 kg of a substance by 1 °C, in J/kg °C. Specific latent heat is the energy needed to change the state of 1 kg with no temperature change, in J/kg.
+
+**What is the difference between a physical change and a chemical change?**
+In a physical change, such as melting, no new substance forms and reversing it gives back the original material with its original properties. A chemical change, such as burning, makes a new substance and cannot simply be reversed.
+
+**Why is the boiling section of a heating graph longer than the melting section?**
+Boiling separates the particles completely, which takes more energy per kilogram than melting, so at a steady heating rate it takes longer.
+
+**Which part of the OCR GCSE Physics A specification covers changes of state?**
+It is topic P1.2 (Changes of state), statements P1.2a to P1.2f, of OCR GCSE (9-1) Gateway Science Physics A (J249). All the statements are for both Foundation and Higher Tier.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), first assessment 2018, published by OCR. Topic P1.2 Changes of state, statements P1.2a to P1.2f, PM1.2i and PM1.2ii.

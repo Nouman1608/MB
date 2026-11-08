@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "the-allocation-of-resources"
 description: "Condensed recall notes on demand, supply, equilibrium, price elasticity, market failure and mixed economies for Cambridge O Level Economics 2281, Topic 2."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-26
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -216,3 +216,16 @@ PES = % change in quantity supplied / % change in price
   <figcaption>Market failure has five causes limited to those in the 0455 syllabus.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between microeconomics and macroeconomics?**
+Microeconomics studies the decisions of individual households and firms, while macroeconomics studies the economy as a whole. This is sub-topic 2.1 of Cambridge O Level Economics (2281).
+
+**What are the conditions of supply in O Level Economics?**
+The conditions of supply are the cost of production, technology, the number of firms, government taxes and subsidies, and the weather for agricultural goods. A change in any of them shifts the supply curve.
+
+**What happens when the price is above equilibrium?**
+There is excess supply, or a surplus, so sellers undercut each other and the price falls back towards equilibrium.
+
+**What determines price elasticity of supply?**
+The main determinants are spare capacity, how easily stock can be stored, the time period and how easily resources can be switched between uses.

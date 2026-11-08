@@ -312,6 +312,23 @@ A judgement worth giving: elasticities suit **short-run decisions on small chang
 
 See the [revision notes](/resources/ocr-a-level-economics-elasticity-of-demand-and-supply-ped-yed-xed-pes-revision-notes/) for a compact version and the [practice set](/resources/ocr-a-level-economics-elasticity-of-demand-and-supply-ped-yed-xed-pes-practice/) for original questions with worked answers.
 
+## Frequently asked questions
+
+**What is point elasticity?**
+Point elasticity is elasticity measured at one price and quantity, with percentage changes measured from the starting values. On a straight-line curve it can be written as the change in quantity over the change in price, multiplied by price over quantity.
+
+**Why does PED vary along a straight-line demand curve?**
+A straight line has a constant slope, but PED uses percentages. At a high price the quantity is small, so price over quantity is large and demand is elastic; at a low price the reverse holds, and PED is -1 at the midpoint.
+
+**What is a superior good?**
+A superior good, or luxury, has an income elasticity of demand above 1, so demand rises by a larger percentage than income. Sellers of superior goods gain in a boom but are exposed in a downturn.
+
+**How does PED affect the impact of an indirect tax?**
+A tax on a good with inelastic demand raises revenue reliably but barely cuts consumption, so it suits a revenue aim better than a reduction aim. Buyers bear most of it, which may hit lower-income households if the good is a necessity.
+
+**How do firms use cross elasticity of demand?**
+Firms use XED to judge how a rival's price change will affect their own sales, to set prices for linked products and to identify which rivals matter most. A larger positive value means closer substitutes.
+
 ## Official syllabus
 
 Source document: OCR *A Level Economics* (H460) specification, Version 3.0, June 2026, first assessed in 2021. Content used: Component 1, How competitive markets work, topic Elasticity.

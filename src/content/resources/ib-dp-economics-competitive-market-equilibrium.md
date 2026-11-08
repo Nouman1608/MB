@@ -187,6 +187,23 @@ The result holds for the curves as drawn. It assumes the demand and supply curve
 
 According to the guide, Paper 1 is an extended response paper where calculators are not permitted, so keep your numbers simple and show the working. Paper 2 (a data response paper) contains some numerical questions, and a four-function calculator is enough for them. At HL only, Paper 3 is a policy paper that mixes numerical and written questions.
 
+## Frequently asked questions
+
+**What is the difference between excess demand and excess supply?**
+Excess demand, or a shortage, happens when the price is below equilibrium, so quantity demanded is greater than quantity supplied. Excess supply, or a surplus, happens when the price is above equilibrium. Both are shown as horizontal gaps between the curves.
+
+**What is social surplus?**
+Social, or community, surplus is consumer surplus plus producer surplus. It measures the total benefit the market gives to buyers and sellers together.
+
+**Why is a competitive market allocatively efficient at equilibrium?**
+At equilibrium social surplus is at its maximum and marginal benefit equals marginal cost. This assumes the demand and supply curves capture all the benefits and costs involved.
+
+**How does the price mechanism ration goods?**
+When there is not enough to go round, a rising price shares the good out to those both willing and able to pay it.
+
+**Does a shortage mean the market has failed?**
+No. A shortage is part of how the price mechanism finds the new equilibrium, because it pushes the price up until quantity demanded equals quantity supplied.
+
 ## Official syllabus
 
 Source document: *Economics guide* for the Diploma Programme, first assessment 2022, from the International Baccalaureate Organization. All the market figures in this guide are invented for illustration.

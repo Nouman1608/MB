@@ -19,11 +19,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-language-and-literature-intertextuality"
 description: "Study guide to the IB DP Language and Literature HL essay: choosing a work, building a line of inquiry, research, drafting, structure and referencing."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This study guide covers **the HL essay** in IB Diploma Programme Language A: Language and
@@ -250,6 +250,20 @@ areas of exploration, see
 [Readers, writers and texts](/resources/ib-dp-language-a-language-literature-readers-writers-texts/)
 and [Time and space](/resources/ib-dp-language-a-language-literature-time-and-space/). For the
 course structure, see the [syllabus guide](/resources/ib-dp-language-a-language-and-literature-syllabus-guide/).
+
+## Frequently asked questions
+
+**Is the HL essay internally or externally assessed?**
+The subject brief lists the HL essay with Paper 1 and Paper 2 under external assessment for IB DP Language A: Language and Literature. The individual oral is the internal component.
+
+**How do you choose a work for the HL essay?**
+Choose a work you studied in class that you have a real question about, where you can find five or more precise moments bearing on that question and say how the writer's choices create effects. A narrow question on a rich work suits the 1,500-word limit.
+
+**Should you use secondary sources in the HL essay?**
+Secondary sources such as criticism or background on the period are optional support; the work itself is your main evidence. Read them after your own close reading so the argument stays yours, and cite any idea you borrow.
+
+**How should you reference quotations in the HL essay?**
+Copy quotations exactly, mark cuts with an ellipsis and added words with square brackets, embed them in your own sentences, and give a page or line reference in your school's style. End with a works cited list that includes the work itself.
 
 ## Official syllabus
 

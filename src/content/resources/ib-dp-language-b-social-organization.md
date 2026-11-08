@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "ib-dp-language-b-social-organization"
 description: "Study guide to the Social organization theme of IB DP Language B: its guiding principle, six recommended topics, rule language and formal register."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This study guide teaches **Social organization**, the fourth of the five prescribed themes in the
@@ -242,6 +242,20 @@ as what a text says.
   [subject overview](/resources/ib-dp-language-b-subject-guide/),
   [exam preparation](/resources/ib-dp-language-b-exam-preparation/) and
   [assessment revision notes](/resources/ib-dp-language-b-assessment-revision-notes/)
+
+## Frequently asked questions
+
+**What are the possible questions for Social organization?**
+The IB DP Language B brief lists "What is the individual's role in the community?" and "What role do rules and regulations play in the formation of a society?"
+
+**What does "organize themselves, or are organized" mean?**
+It describes two directions: people choosing to act together because they share an interest, such as a club or volunteer team, and structures set from outside or above, such as a school timetable or a national law.
+
+**How are rules written on notices in different languages?**
+Notices often use impersonal forms that present a rule as the group's, such as the English passive, French "on", German "man" and Spanish "se". Check with your teacher which forms your language prefers.
+
+**How do you compare school or work systems between countries without stereotyping?**
+Use specific examples from texts you have studied and hedged language such as "in the school the article describes". If you are unsure of a fact, present it as what a text says.
 
 ## Official syllabus
 

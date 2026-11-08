@@ -12,13 +12,19 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-research-methods-identity-inequality-0495"
+  - qualification: "igcse"
+    topic: "paper-1-research-methods-identity-inequality-0495"
+    subtopic: "kq-1-2-0495"
+  - qualification: "igcse"
+    topic: "paper-1-research-methods-identity-inequality-0495"
+    subtopic: "kq-1-3-0495"
 description: "Original exam-style practice questions with full worked answers on methods, sampling, reliability, validity, ethics and official statistics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -96,3 +102,17 @@ They often pull in opposite directions because **standardisation creates reliabi
 - Giving strengths of observation generally rather than of participant observation.
 - Treating official statistics as objective fact.
 - Suggesting random sampling for a group with no sampling frame.
+
+## Frequently asked questions
+
+**How do you answer a "two strengths and two limitations" question?**
+Give four separate points and explain each one, linking it to the method named in the question. Make sure each point is clearly different from the others.
+
+**Why must you be precise about the type of observation?**
+Participant and non-participant observation have different strengths and limitations, so give the strengths of the method named in the question rather than of observation in general.
+
+**How should you check your sampling suggestion?**
+Make sure the sampling method you suggest is actually possible for the group described, including whether a list of the population exists to sample from.
+
+**Which Cambridge IGCSE Sociology paper covers research methods?**
+Research methods is Topic 1 of Paper 1, Research Methods, Identity and Inequality, in Cambridge IGCSE Sociology (0495), and Question 1 on that paper is compulsory.

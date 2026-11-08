@@ -306,6 +306,20 @@ Question: in the invented survey, do rural households use more electricity than 
 - Reading a graph's bar heights without checking where the axis starts.
 - Claiming one variable causes another from observational data.
 
+## Frequently asked questions
+
+**What does section 3.21 of the AQA 7357 specification require?**
+It requires you to become familiar with a large data set, use technology such as spreadsheets to explore data, interpret real data in summary or graphical form, and use data to investigate questions in real contexts.
+
+**What should you know about the large data set before the exam?**
+Know what each variable measures and its units, which variables are categorical or numerical, what each row represents, how missing values are shown, typical values and spread, and what the data cannot tell you.
+
+**How do you compare two groups of data in context?**
+Give one measure of location and one measure of spread for each group, with values and units, then add a caution such as the sample size or how the data were chosen.
+
+**Can survey data show that one variable causes another?**
+No. Observational or survey data can show an association between variables but not cause, because other factors could explain the link.
+
 ## Where to go next
 
 Practise with the [practice questions](/resources/aqa-a-level-mathematics-use-of-data-in-statistics-practice/)

@@ -18,11 +18,11 @@ syllabusTopics:
     subtopic: "biological-molecules-cambridge-igcse-biology"
 description: "Condensed revision notes for Cambridge IGCSE Biology 0610 biological molecules: element lists, food-test colour table, DNA pairing and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 For full explanations and worked examples, read the [biological molecules study guide](/resources/igcse-biology-0610-biological-molecules/) first. These notes are for the final weeks.
@@ -256,6 +256,20 @@ A A T C G G C T
 - Comparing foods by Benedict's colour without keeping volumes and heating time the same.
 - (Extended) Pairing A with C or G with T, or saying bonds hold "the helix" rather than naming bonds between bases.
 - (Extended) In percentage questions, forgetting to halve the remainder between the two other bases.
+
+## Frequently asked questions
+
+**Which elements are found in carbohydrates, fats and proteins?**
+Carbohydrates and fats and oils contain carbon, hydrogen and oxygen; proteins contain carbon, hydrogen, oxygen and nitrogen, and some also contain sulfur.
+
+**What are the five food tests in Cambridge IGCSE Biology 0610?**
+Iodine solution tests for starch, Benedict's solution (heated) for reducing sugars, biuret for protein, the ethanol emulsion test for fats and oils, and DCPIP for vitamin C.
+
+**Which food test needs heating?**
+Only the Benedict's test for reducing sugars needs heating, in a water bath at about 80 °C; the biuret test for protein does not need heat.
+
+**What is a control in a food test?**
+A control is distilled water tested in the same way with the reagent; it shows that the reagent alone does not give the positive colour.
 
 ## Official syllabus
 

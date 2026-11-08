@@ -252,6 +252,20 @@ Many buyers and sellers who are price takers; identical products; rational, well
 - Treating all cross-market links as one-way; check whether the link is substitute, complement, input or by-product.
 - Evaluation that lists assumptions without judging how far they hold.
 
+## Frequently asked questions
+
+**Why is a perfectly competitive firm's supply curve its marginal cost curve?**
+A price taker produces every unit whose marginal cost is at or below the price, so at each price the quantity supplied is read from the MC curve.
+
+**How is market supply found?**
+Market supply is the horizontal sum of each firm's quantity supplied at each price.
+
+**What is the difference between derived demand and composite demand?**
+Derived demand is demand for an input that arises from demand for another good. Composite demand is demand for a good that has several different uses.
+
+**What does a subsidy do to the supply curve?**
+A subsidy shifts the supply curve right, down by the amount of the subsidy per unit.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification (version 1.3, 29 June 2022), published by AQA, for first teaching from September 2015.

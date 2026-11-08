@@ -229,6 +229,23 @@ This is a common pattern in probability questions: independence between separate
 
 Condense this unit with the [revision notes](/resources/cambridge-o-level-statistics-independent-events-and-selection-with-or-without-revision-notes/), then test yourself with the [practice questions](/resources/cambridge-o-level-statistics-independent-events-and-selection-with-or-without-practice/). Tick off what you have covered on the [checklist](/checklists/cambridge/o-level/statistics/), and use the [free diagnostics](/diagnostics/) to find your weak spots. Back to the [subject hub](/boards/cambridge/o-level/statistics/).
 
+## Frequently asked questions
+
+**What are independent events in O Level Statistics?**
+Two events are independent if the outcome of one has no effect on the probability of the other. In symbols, A and B are independent when P(A|B) = P(A), and then P(A and B) = P(A) × P(B).
+
+**How do you find P(A or B) for independent events?**
+Use P(A or B) = P(A) + P(B) − P(A and B), where P(A and B) = P(A) × P(B). For example, with P(A) = 0.4 and P(B) = 0.3, P(A or B) = 0.4 + 0.3 − 0.12 = 0.58.
+
+**Why is the probability of a matching pair lower without replacement?**
+Once one item of a colour is taken out and not replaced, there are fewer of that colour left to match. For the same bag, the probability of "both the same" is never higher without replacement than with it.
+
+**How do you find the probability of exactly one success in three trials?**
+List every order in which exactly one success can happen, find the probability of each order, and add them. For three trials there are three orders.
+
+**Which topic of the Cambridge O Level Statistics 4040 syllabus covers independent events?**
+Independent events and selection with or without replacement are part of topic 11, "Elementary ideas of probability", in the 4040 syllabus for examination in 2025, 2026 and 2027. Mutually exclusive events are the other half of the same topic.
+
 ## Official syllabus
 
 This page follows the Cambridge O Level Statistics 4040 syllabus for examination in 2025, 2026 and 2027, published by Cambridge University Press & Assessment (Cambridge International), topic 11 "Elementary ideas of probability".

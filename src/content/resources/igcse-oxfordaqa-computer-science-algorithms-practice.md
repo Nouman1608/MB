@@ -7,16 +7,16 @@ topic: "Topic 1 – Algorithms"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9210"]
-syllabusSeries: "Teaching from September 2017, exams from May/June 2019"
+syllabusSeries: "For teaching from September 2017, exams from May/June 2019"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "algorithms-9210"
 description: "Original exam-style practice questions with full worked answers on algorithms, flowcharts, pseudocode, trace tables and searching."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -163,3 +163,17 @@ Output: **15** [3 — 1 mark for a correctly completed table, 2 for the correct 
 - Outputting "not found" inside the loop, so it prints on every non-matching element.
 - Using a WHILE loop where the number of repetitions is fixed.
 - Forgetting to initialise the total or flag before the loop.
+
+## Frequently asked questions
+
+**What is a common mistake when writing a linear search in pseudocode?**
+Outputting not found inside the loop, so it prints for every non-matching element. The not found message should come only after the loop has finished.
+
+**How many comparisons does a binary search need for 1,000 items?**
+A binary search reaches an item in about 10 comparisons on 1,000 sorted items, while a linear search may need up to 1,000, because each binary search comparison removes half the remaining items.
+
+**How do you answer an evaluate question about an algorithm?**
+Identify the specific cause of the inefficiency, such as a loop that keeps checking after the item has been found. A vague comment such as the search is inefficient earns no marks.
+
+**When should you use a FOR loop instead of a WHILE loop?**
+Use a FOR loop when the number of repetitions is known in advance, and a WHILE loop when it is not, such as asking for input until a valid value is entered.

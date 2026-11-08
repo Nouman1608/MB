@@ -21,11 +21,11 @@ syllabusTopics:
     topic: "ib-dp-language-b-social-organization"
 description: "Study guide to IB DP Language B Paper 2: locating evidence, paraphrase, inference, reference words, listening tactics and timing, with worked examples."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This study guide teaches the skills behind **Paper 2 (receptive skills)** in IB Diploma Programme
@@ -282,6 +282,20 @@ The theme guides give vocabulary and text ideas for [identities](/resources/ib-d
   and the [assessment revision notes](/resources/ib-dp-language-b-assessment-revision-notes/).
 - Course overview: [syllabus guide](/resources/ib-dp-language-b-syllabus-guide/) and
   [subject guide](/resources/ib-dp-language-b-subject-guide/).
+
+## Frequently asked questions
+
+**How many marks are the listening and reading sections of Paper 2?**
+In IB DP Language B, listening carries 25 marks and reading 40 marks, and each is worth 25% of the final grade, so Paper 2 carries 50% in total.
+
+**How do you find a synonym in a "find the word" question?**
+Match the word class and form of the word in the question, then test your answer by putting it into the question's sentence. If the sentence breaks, the word is wrong.
+
+**What is the difference between inference and invention?**
+An inference works out what the writer implies and rests on specific words you can point to. If you cannot point to the supporting words, it is invention.
+
+**What should you do before a listening section starts?**
+Read every question, underline the question words, predict the type of answer you need, such as a number, place, feeling or reason, and predict likely words in the target language.
 
 ## Official syllabus
 

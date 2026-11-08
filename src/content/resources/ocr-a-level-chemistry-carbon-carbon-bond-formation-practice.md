@@ -184,6 +184,23 @@ Give the letters of the three reactions that form a new carbon–carbon bond. **
 - Printable checklist: [OCR A Level Chemistry checklist](/checklists/ocr/a-level/chemistry/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry carbon–carbon bond formation questions from past papers?**
+No. They are original practice questions with marked answers on section 6.2.4 of OCR A Level Chemistry A (H432).
+
+**Where should the curly arrow start for a cyanide ion?**
+Start the arrow at the lone pair on the carbon atom of CN⁻, not at the nitrogen.
+
+**What conditions are needed to make a nitrile from a haloalkane?**
+Use cyanide ions in ethanol. Writing "aqueous KCN" for this reaction is a common error.
+
+**How many H₂ molecules reduce one nitrile group?**
+Two. RCN + 2H₂ → RCH₂NH₂, so using only one H₂ per nitrile gives wrong equations and gas volumes.
+
+**How do you work back to a starting mass from a percentage yield?**
+Divide by the yield rather than multiplying, because you need more starting material than the theoretical amount.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 6.2.4 Carbon–carbon bond formation, learning outcomes (a) to (d). Published by OCR.

@@ -197,6 +197,20 @@ Links: [study guide](/resources/ocr-gcse-mathematics-interpreting-graphs-real-wo
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which OCR GCSE Maths section do these real-world graph questions cover?**
+They cover section 7.04 of OCR GCSE (9-1) Mathematics J560: real-world graphs, gradients and areas under graphs. Velocity-time graphs, tangents, chords and areas under graphs are Higher tier only.
+
+**How do you find average speed from a distance-time graph?**
+Divide the total distance travelled by the total time. If the journey returns to the start, the final distance from the start is zero, but the distance travelled is not, so do not use the final position.
+
+**Why do gradient and area answers need units?**
+A gradient is a rate in y-units per x-unit, and an area has units of the two axis units multiplied together. Leaving units off, or giving the wrong ones, is a common way to lose marks.
+
+**How do you get an accurate gradient from a tangent?**
+Draw the tangent long with a ruler and choose two points on it that are far apart. Points that are close together magnify reading errors, and the answer should be given as an estimate.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), for first assessment in 2017, published by OCR. These questions follow section 7.04, Interpreting graphs.

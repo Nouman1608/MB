@@ -29,9 +29,9 @@ description: "Condensed AQA GCSE Sociology 8192 Education notes: key terms, the 
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 For full explanations and worked paragraphs, read the [Education study guide](/resources/aqa-gcse-sociology-8192-education/) first.
@@ -150,6 +150,20 @@ For the perspectives in general, see [The sociological approach](/resources/aqa-
 - Explaining a self-fulfilling prophecy as a single event rather than a process from label to treatment to self-image to outcome.
 - In "discuss how far" answers, giving only one perspective or never reaching a judgement.
 - Treating feminist views as one sentence on "girls do better" without explaining the gendered curriculum or subject choice.
+
+## Frequently asked questions
+
+**What is the difference between Durkheim and Parsons on education?**
+Durkheim stresses social cohesion through shared norms and values. Parsons stresses meritocracy, universalistic standards and role selection.
+
+**How do Bowles and Gintis differ from Willis?**
+Both are Marxists, but Bowles and Gintis see a direct correspondence between school and work and successful socialisation, while Willis found resistance and unintended consequences among the working-class lads he studied.
+
+**How do you use Halsey's figures correctly?**
+Say that Halsey, Heath and Ridge compared boys from service-class and working-class backgrounds. The sample was male only, so it cannot be used to describe girls.
+
+**What do feminists say about education?**
+Feminists argue education has reproduced gender roles through a gendered curriculum and the hidden curriculum, and that girls' rising results have not removed inequality.
 
 ## Official syllabus
 

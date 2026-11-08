@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "forces-ocr-gcse"
 description: "Motion, Newton's laws, and forces in action -- the full content of Topic 2 Forces for OCR GCSE (9-1) Physics A (Gateway Science) (J249)."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 ---
 
 This guide covers **Topic P2 Forces**, the second of eight content
@@ -239,6 +239,23 @@ controlled, and the reliability of results from practicals like these.
 </figure>
 
 
+## Frequently asked questions
+
+**What is Newton's second law in GCSE Physics?**
+The resultant force on an object equals its mass × acceleration (F = ma). For example, a resultant force of 6 N on a 2 kg trolley gives an acceleration of 3 m/s².
+
+**What is the moment of a force?**
+A moment is the force × the perpendicular distance from the pivot to the line of action of the force. Using the straight-line distance to the pivot instead is a common way to lose marks.
+
+**Why does a parked car have forces acting on it?**
+Its weight acts downwards and a normal contact force acts upwards. These forces are balanced, not absent, so the resultant force and the acceleration are zero.
+
+**Does weight change on the Moon?**
+Weight changes because it depends on gravitational field strength, which is smaller on the Moon. Mass stays the same everywhere.
+
+**Which topics link to Forces in OCR GCSE Physics A?**
+In OCR GCSE (9-1) Physics A (J249), Topic P1 Matter introduces pressure and the particle model, which return in P2.3 in the context of fluid pressure. The vector and scalar distinction from Forces recurs throughout the rest of the course.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Physics A (Gateway Science) J249 Specification*,
@@ -305,4 +322,3 @@ fetched and verified in full 2026-09-02.
   <img src="https://img.marlbridge.com/ocr-gcse-physics-moments-levers-and-gears--09-gears.webp" width="900" height="950" alt="A 15-tooth driver at 240 rpm and 2.5 N m turns clockwise and meshes with a 60-tooth driven gear turning anticlockwise. Ratio 4 gives 10 N m and 60 rpm. In a gear train ratios multiply, 4 times 2.5 = 10." loading="lazy">
   <figcaption>A larger driven gear gives a larger moment but a slower turn, by the gear ratio.</figcaption>
 </figure>
-

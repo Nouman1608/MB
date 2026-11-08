@@ -93,11 +93,6 @@ A pair of magnets on a top-pan balance produces a field across a gap. A stiff wi
 
 Combining F = BIL with F = Δm g gives Δm = (BL / g) I. Plotting Δm against I gives a straight line through the origin whose gradient is BL / g, so B = gradient × g / L. Using several currents and a gradient averages out random error. Measure L with a ruler and check that the wire is at 90° to the field.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-alternating-currents--04-crossed-fields-balance.webp" width="900" height="1195" alt="Top: charged particles pass between plates with E down and B into the page; qE and qBv balance when v = E/B so that particle goes straight, slower ones bend down and faster ones bend up (trajectories integrated numerically). Bottom (Cambridge only): current I through a slice of width d in a field B; carriers pile up on one edge until qE_H = Bqv, giving V_H = BI/(ntq)." loading="lazy">
-  <figcaption>Equal electric and magnetic forces give v = E/B for the selector and V_H = BI/(ntq) for the Hall slice.</figcaption>
-</figure>
-
 
 ## 3.10.2 Force on a moving charge
 
@@ -165,11 +160,6 @@ r = mv / (BQ) = 9.11 × 10⁻³¹ × 4.5 × 10⁶ / (0.012 × 1.60 × 10⁻¹⁹
   <figcaption>A faster charged particle moves on a bigger circle but takes the same time per revolution.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-alternating-currents--09-rectification-smoothing.webp" width="900" height="1140" alt="Three graphs share the same 50 Hz input (dashed). One diode gives half-wave rectification with a gap; a bridge of four diodes gives full-wave rectification with no gap and pulses at twice the frequency; a smoothing capacitor fills the gaps, with small RC giving large ripple and large RC giving small ripple." loading="lazy">
-  <figcaption>Half-wave leaves gaps, full-wave does not, and a capacitor with a larger time constant RC gives a smoother output.</figcaption>
-</figure>
-
 
 ### The cyclotron
 
@@ -195,11 +185,6 @@ Maximum speed: v = BQR / m. Maximum kinetic energy: ½mv² = (BQR)² / (2m).
 
 At speeds close to the speed of light the particle's mass increases, the revolution time is no longer constant and the simple fixed frequency fails. The calculations above assume speeds well below that.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-alternating-currents--08-ac-rms-and-power.webp" width="900" height="945" alt="A mains voltage with peak 325 V and period 20 ms is plotted for two cycles with dashed lines at 230 V r.m.s. and a 650 V peak-to-peak arrow. Below, the power in a resistor, proportional to sin squared and never negative, has a mean of exactly half the peak power." loading="lazy">
-  <figcaption>The r.m.s. value is the peak divided by root 2, and the mean power is half the peak power.</figcaption>
-</figure>
-
 
 ## Common errors
 
@@ -211,6 +196,23 @@ At speeds close to the speed of light the particle's mass increases, the revolut
 - Not converting grams or centimetres to kilograms and metres.
 
 Test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-force-on-conductors-and-moving-charges-in-magnetic-practice/) or find your weak spots with a [diagnostic](/diagnostics/). For earlier ideas on forces and circular motion, see the [motion and Newton's laws guide](/resources/a-level-oxfordaqa-physics-motion-and-newtons-laws/).
+
+## Frequently asked questions
+
+**Is magnetic force on moving charges in the OxfordAQA International AS Physics (9630) content?**
+No. Section 3.10 of the OxfordAQA International AS and A-level Physics (9630) specification is marked International A-level only, so F = BIL, F = BQv and the cyclotron are not part of the International AS content.
+
+**Why does a magnetic field not change the speed of a charged particle?**
+The magnetic force always acts at 90° to the velocity, so it does no work on the particle. Its speed and kinetic energy stay constant and only its direction changes, which is why it moves in a circle.
+
+**Does the time for one orbit depend on the speed of the particle?**
+No. The period is T = 2πm / (BQ), so it depends only on the mass, the charge and the flux density. A faster particle moves on a larger circle, r = mv / (BQ), but takes the same time to go round it.
+
+**How do you use Fleming's left-hand rule for an electron?**
+Point the second finger opposite to the electron's velocity, because the equivalent conventional current runs the other way. For the same velocity and field, an electron is pushed in the opposite direction to a proton.
+
+**What is the tesla in base units?**
+One tesla is 1 N A⁻¹ m⁻¹, the flux density that gives a 1 N force on a 1 m wire carrying 1 A at right angles to the field. In SI base units this is kg s⁻² A⁻¹.
 
 ## Official syllabus
 

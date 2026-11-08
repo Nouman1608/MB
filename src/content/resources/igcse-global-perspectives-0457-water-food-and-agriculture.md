@@ -158,6 +158,23 @@ Possible actions: a "clean plate" campaign with a weekly weigh-in, or a water au
 - Related topics: [Climate change, energy and resources](/resources/igcse-global-perspectives-0457-climate-change-energy-and-resources/) and [Poverty and inequality](/resources/igcse-global-perspectives-0457-poverty-and-inequality/)
 - This topic: [revision notes](/resources/igcse-global-perspectives-0457-water-food-and-agriculture-revision-notes/) and [practice questions](/resources/igcse-global-perspectives-0457-water-food-and-agriculture-practice/)
 
+## Frequently asked questions
+
+**What is food security?**
+The definition agreed at the 1996 World Food Summit says food security exists when all people, at all times, have physical and economic access to sufficient, safe and nutritious food for an active and healthy life.
+
+**What is virtual water?**
+Virtual water is the water used to produce a product, such as the water used to grow imported wheat. The geographer Tony Allan developed the idea.
+
+**What is food sovereignty?**
+Food sovereignty is the right of communities to decide how their own food is produced, rather than leaving it to world markets. Small-farmer movements such as La Via Campesina argue for it.
+
+**What happened during Cape Town's "Day Zero" warning?**
+After a multi-year drought, Cape Town warned of a "Day Zero" when most taps could be turned off. From February 2018 residents were asked to use no more than 50 litres per person per day.
+
+**What makes a good Individual Report question on water and food?**
+The question must divide opinion, such as "Should farmers pay for the water they use in the same way as households?" A title such as "Food waste" is a topic, not a question.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Topic list in section 3; aims and assessment objectives in section 2; component details and command words in section 4.

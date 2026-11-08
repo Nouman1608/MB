@@ -135,6 +135,20 @@ These questions practise section 4.4 Market research of the IB *Business managem
 - Try all free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Is quota sampling random?**
+No. In quota sampling the population is split into groups and fixed numbers are filled from each group, but the researcher chooses whom to ask inside each group. In random sampling every member of the population has an equal chance of selection.
+
+**What base should you use for a percentage of survey results?**
+Use the number who actually replied, not everyone who was contacted, unless you are calculating the response rate. Using the wrong base is a common way to lose marks.
+
+**What are common mistakes on market research practice questions?**
+Students often define a term without contrasting it with its pair, give a list where "explain" or "analyse" needs developed points, skip working in calculations, and give limitations that apply to all research rather than the method in the case. Evaluating without a final decision also loses marks.
+
+**Which part of the IB Business Management guide covers market research?**
+Market research is section 4.4 in Unit 4 (Marketing) of the IB Business management guide, first assessment 2024. It covers why and how organizations carry out research, primary and secondary methods, qualitative and quantitative research, and sampling.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. This set covers section 4.4 Market research.

@@ -13,13 +13,13 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "criminal-law-7162"
     subtopic: "general-elements-of-liability-7162"
-description: "Original exam-style practice questions with full worked answers on actus reus, mens rea, causation, transferred malice and strict liability for AQA A-Level Law (7162), General Elements of Liability."
+description: "Original practice questions with worked answers on actus reus, mens rea, causation, omissions, transferred malice and strict liability for AQA A Level Law 7162."
 author: "marlbridge-academic-team"
-reviewer: "aizaz-raoof-ali"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-04
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -99,3 +99,17 @@ Related: [General Elements of Liability study guide](/resources/a-level-aqa-law-
 ## Approaching scenario-based criminal liability questions
 
 AQA mark schemes for criminal law scenarios consistently reward a fixed structure: identify the actus reus first (using the specification's elements — conduct, whether an act, an omission or a state of affairs; voluntariness; causation; and consequences), then identify the relevant fault element for mens rea, then apply any relevant doctrine (such as transferred malice or the "but for" test), and only then reach a conclusion on liability. Answers that state a conclusion first and work backwards, or that blend actus reus and mens rea together without distinguishing them, consistently lose marks even when the final conclusion reached is correct.
+
+## Frequently asked questions
+
+**How should you structure an AQA criminal liability scenario answer?**
+In AQA A Level Law 7162, work through the actus reus first, then the mens rea, then the coincidence requirement and any relevant doctrine, before reaching a conclusion, rather than jumping straight to guilt.
+
+**What is the most common mistake in omissions questions?**
+Jumping straight to the actus reus without first establishing that a recognised duty to act exists. Without a duty, an omission cannot give rise to liability.
+
+**What does "subjective" mean in criminal law?**
+Subjective refers to the defendant's own actual state of mind, as in intention and subjective recklessness. It is the opposite of objective, the reasonable-person standard used for negligence.
+
+**Should you use moral language in a criminal liability answer?**
+No. Phrases such as "he did something bad" do not use the specification's precise categories; describe the conduct, fault element and causation in legal terms.

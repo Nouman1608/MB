@@ -12,13 +12,13 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-3-drama-open-text-0475"
-description: "Condensed recall notes on Paper 3's open-book rule, single-text format, and how each assessment objective is rewarded, for Cambridge IGCSE Literature in English (0475), 2026 series."
+description: "Condensed notes on Cambridge IGCSE Literature in English 0475 Paper 3 Drama (Open Text): the open-book rule, single-text format and what each AO rewards."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description shortened to 140-160 characters and FAQ added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -73,6 +73,19 @@ Both Paper 2 and Paper 3 draw on the same rotating set-text list, which changes 
 - Only preparing the scenes you expect to be asked about — both set questions could draw on any part of the play.
 - Spending exam time searching the text cold instead of using pre-identified key passages.
 - Confusing which paper (Paper 2 or Paper 3) requires a closed book — Paper 3 is open book; Paper 2 is closed.
+
+## Frequently asked questions
+
+**What can I take into Paper 3?**
+A clean copy of your set play, with no personal annotations, highlighting or underlining, and not an
+edition with extensive study notes or facing-page translations.
+
+**How long is Paper 3?**
+45 minutes for one question from a choice of two, worth 25 marks and 25% of the qualification.
+
+**What is Paper 3 paired with?**
+Paper 3 is always taken with Paper 1 and either Paper 4 Unseen or Component 5 Coursework.
+
 
 ## Self-test
 

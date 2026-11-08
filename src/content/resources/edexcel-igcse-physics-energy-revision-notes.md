@@ -24,9 +24,9 @@ syllabusTopics:
     subtopic: "energy-resources-and-electricity-generation"
 description: "Condensed recall notes on energy stores, conservation, efficiency, thermal transfer and energy resources for Edexcel International GCSE Physics 4PH1."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -198,3 +198,16 @@ Work done equals energy transferred, and **P = W/t** gives the rate of that tran
   <figcaption>Reliability and environmental impact are two separate judgements.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Is the specific heat capacity equation part of Topic 4?**
+No. E = m c Δθ belongs to Topic 5, outcome 5.13P, which is Physics only and examined on Paper 2.
+
+**Is nuclear power a fossil fuel?**
+No. Nuclear power is non-renewable but is not a fossil fuel, and it produces no carbon dioxide during generation. It is worth saying so explicitly in an exam answer.
+
+**Which device comes closest to 100% efficiency?**
+A resistive heater comes closest, because nearly all its electrical energy input becomes the wanted thermal energy. Even so, it loses a little to sound and to light from the heating element.
+
+**How is energy transfer reduced in a house?**
+Loft insulation, cavity walls and double glazing trap air, a poor conductor, and prevent convection currents. Shiny foil behind radiators reflects radiation back into the room.

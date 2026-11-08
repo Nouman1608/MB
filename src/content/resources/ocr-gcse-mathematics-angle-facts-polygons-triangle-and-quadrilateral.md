@@ -345,6 +345,23 @@ So 2(p + q) = 180° and angle ACB = p + q = 90°
 
 Work through the [practice questions](/resources/ocr-gcse-mathematics-angle-facts-polygons-triangle-and-quadrilateral-practice/), keep the [revision notes](/resources/ocr-gcse-mathematics-angle-facts-polygons-triangle-and-quadrilateral-revision-notes/) open for recall, and tick off progress on the [checklist](/checklists/ocr/gcse/mathematics/).
 
+## Frequently asked questions
+
+**Why do the exterior angles of any polygon add up to 360°?**
+If you walk round a polygon, you turn through each exterior angle in turn and finish facing the way you started, having made exactly one full turn. That full turn is 360°, whatever the number of sides.
+
+**What are co-interior angles?**
+Co-interior angles lie between two parallel lines on the same side of the transversal, in a C or U shape, and they add up to 180°. The fact follows from corresponding angles and angles on a straight line.
+
+**What is the difference between a rhombus and a square?**
+Both have four equal sides and diagonals that cross at right angles. Only the square has four right angles and equal diagonals.
+
+**What is the order of rotation symmetry of a regular polygon?**
+A regular polygon with n sides has n lines of symmetry and rotation symmetry of order n. For example, a regular 12-sided polygon has 12 lines of symmetry and order 12.
+
+**Are geometric proofs on both tiers of OCR GCSE Maths J560?**
+Both tiers use angle and polygon facts to justify results in simple proofs. More formal proofs of geometrical results, such as circle theorems, are Higher tier only.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics J560, specification Version 2.1 (August 2026), for first assessment in 2017: sections 8.03 and 8.04.

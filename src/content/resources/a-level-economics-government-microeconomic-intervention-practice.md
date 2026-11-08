@@ -13,11 +13,11 @@ order: 5
 syllabusTopics:
   - qualification: "a-level"
     topic: "government-microeconomic-intervention-as-cambridge-alevel-economics"
-description: "Original exam-style practice questions with full worked answers on public goods, merit/demerit goods, price controls, buffer stocks, and income/wealth redistribution, for Cambridge AS & A Level Economics (9708) Topic 3."
+description: "Cambridge 9708 Topic 3 practice with worked answers: public goods, merit and demerit goods, price controls, buffer stocks and redistributing income."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -130,3 +130,17 @@ inelastic response bears the larger share of a tax's burden or captures the larg
 subsidy's benefit. Stating this rule in the abstract earns partial credit at best — full marks require
 applying it explicitly to the specific elasticities given in the scenario, exactly as demonstrated in
 the worked answer above.
+
+## Frequently asked questions
+
+**How do I get full marks on a tax incidence question?**
+Apply the rule to the elasticities in the scenario: the more inelastic side of the market bears the larger share of a tax or gains the larger share of a subsidy. Stating the rule in the abstract earns partial credit at best.
+
+**Why do answers on non-excludability and non-rivalry lose marks?**
+Many answers blur the two concepts so the examiner cannot tell which explanation belongs to which term. Explain each one separately.
+
+**Which syllabus topic does this practice cover?**
+It covers Topic 3 Government microeconomic intervention, an AS Level topic in Cambridge International AS & A Level Economics 9708.
+
+**Are these real Cambridge past paper questions?**
+No. They are original questions written for revision and practice; use them alongside the official past papers available from Cambridge International.

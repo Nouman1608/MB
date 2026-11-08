@@ -13,11 +13,20 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "american-option-history-usa-9489"
-description: "Original practice questions with full worked answers on the origins of the Civil War, Reconstruction, the Gilded Age and Progressive Era, and the Great Depression and New Deal, for Cambridge AS & A Level History's American Option (9489)."
+  - qualification: "a-level"
+    topic: "american-option-history-usa-9489"
+    subtopic: "civil-war-reconstruction-9489"
+  - qualification: "a-level"
+    topic: "american-option-history-usa-9489"
+    subtopic: "gilded-age-progressive-era-9489"
+  - qualification: "a-level"
+    topic: "american-option-history-usa-9489"
+    subtopic: "great-depression-new-deal-9489"
+description: "Original practice with worked answers on the Civil War and Reconstruction, the Gilded Age and Progressive Era, and the New Deal for Cambridge 9489 History."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -103,6 +112,17 @@ evidence-based judgement the revision notes identify as the skill that most reli
 from weak answers across this whole option. Practising both formats separately, rather than only the
 essay style, reflects how the two papers draw on the same three topics in genuinely different question formats,
 with one topic set for Paper 1 and the other two for Paper 2 in any one series.
+
+## Frequently asked questions
+
+**How are the AS papers for 9489 structured?**
+Paper 1, Historical Sources (1 hour 15 minutes, 40 marks), is one two-part question on four sources, worth 15 and 25 marks. Paper 2, Outline Study (1 hour 45 minutes, 60 marks), is two two-part questions, each worth 10 + 20 marks.
+
+**Which topic is on which paper?**
+The three topics in each AS option rotate between Paper 1 and Paper 2 according to the table printed in the 2027–2029 syllabus; in any year the topic set for Paper 1 is not set for Paper 2.
+
+**How should part (a) and part (b) of a Paper 2 question differ?**
+Part (a), 10 marks, asks you to explain why something happened; part (b), 20 marks, asks for a judgement on 'how far' or 'to what extent', weighing several factors.
 
 ## Official syllabus
 

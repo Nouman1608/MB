@@ -20,11 +20,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-astronomy-and-cosmology"
     subtopic: "a-hubbles-law-and-the-big-bang-theory"
-description: "Original exam-style practice questions with full worked answers on luminosity, Wien and Stefan laws, redshift and Hubble law for Cambridge AS & A Level Physics 9702."
+description: "Original practice questions with worked answers on luminosity, standard candles, Wien and Stefan laws, redshift and Hubble's law for Cambridge 9702 Physics."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -152,3 +152,17 @@ v = c × (Δλ ÷ λ) = 3.00 × 10⁸ × (4.1 ÷ 656.3) [1] = **1.87 × 10⁶ m 
 - Naming Big Bang evidence without saying what it shows.
 - Treating the Hubble constant as a precisely known, single fixed value rather than an order-of-magnitude estimate that varies between measurement techniques.
 - Quoting a distance found from flux without first confirming the object is a genuine standard candle of known luminosity.
+
+## Frequently asked questions
+
+**In what order should you use Wien's law and the Stefan-Boltzmann law?**
+Use Wien's law first to find the star's surface temperature from its peak wavelength. The Stefan-Boltzmann law contains two unknowns, radius and temperature, so applying it first leaves the problem unsolvable.
+
+**Why can you not find a star's distance from its measured flux alone?**
+Flux depends on both luminosity and distance, so the same flux could come from a bright distant source or a dim nearby one. Only when the luminosity is known, because the object is a standard candle, can F = L/(4πd²) be solved for distance.
+
+**Is the age of the universe in the Cambridge 9702 syllabus?**
+No. Estimating the age of the universe from 1/H₀ is background beyond the 9702 learning outcomes, as are the cosmic microwave background and helium abundance; the syllabus evidence for the Big Bang is the redshift of galaxies and Hubble's law.
+
+**What common mistakes lose marks on astronomy calculations?**
+Frequent errors include confusing luminosity with radiant flux, forgetting the 4π in the inverse square law or in Stefan's law, and concluding that universal redshift places Earth at the centre of the universe.

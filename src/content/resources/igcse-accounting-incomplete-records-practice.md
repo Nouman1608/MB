@@ -201,6 +201,20 @@ Non-current assets 12,000 [1]; trade receivables net of allowance 5,035 [1]; cur
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How do you find total drawings in an incomplete records question?**
+Add cash taken from the bank or till, goods taken for own use and any private expenses paid by the business. Leaving goods taken or private expenses out of drawings is a common error.
+
+**How is a debt written off treated when finding credit sales?**
+A debt written off reduces trade receivables without any cash coming in, so it must be added back when rebuilding credit sales. Forgetting it understates credit sales.
+
+**Which inventory figure is used for rate of inventory turnover?**
+Rate of inventory turnover is cost of sales divided by average inventory, where average inventory is opening plus closing inventory divided by 2. Using closing inventory alone loses marks in Cambridge IGCSE Accounting (0452).
+
+**How are goods taken by the owner treated in incomplete records?**
+Deduct the cost of the goods from purchases and add the same amount to drawings. Adding them to purchases, or forgetting drawings, are common errors.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for 2027, 2028 and 2029 (version 1), Cambridge University Press & Assessment, section 5.6 and the Accounting ratios list.

@@ -232,6 +232,20 @@ When asked to explain the use and the limit, state both and give one example of 
 - Forcing the totals to agree, for example by changing a figure, rather than tracing the error.
 - Describing a missing balance on a draft list as an error of omission in the ledger.
 
+## Frequently asked questions
+
+**What does a trial balance check?**
+A trial balance checks that total debit balances equal total credit balances, which tests the arithmetic of the double entry. It does not prove that every transaction has been recorded in the right account or at the right amount.
+
+**Which errors are not revealed by a trial balance?**
+Six errors leave the totals in agreement: commission, complete reversal, compensating errors, omission, original entry and principle. In each case the debit and credit entries remain equal.
+
+**Which errors are revealed by a trial balance?**
+Addition errors, partial omission, transposition in one entry and unequal posting of debit and credit make the trial balance totals disagree, because the two sides no longer match.
+
+**What is the difference between an error of commission and an error of principle?**
+An error of commission posts an amount to the wrong account of the right class, such as the wrong customer's account. An error of principle posts it to the wrong class of account, such as debiting a new non-current asset to repairs.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), specification version 1.2, section 3.2 Verification of accounting records, published by OxfordAQA.

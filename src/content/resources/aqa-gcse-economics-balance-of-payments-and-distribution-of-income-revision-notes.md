@@ -19,9 +19,9 @@ syllabusTopics:
     subtopic: "distribution-of-income-aqa-gcse-economics"
 description: "Condensed AQA GCSE Economics revision notes for 3.2.2.5 and 3.2.2.6: current account calculations, deficits and surpluses, inequality and redistribution."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-05
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-11-05."
 publishedDate: 2026-11-05
 featured: false
 ---
@@ -185,6 +185,23 @@ Redistribution can conflict with growth if it weakens incentives, and fairness i
 - Sign errors when adding up the current account.
 - Treating wealth and income as the same thing.
 - Naming a redistribution policy without saying how it changes the gap, or what the drawback is.
+
+## Frequently asked questions
+
+**What is the difference between primary and secondary income?**
+Primary income is income from abroad, mainly profits, interest and dividends on investments, and wages. Secondary income is transfers with nothing traded in return, such as foreign aid and money sent home by migrants.
+
+**What is disposable income?**
+Disposable income is income after direct taxes are paid and cash benefits are received.
+
+**How can the government reduce a current account deficit?**
+By reducing demand at home, using supply-side policies to make firms more competitive, allowing a lower exchange rate, or using tariffs and quotas, each with drawbacks.
+
+**Is a current account deficit the same as a government budget deficit?**
+No. The current account records flows with the rest of the world, while a budget deficit is when government spending exceeds its revenue.
+
+**What is the difference between inequality and poverty?**
+Inequality is about the gap between groups; poverty is about having too little. A country can reduce one without reducing the other.
 
 ## Official syllabus
 

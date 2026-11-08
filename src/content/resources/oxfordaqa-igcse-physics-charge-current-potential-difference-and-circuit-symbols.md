@@ -301,6 +301,20 @@ Q = I t = 0.00080 × 600 = 0.48 C
 - Drawing a cell the wrong way round. The long line is positive.
 - Saying an LDR's resistance goes up in bright light.
 
+## Frequently asked questions
+
+**What does 12 V mean on a battery?**
+A 12 V battery gives 12 joules of energy to each coulomb of charge it drives right round the circuit.
+
+**Why do metals conduct electricity?**
+Metals contain free charges, electrons that can move through the metal. When a potential difference is applied, these free electrons flow and form a current.
+
+**What happens to a thermistor's resistance as it warms up?**
+The thermistor's resistance falls as its temperature rises, so the current in its circuit increases. This is how a thermistor senses temperature in a circuit such as a thermostat.
+
+**Which section of the OxfordAQA 9203 specification does this guide cover?**
+It covers section 3.5.1 Electrical circuits, statements a to g, of the OxfordAQA International GCSE Physics (9203) specification, for exams from May/June 2018 onwards.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), specification version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.5.1 Electrical circuits, statements a to g.

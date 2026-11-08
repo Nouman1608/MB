@@ -266,6 +266,20 @@ The specification lists these command words: state, give an example, explain, ca
 - Evaluating without a judgement: saying "it depends" without saying on what, and then choosing.
 - Writing about firms when the question asks about savers, or the government, or consumers.
 
+## Frequently asked questions
+
+**What is the difference between income and wealth?**
+Income is a flow of money received over a period, such as wages, interest or rent. Wealth is a stock of assets, less debts, held at a point in time.
+
+**What are the main causes of inflation?**
+The notes list demand-pull inflation, cost-push inflation, imported inflation from a weaker currency, and expectations, where people ask for higher pay because they expect prices to rise.
+
+**Can savers lose money even when their balance grows?**
+Yes. If the interest rate is below the inflation rate, the nominal balance rises but its real value, what it can buy, falls.
+
+**How do you evaluate the consequences of inequality?**
+Consider how big the gap is, whether it is widening, whether people can move up, which groups are affected, and the short run against the long run.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Economics (J205), Version 2.0, June 2026, first assessment 2019, published by OCR; sections 3.3 and 3.4.

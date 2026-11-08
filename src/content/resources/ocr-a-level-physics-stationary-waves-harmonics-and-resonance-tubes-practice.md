@@ -161,6 +161,20 @@ These questions cover section 4.4.4 (Stationary waves) of the OCR Advanced GCE i
 - Taking the second resonance of a resonance tube to be the 2nd harmonic.
 - Explaining stationary-wave formation without mentioning reflection and superposition.
 
+## Frequently asked questions
+
+**What are the most common mistakes in stationary wave questions?**
+Common errors include using λ instead of λ/2 for the node spacing, counting nodes or maxima rather than the gaps between them, and giving even harmonics for a tube closed at one end. Taking the second resonance of a resonance tube to be the 2nd harmonic also loses marks.
+
+**How do you find the wavelength from several nodes?**
+Count the gaps, not the nodes: six successive minima make five gaps, each equal to λ/2. Measuring across many gaps also reduces the percentage uncertainty.
+
+**What must an explanation of how a stationary wave forms include?**
+Mention reflection, so that two progressive waves of the same frequency and similar amplitude travel in opposite directions, and their superposition. Leaving out reflection or superposition loses marks.
+
+**Which harmonic is the second resonance in a resonance tube?**
+The tube is closed at the water surface, so the first resonance is the fundamental and the second is the 3rd harmonic. Closed tubes have no even harmonics.
+
 ## Next steps
 
 - Read the [revision notes](/resources/ocr-a-level-physics-stationary-waves-harmonics-and-resonance-tubes-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-stationary-waves-harmonics-and-resonance-tubes/).

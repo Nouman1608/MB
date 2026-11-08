@@ -241,6 +241,23 @@ The chain to write: group excluded at the single price, so discrimination serves
 
 Examiner insight: answers tend to gain credit when each claim is followed by a reason and a context link, and tend to lose it when evaluation is a list of "it depends" statements with no stated factor.
 
+## Frequently asked questions
+
+**What is the difference between a monopoly and a monopsony?**
+A monopoly is a single seller with no close substitutes and high barriers to entry, so it is a price maker. A monopsony is a single or dominant buyer, such as the main employer in a town, so it is a wage or price maker. For a monopoly, read price from the demand curve; for a monopsony, read the wage from the supply curve.
+
+**What conditions are needed for third-degree price discrimination?**
+The firm needs price-making power, markets it can separate, a way to prevent resale between groups, and groups with different price elasticities of demand. The group with less elastic demand then pays the higher price.
+
+**Why might a regulator not force a natural monopoly to set price equal to marginal cost?**
+A natural monopoly has large fixed costs and low marginal cost, so average cost lies above marginal cost. Pricing at marginal cost would be allocatively efficient but would make a loss, so regulators often cap price near average cost instead or use a subsidy.
+
+**Can a minimum wage raise employment under monopsony?**
+Yes, within a range. A minimum wage flattens the labour supply curve the monopsonist faces, so a minimum wage set above the monopsony wage but not too high can raise both the wage and employment. Set too high, it reduces employment.
+
+**Is monopoly dynamically efficient?**
+It is arguable. Supernormal profit can fund research and new products, which supports dynamic efficiency, but protection from rivals can weaken the pressure to innovate and let costs drift up through X-inefficiency.
+
 ## Official syllabus
 
 Source: Pearson Education Limited, Edexcel International Advanced Subsidiary/Advanced Level in Economics (specification, Issue 2, June 2018; first teaching September 2018), section 3.3.3 Market structures and contestability, items 6 and 7.

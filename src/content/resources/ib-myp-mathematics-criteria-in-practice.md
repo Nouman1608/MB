@@ -11,13 +11,13 @@ order: 4
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-mathematics-assessment-criteria"
-description: "Worked, criterion-by-criterion guidance on what top-band evidence actually looks like for MYP Mathematics's four assessment criteria -- Knowing and understanding, Investigating patterns, Communicating, and Applying mathematics."
+description: "Worked guidance on what top-band evidence looks like for each IB MYP Mathematics assessment criterion, from knowing and understanding to real-life application."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This guide works through what genuinely top-band evidence looks like
@@ -145,6 +145,20 @@ even when the final answer is correct. Treating clear notation and labelling as 
 than part of the actual evidence Criterion C assesses. Stopping at a correct real-world calculation
 without reflecting on whether the model or conclusion is realistic, which limits Criterion D regardless
 of how accurate the underlying mathematics is.
+
+## Frequently asked questions
+
+**How is each IB MYP Mathematics criterion scored?**
+Each criterion is scored separately against descriptor bands from 1 to 8, and the MYP subject-group guide also recognises a level of 0, so each criterion ranges from 0 to 8 and the four-criterion total from 0 to 32.
+
+**What does top-band Criterion B evidence include?**
+It includes the student's own reasoning process: noticing a pattern, forming a conjecture, testing it and refining or justifying it. A correct general rule presented without that working falls short of the top band.
+
+**What should a top-band Criterion D answer say about a model?**
+It should draw valid conclusions and reflect on them, including whether the model is realistic and where it stops working. For example, a linear cost model may not hold at very high or very low output levels.
+
+**Can one task give evidence for more than one criterion?**
+Yes. Strong coursework tasks are usually designed to generate evidence for several criteria at once, so neglecting one criterion while focusing on another can lower your overall result.
 
 ## Official syllabus
 

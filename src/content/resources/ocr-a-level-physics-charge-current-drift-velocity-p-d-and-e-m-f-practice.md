@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "electrons-waves-and-photons"
     subtopic: "energy-power-and-resistance"
-description: "Original practice questions with worked answers on charge, current, drift velocity, p.d. and e.m.f. for OCR A Level Physics A (H556)."
+description: "Original practice questions with worked answers on charge, current, Kirchhoff's first law, drift velocity, p.d. and e.m.f. for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false
@@ -143,6 +143,20 @@ Related: [study guide](/resources/ocr-a-level-physics-charge-current-drift-veloc
 - Describing drift velocity as the speed of electrons.
 - Defining p.d. and e.m.f. without energy per unit charge.
 - Using the proton mass for an electron, or e instead of 2e for an alpha particle.
+
+## Frequently asked questions
+
+**What are common mistakes in OCR A Level Physics charge and current questions?**
+Frequent slips include not converting minutes into seconds, using the diameter or radius in place of the area, leaving n in cm⁻³ or the area in mm², and missing one of the two ion types when finding current in an electrolyte.
+
+**How do you define p.d. and e.m.f. for full marks?**
+Both definitions must be in terms of energy per unit charge: p.d. is energy transferred from electrical to other forms per unit charge, and e.m.f. is energy given to each unit of charge by a source. Definitions without energy per unit charge lose marks.
+
+**What value of elementary charge should I use?**
+Use e = 1.6 × 10⁻¹⁹ C, and remember that an alpha particle has charge 2e, not e.
+
+**Which OCR A Level Physics A sections do these questions cover?**
+They cover sections 4.1.1, 4.1.2, 4.2.1 and 4.2.2 of the OCR A Level Physics A (H556) specification, Version 3.0 (March 2026).
 
 ## Next steps
 

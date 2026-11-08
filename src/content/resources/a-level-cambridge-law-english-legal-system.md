@@ -13,13 +13,22 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "english-legal-system-9084"
+  - qualification: "a-level"
+    topic: "english-legal-system-9084"
+    subtopic: "principles-and-sources-of-english-law-9084"
+  - qualification: "a-level"
+    topic: "english-legal-system-9084"
+    subtopic: "machinery-of-justice-9084"
+  - qualification: "a-level"
+    topic: "english-legal-system-9084"
+    subtopic: "legal-personnel-9084"
 description: "Principles and sources of English law, the machinery of justice and legal personnel -- the opening topic of Cambridge International AS & A Level Law (9084)."
 author: "marlbridge-academic-team"
-reviewer: "aizaz-raoof-ali"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
 ---
 
 This guide covers **Topic 1 English Legal System**, the first of
@@ -169,3 +178,17 @@ Confusing ratio decidendi with obiter dicta. Treating distinguishing and overrul
 - Compare negotiation, mediation, conciliation and arbitration as forms of ADR.
 - Describe the roles of barristers, solicitors and legal executives, and how judicial independence is protected.
 - Explain how barristers and solicitors are regulated, naming the Bar Council, Bar Standards Board, Law Society, Solicitors Regulation Authority and Legal Ombudsman.
+
+## Frequently asked questions
+
+**What are the sub-topics of the English legal system in Cambridge A Level Law?**
+Topic 1 of Cambridge International AS and A Level Law 9084 has three sub-topics: 1.1 principles and sources of English law, 1.2 machinery of justice, and 1.3 legal personnel.
+
+**Which topics make up the Cambridge Law AS Level?**
+Topics 1 and 2, the English legal system and criminal law, form the AS Level. The full A Level adds Topics 3 and 4, law of contract and law of tort.
+
+**What are the forms of alternative dispute resolution?**
+The page compares negotiation, mediation, conciliation and arbitration. In negotiation the parties reach their own agreement; in mediation a neutral third party helps them do so.
+
+**Who regulates barristers and solicitors?**
+The Bar Council represents barristers and the Bar Standards Board regulates them; the Law Society represents solicitors and the Solicitors Regulation Authority regulates them. The Legal Ombudsman deals with complaints about service.

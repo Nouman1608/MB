@@ -17,9 +17,9 @@ syllabusTopics:
     topic: "ib-myp-sciences-related-concepts"
 description: "Original IB MYP Sciences metabolism questions on enzymes, respiration, photosynthesis and digestion, with criterion B design and C data tasks."
 author: "marlbridge-academic-team"
-reviewer: "ameer-hamza"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ameer-hamza on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -164,6 +164,20 @@ Related: [metabolism study guide](/resources/ib-myp-sciences-metabolism/) · [me
 - Rates given without units (cm³ s⁻¹, bubbles min⁻¹).
 - Percentage change divided by the new value instead of the original.
 - Evaluations with no final judgment.
+
+## Frequently asked questions
+
+**What are common mistakes in metabolism questions?**
+Frequent slips include writing "enzymes die" instead of "are denatured", giving carbon dioxide as a product of muscle anaerobic respiration, and describing a graph or table with no quoted values.
+
+**How should anomalies be handled in an MYP Sciences investigation?**
+Do not leave an anomalous result in a mean without comment, and do not remove it silently. Identify it and explain how you treated it.
+
+**Why do rates need units in metabolism questions?**
+A rate with no unit, such as cm³ s⁻¹ or bubbles min⁻¹, can lose credit even when the number is correct.
+
+**How do you compare two metabolic processes?**
+Make points about both processes, such as their reactants, products and energy released. A comparison that describes only one process earns little.
 
 ## Next steps
 

@@ -25,11 +25,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-5-11"
 description: "12 original IB DP Maths AA questions on integration, areas between curves and kinematics, calculator-free and GDC, with fully marked answers."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -178,6 +178,20 @@ Learn the methods first in the [integration study guide](/resources/ib-dp-mathem
 - [Printable syllabus checklist](/checklists/ib/ib-dp/mathematics-analysis-and-approaches/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Can you just write the GDC value for a definite integral?**
+No. Write the integral expression with its limits first, then the value. A GDC value with no integral expression means the method mark cannot be awarded.
+
+**How do you integrate f(ax + b)?**
+Integrate as normal and divide by a, the coefficient of x: ∫ f(ax + b) dx = (1/a)F(ax + b) + C. Multiplying by a instead of dividing is a common error.
+
+**How do you find the total area when part of a curve is below the x-axis?**
+Split the integral at each root and add the sizes of the separate areas. The integral over a part below the axis is negative, so integrating straight across can give a value that is not the area.
+
+**Should you round intersection points before integrating?**
+No. Store the intersection values in the GDC and use them as limits, because typing 3 s.f. limits into the integral can shift the answer, as noted for IB DP Mathematics: Analysis and Approaches Paper 2 work.
 
 ## Official syllabus
 

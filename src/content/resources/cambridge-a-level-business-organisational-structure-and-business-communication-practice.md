@@ -118,6 +118,20 @@ These questions cover sections 7.1 Organisational structure and 7.2 Business com
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which sections of Cambridge AS and A Level Business 9609 do these questions cover?**
+Section 7.1 Organisational structure and section 7.2 Business communication, including types of structure, delayering, delegation and barriers to communication.
+
+**How do I answer a question on barriers to communication?**
+Apply each barrier to the case and pair it with a way to overcome it. Listing barriers without solutions limits the marks.
+
+**Is informal communication always harmful?**
+No. Describing informal communication as only harmful is a common error; it can speed up information and show managers what concerns staff have, even though it can also spread rumours.
+
+**What should a delayering answer consider besides cost savings?**
+The wider spans of control and extra workload for the managers who remain, and the effect on staff morale, as well as the one-off redundancy cost.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge International: sections 7.1 and 7.2.

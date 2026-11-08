@@ -156,6 +156,20 @@ Recommend whether Yarnscombe Preserves should switch to flow production. Justify
 - Recommending a method without quoting figures from the question.
 - Giving one side only when asked to justify or evaluate.
 
+## Frequently asked questions
+
+**Are these Cambridge IGCSE Business 0264 past paper questions?**
+No. They are twelve original questions written for Marlbridge on section 4.1 (Production of goods and services), not reproduced past-paper questions. Use them alongside the official past papers from your board or school.
+
+**How do you get application marks on a lean production question?**
+Use details from the case, such as the named business, its products or its weekly meeting, and show how the method works there. A general statement such as "Kaizen reduces waste" with no explanation of how does not use the case.
+
+**How do you recommend a production method in an exam answer?**
+State the method first, then use several facts from the stem, such as quantity, price and how customised the product is. Finish by saying why the rejected method fits the business less well.
+
+**Can a recommendation include a condition?**
+Yes, a recommendation that depends on a condition, such as a contract being signed, can work if the reasoning is clear. It should still weigh the gain against the risk that the expected demand does not arrive.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/igcse-business-0264-production-of-goods-and-services-revision-notes/).

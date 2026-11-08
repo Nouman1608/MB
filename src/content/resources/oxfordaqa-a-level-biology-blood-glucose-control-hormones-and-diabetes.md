@@ -197,6 +197,23 @@ Cultured liver cells were treated for 20 minutes. The rise in glucose in the sur
 - Giving only "hormone binds to receptor" for the second messenger model. Name adenyl cyclase, cAMP and protein kinase in order.
 - Describing hyperglycaemia without water potential, or missing that Type 1 and Type 2 have different causes.
 
+## Frequently asked questions
+
+**What is the difference between glycogenesis, glycogenolysis and gluconeogenesis?**
+Glycogenesis converts glucose to glycogen when blood glucose is high. Glycogenolysis converts glycogen to glucose when blood glucose is low, and gluconeogenesis makes glucose from non-carbohydrate molecules such as glycerol and amino acids.
+
+**Why is high blood glucose harmful?**
+Dissolved glucose lowers the water potential of the blood plasma, so water leaves cells by osmosis and cells may become dehydrated. Low blood glucose is also harmful because respiration slows and less ATP is made.
+
+**What is the difference between Type 1 and Type 2 diabetes?**
+In Type 1, the immune system destroys the insulin-secreting cells of the pancreas, so little or no insulin is made. In Type 2, target cells respond poorly to insulin and insulin production may also fall; it is linked to obesity, low activity and diet.
+
+**How does the second messenger model work for adrenaline and glucagon?**
+The hormone binds its receptor on the cell surface, activating adenyl cyclase, which converts ATP into cyclic AMP. cAMP activates protein kinase, which activates enzymes that break glycogen down to glucose.
+
+**Is blood glucose control on the International AS in OxfordAQA Biology (9610)?**
+No. Section 3.4.7 is in Unit 4, Control, which belongs to the International A-level only.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Biology (9610)*, Version 5.1, for International A-level exams May/June 2018 onwards: section 3.4.7, Hormones and the control of blood glucose concentration.

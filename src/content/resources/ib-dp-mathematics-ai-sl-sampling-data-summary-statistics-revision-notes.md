@@ -22,11 +22,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-4-3"
 description: "Condensed revision notes on sampling, bias, outliers, cumulative frequency, box plots and summary statistics, with a self-test, for IB DP Maths AI."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 For full explanations and longer worked examples, use the [study guide for this unit](/resources/ib-dp-mathematics-ai-sl-sampling-data-summary-statistics/).
@@ -214,6 +214,20 @@ Standard deviation and variance: **technology only**, as the guide states. At SL
 - Comparing box plots with numbers only: each comparison needs a sentence in context about centre and about spread.
 - Calling a sample "random" when it is only systematic, quota or convenience.
 - Rounding intermediate values (such as Q₁ from a graph) too early, which moves the IQR and the outlier boundaries.
+
+## Frequently asked questions
+
+**What is the difference between quota and stratified sampling?**
+Both take a set number from each group, but in stratified sampling the members of each group are chosen at random and in proportion to group size. In quota sampling the collector fills each quota with anyone available, so it is not random.
+
+**How do you calculate a stratified sample size for one group?**
+Multiply the fraction of the population in that group by the total sample size: (group size ÷ population size) × sample size. For example, 300 of 1200 students in a sample of 80 gives 20.
+
+**Do you calculate standard deviation by hand in IB Maths AI SL?**
+No. The IB guide says standard deviation and variance are found with technology only. At SL the data set is treated as the population unless you are told otherwise, so use σx on your GDC.
+
+**Where do the whiskers go on a box and whisker diagram with outliers?**
+The whiskers go to the smallest and largest values that are not outliers, and each outlier is marked separately with a cross. Drawing the whiskers out to the outliers loses marks.
 
 ## Official syllabus
 

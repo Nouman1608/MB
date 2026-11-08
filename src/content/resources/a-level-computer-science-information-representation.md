@@ -7,17 +7,26 @@ topic: "Information representation"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9618"]
-syllabusSeries: "2027-2029"
+syllabusSeries: "2026"
 stage: "AS"
 order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "information-representation"
-description: "An overview of data representation, multimedia (graphics and sound), and compression for Topic 1 Information representation, Cambridge AS & A Level Computer Science 9618, 2027-2029 series -- covering number-base conversion, file-size calculation, the choice between bitmap and vector graphics, and compression choice; see the note below on parts of 1.1 this overview does not go into."
+  - qualification: "a-level"
+    topic: "information-representation"
+    subtopic: "data-representation"
+  - qualification: "a-level"
+    topic: "information-representation"
+    subtopic: "multimedia-graphics-sound"
+  - qualification: "a-level"
+    topic: "information-representation"
+    subtopic: "compression"
+description: "Guide to Topic 1 of Cambridge AS Computer Science 9618: base conversion, two's complement, image and sound file sizes, bitmaps, vectors and compression."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -153,6 +162,20 @@ sampling rate in audio) permanently discards some information to achieve a small
 small, often imperceptible loss in quality for a significantly smaller file size. Knowing which
 category a given real-world format or technique falls into — and being able to justify why — is
 tested as directly as the underlying calculations.
+
+## Frequently asked questions
+
+**How do you calculate the file size of a bitmap image?**
+Multiply the image resolution (width × height in pixels) by the colour depth in bits per pixel. The result is an estimate because the file also contains a header.
+
+**How do you calculate the file size of a sound file?**
+Multiply the sampling rate by the sampling resolution and the duration in seconds. Raising either the sampling rate or the resolution improves quality but increases the file size.
+
+**When should you use a vector graphic instead of a bitmap?**
+A vector graphic suits logos, diagrams, maps and line art made from distinct shapes, because it scales without loss of quality. A bitmap suits photographs with continuous, irregular variation in colour.
+
+**What is the difference between lossy and lossless compression?**
+Lossless compression, such as run-length encoding, lets the original be reconstructed exactly. Lossy compression, such as reducing colour depth or sampling rate, permanently discards some data to give a smaller file.
 
 ## Official syllabus
 

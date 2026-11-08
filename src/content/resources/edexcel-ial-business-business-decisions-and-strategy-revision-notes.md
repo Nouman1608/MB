@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Business decisions and strategy (YBS11) -- Revision Notes"
+title: "Edexcel International A Level Business: Business decisions and strategy (YBS11) -- Revision Notes"
 seoTitle: "Edexcel IAL Business Decisions Strategy Revision Notes"
 resourceType: "revision-notes"
 subject: "business"
@@ -226,6 +226,20 @@ Ratio limitations: historic, accounting policies differ, ignore non-financial fa
 - Naming a limitation but never tying it to the business described in the source.
 - Saying a ratio is good or bad with no comparison against past years, rivals or targets.
 - Treating stakeholder and shareholder views as one, or leaving out a judgement in evaluative answers.
+
+## Frequently asked questions
+
+**What is Ansoff's Matrix?**
+Ansoff's Matrix links products and markets: market penetration (current products, current market) carries the lowest risk, followed by product development, market development and diversification, where new products go into new markets.
+
+**What is the difference between horizontal and vertical integration?**
+Horizontal integration joins two firms at the same stage of the same industry, such as two coach operators. Vertical integration joins a firm with a supplier (backward) or with a business closer to the customer (forward).
+
+**How do you find the critical path in Edexcel IAL Business?**
+Work forwards to find the earliest start times, taking the larger value where paths join, then backwards for the latest finish times, taking the smaller. Activities with zero total float lie on the critical path.
+
+**How do you calculate labour turnover?**
+Labour turnover (%) is the number of leavers in the period divided by the average number of employees, multiplied by 100. For example, 18 leavers from 150 staff is 12%.
 
 ## Official syllabus
 

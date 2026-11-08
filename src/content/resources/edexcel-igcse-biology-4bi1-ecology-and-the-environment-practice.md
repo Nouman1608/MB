@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "ecology-and-the-environment-edexcel-igcse-biology"
 description: "Twelve original Edexcel IGCSE Biology 4BI1 ecology questions with mark-by-mark answers on quadrats, energy transfer, cycles and pollution."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -172,6 +172,20 @@ Learn the content first in the [study guide](/resources/edexcel-igcse-biology-4b
 - Track coverage with the [printable checklist](/checklists/edexcel/igcse/biology/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Which topic of Edexcel International GCSE Biology 4BI1 do these questions cover?**
+They cover Topic 4, Ecology and the environment, including quadrats, energy transfer, cycles and human influences on the environment.
+
+**How should you scale up quadrat data?**
+Calculate a mean per quadrat first, then scale up to the whole area. Scaling without a mean loses marks.
+
+**Should you say "energy is lost" in food chain answers?**
+Give the route by which energy is lost, such as heat from respiration, rather than just "lost".
+
+**Are some of these questions for Paper 2 only?**
+Yes. Questions marked "Paper 2 only" cover content examined only on Paper 2.
 
 ## Official syllabus
 

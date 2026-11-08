@@ -304,6 +304,20 @@ Suppose log₂ 3 = p/q, where p and q are positive integers. (Both are positive 
 - In a contradiction proof, assuming the wrong opposite, or forgetting to state the contradiction.
 - Ending without a conclusion in words.
 
+## Frequently asked questions
+
+**How do you prove that √2 is irrational?**
+Use proof by contradiction: assume √2 = p/q in lowest terms, so p² = 2q². Then p is even, so q is also even, which contradicts p/q being in lowest terms.
+
+**How do you prove an "if and only if" statement?**
+Prove both directions, P ⇒ Q and Q ⇒ P, and say that you have done so. Proving only one direction is incomplete.
+
+**What should you assume at the start of a proof by contradiction?**
+Assume the exact opposite of the claim. For example, the opposite of "√2 is irrational" is "√2 is rational", not "√2 is a whole number".
+
+**What does the symbol ≡ mean in proof questions?**
+≡ means an identity, true for every value of the variable. The OCR specification's symbol list also reads ≡ as "is congruent to" when working with remainders.
+
 ## Next steps
 
 Work through the [revision notes](/resources/ocr-a-level-mathematics-proof-deduction-exhaustion-counter-example-logical-revision-notes/), then the [practice questions](/resources/ocr-a-level-mathematics-proof-deduction-exhaustion-counter-example-logical-practice/). Use the [diagnostics](/diagnostics/) to find the weak areas first.

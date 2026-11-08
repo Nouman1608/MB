@@ -141,6 +141,20 @@ These questions test outcomes 7.7.1 to 7.7.5 in the Cambridge International AS &
 - Take one of the [free 10-minute diagnostics](/diagnostics/), which are all free.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 growth of firms questions from past papers?**
+No. They are original practice questions with worked answers covering outcomes 7.7.1 to 7.7.5 of the Cambridge International AS & A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**What are common mistakes in integration questions?**
+Common errors are writing "vertical" without saying forward or backward, forgetting to re-rank market shares after a merger, and ignoring fixed costs when judging whether integration is worthwhile.
+
+**Is a cartel stable?**
+No. Treating a cartel as stable misses the incentive to cheat: each member gains by producing more than its quota while others stick to the agreed price.
+
+**How should you evaluate whether a merger is good for consumers?**
+Reach a reasoned judgement tied to conditions and consider more than one affected group. Saying a merger always lowers costs or always raises prices, or ending by repeating points without choosing a side, loses marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, section 7.7 (Cambridge University Press & Assessment).

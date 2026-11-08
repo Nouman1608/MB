@@ -22,11 +22,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-4-3"
 description: "11 original questions with marked answers on sampling, outliers, cumulative frequency, box plots and summary statistics for IB DP Maths AI SL and HL."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -238,6 +238,20 @@ A fault that repeats every 25 bottles could bias the sample. [1]
 - [Printable syllabus checklist](/checklists/ib/ib-dp/mathematics-applications-and-interpretation/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**How do you show that a value is an outlier in IB Maths AI?**
+Calculate the boundaries Q₁ − 1.5 × IQR and Q₃ + 1.5 × IQR and show that the value lies outside them. Writing "outlier" without the numerical boundaries does not earn the marks.
+
+**How should you compare two distributions in an exam answer?**
+Compare both a measure of centre, such as the median, and a measure of spread, such as the IQR, and say what each means in the context of the question. Answers without context or without both centre and spread lose marks.
+
+**Why is the mean of grouped data only an estimate?**
+The exact values within each class are unknown, so the mean is estimated using the mid-interval value of each class. Using class boundaries instead of mid-interval values is a common mistake.
+
+**What happens to the standard deviation when a constant is added to every value?**
+Adding or subtracting a constant shifts the mean but does not change the standard deviation or variance. Multiplying every value by k multiplies the standard deviation by k and the variance by k².
 
 ## Official syllabus
 

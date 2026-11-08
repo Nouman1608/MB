@@ -256,6 +256,20 @@ concentrations of these gases mean more infrared absorbed, which contributes to 
 - Describing fingerprinting without saying the spectrum is compared with known spectra.
 - Leaving bonds absorbing infrared out of the global warming explanation.
 
+## Frequently asked questions
+
+**Is organic analysis AS content in OxfordAQA 9620 Chemistry?**
+Yes. Section 3.3.6 is International AS content examined in Unit 2. The one exception is the acid–carbonate reaction, stated in section 3.3.9.1 (International A-level only), which is still needed for Required practical 5.
+
+**What is Required practical 5 in OxfordAQA 9620 Chemistry?**
+Required practical 5 is to carry out tests for alcohols, aldehydes, alkenes and carboxylic acids. Heat with a water bath because most of the liquids are flammable, record the starting and final colours, and run a blank with water for comparison.
+
+**How do you tell an alcohol O–H band from a carboxylic acid O–H band?**
+An alcohol O–H gives a broad absorption at about 3230–3550 cm⁻¹, while the O–H in a carboxylic acid gives a very broad absorption across about 2500–3000 cm⁻¹. In the exam, take the ranges from the data booklet you are given.
+
+**Can C–H absorptions identify a functional group?**
+No. Almost every organic compound contains C–H bonds, so using C–H absorptions as evidence for a particular functional group is a common error. Look for bands such as C=O, C=C or O–H instead.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS

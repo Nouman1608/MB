@@ -219,6 +219,20 @@ When asked to "explain how", always finish the chain: the gene gives the charact
 - Evaluating with a one-sided list instead of reaching a judgement.
 - Using "gene" and "genome" as if they meant the same thing.
 
+## Frequently asked questions
+
+**What is a vector in genetic engineering?**
+A vector carries the gene into the host cell; a plasmid, a small circular loop of DNA separate from the main chromosome, is a common example.
+
+**What are sticky ends?**
+Sticky ends are short unpaired ends of DNA left by a restriction enzyme cut. They pair with complementary sticky ends, which allows a gene to be inserted into a plasmid.
+
+**What is a recombinant plasmid?**
+A recombinant plasmid is a plasmid that contains the new gene. Host bacteria take it up and copy it.
+
+**Are the steps of genetic engineering on the Foundation tier?**
+No. The main steps of genetic engineering, statement B6.2e, are Higher Tier only in OCR GCSE Biology A (J247). The definition, benefits and risks, and GM as a solution to food demand are on both tiers.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Statements B6.2d to B6.2g.

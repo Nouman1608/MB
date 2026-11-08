@@ -39,11 +39,11 @@ syllabusTopics:
     subtopic: "trigonometry-and-pythagoras-theorem-edexcel-igcse-maths"
 description: "Study guide for Edexcel IGCSE Maths A 4MA1 sections 4.1-4.8: angles, polygons, measures, constructions, circle theorems and trigonometry."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This study guide covers Topic 4, **Geometry and trigonometry**, sections 4.1–4.8, of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on that specification. Sections 4.1–4.5 are the same on both tiers. Sections 4.6–4.8 have Foundation content plus extra statements marked below as **Higher tier only**. A calculator may be used on every paper. Mensuration, 3D shapes and similarity (4.9–4.11) are not part of this unit.
@@ -351,6 +351,23 @@ With A = 48°, B = 67° and a = 9 cm, the sine rule gives b = 9 sin 67° ÷ sin 
 - Leaving your calculator in radians.
 - Using the cosine rule for the included angle with the wrong side opposite it.
 - Writing "Z angles" or "because of the circle" instead of a proper reason.
+
+## Frequently asked questions
+
+**What is the sum of the interior angles of a polygon?**
+The interior angles of an n-sided polygon add to (2n − 4) right angles, which is (2n − 4) × 90°. For an octagon that is (16 − 4) × 90° = 1080°.
+
+**How do you construct a perpendicular bisector with compasses?**
+Open the compasses to more than half the length of AB, draw arcs above and below the line from A and then from B with the same radius, and join the two crossing points. Leave all construction arcs visible.
+
+**When do you use the cosine rule instead of the sine rule?**
+Use the cosine rule, a² = b² + c² − 2bc cos A, when you know two sides and the included angle, or all three sides. Use the sine rule when you know a side and its opposite angle; both are Higher tier in Edexcel IGCSE Maths 4MA1.
+
+**How do you convert km/h to m/s?**
+Multiply by 1000 to change kilometres to metres and divide by 3600 to change hours to seconds. For example, 72 km/h = 72 × 1000 ÷ 3600 = 20 m/s.
+
+**What is sin 150° equal to?**
+Because sin(180° − θ) = sin θ, sin 150° = sin 30° = 0.5. Similarly cos(180° − θ) = −cos θ, so cos 120° = −0.5; working with obtuse angles is Higher tier content.
 
 ## Next steps
 

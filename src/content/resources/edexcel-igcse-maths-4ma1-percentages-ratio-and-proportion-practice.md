@@ -160,6 +160,20 @@ Learn the content first in the [study guide](/resources/edexcel-igcse-maths-4ma1
 - (Higher) Adding successive percentage changes instead of multiplying the multipliers.
 - (Higher) Giving only the final number of years without the values either side of the target.
 
+## Frequently asked questions
+
+**Do you divide by the original or the new value for percentage change?**
+Divide the change by the original value, then multiply by 100. A fare falling from £250 to £215 is a change of 35, and 35 ÷ 250 × 100 = a 14% decrease.
+
+**What is the difference between simple and compound interest?**
+Simple interest adds the same amount each year, while compound interest works out each year's interest on the new total, so the interest earns interest. Using simple interest when the question says compound is a common way to lose marks.
+
+**Should you round the value at the end of each year in compound interest?**
+No. Keep the full calculator value and use the multiplier raised to the power of the number of years, rounding only at the end; rounding every year can leave the final answer a few pence out.
+
+**What should you show when finding how many years it takes to reach a target?**
+Show the values for the years either side of the target, not just the final number of years. In Edexcel IGCSE Maths 4MA1 this type of compound interest problem is Higher tier only.
+
 ## Next steps
 
 - Refresh the methods: [revision notes](/resources/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion-revision-notes/)

@@ -213,6 +213,23 @@ Drug development: computer modelling and laboratory tests, animal tests, then cl
 - Writing "the brain" instead of the named region.
 - Saying fMRI uses radiation, or that CT shows function.
 
+## Frequently asked questions
+
+**How does light cause a rod cell to send an impulse?**
+Rhodopsin absorbs light and splits into opsin and retinal, cation channels close, sodium ions stop entering and the rod hyperpolarises. It releases less neurotransmitter, so the bipolar neurone depolarises and the optic neurone can fire.
+
+**What is habituation?**
+Habituation is a decrease in response to a stimulus that is repeated and harmless. It saves energy and attention for new or dangerous stimuli, and it is not the same as fatigue.
+
+**How does IAA cause phototropism?**
+Light from one side makes IAA move to the shaded side, where proton pumps lower the wall pH, cells elongate more and the shoot bends towards the light.
+
+**What is the difference between structural and functional brain scans?**
+MRI and CT scans show structure. Functional scans such as fMRI show which areas of the brain are active.
+
+**What is the difference between the hypothalamus and the pituitary gland?**
+The hypothalamus controls hormone release, while the pituitary gland releases the hormones.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology (YBI11) specification, Issue 2, published by Pearson Education Limited.

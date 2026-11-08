@@ -9,13 +9,13 @@ qualifications: ["a-level"]
 syllabusCodes: ["7405"]
 syllabusSeries: "For first teaching 2015"
 order: 3
-description: "Paper-by-paper exam preparation for AQA A-Level Chemistry 7405 -- physical/inorganic vs physical/organic split, Paper 3's whole-specification multiple choice, practical-skills fluency, a worked answer and a checklist."
+description: "How to prepare for the three AQA A-Level Chemistry 7405 papers: what each covers, Paper 3 multiple choice and practical skills, a worked answer and a checklist."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 ---
 
 AQA A-Level Chemistry (7405) is assessed through three written papers, not tiered: Paper 1 (relevant
@@ -114,6 +114,23 @@ available for correct working even when the final numerical answer is wrong, but
 is actually written down. 4. Because the balanced equation's 1:1 mole ratio converts moles of the
 known reagent (HCl) into moles of the unknown reagent (NaOH) -- skipping this step and using the wrong
 number of moles would give an incorrect final concentration.
+
+## Frequently asked questions
+
+**How many papers are there in AQA A-Level Chemistry 7405?**
+There are three written papers and no tiers. Paper 1 and Paper 2 are each 2 hours, 105 marks and 35% of the A-level, and Paper 3 is 2 hours, 90 marks and 30%.
+
+**What is on AQA A-Level Chemistry Paper 1 and Paper 2?**
+Paper 1 covers relevant physical chemistry plus inorganic chemistry and practical skills, and Paper 2 covers relevant physical chemistry plus organic chemistry and practical skills. Physical chemistry is split across the two papers, so map each physical chemistry section to its paper before revising.
+
+**How is AQA A-Level Chemistry Paper 3 structured?**
+Paper 3 can test any content and any practical skills. Its 90 marks are split into 40 marks of practical techniques and data analysis, 20 marks of questions testing across the specification and 30 marks of multiple choice.
+
+**Can you get marks for a calculation if the final answer is wrong?**
+Yes, partial credit is available for correct method even when the final numerical answer is wrong, but only if the method is written down. Show every step, including units at each stage.
+
+**How should you revise required practicals for AQA A-Level Chemistry?**
+Revise each required practical's method and apparatus, and practise evaluating unfamiliar variations, including identifying and reducing sources of error. Treat this as a separate, heavily weighted strand because practical skills carry 40 of Paper 3's marks.
 
 *Written against AQA A-Level Chemistry 7405 (specification-at-a-glance, verified 2026-08-28). The
 worked scenario above is an original example written for this resource, not a reproduction of any

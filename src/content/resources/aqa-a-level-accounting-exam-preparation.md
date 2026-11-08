@@ -9,11 +9,11 @@ qualifications: ["a-level"]
 syllabusCodes: ["7127"]
 syllabusSeries: "2017-onwards"
 order: 3
-description: "How AQA A-Level Accounting 7127's identical three-section papers should shape revision -- the 30/40/50 mark split across Sections A, B and C, the different content each paper draws on, and a worked own-figure-rule routine."
+description: "How the two identical AQA A-Level Accounting 7127 papers, with 30, 40 and 50 mark sections and different content, should shape revision, timing and workings."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 publishedDate: 2026-09-07
 featured: false
 ---
@@ -125,6 +125,20 @@ marks), 60 for Section B (40 marks) and 75 for Section C (50 marks), at about 1.
 may lose presentation marks for headings, dates and ordering they never had to produce themselves.
 4. Because method marks in the later part are normally still available for a correctly applied own
 figure -- but only if the working is visible and the carry-forward is stated.
+
+## Frequently asked questions
+
+**How many exam papers are there for AQA A-Level Accounting 7127?**
+There are two written papers of identical shape. Each lasts 3 hours, carries 120 marks and is worth 50% of the A-level, and the qualification is linear and untiered.
+
+**Which specification sections are on Paper 1 and Paper 2?**
+Paper 1 draws on sections 1–8 and 14–18, and Paper 2 on sections 1–3, 8–13 and 17–18. Sections 1–3, 8 and 17–18 can therefore be tested on either paper.
+
+**How long should I spend on each section of an AQA Accounting paper?**
+At about 1.5 minutes per mark, allow roughly 45 minutes for Section A (30 marks), 60 minutes for Section B (40 marks) and 75 minutes for Section C (50 marks).
+
+**How should I structure a Section C evaluation answer?**
+State a position, support it with two specific figures from the scenario, acknowledge one limitation of the data, and conclude. An evaluation built on figures from the scenario reads very differently from one built on general principles.
 
 *Written against the AQA A-Level Accounting 7127 specification-at-a-glance (official AQA specification
 page, verified 2026-08-28). The computation routine above is an original model written for this

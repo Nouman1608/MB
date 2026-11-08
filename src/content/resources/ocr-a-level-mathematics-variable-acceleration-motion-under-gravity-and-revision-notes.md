@@ -218,6 +218,20 @@ At the highest point 10 − 9.8t = 0, so t = 1.02 s, and the height is 2 + 100/1
 </figure>
 
 
+## Frequently asked questions
+
+**Which parts of this topic are A Level only in OCR A Level Mathematics A (H240)?**
+Variable acceleration in one dimension using calculus, 3.02f, is Stage 1. Vector kinematics with calculus, motion under gravity in vector form and projectiles, 3.02g to 3.02i, are A Level only.
+
+**What is the velocity at the highest point of a projectile?**
+At the highest point only the vertical component of velocity is zero; the horizontal component is unchanged. "At rest" would need both components to be zero.
+
+**Which launch angle gives the greatest range on level ground?**
+45°, from R = u² sin 2α / g. Angles α and 90° − α give the same range, such as 30° and 60°.
+
+**What does the projectile model assume?**
+It ignores air resistance, treats the object as a particle, keeps g constant and ignores wind.
+
 ## Official syllabus
 
 OCR, *A Level in Mathematics A (H240)*, Version 3.1 (August 2026), for first assessment in 2018, content references 3.02f to 3.02i.

@@ -283,6 +283,20 @@ Unloading the spring and re-measuring checks whether the distortion was elastic.
 </figure>
 
 
+## Frequently asked questions
+
+**What is the difference between contact and non-contact forces?**
+Contact forces, such as friction, air resistance, tension and the normal contact force, need the objects to touch. Non-contact forces, such as gravity, electrostatic force and magnetic force, act across a gap.
+
+**What is the difference between elastic and inelastic distortion?**
+After elastic distortion an object returns to its original shape when the forces are removed. After inelastic distortion, as with a bent paper clip, it stays out of shape.
+
+**What does weight depend on?**
+Weight is the pull of gravity on an object, so its size depends on the gravitational field strength, g, where the object is.
+
+**What is the difference between distance and displacement?**
+Distance is how far you travel along your path and is a scalar. Displacement is the straight-line distance from start to finish with its direction stated, so it is a vector.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203) specification, version 5.2, for exams May/June 2018 onwards, published by Oxford International AQA Examinations. Sections 3.1.1 and 3.1.2.

@@ -258,6 +258,20 @@ Two metal/metal ion half-cells, an anode and a cathode, an external circuit and 
 - Using distillation when the question asks for the carboxylic acid.
 - Forgetting that an alkyne needs two moles of H₂ per mole to reach the alkane.
 
+## Frequently asked questions
+
+**What are the rules for assigning oxidation states?**
+Atoms in an uncombined element are 0, a monatomic ion takes its charge, oxygen is −2 except −1 in peroxides, and hydrogen is +1 except −1 in metal hydrides. All values total 0 for a neutral compound, or the overall charge for an ion.
+
+**How do you balance a half-equation in acidic solution?**
+Balance the element changing oxidation state, add water to balance oxygen, add H⁺ to balance hydrogen, then add electrons to the more positive side to balance charge. To combine two half-equations, scale them to equal electrons, add and cancel.
+
+**What are the electrode signs in voltaic and electrolytic cells?**
+Oxidation is always at the anode and reduction at the cathode. In a voltaic cell the anode is negative and the cathode positive; in an electrolytic cell the anode is positive and the cathode negative.
+
+**Can tertiary alcohols be oxidized?**
+No. Under the same conditions that oxidize primary alcohols to aldehydes or acids and secondary alcohols to ketones, tertiary alcohols are not oxidized, because the carbon bearing the OH has no hydrogen atom to lose.
+
 ## Official syllabus
 
 Reactivity 3.2 (Electron transfer reactions), understandings 3.2.1 to 3.2.11 for SL and HL, summarized from the *Chemistry guide* of the International Baccalaureate Diploma Programme, February 2023, first assessment 2025.

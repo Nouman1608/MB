@@ -13,13 +13,13 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-education-theory-methods-7192"
     subtopic: "education-7192"
-description: "Original exam-style practice questions with full worked answers on functionalist and Marxist views of education, and class, gender and ethnicity explanations for differential achievement, for AQA A-Level Sociology (7192)."
+description: "Practice questions and answers on functionalist and Marxist views of education and class, gender and ethnicity achievement for AQA A-Level Sociology 7192."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -215,3 +215,17 @@ explanation for one
 social variable (gender, ethnicity) explicitly back to that variable,
 which risks the answer reading as generic rather than targeted at the
 question asked.
+
+## Frequently asked questions
+
+**How are the 30-mark AQA Sociology education essays marked?**
+They are marked using the level descriptors in AQA's published mark schemes, so the indicative content shown carries no individual mark value. Examiners look for a developed, evaluative argument.
+
+**How should you use the Item in a 30-mark Sociology question?**
+Apply the Item explicitly, using its wording as a route into the relevant theories and explanations, rather than ignoring it and writing a general essay.
+
+**Do you need named theorists in AQA Sociology answers?**
+Named theorists appear in AQA's mark schemes as indicative content, so citing one strengthens an answer, although the levels descriptors do not require it for full marks.
+
+**What are common mistakes in AQA Sociology education essays?**
+Students often describe only one perspective when the question asks for evaluation, conflate material and cultural explanations, and save all evaluation for a final paragraph.

@@ -15,9 +15,9 @@ syllabusTopics:
     subtopic: "energy-work-and-power"
 description: "Energy stores and transfers, the conservation of energy, kinetic and gravitational potential energy, work done and power, for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 featured: false
 ---
@@ -220,6 +220,20 @@ electric currents, heating, waves)
 - ΔEp = mgΔh
 - W = Fd
 - P = W/t = ΔE/t
+
+## Frequently asked questions
+
+**Is Cambridge O Level Physics 5054 tiered?**
+No. 5054 is not tiered, so every candidate covers all of the energy, work and power content.
+
+**How does the 5054 syllabus say energy is transferred?**
+The syllabus names four mechanisms: a force doing mechanical work, an electrical current doing electrical work, heating, and electromagnetic, sound or other waves.
+
+**Is g the same as the acceleration of free fall?**
+Numerically, yes. The gravitational field strength g is about 9.8 N/kg, the same value as the acceleration of free fall in m/s².
+
+**Do 5054 questions use forces at an angle to the motion?**
+The syllabus mostly restricts work done to a force and motion in the same direction, but the distance must always be the distance moved in the direction of the force.
 
 ## Related resources
 

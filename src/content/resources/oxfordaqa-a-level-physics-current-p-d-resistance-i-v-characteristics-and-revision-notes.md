@@ -222,6 +222,23 @@ Only ntc thermistors are on the specification. A thermistor with a fixed resisto
 </figure>
 
 
+## Frequently asked questions
+
+**What is potential difference?**
+Potential difference is the work done, or energy transferred, per unit charge moving between two points. Energy transferred is W = VQ.
+
+**What is the difference between resistance and resistivity?**
+Resistance belongs to a particular sample and is measured in ohms. Resistivity belongs to the material at a given temperature and is measured in ohm metres.
+
+**Is R = V/I the same as Ohm's law?**
+No. R = V/I defines resistance and always applies. Ohm's law says R is constant, which is only true under certain conditions, such as a metal at constant temperature.
+
+**Why does an ntc thermistor's resistance fall when it is heated?**
+It is made of semiconducting material, so heating releases more charge carriers. Saying its resistance falls because there are fewer electrons is wrong.
+
+**What are superconductors used for?**
+Superconductors are used to produce strong magnetic fields from large currents in coils with no heating, as in scanners and accelerators, and in cables that transmit power with no energy lost as heat.
+
 ## Official syllabus
 
 Source: OxfordAQA International AS and A-level Physics (9630), Version 4.4, for exams from May/June 2020 onwards, published by OxfordAQA. Sections 3.4.1 to 3.4.3, shared International AS and A-level content.

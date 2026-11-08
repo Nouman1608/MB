@@ -15,7 +15,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-structure-bonding-organic-chemistry-ych11"
     subtopic: "bonding-and-structure-ych11"
-description: "Revision notes for Edexcel International A Level Chemistry 3.16-3.22: shape counting, bond angles, the named ten shapes and metal properties."
+description: "Revision notes for Edexcel International A Level Chemistry 3.16-3.22: shape counting, bond angles, the seven shapes of the ten named species and metal properties."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-07
 featured: false
@@ -206,6 +206,22 @@ solid wedge points towards you and a dashed wedge points away.
   <figcaption>A molecule with polar bonds is polar overall only if the bond dipoles do not cancel.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is electron-pair repulsion theory?**
+Electron pairs around a central atom repel one another and settle where repulsion is least, which fixes the shape. Lone pairs repel more than bonding pairs, in the order lone-lone > lone-bond > bond-bond.
+
+**What is the difference between the arrangement of electron pairs and the shape?**
+The arrangement includes lone pairs, while the shape describes only where the atoms are. NH₃ has a tetrahedral arrangement of pairs but a pyramidal shape, and H₂O has a tetrahedral arrangement but a bent shape.
+
+**Why does the bond angle increase from NH₃ to NH₄⁺?**
+When NH₃ accepts H⁺, its lone pair becomes a dative bond, so NH₄⁺ has four bonding pairs and no lone pairs. These repel equally, so the angle opens from about 107° to 109.5°.
+
+**What is metallic bonding?**
+Metallic bonding is the strong electrostatic attraction between metal ions and the delocalised electrons, as defined in outcome 3.21 of the Edexcel IAL Chemistry specification (YCH11). It acts in all directions throughout the giant lattice.
+
+**Why do metals conduct electricity when solid and molten?**
+The delocalised electrons are present and free to move in both states. When a potential difference is applied, they drift through the structure carrying charge.
 
 ## Official syllabus
 
@@ -232,4 +248,3 @@ molecules and 3D Metallic bonding, outcomes 3.16 to 3.22.
   <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--04-crystal-types.webp" width="900" height="1140" alt="Four panels show the four crystal types. Ionic (sodium chloride) is a lattice of ions and melting overcomes attractions between ions. Metallic (magnesium) is positive ions in a sea of electrons. Giant covalent (diamond) is a network of carbon atoms, and melting breaks covalent bonds. Molecular (iodine, ice) has only weak forces between molecules to overcome, so the melting point is low." loading="lazy">
   <figcaption>The type of structure decides what has to be overcome on melting: ions, ion-electron attraction, covalent bonds or only weak forces between molecules.</figcaption>
 </figure>
-

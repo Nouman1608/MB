@@ -8,13 +8,13 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language A: Literature"]
 order: 4
-description: "Paper-by-paper exam preparation for IB DP Language A: Literature -- working from Paper 1's guiding questions on two unseen extracts, building a genuine comparative Paper 2 essay, balancing the individual oral across two works, a worked scenario and a checklist."
+description: "Exam preparation for IB DP Language A: Literature: Paper 1's two unseen extracts, a comparative Paper 2, a balanced individual oral and drafting the HL essay."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 The [assessment revision notes](/resources/ib-dp-language-a-literature-assessment-revision-notes/)
@@ -134,6 +134,20 @@ analysis before a closing comparison. 4. Because the teacher may give written ad
 complete draft, and the next version handed in must be the final one, that advice is most useful for
 improving an already-developed argument, and essays drafted close to the deadline rarely leave time
 for the revision that distinguishes a strong essay from an adequate one.
+
+## Frequently asked questions
+
+**How many extracts do you analyse in IB Literature Paper 1?**
+Paper 1 of IB DP Language A: Literature sets two unseen literary extracts, each with its own guiding question. SL students analyse one in 1 hour 15 minutes for 20 marks; HL students analyse both in 2 hours 15 minutes for 40 marks.
+
+**Do you have to discuss the two oral extracts in a set order?**
+No. The guide sets no order, so the extracts can be interwoven or taken in turn, but the response should be one well-supported argument about how both works present the global issue.
+
+**What is the most common weakness in the individual oral?**
+Spending most of the time on the first work and only briefly mentioning the second. Time each work's share when you rehearse and check both get the same depth of analysis.
+
+**When should HL students finish a draft of the HL essay?**
+Have a full, developed draft ready well before the deadline. The teacher may give written advice on only one complete draft, so it is most useful for improving an existing argument rather than choosing a topic.
 
 ## Official syllabus
 

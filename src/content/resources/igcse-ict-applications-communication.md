@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "ict-applications"
     subtopic: "ict-applications-communication-0417"
-description: "The characteristics and uses of newsletters, posters, websites, multimedia presentations, audio, video, media streaming and ePublications, plus mobile communication via SMS, calls, VoIP and video calls, for Cambridge IGCSE ICT 0417, section 6.1."
+description: "Newsletters, posters, websites, presentations, streaming, ePublications, SMS, VoIP and video calls for Cambridge IGCSE ICT 0417 section 6.1, Communication."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -124,6 +124,20 @@ earlier infrastructure -- rather than an entirely separate block of new
 facts -- makes it easier to reason about unfamiliar scenarios, since
 the same underlying requirements (a suitable device, sufficient
 bandwidth, a working connection) recur across both topics.
+
+## Frequently asked questions
+
+**What is an ePublication?**
+In Cambridge IGCSE ICT (0417), an ePublication is an electronic book, magazine or document that is typically downloaded as a complete file and can then be read offline. It needs storage space but no ongoing internet connection once downloaded.
+
+**Do you need an internet connection to stream media?**
+Yes. Media streaming delivers audio or video continuously over the internet without downloading the full file first, so it needs an ongoing connection but no local storage for the whole file.
+
+**What is VoIP?**
+VoIP, Voice over Internet Protocol, carries voice communication as data over the internet rather than over a dedicated voice channel. It needs a working internet or wi-fi connection and depends on connection quality.
+
+**What are the disadvantages of a printed newsletter?**
+A printed newsletter is fixed once distributed, so it cannot be corrected or updated, and printing and distributing it has an ongoing material cost. Its advantage is that readers need no device or internet access.
 
 ## Official syllabus
 

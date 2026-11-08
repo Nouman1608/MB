@@ -12,11 +12,11 @@ order: 1
 syllabusTopics:
   - qualification: "o-level"
     topic: "data-representation-2210"
-description: "Condensed recall notes on binary, hexadecimal, two's complement, binary shifts, character sets, images, sound, storage units and compression for Cambridge O Level Computer Science 2210."
+description: "Recall notes for Cambridge O Level Computer Science 2210 Topic 1: binary, hex, two's complement, shifts, character sets, images, sound, storage and compression."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -184,3 +184,17 @@ The syllabus lists: **bit**, **nibble** (4 bits), **byte** (8 bits), **kibibyte 
 8. Convert −45 to an 8-bit two's complement integer, and convert 11101100 (two's complement) to denary.
 
 **Answers:** 1. It is far more compact and each hex digit corresponds to exactly four binary digits, making conversion straightforward and reducing human error. 2. When the result of a calculation requires more bits than the register can hold, so the stored value is incorrect. 3. ASCII could not represent non-Latin writing systems, so a larger character set was needed to cover a very wide range of the world's scripts. 4. Image: width × height × colour depth. Sound: sample rate × bit depth × duration. 5. On noisy or photographic data with few repeated adjacent values, where it can produce a file larger than the original. 6. 205 = 11001101 in binary, split into nibbles 1100 (C) and 1101 (D), giving CD in hexadecimal. 7. 800 × 600 × 24 = 11,520,000 bits ÷ 8 = 1,440,000 bytes ÷ 1024 = 1406.25 KiB ÷ 1024 ≈ 1.37 MiB. 8. +45 = 00101101; invert to 11010010; add 1 to get **11010011**. 11101100 = −128 + 64 + 32 + 8 + 4 = **−20**.
+
+## Frequently asked questions
+
+**What is the range of 8-bit two's complement?**
+An 8-bit two's complement number can hold values from −128 to +127, because the most significant bit has a place value of −128.
+
+**How do you convert a two's complement number to denary?**
+Add the place values of the 1 bits, using −128 for the leftmost bit. For example, 11101100 is −128 + 64 + 32 + 8 + 4 = −20.
+
+**How should overflow be described in an exam answer?**
+Say that the result is too large for the number of bits allocated, so the stored value is incorrect.
+
+**Are vector graphics in the Cambridge 2210 syllabus?**
+No. Vector graphics are not required by the 2210 syllabus and are given on the page only as useful background.

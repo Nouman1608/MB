@@ -175,6 +175,20 @@ These questions cover sections 6.2.4 to 6.2.6 (methods, reasons and consequences
 - Try all the [free 10-minute diagnostics](/diagnostics/) to find weak spots.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is an embargo?**
+An embargo is a ban that stops trade completely, either in one good or with one country. Defining it as any restriction on trade is a common error.
+
+**Which quantity do you use to calculate tariff revenue?**
+Use the quantity of imports after the tariff, multiplied by the tariff per unit. Applying the tariff to imports before it was imposed overstates the revenue.
+
+**Does an import quota give the government revenue?**
+Only if the government sells or auctions the import licences. Otherwise the gap between the world price and the home price goes to whoever holds the licences.
+
+**How do you answer an evaluation question on protection in Cambridge O Level Economics 2281?**
+Use the data in the question, consider trading partners as well as consumers and producers at home when asked, and finish with a judgement.
+
 ## Official syllabus
 
 Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: sections 6.2.4 Methods of protection, 6.2.5 Reasons for protection and 6.2.6 Consequences of protection.

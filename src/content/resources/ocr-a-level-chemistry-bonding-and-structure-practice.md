@@ -160,6 +160,20 @@ Explain the trend in boiling point from HCl to HI, and why HF has the highest bo
 - [Every OCR A Level Chemistry page, on the course hub](/boards/ocr/a-level/chemistry/)
 - [Checklist to print and tick](/checklists/ocr/a-level/chemistry/)
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry bonding and structure questions from past papers?**
+No. They are original practice questions with worked answers on section 2.2.2 of OCR A Level Chemistry A (H432).
+
+**Where should the charge go on a dot-and-cross diagram of an ion?**
+Put the ion in square brackets with the charge outside, at the top right. Writing the charge inside the brackets is a common error.
+
+**What decides the strength of London forces?**
+London forces depend on the number of electrons in the molecules. Comparing them by mass rather than by number of electrons is a common way to lose marks.
+
+**What is the difference between the electron-pair arrangement and the shape of a molecule?**
+The arrangement includes lone pairs, but the shape is named from the atoms only. NH₃ has four pairs arranged tetrahedrally, but its shape is pyramidal.
+
 ## Official syllabus
 
 OCR, A Level Chemistry A specification (H432), Version 3.1 dated May 2026, first assessment 2017: section 2.2.2 Bonding and structure.

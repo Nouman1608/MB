@@ -12,13 +12,13 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-mathematics-analysis-and-approaches-calculus"
-description: "Condensed revision notes on the Calculus strand of IB Diploma Programme Mathematics: Analysis and Approaches -- the largest strand at HL -- covering differentiation, integration and their applications, with worked reminders and self-test questions."
+description: "Revision notes on the Calculus strand of IB DP Mathematics: Analysis and Approaches: differentiation rules, applications, integration and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 Calculus is the largest of the five content strands at HL (55 hours, versus 28 at SL), and together
@@ -124,6 +124,20 @@ performed on functions, so reading graphs, interpreting function notation and so
 actually asking, not separate content. 6. Because Paper 1 does not allow a graphical display
 calculator, so any Calculus question on that paper must be solved through manual algebraic technique
 rather than technology-assisted calculation.
+
+## Frequently asked questions
+
+**How many teaching hours does Calculus have in IB Maths AA?**
+Calculus is the largest of the five content strands at HL in IB DP Mathematics: Analysis and Approaches, with 55 hours at HL compared with 28 at SL.
+
+**When do you add +C to an integral?**
+Add the constant of integration, +C, to an indefinite integral, which gives a general antiderivative. A definite integral between two bounds gives a numerical value and does not need +C.
+
+**Why is calculus linked to the Functions strand?**
+Differentiation and integration are operations performed on functions, so reading graphs, transforming functions and solving equations are direct prerequisites. Many calculus questions test whether you can connect a derivative back to the shape of the original graph.
+
+**Do you need to do calculus without a calculator in IB Maths AA?**
+Yes. Calculus is examined without technology on Paper 1 as well as with technology on Paper 2, so you need manual fluency with the differentiation and integration rules.
 
 ## Official syllabus
 

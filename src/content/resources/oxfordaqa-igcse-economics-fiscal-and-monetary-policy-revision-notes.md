@@ -272,6 +272,23 @@ Use this order for any "explain how policy X achieves objective Y" question.
 - Giving a calculation answer without units or working.
 - Listing evaluation points without saying which matters most.
 
+## Frequently asked questions
+
+**What is the difference between fiscal and monetary policy?**
+Fiscal policy uses government spending and taxation to influence the economy. Monetary policy changes interest rates, through the central bank or government, to steer the economy.
+
+**What is expansionary fiscal policy?**
+Expansionary fiscal policy means raising government spending or cutting taxes to increase total demand, output and employment. Contractionary fiscal policy does the reverse to reduce demand and slow inflation.
+
+**Does the OxfordAQA 9214 specification use the term multiplier?**
+No. The OxfordAQA International GCSE Economics (9214) specification does not name the multiplier, so these notes describe the knock-on effect of spending instead: the total change equals the first injection divided by one minus the share of extra income spent again.
+
+**How does a lower interest rate affect the exchange rate and the current account?**
+A lower interest rate tends to lower the exchange rate, making exports cheaper abroad and imports dearer at home. Both effects point towards a smaller current account deficit, though the size of the change depends on how strongly buyers respond to the new prices.
+
+**What evaluation points can I use for fiscal and monetary policy?**
+Useful points include time lags, spare capacity, leakages into saving and imports, confidence, who gains and loses, conflicts with other objectives, and the short run versus the long run. Say which matters most in the situation given rather than just listing them.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), specification version 1.0, for exams May/June 2025 onwards, published by OxfordAQA. Sections 3.2.3.1 and 3.2.3.2.

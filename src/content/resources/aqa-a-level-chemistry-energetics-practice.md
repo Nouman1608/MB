@@ -218,6 +218,23 @@ change in ΔT and in ΔH.
 - Leaving "1 mole" or "standard states" out of definitions.
 - Giving the states reason for a bond enthalpy discrepancy when every species is already a gas.
 
+## Frequently asked questions
+
+**Is energetics AS or A-level content in AQA Chemistry?**
+Section 3.1.4 Energetics of the AQA 7404/7405 specification is not A-level only, so it suits both AS and A-level. All the data needed for these practice questions is given in the questions.
+
+**What value of m should you use in q = mcΔT?**
+Use the mass of the water or solution that changes temperature, not the mass of the fuel or solid reactant. Using the reactant's mass is a common error that loses the q mark.
+
+**How do you get the sign of ΔH right in calorimetry?**
+If the temperature rises, the reaction is exothermic and ΔH is negative; if the temperature falls, ΔH is positive. The final answer also needs units of kJ mol⁻¹, so convert J to kJ first.
+
+**Why do definitions of enthalpy changes lose marks?**
+Each idea in a definition is a separate mark, so leaving out "1 mole", "standard states" or "completely burned in oxygen" costs marks. Doubling an equation to avoid fractions also loses the mark, because the definitions refer to 1 mole.
+
+**How many significant figures should energetics answers have?**
+Quote no more significant figures than the least precise data justify. Giving too many figures when the data are only to 2 significant figures is a common way to lose a mark.
+
 ## Next steps
 
 - [Energetics revision notes](/resources/aqa-a-level-chemistry-energetics-revision-notes/)

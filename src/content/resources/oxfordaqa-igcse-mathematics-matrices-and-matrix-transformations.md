@@ -319,6 +319,20 @@ Two rotations of 90° make a rotation of 180°. A reflection done twice gives th
 
 Use the [revision notes](/resources/oxfordaqa-igcse-mathematics-matrices-and-matrix-transformations-revision-notes/) for the quick-recall version, then test yourself with the [practice questions](/resources/oxfordaqa-igcse-mathematics-matrices-and-matrix-transformations-practice/).
 
+## Frequently asked questions
+
+**What is the order of a matrix?**
+The order is rows × columns. A 2 × 2 matrix has two rows and two columns, and a 2 × 1 matrix is a column with two entries.
+
+**What is the unit square in matrix transformations?**
+The unit square has vertices O(0, 0), A(1, 0), B(1, 1) and C(0, 1). The images of A and C under a 2 × 2 matrix are the matrix's first and second columns.
+
+**What is the matrix for a rotation of 90° anticlockwise about the origin?**
+It is (0 −1 / 1 0). A rotation of 90° clockwise is the same as 270° anticlockwise, with matrix (0 1 / −1 0).
+
+**Can you multiply a column vector by a matrix from the left?**
+No. In OxfordAQA International GCSE Mathematics (9260) a column always goes on the right of the 2 × 2 matrix, so you write M(x / y) to find the image of the point (x, y).
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1 (for exams May/June 2018 onwards), section 3.3.3, statements G23 to G26.

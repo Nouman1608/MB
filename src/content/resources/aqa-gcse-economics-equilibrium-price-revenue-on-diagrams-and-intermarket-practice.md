@@ -127,6 +127,20 @@ Links: [course hub](/boards/aqa/gcse/economics/), [printable checklist](/checkli
 - Giving a percentage or a total without the working.
 - Listing evaluation points with no reasons.
 
+## Frequently asked questions
+
+**What must an answer about a change in equilibrium include?**
+Give both the new price and the new quantity, and say what appears at the old price: excess demand or excess supply.
+
+**How is revenue shown on a demand and supply diagram?**
+As a rectangle: price multiplied by quantity sold. Showing revenue as the area under a curve is a common mistake.
+
+**Why does mixing up complements and substitutes cost marks?**
+It reverses the direction of the shift. A rise in the price of a substitute raises demand for the other good, while a rise in the price of a complement lowers it.
+
+**Which AQA GCSE Economics sections does this practice cover?**
+It covers AQA GCSE Economics 8136 sections 3.1.3.3 Equilibrium price and 3.1.3.4 Intermarket relationships.
+
 ## Next steps
 
 - Read the [revision notes](/resources/aqa-gcse-economics-equilibrium-price-revenue-on-diagrams-and-intermarket-revision-notes/) and the [study guide](/resources/aqa-gcse-economics-equilibrium-price-revenue-on-diagrams-and-intermarket/).

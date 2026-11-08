@@ -181,6 +181,20 @@ Read the [study guide](/resources/ib-dp-biology-dna-replication-mutation-and-gen
 - Take the [free 10-minute diagnostics](/diagnostics/) to find weak spots.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which IB DP Biology sections do these DNA replication and mutation questions cover?**
+They cover D1.1 DNA replication and D1.3 Mutation and gene editing from the IB Biology guide (first assessment 2025); questions on leading and lagging strands, replication enzymes, proofreading and gene knockout are HL only.
+
+**Why do small DNA fragments travel further in gel electrophoresis?**
+DNA is negatively charged because of its phosphate groups, so it moves towards the positive electrode through the mesh of the gel, and smaller fragments pass through the mesh more easily.
+
+**How do you identify a silent, missense or nonsense mutation?**
+Compare the amino acid coded for before and after the change: the same amino acid means silent, a different amino acid means missense, and a new stop codon means nonsense. After an insertion or deletion, regroup the bases into triplets.
+
+**Why is Taq polymerase used in PCR?**
+Taq polymerase is heat stable, so it is not denatured at the high-temperature step that separates the DNA strands in each cycle.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization: sections D1.1 (DNA replication) and D1.3 (Mutation and gene editing).

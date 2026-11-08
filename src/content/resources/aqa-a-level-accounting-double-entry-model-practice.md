@@ -207,6 +207,20 @@ Net assets and capital agree. [1] **[5]**
 - Treating a prepayment as a liability.
 - Leaving out headings, totals or the net assets check.
 
+## Frequently asked questions
+
+**Are these AQA 7127 double entry questions from past papers?**
+No. They are original practice questions with worked answers on section 3.3 of AQA A-Level Accounting 7127, written for revision. Use them alongside the official past papers.
+
+**What topics do these double entry practice questions cover?**
+They cover books of prime entry, bank statement items, discounts, contra entries, capital and revenue classification, depreciation and disposal, accruals and prepayments, irrecoverable debts and provisions, and financial statements for trading and service businesses.
+
+**What are the most common mistakes in double entry questions?**
+Common errors include naming a ledger account instead of the book of prime entry, entering trade discount in the books, swapping discount allowed and discount received, and treating a prepayment as a liability.
+
+**How should financial statements be set out to earn full marks?**
+Use the correct headings and subtotals so that net assets and capital can be compared. Leaving out headings, totals or the net assets check is a common reason marks are lost.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/aqa-a-level-accounting-double-entry-model-revision-notes/) and [study guide](/resources/aqa-a-level-accounting-double-entry-model/).

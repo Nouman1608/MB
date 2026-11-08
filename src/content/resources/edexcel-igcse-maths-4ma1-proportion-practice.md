@@ -183,6 +183,20 @@ Learn the content first in the [study guide](/resources/edexcel-igcse-maths-4ma1
 - Adding the percentage change instead of using a power of the multiplier.
 - Describing a graph without saying whether it passes through the origin, or whether it gets steeper or less steep.
 
+## Frequently asked questions
+
+**What is the most common mistake in a proportion question?**
+Writing the constant as something added, such as y = x² + k, instead of multiplied, y = kx². The constant of proportionality k always multiplies the power or root of x.
+
+**If a question asks for a formula, is the value of k enough?**
+No. Finding k is only one step; the formula mark needs the full equation with k replaced by its value, such as E = 4v².
+
+**How do you show that values in a table are in proportion?**
+Test every pair of values, not just one. For direct proportion y ÷ x (or y ÷ x², and so on) must be the same each time; for inverse proportion the product of y and the power of x must stay constant.
+
+**Is proportion Higher tier only in Edexcel IGCSE Maths 4MA1?**
+Section 2.5, with direct and inverse proportion involving powers and roots, is Higher tier only. Foundation statement 1.7D covers simple direct proportion between two quantities, which Higher questions also assume.
+
 ## Next steps
 
 - Refresh the formulae: [revision notes](/resources/edexcel-igcse-maths-4ma1-proportion-revision-notes/)

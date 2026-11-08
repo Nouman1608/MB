@@ -170,6 +170,23 @@ Recommend and justify which employee Delmora should make redundant. **[8]**
 - Recommending a leadership style without using the facts given.
 - Choosing a person for redundancy using one criterion only, or giving no downside.
 
+## Frequently asked questions
+
+**Are these questions taken from Cambridge IGCSE Business 0264 past papers?**
+No. They are original questions written for Marlbridge on section 2.2 (Organisation and management) and do not copy past papers, their structure or their mark tariffs. Use them alongside the official past papers from your board or school.
+
+**How do you count employees on an organisational chart without losing marks?**
+Count every box, including the director or owner at the top, and show the total for each branch. Forgetting the person at the top is a common reason for a wrong total.
+
+**What do you need to include when calculating the cost of replacing workers with a machine?**
+Add the payments to departing employees to the cost of the machine, and set any running costs against the wages saved. Leaving out redundancy payments, or subtracting the costs the wrong way round, gives a lower or wrong figure.
+
+**How do you recommend a leadership style in a case study?**
+Use the facts given, such as the staff's experience, the deadline, staff departures and the type of task, and link the chosen style to them. A style named without those links stays descriptive and earns fewer marks.
+
+**How should you answer a question on who to make redundant?**
+Compare all the people in the data using several criteria, such as skills, attendance record, length of service and cost, then choose one and admit the downside. A choice based on one fact alone reads as thin.
+
 ## Next steps
 
 - Review the [study guide](/resources/igcse-business-0264-organisation-and-management/) and use the [revision notes](/resources/igcse-business-0264-organisation-and-management-revision-notes/).

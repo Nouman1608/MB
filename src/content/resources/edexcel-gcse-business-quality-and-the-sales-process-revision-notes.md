@@ -239,6 +239,20 @@ For a judgement, weigh the cost of the quality system or the service improvement
 - In "evaluate" and "justify" answers, listing points but not weighing them or choosing an option.
 - Ignoring the costs of quality and customer service when asked about their effect on profit.
 
+## Frequently asked questions
+
+**What is the difference between quality control and quality assurance?**
+Quality control inspects and tests products at set points or at the end of production to find and remove faults. Quality assurance puts standards, training and procedures in place throughout the process so faults are prevented, with every worker responsible.
+
+**What are the five parts of the sales process in Edexcel GCSE Business?**
+The 1BS0 specification lists product knowledge, speed and efficiency of service, customer engagement, responses to customer feedback and post-sales service.
+
+**How can quality help a business control costs?**
+Fewer faults mean less scrapped or reworked output, fewer refunds and replacements, and less time spent on complaints. Quality systems cost money too, so the savings must be weighed against them.
+
+**Does high quality mean a high price?**
+No. A cheap product can be good quality if it is made well and does what customers want for that price. A business aims for the level of quality its target customers expect.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2, Topic 2.3 Making operational decisions, content items 2.3.3 and 2.3.4.

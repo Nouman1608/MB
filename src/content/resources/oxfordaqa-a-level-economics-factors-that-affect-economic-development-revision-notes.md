@@ -228,6 +228,23 @@ Reminder: s = 10% and k = 2.5 give g = 4.0%. If k falls to 2, g = 5.0%. For 4% g
 - Treating the Kuznets curves as certain.
 - Giving percentages without units or with the base year wrong.
 
+## Frequently asked questions
+
+**What is the Harrod-Domar model?**
+The Harrod-Domar model gives the growth rate as g = s / k, where s is the savings rate and k is the capital-output ratio. The OxfordAQA 9640 specification does not require the derivation, but you must be able to use it and criticise it.
+
+**What is the Prebisch-Singer hypothesis?**
+It says the terms of trade of primary product exporters decline over time, because income elasticity of demand for primary products is lower than for manufactures, so demand for manufactures grows faster as world income rises.
+
+**What is the difference between capital widening and capital deepening?**
+Capital widening means adding capital just to keep up as the population grows, while capital deepening means increasing the amount of capital per worker.
+
+**What is the environmental Kuznets curve?**
+It suggests that pollution per head rises with income, peaks and then falls. Critics point out that there is no automatic turning point, policy matters, pollution may be exported and some damage is irreversible.
+
+**What is the dependency ratio?**
+The dependency ratio is the population aged 0 to 14 plus the population aged 65 and over, divided by the population aged 15 to 64, times 100. A falling ratio can give a demographic dividend only if jobs exist for the extra workers.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, section 3.4.3.2, first teaching September 2020 (OxfordAQA).

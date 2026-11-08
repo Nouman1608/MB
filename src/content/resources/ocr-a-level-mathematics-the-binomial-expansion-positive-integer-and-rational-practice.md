@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-ocr-alevel-maths"
     subtopic: "sequences-and-series-ocr-alevel-maths"
-description: "Original practice questions with worked answers on the binomial expansion, validity and partial fractions for OCR A Level Mathematics A."
+description: "Original practice questions with worked answers on the binomial expansion, validity and partial fractions for OCR A Level Mathematics A (H240)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -141,6 +141,20 @@ Adding: **6 + 15x + 45x² + 111x³ + …** [1]. **[4]**
 - Using an x-value outside the range for an approximation.
 - Not stating which pairs of terms combine in a product expansion.
 - Rounding too early in a probability question.
+
+## Frequently asked questions
+
+**Why must you square the coefficient as well as x?**
+In a term such as (bx)², the bracket squares b as well as x, so (3x)² = 9x². Squaring only x is a common error.
+
+**How do you expand (a + bx)ⁿ for a negative or fractional power?**
+Take out aⁿ first, writing (a + bx)ⁿ = aⁿ(1 + bx/a)ⁿ, then expand. For a negative power, aⁿ becomes a reciprocal, such as a⁻¹.
+
+**What validity range do you give after using partial fractions?**
+Each expansion has its own range, and the combined result is valid only where all of them are, so give the smaller range.
+
+**How do you write the range of validity for a binomial expansion?**
+Give it as a range for x, not as |u| < 1. For (a + bx)ⁿ with a rational power, the expansion is valid for |x| < |a/b|.
 
 ## Next steps
 

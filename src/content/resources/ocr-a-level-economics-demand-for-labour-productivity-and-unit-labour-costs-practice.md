@@ -162,6 +162,20 @@ These questions cover the demand side of the topic Wage determination in Compone
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What is derived demand for labour?**
+Derived demand means the demand for labour arises from the demand for the goods or services that labour helps to produce. If demand for the product rises, firms want more workers at each wage.
+
+**How do you judge cost competitiveness between firms?**
+Compare unit labour costs, not hourly wages. Unit labour cost is the wage divided by output per hour, so a firm paying higher wages can still be more cost-competitive if its workers are much more productive.
+
+**How do you decide how many workers a firm hires using MRP?**
+Compare each worker's marginal revenue product with the wage and keep hiring while MRP is at least the wage. Stating the comparison for the last worker hired and the next one shows why the cut-off is where it is.
+
+**Which part of the OCR A Level Economics specification covers demand for labour?**
+The demand side of labour markets, including MRP theory, is part of the topic Wage determination, in the Labour market area of study of Component 1, Microeconomics, in the OCR A Level Economics (H460) specification.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification. Component 1, Microeconomics: area of study Labour market, topic Wage determination (the demand-side outcomes and MRP theory).

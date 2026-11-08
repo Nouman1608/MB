@@ -19,11 +19,11 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "thermal-physics-cambridge-igcse-physics"
     subtopic: "transfer-of-thermal-energy-cambridge-igcse-physics"
-description: "Original exam-style practice questions with full worked answers on the kinetic particle model, gas laws, specific heat capacity, changes of state and heat transfer for Cambridge IGCSE Physics 0625."
+description: "Original practice questions with worked answers on the particle model, gas pressure, specific heat capacity, changes of state and heat transfer for IGCSE 0625."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: replaced question 13, which repeated question 5 (evaporative cooling), with a boiling-at-constant-temperature question (0625 2.2.3); please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-08-29
 updatedDate: 2026-09-27
 featured: false
@@ -66,7 +66,7 @@ Related: [Thermal Physics revision notes](/resources/igcse-physics-thermal-physi
 
 **12.** *(Extended)* Explain why metals are much better conductors of heat than non-metallic solids such as wood or glass. **[2]**
 
-**13.** Explain, in terms of molecules, why evaporation cools the liquid that is left behind. **[2]**
+**13.** Water in a kettle is boiling. The heater is still switched on, but the thermometer reading stays at 100 °C. Explain why the temperature does not rise. **[2]**
 
 ---
 
@@ -96,9 +96,9 @@ Related: [Thermal Physics revision notes](/resources/igcse-physics-thermal-physi
 
 **12.** *(Extended)* In addition to particle vibrations passing energy to neighbouring particles (as happens in any solid), metals contain **free (delocalised) electrons** [1]. These free electrons move quickly through the metal, carrying thermal energy along with them much faster than vibrations alone can, which is why metals conduct heat far better than non-metallic solids [1].
 
-**13.** The **more energetic** molecules escape from the **surface** of the liquid [1], so the **average kinetic energy** of the remaining molecules decreases and the temperature of the liquid falls [1].
+**13.** During boiling the energy supplied is used to **separate the molecules** (to overcome the forces between them) as the liquid changes to a gas [1], not to increase their average kinetic energy, so the temperature stays constant until all the water has boiled [1].
 
-*Common mistake:* saying "all the molecules lose energy"; only the fastest molecules leave, which lowers the average.
+*Common mistake:* saying the energy is "lost" or "wasted". It is transferred to the water as it changes state, without a change in temperature.
 
 ---
 
@@ -110,3 +110,17 @@ Related: [Thermal Physics revision notes](/resources/igcse-physics-thermal-physi
 - Describing thermal expansion without linking the size of the effect to how strongly the particles are held together, in gases, liquids and solids respectively.
 
 Work through the [Thermal Physics revision notes](/resources/igcse-physics-thermal-physics-revision-notes/) alongside these questions: the notes set out the kinetic particle model and the three heat-transfer mechanisms in table form, while these questions test whether you can apply the underlying particle reasoning to a specific, unfamiliar situation rather than just recall a definition.
+
+## Frequently asked questions
+
+**What condition must I state with pV = constant?**
+The relationship pV = constant holds only at constant temperature for a fixed mass of gas. Giving the relationship without stating this condition loses credit.
+
+**What should I revise before these thermal physics questions?**
+Work through the thermal physics revision notes alongside the questions; they set out the kinetic particle model and the three heat-transfer mechanisms that most answers depend on.
+
+**What is the specific heat capacity equation in IGCSE Physics 0625?**
+The energy needed is ΔE = mcΔθ, where m is the mass, c is the specific heat capacity and Δθ is the temperature change. It is Supplement (Extended) content in the 0625 syllabus.
+
+**Which questions on this page are Extended only?**
+Questions labelled (Extended) cover Supplement content of the Cambridge IGCSE Physics 0625 syllabus, so only Extended candidates need them. The rest are Core.

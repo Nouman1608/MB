@@ -12,13 +12,22 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "paper-2-writers-viewpoints-and-perspectives-8700"
-description: "Reading two non-fiction texts on a shared topic and writing to present a viewpoint -- the full structure of Paper 2, Writers' Viewpoints and Perspectives, for AQA GCSE English Language (8700)."
+  - qualification: "gcse"
+    topic: "paper-2-writers-viewpoints-and-perspectives-8700"
+    subtopic: "producing-clear-and-coherent-text-8700"
+  - qualification: "gcse"
+    topic: "paper-2-writers-viewpoints-and-perspectives-8700"
+    subtopic: "writing-for-impact-8700"
+  - qualification: "gcse"
+    topic: "paper-1-explorations-in-creative-reading-and-writing-8700"
+    subtopic: "comparing-texts-8700"
+description: "AQA GCSE English Language 8700 Paper 2 Writers' Viewpoints and Perspectives: two linked non-fiction sources, writing a viewpoint, and the paper's structure."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide covers **Paper 2: Writers' Viewpoints and Perspectives**,
@@ -140,6 +149,18 @@ Finally, since Section A and B share a theme, use planning time to let
 ideas and vocabulary from the reading sources inform the writing task,
 rather than treating the two sections as entirely separate 45-minute
 exercises.
+
+## Frequently asked questions
+
+**How long is AQA 8700 Paper 2?**
+1 hour 45 minutes for 80 marks and 50% of the GCSE, split evenly between reading and writing.
+
+**Which periods do the sources come from?**
+One 19th-century source and one from the 20th or 21st century, depending on the period used in Paper 1 that series.
+
+**What is the writing task?**
+Writing to present a viewpoint, worth 40 marks: 24 for content and organisation and 16 for technical accuracy.
+
 
 ## Official syllabus
 

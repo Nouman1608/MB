@@ -294,6 +294,19 @@ A direct proportion from a rate: a tap fills 15 litres in 4 minutes. In 10 minut
   <figcaption>25% extra free turns 400 ml into 500 ml, so compare 500 ml for 3.50 with 500 ml for 4.00.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you write a ratio in its simplest form?**
+Put every part in the same unit, clear any decimals or fractions by scaling all parts, then divide through by the highest common factor. Leave units off the final ratio.
+
+**How do you turn a ratio into fractions?**
+For a ratio a : b, the parts are a/(a + b) and b/(a + b) of the whole. So 3 : 7 gives 3/10 and 7/10, not 3/7.
+
+**What is the difference between a ratio and a rate?**
+A ratio compares like quantities and has no unit. A rate compares unlike quantities and does have a unit, such as km/h or money per kilogram.
+
+**How do you test a table for direct or inverse proportion?**
+Divide each pair: if y ÷ x is constant, it is direct proportion. Multiply each pair: if x × y is constant, it is inverse proportion.
 
 ## Official syllabus
 

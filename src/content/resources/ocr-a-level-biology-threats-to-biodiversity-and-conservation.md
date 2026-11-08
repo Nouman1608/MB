@@ -207,6 +207,19 @@ Always round up because you cannot sow part of a seed. Seed banks regularly repe
   <figcaption>Fewer base differences mean a more recent common ancestor.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are the main threats to biodiversity in OCR A Level Biology?**
+The OCR A Level Biology A (H420) specification names human population growth, agriculture (monoculture) and climate change as the factors affecting biodiversity.
+
+**Does monoculture reduce biodiversity?**
+Yes. Agriculture, especially monoculture, is one of the three factors affecting biodiversity named in OCR A Level Biology A (H420) section 4.2.1(f), along with human population growth and climate change.
+
+**What are the three types of reason for maintaining biodiversity?**
+The specification asks for ecological, economic and aesthetic reasons for maintaining biodiversity.
+
+**At what levels must biodiversity be protected?**
+The specification states that actions to maintain biodiversity must be taken at local, national and global levels, and each agreement or method works at one of these levels.
 
 ## Official syllabus
 

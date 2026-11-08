@@ -291,6 +291,20 @@ Because ΔG is positive, the forward change is not spontaneous for this mixture,
 
 Condense the unit with the [revision notes](/resources/ib-dp-chemistry-entropy-and-spontaneity-revision-notes/), then try the [practice questions](/resources/ib-dp-chemistry-entropy-and-spontaneity-practice/). Plan the rest of your revision from the [course hub](/boards/ib/ib-dp/chemistry/).
 
+## Frequently asked questions
+
+**Is entropy and spontaneity an HL-only topic in IB DP Chemistry?**
+Yes. Reactivity 1.4, Entropy and spontaneity, is HL-only content in the IB Diploma Programme Chemistry guide, with about 5 hours of additional higher level teaching time.
+
+**Why does ΔG account for the surroundings?**
+ΔG combines the direct entropy change of the system with the indirect entropy change of the surroundings caused by heat flowing in or out. So a negative ΔG and an increase in total entropy are the same condition.
+
+**What is the difference between ΔG and ΔG⦵?**
+ΔG⦵ refers to standard conditions and is fixed at a given temperature, while ΔG depends on the actual mixture through the reaction quotient Q, using ΔG = ΔG⦵ + RT lnQ.
+
+**Why is standard entropy never zero for a substance at room temperature?**
+Every pure substance has a positive standard entropy, S⦵, because only a perfect crystal at absolute zero, with one possible arrangement, is predicted to have zero entropy. Giving an element an S⦵ of zero is a common error.
+
 ## Official syllabus
 
 This guide is based on the *Diploma Programme Chemistry guide* (International Baccalaureate Organization), first assessment 2025, published February 2023, sub-topic Reactivity 1.4 (additional higher level).

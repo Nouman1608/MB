@@ -155,6 +155,17 @@ D the depreciation charge for the year
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Where do students usually lose marks on limitations questions in OxfordAQA International GCSE Accounting 9215?**
+Common losses are naming a limitation without linking it to the business in the question, using year-end figures as if they represented the whole year, and giving only the advantages or only the disadvantages of computerised software.
+
+**How should I answer a question about whether a business should use accounting software?**
+Give both advantages and disadvantages, use any figures in the question, such as the cost and the value of time saved, and reach a judgement for that business.
+
+**Which section of the 9215 specification do these questions cover?**
+Section 3.5 of OxfordAQA International GCSE Accounting 9215, covering the limitations of financial statements and ratio analysis and the use of computers in accounting.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), specification version 1.2, section 3.5, published by OxfordAQA, for exams from May/June 2026 onwards.

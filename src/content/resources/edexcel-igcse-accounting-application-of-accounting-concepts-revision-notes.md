@@ -221,6 +221,20 @@ Reminder: 150 of owner's personal phone bill charged to telephone expense adds 1
 - Writing that money measurement shows assets at their current market price.
 - Using older names such as stock or debtors when the specification wording is inventory and trade receivables.
 
+## Frequently asked questions
+
+**What is the consistency concept?**
+Consistency means that once a business chooses an accounting method, such as a depreciation or inventory valuation method, it keeps using it from period to period. This makes results comparable, so a change in profit comes from trading rather than from a change of method.
+
+**What is the accruals concept?**
+The accruals or matching concept says revenue is recorded when it is earned and expenses when they are incurred, whatever the date of the cash movement. An expense owed at the year end is an other payable and an expense paid in advance is an other receivable.
+
+**What is the difference between prudence and accruals?**
+Prudence is about avoiding overstatement when a value is uncertain, such as inventory or doubtful receivables. Accruals is about which period an item belongs to, so a question about timing points to accruals rather than prudence.
+
+**Which terms should be used in Edexcel IGCSE Accounting answers?**
+Use the specification's wording, such as inventory, trade receivables, other payables and other receivables. Older names such as stock or debtors should be avoided.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 5 Accounting for end of period adjustments, section 5.1 Application of accounting concepts.

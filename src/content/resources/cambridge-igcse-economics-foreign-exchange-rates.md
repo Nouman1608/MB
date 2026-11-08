@@ -203,6 +203,20 @@ Summary: when price rises, spending falls if demand is elastic and rises if dema
 - Saying a depreciation always improves trade. The result depends on PED and on time.
 - Confusing price paid with price received. Foreign buyers pay in their currency.
 
+## Frequently asked questions
+
+**What does section 6.3 of Cambridge IGCSE Economics 0455 cover?**
+Section 6.3 covers the definition of a foreign exchange rate, how demand and supply set the equilibrium rate, the causes of fluctuations, the effects on export and import prices and spending using PED, and floating versus fixed systems.
+
+**What is the difference between a floating and a fixed exchange rate?**
+A floating rate is set by demand and supply in the foreign exchange market and moves up and down. A fixed rate is set by the government or central bank, which holds it by buying and selling currency from reserves and by using interest rates.
+
+**What causes exchange rates to change?**
+Exchange rates change when demand or supply of a currency shifts, for example because of changes in demand for exports or imports, interest rates, speculation, or multinational companies entering or leaving the country.
+
+**How does speculation affect exchange rates?**
+Speculators buy a currency they expect to rise and sell one they expect to fall. Their actions can bring about the change they expect, so even a rumour can move an exchange rate.
+
 ## Official syllabus
 
 Source: Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, Cambridge University Press & Assessment, section 6.3 Foreign exchange rates (6.3.1 to 6.3.5).

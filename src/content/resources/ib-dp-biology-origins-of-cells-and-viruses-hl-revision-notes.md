@@ -242,6 +242,20 @@ Method for a lytic cycle answer: attach, inject, synthesise, assemble, lyse. Nam
 - Skipping unit conversion between mm and nm in magnification questions.
 - Naming HIV as DNA-based, when it has an RNA genome and uses reverse transcriptase.
 
+## Frequently asked questions
+
+**What did the Miller-Urey experiment show?**
+The Miller-Urey experiment made amino acids from water, methane, ammonia and hydrogen with electrical sparks as an energy source, showing that organic molecules can form from simple inorganic ones; it did not make polymers, membranes or life.
+
+**What is LUCA?**
+LUCA, the last universal common ancestor, is the most recent organism from which all living things descend; it was not the first life, and other lineages probably existed and went extinct.
+
+**What is the difference between a capsid and an envelope?**
+The capsid is the protein coat that every virus has; the envelope is a layer of host cell membrane that surrounds only some viruses, such as coronaviruses and HIV.
+
+**Why do viruses evolve so quickly?**
+Viruses have short generation times, produce huge numbers of offspring and, in many RNA viruses, replication enzymes lack proofreading, so the mutation rate is high.
+
 ## Official syllabus
 
 IB Diploma Programme Biology guide, first assessment 2025, published by the International Baccalaureate Organization. Sections A2.1 and A2.3 (additional higher level).

@@ -239,6 +239,20 @@ Draw price on the vertical axis and the quantity of bonds on the horizontal axis
 - Explaining the fall in price without the link to new bonds and demand.
 - Describing the role of financial markets as a list with no chain of reasoning or evaluation.
 
+## Frequently asked questions
+
+**What is the difference between narrow and broad money?**
+Narrow money covers assets that can be spent immediately, such as notes and coins. Broad money is narrow money plus other bank and building society deposits; definitions vary between countries.
+
+**How do you calculate the current yield on a bond?**
+Divide the annual coupon payment by the market price and multiply by 100.
+
+**Are bond prices and interest rates positively related?**
+No. They move in opposite directions: when market interest rates rise, the price of existing bonds with fixed coupons falls.
+
+**What is the difference between debt and equity?**
+Debt is borrowed money that must be repaid, usually with interest, and gives no ownership. Equity is ownership through shares, which is not repaid and earns dividends the firm may reduce or skip.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification, version 1.3 (29 June 2022), published by AQA: A-level content, The structure of financial markets and financial assets (4.2.4.1 in the combined PDF; 3.2.4.1 on the AQA website).

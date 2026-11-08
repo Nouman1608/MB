@@ -214,6 +214,23 @@ Here M spends a smaller share of income on fuel, which is why the duty is regres
 - Taking VAT off a tax-inclusive price by subtracting 20% instead of dividing by 1.20.
 - Quoting real figures from memory. Say "among the largest" unless the question gives data.
 
+## Frequently asked questions
+
+**What are the main sources of UK government revenue?**
+Income tax, National Insurance contributions, VAT, corporation tax, excise duties, and local and property taxes such as council tax and business rates.
+
+**What are the largest areas of UK government spending?**
+Social protection, which covers pensions and benefits, health and education are among the largest areas.
+
+**What is the difference between a direct and an indirect tax?**
+A direct tax is levied on income, profit or wealth and borne by the person or firm that pays it. An indirect tax is levied on spending and is usually passed on to the consumer through a higher price.
+
+**Why can indirect taxes be regressive?**
+Lower-income households spend a larger share of their income on taxed goods, so the tax takes a bigger percentage of their income even when the rate is the same for everyone.
+
+**What does progressive tax mean?**
+A progressive tax takes a rising percentage of income as income rises, as with UK income tax bands above a tax-free allowance.
+
 ## Official syllabus
 
 AQA GCSE Economics (8136), specification for first teaching from September 2017, published by AQA: section 3.2.1.2 Government income and expenditure.

@@ -157,6 +157,20 @@ The values at 18 °C and 28 °C come from one experiment. The values at 14 °C a
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which Edexcel statements do these questions cover?**
+They cover statements 5.16 to 5.26 of Pearson Edexcel International A Level Biology (YBI11), including Core Practical 12.
+
+**Does Q₁₀ have a unit?**
+No. Q₁₀ is a ratio of two rates, so it has no unit.
+
+**What must a Core Practical 12 answer include?**
+Include ethical precautions as well as the variables. Naming the independent variable as a control variable is a common mistake.
+
+**Should you call biofuels carbon neutral?**
+Only with a limitation. Calling biofuels carbon neutral with no limitation loses marks.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification, Issue 2, February 2021, Topic 5, statements 5.16 to 5.26, published by Pearson Education Limited.

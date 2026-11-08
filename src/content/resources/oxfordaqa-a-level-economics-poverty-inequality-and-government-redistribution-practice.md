@@ -123,6 +123,23 @@ These questions cover sections 3.3.5.1 and 3.3.5.2 of the OxfordAQA Internationa
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Where do students lose marks on poverty and inequality questions?**
+Common losses are confusing wealth with income or leaving out debts, using the median incorrectly with an even number of values, forgetting that a relative poverty line moves when incomes change, applying a marginal tax rate to the whole income, and treating a nominal benefit rise as a real rise.
+
+**How do I find the median of an even number of incomes?**
+Rank the incomes and take the average of the two middle values. The relative poverty line is then a share of that median, often 60%.
+
+**How do I calculate income tax with several tax bands?**
+Apply each tax rate only to the slice of income in its band, then add the slices. Applying the top rate to the whole income is a common error.
+
+**How should I evaluate means-tested against universal benefits?**
+Weigh both designs against the same criteria, such as cost, incentives, take-up and how well they target the poor, and reach a judgement that states the value judgement it rests on.
+
+**Which OxfordAQA 9640 sections do these questions cover?**
+They cover sections 3.3.5.1 and 3.3.5.2 of the OxfordAQA International AS and A-level Economics (9640) specification: the distribution of income and wealth, poverty, and government policies to change the distribution.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, sections 3.3.5.1 and 3.3.5.2.

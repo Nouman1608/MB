@@ -131,3 +131,20 @@ Match your answer to the command word. For explain questions, use linking words 
 6. Give one use of CFCs and the harm they cause. (Refrigerants or aerosols; they destroy stratospheric ozone.)
 7. A town releases 800,000 tonnes of carbon dioxide a year and has 200,000 people. What is the amount per person? (4 tonnes.)
 8. How many times more acidic is rain at pH 3.6 than rain at pH 5.6? (100 times.)
+
+## Frequently asked questions
+
+**What are the main gases in the atmosphere?**
+By volume, air is about 78 per cent nitrogen and 21 per cent oxygen, with small amounts of other gases, including argon and carbon dioxide.
+
+**Does carbon dioxide cause acid rain?**
+No. Acid rain forms mainly from sulfur dioxide and nitrogen oxides. Writing that carbon dioxide causes acid rain is a common mistake.
+
+**What is the pH of normal rain?**
+Rain is naturally slightly acidic, at about pH 5.6. Treating pH 7 as the pH of normal rain is a common error, and acid rain has a pH lower than 5.6.
+
+**Why is the pH scale important in acid rain calculations?**
+The pH scale is logarithmic, so each unit lower is ten times more acidic. Rain at pH 3.6 is 100 times more acidic than normal rain at pH 5.6.
+
+**Do holes in the ozone layer cause global warming?**
+No. The ozone layer absorbs ultraviolet radiation, so thinning lets more ultraviolet reach the surface, raising the risk of skin cancer and eye cataracts. Saying ozone holes let heat in is a common mistake.

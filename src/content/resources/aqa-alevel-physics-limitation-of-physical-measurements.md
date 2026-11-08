@@ -15,9 +15,9 @@ syllabusTopics:
     subtopic: "limitation-of-physical-measurements"
 description: "Random and systematic errors, precision and accuracy, and the treatment of uncertainty, for sub-topic 3.1.2 of AQA A-level Physics (7408)."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-19
 updatedDate: 2026-08-19
 featured: false
@@ -121,6 +121,20 @@ Confusing random error (reduced by repeating and averaging) with systematic erro
 - Combine uncertainties correctly for addition/subtraction, multiplication/division, and powers.
 - Use error bars to find the uncertainty in a gradient and intercept.
 
+## Frequently asked questions
+
+**What is the difference between repeatability and reproducibility?**
+Repeatability is the agreement when the same person repeats a measurement with the same method and equipment. Reproducibility is the agreement when it is repeated by a different person, method or piece of equipment.
+
+**What is resolution in physics measurements?**
+Resolution is the smallest change in the quantity being measured that causes a detectable change in the instrument's reading.
+
+**How are significant figures linked to uncertainty?**
+A value quoted to more significant figures implies a smaller relative uncertainty, so the number of significant figures in a result should match its uncertainty.
+
+**Are trigonometric functions included in combining uncertainties for AQA 7408?**
+No. AQA 7408 requires combining uncertainties for addition, subtraction, multiplication, division and powers, but combinations involving trigonometric or logarithmic functions are not required.
+
 ## Related resources
 
 - [Use of SI Units and Their Prefixes](/resources/aqa-alevel-physics-use-of-si-units-and-their-prefixes/) — the previous sub-topic
@@ -133,4 +147,3 @@ Confusing random error (reduced by repeating and averaging) with systematic erro
   <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--08-order-of-magnitude.webp" width="900" height="910" alt="A log ruler with decades 10^5, 10^6, 10^7 and crossover marks at 3.16 times each power. 2 x 10^5 is order 10^5; 3.4 x 10^5 and 8 x 10^5 are order 10^6; 4 x 10^6 is order 10^7. OxfordAQA gives the crossover as about 3.2." loading="lazy">
   <figcaption>Above 3.16 x 10^n the order of magnitude is 10^(n+1).</figcaption>
 </figure>
-

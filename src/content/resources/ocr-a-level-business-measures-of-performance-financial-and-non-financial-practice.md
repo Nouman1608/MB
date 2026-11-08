@@ -136,6 +136,23 @@ Evaluate whether Hartwith's performance has improved, from the point of view of 
 * Finishing an evaluate or justify answer without a judgement.
 * Calling gearing "bad" with no reference to profit or interest cover.
 
+## Frequently asked questions
+
+**Are these OCR A Level Business H431 past paper questions?**
+No. They are twelve original practice questions written for Marlbridge on the content point Measures of performance: financial and non-financial. Use them alongside OCR's own past papers.
+
+**Is a cost below budget favourable or adverse?**
+Favourable. A variance is favourable when it raises profit, so lower-than-budget costs are favourable; label each variance alongside its amount and give a cause that fits the other data.
+
+**Is high gearing always bad?**
+No. Read gearing together with profit and interest cover, and say what a lender's decision depends on. Calling high gearing simply "bad" earns little.
+
+**How do you analyse a ratio that has changed?**
+Compare the size of the changes and give a cause or consequence, rather than stating that a figure "went up" or "went down". Write the formula and units as well.
+
+**How do you answer a question that names several stakeholders?**
+Link each stakeholder to the measures that match its interests, such as liquidity for a bank, then give a ranked judgement. Writing about "stakeholders" in general earns less.
+
 ## Next steps
 
 * Re-read the [study guide](/resources/ocr-a-level-business-measures-of-performance-financial-and-non-financial/) and the [revision notes](/resources/ocr-a-level-business-measures-of-performance-financial-and-non-financial-revision-notes/).
@@ -145,4 +162,4 @@ Evaluate whether Hartwith's performance has improved, from the point of view of 
 
 ## Official syllabus
 
-OCR Level 3 Advanced GCE in Business (H431), Version 2.1 (January 2026), Cambridge OCR; section Measures of Performance: financial and non-financial, Business objectives and strategy.
+OCR Level 3 Advanced GCE in Business (H431), Version 2.1 (January 2026), OCR; section Measures of Performance: financial and non-financial, Business objectives and strategy.

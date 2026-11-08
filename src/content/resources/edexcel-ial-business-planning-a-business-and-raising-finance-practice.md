@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Planning a business and raising finance (YBS11) -- Practice Questions"
+title: "Edexcel International A Level Business: Planning a business and raising finance (YBS11) -- Practice Questions"
 seoTitle: "Edexcel IAL Business Raising Finance Practice Questions"
 resourceType: "practice-questions"
 subject: "business"
@@ -110,6 +110,20 @@ These questions cover section 2.3.1, Planning a business and raising finance, of
 - Go back to the [course hub](/boards/edexcel/a-level/business/) and tick off the [checklist](/checklists/edexcel/a-level/business/).
 - Take one of the [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**What do these planning and finance practice questions cover?**
+They cover section 2.3.1 of Unit 2 in Pearson Edexcel International A Level Business (YBS11): business plans, internal and external finance, forms of business, and limited and unlimited liability.
+
+**How should you define a term in Edexcel IAL Business?**
+Give a precise definition with a second developing point, rather than a few vague words. A one-phrase definition often misses a mark.
+
+**What costs should you include in a finance calculation?**
+Include every fee, interest charge or other cost stated in the question. Leaving out a cost in the stem is a common error.
+
+**How should you answer a discuss or assess question on finance?**
+Give both advantages and disadvantages linked to the business in the case, then finish with a decision. Answers that list features without a chain of reasoning or a judgement earn less.
 
 ## Official syllabus
 

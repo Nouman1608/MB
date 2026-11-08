@@ -355,6 +355,23 @@ bags: 6.48 ÷ 2.5 = 2.592
 - Giving a perimeter in cm² or an area in cm.
 - Rounding a "how many bags/tins/tiles" answer down when that would not be enough.
 
+## Frequently asked questions
+
+**How do you convert m² to cm²?**
+Multiply by the area factor 10 000, not the length factor 100, because 1 m² = 100 cm × 100 cm. So 0.36 m² = 3600 cm².
+
+**How many litres are in a cubic metre?**
+There are 1000 litres in 1 m³, and 1 litre is 1000 cm³. To convert cm³ to m³, divide by 1 000 000.
+
+**Which height do you use for the area of a trapezium?**
+Use the perpendicular height between the parallel sides, with a and b as the two parallel sides: area = ½(a + b)h. Using a slanted side or the non-parallel sides is a common error.
+
+**Is there Extended-only content in 0580 sections 5.1 and 5.2?**
+No. The Core and Extended statements for 5.1 Units of measure and 5.2 Area and perimeter are the same in Cambridge IGCSE Mathematics 0580.
+
+**Should you round down in a "how many tins" question?**
+No. If rounding down would not give enough to finish the job, round up to the next whole tin, bag or tile.
+
 ## Next steps
 
 - Cover all of Topic 5 with the [Mensuration study guide](/resources/igcse-mathematics-mensuration/) and condense it with the [Mensuration revision notes](/resources/igcse-mathematics-mensuration-revision-notes/).

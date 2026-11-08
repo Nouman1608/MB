@@ -199,6 +199,23 @@ Q has the larger proportion in that class even though both counts are different 
 - Dividing by the count of whole numbers in a class label (10 for 30–39 is right, but 9 from 39 − 30 is wrong) instead of the boundary width.
 - Leaving off a title, axis labels or units, so the diagram does not communicate on its own.
 
+## Frequently asked questions
+
+**How do you draw a frequency polygon from a grouped frequency table?**
+Find the midpoint of every class, add an empty class with frequency 0 before the first and after the last, plot (midpoint, frequency) for each, and join the points with straight lines using a ruler.
+
+**Can the first point of a frequency polygon be at a negative value?**
+Yes. When the data start at 0, the midpoint of the empty class before the first one can be negative. It is allowed because it is only a closing point that brings the polygon down to the axis.
+
+**What is the modal class on a histogram with unequal class widths?**
+It is the class with the greatest frequency density, which is not necessarily the class with the greatest frequency.
+
+**What is the difference between a histogram and a bar chart?**
+Histogram bars touch and are drawn on class boundaries on a continuous number line, for continuous or grouped data. Bar-chart bars are separate.
+
+**Which Cambridge O Level Statistics 4040 section do these notes cover?**
+They condense section 3.2, representation in frequency polygons and histograms, of the 4040 syllabus for examination in 2025, 2026 and 2027.
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, published by Cambridge University Press & Assessment. These notes follow section 3.2.

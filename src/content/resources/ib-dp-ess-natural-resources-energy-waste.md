@@ -24,9 +24,9 @@ description: "Study guide for IB DP ESS Topic 7: natural resource use and manage
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
 ---
 
 This study guide teaches Topic 7 of IB Diploma Programme Environmental Systems and Societies (ESS):
@@ -278,6 +278,23 @@ Condense this unit with the revision notes, then test yourself with the practice
 linked at the top). For exam structure, see [ESS exam preparation](/resources/ib-dp-environmental-systems-and-societies-exam-preparation/)
 and the [ESS assessment revision notes](/resources/ib-dp-environmental-systems-and-societies-assessment-revision-notes/).
 Energy flow in ecosystems is covered in [Topic 2 Ecology](/resources/ib-dp-ess-topic-2-ecology/).
+
+## Frequently asked questions
+
+**What is sustainable yield in IB ESS?**
+Sustainable yield is the rate of increase of natural capital, the amount that can be harvested without reducing the stock. For a renewable resource it is the biomass or energy at one time minus that at the previous time.
+
+**What is the tragedy of the commons?**
+It is the overexploitation of a common-pool resource, such as a fishery or aquifer, because each user gains the full benefit of taking more while the cost of depletion is shared. It is not inevitable where communities have clear boundaries, agreed rules and penalties for cheating.
+
+**What is energy security?**
+Energy security is reliable, affordable access to enough energy. A country is less secure when it imports much of its fuel, relies on one or two sources, or depends on supply routes through unstable regions.
+
+**Why does the value of a natural resource change over time?**
+Resource value depends on technology, culture, economics and politics. For example, lithium became far more valuable once rechargeable batteries spread, and a rise in price can make low-grade ore worth mining.
+
+**What pollutants are released from landfill sites?**
+Landfill releases methane, from organic waste breaking down without oxygen, and leachate, a liquid that can pollute groundwater. Composting the organic fraction cuts landfill methane.
 
 ## Official syllabus
 

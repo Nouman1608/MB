@@ -172,6 +172,20 @@ They meet at **11 00**, **18 km from A** [1]
 - (Extended) Treating a trapezium section of a speed–time graph as a triangle.
 - (Extended) Writing a deceleration as a negative value.
 
+## Frequently asked questions
+
+**What does the gradient of a distance–time graph represent?**
+The gradient of a distance–time graph is the speed, not the acceleration. When asked to interpret a gradient, give its units and what it means in context.
+
+**How do you include stopped time in an average speed?**
+Average speed is total distance divided by total time, and the total time includes any time spent stationary. Leaving out the stopped time is a common error.
+
+**Can you scale up from any conversion graph?**
+Only if the graph passes through the origin. If it does not, such as a charge with a fixed fee, doubling a reading does not double the value, so read each value from the graph or the formula.
+
+**How do you find the gradient of a tangent accurately?**
+Choose two points on the tangent line itself, far apart, not points on the curve. Tangent gradients are Extended content in Cambridge IGCSE Mathematics 0580 subtopic 2.9.
+
 ## Next steps
 
 - Review the explanations in the [graphs in practical situations study guide](/resources/igcse-mathematics-0580-graphs-in-practical-situations/).

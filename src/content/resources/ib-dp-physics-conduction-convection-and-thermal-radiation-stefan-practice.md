@@ -167,6 +167,20 @@ These questions cover the second half of topic B.1 (Thermal energy transfers) in
 - Take the [free 10-minute diagnostics](/diagnostics/) to find your next weak area.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these IB DP Physics thermal transfer questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Is any of IB DP Physics B.1 HL only?**
+No. B.1 has no additional higher level content, so these questions are for both Standard Level and Higher Level.
+
+**What constants do these questions use?**
+Use σ = 5.67 × 10⁻⁸ W m⁻² K⁻⁴, L⊙ = 3.83 × 10²⁶ W and the Wien constant 2.9 × 10⁻³ m K where needed.
+
+**What unit slips lose marks in thermal radiation questions?**
+Common slips are putting Celsius values into σAT⁴ or Wien's law, and giving no unit or giving W where W m⁻² is wanted.
+
 ## Official syllabus
 
 Source: the *Physics guide* for the IB Diploma Programme (first assessment 2025), International Baccalaureate Organization. Topic B.1, Thermal energy transfers, second half.

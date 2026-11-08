@@ -147,6 +147,20 @@ These questions cover learning outcomes 5.1.1(a) to 5.1.1(d) and 5.1.2(a) to 5.1
 - Try all free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which parts of the OCR A Level Biology A H420 specification do these questions cover?**
+They cover learning outcomes 5.1.1(a) to (d) and 5.1.2(a) to (b) of OCR A Level Biology A (H420), on communication, cell signalling, homeostasis, temperature control, excretion and the liver.
+
+**How should you explain a feedback loop in an answer?**
+Work through the loop in order: name the stimulus, the receptor that detects it, how the signal travels, the effector and what it does, and the effect on the factor. Leaving out the receptor or effector is a common reason for losing marks.
+
+**Which value should you divide by in a percentage change?**
+Divide the change by the original value, not the final value, then multiply by 100. A decrease gives a negative percentage change.
+
+**Why do unit conversions matter in magnification and power calculations?**
+Measurements are often given in different units, such as mm and µm, so convert them to the same unit before calculating. Missing a conversion is a common way to lose the accuracy mark.
+
 ## Official syllabus
 
-OCR, *A Level in Biology A (H420)*, Version 4.1 (April 2026), first assessment 2025, Cambridge OCR. Sections 5.1.1 and 5.1.2.
+OCR, *A Level in Biology A (H420)*, Version 4.1 (April 2026), first assessment 2025, OCR. Sections 5.1.1 and 5.1.2.

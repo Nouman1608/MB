@@ -34,11 +34,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-2-7"
 description: "12 original IB Maths AA questions on lines, functions, inverses, quadratics and the discriminant, with mark-by-mark worked answers."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -190,6 +190,20 @@ Learn the methods in the [study guide](/resources/ib-dp-mathematics-aa-sl-lines-
 - [Printable syllabus checklist](/checklists/ib/ib-dp/mathematics-analysis-and-approaches/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**How do you find the gradient of a line in general form ax + by + d = 0?**
+Rearrange to y = … or use gradient = −a/b. Reading the gradient as a or b directly is a common error.
+
+**What is the gradient of a perpendicular line?**
+It is the negative reciprocal: m₁ × m₂ = −1. Using the same gradient, or the reciprocal without changing the sign, loses marks.
+
+**What should you check in a discriminant question with a parameter k?**
+Form Δ = b² − 4ac in terms of k and solve the inequality or equation. If the coefficient of x² contains k, exclude the value that makes it zero, because the equation is then linear, not quadratic.
+
+**Should a line equation be in y = mx + c or ax + by + d = 0?**
+Give the form the question asks for. In IB DP Mathematics: Analysis and Approaches, leaving a line as y = mx + c when ax + by + d = 0 with integers is requested is a common lost mark.
 
 ## Official syllabus
 

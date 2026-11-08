@@ -248,6 +248,23 @@ A line through the first and last points gives a gradient (5.89 − 1.96)/(7.30 
 - Using the diameter in place of the radius.
 - Forgetting that doubling the speed multiplies the force by four, not two.
 
+## Frequently asked questions
+
+**What is a radian?**
+A radian is the angle at the centre of a circle that cuts off an arc equal in length to the radius, so θ = s/r. A full turn is 2π rad, so 360° = 2π rad and one radian is about 57.3°.
+
+**Why is an object moving in a circle at constant speed accelerating?**
+Velocity is a vector, and the direction of motion changes continuously in a circle, so the velocity changes. By Newton's second law a net force towards the centre must act, giving an acceleration towards the centre.
+
+**Is there a centrifugal force on an object moving in a circle?**
+No. In the frame of the ground there is no outward force on the object; the only net force is the centripetal force towards the centre, supplied by a real force such as tension, friction or gravity.
+
+**Why do you time 20 revolutions in the whirling bung experiment?**
+Timing many revolutions reduces the percentage uncertainty in the period. With a 0.2 s timing uncertainty, one revolution of about 0.6 s has around 31% uncertainty, but 20 revolutions has under 2%.
+
+**What graph do you plot in the whirling bung investigation?**
+With mass and radius fixed, plot centripetal force F (the hanging weight Mg) against f². Since F = 4π²mrf², the graph should be a straight line through the origin with gradient 4π²mr.
+
 ## Next steps
 
 Consolidate with the [revision notes](/resources/ocr-a-level-physics-circular-motion-and-centripetal-force-revision-notes/), then apply it in the [practice questions](/resources/ocr-a-level-physics-circular-motion-and-centripetal-force-practice/).

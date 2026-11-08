@@ -149,6 +149,23 @@ These questions cover learning outcomes 5.1.2(c) to 5.1.2(f) of the OCR A Level 
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is ultrafiltration selective?**
+No. Ultrafiltration is pressure filtration in which small molecules pass from the glomerulus into Bowman's capsule according to size; it does not use carriers. Selective reabsorption, mainly in the proximal convoluted tubule, is the selective step.
+
+**What is the difference between the roles of the hypothalamus and the posterior pituitary?**
+Osmoreceptors in the hypothalamus detect the water potential of the blood, and ADH is released from the posterior pituitary gland. Muddling detection and release is a common error in osmoregulation answers.
+
+**Why must aquaporins be mentioned in an ADH answer?**
+ADH increases the permeability of the collecting duct walls to water, and aquaporins are the water channels that allow this. Leaving them out is a frequent way to lose marks.
+
+**How should a pregnancy test result be described?**
+The control line only shows that the test strip is working; it is not the result. The result is shown by whether the separate test line appears.
+
+**Which part of the H420 specification do these questions cover?**
+They cover OCR A Level Biology A (H420) learning outcomes 5.1.2(c) to (f): the nephron, ADH and osmoregulation, kidney failure, dialysis, transplants and urine tests.
+
 ## Official syllabus
 
 OCR Advanced GCE in Biology A (H420), specification Version 4.1 (April 2026), first assessment 2025, published by OCR. Section 5.1.2, outcomes (c) to (f).

@@ -12,11 +12,20 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "data-representation-0478"
+  - qualification: "igcse"
+    topic: "data-representation-0478"
+    subtopic: "number-systems-0478"
+  - qualification: "igcse"
+    topic: "data-representation-0478"
+    subtopic: "text-sound-and-images-0478"
+  - qualification: "igcse"
+    topic: "data-representation-0478"
+    subtopic: "data-storage-and-compression-0478"
 description: "Original exam-style practice questions with full worked answers on binary, hexadecimal, character sets, images, sound and compression."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -104,3 +113,17 @@ Related: [Data Representation revision notes](/resources/data-representation-rev
 - Confusing sample rate with sample resolution (bit depth).
 - Forgetting to add 1 after flipping the bits in two's complement — that gives one's complement, not two's complement.
 - Labelling a 1024-based answer "KB" or "MB" instead of KiB or MiB — the syllabus names only the binary units and requires the answer in the unit the question specifies.
+
+## Frequently asked questions
+
+**Should you divide by 1000 or 1024 in IGCSE Computer Science file size questions?**
+Divide by 1024 for KiB and MiB. The Cambridge IGCSE 0478 syllabus names the binary units (kibi, mebi and so on), and labelling a 1024-based answer as KB or MB is a common mistake.
+
+**What is a common mistake in two's complement questions?**
+Forgetting to add 1 after flipping the bits. Flipping alone gives one's complement, not two's complement.
+
+**How do you convert binary to hexadecimal quickly?**
+Split the binary number into nibbles of 4 bits and convert each nibble to one hex digit. Going via denary makes arithmetic slips more likely.
+
+**What is the difference between sample rate and sample resolution?**
+Sample rate is the number of samples taken per second, while sample resolution is the number of bits used for each sample. Confusing the two is a common error.

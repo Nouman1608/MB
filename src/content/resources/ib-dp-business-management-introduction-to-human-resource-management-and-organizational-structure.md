@@ -261,6 +261,20 @@ Content for HL only includes examples such as the project-based organization, in
 - Listing HR strategies with no judgement, when the content is AO3.
 - Mixing up centralization (decisions kept at the top) with a tall hierarchy (many levels). They often go together but are different ideas.
 
+## Frequently asked questions
+
+**What is human resource planning?**
+Human resource planning is forecasting the number and type of employees a business will need and matching them to the staff available. It is influenced by internal factors such as growth plans and the existing workforce, and external factors such as demographic change, labour mobility, immigration and the gig economy.
+
+**What is the difference between a tall and a flat organizational structure?**
+A tall structure has many levels, narrow spans of control and a long chain of command, giving close supervision. A flat structure has few levels and wide spans, giving faster communication and lower management cost.
+
+**What is a matrix structure?**
+In a matrix structure employees report to two managers at once, such as a functional manager and a project manager. It shares skills across projects but can lead to conflicting orders and unclear accountability.
+
+**How can HR reduce resistance to change?**
+Strategies include early, honest communication, consultation and participation, training, and support such as job security promises or redeployment. Because this content is assessed at AO3, choose the strategy that fits the cause of resistance and state its limitation.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, International Baccalaureate Organization, sections 2.1 and 2.2.

@@ -167,6 +167,20 @@ Judgement: the weaker pound is most important this year as it adds the largest c
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/) if you want help with extended answers.
 
+## Frequently asked questions
+
+**What do these legislation and economy practice questions cover?**
+They cover Pearson Edexcel GCSE Business (1BS0) Theme 1 items 1.5.3 to 1.5.5: consumer and employment law, the economic climate, and how businesses respond to changes in technology, legislation and the economy.
+
+**How do you avoid mistakes in exchange-rate calculations?**
+To turn a price in euros into pounds, divide by the number of euros per pound; to turn pounds into euros, multiply. Dividing instead of multiplying, or the reverse, is a common error.
+
+**What does an Explain question need?**
+An Explain answer is a statement of fact with two expansion points. Giving one point with no development, as if the question said "list", loses marks.
+
+**Do you need to name specific laws in Edexcel GCSE Business?**
+The 1BS0 specification names no particular laws, so describe the principle of the legislation, such as quality, consumer rights, pay or health and safety, rather than naming a law you are unsure about.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 1: Investigating small business, Topic 1.5 Understanding external influences on business, items 1.5.3, 1.5.4 and 1.5.5.

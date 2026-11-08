@@ -15,9 +15,9 @@ syllabusTopics:
     topic: "procedural-programming"
 description: "Sequence, selection and iteration -- the opening topic of OxfordAQA International AS & A-Level Computer Science (9645), a 16-topic, modular syllabus."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -134,6 +134,20 @@ Choosing FOR when the repetition count is unknown. Believing WHILE always execut
 - Choose data structures to match the access pattern.
 - Write a test plan with normal, boundary and erroneous data and expected results.
 - Classify syntax, runtime and logic errors and state how each is found.
+
+## Frequently asked questions
+
+**How is OxfordAQA International A-Level Computer Science 9645 structured?**
+The syllabus has sixteen topics and is modular. AS Papers 1 and 2 cover topics 1 to 8 and form 40% of the A-level, and A-level Papers 1 and 2 cover topics 9 to 16 for the remaining 60%.
+
+**What is the difference between definite and indefinite iteration?**
+Definite iteration, such as a FOR loop, repeats a number of times known in advance. Indefinite iteration, such as WHILE or REPEAT UNTIL, repeats until a condition is met.
+
+**What do high cohesion and low coupling mean?**
+High cohesion means each subroutine does one clearly defined thing. Low coupling means each subroutine depends as little as possible on the internals of others.
+
+**What are the three types of program error?**
+Syntax errors stop the code compiling, runtime errors crash the program during execution, and logic errors let it run but give the wrong answer. Logic errors are the hardest to find.
 
 ## Related resources
 

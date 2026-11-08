@@ -7,18 +7,18 @@ topic: "Paper 2 – Texts and Genres"
 boards: ["aqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["7717"]
-syllabusSeries: "For first teaching 2015"
+syllabusSeries: "For first teaching 2025"
 order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-texts-and-genres-7717"
-description: "Original exam-technique practice questions with full worked answers on Paper 2's open-book format, the elements framework, and structuring a genuinely connective Section C essay, for AQA A-Level English Literature B (7717)."
+description: "Original exam-technique questions with worked answers on the open-book format, elements and Section C for AQA A-Level English Literature B Paper 2 (7717)."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: series corrected to first teaching 2025, Section C rule and current set-text changes added, links to new 2A/2B practice pages, FAQ added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, testing exam technique
@@ -31,6 +31,13 @@ Related: [Paper 2 Texts and Genres study
 guide](/resources/a-level-aqa-english-literature-b-texts-and-genres/)
 and [revision
 notes](/resources/a-level-aqa-english-literature-b-texts-and-genres-revision-notes/).
+For full exam-style papers with set-text essay questions, see the
+[Option 2A crime writing practice](/resources/a-level-aqa-english-literature-b-crime-writing-practice/)
+and the [Option 2B political and social protest writing practice](/resources/a-level-aqa-english-literature-b-political-and-social-protest-writing-practice/).
+
+**What is Paper 2 Texts and Genres?** It is a 3-hour, open-book exam worth 75 marks and 40% of
+AQA A-level English Literature B (7717). It has three 25-mark sections: an unseen passage, an
+essay on one set text, and an essay connecting two other set texts within the chosen option.
 
 ## Section A
 
@@ -85,7 +92,8 @@ candidate's set texts, 25 marks [1].
 **3.** One **post-2000 prose text** [1]; one **poetry text** [1]; a
 further text, with **one of the three texts pre-1900** [1] (a single
 text may satisfy more than one requirement simultaneously, for example
-a pre-1900 poetry text).
+a pre-1900 poetry text). For Option 2A the poetry text itself must be
+pre-1900.
 
 **4.** The specification's own elements lists (such as detection and
 investigation, or the pursuit of power and rebellion) are features to
@@ -152,3 +160,24 @@ or additional-material copy of a set text into the exam room, which
 breaches the open-book conditions. Being unable to state clearly which
 of a candidate's three texts satisfies the pre-1900 requirement and
 which satisfies the post-2000 prose requirement.
+
+## Frequently asked questions
+
+**Can I use the same text in Section B and Section C?**
+No. The Section C rubric on AQA's 7717/2A and 7717/2B papers says you must write about two texts
+that you have not used in Section B, so across the two essays you cover all three of your texts.
+
+**Is the unseen passage always prose?**
+No. The specification says the unseen extract can be poetry, prose or drama and can include
+literary non-fiction. It is chosen to show elements of the option you studied.
+
+**Has the set-text list changed recently?**
+Yes. The current specification (Version 1.5.1, October 2025) adds Colin Walsh's *Kala* to Option
+2A for first assessment in 2027, and lists V. V. Ganeshananthan's *Brotherless Night* among the
+Option 2B post-2000 prose texts. Check which list applies to your exam series.
+
+## Official syllabus
+
+AQA AS and A-level English Literature B (7716/7717) specification, Version 1.5.1, 1 October 2025,
+Paper 2 Texts and genres, checked against AQA's published Paper 2 question papers. See
+[aqa.org.uk](https://www.aqa.org.uk/subjects/english/a-level/english-7717/specification/subject-content/texts-and-genres).

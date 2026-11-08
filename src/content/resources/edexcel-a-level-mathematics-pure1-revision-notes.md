@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A Level Mathematics: Pure Mathematics 1 — Revision Notes"
+title: "Edexcel International A Level Mathematics: Pure Mathematics 1 — Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
 level: ["a-levels"]
@@ -13,13 +13,13 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-p1-pure-mathematics-1-edexcel-alevel-maths"
     subtopic: "p1-coordinate-geometry-edexcel-alevel-maths"
-description: "Condensed recall notes on algebra, quadratics, straight-line coordinate geometry, differentiation and integration for Pure Mathematics 1 of Pearson Edexcel International A Level Mathematics (YMA01)."
+description: "Revision notes for Pearson Edexcel IAL Mathematics Pure 1 (YMA01): surds, quadratics, straight lines, differentiation, integration and trigonometry."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -202,3 +202,19 @@ radians:      s = r*theta            (arc length)
   <figcaption>m is the gradient and c is where the line crosses the y-axis.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**When is a quadratic positive for all values of x?**
+Two conditions are needed: a > 0 and the discriminant b² − 4ac < 0. Giving only the discriminant condition loses marks.
+
+**Do you need + c in Pure 1 integration?**
+Yes. Integration in Pure 1 of Edexcel IAL Mathematics (YMA01) is indefinite, so the constant of integration carries a mark.
+
+**Is differentiation from first principles examinable in Pure 1?**
+Yes. The proof is examinable, and the mark is for writing the limit notation as well as the algebra.
+
+**What is the ambiguous case of the sine rule?**
+When using the sine rule to find an angle, there may be a second solution, because sin(180° − θ) = sin θ. Check whether the obtuse angle is also possible.
+
+**Are circles and stationary points in Edexcel IAL Pure 1?**
+No. Pure 1 covers only straight-line coordinate geometry and applications of differentiation such as tangents and normals; circles and classifying stationary points come in Pure Mathematics 2.

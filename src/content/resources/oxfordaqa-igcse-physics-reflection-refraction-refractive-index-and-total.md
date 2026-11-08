@@ -312,6 +312,20 @@ t = s / v = 2000 / 2.03 × 10⁸ = 9.9 × 10⁻⁶ s
 - Using n = 1 / sin c for light going from air into glass. TIR needs light starting in the denser medium.
 - Drawing the extended rays behind the mirror as solid lines.
 
+## Frequently asked questions
+
+**What are the properties of an image in a plane mirror?**
+The image is virtual, upright and laterally inverted, so left and right are swapped. It cannot be caught on a screen because the reflected rays only appear to come from it.
+
+**Does light speed up when it enters glass?**
+No. Light slows down when it enters glass, which is why it bends towards the normal. Writing that light speeds up in glass is a common error.
+
+**What conditions are needed for total internal reflection?**
+The light must be travelling inside the denser medium towards a boundary with a less dense medium, and the angle of incidence must exceed the critical angle.
+
+**What are the benefits of optical fibres for communications?**
+They carry large amounts of information, lose little signal over long distances, suffer no electrical interference and use thin, light cables.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.3.4 and 3.3.5.

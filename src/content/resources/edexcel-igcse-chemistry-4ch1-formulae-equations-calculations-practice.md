@@ -16,9 +16,9 @@ syllabusTopics:
     subtopic: "chemical-formulae-equations-and-calculations-4ch1"
 description: "Eleven original 4CH1 Chemistry questions on equations, moles, reacting masses, yield, empirical formulae, concentration and gas volumes, fully marked."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -210,6 +210,20 @@ Percentage yield = (84.0 ÷ 96.0) × 100 [1] = **87.5%** [1].
 - [Edexcel IGCSE Chemistry course hub](/boards/edexcel/igcse/chemistry/)
 - [Printable Edexcel IGCSE Chemistry checklist](/checklists/edexcel/igcse/chemistry/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**What topics does the 4CH1 formulae, equations and calculations practice set cover?**
+It covers sub-topic 1(e) of the Edexcel International GCSE Chemistry (4CH1) specification, points 1.25 to 1.36: balanced equations, relative formula mass, moles, reacting masses, percentage yield, empirical formulae, water of crystallisation, and Paper 2 concentration and gas volume calculations.
+
+**Why do state symbols matter in balanced equations?**
+State symbols can earn a separate mark, so writing water as (aq) instead of (l), or an insoluble solid as (aq), can lose it even when the equation is balanced.
+
+**What causes the most errors in mole calculations?**
+Common errors include ignoring the mole ratio from the equation, rounding moles too early so a simple ratio looks wrong, and not converting cm³ to dm³ before using mol/dm³. Mixing up 24 dm³ and 24 000 cm³ in gas volume questions also loses marks.
+
+**What should you show in a "show that" calculation?**
+Show every step, such as the moles of each element and the ratio, rather than restating the answer you were given. No mark goes to simply repeating the formula from the question.
 
 ## Official syllabus
 

@@ -358,6 +358,23 @@ HZ left = 2.40 × 10⁻³ mol;   Z⁻ formed = 3.00 × 10⁻³ mol
 
 Move on to the [revision notes](/resources/oxfordaqa-a-level-chemistry-acids-and-bases-revision-notes/) for a summary and the [practice questions](/resources/oxfordaqa-a-level-chemistry-acids-and-bases-practice/) for exam-style work.
 
+## Frequently asked questions
+
+**What is a Brønsted–Lowry acid?**
+In OxfordAQA A-level Chemistry (9620), a Brønsted–Lowry acid is a proton donor and a base is a proton acceptor. In an acid–base equilibrium, protons pass from one species to another in both directions.
+
+**How do you calculate the pH of a weak acid?**
+Use the approximation [H⁺] = √(Ka × [HA]), then pH = −log₁₀[H⁺]. This assumes that [H⁺] = [A⁻] and that only a small fraction of the acid dissociates.
+
+**How do you find pKa from a pH curve?**
+Read the pH at half the equivalence volume. At that point half the weak acid has been converted to A⁻, so [HA] = [A⁻] and pH = pKa.
+
+**How do you calculate the pH of a buffer?**
+For an acidic buffer, use [H⁺] = Ka × [HA] / [A⁻], with [A⁻] coming from the salt, then find pH. Because both share one volume, moles can be used in place of concentrations.
+
+**Why does Kw increase with temperature?**
+The ionisation of water is endothermic, so warming water shifts the equilibrium to the right and increases Kw. Pure water above 25 °C therefore has a pH below 7 but is still neutral.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards, section 3.1.10 Acids and bases (International A2), with required practical 7. Published by OxfordAQA.

@@ -263,6 +263,23 @@ Performance is judged differently too. A plc is judged on profit and share price
 
 Move on to the [revision notes](/resources/aqa-a-level-business-understanding-the-nature-and-purpose-of-business-and-understanding-different-revision-notes/) and then the [practice set](/resources/aqa-a-level-business-understanding-the-nature-and-purpose-of-business-and-understanding-different-practice/).
 
+## Frequently asked questions
+
+**What is the difference between a mission and an objective?**
+A mission is the business's overall purpose: why it exists and what it is trying to be. Objectives turn that purpose into specific targets, and decisions are then judged by whether they meet them.
+
+**What is the difference between fixed and variable costs?**
+Fixed costs stay the same however much is made or sold in the short run, such as rent and insurance. Variable costs change with output, such as materials and packaging.
+
+**How do you calculate market capitalisation?**
+Market capitalisation = share price × number of shares in issue. It is the stock market's current value of the company's shares, not money held by the company.
+
+**What is the difference between a private limited company and a plc?**
+Both are separate legal entities owned by shareholders with limited liability. A private limited company's shares are not offered to the general public, while a plc's shares can be bought and sold on a stock exchange by anyone, so it can raise very large sums.
+
+**Which sections of the AQA Business specification cover the nature of business and business forms?**
+Sections 3.1.1, Understanding the nature and purpose of business, and 3.1.2, Understanding different business forms, in AQA AS and A-level Business (7131 and 7132).
+
 ## Official syllabus
 
 AQA, *AS and A-level Business (7131 and 7132) specification*, sections 3.1.1 and 3.1.2.

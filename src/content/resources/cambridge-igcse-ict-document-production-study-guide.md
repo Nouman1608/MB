@@ -134,3 +134,17 @@ Command words in the practical paper are mostly instructions: *insert*, *set*, *
 5. What is an orphan or widow, and how do you avoid it? *A single line of a paragraph stranded at the bottom or top of a page; use the widow and orphan control setting.*
 6. When would you use a section break instead of a page break? *When parts of the document need different settings, such as columns, orientation or page numbering.*
 7. Why is typing the page number by hand a mistake? *It would repeat the same number on every page; an automatic field updates on each page.*
+
+## Frequently asked questions
+
+**Why use styles for headings in a word-processed document?**
+A style is a saved set of formatting applied by name, so every heading at that level matches and a change can be made in one place. In the Cambridge IGCSE ICT (0417) practical, examiners check deliberately for consistent headings.
+
+**Why should page numbers not be typed by hand?**
+A typed number would show the same value on every page, so use an automatic page number field in the header or footer, which updates on each page.
+
+**What is the risk of using Replace all?**
+Replace all without whole-word matching can change letters inside other words, for example replacing "art" inside "start". Use match case and whole-word options where needed and scan the result afterwards.
+
+**When should you use a section break instead of a page break?**
+Use a section break when parts of a document need different settings, such as columns, orientation or page numbering. A page break only starts a new page.

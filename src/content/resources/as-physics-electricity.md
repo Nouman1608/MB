@@ -20,11 +20,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-electricity"
     subtopic: "as-resistance-and-resistivity"
-description: "Electric current as charge flow, Q = It, potential difference and electrical power, and resistance, resistivity and I-V characteristics, for Cambridge International AS & A Level Physics 9702."
+description: "Current and Q = It, I = Anvq, potential difference and power, resistance, resistivity and I-V characteristics: Topic 9 of Cambridge AS Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -208,6 +208,20 @@ condition (light or temperature) increases.
 - I–V characteristics for a metallic conductor, diode and filament lamp
 - R = ρL/A, distinguishing resistivity from resistance
 - LDR and thermistor resistance behaviour
+
+## Frequently asked questions
+
+**What is electric current?**
+Electric current is the rate of flow of charge, carried by charge carriers such as electrons in a metal, so Q = It. Charge is quantised, existing only in multiples of the elementary charge.
+
+**What are the three formulas for electrical power?**
+Electrical power can be written P = VI, P = I²R or P = V²/R. Choose the one that matches the quantities you are given.
+
+**What is the difference between resistance and resistivity?**
+Resistivity, ρ, is a property of the material and does not change if you cut a wire in half. Resistance depends on the dimensions too, through R = ρL/A.
+
+**What is the I-V characteristic of a semiconductor diode?**
+A diode conducts easily in forward bias once a threshold voltage is passed, but has a very high resistance in reverse bias, so almost no current flows.
 
 ## Related resources
 

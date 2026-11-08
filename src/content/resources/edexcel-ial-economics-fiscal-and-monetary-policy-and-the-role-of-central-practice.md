@@ -126,6 +126,20 @@ Read the [study guide](/resources/edexcel-ial-economics-fiscal-and-monetary-poli
 - Evaluating with general points that ignore the context supplied.
 - Ending an evaluation with no judgement.
 
+## Frequently asked questions
+
+**How do you calculate the multiplier from withdrawal rates?**
+Add all the withdrawal rates, the marginal propensities to save, to pay tax and to import, then take the reciprocal. Forgetting one of the withdrawals is a common error in Edexcel International A Level Economics questions.
+
+**What is the link between bond prices and yields?**
+They move in opposite directions. A bond paying a fixed amount each year has a lower yield when its price rises, which is how QE lowers longer-term interest rates.
+
+**Should you use the real or nominal interest rate?**
+When a question gives inflation, use the real rate, which is approximately the nominal rate minus inflation. Using nominal rates in that case loses marks.
+
+**How should you answer a question on the roles of a central bank?**
+Give a purpose for each role rather than a bare list, and link monetary policy tools to aggregate demand through a chain of reasoning.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/edexcel-ial-economics-fiscal-and-monetary-policy-and-the-role-of-central/) for any chain you missed.

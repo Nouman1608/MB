@@ -233,6 +233,20 @@ The specification lists extracting and interpreting data from graphs, charts and
 - Forgetting to give a calculated percentage change as a positive value with the word "decrease" or "increase".
 - Saying every neurone can never be repaired. Say repair is limited.
 
+## Frequently asked questions
+
+**What is the difference between rods and cones?**
+Rod cells work in dim light but do not give colour vision. Cone cells need brighter light and detect colour; colour blindness involves faulty or missing cones.
+
+**What is the difference between the iris and the pupil?**
+The iris is a coloured ring of muscle that controls the size of the pupil. The pupil is the hole in the centre of the iris that lets light through to the lens.
+
+**Can colour blindness be cured?**
+No. There is no cure that restores the faulty cone cells, though colour-filter lenses or glasses can help some people tell certain colours apart.
+
+**What does the medulla control?**
+The medulla, at the base of the brain where it joins the spinal cord, controls unconscious actions such as breathing rate and heart rate.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Biology A (J247)*, Version 4.0 (August 2026), for first assessment in 2018: statements B3.1d to B3.1h.

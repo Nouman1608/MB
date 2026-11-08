@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "o-level"
     topic: "number"
-description: "Original exam-style questions with full worked answers on negative numbers, prime factors, HCF and LCM, percentages, ratio, estimation, surds, recurring decimals, interest, bounds and standard form, for Cambridge O Level Mathematics 4024."
+description: "Original Cambridge O Level Mathematics 4024 number questions on prime factors, HCF and LCM, percentages, ratio, surds, bounds and standard form, with answers."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-24
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -132,3 +132,20 @@ Most questions practise a skill tested in the June 2025 papers. Questions marked
 - Adding the percentage back on instead of dividing by the multiplier.
 - Leaving a surd or fraction not fully simplified.
 - Giving the total amount when the question asks for the interest.
+
+## Frequently asked questions
+
+**How do you find the HCF and LCM using prime factors?**
+Write both numbers as products of prime factors. The HCF uses the lowest power of each shared prime, and the LCM uses the highest power of every prime that appears.
+
+**How do you reverse a percentage change?**
+Divide by the multiplier. If a price after a 15% reduction is known, divide it by 0.85; adding 15% of the sale price back on gives the wrong answer.
+
+**Which bounds do you use to find the largest possible speed?**
+Divide the upper bound of the distance by the lower bound of the time. Dividing by the wrong bound is a common way to lose marks in bounds questions.
+
+**How are estimation questions marked in Cambridge O Level Mathematics?**
+Round each number to 1 significant figure and show the rounded values in your working, because the method mark depends on them.
+
+**What is the difference between Paper 1 and Paper 2 style number questions?**
+Questions marked no calculator on this page are in the style of Paper 1; the others allow a calculator, as in Paper 2.

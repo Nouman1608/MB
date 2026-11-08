@@ -12,14 +12,14 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-a-literature-readers-writers-texts"
-description: "Original practice questions with full worked answers on narrative voice, form and how craft choices shape reader interpretation, for the Readers, Writers and Texts area of exploration of IB Diploma Programme Language A: Literature."
+description: "Original practice questions with worked answers on narrative voice, form and how craft choices shape a reader's response, for IB DP Language A: Literature."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -96,6 +96,20 @@ whether a student can adapt the same underlying skill (explaining how a techniqu
 across a form-specific context (staging) that has no direct equivalent in prose or poetry, which is
 the adaptation the revision notes flag as necessary rather than assuming techniques transfer unchanged
 across forms.
+
+## Frequently asked questions
+
+**How many works do you study in IB Language A: Literature?**
+The IB Language A: literature guide sets at least 9 works at SL, covering three of the four literary forms, and at least 13 works at HL, covering all four forms.
+
+**What does "readers construct meaning" mean?**
+It means reading is active: different readers can build different but defensible interpretations of the same passage from the writer's choices. A strong answer explains what possibilities a technique opens up or closes off for the reader.
+
+**Why is naming a technique not enough?**
+In IB DP Language A: Literature, an answer that only identifies a technique, such as dual narration, does not explain how it shapes the reader's interpretation. Explain the effect as well as naming the device.
+
+**Does drama need different analysis from prose and poetry?**
+Yes. Drama is written to be performed, so staging, dialogue and dramatic irony shape an audience's response in ways that have no direct equivalent in prose or poetry.
 
 ## Official syllabus
 

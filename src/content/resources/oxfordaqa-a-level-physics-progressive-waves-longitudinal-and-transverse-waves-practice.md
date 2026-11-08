@@ -153,6 +153,20 @@ These questions follow sections 3.5.3 and 3.5.4 of the OxfordAQA International A
 - Take the free [diagnostics](/diagnostics/): all free 10-minute diagnostics
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are the most common mistakes in progressive wave questions?**
+Writing that particles travel with the wave, defining transverse as simply "up and down", and reading wavelength from a displacement-time graph. Particles oscillate about fixed positions, and wavelength comes from a displacement-distance graph.
+
+**How should you define a transverse wave in an exam?**
+Say that the oscillations are at right angles to the direction of energy propagation. A longitudinal wave has oscillations along the direction in which the energy moves.
+
+**Are these OxfordAQA A-level Physics past paper questions?**
+No. They are original practice questions with worked answers, written for revision on this topic of OxfordAQA International AS and A-level Physics (9630). Use them alongside the official past papers from the board.
+
+**Is progressive waves content in OxfordAQA International AS Physics (9630)?**
+Yes. Sections 3.5.3 (progressive waves) and 3.5.4 (longitudinal and transverse waves) are shared AS and A-level content in the OxfordAQA International AS and A-level Physics (9630) specification.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Sections 3.5.3 and 3.5.4.

@@ -302,6 +302,20 @@ This is half the area of an ellipse with semi-axes 5 and 2, which is ½ × π ×
 - Applying the initial condition before the constant has been introduced.
 - Losing a negative sign when dx/dt is negative.
 
+## Frequently asked questions
+
+**What is a separable differential equation?**
+A first-order differential equation is separable if it can be written as dy/dx = f(x) g(y). Move the y terms to one side with dy and the x terms to the other with dx, then integrate both sides.
+
+**How do you check the solution of a differential equation?**
+Differentiate your answer and substitute it back into the original equation, and check that it fits the given initial values.
+
+**Why can dividing by y in a differential equation lose a solution?**
+If y = 0 satisfies the equation, dividing by y removes it, so note that case when you separate the variables.
+
+**Do you need to sketch parametric curves in Edexcel IAL P4?**
+No. The specification says you are not expected to sketch a curve from its parametric equations for volumes and areas in Unit P4.
+
 ## Next steps
 
 Try the [practice questions](/resources/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations-practice/), then condense with the [revision notes](/resources/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations-revision-notes/). For an overview of all papers, see [IAL Mathematics exam preparation](/resources/edexcel-ial-mathematics-exam-preparation/).

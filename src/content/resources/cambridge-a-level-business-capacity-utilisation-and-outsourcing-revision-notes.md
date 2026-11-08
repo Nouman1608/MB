@@ -217,6 +217,20 @@ Use these to turn description into judgement: how large and how lasting is the p
 - Declaring outsourcing cheaper without a volume comparison.
 - Ending an evaluation without a decision.
 
+## Frequently asked questions
+
+**How do you calculate capacity utilisation?**
+Divide actual output by maximum possible output and multiply by 100. The Cambridge 9609 syllabus lists the measurement but gives no formula, so this is the standard form; check both figures cover the same period.
+
+**Is 100% capacity utilisation the goal?**
+No. Some spare capacity gives room to handle surges in demand and to carry out maintenance, so a business running at its limit has no slack.
+
+**What is the difference between capacity utilisation and productivity?**
+Capacity utilisation compares actual output with the maximum possible output. Productivity measures output per input, such as output per worker.
+
+**How do you find the break-even volume for outsourcing?**
+Divide the in-house fixed cost by the difference between the outsourced price and the in-house variable cost per unit. Below that volume outsourcing is cheaper on cost alone; above it, in-house is cheaper.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education), section 4.3 Capacity utilisation and outsourcing.

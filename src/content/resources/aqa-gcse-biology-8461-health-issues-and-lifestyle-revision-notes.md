@@ -19,13 +19,13 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "organisation-aqa-gcse-biology"
     subtopic: "the-effect-of-lifestyle-on-some-non-communicable-diseases-aqa-gcse-biology"
-description: "Condensed AQA GCSE Biology 8461 notes on health, how diseases interact, risk factors, lifestyle and non-communicable disease, sampling and reading risk-factor data, with a self-test."
+description: "Condensed AQA GCSE Biology 8461 notes on health and disease, risk factors, lifestyle and non-communicable diseases, and reading disease data, with a self-test."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-05
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-11-05."
 ---
 
 These are condensed recall notes for **4.2.2.5 Health issues** and **4.2.2.6 The effect of lifestyle on some
@@ -208,6 +208,23 @@ causal link needs a known mechanism and repeated studies.
 - Forgetting that health includes **mental** well-being.
 - Mixing up communicable and non-communicable examples.
 - Drawing gaps between the bars of a histogram.
+
+## Frequently asked questions
+
+**What is health in AQA GCSE Biology?**
+Health is the state of physical and mental well-being, not just the absence of disease.
+
+**What is a risk factor?**
+A risk factor is linked to an increased rate of a disease. Risk factors can be aspects of lifestyle or substances in the body or environment. A risk factor does not on its own prove cause.
+
+**How do you calculate incidence per 100 000 people?**
+Divide the number of new cases by the population and multiply by 100 000. For example, 340 cases in 250 000 people is 136 per 100 000.
+
+**What makes a sample good for epidemiological data?**
+The sample should be large and representative of the population, and the results should be repeated by other studies.
+
+**Does a correlation prove that a risk factor causes disease?**
+No. A correlation shows the variables are linked. A causal mechanism must be shown before a factor can be said to cause a disease.
 
 ## Official syllabus
 

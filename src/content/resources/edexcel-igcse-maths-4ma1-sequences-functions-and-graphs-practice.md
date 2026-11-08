@@ -27,11 +27,11 @@ syllabusTopics:
     subtopic: "calculus-edexcel-igcse-maths"
 description: "Twelve original 4MA1 questions on sequences, functions, straight lines, curves, transformations and calculus, with mark-by-mark worked answers."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -190,6 +190,20 @@ Learn the content first in the [study guide](/resources/edexcel-igcse-maths-4ma1
 - Substituting a turning-point x into dy/dx instead of into y.
 - Missing units (m/s, m/s², cm²) in practical calculus questions.
 - Skipping the substitution line in a "show that" question.
+
+## Frequently asked questions
+
+**What does fg(x) mean?**
+fg(x) means apply g first, then f, working from the inside out. With f(x) = 3x − 5 and g(x) = x² + 1, fg(2) = f(5) = 10, while gf(2) = g(1) = 2, so the order matters.
+
+**What is the difference between a term-to-term rule and an nth term?**
+A term-to-term rule tells you how to get from one term to the next, such as "add 6". An nth term is an expression in n, such as 6n − 1, and writing only the term-to-term rule when the question asks for the nth term loses the mark.
+
+**How do you find the coordinates of a turning point?**
+Solve dy/dx = 0 to find the x-coordinate, then substitute that value into the equation of the curve, not into dy/dx, to find y. Differentiation is Higher tier content in Edexcel IGCSE Maths 4MA1.
+
+**Which way does f(x + a) move a graph?**
+y = f(x + a) is a translation of a units to the left, and only the x-coordinates change. Moving the graph the wrong way, or changing the y-coordinates as well, is a common error.
 
 ## Next steps
 

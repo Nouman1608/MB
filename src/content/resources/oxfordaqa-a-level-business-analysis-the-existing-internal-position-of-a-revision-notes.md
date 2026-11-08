@@ -206,6 +206,20 @@ Average inventory = (opening inventory + closing inventory) ÷ 2.
 </figure>
 
 
+## Frequently asked questions
+
+**How do you calculate capital employed for ROCE?**
+Capital employed is non-current liabilities plus total equity. Using total assets or equity alone in place of capital employed is a common error in ROCE and gearing calculations.
+
+**What is the acid test ratio?**
+The acid test ratio is current assets minus inventory, divided by current liabilities. It is a stricter test of liquidity than the current ratio because inventory may not be quickly turned into cash.
+
+**Should a loss-making profit centre always be closed?**
+Not necessarily. A centre that shows a loss after shared overheads are allocated may still make a positive contribution, so closing it could reduce the profit of the business as a whole.
+
+**What are the limitations of financial reporting?**
+Financial statements are historic, showing the past rather than the future, and they leave out non-financial factors such as staff morale. Ratios should therefore be read alongside trends, benchmarks and context.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Published by OxfordAQA.

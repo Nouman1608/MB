@@ -302,6 +302,23 @@ The specification suggests investigating reactions in terms of disorder and enth
 - Saying a feasible reaction "will happen quickly". Feasibility and rate are separate ideas.
 - Giving a changeover temperature but not stating which side of it (hotter or colder) the reaction goes.
 
+## Frequently asked questions
+
+**What is entropy in Edexcel International A Level Chemistry?**
+Entropy, S, is a measure of the disorder of a system, described as the random dispersal of molecules and of energy quanta between molecules. It is taught in Topic 12A of the Pearson Edexcel specification (YCH11), examined in Unit 4 at International A2 level.
+
+**Why can an endothermic reaction happen at room temperature?**
+An endothermic reaction lowers the entropy of the surroundings, but it can still happen if the system gains more entropy than the surroundings lose. Dissolving ammonium nitrate is an example: ΔStotal is positive even though ΔH is positive.
+
+**Why does a perfect crystal at 0 K have zero entropy?**
+In a perfect crystal at zero kelvin every particle is in a fixed place and there is no thermal energy to spread, so there is only one possible arrangement. Above 0 K every substance has a positive standard entropy.
+
+**How do you predict the sign of ΔSsystem for a reaction?**
+Count the moles of gas first: more moles of gas formed means ΔSsystem is positive, and gas used up means it is negative. If the gas moles do not change, look at changes of state, since entropy rises from solid to liquid to gas.
+
+**Can dissolving an ionic solid decrease entropy?**
+Yes. The ions spread out, which increases entropy, but water molecules become ordered around them, which decreases it. For small, highly charged ions the ordering of water can win, so ΔSsystem can be negative.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, published by Pearson Education Limited. Topic 12: Entropy and Energetics, part 12A: Entropy, outcomes 12.1 to 12.11.

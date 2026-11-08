@@ -153,6 +153,20 @@ These questions follow AQA A-level Biology (7402), sections 3.6.1.1 and 3.6.1.2,
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which sections of the AQA specification do these questions cover?**
+They cover sections 3.6.1.1 (survival and response) and 3.6.1.2 (receptors) of AQA A-level Biology 7402.
+
+**What should a chi-squared conclusion include?**
+State the null hypothesis, the degrees of freedom and the comparison with the critical value. A result without these does not earn full credit.
+
+**What should a choice chamber method include?**
+Include controls and a clear procedure. A vague method with no controls loses marks.
+
+**How do you calculate a percentage change correctly?**
+Divide the change by the original figure, not the final figure, then multiply by 100, and include units and any time conversions.
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification for first teaching 2015, published by AQA (sections 3.6.1.1 and 3.6.1.2).

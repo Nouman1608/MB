@@ -25,11 +25,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-2-10"
 description: "Condensed IB Maths AI HL revision notes for sections 2.7-2.10: inverses, transformations, logistic and log models, linearizing data, with a self-test."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 For full explanations and longer worked examples, read the [study guide for this unit](/resources/ib-dp-mathematics-ai-hl-further-functions-modelling/) first.
@@ -201,6 +201,20 @@ The vertical steps must be stretch then translate. Swapping them gives p(f(x) + 
   <figcaption>Restrict the domain, then reflect in y = x to get the inverse.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**How do you tell whether data follows an exponential or a power model?**
+Find Pearson's r for (x, ln y) and for (ln x, ln y) on your GDC; the pair with |r| closer to 1 is the better linear fit. A straight semi-log graph means exponential and a straight log-log graph means power.
+
+**What is the difference between a logistic and a logarithmic model?**
+A logistic model f(x) = L/(1 + Ce^(−kx)) levels off at the carrying capacity L. A logarithmic model a + b ln x, with b > 0, keeps increasing without a bound, only more and more slowly.
+
+**Are IB Maths AI HL sinusoidal models in degrees or radians?**
+HL sinusoidal models are in radians unless a degree symbol appears, as in sin x°. The period is then 2π/b, not 360°/b.
+
+**In what order should you describe a composite transformation?**
+For y = p f(q(x − a)) + b, the vertical steps must be stretch then translate. Translating first and then stretching gives p(f(x) + b), which is a different graph.
 
 ## Official syllabus
 

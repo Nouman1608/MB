@@ -247,6 +247,20 @@ Evaluation points: the effect depends on how fast the change is, on whether prod
 - Using a pyramid to say a country is poor or rich without evidence.
 - Listing effects of an ageing population without a chain of reasoning to the government budget or the labour market.
 
+## Frequently asked questions
+
+**How do you calculate a population growth rate?**
+Add natural change (births minus deaths) to net migration (immigration minus emigration) to find the total change, then divide by the opening population and multiply by 100. This is covered in section 5.3.1 of Cambridge O Level Economics 2281.
+
+**What does a population pyramid with a wide base show?**
+A wide base shows a large share of young people, which usually means a high birth rate. It brings school and child health costs but a high future labour supply.
+
+**What are the effects of an ageing population?**
+An ageing population raises spending on pensions and healthcare while there are fewer taxpayers per pensioner, so taxes may rise or services be cut. It can also cause labour shortages.
+
+**Can the optimum population change?**
+Yes. Better technology, more machinery, a more skilled workforce or new trade routes raise output per worker and can move the optimum population.
+
 ## Official syllabus
 
 Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2, published by Cambridge University Press and Assessment (Cambridge International Education). Section 5.3 covers Population. Check the official document at the exam board for the full wording.

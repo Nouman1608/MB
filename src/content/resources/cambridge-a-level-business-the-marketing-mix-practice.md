@@ -165,6 +165,20 @@ These questions cover section 3.3 The marketing mix (3.3.1 to 3.3.6) of the Camb
 - Check your wider knowledge with the [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which section of Cambridge AS and A Level Business 9609 do these questions cover?**
+Section 3.3 The marketing mix (3.3.1 to 3.3.6), including product, price, promotion and place.
+
+**What is the difference between mark-up and margin?**
+Mark-up is calculated on cost, while margin is calculated on the selling price. Mixing them up is a common error in cost-plus pricing calculations.
+
+**How should I use the Boston Matrix in an answer?**
+State the rule you use for high market growth and high relative market share before classifying products, and do not confuse the Boston Matrix with the product life cycle.
+
+**What should follow a cost per customer calculation?**
+A comment on what the figure means, such as customer value or repeat buying, because the cheapest customer to win is not always the most valuable.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028*, section 3.3 The marketing mix.

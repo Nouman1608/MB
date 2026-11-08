@@ -240,6 +240,23 @@ Notice that the answer uses three facts from the case (six a month, customer mea
 - Recommending a method with no reference to the case. Name the quantity, the product and the budget.
 - Listing advantages only. Questions that ask you to justify need a reason why the rejected options are weaker.
 
+## Frequently asked questions
+
+**Is labour productivity the same as output?**
+No. Output is the total amount produced, while labour productivity is output per worker or per hour. Output can rise while productivity rises more slowly, or even falls, if the workforce grows.
+
+**Does just-in-time mean a business holds no inventory?**
+No. Just-in-time means holding very little inventory, with materials delivered just as they are needed and finished products sent to customers soon after they are made.
+
+**What is the difference between batch and flow production?**
+Batch production makes a group of identical products, then changes the equipment for the next batch, so it offers some variety. Flow production makes identical products continuously on a line in very large quantities, giving the lowest unit cost but little flexibility.
+
+**Do production methods apply to services as well as goods?**
+Yes. The Cambridge IGCSE Business 0264 syllabus covers goods and services, so a tailor working to individual order resembles job production, and an automated car wash processing cars in sequence resembles flow production.
+
+**Why is flow production unsuitable for a small number of customised products?**
+A fixed production line cannot make products that each differ, and its high set-up cost cannot be spread over a small output. Customers paying a premium for a bespoke product would also lose what they are paying for.
+
 ## Next steps
 
 Condense this into the [revision notes](/resources/igcse-business-0264-production-of-goods-and-services-revision-notes/), then try the twelve questions in the [practice set](/resources/igcse-business-0264-production-of-goods-and-services-practice/).

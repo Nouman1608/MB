@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Business decisions and strategy (YBS11)"
+title: "Edexcel International A Level Business: Business decisions and strategy (YBS11)"
 seoTitle: "Edexcel IAL Business Decisions and Strategy Study Guide"
 resourceType: "study-guides"
 subject: "business"
@@ -224,6 +224,20 @@ Sandlow Foods: 48,000 units from 120 staff is 400 each. 18 leavers from 150 staf
 **Key factors in change:** organisational culture (a strong one can resist), size of organisation (larger firms are harder to move), time or speed (rapid change disrupts, slow change may be too late), managing resistance (communication, involvement, training) and **transformative leadership**, where leaders set an inspiring vision and change attitudes as well as structures.
 
 **Contingency planning.** Risk assessment judges each risk by likelihood and impact. Key risks named in the specification are natural disasters, IT systems failure and loss of key staff. Mitigation includes a **business continuity plan** (backup sites and data, alternative suppliers) and **succession planning** (preparing people for key roles). Ullacombe Retail rates IT failure as moderate likelihood but severe impact, so it keeps off-site backups.
+
+## Frequently asked questions
+
+**What sections are in Unit 3 of Edexcel International A Level Business?**
+Unit 3 of YBS11 has six sections, 3.3.1 to 3.3.6: business objectives and strategy, business growth, decision-making techniques, influences on business decisions, assessing competitiveness, and managing change.
+
+**What is Porter's Strategic Matrix?**
+It compares the source of competitive advantage (low cost or differentiation) with the scope of the market (broad or narrow). The four outcomes are cost leadership, differentiation, cost focus and differentiation focus.
+
+**What are the four types of corporate culture?**
+Power culture has central control, role culture relies on rules and defined jobs, task culture uses flexible project teams, and person culture has the organisation serve individual experts.
+
+**What are the limitations of quantitative sales forecasting?**
+The past may not repeat, outliers distort results, sudden shocks are ignored and weak correlation gives poor forecasts. Extrapolating a line of best fit far beyond the data is risky.
 
 ## Official syllabus
 

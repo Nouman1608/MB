@@ -13,11 +13,17 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-language-and-society-9670"
-description: "Condensed recall notes on the four social functions of language and connecting analysis to academic argument for OxfordAQA International AS/A-Level English Language Unit 2 (9670)."
+  - qualification: "a-level"
+    topic: "unit-2-language-and-society-9670"
+    subtopic: "section-a-language-and-social-groups-texts-9670"
+  - qualification: "a-level"
+    topic: "unit-2-language-and-society-9670"
+    subtopic: "section-b-language-and-social-groups-writing-9670"
+description: "Condensed notes on the four social functions of language and on linking analysis to academic argument for OxfordAQA AS English Language 9670 Unit 2."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -156,6 +162,20 @@ matters at least as much as fluent writing style. 5. Unit 2's Section B
 is an academic essay building an argument from Section A's analysis;
 Unit 1's Section B is a transformed or creative Directed Writing task,
 not an academic essay.
+
+## Frequently asked questions
+
+**What are the four social functions of language in OxfordAQA 9670 Unit 2?**
+They are group rapport and shared perspectives, power and status, identity and relationship, and play and performance. Section A is assessed on naming the specific function a feature demonstrates, not on describing what a text says.
+
+**What does multimodal mean in English Language?**
+A multimodal text combines more than one semiotic channel, such as image and text working together in a meme or an advertisement. It is not a synonym for an informal register.
+
+**How do Section A and Section B of Unit 2 connect?**
+Read Section A's source material with Section B already in mind, noting which observations could support an academic argument later. A Section B essay that restates the Section A analysis instead of using it as evidence is the most common cause of lost marks.
+
+**How much is Unit 2 worth in the OxfordAQA International A-level?**
+Units 1 and 2 together make up the International AS, and each contributes 20% to the full International A-level. Because they are weighted identically at AS, revision time should be balanced evenly between them.
 
 ## Related resources
 

@@ -141,6 +141,20 @@ This set follows the IB Diploma Programme *Economics guide* (first assessment 20
 - Naming a policy without saying which curve it moves.
 - Calling a common pool resource a public good.
 
+## Frequently asked questions
+
+**How do you calculate welfare loss from an externality diagram?**
+The welfare loss is the triangle between the market output and the socially optimum output. Its base is the gap between the two outputs, and its height is the gap between MSC and MSB at the market output, not the price. This calculation is HL only.
+
+**Where is the socially optimum output on an externality diagram?**
+It is where marginal social benefit equals marginal social cost (MSB = MSC), not where the private market curves cross. Setting the optimum at the market equilibrium is a common error.
+
+**Why do students lose marks on common pool resource calculations?**
+They mix up average and marginal returns. Open access keeps adding users while the average return covers the cost, while society gains most where the extra return from the last user equals the cost.
+
+**What should a policy answer on externalities include?**
+Say which curve the policy moves and in which direction, show the effect on price and quantity, and weigh the policy's strengths and limits for the situation given rather than only listing them.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/ib-dp-economics-externalities-and-common-pool-resources/) for any weak part.

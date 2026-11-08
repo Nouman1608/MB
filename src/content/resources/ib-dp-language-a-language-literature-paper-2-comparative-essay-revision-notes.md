@@ -17,11 +17,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-language-and-literature-time-and-space"
 description: "Condensed revision notes for the IB DP Language and Literature Paper 2 comparative essay: thesis patterns, paragraph steps, evidence and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 For full explanations and a worked essay plan, use the
@@ -213,6 +213,20 @@ comparing *effect*.
 - Context paragraphs that never return to the works.
 - Choosing a favourite pair of works when another pair fits the question better.
 - Running out of time for the final paragraph because planning was skipped.
+
+## Frequently asked questions
+
+**Is Paper 2 the same at SL and HL in IB Language and Literature?**
+Yes. Paper 2 of IB DP Language A: Language and Literature has the same format and length, 1 hour 45 minutes, at both levels; it is worth 35% at SL and 25% at HL.
+
+**Can you use non-literary texts in Paper 2?**
+No. Paper 2 is a comparative essay on two literary works; non-literary texts belong to Paper 1 and the individual oral.
+
+**What is the difference between method and content in a comparison?**
+Content is what the works are about, such as war. Method is how the writers present it, such as a frame narrative versus a single remembered scene, and Paper 2 comparisons should rest on method.
+
+**What should you do if you cannot remember a quotation exactly?**
+Paraphrase precisely, naming the moment and where it falls in the work, rather than misquoting. A precise reference is better evidence than invented quotation marks.
 
 ## Official syllabus
 

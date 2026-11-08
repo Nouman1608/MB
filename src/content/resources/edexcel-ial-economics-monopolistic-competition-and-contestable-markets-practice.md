@@ -138,6 +138,17 @@ These questions cover monopolistic competition and contestability (3.3.3 items 4
 - All free 10-minute [diagnostics](/diagnostics/)
 - Book a free trial class: [trial](/trial/)
 
+## Frequently asked questions
+
+**What are the assumptions of monopolistic competition?**
+The standard assumptions are many small firms, differentiated products and low barriers to entry and exit. Firms also have some price-making power, and imperfect information makes non-price competition common.
+
+**How do you find profit-maximising price in a monopolistic competition calculation?**
+Find MR from the demand curve, set MR equal to MC to find output, then read price from the demand (AR) curve at that output, not from MR. Comparing price with ATC at that output then shows supernormal profit, normal profit or a loss.
+
+**How do you approach an 8-mark evaluate question on contestability?**
+Give benefits and costs with clear chains of reasoning, then reach a verdict that depends on a condition, such as the size of sunk costs or whether legal barriers exist. A question that says "always" invites you to name a case where the benefit fails.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, first teaching September 2018, published by Pearson Education Limited. See sections 3.3.3 item 4 and item 8.

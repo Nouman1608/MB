@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "topic-c2-elements-compounds-mixtures-j248"
     subtopic: "c2-1-purity-separating-mixtures-j248"
-description: "Original exam-style practice questions with full worked answers on purity, melting point, relative formula mass, empirical formula and the four separation techniques for OCR GCSE (9-1) Chemistry A Gateway Science (J248), C2.1."
+description: "Practice questions with worked answers on OCR GCSE Chemistry A (J248) C2.1: purity, melting point, Mr, empirical formulae, separation and Rf values."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-04
 featured: false
 ---
@@ -211,3 +211,17 @@ D) Filtered tap water, which becomes a formulation once solid particles are remo
 ## Approaching purity and separation questions
 
 For any relative formula mass or empirical formula question, work systematically through moles first and simplify to a whole-number ratio only at the final step, since attempting to compare raw masses directly is the most common source of error. For a "suggest a suitable technique" question involving more than one separation step, use the decision framework as a flowchart rather than four isolated definitions: is there an insoluble solid to remove first (filtration), does a dissolved solid then need recovering (crystallisation), and if the mixture is entirely liquid, are the boiling points very different (simple distillation) or similar (fractional distillation)? For chromatography and Rf-value questions, always state explicitly that a valid comparison requires the same solvent, paper and temperature across all spots being compared, since this caveat is a specific, frequently tested point in its own right.
+
+## Frequently asked questions
+
+**How are OCR GCSE Chemistry A papers structured?**
+OCR J248 papers open with Section A, 15 four-option multiple-choice questions worth 15 marks, followed by Section B with short-answer and extended questions. This practice set follows the same two-section pattern for C2.1.
+
+**What are common mistakes in purity and separation questions?**
+Frequent errors include using the everyday meaning of "pure", comparing raw masses instead of moles in empirical formula questions, confusing simple and fractional distillation, and choosing crystallisation first when an insoluble solid must be filtered out.
+
+**How should I approach a question asking for a suitable separation technique?**
+Use a decision flowchart rather than isolated definitions: remove any insoluble solid first, then recover any dissolved solid, and for a mixture of liquids decide whether the boiling points are very different or similar. Name each technique in the order it is used.
+
+**How do I avoid mistakes in empirical formula calculations?**
+Convert each mass to moles first by dividing by the relative atomic mass, then divide by the smallest value to get a whole-number ratio. Only simplify at the final step.

@@ -169,6 +169,20 @@ The triangles are congruent (SAS) **[4]** [1]
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is congruence a Higher tier only topic in OCR GCSE Maths?**
+No. Congruent triangles and congruence proofs, content references 9.02a and 9.02b of OCR GCSE (9-1) Mathematics J560, are for both Foundation and Higher tier.
+
+**Why are SSA and AAA not accepted as congruence conditions?**
+Three equal angles fix the shape but not the size, so the triangles may be different sizes. Two sides and an angle that is not between them can produce two different triangles, so neither set of facts proves congruence.
+
+**What should every line of a congruence proof include?**
+Each equal pair of sides or angles needs a reason, such as "given", "common side", "vertically opposite angles" or "alternate angles". A statement like AB = CD with no reason is weaker and can lose marks.
+
+**What do you need to write after proving two triangles are congruent?**
+State the condition used, such as SAS, and then the fact the question asked for, using corresponding sides or angles. Stopping at "the triangles are congruent" leaves the proof incomplete.
+
 ## Official syllabus
 
 Aligned to the OCR GCSE (9-1) in Mathematics (J560) specification, Version 2.1, August 2026, published by OCR, for first assessment in 2017. Content references 9.02a (Congruent triangles) and 9.02b (Applying congruent triangles).

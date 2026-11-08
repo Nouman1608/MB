@@ -28,11 +28,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-4-9"
 description: "11 original questions with marked answers on probability, E(X), fair games, binomial and normal distributions for IB DP Maths AI SL and HL."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -213,6 +213,20 @@ Links: [course hub](/boards/ib/ib-dp/mathematics-applications-and-interpretation
 - Tick off sections on the [printable checklist](/checklists/ib/ib-dp/mathematics-applications-and-interpretation/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Why should you state the distribution before giving a GDC answer?**
+Writing X ~ B(n, p) or X ~ N(μ, σ²) and the probability statement shows your method. Without it, no method mark is available if the GDC value is wrong.
+
+**What do you enter for the standard deviation in a normal distribution on the GDC?**
+Enter σ, the standard deviation, not the variance σ². For T ~ N(34, 4.5²), the value to enter is 4.5.
+
+**How do you test whether two events are independent?**
+Calculate P(A) × P(B) and compare it with P(A ∩ B), writing both numbers. If they are equal the events are independent; a conclusion with no comparison does not earn the marks.
+
+**When is a game fair in IB Maths AI?**
+A game is fair when the expected gain E(X) = 0, where X is the player's gain after the cost to play. Working from payouts instead of gains is a common error.
 
 ## Official syllabus
 

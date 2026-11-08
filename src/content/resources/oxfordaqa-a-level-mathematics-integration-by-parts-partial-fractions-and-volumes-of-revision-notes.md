@@ -235,6 +235,20 @@ using the result in question 11 of the self-test.
 - Not showing the line where you substitute the limits, which makes an arithmetic slip hard to trace.
 - Rounding too early when an exact answer is asked for, or leaving ln terms uncombined when the question asks for a single logarithm.
 
+## Frequently asked questions
+
+**What is the formula for integration by parts?**
+∫ u v′ dx = uv − ∫ u′ v dx, where v′ = dv/dx. It comes from integrating the product rule and rearranging.
+
+**How do you choose u in integration by parts?**
+Take u = x for x times an exponential, sine or cosine. For a power of x times ln x, take u = ln x, because ln x cannot yet be integrated directly.
+
+**What is the formula for a volume of revolution?**
+About the x-axis, V = π ∫ y² dx between x-limits. About the y-axis, V = π ∫ x² dy between y-limits.
+
+**Is π ∫ y² dx the same as π(∫ y dx)²?**
+No. You square the function before integrating, not the integral afterwards.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2*, published by OxfordAQA, for International AS exams from May/June 2018 and International A-level exams from May/June 2019. See section P2.7 (Integration).

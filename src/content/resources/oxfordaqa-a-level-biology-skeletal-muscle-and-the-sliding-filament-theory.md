@@ -200,6 +200,20 @@ Runner X has more fibres suited to sustained aerobic work, so is likely to suit 
 - Describing phosphocreatine as an energy source in itself. It supplies a phosphate to make ATP.
 - Writing that muscles "push" in an antagonistic pair.
 
+## Frequently asked questions
+
+**What are the sarcolemma, sarcoplasm and sarcoplasmic reticulum?**
+The sarcolemma is the cell surface membrane of a muscle fibre and the sarcoplasm is its cytoplasm, which contains many mitochondria and stored glycogen. The sarcoplasmic reticulum is a network of membrane-bound sacs, a specialised endoplasmic reticulum, that stores calcium ions.
+
+**What does tropomyosin do in muscle contraction?**
+Tropomyosin lies along the actin thin filaments and covers the binding sites when the muscle is relaxed, so myosin heads cannot attach. Calcium ions released on stimulation make it move and expose the sites.
+
+**How do you calculate the H zone and I band from sarcomere length?**
+The I band in one sarcomere is sarcomere length minus the A band. The H zone is sarcomere length minus twice the thin filament length, when the thin filaments do not meet.
+
+**Why are skeletal muscles arranged in antagonistic pairs?**
+Muscles can only pull when they contract, so a second muscle is needed to move a bone back. When one muscle of the pair contracts the other relaxes, for example the biceps and triceps at the elbow.
+
 ## Official syllabus
 
 Source: OxfordAQA International AS and A-level Biology (9610), specification Version 5.1, for International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards, published by OxfordAQA. Section 3.4.4, Skeletal muscles as effectors.

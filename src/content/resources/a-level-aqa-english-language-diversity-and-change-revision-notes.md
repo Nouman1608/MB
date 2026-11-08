@@ -15,9 +15,9 @@ syllabusTopics:
     subtopic: "section-a-diversity-and-change-7702"
 description: "Condensed recall notes on sociolect, dialect and the audience/purpose/genre/mode framework for AQA A-Level English Language Paper 2 Section A (7702)."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -173,6 +173,23 @@ of essay on either diversity or change, so a candidate needs a
 separately organised, ready set of examples and terminology for
 whichever option they choose, rather than one blended, less precise
 set.
+
+## Frequently asked questions
+
+**What is the difference between sociolect and dialect?**
+A sociolect is variation based on social-group membership, such as occupation, gender or ethnicity. A dialect is variation based on geography, whether regional, national or international.
+
+**What timeframe does language change cover in AQA A-level English Language?**
+The AQA A-level English Language (7702) specification defines language change from 1600 to the present. A change essay should include at least one historical comparison point, not only present-day examples.
+
+**Do I answer on diversity or change in AQA Paper 2 Section A?**
+Paper 2 Section A offers a choice of essay on either language diversity or language change, so you answer one. Revising them as two separate banks of examples and terminology helps you write precisely on whichever you choose.
+
+**What theories of language change can I use in an essay?**
+Useful named ideas include Aitchison's damp spoon, crumbling castle and infectious disease metaphors for prescriptivist attitudes (which Aitchison rejects), the S-curve model of how a new form spreads, functional theory, and random fluctuation theory.
+
+**Can language data appear in the exam instead of a text?**
+Yes. The specification names collections of language data, such as dictionaries and corpora, and research findings such as tables, graphs and statistics, so practise interpreting simple data sets with the same diversity and change lenses.
 
 ## Related resources
 

@@ -15,11 +15,11 @@ syllabusTopics:
     subtopic: "graphs-in-practical-situations"
 description: "Travel graphs, conversion graphs, and applying rate of change to distance-time and speed-time graphs, for Cambridge O Level Mathematics (Syllabus D) 4024."
 author: "muhammad-ghazali-siddiqui"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-18
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This guide covers subtopic **2.9 Graphs in practical situations**, from
@@ -172,6 +172,20 @@ curved sections)
 - Area under a speed–time graph = distance, for linear sections only
 - Displacement versus distance travelled for a velocity-time graph that crosses the axis (subtract vs. add the areas) -- enrichment beyond this syllabus, which only requires speed-time graphs
 - Interpreting a gradient as a rate in context, with correct units
+
+## Frequently asked questions
+
+**What does the gradient of a distance–time graph represent?**
+The gradient of a distance–time graph gives the speed, and a horizontal section means the object is stationary. For a curved section, estimate the speed at a point by drawing a tangent and finding its gradient.
+
+**How do you find distance travelled from a speed–time graph?**
+Find the area under the graph. In Cambridge O Level Mathematics 4024 this is limited to linear sections, so the areas are always rectangles, triangles or trapezia.
+
+**What does a negative gradient on a speed–time graph mean?**
+A negative gradient on a speed–time graph means the object is decelerating. The gradient itself gives the acceleration, calculated as change in speed ÷ change in time.
+
+**What is a conversion graph?**
+A conversion graph shows the relationship between two units or quantities, such as two currencies or temperature scales, as a straight line. Once you know a value in one unit, you can read off its value in the other.
 
 ## Related resources
 

@@ -324,6 +324,23 @@ For y = kx², doubling x multiplies y by 4. For y = k/x², doubling x divides y 
 - Treating "inversely proportional" as y = kx, or "proportional to x²" as y = kx.
 - Leaving a read-off answer without saying it is approximate, or giving a value far outside a sensible reading range.
 
+## Frequently asked questions
+
+**What does the gradient of a real-life graph represent?**
+The gradient is the rate of change of the vertical quantity per unit of the horizontal quantity, so its units are "y-unit per x-unit", such as pounds per cubic metre or litres per minute. A straight line means the rate is constant; a curve means the rate is changing.
+
+**How do you convert between m/s and km/h?**
+Multiply a speed in m/s by 3.6 to get km/h, and divide a speed in km/h by 3.6 to get m/s. For example, 90 km/h is 90 ÷ 3.6 = 25 m/s.
+
+**Which parts of OxfordAQA 9260 graphs and variation are Extension only?**
+In OxfordAQA International GCSE Mathematics (9260), reference A17 has Core and Extension content, while A18 (direct and inverse variation) is Extension only. Gradients of curves and areas under graphs, including distance from the area under a velocity-time graph, are also Extension only.
+
+**What is the difference between direct and inverse proportion?**
+In direct proportion both quantities rise together and y ÷ xⁿ stays fixed, as in y = kx. In inverse proportion one rises as the other falls and y × xⁿ stays fixed, as in y = k/x, so doubling x halves y.
+
+**How do you work out average speed from a distance-time graph?**
+Divide the total distance travelled by the total time, including any time spent stationary. Do not use the final distance from the start, because a journey that returns home has travelled further than its final displacement.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), specification Version 5.1 (for exams May/June 2018 onwards), published by OxfordAQA, section 3.2.2 Functions, graphs and calculus, references A17 and A18.

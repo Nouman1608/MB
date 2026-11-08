@@ -224,6 +224,23 @@ A short sketch can support these chains. For the demand curve, label the price a
 - Treating competition as price only.
 - Concluding with "it depends" and no reasons.
 
+## Frequently asked questions
+
+**What is the difference between a pure monopoly and monopoly power?**
+A pure monopoly is one firm supplying the whole market with no close alternative, and there are few real examples. Monopoly power is a firm's ability to influence price or earn higher profit because competition is limited, which many firms have.
+
+**What increases a firm's monopoly power?**
+Higher barriers to entry, fewer or very unequal competitors, advertising that builds loyalty and greater product differentiation all increase monopoly power, because each makes demand less price elastic.
+
+**What are the limitations of concentration ratios?**
+They depend on how the market is defined, ignore potential entrants, say nothing about how firms behave, and do not show whether the largest firm dominates.
+
+**Does a monopoly's lower cost always benefit consumers?**
+Only if the cost saving is passed on in lower prices. A monopoly that prices above what smaller competing firms would charge keeps most of the saving as profit.
+
+**Do I need a formal monopoly diagram for OxfordAQA 9640 AS?**
+No. For section 3.1.4.4 of the OxfordAQA 9640 specification a formal diagram of monopoly is not required; use a demand curve to show output falling when price rises above the competitive level.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, sections 3.1.4.4 and 3.1.4.5. First teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022. Published by OxfordAQA.

@@ -14,9 +14,9 @@ syllabusTopics:
     topic: "an-introduction-to-the-role-of-the-accountant-in-business"
 description: "Condensed recall notes on accounting concepts, financial statements, adjustments, ratio analysis and users of accounts for AQA A Level Accounting 7127."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -177,3 +177,16 @@ gearing       = non-current liabilities / capital employed x 100
   <figcaption>More borrowing and less interest cover mean more risk to lenders and shareholders.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does DEAD CLIC stand for in accounting?**
+DEAD CLIC is a memory aid for double entry: Debit Expenses, Assets and Drawings; Credit Liabilities, Income and Capital.
+
+**Why does a lender care about liquidity as well as profit?**
+A profitable business can still fail if it cannot pay its debts as they fall due, so a lender looks at liquidity to judge whether it will be repaid.
+
+**What are the effects of high gearing?**
+High gearing means heavy reliance on borrowing. It is risky if interest rates rise or profits fall, but it can magnify returns to shareholders when profits are strong.
+
+**What is a common mistake about management accounting?**
+Describing management accounting as simply "accounting done by managers". It is information produced for internal decision-makers that is forward-looking and flexible in format.

@@ -16,13 +16,13 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "organisation-aqa-gcse-biology"
     subtopic: "blood-aqa-gcse-biology"
-description: "Condensed AQA GCSE Biology 8461 notes on blood as a tissue: plasma, red and white blood cells, platelets, adaptations, micrographs and blood products, with a self-test."
+description: "Condensed AQA GCSE Biology 8461 notes on blood as a tissue: plasma, red and white blood cells, platelets, adaptations and blood products, with a self-test."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-05
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-11-05
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-11-05."
 ---
 
 These are condensed recall notes for **4.2.2.3 Blood** of the AQA GCSE Biology (8461) specification, Version 1.0,
@@ -178,6 +178,23 @@ usually outweighs a small, controlled risk of infection).
 - Forgetting that plasma carries **carbon dioxide** and **urea**, not just food.
 - Calling blood an organ.
 - Leaving an actual-size answer in mm when the question asks for µm.
+
+## Frequently asked questions
+
+**Is blood a tissue or an organ?**
+Blood is a tissue: a group of cells and cell fragments with a similar function, in a liquid called plasma. It is not an organ.
+
+**What are the four components of blood?**
+Plasma, red blood cells, white blood cells and platelets.
+
+**What do platelets do?**
+Platelets are small fragments of cells with no nucleus. At a wound they help form a clot, which stops blood loss and stops pathogens getting in.
+
+**How do white blood cells defend the body?**
+Some white blood cells engulf and digest pathogens by phagocytosis, and some make antibodies and antitoxins. Saying they "fight disease" without saying how loses marks.
+
+**What does plasma carry?**
+Plasma carries the blood cells and platelets, and substances such as carbon dioxide, urea, glucose, hormones and proteins.
 
 ## Official syllabus
 

@@ -30,9 +30,9 @@ syllabusTopics:
     subtopic: "the-normal-distribution-cambridge-alevel-maths"
 description: "Condensed Cambridge 9709 Paper 5 revision notes: formulas, method steps, key distinctions and a 12-question self-test for Probability & Statistics 1."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -254,6 +254,23 @@ Keep σ unrounded when you substitute back for μ.
 - Geometric P(X ≤ r) worked out term by term with an arithmetic slip, instead of 1 − (1 − p)ʳ.
 - Continuity correction missed, or applied in the wrong direction.
 - The z-value for "top 10%" given as −1.282 instead of +1.282.
+
+## Frequently asked questions
+
+**What is the difference between mutually exclusive and independent events?**
+Mutually exclusive events cannot happen together, so P(A ∩ B) = 0. Independent events do not affect each other, so P(A ∩ B) = P(A) × P(B). Two events with non-zero probabilities cannot be both.
+
+**When can you use the normal approximation to the binomial in Cambridge 9709 Paper 5?**
+When np > 5 and nq > 5. Then use N(np, npq) and apply a continuity correction, for example P(X ≤ 15) becomes P(Y < 15.5).
+
+**What is the formula for the probability that a geometric random variable exceeds r?**
+For X ~ Geo(p), P(X > r) = (1 − p)ʳ, because the first r trials must all fail. This result is not in MF19, so derive it.
+
+**How do you find a frequency density for a histogram?**
+Divide the frequency by the class width. Bar area, not height, is proportional to frequency.
+
+**How should you compare two data sets in Paper 5?**
+Make one comment on centre (median or mean) and one on spread (interquartile range or standard deviation), both in context.
 
 ## Official syllabus
 

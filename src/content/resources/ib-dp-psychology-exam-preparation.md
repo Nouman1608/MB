@@ -9,7 +9,7 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Psychology"]
 syllabusSeries: "First assessment 2019"
 order: 6
-description: "Paper-by-paper exam preparation for IB DP Psychology -- a focused single-approach Paper 1 essay, preparing both HL options equally for Paper 2, HL Paper 3's methodology focus, a worked evaluation and a checklist."
+description: "Exam preparation for IB DP Psychology: a single-approach Paper 1 essay, equal preparation for both HL options, HL Paper 3 methodology and an IA write-up."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -146,6 +146,20 @@ member's write-up risks being flagged during external moderation, even where the
 conducted together. 4. Research methodology -- analysing qualitative versus quantitative methods and
 evaluating research scenarios methodologically and ethically, as a distinct skill from applying
 content knowledge.
+
+## Frequently asked questions
+
+**How many approaches should an IB Psychology Paper 1 essay use?**
+One. The essay is chosen from three, one per approach, and is answered from that single approach in depth, with no specific credit for bringing in a second approach.
+
+**How long should HL students spend on their second Paper 2 option?**
+HL students should revise both options with equal depth. Paper 2 requires one essay from each of the two studied options and allocates equal marks to both.
+
+**How should you structure an evaluate answer in IB Psychology?**
+State the theory and its claim, support it with a named study, evaluate the study's method, consider a second study or competing explanation within the same approach, then give a judgement.
+
+**Can I copy my group's wording in the IB Psychology IA?**
+No. The experiment is usually run in a group, but the write-up, analysis and discussion must be your own individual work, and close similarity risks being flagged during external moderation.
 
 ## Official syllabus
 

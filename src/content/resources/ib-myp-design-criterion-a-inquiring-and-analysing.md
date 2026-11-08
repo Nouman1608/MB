@@ -159,6 +159,23 @@ The brief says **what** is needed and **why**. It does not list measurable requi
 
 Next: the [Criterion A revision notes](/resources/ib-myp-design-criterion-a-inquiring-and-analysing-revision-notes/), then the [Criterion A practice questions](/resources/ib-myp-design-criterion-a-inquiring-and-analysing-practice/). For the bigger picture, see [the design cycle](/resources/ib-myp-design-design-cycle/), [the four criteria in practice](/resources/ib-myp-design-criteria-in-practice/), [how MYP Design is assessed](/resources/ib-myp-design-assessment-revision-notes/) and [ePortfolio preparation](/resources/ib-myp-design-eportfolio-exam-preparation/).
 
+## Frequently asked questions
+
+**What does Criterion A involve in MYP Design?**
+In Criterion A, Inquiring and analysing, you are given a design situation, identify a problem to solve, analyse the need for a solution and inquire into the nature of the problem. It ends with a design brief, not a product idea.
+
+**What is the difference between explaining and justifying the need?**
+Explaining the need says what the problem is, who has it and what happens because of it. Justifying the need gives evidence, such as observations, measurements or survey results, that a solution is worth making.
+
+**Why should survey results include the sample size?**
+A bare percentage such as "75% of coaches" means little on its own. Writing "9 of the 12 coaches surveyed (75%)" tells the reader how much weight to give the result.
+
+**How do you judge whether a secondary source is reliable?**
+Ask who wrote it, when it was written and whether the author is selling something. Use the answers to decide how much to rely on it.
+
+**Is ACCESS FM an IB requirement for product analysis?**
+No. ACCESS FM (aesthetics, cost, customer, environment, size, safety, function, materials) is a common prompt, not an IB requirement, so use only the headings that matter for your client.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Design*, from 2014 (published by the IB, 2015). The brief names Criterion A: Inquiring and analysing and states that the ePortfolio design folder contains a design brief and specification. All scenarios and data on this page are fictional.

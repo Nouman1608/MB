@@ -222,6 +222,20 @@ Efficiency = output power/input power × 100%.
 - Stating the e.m.f. is highest when the flux is highest in a generator.
 - Calling a transformer loss a random error, or forgetting to say what was held constant in an investigation.
 
+## Frequently asked questions
+
+**What is the difference between magnetic flux and flux linkage?**
+Magnetic flux Φ = BA cos θ is the field passing through one surface, measured in webers. Flux linkage is NΦ for a coil of N turns, measured in weber turns.
+
+**What is the unit of magnetic flux?**
+The unit of magnetic flux is the weber (Wb). One weber is the flux through 1 m² perpendicular to a uniform flux density of 1 T, so 1 Wb = 1 T m².
+
+**What is the peak e.m.f. of a simple a.c. generator?**
+For a coil of N turns and area A rotating at angular speed ω in a field B, the e.m.f. is E = NBAω sin ωt, so the peak value is E₀ = NBAω. Doubling the rotation frequency doubles the peak e.m.f. and halves the period.
+
+**Which part of OCR A Level Physics A covers electromagnetic induction?**
+Electromagnetic induction is statements 6.3.3(a) to (f) of OCR H556. It covers flux and flux linkage, Faraday's and Lenz's laws, search coils, the a.c. generator and transformers.
+
 ## Official syllabus
 
 These notes follow the OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017, published by OCR, section 6.3.3 (Electromagnetism), statements (a) to (f).

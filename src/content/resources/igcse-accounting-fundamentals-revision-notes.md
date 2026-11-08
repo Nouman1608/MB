@@ -16,9 +16,9 @@ syllabusTopics:
     topic: "the-fundamentals-of-accounting"
 description: "Condensed recall notes on the accounting equation, double entry, books of prime entry and the trial balance for Cambridge IGCSE Accounting 0452."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -231,3 +231,19 @@ Treating capital expenditure as revenue **understates profit and understates non
   <figcaption>Switching depreciation method moves profit by 960 with no change in trading.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does DEAD CLIC mean in accounting?**
+DEAD CLIC is a memory hook for double entry: debit expenses, assets and drawings; credit liabilities, income and capital. Each of these accounts increases on the side shown.
+
+**Why does capital appear with liabilities in the accounting equation?**
+From the business's point of view, capital is owed to the owner, so it sits beside liabilities in assets = capital + liabilities. Capital rises with profit and extra investment and falls with losses and drawings.
+
+**What are the ledger divisions in Cambridge IGCSE Accounting 0452?**
+The sales ledger holds the personal accounts of credit customers, the purchases ledger the accounts of credit suppliers, and the general (nominal) ledger all other accounts, such as assets, expenses, income and capital.
+
+**What is the difference between an error of commission and an error of principle?**
+An error of commission posts an entry to the wrong account of the right kind, while an error of principle posts it to the wrong kind of account. Neither affects the trial balance totals.
+
+**What is the effect of treating capital expenditure as revenue expenditure?**
+Profit is understated because the cost is charged as an expense, and non-current assets are understated because the asset is missing from the statement of financial position. Full marks need the effect on both statements.

@@ -295,6 +295,23 @@ Growth abroad often depends on digital tools such as e-commerce. Innovation may 
 - Forgetting to show the working in a unit-cost or percentage calculation.
 - Ending an evaluation without a reasoned judgement on which option suits this business.
 
+## Frequently asked questions
+
+**What is the difference between economies of scale and the experience curve?**
+Economies of scale come from output per period: producing more at once lowers average cost. The experience curve comes from cumulative output over time: unit cost falls each time total output doubles.
+
+**What are the stages of Greiner's model of growth?**
+Growth through creativity leads to a crisis of leadership, direction to a crisis of autonomy, delegation to a crisis of control, and coordination to a crisis of red tape, followed by growth through collaboration. Firms rarely follow it exactly.
+
+**What is the difference between big data and data mining?**
+Big data is the information itself, the very large data sets a business holds. Data mining is the analysis of that data to find patterns.
+
+**Which economies of scale are listed in AQA 7132?**
+The specification lists technical, purchasing and managerial economies of scale.
+
+**How do you calculate franchisor income?**
+Franchisor income = initial fee + royalty. For example, a 5% royalty on sales of £80,000 earns £4,000 in royalties.
+
 ## Official syllabus
 
 AQA AS and A-level Business (7131 and 7132), section 3.9, "Strategic methods: how to pursue strategies" (A-level only), AQA.

@@ -14,13 +14,13 @@ syllabusTopics:
     topic: "verification-of-accounting-records"
   - qualification: "o-level"
     topic: "verification-of-accounting-records"
-description: "Exam-style questions with full worked answers on the trial balance, the six error types, suspense accounts, bank reconciliation, control accounts and digital records, for Cambridge IGCSE Accounting (0452) Topic 3, 2027-2029 syllabus."
+description: "Cambridge IGCSE Accounting 0452 Topic 3 practice questions with marked answers on the trial balance, errors, suspense, bank reconciliation and control accounts."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -220,3 +220,17 @@ and control account questions, keep asking "is this actually an error,
 or just a timing difference / a totals check," since a large share of
 marks on this topic are for correctly explaining what a technique does
 and does not detect, not just performing a calculation.
+
+## Frequently asked questions
+
+**How should I approach a correction of errors question in Cambridge IGCSE Accounting 0452?**
+Classify the error before writing the correcting journal entry: ask whether the trial balance would be affected and, if not, which of the six named error types matches the scenario. Misclassifying an error usually costs the identification mark even when the correcting entry is numerically right.
+
+**Which two error types are most often confused?**
+Commission and principle. Commission uses the wrong account of the correct type, while principle uses the wrong type of account, so check the class of account before you name the error.
+
+**What should I ask in bank reconciliation and control account questions?**
+Keep asking whether an item is actually an error or just a timing difference or a totals check. Not every difference between two records needs a correcting entry.
+
+**Are Cambridge IGCSE Accounting 0452 question papers divided into sections?**
+No. The papers are not divided into lettered sections, so the questions on this page are grouped only by length into short-answer and longer questions.

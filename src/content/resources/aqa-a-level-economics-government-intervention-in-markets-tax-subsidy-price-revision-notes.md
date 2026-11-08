@@ -212,6 +212,20 @@ For or against intervention in a particular market, weigh these:
 - Leaving out a judgement, or giving one with no reason.
 - Treating a subsidy's cost as a social loss without weighing the benefit.
 
+## Frequently asked questions
+
+**What is the difference between legal and economic incidence of a tax?**
+Legal incidence is who must pay the tax to the government; economic incidence is who actually bears the burden. Price elasticity of demand and supply decides the split.
+
+**What is the difference between regulation and pollution permits?**
+Regulation fixes the action each firm must take. Permits fix the total amount of pollution and let trading find where the cheapest cuts can be made.
+
+**Is the cost of a subsidy a social loss?**
+Not on its own. The subsidy's cost has an opportunity cost, but it should be weighed against the benefit it brings rather than treated simply as a loss.
+
+**Does a tax shift supply up or down?**
+An indirect tax shifts the supply curve up, while a subsidy shifts it down. Neither shifts demand.
+
 ## Official syllabus
 
 AQA AS and A-level Economics, specification version 1.3 (29 June 2022), AQA. Sub-section covered: Government intervention in markets (3.1.5.8 on the AQA website; 4.1.8.9 in the combined PDF).

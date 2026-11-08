@@ -142,6 +142,20 @@ Need a refresher first? Read the [study guide](/resources/cambridge-o-level-econ
 - Treating revenue as profit in a question about a firm's decision.
 - Giving an evaluation with no judgement, or one that ignores the time period.
 
+## Frequently asked questions
+
+**Which way up does the PED formula go?**
+PED is the percentage change in quantity demanded divided by the percentage change in price, so quantity goes on top. Writing it with price on top is a common error in Cambridge O Level Economics 2281.
+
+**Does a negative PED mean demand is inelastic?**
+No. PED is normally negative because price and quantity demanded move in opposite directions. Whether demand is elastic depends on the size of the number: below 1 is inelastic and above 1 is elastic.
+
+**Is an increase in revenue the same as an increase in profit?**
+No. Revenue is price times quantity, while profit also depends on costs. In a question about a firm's decision, compare the extra revenue with the extra cost of the extra units.
+
+**How should you apply a determinant of PED in an answer?**
+Link the factor to the product named in the question, for example explaining which close substitutes buyers could switch to. Naming a determinant in general terms earns less credit.
+
 ## Next steps
 
 - Review the [revision notes](/resources/cambridge-o-level-economics-price-elasticity-of-demand-calculation-determinants-revision-notes/) and the [study guide](/resources/cambridge-o-level-economics-price-elasticity-of-demand-calculation-determinants/).

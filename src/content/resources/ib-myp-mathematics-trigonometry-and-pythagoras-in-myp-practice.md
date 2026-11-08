@@ -131,6 +131,20 @@ Revise first with the [study guide](/resources/ib-myp-mathematics-trigonometry-a
 - Not checking that an answer fits the context, which weakens criterion D.
 - Leaving out the sign of cosine and tangent for obtuse angles.
 
+## Frequently asked questions
+
+**Do you add or subtract in Pythagoras' theorem?**
+Add the squares when finding the hypotenuse and subtract when finding a shorter side. Adding when a shorter side is missing is one of the most common errors.
+
+**Why might the sine rule give two answers?**
+When you use the sine rule to find an angle, sin⁻¹ gives an acute angle, but the obtuse angle 180° minus that value has the same sine and may also fit the triangle. Forgetting the second answer is a frequent mistake.
+
+**Why does calculator mode matter in trigonometry?**
+If the calculator is in radians when the question uses degrees, every sin, cos and tan value will be wrong. Check it is in degree mode before you start.
+
+**How do you check an answer in a trigonometry context question?**
+Check that the answer fits the situation, for example that a ramp is longer than its rise, and include units or the degree sign. In IB MYP Mathematics, not checking that an answer fits the context weakens criterion D evidence.
+
 ## Next steps
 
 - Revise the method: [revision notes](/resources/ib-myp-mathematics-trigonometry-and-pythagoras-in-myp-revision-notes/)

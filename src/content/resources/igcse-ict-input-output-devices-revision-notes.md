@@ -12,11 +12,20 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "input-and-output-devices"
-description: "Condensed recall notes on input devices, direct data entry devices and output devices for Cambridge IGCSE ICT 0417, Topic 2."
+  - qualification: "igcse"
+    topic: "input-and-output-devices"
+    subtopic: "input-devices-and-their-uses-0417"
+  - qualification: "igcse"
+    topic: "input-and-output-devices"
+    subtopic: "direct-data-entry-and-associated-devices-0417"
+  - qualification: "igcse"
+    topic: "input-and-output-devices"
+    subtopic: "output-devices-and-their-uses-0417"
+description: "Condensed notes on input devices, direct data entry devices such as RFID and OMR, and output devices including printers, for Cambridge IGCSE ICT 0417 Topic 2."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -40,7 +49,7 @@ Build a device / advantage / disadvantage table for every device in 2.1–2.3, t
 - **School register:** RFID reader beats a keyboard — removes manual entry, faster.
 - **Parcel delivery:** bar code/QR scanner, not OCR — OCR reads printed/handwritten text, not codes.
 - **Hospital wristband:** RFID over bar code — no line of sight needed, works while patient moves.
-- **Large-format poster proof:** plotter, not inkjet — built for large-format, high-precision line work.
+- **Large technical drawings (CAD plans, maps):** plotter — built for large-format, high-precision line work. A full-size colour poster proof needs a large-format inkjet instead, because a plotter is not designed for continuous-tone images.
 
 ## Devices that belong in more than one category
 
@@ -74,6 +83,20 @@ Cambridge also expects comparisons *within* 2.3's printer group, not just across
 3. Give one input use and one output use of a touch screen.
 4. Which output device is correct for a scenario describing a robot arm moving to pick up an object?
 5. State two reasons a chip and PIN reader is preferred over typing a card number by hand.
-6. Why would a graphic designer choose a plotter over an inkjet printer for a large poster proof?
+6. Why would an architect choose a plotter over a standard inkjet printer for printing large building plans?
 
-**Answers:** 1. OMR reads a predefined-position mark sheet; OCR reads printed or handwritten text. 2. RFID does not need a direct line of sight and can be read while the object is moving or the tag is concealed, unlike a bar code reader. 3. Input: making a selection on screen; output: displaying an image or interface. 4. Actuator — it converts an electrical signal into the physical movement described. 5. Faster than typing a full card number, and reduces transcription error; also more secure since the full number is not manually copied down. 6. A plotter is built for large-format, high-precision line work, which an inkjet printer is not designed to match at that scale and precision.
+**Answers:** 1. OMR reads a predefined-position mark sheet; OCR reads printed or handwritten text. 2. RFID does not need a direct line of sight and can be read while the object is moving or the tag is concealed, unlike a bar code reader. 3. Input: making a selection on screen; output: displaying an image or interface. 4. Actuator — it converts an electrical signal into the physical movement described. 5. Faster than typing a full card number, and reduces transcription error; also more secure since the full number is not manually copied down. 6. A plotter is built for large-format, high-precision line work such as technical drawings, which a standard inkjet printer cannot match at that size and precision.
+
+## Frequently asked questions
+
+**What is the difference between OCR and OMR?**
+In Cambridge IGCSE ICT (0417), OCR reads printed or handwritten text, while OMR reads marks in predefined positions, such as a multiple-choice answer sheet. Neither is the right device for reading a printed bar code, which needs a bar code reader.
+
+**Why is direct data entry preferred over manual input?**
+Direct data entry is usually faster, has a lower error rate and does not need a person to read or interpret the data before it is entered. A chip and PIN reader also avoids exposing the full card number to be copied down.
+
+**When is a dot matrix printer still used?**
+A dot matrix printer is noisy and low-resolution, but it can print multi-part carbon forms in one pass, such as a delivery note with a customer copy, and copes better with a harsh, dusty environment than a laser or inkjet printer.
+
+**What is the difference between a laser printer and an inkjet printer?**
+A laser printer is fast and cheap per page for high-volume black-and-white printing but costs more to buy. An inkjet printer produces high-quality colour at a low upfront cost but is slower and more expensive per page for high volumes.

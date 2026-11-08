@@ -156,6 +156,20 @@ These questions cover the multiplier (2.3.4 item 4, a to d) and output gaps (2.3
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate the multiplier when there are several leakages?**
+Add the marginal propensities to save, to be taxed and to import to get the marginal propensity to withdraw, then take 1 divided by that total. Using 1/MPS alone when tax and import leakages are given produces a multiplier that is far too large.
+
+**How do you calculate an output gap as a percentage?**
+Subtract potential output from actual output and divide by potential output, not actual output, then multiply by 100. A negative result is a negative output gap and a positive result is a positive output gap.
+
+**Where are the multiplier and output gaps in the Edexcel IAL Economics specification?**
+The multiplier is section 2.3.4 item 4 and output gaps are section 2.3.5 item 4 of the Edexcel IAL Economics specification (YEC11). Both are in Unit 2, an International AS unit that is also part of the full International A Level.
+
+**Why can the rise in real output be smaller than a multiplier calculation suggests?**
+If the economy has a positive output gap there is little spare capacity, so extra demand pushes up prices rather than real output. The calculated rise in income then overstates the rise in real output.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, first teaching September 2018, published by Pearson Education Limited. Sections 2.3.4 (item 4) and 2.3.5 (item 4).

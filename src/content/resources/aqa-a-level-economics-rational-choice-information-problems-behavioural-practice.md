@@ -130,6 +130,20 @@ These questions follow the AQA AS and A-level Economics specification (version 1
 - Mixing up default, restricted and mandated choice.
 - Ending an evaluation with a repeat of the points, rather than a justified judgement.
 
+## Frequently asked questions
+
+**What word is often missing from definitions of marginal utility?**
+The word extra. Marginal utility is the extra satisfaction from consuming one more unit, not total utility divided by the number of units.
+
+**Should sunk costs affect a marginal decision?**
+No. Sunk costs cannot be recovered whatever is decided, so a rational marginal decision compares only the extra benefit with the extra cost.
+
+**How should asymmetric information be described in an answer?**
+Say which party knows more, for example that the seller knows more about a used good's quality than the buyer, and use expected value rather than an average price where quality is hidden.
+
+**What is a common mistake with default, restricted and mandated choice?**
+Mixing them up. A default applies unless the person acts, restricted choice limits the options, and mandated choice requires people to decide.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/aqa-a-level-economics-rational-choice-information-problems-behavioural-revision-notes/) or the [study guide](/resources/aqa-a-level-economics-rational-choice-information-problems-behavioural/).

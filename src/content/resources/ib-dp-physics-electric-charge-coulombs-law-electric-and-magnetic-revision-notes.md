@@ -225,6 +225,20 @@ Dot (⊙) means out of the page and cross (⊗) means into the page. Current int
 - Treating a negative charge as feeling a force along E instead of against it.
 - Quoting k or e without its unit, or giving answers to far too many significant figures.
 
+## Frequently asked questions
+
+**Is the HL electric potential content of D.2 in these notes?**
+No. These notes cover the SL and HL understandings of D.2; the higher level potential content is covered in a separate unit.
+
+**Do electric field lines form closed loops like magnetic field lines?**
+No. Electric field lines begin and end on charges, while magnetic field lines form closed loops.
+
+**Is there an electric field inside a charged conducting sphere?**
+No. The charge sits on the surface and the field inside is zero. Outside, the field is radial, like that of a point charge at the centre.
+
+**What do the dot and cross symbols mean in magnetic field diagrams?**
+A dot (⊙) means a current or field out of the page and a cross (⊗) means into the page. Current into the page gives clockwise field circles.
+
 ## Official syllabus
 
 These notes follow the IB *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization, sub-topic D.2.

@@ -226,6 +226,20 @@ From the table above: P(plays hockey given plays netball) = 5/12, because 5 of t
 
 Test yourself with the [practice questions](/resources/ocr-gcse-mathematics-sample-spaces-systematic-listing-product-rule-venn-practice/), and return to the [study guide](/resources/ocr-gcse-mathematics-sample-spaces-systematic-listing-product-rule-venn/) for anything unclear.
 
+## Frequently asked questions
+
+**Do you need union and intersection symbols for OCR GCSE Maths?**
+No. The OCR GCSE Mathematics J560 specification says knowledge of the intersection, union and complement symbols is not required, so describe Venn diagram regions in words.
+
+**What does set-builder notation such as {x | 1 < x < 3} mean?**
+It means the set of all x such that x is greater than 1 and less than 3; the bar stands for "such that". Always state what type of number x is, because if x is an integer this set is just {2}.
+
+**Why are HT and TH counted as different outcomes?**
+When two coins are flipped, a head on the first and a tail on the second is a different result from a tail then a head. Treating them as one outcome gives the wrong sample space of 3 instead of 4.
+
+**What is the product rule for counting?**
+Multiply the number of options at each stage to find the total number of outcomes. For example, 3 starters, 4 mains and 2 drinks give 3 × 4 × 2 = 24 meals; the product rule is Higher tier only.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), first assessment 2017, published by OCR.

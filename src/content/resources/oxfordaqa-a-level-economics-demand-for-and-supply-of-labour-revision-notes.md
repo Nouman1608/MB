@@ -210,6 +210,23 @@ At a daily wage of 40, the third baker adds 54 and costs 40, but the fourth adds
 - Treating supply of labour as only about pay, leaving out non-monetary factors.
 - Giving a one-sided answer to an evaluation question, with no judgement about time period or the market in question.
 
+## Frequently asked questions
+
+**What is derived demand for labour?**
+Derived demand means the demand for workers comes from customers' demand for the output they produce. If demand for the product rises, firms need more workers.
+
+**How do you calculate marginal revenue product?**
+Marginal revenue product equals marginal physical product times marginal revenue. For a price taker in its product market, marginal revenue equals the price, so MRP is MPP times price.
+
+**What determines the elasticity of demand for labour?**
+Demand for labour is more elastic when labour is a large share of total costs, substitutes such as machines are easy to find, the product has elastic demand, and more time has passed since the wage change.
+
+**What is the difference between monetary and non-monetary factors in labour supply?**
+Monetary factors are the wage, overtime, bonuses, pension and other pay-related benefits. Non-monetary factors include hours, conditions, job security, status, satisfaction, location, training and promotion prospects.
+
+**Is the backward-bending labour supply curve in the OxfordAQA 9640 specification for this topic?**
+No. For sections 3.3.4.1 and 3.3.4.2 of the OxfordAQA 9640 specification, individual choices about hours and the backward-bending supply curve are outside the specification; the focus is supply to a whole occupation.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, first teaching September 2020, published by OxfordAQA. See sections 3.3.4.1 and 3.3.4.2, and the quantitative skills in section 3.5.

@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "external-influences-facing-businesses-ocr-alevel-business"
-description: "Markets, market forces and competition, the global context, and political, economic, social, technological, ethical, legal and environmental factors -- the full content of External Influences Facing Businesses for OCR A Level Business (H431)."
+description: "Study guide to External influences for OCR A Level Business H431: markets, competition, market dominance, the global context and PESTLE factors in case studies."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **External influences** — the name the
@@ -159,6 +159,23 @@ rather than as separate blocks, since real exam scenarios typically
 combine a market-structure question with an external-influence
 context in the same case study.
 
+## Frequently asked questions
+
+**Is a large firm the same as a dominant firm?**
+No. Market dominance is about decision-making power over price and output relative to competitors, not size alone, so a large firm facing low barriers to entry or exit may have little real dominance.
+
+**What is the difference between ethical and legal factors?**
+Law is compulsory and enforceable, while ethics is a business choice beyond the legal requirement. The specification requires you to distinguish the two.
+
+**Is globalisation always good for a business?**
+No. The specification requires evaluation of both opportunities and threats, including greater exposure to competition, currency movements and international market shocks the more global a business becomes.
+
+**Which market structures are named in OCR A Level Business H431?**
+Monopolistic competition, oligopoly and monopoly. Each is linked to a business's decision-making power and to barriers to entry and exit.
+
+**How should PESTLE factors be used in an answer?**
+Apply a named factor to the named business and trace its effect on costs, revenue or strategy, linking factors where they interact. Listing PESTLE categories generically earns far fewer marks.
+
 ## Related resources
 
 [External Influences Facing Businesses revision notes](/resources/ocr-a-level-business-external-influences-revision-notes/) |
@@ -166,7 +183,7 @@ context in the same case study.
 
 ## Official syllabus
 
-OCR, *Cambridge OCR Level 3 Advanced GCE in Business (H431) Specification*,
+OCR, *OCR Level 3 Advanced GCE in Business (H431) Specification*,
 Version 2.1 (January 2026), External influences,
 https://www.ocr.org.uk/Images/170837-specification-accredited-a-level-gce-business-h431.pdf,
 fetched and verified in full 2026-09-06.

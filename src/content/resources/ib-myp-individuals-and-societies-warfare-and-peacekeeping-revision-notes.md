@@ -194,6 +194,20 @@ For how criteria and tasks fit together, see the [assessment revision notes](/re
 - Evaluating a source with generic "it may be biased" comments instead of linking bias to its origin and purpose.
 - Dividing by the final value, not the starting value, when calculating percentage change in data tasks.
 
+## Frequently asked questions
+
+**What is the difference between a cause and a trigger of a war?**
+Long-term and short-term causes make war more likely over years or months, while the trigger is the event that starts the fighting. The assassination of Archduke Franz Ferdinand on 28 June 1914 triggered the First World War, but alliances, rivalries and nationalism explain why it became a general war.
+
+**How many members does the UN Security Council have?**
+The Security Council has 15 members: five permanent members with a veto (China, France, Russia, the United Kingdom and the United States) and ten members elected for two-year terms. The veto means the UN cannot act against a permanent member or its close allies.
+
+**What is a proxy war?**
+A proxy war is one in which outside powers back opposing sides instead of fighting each other directly. The Vietnam War is a standard example, and it can also be classed as a civil war and, for the Viet Cong, a guerrilla war.
+
+**How is warfare and peacekeeping assessed in IB MYP Individuals and Societies?**
+The on-screen examination has three tasks: Investigating (26 marks, criteria A and B), Communicating (18 marks, criteria A and C) and Thinking critically (36 marks, criteria A, C and D). Each criterion has eight achievement levels in four bands.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Individuals and societies*, from 2014. The brief lists "warfare and peacekeeping" among the topics explored in the on-screen examinations; the cases and dates here are standard examples chosen for revision.

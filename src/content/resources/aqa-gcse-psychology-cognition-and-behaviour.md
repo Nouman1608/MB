@@ -12,6 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "paper-1-cognition-and-behaviour-8182"
+  - qualification: "gcse"
+    topic: "paper-1-cognition-and-behaviour-8182"
+    subtopic: "memory-8182"
+  - qualification: "gcse"
+    topic: "paper-1-cognition-and-behaviour-8182"
+    subtopic: "perception-8182"
+  - qualification: "gcse"
+    topic: "paper-1-cognition-and-behaviour-8182"
+    subtopic: "development-8182"
 description: "Memory, perception, development, and research methods -- the full content of Paper 1 Cognition and Behaviour for AQA GCSE Psychology (8182)."
 author: "marlbridge-academic-team"
 specCheck:
@@ -127,6 +136,10 @@ Information passes from sensory to short-term through **attention**, and to long
 
 Forgetting is explained by **interference** — proactive, where old learning disrupts new, and retroactive, where new disrupts old — and by **retrieval failure**, where cues present at encoding are absent at recall.
 
+**Murdock's serial position curve study (1962).** Participants heard lists of words read aloud and recalled them in any order. Words at the **start** of the list (primacy effect) and the **end** (recency effect) were recalled best, and words in the middle worst. The primacy effect is explained by early words being rehearsed into long-term memory, the recency effect by the last words still being in short-term memory — support for separate stores in the multi-store model.
+
+**Memory as an active process.** Bartlett's **Theory of Reconstructive Memory** argues that recall is rebuilt each time from stored fragments and **schemas**, with **effort after meaning**: we try to make unfamiliar material fit what we already know. In the **War of the Ghosts** study (1932), English participants read an unfamiliar Native American folk tale and reproduced it several times. Their versions became shorter, unfamiliar details were left out or changed into familiar ones, and the story was made more coherent with their own culture. Factors affecting the accuracy of memory include **interference**, **context** (recall is better when the context at retrieval matches that at encoding) and **false memories**, where a person recalls events that did not happen or did not happen in that way.
+
 ## Perception
 
 Sensation is the raw data the senses receive; **perception** is the brain's interpretation of it. The two can differ, which is what visual illusions demonstrate.
@@ -135,15 +148,31 @@ Sensation is the raw data the senses receive; **perception** is the brain's inte
 
 **Gregory's constructivist theory** argues perception is top-down: the brain makes inferences using prior knowledge and expectation, which is why illusions such as the Ponzo and Müller-Lyer figures deceive us — the brain misapplies depth cues.
 
-Factors affecting perception include culture, motivation, emotion and expectation, illustrated by perceptual set.
+**Depth cues.** Monocular cues work with one eye: **height in plane** (objects higher in the visual field look further away), **relative size** (smaller objects look further away), **occlusion** (an object partly covering another looks nearer) and **linear perspective** (parallel lines appear to converge with distance). Binocular cues need both eyes: **retinal disparity** (each eye receives a slightly different image, and the difference is greater for nearer objects) and **convergence** (the eyes turn inwards more to focus on near objects).
 
-## Development and research methods
+**Visual illusions** are explained by **ambiguity** (Rubin's vase, the Necker cube — one image, two interpretations), **misinterpreted depth cues** (the Ponzo illusion, the Müller-Lyer illusion, the Ames Room), **fiction** (the Kanizsa triangle — the brain supplies an edge that is not there) and **size constancy** (we assume an object stays the same size, so when depth cues suggest one object is further away it is perceived as larger).
+
+**Factors affecting perception** are **perceptual set** — a readiness to perceive things in a certain way — shaped by culture, motivation, emotion and expectation. In the **Gilchrist and Nesberg study** of motivation (1952), participants who had gone without food for longer rated pictures of food as brighter than participants who had eaten, showing hunger affects perception. In the **Bruner and Minturn study** of perceptual set (1955), an ambiguous figure was seen as the letter "B" by participants shown it among letters, and as the number "13" by those shown it among numbers — expectation from context shaped what was perceived.
+
+## Development
+
+**Early brain development.** The brain develops from simple neural structures in the womb. The **brain stem** develops first and controls autonomic functions such as breathing and heart rate; the **thalamus** relays sensory information; the **cerebellum** co-ordinates movement and balance; and the **cortex**, developing last and continuing to mature into adolescence, supports cognition such as thinking and language. Nature provides the genetic blueprint for this sequence, while nurture (nutrition, stimulation and experience) affects how connections between neurons form.
 
 Piaget proposed development in four stages — sensorimotor, pre-operational, concrete operational and formal operational — with **schemas** modified through assimilation and accommodation. Key concepts include egocentrism and conservation. Later research suggested Piaget underestimated young children: **McGarrigle and Donaldson's 'naughty teddy' study** found more young children could conserve number when the change was made "accidentally" by a teddy, and **Hughes' 'policeman doll' study** found young children could take another's point of view in a task that made sense to them — evidence that egocentricity reduces earlier than Piaget claimed. In education, Piaget's theory implies matching tasks to a child's stage and letting children learn through discovery.
 
 **Dweck's Mindset Theory** distinguishes a **fixed mindset** (ability is unchangeable) from a **growth mindset** (ability develops through effort); praising effort rather than ability, and building self-efficacy beliefs, encourages a growth mindset. **Learning styles** theory classifies learners as, for example, **verbalisers** or **visualisers**; **Willingham's Learning Theory** criticises learning styles, arguing there is little evidence that matching teaching to a preferred style improves learning.
 
-Research methods run through the whole subject. Know experiments (laboratory, field, natural), observations, self-report through questionnaires and interviews, and correlation — and remember that correlation never establishes cause.
+## Research methods
+
+Research methods run through the whole subject. Know experiments (laboratory, field, natural), observations, self-report through questionnaires and interviews, case studies and correlation — and remember that correlation never establishes cause.
+
+- **Hypotheses:** the **alternative hypothesis** predicts a difference or relationship; the **null hypothesis** predicts none. Both must be testable, with the variables operationalised.
+- **Variables:** the **independent variable** is manipulated, the **dependent variable** is measured, and **extraneous variables** are other factors that could affect the dependent variable and need controlling.
+- **Sampling methods:** **random** (every member of the target population has an equal chance), **opportunity** (whoever is available), **systematic** (every nth person from a list) and **stratified** (subgroups sampled in proportion to the population).
+- **Experimental designs:** **independent groups**, **repeated measures** (with counterbalancing for order effects) and **matched pairs**.
+- **Observations** use **categories of behaviour** so that observers record the same things, and **interobserver reliability** is checked by comparing two observers' records.
+- **Data handling:** quantitative and qualitative data; primary and secondary data; descriptive statistics (**mean, median, mode, range**); tables, bar charts, histograms and scatter diagrams; and the **normal distribution**, a symmetrical bell-shaped curve in which mean, median and mode are the same.
+
 
 Ethical requirements follow British Psychological Society guidelines, which set out issues including **informed consent, protection from harm, right to withdraw, confidentiality and debriefing** -- and how to deal with each of them. **Deception** is not an outright ban: it is permissible where scientifically justified and unavoidable, provided participants are fully debriefed, told the true nature of the study, and given the chance to withdraw their data -- an issue to be **managed**, not one that rules out a study altogether.
 
@@ -178,3 +207,17 @@ Confusing sensation with perception. Mixing up proactive and retroactive interfe
 - Explain Dweck's Mindset Theory and Willingham's criticism of learning styles.
 - Name Murdock's, Bartlett's, Gilchrist and Nesberg's, and Bruner and Minturn's studies and what each shows.
 - Identify research methods, evaluate them, and apply ethical guidelines.
+
+## Frequently asked questions
+
+**How is AQA GCSE Psychology 8182 Paper 1 assessed?**
+Paper 1, Cognition and Behaviour, is one of two equally weighted written papers, and there is no coursework. It covers memory, perception, development and research methods.
+
+**What is the difference between Gibson's and Gregory's theories of perception?**
+Gibson's direct theory is bottom-up and says the visual array contains enough information to perceive accurately. Gregory's constructivist theory is top-down and says the brain makes inferences using prior knowledge and expectation.
+
+**What did Murdock's serial position curve study show?**
+Words at the start of a list (the primacy effect) and at the end (the recency effect) were recalled best, and words in the middle were recalled worst.
+
+**How is research methods assessed in AQA GCSE Psychology Paper 1?**
+Research methods is assessed as its own 25-mark section of Paper 1, and research methods questions are also built into the memory, perception and development sections.

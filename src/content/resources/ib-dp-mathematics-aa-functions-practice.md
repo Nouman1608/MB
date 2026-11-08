@@ -12,13 +12,13 @@ order: 5
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-mathematics-analysis-and-approaches-functions"
-description: "Original practice questions with full worked answers on domain and range, composite and inverse functions, transformations, and equations combining exponentials and logarithms, for the Functions strand of IB Diploma Programme Mathematics: Analysis and Approaches."
+description: "Original practice questions with worked answers on domain, range, composite and inverse functions, transformations and log equations for IB DP Maths AA."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -107,6 +107,20 @@ restriction is given alongside the algebraic rule. Building this habit -- statin
 justifying rejected solutions explicitly, rather than only writing down a final numerical answer -- is
 worth practising across every Functions question, not just the ones where a restriction happens to be
 the main point being tested.
+
+## Frequently asked questions
+
+**Is f(g(x)) the same as g(f(x))?**
+Not in general. f(g(x)) means apply g first and then f, so the order matters and the two composites usually give different results.
+
+**When does a function have an inverse?**
+A function has an inverse only if it is one-to-one over the given domain. Check this before swapping x and y, rather than finding an inverse mechanically.
+
+**Which way does f(x − a) move a graph?**
+y = f(x − a) is a horizontal translation by a, so a positive a moves the graph right. Horizontal transformations are often applied in the wrong direction, as are stretches: f(kx) is a horizontal stretch with scale factor 1/k.
+
+**Why do log equations sometimes have solutions you must reject?**
+A logarithm is only defined for positive arguments, so any solution that makes an argument zero or negative must be rejected. In IB DP Mathematics: Analysis and Approaches, the reason for rejecting it should be shown.
 
 ## Official syllabus
 

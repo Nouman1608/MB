@@ -224,6 +224,23 @@ In the guide, part (b) of Paper 1 carries 15 marks including evaluation, and par
 - Mixing up adverse selection (before the deal, hidden quality or risk) and moral hazard (after the deal, hidden behaviour).
 - Describing a signal as something the buyer does. The informed party signals; the uninformed party screens.
 
+## Frequently asked questions
+
+**What is the free rider problem?**
+A free rider uses a good and pays nothing towards it. Because a public good is non-excludable, each consumer can expect it to be there whether or not they pay, so voluntary payments fall short and the market under-provides the good.
+
+**How do governments provide public goods?**
+The IB guide names direct provision, where the government funds the good from taxes and supplies it itself, and contracting out, where the government funds the good but a private firm builds or runs it after a tender.
+
+**What are the drawbacks of contracting out public goods?**
+Writing, monitoring and enforcing the contract costs money, and a winning firm may cut quality to protect its margin, especially where quality is hard to specify.
+
+**How can governments respond to asymmetric information?**
+Through legislation and regulation, such as requiring sellers to disclose known defects, setting minimum standards and licensing professionals, and through providing information, such as publishing inspection results or safety ratings. This is HL only.
+
+**Do free riders not value the good?**
+They do value it. Free riders benefit from the good but choose not to pay, because they cannot be excluded.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization, February 2020. Sub-topics 2.9 and 2.10 (HL only) of Unit 2: Microeconomics.

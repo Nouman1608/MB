@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "forces-and-motion-ocr-alevel"
     subtopic: "newtons-laws-of-motion-and-momentum"
-description: "Original worked practice questions on momentum, impulse, force-time graphs and 1D and 2D collisions for OCR A Level Physics A (H556)."
+description: "Original worked practice questions on Newton's laws, momentum, impulse, force-time graphs and 1D and 2D collisions for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false
@@ -160,6 +160,20 @@ These questions cover OCR A Level Physics A (H556), sections 3.5.1 and 3.5.2 (sp
 - Stating a direction with no reference line or axis.
 - In 2D, conserving momentum in only one direction.
 - Forgetting that the force from a surface during impact includes the weight term.
+
+## Frequently asked questions
+
+**What are the most common mistakes in momentum questions?**
+Common errors are subtracting speeds when the velocity reverses instead of adding the magnitudes, leaving milliseconds unconverted, and treating weight and the table's push as a third-law pair. Using F = ma when mass flows onto or off a surface also loses marks.
+
+**How do you show whether a collision is elastic?**
+Calculate the total kinetic energy before and after the collision and compare them. Claiming a collision is elastic or inelastic without comparing the kinetic energies does not earn the marks.
+
+**How do you solve a two-dimensional collision?**
+Resolve every velocity along two perpendicular axes and apply conservation of momentum separately along each axis. Conserving momentum in only one direction is a common error.
+
+**How should you state the direction of a momentum or velocity answer?**
+Give the direction relative to a stated reference line or axis, for example an angle below the x-axis or "away from the wall". A direction with no reference is incomplete.
 
 ## Next steps
 

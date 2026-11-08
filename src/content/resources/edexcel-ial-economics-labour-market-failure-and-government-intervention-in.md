@@ -246,6 +246,20 @@ Evaluation: laws are hard to enforce, firms may hide discrimination, and complia
 - Forgetting that taxes on firms and workers shift different curves.
 - Listing policies without judging their cost, time lag or size of effect.
 
+## Frequently asked questions
+
+**Why does a large regional pay gap not always cause workers to move?**
+Moving has costs, such as higher housing costs, removal costs, and family and community ties, which can cut the gain from a higher wage by more than half and stretch the payback period.
+
+**What is the signature of occupational immobility?**
+Vacancies and unemployment existing together: workers from a declining industry cannot fill the jobs available in growing sectors without retraining.
+
+**Why do firms under-invest in training?**
+Training has positive externalities, and firms fear that workers they train will leave for rivals, so they provide less training than is best for the economy.
+
+**Which Edexcel International A Level Economics items cover labour market failure?**
+Item 4 of 3.3.4 covers geographical and occupational immobility, and item 2 of 3.3.5 covers government intervention in labour markets, in Unit 3 of the Pearson Edexcel International A Level Economics specification.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (YEC11), Issue 2, June 2018, first teaching September 2018, Unit 3: 3.3.4 item 4 and 3.3.5 item 2. Published by Pearson Education Limited.

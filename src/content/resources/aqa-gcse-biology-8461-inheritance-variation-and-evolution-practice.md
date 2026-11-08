@@ -27,11 +27,11 @@ syllabusTopics:
     subtopic: "classification-of-living-organisms-aqa-gcse-biology"
 description: "Twelve original AQA GCSE Biology 8461 questions on meiosis, DNA, Punnett squares, natural selection, GM, cloning and Darwin, with worked answers."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -177,6 +177,20 @@ Learn the content first in the [study guide](/resources/aqa-gcse-biology-8461-in
 - Track coverage with the [printable checklist](/checklists/aqa/gcse/biology/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Which topic of AQA GCSE Biology 8461 do these questions cover?**
+They cover topic 6, Inheritance, variation and evolution, including meiosis, DNA, genetic crosses, natural selection, genetic engineering, cloning and Darwin.
+
+**What should a Punnett square answer include?**
+Show the parents' genotypes and their gametes as well as the square. Punnett squares drawn without these lose marks.
+
+**How should you give a probability from a cross?**
+Write it as a fraction, decimal or percentage as asked, not as a ratio, and simplify ratios when a ratio is asked for.
+
+**What must a selective breeding answer include?**
+Say that breeding and selection are repeated over many generations. Leaving out "many generations" is a common error.
 
 ## Official syllabus
 

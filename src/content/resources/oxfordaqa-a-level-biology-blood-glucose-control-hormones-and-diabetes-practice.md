@@ -173,6 +173,20 @@ Links: the [study guide](/resources/oxfordaqa-a-level-biology-blood-glucose-cont
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What words should you use when describing what insulin and glucagon do?**
+Say that insulin and glucagon activate enzymes, rather than that the hormones convert glucose or glycogen themselves. Saying they "convert" substances is a common way to lose marks.
+
+**How do you explain why glucose appears in the urine in diabetes?**
+The kidney tubules cannot reabsorb all the filtered glucose because the carrier proteins become saturated. Dissolved glucose keeps water in the tubule, so less water is reabsorbed and urine volume rises; "he has diabetes" just repeats the question.
+
+**How do you evaluate risk-factor data for diabetes?**
+Describe the correlation with figures, say it does not prove cause, and consider confounding variables, sample size and whether a plausible mechanism exists. Reach a judgement based on these reasons rather than listing criticisms.
+
+**How do you write a compare answer on the two types of diabetes?**
+Set the two types side by side in each point, for example cause, risk factors and control. Two separate descriptions leave the comparing to the reader.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Biology (9610)*, Version 5.1, for International A-level exams May/June 2018 onwards: section 3.4.7, Hormones and the control of blood glucose concentration.

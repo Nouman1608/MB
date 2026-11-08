@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "forces-ocr-gcse"
-description: "Original exam-style practice questions with full worked answers on motion, Newton's laws and forces in action for OCR GCSE (9-1) Physics A Gateway Science (J249), Topic P2 Forces."
+description: "Original exam-style questions with worked answers on motion, Newton's laws and forces in action for OCR GCSE Physics A (J249), Topic P2 Forces."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-04
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -214,3 +214,20 @@ D) There is no resultant force, since the speed is constant **[1]**
 ## Approaching forces questions
 
 For any velocity-time graph question, split the graph into separate geometric shapes and calculate the area of each individually before summing them, rather than attempting to estimate the total area in one step — this reliable technique works whether the graph shows constant acceleration, constant velocity, or a mixture of both. For any question involving balanced or terminal-velocity forces, explicitly state that the forces are present and equal in size rather than absent, since this is the specific misconception the specification flags and examiners routinely test. For moments and Hooke's law calculations, always confirm the distance used is the perpendicular distance from the pivot (not the straight-line distance to a point of application at an angle), and practise rearranging each formula for every variable rather than only the form given in the specification, since exam questions frequently ask for the "wrong" variable. For momentum-conservation questions, always write the total momentum before and the total momentum after as separate sums before equating them, including a zero term explicitly for any object that starts at rest, since omitting a zero-velocity object's mass from the total is a common source of an otherwise fully correct method losing marks.
+
+## Frequently asked questions
+
+**How are OCR GCSE Physics A papers structured?**
+Each OCR GCSE (9-1) Physics A (J249) paper opens with Section A, 15 multiple-choice questions worth 15 marks, followed by Section B of short-answer and extended questions. This set uses that weighting but draws every question from Topic P2 Forces only.
+
+**How should I find a distance from a velocity-time graph?**
+Split the area under the graph into separate shapes, such as triangles and rectangles, work out each area and add them. Estimating the whole area in one step is a common way to lose marks.
+
+**What should I write about forces on an object at terminal velocity or at rest?**
+State that the forces are present and equal in size, so the resultant force is zero. Saying there are no forces acting is a misconception that loses marks.
+
+**How do I avoid losing method marks in momentum questions?**
+Write the total momentum before and the total momentum after as separate sums, then equate them. Include a zero term for any object that starts at rest so its mass is not left out of the total.
+
+**What distance do I use in a moments calculation?**
+Use the perpendicular distance from the pivot to the line of action of the force, not the straight-line distance to where the force is applied.

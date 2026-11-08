@@ -149,6 +149,20 @@ These questions cover part of section 8.1.1 and all of 8.1.2 of the Cambridge In
 - Take the [free diagnostics](/diagnostics/).
 - Or book a [free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 market failure policy questions from past papers?**
+No. They are original practice questions with worked answers covering part of section 8.1.1 and all of 8.1.2 of the Cambridge International AS & A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**What are common mistakes in pollution permit calculations?**
+Common errors include calculating costs without showing the cut made by each firm, and setting the permit price without reference to the marginal cutter. Show each firm's cut so your method is visible.
+
+**What is the difference between a percentage change and a percentage-point change?**
+A percentage-point change is the simple difference between two percentages, while a percentage change divides that difference by the starting value. Confusing the two is a frequent slip in default-option and nudge questions.
+
+**Is privatisation a cure for monopoly?**
+Not on its own. Treating privatisation as a cure without discussing market structure loses marks, because competition and market structure matter at least as much as who owns the firm.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, Cambridge University Press & Assessment. Sections covered: 8.1.1 (pollution permits, property rights, nationalisation and privatisation, provision of information, behavioural insights and nudge theory) and 8.1.2.

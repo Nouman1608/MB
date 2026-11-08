@@ -14,12 +14,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-price-system-and-the-microeconomy-as-cambridge-alevel-economics"
 seoTitle: "Cambridge 9708 Economics Topic 2: Price System (2026–2028)"
-description: "Demand and supply curves, price/income/cross elasticity, market equilibrium, and consumer and producer surplus -- a syllabus map and study guide for Topic 2 of Cambridge AS & A Level Economics 9708, 2026-2028 series."
+description: "Study guide to Cambridge 9708 Topic 2: demand and supply, PED, YED, XED and PES, market equilibrium, functions of price, and consumer and producer surplus."
 seoDescription: "Cambridge AS & A Level Economics (9708) Topic 2 study guide: demand and supply, elasticity, market equilibrium, and consumer/producer surplus explained."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-01
 featured: false
 ---
@@ -217,6 +217,23 @@ and shaded consumer/producer surplus areas — since Paper 2 rewards diagrammati
 as written explanation (AO1 explicitly credits "written, numerical and diagrammatic forms"). Work
 through calculation questions for all four elasticity measures until the formulae and sign
 interpretation are automatic, since this is one of the most heavily tested numerical skills at AS Level.
+
+## Frequently asked questions
+
+**What does the sign of income and cross elasticity of demand tell you?**
+For YED, a positive value means a normal good and a negative value an inferior good. For XED, a positive value means substitutes and a negative value means complements.
+
+**Why does PED vary along a straight-line demand curve?**
+Elasticity measures proportionate changes, not slope. Demand is most elastic near the top left of a straight-line curve and becomes more inelastic moving down and to the right.
+
+**What are the three functions of price in Cambridge 9708 Economics?**
+Price rations scarce goods among those willing to pay, signals to producers where consumer preferences lie, and gives producers an incentive to respond.
+
+**What is the difference between joint demand and derived demand?**
+Joint demand is for goods bought together, like printers and ink. Derived demand exists because of demand for another good, like steel because of demand for cars.
+
+**What factors affect price elasticity of supply?**
+Spare capacity, the time allowed for producers to respond, and how easily inputs and stocks can be adjusted. Supply is more elastic when firms can expand output quickly.
 
 ## Related resources
 

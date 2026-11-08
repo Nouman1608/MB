@@ -13,7 +13,7 @@ order: 15
 syllabusTopics:
   - qualification: "a-level"
     topic: "n-statistical-distributions-aqa-alevel-maths"
-description: "Revision notes for AQA A-Level Maths 7357 Section N: binomial and Normal facts, calculator methods, model choice and a quick self-test."
+description: "Revision notes for AQA A-level Maths 7357 Section N: binomial and Normal distribution facts, calculator methods, choosing a model and a quick self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-06
 featured: false
@@ -239,13 +239,27 @@ weekday and weekend customers" beats "p might not be constant".
 
 - Entering the variance instead of the standard deviation into the Normal function.
 - Writing a probability with no distribution or statement, so a slip cannot earn method credit.
-- Using 1 − P(X ≤ 4) for P(X > 4) in a binomial.
+- Using 1 − P(X ≤ 4) for P(X ≥ 4) in a binomial (it should be 1 − P(X ≤ 3)).
 - Listing binomial conditions without linking them to the context.
 - Taking the wrong tail with inverse Normal, giving a value on the wrong side of the mean.
 - Rounding z to 2 decimal places, then multiplying by a large σ.
 - Solving for two unknowns with one equation copied wrongly from the sketch (sign of z wrong).
 - Saying a Normal model "fits" without checking for impossible negative values or skew.
 - Calculating a mean or variance of a general discrete table, which N1 excludes.
+
+## Frequently asked questions
+
+**Where are the points of inflection on a Normal curve?**
+They are at x = μ − σ and x = μ + σ. If you are given both points, the mean is their midpoint and the standard deviation is half the distance between them.
+
+**Is P(X < 5) the same as P(X ≤ 5)?**
+For a discrete distribution such as the binomial, they are different. For a continuous distribution such as the Normal, they are equal.
+
+**How do you find an unknown mean or standard deviation of a Normal distribution?**
+Turn the given probability into a less-than probability, use the inverse Normal on N(0, 1) to find z, and set (x − μ)/σ = z. Two unknowns need two such equations.
+
+**Do you need to calculate the mean and variance of a discrete random variable for AQA 7357?**
+No. Content N1 excludes calculating the mean and variance of a general discrete random variable.
 
 ## Official syllabus
 

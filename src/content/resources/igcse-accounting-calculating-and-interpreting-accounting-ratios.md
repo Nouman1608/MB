@@ -285,6 +285,23 @@ Other reasons include capital introduced, drawings, irrecoverable debts and expe
 - Using total revenue for receivables days when credit sales are given.
 - Stating a change with no reason from the scenario.
 
+## Frequently asked questions
+
+**How is average inventory calculated for Cambridge IGCSE Accounting 0452 ratios?**
+Average inventory is opening inventory plus closing inventory, divided by 2. Both the rate of inventory turnover and inventory turnover in days use it, so using closing inventory alone is an error.
+
+**How do you find credit sales if a question gives total revenue and cash sales?**
+Subtract cash sales from total revenue to find credit sales, and do the same for purchases. Trade receivables and trade payables turnover in days use the credit figures.
+
+**Why is mark-up always higher than gross profit margin?**
+Both ratios use the same gross profit, but mark-up divides by cost of sales and margin divides by revenue. Cost of sales is smaller than revenue, so mark-up is the larger percentage.
+
+**How should you write a comment on a ratio?**
+Write it in three parts: the ratio with both years' figures, the reason from the scenario, and what it means for the business. For example, a rise in trade receivables days above the credit period allowed means customers are paying late.
+
+**Why can a business make a profit but have less cash in the bank?**
+Profit and cash differ because of items such as depreciation, buying non-current assets, loan repayments, changes in inventory, receivables and payables, and drawings or dividends. A profitable business can therefore see its bank balance fall.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting syllabus (0452, version 1) for exams in 2027, 2028 and 2029, published by Cambridge University Press & Assessment: sections 6.1 and 6.2 and the Accounting ratios list at the end of the topic.

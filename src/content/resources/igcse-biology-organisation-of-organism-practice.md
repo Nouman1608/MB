@@ -16,14 +16,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "organisation-of-the-organism-cambridge-igcse-biology"
     subtopic: "size-of-specimens-cambridge-igcse-biology"
-description: "Exam-style questions with full worked answers on plant, animal and bacterial cell structure, specialised cells, the organisation hierarchy, and magnification calculations, for Cambridge IGCSE Biology (0610) Topic 2."
+description: "Exam-style questions with worked answers on plant, animal and bacterial cells, specialised cells and magnification for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 > These are original practice questions written in the style of Cambridge IGCSE
@@ -174,3 +174,17 @@ the sequence. For magnification questions, get into the habit of
 writing out the formula and checking both units match before you
 substitute numbers, since a fully correct method with a units error
 still loses the accuracy mark.
+
+## Frequently asked questions
+
+**How should you answer a question comparing plant, animal and bacterial cells?**
+Make direct comparisons that state what one cell type has and another lacks, rather than writing three separate lists of features. Isolated descriptions are the quickest way to lose easy marks on this topic.
+
+**How do you avoid unit errors in magnification calculations?**
+Write out the formula before substituting numbers and check that the image size and actual size are in the same units. A correct method with a units mismatch still loses the accuracy mark.
+
+**Is unit conversion between millimetres and micrometres Core or Supplement?**
+Calculating magnification using millimetres is Core. Converting between millimetres and micrometres is Supplement content in Cambridge IGCSE Biology 0610.
+
+**How do you answer questions on the organisation hierarchy?**
+Match each term to the example in the question rather than only reciting cell, tissue, organ, organ system and organism in order. The marks usually go to applying the terms correctly.

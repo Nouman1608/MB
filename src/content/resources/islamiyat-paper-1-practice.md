@@ -12,11 +12,23 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-0493"
-description: "Original practice paper in the Cambridge IGCSE Islamiyat 0493 Paper 1 format: Question 1 on set Qur'an passages in Arabic and English, then two-part questions on the revelation of the Qur'an, the Prophet's life and his wives, with levels-based mark guidance."
+  - qualification: "igcse"
+    topic: "paper-1-0493"
+    subtopic: "major-themes-quran-0493"
+  - qualification: "igcse"
+    topic: "paper-1-0493"
+    subtopic: "history-importance-quran-0493"
+  - qualification: "igcse"
+    topic: "paper-1-0493"
+    subtopic: "life-prophet-0493"
+  - qualification: "igcse"
+    topic: "paper-1-0493"
+    subtopic: "first-islamic-community-0493"
+description: "Original practice paper in the Cambridge IGCSE Islamiyat 0493 Paper 1 format: set Qur'an passages, revelation, the Prophet's life and wives, with mark guidance."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -219,3 +231,14 @@ The credit guides below turn this into points you can check your own answer agai
 - Answering a part (b) question with more narrative instead of reasons and your own view.
 - In Question 2, confusing the revelation of the Qur'an (in the Prophet's lifetime) with its compilation (under the Rightly Guided Caliphs).
 - Writing a list of short facts for a 10-mark part: Level 4 needs detailed, well-developed points, supported by quotations where they fit.
+
+## Frequently asked questions
+
+**How is 0493 Paper 1 structured?**
+Paper 1 lasts 1 hour 30 minutes and is worth 50 marks (50%). It has five questions: Questions 1 and 2 are compulsory and you choose two of Questions 3 to 5. Question 1 is worth 8 marks (4 + 4) and each other answered question 14 marks (10 + 4).
+
+**What does Question 1 ask?**
+Choose two of the set Qur'an passages; part (a) explains their main themes and part (b) their importance for Muslims today.
+
+**Are these real Cambridge questions?**
+No. They are original questions in the published format and tariffs.

@@ -15,9 +15,9 @@ syllabusTopics:
     subtopic: "oscillations-edexcel"
 description: "Original exam-style practice questions with full worked answers on simple harmonic motion, energy, damping and resonance for Edexcel IAL Physics."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -113,3 +113,17 @@ Related: [Oscillations revision notes](/resources/edexcel-ial-physics-oscillatio
 - Describing resonance without mentioning the natural frequency.
 - Forgetting that a mass-spring system's resonant frequency can be used experimentally to find an unknown mass, given a known spring constant.
 - Naming only damping as an energy-loss mechanism in a real structure, when plastic deformation of the material itself also dissipates energy.
+
+## Frequently asked questions
+
+**Are these Edexcel IAL oscillations questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official Pearson Edexcel past papers.
+
+**Which part of Edexcel IAL Physics do these questions cover?**
+They cover sub-topic 5.5 Oscillations in Unit 5 (Thermodynamics, Radiation, Oscillations and Cosmology) of the YPH11 specification.
+
+**How are the worked answers marked?**
+Each answer shows its mark points in square brackets, matching the tariff given after the question. Where more than one answer is acceptable, the alternatives are listed.
+
+**Should angular frequency be worked in degrees or radians?**
+Radians. Using degrees instead of radians for ω is one of the most common ways marks are lost in oscillations questions.

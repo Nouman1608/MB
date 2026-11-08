@@ -197,6 +197,20 @@ If the graph uses degrees Celsius, the line does not pass through the origin; it
 - Describing real gases as ideal at high pressure.
 - Reading a P-V diagram as if equal heights meant equal temperatures; temperature depends on PV.
 
+## Frequently asked questions
+
+**Is there extra HL content in IB DP Physics B.3?**
+No. The guide adds nothing extra for Higher Level in B.3, Gas laws, so these notes apply to SL and HL.
+
+**What does v² mean in P = (1/3)ρv²?**
+It is the mean of the squared speeds of the molecules, so the speed it gives is the root mean square speed, not the mean speed.
+
+**Where does the 1/3 in P = (1/3)ρv² come from?**
+Averaging over random directions gives the mean square speed as three times its component in any one direction, because the three directions are equal.
+
+**Why does a gas law graph in degrees Celsius miss the origin?**
+Gas laws are proportional in kelvin. A graph against degrees Celsius is still a straight line, but it cuts the temperature axis at about −273 °C instead of passing through the origin.
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. This page covers section B.3 (Gas laws).

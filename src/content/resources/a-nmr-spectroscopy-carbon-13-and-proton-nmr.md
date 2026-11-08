@@ -19,11 +19,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-analytical-techniques"
     subtopic: "a-proton-1h-nmr-spectroscopy"
-description: "Interpreting carbon-13 and proton NMR spectra to deduce molecular structure, chemical shifts, peak areas, splitting patterns and the n+1 rule, for Cambridge International AS & A Level Chemistry 9701."
+description: "Interpreting carbon-13 and proton NMR spectra: environments, chemical shift, peak areas, the n+1 rule, TMS and D₂O exchange, for Cambridge 9701 Chemistry."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -218,6 +218,20 @@ compound.
   solvent's own ¹H signal
 - O–H/N–H identified by peak disappearing after shaking with D₂O (proton
   exchange)
+
+## Frequently asked questions
+
+**What does each feature of a proton NMR spectrum tell you?**
+The number of peaks gives the number of proton environments, chemical shift identifies the type of environment, relative peak area gives the ratio of protons, and the splitting pattern shows how many protons are on neighbouring carbons.
+
+**What does the proton NMR spectrum of ethanol look like?**
+Ethanol, CH₃CH₂OH, gives a triplet with area 3 for CH₃, a quartet with area 2 for CH₂, and a broad singlet with area 1 for OH. The OH proton is usually not counted in the splitting because proton exchange averages its coupling away.
+
+**Why does propan-2-ol give only two carbon-13 NMR peaks?**
+Its two CH₃ groups are equivalent by symmetry, both attached identically to the central CHOH carbon. So there are only two distinct carbon environments, while propan-1-ol has three.
+
+**Which splitting patterns do you need for Cambridge 9701 Chemistry?**
+At this level splitting is limited to singlet, doublet, triplet, quartet and multiplet. A multiplet covers four or more neighbouring protons or non-equivalent neighbours.
 
 ## Related resources
 

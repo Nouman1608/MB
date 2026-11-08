@@ -247,6 +247,23 @@ Limitations to state in your own words:
 - Quoting a regression line to many more significant figures than the data justify, or rounding a and b early and then predicting.
 - Saying "a high r proves that x causes y".
 
+## Frequently asked questions
+
+**What is the addition rule for probability?**
+P(A ∪ B) = P(A) + P(B) − P(A ∩ B), which gives the probability of A or B or both. For mutually exclusive events the overlap is zero, so P(A ∪ B) = P(A) + P(B).
+
+**How do you use a tree diagram for conditional probability?**
+Multiply along the branches to get each route's probability and add the routes that fit the event. For a conditional probability, divide the probability of the relevant route by the total probability of the condition.
+
+**What is the formula for the product moment correlation coefficient?**
+r = Sxy ÷ √(Sxx Syy), and its value always lies between −1 and 1. Values close to 1 or −1 mean the points lie close to a straight line with positive or negative gradient.
+
+**Does a strong correlation prove that one variable causes the other?**
+No. Correlation is not causation: both variables might depend on a third factor. A high r also does not make extrapolation safe.
+
+**How do you interpret the gradient of a regression line?**
+The gradient b is the change in the predicted value of y for each one-unit increase in x, and should be described in the context and units of the question.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification, Issue 3, April 2019, published by Pearson Education Limited. Unit S1: Statistics 1, sections 3 and 4.

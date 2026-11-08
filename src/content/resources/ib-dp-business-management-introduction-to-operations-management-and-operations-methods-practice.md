@@ -136,6 +136,20 @@ These questions cover sections 5.1 Introduction to operations management and 5.2
 - Try [all free 10-minute diagnostics](/diagnostics/) to find the next topic to revise.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is mass customization?**
+Mass customization uses mass-production techniques and standard components to offer products that each customer can personalize. It differs from batch production, which makes groups of identical items.
+
+**How do you work out cost per unit in batch production?**
+Cost per unit is the variable cost plus the set-up cost divided by the batch size. Leaving out the set-up cost, or not dividing it by the batch size, is a common error.
+
+**What are common mistakes on production method questions?**
+Students often describe a method in general terms without using the case details, give only benefits in an "evaluate" or "justify" question, and forget to subtract the cost of an option in a decision tree. Showing only the final figure in a "calculate" question also means working cannot be credited.
+
+**What depth are operations methods examined at in IB Business Management?**
+In the IB Business management guide, first assessment 2024, the role of operations management (5.1) is set at AO2 and the four operations methods (5.2) at AO3, so you must be ready to evaluate and justify a choice of method.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, International Baccalaureate Organization: Unit 5, sections 5.1 and 5.2.

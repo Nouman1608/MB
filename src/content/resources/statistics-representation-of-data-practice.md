@@ -12,11 +12,11 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "representation-of-data-0479"
-description: "Original practice questions with full worked answers covering frequency tables, bar charts, pie charts, Venn diagrams, box-and-whisker and stem-and-leaf diagrams, for Topic 2 of Cambridge IGCSE Statistics (0479)."
+description: "Original questions with worked answers on two-way tables, pie and bar charts, Venn, box-and-whisker and stem-and-leaf diagrams for IGCSE Statistics 0479."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -93,6 +93,23 @@ revision notes identify Cambridge's AO2 (10-20% of both papers) as specifically 
 of a chosen method, not just naming it. Question 7 in particular is written to require an explicit
 "why a single pie chart fails here" argument, since this is exactly the kind of comparative reasoning
 the revision notes flag as the sub-topic's most exam-relevant skill.
+
+## Frequently asked questions
+
+**Are these IGCSE Statistics 0479 representation of data questions from past papers?**
+No. They are original questions written for revision and do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers.
+
+**How do you answer a "which diagram, and why" question?**
+Name the diagram and give a reason that connects its properties to the specific data or comparison described. Naming a diagram without a reason linked to the data is unlikely to earn full marks.
+
+**Do you need to draw pictograms in Cambridge IGCSE Statistics 0479?**
+No. The 0479 syllabus states that drawing pictograms is not required, although you may still be asked to interpret one.
+
+**Do you need to identify outliers on a box-and-whisker diagram in 0479?**
+No. The 0479 syllabus states that identifying outliers is not required for box-and-whisker diagrams.
+
+**Which diagrams are in Topic 2 of Cambridge IGCSE Statistics 0479?**
+Topic 2 covers frequency and two-way tables, pictograms, simple, sectional, percentage sectional and multiple bar charts, pie charts including comparative pie charts, Venn diagrams, box-and-whisker diagrams and stem-and-leaf diagrams.
 
 ## Official syllabus
 

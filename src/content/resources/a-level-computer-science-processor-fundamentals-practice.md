@@ -7,17 +7,26 @@ topic: "Processor Fundamentals"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9618"]
-syllabusSeries: "2027-2029"
+syllabusSeries: "2026"
 stage: "AS"
 order: 4
 syllabusTopics:
   - qualification: "a-level"
     topic: "processor-fundamentals"
-description: "Original exam-style practice questions with full worked answers on the fetch-execute cycle, assembly language tracing, addressing modes and bit manipulation, for Cambridge AS & A Level Computer Science (9618) Topic 4 Processor Fundamentals."
+  - qualification: "a-level"
+    topic: "processor-fundamentals"
+    subtopic: "cpu-architecture"
+  - qualification: "a-level"
+    topic: "processor-fundamentals"
+    subtopic: "assembly-language"
+  - qualification: "a-level"
+    topic: "processor-fundamentals"
+    subtopic: "bit-manipulation"
+description: "Practice questions with worked answers for Cambridge AS Computer Science 9618 Topic 4: fetch-execute cycle, addressing modes, masking and interrupts."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -134,3 +143,17 @@ operation whose behaviour matches that requirement (AND with 0s to clear, OR wit
 Question 5 rewards the same discipline applied to the fetch-execute cycle: naming the specific
 register at each step, in the correct order, rather than describing the cycle as a single vague
 action. Question 9 shows the same test-a-bit skill in reverse from questions 4 and 7: using AND with a single-bit mask to check a bit's state, rather than to change it, is a distinct but closely related application of the same operation.
+
+## Frequently asked questions
+
+**Which logical operation sets, clears or toggles bits?**
+Use OR with 1s to set bits, AND with 0s to clear bits, and XOR with 1s to toggle bits. Apply the mask bit by bit rather than reasoning about the result in the abstract.
+
+**What is the difference between immediate and direct addressing?**
+In immediate addressing the instruction contains the value itself. In direct addressing the instruction contains the address of the memory location where the value is stored.
+
+**How should you answer a fetch-execute cycle question?**
+Name the specific register at each step in the correct order, such as the program counter, MAR, MDR and CIR, rather than describing the cycle as one vague action.
+
+**What is a common mistake about interrupt priority?**
+The priority of an interrupt is compared with the priority of the current task, not only with other interrupts.

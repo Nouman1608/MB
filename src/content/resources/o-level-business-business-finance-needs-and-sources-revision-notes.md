@@ -245,6 +245,20 @@ Treat the table as a starting point only. A case study often gives a fact that c
 - Forgetting the percentage sign, or working out the wrong base, in a finance calculation.
 - Confusing micro-finance with crowd-funding.
 
+## Frequently asked questions
+
+**What is the difference between debt and equity finance?**
+Debt is borrowed money that must be repaid, usually with interest, and the lender does not become an owner. Equity is money put in by owners, such as share capital, with no set repayment date, and shareholders expect dividends when there is profit.
+
+**Are internal sources of finance free?**
+No. Retained profit costs no interest, but it could have been paid to the owners instead, and selling assets means the business loses them.
+
+**What is the difference between micro-finance and crowd-funding?**
+Micro-finance is very small loans, often to people who cannot get ordinary bank loans. Crowd-funding raises small amounts from a large number of people, usually through a website, who may receive a product, a reward or a share in return.
+
+**Why should an overdraft not be used to buy long-lasting equipment?**
+An overdraft is short-term finance that the bank can ask to be repaid at short notice. A long-term need, such as a machine lasting many years, should be matched with long-term finance.
+
 ## Official syllabus
 
 Cambridge O Level Business Studies 7115 syllabus for examination in 2026, published by Cambridge University Press & Assessment (Cambridge International Education), section 5.1 Business finance: needs and sources.

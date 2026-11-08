@@ -248,6 +248,23 @@ Public goods are non-excludable and non-rival, so private firms cannot profit. T
 - Leaving out units or labels on a numerical answer.
 - Mixing up the price a buyer pays with the price a seller keeps.
 
+## Frequently asked questions
+
+**What is the difference between a specific tax and an ad valorem tax on a diagram?**
+A specific tax is a fixed amount per unit, so it shifts the supply curve parallel. An ad valorem tax is a percentage of the price, so the supply curve pivots.
+
+**When does a maximum or minimum price have an effect?**
+A maximum price only bites when it is set below the equilibrium price, creating a shortage. A minimum price only bites when it is set above the equilibrium price, creating a surplus.
+
+**What is quota rent?**
+Quota rent is the gap between the price buyers pay and the supply price at the quota, and it goes to the quota holders. An equivalent specific tax would give the same price and output, but the revenue would go to the state.
+
+**How should a natural monopoly be regulated?**
+A price cap at average cost gives normal profit and raises output. A cap at marginal cost gives the highest output but leaves the firm with a loss equal to fixed cost, so it needs a subsidy.
+
+**Why does the state provide public goods directly?**
+Public goods are non-excludable and non-rival, so private firms cannot profit from supplying them. The state supplies them and pays for them through taxation.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics (9708), syllabus for examination in 2026, 2027 and 2028, published by Cambridge International, section 8.1.1.

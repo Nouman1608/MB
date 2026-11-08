@@ -34,11 +34,11 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "experimental-techniques-and-chemical-analysis"
     subtopic: "separation-and-purification"
-description: "Original exam-style practice questions with full worked answers on apparatus choice, titration technique, chromatography (including Rf) and separation/purification methods for IGCSE Chemistry."
+description: "Original practice questions with worked answers for Cambridge IGCSE 0620 and O Level 5070: apparatus, titration, chromatography and Rf, separation and purity."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-09-01
 updatedDate: 2026-09-27
 featured: false
@@ -142,3 +142,17 @@ Define **(c)** residue and **(d)** filtrate. **[2]**
 - Adding the indicator to a titration meant for salt preparation and then crystallising with it still present.
 - *(0620 Extended, 5070 required)* Saying colourless substances "can't be chromatographed" — a locating agent reveals their spots after the run.
 - Assuming impurity always lowers a transition temperature — it lowers melting point but raises boiling point.
+
+## Frequently asked questions
+
+**Which practical techniques questions are Extended only in Cambridge IGCSE Chemistry 0620?**
+Colourless substances revealed with a locating agent and the Rf equation (12.3 outcomes 3 and 4) are Supplement content for 0620. Everything else is Core, and O Level 5070 candidates need all of it.
+
+**What is a common mistake when using the Rf formula?**
+Applying it upside down. Rf is always the distance travelled by the substance divided by the distance travelled by the solvent, so a value above 1 means the division is the wrong way round.
+
+**Why should the indicator not be left in when preparing a salt by titration?**
+Crystallising the salt with the indicator still present contaminates the crystals. The indicator run is used only to find the volume, then the titration is repeated without it.
+
+**How should purity be described in a melting point question?**
+State that impurity makes the substance melt over a range of temperatures, below the pure melting point, rather than just saying it has a different melting point.

@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-physics-topic-a"
     subtopic: "ib-dp-physics-a-2"
-description: "Condensed SL/HL recall notes on Newton's laws, contact and field forces, momentum, impulse, collisions and circular motion, for sub-topic A.2 of IB Diploma Programme Physics."
+description: "Condensed recall notes on Newton's laws, forces, momentum, impulse, collisions and circular motion for IB DP Physics A.2, identical at SL and HL."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -55,7 +55,7 @@ p = mv                 (linear momentum)
 J = F(delta t)          (impulse = force x time)
 ```
 
-Momentum is **conserved** unless a resultant external force acts. Impulse **equals** the resulting change in momentum. For a rocket burning fuel, F = ma still applies to the rocket alone provided the thrust from the ejected exhaust is included as an external force; applying Δp/Δt to the rocket's own momentum without accounting for the exhaust's momentum is not a valid shortcut. The general open-system form (F_ext = Δp/Δt for a fixed collection of matter, or a momentum-flux balance for an open system such as the rocket) is only needed when the exhaust's momentum is tracked explicitly.
+Momentum is **conserved** unless a resultant external force acts. Impulse **equals** the resulting change in momentum. For a rocket burning fuel, the rocket alone is not a closed system: the ejected exhaust carries momentum away, so momentum is conserved only for the rocket plus its exhaust.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-physics-forces-momentum-revision-notes--01-bat-ball-impulse.webp" width="900" height="970" alt="A 0.5 kg ball moves toward a bat at 4 m/s and rebounds at 6 m/s, with the rebound direction positive. Momentum goes from minus 2 to plus 3, a change of 5 kg m/s, so over 0.02 s the average force is 250 N. Using 3 minus 2 would wrongly give 50 N." loading="lazy">
@@ -165,6 +165,20 @@ Setting a consistent positive direction before starting, and treating the revers
 5. Give the formula for centripetal acceleration in terms of angular velocity.
 
 **Answers:** 1. F = Δp/Δt. 2. Normal force, friction, tension, elastic restoring force (Hooke's law), viscous drag, and buoyancy — a contact force arising from the pressure difference a fluid exerts on the top and bottom of a submerged object, not a field force. 3. Momentum: yes, always conserved. Kinetic energy: no, only in elastic collisions. 4. Whichever named real force (tension, gravity, friction, normal force) is providing the centre-directed resultant in that specific scenario. 5. a = ω²r.
+
+## Frequently asked questions
+
+**Is buoyancy a field force?**
+No. Buoyancy, Fb = ρVg, is a contact force arising from the pressure difference a fluid exerts on the top and bottom of a submerged object.
+
+**Which field forces are named in IB DP Physics A.2?**
+The named field forces are the gravitational force (weight, Fg = mg), the electric force and the magnetic force.
+
+**Is momentum conserved in every collision?**
+Yes, provided no external resultant force acts. Kinetic energy, by contrast, is conserved only in elastic collisions.
+
+**Why must a positive direction be chosen in impulse questions?**
+A rebounding object reverses its velocity, so it must be treated as negative. Setting a consistent positive direction first avoids the sign error that most often loses marks.
 
 ## Official syllabus
 

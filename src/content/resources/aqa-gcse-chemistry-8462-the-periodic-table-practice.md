@@ -237,6 +237,20 @@ Mendeleev without the role of evidence and isotopes keep the answer out of the t
 - Try one of the [free diagnostics](/diagnostics/) to find your next gap.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you find the period and group of an element from its electronic structure?**
+The number of occupied shells gives the period and the number of outer-shell electrons gives the group. For example, 2,8,8,2 is period 4, Group 2. Reading these the wrong way round is a common error.
+
+**How do you decide whether an element is a metal or a non-metal in AQA GCSE Chemistry 8462?**
+Use the type of ion it forms: metals form positive ions and non-metals do not. Being shiny or a solid is not enough evidence on its own.
+
+**What should you write as an observation when an alkali metal reacts with water?**
+Give what you would see, such as fizzing or bubbles, the metal floating, melting into a ball or moving about. "Hydrogen gas given off" is a conclusion, not an observation.
+
+**How do you predict a value from a trend in a group?**
+Use the pattern in the data and give a value that fits between or beyond the neighbouring values in the right direction. A prediction outside the range set by the data loses the mark.
+
 ## Official syllabus
 
 AQA GCSE Chemistry (8462) specification, Version 1.1 (October 2019), for teaching from September 2016 and exams

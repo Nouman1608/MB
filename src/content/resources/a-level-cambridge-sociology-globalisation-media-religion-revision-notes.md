@@ -13,13 +13,13 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-4-globalisation-media-religion-9699"
-description: "Condensed recall notes on Paper 4's three sections and how to link substantive content back to research methods, for Cambridge International A Level Sociology (9699)."
+description: "Revision notes on Paper 4 of Cambridge International A Level Sociology 9699: globalisation, media and religion, with exam traps and links to research methods."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -90,3 +90,17 @@ Learning this table alongside the fuller content notes gives a fast way to check
 6. Give one weakness of only using textbook examples from decades past.
 
 **Answers:** 1. 2 of the 3. 2. Globalisation; Media; Religion. 3. Media as directly shaping audience attitudes/behaviour, versus audiences actively selecting and interpreting media content. 4. Because there is genuine evidence and counter-evidence on both sides of whether religion's social influence has declined, rather than settled consensus. 5. Linking a substantive claim back to research methods — how a sociologist could actually investigate it, and the method's strengths/limitations. 6. It can make an argument feel disconnected from genuinely engaging with rapidly changing, contemporary social life, which all three sections deal with.
+
+## Frequently asked questions
+
+**How long is Cambridge Sociology 9699 Paper 4 and how many marks is it worth?**
+Paper 4 is an A Level-only paper lasting 1 hour 45 minutes, worth 70 marks and 29% of the full A Level.
+
+**How many sections of Paper 4 do you answer?**
+You answer on 2 of the 3 sections. Study all three to a working level, then revise two in depth, keeping the third ready as a fallback.
+
+**What is the secularisation debate?**
+Secularisation is the question of how far religion's social influence has declined. It should be treated as a debated question with evidence on both sides, not a settled fact.
+
+**Should you use recent examples in Paper 4 answers?**
+Yes. Relying only on textbook cases from decades past is a weakness, because a specific, plausible contemporary example makes an argument feel more engaged.

@@ -211,6 +211,20 @@ These notes condense the AQA AS and A-level Economics specification (version 1.3
 - Concluding that government failure means no intervention. Compare it with market failure.
 - Using real figures from memory. Use only the data provided in the question.
 
+## Frequently asked questions
+
+**What are the four strands of UK competition policy?**
+The CMA bans anti-competitive agreements, stops abuse of a dominant position, reviews mergers and investigates markets. AQA does not require detailed competition law.
+
+**How does an inflation minus X price cap work?**
+The permitted price change equals inflation minus X, an efficiency target. With inflation of 3% and X of 1.5, prices may rise by 1.5%.
+
+**What is X-inefficiency?**
+X-inefficiency is when costs are above the minimum possible because of weak cost pressure, such as having no profit motive or takeover threat.
+
+**Why might a privatised monopoly not benefit consumers?**
+Without regulation or competition, the efficiency gains from privatisation may go to the owners as higher prices rather than to consumers.
+
 ## Official syllabus
 
 AQA, *AS and A-level Economics* specification (7135 and 7136), version 1.3, 29 June 2022, first teaching from September 2015: sections 3.1.8.7, 3.1.8.8 and 3.1.8.10 (printed as 4.1.8.7, 4.1.8.8 and 4.1.8.10 in the combined PDF).

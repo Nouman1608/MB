@@ -14,9 +14,9 @@ syllabusTopics:
     topic: "fractions-decimals-and-percentages-ocr-gcse-maths"
 description: "Fractions, decimal fractions, percentages, and ordering fractions/decimals/percentages -- the full content of Topic 2 for OCR GCSE (9-1) Mathematics (J560)."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -199,6 +199,20 @@ calculator-method percentage calculations.
 
 - [Fractions, Decimals and Percentages revision notes](/resources/ocr-gcse-mathematics-fractions-decimals-percentages-revision-notes/)
 - [Fractions, Decimals and Percentages practice questions](/resources/ocr-gcse-mathematics-fractions-decimals-percentages-practice/)
+
+## Frequently asked questions
+
+**What is in Topic 2 of OCR GCSE Maths J560?**
+Topic 2 of OCR GCSE (9-1) Mathematics J560 covers fractions, decimal fractions, percentages, and ordering fractions, decimals and percentages. It applies to both Foundation and Higher tier, and its content can be assessed on any of the three papers.
+
+**How do you find the original price after a percentage discount?**
+Work out what percentage of the original the sale price represents, then divide by that percentage as a decimal. A jacket costing £68 after a 15% discount is 85% of the original, so the original price is £68 ÷ 0.85 = £80.
+
+**Why is the multiplier method better for percentage change?**
+A single multiplier, 1 plus or minus the percentage divided by 100, does the change in one step and avoids adding or subtracting the wrong amount. It is also the practical method for compound growth and decay, where the multiplier is raised to a power.
+
+**How do you order a mixed set of fractions, decimals and percentages?**
+Convert every value to the same form first, such as decimals, and then compare. Ordering by eye is unreliable once the denominators or numbers of decimal places differ.
 
 ## Official syllabus
 

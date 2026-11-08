@@ -300,6 +300,23 @@ The gas is carbon dioxide, which turns limewater cloudy. The liquid left behind 
 - Using the wrong base in a percentage change: divide by the original value.
 - Forgetting to explain that lactic acid is oxidised using oxygen when asked about oxygen debt.
 
+## Frequently asked questions
+
+**What is the balanced symbol equation for aerobic respiration?**
+C6H12O6 + 6O2 → 6CO2 + 6H2O, which matches the word equation glucose + oxygen → carbon dioxide + water. Most of the reactions take place inside mitochondria.
+
+**Why is less energy transferred in anaerobic respiration?**
+In muscle, anaerobic respiration is an incomplete breakdown of glucose to lactic acid, so much less energy is transferred than in aerobic respiration, which breaks glucose down completely to carbon dioxide and water.
+
+**What happens to the body during exercise?**
+Heart rate rises, so more blood flows to the muscles; the rate and depth of breathing increase; and glycogen stored in the muscles is converted back to glucose. Together these supply more glucose and oxygen and remove carbon dioxide faster.
+
+**What does anaerobic respiration produce in plants and yeast?**
+In plant cells and some microorganisms such as yeast, anaerobic respiration produces ethanol and carbon dioxide, not lactic acid: C6H12O6 → 2C2H5OH + 2CO2.
+
+**Which sections of OxfordAQA 9201 Biology cover breathing and respiration?**
+Section 3.2.5 covers breathing, including the alveoli and mechanical ventilators, and section 3.2.6 covers aerobic and anaerobic respiration and the effects of exercise.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), Version 5.2, for exams in May/June 2018 onwards, published by OxfordAQA. Sections 3.2.5 and 3.2.6.

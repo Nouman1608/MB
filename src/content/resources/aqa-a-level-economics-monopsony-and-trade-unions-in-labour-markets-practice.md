@@ -123,6 +123,20 @@ These questions follow the AQA AS and A-level Economics specification (version 1
 - Ignoring outsiders when judging who gains from a union wage.
 - Closing an evaluation with a summary and no stated judgement.
 
+## Frequently asked questions
+
+**Where is the monopsony wage read from?**
+Employment is set where MCL equals MRP, but the wage is read from the supply curve at that employment, not from the MCL or MRP curve or column.
+
+**Does a trade union always cause unemployment?**
+No. The effect depends on the market: in a competitive labour market a union wage above equilibrium cuts employment, but in a monopsony it can raise both wages and employment.
+
+**Who should I consider when judging who gains from a union wage?**
+Consider outsiders, the unemployed or those priced out of jobs, as well as the insiders who keep their jobs at the higher wage.
+
+**Which AQA A-level Economics content do these questions cover?**
+They cover the labour market imperfections content of AQA 7136: monopsony, imperfect information and the influence of trade unions on wages and employment.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/aqa-a-level-economics-monopsony-and-trade-unions-in-labour-markets-revision-notes/) or the [study guide](/resources/aqa-a-level-economics-monopsony-and-trade-unions-in-labour-markets/).

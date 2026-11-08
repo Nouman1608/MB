@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-analytical-techniques"
     subtopic: "as-mass-spectrometry"
-description: "Reading an infrared spectrum for functional groups, and interpreting a mass spectrum for relative atomic mass, molecular mass, fragmentation and halogen content, for Cambridge International AS & A Level Chemistry 9701."
+description: "Cambridge AS & A Level Chemistry 9701 guide to reading IR spectra for functional groups and mass spectra for Ar, Mr, fragments and chlorine or bromine."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -191,6 +191,20 @@ know the instrument's mechanism
 - Recognising common fragment losses (15, 17, 29, 45)
 - The [M+1]⁺ formula for counting carbon atoms
 - The 3:1 (Cl) vs 1:1 (Br) ratio for the [M+2]⁺ peak
+
+## Frequently asked questions
+
+**Do you need to memorise IR wavenumbers for Cambridge 9701 Chemistry?**
+No. The syllabus expects you to interpret an infrared spectrum using supplied reference data, not to recall exact wavenumber values from memory.
+
+**Is the tallest peak in a mass spectrum the molecular ion?**
+Not necessarily. The tallest peak, the base peak, is the most abundant fragment. The molecular ion peak, M⁺, is identified as the peak at the highest m/e value.
+
+**How does the [M+2]⁺ peak show chlorine or bromine?**
+A compound with one chlorine atom gives M⁺ and [M+2]⁺ peaks in roughly a 3:1 ratio, while one bromine atom gives a ratio of about 1:1. Mixing up these two ratios is a common mistake.
+
+**What is the [M+1]⁺ peak used for?**
+The [M+1]⁺ peak is caused by carbon-13 and its height relative to the M⁺ peak is used to work out the number of carbon atoms in the molecule.
 
 ## Related resources
 

@@ -22,11 +22,11 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "waves"
     subtopic: "light-and-sound"
-description: "Condensed recall notes on wave properties, the Doppler effect, the electromagnetic spectrum and reflection, refraction and sound for Edexcel International GCSE Physics 4PH1."
+description: "Recall notes on wave properties, the Doppler effect, the electromagnetic spectrum, refraction and sound for Edexcel International GCSE Physics 4PH1."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -179,3 +179,16 @@ Sound is **longitudinal**; it reflects and refracts like any wave (3.23, both Ph
   <figcaption>Echo method: speed = 2d divided by t.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Which parts of Edexcel IGCSE sound are Physics only?**
+Outcomes 3.24P to 3.29P are Physics only: the human hearing range of 20 Hz to 20,000 Hz, displaying sound with an oscilloscope and microphone, and linking pitch to frequency and loudness to amplitude.
+
+**Do all electromagnetic waves travel at the same speed?**
+Yes. All electromagnetic waves travel at the same speed in free space; only their frequency and wavelength differ.
+
+**Where are angles measured from in a refraction diagram?**
+Both the angle of incidence and the angle of refraction are measured from the normal, the line perpendicular to the boundary, never from the surface itself.
+
+**Which way does light bend when it enters glass?**
+Light entering a denser medium such as glass or water bends towards the normal, so the angle of refraction is smaller. Leaving the denser medium, it bends away from the normal.

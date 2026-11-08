@@ -273,6 +273,23 @@ Together these **reduce costs**.
 - See what still needs work with a [free 10-minute diagnostic](/diagnostics/).
 - Browse every unit from the [OxfordAQA chemistry hub](/boards/oxfordaqa/igcse/chemistry/), and track progress on the [topic checklist](/checklists/oxfordaqa/igcse/chemistry/).
 
+## Frequently asked questions
+
+**How do you measure the rate of a reaction?**
+Measure how much reactant is used up, or how much product forms, over a period of time. Common methods are collecting a gas in a gas syringe, measuring the loss of mass as a gas escapes, or timing how long a mark takes to disappear behind a precipitate.
+
+**What is collision theory?**
+A reaction can only happen when reacting particles collide with sufficient energy. The minimum energy needed is the activation energy, so a reaction speeds up when collisions become more frequent or more of them have enough energy.
+
+**Why does increasing temperature increase the rate of reaction?**
+At a higher temperature the particles move faster, so they collide more frequently and more energetically. A greater proportion of collisions have at least the activation energy, so the rate increases.
+
+**Why does grinding a solid into a powder speed up a reaction?**
+A solid can only react at its surface. Grinding it exposes more particles to the other reactant, which increases the frequency of collisions and so the rate.
+
+**How do catalysts help industry?**
+A catalyst speeds up a reaction without being used up, so more product is made per hour and an acceptable rate can be reached at a lower temperature or pressure. This saves energy and reduces costs.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards (OxfordAQA). Covered here: section 3.8.1 Rate of reaction, with its required practical from section 6.2.

@@ -224,6 +224,23 @@ For a high blood water potential, reverse the steps: less ADH, fewer aquaporins,
 - Describing a drawing without a magnification, or with shading and crossing label lines.
 - Giving a GFR without units.
 
+## Frequently asked questions
+
+**What is the glomerular filtration rate?**
+The glomerular filtration rate (GFR) is the volume of filtrate formed per minute by all the nephrons. It is used as a measure of kidney function.
+
+**Where does selective reabsorption happen?**
+Selective reabsorption, the return of useful substances from the filtrate to the blood, happens mainly in the proximal convoluted tubule (PCT).
+
+**What is haemodialysis?**
+Haemodialysis removes waste from the blood by passing it through a machine where it is separated from dialysis fluid by a partially permeable membrane.
+
+**What is a monoclonal antibody?**
+A monoclonal antibody is an antibody made by one clone of cells, so it is specific to one antigen. Monoclonal antibodies are used in urine tests such as pregnancy tests.
+
+**What do these notes cover for OCR A Level Biology?**
+They cover OCR A Level Biology A (H420) learning outcomes 5.1.2(c) to (f): kidney structure, ultrafiltration and reabsorption, ADH, kidney failure and its treatment, and urine tests.
+
 ## Official syllabus
 
 OCR Advanced GCE in Biology A (H420), specification Version 4.1 (April 2026), first assessment 2025, published by OCR. Section 5.1.2, outcomes (c) to (f).

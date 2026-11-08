@@ -31,7 +31,7 @@ description: "How to study the five Paper 1 prescribed subjects in IB DP History
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the current subject guide for the case studies named under each prescribed subject, as only one prescribed subject is studied and the named examples differ by subject."
+reviewNote: "Check the current subject guide for the case studies named under each prescribed subject, as only one prescribed subject is studied and the named examples differ by subject. 2026-11-08 recheck: added the ten named case studies, corrected Question 1 and Question 4 descriptions, added FAQ."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -40,7 +40,7 @@ Paper 1 is the source-based paper of IB History. It rests on one prescribed subj
 
 ## Where this fits in the course
 
-The prescribed subjects are military leaders, conquest and its impact, the move to global war, rights and protest, and conflict and intervention. Each has specified case studies, which your teacher will identify, and each is assessed through sources that relate to those case studies. You study only one prescribed subject, so use the section headings below to understand the type of thinking involved and then focus on your own subject's case studies.
+The prescribed subjects are military leaders, conquest and its impact, the move to global war, rights and protest, and conflict and intervention. Each has two specified case studies from different regions: Genghis Khan and Richard I (military leaders); the final stages of Muslim rule in Spain and the conquest of Mexico and Peru (conquest and its impact); Japanese expansion in East Asia 1931–1941 and German and Italian expansion 1933–1940 (the move to global war); the civil rights movement in the United States 1954–1965 and apartheid South Africa 1948–1964 (rights and protest); and Rwanda 1990–1998 and Kosovo 1989–2002 (conflict and intervention). Paper 1 sources are set on these case studies. You study only one prescribed subject, so use the section headings below to understand the type of thinking involved and then focus on your own subject's case studies.
 
 Paper 1 has four numbered questions. Question 1 has two parts worth 3 and 2 marks, and Questions 2, 3 and 4 are worth 4, 6 and 9 marks, so the paper totals 3 + 2 + 4 + 6 + 9 = 24 marks in one hour.
 
@@ -58,13 +58,13 @@ Paper 1 has four numbered questions. Question 1 has two parts worth 3 and 2 mark
 
 ## The four question types
 
-**Question 1 (comprehension, 3 + 2 marks).** Part (a) asks for the message of a source. Part (b) asks for the message of a second source. Give the main points in your own words, using the source rather than your own knowledge. Do not evaluate; simply show you understand.
+**Question 1 (comprehension, 3 + 2 marks).** Part (a) asks what a source says about a stated issue (three points). Part (b) asks for the message of a second source, often a cartoon or photograph (two points). Give the main points in your own words, using the source rather than your own knowledge. Do not evaluate; simply show you understand.
 
 **Question 2 (origin, purpose, value and limitations, 4 marks).** Choose a source and consider who wrote or produced it (origin), why (purpose) and when. Then explain its value and its limitations for a historian studying a stated topic. Use the content of the source as well as its provenance, and link each point to the topic.
 
 **Question 3 (compare and contrast, 6 marks).** Set the two sources side by side. Identify points of similarity and difference with specific references to both sources throughout. A source-by-source description earns little; a point-by-point comparison earns more.
 
-**Question 4 (synthesis, 9 marks).** Use at least three of the sources together with your own knowledge to answer the question in a short, argued response. Integrate the sources into the argument, evaluate them where it helps and reach a conclusion. The question will be based on a claim or theme, not on a single source.
+**Question 4 (synthesis, 9 marks).** Using the sources (normally four, A to D) together with your own knowledge, answer the question in a short, argued response; the top markband expects effective use of the sources and accurate own knowledge. Integrate the sources into the argument, evaluate them where it helps and reach a conclusion. The question will be based on a claim or theme, not on a single source.
 
 ## Worked example: handling Question 2
 
@@ -89,7 +89,7 @@ For each case study in your prescribed subject, build a one-page summary with fi
 - Judging provenance without linking it to the topic in Question 2.
 - Comparing in two separate halves in Question 3, with no direct links.
 - Listing sources one after another in Question 4 instead of building an argument.
-- Not referring to at least three sources in Question 4.
+- Leaving most of the sources out of Question 4, or using them without own knowledge.
 - Running out of time because of a long answer to an early question.
 
 ## Exam technique
@@ -106,11 +106,25 @@ Learn the command terms: **compare and contrast** needs both similarities and di
    *Who produced the source and when, and why it was produced.*
 4. What is the weakness of comparing the sources one after the other in Question 3?
    *It does not make direct links between the sources.*
-5. How many sources should be used in Question 4?
-   *At least three, together with own knowledge.*
+5. What should Question 4 be based on?
+   *The sources provided (use them all where relevant), together with own knowledge.*
 6. Why is a government newspaper editorial limited as evidence of how a law operated?
    *It is likely to be propaganda and unlikely to show opposition or costs.*
 7. At the 2.5 minutes per mark rate, how long should a 9 mark question take?
    *22.5 minutes.*
 8. How many prescribed subjects does a student study?
    *One.*
+
+## Frequently asked questions
+
+**How many prescribed subjects do I study for Paper 1?**
+One of the five, chosen by your school, through its two case studies from different regions.
+
+**How is Paper 1 structured?**
+Four questions on four sources, worth 3 + 2, 4, 6 and 9 marks, for 24 marks in one hour.
+
+**When can I use my own knowledge in Paper 1?**
+Only in Question 4, which asks you to use the sources and your own knowledge; Questions 1 to 3 are answered from the sources.
+
+**How long should Question 4 take?**
+About 22 to 23 minutes, at 2.5 minutes per mark for its 9 marks.

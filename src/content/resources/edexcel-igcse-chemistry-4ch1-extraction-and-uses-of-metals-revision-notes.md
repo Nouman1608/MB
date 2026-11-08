@@ -253,6 +253,20 @@ Mr = 2(63.5) + 32 = 159
 - Calling an alloy a compound.
 - Adding outside facts to a "comment on this process" answer instead of using the information given.
 
+## Frequently asked questions
+
+**How does the reactivity series decide how a metal is extracted?**
+Carbon sits between aluminium and zinc in the reactivity series. Metals below carbon, such as iron, can be extracted by heating their oxides with carbon, while metals above carbon, such as aluminium, are extracted by electrolysis, which costs more because it uses a lot of electricity.
+
+**Why is aluminium oxide dissolved in molten cryolite?**
+Aluminium oxide melts above 2000 °C, but a solution in molten cryolite works below 1000 °C, which saves energy. Cryolite is not a catalyst, and saying the oxide is simply melted misses the point.
+
+**What are the three types of steel in Edexcel International GCSE Chemistry (4CH1)?**
+Low-carbon (mild) steel is strong, malleable and cheap but rusts; high-carbon steel is very hard and strong but brittle; stainless steel contains chromium and resists corrosion. As a memory hook, more carbon makes steel harder but more brittle.
+
+**What is the substance reduced in the blast furnace?**
+Iron(III) oxide is reduced because it loses oxygen, and carbon monoxide is oxidised and acts as the reducing agent. Writing "iron is reduced" is a common error.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Chemistry (4CH1), Specification, Issue 3, September 2024, published by Pearson Education Limited. Topic 2: Inorganic chemistry, sub-topic (e) Extraction and uses of metals, statements 2.22C–2.27C.

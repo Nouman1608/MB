@@ -125,6 +125,20 @@ Read the [study guide](/resources/aqa-a-level-economics-the-national-minimum-wag
 - Writing "it depends" without saying on what.
 - Forgetting that wage discrimination needs market power.
 
+## Frequently asked questions
+
+**Which diagram should I use for a minimum wage in a monopsony?**
+Use the monopsony diagram with supply, marginal cost of labour and MRP. Using the competitive labour market diagram when the question describes a monopsony loses marks.
+
+**Is every pay difference between groups discrimination?**
+No. Wage discrimination means different pay for workers of equal productivity in the same job; some pay differences are explained by other factors.
+
+**What does wage discrimination require?**
+It requires market power over wages. A wage-taking firm in a competitive labour market cannot pay one group less than the market wage.
+
+**How should I evaluate a minimum wage question?**
+Say who gains and who loses, follow a chain from the wage to costs to the outcome, and if you conclude it depends, say what it depends on.
+
 ## Next steps
 
 - [Revision notes](/resources/aqa-a-level-economics-the-national-minimum-wage-and-discrimination-in-labour-revision-notes/)

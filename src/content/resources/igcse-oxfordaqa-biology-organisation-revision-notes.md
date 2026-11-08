@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "organisation-oxfordaqa-igcse-biology"
-description: "Condensed recall notes on Topic 1 Organisation of OxfordAQA International GCSE Biology 9201 (cell structure, tissues, organs and organ systems, and transport in cells), with linked Topic 2 notes on enzymes and digestion, the heart and the lungs."
+description: "Condensed notes on cell structure, tissues, organs and transport in cells for OxfordAQA IGCSE Biology 9201, with linked notes on digestion, the heart and lungs."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -305,3 +305,16 @@ The alveoli provide a very large surface area, richly supplied with blood capill
   <figcaption>Both surfaces share three features; only the lungs are ventilated.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Why do large organisms need specialised exchange surfaces?**
+A single-celled organism has a large surface area to volume ratio, so it can exchange materials across its surface membrane. As organisms get larger the ratio falls, so they need specialised exchange surfaces that are large and thin, with an efficient blood supply and, for gas exchange in animals, ventilation.
+
+**Is bile an enzyme?**
+No. Bile is made in the liver and stored in the gall bladder. It neutralises stomach acid, giving alkaline conditions for enzymes in the small intestine, and emulsifies fats to increase their surface area, but it does not digest fat itself.
+
+**Where are enzymes, the heart and the lungs in the OxfordAQA 9201 specification?**
+They are in Topic 2, Bioenergetics: digestion and enzymes in 3.2.4, the heart and blood vessels in 3.2.3, and the lungs in 3.2.5. These notes link them to Topic 1 because they build on cells, tissues and organs.
+
+**What does it mean when cells differentiate?**
+During the development of a multicellular organism, cells differentiate so that they can perform different functions. Differentiated cells then form tissues, organs and organ systems.

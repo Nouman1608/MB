@@ -159,6 +159,20 @@ These questions follow section 4.01 of the OCR GCSE (9-1) Mathematics J560 speci
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which OCR GCSE Maths section do these rounding and bounds questions cover?**
+They follow section 4.01, Approximation and estimation, of OCR GCSE (9-1) Mathematics J560: rounding, estimation, error intervals and bounds. Calculating the bounds of a calculation and discrete versus continuous bounds are Higher tier only.
+
+**How do you show working in an estimation question?**
+Write down the rounded value of each number, the simpler calculation, and the answer with the ≈ symbol. An estimate with no rounded values shown cannot be followed.
+
+**How do you answer a "can you be sure it fits" question?**
+Compare the worst cases: the largest possible size of the object against the smallest possible size of the space. Comparing only the stated sizes does not answer the question.
+
+**What is the greatest possible value of a counted quantity given to the nearest hundred?**
+For a discrete count such as 200 to the nearest hundred, the greatest value is 249, because 250 would round up to 300. Giving 250 or 249.9 for a count is a common error.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, section 4.01 Approximation and estimation (4.01a to 4.01c).

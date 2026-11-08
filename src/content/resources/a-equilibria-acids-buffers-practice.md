@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-equilibria"
     subtopic: "a-partition-coefficients"
-description: "Original exam-style practice questions with full worked answers on pH, Ka, buffer solutions, Ksp and partition coefficients for Cambridge A Level Chemistry 9701."
+description: "Practice questions with worked answers on pH, Ka, buffers, blood buffering, Ksp, the common ion effect and partition coefficients, for Cambridge 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-29
 featured: false
 ---
@@ -135,3 +135,17 @@ Related: [Acids, Bases, Buffers and Partition Coefficients study guide](/resourc
 - Missing the stoichiometric factor when writing Ksp expressions for compounds like PbCl₂ or CaF₂ (the power on the ion, and the corresponding multiplier when solving for s in pure water).
 - Using the common-ion concentration as if it came partly from the sparingly soluble salt, rather than treating it as approximately equal to the concentration of the more soluble common-ion source.
 - Describing a biological buffer (such as the blood's HCO₃⁻/H₂CO₃ system) as working by a different mechanism from a laboratory buffer — the underlying chemistry (a weak acid/conjugate base pair resisting pH change) is identical.
+
+## Frequently asked questions
+
+**What makes a solution an effective buffer?**
+It needs a weak acid (or weak base) together with its conjugate base (or conjugate acid), both present in significant, comparable concentrations. The concentrations must be large compared with the small amounts of acid or alkali added.
+
+**Should the solid be included in a Ksp expression?**
+No. Only the aqueous ions appear, each raised to the power of its coefficient, so Ksp for Mg(OH)₂ is [Mg²⁺][OH⁻]². Including the solid is a common error.
+
+**Does the blood buffer work differently from a laboratory buffer?**
+No. The HCO₃⁻/H₂CO₃ system in blood works the same way as an ethanoic acid/ethanoate buffer: a weak acid and its conjugate base remove added OH⁻ and H⁺, so the pH barely changes.
+
+**Where are marks usually lost on acids, buffers and Ksp questions?**
+Common errors include using the weak-acid method for a strong acid or the reverse, forgetting that buffer pH depends on the ratio [HA]/[A⁻], and missing the power and multiplier for ions such as F⁻ in CaF₂ when solving for solubility.

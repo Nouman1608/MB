@@ -241,6 +241,20 @@ Ar = (84 × 0.6 + 86 × 9.9 + 87 × 7.0 + 88 × 82.5) / 100
 
 Revise the key facts with the [revision notes](/resources/ib-dp-chemistry-the-nuclear-atom-revision-notes/), then try the [practice questions](/resources/ib-dp-chemistry-the-nuclear-atom-practice/), which include HL-only mass spectrum problems. For how this unit fits into the whole course, read the [IB DP Chemistry syllabus guide](/resources/ib-dp-chemistry-syllabus-guide/). Structure 1.3, on electron configurations, builds on the electron counts you worked out here.
 
+## Frequently asked questions
+
+**How do you work out the number of electrons in an ion?**
+Electrons = Z − charge. A positive ion has fewer electrons than protons, and a negative ion has more; for example, a 2− ion has two more electrons than protons.
+
+**Why do isotopes have different physical properties?**
+Isotopes have different masses, so properties that depend on mass, such as density, melting and boiling points and the rate of diffusion of gases, differ slightly.
+
+**Does relative atomic mass have units?**
+No. Relative atomic mass has no units because it is measured relative to a standard scale.
+
+**Is mass spectrometry in the SL syllabus for IB DP Chemistry?**
+No. Structure 1.2.3, interpreting the mass spectra of elements, is HL only.
+
 ## Official syllabus
 
 Structure 1.2, The nuclear atom: International Baccalaureate Organization, *Chemistry guide*, Diploma Programme, first assessment 2025, published February 2023.

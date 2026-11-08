@@ -276,6 +276,23 @@ The curve y = |x² + 4x − 5| lies below y = 7 where −6 < x < −2 − √2 a
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-mathematics-functions-domain-range-composite-and-inverse-functions-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-mathematics-functions-domain-range-composite-and-inverse-functions-revision-notes/) as a final check. For earlier pure content, see the [Unit P1 revision notes](/resources/oxfordaqa-a-level-mathematics-p1-revision-notes/).
 
+## Frequently asked questions
+
+**What is the difference between the domain and the range of a function?**
+The domain is the set of allowed inputs. The range is the set of outputs the function actually produces from that domain.
+
+**Which part of the OxfordAQA 9660 specification covers functions?**
+Functions, domain and range, composite functions, inverse functions and the modulus function are in section P2.1, part of Unit P2 of OxfordAQA International A-level Mathematics 9660.
+
+**When does a function have an inverse?**
+Only when it is one-one. A many-one function, such as f(x) = x² for all real x, needs its domain restricting before an inverse can be found.
+
+**How do you solve a modulus inequality?**
+Solve the matching equation first to find the crossing points, then use a sketch or a test value in each region to decide which intervals satisfy the inequality.
+
+**Where do y = f(x) and y = f⁻¹(x) meet when f is increasing?**
+Any meeting point lies on the line y = x, so you can find it by solving f(x) = x.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Mathematics (9660)* specification, Version 5.2 (International AS exams from May/June 2018, A-level from May/June 2019), content area P2.1.

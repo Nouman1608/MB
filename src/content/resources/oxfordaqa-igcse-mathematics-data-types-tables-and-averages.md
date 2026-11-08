@@ -353,4 +353,21 @@ Use the [revision notes](/resources/oxfordaqa-igcse-mathematics-data-types-table
 
 ## Official syllabus
 
+## Frequently asked questions
+
+**What is qualitative data?**
+Qualitative data describes a quality in words rather than numbers, such as eye colour or favourite sport.
+
+**Which average should you use when the data has an extreme value?**
+The median, because it is not pulled by an extreme value. The mode is the only average for qualitative data, and the mean uses every value.
+
+**How do you complete a two-way table?**
+Fill in any row or column with only one empty cell, use the totals to find the rest, and check that the row and column totals give the same grand total.
+
+**How do you estimate the range of grouped data?**
+The largest the range could be is the upper end of the top class minus the lower end of the bottom class.
+
+**Which OxfordAQA 9260 statistics points does this topic cover?**
+It covers S1 (types of data), S2 (tables and lists), S3 (two-way tables) and S5 (averages and spread) of OxfordAQA International GCSE Mathematics 9260.
+
 Source: OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, for exams from May/June 2018, published by OxfordAQA. Section 3.4.1, statements S1, S2, S3 and S5.

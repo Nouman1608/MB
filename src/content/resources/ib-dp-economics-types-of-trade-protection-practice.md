@@ -157,6 +157,20 @@ Norland now imposes a tariff of 10 per tyre.
 - Writing "calculate" answers as a single number with no working.
 - Describing the standard as bad without considering its safety purpose, or good without noticing who it treats differently.
 
+## Frequently asked questions
+
+**How do you calculate tariff revenue on a diagram?**
+Tariff revenue is a rectangle, not a triangle: the tariff per unit multiplied by the quantity imported after the tariff. Using the larger free-trade import figure is a common error.
+
+**How do you find the domestic price under an import quota?**
+Set quantity demanded minus quantity supplied equal to the quota and solve for the price. At that price the import gap between the two curves equals the quota.
+
+**How do you calculate the welfare loss from a tariff?**
+Add the two triangles: the production triangle, ½ × tariff × the rise in domestic output, and the consumption triangle, ½ × tariff × the fall in consumption. These calculations are HL only.
+
+**What are common mistakes on IB Economics trade protection diagrams?**
+Common errors include shading tariff revenue as a triangle, putting quota rent with the government without saying who holds the licences, drawing an export subsidy as a demand shift, and leaving out axes, curves, Pw or Pt.
+
 ## Next steps
 
 - Revise the key methods in the [revision notes](/resources/ib-dp-economics-types-of-trade-protection-revision-notes/).

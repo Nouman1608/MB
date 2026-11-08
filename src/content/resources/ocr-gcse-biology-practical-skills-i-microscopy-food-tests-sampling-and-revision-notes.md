@@ -266,6 +266,20 @@ Graph checklist: independent variable on the x-axis; labelled axes with units; e
 </figure>
 
 
+## Frequently asked questions
+
+**What is the test for protein in GCSE Biology?**
+Add biuret reagent to the sample and mix. A colour change from blue to purple (lilac) shows protein is present.
+
+**What is the difference between distribution and abundance?**
+Distribution is where organisms are found, and abundance is how many there are. A transect shows distribution along a gradient, while random quadrats estimate abundance.
+
+**What is the difference between repeatable and reproducible results?**
+Results are repeatable when you get similar results rerunning the work yourself. They are reproducible when someone else, or another method, gets similar results.
+
+**How do you calculate a rate from an end point time?**
+Rate equals 1 divided by the time to the end point. For example, a time of 50 s gives 1 ÷ 50 = 0.02 s⁻¹.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Gateway Science Suite Biology A (J247), Version 4.0 (August 2026), for first assessment in 2018: Topic B7 Practical skills (PAG 1 to PAG 4) and working scientifically skills 2a to 2d.

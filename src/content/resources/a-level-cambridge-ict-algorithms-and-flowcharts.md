@@ -311,6 +311,20 @@ Other errors to look for: a counter or total set to zero inside the loop; a loop
 
 Condense this into the [revision notes](/resources/a-level-cambridge-ict-algorithms-and-flowcharts-revision-notes/), then try the [practice questions](/resources/a-level-cambridge-ict-algorithms-and-flowcharts-practice/). For a quick check of your gaps, take one of the free [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What pseudocode keywords do you need for Cambridge 9626?**
+Topic 4 of Cambridge AS & A Level IT (9626) lists INPUT/READ, WRITE/PRINT, FOR...NEXT, FOR...NEXT...STEP, IF...ELSE...ENDIF, WHILE...ENDWHILE, REPEAT...UNTIL and CASE...ENDCASE, with the comparison operators >, < and = and the arithmetic operators +, -, * and /.
+
+**What does OTHERWISE do in a CASE statement?**
+OTHERWISE catches every value not listed in the CASE...ENDCASE structure, so an invalid entry produces a response such as an error message instead of doing nothing at all.
+
+**Why should a total be set to zero before a loop?**
+A total or counter must be initialised before the loop, because setting it to zero inside the loop resets it on every pass and gives the wrong result.
+
+**Why can using = to stop a loop cause problems?**
+If a counter can jump past the target value, an equals test never becomes true and the loop never stops. For example, UNTIL Count = 10 never stops a count going 7, 9, 11, whereas UNTIL Count > 9 does.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3), Cambridge International Education. Topic 4: Algorithms and flowcharts (4.1 Algorithms, 4.2 Flowcharts) and the flowchart symbols table at the end of the subject content.

@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "amount-of-substance-7405"
     subtopic: "the-mole-and-the-avogadro-constant-7405"
-description: "Relative atomic and molecular mass, the Avogadro constant, and mole calculations using mass, concentration and volume -- 3.1.2.1 and 3.1.2.2 of AQA A-Level Chemistry (7405), AS-shared content."
+description: "Relative atomic and molecular mass on the carbon-12 scale, the Avogadro constant, and mole calculations from mass and concentration, for AQA 7405."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -196,6 +196,23 @@ Avogadro constant, and concentration x volume.
 - Always convert cm³ to dm³ before using a mol dm⁻³ concentration.
 - Round final answers to the appropriate number of significant figures
 based on the least precise given value.
+
+## Frequently asked questions
+
+**Why do relative atomic mass and relative molecular mass have no units?**
+Ar and Mr are ratios measured against carbon-12, which is given a mass of exactly 12. Because they compare masses rather than measure them directly, they have no units.
+
+**When should you say relative formula mass instead of relative molecular mass?**
+AQA 7405 uses relative formula mass for ionic compounds such as sodium chloride, because they do not exist as discrete molecules. Relative molecular mass applies to covalently bonded molecules.
+
+**Do I need to memorise the Avogadro constant for AQA A-level Chemistry?**
+No. Students are not expected to recall its value; questions that need it will give it, typically as 6.02 × 10²³ mol⁻¹. The skill tested is applying it correctly in a calculation.
+
+**How do you calculate the number of ions in a solution?**
+Convert the volume to dm³, find moles with moles = concentration × volume, multiply by the Avogadro constant, then multiply by the number of ions per formula unit. For example, NaCl gives two ions per formula unit and MgCl₂ gives three.
+
+**What are common mistakes in mole calculations?**
+Common errors include forgetting to convert cm³ to dm³, quoting answers to more significant figures than the least accurate data allows, and confusing the number of moles with the number of particles.
 
 ## Related resources
 

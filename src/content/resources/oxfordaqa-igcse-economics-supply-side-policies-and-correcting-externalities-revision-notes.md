@@ -214,6 +214,20 @@ These notes condense sections 3.2.3.3 (Supply-side policies) and 3.2.3.4 (Polici
 - Leaving out units or the sign in a calculation.
 - Failing to use the context, such as the named country or good.
 
+## Frequently asked questions
+
+**What are the main supply-side policies in OxfordAQA International GCSE Economics?**
+The notes group them as investment in education and training, lower direct (income) taxes, lower taxes on business profits, and privatisation and deregulation. Each aims to raise output per worker or the economy's capacity.
+
+**Does a cut in tax rates always raise tax revenue?**
+No. A lower rate collects less on the same profits or incomes, so a cut only pays for itself if profits or incomes rise by a large amount. State that condition rather than claiming revenue will rise.
+
+**Why does training take years to raise economic growth?**
+Workers must complete the training before their productivity rises, and education and investment take time to change the economy's capacity. That time lag is a key evaluation point for supply-side policies.
+
+**When is a tax most effective at reducing a negative externality?**
+A tax is more effective at cutting output where demand is price elastic. Where demand is inelastic, the tax raises price but quantity falls only a little.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), published by OxfordAQA, first teaching September 2023, first examined May/June 2025. Sections 3.2.3.3 and 3.2.3.4.

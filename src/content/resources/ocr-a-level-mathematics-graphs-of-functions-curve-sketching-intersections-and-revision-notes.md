@@ -224,6 +224,20 @@ To test a relationship, plot y against xⁿ (or against 1/xⁿ). A straight line
 </figure>
 
 
+## Frequently asked questions
+
+**What is the difference between plotting and sketching a graph?**
+Plotting means drawing accurately from a table of values. Sketching means drawing a diagram, not necessarily to scale, that shows the main features such as intercepts, turning points and asymptotes.
+
+**How do you work out the end behaviour of a polynomial?**
+Look at the highest-power term. A positive odd power goes down on the left and up on the right; a negative odd power is the reverse; a positive even power is up at both ends; a negative even power is down at both ends.
+
+**What do the graphs of y = a/x and y = a/x² look like?**
+Both have asymptotes x = 0 and y = 0 and no intercepts. For a > 0, y = a/x has branches in quadrants 1 and 3, while y = a/x² has both branches above the x-axis.
+
+**How do you find the equation of a polynomial from its sketch?**
+Write the factorised form from the roots, including any repeated roots, with an unknown constant k. Then use one known point, often the y-intercept, to find k.
+
 ## Official syllabus
 
 Source: OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018, published by OCR. Section 1.02, items 1.02m to 1.02r. The graphical inequalities in 1.02t involve the modulus function and are in the separate modulus unit.

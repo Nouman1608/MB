@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "differentiation-cambridge-alevel-maths-2"
 description: "Condensed revision notes for Cambridge 9709 Paper 2 differentiation: standard results, chain, product and quotient rules, parametric, implicit, self-test."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -215,6 +215,23 @@ Differentiate with respect to x (questions 1 to 9).
 - Solutions lost when dy/dx = 0 is divided by a factor such as cos x without checking whether that factor could be zero.
 - Exact answers turned into decimals, or an exponential such as e^(ln 3) not simplified to 3.
 - A "show that" result reached with a step missing, such as the unsimplified quotient-rule line.
+
+## Frequently asked questions
+
+**What is the quotient rule?**
+For y = u/v, dy/dx = (v du/dx − u dv/dx)/v². The order in the numerator matters: reversing it gives the negative of the correct answer.
+
+**What is the difference between ln(x²) and (ln x)²?**
+ln(x²) = 2 ln x, which differentiates to 2/x. (ln x)² needs the chain rule and differentiates to (2 ln x)/x.
+
+**Where does a parametric curve have a horizontal or vertical tangent?**
+A horizontal tangent is where dy/dt = 0, and a vertical tangent is where dx/dt = 0. Find t first, then turn it into coordinates.
+
+**Do trigonometric derivatives work in degrees?**
+No. Results such as d/dx sin x = cos x hold only when x is measured in radians.
+
+**Do you need second derivatives of parametric or implicit curves in Cambridge 9709 Paper 2?**
+No. For parametric and implicit curves you only need the first derivative dy/dx, for gradients, tangents and normals.
 
 ## Next steps
 

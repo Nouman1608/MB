@@ -14,9 +14,9 @@ syllabusTopics:
     topic: "principles-of-chemistry-4ch1"
 description: "Condensed recall notes on states of matter, atomic structure, bonding, the mole and electrolysis for Edexcel International GCSE Chemistry 4CH1."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -216,3 +216,16 @@ Electrolysis of **molten** compounds gives the metal and the non-metal directly,
   <figcaption>Hydrogen forms unless the metal is below it in reactivity; a halide is discharged only if concentrated, otherwise oxygen forms.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between the anode and cathode in Edexcel IGCSE Chemistry electrolysis?**
+The cathode is negative and attracts cations, which are reduced by gaining electrons. The anode is positive and attracts anions, which are oxidised by losing electrons.
+
+**Which ions are discharged during electrolysis of aqueous solutions?**
+At the cathode the less reactive cation is discharged, so metals below hydrogen in the reactivity series are deposited. At the anode, halide ions are discharged in preference to hydroxide ions; otherwise oxygen forms from OH⁻.
+
+**Why is percentage yield never 100%?**
+Reactions may be incomplete, particularly reversible reactions that do not go to completion. Some product is also lost during separation and purification, and some reactants take part in side reactions.
+
+**Why do isotopes have identical chemical properties?**
+Isotopes have the same number of protons and electrons, so the same electronic configuration, and chemical reactions depend on the electrons.

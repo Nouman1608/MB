@@ -25,9 +25,9 @@ syllabusTopics:
     subtopic: "as-scalars-and-vectors"
 description: "Original exam-style practice questions with full worked answers on SI units, homogeneity, vectors and uncertainty for AS Physics."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -119,3 +119,17 @@ Related: [Physical Quantities and Units revision notes](/resources/as-physics-qu
 - Losing track of a prefix's power of ten when converting between units, especially with micro (10⁻⁶) and milli (10⁻³).
 
 Work through the [Physical Quantities and Units revision notes](/resources/as-physics-quantities-units-revision-notes/) alongside these questions: the notes summarise the base units, prefixes and error definitions in condensed form, while these questions test whether you can apply the uncertainty-combination rules and the precision-versus-accuracy distinction to a specific numerical situation rather than just recall the rule.
+
+## Frequently asked questions
+
+**How do you reduce the percentage uncertainty in a measurement?**
+Measure a larger quantity. The absolute uncertainty is fixed by the instrument, so it becomes a smaller fraction of a bigger reading, which is why you time many oscillations and divide.
+
+**How does a systematic error show up on a graph?**
+It depends on the cause. A zero-offset error shifts the intercept but leaves the gradient correct, while a calibration or scale-factor error changes the gradient.
+
+**When should you round in a multi-step calculation?**
+Carry extra significant figures through the working and only round at the end. Rounding an intermediate value early makes the final answer drift.
+
+**What mistakes lose marks in units and uncertainty questions?**
+Common errors include assuming homogeneity proves an equation correct, swapping sine and cosine when resolving, adding percentage uncertainties when subtracting, and forgetting to multiply by the power when a quantity is cubed.

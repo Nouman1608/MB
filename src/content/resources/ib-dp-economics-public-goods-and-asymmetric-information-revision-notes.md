@@ -247,6 +247,20 @@ Screening reminder: insurer offers X (premium 2,100, no excess) and Y (premium 7
 - Showing only the final answer in a calculation when the command term asks for the working.
 - Using a hidden-action example, such as careless driving, for adverse selection.
 
+## Frequently asked questions
+
+**What is a public good in IB DP Economics?**
+A public good is both non-rivalrous, so one person's use leaves just as much for others, and non-excludable, so non-payers cannot be stopped from using it. Public goods are sub-topic 2.9 of the IB DP Economics guide.
+
+**Is a good a public good because the government provides it?**
+No. The classification depends on the good's features, not on who supplies it. A place in a state-run classroom is still rival and excludable, so it is not a public good.
+
+**What is the difference between adverse selection and moral hazard?**
+Adverse selection arises before a deal, when one side has hidden knowledge about quality or risk. Moral hazard arises after a deal, when behaviour changes because someone else carries the risk. Both are HL only.
+
+**What is the difference between signalling and screening?**
+In signalling, the informed party acts to reveal its quality, such as offering a warranty. In screening, the uninformed party designs a test that makes the informed party reveal itself, such as a menu of insurance contracts.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization, February 2020. Sub-topics 2.9 and 2.10 (HL only) of Unit 2: Microeconomics.

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Limited companies (YAC11) -- Practice Questions"
+title: "Edexcel International A Level Accounting: Limited companies (YAC11) -- Practice Questions"
 seoTitle: "Edexcel IAL Accounting Limited Companies Practice"
 resourceType: "practice-questions"
 subject: "accounting"
@@ -205,6 +205,20 @@ Agreed values differ as follows: Caldbeck's property 300,000 and inventory 52,00
 - [Printable checklist](/checklists/edexcel/a-level/accounting/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**What journal entry records a bonus issue?**
+A bonus issue debits the reserves being used, such as share premium and retained earnings, and credits ordinary share capital at nominal value. Bank is not involved, because no cash changes hands.
+
+**How do you record a rights issue made above nominal value?**
+Debit bank with the cash received, credit share capital with the nominal value of the new shares and credit share premium with the excess. Crediting all the cash to share capital is a common mistake.
+
+**How is capital gearing calculated in Edexcel IAL Accounting (YAC11)?**
+Capital gearing measures fixed-cost long-term finance as a percentage of total long-term finance, so the denominator includes debt as well as equity. Dividing by equity alone is a common way to lose marks; the formula is not supplied in the exam.
+
+**How are discontinued operations shown in the statement of profit or loss?**
+The result of discontinued operations is shown as a single line, the profit or loss for the year from discontinued operations, with detail in the notes. Splitting it across revenue and expense lines is marked wrong.
 
 ## Official syllabus
 

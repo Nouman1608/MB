@@ -242,6 +242,20 @@ These notes condense sections 3.1 (Marketing, competition and the customer) and 
 - Describing a chart ("it goes up") without a conclusion for the business.
 - Giving the same point twice in different words in a "two" question.
 
+## Frequently asked questions
+
+**What is the difference between niche and mass marketing?**
+Mass marketing sells one product to a large, wide market with little variation. Niche marketing sells a specialist product to a small, specific part of a market.
+
+**Is a large sample always accurate?**
+No. A large sample can still be biased if the wrong people are asked, so it must also be representative of the target market and use clear, non-leading questions.
+
+**What are the ways of segmenting a market in Cambridge O Level Business 7115?**
+The syllabus examples are age, socio-economic grouping, location and gender. Choose the basis that best explains differences in buying behaviour in the case.
+
+**What is the difference between customer loyalty and customer relationships?**
+Loyalty is the behaviour of repeat buying. A relationship is the two-way contact, such as asking for feedback or remembering regular buyers, that encourages it.
+
 ## Official syllabus
 
 *Cambridge O Level Business Studies (7115) syllabus for examination in 2026*, published by Cambridge University Press & Assessment (Cambridge International Education), Subject content, sections 3.1 and 3.2.

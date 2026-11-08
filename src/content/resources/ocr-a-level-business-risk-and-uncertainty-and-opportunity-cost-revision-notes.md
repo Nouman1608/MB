@@ -239,6 +239,17 @@ Impact on decision making: it forces comparison of options, shows that a positiv
 - Writing generic points on uncertainty that are not tied to the business in the case.
 - Giving a final judgement that restates the points without weighing them.
 
+## Frequently asked questions
+
+**What is the difference between risk and uncertainty?**
+Risk can be measured, for example with probabilities from past data, while uncertainty cannot be given reliable probabilities. Decision trees and expected value handle risk, but uncertainty is managed through flexibility, scenario planning and cash reserves.
+
+**How does uncertainty affect business objectives?**
+Under uncertainty, targets may become unrealistic or need to be set as ranges, and survival may take priority over growth. Planning and investment decisions may also be delayed until the situation is clearer.
+
+**Does a higher reward always mean a higher risk?**
+Higher potential reward usually goes with higher risk, but this is a tendency rather than a rule. An evaluation should ask whether the extra reward justifies the extra risk and whether the business could survive the worst outcome.
+
 ## Official syllabus
 
 Source: OCR, Advanced GCE in Business (H431), Version 2.1, January 2026, for first assessment in 2017 with final assessment in summer 2027, area of study Business objectives and strategy, the Risk and uncertainty and Opportunity cost content (numbered 1.7 and 1.8 on this site, not in the specification).

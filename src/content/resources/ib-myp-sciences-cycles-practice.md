@@ -17,9 +17,9 @@ syllabusTopics:
     topic: "ib-myp-sciences-related-concepts"
 description: "Original IB MYP Sciences practice questions on the carbon, water, nitrogen and rock cycles, with data tasks, a criterion D response and worked answers."
 author: "marlbridge-academic-team"
-reviewer: "ameer-hamza"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ameer-hamza on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -163,6 +163,20 @@ Evaluate the two approaches. Explain how each works in carbon cycle terms, discu
 - Counting data points instead of intervals when finding a mean rate of change.
 - Listing controlled variables without saying how each is controlled.
 - Writing a one-sided criterion D answer, or no justified conclusion.
+
+## Frequently asked questions
+
+**What are common mistakes in cycles questions in MYP Sciences?**
+Frequent slips include naming a process without saying what it converts or moves, confusing nitrogen fixation, nitrification and denitrification, and dividing by the final value instead of the starting value in percentage questions.
+
+**How do you find a mean rate of change from a data table?**
+Divide the total change by the number of intervals between readings, not by the number of data points. Counting points instead of intervals is a common error.
+
+**How do you write a Criterion D answer about a cycle?**
+State the problem using cycle language, explain how each solution changes a store or process, weigh strengths and limitations, consider another factor such as cost or ethics, and reach a justified judgement. A one-sided answer limits the credit.
+
+**How do you describe controlled variables in a cycles investigation?**
+List each controlled variable and say how it is controlled. Listing variables without explaining how they are kept the same is a frequent way to lose credit.
 
 ## Next steps
 

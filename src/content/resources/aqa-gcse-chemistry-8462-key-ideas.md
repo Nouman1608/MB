@@ -15,9 +15,9 @@ syllabusTopics:
     topic: "key-ideas-8462"
 description: "Study guide to the AQA GCSE Chemistry 8462 key ideas: atoms, periodicity, bonding, structure, barriers to reaction, three reaction types and energy."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -335,6 +335,20 @@ Each step is a separate creditworthy point; join them with "so" or "because".
 ## Next steps
 
 Test yourself with the [practice questions](/resources/aqa-gcse-chemistry-8462-key-ideas-practice/), read [AQA GCSE Chemistry exam preparation](/resources/aqa-gcse-chemistry-exam-preparation/), and try the free 10-minute [diagnostics](/diagnostics/).
+
+## Frequently asked questions
+
+**How are the AQA GCSE Chemistry 8462 key ideas assessed?**
+The specification says the key ideas are embedded throughout the subject content and assessed across all papers. Paper 1 covers topics 1 to 5 and Paper 2 covers topics 6 to 10; each is 1 hour 45 minutes and worth 100 marks.
+
+**How does an atom become a 2+ ion?**
+An atom forms a 2+ ion by losing two electrons. The nucleus does not change, so the number of protons stays the same.
+
+**Do covalent bonds break when a simple molecular substance boils?**
+No. Boiling a simple molecular substance overcomes the weak intermolecular forces between molecules. The strong covalent bonds within the molecules stay intact.
+
+**Is energy used up in a chemical reaction?**
+No. Energy is conserved: it is transferred to or from the surroundings, not made or used up. Writing that energy is "made" or "lost" is a common error.
 
 ## Official syllabus
 

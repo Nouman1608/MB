@@ -12,11 +12,11 @@ order: 8
 syllabusTopics:
   - qualification: "o-level"
     topic: "programming-2210"
-description: "Original exam-style questions with full worked answers on library routines (ROUND, DIV, MOD), string handling, one-dimensional arrays, finding largest values, functions with parameters, data types and constants, for Cambridge O Level Computer Science (2210)."
+description: "Original practice questions with worked answers for Cambridge O Level Computer Science 2210: ROUND, DIV, MOD, strings, arrays, largest values and functions."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
 featured: false
@@ -138,3 +138,17 @@ Function header with the name and **two REAL parameters** [1]; `RETURNS REAL` in
 - Using a fixed number such as Scores[1] inside a loop instead of the loop counter as the index.
 - Starting a "highest" variable at a large value (or a "lowest" at a small one), so it is never replaced.
 - Putting the final OUTPUT inside the loop, so it is printed on every pass.
+
+## Frequently asked questions
+
+**What do DIV and MOD return in Cambridge pseudocode?**
+DIV returns the whole-number part of a division and MOD returns the remainder, so DIV(47, 6) is 7 and MOD(47, 6) is 5.
+
+**What is a common mistake with ROUND in O Level Computer Science?**
+Rounding before dividing, as in ROUND(Total, 2) / 6, or leaving out the number of decimal places. Put the calculation inside ROUND and give the number of places as the second parameter.
+
+**How does SUBSTRING work in Cambridge pseudocode?**
+SUBSTRING takes a start position and a length, with positions counted from 1, so SUBSTRING("KX4829", 3, 2) gives "48". Reading the third parameter as an end position is a common error.
+
+**What starting value should a highest variable have?**
+A highest variable should start at a low value, such as 0, so the first value input replaces it. Starting it at a large value means it is never replaced.

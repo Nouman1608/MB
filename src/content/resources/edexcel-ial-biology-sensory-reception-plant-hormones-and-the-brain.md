@@ -218,6 +218,23 @@ New drugs are developed through computer modelling and laboratory testing, then 
 - Giving one effect of IAA only. State stem and root effects.
 - Forgetting that the clear zone in Core Practical 18 is where starch has been digested.
 
+## Frequently asked questions
+
+**What is phytochrome?**
+Phytochrome is a pigment protein with two forms that switch when they absorb light. It controls responses such as seed germination, stem elongation and greening of seedlings, and flowering.
+
+**Does IAA have the same effect in stems and roots?**
+No. IAA stimulates elongation in stems, but in roots a high IAA concentration inhibits elongation.
+
+**What is Core Practical 18 in Edexcel IAL Biology?**
+It investigates whether gibberellin increases amylase production in germinating cereal grains, using grain halves on starch agar and measuring the clear zones after flooding with iodine.
+
+**What do gibberellins do in germinating seeds?**
+Gibberellins made in the embryo switch on genes for amylase, which breaks down starch in the endosperm to sugars for the growing embryo.
+
+**What is the CNS?**
+The central nervous system is the brain and spinal cord. The peripheral nervous system is all the neurones outside it.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology (YBI11) specification, Issue 2, published by Pearson Education Limited.

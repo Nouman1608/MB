@@ -240,6 +240,20 @@ Fewer colours can cause **banding** in skies.
 
 Condense this with the [Graphics creation revision notes](/resources/a-level-cambridge-ict-graphics-creation-revision-notes/), then try the [Graphics creation practice questions](/resources/a-level-cambridge-ict-graphics-creation-practice/). Video and audio compression is in [Video and audio editing](/resources/a-level-cambridge-ict-video-and-audio-editing/); compression utilities are in [Hardware and software](/resources/a-level-cambridge-ict-hardware-and-software/).
 
+## Frequently asked questions
+
+**What is the difference between a bitmap and a vector graphic?**
+In Cambridge 9626, a bitmap is a grid of pixels, each storing a colour, which suits photographs but pixelates when enlarged. A vector graphic stores paths of nodes and curves with a stroke and fill, so it scales without losing quality and suits logos and diagrams.
+
+**What is the difference between grouping and combining shapes?**
+Grouping makes objects move together while staying separate, and they can be ungrouped. Combining or joining makes several paths into one object, and tools such as add, subtract and intersect change the outlines themselves.
+
+**Why does CMYK include a separate black ink?**
+Mixing cyan, magenta and yellow ink gives a muddy dark colour rather than a true black, so a separate key (black) ink is added. Some screen colours cannot be reproduced in ink, so print work should be checked in CMYK.
+
+**What happens when text is converted to curves?**
+Converting text to curves turns the letters into vector paths, so the font is no longer needed and letters can be reshaped, but the text can no longer be edited as text. Keep an editable copy.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 19: Graphics creation (19.1 Common graphics skills; 19.2 Vector graphics; 19.3 Bitmap images; 19.4 Compression; 19.5 Text).

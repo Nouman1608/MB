@@ -11,9 +11,9 @@ syllabusCodes: ["2281"]
 order: 1
 description: "O Level Economics 2281 past papers guide: grade thresholds and examiner report notes for June and November 2022 to 2024, with free practice links."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -237,6 +237,20 @@ Official documents: [past papers, mark schemes and examiner report](https://www.
 5. Fix those topics using the notes and practice on the [O Level Economics subject hub](/boards/cambridge/o-level/economics/), then test yourself in the [2281 self-check question bank](/practice/2281/).
 6. Sit a paper from a different series and compare your mark with that series' thresholds. For June 2026 thresholds on our flagship syllabuses, see [grade thresholds](/grade-thresholds/).
 7. If you want a teacher to go through your answers with you, [book a trial lesson](/trial/).
+
+## Frequently asked questions
+
+**Where can you find official Cambridge O Level Economics 2281 past papers?**
+Cambridge publishes recent papers, mark schemes, examiner reports and grade thresholds on the 2281 past-papers page of its website. Older series are available to schools through the School Support Hub.
+
+**Which Cambridge O Level Economics 2281 papers are multiple choice?**
+Papers 11, 12 and 13 are the multiple-choice papers, and Papers 21, 22 and 23 are the structured-question papers.
+
+**What are grade thresholds?**
+Grade thresholds are the minimum marks needed for each grade in a particular exam series. Comparing your mark on a past paper with that series' thresholds shows roughly what grade the mark would have earned.
+
+**What is the best way to use past papers for revision?**
+Sit the paper under timed conditions, mark it strictly with the official mark scheme, then read the examiner report or summary notes to see whether your mistakes match those other candidates made.
 
 ## About these notes
 

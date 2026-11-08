@@ -120,6 +120,20 @@ Calculate the number still unemployed and the number of unfilled vacancies, expl
 - Listing consequences without explaining the second-stage effect.
 - Ending an evaluation with a summary and no judgement.
 
+## Frequently asked questions
+
+**How do you calculate the unemployment rate?**
+Divide the number unemployed by the labour force, the employed plus the unemployed, and multiply by 100. Dividing by the whole population is a common mistake.
+
+**How do I identify a type of unemployment in a case study question?**
+Give the label and a reason from the case, such as unfilled vacancies in another region pointing to structural unemployment. A label with no reason earns less.
+
+**How should real wage growth be calculated?**
+Use the ratio: divide one plus money wage growth by one plus inflation and subtract one. Subtracting inflation from money wage growth is only an approximation.
+
+**Is demand stimulus the right policy for structural unemployment?**
+No. Raising aggregate demand suits cyclical unemployment; structural and frictional unemployment need supply-side measures such as retraining or better job information.
+
 ## Next steps
 
 - Review the [revision notes](/resources/aqa-a-level-economics-employment-and-unemployment-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-employment-and-unemployment/).

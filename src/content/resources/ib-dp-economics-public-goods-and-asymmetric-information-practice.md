@@ -131,6 +131,20 @@ Revise first with the [study guide](/resources/ib-dp-economics-public-goods-and-
 - Describing a signal as something the buyer does.
 - Giving a government response with no limitation.
 
+## Frequently asked questions
+
+**How do you calculate expected value in an adverse selection question?**
+Multiply each possible value by its probability and add the results. For example, if half the goods are worth 900 and half are worth 400, a buyer who cannot tell them apart values a random one at 0.5 × 900 + 0.5 × 400 = 650. This is HL only.
+
+**How do you calculate expected loss in a moral hazard question?**
+Multiply the size of the loss by the probability that it happens, then add any cost of taking care. Compare the totals with and without care, and then with and without insurance.
+
+**Which parts of this topic are HL only in IB Economics?**
+Sub-topic 2.9, public goods, is for SL and HL. Sub-topic 2.10, asymmetric information, including adverse selection, moral hazard, signalling and screening, is HL only.
+
+**Where are evaluation marks in IB Economics papers?**
+According to the guide, part (b) of Paper 1 carries 15 marks including evaluation, and part (g) of Paper 2 carries 15 marks for synthesis and evaluation. Longer answers are marked against markbands, not point by point.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/ib-dp-economics-public-goods-and-asymmetric-information-revision-notes/) and the [study guide](/resources/ib-dp-economics-public-goods-and-asymmetric-information/).

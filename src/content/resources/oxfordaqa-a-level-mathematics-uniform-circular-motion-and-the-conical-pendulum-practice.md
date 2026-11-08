@@ -160,6 +160,20 @@ Learn the method first in the [study guide](/resources/oxfordaqa-a-level-mathema
 - Take the [free 10-minute diagnostics](/diagnostics/) to find gaps.
 - [Book a free trial class](/trial/) for help with any question you could not finish.
 
+## Frequently asked questions
+
+**What units should angular speed be in for circular motion formulae?**
+Use radians per second. Convert rev/min first, using ω = n × 2π/60, before using v = rω or a = rω².
+
+**Should you draw a centripetal force on the force diagram?**
+No. Draw only the real forces, such as tension, friction or weight, and resolve towards the centre. Their resultant provides the acceleration towards the centre.
+
+**What is the radius of a conical pendulum's circle?**
+It is L sin θ, where L is the string length and θ the angle to the vertical. Using L as the radius is a common error.
+
+**How do you show that a particle's motion is circular from its position vector?**
+Show that its distance from a fixed centre is constant for all t, not just at one or two values of t.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2, published by OxfordAQA. Section M2.7 of Unit M2 (International A-level only).

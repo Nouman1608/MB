@@ -15,11 +15,11 @@ syllabusTopics:
     subtopic: "graphs-in-practical-situations"
 description: "Original exam-style practice questions with full worked answers on distance-time and velocity-time graphs, gradients and areas."
 author: "muhammad-ghazali-siddiqui"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -117,3 +117,17 @@ Related: [Travel Graphs revision notes](/resources/travel-graphs-revision-notes/
 - Adding the areas below the axis when displacement is asked for.
 - Giving a gradient's value without interpreting it in context and stating its units.
 - Forgetting that a non-zero y-intercept represents a fixed starting value, not part of the rate itself.
+
+## Frequently asked questions
+
+**How do you get full marks when interpreting a gradient on a travel graph?**
+Give the value with its units and say what it means in context, such as a speed or a cost per kilometre. A bare number without interpretation or units loses marks.
+
+**Why should you use a large triangle when finding a gradient?**
+A large triangle spanning most of the line reduces the effect of small reading errors. A small triangle, especially on a tangent, magnifies any error.
+
+**Does a horizontal line on a velocity-time graph mean the object has stopped?**
+No. On a velocity-time graph a horizontal line means constant velocity, with zero acceleration. Reading it as "stationary" is one of the most common mistakes.
+
+**Are travel graphs in the Cambridge O Level Maths 4024 syllabus?**
+Yes. Distance-time and velocity-time graphs are part of Graphs in practical situations, in Topic 2 Algebra and graphs of Cambridge O Level Mathematics (Syllabus D) 4024.

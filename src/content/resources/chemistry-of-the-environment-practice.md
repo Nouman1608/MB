@@ -30,9 +30,9 @@ syllabusTopics:
     subtopic: "air-quality-and-climate"
 description: "Original exam-style practice questions with full worked answers on air pollution, greenhouse gases, water treatment and fertilisers for IGCSE Chemistry."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -139,3 +139,17 @@ Two gases with sources: **carbon dioxide** from burning fossil fuels [1]; **meth
 - The water-treatment stages and chlorine's specific role are a genuinely weak recall area — vague answers like "it is purified" or "chlorine cleans it" don't get credit; name each stage in order and state exactly what chlorine does (kills bacteria/disease-causing microorganisms).
 - Confusing the two water tests (which only detect the presence of water) with a purity test (which requires comparing melting/boiling point against the known values for pure water).
 - Assuming the same fuel always produces the same pollutants — complete combustion gives CO₂, incomplete combustion (insufficient oxygen) gives carbon monoxide and particulates instead.
+
+## Frequently asked questions
+
+**Which environment questions are Extended only for Cambridge IGCSE 0620?**
+Questions on catalytic converters and on explaining the greenhouse effect are labelled 0620 Extended; they are required content for Cambridge O Level 5070.
+
+**What is the composition of clean, dry air?**
+Clean, dry air is about 78% nitrogen and 21% oxygen, with about 1% argon and small amounts of carbon dioxide and other gases.
+
+**How should you answer pollutant source and effect questions?**
+Give both the source and a harmful effect for each pollutant. Giving the source without its effect, or the reverse, loses marks.
+
+**Do the water tests show that water is pure?**
+No. Anhydrous copper(II) sulfate and cobalt(II) chloride only detect the presence of water. To test purity, compare the melting or boiling point with the known values for pure water.

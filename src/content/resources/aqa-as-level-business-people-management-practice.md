@@ -132,6 +132,23 @@ Evaluate whether Osprey Bay Hotel should keep the package. **[9]**
 - Try the [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these AQA AS-Level Business past paper questions?**
+No. They are original questions on section 3.2.1 People management of AQA AS Business (7137), written for practice and not reproduced from AQA papers.
+
+**How do you calculate employee turnover?**
+Divide the number of leavers by the average number of employees and multiply by 100. A common mistake is dividing by the wrong employee figure, such as the starting number when an average is given.
+
+**Is pay a motivator in Herzberg's theory?**
+No. In Herzberg's theory pay is a hygiene factor: it can prevent dissatisfaction but does not by itself create lasting motivation. Treating pay as a motivator is a frequent way to lose marks.
+
+**How should I use Hackman's model in an answer?**
+Match each condition, such as a real team or a compelling direction, to a detail in the case. Listing all five conditions without applying them to the business earns little.
+
+**What does a 9-mark evaluate question in people management need?**
+Use the case data on both sides, then reach a judgement that depends on a stated factor. Evaluating only one side, or giving a verdict the figures do not support, loses marks.
+
 ## Official syllabus
 
 AQA AS and A-level Business specification (7137, 7138), for first teaching from September 2026, section 3.2.1 People management.

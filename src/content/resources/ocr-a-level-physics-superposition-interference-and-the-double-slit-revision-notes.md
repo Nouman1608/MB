@@ -198,6 +198,20 @@ Good practice: one common source for coherence, measure across several spacings 
 - Writing lines per mm as d, or rounding the highest order up.
 - Forgetting that a ≪ D is needed for λ = ax/D.
 
+## Frequently asked questions
+
+**What are coherent sources?**
+Coherent sources have a constant phase difference, which requires them to have the same frequency. Splitting light from one source, as a double slit does, is a common way to produce them.
+
+**What is the difference between path difference and phase difference?**
+Path difference is the extra distance one wave travels compared with the other, measured in metres. Phase difference is how far ahead one wave is in its cycle, measured in radians or degrees.
+
+**Why are diffraction grating maxima sharper than double-slit fringes?**
+A grating has many equally spaced slits, and a maximum needs light from all of them to be in phase. This makes the maxima sharp, so their angles can be measured more precisely.
+
+**Which section of OCR A Level Physics A covers superposition and the double slit?**
+It is section 4.4.3 (Superposition), outcomes (a) to (g), of OCR H556 in Module 4. The diffraction grating equation d sin θ = nλ is assessed at A level only.
+
 ## Official syllabus
 
 OCR, Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017, section 4.4.3 Superposition.

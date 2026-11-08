@@ -12,11 +12,20 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "commercial-operations-7100"
-description: "Condensed recall notes on private and public sector enterprises, multinationals, franchises, outsourcing, retailing, wholesaling and communication for Cambridge O Level Commerce (7100), 2026-2028 series."
+  - qualification: "o-level"
+    topic: "commercial-operations-7100"
+    subtopic: "commercial-enterprises-7100"
+  - qualification: "o-level"
+    topic: "commercial-operations-7100"
+    subtopic: "retailing-7100"
+  - qualification: "o-level"
+    topic: "commercial-operations-7100"
+    subtopic: "trading-documents-7100"
+description: "Recall notes for Cambridge O Level Commerce 7100 Topic 2: enterprise types, multinationals, franchises, outsourcing, retail, wholesale and communication."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -163,6 +172,20 @@ factors (appropriateness of ownership; urgency/cost/security/distance
 for communication) to short scenarios, since these two sub-topics are
 most often examined through applied "which would you recommend and
 why" questions rather than pure recall.
+
+## Frequently asked questions
+
+**What are the private sector business types in O Level Commerce 7100?**
+Sole trader, cooperative, partnership, private limited company and public limited company. Public corporations are in the public sector, and candidates also need their features and the reasons they exist.
+
+**What is the difference between physical and ecommerce location factors?**
+Physical location factors include labour, markets, transport, power, raw materials, competition, suppliers, communication and government influence. Ecommerce location factors are wi-fi, warehousing, technology specialists and logistics.
+
+**What has driven the growth of outsourcing?**
+The 7100 syllabus names contract manufacturing and contract logistics as the two growth areas behind outsourcing.
+
+**How do you answer a discuss question on the effects of ecommerce?**
+Weigh positives such as 24/7 selling and lower store costs against negatives such as delivery, warehousing and website costs, then finish with a judgement linked to the scenario rather than a neutral list.
 
 ## Related resources
 

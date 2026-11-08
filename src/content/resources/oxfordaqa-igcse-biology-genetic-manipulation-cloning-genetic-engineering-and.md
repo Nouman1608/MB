@@ -257,6 +257,23 @@ For cloning, the same style works. A cloned herd keeps the best features, but id
 - Writing that GM crops are "proven unsafe" or "proven safe". The specification says there is uncertainty.
 - Giving an opinion with no evidence from the information supplied.
 
+## Frequently asked questions
+
+**How is a human gene transferred into bacteria?**
+Enzymes isolate the required gene from the donor's chromosome, the gene is put into a vector, most often a bacterial plasmid, and the vector inserts the gene into the bacterial cells. Because the genetic code is shared, the bacteria then make the human protein.
+
+**Why are genes transferred at an early stage of development?**
+If a gene is put into an animal, plant or microorganism early in its development, it is copied each time the cells divide, so the organism grows with the gene in all its cells.
+
+**Is an embryo transplant calf identical to its host mother?**
+No. The calves from one split embryo are identical to each other, but the host mothers only carry them and are not their genetic parents.
+
+**How do GM crops increase yields?**
+Insect-resistant crops suffer less pest damage and need fewer sprays, and herbicide-resistant crops survive when weeds are sprayed, so there is less competition. Both mean less loss of the crop.
+
+**Which section of OxfordAQA 9201 Biology covers genetic manipulation?**
+Section 3.5.5, Genetic manipulation, parts a to f, covering cloning techniques, genetic engineering, GM crops and the concerns about them.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. This guide covers section 3.5.5 Genetic manipulation, parts a to f.

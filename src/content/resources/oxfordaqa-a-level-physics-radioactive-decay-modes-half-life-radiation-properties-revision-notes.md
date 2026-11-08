@@ -210,6 +210,20 @@ I = I₀/r²
 - Describing an absorption experiment without measuring the background or fixing the geometry.
 - Giving a gamma source for foil gauging without justifying the choice.
 
+## Frequently asked questions
+
+**What happens to A and Z in alpha decay?**
+In alpha decay the nucleus emits a helium nucleus, so the nucleon number A falls by 4 and the proton number Z falls by 2.
+
+**What happens in beta-minus decay?**
+A neutron becomes a proton and the nucleus emits an electron and an antineutrino. The nucleon number stays the same and the proton number rises by 1.
+
+**What stops alpha, beta and gamma radiation?**
+Alpha is stopped by paper or skin and beta by a few millimetres of aluminium. Gamma is never fully stopped, but thick lead or concrete greatly reduces its intensity.
+
+**Is radioactivity in OxfordAQA International AS Physics (9630)?**
+Yes. Section 3.3.3 (radioactivity) is part of section 3.3, which is shared International AS and A-level content in the OxfordAQA International AS and A-level Physics (9630) specification.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), specification version 4.4, for exams from May/June 2020 onwards, published by Oxford International AQA Examinations: section 3.3.3 Radioactivity.

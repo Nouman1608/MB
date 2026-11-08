@@ -125,7 +125,7 @@ Recommendation: the loan, because it costs less over the period and ownership st
 ## Where marks are usually lost
 
 - Writing a definition of revenue expenditure that mentions only "cost" without the short-term, running-cost idea.
-- Missing the extension in Q2 style questions: improvements are capital even if they sound like maintenance.
+- Missing the extension in question 2 style questions: improvements are capital even if they sound like maintenance.
 - Using the wrong denominator when finding ownership percentages after a share issue.
 - Giving a monthly lease figure and not multiplying by the number of months.
 - Forgetting to change time to years when a loan or overdraft runs for months.
@@ -141,6 +141,20 @@ Recommendation: the loan, because it costs less over the period and ownership st
 - Tick off the [printable checklist](/checklists/ib/ib-dp/business/)
 - Try all the [free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Is an improvement to a building capital or revenue expenditure?**
+An improvement that adds to an asset's value or life, such as an extension, is capital expenditure even if it sounds like maintenance. Spending that only restores an asset to working order, such as an ordinary repair, is revenue expenditure.
+
+**What are common mistakes on sources of finance questions?**
+Students often describe a source in general terms with no link to the business in the stem, use the wrong denominator for ownership percentages after a share issue, and forget to convert months into years for loan or overdraft interest. Weighing only one source or leaving out a conclusion in an evaluation also loses marks.
+
+**How do you calculate retained profit?**
+Retained profit is profit after tax minus dividends. It is the part of profit kept in the business, and it is one of the internal sources of finance in section 3.2 of the IB Business management guide.
+
+**How should you answer a recommend question on financing an asset?**
+Compare the sources on offer using the numbers given, such as total interest or total lease payments, and match the term of the finance to the life of the asset. Then give a clear recommendation with a justification.
 
 ## Official syllabus
 

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-ocr-alevel-maths"
     subtopic: "algebra-and-functions-ocr-alevel-maths"
-description: "Condensed recall notes for OCR A Level Mathematics A H240 sections 1.02a-1.02i, with methods, a self-test and the most common lost marks."
+description: "Condensed exam recall notes for OCR A Level Mathematics A H240 sections 1.02a-1.02i, with methods, a self-test and the most common lost marks."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -273,6 +273,20 @@ k² − 36 = 0  →  k = 6 or k = −6
 - Writing "−3 > x > 2" or similar, which says nothing sensible. Use "or" or two separate inequalities.
 - Using a solid line for a strict inequality when shading regions.
 - Forgetting that the substitution value must be checked, for example √x = −2.
+
+## Frequently asked questions
+
+**How do you rationalise a denominator such as √7 − 1?**
+Multiply the top and bottom by the conjugate, √7 + 1, so the denominator becomes 7 − 1 = 6. A single surd in the denominator is rationalised by multiplying by that surd.
+
+**How do you solve a quadratic inequality?**
+Find the roots, sketch the parabola and read off the answer. For a ∪-shaped graph, "< 0" is between the roots and "> 0" is outside the roots, written with "or".
+
+**What is the difference between set notation and interval notation?**
+Set notation writes a solution as {x : −2 ≤ x ≤ 4}, while interval notation writes it as [−2, 4]. Square brackets include an end value and round brackets exclude it.
+
+**How do you find the turning point from completed square form?**
+For y = a(x + p)² + q, the turning point is (−p, q) and the line of symmetry is x = −p.
 
 ## Official syllabus
 

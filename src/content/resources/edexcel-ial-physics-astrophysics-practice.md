@@ -15,9 +15,9 @@ syllabusTopics:
     subtopic: "astrophysics-and-cosmology"
 description: "Original exam-style practice questions with full worked answers on luminosity, the HR diagram, stellar evolution and Hubble law for Edexcel IAL Physics."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -130,3 +130,17 @@ energy from supernova observations showing the rate of expansion is
 itself **accelerating**, not just continuing at a constant rate. For
 the full treatment of cosmology alongside stellar evolution, see the
 [Astrophysics and Cosmology revision notes](/resources/edexcel-ial-physics-astrophysics-revision-notes/).
+
+## Frequently asked questions
+
+**What is trigonometric parallax?**
+Trigonometric parallax is the apparent shift in a nearby star's position against distant background stars as Earth orbits the Sun. It measures distances to relatively close stars and is used to calibrate standard candles.
+
+**Which part of Edexcel IAL Physics covers astrophysics?**
+Astrophysics and cosmology is sub-topic 5.6 of Unit 5 (Thermodynamics, Radiation, Oscillations and Cosmology) in Pearson Edexcel International A Level Physics (YPH11).
+
+**Does redshift have a unit?**
+No. Redshift z ≈ Δλ/λ ≈ v/c is a ratio, so it is dimensionless; it is not itself a wavelength or a frequency.
+
+**What mistakes lose marks in astrophysics questions?**
+Common errors include confusing luminosity with flux, forgetting the HR diagram's reversed temperature axis, applying Stefan's law before Wien's law, and not handling the units of the Hubble constant consistently.

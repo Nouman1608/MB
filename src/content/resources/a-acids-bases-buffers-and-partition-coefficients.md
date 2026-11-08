@@ -19,9 +19,9 @@ syllabusTopics:
     subtopic: "a-partition-coefficients"
 description: "Calculating pH, Ka, pKa and Ksp, how buffer solutions work, and partition coefficients, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -289,6 +289,23 @@ dimerise differently in the two solvents.**
 - Ksp = product of ion concentrations (powers = stoichiometric coefficients)
 - Common ion effect: solubility falls when one ion is already present
 - Kpc = [solute in A] / [solute in B], same species, no dissociation
+
+## Frequently asked questions
+
+**How do you calculate the pH of a weak acid in Cambridge 9701 Chemistry?**
+Assume the acid barely dissociates, so [HA] stays at its starting concentration C and [H⁺] = [A⁻]. Then Ka ≈ [H⁺]²/C, so [H⁺] = √(Ka × C) and pH = −log₁₀[H⁺].
+
+**Why does doubling both concentrations in a buffer not change its pH?**
+Buffer pH comes from [H⁺] = Ka × [HA]/[A⁻], which depends only on the ratio of weak acid to conjugate base. Doubling both concentrations keeps the ratio, and so the pH, the same.
+
+**How does the common ion effect change solubility?**
+When a solution already contains one of the ions of a sparingly soluble salt, the other ion's concentration must fall so that Ksp is still satisfied. For example, AgCl is far less soluble in 0.100 mol dm⁻³ NaCl than in pure water.
+
+**Does a partition coefficient have units?**
+Kpc is a ratio of the solute's concentration in one solvent to its concentration in the other, so with consistent units it has none. It only applies when the solute exists as the same species in both solvents, without dissociating or associating.
+
+**Do I need Kb or Kw = Ka × Kb for Cambridge A Level Chemistry?**
+No. The 9701 syllabus requires pH, Ka, pKa and Kw calculations, but Kb and the relationship Kw = Ka × Kb are not required.
 
 ## Related resources
 

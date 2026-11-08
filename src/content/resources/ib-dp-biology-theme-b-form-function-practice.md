@@ -12,13 +12,13 @@ order: 7
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-biology-form-function"
-description: "Original practice questions with full worked answers covering macromolecules, proteins, membrane transport, organelles, cell specialization, gas exchange and adaptation, for IB Diploma Programme Biology Theme B."
+description: "Original IB DP Biology Theme B practice questions with worked answers on macromolecules, proteins, membranes, organelles, gas exchange and adaptation."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -131,3 +131,17 @@ cell type, a named organism, a described structure) and asks the structure-funct
 explained in relation to that scenario specifically. Practising this applied form -- rather than only
 memorising the underlying facts in isolated form -- is what best prepares a Theme B response for the
 scenario-based style Paper 1 and Paper 2 consistently use.
+
+## Frequently asked questions
+
+**What determines a protein's function?**
+A protein's function is determined by its three-dimensional folded shape, which is itself determined by its sequence of amino acids.
+
+**What is the difference between passive and active membrane transport?**
+Passive methods (diffusion, facilitated diffusion and osmosis) move substances down a concentration gradient without energy input; active transport uses ATP and can move substances against a concentration gradient.
+
+**Are blood supply and ventilation properties of a gas-exchange surface?**
+No. The properties of the surface are permeability, a thin tissue layer, moisture and a large surface area; blood supply and ventilation maintain the concentration gradient across it instead.
+
+**How should you answer Theme B structure and function questions?**
+Link a named structure to its function in the specific scenario given, for example explaining how small, thick, waxy leaves reduce water loss for a desert plant, rather than giving a bare definition.

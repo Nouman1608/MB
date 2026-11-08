@@ -234,6 +234,20 @@ Compare potassium sulfide, K₂S, with calcium sulfide, CaS. Both contain S²⁻
 - [Study guide for Structure 2.1](/resources/ib-dp-chemistry-the-ionic-model/) and [Structure 2.1 practice questions](/resources/ib-dp-chemistry-the-ionic-model-practice/)
 - Wider course pages: the [syllabus guide](/resources/ib-dp-chemistry-syllabus-guide/), the [IB chemistry hub](/boards/ib/ib-dp/chemistry/) and the [printable checklist](/checklists/ib/ib-dp/chemistry/)
 
+## Frequently asked questions
+
+**Which polyatomic ions do you need to know for IB DP Chemistry Structure 2.1?**
+The guide lists seven: ammonium (NH₄⁺), hydroxide (OH⁻), nitrate (NO₃⁻), hydrogencarbonate (HCO₃⁻), carbonate (CO₃²⁻), sulfate (SO₄²⁻) and phosphate (PO₄³⁻).
+
+**Why do ionic compounds only have empirical formulas?**
+An ionic crystal is a giant lattice with no fixed number of ions and no discrete molecules, so its formula shows only the simplest ratio of ions. Calling CaO a molecule is wrong.
+
+**Do all ionic compounds dissolve in water?**
+No. Many dissolve, but stating that all ionic compounds dissolve in water is a common error; if the lattice attractions are too strong, the compound stays largely undissolved.
+
+**How do transition elements form ions?**
+Transition elements lose their 4s electrons first and may then lose 3d electrons, so one element can form several ions, such as Fe²⁺ and Fe³⁺.
+
 ## Official syllabus
 
 Source: the International Baccalaureate's Diploma Programme *Chemistry guide*, issued in February 2023 for courses examined from 2025. This page follows its sub-topic Structure 2.1, The ionic model: understandings 2.1.1, 2.1.2 and 2.1.3, which are all common to SL and HL.

@@ -154,6 +154,20 @@ Project B (incremental upgrade): cost 1.8 million, probability of success 0.8, t
 - Try all free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Are R&D and management information systems HL only in IB Business Management?**
+Yes. Section 5.8 (Research and development) and section 5.9 (Management information systems) are both HL only in Unit 5 of the IB Business management guide, first assessment 2024.
+
+**What are common mistakes on R&D and MIS practice questions?**
+Students often define a technology without linking it to the business in the stem, compare monthly and yearly figures without converting, and treat a data-mining pattern or loyalty-programme gain as proof of cause. Choosing the project with the highest expected value without weighing risk and cash also loses marks.
+
+**Does a pattern found by data mining prove a cause?**
+No. A link between two items in the data is not proof that one causes the other, so any action it suggests should be tested before the business relies on it.
+
+**How should you choose between a risky and a safe R&D project?**
+Compare expected values, but also weigh the risk of failure, how much cash the business has, and its competitors and market. Give a conclusion that names what else you would want to know.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. Sections 5.8 and 5.9 (both HL only).

@@ -25,11 +25,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-4-19"
 description: "12 original IB Maths AI HL questions on survey design, χ² tests, regression, hypothesis tests and Markov chains, with mark-by-mark worked answers."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -243,6 +243,23 @@ r = **0.819** [1], p = **0.00645** [1]
 - Read the [exam preparation guide](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Is this content in the IB Maths AI SL syllabus?**
+No. Syllabus sections 4.12, 4.13, 4.18 and 4.19 of the IB Maths AI guide are HL only (AHL), so these questions are for HL students.
+
+**When should you use a t-test instead of a z-test for a mean?**
+Use a z-test when the population standard deviation σ is known and a t-test when it is unknown, whatever the sample size. Using a z-test when σ has been estimated from the sample is a common way to lose marks.
+
+**How should matched pairs data be tested?**
+Find the difference for each pair, then carry out a one-sample test on those differences. Analysing matched pairs as two independent samples is a common error.
+
+**Which probability do you use to find the probability of a Type II error?**
+Find the probability that the test statistic falls outside the critical region using the stated true value of the parameter, not the value in H₀. Using the H₀ value instead is a frequent mistake.
+
+**How do you scale a Poisson rate to a different time period?**
+Multiply the rate by the length of the new period, so a mean of 3.5 per month over 8 months becomes Po(28) for the total. Scaling to the wrong period gives the wrong distribution under H₀.
 
 ## Official syllabus
 

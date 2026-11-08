@@ -24,11 +24,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-3-cambridge-alevel"
     subtopic: "complex-numbers-cambridge-alevel-maths"
-description: "Original exam-style questions with full worked answers on the R cos(θ − α) form, double-angle equations, locating roots and fixed-point iteration, vector equations of lines, scalar products and areas, square roots of complex numbers and loci of complex numbers, for Cambridge International AS & A Level Mathematics (9709)."
+description: "Original Cambridge 9709 Pure Mathematics 3 practice with worked answers on R cos(θ − α), trig equations, iteration, vectors and complex number roots and loci."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-24
 featured: false
 ---
@@ -129,3 +129,20 @@ Each question practises a skill tested in the June 2025 Paper 32. After each ans
 - A point tested on a line using only one component.
 - Vectors for an angle not both taken from the vertex.
 - Signs of x and y mixed up when square roots of a complex number are paired.
+
+## Frequently asked questions
+
+**What trigonometry, vectors and complex numbers topics are in 9709 Pure Mathematics 3?**
+This set practises the R cos(θ − α) form, double-angle equations, locating roots and fixed-point iteration, vector equations of lines, scalar products and areas, square roots of complex numbers, and loci in the Argand diagram.
+
+**How do you find all solutions when an equation involves 2x?**
+Double the given range first, so 0 < x < π becomes 0 < 2x < 2π, solve for 2x across that whole range, then halve. Forgetting to double the range usually loses solutions.
+
+**How do you show that an equation has a root in an interval?**
+Rearrange to f(x) = 0, calculate f at both ends of the interval, and show the values have opposite signs. Then state that f is continuous and there is a sign change, so a root lies between them.
+
+**How do you check whether a point lies on a vector line?**
+Find the parameter λ from one component, then check that the same λ works in every other component. One matching component alone is not enough.
+
+**Why should you not divide by cos x when solving a trigonometric equation?**
+Dividing by an expression that can be zero loses the solutions where it is zero. Factorise it out instead, and solve each factor separately.

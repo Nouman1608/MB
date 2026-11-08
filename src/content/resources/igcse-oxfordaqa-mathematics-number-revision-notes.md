@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "number-oxfordaqa-igcse-maths"
-description: "Condensed recall notes on Topic 1 Number for OxfordAQA International GCSE Mathematics (9260) -- calculation, fractions/percentages, ratio, indices, surds and bounds."
+description: "Recall notes on Topic 1 Number for OxfordAQA IGCSE Maths 9260: calculation, percentages, ratio and proportion, indices, standard form, surds and bounds."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-26
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation and worked examples, use the
@@ -230,3 +230,16 @@ difference involving a surd.
   <figcaption>7/16 as a fraction, decimal and percentage are all the same point.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you calculate compound interest?**
+Multiply the original amount by the multiplier raised to the number of years. For 5% a year over 3 years, use x × 1.05³, not x × 1.05 × 3.
+
+**Does HCF × LCM equal the product of the numbers?**
+For exactly two numbers, yes, which makes a useful check. The relationship does not hold for three or more numbers.
+
+**How do you add numbers in standard form?**
+Convert them so they share the same power of 10, then add the front numbers and rewrite the answer so the first part is between 1 and 10.
+
+**Are bounds in the Core tier of OxfordAQA 9260?**
+No. Upper and lower bounds (N11) are Extension tier only; Core candidates round to a given accuracy but do not calculate with bounds.

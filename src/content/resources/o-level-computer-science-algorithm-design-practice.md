@@ -12,11 +12,11 @@ order: 7
 syllabusTopics:
   - qualification: "o-level"
     topic: "algorithm-design-and-problem-solving-2210"
-description: "Original exam-style questions with full worked answers on abstraction and decomposition, choosing test data, verification by double entry, tracing algorithms, finding errors in pseudocode and writing validation algorithms, for Cambridge O Level Computer Science (2210)."
+description: "Original practice questions with worked answers for Cambridge O Level Computer Science 2210: abstraction, test data, double entry, tracing, fixing pseudocode."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
 featured: false
@@ -193,3 +193,17 @@ Any five from: a loop that runs 12 times [1]; input of each value [1]; a validat
 - Getting a range check the wrong way round: mixing up < and <=, or AND and OR, so that a limit value is wrongly accepted or rejected.
 - Putting a final output inside a loop, so the message or total is printed many times.
 - Describing when a loop stops in vague terms ("when it is done") instead of naming the variables and the condition.
+
+## Frequently asked questions
+
+**What is the difference between extreme and boundary test data in O Level Computer Science?**
+Extreme data is a value at a limit of the range, such as 10 or 80 for a range from 10 to 80. Boundary data is a value at a limit or just beyond it, such as 80 accepted and 81 rejected.
+
+**How do you correct errors in a pseudocode question?**
+Give the line number of each error and rewrite that line correctly. Check each variable's data type, starting value, how it is updated and what is finally output.
+
+**Where should a final output go in a validation algorithm?**
+A final message or total should come after the loop, so it is output once. Putting it inside the loop makes it print many times, which is a common error.
+
+**How should you explain when a loop stops?**
+Name the variables and the exact conditions that end the loop, rather than vague phrases such as when it is done.

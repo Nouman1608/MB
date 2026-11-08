@@ -189,6 +189,20 @@ Worked reminder (two supports): a light rod of length 3 m rests on supports at i
 - Leaving a reaction out of a vertical resolution after using moments.
 - Quoting answers to the wrong accuracy or without units when the question asks for a numerical value.
 
+## Frequently asked questions
+
+**What is the formula for impulse?**
+Impulse is the change in momentum, I = mv − mu, measured in N s. For a constant force F acting for time t, the impulse is also F × t.
+
+**Is Newton's law of restitution in Edexcel IAL Mechanics 1?**
+No. The Edexcel IAL Mathematics specification (YMA01) says Newton's law of restitution is not required in Unit M1, and momentum problems are one-dimensional.
+
+**What is the difference between tension and thrust?**
+Tension pulls along a string or rod, while thrust pushes along a rod. A string can only pull, but a rod can either pull or push.
+
+**Where does the weight of a uniform rod act?**
+The weight of a uniform rod acts at its midpoint. A light rod has no weight, and for a non-uniform rod the position of the centre of mass is given in the question.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification, Issue 3, April 2019 (Pearson Education Limited), unit M1 topics 4.3, 5.1, 5.2, 5.3 and 6.1.

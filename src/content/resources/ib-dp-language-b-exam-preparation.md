@@ -9,13 +9,13 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language B"]
 syllabusSeries: "First assessment 2020"
 order: 6
-description: "Paper-by-paper exam preparation for IB Diploma Programme Language B -- matching Paper 1's text type to its purpose, extracting specific detail on Paper 2, moving beyond description on the individual oral, a worked scenario and a checklist."
+description: "Exam preparation for IB DP Language B: matching Paper 1's text type to its purpose, finding specific detail in Paper 2 and developing the individual oral."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 The [assessment revision notes](/resources/ib-dp-language-b-assessment-revision-notes/) set out what
@@ -132,6 +132,20 @@ reading comprehension exercises consistently test detailed understanding, not ju
 so only skimming for gist leaves genuine detail-extraction questions unanswered. 4. It briefly
 describes the stimulus, then moves into interpretation connecting it to the relevant theme, and
 suggests a specific direction for further development -- rather than stopping at description alone.
+
+## Frequently asked questions
+
+**How do you choose a text type in IB Language B Paper 1?**
+Identify the text type the task's purpose and audience require, then check that your register, structure and opening and closing conventions match it throughout. A grammatically correct response in the wrong register still loses marks.
+
+**What text types can appear in Language B Paper 1?**
+The syllabus groups text types into personal, professional and mass media categories. Its examples, such as a blog post, formal letter or report, are neither prescriptive nor exhaustive, and the choice on offer is set each exam session.
+
+**How should you prepare for Language B Paper 2?**
+Practise locating and extracting specific detail from listening and reading passages under timed conditions, not just the general gist. Reading carries more raw marks, so weight your practice towards it.
+
+**How much of the individual oral should be description?**
+Keep description of the stimulus brief and move into interpretation within the first third of the response. Spend most of the time connecting it to the theme at SL or to the literary work as a whole at HL.
 
 ## Official syllabus
 

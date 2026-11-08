@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "accounting-procedures"
   - qualification: "o-level"
     topic: "accounting-procedures"
-description: "Capital and revenue expenditure and receipts, depreciation and disposal of non-current assets, other payables and other receivables, irrecoverable debts and the allowance for irrecoverable debts, and inventory valuation — the year-end procedures of Cambridge IGCSE Accounting (0452) Topic 4, 2027-2029 syllabus."
+description: "Cambridge IGCSE Accounting 0452 Topic 4 guide: capital and revenue items, depreciation and disposals, accruals, irrecoverable debts and inventory valuation."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 publishedDate: 2026-09-16
 featured: false
 ---
@@ -657,6 +657,23 @@ creation, increase and decrease.
 - Value inventory at the lower of cost and net realisable value, item by
 item, and state the effect of an over- or undervaluation on gross profit,
 profit for the year, equity and asset valuation.
+
+## Frequently asked questions
+
+**What is the difference between capital receipts and revenue receipts in Cambridge IGCSE Accounting 0452?**
+Capital receipts include the proceeds of selling a non-current asset, capital introduced by the owner and loans received. Revenue receipts come from normal trading and other income, such as sales, rent received and commission received.
+
+**Which depreciation methods are in the 0452 syllabus?**
+For 2027 to 2029, section 4.2 covers the straight-line, reducing balance and revaluation methods, and choosing a suitable method for different types of non-current asset. Follow any depreciation policy the question gives, such as a full year's charge in the year of purchase.
+
+**How is the profit or loss on disposal of a non-current asset calculated?**
+Compare the sale proceeds with the net book value, which is cost minus accumulated depreciation, not with the original cost. The accumulated depreciation of the asset sold is transferred from the provision for depreciation account to the disposal account.
+
+**How do you record an irrecoverable debt that is later recovered?**
+First reinstate the customer's account, then record the cash received from the customer. Forgetting to reinstate the customer's account before recording the recovery is a common mistake.
+
+**What is the effect of overvaluing closing inventory?**
+Overvalued closing inventory understates cost of sales, so gross profit, profit for the year, equity and the inventory figure in the statement of financial position are all overstated. Inventory should be valued item by item at the lower of cost and net realisable value.
 
 ## Official syllabus
 

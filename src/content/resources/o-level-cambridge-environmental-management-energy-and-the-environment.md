@@ -12,11 +12,11 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "energy-and-the-environment-5014"
-description: "Fossil fuel formation, renewable and non-renewable energy resources, energy demand, conservation strategies, and the causes and management of oil pollution -- the second of nine topics in Cambridge O Level Environmental Management (5014), 2025-2026 series."
+description: "Fossil fuel formation, energy resources, energy demand, conservation and oil pollution: Topic 2 of the 2025-2026 O Level Environmental Management 5014 syllabus."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-01
 featured: false
 ---
@@ -189,3 +189,20 @@ climate, transport) actually increases or decreases demand.
   that develop new supply.
 - Separate the causes of oil pollution from the strategies used to
   manage it, and recall a real case study of an oil pollution event.
+
+## Frequently asked questions
+
+**Is nuclear power renewable?**
+No. Nuclear power is non-renewable because uranium is finite, even though it does not burn fossil fuel. Classifying it as renewable is a common mistake.
+
+**How do different energy resources generate electricity?**
+Fossil fuels, biofuels and some geothermal plants burn fuel or use heat to raise steam that drives a turbine; hydro-electric, tidal and wave power use moving water to turn a turbine; and solar cells, wind turbines and nuclear fission generate electricity without combustion.
+
+**What factors affect energy demand in O Level Environmental Management 5014?**
+The 2025-2026 syllabus names domestic and industrial demand, transport, personal and national wealth, and climate. Explain how each factor increases or decreases demand rather than just listing it.
+
+**Is MARPOL a clean-up method?**
+No. MARPOL is an international convention that prevents pollution from ships. Clean-up methods for a spill include booms, detergent sprays and skimmers.
+
+**Which 5014 edition does this energy guide follow?**
+It follows the outgoing 2025-2026 edition, where energy is its own topic. In the 2027-2029 edition, energy becomes three sub-topics within Topic 1 Natural resources.

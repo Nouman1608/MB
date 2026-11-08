@@ -144,6 +144,23 @@ Eleven questions on 3.1.5.1, 3.1.5.2 and 3.1.5.3 of OxfordAQA's International AS
 - Take one of the free [10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on public goods and externalities questions?**
+Common losses are defining a public good as one the state provides, listing "non-rival and non-excludable" without explaining them in context, skipping the free-rider link, and moving the wrong curve or moving it the wrong way.
+
+**How do I explain why a private firm will not supply a public good?**
+Link non-excludability to the free-rider problem: if people cannot be excluded, they can use the good without paying, so a firm cannot earn revenue from it. Use any figures given to show that the good is still worth providing.
+
+**Which curve shifts for an externality?**
+For a production externality, shift the supply curve by the external amount; for a consumption externality, shift the demand curve. State which curve moves, which way and by how much.
+
+**How should I evaluate the tragedy of the commons?**
+Weigh the theory against criticisms, such as users agreeing rules, the difference between open access and shared ownership, and how fast the resource renews, then finish with a verdict that names the condition it rests on.
+
+**Which OxfordAQA 9640 sections do these questions cover?**
+They cover sections 3.1.5.1, 3.1.5.2 and 3.1.5.3 of the OxfordAQA International AS and A-level Economics (9640) specification: the meaning of market failure, public and quasi-public goods, and externalities.
+
 ## Official syllabus
 
 Source: the specification for OxfordAQA's International AS and A-level Economics course, code 9640, version 1.2. First teaching was September 2020, the first AS exams were May/June 2021 and the first A-level exams were May/June 2022. Covered here: 3.1.5.1, 3.1.5.2 and 3.1.5.3.

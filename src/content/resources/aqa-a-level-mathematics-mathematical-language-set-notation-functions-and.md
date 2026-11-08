@@ -232,6 +232,23 @@ When asked to justify a formula or method, show why each step is allowed, and gi
 - Including an end value for a strict inequality, or leaving it out for a non-strict one.
 - Treating a set of examples as proof.
 
+## Frequently asked questions
+
+**Why does OT1 matter in AQA A-level Maths 7357?**
+OT1 is an overarching theme that applies to the whole course, so precise language, set notation, function definitions and critiquing arguments can appear inside questions on any topic.
+
+**How do you find constants in an identity such as 2x² + 12x + 7 ≡ a(x + b)² + c?**
+Expand the right-hand side and match the coefficients of x², x and the constant term, because an identity holds for every x. Here a = 2, b = 3 and c = −11.
+
+**What is (A ∪ B)′ equal to?**
+(A ∪ B)′ = A′ ∩ B′: being in neither set means not being in A and not being in B.
+
+**How do you critique a solution that squares both sides?**
+Squaring can create solutions of a different equation, so check each answer in the original. For √(x + 6) = x, squaring gives x = 3 or x = −2, but only x = 3 satisfies the original.
+
+**What is the vertical line test for a function?**
+On a graph, a rule defines y as a function of x only if no vertical line meets the curve more than once, so each input has exactly one output.
+
 ## Where next
 
 Work through the [practice questions](/resources/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and-practice/), then use the [revision notes](/resources/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and-revision-notes/) to consolidate. The [free 10-minute diagnostics](/diagnostics/) show where you stand.

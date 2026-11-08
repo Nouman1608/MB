@@ -17,11 +17,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-intertextuality"
 description: "IB DP Language A: Literature study guide to prose and drama: narrative perspective, time, setting, staging and dialogue, with worked examples."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This study guide teaches you how to read and write about **prose fiction and drama** for IB
@@ -256,6 +256,20 @@ Use a four-part pattern in each analytical point:
 Condense this unit with the [revision notes](/resources/ib-dp-language-a-literature-prose-and-drama-analysis-revision-notes/),
 then test yourself with the [practice questions](/resources/ib-dp-language-a-literature-prose-and-drama-analysis-practice/).
 For assessment detail, see the [assessment revision notes](/resources/ib-dp-language-a-literature-assessment-revision-notes/).
+
+## Frequently asked questions
+
+**What is free indirect style?**
+Free indirect style blends the narrator's voice with a character's thoughts without "she thought". Jane Austen uses it throughout Emma.
+
+**What is the difference between flat and round characters?**
+E. M. Forster's terms describe a flat character as built round a single idea and not changing, and a round character as capable of surprising the reader. Saying what a change makes the reader re-read is analysis; simply labelling a character round is description.
+
+**What is the difference between analepsis and prolepsis?**
+Analepsis is a flashback that moves back in time; prolepsis is a flash-forward that moves ahead, often creating suspense or a sense of fate.
+
+**What is a frame narrative?**
+A frame narrative places one story inside another, as in Frankenstein, where Victor's story reaches the reader through Walton's letters. Each account comes through a listener who may not be neutral.
 
 ## Official syllabus
 

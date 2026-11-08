@@ -25,11 +25,11 @@ syllabusTopics:
     subtopic: "gene-control-cambridge-alevel-biology"
 description: "Study guide for Cambridge 9700 A Level Biology topic 16: meiosis, genetic crosses, linkage, epistasis, chi-squared, the lac operon and gibberellin."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide teaches topic 16, Inheritance, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers sections 16.1 Passage of information from parents to offspring, 16.2 The roles of genes in determining the phenotype and 16.3 Gene control. This is A Level content, not AS: it is examined on Paper 4 (A Level Structured Questions), and the chi-squared test can also appear on Paper 5 (Planning, Analysis and Evaluation).
@@ -297,6 +297,23 @@ A separate regulatory gene, **lacI**, with its own promoter, codes for the **rep
 ## Next steps
 
 Condense this with the [inheritance revision notes](/resources/a-level-biology-9700-inheritance-revision-notes/), then try the [inheritance practice questions](/resources/a-level-biology-inheritance-practice/). Carry the ideas of alleles, variation and chi-squared into [Selection and evolution](/resources/a-level-biology-9700-selection-and-evolution/).
+
+## Frequently asked questions
+
+**Why is meiosis described as a reduction division?**
+It halves the chromosome number to produce haploid gametes, so fertilisation restores the diploid number. If gametes were diploid, the chromosome number would double every generation.
+
+**What is epistasis?**
+Epistasis is when one gene affects the expression of another gene at a different locus. It often happens when two genes code for enzymes in the same pathway.
+
+**What are the ABO blood group alleles?**
+The ABO gene has three alleles: Iᴬ and Iᴮ are codominant, and Iᴼ is recessive to both.
+
+**What is the difference between an inducible and a repressible enzyme?**
+An inducible enzyme is made only when its substrate is present, such as β-galactosidase in *E. coli*. A repressible enzyme is made until its end product builds up and switches transcription off.
+
+**How do DELLA proteins and gibberellin control gene expression?**
+DELLA proteins bind to transcription factors and stop them promoting transcription. Gibberellin causes DELLA proteins to be broken down, releasing the transcription factors so growth genes are transcribed.
 
 ## Official syllabus
 

@@ -257,6 +257,23 @@ Total present value is £420,580, so NPV = 420.58 - 360 = **+£60,580**. A posit
 - Calling a ratio good or bad without a comparison.
 - Forgetting to discount in NPV or to subtract the cost.
 
+## Frequently asked questions
+
+**What is the difference between a mission and corporate objectives?**
+The mission is the broad purpose of the business: why it exists and what it stands for. Corporate objectives are measurable goals for the whole business that turn the mission into targets, and strategy then chooses how to reach them.
+
+**What is Elkington's Triple Bottom Line?**
+The Triple Bottom Line reports Profit, People and Planet: financial results, social impact on employees, the community and the supply chain, and environmental impact.
+
+**What does Porter's five forces model assess?**
+It assesses the profit potential of an industry through five forces: entry threat, buyer power, supplier power, rivalry and substitute threat. Weak forces mean higher profit potential.
+
+**What are the limitations of financial ratios?**
+Ratios use past data, depend on accounting policies and ignore non-financial factors, so they are best used alongside data such as the Balanced Scorecard and compared over time or with rivals.
+
+**Which section of the AQA Business specification covers the strategic position of a business?**
+Section 3.7, Analysing the strategic position of a business, which is A-level only in AQA AS and A-level Business (7131 and 7132) and is examined in 7132.
+
 ## Official syllabus
 
 AQA, AS and A-level Business (7131 and 7132) specification, section 3.7 (A-level only).

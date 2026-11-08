@@ -166,6 +166,20 @@ Check: the last value, 100, equals the total number of parcels. [1]
 - Describing correlation without naming its type, or without a reason from the context.
 - Using a line of best fit far outside the data and giving no warning.
 
+## Frequently asked questions
+
+**Where do you plot points on a cumulative frequency diagram?**
+Plot each running total at the upper class boundary, start from the lower boundary of the first class at 0, and join the points with a smooth curve.
+
+**How do you find quartiles from a cumulative frequency curve?**
+Work out the heights from the total n: the lower quartile is at n/4, the median at n/2 and the upper quartile at 3n/4. Using 25 or 50 whatever the total is a common mistake.
+
+**How do you find how many values are more than a given amount?**
+Read the cumulative frequency at that value and subtract it from the total, because the curve counts values at or below each point.
+
+**Can a line of best fit be used outside the data?**
+Using a line of best fit far outside the range of the data is unreliable, so either avoid it or give a warning that the trend may not continue.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency-revision-notes/) and the [study guide](/resources/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency/).

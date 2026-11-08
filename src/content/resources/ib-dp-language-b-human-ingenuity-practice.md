@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "ib-dp-language-b-human-ingenuity"
 description: "Original practice questions on Human ingenuity for IB DP Language B: two new passages, an oral image task and a speech plan, with worked answers."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -170,6 +170,20 @@ A close with a call to action [1]. **[8]**
 - Tick off the [printable checklist](/checklists/ib/ib-dp/language-b/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**What is the Human ingenuity theme in IB Language B?**
+Human ingenuity is the third of the five prescribed themes in IB DP Language B. Its guiding principle is to explore the ways in which human creativity and innovation affect our world.
+
+**Why do Paper 2 answers on unseen texts lose marks?**
+Common reasons are summarising a passage instead of answering the question, lifting long quotations where a few exact words would do, and missing a limiter such as "not everyone", "for now" or "probably" that changes the meaning.
+
+**How should you argue about technology in a Language B writing task?**
+Give a point, a specific example and its effect, then add a counterpoint. One-sided arguments that only praise or only condemn technology are less convincing.
+
+**How do you plan an SL oral on a Human ingenuity image?**
+Describe the image, interpret what it suggests, connect it to the theme and to a culture where your target language is spoken, then give a judgement. Describing the image without making the cultural connection is a common weakness.
 
 ## Official syllabus
 

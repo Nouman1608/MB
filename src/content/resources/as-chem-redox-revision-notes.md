@@ -16,9 +16,9 @@ syllabusTopics:
     subtopic: "as-redox-processes"
 description: "Condensed recall notes on oxidation numbers, balancing redox equations and disproportionation for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -134,3 +134,17 @@ To prove it, assign oxidation numbers to that element on both sides and show one
 7. In that reaction, identify the oxidising agent and the reducing agent, giving a reason for each.
 
 **Answers:** 1. Mn = **+7**; Cr = **+6**. 2. Hydrochloric acid would be oxidised to chlorine and nitric acid is itself an oxidising agent, so both would give a false result. 3. MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O. 4. Near the end point, when the solution is straw-coloured — added earlier, the starch–iodine complex releases iodine too slowly and the end point is indistinct. 5. Chlorine starts at 0; in NaCl it is −1 (reduced) and in NaClO it is +1 (oxidised) — the same element both oxidised and reduced. 6. MnO₄⁻ + 5Fe²⁺ + 8H⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O — Mn gains 5 electrons (+7→+2), so 5 Fe²⁺ are needed to lose 5 electrons (+2→+3) between them. 7. MnO₄⁻ is the **oxidising agent** — it causes Fe²⁺ to be oxidised while Mn itself is reduced (+7→+2); Fe²⁺ is the **reducing agent** — it causes Mn to be reduced while Fe itself is oxidised (+2→+3).
+
+## Frequently asked questions
+
+**Is an oxidising agent oxidised or reduced?**
+An oxidising agent is itself reduced, because it gains electrons from the species it oxidises. A reducing agent is itself oxidised; this reversal catches many candidates.
+
+**Is oxidation number given per atom or per formula?**
+Oxidation number is given per atom, not for the whole formula unit. Exceptions to the usual rules, such as H₂O₂, metal hydrides and OF₂, also need to be remembered.
+
+**What is disproportionation?**
+Disproportionation is a reaction in which the same element is both oxidised and reduced. Check the oxidation number of the element in every product to spot it.
+
+**Why is hydrochloric acid not used to acidify a manganate(VII) titration?**
+Hydrochloric acid would be oxidised to chlorine by manganate(VII), giving a false titre. Nitric acid is itself an oxidising agent, so dilute sulfuric acid is used instead.

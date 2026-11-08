@@ -162,6 +162,20 @@ Evaluate the use of this crop, using the data and your own knowledge of risks an
 - All free 10-minute [diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which Edexcel statements do these questions cover?**
+They cover statements 8.17 to 8.22 of Pearson Edexcel International A Level Biology (YBI11): recombinant DNA, inserting DNA into cells, drugs from GMOs, microarrays, bioinformatics and GMO risks and benefits.
+
+**What units are often left out in genetic engineering calculations?**
+Units such as bp for fragment lengths and µg for DNA mass. Leaving them out loses marks.
+
+**How should you answer an evaluation of a GM crop?**
+Give benefits and risks with data, then make a final judgement. Giving risks or benefits without a judgement does not earn full credit.
+
+**What should you say when quoting a microarray ratio?**
+Say which sample the gene is more active in, not just the ratio.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification, Issue 2, February 2021, Pearson Education Limited.

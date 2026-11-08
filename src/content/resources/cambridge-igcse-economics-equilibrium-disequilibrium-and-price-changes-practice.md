@@ -167,6 +167,20 @@ This set tests sections 2.5 and 2.6 of the Cambridge IGCSE Economics 0455 syllab
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between a shortage and a surplus?**
+A shortage (excess demand) happens when quantity demanded is greater than quantity supplied, at a price below equilibrium. A surplus (excess supply) happens when quantity supplied is greater than quantity demanded, at a price above equilibrium.
+
+**Which terms should you use for a movement along a curve?**
+Use extension and contraction for movements along a curve caused by a change in the good's own price. Increase and decrease describe shifts of the whole curve.
+
+**What happens when demand and supply both shift?**
+The effect on one variable is certain and the effect on the other depends on the size of the shifts. For example, if both curves shift right, sales rise but price could rise or fall, so do not state it as certain.
+
+**What mistakes cost marks in price-change questions in Cambridge IGCSE Economics 0455?**
+Common errors include giving only the price effect when sales are asked for, calculating a percentage change over the new figure instead of the original, giving a fall as a positive figure and leaving out units.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: sections 2.5 Price determination and 2.6 Price changes.

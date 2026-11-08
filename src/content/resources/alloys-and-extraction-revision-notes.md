@@ -30,12 +30,12 @@ syllabusTopics:
     subtopic: "extraction-of-metals"
 description: "Condensed recall notes on alloys, the blast furnace, aluminium extraction and metal uses for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -135,3 +135,20 @@ Aluminium is expensive because electrolysis uses enormous quantities of electric
 8. Why is "aluminium is used in aircraft" on its own a weak answer to "explain a use of aluminium"?
 
 **Answers:** 1. Atoms of different sizes disrupt the regular layers, so the layers cannot slide over one another easily. 2. Fe₂O₃ + 3CO → 2Fe + 3CO₂. 3. It decomposes to calcium oxide, which reacts with acidic silicon dioxide impurities to form slag, removing them from the iron. 4. They are carbon and burn away in the oxygen produced at the anode, forming carbon dioxide. 5. Aluminium conducts electricity well and has a much lower density, so cables are lighter and need fewer supporting pylons; it also resists corrosion through its oxide layer. 6. Aluminium is more reactive than carbon, so carbon cannot reduce aluminium oxide; electrolysis is needed instead. 7. The less reactive a metal is, the less energy is needed to extract it from its compound, so it is extracted more easily and cheaply; very unreactive metals such as gold occur native. 8. Because it doesn't state the property responsible — the full answer needs "...because of its low density", linking the use to the specific property that explains it.
+
+## Frequently asked questions
+
+**Do Cambridge IGCSE 0620 Core students need the blast furnace equations?**
+No. 0620 Core describes the blast furnace steps in words, and the symbol equations are 0620 Extended. Cambridge O Level 5070 candidates need the equations.
+
+**What is the main reducing agent in the blast furnace?**
+Carbon monoxide, not carbon, is the main reducing agent: it reduces iron(III) oxide to iron, forming carbon dioxide. Carbon's role is to burn for heat and to reduce carbon dioxide to carbon monoxide.
+
+**How do you tell an alloy from a pure metal in a structure diagram?**
+A pure metal is drawn with identical-sized atoms in regular layers. An alloy shows atoms of at least two different sizes packed together, with the regular layers disrupted.
+
+**Why does aluminium resist corrosion if it is a reactive metal?**
+Aluminium is protected by a protective oxide layer on its surface, not because it is unreactive. This is why it is used for food containers and drinks cans.
+
+**Why is aluminium expensive to extract?**
+Aluminium is extracted by electrolysis, which uses enormous quantities of electricity. Carbon reduction cannot be used because aluminium is more reactive than carbon.

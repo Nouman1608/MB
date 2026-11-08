@@ -286,6 +286,20 @@ The same rise in demand gives a large price rise and small quantity rise in X, a
 - Using a PES determinant in a PED answer, or the reverse.
 - Describing the significance of PED without saying who is affected, how and why.
 
+## Frequently asked questions
+
+**What do sections 2.7 and 2.8 of Cambridge IGCSE Economics 0455 cover?**
+They cover price elasticity of demand and price elasticity of supply: their definitions, calculation and interpretation, determinants, the link between PED and total spending, and why both matter to consumers, producers and the government.
+
+**What does price elasticity of demand measure?**
+PED measures the responsiveness of quantity demanded to a change in price. It is not a measure of how much people want the good.
+
+**Why do governments use PED when setting indirect taxes?**
+A tax raises more revenue when demand is inelastic because quantity falls only a little. But for the same reason it cuts consumption less, so it is a weak tool on its own for discouraging a harmful product.
+
+**Why is price elasticity of supply important?**
+Where supply is inelastic, a rise in demand pushes prices up sharply for little extra output; where it is elastic, prices stay steadier. Governments also need PES, because a subsidy to a sector with inelastic supply raises output only slightly.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment: sections 2.7 Price elasticity of demand (PED) and 2.8 Price elasticity of supply (PES).

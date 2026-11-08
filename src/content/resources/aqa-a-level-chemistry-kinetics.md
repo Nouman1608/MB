@@ -309,6 +309,23 @@ Step 3: more molecules now have energy at or above the new Ea, so more collision
 - Saying a catalyst "lowers the activation energy" with no mention of an **alternative route**.
 - Shifting the Maxwell–Boltzmann curve for a catalyst. Only the Ea marker moves.
 
+## Frequently asked questions
+
+**Why do most collisions not lead to a reaction?**
+In typical gas examples, most particles have less energy than the activation energy, so their collisions cannot react. Having enough energy is necessary but not sufficient: the particles must also collide in a suitable orientation.
+
+**What is the definition of a catalyst in AQA A-level Chemistry?**
+A catalyst is a substance that increases the rate of a chemical reaction without being changed in chemical composition or amount. It works by providing an alternative reaction route of lower activation energy, not by giving molecules more energy.
+
+**What is the rate of reaction?**
+Rate of reaction is the change in the amount or concentration of a reactant or product per unit time. With concentrations, the unit is mol dm⁻³ s⁻¹.
+
+**Why does the Maxwell–Boltzmann curve start at the origin?**
+No molecule has zero energy, so the curve starts at the origin. The area under the curve represents the total number of molecules, which is why curves at different temperatures must have equal areas.
+
+**What is Required practical 3 in AQA Chemistry?**
+Required practical 3 investigates how the rate of a reaction changes with temperature. It is part of section 3.1.5 Kinetics of the AQA 7404/7405 specification, which is AS content.
+
 ## Next steps
 
 Condense this into the revision notes, then try the practice questions. The

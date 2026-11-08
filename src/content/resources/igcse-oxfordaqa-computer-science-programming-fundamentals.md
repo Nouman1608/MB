@@ -7,16 +7,31 @@ topic: "Programming"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9210"]
-syllabusSeries: "Teaching from September 2017, exams from May/June 2019"
+syllabusSeries: "For teaching from September 2017, exams from May/June 2019"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "programming-9210"
-description: "Data types, sequence/iteration/selection, and arithmetic, relational and Boolean operators -- the core imperative-programming constructs within Topic 2 Programming of OxfordAQA International GCSE Computer Science (9210)."
+  - qualification: "igcse"
+    topic: "programming-9210"
+    subtopic: "data-types-9210"
+  - qualification: "igcse"
+    topic: "programming-9210"
+    subtopic: "programming-concepts-9210"
+  - qualification: "igcse"
+    topic: "programming-9210"
+    subtopic: "arithmetic-operations-9210"
+  - qualification: "igcse"
+    topic: "programming-9210"
+    subtopic: "relational-operations-9210"
+  - qualification: "igcse"
+    topic: "programming-9210"
+    subtopic: "boolean-operations-9210"
+description: "Guide to OxfordAQA International GCSE Computer Science 9210 sections 3.2.1 to 3.2.5: data types, the three constructs, and arithmetic and logic operators."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -141,6 +156,20 @@ pseudocode.
 - Practise DIV and MOD calculations until the distinction is automatic.
 - Write and read compound conditions combining relational and Boolean
 operators.
+
+## Frequently asked questions
+
+**What is the difference between DIV and MOD in OxfordAQA pseudocode?**
+DIV returns only the whole-number quotient and MOD returns only the remainder, so 11 DIV 2 = 5 and 11 MOD 2 = 1. Mixing them up is one of the most frequent mistakes.
+
+**What language are code questions written in for OxfordAQA 9210 exams?**
+Written exams present algorithms and code in OxfordAQA's own pseudocode, whichever language a candidate has been taught, such as Python, C# or Visual Basic.
+
+**What are the three combining principles of imperative programming?**
+Sequence, iteration and selection. Nearly every algorithm question asks you to identify or write some combination of the three.
+
+**What is the difference between AND and OR in a condition?**
+A condition using AND needs every part to be true, while OR needs only one part to be true. Treating them as interchangeable changes what the algorithm does.
 
 ## Where the wider topic goes next
 

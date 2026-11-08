@@ -248,6 +248,20 @@ Label the axes (unemployment % across, inflation % up) and name each curve:
 - Describing Keynesian, neo-classical and Austrian views in separate paragraphs and never comparing them.
 - Calling a school "wrong" with no evidence or context from the question.
 
+## Frequently asked questions
+
+**What shifts the long-run Phillips curve?**
+Better training, mobility, job information, less generous or shorter benefits and more flexible hiring can lower the natural rate and move the long-run curve left. Hysteresis after long slumps, skills mismatch and rigid pay can move it right.
+
+**When does the Phillips curve explain inflation well?**
+It works best when demand shocks dominate, expectations are stable and the period is short. It explains less when supply shocks raise costs, expectations change, or factors such as globalisation and flexible contracts flatten the curve.
+
+**Why is the Phillips curve of limited use to policymakers?**
+NAIRU cannot be observed directly and it changes over time, the short-run curve shifts, and policy acts with lags. A small error in estimating the natural rate can lead to a large policy error.
+
+**What is the Austrian view of the economic cycle?**
+The Austrian school argues that cycles start when artificially low interest rates and rapid credit growth push investment into projects that savers do not support. This malinvestment is later exposed in a bust.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. Topics: The Phillips Curve; Macroeconomic equilibrium (final bullet).

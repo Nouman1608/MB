@@ -25,9 +25,9 @@ syllabusTopics:
     subtopic: "as-isomerism"
 description: "Condensed recall notes on nomenclature, formulae, isomerism, bond fission and mechanism types for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -251,3 +251,16 @@ Separate from *how* a bond breaks is *what happens overall* to the molecule:
   <figcaption>Three curly arrows: from the C=C, from the H-Br bond, and from a bromide lone pair.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are the conditions for E/Z isomerism?**
+E/Z isomerism needs a C=C double bond, which prevents rotation, and two different groups on each carbon of the double bond. Giving only one of these conditions is a common exam trap.
+
+**Does a racemic mixture rotate plane-polarised light?**
+No. A racemic mixture contains equal amounts of the two optical isomers, so their effects cancel and there is no overall rotation of plane-polarised light.
+
+**What is the difference between homolytic and heterolytic fission?**
+In homolytic fission each atom keeps one electron from the bond, forming free radicals. In heterolytic fission one atom takes both electrons, forming ions.
+
+**How does hybridisation relate to shape?**
+An sp² carbon is trigonal planar and an sp³ carbon is tetrahedral. Hybridisation labels should be linked directly to shape in Cambridge International AS & A Level Chemistry 9701 answers.

@@ -265,6 +265,23 @@ Safe use: keep sources stored in their container when not in use, handle with to
 - Timing a single oscillation and calling it "accurate".
 - Writing only "from the internet" as a source.
 
+## Frequently asked questions
+
+**How many practicals do you need for the OCR Physics Practical Endorsement?**
+You need to complete a minimum of 12 practical activities that cover the Practical Activity Groups, PAG1 to PAG12, and consistently show the CPAC competencies. The Endorsement (Component 04 of OCR H556) is teacher assessed and reported separately from the A level grade.
+
+**Why time 20 oscillations instead of one?**
+Timing many oscillations spreads the stopwatch uncertainty over many periods. With ±0.2 s on 20 oscillations, the uncertainty in one period is 0.01 s, twenty times smaller than timing a single oscillation.
+
+**What is a fiducial marker?**
+A fiducial marker is a fixed pointer at the equilibrium position of an oscillating object. It gives a clear point at which to start and stop timing.
+
+**Why are light gates better than a stopwatch?**
+A light gate and datalogger record the time a card blocks the beam with no reaction-time error, so they suit short or fast events.
+
+**How do you reduce uncertainty when measuring fringe spacing?**
+Measure across many fringes and divide by the number of spacings. A ±1 mm uncertainty is a large fraction of one spacing but a small percentage of a span of several fringes.
+
 ## Where to go next
 
 Use the [revision notes](/resources/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques-revision-notes/) to consolidate and the [practice set](/resources/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques-practice/) to test yourself. Related pages: [practical skills revision notes](/resources/ocr-a-level-physics-practical-skills-revision-notes/) and [practical skills practice](/resources/ocr-a-level-physics-practical-skills-practice/).

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Meeting customer needs and The market (YBS11)"
+title: "Edexcel International A Level Business: Meeting customer needs and The market (YBS11)"
 seoTitle: "Edexcel IAL Business: Customer Needs and The Market"
 resourceType: "study-guides"
 subject: "business"
@@ -266,6 +266,20 @@ Here the sign matters. A **normal good** has positive YED (demand rises with inc
 * Treating a gap on a market map as a guaranteed opportunity.
 * Confusing a movement along a curve (price change) with a shift (other factors).
 * Using "risk" and "uncertainty" as synonyms.
+
+## Frequently asked questions
+
+**What is the difference between product orientation and market orientation?**
+Product orientation starts from what the firm can make and then looks for buyers. Market orientation starts from what customers want, using research, and then designs the product.
+
+**What is equilibrium price?**
+The equilibrium price is where quantity demanded equals quantity supplied. Above it there is a surplus, which pushes the price down; below it there is a shortage, which pushes the price up.
+
+**What factors shift the supply curve in Edexcel IAL Business?**
+The YBS11 specification lists changes in costs of production, new technology, indirect taxes, government subsidies and external shocks among the shifters of supply. An indirect tax raises costs and reduces supply.
+
+**Is a gap on a market map always an opportunity?**
+No. A gap shows where no rival is positioned, but there may be no demand there, so it needs testing with research before the business acts.
 
 ## Official syllabus
 

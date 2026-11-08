@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-5-thermodynamics-radiation-oscillations-and-cosmology"
     subtopic: "astrophysics-and-cosmology"
-description: "Condensed recall notes on luminosity, Wien and Stefan laws, the HR diagram, stellar evolution and Hubble law for Edexcel International A Level Physics YPH11 (Unit 5, WPH15)."
+description: "Condensed recall notes on luminosity, Wien and Stefan laws, the HR diagram, stellar evolution and Hubble's law for Edexcel IAL Physics YPH11 (Unit 5, WPH15)."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -210,3 +210,16 @@ Almost all galaxies are redshifted, and redshift increases with distance, so the
   <figcaption>Recession speed is proportional to distance (v = H0 d), and 1/H0 estimates the age of the universe.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Why must you use Wien's law before the Stefan-Boltzmann law?**
+The peak wavelength gives the star's temperature through Wien's law. Only then can the temperature and luminosity be put into L = 4πr²σT⁴ to find the radius; using Stefan's law first leaves two unknowns.
+
+**What is the Chandrasekhar limit?**
+The Chandrasekhar limit, about 1.4 solar masses, is the maximum mass of a white dwarf. Above it, electron degeneracy pressure cannot resist gravity and the collapse continues.
+
+**Why do more massive stars have shorter lives?**
+Luminosity rises far faster than mass, so massive stars use up their larger fuel supply disproportionately quickly and leave the main sequence sooner.
+
+**What is the evidence for the Big Bang?**
+Galactic redshift shows the universe is expanding, the cosmic microwave background is the cooled remnant of a hot early universe at about 2.7 K, and the abundances of hydrogen and helium match Big Bang nucleosynthesis predictions.

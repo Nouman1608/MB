@@ -22,9 +22,9 @@ syllabusTopics:
     subtopic: "a-degradable-polymers"
 description: "Condensed recall notes on polyesters, polyamides, hydrolysis and biodegradability for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -183,3 +183,20 @@ Note the difference: under acid, the amine is protonated to a salt; under alkali
 5. What does alkaline hydrolysis of a polyamide produce?
 
 **Answers:** 1. So the chain can extend at both ends; a monomer with a single reactive group would terminate the chain. 2. A small molecule such as water is eliminated as a second product, so not all the reactant mass ends up in the polymer. 3. Amide groups form hydrogen bonds between adjacent chains, whereas ester groups can only form weaker permanent dipole–dipole attractions. 4. The linkage contains polar C–O or C–N bonds that can be hydrolysed by water and attacked by enzymes, whereas the non-polar C–C backbone of an addition polymer cannot. 5. A carboxylate salt and a free amine.
+
+## Frequently asked questions
+
+**Why are condensation polymers biodegradable but addition polymers are not?**
+Condensation polymers have polar C–O or C–N bonds in their ester or amide linkages, which water and enzymes can attack and hydrolyse. Addition polymers have a non-polar C–C backbone with no bonds that water or enzymes can attack.
+
+**What are the products of acid and alkaline hydrolysis of a polyamide?**
+Acid hydrolysis gives a carboxylic acid and an ammonium salt, because the amine is protonated. Alkaline hydrolysis gives a carboxylate salt and a free amine, because the acid is deprotonated.
+
+**Do I need to memorise names like Nylon-6,6, Kevlar and PET for Cambridge 9701?**
+No. In Cambridge 9701 Chemistry the commercial names are background; questions give the monomers or the repeat unit and ask you to deduce the polymer's structure and properties.
+
+**How do you find the monomers from a condensation polymer's repeat unit?**
+Spot the repeating ester (–COO–) or amide (–CONH–) linkages, then add back H₂O (or HCl) at each one broken. This regenerates the diol or diamine and the dicarboxylic acid.
+
+**What is the difference between photodegradable and biodegradable polymers?**
+Biodegradable polymers are broken down by hydrolysis of their linkages, helped by enzymes. Photodegradable polymers contain bonds or additives that absorb UV radiation and break, which fragments the material but does not always break it down fully.

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Social and ethical accounting (YAC11) -- Revision Notes"
+title: "Edexcel International A Level Accounting: Social and ethical accounting (YAC11) -- Revision Notes"
 seoTitle: "Edexcel IAL Accounting Social and Ethical Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"
@@ -194,6 +194,20 @@ Leaving the bill out makes the business look both more profitable and more liqui
 - Forgetting that reducing the allowance for irrecoverable debts adds the decrease to profit.
 - Treating every social effect as a cost; some decisions benefit the community or workforce.
 - Listing non-financial factors without saying how they could change the decision.
+
+## Frequently asked questions
+
+**What is a stakeholder in accounting?**
+A stakeholder is any person or group with an interest in the business, such as owners, employees, customers, suppliers, lenders and the local community. Each is affected differently by the same decision.
+
+**Why do stakeholder interests conflict?**
+The same decision can help one group and harm another; for example, lower wage costs benefit the owner but cost employees. Identifying the conflict and saying which group a decision favours turns a description into analysis.
+
+**Are all social effects of a business decision negative?**
+No. Automation may remove dangerous jobs and a move may create jobs in a poorer area, so balanced answers consider benefits as well as costs to the community or workforce.
+
+**Which topic does social and ethical accounting belong to in Edexcel IAL Accounting?**
+It is topic 1.6 in Unit 1, The Accounting System and Costing, covering learning outcomes 1.6.1 to 1.6.4. It has almost no new calculations and applies judgement to figures from other Unit 1 topics.
 
 ## Official syllabus
 

@@ -16,17 +16,21 @@ syllabusTopics:
     subtopic: "as-organic-synthesis"
 description: "Condensed recall notes on the AS reaction map, functional group interconversions and planning multi-step synthesis for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: expanded thin notes (opening answer, worked two-step route, FAQ, question headings); 'bromoethane' locant fix; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 ---
+
+Organic synthesis at AS Level in Cambridge AS & A Level Chemistry 9701 asks you to link the reactions of every
+functional group you have studied into routes of two or more steps, giving the reagent and conditions for each
+step, and to analyse a given route, identifying the reaction types and any by-products.
 
 Condensed for the final weeks. For the full explanation, use the
 [Organic Synthesis: Planning Multi-Step Routes study guide](/resources/as-organic-synthesis-planning-multi-step-routes/).
 
-## The AS reaction map
+## What does the AS reaction map look like?
 
 ```
                     ALKANE
@@ -50,7 +54,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 Learn the **reagent and conditions** for each arrow — that is what the marks are for.
 
-## The conditions that decide the product
+## Which conditions decide the product?
 
 | Starting material | Reagent | Conditions | Product |
 |---|---|---|---|
@@ -64,7 +68,7 @@ Learn the **reagent and conditions** for each arrow — that is what the marks a
 
 Three pairs turn on a single word — **aqueous vs ethanolic**, **distil vs reflux**, and the direction of alcohol ⇄ alkene. Getting those right is most of the topic.
 
-## Changing the carbon chain length
+## How do you change the carbon chain length?
 
 | Change | Route |
 |---|---|
@@ -112,13 +116,34 @@ Checking whether a given step used **aqueous or ethanolic** conditions
 is always worth doing explicitly, since it changes both the product
 and the type of by-product a route might generate.
 
-## Planning a multi-step route
+## How do you plan a multi-step route?
 
 1. Identify the **functional group** in the starting material and the target.
 2. Compare **carbon counts** — different means a nitrile step.
 3. Work **backwards** from the target: what makes this group?
 4. Chain the steps, giving **reagent and conditions** for each.
 5. Check no step destroys a group you need later.
+
+**Worked example.** Plan a two-step route from propene to propanone.
+
+```
+Target: propanone, a ketone, 3 carbons -> same carbon count, so no nitrile step
+Ketones come from oxidising a secondary alcohol
+Step 1  propene + steam, H3PO4 catalyst  -> propan-2-ol (major product, Markovnikov)
+Step 2  propan-2-ol + K2Cr2O7 / dilute H2SO4, heat under reflux -> propanone
+```
+
+A secondary alcohol cannot be oxidised beyond the ketone, so reflux is safe here.
+
+## Frequently asked questions
+
+**How many marks does a route question usually give for each step?**
+Typically one mark for the intermediate and one for the reagent and conditions of each step, so a step
+without conditions loses marks.
+
+**Can I use any reaction I know from outside the syllabus?**
+Use the named 9701 reagents and conditions. An unfamiliar but real reaction may be credited, but invented
+"direct conversions" are not.
 
 ## Exam traps
 
@@ -135,11 +160,11 @@ and the type of by-product a route might generate.
 
 1. Convert 1-bromopropane to propan-1-ol. Reagent and conditions?
 2. Convert propan-1-ol to propanal, and say how you avoid the acid.
-3. How would you turn 1-bromoethane into propanoic acid?
+3. How would you turn bromoethane into propanoic acid?
 4. Which two AS reactions lengthen the carbon chain?
 5. What single word distinguishes substitution from elimination with hydroxide?
 6. A molecule decolourises bromine water and effervesces with sodium carbonate. What can you deduce about its functional groups?
-7. What by-product might form alongside 1-bromoethane in the free-radical substitution of ethane with Br₂/UV?
+7. What by-product might form alongside bromoethane in the free-radical substitution of ethane with Br₂/UV?
 
 **Answers:** 1. Aqueous sodium hydroxide, heat under reflux. 2. Acidified potassium dichromate(VI), and **distil** the aldehyde off as it forms so it cannot be oxidised further. 3. Ethanolic KCN under reflux to give propanenitrile (adding one carbon), then acid hydrolysis to propanoic acid. 4. Halogenoalkane + KCN, and carbonyl + HCN. 5. Aqueous (substitution → alcohol) versus ethanolic (elimination → alkene). 6. It contains both a C=C double bond (from decolourising bromine water) and a –COOH group (from effervescing with a carbonate) — the two pieces of evidence are independent and can be combined. 7. Further substitution — some 1,1-dibromoethane (or another dibromoethane isomer) forming as the reaction continues on the monobromo product.
 

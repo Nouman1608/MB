@@ -247,6 +247,19 @@ When the forward reaction is exothermic, a low temperature gives the best yield 
   <figcaption>At equilibrium the forward and reverse rates are equal and the amounts no longer change.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does equilibrium mean in OxfordAQA 9202 Chemistry?**
+In a closed system, a reversible reaction is at equilibrium when the forward and backward reactions both continue at the same rate, so the amount of each substance stays constant. The amounts are usually not equal.
+
+**Why are fertilizers needed?**
+Crops need nitrogen to make proteins and grow, harvesting removes nutrients from the soil, and the global population is rising while farmland is limited. Fertilizers made from ammonia help maximise food yields from each area of land.
+
+**How is ammonia separated in the Haber process?**
+The gas mixture is cooled. Ammonia condenses at a much higher temperature than nitrogen or hydrogen, so it becomes a liquid and is removed while the unreacted gases are recycled.
+
+**What is the difference between rate and yield?**
+Rate is how fast a reaction happens, while yield is the share of product in the mixture once equilibrium is reached. Industrial conditions are a compromise between the two, plus cost and safety.
 
 ## Official syllabus
 

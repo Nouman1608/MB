@@ -160,6 +160,20 @@ Related pages: the [study guide](/resources/oxfordaqa-a-level-mathematics-the-po
 - Try all [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you write P(X ≥ r) for a Poisson variable using cumulative values?**
+P(X ≥ r) = 1 − P(X ≤ r − 1). Writing 1 − P(X ≤ r) is one of the most common errors.
+
+**What do you need to change when the interval in a Poisson question changes?**
+Scale λ to the new interval: new λ = rate × new length. For example, 12 per hour becomes λ = 6 for 30 minutes.
+
+**When can you approximate a binomial by a Poisson distribution?**
+When n is large and p is small, using λ = np. Using the approximation when p is not small loses marks.
+
+**How should you state a condition for a Poisson model?**
+Link it to the context, for example "faults occur independently along the cable". A condition written only in general terms earns less credit.
+
 ## Official syllabus
 
 These questions follow the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2, section 3.4 (International A-level Unit S2: Statistics), S2.1 Poisson distribution, published by OxfordAQA.

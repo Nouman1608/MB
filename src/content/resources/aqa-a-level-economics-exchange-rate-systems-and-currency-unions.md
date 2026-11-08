@@ -232,6 +232,23 @@ Suppose X's costs rise 10% relative to its partners. Outside a union, a deprecia
 - Treating a currency union as the same as a customs union. A customs union concerns trade barriers.
 - Listing advantages and disadvantages without a judgement.
 
+## Frequently asked questions
+
+**What determines a floating exchange rate?**
+The demand for and supply of the currency. Demand comes from foreigners buying exports, investing or seeking higher interest; supply comes from residents buying imports or investing abroad, plus speculation either way.
+
+**How can a government influence its exchange rate?**
+By buying or selling its currency using reserves, by changing interest rates, and by other measures such as capital controls or fiscal changes.
+
+**What are the advantages of a fixed exchange rate?**
+A fixed rate gives traders certainty and imposes discipline on inflation, but interest rates must serve the peg and large reserves are needed to defend it.
+
+**What are the disadvantages of joining a currency union like the eurozone?**
+A member loses independent monetary policy and its own exchange rate, so it cannot depreciate or set a local interest rate when an asymmetric shock hits it.
+
+**Why does price elasticity of demand matter for exchange rate changes?**
+The AQA 7136 specification says elasticity is essential when analysing the impact of exchange rate changes, because whether a depreciation improves the trade balance depends on how responsive demand for exports and imports is.
+
 ## Official syllabus
 
 AQA, AS and A-level Economics specification (7135 and 7136), version 1.3, 29 June 2022, section 4.2.6.4 (Exchange rate systems).

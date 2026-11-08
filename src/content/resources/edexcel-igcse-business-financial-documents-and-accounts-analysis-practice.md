@@ -191,6 +191,20 @@ Judgement: the owner should delay the loan until expenses are under control and 
 - Take the [free 10-minute diagnostics](/diagnostics/) to find weak spots.
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What do these financial documents practice questions cover?**
+They follow Pearson Edexcel International GCSE Business (4BS1) sections 3.4 and 3.5: the statement of comprehensive income, the statement of financial position, profit margins, markup, ROCE, the current and acid test ratios, and liquidity.
+
+**Are the ratio formulae given in the Edexcel IGCSE Business exam?**
+Yes. The 4BS1 specification says the formulae are provided in the examination, so your job is to apply them and explain the result.
+
+**What are the most common ratio mistakes?**
+Dividing by revenue in ROCE or by capital employed in a margin, dividing markup by the selling price instead of the cost, and leaving the overdraft out of current liabilities.
+
+**Should a liquidity ratio be written as a percentage?**
+No. The current ratio and acid test ratio are written as a ratio such as 2.0 : 1, not as a percentage.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 3: Business finance, sections 3.4 and 3.5; Appendix 2 (command word taxonomy) and Appendix 4 (formulae).

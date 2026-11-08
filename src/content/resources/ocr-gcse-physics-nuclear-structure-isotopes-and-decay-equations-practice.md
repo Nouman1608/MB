@@ -150,6 +150,23 @@ These questions cover OCR GCSE Physics A (Gateway Science, J249), specification 
 - Take the [free 10-minute diagnostics](/diagnostics/) to find your weakest topics.
 - [Book a free trial class](/trial/) if you want help with any of these.
 
+## Frequently asked questions
+
+**What do these OCR GCSE Physics A nuclear questions cover?**
+They cover learning outcomes P6.1a to P6.1g of OCR GCSE (9-1) Physics A (J249): the nucleus, isotopes, nuclear notation, the four emissions from unstable nuclei and balancing decay equations.
+
+**How do I read a nuclear symbol correctly?**
+The top number is the mass number A and the bottom number is the atomic number Z. Reading them the wrong way round, or giving A as the number of neutrons instead of A − Z, are common mistakes.
+
+**What numbers should I use for a beta particle in a decay equation?**
+A beta particle has a mass number of 0 and a charge of −1. Using +1 or a mass of 1 is a frequent error, and it makes the equation fail to balance.
+
+**What do I need to do after finding the new atomic number?**
+Name the new element using the periodic table. Finding Z but not naming the daughter nucleus usually loses a mark.
+
+**How do I check a decay equation is balanced?**
+Check that the top numbers on the left equal the sum on the right, and then check the bottom numbers (charges) the same way. Balancing only the top numbers is not enough.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), for first assessment in 2018, published by OCR. These questions cover learning outcomes P6.1a to P6.1g.

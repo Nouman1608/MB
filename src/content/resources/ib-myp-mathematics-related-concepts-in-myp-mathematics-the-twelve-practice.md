@@ -155,6 +155,20 @@ These questions are aligned to the IB *Mathematics* guide for the Middle Years P
 - Keeping a negative length because it solves the equation.
 - Commenting on a model's validity without a value, a fact or the context.
 
+## Frequently asked questions
+
+**How do you show that two expressions are not equivalent?**
+One value that gives different results is enough. For example, at x = 1, (x + 3)² = 16 but x² + 9 = 10, so they are not equivalent; to show two expressions are equivalent you need algebra, because a single value that happens to work proves nothing.
+
+**What should you say about an estimate?**
+State whether the estimate is too high or too low and give the reason, such as both factors being rounded up. The direction of an error is often as useful as its size.
+
+**Which value do you divide by for percentage change?**
+Divide the change by the starting value, not the final value. A seedling growing from 12 cm to 27 cm has a percentage change of 15 ÷ 12 × 100 = 125%.
+
+**Should you use everyday meanings of the related concepts?**
+No. Use the sense given in the IB MYP Mathematics guide's glossary; for example, equivalence covers statements, quantities and expressions, not just "equal". Everyday meanings are a common source of weak answers.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/ib-myp-mathematics-related-concepts-in-myp-mathematics-the-twelve-revision-notes/).

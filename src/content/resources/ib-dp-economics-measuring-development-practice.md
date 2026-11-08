@@ -131,6 +131,20 @@ The [study guide](/resources/ib-dp-economics-measuring-development/) and [revisi
 - Giving an evaluation with no final judgement.
 - Rounding too early, so the final index is slightly off.
 
+## Frequently asked questions
+
+**How do you calculate an HDI dimension index?**
+Use (actual value − minimum) ÷ (maximum − minimum), which gives a value between 0 and 1. The income index uses logarithms of GNI per person, so each extra unit of income counts for less as income rises.
+
+**Are calculators allowed for the development indicator questions on this page?**
+The questions that need logarithms or roots are marked calculator allowed. Show each stage of the working, because a calculate question needs the method as well as the final figure.
+
+**How do you convert income to PPP terms?**
+Compare what the same basket of goods costs in each economy to find the PPP rate, then use that rate instead of the market exchange rate. PPP shows better what incomes can actually buy.
+
+**What are common mistakes in IB Economics development indicator questions?**
+Common slips include describing the HDI as an income measure, saying a higher Gender Inequality Index is good, treating PPP income as a measure of distribution, and listing strengths and limitations without tying them to a named indicator.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/ib-dp-economics-measuring-development/) for any part you missed, then rework the weakest questions.

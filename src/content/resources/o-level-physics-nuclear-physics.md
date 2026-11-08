@@ -333,6 +333,20 @@ To use, move and store radioactive materials safely:
 - Saying fission "uses up atoms" without a neutron being absorbed and further neutrons released.
 - Saying a short half-life means the sample decays "faster in one go". It means the activity falls by half in less time.
 
+## Frequently asked questions
+
+**Which type of radiation is the most penetrating?**
+Gamma is the most penetrating and alpha is the least penetrating, although alpha is the most ionising. Calling alpha the most penetrating because it is the biggest is a common error.
+
+**What do control rods and the moderator do in a nuclear reactor?**
+The moderator slows neutrons down, control rods (for example boron or cadmium) absorb neutrons and are moved in to slow the reaction or out to speed it up, and the coolant carries the heat away.
+
+**What does a short half-life mean?**
+A short half-life means the activity of a sample falls by half in less time. It does not mean the sample decays all at once.
+
+**How do you reduce exposure to radiation?**
+Reduce the exposure time, increase the distance (for example by using tongs) and use shielding such as lead-lined containers or thick walls.
+
 ## Official syllabus
 
 Cambridge O Level Physics 5054 syllabus for examination in 2026, 2027 and 2028, Cambridge University Press & Assessment. Section 5, Nuclear physics, 5.1 to 5.2.6.

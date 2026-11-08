@@ -177,6 +177,20 @@ Loss = **5400 J**, so the collision is inelastic.
 - Presenting a graph-area estimate as exact, or omitting the unit N s.
 - Explaining an air bag only as "it is soft" rather than in terms of a longer time and a smaller force for the same change in momentum.
 
+## Frequently asked questions
+
+**What is impulse?**
+Impulse is force multiplied by the time it acts, FΔt, measured in N s. The impulse of the net force equals the change in momentum, and it is the area under a force-time graph.
+
+**What is the unit of momentum?**
+Momentum p = mv is measured in kg m s⁻¹, which is the same as N s. Momentum is a vector in the direction of the velocity.
+
+**How do air bags and crumple zones reduce injury?**
+A person stopping from a given speed has a fixed change in momentum, so increasing the stopping time reduces the average force on the body, since F = Δp/Δt.
+
+**Which sections of OCR A Level Physics A cover Newton's laws and momentum?**
+They are sections 3.5.1 Newton's laws of motion and 3.5.2 Collisions in Module 3 of OCR H556. Two-dimensional collisions are assessed at A level only.
+
 ## Official syllabus
 
 OCR, *A Level Physics A (H556) specification*, Version 3.0, March 2026 (first assessment in 2017), sections 3.5.1 and 3.5.2, Module 3: Forces and motion.

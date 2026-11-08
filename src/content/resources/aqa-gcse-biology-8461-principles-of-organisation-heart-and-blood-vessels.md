@@ -19,17 +19,26 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "organisation-aqa-gcse-biology"
     subtopic: "the-heart-and-blood-vessels-aqa-gcse-biology"
-description: "AQA GCSE Biology 8461 study guide to levels of organisation, the heart, lungs, double circulation and blood vessels, with blood-flow rate examples."
+  - qualification: "gcse"
+    topic: "organisation-aqa-gcse-biology"
+    subtopic: "blood-aqa-gcse-biology"
+  - qualification: "gcse"
+    topic: "organisation-aqa-gcse-biology"
+    subtopic: "coronary-heart-disease-aqa-gcse-biology"
+description: "AQA GCSE Biology 8461 study guide to levels of organisation, the heart, lungs, blood vessels, blood and coronary heart disease, with blood-flow rate examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
 featured: false
 ---
 
-This guide teaches two subtopics of the AQA GCSE Biology (8461) specification, for teaching from September 2016
-and exams from 2018 onwards: **4.2.1 Principles of organisation** and **4.2.2.2 The heart and blood vessels**.
-Both sit in Topic 2, Organisation, which is assessed on Paper 1 (1 hour 45 minutes, 100 marks), set at
-Foundation and Higher Tier. Neither subtopic contains content the specification marks (HT only), so everything
-here is for both tiers. No required practical activity is listed under these two subtopics.
+Principles of organisation and the heart and blood vessels is the part of AQA GCSE Biology (8461) Topic 2 that explains how cells build tissues, organs and organ systems, and how the heart, lungs, blood and blood vessels work as one transport system. In the exam you must describe structures, explain how each one suits its function, carry out simple blood-flow rate calculations and evaluate treatments for coronary heart disease.
+
+This guide covers four subtopics of the AQA GCSE Biology (8461) specification, for teaching from September 2016
+and exams from 2018 onwards: **4.2.1 Principles of organisation**, **4.2.2.2 The heart and blood vessels**,
+**4.2.2.3 Blood** and **4.2.2.4 Coronary heart disease: a non-communicable disease**.
+All sit in Topic 2, Organisation, which is assessed on Paper 1 (1 hour 45 minutes, 100 marks), set at
+Foundation and Higher Tier. None of these subtopics contains content the specification marks (HT only), so everything
+here is for both tiers. No required practical activity is listed under these subtopics.
 
 For quick recall, use the [revision notes for this unit](/resources/aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels-revision-notes/).
 To test yourself, use the [practice questions for this unit](/resources/aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels-practice/).
@@ -49,6 +58,8 @@ lists every specification point.
 | 4.2.2.2 | Describe the natural pacemaker in the right atrium and the use of artificial pacemakers | Both |
 | 4.2.2.2 | Explain how the structure of arteries, veins and capillaries relates to their functions | Both |
 | 4.2.2.2 (MS 1a, 1c) | Use simple compound measures such as rate; carry out rate calculations for blood flow | Both |
+| 4.2.2.3 | Know the functions of plasma, red blood cells, white blood cells and platelets; recognise blood cells in a photograph or diagram and explain how they are adapted | Both |
+| 4.2.2.4 | Describe coronary heart disease and evaluate treatment by stents, statins, replacement valves, transplants and artificial hearts | Both |
 
 Two limits from the specification help you revise efficiently. You do **not** need the names of the heart
 valves. For the lungs, you need only the trachea, bronchi, alveoli and the capillary network around the
@@ -314,6 +325,47 @@ the cells.
 </figure>
 
 
+## 4.2.2.3 Blood
+
+The specification describes blood as a **tissue** made of **plasma**, in which **red blood cells**, **white
+blood cells** and **platelets** are suspended. You must know the function of each part and be able to recognise
+the different types of blood cell in a photograph or diagram.
+
+| Component | Appearance | Function |
+|---|---|---|
+| Plasma | Pale yellow liquid | Carries the cells, and transports dissolved substances such as glucose, carbon dioxide, urea and hormones around the body |
+| Red blood cells | Biconcave discs with no nucleus, packed with haemoglobin | Carry oxygen from the lungs to the body cells |
+| White blood cells | Larger cells with a nucleus | Part of the immune system: some engulf pathogens, others make antibodies or antitoxins |
+| Platelets | Small fragments of cells, no nucleus | Help the blood to clot at a wound, sealing it and stopping pathogens getting in |
+
+**How red blood cells are adapted.** The biconcave shape gives a large surface area for oxygen to diffuse in and
+out. Having no nucleus leaves more room for haemoglobin, which combines with oxygen in the lungs and releases it
+in the tissues. Their small size lets them squeeze through narrow capillaries.
+
+**Recognising cells in a micrograph.** Red blood cells are the most numerous, pale-centred discs with no nucleus.
+White blood cells are fewer and larger, with a stained, often lobed nucleus. Platelets appear as tiny specks.
+
+## 4.2.2.4 Coronary heart disease: a non-communicable disease
+
+In **coronary heart disease (CHD)**, layers of fatty material build up inside the **coronary arteries**, which
+supply the heart muscle with oxygenated blood. The arteries narrow, so blood flow to the heart muscle falls. The
+muscle then receives too little oxygen, which can cause chest pain or a heart attack.
+
+The specification asks you to describe and **evaluate** the treatments below.
+
+| Treatment | How it works | Advantages | Disadvantages |
+|---|---|---|---|
+| Stents | A mesh tube inserted into a narrowed coronary artery to keep it open | Restores blood flow quickly; less invasive than major surgery; recovery is fast | Risk of complications during surgery, infection or a blood clot forming in the stent; the artery can narrow again |
+| Statins | Drugs that reduce blood cholesterol, slowing the rate at which fatty material is deposited | No surgery; reduce the risk of a heart attack | Must be taken long term; possible side effects such as liver problems; act slowly |
+| Replacement valves | Faulty valves that do not open fully or that leak can be replaced with biological (from animals or donors) or mechanical valves | Restores normal one-way blood flow | Biological valves may wear out; mechanical valves need lifelong drugs to prevent clots; surgery risks |
+| Heart (or heart and lung) transplant | In heart failure, a donor heart, or heart and lungs, can be transplanted | Can give a long-term solution | Shortage of donors; risk of rejection, so immunosuppressant drugs are needed; major surgery |
+| Artificial heart | Occasionally used to keep a patient alive while waiting for a transplant, or to let the heart rest during recovery | No rejection, as it is not living tissue | Risk of clots and infection; not a long-term replacement in most cases |
+
+**How to evaluate.** In a 6-mark question, compare treatments using the same criteria: how invasive the treatment
+is, how quickly it works, how long the benefit lasts, side effects or risks, and cost or availability. Finish
+with a judgement linked to the patient described, for example a stent for a narrowed artery that needs opening
+now, with statins to slow further build-up.
+
 ## Common errors
 
 - Calling the heart a tissue, or muscle tissue an organ. An organ contains several tissues.
@@ -325,6 +377,20 @@ the cells.
 - Giving veins thick walls, or arteries valves along their length.
 - Dividing time by amount in a rate calculation, or leaving out the unit.
 
+## Frequently asked questions
+
+**Why does the left ventricle have a thicker wall than the right ventricle?**
+The left ventricle pumps blood around the whole body, so it must produce a higher pressure. The right ventricle only pumps blood to the lungs, which are close to the heart, so it needs less muscle.
+
+**Where is the heart's natural pacemaker?**
+It is a group of cells in the right atrium that controls the resting heart rate. If it fails, an artificial pacemaker, an electrical device, can correct an irregular heart rate.
+
+**Do I need to learn the names of the heart valves for AQA GCSE Biology?**
+No. The 8461 specification says knowledge of the names of the heart valves is not required. You do need to know that valves prevent blood flowing backwards.
+
+**How do I work out heart rate from a pulse count?**
+Divide the number of beats by the counting time in seconds and multiply by 60. For example, 21 beats in 15 seconds is 21 / 15 x 60 = 84 beats per minute.
+
 ## Where to go next
 
 - [Revision notes for this unit](/resources/aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels-revision-notes/)
@@ -335,4 +401,5 @@ the cells.
 ## Official syllabus
 
 AQA GCSE Biology (8461) specification, Version 1.0, for teaching from September 2016 and exams from 2018 onwards
-(AQA), section 4.2 Organisation: 4.2.1 Principles of organisation and 4.2.2.2 The heart and blood vessels.
+(AQA), section 4.2 Organisation: 4.2.1 Principles of organisation, 4.2.2.2 The heart and blood vessels, 4.2.2.3 Blood and
+4.2.2.4 Coronary heart disease: a non-communicable disease.

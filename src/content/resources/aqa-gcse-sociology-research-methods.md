@@ -11,15 +11,15 @@ syllabusSeries: "First teaching September 2017"
 order: 2
 syllabusTopics:
   - qualification: "gcse"
-    topic: "paper-1-families-and-education-8192"
+    topic: "sociological-research-methods-topic-8192"
     subtopic: "sociological-research-methods-8192"
-description: "Research design, data types, and practical and ethical issues in sociological investigation -- Section 3.7, examined across both papers, distinct from the site's existing content-focused guides to Families, Education, Crime and Social Stratification."
+description: "AQA GCSE Sociology (8192) section 3.7 research methods, examined in both papers: research design, sampling, data types, and practical and ethical issues."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-09
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers **Section 3.7: Sociological Research Methods** in AQA GCSE Sociology (8192). Unlike
@@ -138,3 +138,17 @@ existing, collected by someone else, such as official statistics).
   when evaluating a method.
 - Practise interpreting data presented in graphs, charts and tables, since these commonly accompany
   exam questions on this section.
+
+## Frequently asked questions
+
+**What is a pilot study?**
+A pilot study is a small-scale trial run of a research method before the main study, used to find problems with question wording, timing or procedure while they are cheap and easy to fix.
+
+**What is snowball sampling?**
+In snowball sampling, existing participants recruit further participants from their own networks. It is useful for hard-to-reach groups, though the sampling method chosen affects how representative the sample is.
+
+**Why might a researcher choose covert observation?**
+Covert observation can stop participants changing their behaviour because they know they are being watched, the observer effect, but it raises serious ethical concerns about informed consent.
+
+**Is quantitative data always more scientific than qualitative data?**
+No. Each has its own strengths depending on the research aim: quantitative data allows statistical comparison, while qualitative data captures depth, meaning and context.

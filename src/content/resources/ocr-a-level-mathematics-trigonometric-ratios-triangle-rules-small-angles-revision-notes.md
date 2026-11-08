@@ -239,6 +239,20 @@ With θ in radians and small: sin θ ≈ θ, cos θ ≈ 1 − θ²/2, tan θ ≈
 - Applying small angle approximations to a large angle, or keeping terms the question says to neglect.
 - Giving a decimal where an exact value was asked for, or the reverse.
 
+## Frequently asked questions
+
+**How do you find the exact value of a trig ratio for any angle?**
+Find the reference angle and the quadrant, take the exact value for the reference angle, then apply the sign for that quadrant. For example, tan 300° is in quadrant 4 with reference angle 60°, so tan 300° = −√3.
+
+**How do you find the area of a segment?**
+Subtract the triangle from the sector: segment area = ½r²θ − ½r² sin θ, with θ in radians.
+
+**What are the periods of the sine, cosine and tangent graphs?**
+y = sin x and y = cos x have period 360° (2π), and y = tan x has period 180° (π).
+
+**Are radians and small angle approximations A Level only in OCR A Level Mathematics A (H240)?**
+Yes. Radians with arc length and sector area, 1.05d, and the small angle approximations, 1.05e, are A Level only.
+
 ## Official syllabus
 
 OCR, *A Level in Mathematics A (H240) specification*, Version 3.1 (August 2026), for first assessment in 2018, published by OCR.

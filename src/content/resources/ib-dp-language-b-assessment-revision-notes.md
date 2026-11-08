@@ -10,11 +10,11 @@ syllabusSeries: "First assessment 2020"
 order: 1
 description: "Condensed recall notes on the assessment structure -- papers, weightings and the individual oral -- for IB Diploma Programme Language B, common to SL and HL."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-26
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the
@@ -88,6 +88,20 @@ Language B is studied as an additional, typically non-native language, whereas t
 6. How many literary works are required to be studied at HL?
 
 **Answers:** 1. 50%, split evenly by weighting between listening comprehension (25%, 25 raw marks) and reading comprehension (25%, 40 raw marks) -- the weighting is even but the raw marks are not. 2. Study of two literary works originally written in the target language. 3. A photograph or short stimulus connected to one of the five prescribed themes. 4. The student's own teacher. 5. Any one of: Criterion B1, message (visual stimulus at SL, literary extract at HL); Criterion B2, message—conversation; Criterion C, interactive skills—communication. 6. Two.
+
+## Frequently asked questions
+
+**How long is IB Language B Paper 1 at SL and HL?**
+Paper 1 lasts 1 hour 15 minutes at SL, with a 250 to 400 word response, and 1 hour 30 minutes at HL, with 450 to 600 words. It is worth 25% at both levels.
+
+**How is IB Language B Paper 2 split between listening and reading?**
+Paper 2 is worth 50%, weighted evenly at 25% for listening and 25% for reading, but listening carries 25 raw marks and reading 40. The reading section lasts 1 hour at both levels; listening lasts 45 minutes at SL and 1 hour at HL.
+
+**How is the Language B individual oral marked?**
+The oral is marked out of 30 against four criteria: language (12 marks), message on the visual stimulus at SL or the literary extract at HL (6 marks), message in the conversation (6 marks), and interactive skills (6 marks).
+
+**What is the difference between Language B and Language ab initio?**
+In the IB Diploma Programme, Language B is for students who already have some experience of the target language. Language ab initio is a separate course for students with no prior background, with its own more foundational assessment.
 
 ## Official syllabus
 

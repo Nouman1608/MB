@@ -282,6 +282,23 @@ Reminder: chair 4 hours, table 10 hours. One table costs 10 ÷ 4 = 2.5 chairs.
 - Giving a list of market and planned system features without evaluating them.
 - Forgetting to name axes, curves and the point on a diagram described in words.
 
+## Frequently asked questions
+
+**What is opportunity cost?**
+Opportunity cost is the benefit of the best option rejected when a choice is made. Only the next best alternative counts, not the total of all the options given up.
+
+**What are the four factors of production?**
+The four factors are land (all natural resources), labour (human effort), capital (man-made goods used to make other goods, not money) and enterprise (organising the other factors and bearing risk).
+
+**What is the difference between scarcity and a shortage?**
+Scarcity is permanent and universal: resources are limited while wants are unlimited. A shortage is a market imbalance at a particular price.
+
+**What is the difference between productive and allocative efficiency on a production possibility diagram?**
+Every point on the boundary is productively efficient, with no waste of resources. Allocative efficiency is the mix of goods society values most, which needs information on preferences that the diagram alone cannot show.
+
+**What is the difference between a renewable and a sustainable resource?**
+Renewable describes a resource that can regenerate, such as fish or timber. Sustainable describes how fast it is used: a renewable resource used faster than it regrows behaves like a non-renewable one.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), section 3.1.1 (the economic problem and methodology), published by OxfordAQA. First teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022.

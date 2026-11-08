@@ -19,11 +19,11 @@ syllabusTopics:
     subtopic: "the-gas-exchange-system-cambridge-alevel-biology"
 description: "The human gas exchange system from scratch: airways, tissues, plan diagrams and alveolar gas exchange, with worked examples, for Cambridge 9700 Biology."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This study guide teaches Topic 9, Gas exchange, from the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers the single section 9.1 The gas exchange system, learning outcomes 1 to 7. This is AS Level content: it is examined on Paper 1 (Multiple Choice) and Paper 2 (AS Level Structured Questions), and Paper 4 can draw on it because A Level questions require knowledge of the AS content. The microscope skills in this topic also connect to the practical papers.
@@ -231,6 +231,20 @@ The oxygen gradient almost disappears by the end of the capillary: blood has nea
 - Original exam-style questions: [Gas exchange practice](/resources/a-level-biology-9700-gas-exchange-practice/)
 - How the blood carries these gases: [Transport in mammals study guide](/resources/a-level-biology-9700-transport-in-mammals/)
 - Check your AS topics: [free 9700 AS diagnostic](/practice/9700/diagnostic/as/)
+
+## Frequently asked questions
+
+**What is the route air takes to the alveoli?**
+Air passes through the trachea, into two bronchi (one per lung), through many branching bronchioles and into the alveoli, which are surrounded by a capillary network.
+
+**Why do bronchioles have no cartilage?**
+They are narrow enough to stay open, and their diameter can be changed by the smooth muscle in their walls to control airflow to groups of alveoli.
+
+**Why is gas exchange in the alveoli efficient?**
+There is a large surface area, a short diffusion distance across two single layers of flattened cells, narrow capillaries that press red blood cells against the wall, steep gradients kept by blood flow and breathing, and a moist lining.
+
+**How is the gas exchange system kept healthy?**
+Goblet cells and mucous glands secrete mucus that traps particles and pathogens, and ciliated epithelial cells beat to move the mucus up towards the throat, where it is swallowed.
 
 ## Official syllabus
 

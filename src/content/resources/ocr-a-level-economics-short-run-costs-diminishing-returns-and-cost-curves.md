@@ -224,6 +224,20 @@ A balanced conclusion: the law is highly significant for firms with large fixed 
 - Writing that fixed costs are zero in the short run.
 - Describing the effect without stating which cost curve moves.
 
+## Frequently asked questions
+
+**What is the difference between fixed and variable costs?**
+Fixed costs do not change when output changes and are paid even at zero output, such as rent, machine hire and insurance. Variable costs change with output, such as materials, energy used in production and wages paid by the hour.
+
+**Why is the marginal cost curve a mirror image of marginal product?**
+If wages are the main variable cost, marginal cost equals the wage divided by marginal product. When marginal product is high, marginal cost is low, and once diminishing returns cut marginal product, marginal cost rises.
+
+**Why is minimum average cost to the right of minimum average variable cost?**
+After AVC starts to rise, average fixed cost is still falling, and for a while the fall in AFC outweighs the rise in AVC. The gap between AC and AVC equals AFC, which narrows as output grows but never closes.
+
+**How significant is the law of diminishing returns for a firm?**
+It is highly significant for firms with large fixed capacity that is slow to expand, because unit costs rise as they squeeze more from that capacity. It matters much less for firms that can rent extra capacity at short notice.
+
 ## Next steps
 
 Work through the [revision notes](/resources/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves-revision-notes/) for recall and then the [practice questions](/resources/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves-practice/). Use the [free 10-minute diagnostics](/diagnostics/) to find gaps.

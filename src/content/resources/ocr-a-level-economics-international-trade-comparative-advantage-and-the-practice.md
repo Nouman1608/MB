@@ -154,6 +154,23 @@ These questions cover the topic International trade in Component 2, Macroeconomi
 - Evaluating with a list of assumptions and no judgement.
 - Treating aid as one thing, without type or recipient.
 
+## Frequently asked questions
+
+**How do you find comparative advantage from production figures?**
+Work out the opportunity cost of each good in each country by dividing what is given up by what is gained. The country with the lower opportunity cost of a good has the comparative advantage in it, even if the other country can produce more of everything.
+
+**How do you calculate the terms of trade?**
+The terms of trade index is the index of export prices divided by the index of import prices, multiplied by 100. A value above 100 means an improvement on the base year, so each unit of exports buys more imports; a value below 100 means a deterioration.
+
+**What are the most common mistakes in comparative advantage questions?**
+Students often pick comparative advantage by the larger output rather than the lower opportunity cost, divide the wrong way round when finding an opportunity cost, or choose terms of trade outside the range between the two countries' opportunity costs.
+
+**Is an improvement in the terms of trade always good for a country?**
+Not necessarily. If export prices rise and demand for the exports is price elastic, export volumes can fall by more than prices rise, so export revenue falls. Evaluation questions on OCR A Level Economics (H460) reward explaining when a change helps or harms.
+
+**How do you calculate the change in unit labour costs?**
+Unit labour cost is labour cost per unit of output, or the wage per worker divided by output per worker. To find the percentage change, divide the wage growth factor by the productivity growth factor and subtract 1, rather than simply subtracting the growth rates.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ocr-a-level-economics-international-trade-comparative-advantage-and-the-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-international-trade-comparative-advantage-and-the/).

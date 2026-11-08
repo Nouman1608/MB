@@ -234,6 +234,20 @@ Environmental policy can hurt low-income households. Suppose the carbon tax rais
 - Drawing a carbon tax as a shift of demand rather than supply.
 - Listing policies without evaluating them.
 
+## Frequently asked questions
+
+**Is inclusive and sustainable growth AS or A Level content in Cambridge 9708?**
+Sections 9.2.5 and 9.2.6 are in topic 9, which is A Level content only, so AS candidates do not sit it.
+
+**What is inclusive economic growth?**
+Inclusive economic growth is growth whose benefits are shared widely across society, so that poorer households, regions and groups gain a fair share of the extra income. It is about who shares the gain, not simply faster growth.
+
+**What is sustainable economic growth?**
+Sustainable economic growth meets today's needs while leaving future generations able to meet their own. A definition that only mentions protecting the environment, without the idea of future generations, is incomplete.
+
+**Are non-renewable resources always used unsustainably?**
+No. Whether use is sustainable depends on the rate of extraction, recycling and the availability of substitutes. Saying non-renewable resources are always used unsustainably is a common error.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International), sections 9.2.5 and 9.2.6.

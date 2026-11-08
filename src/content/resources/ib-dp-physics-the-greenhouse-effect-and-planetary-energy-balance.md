@@ -20,7 +20,7 @@ publishedDate: 2026-10-12
 featured: false
 ---
 
-This study guide follows the IB *Physics guide*, first assessment 2025, and covers all of topic B.2 (Greenhouse effect) in the theme on the particulate nature of matter. It applies to Standard Level and Higher Level alike: the guide sets no extra content for Higher Level alone in B.2. B.2 builds on the radiation ideas in B.1, so read the [B.1 study guide on the molecular model and heating](/resources/ib-dp-physics-molecular-model-temperature-internal-energy-and/) first if the Stefan-Boltzmann law is new to you; the [B.1 study guide on conduction, convection and thermal radiation](/resources/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan/) covers it.
+This study guide follows the IB *Physics guide*, first assessment 2025, and covers all of topic B.2 (Greenhouse effect) in the theme on the particulate nature of matter. It applies to Standard Level and Higher Level alike: the guide sets no extra content for Higher Level alone in B.2. B.2 builds on the radiation ideas in B.1, so if the Stefan-Boltzmann law is new to you, read the [B.1 study guide on conduction, convection and thermal radiation](/resources/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan/) first.
 
 Pair this page with the [revision notes](/resources/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance-revision-notes/) and the [practice set](/resources/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance-practice/). The course page is at [IB DP Physics](/boards/ib/ib-dp/physics/), the printable list is the [IB DP Physics checklist](/checklists/ib/ib-dp/physics/), and the [free 10-minute diagnostics](/diagnostics/) help you find weak spots. For the overall course layout see the [syllabus guide](/resources/ib-dp-physics-syllabus-guide/).
 
@@ -229,6 +229,20 @@ Now raise a to 0.82 as the concentration of greenhouse gases grows: Ts = **290 K
 - Saying greenhouse gases "trap" heat or "reflect" infrared, rather than absorb and re-emit in all directions.
 - Treating albedo as a percentage of what is emitted, when it is a fraction of what is incident.
 - Treating emissivity above 1 as possible.
+
+## Frequently asked questions
+
+**What is the average albedo of Earth?**
+A convenient average value for Earth's albedo is about 0.30, although it changes with cloud cover, latitude and the angle of the Sun's rays.
+
+**Why is Earth's surface warmer than its no-atmosphere temperature?**
+With no atmosphere Earth's equilibrium temperature would be about 255 K, but the actual mean surface temperature is nearer 288 K. The 33 K gap is the greenhouse effect, which keeps the surface warm enough for liquid water.
+
+**Can emissivity be greater than 1?**
+No. Emissivity compares a surface with an ideal black surface at the same temperature, so its value cannot exceed 1.
+
+**What is the main human cause of the enhanced greenhouse effect?**
+The guide singles out the burning of fossil fuels as the main human cause of the enhanced greenhouse effect.
 
 ## Official syllabus
 

@@ -12,11 +12,14 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-living-muslim-life-9237"
-description: "Condensed recall notes on the Five Pillars, festivals, worship, and the sources of authority for International GCSE Islamiyat."
+  - qualification: "igcse"
+    topic: "paper-1-living-muslim-life-9237"
+    subtopic: "islam-practices-9237"
+description: "Revision notes on the Five Pillars, festivals, worship and beliefs for OxfordAQA International GCSE Islamiat 9237 Paper 1, Living the Muslim life."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -84,6 +87,17 @@ Six beliefs shape the Muslim worldview: **tawhid** (the oneness of God), belief 
 The **mosque** functions as more than a place of prayer — it is also a centre of learning and community life, hosting the Friday khutbah and everyday teaching.
 
 Daily conduct is shaped by **halal** (permitted) and **haram** (forbidden): dietary rules, honesty in trade, the prohibition of interest, and duties towards parents, neighbours and the needy.
+
+## Frequently asked questions
+
+**How are the 9237 papers structured?**
+Each paper lasts 1 hour 30 minutes and has two sections of 25 marks, with short questions building to an extended response worth 12 marks related to a set passage.
+
+**What is the difference between zakat and sadaqah?**
+Zakat is a compulsory payment on wealth above a set amount; sadaqah is voluntary charity.
+
+**What are the five daily prayers?**
+Fajr, Zuhr, Asr, Maghrib and Isha.
 
 ## Sources of authority
 

@@ -187,6 +187,20 @@ H₂N–CH(CH(OH)CH₃)–CO–NH–CH(CH₂C₆H₅)–CO–NH–CH(CH₂CH(CH�
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does OxfordAQA A-level Chemistry 3.3.13 Amino acids and proteins cover?**
+Section 3.3.13 of OxfordAQA International AS and A-level Chemistry (9620) covers the acid–base behaviour of amino acids, peptide links and hydrolysis, the levels of protein structure, thin-layer chromatography of amino acids and the action of the anticancer drug cisplatin.
+
+**What are common mistakes in amino acid and protein questions?**
+Frequent errors include ignoring a side-chain –COOH or –NH₂ when working out an ion's charge, drawing hydrolysis products in the neutral form when the question states acid or alkali, and explaining secondary structure with "hydrogen bonds" without naming the atoms involved.
+
+**How do you avoid errors when calculating Rf values?**
+Measure both distances from the baseline, not the bottom edge of the plate, and divide the spot distance by the solvent-front distance. An Rf value above 1 shows the distances have been swapped.
+
+**How do you calculate the Mr of a peptide?**
+Add the Mr values of the amino acids and subtract 18.0 for each peptide link. A chain of n amino acids has n − 1 links, so a tripeptide loses two water molecules.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards (first teaching 2019): section 3.3.13 Amino acids and proteins, subsections 3.3.13.1 to 3.3.13.3, International A2 content.

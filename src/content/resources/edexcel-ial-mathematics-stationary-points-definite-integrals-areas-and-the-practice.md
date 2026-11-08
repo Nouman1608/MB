@@ -183,6 +183,20 @@ The 6-strip value uses more measurements, so it is likely to be closer to the tr
 - Using the wrong number of y-values or the wrong h in the trapezium rule.
 - Stating over- or under-estimate with no reason connected to the curve.
 
+## Frequently asked questions
+
+**How do you justify the nature of a stationary point?**
+Show the sign of the second derivative at the point, or the sign of the gradient either side of it. Stating maximum or minimum without this evidence loses the mark.
+
+**Why can't you use one integral when a curve crosses the x-axis?**
+A definite integral is signed, so the parts below the axis cancel some of the parts above it. Split the integral at each root, find each area separately and add their sizes.
+
+**What is a common trapezium rule mistake?**
+Using the wrong number of y-values or the wrong strip width h. With n strips you need n + 1 y-values and h = (b − a)/n.
+
+**How do you decide whether the trapezium rule over-estimates or under-estimates?**
+Look at how the curve bends: if it bends upwards over the interval the chords lie above it and the rule over-estimates, and if it bends downwards the rule under-estimates. Give a reason linked to the curve, not just the word.
+
 ## Next steps
 
 - Go back to the [revision notes](/resources/edexcel-ial-mathematics-stationary-points-definite-integrals-areas-and-the-revision-notes/) for any rule you missed.

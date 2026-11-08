@@ -12,11 +12,11 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "an-introduction-to-the-role-of-the-accountant-in-business"
-description: "The accountant's responsibilities within a business, the difference between financial and management accounting, and the role of the accountant in overseeing accounting information systems -- the full content of Topic 1 for AQA A-Level Accounting (7127)."
+description: "The accountant's responsibilities, financial versus management accounting, and overseeing accounting systems: Topic 1 of AQA A-Level Accounting (7127)."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -174,3 +174,20 @@ Treating drawings as an expense rather than a reduction of capital. Recording tr
 - Define every accounting concept and apply it to an adjustment.
 - Calculate accruals and prepayments and place them correctly in both statements.
 - Apply the ethical principles to a pressure scenario, naming the breach and the action.
+
+## Frequently asked questions
+
+**What is the difference between financial and management accounting?**
+Financial accounting looks backward, records past transactions and serves external users under formal reporting rules. Management accounting looks forward and serves internal decision-makers, with far more flexibility in format.
+
+**What does the role of the accountant topic cover in AQA 7127?**
+It covers the responsibilities of the accountant within a business, the difference between financial and management accounting and the purpose of each, and the accountant's role in developing and overseeing accounting information systems, including overseeing bookkeepers and ledger clerks.
+
+**How is rent paid in advance treated at the year end?**
+Only the part of the payment that relates to the year is charged as an expense, and the rest is shown as a prepayment, a current asset. For example, £12,000 paid on 1 October for a year, with a 31 December year end, gives a £3,000 expense and a £9,000 prepayment.
+
+**Which ethical principles are accountants expected to show?**
+Accountants are expected to show integrity, objectivity, professional competence, confidentiality and professional behaviour.
+
+**Are drawings an expense?**
+No. Under the business entity concept, drawings reduce the owner's capital; they are not an expense in the income statement.

@@ -229,6 +229,20 @@ Take g = 10 N/kg where needed.
 * Giving the answer with no unit, or a joule when the quantity is a watt.
 * Leaving out working. Writing the equation, the substitution and the answer makes your method clear to the reader.
 
+## Frequently asked questions
+
+**What equations do I need to learn for OxfordAQA International GCSE Physics 3.2.1?**
+You need W = F × d, Ee = ½ × k × e², Ep = m × g × h, Ek = ½ × m × v², and power P = E / t and P = W / t. You should also be able to rearrange each one, for example v = √(2 × Ek / m).
+
+**Is any work done when you hold a heavy object still?**
+No. Work is only done when a force moves an object through a distance along the line of the force, so holding something still does no work on it.
+
+**What happens to energy when work is done against friction?**
+It is transferred by heating to the surfaces and the surroundings, where it spreads out. The energy is not destroyed or "used up".
+
+**When does the equation Ee = ½ × k × e² apply?**
+It applies only below the limit of proportionality, where the spring obeys Hooke's law. The extension e is the new length minus the original length, measured in metres.
+
 ## Official syllabus
 
 These notes are aligned to section 3.2.1 of the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, published by OxfordAQA.

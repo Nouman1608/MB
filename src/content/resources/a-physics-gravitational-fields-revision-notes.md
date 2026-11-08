@@ -25,9 +25,9 @@ syllabusTopics:
     subtopic: "a-gravitational-potential"
 description: "Condensed recall notes on Newton\u2019s law of gravitation, field strength, potential and orbits for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -124,9 +124,9 @@ So `T² ∝ r³`. The orbiting mass **cancels** — orbital speed and period dep
 </figure>
 
 
-## Escape velocity
+## Escape velocity (beyond the syllabus — background only, not examinable)
 
-Escape velocity is the minimum launch speed for which total energy (kinetic plus gravitational potential) just reaches zero, allowing the object to reach infinity with nothing left over:
+Escape velocity is not named in the Cambridge 9702 syllabus; it is included only as an extension of the energy ideas above. It is the minimum launch speed for which total energy (kinetic plus gravitational potential) just reaches zero, allowing the object to reach infinity with nothing left over:
 
 ```
 1/2 m v^2 = G M m / r     ->    v_esc = sqrt(2 G M / r)
@@ -167,3 +167,16 @@ Independent of the escaping object's mass, since m cancels from both sides of th
   <figcaption>Escape velocity v = root(2GM/r) makes total energy zero; it is independent of the escaping mass.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you derive Kepler's third law for a circular orbit?**
+Set gravitational force equal to centripetal force, GMm/r² = mv²/r, so v² = GM/r. Substituting v = 2πr/T gives T² = (4π²/GM)r³, so T² is proportional to r³.
+
+**What are the conditions for a geostationary orbit?**
+A geostationary satellite has a period of exactly 24 hours, orbits from west to east, and stays directly above the Equator. All three conditions are needed for it to stay above the same point on the ground.
+
+**Does a heavier satellite orbit faster?**
+No. The satellite's mass cancels in the orbit equation, so orbital speed and period depend only on the central mass and the orbital radius.
+
+**Is the gravitational constant G given in the Cambridge 9702 exam?**
+Yes. G = 6.67 × 10⁻¹¹ N m² kg⁻² is printed on the 9702 data sheet, so copy its value and units accurately rather than relying on memory.

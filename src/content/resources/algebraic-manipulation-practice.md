@@ -22,19 +22,21 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "algebra-and-graphs"
     subtopic: "equations"
-description: "Original exam-style practice questions with full worked answers on expanding, factorising, algebraic fractions and rearranging formulae."
+description: "Cambridge O Level Mathematics 4024 practice questions with worked answers on expanding, factorising, completing the square, algebraic fractions and rearranging."
 author: "muhammad-ghazali-siddiqui"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNote: "2026-11-08 recheck: expanded from about 800 words (Section C on triple brackets, grouping, cubic factorising, algebraic fractions, completing the square with a ≠ 1), added intro and FAQ, removed a duplicated exam-trap bullet, rewrote description. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
+reviewNeeded: true
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
 > and they do **not** replicate the exam's exact structure, question count or
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
+
+Algebraic manipulation in Cambridge O Level Mathematics (Syllabus D) 4024 means simplifying, expanding, factorising, completing the square and working with algebraic fractions: syllabus subtopics 2.1 to 2.3, with changing the subject from 2.5. The questions below cover each of those skills, and every answer shows the method marks an examiner would look for.
 
 Related: [Algebraic Manipulation revision notes](/resources/algebraic-manipulation-revision-notes/)
 
@@ -68,6 +70,16 @@ Related: [Algebraic Manipulation revision notes](/resources/algebraic-manipulati
 
 **9.** Simplify: (a) 5a/6 × 3a/10 (b) 5a/6 ÷ 3a/10 **[4]**
 
+## Section C
+
+**10.** Expand and simplify (x − 2)(x + 3)(2x + 1). **[3]**
+
+**11.** Factorise fully: (a) 2ax + 2bx + 3ay + 3by (b) 9x² − 25y² (c) 2x³ − 8x² − 10x **[5]**
+
+**12.** Simplify (x² − 2x)/(x² − 5x + 6). **[3]**
+
+**13.** Express 2x² − 12x + 5 in the form a(x + b)² + c. **[3]**
+
 ---
 
 ## Answers
@@ -96,6 +108,16 @@ Related: [Algebraic Manipulation revision notes](/resources/algebraic-manipulati
 **9. (a)** 5a/6 × 3a/10 = 15a²/60 = **a²/4** [1] [1].
 **(b)** 5a/6 ÷ 3a/10 = 5a/6 × 10/3a = 50a/18a = **25/9** [1] [1].
 
+**10.** (x − 2)(x + 3) = x² + x − 6 [1]; (x² + x − 6)(2x + 1) = 2x³ + x² + 2x² + x − 12x − 6 [1] = **2x³ + 3x² − 11x − 6** [1].
+
+**11. (a)** 2x(a + b) + 3y(a + b) [1] = **(a + b)(2x + 3y)** [1].
+**(b)** Difference of two squares: **(3x − 5y)(3x + 5y)** [1].
+**(c)** Take out the common factor first: 2x(x² − 4x − 5) [1] = **2x(x − 5)(x + 1)** [1].
+
+**12.** Numerator x(x − 2) [1]; denominator (x − 2)(x − 3) [1]; cancel the common factor (x − 2): **x/(x − 3)** [1].
+
+**13.** 2(x² − 6x) + 5 [1] = 2[(x − 3)² − 9] + 5 [1] = **2(x − 3)² − 13** [1]. Check: 2(x² − 6x + 9) − 13 = 2x² − 12x + 5 ✓.
+
 ---
 
 ## Where marks are usually lost
@@ -107,7 +129,7 @@ Related: [Algebraic Manipulation revision notes](/resources/algebraic-manipulati
 - Forgetting to correct the constant term when completing the square — halving the coefficient of x and squaring the bracket is only the first step; the difference between the bracket's expansion and the original expression must be added or subtracted afterwards.
 - Multiplying denominators together and simplifying too early in an algebraic fraction multiplication, before checking whether factors could have cancelled first — factorising before multiplying often avoids handling much larger numbers.
 - Not stating the minimum (or maximum) value explicitly after completing the square, when a question asks for it — the completed-square form itself is not a full answer to that part of the question.
-- Cancelling a term rather than a factor when simplifying an algebraic fraction — cancelling is only ever valid for a factor shared by the whole numerator and the whole denominator, never for a term merely added or subtracted somewhere inside an unfactorised expression.
+- Not taking out a common factor first, as in 11(c): 2x³ − 8x² − 10x is only "fully" factorised once the 2x is outside the bracket.
 
 ## Where completing the square fits in
 
@@ -117,5 +139,19 @@ and solving or sketching it: once *x² + bx + c* is written as
 as q (occurring when x = −p), and the same rearranged form gives an
 alternative route to solving the quadratic equation *x² + bx + c = 0*
 without factorising or using the formula.
+
+## Frequently asked questions
+
+**What is the difference between expanding and factorising?**
+Expanding multiplies out brackets, for example 3x(2x − 4y) = 6x² − 12xy. Factorising is the reverse: it writes an expression as a product, and in 4024 "factorise" always means factorise fully.
+
+**How do you factorise ax² + bx + c when a is not 1?**
+Find two numbers that multiply to a × c and add to b, split the middle term with them, then factorise in pairs. Expand your brackets to check, as in Question 4.
+
+**When can you cancel in an algebraic fraction?**
+Only when the same factor multiplies the whole numerator and the whole denominator. Factorise both first; never cancel a term that is added or subtracted.
+
+**Is completing the square on the 4024 syllabus?**
+Yes. Subtopic 2.2 asks you to complete the square for ax² + bx + c, and subtopic 2.5 uses the completed square form to solve quadratics and find turning points.
 
 For condensed recall notes on this topic, see the [Algebraic Manipulation revision notes](/resources/algebraic-manipulation-revision-notes/); for the full explanation with additional worked examples, see the [Algebraic Manipulation study guide](/resources/algebraic-manipulation/).

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-psychology-in-context-7182"
     subtopic: "approaches-in-psychology-7182"
-description: "The six approaches to psychology examined on AQA A-Level Psychology (7182) Paper 2 -- learning approaches (behaviourist and social learning theory), cognitive, biological, psychodynamic, humanistic, and their comparison."
+description: "Study guide to the six approaches on AQA A-Level Psychology (7182) Paper 2: behaviourist, social learning, cognitive, biological, psychodynamic and humanistic."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -122,6 +122,20 @@ Because the specification does not just ask students to describe each approach i
 expects genuine comparison, so revision built around a comparison table (assumptions, key research,
 determinism vs free will, evidence type) prepares for exactly the kind of question the specification
 sets, rather than only single-approach description.
+
+## Frequently asked questions
+
+**Which paper are approaches in psychology examined on in AQA A-Level Psychology 7182?**
+Approaches in Psychology is a sub-topic of Paper 2, Psychology in Context, which lasts 2 hours and is worth 96 marks. Paper 2 also assesses biopsychology and research methods.
+
+**How many approaches do you need to know for AQA A-Level Psychology?**
+You need the basic assumptions of six approaches: the behaviourist approach, social learning theory, the cognitive approach, the biological approach, the psychodynamic approach and humanistic psychology. You must also be able to compare them.
+
+**What is the difference between the behaviourist approach and social learning theory?**
+The behaviourist approach explains learning through direct reinforcement of an individual's own behaviour. Social learning theory explains learning through observing and imitating others, with mediational processes such as attention and retention that the behaviourist account leaves out.
+
+**Is the AS Paper 2 the same as the A-level Paper 2 for approaches?**
+No. The AS Paper 2 covers only the learning, cognitive and biological approaches, with a shorter biopsychology section, alongside clinical psychology and mental health and research methods.
 
 ## Official syllabus
 

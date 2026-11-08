@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "the-basic-economic-problem-cambridge-igcse-economics"
 description: "Condensed recall notes on scarcity, opportunity cost, factors of production and production possibility curves for Cambridge IGCSE Economics 0455."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -153,3 +153,19 @@ As countries develop, the primary sector shrinks and the tertiary sector grows.
   <figcaption>As countries develop the primary sector shrinks and the tertiary sector grows.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the basic economic problem in Cambridge IGCSE Economics?**
+Wants are unlimited but resources are limited, so choices must be made and every choice has an opportunity cost. It opens the Cambridge IGCSE Economics (0455) syllabus.
+
+**What are the rewards for each factor of production?**
+Land earns rent, labour earns wages, capital earns interest and enterprise earns profit. Capital means man-made goods such as machinery and factories, not money.
+
+**What is the difference between a free good and an economic good?**
+A free good, such as air in most contexts, is not scarce, so it has no opportunity cost and no price. An economic good, such as oil, is scarce, so using it has an opportunity cost.
+
+**Why is a PPC drawn concave to the origin?**
+Resources are not equally suited to producing both goods, so the opportunity cost rises as more of one good is produced. This makes the curve bow outwards.
+
+**What are the three sectors of the economy?**
+The primary sector extracts raw materials, such as farming, mining and fishing; the secondary sector covers manufacturing and construction; and the tertiary sector provides services such as retail, banking and tourism.

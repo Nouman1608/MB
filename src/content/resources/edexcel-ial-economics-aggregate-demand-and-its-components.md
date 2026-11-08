@@ -235,6 +235,20 @@ Here AD rises. With low elasticities the improvement could be small or negative,
 - Writing "gross investment" when you mean net investment.
 - Saying a depreciation always improves the trade balance; elasticities decide.
 
+## Frequently asked questions
+
+**What is a wealth effect on consumption?**
+Rising house or share prices make owners feel richer and more able to borrow against their assets, so consumption rises. Falling asset prices do the opposite.
+
+**Why can a slowdown in growth cause investment to fall?**
+Investment responds to the rate of change of output, because firms need extra capacity only when output is growing. If growth slows, firms need less new capacity, so net investment can fall even while output still rises.
+
+**How does corporation tax affect investment decisions?**
+Lower tax on company profits raises a project's return after tax. A project whose after-tax return moves above the cost of borrowing becomes worth undertaking, so investment rises.
+
+**Which part of the Edexcel International A Level Economics specification covers aggregate demand?**
+Section 2.3.2, Aggregate demand (AD), in Unit 2 of the Pearson Edexcel International Advanced Subsidiary and Advanced Level Economics specification.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics, Specification, Issue 2, June 2018, Pearson Education Limited. Section 2.3.2, Aggregate demand (AD).

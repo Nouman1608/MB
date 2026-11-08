@@ -214,6 +214,23 @@ With white light, each order other than the zeroth is a spectrum with violet nea
 - Using lines per millimetre as d. Convert to metres, then take the reciprocal.
 - Rounding the highest grating order up. It must be a whole number below d/λ.
 
+## Frequently asked questions
+
+**What is the principle of superposition?**
+Where waves overlap, the resultant displacement is the signed sum of the displacements each wave would cause alone. The waves then continue as if they had not met.
+
+**Why can't two filament lamps produce an interference pattern?**
+Light from a filament lamp is emitted in short, random bursts, so the phase difference between two lamps changes too quickly to give a steady pattern. The sources are not coherent.
+
+**Why did Young's double-slit experiment support the wave theory of light?**
+Interference, where light cancels light to give dark fringes, can be explained by waves, and the particle models of the time could not account for it.
+
+**What does the double-slit pattern look like with white light?**
+The central fringe is white because every wavelength has zero path difference there. The other fringes are coloured, because each colour has a different fringe spacing.
+
+**How do you measure the wavelength of light with a double slit?**
+Measure the slit-to-screen distance D and the slit separation a, then measure across several fringes and divide to find the spacing x. The wavelength is λ = ax/D; measuring many spacings reduces the percentage uncertainty.
+
 ## Official syllabus
 
 OCR, Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017, section 4.4.3 Superposition.

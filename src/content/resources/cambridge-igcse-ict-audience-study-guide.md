@@ -123,3 +123,17 @@ In **describe** questions, give the feature and its effect. In **explain** or **
 6. Give two methods software makers use to prevent illegal copying. *Product keys and licence agreements, or activation checks.*
 7. Give one risk to a user of pirated software. *It may contain malware, or it will not receive updates or support.*
 8. Is it legal to use a photograph you found online if you name its photographer? *Not necessarily; you still need permission or a licence that allows reuse.*
+
+## Frequently asked questions
+
+**What does audience appreciation mean in IGCSE ICT?**
+In Cambridge IGCSE ICT (0417), audience appreciation means understanding who will read, view or use your work and adapting it to their age, knowledge, interests, needs and setting, for example larger text and simple words for young children.
+
+**How do you earn marks when justifying a design choice for an audience?**
+Give the feature and then a reason that refers to the named audience, for example large photographs to keep children interested. A feature without an audience-linked reason does not earn the mark, and vague words such as "nice" should be avoided.
+
+**Is it legal to use an online photo if you credit the photographer?**
+Not necessarily. Naming the photographer does not give permission; you still need the owner's permission or a licence that allows reuse.
+
+**What is software piracy?**
+Software piracy is copying software illegally, for example giving copies to friends or installing one licensed copy on many computers. It breaks copyright law and pirated software may contain malware or receive no updates.

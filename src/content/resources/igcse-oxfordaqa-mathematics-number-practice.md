@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "number-oxfordaqa-igcse-maths"
 description: "Original exam-style practice questions with full worked answers on Topic 1 Number for OxfordAQA International GCSE Mathematics (9260)."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-26
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -129,3 +129,17 @@ original price.
 - Confusing direct and inverse proportion — always check whether the two quantities increase together or move oppositely before setting up the relationship.
 - Using a mix of upper and lower bounds inconsistently instead of choosing correctly for greatest/least sum, difference, product or quotient.
 - Adding a percentage back onto a discounted price instead of dividing by the correct multiplier when working backwards to an original value.
+
+## Frequently asked questions
+
+**How do you work out a reverse percentage after a discount?**
+Divide the reduced price by the multiplier. After a 25% discount the price is 75% of the original, so divide by 0.75; adding 25% of the reduced price back on gives the wrong answer.
+
+**How do you find the greatest possible area from rounded lengths?**
+Multiply the upper bounds of the two lengths. For a sum or a product, the greatest result uses all upper bounds and the least result uses all lower bounds.
+
+**Why are subtraction and division different for bounds?**
+To make A − B or A ÷ B as large as possible, use the upper bound of A with the lower bound of B. Using both upper bounds does not give the maximum.
+
+**Which number topics are Extension only in OxfordAQA 9260?**
+On this page, reverse percentages, surds, bounds and the compound interest formula are marked Extension only, in line with the 9260 specification.

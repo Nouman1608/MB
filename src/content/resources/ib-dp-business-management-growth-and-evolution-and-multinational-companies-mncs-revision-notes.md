@@ -247,6 +247,20 @@ A mining MNC in a host country makes 18m profit (in $). Tax at 30% takes 5.4m, l
 - Quoting figures from the stimulus without saying what they show.
 - Dropping the unit or the % sign from a result.
 
+## Frequently asked questions
+
+**How do you tell an internal economy of scale from an external one?**
+Ask whether the saving would vanish if this one firm shrank (internal) or if the whole industry or area shrank (external). Bulk buying is internal; a skilled labour pool in a cluster is external.
+
+**How do you calculate average cost to show economies of scale?**
+Average cost is total cost divided by output. If average cost falls as output rises, the business is gaining economies of scale; if it rises with output, diseconomies are appearing.
+
+**What is the difference between a merger and a takeover?**
+A merger is an agreed combination of two firms into one new business. A takeover is gaining control of a company, often by buying enough of its shares, possibly against its board's wishes.
+
+**What is the Ansoff Matrix?**
+The Ansoff Matrix sorts growth into market penetration, product development, market development and diversification. It is a suggested tool for Unit 1, and risk rises as a business moves further from its existing products and markets.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide* (first assessment 2024), International Baccalaureate Organization, Unit 1, sections 1.5 and 1.6.

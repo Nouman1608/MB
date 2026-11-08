@@ -250,6 +250,20 @@ Example: a move along the boundary from (20, 90) to (50, 60) gains 30 of K and l
 - Using the PPD to claim which point is best without naming the value judgement behind the choice.
 - Dividing the wrong way round in opportunity cost (gain ÷ loss rather than loss ÷ gain).
 
+## Frequently asked questions
+
+**Does a positive statement have to be true?**
+No. A positive statement only needs to be testable against evidence, and it may well be false.
+
+**Is a production possibility diagram a forecast?**
+No. A PPD shows what combinations of output are possible with current resources, not what will happen.
+
+**What is the difference between actual and potential growth on a PPD?**
+Actual growth is moving from a point inside the boundary towards it; potential growth is the boundary itself shifting outward.
+
+**Are all points on a PPD allocatively efficient?**
+No. All points on the boundary are productively efficient, but only the combination society values most is allocatively efficient.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification, version 1.3 (29 June 2022), published by AQA: the A-level sub-section Economic methodology and the economic problem, 3.1.1 on the AQA website (4.1.1 in the combined PDF).

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-ocr-alevel-maths"
     subtopic: "vectors-ocr-alevel-maths"
-description: "Original practice questions with worked answers on vectors in 2D and 3D, forces and kinematics for OCR A Level Mathematics A (H240)."
+description: "Original exam-style practice questions with worked answers on vectors in 2D and 3D, forces and kinematics for OCR A Level Mathematics A (H240)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -136,6 +136,20 @@ If a topic is unfamiliar, begin with the [study guide](/resources/ocr-a-level-ma
 - Mixing up velocity and speed, or position and displacement.
 - Using s = ut + ½at² for the position and omitting the starting position.
 - Writing a direction for a 3D vector, which the specification excludes.
+
+## Frequently asked questions
+
+**How do you give the direction of a 2D vector?**
+Give the angle from the positive x-axis in the interval [0°, 360°), not just the acute angle from tan⁻¹. Sketch the vector first to find its quadrant.
+
+**Which way round do you subtract to find →AB?**
+→AB = b − a, end minus start. Getting it the wrong way round reverses every sign in the answer.
+
+**Do you need to give a direction for a 3D vector in OCR A Level Mathematics?**
+No. The OCR H240 specification excludes the direction of a vector in three dimensions, so give components or a unit vector instead.
+
+**How do you find a position vector at time t?**
+Use r = r₀ + ut + ½at², adding the starting position r₀. Using s = ut + ½at² alone gives the displacement, not the position.
 
 ## Next steps
 

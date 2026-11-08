@@ -251,6 +251,23 @@ Credible targets anchor expectations. Workers claim less, firms plan investment 
 - Check credibility. If people trust the target, a small rate move may be enough because expectations do the work.
 - Close with a judgement and name the condition it rests on.
 
+## Frequently asked questions
+
+**What is monetary policy?**
+Monetary policy is the use of interest rates, the money supply, quantitative easing and the exchange rate to influence aggregate demand and meet macroeconomic objectives.
+
+**How do you calculate the real interest rate?**
+The real interest rate is approximately the nominal interest rate minus the rate of inflation. If inflation is higher than the nominal rate, the real rate is negative and savers lose purchasing power.
+
+**What is the UK inflation target?**
+The UK target is a CPI inflation target of 2%, which the Bank of England has described as symmetric.
+
+**Why does a credible inflation target matter?**
+A credible target anchors expectations: workers claim smaller pay rises, firms plan investment with more confidence, lenders accept lower long-term rates, and the central bank needs smaller interest rate moves.
+
+**What can a central bank do in a liquidity trap?**
+When further rate cuts do not raise spending, alternatives include quantitative easing, forward guidance and fiscal policy, which OCR A Level Economics (H460) covers in other units.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, Macroeconomics: application of policy instruments, Monetary policy.

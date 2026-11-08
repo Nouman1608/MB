@@ -12,13 +12,13 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-b-identities"
-description: "Condensed revision notes on the compulsory Identities theme of IB Diploma Programme Language B -- vocabulary, discussion angles and receptive-skills preparation for one of the five prescribed themes."
+description: "Revision notes on the Identities theme of IB DP Language B: recommended topics, vocabulary, the oral link and preparing for unseen Paper 2 texts."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 The [full syllabus guide](/resources/ib-dp-language-b-syllabus-guide/) confirms all five prescribed
@@ -37,8 +37,9 @@ comprehension for the others.
 ## What Identities covers
 
 Explores the nature of the self and what it means to be human. Recommended topics: lifestyles, health
-and well-being, beliefs and values, subcultures, and language and identity. The theme's guiding
-question -- how do language and culture contribute to forming an identity? -- is a useful lens to
+and well-being, beliefs and values, subcultures, and language and identity. One of the possible
+questions the IB lists for the theme -- how do language and culture contribute to forming an
+identity? -- is a useful key question to
 apply to any Identities text, whether written, audio, visual or audio-visual.
 
 ## Vocabulary and comprehension practice
@@ -48,14 +49,14 @@ writing and the internal oral put together -- comprehension vocabulary specific 
 (describing personality, values, cultural belonging, lifestyle choices) deserves dedicated practice
 time, not just the vocabulary needed to talk about the theme yourself.
 
-## Worked example: applying the guiding question to an unseen text
+## Worked example: applying the key question to an unseen text
 
 An unseen reading passage discusses how a community's traditional dress has changed across
 generations.
 
 ```
 Surface content:    describes changes in traditional dress over time
-Guiding question
+Key question
 applied:             how does the described change in dress reflect
                      a shift in how the community's identity is
                      expressed or understood across generations
@@ -103,7 +104,7 @@ and written responses.
 
 Concentrating speaking and writing practice on Identities (often the first theme taught) while
 neglecting comprehension practice for it once the class moves on to other themes. Discussing surface
-content of an Identities text without connecting it to the theme's guiding question about language,
+content of an Identities text without connecting it to the theme's key question about language,
 culture and identity formation. Assuming familiarity with a theme discussed heavily in class
 guarantees comprehension of unfamiliar texts on it in the exam.
 
@@ -122,13 +123,13 @@ guarantees comprehension of unfamiliar texts on it in the exam.
 Like the other four themes, Identities is not tested as a separately named exam section — it is one of
 the five themes Paper 2's unseen material can be drawn from, and one of several possible sources for
 Paper 1's writing task and the individual oral's stimulus. Revision is most effective when it builds
-transferable comprehension and production fluency around the theme's vocabulary and guiding question,
+transferable comprehension and production fluency around the theme's vocabulary and key question,
 rather than treating Identities as a fixed block of content to recall verbatim.
 
 ## Self-test
 
 1. Why does an unseen text on Identities deserve as much preparation as any other theme?
-2. State the guiding question this theme returns to repeatedly.
+2. State the possible question about language, culture and identity that these notes use as the theme's key question.
 3. Name two of the five recommended topics under Identities.
 4. Why is comprehension vocabulary important, not just productive vocabulary?
 5. What should a strong answer connect specific textual detail to?
@@ -140,3 +141,14 @@ values, subcultures, language and identity. 4. Because Paper 2's receptive skill
 reading) are worth 50% combined -- as much as the productive writing task and internal oral combined --
 so comprehension vocabulary carries equal weight to production. 5. The theme's broader guiding
 question, not just isolated facts extracted from the passage.
+
+## Frequently asked questions
+
+**Can Identities appear in Language B Paper 2?**
+Yes. Paper 2's listening and reading sections in IB DP Language B use unseen material that can come from any of the five prescribed themes, so an Identities text is as likely as any other.
+
+**Why does comprehension vocabulary matter for Identities?**
+Paper 2's listening and reading are worth 50% combined, as much as Paper 1 and the oral together, so you need vocabulary for understanding texts on personality, values and belonging, not only for talking about them.
+
+**How should HL students prepare Identities for the oral?**
+Check early whether either of your two studied literary works deals with identity, because the HL oral stimulus is an excerpt from one of those works.

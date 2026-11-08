@@ -12,6 +12,18 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "paper-1-cognition-and-behaviour-8182"
+  - qualification: "gcse"
+    topic: "paper-1-cognition-and-behaviour-8182"
+    subtopic: "memory-8182"
+  - qualification: "gcse"
+    topic: "paper-1-cognition-and-behaviour-8182"
+    subtopic: "perception-8182"
+  - qualification: "gcse"
+    topic: "paper-1-cognition-and-behaviour-8182"
+    subtopic: "development-8182"
+  - qualification: "gcse"
+    topic: "paper-1-cognition-and-behaviour-8182"
+    subtopic: "research-methods-8182"
 description: "Condensed recall notes on memory models, perception, development and research methods for GCSE Psychology."
 author: "marlbridge-academic-team"
 specCheck:
@@ -125,3 +137,17 @@ Neither is complete on its own, and saying so is the evaluation.
 5. What is the main criticism of Piaget's research?
 
 **Answers:** 1. Sensory register — large capacity, under half a second; STM — 5 to 9 items, about 18–30 seconds; LTM — potentially unlimited capacity and duration. 2. Proactive: old information disrupts the recall of new; retroactive: new information disrupts the recall of old. 3. That memory is reconstructive — participants omitted unfamiliar details, shortened the story and altered elements to fit their own cultural schemas. 4. Gibson says perception is direct and bottom-up, which cannot explain illusions; Gregory says it is constructed top-down from inference, which struggles to explain how fast and generally accurate perception is. 5. He underestimated children's abilities — later studies using more child-friendly tasks found children succeeding at his tasks earlier than he reported.
+
+## Frequently asked questions
+
+**What is the difference between proactive and retroactive interference?**
+Proactive interference is when old information disrupts new learning. Retroactive interference is when new information disrupts old memories; "pro" means forwards, so the old memory interferes forwards.
+
+**What did Bartlett's War of the Ghosts study show?**
+It showed memory is reconstructive. Participants recalling an unfamiliar Native American story omitted unfamiliar details, shortened it and changed elements to fit their own cultural expectations.
+
+**What is the main criticism of Piaget's research?**
+Piaget underestimated children's abilities. Later studies using more child-friendly tasks, such as the naughty teddy study, showed children succeeding earlier than his method suggested.
+
+**What is the difference between a fixed mindset and a growth mindset?**
+In Dweck's theory, a fixed mindset treats ability as unchangeable, so challenge is avoided. A growth mindset treats ability as developable through effort, and praising effort rather than intelligence encourages it.

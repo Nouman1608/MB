@@ -215,6 +215,19 @@ A ladder question that says "on the point of slipping" is the same idea with fri
   <figcaption>Add the moments in one sense and subtract those in the other to find which way the rod turns.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are the conditions for a rigid body to be in equilibrium?**
+The resultant force must be zero and the resultant moment about any point must be zero. A particle only needs the force condition.
+
+**What does "on the point of tilting" mean for a beam on two supports?**
+It means the reaction at the other support has become zero. Set that reaction to zero and take moments about the support the beam tilts about.
+
+**Which way does the reaction from a smooth wall act?**
+It acts perpendicular to the wall, so for a vertical wall it is horizontal, pushing away from the wall. A smooth surface gives no friction.
+
+**How do you find the least coefficient of friction for a ladder?**
+In equilibrium F ≤ μR, so the least possible μ is the friction force F divided by the normal reaction R.
 
 ## Official syllabus
 

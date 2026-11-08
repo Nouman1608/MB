@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-physics-topic-a"
     subtopic: "ib-dp-physics-a-2"
-description: "Newton's laws, contact and field forces, momentum, impulse, collisions and circular motion -- sub-topic A.2 of IB Diploma Programme Physics, identical content at SL and HL."
+description: "Newton's laws, contact and field forces, momentum, impulse, collisions and circular motion: sub-topic A.2 of IB DP Physics, the same at SL and HL."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -143,7 +143,7 @@ The first law identifies when the resultant is zero, the second predicts the res
 
 ## Common mistakes
 
-Applying F = Δp/Δt to the rocket alone as if that fixes the problem of its changing mass, without accounting for the momentum carried away by the ejected fuel. The rocket by itself is not a closed system, so its own F = ma still holds once the thrust force from the escaping exhaust is included as an external force; alternatively, take Δp/Δt for the total momentum of the closed rocket-plus-exhaust system, which requires no external force to stay constant. Treating
+Treating a rocket as a closed system: the ejected exhaust carries momentum away, so momentum is conserved only for the rocket plus its exhaust, not for the rocket alone. Treating
 "centripetal force" as an additional force acting on a body, rather
 than correctly naming the real force (gravity, tension, friction, or
 the normal force) that is producing the centripetal effect. Assuming
@@ -193,6 +193,19 @@ scenario's description alone.
   <figcaption>In an explosion total momentum stays zero while kinetic energy increases.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Is there HL-only content in IB DP Physics A.2?**
+No. A.2 has no additional higher level extension. The guide allocates it 10 teaching hours, with identical content for SL and HL.
+
+**Is centripetal force a separate force?**
+No. The centripetal force is whichever named force, such as tension, gravity, friction or the normal force, provides the centre-directed resultant. Treating it as an extra force is a common error.
+
+**When should F = Δp/Δt be used instead of F = ma?**
+F = Δp/Δt is Newton's second law in momentum form and applies even where the mass is changing. F = ma is the special case for constant mass.
+
+**Is static friction always equal to μsFN?**
+No. For an object at rest, static friction obeys the inequality Ff ≤ μsFN until the point of slipping. Once it slides, dynamic friction is Ff = μdFN.
 
 ## Official syllabus
 
@@ -204,4 +217,3 @@ Programme), first assessment 2025, sub-topic A.2. Overview at
   <img src="https://img.marlbridge.com/ib-dp-physics-forces-and-momentum--03-named-forces.webp" width="900" height="1118" alt="Nine small pictures: normal force, friction, tension, elastic (Hooke) force, viscous drag and buoyancy as contact forces; weight, electric and magnetic force as field forces, each with its arrow and formula." loading="lazy">
   <figcaption>The syllabus names six contact forces and three field forces.</figcaption>
 </figure>
-

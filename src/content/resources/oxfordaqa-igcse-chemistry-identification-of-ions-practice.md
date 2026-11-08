@@ -186,6 +186,20 @@ Confirm the negative ions on fresh portions: lithium carbonate fizzes with dilut
 - Spot weak areas quickly with a [free 10-minute diagnostic](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in ion test questions?**
+Frequent slips include mixing up the flame colours of lithium and calcium, calling every white hydroxide precipitate aluminium without the excess sodium hydroxide result, and using the wrong acid with silver nitrate or barium chloride.
+
+**Is the flame test a required practical in OxfordAQA 9202 Chemistry?**
+Yes. Identifying the metal ion in an unknown compound by flame tests is a required practical, linked to designing a procedure, risk assessment, analysing data and evaluation.
+
+**How should you describe a precipitate in an ion test answer?**
+Always give its colour, and for aluminium say whether it dissolves in excess sodium hydroxide. "A precipitate forms" on its own does not identify the ion.
+
+**How do you name the compound once both ions are identified?**
+Combine the positive and negative ions so their charges balance. Two Fe³⁺ balance three SO₄²⁻, giving iron(III) sulfate, Fe₂(SO₄)₃; writing a formula with unbalanced charges loses marks.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, published by OxfordAQA. Scope of this set: section 3.4.3 Identification of ions, with the flame test required practical from section 6.2.

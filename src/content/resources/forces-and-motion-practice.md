@@ -15,9 +15,9 @@ syllabusTopics:
     subtopic: "forces"
 description: "Original exam-style practice questions with full worked answers on Newton's laws, resultant forces, friction, weight and free-body diagrams."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -118,3 +118,14 @@ Factor affecting thinking distance: **tiredness, alcohol, drugs or distraction**
 - Saying speed affects thinking distance but not braking distance — it affects both.
 - Describing terminal velocity as the point where drag "overtakes" weight — at terminal velocity the two forces are exactly **balanced**, not one exceeding the other.
 - Quoting F = mv²/r for circular motion at this level — the syllabus requires only the three qualitative force/speed/radius/mass relationships, not the equation itself.
+
+## Frequently asked questions
+
+**Are these forces and motion questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers from your board.
+
+**Do I need F = mv²/r for these circular motion questions?**
+No. At this level the syllabus requires only the qualitative relationships between force, speed, radius and mass, not the equation itself, so quoting F = mv²/r is a common way to lose marks.
+
+**What is a common free-body diagram mistake?**
+Drawing a free-body diagram with forces acting on more than one object. A free-body diagram shows only the forces acting on the single object of interest.

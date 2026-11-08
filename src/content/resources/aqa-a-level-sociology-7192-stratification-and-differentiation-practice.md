@@ -20,9 +20,9 @@ description: "Original practice questions with marked answers for AQA A-level So
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -164,6 +164,20 @@ Applying material from the data, analyse two sociological explanations of gender
 - For research design questions about mobility or life chances, use the [Methods in Context practice](/resources/a-level-sociology-methods-in-context-practice/).
 - For class links in Paper 1, try the [education practice questions](/resources/a-level-aqa-sociology-education-practice/).
 - Want help with essay technique? [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Is Stratification and differentiation in Section B of AQA Paper 2?**
+Yes. Stratification and Differentiation (4.2.8) is an option 2 topic, answered in Section B of AQA A-level Sociology (7192) Paper 2: Topics in Sociology.
+
+**What does more upward mobility tell you about meritocracy?**
+More movement on its own does not prove that a society is meritocratic. Treating higher mobility as proof of meritocracy is a common error in AQA 7192 answers.
+
+**How should you compare two theories in a stratification answer?**
+Say directly where the theories disagree, rather than describing one and then the other. Answers that describe Marx and then Weber with no direct comparison lose marks.
+
+**How do you apply data in a stratification question?**
+Quote the figures or names from the data or scenario and use them to support each point, rather than writing a general answer about class.
 
 ## Official syllabus
 

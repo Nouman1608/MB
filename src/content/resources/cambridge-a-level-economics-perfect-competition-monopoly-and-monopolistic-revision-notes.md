@@ -204,6 +204,20 @@ Worked reminder (competitive firm, TFC = 50, TVC = Q³ − 8Q² + 25Q, so MC = 3
 - Describing long-run adjustment without saying what shifts: entry moves industry supply, but in monopolistic competition it moves each firm's demand.
 - Giving efficiency conclusions with no evaluation, such as economies of scale or research funding.
 
+## Frequently asked questions
+
+**Why do firms in monopolistic competition earn only normal profit in the long run?**
+Entry is free, so supernormal profit attracts rivals. This cuts demand for each firm until average revenue equals average cost and only normal profit remains.
+
+**Should a loss-making firm always close?**
+No. In the short run it should keep producing if price covers average variable cost, because the loss is smaller than paying fixed costs after closing. In the long run it must cover average total cost.
+
+**What is the difference between X-inefficiency and productive inefficiency?**
+X-inefficiency is producing above the lowest possible cost curve for the output chosen, caused by weak pressure to control costs. Productive inefficiency is producing away from the lowest point of the ATC curve.
+
+**Can a perfectly competitive firm make supernormal profit?**
+Yes, in the short run, when price is above average total cost at the profit-maximising output. In the long run, entry of new firms lowers price until only normal profit is earned.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, Cambridge University Press & Assessment, section 7.6.4 (part).

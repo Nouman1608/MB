@@ -40,26 +40,26 @@ These questions follow the Pearson Edexcel International Advanced Subsidiary/Adv
 **(a)** Explain two reasons why they chose a joint venture. **[4]**
 **(b)** State one risk of the joint venture. **[1]**
 
-**4.** Two dairies in Country B merge. The regional market is worth £120m. Valley Dairy sells £24m and Hillcrest sells £18m. Their distribution costs are £6.0m and £4.5m. After the merger, distribution costs are £8.4m.
+**4.** Two dairies in Country B merge. The regional market is worth $120m. Valley Dairy sells $24m and Hillcrest sells $18m. Their distribution costs are $6.0m and $4.5m. After the merger, distribution costs are $8.4m.
 
 **(a)** Calculate the market share of the merged firm. **[2]**
 **(b)** Calculate the saving in distribution costs as a percentage of the combined costs before the merger. **[2]**
 **(c)** Explain one way the merger could harm consumers. **[2]**
 
-**5.** A furniture maker buys its timber supplier. It bought 40,000 boards a year at £12.50. The supplier's cost per board is £9.80.
+**5.** A furniture maker buys its timber supplier. It bought 40,000 boards a year at $12.50. The supplier's cost per board is $9.80.
 
 **(a)** Calculate the annual cost saving. **[2]**
 **(b)** Express the saving as a percentage of the previous spending. **[1]**
 **(c)** Explain one disadvantage of this type of integration. **[3]**
 
-**6.** A skiwear maker earns profits of £9m, £1m and £4m over three years. After a takeover of a swimwear firm earning £2m, £8m and £5m, the groups' results are combined.
+**6.** A skiwear maker earns profits of $9m, $1m and $4m over three years. After a takeover of a swimwear firm earning $2m, $8m and $5m, the groups' results are combined.
 
 **(a)** Calculate the combined profit in each year. **[2]**
 **(b)** Explain why a conglomerate merger can reduce risk. **[3]**
 
 **7.** Explain two reasons why the owner of an independent bookshop in a market town might choose not to expand. **[6]**
 
-**8.** A printing firm's costs and revenues are shown (output in thousands, money in £000).
+**8.** A printing firm's costs and revenues are shown (output in thousands, money in $000).
 
 | Output | Price | Total cost |
 |---|---|---|
@@ -96,19 +96,19 @@ Fixed cost is 40.
 **3.** (a) Sharing costs and risks of selling abroad [1], which makes entry affordable for a small farm [1]. Combining expertise: the farm knows production and the processor knows distribution [1], giving better chances of success [1]. **(b)** Disagreement over control or sharing profits, or clashing cultures [1]. **[5]**
 *Examiner insight:* "Reasons" need to be applied to the firms named. Generic points that could describe any partnership gain less than ones that use the farm and processor.
 
-**4.** (a) Shares: 24/120 = 20% and 18/120 = 15% [1]. Merged share = **35%** [1]. (b) Saving = 6.0 + 4.5 − 8.4 = £2.1m [1]; 2.1/10.5 × 100 = **20%** [1]. (c) Larger market share gives more market power [1], so the firm could raise price or reduce choice [1]. **[6]**
+**4.** (a) Shares: 24/120 = 20% and 18/120 = 15% [1]. Merged share = **35%** [1]. (b) Saving = 6.0 + 4.5 − 8.4 = $2.1m [1]; 2.1/10.5 × 100 = **20%** [1]. (c) Larger market share gives more market power [1], so the firm could raise price or reduce choice [1]. **[6]**
 *Examiner insight:* Show the saving in pounds before converting to a percentage, and divide by the figure the question names as the base.
 
-**5.** (a) Old cost 40,000 × 12.50 = £500,000 [1]; new cost 40,000 × 9.80 = £392,000, so saving **£108,000** [1]. (b) 108,000/500,000 = **21.6%** [1]. (c) The in-house supplier faces no competition [1], so it may become inefficient [1], and the maker may lose the chance to switch to cheaper rivals [1]. **[6]**
+**5.** (a) Old cost 40,000 × 12.50 = $500,000 [1]; new cost 40,000 × 9.80 = $392,000, so saving **$108,000** [1]. (b) 108,000/500,000 = **21.6%** [1]. (c) The in-house supplier faces no competition [1], so it may become inefficient [1], and the maker may lose the chance to switch to cheaper rivals [1]. **[6]**
 *Examiner insight:* A disadvantage is rewarded when it is developed through a chain of reasoning. Naming the disadvantage and stopping is not enough for a three-mark explanation.
 
-**6.** (a) 9 + 2 = 11 and 1 + 8 = 9 [1]; 4 + 5 = 9. Combined profits are **£11m, £9m, £9m** [1]. (b) The two products sell in different markets [1], with a good year for one often matching a poor year for the other [1], so total profit varies less (the range falls from 8 and 6 to 2) [1]. **[5]**
+**6.** (a) 9 + 2 = 11 and 1 + 8 = 9 [1]; 4 + 5 = 9. Combined profits are **$11m, $9m, $9m** [1]. (b) The two products sell in different markets [1], with a good year for one often matching a poor year for the other [1], so total profit varies less (the range falls from 8 and 6 to 2) [1]. **[5]**
 *Examiner insight:* Use the data given. Pointing to the narrower range of combined profit is stronger than a general claim about spreading risk.
 
 **7.** First reason: the owner may value control and personal service [1], which expansion could dilute [1], so choose a smaller profit and more independence [1]. Second reason: the market is small, or finance is hard to obtain [1]; extra shops would not attract enough customers or a bank loan [1], so growth would not pay [1]. **[6]**
 *Examiner insight:* Give two clearly different reasons. Two versions of the same point, such as "small market" and "few customers", are likely to count once.
 
-**8.** (a) Profit = revenue − cost: 30, 80, 108, 114, 98, 60, 0, −82 for outputs 1 to 8 [1]. Maximum profit at output of **4** [1], profit **£114k** [1]. (b) Revenue is 90, 160, 210, 240, 250, 240, 210, 160 [1]; maximum at output **5**, revenue **£250k** [1]. (c) Profit is zero at output 7 and negative at 8 [1], so output **7** at price **£30** [1]. (d) Profit is at least 60 for outputs **2 to 6** [1]; a satisficing manager need not choose 4 and may stop anywhere in this range [1]. **[9]**
+**8.** (a) Profit = revenue − cost: 30, 80, 108, 114, 98, 60, 0, −82 for outputs 1 to 8 [1]. Maximum profit at output of **4** [1], profit **$114k** [1]. (b) Revenue is 90, 160, 210, 240, 250, 240, 210, 160 [1]; maximum at output **5**, revenue **$250k** [1]. (c) Profit is zero at output 7 and negative at 8 [1], so output **7** at price **$30** [1]. (d) Profit is at least 60 for outputs **2 to 6** [1]; a satisficing manager need not choose 4 and may stop anywhere in this range [1]. **[9]**
 *Examiner insight:* Show a profit or marginal column so the method is visible. Naming the right output with no working leaves nothing to reward if you slip.
 
 **9.** The principal-agent problem arises when owners (principals) hire managers (agents) whose aims differ [1], helped by managers knowing more than owners [1]. A sales bonus rewards higher sales whether or not they are profitable [1], so the executive may push output past the profit-maximising level towards revenue or sales maximisation [1]. Extra units then cost more than the revenue they bring [1], so profit falls below its maximum [1]. Solution: link pay to profit or share price [1]; limitation: managers may then focus on short-term results or manipulate figures [1]. **[8]**
@@ -138,6 +138,23 @@ Fixed cost is 40.
 - Return to the [course hub](/boards/edexcel/a-level/economics/) and the [checklist](/checklists/edexcel/a-level/economics/).
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
+
+## Frequently asked questions
+
+**Which part of the Edexcel IAL Economics specification covers business types and objectives?**
+Types, growth and objectives of businesses are section 3.3.1, items 1 to 3, of the Edexcel IAL Economics specification. This is Unit 3 content, an IAL compulsory unit, so it is examined only in the full International A Level.
+
+**What are the differences between profit maximisation, revenue maximisation and sales maximisation?**
+Profit maximisation chooses the output where profit is greatest (MR equals MC), revenue maximisation chooses the output where total revenue is greatest (MR equals zero), and sales maximisation pushes output as high as possible without making a loss. Mixing up these rules is a common error.
+
+**Why can a conglomerate merger reduce risk?**
+A conglomerate merger joins firms in unrelated markets, so a bad year in one business may be offset by a good year in the other. Using the data given to show a narrower range of combined profit makes the point stronger than a general claim.
+
+**What is the principal-agent problem?**
+It arises when the owners (principals) of a firm employ managers (agents) whose goals differ from theirs. For example, a chief executive paid a bonus linked to sales growth may pursue sales at the expense of the owners' profit.
+
+**How should you answer a 12-mark evaluate question on a takeover?**
+Weigh the likely gains and harms for the group named, such as consumers, and finish with a conditional judgement. Listing benefits and costs without weighing them reads as description, however accurate.
 
 ## Official syllabus
 

@@ -6,13 +6,13 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Biology"]
-description: "An overview of IB Diploma Programme Biology -- the study of life and living systems, its emphasis on scientific inquiry, and the aims shared across all three DP sciences subjects."
+description: "An overview of IB Diploma Programme Biology: the study of life and living systems, scientific inquiry, the course aims, assessment, themes and SL and HL."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 As one of the three natural sciences in the IB Diploma Programme,
@@ -129,10 +129,23 @@ sub-topics marked HL-only, such as the origins of cells and
 classification and cladistics in Theme A, muscle and motility in
 Theme B, chemical signalling in Theme C, and gene expression in
 Theme D -- content that
-carries extra weight in both Papers 1 and 2 and is, in practice, the
-material most often under-revised by HL students who default to
-SL-level depth out of habit rather than deliberately tracking which
-content is genuinely additional to their level.
+carries extra weight in both Papers 1 and 2 and is easy to under-revise
+if you default to SL-level depth out of habit rather than deliberately
+tracking which content is genuinely additional to your level.
+
+## Frequently asked questions
+
+**What is IB Diploma Programme Biology about?**
+IB DP Biology is one of the three Diploma Programme natural sciences and studies life and living systems, from molecules and cells to ecosystems and the biosphere, with an emphasis on scientific inquiry and experimental work.
+
+**What are the four themes of IB DP Biology?**
+The content is organised into Theme A, Unity and diversity; Theme B, Form and function; Theme C, Interaction and interdependence; and Theme D, Continuity and change.
+
+**How many teaching hours do IB Biology SL and HL have?**
+Recommended teaching time for syllabus content is 110 hours at SL and 180 hours at HL, plus 40 hours at SL and 60 hours at HL for the experimental programme, collaborative sciences project and individual scientific investigation.
+
+**Which topics are HL only in IB DP Biology?**
+HL-only sub-topics include the origins of cells and classification and cladistics in Theme A, muscle and motility in Theme B, chemical signalling in Theme C and gene expression in Theme D, alongside greater depth across shared content.
 
 ## Source
 

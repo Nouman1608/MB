@@ -253,6 +253,23 @@ Limits of the model: many things change at once, supply takes time to respond, p
 - Ignoring the context: a generic answer rather than the market in the question.
 - Applying the model without any limit when asked to evaluate.
 
+## Frequently asked questions
+
+**What is the difference between demand and quantity demanded?**
+Quantity demanded is the amount bought at one particular price, a single point on the curve. Demand is the whole curve, showing the quantities buyers are willing and able to buy at every possible price.
+
+**What happens to price when there is excess supply?**
+When price is above equilibrium, sellers offer more than buyers want, so unsold stock builds up and sellers cut the price. As price falls, quantity demanded extends and quantity supplied contracts until they are equal.
+
+**How is revenue shown on a supply and demand diagram?**
+Revenue is the rectangle from the origin to the price on the vertical axis and the quantity traded on the horizontal axis, because revenue equals price multiplied by quantity.
+
+**What happens when demand and supply shift at the same time?**
+The effect on one variable is certain and the effect on the other depends on the sizes of the shifts. For example, a rise in demand with a fall in supply always raises price, but quantity may rise, fall or stay the same.
+
+**Do factors such as the cost of materials shift supply or demand?**
+Costs of production, technology and similar factors shift the supply curve. A fall in the cost of materials raises supply at every price, shifting the supply curve to the right.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), specification Version 1.0, first teaching September 2023, first examined May/June 2025. Published by OxfordAQA.

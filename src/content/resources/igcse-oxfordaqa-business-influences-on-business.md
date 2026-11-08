@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "influences-on-business-oxfordaqa-igcse-business"
-description: "Technology, ethics and the environment, the economic climate, globalisation, legislation and the competitive environment -- the six external influences studied in Topic 2 of OxfordAQA International GCSE Business (9225)."
+description: "Study guide to Topic 2 Influences on Business for OxfordAQA International GCSE Business 9225: technology, ethics, economy, globalisation, law and competition."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **Topic 2 Influences on Business**, one of the six
@@ -196,6 +196,23 @@ requirement) clearly distinct.
 employment or exchange rates affects a business.
 - Practise weighing two external influences against each other for a
 single business scenario, since exam questions often combine sub-topics.
+
+## Frequently asked questions
+
+**Do you need to calculate exchange-rate conversions in OxfordAQA IGCSE Business 9225?**
+No. The specification says calculation of exchange-rate conversions is not required. You do need to explain how exchange rates affect the profit and sales of importing and exporting businesses.
+
+**How does a weaker currency affect exporters and importers?**
+A weaker home currency makes exports cheaper for foreign buyers and imports more expensive at home, which helps exporters and hurts importers. A stronger currency reverses which side benefits.
+
+**What is the difference between ethics and legislation as influences on business?**
+Legislation is what a business is legally required to do. Ethics covers what a business chooses to do beyond the legal minimum because stakeholders consider it fair or honest.
+
+**Is legislation always bad for a business?**
+No. Compliance adds cost, but it can also create a level playing field against competitors who might otherwise undercut on safety or pay.
+
+**How do developing-country businesses compete with developed-country businesses?**
+The 9225 specification gives lower cost advantage as an example of how developing-country businesses can compete with businesses in developed countries.
 
 ## Official syllabus
 

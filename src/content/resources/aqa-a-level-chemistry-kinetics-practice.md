@@ -208,6 +208,23 @@ the statement is right usually loses the last mark.
 - Reading a tangent gradient from two points too close together.
 - Naming a vague control variable such as "amount" without saying volume or concentration.
 
+## Frequently asked questions
+
+**Is kinetics AS content in AQA Chemistry?**
+Yes. Section 3.1.5 Kinetics of the AQA 7404/7405 specification, including Required practical 3, is all AS content. It is examined on Paper 2 at AS and A-level, and A-level Paper 3 can test any content.
+
+**What mistakes are common when drawing Maxwell–Boltzmann curves?**
+Curves that touch the energy axis, start above the origin or enclose different areas lose marks. The higher-temperature curve must have a lower peak, not a taller one.
+
+**Why is "particles collide more often" not enough to explain the effect of temperature?**
+The main reason is that many more particles have energy at or above the activation energy; more frequent collisions are only a minor reason. Answers about collision frequency alone get at most one mark.
+
+**What units should a rate of reaction have?**
+Rate units must include per unit time, such as mol dm⁻³ s⁻¹. Giving mol dm⁻³ alone loses the units mark.
+
+**How should rate be measured in a disappearing-cross experiment?**
+Use 1/t as the measure of rate, not t, because a shorter time means a faster reaction. Also name control variables precisely, such as volume or concentration, rather than "amount".
+
 ## Next steps
 
 - [Kinetics revision notes](/resources/aqa-a-level-chemistry-kinetics-revision-notes/)

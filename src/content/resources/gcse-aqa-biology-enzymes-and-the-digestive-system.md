@@ -13,13 +13,13 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "organisation-aqa-gcse-biology"
     subtopic: "the-human-digestive-system-aqa-gcse-biology"
-description: "Cells, tissues, organs and organ systems, and how digestive enzymes break down food -- 4.2.1 and 4.2.2.1 of AQA GCSE Biology (8461), including the lock and key model and required practicals 4 and 5."
+description: "Levels of organisation and digestive enzymes for AQA GCSE Biology 8461 (4.2.1 and 4.2.2.1), with the lock and key model and required practicals 4 and 5."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide covers **4.2.1 Principles of Organisation** and **4.2.2.1
@@ -185,6 +185,20 @@ here into small soluble molecules, the circulatory system covered
 next is what transports those products around the body — worth
 reviewing together for a complete picture of Topic 2's opening
 sequence.
+
+## Frequently asked questions
+
+**Is bile an enzyme?**
+No. Bile is made in the liver and stored in the gall bladder; it is alkaline to neutralise stomach acid and emulsifies fat into small droplets, which increases the surface area for lipase.
+
+**What do amylase, proteases and lipases break down?**
+Amylase breaks down starch into sugars, proteases break down proteins into amino acids, and lipases break down lipids into glycerol and fatty acids.
+
+**What happens in AQA GCSE Biology required practical 5?**
+Required practical 5 investigates the effect of pH on the rate of reaction of amylase, sampling the mixture into iodine every 30 seconds to test for starch, with the temperature kept constant in a water bath.
+
+**Which tests are used in required practical 4?**
+Benedict's test for sugars, the iodine test for starch and Biuret reagent for protein. The AQA 8461 practical uses qualitative reagents to test for carbohydrates, lipids and proteins.
 
 ## Related resources
 

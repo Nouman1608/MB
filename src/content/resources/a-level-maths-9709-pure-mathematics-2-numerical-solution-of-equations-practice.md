@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "numerical-solution-of-equations-cambridge-2"
 description: "10 original Cambridge 9709 Paper 2 questions on sign changes and iteration, with mark-by-mark worked answers and an examiner insight for each."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -140,6 +140,20 @@ Related: the [study guide](/resources/a-level-maths-9709-pure-mathematics-2-nume
 - "Exact value" questions answered with a decimal from the calculator.
 - A non-converging iteration described vaguely, with no reference to the values found.
 - "Show that" rearrangements with steps missing, especially the evaluation of limits in question 9.
+
+## Frequently asked questions
+
+**How do you show an equation has a root in an interval in Cambridge 9709 Paper 2?**
+Rearrange to f(x) = 0, calculate f at both ends, and state that there is a sign change and f is continuous, so a root lies between them. Values without a conclusion lose the mark.
+
+**Why can a sign change give the wrong conclusion?**
+If the function is not continuous, for example across a vertical asymptote, the sign can change without the graph crossing the x-axis. The sign-change rule only works for continuous functions.
+
+**How do you confirm a root to 2 decimal places?**
+Test for a sign change on the rounding bounds, c − 0.005 and c + 0.005. Testing c ± 0.01 does not show the root rounds to c.
+
+**When do you stop an iteration?**
+Stop when two successive iterates round to the same value at the accuracy asked for. Use the calculator's stored value each time rather than retyping rounded values.
 
 ## Next steps
 

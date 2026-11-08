@@ -211,6 +211,23 @@ These calculations assume no energy is lost to friction.
 - Inverting the gear ratio, so that the moment goes down when it should go up.
 - Saying a force multiplier gives more energy. It gives a bigger force over a smaller distance.
 
+## Frequently asked questions
+
+**What is the principle of moments?**
+An object is balanced when, about one chosen pivot, the sum of the clockwise moments equals the sum of the anticlockwise moments.
+
+**How do you calculate a moment?**
+Moment (N m) = force (N) × perpendicular distance between the pivot and the force's line of action (m). For example, 45 N at right angles 0.32 m from a pivot gives 14.4 N m.
+
+**How do you work out a gear ratio?**
+Gear ratio = number of teeth on the driven gear ÷ number of teeth on the driver gear. A ratio greater than 1 gives a larger output moment, but the driven gear turns more slowly.
+
+**How does a lever make a job easier?**
+For a balanced lever, effort × effort distance = load × load distance. Applying the effort further from the pivot than the load lets a smaller force move a larger load, over a larger distance.
+
+**Does a lever give you more energy?**
+No. A force multiplier gives a bigger force over a smaller distance, so it does not give you extra energy.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249)*. Specification Version 5.0, July 2026; first assessment 2018. Topic P2.3, statements P2.3k to P2.3m.

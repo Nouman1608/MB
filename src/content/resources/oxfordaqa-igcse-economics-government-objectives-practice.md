@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "how-the-economy-works-oxfordaqa-igcse-economics"
     subtopic: "government-objectives-oxfordaqa-igcse-economics"
-description: "Original exam-style practice questions with full worked answers on economic growth, employment, inflation, the balance of payments and income distribution for OxfordAQA International GCSE Economics (9214)."
+description: "Original practice questions with worked answers on growth, unemployment, inflation and policy conflicts for OxfordAQA International GCSE Economics (9214)."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -91,7 +91,7 @@ Every question type on this topic ultimately tests the ability to identify and e
 government objectives, so when a question asks you to "explain" an effect of a policy, always follow the
 causal chain through to a second objective it affects, as modelled in the Q3 answer above (policy →
 intended effect on one objective → side effect on a second objective), rather than stopping at the first,
-intended effect alone. For the four types of unemployment (Q4), always name the type first and then give
+intended effect alone. For the three types of unemployment in question 4, always name the type first and then give
 the specific reasoning that identifies it — a scenario mentioning "between jobs" signals frictional,
 while a scenario mentioning "permanently closes" or "long-term decline" signals structural, and confusing
 these two is one of the most common errors on this topic. When distinguishing cost-push from demand-pull
@@ -125,3 +125,20 @@ in the higher band that a one-sided description cannot reach.
 - Using "growth" and "development" interchangeably, when the specification tests the distinction directly.
 - Misidentifying a type of unemployment, particularly confusing structural (long-term industry decline) with cyclical (linked to the wider economic cycle).
 - Confusing the balance of trade (goods and services only) with the wider balance of payments (which also includes investment and financial flows).
+
+## Frequently asked questions
+
+**What is a common mistake when writing about government objectives?**
+Listing the objectives without naming or explaining a genuine conflict between them. Questions on this topic usually test whether you can show how a policy aimed at one objective affects another.
+
+**How do you answer an "explain" question about a government policy?**
+Follow the causal chain all the way through: the policy, its intended effect on one objective, then its side effect on a second objective. Stopping at the first, intended effect leaves the explanation incomplete.
+
+**What is the difference between the balance of trade and the balance of payments?**
+The balance of trade covers goods and services only, while the wider balance of payments also includes investment and financial flows. Confusing the two is a common error.
+
+**How do you identify cost-push or demand-pull inflation in a scenario?**
+Look at which side of the market changes first. Rising production costs passed on to consumers indicate cost-push inflation, while demand outstripping what producers can supply indicates demand-pull inflation.
+
+**How do you answer an evaluate question on government objectives in OxfordAQA 9214?**
+Trace the policy through its immediate effect on the targeted objective, then its knock-on effect on at least one other objective, and finish with a judgement about which objective matters most in the context given. A one-sided description of the policy cannot reach the higher marks.

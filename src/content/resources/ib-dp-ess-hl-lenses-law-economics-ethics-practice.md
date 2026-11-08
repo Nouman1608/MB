@@ -21,9 +21,9 @@ description: "11 original IB DP ESS HL questions on environmental law, economics
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -162,6 +162,23 @@ Learn the ideas first in the [HL lenses study guide](/resources/ib-dp-ess-hl-len
 - [Printable ESS syllabus checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Are the IB ESS HL lenses only studied at higher level?**
+Yes. Environmental law, environmental and ecological economics, and environmental ethics are HL-only lenses, so every question in this set is marked HL. All places, firms and data in the questions are fictional.
+
+**What is the most common mistake in carbon tax calculations?**
+Students often tax all of the firm's emissions even after it has cut some. Tax applies only to the emissions that remain after abatement, and abatement costs are added separately.
+
+**How do you judge whether an environmental law was effective?**
+An improvement in an indicator after a law is not proof on its own. Check the earlier trend and consider other causes, such as a recession, new technology or a factory closure, before giving a judgement.
+
+**How should you use the three HL lenses in an essay?**
+Link the lenses rather than writing law, economics and ethics as separate blocks, and apply ethical labels to a named stakeholder or decision. End "evaluate", "discuss" and "to what extent" answers with a clear judgement.
+
+**Where do ecosystem services go in total economic value?**
+Ecosystem services such as water purification or flood protection are indirect use values, not direct use values. Placing them under direct use is a frequent error.
 
 ## Official syllabus
 

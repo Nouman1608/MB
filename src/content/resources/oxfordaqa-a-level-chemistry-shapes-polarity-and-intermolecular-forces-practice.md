@@ -197,6 +197,20 @@ The force is **electrostatic attraction** between oppositely charged ions. [1] *
 - Take one of the free [10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is bonding AS content in OxfordAQA 9620 Chemistry?**
+Yes. Section 3.1.3 Bonding is International AS content. It sits in Unit 1, and Unit 2 questions may also draw on bonding principles.
+
+**What are the most common mistakes in bonding and shapes questions?**
+Frequent slips are writing "bonds break" for a molecular substance, stating a bond angle without the lone-pair reasoning, and forgetting the charge of an ion when counting electron pairs.
+
+**How do you count electron pairs around a central atom in an ion?**
+Count the central atom's outer electrons and the electrons used in bonding, then add one electron for each negative charge or remove one for each positive charge before halving. Forgetting the charge of an ion is a common error.
+
+**How should you compare the melting points of two substances?**
+Name the forces or bonds in both substances, say which are stronger, and link this to the energy needed to overcome them. Writing "weaker forces" without saying which forces, or describing only one substance, loses marks.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620) specification*, Version 5.3, for International AS and A-level

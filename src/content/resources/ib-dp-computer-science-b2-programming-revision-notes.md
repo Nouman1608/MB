@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-computer-science-theme-b"
     subtopic: "ib-dp-computer-science-b-2"
-description: "Condensed revision notes on IB Diploma Programme Computer Science's B.2 Programming sub-topic -- the syllabus's single largest sub-topic at SL -- covering the programming process, testing, and how it links to B.1's computational thinking cycle, with self-test questions."
+description: "Recall notes on IB DP Computer Science B.2 Programming, the largest SL sub-topic: control structures, data, modularity, pseudocode design, testing and Paper 2."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -114,6 +114,20 @@ around, rather than conflating problem-solving with syntax recall. 5. The IA is 
 quality of design and testing documentation, not just on whether the final program runs, so a habit
 of writing clear test plans and recording real test results (built through B.2 revision) pays off
 directly in the IA's assessment criteria.
+
+## Frequently asked questions
+
+**How many teaching hours is B.2 Programming in IB Computer Science?**
+B.2 Programming is 40 hours at SL, the largest single sub-topic in the syllabus at that level, and 42 hours at HL.
+
+**Which programming languages are used in IB DP Computer Science?**
+The course is studied in Python or Java, and candidates answer Paper 2 in Java or Python.
+
+**What does Paper 2 cover in IB Computer Science?**
+Paper 2 draws on Theme B, including B.2 programming and B.3 object-oriented programming at both levels, and B.4 abstract data types at HL only.
+
+**Why should you write pseudocode before code?**
+Designing the logic first, separately from syntax, reduces logic errors and practises the specify, decompose, abstract and test process the course is built around.
 
 ## Official syllabus
 

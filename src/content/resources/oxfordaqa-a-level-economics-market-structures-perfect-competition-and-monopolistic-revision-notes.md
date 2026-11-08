@@ -251,6 +251,23 @@ In the long run, AC at 25 = 2 + 3 + 0.5 = 5.50, which equals price. Excess capac
 </figure>
 
 
+## Frequently asked questions
+
+**Why is a perfectly competitive firm's demand curve horizontal?**
+The firm is a price taker selling an identical product, so it can sell as much as it likes at the market price. Its demand curve is horizontal and AR = MR = price.
+
+**What is the shutdown point?**
+The shutdown point is where price equals minimum average variable cost in the short run. Below it, the firm loses less by closing than by producing.
+
+**What is excess capacity in monopolistic competition?**
+In the long run, a firm in monopolistic competition produces where its demand curve touches average cost to the left of the AC minimum. The gap between its output and the minimum-AC output is excess capacity.
+
+**What are the criticisms of the efficiency proposition for perfect competition?**
+Externalities mean P = MC can still misallocate resources, a large minimum efficient scale means tiny firms cannot reach minimum AC, normal profit may limit research and development, and real markets rarely have perfect knowledge and free entry.
+
+**Does non-price competition help or harm consumers?**
+It can do both. Brand loyalty strengthens monopoly power and raises barriers to entry, but non-price competition can also give buyers more variety, quality and information.
+
 ## Official syllabus
 
 Source: the OxfordAQA *International AS and A-level Economics* specification (9640), version 1.2, sections 3.3.3.1 to 3.3.3.3 and quantitative skills in 3.5.

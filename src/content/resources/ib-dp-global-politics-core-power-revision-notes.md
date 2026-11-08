@@ -161,6 +161,20 @@ The guide gives its own examples only for the first five rows; the others are Ma
 - Never judging the classification itself, when the guide invites you to weigh its strengths and limits.
 - Confusing power with legitimacy or sovereignty; these are separate core concepts.
 
+## Frequently asked questions
+
+**What is the difference between hard power and soft power?**
+Hard power works through coercion, such as threats, force and penalties, while soft power works through persuasion and attraction, such as culture, ideology and economic aid. In IB DP Global Politics, sanctions count as hard power even though no weapons are used.
+
+**What is smart power?**
+Smart power combines hard and soft power to fit a particular aim, an idea associated with Joseph Nye. A strong answer names the tools used and the aim, for example sanctions alongside diplomacy before the 2015 Iran nuclear deal.
+
+**What is the difference between structural and relational power?**
+Structural power comes from an actor's position in rules or institutions, such as permanent membership of the UN Security Council. Relational power comes from ties between actors, such as alliances or civil movements.
+
+**What are Steven Lukes' three dimensions of power?**
+Lukes describes power exercised through decision-making, through controlling the agenda, and through shaping what others want. It is one of the thinkers' views students can apply to cases in the power topic.
+
 ## Official syllabus
 
 These notes are aligned to the International Baccalaureate Organization, Diploma Programme *Global politics guide*, first assessment 2026 (published February 2024): core topics, prescribed topic "Power in global politics".

@@ -211,6 +211,20 @@ A **management information system (MIS)** turns data from an organisation's syst
 
 Use the [revision notes](/resources/a-level-cambridge-ict-database-and-file-concepts-revision-notes/), then the [practice questions](/resources/a-level-cambridge-ict-database-and-file-concepts-practice/).
 
+## Frequently asked questions
+
+**What is referential integrity?**
+Referential integrity means every foreign key value must match an existing primary key value. It stops orphan records that point at nothing, for example by refusing to delete a student who still has lessons unless deletions cascade.
+
+**What is the difference between conceptual, logical and physical ERDs?**
+A conceptual ERD shows only entities and relationships, a logical ERD adds attributes and primary and foreign keys, and a physical ERD adds the actual table and field names, data types and field sizes.
+
+**When is a flat file better than a relational database?**
+A flat file is quick to set up and fine for one small list, such as a club's contact sheet. A relational database suits data about several linked things, because each fact is stored once, reducing redundancy and keeping data consistent, at the cost of more design time.
+
+**What is a management information system?**
+A management information system (MIS) turns data from an organisation's systems into summaries, reports and charts for managers, drawing on many sources so they can monitor performance, spot trends and plan.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 10: Database and file concepts (10.1 Creating a database; 10.2 Normalisation to third normal form (3NF); 10.3 Data dictionary; 10.4 File and data management).

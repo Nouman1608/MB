@@ -195,6 +195,23 @@ For the concepts themselves, see the core guides on [power](/resources/ib-dp-glo
 - Dropping the key concepts, so the answer reads as economics rather than politics.
 - Ending with a conclusion that does not follow from the weighing in the body.
 
+## Frequently asked questions
+
+**What is the Brundtland definition of sustainable development?**
+The Brundtland Report (1987) defines sustainable development as meeting present needs without reducing the ability of future generations to meet theirs. In IB DP Global Politics, sustainability covers social and economic dimensions as well as the environment.
+
+**How is the Multidimensional Poverty Index calculated?**
+The MPI multiplies H, the share of people who are multidimensionally poor, by A, the average intensity of their deprivation, so MPI = H × A. For example, H = 0.25 and A = 0.44 give an MPI of 0.11.
+
+**What is the difference between the IMF and the World Bank?**
+The World Bank provides long-term development loans and grants, while the IMF provides short-term balance-of-payments lending with conditions attached. Both are international financial institutions studied as actors in Development and sustainability.
+
+**What was structural adjustment?**
+Structural adjustment refers to the loan conditions the IMF and World Bank attached from the 1980s, such as cutting deficits, privatising and liberalising trade. Critics argue the spending cuts hit health and education and limited borrowers' sovereignty.
+
+**Is development the same as economic growth?**
+No. In IB DP Global Politics, development means improvement in people's lives across economic, political, social and institutional dimensions, not growth alone. Defining it only as GDP growth is a common way to lose marks.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Diploma Programme *Global politics guide*, first assessment 2026 (published February 2024). Thematic studies: Development and sustainability. See also the [practice questions](/resources/ib-dp-global-politics-development-sustainability-practice/) and the [Peace and conflict revision notes](/resources/ib-dp-global-politics-peace-conflict-revision-notes/).

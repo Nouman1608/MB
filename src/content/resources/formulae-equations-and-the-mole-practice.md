@@ -30,9 +30,9 @@ syllabusTopics:
     subtopic: "the-mole-and-the-avogadro-constant"
 description: "Original exam-style practice questions with full worked answers on formulae, balancing, moles, yield and concentration for IGCSE Chemistry."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -149,5 +149,19 @@ c = 0.100 ÷ 0.250 = **0.400 mol dm⁻³** [1].
 - Forgetting brackets around a polyatomic ion when more than one is needed in a formula — Al₂SO₄₃ is meaningless and unreadable; it must be written Al₂(SO₄)₃.
 - Swapping the charges onto the wrong ion, or forgetting to simplify the resulting subscripts to their lowest whole-number ratio where they share a common factor.
 - Treating percentage purity and percentage yield as interchangeable — one is about how clean a sample is, the other about how much of a reaction actually happened.
+
+## Frequently asked questions
+
+**What does this formulae, equations and the mole practice set cover?**
+It covers balancing equations, conservation of mass, relative formula mass, moles, percentage yield and purity, concentration and gas volumes for Cambridge IGCSE 0620 and O Level 5070. Mole-based questions are marked as 0620 Extended and required for 5070.
+
+**What mistakes cost marks in mole calculations?**
+Common errors include changing formulae instead of coefficients when balancing, working from mass ratios instead of moles, and forgetting to convert cm³ to dm³ for concentration. Mixing up 24 dm³ and 24 000 cm³ for gas volumes is another frequent slip.
+
+**Should you use proton number or relative atomic mass to calculate Mr?**
+Use the relative atomic masses and the number of each atom in the formula. Using proton numbers, such as 20 for calcium, gives the wrong Mr.
+
+**What is the difference between percentage purity and percentage yield?**
+Percentage purity is about how much of a sample is the wanted substance, while percentage yield compares the actual mass of product with the theoretical maximum. Treating them as the same calculation loses marks.
 
 Questions 7 and 8 draw on the common-ions table and percentage purity formula in the [Formulae, Equations and the Mole revision notes](/resources/formulae-equations-and-the-mole-revision-notes/), material the earlier balancing and mole-calculation questions on this page don't reach.

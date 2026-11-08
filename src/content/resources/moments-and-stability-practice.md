@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "motion-forces-and-energy"
     subtopic: "forces"
-description: "Original exam-style practice questions with full worked answers on moments, the principle of moments, centre of gravity, stability and elastic deformation (spring constant, load-extension graphs)."
+description: "Original Cambridge O Level Physics 5054 questions with worked answers on moments, the principle of moments, centre of gravity, stability and spring extension."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -110,3 +110,17 @@ Method: **suspend the card freely from a point near its edge** and let it settle
 - Taking moments about a point where an unknown force still has a moment.
 - Saying stability depends on weight rather than on the centre of gravity and base.
 - Applying k = F/x to data taken beyond the limit of proportionality, where extension is no longer proportional to load.
+
+## Frequently asked questions
+
+**What are common mistakes in moments questions?**
+Frequent slips include using the distance along the beam rather than the perpendicular distance, taking moments about a point where an unknown force still has a moment, and saying stability depends on weight rather than on the centre of gravity and base.
+
+**Which point should you take moments about?**
+Take moments about a point where an unknown force acts, such as the pivot, so that force has no moment and drops out of the equation.
+
+**Should I use extension or total length in Hooke's law?**
+Use the extension, which is the new length minus the unstretched length, in F = kx. The equation only applies within the limit of proportionality.
+
+**Which syllabus do these moments questions follow?**
+They follow Cambridge O Level Physics 5054 on moments, centre of gravity and elastic deformation. One question is marked as an extension beyond the single-pivot problems covered in the study guide.

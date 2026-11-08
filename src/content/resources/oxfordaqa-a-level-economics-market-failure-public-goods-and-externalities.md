@@ -228,6 +228,23 @@ Negative consumption externality: private benefit exceeds social benefit, so the
 - Drawing the social curve on the wrong side. Negative production externality: social supply above private. Positive consumption externality: social demand above private.
 - Forgetting to label both equilibrium points and the area of welfare loss.
 
+## Frequently asked questions
+
+**What is market failure?**
+Market failure is any case where a market's own outcome misallocates resources, so they are not used in the way that gives society the greatest benefit. A market can still trade and make a profit while failing.
+
+**What is a quasi-public good?**
+A quasi-public good has only part of the public-good profile. For example, a road is non-rival when empty but rival when congested, and it becomes excludable if tolls are added.
+
+**How can technology change whether a good is public?**
+Technology can make exclusion possible. Encrypted broadcasting made programmes excludable, so they could be sold privately; technology can also work the other way by making copying easy.
+
+**What is the difference between complete and partial market failure?**
+With a pure public good the market fails completely and private firms supply none. With an externality the market still operates, but the quantity produced or consumed is wrong.
+
+**What causes market failure in the OxfordAQA 9640 specification?**
+The OxfordAQA International AS and A-level Economics (9640) specification lists public goods, positive and negative externalities, merit and demerit goods, monopoly and other market imperfections, and inequalities in income and wealth.
+
 ## Official syllabus
 
 Source: the specification for OxfordAQA's International AS and A-level Economics course, code 9640, version 1.2. First teaching was September 2020, the first AS exams were May/June 2021 and the first A-level exams were May/June 2022. Covered here: 3.1.5.1, 3.1.5.2 and 3.1.5.3.

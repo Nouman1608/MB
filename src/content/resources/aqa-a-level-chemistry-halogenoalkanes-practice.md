@@ -218,6 +218,23 @@ ambiguous and can cost the mark.
 - Ozone equations without radical dots, or with Cl• not regenerated.
 - In yield calculations, the theoretical mass worked out from the wrong compound's Mr.
 
+## Frequently asked questions
+
+**Is halogenoalkanes AS content in AQA Chemistry?**
+Yes. Section 3.3.3 Halogenoalkanes of the AQA 7404/7405 specification is all AS content. It is examined on Paper 2 at AS and A-level, and A-level Paper 3 can test any content.
+
+**Where do curly arrows lose marks in halogenoalkane mechanisms?**
+The nucleophile's arrow must start from a lone pair (on O for OH⁻, on C for CN⁻, on N for NH₃), not from an H atom or a minus sign. The C–X arrow must go from the bond to the halogen, not from the halogen to carbon.
+
+**Should reactivity of halogenoalkanes be explained by polarity?**
+No. The rate order is controlled by C–X bond enthalpy, so answers based on the polarity or electronegativity of the halogen cannot score. The weaker the C–X bond, the faster the reaction.
+
+**How do you name the type of reaction with hydroxide ions?**
+Write "nucleophilic substitution" in full; "substitution" alone is incomplete. In elimination, OH⁻ acts as a base, not a nucleophile.
+
+**What goes wrong in ozone depletion equations?**
+Common losses are leaving radical dots off Cl• and ClO•, and writing steps in which Cl• is not regenerated. Show that the chlorine radical is a catalyst that is re-formed.
+
 ## Next steps
 
 - Recap with the [halogenoalkanes revision notes](/resources/aqa-a-level-chemistry-halogenoalkanes-revision-notes/).

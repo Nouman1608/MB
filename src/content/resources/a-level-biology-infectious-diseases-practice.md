@@ -13,14 +13,14 @@ order: 10
 syllabusTopics:
   - qualification: "a-level"
     topic: "infectious-diseases-cambridge-alevel-biology"
-description: "Original exam-style questions with full worked answers on naming pathogens, HIV/AIDS and anti-retroviral therapy, how penicillin works, the spread of tuberculosis and antibiotic resistance, for Cambridge International AS & A Level Biology (9700)."
+description: "Original Cambridge 9700 questions with worked answers on pathogens, HIV and anti-retroviral therapy, penicillin, the spread of TB and antibiotic resistance."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -111,3 +111,17 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 - Giving only differences when a question asks for similarities and differences.
 - Saying penicillin makes holes in the cell wall instead of stopping cross-links from forming.
 - Suggesting that antibiotics cause the mutations that give resistance.
+
+## Frequently asked questions
+
+**Why does spelling matter in infectious disease answers?**
+Pathogen names and terms such as "immunodeficiency" must be spelled correctly. Misspelling a scientific name is a common way to lose marks in Cambridge 9700.
+
+**What should you do when a question asks for similarities and differences?**
+Give both. Listing only differences when similarities are also asked for loses marks.
+
+**Which exam paper are these infectious diseases questions modelled on?**
+Each question practises a skill tested in the June 2024 Cambridge 9700 Paper 22, with an examiner-style insight after each answer.
+
+**Are these Cambridge past paper questions?**
+No. They are original exam-style questions with full worked answers. Use them alongside official past papers.

@@ -352,6 +352,20 @@ Reading a formula the other way is just as common. For A = 250 × 1.04ⁿ, the s
 
 Recap with the revision notes, then try the practice questions (both linked at the top). For earlier percentage work, see [fractions, decimals and percentages](/resources/ocr-gcse-mathematics-fractions-decimals-and-percentages/).
 
+## Frequently asked questions
+
+**What does the symbol ∝ mean in proportion questions?**
+y ∝ x means y is directly proportional to x, which is the same as y = kx for a constant k. y ∝ 1/x means y is inversely proportional to x, so y = k/x.
+
+**What does the graph of direct proportion look like?**
+The graph of y = kx is a straight line through the origin. The graph of inverse proportion, y = k/x, is a curve that never touches either axis.
+
+**How do you convert between currencies using an exchange rate?**
+An exchange rate is a direct proportion: multiply to convert into the foreign currency and divide to convert back. Check that the answer is sensible, because the currency worth less per unit should give the larger number.
+
+**How do you read an exponential growth or decay formula like A = A₀ × rⁿ?**
+A₀ is the starting amount, r is the multiplier per period and n is the number of periods. A multiplier above 1 means growth and one between 0 and 1 means decay, so 0.88 means a 12% fall each period; this formula work is Higher tier only.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), first assessment 2017, sections 5.02a, 5.02b and 5.03a.

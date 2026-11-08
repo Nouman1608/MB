@@ -259,6 +259,20 @@ S(tan 55° + μ_w) = W/2
 - Treating friction at a rough wall as horizontal. It acts along the wall.
 - Assuming limiting friction when the question only says the body is in equilibrium.
 
+## Frequently asked questions
+
+**What is the moment of a force?**
+The moment of a force about a point is the force multiplied by the perpendicular distance from the point to the line of action of the force.
+
+**Why can you use areas instead of masses for a uniform lamina?**
+A uniform lamina has the same mass per unit area throughout, so mass is proportional to area and areas can be used in place of masses.
+
+**What are the conditions for a rigid body to be in equilibrium?**
+The resultant force on the body must be zero and the sum of the moments about any point must be zero.
+
+**Which way does friction act at a rough wall?**
+Friction at a rough wall acts along the wall, not horizontally, so it appears in the vertical resolution of forces.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification, Issue 3, April 2019, unit M2: sections 2 (centres of mass) and 5 (statics of rigid bodies).

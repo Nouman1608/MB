@@ -202,6 +202,20 @@ If the resistive force grows with speed, the amplitude falls by the same fractio
 - Quoting a graph gradient without the 4π² step, or without units.
 - Giving an answer for the closed tube using λ/2 rather than λ/4.
 
+## Frequently asked questions
+
+**What is critical damping?**
+Critical damping returns a system to equilibrium as quickly as possible without oscillating. Car suspension is the usual example.
+
+**How does damping affect a resonance curve?**
+Light damping gives a tall, narrow peak very close to the natural frequency. Heavier damping gives a lower, broader peak slightly below the natural frequency.
+
+**Why does the pendulum period formula need a small amplitude?**
+The derivation uses sin θ ≈ θ for small angles in radians. Only then is the restoring force proportional to displacement, giving T = 2π√(l/g).
+
+**Why does a T² against m graph for a spring not pass through the origin?**
+The spring has mass of its own, which also moves as it oscillates. This adds to the effective mass, so the line is shifted away from the origin.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Sections 3.5.1 and 3.5.2, with the derivation in 3.6.2.

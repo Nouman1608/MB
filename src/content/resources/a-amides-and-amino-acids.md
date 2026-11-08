@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-nitrogen-compounds"
     subtopic: "a-amino-acids"
-description: "Producing and hydrolysing amides, why amides are weaker bases than amines, and amino acid acid-base properties, zwitterions and electrophoresis, for Cambridge International AS & A Level Chemistry 9701."
+description: "Making amides from acyl chlorides, hydrolysis and LiAlH₄ reduction, why amides are weak bases, zwitterions and electrophoresis, for Cambridge 9701 Chemistry."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -205,6 +205,23 @@ direction backwards under exam pressure.
   H₂O
 - Electrophoresis: migration direction and extent depend on net charge at
   the chosen pH, relative to each species' isoelectric point
+
+## Frequently asked questions
+
+**How do you make an amide for Cambridge 9701 A Level Chemistry?**
+React an acyl chloride with ammonia or a primary amine at room temperature. For example, CH₃COCl + NH₃ gives ethanamide, CH₃CONH₂, and HCl.
+
+**What are the products when an amide is hydrolysed?**
+Hydrolysis breaks the C–N bond. Heating with aqueous alkali gives the carboxylate salt and ammonia or an amine; heating with aqueous acid gives the carboxylic acid and an ammonium or aminium salt.
+
+**What is a zwitterion?**
+A zwitterion is a single species carrying both a positive and a negative charge, with no net charge. In an amino acid the –COOH proton moves to the –NH₂ group, giving ⁺H₃NCH(R)COO⁻.
+
+**Which way does an amino acid move in electrophoresis?**
+It depends on the buffer pH compared with the amino acid's isoelectric point. Above its isoelectric point it is negatively charged and moves to the anode; below it, it is positively charged and moves to the cathode; at the isoelectric point it does not move.
+
+**What does LiAlH₄ do to an amide?**
+LiAlH₄ reduces the C=O group of an amide to give an amine, for example CH₃CONH₂ to CH₃CH₂NH₂. This is one of the routes for making amines.
 
 ## Related resources
 

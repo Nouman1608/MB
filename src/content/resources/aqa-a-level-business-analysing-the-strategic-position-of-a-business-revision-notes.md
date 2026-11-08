@@ -234,6 +234,23 @@ Factors influencing the decision: investment criteria, non-financial factors, ri
 - Recommending an investment on one method only, with no mention of risk, non-financial factors or sensitivity.
 - Long definitions of CSR with no link to the business's stakeholders.
 
+## Frequently asked questions
+
+**What are the four perspectives of the Balanced Scorecard?**
+Financial; customer; internal business processes; and learning and growth.
+
+**What is Carroll's pyramid of corporate social responsibility?**
+Carroll's pyramid sets out responsibilities from base to top: economic, legal, ethical and philanthropic.
+
+**What is sensitivity analysis in investment appraisal?**
+Sensitivity analysis changes one assumption at a time, such as cutting every cash flow by 10%, to see how much the result depends on it. It shows which forecasts matter but gives no probabilities.
+
+**Why might a stronger pound hurt a UK exporter?**
+A stronger pound means the exporter's goods cost more abroad, or its sterling revenue falls if it keeps foreign prices the same, reducing its competitiveness or its margins.
+
+**What are core competences?**
+Core competences are things a business does well that are hard to copy and are valued by customers, so they are a source of competitive advantage.
+
 ## Official syllabus
 
 AQA, AS and A-level Business (7131 and 7132) specification, section 3.7 (A-level only).

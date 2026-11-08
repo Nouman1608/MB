@@ -14,11 +14,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-group-2"
     subtopic: "as-similarities-and-trends-in-the-properties-of-the-group-2-metals-and-their-compounds"
-description: "Reactions of the Group 2 metals and their oxides, hydroxides, carbonates and nitrates, and the solubility and thermal-stability trends down the group, for Cambridge International AS & A Level Chemistry 9701."
+description: "Group 2 metals for Cambridge AS & A Level Chemistry 9701: reactions of the elements and their compounds, nitrate and carbonate decomposition and solubility."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -168,12 +168,26 @@ down the group
 - Reactions of oxides, hydroxides and carbonates with water and dilute
 acids, with equations
 - Thermal decomposition of nitrates and carbonates: equations, and
-increasing stability down the group (polarisation explanation, no lattice
-energy)
+increasing stability down the group (the trend only at AS; the
+polarisation explanation is A Level 27.1.1)
 - Solubility: hydroxides more soluble down the group; sulfates less
 soluble down the group
 - Barium sulfate's insolubility: the sulfate test, and why Ba reacts only
 briefly with dilute H₂SO₄
+
+## Frequently asked questions
+
+**How do the solubilities of Group 2 hydroxides and sulfates change down the group?**
+Group 2 hydroxides become more soluble down the group, while sulfates become less soluble. The two trends go in opposite directions, so check which compound a question asks about.
+
+**How should you explain the thermal stability of Group 2 carbonates at AS?**
+AS outcome 10.1.3 asks you to describe the trend (stability increases down the group) and write the decomposition equations, not explain it. The explanation, that larger cations further down the group have a lower charge density and polarise the carbonate or nitrate anion less, is A Level outcome 27.1.1.
+
+**Why does barium's reaction with dilute sulfuric acid stop early?**
+Insoluble barium sulfate forms a coating on the metal, which stops the reaction. This is a solubility effect, not a sign that barium is unreactive.
+
+**Which part of the Cambridge 9701 syllabus covers Group 2?**
+Group 2 is subtopic 10.1, Similarities and trends in the properties of the Group 2 metals, magnesium to barium, and their compounds, in Cambridge International AS & A Level Chemistry 9701.
 
 ## Related resources
 

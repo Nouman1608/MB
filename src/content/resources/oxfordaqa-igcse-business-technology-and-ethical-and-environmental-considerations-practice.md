@@ -124,6 +124,17 @@ These questions cover sections 3.2.1 Technology and 3.2.2 Ethical and environmen
 - Listing environmental issues without a cost or benefit for the business.
 - Concluding an "evaluate" or "justify" answer without a judgement, or with one that could fit any business.
 
+## Frequently asked questions
+
+**Is ethical behaviour a legal duty?**
+No. Ethical behaviour is a choice about being fair and honest that goes beyond what the law requires, so treating it as a legal duty is a common error.
+
+**How do you answer an ethics versus profit question?**
+Name the ethical choice, show what it costs using any figure in the case, show the benefit that may follow, and then judge which matters more for this business.
+
+**Which part of OxfordAQA IGCSE Business 9225 do these questions cover?**
+They cover sections 3.2.1 Technology and 3.2.2 Ethical and environmental considerations of OxfordAQA International GCSE Business (9225).
+
 ## Next steps
 
 - Re-read the [study guide](/resources/oxfordaqa-igcse-business-technology-and-ethical-and-environmental-considerations/) for each question you got wrong.

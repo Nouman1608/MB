@@ -222,6 +222,23 @@ The theory rests on assumptions that rarely hold. State the limitation, then say
 - Ignoring the elasticity of demand when assessing the impact of a change in the terms of trade.
 - Listing assumptions without saying how each limits the benefits.
 
+## Frequently asked questions
+
+**What is the difference between absolute and comparative advantage?**
+Absolute advantage means producing a good with fewer resources than another country. Comparative advantage means producing it at a lower opportunity cost.
+
+**Should a country with an absolute advantage in both goods still trade?**
+Yes. It can still gain by specialising in the good where its comparative advantage lies and trading for the other.
+
+**How is the terms of trade measured?**
+The terms of trade index is the index of average export prices divided by the index of average import prices, multiplied by 100. A rise means the terms of trade have improved.
+
+**What causes the terms of trade to change?**
+Changes in world demand for exports, the prices of imported inputs such as oil, exchange rate movements, productivity in export industries, relative inflation, and the supply of commodities.
+
+**What are the limitations of comparative advantage theory?**
+Transport and trade costs, increasing opportunity costs, imperfect factor mobility, static analysis, risks of overspecialisation, other unrealistic assumptions, and unequal distribution of the gains.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education). Section 6.1, The reasons for international trade, outcomes 6.1.1 to 6.1.4.

@@ -192,6 +192,23 @@ You are not asked here to calculate ratios. Later parts of section 3.5 deal with
 - Forgetting the local community, which is the stakeholder most often missed
 - Confusing dividend, which goes to shareholders, with interest, which goes to lenders
 
+## Frequently asked questions
+
+**What do employees want to know about a business?**
+Employees depend on the business for their income, so they are interested in job security, pay rises and working conditions. They read profit and cash availability as signs of whether wages will be paid and jobs will continue.
+
+**Why are lenders interested in a business's accounts?**
+Lenders want to be repaid on the agreed dates and to receive interest on time, so they look for stability and enough cash. Unlike an owner, a lender does not gain extra if the business becomes very profitable.
+
+**Is the local community a stakeholder if it has no financial claim on the business?**
+Yes. The local community has no financial claim, but it is affected by the business through jobs, local spending and environmental effects such as noise, traffic and waste.
+
+**Which stakeholder is most often missed in exam answers?**
+The local community is the stakeholder most often missed. Other common errors are placing lenders or suppliers in the internal list and confusing dividends, which go to shareholders, with interest, which goes to lenders.
+
+**How should I answer an identify question on stakeholders in OxfordAQA 9215?**
+Name the group precisely, using the specification's wording, such as owners/shareholders or local community. Longer explain answers should say what the group wants and why.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), specification version 1.2, section 3.5, published by OxfordAQA, for exams from May/June 2026.

@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-4-further-mechanics-fields-and-particles"
     subtopic: "nuclear-and-particle-physics"
-description: "Original exam-style practice questions with full worked answers on atomic structure, thermionic emission, particle accelerators and detectors, relativistic lifetimes, MeV and GeV units, quarks and conservation laws, for Unit 4 sub-topic 4.5."
+description: "Original practice questions with answers on atoms, accelerators, detectors, relativistic lifetimes, quarks and conservation laws for Edexcel IAL Physics."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -116,3 +116,17 @@ Related: [Nuclear and Particle Physics revision notes](/resources/edexcel-ial-ph
 - Saying a muon's lifetime at rest changes: it is the lifetime **measured by an observer** for whom the particle moves close to c that increases.
 - Forgetting that the top quark's existence was predicted by the symmetry of the standard model before it was observed.
 - Confusing a baryon (three quarks) with a meson (a quark and an antiquark).
+
+## Frequently asked questions
+
+**Are these Edexcel IAL particle physics questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure or mark tariffs. Use them alongside the official Pearson Edexcel past papers.
+
+**Do these questions cover radioactive decay and binding energy?**
+No. Every question tests Unit 4 sub-topic 4.5. Radioactive decay, half-life, mass deficit, binding energy, fission and fusion belong to Unit 5 sub-topic 5.4 and are practised in the Nuclear Decay practice questions.
+
+**What did the standard quark-lepton model predict?**
+The symmetry of the model predicted the existence of the top quark before it was experimentally observed.
+
+**What unit mistakes lose marks in particle physics calculations?**
+Using grams instead of kilograms in E = mc², and forgetting to convert GeV or MeV to eV (× 10⁹ or × 10⁶) before multiplying by 1.60 × 10⁻¹⁹ J eV⁻¹.

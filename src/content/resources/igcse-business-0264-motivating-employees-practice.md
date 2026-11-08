@@ -146,6 +146,23 @@ This set covers section 2.4 (Motivating employees) of the Cambridge IGCSE Busine
 - Not using case data (staff numbers, costs, current pay) in the answer.
 - Ending an "evaluate" or "justify" answer without a decision, or with a decision unsupported by reasons.
 
+## Frequently asked questions
+
+**Are these Cambridge IGCSE Business 0264 past paper questions?**
+No. They are original questions written for Marlbridge for revision of section 2.4 (Motivating employees). They do not reproduce past-paper questions or copy the exam's structure or mark tariffs, so use them alongside your board's official past papers.
+
+**How do you avoid losing marks in motivation pay calculations?**
+Show every step of the working, such as the rate multiplied by the quantity, and state the units. If only a final figure is written, one slip can cost every mark, and where a comparison is asked you should state both figures.
+
+**How do you apply Maslow's hierarchy to a case study question?**
+Name the level of need that is not met, then use a clue from the stem, such as a detail about pay, job security or recognition, to explain why that level applies. Naming a level without linking it to the case earns little credit.
+
+**How do you answer an "evaluate" or "recommend" question on motivation?**
+Weigh the options using the case data, such as costs, staff numbers and current pay, and note at least one limit. Then reach a clear decision with a reason, because a balanced discussion with no judgement, or a judgement with no reason, leaves the top marks unreached.
+
+**What does a "distinguish between" question need?**
+Explain what each of the two terms means and make the key difference clear in both halves of the answer. Describing only one term, or listing features without a contrast, does not show the distinction.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/igcse-business-0264-motivating-employees-revision-notes/) and the [study guide](/resources/igcse-business-0264-motivating-employees/).

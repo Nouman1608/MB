@@ -14,13 +14,13 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "foundations-in-biology-ocr-alevel-biology"
     subtopic: "biological-membranes-ocr-alevel-biology"
-description: "Condensed revision notes on the fluid mosaic model, membrane permeability, diffusion, active transport, bulk transport, osmosis and water potential, with the PAG5 and PAG8 practicals, for OCR A Level Biology A (H420) 2.1.5."
+description: "Condensed notes on the fluid mosaic model, permeability, diffusion, active and bulk transport, osmosis and PAG5 and PAG8 for OCR A Level Biology A H420."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-05
+reviewStatus: "review-pending"
 publishedDate: 2026-11-05
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-11-05."
 ---
 
 These notes condense learning outcomes 2.1.5(a) to (e) of the OCR A Level Biology A specification (H420, Version 4.1, April 2026, first assessment 2025), including the practical work the specification links to PAG5 (colorimeter) and PAG8 (transport in and out of cells). The course sits on the [OCR A Level Biology hub](/boards/ocr/a-level/biology/); tick off outcomes on the [printable checklist](/checklists/ocr/a-level/biology/). Phospholipids and cholesterol are introduced in the [water, carbohydrates and lipids revision notes](/resources/ocr-a-level-biology-water-carbohydrates-and-lipids-revision-notes/); membranes inside organelles appear in the [cell structure revision notes](/resources/ocr-a-level-biology-cell-structure-microscopy-and-prokaryotes-versus-revision-notes/); and water potential is used again in the [exchange and transport revision notes](/resources/ocr-a-level-biology-exchange-and-transport-revision-notes/). Colorimeter and dilution technique are in the [practical endorsement revision notes](/resources/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques-revision-notes/), and the [free diagnostics](/diagnostics/) show gaps quickly.
@@ -260,6 +260,20 @@ These notes condense learning outcomes 2.1.5(a) to (e) of the OCR A Level Biolog
 * Forgetting to rinse beetroot cylinders, or to zero the colorimeter.
 * Using change in mass instead of percentage change when the starting masses differ.
 * Saying glycoproteins "make" hormones rather than act as receptors for them.
+
+## Frequently asked questions
+
+**How does temperature affect membrane permeability?**
+As temperature rises, phospholipids gain kinetic energy and move more, so the bilayer becomes more fluid and permeability increases. At high temperatures membrane proteins denature, leaving gaps, so permeability rises steeply; below 0 °C ice crystals can pierce the membrane.
+
+**What is the difference between channel proteins and carrier proteins?**
+Channel proteins are water-filled hydrophilic pores, often gated, that let specific ions through. Carrier proteins bind a specific molecule and change shape to release it on the other side of the membrane.
+
+**How does the sodium–potassium pump work?**
+The sodium–potassium pump is an example of active transport: for each ATP hydrolysed, it moves 3 Na⁺ out of the cell and 2 K⁺ in. Cells that carry out much active transport have many mitochondria.
+
+**Why is percentage change in mass used in the potato cylinder practical?**
+The cylinders start at different masses, so percentage change, rather than the raw change, allows a fair comparison between them.
 
 ## Official syllabus
 

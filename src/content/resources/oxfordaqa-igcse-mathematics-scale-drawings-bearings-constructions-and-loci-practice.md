@@ -141,6 +141,20 @@ These questions cover scale drawings, bearings, constructions and loci from the 
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to see what to revise next.
 - [Book a free trial class](/trial/) for one-to-one help with constructions.
 
+## Frequently asked questions
+
+**How do you write a bearing correctly?**
+Measure clockwise from the north line at the starting point and write three figures, so 38° becomes 038°. Measuring anticlockwise or from the wrong north line are common errors.
+
+**Should you rub out construction arcs?**
+No. Leave the arcs visible, because they are the evidence that you used ruler and compasses rather than guessing. Keep the compass width fixed between each pair of arcs.
+
+**How do you shade a region for several loci conditions?**
+Draw each boundary, decide which side each rule wants, and shade only the part that meets every condition. Shading a region for only one or two of the conditions loses marks.
+
+**What does "construct" mean in OxfordAQA 9260 Maths?**
+In OxfordAQA International GCSE Mathematics (9260), "construct" means use a ruler and compasses, with the construction arcs left on the page.
+
 ## Official syllabus
 
 These questions follow the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA, references G12 and G13.

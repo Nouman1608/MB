@@ -279,6 +279,23 @@ In a **TEM**, electrons pass **through** a very thin section; denser, stained pa
 - [Cell structure revision notes](/resources/a-level-biology-cell-structure-revision-notes/) and [practice questions](/resources/a-level-biology-cell-structure-practice/) for all of topic 1.
 - The [9700 course hub](/boards/cambridge/a-level/biology/), the [printable 9700 checklist](/checklists/cambridge/a-level/biology/) and the free [9700 AS diagnostic](/practice/9700/diagnostic/as/).
 
+## Frequently asked questions
+
+**How do you make a temporary slide of onion epidermis?**
+Lay a thin piece of epidermis flat in a drop of iodine in potassium iodide solution on a slide, lower a coverslip at an angle with a mounted needle to avoid air bubbles, blot off excess stain, and focus at low power first.
+
+**What is the formula for magnification?**
+Magnification = image size ÷ actual size. Both measurements must be in the same unit, and magnification has no unit.
+
+**What is the difference between a plan diagram and a high-power drawing?**
+A plan diagram shows the distribution of tissues with no individual cells drawn. A high-power drawing shows a few individual cells with their shapes, wall thickness, relative sizes and only the contents you can see.
+
+**Why can't ribosomes be seen with a light microscope?**
+Resolution is limited by the wavelength of light, giving a limit of about 200 nm. Ribosomes, at about 20–30 nm, are below this limit and need an electron microscope.
+
+**Does a drawing have the same magnification as the microscope?**
+No. A drawing has its own magnification, calculated as drawing size ÷ actual size, which is usually different from the ×100 or ×400 of the microscope.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027 (Version 1, published September 2022), Cambridge International Education: topic 1 Cell structure, sub-topic 1.1 The microscope in cell studies, and the Practical assessment section.

@@ -266,6 +266,23 @@ If these 2000 are resistant, they reproduce with little competition and the next
 - Giving "kills pathogens" as an answer for a non-specific defence without saying how.
 - Forgetting memory cells in an explanation of the second response.
 
+## Frequently asked questions
+
+**How do phagocytes destroy pathogens?**
+A phagocyte detects a pathogen, moves towards it and engulfs it into a vacuole, then enzymes from lysosomes digest it. Its flexible shape lets it squeeze out of capillaries to reach the site of infection.
+
+**What do platelets do?**
+Platelets are cell fragments with no nucleus. At a cut, they release chemicals that start reactions converting soluble fibrinogen into insoluble fibrin, which forms a mesh that traps red blood cells to make a clot.
+
+**Why is the secondary immune response faster than the primary response?**
+After the first exposure, memory cells remain in the blood. When the same antigen appears again, they recognise it at once and divide quickly, so antibodies are made faster, in greater amounts and for longer.
+
+**How does a vaccine work?**
+A vaccine contains a safe form of the antigen, such as dead or weakened pathogens. Lymphocytes make antibodies and memory cells, so if the real pathogen infects you later, a rapid secondary response stops you becoming ill.
+
+**Is the immune system topic Higher Tier only in OCR GCSE Biology A (J247)?**
+No. Statements B6.3j, B6.3k, B6.3l and B6.3o are not in bold, so white blood cells, non-specific defences, the immune system and vaccines and medicines are assessed in both tiers.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), first assessment 2018, published by OCR. This page teaches statements B6.3j, B6.3k, B6.3l and B6.3o.

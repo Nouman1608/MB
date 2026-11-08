@@ -179,6 +179,23 @@ A best-fit line passes close to (7.0, 0.24) and (11.0, 1.88).
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these OxfordAQA A-level Physics quantum questions cover?**
+They cover sections 3.5.9 to 3.5.11 of OxfordAQA International AS and A-level Physics (9630): collisions of electrons with atoms and energy levels, X-rays, the photoelectric effect and wave-particle duality.
+
+**How do I avoid errors converting between eV and joules?**
+Multiply by 1.60 × 10⁻¹⁹ to go from eV to J and divide to go from J to eV. Check the size of your answer, since a value in joules for an atomic energy should be tiny.
+
+**What unit mistakes are common in photon energy calculations?**
+Leaving a wavelength in nanometres inside hc/λ, and mixing joules with eV in one equation. Keep all values in joules or all in eV.
+
+**How do I use a graph of stopping potential against frequency?**
+The gradient is h/e, so multiply the gradient by e to find the Planck constant. Taking the gradient itself as h is a common error.
+
+**What do I need for a de Broglie wavelength calculation?**
+Use the momentum mv in λ = h/mv, not the kinetic energy. If you are given a kinetic energy, convert it to momentum first.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), version 4.4, for International AS and A-level exams from May/June 2020, published by OxfordAQA.

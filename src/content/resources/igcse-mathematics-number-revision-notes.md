@@ -61,14 +61,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "number-cambridge-igcse-maths"
     subtopic: "exponential-growth-and-decay-cambridge-igcse-maths"
-description: "Condensed recall notes on sets and Venn diagrams, fractions, decimals and percentages, ordering, ratio, percentages, indices, standard form, bounds, rates, calculator use, time and money for Cambridge IGCSE Mathematics 0580."
+description: "Recall notes on sets, fractions, percentages, ratio, indices, standard form, bounds, rates, calculator use, time and money for Cambridge IGCSE Mathematics 0580."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -412,3 +412,20 @@ division) rather than applying the shortcut blindly.
 8. In a group of 25 people, 15 have a cat, 12 have a dog and 4 have neither. How many have both?
 
 **Answers:** 1. 24 = 2³×3, 36 = 2²×3²; HCF = 2²×3 = 12, LCM = 2³×3² = 72. 2. 8 parts, $25 each, giving $75 and $125. 3. 84 ÷ 1.2 = $70. 4. 4.55 ≤ m < 4.65. 5. Upper bound of a minus the **lower** bound of b. 6. 7 ÷ 20 = 0.35 = 35%. 7. 12 min to 11 00, 2 h to 13 00, then 15 min: 2 h 27 min. 8. 25 − 4 = 21 have a cat or a dog; 15 + 12 − 21 = 6 have both.
+
+## Frequently asked questions
+
+**How do you calculate average speed?**
+Average speed = total distance ÷ total time. Convert minutes to hours correctly first, for example 20 minutes is 1/3 of an hour, not 0.2 hours.
+
+**What is the difference between simple and compound interest?**
+Simple interest is calculated on the original amount every year, while compound interest is calculated on the new total each year, so the interest grows over time.
+
+**How do you convert between currencies?**
+If 1 unit of A = r units of B, multiply by r to go from A to B and divide by r to go from B to A. Sense-check which amount should be larger.
+
+**Are calculators allowed on all Cambridge IGCSE 0580 papers?**
+No. Calculators are not allowed on Papers 1 and 2 of Cambridge IGCSE Mathematics 0580; the calculator papers are Papers 3 and 4.
+
+**Which number topics are Extended only in 0580?**
+Extended-only number content includes three-set Venn diagrams and set notation such as ∈ and ⊆, recurring decimals to fractions, fractional indices, surds, bounds of calculations, reverse percentages and exponential growth and decay.

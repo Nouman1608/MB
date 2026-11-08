@@ -13,6 +13,12 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-research-methods-9990"
+  - qualification: "a-level"
+    topic: "paper-2-research-methods-9990"
+    subtopic: "research-methods-as-9990"
+  - qualification: "a-level"
+    topic: "paper-2-research-methods-9990"
+    subtopic: "methodological-concepts-as-9990"
 description: "Condensed revision notes on the six research methods, methodological concepts, and the Paper 2 planning question for Cambridge AS & A Level Psychology (9990)."
 author: "marlbridge-academic-team"
 specCheck:
@@ -126,3 +132,17 @@ approach an unfamiliar Section A scenario question about, say, longitudinal stud
 confidence as a well-rehearsed question about experiments, because the underlying structure of what's
 being asked (describe the method's features, evaluate it, apply it to the given scenario) never changes,
 even though the specific method does.
+
+## Frequently asked questions
+
+**What are the three sampling techniques in Cambridge AS & A Level Psychology 9990?**
+They are opportunity sampling, random sampling and volunteer (self-selecting) sampling. You should also be able to state their implications for generalisability.
+
+**What is counterbalancing used for?**
+Counterbalancing addresses order effects, which occur in repeated measures designs where the same participants take part in every condition.
+
+**What is in Section A and Section B of Paper 2?**
+Section A has short-answer questions on general research methods and on methods linked to a Paper 1 core study, plus three scenario-based questions. Section B is a single planning question in which you plan a study and evaluate some aspects of the plan.
+
+**Do ethical issues differ for human and animal participants?**
+Yes. For humans the issues include informed consent, right to withdraw, deception, confidentiality and debriefing. For animals they include replacement, species, numbers, and pain, suffering or distress.

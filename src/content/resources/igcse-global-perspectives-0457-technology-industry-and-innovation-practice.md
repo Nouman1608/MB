@@ -162,6 +162,20 @@ Judgement: approve with a binding water-recycling condition, after publishing th
 - Take a [diagnostic test](/diagnostics/) to find your weaker skills
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are the factory and figures in these 0457 questions real?**
+No. The battery factory, places and official figures in the sources are fictional. The questions are original practice for IGCSE Global Perspectives 0457.
+
+**Is a company's job forecast a fact?**
+No. A forecast of jobs or water use is a prediction from a source with a vested interest, so treat it with caution rather than as a fact.
+
+**Do you need to show working in 0457 calculations?**
+Yes. Calculations with no working shown are a common way to lose marks, so set out each step.
+
+**How do you explain a survey limitation properly?**
+State the limitation and explain how it affects the results or the conclusion drawn from them. Naming it alone earns less.
+
 ## Official syllabus
 
 These questions are based on the Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Use them with official past papers from your school.

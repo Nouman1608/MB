@@ -266,6 +266,20 @@ Method in steps: classify a case
 - Giving a one-sided answer with no judgement on cause, time period or scale.
 - Forgetting to apply the answer to the context in the question.
 
+## Frequently asked questions
+
+**What is the ILO measure of unemployment?**
+The Labour Force Survey measure counts people with no job who are available to start within two weeks and have looked for work, using the ILO test.
+
+**What is the difference between voluntary and involuntary unemployment?**
+Voluntary unemployment is choosing not to take available jobs at the going wage. Involuntary unemployment is being willing to work at the going wage but unable to find a job.
+
+**What is the difference between frictional and structural unemployment?**
+In frictional unemployment workers' skills match available jobs but searching takes time. In structural unemployment skills or location do not match the jobs available.
+
+**Can the unemployment rate fall without more people getting jobs?**
+Yes. The rate can fall because people leave the labour force, so check participation before saying unemployment fell because of job creation.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification (7135 and 7136), first teaching from September 2015, version 1.3, published by AQA.

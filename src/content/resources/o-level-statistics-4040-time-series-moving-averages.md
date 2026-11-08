@@ -20,7 +20,7 @@ syllabusTopics:
     subtopic: "understanding-of-seasonal-variation-4040"
   - qualification: "igcse"
     topic: "time-series-0479"
-description: "Time series graphs, moving averages (with centring when the cycle has an even number of seasons), trend lines, mean seasonal variation and predictions — Cambridge O Level Statistics 4040 Topic 10 and IGCSE Statistics 0479 Topic 12, with a full quarterly worked example."
+description: "Time series graphs, centred moving averages, trend lines, seasonal components and predictions: Cambridge O Level Statistics 4040 and IGCSE 0479 study guide."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
@@ -148,6 +148,23 @@ you add.)
 - Working out "moving average − sales" instead of "sales − moving average", which reverses every seasonal component's sign.
 - Adding the seasonal component to the *actual* value instead of to the *trend* value when predicting.
 - Drawing the trend line through the original data points instead of through the moving averages.
+
+## Frequently asked questions
+
+**How many points should a moving average have?**
+The number of values in each average should equal the number of seasons in one cycle: 4 points for quarterly data, 3 for data by school term and 12 for monthly data.
+
+**When do you need to centre moving averages?**
+Centre them when the moving average has an even number of points, such as a 4-point average for quarterly data. Each average then falls between two time periods, so you average neighbouring pairs to line them up with actual quarters.
+
+**How do you calculate a seasonal component?**
+For each period, work out sales minus the centred moving average, then average these differences for each season. Working out moving average minus sales reverses the sign of every component.
+
+**How do you predict a future value from a time series?**
+Read the trend value for the period you want from the extended trend line, then add that season's component. Adding the component to an actual value instead of the trend value is a common error.
+
+**Where is time series in the Cambridge O Level Statistics 4040 and IGCSE 0479 syllabuses?**
+Time series is Topic 10 of Cambridge O Level Statistics 4040 for examination in 2025, 2026 and 2027, and Topic 12 of Cambridge IGCSE Statistics 0479 for 2027.
 
 ## Related pages
 

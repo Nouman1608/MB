@@ -255,6 +255,20 @@ point about each substance, plus the energy link.
 - [Tick-off checklist](/checklists/oxfordaqa/igcse/chemistry/)
 - [Ten-minute diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**What is the difference between a covalent bond and an intermolecular force?**
+A covalent bond is the strong bond inside a molecule that holds its atoms together. An intermolecular force is a weak force between neighbouring molecules, and it is the only force overcome when a simple molecular substance melts or boils.
+
+**Why do metals conduct electricity and heat?**
+Metals contain delocalised electrons that can move through the whole structure. Moving electrons carry charge, giving electrical conduction, and carry energy, giving thermal conduction.
+
+**What is the difference between simple molecular and giant covalent substances?**
+Both are covalently bonded, but simple molecular substances are made of separate molecules and have low melting points, while giant covalent substances have strong covalent bonds throughout and very high melting points.
+
+**Why do simple molecular substances not conduct electricity?**
+Their molecules have no overall electric charge, and there are no ions or free electrons, so there are no charged particles to carry a current in any state.
+
 ## Official syllabus
 
 Published by OxfordAQA: the International GCSE Chemistry (9202) specification, Version 6.2, valid

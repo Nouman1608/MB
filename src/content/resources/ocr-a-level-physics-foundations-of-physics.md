@@ -12,11 +12,11 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "foundations-of-physics-ocr-alevel"
-description: "Physical quantities and units, making measurements and analysing data, and the nature of scalars and vectors -- the full content of Module 2 for OCR A Level Physics A (H556)."
+description: "Study guide to Module 2 of OCR A Level Physics A (H556): SI units and prefixes, homogeneity, uncertainties and errors, and resolving and adding vectors."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -167,6 +167,23 @@ calculation, and always resolve vectors into perpendicular components
 using a labelled sketch rather than trying to do it mentally, since
 labelled diagrams also earn method marks even if a final numerical
 answer is wrong.
+
+## Frequently asked questions
+
+**What are the SI base units in OCR A Level Physics?**
+OCR H556 examines six of the seven SI base quantities: mass (kg), length (m), time (s), current (A), temperature (K) and amount of substance (mol). Luminous intensity is not examined.
+
+**What is the difference between precision and accuracy?**
+Precise results are closely clustered together, while accurate results are close to the true value. An instrument with a zero error can give precise but consistently inaccurate readings.
+
+**What is the difference between a systematic error and a random error?**
+A systematic error, such as a zero error, shifts every reading in the same way. A random error is unpredictable variation between repeated readings, which repeating and averaging reduces.
+
+**How do you check if a physics equation is homogeneous?**
+Write the base units of each side of the equation and check that they match. An equation whose units do not balance cannot be correct.
+
+**When do you use sin and cos to resolve a vector?**
+Use F cos θ for the component along the axis from which the angle is measured, and F sin θ for the component perpendicular to that axis. Swapping them is one of the most common mechanics errors.
 
 ## Related resources
 

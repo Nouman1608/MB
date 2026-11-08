@@ -12,11 +12,17 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-source-based-reading-and-directed-writing-9270"
-description: "Original exam-style practice questions with full worked answers on reading modern-world sources, visual/graphic texts, and directed writing for a specified audience and purpose."
+  - qualification: "igcse"
+    topic: "paper-2-source-based-reading-and-directed-writing-9270"
+    subtopic: "section-a-reading-9270"
+  - qualification: "igcse"
+    topic: "paper-2-source-based-reading-and-directed-writing-9270"
+    subtopic: "section-b-writing-9270"
+description: "Original practice with worked answers on modern-world sources, visual and graphic texts and directed writing for OxfordAQA GCSE English Language 9270."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-04
 featured: false
 ---
@@ -90,3 +96,17 @@ Related: [Source-based Reading and Directed Writing study guide](/resources/igcs
 ## Approaching Section A and Section B together
 
 Because Paper 2 tests reading and writing skills that reinforce each other, the strongest preparation treats them as one connected paper rather than two separate halves. Every technique identified and analysed in Section A — a rhetorical question, a short sentence for impact, a structural choice to end on hope rather than alarm — is a technique that can be deliberately deployed in Section B's directed writing, and examiners reward candidates who can do both: recognise a writer's craft when reading, and apply the same craft with control when writing for their own specified audience and purpose.
+
+## Frequently asked questions
+
+**Are these OxfordAQA 9270 Paper 2 questions from real past papers?**
+No. They are original questions written for Marlbridge, and the source text in Question 3 is an original passage. Use them alongside the official past papers available free from OxfordAQA.
+
+**Why should I revise reading and directed writing together for Paper 2?**
+Paper 2's reading and writing skills reinforce each other. Every technique you analyse in Section A, such as a rhetorical question or a short sentence for impact, can be deliberately used in your own Section B writing for its specified audience and purpose.
+
+**What is a common mistake when analysing a persuasive technique?**
+Naming or describing the technique without explaining its effect on the reader. Analysis marks depend on showing how the language works, not just that it is present.
+
+**What do these OxfordAQA International GCSE English Language practice questions cover?**
+They cover modern-world sources, visual and graphic texts and directed writing for OxfordAQA International GCSE English Language (9270) Paper 2, with worked answers.

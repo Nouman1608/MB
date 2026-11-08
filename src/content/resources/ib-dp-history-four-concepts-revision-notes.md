@@ -1,121 +1,168 @@
 ---
-title: "IB DP History: The Four Historical Concepts -- Revision Notes"
+title: "IB DP History: The Six Key Concepts -- Revision Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["ib"]
-topic: "Historical concepts (cause and consequence, continuity and change, perspectives, significance)"
+topic: "Key concepts (change, continuity, causation, consequence, significance, perspectives)"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP History"]
-syllabusSeries: "First assessment 2028"
+syllabusSeries: "First assessment 2017"
 order: 3
-description: "Condensed revision notes on the four historical concepts that structure every DP History paper -- cause and consequence, continuity and change, perspectives, significance -- applicable regardless of which focused study, thematic study or regional study your class covered."
+description: "Revision notes on IB DP History's six key concepts (first assessed 2017): definitions, question wording, a worked example, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: rewritten from the 2028 four-concept framing to the six key concepts of the current course (first assessment 2017) per owner decision; slug kept; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
 
-Because DP History has extensive optionality -- one of five focused-study options, one of four
-thematic-study options and, at HL, one of four regions -- the [full syllabus
-guide](/resources/ib-dp-history-syllabus-guide/) notes that the same four concepts structure questions
-across all three external papers regardless of which specific options your class studied. These notes
-focus on those four transferable concepts, alongside the
-[subject overview](/resources/ib-dp-history-subject-guide/) and
-[assessment revision notes](/resources/ib-dp-history-assessment-revision-notes/) already on the site --
-content that stays useful whichever focused study, thematic study or regional study you have been
-taught.
+IB DP History (first assessed 2017, examined until 2027) is built on
+**six key concepts: change, continuity, causation, consequence,
+significance and perspectives**. Exam questions are worded around them,
+so recognising the concept in a question tells you how to structure the
+answer. These notes condense each concept for quick recall. For the
+fuller guide, see the
+[six key concepts study guide](/resources/ib-dp-history-four-concepts/).
 
-## Cause and consequence
+## Quick definitions
 
-Explains why events happened and what resulted from them. Revise the distinction between different
-categories of cause -- long-term (underlying conditions building over years or decades), short-term
-(immediate triggers), and the distinction between cause and mere correlation (two things happening
-around the same time does not by itself establish that one caused the other). A strong answer
-explicitly ranks or weighs causes rather than listing them with equal, unexplained weight, and follows
-the same logic through to consequences -- distinguishing immediate consequences from longer-term ones.
+| Concept | One-line definition | Typical question wording |
+|---|---|---|
+| Change | How far things became different over time | "How far did … change…?" |
+| Continuity | What persisted or stayed the same | "To what extent did … remain…?" |
+| Causation | Why an event or development happened | "Why…?", "Discuss the reasons…", "To what extent was … the main cause…?" |
+| Consequence | What resulted from it | "Examine the impact…", "Discuss the effects…" |
+| Significance | Why it matters, judged by criteria | "Evaluate the significance…" |
+| Perspectives | How and why views of it differ | Paper 1 source comparison; "Evaluate the claim that…" |
 
-## Continuity and change
+## Change and continuity
 
-Asks what stayed the same and what changed over a given period, and how much change actually occurred.
-Revise the exam-relevant trap here directly: a period that looks, at first glance, like sweeping change
-often contains genuine continuities underneath, and a period that looks stable can contain significant
-underlying change not yet visible on the surface. A strong answer resists an all-or-nothing verdict
-("everything changed" or "nothing really changed") in favour of a specific, evidenced account of what
-changed, what continued, and for whom.
+- Almost every period shows both. Measure the **extent**, **pace** and
+  **beneficiaries** of change.
+- Useful structure: what changed, what continued, overall judgement.
+- Trap: "everything changed after the revolution". Name what did not
+  change (for example, peasant living standards, or the power of an
+  elite).
 
-## Perspectives
+## Causation
 
-Asks whose viewpoint a historical account, source or interpretation represents, and how that shapes
-what is emphasised or omitted. Revise being able to identify multiple plausible perspectives on the
-same event -- a colonial power's official record of an event and the perspective of a colonised
-population affected by it, for instance, can differ substantially even when describing the same facts.
-This concept connects directly to source evaluation: recognising a source's perspective is a
-precondition for evaluating its reliability and use for a given historical question.
+- Distinguish **long-term** (underlying conditions), **short-term**
+  (immediate) and **trigger** causes.
+- Distinguish **necessary** causes (without which it would not have
+  happened) from **sufficient** ones (enough on their own).
+- Rank the causes and explain links between them.
+- Trap: a list of causes with no judgement on which mattered most.
+
+## Consequence
+
+- Separate **intended** and **unintended**, **short-term** and
+  **long-term**, **political, economic and social** effects.
+- Consequences differ for different groups: say *for whom*.
+- Trap: drifting from consequences into causes of a later event
+  without saying so.
 
 ## Significance
 
-Asks why a particular event, individual or development matters historically -- to whom, and by what
-criteria. Revise that significance is not a fixed, objective property of an event but is argued for
-using explicit criteria (scale of impact, how long-lasting the effects were, how the event or figure
-has been remembered or commemorated since). A strong answer states which criteria it is using to argue
-significance, rather than asserting significance without justification.
+- Significance is argued using criteria, for example the **scale** of
+  impact, how many people were affected, how long the effects lasted,
+  and whether it was a **turning point**.
+- State the criteria in the introduction, then apply them.
+- Trap: "this was very significant" with no criteria.
 
-## Why revising all four concepts together matters more than content alone
+## Perspectives
 
-Because these four concepts structure questions across Paper 1 (source-based, on your focused study),
-Paper 2 (on your thematic study), and, at HL, Paper 3 (on your regional studies), practising "concept
-revision" and "content revision" as two separate tracks leaves a real gap. For any historical event,
-figure or development you study in your specific focused study, thematic study or regional study,
-practise generating a short answer to all four concept questions -- what caused it and what resulted;
-what changed and what continued; whose perspectives are represented and how they differ; why it
-matters and by what criteria -- so the concepts become a reusable analytical habit, not abstract
-definitions memorised separately from real content.
+- Covers views at the time (participants, governments, groups) and
+  later **historiography**.
+- Explain *why* a perspective was held: position, purpose, nationality,
+  date, access to evidence.
+- In Paper 1, perspective links to origin and purpose in Questions 2
+  and 3.
+- Trap: naming a historian without using their view in the argument.
 
-## How to approach it
+## Worked example: classifying questions
 
-Because your class studies only one focused-study option, one thematic-study option and (at HL) one
-region, apply this concept framework specifically to the content your own course actually covered, not
-to generic historical knowledge -- these four concepts are transferable tools for analysing whichever
-specific content you have studied, not a substitute for knowing that content in real depth. Practising
-past-paper-style questions that explicitly name one of the four concepts (for example, "evaluate the
-significance of...") is efficient revision precisely because the same concept-application skill
-transfers across your focused study, thematic study and, at HL, regional studies, even though the
-specific historical content differs completely between them.
+| Question | Concept | Plan in one line |
+|---|---|---|
+| "Discuss the reasons for the outbreak of the Korean War." | Causation | Rank internal Korean, Soviet and US causes |
+| "Examine the impact of industrialization on working conditions in one country." | Consequence | Effects by group and period |
+| "Evaluate the significance of the Berlin Blockade." | Significance | Criteria: impact on alliances, on Germany, on the Cold War |
+| "To what extent did Stalin's policies change Soviet society?" | Change and continuity | What changed, what persisted, judgement |
+
+## Phrase bank: writing with the concepts
+
+- **Change:** "The most significant change was…", "Change was rapid
+  in the cities but slow in the countryside…"
+- **Continuity:** "Despite the new constitution, … remained…"
+- **Causation:** "The long-term cause was…, but the trigger was…",
+  "Without …, the event would not have happened when it did."
+- **Consequence:** "The immediate result was…; in the longer term…",
+  "An unintended consequence was…"
+- **Significance:** "Judged by its long-term impact, … was more
+  significant than…"
+- **Perspectives:** "Writing in …, and as a …, the author was likely
+  to…", "Revisionist historians have argued instead that…"
+
+Using one of these openings at the start of a paragraph makes the
+concept visible to the examiner and keeps the paragraph analytical.
+
+## How does each paper use the concepts?
+
+- **Paper 1:** perspectives and significance of sources; Question 4
+  often asks about causation or consequence.
+- **Paper 2:** causation, consequence, change and continuity, usually
+  across two examples from different regions.
+- **Paper 3 (HL):** all six, in greater depth on one region.
+- **Internal assessment:** perspectives of sources in Section 1 and
+  historians' methods in Section 3.
+
+## Quick drill
+
+Take any essay question from your own world history topics or HL
+sections and, in one minute, write the concept above it, then a
+one-line thesis that uses the concept's language. Repeat with ten
+questions and the habit becomes automatic in the exam.
+
+## Common mistakes
+
+- Treating the concepts as definitions to memorise rather than ways to
+  organise an answer.
+- Ignoring continuity in a "change" question.
+- Unranked causes; unstated significance criteria.
+- Using a historian's name as decoration.
 
 ## Self-test
 
-1. Distinguish long-term causes from short-term causes, and explain why correlation is not the same as
-   causation.
-2. Why should a strong "continuity and change" answer avoid an all-or-nothing verdict?
-3. Give an example of how perspective might differ between two groups describing the same historical
-   event.
-4. What must a strong answer do to properly argue for an event's historical significance, beyond simply
-   asserting that it was significant?
-5. Why does practising all four concepts together, applied to your own studied content, matter more
-   than memorising the four concept definitions in the abstract?
+1. Name the six key concepts.
+2. What is the difference between a necessary and a sufficient cause?
+3. Which concept does "Examine the impact of…" target?
+4. What must you state before arguing significance?
+5. Which Paper 1 questions draw most on perspectives?
+6. Why should a "change" question also discuss continuity?
 
-**Answers:** 1. Long-term causes are underlying conditions that build over years or decades;
-short-term causes are immediate triggers. Correlation (two things occurring around the same time) does
-not by itself establish that one caused the other -- a genuine causal claim requires evidence of an
-actual mechanism connecting cause to effect. 2. Because periods of apparent sweeping change can contain
-genuine continuities beneath the surface, and periods that look stable can contain significant
-underlying change -- an all-or-nothing verdict oversimplifies what the evidence usually shows. 3. Any
-valid example, e.g. a colonial power's official record of an event versus the perspective of a
-colonised population directly affected by it, which can differ substantially even when both describe
-the same underlying facts. 4. It must state explicit criteria for judging significance (such as scale
-of impact, how long-lasting the effects were, or how the event has been remembered since) and argue the
-case against those criteria, rather than asserting significance without justification. 5. Because these
-four concepts are the actual structure Paper 1, Paper 2 and (at HL) Paper 3 questions are built around,
-so the transferable skill of applying them to real, specific content is what is examined -- knowing the
-concept definitions without being able to apply them to your own focused study, thematic study or
-regional study content does not, on its own, answer an exam question.
+**Answers:** 1. Change, continuity, causation, consequence,
+significance, perspectives. 2. A necessary cause had to be present; a
+sufficient cause was enough on its own. 3. Consequence. 4. Your
+criteria. 5. Questions 2 and 3 (value and limitations; comparing
+sources). 6. Because the extent of change can only be judged against
+what stayed the same.
+
+## Frequently asked questions
+
+**Do I need to define the key concepts in an essay?**
+No. Use the concept to organise your argument; a definition earns
+nothing on its own.
+
+**How do I show significance convincingly?**
+State two or three criteria, such as scale, duration and impact on
+later events, and judge the event against each.
+
+**Are the concepts the same at SL and HL?**
+Yes. HL students apply the same six concepts in more depth on Paper 3.
 
 ## Official syllabus
 
-International Baccalaureate Organization, *Diploma Programme Subject Brief -- Individuals and
-Societies: History*, first assessment 2028, (c) 2025 -- the same source already cited by the
-[full syllabus guide](/resources/ib-dp-history-syllabus-guide/), which first identified these four
-concepts as the structuring framework across all three external papers.
+International Baccalaureate Organization, *Diploma Programme Subject
+Brief — History*, first assessments 2017 (republished 2020). Practise
+with the [key concepts practice questions](/resources/ib-dp-history-four-concepts-practice/).

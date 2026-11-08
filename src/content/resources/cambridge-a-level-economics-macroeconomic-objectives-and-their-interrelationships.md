@@ -266,6 +266,23 @@ Holding unemployment below the natural rate needs accelerating inflation. The ec
 - Treating a currency fall as always good for the current account. Elasticities decide this, and inflation can wipe out the gain.
 - Listing links without a reason. Each link needs a short chain of cause and effect.
 
+## Frequently asked questions
+
+**Which Cambridge 9708 sections does this macroeconomic objectives guide cover?**
+It covers sections 10.1.1 and 10.2.1 to 10.2.5 of the Cambridge International AS and A Level Economics 9708 syllabus: government macroeconomic objectives and the links between macroeconomic problems, including the traditional and expectations-augmented Phillips curves.
+
+**Does the Phillips curve show that inflation causes unemployment?**
+No. The Phillips curve shows an association between inflation and unemployment, and the causes lie in aggregate demand, wages and expectations.
+
+**Where is the long-run Phillips curve drawn?**
+The long-run Phillips curve is vertical at the natural rate of unemployment, not at zero unemployment. Supply-side policy that lowers the natural rate shifts it left.
+
+**Is a currency depreciation always good for the current account?**
+No. The price elasticities of demand for exports and imports decide whether the current account improves, and the resulting inflation can wipe out the gain.
+
+**Why do macroeconomic objectives conflict?**
+Achieving one objective can make another harder, for example demand-led growth near full capacity can cause inflation and raise imports. Ranking the objectives is a value judgement, so name the conflict and explain its mechanism.
+
 ## Official syllabus
 
 Cambridge International AS and A Level Economics (9708) syllabus for examination in 2026, 2027 and 2028, Cambridge University Press & Assessment, sections 10.1.1 and 10.2.1 to 10.2.5.

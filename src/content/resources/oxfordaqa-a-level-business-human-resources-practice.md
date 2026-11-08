@@ -136,6 +136,17 @@ Before you start, skim the [study guide](/resources/oxfordaqa-a-level-business-h
 - Ignoring the case figures (spans, savings, turnover) when evaluating.
 - Giving a judgement that is not linked back to the business's stated objective.
 
+## Frequently asked questions
+
+**Is pay a motivator in Herzberg's theory?**
+No. In Herzberg's theory pay is a hygiene factor, which prevents dissatisfaction rather than motivating staff, so treating pay as a Herzberg motivator is a common error.
+
+**How do you use a motivation theory in an exam answer?**
+Apply the theory to the business and workers in the question, explaining what it suggests the business should do and why. Describing a theory in general terms without applying it limits the marks.
+
+**Which OxfordAQA 9725 sections do these questions cover?**
+They cover the human resources topic, sections 3.2.2.1 to 3.2.2.5, of OxfordAQA International AS and A-level Business (9725): HR objectives and planning, HR data, organisational design, motivation and employer-employee relations.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/oxfordaqa-a-level-business-human-resources-revision-notes/).

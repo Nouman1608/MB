@@ -13,7 +13,7 @@ order: 522
 syllabusTopics:
   - qualification: "o-level"
     topic: "mensuration"
-description: "Condensed formulas, methods, a quick self-test and common slips for Mensuration in Cambridge O Level Mathematics 4024, sections 5.1 to 5.5."
+description: "Condensed formulas, methods, a quick self-test and common slips for Mensuration in Cambridge O Level Mathematics 4024, syllabus sections 5.1 to 5.5."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25
 featured: false
@@ -277,6 +277,23 @@ Try these without notes. Questions 3 and 10 are best done without a calculator.
 - Writing cm² where cm³ is needed, or leaving units off.
 
 Before moving on, work through the [mensuration practice set](/resources/o-level-mathematics-mensuration-practice/) and revisit the [study guide](/resources/o-level-mathematics-mensuration/) for any weak section.
+
+## Frequently asked questions
+
+**Which mensuration formulas are given in the Cambridge O Level Mathematics 4024 exam?**
+According to these notes, formulas such as the area of a circle, circumference, cylinder, cone, sphere, prism and pyramid volumes are given. You must learn the rectangle, parallelogram and trapezium areas, arc length, sector area and cuboid surface area.
+
+**How do you find arc length and sector area?**
+Use the fraction of the circle: arc length = (θ/360) × 2πr and sector area = (θ/360) × πr². The same formulas work for major sectors, where the angle is above 180°.
+
+**How do you find the volume of a frustum?**
+A frustum is a cone with a smaller, similar cone removed from the top. Find the volumes of both cones and subtract.
+
+**What happens to the volume when a solid is melted and recast?**
+The volume stays the same. Equate the volumes of the two solids and solve for the missing length.
+
+**What is the difference between capacity and volume?**
+Capacity is measured in ml or litres, while volume is measured in cm³ or m³. 1 cm³ = 1 ml and 1 litre = 1000 cm³.
 
 ## Official syllabus
 

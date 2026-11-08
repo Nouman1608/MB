@@ -9,13 +9,13 @@ qualifications: ["igcse"]
 syllabusCodes: ["9270"]
 syllabusSeries: "First teaching 2016, first examined 2018"
 order: 3
-description: "How OxfordAQA International GCSE English Language 9270's compulsory Paper 1 combines with either the Route A exam or the Route B non-exam assessment, and a worked composition-planning routine."
+description: "Exam preparation for OxfordAQA International GCSE English Language 9270: compulsory Paper 1 with Paper 2 or the NEA route, and a worked composition plan."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 OxfordAQA International GCSE English Language (9270) is a linear qualification with a compulsory
@@ -110,6 +110,18 @@ composition tends to expand in the middle and stop rather than conclude.
 - **During Paper 1**: plan the ending before writing, and reserve four minutes for a targeted
   accuracy check.
 - **In every reading answer**: give the choice, the effect, and the reason for the effect.
+
+## Frequently asked questions
+
+**Which 9270 papers must I take?**
+Paper 1 (2 hours, 80 marks, 60%) plus either Paper 2 (2 hours, 80 marks, 40%) or the non-exam assessment project.
+
+**How are Paper 1's marks split?**
+40 marks for Section A literary non-fiction and 40 for the Section B composition.
+
+**Is there a speaking component?**
+An optional speaking and listening endorsement, reported separately.
+
 
 ## Self-test
 

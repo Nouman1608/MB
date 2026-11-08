@@ -254,6 +254,20 @@ Be careful about cause. The rise may owe something to new equipment or seasonal 
 - Treating a style as always good or always bad. Justify it by the situation.
 - Calling a profit-share a bonus for individual effort.
 
+## Frequently asked questions
+
+**What are the four traditional functions of a manager?**
+Planning, organising, directing (also called leading) and controlling, as covered in Cambridge 9609 section 2.3.
+
+**What is the difference between job enrichment and job re-design?**
+Job re-design is any change to the tasks in a job, such as rotating tasks to reduce boredom. Job enrichment specifically adds responsibility, planning or decision-making to a job.
+
+**What is a paternalistic management style?**
+The manager still makes the decisions but shows concern for staff welfare and explains the reasons. It suits staff who value security but can be seen as patronising.
+
+**Is money a motivator?**
+It depends on the workforce and the job. Taylor saw pay as the main motivator, while Herzberg treats pay as a hygiene factor, so answers should avoid saying money always or never motivates.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, sections 2.2.1 to 2.3.1.

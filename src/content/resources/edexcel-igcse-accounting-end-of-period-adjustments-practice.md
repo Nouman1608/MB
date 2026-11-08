@@ -212,6 +212,20 @@ Opening accrual on the credit side [1]; bank payments on the debit side [1]; clo
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What goes into the statement of profit or loss for the provision for irrecoverable debts?**
+Only the change in the provision goes to the statement of profit or loss: an increase is an expense and a decrease is credited as income. Sending the whole provision, or calculating it before removing irrecoverable debts, are common errors in Edexcel IGCSE Accounting (4AC1).
+
+**How should you explain a cause of depreciation?**
+Name the cause, such as wear and tear, obsolescence, passage of time or depletion, and link it to the asset described in the question. Giving only a label with no link to the asset loses marks.
+
+**Is a prepayment an asset or a liability?**
+A prepayment is an other receivable, a current asset, because the business has paid for a benefit it has not yet received. An accrual is an other payable, a current liability; swapping the two is a common error.
+
+**How do you label a disposal account answer?**
+State the balancing figure clearly as a profit or a loss on disposal, and include accumulated depreciation in the account. A figure without the word profit or loss does not earn full credit.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited: Topic 5, sections 5.2 Depreciation, 5.3 Irrecoverable debts and 5.4 Other receivables and other payables.

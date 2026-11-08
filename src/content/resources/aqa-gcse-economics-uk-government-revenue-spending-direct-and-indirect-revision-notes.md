@@ -219,6 +219,20 @@ Tax X is progressive (5% rises to 8%). Tax Y is proportional (10% at both). Tax 
 - Giving a general answer such as "tax goes on services" when asked for a named area of spending.
 - Quoting a made-up "real" figure when the question gives data to use.
 
+## Frequently asked questions
+
+**What is the difference between the average and marginal rate of tax?**
+The average rate is total tax divided by income. The marginal rate is the rate on the next slice of income.
+
+**What is the difference between a tax and a charge?**
+A tax is compulsory, whereas a charge such as a licence fee may be tied to using a particular service.
+
+**What is the difference between transfer spending and service spending?**
+Transfer spending, such as pensions and benefits, moves money to households; service spending pays for services such as health and education.
+
+**Is borrowing a type of government revenue from tax?**
+No. Borrowing is not a tax; it covers the gap when government spending is more than revenue.
+
 ## Official syllabus
 
 AQA GCSE Economics (8136), specification for first teaching from September 2017, published by AQA: section 3.2.1.2 Government income and expenditure.

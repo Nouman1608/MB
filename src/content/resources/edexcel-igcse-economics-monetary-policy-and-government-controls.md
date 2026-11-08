@@ -285,6 +285,23 @@ The same limit is reached at a lower total cost. Any price between 30 and 80 mak
 - Giving advantages without disadvantages. The specification asks for both, so a judgement needs both.
 - Mixing up the exchange rate and the interest rate. They are linked but different.
 
+## Frequently asked questions
+
+**How does a rise in interest rates reduce inflation?**
+Higher rates make borrowing dearer and saving more rewarding, so consumers spend less and firms invest less. Aggregate demand falls, which reduces demand-pull pressure, and a stronger currency also makes imports cheaper.
+
+**What is asset purchasing by a central bank?**
+Asset purchasing, often called quantitative easing, is when the central bank creates money electronically and uses it to buy assets, mainly government bonds. It is used when interest rates are already very low, to push down borrowing costs and support spending.
+
+**Why might monetary policy fail?**
+Time lags slow its effect, weak confidence can stop people borrowing even at low rates, and higher rates do not cure cost-push inflation such as dearer oil. Fighting inflation can also raise unemployment.
+
+**How do interest rates affect the exchange rate?**
+A higher interest rate can attract foreign savers, who must buy the country's currency, so its value tends to rise. A lower rate tends to make the currency fall, which makes exports cheaper abroad and imports dearer at home.
+
+**Why are tradable pollution permits efficient?**
+The government sets a total limit on pollution, and firms that can cut emissions cheaply sell spare permits to firms that find cutting costly. The same limit is reached at a lower total cost.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1), Specification, Issue 3, February 2026, for first teaching September 2017, published by Pearson Education Limited. Section 2.1.2 Government policies, parts b) and d).

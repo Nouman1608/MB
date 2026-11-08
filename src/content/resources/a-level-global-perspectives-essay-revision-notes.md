@@ -13,7 +13,7 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "component-2-essay-9239"
-description: "Condensed revision notes on choosing a question, sourcing, evaluating perspectives and referencing for Cambridge AS & A Level Global Perspectives & Research Component 2 Essay (9239)."
+description: "Condensed revision notes on choosing a question, sourcing, evaluating perspectives and referencing for the Cambridge AS Level Global Perspectives 9239 Essay."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -136,3 +136,20 @@ Because the Essay is the one component candidates complete almost entirely indep
 management and self-discipline matter as much as research skill — set interim deadlines for choosing a
 question, completing research, and finishing a first draft well ahead of the final submission date,
 since there is no team or teacher-set structure to create those checkpoints automatically.
+
+## Frequently asked questions
+
+**What do genuinely contrasting perspectives look like in a 9239 essay?**
+They disagree not only on the conclusion but on which values and evidence should carry most weight, for example user protection against free expression. A second perspective that softly restates the first does not count.
+
+**How do you justify a source in the Global Perspectives essay?**
+Briefly explain why the source was chosen: whether it is an authoritative primary source, a scholarly analysis, or a source representing one of the perspectives being compared. Being explicit about its standpoint supports the AO1 source-justification marks.
+
+**How many perspectives should a 1750–2000 word essay cover?**
+There is usually room for two or three perspectives developed with real evidence, not four or five sketched briefly. Draft with the word limit in mind from the start.
+
+**How is referencing assessed in the 9239 essay?**
+Quotations must be fully referenced and a list of sources is required. Referencing accuracy is assessed as part of AO3.
+
+**How should you manage time on the Global Perspectives essay?**
+Set interim deadlines for choosing a question, finishing research and completing a first draft well before submission. The essay is completed almost entirely independently, so there is no team or teacher-set structure to create checkpoints.

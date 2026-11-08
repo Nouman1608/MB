@@ -200,6 +200,20 @@ These questions cover Topic 11, Bivariate distributions, of the Cambridge IGCSE 
 - Take the [free 10-minute diagnostics](/diagnostics/) to find your weakest topics.
 - [Book a free trial class](/trial/) if you would like help from a teacher.
 
+## Frequently asked questions
+
+**How do you describe correlation for full marks?**
+Give both the direction and the strength, such as "strong negative correlation", and describe what it means in the context of the question. "Positive" on its own is not enough.
+
+**How should you draw a line of best fit?**
+Draw one straight line with a ruler, following the trend through the middle of the points. Joining the points with a zigzag does not count as a line of best fit.
+
+**Why do you sort the data before using semi-averages?**
+The method splits the data into a lower half and an upper half by x value, so the pairs must be in order of x first. Splitting unsorted data gives the wrong mean points.
+
+**Which part of the 0479 syllabus do these questions cover?**
+They cover Topic 11, Bivariate distributions, outcomes 11.1 to 11.7, of the Cambridge IGCSE Statistics (0479) syllabus for examination in 2027.
+
 ## Official syllabus
 
 Cambridge IGCSE Statistics 0479 syllabus for examination in 2027, Topic 11 Bivariate distributions, published by Cambridge University Press & Assessment (Cambridge International).

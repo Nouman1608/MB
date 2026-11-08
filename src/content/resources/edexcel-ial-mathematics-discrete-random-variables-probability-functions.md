@@ -317,6 +317,20 @@ n² = 100, so n = 10   (n is positive)
 7. Using the uniform formulas directly for values that do not run 1 to n, instead of shifting first.
 8. Rounding E(X) before squaring it in the variance. Keep the exact value until the end.
 
+## Frequently asked questions
+
+**What is a discrete random variable?**
+A discrete random variable is a quantity decided by chance that can take only separate values, such as counts. A capital letter X names the variable and a lowercase x is one particular value.
+
+**What is a cumulative distribution function?**
+The cumulative distribution function F(x₀) = P(X ≤ x₀) adds up the probabilities of all values up to and including x₀. Its final value must be 1.
+
+**What is a discrete uniform distribution?**
+A variable has a discrete uniform distribution when it takes n values and each is equally likely, such as the score on a fair six-sided die.
+
+**Why must you not round E(X) before finding the variance?**
+Squaring a rounded mean carries the rounding error into Var(X). Keep the exact value of E(X) until the end.
+
 ## Next steps
 
 Try the [practice questions](/resources/edexcel-ial-mathematics-discrete-random-variables-probability-functions-practice/) with the working covered, then use the [revision notes](/resources/edexcel-ial-mathematics-discrete-random-variables-probability-functions-revision-notes/) for the last few days. The [checklist](/checklists/edexcel/a-level/mathematics/) lets you tick off topics 5.1 to 5.4.

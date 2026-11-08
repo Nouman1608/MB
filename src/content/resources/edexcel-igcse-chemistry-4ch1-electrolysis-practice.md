@@ -182,6 +182,20 @@ Where needed: molar volume of a gas = 24 000 cm³ at rtp.
 - Take the [free all-topics diagnostic](/practice/4CH1/diagnostic/all-topics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What are the most common mistakes in 4CH1 electrolysis answers?**
+Frequent errors include saying "electrons move" in a molten or dissolved electrolyte instead of ions, writing Cl or Br instead of Cl₂ or Br₂, and forgetting the H⁺ and OH⁻ ions from water in an aqueous solution. Giving a gas test without its result also loses marks.
+
+**How do you predict the products of electrolysing an aqueous solution?**
+Remember that water adds H⁺ and OH⁻ ions. At the cathode a metal less reactive than hydrogen is deposited, otherwise hydrogen forms; at the anode a halogen forms from a concentrated halide solution, otherwise oxygen forms.
+
+**How do you use half-equations to link the amounts of products at each electrode?**
+Scale the two half-equations so they involve the same number of electrons, because the electrons lost at the anode equal those gained at the cathode. Using a 1 : 1 ratio without balancing electrons is a frequent error in Edexcel International GCSE Chemistry (4CH1) calculations.
+
+**What mistakes cost marks in electrolysis gas calculations?**
+Dividing a volume in cm³ by 24 instead of 24 000, or not giving the unit asked for, can lose the final mark. Use 24 dm³ or 24 000 cm³ for one mole of gas at room temperature and pressure.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Chemistry (4CH1), Specification, Issue 3, September 2024, published by Pearson Education Limited. Topic 1: Principles of chemistry, sub-topic (i) Electrolysis, statements 1.55C–1.60C.

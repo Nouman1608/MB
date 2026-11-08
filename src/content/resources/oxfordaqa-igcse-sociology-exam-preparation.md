@@ -9,13 +9,13 @@ qualifications: ["igcse"]
 syllabusCodes: ["9292"]
 syllabusSeries: "Version 1.0 -- for first teaching September 2026, first exams May/June 2028"
 order: 3
-description: "How the two equally weighted papers of the new OxfordAQA International GCSE Sociology 9292 divide their content, why research methods runs through both, and a worked concept-application routine."
+description: "Exam preparation for OxfordAQA International GCSE Sociology (9292): what each paper covers, research methods across both, and applying concepts to examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-09
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 OxfordAQA International GCSE Sociology (9292) is a **brand-new specification**: OxfordAQA states first
@@ -122,6 +122,20 @@ example, and an explanatory sentence showing how the example demonstrates the co
 is a brand-new specification (first teaching September 2026, first exams May/June 2028), so specimen
 assessment materials and accumulated teaching experience are still limited compared with established
 qualifications.
+
+## Frequently asked questions
+
+**When is OxfordAQA International GCSE Sociology 9292 first examined?**
+OxfordAQA states first teaching from September 2026, with first examinations from May/June 2028. The qualification is linear, untiered and has no coursework.
+
+**How long are the 9292 Sociology papers?**
+Paper 1 and Paper 2 each last 1 hour 30 minutes, carry 60 marks and are worth 50% of the qualification, which gives about 1.5 minutes per mark.
+
+**What topics are on each 9292 paper?**
+Paper 1 covers Families, Education and Research Methods. Paper 2 covers Differences and Inequalities, Socialisation and Social Control, and Research Methods.
+
+**How should you answer evaluation questions in 9292 Sociology?**
+Take a position, support it with evidence, consider the strongest counter-argument seriously and then reach a judgement.
 
 *Written against the assessment section of OxfordAQA's own new International GCSE Sociology (9292)
 qualification page (official OxfordAQA page, verified 2026-08-28), which states first teaching from

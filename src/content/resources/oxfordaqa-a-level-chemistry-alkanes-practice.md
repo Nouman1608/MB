@@ -236,6 +236,20 @@ end.
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does OxfordAQA A-level Chemistry 3.3.2 Alkanes cover?**
+Section 3.3.2 of OxfordAQA International AS and A-level Chemistry (9620) covers fractional distillation of crude oil, thermal and catalytic cracking, combustion and pollution, and the chlorination of methane. It is International AS content assessed in Unit 2 (Organic 1 and Physical 1).
+
+**What are common mistakes in alkanes questions?**
+Frequent errors include naming temperature as a difference between thermal and catalytic cracking when both are high, referring to bonds breaking when explaining boiling points, writing an alkene fragment as CₙH₂ₙ₊₂, and tracing the nitrogen in NOₓ to the fuel instead of the air.
+
+**How do you balance cracking equations?**
+Subtract the carbon and hydrogen of the known products from the starting alkane separately, then check each formula against CₙH₂ₙ₊₂ for alkanes or CₙH₂ₙ for alkenes. Writing an alkene fragment as CₙH₂ₙ₊₂ stops the hydrogen balancing.
+
+**What units should be used in pV = nRT for combustion volumes?**
+Use pressure in pascals and temperature in kelvin, which gives the volume in m³; multiply by 1000 for dm³. Leaving the pressure in kPa gives a volume 1000 times too large.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International

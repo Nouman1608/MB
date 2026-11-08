@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "overarching-themes-aqa-alevel-maths"
 description: "Condensed recall notes on proof, mathematical argument, modelling and problem solving for AQA A Level Mathematics 7357."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -187,3 +187,16 @@ Know what the calculator can and cannot do. It can solve equations, integrate nu
   <figcaption>Squaring is an implication one way only, so it can add false roots.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Why can examples not prove a mathematical statement?**
+A general statement claims something for all cases, so checking any number of examples cannot cover them all. A single counter-example, however, is enough to disprove it.
+
+**What should a criticism of a mathematical model include?**
+Name the assumption and state the direction of the error it causes, for example that ignoring air resistance overestimates range and speed.
+
+**Do you get marks for working if your final answer is wrong?**
+Yes. Method marks are awarded for a correct approach even when the final answer is wrong, so showing every step matters in AQA A Level Mathematics 7357.
+
+**What does show that mean in an A Level Maths question?**
+The answer is given in the question, so the marks are entirely for the method. Every step leading to the printed result must be visible.

@@ -263,6 +263,19 @@ because the decision is made one bond earlier.
   <figcaption>The functional groups first met at A Level (Cambridge).</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between an empirical formula and a molecular formula?**
+An empirical formula is the simplest whole-number ratio of atoms, while the molecular formula is the actual number of each atom in a molecule. Cyclohexane, C₆H₁₂, has the empirical formula CH₂.
+
+**What is the difference between structural isomers and stereoisomers?**
+Structural isomers have the same molecular formula but different structural formulas, so their atoms are connected differently. Stereoisomers have the same structural formula but a different arrangement of atoms in space.
+
+**Does Z mean the higher-priority groups are on the same side?**
+Yes. In the Z isomer the two higher-priority groups, decided by the CIP rules, are on the same side of the C=C bond; in the E isomer they are on opposite sides.
+
+**How do you count carbons in a skeletal formula?**
+Every line end and every corner is a carbon unless another atom is written there. A zigzag of four lines has five carbons: three corners plus two ends.
 
 ## Official syllabus
 

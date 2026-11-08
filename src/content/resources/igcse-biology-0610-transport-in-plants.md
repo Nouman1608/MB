@@ -27,11 +27,11 @@ syllabusTopics:
     subtopic: "translocation-cambridge-igcse-biology"
 description: "Study guide to xylem and phloem, water uptake, transpiration, wilting and translocation, with worked examples, for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This study guide teaches topic 8, Transport in plants, from the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. It covers sections 8.1 (Xylem and phloem), 8.2 (Water uptake), 8.3 (Transpiration) and 8.4 (Translocation). Core content can be tested on every paper. Supplement content is marked **Extended only** and is tested on Papers 2 and 4. Section 8.4 has no Core outcomes, so translocation is Extended only as a whole.
@@ -267,6 +267,20 @@ A storage organ works the same way. It is a sink while it is filling with starch
 - Recall drill and a quick self-test: [transport in plants revision notes](/resources/igcse-biology-0610-transport-in-plants-revision-notes/)
 - Exam-style questions with marked answers: [transport in plants practice](/resources/igcse-biology-transport-in-plants-practice/)
 - Why the leaf needs water and where sucrose comes from: [Plant nutrition study guide](/resources/igcse-biology-0610-plant-nutrition/)
+
+## Frequently asked questions
+
+**What is transpiration?**
+Transpiration is the loss of water vapour from leaves. Water evaporates from the surfaces of mesophyll cells into the air spaces and then diffuses out through the stomata.
+
+**What is translocation in Cambridge IGCSE Biology 0610?**
+Translocation is the movement of sucrose and amino acids in phloem from sources to sinks. It is Extended only content.
+
+**What is the difference between a source and a sink?**
+A source is a part of the plant that releases sucrose or amino acids into the phloem, such as a mature leaf. A sink is a part that uses or stores them, such as a growing region or storage organ, and some parts change role at different times.
+
+**How do you show the pathway of water with a stain?**
+Stand a freshly cut celery stalk in water containing a dye, then cut a section after some time. Coloured spots appear in a ring where the xylem is, showing that water travels in the xylem.
 
 ## Official syllabus
 

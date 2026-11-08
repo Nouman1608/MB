@@ -167,6 +167,20 @@ These questions cover statements B3.3f to B3.3j of module B3.3 in OCR GCSE (9-1)
 - Find weak spots with the [all free 10-minute diagnostics](/diagnostics/).
 - Want a teacher to go through your answers? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you explain what happens to a cell in a salt solution for full marks?**
+Say which way the water moves, name osmosis and compare the water potentials inside and outside the cell. "The cell shrinks" alone describes the result but does not explain it.
+
+**What is the difference between the ureter and the urethra?**
+The ureter carries urine from each kidney to the bladder, and the urethra releases urine from the bladder. Mixing them up is a common way to lose marks.
+
+**How do you describe urine when the body is short of water?**
+Describe both features: a small volume of concentrated urine. Saying only "concentrated" without mentioning the small volume, or the reverse, leaves the answer incomplete.
+
+**What should an answer about dehydration include?**
+Link each response to its cause: sweat loss makes the blood more concentrated, the hypothalamus detects this, thirst is triggered and more ADH increases collecting duct permeability, so more water is reabsorbed. A bare list of responses gains less credit.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018, published by OCR.

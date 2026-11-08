@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-p1-pure-maths-oxfordaqa-alevel-maths"
     subtopic: "p1-differentiation-oxfordaqa-alevel-maths"
-description: "Condensed revision notes on OxfordAQA 9660 P1.3 differentiation: rules, tangents, normals, stationary points, optimisation and a self-test."
+description: "Condensed exam revision notes on OxfordAQA 9660 P1.3 differentiation: rules, tangents, normals, stationary points, optimisation and a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -216,6 +216,20 @@ Try these without looking below. Use the working space on paper.
 - Rounding too early, which spoils later answers; keep exact values until the end.
 - Losing a fractional power when simplifying: 2x^(3/2) differentiates to 3x^(1/2), and the coefficient 3 is easy to miscopy.
 - Using the second-derivative test on a point that is not stationary; always solve dy/dx = 0 first.
+
+## Frequently asked questions
+
+**Is differentiation from first principles tested in OxfordAQA 9660 Unit P1?**
+No. The specification says differentiation from first principles is not tested, although you need a general appreciation of the limit idea. Points of inflection are not required either.
+
+**How do you find the gradient of the normal to a curve?**
+Find the gradient of the tangent, m = f'(a), then take the negative reciprocal, −1/m. Using the tangent gradient or forgetting the minus sign are common errors.
+
+**How do you find where a function is increasing or decreasing?**
+Solve f'(x) = 0 to find the boundaries, then test the sign of f'(x) in each interval. The function is increasing where f'(x) > 0 and decreasing where f'(x) < 0.
+
+**What is the power rule for differentiation?**
+If y = axⁿ, then dy/dx = anxⁿ⁻¹, for any rational n. For example, x^(5/2) differentiates to (5/2)x^(3/2).
 
 ## Official syllabus
 

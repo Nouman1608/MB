@@ -12,11 +12,20 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "data-transmission-2210"
-description: "Condensed recall notes on packet switching, transmission methods, error detection and encryption for Topic 2 of Cambridge O-Level Computer Science (2210), 2026-2028 series."
+  - qualification: "o-level"
+    topic: "data-transmission-2210"
+    subtopic: "types-and-methods-of-data-transmission"
+  - qualification: "o-level"
+    topic: "data-transmission-2210"
+    subtopic: "methods-of-error-detection"
+  - qualification: "o-level"
+    topic: "data-transmission-2210"
+    subtopic: "encryption"
+description: "Recall notes for Cambridge O Level Computer Science 2210 Topic 2 (2026-2028): packet switching, transmission methods, USB, error detection, ARQ and encryption."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -128,6 +137,20 @@ different packets can travel different paths. 3. Parity check (bit count), check
 value), echo check (data sent back). A check digit is a separate, single-value validation of one
 piece of entered data, not a fourth transmission error-detection method. 4. The private key never
 needs to be transmitted. 5. Cambridge IGCSE Computer Science (0478).
+
+## Frequently asked questions
+
+**How does an automatic repeat query (ARQ) work?**
+The receiver sends a positive or negative acknowledgement to show whether the data arrived correctly. If no acknowledgement arrives within a set timeout, the data is automatically resent.
+
+**Why is serial transmission used over long distances?**
+Serial transmission sends bits one after another along a single wire, which is reliable over long distances. Parallel transmission is fast over short distances but prone to skew over long ones.
+
+**Why is error detection needed after transmission?**
+A network cannot guarantee a clean path from sender to receiver, so interference, congestion or equipment faults can cause data loss, gain or change on the way.
+
+**Does O Level Computer Science 2210 have the same content as IGCSE 0478?**
+Yes. 2210 shares its subject content and topic order with Cambridge IGCSE Computer Science 0478, and textbooks endorsed for 0478 are suitable for 2210.
 
 ## Official syllabus
 

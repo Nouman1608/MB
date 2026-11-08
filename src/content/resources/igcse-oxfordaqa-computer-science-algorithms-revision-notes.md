@@ -7,16 +7,16 @@ topic: "Topic 1 – Algorithms"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9210"]
-syllabusSeries: "Teaching from September 2017, exams from May/June 2019"
+syllabusSeries: "For teaching from September 2017, exams from May/June 2019"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "algorithms-9210"
-description: "Condensed recall notes on pseudocode, flowcharts, searching, sorting, trace tables and computational thinking for OxfordAQA International GCSE Computer Science 9210."
+description: "Recall notes for OxfordAQA International GCSE Computer Science 9210 Topic 1: computational thinking, flowcharts, pseudocode, searching, sorting, trace tables."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -149,3 +149,17 @@ Compare algorithms by the **number of steps or comparisons** needed, not by how 
 7. Why does "it is inefficient" earn no marks in an evaluation question?
 
 **Answers:** 1. Unambiguous, finite, and it produces a result. 2. Decomposition breaks a problem into smaller sub-problems; abstraction removes unnecessary detail to focus on what matters. 3. WHILE tests the condition before the loop body, so it may run zero times; REPEAT UNTIL tests afterwards, so it always runs at least once. 4. It must be sorted, because the algorithm discards half the data based on whether the target is above or below the middle item — which is only valid if the data is in order. 5. By the number of steps or comparisons required as the data set grows, not by execution time, which depends on the hardware. 6. A logic error is a fault where the algorithm runs and produces an output, but the output is wrong; it is typically found by tracing the algorithm through a trace table and comparing the recorded values against what is expected. 7. Because it does not identify the specific cause — a precise answer names the actual wasted step, such as a loop continuing to check after the target has already been found.
+
+## Frequently asked questions
+
+**What is the difference between decomposition and abstraction?**
+Decomposition breaks a problem into smaller, manageable sub-problems. Abstraction removes unnecessary detail to focus on what matters, as a London Underground map keeps the connections but not the real distances.
+
+**Which form of bubble sort does OxfordAQA 9210 require?**
+The specification requires two nested loops: a definite inner loop for one pass through the list and an indefinite outer loop that repeats only while the last pass made at least one swap.
+
+**How should you compare the efficiency of two algorithms?**
+Compare the number of steps or comparisons needed as the data grows, not how long the algorithm takes on a particular computer, which depends on the hardware.
+
+**What is the difference between WHILE and REPEAT UNTIL?**
+WHILE tests its condition before the loop body, so it may run zero times. REPEAT UNTIL tests afterwards, so it always runs at least once.

@@ -19,11 +19,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-language-and-literature-intertextuality"
 description: "Condensed IB DP Language and Literature HL essay notes: key facts, method steps, must-know distinctions and a quick self-test with answers."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 For full explanations and worked examples, use the [HL essay study guide](/resources/ib-dp-language-a-language-literature-hl-essay/).
@@ -215,6 +215,20 @@ then revisit [Readers, writers and texts](/resources/ib-dp-language-a-language-l
 and [Time and space](/resources/ib-dp-language-a-language-literature-time-and-space-revision-notes/)
 revision notes for analytical vocabulary. The [syllabus guide](/resources/ib-dp-language-a-language-and-literature-syllabus-guide/)
 gives the course structure.
+
+## Frequently asked questions
+
+**What is a line of inquiry in the IB HL essay?**
+A line of inquiry is the one focused, arguable question your essay answers. A topic names an area, such as control in a marriage; a line of inquiry asks how or why the writer creates an effect within it.
+
+**How do you build a line of inquiry?**
+Start with a topic, log evidence from the work before writing the question, name the pattern the evidence shows, then ask how the writer creates it. Finish with a one-sentence working thesis that answers it.
+
+**What is the difference between the HL essay and Paper 2?**
+In IB DP Language A: Language and Literature, the HL essay is coursework on one literary work or one non-literary body of work. Paper 2 is a timed comparative essay on two literary works, answering one of four questions.
+
+**What should you cut first if your HL essay is over the word limit?**
+Cut plot summary and repeated points first, not analysis. Setting a word budget for each section before drafting makes large cuts less likely.
 
 ## Official syllabus
 

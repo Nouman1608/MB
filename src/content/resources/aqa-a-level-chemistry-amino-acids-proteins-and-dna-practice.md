@@ -195,6 +195,23 @@ causing side effects such as kidney damage or nausea [1].
 - Writing the complementary strand by reversing the sequence instead of pairing A–T and G–C.
 - Giving vague adverse effects for cisplatin without saying it also affects healthy cells.
 
+## Frequently asked questions
+
+**Is amino acids, proteins and DNA in AQA AS Chemistry?**
+No. Section 3.3.13 of the AQA 7404/7405 specification is A-level only. Organic chemistry is on Paper 2, and Paper 3 can test any content.
+
+**How do you avoid losing marks when drawing amino acid ions?**
+Show the + and − charges on a zwitterion, and check the side chain for extra –NH₂ or –COOH groups, which also gain or lose H⁺. In alkaline solution no –NH₃⁺ group is possible, so every amine group stays as –NH₂.
+
+**How do you calculate the Mr of a peptide?**
+Add the Mr values of the amino acids, then subtract 18.0 for each peptide link formed, because one water molecule is lost per link. Subtracting water only once for a tripeptide is a common mistake.
+
+**Where should TLC distances be measured from when calculating Rf?**
+Measure both the spot and the solvent front from the baseline, not from the bottom edge of the plate. Measuring from the edge gives wrong Rf values and the wrong identification.
+
+**What do examiners want when you describe hydrogen bonds in proteins?**
+Name the groups involved, such as the C=O and N–H groups of peptide links in secondary structure. Also treat S–S bonds as covalent bonds, not as intermolecular forces.
+
 ## Next steps
 
 - [Amino acids, proteins and DNA revision notes](/resources/aqa-a-level-chemistry-amino-acids-proteins-and-dna-revision-notes/)

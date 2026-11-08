@@ -9,11 +9,11 @@ qualifications: ["igcse"]
 syllabusCodes: ["9236"]
 syllabusSeries: "Specification Version 1.9, first examined May/June 2026"
 order: 3
-description: "How each paper of OxfordAQA International GCSE Pakistan Studies 9236 splits into two compulsory topics plus a choice of two optional ones, the 28/28/21 mark structure, and a worked source-based routine."
+description: "How each OxfordAQA International GCSE Pakistan Studies 9236 paper splits into two compulsory topics and one option, the 28/28/21 marks, and a source routine."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-09
 featured: false
 ---
@@ -124,3 +124,14 @@ data rather than described in general terms.
 resource, not a reproduction of any official past paper or mark scheme. Always check the current
 specification for your examination series at
 [oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-pakistan-studies-specification.pdf).*
+
+## Frequently asked questions
+
+**How are the 9236 papers structured?**
+Each paper lasts 1 hour 30 minutes and is worth 77 marks: Section A (28 marks) and Section B (28 marks) are compulsory topics, and Section C (21 marks) is one of two optional topics.
+
+**What are the optional topics?**
+Paper 1: Islam in the subcontinent (c700–c1831) or the Mughal Empire (c1526–c1850s). Paper 2: Globalisation, transport and communication, or Creating a sustainable future.
+
+**When should I choose my optional topic?**
+Well before the exam, with your teacher, so that all your revision for Section C goes into one topic.

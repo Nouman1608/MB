@@ -156,6 +156,20 @@ See the [Individual Report revision notes](/resources/global-perspectives-indivi
 - [Written Exam guide](/resources/igcse-cambridge-global-perspectives-written-exam/) and [Team Project guide](/resources/igcse-cambridge-global-perspectives-team-project/)
 - Related topics: [Employment](/resources/igcse-global-perspectives-0457-employment/) and [Digital world](/resources/igcse-global-perspectives-0457-digital-world/)
 
+## Frequently asked questions
+
+**What is the difference between invention and innovation?**
+An invention is the new idea. Innovation is putting it into use so that it changes how things are made or done.
+
+**What persuasive language should you watch for in technology sources?**
+Words such as "revolutionary", "game-changing", "always" and "never" are persuasive or sweeping. Quote them and explain how they affect the argument's strength.
+
+**Is new technology simply good or bad in 0457 answers?**
+Neither. Show who gains and who loses from a new technology rather than treating it as simply good or simply bad.
+
+**What could an Individual Report on technology look like?**
+A question such as "Should manufacturers be required to make products repairable?" could use global perspectives from international bodies and firms, a national government view and a local repair shop owner, then propose one course of action.
+
 ## Official syllabus
 
 These notes are based on the Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Your teacher will confirm which topics your class uses.

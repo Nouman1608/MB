@@ -135,6 +135,20 @@ Evaluation (up to 3): the training takes two years and the rail link five, so un
 - Ignoring the effect on tax revenue when discussing tax cuts.
 - Ending a ten-mark answer without a judgement based on the argument above it.
 
+## Frequently asked questions
+
+**How do you calculate labour productivity?**
+Divide total output by the number of workers (or hours worked). To find the change, take the new productivity minus the old, divide by the old figure and multiply by 100.
+
+**What is the difference between a percentage change and a percentage point change?**
+If unemployment falls from 8% to 5%, that is a fall of 3 percentage points, but a fall of 37.5% in the rate itself. Read the question carefully, because giving one when the other is asked for loses the mark.
+
+**How do you turn nominal GDP growth into real growth?**
+Divide nominal GDP by the price index (as a decimal, such as 1.02) to remove price changes, then calculate the percentage change in this real figure. Reporting nominal growth as real growth is a common error.
+
+**What do Edexcel IGCSE Economics answers on supply-side policy need?**
+A chain from what the government does, to how firms or workers respond, to the effect on productivity or output and then the objective. In a long answer, finish with a judgement that follows from your argument and mention costs such as lost tax revenue.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/edexcel-igcse-economics-supply-side-policy-and-trade-offs-between-objectives-revision-notes/) and the [study guide](/resources/edexcel-igcse-economics-supply-side-policy-and-trade-offs-between-objectives/).

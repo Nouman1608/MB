@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "ib-dp-language-b-human-ingenuity"
 description: "Study guide to the Human ingenuity theme in IB DP Language B: its five recommended topics, two possible questions and worked examples for every component."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This study guide teaches **Human ingenuity**, the third of the five prescribed themes in IB Diploma Programme Language B. It is aligned to the IB *Diploma Programme Subject Brief: Language B*, first assessment 2020, and covers the theme exactly as its content outline sets it out: the guiding principle, the optional recommended topics and the possible questions. Both SL and HL students study the theme; what changes between levels is the complexity of language you handle, not the theme. It follows the IB Language B subject brief for first assessment 2020, which remains the examined course until the new syllabus is first assessed in May 2029, so it applies to the 2026, 2027 and 2028 sessions.
@@ -155,6 +155,20 @@ Plan with the brief's conceptual understandings:
 - In the oral, listing what is in the image and never reaching an opinion.
 
 Next, test your recall with the [revision notes](/resources/ib-dp-language-b-human-ingenuity-revision-notes/) and work through the [practice questions](/resources/ib-dp-language-b-human-ingenuity-practice/).
+
+## Frequently asked questions
+
+**Are the Human ingenuity topics the only content that can appear?**
+No. The topics are "optional recommended" and the questions "possible", so an unseen text might cover something like architecture or robotics. Treat the five topics as a guide, not a closed list.
+
+**Which IB Language B components can use Human ingenuity?**
+All of them. The IB DP Language B brief does not tie any component to a single theme, so Human ingenuity can appear in Paper 1 writing, Paper 2 listening and reading, and the individual oral.
+
+**What should you watch for in Paper 2 texts about innovation?**
+Watch dates, numbers, negatives and words like "not yet" or "only", which often decide whether a statement is right. In listening, track which speaker holds which opinion.
+
+**What language structures does Human ingenuity call for?**
+Topics such as technology and science often call for structures like the passive for processes, "used to" for then-and-now contrasts and conditionals for speculation. Check how your target language forms each rather than translating word for word.
 
 ## Official syllabus
 

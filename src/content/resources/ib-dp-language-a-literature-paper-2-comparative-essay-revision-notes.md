@@ -17,11 +17,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-time-space"
 description: "Condensed IB DP Literature Paper 2 revision notes: timing, thesis checks, paragraph moves, quotation-bank rules and a quick self-test with answers."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 For full explanations and a model paragraph, use the
@@ -211,6 +211,20 @@ is quite useless", whereas Stevenson gives readers a case to solve through a law
 - A prepared essay forced onto a question it does not answer.
 - Context paragraphs of biography that explain nothing about either work's methods.
 - A final paragraph that only repeats the introduction.
+
+## Frequently asked questions
+
+**How long is Paper 2 in IB Language A: Literature?**
+Paper 2 lasts 1 hour 45 minutes at both SL and HL. It is a comparative essay on two literary works, answering one of four questions, worth 35% at SL and 25% at HL.
+
+**What are the four checks for a Paper 2 thesis?**
+The thesis should use the question's key terms, name both works, contain a difference signalled by "but", "while" or "whereas", and say to what effect, so that a reasonable reader could disagree.
+
+**What is the difference between block and integrated comparison?**
+Block comparison spends half the essay on each work. Integrated comparison discusses both works in every body paragraph, which is what Paper 2 rewards.
+
+**What is the difference between a quotation, a reference and a paraphrase?**
+A quotation uses the exact words in quotation marks; a reference points precisely to a moment; a paraphrase gives the sense in your own words. All three count as evidence, but only a quotation must be word-perfect.
 
 ## Official syllabus
 

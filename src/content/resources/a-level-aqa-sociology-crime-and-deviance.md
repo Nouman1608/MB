@@ -12,13 +12,16 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-3-crime-deviance-theory-methods-7192"
-description: "The content areas of AQA A-Level Sociology (7192) Paper 3's Crime and Deviance sub-topic -- social order and control, the social distribution of crime, globalisation, media, green and state crime, and criminal justice -- against the course's two core themes."
+  - qualification: "a-level"
+    topic: "paper-3-crime-deviance-theory-methods-7192"
+    subtopic: "crime-and-deviance-7192"
+description: "Study guide to Crime and Deviance in AQA A-Level Sociology (7192) Paper 3: social order and control, the social distribution of crime, and crime control."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-05
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers **3.3.1 Crime and Deviance**, the substantive content half of Paper 3 for AQA
@@ -129,6 +132,20 @@ the same question of "how is harmful behaviour defined and by whom" to environme
 powerful corporate actors rather than individual offenders, showing that the theoretical debate about
 whose behaviour gets defined as criminal operates at an institutional and global scale, not only an
 individual one.
+
+## Frequently asked questions
+
+**Which paper is Crime and Deviance in for AQA A-Level Sociology 7192?**
+Crime and Deviance (3.3.1) is examined with Theory and Methods (3.3.2) as Paper 3, a single examination.
+
+**What are consensus, conflict and labelling explanations of crime?**
+Consensus explanations see crime as a failure of shared norms or a functional safety valve. Conflict explanations see crime as a product of unequal power. Labelling explanations see crime as socially constructed through the process of being labelled.
+
+**Why should you name the data source when discussing crime patterns?**
+Official statistics and self-report or victim studies can give different pictures of the social distribution of crime, so naming the source and what it can reliably show strengthens an answer.
+
+**How does the media connect to the social distribution of crime?**
+The way the media represents crime shapes public perception of who commits it, which can influence policing priorities and official statistics.
 
 ## Official syllabus
 

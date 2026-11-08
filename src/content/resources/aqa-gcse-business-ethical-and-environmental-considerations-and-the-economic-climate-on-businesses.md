@@ -184,6 +184,20 @@ When incomes rise, people can spend more, and demand for many products grows. Wh
 - Saying "higher interest rates are bad". They hurt borrowers but reward savers, so say which business you mean.
 - Skipping the judgement on a trade-off question.
 
+## Frequently asked questions
+
+**What is the trade off between ethics and profit?**
+Ethical choices such as paying suppliers fairly often raise costs, so profit can fall in the short run. The benefit may be a better reputation and more loyal customers, so the judgement depends on how much customers value fair treatment.
+
+**Which sections of AQA GCSE Business (8132) does this guide cover?**
+Section 3.2.2 Ethical and environmental considerations and section 3.2.3 The economic climate on businesses, which covers interest rates, the level of employment and consumer spending.
+
+**How does consumer spending change when incomes fall?**
+Spending falls, especially on non-essentials and expensive items such as fitted kitchens, while demand for basics falls least.
+
+**Are higher interest rates always bad?**
+No. They raise costs for borrowers but reward savers, so an answer should say who is affected and how.
+
 ## Official syllabus
 
 AQA GCSE Business (8132) specification, for first teaching from September 2017, published by AQA. Sections 3.2.2 and 3.2.3.

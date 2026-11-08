@@ -219,6 +219,22 @@ Profit follows the accruals concept; the bank balance follows money in and out. 
   <figcaption>The break-even point is where revenue meets total costs, and the margin of safety is the distance beyond it.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you convert a gross profit margin into a markup?**
+Markup = margin / (100 − margin) × 100. For example, a margin of 45% is a markup of 45 / 55 × 100, about 81.8%.
+
+**What is the difference between the current ratio and the liquid capital ratio?**
+The liquid capital ratio removes closing inventory from current assets; the current ratio does not. Both are expressed as x : 1, not as percentages.
+
+**Can I use opening or closing capital for ROCE?**
+Either is allowed. Say which one you are using and use the same choice for both years you compare.
+
+**Why can profit and cash be different?**
+Profit follows the accruals concept, while the bank balance follows money in and out. They differ because of credit sales and purchases, changes in inventory, expenses with no cash such as depreciation, buying or selling non-current assets, and capital introduced, drawings and loans.
+
+**Is a higher current ratio always good?**
+No. If the rise comes from swollen inventory or receivables, a higher current ratio is not a sign of better liquidity, so look at what caused the change before calling it good.
 
 ## Official syllabus
 

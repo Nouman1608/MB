@@ -27,9 +27,9 @@ description: "11 original IB DP ESS Topic 4 Water questions with worked mark-poi
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -182,6 +182,23 @@ Country P has 3,200 m³ per person per year.
 - [Printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Which part of the IB ESS syllabus do these water questions cover?**
+They cover Topic 4 Water, including water systems, water security, aquatic food production and water pollution, at SL and HL. All data in the questions are fictional.
+
+**What unit mistakes do students make in water security calculations?**
+A common slip is not converting km³ to m³ before dividing by population. Check units at every step and give percentages to the significant figures the question asks for.
+
+**How should you judge the state of a fishery from data?**
+Look at effort and catch per unit effort, not catch alone, because catch can stay high while the stock falls. Relate the trend to maximum sustainable yield.
+
+**Why does dissolved oxygen fall below a sewage outfall?**
+Decomposers break down the organic matter and use up oxygen, which is shown by high BOD. Blaming algae rather than decomposers for the oxygen depletion is a frequent error.
+
+**How do you answer a "to what extent" question on managing pollution?**
+Evaluate the measures at each level of pollution management rather than only listing them, and reach a clear judgement. Listing measures without evaluation loses marks.
 
 ## Official syllabus
 

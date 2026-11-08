@@ -248,6 +248,23 @@ Year 2:
 - Subtracting total liabilities from current assets to find working capital. Use current liabilities only.
 - Giving a number with no comment. In a decision question, say what the figure shows and what the business should do.
 
+## Frequently asked questions
+
+**Do you have to construct a statement of profit or loss in Cambridge IGCSE Business 0264?**
+No. The syllabus says you will not be assessed on constructing a statement of profit or loss or a statement of financial position. You need to know their main features, make simple calculations with them and make decisions from them.
+
+**What is the difference between trade receivables and trade payables?**
+Trade receivables are money owed to the business by customers who bought on credit, and they are a current asset. Trade payables are money the business owes to its suppliers, and they are a current liability.
+
+**How do you calculate capital employed?**
+Capital employed = total assets − current liabilities. It equals non-current liabilities plus the owners' funds, and the syllabus names the concept without printing the formula, so this is the standard form.
+
+**Why can profit fall even when revenue rises?**
+If cost of sales or expenses rise faster than revenue, profit can fall. That is why you should compare each line of the statement, not just revenue at the top.
+
+**Is inventory a current or non-current asset?**
+Inventory is a current asset, because it is expected to become cash within a year. Non-current assets are items kept for more than a year, such as property and machinery.
+
 ## Official syllabus
 
 This guide follows the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press and Assessment. Sections 5.3 and 5.4 are in the topic "Financial information and decisions".

@@ -229,6 +229,20 @@ A business has profit of 80,000 dollars and sales revenue of 1,000,000 dollars. 
 - Treating shareholders as lenders or lenders as owners.
 - Repeating the same point in different words when two separate points are needed.
 
+## Frequently asked questions
+
+**What objectives can a business have?**
+The syllabus gives survival, growth, profit and market share as examples, and a business can have several objectives at once.
+
+**Why do business objectives change over time?**
+A new business usually puts survival first; once it is secure, growth, profit and market share become more likely targets. A hard economy or a new rival can push a business back towards survival.
+
+**What is the difference between a shareholder and a lender?**
+A shareholder owns part of a company and may receive dividends. A lender, such as a bank, does not own the business and wants its money repaid with interest.
+
+**What is the difference between growth in sales and growth in market share?**
+Sales grow when the business sells more. Market share grows only when the business's sales rise faster than the whole market's sales.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press and Assessment (Cambridge International Education). Section 1.5 lists business objectives and the role of stakeholder groups; the market share formula appears in the syllabus list of formulas and ratios.

@@ -12,13 +12,13 @@ order: 2
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-mathematics-analysis-and-approaches-calculus"
-description: "Differentiation, integration and their applications -- the largest content strand at HL in IB Diploma Programme Mathematics: Analysis and Approaches, first assessment 2021, and how it depends on and extends the Functions strand."
+description: "Study guide to the Calculus strand of IB DP Mathematics: Analysis and Approaches: differentiation, integration, optimisation and its link to Functions."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 This guide covers the **Calculus** strand, the largest of the five
@@ -80,8 +80,8 @@ specifically tests the unaided algebraic technique this course
 emphasises. For applications questions (optimisation, kinematics,
 rates of change), practise the full worked method every time,
 including justifying whether a stationary point is a maximum or
-minimum, since method marks are typically awarded for each correctly
-justified step, not only for a correct final numerical answer. Revise
+minimum, since method marks can reward correct working, not only a
+correct final numerical answer. Revise
 definite and indefinite integrals as genuinely distinct outputs rather
 than interchangeable — confusing when the +C is required is a
 frequent, avoidable error. At HL, Calculus is a common component of
@@ -122,10 +122,9 @@ Step 5: state the answer in context
         Maximum area = 10 x 20 = 200 square metres
 ```
 
-Every one of these five steps typically carries its own method mark,
-which is why writing out the full method — including the justification
-step — protects marks even if a later arithmetic step contains an
-error.
+Writing out every one of these five steps — including the justification
+step — means an examiner can award method credit for the working even
+if a later arithmetic step contains an error.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-calculus--02-optimisation.webp" width="900" height="946" alt="Three sketches show a rectangular field against a wall with 40 metres of fencing on three sides. With sides x = 5, 10 and 15 metres the areas are 150, 200 and 150 square metres. A graph of A = 40x minus 2x squared peaks at (10, 200), where the tangent is flat. Setting dA/dx = 40 minus 4x to zero gives x = 10, the second derivative minus 4 is negative so it is a maximum, and y = 20 gives the maximum area of 200 square metres." loading="lazy">
@@ -142,7 +141,7 @@ rules are known. Forgetting the constant of integration, +C, on an
 indefinite integral, or adding it incorrectly to a definite integral
 where it is not required. Finding a stationary point but failing to
 justify whether it is a maximum, minimum, or point of inflection,
-which typically loses a dedicated method mark. Relying on a graphical
+which can cost marks when the question asks for that justification. Relying on a graphical
 display calculator for Paper 1 questions, which does not permit
 technology, rather than building genuine manual algebraic fluency.
 
@@ -158,6 +157,20 @@ technology, rather than building genuine manual algebraic fluency.
   derivative, since integration reverses differentiation.
 - HL: practise multi-step Paper 3 style problems that combine Calculus
   with Functions or Geometry and trigonometry.
+
+## Frequently asked questions
+
+**What does the derivative at a point tell you?**
+The derivative at a point gives the gradient of the tangent to the curve there. It is used to find stationary points, classify them, and describe where a function is increasing or decreasing.
+
+**Are related rates problems in IB Maths AA SL?**
+No. In IB DP Mathematics: Analysis and Approaches, rates of change in context are covered at both levels, but related rates problems are HL only.
+
+**How are differentiation and integration related?**
+They are inverse operations. A question can give a derivative and ask you to recover the original function by integration, just as it can give a function and ask for its rate of change.
+
+**How is calculus used in kinematics?**
+Displacement, velocity and acceleration are linked through successive derivatives, so differentiating displacement gives velocity and differentiating velocity gives acceleration.
 
 ## Official syllabus
 

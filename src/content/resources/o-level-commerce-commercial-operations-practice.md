@@ -12,11 +12,26 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "commercial-operations-7100"
-description: "Original exam-style practice questions with full worked answers on business ownership types, multinationals, retailing, wholesaling and trading documents for Cambridge O Level Commerce (7100)."
+  - qualification: "o-level"
+    topic: "commercial-operations-7100"
+    subtopic: "commercial-enterprises-7100"
+  - qualification: "o-level"
+    topic: "commercial-operations-7100"
+    subtopic: "retailing-7100"
+  - qualification: "o-level"
+    topic: "commercial-operations-7100"
+    subtopic: "wholesaling-7100"
+  - qualification: "o-level"
+    topic: "commercial-operations-7100"
+    subtopic: "trading-documents-7100"
+  - qualification: "o-level"
+    topic: "commercial-operations-7100"
+    subtopic: "communication-7100-commerce"
+description: "Original practice questions with worked answers for Cambridge O Level Commerce 7100 Topic 2: ownership, multinationals, retail, wholesale and trading documents."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -140,3 +155,17 @@ directly back to the scenario, whereas simply defining "buying direct" without t
 application marks even if the definition itself is accurate. Build this justify-from-the-scenario habit
 into every practice answer above, since Paper 2's structured questions are built around exactly this
 skill rather than pure recall alone (Paper 1 is multiple choice throughout).
+
+## Frequently asked questions
+
+**What is a common mistake when sequencing trading documents?**
+Placing the invoice before the order. The sequence runs from enquiry, quotation and order through to invoice, delivery note, statement of account and receipt.
+
+**How do you answer a recommend and justify question in O Level Commerce?**
+Name the specific feature of the scenario that makes your choice right, rather than giving a generic definition. A definition with no link to the scenario loses the application marks.
+
+**Is Cambridge O Level Commerce 7100 available in every zone?**
+Not for the full cycle. According to the page, 7100 runs in zones 3, 4 and 5 in 2026 and 2027, then in zone 4 only from 2028, so check your centre's zone on the official subject page.
+
+**How many impacts should you give in a two-sided multinational company question?**
+Give the number asked for on each side. Giving only one positive and one negative impact when the question asks for two of each is a common way to lose marks.

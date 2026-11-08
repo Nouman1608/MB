@@ -19,11 +19,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-3-6"
 description: "Study guide to perpendicular bisectors and Voronoi diagrams for IB DP Maths AI SL and HL (sections 3.5-3.6), with fully worked examples."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 This study guide teaches perpendicular bisectors and Voronoi diagrams for IB Diploma Programme Mathematics: Applications and Interpretation. It is aligned to the IB *Mathematics: applications and interpretation guide*, first assessment 2021, syllabus sections 3.5 and 3.6, which are common content for SL and HL. It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 sessions.
@@ -267,6 +267,20 @@ Keep full calculator values until the final answer. Round a vertex to 3 signific
 ## Next steps
 
 Condense the methods with the [revision notes](/resources/ib-dp-mathematics-ai-voronoi-perpendicular-bisectors-revision-notes/), then try the [practice questions](/resources/ib-dp-mathematics-ai-voronoi-perpendicular-bisectors-practice/), which have mark-by-mark answers. For the whole course, see the [AI syllabus guide](/resources/ib-dp-mathematics-applications-and-interpretation-syllabus-guide/) and the [exam preparation guide](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/).
+
+## Frequently asked questions
+
+**What is a perpendicular bisector?**
+The perpendicular bisector of AB is the line through the midpoint of AB at right angles to it. Every point on it is the same distance from A as from B, which is why it forms the edges of a Voronoi diagram.
+
+**What is a Voronoi diagram used for?**
+A Voronoi diagram splits a region into cells, each containing all the points closer to one site than to any other, such as the area served by the nearest clinic, mast or weather station.
+
+**How do you find the perpendicular bisector of a vertical segment?**
+The bisector of a vertical segment is the horizontal line through its midpoint, such as y = 6 for (1, 3) and (1, 9). Do not use −1/m, because the gradient of a vertical segment is undefined.
+
+**Are Voronoi diagrams in IB Maths AI SL?**
+Yes. Perpendicular bisectors and Voronoi diagrams, syllabus sections 3.5 and 3.6, are common content for SL and HL in IB DP Maths AI.
 
 ## Official syllabus
 

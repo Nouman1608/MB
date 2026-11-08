@@ -288,6 +288,23 @@ The transpiration stream is the flow of water that enters at the roots, rises th
 - Mixing up xylem (water, one direction) and phloem (sugars, translocation).
 - Saying stomata "breathe"; they allow diffusion.
 
+## Frequently asked questions
+
+**Where does photosynthesis happen in a plant?**
+Photosynthesis happens in cells that contain chloroplasts, where chlorophyll absorbs light, mainly in the leaves. Roots and the inside of a potato contain no chloroplasts, so say "some plant cells", not "all plant cells".
+
+**Why do plants need nitrate ions?**
+Nitrate ions, absorbed from the soil through the roots, supply the nitrogen that glucose lacks, so the plant can build amino acids and then proteins for growth.
+
+**How can growers change conditions in a greenhouse?**
+Growers can raise temperature with heaters, carbon dioxide concentration by burning fuel or releasing the gas, and light intensity with lamps. Each costs money, so it is only worthwhile if the extra yield earns more than it costs.
+
+**How do guard cells open and close stomata?**
+Each stoma is surrounded by two guard cells. When they fill with water they swell and curve apart, opening the pore; when they lose water the pore closes, which reduces water loss but also carbon dioxide uptake.
+
+**Which sections of OxfordAQA 9201 Biology cover photosynthesis and plant transport?**
+Section 3.2.1 covers photosynthesis, limiting factors and the uses of glucose, and section 3.2.2 covers exchange and transport in plants, including stomata, transpiration, xylem and phloem.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.2.1 and 3.2.2.

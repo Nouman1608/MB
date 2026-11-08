@@ -122,6 +122,20 @@ Justify which option the owner should choose. **[9]**
 - Take the [free 10-minute diagnostics](/diagnostics/) to see which topics to revisit.
 - [Book a free trial class](/trial/) if you would like live help.
 
+## Frequently asked questions
+
+**Which part of Edexcel GCSE Business (1BS0) do these questions cover?**
+Topic 2.1 Growing the business, items 2.1.1 and 2.1.2, covering methods of growth, sources of finance for growth and why business aims and objectives change.
+
+**Which figure is the divisor in a percentage change?**
+The starting figure. Using the later figure as the divisor is a common error.
+
+**Is retained profit the same as cash in the bank?**
+No. Retained profit is profit kept in the business rather than paid out, which is not the same as the cash it holds. Mixing the two up loses marks.
+
+**How do I answer a Justify question in Edexcel GCSE Business?**
+Use the information given to compare both options, then recommend one and give your reasons. Describing both options without choosing one limits the marks.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2: Building a business, Topic 2.1 Growing the business, items 2.1.1 and 2.1.2.

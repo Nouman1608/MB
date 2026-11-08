@@ -24,9 +24,9 @@ syllabusTopics:
     subtopic: "types-of-data-and-variable-4040"
 description: "Condensed recall notes on data types, sampling and census methods for Cambridge O Level Statistics 4040."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-08-26
 featured: false
 ---
@@ -146,6 +146,23 @@ missing response options before they affect the real results.
 6. What is the purpose of a pilot survey?
 
 **Answers:** 1. Discrete quantitative; continuous quantitative; qualitative. 2. Advantage: no sampling error / fully accurate. Disadvantage: high cost and time, often impractical for large populations. 3. List all 800 students, calculate sampling interval 800 ÷ 20 = 40, pick a random start between 1 and 40, then select every 40th student thereafter. 4. Any one: interviewer bias, non-response bias, unrepresentative location/time of day. 5. 8.55 ≤ t < 8.65. 6. To trial the questionnaire on a small group first, so confusing wording or missing response options can be fixed before the full survey is carried out.
+
+## Frequently asked questions
+
+**What is the difference between cluster sampling and stratified sampling?**
+Cluster sampling selects whole groups at random and includes everyone in each chosen cluster. Stratified sampling takes a random sample from every group, in proportion to each group's size.
+
+**Is a sample always less accurate than a census?**
+A sample is not automatically inaccurate. It has sampling error, which is different from bias, while a census has no sampling error but is very costly and often impractical for large populations.
+
+**How do you take a systematic sample?**
+List the population, divide its size by the sample size to get the sampling interval, choose a random start within the first interval, then select every member at that interval. For 20 students from 800, the interval is 40.
+
+**What are the main sources of bias in a survey?**
+Common sources are leading or loaded questions, an unrepresentative sample, non-response bias and interviewer bias.
+
+**What does Topic 1 of Cambridge O Level Statistics 4040 cover?**
+Topic 1, Data and its collection, covers types of data, primary and secondary sources, census and sampling methods, questionnaire design and bias.
 
 For the full explanation, including how cluster and opportunity
 sampling compare with the other methods, see the [Data and Its

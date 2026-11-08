@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "what-is-business-aqa-alevel-business"
-description: "The nature and purpose of business, different business forms, and the external environment businesses operate within -- the full content of Topic 1 for AQA A-Level Business (7132)."
+description: "Study guide to Topic 1 What is business? for AQA A-level Business 7132: the nature and purpose of business, business forms and the external environment."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **Topic 1 What is business?**, the first of ten
@@ -175,3 +175,20 @@ Confusing added value (3.4.1 content) with profit — added value ignores overhe
 - Compare the four forms of ownership, focusing on liability and access to capital.
 - Distinguish stakeholder from shareholder approaches and argue both sides.
 - Apply the six named external factors to a given business context rather than listing them; use PESTLE, if at all, only as an optional way to organise them.
+
+## Frequently asked questions
+
+**What are the three parts of AQA 7132 Topic 1?**
+3.1.1 Understanding the nature and purpose of business, 3.1.2 Understanding different business forms, and 3.1.3 Understanding that businesses operate within an external environment.
+
+**What is the difference between profit and cash flow?**
+Profit is revenue minus total costs over a period, while cash flow is the money actually moving in and out of the business. The two should not be used interchangeably in an answer.
+
+**Why is limited liability important?**
+Shareholders risk only what they invested, which makes external investment attractive. Saying limited liability means the business has limited debts is a common mistake.
+
+**What should a business consider before floating on the stock market?**
+Flotation can raise substantial capital, make shares easier to sell and raise the firm's profile, but it dilutes control, creates a risk of hostile takeover and brings costly reporting and pressure for dividends. The judgement depends on the expansion planned and how much the owners value control.
+
+**Is AQA 7132 Business being replaced?**
+AQA has accredited a replacement specification, 7138, for first teaching from September 2026. 7132 is current for cohorts taking exams through summer 2027, and the two run alongside each other during the transition.

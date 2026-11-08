@@ -161,6 +161,20 @@ To see where this unit sits in the course, use the [IB DP chemistry hub](/boards
 - Browse [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does this IB DP Chemistry Reactivity 2.2.1 to 2.2.5 practice set cover?**
+It covers rates from graphs, collision theory and average kinetic energy, the factors affecting rate, Maxwell–Boltzmann curves, energy profiles and catalysts, including practical questions on rate experiments and errors.
+
+**How do you find the rate at a particular time from a graph?**
+Draw a tangent to the curve at that time and calculate its gradient using two well-separated points on the tangent, not on the curve or from the data table. Reading a single value off the graph does not give a rate.
+
+**What mistakes are common when drawing Maxwell–Boltzmann curves?**
+A curve for a higher temperature must enclose the same area as the original, because the number of particles is the same. Drawing a second curve for a catalyst, rather than moving the Ea line, is another common error.
+
+**Why must temperatures be in kelvin when comparing kinetic energies?**
+Average kinetic energy is proportional to absolute temperature in kelvin. Dividing Celsius values gives a meaningless ratio, so convert to kelvin before comparing.
+
 ## Official syllabus
 
 Every item here is based on the International Baccalaureate's *Chemistry guide* for the Diploma Programme (February 2023; first assessment 2025). This page follows Reactivity 2.2, How fast? The rate of chemical change, understandings 2.2.1 to 2.2.5, which are common to SL and HL.

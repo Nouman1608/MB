@@ -13,13 +13,31 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-exploring-sociology-9690"
-description: "Socialisation and social control (3.1.2), and research methods and theory (3.1.3) -- the content of Unit 2 for OxfordAQA International A-Level Sociology (9690), the second and final unit of the International AS."
+  - qualification: "a-level"
+    topic: "unit-2-exploring-sociology-9690"
+    subtopic: "individuals-and-society-9690"
+  - qualification: "a-level"
+    topic: "unit-2-exploring-sociology-9690"
+    subtopic: "socialisation-9690"
+  - qualification: "a-level"
+    topic: "unit-2-exploring-sociology-9690"
+    subtopic: "social-identities-social-change-9690"
+  - qualification: "a-level"
+    topic: "unit-2-exploring-sociology-9690"
+    subtopic: "social-control-9690"
+  - qualification: "a-level"
+    topic: "unit-2-exploring-sociology-9690"
+    subtopic: "deviance-harm-and-crime-9690"
+  - qualification: "a-level"
+    topic: "unit-2-exploring-sociology-9690"
+    subtopic: "research-methods-and-theory-9690"
+description: "Study guide to Unit 2 Exploring Sociology in OxfordAQA International A-level Sociology 9690: socialisation, social control, crime and research methods."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers **Unit 2 Exploring Sociology**, the second of two
@@ -179,6 +197,20 @@ answering Unit 2 methods and theory questions.
 - Revise Units 1 and 2 together before the International AS
 assessment, since both are examined at the end of that stage.
 
+## Frequently asked questions
+
+**How is OxfordAQA International A-level Sociology 9690 Unit 2 assessed?**
+Unit 2 is a 1 hour 45 minute exam worth 60 marks: Section A Socialisation and social control (40 marks) and Section B Research methods and theory (20 marks, one extended-response question).
+
+**Which sociologists are named for OxfordAQA 9690 Unit 2?**
+The named sociologists are Stanley Cohen, Fanon, Goffman, Mead, Mills and Zuboff.
+
+**What is the difference between formal and informal social control?**
+Formal social control comes from government and law, the police and the criminal justice system. Informal social control comes from families, schools, peers, media, religion and the workplace.
+
+**When is OxfordAQA 9690 Sociology first examined?**
+It is first taught from September 2026, with first AS exams in May/June 2027 and first A-level exams in May/June 2028.
+
 ## Related resources
 
 - [Exploring Sociology revision notes](/resources/oxfordaqa-a-level-sociology-exploring-sociology-revision-notes/)
@@ -188,7 +220,7 @@ assessment, since both are examined at the end of that stage.
 
 OxfordAQA International AS and A-level Sociology (9690) specification,
 Version 1.1 —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/09/oxfordaqa-international-a-level-sociology-specification.pdf),
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/10/oxfordaqa-international-a-level-sociology-specification.pdf),
 verified 2026-10-04. Unit 2 timing and marks: 1 hour 45 minutes, 60
 marks (Section A Socialisation and social control 40 marks; Section B
 Research methods and theory 20 marks). A specimen question paper and

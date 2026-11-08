@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Social and ethical accounting (YAC11)"
+title: "Edexcel International A Level Accounting: Social and ethical accounting (YAC11)"
 seoTitle: "Edexcel IAL Accounting Social and Ethical Accounting Guide"
 resourceType: "study-guides"
 subject: "accounting"
@@ -212,6 +212,23 @@ Callum Reyes owns Northgate Tiles. Draft profit for the year is 41,600 on revenu
 - Depreciation methods and the accounting concepts: [principles and double entry guide](/resources/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping/)
 - Time and question choice on the Unit 1 paper: [exam preparation guide](/resources/edexcel-ial-accounting-exam-preparation/)
 - Find your weak spots: [all free 10-minute diagnostics](/diagnostics/)
+
+## Frequently asked questions
+
+**What is a non-financial factor in Edexcel IAL Accounting?**
+A non-financial factor is anything relevant to a decision that cannot be measured reliably in money, such as staff morale, quality, supplier reliability, reputation or the effect on the local community. Because of the money measurement concept, the accounts do not record these items.
+
+**Why should a department showing a loss not always be closed?**
+A loss after apportioned overheads can hide a positive contribution. The overheads usually remain after closure and are shared among the other departments, so closing a department with a positive contribution reduces total profit.
+
+**What does ethics mean in accounting?**
+Ethics means acting honestly and fairly; the Edexcel specification says accounting involves presenting a true and fair representation of the information. Figures and the analysis built on them should not be bent to suit the person preparing or using them.
+
+**Which accounting concepts help prevent unethical accounting?**
+Prudence stops assets or profit being overstated, consistency keeps the same methods each year, accruals matches income and expenses to the right period, and realisation recognises revenue only when it is earned. Naming the concept a change breaks is better than calling it illegal.
+
+**What should an accountant do if asked to record misleading figures?**
+The accountant should explain the correct treatment, refuse to record misleading figures and keep a written note. If the pressure continues, the issue should be raised with someone independent.
 
 ## Official syllabus
 

@@ -241,6 +241,20 @@ End with a judgement that names the condition on which it depends, for example: 
 - Describing remittances as aid.
 - Ending evaluation with "it depends" and no stated condition.
 
+## Frequently asked questions
+
+**What is the savings gap in the Harrod-Domar model?**
+The savings gap is the amount of investment needed to reach a target growth rate that domestic saving does not fund. Foreign aid, foreign direct investment or borrowing could fill it.
+
+**What is the difference between FDI and portfolio investment?**
+Foreign direct investment buys productive assets and is usually long term. Portfolio investment buys shares and bonds that can be sold quickly, so it can reverse suddenly.
+
+**When does a country's debt ratio rise?**
+With no primary surplus, the debt-to-GDP ratio rises when the interest rate on the debt is above the growth rate of national income.
+
+**What are the drawbacks of microfinance?**
+The OCR A Level Economics (H460) notes list high interest rates, over-indebtedness, loans used for consumption, little growth in very small firms, and the fact that microfinance is no substitute for infrastructure or jobs.
+
 ## Official syllabus
 
 These notes follow the OCR *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, published by OCR (Oxford Cambridge and RSA Examinations).

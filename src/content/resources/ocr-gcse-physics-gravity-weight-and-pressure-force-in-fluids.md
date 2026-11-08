@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "forces-ocr-gcse"
     subtopic: "forces-in-action-ocr-gcse"
-description: "Study guide to gravitational fields, weight, free fall and pressure force in fluids for OCR GCSE Physics A, with fully worked calculations."
+description: "Study guide to gravitational fields, weight, free fall and pressure in fluids for OCR GCSE Physics A (J249), with fully worked calculations and common errors."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
@@ -259,6 +259,23 @@ The small piston has area 4.0 × 10⁻⁴ m² and the large piston has area 6.0 
 - Forgetting to subtract the outside pressure when fluid acts on both sides.
 
 Test yourself with the [practice questions](/resources/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids-practice/), then condense with the [revision notes](/resources/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids-revision-notes/).
+
+## Frequently asked questions
+
+**What is a gravitational field?**
+A gravitational field is a region around any object with mass where another mass feels a force. The force is always an attraction, and its strength depends on the mass creating the field.
+
+**Why don't we notice the gravitational pull between everyday objects?**
+Everyday objects have such small masses that the attraction between them is far too small to notice. Only very massive objects, such as planets and stars, have fields strong enough to hold other objects in orbit.
+
+**How do you calculate weight?**
+Weight = mass × gravitational field strength (W = mg), with mass in kg, g in N/kg and weight in N. For example, a 64 kg diver weighs 640 N with g = 10 N/kg.
+
+**Do heavier objects fall faster in GCSE Physics?**
+Not in a vacuum. With no air resistance, all objects in free fall have the same acceleration, about 10 m/s² near the Earth's surface, because a larger weight acts on a proportionally larger mass.
+
+**What is the equation for pressure in OCR GCSE Physics A?**
+Pressure = force normal to a surface ÷ area of that surface (p = F / A), with force in N, area in m² and pressure in Pa. In OCR GCSE (9-1) Physics A (J249) this is statement P2.3o, which is separate Physics only.
 
 ## Official syllabus
 

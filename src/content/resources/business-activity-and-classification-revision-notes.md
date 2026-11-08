@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "classification-of-businesses"
 description: "Condensed recall notes on needs and wants, added value, economic sectors and business classification for Cambridge O Level Business Studies 7115."
 author: "asif-iqbal"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -172,3 +172,17 @@ Confusing needs and wants, or treating scarcity as simply "not enough money" rat
 5. Identify one conflict between shareholders and employees.
 
 **Answers:** 1. $2.10 − $0.60 = **$1.50**. 2. Refinery = secondary; fishing boat = primary; call centre = tertiary. 3. Cash flow is tight and failure risk is highest early on; without survival no other objective is achievable. 4. Any two: branding, improved quality, better service, convenience, attractive packaging. 5. Shareholders want costs minimised for higher dividends; employees want higher wages — these pull directly against each other.
+
+## Frequently asked questions
+
+**What is the difference between a need and a want?**
+A need is something essential for survival, such as food or shelter. A want is something desired but not essential, such as a particular brand or a luxury item.
+
+**How do you calculate added value?**
+Subtract the cost of bought-in inputs from the selling price. A business can increase it through branding, quality, convenience, design, after-sales service or speed.
+
+**Is mining with advanced machinery still in the primary sector?**
+Yes. Extracting natural resources is primary sector activity whatever technology is used; classification depends on the activity, not the equipment.
+
+**Why does a new business focus on survival rather than profit?**
+A start-up has to build customers and keep enough cash flowing to stay open, so survival comes first. Objectives then change as the business grows and becomes established.

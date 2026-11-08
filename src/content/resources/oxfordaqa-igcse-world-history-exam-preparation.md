@@ -11,9 +11,9 @@ syllabusSeries: "For first teaching 2026, first exams May/June 2028"
 order: 3
 description: "How the two papers of the new OxfordAQA International GCSE History 9245 use internal choice and pre-released sources, and a worked source-attribution routine."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-09
 featured: false
 ---
@@ -130,3 +130,17 @@ qualification page (official OxfordAQA page, verified 2026-08-28), which states 
 this resource, since no official past paper or pre-released source material yet exists for this
 specification. Always check the current specification and any published specimen assessment materials
 at [oxfordaqa.com](https://www.oxfordaqa.com/qualifications/international-gcse-history/).*
+
+## Frequently asked questions
+
+**When is OxfordAQA 9245 first examined?**
+It is taught from September 2026 and first examined in May/June 2028, so no past papers exist yet.
+
+**What are the four Paper 1 questions in each section of OxfordAQA 9245?**
+Section A (source-based) has questions worth 4, 6, 8 and 12 marks on unseen and pre-released sources; Section B (knowledge-based) has questions worth 3, 6, 9 and 12 marks.
+
+**What are the pre-released sources?**
+A booklet of three sources for Paper 1 Section A is released before the exam (on 1 February for the May/June series); two further unseen sources are also used.
+
+**How is Paper 2 of OxfordAQA 9245 structured?**
+Paper 2, Studies in change (1 hour 45 minutes, 60 marks, 50%), has Section A on one society in change and Section B on one thematic study; each section has four questions worth 3, 6, 9 and 12 marks.

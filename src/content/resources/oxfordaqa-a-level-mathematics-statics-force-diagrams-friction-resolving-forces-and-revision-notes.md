@@ -190,6 +190,20 @@ The particle stays at rest for **19.2 N ≤ P ≤ 39.6 N**. Say what each end of
 * A diagram that shows a force and its components together, so it is unclear what is acting.
 * No units, or a magnitude given as a negative number.
 
+## Frequently asked questions
+
+**What are the components of a force at an angle to an axis?**
+A force F at angle θ to an axis has component F cos θ along the axis and F sin θ perpendicular to it.
+
+**What is the condition for a particle to rest on a rough slope with no other force?**
+The particle stays at rest when μ ≥ tan α, where α is the angle of the slope to the horizontal.
+
+**What is the difference between a resultant and an equilibrant?**
+The resultant is the single force equivalent to all the forces. The equilibrant cancels it: it has equal size and acts in the opposite direction.
+
+**How do you find the magnitude of a resultant force Xi + Yj?**
+Its magnitude is √(X² + Y²). For its direction, give the angle with a stated axis, such as arctan(Y/X) with the signs checked.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, section M2.3 Statics and forces, published by OxfordAQA.

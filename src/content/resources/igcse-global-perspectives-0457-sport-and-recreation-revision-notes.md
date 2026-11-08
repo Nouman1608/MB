@@ -158,6 +158,20 @@ For an "assess actions" answer, keep the same core but judge each action on effe
 
 For more on each component, see the [Written Exam revision notes](/resources/global-perspectives-revision-notes/), the [Individual Report revision notes](/resources/global-perspectives-individual-report-revision-notes/) and the [Team Project revision notes](/resources/igcse-global-perspectives-team-project-revision-notes/).
 
+## Frequently asked questions
+
+**What is the difference between elite and grassroots sport?**
+Elite sport is top-level competition, while grassroots sport is everyday participation in local clubs, schools and parks. Medals at the top do not prove more people play locally.
+
+**What is the difference between temporary and lasting effects of an event?**
+Jobs or visitors during a ten-day event are not the same as lasting change. Check whether "jobs created" are temporary before using the figure.
+
+**What perspectives appear in sport and recreation sources?**
+Look for athletes, fans, residents near venues, governments, governing bodies, sponsors and broadcasters with a vested interest, and community groups and taxpayers. Always add why each holds its view.
+
+**When should a Team Project collect "before" data?**
+Collect "before" data before starting the action, so you have something to measure success against afterwards.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025), published by Cambridge International. See section 3 for the topic list and key terms, section 2 for the assessment objectives, and section 4 for the components and command words.

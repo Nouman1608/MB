@@ -283,6 +283,23 @@ Losses come from air oxidation of Cr²⁺, product left in solution and transfer
 
 Try the [practice questions](/resources/edexcel-ial-chemistry-transition-metals-redox-and-catalysis-practice/), then review with the [revision notes](/resources/edexcel-ial-chemistry-transition-metals-redox-and-catalysis-revision-notes/). Outcomes 17.1-17.17 are in [complexes and colour](/resources/edexcel-ial-chemistry-transition-metals-complexes-and-colour/). Background: [entropy](/resources/edexcel-ial-chemistry-entropy/) and [redox equilibria](/resources/edexcel-ial-chemistry-redox-equilibria/). Check gaps with the [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**Which outcomes does this Edexcel IAL transition metals guide cover?**
+It covers outcomes 17.18 to 17.33, with Core Practical 14, the second half of Topic 17 in the Pearson Edexcel specification (XCH11/YCH11). The topic is examined in the International A2 paper for Unit 5.
+
+**Why is green seen twice when zinc reduces vanadium(V)?**
+Zinc reduces vanadium one step at a time. The first green is a mixture of yellow VO₂⁺ and blue VO²⁺, and the second green is V³⁺, before violet V²⁺ forms.
+
+**Why must chromium(II) solutions be kept away from air?**
+Oxygen oxidises Cr²⁺ back to Cr³⁺, because E⦵cell for that reaction is positive. The same applies to V²⁺, so air is excluded when zinc is used to reduce these ions.
+
+**Why is Cr³⁺ oxidised to chromate(VI) in alkaline conditions?**
+In alkali, hydrogen peroxide can oxidise [Cr(OH)₆]³⁻ to chromate(VI). In acid, the Cr(VI)/Cr(III) potential is far more positive, so chromium(III) is much harder to oxidise and dichromate(VI) would oxidise hydrogen peroxide instead.
+
+**Why is the uncatalysed reaction of peroxodisulfate with iodide slow?**
+Both reactants are negatively charged ions, so they repel each other and the activation energy is high. With Fe²⁺ as a catalyst, each step involves oppositely charged ions.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited -- Unit 5, Topic 17: Transition Metals and their Chemistry, outcomes 17.18 to 17.33 (including Core Practical 14).

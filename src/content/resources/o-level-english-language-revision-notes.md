@@ -12,14 +12,19 @@ order: 1
 syllabusTopics:
   - qualification: "o-level"
     topic: "reading-1123"
-description: "Condensed recall notes on the structure of both papers, the assessment objectives and technique for Cambridge O Level English Language 1123 (2024-2026)."
+description: "Condensed notes on both papers of Cambridge O Level English Language 1123 (2024-2026): structure, word limits, R1-R5 and W1-W5 objectives, technique and traps."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: thin page expanded (direct-answer opening, composition length 350-450 words from the syllabus, FAQ); please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
+
+**How is Cambridge O Level English Language 1123 assessed?** Two 2-hour papers, each worth 50 marks
+and 50% of the qualification: Paper 1 Reading (comprehension, use of language, summary and a short
+response) and Paper 2 Writing (directed writing and composition). These notes condense both papers
+from the 1123 syllabus for 2024, 2025 and 2026.
 
 Condensed for the final weeks. For the full explanation, use the
 [English Language: Reading and Writing study guide](/resources/o-level-cambridge-english-language-reading-and-writing/).
@@ -62,7 +67,8 @@ The summary must be **continuous writing of no more than 150 words**. Bullet poi
 
 Marks split 15 writing + 10 reading — the reading marks come from *using, developing and evaluating* the source material, not merely referring to it.
 
-**Section B — Composition (25 marks).** One extended piece, all 25 marks for writing.
+**Section B — Composition (25 marks).** One extended piece of about **350–450 words**, chosen from
+four titles (two descriptive, two narrative); all 25 marks are for writing (W1–W5).
 
 ## The assessment objectives
 
@@ -89,6 +95,21 @@ W5 means accuracy is directly credited — proofreading is not optional.
 - Dictionaries are **not permitted** in either paper.
 - Recurring accuracy errors worth drilling: **subject–verb agreement**, **consistent tense**, sentence separation (avoiding comma splices), and **apostrophes for possession** against plurals.
 - Read the questions **before** the passage, then read once for overall sense before locating and re-reading the relevant section.
+
+## Frequently asked questions
+
+**How long should the composition be?**
+About 350–450 words, according to the 1123 syllabus. Writing much more leaves less time to plan and
+proofread, and accuracy (W5) is credited directly.
+
+**Does the summary have to be in my own words?**
+Yes, as far as possible. The summary is continuous writing of no more than 150 words, and it is also
+marked for writing, so lifted phrases and bullet points both cost marks.
+
+**Which paper should I practise first?**
+Both carry 50%, so practise them equally. Paper 1 rewards close reading and selection; Paper 2
+rewards control of form, audience and register.
+
 
 ## Self-test
 

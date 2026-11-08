@@ -12,11 +12,23 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-0493"
-description: "Original practice paper in the Cambridge IGCSE Islamiyat 0493 Paper 2 format: Question 1 on set Hadiths in Arabic and English, then two-part questions on the compilation of the Hadiths, Abu Bakr's caliphate, angels and zakat, with levels-based mark guidance."
+  - qualification: "igcse"
+    topic: "paper-2-0493"
+    subtopic: "major-teachings-hadiths-0493"
+  - qualification: "igcse"
+    topic: "paper-2-0493"
+    subtopic: "history-importance-hadiths-0493"
+  - qualification: "igcse"
+    topic: "paper-2-0493"
+    subtopic: "rightly-guided-caliphs-0493"
+  - qualification: "igcse"
+    topic: "paper-2-0493"
+    subtopic: "articles-faith-pillars-0493"
+description: "Original practice paper in the Cambridge IGCSE Islamiyat 0493 Paper 2 format: set Hadiths, their compilation, Abu Bakr, angels and zakat, with mark guidance."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -196,3 +208,14 @@ The credit guides below turn this into points you can check your own answer agai
 - In Question 2, describing isnad and matn checks when the question asks about the **history of compilation**, or confusing a musnad (arranged by narrator) with a musannaf (arranged by subject).
 - Listing Abu Bakr's actions without the detail (names, places, reasons) that a Level 4 answer needs.
 - In Question 5, giving the 2.5 per cent rate without the nisab and the one-year condition, or naming only two or three of the eight groups.
+
+## Frequently asked questions
+
+**How is 0493 Paper 2 structured?**
+Paper 2 lasts 1 hour 30 minutes and is worth 50 marks (50%). It has five questions: Questions 1 and 2 are compulsory and you choose two of Questions 3 to 5. Question 1 is worth 8 marks (4 + 4) and each other answered question 14 marks (10 + 4).
+
+**How is Question 1 answered?**
+Choose two of the set Hadiths; part (a) explains their teaching and part (b) how Muslims can put it into practice.
+
+**Are these real Cambridge questions?**
+No. They are original questions in the published format and tariffs; use them alongside past papers.

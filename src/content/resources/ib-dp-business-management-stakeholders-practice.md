@@ -122,6 +122,20 @@ Recommend whether Mossgrave Dairy should accept the farmers' request and raise i
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between a stakeholder and a shareholder?**
+A stakeholder is any person or group that a business's activities affect, or that can affect them. A shareholder is one type of stakeholder: an owner of shares in a company.
+
+**What are common mistakes on stakeholder questions in IB Business Management?**
+Students often define a stakeholder as "an owner", list stakeholders with no tie to the business in the stem, name a conflict without saying what each side wants, and do a calculation without explaining what the figure means for each group. Ending a discuss or recommend answer without a reasoned judgement also loses marks.
+
+**How should you analyse a conflict between two stakeholder groups?**
+State what each group wants, show how the decision affects each one, using figures from the case where given, and say what each group could do in response. Cover both sides rather than only one.
+
+**Which section of the IB Business Management guide covers stakeholders?**
+Stakeholders is section 1.4 of Unit 1 in the IB Business management guide, first assessment 2024. It covers internal and external stakeholders and conflict between stakeholders, both at AO2.
+
 ## Official syllabus
 
 This set follows the *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization, section 1.4 Stakeholders.

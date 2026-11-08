@@ -19,13 +19,13 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "statistics-cambridge-igcse-maths"
     subtopic: "cumulative-frequency-diagrams-cambridge-igcse-maths"
-description: "Original exam-style questions with full worked answers on conditional probability, frequency density and histograms, and cumulative frequency, for Cambridge IGCSE Mathematics (0580) Extended."
+description: "Extended practice questions with worked answers on conditional probability, histograms, frequency density and cumulative frequency for Cambridge IGCSE 0580."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-24
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -110,3 +110,17 @@ Each question practises a skill from the Extended (Supplement) content of the sy
 - Confusing frequency with frequency density in histograms.
 - Using class boundaries instead of class widths.
 - Reading quartiles and the median at the wrong cumulative frequency.
+
+## Frequently asked questions
+
+**How do you work out a probability "given that" something has happened?**
+Reduce the sample space to the group that meets the condition and divide by the size of that group, not by the whole total.
+
+**What is frequency density?**
+Frequency density = frequency ÷ class width. Histograms with unequal class widths plot frequency density on the vertical axis, so the area of each bar represents the frequency.
+
+**How do you find the median from a cumulative frequency curve?**
+Read across from half the total frequency on the cumulative frequency axis to the curve, then down to the horizontal axis. The quartiles are read at a quarter and three quarters of the total.
+
+**Should you use class boundaries or class widths for frequency density?**
+Use the class width, which is the difference between the upper and lower class boundaries. Using a boundary value in place of the width is a common error.

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "waves-in-matter-ocr-gcse"
     subtopic: "wave-behaviour-ocr-gcse"
-description: "Condensed revision notes on sound at boundaries, echoes, ultrasound, sonar, the ear and hearing limits for OCR GCSE Physics A (J249), including Higher Tier only content."
+description: "Condensed revision notes on sound at boundaries, echoes, ultrasound, sonar, the ear and hearing limits for OCR GCSE Physics A (J249), incl. Higher Tier."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
@@ -221,6 +221,23 @@ Ultrasound of frequency 3.5 MHz in tissue where the speed is 1540 m/s: convert 3
 - Listing ear parts without saying what each does to the wave. A strong answer states the change of form at each stage.
 - Giving "the ear is not sensitive enough" as the reason for the limited range, instead of referring to mass, stiffness or inertia.
 - Writing the hearing range without units, or as 20 to 20 000 only.
+
+## Frequently asked questions
+
+**What is the range of human hearing?**
+For a typical young person, roughly 20 Hz to 20 000 Hz (20 kHz). Always give the units when you quote the range.
+
+**What happens when ultrasound meets a boundary between two tissues?**
+Some of the ultrasound is reflected back to the probe, some is transmitted into the second tissue where its speed and wavelength change, and a small amount is absorbed, warming the tissue slightly.
+
+**Where does absorbed sound energy go?**
+It passes to the thermal store of the material. It does not disappear.
+
+**Why does the wavelength change but not the frequency when sound enters a new material?**
+Each compression arriving at the boundary starts one compression in the new material, so the number per second stays the same. The speed is different, and since v = fλ with f fixed, the wavelength changes in proportion to the speed.
+
+**Which sound topics are Higher tier only in OCR GCSE Physics A?**
+In OCR GCSE (9-1) Physics A (J249), converting between sound and vibrations in solids (P5.1h) and the limited frequency range of hearing (P5.1i) are Higher tier only.
 
 ## Official syllabus
 

@@ -15,9 +15,9 @@ syllabusTopics:
     subtopic: "energy-work-and-power"
 description: "Renewable and non-renewable energy resources, electricity generation, and calculating efficiency, for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 featured: false
 ---
@@ -183,6 +183,20 @@ involved
 environmental impact
 - Both efficiency equations, and that they give the same answer for the
 same device
+
+## Frequently asked questions
+
+**Is Cambridge O Level Physics 5054 tiered?**
+No. 5054 is not tiered, so every candidate covers all of the energy resources and efficiency content.
+
+**Does every power station use a turbine and generator?**
+No. Solar photovoltaic cells convert radiation to electricity directly, without a turbine or generator. Every other named resource uses a turbine connected to a generator.
+
+**Is nuclear fuel a renewable resource?**
+No. Nuclear fuel is non-renewable because it is a finite fuel, mined like fossil fuels, even though it is not a fossil fuel.
+
+**What does an efficiency above 100% mean?**
+It is a sign of an arithmetic error, because useful output can never exceed total input. Check that you divided useful output by total input and multiplied by 100%.
 
 ## Related resources
 

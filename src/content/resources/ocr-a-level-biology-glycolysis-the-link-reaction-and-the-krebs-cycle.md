@@ -243,6 +243,20 @@ How the released energy builds ATP is a separate outcome (chemiosmosis), covered
 
 Condense the content with the [revision notes](/resources/ocr-a-level-biology-glycolysis-the-link-reaction-and-the-krebs-cycle-revision-notes/), then test yourself with the [practice questions](/resources/ocr-a-level-biology-glycolysis-the-link-reaction-and-the-krebs-cycle-practice/). The [Foundations in biology guide](/resources/ocr-a-level-biology-foundations-in-biology/) covers microscopy and magnification calculations.
 
+## Frequently asked questions
+
+**Why is ATP the immediate source of energy in cells?**
+Hydrolysis of ATP releases energy in small, usable amounts. Cells hold very little ATP, so they must keep making it by respiration.
+
+**Do plants respire as well as photosynthesise?**
+Yes. Respiration happens in all living plant cells, day and night, including cells with no chloroplasts such as root cells.
+
+**Which Krebs cycle compounds do I need to name for OCR A Level Biology?**
+The OCR A Level Biology A (H420) specification requires citrate and oxaloacetate only; names of the other intermediate compounds are not required.
+
+**What happens to pyruvate in the link reaction?**
+In the mitochondrial matrix, pyruvate is decarboxylated and dehydrogenated, reducing NAD, and the remaining acetyl group combines with coenzyme A to form acetyl CoA, which enters the Krebs cycle.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420) specification*, Version 4.1 (April 2026), first assessment 2025: section 5.2.2, learning outcomes (a) to (g).

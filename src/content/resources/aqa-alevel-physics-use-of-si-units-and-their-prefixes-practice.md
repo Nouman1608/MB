@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "measurements-and-their-errors-aqa-alevel"
     subtopic: "use-of-si-units-and-their-prefixes"
-description: "Original exam-style practice questions with full worked answers on base and derived SI units, SI prefixes, standard form, and converting between units of the same quantity, for sub-topic 3.1.1 of AQA A-level Physics (7408)."
+description: "Original practice questions with worked answers on SI base and derived units, prefixes, standard form and unit conversions for sub-topic 3.1.1 of AQA 7408."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-04
 featured: false
 ---
@@ -96,3 +96,17 @@ Related: [Use of SI Units and Their Prefixes study guide](/resources/aqa-alevel-
 ## Approaching SI units and prefixes questions
 
 The two AQA-specified unit conversions -- joules to electronvolts, and joules to kilowatt-hours -- both work the same way: identify which direction the conversion factor multiplies or divides, then check the answer's order of magnitude makes sense for the physical situation described (a tiny particle energy should come out as a small number of eV once divided by 1.6 × 10⁻¹⁹, not a huge one). The same discipline applies to prefix questions: convert the given value into full standard form first, then match the exponent to the nearest prefix in the table, rather than trying to jump straight from one prefix to another. Treat every calculation question as an SI-base-units check first -- if any quantity is still in a prefixed or non-base unit, converting it before substituting is what most consistently separates a fully correct answer from one that is wrong by a clean power of ten.
+
+## Frequently asked questions
+
+**How do you convert a value into standard form with a prefix?**
+Write the value in full standard form first, then match its power of ten to the nearest prefix in the table, rather than trying to jump straight from one prefix to another. Always check the exponent, not just the letter.
+
+**Which unit conversions are named in the AQA 7408 specification?**
+The specification names converting between joules and electronvolts, and between joules and kilowatt-hours. Decide whether the conversion factor multiplies or divides, then check the answer's size makes sense.
+
+**Why must you convert to SI base units before substituting?**
+Leaving a value in a prefixed or non-base unit, such as cm or mA, makes the final answer wrong by a power of ten even if every other step is correct. Convert each quantity first.
+
+**What prefix mistakes are common in AQA Physics?**
+Students often confuse prefixes with similar names or nearby exponents, such as milli (10⁻³) with micro (10⁻⁶), or mega (10⁶) with giga (10⁹).

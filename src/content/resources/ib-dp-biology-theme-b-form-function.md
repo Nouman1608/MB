@@ -12,13 +12,13 @@ order: 6
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-biology-form-function"
-description: "The full content of IB Diploma Programme Biology's Theme B -- carbohydrates and lipids, proteins, membranes, organelles, cell specialization, gas exchange and transport, muscle and motility, and adaptation to environment -- with HL-only content marked."
+description: "Study guide to IB DP Biology Theme B, Form and function: macromolecules, proteins, membranes, organelles, specialization, gas exchange, muscle and adaptation."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide covers **Theme B -- Form and function** (26 hours SL / 39 hours HL) of IB Diploma
@@ -219,6 +219,20 @@ sub-topics also connect forward explicitly: respiration and photosynthesis in Th
 organelle structure introduced here, and protein synthesis in Theme D depends on the protein structure
 already established in this theme -- treat Theme B as building a structural vocabulary the rest of the
 course reuses, not as a self-contained block to revise once and set aside.
+
+## Frequently asked questions
+
+**Why do cellulose and starch have different roles?**
+Cellulose's bonding arrangement gives long, strong, unbranched chains suited to a structural role in plant cell walls, while starch is more compact and readily broken down, suiting it to energy storage.
+
+**Why are membranes selectively permeable?**
+In the phospholipid bilayer, hydrophilic heads face outward and hydrophobic tails face inward, so small non-polar molecules pass through relatively freely while larger or charged molecules need specific transport proteins.
+
+**What are the four properties of gas-exchange surfaces in the IB Biology guide?**
+The guide (B3.1.2) lists permeability, a thin tissue layer, moisture and a large surface area; maintaining the concentration gradient by blood flow and ventilation (B3.1.3) is a separate idea.
+
+**What is the organising question of IB DP Biology Theme B?**
+Theme B, Form and function, asks how a structure's form suits its function at every scale, from molecules and cells to whole organisms adapted to their environments.
 
 ## Official syllabus
 

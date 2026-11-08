@@ -279,6 +279,23 @@ For a method or evaluation question, say what you change, what you measure, and 
 - Calling any image "real" without checking whether the rays actually meet.
 - Writing "the glass blocks light" instead of naming the wave type and the outcome.
 
+## Frequently asked questions
+
+**What are the primary and secondary colours of light?**
+The primary colours of light are red, green and blue. Red + green gives yellow, green + blue gives cyan, and red + blue gives magenta.
+
+**What is the speed of light in a vacuum?**
+About 3.00 × 10⁸ m/s. Light travels more slowly in glass, perspex and water.
+
+**What is the difference between a real and a virtual image?**
+A real image forms where rays actually meet. A virtual image forms where rays only appear to come from, so check whether the rays meet before calling an image real.
+
+**Which parts of OCR GCSE Physics A topic P5.3 are Higher tier or separate Physics only?**
+In OCR GCSE (9-1) Physics A (J249), the outcomes of a wave at a boundary (P5.3a) and wave velocity and refraction (P5.3b) are Higher tier only. Lenses, ray diagrams and colour (P5.3c to P5.3e) are separate Physics only.
+
+**What does a concave lens do to rays of light?**
+A concave lens spreads rays apart, while a convex lens brings them together. The specification suggests investigating both with rays of light.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), first assessment 2018. Topic P5.3 Wave interactions.

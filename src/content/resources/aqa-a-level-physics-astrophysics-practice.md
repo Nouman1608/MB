@@ -189,6 +189,20 @@ Data: c = 3.00 × 10⁸ m s⁻¹; G = 6.67 × 10⁻¹¹ N m² kg⁻²; σ = 5.67
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Is Astrophysics compulsory in AQA A-level Physics 7408?**
+No. Astrophysics, section 3.9, is one of five AQA 7408 options; you study one option, which is assessed in Paper 3 Section B. It is A-level only.
+
+**What units must distance be in for the distance modulus equation?**
+In m − M = 5 log₁₀(d/10), the distance d must be in parsecs. Putting d in metres or light years gives a meaningless magnitude.
+
+**How do you calculate the age of the Universe from the Hubble constant?**
+Convert H from km s⁻¹ Mpc⁻¹ to s⁻¹ by multiplying by 10³ and dividing by the number of metres in a megaparsec, then take 1/H in seconds and divide by the seconds in a year. This assumes H has been constant.
+
+**What mistakes lose marks on telescope calculations?**
+Common errors include writing the magnification as fₑ/fₒ instead of fₒ/fₑ, giving the lens separation as fₒ alone instead of fₒ + fₑ, and comparing an angle in degrees with λ/D in radians.
+
 ## Official syllabus
 
 AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, AS and A-level exams June 2016 onwards: section 3.9 Astrophysics (A-level only).

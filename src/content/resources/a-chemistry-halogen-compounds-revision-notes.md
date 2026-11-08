@@ -14,11 +14,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-halogen-compounds"
     subtopic: "a-halogen-compounds"
-description: "Condensed recall notes on producing halogenoarenes by electrophilic substitution with a halogen carrier, and why chlorobenzene is far less reactive than chloroethane, for Cambridge A Level Chemistry 9701 (2025-2027)."
+description: "Revision notes on making halogenoarenes with a halogen carrier and why chlorobenzene is far less reactive than chloroethane, for Cambridge 9701 Chemistry."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -186,3 +186,16 @@ Check the full syllabus wording in the
   <figcaption>Overlap of the Cl lone pair with the ring and repulsion of OH- explain no reaction.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you make chlorobenzene from benzene for Cambridge 9701 Chemistry?**
+React benzene with chlorine using an anhydrous AlCl₃ halogen carrier at room temperature: C₆H₆ + Cl₂ → C₆H₅Cl + HCl. The AlCl₃ generates the Cl⁺ electrophile and is regenerated at the end.
+
+**Why does chlorobenzene not react with NaOH(aq) when chloroethane does?**
+A lone pair on chlorine overlaps with the ring's π system, giving the C–Cl bond partial double-bond character, so it is shorter and stronger. The electron-rich ring also repels the OH⁻ nucleophile, and substitution would disrupt the stable delocalised ring.
+
+**What products form when methylbenzene reacts with chlorine and AlCl₃?**
+The –CH₃ group directs to the 2- and 4-positions, so the products are 2-chloromethylbenzene and 4-chloromethylbenzene. With UV light and no catalyst, the side-chain is chlorinated instead to give (chloromethyl)benzene.
+
+**Is the C–Cl bond in chlorobenzene non-polar?**
+No. Chlorine is still more electronegative than carbon, so the bond is polar. Chlorobenzene's lack of reactivity comes from the stronger C–Cl bond and the ring repelling nucleophiles, not from a non-polar bond.

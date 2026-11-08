@@ -119,6 +119,20 @@ These questions cover OCR GCSE (9-1) Economics (J205), Version 2.0 (June 2026), 
 - Mixing up credits and debits, so that a deficit is reported as a surplus.
 - Treating a one-year change as proof of a lasting trend.
 
+## Frequently asked questions
+
+**What is a current account deficit?**
+A current account deficit occurs when total debits on the current account are greater than total credits, so more money flows out for imports, income and transfers than flows in. State the sign, the word "deficit" and the unit in any answer.
+
+**What is the difference between the balance of trade and the current account?**
+The balance of trade covers exports and imports of goods and services. The current account also includes primary and secondary income flows, so giving the trade balance when the current account is asked for is a common mistake.
+
+**Is a current account deficit always bad?**
+No. Its importance depends on its size, its cause and how long it lasts. A deficit that funds imported machinery may support future growth, so writing "deficits are bad" without these points loses marks.
+
+**How do you work out a percentage change in exports?**
+Subtract the old value from the new value, divide by the old value and multiply by 100. Using the new value as the base is a common error.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ocr-gcse-economics-why-countries-trade-free-trade-agreements-and-the-revision-notes/) and the [study guide](/resources/ocr-gcse-economics-why-countries-trade-free-trade-agreements-and-the/).
@@ -128,4 +142,4 @@ These questions cover OCR GCSE (9-1) Economics (J205), Version 2.0 (June 2026), 
 
 ## Official syllabus
 
-OCR, Cambridge OCR Level 1/Level 2 GCSE (9-1) in Economics (J205), Version 2.0 (June 2026), first assessment 2019, sections 4.1 and 4.2.
+OCR, OCR Level 1/Level 2 GCSE (9-1) in Economics (J205), Version 2.0 (June 2026), first assessment 2019, sections 4.1 and 4.2.

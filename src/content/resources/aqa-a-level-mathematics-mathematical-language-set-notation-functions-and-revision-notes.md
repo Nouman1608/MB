@@ -254,6 +254,22 @@ When you critique, name the first faulty line, say why it fails, and show a corr
   <figcaption>The assumption of lowest terms is what the contradiction clashes with.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between an equation and an identity?**
+An equation is true only for particular values, while an identity is true for every value of the variable and is written with ≡.
+
+**What is the difference between ⊆ and ⊂?**
+A ⊆ B means A is a subset of B, and the two sets may be equal. A ⊂ B means A is a proper subset, so B has at least one element not in A.
+
+**How do "and" and "or" relate to set notation?**
+"And" corresponds to intersection (∩), and "or" corresponds to union (∪). Two separate pieces of an inequality solution are joined with ∪.
+
+**What are common faults in a mathematical argument?**
+Typical faults are treating examples as a proof, dividing by an expression that could be zero or negative, squaring without checking roots, using the converse of a statement, and steps with no justification.
+
+**How do you find the range of a function on a restricted domain?**
+Sketch the graph or complete the square, find any turning point and the values at the ends of the domain, then state the range as an inequality in f(x).
 
 ## Official syllabus
 

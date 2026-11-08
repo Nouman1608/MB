@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-p2-pure-maths-oxfordaqa-alevel-maths"
     subtopic: "p2-integration-oxfordaqa-alevel-maths"
-description: "Study guide to P2.7 integration by inspection and substitution for OxfordAQA International A-level Mathematics 9660, with worked examples."
+description: "Detailed study guide to P2.7 integration by inspection and substitution for OxfordAQA International A-level Mathematics 9660, with worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -277,6 +277,20 @@ Try inspection first when the integrand is one function of g(x) multiplied by g�
 ## Next steps
 
 Try the [practice questions](/resources/oxfordaqa-a-level-mathematics-integration-by-inspection-and-substitution-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-mathematics-integration-by-inspection-and-substitution-revision-notes/) to recall the results quickly. Tick off the topic on the [checklist](/checklists/oxfordaqa/a-level/mathematics/).
+
+## Frequently asked questions
+
+**What is integration by inspection?**
+It is the reverse chain rule. You spot an inside function g(x) whose derivative appears, up to a constant, write down the likely answer, then differentiate it to adjust the constant.
+
+**How do you choose u in integration by substitution?**
+Usually take u as the inside function or the awkward bracket. Then every x and dx must be replaced, using u = ... to rewrite any leftover x.
+
+**Which integration methods are in OxfordAQA 9660 section P2.7?**
+Section P2.7 of the OxfordAQA 9660 specification includes integrating eˣ, 1/x, sin x and cos x, the reverse chain rule by inspection, integration by substitution and integrals of the form f′(x)/f(x).
+
+**When should you try inspection before substitution?**
+Try inspection first when the integrand is a function of g(x) multiplied by g′(x), or g′(x) divided by g(x). Use substitution when the match is not obvious.
 
 ## Official syllabus
 

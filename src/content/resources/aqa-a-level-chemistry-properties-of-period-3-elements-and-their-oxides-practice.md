@@ -227,6 +227,23 @@ fewer H⁺ ions [1]
 - Missing the three water molecules when Al₂O₃ reacts with hydroxide ions.
 - Drawing sulfate(IV) without the lone pair on sulfur, or with the wrong charge.
 
+## Frequently asked questions
+
+**Is Period 3 elements and oxides AS content in AQA Chemistry?**
+No. Section 3.2.4 Properties of Period 3 elements and their oxides is A-level only in the AQA 7404/7405 specification. Inorganic chemistry is on A-level Paper 1, and Paper 3 can test any content.
+
+**What counts as an observation when Period 3 elements react with water?**
+Give what you would see, such as fizzing or the metal melting into a ball. "Hydrogen is produced" is a conclusion, not an observation.
+
+**Why do equations for magnesium with water lose marks?**
+Magnesium gives Mg(OH)₂ with cold water and MgO with steam. Swapping the products loses the equation marks even when each equation is balanced.
+
+**Why should you not say covalent bonds break when P₄O₁₀ or SO₃ melts?**
+P₄O₁₀ and SO₃ are simple molecular, so melting overcomes only intermolecular forces. Saying covalent bonds break contradicts the answer and costs the mark.
+
+**How are pH values for Period 3 oxide solutions marked?**
+A pH outside a reasonable range loses the mark even if the equation is correct. Also say that Al₂O₃ and SiO₂ are insoluble, rather than that they form a neutral solution.
+
 ## Next steps
 
 - [Period 3 oxides revision notes](/resources/aqa-a-level-chemistry-properties-of-period-3-elements-and-their-oxides-revision-notes/)

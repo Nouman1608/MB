@@ -13,13 +13,19 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-drama-and-poetry-9695"
+  - qualification: "a-level"
+    topic: "paper-1-drama-and-poetry-9695"
+    subtopic: "section-a-drama-9695"
+  - qualification: "a-level"
+    topic: "paper-1-drama-and-poetry-9695"
+    subtopic: "section-b-poetry-9695"
 description: "The format and structure of Paper 1 Drama and Poetry -- an AS Level paper for Cambridge International A Level English Literature 9695, 2024-2026 series."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added 2026 and 2027 Paper 1 set-text lists from the 2024-26 and 2027-28 syllabuses and an FAQ; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide covers **Paper 1 – Drama and Poetry**, an AS Level paper for
@@ -120,6 +126,31 @@ rhythm and metre, and form and structure all reward close reading, and
 naming a technique such as enjambment or caesura earns little on its
 own — the mark is in explaining the **effect** that technique has on
 meaning or tone at that specific point in the poem.
+
+## Which set texts are on Paper 1 in 2026 and 2027?
+
+The lists below are copied from the year-by-year set-text sections of the 9695 syllabuses for 2024 to
+2026 and for 2027 and 2028. Study one drama text and one poetry text.
+
+| Section | Examination in 2026 | Examination in 2027 |
+|---|---|---|
+| A: Drama | *Who's Afraid of Virginia Woolf?* (Albee); *Moon on a Rainbow Shawl* (Errol John); *The Tempest*; *The Duchess of Malfi* (Webster) | *Who's Afraid of Virginia Woolf?*; *The Rover* (Aphra Behn); *Barber Shop Chronicles* (Inua Ellams); *The Tempest* |
+| B: Poetry | Angelou, *And Still I Rise*; Blake, selected *Songs of Innocence and of Experience*; Plath, selected *Ariel* (1965); *Songs of Ourselves, Volume 2* selection | Zaffar Kunial, selected *England's Green*; Plath, selected *Ariel* (1965); Christina Rossetti, selected poems; *Songs of Ourselves, Volume 2* selection |
+
+The individual poems in each selection are listed in the syllabus, so check them there.
+
+## Frequently asked questions
+
+**How much is Paper 1 worth?**
+Paper 1 is a 2-hour paper worth 50 marks: 50% of the AS Level, or 25% of the full A Level.
+
+**Is AO5 assessed on Paper 1?**
+No. Paper 1 assesses AO1 to AO4 at 25% each. AO5 (evaluation of opinion) is assessed only on the
+A Level Papers 3 and 4.
+
+**Can I take my texts into the exam?**
+No. Set texts and dictionaries are not allowed in the examination room.
+
 
 ## A note on syllabus currency
 

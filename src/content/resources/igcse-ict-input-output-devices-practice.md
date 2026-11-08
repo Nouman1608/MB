@@ -12,11 +12,20 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "input-and-output-devices"
-description: "Original exam-style practice questions with full worked answers on input devices, direct data entry devices and output devices for Cambridge IGCSE ICT 0417, Topic 2."
+  - qualification: "igcse"
+    topic: "input-and-output-devices"
+    subtopic: "input-devices-and-their-uses-0417"
+  - qualification: "igcse"
+    topic: "input-and-output-devices"
+    subtopic: "direct-data-entry-and-associated-devices-0417"
+  - qualification: "igcse"
+    topic: "input-and-output-devices"
+    subtopic: "output-devices-and-their-uses-0417"
+description: "Original practice questions with worked answers on input devices, direct data entry devices and output devices for Cambridge IGCSE ICT 0417 Topic 2."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -97,6 +106,17 @@ Compare the two methods, explaining at least two advantages of the RFID method o
 **8.** A dot matrix printer can print through multiple layers of a carbon or carbonless multi-part form in a single pass (for example, producing a customer copy and a warehouse copy of the same delivery note simultaneously), which a laser or inkjet printer cannot do; a dot matrix printer's impact-based mechanism is also generally more tolerant of a dusty or harsh warehouse environment than a laser printer's more delicate internal components. The trade-off the warehouse is accepting is that dot matrix printing is noisy and produces low-resolution output compared with laser printing. **[4]** (Marks for a genuine multi-part-form or environment-based justification, plus a correctly stated disadvantage.)
 
 **9.** Typing a student ID at a keyboard requires the student to correctly enter a full ID number each morning, which is slower and creates the possibility of mistyped digits recording the wrong student as present (or a valid ID being typed by someone other than its owner). Tapping an RFID card is faster, since it requires only a brief tap rather than typing a full number, and reduces the risk of transcription error entirely, since the ID is read directly from the card rather than re-typed by hand; RFID reading is also less disruptable by queuing delays at busy times, since each tap takes less time than typing a full ID at a keyboard. A fair comparison should also note that RFID depends on students correctly carrying and presenting their own card, which is a different (not necessarily worse) source of error than keyboard mistyping. **[6]** (Marks for at least two genuine, distinct RFID advantages, correctly justified against the keyboard method rather than just asserted.)
+
+## Frequently asked questions
+
+**What kind of questions are asked on input and output devices?**
+Cambridge IGCSE ICT (0417) questions on Topic 2 regularly ask you to choose or justify the most suitable device for a given scenario, such as a supermarket, hospital or school, rather than simply define what a device does.
+
+**How do you justify a device choice?**
+Name the device, then give a reason linked to the scenario, such as speed, accuracy, cost, size, line of sight or durability, and compare it with the alternative method where the question asks you to.
+
+**How are compare questions on devices marked?**
+Marks go to distinct advantages that are justified against the alternative rather than just asserted. A fair comparison can also note the trade-off or new source of error the chosen method brings.
 
 ## Official syllabus
 

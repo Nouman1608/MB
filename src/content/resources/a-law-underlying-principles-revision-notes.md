@@ -1,5 +1,5 @@
 ---
-title: "A Level Law: Underlying Principles and Law Making — Revision Notes"
+title: "Edexcel International A Level Law: Underlying Principles and Law Making — Revision Notes"
 resourceType: "revision-notes"
 subject: "law"
 level: ["a-levels"]
@@ -12,13 +12,19 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-underlying-principles-and-english-legal-system-yla1"
+  - qualification: "a-level"
+    topic: "paper-1-underlying-principles-and-english-legal-system-yla1"
+    subtopic: "the-nature-purpose-of-and-liability-in-law-yla1"
+  - qualification: "a-level"
+    topic: "paper-1-underlying-principles-and-english-legal-system-yla1"
+    subtopic: "the-sources-of-english-law-its-enforcement-and-administration-yla1"
 description: "Condensed recall notes on parliamentary law making, delegated legislation, law reform and the relationship between law and morality for A Level Law."
 author: "marlbridge-academic-team"
-reviewer: "aizaz-raoof-ali"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -115,3 +121,17 @@ The Wolfenden Report and the subsequent decriminalisation legislation followed H
 5. Summarise the Hart–Devlin debate and which position prevailed in law.
 
 **Answers:** 1. Green Paper, White Paper, First Reading, Second Reading, Committee Stage, Report Stage, Third Reading, the other House, Royal Assent. 2. Parliament may legislate on anything, cannot bind its successors, and cannot be overridden; limited in practice by devolution, the Human Rights Act and declarations of incompatibility, international treaty obligations, and executive control of the timetable. 3. Orders in Council (King and Privy Council), statutory instruments (government ministers), by-laws (local authorities and public bodies). 4. Procedural means the correct procedure set out in the enabling Act was not followed; substantive means the body exceeded the powers it was actually granted. 5. Devlin held that law may enforce a shared morality that binds society; Hart held that law should only prevent harm to others. Hart's position prevailed, reflected in the Wolfenden Report and subsequent decriminalisation.
+
+## Frequently asked questions
+
+**What are the limits on parliamentary supremacy in practice?**
+Practical limits include devolution to Scotland, Wales and Northern Ireland, the Human Rights Act 1998 and declarations of incompatibility, international treaty obligations, and the government's control of the parliamentary timetable.
+
+**What is the Hart–Devlin debate?**
+Devlin argued that a shared morality holds society together, so the law may enforce it. Hart argued the law should only intervene to prevent harm to others; the Wolfenden Report and later decriminalisation followed Hart's position.
+
+**What is the difference between law and morality?**
+Law is enforced by the state, while morality is enforced by social pressure and conscience. They overlap, as with murder and theft, but adultery is widely held immoral yet lawful, and parking offences are unlawful but not immoral.
+
+**What does the Law Commission do?**
+The Law Commission is a full-time, independent body that systematically reviews the law and proposes reform, though many of its reports go unimplemented for lack of parliamentary time.

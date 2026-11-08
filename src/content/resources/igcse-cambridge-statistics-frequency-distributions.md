@@ -12,11 +12,11 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "frequency-distributions-0479"
-description: "Grouped and ungrouped frequency distributions, class boundaries and widths, histograms, frequency polygons and cumulative frequency -- Topic 3 of Cambridge IGCSE Statistics (0479), for examination 2027."
+description: "Topic 3 of Cambridge IGCSE Statistics 0479: grouped data, class boundaries and widths, histograms, frequency polygons and cumulative frequency curves."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review. Fix pass: replaced doubtful claim that limits and boundaries coincide for continuous data, and unsupported most-common-error claim, with the 0479 syllabus wording; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -84,13 +84,10 @@ For **discrete data** (values that can only take specific values, such
 as number of siblings), class limits, boundaries, midpoints and widths
 are all required and are typically whole numbers or simple midpoints
 between them. For **continuous data** (values that can take any value
-in a range, such as height or time), only class boundaries, midpoints
-and widths are required -- not because class limits do not exist, but
-because for continuous data the stated limits and the class boundaries
-coincide, so only the boundaries need to be examined separately.
-Confusing these two cases, or using discrete-style limits for
-continuous data, is the most common error the syllabus flags in this
-outcome. (This is a separate point from outcome 4's equal-class-widths
+in a range, such as height or time), the syllabus requires only class
+boundaries, midpoints and widths. Keep the two cases apart: give limits
+as well as boundaries for discrete data, and work from the boundaries
+for continuous data. (This is a separate point from outcome 4's equal-class-widths
 rule below, which applies to frequency polygons specifically --
 histograms are still expected to handle unequal class widths, via
 frequency density, so that content is not excluded by anything said
@@ -160,6 +157,23 @@ since exam questions often require moving between them in a single
 multi-part question. Keep a clear personal note of the discrete versus
 continuous rules from outcome 2, since this distinction resurfaces
 every time a new grouped-data question appears later in the syllabus.
+
+## Frequently asked questions
+
+**What are the advantages and disadvantages of grouping data?**
+Grouping makes large data sets easier to summarise and display, but it costs precision, because the exact original values are lost and can only be estimated. Exam answers should tie the reason to the context given.
+
+**Which class measures are required for discrete and continuous data in IGCSE Statistics 0479?**
+For discrete data, class limits, boundaries, midpoints and widths are required. For continuous data, class boundaries, midpoints and widths are required.
+
+**When must a histogram use frequency density?**
+When class widths are unequal, the bar heights must be frequency density (frequency ÷ class width) and the vertical axis labelled "frequency density". The area of each bar then represents its frequency.
+
+**Can a frequency polygon have unequal class widths in 0479?**
+The 0479 syllabus states that frequency polygons will use groups with equal class widths, including when comparing a pair of distributions. Histograms are still expected to handle unequal widths through frequency density.
+
+**How do you turn a cumulative frequency table back into a frequency table?**
+Subtract consecutive cumulative totals to recover the frequency of each class. Cumulative frequency is plotted against the upper class boundaries.
 
 ## Related resources
 

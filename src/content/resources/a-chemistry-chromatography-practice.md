@@ -19,9 +19,9 @@ syllabusTopics:
     subtopic: "a-gas-liquid-chromatography"
 description: "Original exam-style practice questions with full worked answers on TLC, gas chromatography, Rf values and percentage composition for A Level Chemistry."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -110,3 +110,20 @@ Related: [Chromatography revision notes](/resources/a-chemistry-chromatography-r
 - (Background point, not examinable) Ninhydrin only develops colourless amino-acid spots; it is not needed for spots that are already coloured.
 
 Work through these alongside the [chromatography revision notes](/resources/a-chemistry-chromatography-revision-notes/): the notes set out the principle and the definitions, while these questions test whether you can apply the polarity and volatility arguments to a specific pair of compounds rather than just recite the theory.
+
+## Frequently asked questions
+
+**How do you calculate an Rf value in TLC for Cambridge 9701 Chemistry?**
+Divide the distance moved by the spot by the distance moved by the solvent front, both measured from the baseline. Rf values only compare fairly when the solvent, stationary phase and temperature are the same.
+
+**Does a matching Rf value prove two compounds are the same?**
+No. Two different compounds can have the same Rf by coincidence. Run a known reference sample alongside on the same plate, or use a second solvent system.
+
+**Why is the TLC baseline drawn in pencil?**
+Ink would dissolve in the solvent and travel up the plate, contaminating the chromatogram. Pencil graphite does not move with the solvent.
+
+**What does peak area show in gas-liquid chromatography?**
+The area of a GLC peak represents the amount of that component in the mixture. Dividing one peak's area by the total peak area gives its percentage composition by peak area.
+
+**What affects retention time in gas chromatography?**
+Retention time depends on the component's boiling point and its solubility in the stationary phase. A low boiling point and low solubility both give a shorter retention time.

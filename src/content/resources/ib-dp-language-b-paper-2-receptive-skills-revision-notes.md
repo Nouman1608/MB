@@ -21,11 +21,11 @@ syllabusTopics:
     topic: "ib-dp-language-b-social-organization"
 description: "Condensed revision notes for IB DP Language B Paper 2: method boxes for each question format, key distinctions, timing and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 For full explanations and longer worked examples, use the
@@ -222,6 +222,20 @@ Questions 3–8 use the Mr Varga paragraph above.
 - Writing the first number heard before the speaker corrects it.
 - Copying the text for an "in your own words" question.
 - Losing time on one hard question and rushing the last text.
+
+## Frequently asked questions
+
+**What is the difference between "justify" and "explain" in Language B Paper 2?**
+"Justify" asks for evidence, usually a short quotation from the text. "Explain" asks for a reason in your own words.
+
+**What is the difference between a synonym and a paraphrase?**
+A synonym swaps one word for another with the same meaning, such as "begin" and "start". A paraphrase restates a whole idea in different words.
+
+**How do you budget time in a Paper 2 practice?**
+Divide the minutes available, after keeping about 5 minutes to check, by the total marks to get minutes per mark. Use your teacher's real section timings for your level.
+
+**Does the IB Language B brief give Paper 2 timings and question formats?**
+No. The subject brief gives the marks and weightings, but not section timings, the number of texts or the question formats, so get these from your teacher and specimen papers.
 
 ## Official syllabus
 

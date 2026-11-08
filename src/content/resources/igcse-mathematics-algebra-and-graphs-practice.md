@@ -40,14 +40,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "algebra-and-graphs-cambridge-igcse-maths"
     subtopic: "functions-cambridge-igcse-maths"
-description: "Original exam-style practice questions with full worked answers on using letters and substitution, algebraic manipulation, equations, inequalities, sequences, graphs and sketching curves for Cambridge IGCSE Mathematics 0580."
+description: "Original practice questions with worked answers on equations, inequalities, sequences, graphs, functions and proportion for Cambridge IGCSE Mathematics 0580."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-29
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -176,5 +176,19 @@ x − y = 1 **[3]**
 - Stopping after removing a numeric common factor without checking for a further structure inside the bracket -- e.g. factorising `12m^2 - 75t^2` as `3(4m^2 - 25t^2)` and stopping, instead of spotting the remaining difference of two squares.
 - In simultaneous equations solved by elimination, using addition where the signs require subtraction (or vice versa) after scaling one equation -- check the sign of each term being eliminated, not just its size.
 - When a question asks you to solve an equation graphically (e.g. "by drawing a suitable line"), doing so -- an algebraic solution to the same equation, even if correct, does not answer what was asked and is not credited the same way.
+
+## Frequently asked questions
+
+**What is a common mistake when factorising completely?**
+Stopping after taking out a numerical common factor without checking the bracket for further structure, such as a difference of two squares. 6x² − 24 needs both steps.
+
+**How do you choose between adding and subtracting in simultaneous equations?**
+Look at the signs of the matching coefficients: subtract the equations if the signs are the same, and add them if the signs are different.
+
+**What should you do if a question says solve graphically?**
+Use the graph as instructed, for example by drawing a suitable line and reading the intersections. Solving algebraically instead may not earn the marks.
+
+**Which algebra questions are Extended only in Cambridge IGCSE 0580?**
+Questions marked Extended on this page, such as solving quadratic equations, functions, proportion and differentiation, use content from the Extended syllabus of Cambridge IGCSE Mathematics 0580; the unmarked questions are Core content.
 
 *Source: Cambridge International, 0580 Mathematics Principal Examiner Report, June 2024 series, Papers 11, 21, 22, 23 (verified 2026-09-02).*

@@ -165,6 +165,20 @@ These questions cover outcomes 7.6.1, 7.6.2, 7.6.3 and 7.6.5 of the Cambridge In
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 market structure questions from past papers?**
+No. They are original practice questions with worked answers covering outcomes 7.6.1, 7.6.2, 7.6.3 and 7.6.5 of the Cambridge International AS & A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**What are common mistakes in concentration ratio calculations?**
+Common errors include giving a concentration ratio without n, adding the wrong firms, and dividing by the total of the leading firms rather than the whole market. After a merger, re-rank the firms before choosing the top n.
+
+**Does a high concentration ratio prove a market is uncompetitive?**
+Not on its own. Treating a high concentration ratio as proof of high prices, with no evaluation, loses marks; end with a supported judgement that considers evidence such as barriers to entry.
+
+**How should you answer a question on barriers to entry?**
+Name the type of barrier, explain the mechanism by which it stops or slows a new firm, and link it to the number of firms in the market. Naming a barrier with no mechanism earns little.
+
 ## Official syllabus
 
 This page follows the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, outcomes 7.6.1 to 7.6.3 and 7.6.5.

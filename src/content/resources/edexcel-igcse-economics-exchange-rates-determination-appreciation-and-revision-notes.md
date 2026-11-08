@@ -254,6 +254,23 @@ Learn these as short chains. Each link should be a separate sentence in an exten
 - Not separating the effect on price from the effect on quantity demanded.
 - Giving a one-sided answer with no mention of who loses.
 
+## Frequently asked questions
+
+**What is the difference between appreciation and revaluation?**
+Appreciation is a rise in a currency's value caused by market forces in a floating system. Revaluation is a rise chosen by the government or central bank, which sets the rate in a fixed system.
+
+**How does a rise in interest rates affect the exchange rate?**
+Higher interest rates make saving in the country more rewarding, so foreign savers buy its currency to deposit their money. Demand for the currency shifts right and the exchange rate rises.
+
+**How do currency speculators affect the exchange rate?**
+Speculators buy or sell a currency based on what they expect to happen. If they expect a currency to rise they buy it, raising demand; if they expect it to fall they sell it, raising supply, so their actions can make the expected change happen.
+
+**What does an appreciation do to export and import prices?**
+An appreciation makes exports dearer in foreign currency and imports cheaper in home currency. Export demand tends to fall and import demand to rise, so the current account tends to move towards deficit.
+
+**Does a fall in import quantity mean a fall in import spending?**
+Not necessarily. After a depreciation each import costs more in home currency, so if the quantity falls only a little, total spending on imports can still rise.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, published by Pearson Education Limited, section 2.2.3.

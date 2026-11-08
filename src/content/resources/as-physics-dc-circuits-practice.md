@@ -20,11 +20,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-dc-circuits"
     subtopic: "as-potential-dividers"
-description: "Original exam-style practice questions with full worked answers on Kirchhoff laws, internal resistance and potential dividers for Cambridge AS & A Level Physics 9702."
+description: "Original practice questions with worked answers on Kirchhoff's laws, internal resistance and potential dividers for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -143,3 +143,17 @@ Related: [D.C. Circuits revision notes](/resources/as-physics-dc-circuits-revisi
 - Adding parallel resistances directly instead of using the reciprocal formula.
 - Assuming an LDR's output voltage behaves the same way as a thermistor's without checking which component the output is taken across.
 - Treating e.m.f. and terminal p.d. as always equal, forgetting they only coincide when internal resistance is negligible or no current flows -- and, more generally, treating terminal p.d. as always *below* e.m.f., forgetting this only holds while the cell is discharging (supplying current); while it is being charged, the terminal voltage exceeds the e.m.f. by Ir.
+
+## Frequently asked questions
+
+**What is the internal resistance of a cell?**
+Internal resistance is the resistance of the cell itself. When current flows, some energy per unit charge is dissipated inside the cell, so the terminal p.d. of a real cell supplying current is less than its e.m.f.
+
+**What is the formula for terminal p.d.?**
+Terminal p.d. is V = E − Ir, where E is the e.m.f., I the current and r the internal resistance. The term Ir is often called the "lost volts".
+
+**How do you calculate the output of a potential divider?**
+The output across one resistor is V_out = V_in × R₂ ÷ (R₁ + R₂), where R₂ is the resistor the output is taken across. Using the wrong resistance in the ratio is a common error.
+
+**What mistakes lose marks in d.c. circuits questions?**
+Common errors include forgetting internal resistance for a real cell, adding parallel resistances directly instead of using reciprocals, and not checking which component the potential divider output is taken across.

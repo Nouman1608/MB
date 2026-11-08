@@ -169,6 +169,17 @@ Revise first with the [study guide](/resources/o-level-biology-5090-development-
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What does Topic 16 cover in Cambridge O Level Biology 5090?**
+Topic 16, Development of organisms and continuity of life, covers nuclear division (mitosis and meiosis), asexual and sexual reproduction, sexual reproduction in flowering plants and sexual reproduction in humans. The syllabus is not tiered, so every question applies to every candidate.
+
+**How should you describe a trend from a data table?**
+State the overall pattern and quote data from the table, with units, to support it. Describing a trend without any figures from the data is a common way to lose marks.
+
+**How should you answer a question that asks you to describe a sequence of events?**
+Write each event as a separate step in the correct order, using the precise biological terms, such as naming the exact structure involved. Vague or out-of-order steps make it harder to earn each mark.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 16: Development of organisms and continuity of life (16.1 Nuclear division; 16.2 Asexual and sexual reproduction; 16.3 Sexual reproduction in plants; 16.4 Sexual reproduction in humans), published by Cambridge Assessment International Education.

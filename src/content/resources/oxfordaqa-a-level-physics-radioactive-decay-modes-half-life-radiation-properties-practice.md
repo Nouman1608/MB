@@ -145,6 +145,20 @@ Links: [study guide](/resources/oxfordaqa-a-level-physics-radioactive-decay-mode
 - All free 10-minute [diagnostics](/diagnostics/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**What mistakes lose marks in half-life questions?**
+Forgetting to subtract the background count before finding the half-life, and using only one starting point on the graph. Define half-life as the time for half the nuclei to decay, not "half the time to decay".
+
+**Are these OxfordAQA A-level Physics past paper questions?**
+No. They are original practice questions with worked answers, written for revision on this topic of OxfordAQA International AS and A-level Physics (9630). Use them alongside the official past papers from the board.
+
+**Do I need exponential decay equations for these questions?**
+No. Section 3.3.3 uses whole numbers of half-lives. The OxfordAQA International AS and A-level Physics (9630) specification places exponential decay equations at International A-level only, in section 3.9.
+
+**Is radioactivity in OxfordAQA International AS Physics (9630)?**
+Yes. Section 3.3.3 (radioactivity) is shared International AS and A-level content, so these questions suit both routes.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), specification version 4.4, for exams from May/June 2020 onwards, published by Oxford International AQA Examinations: section 3.3.3 Radioactivity.

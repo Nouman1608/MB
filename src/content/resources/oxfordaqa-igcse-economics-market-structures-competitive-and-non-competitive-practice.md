@@ -147,6 +147,23 @@ These questions cover sections 3.1.5.1 to 3.1.5.3 of the OxfordAQA International
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between profit and profit margin?**
+Profit is total revenue minus total cost, given as a sum of money. Profit margin is profit divided by revenue, multiplied by 100, so it is a percentage.
+
+**How do you calculate a percentage change correctly?**
+Divide the change by the original figure and multiply by 100. Dividing by the new figure instead of the original is one of the most common slips in market structure calculations.
+
+**Does a monopoly always charge high prices?**
+No. A monopoly has the power to set price, but its behaviour can be limited by the threat of new entrants or by rules, and cost savings from large scale may be passed on to consumers. Claiming it always charges high prices is a common way to lose marks.
+
+**How do you answer an evaluate question on market power?**
+Argue both sides, then reach a reasoned judgement that depends on stated conditions, such as how high the barriers to entry are. Offering only advantages or only disadvantages, or a conclusion that does not follow from the argument, loses marks.
+
+**Which part of the OxfordAQA 9214 specification covers market structures?**
+Sections 3.1.5.1 to 3.1.5.3 of the OxfordAQA International GCSE Economics (9214) specification: a range of market structures, competitive markets and non-competitive markets.
+
 ## Official syllabus
 
 Source: OxfordAQA, *International GCSE Economics (9214) specification*, first teaching September 2023, first examined May/June 2025, sections 3.1.5.1 to 3.1.5.3.

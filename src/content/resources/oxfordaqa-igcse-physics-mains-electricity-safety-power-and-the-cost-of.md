@@ -246,6 +246,20 @@ A meter reads 04817 kWh at the start of a quarter and 05103 kWh at the end. Elec
 
 Try the [practice questions](/resources/oxfordaqa-igcse-physics-mains-electricity-safety-power-and-the-cost-of-practice/), then the [revision notes](/resources/oxfordaqa-igcse-physics-mains-electricity-safety-power-and-the-cost-of-revision-notes/). Take a [free 10-minute diagnostic](/diagnostics/) to find weak spots.
 
+## Frequently asked questions
+
+**What is the difference between a fuse and a circuit breaker?**
+Both sit in the live wire and break the circuit when the current is too great. A circuit breaker works much faster than a fuse and can be reset after the fault is fixed, while a melted fuse must be replaced.
+
+**Why does a double-insulated appliance not need an earth wire?**
+Its casing and internal construction keep the user away from live parts, so the parts a user can touch cannot become live. Many plastic-bodied hair dryers and power tools are double insulated.
+
+**What is the link between frequency and period?**
+Frequency is the number of complete cycles each second, in hertz, and f = 1 / T. Convert a period in milliseconds to seconds before using the equation.
+
+**Is OxfordAQA International GCSE Physics (9203) tiered?**
+No. The qualification is untiered, and sections 3.6.3 and 3.6.5 carry no tier marking, so this content applies to every candidate.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203). For exams May/June 2018 onwards. Sections 3.6.3 and 3.6.5. Published by OxfordAQA.

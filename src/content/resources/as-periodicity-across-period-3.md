@@ -20,11 +20,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-the-periodic-table-chemical-periodicity"
     subtopic: "as-chemical-periodicity-of-other-elements"
-description: "Physical and chemical periodicity across Period 3 (Na to Ar), including oxide and chloride reactions with water, for Cambridge International AS & A Level Chemistry 9701."
+description: "Physical and chemical periodicity across Period 3, sodium to argon, with oxide and chloride reactions with water, for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -273,6 +273,20 @@ insoluble (Si) → acidic (P, S)
 - Explaining the ionic/covalent chloride split via shrinking
 electronegativity difference
 - Using the pattern predictively for unknown elements (9.3)
+
+## Frequently asked questions
+
+**Why does silicon have the highest melting point in Period 3?**
+Silicon has a giant covalent lattice, so melting breaks many strong covalent bonds. P₄, S₈ and Cl₂ also have strong bonds within molecules, but melting them only overcomes weak forces between molecules.
+
+**How do the Period 3 chlorides behave in water?**
+NaCl dissolves unchanged to give pH 7, MgCl₂ gives a slightly acidic solution and AlCl₃ gives a strongly acidic solution. From silicon onwards the chlorides are covalent and hydrolyse completely.
+
+**Which syllabus points does this Cambridge 9701 guide cover?**
+It covers subtopics 9.1, physical periodicity, 9.2, chemical periodicity, and 9.3, chemical periodicity of other elements, for Period 3 in Cambridge International AS & A Level Chemistry 9701.
+
+**Can you predict properties of other elements from Period 3 trends?**
+Yes. Subtopic 9.3 expects you to use the patterns in Period 3 to predict the likely properties and reactions of other elements and their compounds.
 
 ## Related resources
 

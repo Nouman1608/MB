@@ -20,9 +20,9 @@ description: "Condensed AQA 7192 Beliefs in society revision notes: key terms, s
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 These notes condense the [Beliefs in society study guide](/resources/aqa-a-level-sociology-7192-beliefs-in-society/); read that first if any idea here is new.
@@ -154,6 +154,20 @@ They cover section 4.2.5 Beliefs in Society of the AQA AS and A-level Sociology 
 - Ending with a judgement that does not follow from the evidence you used.
 
 For broader perspective links, revisit the [Crime and Deviance revision notes](/resources/a-level-aqa-sociology-crime-and-deviance-revision-notes/) and the [A-level Sociology course structure](/resources/a-level-sociology-course-structure/). For globalisation, see the [Global development revision notes](/resources/aqa-a-level-sociology-7192-global-development-revision-notes/).
+
+## Frequently asked questions
+
+**What is the difference between a church and a sect?**
+Both claim a monopoly of truth, but a church accepts wider society and a sect rejects it. Sects are small, exclusive and demanding, while churches are large and recruit from all classes.
+
+**What does "believing without belonging" mean?**
+It is Davie's phrase for people who keep religious beliefs while no longer attending or belonging to a religious organisation. Voas and Crockett reply that belief is falling too, not just attendance.
+
+**How should you define secularisation in an AQA Sociology essay?**
+Wilson defined secularisation as religion losing its social significance. Cover belief and social significance as well as attendance, rather than defining it only as fewer people going to church.
+
+**Did Weber say Calvinism caused capitalism?**
+Not on its own. Weber argued in *The Protestant Ethic and the Spirit of Capitalism* that Calvinist beliefs helped produce the spirit of capitalism, as one cause among others.
 
 ## Official syllabus
 

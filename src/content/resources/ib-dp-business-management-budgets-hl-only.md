@@ -206,6 +206,20 @@ For an "evaluate" or "justify" question, a good answer gives points on both side
 - Leaving out the F or A label.
 - Giving a cost centre a profit figure. It records costs only.
 
+## Frequently asked questions
+
+**Why are budgets important for decision-making?**
+Budgets help with planning, coordination, resource allocation, control, responsibility and motivation. Variances show where results differ from plan, so managers can focus on significant gaps.
+
+**What are the limitations of budgets?**
+A budget is only as good as its forecasts, a rigid budget can discourage sensible spending, managers may pad costs, and a variance shows what happened but not why.
+
+**Can a favorable cost variance be bad for a business?**
+Yes. A favorable cost variance may come from cutting quality or delaying maintenance, which could harm the business later.
+
+**What are the roles of a profit centre?**
+Profit centres let an organization judge how much each part earns, give managers responsibility for revenue as well as cost, help owners decide where to invest and can motivate managers. Managers may chase their own centre's profit at the expense of the whole business.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. This page covers section 3.9, Budgets (HL only).

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "global-challenges-ocr-gcse"
     subtopic: "beyond-earth-ocr-gcse"
-description: "Condensed revision notes on red-shift, expanding universe evidence, the Big Bang, CMBR and star formation for OCR GCSE Physics A (J249)."
+description: "Condensed revision notes on red-shift, evidence for an expanding universe, the Big Bang, CMBR and star formation for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
@@ -258,6 +258,23 @@ For a question that asks how evidence supports a model, state what the model pre
 - Giving CMBR as evidence without saying that the early radiation was stretched by expansion.
 - Writing "gravity and fusion balance" without saying that fusion releases energy that causes outward expansion.
 - Confusing fusion in stars with fission in power stations.
+
+## Frequently asked questions
+
+**Do I have to calculate speeds from red-shift in OCR GCSE Physics A?**
+No. Red-shift in OCR GCSE (9-1) Physics A (J249), statement P8.3a, is qualitative only, so no calculation of speed from wavelength is asked for. This topic is separate Physics only.
+
+**How does the balloon model explain the expanding universe?**
+Dots on a balloon move apart as it inflates, and a dot further away moves away faster because there is more stretching rubber between it and you. It models space itself expanding.
+
+**Was the Big Bang an explosion?**
+No. The Big Bang was the expansion of space from a very small, hot, dense state, not an explosion of matter into empty space. It has no centre in space.
+
+**How does CMBR support the Big Bang model?**
+The early universe was very hot and dense and full of radiation. Expansion stretched the wavelengths of this radiation, which now reaches us as microwaves from every direction.
+
+**What keeps a star in equilibrium?**
+Gravity pulls the star's matter inward, while energy released by fusion heats the gas so it expands outward. The balance corrects itself: if fusion speeds up the core expands and fusion slows, and if fusion slows gravity squeezes the core and it speeds up.
 
 ## Official syllabus
 

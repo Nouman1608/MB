@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "the-operation-of-markets-market-failure-and-the-role-of-government-oxfordaqa-alevel-economics"
 description: "Condensed recall notes on methodology, demand and supply, elasticity, costs, market structures and market failure for International A Level Economics."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -174,7 +174,7 @@ AC = TC/Q     MC = dTC/dQ     profit maximised where MC = MR
 
 Negative and positive externalities, public goods (**non-excludable and non-rival**), information failure, factor immobility, monopoly power.
 
-**Externality diagrams must be labelled** — MPC, MSC, MPB, MSB, market outcome, social optimum, and the shaded welfare loss triangle. An unlabelled diagram is much weaker evidence of diagram technique, even when the explanation is correct.
+**Externality diagrams must be labelled.** The 9640 specification says you are not required to use MSC/MSB diagrams: a demand and supply diagram with a second supply (or demand) curve showing the full social cost (or benefit) is enough. Label both curves, the market outcome, the social optimum and the shaded welfare loss triangle. An unlabelled diagram is much weaker evidence of diagram technique, even when the explanation is correct.
 
 **Intervention and its limits:**
 
@@ -249,3 +249,19 @@ Negative and positive externalities, public goods (**non-excludable and non-riva
   <figcaption>Buyers cannot tell good from bad, so the offer is too low for sound vans to sell.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does capital mean in economics?**
+Capital means machinery, tools and buildings used in production, not money. Money is used to buy capital.
+
+**Why is a production possibility curve concave to the origin?**
+Resources are not perfectly substitutable between uses, so the opportunity cost of producing more of one good rises as more of it is produced.
+
+**Do economies of scale reduce total cost?**
+No. Economies of scale reduce average cost; total costs still rise as output rises.
+
+**What defines an oligopoly?**
+An oligopoly is defined by interdependence: each firm's best action depends on how rivals respond. This tends to produce price rigidity, non-price competition and an incentive to collude.
+
+**Is monopoly always bad for consumers?**
+Not automatically. A monopoly may gain economies of scale and fund research, so a balanced answer weighs higher prices and restricted output against those possible benefits.

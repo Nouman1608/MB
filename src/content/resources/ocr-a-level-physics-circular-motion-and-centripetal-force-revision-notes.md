@@ -207,6 +207,20 @@ Notice that radius appears in the denominator in the first form but in the numer
 - Timing one revolution only, instead of many revolutions, in the investigation.
 - Missing the units of a gradient, which are N s² for F against f².
 
+## Frequently asked questions
+
+**How do you convert revolutions per minute to angular velocity?**
+Divide revolutions per minute by 60 to get the frequency in hertz, then use ω = 2πf to get the angular velocity in rad s⁻¹.
+
+**What happens to centripetal force if the speed doubles?**
+For a fixed mass and radius, F = mv²/r, so the force is proportional to v². Doubling the speed needs four times the centripetal force, not twice.
+
+**Does centripetal force do work on an object moving in a circle?**
+No. The force is perpendicular to the velocity at every instant, so it does no work and the kinetic energy and speed stay constant; it only changes the direction of the velocity.
+
+**What does section 5.2 of OCR A Level Physics A cover?**
+Section 5.2 of OCR H556 covers the radian, period, frequency and angular velocity (5.2.1) and centripetal acceleration, centripetal force and the whirling bung investigation (5.2.2).
+
 ## Official syllabus
 
 Source: the OCR *Physics A (H556)* specification, Version 3.0 (March 2026), first assessment 2017. Section 5.2 Circular motion; outcomes 5.2.1(a)-(c) and 5.2.2(a)-(d).

@@ -217,6 +217,20 @@ These are suggested in the specification, not Core Practicals: comparing alkanes
 - Writing "goes clear" for bromine water instead of "orange-brown to colourless".
 - Leaving a C=C inside a polymer repeat unit.
 
+## Frequently asked questions
+
+**What is the difference between a σ bond and a π bond in an alkene?**
+A σ bond forms by head-on overlap of orbitals on the axis between the nuclei. A π bond forms by sideways overlap of p orbitals, with electron density above and below the plane.
+
+**Why do alkenes undergo addition reactions?**
+The π bond is weaker than the σ bond and its electrons are exposed, so electrophiles attack it and atoms are added across the C=C.
+
+**What is the bromine water test result for an alkene?**
+Bromine water changes from orange-brown to colourless with an alkene. Writing "goes clear" instead of naming both colours is a common error.
+
+**Why is the secondary carbocation favoured when propene reacts with HBr?**
+Alkyl groups release electrons towards the positive carbon, so a secondary carbocation is more stable than a primary one. The major product, 2-bromopropane, forms from the more stable carbocation.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited -- Unit 1, Topic 5: Alkenes, outcomes 5.1 to 5.8.

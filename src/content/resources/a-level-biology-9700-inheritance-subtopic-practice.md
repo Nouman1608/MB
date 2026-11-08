@@ -188,6 +188,20 @@ Correct genotypes [1]. Females **3 normal red : 1 vestigial red** [1]. Males **3
 - [Course hub](/boards/cambridge/a-level/biology/) and [printable checklist](/checklists/cambridge/a-level/biology/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How is this set different from the topic-level inheritance practice questions?**
+This set works subtopic by subtopic through Topic 16, while the topic-level set takes different angles. Using both gives wider practice.
+
+**Is the chi-squared critical value given?**
+Yes. The page gives the critical value of χ² at p = 0.05 with 3 degrees of freedom (7.82). In the exam, work out the degrees of freedom yourself.
+
+**How should codominant and sex-linked alleles be written in a genetic diagram?**
+Use a gene letter with superscripts for codominant alleles, and write sex-linked alleles on the X chromosome. Using plain dominant and recessive letters for codominant alleles loses marks.
+
+**What should you do after finding that a chi-squared result is significant?**
+Go on to explain the likely biological cause of the difference. Stopping at "significant" does not earn the full marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027 (Version 1), Cambridge University Press & Assessment -- topic 16, Inheritance: 16.1, 16.2 and 16.3.

@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-environment-2059"
     subtopic: "the-land-of-pakistan-2059"
-description: "Exam-style questions with full worked answers on Pakistan's location, administrative areas, natural topography and climate, for Cambridge O Level Pakistan Studies (2059) Paper 2 Section 1."
+description: "Exam-style questions with worked answers on Pakistan's location, cities, topography and climate for Cambridge O Level Pakistan Studies 2059 Paper 2 Section 1."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -178,3 +178,14 @@ with the precise human consequence (on transport, farming, water
 supply, or settlement) — a vague reference to "harsh climate" or
 "difficult terrain" without this chain of reasoning will not access
 full marks, however accurate the underlying geography is.
+
+## Frequently asked questions
+
+**How is Paper 2 structured?**
+Paper 2 (1 hour 30 minutes, 75 marks, 50%) asks you to answer three questions from a choice of five, each worth 25 marks, in four parts (a) to (d) built around maps, graphs, photographs and other resources; part (d) tests analysis.
+
+**Which longitudes locate Pakistan?**
+64°E, 70°E and 76°E, with latitudes 30°N and 36°N.
+
+**How should I practise this section?**
+Locate every named city, mountain range, river and desert from memory on a blank outline map.

@@ -34,11 +34,11 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "atoms-elements-and-compounds"
     subtopic: "metallic-bonding"
-description: "Condensed recall notes on ionic, covalent, giant covalent and metallic bonding for Cambridge IGCSE 0620 and O Level 5070 — structure-to-property tables and exam traps."
+description: "Condensed Cambridge IGCSE 0620 and O Level 5070 revision notes on ionic, covalent, giant covalent and metallic bonding, with property tables and exam traps."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -147,3 +147,17 @@ delocalised electrons free to carry charge.
 7. SiO₂ and diamond are both giant covalent and very hard, but only one of the two elements involved (carbon) also forms a soft, slippery, conducting allotrope. Explain why graphite conducts but SiO₂ does not.
 
 **Answers:** 1. Ions are fixed in the lattice when solid; melting frees them to move and carry charge. 2. CO₂ is simple molecular — only weak intermolecular forces need overcoming; SiO₂ is giant covalent, requiring strong covalent bonds to be broken. 3. Weak forces between layers let them slide (lubricant); one delocalised electron per carbon carries charge (electrode). 4. Metal layers slide while delocalised electrons maintain attraction; in ionic solids displacement brings like charges together, which repel and split the crystal. 5. Ionic — transferred; covalent — shared; metallic — delocalised into a sea. 6. A regular, repeating 3D arrangement of alternating positive and negative ions. 7. In graphite each carbon uses only 3 of its 4 outer electrons in bonds, leaving one delocalised per atom; in SiO₂, all the outer electrons are localised in bonding pairs or lone pairs, so none is delocalised or free to carry charge.
+
+## Frequently asked questions
+
+**What phrase should you use to define an ionic bond in IGCSE Chemistry?**
+Say "electrostatic attraction between oppositely charged ions". Writing only that "the ions attract" or "ions stuck together" does not earn the mark.
+
+**Why do simple molecular substances have low melting points?**
+Melting a simple molecular substance overcomes only the weak forces between molecules; the covalent bonds inside the molecules do not break.
+
+**Why are metals malleable?**
+Layers of metal ions can slide over each other while the sea of delocalised electrons keeps the bonding in place.
+
+**What does a dot-and-cross diagram show?**
+It uses dots for one atom's electrons and crosses for the other's, so the examiner can see where each electron came from, either transferred in ionic bonding or shared in covalent bonding.

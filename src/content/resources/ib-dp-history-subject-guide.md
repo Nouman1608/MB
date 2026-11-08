@@ -6,127 +6,176 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP History"]
-description: "An overview of IB Diploma Programme History -- a comparative, multi-perspective world history course built around four historical concepts: cause and consequence, continuity and change, perspectives, and significance."
+syllabusSeries: "First assessment 2017"
+description: "An overview of IB DP History (first assessed 2017, examined to 2027): papers, weightings, six key concepts, SL and HL routes, and the changes due in 2028."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: rewritten to present the current course (first assessment 2017, last exams 2027) per owner decision; 2028 course moved to a labelled section; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
 
-The IB Diploma Programme History course is a world history course,
-offered within the Individuals and Societies subject group, based on
-a comparative and multi-perspective approach to history. It
-involves the study of a variety of types of history -- political,
-economic, social and cultural -- and provides a balance of structure
-and flexibility.
+**IB Diploma Programme History** is a world history course in the
+Individuals and Societies group, built on a comparative and
+multi-perspective approach to the past. The course examined today is
+the one **first assessed in 2017**, and it remains the examined course
+for every session up to and including **2027**: SL students sit two
+papers and an internal assessment, HL students add a third paper on one
+regional option. A successor course is taught from August 2026 for
+first exams in May 2028; what changes is summarised at the end of this
+page so it does not get mixed up with what you will actually sit.
 
-## What the course emphasizes
+## What kind of history does the course teach?
 
-The course emphasizes encouraging students to think historically and
-develop historical skills, alongside gaining factual knowledge. It
-puts a premium on developing critical-thinking skills and on
-understanding multiple interpretations of history, making it a
-challenging and demanding critical exploration of the past. Teachers
-explicitly teach thinking and research skills such as comprehension,
-text analysis, transfer, and the use of primary sources.
+The course covers political, economic, social and cultural history and
+balances structure with flexibility. The IB subject brief stresses that
+students should learn to *think historically*: to build accurate factual
+knowledge, but also to analyse sources, weigh interpretations and argue
+a case. Teachers explicitly teach comprehension, text analysis, transfer
+and the use of primary sources.
 
-The current course (first examined 2028, see "How it's assessed"
-below) is built around four historical concepts: cause and consequence,
-continuity and change, perspectives, and significance. Older textbooks
-and past papers written for the previous course refer instead to six
-key concepts (change, continuity, causation, consequence, significance
-and perspectives); use the four-concept framing for the current course.
+Because it is a *world* history course, almost every component asks you
+to work with more than one region of the world. The prescribed subjects
+use two case studies from different regions, the world history topics
+are studied through examples from more than one region, and Paper 2
+questions often ask you to compare two countries or states "each chosen
+from a different region".
 
-Briefly, in the specification's current four-concept framing: **cause
-and consequence** asks why events happened and what resulted; **continuity
-and change** asks what stayed the same and what altered over a given
-period; **perspectives** asks whose viewpoint a source or account
-represents; and **significance** asks why a particular event, person or
-development matters, and by what criteria. All four recur across every
-paper and the internal assessment, whichever focused study, theme or (at
-HL) region a class has actually studied — for the fuller treatment of
-each, with the specific traps examiners look for, see the
-[four concepts revision notes](/resources/ib-dp-history-four-concepts-revision-notes/).
+## What are the six key concepts in IB History?
 
-## Aims
+The 2017 course gives particular prominence to **six key concepts**:
+**change, continuity, causation, consequence, significance and
+perspectives**. They are not a separate syllabus topic; they are the
+lenses through which questions are set. A Paper 2 question might ask
+you to "examine the consequences" of a war, a Paper 3 question to
+"evaluate the significance" of a leader, and a Paper 1 source question
+to compare the perspectives of two sources. The
+[key concepts revision notes](/resources/ib-dp-history-four-concepts-revision-notes/)
+work through each one with the traps examiners look for.
 
-The current course (first examined 2028) aims to enable students to:
+## What are the aims of the course?
 
-- explore and critically engage with multiple perspectives and ways
-  of thinking
-- investigate and evaluate the interactions between individuals and
-  societies
-- think and act as informed and principled individuals in societies
-- understand and value the variety and diversity of the human
-  experience across time and place.
+The subject brief lists six aims. The course should enable students to:
 
-## How it's assessed
+- develop an understanding of, and continuing interest in, the past
+- engage with multiple perspectives and appreciate the complex nature
+  of historical concepts, issues, events and developments
+- promote international-mindedness through the study of history from
+  more than one region of the world
+- develop an understanding of history as a discipline and a historical
+  consciousness, including a sense of chronology and context
+- develop key historical skills, including engaging effectively with
+  sources
+- increase their understanding of themselves and of contemporary
+  society by reflecting on the past.
 
-DP History's current course (first examined 2028) is assessed through a
-mix of source-based, essay and investigative work, weighted differently at
-SL and HL. At SL, external assessment is worth 70% of the final grade:
-Paper 1 (1 hour 15 minutes, worth 30%) asks students to work with historical
-sources linked to one of five focused-study options; Paper 2 (1 hour 45
-minutes, worth 40%) requires a response to a concept question (Section A)
-plus a two-part question -- a short response and an essay -- on one of four
-thematic-study options (Section B). The remaining 30% is the
-internally assessed historical investigation, in which students formulate
-their own inquiry question, select and evaluate sources, and write up their
-findings -- moderated externally by the IB.
+## How is IB History structured at SL and HL?
 
-HL students sit the same Paper 1 (now worth 20%) and Paper 2 (25%), plus a
-third paper (2 hours, worth 35%) requiring two essays on a chosen regional
-study, drawn from Africa and the Middle East, the Americas, Asia and
-Oceania, or Europe. HL external assessment totals 80%, with the historical
-investigation worth the remaining 20%.
-
-The course is structured around four inquiry contexts -- focused study,
-thematic study, regional study and historical investigation -- and four
-specified historical concepts: cause and consequence, continuity and
-change, perspectives, and significance. These concepts and contexts run
-through all three papers and the internal assessment, so a question on,
-say, historical significance might appear in the source analysis of Paper
-1, the thematic essay of Paper 2, or the regional essay of Paper 3.
-
-## The syllabus's structure
-
-Beyond the four concepts and assessment weightings above, the course is
-built from a series of inquiry contexts, each with its own set of
-options a school chooses between:
-
-| Component | Hours | Who takes it | Choice |
+| Component | SL hours | HL hours | What you choose |
 |---|---|---|---|
-| Focused study | 50 (SL & HL) | All students | 1 of 5 options (2 studies within it) |
-| Thematic study | 80 (SL & HL) | All students | 1 of 4 themes |
-| Regional study | 90 (HL only) | HL only | 1 of 4 regions (2 studies within it) |
-| Historical investigation | 20 (SL & HL) | All students | Student's own topic |
+| Prescribed subjects | 40 | 40 | 1 of 5, studied through 2 case studies from different regions |
+| World history topics | 90 | 90 | 2 of 12, with examples from more than one region |
+| HL options: depth studies | — | 90 | 1 of 4 regions, then 3 of its 18 sections |
+| Internal assessment | 20 | 20 | A historical investigation on a topic of the student's choice |
+| **Total** | **150** | **240** | |
 
-The five focused-study options are Independence and identity, Political
-and economic transitions, Conflict and displacement, Climate and
-innovation, and Protest and change; the four thematic-study options are
-Conflict, Innovation and transformation, Authoritarian rule, and
-Popular movements. HL's regional study adds a further choice of region
-— Africa and the Middle East, the Americas, Asia and Oceania, or Europe
-— making the regional study, at 90 hours, the single largest component
-in the HL course.
+The five **prescribed subjects** are Military leaders, Conquest and its
+impact, The move to global war, Rights and protest, and Conflict and
+intervention. The twelve **world history topics** run from Society and
+economy (750–1400) to The Cold War: superpower tensions and rivalries
+(20th century). The four **HL regional options** are the history of
+Africa and the Middle East, the history of the Americas, the history of
+Asia and Oceania, and the history of Europe. The
+[syllabus guide](/resources/ib-dp-history-syllabus-guide/) lists every
+option in full.
 
-Because each school studies only one option within each of these
-contexts, confirming exactly which focused study, theme and (at HL)
-region your own class has covered is the essential first step before
-any content revision begins — the four assessed concepts are applied
-to whichever specific content was taught, not to the syllabus as a
-whole. For the full detail of what each option actually covers, and
-the recommended teaching-hour breakdown within each, see the
-[syllabus guide](/resources/ib-dp-history-syllabus-guide/); for the
-internal assessment process, see the
-[historical investigation revision notes](/resources/ib-dp-history-investigation-ia-revision-notes/).
+## How is IB History assessed?
+
+| Paper | Format | Time | Marks | SL weight | HL weight |
+|---|---|---|---|---|---|
+| Paper 1 | Source-based questions on the prescribed subject | 1 hour | 24 | 30% | 20% |
+| Paper 2 | Two essays on two different world history topics | 1 hour 30 minutes | 30 | 45% | 25% |
+| Paper 3 (HL only) | Three essays on one regional option | 2 hours 30 minutes | 45 | — | 35% |
+| Internal assessment | Historical investigation, 2,200 words maximum | 20 hours | 25 | 25% | 20% |
+
+External assessment is therefore 75% of the grade at SL and 80% at HL.
+Paper 1 and Paper 2 are the same papers for SL and HL candidates; only
+the weighting changes. The internal assessment is marked by the teacher
+and moderated by the IB. For how each paper is answered, see the
+[assessment revision notes](/resources/ib-dp-history-assessment-revision-notes/)
+and the [exam preparation guide](/resources/ib-dp-history-exam-preparation/).
+
+## What do the assessment objectives ask for?
+
+The course has four assessment objectives. **AO1 Knowledge and
+understanding**: detailed, relevant and accurate knowledge, and
+understanding of historical concepts, context and sources. **AO2
+Application and analysis**: clear arguments supported by relevant
+knowledge, and the analysis and interpretation of a variety of sources.
+**AO3 Synthesis and evaluation**: integrating evidence and analysis,
+evaluating different perspectives, and evaluating sources as evidence
+by their value and limitations. **AO4 Use and application of
+appropriate skills**: structuring essays, using historical skills in an
+investigation, and reflecting on the methods historians use.
+
+## How should you plan your revision?
+
+Your school chooses one prescribed subject, two world history topics
+and, at HL, one region and three of its sections. Confirm exactly which
+ones you studied before you start: revising an option you will not be
+examined on is the most common waste of time in this subject. Then
+revise the content of your own options through the six key concepts,
+and practise each paper's specific skill: source work for Paper 1,
+comparative essays for Paper 2, sustained regional essays for Paper 3,
+and the three-section write-up for the
+[historical investigation](/resources/ib-dp-history-investigation-ia/).
+
+## What changes for first exams in 2028?
+
+*This section describes the successor course only. Nothing in it
+applies to exams in 2027 or earlier.*
+
+The IB has published a new History course for first teaching in August
+2026 and first assessment in May 2028. According to the IB's 2025
+subject brief it replaces prescribed subjects, world history topics and
+HL options with four inquiry contexts: a **focused study** (one of five
+options: Independence and identity; Political and economic transitions;
+Conflict and displacement; Climate and innovation; Protest and change),
+a **thematic study** (one of four: Conflict; Innovation and
+transformation; Authoritarian rule; Popular movements), an HL-only
+**regional study** in one of the same four regions, and the
+**historical investigation**. The six key concepts are reframed as four
+paired concepts: cause and consequence, continuity and change,
+perspectives, and significance. Paper timings and weightings also
+change (for example, the SL internal assessment rises to 30%), and the
+investigation drops the separate reflection section. Students
+starting the course in or after August 2026 should follow their
+teacher's materials for the new course.
+
+## Frequently asked questions
+
+**Is IB History first assessed in 2017 still being examined?**
+Yes. The course first assessed in 2017 is examined up to and including
+the 2027 sessions. The successor course is first examined in May 2028.
+
+**How many papers do SL and HL students sit?**
+SL students sit Paper 1 and Paper 2 and complete the internal
+assessment. HL students sit the same two papers plus Paper 3, a
+2 hour 30 minute regional essay paper worth 35%.
+
+**What are the six key concepts?**
+Change, continuity, causation, consequence, significance and
+perspectives. They shape how questions are worded on every paper.
+
+**How long is the historical investigation?**
+A maximum of 2,200 words, in three sections, marked out of 25. It is
+worth 25% at SL and 20% at HL.
 
 ## Source
 
 International Baccalaureate Organization, *Diploma Programme Subject
-Brief -- Individuals and Societies: History*, first assessment 2028,
-published 2025 -- the same source cited by the
-[full syllabus guide](/resources/ib-dp-history-syllabus-guide/) and the
-[assessment revision notes](/resources/ib-dp-history-assessment-revision-notes/).
+Brief — Individuals and societies: History, standard level and higher
+level*, first assessments 2017 (republished 2020), and the IB *History
+guide* for first examinations 2017. The 2028 section draws on the IB's
+2025 subject brief for the new course.

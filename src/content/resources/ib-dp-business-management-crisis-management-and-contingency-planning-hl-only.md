@@ -187,6 +187,20 @@ On the numbers alone the generator is worth buying. A balanced answer then adds 
 - Writing only about money and ignoring safety.
 - Assuming a plan removes risk instead of reducing it.
 
+## Frequently asked questions
+
+**What is a crisis in business?**
+A crisis is a sudden, serious event that threatens an organization's people, operations, finances or reputation and needs a fast response.
+
+**Why can transparency harm a business during a crisis?**
+Full openness can release unconfirmed or legally sensitive information, alarm customers unnecessarily and help competitors. Managers therefore have to judge what to share and when, while avoiding the appearance of a cover-up.
+
+**Is a fast response always best in crisis management?**
+No. Speed limits the spread of damage only when the first actions are the right ones; a hasty response can be wrong, contradict later facts or skip safety checks.
+
+**Why does a business with a contingency plan still need crisis management?**
+Real events never match a plan exactly, so even a rehearsed plan has to be adapted and managed once the crisis is under way.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. This page covers section 5.7, Crisis management and contingency planning (HL only), in Unit 5: Operations management.

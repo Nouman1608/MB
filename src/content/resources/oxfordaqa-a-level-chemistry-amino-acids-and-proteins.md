@@ -252,6 +252,20 @@ Cisplatin does not pick out cancer cells. It attaches to the DNA of healthy cell
 
 Next, try the [practice questions](/resources/oxfordaqa-a-level-chemistry-amino-acids-and-proteins-practice/), or check recall with the [revision notes](/resources/oxfordaqa-a-level-chemistry-amino-acids-and-proteins-revision-notes/).
 
+## Frequently asked questions
+
+**What forms does an amino acid take in acid and in alkali?**
+In acid solution the –COO⁻ end takes back H⁺, giving ⁺H₃N–CH(R)–COOH with an overall charge of +1. In alkaline solution the –NH₃⁺ end loses H⁺, giving H₂N–CH(R)–COO⁻ with a charge of −1; any extra acidic or basic group in the side chain reacts the same way.
+
+**What happens when a peptide is hydrolysed?**
+Water adds across each C–N bond of the peptide links, regenerating the amino acids. In excess acid the amino groups are protonated, and in excess alkali the carboxyl groups are deprotonated.
+
+**Can TLC show the order of amino acids in a peptide?**
+No. TLC of a hydrolysis mixture shows which amino acids are present, by comparing Rf values with standards run on the same plate, but not the order in which they were joined.
+
+**What are the side effects of cisplatin?**
+Cisplatin does not pick out cancer cells, so it also attaches to the DNA of healthy cells and halts their division. Its side effects include kidney damage and hearing loss.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards (first teaching 2019): section 3.3.13 Amino acids and proteins, subsections 3.3.13.1 to 3.3.13.3, International A2 content.

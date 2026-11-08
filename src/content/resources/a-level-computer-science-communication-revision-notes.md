@@ -7,17 +7,20 @@ topic: "Communication"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9618"]
-syllabusSeries: "2027-2029"
+syllabusSeries: "2026"
 stage: "AS"
 order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "communication"
-description: "Condensed revision notes on networks, topologies, cloud computing, wired/wireless media, Ethernet, IP addressing and DNS for Cambridge AS & A Level Computer Science Topic 2 (9618)."
+  - qualification: "a-level"
+    topic: "communication"
+    subtopic: "networks-including-the-internet"
+description: "Recall notes for Cambridge AS Computer Science 9618 Topic 2: network models, topologies, cloud computing, media, Ethernet, CSMA/CD, IP addressing and DNS."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -133,3 +136,17 @@ whether the medium is free before transmitting, and detects/recovers from collis
 system of linked documents/resources accessed via HTTP; the internet is the underlying global network
 infrastructure the web runs on. 5. Translates the domain name within a URL into the IP address used to route the
 request.
+
+## Frequently asked questions
+
+**What is the difference between a router and a switch?**
+A router directs traffic between networks, while a switch directs traffic within one network.
+
+**What is the difference between the World Wide Web and the internet?**
+The World Wide Web is the system of linked documents and resources accessed via HTTP. The internet is the underlying global network infrastructure that the web runs on.
+
+**When should a device use a static public IP address?**
+A web server that customers must always be able to reach needs a static public IP address. Internal devices such as employee laptops usually have dynamic private IP addresses assigned by DHCP.
+
+**What is the difference between a public cloud and a private cloud?**
+A public cloud uses shared infrastructure hosted by a third party. A private cloud uses dedicated infrastructure for one organisation.

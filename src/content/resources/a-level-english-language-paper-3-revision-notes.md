@@ -13,11 +13,17 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-3-language-analysis-9093"
-description: "Condensed recall notes on language change processes and the stages and theories of child language acquisition for Cambridge International AS & A Level English Language 9093, Paper 3 Language Analysis."
+  - qualification: "a-level"
+    topic: "paper-3-language-analysis-9093"
+    subtopic: "section-a-language-change-9093"
+  - qualification: "a-level"
+    topic: "paper-3-language-analysis-9093"
+    subtopic: "section-b-child-language-acquisition-9093"
+description: "Condensed notes on Cambridge 9093 Paper 3 Language Analysis: processes and theories of language change, and the stages and theories of child language learning."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -83,6 +89,23 @@ Section A questions sometimes present evidence in the form of a simple graph or 
 ## Keeping the two sections distinct in revision time
 
 Because Section A and Section B draw on genuinely different knowledge (historical linguistics against developmental psychology of language), avoid letting revision time drift toward whichever section feels more comfortable. Both carry equal marks, so a revision timetable that allocates genuinely equal time to language-change examples and acquisition theory-plus-criticism pairs consistently produces a stronger overall result than deep expertise in one section and thin coverage of the other.
+
+## Frequently asked questions
+
+**How long is Cambridge 9093 Paper 3 and what is it worth?**
+Paper 3 Language Analysis lasts 2 hours 15 minutes, carries 50 marks and is worth 25% of the A Level. It is A Level only and has two compulsory sections of 25 marks: language change and child language acquisition.
+
+**What are the stages of child language acquisition?**
+The stages are pre-verbal or cooing (0–6 months), babbling (6–12 months), holophrastic or one-word (12–18 months), two-word (18–24 months), telegraphic (24–36 months) and post-telegraphic (36 months onwards). The 9093 syllabus scopes acquisition from birth to around eight years.
+
+**What is the difference between amelioration and pejoration?**
+Amelioration is when a word acquires more positive connotations over time, and pejoration is when a word acquires more negative connotations. Both are types of semantic shift, alongside broadening and narrowing.
+
+**What does over-generalisation show about how children learn language?**
+Forms such as "goed" or "sheeps" show a child applying a regular grammar rule to an irregular word. This is evidence of rule-based, creative learning rather than simple imitation of adult speech.
+
+**Which theories of child language acquisition should I know for 9093?**
+Key theories are behaviourist (Skinner), nativist (Chomsky and the Language Acquisition Device), social interactionist (Bruner and the Language Acquisition Support System) and cognitive (Piaget). Be ready to give a criticism of each.
 
 ## Official syllabus
 

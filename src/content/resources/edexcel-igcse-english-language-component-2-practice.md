@@ -12,11 +12,17 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "component-2-poetry-and-prose-texts-and-imaginative-writing-4ea1"
-description: "Original exam-style practice questions with a model plan and full worked commentary for Section A analysis and Section B imaginative writing, for Pearson Edexcel International GCSE English Language A Component 2 (4EA1)."
+  - qualification: "igcse"
+    topic: "component-2-poetry-and-prose-texts-and-imaginative-writing-4ea1"
+    subtopic: "section-a-poetry-and-prose-texts-4ea1"
+  - qualification: "igcse"
+    topic: "component-2-poetry-and-prose-texts-and-imaginative-writing-4ea1"
+    subtopic: "section-b-imaginative-writing-4ea1"
+description: "Original practice with a model plan and worked commentary for anthology analysis and imaginative writing, for Edexcel IGCSE English Language A 4EA1 Paper 2."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -135,3 +141,17 @@ under a minute but catches drift that can otherwise cost marks even in an otherw
 - Starting Section B's writing without a plan, producing a piece that drifts or has no deliberate ending.
 - Running out of time on Section B because Section A was allowed to overrun its 45-minute allocation.
 - Choosing an imaginative writing title based on which sounds most impressive rather than which the candidate can genuinely sustain for a full, well-structured 30-mark response.
+
+## Frequently asked questions
+
+**How is Edexcel IGCSE English Language A Paper 2 split?**
+In this practice paper, Section A, Poetry and Prose Texts, is worth 30 marks with about 45 minutes, and Section B, Imaginative Writing, is also worth 30 marks with about 45 minutes. Because both sections carry equal marks, revise analysis and imaginative writing equally.
+
+**How should I structure an anthology analysis answer?**
+Choose two or three specific moments and, for each, give a point, quote or closely reference the language, and explain its effect, considering structure as well as language. Summarising the whole plot instead of analysing is a common way to lose marks.
+
+**Do I need to know the whole Anthology Part 2 for 4EA1?**
+Yes. The Section A question is set on material from Part 2 of the Anthology, so systematic familiarity with all of Part 2, not just a favourite poem or story, lets you answer confidently whichever text is named.
+
+**Which assessment objectives are credited in the imaginative writing?**
+Examiners credit adapting form, tone and register for the chosen purpose (AO4) and accurate, varied sentence structures with a wide vocabulary (AO5). Planning the structure, including a deliberate ending, makes it easier to show both.

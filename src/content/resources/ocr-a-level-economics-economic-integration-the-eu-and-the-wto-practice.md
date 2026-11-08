@@ -146,6 +146,23 @@ These questions cover the second part of *Trade policies and negotiations* in th
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is trade deflection?**
+Trade deflection happens in a free trade area when outside goods enter through the member with the lowest tariff and are then moved on to other members. Rules of origin can prevent it.
+
+**How do you calculate the welfare effect of joining a customs union?**
+Work out the changes in consumer surplus, producer surplus and tariff revenue separately, then combine them. The answer should equal the sum of the production and consumption effects, less any extra cost from trade diversion.
+
+**Why is lost tariff revenue not simply a loss to the country?**
+Tariff revenue is a transfer from consumers to the government, not a net gain to the economy. Treating it as a net gain is a common mistake when calculating welfare.
+
+**Which part of the OCR A Level Economics specification covers economic integration?**
+Integration, the EU and the WTO are the second part of the topic Trade policies and negotiations, in The global context, of the OCR A Level Economics (H460) specification.
+
+**Can the WTO punish members?**
+The WTO cannot directly punish members. It hosts negotiations and settles disputes, and treating it as able to impose penalties itself is a common error.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)*, Version 3.0 (June 2026), for first assessment in 2021: The global context, Trade policies and negotiations.

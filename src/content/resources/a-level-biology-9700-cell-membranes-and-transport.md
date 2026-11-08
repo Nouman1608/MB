@@ -22,11 +22,11 @@ syllabusTopics:
     subtopic: "movement-into-and-out-of-cells-cambridge-alevel"
 description: "Study guide for Cambridge 9700 topic 4: the fluid mosaic model, cell signalling, diffusion, osmosis, active transport and SA:V, with worked examples."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This study guide teaches topic 4, Cell membranes and transport, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers sub-topics 4.1 (Fluid mosaic membranes) and 4.2 (Movement into and out of cells). All of it is AS Level content, so it is tested on Paper 1 (multiple choice) and Paper 2 (AS Level structured questions), and Paper 4 can draw on it because A Level questions require AS knowledge. The investigations in 4.2 also build the practical skills assessed in Paper 3 and Paper 5.
@@ -248,6 +248,23 @@ Plot percentage change against concentration. The line crosses 0 % at about **0.
 ## Next steps
 
 Condense this page with the [revision notes](/resources/a-level-biology-9700-cell-membranes-and-transport-revision-notes/), then try the [cell membranes practice questions](/resources/a-level-biology-cell-membranes-practice/), which cover transport evidence and exocytosis in exam-style contexts. Take the [9700 AS diagnostic](/practice/9700/diagnostic/as/) to check where you stand across the AS topics, and continue to topic 5 with the [mitotic cell cycle study guide](/resources/a-level-biology-9700-the-mitotic-cell-cycle/).
+
+## Frequently asked questions
+
+**Where are glycoproteins and glycolipids found in the cell surface membrane?**
+Their carbohydrate chains project outwards from the outer surface. They are never on the cytoplasmic face of the membrane.
+
+**What is the definition of osmosis for Cambridge 9700?**
+Osmosis is the net movement of water from a region of higher water potential to a region of lower water potential through a partially permeable membrane.
+
+**Which is higher, a water potential of −300 kPa or −700 kPa?**
+−300 kPa is higher. Pure water has the highest water potential, 0 kPa, and water moves from less negative to more negative values.
+
+**Why does SA:V matter for diffusion?**
+As an object gets larger, its volume increases faster than its surface area, so SA:V falls. Diffusion alone then cannot supply the whole volume fast enough, while long, thin shapes keep a large SA:V.
+
+**How do you estimate the water potential of a plant tissue?**
+Weigh equal cylinders of tissue, leave them in a range of sucrose solutions, reweigh and calculate percentage change in mass. Plot this against concentration and read the concentration at 0 % change, where the tissue's water potential equals that of the solution.
 
 ## Official syllabus
 

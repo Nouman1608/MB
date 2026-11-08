@@ -152,6 +152,20 @@ Use the first and last values to find r and A. **[4]**
 - Giving vague comments about a model with no link to the context.
 - Forgetting units, such as hours or years, in modelling answers.
 
+## Frequently asked questions
+
+**When should you reject a root in a logarithm equation?**
+Reject a root only if it makes the input of a logarithm zero or negative, and state which root you reject and why. A negative root is fine if every log input stays positive.
+
+**Can log (x + y) be split into log x + log y?**
+No. The laws of logarithms give log x + log y = log (xy), but log (x + y) cannot be split.
+
+**What does the intercept of a log graph tell you?**
+The vertical intercept is the logarithm of the constant, not the constant itself. For ln y = x ln b + ln k, the intercept is ln k, so k = e^(intercept).
+
+**How do you comment on an exponential model in OCR A Level Mathematics?**
+Link the comment to the context, for example that a population cannot grow without limit because of food or space. A generic remark such as "it is not realistic" earns little credit.
+
 ## Next steps
 
 - Read the [study guide](/resources/ocr-a-level-mathematics-laws-of-logarithms-exponential-equations-reduction-to/) again for any question you missed.

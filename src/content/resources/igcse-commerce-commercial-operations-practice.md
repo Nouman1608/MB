@@ -12,11 +12,20 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "commercial-operations-0715"
-description: "Original exam-style practice questions with full worked answers on commercial enterprises, location factors, outsourcing, retailing and ecommerce, trading documents and a short item on communication, for Cambridge IGCSE Commerce (0715) Topic 2 Commercial Operations."
+  - qualification: "igcse"
+    topic: "commercial-operations-0715"
+    subtopic: "commercial-enterprises-0715"
+  - qualification: "igcse"
+    topic: "commercial-operations-0715"
+    subtopic: "retailing-0715"
+  - qualification: "igcse"
+    topic: "commercial-operations-0715"
+    subtopic: "trading-documents-0715"
+description: "Original practice questions with worked answers for Cambridge IGCSE Commerce 0715 Topic 2: ownership, location, outsourcing, retail and trading documents."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -126,3 +135,17 @@ specific business situation given, rather than listing general features. In the 
 objectives, applying knowledge to that situation is AO2 (Application), and the reasoned judgement or
 recommendation built on it is AO3 (Analysis and Evaluation), the split the study guide describes for
 Paper 2's structured questions on this topic. When practising further scenarios from past papers, check whether a question is really asking you to classify something correctly (Paper 1 style) or to justify a recommendation against a described business situation (Paper 2 style), since the two question types reward different kinds of answer even when they draw on the same underlying content across the full range of 2.1 to 2.6.
+
+## Frequently asked questions
+
+**What are AO2 and AO3 in Cambridge IGCSE Commerce 0715?**
+AO2 is Application, which means applying knowledge to the business situation given. AO3 is Analysis and Evaluation, which covers the reasoned judgement or recommendation built on that application.
+
+**How do you answer a Commerce scenario question well?**
+Justify each point against the specific business described rather than listing general features. Definitions that are not linked to the scenario lose the application marks.
+
+**What is the difference between Paper 1 and Paper 2 questions on commercial operations?**
+Paper 1 style questions often ask you to classify something correctly, while Paper 2 structured questions ask you to justify a recommendation against a described business situation.
+
+**What factors affect the choice of communication method?**
+Urgency, cost, security, distance, the availability of networks and the importance of the message. A good answer weighs these against the scenario.

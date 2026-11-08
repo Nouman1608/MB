@@ -148,6 +148,20 @@ These questions follow OCR GCSE (9-1) Mathematics J560, specification Version 2.
 - Tick off the unit on the [printable checklist](/checklists/ocr/gcse/mathematics/) and return to the [course hub](/boards/ocr/gcse/mathematics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which OCR GCSE Maths statements do these Pythagoras and trigonometry questions cover?**
+They follow statements 10.05a, 10.05b and 10.05c of OCR GCSE (9-1) Mathematics J560: Pythagoras' theorem, sin, cos and tan in right-angled triangles, and exact trigonometric values. Using them in complex figures and 3D figures is Higher tier only.
+
+**How do you find a shorter side using Pythagoras' theorem?**
+Subtract the square of the known short side from the square of the hypotenuse, then take the square root. Adding the squares is only for finding the hypotenuse.
+
+**Why should you avoid rounding part-way through a trigonometry problem?**
+A rounded value carried into the next step can change the final answer in its third significant figure. Keep full calculator values until the last step and round once.
+
+**How should you round answers in Pythagoras and trigonometry questions?**
+Unless the question says otherwise, round lengths to 3 significant figures and angles to 1 decimal place. If an exact answer is asked for, leave a surd or fraction instead of a decimal.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, specification Version 2.1 (August 2026), first assessment in 2017, published by OCR. Statements 10.05a, 10.05b and 10.05c.

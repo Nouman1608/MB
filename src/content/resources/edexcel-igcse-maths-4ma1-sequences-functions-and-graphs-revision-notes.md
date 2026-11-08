@@ -27,11 +27,11 @@ syllabusTopics:
     subtopic: "calculus-edexcel-igcse-maths"
 description: "Condensed 4MA1 revision notes on sequences, functions, graphs and differentiation, with method steps, a self-test and where marks are lost."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 For full explanations and worked examples, use the [Sequences, functions and graphs study guide](/resources/edexcel-igcse-maths-4ma1-sequences-functions-and-graphs/). These notes condense Topic 3 (sections 3.1–3.4) of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on it. Sections 3.2 and 3.4, and the extra Higher statements in 3.1 and 3.3, are **Higher tier only**; the rest is on both tiers. A calculator may be used on every paper.
@@ -321,6 +321,20 @@ y = 3x² − 12x:  dy/dx = 6x − 12 = 0 → x = 2, y = −12, minimum (U-shape)
 - Drawing a tangent that cuts the curve, or choosing points on the tangent too close together to read accurately.
 - Substituting the turning-point x into dy/dx instead of y to find the y-coordinate.
 - In kinematics, differentiating once when the question asks for acceleration.
+
+## Frequently asked questions
+
+**What does Topic 3 of Edexcel IGCSE Maths 4MA1 cover?**
+Topic 3, Sequences, functions and graphs, has sections 3.1 to 3.4: sequences, function notation, graphs and calculus. Function notation, the arithmetic series formula, most curve recognition and calculus are Higher tier only.
+
+**What is the nth term formula for an arithmetic sequence?**
+The nth term is a + (n − 1)d, where a is the first term and d is the common difference. You must know it, because it is not on the formulae sheet; the sum formula Sₙ = (n/2)[2a + (n − 1)d] is on the Higher tier formulae sheet.
+
+**What is the gradient of a straight line written as y = mx + c?**
+The gradient is m and the y-intercept is (0, c). If the equation is in another form, such as 2x + 3y = 6, rearrange it to make y the subject first; the coefficient of x in that form is not the gradient.
+
+**What does the gradient of a distance–time graph show?**
+The gradient of a distance–time graph is the speed, and a horizontal section means the object is stationary. On a speed–time graph the gradient is the acceleration.
 
 ## Official syllabus
 

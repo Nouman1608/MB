@@ -230,6 +230,20 @@ Composite measures, such as the Human Development Index, combine income, health 
 - Leaving out sustainability when the question asks for it.
 - Ending an evaluation without a judgement.
 
+## Frequently asked questions
+
+**What is globalisation?**
+Globalisation is the growing integration of economies through trade, capital, people, information and ideas.
+
+**How does a depreciation affect an exporter?**
+The pound buys fewer units of foreign currency, so the export becomes cheaper abroad and the quantity demanded rises, by more if demand is elastic. If the firm uses imported parts, its costs rise too, which reduces the gain.
+
+**How does an appreciation affect consumers?**
+A stronger pound buys more foreign currency, so imports and holidays abroad become cheaper and living standards for those buyers improve. The same change can cost jobs in export industries.
+
+**What does the effect of an exchange rate change depend on?**
+The OCR GCSE Economics (J205) notes list the elasticity of demand for the product, the share of imported inputs, the size of the change, how long it lasts, and what happens to rivals' exchange rates.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Economics (J205), version 2.0 (June 2026), first assessment 2019, published by OCR.

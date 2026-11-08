@@ -22,11 +22,11 @@ syllabusTopics:
     subtopic: "transport-mechanisms-cambridge-alevel-biology"
 description: "Study guide to xylem and phloem structure, plan diagrams, water pathways, cohesion-tension, xerophytes and phloem mass flow for Cambridge 9700 AS Biology."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This study guide teaches topic 7, Transport in plants, from the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers sections 7.1 (Structure of transport tissues) and 7.2 (Transport mechanisms). This is AS Level content, examined on Paper 1 (Multiple Choice) and Paper 2 (AS Level Structured Questions); the syllabus states that AS knowledge will also be required on Paper 4. The drawing and measuring skills in 7.1 match the microscope skills listed for Paper 3 (Advanced Practical Skills).
@@ -302,6 +302,23 @@ rate = 540 ÷ 45 = 12 mm min⁻¹
 - Tables, steps and a quick self-test: [transport in plants revision notes](/resources/a-level-biology-9700-transport-in-plants-revision-notes/)
 - Original exam-style questions with marked answers: [transport in plants practice](/resources/a-level-biology-9700-transport-in-plants-practice/)
 - Microscopy and magnification from topic 1: [cell structure study guide](/resources/a-level-biology-cell-structure/)
+
+## Frequently asked questions
+
+**What is transpiration?**
+Transpiration is the evaporation of water from the internal surfaces of leaves, followed by diffusion of water vapour out through the stomata to the atmosphere.
+
+**How does cohesion-tension move water up the xylem?**
+Evaporation from the leaf lowers the pressure at the top of the xylem, putting the water column under tension. Cohesion between water molecules keeps the column continuous, adhesion to cellulose supports it, and lignin stops the vessels collapsing.
+
+**Why does the endodermis let the plant control mineral uptake?**
+The Casparian strip blocks the apoplast pathway, so water and ions must cross a cell surface membrane into the endodermal cells, which lets the plant control which mineral ions enter the xylem.
+
+**What do xylem and phloem carry?**
+Xylem vessels carry water and mineral ions upwards. Phloem sieve tubes carry assimilates such as sucrose and amino acids from sources to sinks.
+
+**How do you calculate the speed of translocation?**
+Divide the distance a label moves by the time taken. For example, 540 mm in 45 minutes is 12 mm min⁻¹, which is 0.72 m h⁻¹.
 
 ## Official syllabus
 

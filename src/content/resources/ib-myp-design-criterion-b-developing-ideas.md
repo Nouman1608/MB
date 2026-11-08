@@ -209,6 +209,20 @@ So use 1:5 and write "Scale 1:5" in the title block. A 90 mm pot hole is drawn 9
 
 Condense this into recall with the [Criterion B revision notes](/resources/ib-myp-design-criterion-b-developing-ideas-revision-notes/), then test yourself with the [Criterion B practice questions](/resources/ib-myp-design-criterion-b-developing-ideas-practice/). For the folder as a whole, see [ePortfolio preparation](/resources/ib-myp-design-eportfolio-exam-preparation/) and [how MYP Design is assessed](/resources/ib-myp-design-assessment-revision-notes/). The [MYP Design course hub](/boards/ib/ib-myp/myp-design/) lists every resource, and the [printable checklist](/checklists/ib/ib-myp/myp-design/) helps you track progress.
 
+## Frequently asked questions
+
+**What are the three parts of a strong specification point?**
+Each point needs a requirement, a measurable target and a reason taken from your Criterion A research. Adding a column for how it will be tested gives you a specification that feeds Criterion D directly.
+
+**Why does the design specification matter for Criterion D?**
+Criterion D asks you to test the solution, and those tests should come straight from your specification points. A specification without measurable targets leaves nothing to test against.
+
+**Which categories should an MYP Design specification cover?**
+Work through function, user and ergonomics, size, materials, weight or load, safety, aesthetics, cost, sustainability and time to make. Leave a category out only if you can say why.
+
+**Is MYP Design assessed as product design or digital design?**
+The subject brief says design courses are formally assessed as product design, digital design, or combined digital and product design.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Design*, from 2014.

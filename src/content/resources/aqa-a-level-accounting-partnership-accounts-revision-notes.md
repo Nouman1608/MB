@@ -225,6 +225,20 @@ The new partner pays for the share of goodwill gained, and the old partners who 
 - Showing a debit current account balance without brackets in the equity section.
 - Placing a retiring partner's loan in capital rather than liabilities.
 
+## Frequently asked questions
+
+**How is interest on drawings calculated?**
+Interest on drawings is charged for the months from the date of each drawing to the year end. Charging a full year on every drawing is a common mistake.
+
+**Is interest on drawings added or subtracted in the appropriation account?**
+Interest on drawings is added to profit in the appropriation account, because it is charged to the partners. Subtracting it is a common mistake.
+
+**In which ratio is a revaluation profit shared?**
+A revaluation profit or loss, and goodwill created, are shared between the old partners in the old profit-sharing ratio, not the new one.
+
+**How is a debit balance on a current account shown?**
+A debit current account balance, where a partner has drawn more than has been credited, is shown in brackets in the equity section of the statement of financial position.
+
 ## Official syllabus
 
 AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019 onwards, published by AQA -- section 3.15, Partnership accounts.

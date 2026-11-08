@@ -260,6 +260,20 @@ Profit, independence, turning an idea into a business, meeting a need, personal 
 - Not using the figures in a case study.
 - Ending an evaluation with no judgement that refers to the firm in the case.
 
+## Frequently asked questions
+
+**What are the three areas of law in OxfordAQA IGCSE Business section 3.2.5?**
+The three areas are employment law, health and safety law and consumer law. The specification does not name particular Acts, so answers should describe the effect of the law in general terms.
+
+**What is the difference between legislation and ethics?**
+Legislation is a legal requirement that a business must follow. Ethics covers choices a business makes beyond the legal minimum.
+
+**What is the difference between compliance and non-compliance costs?**
+Compliance costs are the costs of following the law, such as equipment and training. Non-compliance costs are the fines, claims and lost sales a business faces if it does not follow the law, and they can be much larger.
+
+**How do you judge how serious an external change is for a business?**
+Consider the size of the cost compared with revenue or profit, whether it is one-off or recurring, how flexible the business is in passing it on, the alternatives, and the context of the business, such as its size and market.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Business (9225) specification, version 3.1, OxfordAQA, for International GCSE exams May/June 2022 onwards. Sections 3.2.5 Legislation and 3.2.6 Competitive environment.

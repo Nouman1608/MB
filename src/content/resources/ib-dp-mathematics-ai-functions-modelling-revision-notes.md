@@ -31,11 +31,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-2-6"
 description: "Condensed IB Maths AI revision notes for functions and modelling (SL 2.1–2.6): model forms, GDC methods, key distinctions and a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 For full explanations and worked examples, read the [functions and modelling study guide](/resources/ib-dp-mathematics-ai-functions-modelling/) first. These notes are for the final weeks.
@@ -239,6 +239,20 @@ Example: h(t) = −12 cos(18t) + 15 has amplitude 12, period 20, principal axis 
 ## Next steps
 
 Try the full [functions and modelling practice set](/resources/ib-dp-mathematics-ai-functions-modelling-practice/) with worked answers. Go back to the [study guide](/resources/ib-dp-mathematics-ai-functions-modelling/) for any topic you missed. For paper structure and exam technique, see [IB Maths AI exam preparation](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/) and the [syllabus guide](/resources/ib-dp-mathematics-applications-and-interpretation-syllabus-guide/).
+
+## Frequently asked questions
+
+**What are the six functions used for modelling in IB Maths AI?**
+The IB Maths AI guide (section 2.5) lists linear (including piecewise), quadratic, exponential, direct and inverse variation, cubic and sinusoidal models. All six are common content for SL and HL.
+
+**How do you tell whether data is linear or exponential?**
+Linear change adds the same amount each step, giving a constant difference. Exponential change multiplies by the same factor each step, giving a constant ratio, so check the data both ways before choosing a model.
+
+**Is f⁻¹(x) the same as 1/f(x)?**
+No. f⁻¹ is the inverse function that reverses f, and its graph is the reflection of y = f(x) in y = x. 1/f(x) is the reciprocal, which is a different function.
+
+**How do you find the period of a sinusoidal model?**
+For y = a sin(bx) + d or y = a cos(bx) + d with the GDC in degrees, the period is 360°/b. The amplitude is |a|, the principal axis is y = d, the maximum is d + |a| and the minimum is d − |a|.
 
 ## Official syllabus
 

@@ -139,6 +139,20 @@ Area = ∫₀^(ln 2) (3eˣ - e^(2x) - 2) dx [1] = [3eˣ - e^(2x)/2 - 2x]₀^(ln 
 - Substituting x-limits into an integral already written in terms of t.
 - Writing ln of a negative number instead of ln\|x\|.
 
+## Frequently asked questions
+
+**When do you need +c in an integration answer?**
+Add +c to every indefinite integral, and use a given point on the curve to find its value when asked. A definite integral does not need +c.
+
+**How do you integrate e^(kx), sin kx and cos kx?**
+Divide by k: e^(kx) integrates to (1/k)e^(kx), cos kx to (1/k) sin kx, and sin kx to −(1/k) cos kx. Multiplying by k, or missing the minus sign for sin kx, are common errors.
+
+**Why is a definite integral not always the area?**
+A definite integral gives a signed total, so parts below the x-axis count as negative. If the curve crosses the axis, integrate each piece separately and add their positive sizes to get the area.
+
+**Should integration answers be exact in OCR A Level Mathematics?**
+Give an exact value or the stated form when the question asks for one, such as 12 + 10 ln 2, rather than a decimal.
+
 ## Next steps
 
 - Recap the methods in the [revision notes](/resources/ocr-a-level-mathematics-integration-basics-fundamental-theorem-indefinite-and-revision-notes/) or re-read the [study guide](/resources/ocr-a-level-mathematics-integration-basics-fundamental-theorem-indefinite-and/).

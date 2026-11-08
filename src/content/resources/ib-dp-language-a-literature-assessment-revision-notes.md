@@ -9,11 +9,11 @@ syllabusCodes: ["DP Language A: Literature"]
 order: 1
 description: "IB DP Language A: Literature -- condensed recall notes on the assessment structure at SL and HL, papers, weightings, the individual oral and the HL essay."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-26
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the
@@ -85,6 +85,20 @@ Both Language A courses share an identical overall assessment structure and weig
 6. Why does the HL essay typically demand a higher standard than an in-class timed essay?
 
 **Answers:** 1. Two previously unseen literary extracts, from different literary forms -- SL students analyse one of the two; HL students analyse both. 2. Two things: the HL essay — independent written coursework of 1,200-1,500 words, only completed at Higher Level — and, in Paper 1, analysing both unseen passages rather than one. 3. Two -- one written originally in the language studied and one studied in translation, with an extract of no more than 40 lines from each; an oral on two original-language works, or on two works in translation, does not meet the requirements. 4. Paper 1: 35%, Paper 2: 35%. 5. Any of: knowledge and understanding of both works and their context, the quality of analysis connecting the global issue across both extracts, or focus and organisation within the time available. 6. Because it is produced independently, outside exam conditions, with regular formative feedback but only one round of written advice on a single complete draft (which the teacher may not edit or rewrite directly) -- examiners expect more sustained argument and more precisely selected evidence than a timed response allows for.
+
+## Frequently asked questions
+
+**How long is the individual oral in IB Language A: Literature?**
+The individual oral in IB DP Language A: Literature is a prepared response of 10 minutes followed by 5 minutes of teacher questions. It examines a global issue through extracts from two studied literary works.
+
+**What must the two works in the Literature individual oral be?**
+One work must have been written originally in the language studied and the other studied in translation, with an extract from each supporting the response.
+
+**How much is Paper 2 worth in IB Literature?**
+Paper 2 is worth 35% at SL and 25% at HL; at HL the difference is taken up by the HL essay, worth 20%, which only HL students write.
+
+**Is the learner portfolio assessed in IB Literature?**
+No. The learner portfolio is mandatory but not marked or moderated, although schools may be required to submit it to check the authenticity of a student's work.
 
 ## Official syllabus
 

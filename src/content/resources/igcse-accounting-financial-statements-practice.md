@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "preparation-of-financial-statements"
   - qualification: "o-level"
     topic: "preparation-of-financial-statements"
-description: "Exam-style questions with full worked answers on sole trader adjustments, depreciation methods, partnership appropriation and current accounts, company statements of changes in equity, manufacturing accounts, club subscriptions and incomplete records, for Cambridge IGCSE Accounting (0452) Topic 5, 2027-2029 syllabus."
+description: "Practice questions with full answers on sole traders, partnerships, companies, manufacturing, clubs and incomplete records for Cambridge IGCSE Accounting 0452."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 publishedDate: 2026-09-16
 featured: false
 ---
@@ -545,3 +545,20 @@ when both can be calculated. The syllabus says that only its listed
 ratio formulas are accepted in candidate responses, so use mark-up,
 gross profit margin and rate of inventory turnover exactly as they are
 set out there.
+
+## Frequently asked questions
+
+**Why do statements of financial position often fail to balance in Cambridge IGCSE Accounting 0452?**
+Most unbalanced statements come from an adjustment used only once, such as an accrual added to an expense but not shown as an other payable, or goods for own use taken from purchases but not added to drawings. Mark each adjustment twice before you start.
+
+**How should workings be shown in a financial statements question?**
+Show workings beside each adjusted figure, for example "Rent (4,400 + 400)", so the examiner can follow your method even if an early figure is wrong.
+
+**How do you decide where a partnership item goes?**
+Interest on a partner's loan goes with the ordinary expenses in the statement of profit or loss. Interest on capital, interest on drawings, salaries and the profit share go in the appropriation account.
+
+**Where do dividends and debenture interest go in company accounts?**
+Debenture interest is a finance cost in the statement of profit or loss. Dividends and transfers to reserves go in the statement of changes in equity.
+
+**How can you check profit in an incomplete records question?**
+Find the opening and closing capital and the missing sales and purchases first, then use the change in capital as a check on the profit from your statement of profit or loss when both can be calculated.

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-d1-decision-mathematics-1-edexcel-alevel-maths"
     subtopic: "d1-linear-programming-edexcel-alevel-maths"
-description: "Condensed revision notes on writing linear programs, ruler and vertex methods and integer solutions for Pearson Edexcel IAL Maths unit D1."
+description: "Condensed revision notes on writing linear programs, ruler and vertex methods and integer solutions for Pearson Edexcel IAL Maths unit D1 (YMA01)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -230,6 +230,20 @@ The only value between 58 and 59 is 59 itself, and there is no feasible integer 
 - Moving the ruler the wrong way when minimising.
 - Rounding to an integer without checking every constraint.
 - Giving numbers without saying what the best plan is in context.
+
+## Frequently asked questions
+
+**What is a binding constraint in linear programming?**
+A constraint is binding at a vertex if it holds with equality there. A constraint that is not binding has slack, which can be stated as an amount of unused resource.
+
+**How do you use the gradient test in linear programming?**
+The objective line ax + by = k has gradient −a/b. The optimal vertex is the one where this gradient lies between the gradients of the two boundary lines meeting at that vertex.
+
+**Can an integer solution be better than the continuous optimum?**
+No. The optimum found ignoring the integer condition is a bound, and the best integer solution can only equal it or be worse.
+
+**Which linear programming problems are solved graphically in Edexcel IAL D1?**
+Only two-variable problems are solved graphically. Problems with three or more variables can still be formulated as linear programs in Unit D1 of Edexcel IAL Mathematics (YMA01), but not drawn on a two-dimensional graph.
 
 ## Official syllabus
 

@@ -13,14 +13,14 @@ order: 8
 syllabusTopics:
   - qualification: "a-level"
     topic: "transport-in-mammals-cambridge-alevel-biology"
-description: "Original exam-style questions with full worked answers on identifying capillaries, unit conversions, capillary structure and function, veins adapting to arterial pressure, artery and vein walls, and oxygen carried by haemoglobin, for Cambridge International AS & A Level Biology (9700)."
+description: "Original Cambridge 9700 questions with worked answers on capillaries, unit conversions, artery and vein walls, vein grafts and oxygen carried by haemoglobin."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -95,3 +95,17 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 - Saying diffusion is "easier" or "faster" instead of naming a short diffusion distance.
 - Writing "to withstand pressure" without explaining which tissues increase and why.
 - Using abbreviations such as "rbc" instead of writing "red blood cells" in full.
+
+## Frequently asked questions
+
+**How should you describe a capillary wall?**
+Describe it as a wall made of a single layer of endothelial cells. Writing "one cell thick" or "a thin membrane" without naming the cells is a common error in Cambridge 9700 answers.
+
+**How do you answer an "explain whether" question with measurements?**
+Convert the values to the same unit, compare them, and then give your conclusion with the reason. A bare yes or no answer does not earn the marks.
+
+**What should you say instead of "diffusion is easier"?**
+Name the feature, such as a short diffusion distance or a large surface area. Words like "easier" or "faster" alone are too vague.
+
+**Can you use abbreviations such as "rbc" in exam answers?**
+Write terms in full, such as "red blood cells". Abbreviations like "rbc" can cost marks.

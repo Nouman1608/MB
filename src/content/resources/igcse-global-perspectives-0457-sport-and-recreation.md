@@ -185,6 +185,23 @@ Each team member should research a different aspect, such as a different perspec
 
 Read the component guides: [Written Exam](/resources/igcse-cambridge-global-perspectives-written-exam/), [Individual Report](/resources/igcse-cambridge-global-perspectives-individual-report/) and [Team Project](/resources/igcse-cambridge-global-perspectives-team-project/). For more skills practice, use the [Written Exam practice questions](/resources/global-perspectives-practice/) and the [Written Exam revision notes](/resources/global-perspectives-revision-notes/).
 
+## Frequently asked questions
+
+**What is a sporting legacy?**
+A legacy is the long-term effect an event leaves behind, such as venues, transport, debt or changes in participation. Claims about legacy are predictions that need checking.
+
+**What is a mega-event?**
+A mega-event is a very large international event, such as the Olympic Games or a football World Cup. Whether countries should spend public money on hosting them is an issue that divides opinion.
+
+**What real sport examples can you use for research?**
+Examples include the World Anti-Doping Agency, set up in 1999; the US Open paying men and women equal prize money from 1973; and esports becoming medal events at the 2023 Asian Games in Hangzhou. They earn no marks on their own.
+
+**What types of causes affect sport and recreation issues?**
+Causes can be economic, such as the cost of clubs and kit; social, such as gender expectations; political, such as spending choices; environmental, such as loss of green space; and technological, such as online gaming.
+
+**What makes a weak Individual Report question on sport?**
+A question with only one sensible answer, such as "Is exercise good for you?", is weak. A strong question divides opinion, such as whether governments should fund elite sport or community sport first.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025), published by Cambridge International. Sport and recreation is listed in section 3; the assessment objectives are in section 2 and the component details and command words in section 4.

@@ -231,6 +231,23 @@ Introducing: draw a horizontal line above equilibrium, find demand and supply at
 - Forgetting that fines and regulation need enforcement.
 - Drawing diagrams without labelled axes.
 
+## Frequently asked questions
+
+**What does a trade union do?**
+A trade union is a body of workers who bargain as one group. Through collective bargaining it seeks higher wages, better working conditions, shorter hours and job security for its members.
+
+**How can a trade union reduce employment?**
+If the union pushes the wage above the equilibrium, firms demand fewer workers, so some jobs are lost while the members who keep their jobs earn more.
+
+**Why do governments set a minimum wage?**
+A minimum wage is a legal wage floor intended to reduce poverty and inequality, stop exploitation of low-paid workers and make work pay more than benefits.
+
+**How do governments regulate competition?**
+They promote competition by removing entry barriers, limit monopoly power by banning cartels and price fixing, protect consumers with laws on safety and advertising, and investigate mergers that would create a large market share.
+
+**What policies can a government use to reduce pollution?**
+The Edexcel specification covers taxation, subsidies, fines, regulation and pollution permits. Each has advantages and disadvantages, such as the difficulty of setting a tax at the right level or the need to monitor firms.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, for first teaching September 2017, published by Pearson Education Limited: sections 1.2.5 The labour market and 1.2.6 Government intervention.

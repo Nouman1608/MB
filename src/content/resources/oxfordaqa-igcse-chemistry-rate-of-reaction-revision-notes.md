@@ -247,6 +247,20 @@ How catalysts lower the activation energy is in the energy changes unit (3.9.2 h
 - In planning answers, giving "the amount of acid" as a control variable without saying volume and concentration.
 - Forgetting that a longer time to a visible change means a slower rate.
 
+## Frequently asked questions
+
+**Which factors change collision energy and which change collision frequency?**
+Only temperature changes the energy of collisions as well as their frequency. Concentration, gas pressure and surface area change only how frequently particles collide.
+
+**Does a faster reaction make more product?**
+No. A faster reaction reaches the same final amount of product sooner. Making more product needs more of the limiting reactant, and a catalyst does not change the amount formed.
+
+**What is the difference between random and systematic error in a rate experiment?**
+Random error, such as scatter from judging when a cross disappears, is reduced by repeating runs and taking a mean. Systematic error, such as gas lost each time before the bung goes in, shifts every result the same way and repeats do not remove it.
+
+**Does raising the temperature change the activation energy?**
+No. The activation energy stays the same; at a higher temperature more particles have energy equal to or above it.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards (OxfordAQA). Covered here: section 3.8.1 Rate of reaction, with its required practical.

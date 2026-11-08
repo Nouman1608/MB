@@ -209,6 +209,20 @@ For the salmon example, suppose a conventional fish takes 28 months to reach mar
 
 Work through the [revision notes](/resources/ocr-gcse-biology-genetic-engineering-and-biotechnology-in-food-revision-notes/), then try the [practice questions](/resources/ocr-gcse-biology-genetic-engineering-and-biotechnology-in-food-practice/). The [OCR GCSE Biology checklist](/checklists/ocr/gcse/biology/) lets you tick off each statement, and the [diagnostics](/diagnostics/) find weak spots.
 
+## Frequently asked questions
+
+**What is genetic engineering?**
+Genetic engineering is a process that modifies the genome of an organism to introduce desirable characteristics, usually by moving a useful gene from one organism into another.
+
+**What does transgenic mean?**
+A transgenic organism carries a gene from another species, so it can make a protein it could not make before.
+
+**What are examples of GM organisms in food production?**
+Examples include Bt crops that make a toxin harmful to insect pests, rice modified to make beta-carotene, herbicide-tolerant crops, faster-growing salmon carrying a growth hormone gene, and microorganisms that make useful proteins such as cheese-making enzymes.
+
+**What is a genome?**
+The genome is all the genetic material of an organism. Genetic engineering changes the genome, so the new characteristic can be passed on.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Statements B6.2d to B6.2g, topic B6.2 Feeding the human race.

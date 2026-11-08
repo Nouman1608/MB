@@ -178,6 +178,20 @@ Read the [study guide](/resources/aqa-gcse-business-marketing/) and the [revisio
 - Try a [free 10-minute diagnostic](/diagnostics/) next.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which part of AQA GCSE Business (8132) do these marketing questions cover?**
+Section 3.5 Marketing: identifying and understanding customers, segmentation, market research, and the elements of the marketing mix (price, product, promotion and place).
+
+**How do I avoid mistakes with the Boston Matrix?**
+Read market share first and market growth second when classifying a product. Mixing up the two is a common reason for naming the wrong category.
+
+**Is cost-plus mark-up calculated on the cost or the selling price?**
+On the cost. Calculate the unit cost first, then add the percentage mark-up of that cost to find the selling price.
+
+**How should I write an evaluate answer on pricing or promotion?**
+Weigh both sides using the figures and the business's situation, such as its budget and target market, then reach a clear judgement. Answers that stop at a list lose marks.
+
 ## Official syllabus
 
 Source: AQA 8132 GCSE Business specification (first teaching September 2017), section 3.5 Marketing.

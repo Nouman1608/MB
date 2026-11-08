@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-s2-statistics-2-edexcel-alevel-maths"
     subtopic: "s2-continuous-distributions-edexcel-alevel-maths"
-description: "Condensed revision notes for Edexcel IAL Mathematics S2: uniform results, continuity correction rules, method steps and a self-test."
+description: "Condensed revision notes for Edexcel IAL Mathematics S2: uniform results, continuity correction rules, method steps and a self-test (YMA01)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -223,6 +223,20 @@ The exact values are 0.129 and 0.132 for the binomial, and 0.148 for the Poisson
 - In a "show that" derivation, jumping from (b³ − a³) to the answer without factorising the difference of cubes.
 - Rounding z to two decimal places early, then losing the third significant figure.
 - Commenting on suitability without referring to the mean or the shape of the distribution.
+
+## Frequently asked questions
+
+**What are the mean and variance of a continuous uniform distribution?**
+For X ~ U[a, b], the mean is (a + b)/2 and the variance is (b − a)²/12.
+
+**When is a Normal approximation to a binomial reasonable?**
+When n is large and p is not close to 0 or 1, X ~ B(n, p) can be approximated by N(np, np(1 − p)). The specification gives no numerical limits, so justify the choice from the mean and the shape of the distribution.
+
+**How do you approximate a Poisson distribution with a Normal distribution?**
+When λ is large, X ~ Po(λ) can be approximated by N(λ, λ), with a continuity correction because the Poisson variable is discrete.
+
+**Do you need to derive the uniform mean and variance in Edexcel IAL S2?**
+Yes. Section 3.1 of Unit S2 in the Edexcel IAL Mathematics specification (YMA01) asks for the derivation of the mean, variance and cumulative distribution function of the continuous uniform distribution.
 
 ## Official syllabus
 

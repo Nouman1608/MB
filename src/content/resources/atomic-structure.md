@@ -30,9 +30,9 @@ syllabusTopics:
     subtopic: "isotopes"
 description: "Protons, neutrons and electrons, atomic and mass number, electronic configuration by shell, and isotopes, for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-07-01
 updatedDate: 2026-08-17
 featured: false
@@ -281,6 +281,20 @@ follows it, replacing the shell-only picture above with shells, sub-shells and
 orbitals, and introducing ionisation energy as measurable data you're expected
 to interpret. Neither is **required** for IGCSE or O Level; they're there for
 when you need them.
+
+## Frequently asked questions
+
+**Which syllabus points does this atomic structure guide cover?**
+It covers subtopics 2.1 to 2.3 of Topic 2, Atoms, elements and compounds, for Cambridge IGCSE Chemistry 0620 and Cambridge O Level Chemistry 5070, 2026–2028 series.
+
+**What is the difference between mass number and relative atomic mass?**
+Mass number is a whole number for one specific atom. Relative atomic mass is a weighted average across an element's naturally occurring isotopes, so it is not always a whole number.
+
+**Why do isotopes of an element have the same chemical properties?**
+Isotopes have the same number of electrons and the same electronic configuration, and chemical properties depend on the electrons. They differ only in their number of neutrons.
+
+**Do electrons count towards mass number?**
+No. Electrons have negligible mass, so mass number counts only protons and neutrons. Electrons do, however, affect the overall charge of a particle.
 
 ## Related resources
 

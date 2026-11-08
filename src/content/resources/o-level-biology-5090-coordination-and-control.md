@@ -343,6 +343,20 @@ The treatment is the **administration of insulin**, usually by injection.
 
 Next, condense this into the [revision notes](/resources/o-level-biology-5090-coordination-and-control-revision-notes/) and test yourself with the [practice questions](/resources/o-level-biology-5090-coordination-and-control-practice/).
 
+## Frequently asked questions
+
+**What is a hormone in Cambridge O Level Biology 5090?**
+A hormone is a chemical substance, produced by a gland and carried by the blood, which alters the activity of one or more specific target organs.
+
+**What is homeostasis?**
+Homeostasis is the maintenance of a constant internal environment, such as body temperature and blood glucose concentration. It works by negative feedback around a set point.
+
+**What is accommodation in the eye?**
+Accommodation is changing the shape of the lens to focus on near or distant objects. It is controlled by the ciliary muscles and suspensory ligaments.
+
+**Does shivering reduce heat loss?**
+No. Shivering produces heat by muscle contraction; it does not reduce heat loss. Insulation and vasoconstriction are the responses that reduce heat loss.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 14: Coordination and control (14.1 Mammalian nervous system; 14.2 Mammalian sense organs; 14.3 Mammalian hormones; 14.4 Homeostasis; 14.5 Temperature control; 14.6 Blood glucose control), published by Cambridge Assessment International Education.

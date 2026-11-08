@@ -212,6 +212,23 @@ Insertions and deletions not in multiples of three cause a **frameshift**: every
 - Forgetting that a frameshift needs a change not divisible by three.
 - Saying mutations occur because the organism needs them.
 
+## Frequently asked questions
+
+**What do helicase and DNA polymerase do in replication?**
+Helicase unwinds the double helix by breaking hydrogen bonds between the strands. DNA polymerase builds the new strand by joining nucleotides that pair with the template.
+
+**What is the difference between the leading and lagging strand?**
+The leading strand is made continuously with one RNA primer. The lagging strand is made discontinuously as Okazaki fragments, each needing its own primer, because DNA is only made in the 5' to 3' direction. This is HL-only content.
+
+**What is the difference between germ cell and somatic cell mutations?**
+A mutation in a germ cell can be inherited and then appear in every cell of the offspring. A somatic cell mutation is not passed on but can lead to uncontrolled cell division, which is cancer.
+
+**How does CRISPR-Cas9 edit a gene?**
+A guide RNA matching the target sequence directs the enzyme Cas9 to cut the DNA there; repair of the cut either disables the gene or, with a supplied template, changes it to a chosen sequence.
+
+**Why does using more markers make a DNA profile more reliable?**
+The chance of two unrelated people matching at every marker falls as markers are added, because the match probabilities of independent markers multiply together.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization: sections D1.1 (DNA replication) and D1.3 (Mutation and gene editing).

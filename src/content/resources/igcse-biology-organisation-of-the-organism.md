@@ -16,14 +16,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "organisation-of-the-organism-cambridge-igcse-biology"
     subtopic: "size-of-specimens-cambridge-igcse-biology"
-description: "Comparing plant, animal and bacterial cell structure, naming six specialised cells and their functions, and calculating magnification from image and actual size -- the full content of Topic 2 for Cambridge IGCSE Biology 0610, 2026-2028 series."
+description: "Plant, animal and bacterial cell structure, six specialised cells and magnification calculations, covering Topic 2 of Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-31
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide covers **Topic 2 Organisation of the organism**, for
@@ -171,6 +171,19 @@ recall them.
   <figcaption>Magnification is image size divided by actual size, using the same units.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What structures does a plant cell have that an animal cell does not?**
+A plant cell has a cell wall, chloroplasts and a permanent vacuole, which an animal cell lacks. Both have a cell membrane, nucleus, cytoplasm, ribosomes and mitochondria.
+
+**How is a bacterial cell different from plant and animal cells?**
+A bacterial cell has no true nucleus. Its genetic material is circular DNA, and it may also contain plasmids, alongside a cell wall, cell membrane, cytoplasm and ribosomes.
+
+**Which specialised cells are named in the Cambridge IGCSE Biology 0610 syllabus?**
+The six named examples are ciliated cells, root hair cells, palisade mesophyll cells, neurones, red blood cells, and sperm and egg cells (gametes). Learn each function in the syllabus wording, such as "conduction of electrical impulses" for neurones.
+
+**What is the formula for magnification?**
+Magnification = image size ÷ actual size. Core candidates use millimetres, and Supplement candidates must also convert between millimetres and micrometres (1 mm = 1000 μm).
 
 ## Official syllabus
 

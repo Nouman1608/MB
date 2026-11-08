@@ -241,6 +241,20 @@ Normal value inside the range [1]; both valid boundaries, 12.0 and 30.0 [1]; bot
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are these OxfordAQA 9645 program design questions from past papers?**
+No. They are original practice questions with worked answers, written for revision of section 3.3, Program design. Use them alongside official past papers from your board or school.
+
+**Which language should you use when a program design question asks for code?**
+Write program code in C#, Python or VB.Net; the model answers on this page use Python. The pseudo-code is language-neutral because the 9645 specification does not set out its own conventions.
+
+**What are common mistakes in trace table questions?**
+Common errors are missing a line that runs after a loop ends and updating a variable before the line that changes it has run. Record output at the moment it happens and check each loop condition with the current values.
+
+**How do you choose boundary test data?**
+Give the lowest and highest valid values and the values just outside each limit, using the right step size for the data. Write the expected result beside every test value, because test data with no expected result loses marks.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA. Section 3.3 Program design.

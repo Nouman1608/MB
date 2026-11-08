@@ -277,6 +277,23 @@ Strong answers build a chain and then judge it. Example: high start-up costs →
 - Treating any large firm as a monopoly. A large firm in a market with many rivals is not one.
 - Giving only the good or only the bad effects when asked to evaluate.
 
+## Frequently asked questions
+
+**What is a market structure?**
+A market structure describes how a market is organised, which shapes how firms behave. Markets lie on a range from competitive to non-competitive rather than in two separate boxes.
+
+**What is product differentiation?**
+Product differentiation means making a product different from rivals' versions so that buyers see it as distinct. It is one of the three factors used to place a market on the range of market structures.
+
+**How do producers behave in a competitive market?**
+Producers charge prices close to rivals' prices, keep costs low, compete on non-price factors such as quality and service, and respond quickly to what customers want, because a firm that overcharges loses customers.
+
+**How does competition affect workers?**
+Many employers competing for staff can mean more job openings and pressure to offer good pay. But thin margins also push firms to control costs, which can hold down wages or make jobs less secure.
+
+**How can economies of scale lead to market dominance?**
+Large output spreads fixed costs, so a large firm has a lower average cost than small rivals. At a price that only the large firm can profit from, small rivals cannot survive, so scale helps it dominate the market.
+
 ## Official syllabus
 
 Source: OxfordAQA, *International GCSE Economics (9214) specification*, first teaching September 2023, first examined May/June 2025, sections 3.1.5.1 to 3.1.5.3.

@@ -249,6 +249,20 @@ Two checks before you write a conflict answer. First, say which aim the governme
 - Writing a percentage point change as a percentage change (a rise from 2% to 5% is 3 percentage points).
 - Confusing local, national and international roles by giving a national example for a local one.
 
+## Frequently asked questions
+
+**What are the five macroeconomic aims of government?**
+The five aims are economic growth, full employment (low unemployment), stable prices (low inflation), balance of payments stability and redistribution of income.
+
+**Does full employment mean zero unemployment?**
+No. Some people are always between jobs, so full employment allows for a low level of unemployment. Similarly, stable prices means a low, predictable rise in prices rather than no change at all.
+
+**What is the difference between an aim and a criterion?**
+The aim is the goal, such as stable prices. The criterion is the number or range used to judge it, such as inflation of 2% give or take one percentage point, which lets progress be checked.
+
+**At which levels does government act?**
+The syllabus asks for the role of government at local, national and international levels, because different problems have different scales; for example, river pollution crossing borders may need international action.
+
 ## Official syllabus
 
 This page is aligned to the Cambridge IGCSE Economics 0455 syllabus for examination in 2026 (version 2), published by Cambridge University Press & Assessment (Cambridge International), sections 4.1.1, 4.2.1 and 4.2.2.

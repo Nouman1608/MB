@@ -22,11 +22,11 @@ syllabusTopics:
     subtopic: "transport-mechanisms-cambridge-alevel-biology"
 description: "Original exam-style questions with marked answers on xylem, phloem, water pathways, transpiration and translocation for Cambridge 9700 AS Biology."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -140,6 +140,20 @@ Before you start, you may want the [study guide](/resources/a-level-biology-9700
 - Track every outcome: [printable 9700 checklist](/checklists/cambridge/a-level/biology/)
 - Test the whole AS course: [9700 AS Level diagnostic](/practice/9700/diagnostic/as/), or see [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Which Cambridge 9700 topic do these questions cover?**
+They cover Topic 7, Transport in plants: xylem and phloem structure, plan diagrams, water pathways, transpiration and translocation.
+
+**What should you avoid in a plan diagram?**
+Do not draw individual cells, and keep tissue proportions correct. Drawing cells or distorting proportions loses marks.
+
+**Which unit errors are common in transport in plants calculations?**
+Dividing mm by µm without converting, and using diameter instead of radius when finding the area of a field of view.
+
+**Are these Cambridge past paper questions?**
+No. They are original exam-style questions with marked answers. Use them alongside official past papers.
 
 ## Official syllabus
 

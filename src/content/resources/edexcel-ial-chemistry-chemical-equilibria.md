@@ -253,6 +253,20 @@ Know what each of these suggested practicals measures.
 
 Condense this topic with the [chemical equilibria revision notes](/resources/edexcel-ial-chemistry-chemical-equilibria-revision-notes/), then test yourself on the [chemical equilibria practice questions](/resources/edexcel-ial-chemistry-chemical-equilibria-practice/). Record progress against each outcome on the [checklist](/checklists/edexcel/a-level/chemistry/) and find weak spots with the [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is the equation linking ΔStotal and K in Edexcel IAL Chemistry?**
+The YCH11 specification links them with ΔStotal = R lnK, where R = 8.31 J K⁻¹ mol⁻¹ and K is treated as a pure number. A positive ΔStotal gives K greater than 1, and a negative ΔStotal gives K less than 1.
+
+**When can you use moles instead of concentrations in Kc?**
+You can put amounts in moles straight into Kc only when the powers above and below the line add to the same total, so the volume cancels. The ester equilibrium, with two species on each side, is an example.
+
+**How does the size of K show the extent of a reaction?**
+As a rule of thumb, K greater than about 10¹⁰ means the reaction goes essentially to completion, K less than about 10⁻¹⁰ means it hardly happens, and values in between give a true equilibrium mixture. These boundaries are approximate, not sharp cut-offs.
+
+**Why does a catalyst not change the position of equilibrium?**
+A catalyst raises the forward and backward rates by the same factor. Equilibrium is reached sooner, but neither the composition of the mixture nor K changes.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Topic 13: Chemical Equilibria (outcomes 13.1 to 13.9), in Unit 4: Rates, Equilibria and Further Organic Chemistry. Published by Pearson Education Limited.

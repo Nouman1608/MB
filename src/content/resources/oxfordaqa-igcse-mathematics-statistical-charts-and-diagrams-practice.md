@@ -182,6 +182,20 @@ If you get stuck, go to the [study guide](/resources/oxfordaqa-igcse-mathematics
 - Check your level with a [free 10-minute diagnostic](/diagnostics/).
 - Want a tutor's help? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do you plot points on a frequency polygon?**
+Plot each frequency at the class midpoint, not at the class edges, and join the points with straight lines.
+
+**Which charts need a key?**
+Pictograms, dual bar charts and stem-and-leaf diagrams all need a key. Leaving it out is one of the most common lost marks.
+
+**How do you compare two box plots?**
+Quote figures for a median and a spread, such as the interquartile range, for both data sets, and say what they mean in context. Describing the shape only, or comparing medians alone, is not enough.
+
+**Are histograms with unequal classes in OxfordAQA 9260 Core?**
+No. In OxfordAQA International GCSE Mathematics (9260), reference S4, histograms with unequal class intervals, cumulative frequency diagrams and box plots are Extension only.
+
 ## Official syllabus
 
 Specification used: Version 5.1 of the OxfordAQA specification for International GCSE Mathematics (9260), which is for exams May/June 2018 onwards. Section 3.4.1, Presentation and analysis, reference S4.

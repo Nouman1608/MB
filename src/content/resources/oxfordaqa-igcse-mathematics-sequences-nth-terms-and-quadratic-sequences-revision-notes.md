@@ -224,6 +224,20 @@ To find the 10th term, substitute n = 10: 200 + 30 + 1 = 231. To test whether a 
 - Rounding the wrong way in "first term greater than" problems.
 - Stating that a pattern continues from three terms without checking the differences.
 
+## Frequently asked questions
+
+**What is the difference between a term-to-term rule and a position-to-term rule?**
+A term-to-term rule builds each term from the previous one, so it needs a starting term. A position-to-term rule, the nth term, gives any term directly from its position.
+
+**What is the nth term of the triangular numbers?**
+The triangular numbers 1, 3, 6, 10, 15, … have nth term n(n + 1)/2. Square numbers have nth term n² and cube numbers n³.
+
+**How do you find the nth term of a linear sequence?**
+Find the common difference d, write dn, then find the constant as the first term minus d. Test dn + c on the second term to check.
+
+**How do you tell whether a sequence is arithmetic?**
+An arithmetic (linear) sequence has the same difference every time and plots on a straight line. If the differences change, the nth term may contain n² or n³.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.2.4, references A24, A25 and A26.

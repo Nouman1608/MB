@@ -150,6 +150,23 @@ Links: the [study guide](/resources/oxfordaqa-a-level-economics-competitive-dyna
 - Use the [course hub](/boards/oxfordaqa/a-level/economics/), the [checklist](/checklists/oxfordaqa/a-level/economics/) and the [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students usually lose marks on consumer and producer surplus questions?**
+Common slips are using the wrong height in a surplus triangle, reading the monopoly price from the MR curve instead of the demand curve, and forgetting the second deadweight loss triangle in a tariff diagram.
+
+**Is tariff revenue a loss to society?**
+No. Tariff revenue is a transfer from consumers to the government. The deadweight loss is the two triangles that come from extra higher-cost home production and from consumption that no longer happens.
+
+**How can I check a tariff surplus calculation?**
+The loss of consumer surplus should equal the gain in producer surplus plus the tariff revenue plus the deadweight loss. If the figures do not add up, one of the areas is wrong.
+
+**How should I answer an evaluate question on whether monopoly is better than competition?**
+Do not judge monopoly on static grounds alone. Weigh the deadweight loss against possible dynamic gains from innovation, consider the threat of entry, use the figures you have calculated and reach a conclusion that says what it depends on.
+
+**Which OxfordAQA 9640 sections do these practice questions cover?**
+They cover sections 3.3.3.8 to 3.3.3.10 of the OxfordAQA International AS and A-level Economics (9640) specification: competitive dynamics, efficiency, and consumer and producer surplus, which are part of the International A2 content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, sections 3.3.3.8 to 3.3.3.10. First teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022. Published by OxfordAQA.

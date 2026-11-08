@@ -265,6 +265,20 @@ The second derivative is positive, so this is a minimum. The base is 4 m by 4 m,
 
 Use the [revision notes](/resources/oxfordaqa-a-level-mathematics-differentiation-gradients-tangents-normals-and-revision-notes/) to compress this into recall sheets, then try the [practice questions](/resources/oxfordaqa-a-level-mathematics-differentiation-gradients-tangents-normals-and-practice/) under timed conditions. For mixed Unit P1 work, see the [Unit P1 practice set](/resources/oxfordaqa-a-level-mathematics-p1-practice/). The [free diagnostics](/diagnostics/) show which topics need attention first.
 
+## Frequently asked questions
+
+**What does the derivative of a function represent?**
+The derivative dy/dx, or f'(x), is the gradient of the tangent to the curve at a point and the rate of change of y with respect to x. Its unit is the unit of y divided by the unit of x.
+
+**How do you find the equation of a tangent to a curve?**
+Substitute the x-value into the curve to find the y-coordinate, differentiate and substitute to get the gradient m, then use y − y₁ = m(x − x₁). Tidy the result into the form the question asks for.
+
+**What does it mean if the second derivative is zero at a stationary point?**
+The second-derivative test is inconclusive, so check the sign of the gradient just before and just after the point. A zero second derivative does not on its own prove the point is neither a maximum nor a minimum.
+
+**What is the difference between a local maximum and the greatest value of a function?**
+A local maximum is the greatest value near that point, not necessarily the largest value the function takes. With some functions, a local maximum can even lie below a local minimum.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA: section 3.1, International AS Unit P1 (Pure Maths), content P1.3 Differentiation.

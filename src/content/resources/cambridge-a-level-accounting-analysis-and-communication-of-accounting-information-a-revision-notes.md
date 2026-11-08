@@ -211,6 +211,20 @@ Name the user, state the recommendation, give one reason for and one against, qu
 - Quoting ratios without comment, or commenting without naming a stakeholder.
 - Recommending without a reason against, or ignoring what else the data shows.
 
+## Frequently asked questions
+
+**How do you calculate dividend per share?**
+Dividend per share = annual ordinary dividend ÷ number of issued ordinary shares, where the annual dividend is the interim plus the final dividend. Using only the final dividend is a common mistake.
+
+**Which section of Cambridge 9706 covers A Level ratio analysis?**
+Section 3.5 Analysis and communication of accounting information (A Level) covers the working capital cycle, gearing, interest cover and the investor ratios: earnings per share, price/earnings, dividend per share, dividend yield and dividend cover.
+
+**How do gearing and interest cover move together?**
+New borrowing raises gearing and, unless operating profit rises enough, adds interest that lowers interest cover, so the two usually move in opposite directions as debt increases.
+
+**Why must I name a stakeholder when commenting on ratios?**
+Whether a change is good or bad depends on who is being advised, such as a shareholder, lender or manager. Quoting ratios without comment, or commenting without naming a stakeholder, loses marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education): section 3.5 Analysis and communication of accounting information, and the appendix to section 3.

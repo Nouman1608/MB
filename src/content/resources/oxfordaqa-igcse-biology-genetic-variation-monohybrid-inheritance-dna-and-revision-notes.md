@@ -301,6 +301,23 @@ Worked reminder: 12 children, 4 affected. 4 ÷ 12 × 100 = 33.3%. Prediction 25%
 - Predicting exact counts when the question asks what is expected.
 - Using "the parents have the gene". Say which allele and whether it is dominant or recessive.
 
+## Frequently asked questions
+
+**How is sex determined in humans?**
+One of the 23 pairs of chromosomes in human body cells decides sex: females are XX and males are XY. Each child has a probability of 1/2 of being a boy, every time.
+
+**What is a carrier of a genetic disorder?**
+A carrier is a heterozygous person who has one recessive disorder allele but does not show the disorder. Two carriers have a 1/4 chance of an affected child with each pregnancy.
+
+**How do you find the genotype of an organism showing a dominant characteristic?**
+Cross it with a homozygous recessive individual. If any offspring show the recessive phenotype, the unknown parent must be heterozygous.
+
+**How many bases code for a protein?**
+Each amino acid is coded for by three bases, so the number of bases is at least three times the number of amino acids. A protein of 210 amino acids needs at least 630 bases in its coding sequence.
+
+**What did Mendel do in his pea experiments?**
+Mendel used garden peas with clear either-or characteristics, started with pure-breeding lines, studied one characteristic at a time and counted large numbers of offspring. His "inherited factors" were linked with chromosomes later by other scientists.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.5.3 Genetic variation and 3.5.4 Genetic disorders.

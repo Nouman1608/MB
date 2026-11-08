@@ -284,6 +284,20 @@ Each topic has a quick test that takes under a minute.
 - Choosing the wrong kinematics formula because a hidden value such as u = 0 was missed.
 - Writing a final answer with no units, or the wrong ones (cm instead of cm²).
 
+## Frequently asked questions
+
+**Which formulae must you know for OCR GCSE Mathematics J560?**
+For section 6.02d, both tiers need the circumference and area of a circle, Pythagoras' theorem and the right-angled trigonometry ratios. The quadratic formula is Higher tier only.
+
+**How do you rearrange a formula when the subject appears twice?**
+Collect the terms containing the subject on one side, factorise the subject out, then divide by the bracket.
+
+**How can you check a rearranged formula?**
+Substitute a simple pair of numbers into both the original and the rearranged versions and check that they agree.
+
+**What is the difference between an expression, a formula and an equation?**
+An expression has no equals sign, a formula links quantities, and an equation is solved to find an unknown value.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, published by OCR. Section 6.02, Algebraic formulae.

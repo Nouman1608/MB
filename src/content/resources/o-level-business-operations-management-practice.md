@@ -12,14 +12,14 @@ order: 4
 syllabusTopics:
   - qualification: "o-level"
     topic: "operations-management"
-description: "Original exam-style questions with full worked answers on flow and batch production, factory location, labour productivity and break-even analysis, for Cambridge O Level Business Studies (7115)."
+description: "Original practice questions with worked answers on flow and batch production, location, labour productivity and break-even for Cambridge O Level Business 7115."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -96,3 +96,17 @@ Each question practises a skill tested in the June 2024 Paper 12. After each ans
 - Defining a term from the question (such as "suppliers") instead of explaining why it matters.
 - Dividing fixed costs by the selling price instead of by contribution per unit in break-even calculations.
 - Leaving units off productivity or break-even answers.
+
+## Frequently asked questions
+
+**Are these Cambridge O Level Business Studies 7115 past paper questions?**
+No. They are original questions written for Marlbridge, each practising a skill tested in the June 2024 Paper 12, with links to the real questions to try next. The examiner insights are drawn from the June 2024 Principal Examiner Report for Teachers.
+
+**Do economies of scale lower a business's costs?**
+They lower average, or unit, costs as output rises. Saying economies of scale simply "lower costs" was a common misconception noted by examiners.
+
+**Why should you not define a word from the question in a location answer?**
+Defining a term such as "suppliers" earns no credit when the question asks why it matters. Explain the factor's effect on the business, such as on its transport costs or production.
+
+**What units should break-even and productivity answers have?**
+Break-even output is measured in units, such as benches per month, not dollars, and labour productivity needs units such as items per worker per week. A number on its own does not show what has been measured.

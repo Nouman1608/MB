@@ -165,6 +165,23 @@ For this question take ΔH = −5.0 kJ mol⁻¹ and ΔS = +150 J K⁻¹ mol⁻¹
 - Forgetting to scale from the titrated portion to the full volumetric flask.
 - Writing catalyst equations in which the catalyst is not regenerated.
 
+## Frequently asked questions
+
+**Is transition metals AS content in AQA Chemistry?**
+No. Section 3.2.5 Transition metals of the AQA 7404/7405 specification is A-level only. Inorganic chemistry is listed under A-level Paper 1, and Paper 3 can assess any content.
+
+**Why does "number of ligands" lose marks for co-ordination number?**
+Co-ordination number is the number of co-ordinate bonds to the metal, and bidentate or multidentate ligands form more than one bond each. Count bonds, not ligands.
+
+**How should the chelate effect be explained?**
+Refer to entropy: replacing monodentate ligands with a multidentate ligand increases the number of particles, so ΔS is positive. Explaining it with enthalpy or bond strength alone does not earn the marks.
+
+**What unit errors happen in transition metal calculations?**
+Using λ in nm instead of m in ΔE = hc/λ, and forgetting to divide ΔS by 1000 before using ΔG = ΔH – TΔS, are both common. Convert units before substituting.
+
+**What ratios are used in manganate(VII) titrations?**
+MnO₄⁻ reacts with Fe²⁺ in a 1 : 5 ratio and with C₂O₄²⁻ or H₂O₂ in a 2 : 5 ratio. Also remember to scale up from the titrated portion to the full volumetric flask.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/aqa-a-level-chemistry-transition-metals-revision-notes/).

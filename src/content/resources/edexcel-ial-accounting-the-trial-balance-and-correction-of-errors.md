@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: The trial balance and correction of errors (YAC11)"
+title: "Edexcel International A Level Accounting: The trial balance and correction of errors (YAC11)"
 seoTitle: "Edexcel IAL Accounting Trial Balance and Errors Guide"
 resourceType: "study-guides"
 subject: "accounting"
@@ -293,6 +293,23 @@ Now both agree. An invoice of 1,260 posted to the wrong customer changes neither
 - Correcting a control account for an error that only sits in the list.
 
 Next, test yourself with the [practice questions](/resources/edexcel-ial-accounting-the-trial-balance-and-correction-of-errors-practice/).
+
+## Frequently asked questions
+
+**What is a trial balance in Edexcel IAL Accounting?**
+A trial balance is a list of every ledger balance at one date, in a debit column and a credit column. Under double entry the two totals should agree, but agreement is a check on arithmetic, not a proof that the books are correct.
+
+**What is a compensating error?**
+A compensating error is two or more errors that offset each other, so the trial balance still agrees. For example, if purchases and revenue are both under-added by the same amount, both totals fall equally.
+
+**Which side of the trial balance does the suspense account go on?**
+The suspense account goes on the side that is short. If debits exceed credits, suspense is a credit balance; if credits exceed debits, it is a debit balance, and it should close to nil once all the errors are corrected.
+
+**Why is a complete reversal of entries corrected with double the amount?**
+A correcting journal for a complete reversal must first remove the wrong entry and then post the right one. Each step needs the original amount, so the correction is twice the amount of the transaction.
+
+**How do you work out a revised profit after correcting errors?**
+Start with the profit already calculated and adjust for each correction that affects an income or expense account. Income understated or expenses overstated raises profit, income overstated or expenses understated lowers it, and corrections between statement of financial position accounts change nothing.
 
 ## Official syllabus
 

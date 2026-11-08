@@ -239,6 +239,20 @@ Use the figures like this: the farmers gain £30,000, shareholders lose £9,000,
 - Reaching a conclusion that simply restates the points made, with no weighing.
 - Forgetting the cost of consultation, such as delay, when evaluating it.
 
+## Frequently asked questions
+
+**What are internal and external stakeholders?**
+Internal stakeholders are owners, managers and employees. External stakeholders include customers, suppliers, lenders, government, the local community and pressure groups.
+
+**How should a high-power, low-interest group be treated on a stakeholder map?**
+A group with high power but low interest should be kept satisfied.
+
+**What is the difference between power and interest in stakeholder mapping?**
+Power is the ability to influence the business or a decision, while interest is how much a group is affected by, or cares about, the outcome. A group can have either without the other.
+
+**How can a business resolve conflicting stakeholder needs?**
+It can compromise, delay, find an alternative option or explain its priority. The choice is shaped by mission, objectives, the groups' power, the size of the decision and the long-run effects.
+
 ## Official syllabus
 
 AQA, AS and A-level Business (7131 and 7132) specification, subject content 3.2.3 Understanding the role and importance of stakeholders.

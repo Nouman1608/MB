@@ -228,6 +228,20 @@ Attempt every question before checking the answers below.
 - Rounding too early on surd questions.
 - Cancelling a common factor of x, which loses the solution x = 0.
 
+## Frequently asked questions
+
+**What is the difference between elimination and substitution?**
+Elimination removes a letter by adding or subtracting scaled equations. Substitution replaces a letter using a rearranged equation, and is usually the better method when one equation is quadratic.
+
+**When do two linear simultaneous equations have no solution?**
+When the x and y coefficients are in the same ratio but the constants are not, the lines are parallel and there is no solution.
+
+**What does the discriminant tell you about a line and a curve?**
+After equating the line and curve to get a quadratic, a positive discriminant means two intersection points, zero means the line is a tangent, and negative means the line does not meet the curve.
+
+**Which part of the AQA 7357 specification covers simultaneous equations?**
+Statement B4 of Section B (Algebra and functions) covers solving simultaneous equations in two variables by elimination and by substitution, including one linear and one quadratic equation.
+
 ## Official syllabus
 
 AQA A-level Mathematics (7357) specification, first teaching 2017, published by AQA. Statement B4, Section B: Algebra and functions.

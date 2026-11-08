@@ -108,7 +108,7 @@ Explain why ln R against t should be linear, then use the end points to find the
 *Examiner insight:* The zero error is subtracted from the reading, not added. Showing the subtraction makes your method clear.
 
 **2. (a)** One period: 0.2/1.0 × 100 = **20%** [1]. Twenty periods: 0.2/20.06 × 100 = **1.0%** [1]
-**(b)** Micrometer: 0.01/0.40 × 100 = **2.5%** [1]. Ruler: 1/0.40 × 100 = **250%**, so the ruler is unsuitable [1]
+**(b)** Taking half the resolution as the uncertainty of a single reading: micrometer 0.005/0.40 × 100 ≈ **1.3%** [1]. Ruler: 0.5/0.40 × 100 = **125%**, so the ruler is unsuitable [1]
 *Examiner insight:* State the conclusion after comparing the percentages.
 
 **3.** Any nine of the following points, one each:
@@ -180,6 +180,17 @@ T½ = ln 2/λ = 0.693/0.01928 [1]
 - Return to the [course hub](/boards/edexcel/a-level/physics/) and the [printable checklist](/checklists/edexcel/a-level/physics/).
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - Visit the trial page to [book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Are these Edexcel IAL Unit 6 planning questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers from your board or school.
+
+**Which parts of the Edexcel IAL Physics specification do these questions cover?**
+They cover section 6.3 Planning, section 6.4 Implementation and Measurements, and log graphs from section 6.1 of Unit 6: Practical Skills in Physics II, an IA2 unit.
+
+**What mistakes lose marks in Unit 6 planning questions?**
+Common errors include naming an instrument without its range or resolution, listing controlled variables without saying how they are held, giving a hazard with no precaution or the reverse, and deleting an anomalous point instead of checking it.
 
 ## Official syllabus
 

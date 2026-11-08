@@ -259,6 +259,23 @@ Country A has GDP of £960bn. A rise in bank rate cuts consumption by £6bn, inv
 - Evaluating with a generic "it depends" instead of naming what it depends on.
 - Using real-world figures from memory rather than the data in the question.
 
+## Frequently asked questions
+
+**Who sets the UK inflation target?**
+The government sets the target, a 2% CPI inflation rate; the Bank of England's Monetary Policy Committee chooses how to meet it.
+
+**How many members does the MPC have?**
+The Monetary Policy Committee has nine members and decides bank rate by majority vote.
+
+**What happens if UK inflation misses the target by more than one percentage point?**
+The Governor of the Bank of England writes an open letter to the Chancellor explaining why.
+
+**Is monetary policy better against demand-pull or cost-push inflation?**
+Monetary policy works better against demand-pull inflation. Against cost-push inflation, raising rates may cut output without fixing the cause.
+
+**What is the difference between bank rate and market interest rates?**
+Bank rate is set by the MPC; market rates on loans, mortgages and savings are set by commercial banks, anchored by bank rate.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification (7135 and 7136), version 1.3, for first teaching from September 2015; published by AQA. Section 4.2.4.3 in the PDF, numbered 3.2.4.3 on the AQA website.

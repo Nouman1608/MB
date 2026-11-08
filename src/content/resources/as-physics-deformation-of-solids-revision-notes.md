@@ -19,9 +19,9 @@ syllabusTopics:
     subtopic: "as-elastic-and-plastic-behaviour"
 description: "Condensed recall notes on Hooke law, stress and strain, the Young modulus and elastic strain energy for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -143,3 +143,16 @@ For a material loaded beyond its elastic limit, the loading and unloading curves
   <figcaption>After plastic deformation the unloading line is parallel to the first line, leaving a permanent extension and wasted energy.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is Hooke's law?**
+Hooke's law states that the force applied is directly proportional to the extension, F = kx, up to the limit of proportionality. Omitting that limit loses the mark.
+
+**Why is the Young modulus a property of the material?**
+The Young modulus is stress divided by strain, which already accounts for cross-sectional area and original length. Two wires of the same material but different thickness have the same Young modulus, though their stiffness k differs.
+
+**What is the difference between strong, stiff and tough?**
+Strong means a high breaking stress, stiff means a high Young modulus, and tough means absorbing a lot of energy before breaking. Glass is stiff and strong but not tough.
+
+**How do you calculate elastic strain energy?**
+Elastic strain energy is the area under the force-extension graph, which is ½Fx = ½kx² for a straight-line region. For a non-linear graph you must find the area instead of using the formula.

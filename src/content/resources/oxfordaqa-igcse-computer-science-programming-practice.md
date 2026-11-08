@@ -7,18 +7,33 @@ topic: "Programming"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9210"]
-syllabusSeries: "Teaching from September 2017, exams from May/June 2019"
+syllabusSeries: "For teaching from September 2017, exams from May/June 2019"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "programming-9210"
-description: "Original exam-style practice questions with full worked answers on data types, sequence/iteration/selection, and arithmetic, relational and Boolean operators, for OxfordAQA International GCSE Computer Science (9210)."
+  - qualification: "igcse"
+    topic: "programming-9210"
+    subtopic: "data-types-9210"
+  - qualification: "igcse"
+    topic: "programming-9210"
+    subtopic: "programming-concepts-9210"
+  - qualification: "igcse"
+    topic: "programming-9210"
+    subtopic: "arithmetic-operations-9210"
+  - qualification: "igcse"
+    topic: "programming-9210"
+    subtopic: "relational-operations-9210"
+  - qualification: "igcse"
+    topic: "programming-9210"
+    subtopic: "boolean-operations-9210"
+description: "Original practice questions with worked answers on data types, programming constructs and arithmetic, relational and Boolean operators for OxfordAQA IGCSE 9210."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -145,3 +160,20 @@ their underlying programming understanding is otherwise strong.
 - Writing a definite loop (FOR) where the number of repetitions is not actually known in advance.
 - Tracing a loop without showing each iteration's working, losing method marks even with a correct final answer.
 - Treating AND and OR as interchangeable, when they produce different results whenever the two conditions being combined disagree.
+
+## Frequently asked questions
+
+**Are these OxfordAQA 9210 programming practice questions from past papers?**
+No. They are original exam-style practice questions with full worked answers on data types, programming constructs and operators. Use them alongside official past papers from your board or school.
+
+**What is the difference between DIV and MOD?**
+DIV gives the whole-number quotient of a division and MOD gives the remainder. Confusing them, or giving only one when a question asks for both, is a common way to lose marks.
+
+**When should you use a FOR loop instead of a WHILE loop?**
+Use a definite loop such as FOR when the number of repetitions is known in advance. If the number of repetitions depends on a condition that could change unpredictably, use an indefinite loop such as WHILE or REPEAT...UNTIL.
+
+**Does the OxfordAQA 9210 written exam use Python?**
+No. The written exams use OxfordAQA's own pseudocode, whichever language you learned in class. Its conventions, such as <- for assignment and ENDIF or ENDFOR closing keywords, are published in the board's separate pseudocode guidance.
+
+**How are trace table questions marked?**
+They are marked on showing working, not just the final value. Set out each iteration of a loop on its own line, stating the condition being tested and whether it is true or false.

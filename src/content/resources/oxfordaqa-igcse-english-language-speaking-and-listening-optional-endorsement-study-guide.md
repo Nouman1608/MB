@@ -12,11 +12,11 @@ order: 4
 syllabusTopics:
   - qualification: "igcse"
     topic: "speaking-and-listening-optional-endorsement-9270"
-description: "Skills for speaking purposefully, listening actively and taking part in discussion, for the optional, separately reported speaking and listening endorsement in OxfordAQA IGCSE English Language."
+description: "Speaking purposefully, listening actively and taking part in discussion for the optional endorsement in OxfordAQA IGCSE English Language 9270."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the task types, timing, criteria, grade labels, and recording and moderation rules for the endorsement in the specification, as only general speaking and listening skills are taught here."
+reviewNote: "Check the task types, timing, criteria, grade labels, and recording and moderation rules for the endorsement in the specification, as only general speaking and listening skills are taught here. 2026-11-08 recheck: FAQ added."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -107,6 +107,18 @@ This plan shows the four core skills: making a developed point, responding, ques
 - Use the speaker's name when responding.
 - Disagree politely and give reasons.
 - Practise with friends or family, and ask for specific feedback on one skill at a time.
+
+## Frequently asked questions
+
+**Does speaking and listening count towards the 9270 grade?**
+No. It is an optional endorsement shown as a separate statement on the certificate.
+
+**What do I have to do?**
+One prepared formal presentation on an agreed topic, as a guide no more than ten minutes, then respond to questions and feedback.
+
+**Can I use notes or slides?**
+Yes. Pre-prepared notes or slides may be used but are not required.
+
 
 ## Check your understanding
 

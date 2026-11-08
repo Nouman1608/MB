@@ -233,6 +233,23 @@ Fatty acids are broken into 2C acetyl groups that enter as acetyl-CoA, so they b
 - Forgetting glycolysis uses 2 ATP before making 4.
 - Writing "energy is made". Energy is transferred.
 
+## Frequently asked questions
+
+**Why is ATP called the energy currency of the cell?**
+ATP is small and soluble, so it moves quickly through the cell; hydrolysis of its terminal phosphate releases a usable amount of energy, and it is rapidly regenerated from ADP and phosphate.
+
+**What is the role of oxygen in aerobic respiration?**
+Oxygen is the terminal electron acceptor at the end of the electron transport chain. It takes electrons from the chain and protons from the matrix to form water, which keeps the electrons flowing.
+
+**What is chemiosmosis?**
+Chemiosmosis is the synthesis of ATP as protons flow back into the mitochondrial matrix down their gradient through ATP synthase; it is HL-only content in IB DP Biology C1.2.
+
+**Why do mature red blood cells respire anaerobically?**
+Mature red blood cells have no mitochondria, which are needed for aerobic respiration, so they rely on the anaerobic route in the cytoplasm.
+
+**Why does lipid release more energy per gram than carbohydrate?**
+Lipids such as fatty acids contain less oxygen and more oxidisable hydrogen and carbon per gram than carbohydrates, so more can be oxidised.
+
 ## Official syllabus
 
 IB Diploma Programme Biology guide, first assessment 2025, published by the International Baccalaureate Organization. Topic C1.2 (Cell respiration), statements C1.2.1 to C1.2.17; C1.2.7 to C1.2.17 are additional higher level.

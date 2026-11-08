@@ -133,6 +133,20 @@ These questions cover specification section 4.3.6, items 1(a) to 1(c) and the fi
 - Merging the savings gap with the foreign currency gap.
 - Repeating the same point under capital flight.
 
+## Frequently asked questions
+
+**Should you round index values during an HDI calculation?**
+No. Keep full figures for each index and round only at the final step, because rounding early is one of the listed ways marks are lost in Edexcel International A Level Economics development questions.
+
+**What is the difference between the savings gap and the foreign currency gap?**
+The savings gap is a shortfall of domestic saving below the investment needed. The foreign currency gap is a shortfall of foreign currency earnings below the import bill. Merging the two is a common error.
+
+**Does a falling share of workers in farming prove that incomes are rising?**
+No. It is a sign of structural change, but on its own it does not prove that incomes or living standards have risen.
+
+**How should you write about the Prebisch-Singer hypothesis?**
+Treat it as a hypothesis, not a certain fact. Explain its reasoning and then evaluate whether it applies to the country described.
+
 ## Next steps
 
 - [Revision notes](/resources/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on-revision-notes/) and [study guide](/resources/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on/).

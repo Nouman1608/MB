@@ -304,6 +304,23 @@ magnification = size of image / size of real object
 - In the required practical, not including a magnification scale on the drawing.
 - Saying electron microscopes are better because of "magnification" alone, without resolution.
 
+## Frequently asked questions
+
+**Do bacteria have DNA?**
+Yes. Bacteria have DNA but no nucleus; their genetic material is a single DNA loop, and they may also have plasmids.
+
+**How do you calculate total magnification of a light microscope?**
+Total magnification = eyepiece lens magnification × objective lens magnification. A ×10 eyepiece with a ×10 objective gives ×100.
+
+**What is the difference between magnification and resolution?**
+Magnification is how many times bigger the image is than the real object. Resolution is the ability to distinguish two points close together, giving finer detail.
+
+**Why are cultures incubated at 25°C in school labs?**
+Incubating at 25°C or below reduces the chance of growing pathogens that could harm humans. Giving "the best temperature for bacteria" as the reason is a common error.
+
+**What is an order of magnitude?**
+An order of magnitude is a factor of 10. Divide one size by the other to see how many orders of magnitude they differ by.
+
 ## Official syllabus
 
 AQA GCSE Biology (8461) specification, for first teaching 2016, exams from 2018, version 1.0, published by AQA -- section 4.1.1 Cell structure (4.1.1.1 to 4.1.1.6), with required practical activities 1 and 2.

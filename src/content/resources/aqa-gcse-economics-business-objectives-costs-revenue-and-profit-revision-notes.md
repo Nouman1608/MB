@@ -229,6 +229,20 @@ Use this order and keep each step to a sentence or two:
 - Listing points in an evaluation without a final judgement.
 - Missing the £ sign or the "per unit" label on average figures.
 
+## Frequently asked questions
+
+**Is revenue the same as profit?**
+No. Revenue is the money coming in from sales; profit is total revenue minus total costs.
+
+**What is the difference between AVC and AC?**
+Average variable cost is total variable cost divided by output. Average cost also includes fixed costs: total cost divided by output.
+
+**Can a firm's sales grow while its market share falls?**
+Yes. If the whole market grows faster than the firm's sales, its share of the market falls.
+
+**How do I tell if a cost is fixed or variable?**
+Check whether it changes with output. A monthly salary is fixed unless it changes with the amount produced.
+
 ## Official syllabus
 
 AQA, *GCSE Economics (8136)* specification, for first teaching from September 2017: section 3.1.4.1, The importance of cost, revenue and profit for producers.

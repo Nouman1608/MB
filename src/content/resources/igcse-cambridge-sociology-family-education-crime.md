@@ -12,13 +12,40 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-family-education-crime-0495"
-description: "Family structures and functions, the roles of education, and crime, deviance and social control -- the full content of Paper 2 for Cambridge IGCSE Sociology 0495, 2025-2027 series."
+  - qualification: "igcse"
+    topic: "paper-2-family-education-crime-0495"
+    subtopic: "kq-4-1-0495"
+  - qualification: "igcse"
+    topic: "paper-2-family-education-crime-0495"
+    subtopic: "kq-4-2-0495"
+  - qualification: "igcse"
+    topic: "paper-2-family-education-crime-0495"
+    subtopic: "kq-4-3-0495"
+  - qualification: "igcse"
+    topic: "paper-2-family-education-crime-0495"
+    subtopic: "kq-5-1-0495"
+  - qualification: "igcse"
+    topic: "paper-2-family-education-crime-0495"
+    subtopic: "kq-5-2-0495"
+  - qualification: "igcse"
+    topic: "paper-2-family-education-crime-0495"
+    subtopic: "kq-5-3-0495"
+  - qualification: "igcse"
+    topic: "paper-2-family-education-crime-0495"
+    subtopic: "kq-6-1-0495"
+  - qualification: "igcse"
+    topic: "paper-2-family-education-crime-0495"
+    subtopic: "kq-6-2-0495"
+  - qualification: "igcse"
+    topic: "paper-2-family-education-crime-0495"
+    subtopic: "kq-6-3-0495"
+description: "Cambridge IGCSE Sociology (0495) Paper 2 guide, 2025-2027: family structures and perspectives, education, and crime, deviance and social control."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: removed unsupported claim that Paper 2 Question 1 varies by series (syllabus fixes Q1 Family, Q2 Education, Q3 Crime); please re-review. Fix pass: softened unverifiable claim that examiners return to the hidden curriculum most often; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers **Paper 2 Family, Education and Crime**, for
@@ -98,8 +125,8 @@ children (4.3.5), not to the effects of an ageing population.
 ## Education (Topic 5)
 
 The hidden curriculum — the norms, values, punctuality and conformity
-that schools teach without naming them as lessons — is the concept
-Sociology examiners return to most often across this topic, so be able
+that schools teach without naming them as lessons — is a central
+concept in this topic, so be able
 to give examples beyond the syllabus's own (e.g. how school uniform
 policies teach conformity) rather than reciting the definition alone.
 As with Family, each perspective on education's role should be learned
@@ -184,13 +211,34 @@ approach as if it were universal.
 
 Because candidates answer only two of Paper 2's three topics, decide
 early which two you will prepare in depth rather than spreading equal
-revision time across all three — but keep at least a working knowledge
-of the third, since Question 1 patterns can vary by series.  Within
+revision time across all three. The layout is fixed by the syllabus:
+Question 1 is always Family, Question 2 Education and Question 3 Crime,
+deviance and social control, each worth 40 marks with the same six-part
+(a)–(f) structure, and Cambridge expects centres to teach two of the
+three topics. A working knowledge of a third topic is only a safety net
+if a question's wording does not suit you.  Within
 whichever topics you choose, build a single three-column table per
 topic — functionalist / Marxist / feminist — and fill in each cell with
 one specific mechanism rather than a general summary, since this table
 transfers directly into exam answers across Family, Education and
 (where perspectives are examined) Crime.
+
+## Frequently asked questions
+
+**How many questions do you answer on Cambridge IGCSE Sociology Paper 2?**
+Paper 2 of Cambridge IGCSE Sociology (0495) has three questions, one each on Family, Education and Crime, and you answer two of them.
+
+**How do the New Right and postmodernists differ on family diversity?**
+The New Right treats family diversity as a sign of dysfunction and favours the traditional nuclear family. Postmodernists treat diversity positively, as evidence of individual choice.
+
+**What is the difference between formal and informal social control?**
+Formal social control comes from agencies such as the police, courts, armed forces, government and penal system. Informal social control comes from the family, education, workplace, peer group, media and religion.
+
+**Why are official crime statistics not the true level of crime?**
+Under-reporting by victims, under-recording by police and changes in definitions over time all mean recorded crime differs from the true level of offending. The 0495 syllabus also names self-report studies and victim surveys as ways to measure crime.
+
+**What are the aims of punishment in the 0495 syllabus?**
+The syllabus names protection of citizens, deterrence, retribution, incapacitation and rehabilitation as the aims of punishment.
 
 ## Related resources
 

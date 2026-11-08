@@ -358,6 +358,23 @@ Ar = (24 × 79 + 25 × 10 + 26 × 11) ÷ 100
 
 Recap with the [atomic structure revision notes](/resources/atomic-structure/) and test yourself with the [atomic structure practice questions](/resources/atomic-structure-practice/). Sub-topic 2.4 onwards is in the [bonding study guide](/resources/ionic-covalent-and-metallic-bonding/), [bonding revision notes](/resources/ionic-covalent-metallic-bonding-revision-notes/) and [bonding practice questions](/resources/ionic-covalent-metallic-bonding-practice/). Check where you stand with the free 10-minute 0620 diagnostics: [Core](/practice/0620/diagnostic/core/) or [Extended](/practice/0620/diagnostic/extended/).
 
+## Frequently asked questions
+
+**What is the difference between an element, a compound and a mixture in IGCSE Chemistry 0620?**
+An element is made of only one type of atom. A compound contains two or more elements chemically combined in a fixed ratio, while a mixture contains substances that are not chemically combined and whose proportions can vary.
+
+**Is oxygen gas an element or a compound?**
+Oxygen gas is an element. It is made of O₂ molecules, but both atoms in each molecule are oxygen, so it contains only one type of atom.
+
+**What is the relative mass of an electron?**
+The electron's relative mass is very small but not zero: write 1/1840 or "negligible". Giving it as exactly 0 is a common error.
+
+**Are argon-40 and calcium-40 isotopes?**
+No. Isotopes are atoms of the same element with the same number of protons but different numbers of neutrons. Argon-40 and calcium-40 have the same mass number but different proton numbers.
+
+**Is calculating relative atomic mass Core or Extended in 0620?**
+Calculating relative atomic mass from isotope abundances is Extended content, as is explaining why isotopes have the same chemical properties.
+
 ## Official syllabus
 
 Cambridge IGCSE Chemistry 0620 syllabus for examination in 2026, 2027 and 2028, version 2 (August 2026), Cambridge University Press & Assessment. Sub-topics 2.1, 2.2 and 2.3.

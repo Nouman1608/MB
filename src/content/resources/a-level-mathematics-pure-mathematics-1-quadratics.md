@@ -12,11 +12,11 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-1-cambridge-alevel"
-description: "Quadratics, functions, coordinate geometry, circular measure, trigonometry, series, differentiation and integration -- the full content of Pure Mathematics 1 for Cambridge International AS & A Level Mathematics 9709, 2026-2027 series."
+description: "Overview of Cambridge 9709 Pure Mathematics 1 (Paper 1) for 2026-2027: quadratics, functions, circles, radians, trigonometry, series and calculus."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -170,6 +170,22 @@ integration rules covered here.
   <figcaption>Substitute u for the repeated function, solve the quadratic, then solve back for x using both signs. (Cambridge 9709 only.)</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What topics are in Cambridge 9709 Pure Mathematics 1?**
+Paper 1 covers eight sub-topics: quadratics, functions, coordinate geometry, circular measure, trigonometry, series, differentiation and integration.
+
+**Is Pure Mathematics 1 required for every 9709 award?**
+Yes. Paper 1 is required for every award route through 9709, because Papers 2 and 3 build on it and the Mechanics and Probability & Statistics papers assume its algebra and calculus.
+
+**When does a geometric series have a sum to infinity?**
+A geometric series has a sum to infinity only when the common ratio satisfies |r| < 1. Check whether a sequence is arithmetic or geometric before choosing a formula.
+
+**Should you work in degrees or radians in Paper 1?**
+Questions may be set in either, so read the unit from the question. Arc length, sector area and later calculus with trigonometric functions all require radians.
+
+**Which binomial expansions are in Pure Mathematics 1?**
+Paper 1 covers the binomial expansion for positive integer powers. The general binomial expansion for a rational power appears in Pure Mathematics 3.
 
 ## Official syllabus
 

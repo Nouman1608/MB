@@ -180,6 +180,23 @@ A **transcription factor** is a protein that binds to a specific DNA sequence ne
 - Saying filtration is selective for useful solutes.
 - Writing that steroid hormones bind to cell surface receptors.
 
+## Frequently asked questions
+
+**What is the difference between negative and positive feedback?**
+In negative feedback the response reverses the change, returning the variable towards the set point. In positive feedback the response increases the change.
+
+**What are the parts of a nephron?**
+The Bowman's capsule around the glomerulus, the proximal convoluted tubule, the loop of Henle, the distal convoluted tubule and the collecting duct.
+
+**How does the loop of Henle concentrate urine?**
+The ascending limb is impermeable to water and pumps ions out, the descending limb is permeable so water leaves by osmosis, and fluid flows in opposite directions in the two limbs, making the medulla very concentrated.
+
+**How does ADH control water reabsorption?**
+Osmoreceptors in the hypothalamus detect a fall in blood water potential, the posterior pituitary releases ADH, and ADH binds to collecting duct cells so more aquaporins are inserted and more water is reabsorbed.
+
+**How do steroid and peptide hormones switch genes on?**
+Steroid hormones such as oestrogen are lipid-soluble, enter the cell and bind to receptors that act as transcription factors. Peptide hormones such as insulin and ADH are water-soluble and bind to receptors on the cell surface.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology (YBI11) specification, Issue 2, published by Pearson Education Limited.

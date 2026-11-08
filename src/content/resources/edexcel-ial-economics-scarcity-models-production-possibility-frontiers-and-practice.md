@@ -167,6 +167,23 @@ Links: [study guide](/resources/edexcel-ial-economics-scarcity-models-production
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between a positive and a normative statement?**
+A positive statement can be tested against evidence, while a normative statement contains a value judgement. Words such as "should" or "unfair" signal a normative statement, and a number does not make a statement positive.
+
+**How do you calculate marginal opportunity cost from a PPF?**
+Divide the amount of the other good given up by the extra amount of the good gained. Dividing by the loss rather than the gain is a common mistake.
+
+**Is a public park that is free to enter a free good?**
+No. A free good has no opportunity cost, whereas a park paid for by a council uses resources that could have been used elsewhere, so it is an economic good. Being free to the user is not the same as being a free good.
+
+**What is the difference between a movement along a PPF and a shift?**
+Reallocating existing resources between goods is a movement along the frontier. A change in the economy's productive potential, such as better skills or a disaster that destroys capital, shifts the frontier outward or inward.
+
+**Which part of the Edexcel IAL Economics specification covers scarcity and PPFs?**
+Scarcity, models, production possibility frontiers, specialisation, money and economic systems are section 1.3.1, Introductory concepts, of the Edexcel IAL Economics specification (YEC11). It is Unit 1 content, part of both the International AS and the full International A Level.
+
 ## Official syllabus
 
 Source: Pearson Education Limited, Edexcel International Advanced Subsidiary/Advanced Level in Economics (specification, Issue 2, June 2018; first teaching September 2018), section 1.3.1 Introductory concepts, items 1 to 6.

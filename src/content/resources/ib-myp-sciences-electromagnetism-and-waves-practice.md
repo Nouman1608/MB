@@ -17,9 +17,9 @@ syllabusTopics:
     topic: "ib-myp-sciences-related-concepts"
 description: "Twelve original IB MYP Sciences practice questions on electromagnetism and waves, labelled by criterion A to D, with fully worked answers."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -198,6 +198,20 @@ A further justified point, such as cost, demand for each scan, or radiation expo
 - Listing the EM spectrum in the wrong direction for the question.
 - Hypotheses with no scientific reason, or control variables that could not affect the result.
 - Criterion D answers that describe one technology only, with no judgement.
+
+## Frequently asked questions
+
+**What are common mistakes in electromagnetism and waves questions?**
+Common slips include naming steel as the best electromagnet core, saying a stationary magnet in a coil induces a current, not converting MHz or GHz to Hz before using v = fλ, and missing the halving step in echo calculations.
+
+**How do you write a good hypothesis for a physics investigation in MYP Sciences?**
+Give a prediction with a scientific reason, and choose control variables that could genuinely affect the result. Hypotheses with no reason are a frequent way to lose credit.
+
+**What does a Criterion D answer on electromagnetic technology need?**
+Compare more than one technology or option and reach a justified judgement. Describing a single technology with no evaluation limits the credit.
+
+**Is electromagnetism in the IB MYP Sciences on-screen examination?**
+The IB MYP Sciences subject brief (from 2014) lists electromagnetism and waves among the topics the on-screen examinations can draw on. Schools design their own units, so your teacher decides exactly what your unit includes.
 
 ## Next steps
 

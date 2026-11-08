@@ -375,6 +375,23 @@ The existing labelled amylase apparatus figure below shows the shared tube, wate
 
 Recap with the [revision notes](/resources/edexcel-igcse-biology-4bi1-level-of-organisation-and-biological-molecules-revision-notes/), then try the [practice questions](/resources/edexcel-igcse-biology-4bi1-level-of-organisation-and-biological-molecules-practice/) and the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is an enzyme?**
+An enzyme is a protein that acts as a biological catalyst, speeding up a reaction without being used up.
+
+**How does temperature affect enzyme activity?**
+Rising temperature gives molecules more kinetic energy and more frequent successful collisions, up to the optimum. Above the optimum, heat disrupts the active site, so the enzyme is denatured.
+
+**Does Benedict's test identify glucose specifically?**
+No. Benedict's test detects reducing sugars, not glucose specifically. Sucrose gives a negative result.
+
+**What is a triglyceride made of?**
+A triglyceride is made from glycerol and three fatty acids.
+
+**Is the pH practical on both Edexcel 4BI1 papers?**
+No. The temperature practical (2.12) is on both papers; the pH practical (2.14B) is Paper 2 only.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Biology (4BI1) specification, Issue 3, first examination June 2019, Pearson Education Limited -- Topic 2, Structures and functions in living organisms: sub-topics (a) Level of organisation and (c) Biological molecules.

@@ -8,11 +8,11 @@ boards: ["aqa"]
 qualifications: ["gcse"]
 syllabusCodes: ["8145"]
 order: 1
-description: "Condensed recall notes on how to approach the Historic Environment study within AQA GCSE History (8145)."
+description: "Revision notes on the historic environment study of AQA GCSE History 8145 Paper 2: the 16-mark site question, its marking, and a reusable essay structure."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-08-26
 featured: false
 ---
@@ -135,3 +135,14 @@ each question is marked against its own, different skill.
 4. Complete the structure: Feature → Context → Link → ____?
 
 **Answers:** 1. Change, continuity, causation and consequence (the specification's wording is "change, continuity, causation and/or consequence"; significance is not among them). 2. Because the specified site is directly tied to your chosen British depth study — revising it in isolation misses the connections examiners specifically test. 3. The current specified site for your exact depth study and examination year, since AQA changes it every year. 4. Significance — explaining why the connection between the feature and its historical context matters.
+
+## Frequently asked questions
+
+**How is the historic environment examined?**
+By the fourth and final question of Paper 2 Section B, a 16-mark essay on the site AQA specifies for your British depth study; the site changes each year.
+
+**Does the site change?**
+Yes. AQA specifies one site for each British depth study and changes it each year, so check the site for your exam series.
+
+**What skill does the question reward?**
+Connecting specific features of the site to its period and to the question, not listing facts about the site.

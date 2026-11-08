@@ -248,6 +248,20 @@ Suppose a campaign leads a retailer to stop selling Bramley Foods' range. If thi
 - Assuming that ethical or environmental choices always cost profit. They can bring sales.
 - Listing four marketing mix points without tying them to the business in the question.
 
+## Frequently asked questions
+
+**What is globalisation in GCSE Business?**
+Globalisation means that businesses and markets in different countries become more closely linked, so a business can buy, sell, make and compete across borders. The Edexcel GCSE Business (1BS0) specification covers it in Theme 2 item 2.1.3.
+
+**What is the difference between imports and exports?**
+Imports are goods or services bought from overseas, which bring both overseas competition and cheaper or wider sources of supply. Exports are goods or services sold to overseas markets, giving more potential customers but higher transport and administration costs.
+
+**Why might a business move production abroad?**
+Common reasons are lower labour costs, cheaper land or materials, being closer to a growing market and avoiding tariffs by making goods inside a trade bloc. Redundancy, set-up, freight and quality-control costs can reduce the saving.
+
+**What does sustainability mean for a business?**
+Sustainability means operating so that resources are not used up and the environment is not damaged beyond repair, so that future generations can still meet their needs. Actions such as recycled packaging can raise costs but may attract customers and cut waste.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2: Building a business, Topic 2.1 Growing the business, items 2.1.3 and 2.1.4.

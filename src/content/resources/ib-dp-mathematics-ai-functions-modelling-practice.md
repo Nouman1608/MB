@@ -31,11 +31,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-2-6"
 description: "12 original IB Maths AI practice questions on functions and modelling, SL 2.1–2.6, with fully worked mark-by-mark answers and examiner insights."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -227,6 +227,23 @@ t = 9.65, so **after 9.65 years (during the 10th year)** [1]
 - Tick off each section on the [printable checklist](/checklists/ib/ib-dp/mathematics-applications-and-interpretation/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**What topics do these IB Maths AI functions and modelling practice questions cover?**
+They cover syllabus sections SL 2.1–2.6: straight lines, domain, range and inverse functions, key features of graphs, and linear, piecewise, quadratic, exponential, variation, cubic and sinusoidal models. This content is common to SL and HL.
+
+**Should you give a line in y = mx + c form or general form?**
+Give the form the question asks for. If integer general form ax + by + d = 0 is requested, a correct line left as y = mx + c can lose the final accuracy mark.
+
+**How do you write the range of a function correctly?**
+Write the range in terms of f(x) or y, for example f(x) ≤ 5. Writing it with x describes a different set and scores nothing.
+
+**Why do rounded parameters cost marks in modelling questions?**
+If you round a parameter such as a in kaᵗ and use the rounded value in later parts, your later answers can drift from the correct values. Keep the full value stored on your GDC and round only final answers.
+
+**What GDC mode should you use for a sinusoidal model in degrees?**
+Use degree mode when the model is written in degrees, such as h(t) = −16 cos(12t) + 18 with 12t in degrees. Using radian mode for a degree model is a common way to lose marks.
 
 ## Official syllabus
 

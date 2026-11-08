@@ -145,6 +145,20 @@ These questions cover sections 3.1 (The nature of marketing) and 3.2 (Market res
 - All free 10-minute [diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which sections of Cambridge AS and A Level Business 9609 do these questions cover?**
+Section 3.1 The nature of marketing and section 3.2 Market research, including markets, segmentation, customer relationship marketing and research methods.
+
+**What is the most common mistake in market share calculations?**
+Not dividing the business's sales by total market sales. Give the share as a percentage, to the accuracy the question asks for.
+
+**How do I decide whether research is primary or secondary?**
+Decide by who collected the data and why: new data gathered for the firm's own purpose is primary, while data that already exists and was collected by someone else is secondary.
+
+**How should I write about a sample's limitations?**
+Tie the limitation to the data in the case, such as a low response rate, rather than describing sampling in general terms.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028*, subject content sections 3.1 and 3.2.

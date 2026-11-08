@@ -34,11 +34,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-3-13"
 description: "Condensed IB Maths AI HL revision notes on radians, unit circle, matrix transformations and vectors (3.7-3.13), with formula tables and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 For full explanations and worked examples, use the [study guide](/resources/ib-dp-mathematics-ai-hl-trigonometry-matrix-transformations-vectors/). These notes condense the HL unit on radians, the unit circle, matrix transformations and vectors in IB Diploma Programme Mathematics: Applications and Interpretation. They are aligned to the IB *Mathematics: applications and interpretation guide*, first assessment 2021, syllabus sections 3.7–3.13, all HL only (AHL). They follow the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so they apply to the May and November 2026, 2027 and 2028 HL sessions.
@@ -248,6 +248,20 @@ Quick check: the columns of a matrix are the images of (1, 0) and (0, 1).
   <figcaption>The ships are closest where the squared separation is least, at t = 2.8 hours.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**How do you find the area of an image after a matrix transformation?**
+Multiply the area of the object by |det A|, the absolute value of the determinant of the matrix part. Any translation vector does not change the area.
+
+**How do you deal with the ambiguous case of the sine rule?**
+Find the angle B₁ from your GDC and also B₂ = 180° − B₁. Keep B₂ only if it plus the given angle is less than 180°, then finish each possible triangle separately.
+
+**How do you find when two moving objects are closest?**
+Form the relative position AB = r_B − r_A in terms of t, find |AB|² as a quadratic in t, and minimise it by differentiating or graphing on your GDC. Substitute the time back and state the time and the distance with units.
+
+**What does the magnitude of a vector product represent?**
+|v × w| = |v||w| sin θ, which equals the area of the parallelogram formed by v and w. Half of it gives the area of the triangle with those two sides.
 
 ## Official syllabus
 

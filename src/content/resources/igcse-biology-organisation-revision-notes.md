@@ -16,14 +16,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "organisation-of-the-organism-cambridge-igcse-biology"
     subtopic: "size-of-specimens-cambridge-igcse-biology"
-description: "Condensed recall notes on plant, animal and bacterial cell structure, the six named specialised cells, magnification calculations, and the cell-to-organism hierarchy, for Cambridge IGCSE Biology (0610)."
+description: "Condensed recall notes on cell structure, six specialised cells, magnification and the cell-to-organism hierarchy for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -203,3 +203,17 @@ three). 2. Circular DNA and plasmids (a bacterial cell also lacks a
 true nucleus). 3. Movement of mucus in the trachea and bronchi.
 4. Magnification = image size ÷ actual size; 1 mm = 1000 μm.
 5. Cell, tissue, organ, organ system, organism.
+
+## Frequently asked questions
+
+**What is the difference between a tissue and an organ?**
+A tissue is a group of cells with similar structures working together to perform a shared function. An organ is made of several tissues working together to perform specific functions.
+
+**What is the function of a ciliated cell?**
+In Cambridge IGCSE Biology 0610, ciliated cells are named for the movement of mucus in the trachea and bronchi.
+
+**Is there Supplement content in cell structure for 0610?**
+No. Every outcome in 2.1, Cell structure, is Core and examined in the same way for Core and Extended candidates. The only Supplement content in Topic 2 is converting between millimetres and micrometres.
+
+**How many micrometres are in a millimetre?**
+There are 1000 micrometres (μm) in 1 millimetre (mm). Convert both measurements to the same unit before calculating magnification.

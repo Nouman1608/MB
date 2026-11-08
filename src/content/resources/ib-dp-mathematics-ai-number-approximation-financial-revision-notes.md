@@ -37,11 +37,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-1-8"
 description: "Condensed IB DP Maths AI revision notes on sequences, compound interest, TVM loans, bounds and percentage error, with a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 For full explanations and longer worked examples, read the [study guide](/resources/ib-dp-mathematics-ai-number-approximation-financial/) first.
@@ -250,6 +250,20 @@ Sales over five weeks are 62, 70, 77, 86, 93. The differences are 8, 7, 9, 7, so
   <figcaption>Roots are where the graph crosses the axis; check them against the context.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**Are the laws of logarithms in the IB Maths AI SL syllabus?**
+No. The laws of logarithms are HL only (AHL 1.9). At SL you only use the definition aˣ = b ⇔ x = log_a b, with base 10 or e, evaluated with technology.
+
+**Is the annuity formula examined in IB Maths AI?**
+No. The IB guide says the annuity formula is not examined and you will not be asked to derive the compound interest formula. The TVM solver is the expected tool for loans and annuities.
+
+**How do you find the real value of an investment after inflation?**
+Divide the future value by (1 + i/100)ⁿ, where i% is the annual inflation rate and n is the number of years. This gives the value in today's money.
+
+**How do you find the maximum percentage error from a rounded measurement?**
+Write the bounds of the measurement, calculate the quantity using the measured value and each bound, and find the percentage error with each bound as the exact value. The larger result is the maximum percentage error.
 
 ## Official syllabus
 

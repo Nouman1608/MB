@@ -12,13 +12,19 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-source-based-reading-and-directed-writing-9270"
-description: "Modern-world source texts and writing for a specified audience and purpose -- Paper 2 of OxfordAQA International GCSE English Language (9270), the mainstream exam alternative to the non-exam assessment route."
+  - qualification: "igcse"
+    topic: "paper-2-source-based-reading-and-directed-writing-9270"
+    subtopic: "section-a-reading-9270"
+  - qualification: "igcse"
+    topic: "paper-2-source-based-reading-and-directed-writing-9270"
+    subtopic: "section-b-writing-9270"
+description: "OxfordAQA International GCSE English Language 9270 Paper 2: reading modern-world source texts and writing for a set audience and purpose, the exam route."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide covers **Paper 2 Source-based Reading and Directed Writing**,
@@ -127,6 +133,18 @@ these three elements -- for example, a beautifully argued piece that
 reads like a formal essay rather than a magazine article -- loses marks
 against AO2's requirement to adapt form and register to task and
 purpose, however accurate the grammar is.
+
+## Frequently asked questions
+
+**How long is OxfordAQA 9270 Paper 2?**
+2 hours for 80 marks and 40% of the International GCSE.
+
+**How many sources are there?**
+Five or six texts; at least one question requires you to consider two texts.
+
+**Is Paper 2 compulsory?**
+No. Candidates take Paper 2 or the non-exam assessment project as the alternative.
+
 
 ## Quick revision checklist
 

@@ -21,9 +21,9 @@ syllabusTopics:
     subtopic: "radioactivity-cambridge-igcse-physics"
 description: "Revision notes for Cambridge IGCSE Physics 0625 nuclear physics: nuclide notation, decay equations, radiation properties, half-life steps and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-27
 updatedDate: 2026-09-28
 featured: false
@@ -241,6 +241,20 @@ Balance both rows in every nuclide equation. No numerical mass or energy values 
 - Justifying a use with only one factor; name both the **radiation type** and the **half-life** (Extended).
 - Listing safety rules without linking them to **time, distance or shielding** when asked to explain (Extended).
 - Forgetting to name the four main sources of background radiation.
+
+## Frequently asked questions
+
+**Do Core half-life questions include background radiation?**
+No. Core calculations will not include background, but Extended ones may, so Extended candidates subtract the background from every reading first.
+
+**Do I need numerical mass or energy values for fission and fusion?**
+No. You must balance both rows of every nuclide equation, but no numerical mass or energy values are required.
+
+**Does beta always mean an electron in 0625?**
+Yes. In this syllabus β always means β⁻, an electron emitted from the nucleus, written ⁰₋₁e in equations.
+
+**Why do repeated counts from the same source vary?**
+Emission is random, so counts over the same time differ from one reading to the next. A longer count gives a more reliable rate.
 
 ## Official syllabus
 

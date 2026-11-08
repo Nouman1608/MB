@@ -148,6 +148,23 @@ These questions follow the OxfordAQA International AS and A-level Economics (964
 - Try all free 10-minute diagnostics at [diagnostics](/diagnostics/).
 - Book a free trial class: [trial](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on international trade questions?**
+Common losses are using total output rather than opportunity cost to decide comparative advantage, inverting the terms of trade fraction, calling quota rent government revenue, and leaving out the welfare loss from a tariff.
+
+**How do I show comparative advantage in a calculation?**
+Work out the opportunity cost of one unit of each good in each country by dividing the other good's output by it, and show each division. The country with the lower opportunity cost has the comparative advantage, even if the other country produces more of both goods.
+
+**Who receives the gain from an import quota?**
+The gap between the home price and the world price on the quota quantity goes to whoever holds the import licences, unless the government sells them. Under a tariff the same area is government revenue.
+
+**How should I evaluate a protectionist tariff?**
+Tie your conclusion to stated conditions, such as how long the tariff lasts and whether the industry can really become competitive, and weigh higher consumer prices, retaliation and costs for firms using imported inputs.
+
+**Which OxfordAQA 9640 section do these questions cover?**
+They cover section 3.4.1.2, Trade, of the OxfordAQA International AS and A-level Economics (9640) specification, which is International A2 content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, first teaching September 2020, first International AS exams May/June 2021, first International A-level exams May/June 2022; section 3.4.1.2 Trade.

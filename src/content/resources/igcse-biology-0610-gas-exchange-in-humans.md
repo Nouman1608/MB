@@ -18,11 +18,11 @@ syllabusTopics:
     subtopic: "gas-exchange-in-humans-cambridge-igcse-biology"
 description: "Gas exchange surfaces, the breathing system, ventilation, inspired and expired air and breathing in exercise, taught for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This study guide teaches Topic 11, Gas exchange in humans, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. The topic has one section, 11.1, with five Core learning outcomes and six Supplement outcomes. Core content is examined on Papers 1 and 3; Core plus Supplement is examined on Papers 2 and 4. Everything marked **Extended only** below is Supplement content, which you need only if you are entered for the Extended papers.
@@ -248,6 +248,20 @@ This stops pathogens and particles reaching the alveoli. Ciliated cells also app
 ## Next steps
 
 Condense this guide with the [gas exchange revision notes](/resources/igcse-biology-0610-gas-exchange-in-humans-revision-notes/), test yourself on the [gas exchange practice questions](/resources/igcse-biology-0610-gas-exchange-in-humans-practice/), then move on to [respiration](/resources/igcse-biology-0610-respiration/). Tick off each outcome on the [Biology checklist](/checklists/cambridge/igcse/biology/).
+
+## Frequently asked questions
+
+**How is expired air different from inspired air?**
+Expired air contains less oxygen, more carbon dioxide and more water vapour than inspired air. Oxygen has diffused into the blood and carbon dioxide has been produced by respiration and diffused out.
+
+**How do you show that expired air contains more carbon dioxide?**
+Bubble inspired air through one tube of limewater and expired air through another with the same volume of limewater. The limewater turns milky faster with expired air, showing it contains more carbon dioxide.
+
+**Why does breathing rate increase during exercise?**
+Muscles contract more and respire more, producing more carbon dioxide. The higher carbon dioxide concentration in the blood is detected in the brain, which causes the rate and depth of breathing to increase.
+
+**What is the function of cartilage in the trachea?**
+Rings of cartilage keep the trachea open, so it does not collapse when air pressure inside it falls during breathing in.
 
 ## Official syllabus
 

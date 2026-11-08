@@ -332,6 +332,23 @@ Decide whether this alkene is E or Z.
 Use the [revision notes](/resources/oxfordaqa-a-level-chemistry-introduction-to-organic-chemistry-revision-notes/) to condense this guide,
 then try the [practice questions](/resources/oxfordaqa-a-level-chemistry-introduction-to-organic-chemistry-practice/).
 
+## Frequently asked questions
+
+**What is a homologous series?**
+A homologous series is a series of compounds containing the same functional group. Members share a general formula, differ from one member to the next by CH₂, have similar chemical reactions and show a gradual change in physical properties as the chain lengthens.
+
+**What is the largest molecule you need to name in OxfordAQA 9620 Chemistry?**
+For naming and drawing in section 3.3.1, the limit is six carbon atoms per chain and per ring.
+
+**Do you use curly arrows in free-radical mechanisms?**
+No. Radical steps are shown with a dot on each radical and a balanced equation for every step, with no curly arrows. Curly arrows are used in other mechanisms to show the movement of an electron pair.
+
+**What causes E–Z isomerism?**
+E–Z isomerism is a form of stereoisomerism caused by restricted rotation about the planar C=C double bond. Each carbon of the double bond must carry two different groups for E and Z isomers to exist.
+
+**How do you decide CIP priority when the first atoms are the same?**
+Compare the atoms attached at the next position, highest atomic number first, and stop at the first point of difference. Priority depends on atomic number, not on the size or number of atoms in the group.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS

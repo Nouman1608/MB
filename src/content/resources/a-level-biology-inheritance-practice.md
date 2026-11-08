@@ -13,14 +13,14 @@ order: 16
 syllabusTopics:
   - qualification: "a-level"
     topic: "inheritance-cambridge-alevel-biology"
-description: "Original exam-style questions with full worked answers on multiple alleles, codominance and dominance hierarchies, setting out genetic crosses, autosomal versus sex-linked inheritance, the chi-squared test, gene–protein–phenotype links in albinism, and gibberellin and DELLA proteins, for Cambridge International AS & A Level Biology (9700)."
+description: "Original Cambridge 9700 questions with worked answers on multiple alleles, codominance, sex linkage, chi-squared, albinism and DELLA proteins."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -139,3 +139,17 @@ So **the difference between observed and expected results is not significant**; 
 - Discussing the phenotype ratio when the question is about whether a gene is sex-linked: compare males with females.
 - Writing that a gene is "missing" or "not coded for", instead of saying a recessive allele codes for a non-functional protein.
 - Describing DELLA as a prokaryotic repressor that binds to an operator.
+
+## Frequently asked questions
+
+**What should you say when describing multiple alleles?**
+State how many alleles the gene has. Writing only "multiple alleles" without the number does not earn full credit.
+
+**How should you set out a genetic cross?**
+Show parental genotypes, gametes and a Punnett square, and link each offspring genotype to its phenotype. Missing the genotype–phenotype link is a common error in Cambridge 9700 answers.
+
+**How do you decide whether a gene is sex-linked?**
+Look at whether the trait is inherited differently by males and females, rather than discussing the overall phenotype ratio.
+
+**Which exam paper are these inheritance questions modelled on?**
+Each question practises a skill tested in the June 2024 Cambridge 9700 Paper 42, with an examiner-style insight after each answer.

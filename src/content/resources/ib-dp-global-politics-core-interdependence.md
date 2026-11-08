@@ -176,6 +176,20 @@ Interdependence is built through supply chains, migration, finance, data flows a
 
 Consolidate with the [revision notes](/resources/ib-dp-global-politics-core-interdependence-revision-notes/), then try the [practice set](/resources/ib-dp-global-politics-core-interdependence-practice/). For context, see the [syllabus guide](/resources/ib-dp-global-politics-syllabus-guide/), the [assessment revision notes](/resources/ib-dp-global-politics-assessment-revision-notes/), and the thematic studies [Rights and justice](/resources/ib-dp-global-politics-rights-justice/) and [Peace and conflict](/resources/ib-dp-global-politics-peace-conflict/).
 
+## Frequently asked questions
+
+**Is there a world government in IB Global Politics terms?**
+No. There is no world government; what exists is global governance, a set of overlapping arrangements among states, IGOs and non-state actors that coordinate behaviour without a central ruler. Examples include Security Council resolutions, the Paris Agreement, the Basel Accords and WTO trade rules.
+
+**What are the three dimensions of interdependence in the IB Global Politics guide?**
+The IB DP Global Politics guide names economic interdependence (trade, investment, supply chains and energy), security interdependence (defence arrangements, alliances and arms control) and sustainability interdependence (environmental treaties and shared resources).
+
+**Is interdependence always a good thing?**
+No. Interdependence is rarely equal, and it can create dependence, coercion and new inequalities as well as cooperation. When one side relies on the other more than the reverse, the less dependent side gains leverage.
+
+**What is the difference between the ICJ and the ICC?**
+The International Court of Justice settles disputes between states, while the International Criminal Court tries individuals. Mixing the two up is a common error in Global Politics answers.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Diploma Programme *Global politics guide*, first assessment 2026 (published February 2024). Prescribed topic: Interdependence in global politics, within the core topics *Understanding power and global politics*.

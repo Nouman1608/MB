@@ -150,6 +150,20 @@ Related pages: [study guide](/resources/ocr-gcse-economics-the-labour-market-and
 - Saying a rate rise helps everyone; savers gain, borrowers lose.
 - Describing the financial sector without a limit or a judgement when asked to evaluate.
 
+## Frequently asked questions
+
+**What is derived demand for labour?**
+Demand for labour is derived from demand for the goods and services that workers produce. If demand for bread falls, a bakery needs fewer bakers.
+
+**How do you calculate net pay when tax applies above an allowance?**
+Work out income tax and national insurance only on gross pay above each allowance, add the pension contribution, then subtract all three deductions from gross pay.
+
+**Does a rise in interest rates help everyone?**
+No. Savers gain from higher interest on their savings, but borrowers lose because their loan repayments rise.
+
+**How do you convert annual interest into a monthly cost?**
+Calculate the interest for the year, then divide by 12. Forgetting to convert annual interest to a monthly amount is a common mistake.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money-revision-notes/) and the [study guide](/resources/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money/).
@@ -159,4 +173,4 @@ Related pages: [study guide](/resources/ocr-gcse-economics-the-labour-market-and
 
 ## Official syllabus
 
-OCR, Cambridge OCR Level 1/Level 2 GCSE (9-1) in Economics (J205), Version 2.0 (June 2026), first assessment 2019: topics 2.7 and 2.8.
+OCR, OCR Level 1/Level 2 GCSE (9-1) in Economics (J205), Version 2.0 (June 2026), first assessment 2019: topics 2.7 and 2.8.

@@ -166,6 +166,20 @@ The photon model fits all three, since one photon of energy hf gives its energy 
 * Try all free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 * Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Are these IB DP Physics quantum physics questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Are these photoelectric and Compton questions for SL or HL?**
+Every question is HL only, because sub-topic E.2, Quantum physics, is HL only.
+
+**What data do these questions use?**
+Use the Planck constant 6.63 × 10⁻³⁴ J s, c = 3.00 × 10⁸ m s⁻¹, e = 1.60 × 10⁻¹⁹ C and electron mass 9.11 × 10⁻³¹ kg, and answer to three significant figures unless told otherwise.
+
+**What slips lose marks in quantum physics calculations?**
+Common slips are not converting eV, keV or MeV to joules before using the Planck constant, and rounding h/mec early so an angle loses accuracy.
+
 ## Official syllabus
 
 IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. This page covers sub-topic E.2 (HL only).

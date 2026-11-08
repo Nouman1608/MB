@@ -21,11 +21,11 @@ syllabusTopics:
     subtopic: "leaf-structure-cambridge-igcse-biology"
 description: "Study guide to photosynthesis, limiting factors and leaf structure, with worked practical examples, for Cambridge IGCSE Biology 0610 Core and Extended."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This study guide teaches topic 6, Plant nutrition, from the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. It covers section 6.1 (Photosynthesis) and section 6.2 (Leaf structure). Most of the topic is Core, so it can appear on every paper. The two Supplement outcomes (the balanced equation and limiting factors) are marked **Extended only**: they are tested on Papers 2 and 4, not on Papers 1 and 3.
@@ -280,6 +280,20 @@ Each point links a feature to photosynthesis.
 - Exam-style questions with marked answers: [plant nutrition practice](/resources/igcse-biology-plant-nutrition-practice/)
 - How water reaches the leaf and sucrose leaves it: [Transport in plants study guide](/resources/igcse-biology-0610-transport-in-plants/)
 - Diffusion and osmosis background: [Movement into and out of cells](/resources/igcse-biology-movement-into-and-out-of-cells/)
+
+## Frequently asked questions
+
+**What is the balanced equation for photosynthesis in Cambridge IGCSE Biology 0610?**
+The balanced chemical equation is 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂, which Extended candidates must know. Core candidates need the word equation: carbon dioxide + water → glucose + oxygen.
+
+**Why do you destarch a plant before a starch test?**
+Keeping the plant in the dark for about two days uses up the starch already in its leaves. Any starch found after the experiment must then have been made during it, so the results are valid.
+
+**Do plants respire in the light?**
+Yes. Plants respire all the time, in light and dark. In bright light the rate of photosynthesis is greater than the rate of respiration, so the plant takes in more carbon dioxide than it gives out.
+
+**Should you write "nitrogen" or "nitrate ions" for plant mineral needs?**
+Write "nitrate ions". Plants absorb nitrate ions from the soil to make amino acids, and "nitrogen" on its own is not precise enough for credit.
 
 ## Official syllabus
 

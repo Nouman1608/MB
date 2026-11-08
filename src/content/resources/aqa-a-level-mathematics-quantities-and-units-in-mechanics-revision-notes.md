@@ -221,6 +221,20 @@ Reminder: if a resistance is R = cv, then c = R/v has units N ÷ m s⁻¹ = kg m
 - Using the slant distance instead of the perpendicular distance in a moment.
 - Missing units on the final answer.
 
+## Frequently asked questions
+
+**What are the fundamental quantities in AQA A-level mechanics?**
+Length, time and mass are the fundamental quantities, measured in metres, seconds and kilograms. Velocity, acceleration, force, weight and moment are derived from them.
+
+**What is the unit of a moment?**
+The moment of a force is measured in newton metres (N m). It is found from force multiplied by the perpendicular distance, in metres, from the point to the line of action of the force.
+
+**Do you need to remember F = ma and W = mg for AQA 7357?**
+Yes. Appendix B of the AQA A-level Mathematics specification lists weight = mass × g and F = ma among the formulae you must use without being given them.
+
+**How can you check a mechanics formula using units?**
+Work out the units of each term. In s = ut + ½at², every term has units of metres, so the formula is consistent; a formula whose terms have different units must be wrong.
+
 ## Next steps
 
 - Full teaching and worked examples: [Quantities and units study guide](/resources/aqa-a-level-mathematics-quantities-and-units-in-mechanics/).

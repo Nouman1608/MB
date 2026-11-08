@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "rocks-and-minerals-and-their-exploitation-5014"
 description: "Original exam-style practice questions with full worked answers on rock types, the rock cycle, mining, and environmental impacts of extraction."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -95,3 +95,20 @@ has already been published — check which edition your course is using. For the
 - Listing impacts without explaining the mechanism or the harm.
 - Describing restoration only as "planting trees".
 - Treating a reserves-divided-by-extraction-rate calculation as a reliable prediction, without stating what it assumes.
+
+## Frequently asked questions
+
+**Are these O Level Environmental Management rocks questions from past papers?**
+No. They are original practice questions, not reproduced past-paper questions, and they do not copy the exam's structure or mark tariffs. Use them alongside the official Cambridge 5014 past papers.
+
+**Which 5014 syllabus edition do these rocks and minerals questions follow?**
+They follow the outgoing 2025-2026 edition with its nine-topic structure, whose final sitting is available in Mauritius only. The 2027-2029 edition has a separate set of rocks, ores and minerals practice questions.
+
+**How do you get full marks when explaining environmental impacts of mining?**
+Name each impact and then explain the mechanism or the harm it causes. Answers that only list impacts usually lose the explanation marks.
+
+**Why is a reserves divided by extraction rate figure not a reliable prediction?**
+The calculation assumes the extraction rate stays constant and nothing else changes, but demand can grow and new deposits can be found. State these assumptions when you give the calculated figure.
+
+**What counts as a good answer on restoring a worked-out mine site?**
+Go beyond "planting trees": describe specific restoration and management strategies and say how each reduces the impact of mining. Vague restoration answers are a common reason marks are lost.

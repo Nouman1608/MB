@@ -179,6 +179,20 @@ Learn the content first with the [study guide](/resources/aqa-a-level-physics-wa
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which AQA A-level Physics paper assesses Waves?**
+In AQA 7408, section 3.3 Waves is AS and A-level content assessed at A-level in Paper 1 and assumed in Paper 2. It includes Required practicals 1 and 2.
+
+**What does coherent mean in wave interference?**
+Coherent sources have the same frequency and a constant phase difference. Defining coherence as "same frequency" alone misses the constant phase difference and loses the mark.
+
+**Why should you count spacings, not fringes or nodes?**
+Distances in stationary-wave and fringe questions are measured between nodes or fringes, so the number of gaps is one less than the number of nodes or fringes counted. Counting the nodes themselves gives the wrong wavelength.
+
+**How do you find the highest order seen with a diffraction grating?**
+Since sin θ cannot exceed 1, the highest order is the largest whole number not exceeding d/λ. Always round down; rounding up loses the mark.
+
 ## Official syllabus
 
 AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.3 Waves.

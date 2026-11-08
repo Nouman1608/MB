@@ -127,6 +127,23 @@ Limitation: "finest" cannot be measured, so objectives (such as defect rates or 
 - Writing "CSR costs money" with no figure.
 - Ignoring the time period.
 
+## Frequently asked questions
+
+**Are these OCR A Level Business H431 past paper questions?**
+No. They are original practice questions written for Marlbridge on sections 1.3 (Mission statement) and 1.4 (Corporate social responsibility) of the H431 specification. Use them alongside OCR's own past papers.
+
+**How do you show the cost of a CSR policy convincingly?**
+Use a figure from the case and express it against the right base, for example as a share of operating profit rather than of sales revenue. Writing "CSR costs money" with no figure earns little.
+
+**Why does the time period matter in CSR and mission statement questions?**
+Costs and savings may be one-off or yearly, so check the period in the stem before comparing them. Ignoring the time period is a common way to lose marks.
+
+**How should you answer a question asking you to write a mission statement?**
+State the actual wording first, then tie each reason for it to the business in the case. Generic reasons that would suit any firm tend to earn less credit.
+
+**How do you analyse the effect of CSR on stakeholders?**
+Weigh stakeholders against each other, such as suppliers who gain from a higher price against shareholders whose profit falls. A list of stakeholders shows less analysis.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr-revision-notes/) and re-read the [study guide](/resources/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr/).

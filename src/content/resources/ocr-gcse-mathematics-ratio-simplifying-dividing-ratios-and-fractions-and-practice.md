@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "ratio-proportion-and-rates-of-change-ocr-gcse-maths"
     subtopic: "calculations-with-ratio-ocr-gcse-maths"
-description: "Original practice questions with full worked answers on OCR GCSE Mathematics ratio: simplifying, sharing, ratios as fractions and problems."
+description: "Original practice questions with full worked answers on OCR GCSE Mathematics ratio: simplifying, sharing, ratios as fractions and problems (J560)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -146,6 +146,20 @@ These questions cover section 5.01, Calculations with ratio, from the OCR GCSE (
 - Return to the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) or the [checklist](/checklists/ocr/gcse/mathematics/).
 - Take one of the free [10-minute diagnostics](/diagnostics/) to see where to practise next.
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Which OCR GCSE Maths section do these ratio practice questions cover?**
+They cover section 5.01, Calculations with ratio, of OCR GCSE (9-1) Mathematics J560: simplifying, sharing in a ratio, ratios as fractions and ratio problems. All of it is Foundation and Higher content.
+
+**What should you do first when a ratio has different units?**
+Convert all the quantities to the same unit before simplifying. For example, 1.5 km : 600 m becomes 1500 : 600 before you divide by the highest common factor.
+
+**How do you solve a ratio problem when you are given the difference between two shares?**
+The difference is a number of parts, found by subtracting the ratio numbers. Divide the difference by that number to find one part, then multiply; treating the difference as the total is a common error.
+
+**How do you work with a ratio that changes after something is added?**
+Find the real quantities first, add the new amount to the real quantity, and only then write the new ratio. Adding the new amount to a ratio number gives the wrong answer.
 
 ## Official syllabus
 

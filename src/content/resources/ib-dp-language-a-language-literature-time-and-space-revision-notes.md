@@ -12,13 +12,13 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-a-language-and-literature-time-and-space"
-description: "Condensed revision notes on the Time and Space area of exploration of IB Diploma Programme Language A: Language and Literature -- context of production and reception across literary and non-literary texts."
+description: "Revision notes on Time and space in IB DP Language A: Language and Literature: context of production and reception across literary and non-literary texts."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 The [full syllabus guide](/resources/ib-dp-language-a-language-and-literature-syllabus-guide/)
@@ -130,3 +130,17 @@ without saying change over time, not just the specific facts being reported. 3. 
 advertising, a speech, a report, digital/social media. 4. Because it demonstrates active analysis of
 how meaning changes across time, rather than static description of one moment. 5. No — because the
 course studies both literary and non-literary texts, this component's questions apply equally to both.
+
+## Frequently asked questions
+
+**What is the difference between context of production and context of reception?**
+Context of production is when, where and by whom a text was made. Context of reception is when, where and by whom it is now being read, and in IB DP Language A: Language and Literature both shape meaning.
+
+**Is Time and space a separate exam section?**
+No. Like the other two areas of exploration, its ideas are woven into Paper 1's guided textual analysis and Paper 2's comparative essay rather than tested as a named section.
+
+**How can Time and space help with the individual oral?**
+The oral connects a literary work and a non-literary body of work through a global issue, so you can discuss how that issue is understood differently now than when either text was produced.
+
+**What is a common mistake with context?**
+Treating context as background information mentioned once, rather than as something that shapes how meaning is made and received. Keep separate notes on production and reception context for each text.

@@ -12,13 +12,25 @@ order: 1
 syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-research-methods-identity-inequality-2251"
+  - qualification: "o-level"
+    topic: "paper-1-research-methods-identity-inequality-2251"
+    subtopic: "kq-1-2-2251"
+  - qualification: "o-level"
+    topic: "paper-1-research-methods-identity-inequality-2251"
+    subtopic: "kq-1-3-2251"
+  - qualification: "o-level"
+    topic: "paper-1-research-methods-identity-inequality-2251"
+    subtopic: "kq-2-1-2251"
+  - qualification: "o-level"
+    topic: "paper-1-research-methods-identity-inequality-2251"
+    subtopic: "kq-3-1-2251"
 description: "Original exam-style practice questions with full worked answers on research methods, socialisation, culture and social inequality."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -107,3 +119,17 @@ Three agencies of secondary socialisation: the **education system**, through bot
 - Describing a sampling method without explaining what makes it more or less representative.
 - Confusing a subculture (distinct but not opposed) with a counter-culture (actively opposed to the mainstream).
 - Attempting both Question 2 and Question 3 instead of choosing one.
+
+## Frequently asked questions
+
+**Do you answer every question on O Level Sociology Paper 1?**
+No. Question 1 on research methods is compulsory, and you then choose either Question 2 (Identity) or Question 3 (Inequality), not both.
+
+**How do you evaluate questionnaires for full marks?**
+Link each advantage or disadvantage to a concept such as representativeness or reliability, rather than listing general points.
+
+**How should you describe a sampling method?**
+Say what makes the method more or less representative of the wider population, not only how the sample is chosen.
+
+**How do you explain inequality for full marks?**
+Explain the mechanism by which a theory says inequality is produced, rather than just describing the theory.

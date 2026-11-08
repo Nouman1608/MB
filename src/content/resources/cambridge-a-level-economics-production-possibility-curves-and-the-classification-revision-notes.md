@@ -276,6 +276,20 @@ Under-consumption = 12 - 9 = 3 units
 - Treating merit and demerit goods as moral labels and forgetting imperfect information.
 - Stopping at the identification of under-consumption without explaining why the market gets it wrong.
 
+## Frequently asked questions
+
+**Why does a production possibility curve bow outwards?**
+A PPC bows outwards (concave to the origin) when opportunity cost increases. Resources are not equally suited to both goods, so as more of one good is made the economy must move resources that are poor at producing it, and more of the other good is given up for each extra unit.
+
+**What causes a PPC to shift outwards or inwards?**
+An outward shift comes from more resources, better quality resources such as education and training, or improved technology. An inward shift comes from losses such as war or disaster destroying capital, emigration or illness reducing labour, or depleted resources. A change in the mix of output is a movement along the curve, not a shift.
+
+**What does a point inside the PPC mean?**
+A point inside the curve shows unemployed or inefficiently used resources. The economy could produce more of one or both goods with no opportunity cost by moving onto the curve.
+
+**Can a PPC show which combination of goods is best?**
+No. A PPC shows productive efficiency, not allocative efficiency. Which point is best depends on what people want, and the curve alone does not show preferences.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge Assessment International Education): sections 1.5 and 1.6.

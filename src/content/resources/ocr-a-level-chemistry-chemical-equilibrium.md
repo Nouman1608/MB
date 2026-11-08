@@ -295,6 +295,20 @@ In Worked example 5, Kc = 4.94 × 10⁻⁴, much less than 1, so the mixture is 
 - Putting reactants on top in Kc, or forgetting to raise a concentration to its balancing number.
 - Discussing only yield in a compromise answer. Rate, and often cost or safety, are needed too.
 
+## Frequently asked questions
+
+**What happens to the rates of reaction as a system reaches equilibrium?**
+At the start only reactant is present, so the forward rate is highest and the reverse rate is zero. As product builds up the reverse rate rises, until the two rates are equal and the concentrations stop changing.
+
+**How does a catalyst affect an equilibrium?**
+A catalyst provides a pathway with a lower activation energy for both directions. The position of equilibrium and the equilibrium yield are unchanged, but equilibrium is reached in less time.
+
+**Which practicals show changes to equilibrium in OCR A Level Chemistry?**
+Coloured equilibria work best, such as the chromate–dichromate system for concentration changes and the cobalt(II) chloride system for temperature changes. The specification asks for qualitative effects only.
+
+**Is Kp in OCR A Level Chemistry section 3.2.3?**
+No. Heterogeneous Kc, Kp, Kc units and calculating equilibrium amounts from starting amounts come later, in section 5.1.2.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 3.2.3 Chemical equilibrium. Published by OCR.

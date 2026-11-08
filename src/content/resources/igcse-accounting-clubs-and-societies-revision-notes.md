@@ -209,6 +209,19 @@ Accumulated fund                 = 9,280
   <figcaption>The surplus is added to the accumulated fund; a deficit is subtracted.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Why does a club not have capital or drawings?**
+A club or society exists for its members rather than to make a profit for an owner, so it has no owner's capital and no drawings. Its capital is the accumulated fund.
+
+**Where does the opening bank balance go in club accounts?**
+The opening cash and bank balance goes on the receipts side of the receipts and payments account. It does not belong in the income and expenditure account.
+
+**How do you prepare a receipts and payments account?**
+Write the opening cash and bank balance on the receipts side, list every receipt and payment from the cash book, then find the closing balance as the balancing figure on the payments side. Do not adjust for amounts owing, prepaid or depreciation.
+
+**How can you check club accounts are correct?**
+Check that the two sides of the statement of financial position agree, with the accumulated fund plus liabilities equal to total assets. Showing workings makes any slip easier to trace.
 
 ## Official syllabus
 

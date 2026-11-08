@@ -11,11 +11,11 @@ order: 4
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-assessment-criteria"
-description: "Worked, criterion-by-criterion guidance on what top-band evidence actually looks like for MYP Sciences's four assessment criteria -- Knowing and understanding, Inquiring and designing, Processing and evaluating, and Reflecting on the impacts of science."
+description: "What top-band evidence looks like for each IB MYP Sciences criterion, from knowing and understanding to reflecting on the impacts of science, with examples."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -132,6 +132,20 @@ risk or limitation, each properly sourced where relevant -- for
 Criterion D, rather than a one-sided account. Where possible, practise
 a complete investigation touching all four criteria at once, since
 this reflects how MYP Sciences coursework is typically structured.
+
+## Frequently asked questions
+
+**What does top-band Criterion A evidence look like in MYP Sciences?**
+Top-band Criterion A evidence applies scientific knowledge to solve problems and reach supported judgements in unfamiliar contexts, rather than only recalling a definition. Naming a concept is not enough; you need to use it to explain and justify a conclusion.
+
+**What makes a strong evaluation in MYP Sciences Criterion C?**
+A strong evaluation identifies a specific limitation of the method actually used and suggests a specific, targeted improvement. Generic suggestions such as "use more trials" are not what Criterion C credits at the top band.
+
+**How do you write a top-band Criterion D answer in MYP Sciences?**
+Present a genuine benefit and a genuine risk or limitation of the scientific development, cite sources properly and reach a reasoned judgement. A one-sided or purely descriptive account cannot reach the top band.
+
+**Are the MYP Sciences criteria the same for integrated and discrete science courses?**
+Yes. The four criteria's descriptors stay identical whether a school teaches discrete, modular or integrated sciences; only the scientific content an investigation draws on changes.
 
 ## Official syllabus
 

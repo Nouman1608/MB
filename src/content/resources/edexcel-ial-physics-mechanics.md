@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-mechanics-and-materials"
     subtopic: "mechanics"
-description: "Rectilinear motion, projectiles, Newton's laws, momentum, moments, work, energy and power for sub-topic 1.3 of Pearson Edexcel International A Level Physics (YPH11), Unit 1."
+description: "Study guide to motion, projectiles, Newton's laws, momentum, moments, work, energy and power for topic 1.3 of Pearson Edexcel IAL Physics (YPH11) Unit 1."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: labelled impulse as Unit 4 topic 4.3 content (not Unit 1); please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -157,6 +157,8 @@ momentum after — this follows from Newton's third law applied to the
 equal and opposite forces (and equal and opposite impulses) the two
 bodies exert on each other during a collision.
 
+Impulse (FΔt = Δp, the area under a force–time graph, shown in the figure above) is not a Unit 1 statement: the specification lists it in Unit 4 topic 4.3 Further Mechanics. For Unit 1, work with p = mv, conservation of momentum in one dimension and ΣF = ma.
+
 The **moment of a force** about a point is moment = Fx, where x is the
 perpendicular distance from the line of action of the force to the axis of
 rotation. An extended body's weight can be treated as acting through its
@@ -242,6 +244,20 @@ when calculating a moment.
 - Calculate moments (moment = Fx) and apply the principle of moments to an extended body.
 - Use ΔW = FΔs, Ek = ½mv², ΔEgrav = mgΔh, and the conservation of energy principle.
 - Use P = E/t, P = W/t, and calculate efficiency from energy or power ratios.
+
+## Frequently asked questions
+
+**How is Unit 1 assessed in Edexcel IAL Physics?**
+Unit 1, Mechanics and Materials, is a compulsory, externally assessed unit examined by a 1 hour 30 minute paper worth 80 marks.
+
+**What is the difference between a scalar and a vector?**
+A scalar has magnitude only, such as speed, distance or energy. A vector has magnitude and direction, such as velocity, displacement or force.
+
+**How is work calculated when the force is at an angle to the motion?**
+Only the component of the force along the direction of displacement does work, so the force must be resolved along the line of motion before using ΔW = FΔs.
+
+**Why is momentum conserved in a collision?**
+It follows from Newton's third law: the two bodies exert equal and opposite forces on each other during the collision, so in a closed system the total momentum before equals the total after.
 
 ## Related resources
 

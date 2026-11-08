@@ -12,7 +12,19 @@ order: 2
 syllabusTopics:
   - qualification: "gcse"
     topic: "paper-2-social-context-and-behaviour-8182"
-description: "Social influence, language and communication, brain and neuropsychology, and psychological problems -- the full content of Paper 2 Social Context and Behaviour for AQA GCSE Psychology (8182)."
+  - qualification: "gcse"
+    topic: "paper-2-social-context-and-behaviour-8182"
+    subtopic: "social-influence-8182"
+  - qualification: "gcse"
+    topic: "paper-2-social-context-and-behaviour-8182"
+    subtopic: "language-thought-communication-8182"
+  - qualification: "gcse"
+    topic: "paper-2-social-context-and-behaviour-8182"
+    subtopic: "brain-and-neuropsychology-8182"
+  - qualification: "gcse"
+    topic: "paper-2-social-context-and-behaviour-8182"
+    subtopic: "psychological-problems-8182"
+description: "Study guide to AQA GCSE Psychology (8182) Paper 2: social influence, language and communication, brain and neuropsychology, and psychological problems."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -89,6 +101,42 @@ biological (genetic vulnerability, Kaij's twin study) and psychological
 (peer influence) explanations with aversion therapy and self-management
 programmes
 
+## Social influence
+
+**Conformity** is changing behaviour or belief to fit a majority. In **Asch's study** (1951), male student participants judged which of three comparison lines matched a standard line, answering after a group of confederates who on critical trials all gave the same wrong answer. Participants conformed on about a third of critical trials, and about three-quarters conformed at least once. **Social factors** affecting conformity are **group size** (conformity rises as the majority grows, up to about three or four people), **anonymity** (conformity falls when answers are given privately) and **task difficulty** (conformity rises when the task is harder). **Dispositional factors** are **personality** (for example, people with a greater need for approval conform more) and **expertise** (people who know more about the task conform less).
+
+**Obedience** is following an order from an authority figure. **Milgram's Agency Theory** says that in a social hierarchy people shift from an **autonomous state** to an **agentic state**, acting as the agent of the authority and no longer feeling responsible. Obedience is affected by the perceived legitimacy of **authority**, by **culture** (how far a society values deference to authority) and by **proximity** (obedience falls when the person giving orders is further away or the victim is closer). The dispositional explanation is **Adorno's Authoritarian Personality**: people raised with harsh, strict discipline develop rigid thinking and deference to authority, measured with the F-scale.
+
+**Bystander behaviour** is affected by social factors — the **presence of others** (diffusion of responsibility) and the **cost of helping** — and by dispositional factors — **similarity to the victim** and **expertise** (people with relevant skills, such as first aid, are more likely to help). In **Piliavin's subway study** (1969), a confederate collapsed on a New York subway train appearing either ill (with a cane) or drunk; the ill victim was helped far more often, suggesting people weigh the costs and rewards of helping.
+
+**Crowd behaviour** can be prosocial or antisocial. Social factors are **social loafing** (individuals put in less effort in a group), **deindividuation** (loss of personal identity and restraint in an anonymous crowd) and **culture**; dispositional factors are **personality** and **morality**, which help explain why some individuals behave well in crowds where others do not.
+
+## Language, thought and communication
+
+**Piaget's theory** holds that language depends on thought: children develop concepts first and acquire words for them later. The **Sapir-Whorf hypothesis** holds that thinking depends on language — the language a person speaks shapes how they think. Evidence comes from **variation in recall and colour recognition across cultures**: people whose language has more colour terms tend to distinguish and remember colours differently from people whose language has fewer. The strong form (language determines thought) is generally rejected; a weaker form (language influences thought) has more support.
+
+**Human and animal communication** differ. In **Von Frisch's bee study**, honeybees returning to the hive performed a **round dance** for food close by and a **waggle dance** for food further away, with the angle of the dance showing direction relative to the sun and the length of the waggle showing distance. Animal communication is mainly about survival, reproduction, territory and food, and is limited to a fixed set of signals about the here and now; human language can refer to past, future and imaginary things (**displacement**) and create unlimited new messages.
+
+**Non-verbal communication** includes **eye contact** (regulating conversation and signalling attraction), **body language** (open and closed postures, and **postural echo**, where people mirror each other's posture to show rapport), **touch**, and **personal space**, which varies with culture, status and gender. **Darwin's evolutionary theory** argues non-verbal behaviour is innate and evolved because it aided survival, supported by similar facial expressions across cultures and in babies. Evidence that it is **learned** includes **Yuki's study** (2007) of emoticons, which found that Japanese participants paid more attention to the eyes and American participants to the mouth when interpreting emotion, reflecting cultural norms.
+
+## Brain and neuropsychology
+
+The nervous system has two parts: the **central nervous system** (brain and spinal cord) and the **peripheral nervous system**, which includes the **autonomic nervous system** controlling involuntary functions. In the **fight-or-flight response**, the sympathetic branch increases heart rate, breathing and adrenaline release to prepare the body to respond to a threat; the parasympathetic branch returns the body to rest. The **James-Lange theory of emotion** argues that physiological arousal comes first and the emotion is our interpretation of it: we feel afraid because we notice our heart racing.
+
+**Neurons** are **sensory** (carrying information from receptors to the central nervous system), **relay** (connecting neurons within it) and **motor** (carrying signals to muscles and glands). In **synaptic transmission**, an electrical impulse travels to the end of a neuron and triggers the release of **neurotransmitters** across the synapse, which can excite or inhibit the next neuron. **Hebb's theory of learning** proposes that learning strengthens connections between neurons that are repeatedly active together, forming **cell assemblies**, so the brain is shaped by experience.
+
+**Brain structure:** the **frontal lobe** (thinking, planning and the motor area), **parietal lobe** (the somatosensory area, processing touch), **occipital lobe** (the visual area), **temporal lobe** (the auditory area and memory) and the **cerebellum** (balance and co-ordination). This shows **localisation of function**, including the language areas. In **Penfield's study of the interpretive cortex**, electrical stimulation of the temporal lobes of conscious patients undergoing brain surgery for epilepsy sometimes produced vivid recollections of past experiences.
+
+**Neuropsychology** studies how brain structure relates to behaviour; **cognitive neuroscience** uses scanning: **CT** (X-ray images of structure), **PET** (a radioactive tracer showing brain activity) and **fMRI** (blood-oxygen changes showing activity). In **Tulving's 'gold' memory study**, PET scans taken while participants thought about episodic and semantic memories showed different patterns of blood flow, with episodic memories linked more to the front of the brain. Neurological damage, for example from a stroke, can affect motor abilities and behaviour depending on which area is damaged.
+
+## Psychological problems
+
+**Mental health** problems are common, and their recorded **incidence changes over time** as awareness, diagnosis and social conditions change. Significant mental health problems affect **individuals** (relationships, work, physical health) and **society** (pressure on health services, lost working days, the need for social care).
+
+**Clinical depression** is diagnosed using the **ICD**, which distinguishes depressive episodes of different severity by the number and intensity of symptoms, such as persistent low mood, loss of interest and pleasure, and reduced energy, alongside others such as disturbed sleep and appetite. The **biological explanation** is an imbalance of the neurotransmitter **serotonin**, treated with **antidepressant drugs** (such as SSRIs); the **psychological explanation** is **negative schemas** and attributions, treated with **cognitive behaviour therapy (CBT)**. **Wiles' study** (2013) found that patients who had not responded to antidepressants improved more when CBT was added to their usual care than with usual care alone.
+
+**Addiction** is diagnosed using the **ICD dependence syndrome**: features such as a strong desire to take the substance, difficulty controlling use, **tolerance**, **withdrawal** symptoms, neglect of other interests and continued use despite harm. Addiction differs from substance misuse, which is harmful use without dependence. The **biological explanation** is **genetic vulnerability**, supported by **Kaij's twin study** (1960) of alcohol abuse, which found higher concordance in identical than non-identical twins. The **psychological explanation** is **peer influence**, where people take on the norms of a group they identify with. Interventions are **aversion therapy**, which pairs the substance with an unpleasant response, and **self-management programmes** such as twelve-step groups.
+
 ## How to approach it
 
 In Paper 2, **3.2.4 Psychological problems** pairs a biological or
@@ -158,6 +206,20 @@ scanning techniques used in neuropsychology.
 psychological explanation, each paired with its matching intervention.
 - Practise applying every factor and study to a novel scenario, since
 Paper 2 -- like Paper 1 -- rewards application over pure recall.
+
+## Frequently asked questions
+
+**What topics are in AQA GCSE Psychology 8182 Paper 2?**
+Paper 2, Social Context and Behaviour, covers social influence, language, thought and communication, brain and neuropsychology, and psychological problems.
+
+**What is the difference between Piaget's view and the Sapir-Whorf hypothesis?**
+They are opposite claims. Piaget's theory says language depends on thought, while the Sapir-Whorf hypothesis says thinking depends on language.
+
+**How should you answer a compare question on explanations of depression?**
+Describe the biological explanation (serotonin imbalance, treated with antidepressants) and the psychological explanation (negative schemas, treated with CBT), then compare them directly. Listing both without comparing them does not reach the higher mark bands.
+
+**Are antidepressants and CBT competing treatments?**
+No. They are complementary, and both appear on mark schemes as valid treatment routes for depression.
 
 ## Related resources
 

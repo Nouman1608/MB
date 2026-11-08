@@ -181,6 +181,23 @@ A judgement that says what the outcome depends on, such as elasticity, the size 
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you define an exchange rate?**
+An exchange rate is the number of units of one currency needed to buy one unit of another currency. A definition such as "the value of money" that never mentions a second currency is too vague.
+
+**How do you convert prices between two currencies?**
+If 1 unit of currency A equals a given amount of currency B, multiply by the rate to go from A to B and divide by the rate to go from B to A. Check that the answer is sensible, since multiplying when you should divide is a common error.
+
+**What is the difference between depreciation and devaluation?**
+Depreciation is a fall in a currency's value caused by market forces in a floating system. Devaluation is a fall chosen by the government or central bank when it sets a fixed rate; the effects on trade are the same but the cause differs.
+
+**Which section of Edexcel IGCSE Economics covers exchange rates?**
+Exchange rates are section 2.2.3 of the Pearson Edexcel International GCSE Economics (4EC1) specification, which has a single tier of entry.
+
+**Why might a depreciation make a current account deficit larger?**
+If demand for exports and imports is price inelastic, export volumes rise only a little while each import costs more in home currency, so spending on imports can rise. The answer turns on elasticity, so name it and say whether it is above or below one.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, published by Pearson Education Limited, section 2.2.3.

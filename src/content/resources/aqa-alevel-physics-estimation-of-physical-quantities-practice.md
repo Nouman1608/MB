@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "measurements-and-their-errors-aqa-alevel"
     subtopic: "estimation-of-physical-quantities"
-description: "Original exam-style practice questions with full worked answers on orders of magnitude, estimating physical quantities and producing derived estimates, for sub-topic 3.1.3 of AQA A-level Physics (7408)."
+description: "Original practice questions with worked answers on orders of magnitude and derived estimates for sub-topic 3.1.3 of AQA A-level Physics (7408)."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-04
 featured: false
 ---
@@ -51,7 +51,7 @@ Related: [Estimation of Physical Quantities study guide](/resources/aqa-alevel-p
 
 **8.** A student calculates the kinetic energy of a car travelling on a motorway and obtains 4.5 × 10¹² J. Using order-of-magnitude estimates for a plausible mass and speed, explain why this answer must be wrong. **[4]**
 
-**9.** A student estimates that a stadium measuring roughly 50 m by 50 m, with each spectator needing about 0.5 m², can hold **5 × 10²** spectators. Identify the error in this estimate and give a more realistic order-of-magnitude answer. **[3]**
+**9.** A student estimates that a sports hall floor measuring roughly 30 m by 40 m, with each spectator needing about 0.6 m², can hold **2 × 10⁴** spectators. Identify the error in this estimate and give a more realistic order-of-magnitude answer. **[3]**
 
 ---
 
@@ -73,7 +73,7 @@ Related: [Estimation of Physical Quantities study guide](/resources/aqa-alevel-p
 
 **8.** A reasonable estimate for a car's mass is ≈ 10³ kg, and a reasonable motorway speed is ≈ 30 m s⁻¹ [1] [1]. Kinetic energy = ½mv² ≈ ½ × 10³ × 30² ≈ 4.5 × 10⁵ J, order of magnitude 10⁶ J [1]. The student's answer of 4.5 × 10¹² J is 10⁷ times this, about **seven orders of magnitude too large** to be a plausible car's kinetic energy, so it must contain an error [1] — exactly the kind of sanity check order-of-magnitude reasoning is used for.
 
-**9.** The correct calculation is area ÷ area-per-spectator = (50 × 50) ÷ 0.5 = 2500 ÷ 0.5 = **5000** [1], which is 5 × 10³ and so of order of magnitude **10⁴** (5 lies above the crossover at √10 ≈ 3.16) [1]. The student's answer of 5 × 10² (order 10³) is **a factor of ten, one order of magnitude, too small** — most likely from a slip of a factor of ten somewhere in the arithmetic [1]. A more realistic estimate is therefore about 5 × 10³ spectators, of order **10⁴**.
+**9.** The correct calculation is area ÷ area-per-spectator = (30 × 40) ÷ 0.6 = 1200 ÷ 0.6 = **2000** [1], which is 2 × 10³ and so of order of magnitude **10³** (2 lies below the crossover at √10 ≈ 3.16) [1]. The student's answer of 2 × 10⁴ is **a factor of ten, one order of magnitude, too large** — most likely from a slip of a factor of ten somewhere in the arithmetic [1]. A more realistic estimate is therefore about 2 × 10³ spectators, of order **10³**.
 
 ---
 
@@ -84,3 +84,17 @@ Related: [Estimation of Physical Quantities study guide](/resources/aqa-alevel-p
 - Treating "order of magnitude" as meaning "round to one significant figure" rather than "the nearest power of ten", judged by ratio (a leading figure above √10 ≈ 3.16 rounds up to the next power of ten).
 - Not stating the assumption or piece of general knowledge behind an estimate, which is where the method marks are awarded.
 - Failing to use a quick order-of-magnitude check to catch a numerical answer that is wrong by several powers of ten.
+
+## Frequently asked questions
+
+**How do you round a number to the nearest order of magnitude?**
+Write the value as a × 10ⁿ. If a is below about 3.16 (the square root of 10), the order of magnitude is 10ⁿ; if a is above it, the order of magnitude is 10ⁿ⁺¹. Closeness is judged by ratio, not by the numerical difference.
+
+**Where are the method marks in an estimation question?**
+Method marks go to the assumptions and general knowledge you state, so write down every estimate you make, such as a size, mass or time. A bare number with no stated assumption shows no method.
+
+**How can an order-of-magnitude estimate check a calculation?**
+Estimate the answer quickly with rounded values. If your full calculation differs from the estimate by several powers of ten, it almost certainly contains an error, such as a slipped prefix or unit conversion.
+
+**What mistakes lose marks in estimation questions?**
+Common errors include giving an estimate to several significant figures instead of a power of ten, mixing units such as minutes and seconds before combining estimates, and treating order of magnitude as rounding to one significant figure.

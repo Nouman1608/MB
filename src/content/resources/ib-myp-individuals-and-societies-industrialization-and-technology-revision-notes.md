@@ -201,6 +201,20 @@ For example, on living standards 1760–1900: early factory workers faced long h
 - A research question that is a closed yes/no question or too wide to finish.
 - A plan with no named sources, no dates and no way to evaluate.
 
+## Frequently asked questions
+
+**When were the key textile inventions of the Industrial Revolution?**
+Kay's flying shuttle dates from 1733, Hargreaves's spinning jenny from about 1764, Arkwright's water frame patent from 1769, Crompton's spinning mule from 1779 and Cartwright's power loom from 1785.
+
+**What did the 1833 Factory Act and 1842 Mines Act do?**
+The 1833 Factory Act banned children under 9 from working in textile mills and appointed inspectors. The 1842 Mines Act banned women, girls and boys under 10 from working underground.
+
+**What was the difference between the domestic system and the factory system?**
+Under the domestic or putting-out system, merchants supplied raw materials to families who spun and wove at home. The factory system gathered workers and machines in one building, with set hours and a central power source.
+
+**Does the MYP brief say which inventions or countries to study for industrialization?**
+No. The brief lists the topic but not which events, inventions or countries to study; those come from your school's unit.
+
 ## Official syllabus
 
 These notes are aligned to the International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Individuals and societies*, from 2014, which lists "industrialization and technological developments" among the on-screen examination topics. Related units: [settlement and urban morphology](/resources/ib-myp-individuals-and-societies-settlement-and-urban-morphology/). For the criteria, see [how MYP Individuals and Societies is assessed](/resources/ib-myp-individuals-and-societies-assessment-revision-notes/) and the [criteria in practice revision notes](/resources/ib-myp-individuals-and-societies-criteria-in-practice-revision-notes/).

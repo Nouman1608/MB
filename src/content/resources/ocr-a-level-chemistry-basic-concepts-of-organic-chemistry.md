@@ -316,6 +316,20 @@ The new O–C bond forms as the C–I bond breaks, so carbon never exceeds eight
 
 Next, read the [revision notes](/resources/ocr-a-level-chemistry-basic-concepts-of-organic-chemistry-revision-notes/) for fast recall; the [practice questions](/resources/ocr-a-level-chemistry-basic-concepts-of-organic-chemistry-practice/) come with marked answers.
 
+## Frequently asked questions
+
+**What are the four types of formula in OCR A Level Chemistry 4.1.1?**
+The general formula is the algebraic formula for a series, the structural formula shows how the atoms are arranged with minimal detail, the displayed formula shows every atom and bond, and the skeletal formula removes the hydrogens on carbon chains.
+
+**What is the difference between homolytic and heterolytic fission?**
+In homolytic fission each bonding atom receives one electron from the pair, forming two radicals. In heterolytic fission one atom receives both electrons, forming a cation and an anion.
+
+**What is the difference between aliphatic, alicyclic and aromatic compounds?**
+Aliphatic compounds have carbon atoms in straight chains, branched chains or non-aromatic rings. Alicyclic compounds are aliphatic compounds arranged in non-aromatic rings, and aromatic compounds contain a benzene ring.
+
+**What are structural isomers?**
+Structural isomers have the same molecular formula but a different structural formula. Counting one isomer twice because it was drawn flipped is a common error.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 4.1.1 Basic concepts of organic chemistry, learning outcomes (a) to (i). Published by OCR.

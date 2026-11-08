@@ -170,6 +170,20 @@ Links: [study guide](/resources/ocr-gcse-mathematics-factorising-completing-the-
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which parts of factorising are on the OCR GCSE Maths Foundation tier?**
+In OCR GCSE Mathematics J560 content 6.01e, taking out common factors, factorising x² + bx + c and the difference of two squares are on both tiers. Factorising ax² + bx + c, completing the square and algebraic fractions are Higher tier only.
+
+**How can you check a factorisation in the exam?**
+Expand your brackets and check that you get the original expression back, with every term and sign. For algebraic fractions, substitute a simple value such as x = 2 into the question and your answer, avoiding any value that makes a denominator zero.
+
+**What does "factorise fully" mean?**
+It means no common factor is left inside any bracket. For example, 2(10a − 4a²) is not fully factorised, because 2a is still a common factor inside the bracket.
+
+**Why can't you cancel terms in an algebraic fraction?**
+You can only cancel factors, which are multiplied, not terms, which are added. Factorise the numerator and denominator first, then cancel any bracket that appears in both.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Mathematics J560*, Version 2.1 (August 2026), for first assessment in 2017. Content statements 6.01e, 6.01f and 6.01g.

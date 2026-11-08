@@ -245,6 +245,20 @@ Evaluation prompts: spare capacity, time lag, cost, side effects on prices and t
 - Listing policies without saying how well they work or what holds them back.
 - Giving a cause of recession without the chain of events that follows from it.
 
+## Frequently asked questions
+
+**What is economic growth?**
+Economic growth means a country produces more goods and services than before, measured as the percentage rise in real GDP.
+
+**What is the difference between nominal and real GDP?**
+Nominal GDP is valued at current prices, so it rises when prices rise. Real GDP is valued at constant prices, so a rise in it shows that output has grown.
+
+**What is the rule of thumb for a recession?**
+A common rule of thumb is two quarters in a row of falling real GDP, although this is a convention rather than a law.
+
+**How can a government judge whether a growth policy will work?**
+Ask whether there is spare capacity, how long the effect will take, who bears the cost and whether it clashes with another aim such as stable prices or a healthy balance of payments.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281, syllabus for examination in 2026 (version 2), published by Cambridge University Press & Assessment (Cambridge International), section 4.6.

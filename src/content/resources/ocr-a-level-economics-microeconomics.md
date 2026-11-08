@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "microeconomics-ocr-alevel-economics"
-description: "Introduction to microeconomics, the role of markets, business objectives, market structures, and the labour market -- a syllabus map of all of Component 1 for OCR A-Level Economics (H460), with study notes on its core topics."
+description: "Syllabus map of OCR A Level Economics (H460) Component 1 Microeconomics, with study notes on markets, elasticity, market failure, firms and labour markets."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **Component 1 Microeconomics**, examined as H460/01,
@@ -235,3 +235,20 @@ Describing a change in the good's own price as shifting the demand curve. Omitti
 - Calculate and interpret PED, YED, XED and PES, and link PED to total revenue.
 - Explain each type of market failure with a diagram showing the welfare loss.
 - Evaluate interventions, including the risk of government failure.
+
+## Frequently asked questions
+
+**What topics are in OCR A Level Economics Component 1 Microeconomics?**
+Component 1 (H460/01) covers an introduction to microeconomics, the role of markets, business objectives, market structures and the labour market. It is one of three equally weighted components, each worth 33.33% of the award.
+
+**What are the three functions of the price mechanism?**
+The price mechanism signals where resources are wanted, gives producers an incentive to respond, and rations scarce goods to those willing to pay.
+
+**What is a contestable market?**
+A contestable market has low barriers to entry and exit, with low sunk costs. The threat of hit-and-run entry can force even a dominant incumbent firm to behave competitively.
+
+**What is the difference between a merit good and a public good?**
+A merit good is under-consumed because consumers have imperfect information about its long-term benefits, but it is both rival and excludable. A public good is non-rival and non-excludable, so the free rider problem means a free market provides too little or none of it.
+
+**What does a concentration ratio measure?**
+A concentration ratio measures the combined market share of the largest firms in an industry. For example, a three-firm concentration ratio adds up the market shares of the three largest firms.

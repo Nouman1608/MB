@@ -12,7 +12,7 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-global-politics-rights-and-justice"
-description: "Condensed revision notes on the compulsory Rights and Justice thematic study of IB Diploma Programme Global Politics, applying the core concepts of power, sovereignty, legitimacy and interdependence."
+description: "Condensed revision notes on the IB DP Global Politics Rights and justice thematic study: the four core concepts, named institutions, case banks and Paper 2."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -145,3 +145,17 @@ international human rights claims that may conflict with that authority. 4. Cont
 examples, ideally current ones followed as the course progresses rather than only dated textbook
 cases. 5. Independent research on cases the student selects (at least two case studies across at least two
 topic areas), connected to the eight HL topic areas: borders, environment, equality, health, identity, poverty, security and technology.
+
+## Frequently asked questions
+
+**Is Rights and justice compulsory in IB Global Politics?**
+Yes. Rights and justice is one of three thematic studies in IB DP Global Politics, and all three are compulsory for every student at both SL and HL, so Paper 2 can draw on any of them.
+
+**What tension does sovereignty create for human rights?**
+Sovereignty gives a state claimed authority to decide how rights are handled within its own borders, which can clash with universal or international human rights claims that certain rights should be protected regardless of a state's position.
+
+**Which institutions should you know for Rights and justice?**
+Useful anchors include the 1948 Universal Declaration of Human Rights, the ICJ, the UN Human Rights Council, the UNHCR, the ICC, regional human rights courts, the Responsibility to Protect norm, and organisations such as Human Rights Watch and Amnesty International. Naming the specific institution a claim rests on is part of what Paper 2 rewards.
+
+**How is Rights and justice examined in Paper 2?**
+Candidates answer one essay from Section A, which has questions specific to each thematic study, and one from Section B, which has integrating questions linking the thematic studies and the core topics.

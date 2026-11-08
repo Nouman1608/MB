@@ -123,6 +123,17 @@ Learn it first: [study guide](/resources/oxfordaqa-a-level-business-mission-obje
 - Treating opportunities and threats as internal factors.
 - Ending an evaluation without a clear judgement.
 
+## Frequently asked questions
+
+**Is a change in market share given in per cent or percentage points?**
+A change from one market share to another is measured in percentage points, for example from 10% to 12% is a rise of 2 percentage points. Writing "per cent" for this change is a common error.
+
+**How do you use a stakeholder grid in an exam answer?**
+Place the specific groups from the case on the grid by their power and interest, then explain how the business should manage each one. Describing the grid in general without placing the case's groups limits the marks.
+
+**Which OxfordAQA 9725 section do these questions cover?**
+They cover section 3.3.1 Mission, objective and SWOT analysis of OxfordAQA International AS and A-level Business (9725), which is examined in Unit 3: Business analysis.
+
 ## Next steps
 
 - Revise the formulas: [revision notes](/resources/oxfordaqa-a-level-business-mission-objective-and-swot-analysis-revision-notes/)

@@ -285,6 +285,23 @@ Prediction from Le Chatelier's principle: adding either reactant shifts the posi
 
 Fix the key words with the [Equilibria revision notes](/resources/ocr-gcse-chemistry-equilibria-revision-notes/), then try the [Equilibria practice questions](/resources/ocr-gcse-chemistry-equilibria-practice/).
 
+## Frequently asked questions
+
+**What is a reversible reaction?**
+A reversible reaction is one in which the products can turn back into the reactants, shown by the symbol ⇌. Changing the conditions, such as temperature or concentration, can push the reaction one way or the other.
+
+**What happens when hydrated cobalt(II) chloride is heated?**
+Heating drives off water and the pink hydrated solid turns blue as anhydrous cobalt(II) chloride forms, an endothermic change. Adding water turns the blue solid pink again, and that reverse reaction is exothermic.
+
+**What is Le Chatelier's principle?**
+Le Chatelier's principle states that when a condition is changed for a system at equilibrium, the position moves in the direction that opposes the change. In OCR GCSE Chemistry A (J248) it is applied to changes in concentration, temperature and pressure.
+
+**How does temperature affect the position of equilibrium?**
+Raising the temperature shifts the position in the endothermic direction, and lowering it shifts the position in the exothermic direction. So if the forward reaction is exothermic, a higher temperature gives less product at equilibrium.
+
+**Why must equilibrium be set up in a closed system?**
+In a closed system nothing can escape or be added. If a gaseous product escapes from an open flask, the reverse reaction cannot keep pace, so equilibrium is never reached.
+
 ## Official syllabus
 
 OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification, Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Sub-topic C5.3 Equilibria, learning outcomes C5.3a–C5.3c and mathematical learning outcomes CM5.3i–CM5.3iv.

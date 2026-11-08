@@ -12,13 +12,13 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "the-allocation-of-resources"
-description: "Demand and supply curves, market equilibrium and disequilibrium, price changes, PED and PES, market failure, and the market and mixed economic systems -- a walk through all eleven sub-sections of Topic 2 in Cambridge O Level Economics 2281, for the 2026 series."
+description: "Topic 2 of Cambridge O Level Economics 2281, 2026 series: demand and supply, equilibrium, price changes, PED and PES, market failure and mixed economies."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-24
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **Topic 2 The allocation of resources** in Cambridge
@@ -166,6 +166,23 @@ memorisation.
   <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**What does Topic 2 of Cambridge O Level Economics cover?**
+Topic 2 of Cambridge O Level Economics (2281), the allocation of resources, has eleven sub-sections, from microeconomics and macroeconomics through demand, supply, price determination, price changes, PED and PES, to the market economic system, market failure and the mixed economic system.
+
+**Does the O Level Economics 2281 syllabus change after 2026?**
+Yes. A separate syllabus applies for examinations in 2027, 2028 and 2029, which changes the assessment and renumbers this topic's sub-sections, so the section references on this page apply to the 2026 series only.
+
+**What is the difference between an extension and an increase in demand?**
+An extension of demand is a movement along the curve caused by a fall in the good's own price. An increase in demand is a shift of the whole curve caused by a change in a condition of demand.
+
+**How does PED affect total revenue?**
+If demand is elastic, a price cut raises total revenue. If demand is inelastic, a price rise raises total revenue. The relationship between PED and revenue is a separate syllabus point, 2.7.4.
+
+**What is market failure in O Level Economics?**
+Market failure is when the price mechanism fails to allocate resources efficiently. The syllabus covers its definition, causes and consequences in section 2.10, and government intervention in the mixed economic system in 2.11.
 
 ## Official syllabus
 

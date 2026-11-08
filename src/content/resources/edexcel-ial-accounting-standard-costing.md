@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Standard costing (YAC11)"
+title: "Edexcel International A Level Accounting: Standard costing (YAC11)"
 seoTitle: "Edexcel IAL Accounting Standard Costing Study Guide (YAC11)"
 resourceType: "study-guides"
 subject: "accounting"
@@ -280,6 +280,23 @@ Benefits: managers' time goes where it matters, and small random variances do no
 - Leaving off F or A, or labelling a cost saving as adverse.
 - Not checking that sub-variances add to the total variance.
 - Giving reasons that do not match the direction of the variance.
+
+## Frequently asked questions
+
+**What is the difference between a favourable and an adverse variance?**
+A variance is favourable (F) when actual cost is below standard cost, so profit is higher than planned, and adverse (A) when actual cost is above standard, so profit is lower. Every variance should be labelled F or A.
+
+**What is the difference between ideal, attainable and basic standards?**
+An ideal standard assumes perfect conditions with no waste, idle time or breakdowns, so it is rarely met and can demotivate. An attainable standard allows for normal waste and idle time, making it demanding but achievable, while a basic standard stays unchanged for years.
+
+**Why are variances calculated using actual output rather than budgeted output?**
+Each variance compares an actual figure with the standard allowed for the actual output, the same idea as a flexible budget. Using budgeted output to find standard quantity or standard hours is one of the most common errors in Edexcel IAL Accounting variance questions.
+
+**Is a favourable variance always good news?**
+No. A favourable material price variance from cheaper, lower-grade material can cause adverse usage and labour efficiency variances, and any variance may reflect a poor standard rather than good or bad performance. Managers should not be judged on one variance in isolation.
+
+**How is fixed overhead absorbed in a standard costing system?**
+Fixed overhead is absorbed at the standard rate on the standard hours for actual output, not on actual hours. The total fixed overhead variance is therefore the under- or over-absorption of fixed overhead.
 
 ## Official syllabus
 

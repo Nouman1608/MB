@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Break-even analysis (YAC11) -- Revision Notes"
+title: "Edexcel International A Level Accounting: Break-even analysis (YAC11) -- Revision Notes"
 seoTitle: "Edexcel IAL Accounting Break-even Revision Notes (YAC11)"
 resourceType: "revision-notes"
 subject: "accounting"
@@ -199,6 +199,20 @@ The chart assumes a constant price, a constant variable cost per unit, fixed cos
 - Reading break-even where revenue meets the fixed costs line.
 - Leaving lines or axes unlabelled on a chart.
 - Describing the angle of incidence without linking it to contribution per unit.
+
+## Frequently asked questions
+
+**Which unit of Edexcel YAC11 covers break-even analysis?**
+Break-even analysis is topic 2.7 in Unit 2 of Pearson Edexcel International A Level Accounting. It covers cost behaviour, contribution, break-even point, margin of safety and break-even charts.
+
+**Where does the total costs line start on a break-even chart?**
+The total costs line starts at the level of fixed costs on the vertical axis, not at the origin. Break-even is read where the sales revenue line crosses the total costs line, not the fixed costs line.
+
+**Should break-even units be rounded up or down?**
+Round break-even and target-profit units up. Rounding down is a common mistake, because the business would fall just short.
+
+**What should a break-even chart include?**
+Label the axes and every line: fixed costs, total costs and sales revenue. Unlabelled lines or axes are a common way to lose marks.
 
 ## Official syllabus
 

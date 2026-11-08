@@ -170,6 +170,20 @@ x = **366 kJ mol⁻¹** [1] **[3]**
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you avoid sign errors in calorimetry calculations?**
+Treat the sign as a separate decision from the number. Work out the size of the enthalpy change, then state whether the temperature rose or fell and give an exothermic change a negative sign.
+
+**Which mass do you use in q = mcΔT?**
+Use the mass of the water or solution that changed temperature, not the mass of the fuel or solid that reacted. For solutions this is usually taken from the volume using a density of 1.00 g cm⁻³.
+
+**Why should you draw a cycle in Hess's law questions?**
+A cycle drawn first makes the sign choices easy to check, and showing the multiplying numbers from the balanced equation makes the method visible. Remember that combustion data reverse the order of subtraction compared with formation data.
+
+**What unit mistakes are common in enthalpy calculations?**
+A frequent slip is dividing joules by moles without first converting to kilojoules, so the answer is out by a factor of 1000. Convert q to kJ before dividing to give a value in kJ mol⁻¹.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620) specification*, Version 5.3, for International AS and A-level exams May/June 2020 onwards, section 3.1.4 Energetics.

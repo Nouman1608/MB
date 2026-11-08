@@ -267,6 +267,20 @@ Split a fraction sequence into a numerator sequence and a denominator sequence, 
 - Leaving a fraction sequence as one pattern instead of splitting numerator and denominator.
 - Giving the next term when the question asks for the nth term, or the reverse.
 
+## Frequently asked questions
+
+**How can you tell if a sequence is arithmetic, geometric or quadratic?**
+If the first differences are constant, it is arithmetic; if dividing each term by the one before gives a constant, it is geometric. If the second differences are constant, it is quadratic.
+
+**What is the formula for triangular numbers?**
+The nth triangular number is n(n + 1)/2, giving 1, 3, 6, 10, 15 and so on. For example, the 9th triangular number is 9 × 10 ÷ 2 = 45.
+
+**How do you find the nth term of a quadratic sequence?**
+Halve the constant second difference to get the coefficient of n², subtract the terms of an² from the sequence, then find the linear nth term of what is left. Check your answer on the first two terms; this method is Higher tier only.
+
+**How do you find the nth term of a fraction sequence?**
+Treat the numerators and denominators as two separate sequences and find the nth term of each. For 1/2, 2/5, 3/8, ..., the numerators are n and the denominators are 3n − 1, giving n/(3n − 1).
+
 ## Official syllabus
 
 Source: OCR, GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), section 6.06 Sequences (6.06a and 6.06b).

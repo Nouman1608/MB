@@ -9,13 +9,13 @@ qualifications: ["igcse"]
 syllabusCodes: ["9225"]
 syllabusSeries: "First teaching 2020, first examined 2022"
 order: 3
-description: "How OxfordAQA International GCSE Business 9225 divides its content between two 90-mark papers, why there is no coursework, applying answers to the case business, and a worked recommendation routine."
+description: "OxfordAQA International GCSE Business 9225: how content splits across two 90-mark papers with no coursework, using the case and a recommendation routine."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 OxfordAQA International GCSE Business (9225) is linear and untiered, assessed entirely by two written
@@ -125,6 +125,23 @@ extended-response question without adequate time. 3. The interpretation -- what 
 means for this business's decision, rather than the figure alone. 4. Trade-off thinking: weighing
 quality against cost, flexibility against efficiency, or motivation against wage bill, rather than
 explaining either side alone.
+
+## Frequently asked questions
+
+**How is OxfordAQA International GCSE Business 9225 assessed?**
+OxfordAQA International GCSE Business (9225) is linear and untiered, assessed by two written papers with no coursework. Each paper lasts 2 hours, carries 90 marks and is worth 50% of the qualification.
+
+**What does each OxfordAQA IGCSE Business paper cover?**
+Paper 1, Influences of Operations and Human Resources on Business Activity, covers operations and HR. Paper 2, Influences of Marketing and Finance on Business Activity, covers marketing and finance.
+
+**How much time is there per mark in OxfordAQA IGCSE Business?**
+Two hours for 90 marks gives about 1.3 minutes per mark. The extended-response questions sit at the end, so practise complete papers to arrive at the final question with enough time.
+
+**How should you write a recommendation answer?**
+State the recommendation first, give the main reason tied to the business, take the strongest counter-argument seriously, say what the decision depends on, and finish by confirming or qualifying the recommendation.
+
+**When was OxfordAQA IGCSE Business 9225 first examined?**
+First teaching was in September 2020, and the qualification was first examined in May/June 2022.
 
 *Written against the assessment section of OxfordAQA's own International GCSE Business (9225)
 qualification page (official OxfordAQA page, verified 2026-08-28). The recommendation routine above is

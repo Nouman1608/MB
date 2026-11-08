@@ -114,6 +114,20 @@ These questions practise sections 9.2 Quality management and 9.3 Operations stra
 - Try all [free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which sections of Cambridge AS and A Level Business 9609 do these questions cover?**
+Section 9.2 Quality management and section 9.3 Operations strategy, both A Level topics, including TQM, benchmarking, flexibility, ERP, lean production and critical path analysis.
+
+**Does TQM mean hiring more inspectors?**
+No. Saying TQM means hiring more inspectors is a common error; under TQM, quality is the responsibility of all staff throughout the process.
+
+**What are common mistakes in network analysis?**
+Leaving out a dummy activity or the backward pass, confusing total float with free float, and giving a float figure with no interpretation.
+
+**What does "it depends" need in an evaluation?**
+Say what the decision depends on, such as a stated condition from the case, and use the figures given. "It depends" on its own earns little.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education): sections 9.2 and 9.3.

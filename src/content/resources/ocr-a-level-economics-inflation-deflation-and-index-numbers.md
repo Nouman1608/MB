@@ -284,6 +284,23 @@ Worked example 3 (fiscal drag). Income tax is 20% above a fixed 12,000 z thresho
 - Treating an index of 133 as a rate.
 - Listing effects without saying who is affected and how.
 
+## Frequently asked questions
+
+**How is the UK's official measure of inflation constructed?**
+The Consumer Prices Index tracks the cost of a basket of goods and services. Prices are collected regularly, combined into categories, each category is weighted by its share of household spending, and a base year is set to 100; the basket and weights are reviewed so the index follows changing spending.
+
+**What is hyperinflation?**
+Hyperinflation is extremely rapid and usually accelerating inflation. The specification gives no threshold, but a common rule of thumb is more than 50% a month, and at that rate prices compound very quickly.
+
+**Does an index value of 133 mean 133% inflation?**
+No. An index of 133 means average prices are 33% above the base year. The inflation rate compares two index values over a period, usually a year.
+
+**What causes cost-push inflation?**
+Cost-push inflation comes from rising production costs that shift short-run aggregate supply left, such as wages rising faster than productivity, dearer raw materials or energy, higher indirect taxes or a falling exchange rate that raises import prices.
+
+**What is fiscal drag?**
+Fiscal drag happens when tax thresholds stay fixed while money incomes rise with inflation. More income is taxed, so the share of income paid in tax rises even though real pay is unchanged.
+
 ## Official syllabus
 
 OCR, *A Level Economics (H460)* specification, Version 3.0 (June 2026), first assessment 2021, Component 2 (H460/02), Economic policy objectives and indicators of macroeconomic performance, topic Inflation.

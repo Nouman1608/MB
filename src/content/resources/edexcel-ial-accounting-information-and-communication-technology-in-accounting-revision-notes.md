@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Information and communication technology (ICT) in accounting (YAC11) -- Revision Notes"
+title: "Edexcel International A Level Accounting: Information and communication technology (ICT) in accounting (YAC11) -- Revision Notes"
 seoTitle: "Edexcel IAL Accounting ICT in Accounting Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"
@@ -192,6 +192,20 @@ Quick example: one-off costs 8,400 and net annual saving 5,600 give payback of 8
 - Counting the reorder twice in an EPOS question when an order is already outstanding.
 - Mixing up audit trail and audit.
 - Giving advantages and disadvantages but no final judgement on an "Evaluate" question.
+
+## Frequently asked questions
+
+**Which Edexcel YAC11 topic covers ICT in accounting?**
+Topic 2.9 Information and communication technology (ICT) in accounting is in Unit 2. It covers the uses of ICT in costing and management information and the advantages and disadvantages of ICT in accounting.
+
+**What are the financial disadvantages of a computerised accounting system?**
+As well as hardware, software and installation, there are annual costs such as licences, maintenance, support and upgrades, and training time. Forgetting annual running costs is a common mistake.
+
+**What are the human aspects of ICT in accounting?**
+ICT frees staff from routine work for analysis, but brings training time, resistance to change, possible redundancies and lower morale, and the risk of over-reliance on the system.
+
+**What weakens an audit trail in a computerised system?**
+Weak passwords, shared logins or records that can be edited make the trail unreliable, even though the system logs every entry with a reference, date, time and user.
 
 ## Official syllabus
 

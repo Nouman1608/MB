@@ -133,6 +133,20 @@ These questions cover section 5.3, Population, of the Cambridge O Level Economic
 - Listing effects of population change with no chain of reasoning to taxes, spending, jobs or living standards.
 - Giving one-sided answers when the question says "evaluate" or "discuss".
 
+## Frequently asked questions
+
+**How do you calculate a birth rate in Cambridge O Level Economics?**
+Divide the number of births by the population and multiply by 1,000, so the answer is per 1,000 people. Giving the rate per person, or as a total, loses marks.
+
+**Do you need to include migration when finding population growth?**
+Yes. Total change is natural change (births minus deaths) plus net migration (immigration minus emigration). Keep the minus sign when net migration is negative.
+
+**Does a high death rate always mean poor healthcare?**
+No. A country with an old population can have many deaths each year even with excellent healthcare, so check the age structure before drawing a conclusion.
+
+**How do you read a population pyramid in an exam answer?**
+Compare the base (the young), the middle (the working-age group) and the top (the old), and quote the figures. A description that does not read all three loses marks.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/cambridge-o-level-economics-population/) and the [revision notes](/resources/cambridge-o-level-economics-population-revision-notes/).

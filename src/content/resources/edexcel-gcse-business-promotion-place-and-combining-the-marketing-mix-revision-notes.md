@@ -202,6 +202,20 @@ Method: name the change, name the element it affects, say what the business shou
 - Showing only a final figure in a calculation, which leaves nothing to reward if the figure is wrong.
 - Finishing an evaluate or justify answer without a supported judgement.
 
+## Frequently asked questions
+
+**What promotion strategies are in the Edexcel GCSE Business specification?**
+The 1BS0 specification lists advertising, sponsorship, product trials, special offers and branding. The right strategy depends on the market segment being targeted.
+
+**What is the difference between a retailer and an e-tailer?**
+A retailer sells to the public from a shop or other physical outlet, so customers can see and try the product. An e-tailer sells online through a website or app, reaching customers anywhere the business can deliver to.
+
+**What is competitive advantage?**
+Competitive advantage is something a business does better, or differently, than its rivals, so customers prefer it. It may come from a distinctive product, a lower price, a stronger brand, easier access or a combination.
+
+**What is viral advertising?**
+Viral advertising spreads because people choose to share it on social media, such as a funny video or a challenge. The spend can be small for the reach, but the business cannot control whether it spreads.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2: Building a business, topic 2.2 Making marketing decisions, content items 2.2.3 Promotion, 2.2.4 Place and 2.2.5 Using the marketing mix to make business decisions.

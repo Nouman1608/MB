@@ -289,6 +289,19 @@ Example: Li₂CO₃ + 2HNO₃ → 2LiNO₃ + H₂O + CO₂
   <figcaption>Aluminium oxide is dissolved in molten cryolite and electrolysed; the carbon anodes burn away and are replaced.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the reactivity series for OxfordAQA 9202 Chemistry?**
+From most to least reactive, the order is potassium, sodium, lithium, calcium, magnesium, zinc, iron, copper. Carbon sits between magnesium and zinc for deciding how a metal is extracted.
+
+**What is oxidised and what is reduced in a displacement reaction?**
+The atoms of the more reactive metal lose electrons, so they are oxidised. The ions of the less reactive metal in solution gain electrons, so they are reduced; in Fe + Cu²⁺ → Fe²⁺ + Cu, iron is oxidised and copper ions are reduced.
+
+**What are the raw materials for the blast furnace?**
+The raw materials are iron ore, coke, limestone and hot air. The overall reduction by carbon can be summed up as 2Fe₂O₃ + 3C → 4Fe + 3CO₂.
+
+**Why should metals be recycled?**
+Extracting metals uses up limited ores, is expensive in energy, and harms the environment through mining, transport, furnace emissions and waste rock.
 
 ## Official syllabus
 

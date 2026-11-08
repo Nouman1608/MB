@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "indices-and-surds-ocr-gcse-maths"
     subtopic: "standard-form-ocr-gcse-maths"
-description: "Twelve original practice questions with worked answers on powers, roots, index laws and standard form for OCR GCSE (9-1) Mathematics."
+description: "Twelve original practice questions with worked answers on powers, roots, index laws and standard form for OCR GCSE (9-1) Mathematics (J560)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -182,6 +182,20 @@ These questions cover sections 3.01 and 3.02 of the OCR GCSE (9-1) Mathematics s
 * Check coverage on the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) and the [printable checklist](/checklists/ocr/gcse/mathematics/).
 * Take the [free 10-minute diagnostics](/diagnostics/) to see what to revise next.
 * Book a [free trial class](/trial/) if you would like help with a topic.
+
+## Frequently asked questions
+
+**Which OCR GCSE Maths sections do these indices and standard form questions cover?**
+They cover sections 3.01 and 3.02 of OCR GCSE (9-1) Mathematics J560: powers, roots, the laws of indices and standard form. Fractional indices, fractional powers and estimating powers and roots are Higher tier only.
+
+**What is the most common mistake with a bracket raised to a power?**
+Forgetting to raise the number in front to the power as well as the letters. For example, (3x²)³ = 27x⁶, not 3x⁶.
+
+**How do you add two numbers in standard form?**
+Rewrite them with the same power of 10, add the A values, then tidy the answer so that A is between 1 and 10. Adding without matching the powers first is a common error.
+
+**How do you estimate a square root to the nearest whole number?**
+Find the perfect squares either side, then square the midpoint of their roots to decide which way to round. This check matters because a number can lie between two squares but still be closer to the lower root.
 
 ## Official syllabus
 

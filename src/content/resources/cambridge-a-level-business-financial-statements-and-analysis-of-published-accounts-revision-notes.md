@@ -215,6 +215,20 @@ Earnings per share is not in the appendix. The standard form is profit for the y
 - Suggesting a method of improvement that makes another ratio worse, with no mention of the trade-off.
 - Judging a business on one ratio alone.
 
+## Frequently asked questions
+
+**Do I need to draw up a full set of accounts for Cambridge 9609?**
+No. The syllabus does not expect you to draw up a set of accounts. It expects you to calculate, amend and interpret the statement of profit or loss, the statement of financial position and the ratios.
+
+**Which depreciation method is needed for Cambridge AS and A Level Business 9609?**
+Only the straight-line method: cost minus residual value, divided by useful life. Depreciation is an expense that lowers profit but does not move cash.
+
+**What is net realisable value?**
+Net realisable value is the estimated selling price minus the costs of selling or finishing the goods. If it is below cost, inventory is valued at net realisable value.
+
+**What is the difference between the current ratio and the acid test ratio?**
+The current ratio divides current assets by current liabilities. The acid test removes inventory from current assets first, because inventory is the hardest current asset to turn into cash.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education): sections 10.1 and 10.2 and the appendix of ratios.

@@ -222,6 +222,20 @@ Productivity gains can lower export prices, which lowers the index but raises co
 - Listing limitations without explaining their effect on the gains from trade.
 - Drawing a TPC that starts at a different place from the PPC, or leaving the axes unlabelled.
 
+## Frequently asked questions
+
+**What is a trading possibility curve?**
+A trading possibility curve shows the combinations of two goods a country can consume after specialising and trading. It starts at the same point as the PPC on the axis of the good the country specialises in.
+
+**Is an improvement in the terms of trade always good?**
+No. Whether it helps depends on its cause and on the price elasticity of demand for exports, which decides what happens to export revenue.
+
+**Which goes on top of the terms of trade formula?**
+The export price index goes on top: the index of average export prices divided by the index of average import prices, multiplied by 100.
+
+**What is free trade?**
+Free trade, or trade liberalisation, is trade without tariffs, quotas or other barriers.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education). Section 6.1, The reasons for international trade, outcomes 6.1.1 to 6.1.4.

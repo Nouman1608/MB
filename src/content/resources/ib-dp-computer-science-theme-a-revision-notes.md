@@ -12,11 +12,23 @@ order: 1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-computer-science-theme-a"
-description: "Condensed recall notes on Theme A -- computer fundamentals, networks, databases (including SQL queries) and machine learning -- for IB Diploma Programme Computer Science, first assessment 2027."
+  - qualification: "ib-dp"
+    topic: "ib-dp-computer-science-theme-a"
+    subtopic: "ib-dp-computer-science-a-1"
+  - qualification: "ib-dp"
+    topic: "ib-dp-computer-science-theme-a"
+    subtopic: "ib-dp-computer-science-a-2"
+  - qualification: "ib-dp"
+    topic: "ib-dp-computer-science-theme-a"
+    subtopic: "ib-dp-computer-science-a-3"
+  - qualification: "ib-dp"
+    topic: "ib-dp-computer-science-theme-a"
+    subtopic: "ib-dp-computer-science-a-4"
+description: "Recall notes on IB DP Computer Science Theme A, first assessment 2027: computer fundamentals, networks, databases with SQL queries, and machine learning."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -144,6 +156,20 @@ the registers), before repeating the cycle for the next instruction. 5. `SELECT 
 FROM Borrowers JOIN Loans ON Borrowers.BorrowerID = Loans.BorrowerID WHERE Borrowers.Surname LIKE
 'Mc%' ORDER BY Borrowers.Surname ASC;` -- the JOIN links the tables through the foreign key, LIKE
 with the % wildcard filters by pattern, and ORDER BY sorts the result.
+
+## Frequently asked questions
+
+**Is SQL required in IB DP Computer Science?**
+Yes. Database programming in SQL is required at both SL and HL, including queries between two tables. Aggregate functions, views and transactions are HL only.
+
+**What is the difference between a primary key and a foreign key?**
+A primary key uniquely identifies a record within its own table. A foreign key is a field that references a primary key in a different table, and mixing them up is a common error.
+
+**Is the TCP/IP model in IB Computer Science SL?**
+Mapping network devices to the TCP/IP layers is SL and HL content, but the function of the TCP/IP model itself, including the role of each layer, is HL only.
+
+**What ethical issues does machine learning raise in IB Computer Science?**
+The course treats ethics as integral content, including bias in training data, transparency of automated decisions and the environmental cost of training large models.
 
 ## Official syllabus
 

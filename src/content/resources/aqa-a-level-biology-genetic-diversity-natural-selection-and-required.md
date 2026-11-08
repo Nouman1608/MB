@@ -234,6 +234,23 @@ Variables to control: volume and concentration on each disc, agar depth, lawn de
 </figure>
 
 
+## Frequently asked questions
+
+**Why is genetic diversity important for natural selection?**
+Genetic diversity is a factor enabling natural selection to occur. If every individual had the same alleles, no individual would have an advantage.
+
+**What is the difference between directional and stabilising selection?**
+In directional selection one extreme phenotype has an advantage, so the mean shifts, as with antibiotic resistance. In stabilising selection individuals near the mean are favoured, so the mean stays the same and the range narrows, as with human birth weight.
+
+**Why is human birth weight an example of stabilising selection?**
+Very small babies lose heat quickly and are more likely to have underdeveloped organs, while very large babies have harder deliveries. Intermediate birth mass has the highest survival.
+
+**What aseptic precautions are used when culturing bacteria?**
+Disinfect the bench and wash hands, work near a Bunsen flame, flame the inoculating loop, lift the lid only as far as needed, use sterile forceps, and tape but do not fully seal the lid.
+
+**Do organisms change their alleles to adapt?**
+No. Individuals do not change their alleles in response to the environment. Mutation is random, and selection changes allele frequency over generations.
+
 ## Official syllabus
 
 This page follows the AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015, published by AQA, section 3.4.4 and required practical 6.

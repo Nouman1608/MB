@@ -12,11 +12,11 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "individuals-firms-markets-and-market-failure-aqa-alevel-economics"
-description: "Economic methodology, price determination, production and costs, market structures, and market failure and government intervention -- a syllabus map and study guide for section 3.1 for AQA A-Level Economics (7136)."
+description: "AQA A-level Economics (7136) section 3.1 guide: methodology, individual choice, price, costs, market structures, labour, inequality and market failure."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -92,12 +92,6 @@ skill is what distinguishes top-band answers.
   <figcaption>Match the tool to the problem: the mechanism, not just the name, earns marks.</figcaption>
 </figure>
 
-
-## Official syllabus
-
-AQA A-level Economics (7136) specification, for first teaching from
-September 2015 —
-[aqa.org.uk](https://www.aqa.org.uk/subjects/economics/a-level/economics-7136/specification/subject-content).
 
 ## Consumer behaviour and rationality
 
@@ -180,3 +174,26 @@ Applying diminishing returns in the long run, or economies of scale in the short
 - Compare the four market structures on firms, barriers, product and long-run profit.
 - Apply the MC = MR rule and explain entry and exit in competitive markets.
 - Define all four types of efficiency and evaluate monopoly against them.
+
+## Frequently asked questions
+
+**What topics are in AQA A-level Economics section 3.1?**
+Section 3.1 Individuals, firms, markets and market failure covers economic methodology, individual decision making, price determination, production and costs, market structures, the labour market, income and wealth distribution, and market failure and government intervention.
+
+**What is the profit-maximising rule for all firms?**
+All firms maximise profit where marginal cost equals marginal revenue, MC = MR.
+
+**What is the difference between diminishing returns and economies of scale?**
+The law of diminishing returns applies only in the short run, when at least one factor is fixed. Economies of scale apply in the long run, when all factors are variable, and lower long-run average cost.
+
+**What defines an oligopoly?**
+Oligopoly is defined by interdependence: with few firms, each must anticipate how its rivals will react to its decisions.
+
+**What does behavioural economics add to consumer theory?**
+It challenges the assumption that consumers are rational utility maximisers with perfect information, showing that they use rules of thumb and are influenced by how choices are presented.
+
+## Official syllabus
+
+AQA A-level Economics (7136) specification, for first teaching from
+September 2015 —
+[aqa.org.uk](https://www.aqa.org.uk/subjects/economics/a-level/economics-7136/specification/subject-content).

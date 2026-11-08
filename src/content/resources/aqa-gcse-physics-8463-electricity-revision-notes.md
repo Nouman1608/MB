@@ -30,9 +30,9 @@ syllabusTopics:
     subtopic: "static-electricity"
 description: "Condensed AQA GCSE Physics 8463 Electricity revision notes: circuit equations, I–V graphs, series vs parallel, mains wiring, static and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -47,7 +47,7 @@ Then test yourself with the [Electricity practice questions](/resources/aqa-gcse
 The course hub is [AQA GCSE Physics](/boards/aqa/gcse/physics/), the [printable checklist](/checklists/aqa/gcse/physics/)
 lists every point, and the [free diagnostics](/diagnostics/) help you find gaps.
 
-## The equations -- all six must be recalled
+## The equations -- all of these must be recalled
 
 | Equation | Symbols | Units |
 |---|---|---|
@@ -261,6 +261,20 @@ of the cables (P = I²R), so less energy is wasted.
 - Explaining static with protons or "positive charge" moving; only electrons move.
 - In National Grid answers, saying the step-up transformer "increases the current".
 - Dropping units, or giving 1.38 MJ as "1.38" with no prefix.
+
+## Frequently asked questions
+
+**What equations do you need to recall for AQA GCSE Physics electricity?**
+You need Q = It, V = IR, P = VI, P = I²R, E = Pt and E = QV, together with adding resistances in series, R_total = R₁ + R₂.
+
+**What is the difference between series and parallel circuits?**
+In a series circuit the current is the same everywhere and the pd is shared. In a parallel circuit the pd is the same across each branch and the branch currents add up to the total.
+
+**What are the colours of the wires in a UK plug?**
+The live wire is brown, the neutral wire is blue, and the earth wire has green and yellow stripes. UK mains is ac at 50 Hz and about 230 V.
+
+**Why does the National Grid transmit electricity at a high pd?**
+For the same power, a higher pd means a lower current (P = VI), and a lower current causes much less heating in the cables (P = I²R), so less energy is wasted.
 
 ## Official syllabus
 

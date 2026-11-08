@@ -23,11 +23,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-superposition"
     subtopic: "as-the-diffraction-grating"
-description: "The principle of superposition, stationary waves, nodes and antinodes, diffraction, two-source interference and the diffraction grating equation, for Cambridge International AS & A Level Physics 9702."
+description: "Superposition, stationary waves, nodes and antinodes, diffraction, two-source interference and the grating equation: Topic 8 of Cambridge AS Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -265,6 +265,20 @@ like points
 - The gap-width-to-wavelength relationship in diffraction
 - Interference and coherence, and λ = ax/D for double-slit interference
 - d sin θ = nλ for a diffraction grating
+
+## Frequently asked questions
+
+**How does a stationary wave form?**
+A stationary wave forms when two progressive waves of the same frequency and amplitude travel in opposite directions and superpose, such as a wave and its reflection. Unlike a progressive wave, it does not transfer energy along its length.
+
+**How are stationary waves demonstrated in Cambridge 9702?**
+The syllabus uses stretched strings driven by a vibration generator, air columns driven by a loudspeaker or tuning fork, and microwaves reflected from a metal plate and detected with a probe.
+
+**What is coherence?**
+Coherent sources have a constant phase difference, which in practice means the same frequency and a fixed phase relationship. Coherence is needed for a stable, observable interference pattern.
+
+**How do you use a diffraction grating to find wavelength?**
+Use d sin θ = nλ, where d is the slit spacing, θ the angle to a maximum and n its whole-number order. Measure the angle to a known order and solve for λ.
 
 ## Related resources
 

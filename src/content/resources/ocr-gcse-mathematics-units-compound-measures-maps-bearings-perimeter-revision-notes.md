@@ -246,6 +246,20 @@ Worked reminder (semicircle on one side of a square of side 8 cm): the outside e
 - Leaving off units, or giving the wrong one, such as cm for an area.
 - Not saying which pack is the better buy after a unit-price comparison.
 
+## Frequently asked questions
+
+**How do you write a time like 4 hours 45 minutes as a decimal?**
+Divide the minutes by 60 and add to the hours, so 4 h 45 min = 4.75 h. Writing it as 4.45 h is a common error.
+
+**How do you find a back bearing?**
+Add 180° to the bearing if it is less than 180°, or subtract 180° if it is more. If the bearing of P from Q is 047°, the bearing of Q from P is 227°.
+
+**How do you use a map scale like 1 : 50 000?**
+Multiply the map length by 50 000 to get the real length in the same unit, then convert to sensible units. For example, 3.2 cm × 50 000 = 160 000 cm, which is 1.6 km.
+
+**How do you decide which pack is the better buy?**
+Work out the cost of the same amount for each pack, such as pence per 100 g, and compare. State clearly which pack is the better buy.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), sections 10.01 and 10.02, published by OCR.

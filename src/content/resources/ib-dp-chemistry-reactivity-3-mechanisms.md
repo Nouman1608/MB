@@ -12,11 +12,11 @@ order: 2
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-chemistry-reactivity-3"
-description: "Proton transfer, electron transfer, electron sharing and electron-pair sharing reactions -- Reactivity 3, the largest single component in the IB Diploma Programme Chemistry syllabus, first assessment 2025, and how it draws on the Structure strand."
+description: "IB DP Chemistry Reactivity 3 guide: proton transfer, electron transfer, electron sharing and electron-pair sharing reactions, with SL and HL scope."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -183,6 +183,23 @@ electrophile is electron-poor.
 - Revise Reactivity 3 alongside Structure 1.3 and Structure 2, not in
   isolation.
 
+## Frequently asked questions
+
+**What are the four sub-topics of IB DP Chemistry Reactivity 3?**
+Reactivity 3 covers proton transfer reactions (3.1), electron transfer reactions (3.2), electron sharing reactions (3.3) and electron-pair sharing reactions (3.4).
+
+**What is the difference between a voltaic cell and an electrolytic cell?**
+A voltaic cell uses a spontaneous redox reaction to generate an electric current. An electrolytic cell uses an external current to force a non-spontaneous redox reaction to happen.
+
+**What is the difference between a half-headed arrow and a full curly arrow?**
+A half-headed arrow moves a single electron and is used in radical mechanisms in Reactivity 3.3. A full curly arrow moves an electron pair and is used in the electron-pair sharing mechanisms of Reactivity 3.4.
+
+**How do you use cell potentials to predict spontaneity at HL?**
+A positive overall cell potential shows that the reaction is spontaneous under standard conditions. The standard hydrogen electrode is assigned zero by convention.
+
+**What is a Lewis acid?**
+A Lewis acid is an electron-pair acceptor and a Lewis base is an electron-pair donor. Lewis acid–base theory is HL content in Reactivity 3.4.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Chemistry guide*, Diploma
@@ -212,4 +229,3 @@ component's four numbered sub-topics directly from it. Verified
   <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--09-complex-ion.webp" width="900" height="910" alt="A Cu2 plus ion at the centre with six water ligands. Arrows from each water point to the ion, showing donated lone pairs. Water is the Lewis base, copper the Lewis acid, and the coordination number is 6." loading="lazy">
   <figcaption>In a complex ion, ligands (Lewis bases) donate pairs to the metal ion (Lewis acid).</figcaption>
 </figure>
-

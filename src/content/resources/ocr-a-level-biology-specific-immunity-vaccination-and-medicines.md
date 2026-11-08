@@ -235,6 +235,23 @@ Reducing resistance: use antibiotics only when needed and as prescribed, do not 
 - Calling a vaccine "passive" because it is injected.
 - Saying memory cells are antibodies.
 
+## Frequently asked questions
+
+**What is an antigen-presenting cell?**
+An antigen-presenting cell takes in a pathogen and then displays pieces of its antigens on its own surface membrane. T helper cells with complementary receptors bind to these displayed antigens.
+
+**What is the difference between B and T lymphocytes?**
+Both are white blood cells made in the bone marrow, each carrying receptors of a single shape. B cells have receptors that are antibody molecules fixed in the membrane, while T cells have T cell receptors.
+
+**What is herd immunity?**
+Herd immunity occurs when enough people are immune that a pathogen cannot spread easily. This also protects people who cannot be vaccinated.
+
+**Which autoimmune disease is the example in the OCR specification?**
+Arthritis is the example of an autoimmune disease named in OCR A Level Biology A (H420) learning outcome 4.1.1(k).
+
+**Which papers assess specific immunity in OCR A Level Biology A?**
+This topic is in Module 4, which is assessed in Biological diversity (Component 02) and in Unified biology (Component 03).
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420) specification*, Version 4.1 (April 2026), first assessment 2025: learning outcomes 4.1.1(f) to 4.1.1(n).

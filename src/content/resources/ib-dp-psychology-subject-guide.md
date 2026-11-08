@@ -7,7 +7,7 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Psychology"]
 syllabusSeries: "First assessment 2019"
-description: "An overview of IB Diploma Programme Psychology -- the biological, cognitive and sociocultural approaches, the four options and research methodology. Describes the legacy course (first assessment 2019, final session November 2026)."
+description: "Overview of IB DP Psychology (first assessment 2019): the three core approaches, four options, research methods and how SL and HL are assessed."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -168,6 +168,20 @@ design, and what its ethical considerations were, with the same rigour
 they would apply to evaluating a published study, tend to score more
 highly than those who describe their procedure without justifying the
 choices behind it.
+
+## Frequently asked questions
+
+**How long are the IB DP Psychology exams at SL and HL?**
+At SL, Paper 1 lasts 2 hours and Paper 2 lasts 1 hour, a total of 3 hours. At HL, Paper 1 and Paper 2 each last 2 hours and Paper 3 lasts 1 hour, a total of 5 hours.
+
+**What are the four options in IB DP Psychology?**
+The four options are abnormal psychology, developmental psychology, health psychology and the psychology of human relationships. SL students study one and HL students study two.
+
+**What are the aims of IB DP Psychology?**
+The aims include understanding the biological, cognitive and sociocultural factors affecting behaviour, applying them to at least one applied area, understanding diverse methods of inquiry and upholding ethical practice in research.
+
+**Which IB DP Psychology course does this overview describe?**
+It describes the legacy course for first assessment 2019, whose final session is November 2026. The IB publishes a separate subject brief for the replacement course, first assessment 2027.
 
 ## Source
 

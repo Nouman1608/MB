@@ -169,6 +169,20 @@ A straight wire of fixed length in a field is carrying different currents. The f
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these OxfordAQA International GCSE Physics past paper questions?**
+No. They are original practice questions written for revision on this topic of OxfordAQA International GCSE Physics (9203). Use them alongside the official past papers from the board.
+
+**Which finger is which in Fleming's left-hand rule?**
+With the thumb, first finger and second finger of the left hand at 90° to each other, the first finger shows the field (north to south), the second finger the current and the thumb the force, or motion.
+
+**Is the OxfordAQA International GCSE Physics (9203) exam tiered?**
+No. The qualification is untiered, so every candidate studies the same generator and motor effect content.
+
+**Is the motor effect in the OxfordAQA International GCSE Physics (9203) specification?**
+Yes. Section 3.6.4 covers the motor effect and section 3.6.1 covers generating electricity. The qualification is untiered, so all candidates study both.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203), version 5.2, for exams May/June 2018 onwards, published by OxfordAQA, sections 3.6.1 and 3.6.4.

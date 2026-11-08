@@ -277,6 +277,20 @@ input = 270 / 0.40 = 675 J     dissipated = 675 - 270 = 405 J
 - Listing generic points about a renewable source instead of matching them to the location in the question.
 - Saying renewable sources cause no environmental harm.
 
+## Frequently asked questions
+
+**How does energy change in a swinging pendulum?**
+At the highest point the bob has maximum gravitational potential energy and zero kinetic energy. As it swings down, this is transferred to kinetic energy, which is greatest at the lowest point, where the bob moves fastest.
+
+**What makes a good fuel?**
+Useful factors are ease of storage, a high energy content per kilogram, safety and cost. Solids and liquids are easy to store, while gases need pressurised tanks.
+
+**What are the advantages and drawbacks of geothermal power?**
+Geothermal power gives a steady output day and night with no fuel to buy. It is only practical where hot rock is accessible, drilling is costly, and some sites release underground gases.
+
+**Why do friction and air resistance waste energy?**
+They are forces that dissipate energy by heating the surroundings. For example, brake pads rubbing on a wheel turn a vehicle's kinetic energy into thermal energy.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203) specification, Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.2.2 and 3.2.3.

@@ -331,6 +331,20 @@ It is used to produce **economically important** plants and animals: crops with 
 
 Condense this into the [revision notes](/resources/o-level-biology-5090-inheritance-revision-notes/), then test yourself with the [practice questions](/resources/o-level-biology-5090-inheritance-practice/). Track your progress on the [printable checklist](/checklists/cambridge/o-level/biology/), see other topics on the [course hub](/boards/cambridge/o-level/biology/), and check your gaps with the [free 10-minute diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What does pure-breeding mean?**
+Pure-breeding describes two identical homozygous individuals that breed together and produce offspring with the same genotype as the parents.
+
+**What is codominance in ABO blood groups?**
+In codominance, both alleles in a heterozygote are expressed in the phenotype. Iᴬ and Iᴮ are codominant, and both are dominant to Iᵒ.
+
+**Why is the chance of a boy or a girl always 1 in 2?**
+Females are XX and males are XY, so all eggs carry an X and half of the sperm carry an X and half a Y. Each fertilisation is independent, so previous children do not change the 1 : 1 chance.
+
+**How should you lay out a genetic cross in Cambridge O Level Biology 5090?**
+Choose a letter, using a capital for the dominant allele, then write parental phenotypes and genotypes, gametes, a Punnett square, and offspring genotypes, phenotypes and ratio.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 17: Inheritance (17.1 Variation; 17.2 DNA; 17.3 Inheritance; 17.4 Selection), published by Cambridge Assessment International Education.

@@ -230,6 +230,23 @@ Calibrate with buffers of known pH; rinse the electrode with deionised water bet
 </figure>
 
 
+## Frequently asked questions
+
+**What is a buffer solution in OCR A Level Chemistry?**
+A buffer solution is a system that minimises pH changes on addition of small amounts of an acid or a base. Saying it "keeps the pH constant" is a common error.
+
+**How does blood control its pH?**
+The carbonic acid–hydrogencarbonate buffer, H₂CO₃ ⇌ H⁺ + HCO₃⁻, in blood plasma holds the pH between 7.35 and 7.45.
+
+**What are the two ways to make an acid buffer?**
+Mix a weak acid with its salt, such as CH₃COOH with CH₃COONa, or add a strong alkali to an excess of weak acid so that part of the acid becomes its conjugate base.
+
+**What happens to the pH when a strong acid is diluted 100 times?**
+[H⁺] falls by a factor of 100, so the pH rises by 2 for a strong monobasic acid.
+
+**Is a neutral solution always pH 7?**
+No. A neutral solution has equal [H⁺] and [OH⁻], which coincides with pH 7 only at 298 K.
+
 ## Official syllabus
 
 Source document: OCR A Level Chemistry A (code H432), specification Version 3.1 dated May 2026; first assessment 2017. These notes follow section 5.1.3 Acids, bases and buffers, in Module 5: Physical chemistry and transition elements.

@@ -225,6 +225,17 @@ The two models answer different questions. Five Forces asks how hard it is to ea
 - Calling any low-priced firm a cost leader. Cost leadership means low costs, not just low prices.
 - Ending an evaluation without a judgement tied to the case.
 
+## Frequently asked questions
+
+**What is the difference between cost focus and differentiation focus?**
+Both concentrate on a narrow segment, such as one age group, region or type of customer. Cost focus wins that segment through lower costs, while differentiation focus wins it through something customers value and will pay more for, such as quality or design.
+
+**Why is Five Forces often used alongside SWOT?**
+Five Forces describes the industry, not the business itself. A business's own strengths are a separate question, so the model is often combined with SWOT or the generic strategies in OCR A Level Business (H431) answers.
+
+**Can a business with a lower margin make more total profit?**
+Yes. A cost leader may earn a lower margin per unit than a differentiator but make a higher total gross profit by selling a much larger volume, so neither strategy is automatically better.
+
 ## Next steps
 
 Use the [revision notes](/resources/ocr-a-level-business-models-of-strategic-choice-revision-notes/), the [practice questions](/resources/ocr-a-level-business-models-of-strategic-choice-practice/) and the [checklist](/checklists/ocr/a-level/business/).

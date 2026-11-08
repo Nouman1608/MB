@@ -12,11 +12,23 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "commercial-operations-0715"
-description: "Condensed recall notes on commercial enterprises, outsourcing, retailing, wholesaling, trading documents and communication for Topic 2 of Cambridge IGCSE Commerce (0715), exams from 2028."
+  - qualification: "igcse"
+    topic: "commercial-operations-0715"
+    subtopic: "commercial-enterprises-0715"
+  - qualification: "igcse"
+    topic: "commercial-operations-0715"
+    subtopic: "outsourcing-0715"
+  - qualification: "igcse"
+    topic: "commercial-operations-0715"
+    subtopic: "retailing-0715"
+  - qualification: "igcse"
+    topic: "commercial-operations-0715"
+    subtopic: "trading-documents-0715"
+description: "Recall notes for Cambridge IGCSE Commerce 0715 Topic 2, exams from 2028: ownership types, outsourcing, retail, wholesale, trading documents and communication."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -142,6 +154,20 @@ materials). Ecommerce: wi-fi, warehousing (or technology specialists, logistics)
 flexible opening hours, additional services provided (the syllabus's own three examples — convenience
 and local knowledge of customers are legitimate further examples). 4. Enquiry, quotation, order,
 invoice. 5. Urgency, cost, security, distance, availability of networks, importance of the message.
+
+## Frequently asked questions
+
+**What is the order of trading documents in a home trade transaction?**
+The sequence is enquiry, quotation, order, invoice, delivery note, credit note if goods are returned, statement of account and receipt.
+
+**What is the difference between a retailer and a wholesaler?**
+A retailer sells to the final consumer. A wholesaler sells to the retailer, breaking bulk by buying large quantities and selling smaller ones.
+
+**How do you calculate mark-up percentage in Cambridge IGCSE Commerce?**
+Mark-up is the selling price minus the unit cost, divided by the unit cost, then multiplied by 100 as a separate final step. For example, a cost of $40 and a price of $50 gives a 25% mark-up.
+
+**Why do small-scale retailers survive?**
+The syllabus's examples are personal service, flexible opening hours and additional services provided. Convenience and local knowledge of customers are further valid reasons.
 
 ## Official syllabus
 

@@ -12,11 +12,11 @@ order: 8
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-eassessment-structure"
-description: "Original practice questions with full worked answers on the discrete/modular/integrated course models, eAssessment content scope, and revision-planning strategy, for IB MYP Sciences."
+description: "Original IB MYP Sciences practice questions with worked answers on discrete, modular and integrated course models, eAssessment scope and revision weighting."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -89,6 +89,20 @@ Related: [Course Models study guide](/resources/ib-myp-sciences-course-models/) 
 **7.** The key concepts (change, relationships, systems) and the investigation-skills task are framed at a level of generality that does not depend on which specific disciplines a piece of content came from or how it was sequenced -- designing a fair test, forming a hypothesis, collecting and interpreting data, and evaluating a method's limitations are the same underlying skills whether the investigation happens to be framed in a biology, chemistry or physics context. A discrete-model student who studied biology as a standalone subject and an integrated-model student who studied the same content blended with chemistry and physics topics can both be given an investigation task -- for example, designing an experiment to test how a variable affects a plant's growth rate -- and both would be assessed against exactly the same investigation-skills criteria, since the skill of designing and evaluating that specific investigation does not depend on how the surrounding curriculum happened to be packaged. **[6]**
 
 **8.** Course model (discrete, modular, integrated) describes how the school taught and sequenced the content across the year, while the eAssessment option (biology, chemistry, physics, integrated sciences) describes which specific on-screen examination the student will actually sit. These are genuinely separate questions because a school's teaching structure does not automatically determine the examination option -- for example, a school could plausibly teach content in a modular sequence across three discrete sciences but still enter students for the integrated sciences eAssessment option, or vice versa. Getting the course model wrong could lead a student to organise revision around the wrong unit boundaries (assuming content was taught in isolated blocks when it was blended, or vice versa); getting the eAssessment option wrong could lead a student to prepare for the wrong specific examination content scope entirely. Confirming both separately and explicitly, rather than assuming one determines the other, avoids revision being targeted at the wrong structure, the wrong content scope, or both. **[6]**
+
+## Frequently asked questions
+
+**Are these official IB MYP Sciences exam questions?**
+No. They are original practice questions with full worked answers, written to test understanding of course models, eAssessment options and how to plan revision.
+
+**What topics can appear in the MYP Sciences on-screen examination?**
+The examinations can draw on topics including atomic structure and bonding, cells, cycles, electromagnetism, evolution, interactions between organisms, forces, states and properties of matter, metabolism, organisms and waves.
+
+**What related concepts does MYP Sciences use?**
+Related concepts in MYP Sciences include energy, movement, transformation and models. They sit under the key concepts of change, relationships and systems and give a common thread across different course models.
+
+**How should I check my answers to scenario questions on course models?**
+Compare your answer with the worked answer, checking that you have explained why the student's assumption is wrong and described what they should do instead. Stating only the correct fact usually earns part of the credit.
 
 ## Official syllabus
 

@@ -28,11 +28,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-1-8"
 description: "12 original IB DP Maths AA questions on sequences, series, compound interest and sums to infinity, with mark-by-mark worked answers and examiner insights."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -69,7 +69,7 @@ Learn the methods first in the [study guide](/resources/ib-dp-mathematics-aa-seq
 **(b)** Find u₁. **[1]**
 **(c)** Explain why the sum to infinity exists, and find it. **[3]**
 
-**6.** (calculator-free) Consider the geometric series 1 + (2x − 1) + (2x − 1)² + …
+**6.** (calculator-free) Consider the geometric series 1 + (3x − 2) + (3x − 2)² + …
 
 **(a)** Find the set of values of x for which the series converges. **[2]**
 **(b)** Given that the sum to infinity is 4, find x. **[3]**
@@ -135,8 +135,8 @@ Learn the methods first in the [study guide](/resources/ib-dp-mathematics-aa-seq
 **(c)** |r| = 1/2 < 1, so the series converges [1]. S∞ = −96/(1 − (−1/2)) [1] = −96/(3/2) = **−64** [1]
 *Examiner insight:* "Explain why" needs the statement |r| < 1 with the value of r; writing "because r is small" does not earn the reasoning mark.
 
-**6. (a)** |2x − 1| < 1 [1], so −1 < 2x − 1 < 1, giving **0 < x < 1** [1]
-**(b)** 1/(1 − (2x − 1)) = 4 [1]; 1/(2 − 2x) = 4, so 2 − 2x = 1/4 [1]; **x = 7/8**, which lies in 0 < x < 1 [1]
+**6. (a)** |3x − 2| < 1 [1], so −1 < 3x − 2 < 1, giving **1/3 < x < 1** [1]
+**(b)** 1/(1 − (3x − 2)) = 4 [1]; 1/(3 − 3x) = 4, so 3 − 3x = 1/4 [1]; **x = 11/12**, which lies in 1/3 < x < 1 [1]
 *Examiner insight:* Non-strict inequalities (0 ≤ x ≤ 1) lose the accuracy mark in (a), because the series diverges at both end points.
 
 **7. (a)** The differences are 26, 23, 28, 23, which are not constant, so the sequence is not exactly arithmetic [1]
@@ -191,6 +191,20 @@ Learn the methods first in the [study guide](/resources/ib-dp-mathematics-aa-seq
 - Plan your final weeks: [IB DP Maths AA exam preparation guide](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/)
 - Check other subjects with [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Can you write calculator notation like 1.8E−3 as an answer in IB Maths?**
+No. Calculator notation is not acceptable; write it as 1.8 × 10⁻³. An answer such as 18 × 10⁻⁴ is also not in the required form, because a must satisfy 1 ≤ a < 10.
+
+**How do you count the terms in a sigma sum?**
+The number of terms is the top limit minus the bottom limit plus 1. Miscounting is common when the lower limit is not 1, for example a sum from r = 5 to r = 20 has 16 terms, not 15.
+
+**How do you answer "least n" questions for a series?**
+Write the inequality using the S_n formula, solve it with logs or as a quadratic, or use a GDC table, then round up to the next whole number. Check the values of S_n either side.
+
+**What should you write down when using a GDC for sequences in IB Maths AA?**
+The IB DP Mathematics: Analysis and Approaches guide expects you to identify the first term and the common difference or ratio when you use technology, so write u₁ and d, or u₁ and r, before using a sequence or TVM tool.
 
 ## Official syllabus
 

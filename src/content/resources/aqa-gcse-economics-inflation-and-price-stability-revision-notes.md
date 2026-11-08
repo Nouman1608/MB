@@ -16,9 +16,9 @@ syllabusTopics:
     subtopic: "inflation-and-price-stability-aqa-gcse-economics"
 description: "Condensed AQA GCSE Economics revision notes for 3.2.2.4: inflation, CPI calculations, index numbers, real and nominal values, causes, effects and policies."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-05
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-11-05."
 publishedDate: 2026-11-05
 featured: false
 ---
@@ -141,6 +141,23 @@ Low, stable inflation helps everyone plan. **Deflation** can also cause harm: pe
 - Saying "everyone loses" from inflation, with no named group.
 - Mixing up cost-push and demand-pull, or giving the wrong policy for the cause.
 - Forgetting real values: a pay rise is not a gain if prices rise faster.
+
+## Frequently asked questions
+
+**How is inflation measured in the UK?**
+By the Consumer Price Index, published monthly by the ONS. It records the prices of a weighted basket of several hundred goods and services and compares the index with the same month a year earlier.
+
+**Does lower inflation mean prices are falling?**
+No. If inflation falls from 6% to 3%, prices are still rising, only more slowly. Prices fall only when there is deflation.
+
+**What is the difference between cost-push and demand-pull inflation?**
+Cost-push inflation comes from rising costs, such as wages, raw materials or energy, that firms pass on in prices. Demand-pull inflation comes from total demand rising faster than the economy can produce.
+
+**Who loses from inflation?**
+Savers lose when interest rates are below inflation, people on fixed incomes lose purchasing power, and workers lose if pay rises more slowly than prices. Borrowers tend to gain.
+
+**Are index points the same as percentages?**
+Only if the starting value is 100. A rise from 130.0 to 133.9 is 3.9 index points but a 3% rise.
 
 ## Official syllabus
 

@@ -258,6 +258,23 @@ The price signals what is scarce or plentiful and gives producers and consumers 
 - Calculating a percentage change on the new figure instead of the original.
 - Giving a factor with no chain, such as "technology" with no link to costs and supply.
 
+## Frequently asked questions
+
+**What is the difference between a change in demand and a change in quantity demanded?**
+A change in the good's own price causes a change in quantity demanded, shown as a movement along the same demand curve. A change in any other factor, such as income or advertising, causes a change in demand, shown as a shift of the whole curve.
+
+**What shifts the supply curve in Edexcel IGCSE Economics?**
+The Edexcel International GCSE Economics (4EC1) specification lists costs of production, technology, indirect taxes, subsidies and natural factors. An indirect tax shifts supply up and to the left, while a subsidy shifts it down and to the right.
+
+**What happens to price and quantity when demand and supply both shift?**
+Only one result is certain, and the other depends on which shift is bigger. If demand and supply both increase, quantity certainly rises but the effect on price is unclear; if demand rises and supply falls, price certainly rises but quantity is unclear.
+
+**How does a substitute differ from a complement?**
+A substitute is a rival good that meets the same need, so a rise in its price raises demand for this good. A complement is used together with this good, so a rise in its price lowers demand for this good.
+
+**Does equilibrium mean the price is fair?**
+No. Equilibrium is the price at which buyers' and sellers' plans match exactly, so there is no pressure for the price to change. It says nothing about whether the price is fair.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1) specification, Issue 3, February 2026, for first teaching September 2017, published by Pearson Education Limited, section 1.1.3.

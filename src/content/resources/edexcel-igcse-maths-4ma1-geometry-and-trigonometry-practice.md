@@ -39,11 +39,11 @@ syllabusTopics:
     subtopic: "trigonometry-and-pythagoras-theorem-edexcel-igcse-maths"
 description: "Twelve original 4MA1 questions on angles, polygons, bearings, measures, circle theorems, sine and cosine rules and 3D trig, with worked answers."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -197,6 +197,20 @@ Learn the content first in the [study guide](/resources/edexcel-igcse-maths-4ma1
 - Using AB instead of TB in the external intersecting-chords result (Higher).
 - Rounding intermediate lengths too early in cosine rule and sine rule questions (Higher).
 - Choosing the wrong right-angled triangle for the angle between a line and a plane (Higher).
+
+## Frequently asked questions
+
+**How do you give reasons in an Edexcel IGCSE Maths angle question?**
+Write the angle fact in standard words next to each step, such as "alternate angles are equal" or "angles on a straight line add up to 180°". Naming letter shapes such as "Z angles" is not accepted as a reason, and if you used two properties you should state both.
+
+**Why are bearings always written with three figures?**
+Bearings are measured clockwise from north and written with three figures, so a bearing of 70° is written 070°. Writing fewer than three figures, or measuring anticlockwise, can cost the mark.
+
+**When should you round in a sine rule or cosine rule question?**
+Keep full calculator values for intermediate lengths and angles and round only the final answer. Rounding too early can make the final answer fall outside the accepted range.
+
+**Which circle theorems are Higher tier only in 4MA1?**
+The angle at the centre, the angle in a semicircle, angles in the same segment, opposite angles of a cyclic quadrilateral, the alternate segment theorem and the intersecting chords results are Higher tier only. The tangent, equal tangents and perpendicular-to-a-chord facts are on both tiers.
 
 ## Next steps
 

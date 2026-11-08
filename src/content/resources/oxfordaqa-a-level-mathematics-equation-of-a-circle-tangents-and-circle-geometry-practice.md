@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-psm1-pp1-pure-maths-oxfordaqa-alevel-maths"
     subtopic: "pp1-circle-oxfordaqa-alevel-maths"
-description: "Eleven original practice questions with worked answers on circle equations, translations, chords, tangents and normals for OxfordAQA 9660."
+description: "Eleven original practice questions with fully worked answers on circle equations, translations, chords, tangents and normals for OxfordAQA 9660."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -150,6 +150,20 @@ These questions cover content area PP1.1 (Circle) of the OxfordAQA International
 - Return to the [OxfordAQA A-level Mathematics hub](/boards/oxfordaqa/a-level/mathematics/) or print the [checklist](/checklists/oxfordaqa/a-level/mathematics/).
 - Take any of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Which OxfordAQA unit covers the equation of a circle?**
+Content area PP1.1, Circle, of the OxfordAQA International AS and A-level Mathematics (9660) specification covers circle equations, translations, chords, tangents and normals. It is part of International AS Unit PSM1.
+
+**What is the most common mistake when reading the centre of a circle from its equation?**
+Getting the sign wrong. In (x − a)² + (y − b)² = r², the centre is (a, b), so (x + 3)² gives an x-coordinate of −3.
+
+**What should you do first when the x² and y² coefficients are not 1?**
+Divide the whole equation by the common coefficient before completing the square. Otherwise the completed squares, and so the centre and radius, will be wrong.
+
+**What happens to a circle under a translation?**
+Add the translation vector to the centre and keep the radius the same. Moving the centre in the wrong direction or changing the radius are common errors.
 
 ## Official syllabus
 

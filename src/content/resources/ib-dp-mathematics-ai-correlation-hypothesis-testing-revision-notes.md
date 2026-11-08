@@ -22,11 +22,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-4-11"
 description: "Condensed revision notes on r, rₛ, regression, χ² tests and the t-test, with a quick self-test, for IB DP Mathematics: Applications and Interpretation."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 For full explanations and worked examples, read the [study guide for this unit](/resources/ib-dp-mathematics-ai-correlation-hypothesis-testing/) first.
@@ -246,6 +246,20 @@ Conclusion: there is evidence that Method A gives a higher mean score. If the qu
 - Comparing the p-value with the critical value, or χ²calc with the significance level.
 - Choosing a two-tailed alternative when the question asks whether one mean is higher.
 - Stating the decision ("reject H₀") without a sentence in the context of the question.
+
+## Frequently asked questions
+
+**How do you calculate degrees of freedom for a χ² test in IB Maths AI?**
+For a χ² test for independence, df = (rows − 1)(columns − 1). For a goodness of fit test at SL, df = n − 1, where n is the number of categories.
+
+**How do you find an expected frequency in a χ² test for independence?**
+Multiply the row total by the column total and divide by the grand total. The IB Maths AI guide states that expected frequencies in exam questions are greater than 5.
+
+**When do you reject the null hypothesis?**
+Reject H₀ if the p-value is less than the significance level, or if χ²calc is greater than the given critical value. Then state the conclusion in context, because that final sentence carries a mark.
+
+**Which t-test is used in IB Maths AI SL?**
+At SL the samples are unpaired and the population variance is unknown, so you assume equal variances and use the pooled two-sample t-test, found with technology. The populations are assumed to be normal.
 
 ## Official syllabus
 

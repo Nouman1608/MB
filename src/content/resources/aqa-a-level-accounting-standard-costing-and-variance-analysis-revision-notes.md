@@ -234,6 +234,20 @@ ignores non-financial factors such as quality.
 - Treating each variance in isolation when the data show a clear link.
 - Listing advantages and disadvantages with no judgement for the business in the question.
 
+## Frequently asked questions
+
+**Which AQA 7127 paper examines standard costing?**
+Section 3.11 Standard costing and variance analysis is examined on Paper 2 of AQA A-Level Accounting 7127.
+
+**Should standard quantity be based on budgeted or actual output?**
+Standard quantity and standard hours are always calculated for the actual output, not the budgeted output.
+
+**What does a favourable variance mean?**
+A favourable (F) variance increases profit, because a cost is below standard or revenue is above budget. An adverse (A) variance reduces profit.
+
+**Why can variances be linked?**
+One cause can create variances in opposite directions. For example, cheaper, lower-grade material can give a favourable price variance but an adverse usage variance, so variances should not be treated in isolation when the data show a link.
+
 ## Official syllabus
 
 AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019

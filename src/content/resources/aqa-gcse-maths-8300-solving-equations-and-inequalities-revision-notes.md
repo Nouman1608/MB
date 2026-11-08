@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "algebra-aqa-gcse-maths"
     subtopic: "solving-equations-and-inequalities-aqa-gcse-maths"
-description: "Condensed AQA GCSE Maths 8300 revision notes on solving equations and inequalities (A17-A22), with method steps, a self-test and answers."
+description: "Condensed AQA GCSE Maths 8300 revision notes on solving equations and inequalities (A17-A22), with method steps, a self-test and full answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
 featured: false
@@ -300,6 +300,20 @@ x = 1, y = -1   and   x = 4, y = 2
 - Using a closed circle or solid line for a strict inequality.
 - Giving a context answer as "x = 5" without saying what 5 measures.
 - Rejecting nothing when one root is a negative length.
+
+## Frequently asked questions
+
+**How do you write the answer to a quadratic inequality?**
+Find the roots and sketch the parabola. For less than 0 the answer lies between the roots as one inequality; for greater than 0 it lies outside the roots and needs two inequalities. This is Higher tier content.
+
+**When do you use an open or closed circle on a number line?**
+Use an open circle for a strict inequality (< or >), where the boundary value is not included, and a closed circle for ≤ or ≥.
+
+**How do you use iteration to solve an equation?**
+Rearrange the equation into the form x = g(x), substitute the starting value, and feed each answer back into the formula. Write every iterate to at least 4 decimal places and do not round part-way through.
+
+**How do you show a root lies between two values?**
+Substitute both values into the function and show the results have opposite signs. A change of sign means a root lies between them.
 
 ## Official syllabus
 

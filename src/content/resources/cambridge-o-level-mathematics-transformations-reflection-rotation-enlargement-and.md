@@ -230,6 +230,20 @@ Two reflections in parallel lines give a translation. Reflecting (0, 0) in x = 1
 - Mixing up the sign of a translation vector. Moving left or down gives a negative component.
 - Drawing sloping edges freehand. The syllabus says a ruler must be used for all straight edges.
 
+## Frequently asked questions
+
+**What do you need to describe each transformation fully?**
+A reflection needs the mirror line as an equation, a rotation needs its centre, angle and direction, an enlargement needs its centre and scale factor, and a translation needs a column vector.
+
+**Can you describe a single transformation using two transformation words?**
+No. When a question asks for a single transformation, give one transformation name only; an answer such as reflection and translation is not a full answer.
+
+**How do you rotate a shape about a point that is not the origin?**
+Find each vertex's position relative to the centre, rotate that position, then add the centre back on.
+
+**Which part of the Cambridge 4024 syllabus covers transformations?**
+Transformations are section 7.1 of the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus, covering reflection, rotation, enlargement and translation.
+
 ## Official syllabus
 
 Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for 2025, 2026 and 2027, published by Cambridge University Press & Assessment (Cambridge International), section 7.1 Transformations.

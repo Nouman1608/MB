@@ -16,11 +16,11 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "organic-chemistry"
     subtopic: "polymers"
-description: "Condensed recall notes on addition and condensation polymerisation, nylon, PET, natural polymers and plastic pollution for Cambridge IGCSE 0620 and O Level 5070."
+description: "Recall notes on polymers for Cambridge IGCSE 0620 and O Level 5070: addition versus condensation, repeat units, nylon, PET, proteins and plastic disposal."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -34,7 +34,7 @@ Condensed for the final weeks. For the full explanation, use the
 > back, condensation polymers, nylon and PET, the differences between addition and condensation
 > polymerisation, recycling PET back to monomers, and proteins). 0620 Core is 11.8 outcomes 1–5: what a
 > polymer is, poly(ethene) made from ethene by addition polymerisation, plastics, and the disposal and
-> environmental problems of plastics. 5070 has no tiers, so O Level candidates need all of it.
+> environmental problems of plastics. 5070 has no tiers, so O Level candidates need all of it, except that 5070 has no separate outcome on making poly(ethene) from ethene: it is covered by the general skill of deducing an addition polymer from a given alkene.
 
 ## The two types *(0620 Extended, 5070 required)*
 
@@ -160,3 +160,16 @@ Proteins are natural **polyamides**, which is why nylon and protein share the �
   <figcaption>Plastics persist in landfill and oceans, burning gives toxic gases, and only some plastics like PET can be recycled to monomers.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between addition and condensation polymerisation?**
+Addition polymerisation joins unsaturated monomers with no other product. Condensation polymerisation joins monomers that each have two functional groups and gives off a small molecule, usually water, at each link.
+
+**What linkage do nylon and proteins have in common?**
+Both contain the amide linkage, –CONH–, which in proteins is called a peptide link. Proteins are natural polyamides made from amino acid monomers.
+
+**What monomers are used to make a polyester such as PET?**
+A dicarboxylic acid and a diol, which join by ester linkages (–COO–) with water lost at each link.
+
+**Why can PET be recycled back into its monomers?**
+Its ester linkages were formed by condensation, and that reaction can be reversed to recover the dicarboxylic acid and diol, which are then re-polymerised into new PET. Most addition polymers cannot be recycled this way.

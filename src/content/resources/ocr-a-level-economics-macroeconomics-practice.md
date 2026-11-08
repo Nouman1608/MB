@@ -12,13 +12,13 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "macroeconomics-ocr-alevel-economics"
-description: "Original exam-style practice questions with full worked answers on aggregate demand and supply, the multiplier, policy objectives, fiscal/monetary/supply-side policy, and exchange rates, for OCR A Level Economics (H460)."
+description: "Original practice questions with worked answers on AD/AS, the multiplier, the Phillips curve and policy conflicts for OCR A Level Economics H460 Component 2."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-04
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -108,3 +108,17 @@ that structure rather than setting several free-standing questions.
 ## Approaching macroeconomics questions
 
 For any question involving the multiplier, always calculate the full multiplied effect on national income rather than stopping at the initial injection figure, since the specification tests this calculation specifically because it is easy to underestimate the eventual scale of the effect. When a question involves a policy's effect on the economy, actively look for a second objective it might threaten even if the question does not explicitly ask for a conflict, since OCR's Component 2 papers reward this evaluative habit throughout section 3.4 and beyond. For exchange-rate questions, work through the causal chain explicitly in order — the policy change, its effect on the exchange rate, and then the resulting effect on trade or inflation — rather than jumping straight to a conclusion, since method marks are available for each correctly identified step. Finally, for the Section B and C essays specifically, always end with a judgement that weighs the specific circumstances described in the question — such as how much room interest rates have to fall, or the underlying cause of a downturn — rather than concluding with a generic restatement of both sides.
+
+## Frequently asked questions
+
+**How is the OCR A Level Economics macroeconomics paper structured?**
+The page describes Component 2 as having a compulsory data-response question in Section A worth about 30 marks, followed by one essay chosen from Section B and one from Section C, each worth 25 marks.
+
+**How do you calculate the national income multiplier?**
+The multiplier equals 1 divided by (1 minus the marginal propensity to consume). An injection is multiplied by this value to give the total change in national income, so answers should calculate the full multiplied effect rather than quote only the initial injection.
+
+**What is the difference between a shift of aggregate demand and a movement along it?**
+A change in the price level causes a movement along the AD curve. A change in any component of AD, such as consumption, investment, government spending or net exports, for a reason other than price shifts the whole curve.
+
+**What do you need for a high mark in a 25-mark macroeconomics essay?**
+Go beyond explaining: weigh how a policy helps one objective against the objective it might conflict with, and reach a clear judgement based on the specific circumstances in the question.

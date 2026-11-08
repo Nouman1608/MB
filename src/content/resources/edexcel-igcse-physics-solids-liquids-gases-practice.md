@@ -24,9 +24,9 @@ syllabusTopics:
     subtopic: "ideal-gas-molecules"
 description: "Original exam-style practice questions with full worked answers on density, pressure, the gas laws and specific heat capacity for Edexcel IGCSE Physics 4PH1."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -136,3 +136,14 @@ p₂ = 2.0 × 10⁵ × (500 ÷ 300) [1] = **3.3 × 10⁵ Pa** [1].
 - Saying particles themselves expand when a solid is heated, rather than the space between them increasing.
 
 Work through the [Solids, Liquids and Gases revision notes](/resources/edexcel-igcse-physics-solids-liquids-gases-revision-notes/) alongside these questions: the notes summarise the particle model, the gas laws and the pressure formulas in condensed form, while these questions test whether you can apply them to a specific, unfamiliar situation such as a dam wall or a heated rod, rather than just recall the definition.
+
+## Frequently asked questions
+
+**Are these Edexcel IGCSE solids, liquids and gases questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official past papers from Pearson Edexcel.
+
+**Which real past paper question can I try next?**
+Try Pearson Edexcel International GCSE Physics 4PH1, June 2024, Paper 1PR, Question 11, whose mark scheme is paraphrased on this page.
+
+**How should I use the revision notes with these questions?**
+The revision notes summarise the particle model, the gas laws and the pressure formulas in condensed form. These questions then test whether you can apply them to an unfamiliar situation rather than just recall a definition.

@@ -13,13 +13,13 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "criminal-law-7162"
     subtopic: "general-elements-of-liability-7162"
-description: "Actus reus, mens rea, strict liability and the coincidence of actus reus and mens rea -- 3.2.3 General Elements of Liability, the foundational content of AQA A-Level Law (7162)'s Criminal Law section."
+description: "Actus reus, mens rea, causation, transferred malice, strict liability and coincidence: 3.2.3 General Elements of Liability for AQA A Level Law 7162."
 author: "marlbridge-academic-team"
-reviewer: "aizaz-raoof-ali"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
 ---
 
 This guide covers **General Elements of Liability**, part of Section
@@ -152,6 +152,20 @@ short scenario questions.
 
 [General Elements of Liability revision notes](/resources/aqa-a-level-law-criminal-liability-revision-notes/) |
 [General Elements of Liability practice questions](/resources/aqa-a-level-law-criminal-liability-practice/)
+
+## Frequently asked questions
+
+**What is the difference between actus reus and mens rea?**
+Actus reus is the guilty act: conduct, normally voluntary, with any required consequence and causation. Mens rea is the guilty mind, the defendant's state of mind at the time of the act. In AQA A Level Law 7162, most offences need both.
+
+**What is the coincidence of actus reus and mens rea?**
+It is the requirement that the guilty act and the guilty mind must generally be present at the same time. It is often tested in scenarios where the defendant's state of mind occurs at a different moment from the act.
+
+**What is transferred malice?**
+Transferred malice allows mens rea intended towards one victim to transfer to an unintended victim who suffers the same type of harm. It does not apply where the harm caused is of a different type.
+
+**What is the difference between intention and subjective recklessness?**
+Intention is the defendant's aim or purpose, or foreseeing a consequence as virtually certain. Subjective recklessness is when the defendant personally foresaw a risk and unreasonably took it anyway.
 
 ## Official syllabus
 

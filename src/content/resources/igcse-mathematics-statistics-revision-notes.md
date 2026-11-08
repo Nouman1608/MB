@@ -31,14 +31,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "statistics-cambridge-igcse-maths"
     subtopic: "histograms-cambridge-igcse-maths"
-description: "Condensed recall notes on classifying data, averages, statistical charts, scatter diagrams, cumulative frequency and histograms for Cambridge IGCSE Mathematics 0580."
+description: "Recall notes on data types, tally and two-way tables, averages, charts, scatter diagrams, cumulative frequency and histograms for Cambridge IGCSE Maths 0580."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 Condensed for the final weeks. Pair these notes with the [Statistics
@@ -203,6 +203,19 @@ Even though the second class has a higher frequency, its frequency density is lo
   <figcaption>With unequal class widths the bar height is frequency density, and the bar area equals the frequency.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Which average is least affected by an outlier?**
+The median, because it depends only on the middle value. The mean is affected by every value, including extreme ones.
+
+**How do you estimate the mean of grouped data?**
+Multiply each class midpoint by its frequency, add the results and divide by the total frequency. It is only an estimate because the exact values within each class are unknown.
+
+**How should a line of best fit be drawn?**
+Draw a single ruled line by eye that follows the trend of the points across the whole data set. Do not draw one on a scatter diagram showing zero correlation.
+
+**What is a two-way table?**
+A two-way table sorts data by two features at once, and every row and column total must add up. Missing cells can be found from the totals.
 
 ## Official syllabus
 

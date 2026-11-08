@@ -219,6 +219,23 @@ A transcription factor binds a specific DNA sequence. An activator helps RNA pol
 - Using different units in magnification.
 - Saying peptide hormones "enter the nucleus".
 
+## Frequently asked questions
+
+**How is body temperature controlled?**
+Thermoreceptors in the hypothalamus detect blood temperature, the hypothalamus coordinates the response, and effectors such as skin arterioles, sweat glands and skeletal muscles act to return temperature to the set point.
+
+**What is the difference between the hypothalamus and the effectors in thermoregulation?**
+The hypothalamus is the coordinator. The effectors are the skin arterioles, sweat glands and muscles that carry out the response.
+
+**Is ultrafiltration selective for useful substances?**
+No. Filtration in the glomerulus is by size; selective reabsorption of useful substances happens later, mainly in the proximal tubule.
+
+**How do you calculate percentage reabsorbed?**
+Percentage reabsorbed = (filtrate volume − urine volume) ÷ filtrate volume × 100.
+
+**What are examples of positive feedback?**
+Oxytocin and contractions in labour are an example of positive feedback, where the response increases the original change.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology (YBI11) specification, Issue 2, published by Pearson Education Limited.

@@ -12,13 +12,13 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "reproduction-and-inheritance-edexcel-igcse-biology"
-description: "Sexual and asexual reproduction in plants and humans, DNA and the genome, monohybrid inheritance, mitosis and meiosis, variation, mutation and natural selection -- Topic 3 of Pearson Edexcel International GCSE Biology (4BI1)."
+description: "Sexual and asexual reproduction, DNA, monohybrid inheritance, mitosis, meiosis, variation and natural selection, covering Topic 3 of Edexcel IGCSE Biology 4BI1."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Topic 3 Reproduction and Inheritance is one of five topics in Pearson
@@ -256,6 +256,20 @@ setting out a full genetic diagram for a cross every time rather than
 jumping to the answer, since marks are typically awarded for the
 working (parental genotypes, gametes, offspring genotypes and
 phenotypes with ratio) and not just the final probability.
+
+## Frequently asked questions
+
+**What is the difference between mitosis and meiosis?**
+Mitosis produces two genetically identical cells from one diploid cell and is used in growth, repair, cloning and asexual reproduction. Meiosis produces four genetically different haploid gametes, halving the chromosome number; in humans the diploid number is 46 and the haploid number is 23.
+
+**What is the difference between a genome and a gene?**
+The genome is an organism's entire DNA. A gene is a section of a DNA molecule that codes for a specific protein, and genes are found on chromosomes in the nucleus.
+
+**Which reproduction and inheritance content is Paper 2 only in Edexcel 4BI1?**
+Paper 2 content includes FSH and LH in the menstrual cycle, the structure of DNA as a double helix with paired bases, RNA, and the stages of protein synthesis.
+
+**Which bases pair together in DNA?**
+In DNA, adenine pairs with thymine and cytosine pairs with guanine. RNA is single-stranded and uses uracil instead of thymine.
 
 ## Official syllabus
 

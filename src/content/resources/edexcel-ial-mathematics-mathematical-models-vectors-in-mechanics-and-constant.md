@@ -299,6 +299,23 @@ The final speed is 4 m s⁻¹, but the velocity is −4 m s⁻¹.
 - Confusing speed with velocity, or distance with displacement.
 - Reading the gradient of a velocity-time graph as velocity.
 
+## Frequently asked questions
+
+**What does modelling an object as a particle mean?**
+A particle is a model in which all the mass is at a single point, so the object's size, shape and rotation are ignored.
+
+**How do you resolve a force into components?**
+Draw a right-angled triangle with the force as the hypotenuse. The component adjacent to the given angle is F cos θ and the opposite component is F sin θ, each with a sign taken from the diagram.
+
+**What value of g is used in Edexcel IAL Mechanics?**
+Vertical motion under gravity uses an acceleration of 9.8 m s⁻², taken as −9.8 if upwards is positive or +9.8 if downwards is positive. Keep the same positive direction for every quantity.
+
+**How do you deal with a journey that has more than one acceleration?**
+Split the motion into stages with constant acceleration in each, and use the final velocity of one stage as the initial velocity of the next. One suvat equation cannot be applied across a change of acceleration.
+
+**Which sections of Edexcel IAL Unit M1 does this guide cover?**
+It covers Unit M1 sections 1.1 (mathematical models), 2.1 and 2.2 (vectors in mechanics) and 3.1 (constant acceleration) of the Edexcel IAL Mathematics specification (YMA01).
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification, Issue 3, April 2019, Pearson Education Limited. This guide covers Unit M1: Mechanics 1, sections 1.1, 2.1, 2.2 and 3.1.

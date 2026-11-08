@@ -28,16 +28,16 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-5-18"
 description: "HL study guide for IB DP Maths AI differential equations: separation of variables, slope fields, Euler's method and phase portraits, worked in full."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 This study guide teaches the differential equations unit of IB Diploma Programme Mathematics: Applications and Interpretation. It is aligned to the IB *Mathematics: applications and interpretation guide*, first assessment 2021, syllabus sections 5.14–5.18, and all of it is HL only (AHL). It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 HL sessions.
 
-All three HL papers are "technology required" in the guide's assessment outline: Paper 1 (120 minutes), Paper 2 (120 minutes) and Paper 3 (60 minutes). You still need to show your method, because method marks are given for working, not for a bare GDC value.
+All three HL papers are "technology required" in the guide's assessment outline: Paper 1 (120 minutes), Paper 2 (120 minutes) and Paper 3 (1 hour 15 minutes in current sessions). You still need to show your method, because method marks are given for working, not for a bare GDC value.
 
 When you have worked through this guide, condense it with the [revision notes](/resources/ib-dp-mathematics-ai-hl-differential-equations-revision-notes/) and test yourself with the [practice questions](/resources/ib-dp-mathematics-ai-hl-differential-equations-practice/). The [IB DP Maths AI course hub](/boards/ib/ib-dp/mathematics-applications-and-interpretation/) and the [printable syllabus checklist](/checklists/ib/ib-dp/mathematics-applications-and-interpretation/) show where this unit sits. For the whole course, see the [AI syllabus guide](/resources/ib-dp-mathematics-applications-and-interpretation-syllabus-guide/) and the [AI subject guide](/resources/ib-dp-mathematics-applications-and-interpretation-subject-guide/).
 
@@ -333,6 +333,20 @@ For d²x/dt² + 4x = 0, M = [0 1; −4 0] and λ = ±2i. The phase portrait is a
 - Condensed recall: [differential equations revision notes](/resources/ib-dp-mathematics-ai-hl-differential-equations-revision-notes/)
 - Exam-style practice: [differential equations practice questions](/resources/ib-dp-mathematics-ai-hl-differential-equations-practice/)
 - Planning your final weeks: [AI exam preparation guide](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/)
+
+## Frequently asked questions
+
+**Are differential equations in IB Maths AI SL?**
+No. Syllabus sections 5.14–5.18 on differential equations, slope fields, Euler's method and phase portraits are HL only (AHL) in IB DP Maths AI.
+
+**How do you set up a differential equation from words?**
+Turn the description into a rate statement. "The rate of growth of G is proportional to G" becomes dG/dt = kG, with k positive for growth and negative for decay.
+
+**Does a smaller step length make Euler's method more accurate?**
+Usually, yes. Euler's method is an approximation that steps along the slope field, and a smaller step length h generally gives an estimate closer to the true value.
+
+**What prior knowledge do phase portraits need in IB Maths AI HL?**
+Section 5.17 builds on eigenvalues and eigenvectors of 2 × 2 matrices from AHL 1.15. You use the eigenvalues of the system's matrix to classify the phase portrait.
 
 ## Official syllabus
 

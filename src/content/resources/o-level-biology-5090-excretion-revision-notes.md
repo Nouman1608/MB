@@ -271,6 +271,20 @@ Short model answers you can adapt. Each line is one separate point.
 - Explaining the need for excretion with vague words like "harmful waste" without naming **urea** as **toxic**.
 - Giving a fold-change as a subtraction (15 − 0.25) instead of a division (15 ÷ 0.25).
 
+## Frequently asked questions
+
+**What is the route of fluid through a nephron?**
+Fluid passes from the Bowman's capsule into the first coiled part of the tubule, then the loop of Henle, then the second coiled part and into the collecting duct. Placing the collecting duct before the loop of Henle is a common error.
+
+**Why must urea be excreted?**
+Urea is toxic, so it must be removed from the body. Answering "to remove waste" without saying urea is toxic does not earn the mark.
+
+**Do the kidneys make urea?**
+No. The liver makes urea by deamination of excess amino acids, and the kidneys excrete it in urine.
+
+**What is the difference between excretion and egestion?**
+Excretion removes toxic materials and waste products of metabolism made by the body. Egestion removes undigested food as faeces, so faeces are not an excretory product.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 13: Excretion (13.1 Excretion; 13.2 Urinary system), published by Cambridge Assessment International Education.

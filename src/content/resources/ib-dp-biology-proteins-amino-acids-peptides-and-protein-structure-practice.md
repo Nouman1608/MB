@@ -171,6 +171,20 @@ Study first with the [study guide](/resources/ib-dp-biology-proteins-amino-acids
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which parts of IB DP Biology B1.2 Proteins are HL only?**
+Statements B1.2.6 to B1.2.12 are HL only, covering R-group properties, the primary, secondary, tertiary and quaternary levels of structure, globular and fibrous proteins, and conjugated proteins.
+
+**How many peptide bonds are in a chain of n amino acids?**
+An unbranched chain of n amino acids has n − 1 peptide bonds, and the same number of water molecules is released when it forms; writing n bonds is a common slip.
+
+**Does denaturation break peptide bonds?**
+No. Denaturation breaks weaker interactions such as hydrogen and ionic bonds, so the protein unfolds and loses its shape, but peptide bonds stay intact and the primary structure is unchanged.
+
+**How many different peptides can be made from 20 amino acids?**
+For a chain of n amino acids there are 20 to the power n possible sequences, so 400 dipeptides and 8000 tripeptides, because the order and length of chains can vary.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Topic B1.2 Proteins.

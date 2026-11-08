@@ -22,11 +22,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-3-16"
 description: "IB DP Maths AI HL graph theory study guide: graph terms, adjacency and transition matrices, MSTs, Chinese postman and TSP, with worked examples."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 This study guide teaches the graph theory unit of IB Diploma Programme Mathematics: Applications and Interpretation. It is aligned to the IB *Mathematics: applications and interpretation guide*, first assessment 2021, syllabus sections 3.14–3.16, and all of it is HL only (AHL). It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 HL sessions.
@@ -269,6 +269,20 @@ A GDC is required on all three HL papers. Use it for matrix powers (Aᵏ, and su
 - Checking only one pairing when there are four odd vertices; there are always three.
 - Calling a nearest neighbour total the "answer" to the TSP. It is only an upper bound.
 - Forgetting to convert to a table of least distances before running TSP algorithms.
+
+## Frequently asked questions
+
+**Is graph theory in the IB Maths AI SL syllabus?**
+No. Graph theory, sections 3.14–3.16 of the IB Maths AI guide, is HL only (AHL) and sits in the geometry and trigonometry topic.
+
+**Why is the number of odd vertices in a graph always even?**
+Each edge adds 2 to the total degree, so the sum of the degrees is twice the number of edges and must be even. That is only possible if the number of odd vertices is even.
+
+**What is a strongly connected graph?**
+A directed graph is strongly connected if you can travel from every vertex to every other vertex by following the arrows. Transition matrices for PageRank-style random walks are built on strongly connected graphs.
+
+**How many edges does a tree with n vertices have?**
+A tree with n vertices has n − 1 edges, so a minimum spanning tree of a network with n vertices also has n − 1 edges.
 
 ## Official syllabus
 

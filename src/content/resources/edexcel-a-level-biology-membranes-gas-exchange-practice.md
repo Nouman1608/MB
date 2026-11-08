@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "membranes-proteins-dna-and-gene-expression-edexcel-alevel-biology"
-description: "Original exam-style practice questions with full worked answers on Fick's Law, gas exchange surfaces, cell membrane structure, osmosis and membrane transport mechanisms for Pearson Edexcel International A-Level Biology (YBI11), outcomes 2.1-2.5."
+description: "Original practice questions with worked answers on Fick's Law, gas exchange, membrane structure, osmosis and membrane transport for Edexcel IAL Biology YBI11."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-03
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -107,3 +107,17 @@ Related: [Gas Exchange Surfaces, Membranes and Osmosis study guide](/resources/a
 ## Approaching "explain using Fick's Law" questions
 
 Whenever a question describes a change to a gas exchange surface — thickening, damage, disease, or a structural difference between species — the mark scheme rewards identifying which of the three named variables (surface area, concentration difference, diffusion distance) has changed, stating whether that variable has increased or decreased, and only then concluding what happens to the rate. Jumping straight to "the rate decreases" without naming the variable and its position in the equation (numerator or denominator) is the single most common way marks are lost on this outcome, even when the final conclusion is correct.
+
+## Frequently asked questions
+
+**Which part of the Edexcel specification do these questions cover?**
+They cover outcomes 2.1 to 2.5 of Pearson Edexcel International A Level Biology (YBI11): gas exchange surfaces, membranes, osmosis and transport.
+
+**How should you use Fick's Law in an exam answer?**
+Name the variable in Fick's Law that has changed, such as surface area or diffusion distance, and say how it changes the rate of diffusion.
+
+**What should you link a named structure to?**
+Link it to a specific Fick's Law variable, rather than to "gas exchange" in general.
+
+**Are these Edexcel past paper questions?**
+No. They are original exam-style questions with full worked answers. Use them alongside official Pearson Edexcel past papers.

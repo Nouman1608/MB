@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "ecology-and-the-environment-edexcel-igcse-biology"
 description: "Study guide for Edexcel IGCSE Biology 4BI1 Topic 4: quadrats, food chains, energy transfer, carbon and nitrogen cycles and human impacts."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This study guide teaches Topic 4, **Ecology and the environment** (specification points 4.1–4.18), of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3. The qualification is untiered. Points with a **B** reference (4.3B, 4.4B, 4.11B and 4.18B) are bold in the specification and are examined on Paper 2 only; everything else can appear on either paper. It applies to the June and November series examined under Issue 3.
@@ -352,6 +352,23 @@ The Sun's radiation passes through the atmosphere and warms the Earth's surface.
 ## Next steps
 
 Condense this with the [revision notes](/resources/edexcel-igcse-biology-4bi1-ecology-and-the-environment-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-igcse-biology-4bi1-ecology-and-the-environment-practice/). To find which Biology topics need the most work, try the [free diagnostics](/diagnostics/).
+
+## Frequently asked questions
+
+**What is the difference between a population, a community, a habitat and an ecosystem?**
+A population is all the organisms of one species in an area, a community is all the populations of different species, a habitat is where an organism lives, and an ecosystem is a community together with its physical environment.
+
+**How is carbon cycled in an ecosystem?**
+Photosynthesis removes carbon dioxide from the air, feeding passes carbon compounds to animals, respiration and decomposition return carbon dioxide, and combustion of fossil fuels and wood releases more.
+
+**Is energy recycled in an ecosystem?**
+No. Substances such as carbon and nitrogen compounds are recycled, but energy flows through and is eventually lost as heat.
+
+**What are the steps of eutrophication?**
+Nitrates and phosphates enter water, algae grow rapidly and block light, plants below die, decomposing bacteria feed on dead matter and use up dissolved oxygen, and fish and other aerobic organisms die.
+
+**What are the effects of deforestation in Edexcel 4BI1?**
+Leaching of mineral ions, soil erosion, reduced evapotranspiration, less carbon dioxide removed from the air and changes to atmospheric gases. This is Paper 2 only content.
 
 ## Official syllabus
 

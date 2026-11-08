@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "global-challenges-ocr-gcse"
     subtopic: "beyond-earth-ocr-gcse"
-description: "Original practice questions with worked answers on red-shift, the Big Bang, CMBR and star formation for OCR GCSE Physics A (J249)."
+description: "Original practice questions with worked answers on red-shift, the expanding universe, the Big Bang, CMBR and star formation for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
@@ -148,6 +148,23 @@ Statement 2: Microwaves arrive at Earth from all directions with almost the same
 - [Printable checklist](/checklists/ocr/gcse/physics/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**What do these OCR GCSE Physics A red-shift questions cover?**
+They cover topic P8.3 Beyond Earth, statements P8.3a to P8.3c, of OCR GCSE (9-1) Physics A (J249): red-shift, evidence for an expanding universe, the Big Bang model, CMBR and the formation of stars.
+
+**How do I describe red-shift for full marks?**
+Name both changes and their directions: the observed wavelength is longer and the observed frequency is lower than the values emitted. Saying only that the light "goes red" describes colour, not the wave.
+
+**What does red-shift show about a galaxy?**
+It shows that the galaxy is moving away from us, not simply that it is far away. Linking a bigger shift to a faster recession is part of a strong answer.
+
+**How should I answer a question using a table of galaxies?**
+Describe the pattern between distance and red-shift or recession speed, and quote values from the table to support it. Giving the pattern with no figures loses marks.
+
+**What do examiners look for in an answer about star equilibrium?**
+Name the inward effect, gravity, and the outward effect, with the reason: fusion in the core releases energy that heats the gas and makes it expand. Writing only "gravity and fusion balance" is not enough.
 
 ## Official syllabus
 

@@ -141,6 +141,23 @@ Related: [Study guide](/resources/ocr-gcse-physics-series-and-parallel-circuit-c
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these OCR GCSE Physics A circuit questions cover?**
+They cover learning outcomes P3.2i to P3.2m of OCR GCSE (9-1) Physics A (J249): net resistance in series and parallel, circuit calculations, measurement and testing circuits, and electrical power and energy.
+
+**What p.d. do I use for one resistor in a series circuit?**
+Use that resistor's own share of the p.d., found from V = IR with the circuit current. Using the full supply p.d. across one resistor in a series chain is a common mistake.
+
+**How should I work out a parallel circuit?**
+Write the supply p.d. across every branch, find each branch current, and add them to get the supply current. Adding the branch resistances together gives the wrong answer.
+
+**What unit mistakes happen in power and energy questions?**
+Forgetting to convert minutes or hours to seconds in E = P × t, and giving power in joules or energy in watts. Power is in W and energy is in J or kW h.
+
+**Why do explanations that say "current is used up" lose marks?**
+The current is the same all the way round a series loop, so it is not used up. Explain changes in net resistance using the number of paths and the size of the current instead.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), first assessment in 2018, published by OCR. Learning outcomes P3.2i to P3.2m.

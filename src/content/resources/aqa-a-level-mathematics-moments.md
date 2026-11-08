@@ -252,6 +252,23 @@ Notice the distances. The weight acts vertically, so its perpendicular distance 
 - Using F = μR when the question says nothing about limiting equilibrium. Use F ≤ μR.
 - Giving the moment without its sense, or in N instead of N m.
 
+## Frequently asked questions
+
+**What is the moment of a force?**
+The moment of a force F about a point O is F × d, where d is the perpendicular distance from O to the line of action of the force. State its sense, clockwise or anticlockwise; a force through O has zero moment.
+
+**What do "light", "uniform" and "rigid" mean in a moments question?**
+A light rod has no weight, a uniform rod has its weight acting at the midpoint, and a rigid body does not bend, so distances along it stay fixed.
+
+**How do you deal with a hinge force?**
+Treat it as two unknown components, horizontal H and vertical V. Taking moments about the hinge removes both, then resolve to find them.
+
+**Why do you take moments about a point where an unknown force acts?**
+That force has zero moment about the point, so it drops out of the equation, leaving fewer unknowns to solve for.
+
+**How do you check your reactions on a beam?**
+Take moments about a second point. If the clockwise and anticlockwise moments balance there too, the reactions are consistent.
+
 ## Next steps
 
 - Condensed recall: [Moments revision notes](/resources/aqa-a-level-mathematics-moments-revision-notes/).

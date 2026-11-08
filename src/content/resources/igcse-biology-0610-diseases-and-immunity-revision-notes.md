@@ -18,11 +18,11 @@ syllabusTopics:
     subtopic: "diseases-and-immunity-cambridge-igcse-biology"
 description: "Condensed notes on pathogens, defences, disease control, active and passive immunity, vaccination and cholera, with a self-test, for Cambridge IGCSE 0610."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 For full explanations and a worked data example, use the [diseases and immunity study guide](/resources/igcse-biology-0610-diseases-and-immunity/). These notes condense topic 10 (section 10.1, statements 1–17) of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. Statements 1–5 are Core (Papers 1 and 3). Statements 6–17 are Supplement, marked **Extended only** (Papers 2 and 4).
@@ -245,6 +245,20 @@ Cholera is a good example of why the Core measures matter. The bacterium is tran
 - Claiming passive immunity produces memory cells or lasts for years.
 - Skipping the chloride ion step or the word **osmosis** in the cholera explanation.
 - In percentage-change calculations, dividing by the final value instead of the starting value.
+
+## Frequently asked questions
+
+**What are the body defences against pathogens in Cambridge IGCSE Biology 0610?**
+The syllabus lists five: skin as a barrier, hairs in the nose and mucus that trap pathogens, stomach acid that kills pathogens in food and drink, and white blood cells that carry out phagocytosis and make antibodies.
+
+**How are pathogens transmitted?**
+Directly through contact, including blood and other body fluids, or indirectly from contaminated surfaces, food, animals and air.
+
+**What is the difference between active and passive immunity?**
+Active immunity uses antibodies made by the person's own lymphocytes, after infection or vaccination, and produces memory cells for long-term protection; passive immunity uses antibodies from another individual, has no memory cells and is short-term.
+
+**Does mucus kill pathogens?**
+No. Mucus traps pathogens in the airways; stomach acid is the defence that kills pathogens in food and drink.
 
 ## Official syllabus
 

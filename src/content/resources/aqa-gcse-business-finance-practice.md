@@ -153,6 +153,20 @@ This set covers section 3.6 Finance in the AQA GCSE Business (8132) specificatio
 - Take the [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What does section 3.6 Finance cover in AQA GCSE Business (8132)?**
+Sources of finance, cash flow, financial terms and calculations including average rate of return and break-even, and analysing the performance of a business through its financial statements.
+
+**What are the most common mistakes in GCSE Business finance calculations?**
+Failing to carry a month's closing balance into the next opening balance, using revenue instead of cost of sales to find gross profit, and giving the margin of safety without units.
+
+**Is the margin of safety measured in pounds or units?**
+In units. It is actual output minus break-even output, so state the unit with your answer.
+
+**Is money owed by customers an asset or a liability?**
+An asset, because it is money owed to the business. Treating it as a liability is a common error on statement of financial position questions.
+
 ## Official syllabus
 
 Aligned to AQA GCSE Business (8132), first teaching from September 2017, published by AQA: section 3.6 Finance.

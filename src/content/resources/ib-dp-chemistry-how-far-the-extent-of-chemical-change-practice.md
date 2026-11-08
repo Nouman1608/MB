@@ -148,6 +148,20 @@ To see where this unit sits in the course, use the [IB DP chemistry hub](/boards
 - Browse [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does this IB DP Chemistry Reactivity 2.3 practice set cover?**
+It covers Reactivity 2.3, How far? The extent of chemical change, understandings 2.3.1 to 2.3.7: dynamic equilibrium, writing K, the size of K, Le Châtelier's principle, and HL questions on Q, ICE tables and ΔG⦵ = −RT lnK.
+
+**What are common mistakes in equilibrium answers?**
+Frequent errors include describing equilibrium concentrations as "equal" instead of "constant", using coefficients as multipliers rather than powers in K and Q, and claiming a catalyst raises the equilibrium yield. Stating that K changes with concentration or pressure also loses marks.
+
+**How should you answer a Le Châtelier's principle question?**
+For each change, give the direction of the shift, a reason such as fewer gas molecules or the endothermic direction, and the effect on K. A bare "shifts right" with no reason seldom earns full credit.
+
+**What HL calculation errors are common in equilibrium questions?**
+At HL, students substitute moles into K for a vessel larger than 1 dm³, ignore the mole ratio in the change row of an ICE table, use the small-K approximation without stating or checking it, or put kJ or °C into ΔG⦵ = −RT lnK.
+
 ## Official syllabus
 
 Every item here is based on the International Baccalaureate's *Chemistry guide* for the Diploma Programme (February 2023; first assessment 2025). This page follows Reactivity 2.3, How far? The extent of chemical change, understandings 2.3.1 to 2.3.4 (SL and HL) and 2.3.5 to 2.3.7 (HL only).

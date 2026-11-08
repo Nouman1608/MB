@@ -124,6 +124,20 @@ These questions cover **section 3.10 Managing strategic change** (A-level only) 
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**How do you match a method of overcoming resistance to change?**
+Identify Kotter and Schlesinger's reason for resistance shown in the case, then choose a method that fits it and weigh its drawback. Naming a method that does not fit the reason in the case is a common error.
+
+**What should a force field analysis answer include?**
+Total the scores for the driving and restraining forces, compare the two sides, and comment on how subjective the scores are before saying what the result suggests.
+
+**What is total float in network analysis?**
+Total float is the spare time an activity has without delaying the whole project, calculated as latest start minus earliest start. Treating float as the length of an activity is a frequent mistake.
+
+**What should you do when an activity's duration changes in a network?**
+Rework the forward and backward passes and recalculate the critical path, because a longer non-critical activity may use up its float or become critical. Forgetting to recalculate loses marks.
+
 ## Official syllabus
 
 AQA AS and A-level Business (7131 and 7132) specification, published by AQA: section 3.10 Managing strategic change (A-level only).

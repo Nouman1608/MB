@@ -170,6 +170,20 @@ These questions practise functions and models from the thinking with models fram
 - Naming a limitation of a model without connecting it to the situation.
 - Applying the functions in a composite in the wrong order.
 
+## Frequently asked questions
+
+**How do you read the vertex from vertex form?**
+For f(x) = a(x − h)² + k the vertex is (h, k), so (x − 3)² − 4 has vertex (3, −4). Reading h with the wrong sign is one of the most common errors.
+
+**Is the asymptote of an exponential graph always y = 0?**
+No. The basic graph of a × bˣ approaches the x-axis, but if the graph has been shifted up or down the horizontal asymptote moves with it. Using y = 0 for a shifted exponential is a common mistake.
+
+**What should a modelling answer include besides the number?**
+Give the unit and say what the value means in the situation, and connect any limitation of the model to that situation. A bare number, or a generic limitation, makes the answer incomplete.
+
+**What is a common mistake with perpendicular gradients?**
+Forgetting the minus sign. The perpendicular gradient to m is −1/m, so the two gradients multiply to −1.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and-revision-notes/) and the [study guide](/resources/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and/).

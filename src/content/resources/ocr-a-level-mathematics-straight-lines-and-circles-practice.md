@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-ocr-alevel-maths"
     subtopic: "coordinate-geometry-in-the-xy-plane-ocr-alevel-maths"
-description: "Original practice questions with worked answers on straight lines, circles, tangents and line models for OCR A Level Mathematics A (H240)."
+description: "Original exam-style practice questions with worked answers on straight lines, circles, tangents and line models for OCR A Level Mathematics A (H240)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -26,7 +26,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover straight lines and circles in OCR A Level Mathematics A (H240), content references 1.03a to 1.03f of the Cambridge OCR specification, Version 3.1 (August 2026). All of this content is Stage 1, common to AS and A Level. The marks shown are our own guide to the size of each step. If a topic is unfamiliar, start with the [study guide](/resources/ocr-a-level-mathematics-straight-lines-and-circles/); the [revision notes](/resources/ocr-a-level-mathematics-straight-lines-and-circles-revision-notes/) recap each method. Related links: the [course hub](/boards/ocr/a-level/mathematics/), the [checklist](/checklists/ocr/a-level/mathematics/) and the [Pure Mathematics practice set](/resources/ocr-a-level-mathematics-pure-practice/).
+These questions cover straight lines and circles in OCR A Level Mathematics A (H240), content references 1.03a to 1.03f of the OCR specification, Version 3.1 (August 2026). All of this content is Stage 1, common to AS and A Level. The marks shown are our own guide to the size of each step. If a topic is unfamiliar, start with the [study guide](/resources/ocr-a-level-mathematics-straight-lines-and-circles/); the [revision notes](/resources/ocr-a-level-mathematics-straight-lines-and-circles-revision-notes/) recap each method. Related links: the [course hub](/boards/ocr/a-level/mathematics/), the [checklist](/checklists/ocr/a-level/mathematics/) and the [Pure Mathematics practice set](/resources/ocr-a-level-mathematics-pure-practice/).
 
 ## Questions
 
@@ -149,6 +149,20 @@ These questions cover straight lines and circles in OCR A Level Mathematics A (H
 - Rounding too early, or giving a decimal where an exact surd was requested.
 - Writing a discriminant condition with the wrong inequality direction when finding a range.
 
+## Frequently asked questions
+
+**How do you read the centre and radius from a circle equation?**
+In (x − a)² + (y − b)² = r², the centre is (a, b) and the radius is r. The sign in each bracket is the opposite of the centre coordinate, so (x + 2)² + (y − 5)² = 34 has centre (−2, 5) and radius √34.
+
+**How do you tell whether a point is inside or outside a circle?**
+Work out (x − a)² + (y − b)² for the point and compare it with r², not r. A smaller value means inside, an equal value means on the circle, and a larger value means outside.
+
+**How do you find the tangent to a circle at a point?**
+Find the gradient of the radius from the centre to the point of contact, take its negative reciprocal, and write the line through the point of contact, not through the centre.
+
+**What form should a line equation be in for OCR A Level Mathematics?**
+Use the form the question asks for. If it asks for ax + by + c = 0 with integer coefficients, stopping at y = mx + c loses the mark.
+
 ## Next steps
 
 - Review the methods in the [revision notes](/resources/ocr-a-level-mathematics-straight-lines-and-circles-revision-notes/).
@@ -159,4 +173,4 @@ These questions cover straight lines and circles in OCR A Level Mathematics A (H
 
 ## Official syllabus
 
-*Cambridge OCR Level 3 Advanced GCE in Mathematics A (H240)* specification, Version 3.1 (August 2026), for first assessment in 2018, published by Cambridge OCR: section 1.03, Coordinate Geometry in the x-y plane, references 1.03a to 1.03f.
+*OCR Level 3 Advanced GCE in Mathematics A (H240)* specification, Version 3.1 (August 2026), for first assessment in 2018, published by OCR: section 1.03, Coordinate Geometry in the x-y plane, references 1.03a to 1.03f.

@@ -14,9 +14,9 @@ syllabusTopics:
     topic: "number-operations-and-integers-ocr-gcse-maths"
 description: "Condensed recall notes on integers, primes, HCF and LCM, fractions, percentages, indices, standard form and bounds for OCR GCSE Mathematics J560."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -212,3 +212,19 @@ A value rounded to a given precision could have come from a range either side of
   <figcaption>Rounded to 1 dp, 2.1 stands for 2.05 ≤ x &lt; 2.15; truncated, it stands for 2.1 ≤ x &lt; 2.2.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Which number topics are Higher tier only in OCR GCSE Maths J560?**
+Converting recurring decimals to fractions, fractional indices, surds and rationalising denominators, and calculating the bounds of a calculation are in the Higher tier column. Everything else in these number notes is Foundation content, assessed at both tiers.
+
+**How do you calculate a percentage change?**
+Divide the change by the original value and multiply by 100. Dividing by the new value instead of the original is one of the most common errors.
+
+**Does a 30% increase followed by a 30% decrease return to the original value?**
+No. The multipliers are 1.3 and 0.7, and 1.3 × 0.7 = 0.91, so the overall result is a 9% loss.
+
+**How do you find the maximum value of a subtraction from bounds?**
+Use the upper bound of the first number minus the lower bound of the second. For division, the maximum is the upper bound divided by the lower bound; this calculation of bounds is Higher tier only.
+
+**What does a negative index mean?**
+A negative index means a reciprocal, not a negative answer. For example, 3⁻² = 1/9.

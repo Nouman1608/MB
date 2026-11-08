@@ -285,6 +285,23 @@ If the base were a 4 cm by 6 cm rectangle, AC would not be a line of symmetry of
 - Adding a horizontal plane of symmetry to a pyramid or cone.
 - For a prism, forgetting the plane halfway along the length, or counting it twice.
 
+## Frequently asked questions
+
+**How many lines of symmetry does a parallelogram have?**
+A general parallelogram has no lines of symmetry, although it has rotational symmetry of order 2. Its diagonals are not lines of symmetry.
+
+**Can the order of rotational symmetry be 0?**
+No. The smallest order of rotational symmetry is 1, which means the shape only looks the same after a full turn, so it has no rotational symmetry.
+
+**How many lines of symmetry does a regular hexagon have?**
+A regular hexagon has 6 lines of symmetry, the same as its number of sides. Counting each line twice to get 12 is a common error.
+
+**Is symmetry of solids on the Core 0580 paper?**
+No. In Cambridge IGCSE Mathematics 0580, line and rotational symmetry in two dimensions are in both tiers, but the symmetry of prisms, cylinders, pyramids and cones is Extended only.
+
+**Does a cone have a horizontal plane of symmetry?**
+No. A cone or pyramid has no horizontal plane of symmetry, because the top and bottom halves are different shapes.
+
 ## Next steps
 
 Revise with the [geometry revision notes](/resources/igcse-mathematics-geometry-revision-notes/), then try the [geometry practice questions](/resources/igcse-mathematics-geometry-practice/). Extended candidates can go on to the [circle theorems II study guide](/resources/igcse-mathematics-0580-circle-theorems-ii/), which uses the symmetry of chords and tangents (E4.8). The [course hub](/boards/cambridge/igcse/mathematics/) lists other resources for syllabus 0580.

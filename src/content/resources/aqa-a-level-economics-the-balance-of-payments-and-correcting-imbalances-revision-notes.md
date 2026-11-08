@@ -214,6 +214,20 @@ For a surplus, the reverse: expand demand, let the currency rise, open the marke
 - Concluding that every deficit is bad, with no judgement of size, cause or financing.
 - Describing global effects only for the home country.
 
+## Frequently asked questions
+
+**What is the difference between primary and secondary income?**
+Primary income is payment for a factor of production, such as profits, interest and wages earned abroad. Secondary income is a one-way transfer, such as workers' remittances.
+
+**What is the difference between the trade balance and the current account?**
+The trade balance covers goods and services only. The current account also includes primary and secondary income.
+
+**What is the difference between expenditure-reducing and expenditure-switching policies?**
+Expenditure-reducing policies cut total demand so fewer imports are bought. Expenditure-switching policies move demand from imports to home output, for example through depreciation or tariffs.
+
+**Can the whole balance of payments be in deficit?**
+No. Because every transaction has two sides, the accounts together always sum to zero; a deficit refers to a particular account, such as the current account.
+
 ## Official syllabus
 
 AQA AS and A-level Economics (7135 and 7136), for first teaching from September 2015, version 1.3, 29 June 2022, published by AQA.

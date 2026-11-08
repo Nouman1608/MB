@@ -205,6 +205,20 @@ Small reminder: in the step Cl• + RH → R• + HCl, the only bond broken is C
 - Saying the reaction needs "light" without stating ultraviolet.
 - Forgetting R• + R• when asked to explain an unexpected longer alkane in the products.
 
+## Frequently asked questions
+
+**What is a radical?**
+A radical is a molecular entity with an unpaired electron, shown by a dot, such as Cl• or CH₃•. Charge is irrelevant, so radicals can be atoms, molecules, cations or anions.
+
+**How can you tell if a species is a radical by counting electrons?**
+Add the valence electrons of every atom, subtract one for each positive charge and add one for each negative charge. An odd total means a radical; an even total usually does not, although O₂ is an exception.
+
+**What are the steps in the free-radical substitution of an alkane?**
+Initiation makes halogen radicals by homolytic fission in UV light, propagation steps use one radical and make another, and termination steps join two radicals. For example, X• + RH → R• + HX, then R• + X₂ → RX + X•.
+
+**Why does free-radical substitution give a mixture of products?**
+The product still has C–H bonds, so further substitution occurs; hydrogens in different environments give position isomers; and two alkyl radicals can join in termination to form a larger alkane.
+
 ## Official syllabus
 
 These notes summarise Reactivity 3.3 (Electron sharing reactions), understandings 3.3.1 to 3.3.3, SL and HL. Source: *Chemistry guide*, IB Diploma Programme, International Baccalaureate, February 2023 (first assessment 2025).

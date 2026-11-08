@@ -197,6 +197,20 @@ If a change affects later steps, mark up the original plan (a "revised" column, 
 - Practice: [Criterion C practice questions](/resources/ib-myp-design-criterion-c-creating-the-solution-practice/).
 - Folder checklist by stage: [ePortfolio preparation](/resources/ib-myp-design-eportfolio-exam-preparation/); course overview: [MYP Design subject guide](/resources/ib-myp-design-subject-guide/).
 
+## Frequently asked questions
+
+**What makes a Criterion C plan logical?**
+A plan is logical when someone else could pick it up and make your product in the right order without asking you anything. Each step should say what is done, in what order, how long it takes and with what resources.
+
+**Should you use a Gantt chart or a step table for a Criterion C plan?**
+Either can work, so choose whatever makes your process clearest. A step table is best for detail, a Gantt chart shows overlaps and waiting times across lessons, and many students use both.
+
+**How do you show technical skill in an MYP Design folder?**
+Include annotated photos or screenshots at each key stage, not just the end, with measured accuracy against a tolerance and a reason for each technique. For digital work, short code extracts or before-and-after screenshots show the skills used.
+
+**Where does Criterion C fit in the MYP Design cycle?**
+Criterion C, Creating the solution, sits between choosing a design in Criterion B and testing it in Criterion D. The four criteria are equally weighted.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Design*, from 2014. Published by the International Baccalaureate Organization.

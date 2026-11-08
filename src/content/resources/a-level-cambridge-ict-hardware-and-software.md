@@ -13,12 +13,21 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "hardware-and-software"
-description: "Mainframe computers and supercomputers, system software, utility software, custom-written and off-the-shelf software, and user interfaces -- Topic 2 of Cambridge International AS & A Level Information Technology (9626)."
+  - qualification: "a-level"
+    topic: "hardware-and-software"
+    subtopic: "mainframe-computers-and-supercomputers"
+  - qualification: "a-level"
+    topic: "hardware-and-software"
+    subtopic: "system-software"
+  - qualification: "a-level"
+    topic: "hardware-and-software"
+    subtopic: "custom-written-and-off-the-shelf-software"
+description: "Mainframes and supercomputers, system and utility software, custom-written and off-the-shelf software, and user interfaces for Cambridge 9626 topic 2."
 seoDescription: "Cambridge AS & A Level IT (9626) topic 2 guide: mainframes, system and utility software, off-the-shelf vs custom software, and user interfaces."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-02
 updatedDate: 2026-09-27
 featured: false
@@ -153,6 +162,23 @@ separated by function.
 software for a given scenario.
 - Know the four named interface types and one advantage and one
 disadvantage of each.
+
+## Frequently asked questions
+
+**What is the difference between a mainframe and a supercomputer?**
+In Cambridge 9626, mainframes are built for high-volume transaction throughput, such as census processing and banking, while supercomputers are built for raw processing speed on computation-heavy problems, such as weather forecasting, climate research and quantum mechanics.
+
+**What does RAS stand for in computing?**
+RAS stands for reliability, availability and serviceability: how rarely a system fails, how much of the time it is usable, and how quickly and easily it can be repaired. The 9626 syllabus lists RAS as a characteristic of both mainframes and supercomputers.
+
+**What is the difference between a compiler and an interpreter?**
+A compiler translates and stores an entire program before it is executed, while an interpreter translates and executes the program line by line, which is why code under development is often run through an interpreter first.
+
+**What is the difference between system software and utility software?**
+System software, such as operating systems, compilers and device drivers, manages and translates for the computer itself. Utility software performs a specific maintenance task, such as backing up, compressing or defragmenting files.
+
+**What user interfaces are in the 9626 syllabus?**
+Topic 2 covers command line, graphical, dialogue and gesture-based interfaces. For each, you should be able to match it to a suitable use and give an advantage and a disadvantage.
 
 ## Official syllabus
 

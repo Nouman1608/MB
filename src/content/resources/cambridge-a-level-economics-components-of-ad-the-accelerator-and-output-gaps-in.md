@@ -230,6 +230,23 @@ A question may use either measure of the gap, so say which one you use.
 - Measuring a gap against equilibrium income when the question wants the vertical gap in AD.
 - Forgetting that gross investment cannot be negative.
 
+## Frequently asked questions
+
+**What is the consumption function?**
+The consumption function is C = a + bY, where a is autonomous consumption and bY is induced consumption that rises with national income Y.
+
+**What is the accelerator?**
+In the accelerator model, firms plan net investment from how fast output is changing: net investment equals the capital-output ratio multiplied by the change in output.
+
+**Why can investment fall while output is still rising?**
+Under the accelerator, investment depends on the change in output, so if output grows more slowly, net investment falls even though output is still rising.
+
+**What is a deflationary gap?**
+A deflationary gap is when aggregate demand at full employment income is too low to buy full-employment output, causing unemployment.
+
+**What is an inflationary gap?**
+An inflationary gap is when aggregate demand at full employment income exceeds full-employment output, so the excess demand pushes up prices.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, version 2, published by Cambridge University Press & Assessment. This guide covers outcomes 9.1.2 and 9.1.3.

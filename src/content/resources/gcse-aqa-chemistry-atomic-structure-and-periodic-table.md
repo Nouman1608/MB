@@ -12,11 +12,11 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "atomic-structure-and-the-periodic-table-8462"
-description: "Atomic structure, the periodic table and transition metals -- the opening topic of AQA GCSE Chemistry (8462), a tiered Foundation/Higher qualification co-teachable with AQA Combined Science."
+description: "Atomic structure, isotopes, the periodic table, Groups 0, 1 and 7 and transition metals: Topic 4.1 of AQA GCSE Chemistry (8462), with a worked example."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-08-21
 updatedDate: 2026-09-27
 featured: false
@@ -300,3 +300,17 @@ Confusing atomic number with mass number when writing electronic structures. Sta
 - Calculate relative atomic mass from isotopic abundances.
 - Write the electronic structure of the first 20 elements and link it to position in the Periodic Table.
 - Describe how the model of the atom changed, and what evidence drove each change.
+
+## Frequently asked questions
+
+**What does Topic 4.1 of AQA GCSE Chemistry (8462) cover?**
+Topic 4.1 covers atomic structure, the development of the model of the atom, separating mixtures, the periodic table and the properties of Group 0, Group 1 and Group 7. It also includes properties of transition metals, which is chemistry-only content not shared with Combined Science.
+
+**Why do isotopes have the same chemical properties?**
+Isotopes are atoms of the same element with the same number of protons but different numbers of neutrons. Chemical behaviour depends on the electrons, which are the same, so isotopes react identically.
+
+**Why does reactivity increase down Group 1?**
+The outer electron is further from the nucleus as more shells are added, there is more shielding, and so the attraction is weaker and the electron is lost more easily. A full explanation needs all three linked steps.
+
+**How did Mendeleev arrange his periodic table?**
+Mendeleev ordered elements by atomic mass and grouped elements with similar properties, leaving gaps for undiscovered elements. The modern periodic table arranges elements by increasing atomic number.

@@ -218,6 +218,23 @@ Worked series: trend growth is 2% and potential output starts at 600, so potenti
 - Giving a calculation with no units or interpretation.
 - Writing about the difficulties of measurement in general and not about potential output.
 
+## Frequently asked questions
+
+**What is the marginal propensity to withdraw?**
+The marginal propensity to withdraw (MPW) is the share of an extra unit of income that leaks out of the circular flow, found by adding MPS, MPT and MPM. The full multiplier is 1/MPW.
+
+**What is the difference between actual growth and trend growth?**
+Actual growth is the percentage change in real GDP that happened. Trend growth is the long-term average growth rate of productive capacity, and comparing the two shows whether an output gap is widening or narrowing.
+
+**Can an economy grow and still have a widening negative output gap?**
+Yes. If actual growth is positive but below the trend rate, potential output rises faster than actual output, so a negative output gap widens even though the economy is growing.
+
+**What are the characteristics of a positive output gap?**
+With a positive gap, actual output is above potential, so capacity is stretched, unemployment is low, inflationary pressure rises, profits and investment are strong and tax revenue is high. A negative gap shows the reverse, with spare capacity and cyclical unemployment.
+
+**Why are output gaps hard to measure?**
+Potential output is an estimate, not an observed figure, and different trend periods or methods give different answers. Supply shocks can shift potential, GDP data are revised later, informal activity is missed and the trend is least reliable for the most recent years.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, first teaching September 2018, published by Pearson Education Limited. Sections 2.3.4 (item 4) and 2.3.5 (item 4).

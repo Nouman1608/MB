@@ -22,9 +22,9 @@ syllabusTopics:
     subtopic: "a-hubbles-law-and-the-big-bang-theory"
 description: "Condensed recall notes on luminosity, standard candles, Wien and Stefan laws, redshift and Hubble law for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -158,3 +158,17 @@ The syllabus evidence point is **redshift of galaxies**, and the marks are for s
 7. A galaxy's spectral line is observed at 660.4 nm against a laboratory value of 656.3 nm. Find its recession velocity.
 
 **Answers:** 1. Luminosity is the total power radiated by the star; radiant flux is the power received per unit area at the observer. 2. An object of known luminosity, so measuring its flux gives its distance; Type Ia supernovae explode at a fixed critical mass and so have a consistent peak luminosity. 3. Wien's law first, using peak wavelength to find temperature; then Stefan's law with the luminosity to find the radius. 4. Space itself is expanding, so every observer everywhere sees all other galaxies receding, with the same distance–velocity relationship. 5. Galactic redshift shows the universe is expanding (the syllabus-required evidence). Extension, beyond the syllabus: the cosmic microwave background is the cooled remnant of a hot dense early state; the hydrogen-to-helium abundance ratio matches Big Bang nucleosynthesis predictions. 6. T = 2.9×10⁻³ ÷ (480×10⁻⁹) = **6042 K**. 7. Δλ = 660.4 − 656.3 = 4.1 nm; v = c × (Δλ/λ) = 3.00×10⁸ × (4.1/656.3) = **1.87×10⁶ m/s**.
+
+## Frequently asked questions
+
+**What is the formula for radiant flux intensity?**
+Radiant flux intensity is F = L/(4πd²), where L is the luminosity of the source and d is its distance. It is the power received per unit area, in W m⁻², and is the basis of measuring astronomical distances.
+
+**Is the Wien's law constant given in the Cambridge 9702 exam?**
+Wien's displacement law constant is not listed in the standard 9702 data and formulae section, so check a recent past paper or the published data booklet. If it is not supplied, memorise it as 2.9 × 10⁻³ m K.
+
+**Does redshift mean Earth is at the centre of the universe?**
+No. The expansion is of space itself, so every point recedes from every other point and an observer in any other galaxy would measure the same relationship between distance and recession speed.
+
+**How do you calculate the redshift of a galaxy?**
+Take Δλ as the observed wavelength minus the laboratory wavelength, then use Δλ/λ ≈ v/c to find the recession speed. A longer observed wavelength means the source is receding.

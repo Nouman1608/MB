@@ -256,6 +256,20 @@ The pattern to remember:
 - Forgetting that supply and demand shifts both change employment as well as the wage.
 - Describing demand as "caused by the workers". It is derived from product demand.
 
+## Frequently asked questions
+
+**Which Cambridge 9708 sections does this perfect labour markets guide cover?**
+It covers sections 8.3.1 to 8.3.7 of the Cambridge International AS & A Level Economics 9708 syllabus: how labour demand, labour supply and the wage are determined when the labour market is perfect. Topic 8 is A Level content.
+
+**Why is the demand for labour a derived demand?**
+Firms want workers for the output they produce, so demand for labour is derived from demand for the product. Higher consumer demand raises output targets and so the demand for workers.
+
+**Does a firm hire workers until MRP is zero?**
+No. A wage-taking firm stops hiring where MRP equals the wage. Saying the firm hires until MRP is zero is a common error.
+
+**What happens when labour demand and supply shift at the same time?**
+Both shifts change employment as well as the wage. The direction of one variable may be certain while the other depends on the relative size of the shifts, so state the new wage and employment separately.
+
 ## Official syllabus
 
 Source: Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, sections 8.3.1 to 8.3.7.

@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "number-aqa-gcse-maths"
     subtopic: "measures-and-accuracy-aqa-gcse-maths"
-description: "Condensed AQA GCSE Maths 8300 revision notes on N13-N16: conversion factors, estimation, rounding, error intervals, bounds and a self-test."
+description: "Condensed AQA GCSE Maths 8300 revision notes on N13-N16: conversion factors, estimation, rounding, error intervals, bounds and a short self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-04
 featured: false
@@ -281,6 +281,19 @@ For the rectangle: to 1 s.f. both bounds round to 20; to 2 s.f. they are 21 and 
   <figcaption>Carry the full calculator value forward and round only the final answer.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between rounding and truncation error intervals?**
+A rounded value can be up to half a unit either side, while a truncated value can only be up to a whole unit above it. For example, 4.7 truncated to 1 decimal place gives 4.7 ≤ w < 4.8.
+
+**Are imperial conversion factors given in the AQA GCSE Maths exam?**
+Yes. Imperial conversions such as miles, pounds and pints are given in the question, but you must know the metric conversions yourself.
+
+**How do you tell if an estimate is an overestimate?**
+Look at the direction of each rounding. If both numbers in a multiplication were rounded up, the estimate is an overestimate; if roundings pull in different directions, you cannot be sure.
+
+**Which content references cover measures and accuracy in AQA GCSE Maths 8300?**
+Section 3.1.3 covers N13 to N16: standard units and conversions, estimation, rounding and error intervals, and limits of accuracy, with upper and lower bounds in calculations at Higher tier.
 
 ## Official syllabus
 

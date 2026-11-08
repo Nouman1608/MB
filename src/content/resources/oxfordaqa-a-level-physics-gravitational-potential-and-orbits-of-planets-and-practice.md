@@ -158,6 +158,23 @@ Data: G = 6.67 × 10⁻¹¹ N m² kg⁻². Masses: Earth 5.97 × 10²⁴ kg, Moo
 - Try the [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these OxfordAQA A-level Physics past paper questions?**
+No. They are original practice questions with worked answers, written for revision on this topic of OxfordAQA International AS and A-level Physics (9630). Use them alongside the official past papers from the board.
+
+**What is the most common mistake in OxfordAQA A-level orbit calculations?**
+Using the height above the surface as r. In V = −GM/r, v = √(GM/r) and T² ∝ r³, the distance is measured from the centre of the planet, so add the planet's radius to the height first.
+
+**When can you use mgh instead of ΔW = mΔV?**
+Only for small changes in height where g stays roughly constant. For large changes, such as moving between orbits or lifting off a moon, use ΔW = mΔV with V = −GM/r, because g falls with distance.
+
+**Do you need to memorise planetary data for these questions?**
+No. Questions supply values such as G, planetary masses and radii, so use the data given. Always measure r from the centre of the planet.
+
+**Which sections of the 9630 specification do these practice questions cover?**
+They cover sections 3.7.3 (gravitational potential) and 3.7.4 (orbits of planets and satellites) of OxfordAQA International AS and A-level Physics (9630). Section 3.7 is International A-level only.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for exams from May/June 2020 onwards, published by OxfordAQA. Sections 3.7.3 and 3.7.4.

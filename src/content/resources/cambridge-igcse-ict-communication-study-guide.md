@@ -143,3 +143,17 @@ When asked to **describe** a method of improving search results, name the techni
 6. Give two checks for the reliability of a website. *Author's expertise and date of publication; or whether it is biased.*
 7. Why is a wiki less reliable than a textbook? *Anyone can edit it, so content may not be checked by an expert.*
 8. State one disadvantage of email compared with a phone call. *Tone is lost and a reply may be delayed.*
+
+## Frequently asked questions
+
+**What is the difference between Cc and Bcc in an email?**
+In Cambridge IGCSE ICT (0417), Cc recipients can be seen by everyone who receives the email, while Bcc recipients are hidden from the other recipients. Use Bcc when emailing a large group so their addresses are not revealed.
+
+**What is netiquette?**
+Netiquette is the set of accepted rules of polite behaviour online, such as using a meaningful subject line, being polite and brief, not writing in capital letters, checking spelling and not copying people in unnecessarily.
+
+**What is the difference between the internet and the World Wide Web?**
+The internet is the worldwide network of networks, while the World Wide Web is the collection of web pages accessed through it using a web browser.
+
+**How do AND, OR and NOT change a search?**
+AND narrows a search to pages containing both terms, OR widens it to pages containing either term, and NOT excludes pages containing a term. Quotation marks search for an exact phrase.

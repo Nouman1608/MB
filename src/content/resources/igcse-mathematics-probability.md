@@ -16,14 +16,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "probability-cambridge-igcse-maths"
     subtopic: "conditional-probability-cambridge-igcse-maths"
-description: "The probability scale, relative and expected frequency, and combined and conditional events using sample space, Venn and tree diagrams -- the Core and Extended content of Topic 8 Probability for Cambridge IGCSE Mathematics 0580, 2025-2027 series."
+description: "Core and Extended Topic 8 Probability for Cambridge IGCSE Maths 0580 (2025-2027): the probability scale, relative frequency, combined and conditional events."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This guide covers **Topic 8 Probability**, for Cambridge IGCSE
@@ -183,6 +183,20 @@ theoretical probability (a calculated value).
   relying on a formula.
 - Keep relative frequency (experimental) and probability
   (theoretical) clearly distinguished in your own explanations.
+
+## Frequently asked questions
+
+**Is without replacement in the Core syllabus for Cambridge IGCSE 0580?**
+No. At Core, combined events are only with replacement and Venn diagrams are limited to two sets. Extended (E8.3) adds combined events without replacement.
+
+**What is the probability of an event not happening?**
+The probability of an event not happening is 1 minus the probability that it happens. Extended candidates write this using the notation P(A′) = 1 − P(A).
+
+**Do Core candidates need probability notation such as P(A)?**
+No. Probability notation is not required at Core, where probabilities are given as a fraction, decimal or percentage. Extended candidates use P(A), P(A′), P(A ∩ B) and P(A ∪ B).
+
+**How is conditional probability answered at Extended 0580?**
+Reason directly from the Venn diagram, tree diagram or table by restricting attention to the cases that meet the condition. The notation P(A|B) and conditional probability formulas are not required.
 
 ## Official syllabus
 

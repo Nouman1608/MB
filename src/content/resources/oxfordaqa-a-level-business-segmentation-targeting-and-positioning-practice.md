@@ -124,6 +124,17 @@ Mass option: sell 120,000 bottles a year at a price of 2.40, variable cost 1.95 
 - Writing only advantages of niche or mass marketing, with no disadvantages or judgement.
 - Giving two challenges of repositioning that are the same point.
 
+## Frequently asked questions
+
+**How should you evaluate niche against mass marketing?**
+Weigh the advantages and disadvantages of each for the business in the case, using any figures given, and finish with a judgement about which suits it better. Writing only advantages, with no disadvantages or judgement, limits the marks.
+
+**Which OxfordAQA specifications do these questions cover?**
+They cover section 3.1.2.3, Segmentation, targeting and positioning, in OxfordAQA International AS and A-level Business, written for both 9625 and its successor 9725.
+
+**Why is revenue not enough to compare two target markets?**
+A larger segment may bring more revenue but also higher costs per unit or of reaching customers, so the option with more revenue may leave less profit. Compare contribution or profit where the case gives cost data.
+
 ## Next steps
 
 - Recap the content in the [revision notes](/resources/oxfordaqa-a-level-business-segmentation-targeting-and-positioning-revision-notes/).

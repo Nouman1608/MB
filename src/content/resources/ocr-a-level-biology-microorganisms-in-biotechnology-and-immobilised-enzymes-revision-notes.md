@@ -221,6 +221,23 @@ On a log scale, the exponential phase is a straight line. A gradient of 0.30 log
 - Missing the control: a sterile broth, or a disc with no antibiotic.
 - Saying immobilised enzymes are always faster, when diffusion can slow them.
 
+## Frequently asked questions
+
+**What causes the stationary phase of a bacterial growth curve?**
+In the stationary phase the rate of cell division equals the rate of cell death, because a factor such as nutrients, oxygen or a build-up of toxic waste has become limiting. The cells have not all stopped respiring or died.
+
+**Are immobilised enzymes always faster than free enzymes?**
+No. Substrate must diffuse to the enzyme through the matrix, which can slow the reaction. The main advantages are that the enzyme can be reused and does not contaminate the product.
+
+**Why is a growth curve often plotted on a log scale?**
+Bacterial numbers increase by very large factors, so a log scale makes the exponential phase appear as a straight line. Only that phase is straight; the curve is not a straight line throughout.
+
+**What controls should be used in microbiology practicals?**
+Suitable controls include a sterile broth or agar plate with no inoculum, and a disc with no antibiotic in antibiotic tests. State what the control contains rather than calling it "the same".
+
+**What do these notes cover in the OCR specification?**
+They cover OCR A Level Biology A (H420) section 6.2.1 (e) to (i), including batch and continuous fermentation, aseptic technique, growth curves and immobilised enzymes.
+
 ## Official syllabus
 
 OCR Advanced GCE in Biology A (H420), Version 4.1 (April 2026), for first assessment in 2025, published by OCR.

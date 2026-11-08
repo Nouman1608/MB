@@ -236,6 +236,23 @@ Cost = 0.22 × 30 = **6.6 p**.
 - Using the diameter instead of the radius in A = πr², or forgetting that diameters in the question are often in mm (1 mm = 10⁻³ m).
 - Saying the resistance of an NTC thermistor "gets less because electrons move faster". The key idea is more charge carriers.
 
+## Frequently asked questions
+
+**What is resistivity?**
+Resistivity ρ is a property of a material at a stated temperature, defined by R = ρL/A for a uniform conductor of length L and cross-sectional area A. Its unit is Ω m.
+
+**How do you measure the resistivity of a wire?**
+Measure the mean diameter with a micrometer, then measure the resistance for several lengths and plot R against L. The gradient is ρ/A, so ρ = gradient × A; keep the current small so the wire does not heat up.
+
+**Why does the I-V graph of a filament lamp curve?**
+The current heats the filament, so the metal ions vibrate more and electrons collide with them more often. The resistance rises, so the current increases less than proportionally to the p.d.
+
+**What happens to the resistance of an LDR in bright light?**
+An LDR's resistance decreases as light intensity increases, because more charge carriers are released in the semiconductor. In the dark its resistance is very large.
+
+**Which power equation should you use?**
+P = VI, P = I²R and P = V²/R are equivalent. Use I²R when the same current flows through different resistances, and V²/R when the same p.d. is across different resistances.
+
 ## Official syllabus
 
 This page is aligned to the OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), first assessment 2017, published by OCR, sections 4.2.3 to 4.2.5.

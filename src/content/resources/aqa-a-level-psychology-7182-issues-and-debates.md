@@ -163,6 +163,20 @@ Sieber and Stanley (1988) described socially sensitive research as studies with 
 - Treating idiographic and nomothetic as rivals with no link between them.
 - Writing about general ethics (consent, deception) when the question asks about social sensitivity and wider consequences.
 
+## Frequently asked questions
+
+**Which issues and debates are on the AQA A-level Psychology 7182 specification?**
+Section 4.3.1 covers gender and culture in psychology, free will and determinism, the nature-nurture debate, holism and reductionism, idiographic and nomothetic approaches, and social sensitivity in research.
+
+**What is an imposed etic?**
+An imposed etic happens when a research tool built in one culture is used as if it were universal. Using Ainsworth's Strange Situation outside the USA is a common example.
+
+**What is the difference between idiographic and nomothetic approaches?**
+The idiographic approach studies the individual in depth, often with qualitative methods such as case studies. The nomothetic approach studies groups to find general laws, using quantitative methods and statistics.
+
+**What are the four points where social sensitivity can arise?**
+Sieber and Stanley (1988) identified the research question, the conduct of the research, the institutional context, and the interpretation and application of findings.
+
 ## Where to go next
 
 For the approaches that these debates are applied to, use the [Approaches in Psychology guide](/resources/a-level-aqa-psychology-approaches-in-psychology/) and the [approaches revision notes](/resources/aqa-a-level-psychology-approaches-revision-notes/). For Paper 1 examples, use the [introductory topics guide](/resources/aqa-a-level-psychology-introductory-topics/) and the [memory revision notes](/resources/aqa-a-level-psychology-memory-revision-notes/).

@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-hydroxy-compounds"
     subtopic: "a-phenol"
-description: "How phenol is produced, its reactions with bases and electrophiles, and why phenol, water and ethanol differ in acidity, for Cambridge International AS & A Level Chemistry 9701."
+description: "Making phenol from phenylamine, its reactions with bases, sodium and electrophiles, and why phenol, water and ethanol differ in acidity, for Cambridge 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -200,6 +200,20 @@ a carboxylic acid group.
 - In phenol, hydroxyl directs 2-, 4-, 6-. For fused-ring phenols such as
   naphthols, analyze the actual ring numbering and available sites rather
   than transferring phenol's locants unchanged.
+
+## Frequently asked questions
+
+**What conditions are needed to nitrate phenol?**
+Dilute HNO₃(aq) at room temperature is enough, giving a mixture of 2-nitrophenol and 4-nitrophenol. Benzene needs concentrated HNO₃ and H₂SO₄ because its ring is far less electron-rich.
+
+**What is the order of acidity of phenol, water and ethanol?**
+Phenol is the most acidic, then water, then ethanol. The phenoxide ion is stabilised by delocalisation into the ring, while ethanol's ethyl group makes the ethoxide ion less stable than OH⁻.
+
+**Which positions does the –OH group direct to in phenol?**
+In phenol the –OH group directs substitution to the 2-, 4- and 6-positions, because its delocalised lone pair raises electron density most at those positions. For fused-ring phenols such as naphthols, the available positions must be worked out from the actual structure.
+
+**Does phenol react faster with sodium than ethanol does?**
+Yes. Both release hydrogen with sodium metal, but phenol reacts faster because it is the more acidic of the two. The product is sodium phenoxide.
 
 ## Related resources
 

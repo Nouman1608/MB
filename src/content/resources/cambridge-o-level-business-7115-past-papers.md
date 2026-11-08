@@ -11,9 +11,9 @@ syllabusCodes: ["7115"]
 order: 1
 description: "Cambridge O Level Business Studies 7115 past papers: grade thresholds and examiner report notes for June and November 2022 to 2024."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -221,6 +221,23 @@ Official documents: [past papers, mark schemes and examiner report](https://www.
 5. **Fix the topic.** Use the resources on the [O Level Business hub](/boards/cambridge/o-level/business/) and drill the weak area in the [7115 self-check question bank](/practice/7115/).
 6. **Re-test.** Sit a paper from a different series a week later and compare. For June 2026 thresholds on our flagship syllabuses, see [grade thresholds](/grade-thresholds/).
 7. **Want a teacher to mark your answers?** Book a [free trial lesson](/trial/).
+
+## Frequently asked questions
+
+**Where can I find Cambridge O Level Business Studies 7115 past papers?**
+On the Cambridge International website, which publishes recent papers, mark schemes, examiner reports and grade thresholds for 7115.
+
+**Is Cambridge O Level Business Studies 7115 still examined?**
+7115 is examined for the last time in 2026. From 2027 Cambridge replaces it with 7081 Cambridge O Level Business, so 7081 candidates should check each old question against the 7081 syllabus.
+
+**What are the 7115 paper numbers?**
+Papers 11, 12 and 14 are Short Answer and Data Response papers. Papers 21, 22 and 24 are Case Study papers.
+
+**What exam technique do the 7115 examiner reports stress?**
+Use a new piece of context for every point, develop points rather than listing them, evaluate with a clear decision, and show the formula and working in calculations.
+
+**Can grade thresholds predict my 7115 grade?**
+No. Thresholds change every series and should not be used to predict future ones.
 
 ## About these notes
 

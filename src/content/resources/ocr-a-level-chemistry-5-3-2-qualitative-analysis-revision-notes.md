@@ -211,6 +211,20 @@ A violet solution shows no fizzing with acid and no precipitate with Ba²⁺ or 
 </figure>
 
 
+## Frequently asked questions
+
+**In what order should you test for anions in OCR A Level Chemistry 5.3.2?**
+Test for carbonate first, then sulfate, then halide. BaCO₃ and Ag₂SO₄ are both insoluble, so carbonate must be removed before the sulfate test and sulfate before the halide test.
+
+**Which transition metal hydroxides dissolve in excess reagent?**
+With excess sodium hydroxide only Cr(OH)₃ dissolves. With excess ammonia only Cr(OH)₃ and Cu(OH)₂ dissolve; the Fe²⁺, Fe³⁺ and Mn²⁺ hydroxides do not.
+
+**Why must the litmus paper be damp in the ammonium test?**
+The indicator only responds once ammonia has dissolved in the water on the paper to give OH⁻(aq) ions. Use damp red litmus and warm the mixture.
+
+**How do you tell Fe²⁺ from Cr³⁺ when both solutions look green?**
+Add excess sodium hydroxide. Cr(OH)₃ dissolves in excess, but Fe(OH)₂ does not.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 5.3.2 Qualitative analysis, learning outcome (a)(i) and (a)(ii), with additional guidance (PAG4, HSW4) and the linked statements 3.1.4(a) and 5.3.1(j). Published by OCR.

@@ -12,11 +12,20 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "poetry-and-unseen-texts-9275"
-description: "Condensed recall notes on comparing People and Places anthology poems and analysing unseen poetry and prose for OxfordAQA International GCSE English Literature Paper 2a (9275)."
+  - qualification: "igcse"
+    topic: "poetry-and-unseen-texts-9275"
+    subtopic: "poetry-9275"
+  - qualification: "igcse"
+    topic: "poetry-and-unseen-texts-9275"
+    subtopic: "unseen-poetry-9275"
+  - qualification: "igcse"
+    topic: "poetry-and-unseen-texts-9275"
+    subtopic: "unseen-prose-9275"
+description: "Condensed notes on comparing People and Places poems and analysing unseen poetry and prose for OxfordAQA International GCSE English Literature 9275 Paper 2a."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -154,6 +163,20 @@ examined unseen-prose section; Route B replaces it with a non-exam
 assessment on a substantial whole prose fiction text chosen outside the
 prescribed set texts. 6. Roughly evenly -- about 45 minutes per section
 -- since all three sections carry the same 30 marks.
+
+## Frequently asked questions
+
+**Is OxfordAQA 9275 Paper 2a open book?**
+Yes. Paper 2a of OxfordAQA International GCSE English Literature (9275) is a 2 hour 15 minute open-book exam worth 90 marks, or 60% of the International GCSE, with three sections of 30 marks each.
+
+**How many poems are in the People and Places anthology?**
+People and Places contains 20 thematically linked poems. Revise them by theme, preparing two or three comparison pairings with a genuine similarity and a genuine difference for each, rather than poem by poem.
+
+**Can I use background knowledge when analysing an unseen poem?**
+No. Unseen work has no biography or critical context to fall back on, so the whole mark comes from what the poem or extract actually contains. A consistent close-reading method matters more than flair.
+
+**What is the three-step method for unseen texts?**
+Work through structure, then language, then effect, for both unseen poetry and unseen prose. Using the same method each time builds consistency under exam pressure.
 
 ## Related resources
 

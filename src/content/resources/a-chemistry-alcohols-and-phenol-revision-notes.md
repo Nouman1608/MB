@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-hydroxy-compounds"
     subtopic: "a-phenol"
-description: "Condensed recall notes on forming esters from alcohols and acyl chlorides, producing phenol, its reactions with bases, sodium, diazonium salts, nitric acid and bromine water, and the relative acidities of water, phenol and ethanol for Cambridge A Level Chemistry 9701 (2025-2027)."
+description: "Revision notes on esters from acyl chlorides, making phenol, its reactions with NaOH, sodium, nitric acid and bromine water, and acidity, for Cambridge 9701."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -239,10 +239,27 @@ Count the free 2-, 4- and 6-positions to predict how many mol of Br₂ react.
    reacts with dilute HNO₃ at room temperature.
 8. An azo compound (azo dye) with an –N=N– link joining the benzene ring and the naphthol ring. The
    extended delocalised system absorbs visible light.
-9. Two: the 4- and 6-positions are free (position 2 holds CH₃). Product: 2,4-dibromo-6-methylphenol (the same compound as "4,6-dibromo-2-methylphenol" in the question's numbering; IUPAC gives bromo the lower locants because b comes before m).
+9. Two: the 4- and 6-positions are free (position 2 holds CH₃). Product: 2,4-dibromo-6-methylphenol (also correctly described as 4,6-dibromo-2-methylphenol if you keep the starting material's numbering; IUPAC gives bromo the lower locants because b comes before m).
 10. Mr(C₆H₅OH) = 6(12.0) + 6(1.0) + 16.0 = 94.0, so n = 0.940 / 94.0 = 0.0100 mol.
     Mr(C₆H₂Br₃OH) = 6(12.0) + 3(1.0) + 3(79.9) + 16.0 = 330.7. 1 : 1 ratio, so
     mass = 0.0100 × 330.7 = 3.31 g.
+
+## Frequently asked questions
+
+**How do you make phenol from phenylamine for Cambridge 9701 Chemistry?**
+React phenylamine with HNO₂, made from NaNO₂ and dilute HCl, below 10 °C to form benzenediazonium chloride. Then warm the diazonium salt solution with water; nitrogen is given off and phenol forms.
+
+**Why is phenol more acidic than ethanol?**
+In the phenoxide ion the negative charge on oxygen is delocalised into the ring's π system, which stabilises the ion. In ethoxide the electron-donating ethyl group intensifies the charge on oxygen and destabilises it, so ethanol dissociates less.
+
+**What do you see when bromine water is added to phenol?**
+The orange bromine water is decolourised and a white precipitate of 2,4,6-tribromophenol forms at room temperature, with no catalyst. The equation is C₆H₅OH + 3Br₂ → C₆H₂Br₃OH + 3HBr.
+
+**How can you tell phenol from a carboxylic acid?**
+Phenol is too weak an acid to release carbon dioxide from sodium carbonate or sodium hydrogencarbonate, so there is no effervescence. Carboxylic acids do fizz with carbonates.
+
+**Why is an acyl chloride better than a carboxylic acid for making an ester?**
+An acyl chloride reacts with an alcohol at room temperature without a catalyst, and the reaction is not reversible, so the yield is high. Esterification with a carboxylic acid needs heating with concentrated H₂SO₄ and reaches an equilibrium.
 
 *These are original notes written for revision. Check the full syllabus wording in the
 [official 9701 syllabus](https://www.cambridgeinternational.org/Images/664563-2025-2027-syllabus.pdf).*

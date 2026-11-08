@@ -19,9 +19,9 @@ syllabusTopics:
     subtopic: "as-gravitational-potential-energy-and-kinetic-energy"
 description: "Original exam-style practice questions with full worked answers on work done, energy conservation, power and efficiency for AS Physics."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -115,3 +115,17 @@ P = E ÷ t = 34 335 ÷ 60 [1] = **572 W** [1].
 - In a maximum-height problem, forgetting that *all* the kinetic energy converts to potential energy only at the very top, where the vertical velocity is momentarily zero.
 - Treating P = Fv as the general *definition* of power — the general definition is always P = W/t. P = Fv is a derived instantaneous-power result that holds generally (including while accelerating), but it is easiest to use in a constant-velocity problem against a resistive force, where the driving force is simply equal to the resistive force.
 - Applying ∆Eₚ = mg∆h to a large change in height without checking that g is approximately constant over that range.
+
+## Frequently asked questions
+
+**What is the difference between P = W/t and P = Fv?**
+P = W/t is the general definition of power, work done per unit time. P = Fv is derived from it and gives instantaneous power; it is easiest to use at constant velocity, when the driving force equals the resistive force.
+
+**Can a device be 100% efficient?**
+Efficiency can never exceed 100%, and most devices lose some energy as heat or sound. An electric heater can come very close to 100%, because heat is the useful output it is designed to produce.
+
+**Why must you use vertical height in mgh?**
+Gravitational potential energy depends on the change in vertical height, not the distance moved along a slope. Using the slope length instead of the vertical height is a common error.
+
+**What mistakes lose marks in work, energy and power questions?**
+Common errors include omitting cos θ when the force is at an angle, forgetting to convert per-minute figures to per-second for power, and saying energy is destroyed rather than transferred or dissipated.

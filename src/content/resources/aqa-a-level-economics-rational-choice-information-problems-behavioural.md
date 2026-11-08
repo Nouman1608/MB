@@ -256,6 +256,23 @@ Limits: effects can fade, vary between people, are hard to measure, and raise wo
 - Confusing bounded rationality (limited ability to choose well) with bounded self-control (failing to act on the choice).
 - Giving a bias example without naming it.
 
+## Frequently asked questions
+
+**What is the difference between bounded rationality and bounded self-control?**
+Bounded rationality means the information, time and thinking capacity people have are limited. Bounded self-control means people know what is best for them in the long run but fail to act on it.
+
+**What biases in decision making does AQA A-level Economics cover?**
+Rules of thumb, anchoring, availability and social norms, alongside altruism and fairness.
+
+**What is choice architecture?**
+Choice architecture is the way choices are presented, including the order, layout, defaults and description of the options.
+
+**What is a nudge?**
+A nudge moves people towards a better choice by changing how it is presented, without forbidding any option.
+
+**Why do people stick with default options?**
+Inertia: few people act to change a default, which is why automatic enrolment in a pension scheme raises membership compared with opting in.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification, version 1.3 (29 June 2022), published by AQA: the A-level sub-section Individual economic decision making, 3.1.2 on the AQA website (4.1.2 in the combined PDF).

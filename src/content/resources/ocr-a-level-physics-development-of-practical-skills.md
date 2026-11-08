@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "development-of-practical-skills-in-physics-ocr-alevel"
     subtopic: "practical-skills-assessed-in-a-written-examination"
-description: "Practical skills assessed in a written examination and practical skills assessed in the Practical Endorsement -- the full content of Module 1 for OCR A-Level Physics A (H556)."
+description: "Module 1 of OCR A Level Physics A (H556): planning, implementing, analysis and evaluation skills tested in written papers, plus the Practical Endorsement."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -217,3 +217,20 @@ Confusing precision with accuracy in an evaluation. Repeating readings as a prop
 - Rearrange a relationship into y = mx + c and state what the gradient represents.
 - Combine percentage uncertainties, including powers, and find gradient uncertainty from error bars.
 - Write an evaluation that targets the dominant source of uncertainty.
+
+## Frequently asked questions
+
+**Is there a separate exam paper for Module 1 of OCR A Level Physics A?**
+No. Module 1 of OCR H556 has no dedicated paper; written-exam practical skills (1.1) are tested within the three written components, H556/01, H556/02 and H556/03, and the Practical Endorsement (1.2) is reported separately.
+
+**Does the Practical Endorsement count towards the A Level grade?**
+The Practical Endorsement is reported separately from the overall grade. It is teacher-assessed and confirms that a student can work safely and competently in a practical context, so it needs sustained engagement across the whole course.
+
+**What is the difference between independent, dependent and control variables?**
+The independent variable is the quantity you change, the dependent variable is the quantity you measure, and control variables are kept constant so the test is fair.
+
+**How do you find the uncertainty in a gradient?**
+Draw error bars, then draw the steepest and shallowest lines that still pass through them. The uncertainty in the gradient is half the difference between the maximum and minimum gradients.
+
+**How do you write a good evaluation of a physics experiment?**
+Identify the measurement with the largest percentage uncertainty and propose an improvement aimed at that measurement. Generic suggestions such as "be more careful", or repeating readings to remove a systematic error, earn no credit.

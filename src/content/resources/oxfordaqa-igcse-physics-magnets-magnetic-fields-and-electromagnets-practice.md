@@ -138,6 +138,20 @@ Links: [study guide](/resources/oxfordaqa-igcse-physics-magnets-magnetic-fields-
 - Take all free 10-minute diagnostics at [diagnostics](/diagnostics/).
 - Book a free trial class at [trial](/trial/).
 
+## Frequently asked questions
+
+**Are these OxfordAQA International GCSE Physics past paper questions?**
+No. They are original practice questions written for revision on magnetism and electromagnetism in OxfordAQA International GCSE Physics (9203). Use them alongside the official past papers from the board.
+
+**Which section of the OxfordAQA 9203 specification do these questions cover?**
+They cover section 3.5.2 (magnetism and electromagnetism), points a to g, including the required practical on the strength of an electromagnet. The qualification is untiered.
+
+**What are the rules for drawing magnetic field lines?**
+Draw lines with arrows pointing from the north pole to the south pole, and never let two lines cross. Lines drawn closer together show a stronger field.
+
+**What do you need to include when planning the electromagnet practical?**
+Name the independent, dependent and control variables, describe how strength is measured and include a safety point. Forgetting to control the other variables is a common way to lose marks.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards, published by OxfordAQA. This page covers section 3.5.2.

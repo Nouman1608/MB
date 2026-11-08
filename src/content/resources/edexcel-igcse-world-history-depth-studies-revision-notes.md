@@ -14,9 +14,9 @@ syllabusTopics:
     topic: "paper-1-depth-studies-4hi1"
 description: "Condensed recall notes on the interpretation-evaluation skill Paper 1 tests, causation, and the depth-study topics for Edexcel International GCSE History 4HI1."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -120,3 +120,14 @@ Build **separate notes for each studied option**, rather than one combined set: 
 7. Why should revision notes be built separately for each studied option rather than combined into one set?
 
 **Answers:** 1. Something else -- the extract is a secondary historian's interpretation assessed under the interpretations objective (AO4), not a primary source assessed for reliability; Paper 1 carries no source-handling (AO3) marks at all. 2. "What impression does the author give about [topic]? You must use Extract [X] to explain your answer" -- worth 6 marks. 3. Explain how each factor contributed, link factors together, then judge which mattered most and state the criterion for that judgement. 4. It was harsh enough to embitter Germany but not harsh enough to prevent her recovering strength. 5. The USA never joined; it had no army; decisions required unanimity; key powers were excluded; sanctions were ineffective; Britain and France pursued self-interest — any four. 6. French Revolution (c1780-99), Unification of Italy (1848-70), Germany: Dictatorship (1918-45), India: Nationalist Challenge (1919-47), USSR: Dictatorship and Conflict (1924-53), Superpower Relations (1943-72), US Civil Rights (1945-74), South Africa: Apartheid (1948-94). 7. Because candidates sometimes unintentionally apply facts from one Depth Study to a question about a different one, especially where two studied options share superficial similarities such as both involving authoritarian rule; separate notes keep the periods from bleeding into one another.
+
+## Frequently asked questions
+
+**Does Paper 1 test source evaluation?**
+No. Paper 1 carries no source-handling (AO3) marks; part (a) asks for the impression given by an extract.
+
+**How many depth studies are there?**
+Eight, of which you study at least two.
+
+**What do examiners reward in causation answers?**
+Weighing and linking factors, and reaching a judgement, rather than listing them.

@@ -159,6 +159,20 @@ These questions are aligned to the IB *Biology guide*, first assessment 2025, an
 - Take [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is human reproduction in detail (D3.1.13 to D3.1.20) HL only?**
+Yes. Statements D3.1.13 to D3.1.20 of sub-topic D3.1 Reproduction are additional higher level in the IB Biology guide (first assessment 2025), so every question here is HL only.
+
+**How many sperm and eggs come from one primary spermatocyte and one primary oocyte?**
+One primary spermatocyte gives four sperm, while one primary oocyte gives one egg; the polar bodies made in oogenesis are never counted as eggs.
+
+**What is the difference between the acrosome reaction and the cortical reaction?**
+The acrosome reaction happens in the sperm: enzymes released by exocytosis digest a path through the zona pellucida. The cortical reaction happens in the egg after fusion: cortical granules change the zona pellucida so no other sperm can enter.
+
+**Why can a cohort study and a randomized trial of HRT reach different conclusions?**
+In a cohort study people choose whether to take HRT, so confounding variables can differ between groups; random assignment in a controlled trial spreads confounding variables evenly between groups.
+
 ## Official syllabus
 
 Source: *Biology guide*, first assessment 2025, International Baccalaureate Organization (Diploma Programme), sub-topic D3.1, statements D3.1.13 to D3.1.20 (Additional higher level).

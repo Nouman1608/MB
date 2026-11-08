@@ -198,6 +198,20 @@ Use social learning theory to explain Tom's behaviour. **[4]**
 - Writing description-only answers to "Evaluate" and "Discuss" questions.
 - Leaving out a reasoned judgement at the end of extended answers.
 
+## Frequently asked questions
+
+**Which section of AQA A-level Psychology 7182 Paper 3 tests Aggression?**
+Aggression is assessed in Paper 3, Issues and Options in Psychology, Section D, which takes one topic from Option 3 for 24 marks. The questions include multiple choice, short answer and extended writing.
+
+**How do you calculate a percentage increase in a psychology data question?**
+Find the difference between the two values, divide it by the comparison value, then multiply by 100. Dividing by the larger value instead of the comparison value is a common slip.
+
+**Why should you compare rates rather than totals in data questions?**
+When groups are different sizes, raw totals are misleading. Converting to a rate, such as assaults per 100 prisoners, lets you compare the groups fairly.
+
+**What do "Evaluate" and "Discuss" questions on Aggression need?**
+They need sustained evaluation and a reasoned judgement, not just description. Extended answers are marked with levels of response, and leaving out a final judgement is a common way to lose marks.
+
 ## Next steps
 
 Check your answers against the [aggression study guide](/resources/aqa-a-level-psychology-7182-aggression/) and revise weak areas with the [aggression revision notes](/resources/aqa-a-level-psychology-7182-aggression-revision-notes/). Practise the biological and learning approaches behind these explanations with the [approaches practice questions](/resources/aqa-a-level-psychology-approaches-practice/). Find your gaps with our [free diagnostics](/diagnostics/), track topics on the [7182 checklist](/checklists/aqa/a-level/psychology/), browse the [course hub](/boards/aqa/a-level/psychology/), or [Book a free trial class](/trial/).

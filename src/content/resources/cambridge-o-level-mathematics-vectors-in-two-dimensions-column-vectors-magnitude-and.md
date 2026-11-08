@@ -258,6 +258,20 @@ MN is a scalar multiple of AB, so **MN is parallel to AB**, and MN = 2/5 of AB.
 - Stopping at a calculation with no conclusion sentence in a "show that" or proof.
 - Mixing up ratio parts. If OM : MA = 2 : 3, then OM is 2/5 of OA, not 2/3.
 
+## Frequently asked questions
+
+**What does a column vector mean?**
+The top number is the movement in the x-direction, positive to the right, and the bottom number is the movement in the y-direction, positive upwards.
+
+**How do you find the vector AB from position vectors?**
+Use AB = OB − OA = b − a: go back to the origin and then out to B. Writing OA − OB reverses the direction.
+
+**What is the position vector of a midpoint?**
+The midpoint M of AB has position vector ½(a + b).
+
+**Which sections of the Cambridge 4024 syllabus cover vectors?**
+Vectors in two dimensions are covered in sections 7.2 to 7.4 of the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus: column vectors, magnitude, and vector geometry.
+
 ## Next steps
 
 Work through the [revision notes](/resources/cambridge-o-level-mathematics-vectors-in-two-dimensions-column-vectors-magnitude-and-revision-notes/), then try the [practice questions](/resources/cambridge-o-level-mathematics-vectors-in-two-dimensions-column-vectors-magnitude-and-practice/). For related skills see [coordinate geometry practice](/resources/o-level-mathematics-coordinate-geometry-practice/), which supports finding lengths and midpoints, and [geometry practice](/resources/o-level-mathematics-geometry-practice/) for similarity. Past-paper links are collected on the [4024 past papers page](/resources/cambridge-o-level-mathematics-4024-past-papers/).

@@ -159,6 +159,20 @@ These questions follow the Pearson Edexcel International Advanced Subsidiary/Adv
 - Try all free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Should you write "ER" in organelle answers?**
+No. Say rough or smooth endoplasmic reticulum. Writing just "ER" is a common way to lose marks.
+
+**What do mitochondria make?**
+Mitochondria make ATP in aerobic respiration. Saying they "make energy" loses marks.
+
+**Does magnification have a unit?**
+No. Write magnification as a multiple, such as ×5000, with no other unit.
+
+**What should a biological drawing include?**
+Clear lines with no shading, label lines that do not cross, and a magnification. Missing any of these is a common error.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification, Issue 2, Pearson Education Limited. Statements 3.1 to 3.8 of Topic 3.

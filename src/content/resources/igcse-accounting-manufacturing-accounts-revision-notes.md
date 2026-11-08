@@ -212,6 +212,20 @@ Depreciation of factory machinery is a factory overhead. Depreciation of office 
 - Writing a total with no label, so a marker cannot see which line it is.
 - Omitting the $ sign or the year-end date from a heading.
 
+## Frequently asked questions
+
+**What is work in progress?**
+Work in progress is part-finished goods still in the factory. Opening work in progress is added and closing work in progress is deducted when finding factory cost of production.
+
+**Are all factory wages direct labour?**
+No. Direct labour is the wages of production workers. Wages of supervisors and other indirect factory staff are factory overheads.
+
+**How are a manufacturer's inventories shown in the statement of financial position?**
+Show three inventories under current assets: raw materials, work in progress and finished goods. Giving one inventory figure loses marks.
+
+**Does a manufacturer's cost of sales start with purchases?**
+No. A manufacturer's cost of sales uses factory cost of production in place of purchases, adjusted for opening and closing finished goods inventory.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1), Cambridge International, section 5.4 Manufacturing accounts.

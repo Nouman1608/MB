@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "inorganic-chemistry-4ch1"
     subtopic: "reactivity-series-4ch1"
-description: "Group 1 and Group 7 trends, gases in the atmosphere and the reactivity series -- sub-topics (a) to (d) of Topic 2 Inorganic Chemistry, Pearson Edexcel International GCSE Chemistry (4CH1)."
+description: "Edexcel International GCSE Chemistry 4CH1 guide to Group 1 and Group 7 trends, gases in the atmosphere and the reactivity series, Topic 2 sub-topics (a) to (d)."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -241,6 +241,20 @@ protection as three distinct rust-prevention mechanisms.
 </figure>
 
 
+## Frequently asked questions
+
+**How does reactivity change down Group 1 and Group 7 in Edexcel IGCSE Chemistry?**
+Reactivity increases down Group 1, because the single outer electron is lost more easily further down. It decreases down Group 7, because gaining one outer electron gets harder as the outer shell is more shielded from the nucleus.
+
+**Which metals are in the 4CH1 reactivity series?**
+The specification lists eleven metals in order: potassium, sodium, lithium, calcium, magnesium, aluminium, zinc, iron, copper, silver and gold.
+
+**What are the two definitions of oxidation and reduction?**
+In terms of oxygen, oxidation is gain of oxygen and reduction is loss of oxygen. In terms of electrons, oxidation is loss of electrons and reduction is gain; exam questions may use either.
+
+**How can iron be prevented from rusting?**
+The specification names barrier methods, galvanising and sacrificial protection. They work by different mechanisms, so they are not interchangeable explanations.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE Chemistry (4CH1) specification, Issue
@@ -260,4 +274,3 @@ Pearson Edexcel International GCSE Chemistry (4CH1) specification, Issue
   <img src="https://img.marlbridge.com/igcse-edexcel-chemistry-reactivity-and-group-trends--04-carbonate-thermal-decomposition.webp" width="900" height="975" alt="Green copper(II) carbonate is heated; carbon dioxide passes to limewater, which turns milky. CuCO3 gives black CuO plus CO2." loading="lazy">
   <figcaption>Thermal decomposition of a carbonate gives an oxide and carbon dioxide.</figcaption>
 </figure>
-

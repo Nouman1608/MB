@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "preparation-of-financial-statements"
   - qualification: "o-level"
     topic: "preparation-of-financial-statements"
-description: "Condensed recall notes on financial statements and year-end adjustments for sole traders, partnerships and limited companies, manufacturing accounts, clubs and societies and incomplete records, for Cambridge IGCSE Accounting (0452) Topic 5, 2027-2029 syllabus."
+description: "Quick recall for Cambridge IGCSE Accounting 0452 Topic 5: sole traders, partnerships, companies, manufacturing accounts, clubs and incomplete records."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 publishedDate: 2026-09-16
 featured: false
 ---
@@ -336,3 +336,19 @@ $2,000 = $8,400.
   <figcaption>Loan interest comes before profit; the appropriation account only shares the profit out.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How is subscription income calculated for a club?**
+Subscription income equals subscriptions received plus closing arrears plus opening subscriptions in advance, minus opening arrears and minus closing subscriptions in advance. Arrears are an other receivable and advance payments an other payable.
+
+**How do you calculate profit from changes in capital?**
+Profit equals closing capital minus opening capital, plus drawings, minus capital introduced. Capital at each date comes from a statement of affairs: assets minus liabilities.
+
+**Which businesses are tested in 0452 incomplete records questions?**
+The syllabus note says incomplete records questions are only on sole traders, not on service or manufacturing businesses.
+
+**What are the advantages and disadvantages of incomplete records?**
+Incomplete records are cheaper, simpler and quicker to keep. However, there is no trial balance check, errors and fraud are harder to detect, profit is hard to find, and lenders and tax authorities may not accept the figures.
+
+**What inventories does a manufacturer show in the statement of financial position?**
+A manufacturer shows three inventories: raw materials, work in progress and finished goods. Factory cost of production goes into cost of sales in the statement of profit or loss.

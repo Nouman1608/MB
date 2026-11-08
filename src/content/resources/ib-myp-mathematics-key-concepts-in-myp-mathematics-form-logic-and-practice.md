@@ -143,6 +143,20 @@ Related pages: the [study guide](/resources/ib-myp-mathematics-key-concepts-in-m
 - Giving a rule or model without saying where it is valid.
 - Writing answers to a "show that" without every step in a clear line of reasoning.
 
+## Frequently asked questions
+
+**Are patterns and validity key concepts in MYP Mathematics?**
+No. Patterns and validity are related concepts. The three key concepts mathematics contributes are form, logic and relationships, and giving a related concept when a key concept is asked for is a common error.
+
+**How should you describe the form of a shape?**
+Describe it by its properties, not its appearance. For example, show a quadrilateral is a rhombus by proving that all four sides are equal, and test for a right angle before calling it a square.
+
+**What must you include when classifying an inquiry question?**
+State whether it is factual, conceptual or debatable and give the reason for your choice. Leaving out the reason is a frequent way to lose credit.
+
+**How do area and volume change when a shape is enlarged?**
+If lengths are multiplied by a scale factor k, area is multiplied by k² and volume by k³. Forgetting this is a common slip in relationships questions.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/ib-myp-mathematics-key-concepts-in-myp-mathematics-form-logic-and/) and the [revision notes](/resources/ib-myp-mathematics-key-concepts-in-myp-mathematics-form-logic-and-revision-notes/).

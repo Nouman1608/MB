@@ -175,6 +175,23 @@ These questions cover topic P4.1, Magnets and magnetic fields (P4.1a to P4.1g), 
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What do these OCR GCSE Physics A magnetism questions cover?**
+They cover topic P4.1 of OCR GCSE (9-1) Physics A (J249): magnetic poles, permanent and induced magnets, field lines, the Earth's field and compasses, the field around a wire, and solenoids.
+
+**What are the rules for drawing magnetic field lines?**
+Field lines never cross, carry arrows, and run from the north pole to the south pole outside the magnet. Lines that cross, have no arrows or run from south to north lose marks.
+
+**Why doesn't attraction prove that an object is a magnet?**
+A magnet attracts any magnetic material, because it induces an opposite pole in it. Only repulsion shows that both objects are magnets.
+
+**How should I describe a trend in a table of electromagnet data?**
+State the direction of the trend, quote figures from the table with units, and name the variable you are describing. A word like "stronger" with no variable named gains little credit.
+
+**How do I explain what a compass shows?**
+Say that the compass needle is a small magnet that lines up with the magnetic field it is in. Answers that describe the compass without saying it is a magnet often miss the mark.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), specification Version 5.0 (July 2026), first assessment 2018, published by OCR. This page covers topic P4.1.

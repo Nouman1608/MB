@@ -171,6 +171,23 @@ For the structure of these components, see the [Individual Report guide](/resour
 
 Test yourself with the [practice questions](/resources/igcse-global-perspectives-0457-media-and-communication-practice/), then go over the [revision notes](/resources/igcse-global-perspectives-0457-media-and-communication-revision-notes/). For general skills, see the [Global Perspectives revision notes](/resources/global-perspectives-revision-notes/) and the [Individual Report revision notes](/resources/global-perspectives-individual-report-revision-notes/). For issues about online life more broadly, see the [Digital world guide](/resources/igcse-global-perspectives-0457-digital-world/). Your teacher will confirm which topics your class will use for each component.
 
+## Frequently asked questions
+
+**What issues come under Media and communication in 0457?**
+Global issues include misleading information crossing borders and the safety of journalists. National issues include funding public service broadcasters, and local issues include local newspapers closing and community notices some residents cannot read.
+
+**What is media literacy?**
+Media literacy is the ability to find, judge and create media messages. UNESCO calls this media and information literacy.
+
+**What is agenda-setting?**
+Agenda-setting is the theory, from a 1972 study by McCombs and Shaw, that the issues voters rate most important closely match the issues the media covers most. The study shows a strong link, but a link is not proof that the media caused it.
+
+**Why has local news declined?**
+Advertising money has moved from print to online platforms and fewer people buy print papers, so newspapers have less income. As a consequence, fewer reporters cover local councils and courts.
+
+**How many courses of action should the Individual Report propose?**
+The syllabus asks for a single course of action. Proposing several actions at the end of the report is a common error.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Topic list: section 3; assessment objectives: section 2; component details and command words: section 4.

@@ -14,13 +14,13 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "cells-aqa-alevel-biology"
     subtopic: "structure-of-eukaryotic-cells-aqa-alevel-biology"
-description: "Original exam-style practice questions with full worked answers on eukaryotic organelles, prokaryotic cell structure and viruses for AQA AS and A-Level Biology (7401/7402), 3.2.1.1 and 3.2.1.2."
+description: "Original practice questions with worked answers on eukaryotic organelles, prokaryotic cells and viruses for AQA AS and A-level Biology (7401/7402), 3.2.1."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-04
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -106,3 +106,17 @@ Related: [Eukaryotic and Prokaryotic Cell Structure study guide](/resources/a-le
 ## Approaching structure-function questions
 
 Whenever a question asks how an organelle's structure relates to its function, the highest-scoring answers follow a consistent three-part pattern: state the relevant structural feature precisely (not just the organelle's name), state the function, and then explicitly explain the mechanical or chemical link between them — for example, that folded membranes increase surface area, or that a fluid-filled compartment allows enzymes to be concentrated together. Naming the organelle and its function separately, without the explicit "because" that connects them, is the most common way full marks are missed on this sub-topic.
+
+## Frequently asked questions
+
+**How do you answer a structure–function question on an organelle?**
+Describe a structural feature and then link it to the function it allows. Describing an organelle without linking structure to function earns fewer marks.
+
+**Which part of the AQA specification do these questions cover?**
+They cover 3.2.1.1 and 3.2.1.2 of AQA AS and A-level Biology (7401/7402): eukaryotic organelles, prokaryotic cell structure and viruses.
+
+**What should you name when describing lysosomes?**
+Say that they contain hydrolytic enzymes, rather than calling them generic "digestive organelles".
+
+**Are these AQA past paper questions?**
+No. They are original exam-style questions with full worked answers. Use them alongside official AQA past papers.

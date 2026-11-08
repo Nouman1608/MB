@@ -14,13 +14,13 @@ syllabusTopics:
     topic: "accounting-procedures"
   - qualification: "o-level"
     topic: "accounting-procedures"
-description: "Exam-style questions with full worked answers on capital and revenue items, depreciation and disposals, accruals and prepayments, irrecoverable debts and the allowance, and inventory valuation, for Cambridge IGCSE Accounting (0452) Topic 4, 2027-2029 syllabus."
+description: "Exam-style Cambridge IGCSE Accounting 0452 Topic 4 questions with marked answers on depreciation, disposals, accruals, irrecoverable debts and inventory."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-16
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -556,3 +556,20 @@ capital and revenue errors, say which figures are affected, in which
 direction and by how much, and remember that an inventory error carries
 into the next year. Use the marks shown for each part as a guide to how
 much detail to give.
+
+## Frequently asked questions
+
+**How should I set out answers to Accounting Procedures questions in Cambridge IGCSE Accounting 0452?**
+Most answers combine a short calculation with a double entry, so show both: write the rule, put in the figures, and then name the account debited and the account credited. Marks in the worked answers are given for each correct step and entry, not only the final figure.
+
+**What should I work out first in a disposal of non-current assets question?**
+Work out the accumulated depreciation on the asset sold before you open any ledger account. Then check that the disposal account balances with the profit or loss on disposal as the final figure.
+
+**How do I decide which side to bring down an accrual or prepayment balance?**
+Decide first whether the closing balance is an asset or a liability. Prepaid expenses and accrued incomes are assets brought down as debits; accrued expenses and incomes received in advance are liabilities brought down as credits.
+
+**How should I answer questions on the effect of an error on profit?**
+State which figures are affected, in which direction (overstated or understated) and by how much. Remember that an inventory error carries into the next year, because the wrong closing inventory becomes the next year's opening inventory.
+
+**Are Cambridge IGCSE Accounting 0452 question papers divided into sections?**
+No. The papers are not divided into lettered sections, so the questions on this page are grouped only by length, with a Paper 2 style structured question at the end.

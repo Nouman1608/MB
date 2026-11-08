@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-ocr-alevel-maths"
     subtopic: "sequences-and-series-ocr-alevel-maths"
-description: "Study guide to sequences, sigma notation, arithmetic and geometric series, sums to infinity and modelling for OCR A Level Mathematics A."
+description: "Study guide to sequences, sigma notation, arithmetic and geometric series, sums to infinity and modelling for OCR A Level Mathematics A (H240)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -296,6 +296,20 @@ Just after dose 5: 50(1 − 0.85⁵)/0.15 = **185 mg** (3 s.f.). In the long run
 - Giving a non-integer n. Interpret the answer as a whole number of periods and check the neighbours.
 
 Continue with the [revision notes](/resources/ocr-a-level-mathematics-sequences-sigma-notation-arithmetic-and-geometric-revision-notes/) and then the [practice questions](/resources/ocr-a-level-mathematics-sequences-sigma-notation-arithmetic-and-geometric-practice/).
+
+## Frequently asked questions
+
+**What is the difference between a formula for the nth term and a recurrence relation?**
+A formula for the nth term, uₙ = f(n), lets you jump straight to any term. A recurrence relation, xₙ₊₁ = f(xₙ) with a starting value, makes you work term by term.
+
+**What is the sum of an arithmetic series?**
+Sₙ = n/2 (2a + (n − 1)d), or n/2 (a + l) where l is the last term.
+
+**How do you model simple and compound interest with sequences?**
+Simple interest adds the same amount each year, so it is arithmetic. Compound interest multiplies by the same factor each year, so it is geometric, with r = 1 + the rate.
+
+**What happens to repeated doses in the long run?**
+If a fixed fraction remains between doses, the amount just after each dose follows a geometric series. Its sum to infinity gives the long-run level that the amount approaches but never exceeds.
 
 ## Official syllabus
 

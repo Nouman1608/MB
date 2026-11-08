@@ -365,6 +365,20 @@ opp = 5 × tan 60° = 5√3 cm
 
 Work through the [practice questions](/resources/ocr-gcse-mathematics-pythagoras-right-angled-trigonometry-and-exact-practice/), then use the [revision notes](/resources/ocr-gcse-mathematics-pythagoras-right-angled-trigonometry-and-exact-revision-notes/) for quick recall.
 
+## Frequently asked questions
+
+**How do you test whether a triangle is right-angled?**
+Check whether the squares of the two shorter sides add up to the square of the longest side. For sides 8, 15 and 17, 64 + 225 = 289 = 17², so the triangle is right-angled.
+
+**How do you label the opposite and adjacent sides in trigonometry?**
+Label them from the angle you are working with: the opposite side is across the triangle from it and the adjacent side is next to it but is not the hypotenuse. Re-label whenever you change angle.
+
+**How do you find the angle between a line and a plane in 3D?**
+Compare the line with its shadow on the plane, as if a light shone straight down. The line, the shadow and the vertical drop form a right-angled triangle, so use trigonometry on it; this is Higher tier only.
+
+**Do you need the exact value of tan 90° for OCR GCSE Maths?**
+No. The OCR GCSE Mathematics J560 specification asks for exact values of tan θ at 0°, 30°, 45° and 60° only, and of sin θ and cos θ at 0°, 30°, 45°, 60° and 90°.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, specification Version 2.1 (August 2026), first assessment in 2017, published by OCR. This unit covers statements 10.05a, 10.05b and 10.05c.

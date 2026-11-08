@@ -17,9 +17,9 @@ syllabusTopics:
     topic: "ib-myp-sciences-related-concepts"
 description: "Condensed revision notes on atomic structure, isotopes, ions and ionic, covalent and metallic bonding, with a self-test, for IB MYP Sciences years 4 and 5."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -171,6 +171,20 @@ The brief names **models** as a related concept for MYP sciences, and **change**
 - In a data task, classifying a substance without quoting the evidence (melting point, conductivity) that supports it.
 
 For practice tied to each criterion, go to the [practice questions](/resources/ib-myp-sciences-atomic-structure-and-bonding-practice/). For the particle model, changes of state and related properties, see the separate [states and properties of matter revision notes](/resources/ib-myp-sciences-states-and-properties-of-matter-revision-notes/). For how the criteria work in general, see the [assessment revision notes](/resources/ib-myp-sciences-assessment-revision-notes/) and the [criteria in practice revision notes](/resources/ib-myp-sciences-criteria-in-practice-revision-notes/).
+
+## Frequently asked questions
+
+**How do you calculate relative atomic mass from isotope abundances?**
+Multiply each isotope's mass number by its percentage abundance, add the results and divide by 100. The answer should lie between the lightest and heaviest isotope and closer to the more abundant one.
+
+**How are electrons arranged in shells for the first 20 elements?**
+Electrons fill up to 2 in the first shell, then up to 8 in the second and up to 8 in the third, with the 19th and 20th electrons going into the fourth shell. The number of occupied shells equals the period number.
+
+**Why are metals good conductors of electricity?**
+A metal is a lattice of positive ions in a sea of delocalised electrons. The delocalised electrons can move through the structure, carrying charge and heat.
+
+**Why are alloys harder than pure metals?**
+In an alloy, atoms of a different size distort the layers of metal ions, so the layers cannot slide over each other as easily. This makes alloys such as steel harder than the pure metal.
 
 ## Official syllabus
 

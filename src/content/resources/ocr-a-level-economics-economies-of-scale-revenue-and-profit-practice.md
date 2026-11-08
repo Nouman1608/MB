@@ -147,6 +147,20 @@ Read the [study guide](/resources/ocr-a-level-economics-economies-of-scale-reven
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between internal and external economies of scale?**
+Internal economies of scale come from the firm's own growth and move it along its LRAC curve. External economies of scale come from the growth of the whole industry, such as a skilled labour pool or specialist suppliers, and shift every firm's LRAC curve down.
+
+**How do you identify the minimum efficient scale from a table?**
+Minimum efficient scale is the first, smallest output at which long-run average cost reaches its lowest level. If two outputs share the minimum cost, choosing the larger one is a common slip.
+
+**What is the difference between accounting profit and economic profit?**
+Accounting profit is total revenue minus explicit costs. Economic profit also subtracts implicit costs, such as the owner's earnings elsewhere and the return on savings tied up in the business, so normal profit is already included within costs.
+
+**Should a loss-making firm close in the short run?**
+Not necessarily. A firm should keep producing in the short run if price covers average variable cost, because closing would lose the fixed costs anyway. Compare price with AVC, or the loss with fixed cost, before recommending closure.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), first assessment 2021.

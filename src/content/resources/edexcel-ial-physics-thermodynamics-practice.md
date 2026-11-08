@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-5-thermodynamics-radiation-oscillations-and-cosmology"
     subtopic: "thermodynamics-edexcel"
-description: "A mixed Unit 5 paper of original exam-style practice questions with full worked answers, covering sub-topic 5.3 thermodynamics (specific heat capacity, gas laws, internal energy) alongside sub-topic 5.6 astrophysics and cosmology (black body radiation, the H-R diagram and Hubble's law)."
+description: "Mixed Unit 5 practice questions on heat capacity, gas laws and internal energy plus black bodies, H-R diagrams and Hubble's law for Edexcel IAL Physics."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -111,3 +111,17 @@ Related: [Thermodynamics revision notes](/resources/edexcel-ial-physics-thermody
 - Raising T to the wrong power in Stefan's law.
 - Assuming average molecular speed is proportional to temperature rather than to its square root.
 - Forgetting that Boyle's law only holds at constant temperature for a fixed mass of gas.
+
+## Frequently asked questions
+
+**Are these Edexcel IAL Physics questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure or mark tariffs. Use them alongside the official Pearson Edexcel past papers.
+
+**Why does this paper mix thermodynamics and astrophysics?**
+It is a mixed Unit 5 paper, covering sub-topic 5.3 Thermodynamics alongside sub-topic 5.6 Astrophysics and Cosmology.
+
+**What does Core Practical 14 investigate?**
+Core Practical 14 investigates the relationship between the pressure and volume of a fixed mass of gas at constant temperature.
+
+**Can temperatures be used in °C in these calculations?**
+Temperature differences are the same in °C and kelvin, but absolute temperatures are not, so use kelvin wherever an absolute temperature is required.

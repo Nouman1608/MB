@@ -137,6 +137,20 @@ These questions practise **sub-topic D.4, Induction**, from the IB Diploma Progr
 - Try the [free 10-minute diagnostics](/diagnostics/) to find your next weak spot.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these IB DP Physics induction questions from past papers?**
+No. They are original questions written for revision and practice, and they do not replicate the exam's structure, question count or mark tariffs. Use them alongside the official IB past papers from your school or the IB store.
+
+**Are these induction questions for SL or HL?**
+Every question is HL only, because sub-topic D.4, Induction, is additional higher level content.
+
+**What value of g do these questions use?**
+Use g = 9.81 N kg⁻¹ where a question needs it.
+
+**What slips lose marks in generator and coil calculations?**
+Common slips are forgetting the number of turns N in the emf of a coil, and substituting f where ω = 2πf is needed.
+
 ## Official syllabus
 
 These questions follow sub-topic D.4 (Induction) of the IB Diploma Programme *Physics guide*, first assessment 2025, published by the International Baccalaureate Organization. D.4 is additional higher level content only.

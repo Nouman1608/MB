@@ -265,6 +265,23 @@ Impact:
 - Stating that selective breeding is "unnatural" instead of giving a genetic reason such as lost variation.
 - Reading one line of a graph. Compare the pest and predator lines.
 
+## Frequently asked questions
+
+**How does eutrophication kill fish?**
+Decomposers break down the dead plants and algae and use up oxygen in the water as they respire. The fall in oxygen is what kills the fish, and this step is often left out of answers.
+
+**Which value is the base in a percentage change?**
+The original figure is the base, so divide the change by the starting value, not the final one, and include units such as tonnes per hectare where needed.
+
+**What is a genetic disadvantage of selective breeding?**
+Selective breeding reduces genetic variation, so a population may be less able to cope with new diseases or changes in the environment. Give a genetic reason like this rather than calling it "unnatural".
+
+**How should a pest and predator graph be read?**
+Compare both lines rather than reading only one, describing how the pest and predator numbers change in relation to each other.
+
+**What does topic B6.2 of OCR GCSE Biology cover?**
+Topic B6.2 Feeding the human race in OCR GCSE Biology A (J247) covers factors affecting food security, agricultural solutions and the impact of selective breeding.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Biology A (J247)*, Version 4.0 (August 2026), for first assessment in 2018, topic B6.2 Feeding the human race, outcomes B6.2a to B6.2c.

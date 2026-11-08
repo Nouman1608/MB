@@ -14,11 +14,11 @@ syllabusTopics:
     topic: "business-objectives-and-strategic-decisions-ocr-alevel-business"
 description: "Original exam-style practice questions with full worked answers on strategy, Ansoff, Porter, SWOT, contingency planning and decision trees."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -118,3 +118,17 @@ Limitations (any **two**, 1 mark each): it produces a **list rather than a prior
 - Not explaining why diversification is the riskiest quadrant.
 - Describing SWOT without noting it produces no priorities.
 - Describing a contingency plan without evaluating whether its benefits justify its cost.
+
+## Frequently asked questions
+
+**How is OCR H431/02 structured?**
+The paper opens with Section A of short-answer questions worth 20 marks, followed by Section B of extended-response questions worth 60 marks that relate to a Resource Booklet describing a real-life business.
+
+**What is the difference between a strategy and a tactic?**
+A strategy is the long-term plan for achieving objectives, while tactics are short-term actions that serve it. Giving a tactic as an example of a strategy is a common mistake.
+
+**Why is diversification the riskiest Ansoff strategy?**
+Diversification means both the product and the market are new to the business, so it has the least existing knowledge to rely on. Answers lose marks when they name it as riskiest without explaining why.
+
+**What should an answer on contingency planning include?**
+Explain how the plan reduces the impact of a crisis, then evaluate whether its benefits justify its cost and how far any plan can cover unpredictable events.

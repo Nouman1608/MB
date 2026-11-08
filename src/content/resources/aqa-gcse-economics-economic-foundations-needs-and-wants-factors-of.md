@@ -237,6 +237,23 @@ The evaluation matters more than the sum. The figures are estimates. Some benefi
 - Saying profit is guaranteed. It can be zero or a loss.
 - Treating a want as always a want. State that classification can change over time.
 
+## Frequently asked questions
+
+**What is the difference between a need and a want?**
+A need is something a person must have to stay alive and healthy, such as food, water and shelter. A want is something enjoyable that a person can manage without, and the line between them can change over time.
+
+**What are the three key economic decisions?**
+Every society must decide what to produce, how to produce it and who is to benefit.
+
+**What are the factors of production and their rewards?**
+Land earns rent, labour earns wages or salary, capital earns interest and enterprise earns profit, which can be negative.
+
+**What is the basic economic problem?**
+Scarcity: resources are limited, but human needs and wants are unlimited, so choices must be made.
+
+**What is the central purpose of economic activity?**
+In AQA GCSE Economics 8136, the central purpose of economic activity is producing goods and services that satisfy needs and wants.
+
 ## Official syllabus
 
 Source: the AQA GCSE Economics specification (8136), Version 1.0, published by AQA, for first teaching from September 2017. This page follows section 3.1.1, Economic foundations.

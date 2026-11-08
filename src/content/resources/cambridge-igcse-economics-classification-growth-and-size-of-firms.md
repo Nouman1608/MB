@@ -266,6 +266,20 @@ Average cost falls by 0.40 a unit. Large savings need not last: if the merged fi
 - Calling a fall in sales share a fall in sales. Sales can grow while share falls.
 - Forgetting to say which measure of size you are using.
 
+## Frequently asked questions
+
+**Do you need to know company structures for Cambridge IGCSE Economics 0455?**
+No. The Cambridge IGCSE Economics 0455 syllabus states that detailed knowledge of different types of structure of a firm is not required. Section 3.5 focuses on classification, small firms, growth, mergers and economies of scale.
+
+**Why do small firms continue to exist?**
+Small firms exist because some markets are small or local, customers want a personal or craft product, some industries offer few economies of scale, owners may choose to stay small, and small firms can serve niche markets or supply large firms.
+
+**What is a conglomerate merger?**
+A conglomerate merger joins firms in unrelated industries. It spreads risk, but managers may lack experience of the new industry and there are few cost savings from scale.
+
+**What causes diseconomies of scale?**
+Internal diseconomies come from poor communication, slow decisions, low worker motivation and weak coordination in a very large firm. External diseconomies arise when an industry is too concentrated in an area, leading to congestion and higher rents and wages.
+
 ## Official syllabus
 
 Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, Cambridge Assessment International Education, section 3.5 (Firms). See also the [exam preparation guide](/resources/cambridge-igcse-economics-exam-preparation/).

@@ -183,6 +183,23 @@ Keep sensitive topics at the level of awareness and signposting to trusted adult
 
 Read the component guides: [Written Exam](/resources/igcse-cambridge-global-perspectives-written-exam/), [Individual Report](/resources/igcse-cambridge-global-perspectives-individual-report/) and [Team Project](/resources/igcse-cambridge-global-perspectives-team-project/). For more skills practice, use the [Written Exam practice questions](/resources/global-perspectives-practice/) and the [Written Exam revision notes](/resources/global-perspectives-revision-notes/).
 
+## Frequently asked questions
+
+**How does the WHO define health?**
+The WHO Constitution, adopted in 1946, defines health as "a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity". The definition is itself a perspective that some critics question.
+
+**What causes health problems in IGCSE Global Perspectives?**
+Health issues rarely have one cause. Causes can be individual, such as diet and exercise; social and economic, such as income and housing; environmental, such as air quality; and political, such as health spending and advertising rules.
+
+**What real examples of health actions can you evaluate?**
+Examples include Mexico's tax of one peso per litre on sugar-sweetened drinks from 2014, the UK's Soft Drinks Industry Levy from April 2018, the WHO Framework Convention on Tobacco Control (2003) and the eradication of smallpox, declared in 1980.
+
+**What questions should you ask of a health source?**
+Ask who produced it and whether they gain, whether it is fact or opinion, what the sample is, whether it is self-reported, whether it shows cause or only a link, and whether there is a comparison group.
+
+**How should a Team Project handle sensitive health topics?**
+Keep sensitive topics at the level of awareness and signposting to trusted adults and services. The project still needs a local issue and an action the team can carry out and measure.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025), published by Cambridge International. Health and wellbeing is listed in section 3; the assessment objectives are in section 2 and the component details and command words in section 4.

@@ -174,6 +174,20 @@ Before starting, work through the [amines study guide](/resources/oxfordaqa-a-le
 - [Book a free trial class](/trial/)
 - A [checklist you can print](/checklists/oxfordaqa/a-level/chemistry/) for the whole course
 
+## Frequently asked questions
+
+**What does OxfordAQA A-level Chemistry 3.3.11 Amines cover?**
+Section 3.3.11 of OxfordAQA International AS and A-level Chemistry (9620) covers preparing amines, their base properties and the order of base strength, nucleophilic substitution with halogenoalkanes, quaternary ammonium salts as surfactants, and amide formation by addition–elimination.
+
+**What are common mistakes in amines questions?**
+Frequent errors include classifying an amine by the carbon next to N rather than the carbons on N, treating benzylamine-type compounds as aromatic, unbalanced [H] equations, leaving the + charge off N in an intermediate, and giving HCl as a by-product of an acid anhydride reaction.
+
+**How do you get full marks for an amine substitution mechanism?**
+Start each curly arrow at a lone pair or a bond, show the positive charge on nitrogen in the intermediate, and show a second amine molecule removing H⁺ from N⁺ at the end. Missing the final H⁺ removal is a common way to lose a mark.
+
+**How do you name N-substituted amides?**
+Show the group on nitrogen with N- in the name, for example N-ethylpentanamide. Dropping the N- from N-substituted amide names is a common error.
+
 ## Official syllabus
 
 Source document: the 9620 specification from OxfordAQA (International AS and A-level Chemistry), Version 5.3, first teaching 2019, for exams from May/June 2020. Section covered: 3.3.11 Amines, subsections 3.3.11.1 to 3.3.11.3, all International A2.

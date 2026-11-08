@@ -16,9 +16,9 @@ description: "Condensed recall notes on how to answer AQA A Level Sociology's di
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-26
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 Condensed for the final weeks. For the full course picture, use the
@@ -129,3 +129,17 @@ question asked.
 4. Name the three broad categories of issue methods in context can test.
 
 **Answers:** 1. The named research method's own strengths/limitations, and a specific feature of the education topic or setting being researched. 2. Any one: needing gatekeeper permission from head teachers or parents, working within timetabling constraints, or the power imbalance between researcher and pupils. 3. Because participants are often minors, meaning consent typically also needs to be obtained from a parent or guardian, and children may not fully understand what they are consenting to. 4. Practical, ethical and theoretical issues.
+
+## Frequently asked questions
+
+**What is the methods in context question in AQA A Level Sociology?**
+It asks you to apply your knowledge of a specific research method to a specific research topic within the Education component of AQA A Level Sociology (7192). It rewards methodological reasoning about a concrete situation, not memorised definitions.
+
+**What is the difference between reliability and validity?**
+Reliability asks whether the research could be repeated with the same results; validity asks whether the method captures the true picture. A method can be strong on one and weak on the other, as structured interviews often are.
+
+**What practical issues come up when researching in schools?**
+Common ones are gaining access through gatekeepers such as head teachers and parents, working within school timetables, the power imbalance between researchers and pupils, and safeguarding and consent when working with children.
+
+**Why is informed consent a bigger issue in education research?**
+Pupils are often minors, so consent typically has to come from a parent or guardian as well as the pupil, and safeguarding duties apply.

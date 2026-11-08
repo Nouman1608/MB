@@ -148,6 +148,23 @@ These questions cover sections 3.2.3.4 and 3.2.3.5 of the OxfordAQA Internationa
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on current account questions?**
+Common losses are calling a goods deficit the current account deficit, losing the sign on a balance, adding percentage changes instead of multiplying indices, stating that depreciation improves the balance without an elasticity condition, and describing a conflict without an AD/AS step.
+
+**How do I combine two percentage changes, such as output growth and a fall in emissions per unit?**
+Multiply the index values, for example 1.035 times 0.985, rather than adding or subtracting the percentages. Subtraction gives a different, approximate answer.
+
+**How should I explain a conflict between objectives?**
+Name both objectives, explain the mechanism with an AD/AS step showing which curve shifts, then qualify it with the timescale, the amount of spare capacity and the cause of the shock.
+
+**Is a short-run trade-off between objectives permanent?**
+No. Demand-side policy trades one objective for another in the short run, but supply-side policies that shift LRAS right can ease conflicts in the long run.
+
+**Which OxfordAQA 9640 sections do these questions cover?**
+They cover sections 3.2.3.4 (the balance of payments on current account) and 3.2.3.5 (conflicts between macroeconomic policy objectives) of the OxfordAQA International AS and A-level Economics (9640) specification.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, first teaching September 2020, published by OxfordAQA: sections 3.2.3.4 and 3.2.3.5.

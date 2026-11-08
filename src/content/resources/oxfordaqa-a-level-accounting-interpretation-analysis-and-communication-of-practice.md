@@ -170,6 +170,20 @@ Judgement: worthwhile if the cost estimates hold; retraining some painters as te
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Where do students usually lose marks on investors' ratios?**
+Common losses are mixing dollars and cents when calculating price earnings or dividend yield, and using profit before tax instead of profit after tax for EPS and dividend cover.
+
+**What mistakes are common in transaction effect questions?**
+Treating a share issue or dividend payment as changing profit, and changing only one current asset when two are affected. Work out every figure the transaction touches before recalculating a ratio.
+
+**How should I write about stakeholders in OxfordAQA 9615 section 3.2.9?**
+Link each stakeholder you name to a specific ratio or report it needs and say why. Naming a stakeholder with no link to information earns little.
+
+**How do I assess a recommendation in this topic?**
+Cover the financial case and the stakeholders, and include the local economy, national economy or environment whenever the question names them. End with a final recommendation linked to the evidence.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA -- section 3.2.9, Interpretation, analysis and communication of accounting information. Ratio formulae from the OxfordAQA guide *Formulae for accounting ratios*.

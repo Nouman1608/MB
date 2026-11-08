@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-life-hazrat-muhammad-9237"
     subtopic: "sources-of-authority-9237"
-description: "The Qur'an, Hadith, Sunnah, Ijma and Qiyas as sources of authority in Islam -- covering 3.2.2.1-3.2.2.5 of OxfordAQA International GCSE Islamiat (9237), Version 1.1, for exams May/June 2026 onwards."
+description: "The Qur'an, Hadith, Sunnah, Ijma and Qiyas as sources of authority, sub-topics 3.2.2.1 to 3.2.2.5 of OxfordAQA International GCSE Islamiat 9237, Version 1.1."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -138,6 +138,17 @@ questions.
 
 - [Sources of Authority in Islam revision notes](/resources/igcse-oxfordaqa-islamiyat-sources-of-authority-revision-notes/)
 - [Sources of Authority in Islam practice questions](/resources/igcse-oxfordaqa-islamiyat-sources-of-authority-practice/)
+
+## Frequently asked questions
+
+**How are the 9237 papers structured?**
+Each paper lasts 1 hour 30 minutes and has two sections of 25 marks, with short questions building to an extended response worth 12 marks related to a set passage.
+
+**Why is the Hadith needed alongside the Qur'an?**
+The Qur'an gives general principles and commands; the Hadith and Sunnah show how the Prophet (pbuh) applied them in detail, for example in prayer.
+
+**Does the specification rank the sources?**
+No. It asks for the meaning, role and importance of each source.
 
 ## Official syllabus
 

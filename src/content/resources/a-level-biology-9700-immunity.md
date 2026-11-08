@@ -22,11 +22,11 @@ syllabusTopics:
     subtopic: "antibodies-and-vaccination-cambridge-alevel-biology"
 description: "Study guide to phagocytes, antigens, primary and secondary responses, antibodies, monoclonal antibodies and vaccination for Cambridge 9700 AS Biology."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This study guide teaches topic 11 **Immunity** of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers section 11.1 The immune system (learning outcomes 1–4) and section 11.2 Antibodies and vaccination (learning outcomes 1–6). This is AS Level content, examined on Paper 1 (Multiple Choice) and Paper 2 (AS Level Structured Questions); the syllabus says Paper 4 also needs knowledge of AS Level content. There is no Core/Supplement split: every outcome applies to all candidates.
@@ -233,6 +233,23 @@ The vaccine causes a **primary immune response** without the disease. Memory cel
 ## Where to go next
 
 Condense this topic with the [immunity revision notes](/resources/a-level-biology-9700-immunity-revision-notes/), then test yourself with the [immunity practice questions](/resources/a-level-biology-immunity-practice/). Link it back to HIV and TB in the [infectious diseases revision notes](/resources/a-level-biology-9700-infectious-diseases-revision-notes/). Check coverage on the [9700 checklist](/checklists/cambridge/a-level/biology/) and try the [9700 AS diagnostic](/practice/9700/diagnostic/as/).
+
+## Frequently asked questions
+
+**How do phagocytes destroy pathogens?**
+A phagocyte moves towards the pathogen by chemotaxis, binds it with receptors and engulfs it by endocytosis into a phagocytic vacuole. Lysosomes fuse with the vacuole and release hydrolytic enzymes that digest the pathogen.
+
+**What is clonal selection?**
+Clonal selection is when only the lymphocytes with receptors complementary to a particular antigen bind to it and are activated. They then divide by mitosis to form a clone, which is clonal expansion.
+
+**Why is the secondary immune response faster than the primary response?**
+Memory cells remain after the first exposure and there are far more of them than the original matching lymphocytes. When the same antigen returns they divide quickly into plasma cells, so antibody concentration rises faster and higher.
+
+**How are monoclonal antibodies used?**
+They bind only to one specific antigen. In diagnosis they are attached to a marker such as a fluorescent dye; in treatment they are given to bind a specific antigen on target cells.
+
+**Why are some diseases hard to control by vaccination?**
+Pathogens may change their antigens or have many strains, live inside cells hidden from antibodies, or infect people with weak immune systems; some vaccines must also be kept cold, and herd immunity is lost if uptake is too low.
 
 ## Official syllabus
 

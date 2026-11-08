@@ -300,6 +300,20 @@ The cdf is F(x) = (4/27)(x³ − x⁴/4) = (4x³ − x⁴)/27. Setting F(m) = 1/
 - Setting f′(x) = 0 and not checking it, or ignoring an endpoint mode.
 - Claiming P(X = a) is not zero, or treating < and ≤ differently.
 
+## Frequently asked questions
+
+**What is the difference between a pdf and a cdf?**
+The pdf f(x) gives the probability density and is not itself a probability. The cdf F(x) gives P(X ≤ x), a probability between 0 and 1.
+
+**How are the pdf and cdf linked?**
+Integrating the pdf gives the cdf, and differentiating the cdf gives the pdf, so f(x) = dF(x)/dx.
+
+**How do you find the mean of a continuous random variable?**
+Integrate x f(x) over the interval where f is non-zero. For a piecewise pdf, integrate each piece separately and add the results.
+
+**What functions are used for pdfs in Edexcel IAL S2?**
+The specification restricts the formulae defining f(x) to simple polynomials, which may be expressed piecewise.
+
 ## Next steps
 
 Work through the [revision notes](/resources/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode-revision-notes/), then try the [practice questions](/resources/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode-practice/).

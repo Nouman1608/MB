@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-m2-mechanics-oxfordaqa-alevel-maths"
     subtopic: "m2-work-and-energy-oxfordaqa-alevel-maths"
-description: "Twelve original practice questions with worked answers on work, energy, the work-energy principle and power for OxfordAQA 9660 Unit M2."
+description: "Twelve original practice questions with fully worked answers on work, energy, the work-energy principle and power for OxfordAQA 9660 Unit M2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -138,6 +138,20 @@ Links: [study guide](/resources/oxfordaqa-a-level-mathematics-work-energy-and-po
 - Return to the [OxfordAQA A-level Mathematics hub](/boards/oxfordaqa/a-level/mathematics/) and tick off outcomes on the [checklist](/checklists/oxfordaqa/a-level/mathematics/).
 - Try all free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
+
+## Frequently asked questions
+
+**What height do you use for potential energy on a slope?**
+Use the vertical height, not the distance along the slope. The height is the slope length multiplied by the sine of the slope angle.
+
+**When can you not use conservation of mechanical energy?**
+When friction, drag or a driving force such as an engine does work. Use the work-energy principle instead, including the work done by every force.
+
+**Which force goes into P = Fv?**
+The driving force produced by the engine, not the resultant force. Convert power from kW to W first.
+
+**What is the speed of a projectile at its highest point in an energy question?**
+It is not zero. The horizontal component of velocity remains, so the kinetic energy at the top is not zero.
 
 ## Official syllabus
 

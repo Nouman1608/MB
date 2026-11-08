@@ -220,6 +220,23 @@ Describe how a radio signal from a transmitter produces a sound in a portable ra
 
 Use the [revision notes](/resources/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation-revision-notes/) next, then try the [practice questions](/resources/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation-practice/).
 
+## Frequently asked questions
+
+**Which electromagnetic waves are dangerous to the body?**
+Ultraviolet, X-rays and gamma rays carry enough energy to damage living cells. X-rays and gamma rays are ionising, so they can damage DNA and cause cancer.
+
+**How does an X-ray image show bones?**
+Bone absorbs many X-rays and soft tissue absorbs few. Fewer X-rays reach the detector behind bones, so they show as pale shadows on the image.
+
+**How is a gamma camera used in medicine?**
+A patient is given a tracer that emits gamma rays and is carried to an organ by the blood. Gamma rays pass out of the body easily, and a gamma camera outside detects where they come from.
+
+**Is ultrasound part of the electromagnetic spectrum?**
+No. Ultrasound is a sound wave with a frequency above the range of human hearing. It is longitudinal and needs a medium, so it is not an electromagnetic wave.
+
+**Why does a radiographer leave the room during an X-ray?**
+X-rays are ionising and exposure carries a risk of cancer. The patient has one short exposure whose benefit outweighs the small risk, but the radiographer takes many X-rays every day, so leaving the room or standing behind a shield stops those small doses adding up.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249) specification*, Version 5.0, July 2026, first assessment 2018. Section P5.2 The electromagnetic spectrum, statements P5.2g to P5.2j.

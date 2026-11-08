@@ -265,6 +265,20 @@ Size is not the only issue. A sample of 200 taken only from the students who arr
 
 Work through the [practice questions](/resources/oxfordaqa-igcse-mathematics-probability-scale-relative-frequency-expected-practice/), then use the [revision notes](/resources/oxfordaqa-igcse-mathematics-probability-scale-relative-frequency-expected-revision-notes/) as a final check. Tick off S9 to S13 on the [checklist](/checklists/oxfordaqa/igcse/mathematics/).
 
+## Frequently asked questions
+
+**What words describe probabilities on the probability scale?**
+A probability of 0 is impossible, close to 0 is unlikely, 0.5 is evens or an even chance, close to 1 is likely, and 1 is certain.
+
+**What is the difference between an outcome, an event and a trial?**
+An outcome is one possible result of an experiment, an event is one outcome or a group of outcomes you are interested in, and a trial is one go at the experiment.
+
+**What does it mean if experimental results do not match the theoretical probability?**
+There are two possible reasons: chance, or a model that is wrong, such as a biased die. With few trials the gap could easily be chance, so more trials are needed before deciding.
+
+**Which probability statements does this OxfordAQA 9260 unit cover?**
+It covers S9 to S13 of OxfordAQA International GCSE Mathematics (9260): probability vocabulary and the scale, theoretical and experimental probability, comparing experiment with theory, repeating experiments and the effect of sample size. All are Core.
+
 ## Official syllabus
 
 This page follows the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA, section 3.4.3 Probability, statements S9 to S13.

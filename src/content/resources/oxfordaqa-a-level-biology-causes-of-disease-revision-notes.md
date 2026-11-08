@@ -14,11 +14,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "biological-systems-and-disease-oxfordaqa-alevel-biology"
     subtopic: "the-causes-of-disease-pathogens-lifestyle-and-genes-oxfordaqa-alevel-biology"
-description: "Condensed recall notes on pathogens, disease mechanisms and lifestyle risk factors for coronary heart disease and cancer, for OxfordAQA International A-Level Biology (9610), sub-topic 3.2.1."
+description: "Revision notes for OxfordAQA International A-level Biology (9610) section 3.2.1: how pathogens cause disease, and lifestyle risk factors for CHD and cancer."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -114,6 +114,20 @@ When a question presents disease-incidence data linked to a lifestyle risk facto
 
 - [The Causes of Disease study guide](/resources/a-level-oxfordaqa-biology-causes-of-disease/)
 - [The Causes of Disease practice questions](/resources/a-level-oxfordaqa-biology-causes-of-disease-practice/)
+
+## Frequently asked questions
+
+**How do pathogens enter the body?**
+Pathogens such as bacteria and viruses enter by penetrating one of a mammal's interfaces with the environment. The OxfordAQA 9610 specification names the digestive, reproductive and gas-exchange systems, and the skin is a further interface.
+
+**What is a risk factor?**
+A risk factor is a variable statistically associated with an increased likelihood of a disease, without necessarily being proven to cause it. Examples include smoking or high dietary saturated fat for coronary heart disease.
+
+**Why does a correlation between a risk factor and disease not prove causation?**
+Other variables that differ between the groups compared, such as smoking, activity levels or genetics, could also explain the difference in disease rate. Establishing cause needs further evidence, such as a controlled study or an understood biological mechanism.
+
+**What is an example of a pathogen that causes disease mainly through a toxin?**
+The bacterium responsible for tetanus causes disease mainly through a toxin that affects the nervous system, causing muscle spasms, rather than through direct destruction of host tissue.
 
 ## Official syllabus
 

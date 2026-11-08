@@ -28,14 +28,14 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "organic-chemistry"
     subtopic: "alkenes"
-description: "Original exam-style practice questions with full worked answers on fractional distillation, alkane substitution, cracking and alkene addition reactions for IGCSE Chemistry."
+description: "Original practice questions with worked answers on fractional distillation, alkanes, cracking and alkene addition for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-01
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -136,3 +136,17 @@ Related: [Petroleum, Alkanes and Alkenes study guide](/resources/petroleum-alkan
 - Naming the wrong fraction for a use — remember the order runs bitumen, lubricating oil, fuel oil, diesel/gas oil, kerosene/paraffin, naphtha, gasoline/petrol, refinery gas from bottom to top, with chain length and boiling point falling all the way up.
 - *(0620 Extended, 5070 required)* Writing an addition equation with mismatched atom counts either side — check every atom balances, not just the carbons.
 - Calling petroleum a single named fossil fuel — petroleum, coal and natural gas (mainly methane) are three separate fossil fuels, not different names for the same thing.
+
+## Frequently asked questions
+
+**What are the most common mistakes in petroleum and alkene questions?**
+Frequent slips include treating fractional distillation, cracking and polymerisation as one vague "processing crude oil" idea, writing equations with mismatched atom counts, and calling petroleum a single name for all fossil fuels.
+
+**What does "0620 Extended, 5070 required" mean on these questions?**
+It marks content that only Extended (Supplement) candidates need for Cambridge IGCSE 0620, but that every Cambridge O Level 5070 candidate must know.
+
+**How should you check a balanced organic equation?**
+Count every type of atom on both sides, not just the carbons. Equations that balance carbon but not hydrogen or oxygen lose marks.
+
+**Which Cambridge syllabus topics do these questions cover?**
+They cover Topic 11 subtopics 11.3 Fuels, 11.4 Alkanes and 11.5 Alkenes for Cambridge IGCSE Chemistry 0620 and O Level Chemistry 5070.

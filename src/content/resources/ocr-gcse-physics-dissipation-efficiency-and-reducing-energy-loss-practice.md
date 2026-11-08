@@ -124,6 +124,20 @@ These questions cover statements P7.2a to P7.2g, Power and efficiency, in the OC
 - Answering a cooling question without mentioning rate, thickness or conductivity.
 - Skipping the controlled variables in a fair test.
 
+## Frequently asked questions
+
+**What are the most common mistakes in efficiency questions?**
+Common errors include writing that energy is "lost" or "used up", treating a high power rating as a sign of high efficiency, dividing the wasted energy by the input instead of the useful energy, and giving an efficiency above 100%.
+
+**How do you answer a building cooling question for full marks?**
+Talk about the rate of cooling and mention both the thickness of the walls and their thermal conductivity. Thicker walls made of a low-conductivity material give a lower rate of cooling.
+
+**What must a fair test of insulation include?**
+Name the controlled variables: the same volume of hot water at the same starting temperature, the same lid and the same room, changing only the insulation. Skipping the controlled variables is a common reason for lost marks.
+
+**Does insulation stop energy transfer?**
+No. Insulation slows down energy transfer; it does not stop it. Writing that insulation "stops" energy transfer is marked wrong.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/ocr-gcse-physics-dissipation-efficiency-and-reducing-energy-loss-revision-notes/).

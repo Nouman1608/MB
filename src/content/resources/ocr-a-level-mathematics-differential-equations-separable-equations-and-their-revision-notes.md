@@ -209,6 +209,20 @@ Define every symbol with its units, state whether k is positive, and add the ini
 - Leaving a solution with a domain problem unmentioned, such as a denominator that reaches zero.
 - Stopping at the solution when the question asks for a time, a limit or a distance.
 
+## Frequently asked questions
+
+**What is the difference between a general and a particular solution?**
+A general solution contains an arbitrary constant and describes a family of curves. A particular solution is the one member of that family that fits a given initial condition.
+
+**How do you find a half-life from dN/dt = −kN?**
+The solution is N = N₀e^(−kt). Solve N = N₀/2 to get t = ln 2/k; the doubling time for growth, dN/dt = kN, is also ln 2/k.
+
+**How do you remove the logarithm after separating variables?**
+From ln|y − a| = g(x) + c, write y − a = Ae^(g(x)), where A absorbs the constant. Never write y − a = e^(g(x)) + c.
+
+**What is terminal velocity in a differential equation model?**
+It is the limiting speed that the velocity approaches. Find it by setting the acceleration dv/dt to zero and solving for v.
+
 ## Official syllabus
 
 OCR, *A Level Mathematics A (H240)* specification, Version 3.1 (August 2026), for first assessment in 2018. Sections 1.08k and 1.08l.

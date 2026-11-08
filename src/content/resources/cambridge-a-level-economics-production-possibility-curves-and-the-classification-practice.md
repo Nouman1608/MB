@@ -153,6 +153,20 @@ Free provision may over-supply if demand rises beyond the social optimum [1]. Al
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate opportunity cost from a PPC table?**
+Find the amount of one good given up and divide it by the amount of the other good gained. State the answer per unit of the good gained and name the good it is measured in, because a bare number or a division done the wrong way round loses marks.
+
+**What is the difference between potential and actual growth on a PPC?**
+An outward shift of the PPC is potential growth: the economy can now produce more. Actual growth only happens if the economy moves to a point on the new curve by using the extra resources, so a shift alone does not guarantee higher output.
+
+**Why is a public good not just a good provided by the government?**
+In Cambridge 9708 Economics a public good is defined by two features, non-excludability and non-rivalry, not by who supplies it. A state school place, for example, is rivalrous and excludable, so it is a private good even when the state provides it.
+
+**How is a 10-mark evaluation question on goods and services marked?**
+The mark scheme on this page gives up to 6 marks for definitions and reasoning and up to 4 for evaluation. Answers that weigh benefits against opportunity cost and end with a supported judgement score better than a list of points with no conclusion.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge Assessment International Education): sections 1.5 and 1.6.

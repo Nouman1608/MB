@@ -270,6 +270,23 @@ Use this order for any location case study:
 - Using manufacturing factors for a service business (or the reverse).
 - Giving a recommendation with no justification or no drawback.
 
+## Frequently asked questions
+
+**How do you calculate a defect rate from a sample?**
+Defect rate = faulty items in the sample ÷ items in the sample × 100. Applying that rate to total output estimates the number of faulty items, though the true figure may differ because it comes from a sample.
+
+**Does the Cambridge IGCSE Business 0264 syllabus list the location factors?**
+No. The syllabus does not name the location factors one by one, so the lists taught are the standard ones. Learn them as a toolkit and choose the few that matter for the business in the question.
+
+**What factors should a business consider when choosing a country to locate in?**
+Standard factors include labour cost and skills, land and energy costs, market access and trade taxes, transport links, government attitude, political stability, exchange rates, language and culture, and legal requirements.
+
+**What are the disadvantages of quality control?**
+Faults are found after money, materials and time have been spent, inspectors add cost without adding to the product, sampling can miss faulty items, and workers may leave quality to the inspectors.
+
+**Is quality assurance free of disadvantages?**
+No. It needs training, planning and changes to systems, depends on every employee cooperating, can be slow to show results and still may not remove every fault.
+
 ## Official syllabus
 
 Aligned to sections 4.5 and 4.6 of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education).

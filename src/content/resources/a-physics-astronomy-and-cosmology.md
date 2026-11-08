@@ -20,11 +20,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-astronomy-and-cosmology"
     subtopic: "a-hubbles-law-and-the-big-bang-theory"
-description: "Standard candles and determining astronomical distance, calculating stellar radii, and Hubble's law and the Big Bang theory, for Cambridge International AS & A Level Physics 9702."
+description: "Standard candles and the inverse square law, stellar radii from Wien's and Stefan-Boltzmann laws, redshift and Hubble's law: Topic 25 of Cambridge 9702 Physics."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -213,6 +213,20 @@ what is required at this level, but worth being aware of conceptually.
 - Combining Wien's law (λₘₐₓT = constant) with the Stefan-Boltzmann law to find stellar radius
 - Δλ/λ ≈ v/c for redshift, and v = H₀d for Hubble's law
 - Hubble's law as evidence for universal expansion and the Big Bang theory
+
+## Frequently asked questions
+
+**What is a standard candle in astronomy?**
+A standard candle is an astronomical object of known luminosity. Measuring its radiant flux intensity at Earth and using F = L/(4πd²) gives its distance, which is how distances to galaxies are found.
+
+**What is the difference between luminosity and radiant flux intensity?**
+Luminosity is the total power of radiation a star emits, in watts. Radiant flux intensity is the power received per unit area at a given distance, in W m⁻², and the two are linked by the inverse square law.
+
+**How do you find the radius of a star?**
+Use Wien's displacement law with the peak wavelength of the star's spectrum to find its surface temperature, then put that temperature and the star's luminosity into the Stefan-Boltzmann law L = 4πσr²T⁴ and solve for r.
+
+**What units do you use for the Hubble constant in Cambridge 9702?**
+The Cambridge 9702 syllabus only requires SI units with Hubble's law, so use H₀ in s⁻¹ (about 2.3 × 10⁻¹⁸ s⁻¹) with distance in metres and speed in m s⁻¹.
 
 ## Related resources
 

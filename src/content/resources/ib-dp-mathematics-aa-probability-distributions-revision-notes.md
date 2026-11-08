@@ -40,11 +40,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-4-14"
 description: "Condensed IB DP Maths AA notes on probability, binomial and normal distributions, Bayes and continuous variables, with a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 For full explanations and longer worked examples, start with the [probability and distributions study guide](/resources/ib-dp-mathematics-aa-probability-distributions/). These notes are for the final weeks.
@@ -227,6 +227,19 @@ When you are ready, test yourself with the [probability and distributions practi
   <figcaption>Binomial probabilities are found as pdf and cdf values; the mean np = 3 is the balance point.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between mutually exclusive and independent events?**
+Mutually exclusive events have P(A ∩ B) = 0; independent events have P(A ∩ B) = P(A)P(B). If P(A) and P(B) are both non-zero, exclusive events cannot be independent.
+
+**What are the conditions for a binomial distribution?**
+There must be a fixed number of trials n, two outcomes on each trial, a constant probability of success p, and independent trials. Then X ~ B(n, p) with E(X) = np and Var(X) = np(1 − p).
+
+**Is Bayes' theorem in IB Maths AA SL?**
+No. Bayes' theorem (section 4.13) is HL only in IB DP Mathematics: Analysis and Approaches, and the guide limits it to a maximum of three events.
+
+**How do you find an unknown constant k in a probability distribution?**
+For a discrete variable, set the sum of all probabilities equal to 1. For a continuous variable (HL), set the integral of f over its whole domain equal to 1.
 
 ## Official syllabus
 

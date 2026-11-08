@@ -251,6 +251,23 @@ The guide treats consequences for markets and stakeholders as an evaluation skil
 
 Paper 1 does not allow calculators; Paper 2 includes some quantitative questions; HL Paper 3 is a policy paper with quantitative and qualitative questions. In every case, show the steps. The command term "calculate" asks for the working to be shown.
 
+## Frequently asked questions
+
+**How do you draw an indirect tax on a supply and demand diagram?**
+Shift the supply curve upwards by the amount of the tax, mark the new higher consumer price and lower quantity, mark the price producers keep on the original supply curve, and shade the tax revenue rectangle.
+
+**How do you draw a subsidy on a supply and demand diagram?**
+Shift the supply curve downwards by the amount of the subsidy. The new equilibrium has a lower price for consumers, a higher price received by producers and a higher quantity.
+
+**What are the consequences of a price ceiling for stakeholders?**
+Renters or buyers who get the good pay less, but those who cannot find it lose out; suppliers receive less and may cut quality or leave the market; the government may have to enforce or ration; and society loses welfare from trades that no longer happen.
+
+**What are the consequences of a price floor?**
+Producers gain a higher price, consumers pay more and buy less, taxpayers pay for any surplus the government buys, and resources are drawn into a product the market does not need at that price.
+
+**Does a subsidy always improve welfare?**
+No. A subsidy only improves welfare if the market was producing too little in the first place, as with a positive externality. Otherwise it pushes output beyond the efficient level.
+
 ## Official syllabus
 
 This page follows the IB Diploma Programme *Economics guide*, sub-topic 2.7 Role of government in microeconomics, first assessment 2022, published by the International Baccalaureate Organization in February 2020.

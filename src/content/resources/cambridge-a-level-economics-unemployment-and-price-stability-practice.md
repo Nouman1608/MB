@@ -161,6 +161,20 @@ These questions cover sections 4.5 and 4.6 of the Cambridge International AS & A
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What base do you use to calculate the unemployment rate?**
+Divide the number unemployed by the labour force (the employed plus the unemployed) and multiply by 100. Using the whole population or the working-age population as the base is a common way to lose the mark.
+
+**Can the unemployment rate fall without any new jobs being created?**
+Yes. If discouraged workers stop looking for work, they leave the labour force, so the measured rate falls even though they still have no job. Check who has left the labour force before treating a lower rate as more jobs.
+
+**How do you calculate the inflation rate from a consumer price index?**
+Take the change in the CPI, divide it by the old (earlier) CPI and multiply by 100. Dividing by the new CPI is a frequent error in Cambridge 9708 Economics answers.
+
+**How do you get marks for the consequences of inflation?**
+Say who gains and who loses rather than just listing effects. For example, people on fixed incomes and savers whose interest lags prices lose, while borrowers with fixed repayments gain.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education). Sections 4.5.1 to 4.5.4 and 4.6.1 to 4.6.5.

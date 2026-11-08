@@ -12,11 +12,11 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "topic-c1-particles-j248"
     subtopic: "c1-2-atomic-structure-j248"
-description: "Sub-atomic particles, the changing atomic model, atomic scale, and calculating protons, neutrons and electrons from atomic number, mass number and ion charge, for OCR GCSE (9-1) Chemistry A (Gateway Science) J248."
+description: "OCR GCSE Chemistry A (J248) C1.2 Atomic structure: how the atomic model changed, the size of atoms, and counting protons, neutrons and electrons in ions."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-18
 featured: false
 ---
@@ -208,6 +208,23 @@ tiny nuclear radius relative to the atom, almost all mass in the nucleus
 - Relative charges and masses of protons, neutrons and electrons
 - Calculating protons, neutrons and electrons from atomic number, mass
 number and ion charge
+
+## Frequently asked questions
+
+**How do you work out the number of neutrons in an atom?**
+Subtract the atomic number from the mass number: neutrons = mass number − atomic number. For chlorine-37, with atomic number 17 and mass number 37, that gives 37 − 17 = 20 neutrons.
+
+**How many electrons does an ion have?**
+Start from the atomic number, which equals the number of electrons in the neutral atom, then subtract the charge for a positive ion or add it for a negative ion. An Mg²⁺ ion has 12 − 2 = 10 electrons, and its number of protons is unchanged.
+
+**How did Rutherford's experiment change the model of the atom?**
+Geiger and Marsden's alpha-particle scattering results, interpreted by Rutherford, showed that most of an atom's mass and all its positive charge are in a tiny, dense nucleus. This overturned Thomson's plum pudding model, which could not explain alpha particles being deflected back.
+
+**How big is an atom for OCR GCSE Chemistry?**
+For OCR GCSE (9–1) Chemistry A (J248), atoms and small molecules have a typical radius of the order of 10⁻¹⁰ metres. The nucleus is much smaller, with a radius roughly 1/10,000th of the atom's.
+
+**Do isotopes of an element react differently?**
+No. Isotopes have the same number of protons and electrons, so they react chemically in the same way. They differ only in their number of neutrons, so their mass and some physical properties are different.
 
 ## Related resources
 

@@ -14,13 +14,13 @@ syllabusTopics:
     topic: "verification-of-accounting-records"
   - qualification: "o-level"
     topic: "verification-of-accounting-records"
-description: "The trial balance, correction of errors, bank reconciliation and control accounts -- the four checking mechanisms of Topic 3 for Cambridge IGCSE Accounting 0452, 2027-2029 syllabus."
+description: "Cambridge IGCSE Accounting 0452 Topic 3 guide to the trial balance, correcting errors, bank reconciliation and control accounts, for the 2027-2029 syllabus."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -226,6 +226,19 @@ sales or purchases ledger.
   <figcaption>A control account is built from different records than the ledger, so a difference signals an error.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does Topic 3 Verification of accounting records cover in Cambridge IGCSE Accounting 0452?**
+It has four sub-topics: 3.1 The trial balance, 3.2 Corrections of errors, 3.3 Bank reconciliation and 3.4 Control accounts. All four answer the same question: how do we know the accounting records are right?
+
+**Does a trial balance that balances prove the accounts have no errors?**
+No. Several error types, including principle, commission, original entry, omission, complete reversal and compensating errors, leave the debit and credit totals equal while the records are still wrong.
+
+**Why is posting vehicle repairs to the motor vehicles account an error of principle?**
+Vehicle repairs are revenue expenditure (an expense), but the amount was posted to a non-current asset account, which is the wrong class of account. The trial balance still agrees, so the error is corrected by a journal entry rather than through a suspense account.
+
+**Do digital payments remove the need for a bank reconciliation?**
+No. Card payments, online payments and bank transfers clear faster, so there are fewer timing differences, but direct debits, standing orders, bank charges and interest still reach the bank statement before the cash book, and entries can still be duplicated or mis-keyed.
 
 ## Official syllabus
 

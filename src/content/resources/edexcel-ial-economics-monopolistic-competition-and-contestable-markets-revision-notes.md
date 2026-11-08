@@ -193,7 +193,7 @@ Higher sunk costs mean a weaker threat, a higher sustainable price and more prof
 7. What is excess capacity?
 8. In the long run, how does AR relate to ATC?
 9. Give two characteristics of a contestable market.
-10. In the coach route reminder, what is the limit price if F = 80?
+10. In the 8b reminder example (P = 30 − Q, MC = 6, n = 2), what is the limit price if F = 80?
 
 ### Answers
 
@@ -218,6 +218,23 @@ Higher sunk costs mean a weaker threat, a higher sustainable price and more prof
 - Describing limit pricing without saying why the incumbent sacrifices profit.
 - Listing benefits and costs without a judgement or a condition.
 - Calling every differentiated market monopolistic competition without checking entry barriers.
+
+## Frequently asked questions
+
+**What are the three types of product differentiation in Edexcel IAL Economics?**
+The Edexcel IAL Economics (YEC11) specification names physical differentiation (changing the product itself), marketing differentiation (advertising, packaging and branding) and distribution differentiation (selling through shops, online or by telephone). Successful differentiation raises loyalty and lowers price elasticity of demand, but adds cost.
+
+**Why do firms in monopolistic competition make only normal profit in the long run?**
+Supernormal profit attracts new firms because barriers to entry are low. Entry takes customers from existing firms, shifting each firm's demand curve left until AR just touches ATC at one point, leaving normal profit and no incentive for further entry or exit.
+
+**Is monopolistic competition productively or allocatively efficient?**
+Neither. In the long run output is below the output at minimum ATC, so there is excess capacity and productive efficiency fails, and price is above marginal cost, so allocative efficiency fails too. Normal profit does not mean the market is efficient.
+
+**What is the difference between a sunk cost and a fixed cost?**
+A sunk cost cannot be recovered when a firm leaves the market, whereas a fixed cost does not vary with output and may be recoverable, for example by reselling assets. Higher sunk costs weaken the threat of entry, raising the limit price and incumbent profit.
+
+**Does a contestable market need many firms?**
+No. A market is contestable when rivals can enter and leave cheaply and quickly, with low or no sunk costs. Even a single incumbent can be disciplined by the threat of hit-and-run entry, so the number of firms does not matter.
 
 ## Official syllabus
 

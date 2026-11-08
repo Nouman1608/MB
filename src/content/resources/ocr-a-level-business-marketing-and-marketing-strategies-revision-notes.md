@@ -193,6 +193,20 @@ Worked example: price +10%, quantity -12%, PED = -1.2, so demand is elastic and 
 - Evaluating with a one-sided answer and no final judgement for "evaluate" or "justify".
 - Ignoring the stakeholders when the question names them.
 
+## Frequently asked questions
+
+**What is the difference between a customer and a consumer?**
+Customers are those who pay and consumers are those who use the product. A parent may be the customer and a child the consumer.
+
+**How do you calculate price elasticity of demand for OCR A Level Business H431?**
+PED = % change in quantity demanded ÷ % change in price, which is the standard form. For example, a 10% price rise with a 12% fall in quantity gives −1.2, so demand is elastic and revenue falls.
+
+**What extra elements are added for service marketing?**
+Process, people and physical evidence are added to the four Ps, because services are intangible and are made and used at the same time.
+
+**Do the Boston Matrix and product life cycle predict exactly what will happen?**
+No. Stages of the product life cycle are not predictable in length and not every product follows the curve, so treat both models as planning aids rather than exact predictions.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Business (H431) specification, Version 2.1 (January 2026), for first assessment in 2017 (final assessment summer 2027), published by OCR.

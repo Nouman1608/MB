@@ -181,6 +181,20 @@ One electron in each of the five 3d boxes [1]; a single electron in 4s, all six 
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry electron structure questions from past papers?**
+No. They are original practice questions with fully worked answers on section 2.2.1 of OCR A Level Chemistry A (H432).
+
+**How many electrons can the fourth shell hold?**
+The fourth shell can hold 32 electrons, because it has s, p, d and f sub-shells. Giving 18 is a common error.
+
+**How do you count unpaired electrons?**
+Count them from a box diagram, not from the superscript. For example, 4p⁴ has two unpaired electrons, not four, because electrons occupy orbitals singly before pairing.
+
+**Which electrons are removed when a Period 4 p-block atom forms a cation?**
+Remove the 4p electrons, then the 4s electrons. Removing 3d electrons from atoms such as gallium or germanium is a common mistake.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, published by OCR. Section 2.2.1 Electron structure.

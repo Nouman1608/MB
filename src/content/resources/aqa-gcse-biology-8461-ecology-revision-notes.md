@@ -30,11 +30,11 @@ syllabusTopics:
     subtopic: "food-production-aqa-gcse-biology"
 description: "Condensed AQA GCSE Biology 8461 Ecology revision notes: key terms, sampling maths, decay, biomass efficiency, human impact and a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 These revision notes cover Topic 7, **Ecology** (sections 4.7.1 to 4.7.5), of the AQA GCSE Biology (8461) specification, for first teaching 2016 with exams from 2018 (version 1.0). Ecology is examined on Paper 2 at both Foundation and Higher tier, every May/June. Only section 4.7.2.4 is Higher tier only, and it is marked below.
@@ -291,6 +291,23 @@ Factors: temperature, availability of water, composition of atmospheric gases. C
 - Writing about the nitrogen cycle, which is not required.
 - In "evaluate" questions, giving only benefits -- add a cost or conflict and a conclusion.
 - Calling mycoprotein a bacterial product -- it comes from the fungus *Fusarium*.
+
+## Frequently asked questions
+
+**What do plants and animals compete for?**
+Plants compete for light, space, water and mineral ions from the soil. Animals compete for food, mates and territory.
+
+**What is the difference between abundance and distribution?**
+Abundance is how many of a species there are, measured with random quadrats. Distribution is where the species is found, measured with a transect.
+
+**What happens in a predator–prey cycle?**
+As prey numbers rise, predators have more food and rise after a lag. More prey are then eaten and prey fall, so predators then fall, and the cycle repeats.
+
+**What factors increase the rate of decay?**
+Warmth up to the optimum for enzymes, plenty of water and plenty of oxygen speed up decay by microorganisms.
+
+**Is the nitrogen cycle in AQA GCSE Biology?**
+No. The notes state that the nitrogen cycle is not required for AQA GCSE Biology 8461.
 
 ## Official syllabus
 

@@ -13,13 +13,13 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "enzymes-cambridge-alevel-biology"
-description: "The lock-and-key and induced-fit hypotheses, active sites and activation energy, and the factors -- temperature, pH, concentration, inhibitors -- that affect enzyme-catalysed reaction rates, including Michaelis-Menten kinetics and immobilised enzymes, for Cambridge International AS & A Level Biology 9700."
+description: "Study guide to Cambridge 9700 Topic 3 Enzymes: active sites, activation energy, both binding models, rate factors, Km, inhibitors and immobilised enzymes."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-02
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Topic 3 **Enzymes** is AS Level content in Cambridge International AS
@@ -182,6 +182,20 @@ AS and A Level papers.
   <figcaption>Competitive inhibition keeps Vmax and raises Km; non-competitive inhibition lowers Vmax and leaves Km unchanged.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**What are the two sub-topics of Cambridge 9700 Topic 3 Enzymes?**
+3.1 Mode of action of enzymes, which explains how enzymes work, and 3.2 Factors that affect enzyme action, which covers what changes the rate of enzyme-catalysed reactions.
+
+**Which five factors affecting enzyme activity must be investigated?**
+Temperature, pH (using buffer solutions), enzyme concentration, substrate concentration and inhibitor concentration.
+
+**What is the difference between competitive and non-competitive inhibitors?**
+Competitive inhibitors are similar in shape to the substrate and compete for the active site. Non-competitive inhibitors bind elsewhere on the enzyme and change the shape of the active site.
+
+**How is Km linked to affinity?**
+Km is the substrate concentration at which the rate is half of Vmax. An enzyme with a lower Km has a higher affinity for its substrate.
 
 ## Official syllabus
 

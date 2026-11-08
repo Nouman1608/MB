@@ -164,6 +164,23 @@ These questions cover Opportunity cost and Specialisation and trade in Component
 - Saying the division of labour raises output with no reason.
 - Giving the gains and limits of specialisation without weighing them.
 
+## Frequently asked questions
+
+**What is opportunity cost?**
+Opportunity cost is the value of the single most valuable alternative given up when a choice is made. Listing several alternatives as the cost is a common mistake, because only the best forgone option counts.
+
+**How do you calculate economic profit?**
+Start with accounting profit, which is revenue minus explicit costs, then subtract the opportunity costs of the owner's own resources and time, such as the salary they could earn elsewhere or the rent they could get for their premises.
+
+**Is a point inside the production possibility frontier unattainable?**
+No. A point inside the frontier is attainable but productively inefficient, because resources are unemployed or misused. Points beyond the frontier are unattainable with current resources and technology.
+
+**Does higher employment shift the PPF?**
+No. Bringing unemployed resources into use moves the economy from inside the frontier towards it, not a shift of the frontier itself. The frontier shifts when the economy's capacity changes, for example through more resources or better technology.
+
+**How should you answer a 10-mark evaluation question on the division of labour in OCR A Level Economics?**
+Explain why the division of labour raises output, giving a reason such as practice or less time switching tasks, then weigh this against costs such as boredom and dependence on one product, and reach a judgement.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/ocr-a-level-economics-opportunity-cost-the-ppf-specialisation-and-trade/) on any weak area.

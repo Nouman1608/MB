@@ -7,17 +7,23 @@ topic: "Information representation"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9618"]
-syllabusSeries: "2027-2029"
+syllabusSeries: "2026"
 order: 1
 stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "information-representation"
-description: "Original exam-style practice questions with full worked answers on two's complement, overflow, character sets and compression for AS Computer Science. Floating point is full-A-Level-only content and is not covered by these AS-stage questions."
+  - qualification: "a-level"
+    topic: "information-representation"
+    subtopic: "data-representation"
+  - qualification: "a-level"
+    topic: "information-representation"
+    subtopic: "compression"
+description: "Original practice questions with worked answers for Cambridge AS Computer Science 9618: two's complement, overflow, hexadecimal, character sets and compression."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -111,3 +117,17 @@ It would **increase the file size where there are few or no repeated runs** [1],
 - Splitting a binary number into 4-bit groups from the left rather than the right when converting to hexadecimal.
 - Using a logical right shift on a negative two's complement value instead of an arithmetic one.
 - Forgetting to convert file size from bits to bytes (divide by 8) when a question asks for bytes specifically.
+
+## Frequently asked questions
+
+**What is the range of 8-bit two's complement?**
+An 8-bit two's complement integer can represent values from −128 to +127.
+
+**What is the difference between the carry flag and the overflow flag?**
+The carry flag is set when an unsigned result goes beyond the register's range. The overflow flag shows an invalid signed (two's complement) result, such as two positive numbers adding to give a negative sign bit.
+
+**Is floating point covered in AS Computer Science 9618?**
+No. Floating point is full A Level content and is not covered by these AS-stage questions.
+
+**What are common mistakes in binary and hexadecimal questions?**
+Common errors include forgetting to add 1 after inverting the bits, leaving out leading zeros in an 8-bit answer, and grouping bits from the left instead of the right when converting to hexadecimal.

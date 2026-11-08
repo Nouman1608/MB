@@ -242,6 +242,23 @@ Evaluation points: gains are spread across the economy but losses fall on identi
 - Using "invention" and "innovation" as the same word.
 - Saying technological change always lowers costs. Show the change in fixed and variable costs and the output level.
 
+## Frequently asked questions
+
+**What is the difference between total, average and marginal revenue?**
+Total revenue is price times quantity, average revenue is total revenue divided by quantity, which equals price, and marginal revenue is the extra revenue from selling one more unit.
+
+**Why is average revenue the demand curve?**
+Average revenue equals the price, and at each price the quantity sold is read from the demand curve, so the AR curve and the demand curve are the same.
+
+**What is the difference between normal and abnormal profit?**
+Normal profit is the minimum return that keeps the owner in the business, counted as a cost. Abnormal or supernormal profit is anything above it.
+
+**What is the difference between invention and innovation?**
+Invention is the discovery or creation of a new idea, product or process. Innovation is putting it into commercial use.
+
+**What is the role of profit in a market economy?**
+Profit signals where consumers value goods highly, gives an incentive for risk-taking and innovation, provides funds for investment, and disciplines inefficient firms.
+
 ## Official syllabus
 
 AQA, AS and A-level Economics specification (7135 and 7136), version 1.3, 29 June 2022, first teaching September 2015. Sections covered: marginal, average and total revenue; profit; technological change. Your teacher and the AQA website hold the current version.

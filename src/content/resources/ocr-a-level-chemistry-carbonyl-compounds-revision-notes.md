@@ -228,6 +228,20 @@ A two-step route to remember: propan-2-ol → (Cr₂O₇²⁻/H⁺, reflux) → 
 - Heating Tollens' reagent over a flame instead of a water bath.
 - Numbering a hydroxynitrile from the wrong end.
 
+## Frequently asked questions
+
+**What is the positive result of the 2,4-DNP test?**
+An orange precipitate shows a C=O group in an aldehyde or ketone. Describing the result as a colour change of the solution, rather than a precipitate, is a common error.
+
+**How do you tell an aldehyde from a ketone with Tollens' reagent?**
+Warm with Tollens' reagent in a water bath. An aldehyde gives a silver mirror, while a ketone gives no change.
+
+**How do you name the hydroxynitrile made from ethanal?**
+Ethanal with HCN gives 2-hydroxypropanenitrile, because the nitrile carbon is carbon 1. Numbering from the wrong end is a common mistake.
+
+**Does acidified dichromate oxidise ketones?**
+No. Acidified dichromate oxidises aldehydes, but a ketone is not oxidised and the solution stays orange.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 6.1.2 Carbonyl compounds, learning outcomes (a) to (e). Published by OCR.

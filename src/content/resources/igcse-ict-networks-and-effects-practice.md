@@ -16,11 +16,11 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "networks-and-the-effects-of-using-them"
     subtopic: "network-issues-and-communication-0417"
-description: "Original exam-style practice questions with full worked answers spanning both 4.1 Networks and 4.2 Network issues and communication for Cambridge IGCSE ICT 0417, Topic 4."
+description: "Original practice questions with worked answers on networks, network security, authentication and electronic conferencing for Cambridge IGCSE ICT 0417 Topic 4."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -97,6 +97,17 @@ Related: [Networks and the Effects of Using Them revision notes](/resources/igcs
 **7.** Web-conferencing is the most suitable choice, because the staff need to view and discuss the same scan images together in real time, not just hear or see each other. Audio-conferencing would not be sufficient, since it provides no way to view the scan images at all — only spoken communication. Video-conferencing alone would let staff see and hear each other, but without the ability to share and jointly view the scan images themselves, staff would need to rely on describing what they see verbally, which is far less precise and reliable for reviewing detailed medical imagery than viewing the same shared image directly. Web-conferencing's ability to share documents, screens or images alongside audio (and often video) is exactly what this scenario requires, making it the recommendation that actually matches the described need rather than a more limited alternative. **[6]** (Marks for correctly identifying web-conferencing, and for explaining specifically why audio- and video-conferencing alone would each fall short.)
 
 **8.** Combining more than one authentication factor makes it significantly harder for an unauthorised person to gain access, because compromising a single factor is no longer sufficient on its own. For example, a bank card payment combines "something you have" (the physical card) with "something you know" (the PIN); someone who steals the card alone cannot use it without also knowing the PIN, and someone who somehow learns the PIN alone cannot use it without also possessing the physical card. This layered approach — requiring an attacker to defeat multiple, independent types of authentication rather than just one — is why multi-factor systems combining know/have/are elements are considered stronger than relying on any single method alone, such as a password by itself. **[5]**
+
+## Frequently asked questions
+
+**Which parts of IGCSE ICT do these network questions cover?**
+These questions span Cambridge IGCSE ICT (0417) sections 4.1, Networks, and 4.2, Network issues and communication, including network types and devices, password security, authentication and electronic conferencing.
+
+**How do you answer a recommend-a-conferencing-type question?**
+Recommend the type whose capabilities match what the scenario actually needs, then explain why each simpler alternative would fall short. Marks go to the justification, not only to naming the correct type.
+
+**How should a name-the-network question be approached?**
+Read the scenario for clues about area, connection type and who has access, such as one building or several cities, wireless or cabled, and internal staff or approved outsiders, then name the network type that fits all of them.
 
 ## Official syllabus
 

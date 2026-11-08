@@ -77,7 +77,7 @@ A limited company is a separate legal entity owned by shareholders. Its activity
 
 ## Limited liability
 
-Limited liability caps a shareholder's loss. Suppose a company fails owing $70,000 and its assets raise &#36;30,000, a shortfall of &#36;40,000. A shareholder with 5,000 fully paid &#36;1 shares loses the &#36;5,000 invested and nothing more; creditors cannot claim that person's home or savings. A partly paid shareholder can be asked only for the unpaid part. A sole trader would have to find the &#36;40,000 from private resources.
+Limited liability caps a shareholder's loss. Suppose a company fails owing $70,000 and its assets raise $30,000, a shortfall of $40,000. A shareholder with 5,000 fully paid $1 shares loses the $5,000 invested and nothing more; creditors cannot claim that person's home or savings. A partly paid shareholder can be asked only for the unpaid part. A sole trader would have to find the $40,000 from private resources.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-limited-companies--05-limited-liability.webp" width="900" height="770" alt="A failed company owes 70,000 dollars and its assets raise 30,000, a shortfall of 40,000. A fully paid shareholder loses only the 5,000 invested; a sole trader must find the 40,000 from private funds." loading="lazy">
@@ -107,7 +107,7 @@ In evaluation, tie each point to the situation: "raises large sums" matters for 
 | General reserve | Profit set aside from retained earnings and kept in the business |
 | Retained earnings | Profit kept after dividends and transfers, built up over the years |
 
-Check: assets $150,000 less liabilities &#36;40,000 gives equity of &#36;110,000, which could be ordinary shares &#36;70,000, general reserve &#36;15,000 and retained earnings &#36;25,000. A transfer to the general reserve moves money within equity, so the total is unchanged.
+Check: assets $150,000 less liabilities $40,000 gives equity of $110,000, which could be ordinary shares $70,000, general reserve $15,000 and retained earnings $25,000. A transfer to the general reserve moves money within equity, so the total is unchanged.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-limited-companies--01-lc-four-parts-of-equity.webp" width="900" height="990" alt="A stacked bar shows equity of 261,300 dollars made of ordinary share capital 150,000, preference share capital 40,000, general reserve 15,000 and retained earnings 56,300, each with a short meaning. A strip shows that moving 5,000 dollars from retained earnings to the general reserve leaves total equity unchanged." loading="lazy">
@@ -117,10 +117,10 @@ Check: assets $150,000 less liabilities &#36;40,000 gives equity of &#36;110,000
 
 ## Shares or debentures?
 
-**Loan capital** is money lent to the company, usually as **debentures**. Tarnbridge Textiles Ltd needs $80,000 and expects profit from operations of &#36;50,000. Compare two ways.
+**Loan capital** is money lent to the company, usually as **debentures**. Tarnbridge Textiles Ltd needs $80,000 and expects profit from operations of $50,000. Compare two ways.
 
-- Issue 80,000 ordinary shares of $1: profit for the year stays &#36;50,000. A dividend of &#36;0.10 a share on them (&#36;8,000) appears in the statement of changes in equity; none is owed if the directors pay none.
-- Issue $80,000 of 8% debentures: interest of &#36;6,400 is a finance cost, so profit for the year falls to &#36;43,600. The interest must be paid whatever the profit.
+- Issue 80,000 ordinary shares of $1: profit for the year stays $50,000. A dividend of $0.10 a share on them ($8,000) appears in the statement of changes in equity; none is owed if the directors pay none.
+- Issue $80,000 of 8% debentures: interest of $6,400 is a finance cost, so profit for the year falls to $43,600. The interest must be paid whatever the profit.
 
 | Ordinary share capital | Loan capital (debentures) |
 |---|---|
@@ -140,9 +140,9 @@ Check: assets $150,000 less liabilities &#36;40,000 gives equity of &#36;110,000
 
 Marchwood Foods Ltd issues 120,000 ordinary shares of $0.50 each.
 
-- **Issued** share capital: 120,000 x $0.50 = &#36;60,000.
-- **Called-up**: it asks for $0.40 a share: 120,000 x &#36;0.40 = &#36;48,000.
-- **Paid-up**: holders of 3,000 shares have not paid the $0.40, so 3,000 x &#36;0.40 = &#36;1,200 is unpaid and paid-up capital is &#36;48,000 - &#36;1,200 = &#36;46,800.
+- **Issued** share capital: 120,000 x $0.50 = $60,000.
+- **Called-up**: it asks for $0.40 a share: 120,000 x $0.40 = $48,000.
+- **Paid-up**: holders of 3,000 shares have not paid the $0.40, so 3,000 x $0.40 = $1,200 is unpaid and paid-up capital is $48,000 - $1,200 = $46,800.
 
 Check which word the question uses; each gives a different figure.
 
@@ -204,13 +204,13 @@ Trial balance at 30 June 2028 (before adjustments), all amounts in dollars:
 Adjustments:
 
 - Inventory at 30 June 2028 is $21,500.
-- Electricity owing $500; rent prepaid &#36;1,000; insurance prepaid &#36;700.
+- Electricity owing $500; rent prepaid $1,000; insurance prepaid $700.
 - Debenture interest for the second half-year, $1,500, is unpaid.
 - Irrecoverable debts of $400 are to be written off. The allowance is then 5% of remaining trade receivables.
 - Fixtures and fittings: 10% straight line on cost. Vehicles: 25% reducing balance.
 - $5,000 is transferred to the general reserve.
 
-Workings: receivables after write-off $22,000, so the allowance is &#36;1,100, an increase of &#36;500. Fixtures: &#36;4,000. Vehicles: (&#36;30,000 - &#36;10,000) x 25% = &#36;5,000. Debenture interest 6% x &#36;50,000 = &#36;3,000.
+Workings: receivables after write-off $22,000, so the allowance is $1,100, an increase of $500. Fixtures: $4,000. Vehicles: ($30,000 - $10,000) x 25% = $5,000. Debenture interest 6% x $50,000 = $3,000.
 
 ```
 Hollowbrook Stationers Ltd
@@ -298,7 +298,7 @@ Check that the closing line of the statement of changes in equity matches the eq
 
 ## Second example: a service company with a loss
 
-Sedgley Surveying Ltd earned fees of $96,000 and had expenses of &#36;98,500, a loss from operations of &#36;2,500. Interest on &#36;25,000 of 8% debentures is &#36;2,000, so the loss for the year is &#36;4,500. An ordinary dividend of &#36;0.06 a share is paid.
+Sedgley Surveying Ltd earned fees of $96,000 and had expenses of $98,500, a loss from operations of $2,500. Interest on $25,000 of 8% debentures is $2,000, so the loss for the year is $4,500. An ordinary dividend of $0.06 a share is paid.
 
 ```
                           Ordinary  General  Retained   Total
@@ -348,6 +348,23 @@ Section 5.3 points back to the 5.1 list. Treatment is the same in a company.
 - Showing debentures within equity.
 - Leaving unpaid debenture interest out of other payables.
 - Using opening retained earnings in the statement of financial position.
+
+## Frequently asked questions
+
+**What is limited liability in Cambridge IGCSE Accounting 0452?**
+Limited liability caps a shareholder's loss at the amount invested in the company's shares. If the company fails owing more than its assets raise, a shareholder with fully paid shares loses the investment and nothing more.
+
+**What is the difference between issued, called-up and paid-up share capital?**
+Issued share capital is the number of shares issued multiplied by their nominal value. Called-up capital is the part of that value the company has asked for, and paid-up capital is the called-up amount actually received.
+
+**Where are dividends shown in limited company accounts?**
+Dividends paid are shown in the statement of changes in equity, never in the statement of profit or loss. A dividend can still be paid in a loss year from earlier profits held in retained earnings.
+
+**What is the difference between ordinary shares and debentures?**
+Ordinary shareholders own the company and receive dividends only if the directors decide to pay them. Debentures are loan capital: the interest is a finance cost that must be paid whatever the profit, and debentures are shown under non-current liabilities.
+
+**What are the three financial statements of a limited company?**
+They are the statement of profit or loss, which deducts finance costs to reach profit for the year, the statement of changes in equity, and the statement of financial position, whose equity section copies the closing line of the statement of changes in equity.
 
 ## Official syllabus
 

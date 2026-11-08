@@ -161,6 +161,20 @@ C: 6x − 2y = 1
 - Try all the free [10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which OCR GCSE Maths sections do these straight-line graph questions cover?**
+They follow sections 7.01f, 7.02a and 7.02b of OCR GCSE (9-1) Mathematics J560: gradients, y = mx + c, parallel and perpendicular lines, inequality regions and circles. Inequality regions, perpendicular lines, circles and tangents are Higher tier only.
+
+**What is the most common mistake when rearranging to y = mx + c?**
+Dividing only some of the terms by the coefficient of y, which gives the wrong gradient. For 4x + 2y = 7, divide every term by 2 to get y = −2x + 7/2.
+
+**What should you include when interpreting a gradient in context?**
+Say what the gradient means as a rate, with units, and what the intercept means as a starting value. Answers with no units or no reference to the context lose marks.
+
+**What gradient does a tangent to a circle have?**
+The tangent is perpendicular to the radius at the point of contact, so its gradient is the negative reciprocal of the radius gradient. Using the radius gradient itself is a common error.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, published by OCR. Sections 7.01f, 7.02a and 7.02b.

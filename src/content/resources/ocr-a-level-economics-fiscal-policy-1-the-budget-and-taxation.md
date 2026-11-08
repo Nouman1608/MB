@@ -239,6 +239,23 @@ A government that treats a cyclical deficit as structural may cut spending in a 
 - Saying a deficit always means expansionary policy.
 - Claiming the Laffer Curve proves that cutting rates raises revenue.
 
+## Frequently asked questions
+
+**What is the government budget?**
+The government budget is the account of planned receipts and spending over a period, usually a year. In the UK the biggest tax receipts come from income tax, National Insurance contributions and VAT, and the largest spending areas are social protection and health.
+
+**What is the difference between a direct tax and an indirect tax?**
+A direct tax is charged on income, profit or wealth, such as income tax or inheritance tax, and the liability and burden usually fall on the same person. An indirect tax is charged on spending, such as VAT, and the seller pays it but may pass it on in higher prices.
+
+**What does the Laffer Curve show?**
+The Laffer Curve shows tax revenue rising from zero at a 0% rate to a maximum, then falling as higher rates shrink the tax base through lower effort, avoidance, evasion or emigration. The real peak is unknown and varies by tax, country and time horizon, so it is a model, not proof.
+
+**What are the advantages and disadvantages of a flat rate tax?**
+A flat tax is simple and cheap to run, lowers the marginal rate for high earners and reduces reasons to avoid tax. It redistributes less, may raise less revenue unless the rate is raised, and low earners may pay more.
+
+**Can indirect taxes be regressive?**
+Yes. Because richer households save a larger share of their income, a tax on spending takes a smaller percentage of a high income than of a low income, so indirect taxes are often regressive in effect.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)*, Version 3.0 (June 2026), first assessment 2021, Component 2 content: The application of policy instruments, topic Fiscal policy, the first part. Published by OCR (Oxford Cambridge and RSA).

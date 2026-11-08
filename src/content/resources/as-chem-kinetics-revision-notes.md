@@ -22,24 +22,30 @@ syllabusTopics:
     subtopic: "as-homogeneous-and-heterogeneous-catalysts"
 description: "Condensed recall notes on collision theory, activation energy, the Boltzmann distribution and catalysis for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: expanded thin notes (opening answer, syllabus definition of activation energy and effective collisions, worked rate-from-mass-loss example, FAQ); noted surface area is outside the 8.1 outcomes; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 ---
+
+AS reaction kinetics in Cambridge AS & A Level Chemistry 9701 (Topic 8) explains rates using effective
+collisions: a collision is **effective** only if the particles have at least the activation energy, Eₐ, and the
+correct orientation. You must calculate rates from data, sketch and use the Boltzmann distribution, and explain
+how concentration, pressure, temperature and catalysts change the rate.
 
 Condensed for the final weeks. For the full explanation, use the
 [Reaction Kinetics study guide](/resources/as-reaction-kinetics-collision-theory-and-catalysis/).
 
-## Collision theory
+## What makes a collision effective?
 
 A reaction occurs only when particles collide with:
 
 1. Energy **greater than or equal to the activation energy, Eₐ**, and
 2. The **correct orientation**.
 
-Most collisions are unsuccessful on both counts.
+Most collisions are **non-effective**: the particles bounce apart unchanged. The 9701 syllabus defines the
+**activation energy** as *the minimum energy required for a collision to be effective*. Learn that wording exactly.
 
 **Worked example — rate from a graph.** A student measures gas volume every 10 s. Between 20 s and 30 s, volume rises from 24 cm³ to 39 cm³.
 
@@ -47,9 +53,21 @@ Most collisions are unsuccessful on both counts.
 rate = change in volume / change in time = (39-24)/(30-20) = 15/10 = 1.5 cm^3 s^-1
 ```
 
+**Worked example — rate from mass loss.** Marble chips react with acid in an open flask on a balance. The mass
+falls from 152.40 g to 151.96 g in the first 40 s, as carbon dioxide escapes.
+
+```
+mass lost = 152.40 - 151.96 = 0.44 g of CO2
+mean rate = 0.44 / 40 = 0.011 g s^-1
+in moles: 0.44 / 44.0 = 0.010 mol CO2, so rate = 0.010 / 40 = 2.5 x 10^-4 mol s^-1
+```
+
+The initial rate is the gradient of a tangent drawn at t = 0; it is always the fastest rate, because the
+reactant concentrations are highest at the start.
+
 Reading a rate directly from experimental data (a gradient over an interval, or a tangent to a graph) requires no rate equation.
 
-## The four factors and their correct explanations
+## How do concentration, pressure, temperature and catalysts change the rate?
 
 | Factor | Rate | Why — be precise |
 |---|---|---|
@@ -59,9 +77,12 @@ Reading a rate directly from experimental data (a gradient over an interval, or 
 | **Surface area ↑** | Faster | More particles exposed → more frequent collisions |
 | **Catalyst** | Faster | **Alternative pathway of lower activation energy** |
 
+The 9701 learning outcomes name concentration, pressure, temperature and catalysts; surface area is included
+here for completeness because it appears in practical contexts.
+
 **Only temperature increases the energy of collisions.** The others change frequency alone — and the temperature effect is dominated by the proportion exceeding Eₐ, not by the modest increase in collision frequency.
 
-## The Boltzmann distribution
+## How do you sketch and use the Boltzmann distribution?
 
 Key features to draw and label:
 
@@ -76,7 +97,7 @@ Key features to draw and label:
 
 That distinction — temperature moves the curve, a catalyst moves the line — is one examiners often check carefully.
 
-## Catalysts
+## What does a catalyst do?
 
 - Increase rate by providing an alternative route of lower Eₐ.
 - Are **not consumed** — chemically unchanged at the end.
@@ -84,6 +105,20 @@ That distinction — temperature moves the curve, a catalyst moves the line — 
 - **Homogeneous** — same phase as reactants, e.g. aqueous iodide ions catalysing the decomposition of aqueous hydrogen peroxide. **Heterogeneous** — different phase, working by adsorption onto the surface, reaction, then desorption, e.g. the solid iron catalyst in the gas-phase Haber process.
 
 A **reaction-pathway diagram** compares catalysed and uncatalysed routes: both start and end at the **same enthalpy levels** (ΔH is unchanged), but the catalysed pathway's peak sits **lower**, showing the reduced activation energy directly.
+
+## Frequently asked questions
+
+**What is the definition of activation energy for 9701?**
+The minimum energy required for a collision to be effective. Do not write "energy needed to start a reaction",
+which does not mention collisions.
+
+**Why does the Boltzmann curve get lower at higher temperature?**
+The area under the curve equals the total number of particles, which does not change. As more particles have
+higher energies the curve spreads to the right, so the peak must fall.
+
+**Does a catalyst change the Boltzmann curve?**
+No. At a fixed temperature the distribution of energies is the same. The catalyst provides a different mechanism
+with a lower Eₐ, so the Eₐ line moves left and more particles lie beyond it.
 
 ## Exam traps
 

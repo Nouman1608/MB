@@ -232,6 +232,20 @@ Governments and central banks can pull in the same direction or in opposite ones
 - Listing the central bank's roles without saying what each does.
 - Judging the policy without a reason tied to the context.
 
+## Frequently asked questions
+
+**What is the difference between reflationary and deflationary policy?**
+Reflationary policy raises aggregate demand and is used when output is below potential or unemployment is high. Deflationary policy lowers aggregate demand when it is pushing prices up faster than the target.
+
+**What is quantitative easing?**
+Quantitative easing is the central bank creating money electronically to buy financial assets, usually government bonds. It is used when the policy interest rate is already very low, and it is not the same as printing banknotes.
+
+**How do lending criteria work as a monetary tool?**
+The authorities can require banks to lend more or less cautiously, for example through a maximum loan-to-value ratio. This can target housing credit without relying on interest rates.
+
+**Can demand-side policy fix every cause of low output?**
+No. Fiscal and monetary policy change aggregate demand, so they cannot fix a supply-side cause of low output.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification, Issue 2, June 2018, Pearson Education Limited, section 2.3.6 item 4.

@@ -241,6 +241,20 @@ Order of working: brackets, then `**`, then `* / %`, then `+ -`.
 - Testing `prompt()` input for `""` but not `null`.
 - Naming an event without saying which element it is attached to or what it triggers.
 
+## Frequently asked questions
+
+**What is the difference between visibility and display in JavaScript?**
+Setting style.visibility to "hidden" hides an element but keeps its space on the page, while setting style.display to "none" hides it and removes its space from the layout.
+
+**What is the difference between setTimeout and setInterval?**
+setTimeout runs code once after a delay, while setInterval runs it repeatedly at a fixed interval until it is stopped with clearInterval. Both take times in milliseconds, not seconds.
+
+**Why does "2" + "3" give "23" in JavaScript?**
+Values read from text boxes are strings, and + joins strings rather than adding them, so they must be converted with Number() before arithmetic. Forgetting the conversion is a common mistake.
+
+**How do you change an element's style with JavaScript?**
+Find the element with document.getElementById("id") and set .style.property to a quoted value with units where needed, such as "18px". Hyphenated CSS names become camelCase, so font-size becomes fontSize.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 21: Programming for the web (21.1 Programming for the web).

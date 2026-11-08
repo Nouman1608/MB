@@ -202,6 +202,23 @@ E = 200/0.010 = 2.0 × 10⁴ V m⁻¹. F = 1.60 × 10⁻¹⁹ × 2.0 × 10⁴ = 
 - Leaving out units, or quoting a force in N C⁻¹.
 - Not checking whether the particle hits a plate.
 
+## Frequently asked questions
+
+**Why can I use ε₀ for charges in air?**
+Air changes the force between charges by a negligible amount, so it can be treated as a vacuum and the permittivity of free space, ε₀, used.
+
+**When do I use E = V/d and when E = Q/(4πε₀r²)?**
+E = V/d is for the uniform field between parallel plates. E = Q/(4πε₀r²) is for the radial field around a point charge or charged sphere, so do not swap them.
+
+**How do you derive E = V/d?**
+The work done moving a charge Q across a uniform field is W = Fd with F = QE, and it is also W = QΔV. Equating the two gives E = V/d, and the derivation should state both expressions for work done.
+
+**How much stronger is the electrostatic force than gravity between a proton and an electron?**
+The ratio of electrostatic to gravitational force is e² / (4πε₀ G mₑ mₚ), about 2.3 × 10³⁹. The separation cancels because both forces follow an inverse square law.
+
+**What is the unit of electric field strength?**
+N C⁻¹, which is equivalent to V m⁻¹. Quoting a force in N C⁻¹ is a common unit error.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Sections 3.8.1 Coulomb's law and 3.8.2 Electric field strength (International A-level only).

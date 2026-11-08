@@ -127,6 +127,20 @@ These questions follow sub-topic 2.11, market failure -- market power, in the IB
 - Listing government policies without judging their limits.
 - Skipping the working in a Calculate question.
 
+## Frequently asked questions
+
+**How do you find the profit-maximising price and output for a monopolist?**
+Find the output where marginal cost equals marginal revenue (MC = MR), then read the price from the demand (AR) curve at that output, not from MR or MC. Reading the price from the wrong curve is a common error.
+
+**How do you calculate a concentration ratio?**
+Add the market shares of the n largest firms. After a merger, treat the merged firm as one firm and re-rank the shares, rather than adding the old top firms.
+
+**How do you answer a payoff matrix question in IB Economics?**
+For each choice the rival could make, compare the firm's payoffs and say which option gives it more, quoting the numbers from the matrix. An answer with no figures from the matrix loses marks.
+
+**Is market power HL only in IB DP Economics?**
+Yes. Sub-topic 2.11, market failure through market power, is HL only, so every question on this page is HL only.
+
 ## Next steps
 
 - Review the [market power revision notes](/resources/ib-dp-economics-market-power-revision-notes/) and the [market power study guide](/resources/ib-dp-economics-market-power/).

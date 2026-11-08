@@ -13,11 +13,17 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-place-in-literary-texts-9675"
+  - qualification: "a-level"
+    topic: "unit-2-place-in-literary-texts-9675"
+    subtopic: "unit-2-section-a-9675"
+  - qualification: "a-level"
+    topic: "unit-2-place-in-literary-texts-9675"
+    subtopic: "unit-2-section-b-9675"
 description: "Original exam-style practice questions with full worked answers on Unit 2 of OxfordAQA International AS & A-Level English Literature (9675)."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-05
 featured: false
 ---
@@ -81,3 +87,17 @@ Because the exam is open book, the advantage is wasted if a candidate spends exa
 ## Why command words matter as much as content knowledge
 
 "Explore" and "discuss this view" both invite genuinely analytical, argument-driven responses rather than descriptive summary of setting or one-sided assertion — a response that only describes a place, however accurately, will not reach the top band against either command word. Treat every practice question here as requiring a sustained critical argument, built from specific textual evidence and close attention to language, rather than a list of separate observations about where a text is set.
+
+## Frequently asked questions
+
+**Can I take an annotated copy of my set text into the OxfordAQA 9675 Unit 2 exam?**
+No. The exam is open book, but bringing an annotated copy is not permitted, so build your analytical framework in advance rather than relying on notes in the text.
+
+**What does "place" mean in OxfordAQA Place in Literary Texts?**
+Place is more than physical geography. The specification's broader angles include the natural world, social class, identity, politics, home and homeland, and language.
+
+**How many poems should I write about in Section B?**
+Write about at least two poems when the question asks for a comparison across your selection, and connect them with an explicit comparative judgement rather than placing two analyses side by side.
+
+**How can I prepare evidence for Place in Literary Texts?**
+Prepare a short bank of key moments from your prose text and poetry selection, each annotated with the angle of place it best demonstrates and, for the poems, which others it could be compared with. This saves searching the text under exam pressure.

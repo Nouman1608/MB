@@ -246,6 +246,23 @@ melting point, Ar the lowest, and Ar also has the highest first ionisation energ
 - Leaving out the (g) state symbols in a first ionisation energy equation.
 - Describing the ionisation energy trend as a smooth rise and forgetting the drops at Al and S.
 
+## Frequently asked questions
+
+**What sets an element's position in the Periodic Table?**
+An element's position is set by its proton number (Z), the number of protons in the nucleus. Mass number and relative atomic mass do not decide the order.
+
+**Where does the melting point peak in Period 3?**
+The melting point rises from Na to Al, peaks sharply at silicon, drops to phosphorus, rises a little to sulfur, then falls through chlorine to argon, which is the lowest.
+
+**Why does silicon have the highest melting point in Period 3?**
+Silicon is macromolecular, with covalent bonds throughout its structure, which must be broken to melt it. Describing silicon as having "strong intermolecular forces" is incorrect.
+
+**What is the shape of the first ionisation energy graph across Period 3?**
+First ionisation energy shows a general zig-zag rise from Na to Ar, with small drops at aluminium and sulfur. Sodium is the lowest and argon is the highest.
+
+**What is the difference between metallic and ionic bonding?**
+Metallic bonding is the attraction between positive ions and delocalised electrons, while ionic bonding is between oppositely charged ions in a lattice. AQA A-level Chemistry 7405 answers on Na, Mg and Al should use the words "positive ions" and "delocalised electrons".
+
 ## Official syllabus
 
 AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level

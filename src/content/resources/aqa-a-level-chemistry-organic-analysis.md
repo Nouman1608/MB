@@ -266,6 +266,23 @@ mode absorbs IR; the dipole-change condition matters.
 - Claiming that functional-group absorptions alone tell propanal from propanone. Both show C=O; use the fingerprint region or Tollens'.
 - Saying greenhouse gases "trap" heat without mentioning absorption of infrared by bonds.
 
+## Frequently asked questions
+
+**What does a tertiary alcohol do with acidified potassium dichromate(VI)?**
+A tertiary alcohol is not easily oxidised, so the solution stays orange. Primary and secondary alcohols turn the dichromate from orange to green.
+
+**Why do bonds absorb infrared radiation?**
+Covalent bonds vibrate, and a bond absorbs infrared when the radiation's frequency matches one of its vibration frequencies. Different bonds absorb at different, characteristic wavenumbers.
+
+**Can infrared spectroscopy tell propanal from propanone?**
+Not from functional-group absorptions alone, because both show a C=O absorption. Use the fingerprint region, compared with known spectra, or a chemical test such as Tollens' reagent.
+
+**Can two compounds with the same Mr be told apart by mass spectrometry?**
+Yes, with high-resolution mass spectrometry. For example, propan-1-ol and ethanoic acid both have Mr = 60 to the nearest whole number, but their precise molecular masses differ.
+
+**Which papers test organic analysis in AQA Chemistry 7404/7405?**
+Section 3.3.6 is AS content placed on Paper 2 at AS and at A-level, and A-level Paper 3 can test any content and practical skill.
+
 ## Where to go next
 
 Work through the [practice questions](/resources/aqa-a-level-chemistry-organic-analysis-practice/), then see

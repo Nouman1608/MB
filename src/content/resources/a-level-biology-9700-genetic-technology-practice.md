@@ -25,11 +25,11 @@ syllabusTopics:
     subtopic: "genetically-modified-organisms-in-agriculture-cambridge"
 description: "Original Cambridge 9700 practice questions on gene transfer, PCR, gel electrophoresis, microarrays, gene therapy and GM crops, with mark-by-mark answers."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -176,6 +176,23 @@ Revise first with the [study guide](/resources/a-level-biology-9700-genetic-tech
 - [Printable 9700 checklist](/checklists/cambridge/a-level/biology/)
 - [9700 A Level diagnostic](/practice/9700/diagnostic/a-level/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Which Cambridge 9700 topic do these questions cover?**
+They cover Topic 19, Genetic technology: gene transfer, PCR, gel electrophoresis, microarrays, genetic technology in medicine and GM crops.
+
+**Are these Cambridge 9700 past paper questions?**
+No. They are original questions written for revision and practice, with mark-by-mark answers. Use them alongside official past papers from your school or Cambridge.
+
+**What must a microarray answer include when comparing gene expression?**
+Include the reverse transcription of mRNA into cDNA before it is labelled. Skipping this step is a frequent error.
+
+**What is the difference between genetic screening and gene therapy?**
+Genetic screening tests DNA for particular alleles; gene therapy adds a normal allele to cells of a person with a genetic disease to treat it.
+
+**How should you answer "discuss" questions on GM crops?**
+Give points on both sides, such as benefits and concerns, rather than a one-sided answer.
 
 ## Official syllabus
 

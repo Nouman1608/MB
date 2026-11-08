@@ -19,11 +19,11 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "waves"
     subtopic: "sound"
-description: "Original exam-style questions with full worked answers on sound as a longitudinal wave, frequency and period, loudness and pitch, diffraction, echoes, refraction of light and total internal reflection, for Cambridge O Level Physics (5054)."
+description: "Original Cambridge O Level Physics 5054 waves questions with worked answers on sound, frequency, oscilloscope traces, diffraction, echoes, refraction, fibres."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-24
 featured: false
 ---
@@ -109,3 +109,17 @@ Most questions practise a skill tested in the June 2025 Paper 22. After each ans
 - Forgetting to halve the distance in echo calculations.
 - Saying a gap "must be smaller than the wavelength" instead of comparing sizes for strong diffraction.
 - Using the angle to the surface rather than to the normal in refraction calculations.
+
+## Frequently asked questions
+
+**What are common mistakes in O Level Physics waves questions?**
+Frequent slips include describing sound particles as moving "up and down", which describes a transverse wave, mixing up loudness with pitch, forgetting to halve the distance in echo calculations and measuring angles from the surface instead of the normal.
+
+**What unit conversions matter in waves calculations?**
+Convert kHz, MHz and cm to Hz and m before using frequency, wavelength or speed in an equation. Quoting values without converting is a frequent error.
+
+**How do these waves questions link to past papers?**
+Most questions practise a skill tested in the June 2025 Paper 22. After each answer there is a tip and, where one matches, the real question to try next.
+
+**Which syllabus do these waves questions follow?**
+They follow topic 3, Waves, of the Cambridge O Level Physics 5054 syllabus, with full worked answers showing where each mark is earned.

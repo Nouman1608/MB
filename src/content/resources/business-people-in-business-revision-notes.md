@@ -12,11 +12,11 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "people-in-business"
-description: "Condensed recall notes on motivation theory, organisational structure, leadership styles, recruitment, training and communication for Topic 2 of Cambridge O Level Business Studies (7115), 2026 series."
+description: "Condensed notes on motivation, structure, leadership, recruitment, training and communication for Topic 2 of Cambridge O Level Business Studies (7115)."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -202,6 +202,20 @@ plan to cover all four sub-topics rather than assuming any part is optional.
 job enrichment, training. 3. Dismissal is employee-specific; redundancy removes the role for unrelated
 reasons. 4. Induction (new starters), on-the-job (while working), off-the-job (away from work). 5.
 Autocratic.
+
+## Frequently asked questions
+
+**What is the difference between dismissal and redundancy?**
+Dismissal removes an employee for a specific reason linked to that person, such as misconduct. Redundancy removes the job itself, for reasons unrelated to the individual's performance, such as automation or falling demand.
+
+**Which motivation theorists are in Cambridge O Level Business Studies 7115?**
+Maslow, Taylor and Herzberg. They earn more marks when tied to a workplace example in the question than when described on their own.
+
+**Is Cambridge O Level Business Studies 7115 the same course as IGCSE Business 0450?**
+The two share content and have the same paper structure, but they differ in qualification code, grade range and the series and zones in which each is available. Make sure you practise with past papers for your own qualification.
+
+**What are the three types of training?**
+Induction for new starters, on-the-job training while working, and off-the-job training away from work, such as a course. Know the benefits and limitations of each.
 
 ## Official syllabus
 

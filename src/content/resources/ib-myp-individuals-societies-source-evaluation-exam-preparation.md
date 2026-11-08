@@ -12,7 +12,7 @@ order: 9
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-individuals-and-societies-eassessment-topics"
-description: "Exam preparation for IB Middle Years Programme Individuals and Societies's Investigating task -- how to evaluate a source's value and limitations, and compare two sources -- with a worked practice example and self-test questions."
+description: "How to evaluate a source's origin, purpose, value and limitations, and compare two sources, for the IB MYP Individuals and Societies Investigating task."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -116,6 +116,20 @@ policy's actual effectiveness or genuine public reception. 4. Because usefulness
 specific question is being asked -- a source can be more useful than another for one research angle
 and less useful for a different one, so comparing them against a named, specific angle produces a more
 defensible and precise judgement than an unfocused overall ranking.
+
+## Frequently asked questions
+
+**What does OPVL stand for in source evaluation?**
+OPVL stands for origin, purpose, value and limitation. Ask who created the source and when, why and for whom, what it can genuinely tell a researcher about a specific question, and what it cannot reliably tell them.
+
+**How many marks is the IB MYP Individuals and Societies Investigating task worth?**
+The Investigating task is worth 26 marks and is assessed against criteria A and B. It tests the evaluation of sources, not just the extraction of facts from them.
+
+**What kinds of sources should I practise evaluating for MYP Individuals and Societies?**
+Practise on a wide range: government documents, news reports, personal accounts, statistics, images and maps. The Investigating task can draw on history, geography or integrated humanities, depending on your school's examination subject.
+
+**What is the difference between summarising and evaluating a source?**
+Summarising states what a source says, while evaluating judges how useful or reliable it is for a particular research question. The Investigating task rewards the second skill, so an answer that only restates content earns little.
 
 ## Official syllabus
 

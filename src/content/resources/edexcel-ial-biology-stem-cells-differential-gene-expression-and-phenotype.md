@@ -202,6 +202,23 @@ Rabbit coat colour has four alleles in a dominance series: C (full colour) > cch
 * Saying methylation changes the base sequence.
 * Writing that polygenic traits are "caused by environment". Both genes and environment contribute.
 
+## Frequently asked questions
+
+**How do cells become specialised?**
+All cells hold the same genes, but a signal or transcription factor activates certain genes, which are transcribed and translated into the proteins that give the cell its structure and function. Other genes stay unexpressed.
+
+**How does DNA methylation affect gene expression?**
+Methyl groups added to DNA at a gene's promoter usually stop transcription, so the gene is switched off.
+
+**How do histones affect gene expression?**
+DNA is wound around histones. Histone acetylation loosens the DNA so transcription factors can reach the gene, increasing expression.
+
+**How does the environment affect phenotype?**
+Phenotype results from an interaction between genotype and environment. For example, Himalayan rabbit fur colour depends on temperature and hydrangea flower colour varies with soil acidity.
+
+**What are the ABO blood group alleles?**
+The ABO gene has three alleles: IA and IB are codominant and IO is recessive to both.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology, Specification, Issue 2 (February 2021), Pearson Education Limited: Topic 3, statements 3.17 to 3.21.

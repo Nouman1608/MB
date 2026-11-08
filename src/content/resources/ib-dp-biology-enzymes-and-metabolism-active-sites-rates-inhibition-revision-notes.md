@@ -230,6 +230,20 @@ A competitive inhibitor has a shape like the substrate and binds reversibly to t
 - Saying a competitive inhibitor is "blocked" by more substrate, instead of outcompeted.
 - Claiming an enzyme changes the energy of the products.
 
+## Frequently asked questions
+
+**What is induced fit?**
+Induced fit is when both the enzyme and the substrate change shape slightly as the substrate binds to the active site, which strains bonds in the substrate and makes the reaction easier.
+
+**What is the difference between anabolism and catabolism?**
+Anabolism builds larger molecules from smaller ones by condensation, such as protein synthesis or photosynthesis. Catabolism breaks larger molecules into smaller ones, such as hydrolysis in digestion or oxidation in respiration.
+
+**How does feedback inhibition control isoleucine synthesis?**
+Isoleucine, the end product of the pathway, inhibits threonine deaminase, an early enzyme in the pathway, so synthesis slows when isoleucine is plentiful and speeds up when it falls. This is HL-only content in IB DP Biology C1.1.
+
+**How does penicillin kill bacteria?**
+Penicillin is a mechanism-based inhibitor that binds irreversibly to the active site of transpeptidase, so cross-links in the bacterial cell wall are not formed and the wall is weakened.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. This page is a paraphrase aligned to section C1.1.

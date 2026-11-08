@@ -9,11 +9,11 @@ qualifications: ["gcse"]
 syllabusCodes: ["8136"]
 syllabusSeries: "For first teaching 2017"
 order: 1
-description: "Paper-by-paper exam preparation for AQA GCSE Economics 8136 -- why both papers draw on the whole course, AO1/AO2/AO3 balance, extended-response structure, a worked answer and a checklist."
+description: "Paper-by-paper exam preparation for AQA GCSE Economics 8136: why both papers use the whole course, AO1 to AO3 balance, extended answers and a checklist."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-07
 featured: false
 ---
@@ -123,6 +123,20 @@ specific context given, considering a counterargument or limitation, and reachin
 judgement. 4. Because a "discuss" question tests AO3 (evaluation) as well as AO1/AO2 -- an answer that
 only applies the theory to reach one conclusion, without weighing a counterargument, has not
 demonstrated the evaluative judgement the command word requires.
+
+## Frequently asked questions
+
+**How many papers are there in AQA GCSE Economics?**
+Two written papers, each 1 hour 45 minutes and 80 marks, worth 50% each: Paper 1 How markets work and Paper 2 How the economy works.
+
+**Is AQA GCSE Economics tiered?**
+No. All candidates sit the same two papers; there are no foundation or higher tiers.
+
+**What types of question are on AQA GCSE Economics papers?**
+Both papers open with multiple-choice questions, then move on to calculation, short-answer and extended-response questions.
+
+**How should I structure an extended-response answer?**
+State the economic concept, apply it to the context given, consider a counterargument or limitation, and reach an explicit judgement.
 
 *Written against AQA GCSE Economics 8136 (specification-at-a-glance, verified 2026-08-28). The worked
 scenario above is an original example written for this resource, not a reproduction of any official

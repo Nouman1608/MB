@@ -18,11 +18,11 @@ syllabusTopics:
     subtopic: "proportion"
 description: "Condensed recall notes on nth terms of linear, quadratic and other sequences, and direct and inverse proportion for Cambridge O Level Mathematics 4024."
 author: "muhammad-ghazali-siddiqui"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 Condensed for the final weeks. For worked examples, use the
@@ -175,3 +175,16 @@ Related: [Sequences and Proportion practice questions](/resources/sequences-and-
   <figcaption>In inverse proportion x times y stays constant, so doubling x halves y.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you tell if a sequence is linear, quadratic or exponential?**
+Write the differences under the sequence. A constant first difference means linear and a constant second difference means quadratic; if neither is constant, check for a constant ratio between terms, which means exponential.
+
+**What is the nth term of an exponential sequence?**
+An exponential sequence with first term a and constant ratio r has nth term ar^(n−1). For example, 3, 6, 12, 24 has nth term 3 × 2^(n−1).
+
+**What does "proportional to the square" mean?**
+It means y ∝ x², so the equation is y = kx², not y = 2kx or y = kx. Always check which power or root the question states before writing the equation.
+
+**What happens to y in inverse proportion when x doubles?**
+In inverse proportion, y = k/x, so when x doubles y halves. In direct proportion, y = kx, so y doubles.

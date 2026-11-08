@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "trigonometry-cambridge-alevel-maths-1"
 description: "Original Cambridge 9709 Paper 1 trigonometry questions (section 1.5) with mark-by-mark worked answers and examiner insights on each question."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -139,6 +139,23 @@ Course hub: [Cambridge A Level Mathematics](/boards/cambridge/a-level/mathematic
 - Writing a cos value with the wrong sign because the quadrant was not checked (Question 2).
 - In a "show that" or "prove" part, skipping the line where sin² is replaced by 1 − cos².
 - Rounding cos⁻¹0.4 or tan⁻¹3 to 1 decimal place before adding or dividing, which can change the final digit.
+
+## Frequently asked questions
+
+**How do you find all solutions of a trigonometric equation in an interval?**
+Find the principal value with the calculator, use the symmetry of the graph to find the second value in the cycle, then add or subtract 360° (or 2π) to find every solution in the interval.
+
+**How do you solve an equation such as cos(2x − 40°) = k?**
+Change the interval for 2x − 40° first, find every solution for that expression in the new interval, then undo the shift and the multiple to get x.
+
+**Why should you factorise instead of dividing by cos x?**
+Dividing by cos x loses the solutions where cos x = 0. Factorising cos x out and setting each factor to zero keeps them.
+
+**How do you find cos θ from sin θ?**
+Use sin²θ + cos²θ = 1 to find the size of cos θ, then use the quadrant to decide its sign. Getting the sign wrong also spoils any tan value built on it.
+
+**What should you do with a root such as cos x = −4?**
+Reject it with a reason: −1 ≤ cos x ≤ 1, so cos x = −4 has no solutions.
 
 ## Next steps
 

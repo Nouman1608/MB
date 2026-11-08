@@ -199,6 +199,23 @@ A strong evaluation chooses a method, gives a reason that fits the situation, an
 - Naming a method without saying what it changes.
 - Giving a one-sided answer where the question says "evaluate".
 
+## Frequently asked questions
+
+**What is an externality?**
+An externality is a cost or a benefit that falls on someone outside the deal between buyer and seller, a third party. It is the difference between the social amount and the private amount.
+
+**Can consumption cause negative externalities?**
+Yes. The OxfordAQA International GCSE Economics (9214) specification states that both production and consumption can lead to negative externalities, and positive externalities can also arise from either.
+
+**How does a tax correct a negative externality?**
+A tax equal to the external cost per unit makes the firm's cost equal to the social cost, so it chooses the socially best output. Its limit is that the size of the external cost is hard to measure exactly.
+
+**How do you evaluate a method of government intervention?**
+Ask whether the method fixes the specific gap, who pays for it, how quickly it works and what else the money could be spent on. A strong answer chooses a method, gives a reason that fits the situation and weighs one limit against it.
+
+**Is a high price a sign of market failure?**
+Not on its own. Market failure means resources are misallocated, for example because external costs or benefits are ignored, not simply that prices are high.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Economics (9214), published by OxfordAQA, first teaching September 2023, first examined May/June 2025. Sections 3.1.6.1 and 3.1.6.2, with 3.2.3.4 for policies on externalities.

@@ -12,11 +12,23 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "natural-resources-0680"
+  - qualification: "igcse"
+    topic: "natural-resources-0680"
+    subtopic: "formation-of-rocks-0680"
+  - qualification: "igcse"
+    topic: "natural-resources-0680"
+    subtopic: "extraction-of-rocks-ores-and-minerals-0680"
+  - qualification: "igcse"
+    topic: "natural-resources-0680"
+    subtopic: "sustainable-management-of-rocks-ores-and-minerals-0680"
+  - qualification: "igcse"
+    topic: "natural-resources-0680"
+    subtopic: "energy-resources-0680"
 description: "Condensed recall notes on renewable and non-renewable resources, energy sources and sustainable management for Cambridge IGCSE Environmental Management 0680."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -112,5 +124,22 @@ A question asking why a country continues to rely on fossil fuels despite known 
 7. Give two economic or political reasons a country might continue relying on fossil fuels.
 
 **Answers:** 1. A forest felled faster than it regrows, or fish stocks caught faster than they breed. 2. Solar is intermittent and needs storage or back-up; capital costs are high; existing grid infrastructure is built for fossil fuels; large land area is required. 3. Surface extraction (opencast/open-pit/open-cut/strip mining), subsurface extraction (deep/shaft mining), and biological extraction (phytomining and bioleaching). 4. Displacement of people and habitats by the reservoir; high capital cost; silting reducing capacity; disruption to fish migration. 5. Meeting the needs of the present without compromising the ability of future generations to meet their own needs. 6. An ore is rock containing minerals and metals; a mineral is a naturally occurring solid with a definite chemical composition and crystalline structure, whether or not it is mined — an ore is a rock category defined by extractable content, a mineral is a substance defined by its physical/chemical structure. 7. Any two: sunk investment in existing infrastructure, cheaper and more reliable baseload generation, employment and government revenue from the industry, or renewable capacity being unable to be built quickly enough to replace demand.
+
+## Frequently asked questions
+
+**Is renewable the same as sustainable in Cambridge IGCSE Environmental Management 0680?**
+No, and this is the most examined distinction in the topic. A renewable resource used faster than it regenerates, such as a forest felled faster than it regrows, is being used unsustainably.
+
+**What are the three methods of extracting rocks and minerals?**
+The three methods are surface extraction (such as opencast or strip mining), subsurface extraction (deep or shaft mining) and biological extraction (phytomining and bioleaching).
+
+**What is an ore?**
+An ore is rock containing minerals and metals. A mineral is defined by its composition and crystalline structure, not by whether it is mined.
+
+**Does 0680 use the command word "evaluate"?**
+No. The 0680 command-word table has no "evaluate" entry; the syllabus's own stem is "discuss the benefits and limitations", so answer that rather than a generic evaluation.
+
+**Do solar and wind power have no environmental impact?**
+They produce no emissions in use, but manufacturing them still has an impact. Similarly, hydroelectric power is not impact-free, because dams displace communities.
 
 For the full worked explanation with additional detail, see the [Natural Resources study guide](/resources/igcse-cambridge-environmental-management-natural-resources/); for exam-style questions with full mark schemes, see the [Natural Resources practice questions](/resources/environmental-management-natural-resources-practice/).

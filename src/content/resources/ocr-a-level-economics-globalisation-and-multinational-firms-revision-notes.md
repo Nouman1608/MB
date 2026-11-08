@@ -205,6 +205,23 @@ Use figures from the data where you can. A short calculation, such as a real wag
 - Treating multinational firms as all good or all bad, with no reference to the host's policies.
 - Leaving the emerging-economy spillover question as a list of channels with no direction of effect on the other economy.
 
+## Frequently asked questions
+
+**What are the main characteristics of globalisation?**
+Characteristics include trade growing faster than output, rising foreign direct investment, multinational firms and global supply chains, integrated financial markets, migration and remittances, technology and information flows, and a rising share of world output and trade for emerging economies.
+
+**What causes globalisation?**
+Causes include cheaper transport, information technology, trade liberalisation, capital liberalisation, multinational firms seeking lower costs and new markets, the opening up of emerging economies and rising incomes. Each should be linked to how it increases cross-border activity.
+
+**What is transfer pricing?**
+Transfer pricing is the setting of prices for trade between parts of the same multinational firm. It can be used to move profit between tax regimes, reducing the tax paid in a host country.
+
+**How does globalisation affect developed economies?**
+Developed economies gain cheaper imports, scale economies, competition and FDI. The costs include structural unemployment in shrinking industries, pressure on low-skilled pay and wider inequality, with costs concentrated on some regions while gains are spread widely.
+
+**How can a slowdown in an emerging economy affect other countries?**
+Economies with high export dependence on the slowing country, particularly commodity exporters, lose demand. Importers of those commodities may gain from lower prices, so the effect depends on the size of trade links and the goods involved.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, Component 2 content, area of study The global context, topic Globalisation.

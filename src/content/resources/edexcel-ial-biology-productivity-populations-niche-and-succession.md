@@ -211,6 +211,23 @@ The climax community is relatively stable, with little change in species. It is 
 
 Move on to the condensed revision notes, then attempt the practice set under timed conditions.
 
+## Frequently asked questions
+
+**What is gross primary productivity?**
+Gross primary productivity (GPP) is the total rate at which producers convert light energy into chemical energy in organic matter. Net primary productivity is what remains after respiration.
+
+**How do you calculate the efficiency of energy transfer?**
+Efficiency (%) = energy or biomass passed to the next trophic level ÷ energy or biomass at the level below × 100, using the same units on top and bottom.
+
+**What is a niche?**
+A niche is the role of a species in its habitat, including how it uses biotic and abiotic resources and interacts with other organisms. It is a role, not just a place.
+
+**What are the three ways of recording abundance in quadrats?**
+Density (individuals per unit area), frequency (percentage of quadrats containing the species) and percentage cover (proportion of the quadrat covered).
+
+**What is the difference between primary and secondary succession?**
+Primary succession starts on bare ground with no soil; secondary succession starts where soil is already present, for example after a fire or clearance.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification, Issue 2, February 2021, Pearson Education Limited. Statements 5.9 to 5.15, Topic 5.

@@ -161,6 +161,17 @@ Revise first with the [study guide](/resources/o-level-biology-5090-human-gas-ex
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does Topic 9 cover in Cambridge O Level Biology 5090?**
+Topic 9, Human gas exchange, covers the features of gas exchange surfaces, atmospheric, inspired and expired air, the structures of the gas exchange system, the breathing mechanism, physical activity and breathing, and protection of the airways.
+
+**How do you avoid unit errors in magnification answers?**
+Convert all lengths to the same unit before calculating, remembering that 1 mm = 1000 µm. Forgetting to convert µm to mm is a common error.
+
+**Why do units matter on volumes and rates?**
+A volume or rate without a unit, such as cm³ or breaths per minute, can lose a mark even when the number is right.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 9: Human gas exchange, published by Cambridge Assessment International Education.

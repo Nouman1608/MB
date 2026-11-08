@@ -147,6 +147,20 @@ These questions cover section 3.9 of the AQA AS and A-level Business specificati
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you use an experience curve in a calculation?**
+Each time cumulative output doubles, multiply the unit cost by the curve percentage. If output doubles twice, that means two multiplications; forgetting this is a common error.
+
+**Is overtrading a sign of too much profit?**
+No. Overtrading is a cash-flow squeeze: a business grows faster than its cash and finance can support, so it struggles to pay suppliers and wages on time. Treating it as excess profit loses marks.
+
+**What should you include when comparing home and overseas production costs?**
+Include all the extra costs of producing abroad, such as transport, not just the lower production cost. Ignoring these costs is a frequent mistake.
+
+**How should you end an evaluation of a strategic method?**
+Finish with a decision and the condition it depends on, such as the firm's cash, its time horizon or how fast rivals move. An evaluation without a decision limits the marks.
+
 ## Official syllabus
 
 AQA AS and A-level Business (7131 and 7132), section 3.9, "Strategic methods: how to pursue strategies" (A-level only), AQA.

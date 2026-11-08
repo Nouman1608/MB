@@ -273,6 +273,23 @@ At the start of the next period the opening balance stays in the same account. C
 
 Revise from the [revision notes](/resources/edexcel-igcse-accounting-irrecoverable-debts-and-other-receivables-payables-revision-notes/), then test yourself on the [practice questions](/resources/edexcel-igcse-accounting-irrecoverable-debts-and-other-receivables-payables-practice/) or take a [free diagnostic](/diagnostics/). The [course hub](/boards/edexcel/igcse/accounting/) lists the rest of the 4AC1 pages.
 
+## Frequently asked questions
+
+**When is a debt written off as irrecoverable?**
+A debt is written off when the business decides a particular amount will not be received, for example because the customer is bankrupt or has disappeared. The journal is debit irrecoverable debts, credit the customer's account, and the total is an expense in the income statement.
+
+**Why does a business need a provision for irrecoverable debts?**
+Some remaining customers are likely not to pay, but nobody knows which ones yet. A provision follows prudence and the accruals concept, and gives a realistic trade receivables figure in the statement of financial position.
+
+**How do you record a decrease in the provision for irrecoverable debts?**
+Debit the provision for irrecoverable debts account and credit the income statement with the decrease, which increases profit. An increase is recorded the other way round, as an extra expense.
+
+**What is the difference between other receivables and other payables?**
+Other payables are amounts the business owes for things other than goods for resale, such as accrued expenses. Other receivables are amounts owed to the business or paid in advance by it that are not from trade customers, such as prepaid expenses and accrued income.
+
+**What do the newer and older names for accruals and prepayments mean?**
+The 4AC1 specification glossary links the names: other receivables replace "prepayments", other payables replace "accruals", and allowance for doubtful debt replaces "provision for doubtful debt".
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 2: Introduction to bookkeeping, sections 2.6 Irrecoverable debts and 2.7 Other receivables and other payables. First assessment: June 2019.

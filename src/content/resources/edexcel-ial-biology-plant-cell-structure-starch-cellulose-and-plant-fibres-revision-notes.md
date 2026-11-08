@@ -221,6 +221,23 @@ Plant-based products: starch-based plastics, fibre composites, paper packaging, 
 - Writing "strong" without saying why (lignin, microfibrils, hydrogen bonds).
 - Evaluating bioplastics one-sidedly and ignoring land and energy use.
 
+## Frequently asked questions
+
+**Why are cellulose chains straight?**
+Cellulose is made of β-glucose, and every second β-glucose is inverted, so the chains are straight and unbranched.
+
+**What holds cellulose molecules together?**
+Glycosidic bonds hold glucose residues within a chain, while many hydrogen bonds between neighbouring chains hold them together in microfibrils. Many hydrogen bonds together give strength, though each is weak.
+
+**What is the difference between the tonoplast and the plasma membrane?**
+The tonoplast is the membrane around the vacuole; the plasma membrane is the cell surface membrane.
+
+**What makes xylem and sclerenchyma strong?**
+Their strength comes from cellulose microfibrils together with lignin in the thickened walls.
+
+**What is Core Practical 7 in Edexcel IAL Biology?**
+Using a light microscope to observe and draw plant tissues, for example a plan diagram of a stem showing the epidermis, cortex and vascular bundles.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification, Issue 2, February 2021, Pearson Education Limited: Topic 4, statements 4.1 to 4.7.

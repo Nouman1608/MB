@@ -173,6 +173,20 @@ These questions cover IB Diploma Programme Biology section D4.3 (Climate change)
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which parts of IB DP Biology D4.3 Climate change are HL only?**
+The additional higher level statements cover phenology, such as mismatches between food peaks and breeding, the extra generations of insects like the spruce bark beetle, and evolution in response to climate change, such as colour in tawny owls.
+
+**Does a correlation between carbon dioxide and temperature prove causation?**
+No. A third factor could drive both, or temperature could drive carbon dioxide; other evidence, such as laboratory measurements of infrared absorption, is needed to show cause.
+
+**Why is a fall of 0.1 in pH not a 10% change?**
+The pH scale is logarithmic, so a fall of 0.10 multiplies hydrogen ion concentration by 10 to the power 0.10, about 1.26, an increase of about 26%.
+
+**How do you explain a positive feedback loop in climate change?**
+Show the full loop: warming causes a change (such as thawing permafrost releasing methane) that increases warming further, so the original change is amplified. Stopping at the gas release shows the cause but not the feedback.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, International Baccalaureate Organization (section D4.3).

@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "ib-dp-language-b-experiences"
 description: "Original IB DP Language B practice on the Experiences theme: three passages, reading and listening questions, a writing task and oral plan."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -247,6 +247,20 @@ photograph is description, not discussion.
 - [Printable Language B checklist](/checklists/ib/ib-dp/language-b/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Which syllabus does IB Language B Experiences practice follow?**
+It follows the IB DP Language B subject brief for first assessment 2020, which remains the examined course until the new syllabus is first assessed in May 2029, so it applies to the 2026, 2027 and 2028 sessions.
+
+**How do you justify a true or false answer in Language B Paper 2?**
+Quote the words from the text that actually prove the point. A justification that does not prove the decision, or that credits the narrator with a view belonging to someone they quote, loses the mark.
+
+**How should you end an Experiences writing task?**
+Link the experience to the present or future, for example with "since then" or "today", rather than ending in the past. The theme asks how past events shape our present and future.
+
+**How should you plan an SL oral on an Experiences photograph?**
+Describe the image briefly, then ask what event it shows, what came before it and what it will lead to, following the theme's past, present and future shape.
 
 ## Official syllabus
 

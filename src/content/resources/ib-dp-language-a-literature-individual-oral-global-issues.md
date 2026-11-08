@@ -17,11 +17,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-intertextuality"
 description: "How to choose a global issue, pair a translated work with one in the language studied and structure the IB DP Language A: Literature oral."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This study guide covers the individual oral in IB Diploma Programme Language A: Literature: choosing
@@ -71,7 +71,7 @@ The brief's aims include understanding relationships between texts and "local an
 Its assessment objectives include analysing the ways texts "offer perspectives on human concerns".
 
 The brief does not give the timing, the length of extract, the rules on notes or the assessment
-criteria. Your teacher will share these. Plan with the official rules in front of you.
+criteria. The full IB Language A guide does set them: the oral lasts 15 minutes (a 10-minute prepared response followed by 5 minutes of teacher questions), each extract is no more than 40 lines, you may take in an outline of no more than 10 bullet points, and it is marked out of 40 on four criteria (A to D, 10 marks each). Confirm the details with your teacher.
 
 ## Choosing a global issue
 
@@ -261,6 +261,20 @@ A listener cannot see your headings. Use phrases such as "My first point about t
 - Comparison: [Intertextuality: connecting texts](/resources/ib-dp-language-a-literature-intertextuality/)
 - The whole course: [syllabus guide](/resources/ib-dp-language-a-literature-syllabus-guide/) and
   [subject guide](/resources/ib-dp-language-a-literature-subject-guide/)
+
+## Frequently asked questions
+
+**What does the IB Literature individual oral involve?**
+It is a prepared oral response on how one work originally written in the language studied and one work studied in translation approach a common global issue. In IB DP Language A: Literature it is internally assessed and taken at both SL and HL.
+
+**How do you test whether a global issue will work?**
+Check that it affects large numbers of people, crosses national and cultural borders, can be seen in ordinary local life, and that both works engage with it through specific choices you can quote. The last test matters most.
+
+**Should you structure the oral work by work or point by point?**
+Both can work. Work by work takes each extract and its links to the whole work in turn before comparing; point by point moves between both works within each aspect of the issue, which needs careful signposting.
+
+**What if your two works treat the issue differently?**
+Say so and explain why. Forcing the works to agree is a common error, and explaining a difference in perspective often makes the strongest comparison.
 
 ## Official syllabus
 

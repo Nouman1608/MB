@@ -138,6 +138,20 @@ These questions follow the Cambridge International AS & A Level Accounting 9706 
 - Interpolating the IRR from two NPVs of the same sign.
 - Writing a one-sided recommendation with no non-financial factor.
 
+## Frequently asked questions
+
+**Are these Cambridge 9706 investment appraisal questions from past papers?**
+No. They are twelve original questions with worked answers on section 4.4 of Cambridge 9706, written for revision. Use them alongside the official past papers.
+
+**What are the most common mistakes in investment appraisal questions?**
+Common errors include not adding depreciation back when turning profit into cash flow, discounting the year 0 outlay, using profit instead of cash flow in payback, NPV or IRR, and interpolating the IRR from two NPVs of the same sign.
+
+**Should I give a decision after calculating NPV or payback?**
+Yes. Stopping at a number with no decision is a common way to lose marks; tie the result to the target period or cost of capital and state whether to accept.
+
+**What should I do when appraisal techniques disagree?**
+Say which technique you give the most weight and why, weigh the non-financial factors against the figures, and reach a clear decision.
+
 ## Next steps
 
 - [Study guide](/resources/cambridge-a-level-accounting-investment-appraisal/) and [revision notes](/resources/cambridge-a-level-accounting-investment-appraisal-revision-notes/)

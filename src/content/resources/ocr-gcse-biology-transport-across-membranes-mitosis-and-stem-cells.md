@@ -314,6 +314,23 @@ A percentile shows the proportion of a group that falls below a value. In a samp
 
 Try the [practice questions](/resources/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells-practice/), then use the [revision notes](/resources/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells-revision-notes/) to consolidate.
 
+## Frequently asked questions
+
+**What is the difference between diffusion, osmosis and active transport?**
+Diffusion moves small particles down a concentration gradient and osmosis moves only water from higher to lower water potential across a partially permeable membrane; both are passive. Active transport moves ions and molecules from low to high concentration using carrier proteins and energy from respiration.
+
+**What are the stages of the cell cycle in OCR GCSE Biology A (J247)?**
+OCR lists four stages: cell growth, DNA replication, further cell growth, and movement of chromosomes (mitosis). The cytoplasm and membrane then divide to give two genetically identical daughter cells.
+
+**What is the difference between embryonic and adult stem cells?**
+Embryonic stem cells come from early embryos and can become any cell type in the body. Adult stem cells, for example in bone marrow, can become only a limited range of cells and are used for repair and replacement during life.
+
+**Why does a plant cell not burst in pure water?**
+A plant cell in dilute solution gains water by osmosis and becomes turgid, but its cell wall resists bursting. An animal cell has no cell wall, so it can swell and burst.
+
+**How do you calculate percentage change in mass in an osmosis experiment?**
+Subtract the initial mass from the final mass, divide by the initial mass and multiply by 100, keeping the sign to show a gain or loss. Using the final mass as the divisor is a common error.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Biology A (Gateway Science), specification J247, Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Statements B2.1a to B2.1f and mathematical outcome BM2.1i.

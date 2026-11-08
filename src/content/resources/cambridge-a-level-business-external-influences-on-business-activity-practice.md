@@ -144,6 +144,20 @@ These questions cover section 6.1 External influences on business activity (6.1.
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Which section of Cambridge AS and A Level Business 9609 do these questions cover?**
+Section 6.1 External influences on business activity, from 6.1.1 to 6.1.7, which is A Level content. All businesses and people in the questions are invented.
+
+**What is the most common mistake with exchange rate questions?**
+Reversing the direction of the effect. Work out the cost in the home currency before and after the change, then say whether imports or exports have become dearer or cheaper.
+
+**How do you calculate a percentage change correctly?**
+Divide the change by the original figure and multiply by 100. Dividing by the new figure, or leaving out the sign, are common errors.
+
+**Is corporate social responsibility costless for a business?**
+No. CSR and sustainability can bring benefits such as reputation and trust, but they also carry costs, so answers should weigh both sides before judging.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International), section 6.1.

@@ -13,13 +13,13 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "enzymes-cambridge-alevel-biology"
-description: "Original exam-style practice questions with full worked answers on enzyme mode of action, factors affecting rate, Michaelis-Menten kinetics, inhibitors and immobilised enzymes, for Topic 3 of Cambridge International AS & A Level Biology (9700)."
+description: "Original Cambridge 9700 Topic 3 practice questions with worked answers on enzyme action, rate factors, Km, inhibitors and immobilised enzymes."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-04
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -92,3 +92,17 @@ Related: [Enzymes study guide](/resources/a-level-biology-enzymes/)
 ## Approaching enzyme questions
 
 Most marks on this topic are lost not from missing a fact but from stating it without the mechanism behind it -- "the enzyme denatures" alone rarely earns full credit, since the expected answer traces the chain from bond-breaking to shape change to loss of complementary fit at the active site. The same discipline applies to the competitive/non-competitive distinction: state the mechanism (does the inhibitor bind the active site or somewhere else) before stating the consequence (can raising substrate concentration overcome it), since examiners can ask for either half separately. For practical-based questions, always be ready to name exactly what is measured and how -- volume of gas, disappearance of colour with iodine, or absorbance on a colorimeter -- since "measure the rate" alone, without saying what is actually observed changing, will not gain the method marks.
+
+## Frequently asked questions
+
+**Which Cambridge 9700 topic do these enzyme questions cover?**
+They cover Topic 3 Enzymes: mode of action, factors affecting rate, Michaelis–Menten kinetics, inhibitors and immobilised enzymes.
+
+**How do you answer a question comparing enzyme hypotheses?**
+Describe both the lock-and-key and induced-fit hypotheses and state how they differ. Describing only one hypothesis when a comparison is asked for loses marks.
+
+**Why do most marks get lost on enzyme questions?**
+Most marks are lost by stating a fact without the mechanism behind it, rather than by missing the fact altogether.
+
+**Are these Cambridge past paper questions?**
+No. They are original exam-style questions with full worked answers. Use them alongside official past papers.

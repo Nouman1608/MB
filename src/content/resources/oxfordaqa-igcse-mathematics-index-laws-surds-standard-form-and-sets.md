@@ -392,6 +392,23 @@ Outside the circles = 60 − 47 = 13
 
 Next, work through the [revision notes](/resources/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets-revision-notes/) and then the [practice questions](/resources/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets-practice/). The [algebra notation and manipulation guide](/resources/igcse-oxfordaqa-mathematics-algebra-notation-and-manipulation/) covers index laws in algebraic expressions, and the [diagnostics](/diagnostics/) help you decide what to revise.
 
+## Frequently asked questions
+
+**What is standard form?**
+Standard form writes a number as A × 10ⁿ, where A is at least 1 but less than 10 and n is a whole number. Large numbers have a positive n and numbers between 0 and 1 have a negative n.
+
+**Are fractional powers and surds Core or Extension in OxfordAQA 9260?**
+In OxfordAQA International GCSE Mathematics (9260), integer index laws, exact fractions, standard form and sets are Core. Fractional powers and calculating with surds, including rationalising, are Extension only.
+
+**Can you add surds like √2 + √3?**
+No. Only like surds combine, so 3√5 + 2√5 = 5√5, but √2 + √3 is not √5 and stays as it is.
+
+**What do the set symbols ∪, ∩ and A′ mean?**
+A ∪ B (union) means in A, in B or in both; A ∩ B (intersection) means in both A and B; and A′ (complement) means the elements of ξ that are not in A. n(A) is the number of elements in A.
+
+**Why should you not round part-way through an exact calculation?**
+Because a decimal such as 0.333 stands in for 1/3 but is not equal to it, so repeated rounding drifts away from the true answer. Keep fractions and surds exact until the end.
+
 ## Official syllabus
 
 Source: OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.1.1, statements N6 to N9.

@@ -12,13 +12,13 @@ order: 2
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-a-literature-readers-writers-texts"
-description: "Close literary analysis of narrative voice, form and craft, and how a writer's choices shape what a reader constructs from a text -- one of three equally-weighted areas of exploration of IB Diploma Programme Language A: Literature, first assessment 2021."
+description: "Narrative voice, form and craft, and how a writer's choices shape what readers build from a text: the Readers, writers and texts area of IB DP Literature."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide covers **Readers, Writers and Texts**, one of three areas
@@ -148,6 +148,20 @@ across the whole passage.
   significant techniques and tracing their effect in depth.
 - Prepare technique-and-effect notes for each studied work ready for
   use in Paper 2 and the individual oral.
+
+## Frequently asked questions
+
+**Is Readers, writers and texts a separate exam section in IB Literature?**
+No. In IB DP Language A: Literature its ideas are woven into Paper 1's guided literary analysis, Paper 2's comparative essay and the individual oral rather than tested as a named section.
+
+**How many teaching hours does Readers, writers and texts have?**
+It has 50 recommended teaching hours at SL and 80 at HL, the same as each of the other two areas of exploration.
+
+**How many techniques should you discuss in a Paper 1 analysis?**
+Select two or three significant techniques and trace their effect across the whole extract, rather than listing every feature you spot. Guided analysis rewards depth of connected argument.
+
+**What vocabulary should you prioritise for poetry and drama?**
+For poetry, prioritise the speaker's voice, form and structure such as stanza length, rhyme scheme and enjambment. For drama, prioritise stage directions, dialogue, soundscape and dramatic irony.
 
 ## Official syllabus
 

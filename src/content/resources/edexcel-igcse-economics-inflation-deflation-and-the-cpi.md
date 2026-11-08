@@ -225,6 +225,23 @@ Inflation is a problem when it is high, unstable or unexpected. Low and stable i
 - Saying inflation means prices are falling more slowly. That is slower inflation, not deflation.
 - Listing effects with no chain of reasoning to say why they follow.
 
+## Frequently asked questions
+
+**What is deflation?**
+Deflation is a sustained fall in the general level of prices. Some individual prices fall in every economy, but deflation means the average price level falls.
+
+**What is the consumer price index?**
+The consumer price index (CPI) is a weighted index that measures the average change in the prices of a basket of goods and services bought by typical households. A CPI of 107 means prices are 7% above the base year, not 107% inflation.
+
+**How do interest rates affect inflation?**
+When inflation is high, a central bank can raise interest rates, which makes borrowing dearer and saving more rewarding. Households and firms spend less, aggregate demand grows more slowly and pressure on prices eases.
+
+**Who loses from inflation?**
+People on fixed incomes, such as pensioners, lose most because their money buys fewer goods. Savers also lose if inflation is higher than the interest rate they earn, while borrowers can gain.
+
+**Why does high inflation harm exports?**
+If a country's inflation is higher than its trading partners' and the exchange rate does not change, its goods become dearer abroad. Foreign buyers switch to cheaper rivals, so export sales fall.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Economics (4EC1), Specification Issue 3, February 2026, for first teaching September 2017, published by Pearson Education Limited. Section 2.1.1 b), Low and stable inflation.

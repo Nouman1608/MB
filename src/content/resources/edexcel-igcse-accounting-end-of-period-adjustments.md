@@ -278,6 +278,23 @@ The same logic applies to income. If Yestor sub-lets a room and receives 3,000 o
 - Adding an accrual to the expense twice, or subtracting a prepayment the wrong way round.
 - Showing other receivables under current liabilities.
 
+## Frequently asked questions
+
+**What is the difference between an irrecoverable debt and a provision for irrecoverable debts?**
+An irrecoverable debt has definitely gone bad, for example because the customer is insolvent, so it is written off as an expense. A provision for irrecoverable debts is an estimate of debts that may go bad, usually a percentage of the receivables left after write-offs; the Edexcel IGCSE glossary's modern term is allowance for doubtful debt.
+
+**Why is a provision for irrecoverable debts needed?**
+Prudence means trade receivables should be shown at the amount the business expects to collect, not overstated. The accruals concept also places the expected loss in the year the sale was made, rather than the year the customer fails to pay.
+
+**What are other payables and other receivables in Edexcel IGCSE Accounting?**
+Other payables (accruals) are expenses that belong to the period but are unpaid at the year end, shown as a current liability. Other receivables (prepayments) are amounts paid this year for benefits of the next period, shown as a current asset.
+
+**How do you calculate an expense with an opening and closing accrual?**
+The expense is the amount paid, plus the closing accrual, minus the opening accrual. With prepayments, add the opening prepayment and subtract the closing prepayment.
+
+**Is a profit on disposal of a non-current asset income or an expense?**
+A profit on disposal, where the proceeds exceed the carrying value, is credited to the statement of profit or loss as income. A loss on disposal, where carrying value exceeds proceeds, is shown as an expense.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited: Topic 5, sections 5.2 Depreciation, 5.3 Irrecoverable debts and 5.4 Other receivables and other payables.

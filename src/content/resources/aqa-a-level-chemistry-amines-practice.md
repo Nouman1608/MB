@@ -205,6 +205,23 @@ sixth carbon in the chain.
 - Writing HCl as the by-product of an acid anhydride reaction.
 - Forgetting to scale titration moles from the portion to the whole solution.
 
+## Frequently asked questions
+
+**Is the amines topic in AQA AS Chemistry?**
+No. Section 3.3.11 Amines of the AQA 7404/7405 specification is A-level only. Organic chemistry is placed on A-level Paper 2, and Paper 3 can test any content.
+
+**How do you classify an amine as primary, secondary or tertiary?**
+Count the carbon atoms bonded to the nitrogen, not the carbons on the carbon next to N. Classifying by the neighbouring carbon is one of the most common ways to lose marks.
+
+**What must a base-strength explanation for amines include?**
+It must refer to the lone pair on nitrogen and its ability to accept H⁺. For phenylamine, say that the nitrogen lone pair is delocalised into the benzene ring; "the ring withdraws electrons" alone is not enough.
+
+**What are the common mistakes in amine mechanisms?**
+Arrows starting from the N atom instead of its lone pair, missing the final deprotonation step, and drawing addition–elimination as one step with no O⁻ intermediate all cost marks. Show each arrow from a lone pair or bond.
+
+**Which equation symbol should you use for an amine reacting with water?**
+Use the equilibrium sign ⇌, because amines are weak bases and only partly react with water. A full arrow contradicts the idea of a weak base.
+
 ## Next steps
 
 - [Amines revision notes](/resources/aqa-a-level-chemistry-amines-revision-notes/)

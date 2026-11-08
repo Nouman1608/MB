@@ -304,6 +304,23 @@ Recommendations need a balance of reasons and a justified conclusion. In Sutterb
 - Calling a difference favourable because actual cost is higher than the fixed budget.
 - Cash budget: using credit sales when cash is received a month later.
 
+## Frequently asked questions
+
+**What is a limiting factor in budgeting?**
+A limiting factor, or principal budget factor, is the resource or condition that restricts activity, such as customer demand or production capacity. Its budget is prepared first because it sets the level for the others.
+
+**In what order are budgets prepared?**
+The normal order is sales, production, purchases and labour, receivables and payables, cash, then the budgeted statements, which together form the master budget.
+
+**What is a flexible budget?**
+A flexible budget recalculates the budget at the actual level of activity, flexing variable costs and revenue while leaving fixed costs unchanged. It gives a like-for-like comparison with actual results.
+
+**Why is depreciation not included in a cash budget?**
+Depreciation is not a cash flow, so it never appears in a cash budget. It is included in the budgeted statement of profit or loss.
+
+**What are the behavioural aspects of budgeting?**
+Targets should be stretching but achievable, managers who take part in setting budgets are more likely to accept them, bonuses linked to budgets can encourage slack or short-term thinking, and managers should be judged only on costs they can control.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028, section 4.3 Budgeting and budgetary control, published by Cambridge International.

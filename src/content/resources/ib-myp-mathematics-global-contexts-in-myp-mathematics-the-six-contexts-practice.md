@@ -148,6 +148,20 @@ Read the [study guide](/resources/ib-myp-mathematics-global-contexts-in-myp-math
 - Leaving out the final comment on whether the answer makes sense.
 - Presenting a model as an exact description of the real world.
 
+## Frequently asked questions
+
+**Can a statement of inquiry just name the topic?**
+No. A statement of inquiry should be a full sentence stating a general idea that links concepts and a context, such as how relationships between quantities help people make fair decisions. Naming a topic such as "Pythagoras" is a common weakness.
+
+**Is a mathematical model an exact description of the real world?**
+No. A model simplifies a real situation, so present it as an approximation and comment on whether the answer makes sense. Treating a model as exact is a frequent error in context questions.
+
+**What should you check at the end of a context problem?**
+Check the units and conversions, such as map centimetres to kilometres, and add a final comment on whether the answer makes sense in the situation. Leaving out that comment loses evidence of reflection.
+
+**When should you compare rates instead of totals?**
+When the groups being compared are different sizes, compare a rate such as cost per person rather than the totals. Comparing totals can lead to the wrong conclusion.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/ib-myp-mathematics-global-contexts-in-myp-mathematics-the-six-contexts-revision-notes/) and the [study guide](/resources/ib-myp-mathematics-global-contexts-in-myp-mathematics-the-six-contexts/).

@@ -12,14 +12,14 @@ order: 6
 syllabusTopics:
   - qualification: "o-level"
     topic: "international-trade-and-globalisation"
-description: "Original exam-style questions with full worked answers on calculating the current account balance, remittances as secondary income, how an appreciation changes export and import prices, total demand and the economy, and the effects of multinational companies, for Cambridge O Level Economics (2281)."
+description: "Practice questions with answers on the current account, remittances, exchange rates, total demand and multinationals, for Cambridge O Level Economics 2281."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -104,3 +104,17 @@ Disadvantage — identification [1], explanation [1], for example: profits may b
 - Claiming that extra spending on imports raises total demand in the home economy.
 - Putting remittances in the wrong part of the current account — they are secondary income, not trade in goods and services.
 - Listing points without explaining them — each needs identification [1] and explanation [1].
+
+## Frequently asked questions
+
+**Can you use a calculator in these Cambridge O Level Economics questions?**
+Yes. The page notes that a calculator is allowed, so do not leave calculation questions blank; the working is quick and earns marks.
+
+**How are explain questions on international trade marked?**
+Each point usually needs an identification and an explanation, with a mark for each. A one-word point such as "jobs" or "pollution" earns little unless you say who gains or loses and why.
+
+**Where do the examiner insights on this page come from?**
+They paraphrase the Cambridge O Level Economics (2281) June 2024 Principal Examiner Report for Teachers and the June 2024 mark scheme for Paper 22, and each answer names the real question to try next.
+
+**How should you answer a question on the effects of a multinational company?**
+Name the advantage or disadvantage, then explain who gains or loses and why, using the country in the question. Listing points without explaining them loses marks.

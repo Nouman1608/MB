@@ -19,9 +19,9 @@ syllabusTopics:
     subtopic: "as-gravitational-potential-energy-and-kinetic-energy"
 description: "Condensed recall notes on work done, kinetic and potential energy, conservation, power and efficiency for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -151,3 +151,16 @@ energy dissipated = 23.5 - 13.7 = 9.81 J
   <figcaption>Efficiency = useful output / total input; efficiencies of machines in series multiply.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the formula for work done?**
+Work done is W = Fs cos θ, where θ is the angle between the force and the displacement. Only the component of force along the displacement does work, so a perpendicular force does no work.
+
+**How do you find the speed of a falling object using energy?**
+With no air resistance, the loss of gravitational potential energy equals the gain in kinetic energy, mgh = ½mv², so v = √(2gh). Mass cancels, so all objects reach the same speed after the same drop.
+
+**How do you find the power of a vehicle at constant speed?**
+At constant velocity the driving force equals the total resistive force, so the power is P = Fv = resistive force × speed.
+
+**How do you derive the kinetic energy formula?**
+Start from v² = u² + 2as with u = 0, so s = v²/2a. Then work done W = Fs = ma × v²/2a = ½mv², which is the kinetic energy gained.

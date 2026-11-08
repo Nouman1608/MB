@@ -124,6 +124,20 @@ Evaluate the appropriateness of this proposal. **[10]**
 - Take any of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between span of control and chain of command?**
+Span of control is the number of subordinates who report directly to one manager. Chain of command is the line of authority and communication from the top of the organization to each employee, so one describes width and the other length.
+
+**What are common mistakes on HRM and organizational structure questions?**
+Students often define span of control as total employees rather than direct reports, describe delayering as cutting workers rather than removing a level of the hierarchy, and name a planning factor without its effect on staff numbers, skills or cost. Ending an evaluation without a judgement linked to the case data also loses marks.
+
+**Is Handy's Shamrock Organization HL only?**
+Yes. In section 2.2 of the IB Business management guide, changes in organizational structure such as project-based organization and Charles Handy's "Shamrock Organization" are HL only.
+
+**How should you show working in span of control questions?**
+Show the division or sum you used, for example dividing staff by the number of supervisors or adding the people at each level. Forgetting to show it is a common way to lose marks.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, International Baccalaureate Organization, sections 2.1 and 2.2.

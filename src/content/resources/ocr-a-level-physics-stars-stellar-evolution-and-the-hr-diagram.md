@@ -188,6 +188,23 @@ Star P: 2 × 10⁴ times the Sun's luminosity, surface temperature 3600 K. Star 
 - Saying "gravity stops" at equilibrium. Gravity still acts. It is balanced by outward pressure.
 - Saying nothing escapes a black hole's gravity at any distance. Escape is impossible only from inside the event horizon.
 
+## Frequently asked questions
+
+**How is a star formed?**
+Gravity pulls a cloud of dust and gas together, and the collapsing clump heats up into a protostar. When the core is hot enough, hydrogen nuclei fuse into helium and the star settles on the main sequence.
+
+**What is a neutron star?**
+A neutron star is the collapsed core left after a supernova, with a radius of about 10 to 15 km and a density similar to that of an atomic nucleus. It is made almost entirely of neutrons.
+
+**What is the event horizon of a black hole?**
+The event horizon is the boundary inside which nothing, not even electromagnetic radiation, can escape. The escape velocity at the event horizon equals the speed of light.
+
+**What are the axes of the HR diagram?**
+The HR diagram plots luminosity on the vertical axis, usually on a logarithmic scale, against surface temperature on the horizontal axis. Temperature decreases from left to right.
+
+**Where are white dwarfs and red giants on the HR diagram?**
+White dwarfs are at the bottom left because they are hot but dim. Red giants are at the upper right because they are cool but very luminous, and supergiants are even higher.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Physics A (H556), Version 3.0 (March 2026), first assessment 2017, published by OCR. Section 5.5.1, outcomes (a) to (g).

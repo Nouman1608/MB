@@ -285,6 +285,23 @@ Multicellularity evolved repeatedly. Many fungi, eukaryotic algae and all plants
 - Saying plant cell walls contain chitin. That is fungi.
 - Saying that differentiating cells lose genes. They switch genes on or off.
 
+## Frequently asked questions
+
+**What are the three parts of cell theory?**
+All living organisms are made of one or more cells; the cell is the smallest unit that carries out the functions of life; and new cells come only from existing cells.
+
+**What is the difference between freeze fracture and cryogenic electron microscopy?**
+Freeze fracture cracks a frozen specimen so membranes split between their lipid layers, exposing embedded proteins. Cryo-EM freezes samples so quickly that no stain or chemical fixing is needed, so molecules keep their natural shape.
+
+**What is the evidence for the endosymbiotic origin of mitochondria and chloroplasts?**
+Mitochondria and chloroplasts have 70S ribosomes and naked circular DNA, like prokaryotes, and can replicate inside the cell. Endosymbiosis is HL-only content in IB DP Biology A2.2.12.
+
+**What are atypical cells in IB DP Biology?**
+Atypical cells have an unusual number of nuclei, such as aseptate fungal hyphae and skeletal muscle fibres with many nuclei, or mature red blood cells and phloem sieve tube elements with none.
+
+**What does it mean to annotate a micrograph drawing?**
+Annotating means adding the function of each structure to its label, not just its name; for example, the folded inner membrane of a mitochondrion gives a large surface area for the enzymes that make ATP.
+
 ## Official syllabus
 
 This resource is aligned to the IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization, section A2.2 (Cell structure).

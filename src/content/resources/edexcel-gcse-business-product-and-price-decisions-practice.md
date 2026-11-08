@@ -136,6 +136,20 @@ Plan B: revenue 95 × 520 = £49,400; variable costs 48 × 520 = £24,960; total
 - Take the [free diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What do these product and price practice questions cover?**
+They follow Pearson Edexcel GCSE Business (1BS0) Theme 2 items 2.2.1 and 2.2.2: the design mix, differentiation, the product life cycle, extension strategies, pricing strategies and the influences on pricing.
+
+**How do you calculate a cost-plus price?**
+Selling price = unit cost + (unit cost × mark-up percentage). A common slip is working out the mark-up but forgetting to add it to the unit cost.
+
+**Why should you show the formula and substitution in a calculation?**
+If the final figure contains a slip, written working gives the examiner something to credit. Include the pound sign or units in the answer as well.
+
+**How do you recommend a pricing strategy in an exam answer?**
+Link the strategy to the product, the rivals and the market segment in the case, then reach a judgement that your earlier points support.
+
 ## Official syllabus
 
 Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0), Specification, Issue 2, July 2022, published by Pearson Education Limited. Theme 2: Building a business, topic 2.2 Making marketing decisions, content items 2.2.1 Product and 2.2.2 Price.

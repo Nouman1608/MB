@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "motion"
 description: "Speed, velocity and acceleration, and reading distance-time and speed-time graphs, for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-07-01
 updatedDate: 2026-08-18
 featured: false
@@ -268,6 +268,20 @@ graph
 - Calculating speed from a distance–time gradient, acceleration from a
 speed–time gradient, and distance from the area under a speed–time graph
 - g ≈ 9.8 m/s², the acceleration of free fall near the Earth's surface
+
+## Frequently asked questions
+
+**What is the difference between distance and displacement?**
+Distance is the total length of the path travelled, with no direction, so it is a scalar. Displacement is how far you end up from the start in a straight line, with a direction, so it is a vector; a runner completing one lap of a 400 m track has a distance of 400 m but zero displacement.
+
+**How do you find speed from a distance-time graph?**
+The gradient of a distance-time graph is the speed. For a curved section, the speed at an instant is the gradient of the tangent to the curve at that point.
+
+**What is the acceleration of free fall in O Level Physics 5054?**
+Near the Earth's surface, the acceleration of free fall, g, is approximately 9.8 m/s², directed downward. Cambridge O Level Physics 5054 expects you to recall this value.
+
+**Is Cambridge O Level Physics 5054 tiered?**
+No. O Level Physics 5054 is not tiered, so every candidate covers all of the kinematics outcomes. IGCSE Physics 0625 covers the same topic but is tiered Core and Extended.
 
 ## Related resources
 

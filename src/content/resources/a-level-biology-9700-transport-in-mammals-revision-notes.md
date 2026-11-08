@@ -25,11 +25,11 @@ syllabusTopics:
     subtopic: "the-heart-cambridge-alevel-biology"
 description: "Condensed notes on vessels, tissue fluid, the chloride shift, the Bohr shift and the cardiac cycle, with a self-test, for Cambridge 9700 AS Biology."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 These revision notes cover Topic 8, Transport in mammals, in the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027: sections 8.1 The circulatory system, 8.2 Transport of oxygen and carbon dioxide and 8.3 The heart. It is AS Level content, examined on Papers 1 and 2, and Paper 4 can draw on it. For full explanations and worked examples, use the [Transport in mammals study guide](/resources/a-level-biology-9700-transport-in-mammals/).
@@ -267,6 +267,23 @@ SAN (right atrium wall, pacemaker) → excitation across both atria → atria co
 - Saying the SAN is in the left atrium, or that the AVN "starts" the heartbeat.
 - Linking valve opening to contraction rather than to a pressure difference.
 - Forgetting to convert mm to µm before using magnification.
+
+## Frequently asked questions
+
+**What is double circulation?**
+Blood passes through the heart twice in each complete circuit of the body: once through the pulmonary circulation and once through the systemic circulation.
+
+**How is tissue fluid formed?**
+At the arterial end of a capillary, high hydrostatic pressure forces plasma out through gaps between endothelial cells. Cells and most plasma proteins stay in the blood, and at the venous end water returns by osmosis.
+
+**What is the chloride shift?**
+Hydrogencarbonate ions diffuse out of the red blood cell into the plasma and chloride ions move in, keeping the charges balanced. Saying chloride moves out is a common error.
+
+**What is the Bohr shift?**
+A higher partial pressure of carbon dioxide gives more H⁺, which lowers haemoglobin's affinity for oxygen. The dissociation curve shifts to the right, so more oxygen is unloaded in respiring tissues.
+
+**What controls the heartbeat?**
+The SAN in the wall of the right atrium starts each beat, the AVN delays it, and Purkyne tissue conducts the excitation through the ventricle walls.
 
 ## Official syllabus
 

@@ -24,9 +24,9 @@ syllabusTopics:
     subtopic: "particle-model-and-pressure"
 description: "AQA GCSE Physics 8463 Particle model of matter from scratch: density, changes of state, internal energy, latent heat and gas pressure, worked examples."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -354,6 +354,20 @@ when you pump up a tyre quickly.
 - Explaining gas pressure with "more collisions" only. Say collisions are **more frequent** and, for a
   temperature rise, **harder**.
 - Using pV = constant when the temperature changes. It needs a fixed mass at constant temperature.
+
+## Frequently asked questions
+
+**Why is mass conserved in a change of state?**
+In a change of state the number of particles stays the same; only their arrangement and energy change. Changes of state are physical changes, so the material recovers its original properties if the change is reversed.
+
+**What is specific latent heat?**
+Specific latent heat is the energy needed to change the state of one kilogram of a substance with no change in temperature, E = mL. Fusion refers to solid and liquid, and vaporisation to liquid and vapour.
+
+**Why does heating a gas at constant volume increase its pressure?**
+Heating gives the molecules more kinetic energy, so they move faster and hit the container walls more often and with more force, increasing the pressure.
+
+**Why does a bicycle pump get warm?**
+Doing work on the gas by pushing in the piston transfers energy to it, increasing its internal energy and so its temperature. This idea is Higher tier only in AQA GCSE Physics 8463.
 
 ## Official syllabus
 

@@ -15,7 +15,7 @@ syllabusTopics:
     topic: "component-2-essay-9239"
 seoTitle: "Cambridge 9239 Component 2 Essay Guide (2026–2028)"
 seoDescription: "How to choose a question, plan and write the 1750–2000 word Component 2 essay for Cambridge AS & A Level Global Perspectives & Research 9239, marked out of 40."
-description: "How the 1750-2000 word independent essay works within Cambridge International AS & A Level Global Perspectives & Research (9239) -- choosing a question, using globally contrasting perspectives, and meeting AO1-AO3."
+description: "How the 1750-2000 word Component 2 essay works in Cambridge AS & A Level Global Perspectives 9239: choosing a question, contrasting perspectives and AO1-AO3."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -151,6 +151,23 @@ Describing perspectives without comparing or evaluating them against each
 other. Ending the essay with a restated summary instead of a personal,
 supported conclusion. Missing the word count statement, or exceeding
 2000 words, which stops the excess from being marked at all.
+
+## Frequently asked questions
+
+**How long is the Cambridge Global Perspectives 9239 essay?**
+The Component 2 essay is 1750–2000 words of continuous prose, with an accurate word count stated on the essay. The count excludes the title, references and citations, and anything beyond 2000 words is not marked.
+
+**How many marks is the 9239 Component 2 essay worth?**
+The essay is worth 40 marks and is externally marked. It is one of the three compulsory AS components, alongside the Written Exam and the Team Project.
+
+**Can the essay title be a statement?**
+No. The title must be phrased as a single question, not a statement or general topic, and it should open up globally contrasting perspectives. A question about an exclusively local or national issue is unlikely to be appropriate.
+
+**Can a teacher help with the Global Perspectives essay?**
+Teachers may lead whole-class background research and support planning, source citation and word-count discipline. They must not give detailed advice on improving a specific draft or correct or edit draft coursework, and each candidate must devise their own question.
+
+**How should a 9239 essay end?**
+It should end with the candidate's own personal, supported conclusion on the question. Simply summarising the perspectives already given does not complete the task.
 
 ## Official syllabus
 

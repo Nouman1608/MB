@@ -204,6 +204,20 @@ Write each as a chain with the direction of change and the dissipation:
 11. cos 90° = 0, so the work done is **zero**.
 12. h = v² ÷ 2g = 144 ÷ 19.62 = **7.3 m**.
 
+## Frequently asked questions
+
+**What is the formula for work done by a force at an angle?**
+Work done is W = Fs cos θ, where θ is the angle between the force and the displacement. A force at 90° to the movement does no work.
+
+**What is the unit of work and power?**
+Work is measured in joules, where 1 J = 1 N m. Power is measured in watts, where 1 W = 1 J s⁻¹.
+
+**How do you calculate efficiency?**
+Efficiency is the useful output power divided by the input power. The same ratio can be written with useful output energy and input energy.
+
+**What happens to kinetic energy if speed doubles?**
+Kinetic energy is ½mv², so speed is squared. Doubling the speed quadruples the kinetic energy.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Physics (9630)*, Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Sections 3.2.7 and 3.2.8.

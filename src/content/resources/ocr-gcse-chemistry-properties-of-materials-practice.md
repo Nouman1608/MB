@@ -177,6 +177,20 @@ Identify the type of structure in each material: ionic, simple molecular, giant 
 - [Book a free trial class](/trial/) if you want a teacher to go through this with you.
 - Track the rest of the course with the [OCR GCSE Chemistry hub](/boards/ocr/gcse/chemistry/) and the [printable checklist](/checklists/ocr/gcse/chemistry/).
 
+## Frequently asked questions
+
+**What does OCR GCSE Chemistry C2.3 Properties of materials cover?**
+Sub-topic C2.3 of OCR GCSE (9–1) Chemistry A (J248) covers why carbon forms so many compounds, the structures of carbon, changes of state, bulk properties and bonding, and the size, surface area, uses and risks of nanoparticles.
+
+**What are common mistakes in properties of materials questions?**
+Frequent errors include writing that boiling breaks covalent bonds in a simple molecular liquid, calling the mobile particles in graphite "ions", reading negative temperatures the wrong way round, and mixing nm, mm and m in one division.
+
+**How do you identify a structure type from a table of data?**
+Use the evidence given, such as melting point, hardness and whether the substance conducts as a solid, liquid or solution, to decide between ionic, simple molecular, giant covalent, metallic and polymer. Naming a structure without using the data loses credit.
+
+**How should I answer a question on the risks of nanoparticles?**
+Link each risk to a property such as small size or large surface area, for example that tiny particles may be breathed in or that a large surface area may make them more reactive. Then weigh the risks against the benefits and give a judgement.
+
 ## Official syllabus
 
-OCR specification J248, Chemistry A (Gateway Science), Cambridge OCR Level 1/Level 2 GCSE (9-1): Version 4.0, August 2026; first assessment 2018. This page draws on sub-topic C2.3 Properties of materials.
+OCR specification J248, Chemistry A (Gateway Science), OCR Level 1/Level 2 GCSE (9-1): Version 4.0, August 2026; first assessment 2018. This page draws on sub-topic C2.3 Properties of materials.

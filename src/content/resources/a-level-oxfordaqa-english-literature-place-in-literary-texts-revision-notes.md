@@ -13,11 +13,17 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-place-in-literary-texts-9675"
-description: "Condensed recall notes on the prose and poetry sections, the specification's nine 'place' angles, and exam technique for OxfordAQA International AS & A-Level English Literature (9675) Unit 2."
+  - qualification: "a-level"
+    topic: "unit-2-place-in-literary-texts-9675"
+    subtopic: "unit-2-section-a-9675"
+  - qualification: "a-level"
+    topic: "unit-2-place-in-literary-texts-9675"
+    subtopic: "unit-2-section-b-9675"
+description: "Condensed notes on Unit 2 Place in Literary Texts of OxfordAQA 9675: the prose and poetry sections, the specification's angles on place, and exam technique."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -117,6 +123,20 @@ search should already be done in preparation, with only quick confirmation neede
 5. Is an annotated copy of the set text permitted in the exam?
 
 **Answers:** 1. 50 marks, 50% of the International AS (20% of the full International A-level). 2. Any three of: geographical locations, setting/time period, the natural world, social identity, social class, place as a setting for relationships, place as a political space, home and homeland, language. 3. Because the exam is open book, so preparation is better spent on a flexible analytical framework than on memorising exact wording. 4. It under-uses the available marks, since strong answers are expected to range across the poet's selection rather than rely on one poem. 5. No — examination regulations require a clean, unannotated copy; this is not something the specification itself states.
+
+## Frequently asked questions
+
+**Is OxfordAQA 9675 Place in Literary Texts open book?**
+Yes. Unit 2 is a 2-hour open-book exam worth 50 marks, which is 50% of the International AS and 20% of the full International A-level. Only a clean, unannotated copy of the set text may be taken in, which is a matter of examination regulations.
+
+**How many "place" angles does the specification list?**
+The notes list nine angles, including specific geographical locations, the natural world, social identity, social class, place as a political space, home and homeland, and the language a text uses to represent place. A strong essay ranges across several of them rather than geography alone.
+
+**Which poets can be studied for the Unit 2 poetry section?**
+The poetry options are a selection of William Wordsworth, Robert Frost, Thomas Hardy or Seamus Heaney. Section B assesses the poet's selection, so draw evidence from more than one poem.
+
+**How should I split my time in the Unit 2 exam?**
+With 2 hours for two 25-mark essays, aim for roughly equal time on each section and leave a short window at the end to reread both answers against the question.
 
 ## Related resources
 

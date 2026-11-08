@@ -248,6 +248,20 @@ Worked reminder: a neuron 0.80 m long conducting at 40 m/s takes 0.80 ÷ 40 = 0.
 - Naming a transported substance without saying where it goes from and to.
 - Saying that the cerebellum "controls" movement without mentioning coordination and balance.
 
+## Frequently asked questions
+
+**What is the difference between grey matter and white matter in the spinal cord?**
+Grey matter in the centre of the cord holds neuron cell bodies, interneurons and synapses; white matter around it is made of myelinated axons carrying impulses up and down.
+
+**What is the difference between the dorsal and ventral roots?**
+Sensory fibres enter the spinal cord through the dorsal root, whose ganglion holds the sensory neuron cell bodies; motor fibres leave through the ventral root.
+
+**What does the cerebellum do?**
+The cerebellum, at the back of the brain below the cerebral hemispheres, coordinates the timing and force of skeletal muscle contraction and maintains balance; damage causes jerky movement and poor balance but not loss of strength.
+
+**Why is a reflex so fast?**
+A reflex pathway has few neurons and only two synapses, needs no decision by the cerebral hemispheres to start it, and uses fast-conducting myelinated fibres.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section C3.1, Integration of body systems, statements C3.1.1 to C3.1.10.

@@ -15,9 +15,9 @@ syllabusTopics:
     subtopic: "materials"
 description: "Original exam-style practice questions with full worked answers on viscosity, Stokes law, Hooke law and the Young modulus for Edexcel IAL Physics."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -105,3 +105,17 @@ strain = 2.4 × 10⁻³ ÷ 1.80 = **1.33 × 10⁻³** [1].
 - Applying Stokes' law to turbulent flow.
 - Confusing strong, stiff and tough — they are five separate properties, and a material can be strong without being tough (glass) or tough without being especially stiff (copper).
 - Treating the Young modulus as a property that depends on the object's dimensions — it is a property of the **material**, independent of the sample's length or cross-sectional area.
+
+## Frequently asked questions
+
+**What is Core Practical 2 in Edexcel IAL Physics?**
+Core Practical 2 uses a falling-ball method to determine the viscosity of a liquid: small spheres are timed falling at terminal velocity, and Stokes' law is applied together with the sphere's weight and the upthrust.
+
+**What is Core Practical 3 in Edexcel IAL Physics?**
+Core Practical 3 determines the Young modulus of a material, typically a wire, by measuring extension against applied force and calculating stress and strain from the cross-sectional area and original length.
+
+**When does an object float in a fluid?**
+An object floats if its average density is less than the density of the fluid. The upthrust on it equals the weight of fluid it displaces.
+
+**What mistakes lose marks in Edexcel IAL materials questions?**
+Common errors include omitting upthrust from the terminal velocity force balance, assuming viscosity changes the same way with temperature in liquids and gases, using the diameter instead of the radius, and applying Stokes' law to turbulent flow.

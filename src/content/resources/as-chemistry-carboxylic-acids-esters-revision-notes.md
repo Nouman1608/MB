@@ -19,9 +19,9 @@ syllabusTopics:
     subtopic: "as-esters"
 description: "Condensed recall notes on carboxylic acid preparation and reactions, esterification, hydrolysis and uses of esters for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -169,3 +169,16 @@ Esters are **volatile with pleasant, fruity smells**, so they are used in flavou
   <figcaption>One fat gives three soap or three biodiesel molecules, the 1:3 ratio. AQA and OxfordAQA.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are the products of alkaline hydrolysis of ethyl ethanoate?**
+Heating ethyl ethanoate under reflux with excess sodium hydroxide gives sodium ethanoate and ethanol. Alkaline hydrolysis gives the carboxylate salt, not the free acid.
+
+**What catalyst is used in esterification?**
+Esterification uses a few drops of concentrated sulfuric acid as a catalyst. The reaction is reversible, which helps explain why the yield is often low.
+
+**Is alkaline ester hydrolysis reversible?**
+No. Alkaline hydrolysis goes to completion, while acid hydrolysis is reversible. Saying alkaline hydrolysis is reversible is an exam trap.
+
+**How can carboxylic acids be prepared?**
+Carboxylic acids can be made by oxidising primary alcohols or aldehydes, by hydrolysing a nitrile, or by hydrolysing an ester. These routes are in the Cambridge International AS & A Level Chemistry 9701 syllabus.

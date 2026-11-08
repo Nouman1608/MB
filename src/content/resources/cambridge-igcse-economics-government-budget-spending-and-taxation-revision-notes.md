@@ -209,6 +209,20 @@ Evaluation checklist: size of the tax rate, elasticity of demand, who gets the m
 - Leaving out the opportunity cost of government spending.
 - Naming a quality of a good tax with no explanation of what it means in the example.
 
+## Frequently asked questions
+
+**What is the government budget?**
+The government budget is a plan, usually for one year, of the government's expected revenue and planned spending. Revenue comes mainly from taxes.
+
+**Why do governments levy taxes?**
+Governments tax to raise revenue for public spending, redistribute income, discourage demerit goods, protect domestic producers through import duties, influence the economy and cover external costs such as pollution.
+
+**What are the qualities of a good tax?**
+A good tax is usually described as equitable (based on ability to pay), certain, convenient, economical to collect, efficient in raising revenue without harming incentives, and flexible enough to change when needs change.
+
+**What is the difference between progressive, regressive and proportional taxes?**
+A progressive tax takes a rising share of income as income rises, a regressive tax takes a falling share, and a proportional tax takes the same share at every income level.
+
 ## Official syllabus
 
 Source: Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, Cambridge University Press & Assessment, section 4.3 Fiscal policy (4.3.1 to 4.3.6).

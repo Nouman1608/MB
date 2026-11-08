@@ -230,6 +230,23 @@ In a monopsony a modest floor raises both pay and employment. The gain peaks at 
 
 Try the [practice questions](/resources/oxfordaqa-a-level-economics-labour-market-discrimination-and-minimum-wage-laws-practice/), then the [revision notes](/resources/oxfordaqa-a-level-economics-labour-market-discrimination-and-minimum-wage-laws-revision-notes/).
 
+## Frequently asked questions
+
+**What is wage discrimination?**
+Wage discrimination means paying workers different wages, or giving them different access to jobs, for reasons unrelated to productivity, such as gender, ethnicity, age, disability or religion. A pay difference that reflects skills, experience or hours is not discrimination.
+
+**Why is the group with less elastic labour supply paid less by a discriminating employer?**
+A firm with wage-setting power pays each group a wage that depends on how elastic that group's supply is to the firm. A group with fewer alternative jobs has less elastic supply, so the firm can pay it less even when it is equally productive.
+
+**Who gains and who loses from wage discrimination?**
+The favoured group and the employer may gain, but the discriminated group gets lower pay, fewer jobs and less incentive to train. The economy loses through misallocated labour, wasted human capital, wider inequality and lower tax receipts.
+
+**What are the disadvantages of a national minimum wage?**
+It can cause job losses where labour demand is elastic, add cost-push pressure on prices, miss poor households because it is not targeted, fit poorly across regions with different pay, and needs enforcement.
+
+**Do I need real-world examples of wage discrimination for OxfordAQA 9640?**
+Yes. The OxfordAQA 9640 specification asks for real-world examples of wage discrimination, so collect two from your own country, such as a pay-gap report or a court case.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, sections 3.3.4.5 and 3.3.4.6, with the quantitative skills in section 3.5. First teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022.

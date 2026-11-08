@@ -16,9 +16,9 @@ syllabusTopics:
     subtopic: "as-chemical-equilibria"
 description: "Condensed recall notes on dynamic equilibrium, Kc and Kp, and Le Chateliers principle for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -210,3 +210,16 @@ Use an **ICE table** — Initial, Change, Equilibrium.
   <figcaption>Convert equilibrium amounts to concentrations before substituting into Kc.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Should solids be included in a Kc expression?**
+No. Solids and pure liquids are left out of the Kc expression. Including them is one of the exam traps in Cambridge International AS & A Level Chemistry 9701 equilibrium questions.
+
+**When does pressure have no effect on an equilibrium?**
+Changing pressure has no effect on the position of equilibrium when there are equal moles of gas on both sides of the equation, for example H₂ + I₂ ⇌ 2HI.
+
+**Can you use moles directly in a Kc expression?**
+Only if the volume is 1 dm³. In general, divide the moles of each species by the volume to get concentrations before substituting into Kc.
+
+**Why do industrial processes use compromise conditions?**
+The conditions that give the highest equilibrium yield are not always those that give a fast enough rate or a reasonable cost. A compromise answer should say what is being balanced against what, such as yield against rate.

@@ -9,7 +9,7 @@ boards: ["cambridge"]
 qualifications: ["o-level"]
 syllabusCodes: ["5054"]
 order: 1
-description: "O Level Physics 5054 past papers guide: grade thresholds and examiner report notes for June 2023 to June 2026, with free practice links."
+description: "Cambridge O Level Physics 5054 past papers guide: grade thresholds and examiner report notes for June 2023 to June 2026, with free practice question links."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-06
 featured: false
@@ -269,6 +269,20 @@ Official documents: [past papers, mark schemes and examiner report](https://www.
 5. Fix those topics using the notes and practice on the [O Level Physics subject hub](/boards/cambridge/o-level/physics/), then test yourself in the [5054 self-check question bank](/practice/5054/).
 6. Sit a paper from a different series and compare your mark with that series' thresholds. For June 2026 thresholds on our flagship syllabuses, see [grade thresholds](/grade-thresholds/).
 7. If you want a teacher to go through your answers with you, [book a trial lesson](/trial/).
+
+## Frequently asked questions
+
+**Which papers do Cambridge O Level Physics 5054 candidates sit?**
+Every 5054 candidate sits Paper 1 (Multiple Choice), Paper 2 (Theory) and one practical paper: either Paper 3 (Practical Test) or Paper 4 (Alternative to Practical).
+
+**Which 5054 syllabus version applies to exams from 2026?**
+The current 5054 syllabus is Version 2, published December 2025, for exams in 2026, 2027 and 2028. Papers from June 2023 to November 2025 were set before it came into use, so check the syllabus version on an older paper's front cover.
+
+**Where can you download Cambridge O Level Physics past papers?**
+Cambridge publishes recent 5054 papers, mark schemes, examiner reports and grade thresholds on the syllabus's past-papers page; older series are available to schools through the School Support Hub. This page does not host any papers.
+
+**Can O Level grade thresholds predict future grade boundaries?**
+No. Grade thresholds change every series, so the thresholds on this page must never be used to predict future ones.
 
 ## About these notes
 

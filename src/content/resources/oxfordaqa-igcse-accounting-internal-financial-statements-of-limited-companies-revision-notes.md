@@ -205,6 +205,23 @@ Shareholders have limited liability, so they cannot lose more than they paid for
 - Commenting without a figure, or giving a figure without a reason.
 - Mixing up the retained earnings at the start with the retained earnings at the end.
 
+## Frequently asked questions
+
+**Is a dividend an expense in a company's income statement?**
+No. A dividend is a distribution of profit and is deducted from retained earnings. Loan interest, by contrast, is an expense in the income statement.
+
+**How do you decide if a loan is a current or non-current liability?**
+The test is whether repayment is due within one year of the date of the statement. If it is, the loan is a current liability; otherwise it is non-current.
+
+**How is loan interest owing treated at the year end?**
+Charge the full year's interest in the income statement and show any unpaid amount as a current liability. For example, a 5% loan of 80,000 has interest of 4,000; if 2,000 was paid, 2,000 is owing.
+
+**What makes a good comment on company financial statements?**
+A good comment has three parts: a figure, a comparison and a reason or consequence. A figure without a reason, or a comment without a figure, earns little.
+
+**What is the balancing check for a company's statement of financial position?**
+Non-current assets plus current assets, less all liabilities, equals equity, which is share capital plus retained earnings.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), version 1.2, for International GCSE exams May/June 2026 onwards, published by OxfordAQA. Section 3.4, limited companies.

@@ -268,6 +268,20 @@ further reaction of the diol with more epoxyethane.
   to the ring carbon.
 - The final proton transfer left out of the epoxyethane mechanism.
 
+## Frequently asked questions
+
+**Why do alkenes react with electrophiles?**
+The C=C double bond has four shared electrons between two carbons, making it a centre of high electron density. Electrophiles, which are electron-pair acceptors, are attracted to it and accept a pair of electrons from it.
+
+**Why does HBr give major and minor products with an unsymmetrical alkene?**
+The H can add to either carbon of the C=C, giving two different carbocations. The more stable carbocation, the one with more alkyl groups attached, leads to the major product; Br₂ adds the same atom to both carbons, so it gives only one product.
+
+**How does a plasticiser make PVC flexible?**
+Plasticiser molecules, commonly phthalate esters, sit between the polymer chains and hold them further apart. The forces between the chains become weaker, so the chains can slide over one another and the PVC becomes flexible.
+
+**What is the difference between how alkenes and epoxyethane react?**
+Alkenes are attacked by electrophiles at the electron-rich C=C bond. Epoxyethane is attacked by nucleophiles, such as water and alcohols, which use a lone pair on oxygen to open the strained ring.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS

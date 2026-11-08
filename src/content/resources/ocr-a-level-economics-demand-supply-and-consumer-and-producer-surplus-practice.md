@@ -170,6 +170,23 @@ These questions cover the first part of the topic Supply and demand and the inte
 - Take the [free diagnostics](/diagnostics/) to find weak spots.
 - Want help in person? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between joint, composite and competitive demand?**
+Joint demand is for goods bought together, such as printers and ink. Composite demand is for a good with several uses, such as timber for furniture, fuel and paper, and competitive demand is for substitutes, such as rice and noodles.
+
+**How do you build market demand from individual demand?**
+Add the quantities demanded by each household at each price, not the prices. A change in the number of buyers shifts the market demand curve.
+
+**How do you calculate consumer surplus from marginal utility values?**
+Compare each unit's marginal utility with the price one unit at a time, buy while marginal utility is at least the price, and add up the gaps between marginal utility and price for the units bought.
+
+**Which OCR A Level Economics component covers demand and supply?**
+Demand, supply and consumer and producer surplus are the first part of the topic Supply and demand and the interaction of markets in Component 1, Microeconomics, of the OCR A Level Economics (H460) specification.
+
+**Is producer surplus the same as profit?**
+No. Producer surplus is the area above the supply curve and below the price, measured from the supply curve's intercept. Treating it as profit is a common error.
+
 ## Official syllabus
 
 OCR's *A Level Economics* specification (H460), published by OCR, Version 3.0 (June 2026), for first assessment in 2021. Sections used: the first part of the Supply and demand and the interaction of markets topic, in Component 1 (Microeconomics).

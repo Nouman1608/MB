@@ -219,6 +219,20 @@ The specification defines these as follows. Outline: give two linked points abou
 - Ignoring the context: a small local business and a large multinational feel the same policy differently.
 - In evaluate questions, stopping at analysis and not giving a supported conclusion.
 
+## Frequently asked questions
+
+**What are the constraints on government spending?**
+Tax revenue is limited, borrowing has to be repaid with interest, every spending choice has an opportunity cost, and a weak economy can cut tax receipts just when demand for public services rises.
+
+**How do higher interest rates affect consumer spending?**
+Borrowing on credit cards, car finance and mortgages costs more, saving becomes more rewarding and people with variable-rate debts have less to spend. Sellers of big-ticket goods bought on credit usually notice the change most.
+
+**What are the four external factors in Edexcel IGCSE Business?**
+The 4BS1 specification names social, technological, environmental and political factors. They are outside a business's control but still affect its decisions.
+
+**What is a trading bloc?**
+A trading bloc is a group of countries that agree to trade with one another on easier terms, typically with lower or no tariffs between members, while outsiders may face barriers.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 1: Business activity and influences on business, sections 1.6 and 1.7.

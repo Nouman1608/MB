@@ -15,9 +15,9 @@ syllabusTopics:
     topic: "energy-changes-8462"
 description: "AQA GCSE Chemistry 8462 Energy changes taught from scratch: exothermic and endothermic reactions, reaction profiles, bond energies, cells and fuel cells."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -363,6 +363,20 @@ electrons, so it is oxidised.
 - Exam-style practice: [Energy changes practice questions](/resources/aqa-gcse-chemistry-8462-energy-changes-practice/)
 - Next topic: [The rate and extent of chemical change](/resources/aqa-gcse-chemistry-8462-the-rate-and-extent-of-chemical-change/)
 - Find your weak spots: [free 10-minute diagnostics](/diagnostics/)
+
+## Frequently asked questions
+
+**Which paper is Energy changes on in AQA GCSE Chemistry 8462?**
+Section 4.5 Energy changes is examined on Paper 1 at Foundation and Higher tier. Bond energy calculations (4.5.1.3) and fuel cell half equations are Higher tier only.
+
+**What is activation energy?**
+Activation energy is the minimum amount of energy that particles must have to react. On a reaction profile it is shown as the rise from the reactants to the top of the curve.
+
+**Why is a reaction exothermic when more energy is released forming bonds than breaking them?**
+Breaking bonds takes in energy and making bonds releases energy. If the energy released by forming new bonds is greater than the energy needed to break the old ones, the overall energy change is negative and the reaction is exothermic.
+
+**Should a reaction profile be drawn with straight lines?**
+No. The specification asks for a curved line rising from the reactants to a peak and falling to the products. Draw the activation energy arrow from the reactants to the top of the curve.
 
 ## Official syllabus
 

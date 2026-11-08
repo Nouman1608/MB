@@ -171,6 +171,20 @@ These questions cover topic 12 of the Cambridge O Level Statistics 4040 syllabus
 * Take one of the [free 10-minute diagnostics](/diagnostics/) to find weak topics.
 * [Book a free trial class](/trial/) if you want help with any of these topics.
 
+## Frequently asked questions
+
+**Is E(X²) the same as the square of E(X)?**
+No. E(X²) squares each value and then averages, while [E(X)]² averages first and then squares. The two usually give different answers.
+
+**How should you state an expected loss?**
+Give the sign, the unit and who loses, for example an expected loss of a stated amount per game for the player. A bare number with no sign or unit can lose marks.
+
+**Can you call a game fair without calculating?**
+No. Work out the expected net gain first; a judgement of fair or unfair with no calculation of the expectation earns little.
+
+**Which part of the 4040 syllabus do these questions cover?**
+They cover topic 12, sections 12.1 and 12.2, of the Cambridge O Level Statistics (4040) syllabus for examination in 2025, 2026 and 2027.
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment (Cambridge International Education). Topic 12, sections 12.1 and 12.2, and the mathematical notation list.

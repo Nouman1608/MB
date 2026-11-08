@@ -8,11 +8,11 @@ boards: ["aqa"]
 qualifications: ["gcse"]
 syllabusCodes: ["8145"]
 order: 5
-description: "How the Historic Environment element works within AQA GCSE History (8145) Paper 2 -- connecting a specified site's key features to your chosen British depth study and the second-order concepts the question draws on: change, continuity, causation and consequence."
+description: "How the historic environment study works in AQA GCSE History 8145 Paper 2: linking a specified site to your British depth study through change and causation."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -165,6 +165,17 @@ essay.
 - Always connect Historic Environment content back to your chosen
   British depth study, rather than revising it as a standalone list of
   facts.
+
+## Frequently asked questions
+
+**How is the historic environment examined?**
+By the fourth and final question of Paper 2 Section B, a 16-mark essay on the site AQA specifies for your British depth study; the site changes each year.
+
+**Which concepts does the question draw on?**
+Change, continuity, causation and consequence, applied to the site and its period.
+
+**How should I revise the site?**
+Learn its main features and connect each to the people, events and changes of your British depth study.
 
 ## Official syllabus
 

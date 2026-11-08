@@ -9,11 +9,11 @@ qualifications: ["gcse"]
 syllabusCodes: ["J560"]
 syllabusSeries: "Version 2.1 (August 2026), for first assessment in 2017"
 order: 3
-description: "Why OCR GCSE Mathematics J560 sets three 100-mark papers per tier with exactly one non-calculator paper, why any topic can appear on any paper, and a worked method-marks routine."
+description: "OCR GCSE Maths J560 exam preparation: three 100-mark papers per tier, one non-calculator paper, any topic on any paper, and a routine to secure method marks."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-07
 featured: false
 ---
@@ -120,6 +120,23 @@ practice is done with a calculator, and it is a full third of the qualification.
 apply across both tiers and may be assessed on any paper -- there is no division of content between
 the three papers. 4. Because method marks can only be awarded for method that is visible, so if the
 answer is wrong there is nothing left to credit.
+
+## Frequently asked questions
+
+**How long is each OCR GCSE Maths exam paper?**
+Every OCR GCSE (9-1) Mathematics J560 paper is 1 hour 30 minutes and worth 100 marks, at both Foundation and Higher tier. That is a little under a minute per mark, so pacing practice with complete papers matters.
+
+**Can you use a calculator on every OCR GCSE Maths paper?**
+No. In each tier, exactly one of the three papers is non-calculator: Paper 02 at Foundation and Paper 05 at Higher. The other two papers in each tier allow a calculator.
+
+**Do you get marks for method in GCSE Maths if the final answer is wrong?**
+Marks are available for correct method independently of the final answer, but only when the method is visible. Writing the rule first and setting working out in clear lines keeps those marks available.
+
+**How should you decide between Foundation and Higher tier in OCR GCSE Maths?**
+Base the decision on recent timed full papers at both tiers rather than on comfort with particular topics. The two tiers have identical paper lengths and mark totals but differ in demand.
+
+**What does it mean to carry your answer forward in a multi-part question?**
+It means using your own answer from an earlier part in a later part, and saying so, for example "using the area of 46.2 cm² from (a)". This keeps method marks in the later parts available even if the earlier answer was wrong.
 
 *Written against OCR's own live GCSE (9-1) Mathematics (J560) specification-at-a-glance page (official
 OCR page, verified 2026-08-28); OCR prints each paper's weighting as 33⅓%. The calculation routine

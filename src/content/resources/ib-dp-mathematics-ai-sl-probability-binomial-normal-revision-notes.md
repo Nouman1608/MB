@@ -28,11 +28,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-4-9"
 description: "Condensed notes on probability rules, conditional probability, E(X), binomial and normal distributions, with a self-test, for IB DP Maths AI SL/HL."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 For full explanations and longer worked examples, read the [study guide for this unit](/resources/ib-dp-mathematics-ai-sl-probability-binomial-normal/) first.
@@ -282,6 +282,20 @@ Menu names differ between calculator models, so practise on your own GDC.
 - Entering σ² instead of σ, or the right-hand tail area into inverse normal.
 - Rounding an intermediate probability to 2 or 3 s.f. before using it in a later part, and drifting from the accurate answer.
 - Rounding an expected number to a whole number when the question did not ask for it.
+
+## Frequently asked questions
+
+**What conditions are needed for a binomial distribution?**
+A binomial model needs a fixed number of trials n, two outcomes on each trial, a constant probability of success p and independent trials. Then X ~ B(n, p), with E(X) = np and Var(X) = np(1 − p).
+
+**How do you use inverse normal on a GDC?**
+Inverse normal takes the area to the left of the value, together with μ and σ. If a question gives a right-tail area, subtract it from 1 first.
+
+**What does the 68%, 95%, 99.7% rule mean?**
+For a normal distribution, about 68% of values lie within one standard deviation of the mean, 95% within two and 99.7% within three. It gives a quick estimate without a GDC.
+
+**How do you find P(X ≥ 3) for a binomial distribution?**
+Rewrite it as 1 − P(X ≤ 2) and use the binomial cdf on your GDC. For example, for X ~ B(10, 0.3), P(X ≥ 3) = 1 − 0.383 = 0.617.
 
 ## Official syllabus
 

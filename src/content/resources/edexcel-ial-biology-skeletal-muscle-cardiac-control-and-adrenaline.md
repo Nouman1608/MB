@@ -217,6 +217,23 @@ Worked example: at rest, 6 breaths occur in 30 s, tidal volume is 0.45 dm³ and 
 - Saying the AVN speeds up the impulse. It delays it.
 - Mixing cm³ and dm³ in cardiac output.
 
+## Frequently asked questions
+
+**What is the difference between a flexor and an extensor?**
+A flexor contracts to bend a joint and decrease its angle. An extensor contracts to straighten a joint and increase its angle.
+
+**What is the difference between fast and slow twitch fibres?**
+Slow twitch fibres contain myoglobin, which stores oxygen and makes them look red, and many mitochondria for aerobic respiration. Fast twitch fibres contract quickly but tire sooner.
+
+**What does myogenic mean?**
+Cardiac muscle is myogenic: it can start its own contractions without nervous stimulation.
+
+**What is Core Practical 17 in Edexcel IAL Biology?**
+It uses spirometer traces to measure tidal volume, breathing rate, minute ventilation and oxygen consumption, for example at rest and after exercise.
+
+**Why does the baseline of a spirometer trace fall?**
+Carbon dioxide breathed out is absorbed, so the volume of gas in the spirometer falls as oxygen is used. The fall gives the oxygen consumption.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification, Issue 2, February 2021, Pearson Education Limited. Statements 7.9 to 7.15 of Topic 7, including Core Practical 17.

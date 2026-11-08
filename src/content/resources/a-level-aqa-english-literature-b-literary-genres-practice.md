@@ -12,11 +12,17 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-literary-genres-7717"
-description: "Original exam-style practice questions with full worked answers on Paper 1 of AQA A-Level English Literature B (7717)."
+  - qualification: "a-level"
+    topic: "paper-1-literary-genres-7717"
+    subtopic: "option-1a-aspects-of-tragedy-7717"
+  - qualification: "a-level"
+    topic: "paper-1-literary-genres-7717"
+    subtopic: "option-1b-aspects-of-comedy-7717"
+description: "Original essay practice with top-band guidance on Paper 1 Literary Genres (tragedy or comedy) of AQA A-Level English Literature B 7717, for any studied texts."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-08-26
 featured: false
 ---
@@ -104,3 +110,17 @@ studied texts across the top, filling in how each text uses, subverts or complic
 convention. This makes it far easier to answer any of Q1-Q4's variations, since the underlying
 preparation — genre debate supported by cross-text evidence — transfers directly regardless of
 exactly how the question is phrased on the day.
+
+## Frequently asked questions
+
+**What rubric applies to the linking essay in AQA English Literature B Paper 1?**
+In the Section C linking essay, one of the two texts you write about must be a drama text and one must be written before 1900. Check your chosen texts meet this before treating a practice question as a realistic exam simulation.
+
+**What genre conventions should I discuss for Aspects of Tragedy or Aspects of Comedy?**
+For tragedy, engage with the tragic hero, hamartia, hubris, catharsis and the inevitability of downfall. For comedy, engage with comic resolution, misunderstanding or mistaken identity, social correction and the restoration of order, treating each as a contested critical idea rather than a checklist.
+
+**How can I organise revision for AQA English Literature B 7717 Paper 1?**
+Build a grid with your genre's key conventions down one side and your studied texts across the top, noting how each text uses, subverts or complicates each convention. This preparation transfers to any version of the questions.
+
+**How should I structure a comparison of two texts in Paper 1?**
+Organise the essay point by point around the shared convention or technique rather than text by text. Answers structured text by text are a common way to lose marks.

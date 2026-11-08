@@ -341,6 +341,20 @@ Translations and reflections of graphs (7.03a) can also be seen as machines acti
 - Reversing the steps of a machine but not their order when building the inverse.
 - Putting the second machine's rule into the first one in a composite.
 
+## Frequently asked questions
+
+**What does set notation such as {x | x ≥ 3} mean?**
+It means the set of all x for which x is at least 3; the bar stands for "such that". Set notation for solutions is Higher tier only in OCR GCSE Mathematics J560.
+
+**How do you write the answer to x² > 64?**
+The critical values are −8 and 8, and the answer lies outside them, so x < −8 or x > 8. Write two separate inequalities joined by "or", never one impossible chain.
+
+**How do you find the inverse of a function machine?**
+Reverse the order of the steps and replace each step with its opposite. For y = (3x − 7)/2, the inverse multiplies by 2, adds 7 and divides by 3, so x = (2y + 7)/3.
+
+**Does the order of machines matter in a composite function?**
+Yes. The output of the first machine is the input of the second, so changing the order usually changes the result. For example, multiplying by 4 then subtracting 3 gives 4x − 3, but the other order gives 4(x − 3).
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics (J560) specification, Version 2.1 (August 2026), first assessment 2017, published by OCR (Oxford Cambridge and RSA) - sections 6.04 Algebraic inequalities and 6.05 Language of functions.

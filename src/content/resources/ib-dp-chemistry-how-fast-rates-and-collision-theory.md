@@ -217,6 +217,20 @@ Draw **one** curve: the temperature has not changed. Mark Ea (uncatalysed) and, 
 
 Next, try the [practice questions](/resources/ib-dp-chemistry-how-fast-rates-and-collision-theory-practice/), and use the [revision notes](/resources/ib-dp-chemistry-how-fast-rates-and-collision-theory-revision-notes/) for quick review. The particle model behind collision theory is in the [Structure 1 study guide](/resources/ib-dp-chemistry-structure-1/). Our free [diagnostics](/diagnostics/) show which topics need more work.
 
+## Frequently asked questions
+
+**What is rate of reaction in IB DP Chemistry?**
+Rate of reaction is how quickly the concentration of one named reactant or product changes per unit time, with units of mol dm⁻³ s⁻¹. In practice you often follow a property such as gas volume, mass or colour intensity instead.
+
+**What is the difference between average rate and instantaneous rate?**
+Average rate is the total change divided by the time taken over an interval. Instantaneous rate is the gradient of a tangent drawn to the curve at one moment, and the initial rate is the gradient of the tangent at time zero.
+
+**How does a catalyst increase the rate of reaction?**
+A catalyst provides an alternative reaction pathway with a lower activation energy and is chemically unchanged at the end. It does not change ΔH, and saying a catalyst "gives particles more energy" is wrong.
+
+**What is the difference between random and systematic errors in rate experiments?**
+Random errors scatter points on both sides of the best-fit line and are reduced by repeats. A systematic error shifts every point in the same direction, for example from a thermometer that always reads high.
+
 ## Official syllabus
 
 Aligned with the IB's DP *Chemistry guide* (International Baccalaureate; issued February 2023; first assessment 2025). This page follows Reactivity 2.2, How fast? The rate of chemical change, understandings 2.2.1 to 2.2.5, which are common to SL and HL.

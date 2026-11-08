@@ -145,6 +145,20 @@ These questions cover part of section 7.6.4 of the Cambridge International AS & 
 - Skipping the entry or exit link in long-run explanations.
 - Evaluation with no judgement.
 
+## Frequently asked questions
+
+**Should you use AVC or ATC to decide whether a firm shuts down in the short run?**
+Use average variable cost. In the short run a firm keeps producing as long as price covers AVC, because it must pay fixed costs even if it closes; using ATC for this decision is a common error.
+
+**Where do you read the monopoly price from on a diagram?**
+Find the profit-maximising output where MR = MC, then read the price up to the demand (AR) curve at that output. Reading the price from the MC curve loses marks.
+
+**How do you explain long-run adjustment in perfect competition?**
+Link profit to entry or exit: supernormal profit attracts new firms, which shifts industry supply right and lowers price until only normal profit remains. Losses cause exit, which works the other way.
+
+**What do Cambridge 9708 "show that" questions on market structures expect?**
+Every step of the working, from the revenue or cost figures through MR = MC to the final profit or price. Skipping steps in a "show that" answer is one of the listed ways marks are lost.
+
 ## Next steps
 
 - Review the [revision notes](/resources/cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic/).

@@ -291,6 +291,23 @@ Error 6 is a complete reversal, so bank rises by 1,400: remove the wrong credit 
 - Changing profit for a commission error (it leaves profit unchanged), or leaving profit alone when an asset was wrongly charged to an expense (profit rises).
 - Putting the suspense balance on the wrong side of the draft trial balance.
 
+## Frequently asked questions
+
+**What is a trial balance?**
+A trial balance is a list of the balances on all the ledger accounts at a stated date, with debit balances in one column and credit balances in the other. It checks that total debits equal total credits, as double entry should produce.
+
+**When is a suspense account opened?**
+When the trial balance totals do not agree, for example because of a one-sided entry, different amounts on the two sides, two entries on the same side, or an addition error. It is cleared by correcting the errors, and it is not opened for errors that leave the totals equal.
+
+**How do you correct an error of original entry?**
+Only the difference is corrected. If both accounts show 2,370 but should show 2,730, the correcting journal adds the shortfall of 360 to each account, not the full 2,730.
+
+**Is a payment posted to the wrong supplier's account a suspense account error?**
+No. Posting to the wrong account of the right type is an error of commission, which leaves the trial balance totals equal and needs no suspense entry. A payment debited to the supplier with no credit entry in bank would need suspense.
+
+**Can Cambridge IGCSE Accounting 0452 Paper 2 ask for suspense accounts?**
+Yes. The syllabus says candidates may be asked to prepare suspense accounts and journal entries, so practise both in full.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting syllabus for exams in 2027, 2028 and 2029 (version 1), published by Cambridge International Education: sections 3.1 The trial balance and 3.2 Corrections of errors.

@@ -25,14 +25,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "number-cambridge-igcse-maths"
     subtopic: "percentages-cambridge-igcse-maths"
-description: "Types of number, sets, powers and roots, fractions/decimals/percentages, indices, standard form, estimation, ratio, rates and time -- the Core content of Topic 1 Number for Cambridge IGCSE Mathematics 0580, 2025-2027 series."
+description: "Core content of Topic 1 Number for Cambridge IGCSE Mathematics 0580 (2025-2027): number types, sets, fractions, indices, standard form, ratio, rates and time."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-19
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This guide covers the **Core** content of **Topic 1 Number**, for
@@ -212,6 +212,20 @@ For condensed recall notes on this topic, see the
 [Number revision notes](/resources/igcse-mathematics-number-revision-notes/);
 for exam-style practice with full mark schemes, see the
 [Number practice questions](/resources/igcse-mathematics-number-practice/).
+
+## Frequently asked questions
+
+**Are reverse percentages Core or Extended in Cambridge IGCSE 0580?**
+Reverse percentages are Extended-only content (E1.13), so they are not examined on the Core papers. Core percentages include percentage increase and decrease and simple and compound interest.
+
+**Do Core candidates need to find bounds of calculations?**
+No. Core subtopic C1.10 asks only for the upper and lower bounds of a rounded value; finding the bounds of the result of a calculation is Extended content (E1.10).
+
+**How do you find the bounds of a rounded measurement?**
+Take half the rounding unit either side. A mass of 4.6 kg to 1 decimal place has lower bound 4.55 kg and upper bound 4.65 kg.
+
+**Which squares and cubes should you know for 0580?**
+Subtopic C1.3 expects recall of the squares from 1 to 15 and the cubes of 1 to 5 and 10.
 
 ## Official syllabus
 

@@ -205,6 +205,20 @@ For evaluation, always use the figures given, state whether the benefit outweigh
 - Listing advantages and disadvantages with no reference to the business in the question.
 - Giving a recommendation with no justification.
 
+## Frequently asked questions
+
+**Which section of Cambridge 9706 covers business acquisition and merger?**
+Section 3.3 Business acquisition and merger is A Level content in Cambridge International AS and A Level Accounting 9706. It covers goodwill, journal entries, ledger accounts and the resulting statements for mergers and acquisitions.
+
+**Should goodwill be calculated using book values or agreed values?**
+Use the agreed values given in the question, not the seller's book values, and deduct the liabilities taken over before finding goodwill.
+
+**In which ratio is a revaluation profit shared when a new partner joins?**
+A revaluation profit, and the existing goodwill, are shared between the existing partners in the old profit-sharing ratio, not the new one.
+
+**How do I check a merger journal is correct?**
+The journal and the opening statement of financial position should both balance. If they do not, check for a missing goodwill debit or a capital account not credited for goodwill.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Accounting 9706 syllabus for examination in 2026, 2027 and 2028, section 3.3 Business acquisition and merger, published by Cambridge University Press & Assessment (Cambridge International).

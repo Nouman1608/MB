@@ -136,6 +136,20 @@ These questions practise Aggregate supply, Aggregate demand and aggregate supply
 - Find weak spots with a [free 10-minute diagnostic](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which OCR A Level Economics component covers aggregate supply?**
+Aggregate supply, the AD/AS model and macroeconomic equilibrium are in Component 2, Macroeconomics, of the OCR A Level Economics (H460) specification.
+
+**How do you tell whether an event shifts SRAS or LRAS?**
+The test is whether productive capacity changes. A temporary cost change, such as a one-season crop failure or a subsidy on energy, shifts SRAS only, while a lasting change in the quantity or quality of factors, such as training or permanent emigration, shifts LRAS.
+
+**How should you answer a calculation on the AD/AS model?**
+Identify which section of the AS curve each equilibrium is on before calculating, use the starting value as the base for percentage changes, and finish a long-run answer with the stated price level, not just a direction.
+
+**How do you evaluate the effect of a rise in aggregate demand?**
+Cover all three variables, growth, unemployment and inflation, and separate the short run from the long run. A conditional judgement, such as one that depends on how much spare capacity exists, shows evaluation.
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), first assessment 2021: Aggregate supply (AS); Aggregate demand and aggregate supply; first two outcomes of Macroeconomic equilibrium.

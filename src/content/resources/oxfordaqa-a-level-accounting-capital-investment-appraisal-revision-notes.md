@@ -231,6 +231,23 @@ Finish with a clear recommendation that refers back to at least one figure.
 - Listing generic advantages that never mention the firm in the case.
 - Writing an evaluation with no final recommendation.
 
+## Frequently asked questions
+
+**What is the difference between payback and net present value?**
+Payback measures how quickly a project's net cash inflows recover the outlay. Net present value measures the value a project adds after allowing for the timing of cash flows at the cost of capital.
+
+**What is cost of capital?**
+Cost of capital is the percentage return that the providers of finance require. The discount factor is the multiplier calculated from it for a particular year, such as 1 ÷ 1.12 = 0.893 for year 1 at 12%.
+
+**Should I accept a project with a negative NPV if it pays back quickly?**
+No. A negative NPV means the project does not earn the cost of capital, so it should not be accepted on financial grounds just because it pays back. Say that the NPV is positive when you recommend acceptance.
+
+**What is a sunk cost?**
+A sunk cost is a cost already paid, so it cannot change the decision and is left out of the appraisal. Only future, extra cash counts.
+
+**Where does residual value go in an NPV table?**
+Add the residual value to the cash flow of the final year and discount it with that year's factor. Leaving it out of the final year is a common mistake.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards (OxfordAQA). Section 3.2.3 Capital investment appraisal.

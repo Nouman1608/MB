@@ -149,6 +149,20 @@ Judgement: reopen the youth centre, with short-term patrols, rather than a curfe
 - Plan coursework with the [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/) and [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/).
 - Want feedback on your answers? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these Law and criminality sources real?**
+No. All three sources are set in a fictional country, and the questions are original practice for IGCSE Global Perspectives 0457.
+
+**Do recorded crime figures show all crime?**
+No. Recorded crime counts only crime reported to and recorded by the police, so many crimes are missing. Treating recorded figures as a full count is a common mistake.
+
+**What should you check when a programme claims good results?**
+Check for drop-outs and self-selection, because results may only include people who chose to join and stayed. Also check that any comparison group is similar in important ways.
+
+**How do you answer a question that asks you to judge two arguments?**
+Judge the quality of each argument's evidence and reasoning rather than arguing the issue yourself or agreeing with the speaker you prefer.
+
 ## Official syllabus
 
 These questions are based on the Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025), sections 2, 3 and 4. Your teacher will confirm how your school uses the Law and criminality topic.

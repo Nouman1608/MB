@@ -264,6 +264,23 @@ In an explanation, name the ions, say which factor differs (charge, radius or bo
 
 Condensed tables and a quick self-test are in the [Lattice enthalpy revision notes](/resources/ocr-a-level-chemistry-lattice-enthalpy-revision-notes/). Then try the marked [Lattice enthalpy practice questions](/resources/ocr-a-level-chemistry-lattice-enthalpy-practice/). Giant ionic lattices are introduced in [Bonding and structure](/resources/ocr-a-level-chemistry-bonding-and-structure/), and electron shells and sub-shells in [Electron structure](/resources/ocr-a-level-chemistry-electron-structure/).
 
+## Frequently asked questions
+
+**What is lattice enthalpy in OCR A Level Chemistry?**
+In OCR A Level Chemistry A (H432), lattice enthalpy, ΔLEH, is the enthalpy change for the formation of 1 mol of an ionic lattice from its gaseous ions under standard conditions. Because it describes lattice formation, it is always negative, and a more exothermic value means stronger ionic bonding.
+
+**Why is lattice enthalpy found using a Born–Haber cycle rather than measured directly?**
+Gaseous ions cannot be combined in a calorimeter, so lattice enthalpy cannot be measured directly. A Born–Haber cycle uses Hess' law: the enthalpy change of formation equals the sum of the atomisation, ionisation, electron affinity and lattice enthalpy steps, so the one unknown can be calculated.
+
+**How do you calculate an enthalpy change of solution from lattice and hydration enthalpies?**
+Use ΔsolH = −ΔLEH + ΣΔhydH. Breaking the lattice needs the reverse of the lattice enthalpy, and the hydration enthalpies of every ion in the formula are added, so in a compound such as MgBr₂ the bromide hydration enthalpy is counted twice.
+
+**Why is hydration enthalpy always exothermic?**
+Water molecules are polar, so their δ− oxygen atoms are attracted to positive ions and their δ+ hydrogen atoms are attracted to negative ions. Forming these attractions releases energy, so the enthalpy change of hydration is always negative.
+
+**Which definitions do I need to learn for OCR A Level lattice enthalpy?**
+The specification requires definitions of lattice enthalpy, enthalpy change of solution and enthalpy change of hydration, and of first ionisation energy and enthalpy change of formation. Other Born–Haber terms, such as atomisation and electron affinity, must be used correctly but do not need formal definitions.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 5.2.1 Lattice enthalpy, learning outcomes (a) to (e). Published by OCR.

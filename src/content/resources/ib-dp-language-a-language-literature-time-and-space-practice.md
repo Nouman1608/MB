@@ -12,13 +12,13 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-a-language-and-literature-time-and-space"
-description: "Original practice questions with full worked answers on production and reception context across literary and non-literary texts, for the Time and Space component of IB Diploma Programme Language A: Language and Literature."
+description: "Original practice questions with worked answers on production and reception context in literary and non-literary texts, for IB DP Lang and Lit Time and space."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -87,6 +87,17 @@ what separates a strong Time and Space answer from an adequate one. Question 6 i
 written to show that this skill applies identically to literary and non-literary texts, matching the
 revision notes' point that the course's dual text-type structure expects the same analytical questions
 to apply to both equally.
+
+## Frequently asked questions
+
+**What is the Time and space area of exploration in IB Language and Literature?**
+Time and space is one of the three areas of exploration in IB DP Language A: Language and Literature. It studies how the context in which a text was produced, and the context in which it is now read, shape its meaning.
+
+**What makes a strong Time and space answer?**
+A strong answer names a precise shift in how a text is received between its original audience and a reader today, with a concrete textual example. Describing two contexts side by side, or saying only that "things have changed", is weaker.
+
+**Does Time and space apply to non-literary texts?**
+Yes. Because the course studies literary and non-literary texts under every area of exploration, the same production and reception questions apply to adverts, speeches and articles as to novels and poems.
 
 ## Official syllabus
 

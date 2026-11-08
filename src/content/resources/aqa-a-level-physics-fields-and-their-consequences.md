@@ -272,6 +272,20 @@ efficiency = 48 / 50.6 = 0.95
 
 Revise with the [revision notes](/resources/aqa-a-level-physics-fields-and-their-consequences-revision-notes/), then try the [practice questions](/resources/aqa-a-level-physics-fields-and-their-consequences-practice/) and the [exam preparation guide](/resources/aqa-a-level-physics-exam-preparation/).
 
+## Frequently asked questions
+
+**What is a force field?**
+A force field is a region in which a body experiences a non-contact force. Gravitational fields arise from mass, electric fields from static charge, and magnetic fields from moving charges.
+
+**What is escape velocity?**
+Escape velocity is the minimum launch speed needed to reach infinity without further power. Setting ½mv² = GMm/R gives v = √(2GM/R), which does not depend on the mass of the object; for Earth it is about 1.12 × 10⁴ m s⁻¹.
+
+**Why is gravity ignored between subatomic particles?**
+The electrostatic force between a proton and an electron is about 10³⁹ times larger than the gravitational force between them, so gravity is negligible at that scale.
+
+**How do eddy currents cause energy loss in a transformer?**
+The changing flux in the core induces eddy currents, which heat the core. Laminating the core reduces them; the other losses are coil resistance, magnetising and demagnetising the core, and flux leakage.
+
 ## Official syllabus
 
 AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.7 Fields and their consequences.

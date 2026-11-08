@@ -135,6 +135,20 @@ These questions cover the first part of section P2.7 (Integration) of the Oxford
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the integral of e^(kx)?**
+It is e^(kx)/k + c. A common error is multiplying by k instead of dividing by it.
+
+**Why is the integral of sin kx negative?**
+Because the derivative of cos kx is −k sin kx, the integral of sin kx is −cos(kx)/k + c. Writing +cos(kx)/k is one of the most frequent slips.
+
+**What do you do with the limits when integrating by substitution?**
+Change the x-limits to u-limits at the same time as you substitute, then evaluate the answer in u. Using u-limits in an x-expression, or the reverse, gives a wrong answer.
+
+**When do you need the modulus in ln|f(x)|?**
+Include it in an indefinite integral whenever f(x) could be negative. You can drop it only when f(x) is always positive, such as x² + 9.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA. These questions follow the content and additional information listed under P2.7.

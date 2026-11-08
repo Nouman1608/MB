@@ -12,11 +12,11 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-2-cambridge-alevel"
-description: "Condensed recall notes on the modulus function and polynomial division with the factor and remainder theorems, logarithms/exponentials, extended trigonometry, differentiation/integration, and numerical methods for Cambridge International AS & A Level Mathematics (9709), Pure Mathematics 2."
+description: "Cambridge 9709 Pure Mathematics 2 revision notes: modulus, factor and remainder theorems, logs, sec, cosec and cot, calculus combinations and numerical methods."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-05
 featured: false
 ---
@@ -244,3 +244,19 @@ more often does.
   <figcaption>Which pure papers each board requires for AS and A Level.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the remainder theorem?**
+When a polynomial f(x) is divided by (ax + b), the remainder is f(−b/a). If that value is zero, (ax + b) is a factor of f(x).
+
+**How do you sketch y = |ax + b|?**
+Draw the line y = ax + b and reflect the part below the x-axis in the x-axis. The result is a V shape with its vertex at x = −b/a.
+
+**Can Cambridge 9709 Paper 2 count towards the full A Level?**
+No. Paper 2 is offered only in the Pure Mathematics only AS Level route (Paper 1 plus Paper 2), and that route cannot count towards the full A Level, which uses Paper 3 instead.
+
+**Which trigonometric functions are new in Pure Mathematics 2?**
+Secant, cosecant and cotangent are introduced here, so practise identities involving all six trigonometric functions rather than only sine, cosine and tangent.
+
+**How do you differentiate ln(f(x))?**
+Use the chain rule: the derivative of ln(f(x)) is f′(x)/f(x). For example, the derivative of ln(3x² + 1) is 6x/(3x² + 1).

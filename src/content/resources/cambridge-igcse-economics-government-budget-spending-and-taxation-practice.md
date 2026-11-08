@@ -153,6 +153,20 @@ This set covers sections 4.3.1 to 4.3.6 of the Cambridge IGCSE Economics 0455 sy
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What makes a tax regressive?**
+A tax is regressive when the share of income paid in tax falls as income rises. It is not about the amount of money: richer people can pay more in total and still pay a smaller percentage of their income.
+
+**How do you tell a direct tax from an indirect tax?**
+Classify by what is taxed. A direct tax is charged on income or wealth, such as income tax; an indirect tax is charged on spending, such as sales tax. Classifying by who hands over the payment is a common error.
+
+**How do you calculate government revenue from a per-unit tax?**
+Multiply the tax per unit by the quantity sold after the tax is imposed, not the quantity before. Producers' revenue should not include the tax.
+
+**How do you answer an evaluation question on taxation in Cambridge IGCSE Economics 0455?**
+Link each effect to its result, for example price rises so quantity falls so revenue changes, state the opportunity cost of spending decisions, and finish with a judgement rather than a list.
+
 ## Official syllabus
 
 Source: Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, Cambridge University Press & Assessment, section 4.3 Fiscal policy (4.3.1 to 4.3.6).

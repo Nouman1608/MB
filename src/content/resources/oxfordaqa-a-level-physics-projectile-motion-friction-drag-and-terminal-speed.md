@@ -227,6 +227,20 @@ As speed rises, resistive forces grow. The resultant force and the acceleration 
 
 Practise with the [practice questions](/resources/oxfordaqa-a-level-physics-projectile-motion-friction-drag-and-terminal-speed-practice/) and recall with the [revision notes](/resources/oxfordaqa-a-level-physics-projectile-motion-friction-drag-and-terminal-speed-revision-notes/).
 
+## Frequently asked questions
+
+**Why can horizontal and vertical motion be treated separately?**
+The horizontal and vertical components of motion in a uniform gravitational field are independent. Each can be solved with the equations of uniform acceleration, linked only by the shared time of flight.
+
+**Does air resistance make a projectile's path symmetrical?**
+No. With air resistance, the maximum height and range are smaller, the horizontal velocity falls continuously, and the descent is steeper than the ascent.
+
+**What does friction do to a moving object?**
+Friction acts parallel to the surface, opposing motion or the tendency to slide. It reduces the resultant force and acceleration, and the work done against it becomes thermal energy of the surfaces.
+
+**Is projectile motion in OxfordAQA International AS Physics?**
+Yes. Section 3.2.4 (projectile motion) of the OxfordAQA International AS and A-level Physics (9630) specification is shared International AS and A-level content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630) specification, version 4.4, for exams May/June 2020 onwards, published by OxfordAQA. Section 3.2.4, Projectile motion.

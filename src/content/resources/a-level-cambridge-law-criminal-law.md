@@ -13,13 +13,22 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "criminal-law-9084"
-description: "Elements of a crime, offences against property under the Theft Act 1968/1978, Criminal Damage Act 1971 and Fraud Act 2006, and sentencing in England and Wales -- Topic 2 of Cambridge International AS & A Level Law (9084), assessed on Paper 2."
+  - qualification: "a-level"
+    topic: "criminal-law-9084"
+    subtopic: "elements-of-a-crime-9084"
+  - qualification: "a-level"
+    topic: "criminal-law-9084"
+    subtopic: "offences-against-property-9084"
+  - qualification: "a-level"
+    topic: "criminal-law-9084"
+    subtopic: "sentencing-in-england-and-wales-9084"
+description: "Elements of a crime, theft and other property offences, criminal damage, fraud and sentencing: Topic 2 of Cambridge AS and A Level Law 9084, on Paper 2."
 author: "marlbridge-academic-team"
-reviewer: "aizaz-raoof-ali"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
 ---
 
 Topic 2 Criminal Law is assessed on **Paper 2 Criminal Law** (1 hour
@@ -147,6 +156,20 @@ keep adult and young-offender content clearly separated, since the
 syllabus tests them as parallel but distinct systems with different
 available sentences and different weighting given to the aims of
 sentencing.
+
+## Frequently asked questions
+
+**How long is Cambridge A Level Law Paper 2 Criminal Law?**
+Paper 2 of Cambridge International AS and A Level Law 9084 lasts 1 hour 30 minutes and is worth 60 marks, which is 50% of the AS Level or 25% of the full A Level.
+
+**What is the structure of Cambridge Law Paper 2?**
+Section A is one compulsory scenario-based problem question using source material, in three parts. Section B is one question from a choice of two, with a short-answer part and an essay part.
+
+**What is the difference between direct and oblique intention?**
+Direct intention is where the result was the defendant's actual purpose. Oblique or indirect intention is where the result was a virtually certain consequence of the act, and the defendant foresaw it.
+
+**How should you answer a property offences scenario question?**
+Identify which specific offence or offences apply, then work through the actus reus and mens rea of each with its statutory section, rather than discussing "stealing" loosely. Theft, robbery and burglary can all arise from the same facts.
 
 ## Official syllabus
 

@@ -180,6 +180,20 @@ Section 3.6 asks you to use accounting concepts to record: accruals and prepayme
 - Not showing workings, so an arithmetic slip loses the method mark as well.
 - A statement of financial position that does not balance because one side of an adjustment was left out.
 
+## Frequently asked questions
+
+**Does every year-end adjustment have two effects?**
+Yes. Each adjustment has one effect in the income statement and one in the statement of financial position, so leaving one side out stops the statement of financial position from balancing.
+
+**How much of the provision for doubtful debts is charged as an expense?**
+Only the increase or decrease in the provision goes to the income statement, not the full new provision. Calculate the provision after deducting any extra irrecoverable debts from receivables.
+
+**Where does income received in advance go?**
+Income received in advance is a current liability, not a current asset. Income due is the current asset.
+
+**Why should I show workings in sole trader financial statements questions?**
+Workings let an examiner award method marks if an arithmetic slip occurs. Without them, a slip can lose the method mark as well as the accuracy mark.
+
 ## Official syllabus
 
 AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019 onwards, published by AQA -- section 3.6, Preparation of financial statements of sole traders.

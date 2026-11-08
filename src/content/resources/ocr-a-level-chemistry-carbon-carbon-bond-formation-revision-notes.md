@@ -220,6 +220,20 @@ For several steps, multiply the step yields as decimals to get the overall yield
 - Leaving HCl off a Friedel–Crafts equation, or not showing AlCl₃ regenerated.
 - Writing the acylation product as an aldehyde, or putting the acyl group on the ring through oxygen.
 
+## Frequently asked questions
+
+**Why is carbon–carbon bond formation important in OCR A Level Chemistry?**
+Forming C–C bonds lets you increase the length of a carbon chain or add a carbon chain to a benzene ring, which is often needed in a synthetic route.
+
+**How do you name a nitrile in H432?**
+The carbon of the –C≡N group counts as carbon 1 of the chain, so CH₃CH₂CN is propanenitrile, not ethanenitrile.
+
+**What are the products of acid hydrolysis of a nitrile?**
+Hydrolysis with water and dilute acid gives a carboxylic acid and ammonium ions: RCN + 2H₂O + H⁺ → RCOOH + NH₄⁺. With hydrochloric acid the by-product is NH₄Cl.
+
+**Is the product of Friedel–Crafts acylation an aldehyde or a ketone?**
+Friedel–Crafts acylation with an acyl chloride gives an aromatic ketone. Writing the product as an aldehyde is a common error.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 6.2.4 Carbon–carbon bond formation, learning outcomes (a) to (d). Published by OCR.

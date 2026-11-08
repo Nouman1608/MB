@@ -12,11 +12,23 @@ order: 1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-computer-science-theme-a"
-description: "Original practice questions with full worked answers covering computer fundamentals, networks, databases and machine learning, for Theme A of IB Diploma Programme Computer Science."
+  - qualification: "ib-dp"
+    topic: "ib-dp-computer-science-theme-a"
+    subtopic: "ib-dp-computer-science-a-1"
+  - qualification: "ib-dp"
+    topic: "ib-dp-computer-science-theme-a"
+    subtopic: "ib-dp-computer-science-a-2"
+  - qualification: "ib-dp"
+    topic: "ib-dp-computer-science-theme-a"
+    subtopic: "ib-dp-computer-science-a-3"
+  - qualification: "ib-dp"
+    topic: "ib-dp-computer-science-theme-a"
+    subtopic: "ib-dp-computer-science-a-4"
+description: "Original practice questions with worked answers for IB DP Computer Science Theme A: computer fundamentals, networks, databases and machine learning."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -93,6 +105,20 @@ questions linked to the case study), so Theme A content has to be applied to a s
 recalled. Practising the skill of pulling the
 relevant sub-topic out of a scenario, rather than only answering direct recall questions, closes the gap
 the revision notes flag: revising A.1-A.4 in isolation from the pre-released case study.
+
+## Frequently asked questions
+
+**What does Theme A cover in IB Computer Science?**
+Theme A covers A.1 computer fundamentals, A.2 networks, A.3 databases and A.4 machine learning, and it is assessed on Paper 1 together with the pre-seen case study.
+
+**Why do case-study style questions combine several Theme A topics?**
+Paper 1 sets questions on the pre-seen case study, so Theme A content must be applied to a scenario rather than only recalled. Practising pulling the relevant sub-topic out of a scenario builds this skill.
+
+**What is the difference between supervised and unsupervised learning?**
+Supervised learning uses labelled data, with inputs paired with known correct outputs. Unsupervised learning finds patterns or groupings in unlabelled data.
+
+**How do you earn full marks on an AI risk question?**
+Give a valid advantage and a well-explained risk that connects back to a machine learning concept, such as bias in training data or lack of transparency.
 
 ## Official syllabus
 

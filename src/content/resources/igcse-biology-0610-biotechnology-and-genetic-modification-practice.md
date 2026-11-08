@@ -24,11 +24,11 @@ syllabusTopics:
     subtopic: "genetic-modification-cambridge-igcse-biology"
 description: "Original practice questions with marked answers on biotechnology and genetic modification for Cambridge IGCSE Biology 0610 topic 21, Core and Extended."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -167,6 +167,20 @@ Before you start, you may want the [topic 21 study guide](/resources/igcse-biolo
 - Tick off topic 21 on the [printable 0610 checklist](/checklists/cambridge/igcse/biology/).
 - Try the free [0610 Core diagnostic](/practice/0610/diagnostic/core/) or [0610 Extended diagnostic](/practice/0610/diagnostic/extended/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**What is genetic modification?**
+Genetic modification is changing the genetic material of an organism by removing, changing or inserting individual genes; "changing DNA" alone earns only part of the credit.
+
+**Why does bread dough rise?**
+Yeast respires anaerobically, producing carbon dioxide, and the gas bubbles are trapped in the dough so it rises; naming alcohol as the cause is a common error.
+
+**Which parts of Cambridge IGCSE Biology 0610 topic 21 are Extended only?**
+The Supplement content, examined only on Papers 2 and 4, covers the ethics and plasmids of bacteria, lactase, fermenters and their conditions, the steps of making a human protein by GM, and the advantages and disadvantages of GM crops.
+
+**What control should a washing powder investigation use?**
+Repeat the test using boiled biological powder or non-biological powder, so any stain removal can be linked to the active enzymes.
 
 ## Official syllabus
 

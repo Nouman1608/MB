@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "business-activity-marketing-and-people-ocr-gcse-business"
-description: "Original exam-style practice questions with full worked answers on enterprise, ownership, the marketing mix, market research and people, with a 15-question multiple-choice Section A in the OCR GCSE Business (J204/01) format."
+description: "Original OCR GCSE Business J204/01 practice with worked answers: a 15-question multiple-choice Section A plus questions on enterprise, marketing and people."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -144,3 +144,14 @@ A. Bonuses  B. Praise  C. Fringe benefits  D. Profit sharing
 - Naming a pricing strategy without a suitable context.
 - Omitting a stage of the product life cycle.
 - Treating "evaluate" as "describe" and not weighing both sides.
+
+## Frequently asked questions
+
+**How is the OCR GCSE Business J204/01 paper structured?**
+Component 01 of OCR GCSE Business (J204) has a Section A of 15 multiple-choice questions worth 1 mark each, making 15 marks. Section B is worth 65 marks and uses stimulus material drawn from real business contexts.
+
+**How should you answer an "evaluate" question in OCR GCSE Business?**
+Give points on both sides, apply them to the business in the question, and finish with a clear judgement. Describing points without weighing them against each other does not reach the higher marks.
+
+**Are these questions taken from real OCR past papers?**
+No. They are original questions written for revision and practice in the J204/01 format, and Section B here is a shorter set of topic questions rather than a full 65-mark section.

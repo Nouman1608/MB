@@ -226,6 +226,20 @@ A small isolated population tends to lose alleles by chance, and mating between 
 - Dividing polymorphic loci by the number of alleles, not the number of loci.
 - Writing a population estimate without a method or units.
 
+## Frequently asked questions
+
+**What are the three levels of biodiversity in OCR A Level Biology?**
+The OCR A Level Biology A (H420) specification names habitat biodiversity, species biodiversity and genetic biodiversity. Species biodiversity has two parts: species richness and species evenness.
+
+**Why do ecologists use more than one sampling technique?**
+Each technique finds only some groups of organisms; for example, a sweep net misses plants and a pitfall trap misses flying insects. A biodiversity measure based on one method alone under-records the habitat.
+
+**What is genetic biodiversity?**
+Genetic biodiversity is the variety of alleles and genes within a species, such as the differences between breeds. It can be measured by calculating the proportion of gene loci that are polymorphic.
+
+**Why do we sample a habitat instead of counting everything?**
+It is not practical to count every organism in a habitat. Sampling saves time, avoids damaging the habitat and allows repeat measurements, provided the sample is representative.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420)* specification, Version 4.1 (April 2026), for first assessment in 2025: section 4.2.1(a) to (e), Biodiversity, with the mathematical skills M0.2, M1.1 to M1.10, M2.3, M2.4 and M3.2 and PAG3 cited in the specification for these statements.

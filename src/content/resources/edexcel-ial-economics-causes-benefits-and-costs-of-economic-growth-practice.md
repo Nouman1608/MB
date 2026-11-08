@@ -128,6 +128,20 @@ These questions cover 2.3.5 Economic growth, statements 1 to 3 (causes, benefits
 - Writing "GDP" when real GDP is needed.
 - Ending an evaluation with a summary and no judgement.
 
+## Frequently asked questions
+
+**Should a component's contribution to growth be given in per cent or percentage points?**
+In percentage points. Divide the change in the component by the base-year GDP; the contributions then add up to the total growth rate.
+
+**Which year is the base when calculating a growth rate?**
+The earlier (base) year: subtract the base-year figure from the new figure and divide by the base-year figure. Dividing by the new year is a common error in Edexcel International A Level Economics questions.
+
+**Is net migration the same as population growth?**
+No. Net migration is immigration minus emigration. Population growth also includes natural change from births and deaths.
+
+**What should an evaluation of economic growth end with?**
+A judgement with a reason, not a summary. Weigh benefits against costs and consider how fast the growth is, how long it lasts, what kind of growth it is and who gains.
+
 ## Next steps
 
 - Review with the [revision notes](/resources/edexcel-ial-economics-causes-benefits-and-costs-of-economic-growth-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-causes-benefits-and-costs-of-economic-growth/).

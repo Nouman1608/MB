@@ -12,11 +12,11 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "g-differentiation-aqa-alevel-maths"
-description: "Condensed recall notes on first principles, the chain/product/quotient rules, stationary points, implicit and parametric differentiation, and forming differential equations for AQA A-Level Mathematics (7357), G1-G6."
+description: "AQA A-Level Maths (7357) differentiation revision notes for G1 to G6: first principles, chain, product and quotient rules, stationary points and parametrics."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-05
 featured: false
 ---
@@ -208,3 +208,20 @@ f' on either side). 4. Both use the chain rule, but only the first
 derivative is required for implicit and parametric relations at this
 level — second derivatives are not expected. 5. Kinematics, population
 growth, and the relationship between price and demand.
+
+## Frequently asked questions
+
+**Which functions need differentiation from first principles in AQA 7357?**
+First-principles differentiation is required for small positive integer powers of x and for sin x and cos x, using f′(x) = lim(h→0) [f(x + h) − f(x)]/h.
+
+**What is the derivative of aᵏˣ?**
+The derivative is k aᵏˣ ln a. The extra ln a factor appears because aᵏˣ = e^(kx ln a), so the chain rule introduces ln a.
+
+**Are second derivatives needed for implicit and parametric curves in AQA 7357?**
+No. Section G5 requires only the first derivative for implicitly or parametrically defined curves.
+
+**Which modelling contexts does AQA 7357 name for forming differential equations?**
+The specification names kinematics, population growth, and the relationship between price and demand.
+
+**What is a point of inflection?**
+A point where f″(x) = 0 and the concavity of the curve changes on either side. f″(x) = 0 alone is not enough.

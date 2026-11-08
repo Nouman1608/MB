@@ -186,6 +186,20 @@ Type II error: "Failing to conclude that [change] has happened when H₀ is in f
 - Quoting the stated level instead of the actual significance level when asked for the probability of a Type I error.
 - Describing a Type I error as a general mistake, with no reference to H₀ being true.
 
+## Frequently asked questions
+
+**What is the actual significance level of a test?**
+It is the true probability of landing in the critical region when H₀ is true. With discrete binomial or Poisson data this is usually below the stated significance level.
+
+**What is the probability of a Type I error?**
+A Type I error is rejecting H₀ when it is true, and its probability equals the actual significance level of the test.
+
+**Do you need to calculate the probability of a Type II error in OxfordAQA S2?**
+No. The OxfordAQA 9660 specification says you must understand Type II errors, but questions requiring the calculation of the risk of a Type II error will not be set.
+
+**How do you scale a Poisson mean in a hypothesis test?**
+Multiply the rate by the length of time or space observed. For example, a mean of 1.5 calls per hour becomes a mean of 9 for a 6-hour count.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA: Unit S2 (Statistics), section S2.6, Hypothesis testing.

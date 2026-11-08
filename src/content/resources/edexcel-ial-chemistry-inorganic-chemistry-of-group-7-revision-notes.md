@@ -262,6 +262,23 @@ Relative atomic masses for this test: Na 23.0, K 39.1, Cl 35.5, Br 79.9, Ag 107.
 - Forgetting that nitric acid, not hydrochloric acid, is added before silver nitrate.
 - Saying silver bromide dissolves in dilute ammonia.
 
+## Frequently asked questions
+
+**What are the colours of chlorine, bromine and iodine in water and in cyclohexane?**
+In water, chlorine is very pale green, bromine is yellow to orange and iodine is brown. In cyclohexane, chlorine stays very pale green, bromine is orange to red-brown and iodine is violet, which is how you tell bromine and iodine apart.
+
+**Why does the oxidising power of the halogens decrease down Group 7?**
+A halogen reacts by gaining an electron. Down the group the atoms get larger with more inner shells, so the nucleus attracts an incoming electron less strongly and the halogen is a weaker oxidising agent.
+
+**What is the difference between chlorine with cold alkali and with hot alkali?**
+Cold, dilute sodium hydroxide gives sodium chlorate(I), NaClO, with chlorine in the +1 state. Hot alkali gives sodium chlorate(V), NaClO₃, with chlorine in the +5 state; both reactions are disproportionation.
+
+**Why is dilute nitric acid added before silver nitrate in the halide test?**
+Dilute nitric acid removes carbonate ions, which would also form a precipitate with silver ions. Hydrochloric acid must not be used because it adds chloride ions.
+
+**Which halogens are in the Edexcel IAL Chemistry Group 7 topic?**
+Topic 8C of the Edexcel IAL Chemistry specification (YCH11) is limited to chlorine, bromine and iodine. You are expected to predict the properties of fluorine and astatine from the trends.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11)

@@ -139,6 +139,20 @@ These questions cover statements 6.1 to 6.4 (culturing microorganisms, measuring
 * [All free 10-minute diagnostics](/diagnostics/)
 * [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which Edexcel statements do these questions cover?**
+They cover statements 6.1 to 6.4 of Pearson Edexcel International A Level Biology (YBI11): culturing microorganisms, measuring growth, the growth curve and Core Practical 13.
+
+**What is often left out of colony count calculations?**
+The dilution factor or the volume plated. Leaving either out gives a wrong count for the original culture.
+
+**Which values should you use to calculate a growth rate constant?**
+Use only values from the exponential phase. Using stationary or lag-phase values gives the wrong answer.
+
+**How should you describe aseptic steps?**
+Give the reason for each step, not just the step itself. Writing aseptic steps with no reason loses marks.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology (YBI11) specification, Issue 2, published by Pearson Education Limited.

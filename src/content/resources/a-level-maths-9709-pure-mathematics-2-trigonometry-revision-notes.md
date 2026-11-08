@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "trigonometry-cambridge-alevel-maths-2"
 description: "Condensed 9709 Paper 2 trigonometry notes: six functions, identity table, R-form steps, equation methods and a 12-question self-test with answers."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -217,6 +217,23 @@ Sketch the parent curve lightly first. Asymptotes sit where the parent is zero. 
 - Not shifting the interval for θ − α or 2θ, so a solution is missed or one outside the range is kept.
 - In a "prove" question, working on both sides at once or skipping the Pythagorean step.
 - Giving a decimal where the question asks for an exact value.
+
+## Frequently asked questions
+
+**What are sec, cosec and cot?**
+sec θ = 1/cos θ, cosec θ = 1/sin θ and cot θ = 1/tan θ = cos θ/sin θ. Each is undefined where its parent function is zero.
+
+**What are the Pythagorean identities in Cambridge 9709 Paper 2?**
+As well as sin²θ + cos²θ ≡ 1, you need sec²θ ≡ 1 + tan²θ and cosec²θ ≡ 1 + cot²θ.
+
+**Which form of cos 2A should you use?**
+Use 1 − 2sin²A when the equation has sin terms and 2cos²A − 1 when it has cos terms, so that only one function remains.
+
+**How do you write a sin θ + b cos θ in R-form?**
+Expand the required form, match coefficients to get R cos α and R sin α, then use R = √(a² + b²) and tan α = R sin α ÷ R cos α. The greatest value is R and the least is −R.
+
+**Is sec θ the same as cos⁻¹θ?**
+No. sec θ is the reciprocal 1/cos θ, while cos⁻¹θ is the inverse function, which gives an angle.
 
 ## Next steps
 

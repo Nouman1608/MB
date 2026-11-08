@@ -213,6 +213,23 @@ Why is silicon's melting point far above phosphorus's? Silicon: giant covalent, 
 - Stating that melting chlorine or phosphorus breaks covalent bonds.
 - Using "atoms" in a metallic bonding answer instead of cations and delocalised electrons.
 
+## Frequently asked questions
+
+**Why does first ionisation energy generally increase across a period?**
+Across a period the nuclear charge increases, electrons are added to the same shell so shielding stays similar, and the atomic radius falls. The outer electron is therefore held more strongly and needs more energy to remove.
+
+**Why is there a small fall in first ionisation energy from Group 15 to Group 16?**
+In a Group 16 element such as oxygen or sulfur, the electron is removed from a p orbital that holds a pair of electrons. Repulsion between the paired electrons makes it easier to remove, so the first ionisation energy is slightly lower than for the Group 15 element.
+
+**Why does first ionisation energy decrease down a group?**
+Each element down a group has an extra shell, so the outer electron is further from the nucleus and more shielded by inner electrons. These effects outweigh the increase in nuclear charge, so less energy is needed to remove it.
+
+**Which forms of carbon and silicon conduct electricity?**
+Graphite and graphene conduct because they have delocalised electrons that move along the layers or sheet. Diamond does not conduct because every outer electron is held in a covalent bond, and silicon conducts only weakly as a semiconductor.
+
+**How do you work out the block, group and period of an element?**
+Write the electron configuration in filling order; the sub-shell the last electron enters gives the block and the highest shell number gives the period. In OCR A Level Chemistry A (H432), the group of an s-block element is its number of outer s electrons, and for a p-block element it is 10 plus its outer s and p electrons.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 3.1.1 Periodicity, learning outcomes (a) to (g). Published by OCR.

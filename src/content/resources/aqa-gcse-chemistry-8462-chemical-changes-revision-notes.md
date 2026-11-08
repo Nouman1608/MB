@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "chemical-changes-8462"
 description: "Condensed AQA GCSE Chemistry 8462 Chemical changes notes: reactivity series, redox, salts, pH, titrations and electrolysis products, with a self-test."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 ---
 
 These are condensed recall notes for section **4.4 Chemical changes** (4.4.1.1 to 4.4.3.5) of the AQA GCSE
@@ -366,6 +366,23 @@ Check that atoms and charges balance on each side.
 - (Higher tier only) Saying one pH unit changes [H⁺] by 1 rather than by a factor of 10.
 - Predicting sodium at the cathode for sodium chloride solution.
 - (Higher tier only) Writing electrons on the wrong side of a half equation, so charges do not balance.
+
+## Frequently asked questions
+
+**How is oxidation defined in AQA GCSE Chemistry 8462?**
+At both tiers, oxidation is gain of oxygen and reduction is loss of oxygen. Higher tier students also need the electron definitions: oxidation is loss of electrons and reduction is gain of electrons.
+
+**What does reactivity of a metal depend on?**
+Reactivity depends on how easily a metal forms its positive ion. Metals react with water to give a metal hydroxide and hydrogen, and with acids to give a salt and hydrogen.
+
+**What is the difference between a strong acid and a concentrated acid?**
+Strength describes how completely an acid ionises in aqueous solution, while concentration describes the amount of acid per volume. This distinction is Higher tier only.
+
+**Why is cryolite used in aluminium electrolysis?**
+Aluminium oxide is dissolved in molten cryolite to lower the melting temperature, so less energy is needed. The carbon anode reacts with oxygen to form carbon dioxide and must be replaced.
+
+**What are the products of electrolysing a molten ionic compound?**
+With inert electrodes, the metal forms at the cathode and the non-metal at the anode, so molten lead bromide gives lead and bromine. Aqueous solutions may give hydrogen at the cathode instead.
 
 ## Official syllabus
 

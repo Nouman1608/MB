@@ -233,6 +233,20 @@ balance
 - Stating a chain of reasoning in one sentence with no link between steps.
 - Ending an evaluation with "it depends" and no reason.
 
+## Frequently asked questions
+
+**What is the difference between devaluation and depreciation?**
+A depreciation is a market-driven fall in the value of a floating currency. A devaluation is a deliberate official fall in a fixed or target rate; mixing the two up is a common error.
+
+**What is the J-curve?**
+The J-curve shows the current account often worsening at first after a depreciation and improving later. Contracts are fixed and buyers are slow to switch, so demand is less elastic in the short run.
+
+**Does a depreciation always fix a current account deficit?**
+No. It depends on the elasticities of demand for exports and imports and on timing, so a deficit may worsen before it improves.
+
+**Why does the direction of an exchange rate quote matter?**
+A rate can be quoted as units of either currency per unit of the other. Reading the quote the wrong way round reverses the direction of the effect, so check which currency has risen before analysing.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, first teaching September 2018, published by Pearson Education Limited. Section 4.3.3, item 2, points a to g.

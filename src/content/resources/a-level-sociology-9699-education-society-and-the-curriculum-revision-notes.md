@@ -27,9 +27,9 @@ description: "Revision notes for Cambridge 9699 Sociology 5.1-5.3: key terms, th
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 These notes condense the [Education, society and the curriculum study guide](/resources/a-level-sociology-9699-education-society-and-the-curriculum/). Read that first for full explanations and worked paragraphs.
@@ -164,6 +164,20 @@ Questions 1-3 share the remaining 24 marks; your teacher will confirm the split.
 - Treating the hidden curriculum as a Marxist idea only, when functionalists also use it.
 - Using cultural capital to mean money or income.
 - Essays that list studies with no judgement; AO3 is 36% of Paper 3.
+
+## Frequently asked questions
+
+**How long is Cambridge 9699 Sociology Paper 3?**
+Paper 3, Education, lasts 1 hour 15 minutes and is worth 50 marks and 21% of the A Level. AO3 makes up 36% of Paper 3, so essays need judgement, not just a list of studies.
+
+**What is qualification inflation?**
+Qualification inflation is when more people gain a credential, so employers ask for higher ones and each qualification is worth less (Dore, 1976).
+
+**What are the three forms of cultural capital?**
+Bourdieu described cultural capital in three forms: embodied, objectified and institutionalised.
+
+**Who coined the term hidden curriculum?**
+Philip Jackson coined the term in Life in Classrooms (1968). Both functionalists and Marxists use the idea, so it is not only a Marxist concept.
 
 ## Official syllabus
 

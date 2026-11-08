@@ -226,6 +226,23 @@ Semolina on castor oil, with electrodes connected to a high-voltage supply: the 
 - Spreading field lines evenly when asked to show where the field is strongest. Lines must bunch where the field is strongest.
 - Explaining a spark by only saying "charge jumps". For the field explanation (P3.1d), link it to a strong field in the gap.
 
+## Frequently asked questions
+
+**How do you work out the net charge on an object?**
+Net charge = positive charge − negative charge, counted in the same units. For example, an object with 8 positive units and 11 negative units has a net charge of −3 units.
+
+**Why can't you charge a metal rod held in your hand by rubbing?**
+A metal is a conductor, so any charge flows away through your body to the ground. Static charge builds up on insulators, or on conductors insulated from Earth.
+
+**What is an electric field?**
+An electric field is the space surrounding a charged object in which any other charge experiences a force. It explains how charged objects exert forces on each other without contact.
+
+**How does the semolina experiment show an electric field?**
+Semolina grains are sprinkled on castor oil with two electrodes connected to a high-voltage supply. The grains line up along the field lines and show the pattern of the field.
+
+**Which static electricity content is separate Physics only in OCR GCSE Physics A?**
+In OCR GCSE (9-1) Physics A (J249), electric fields (P3.1d) are separate Physics only. Charge, making static and electron transfer (P3.1a to P3.1c) are for both tiers.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), for first assessment in 2018, published by OCR. These notes cover learning outcomes P3.1a to P3.1d.

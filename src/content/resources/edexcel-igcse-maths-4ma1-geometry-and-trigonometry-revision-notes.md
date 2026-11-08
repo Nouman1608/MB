@@ -39,11 +39,11 @@ syllabusTopics:
     subtopic: "trigonometry-and-pythagoras-theorem-edexcel-igcse-maths"
 description: "Condensed 4MA1 geometry and trigonometry notes: angle facts, polygons, bearings, compound measures, circle theorems and trig rules, with a self-test."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 For full explanations and worked examples, use the [Geometry and trigonometry study guide](/resources/edexcel-igcse-maths-4ma1-geometry-and-trigonometry/). These notes condense sections 4.1–4.8 of Topic 4 in the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on it. Sections 4.1–4.5 are the same on both tiers; parts of 4.6–4.8 are **Higher tier only** and are labelled. A calculator may be used on every paper.
@@ -340,6 +340,20 @@ Angle with opposite 5, hypotenuse 8:  sin⁻¹(5/8) = 38.7°
 - Rounding intermediate lengths to 2 or 3 figures before using them again, so the final answer is outside the accepted range.
 - Taking the acute answer from sin⁻¹ when the diagram shows an obtuse angle (Higher).
 - In 3D, using a slant edge where the vertical height is needed (Higher).
+
+## Frequently asked questions
+
+**What sections does Edexcel IGCSE Maths 4MA1 Topic 4 cover?**
+Topic 4, Geometry and trigonometry, has sections 4.1 to 4.8: angles and triangles, polygons, symmetry, measures, construction, circle properties, geometrical reasoning, and trigonometry with Pythagoras' theorem. Circle theorems, the sine and cosine rules and 3D trigonometry are Higher tier only.
+
+**How do you find the number of sides of a regular polygon from its interior angle?**
+Find the exterior angle by subtracting the interior angle from 180°, then divide 360° by it. An interior angle of 156° gives an exterior angle of 24°, so the polygon has 360 ÷ 24 = 15 sides.
+
+**What is the formula for density?**
+Density = mass ÷ volume, so 540 g with a volume of 200 cm³ has a density of 2.7 g/cm³. Speed is distance ÷ time and pressure is force ÷ area.
+
+**What is the difference between allied and alternate angles?**
+Alternate angles on parallel lines are equal, while allied (co-interior) angles add up to 180°. Calling allied angles equal is a common error.
 
 ## Official syllabus
 

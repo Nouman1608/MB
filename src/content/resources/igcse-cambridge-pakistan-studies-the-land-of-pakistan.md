@@ -13,11 +13,11 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-environment-0448"
     subtopic: "the-land-of-pakistan-0448"
-description: "Location, administrative areas, natural topography and climate -- Section 1 of Paper 2 The Environment of Pakistan, Cambridge IGCSE Pakistan Studies (0448), 2026 series."
+description: "The land of Pakistan for Cambridge IGCSE Pakistan Studies 0448 Paper 2 Section 1: location, administrative areas, topography and climate, 2026 series."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -145,6 +145,17 @@ treating Section 1 as a topic to finish and move on from.
 ## Related resources
 
 - [Cambridge IGCSE Pakistan Studies: Natural Resources – An Issue of Sustainability (0448)](/resources/igcse-cambridge-pakistan-studies-natural-resources/)
+
+## Frequently asked questions
+
+**How is Paper 2 structured?**
+Paper 2 (1 hour 30 minutes, 75 marks, 50%) asks you to answer three questions from a choice of five, each worth 25 marks, in four parts (a) to (d) built around maps, graphs, photographs and other resources; part (d) tests analysis.
+
+**What does this section mostly test?**
+Map identification of named places and features, plus describing and explaining climate and its effects.
+
+**What causes the monsoon?**
+Seasonal reversal of winds and pressure: in summer, low pressure over the heated land draws moist air from the Indian Ocean, bringing most of Pakistan's rain.
 
 ## Official syllabus
 

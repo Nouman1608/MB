@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "statistics-aqa-gcse-maths"
 description: "Twelve original AQA GCSE Maths 8300 Statistics questions on sampling, averages, pie charts, histograms, box plots and scatter graphs, with marked answers."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -197,6 +197,20 @@ Learn the content first in the [study guide](/resources/aqa-gcse-maths-8300-stat
 - Describing correlation with no reference to what the variables are.
 - Using the line of best fit outside the data without comment.
 - Giving two versions of the same reason for bias.
+
+## Frequently asked questions
+
+**How do you calculate an estimated mean from grouped data?**
+Multiply each class midpoint by its frequency, add the results, and divide by the total frequency. Dividing by the number of classes is a common method error.
+
+**Why is a mean from grouped data only an estimate?**
+You do not know the exact values within each class, so the midpoint is used to stand in for every value in it.
+
+**Where do you plot points on a cumulative frequency graph?**
+Plot each running total at the upper class boundary and start at 0 at the first lower boundary. Plotting at class midpoints loses the plotting mark.
+
+**How do you compare two distributions in GCSE Maths statistics?**
+Make one comparison of an average and one of spread, each written in the context of the question. Two comparisons of the same kind, or comparisons with no context, lose marks.
 
 ## Next steps
 

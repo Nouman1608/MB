@@ -22,7 +22,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "turning-points-in-physics-aqa-alevel"
     subtopic: "special-relativity-aqa-alevel"
-description: "Original practice questions with marked answers on the AQA A-Level Physics 7408 Turning points option, from Millikan to muons and Bertozzi."
+description: "Original practice questions with marked answers on the AQA A-Level Physics 7408 Turning points option, from Millikan's experiment to muons and Bertozzi."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-06
 featured: false
@@ -177,6 +177,20 @@ Use e = 1.60 × 10⁻¹⁹ C, mₑ = 9.11 × 10⁻³¹ kg, mass of hydrogen ion 
 - [Printable checklist](/checklists/aqa/a-level/physics/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Is Turning points in physics an option in AQA A-level Physics?**
+Yes. Turning points in physics, section 3.12, is one of five A-level only options in AQA 7408; you study one option, assessed in Paper 3 Section B.
+
+**Why must you mix reference frames carefully in muon calculations?**
+Pair the proper half-life with time measured in the muon's frame, or the dilated half-life with time measured in the Earth's frame. Mixing frames gives the wrong number of surviving muons and loses marks.
+
+**How should you answer a "show that" question in AQA Physics?**
+Write out every step of the working rather than restating the given value, and give your final answer to more significant figures than the value quoted in the question.
+
+**What mistakes lose marks in Turning points questions?**
+Common errors include taking node spacing as the wavelength in a Hertz experiment, using d instead of 2d in Fizeau's method, describing the STM without the word tunnelling, and writing "light is particles" instead of naming the photoelectric observations.
 
 ## Official syllabus
 

@@ -19,14 +19,14 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "characteristics-and-classification-of-living-organisms-cambridge-igcse-biology"
     subtopic: "features-of-organisms-cambridge-igcse-biology"
-description: "Original exam-style practice questions with full worked answers on MRS GREN, the five kingdoms, vertebrates and dichotomous keys for Cambridge IGCSE Biology 0610."
+description: "Exam-style practice questions with worked answers on MRS GREN, the five kingdoms, vertebrates, arthropods and keys for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -151,3 +151,17 @@ Fungi: **chitin** [1] wall, **saprotrophic** nutrition [1].
 - Mixing up crustaceans and myriapods — both have "many" legs, but crustaceans are diagnosed by two pairs of antennae (body parts vary, and in some the head and thorax are fused into a cephalothorax), while myriapods have many segments and only one pair of antennae.
 
 Questions 8 and 9 draw on the vertebrate and plant classification tables in the [Characteristics and Classification revision notes](/resources/igcse-biology-characteristics-classification-revision-notes/) — material the earlier questions on this page don't reach, since questions 1-5 and 7 focus on MRS GREN, the five kingdoms and dichotomous keys, and question 6 already covers arthropod classification.
+
+## Frequently asked questions
+
+**Which parts of classification are Supplement content in Cambridge IGCSE Biology 0610?**
+The features of the five kingdoms, the plant groups (ferns and flowering plants, including monocotyledons and dicotyledons) and the use of DNA base sequences in classification are Supplement content, examined for Extended candidates.
+
+**Are viruses placed in one of the five kingdoms?**
+No. Viruses sit outside the five kingdoms of animals, plants, fungi, prokaryotes and protoctists.
+
+**How is DNA used in modern classification?**
+Modern classification compares DNA base sequences: the more similar the sequences of two organisms, the more closely related they are. This is Supplement content.
+
+**Are these practice questions taken from past papers?**
+No. They are original questions written for revision on Topic 1, and they do not copy the exam's structure or mark tariffs. Use them alongside the official Cambridge past papers.

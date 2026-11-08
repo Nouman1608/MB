@@ -12,11 +12,11 @@ order: 4
 syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-2-cambridge-alevel"
-description: "Original exam-style practice questions with full worked solutions on the modulus function, polynomial division and the factor theorem, logarithms and exponentials, extended trigonometry, differentiation, integration and numerical methods, for Cambridge International AS & A Level Mathematics (9709) Pure Mathematics 2."
+description: "Original Cambridge 9709 Pure Mathematics 2 questions with worked solutions on modulus, the factor theorem, logarithms, trig identities, calculus and iteration."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -108,3 +108,20 @@ states the sign-change conclusion explicitly before moving into the iteration it
 treating the two steps as one combined statement.
 
 The same discipline applies across this whole practice set: question 5 rewards recognising which trigonometric identity turns an otherwise unmanageable equation into a standard quadratic in tanθ, and question 7 rewards spotting the chain-rule scaling factor before integrating, rather than reaching for a more complicated substitution than the question actually requires. Checking which representation of an expression is easiest to work with before starting a calculation is the single habit that connects every sub-topic tested here.
+
+## Frequently asked questions
+
+**How do you solve a modulus equation such as |ax + b| = c?**
+Split it into two cases, ax + b = c and ax + b = −c, and solve each one. Alternatively, square both sides when both sides are moduli.
+
+**Why do you sometimes reject a solution to a logarithm equation?**
+A logarithm is only defined for positive arguments, so any solution that makes an original log term zero or negative must be rejected, even if it satisfies the rearranged equation.
+
+**How many decimal places should you keep in an iteration in Cambridge 9709 Paper 2?**
+Carry more decimal places than the final answer needs through every iterate, and stop when two successive iterates round to the same value at the accuracy asked for.
+
+**What does a sign change show in a numerical methods question?**
+A sign change of a continuous function across an interval shows that a root lies somewhere in that interval. It does not tell you the root's value, which you find with an iteration.
+
+**How do you integrate 1/(2x + 1)?**
+Recognise it as almost f′(x)/f(x): the derivative of ln|2x + 1| is 2/(2x + 1), so the integral is (1/2) ln|2x + 1| + c.

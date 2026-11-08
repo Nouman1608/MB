@@ -228,6 +228,23 @@ To evaluate, judge the **size** of each effect (how large a share of costs or sa
 - Describing the factor in general terms and not applying it to the business in the case.
 - Treating fair trade or green changes as only a cost.
 
+## Frequently asked questions
+
+**How do interest rates affect a business?**
+Higher rates raise finance costs on variable-rate loans and overdrafts, reducing profit and cash flow. They also make borrowing dearer for households, so demand falls for products often bought on credit.
+
+**How can an ageing population affect a business?**
+It can raise demand for healthcare, care homes, mobility products and leisure aimed at older people, and it can raise costs if fewer young people enter work and employers must pay more to recruit.
+
+**What is fair trade?**
+Fair trade means buying from producers, usually in developing countries, on terms that give them a fair and stable price. It often raises costs but may raise demand from customers who value ethical products.
+
+**How do you evaluate several external factors together?**
+Judge the size of each effect, its timing, such as a fixed-rate loan delaying a cost rise, and how the specific business is exposed, then say which factor matters most and why.
+
+**Which section of the AQA Business specification covers the external environment?**
+Section 3.1.3, Understanding that businesses operate within an external environment, which has one content point: how the external environment can affect costs and demand.
+
 ## Official syllabus
 
 AQA, *AS and A-level Business (7131 and 7132)* specification, section 3.1.3, *Understanding that businesses operate within an external environment*, as listed under 3.1 What is business?

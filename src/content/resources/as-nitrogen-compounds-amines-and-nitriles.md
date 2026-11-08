@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-nitrogen-compounds"
     subtopic: "as-nitriles-and-hydroxynitriles"
-description: "Producing primary amines, nitriles and hydroxynitriles, and how they connect to the halogenoalkane and carbonyl chemistry already covered, for Cambridge International AS & A Level Chemistry 9701."
+description: "Primary amines, nitriles and hydroxynitriles for Cambridge AS & A Level Chemistry 9701, linked to halogenoalkane and carbonyl reactions already studied."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -169,6 +169,20 @@ substitution
 acid
 - Why the same nucleophile (CN⁻) gives substitution with one substrate and
 addition with another
+
+## Frequently asked questions
+
+**Do you need to classify amines as primary, secondary or tertiary at AS?**
+No. The Cambridge 9701 syllabus excludes classifying amines at AS; the focus is on the reaction by which primary amines are produced.
+
+**What is the difference between making a nitrile and a hydroxynitrile?**
+A nitrile is made from a halogenoalkane by nucleophilic substitution with cyanide. A hydroxynitrile is made from a carbonyl compound by nucleophilic addition of HCN.
+
+**Why is acidification needed after hydrolysing a nitrile with alkali?**
+Under alkaline conditions the first product is the carboxylate salt. Acidifying the mixture is needed to obtain the free carboxylic acid.
+
+**Which syllabus points does this guide cover?**
+It covers subtopics 19.1, Primary amines, and 19.2, Nitriles and hydroxynitriles, from Topic 19 of Cambridge International AS & A Level Chemistry 9701. Both are AS Level content.
 
 ## Related resources
 

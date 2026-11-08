@@ -244,6 +244,20 @@ The more strongly a radiation ionizes, the faster it loses energy along its path
 - Saying gamma rays are "stopped by lead", when thickness only reduces the intensity.
 - Mixing kg and MeV/c² in one calculation.
 
+## Frequently asked questions
+
+**Is the weak nuclear force part of IB DP Physics E.3?**
+No. The guide leaves the weak nuclear force out of this course.
+
+**Why use the mass of a hydrogen atom in binding energy calculations?**
+Tabulated masses are atomic masses, which include electrons. Counting one hydrogen atom for each proton makes the electrons cancel.
+
+**Does a larger total binding energy mean a more stable nucleus?**
+No. Stability is judged by binding energy per nucleon, not total binding energy. Iron-56 at 8.79 MeV per nucleon is more tightly bound than calcium-40 at 8.55 MeV.
+
+**Why do rounded constants give about 933 MeV for 1 u?**
+Working from m = E/c² with rounded constants gives a slightly different figure from 931.5 MeV. Use the conversion you are given and do not switch routes mid-question.
+
 ## Official syllabus
 
 IB *Physics guide*, first assessment 2025, International Baccalaureate Organization: sub-topic E.3, Radioactive decay (understandings on nuclear structure, binding energy and radioactive decay types, including the additional higher level understandings).

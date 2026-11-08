@@ -227,6 +227,20 @@ The same rule applies to ATC, with its minimum at 150 loaves. The bakery's MC fo
 
 Practise turning a production table into a cost table, as in worked example 2. Then write a chain: MP falls, so MC rises, so AVC and then ATC turn up. The [practice questions](/resources/cambridge-a-level-economics-short-run-production-and-costs-practice/) include extended items of this kind.
 
+## Frequently asked questions
+
+**Is short-run production and costs examined at AS Level in Cambridge 9708?**
+No. Sections 7.5.1 and 7.5.2 are A Level content in the Cambridge International AS & A Level Economics 9708 syllabus, so they are examined on the A Level papers (Papers 3 and 4) rather than at AS.
+
+**What is the difference between fixed and variable costs?**
+Fixed costs, such as rent, do not change with output in the short run and are paid even at zero output. Variable costs, such as raw materials and the wages of extra workers, change as output changes.
+
+**Why does the marginal cost curve rise?**
+Marginal cost is the mirror image of marginal product. Once diminishing returns sets in, each extra worker adds less output for the same wage, so the cost of each extra unit rises.
+
+**Why does marginal cost cut average cost at its lowest point?**
+An average moves towards the marginal figure. While marginal cost is below average variable or average total cost the average falls, and once marginal cost is above it the average rises, so the marginal cost curve cuts both from below at their minimum points.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, sections 7.5.1 and 7.5.2.

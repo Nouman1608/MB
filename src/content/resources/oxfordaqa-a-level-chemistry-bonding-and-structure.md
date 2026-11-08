@@ -23,11 +23,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "oxfordaqa-a-level-chemistry-bonding"
     subtopic: "oxfordaqa-a-level-chemistry-3-1-3-4"
-description: "Ionic, covalent and dative covalent, and metallic bonding, and the four crystal structure types -- ionic, metallic, macromolecular and molecular -- with named example structures, for OxfordAQA International AS and A-level Chemistry 9620, sections 3.1.3.1 to 3.1.3.4."
+description: "OxfordAQA 9620 sections 3.1.3.1 to 3.1.3.4: ionic, covalent, dative and metallic bonding, and the four crystal structure types with six named examples."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -225,6 +225,23 @@ solid) and the graphite exception among covalent structures (conducts
 in-plane only, due to its one delocalised electron per carbon atom),
 since these are the details most often oversimplified in a rushed
 answer.
+
+## Frequently asked questions
+
+**What is a dative covalent bond?**
+A dative covalent (co-ordinate) bond contains a shared pair of electrons in which both electrons come from the same atom. In OxfordAQA A-level Chemistry (9620) it is shown with an arrow pointing from the atom donating the pair to the atom receiving it.
+
+**What are the four types of crystal structure?**
+The OxfordAQA 9620 specification names ionic, metallic, macromolecular (giant covalent) and molecular crystal structures. The six named examples are diamond, graphite, ice, iodine, magnesium and sodium chloride.
+
+**What breaks when a molecular substance melts or boils?**
+Only the weak intermolecular forces between molecules are overcome; the strong covalent bonds within each molecule stay intact. Melting a giant covalent structure such as diamond does require breaking covalent bonds, which is why its melting point is so much higher.
+
+**Why does graphite conduct electricity but diamond does not?**
+In graphite each carbon forms three bonds, leaving one delocalised electron per atom that can move within each layer, so it conducts along the layers. In diamond each carbon forms four bonds in a tetrahedral network, so there are no mobile electrons and it is an insulator.
+
+**When do ionic compounds conduct electricity?**
+Ionic compounds such as sodium chloride conduct electricity only when molten or dissolved, not as solids. This two-part condition is one of the details most often oversimplified in conductivity answers.
 
 ## Official syllabus
 

@@ -161,6 +161,20 @@ Revise first with the [revision notes](/resources/ib-dp-biology-protein-synthesi
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which parts of IB DP Biology D1.2 Protein synthesis are HL only?**
+The HL-only statements cover the directionality of transcription, promoters and transcription factors, non-coding genes, introns, exons and alternative splicing, initiation of translation, post-translational modification and protein breakdown by proteasomes.
+
+**How do you work out an mRNA sequence from a DNA template strand?**
+Write the complementary base for each template base, using U in place of T (template A gives U, T gives A, G gives C, C gives G), and keep the 5' and 3' ends labelled correctly.
+
+**Why must codons have three bases?**
+Two-base codons would give only 4 × 4 = 16 combinations, fewer than the 20 amino acids, while three bases give 64, enough to code for every amino acid.
+
+**How do you identify the effect of a point mutation on a polypeptide?**
+Find the codon that changed, look up the old and new amino acids, and state the result: the same amino acid (silent), a different amino acid, or a stop codon that ends translation early.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. These questions are aligned to section D1.2.

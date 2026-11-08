@@ -18,11 +18,11 @@ syllabusTopics:
     subtopic: "gas-exchange-in-humans-cambridge-igcse-biology"
 description: "Twelve original gas exchange questions with fully worked, mark-by-mark answers and Core or Extended labels, for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -186,6 +186,20 @@ Before you start, you may want the [gas exchange study guide](/resources/igcse-b
 - [Biology checklist](/checklists/cambridge/igcse/biology/)
 - [0610 Core diagnostic](/practice/0610/diagnostic/core/) and [0610 Extended diagnostic](/practice/0610/diagnostic/extended/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Which parts of gas exchange in humans are Extended only in 0610?**
+The role of cartilage in the trachea, the internal and external intercostal muscles, the ventilation mechanism, explaining differences between inspired and expired air, explaining why breathing changes in exercise and the role of goblet cells and cilia are Extended content.
+
+**What is the difference between breathing and respiration?**
+Breathing is the movement of air into and out of the lungs, while respiration is the chemical reactions in cells that release energy. Mixing up the two terms is a common way to lose marks in gas exchange answers.
+
+**How do you calculate breathing rate in breaths per minute?**
+Multiply the number of breaths counted by 60 and divide by the number of seconds over which they were counted. Check the units asked for in the question.
+
+**How should you answer a "how many times greater" question?**
+A "how many times" answer is a division: divide the larger value by the smaller value. It is not a subtraction.
 
 ## Official syllabus
 

@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-thermodynamics"
     subtopic: "a-the-first-law-of-thermodynamics"
-description: "Original exam-style practice questions with full worked answers on internal energy, the first law, specific heat capacity and latent heat for Cambridge AS & A Level Physics 9702."
+description: "Original practice questions with worked answers on internal energy, the first law ΔU = q + W, work done by a gas and latent heat for Cambridge 9702 Physics."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -136,6 +136,20 @@ Related: [Thermodynamics revision notes](/resources/a-physics-thermodynamics-rev
 - Using E = mcΔθ during a change of state.
 - Forgetting to convert minutes to seconds.
 - Explaining the latent heat difference without mentioning work against the atmosphere.
-- Describing melting or vaporisation as "breaking bonds" between molecules — there is no bond-breaking model at this level. The correct description is molecules being separated (or fully separated, for vaporisation) against the intermolecular forces of attraction, which increases their potential energy.
+- Saying only that melting or vaporisation "breaks bonds" without saying what happens to the energy. State that the molecules are separated (or fully separated, for vaporisation) against the intermolecular forces of attraction, so their potential energy increases while their mean kinetic energy stays the same.
 - Applying W = pΔV when the pressure is not constant during the process.
 - Forgetting that internal energy is a state function, and treating it as dependent on the path taken between two states.
+
+## Frequently asked questions
+
+**What is the correct definition of internal energy?**
+Internal energy is the sum of the random distribution of kinetic and potential energies of the molecules of a system. Both components are needed; defining it as kinetic energy alone scores at most one mark.
+
+**What sign does W take when a gas expands?**
+In ΔU = q + W, W is the work done on the gas. When a gas expands it does work on its surroundings, so W is negative; when it is compressed, W is positive.
+
+**Why is the latent heat of vaporisation greater than the latent heat of fusion?**
+Boiling must separate the molecules completely against the intermolecular forces and also do work pushing back the atmosphere as the vapour expands, whereas melting only loosens the forces.
+
+**When can you use W = pΔV?**
+W = pΔV applies only when the pressure stays constant during the volume change. Applying it to a process where the pressure changes is a common error.

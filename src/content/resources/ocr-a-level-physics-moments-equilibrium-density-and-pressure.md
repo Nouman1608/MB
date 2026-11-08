@@ -251,6 +251,23 @@ V_sub / V = 650 / 1000 = 0.65, so 65% of the height is submerged.
 - Forgetting to convert cm² to m², or g cm⁻³ to kg m⁻³.
 - Saying upthrust depends on the object's weight. It depends on the weight of fluid displaced.
 
+## Frequently asked questions
+
+**What is the principle of moments?**
+For an object in equilibrium, the total clockwise moment about any point equals the total anticlockwise moment about the same point.
+
+**What is Archimedes' principle?**
+When an object is wholly or partly immersed in a fluid, the upthrust on it equals the weight of fluid displaced. A floating object displaces its own weight of fluid.
+
+**Why does pressure in a liquid increase with depth?**
+The pressure at depth h is the weight of the liquid column above divided by its area, giving p = hρg. It depends on depth and liquid density, not on the shape of the container.
+
+**What is the difference between centre of mass and centre of gravity?**
+The centre of mass is where the mass can be considered concentrated, and the centre of gravity is where the whole weight appears to act. In a uniform gravitational field they are at the same point.
+
+**What is a triangle of forces?**
+For three coplanar forces in equilibrium, the force vectors drawn head to tail form a closed triangle, because the resultant is zero. Their lines of action also pass through one point.
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017, published by OCR. Sections 3.2.3 Equilibrium and 3.2.4 Density and pressure.

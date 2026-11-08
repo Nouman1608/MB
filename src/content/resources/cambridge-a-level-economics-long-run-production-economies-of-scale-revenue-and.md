@@ -262,6 +262,20 @@ Another firm sells 2,500 units at AR 9.00 with ATC 10.40: TR = 22,500, TC = 26,0
 - Calculating MR as TR divided by quantity, which is AR.
 - Calling any positive accounting profit supernormal without deducting normal profit.
 
+## Frequently asked questions
+
+**Is long-run production and economies of scale AS or A Level content in Cambridge 9708?**
+Statements 7.5.3 to 7.5.10 sit in topic 7, which is A Level content only and is not examined at AS. They cover returns to scale, LRAC and minimum efficient scale, economies and diseconomies of scale, revenue and profit.
+
+**What shape is the long-run average cost curve?**
+The LRAC is drawn as a U-shape, or sometimes an L-shape, and is the envelope of short-run average cost curves. The falling section reflects economies of scale, a flat section constant returns and a rising section diseconomies of scale.
+
+**Should you use diminishing returns to explain the rising part of the LRAC curve?**
+No. Diminishing returns are a short-run idea; the rising part of the LRAC curve is explained by diseconomies of scale. Using diminishing returns here is a common error.
+
+**Do economies of scale always benefit consumers?**
+Not always. Whether consumers gain depends on competition, because a firm with market power may keep the cost saving as profit, and the benefits are limited once minimum efficient scale is passed.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment: statements 7.5.3 to 7.5.10.

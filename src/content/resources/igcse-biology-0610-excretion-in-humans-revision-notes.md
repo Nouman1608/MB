@@ -18,11 +18,11 @@ syllabusTopics:
     subtopic: "excretion-in-humans-cambridge-igcse-biology"
 description: "Condensed revision notes on excretion for Cambridge IGCSE Biology 0610: kidney, nephron, deamination and urea, with a self-test and common mark losses."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 These revision notes cover topic 13, Excretion in humans, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028: section 13.1, outcomes 1–9. Outcomes 1–3 are Core and are tested on every paper. Outcomes 4–9 are Supplement, marked **Extended only**, and appear only on the Extended Papers 2 and 4. For full explanations and worked examples, use the [excretion study guide](/resources/igcse-biology-0610-excretion-in-humans/).
@@ -243,6 +243,20 @@ Excretion questions often borrow ideas from other parts of the syllabus. Be read
 - Explaining the importance of excretion as "removing waste" without saying urea is **toxic**.
 - Dropping units or rounding too early in a percentage calculation; give the final answer to a sensible number of significant figures.
 - Labelling the cortex with a line that stops on the boundary between cortex and medulla.
+
+## Frequently asked questions
+
+**What are the excretory products in humans?**
+Carbon dioxide is excreted through the lungs, and the kidneys excrete urea, excess water and excess ions in urine.
+
+**What is the order of structures in the urinary system?**
+Urine is made in the kidney, then travels down a ureter to the bladder, where it is stored, and leaves the body through the urethra. There are two ureters but only one urethra.
+
+**What is deamination?**
+Deamination is the removal of the nitrogen-containing part of amino acids to form urea. It takes place in the liver, so urea is made in the liver and removed by the kidneys.
+
+**Why is glucose in the filtrate but not in normal urine?**
+Glucose is small enough to be filtered out of the blood at the glomerulus, but all of it is reabsorbed back into the blood further along the nephron, so none remains in urine.
 
 ## Official syllabus
 

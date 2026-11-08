@@ -19,9 +19,9 @@ syllabusTopics:
     subtopic: "as-hess-s-law"
 description: "Condensed recall notes on enthalpy definitions, Hess cycles, bond enthalpy and calorimetry for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -186,3 +186,16 @@ Four points that decide the marks:
   <figcaption>Heat losses and incomplete burning make the measured value 22 % less exothermic than the data value.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are standard conditions in Cambridge 9701 energetics?**
+Standard conditions are 298 K and 101 kPa, with all substances in their standard states. These are the values the 9701 syllabus assumes.
+
+**What is the standard enthalpy of combustion?**
+It is the enthalpy change when one mole of a substance is completely burned in oxygen under standard conditions. Omitting "one mole" from the definition loses marks.
+
+**What is bond enthalpy?**
+Bond enthalpy is the energy required to break one mole of a specified bond in the gaseous state. Values are averages, so answers from bond enthalpies are approximate.
+
+**Which moles do you divide by in a calorimetry calculation?**
+Divide the energy transferred by the moles of the limiting reactant. Forgetting to use the limiting reactant is one of the exam traps.

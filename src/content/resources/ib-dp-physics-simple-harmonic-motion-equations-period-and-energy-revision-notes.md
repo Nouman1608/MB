@@ -211,6 +211,20 @@ Taking x = x₀ sin(ωt) with φ = 0, the three graphs are related like this:
 - Ignoring the direction of motion when using v = ±ω√(x₀² – x²), or choosing the wrong phase angle when two values of φ fit.
 - Writing answers without units, or with the wrong ones (rad s⁻¹ for ω, Hz for f).
 
+## Frequently asked questions
+
+**Does a vertical spring have a different period from a horizontal one?**
+No. A vertical spring has the same period formula, T = 2π√(m/k); only the equilibrium position changes.
+
+**Does the period of a pendulum depend on the mass of the bob?**
+No. The pendulum period depends on length and g only. The mass-spring period does depend on mass.
+
+**What does a phase angle do to SHM graphs?**
+A non-zero φ shifts every curve sideways along the time axis. It does not change the amplitude or the period.
+
+**How are displacement, velocity and acceleration out of step in SHM?**
+The velocity leads the displacement by a quarter of a cycle, π/2 rad, and the acceleration is in antiphase with the displacement, a phase difference of π rad.
+
 ## Official syllabus
 
 Source: *Physics guide*, first assessment 2025, International Baccalaureate Organization (Diploma Programme), sub-topic C.1 Simple harmonic motion.

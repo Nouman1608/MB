@@ -173,6 +173,20 @@ Matched pairs count as **related**. Rating scales are **ordinal**.
 - Listing case study limitations with no reference to the case in the question.
 - Writing content analysis steps without stating clear coding categories.
 
+## Frequently asked questions
+
+**What is the difference between a Type I and a Type II error?**
+A Type I error is rejecting the null hypothesis when it is true, a false positive. A Type II error is accepting the null hypothesis when it is false, a false negative.
+
+**Which three factors decide the choice of statistical test?**
+The specification names the research aim, the level of measurement and the experimental design. Matched pairs count as related.
+
+**Do you calculate statistical tests in the OxfordAQA 9685 exam?**
+No. You will not calculate tests in the exam, but you must comment on their use and interpret their results.
+
+**What is the difference between concurrent and predictive validity?**
+Concurrent validity compares a new measure with an established one at the same time. Predictive validity checks whether scores predict a later behaviour or outcome.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Psychology (9685) specification, Version 3.1 (International A-level exams May/June 2020 onwards), section 3.3.3 Research methods 2; Unit 3 assessment details in section 2.3.

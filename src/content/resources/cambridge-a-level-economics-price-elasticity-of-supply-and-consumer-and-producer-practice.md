@@ -127,6 +127,20 @@ These questions cover sections 2.3 and 2.5 of the Cambridge International AS & A
 - Stating that consumer surplus must fall when price rises, even when demand has risen.
 - Evaluating without saying which time period, or which elasticity, the judgement depends on.
 
+## Frequently asked questions
+
+**Which way up does the PES formula go?**
+PES is the percentage change in quantity supplied divided by the percentage change in price. Putting the price change on top gives the reciprocal, a common error in Cambridge 9708 elasticity questions.
+
+**Which value should be the base for a percentage change?**
+Use the starting (original) value: (final value minus starting value) divided by starting value, times 100. Using the new price or quantity as the base is a common way to lose marks.
+
+**Does a steeper supply curve always have a lower PES?**
+No. Elasticity compares percentage changes, so slope alone does not decide it. A straight-line supply curve through the origin has a PES of exactly 1 at every point, whatever its slope.
+
+**Must consumer surplus fall when the price rises?**
+Not necessarily. If the price rises because demand has increased, consumer surplus can still rise, because consumers value the good more.
+
 ## Next steps
 
 - Review the [revision notes](/resources/cambridge-a-level-economics-price-elasticity-of-supply-and-consumer-and-producer-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-price-elasticity-of-supply-and-consumer-and-producer/).

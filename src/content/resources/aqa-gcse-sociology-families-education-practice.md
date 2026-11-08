@@ -12,13 +12,19 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "paper-1-families-and-education-8192"
+  - qualification: "gcse"
+    topic: "paper-1-families-and-education-8192"
+    subtopic: "conjugal-role-relationships-8192"
+  - qualification: "gcse"
+    topic: "paper-1-families-and-education-8192"
+    subtopic: "divorce-8192"
 description: "Original exam-style practice questions with full worked answers on family types, family functions, education and differential achievement."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -146,3 +152,17 @@ Using the item and your knowledge, explain how sociologists would describe and e
 - Naming a general idea (anti-school subculture, class-based inequality) without the specific study the specification attaches to it (Willis; Halsey; Ball).
 - Treating the New Right view as neutral description rather than a value-laden judgement about which family type is "ideal".
 - On the item-based questions, describing the item's scenario without linking it explicitly to a named sociological concept or study.
+
+## Frequently asked questions
+
+**How do you answer an "explain" question for full marks?**
+Explain the mechanism, not just the factor. Naming a cause without showing how it leads to the outcome earns less credit in AQA GCSE Sociology (8192).
+
+**Does more divorce mean more unhappy marriages?**
+Not necessarily. A rise in divorce can reflect easier, cheaper divorce laws and changing attitudes, so do not treat it as proof that marriages became unhappier.
+
+**Is the New Right view of the family neutral?**
+No. The New Right view is a value-laden judgement about which family type is "ideal", so treating it as neutral description is a common error.
+
+**Which studies does the AQA 8192 specification attach to education topics?**
+Use the named study with each idea: Willis for anti-school subculture, Halsey for class-based inequality in achievement, and Ball for both parental choice between schools and teacher expectations.

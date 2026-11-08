@@ -22,9 +22,9 @@ syllabusTopics:
     subtopic: "as-homogeneous-and-heterogeneous-catalysts"
 description: "Collision theory, activation energy, the Boltzmann distribution, and how catalysts work, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -183,6 +183,20 @@ change in area beyond Eₐ
 - Catalysts: lower Eₐ via an alternative pathway; no change to ΔH or
 equilibrium position
 - Homogeneous (same phase) vs heterogeneous (different phase) catalysis
+
+## Frequently asked questions
+
+**Why does increasing concentration increase the rate of reaction?**
+More particles per unit volume give more frequent collisions and so more effective collisions per second; the proportion of collisions that are effective is unchanged. Saying only "more collisions" misses the link to effective collisions.
+
+**What is the main reason temperature increases the rate of reaction?**
+The dominant reason is the large increase in the fraction of particles with energy at or above the activation energy, shown by the Boltzmann distribution. Faster, more frequent collisions are a real but minor effect.
+
+**How does a catalyst increase the rate of reaction?**
+A catalyst provides an alternative route with a lower activation energy, so a greater fraction of particles have enough energy to react. It is not used up overall.
+
+**Which syllabus points does this Cambridge 9701 kinetics guide cover?**
+It covers subtopics 8.1, Rate of reaction, 8.2, Effect of temperature and activation energy, and 8.3, Homogeneous and heterogeneous catalysts, from Topic 8 of Cambridge International AS & A Level Chemistry 9701.
 
 ## Related resources
 

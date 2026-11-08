@@ -25,11 +25,11 @@ syllabusTopics:
     subtopic: "gene-control-cambridge-alevel-biology"
 description: "Condensed Cambridge 9700 inheritance notes: meiosis stages, cross types, chi-squared steps, gene-protein links and the lac operon, with a self-test."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 These notes condense topic 16, Inheritance, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027: sections 16.1, 16.2 and 16.3. It is A Level content, examined on Paper 4, with the chi-squared test also possible on Paper 5. For full explanations and worked examples, use the [inheritance study guide](/resources/a-level-biology-9700-inheritance/).
@@ -239,6 +239,23 @@ Order on the DNA: **promoter → operator → lacZ → lacY → lacA**. The regu
   <figcaption>A 1 : 2 : 1 ratio signals codominance; ABO has three alleles, two codominant and one recessive.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**What are the three sources of genetic variation in meiosis and fertilisation?**
+Crossing over between non-sister chromatids in prophase I, random orientation (independent assortment) of chromosomes at metaphase, and random fertilisation of gametes.
+
+**How do you calculate degrees of freedom for a chi-squared test?**
+Degrees of freedom equal the number of classes minus 1. In Cambridge 9700 the χ² formula is given but the degrees of freedom are not, so you must work them out.
+
+**What does a chi-squared value below the critical value mean?**
+The difference between observed and expected results is not significant and is due to chance, so the null hypothesis is accepted. A value above the critical value at p = 0.05 means the difference is significant.
+
+**How does the lac operon work when lactose is absent?**
+The repressor protein made by the regulatory gene lacI binds to the operator, which stops RNA polymerase transcribing the structural genes.
+
+**What does the le allele do in peas?**
+The recessive le allele codes for a non-functional enzyme, so little active gibberellin is made and lele plants are dwarf. It is not "missing" and does code for a protein.
 
 ## Official syllabus
 

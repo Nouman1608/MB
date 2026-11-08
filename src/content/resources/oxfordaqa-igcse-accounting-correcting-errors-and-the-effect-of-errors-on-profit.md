@@ -204,6 +204,23 @@ If the question gives a loss, treat a loss as a negative profit: a correction th
 - Treating every correction as a profit adjustment. Bank, receivables, payables, non-current assets and capital do not change profit.
 - Leaving out the narrative, or the name of the error type when the question asks for it.
 
+## Frequently asked questions
+
+**What is the general journal used for in correcting errors?**
+The general journal is the book of original entry for transactions that do not belong in any other book, including the correction of errors. Write what was posted, then what should have been posted, and the journal entry is the difference.
+
+**Why does a complete reversal need double the original figure?**
+The first entry must be cancelled and the correct entry made, so each account is corrected by twice the amount that was posted on the wrong side.
+
+**When is a transposition error revealed by the trial balance?**
+Only when the swapped digits appear on one side of the entry. If both sides were posted with the same swapped figure, the trial balance agrees and the error is an error of original entry.
+
+**Which corrections change profit?**
+A correction changes profit only if one of the accounts involved is an income or expense account. Corrections between bank, receivables, payables, non-current assets and capital do not change profit.
+
+**How do you correct a loss figure for errors?**
+Treat a loss as a negative profit: a correction that raises profit reduces the loss by the same amount.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for International GCSE exams May/June 2026 onwards, published by OxfordAQA. See section 3.2, Verification of accounting records.

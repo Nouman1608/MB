@@ -154,6 +154,23 @@ These questions cover Productive and allocative efficiency, Market failure and E
 - Take [all free 10-minute diagnostics](/diagnostics/)
 - Ready for a lesson? [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What is the difference between productive and allocative efficiency?**
+Productive efficiency is producing at the lowest possible average cost, where marginal cost equals average cost. Allocative efficiency is producing the mix of output society values most, where price equals marginal cost, or MSB equals MSC when externalities exist.
+
+**What is x-inefficiency?**
+X-inefficiency is producing at a higher cost than the lowest possible for a given output because there is little pressure to control costs. Causes include weak competition, managers pursuing other goals, slack effort and poor monitoring.
+
+**How do you find the socially optimal output with a negative externality of production?**
+Add the marginal external cost to marginal private cost to get MSC, then find the output where MSB equals MSC. Using MPC instead of MSC, or measuring the welfare-loss gap at the wrong output, are common slips.
+
+**Which OCR A Level Economics topics cover efficiency and market failure?**
+Productive and allocative efficiency, market failure and externalities are topics in Component 1, Microeconomics, of the OCR A Level Economics (H460) specification.
+
+**Is a monopoly always less efficient than perfect competition?**
+Not always. A monopoly usually sets price above marginal cost, but economies of scale may give it lower average costs and its profits may fund investment that brings dynamic efficiency. A strong answer weighs both sides and reaches a reasoned judgement.
+
 ## Official syllabus
 
 OCR, *A Level Economics (H460)*, Version 3.0 (June 2026), for first assessment in 2021. Component 1 Microeconomics: Productive and allocative efficiency, Market failure and Externalities.

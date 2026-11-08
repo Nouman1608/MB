@@ -25,9 +25,9 @@ syllabusTopics:
     subtopic: "a-energy-levels-in-atoms-and-line-spectra"
 description: "Condensed recall notes on the photoelectric effect, photon energy, wave-particle duality and energy levels for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -154,3 +154,16 @@ Line spectra are **discrete** precisely because energy levels are discrete — t
   <figcaption>Each spectral line is one photon whose energy equals a gap between two levels.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is an electron-volt?**
+One electron-volt is the energy gained by an electron accelerated through a potential difference of 1 V, equal to 1.60 × 10⁻¹⁹ J. It is a convenient energy unit at the atomic scale.
+
+**What evidence shows that electrons behave as waves?**
+Electrons passing through a thin graphite film produce diffraction rings. Diffraction is a wave property, so this shows electrons have a de Broglie wavelength λ = h/p.
+
+**Why are atomic energy levels negative?**
+Zero energy is defined as the electron being at infinite separation from the nucleus, so a bound electron has less energy than a free one and its energy levels are negative.
+
+**Why does waiting longer not cause photoelectric emission below the threshold frequency?**
+One photon transfers all its energy to one electron, and the energy is not accumulated over time. If a single photon's energy is less than the work function, no electron is emitted however long the light shines.

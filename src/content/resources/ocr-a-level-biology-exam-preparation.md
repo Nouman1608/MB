@@ -9,13 +9,13 @@ qualifications: ["a-level"]
 syllabusCodes: ["H420"]
 syllabusSeries: "Version 4.1 (April 2026), for first assessment in 2025"
 order: 3
-description: "How OCR A Level Biology H420's 37/37/26 paper weighting works, why Paper 3 is whole-specification and synoptic, where the separately reported Practical Endorsement fits, and a worked unfamiliar-data routine."
+description: "How OCR A Level Biology A (H420) is assessed: two 100-mark papers, a synoptic Paper 3, the separate Practical Endorsement and a routine for unfamiliar data."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 OCR A Level Biology A (H420) is linear and untiered, assessed by three examined components totalling
@@ -124,6 +124,23 @@ skills, techniques and data analysis are assessed within the written papers, so 
 need revising for those. 3. Because the papers routinely present unfamiliar organisms, studies and
 techniques and test the transfer of principles to them, which recall-based revision does not build.
 4. Naming the underlying biological principle before engaging with the specific unfamiliar material.
+
+## Frequently asked questions
+
+**How many exam papers are there in OCR A Level Biology A?**
+OCR A Level Biology A (H420) has three examined components totalling 270 marks. Paper 1 (Biological processes) and Paper 2 (Biological diversity) are each 2 hours 15 minutes and 100 marks, and Paper 3 (Unified Biology) is 1 hour 30 minutes and 70 marks.
+
+**How many practical activities are needed for the Practical Endorsement?**
+The Practical Endorsement requires a minimum of twelve practical activities. It is internally assessed and reported separately as Pass or Not Classified.
+
+**How much time is there per mark on Papers 1 and 2?**
+Each paper gives 135 minutes for 100 marks, which is a little over 1.3 minutes per mark. Practising complete papers to time helps because a slow start cannot be recovered at the end.
+
+**Is OCR A Level Biology A tiered?**
+No. H420 is a linear, untiered qualification, so every student sits the same three papers at the end of the course.
+
+**Which maths skills are tested in A Level Biology exams?**
+Calculations and statistical reasoning appear across the papers, including magnification, rates from gradients, percentage change, standard deviation and the interpretation of statistical tests. These are worth practising as a separate topic.
 
 *Written against OCR's own published "Assessment story: exploring our question papers" guide for A
 Level Biology A H420 (official OCR document, verified 2026-08-28). The data routine above is an

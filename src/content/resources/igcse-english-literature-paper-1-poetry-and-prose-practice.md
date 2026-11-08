@@ -12,13 +12,19 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-poetry-and-prose-0475"
-description: "Original exam-technique practice questions with full worked answers on Paper 1's format, the command word Explore, and how the four assessment objectives are marked, for Cambridge IGCSE English Literature (0475)."
+  - qualification: "igcse"
+    topic: "paper-1-poetry-and-prose-0475"
+    subtopic: "section-a-poetry-0475"
+  - qualification: "igcse"
+    topic: "paper-1-poetry-and-prose-0475"
+    subtopic: "section-b-prose-0475"
+description: "Original practice with worked answers on Cambridge IGCSE Literature in English 0475 Paper 1: format, the command word Explore and how AO1 to AO4 are marked."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description shortened to 140-160 characters and FAQ added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -175,3 +181,17 @@ discipline in practice sessions specifically, since a strong first
 answer that overruns is one of the most common ways marks are lost on
 this paper — not through poor textual knowledge, but through leaving
 too little time for the second response to be developed properly.
+
+## Frequently asked questions
+
+**Is Paper 1 compulsory for 0475?**
+Yes. Every candidate takes Paper 1 Poetry and Prose: 1 hour 30 minutes, 50 marks and 50% of the
+qualification, with one 25-mark question from Section A (Poetry) and one from Section B (Prose).
+
+**Can I take my set texts into Paper 1?**
+No. Set texts may not be taken into the exam room, although the relevant passages and poems are
+printed on the question paper.
+
+**Which assessment objectives are tested?**
+All four in every question: knowledge of the text (AO1), understanding of characters, relationships,
+situations and themes (AO2), the writer's methods and use of language (AO3), and personal response (AO4).

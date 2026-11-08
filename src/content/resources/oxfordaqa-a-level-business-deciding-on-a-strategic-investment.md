@@ -263,6 +263,23 @@ All three rely on forecast cash flows, which grow less reliable further ahead.
 - Test yourself: [deciding on a strategic investment practice questions](/resources/oxfordaqa-a-level-business-deciding-on-a-strategic-investment-practice/)
 - Find weak areas: [all free 10-minute diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**What do the square and circle mean on a decision tree?**
+A square is a decision point, where the business chooses which branch to take. A circle is a chance node, where the outcome depends on probabilities.
+
+**What are the strengths and weaknesses of payback, ARR and NPV?**
+Payback is quick and focuses on cash and risk but ignores cash after payback and profitability. ARR uses all cash flows and is easy to compare with an interest rate but ignores timing, while NPV allows for the time value of money but depends on the discount rate chosen.
+
+**Why is future money worth less than money today?**
+Money held now could be invested to earn a return, so a sum received in the future is worth less than the same sum today. NPV allows for this by discounting future cash flows.
+
+**How does business confidence affect investment?**
+When confidence is high, firms expect demand to grow and invest more readily. When it is low, they delay projects, even ones with a positive NPV, because they doubt the cash flow forecasts.
+
+**Which OxfordAQA 9725 paper tests strategic investment?**
+Unit 4: Business strategy examines all of section 3.4 of OxfordAQA International A-level Business (9725). It is a 1 hour 45 minute paper with 80 marks, worth 30% of the International A-level and built around two case studies.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. Published by OxfordAQA.

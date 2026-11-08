@@ -17,11 +17,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-language-and-literature-intertextuality"
 description: "Original IB DP Language and Literature individual oral practice: three passages, analysis questions, an oral opening and a full plan, with answers."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -239,6 +239,20 @@ reads as two separate commentaries.
 - [Printable checklist](/checklists/ib/ib-dp/language-a-language-and-literature/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Is the individual oral internally assessed in IB Language and Literature?**
+Yes. In IB DP Language A: Language and Literature the individual oral is the internally assessed component, taken at both SL and HL.
+
+**What is the most common mistake when choosing a global issue?**
+Stating a broad topic such as "water" or "the environment" instead of an angle you can argue. A strong angle names a mechanism you can trace in the language of both texts.
+
+**Should you talk about real-world facts in the individual oral?**
+Only when they explain a choice in the texts. The oral analyses how each text presents the issue, so facts or opinions about the issue that are not tied to a quotation earn little.
+
+**How do you keep the two texts balanced in the oral?**
+Give the literary extract and the non-literary extract similar time and depth, and compare them through the oral rather than only in the final sentence. Link each extract to its whole work or body of work with a named moment.
 
 ## Official syllabus
 

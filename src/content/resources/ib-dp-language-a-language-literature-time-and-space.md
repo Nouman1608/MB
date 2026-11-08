@@ -12,13 +12,13 @@ order: 2
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-a-language-and-literature-time-and-space"
-description: "How the context of production and reception shapes meaning across literary and non-literary texts -- one of three equally-weighted areas of exploration of IB Diploma Programme Language A: Language and Literature, first assessment 2021."
+description: "How context of production and reception shapes meaning in literary and non-literary texts: the Time and space area of IB DP Language A: Language and Literature."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide covers **Time and Space**, one of three areas of exploration
@@ -147,6 +147,17 @@ fluently to whatever text a Paper 1 or Paper 2 question presents.
   describing a text's original context.
 - Use this component's vocabulary directly when preparing the
   individual oral's discussion of a global issue.
+
+## Frequently asked questions
+
+**How many teaching hours does Time and space have in IB Language and Literature?**
+Time and space has 50 recommended teaching hours at SL and 80 at HL in IB DP Language A: Language and Literature, the same as each of the other two areas of exploration.
+
+**How do you apply Time and space to a literary text?**
+Identify an assumption the original readers would have held without question, about social class, gender roles, religion or everyday life, that a reader today is likely to notice, question or misread, and support it with a concrete textual example.
+
+**How do you apply Time and space to a non-literary text?**
+Ask how the same event or issue might be represented differently by different media, institutions or audiences at a different moment, considering assumed audience, acceptable tone and what goes without saying.
 
 ## Official syllabus
 

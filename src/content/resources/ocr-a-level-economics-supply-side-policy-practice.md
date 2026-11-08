@@ -144,6 +144,23 @@ Read the [study guide](/resources/ocr-a-level-economics-supply-side-policy/) and
 - Omitting units.
 - Ending with a summary that never picks a side.
 
+## Frequently asked questions
+
+**How do you show supply-side policy on a diagram?**
+Supply-side policy shifts long-run aggregate supply (LRAS) to the right on an AD/AS diagram. Shifting aggregate demand instead is a common error.
+
+**How do you calculate the effective marginal tax rate?**
+Take the extra earnings, subtract the tax paid on them, then subtract the benefit lost as a share of the net earnings. The share of the original extra earnings that is lost in total is the effective marginal rate.
+
+**What is the difference between a National Minimum Wage and a living wage?**
+A National Minimum Wage is a legal wage floor. A living wage is a rate linked to the estimated cost of living, which the government can promote and employers can choose to pay.
+
+**What are common mistakes in supply-side policy calculations?**
+Students often apply one tax rate to all income instead of using the bands, divide by the old population when working out per-head figures, forget that producers receive the subsidy, and omit units.
+
+**How should you evaluate supply-side policies in OCR A Level Economics?**
+Build a chain from each policy to its effect on an objective rather than listing policies, consider time lags and costs, and end with a judgement that picks a side rather than a summary.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ocr-a-level-economics-supply-side-policy-revision-notes/) and [study guide](/resources/ocr-a-level-economics-supply-side-policy/).

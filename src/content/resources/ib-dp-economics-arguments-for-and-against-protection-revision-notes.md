@@ -195,6 +195,20 @@ Paper 1 is an extended response paper with a choice of three questions, and calc
 - A conclusion that repeats the arguments and does not weigh them.
 - Naming an example without explaining its link to the question.
 
+## Frequently asked questions
+
+**What are the arguments for trade protection in IB DP Economics?**
+The IB DP Economics guide, sub-topic 4.3, lists protecting infant industries, national security, health and safety, environmental standards, anti-dumping, unfair competition, balance of payments correction, government revenue, protection of jobs and diversification for economically least developed countries.
+
+**What are the arguments against trade protection?**
+The guide lists misallocation of resources, retaliation, increased costs, higher prices, less choice, a lack of incentive for domestic firms to become more efficient, and reduced export competitiveness.
+
+**What is the difference between dumping and unfair competition?**
+Dumping is about the export price being lower than the cost of production or the exporter's home price. Unfair competition is about foreign producers gaining a cost advantage from government help, such as subsidies, or from weak labour and environmental rules.
+
+**Is protection justified because foreign producers are cheaper?**
+Not on its own. Trade follows comparative advantage, so a foreign producer being cheaper is not a reason for protection. Protection keeps resources in industries where the country has a comparative disadvantage.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization in February 2020. This page covers sub-topic 4.3 of Unit 4, The global economy.

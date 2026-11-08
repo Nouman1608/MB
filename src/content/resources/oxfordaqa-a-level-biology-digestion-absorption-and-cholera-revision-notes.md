@@ -257,6 +257,20 @@ Worked reminder: standard ORS group, mean duration of diarrhoea 70 hours; new OR
 - Giving the units wrongly in magnification: convert mm and micrometres before dividing.
 - One-sided ethics answers with no reason attached to each point.
 
+## Frequently asked questions
+
+**What is the difference between endopeptidases and exopeptidases?**
+Endopeptidases hydrolyse peptide bonds inside a polypeptide chain, making many more ends. Exopeptidases remove single amino acids or dipeptides from the ends, and membrane-bound dipeptidases hydrolyse dipeptides at the ileum surface.
+
+**What is the difference between a micelle and a chylomicron?**
+A micelle is formed from bile salts, fatty acids and monoglycerides and carries the products of lipid digestion to the epithelial surface. A chylomicron is a package of reassembled triglycerides with protein and phospholipid that leaves the cell and enters the lacteals.
+
+**What is the difference between egestion and excretion?**
+Egestion is the removal of undigested food as faeces. Excretion is the removal of waste made by metabolism.
+
+**How is the ileum adapted for absorption?**
+Folds, villi and microvilli give a very large surface area, the epithelium is one cell thick, and a dense capillary network keeps concentration gradients steep. Epithelial cells also have many mitochondria to supply ATP for active transport.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), Version 5.1, for International A-level exams May/June 2018 onwards, published by OxfordAQA. Sections 3.2.2.1 to 3.2.3.2. The current specification is on oxfordaqa.com.

@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "measurements-and-their-errors-oxfordaqa-alevel"
 description: "Original exam-style practice questions with full worked answers on SI units, uncertainty, error propagation and orders of magnitude."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -75,7 +75,7 @@ Related: [Measurements and Their Errors revision notes](/resources/oxfordaqa-a-l
 
 ## Answers
 
-**1.** Any three: **metre** — length; **kilogram** — mass; **second** — time; **ampere** — current; **kelvin** — temperature; **mole** — amount of substance; **candela** — luminous intensity [1] [1] [1].
+**1.** Any three of the six base units the specification uses: **metre** — length; **kilogram** — mass; **second** — time; **ampere** — current; **kelvin** — temperature; **mole** — amount of substance [1] [1] [1]. (The SI also has a seventh base unit, the candela, which this specification does not use.)
 
 **2.** N = kg m s⁻² [1]. J = kg m² s⁻² [1]. W = kg m² s⁻³ [1].
 
@@ -114,3 +114,17 @@ Related: [Measurements and Their Errors revision notes](/resources/oxfordaqa-a-l
 - Using the largest or smallest reading alone rather than half the range for repeated-reading uncertainty.
 - Quoting a calculated result to more significant figures than the least precise measurement justifies.
 - Forgetting that a cubed or squared quantity multiplies its percentage uncertainty by the power, then failing to add it to the other combined percentage uncertainties.
+
+## Frequently asked questions
+
+**Are these OxfordAQA past paper questions?**
+No. They are original questions written for revision and practice on section 3.1 of OxfordAQA International AS and A-level Physics (9630). They do not copy the exam's structure or mark tariffs, so use them alongside the official past papers.
+
+**Is measurements and their errors in the OxfordAQA International AS Physics content?**
+Yes. Section 3.1, Measurements and their errors, is part of the shared content in sections 3.1 to 3.5, so it applies at both International AS and International A-level.
+
+**What is the difference between repeatable and reproducible results?**
+A result is repeatable if the same method and operator give the same result again. It is reproducible if a different method or operator gives the same result.
+
+**How do you make an order-of-magnitude estimate in physics?**
+State your assumptions, use round numbers and give the answer to one significant figure. The marks are for a reasoned method, so write the assumptions down rather than leaving them unstated.

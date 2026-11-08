@@ -165,6 +165,20 @@ After 9 hours the number of bacteria is increasing at a rate of **180 bacteria p
 - Omitting units and direction in a rate-of-change interpretation.
 - Reporting only one of two roots when solving dy/dx = 0.
 
+## Frequently asked questions
+
+**How do you differentiate a product or fraction in Edexcel IAL Pure 1?**
+Expand the brackets or split the fraction into separate powers of x first, then differentiate term by term. The product and quotient rules are not part of Pure 1.
+
+**What do you need to show when differentiating from first principles?**
+Show the limit notation, expand and simplify, divide by h, and only then let h tend to 0. Setting h = 0 before dividing by h loses marks.
+
+**How do you find the equation of a curve from its gradient function?**
+Integrate the gradient function, include + c, then substitute the given point to find c and write the full equation of the curve.
+
+**Which sections of Edexcel IAL Pure 1 cover differentiation and integration?**
+Differentiation is sections 4.1 to 4.3 and integration is sections 5.1 to 5.2 of Unit P1: Pure Mathematics 1 in Pearson Edexcel International A Level Mathematics (YMA01).
+
 ## Next steps
 
 - Go back to the [revision notes](/resources/edexcel-ial-mathematics-differentiating-and-integrating-powers-of-x-gradients-revision-notes/) for any rule you missed.

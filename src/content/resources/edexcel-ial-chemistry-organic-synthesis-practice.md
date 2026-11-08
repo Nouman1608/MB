@@ -177,6 +177,23 @@ Use these values: C 12.0, H 1.0, N 14.0, O 16.0. Proton NMR shifts: alkyl CH abo
 - [Edexcel IAL Chemistry course hub](/boards/edexcel/a-level/chemistry/) for every other topic
 - Want live teaching? [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What do these Edexcel IAL Chemistry organic synthesis questions cover?**
+They cover Topic 20: Organic Synthesis, outcomes 20.1 to 20.5 with Core Practical 16, of the Pearson Edexcel International A Level Chemistry specification (YCH11). It is International A2 content in Unit 5.
+
+**What conditions must you give for a Grignard reaction?**
+Make the Grignard reagent from a halogenoalkane and magnesium in dry ether, react it in dry ether, then hydrolyse with dilute acid. Writing "ether" without "dry" is often not enough for the solvent mark.
+
+**How do you answer a route-planning question in organic synthesis?**
+Give the reagents and the conditions for every step, such as heating under reflux, distilling or using a sealed tube, and name each intermediate. Reagents with no conditions can lose marks.
+
+**How should you match control measures to hazards?**
+Each control must answer that substance's own hazard: no naked flames for a flammable liquid, a fume cupboard for harmful vapour, gloves and eye protection for a corrosive. Repeating "wear goggles" for every substance scores once at most.
+
+**What does a low, broad melting range show about a solid product?**
+It shows the sample is still impure. A pure solid melts sharply at the data value, while impurities lower the melting temperature and spread it over a range.
+
 ## Official syllabus
 
 Source: Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry, specification XCH11/YCH11, Issue 1, September 2017 (Pearson Education Limited). This set covers Topic 20: Organic Synthesis, outcomes 20.1 to 20.5, including Core Practical 16, in Unit 5.

@@ -219,6 +219,20 @@ For these reasons treatments for conditions such as Parkinson's disease often re
 - Saying the cerebellum controls "thinking" or the cerebrum controls "balance".
 - Answering B3.1g with only "it is unethical". Name a specific issue.
 
+## Frequently asked questions
+
+**How does the eye focus on a close object?**
+For a close object, the ciliary muscle shortens, the suspensory ligaments go loose and the lens becomes fatter and more curved, so light is bent more onto the retina. For a far object, the ligaments are under tension and the lens is slimmer.
+
+**What causes short-sightedness and how is it corrected?**
+In short-sightedness the eyeball is too long or the lens too strong, so light from distant objects focuses in front of the retina. A concave (diverging) lens corrects it, and laser surgery to reshape the cornea is another option.
+
+**What does the cerebellum do?**
+The cerebellum, at the back of the brain below the cerebrum, coordinates movement and muscle activity and maintains balance.
+
+**Why is the nervous system hard to treat when it is damaged?**
+Many neurones in the brain and spinal cord are not readily replaced, treatment can irreversibly damage surrounding tissue, and parts of the nervous system are hard to reach inside the skull and backbone. This is Higher Tier only content (B3.1h) in OCR GCSE Biology A (J247).
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Biology A (J247)*, Version 4.0 (August 2026), for first assessment in 2018: statements B3.1d to B3.1h.

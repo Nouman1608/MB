@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "algebra-cambridge-alevel-maths-2"
 description: "Study guide to Cambridge 9709 Paper 2 section 2.1 Algebra: the modulus function, polynomial division, and the factor and remainder theorems, fully worked."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -275,6 +275,23 @@ The quadratic factor can also be found by comparing coefficients instead of long
 - Dropping a missing power in long division, so the columns slip and every later line is wrong.
 - Stopping the division too early or too late: the remainder must have lower degree than the divisor.
 - Finding one factor of a cubic and then not factorising the quadratic quotient, so roots are missed.
+
+## Frequently asked questions
+
+**Why can't you always square both sides of a modulus equation?**
+If one side is an ordinary expression it may be negative, and a modulus can never equal a negative number. Squaring can then create false solutions, so solve both linear cases and check each in the original equation.
+
+**What does |x − a| mean on a number line?**
+|x − a| is the distance between x and a. So |x − a| < b means x is less than b away from a, which gives a − b < x < a + b.
+
+**What is the identity for polynomial division?**
+p(x) ≡ d(x) × q(x) + r(x), where q(x) is the quotient and the remainder r(x) has lower degree than the divisor d(x).
+
+**Is section 2.1 also in Cambridge 9709 Pure Mathematics 3?**
+Yes. The same outcomes open section 3.1 of Pure Mathematics 3, which adds partial fractions and the binomial expansion.
+
+**Where is the vertex of y = |ax + b|?**
+The vertex is on the x-axis at x = −b/a, where ax + b = 0. Putting it at x = b/a is a common sketching error.
 
 ## Where to go next
 

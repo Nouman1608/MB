@@ -182,6 +182,23 @@ An older classification, based on observable features, placed X and Y in one gen
 - Try [all free 10-minute diagnostics](/diagnostics/) to find other gaps.
 - [Book a free trial class](/trial/) for help from a teacher.
 
+## Frequently asked questions
+
+**What is the correct order of the taxonomic ranks for OCR A Level Biology?**
+From largest to smallest the eight ranks are domain, kingdom, phylum, class, order, family, genus and species. Leaving out domain or swapping two ranks is one of the most common ways to lose a mark on this topic.
+
+**How should a binomial name be written in an exam answer?**
+Write the genus with a capital letter and the species with a lower-case letter, and underline each word when handwriting because you cannot use italics. Giving both words a capital letter loses the mark.
+
+**What is the advantage of the binomial system that examiners want?**
+The key advantage is that the name is universal: scientists in every country use the same name for the same species, avoiding confusion between common names. Saying only that it is "in Latin" does not explain why it is useful.
+
+**How do you use sequence differences to decide which organisms are most closely related?**
+The pair with the fewest differences in their DNA or protein sequences is most closely related, and you should state that fewer differences mean a more recent common ancestor. If asked for percentage identity, subtract the differences from the total before dividing.
+
+**Which part of the H420 specification do these questions cover?**
+They cover OCR A Level Biology A (H420) section 4.2.2 (a) to (d): the taxonomic hierarchy, binomial names, the five kingdoms, the three domains, molecular evidence and phylogeny.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420) specification*, Version 4.1 (April 2026), first assessment 2025, section 4.2.2(a) to (d).

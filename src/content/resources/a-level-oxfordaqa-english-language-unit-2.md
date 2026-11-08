@@ -13,13 +13,19 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-language-and-society-9670"
-description: "Language and social groups -- text analysis and academic writing -- the full content of Unit 2 for OxfordAQA International AS and A-Level English Language (9670), the second and final unit of the International AS."
+  - qualification: "a-level"
+    topic: "unit-2-language-and-society-9670"
+    subtopic: "section-a-language-and-social-groups-texts-9670"
+  - qualification: "a-level"
+    topic: "unit-2-language-and-society-9670"
+    subtopic: "section-b-language-and-social-groups-writing-9670"
+description: "OxfordAQA International AS English Language 9670 Unit 2 Language and Society: language and social groups, text analysis and academic writing, with the format."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide covers **Unit 2 Language and Society**, the second of two
@@ -115,6 +121,18 @@ LINKING TO SECTION B: these observations about power, status and
 A weak answer would describe the interview's content (what job, what
 questions) without naming the specific language features doing the
 social work the specification asks students to identify.
+
+## Frequently asked questions
+
+**How long is OxfordAQA 9670 Unit 2?**
+2 hours for 50 marks: 50% of the International AS and 20% of the International A-level.
+
+**Is there a choice of questions?**
+No. Section A is one compulsory text analysis and Section B one compulsory writing task, 25 marks each.
+
+**What is the theme of Unit 2?**
+Language and social groups: how language varies with and represents different groups.
+
 
 ## Quick revision checklist
 

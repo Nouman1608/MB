@@ -13,13 +13,13 @@ order: 4
 syllabusTopics:
   - qualification: "a-level"
     topic: "operations-management-as-cambridge-alevel-business"
-description: "Original exam-style practice questions with full worked answers on inventory management, re-order levels, buffer inventory, just-in-time, capacity utilisation and productivity for Cambridge AS & A Level Business (9609) Topic 4."
+description: "Practice questions with worked answers on inventory, re-order levels, buffer inventory, JIT, capacity utilisation and productivity for Cambridge 9609 Topic 4."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-24
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -141,6 +141,20 @@ Work through these in order. Show your working on every calculation, and write t
 - Use the [Cambridge A Level Business hub](/boards/cambridge/a-level/business/) and the [printable checklist](/checklists/cambridge/a-level/business/).
 - Take one of the free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**How do you calculate the re-order level?**
+Re-order level = (daily usage × lead time in days) + buffer inventory. Forgetting to add the buffer inventory is one of the most common errors.
+
+**How do you calculate capacity utilisation?**
+Capacity utilisation = current output ÷ maximum possible output × 100. Calculating it the wrong way round gives an answer above 100% for a business with spare capacity.
+
+**Do fixed costs rise when output increases?**
+No. Fixed costs stay the same as output changes, so higher capacity utilisation spreads them over more units and lowers the fixed cost per unit. Treating fixed costs as if they rise with output is a frequent mistake.
+
+**How should you answer a just-in-time question?**
+Link each feature of JIT to its effect on cost, quality or risk, and in an evaluation reach a justified decision rather than only listing advantages and disadvantages.
 
 ## Official syllabus
 

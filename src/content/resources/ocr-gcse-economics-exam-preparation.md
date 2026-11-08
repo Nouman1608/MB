@@ -9,13 +9,13 @@ qualifications: ["gcse"]
 syllabusCodes: ["J205"]
 syllabusSeries: "Version 2.0 (June 2026), for first assessment in 2019"
 order: 3
-description: "Why both components of OCR GCSE Economics J205 carry synoptic assessment, how to pace an 80-mark 90-minute paper, diagram discipline, and a worked chain-of-reasoning routine."
+description: "How synoptic assessment on both OCR GCSE Economics (J205) papers shapes revision: pacing 80 marks in 90 minutes, labelled diagrams and a reasoning routine."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 OCR GCSE (9-1) Economics (J205) is untiered and linear, with two compulsory components of equal size:
@@ -122,6 +122,20 @@ fund the extended ones. 3. Only a change in the good's own price produces a move
 any other change -- income, costs, related goods, expectations -- shifts the curve. 4. The final
 judgement and the qualification: what the answer depends on, stated explicitly rather than left
 implied.
+
+## Frequently asked questions
+
+**How is OCR GCSE Economics (J205) assessed?**
+J205 is untiered and linear, with two compulsory components: Component 01, Introduction to economics, and Component 02, National and international economics. Each paper lasts 1 hour 30 minutes, is worth 80 marks and counts for 50% of the GCSE.
+
+**What does synoptic assessment mean in GCSE Economics?**
+Synoptic assessment means questions can draw on the whole course and ask you to connect different topics, such as how a change in one market affects employment or prices more widely. In J205 both components include synoptic assessment.
+
+**How much time should you spend per mark in OCR GCSE Economics?**
+Each paper gives 90 minutes for 80 marks, which is about 1.1 minutes per mark. Keeping low-tariff answers short protects time for the extended questions at the end.
+
+**What is the most common analytical error in GCSE Economics?**
+Confusing a shift of a curve with a movement along it. Only a change in the good's own price causes a movement along the curve; any other change, such as income, costs, related goods or expectations, shifts it.
 
 *Written against OCR's own live GCSE (9-1) Economics (J205) specification-at-a-glance page (official
 OCR page, verified 2026-08-28). The reasoning routine above is an original model written for this

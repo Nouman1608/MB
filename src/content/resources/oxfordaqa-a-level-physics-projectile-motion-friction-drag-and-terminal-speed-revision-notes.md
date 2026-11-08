@@ -225,6 +225,20 @@ Take g = 9.81 m s⁻². Answer without looking, then check.
 </figure>
 
 
+## Frequently asked questions
+
+**Why is the horizontal velocity of a projectile constant?**
+Without air resistance, no horizontal force acts, so the horizontal acceleration is zero. Only the weight acts, giving a uniform vertical acceleration of 9.81 m s⁻² downwards.
+
+**What is terminal speed?**
+Terminal speed is reached when the drag force has risen to equal the driving force or weight, so the resultant force is zero. The object then stops accelerating and moves at a constant speed.
+
+**What is the difference between drag and lift?**
+Drag acts against the direction the object moves through a fluid. Lift acts at right angles to the fluid flow, for example when an aerofoil deflects air downwards and the air pushes the wing up.
+
+**What limits the maximum speed of a vehicle?**
+A vehicle reaches its maximum speed when drag equals the driving force. More engine force, a streamlined shape, a smaller frontal area or thinner air raise the maximum speed.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630) specification, version 4.4, for exams May/June 2020 onwards, published by OxfordAQA. Section 3.2.4, Projectile motion.

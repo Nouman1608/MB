@@ -299,6 +299,20 @@ A hotter object and a larger surface area both increase the rate of emission.
 - Describing a comparison experiment without keeping it fair: equal rod size, equal distance and equal starting temperature.
 - Saying the temperature rises during melting or boiling. Energy is transferred, but the temperature stays constant until the change is complete.
 
+## Frequently asked questions
+
+**What is the difference between heat and temperature?**
+Heat is energy transferred, while temperature is linked to the average kinetic energy of the particles.
+
+**What is the difference between conduction and convection?**
+In conduction, energy passes between neighbouring particles that stay in place. In convection, the heated fluid itself moves, carrying energy with it.
+
+**Which surfaces are good emitters and absorbers of radiation?**
+Black surfaces are good at both absorbing and emitting radiation, while shiny surfaces are poor at both.
+
+**How does a higher temperature increase gas pressure?**
+Faster particles hit the container walls more often and with more force. A full answer mentions both the frequency and the force of the collisions.
+
 ## Official syllabus
 
 Cambridge O Level Physics 5054 syllabus for examination in 2026, 2027 and 2028, Cambridge International, topic 2 Thermal physics.

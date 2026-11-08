@@ -195,6 +195,20 @@ Both angles are below 2π, so both sectors exist [1]
 - Sketching a shifted curve in the wrong direction, or not labelling exact values.
 - Mixing up the period of sin(ax) with that of tan(ax).
 
+## Frequently asked questions
+
+**Why can using the sine rule to find an angle give the wrong answer?**
+sin B = k has two solutions between 0° and 180°, B and 180° − B. If the angle could be obtuse, such as the angle opposite the longest side, giving only the acute value loses marks.
+
+**Should angles be in degrees or radians for arc length and sector area?**
+The formulae s = rθ and A = ½r²θ only work with θ in radians. Using degrees in these formulae is a common mistake.
+
+**What is the difference between the area of a sector and a segment?**
+A sector is bounded by two radii and an arc, with area ½r²θ. A segment is cut off by a chord, so its area is the sector area minus the area of the triangle formed by the two radii.
+
+**What should be included in the perimeter of a sector?**
+The perimeter of a sector is the arc length plus both radii. For a segment it is the arc length plus the chord.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/edexcel-ial-mathematics-triangle-trigonometry-radians-and-trigonometric-graphs-revision-notes/).

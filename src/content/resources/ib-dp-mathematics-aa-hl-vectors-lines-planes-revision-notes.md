@@ -34,11 +34,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-3-18"
 description: "Condensed IB DP Maths AA HL vectors, lines and planes notes: formula table, method steps, key distinctions and a quick self-test with answers."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 These revision notes condense the vectors, lines and planes unit for the final weeks before the exam. For full explanations and longer worked examples, go back to the [vectors, lines and planes study guide](/resources/ib-dp-mathematics-aa-hl-vectors-lines-planes/).
@@ -229,6 +229,20 @@ Properties to quote: v · w = w · v and v · v = |v|²; v × w = −w × v and 
 - Forgetting the ½ for a triangle area from a vector product.
 - Describing a "no solution" case for three planes without saying whether any planes are parallel.
 - Decimals on Paper 1 where exact answers such as 5√3/2 or 2/√42 are expected.
+
+## Frequently asked questions
+
+**What is the difference between the scalar product and the vector product?**
+The scalar product v · w is a number, and it is zero when the vectors are perpendicular. The vector product v × w is a vector, perpendicular to both, and it is zero when the vectors are parallel.
+
+**How do you find the equation of a plane through three points?**
+Find two vectors in the plane, AB and AC, and take n = AB × AC as the normal. Then d = a · n gives the Cartesian equation ax + by + cz = d; check it with the other points.
+
+**How do you find the line where two planes meet?**
+The direction is n₁ × n₂. Find one point by setting one coordinate to 0 and solving the other two equations, then write r = point + t(direction).
+
+**How do you find the speed from a vector line equation in kinematics?**
+For r = a + tb, a is the starting position and b is the velocity, so the speed is |b|. Substitute t to find the position at a given time.
 
 ## Official syllabus
 

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Statement of cash flows (YAC11) -- Revision Notes"
+title: "Edexcel International A Level Accounting: Statement of cash flows (YAC11) -- Revision Notes"
 seoTitle: "Edexcel IAL Accounting Cash Flow Statement Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"
@@ -246,6 +246,20 @@ Expenses paid          = expenses (excluding depreciation) adjusted for accruals
 - Omitting the reconciliation of the net change to opening and closing cash and cash equivalents.
 - Answering a liquidity question with ratios alone and no reference to the cash flows.
 - Recommending ways to improve liquidity without stating any drawback.
+
+## Frequently asked questions
+
+**What are the three headings in an IAS 7 statement of cash flows?**
+Every cash flow is shown under operating activities, investing activities or financing activities. The net change is then reconciled to opening and closing cash and cash equivalents, which must agree with the statement of financial position.
+
+**Is an increase in trade receivables added or deducted in the indirect method?**
+An increase in inventory or trade receivables is deducted because cash is tied up, and a fall is added. For trade payables the signs reverse: an increase is added because the company has held on to cash it owes.
+
+**Where do interest and dividends go in a statement of cash flows?**
+IAS 7 gives a choice: interest paid may be shown under operating or financing activities, and dividends paid under operating or financing activities. Interest and dividends received may go under operating or investing activities.
+
+**How can a company improve its liquidity?**
+It can collect debts faster, hold less inventory, negotiate longer credit from suppliers, raise finance or sell surplus assets, lease rather than buy, or reduce dividends. Each has a drawback, such as losing customers or supplier goodwill, which an answer should state.
 
 ## Official syllabus
 

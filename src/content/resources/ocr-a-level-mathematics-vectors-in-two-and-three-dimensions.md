@@ -263,6 +263,20 @@ Parallel to i: the j-component of v is zero.
 - Proving collinearity with only one vector. You need two vectors with a common point, or equal ratios of components.
 - Giving a direction for a 3D vector. The specification excludes it.
 
+## Frequently asked questions
+
+**How do you find a unit vector?**
+Divide the vector by its magnitude: â = a/|a|. For p = 4i + 4j − 7k, |p| = 9, so the unit vector is (4i + 4j − 7k)/9. Dividing by the largest component instead is an error.
+
+**How do you prove that three points are collinear using vectors?**
+Show that two vectors joining the points are multiples of each other and share a common point, then state the conclusion in words. One vector on its own is not enough.
+
+**How do you find a force that keeps a particle in equilibrium?**
+The resultant of all the forces must be the zero vector, so the missing force is the negative of the sum of the other forces.
+
+**How do you find the distance between two points using vectors?**
+Find the displacement vector →AB = b − a, then its magnitude. In 3D this is √(x² + y² + z²) of the components of →AB.
+
 ## Next steps
 
 Work through the [revision notes](/resources/ocr-a-level-mathematics-vectors-in-two-and-three-dimensions-revision-notes/), then the [practice questions](/resources/ocr-a-level-mathematics-vectors-in-two-and-three-dimensions-practice/). The wider [pure mathematics practice](/resources/ocr-a-level-mathematics-pure-practice/) and [exam preparation page](/resources/ocr-a-level-mathematics-exam-preparation/) cover mixed questions.

@@ -11,11 +11,11 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Computer Science"]
 syllabusSeries: "First assessment 2027"
 order: 2
-description: "The two syllabus themes of IB Diploma Programme Computer Science -- Concepts in computer science and Computational thinking and problem-solving -- with every numbered sub-topic and recommended teaching hours, for first assessment 2027."
+description: "Full syllabus map for IB DP Computer Science, first assessment 2027: Theme A and Theme B sub-topics, the case study and recommended teaching hours at SL and HL."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -123,6 +123,20 @@ habit through the course is alternating revision sessions between the
 two themes rather than completing one before starting the other, since
 the computational thinking process from B.1 is meant to be applied when
 learning A.1-A.4 just as much as when writing programs in B.2-B.4.
+
+## Frequently asked questions
+
+**What are the two themes in IB DP Computer Science?**
+Theme A, Concepts of computer science, covers how computing systems work. Theme B, Computational thinking and problem-solving, covers using computing systems to solve real-world problems.
+
+**Which IB Computer Science topics are HL only?**
+B.4 Abstract data types is HL only, with 23 hours at HL and none at SL. Other sub-topics such as machine learning and OOP have extra depth at HL.
+
+**How many hours is the IB Computer Science case study?**
+The case study has 15 hours of recommended study time at SL and 30 hours at HL, and it is assessed on Paper 1.
+
+**What is the largest sub-topic in IB Computer Science at SL?**
+B.2 Programming is the single largest sub-topic at SL, with 40 teaching hours, rising to 42 hours at HL.
 
 ## Official syllabus
 

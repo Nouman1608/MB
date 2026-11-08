@@ -27,9 +27,9 @@ description: "Study guide to Cambridge 9699 Sociology 5.1-5.3: theories of educa
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers sections 5.1 (Theories about the role of education), 5.2 (Education and social mobility) and 5.3 (Influences on the curriculum) of the Cambridge International AS & A Level Sociology (9699) syllabus for examination in 2024, 2025 and 2026. Together they make up topic 5, Education and society. This topic is assessed in Paper 3 – Education, which is an A Level paper, not an AS Level paper.
@@ -164,6 +164,20 @@ The **social construction of knowledge** means that what counts as valuable know
 - In a quotation question, giving arguments that agree with the quotation when the task asks for arguments against it.
 
 Next, read the [revision notes](/resources/a-level-sociology-9699-education-society-and-the-curriculum-revision-notes/), then try the [practice questions](/resources/a-level-sociology-9699-education-society-and-the-curriculum-practice/). For Paper 4 essays, see the [Globalisation, Media and Religion study guide](/resources/a-level-cambridge-sociology-globalisation-media-religion/).
+
+## Frequently asked questions
+
+**How is Cambridge 9699 Sociology Paper 3 structured?**
+Paper 3 is 1 hour 15 minutes, 50 marks and 21% of the A Level. You answer four compulsory questions, ending with a 26-mark essay.
+
+**What is the correspondence principle?**
+Bowles and Gintis, in Schooling in Capitalist America (1976), argued that school life mirrors work life, so schooling prepares pupils for their place in the capitalist workforce.
+
+**What did Willis find in Learning to Labour?**
+Willis (1977) studied 12 working-class boys in a Midlands school who formed a counter-school culture. His work shows resistance, even though class reproduction still happens.
+
+**What is an ethnocentric curriculum?**
+An ethnocentric curriculum gives priority to the culture, history and language of one ethnic group.
 
 ## Official syllabus
 

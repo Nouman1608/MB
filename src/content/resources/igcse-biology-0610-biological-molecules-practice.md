@@ -18,11 +18,11 @@ syllabusTopics:
     subtopic: "biological-molecules-cambridge-igcse-biology"
 description: "Original practice questions with marked answers on Cambridge IGCSE Biology 0610 biological molecules: elements, food tests and DNA base pairing."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -163,6 +163,20 @@ Revise first with the [study guide](/resources/igcse-biology-0610-biological-mol
 - See the [0610 course hub](/boards/cambridge/igcse/biology/) and the [printable checklist](/checklists/cambridge/igcse/biology/).
 - Take the free 10-minute 0610 diagnostic: [Core](/practice/0610/diagnostic/core/) or [Extended](/practice/0610/diagnostic/extended/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Is DNA structure in the Core or Extended part of Cambridge IGCSE Biology 0610?**
+The structure of DNA (outcome 4.1.4) is Supplement content, so it is Extended only; the elements, building blocks and food tests are Core.
+
+**How do you describe a colour change in a food test to get full marks?**
+Give both the starting and final colours, such as orange-brown to blue-black for starch; giving only the end colour, or writing "black", limits the marks.
+
+**How do you calculate base percentages in DNA?**
+A equals T and C equals G, so double the given base's percentage, subtract from 100, and halve the remainder to get each of the other two bases; show the working.
+
+**How do you read DCPIP results for vitamin C?**
+The smaller the volume of juice needed to decolourise the same volume of DCPIP, the more vitamin C the juice contains; reading it the other way round is a common mistake.
 
 ## Official syllabus
 

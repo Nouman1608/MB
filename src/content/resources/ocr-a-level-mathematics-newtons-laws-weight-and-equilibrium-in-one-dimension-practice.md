@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "mechanics-ocr-alevel-maths"
     subtopic: "forces-and-newtons-laws-ocr-alevel-maths"
-description: "Original worked practice questions on Newton's laws, weight, normal reaction and straight-line motion for OCR A Level Mathematics A (H240)."
+description: "Original worked practice questions on Newton's laws, weight, normal reaction, equilibrium and straight-line motion for OCR A Level Mathematics A (H240)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -149,6 +149,20 @@ These questions follow OCR A Level Mathematics A (H240), Version 3.1 (August 202
 - Swapping sin and cos when resolving along or across a slope.
 - Rounding g to 10 or rounding early, so the final digits are wrong.
 - Leaving out the model statement when asked, such as light string or no relative motion.
+
+## Frequently asked questions
+
+**Is the normal reaction in a lift equal to mg?**
+Only when the lift is at rest or moving at constant speed. When it accelerates upwards R is greater than mg, and when it accelerates downwards R is less than mg, so use F = ma vertically.
+
+**What force do you use in F = ma?**
+F is the resultant force in the direction of the acceleration, not a single force. Include every force, such as the weight in a vertical equation, with the correct signs.
+
+**Are weight and the normal reaction a Newton's third law pair?**
+No. A third-law pair acts on two different bodies and the forces are of the same type. Weight and the normal reaction both act on one body.
+
+**What value of g should you use in OCR A Level Mathematics mechanics?**
+Use the value given in the question, normally g = 9.8 m s⁻². Rounding g to 10, or rounding early, changes the final digits of the answer.
 
 ## Next steps
 

@@ -9,13 +9,13 @@ qualifications: ["gcse"]
 syllabusCodes: ["J204"]
 syllabusSeries: "Version 2.0 (January 2026), for first assessment in 2019"
 order: 3
-description: "Why Component 02 of OCR GCSE Business J204 carries synoptic assessment, how to work an 80-mark 90-minute paper, using case-study context in every answer, and a worked calculate-then-interpret routine."
+description: "How to prepare for OCR GCSE Business J204: two 80-mark papers, synoptic Component 02, using the case study, and a calculate-then-interpret routine."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 OCR GCSE (9-1) Business (J204) is untiered and linear, assessed by two compulsory components of equal
@@ -119,6 +119,23 @@ mark (90 minutes for 80 marks), so low-tariff questions must be answered briefly
 the higher-tariff ones. 3. What it sells, how big it is, and what pressure or constraint it faces --
 at least one of which should appear in every developed answer. 4. The interpretation: what the
 calculated figure means for this business and for the decision the question is about.
+
+## Frequently asked questions
+
+**How many papers are there in OCR GCSE Business J204?**
+OCR GCSE (9-1) Business (J204) has two compulsory components of equal size: Component 01 (Business activity, marketing and people) and Component 02 (Operations, finance and influences on business). Each is 1 hour 30 minutes, worth 80 marks and 50% of the qualification.
+
+**Is OCR GCSE Business tiered?**
+No. J204 is untiered and linear, so every student sits the same two papers at the end of the course.
+
+**What does synoptic assessment mean in OCR GCSE Business?**
+OCR marks Component 02 as carrying synoptic assessment, which means it can draw on Component 01's content as well as its own. Marketing and people topics should therefore stay in your revision after Component 01 has been sat.
+
+**How long should you spend on each mark in OCR GCSE Business?**
+Each paper gives 90 minutes for 80 marks, which is a little over a minute per mark. Low-tariff questions need brief answers so there is time left for the higher-tariff ones.
+
+**How do you answer an evaluation question in GCSE Business?**
+Finish with a clear recommendation, give the main reason for it, and name the factor it depends on. Listing advantages and disadvantages without reaching a decision leaves marks behind.
 
 *Written against OCR's own live GCSE (9-1) Business (J204) specification-at-a-glance page (official
 OCR page, verified 2026-08-28). The calculation routine above is an original model written for this

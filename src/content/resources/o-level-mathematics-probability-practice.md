@@ -12,13 +12,13 @@ order: 8
 syllabusTopics:
   - qualification: "o-level"
     topic: "probability"
-description: "Original exam-style questions with full worked answers on single events, relative frequency, selections without replacement, Venn diagrams and expected frequency, for Cambridge O Level Mathematics 4024."
+description: "Original Cambridge O Level Mathematics 4024 probability questions on relative frequency, picks without replacement, Venn diagrams and tree diagrams."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-24
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -118,6 +118,23 @@ In the real exam, a long item like this is marked step by step, so show every pr
 - Adding probabilities along a branch when they should be multiplied, or multiplying where you should add the routes.
 - Listing only one order in "one of each colour" questions.
 - Leaving an answer as a ratio or giving a probability above 1.
+
+## Frequently asked questions
+
+**How do you handle "without replacement" in a probability question?**
+Reduce the total by one for the second pick, and reduce the count of the colour already taken. Keeping the same denominator on the second pick is a common error.
+
+**How do you find the probability of "at least one"?**
+Use the complement: find the probability of none, then subtract it from 1. For example, at least one red is 1 minus the probability that all are blue.
+
+**Why does the total for two dice have 36 outcomes, not 11?**
+There are 11 possible totals, but they are not equally likely. A possibility diagram shows 36 equally likely outcomes, so 36 is the denominator.
+
+**When do you add and when do you multiply probabilities?**
+Multiply along a branch of a tree diagram for one route, and add the probabilities of different routes that give the outcome you want. In "one of each colour" questions, remember both orders.
+
+**How should a probability answer be written in Cambridge O Level Mathematics?**
+Give a fraction, decimal or percentage between 0 and 1. A ratio such as 5:2, or a probability above 1, does not earn the mark.
 
 ## Next steps
 

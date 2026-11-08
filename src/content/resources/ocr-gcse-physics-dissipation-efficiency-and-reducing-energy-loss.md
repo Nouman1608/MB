@@ -235,6 +235,23 @@ The specification suggests investigating rate of cooling with insulated and non-
 - Saying insulation "stops" energy transfer. It slows it.
 - Saying thicker walls with high conductivity cool slowly. Thickness and conductivity must both be considered.
 
+## Frequently asked questions
+
+**What does dissipation mean in physics?**
+Energy is dissipated when it spreads into the surroundings, mainly into thermal stores of the air, walls or ground, where it is far less useful. The total energy is conserved; it is just stored in less useful ways.
+
+**How is energy wasted in an electric motor?**
+Some energy is stored thermally in the wires and windings because of their resistance, friction warms the bearings and gears, and some energy leaves as sound.
+
+**What does the power rating of an appliance tell you?**
+The power rating tells you how much energy the appliance transfers from the supply each second, in watts. A higher rating means the energy stores change faster, but it does not tell you how efficient the appliance is.
+
+**How does loft insulation work?**
+Loft insulation is a thick layer of fibres that trap air in small pockets. Air is a poor conductor and cannot circulate in the pockets, so conduction and convection are both reduced.
+
+**How can you increase the efficiency of a device?**
+Reduce the energy stored in unwanted ways: lubricate moving parts, add insulation, streamline shapes, use thicker wires with lower resistance, or switch to a better design such as an LED lamp.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), for first assessment in 2018. Topic P7.2, Power and efficiency, statements P7.2a to P7.2g.

@@ -202,6 +202,20 @@ Multiply by x(x + 5): 60(x + 5) - 60x = x(x + 5)
 - Keeping a negative length, width or speed in a context answer instead of rejecting it with a reason.
 - Giving x when the question asked for a perimeter, a cost or a time.
 
+## Frequently asked questions
+
+**Why must a quadratic equal zero before you factorise?**
+Factorising works because if two numbers multiply to give 0, at least one of them is 0. If the right-hand side is not zero, such as (x − 3)(x + 8) = 10, you must expand, collect every term on one side and factorise again.
+
+**Can you divide both sides of x² = 7x by x?**
+No. Dividing by x loses the solution x = 0. Rearrange to x² − 7x = 0 and factorise as x(x − 7) = 0, which gives both solutions.
+
+**What does "hence" mean in a quadratic question?**
+"Hence" means you must use the result from the previous part, such as a factorisation or a completed square, to answer the next part. Using a different method can lose the method marks.
+
+**What should you do with a negative solution in a context question?**
+Reject it with a reason if the quantity cannot be negative, such as a length, width or speed, and then answer what the question actually asks, such as a perimeter, cost or time.
+
 ## Next steps
 
 - Go back over any weak method in the [quadratic equations revision notes](/resources/edexcel-igcse-maths-4ma1-quadratic-equations-revision-notes/).

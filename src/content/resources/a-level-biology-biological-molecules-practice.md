@@ -13,13 +13,13 @@ order: 5
 syllabusTopics:
   - qualification: "a-level"
     topic: "biological-molecules-cambridge-alevel-biology"
-description: "Original exam-style practice questions with full worked answers on biochemical tests, carbohydrates, lipids, proteins and water for Cambridge International AS & A Level Biology (9700) Topic 2."
+description: "Original exam-style questions with worked answers on food tests, carbohydrates, lipids, proteins and water for Cambridge AS & A Level Biology 9700 Topic 2."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-06
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -125,3 +125,17 @@ notes for this topic identify as the single highest-value skill across Biologica
 practising further questions from past papers, check your own answers specifically for this pairing:
 a correct fact about bonding or structure that is never connected to what it explains functionally is
 unlikely to gain full marks, even where the underlying knowledge is accurate.
+
+## Frequently asked questions
+
+**What does Cambridge 9700 Topic 2 Biological molecules cover?**
+It covers testing for biological molecules, carbohydrates and lipids, proteins, and water. These practice questions draw on all four areas.
+
+**How should you describe the result of a food test in an exam?**
+Name the specific colour or observable change for a positive result, such as a purple colour in the biuret test, rather than writing "it changes colour".
+
+**What habit earns the most marks on biological molecules questions?**
+Link each structural detail to its functional or observable consequence. A structural fact stated on its own usually earns less credit than one tied to what it does.
+
+**Are these questions taken from Cambridge past papers?**
+No. They are original exam-style questions written for practice, with full worked answers. Use them alongside official past papers.

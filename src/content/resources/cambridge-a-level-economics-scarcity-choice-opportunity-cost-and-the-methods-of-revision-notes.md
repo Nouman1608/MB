@@ -264,6 +264,20 @@ Periods differ by industry. They are defined by what can change, not by months o
 - Treating the short run as a fixed number of months.
 - Stopping at description in an evaluation question and offering no judgement.
 
+## Frequently asked questions
+
+**Why is scarcity called the fundamental economic problem?**
+Scarcity is the gap between unlimited wants and limited resources. Because of it, individuals, firms and governments must choose, and every economy must decide what, how and for whom to produce.
+
+**What is the difference between scarcity and a shortage?**
+A shortage is a market event in which buyers want more than sellers supply at the current price. Scarcity is permanent and applies to everyone, even when a market clears.
+
+**What do the command words define, explain and evaluate ask for?**
+Define asks for a precise meaning in one or two lines. Explain asks for a reason linked to the point in the question. Evaluate asks you to weigh strengths and limits and reach a supported judgement.
+
+**What is the difference between the long run and the very long run?**
+In the long run all factors of production can vary. In the very long run technology and the quality of factors can also change.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, sections 1.1 and 1.2 (Cambridge University Press & Assessment).

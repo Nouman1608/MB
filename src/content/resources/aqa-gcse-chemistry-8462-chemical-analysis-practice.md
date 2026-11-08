@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "chemical-analysis-8462"
 description: "Eleven original AQA GCSE Chemistry 8462 Chemical analysis questions on purity, Rf values, gas and ion tests and flame emission, with marked answers."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,6 +160,23 @@ Learn the content first in the [study guide](/resources/aqa-gcse-chemistry-8462-
 - Acidifying a halide test with hydrochloric acid.
 - Identifying a compound from one test when two are needed to separate calcium, magnesium and aluminium.
 - Forgetting to scale a diluted sample's concentration back up.
+
+## Frequently asked questions
+
+**Is any of Chemical analysis Higher tier only in AQA GCSE Chemistry 8462?**
+No. Topic 8 Chemical analysis is examined on Paper 2 at Foundation and Higher tier, and no part of it is Higher tier only. Some practice questions draw on Required practicals 6 and 7.
+
+**Where should chromatography distances be measured from?**
+Measure from the origin line, not the bottom of the paper. Rf values have no units and can never be above 1, so a larger value means the fraction was written upside down.
+
+**Why does "red" lose marks in flame test answers?**
+Lithium and calcium both give red-type flames, so you need the precise colour words: crimson for lithium and orange-red for calcium. "Red" alone is usually not enough.
+
+**What detail is needed when describing a precipitate?**
+State the colour of the precipitate, because the colour identifies the ion. Writing "a precipitate forms" without the colour does not earn the mark.
+
+**How do you use melting point data to show a substance is impure?**
+Give two separate pieces of evidence, such as melting below the known value and over a range of temperatures, and quote the numbers. A pure substance melts sharply at its known value.
 
 ## Next steps
 

@@ -34,11 +34,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-3-13"
 description: "12 original IB Maths AI HL questions on radians, the unit circle, matrix transformations and vectors, with mark-by-mark worked answers."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -222,6 +222,20 @@ AB · AC = −2 + 4 − 2 = 0, so angle BAC = 90° [1]
 - Read the [AI exam preparation guide](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Should IB Maths AI HL trigonometry answers be in degrees or radians?**
+HL papers assume radians unless a question says otherwise, so use radians by default and switch to degrees only when the question asks for them. Check your GDC mode before every trigonometry calculation.
+
+**What syllabus sections do these IB Maths AI HL practice questions cover?**
+They cover sections 3.7–3.13 of the IB Maths AI guide: radians, arcs and sectors, the unit circle and the ambiguous case of the sine rule, matrix transformations, vectors, motion with constant and variable velocity, and the scalar and vector products. Every question is HL only.
+
+**Do you need to show working for a degree and radian conversion?**
+Yes. Write the conversion, such as multiplying by 180/π, before the answer. A bare value with no conversion shown can lose the method mark.
+
+**In which order do you multiply matrices for a composite transformation?**
+Multiply in reverse order, with the first transformation on the right. If transformation A is followed by B, the single matrix is BA.
 
 ## Official syllabus
 

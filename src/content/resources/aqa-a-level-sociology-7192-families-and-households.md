@@ -20,9 +20,9 @@ description: "Study guide to AQA A-level Sociology 7192 Families and Households:
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
-reviewedDate: 2026-10-09
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers Families and Households for AQA A-level Sociology (7192), as set out in the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). The topic is section 4.2.2 of the A-level content (the specification-at-a-glance list also shows it as 3.2.2). It is assessed in Paper 2: Topics in Sociology, Section A, where it is one of the four option 1 topics.
@@ -142,6 +142,23 @@ Divorce rose sharply after the Divorce Reform Act 1969 came into force in 1971. 
 - Giving one side only on contested policy or migration debates.
 
 Related: [Methods in Context](/resources/a-level-sociology-methods-in-context/), [education](/resources/a-level-aqa-sociology-role-of-education-and-differential-achievement/), [Crime and Deviance](/resources/a-level-aqa-sociology-crime-and-deviance/), [course structure](/resources/a-level-sociology-course-structure/).
+
+## Frequently asked questions
+
+**What did Murdock argue about the nuclear family?**
+Murdock (1949) studied 250 societies and argued the nuclear family is universal because it performs four functions: sexual, reproductive, economic and educational. Parsons, by contrast, gave two irreducible functions.
+
+**What is the march of progress view of domestic labour?**
+Young and Willmott (1973) argued in *The Symmetrical Family* that conjugal roles were becoming more similar. Oakley (1974) criticised their measure, which counted a husband as helping if he did a task at least once a week.
+
+**Is childhood disappearing?**
+Postman (1982) argued that television removed the information hierarchy between adults and children, so childhood is disappearing, and Palmer (2006) described a "toxic childhood". The march-of-progress view replies that children are better cared for than ever.
+
+**Why is the UK population ageing?**
+Lower fertility and longer lives raise the average age. Fertility has been below the replacement level of about 2.1 children per woman since the 1970s, while death rates have fallen.
+
+**What is the pure relationship?**
+Giddens (1992) described the pure relationship as one that lasts only as long as both partners are satisfied, part of late-modern views of family diversity in AQA 7192.
 
 ## Official syllabus
 

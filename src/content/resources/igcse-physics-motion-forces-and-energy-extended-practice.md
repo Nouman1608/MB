@@ -28,11 +28,11 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "motion-forces-and-energy-cambridge-igcse-physics"
     subtopic: "pressure-cambridge-igcse-physics"
-description: "Original exam-style questions with full worked answers on the resultant of two vectors at right angles, impulse and force as rate of change of momentum, conservation of momentum, kinetic and gravitational potential energy, pressure in a liquid and deceleration with F = ma, for Cambridge IGCSE Physics (0625) Extended candidates."
+description: "Original Cambridge IGCSE Physics 0625 Extended questions on vectors at right angles, impulse, momentum conservation, energy and liquid pressure, with answers."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
@@ -104,3 +104,17 @@ After each answer there is a common mistake to avoid.
 - Forgetting to square the speed in ½mv².
 - Leaving out atmospheric pressure when a question asks for the total pressure at a depth.
 - Dropping the minus sign for a deceleration, or giving a force without its direction.
+
+## Frequently asked questions
+
+**What are common mistakes in IGCSE Physics motion and forces questions?**
+Frequent slips include adding perpendicular velocities or forces as if they were in a straight line, leaving the direction out of momentum and velocity answers, and forgetting to square the speed in ½mv².
+
+**How do you combine two vectors at right angles?**
+Use Pythagoras: the size of the resultant is the square root of the sum of the squares of the two vectors. Adding them as if they acted along one line gives the wrong answer.
+
+**What is the difference between pressure at a depth and total pressure?**
+The pressure due to a liquid at a depth is found with Δp = ρgΔh. If a question asks for the total pressure, add atmospheric pressure to that value.
+
+**Is momentum Extended content in IGCSE Physics 0625?**
+The questions on this page are marked Extended, which is Supplement content of the Cambridge IGCSE Physics 0625 syllabus. Each worked answer is followed by a common mistake to avoid.

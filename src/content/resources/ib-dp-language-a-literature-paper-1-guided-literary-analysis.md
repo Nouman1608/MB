@@ -17,11 +17,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-time-space"
 description: "Study guide to IB DP Literature Paper 1: annotate an unseen poem or prose passage, plan, structure and time a guided literary analysis."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This study guide teaches the method for **Paper 1: guided literary analysis** in IB Diploma
@@ -255,6 +255,20 @@ For technique vocabulary by form, see the
 [Readers, writers and texts revision notes](/resources/ib-dp-language-a-literature-readers-writers-texts-revision-notes/).
 For how texts connect across the course, see the
 [Intertextuality study guide](/resources/ib-dp-language-a-literature-intertextuality/).
+
+## Frequently asked questions
+
+**What does Paper 1 involve in IB Language A: Literature?**
+Paper 1 of IB DP Language A: Literature is a guided analysis of unseen literary passages, such as a poem or a prose extract, each with a guiding question pointing to one aspect of the text.
+
+**How should you annotate an unseen literary passage?**
+Read the guiding question first, then read the passage three times: once for literal meaning, once for form and style notes, and once to form a thesis. Annotate for effect, not just labels.
+
+**How should HL students divide time between two passages?**
+If your paper asks you to write about more than one passage in the 2 hours 15 minutes, a workable split is about 65 minutes per analysis with 5 minutes spare. Finish the first analysis, conclusion included, before starting the second.
+
+**What counts as evidence of form in poetry and drama?**
+In a poem, line breaks, stanza breaks, line length and sound are evidence; in drama, stage directions are evidence. Discussing only word choice leaves this out.
 
 ## Official syllabus
 

@@ -362,6 +362,20 @@ Check by estimating: 4.5 ÷ 0.15 asks how many 0.15s fit in 4.5. Ten of them mak
 
 Work through the [practice questions](/resources/ocr-gcse-mathematics-fractions-and-decimal-fractions-practice/), then use the [revision notes](/resources/ocr-gcse-mathematics-fractions-and-decimal-fractions-revision-notes/) for quick recall.
 
+## Frequently asked questions
+
+**How do you convert a mixed number to an improper fraction?**
+Multiply the whole number by the denominator, add the numerator, and put the result over the same denominator. For example, 4 3/7 = (4 × 7 + 3)/7 = 31/7.
+
+**How do you find a fraction of a quantity?**
+Divide the quantity by the denominator, then multiply by the numerator. For example, 3/8 of £6.40 is £6.40 ÷ 8 × 3 = £2.40.
+
+**How do you convert a recurring decimal to a fraction?**
+Call the decimal x, multiply by a power of 10 so the repeating parts line up, and subtract to remove them. For 0.303030..., 100x − x = 30, so x = 30/99 = 10/33; this skill is Higher tier only in OCR GCSE Mathematics J560.
+
+**Why should you convert mixed numbers before multiplying them?**
+Multiplying the whole numbers and the fractions separately gives the wrong answer. Convert to improper fractions first: 2 1/3 × 1 4/5 = 7/3 × 9/5 = 21/5 = 4 1/5.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Mathematics J560 specification*, Version 2.1 (August 2026), for first assessment in 2017, sections 2.01 Fractions and 2.02 Decimal fractions. Published by OCR (Oxford Cambridge and RSA).

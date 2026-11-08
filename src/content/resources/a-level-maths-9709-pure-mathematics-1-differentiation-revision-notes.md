@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "differentiation-cambridge-alevel-maths-1"
 description: "Condensed revision notes for Cambridge 9709 Paper 1 differentiation: power and chain rules, tangents, connected rates, stationary points and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -226,6 +226,23 @@ The x³ coefficient is negative, so the curve comes down from the top left, touc
 - Forgetting the y-coordinate when the question asks for the coordinates of the stationary point.
 - On "show that f is increasing", completing the square correctly but not concluding that f′(x) > 0 for all x.
 - Giving the answer to a max/min problem as the x-value when the question asked for the maximum area or volume.
+
+## Frequently asked questions
+
+**Is differentiation from first principles required in Cambridge 9709 Paper 1?**
+No. Section 1.7 only needs the informal idea that chord gradients approach the tangent gradient as the second point moves closer. Formal first principles and points of inflexion are not included.
+
+**Is the chain rule given in the 9709 formula list?**
+No. MF19 gives d/dx (xⁿ) = nxⁿ⁻¹, but the chain rule dy/dx = (dy/du) × (du/dx) must be learned.
+
+**How do you differentiate a fraction such as (x³ − 2)/x²?**
+Split it into separate powers of x first, here x − 2x⁻², and then differentiate each term. Differentiating the top and bottom separately is wrong.
+
+**What sign should a decreasing rate of change have?**
+A quantity that is decreasing has a negative rate, so give the rate as a negative number or say "decreasing at" the positive value.
+
+**What is the difference between a stationary point and a turning point?**
+A stationary point is anywhere the gradient is zero. Only a maximum or minimum is a turning point; if the gradient keeps the same sign on both sides, the stationary point is neither.
 
 ## Related pages
 

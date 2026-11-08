@@ -295,6 +295,20 @@ Displacement from t = 0 to 4 = (4 × 8 + 8) − 0 = 40 m
 
 Move to the [revision notes](/resources/oxfordaqa-a-level-mathematics-kinematics-in-a-straight-line-constant-and-variable-revision-notes/) for a compact summary and self-test, then try the [practice questions](/resources/oxfordaqa-a-level-mathematics-kinematics-in-a-straight-line-constant-and-variable-practice/).
 
+## Frequently asked questions
+
+**When can you not use the suvat equations?**
+When the acceleration varies, for example when a depends on t. Then use calculus: v = ds/dt and a = dv/dt, or integrate to go the other way.
+
+**What is the difference between distance and displacement?**
+Distance is the total length of path travelled and is never negative. Displacement is the change in position, with a sign that shows direction.
+
+**Is acceleration zero at the top of a vertical throw?**
+No. At the highest point v = 0, but the acceleration is still 9.8 m/s² downwards due to gravity.
+
+**Which OxfordAQA 9660 sections cover kinematics in a straight line?**
+Sections M1.1 and M1.2 of the OxfordAQA 9660 specification cover straight-line kinematics, with M1.2 using calculus from Unit P1 only.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2, published by OxfordAQA. Sections M1.1 and M1.2 of Unit PSM1.

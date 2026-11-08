@@ -18,11 +18,11 @@ syllabusTopics:
     subtopic: "sketching-curves"
 description: "Condensed recall notes on linear, quadratic, cubic, reciprocal and exponential graphs, and graphical solutions for Cambridge O Level Mathematics."
 author: "muhammad-ghazali-siddiqui"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -242,3 +242,19 @@ point.
   <figcaption>The three shifting rules applied to y = x².</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How can you tell the shape of a graph from its equation in O Level Mathematics?**
+Look at the highest power of x. A power of 1 gives a straight line, x² gives a parabola, x³ gives a cubic, k/x gives a hyperbola with asymptotes along both axes, and ka^x gives an exponential curve.
+
+**How do you solve an equation using a graph that is already drawn?**
+Rearrange the new equation so that one side matches the drawn curve; the other side is the line you must add. The solutions are the x-coordinates of the points where the curve and the line intersect.
+
+**How do you find the gradient of a curve at a point?**
+Draw a tangent to the curve at that point and calculate the gradient of the tangent. In context the gradient is a rate of change, such as speed on a distance–time graph.
+
+**What does the area under a speed–time graph represent?**
+The area under a speed–time graph is the distance travelled, while the gradient is the acceleration. Cambridge O Level Mathematics 4024 only requires areas made of linear sections, such as triangles and trapezia.
+
+**Are graph transformations in the Cambridge O Level Mathematics 4024 syllabus?**
+No. These notes treat transformations such as f(x) + a and f(x + a) as extension material, not a 4024 learning outcome.

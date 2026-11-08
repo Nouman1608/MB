@@ -15,9 +15,9 @@ syllabusTopics:
     topic: "chemistry-of-the-atmosphere-8462"
 description: "Twelve original AQA GCSE Chemistry 8462 atmosphere questions on the early atmosphere, greenhouse gases, climate and fuel pollutants, with marked answers."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -162,6 +162,23 @@ Evaluate which theory is better supported by this evidence. **[5]**
 - [Printable checklist](/checklists/aqa/gcse/chemistry/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Are these AQA GCSE Chemistry 8462 atmosphere questions from real past papers?**
+No. They are original questions written for revision and do not reproduce past-paper questions or the exam's exact structure. Use them alongside the official past papers from AQA or your school.
+
+**Is any of Chemistry of the atmosphere Higher tier only?**
+No. No statement in Topic 9 is Higher tier only, so every question on this topic suits both Foundation and Higher tier. The topic is examined on Paper 2.
+
+**How should you describe the greenhouse effect to get the marks?**
+Refer to short wavelength radiation from the Sun passing through the atmosphere and long wavelength radiation from the Earth's surface being absorbed by greenhouse gases. Answers that only say gases "trap heat" miss the wavelength language.
+
+**How do you calculate a percentage increase in carbon dioxide levels?**
+Subtract the starting value from the final value, divide the increase by the starting value, then multiply by 100. A common mistake is dividing by the final value instead.
+
+**What should an "evaluate" answer on this topic include?**
+It should weigh points for and against, such as benefits and limitations of an action, and finish with a clear judgement. Ending without a judgement is a common way to lose marks.
 
 ## Official syllabus
 

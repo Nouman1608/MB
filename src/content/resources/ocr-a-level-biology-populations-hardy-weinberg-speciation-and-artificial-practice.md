@@ -148,6 +148,23 @@ These questions cover section 6.1.2(e) to (h) of the OCR A Level Biology A (H420
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What is the most common mistake in Hardy-Weinberg calculations?**
+Taking the frequency of the recessive phenotype as q instead of q². The recessive phenotype frequency equals q², so take the square root to find q, and remember that the dominant phenotype is p² + 2pq.
+
+**How do you find an allele frequency from genotype counts?**
+Count gene copies, not individuals: each individual carries two copies of the gene, so divide the number of copies of the allele by twice the number of individuals.
+
+**Is a genetic bottleneck a form of natural selection?**
+No. Bottlenecks and the founder effect are forms of genetic drift, where allele frequencies change by chance rather than because an allele gives an advantage. Describing them as selection is a common error.
+
+**What must a speciation answer include?**
+Explain how an isolating mechanism stops gene flow between populations, and finish with the populations no longer being able to interbreed to produce fertile offspring. Avoid writing that "the population adapted" as if individuals change in response to need.
+
+**Which specification section do these questions cover?**
+They cover OCR A Level Biology A (H420) section 6.1.2 (e) to (h): factors affecting evolution, the Hardy-Weinberg principle, speciation and artificial selection.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420)* specification, Version 4.1 (April 2026), for first assessment in 2025: section 6.1.2(e) to (h), Patterns of inheritance (stabilising and directional selection, genetic drift, the genetic bottleneck and founder effect, Hardy-Weinberg, isolating mechanisms and artificial selection).

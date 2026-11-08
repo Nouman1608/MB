@@ -9,9 +9,9 @@ syllabusCodes: ["MYP Sciences"]
 order: 1
 description: "Condensed recall notes on the four assessment criteria and the eAssessment task structure for IB Middle Years Programme Sciences."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-08-26
 featured: false
 ---
@@ -82,6 +82,20 @@ The investigative skills built through criteria B and C -- formulating a researc
 6. Name one DP-level assessment component that MYP Sciences's investigation-skills criteria (B and C) prepare students for.
 
 **Answers:** 1. Knowing and understanding; Inquiring and designing; Processing and evaluating; Reflecting on the impacts of science. 2. The investigation-skills task (50 marks), covering inquiry, design, data collection and evaluation. 3. No — the same four criteria apply regardless of whether a school teaches discrete sciences or an integrated course. 4. Reflecting on the real-life implications of science — social, ethical and environmental. 5. Because identifying and controlling variables explicitly underpins whether the data obtained genuinely isolates the effect being investigated, which determines how strongly a conclusion drawn from that data can be trusted. 6. The DP science internal assessment (an individually designed, carried out and written-up investigation, worth 20% of the DP science grade).
+
+## Frequently asked questions
+
+**What are the four IB MYP Sciences assessment criteria?**
+The four criteria are A Knowing and understanding, B Inquiring and designing, C Processing and evaluating, and D Reflecting on the impacts of science. Each is scored from 0 to 8, so the subject total runs from 0 to 32.
+
+**How many marks is each task in the MYP Sciences eAssessment?**
+The eAssessment has three tasks: Knowing and understanding (criterion A, 25 marks), Investigation skills (criteria B and C, 50 marks) and Applying science (criterion D, 25 marks). The investigation-skills task is worth half the total.
+
+**Which subjects can I take the MYP Sciences eAssessment in?**
+The MYP Sciences eAssessment is available in biology, chemistry, physics or integrated sciences. The same four criteria apply whether a school teaches discrete sciences or an integrated course.
+
+**How does MYP Sciences prepare students for DP sciences?**
+The investigation skills built through criteria B and C, such as formulating a research question, designing a fair method and evaluating data, map onto the internal assessment students complete in DP Biology, Chemistry or Physics.
 
 ## Official syllabus
 

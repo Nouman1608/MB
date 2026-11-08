@@ -223,6 +223,20 @@ ICT has changed service: websites give information and support at any hour; e-co
 - Saying "good customer service is polite" without a specific method such as product knowledge or post-sales support.
 - Giving an evaluation with no judgement: weigh both sides, then decide and justify.
 
+## Frequently asked questions
+
+**What is the difference between job production and flow production?**
+Job production makes one item at a time to order, which is flexible but slow with a high unit cost. Flow production makes large volumes of identical items continuously, giving a low unit cost but needing costly machinery and high demand.
+
+**What are the three factors in choosing a supplier for AQA GCSE Business (8132)?**
+Price, quality and reliability. Analyse them together for the business in the case, because the cheapest supplier may deliver faulty goods or arrive late.
+
+**How do you calculate a defect rate?**
+Divide the number of faulty items by the number of items produced and multiply by 100. For example, 45 faulty out of 1,500 gives a defect rate of 3%.
+
+**Are stock control charts in the AQA GCSE Business specification?**
+No. Section 3.3.2 covers just in time and just in case stock management, but stock control charts are not required.
+
 ## Official syllabus
 
 AQA GCSE Business (8132) specification, first teaching September 2017, published by AQA: section 3.3 Business operations (3.3.1 to 3.3.4).

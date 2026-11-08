@@ -202,6 +202,20 @@ Judgement: Sallow has a strong case, as the terms leave most risk with the large
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Where do students usually lose marks on partnership accounts questions?**
+Common losses are charging a partner's loan interest in the appropriation account, subtracting interest on drawings, applying salaries or interest on capital where there is no agreement, and using one profit-sharing ratio for the whole year when a partner joins part-way through.
+
+**What should I do if profit is too small to cover partners' salaries and interest?**
+Credit the salaries and interest in full and record a residual loss shared in the profit-sharing ratio. Reducing the salaries instead is a common mistake.
+
+**How should I treat an incoming partner when dealing with revaluation and goodwill created?**
+Revaluation profit and goodwill created belong to the old partners in the old ratio, so the incoming partner receives no share of them. Giving the new partner a share is a common error.
+
+**Which section of OxfordAQA International A-level Accounting 9615 do these questions cover?**
+Section 3.2.5 Partnership accounts, which is International A-level only. It covers appropriation, current accounts, admission and retirement; dissolution of partnerships is not examined.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards, published by OxfordAQA: section 3.2.5, Partnership accounts.

@@ -134,6 +134,20 @@ These questions follow the IB *Mathematics guide (for use from September 2020/Ja
 - Matching the wrong sides in similar triangles.
 - Describing a tessellation without the 360° argument.
 
+## Frequently asked questions
+
+**Is a quadrilateral with four equal sides a square?**
+Not necessarily. Equal sides show a rhombus; to show it is a square you also need a right angle, for example by showing that the gradients of two adjacent sides multiply to −1. Checking sides only is a common error.
+
+**How do you reflect a point in the line x = k?**
+Use (x, y) → (2k − x, y), so the image is the same perpendicular distance on the other side of the line. Simply changing the sign of the x-coordinate only works for the y-axis, where k = 0.
+
+**What should you include in a congruence proof?**
+List the matching equal sides or angles with a reason for each, then state the condition used, such as SSS or SAS, before your conclusion. Starting from the conclusion, or not naming the condition, weakens the proof.
+
+**What is a common mistake with the distance formula?**
+Forgetting to square both differences before adding them. The distance between two points is √[(x₂ − x₁)² + (y₂ − y₁)²].
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/ib-myp-mathematics-coordinate-geometry-transformations-similarity-and-revision-notes/).

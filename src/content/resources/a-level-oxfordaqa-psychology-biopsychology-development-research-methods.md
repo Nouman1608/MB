@@ -13,7 +13,16 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-biopsychology-development-9685"
-description: "Biopsychology, cognitive development, and research methods 1 -- the full content of Unit 2 for OxfordAQA International AS and A-Level Psychology (9685), the second and final unit of the International AS."
+  - qualification: "a-level"
+    topic: "unit-2-biopsychology-development-9685"
+    subtopic: "biopsychology-9685"
+  - qualification: "a-level"
+    topic: "unit-2-biopsychology-development-9685"
+    subtopic: "cognitive-development-9685"
+  - qualification: "a-level"
+    topic: "unit-2-biopsychology-development-9685"
+    subtopic: "research-methods-1-9685"
+description: "Study guide to Unit 2 of OxfordAQA International AS and A-Level Psychology (9685): biopsychology, cognitive development and research methods 1."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -93,6 +102,89 @@ knowledge for Research Methods 2 at A2, so building genuinely secure
 foundations now, including being able to design a simple study from
 scratch, pays off across the whole qualification.
 
+## 3.2.1 Biopsychology
+
+**The nervous system** divides into the **central nervous system** (brain and spinal cord) and the
+**peripheral nervous system**, which itself has a **somatic** division (voluntary movement and sensory
+information to and from the skin and muscles) and an **autonomic** division (involuntary control of
+internal organs), with sympathetic (arousing) and parasympathetic (calming) branches.
+
+**Neurons and synaptic transmission.** **Sensory neurons** carry impulses from receptors to the
+CNS, **relay neurons** connect neurons within the CNS, and **motor neurons** carry impulses to muscles
+and glands. When an impulse reaches the presynaptic terminal, **neurotransmitters** are released from
+vesicles, diffuse across the synaptic gap and bind to receptors on the postsynaptic neuron. An
+**excitatory** neurotransmitter makes the postsynaptic neuron more likely to fire; an **inhibitory** one
+makes it less likely. Whether the neuron fires depends on the summed effect of all its inputs.
+
+**The endocrine system** uses glands (such as the pituitary, the "master gland", and the adrenal
+glands) to release **hormones** into the bloodstream. In the **fight-or-flight response**, the
+amygdala detects a threat and signals the hypothalamus, which activates the sympathetic nervous
+system; the adrenal medulla releases **adrenaline**, raising heart rate and breathing, diverting blood
+to the muscles and releasing glucose for energy. The parasympathetic branch restores the resting
+state when the threat passes.
+
+**Localisation and lateralisation.** Specific functions are localised: the **motor** area (frontal
+lobe), **somatosensory** area (parietal lobe), **visual** area (occipital lobe), **auditory** area
+(temporal lobe) and the language centres — **Broca's area** (speech production, usually left frontal
+lobe) and **Wernicke's area** (language comprehension, usually left temporal lobe). **Hemispheric
+lateralisation** means some functions are mainly in one hemisphere, as language usually is in the
+left. **Split-brain research** (Sperry) studied patients whose corpus callosum had been cut: an object
+shown only to the right visual field (processed by the left hemisphere) could be named, while one
+shown only to the left visual field could not be named but could be picked out by touch with the left
+hand. **Plasticity** is the brain's ability to change with experience; after trauma, **functional
+recovery** can occur as undamaged areas take over lost functions, through mechanisms such as axonal
+sprouting and the recruitment of similar areas in the opposite hemisphere.
+
+## 3.2.2 Cognitive development
+
+**Piaget's theory.** Children build **schemas**; new information is either **assimilated** into an
+existing schema or forces **accommodation** (changing the schema), and the drive to restore balance
+between the two is **equilibration**. The stages are **sensorimotor** (0–2 years; **object
+permanence** develops), **pre-operational** (2–7; **egocentrism**, failure of **conservation** and of
+**class inclusion**), **concrete operational** (7–11; conservation achieved, logic applied to concrete
+objects) and **formal operational** (11+; abstract reasoning).
+
+**Baillargeon's violation-of-expectation research** challenged the timing of object permanence. In the
+"carrot" study (Baillargeon and DeVos, 1991), young infants watched tall and short carrots pass behind
+a screen with a window; infants looked longer at the "impossible" event in which a tall carrot failed
+to appear in the window, suggesting they understood the hidden carrot still existed months earlier
+than Piaget claimed.
+
+**Vygotsky's theory** sees development as social and cultural. The **zone of proximal development**
+is the gap between what a child can do alone and what they can do with help from a more knowledgeable
+other; **scaffolding** is the support given within that zone, gradually withdrawn as the child becomes
+competent.
+
+**Social cognition.** **Theory of mind** is the understanding that other people have beliefs and
+intentions different from our own. In the **Sally-Anne study** (Baron-Cohen, Leslie and Frith, 1985),
+children watched Sally leave a marble in a basket and Anne move it to a box while she was away; asked
+where Sally would look, most typically developing children and children with Down syndrome correctly
+said the basket, while most autistic children said the box — evidence of a difficulty with false-belief
+understanding. The **mirror neuron system**, first identified in monkeys by Rizzolatti and colleagues,
+fires both when an individual acts and when it watches another perform the same action, and has been
+proposed as a biological basis for understanding others' intentions.
+
+## 3.2.3 Research methods 1
+
+- **Experiments:** laboratory (high control, low ecological validity), field (natural setting, less
+  control) and natural (the IV varies naturally, so participants cannot be randomly allocated).
+- **Observation techniques:** naturalistic or controlled; covert or overt; participant or
+  non-participant — each trading realism against control and ethics.
+- **Self-report:** questionnaires (large samples, but social desirability bias) and interviews
+  (structured or unstructured, richer data but interviewer effects).
+- **Correlations** measure the relationship between two co-variables without manipulation and cannot
+  show cause.
+- **Scientific processes:** aims; directional and non-directional hypotheses; sampling (random,
+  opportunity, volunteer, systematic, stratified) and its implications for bias and generalisation;
+  **pilot studies** to check procedures; designs (repeated measures, independent groups, matched
+  pairs) with **random allocation** and **counterbalancing**; controlling extraneous variables and
+  **demand characteristics**; ethics (consent, deception, right to withdraw, protection from harm,
+  confidentiality) and how to deal with each.
+- **Data handling:** quantitative and qualitative data; mean, median, mode, range and **standard
+  deviation**; tables, bar charts, histograms and scattergrams; **normal** distributions (symmetrical,
+  mean = median = mode) and **skewed** distributions (positive skew: mean above median; negative skew:
+  mean below median).
+
 ## Common mistakes
 
 Confusing the central and peripheral nervous systems, or forgetting
@@ -147,6 +239,20 @@ and one limitation of each.
 stating one implication (bias or generalisability) of using it.
 - List the ethical guidelines for psychological research and be ready
 to apply them to a novel study description.
+
+## Frequently asked questions
+
+**How is Unit 2 of OxfordAQA International A-Level Psychology 9685 assessed?**
+Unit 2 is assessed by a single 1 hour 30 minute written exam worth 90 marks. Biopsychology, cognitive development and research methods 1 are each compulsory and assessed in a dedicated 30-mark section.
+
+**What is the difference between Piaget's and Vygotsky's theories of cognitive development?**
+Piaget frames development as an internal, stage-based process driven by schemas and equilibration. Vygotsky frames it as socially and culturally driven, with the zone of proximal development and scaffolding from a more knowledgeable other.
+
+**What did the Sally-Anne study show?**
+In the Sally-Anne study (Baron-Cohen, Leslie and Frith, 1985), most typically developing children and children with Down syndrome said Sally would look in the basket, while most autistic children said the box. This was taken as evidence of a difficulty with false-belief understanding.
+
+**Can a correlation show cause and effect?**
+No. A correlation measures the relationship between two co-variables without manipulating an independent variable, so a third variable could explain both. Strong answers name a specific, plausible third variable.
 
 ## Related resources
 

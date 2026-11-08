@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "human-resource-management-as-cambridge-alevel-business"
 description: "Condensed revision notes on recruitment, motivation and management for Cambridge AS & A Level Business Topic 2 Human resource management (9609)."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Related: [Topic 2 study guide](/resources/a-level-business-human-resource-management/)
@@ -259,3 +259,17 @@ Everything revised here forms the foundation for Topic 7 (Human resource managem
 extends organisational structure, communication and leadership in greater depth — keeping this AS
 content genuinely secure, rather than revised once and forgotten, pays off directly for students
 continuing beyond AS Level.
+
+## Frequently asked questions
+
+**What is the difference between redundancy and dismissal?**
+Redundancy, voluntary or involuntary, happens when the role itself disappears. Dismissal, fair or unfair, happens when an individual is removed for cause. Telling the two apart is a frequently tested distinction.
+
+**What are the stages of recruitment and selection?**
+Job analysis, job description and person specification, advertising, shortlisting, interviewing and selection.
+
+**What does labour turnover show?**
+Labour turnover is the proportion of staff leaving over a period. High turnover raises recruitment and training costs and disrupts continuity, while very low turnover can signal blocked promotion or a lack of fresh ideas.
+
+**What is a paternalistic management style?**
+A paternalistic manager acts in what they judge to be employees' best interests, more like a parent than an equal. It is one of the four styles in Cambridge 9609 Topic 2, alongside autocratic, democratic and laissez-faire.

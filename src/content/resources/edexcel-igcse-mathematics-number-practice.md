@@ -14,12 +14,12 @@ syllabusTopics:
     topic: "numbers-and-the-number-system-edexcel-igcse-maths"
 description: "Original exam-style practice questions with full worked answers on fractions, ratio, percentages, standard form and bounds."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 updatedDate: 2026-09-28
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -140,3 +140,17 @@ consistently catch out candidates who apply the same "both upper" or
 - Using 0.18 rather than 0.82 as the depreciation multiplier.
 - Using the lower bound of both numbers when dividing.
 - Not simplifying the fraction fully.
+
+## Frequently asked questions
+
+**Why does an 8% increase followed by an 8% decrease not return to the start?**
+The decrease is calculated on the new, larger value, so the amount taken off is bigger than the amount added. The final value ends up below the original.
+
+**How do you find the lower bound of a division?**
+Divide the lower bound of the numerator by the upper bound of the denominator. Using the lower bound of both numbers is a common error.
+
+**What multiplier do you use for an 18% depreciation?**
+Use 0.82, because each year the value is 100% − 18% = 82% of the year before. Using 0.18 gives the amount lost, not the value remaining.
+
+**Which number topics are Higher tier only in Edexcel IGCSE Maths 4MA1?**
+On this page, finding the bounds of a quotient and converting a recurring decimal to a fraction are marked Higher tier only, because the 4MA1 specification lists that content for the Higher tier.

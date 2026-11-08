@@ -155,6 +155,20 @@ Test yourself with the [schizophrenia practice questions](/resources/oxfordaqa-a
 
 For deeper explanations and worked paragraphs, return to the [Schizophrenia study guide](/resources/oxfordaqa-a-level-psychology-9685-schizophrenia/). Reliability and validity as methods ideas are in [Research methods 2](/resources/oxfordaqa-a-level-psychology-9685-research-methods-2/). For whole-course strategy, see the [9685 exam preparation guide](/resources/oxfordaqa-a-level-psychology-exam-preparation/).
 
+## Frequently asked questions
+
+**What is avolition?**
+Avolition is a severe loss of motivation to start and keep up goal-directed activity, such as work, study or personal hygiene. It is a negative symptom of schizophrenia.
+
+**What did Hilker et al. (2018) find about twin concordance for schizophrenia?**
+They reported concordance of 33% for identical (MZ) twins and 7% for non-identical (DZ) twins, which suggests a genetic role but shows environment also matters.
+
+**How did Davis et al. (1991) revise the dopamine hypothesis?**
+They proposed low dopamine activity in the prefrontal cortex, causing negative symptoms, alongside high mesolimbic dopamine activity, causing positive symptoms.
+
+**What is the difference between a hallucination and a delusion?**
+A hallucination is a perception with no external stimulus, such as hearing voices. A delusion is a firmly held false belief, such as a belief in persecution.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Psychology (9685) specification, Version 3.1 (International A-level exams May/June 2020 onwards), section 3.3.2 Schizophrenia; Unit 3 details in section 2.3.

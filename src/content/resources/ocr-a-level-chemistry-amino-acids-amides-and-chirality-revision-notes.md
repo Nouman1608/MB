@@ -260,6 +260,20 @@ Compare **whole** groups, not just the atom attached. CH₂CH₃ and CH₂CH₂C
 </figure>
 
 
+## Frequently asked questions
+
+**What is the difference between a primary and a secondary amide?**
+In a primary amide, RCONH₂, the amide nitrogen is bonded to one carbon. In a secondary amide, RCONHR′, it is bonded to two carbons; count carbons on the nitrogen, not hydrogens.
+
+**What is a chiral centre?**
+A chiral centre is a carbon atom bonded to four different atoms or groups. If any two groups are identical, the mirror image is the same molecule.
+
+**How do you define optical isomers?**
+Optical isomers are a pair of non-superimposable mirror images about a chiral centre. Leaving out "non-superimposable" loses the mark.
+
+**Does glycine have optical isomers?**
+No. Glycine has R = H, so its α-carbon has two hydrogen atoms and no chiral centre. The other α-amino acids do have a chiral centre.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 6.2.2 Amino acids, amides and chirality, learning outcomes (a) to (d). Published by OCR.

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Accounting: Capital and revenue expenditure and depreciation (YAC11) -- Revision Notes"
+title: "Edexcel International A Level Accounting: Capital and revenue expenditure and depreciation (YAC11) -- Revision Notes"
 seoTitle: "Edexcel IAL Accounting Depreciation Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"
@@ -238,6 +238,20 @@ Disposals are deducted at cost in the cost section and at accumulated depreciati
 - Using market value as the carrying value.
 - Treating depreciation as cash set aside.
 - Failing to compare old and new charges after a change of method.
+
+## Frequently asked questions
+
+**Which Edexcel YAC11 outcomes cover capital and revenue expenditure and depreciation?**
+Outcomes 1.1.11 to 1.1.20 in Unit 1 of Pearson Edexcel International A Level Accounting cover capital and revenue expenditure, the causes and methods of depreciation, ledger accounts, disposals and the schedule of non-current assets.
+
+**Is residual value used in reducing balance depreciation?**
+No. The reducing balance percentage is applied to the carrying value at the start of each year; residual value is not deducted first. Including it is a common mistake.
+
+**Is the carrying value of an asset its market value?**
+No. Depreciation allocates cost rather than measuring market value, so the carrying value, cost less accumulated depreciation, is not what the asset would sell for.
+
+**How is depreciation handled for an asset bought or sold part way through the year?**
+Where the question gives dates, charge depreciation only for the months of ownership, and include the year of sale's depreciation in the provision transferred on disposal.
 
 ## Official syllabus
 

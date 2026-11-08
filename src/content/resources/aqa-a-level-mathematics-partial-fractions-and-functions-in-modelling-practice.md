@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "b-algebra-and-functions-aqa-alevel-maths"
     subtopic: "b11-functions-in-modelling-aqa-alevel-maths"
-description: "Original practice questions with worked answers on partial fractions and functions in modelling for AQA A-level Mathematics B10 and B11."
+description: "Original practice questions with worked answers on partial fractions and functions in modelling for AQA A-level Mathematics B10 and B11 (7357)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -141,6 +141,23 @@ Learn the content first from the [study guide](/resources/aqa-a-level-mathematic
 - Giving a limitation that is only "not accurate".
 - Missing a reason for a domain, or keeping an impossible root.
 - Accepting an extrapolated value without comment.
+
+## Frequently asked questions
+
+**What do AQA 7357 content references B10 and B11 cover?**
+B10 covers decomposing rational functions into partial fractions, and B11 covers using functions as models of real situations, including their limitations and refinements. Both are Section B content assessed on Paper 1.
+
+**How do you find the constants in partial fractions?**
+Write the identity with no fractions, then substitute the value that makes each factor zero. For a repeated factor, finish by comparing coefficients or using another value of x, and check with a spare value.
+
+**How do you give a good limitation of a model?**
+Link it to the context and say why it matters, for example "real growth varies with the weather each year, so one smooth curve cannot capture it". A bare "it is not accurate" earns nothing.
+
+**How do you find the percentage error of a model?**
+Divide the difference between the model and the observed value by the observed value, and say which value you divided by. For a model value of 68 and observed 66, the error is 2/66, about 3.0%.
+
+**Why is a prediction far outside the data range unreliable?**
+It is extrapolation: the pattern in the data may not continue, so the prediction should be treated with caution and a refinement suggested.
 
 ## Next steps
 

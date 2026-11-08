@@ -277,6 +277,20 @@ Give the form the question asks for. If it does not say, an inequality is the sa
 - Building an inverse with the right steps in the wrong order.
 - Doing the two machines of a composite in the wrong order.
 
+## Frequently asked questions
+
+**What is the difference between an open and a closed circle on a number line?**
+An open circle shows a boundary that is not included, for < or >. A closed circle shows a boundary that is included, for ≤ or ≥.
+
+**How do you solve a double inequality such as −5 < 2x − 1 ≤ 9?**
+Do the same step to all three parts. Adding 1 gives −4 < 2x ≤ 10, and dividing by 2 gives −2 < x ≤ 5.
+
+**Do you need function notation for OCR GCSE Maths?**
+No. The OCR GCSE Mathematics J560 specification says function notation is not required for section 6.05, so functions are written as machines or as y = ... equations.
+
+**When is a boundary line dashed on an inequality graph?**
+Use a dashed line for < or >, where points on the line are not included, and a solid line for ≤ or ≥. Then test a point off the line to decide which side to keep.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics (J560) specification, Version 2.1 (August 2026), first assessment 2017, published by OCR (Oxford Cambridge and RSA) - sections 6.04 Algebraic inequalities and 6.05 Language of functions.

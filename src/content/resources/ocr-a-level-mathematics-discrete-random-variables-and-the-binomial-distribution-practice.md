@@ -153,6 +153,20 @@ These questions follow the OCR A Level Mathematics A (H240) specification, Versi
 - Giving npq when the standard deviation is asked for.
 - Putting q where p belongs when the question gives a failure probability.
 
+## Frequently asked questions
+
+**How do you find P(X ≥ r) for a binomial distribution?**
+Use P(X ≥ r) = 1 − P(X ≤ r − 1). Writing 1 − P(X ≤ r) instead is a common error, because on a discrete variable it leaves out P(X = r).
+
+**How do you state an assumption for a binomial model in context?**
+Name the trials and the situation, for example "whether one seed germinates does not affect whether another seed germinates". Writing "p is constant" without saying what the trials are does not earn the mark.
+
+**When is a binomial model not suitable?**
+It is not suitable when trials are not independent or p changes, such as drawing without replacement from a small group, or when the number of trials is not fixed.
+
+**Is npq the standard deviation of a binomial distribution?**
+No. npq is the variance; take its square root for the standard deviation. In OCR A Level Mathematics A (H240), the mean np and variance npq are A Level only.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/ocr-a-level-mathematics-discrete-random-variables-and-the-binomial-distribution-revision-notes/) or relearn from the [study guide](/resources/ocr-a-level-mathematics-discrete-random-variables-and-the-binomial-distribution/).

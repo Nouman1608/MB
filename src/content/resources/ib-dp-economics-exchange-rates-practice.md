@@ -127,6 +127,20 @@ Lower interest rates in Kelmark [1]: portfolio investors move funds to Ruvia, so
 - Listing points in evaluation questions without weighing them or giving a judgement.
 - (HL) Describing fixed and floating systems separately with no comparison.
 
+## Frequently asked questions
+
+**How do you convert a price into another currency using an exchange rate?**
+If the rate is quoted as units of foreign currency per unit of home currency, multiply a home price by the rate to get the foreign price, and divide a foreign price by the rate to get the home price. Multiplying when you should divide is a common slip.
+
+**How do you calculate percentage changes in an exchange rate over several periods?**
+Calculate each step from the rate in the period before it, using (new − old) ÷ old × 100. Dividing by the later value is a common error.
+
+**What should an exchange rate diagram show in IB Economics?**
+Put the exchange rate on the vertical axis with units or a currency pair, such as estos per nor, and the quantity of the currency on the horizontal axis. Shift only the curve the factor affects and label the new equilibrium.
+
+**What do examiners want in an HL question comparing fixed and floating exchange rates?**
+Compare the two systems against two or three criteria, such as certainty, monetary policy freedom and the need for reserves, and reach a judgement for the country in the question. Describing each system separately with no comparison loses marks.
+
 ## Next steps
 
 - Review with the [revision notes](/resources/ib-dp-economics-exchange-rates-revision-notes/) and the [study guide](/resources/ib-dp-economics-exchange-rates/).

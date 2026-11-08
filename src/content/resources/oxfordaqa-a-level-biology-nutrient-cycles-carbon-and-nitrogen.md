@@ -194,6 +194,23 @@ The oxygen fall comes after the algae peak because dead algae must first be deco
 - Writing "nutrients" where the question needs nitrate, ammonium or carbon dioxide.
 - Dividing by the new value in a percentage change.
 
+## Frequently asked questions
+
+**What do saprophytic microorganisms do in nutrient cycling?**
+Saprophytes secrete digestive enzymes onto dead material, absorb the soluble products and respire some of them. This releases elements as ions or simple inorganic molecules, such as carbon dioxide and ammonium ions, which producers take up.
+
+**Why does carbon dioxide concentration change over a day?**
+Photosynthesis removes carbon dioxide only in the light, but respiration continues all the time. Concentration rises at night and falls during the day when photosynthesis is faster than respiration.
+
+**What is the difference between nitrification and denitrification?**
+Nitrification converts ammonium to nitrite and then nitrate, carried out by nitrifying bacteria in aerobic conditions. Denitrification converts nitrate to nitrogen gas, carried out by denitrifying bacteria in anaerobic conditions such as waterlogged soil.
+
+**How does eutrophication happen?**
+Leached nitrate and phosphate cause an algal bloom that blocks light, so plants beneath die. Saprophytic bacteria decompose the dead material and respire aerobically, so dissolved oxygen falls and fish and other aerobic organisms die.
+
+**Is nutrient cycling on the International AS in OxfordAQA Biology (9610)?**
+No. Section 3.3.5 sits in Unit 3, Populations and genes, which the specification lists as International A-level only.
+
 ## Official syllabus
 
 This guide follows section 3.3.5 Nutrient cycles in the *OxfordAQA International AS and A-level Biology (9610) specification*, Version 5.1, for International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards, published by OxfordAQA.

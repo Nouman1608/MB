@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A Level Accounting: Principles and Double Entry Bookkeeping — Practice Questions"
+title: "Edexcel International A Level Accounting: Principles and Double Entry Bookkeeping — Practice Questions"
 resourceType: "practice-questions"
 subject: "accounting"
 level: ["a-levels"]
@@ -15,9 +15,9 @@ syllabusTopics:
     topic: "principles-of-accounting-and-double-entry-bookkeeping"
 description: "Original exam-style practice questions with full worked answers on double entry, control accounts, adjustments and correction of errors."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -120,3 +120,17 @@ Debits correctly entered [1]; credits correctly entered [1] [1]; totals agree [1
 - Correcting an error of principle through a suspense account.
 - Charging the whole allowance for irrecoverable debts to the statement of profit or loss every year instead of only the movement.
 - Confusing writing off an irrecoverable debt with making an allowance for irrecoverable debts.
+
+## Frequently asked questions
+
+**Are these Edexcel YAC11 principles questions from past papers?**
+No. They are original questions written for revision on Pearson Edexcel International A Level Accounting (YAC11). They do not replicate the exam's structure, question count or mark tariffs, so use them alongside the official past papers.
+
+**How is the Edexcel IAL Accounting Unit 1 paper structured?**
+The paper has two compulsory sections: Section A has large multi-part questions based on given data, and Section B offers a choice of optional multi-part questions, with a resource booklet.
+
+**Is bank reconciliation assessed in Edexcel YAC11?**
+Bank reconciliation is not a content statement of either unit of the specification. These pages include it only as supporting background because it consolidates cash book and error-checking skills.
+
+**What are the most common mistakes in these double entry questions?**
+Common errors include putting discounts allowed on the wrong side of the trade receivables ledger control account, correcting an error of principle through a suspense account, and confusing writing off an irrecoverable debt with making an allowance.

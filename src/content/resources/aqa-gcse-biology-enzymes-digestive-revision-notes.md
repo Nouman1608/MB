@@ -13,13 +13,13 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "organisation-aqa-gcse-biology"
     subtopic: "the-human-digestive-system-aqa-gcse-biology"
-description: "Condensed recall notes on the cells-tissues-organs hierarchy, digestive enzymes, bile and required practicals 4-5 for AQA GCSE Biology (8461), 4.2.1 and 4.2.2.1."
+description: "Condensed AQA GCSE Biology 8461 notes on the organisation hierarchy, digestive enzymes, bile and Required Practicals 4 and 5, sections 4.2.1 and 4.2.2.1."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-02
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -197,6 +197,23 @@ Once digestion has broken food down into small, soluble molecules using the enzy
 - Explain bile's two roles, and why it is not itself an enzyme.
 - Describe RP5's method and the colour change that signals starch has been digested.
 - Explain, using the lock and key model, why lipase cannot break down starch.
+
+## Frequently asked questions
+
+**What is the lock and key model?**
+An enzyme's active site has a shape that fits only one specific substrate, like a key fitting a lock, so each enzyme catalyses a specific reaction.
+
+**What does bile do?**
+Bile is made in the liver and stored in the gall bladder. It is alkaline, so it neutralises hydrochloric acid from the stomach, and it emulsifies fat into small droplets, increasing the surface area for lipase.
+
+**Is bile an enzyme?**
+No. Bile is not an enzyme. Emulsification is a physical change, not a chemical reaction catalysed by an enzyme.
+
+**Which enzymes digest which food groups?**
+Amylase (a carbohydrase) digests starch into simple sugars, protease digests proteins into amino acids, and lipase digests lipids into fatty acids and glycerol.
+
+**What is Required Practical 5?**
+It investigates the effect of pH on the rate of reaction of amylase, by sampling the mixture into iodine at intervals and timing how long it takes for starch to be broken down.
 
 ## Related resources
 

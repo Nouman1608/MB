@@ -146,6 +146,20 @@ For the other concept lists, see the [key and related concepts unit](/resources/
 - The evaluation reports averages only and hides the users the context was meant to serve.
 - The client or target audience changes between the problem statement and the evaluation.
 
+## Frequently asked questions
+
+**What is the difference between a design situation and a problem statement?**
+A design situation is the open starting scenario you are given. A problem statement is a narrow statement you write yourself, naming one specific, evidenced need for a named client or target audience, without naming a solution.
+
+**How do you write a strong problem statement in MYP Design?**
+Use the pattern: [audience] need(s) a way to [need] because [evidence], within [constraints]. Then check that it has one audience, one need, evidence included, no solution named and something you can test.
+
+**How do you choose a global context for a design project?**
+Ask whether the context changes who you research and what you test, whether you can gather the evidence in the time available, and whether it is at the heart of the need rather than added at the end.
+
+**Is innovation a global context or a related concept in MYP Design?**
+Innovation is given in the brief as a related concept example, while scientific and technical innovation is a global context. Say which one you mean when you write about your project.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Design*, from 2014. The six global contexts and the criterion A wording come from the brief; summaries, examples and data here are Marlbridge's own and are fictional.

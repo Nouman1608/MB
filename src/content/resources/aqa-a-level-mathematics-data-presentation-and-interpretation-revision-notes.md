@@ -254,6 +254,23 @@ value of 4 is an outlier; a value of 37 is not.
 - "Causes" written when the data only show correlation.
 - Predictions from a regression line trusted outside the data range.
 
+## Frequently asked questions
+
+**Are regression line calculations in AQA A-level Maths 7357?**
+No. Calculations involving regression lines are excluded from the specification. You need to interpret the gradient and intercept and judge when the line is safe to use.
+
+**What are the two common rules for outliers?**
+A value is an outlier if it is below Q₁ − 1.5 × IQR or above Q₃ + 1.5 × IQR, or if it is more than 2 (or 3) standard deviations from the mean. Use the rule the question gives.
+
+**How should missing values be handled when cleaning data?**
+Leave them out of calculations, say so, and reduce n. Never record a missing value as 0.
+
+**When should you use the median and IQR instead of the mean and standard deviation?**
+Use the median and IQR for skewed data or data with outliers, because they are not distorted by extreme values. The mean and standard deviation suit roughly symmetrical data.
+
+**What is the difference between σ and s in AQA 7357 notation?**
+σ is a population standard deviation (divisor n) and s is a sample standard deviation (divisor n − 1). Calculators often show both as σx and sx, so use the one the question asks for.
+
 ## Related notes
 
 Data you present usually come from a sample, so revise the

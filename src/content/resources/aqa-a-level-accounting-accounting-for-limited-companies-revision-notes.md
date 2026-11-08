@@ -267,6 +267,20 @@ Dr Retained earnings 75,000; Cr Share capital 75,000
 - Closing cash in the statement of cash flows not agreeing with the statement of financial position, with an overdraft treated as positive.
 - Limitations of published accounts listed with no link to the stakeholder in the question.
 
+## Frequently asked questions
+
+**What are the three headings in an IAS7 statement of cash flows?**
+IAS7 groups cash flows under operating activities, investing activities and financing activities. The statement explains the change in cash and cash equivalents over the year.
+
+**Do a bonus issue and a revaluation appear in the statement of cash flows?**
+No. Neither involves any cash, so showing a bonus issue or a revaluation as a cash flow is a common mistake.
+
+**How is an increase in trade receivables treated in the statement of cash flows?**
+An increase in inventory or trade receivables ties up cash, so it is deducted from profit in the operating activities section. An increase in trade payables is added.
+
+**What are the limitations of published accounts?**
+The figures are historical and may be months old when published, they are summarised, and non-financial factors are left out. In an exam answer, link each limitation to the stakeholder named in the question.
+
 ## Official syllabus
 
 AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019 onwards, published by AQA -- section 3.16, Accounting for limited companies.

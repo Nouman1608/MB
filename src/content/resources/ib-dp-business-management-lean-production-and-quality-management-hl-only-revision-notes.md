@@ -236,6 +236,20 @@ Standards: a firm pays USD 6,000 to be certified and wins extra annual profit of
 - Stating a standard's name without explaining why it matters to customers or the business.
 - Treating quality circles and kaizen as identical.
 
+## Frequently asked questions
+
+**What is the difference between kaizen and just-in-time?**
+Kaizen is a habit of small, continuous improvement made by all employees, aimed at better processes over time. Just-in-time is a system of timed delivery and production aimed at lower inventory and holding costs.
+
+**What is the difference between quality assurance and TQM?**
+Quality assurance is a set of systems that builds quality into the process to prevent defects. Total quality management is a whole-organization culture in which every employee owns quality.
+
+**What is a quality circle?**
+A quality circle is a small group of workers who meet regularly to identify and solve quality problems. It is not identical to kaizen, which is a wider habit of continuous improvement across the business.
+
+**What are the three types of benchmarking?**
+The notes name internal, competitive and functional benchmarking. In each case a business compares its processes or performance with a best performer and then works to close the gap.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, International Baccalaureate Organization, section 5.3, Lean production and quality management (HL only). Marlbridge is not affiliated with the IB.

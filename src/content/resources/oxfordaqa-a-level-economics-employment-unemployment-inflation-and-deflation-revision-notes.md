@@ -238,6 +238,23 @@ Use at least one of these in every extended answer.
 * Omitting the evaluation of a policy: lags, costs, inflation risk, the cause of the unemployment.
 * Giving a global influence without linking it to AD, SRAS or LRAS.
 
+## Frequently asked questions
+
+**What is the difference between deflation and disinflation?**
+Deflation means the price level itself is falling. Disinflation means the inflation rate is falling while prices are still rising.
+
+**What is the difference between unemployment and underemployment?**
+Unemployed people have no work and are searching for it. Underemployed people are in work but have fewer hours, or use fewer of their skills, than they want.
+
+**What is the difference between demand-pull and cost-push inflation?**
+Demand-pull inflation comes from a rightward shift of aggregate demand, so real GDP usually rises. Cost-push inflation comes from higher unit costs shifting SRAS left, so prices rise while real GDP falls.
+
+**Does a deflationary policy cause deflation?**
+Not necessarily. A deflationary policy is one that cuts aggregate demand, such as higher taxes or interest rates; it usually produces disinflation rather than a fall in the price level.
+
+**Which types of unemployment are in the OxfordAQA 9640 specification?**
+The OxfordAQA International AS and A-level Economics (9640) specification covers cyclical, structural, frictional and seasonal unemployment, in section 3.2.3.2.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, first teaching September 2020, published by Oxford International AQA Examinations. Sections 3.2.3.2 and 3.2.3.3.

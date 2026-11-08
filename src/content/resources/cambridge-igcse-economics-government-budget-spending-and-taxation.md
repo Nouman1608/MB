@@ -222,6 +222,20 @@ Evaluation: the size of the effect depends on the tax rate, the elasticity of de
 - Listing effects of tax without saying who is affected and how.
 - Calculating government revenue using the quantity before the tax.
 
+## Frequently asked questions
+
+**What do sections 4.3.1 to 4.3.6 of Cambridge IGCSE Economics 0455 cover?**
+These sections cover the government budget, the main areas of government spending, why governments tax, the classification of taxes, the qualities of a good tax and the impact of taxation. Fiscal policy measures in sections 4.3.7 to 4.3.9 are taught separately.
+
+**Are indirect taxes always regressive?**
+Indirect taxes are often regressive because poorer households spend a larger share of their income, but a direct tax can be progressive, regressive or proportional. Do not assume direct means progressive and indirect means regressive in every case.
+
+**How does price elasticity of demand affect the impact of a tax?**
+When demand is inelastic, quantity falls only a little after a tax, so the government raises more revenue and producers lose less. When demand is elastic, quantity falls more, so revenue is lower and producers lose more sales.
+
+**Why does government spending have an opportunity cost?**
+Money spent in one area cannot be spent in another unless taxes or borrowing rise. For example, extra spending on education means less for health or infrastructure.
+
 ## Official syllabus
 
 Source: Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2, Cambridge University Press & Assessment, section 4.3 Fiscal policy (4.3.1 to 4.3.6).

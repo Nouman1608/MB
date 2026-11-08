@@ -146,6 +146,20 @@ These questions follow the OCR *GCSE (9-1) Gateway Science Biology A (J247)* spe
 - Try the [free 10-minute diagnostics](/diagnostics/) to find gaps.
 - [Book a free trial class](/trial/) if you want help with any of these topics.
 
+## Frequently asked questions
+
+**Which lens corrects long-sightedness?**
+A convex (converging) lens corrects long-sightedness by adding extra bending so the focus moves forward onto the retina. Long-sightedness is caused by a short eyeball or a lens that cannot become curved enough.
+
+**Why is it difficult to study how the brain works?**
+Case studies depend on rare injuries that differ in place and size, a single patient is a small sample, and other regions may take over tasks. There are also ethical issues, such as patients who cannot give informed consent; give each difficulty with its consequence.
+
+**Is it correct to say nervous tissue can never be repaired?**
+No. Say that repair of nervous tissue is limited, not absent. Many treatments relieve symptoms rather than replacing lost neurones.
+
+**What is the correct order of the path of light and impulses in the eye?**
+Light passes through the cornea, pupil and lens to the retina, where receptors produce nerve impulses that travel along the optic nerve to the brain. Putting the retina before the lens, or saying light travels along the optic nerve, loses marks.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Biology A (J247)*, Version 4.0 (August 2026), for first assessment in 2018: statements B3.1d to B3.1h.

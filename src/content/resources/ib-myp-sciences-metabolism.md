@@ -17,9 +17,9 @@ syllabusTopics:
     topic: "ib-myp-sciences-related-concepts"
 description: "IB MYP Sciences study guide to metabolism: enzymes, aerobic and anaerobic respiration, photosynthesis, digestion, plus criterion B and C skills."
 author: "marlbridge-academic-team"
-reviewer: "ameer-hamza"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ameer-hamza on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -186,6 +186,23 @@ For more on how each criterion is judged, read [the criteria in practice](/resou
 - Reading an optimum as an exact value from widely spaced data.
 - Calling bile an enzyme.
 - Describing a graph without quoting any numbers from it.
+
+## Frequently asked questions
+
+**What is the difference between anabolic and catabolic reactions?**
+Anabolic reactions build large molecules from small ones and need an energy input, as in photosynthesis. Catabolic reactions break large molecules into smaller ones and often release energy, as in respiration and digestion.
+
+**Why do enzymes stop working at high temperatures?**
+Above the optimum temperature, bonds holding the protein in shape break and the active site changes shape, so the substrate no longer fits. The enzyme is denatured; it is not "killed", because enzymes are not living things.
+
+**What is the difference between aerobic and anaerobic respiration?**
+Aerobic respiration uses oxygen and releases carbon dioxide and water, mainly in the mitochondria. Anaerobic respiration happens without oxygen, makes lactic acid in muscles (or ethanol and carbon dioxide in yeast) and releases much less energy per glucose molecule.
+
+**What is a limiting factor in photosynthesis?**
+A limiting factor is the one in shortest supply, which holds the rate down. Light intensity, carbon dioxide concentration and temperature can each be limiting.
+
+**Is metabolism in the IB MYP Sciences syllabus?**
+The IB MYP Sciences subject brief (from 2014) lists metabolism as a topic explored in the on-screen examinations. Schools design their own units, so check the depth your teacher expects.
 
 ## Where next
 

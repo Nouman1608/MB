@@ -12,13 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "verification-of-accounting-records-oxfordaqa-igcse"
-description: "Trial balances, control accounts, bank reconciliation statements and correcting errors -- the four verification techniques of Topic 2 in OxfordAQA International GCSE Accounting (9215)."
+description: "OxfordAQA International GCSE Accounting 9215 Topic 2 guide to trial balances, control accounts, bank reconciliation and correcting errors, with examples."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 ---
 
 This guide covers **Topic 2 Verification of Accounting Records**, one of
@@ -197,6 +197,20 @@ items the bank knows and the business does not, and vice versa.
 balance.
 - Practise tracing a single error through to its effect on reported
 profit, not just its correcting journal entry.
+
+## Frequently asked questions
+
+**Which errors does a trial balance not reveal in OxfordAQA International GCSE Accounting 9215?**
+Six errors leave the trial balance in balance: commission, complete reversal, compensating, omission, original entry and principle. A balanced trial balance only proves debits and credits are numerically equal.
+
+**What is a compensating error?**
+A compensating error is two separate errors that cancel each other out in the trial balance, such as sales and purchases both understated by $200. Because one is a credit balance and the other a debit balance, the totals still agree.
+
+**Does a compensating error always leave profit unchanged?**
+No. If both offsetting errors are in income or expense accounts their effects on profit may cancel, but if only one of them is in an income or expense account, profit is misstated.
+
+**What is the difference between a suspense account and the general journal in error correction?**
+The suspense account holds the difference when a trial balance does not balance, while the general journal records the double-entry correction itself. Exam questions often ask for the journal entry and then its effect on the suspense account or on profit.
 
 ## Official syllabus
 

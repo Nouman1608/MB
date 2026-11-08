@@ -261,6 +261,23 @@ producer surplus = ½ × 3 × 6 = £9 (thousand).
 - Giving "income" as a shifter without saying whether the good is normal or inferior.
 - Defining composite demand as demand for complements.
 
+## Frequently asked questions
+
+**What is a sub-market?**
+A sub-market is a distinct part of a wider market with its own buyers, sellers and price. For example, the housing market contains sub-markets for flats, family houses and rented homes, and prices can move differently in each.
+
+**What is composite demand?**
+Composite demand is demand for a good with several uses, equal to the sum of the demands for each use. Milk demanded for drinking, cheese and yoghurt is an example; a rise in one use leaves less of the good for the others.
+
+**How does utility maximisation work across different goods?**
+A consumer maximises utility when marginal utility per pound is equal across goods. If one good gives more marginal utility per pound than another, the consumer gains by buying more of it and less of the other.
+
+**What is competitive supply?**
+Competitive supply arises when producers can switch resources between alternatives, so producing more of one product means producing less of another. A farmer moving land from barley to wheat when the wheat margin rises is an example.
+
+**What does "Supply and demand and the interaction of markets" cover in OCR A Level Economics?**
+In the OCR A Level Economics (H460) specification, this topic in Component 1, Microeconomics, begins with markets and sub-markets, the types of demand and supply, why demand slopes down, movements and shifts, and consumer and producer surplus. Market equilibrium is covered separately.
+
 ## Official syllabus
 
 OCR's *A Level Economics* specification (H460), published by OCR, Version 3.0 (June 2026), for first assessment in 2021. Sections used: the first part of the Supply and demand and the interaction of markets topic, in Component 1 (Microeconomics).

@@ -297,6 +297,20 @@ The clock shows 5, 4, 3, 2, 1, 0, then the interval stops.
 
 Condense this with the [Programming for the web revision notes](/resources/a-level-cambridge-ict-programming-for-the-web-revision-notes/), then test yourself with the [Programming for the web practice questions](/resources/a-level-cambridge-ict-programming-for-the-web-practice/).
 
+## Frequently asked questions
+
+**Do you need to know HTML before studying JavaScript in Cambridge 9626?**
+The Cambridge 9626 syllabus recommends a working knowledge of HTML and CSS before topic 21, for example from website authoring in Cambridge IGCSE ICT, because JavaScript is used to change HTML content and styles.
+
+**What are the advantages of an external JavaScript file?**
+An external .js file, linked with the src attribute, keeps HTML and code apart, lets several pages share one file and lets the browser cache it, so one edit updates every page. The .js file itself contains no script tags.
+
+**What does prompt() return when the user clicks Cancel?**
+prompt() returns null when Cancel is clicked, not an empty string, so input checks should test for null as well as for invalid entries.
+
+**What are the three ways a JavaScript function can be run?**
+A function can be run by an event, such as onclick, invoked by other code, or self-invoked so that it runs as soon as it is defined.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 21: Programming for the web (21.1 Programming for the web).

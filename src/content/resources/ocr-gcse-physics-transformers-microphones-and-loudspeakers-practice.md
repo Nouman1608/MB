@@ -156,6 +156,23 @@ These questions cover statements P4.2g to P4.2j (transformers, microphones, loud
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are transformers, microphones and loudspeakers Higher tier in OCR GCSE Physics A?**
+Yes. Statements P4.2g to P4.2j of OCR GCSE (9-1) Physics A (J249), covering transformers, the turns ratio, microphones, loudspeakers and headphones, are Higher tier only.
+
+**What words must a transformer explanation include?**
+Use "alternating" for the supply, "changing" for the magnetic field and "induced" for the output. Writing "current" where a changing magnetic field is needed to link the coils is a common mistake.
+
+**How do I avoid inverting the turns ratio?**
+Write the equation with the primary values on the same level, Vp / Vs = Np / Ns, and rearrange before substituting. The larger potential difference always goes with the larger number of turns.
+
+**What mistakes are common in percentage difference questions?**
+Dividing the difference by the measured value instead of the expected value. Check which value the question treats as the reference, and include a unit or percentage sign in your answer.
+
+**How do I keep microphones and loudspeakers apart in an answer?**
+A microphone uses electromagnetic induction: sound moves the coil in a magnetic field, inducing a varying current. A loudspeaker uses the force on a current-carrying coil in a magnetic field. Swapping the two mechanisms loses marks.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), specification Version 5.0 (July 2026), first assessment 2018, published by OCR. This page covers statements P4.2g to P4.2j.

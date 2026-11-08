@@ -25,11 +25,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-2-10"
 description: "Study guide for IB Maths AI HL sections 2.7-2.10: composite and inverse functions, transformations, further models and log scales, with worked examples."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 This study guide covers the HL-only functions content of IB Diploma Programme Mathematics: Applications and Interpretation, aligned to the IB *Mathematics: applications and interpretation guide*, first assessment 2021. It teaches syllabus sections AHL 2.7–2.10: composite and inverse functions, transformations of graphs, further modelling functions, and logarithmic scales and linearizing data. All of this content is HL only. It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 sessions.
@@ -298,6 +298,20 @@ A straight line on a semi-log graph means exponential; a straight line on a log-
 - Leaving your GDC in degrees for a radian sinusoidal model.
 - Rounding k or b early and carrying the error into a final answer.
 - Reporting the gradient of a log-log line as a, not b.
+
+## Frequently asked questions
+
+**What does (f ∘ g)(x) mean?**
+(f ∘ g)(x) = f(g(x)), which means apply g first and then f. In a context, the output of the first process must make sense as the input of the second.
+
+**How do you find the inverse of a quadratic function?**
+A quadratic is many-to-one, so first restrict its domain to one side of the vertex to make it one-to-one. Then rearrange y = f(x) for x, choosing the square root sign that matches the restricted domain, and state the domain of f⁻¹ as the range of f.
+
+**Does y = f(x − a) move the graph left or right?**
+y = f(x − a) translates the graph a units to the right when a > 0. By contrast, f(x) − a moves the graph down a units.
+
+**Is AHL 2.7 to 2.10 in the IB Maths AI SL course?**
+No. Composite and inverse functions, transformations, further models and logarithmic scales in AHL 2.7–2.10 are HL only in IB DP Maths AI.
 
 ## Official syllabus
 

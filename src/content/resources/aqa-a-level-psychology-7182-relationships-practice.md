@@ -153,6 +153,20 @@ Reduced cues theory (Sproull and Kiesler, 1986) predicts less self-disclosure on
 - Research-methods parts answered with "use a bigger sample" when the question asks for an objective measure.
 - Extended answers that are mostly description, with evaluation tacked on at the end.
 
+## Frequently asked questions
+
+**Which section of AQA A-level Psychology 7182 Paper 3 tests Relationships?**
+Relationships is an Option 1 topic assessed in Section B of Paper 3, Issues and Options in Psychology, with multiple choice, short answer and extended writing questions.
+
+**How do you answer Duck's phase model questions on quotes?**
+Look for the clue in each statement: private brooding (intra-psychic), confronting the partner (dyadic), involving friends and family (social), or telling a story afterwards (grave dressing).
+
+**What does a research methods part need in a Relationships question?**
+Name a specific measure or method linked to the scenario. A vague answer such as "use a bigger sample" earns nothing when the question asks for an objective measure.
+
+**What are common mistakes in Relationships practice questions?**
+Students often get the filter order wrong, treat equity as equal inputs rather than a fair ratio, and define a theory in an application question without using the scenario's names and details.
+
 ## Next steps
 
 Check your weaker areas against the [AQA A-level Psychology checklist](/checklists/aqa/a-level/psychology/), and revisit the attachment types in the [Paper 1 introductory practice questions](/resources/aqa-a-level-psychology-introductory-practice/) before parasocial questions. Then try a timed Section B under exam conditions using your board's past papers.

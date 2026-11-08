@@ -12,11 +12,11 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-depth-studies-4hi1"
-description: "The eight Depth Study options -- from the French Revolution to the end of Apartheid -- for Paper 1 of Pearson Edexcel International GCSE History (4HI1), of which candidates study at least two."
+description: "The eight Paper 1 depth studies of Edexcel International GCSE History 4HI1, from the French Revolution to apartheid, how they are examined and how to revise."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -118,6 +118,17 @@ set of notes — keeps the periods from bleeding into one another, since candida
 marks by unintentionally applying facts from one Depth Study to a question about a different one,
 particularly where two studied options share superficial similarities (for instance, both involving
 a shift toward authoritarian rule).
+
+## Frequently asked questions
+
+**How many depth studies do I study?**
+At least two of the eight, chosen by your school.
+
+**How is each Paper 1 depth study question structured?**
+Each 4HI1 Paper 1 question has three parts: (a) what impression an extract gives (6 marks), (b) explain two effects (8 marks) and (c) a 'how far do you agree' essay (16 marks), with bullet prompts and your own knowledge.
+
+**How long is Paper 1?**
+1 hour 30 minutes, for 60 marks, worth 50% of the qualification.
 
 ## Official syllabus
 

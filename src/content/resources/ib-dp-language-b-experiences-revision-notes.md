@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "ib-dp-language-b-experiences"
 description: "Condensed revision notes on the IB DP Language B Experiences theme: topics, narrative tenses, time markers, text types and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 These notes condense the [Experiences study guide](/resources/ib-dp-language-b-experiences/), which
@@ -198,6 +198,20 @@ Original text written for Marlbridge:
 - Generalising about a whole culture ("everyone there…") instead of using a specific example from a
   text.
 - Revising only holiday vocabulary and neglecting rites of passage, customs and migration.
+
+## Frequently asked questions
+
+**What is the difference between a rite of passage and a custom?**
+A rite of passage marks a person moving from one stage of life to the next, such as a graduation. A custom or tradition is a shared practice a community repeats, such as a festival; many rites of passage are also customs.
+
+**What are bridge time markers?**
+Bridge markers link the past to the present, such as "since then", "ever since", "these days", "still" and "no longer". They help an Experiences text show how the past shapes the present.
+
+**How much of the IB Language B grade is external assessment?**
+External assessment, Paper 1 and Paper 2, makes up 75% of the IB DP Language B grade and the internal individual oral 25%. The assessment outlines are identical at SL and HL; the nature of the tasks differs.
+
+**What is the most common mistake in Experiences writing?**
+Writing a chain of "then... then..." events with no feeling or reflection, so the text never shows what the experience meant. Add evaluative language and a link to the present.
 
 ## Official syllabus
 

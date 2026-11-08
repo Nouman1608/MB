@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "statistics-ocr-alevel-maths"
     subtopic: "probability-ocr-alevel-maths"
-description: "Condensed revision notes for OCR A Level Maths A (H240) probability: formulae, method steps, self-test and common slips for 2.03a to 2.03e."
+description: "Condensed exam revision notes for OCR A Level Maths A (H240) probability: formulae, method steps, self-test and common slips for 2.03a to 2.03e."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -249,6 +249,20 @@ The gap is tiny because the population is large. With 12 students the same idea 
 - Missing the "neither" region in a Venn diagram, so the regions do not total the full sample.
 - Answering a modelling question with "not realistic" and no named assumption or direction of effect.
 - Leaving out the final conclusion in words when the question asks you to decide or comment.
+
+## Frequently asked questions
+
+**What is the difference between mutually exclusive and independent events?**
+Mutually exclusive events have no overlap, so P(A ∩ B) = 0. Independent events have no influence on each other, so P(A ∩ B) = P(A) × P(B). Two events with non-zero probabilities cannot be both.
+
+**What is the formula for conditional probability?**
+P(A | B) = P(A ∩ B) / P(B). Conditional probability is A Level only content in OCR A Level Mathematics A (H240).
+
+**Is P(A | B) the same as P(B | A)?**
+Usually not. P(A | B) is a share of B, while P(B | A) is a share of A, so the denominators differ.
+
+**How do you find the probability of "at least one"?**
+It is nearly always easiest to use 1 − P(none).
 
 ## Official syllabus
 

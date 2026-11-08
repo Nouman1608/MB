@@ -13,13 +13,22 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "english-legal-system-9084"
-description: "Condensed recall notes on sources of law, the legislative process, precedent, statutory interpretation, the courts and legal personnel for Cambridge AS & A Level Law 9084."
+  - qualification: "a-level"
+    topic: "english-legal-system-9084"
+    subtopic: "principles-and-sources-of-english-law-9084"
+  - qualification: "a-level"
+    topic: "english-legal-system-9084"
+    subtopic: "machinery-of-justice-9084"
+  - qualification: "a-level"
+    topic: "english-legal-system-9084"
+    subtopic: "legal-personnel-9084"
+description: "Revision notes on sources of law, legislation, precedent, statutory interpretation, the courts and legal personnel for Cambridge AS and A Level Law 9084."
 author: "marlbridge-academic-team"
-reviewer: "aizaz-raoof-ali"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -136,3 +145,17 @@ The **High Court** has three divisions: King's Bench, Chancery, Family.
 6. Name the two controls on delegated legislation.
 
 **Answers:** 1. The *ratio* is the legal reason for the decision and is binding on lower courts; *obiter dicta* are statements made by the way and are only persuasive. 2. It allows the Supreme Court to depart from its own earlier decisions when it appears right to do so; it is used sparingly to preserve certainty in the law. 3. Distinguishing avoids a precedent because the material facts differ; overruling is a higher court declaring an earlier decision in a *different* case wrong; reversing is a higher court changing the outcome of the *same* case on appeal. 4. Literal, golden, mischief and purposive; the purposive approach is now dominant. 5. Security of tenure, protected salaries, immunity from being sued for judicial acts, and the separation of powers. 6. Parliamentary control (affirmative/negative resolution, scrutiny committees) and judicial control (judicial review for *ultra vires* or unreasonableness).
+
+## Frequently asked questions
+
+**What is the Practice Statement 1966?**
+The Practice Statement 1966 allows the Supreme Court to depart from its own previous decisions "when it appears right to do so". It is used sparingly to preserve certainty in the law.
+
+**What is the difference between overruling and reversing?**
+Overruling is when a higher court declares an earlier decision in a different case wrong. Reversing is when a higher court changes the outcome of the same case on appeal.
+
+**What are the two controls on delegated legislation?**
+Delegated legislation is controlled by Parliament, through affirmative or negative resolution and scrutiny, and by the courts, through judicial review. It is made under authority granted by Parliament, not by Parliament itself.
+
+**What is the cab-rank rule?**
+The cab-rank rule requires a barrister to accept any case within their competence. It is part of the legal personnel content for Cambridge AS and A Level Law 9084.

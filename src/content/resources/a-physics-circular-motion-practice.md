@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-motion-in-a-circle"
     subtopic: "a-centripetal-acceleration"
-description: "Original exam-style practice questions with full worked answers on angular velocity, centripetal force and vertical circles for Cambridge AS & A Level Physics 9702."
+description: "Original practice questions with worked answers on angular speed, centripetal force, flat bends and vertical circles for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -137,3 +137,14 @@ mg = mv²/r, so v = √(gr) [1] = √(9.81 × 0.80) = 2.801 ≈ **2.8 m s⁻¹**
 - Not comparing required force with available friction explicitly in part (c).
 - Mixing up ω = 2π/T with ω = 2π/f — frequency and period are reciprocals, not interchangeable in the formula.
 - Forgetting to convert revolutions per second into a period before finding ω.
+
+## Frequently asked questions
+
+**Should centripetal force be drawn as a separate arrow on a free-body diagram?**
+No. Centripetal force is not an extra force but the resultant of the real forces acting, such as tension, friction or weight. Drawing it as an additional arrow is a common error that loses marks.
+
+**Does centripetal force do work?**
+No. The centripetal force acts perpendicular to the velocity at every instant, and work requires a component of force along the displacement, so no work is done and the kinetic energy stays constant.
+
+**What common mistakes are made in vertical circle questions?**
+Students often forget that at the top of a vertical circle both the tension and the weight act towards the centre. Using degrees instead of radians and mixing up ω = 2π/T with ω = 2π/f also lose marks.

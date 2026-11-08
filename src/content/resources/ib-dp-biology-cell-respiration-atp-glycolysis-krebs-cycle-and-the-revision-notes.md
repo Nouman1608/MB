@@ -238,6 +238,20 @@ If oxygen is absent, the chain backs up, reduced NAD builds up, and the link rea
 - Describing a trend in a graph without quoting figures with units.
 - Stating that fat can be used in anaerobic respiration.
 
+## Frequently asked questions
+
+**What are the products of anaerobic respiration in humans and yeast?**
+Humans convert pyruvate to lactate; yeast converts pyruvate to ethanal and then ethanol, releasing carbon dioxide. Both pathways regenerate NAD and give a net 2 ATP per glucose.
+
+**Where does each stage of aerobic respiration take place?**
+Glycolysis takes place in the cytoplasm, the link reaction and Krebs cycle in the mitochondrial matrix, and the electron transport chain on the inner mitochondrial membrane.
+
+**How do you calculate oxygen uptake from a respirometer?**
+Calculate the volume as πr² × distance moved by the bead or drop, then divide by time and by the mass of the organisms to give a rate in mm³ g⁻¹ min⁻¹.
+
+**Do you need to know the energy value of ATP hydrolysis for IB DP Biology?**
+No. For IB DP Biology C1.2 you need to know that hydrolysis of ATP releases a usable amount of energy, but not the figure in kilojoules.
+
 ## Official syllabus
 
 IB Diploma Programme Biology guide, first assessment 2025, published by the International Baccalaureate Organization. Topic C1.2 (Cell respiration), statements C1.2.1 to C1.2.17; C1.2.7 to C1.2.17 are additional higher level.

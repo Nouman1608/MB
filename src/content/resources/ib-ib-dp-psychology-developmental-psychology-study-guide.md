@@ -106,3 +106,17 @@ Check the command term. **Describe** asks for a detailed account, **explain** fo
 5. What are Marcia's four identity statuses? *Diffusion, foreclosure, moratorium and achievement.*
 6. Give one limitation of longitudinal studies. *They are slow and costly, and participants may drop out.*
 7. A child solves 4 of 10 problems alone and 7 of 10 with help. How large is the gap? *3 problems, or 30 percentage points.*
+
+## Frequently asked questions
+
+**What are Marcia's four identity statuses?**
+They are identity diffusion, foreclosure, moratorium and achievement, based on whether a person has explored alternatives and made a commitment.
+
+**What is the difference between cross-sectional and longitudinal studies?**
+Cross-sectional studies compare different age groups at one time, which is quick but affected by cohort differences. Longitudinal studies follow the same people over time, which shows change but is slow, costly and affected by drop-out.
+
+**What is the zone of proximal development?**
+Vygotsky's zone of proximal development is the gap between what a child can do alone and what they can do with help from a more knowledgeable other.
+
+**What are Kohlberg's three levels of moral reasoning?**
+They are pre-conventional (judging by punishment and reward), conventional (judging by social rules and expectations) and post-conventional (judging by principles).

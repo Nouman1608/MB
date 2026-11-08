@@ -192,6 +192,20 @@ No semiconductor theory is required. The main uncertainty is judging when the LE
 - Calling the intercept on the KEmax axis φ rather than −φ.
 - Giving the de Broglie wavelength using mass instead of momentum, or forgetting that p = √(2m × eV) comes from eV = ½mv².
 
+## Frequently asked questions
+
+**What is a photon?**
+A photon is a quantum, or discrete packet, of electromagnetic energy. Its energy is E = hf = hc/λ.
+
+**What is the work function of a metal?**
+The work function φ is the minimum energy needed to remove an electron from the surface of a metal. The threshold frequency f₀ is given by hf₀ = φ.
+
+**What does a graph of KEmax against frequency show?**
+It is a straight line with gradient h, an intercept on the frequency axis at the threshold frequency f₀, and an intercept of −φ on the KEmax axis. Different metals give parallel lines.
+
+**Which section of OCR A Level Physics A covers the photoelectric effect?**
+It is section 4.5 Quantum physics of OCR H556, made up of 4.5.1 Photons, 4.5.2 The photoelectric effect and 4.5.3 Wave-particle duality.
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017, published by OCR. Section 4.5 Quantum physics (4.5.1 Photons, 4.5.2 The photoelectric effect, 4.5.3 Wave-particle duality).

@@ -19,13 +19,13 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "atomic-structure-and-the-periodic-table-9202"
     subtopic: "the-periodic-table-9202"
-description: "Condensed recall notes on states of matter, the structure of the atom, and the periodic table's arrangement by proton number, for OxfordAQA International GCSE Chemistry (9202), Topic 1."
+description: "OxfordAQA International GCSE Chemistry 9202 Topic 1 notes: states of matter, atoms, isotopes, electron shells and the periodic table, plus a self-test."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -172,6 +172,20 @@ The specification itself introduces Topic 1 by noting atoms are the building blo
 
 - [Atomic Structure and the Periodic Table study guide](/resources/igcse-oxfordaqa-chemistry-atomic-structure-and-periodic-table/)
 - [Atomic Structure and the Periodic Table practice questions](/resources/oxfordaqa-igcse-chemistry-atomic-structure-practice/)
+
+## Frequently asked questions
+
+**What is an isotope in OxfordAQA 9202 Chemistry?**
+Isotopes are atoms of the same element, with the same atomic number and so the same number of protons, but different numbers of neutrons and therefore different mass numbers.
+
+**How are electrons arranged in shells for the first 20 elements?**
+Fill the shells in order: 2 electrons in the first shell, 8 in the second, then the remainder in the next. Sodium, with 11 electrons, is 2,8,1.
+
+**How does electron structure tell you the group number?**
+For Groups 1 to 7, the group number equals the number of electrons in the outer shell. Sodium (2,8,1) has one outer electron, so it is in Group 1.
+
+**Why do Group 1 elements react by losing an electron?**
+A Group 1 element has one outer electron, and losing it gives the stable, full outer shell of a noble gas. The stability of Group 0 explains why other groups react the way they do.
 
 ## Official syllabus
 

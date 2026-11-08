@@ -241,6 +241,20 @@ For command terms, the guide defines "evaluate" as weighing up strengths and lim
 - Treating a social enterprise as unable to earn a surplus. The guide lists for-profit forms.
 - Answering "evaluate" or "justify" with a one-sided list and no conclusion.
 
+## Frequently asked questions
+
+**What is the difference between the public sector and a publicly held company?**
+The public sector is made up of organizations owned and controlled by the government. A publicly held company is privately owned, but its shares are open to investors in general, so the two terms should never be used as if they were the same.
+
+**What is the difference between an entrepreneur and a manager?**
+An entrepreneur starts and takes the risk of a venture, while a manager runs it for the owners. In a very small firm one person may do both.
+
+**Is a cooperative a non-profit organization?**
+Not by definition. The IB guide places cooperatives among for-profit social enterprises; they are owned and run by members, and surplus is shared among members or reinvested.
+
+**How do you classify an activity into a sector?**
+Classify by what the activity does, not by the firm's name or product: taking from nature is primary, making goods is secondary, providing services is tertiary, and knowledge work is quaternary. One business can operate in several sectors.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. Sections 1.1 and 1.2 of Unit 1.

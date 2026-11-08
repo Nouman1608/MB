@@ -12,20 +12,26 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "fundamentals-of-programming"
-description: "Topic 1 Fundamentals of programming (4.1) for AQA A-Level Computer Science (7517): data types, programming concepts and operations, exception handling, subroutines, stack frames and recursion (4.1.1), and the procedural-oriented and object-oriented paradigms, including class diagrams (4.1.2)."
+  - qualification: "a-level"
+    topic: "fundamentals-of-programming"
+    subtopic: "programming-aqa-alevel-cs"
+  - qualification: "a-level"
+    topic: "fundamentals-of-programming"
+    subtopic: "programming-paradigms-aqa-alevel-cs"
+description: "Guide to AQA A-Level Computer Science 7517 section 4.1: data types, operations, exceptions, subroutines, stack frames, recursion and object orientation."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---
 
 This guide covers **Topic 1 Fundamentals of programming**, the first
-of 13 named subject-content sections in AQA A-level Computer Science
-(7517), first teaching September 2015. (The non-exam-assessment
-practical project is a coursework component, not part of the
-subject-content sections numbered here.)
+of 14 numbered subject-content sections (4.1-4.14) in AQA A-level
+Computer Science (7517), first teaching September 2015. (Sections
+4.1-4.13 are examined content; 4.14 is the non-exam-assessment
+computing practical project.)
 
 ## Where this fits in 7517
 
@@ -198,3 +204,17 @@ Using a FOR loop where the number of repetitions is not known in advance. Assumi
 - Draw and interpret a class diagram, using black and white diamonds for composition and aggregation and +, − and # for access specifiers, and state the three object-oriented design principles.
 - Define class, object, instantiation, encapsulation, inheritance, aggregation, composition, polymorphism and overriding precisely, and practise writing a short object-oriented program (a class with attributes and methods, instantiated and used) rather than only reciting the vocabulary.
 - Complete a trace table accurately, row by row.
+
+## Frequently asked questions
+
+**What does a stack frame store?**
+A stack frame stores the return address, the subroutine's parameters and its local variables. A new frame is pushed for every call and popped when the subroutine ends.
+
+**What is the difference between aggregation and composition in AQA 7517?**
+Both model a has-a relationship. In composition the contained object cannot exist independently and is destroyed with its container, while in aggregation it can exist and be shared independently.
+
+**How are access specifiers shown on an AQA class diagram?**
+Public is shown as +, private as − and protected as #, placed before each attribute and method. Composition uses a black diamond and aggregation a white diamond.
+
+**Do you need to write object-oriented programs for AQA A-Level Computer Science?**
+Yes. The specification requires students to write object-oriented programs using classes, objects, instantiation, inheritance and other features, not just define the vocabulary.

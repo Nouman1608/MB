@@ -30,11 +30,11 @@ syllabusTopics:
     subtopic: "food-production-aqa-gcse-biology"
 description: "Study guide for AQA GCSE Biology 8461 Topic 7 Ecology: communities, sampling, cycles, decay, biodiversity, trophic levels and food production."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This study guide teaches Topic 7, **Ecology** (sections 4.7.1 to 4.7.5), of the AQA GCSE Biology (8461) specification, for first teaching 2016 with exams from 2018 (version 1.0). Ecology is assessed on Paper 2, alongside Homeostasis and response and Inheritance, variation and evolution. Both tiers sit this topic; the one Higher tier only subsection, 4.7.2.4, is labelled below. The exams run every May/June for the life of the specification.
@@ -333,6 +333,23 @@ Because so little biomass passes up, less biomass is available at each higher le
 - Forgetting to scale up from quadrat area to m², then to the whole area.
 - Saying decay is faster at any higher temperature -- enzymes denature if too hot.
 - Listing respiration as the only biomass loss; faeces and urine count too.
+
+## Frequently asked questions
+
+**What is Required Practical 9 in AQA GCSE Biology?**
+It measures the population size of a common species using sampling techniques: random quadrats to estimate abundance and a transect to study distribution.
+
+**What is Required Practical 10?**
+It investigates the effect of temperature on the rate of decay of fresh milk by measuring the pH change over time.
+
+**What is a pyramid of biomass?**
+A pyramid of biomass shows the standing biomass at each trophic level. Less biomass is available at each level because some is egested, some is lost as waste and much glucose is used in respiration.
+
+**How can biodiversity be maintained?**
+Through breeding programmes for endangered species, protecting and regenerating rare habitats, reintroducing field margins and hedgerows, reducing deforestation and carbon dioxide emissions, and recycling resources.
+
+**What is mycoprotein?**
+Mycoprotein is a protein-rich food made by the fungus *Fusarium*, grown in aerobic conditions on glucose syrup.
 
 ## Official syllabus
 

@@ -302,6 +302,20 @@ Quantitative comparison: work out a ratio such as strength ÷ density or cost pe
 - Stating that rust is iron oxide made by oxygen alone; water is needed too.
 - Choosing a material without linking a named property to the stated use.
 
+## Frequently asked questions
+
+**How do you decide whether a metal is extracted with carbon or by electrolysis?**
+Metals less reactive than carbon, such as zinc, iron, tin, lead and copper, can be extracted by heating their oxides with carbon. Metals more reactive than carbon, such as aluminium, must be extracted by electrolysis.
+
+**Why is aluminium oxide dissolved in molten cryolite?**
+Dissolving aluminium oxide in molten cryolite lowers the operating temperature and saves energy, while letting the ions move. Cryolite dissolves the aluminium oxide, not the aluminium, and it is not a catalyst.
+
+**What conditions are needed for iron to rust?**
+Iron rusts only when both oxygen and water are present, and salt speeds it up. Rust is hydrated iron(III) oxide, which flakes off and exposes more iron.
+
+**Why must fertilisers be soluble?**
+Fertilisers supply nitrogen, phosphorus and potassium, the elements crops most often run short of. The compounds must be soluble so that plant roots can absorb them.
+
 ## Official syllabus
 
 Source document, published by OCR: the GCSE (9–1) Chemistry A (Gateway Science) specification, code J248, Version 4.0, August 2026, with first assessment in 2018. Used here: sub-topic C6.1 Improving processes and products, with statements C6.1a–C6.1s, maths outcomes CM6.1i–CM6.1iv and the PAG C1, PAG C2 and PAG C6 practical suggestions.

@@ -266,6 +266,23 @@ Weigh the points against the facts given. A good answer uses the figures, for ex
 - Leaving goodwill off the opening statement of financial position.
 - Showing debentures as part of equity.
 
+## Frequently asked questions
+
+**How do you calculate goodwill on acquisition?**
+Goodwill = purchase consideration − (assets at agreed values − liabilities taken over). It is the excess of what the buyer gives over the fair value of the net assets acquired.
+
+**What is the difference between a merger and an acquisition?**
+A merger joins two or more businesses into a new entity. An acquisition is when one entity buys another.
+
+**What is the difference between purchased and inherent goodwill?**
+Purchased goodwill is paid for when a business is acquired and can be recorded. Inherent goodwill is built up by a business over time and is not recorded until someone pays for it.
+
+**What is purchase consideration?**
+Purchase consideration is what the buyer gives for the business: cash, shares, debentures, or a mixture. Shares issued above nominal value are split between share capital and share premium.
+
+**Are debentures part of equity after an acquisition?**
+No. Debentures issued as purchase consideration are shown as non-current liabilities in the statement of financial position, not as equity.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Accounting 9706 syllabus for examination in 2026, 2027 and 2028, section 3.3 Business acquisition and merger, published by Cambridge University Press & Assessment (Cambridge International).

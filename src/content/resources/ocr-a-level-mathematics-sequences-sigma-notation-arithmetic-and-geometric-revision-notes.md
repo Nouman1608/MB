@@ -212,6 +212,20 @@ Go on to the [practice questions](/resources/ocr-a-level-mathematics-sequences-s
 </figure>
 
 
+## Frequently asked questions
+
+**What is the difference between a sequence and a series?**
+A sequence is an ordered list of terms, and a series is the sum of terms of a sequence. uₙ is a term, Sₙ is a series, and uₙ = Sₙ − Sₙ₋₁ for n ≥ 2.
+
+**What are the formulae for the nth term of arithmetic and geometric sequences?**
+For an arithmetic sequence uₙ = a + (n − 1)d, and for a geometric sequence uₙ = arⁿ⁻¹, where a is the first term, d the common difference and r the common ratio.
+
+**When does a geometric series converge?**
+A geometric series converges only when |r| < 1, whatever the size of the first term. Then S∞ = a/(1 − r). Writing r < 1 is not enough when r could be below −1.
+
+**What is a periodic sequence?**
+A periodic sequence repeats its terms in a cycle, and its order is the number of terms in one cycle. For example, x, y, x, y, ... has order 2.
+
 ## Official syllabus
 
 OCR, *A Level Mathematics A (H240)* specification, Version 3.1 (August 2026), for first assessment in 2018. Sections 1.04e to 1.04k.

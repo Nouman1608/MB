@@ -216,6 +216,23 @@ An **unqualified** (clean) report says the statements give a true and fair view.
 - Confusing integrity with confidentiality.
 - Saying the auditor prepares the accounts or guarantees accuracy.
 
+## Frequently asked questions
+
+**Which International Accounting Standards are in Cambridge 9706?**
+Section 3.2 names nine standards: IAS 1, 2, 7, 8, 10, 16, 36, 37 and 38. The syllabus says the scope of each is set out in the Teacher Guidance that accompanies it.
+
+**What is the difference between an adjusting and a non-adjusting event under IAS 10?**
+An adjusting event gives evidence of a condition that existed at the reporting date, such as a customer owing money at the year end going into liquidation afterwards, so the figures are changed. A non-adjusting event, such as a fire after the year end, arises after that date and only needs a note.
+
+**Are research costs capitalised under IAS 38?**
+No. Research costs are always expensed. Development costs are capitalised only once the business can show it meets every IAS 38 criterion.
+
+**How is recoverable amount found under IAS 36?**
+Recoverable amount is the higher of fair value less costs of disposal and value in use. If the carrying amount is above the recoverable amount, the asset is impaired.
+
+**What are the five fundamental ethical principles?**
+The five principles are integrity, objectivity, professional competence and due care, confidentiality, and professional behaviour.
+
 ## Next steps
 
 Condense this with the [revision notes](/resources/cambridge-a-level-accounting-regulatory-and-ethical-considerations-revision-notes/), then test yourself on the [practice questions](/resources/cambridge-a-level-accounting-regulatory-and-ethical-considerations-practice/). In evaluation answers, give reasons on both sides and then a justified conclusion.

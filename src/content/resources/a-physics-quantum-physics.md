@@ -23,11 +23,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-quantum-physics"
     subtopic: "a-energy-levels-in-atoms-and-line-spectra"
-description: "The energy and momentum of a photon, the photoelectric effect, wave-particle duality, and energy levels in atoms and line spectra, for Cambridge International AS & A Level Physics 9702."
+description: "Photon energy and momentum, the photoelectric effect, wave-particle duality, and energy levels and line spectra: Topic 22 of Cambridge A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -237,6 +237,20 @@ properties of quantum objects, evidenced by different experiments.
 current but not maximum kinetic energy
 - λ = h/p, the de Broglie wavelength, showing particles have wave properties
 - hf = E₁ − E₂, discrete energy levels, and line spectra as evidence for them
+
+## Frequently asked questions
+
+**What is the momentum of a photon?**
+A photon has no rest mass but carries momentum p = E/c, which can also be written p = h/λ. Both forms are in the Cambridge 9702 Topic 22 syllabus.
+
+**Why does photoelectric current depend on intensity but maximum kinetic energy does not?**
+Increasing intensity at the same frequency means more photons per second, so more electrons are emitted per second. Each electron still receives the energy of one photon, so the maximum kinetic energy depends only on frequency.
+
+**What is wave-particle duality?**
+Wave-particle duality is the idea that light shows particle behaviour in the photoelectric effect and wave behaviour in interference and diffraction. Electrons, originally considered particles, also show wave behaviour with a de Broglie wavelength λ = h/p.
+
+**How do line spectra show that atoms have discrete energy levels?**
+Only certain energy differences exist between the levels in an atom, so only photons of particular frequencies are emitted or absorbed, using hf = E₁ − E₂. This produces separate lines rather than a continuous spectrum.
 
 ## Related resources
 

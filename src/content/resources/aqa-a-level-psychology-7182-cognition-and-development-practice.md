@@ -141,6 +141,20 @@ Vygotsky argued learning is social first and individual later [1], with learning
 - Matching Selman's labels to the wrong level number.
 - Writing long descriptions in "Evaluate" questions and leaving little room for evaluation.
 
+## Frequently asked questions
+
+**Which section of AQA 7182 Paper 3 tests Cognition and development?**
+Cognition and development is an Option 1 topic assessed in Paper 3, Issues and Options in Psychology, Section B. The section has multiple choice, short answer and extended writing questions worth 24 marks.
+
+**How do you set out a sign test answer in AQA Psychology?**
+State the value of S, compare it with the critical value, then give the conclusion about significance. Each of these steps carries its own mark, so write them separately.
+
+**What are common mistakes in Piaget scenario questions?**
+Students often mix up class inclusion, conservation and egocentrism, or define a term correctly without applying it to the named child and the details in the scenario.
+
+**How are the 16-mark Cognition and development essays marked?**
+Extended answers are marked with levels of response, not point by point. Evaluation scores higher when each study is followed by what it means for the theory, rather than being described on its own.
+
 ## Next steps
 
 - Recheck weak areas in the [study guide](/resources/aqa-a-level-psychology-7182-cognition-and-development/) and [revision notes](/resources/aqa-a-level-psychology-7182-cognition-and-development-revision-notes/).

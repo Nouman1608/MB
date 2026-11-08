@@ -248,6 +248,23 @@ Worked reminders:
 - Treating arrested succession as a natural pause. It needs a human influence, such as grazing or drainage.
 - Using a mesocosm result as proof about a whole natural ecosystem without noting the limits.
 
+## Frequently asked questions
+
+**What are the requirements for ecosystem stability?**
+Ecosystem stability requires an energy supply, nutrient recycling, genetic diversity and climatic variables staying within tolerance levels.
+
+**What is a keystone species?**
+A keystone species has a disproportionately large effect on community structure compared with its abundance, so removing it can cause the community to change or collapse; a dominant species is simply the most numerous.
+
+**What is the difference between bioaccumulation and biomagnification?**
+Bioaccumulation is the build-up of a persistent toxin within one organism; biomagnification is the rise in concentration of that toxin at each higher trophic level, as with DDT and mercury.
+
+**When is a harvest sustainable?**
+A harvest is sustainable when the harvest rate is lower than the rate of replacement by births, growth or recruitment; indicators such as catch per unit effort, fish size and age structure are monitored over time.
+
+**What is arrested succession?**
+Arrested succession is when human activity, such as livestock grazing or wetland drainage, holds a community at an earlier stage so it does not reach its climax community. This is HL-only content in IB DP Biology D4.2.
+
 ## Official syllabus
 
 IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization, subtopic D4.2.

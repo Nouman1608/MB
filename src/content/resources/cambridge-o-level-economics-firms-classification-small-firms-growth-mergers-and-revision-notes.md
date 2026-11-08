@@ -297,6 +297,20 @@ Pick out the figure, say what it shows, and link it to the concept. For example:
 - Evaluating with no conclusion, or a conclusion that ignores the context.
 - Missing units or percentage signs in calculations, or rounding too early.
 
+## Frequently asked questions
+
+**How can the size of a firm be measured?**
+Size can be measured by the number of employees, turnover (sales revenue), output, capital employed or market share. Measures can disagree, so state which one you are using before calling a firm "large".
+
+**What is the difference between forward and backward vertical integration?**
+Backward vertical integration means joining with a firm towards the supplier end of the chain. Forward vertical integration means joining with a firm towards the customer end.
+
+**What are the main internal economies of scale?**
+Internal economies include technical, purchasing (bulk buying), financial, managerial, marketing and risk-bearing economies. They come from the firm's own growth.
+
+**What are external economies of scale?**
+External economies come from the growth of the whole industry, usually in one area, such as a pool of skilled workers, specialist suppliers nearby and shared transport and training. Every firm there gains, whatever its size.
+
 ## Official syllabus
 
 Cambridge O Level Economics 2281, syllabus for examination in 2026, version 2, published by Cambridge University Press & Assessment (Cambridge International). Section 3.5, Firms.

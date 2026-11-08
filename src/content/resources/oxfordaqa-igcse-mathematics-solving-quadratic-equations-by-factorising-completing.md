@@ -324,6 +324,20 @@ If the question names a method, use that method. If it says "hence", use the pre
 
 Work through the [practice questions](/resources/oxfordaqa-igcse-mathematics-solving-quadratic-equations-by-factorising-completing-practice/), then use the [revision notes](/resources/oxfordaqa-igcse-mathematics-solving-quadratic-equations-by-factorising-completing-revision-notes/) to check recall.
 
+## Frequently asked questions
+
+**What is the quadratic formula?**
+For ax² + bx + c = 0 with a ≠ 0, x = (−b ± √(b² − 4ac)) / (2a). The denominator 2a divides the whole top line.
+
+**Which quadratic methods are Core and which are Extension in OxfordAQA 9260?**
+In OxfordAQA International GCSE Mathematics (9260), reference A20, solving by factorising and by graph are Core. Completing the square and the quadratic formula are Extension only.
+
+**How do you complete the square when a is not 1?**
+Take a out of the x-terms first, then halve the new coefficient of x. For 2x² − 12x + 5, take out the 2 to get 2(x² − 6x) + 5 and halve 6, not 12.
+
+**Which method should you use to solve a quadratic?**
+Factorise when there is a common factor, a difference of two squares or easy integer pairs. Use completing the square if asked or for surd form, the formula when factorising fails and decimals are wanted, and the graph when one is given. If the question names a method, use it.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.2.3, reference A20.

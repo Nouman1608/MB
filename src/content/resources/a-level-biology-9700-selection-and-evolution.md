@@ -25,11 +25,11 @@ syllabusTopics:
     subtopic: "evolution-cambridge-alevel-biology"
 description: "Study guide for Cambridge 9700 A Level Biology topic 17: variation, the t-test, natural and artificial selection, Hardy-Weinberg and speciation."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide teaches topic 17, Selection and evolution, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers sections 17.1 Variation, 17.2 Natural and artificial selection and 17.3 Evolution. This is A Level content, not AS. It is examined on Paper 4 (A Level Structured Questions), and the t-test can also appear on Paper 5 (Planning, Analysis and Evaluation).
@@ -272,6 +272,23 @@ Speciation needs **reproductive isolation**: two populations stop exchanging all
 ## Next steps
 
 Condense this with the [selection and evolution revision notes](/resources/a-level-biology-9700-selection-and-evolution-revision-notes/), then test yourself with the [selection and evolution practice questions](/resources/a-level-biology-9700-selection-and-evolution-practice/).
+
+## Frequently asked questions
+
+**What are the three types of selection?**
+Stabilising, directional and disruptive selection. Stabilising selection is typical when the environment is stable, while directional selection follows a change in the environment.
+
+**What is the founder effect?**
+The founder effect happens when a few individuals start a new, isolated population. Their alleles are only a small sample of the original gene pool, so allele frequencies can differ from the parent population.
+
+**What conditions must be met before using a t-test in Cambridge 9700?**
+The data must be continuous, both samples must come from normally distributed populations, and the standard deviations must be about the same.
+
+**How do you use the Hardy–Weinberg equations to find the number of heterozygotes?**
+Find q² from the proportion with the recessive phenotype, take the square root to get q, work out p = 1 − q, then calculate 2pq and multiply by the population size.
+
+**How can DNA sequence data show how closely species are related?**
+Species that share a more recent common ancestor have had less time to build up mutations, so their DNA base sequences for the same gene show fewer differences.
 
 ## Official syllabus
 

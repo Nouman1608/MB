@@ -28,11 +28,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-2-16"
 description: "12 original IB DP Maths AA HL questions on polynomials, rational and modulus functions and inequalities, with mark-by-mark answers and examiner insights."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -177,6 +177,20 @@ f(f(x)) = 17x/17 = x [1].
 - Read the [exam preparation guide](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/) for paper strategy.
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**What value do you substitute in the remainder theorem for a divisor like (x + 1)?**
+Substitute the value that makes the divisor zero, so for (x + 1) use p(−1), and for (2x − 1) use p(1/2). Using p(1) for (x + 1) is a common sign error.
+
+**What is the most common mistake with the product of roots?**
+Missing the (−1)ⁿ factor. For a polynomial of degree n the product of roots is (−1)ⁿa₀/aₙ, so for a cubic ax³ + bx² + cx + d = 0 it is −d/a.
+
+**Why should you not divide by an expression when solving an inequality?**
+If the expression's sign is unknown, dividing may reverse the inequality without you noticing. Move everything to one side, factorise, and use a sketch or sign table instead.
+
+**How do you justify that a function is odd or even?**
+Work out f(−x) and compare it with f(x): if f(−x) = f(x) for all x in the domain it is even, and if f(−x) = −f(x) it is odd. In IB DP Mathematics: Analysis and Approaches HL, a justification needs this algebra, not just a sketch.
 
 ## Official syllabus
 

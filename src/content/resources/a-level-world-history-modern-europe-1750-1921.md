@@ -13,11 +13,11 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "european-option-modern-europe-9489"
-description: "France 1774-1814, Liberalism and Nationalism in Germany, and Russia from autocracy to revolution -- the full content of the European Option for Cambridge AS & A Level History 9489, 2027-2029 series."
+description: "The European option of Cambridge AS and A Level History 9489 (2027-2029): France 1774-1814, liberalism and nationalism in Germany, and Russia 1881-1924."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -134,6 +134,17 @@ determines which topic needs which skill in the candidate's own exam series.
 This "chain, not list" approach is the single most consistently rewarded essay-writing habit across
 all three periods, and it transfers directly regardless of which specific period an exam question
 happens to draw on.
+
+## Frequently asked questions
+
+**What does the European option cover?**
+Three topics: France, 1774–1814; liberalism and nationalism in Germany, 1815–71; and Russia from autocracy to revolution, 1881–1924.
+
+**How are the AS papers for 9489 structured?**
+Paper 1, Historical Sources (1 hour 15 minutes, 40 marks), is one two-part question on four sources, worth 15 and 25 marks. Paper 2, Outline Study (1 hour 45 minutes, 60 marks), is two two-part questions, each worth 10 + 20 marks.
+
+**Which topic is on which paper?**
+The three topics in each AS option rotate between Paper 1 and Paper 2 according to the table printed in the 2027–2029 syllabus; in any year the topic set for Paper 1 is not set for Paper 2.
 
 ## Official syllabus
 

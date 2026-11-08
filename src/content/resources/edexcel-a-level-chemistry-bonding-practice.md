@@ -15,9 +15,9 @@ syllabusTopics:
     topic: "unit-1-structure-bonding-organic-chemistry-ych11"
 description: "Original exam-style practice questions with full worked answers on bonding, shapes, isomerism and mechanisms for Edexcel A Level Chemistry."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -103,3 +103,17 @@ Related: [Structure, Bonding and Organic Chemistry revision notes](/resources/ed
 - Mixing up which conditions give substitution and which give elimination — aqueous KOH substitutes to an alcohol, ethanolic KOH eliminates to an alkene.
 - Explaining Markovnikov's rule as "hydrogen goes to the carbon with more hydrogens" instead of via carbocation stability, which is the mechanism examiners require.
 - Drawing curly arrows starting from an atom or a positive charge — they must always start from a bond or a lone pair, showing a pair of electrons moving.
+
+## Frequently asked questions
+
+**What is the difference between polarising power and polarisability?**
+Polarising power is the ability of a cation to distort an anion's electron cloud, and it increases with higher charge and smaller size. Polarisability describes how easily an anion's electron cloud is distorted.
+
+**Why is SO₂ polar when CO₂ is not?**
+Both molecules have polar bonds, but CO₂ is linear and symmetrical so the dipoles cancel. SO₂ is bent, so its dipoles do not cancel.
+
+**What decides whether a halogenoalkane gives substitution or elimination with KOH?**
+Aqueous KOH gives nucleophilic substitution to an alcohol, while ethanolic KOH gives elimination to an alkene. Mixing up these conditions is a common way to lose marks.
+
+**Why does ice have a lower density than water?**
+Each water molecule can form four hydrogen bonds arranged tetrahedrally, so ice forms an open lattice with holes. Answers need both the tetrahedral arrangement and the open structure.

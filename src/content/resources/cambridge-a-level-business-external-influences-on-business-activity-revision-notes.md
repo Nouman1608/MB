@@ -304,6 +304,20 @@ Then state a judgement and the condition that would change it.
 </figure>
 
 
+## Frequently asked questions
+
+**What are the key macroeconomic objectives in Cambridge 9609 Business?**
+The syllabus names low unemployment, low inflation and economic growth. Answers should link each one to a specific firm's demand, costs or labour.
+
+**What is the difference between fiscal and monetary policy?**
+Fiscal policy uses taxation and government spending. Monetary policy uses interest rates and the money supply.
+
+**How does a stronger currency affect exporters and importers?**
+A stronger home currency makes exports dearer abroad and imports cheaper. A weaker currency has the opposite effect, helping exporters and raising import costs.
+
+**What is the difference between a social audit and an environmental audit?**
+A social audit reviews a firm's social impact and conduct, such as working conditions. An environmental audit checks its environmental impact, such as waste and energy use, against targets.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International), section 6.1.

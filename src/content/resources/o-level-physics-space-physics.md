@@ -312,6 +312,20 @@ Describe this qualitatively, in three steps.
 - Sending a less massive star to a neutron star or black hole, or a massive star to a white dwarf.
 - Calling the Milky Way the Universe. It is one galaxy among many billions.
 
+## Frequently asked questions
+
+**What powers the Sun?**
+The Sun is a medium-sized star made mostly of hydrogen and helium. Like other stable stars, it is powered by nuclear fusion of hydrogen into helium, which releases energy.
+
+**What is redshift?**
+Redshift is an increase in the observed wavelength of light from receding galaxies. It does not mean the light turns red; saying so is a common error.
+
+**What is the difference between the Milky Way and the Universe?**
+The Milky Way is one galaxy among many billions of galaxies in the Universe. Calling the Milky Way the Universe is a frequent mistake.
+
+**What happens to stars of different masses at the end of their lives?**
+Less massive stars become red giants and end as white dwarfs, while more massive stars become red supergiants, explode as supernovae and leave a neutron star or black hole.
+
 ## Next steps
 
 Try the [practice questions](/resources/o-level-physics-space-physics-practice/), then use the [revision notes](/resources/o-level-physics-space-physics-revision-notes/) for a quick recap. Check your progress against the [checklist](/checklists/cambridge/o-level/physics/) and the [Cambridge O Level Physics hub](/boards/cambridge/o-level/physics/). If you want guided help, [book a free trial class](/trial/).

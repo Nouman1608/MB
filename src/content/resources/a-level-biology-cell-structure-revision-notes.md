@@ -15,11 +15,11 @@ syllabusTopics:
     topic: "cell-structure-cambridge-alevel-biology"
 description: "Condensed recall notes on organelles, prokaryotic and eukaryotic cells, microscopy and magnification for Cambridge A Level Biology 9700."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-08-22
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -166,3 +166,19 @@ The **eyepiece graticule** is a scale fitted inside the eyepiece with arbitrary 
   <figcaption>Line up the scales, work out the length of one eyepiece unit, and recalibrate for each objective.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between free and bound ribosomes?**
+Free ribosomes in the cytoplasm make proteins used within the cell. Ribosomes bound to the rough ER make proteins for secretion or for membranes.
+
+**Why can't living specimens be viewed with an electron microscope?**
+Electron microscope specimens must be prepared in a vacuum and cannot be living. Forgetting this is one of the exam traps listed for Cambridge 9700 cell structure.
+
+**What are the cell walls of prokaryotes, fungi and plants made of?**
+A prokaryotic wall is made of peptidoglycan (murein), a fungal wall of chitin and a plant wall of cellulose.
+
+**Why is a virus not a living cell?**
+Viruses are acellular: they have no cytoplasm, no ribosomes and no metabolism of their own, and they can only replicate inside a host cell.
+
+**What limits the resolution of a microscope?**
+Resolution is limited by the wavelength of the radiation used. Electrons have a far shorter wavelength than light, so electron microscopes resolve much finer detail.

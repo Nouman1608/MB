@@ -17,9 +17,9 @@ syllabusTopics:
     topic: "ib-myp-sciences-related-concepts"
 description: "Eleven original IB MYP Sciences forces questions for criteria A to D, from F = ma and motion graphs to an investigation, each with a worked answer."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -162,6 +162,20 @@ Conclusion: the large cut in force means the benefits outweigh the costs, provid
 - Describing a third-law pair as acting on the same object.
 - A hypothesis with no physics in its reason.
 - A Criterion D answer with calculations but no evaluation.
+
+## Frequently asked questions
+
+**What are common mistakes in forces calculations?**
+Frequent slips include using the thrust instead of the resultant force in F = ma, adding heights of a velocity-time graph instead of areas, and taking average speed as the mean of two speeds.
+
+**How do you find average speed on a journey with different stages?**
+Divide the total distance by the total time. Averaging the speeds of the stages gives the wrong answer unless each stage lasts the same time.
+
+**What should a hypothesis in a forces investigation include?**
+A good hypothesis gives a prediction and a reason based on physics, such as Newton's second law. A hypothesis with no physics in its reason earns less credit.
+
+**What does a Criterion D answer on forces need besides calculations?**
+It needs an evaluation: weigh the benefits and drawbacks of the option or technology and reach a judgement. Calculations alone, with no evaluation, limit the credit.
 
 ## Next steps
 

@@ -19,9 +19,9 @@ syllabusTopics:
     subtopic: "a-phenylamine-and-azo-compounds"
 description: "Original exam-style practice questions with full worked answers on amine basicity, preparation and diazotisation for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -112,7 +112,7 @@ Related: [Amines revision notes](/resources/a-chemistry-amines-revision-notes/)
 **(b)** **Propylamine (1-aminopropane)**, CH₃CH₂CH₂NH₂ [1].
 **(c)** The original halogenoalkane, CH₃CH₂Br, has only **two** carbons; reacting it with KCN adds a third carbon (as the nitrile carbon), giving propanenitrile [1]. Reducing the nitrile then converts that extra carbon's triple-bonded nitrogen into a CH₂NH₂ group, so the overall two-step sequence has **increased the chain length by one carbon**, something a direct substitution reaction with ammonia cannot achieve [1].
 
-**8. (a)** A **deep blue solution** forms [1].
+**8. (a)** A **pale blue precipitate** (copper(II) hydroxide) forms at first, which dissolves in excess ethylamine to give a **deep blue solution** [1].
 **(b)** Ethylamine acts as a **ligand**, donating its nitrogen lone pair to the Cu²⁺ ion to form a **complex ion** [1], in the same way aqueous ammonia forms a deep blue complex with copper(II) ions — the amine's lone pair behaves like ammonia's in this respect, since both donate through nitrogen [1].
 
 **9. (a)** An **immediate white precipitate** forms [1].
@@ -143,3 +143,17 @@ specifically asks for a chain **one carbon longer** than the starting
 halogenoalkane, since direct substitution with ammonia can never change
 the number of carbons present. For the full basicity comparison and
 diazotisation chemistry, see the [Amines revision notes](/resources/a-chemistry-amines-revision-notes/).
+
+## Frequently asked questions
+
+**What is the order of base strength for amines in Cambridge 9701 Chemistry?**
+The order is phenylamine < ammonia < ethylamine < diethylamine. Electron-donating alkyl groups make the nitrogen lone pair more available, while in phenylamine the lone pair is delocalised into the benzene ring.
+
+**Why is excess ammonia used to make a primary amine from a halogenoalkane?**
+The primary amine formed is itself a nucleophile and can attack more halogenoalkane, giving secondary, tertiary and quaternary products. A large excess of ammonia makes further substitution statistically less likely.
+
+**How do you increase the carbon chain by one when making an amine?**
+React the halogenoalkane with KCN to form a nitrile, then reduce the nitrile with LiAlH₄ or H₂ and a nickel catalyst. Direct substitution with ammonia cannot change the number of carbon atoms.
+
+**Where are marks usually lost on amines questions?**
+Common errors include explaining basicity without mentioning lone-pair availability, saying phenylamine is more basic than ammonia, leaving out the NaOH step after reducing nitrobenzene, and forgetting the below 10 °C condition for diazotisation.

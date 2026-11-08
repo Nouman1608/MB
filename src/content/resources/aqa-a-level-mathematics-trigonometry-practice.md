@@ -176,6 +176,20 @@ tan α = 20/12 = 5/3 [1], so **α = 59.0°** [1]
 - For a cos x + b sin x in R cos(x − α) form, using tan α = a/b instead of b/a.
 - In context questions, giving a boundary time instead of the length of the interval asked for.
 
+## Frequently asked questions
+
+**Why do you lose solutions when dividing a trig equation by sin x?**
+Dividing by sin x or cos x throws away the solutions where that function is zero. Factorise instead, then solve each factor separately.
+
+**How do you solve a trig equation with a multiple angle like 3x − 20°?**
+Change the interval first so it covers the whole bracket, find every solution for the bracket in that range, then convert back to x. Not changing the interval is a common way to miss solutions.
+
+**How do you find α when writing a cos x + b sin x as R cos(x − α)?**
+Expand R cos(x − α), match coefficients so that R cos α = a and R sin α = b, then use R = √(a² + b²) and tan α = b/a. Using tan α = a/b is a common mistake.
+
+**Which part of AQA A-level Maths covers trigonometry?**
+Section E: Trigonometry (E1 to E9) of the AQA 7357 specification covers radians, small angle approximations, graphs and exact values, reciprocal and inverse functions, identities, R-form, equations, proof and trigonometry in context.
+
 ## Next steps
 
 - Recap with the [Trigonometry revision notes](/resources/aqa-a-level-mathematics-trigonometry-revision-notes/).

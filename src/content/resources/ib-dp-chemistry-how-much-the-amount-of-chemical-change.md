@@ -251,6 +251,20 @@ When the wanted substance is the only product, atom economy is 100 %, because no
 
 Next, test your recall against the [condensed notes](/resources/ib-dp-chemistry-how-much-the-amount-of-chemical-change-revision-notes/) and work through the [original practice set](/resources/ib-dp-chemistry-how-much-the-amount-of-chemical-change-practice/), which has full worked answers.
 
+## Frequently asked questions
+
+**How do you balance an equation in IB DP Chemistry?**
+Get every formula right first, then balance with coefficients only, starting with an element found in just one reactant and one product and leaving hydrogen, oxygen and uncombined elements until last. Count an unchanged ion such as SO₄²⁻ as one block, and add state symbols.
+
+**What are the three steps in every reacting quantity calculation?**
+Turn the quantity you are given into moles, multiply by the mole ratio of the wanted coefficient over the known coefficient, then turn those moles into the unit the question asks for.
+
+**Why is the experimental yield usually lower than the theoretical yield?**
+The reaction may not go to completion or may reach equilibrium, side reactions can turn reactant into other products, and product can be lost in filtering, transferring or recrystallising. A yield can come out higher if the product is still damp or impure.
+
+**Why does the reactant with fewer moles not always run out first?**
+The limiting reactant depends on the moles divided by the coefficients in the balanced equation. A reactant with fewer moles can be in excess if the equation needs less of it.
+
 ## Official syllabus
 
 *Diploma Programme Chemistry guide*, first assessment 2025 (International Baccalaureate Organization, February 2023). This page follows the Reactivity 2.1 understandings and their guidance.

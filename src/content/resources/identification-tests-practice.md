@@ -18,9 +18,9 @@ syllabusTopics:
     subtopic: "identification-of-ions-and-gases"
 description: "Original exam-style practice questions with full worked answers on cation tests, anion tests, gas tests and flame tests for IGCSE Chemistry."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
@@ -127,5 +127,19 @@ Related: [Identification of Ions and Gases revision notes](/resources/identifica
 - Stopping at the dropwise-ammonia stage when a question specifically asks how to distinguish two similar-looking hydroxide precipitates — the distinguishing observation is often in the excess-reagent stage (for example, zinc and aluminium hydroxides are both white until excess ammonia is added).
 - Forgetting that barium also gives a flame test result (light green), distinct from calcium's orange-red — the two are sometimes confused since both are Group 2 metals.
 - Confusing the gas test with the ion test: sulfur dioxide gas and sulfite ions in solution both decolourise acidified potassium manganate(VII), but the sulfite test is done on the solution itself. The nitrate test is the one that needs a reaction step first (warm with aqueous sodium hydroxide and aluminium foil, then test the gas for ammonia).
+
+## Frequently asked questions
+
+**Are these IGCSE Chemistry identification tests questions from past papers?**
+No. They are original exam-style practice questions with worked answers, written for revision of cation, anion, gas and flame tests.
+
+**Why must litmus paper be damp in gas tests?**
+Gas tests with litmus paper use damp litmus, for example damp red litmus turning blue in ammonia. Forgetting to say "damp" is a common way to lose marks.
+
+**How do you tell Fe²⁺ from Fe³⁺ with sodium hydroxide?**
+Fe²⁺ gives a green precipitate that turns brown near the surface on standing. Fe³⁺ gives a red-brown precipitate.
+
+**What is the difference between the sulfur dioxide test and the sulfite test?**
+Both decolourise acidified potassium manganate(VII). The sulfur dioxide test is done on a gas, while the sulfite test is done on ions in solution, so read which one the question asks about.
 
 For condensed recall notes on this topic, see the [Identification of Ions and Gases revision notes](/resources/identification-tests-revision-notes/); for the full explanation with the complete cation and anion tables, see the [Identification of Ions and Gases study guide](/resources/identification-of-ions-and-gases/).

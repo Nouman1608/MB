@@ -282,6 +282,23 @@ Cash left in the tin should be 120 less 89.75 = 30.25. The cashier receives **89
 - Putting a cheque payment in the cash column, or equipment in the purchases journal.
 - Restoring the petty cash float with the cash left in the tin, not the amount spent.
 
+## Frequently asked questions
+
+**What are the seven books of prime entry in Cambridge IGCSE Accounting 0452?**
+The seven books are the sales journal, sales returns journal, purchases journal, purchases returns journal, general journal, cash book and petty cash book. Each holds the first record of a transaction, made from its source document, before posting to the ledger.
+
+**What is the difference between trade discount and cash discount?**
+Trade discount is deducted on the invoice, often for bulk orders or trade customers, and is never entered in the ledger. Cash discount rewards early settlement and is recorded only when payment is made, as discount allowed or discount received in the cash book.
+
+**What is the dual function of the cash book?**
+The cash book is a book of prime entry, because transactions are first recorded in it, and it is also the ledger account for cash and bank. Its balances are the cash and bank account balances.
+
+**Is equipment bought on credit recorded in the purchases journal?**
+No. The purchases journal is for goods bought for resale. A non-current asset such as shop shelving bought on credit is recorded in the general journal.
+
+**What are the benefits and limitations of digital original entry?**
+Software calculates totals and postings automatically, produces documents quickly and makes records easy to back up, search and report on. Its limitations are set-up and training costs, the risk of system failure or data loss, and an input error spreading to every record it feeds.
+
 ## Official syllabus
 
 Source: the Cambridge IGCSE Accounting 0452 syllabus (version 1), valid for examination in 2027, 2028 and 2029, from Cambridge University Press and Assessment (Cambridge International Education).

@@ -22,11 +22,11 @@ syllabusTopics:
     subtopic: "investigation-of-limiting-factors-cambridge-alevel"
 description: "Chloroplasts, pigments, Rf values, photophosphorylation, the Calvin cycle and limiting factors, taught from scratch for Cambridge A Level Biology 9700."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This study guide teaches Topic 13, Photosynthesis, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers sections 13.1 (Photosynthesis as an energy transfer process) and 13.2 (Investigation of limiting factors). This is A Level content, not AS Level content: it is examined in Paper 4 (A Level Structured Questions), and the chromatography, redox-indicator and whole-plant investigations are the kind of practical work that Paper 5 (Planning, Analysis and Evaluation) builds on.
@@ -251,6 +251,23 @@ Use an aquatic plant such as pondweed in a solution of **sodium hydrogencarbonat
 ## Next steps
 
 Condense this with the [photosynthesis revision notes](/resources/a-level-biology-9700-photosynthesis-revision-notes/), then work through the [photosynthesis practice questions](/resources/a-level-biology-9700-photosynthesis-practice/).
+
+## Frequently asked questions
+
+**Where do the two stages of photosynthesis happen?**
+The light-dependent stage happens in the thylakoids and the light-independent stage (Calvin cycle) happens in the stroma of the chloroplast.
+
+**What are the three stages of the Calvin cycle?**
+Fixation, where rubisco combines CO₂ with RuBP to form two GP; reduction of GP to triose phosphate using reduced NADP and ATP; and regeneration of RuBP from most of the TP, which also uses ATP.
+
+**Why do leaves look green?**
+Chlorophylls absorb strongly in the blue and red parts of the spectrum but absorb little green light, which is reflected or transmitted.
+
+**Which limiting factors are named in the Cambridge 9700 syllabus?**
+Light intensity, carbon dioxide concentration and temperature. Light limits the light-dependent stage, while carbon dioxide and temperature affect the Calvin cycle.
+
+**Does the Calvin cycle need light?**
+It does not use light directly, but it stops without light because it needs the ATP and reduced NADP made in the light-dependent stage.
 
 ## Official syllabus
 

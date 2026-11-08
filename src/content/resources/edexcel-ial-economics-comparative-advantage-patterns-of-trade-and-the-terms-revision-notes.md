@@ -257,6 +257,20 @@ A 20% depreciation (foreign units per home unit falls from 1.00 to 0.80) raises 
 - Evaluating with a summary rather than a judgement that names what the answer depends on.
 - Mixing percentages and percentage points.
 
+## Frequently asked questions
+
+**What does a rise in the terms of trade mean?**
+A rise means each unit of exports buys more imports, which is an improvement. A fall means each unit of exports buys fewer imports, a deterioration.
+
+**How do you calculate opportunity cost for comparative advantage?**
+Divide the output of the good given up by the output of the good gained. For example, if a worker makes 8 rice or 4 bicycles, one bicycle costs 8 ÷ 4 = 2 rice.
+
+**Is the terms of trade the same as competitiveness?**
+No. The terms of trade compare export and import prices. An improvement can mean exports are dearer, which may make a country less competitive.
+
+**What happens if the assumptions of comparative advantage fail?**
+Transport costs, rising opportunity costs, immobile factors, trade barriers and changing comparative advantage all reduce or remove the gains from specialisation predicted by the model.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics, Specification, Issue 2, June 2018, Pearson Education Limited: Unit 4, section 4.3.2 Trade and the global economy, statements 1 to 3.

@@ -272,6 +272,17 @@ February ends £200 overdrawn. Remedies include arranging an overdraft, asking s
 - Listing sources of finance without matching them to the business and need.
 - Quoting ARR as a bare percentage, with no comment on what it means.
 
+## Frequently asked questions
+
+**What is the difference between fixed and variable costs?**
+Fixed costs, such as rent, do not change as output changes in the short term. Variable costs, such as materials, rise and fall with output.
+
+**What does break-even tell a business?**
+Break-even is the level of sales at which total costs equal total revenue, so the business makes neither a profit nor a loss. It informs marketing and planning decisions, such as whether a price or sales target is realistic.
+
+**What is liquidity?**
+Liquidity is the ability of a business to meet its short-term debts and expenses. Cash provides liquidity, which is why a business can fail through running out of cash even when it is profitable.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) in Business (J204) Specification*, Version 2.0 (January 2026), section 2c, content of Business 2: operations, finance and influences on business, topic 5 Finance, and Appendix 5c, quantitative skills requirement.

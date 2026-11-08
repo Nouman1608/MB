@@ -235,6 +235,22 @@ Parts may be needed more than once. Reduction formulae are excluded.
   <figcaption>Integrating gives a family of curves; a known point picks out one of them.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Which standard integrals must you recall for AQA 7357?**
+Appendix B lists the integrals of xⁿ (n ≠ −1), e^(kx), 1/x, sin kx and cos kx, along with the rules for sums and for f′(g(x))g′(x).
+
+**When should you use substitution and when should you use integration by parts?**
+A function together with a multiple of the derivative of its inside suggests substitution. A product of unrelated types, such as a polynomial times an exponential, trig or log function, suggests parts.
+
+**What is integration as the limit of a sum?**
+∫ₐᵇ y dx = lim(δx → 0) Σ y δx, where each term y δx is the area of a thin rectangle. The expression multiplying δx is the integrand and the range of x gives the limits.
+
+**Are reduction formulae in the AQA 7357 specification?**
+No. Integration by parts may be needed more than once, but reduction formulae are excluded.
+
+**What is the difference between a general and a particular solution?**
+A general solution keeps the arbitrary constant, while a particular solution uses a given condition to fix its value.
 
 ## Official syllabus
 

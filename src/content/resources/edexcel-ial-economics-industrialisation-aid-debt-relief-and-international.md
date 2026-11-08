@@ -202,6 +202,20 @@ Aid is a transfer of resources from donors to poorer countries on concessional t
 - Calling debt relief free. Someone bears the cost.
 - Stating that aid always helps or always fails. Link the result to how it is used.
 
+## Frequently asked questions
+
+**What are the weaknesses of the Lewis model?**
+Zero marginal product is hard to find on real farms, profits may not be reinvested at home, capital-intensive firms create few jobs, and migrants may become urban unemployed if modern jobs grow too slowly.
+
+**What are the risks of relying on primary industries?**
+Prices can swing sharply, so export earnings are unstable, and relying on one product leaves the country exposed if its price falls.
+
+**Is debt relief free?**
+No. Lenders bear the cost and may charge higher rates to others or lend less in future. Relief helps most when the freed funds go into schools, clinics and infrastructure.
+
+**Which part of the Edexcel International A Level Economics specification does this guide cover?**
+Section 4.3.6, Growth and development in developing, emerging and developed economies, item 3 parts c and d, in Unit 4 of the Pearson Edexcel International A Level Economics specification.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification, Issue 2, June 2018, first assessment June 2020, published by Pearson Education Limited: section 4.3.6, Growth and development in developing, emerging and developed economies, item 3, parts c and d (Unit 4, Developments in the global economy).

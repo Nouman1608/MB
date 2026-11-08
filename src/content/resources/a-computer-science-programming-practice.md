@@ -12,11 +12,14 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "fundamentals-of-programming"
+  - qualification: "a-level"
+    topic: "fundamentals-of-programming"
+    subtopic: "programming-aqa-alevel-cs"
 description: "Original exam-style practice questions with full worked answers on data types, control structures, procedures, functions and scope."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -141,3 +144,17 @@ Drawback: each call **adds a stack frame to the call stack**, so recursion uses 
 - Omitting the base case when describing recursion.
 - Confusing which loop type tests its condition before versus after the body.
 - Forgetting to close a file after reading or writing to it.
+
+## Frequently asked questions
+
+**What is the difference between a procedure and a function?**
+A procedure carries out a task but does not return a value. A function returns a single value to the calling statement, so it can be used in an expression.
+
+**Why should global variables be avoided?**
+Any part of the program can change a global variable, which makes bugs hard to trace. Globals also stop subroutines being self-contained and reusable, and they take up memory for the whole run.
+
+**What is a common mistake when writing a function to find the largest value in an array?**
+Initialising the maximum to 0, which gives the wrong answer for an array of negative numbers. Initialise it to the first element instead.
+
+**What are the steps for handling a file in a program?**
+Open the file, read from or write to it, then close it. Failing to close a file can leave it locked or lose buffered data.

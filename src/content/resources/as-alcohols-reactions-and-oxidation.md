@@ -16,9 +16,9 @@ syllabusTopics:
     subtopic: "as-alcohols"
 description: "Production, oxidation and distinguishing tests for primary, secondary and tertiary alcohols, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -203,6 +203,20 @@ ketone (no further oxidation); tertiary → no reaction
 stays orange for tertiary
 - The iodoform test for a CH₃CH(OH)– group
 - Why alcohols are weaker acids than water
+
+## Frequently asked questions
+
+**What does acidified potassium dichromate do to primary, secondary and tertiary alcohols?**
+It oxidises a primary alcohol to an aldehyde or a carboxylic acid and a secondary alcohol to a ketone. A tertiary alcohol is not oxidised, so there is no reaction.
+
+**How do you get an aldehyde rather than a carboxylic acid from a primary alcohol?**
+Use the same oxidising agent but distil the product off as it forms to obtain the aldehyde. Heating under reflux instead gives the carboxylic acid.
+
+**Which alcohols give a positive iodoform test?**
+The iodoform (tri-iodomethane) test is specific to alcohols containing the CH₃CH(OH)– group, such as ethanol. It is not a general test for all alcohols.
+
+**Which part of the Cambridge 9701 syllabus covers alcohols?**
+Alcohols are subtopic 16.1, in Topic 16 Hydroxy compounds of Cambridge International AS & A Level Chemistry 9701, and are AS Level content.
 
 ## Related resources
 

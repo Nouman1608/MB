@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "geometry-and-measures-oxfordaqa-igcse-maths"
     subtopic: "properties-and-constructions-oxfordaqa-igcse-maths"
-description: "Study guide to symmetry, congruence, similar figures, 3D solid properties and plans and elevations for OxfordAQA International GCSE Maths."
+description: "Study guide to symmetry, congruence, similar figures, 3D solid properties and plans and elevations for OxfordAQA International GCSE Maths (9260)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -378,6 +378,20 @@ The front elevation shows the tallest stack in each column: 3, 2, 1 from left to
 ## Next steps
 
 Revise with the [revision notes](/resources/oxfordaqa-igcse-mathematics-symmetry-congruence-similarity-and-3d-solids-with-revision-notes/), then try the [practice questions](/resources/oxfordaqa-igcse-mathematics-symmetry-congruence-similarity-and-3d-solids-with-practice/).
+
+## Frequently asked questions
+
+**What is the difference between a plan and an elevation?**
+A plan is the view from directly above. A front elevation is the view from the front, and a side elevation is the view from a stated side.
+
+**What does order of rotation symmetry mean?**
+It is the number of times a shape fits onto itself in one full turn, counting the start. A regular polygon with n sides has order n and n lines of symmetry.
+
+**Which parts of this topic are Extension only in OxfordAQA 9260?**
+In OxfordAQA International GCSE Mathematics (9260), symmetry, congruence, lengths in similar figures, properties of solids and interpreting plans and elevations are Core. Conditions for congruent triangles (G7) and constructing plans and elevations (G11) are Extension only.
+
+**Do equal angles prove two shapes are similar?**
+For triangles, yes: equal angles are enough. For other shapes, no: two rectangles always have equal angles but need not be similar, so compare the long sides and short sides.
 
 ## Official syllabus
 

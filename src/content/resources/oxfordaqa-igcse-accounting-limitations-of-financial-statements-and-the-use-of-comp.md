@@ -245,6 +245,23 @@ On these figures the software pays for itself in the first year. A fair answer a
 - Giving only advantages of software, or only disadvantages.
 - Calling a non-financial factor, such as staff morale, a financial one.
 
+## Frequently asked questions
+
+**Why is the statement of financial position called a snapshot?**
+It shows the figures on a single date, which may be unrepresentative. Seasonal trade is the clearest case, and a business can also arrange its affairs just before the year end so that a ratio looks better.
+
+**How does historical cost limit financial statements?**
+Non-current assets are usually recorded at cost less depreciation. After years of rising prices the figures understate what the assets are worth now, which distorts any ratio using capital employed.
+
+**Why can two identical businesses report different profits?**
+Depreciation, allowances for irrecoverable debts and inventory valuation all involve judgement, so different accounting policies give different figures even when the businesses trade identically.
+
+**Do ratios explain why performance changed?**
+No. A ratio shows that something changed but never says why. A fall in gross profit margin could come from several causes, so the reason has to be found from other information.
+
+**What are the advantages of computerised accounting software?**
+Entries post to the ledger accounts automatically and totals update at once, which saves time and removes arithmetic slips. Disadvantages include the cost of hardware, licences, updates and staff training.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), specification version 1.2, section 3.5, published by OxfordAQA, for exams from May/June 2026 onwards.

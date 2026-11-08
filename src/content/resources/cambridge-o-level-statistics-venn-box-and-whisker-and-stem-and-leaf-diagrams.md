@@ -228,6 +228,23 @@ For tables, check the headings, units and whether numbers are counts or percenta
 
 Condense this into [the revision notes](/resources/cambridge-o-level-statistics-venn-box-and-whisker-and-stem-and-leaf-diagrams-revision-notes/), then try [the practice set](/resources/cambridge-o-level-statistics-venn-box-and-whisker-and-stem-and-leaf-diagrams-practice/). The [free diagnostics](/diagnostics/) show which topic to work on next.
 
+## Frequently asked questions
+
+**How do you find the "neither" number in a Venn diagram?**
+Fill the overlap first, work outwards to find each "only" region, add all the regions inside the circles, and subtract from the total. For example, 40 students with 30 in at least one club leaves 10 in neither.
+
+**How do you find the quartiles for a box-and-whisker diagram?**
+Order the data and find the median, then take the median of the lower half and of the upper half, leaving the median out of both halves when the number of values is odd. Methods for small lists differ between courses, so show your working.
+
+**When should you use a stem-and-leaf diagram instead of a box plot?**
+Use a stem-and-leaf diagram when you need the exact values of a small data set. Box-and-whisker diagrams are better for comparing the spread of several groups or for large data sets.
+
+**What are the disadvantages of a Venn diagram?**
+A Venn diagram gets crowded with more than three sets, and it shows counts in categories rather than the values of a measurement.
+
+**Which sections of the Cambridge O Level Statistics 4040 syllabus cover these diagrams?**
+Section 2.2 covers drawing Venn, box-and-whisker and stem-and-leaf diagrams, section 2.3 covers their purpose, advantages and disadvantages, and section 2.4 covers interpreting data, in the 4040 syllabus for 2025, 2026 and 2027.
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027 (version 1), published by Cambridge Assessment International Education, part of Cambridge University Press & Assessment. Sections 2.2, 2.3 and 2.4.

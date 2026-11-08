@@ -17,11 +17,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-thermodynamics"
     subtopic: "a-the-first-law-of-thermodynamics"
-description: "Internal energy as the sum of the random distribution of kinetic and potential energies of molecules, and the first law of thermodynamics, for Cambridge International AS & A Level Physics 9702."
+description: "Internal energy as random kinetic and potential energy of molecules, work W = pΔV, and the first law ΔU = q + W: Topic 16 of Cambridge A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -176,6 +176,20 @@ approach is needed if pressure changes during the process.
 - pΔV is the magnitude of the work done at constant pressure; in ΔU = q + W an expansion enters as W = −pΔV and a compression as W = +p|ΔV|
 - ΔU = q + W, and correctly signing q and W for the direction of energy transfer
 - Internal energy depends only on the state of the system, not the path taken
+
+## Frequently asked questions
+
+**What is the first law of thermodynamics?**
+The first law is ΔU = q + W, where ΔU is the increase in internal energy, q is the thermal energy supplied to the system and W is the work done on the system. It is a statement of conservation of energy.
+
+**What is the difference between work done by a gas and work done on a gas?**
+pΔV gives the work done by a gas when it expands at constant pressure. In ΔU = q + W the work is done on the gas, so an expansion enters as W = −pΔV and a compression as a positive W.
+
+**What happens to internal energy in an isovolumetric process?**
+At constant volume no work is done on or by the gas, so W = 0 and the change in internal energy equals the heat supplied, ΔU = q.
+
+**Does changing state change internal energy?**
+Yes. Melting or boiling changes the potential energy component of internal energy without necessarily changing the temperature, which is why a cooling curve has flat regions.
 
 ## Related resources
 

@@ -252,6 +252,20 @@ Costs and limits: fees, audits, paperwork and staff time. A standard shows that 
 - Writing TQM as another name for inspection.
 - Listing benefits only. Evaluate with costs, timing and context.
 
+## Frequently asked questions
+
+**What is lean production?**
+Lean production is an approach to operations that tries to get the same or better output from fewer resources. Its features in the IB guide are less waste and greater efficiency.
+
+**What are the drawbacks of just-in-time production?**
+Because there is little stock to cover a gap, a late delivery or machine breakdown can stop production. JIT depends on reliable suppliers, accurate demand forecasts and well-maintained machines, and extra delivery costs can reduce its savings.
+
+**What is cradle to cradle design?**
+Cradle to cradle is an approach to design and manufacturing that removes the idea of waste: materials are chosen to be reused or safely returned to nature, and products are designed to be taken apart. It contrasts with the linear cradle-to-grave model that ends in disposal.
+
+**What is the difference between quality control and quality assurance?**
+Quality control checks output against a standard to detect defects, usually after or during production. Quality assurance builds quality into the whole process, from design to delivery, to prevent defects.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, International Baccalaureate Organization, section 5.3, Lean production and quality management (HL only). Marlbridge is not affiliated with the IB.

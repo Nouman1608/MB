@@ -143,6 +143,20 @@ Profit for the year = 68,700 - 48,860 = **19,840** [1]. **[10]**
 - Try the [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students usually lose marks on manufacturing accounts in OxfordAQA 9215?**
+Common losses are leaving closing raw materials out of the materials used calculation, adding returns outwards instead of deducting them, and treating a supervisor's salary as direct wages.
+
+**Where does closing inventory of finished goods go?**
+Closing finished goods inventory is deducted in the cost of sales calculation in the income statement, not in the manufacturing account. Putting it in the manufacturing account is a common mistake.
+
+**What should I check when working out a factory overhead?**
+Adjust for any prepayment or amount owing, and use the carrying amount rather than cost for reducing balance depreciation of factory machinery.
+
+**How should I comment on manufacturing results?**
+Use a figure from the statements, such as overheads as a percentage of prime cost, and give a reason for the change. A comment with no figure and no reason earns little.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Accounting (9215), version 1.2, for exams from May/June 2026, published by OxfordAQA. These questions cover the manufacturing organisations content of section 3.4.

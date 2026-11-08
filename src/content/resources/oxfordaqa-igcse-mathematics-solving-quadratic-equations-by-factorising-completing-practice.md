@@ -95,7 +95,7 @@ If a method is unfamiliar, start with the [study guide](/resources/oxfordaqa-igc
 
 **5. (a)** All seven points plotted correctly [1]. A smooth curve through them, with a rounded minimum [1]. **[2]**
 **(b)** The curve crosses y = 0 between x = −1 and x = 0, and between x = 4 and x = 5 [1]. **x ≈ −0.2 and x ≈ 4.2** (answers within about 0.1 of these are reasonable) [1]. **[2]**
-**(c)** x² − 4x − 3 = 0 becomes x² − 4x − 1 = 2 [1], so the line is y = 2 [1]. Reading where it meets the curve gives **x ≈ −0.6 and x ≈ 4.6** [1]. **[3]**
+**(c)** x² − 4x − 3 = 0 becomes x² − 4x − 1 = 2 [1], so the line is y = 2 [1]. Reading where it meets the curve gives **x ≈ −0.65 and x ≈ 4.65** (the exact roots are 2 ± √7; readings within about 0.1 of these are reasonable) [1]. **[3]**
 *Examiner insight:* Solutions are x-values, so mark them clearly on the x-axis or list them as x = ...; quoting the y-values of the points is a common way to lose the final mark.
 
 **6. (a)** (x − 4)² [1] − 10, because −16 + 6 = −10 [1]. **(x − 4)² − 10** **[2]**
@@ -140,6 +140,20 @@ If a method is unfamiliar, start with the [study guide](/resources/oxfordaqa-igc
 - Return to the [OxfordAQA IGCSE Mathematics course page](/boards/oxfordaqa/igcse/mathematics/) and tick off topics on the [checklist](/checklists/oxfordaqa/igcse/mathematics/).
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Why must a quadratic equation equal zero before you factorise?**
+The zero-product rule only works when the product is exactly 0: if p × q = 0 then p = 0 or q = 0. Setting each bracket equal to a non-zero number, such as 10, gives wrong answers.
+
+**Can you divide both sides of a quadratic by x?**
+No. Dividing by x loses the solution x = 0. Factorise out x instead, so x² − 4x = 0 becomes x(x − 4) = 0 with solutions x = 0 or x = 4.
+
+**How do you avoid sign errors with a negative b in the quadratic formula?**
+Substitute using brackets, so (−b)² is always positive. Writing −b² for (−b)² when b is negative is a common lost mark.
+
+**What should you do with a negative solution in a context question?**
+Reject it with a short reason if it is impossible, such as a negative length or time, and answer in the words of the question with units. OxfordAQA International GCSE Mathematics (9260) questions expect you to say which solution is valid.
 
 ## Official syllabus
 

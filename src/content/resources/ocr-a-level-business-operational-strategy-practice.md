@@ -135,6 +135,17 @@ These questions cover topic 4, Operational strategy, in the OCR A Level Business
 - Confusing quality control with quality assurance.
 - Naming a risk without explaining its effect.
 
+## Frequently asked questions
+
+**What calculations come up in OCR A Level Business operational strategy questions?**
+Topic 4 of OCR A Level Business (H431) includes added value, labour productivity, capacity utilisation, wastage rates, stock control charts, critical path analysis and PERT. Calculation questions are often followed by a part asking you to analyse or explain what the figure means.
+
+**How should you answer a "recommend" question on operations, such as choosing a stock control method?**
+Choose one option, give reasons drawn from the case, such as supplier distance and reliability or stock costs, and explain why the main alternative is weaker. Saying a method like JIT is always best without discussing the case is a common way to lose marks.
+
+**What is the difference between quality control and quality assurance?**
+Quality control inspects output to find defects after production. Quality assurance builds quality into the whole process to prevent defects happening in the first place.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/ocr-a-level-business-operational-strategy-revision-notes/) and the [study guide](/resources/ocr-a-level-business-operational-strategy/).

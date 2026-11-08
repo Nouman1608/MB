@@ -167,6 +167,20 @@ Urea from the liver to the kidneys; hormones from a gland to target cells; carbo
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is IB DP Biology C3.1.1 to C3.1.10 HL only?**
+No. Statements C3.1.1 to C3.1.10 on system integration, the nervous system, the spinal cord, reflex arcs and the cerebellum are for both SL and HL.
+
+**What is an emergent property?**
+An emergent property is a feature of the whole that none of its parts has alone; for example, the heart pumps blood although a single cardiac muscle cell cannot.
+
+**What are the steps of a pain reflex arc?**
+A pain receptor in the skin triggers a sensory neuron that enters the spinal cord through the dorsal root; an interneuron in the grey matter passes the impulse to a motor neuron leaving by the ventral root, which makes a skeletal muscle contract.
+
+**How do you compare nervous and endocrine signalling?**
+State both sides in each point: nervous signals are electrical impulses along neurons, fast and short-lived, while endocrine signals are hormones carried in the blood to any cell with receptors, slower and usually longer-lasting.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section C3.1, Integration of body systems, statements C3.1.1 to C3.1.10.

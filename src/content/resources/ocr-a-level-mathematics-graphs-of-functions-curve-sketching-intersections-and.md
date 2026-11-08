@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-ocr-alevel-maths"
     subtopic: "algebra-and-functions-ocr-alevel-maths"
-description: "Study guide to OCR A Level Mathematics A (H240) curve sketching, reciprocal graphs, intersections, graphical solutions and proportionality."
+description: "Detailed study guide to OCR A Level Mathematics A (H240) curve sketching, reciprocal graphs, intersections, graphical solutions and proportionality."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
@@ -249,6 +249,20 @@ Test y/x²: 4, 8, 12, 16 (not constant). Test y/x³: 4, 4, 4, 4. So y = 4x³, an
 - Giving the x-coordinates when a question asks for points of intersection, or the reverse.
 - Reading an inequality from the wrong side of an intersection. Test one value in each interval.
 - Treating a straight line with a non-zero intercept as direct proportion.
+
+## Frequently asked questions
+
+**Which specification references cover graphs and proportionality in OCR A Level Mathematics A (H240)?**
+References 1.02m to 1.02r cover plotting and sketching, polynomials, reciprocal graphs, the link between algebra and graphs, using intersections to solve equations, and proportionality.
+
+**How can a graph tell you how many solutions an equation has?**
+Rearrange the equation as f(x) = g(x), sketch both curves and count the intersections. Two different real solutions mean the graphs meet twice, a repeated solution means they touch, and no real solution means they do not meet.
+
+**How do you solve an inverse square proportion problem?**
+Write the relationship as y = k/x², use the given values to find k, then substitute. For example, I = 18 when d = 2 gives k = 72, so I = 8 when d = 3.
+
+**Can a reciprocal curve cross its asymptote?**
+For y = a/x and y = a/x², the curve approaches the asymptotes x = 0 and y = 0 ever more closely without meeting them, so it must not cross an axis or end at a point.
 
 ## Official syllabus
 

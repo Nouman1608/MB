@@ -134,6 +134,20 @@ These questions cover Pearson Edexcel International Advanced Level Mathematics (
 - Differentiating a volume with two variables before eliminating one.
 - Leaving out units on a rate of change.
 
+## Frequently asked questions
+
+**What is the most common mistake in implicit differentiation?**
+Forgetting the dy/dx on a y term, or forgetting to use the product rule on a mixed term such as xy. Every term must be differentiated with respect to x.
+
+**How do you find dy/dx for a parametric curve?**
+Find dx/dt and dy/dt, then divide: dy/dx = (dy/dt) ÷ (dx/dt). Dividing the wrong way round is a common error.
+
+**Why should you state the range of the parameter with a cartesian equation?**
+Eliminating the parameter can lose a restriction, so the cartesian equation may describe more than the actual curve. For example, x = sin t limits x to between −1 and 1.
+
+**How do you form a differential equation for a decreasing quantity?**
+Write the rate as a negative multiple, for example dM/dt = −kM with k > 0 for a mass decreasing at a rate proportional to M. Dropping the minus sign is a common way to lose marks.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/edexcel-ial-mathematics-parametric-equations-and-differentiation-of-implicit/) for any question you found hard.

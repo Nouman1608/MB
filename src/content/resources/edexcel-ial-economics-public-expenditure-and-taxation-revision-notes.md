@@ -249,6 +249,23 @@ Use these to finish any tax or spending answer:
 - Ignoring elasticity when analysing indirect tax incidence or export effects.
 - Listing effects with no judgement at the end.
 
+## Frequently asked questions
+
+**Why are transfer payments not included in G in aggregate demand?**
+Transfer payments, such as pensions and unemployment benefit, move money from taxpayers to recipients without the state buying any output. They still count in total public expenditure and raise consumption when spent, but they are not part of government spending (G) in the aggregate demand identity.
+
+**What is the difference between financial and resource crowding out?**
+Financial crowding out happens when extra government borrowing raises interest rates and private investment falls. Resource crowding out happens near full capacity, when the state competes with firms for labour and materials. Both are weaker when there is spare capacity.
+
+**What is the difference between a progressive, proportional and regressive tax?**
+A progressive tax has an average rate that rises with income, a proportional tax has a constant average rate, and a regressive tax has an average rate that falls as income rises. A sales tax is often regressive measured against income because richer households save more.
+
+**How does a higher income tax rate affect incentives to work?**
+There are two opposing effects. The substitution effect makes leisure cheaper relative to work, so people may work less, while the income effect lowers take-home pay, so people may work more to keep their living standard; the overall result is uncertain.
+
+**Is a high tax the same as a progressive tax?**
+No. Whether a tax is progressive depends on how the average rate changes as income rises, not on how high the rate is. A tax can be high and proportional, as with a single flat rate charged on all income.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification, Issue 2, June 2018, Pearson Education Limited, section 4.3.5 items 1 and 2.

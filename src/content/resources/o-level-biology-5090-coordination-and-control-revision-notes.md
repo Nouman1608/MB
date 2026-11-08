@@ -297,6 +297,20 @@ The excitement causes the adrenal glands to release adrenaline. Adrenaline incre
 - Comparing nervous and hormonal control on anything other than speed of action and duration of effect when the question limits it.
 - Giving "sweating cools the body" without saying the water **evaporates**.
 
+## Frequently asked questions
+
+**What is the order of a reflex arc?**
+Stimulus, receptor, sensory neurone, relay neurone, motor neurone, effector, response. Leaving out the relay neurone is a common error.
+
+**What happens to the pupil in bright light?**
+In bright light the circular muscles of the iris contract and the radial muscles relax, so the pupil becomes smaller and less light enters the eye.
+
+**What are the signs of Type 1 diabetes?**
+The signs needed for Cambridge O Level Biology 5090 are an increased blood glucose concentration and glucose in the urine. The treatment is the administration of insulin, usually by injection.
+
+**Why do impulses travel in only one direction across a synapse?**
+Vesicles containing neurotransmitter are only on one side of the synapse and the receptor proteins are only on the other, so impulses can pass in one direction only.
+
 ## Official syllabus
 
 Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), Topic 14: Coordination and control (14.1 to 14.6), published by Cambridge Assessment International Education.

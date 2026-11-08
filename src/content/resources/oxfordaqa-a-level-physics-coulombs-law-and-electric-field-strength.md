@@ -250,6 +250,23 @@ F = qE = 4.0 × 10⁻⁹ × 3.497 × 10³ = **1.4 × 10⁻⁵ N**, towards the s
 - Drawing the path between the plates as a circle. It is a parabola.
 - Saying field lines show a moving charge's path. They show the direction of the force.
 
+## Frequently asked questions
+
+**What is Coulomb's law?**
+The force between two point charges is proportional to the product of the charges and inversely proportional to the square of their separation: F = Q₁Q₂ / (4πε₀r²). Like charges repel and unlike charges attract.
+
+**What happens to the Coulomb force if the separation is tripled?**
+The force falls to one ninth, because it depends on 1/r². Doubling one charge at the same time doubles the force, giving 2/9 of the original.
+
+**What do electric field lines show?**
+They show the direction of the force on a positive test charge. They do not show the path a moving charge takes.
+
+**Which way is the force on an electron in an electric field?**
+Opposite to the field direction, because the electron is negative. The field direction is defined by the force on a positive charge.
+
+**How can a charged oil droplet be held stationary between plates?**
+The electric force QE upwards balances the droplet's weight mg. With E = V/d, the charge on the droplet is Q = mgd/V.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630), Version 4.4, for International AS and A-level exams May/June 2020 onwards, published by OxfordAQA. Sections 3.8.1 Coulomb's law and 3.8.2 Electric field strength (International A-level only).

@@ -250,6 +250,23 @@ These are hypotheses for the differences. A striated muscle fibre is a debated c
 - Saying a larger cell has a larger SA:V ratio. Area grows more slowly than volume.
 - Mixing up free ribosomes (proteins kept in the cell) and rER ribosomes (secreted proteins).
 
+## Frequently asked questions
+
+**What is cell fractionation?**
+Cell fractionation breaks cells open in a cold, buffered, isotonic solution and spins the homogenate in an ultracentrifuge; denser structures such as nuclei pellet at lower speeds, and lighter ones need higher speeds.
+
+**What is the difference between free ribosomes and ribosomes on the rough ER?**
+Free ribosomes make proteins used inside the cell, such as glycolytic enzymes; ribosomes on the rough ER make proteins for secretion, for lysosomes or for the plasma membrane. This is HL-only content in IB DP Biology B2.2.
+
+**How does a secreted protein leave the cell?**
+It is made by ribosomes on the rough ER and folds in the ER lumen, travels in a transport vesicle to the Golgi apparatus to be processed and sorted, then a vesicle carries it to the plasma membrane for release by exocytosis.
+
+**Why do cells in an organism differentiate differently if they share the same genome?**
+Cells differ because they express different genes; in an early embryo, gradients of substances give cells in different positions different signals, so they switch different genes on or off.
+
+**Is a striated muscle fibre a single cell?**
+It is debated: a striated muscle fibre is enclosed by a single plasma membrane, but it is very large, multinucleate and formed by many cells fusing, so the answer depends on the definition of a cell used.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Diploma Programme Biology guide*, first assessment 2025, published February 2023, sections B2.2 and B2.3.

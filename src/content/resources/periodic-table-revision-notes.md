@@ -42,12 +42,12 @@ syllabusTopics:
     subtopic: "noble-gases"
 description: "Condensed recall notes on Periodic Table arrangement, Group I, Group VII, transition elements and noble gases for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -152,3 +152,20 @@ All exist as **diatomic** molecules and form 1− ions.
 7. *(0620 Extended, 5070 required)* Name 0620's example element for variable oxidation numbers, and give its two named ion charges.
 
 **Answers:** 1. Its outer electron is in a shell further from the nucleus with more shielding, so it is lost more easily. 2. Below iodine → solid, very dark/black. 3. Yes — chlorine is more reactive: Cl₂ + 2KI → 2KCl + I₂. 4. Any three: higher density, higher melting point, lower reactivity, variable ion charge *(0620 Extended, 5070 required)*, coloured compounds, act as catalysts. 5. They have a full outer shell, so they have no tendency to lose, gain or share electrons. 6. Halogen reactivity decreases Cl > Br > I, and silver halide solubility happens to decrease in the same order — silver iodide is the least soluble and most strongly coloured precipitate. The two trends follow the same order, which can help you remember one from the other, but reactivity does not explain the solubility trend; they arise from different underlying causes. 7. Iron; Fe²⁺ (iron(II)) and Fe³⁺ (iron(III)).
+
+## Frequently asked questions
+
+**What do groups and periods tell you about an atom?**
+The group (column) gives the number of outer-shell electrons, and the period (row) gives the number of occupied shells. Elements are arranged in order of increasing proton number.
+
+**What is the difference between the Group I and Group VII reactivity trends?**
+Reactivity increases down Group I because the outer electron is lost more easily, but decreases down Group VII because an electron is gained less easily. The trends run in opposite directions.
+
+**How do you test for halide ions in Cambridge IGCSE Chemistry?**
+Acidify the solution with dilute nitric acid and add aqueous silver nitrate. Chloride gives a white precipitate, bromide a cream precipitate and iodide a yellow precipitate.
+
+**What are the noble gases used for?**
+Helium is used in balloons because it has a low density and is non-flammable, argon in lamps and welding to give an inert atmosphere, and neon in lighting.
+
+**Is variable oxidation number examined for all 0620 candidates?**
+No. Transition elements having ions with variable oxidation numbers, such as iron(II) and iron(III), is 0620 Extended content; it is required for all 5070 candidates.

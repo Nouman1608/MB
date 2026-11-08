@@ -255,6 +255,23 @@ The test detects peptide bonds, so it identifies protein, not individual amino a
 - Describing the head of a phospholipid as hydrophobic.
 - Saying a positive emulsion test turns purple. That is the biuret result.
 
+## Frequently asked questions
+
+**Is a lipid a polymer?**
+No. A lipid is not a polymer, but triglycerides are built by condensation, the same reaction used to make carbohydrate polymers.
+
+**How is a phospholipid different from a triglyceride?**
+In a phospholipid one of the fatty acids is replaced by a phosphate-containing group, which is polar and hydrophilic, while the two fatty acid tails are hydrophobic.
+
+**What are the four levels of protein structure in AQA A-level Biology?**
+Primary structure is the order of amino acids, secondary is the coiling into an alpha helix or folding into a beta-pleated sheet, tertiary is the further folding into a specific 3D shape, and quaternary is two or more polypeptides in one protein.
+
+**How do you count peptide bonds in a protein with several chains?**
+Each chain has one fewer peptide bond than its number of amino acids, so count each chain separately and add them.
+
+**How do you carry out the biuret test?**
+Add sodium hydroxide solution to the sample, then a few drops of dilute copper(II) sulfate solution. A lilac or purple colour shows protein is present; it stays blue if not.
+
 ## Official syllabus
 
 AQA AS and A-level Biology (7401/7402) specification, for first teaching 2015, published by AQA: sections 3.1.3 and 3.1.4.1.

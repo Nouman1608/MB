@@ -218,6 +218,23 @@ For any policy in this unit, test it against four questions: how large is the ma
 - Describing a nudge as compulsory, or as a price change.
 - Leaving out the units or the working in a calculation.
 
+## Frequently asked questions
+
+**How does a tradable pollution permit scheme work?**
+The government sets a cap and issues permits equal to it. Firms with high abatement costs buy permits and firms with low costs cut emissions and sell, so the cap is met at the lowest total cost.
+
+**Why is an open-access resource overused?**
+With no owner, each user ignores the cost their use imposes on others, so use continues until revenue per unit of input equals cost. Giving someone a property right makes the owner bear the cost of overuse.
+
+**What is a nudge in economics?**
+A nudge changes the way choices are presented, such as automatic enrolment or placing fruit at eye level, while leaving choice and prices largely unchanged. It is different from a ban, a tax or a subsidy.
+
+**What causes government failure?**
+Causes include imperfect information, administrative cost and bureaucracy, political pressures such as lobbying and regulatory capture, unintended consequences such as black markets, and time lags.
+
+**What is the difference between market failure and government failure?**
+Market failure is a market outcome, while government failure is a policy outcome that leads to a worse allocation of resources. Weigh the policy error against the original market failure when evaluating.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, Cambridge University Press & Assessment. Sections covered: 8.1.1 (pollution permits, property rights, nationalisation and privatisation, provision of information, behavioural insights and nudge theory) and 8.1.2.

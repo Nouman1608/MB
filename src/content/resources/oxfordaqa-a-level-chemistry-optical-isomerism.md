@@ -248,6 +248,23 @@ How many isomers have the formula C₃H₆BrCl, counting enantiomers separately?
 
 Use the [revision notes](/resources/oxfordaqa-a-level-chemistry-optical-isomerism-revision-notes/) for a condensed version of this topic, then work through the [practice questions](/resources/oxfordaqa-a-level-chemistry-optical-isomerism-practice/). The [free diagnostics](/diagnostics/) help you choose what to revise next, and the [course hub](/boards/oxfordaqa/a-level/chemistry/) links every OxfordAQA Chemistry page.
 
+## Frequently asked questions
+
+**Is optical isomerism AS or A2 content in OxfordAQA 9620 Chemistry?**
+Section 3.3.7 Optical isomerism is International A-level only. It is assessed in Unit 4 (Organic 2 and Physical 2), and Unit 5 can draw on any content.
+
+**Does a chiral centre have to carry a hydrogen atom?**
+No. A carbon is asymmetric whenever its four bonds go to four different atoms or groups. In 2-bromo-2-chlorobutane, C2 carries Br, Cl, CH₃ and CH₂CH₃ and is chiral even though it has no hydrogen.
+
+**How do enantiomers affect plane-polarised light?**
+One enantiomer rotates the plane of plane-polarised light in one direction, and the other rotates it by the same angle in the opposite direction. Apart from this, the two enantiomers have the same melting point, boiling point and solubility.
+
+**Why is a racemic mixture optically inactive?**
+A racemate contains equal amounts of the two enantiomers, which rotate the plane of polarisation through equal angles in opposite senses. The effects cancel, even though the molecules themselves are chiral.
+
+**Why does adding cyanide to an aldehyde give a racemate?**
+The carbonyl carbon is trigonal planar, so the cyanide ion can attack from either side with equal probability. This forms the two enantiomers of the new chiral product in equal amounts.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards: section 3.3.7 Optical isomerism (3.3.7.1), International A2 content.

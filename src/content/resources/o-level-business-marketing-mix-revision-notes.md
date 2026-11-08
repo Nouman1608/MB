@@ -268,6 +268,20 @@ For "recommend and justify" questions, name your choice, give a reason tied to t
 - Saying a method is "cheap" or "quick" without explaining why it helps the business.
 - Giving a one-sided answer to a recommend or justify question and never weighing a limitation.
 
+## Frequently asked questions
+
+**What is the difference between penetration and skimming pricing?**
+Penetration pricing sets a low price at launch to win sales, while skimming sets a high price at launch, often for a new product with no close rival. Mixing them up is a common error.
+
+**Is promotion the same as advertising?**
+No. Advertising pays for messages in media such as newspapers, radio, posters and online, while sales promotion uses short-term incentives such as discounts, free samples and buy-one-get-one-free offers.
+
+**What is an extension strategy?**
+An extension strategy tries to lengthen the life of a product before it declines, for example through new packaging, new variants, new markets or uses, or a price change.
+
+**Why does price elasticity matter for pricing decisions?**
+With elastic demand, a price cut can raise sales enough to increase revenue, while a rise can lose many customers. With inelastic demand, a price rise can increase revenue because few customers stop buying.
+
 ## Official syllabus
 
 Aligned to the Cambridge O Level Business Studies 7115 syllabus for examination in 2026, published by Cambridge International, section 3.3 Marketing mix.

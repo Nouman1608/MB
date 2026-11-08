@@ -170,6 +170,20 @@ These questions cover statements 5.9 to 5.15 (productivity, populations, niche, 
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which Edexcel statements do these questions cover?**
+They cover statements 5.9 to 5.15 of Pearson Edexcel International A Level Biology (YBI11): productivity, energy transfer, niche, Core Practical 11 and succession.
+
+**What units should productivity values have?**
+Give an amount per area per time, such as kJ m⁻² year⁻¹. Calculating R or NPP without units loses marks.
+
+**Which value should you divide by in a percentage change?**
+Divide by the starting value, not the final value, then multiply by 100.
+
+**Are these Edexcel past paper questions?**
+No. They are original practice questions with worked answers. Use them alongside official Pearson Edexcel past papers.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology (YBI11), Specification, Issue 2, February 2021, Pearson Education Limited. Statements 5.9 to 5.15, Topic 5.

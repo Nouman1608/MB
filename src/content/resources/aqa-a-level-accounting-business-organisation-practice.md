@@ -12,11 +12,11 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "types-of-business-organisation"
-description: "Original exam-style practice questions with full worked answers on the four business ownership types, their benefits, risks and reporting requirements, and sources of finance for AQA A-Level Accounting (7127), Topic 3.2."
+description: "Original practice questions with worked answers on business ownership types, their risks and reporting duties, and sources of finance, for AQA Accounting 7127."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 publishedDate: 2026-09-04
 featured: false
 ---
@@ -83,3 +83,17 @@ Related: [Types of Business Organisation study guide](/resources/a-level-aqa-acc
 ## Approaching types of business organisation questions
 
 Build every answer around the specification's own three comparison dimensions — formation/ownership, benefits and risks, and reporting requirements — rather than describing one ownership type in isolation, since AQA consistently frames this topic through direct comparison or a business facing a growth decision. When a question describes a scenario, identify which specific ownership types are realistic options before evaluating them, and always attach a named, specific risk to any finance source rather than simply listing it — a source of finance without its associated risk rarely earns full marks on this content.
+
+## Frequently asked questions
+
+**Are these AQA 7127 business organisation questions from past papers?**
+No. They are original questions written for revision on section 3.2 of AQA A-Level Accounting 7127. They do not replicate the exam's structure or mark tariffs, so use them alongside the official past papers.
+
+**How should I structure an answer comparing types of business organisation?**
+Build the answer around the specification's three comparison dimensions: formation and ownership, benefits and risks, and reporting requirements. Describing one ownership type in isolation, without comparing, is a common reason marks are lost.
+
+**What do examiners look for in a sources of finance answer?**
+Name the source and attach a specific risk to it, and link it to the ownership types that can realistically use it. A source named without a risk earns less.
+
+**Is converting to a limited company risk-free?**
+No. Incorporation brings limited liability, but treating it as risk-free ignores the new compliance and reporting burden it brings, which is a common mistake in evaluation answers.

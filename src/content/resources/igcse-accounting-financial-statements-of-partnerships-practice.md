@@ -304,6 +304,20 @@ $84,500** [1].
 - All [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What happens when partners' salaries and interest exceed the profit?**
+Interest on capital and salaries are still credited, because the agreement entitles the partners to them. The shortfall is a loss shared in the agreed ratio and debited to the current accounts.
+
+**Are drawings posted to a fixed capital account?**
+No. When capital accounts are fixed, drawings, interest on drawings and profit shares go to the current accounts. Posting them to a fixed capital account is a common error in Cambridge IGCSE Accounting (0452) questions.
+
+**Which profit figure does the appropriation account start from?**
+Start from profit for the year after all year-end adjustments and after deducting loan interest. Starting from profit before the adjustments is a common mistake.
+
+**How should you answer an advantages and disadvantages question on partnerships?**
+Link each point to the facts given, for example extra capital for an owner who is short of money, or unlimited liability for one whose house could be at risk. Points that ignore the business described earn little credit.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1), Cambridge University Press & Assessment, section 5.2 Partnerships.

@@ -219,6 +219,23 @@ Value: it shows which tasks need close control, where resources can move from no
 - Treating delayering as always good.
 - Calling the longest activity, not the longest route, the critical path.
 
+## Frequently asked questions
+
+**What is the difference between incremental and disruptive change?**
+Incremental change is a series of small, steady steps, lower in risk but possibly too slow in a fast market. Disruptive change is sudden and large, often caused by new technology or a shock, and forces a rapid response.
+
+**What is the difference between organic and mechanistic structures?**
+A mechanistic structure has a rigid hierarchy, narrow tasks, formal rules and top-down decisions, and suits stable conditions. An organic structure has fewer rules, wider roles and shared decisions, and suits fast-changing conditions but is harder to control.
+
+**What is strategic drift?**
+Strategic drift is when a business's strategy gradually moves out of line with its changing environment, often after past success.
+
+**What is the critical path?**
+The critical path is the longest route through the network, joining the activities with zero float, and it sets the shortest possible project duration. Calling the longest single activity the critical path is a common error.
+
+**Which section of the AQA Business specification covers managing strategic change?**
+Section 3.10, Managing strategic change (A-level only), covering managing change, organisational culture, strategic implementation and problems with strategy.
+
 ## Official syllabus
 
 AQA AS and A-level Business (7131 and 7132) specification, published by AQA: section 3.10 Managing strategic change (A-level only).

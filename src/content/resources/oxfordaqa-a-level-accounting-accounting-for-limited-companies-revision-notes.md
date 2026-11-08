@@ -207,6 +207,22 @@ Afterwards, try the original [practice questions](/resources/oxfordaqa-a-level-a
   <figcaption>Companies show three profit lines; dividends are not an expense.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between a rights issue and a bonus issue?**
+A rights issue brings in cash, so it increases total equity. A bonus issue converts reserves into share capital without any cash, so total equity is the same after it.
+
+**How do you calculate the number of new shares in a 1 for 4 issue?**
+Divide the existing shares by 4. Multiplying by 4 is a common mistake, and if there was an earlier issue in the year, apply the ratio to the share count after that issue.
+
+**Can a revaluation reserve be used to pay a cash dividend?**
+No. The revaluation reserve holds an unrealised gain, so it cannot fund a cash dividend. Retained earnings come from realised profits.
+
+**How do you calculate tax paid for a statement of cash flows?**
+Tax paid = tax payable at the start of the year + the tax charge for the year − tax payable at the end of the year. The tax expense belongs to this year's profit, but the cash paid often settles last year's bill.
+
+**What is the difference between IAS1 and IAS7?**
+IAS1 sets out what a complete set of financial statements contains and how it is presented. IAS7 sets out how the statement of cash flows is prepared.
 
 ## Official syllabus
 

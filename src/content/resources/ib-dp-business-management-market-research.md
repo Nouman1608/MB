@@ -204,6 +204,20 @@ Cost comparison for the primary work: the online survey cost USD 350 for 100 res
 
 Next: test yourself with the [revision notes](/resources/ib-dp-business-management-market-research-revision-notes/) and the [practice questions](/resources/ib-dp-business-management-market-research-practice/).
 
+## Frequently asked questions
+
+**What is the difference between primary and secondary market research?**
+Primary research is new data collected for the business's own purpose, through surveys, interviews, focus groups or observations. Secondary research uses data that already exists, collected by someone else for another purpose; it is usually cheaper and quicker but not designed for the business's question.
+
+**What is the difference between qualitative and quantitative research?**
+Quantitative research produces numerical data that can be counted or averaged, such as ratings. Qualitative research produces descriptive data about opinions, attitudes and motives, such as comments; many businesses use both.
+
+**What is convenience sampling?**
+Convenience sampling means asking whoever is easy to reach, such as passers-by outside a shop. It is quick and cheap, but the people reached may not represent the target market, so results may be biased.
+
+**Does market research guarantee a product will succeed?**
+No. Research costs money and time, results can be wrong, and customers can say one thing and do another, so it reduces uncertainty rather than removing it.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. This page covers section 4.4 Market research.

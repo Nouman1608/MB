@@ -243,6 +243,20 @@ According to the guide, the exponential and straight-line forms both appear in t
 - Using data points from the table rather than from the best-fit line when the points scatter.
 - Saying a termolecular step is impossible: it is possible but rare.
 
+## Frequently asked questions
+
+**What is the rate-determining step?**
+The rate-determining step is the slowest step in a reaction mechanism, and it limits the overall rate. On an energy profile, it is the step whose transition state is highest above the reactants.
+
+**What is the difference between an intermediate and a transition state?**
+An intermediate sits in a trough between humps on an energy profile and can be detected, while a transition state sits at a peak and cannot be isolated. Drawing an intermediate at a peak is a common error.
+
+**What are the units of the rate constant k?**
+Divide mol dm⁻³ s⁻¹ by (mol dm⁻³) raised to the overall order. So k has units mol dm⁻³ s⁻¹ for zero order, s⁻¹ for first order and mol⁻¹ dm³ s⁻¹ for second order.
+
+**How do you find activation energy from an Arrhenius plot?**
+Plot ln k against 1/T; the gradient is −Ea/R, so Ea = −gradient × R, and the y-intercept is ln A. Use points from the best-fit line, not table values, if the data scatter.
+
 ## Official syllabus
 
 Source document: the IB's *Chemistry guide* for the Diploma Programme (International Baccalaureate, February 2023; first assessment 2025). These notes cover Reactivity 2.2 understandings 2.2.6 to 2.2.13, all of them HL only.

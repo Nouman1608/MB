@@ -126,6 +126,20 @@ This practice set covers statement B4 of Section B (Algebra and functions) in th
 - Rounding surds to decimals when exact answers were requested.
 - Not answering a context problem in context, with units.
 
+## Frequently asked questions
+
+**How do you show that a line is a tangent to a curve?**
+Substitute the line into the curve to get a quadratic, then show it has a repeated root, so its discriminant is zero. State the conclusion in words, linking the repeated root to the line touching the curve.
+
+**How do you find values of k for which a line does not meet a curve?**
+Form the quadratic from equating the line and curve, write its discriminant in terms of k, and solve the strict inequality discriminant < 0.
+
+**Why should you use the linear equation to find the second value?**
+Substituting an x-value back into the quadratic can produce false pairs that do not satisfy both equations. Using the linear equation gives the correct partner value for each solution.
+
+**Where are marks usually lost on simultaneous equations?**
+Common losses include giving only x-values instead of points, forgetting that a tangent gives a repeated root, scaling only one side of an equation, missing brackets when substituting, and rounding surds when exact answers are asked for.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and-revision-notes/).

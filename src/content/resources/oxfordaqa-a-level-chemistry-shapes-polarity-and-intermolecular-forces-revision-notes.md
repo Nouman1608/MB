@@ -268,6 +268,20 @@ strength.
 - Writing "hydrogen bonds" for any molecule containing hydrogen, without the N, O or F link.
 - Saying graphite conducts without adding that the delocalised electrons move along the layers.
 
+## Frequently asked questions
+
+**What is a co-ordinate (dative covalent) bond?**
+A co-ordinate bond is a shared pair of electrons in which both electrons come from one atom. The donor needs a lone pair and the acceptor needs an empty orbital; draw it as an arrow from the donor to the acceptor.
+
+**Why is ice less dense than liquid water?**
+In ice, each water molecule is held by four hydrogen bonds in an open lattice, so the molecules sit further apart than in liquid water.
+
+**Why does pentane boil higher than 2,2-dimethylpropane?**
+Both have the same number of electrons, but straight-chain pentane has a larger surface area of contact with its neighbours, so its induced dipole–dipole forces are stronger than those of the branched isomer.
+
+**What is broken when a molecular substance melts or boils?**
+Only the intermolecular forces between molecules are overcome; the covalent bonds inside each molecule stay intact. Writing "bonds break" for a molecular substance is a common way to lose marks.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620) specification*, Version 5.3, for International AS and A-level

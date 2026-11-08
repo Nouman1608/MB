@@ -132,6 +132,20 @@ Evaluate which option Quarrington Lodges should choose to improve motivation. **
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate labour turnover?**
+Labour turnover (%) is the number of employees leaving in a period divided by the average number of employees, multiplied by 100. Using the opening headcount instead of the average is a common error; labour turnover is HL only in section 2.4.
+
+**What are common mistakes on motivation questions in IB Business Management?**
+Students often describe a theory without applying it to the named business, confuse job enrichment with job enlargement, and give a number without units or working. Treating pay as irrelevant because of Herzberg, or as the only motivator because of Taylor, also loses marks.
+
+**How should you evaluate two options for improving motivation?**
+Weigh both options against each other using the data in the case, such as cost, the type of employee and the time frame, and link each to a motivation theory. Saying one option is best without weighing the other loses marks.
+
+**Which motivation theories are on the SL syllabus?**
+At SL and HL, section 2.4 of the IB Business management guide covers Taylor, Maslow and Herzberg's motivation-hygiene theory. McClelland, Deci and Ryan, and equity and expectancy theory are HL only.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, International Baccalaureate Organization. Section 2.4, Motivation and demotivation, in Unit 2: Human resource management.

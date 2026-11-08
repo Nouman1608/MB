@@ -230,6 +230,20 @@ Technology and sustainability often meet. A precise cutting machine can reduce w
 - Leaving out units, such as "per worker", in a productivity answer.
 - Evaluating without a judgement. A list of points with no conclusion is not an evaluation.
 
+## Frequently asked questions
+
+**What is the difference between mechanisation and automation?**
+Mechanisation uses machines to do work people did by hand, usually with a person still operating or supervising them. Automation uses machines or computer-controlled systems that carry out tasks with little or no human input once they are set up.
+
+**What is the difference between reusing and recycling?**
+Reusing means using an item again as it is, such as refilling a container. Recycling means breaking waste down to make new material, such as melting scrap metal or pulping paper.
+
+**How does technology raise productivity in the service sector?**
+Technology such as contactless payments shortens each transaction, so the same staff can serve more customers in the same time. Other examples include online booking, self-service tills and mobile banking.
+
+**What are the six ways a business can be more sustainable in Cambridge IGCSE Business 0264?**
+Using renewable energy, using fewer resources and creating less waste, reusing, recycling, developing environmentally friendly products and using environmentally friendly packaging.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education): sections 4.2.1 and 4.3.1.

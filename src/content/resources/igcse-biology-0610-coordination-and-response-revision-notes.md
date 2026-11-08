@@ -30,11 +30,11 @@ syllabusTopics:
     subtopic: "tropic-responses-cambridge-igcse-biology"
 description: "Revision notes for Cambridge IGCSE Biology 0610 coordination and response: reflexes, the eye, hormones, homeostasis and auxin, plus a self-test."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
-reviewStatus: "reviewed"
-reviewedDate: 2026-09-29
+reviewStatus: "review-pending"
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 These revision notes cover topic 14, Coordination and response, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028: sections 14.1 Coordination and response, 14.2 Sense organs, 14.3 Hormones, 14.4 Homeostasis and 14.5 Tropic responses. Supplement content is marked **Extended only**; it appears on Papers 2 and 4, not on the Core Papers 1 and 3. For full explanations and worked examples, use the [coordination and response study guide](/resources/igcse-biology-0610-coordination-and-response/).
@@ -259,6 +259,23 @@ Skin structures to identify: hairs, hair erector muscles, sweat glands, receptor
 - Giving only muscles as effectors; the syllabus names muscles **and** glands.
 - Describing the pupil reflex as "the eye gets smaller" instead of "the pupil diameter decreases".
 - Comparing nervous and hormonal control on anything other than speed of action and duration of effect.
+
+## Frequently asked questions
+
+**What are the parts of a reflex arc?**
+A reflex arc runs receptor → sensory neurone → relay neurone → motor neurone → effector, where the effector is a muscle or a gland.
+
+**How is the pupil controlled in bright and dim light?**
+In bright light the pupil diameter decreases and in dim light it increases; for Extended, circular muscles contract in bright light while radial muscles contract in dim light.
+
+**What is the difference between glucagon and glycogen?**
+Glucagon is a hormone secreted by the pancreas when blood glucose is low; glycogen is the storage carbohydrate in the liver that glucagon causes to be converted back into glucose.
+
+**How does auxin make a shoot bend towards light?**
+Auxin is made in the shoot tip, diffuses down and collects on the shaded side, where it stimulates cell elongation, so the shaded side grows longer and the shoot bends towards the light; this is Extended content.
+
+**How does nervous control differ from hormonal control?**
+Nervous control is faster in action and its effect is shorter lasting; hormonal control is slower and its effect lasts longer.
 
 ## Official syllabus
 

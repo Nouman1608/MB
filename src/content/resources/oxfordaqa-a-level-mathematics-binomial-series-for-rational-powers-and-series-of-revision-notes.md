@@ -190,6 +190,20 @@ In the last row, |x²| < 1 is the same as |x| < 1. If u is a power of x, solve t
 - Rounding too early. Keep exact fractions until the last line.
 - Stopping one term short. Check which power the question asks you to go up to.
 
+## Frequently asked questions
+
+**When is the binomial expansion of (1 + x)ⁿ finite?**
+When n is a positive integer, the series stops after n + 1 terms and is true for all x. When n is negative or a fraction, the series is infinite and only valid for |x| < 1.
+
+**How many partial fractions do you need for a repeated factor?**
+A repeated factor such as (3 − x)² needs two terms, B/(3 − x) and C/(3 − x)². Using only one fraction for a squared factor is a common error.
+
+**Which range of validity applies to a sum of partial fraction expansions?**
+Take the narrowest range, because the expansion is valid only where every part is valid. For example, if one part is valid for |x| < 1/2 and another for |x| < 3, the whole series is valid for |x| < 1/2.
+
+**How can you check a partial fraction or series expansion?**
+Put x = 0 into both sides: the constant term of the series must equal the value of the function at x = 0. You can also substitute a small value such as x = 0.01 and compare the function with the series.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, section P2.2 (International AS exams from May/June 2018, A-level from May/June 2019), published by OxfordAQA.

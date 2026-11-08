@@ -198,6 +198,10 @@ export const HIGHER_LABELS_CHECKED: ReadonlySet<string> = new Set([
   'aqa-gcse-biology-8461-cell-structure-practice',  // 2026-10-04
   'aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels-practice',  // 2026-10-04
   'aqa-gcse-biology-8461-transport-in-cells-practice',  // 2026-10-04
+  // 2026-11-08: 4.2.2.6-4.2.2.8 and 4.2.3.1-4.2.3.2 carry no (HT only) statement in the
+  // 8461 specification, so every question in these two files is both tiers.
+  'aqa-gcse-biology-8461-health-lifestyle-and-cancer-practice',  // 2026-11-08
+  'aqa-gcse-biology-8461-plant-tissues-and-organ-system-practice',  // 2026-11-08
   // 8462
   'aqa-gcse-chemistry-8462-chemical-analysis-practice',
   'aqa-gcse-chemistry-8462-chemical-changes-practice',
