@@ -43,10 +43,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
 author: "marlbridge-academic-team"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 Computers are the most predictable machines ever built: give a program the same input and it does the same thing every time. Yet games roll dice, music apps shuffle songs and weather models add chance. To get variety, programs use **random values**. In the exam notation a single procedure does the job, `RANDOM(a, b)`. This topic explains exactly what it returns, how to work out every *possible* result of an expression that uses it, and how programs turn random numbers into coin flips, dice rolls and random choices from a list.

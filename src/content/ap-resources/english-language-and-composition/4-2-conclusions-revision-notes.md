@@ -33,14 +33,14 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - A conclusion brings the argument to a unified end.
 - 'Add the so-what: significance, implication, solution or call to act.'
 - Do not introduce a new line of proof.
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Short on time? This page is the recap. For explanations and worked examples, use the [full study guide](/advanced-course-resources/english-language-and-composition/4-2-conclusions-study-guide/).

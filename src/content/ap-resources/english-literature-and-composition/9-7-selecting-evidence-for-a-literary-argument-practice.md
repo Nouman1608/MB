@@ -27,10 +27,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. Works referred to are public domain (author and date given); the prompts, sample answers and rubrics were written by Marlbridge. Mark points are a suggested Marlbridge rubric, not an official scoring guideline. Questions 1 to 6 are multiple choice; Questions 7 and 8 are written responses. Allow about 50 minutes. No calculator is needed.

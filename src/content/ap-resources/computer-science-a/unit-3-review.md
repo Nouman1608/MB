@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 Read the big ideas and the method table, then try the seven questions without notes; each combines two or more topics of Unit 3.

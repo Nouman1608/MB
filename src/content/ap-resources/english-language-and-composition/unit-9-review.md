@@ -31,10 +31,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Read the big ideas and the method table, then try the five questions without notes. Each question combines two or more Unit 9 topics.

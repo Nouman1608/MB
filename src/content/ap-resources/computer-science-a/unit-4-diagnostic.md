@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
 author: "marlbridge-academic-team"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 Use this diagnostic to find **which Unit 4 topics to revisit**: one short question for every topic from 4.1 to 4.17, and a second question for Topics 4.1, 4.5, 4.10, 4.13 and 4.17.

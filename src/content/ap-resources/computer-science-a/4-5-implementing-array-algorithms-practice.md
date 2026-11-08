@@ -29,10 +29,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. All data is fictional. Mark points are a suggested Marlbridge rubric, not an official scoring guideline. No calculator is allowed. The methods named `maxOf`, `minOf`, `average`, `countAbove`, `countRisingPairs`, `hasDuplicates`, `rotateLeft`, `rotateRight` and `reverse` are the class methods printed in the [study guide](/advanced-course-resources/computer-science-a/4-5-implementing-array-algorithms-study-guide/). Every output was produced by compiling and running the code.

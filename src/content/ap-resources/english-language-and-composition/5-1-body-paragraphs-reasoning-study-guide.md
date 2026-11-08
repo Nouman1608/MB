@@ -37,10 +37,7 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - A body paragraph makes a claim, supports it with evidence and provides commentary that explains how the paragraph contributes to the reasoning of the whole argument.
 - 'Commentary is the writer''s thinking: it explains why the evidence proves the claim and why the claim matters to the thesis.'
@@ -53,6 +50,9 @@ faqs:
   answer: Yes. The claim of a body paragraph is the step it contributes to the argument. It should be a statement that needs support, and that links to the thesis.
 - question: What is the difference between evidence and commentary?
   answer: Evidence is the fact, example, quotation or data you present. Commentary is your explanation of what that evidence shows and how it supports the claim. Evidence without commentary leaves the reader to guess.
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 ## From thesis to paragraphs

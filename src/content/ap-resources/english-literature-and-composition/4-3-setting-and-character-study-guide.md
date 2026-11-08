@@ -20,10 +20,10 @@ faqs: [{"question": "What is the difference between mood and atmosphere?", "answ
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Setting is often treated as scenery: a room, a street, a season. In good fiction it works harder than that. A setting can create a mood, express values, put pressure on a character and tell the reader who a character is. This topic teaches you to explain what a setting *does*, and to describe the relationship between a character and the place they inhabit.

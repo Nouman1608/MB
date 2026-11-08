@@ -27,10 +27,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. Any passage not credited to a named public-domain author was written by Marlbridge for practice; quotations from named authors are public-domain texts quoted briefly. The rubrics are a suggested Marlbridge rubric to help you check your own work; they are not an official scoring guideline. There is no calculator. Try each question before opening its answer.

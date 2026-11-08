@@ -20,10 +20,10 @@ faqs: [{"question": "Is the antagonist always the villain?", "answer": "No. The 
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 This guide shows you how to explain what a pair of contrasting characters is doing in a short story. The reading skill is the same on every exam passage: notice a difference between two characters, say what each one stands for, and say what the story gains from putting them side by side. Public-domain extracts are quoted with author, title and year; the unseen-style passage is original and labelled as written by Marlbridge.

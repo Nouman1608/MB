@@ -42,10 +42,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
 author: "marlbridge-academic-team"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 So far every program in this unit has run its statements in a fixed order from the first line to the last. Real programs must *respond*: charge a child fare to a child, refuse a wrong password, award a bonus only if the score is high enough. The tool for this is **selection**, written in code as a **conditional statement** (an "if-statement"). A conditional uses a Boolean expression, the topic you have just studied, to decide which statements run. This topic shows how `IF` and `IF ... ELSE` work, how to trace them, and how to write one from a description.

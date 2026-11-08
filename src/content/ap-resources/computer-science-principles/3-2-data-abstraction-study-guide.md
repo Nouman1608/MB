@@ -41,10 +41,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
 author: "marlbridge-academic-team"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 Abstraction means focusing on what matters and hiding what does not. A map is an abstraction of a town: it leaves out the colour of the doors so you can see the roads. **Data abstraction** applies the same idea to information in a program. Instead of juggling many separate values, you give a whole collection of data one name and work with it as a single thing. In this course the main tool for that is the **list**. This topic explains how lists work, how data abstraction manages complexity, and how to write the kind of explanation the exam (and the Create performance task) asks for.

@@ -39,10 +39,7 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - Definition and description develop an idea by relating the characteristics, features or sensory details of an object or idea, sometimes with examples or illustrations.
 - A definition fixes what a term means in this argument; a description lets the reader see, hear, feel or imagine it.
@@ -55,6 +52,9 @@ faqs:
   answer: Definition says what something is and where its boundaries lie. Description says what it is like to see, hear or experience, using sensory and concrete details. Writers often combine the two.
 - question: Can description be evidence?
   answer: Description can support a claim when its details are chosen to show something specific about the subject. A scene of crowded corridors may serve as evidence that a building is too small, if the writer comments on it.
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 ## Two methods that make an idea visible

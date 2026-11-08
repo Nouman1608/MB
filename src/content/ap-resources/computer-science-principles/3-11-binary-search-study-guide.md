@@ -42,10 +42,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
 author: "marlbridge-academic-team"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 Imagine looking for a name in a printed phone book. You do not start at page 1 and read every name; you open the book near the middle, see whether your name comes before or after that page, and throw away the half you do not need. Then you repeat on the half that is left. **Binary search** is exactly this strategy turned into an algorithm, and it is dramatically faster than checking every item when the data is large. This topic explains how binary search works, why the data must be **sorted**, and how to work out the greatest number of checks it needs.

@@ -20,10 +20,10 @@ faqs: [{"question": "Does my thesis have to list the devices I will discuss?", "
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 The prose fiction essay asks you to read a passage and write an argument about how the writer uses literary elements and techniques to create a meaning. Everything before this topic (character, setting, plot, narration) is the material you analyse; this topic is about the argument you build from it. A good essay depends on three connected things: a **thesis** that makes a claim you can defend, a **line of reasoning** that develops it, and **commentary** that explains how each piece of evidence supports that line.

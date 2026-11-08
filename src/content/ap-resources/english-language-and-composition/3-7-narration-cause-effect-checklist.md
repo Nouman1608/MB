@@ -20,10 +20,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Work through the list without notes. If you cannot do a statement, follow its link, then come back. Guide = [study guide](/advanced-course-resources/english-language-and-composition/3-7-narration-cause-effect-study-guide/); Practice = [practice questions](/advanced-course-resources/english-language-and-composition/3-7-narration-cause-effect-practice/); also see the [revision notes](/advanced-course-resources/english-language-and-composition/3-7-narration-cause-effect-revision-notes/).

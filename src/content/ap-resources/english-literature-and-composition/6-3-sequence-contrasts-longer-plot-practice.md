@@ -35,10 +35,10 @@ sources:
 version: '1.0'
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: drafted
-checkedBy: marlbridge-academic-team
-checkedDate: 2026-11-08
 author: marlbridge-academic-team
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 These are **original Marlbridge practice questions**, not past exam questions. Passages marked "written by Marlbridge" are original; the references to Wuthering Heights (Emily Brontë, 1847) and Macbeth (Shakespeare, about 1606) concern public-domain works. The mark points are a **suggested Marlbridge rubric**, not an official scoring guideline. Allow about 45 minutes.
 

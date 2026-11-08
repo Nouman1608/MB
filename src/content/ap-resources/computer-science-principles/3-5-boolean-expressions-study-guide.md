@@ -42,10 +42,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
 author: "marlbridge-academic-team"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 Every decision a program makes comes down to a question with a yes-or-no answer: is the password correct, is the score high enough, has the timer reached zero. In programming the answer is a **Boolean value**, either `true` or `false`. This topic covers how to build and evaluate Boolean expressions with the relational operators (`=`, `≠`, `>`, `<`, `≥`, `≤`) and the logical operators (`NOT`, `AND`, `OR`). Conditionals (Topic 3.6) and loops (Topic 3.8) are driven by these expressions, so accuracy here pays off for the rest of the unit.

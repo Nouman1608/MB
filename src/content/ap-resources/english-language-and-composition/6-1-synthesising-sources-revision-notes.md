@@ -33,14 +33,14 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - Synthesis draws on several sources, selects the most relevant material and combines it in your own argument.
 - Organise by idea, not by source.
 - Attribute and comment on every piece of source material.
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Short on time? This page is the recap. For explanations and worked examples, use the [full study guide](/advanced-course-resources/english-language-and-composition/6-1-synthesising-sources-study-guide/).

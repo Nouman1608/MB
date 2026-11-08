@@ -37,10 +37,7 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - 'An introduction has three jobs: orient the reader (who, what, why now), engage them, and focus them on the argument that follows.'
 - Introductions may open with a thesis, a quotation, an intriguing statement, an anecdote, a question, a statistic or data, contextual information or a scenario; the choice is strategic, never decoration.
@@ -53,6 +50,9 @@ faqs:
   answer: No. An anecdote engages readers quickly but can be slow or irrelevant. A statistic, a question or a short piece of context may serve a sceptical or specialist audience better. Choose by audience and purpose.
 - question: How long should an introduction be in a timed essay?
   answer: Usually three to five sentences. Long enough to orient, engage and state your position or focus; short enough that most of your time goes into evidence and commentary.
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 ## What does an introduction have to do?

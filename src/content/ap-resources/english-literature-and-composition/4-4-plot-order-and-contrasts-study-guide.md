@@ -20,10 +20,10 @@ faqs: [{"question": "What is the difference between plot and story order?", "ans
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 A story is more than "what happens". It is the order in which a writer chooses to tell us what happens, and the contrasts the writer builds along the way. This topic teaches you to describe how plot orders events, to explain why that order matters, and to explain the function of contrasts within a text.

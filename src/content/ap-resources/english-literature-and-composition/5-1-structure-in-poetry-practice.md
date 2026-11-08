@@ -19,10 +19,10 @@ keyPoints: ["Eight questions: five multiple choice, three written.", "Answers de
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The public-domain poems are credited to their authors: Robert Burns, "A Red, Red Rose" (1794); William Shakespeare, Sonnet 73 (1609). The unseen poem in Questions 6 to 8 is an original Marlbridge poem. The marks in the rubrics are a **suggested Marlbridge rubric**, not an official scoring guideline. Answer every question before opening its answer.

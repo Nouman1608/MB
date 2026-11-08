@@ -43,10 +43,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
 author: "marlbridge-academic-team"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 Computers are good at one thing humans find tiring: doing the same job again and again without getting bored. **Iteration** is the repetition of a portion of an algorithm. Instead of writing the same statements ten times, you write them once inside a loop and tell the computer how long to keep going: either a fixed number of times or *until* something becomes true. This topic covers the two loop forms in the exam notation, `REPEAT n TIMES` and `REPEAT UNTIL`, how to trace loops, and the classic bug of the loop that never ends.

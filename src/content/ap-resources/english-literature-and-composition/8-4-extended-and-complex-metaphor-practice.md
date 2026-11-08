@@ -27,10 +27,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. Passages are public-domain poems (author, title and date given, spelling modernised where stated) or an original poem written by Marlbridge, labelled as such. Mark points are a suggested Marlbridge rubric, not an official scoring guideline. Questions 1 to 6 are multiple choice; Questions 7 and 8 are written responses. Allow about 45 minutes. No calculator is needed.

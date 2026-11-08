@@ -39,10 +39,7 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - Repetition, synonyms, pronoun references and parallel structure may indicate or develop a relationship between elements of a text.
 - Repeating a key word keeps the reader on one idea; a synonym varies the expression or adds a shade of meaning; a pronoun avoids clumsy repetition if its referent is clear.
@@ -55,6 +52,9 @@ faqs:
   answer: A pronoun such as it, this, they or which that could refer to more than one earlier noun, or to none. Fix it by naming the noun or rewriting the sentence.
 - question: What is parallel structure?
   answer: Using the same grammatical form for ideas of equal importance, for example three verbs in the same form ("to read, to write, to revise") or matching clauses ("of the people, by the people, for the people").
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 ## Four tools that link

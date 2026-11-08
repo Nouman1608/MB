@@ -24,10 +24,10 @@ framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
-editorialStatus: "drafted"
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 Work through the list without notes. If you cannot do a statement, follow its link, then come back. Guide = [study guide](/advanced-course-resources/computer-science-principles/4-3-parallel-distributed-computing-study-guide/); Practice = [practice questions](/advanced-course-resources/computer-science-principles/4-3-parallel-distributed-computing-practice/).

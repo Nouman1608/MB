@@ -29,10 +29,10 @@ prerequisiteResources: ["mb-ap-englang-u3-diagnostic"]
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Unit 3 is about what happens between a claim and its proof: the commentary that links evidence to a claim, the synthesis of sources, the line of reasoning that carries a reader to the thesis, the flaws that can break it and the methods of development that organise it. This review draws the ideas together and asks seven questions that combine two or more topics. The questions are **original Marlbridge practice**, not past exam questions, and the rubrics are a suggested Marlbridge rubric. Passages and sources not credited to a named public-domain author were written by Marlbridge for practice.

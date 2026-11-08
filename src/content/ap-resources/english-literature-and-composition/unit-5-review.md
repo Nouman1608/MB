@@ -19,10 +19,10 @@ keyPoints: ["Structure, word choice, imagery, comparison and allusion all work t
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Read the big ideas and the method table, then try the five questions without notes. Each combines two or more Unit 5 topics. The last is a full poetry analysis essay.

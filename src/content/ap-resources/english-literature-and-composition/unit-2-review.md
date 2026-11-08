@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Read the big ideas and the method table, then try the six questions without notes. Each question combines two or more Unit 2 topics. The poem is William Wordsworth's "The Daffodils" (also known as "I Wandered Lonely as a Cloud"), in the form printed in the Project Gutenberg edition of *The Golden Treasury* (1861). It is in the public domain, and the quotations were checked against that text; punctuation and wording differ in other editions.

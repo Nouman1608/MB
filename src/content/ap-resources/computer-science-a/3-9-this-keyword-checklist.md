@@ -23,10 +23,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 Work through the list without notes. If you cannot do a statement, follow its link, then come back. Guide = [study guide](/advanced-course-resources/computer-science-a/3-9-this-keyword-study-guide/); Practice = [practice questions](/advanced-course-resources/computer-science-a/3-9-this-keyword-practice/); see also the [revision notes](/advanced-course-resources/computer-science-a/3-9-this-keyword-revision-notes/).

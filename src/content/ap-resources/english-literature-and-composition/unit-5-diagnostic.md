@@ -19,10 +19,10 @@ keyPoints: ["Ten short questions: at least one for each of the seven topics in U
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Use this diagnostic to find **which Unit 5 topics to revisit**: one short question for each of Topics 5.1 to 5.4 and two each for Topics 5.5, 5.6 and 5.7. It takes about 35 minutes and uses no notes.

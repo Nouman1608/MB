@@ -1,6 +1,6 @@
 # Verified framework map -- 2026-27 school year, May 2027 exams
 
-Generated 2026-11-08T17:47:46.993Z from `src/data/ap/frameworks.ts` (checked against the official College Board documents in source-register.md on 2026-10-05). Unit and topic titles come from each Course and Exam Description's own bookmarks; weightings are the official multiple-choice ranges from each course page; exam formats are from each course's exam page and the 2026-27 clarifications. Courses checked on a later date say so under their heading.
+Generated 2026-11-08T18:59:37.125Z from `src/data/ap/frameworks.ts` (checked against the official College Board documents in source-register.md on 2026-10-05). Unit and topic titles come from each Course and Exam Description's own bookmarks; weightings are the official multiple-choice ranges from each course page; exam formats are from each course's exam page and the 2026-27 clarifications. Courses checked on a later date say so under their heading.
 
 **Exception -- English Language and English Literature:** their CEDs number the units but have no numbered topics (English Language does not title its units either). Their topics (and the English Language unit titles) are Marlbridge groupings of the CED's skills and essential knowledge statements; the CED codes each topic groups are shown in brackets. These topic numbers are not official College Board numbers.
 

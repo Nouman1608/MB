@@ -39,10 +39,7 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - Transitional elements are words, phrases, clauses, sentences or paragraphs that help create coherence by showing relationships among ideas.
 - 'A transition must match the logic: a contrast marker between ideas that do not contrast misleads the reader.'
@@ -55,6 +52,9 @@ faqs:
   answer: Use as many as the reader needs. Overuse makes writing mechanical; none can leave the reader guessing how ideas connect. The test is whether each one states a relationship that is real and useful.
 - question: How do transitions help introduce evidence?
   answer: 'Phrases such as "for instance", "according to", "in one study" or "a second example" tell the reader that evidence is coming and how it relates to what came before: an example, a source, an addition or a contrast.'
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 ## What a transition does

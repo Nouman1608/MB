@@ -42,10 +42,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
 author: "marlbridge-academic-team"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 Programs compute. A thermostat works out how far the temperature is from the target, a game adds points, a timer converts seconds into minutes and seconds. All of that uses **mathematical expressions**. This topic covers the arithmetic operators in the exam notation, the order in which an expression is evaluated, and the operator that surprises most students, **MOD**, which gives the remainder after division. MOD turns out to be one of the most useful ideas in the whole course: it detects even and odd numbers, tests divisibility, extracts digits and makes values "wrap around" like a clock.

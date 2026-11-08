@@ -31,10 +31,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 These notes recap Topic 3.7. Full explanations and worked examples are in the [study guide](/advanced-course-resources/computer-science-a/3-7-class-variables-methods-study-guide/).

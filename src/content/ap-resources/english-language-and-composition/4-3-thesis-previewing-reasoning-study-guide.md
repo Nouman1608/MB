@@ -39,10 +39,7 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - A thesis states a defensible claim; it may also preview the line of reasoning by pointing to the reasons or shape of the argument.
 - A preview is not a list of topics and not an announcement. It does not have to name every point or piece of evidence.
@@ -55,6 +52,9 @@ faqs:
   answer: An announcement says what you will do ("This essay will discuss cost, safety and speed"). A preview makes a claim and signals why or how ("Cities should adopt X because it cuts cost, protects riders and saves time"). The second can be disagreed with; the first cannot.
 - question: If my thesis previews three reasons, must I write three paragraphs?
   answer: Not necessarily, but your body should visibly deliver what the thesis promises. If the thesis names reasons, the reader will look for them; if you change course while writing, revise the thesis.
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 ## What a thesis already tells the reader

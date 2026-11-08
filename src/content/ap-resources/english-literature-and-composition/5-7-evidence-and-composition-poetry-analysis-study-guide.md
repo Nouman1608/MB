@@ -20,10 +20,10 @@ faqs: [{"question": "How do I show line breaks when I quote a poem?", "answer": 
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 In Topic 5.6 you built the argument for a poetry essay. This topic is about the materials and the finish: which words from the poem to use as evidence, how to quote them accurately and smoothly, how much is enough, and how to make the whole essay move from sentence to sentence and paragraph to paragraph so that a reader can follow your thinking. These are the skills of **selecting and using relevant and sufficient evidence** and **controlling the elements of composition**.

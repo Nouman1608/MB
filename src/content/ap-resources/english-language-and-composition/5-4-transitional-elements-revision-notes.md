@@ -33,14 +33,14 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - Transitional elements show relationships among ideas and help create coherence.
 - Choose the relationship first, then the word.
 - Transitions can introduce evidence and show how it relates to other evidence.
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Short on time? This page is the recap. For explanations and worked examples, use the [full study guide](/advanced-course-resources/english-language-and-composition/5-4-transitional-elements-study-guide/).

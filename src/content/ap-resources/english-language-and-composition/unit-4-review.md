@@ -43,15 +43,15 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - Introductions orient, engage and focus; conclusions bring the argument to a unified end and add the so-what.
 - A thesis may preview the line of reasoning, but it is a claim, not an announcement or a list.
 - Comparison-contrast needs like categories; definition and description need concrete features, details and examples.
 - In every task, link the choice to the audience and purpose, and quote the words you are analysing.
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Read the big ideas and the method table, then try the seven questions without notes. Each question combines two or more Unit 4 topics.

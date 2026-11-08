@@ -19,10 +19,10 @@ keyPoints: ["Eight questions: five multiple choice, three written.", "Every answ
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. Every unseen passage was written by Marlbridge for practice. The public-domain extracts are from Kate Chopin, "The Story of an Hour" (1894), and Edgar Allan Poe, "The Fall of the House of Usher" (1839). The marks in the rubrics are a **suggested Marlbridge rubric**, not an official scoring guideline. Answer every question before opening its answer.

@@ -23,10 +23,10 @@ faqs: [{"question": "Why does 7 / 2 give 3 and not 3.5?", "answer": "Both operan
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 ## Showing results: print and println

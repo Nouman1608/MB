@@ -19,10 +19,10 @@ keyPoints: ["Eight questions: five multiple choice, three written, including a f
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The public-domain poem in Questions 1 to 5 is Emily Dickinson, "Because I could not stop for Death" (written about 1863; published 1890 as "The Chariot"); its text is printed in the [study guide](/advanced-course-resources/english-literature-and-composition/5-7-evidence-and-composition-poetry-analysis-study-guide/) and the key lines are quoted below. The poem in Questions 6 to 8 is an original Marlbridge poem. The marks in the rubrics are a **suggested Marlbridge rubric**, not an official scoring guideline. Answer every question before opening its answer.

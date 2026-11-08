@@ -39,10 +39,7 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - Consideration and use of new evidence may require revision of the thesis statement and/or changes to the line of reasoning.
 - A thesis is a working claim until the evidence has been weighed; the evidence should shape the claim, not the other way round.
@@ -55,6 +52,9 @@ faqs:
   answer: As much as the evidence demands. A small qualification ("for older students") may be enough, or the evidence may overturn the claim. The test is whether the thesis still says what the best evidence supports.
 - question: Does revising a thesis matter in a timed exam?
   answer: Yes. When you plan from the sources you are given, notice if the evidence does not support your first idea, and adjust your thesis before you begin to write. You do not have time to revise a finished essay, so plan the claim carefully.
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 ## A thesis is a working claim

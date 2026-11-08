@@ -20,10 +20,10 @@ faqs: [{"question": "What is the difference between a metaphor and a simile?", "
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 A comparison is one of the most compressed ways of making meaning: say that one thing is another and the reader's mind begins to transfer qualities from one to the other. This topic teaches you to read metaphor and personification precisely: which traits move across, which do not, and what the comparison tells us about the speaker's perspective.

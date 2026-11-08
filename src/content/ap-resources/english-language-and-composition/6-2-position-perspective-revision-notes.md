@@ -33,14 +33,14 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - Position is what a source argues; perspective is where it argues from.
 - Sources can share a position and differ in perspective.
 - Perspective explains the evidence a source chooses and omits.
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Short on time? This page is the recap. For explanations and worked examples, use the [full study guide](/advanced-course-resources/english-language-and-composition/6-2-position-perspective-study-guide/).

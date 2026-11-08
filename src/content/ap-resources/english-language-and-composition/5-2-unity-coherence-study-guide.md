@@ -38,10 +38,7 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - Unity means every sentence in a paragraph serves one controlling idea; coherence means the ideas are linked so that each leads logically to the next.
 - 'Coherence works at three levels: between clauses within a sentence, between sentences within a paragraph, and between paragraphs within a text.'
@@ -54,6 +51,9 @@ faqs:
   answer: No. Transitions show relationships, but they cannot create them. If the ideas do not follow, adding "therefore" only makes the gap more obvious. Coherence starts with the order and the logic of the ideas.
 - question: How do I check my own paragraph for coherence?
   answer: 'Read it aloud and mark each place where the next sentence does not seem to follow. Ask what the reader needs at that point: a connecting idea, a repeated term, a transition or a change of order.'
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 ## Two words, two jobs

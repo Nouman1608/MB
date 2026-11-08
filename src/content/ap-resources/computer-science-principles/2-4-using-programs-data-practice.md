@@ -28,10 +28,10 @@ framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
-editorialStatus: "drafted"
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. All data sets are fictional. Code uses Marlbridge's rendering of the course's reference notation (lists in square brackets, `FOR EACH`, `APPEND`, `LENGTH`, `MOD`). The rubrics are a suggested Marlbridge rubric, not an official scoring guideline. No calculator is needed.

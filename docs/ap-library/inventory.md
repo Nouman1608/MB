@@ -1,6 +1,6 @@
 # Advanced-course (AP) library -- resource inventory
 
-Generated 2026-11-08T17:47:46.993Z by `scripts/ap-library-inventory.mjs`. Library public: **yes**.
+Generated 2026-11-08T18:59:37.125Z by `scripts/ap-library-inventory.mjs`. Library public: **yes**.
 
 Status per topic: **planned** = no resource yet; **drafted** = written and checked by the Marlbridge Academic Team, awaiting AP-teacher review; **reviewed** = every resource reviewed by a named teacher; **published** = live. Shared Calculus AB/BC material (`calculusScope: ab-and-bc`) counts for both courses.
 
@@ -19,12 +19,12 @@ Status per topic: **planned** = no resource yet; **drafted** = written and check
 | AP Physics C: Electricity and Magnetism | 6 | 31 | 0 | 0 | 31 | 0 | 138 |
 | AP Microeconomics | 6 | 36 | 0 | 0 | 36 | 0 | 158 |
 | AP Macroeconomics | 6 | 42 | 0 | 0 | 42 | 0 | 182 |
-| AP Computer Science A | 4 | 53 | 53 | 0 | 0 | 0 | 0 |
-| AP Computer Science Principles | 5 | 35 | 35 | 0 | 0 | 0 | 0 |
-| AP English Language and Composition | 9 | 55 | 55 | 0 | 0 | 0 | 0 |
-| AP English Literature and Composition | 9 | 62 | 62 | 0 | 0 | 0 | 0 |
+| AP Computer Science A | 4 | 53 | 0 | 0 | 53 | 0 | 222 |
+| AP Computer Science Principles | 5 | 35 | 0 | 0 | 35 | 0 | 152 |
+| AP English Language and Composition | 9 | 55 | 0 | 0 | 55 | 0 | 240 |
+| AP English Literature and Composition | 9 | 62 | 0 | 0 | 62 | 0 | 268 |
 
-Total topics: planned 205, drafted 0, reviewed 637, published 0. Resource records: 2388.
+Total topics: planned 0, drafted 0, reviewed 842, published 0. Resource records: 3270.
 
 Unit diagnostics, mixed unit reviews and exam-skills guides: **none yet (planned for Phase 2)**.
 
@@ -724,223 +724,223 @@ Unit diagnostics, mixed unit reviews and exam-skills guides: **none yet (planned
 
 | Topic | Title | Status | Resources |
 |---|---|---|---|
-| 1.1 | Introduction to Algorithms, Programming, and Compilers | planned | -- |
-| 1.2 | Variables and Data Types | planned | -- |
-| 1.3 | Expressions and Output | planned | -- |
-| 1.4 | Assignment Statements and Input | planned | -- |
-| 1.5 | Casting and Range of Variables | planned | -- |
-| 1.6 | Compound Assignment Operators | planned | -- |
-| 1.7 | Application Program Interface (API) and Libraries | planned | -- |
-| 1.8 | Documentation with Comments | planned | -- |
-| 1.9 | Method Signatures | planned | -- |
-| 1.10 | Calling Class Methods | planned | -- |
-| 1.11 | Math Class | planned | -- |
-| 1.12 | Objects: Instances of Classes | planned | -- |
-| 1.13 | Object Creation and Storage (Instantiation) | planned | -- |
-| 1.14 | Calling Instance Methods | planned | -- |
-| 1.15 | String Manipulation | planned | -- |
-| 2.1 | Algorithms with Selection and Repetition | planned | -- |
-| 2.2 | Boolean Expressions | planned | -- |
-| 2.3 | if Statements | planned | -- |
-| 2.4 | Nested if Statements | planned | -- |
-| 2.5 | Compound Boolean Expressions | planned | -- |
-| 2.6 | Comparing Boolean Expressions | planned | -- |
-| 2.7 | while Loops | planned | -- |
-| 2.8 | for Loops | planned | -- |
-| 2.9 | Implementing Selection and Iteration Algorithms | planned | -- |
-| 2.10 | Implementing String Algorithms | planned | -- |
-| 2.11 | Nested Iteration | planned | -- |
-| 2.12 | Informal Run-Time Analysis | planned | -- |
-| 3.1 | Abstraction and Program Design | planned | -- |
-| 3.2 | Impact of Program Design | planned | -- |
-| 3.3 | Anatomy of a Class | planned | -- |
-| 3.4 | Constructors | planned | -- |
-| 3.5 | Methods: How to Write Them | planned | -- |
-| 3.6 | Methods: Passing and Returning References of an Object | planned | -- |
-| 3.7 | Class Variables and Methods | planned | -- |
-| 3.8 | Scope and Access | planned | -- |
-| 3.9 | this Keyword | planned | -- |
-| 4.1 | Ethical and Social Issues Around Data Collection | planned | -- |
-| 4.2 | Introduction to Using Data Sets | planned | -- |
-| 4.3 | Array Creation and Access | planned | -- |
-| 4.4 | Array Traversals | planned | -- |
-| 4.5 | Implementing Array Algorithms | planned | -- |
-| 4.6 | Using Text Files | planned | -- |
-| 4.7 | Wrapper Classes | planned | -- |
-| 4.8 | ArrayList Methods | planned | -- |
-| 4.9 | ArrayList Traversals | planned | -- |
-| 4.10 | Implementing ArrayList Algorithms | planned | -- |
-| 4.11 | 2D Array Creation and Access | planned | -- |
-| 4.12 | 2D Array Traversals | planned | -- |
-| 4.13 | Implementing 2D Array Algorithms | planned | -- |
-| 4.14 | Searching Algorithms | planned | -- |
-| 4.15 | Sorting Algorithms | planned | -- |
-| 4.16 | Recursion | planned | -- |
-| 4.17 | Recursive Searching and Sorting | planned | -- |
+| 1.1 | Introduction to Algorithms, Programming, and Compilers | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.2 | Variables and Data Types | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.3 | Expressions and Output | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.4 | Assignment Statements and Input | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.5 | Casting and Range of Variables | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.6 | Compound Assignment Operators | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.7 | Application Program Interface (API) and Libraries | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.8 | Documentation with Comments | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.9 | Method Signatures | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.10 | Calling Class Methods | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.11 | Math Class | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.12 | Objects: Instances of Classes | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.13 | Object Creation and Storage (Instantiation) | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.14 | Calling Instance Methods | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.15 | String Manipulation | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.1 | Algorithms with Selection and Repetition | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.2 | Boolean Expressions | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.3 | if Statements | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.4 | Nested if Statements | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.5 | Compound Boolean Expressions | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.6 | Comparing Boolean Expressions | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.7 | while Loops | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.8 | for Loops | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.9 | Implementing Selection and Iteration Algorithms | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.10 | Implementing String Algorithms | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.11 | Nested Iteration | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.12 | Informal Run-Time Analysis | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.1 | Abstraction and Program Design | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.2 | Impact of Program Design | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.3 | Anatomy of a Class | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.4 | Constructors | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.5 | Methods: How to Write Them | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.6 | Methods: Passing and Returning References of an Object | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.7 | Class Variables and Methods | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.8 | Scope and Access | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.9 | this Keyword | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.1 | Ethical and Social Issues Around Data Collection | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.2 | Introduction to Using Data Sets | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.3 | Array Creation and Access | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.4 | Array Traversals | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.5 | Implementing Array Algorithms | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.6 | Using Text Files | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.7 | Wrapper Classes | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.8 | ArrayList Methods | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.9 | ArrayList Traversals | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.10 | Implementing ArrayList Algorithms | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.11 | 2D Array Creation and Access | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.12 | 2D Array Traversals | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.13 | Implementing 2D Array Algorithms | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.14 | Searching Algorithms | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.15 | Sorting Algorithms | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.16 | Recursion | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.17 | Recursive Searching and Sorting | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
 
 ## AP Computer Science Principles
 
 | Topic | Title | Status | Resources |
 |---|---|---|---|
-| 1.1 | Collaboration | planned | -- |
-| 1.2 | Program Function and Purpose | planned | -- |
-| 1.3 | Program Design and Development | planned | -- |
-| 1.4 | Identifying and Correcting Errors | planned | -- |
-| 2.1 | Binary Numbers | planned | -- |
-| 2.2 | Data Compression | planned | -- |
-| 2.3 | Extracting Information from Data | planned | -- |
-| 2.4 | Using Programs with Data | planned | -- |
-| 3.1 | Variables and Assignments | planned | -- |
-| 3.2 | Data Abstraction | planned | -- |
-| 3.3 | Mathematical Expressions | planned | -- |
-| 3.4 | Strings | planned | -- |
-| 3.5 | Boolean Expressions | planned | -- |
-| 3.6 | Conditionals | planned | -- |
-| 3.7 | Nested Conditionals | planned | -- |
-| 3.8 | Iteration | planned | -- |
-| 3.9 | Developing Algorithms | planned | -- |
-| 3.10 | Lists | planned | -- |
-| 3.11 | Binary Search | planned | -- |
-| 3.12 | Calling Procedures | planned | -- |
-| 3.13 | Developing Procedures | planned | -- |
-| 3.14 | Libraries | planned | -- |
-| 3.15 | Random Values | planned | -- |
-| 3.16 | Simulations | planned | -- |
-| 3.17 | Algorithmic Efficiency | planned | -- |
-| 3.18 | Undecidable Problems | planned | -- |
-| 4.1 | The Internet | planned | -- |
-| 4.2 | Fault Tolerance | planned | -- |
-| 4.3 | Parallel and Distributed Computing | planned | -- |
-| 5.1 | Beneficial and Harmful Effects | planned | -- |
-| 5.2 | Digital Divide | planned | -- |
-| 5.3 | Computing Bias | planned | -- |
-| 5.4 | Crowdsourcing | planned | -- |
-| 5.5 | Legal and Ethical Concerns | planned | -- |
-| 5.6 | Safe Computing | planned | -- |
+| 1.1 | Collaboration | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.2 | Program Function and Purpose | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.3 | Program Design and Development | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.4 | Identifying and Correcting Errors | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.1 | Binary Numbers | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.2 | Data Compression | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.3 | Extracting Information from Data | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.4 | Using Programs with Data | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.1 | Variables and Assignments | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.2 | Data Abstraction | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.3 | Mathematical Expressions | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.4 | Strings | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.5 | Boolean Expressions | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.6 | Conditionals | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.7 | Nested Conditionals | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.8 | Iteration | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.9 | Developing Algorithms | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.10 | Lists | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.11 | Binary Search | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.12 | Calling Procedures | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.13 | Developing Procedures | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.14 | Libraries | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.15 | Random Values | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.16 | Simulations | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.17 | Algorithmic Efficiency | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.18 | Undecidable Problems | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.1 | The Internet | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.2 | Fault Tolerance | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.3 | Parallel and Distributed Computing | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.1 | Beneficial and Harmful Effects | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.2 | Digital Divide | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.3 | Computing Bias | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.4 | Crowdsourcing | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.5 | Legal and Ethical Concerns | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.6 | Safe Computing | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
 
 ## AP English Language and Composition
 
 | Topic | Title | Status | Resources |
 |---|---|---|---|
-| 1.1 | The rhetorical situation | planned | -- |
-| 1.2 | Exigence and purpose | planned | -- |
-| 1.3 | Audience and context | planned | -- |
-| 1.4 | Claims that need a defence | planned | -- |
-| 1.5 | Evidence and its types | planned | -- |
-| 1.6 | Writing a paragraph with a claim and evidence | planned | -- |
-| 2.1 | Writing for an audience’s beliefs, values and needs | planned | -- |
-| 2.2 | Relating to an audience’s emotions and values | planned | -- |
-| 2.3 | Appeals: the modes of persuasion | planned | -- |
-| 2.4 | Choosing evidence strategically | planned | -- |
-| 2.5 | Sufficient evidence | planned | -- |
-| 2.6 | Identifying the thesis of an argument | planned | -- |
-| 2.7 | Writing a defensible thesis statement | planned | -- |
-| 3.1 | Commentary that links evidence to a claim | planned | -- |
-| 3.2 | Synthesis and acknowledging sources | planned | -- |
-| 3.3 | Following and building a line of reasoning | planned | -- |
-| 3.4 | Commentary across a whole argument | planned | -- |
-| 3.5 | Flaws in a line of reasoning | planned | -- |
-| 3.6 | Methods of development | planned | -- |
-| 3.7 | Developing ideas through narration and cause-effect | planned | -- |
-| 4.1 | Introductions | planned | -- |
-| 4.2 | Conclusions | planned | -- |
-| 4.3 | Thesis statements that preview the line of reasoning | planned | -- |
-| 4.4 | Developing ideas through comparison-contrast | planned | -- |
-| 4.5 | Developing ideas through definition and description | planned | -- |
-| 5.1 | Body paragraphs and the line of reasoning | planned | -- |
-| 5.2 | Unity and coherence | planned | -- |
-| 5.3 | Repetition, synonyms, pronouns and parallel structure | planned | -- |
-| 5.4 | Transitional elements | planned | -- |
-| 5.5 | Connotation and denotation | planned | -- |
-| 5.6 | Descriptive words and precise word choice | planned | -- |
-| 6.1 | Synthesising material from several sources | planned | -- |
-| 6.2 | Position and perspective | planned | -- |
-| 6.3 | Bias and limitations in sources | planned | -- |
-| 6.4 | Revising a thesis for new evidence | planned | -- |
-| 6.5 | Tone and connotation | planned | -- |
-| 6.6 | Shifts in tone | planned | -- |
-| 7.1 | Introductions and conclusions for a complex argument | planned | -- |
-| 7.2 | Complexity and avoiding oversimplification | planned | -- |
-| 7.3 | Qualifying a claim with modifiers | planned | -- |
-| 7.4 | Clauses and the arrangement of sentences | planned | -- |
-| 7.5 | Coordination and subordination | planned | -- |
-| 7.6 | Grammar, mechanics and punctuation | planned | -- |
-| 7.7 | Design features for emphasis | planned | -- |
-| 8.1 | Comparisons that relate to an audience | planned | -- |
-| 8.2 | Diction, syntax and credibility | planned | -- |
-| 8.3 | Making choices for a particular audience | planned | -- |
-| 8.4 | Style | planned | -- |
-| 8.5 | Irony and complex perspectives | planned | -- |
-| 8.6 | Modifiers and parenthetical elements | planned | -- |
-| 9.1 | Entering an ongoing conversation | planned | -- |
-| 9.2 | Evidence that supports, complements or contradicts a thesis | planned | -- |
-| 9.3 | Conceding | planned | -- |
-| 9.4 | Rebutting and refuting | planned | -- |
-| 9.5 | Introducing counterarguments, and when to address them | planned | -- |
+| 1.1 | The rhetorical situation | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.2 | Exigence and purpose | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.3 | Audience and context | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.4 | Claims that need a defence | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.5 | Evidence and its types | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.6 | Writing a paragraph with a claim and evidence | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.1 | Writing for an audience’s beliefs, values and needs | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.2 | Relating to an audience’s emotions and values | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.3 | Appeals: the modes of persuasion | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.4 | Choosing evidence strategically | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.5 | Sufficient evidence | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.6 | Identifying the thesis of an argument | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.7 | Writing a defensible thesis statement | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.1 | Commentary that links evidence to a claim | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.2 | Synthesis and acknowledging sources | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.3 | Following and building a line of reasoning | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.4 | Commentary across a whole argument | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.5 | Flaws in a line of reasoning | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.6 | Methods of development | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.7 | Developing ideas through narration and cause-effect | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.1 | Introductions | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.2 | Conclusions | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.3 | Thesis statements that preview the line of reasoning | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.4 | Developing ideas through comparison-contrast | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.5 | Developing ideas through definition and description | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.1 | Body paragraphs and the line of reasoning | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.2 | Unity and coherence | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.3 | Repetition, synonyms, pronouns and parallel structure | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.4 | Transitional elements | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.5 | Connotation and denotation | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.6 | Descriptive words and precise word choice | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 6.1 | Synthesising material from several sources | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 6.2 | Position and perspective | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 6.3 | Bias and limitations in sources | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 6.4 | Revising a thesis for new evidence | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 6.5 | Tone and connotation | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 6.6 | Shifts in tone | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 7.1 | Introductions and conclusions for a complex argument | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 7.2 | Complexity and avoiding oversimplification | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 7.3 | Qualifying a claim with modifiers | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 7.4 | Clauses and the arrangement of sentences | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 7.5 | Coordination and subordination | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 7.6 | Grammar, mechanics and punctuation | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 7.7 | Design features for emphasis | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 8.1 | Comparisons that relate to an audience | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 8.2 | Diction, syntax and credibility | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 8.3 | Making choices for a particular audience | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 8.4 | Style | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 8.5 | Irony and complex perspectives | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 8.6 | Modifiers and parenthetical elements | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 9.1 | Entering an ongoing conversation | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 9.2 | Evidence that supports, complements or contradicts a thesis | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 9.3 | Conceding | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 9.4 | Rebutting and refuting | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 9.5 | Introducing counterarguments, and when to address them | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
 
 ## AP English Literature and Composition
 
 | Topic | Title | Status | Resources |
 |---|---|---|---|
-| 1.1 | Character: what details reveal about perspective and motive | planned | -- |
-| 1.2 | Setting: details that convey a time and place | planned | -- |
-| 1.3 | Plot: how events are ordered and why | planned | -- |
-| 1.4 | Narrator and point of view | planned | -- |
-| 1.5 | Writing a paragraph with a claim and textual evidence | planned | -- |
-| 2.1 | The speaker as a character | planned | -- |
-| 2.2 | The structure of a poem | planned | -- |
-| 2.3 | Contrasts within a poem | planned | -- |
-| 2.4 | The function of specific words and phrases | planned | -- |
-| 2.5 | Simile and metaphor | planned | -- |
-| 2.6 | Writing a paragraph about a poem | planned | -- |
-| 3.1 | Character in longer works | planned | -- |
-| 3.2 | Characters who change or remain unchanged | planned | -- |
-| 3.3 | Setting in longer works | planned | -- |
-| 3.4 | Significant events in a plot | planned | -- |
-| 3.5 | Conflict | planned | -- |
-| 3.6 | From claim-and-evidence paragraph to defensible thesis | planned | -- |
-| 3.7 | Commentary and the line of reasoning | planned | -- |
-| 3.8 | Selecting evidence and controlling composition | planned | -- |
-| 4.1 | Contrasting characters | planned | -- |
-| 4.2 | Nuance and complexity in character relationships | planned | -- |
-| 4.3 | The function of setting, and character and setting | planned | -- |
-| 4.4 | Plot order and contrasts | planned | -- |
-| 4.5 | Narrator, point of view and perspective | planned | -- |
-| 4.6 | Thesis and commentary in a prose analysis | planned | -- |
-| 4.7 | Evidence and composition in a prose analysis | planned | -- |
-| 5.1 | Structure in poetry | planned | -- |
-| 5.2 | Literal and figurative meaning | planned | -- |
-| 5.3 | Imagery | planned | -- |
-| 5.4 | Metaphor and personification | planned | -- |
-| 5.5 | Allusion | planned | -- |
-| 5.6 | Thesis and commentary in a poetry analysis | planned | -- |
-| 5.7 | Evidence and composition in a poetry analysis | planned | -- |
-| 6.1 | Contrasting characters in longer works | planned | -- |
-| 6.2 | How choices, actions and speech reveal complexity | planned | -- |
-| 6.3 | Sequence and contrasts in a longer plot | planned | -- |
-| 6.4 | Narrator perspective and reliability | planned | -- |
-| 6.5 | Symbol | planned | -- |
-| 6.6 | Thesis and commentary in a literary argument | planned | -- |
-| 6.7 | Evidence and composition in a literary argument | planned | -- |
-| 7.1 | Character change and complex relationships | planned | -- |
-| 7.2 | Setting and its relationship to character | planned | -- |
-| 7.3 | Plot order and sequence | planned | -- |
-| 7.4 | Narrator reliability | planned | -- |
-| 7.5 | Symbol and imagery in fiction | planned | -- |
-| 7.6 | Simile and personification in fiction | planned | -- |
-| 7.7 | Thesis and commentary | planned | -- |
-| 7.8 | Selecting relevant and sufficient evidence | planned | -- |
-| 8.1 | Structure and contrasts in poetry | planned | -- |
-| 8.2 | Word choice in complex poems | planned | -- |
-| 8.3 | Symbol in poetry | planned | -- |
-| 8.4 | Extended and complex metaphor | planned | -- |
-| 8.5 | Allusion in poetry | planned | -- |
-| 8.6 | Thesis and commentary in a poetry essay | planned | -- |
-| 8.7 | Evidence and composition in a poetry essay | planned | -- |
-| 9.1 | Characters who change or remain unchanged | planned | -- |
-| 9.2 | Complexity revealed through choices, actions and speech | planned | -- |
-| 9.3 | Significant events | planned | -- |
-| 9.4 | Conflict and its function | planned | -- |
-| 9.5 | Details, diction and syntax that reveal perspective | planned | -- |
-| 9.6 | Thesis and commentary in a literary argument essay | planned | -- |
-| 9.7 | Selecting evidence for a literary argument | planned | -- |
+| 1.1 | Character: what details reveal about perspective and motive | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.2 | Setting: details that convey a time and place | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.3 | Plot: how events are ordered and why | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.4 | Narrator and point of view | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 1.5 | Writing a paragraph with a claim and textual evidence | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.1 | The speaker as a character | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.2 | The structure of a poem | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.3 | Contrasts within a poem | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.4 | The function of specific words and phrases | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.5 | Simile and metaphor | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 2.6 | Writing a paragraph about a poem | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.1 | Character in longer works | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.2 | Characters who change or remain unchanged | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.3 | Setting in longer works | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.4 | Significant events in a plot | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.5 | Conflict | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.6 | From claim-and-evidence paragraph to defensible thesis | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.7 | Commentary and the line of reasoning | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 3.8 | Selecting evidence and controlling composition | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.1 | Contrasting characters | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.2 | Nuance and complexity in character relationships | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.3 | The function of setting, and character and setting | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.4 | Plot order and contrasts | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.5 | Narrator, point of view and perspective | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.6 | Thesis and commentary in a prose analysis | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 4.7 | Evidence and composition in a prose analysis | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.1 | Structure in poetry | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.2 | Literal and figurative meaning | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.3 | Imagery | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.4 | Metaphor and personification | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.5 | Allusion | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.6 | Thesis and commentary in a poetry analysis | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 5.7 | Evidence and composition in a poetry analysis | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 6.1 | Contrasting characters in longer works | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 6.2 | How choices, actions and speech reveal complexity | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 6.3 | Sequence and contrasts in a longer plot | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 6.4 | Narrator perspective and reliability | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 6.5 | Symbol | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 6.6 | Thesis and commentary in a literary argument | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 6.7 | Evidence and composition in a literary argument | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 7.1 | Character change and complex relationships | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 7.2 | Setting and its relationship to character | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 7.3 | Plot order and sequence | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 7.4 | Narrator reliability | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 7.5 | Symbol and imagery in fiction | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 7.6 | Simile and personification in fiction | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 7.7 | Thesis and commentary | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 7.8 | Selecting relevant and sufficient evidence | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 8.1 | Structure and contrasts in poetry | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 8.2 | Word choice in complex poems | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 8.3 | Symbol in poetry | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 8.4 | Extended and complex metaphor | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 8.5 | Allusion in poetry | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 8.6 | Thesis and commentary in a poetry essay | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 8.7 | Evidence and composition in a poetry essay | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 9.1 | Characters who change or remain unchanged | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 9.2 | Complexity revealed through choices, actions and speech | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 9.3 | Significant events | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 9.4 | Conflict and its function | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 9.5 | Details, diction and syntax that reveal perspective | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 9.6 | Thesis and commentary in a literary argument essay | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |
+| 9.7 | Selecting evidence for a literary argument | reviewed | topic-checklist, practice-questions, revision-notes, study-guide |

@@ -41,15 +41,15 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - 'Seven short questions: one for each of the five topics in Unit 4, plus two written tasks.'
 - Five are multiple choice; two need a short written answer.
 - Each answer links to the study guide to read if you missed it.
 - It shows where to focus. It does not give or predict a score.
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Use this diagnostic to find **which Unit 4 topics to revisit**: one question per topic, then two short written tasks.

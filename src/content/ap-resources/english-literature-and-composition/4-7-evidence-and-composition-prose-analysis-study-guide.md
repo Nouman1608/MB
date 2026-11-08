@@ -20,10 +20,10 @@ faqs: [{"question": "How much evidence is enough for one claim?", "answer": "Eno
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 In Topic 4.6 you built the argument: a thesis, a line of reasoning and commentary. This topic is about the materials and the finish. Which evidence should you choose, how much is enough, and how do you make a whole essay hold together so that a reader can follow your thinking without effort? The skills are **selecting and using relevant and sufficient evidence** and **controlling the elements of composition**.

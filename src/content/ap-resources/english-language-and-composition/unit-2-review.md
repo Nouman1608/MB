@@ -30,10 +30,10 @@ prerequisiteResources: ["mb-ap-englang-u2-diagnostic"]
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Unit 2 moves from understanding an audience to persuading it: appeals, strategic and sufficient evidence, and the thesis that ties an argument together. This review draws the ideas together and asks seven questions that combine two or more topics. The questions are **original Marlbridge practice**, not past exam questions, and the rubrics are a suggested Marlbridge rubric. Passages not credited to a named public-domain author were written by Marlbridge for practice.

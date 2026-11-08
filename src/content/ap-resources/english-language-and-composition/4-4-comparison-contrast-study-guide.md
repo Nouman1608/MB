@@ -39,10 +39,7 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - Comparison-contrast develops an idea by presenting a category of comparison and then examining similarities and/or differences between the objects of comparison.
 - 'Like categories must be used: compare cost with cost and speed with speed, never cost with speed.'
@@ -55,6 +52,9 @@ faqs:
   answer: Whichever supports your claim. If your claim is that two things that seem different work the same way, stress similarity. If your claim is that something that looks like the usual answer is not, stress difference. Often both appear, with one leading.
 - question: Is point-by-point always better than block organisation?
   answer: No. Point-by-point keeps the two objects side by side and suits close comparison. Block organisation lets the reader take in each object whole and suits a longer description followed by a verdict. Choose by purpose and by how complex each object is.
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 ## What comparison-contrast does

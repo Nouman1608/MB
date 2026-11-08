@@ -39,10 +39,7 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - 'Descriptive words such as adjectives and adverbs do two jobs: they qualify what they describe and they convey the writer''s perspective toward it.'
 - Precise word choice reduces confusion and helps the audience see the writer's perspective.
@@ -55,6 +52,9 @@ faqs:
   answer: One that says exactly what you mean and rules out other things. "Sprinted" is more precise than "went quickly"; "a three-hour delay" is more precise than "a long wait".
 - question: Can an adjective show the writer's view?
   answer: Yes. "A reasonable proposal", "a so-called solution" and "a regrettable necessity" all label the noun with the writer's opinion. Readers should notice when a modifier does the work of an argument.
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 ## Two jobs for descriptive words

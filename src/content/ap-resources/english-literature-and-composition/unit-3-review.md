@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Read the big ideas and the method table, then try the six questions without notes. Each question combines two or more Unit 3 topics. The extracts are from Shakespeare's *Macbeth* (about 1606), Act 1, Scene 7, which is in the public domain. They are quoted from the Project Gutenberg text; spelling and punctuation vary between editions.

@@ -39,10 +39,7 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - The strongest arguments recognise and acknowledge the biases and limitations of the material they use and account for them in their reasoning.
 - The degree to which a source considers other positions reflects the degree to which it is biased.
@@ -55,6 +52,9 @@ faqs:
   answer: Not necessarily. A biased source can still be useful evidence, for example of what a group believes or wants, as long as you acknowledge its bias and do not use it as neutral proof of facts.
 - question: What is the difference between bias and a limitation?
   answer: 'Bias is about how a source treats the issue: one-sidedness, loaded language, omission. A limitation is about what the evidence can show: a small sample, a narrow context, an out-of-date figure. A source may have either, both or neither.'
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 ## Why a writer needs to judge sources

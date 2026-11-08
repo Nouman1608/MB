@@ -42,10 +42,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
 author: "marlbridge-academic-team"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 So far this unit has asked how to write algorithms and how fast they run. This last topic asks a stranger question: **are there problems that no algorithm can ever solve?** The surprising answer is yes. It is not that nobody has been clever enough yet; it can be *shown* that for some problems no algorithm exists. Understanding this is a good way to see what computing can and cannot do, and it separates two ideas that are easy to confuse: a problem that takes too long (Topic 3.17) and a problem that cannot be solved at all.

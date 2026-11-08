@@ -41,10 +41,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
 author: "marlbridge-academic-team"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 Text is data too. Names, messages, passwords, search terms and web addresses are all stored as **strings**. Programs constantly build new strings from old ones: joining a first name to a surname, cutting an area code off a phone number, producing a username. This topic covers what a string is, how **concatenation** and **substrings** work, and how to work out the result of code that manipulates strings.

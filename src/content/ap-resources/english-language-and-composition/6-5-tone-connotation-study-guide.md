@@ -39,10 +39,7 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - Tone is the writer's attitude or feeling about a subject, conveyed through word choice and writing style.
 - Readers infer tone from word choice, and especially from the positive, negative or other connotations of the words.
@@ -55,6 +52,9 @@ faqs:
   answer: Notice the connotations of the writer's words, decide what attitude they signal, and choose the most exact descriptive word, such as admiring, sceptical, wistful or indignant. Two linked words (for example, "wry but affectionate") are often more accurate than one.
 - question: Can a passage have more than one tone?
   answer: Yes. Tone can shift within a text (Topic 6.6). Name the tone of the part you are discussing.
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 ## What tone is

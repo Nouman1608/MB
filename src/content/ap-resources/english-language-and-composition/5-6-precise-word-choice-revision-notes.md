@@ -33,14 +33,14 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - Adjectives and adverbs qualify what they describe and convey perspective.
 - Precise words reduce confusion and reveal the writer's stance.
 - Replace vague words (thing, good, very) with exact ones.
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Short on time? This page is the recap. For explanations and worked examples, use the [full study guide](/advanced-course-resources/english-language-and-composition/5-6-precise-word-choice-study-guide/).

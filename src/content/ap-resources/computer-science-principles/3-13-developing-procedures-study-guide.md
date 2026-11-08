@@ -43,10 +43,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
 author: "marlbridge-academic-team"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 Large programs are not written as one huge block of code. They are built from small pieces, each with a clear job and a name, so that programmers can understand, test and reuse one piece at a time. A **procedure** is such a piece. In Topic 3.12 you called procedures. Here you write them, and you learn the reason they are one of the most important ideas in computing: **procedural abstraction**, which lets you use a procedure knowing only *what* it does, not *how* it does it. The same reasoning is what the Create performance task asks you to write about your own code.

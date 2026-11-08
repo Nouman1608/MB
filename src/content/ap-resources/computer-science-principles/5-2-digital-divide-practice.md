@@ -28,10 +28,10 @@ framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
-editorialStatus: "drafted"
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. All places, schools and data are fictional. The rubrics are a suggested Marlbridge rubric, not an official scoring guideline. Answers should be balanced and non-political. No calculator is needed.

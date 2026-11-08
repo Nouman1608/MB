@@ -36,14 +36,14 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - Questions 1 to 5 are multiple choice; questions 6 to 8 need written answers.
 - Strong answers name the strategy and the effect on the audience.
 - Each answer explains why the wrong options are wrong.
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. All passages marked "Marlbridge passage" were written for this resource; quotations from historical texts are from public-domain sources, with author, title and year given. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Allow about 45 minutes.

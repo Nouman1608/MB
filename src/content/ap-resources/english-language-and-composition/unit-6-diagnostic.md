@@ -40,15 +40,15 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - 'Seven short questions: one for each of the six topics in Unit 6, plus one written synthesis task.'
 - Six are multiple choice; one needs a short written answer.
 - Each answer links to the study guide to read if you missed it.
 - It shows where to focus. It does not give or predict a score.
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Use this diagnostic to find **which Unit 6 topics to revisit**: one question per topic, then a short written task.

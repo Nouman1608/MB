@@ -39,10 +39,7 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - Denotation is a word's literal, dictionary meaning; connotation is the feelings, associations and judgements the word carries.
 - 'Two words with the same denotation can have opposite connotations: slender, slim, skinny, scrawny.'
@@ -55,6 +52,9 @@ faqs:
   answer: Yes, depending on context. "Ambitious" can be admiring in one setting and critical in another. Always read the word in its sentence and consider the writer's purpose.
 - question: Is it wrong to use words with strong connotations in an argument?
   answer: No. Writers use them deliberately. The question for a reader is whether the connotations support the claim with evidence or substitute for it. As a writer, make sure your word choice is backed by reasoning.
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 ## Two layers of meaning

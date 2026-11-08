@@ -40,10 +40,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
 author: "marlbridge-academic-team"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 A program is a set of instructions that works on data, and data has to live somewhere while the instructions run. A **variable** is the program's answer to that problem: a named place that holds one value at a time. This topic covers what a variable is, how the assignment operator changes it, how to work out the value a variable holds after a code segment runs, and why the names you choose matter. The rest of Unit 3 builds on this: conditionals test variables, loops update them, and procedures receive them as parameters.

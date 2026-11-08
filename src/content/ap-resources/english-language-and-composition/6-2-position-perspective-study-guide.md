@@ -39,10 +39,7 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - A position is where a source stands on a question (for, against, or somewhere between); a perspective is the vantage point it argues from, shaped by background, interests and expertise.
 - Sources can share a position yet differ in perspective, and a strong writer notices how those differences give distinct reasons and evidence.
@@ -55,6 +52,9 @@ faqs:
   answer: Look for the writer's role or background, the interests at stake for them, the kind of evidence they choose, and the words they use. A source that cites classroom time and test results is probably arguing from a teacher's perspective.
 - question: Does having a perspective mean a source is biased?
   answer: Not necessarily. Everyone writes from some perspective. It becomes a concern when a source ignores other positions or hides its interests (Topic 6.3).
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 ## Two questions to ask of every source

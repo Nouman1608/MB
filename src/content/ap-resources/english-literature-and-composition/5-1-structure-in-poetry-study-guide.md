@@ -20,10 +20,10 @@ faqs: [{"question": "Do I need to name the form of a poem, such as sonnet or vil
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Poetry compresses meaning into a small space, so the arrangement of the words on the page carries a great deal of it. Where a line ends, where a stanza breaks, which phrase repeats and where a pattern changes: all of these are choices that relate one idea to another. This topic teaches you to describe a poem's structure and to explain what it does, using both **closed** and **open** forms.

@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
 author: "marlbridge-academic-team"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 Use this diagnostic to find **which Unit 3 topics to revisit**. There is at least one short question for every one of the 18 topics. Questions 1 to 19 are single-answer multiple choice, 20 and 21 ask for two answers, and 22 and 23 are short written answers.

@@ -41,15 +41,15 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - Synthesis uses several sources to support your own claim; organise by idea, not by source.
 - A position is what a source argues; a perspective is where it argues from; bias and limitations restrict what its evidence proves.
 - New evidence may require revising the thesis and the line of reasoning.
 - Tone is inferred from word choice and connotation; shifts in tone signal qualification, refinement or reconsideration.
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Read the big ideas and the method table, then try the seven questions without notes. Each question combines two or more Unit 6 topics.

@@ -42,10 +42,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
 author: "marlbridge-academic-team"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 A correct algorithm is not always a useful one. Imagine a program that is guaranteed to find the best route through 30 towns but needs longer than the age of the universe to finish. This topic asks a question beyond "does it work?": **how much work does it need as the problem gets bigger?** You will learn to measure the efficiency of an algorithm informally by counting how many times statements run, to tell algorithms that run in a **reasonable time** from those that do not, and to see why, for some problems, programmers accept **approximate** answers found by heuristics.

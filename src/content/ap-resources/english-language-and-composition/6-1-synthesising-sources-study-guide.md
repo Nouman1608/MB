@@ -37,10 +37,7 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - When synthesising, writers draw on arguments from multiple sources, strategically select the most relevant information and combine apt and specific source material as part of their own argument.
 - A source supports your argument; it does not replace it. Your claim is the organising idea and sources are the evidence.
@@ -53,6 +50,9 @@ faqs:
   answer: As many as the point needs. Often two sources used together make a stronger paragraph than one source used alone, but forcing a third in for its own sake weakens it.
 - question: How do I refer to sources on the exam?
   answer: Refer to them by author, title, or the label given (for example, Source A), consistently, and introduce them in a way that shows how they serve your point. Never invent details about a source.
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 ## From using a source to synthesising sources

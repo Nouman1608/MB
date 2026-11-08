@@ -42,15 +42,15 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - A body paragraph makes a claim, supports it with evidence and explains it with commentary that serves the line of reasoning.
 - Coherence works at three levels, and is built by order, repetition, synonyms, pronouns, parallel structure and transitions.
 - Words carry connotation; choose and read them for attitude and precision.
 - In analysis, quote the words and explain what they do for the argument.
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Read the big ideas and the method table, then try the seven questions without notes. Each question combines two or more Unit 5 topics.

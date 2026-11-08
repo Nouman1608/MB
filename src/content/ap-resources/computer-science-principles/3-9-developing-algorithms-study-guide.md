@@ -42,10 +42,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
 author: "marlbridge-academic-team"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 An **algorithm** is a finite set of instructions that accomplish a specific task. A recipe is an algorithm for a meal, and the steps for long division are an algorithm for dividing. Almost everything you have met in this unit, from assignments to loops, is a way of writing algorithms precisely enough for a computer to follow. In this topic you step back and look at algorithms themselves: how to create one, how to combine and modify algorithms you already know, and how to compare two algorithms to decide whether they produce the same result.

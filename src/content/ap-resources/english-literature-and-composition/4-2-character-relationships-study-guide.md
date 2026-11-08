@@ -20,10 +20,10 @@ faqs: [{"question": "What does nuance mean when I write about a relationship?", 
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 In Topic 4.1 you compared characters by their values. This topic goes one step further: how do details in a story show what a relationship between two characters is actually like, including the parts the characters do not say aloud? The answer is almost never a single word. Real relationships hold several feelings at once, and good fiction shows them through small, specific details. Your job is to read those details precisely and to describe the relationship with the same care.

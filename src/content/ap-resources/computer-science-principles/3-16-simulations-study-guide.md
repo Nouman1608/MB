@@ -42,10 +42,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
 author: "marlbridge-academic-team"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 Engineers cannot crash a hundred real aircraft to test a new wing design, doctors cannot try a drug on millions of patients before knowing how it spreads, and astronomers cannot run a galaxy forward a billion years. Instead they build **simulations**: programs that imitate a real thing so that you can experiment on the imitation. This topic explains what a simulation is, why it always simplifies the real world, how random numbers add realistic variation, and how to judge what a simulation can and cannot tell you.

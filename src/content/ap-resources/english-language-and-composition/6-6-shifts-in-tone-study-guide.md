@@ -39,10 +39,7 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - Shifts in tone from one part of a text to another may suggest the writer's qualification, refinement or reconsideration of their perspective on a subject.
 - Shifts are signalled by transitions, changes in diction and connotation, changes in sentence structure, new imagery or a change of address.
@@ -55,6 +52,9 @@ faqs:
   answer: Not necessarily. A shift may qualify a statement, refine a view, reconsider it, or deliberately set up a contrast. Decide which from the words and the context.
 - question: How do I write about a shift in an essay?
   answer: Name the tone before and after, quote the words that signal each, locate the turn, and explain what the change achieves for the writer's purpose.
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 ## What a shift is

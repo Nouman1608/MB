@@ -20,10 +20,10 @@ faqs: [{"question": "Is imagery only about things we can see?", "answer": "No. I
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 When a poet wants you to understand something, the quickest route is often not an explanation but a sensation: the sound of gnats, the feel of a stone, the look of a sea from a great height. This topic teaches you to identify images, to say what they appeal to, and to explain how a collection of images, called **imagery**, emphasises ideas in a poem.

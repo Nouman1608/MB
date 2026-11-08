@@ -23,10 +23,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
 author: "marlbridge-academic-team"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 Work through the list without notes. If you cannot do a statement, follow the pointer, then come back. Guide = the [study guide](/advanced-course-resources/computer-science-principles/3-13-developing-procedures-study-guide/); Practice = the [practice questions](/advanced-course-resources/computer-science-principles/3-13-developing-procedures-practice/).

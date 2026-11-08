@@ -42,10 +42,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
 author: "marlbridge-academic-team"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 Some decisions depend on an earlier decision. A website asks "are you logged in?" and only if the answer is yes does it ask "is your account an administrator?". A **nested conditional** puts one conditional statement inside the block of another. The inner conditional is only reached when the outer condition sends the flow of control into that block. Nesting is how a program asks a second question *after* learning the answer to a first one.

@@ -36,14 +36,14 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - Questions 1 to 5 are multiple choice; questions 6 to 8 need written answers.
 - Decide the relationship first; the right word follows.
 - Each answer explains why the wrong options are wrong.
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. Passages marked "Marlbridge passage" were written for this resource; quotations from historical texts are from public-domain sources with author, title and year. The rubrics are a suggested Marlbridge rubric, not an official scoring guideline. Allow about 45 minutes.

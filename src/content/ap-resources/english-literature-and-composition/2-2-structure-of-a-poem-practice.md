@@ -28,10 +28,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The poems U and V were written by Marlbridge for this practice; Question 7 quotes Shakespeare's Sonnet 73 (published 1609, public domain). Mark points are a **suggested Marlbridge rubric**, not an official scoring guideline. Multiple-choice questions have four options.

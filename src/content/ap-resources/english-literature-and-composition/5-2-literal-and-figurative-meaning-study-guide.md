@@ -20,10 +20,10 @@ faqs: [{"question": "What is the difference between denotation and connotation?"
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Poets choose words for what they say and for what they suggest. The same phrase can mean one thing on the surface and something else beneath. Reading poetry well means moving between the two without losing either. This topic teaches you to distinguish literal from figurative meaning, to explain what specific words and phrases do, and to explain how exaggeration and understatement convey a perspective.

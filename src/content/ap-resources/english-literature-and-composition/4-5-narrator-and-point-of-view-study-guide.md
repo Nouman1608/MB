@@ -20,10 +20,10 @@ faqs: [{"question": "What is the difference between narrator and author?", "answ
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Every story has a voice that tells it. The voice decides what the reader sees, in what words, and with what attitude. This topic teaches you to identify the narrator, describe the point of view and narrative distance, recognise stream of consciousness, and explain how details, diction and syntax reveal a perspective and tone.

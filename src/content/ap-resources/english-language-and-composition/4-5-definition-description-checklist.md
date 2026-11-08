@@ -32,13 +32,13 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - Tick a statement only when you can do it without notes.
 - Each statement names the guide section or practice question that tests it.
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Work through the list without notes. If you cannot do a statement, follow its link, then come back. Guide = [study guide](/advanced-course-resources/english-language-and-composition/4-5-definition-description-study-guide/); Practice = [practice questions](/advanced-course-resources/english-language-and-composition/4-5-definition-description-practice/).

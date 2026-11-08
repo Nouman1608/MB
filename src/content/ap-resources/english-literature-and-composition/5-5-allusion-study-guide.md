@@ -20,10 +20,10 @@ faqs: [{"question": "Do I need to know the source of every allusion?", "answer":
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Some phrases in poems do double work. A single name, a single place, a half-remembered story can bring a whole set of associations into the poem without the poet having to explain them. That technique is **allusion**. This topic teaches you to recognise allusions, to say what they bring with them, and to explain what they do to the poem's meaning.

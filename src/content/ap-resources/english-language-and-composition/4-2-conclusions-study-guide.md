@@ -39,10 +39,7 @@ sources:
 version: '1.0'
 publishedDate: '2026-11-08'
 updatedDate: '2026-11-08'
-editorialStatus: drafted
 author: marlbridge-academic-team
-checkedBy: marlbridge-academic-team
-checkedDate: '2026-11-08'
 keyPoints:
 - A conclusion brings the argument to a unified end; it should leave the reader with a sense that the argument has gone somewhere.
 - A conclusion may restate the thesis, but the stronger ones also explain significance, make connections, call for action, propose a solution, leave a compelling image or return to the introduction.
@@ -55,6 +52,9 @@ faqs:
   answer: No. A call to action suits an argument whose purpose is to move people to do something. For an argument about interpretation, the best ending may explain what the claim reveals or what it changes about how we should see the subject.
 - question: Can I add a new piece of evidence at the end?
   answer: It is risky. A new line of proof belongs in the body, where it can be explained. A conclusion may point to implications or consequences, but should not leave an unexamined claim dangling.
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 ## What does a conclusion have to do?

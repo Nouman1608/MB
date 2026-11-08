@@ -19,10 +19,10 @@ keyPoints: ["Eight questions: five multiple choice, three written, including a f
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. All passages were written by Marlbridge for practice. The marks in the rubrics are a **suggested Marlbridge rubric**, not an official scoring guideline. Questions 1 to 4 use the weighing-house passage (Bartholomew Lisle, his granddaughter Nell and the self-weighing machine) from [Topic 4.6](/advanced-course-resources/english-literature-and-composition/4-6-thesis-and-commentary-prose-analysis-practice/); its key phrases are quoted where needed. Answer every question before opening its answer.

@@ -31,10 +31,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Use this review after the [Unit 8 diagnostic](/advanced-course-resources/english-literature-and-composition/unit-8-diagnostic/) and the topic practice sets. It shows how the skills of Unit 8 work together on one poem, and ends with a full model poetry-analysis essay and a suggested rubric.

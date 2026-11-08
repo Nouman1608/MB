@@ -43,10 +43,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
 author: "marlbridge-academic-team"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 Real programs deal with collections: the scores in a class, the songs in a playlist, the items in a basket. In Topic 3.2 you met the **list** as a data abstraction. This topic is about *using* lists: the operations the exam reference sheet provides for changing them, the loops that **traverse** them, and the standard algorithms built on those loops (finding the largest value, summing and averaging, and searching). List questions are among the most common on the exam, so it is worth being completely fluent.

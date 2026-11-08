@@ -43,10 +43,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
 author: "marlbridge-academic-team"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 You use procedures every day without noticing. When you press "send" you do not think about how the message is packed up and delivered; you just call on that service. In programming, a **procedure** is a named group of instructions that you can **call** whenever you need its job done. This topic is about *using* procedures: how a call works, what parameters and arguments are, how a procedure gives a value back, and how to trace the flow of control when a program jumps into a procedure and out again. Topic 3.13 then shows how to write your own.

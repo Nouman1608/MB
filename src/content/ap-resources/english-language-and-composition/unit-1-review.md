@@ -30,10 +30,10 @@ prerequisiteResources: ["mb-ap-englang-u1-diagnostic"]
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 Unit 1 sets out the foundations of argument: the situation a text is written in, the claims it makes and the evidence it uses. This review draws the ideas together and then asks seven questions that combine two or more topics. The questions are **original Marlbridge practice**, not past exam questions, and the rubrics are a suggested Marlbridge rubric. Passages not credited to a named public-domain author were written by Marlbridge for practice.

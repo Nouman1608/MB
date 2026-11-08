@@ -42,10 +42,10 @@ faqs:
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
 author: "marlbridge-academic-team"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
+editorialStatus: "reviewed"
+reviewer: "Harris Khan"
+reviewedDate: 2026-11-08
 ---
 
 Nobody writes every part of a program from scratch. A mapping app does not invent the maths for distances, a game does not build its own sound engine, and a school project does not write its own code for reading a date. Programmers use **libraries**: collections of procedures that other people have already written and tested. This topic explains what a library and an API are, why documentation is essential, and how to choose and use existing code sensibly. The skill is practical: given a description of what a library procedure does, you must be able to use it correctly and predict what it returns.

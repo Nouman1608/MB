@@ -20,10 +20,10 @@ faqs: [{"question": "Should my paragraphs follow the poem line by line?", "answe
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Ammar Bilal"
+reviewedDate: 2026-11-08
 ---
 
 The poetry essay asks you to read a poem and write an argument about how the poet uses literary elements and techniques to convey a meaning. The earlier topics in this unit gave you the tools: structure, word choice, imagery, metaphor, personification, allusion. This topic shows how to turn those tools into an argument, with a **thesis** that makes a defensible claim, a **line of reasoning** that follows the poem's movement, and **commentary** that links each quotation to the claim and the thesis.
