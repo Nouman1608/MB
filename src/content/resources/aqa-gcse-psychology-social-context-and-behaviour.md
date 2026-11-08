@@ -24,7 +24,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "paper-2-social-context-and-behaviour-8182"
     subtopic: "psychological-problems-8182"
-description: "Social influence, language and communication, brain and neuropsychology, and psychological problems -- the full content of Paper 2 Social Context and Behaviour for AQA GCSE Psychology (8182)."
+description: "Study guide to AQA GCSE Psychology (8182) Paper 2: social influence, language and communication, brain and neuropsychology, and psychological problems."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -206,6 +206,20 @@ scanning techniques used in neuropsychology.
 psychological explanation, each paired with its matching intervention.
 - Practise applying every factor and study to a novel scenario, since
 Paper 2 -- like Paper 1 -- rewards application over pure recall.
+
+## Frequently asked questions
+
+**What topics are in AQA GCSE Psychology 8182 Paper 2?**
+Paper 2, Social Context and Behaviour, covers social influence, language, thought and communication, brain and neuropsychology, and psychological problems.
+
+**What is the difference between Piaget's view and the Sapir-Whorf hypothesis?**
+They are opposite claims. Piaget's theory says language depends on thought, while the Sapir-Whorf hypothesis says thinking depends on language.
+
+**How should you answer a compare question on explanations of depression?**
+Describe the biological explanation (serotonin imbalance, treated with antidepressants) and the psychological explanation (negative schemas, treated with CBT), then compare them directly. Listing both without comparing them does not reach the higher mark bands.
+
+**Are antidepressants and CBT competing treatments?**
+No. They are complementary, and both appear on mark schemes as valid treatment routes for depression.
 
 ## Related resources
 

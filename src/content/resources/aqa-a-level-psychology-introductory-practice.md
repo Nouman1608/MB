@@ -119,3 +119,17 @@ Related: [Introductory Topics revision notes](/resources/aqa-a-level-psychology-
 - Giving Strange Situation percentages without describing the behaviours.
 - Stating definitions in the field of mental health without a limitation when asked.
 - Giving the dispositional explanation of obedience without stating its population-level weakness.
+
+## Frequently asked questions
+
+**What topics do these AQA A Level Psychology introductory practice questions cover?**
+They cover social influence, memory, attachment, and clinical psychology and mental health for AQA A Level Psychology 7182, including conformity, obedience, the working memory model, the Strange Situation, phobias, depression and OCD.
+
+**What are common mistakes on introductory topics questions?**
+Students often confuse compliance with internalisation, describe the working memory model without the episodic buffer, and give Strange Situation percentages without describing the behaviours.
+
+**How many marks does each point usually earn in these answers?**
+In the worked answers, many points earn two marks: one for identifying the idea and one for explaining or developing it. A bare name or label usually earns only the first mark.
+
+**What is the dispositional explanation of obedience?**
+The dispositional explanation is Adorno's authoritarian personality, measured with the F-scale. Its main weakness is that it cannot explain whole populations obeying.

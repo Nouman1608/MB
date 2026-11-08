@@ -123,3 +123,17 @@ The distinction predicts *durability*: NSI changes behaviour only while the grou
 5. Explain the two-process model and how it justifies the treatment.
 
 **Answers:** 1. NSI is the need to be liked and produces compliance, which lasts only while the group is present; ISI is the need to be right and produces internalisation, which persists. 2. Dual-task performance — two tasks using different slave systems can be performed simultaneously, which a single unitary STM cannot account for. 3. It cannot explain whole populations obeying, since that would require an implausibly uniform personality across millions of people. 4. It was developed within American child-rearing norms and applied to other cultures as universal, so behaviours reflecting different values are misclassified as insecure attachment. 5. Classical conditioning acquires the phobia and operant conditioning maintains it, because avoidance is negatively reinforced by anxiety reduction; exposure without avoidance therefore breaks the maintaining cycle.
+
+## Frequently asked questions
+
+**What is the difference between normative and informational social influence?**
+Normative social influence is the need to be liked and produces compliance, which lasts only while the group is present. Informational social influence is the need to be right and produces internalisation, which persists.
+
+**Is identification still a type of conformity on the AQA 7182 specification?**
+No. Identification was dropped from this bullet in specification version 1.4, first teaching September 2025, so the two types are compliance and internalisation.
+
+**What is the two-process model of phobias?**
+Classical conditioning explains how a phobia is acquired, and operant conditioning explains how it is maintained, because avoidance reduces anxiety and so is negatively reinforced.
+
+**What is the difference between proactive and retroactive interference?**
+In proactive interference, old information disrupts new learning. In retroactive interference, new information disrupts old memories.

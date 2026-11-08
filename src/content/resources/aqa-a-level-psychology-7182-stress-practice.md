@@ -169,6 +169,20 @@ A traditional view is that men use more problem-focused coping and women more em
 - Evaluating therapies only on effectiveness, ignoring appropriateness for the person described.
 - Ending extended answers without a reasoned judgement.
 
+## Frequently asked questions
+
+**Which section of AQA 7182 Paper 3 tests Stress?**
+Stress is topic 14 in Option 2 and is assessed in Section C of Paper 3, Issues and Options in Psychology, with multiple choice, short answer and extended writing questions.
+
+**Why should you not round too early in Stress calculations?**
+Rounding intermediate values, such as a mean, can change the final answer and lose the last mark. Use the unrounded value or say clearly which value you used, and show your working.
+
+**Is skin conductance a direct measure of stress?**
+No. Skin conductance response measures sympathetic arousal, which could also come from excitement or a warm room. A self-report measure is needed to confirm that a person feels stressed.
+
+**How should you evaluate stress management therapies?**
+The specification asks you to evaluate therapies in terms of appropriateness and effectiveness. Judging each therapy against the person in the scenario lifts an answer above description.
+
 ## Next steps
 
 - Recheck weak areas in the [Stress study guide](/resources/aqa-a-level-psychology-7182-stress/).

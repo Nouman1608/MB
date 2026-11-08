@@ -176,6 +176,20 @@ A **parasocial relationship** is a one-sided relationship in which a person feel
 - Naming attachment types without explaining why each makes parasocial relationships more or less likely.
 - Covering evolutionary explanations of partner preference. They are not printed in section 4.3.2 of Version 1.4; check with your teacher if an older textbook includes them.
 
+## Frequently asked questions
+
+**What does AQA A-level Psychology 7182 Relationships cover?**
+Section 4.3.2 covers factors affecting attraction, social exchange theory, equity theory, Rusbult's investment model, Duck's phase model of breakdown, online relationships and parasocial relationships. It is A-level content only.
+
+**What is the matching hypothesis?**
+The matching hypothesis (Walster et al., 1966) states that people seek partners of similar attractiveness to themselves, balancing the wish for an attractive partner against the risk of rejection.
+
+**What is the difference between reduced cues theory and the hyperpersonal model?**
+Both focus on the fewer cues in online communication but make opposite predictions. Reduced cues theory predicts less self-disclosure online, while the hyperpersonal model predicts faster and deeper self-disclosure.
+
+**Are evolutionary explanations of partner preference on the 7182 specification?**
+No. They are not printed in section 4.3.2 of Version 1.4, so check with your teacher if an older textbook includes them.
+
 ## Where to go next
 
 Build [issues and debates](/resources/aqa-a-level-psychology-7182-issues-and-debates/) into your evaluation. The [approaches guide](/resources/a-level-aqa-psychology-approaches-in-psychology/) links social exchange theory to reinforcement. Then use the [revision notes](/resources/aqa-a-level-psychology-7182-relationships-revision-notes/) and the [practice questions](/resources/aqa-a-level-psychology-7182-relationships-practice/).

@@ -207,3 +207,17 @@ Confusing sensation with perception. Mixing up proactive and retroactive interfe
 - Explain Dweck's Mindset Theory and Willingham's criticism of learning styles.
 - Name Murdock's, Bartlett's, Gilchrist and Nesberg's, and Bruner and Minturn's studies and what each shows.
 - Identify research methods, evaluate them, and apply ethical guidelines.
+
+## Frequently asked questions
+
+**How is AQA GCSE Psychology 8182 Paper 1 assessed?**
+Paper 1, Cognition and Behaviour, is one of two equally weighted written papers, and there is no coursework. It covers memory, perception, development and research methods.
+
+**What is the difference between Gibson's and Gregory's theories of perception?**
+Gibson's direct theory is bottom-up and says the visual array contains enough information to perceive accurately. Gregory's constructivist theory is top-down and says the brain makes inferences using prior knowledge and expectation.
+
+**What did Murdock's serial position curve study show?**
+Words at the start of a list (the primacy effect) and at the end (the recency effect) were recalled best, and words in the middle were recalled worst.
+
+**How is research methods assessed in AQA GCSE Psychology Paper 1?**
+Research methods is assessed as its own 25-mark section of Paper 1, and research methods questions are also built into the memory, perception and development sections.

@@ -154,6 +154,20 @@ Course links: [AQA A-level Psychology hub](/boards/aqa/a-level/psychology/), [AQ
 
 For the earlier attachment content that underpins the parasocial explanation, see the [Paper 1 introductory revision notes](/resources/aqa-a-level-psychology-introductory-revision-notes/). For linking social exchange theory to reinforcement, see the [approaches revision notes](/resources/aqa-a-level-psychology-approaches-revision-notes/).
 
+## Frequently asked questions
+
+**What are the three filters in Kerckhoff and Davis's filter theory?**
+In order, they are social demography, similarity in attitudes, and complementarity. Similarity matters most early in a relationship and complementarity later.
+
+**What is the difference between CL and CLalt in social exchange theory?**
+The comparison level (CL) judges a relationship against the reward you expect, based on experience. The comparison level for alternatives (CLalt) judges it against whether another relationship, or being single, would be more profitable.
+
+**What three factors predict commitment in Rusbult's investment model?**
+Satisfaction, comparison with alternatives and investment. A person can be dissatisfied but still committed if their investment is high and their alternatives are poor.
+
+**Which attachment type is most likely to form parasocial relationships?**
+The attachment theory explanation predicts that insecure-resistant people are most likely, because parasocial relationships meet unmet needs without the risk of rejection. Insecure-avoidant people are predicted to be less likely.
+
 ## Official syllabus
 
 AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), for teaching from September 2025: section 4.3.2 Relationships, and the Paper 3 assessment details in section 2.2. Check the current version at aqa.org.uk/7182.

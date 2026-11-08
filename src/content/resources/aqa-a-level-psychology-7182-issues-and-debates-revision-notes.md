@@ -170,6 +170,20 @@ When you use an example, say which side of the debate it supports and add one ev
 
 For approaches you can draw examples from, see the [approaches revision notes](/resources/aqa-a-level-psychology-approaches-revision-notes/) and the [introductory topics revision notes](/resources/aqa-a-level-psychology-introductory-revision-notes/).
 
+## Frequently asked questions
+
+**What is the difference between alpha bias and beta bias?**
+Alpha bias exaggerates differences between men and women, often presenting them as fixed. Beta bias ignores or minimises real differences, often by applying findings from male samples to women.
+
+**What are the three types of determinism on the AQA specification?**
+They are biological determinism (genes, hormones or the brain), environmental determinism (learning and reinforcement) and psychic determinism (unconscious forces and early experience).
+
+**What is the difference between hard and soft determinism?**
+Both say behaviour has causes. Hard determinism says free will is an illusion, while soft determinism says some conscious choice remains within those causes.
+
+**What are the three levels of explanation?**
+They are socio-cultural, psychological and biological (physical). The same behaviour, such as anxiety, can be explained at each level.
+
 ## Official syllabus
 
 AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), for teaching from September 2025: section 4.3.1 (Issues and debates in Psychology) and section 2.2 (Paper 3 structure).

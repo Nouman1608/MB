@@ -174,6 +174,20 @@ Smith and Lloyd (1978) found that mothers playing with a six-month-old infant dr
 - Describing SLT without gender-specific examples. Every point needs a gender context.
 - Calling gender incongruence a mental disorder in ICD-11.
 
+## Frequently asked questions
+
+**What does AQA A-level Psychology 7182 Gender cover?**
+Section 4.3.3 covers chromosomes and hormones in biological sex, diversity in sex development, gender identities and the Bem Sex Role Inventory, biological, cognitive and social learning explanations of gender development, and explanations of gender incongruence.
+
+**What are Kohlberg's three stages of gender development?**
+They are gender identity (around age 2 to 3), gender stability (around age 4) and gender constancy (around age 6). Kohlberg argued children only actively imitate same-gender models once they reach constancy.
+
+**What is androgen insensitivity syndrome?**
+People with AIS have XY chromosomes, but their body cells do not respond fully or partly to androgens such as testosterone. In complete AIS the external genitals are female, and people usually identify as women.
+
+**Is gender incongruence a mental disorder in ICD-11?**
+No. ICD-11 classes gender incongruence under conditions related to sexual health, not as a mental disorder. The topic is socially sensitive, so use respectful language and present the debate fairly.
+
 ## Where to go next
 
 Refresh SLT with the [Approaches revision notes](/resources/aqa-a-level-psychology-approaches-revision-notes/). The [Issues and debates study guide](/resources/aqa-a-level-psychology-7182-issues-and-debates/) covers gender bias, nature-nurture and social sensitivity for Section A, and the [Cognition and development study guide](/resources/aqa-a-level-psychology-7182-cognition-and-development/) covers another option 1 topic. Track this topic on the [AQA A-level Psychology checklist](/checklists/aqa/a-level/psychology/).

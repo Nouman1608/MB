@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-psychology-in-context-7182"
     subtopic: "approaches-in-psychology-7182"
-description: "Condensed recall notes on the six approaches to psychology -- behaviourist, social learning theory, cognitive, biological, psychodynamic, humanistic -- for AQA A-Level Psychology (7182) Paper 2."
+description: "Revision notes on the six approaches in AQA A-Level Psychology (7182) Paper 2, with a determinism table, a worked example, exam traps and a self-test."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -149,3 +149,17 @@ conditioning is learning through consequences (reinforcement and punishment). 2.
 motor reproduction, motivation. 3. Id, Ego, Superego — the Superego develops last, around age 5.
 4. Reaching one's full potential, the top level of Maslow's hierarchy, achievable only once
 lower needs are met. 5. Behaviourist and biological.
+
+## Frequently asked questions
+
+**Which approaches are determinist and which allow free will?**
+The behaviourist, biological and psychodynamic approaches are determinist, social learning theory and the cognitive approach are soft determinist, and humanistic psychology emphasises free will.
+
+**What are the four mediational processes in social learning theory?**
+They are attention, retention, motor reproduction and motivation. They sit between observing a model and imitating the behaviour.
+
+**Is cognitive neuroscience part of the cognitive or biological approach on the AQA specification?**
+The current AQA specification lists cognitive neuroscience under the biological approach (4.2.1 in the A-level content), not the cognitive approach.
+
+**What is the difference between Id, Ego and Superego?**
+The Id works on the pleasure principle and is present at birth, the Ego works on the reality principle and mediates, and the Superego works on the morality principle and develops around age 5.

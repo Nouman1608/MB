@@ -141,6 +141,20 @@ Extended responses (questions 10-12) are marked in the real exam with levels of 
 - Writing about CBT for depression rather than CBT for voices and delusions.
 - Ignoring the treatment half of an interactionist question.
 
+## Frequently asked questions
+
+**Which section of AQA 7182 Paper 3 tests Schizophrenia?**
+Schizophrenia is in Option 2 and is assessed in Section C of Paper 3, Issues and Options in Psychology, alongside the research methods and maths skills that section 4.3 says can be tested.
+
+**How do you decide whether a chi-squared result is significant?**
+For chi-squared, the calculated value must be equal to or greater than the critical value for the result to be significant. Forgetting the direction of this rule is a common mistake.
+
+**What is the difference between positive and negative symptoms of schizophrenia?**
+A positive symptom is an experience added to normal functioning, such as hallucinations. A negative symptom is a loss or reduction of normal functioning, such as avolition; "positive" does not mean desirable.
+
+**What are common mistakes in Schizophrenia exam answers?**
+Students often say antipsychotics cure schizophrenia, treat expressed emotion as proof of cause rather than a predictor of relapse, and ignore the treatment half of an interactionist question.
+
 ## Next steps
 
 - Recheck weak areas in the [Schizophrenia study guide](/resources/aqa-a-level-psychology-7182-schizophrenia/) and the [revision notes](/resources/aqa-a-level-psychology-7182-schizophrenia-revision-notes/).
