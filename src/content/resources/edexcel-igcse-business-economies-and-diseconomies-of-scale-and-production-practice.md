@@ -146,6 +146,20 @@ These questions cover Topic 5, sections 5.1 and 5.2, in the Pearson Edexcel Inte
 - Take the [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these economies of scale and production questions cover?**
+They follow Pearson Edexcel International GCSE Business (4BS1) sections 5.1 and 5.2: internal and external economies of scale, diseconomies of scale, job, batch and flow production, labour and capital intensity, productivity, lean production and robotics.
+
+**How should you define economies of scale?**
+Include average total cost: economies of scale mean average total cost falls as output increases. Leaving out "average total cost" is a common reason for losing a definition mark.
+
+**Is any rise in costs a diseconomy of scale?**
+No. A diseconomy of scale is a rise in average total cost caused by growth in output, not a rise caused by something else such as higher material prices.
+
+**How should you answer a question on robotics or JIT?**
+Weigh advantages against disadvantages, such as the cost, breakdowns and loss of flexibility of robots or the supplier risk of JIT, and give a verdict tied to the business in the case.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 5: Business operations, sections 5.1 Economies and diseconomies of scale and 5.2 Production, all numbered points.

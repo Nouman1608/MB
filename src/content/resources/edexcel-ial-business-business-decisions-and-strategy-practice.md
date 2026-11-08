@@ -131,6 +131,20 @@ These questions cover Unit 3, Business decisions and strategy (sections 3.3.1 to
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class: [trial](/trial/).
 
+## Frequently asked questions
+
+**What do these Unit 3 practice questions cover?**
+They cover all of Unit 3, Business decisions and strategy (sections 3.3.1 to 3.3.6), of Pearson Edexcel International A Level Business (YBS11): strategy, growth, decision-making techniques, influences on decisions, competitiveness and managing change.
+
+**What are common mistakes in investment appraisal questions?**
+Stopping at the total of present values instead of subtracting the initial cost to find NPV, and using total rather than average annual profit in ARR.
+
+**How do you avoid errors on decision trees?**
+Multiply each outcome by its probability, add them to find the expected value, then subtract the cost of that option. Forgetting to subtract the cost is a frequent slip.
+
+**What should the conclusion of an Evaluate answer contain?**
+A clear judgement that states the condition it depends on, linked to the business in the case. Ending with no judgement, or one with no condition, limits the marks.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business (YBS11), Specification, Issue 1, September 2017, Unit 3, published by Pearson Education Limited.

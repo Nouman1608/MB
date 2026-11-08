@@ -290,6 +290,20 @@ Objectives change with the firm's age, size, owners and market, and can conflict
 - Giving the total cost, not the next best option, as the opportunity cost.
 - Concluding "it depends" without saying on what.
 
+## Frequently asked questions
+
+**What is a flexible workforce?**
+A flexible workforce lets a business change its labour input as demand changes. The YBS11 specification names multi-skilling, part-time and temporary staff, zero-hour contracts, flexible hours and home working, and outsourcing.
+
+**What is the difference between a tall and a flat organisational structure?**
+A tall structure has many levels and narrow spans of control. A flat structure has few levels and wide spans, which cuts management cost and speeds communication but can overload managers.
+
+**What is intrapreneurship?**
+Intrapreneurship is when employees within an existing business act like entrepreneurs, developing new products or processes.
+
+**What is the difference between profit maximisation and profit satisficing?**
+Profit maximisation aims for the highest possible profit. Profit satisficing aims for a satisfactory level of profit that meets the owner's needs without pursuing more.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business, Specification, Issue 1, September 2017 (Pearson Education Limited); Unit 1: Marketing and people, sections 1.3.4 and 1.3.5, first assessment January 2019.

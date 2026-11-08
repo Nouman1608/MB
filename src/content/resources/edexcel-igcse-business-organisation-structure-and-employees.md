@@ -216,6 +216,20 @@ The areas depend on each other. Marketing research shows demand for a new produc
 
 Condense this with the [revision notes](/resources/edexcel-igcse-business-organisation-structure-and-employees-revision-notes/), then try the [practice questions](/resources/edexcel-igcse-business-organisation-structure-and-employees-practice/). Return to the [4BS1 Business hub](/boards/edexcel/igcse/business/) or tick off progress on the [checklist](/checklists/edexcel/igcse/business/). Find weak spots with the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is the difference between centralised and decentralised structures?**
+In a centralised structure, important decisions are made at the top, usually at head office. In a decentralised structure, decisions are passed down to managers nearer the customers, such as branch or regional managers.
+
+**What do compliance and accountability mean for employees?**
+Compliance means following the rules that apply, such as the law, health and safety rules and the business's own policies. Accountability means being answerable for results and for how a task was done.
+
+**What does the human resources function do?**
+HR covers workforce planning, recruitment and selection, training, health and safety, staff welfare, employment issues, industrial relations, disciplinary and grievance procedures, and dismissal and redundancy.
+
+**What are the benefits and limitations of delegation?**
+Delegation frees managers' time for planning, builds staff skills and motivation and puts decisions nearer the work. The task may be done badly, and staff need training and clear instructions.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 2: People in business, section 2.5 "Organisation structure and employees", points 2.5.1 to 2.5.3.

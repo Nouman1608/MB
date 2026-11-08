@@ -235,6 +235,20 @@ Question type: should a small clinic introduce TQM? Gains: fewer complaints, les
 - Dividing by the wrong total when finding percentages.
 - Saying robots always cut costs without mentioning fixed costs, training and risk.
 
+## Frequently asked questions
+
+**What are the four factors of production in Edexcel IGCSE Business?**
+The 4BS1 specification names enterprise, capital, land and labour. These are the inputs a business combines to make goods or provide services.
+
+**What is the difference between quality control and TQM?**
+Quality control uses inspectors to check products against a standard and remove faults at set stages. Total quality management makes everyone responsible for quality and aims to prevent faults at source, getting things right first time.
+
+**Why does the mix of factors of production change?**
+Technology, the relative cost of labour and equipment, growth, changes in location or sales channel and the risk the entrepreneur will accept can all push a business to use more of one input and less of another.
+
+**How do you calculate the cost of defects?**
+Multiply output by the defect rate to find the number of faulty items, then multiply by the cost of reworking or scrapping each one.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 5 Business operations: section 5.3 Factors of production and section 5.4 Quality. The specification lists headings only for these sections, so the definitions of the four factors, quality, quality control, TQM and competitive advantage, the lists of TQM features and the payback and defect-cost methods on this page are written in Marlbridge's own standard wording.

@@ -276,6 +276,20 @@ Shorter channel: more income per unit and more control for the producer, but it 
 - Ignoring that a shorter distribution channel moves costs and tasks on to the producer.
 - Writing about viral marketing or social media in general terms, with no link to the product and its target market.
 
+## Frequently asked questions
+
+**What are the four categories of the Boston Matrix?**
+Stars have high relative market share in a high-growth market, cash cows have high share in a low-growth market, question marks have low share in a high-growth market, and dogs have low share in a low-growth market.
+
+**What is the difference between price skimming and penetration pricing?**
+Price skimming sets a high launch price, lowered later, and suits a new product with strong USPs. Penetration pricing sets a low launch price to gain market share and suits elastic demand.
+
+**What is predatory pricing?**
+Predatory pricing sets a price below cost to push a rival out of the market. It is not normal competition and suits only a firm that can survive the losses.
+
+**What are the distribution channels in Edexcel IAL Business?**
+A four-stage channel runs producer to wholesaler to retailer to consumer, a three-stage channel cuts out the wholesaler, and a two-stage channel sells direct from producer to consumer.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business, Specification, Issue 1, September 2017, Pearson Education Limited, section 1.3.3.

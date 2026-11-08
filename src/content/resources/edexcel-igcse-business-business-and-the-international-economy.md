@@ -253,6 +253,20 @@ These two points are standard knowledge added for balance. The specification doe
 
 Condense the key points with the [revision notes](/resources/edexcel-igcse-business-business-and-the-international-economy-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-igcse-business-business-and-the-international-economy-practice/). Return to the [4BS1 Business hub](/boards/edexcel/igcse/business/) or tick off progress on the [checklist](/checklists/edexcel/igcse/business/). Find weak spots with the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is globalisation in Edexcel IGCSE Business?**
+Globalisation is the process by which markets, businesses and economies around the world become more closely linked, so goods, services, money, workers, technology and ideas move across borders more easily. The 4BS1 specification names the concept without wording it, so this is the standard definition.
+
+**What are the opportunities and threats of globalisation for a business?**
+Opportunities include bigger markets, lower costs, economies of scale and spreading risk. Threats include more overseas competition, dependence on overseas suppliers, exchange rate risk, cultural and legal differences and pressure to cut prices.
+
+**What are the drawbacks of a multinational for the host country?**
+Profits may leave the country, local firms may close, jobs can be insecure if production moves again, and there may be low wages, environmental damage or too much influence over government decisions.
+
+**How can you check an exchange rate answer is sensible?**
+The currency with the larger number per pound is worth less per unit, so converting pounds into it should give a larger number and converting it into pounds a smaller one. If not, you have probably multiplied instead of divided.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 1: Business activity and influences on business, section 1.5 "Business and the international economy", points 1.5.1 to 1.5.4.

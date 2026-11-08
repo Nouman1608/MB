@@ -230,6 +230,20 @@ Short model for a judgement: "Becoming a multinational gives the firm access to 
 
 Go back to the [study guide](/resources/edexcel-igcse-business-business-and-the-international-economy/) for any gap, work through the [practice questions](/resources/edexcel-igcse-business-business-and-the-international-economy-practice/), and tick off progress on the [checklist](/checklists/edexcel/igcse/business/). Use the [4BS1 Business hub](/boards/edexcel/igcse/business/) for other topics, and the [free diagnostics](/diagnostics/) to find weak areas.
 
+## Frequently asked questions
+
+**What is an exchange rate?**
+An exchange rate is the price of one currency in terms of another. It tells you how many units of a foreign currency one unit of your own currency buys.
+
+**How does a stronger pound affect exporters and importers?**
+A stronger home currency makes exports dearer abroad, so exporters may lose sales or profit, while imports cost less in home currency, so importers' costs fall. A weaker currency does the reverse.
+
+**What are the benefits of becoming a multinational?**
+A business can gain access to new markets, lower costs, economies of scale and the chance to spread risk, and producing inside a market can avoid some trade barriers such as tariffs.
+
+**Why might an exchange rate change not affect a business straight away?**
+The business may have agreed a price in advance, or it may choose to absorb the change in its profit margin instead of changing its price.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 1: Business activity and influences on business, section 1.5 "Business and the international economy", points 1.5.1 to 1.5.4.

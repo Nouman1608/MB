@@ -210,6 +210,20 @@ Section 1.1 of the specification lists financial objectives (survival, profit, s
 
 Work through the [practice questions](/resources/edexcel-igcse-business-what-makes-a-business-successful-practice/), return to the [study guide](/resources/edexcel-igcse-business-what-makes-a-business-successful/) for any weak point, and tick progress on the [checklist](/checklists/edexcel/igcse/business/). The [free diagnostics](/diagnostics/) help you find gaps.
 
+## Frequently asked questions
+
+**What are the measures of business success in Edexcel IGCSE Business?**
+The 4BS1 specification lists revenue, market share, customer satisfaction, profit, growth, owner/shareholder satisfaction and employee satisfaction.
+
+**What are the reasons for business failure in the 4BS1 specification?**
+The specification lists cash flow problems or lack of finance, not being competitive, and failure to adapt to changes in the market.
+
+**Does higher revenue mean higher profit?**
+No. Revenue alone says nothing about costs, and a business can raise revenue by cutting prices so far that its profit falls.
+
+**How do you calculate growth as a percentage?**
+Subtract the old figure from the new one, divide by the old figure and multiply by 100. Dividing by the new figure is a common error.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 1: Business activity and influences on business, section 1.8 "What makes a business successful?", points 1.8.1 and 1.8.2.

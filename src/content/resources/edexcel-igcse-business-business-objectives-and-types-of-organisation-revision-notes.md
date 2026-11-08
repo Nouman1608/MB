@@ -219,6 +219,20 @@ For "outline", give two linked points. For "explain", give a statement of fact w
 
 Work through the [practice questions](/resources/edexcel-igcse-business-business-objectives-and-types-of-organisation-practice/), re-read the [study guide](/resources/edexcel-igcse-business-business-objectives-and-types-of-organisation/) where you slip, and check the [4BS1 Business hub](/boards/edexcel/igcse/business/), the [checklist](/checklists/edexcel/igcse/business/) and the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is the difference between an aim and an objective?**
+An aim is the general direction a business wants to go in. An objective is a more specific target that helps it get there, ideally with a number and a date.
+
+**What are financial and non-financial objectives in Edexcel IGCSE Business?**
+The 4BS1 specification lists survival, profit, sales, market share and financial security as financial objectives, and social objectives, personal satisfaction, challenge, and independence and control as non-financial ones.
+
+**What is the difference between stakeholders and shareholders?**
+Stakeholders are all groups with an interest in a business, such as employees, customers, suppliers and the community. Shareholders are the owners of a limited company.
+
+**What is a social enterprise?**
+A social enterprise has social or environmental objectives and earns revenue by trading. It aims to cover its costs, but profits are usually put back into the social purpose.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 1: Business activity and influences on business, sections 1.1 and 1.2.

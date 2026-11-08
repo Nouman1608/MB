@@ -165,6 +165,20 @@ These questions cover Topic 4 Marketing, section 4.3 "The marketing mix" (points
 - Take the [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these marketing mix practice questions cover?**
+They follow section 4.3 of Pearson Edexcel International GCSE Business (4BS1): product, the product life cycle and Boston matrix, pricing strategies, retailers and e-tailers, and promotion including branding and technology.
+
+**What must you work out before placing a product in the Boston matrix?**
+Work out relative market share first, by dividing the product's market share by the share of the largest rival. Skipping this step is a common error.
+
+**Should you judge a promotion by the revenue it raised?**
+No. Check its effect on profit as well, because special offers and discounts can raise revenue while cutting profit per sale.
+
+**What is often forgotten in cost-plus pricing?**
+The fixed cost per unit. Add the fixed cost per unit to the variable cost per unit to find total unit cost before adding the mark-up.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 4: Marketing, section 4.3 "The marketing mix", points 4.3.1 to 4.3.4.

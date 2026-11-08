@@ -218,6 +218,20 @@ Worked example: Teller Components has 8 workers making 400 units a day, so produ
 - Calling JIT "no stock at all" without noting the risk of supplier delay.
 - Giving only advantages of robotics when asked to weigh factors.
 
+## Frequently asked questions
+
+**What is the difference between labour intensive and capital intensive production?**
+Labour intensive production uses a high proportion of workers compared with machinery, so labour is the largest part of costs. Capital intensive production uses a high proportion of machinery and technology compared with workers.
+
+**What are the limits to business growth?**
+Besides diseconomies of scale, growth can be limited by the size of the market, the finance available and the owner's wish to stay in control.
+
+**Why does improving productivity matter?**
+Higher productivity cuts unit costs, which can raise profit or allow lower prices, and gives more output without more staff. If it comes from pushing workers harder, morale may suffer.
+
+**Is job production cheap?**
+No. Job production usually has the highest unit cost because skilled workers make one item at a time to a customer's order, but it is very flexible and can give very high quality.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 5: Business operations, sections 5.1 Economies and diseconomies of scale (5.1.1 and 5.1.2) and 5.2 Production (5.2.1, 5.2.2 and 5.2.3).

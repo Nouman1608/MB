@@ -233,6 +233,20 @@ Answers that use the context usually earn more than a reply that would fit any b
 - Confusing penetration and promotional pricing.
 - Leaving out units or the currency in a pricing calculation.
 
+## Frequently asked questions
+
+**What pricing strategies are in the Edexcel IGCSE Business specification?**
+The 4BS1 specification lists cost plus, penetration, competition, skimming and promotional pricing, and asks when each might be applied.
+
+**What is the difference between above-the-line and below-the-line promotion?**
+In the standard definitions, above-the-line promotion is paid advertising in media aimed at a wide audience, such as TV, radio, press and cinema. Below-the-line promotion uses other, more direct methods aimed at a particular group, such as special offers, product trials, discount vouchers and direct mail.
+
+**What is the difference between market share and relative market share?**
+Market share is a product's share of total market sales. Relative market share divides that by the share of the largest rival, and a figure above 1 means the product is the market leader.
+
+**What are extension strategies?**
+Extension strategies try to stop or delay a product's decline, for example by finding a new market, changing the packaging or adding a new feature or flavour.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 4: Marketing, section 4.3 "The marketing mix", points 4.3.1 to 4.3.4.

@@ -275,6 +275,20 @@ Always finish with a reason and a drawback. A judgement question needs both side
 - Ignoring the control the owner wants to keep.
 - Giving only advantages in a judgement question.
 
+## Frequently asked questions
+
+**What is the difference between a source and a method of finance?**
+A source is who provides the money, such as a bank or a business angel. A method is the form the money takes, such as a loan or an overdraft, and one source can supply several methods.
+
+**What are the internal sources of finance in Edexcel IAL Business?**
+The YBS11 specification lists owner's capital (personal savings), retained profit and the sale of assets. Internal finance suits small, low-risk needs but is rarely enough for rapid expansion.
+
+**What is a business angel?**
+A business angel is a wealthy individual who invests their own money in a business, often taking a share of ownership and offering advice. Business angels suit early-stage businesses with growth potential.
+
+**Does a grant have to be repaid?**
+No. A grant is money from a government or other body, often for a stated purpose, that need not be repaid, although conditions apply and competition for it can be strong.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business specification, Issue 1, September 2017, Pearson Education Limited: Unit 2, section 2.3.1.

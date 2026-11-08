@@ -292,6 +292,20 @@ Research feeds marketing decisions. Research (4.1) tells a business what custome
 - Giving a response to competition with no drawback in an evaluation answer.
 - Skipping the judgement in a recommendation question.
 
+## Frequently asked questions
+
+**What are the purposes of market research in Edexcel IGCSE Business?**
+The 4BS1 specification lists four: to identify and understand customer needs, to identify gaps in the market, to reduce risk and to inform business decisions.
+
+**What primary research methods are in the 4BS1 specification?**
+The specification lists surveys, questionnaires, focus groups, observation and test marketing as primary methods, and the internet, market reports and government reports as secondary methods.
+
+**What is the difference between niche and mass marketing?**
+Niche marketing targets a small, specialised part of the market, often with higher prices and less competition. Mass marketing targets most of the market with a standard product, giving large volumes and economies of scale but strong competition.
+
+**Does a rise in sales mean a rise in market share?**
+Not necessarily. If the whole market grows at the same rate as the business's sales, market share stays the same.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 4: Marketing, sections 4.1 and 4.2, points 4.1.1 to 4.2.3.

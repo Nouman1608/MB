@@ -219,6 +219,20 @@ Notice the difference: job rotation adds variety, job enrichment adds depth, aut
 
 Condense the key points with the [revision notes](/resources/edexcel-igcse-business-training-motivation-and-rewards-revision-notes/), then try the [practice questions](/resources/edexcel-igcse-business-training-motivation-and-rewards-practice/). Return to the [4BS1 Business hub](/boards/edexcel/igcse/business/) or the [checklist](/checklists/edexcel/igcse/business/), and find weak spots with the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is Maslow's hierarchy of needs?**
+Maslow said people's needs form a hierarchy from physiological needs, through safety, social and esteem needs, to self-actualisation, and people move up only when the lower need is reasonably met.
+
+**What did Taylor say about motivation?**
+Taylor's scientific management holds that workers are motivated mainly by money, so managers should break tasks into simple steps, train workers in the most efficient way and pay for output, for example with a piece rate.
+
+**Why does motivation matter to a business?**
+The 4BS1 specification gives three reasons: attracting employees, retaining employees and productivity. Motivated staff are less likely to leave, which cuts recruitment and training costs.
+
+**Why is health and safety training important?**
+It helps a business comply with the health and safety laws of the country it operates in. Failure to comply can lead to injured workers, fines, legal action and damage to reputation.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 2: People in business, sections 2.3 Training and 2.4 Motivation and rewards, points 2.3.1, 2.4.1 and 2.4.2.

@@ -152,6 +152,20 @@ These questions cover Topic 1, sections 1.1 and 1.2 of the Pearson Edexcel Inter
 - Find weak spots with the [free diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**What do these objectives and types of organisation questions cover?**
+They follow Pearson Edexcel International GCSE Business (4BS1) sections 1.1 and 1.2: financial and non-financial objectives, why objectives change, forms of ownership, liability, public corporations, franchises, social enterprises and multinationals.
+
+**What is a common mistake when defining limited liability?**
+Describing it as "no risk" or saying the company cannot fail. Shareholders can still lose the money they invested, but they are not asked to pay the business's debts from their own pockets.
+
+**Is a public corporation the same as a public limited company?**
+No. A public corporation is owned by the state on behalf of the public, while a public limited company is owned by shareholders whose shares can be bought by the general public.
+
+**How should you answer a question on choosing a form of ownership?**
+Use the facts in the case, such as how much finance is needed, how much risk the owners will accept and how much control they want, and finish with a clear decision.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 1: Business activity and influences on business, sections 1.1 and 1.2.

@@ -164,6 +164,20 @@ For Upwood: higher margins on the same revenue show it is the more profitable bu
 
 Review the [revision notes](/resources/edexcel-igcse-business-what-makes-a-business-successful-revision-notes/) and [study guide](/resources/edexcel-igcse-business-what-makes-a-business-successful/) for anything you missed. Return to the [4BS1 Business hub](/boards/edexcel/igcse/business/), tick the [checklist](/checklists/edexcel/igcse/business/), try the [free diagnostics](/diagnostics/), or [book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these business success practice questions cover?**
+They follow section 1.8 of Pearson Edexcel International GCSE Business (4BS1): the measures of success, such as revenue, market share, profit, growth and satisfaction, and the reasons businesses fail.
+
+**Should you write "sales" or "revenue" in Edexcel IGCSE Business answers?**
+Use revenue. The 4BS1 specification's glossary says assessments use the term revenue, so writing "sales" where revenue is meant is listed as a common slip.
+
+**What base should you use for a profit margin?**
+Divide the profit by revenue, not by cost of sales. Using cost of sales as the base is a common error.
+
+**How should you answer a question on why a business failed?**
+Apply the reason, such as cash flow problems, not being competitive or failing to adapt, to the business in the case, and finish with a clear judgement and reason.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 1: Business activity and influences on business, section 1.8 "What makes a business successful?", points 1.8.1 and 1.8.2.

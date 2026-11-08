@@ -343,6 +343,20 @@ These notes are for the final weeks of revision on sections 1.3.4 Managing peopl
 - Giving the whole cost, not the next best option, as an opportunity cost.
 - Ending an evaluation with no judgement and no condition on which it depends.
 
+## Frequently asked questions
+
+**What are the four motivation theorists in Edexcel IAL Business Unit 1?**
+The YBS11 specification names Taylor (scientific management), Mayo (human relations), Maslow (hierarchy of needs) and Herzberg (two-factor theory).
+
+**What is the difference between job enrichment and job enlargement?**
+Job enrichment adds more challenging and responsible tasks, while job enlargement adds more tasks at a similar level. Job rotation moves staff between similar tasks to reduce boredom.
+
+**What are the four leadership styles?**
+Autocratic leaders decide with little consultation, paternalistic leaders decide but explain and care about welfare, democratic leaders involve others in decisions, and laissez-faire leaders set broad aims and leave staff to get on.
+
+**What is the difference between risk and uncertainty for an entrepreneur?**
+Risk can be estimated because outcomes and probabilities are known or can be guessed from past data. Uncertainty cannot be measured because the outcomes are unknown.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business, Specification, Issue 1, September 2017 (Pearson Education Limited); Unit 1: Marketing and people, sections 1.3.4 and 1.3.5.

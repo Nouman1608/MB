@@ -170,5 +170,19 @@ The quantitative skills for this unit are ratios, percentages and percentage cha
 - Saying a weaker currency always helps: imported inputs cost more.
 - Listing MNC effects without judging which stakeholder gains.
 
+## Frequently asked questions
+
+**What is GDP per capita?**
+GDP per capita is gross domestic product divided by population. For example, GDP of 84bn dollars and a population of 12 million gives 7,000 dollars per person.
+
+**Which trading blocs are named in the Edexcel IAL Business specification?**
+The YBS11 specification names the EU and its single market, ASEAN and NAFTA, which linked the USA, Canada and Mexico and was later replaced by a successor agreement.
+
+**What are the three approaches to global marketing?**
+The domestic or ethnocentric approach applies home-market methods abroad, the mixed or geocentric approach blends global standardisation with local adaptation, and the international or polycentric approach uses a separate approach for each country.
+
+**How can multinational corporations be controlled?**
+Factors include the power of the MNC, political influence, legal control, consumer pressure, pressure groups, social media and self-regulation. An MNC may threaten to leave a country, which limits how far governments can control it.
+
 ## Official syllabus
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business, Specification, Issue 1, September 2017, Unit 4: Global business, sections 4.3.1 to 4.3.4 (first assessment June 2020).

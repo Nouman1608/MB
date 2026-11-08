@@ -242,6 +242,20 @@ Rivals can copy a product, but a quality culture is harder to copy. The advantag
 
 Condense the points with the [revision notes](/resources/edexcel-igcse-business-factors-of-production-and-quality-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-igcse-business-factors-of-production-and-quality-practice/). Return to the [Edexcel IGCSE Business hub](/boards/edexcel/igcse/business/), tick off progress on the [checklist](/checklists/edexcel/igcse/business/) or find weak spots with the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is quality in Edexcel IGCSE Business?**
+Quality is how well a good or service meets, or exceeds, what customers expect and the standard the business has set. For goods it can mean reliability, durability, finish and safety.
+
+**Why is quality especially important for services?**
+A service cannot be taken back and corrected once it is delivered, so mistakes show at once to the customer, and staff behaviour and waiting time are part of the product.
+
+**How does quality give a business a competitive advantage?**
+Reliable quality builds reputation and loyalty, can support a higher price, and lowers costs through less waste and fewer returns. A quality culture is harder for rivals to copy than a product.
+
+**What are the disadvantages of quality control?**
+Quality control finds faults after they occur, so waste has already happened, inspectors add labour cost, a sample can miss faulty items and staff may feel quality is only the inspector's job.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Business (4BS1), Specification, Issue 2, February 2026, published by Pearson Education Limited. Topic 5 Business operations: section 5.3 Factors of production and section 5.4 Quality. The definitions of the four factors, quality, quality control and TQM above are written in Marlbridge's own words; the specification lists the headings only.
