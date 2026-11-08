@@ -25,8 +25,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -194,6 +196,23 @@ Learn the content first in the [study guide](/resources/ib-dp-ess-human-populati
 - Plan your revision with the [ESS exam preparation guide](/resources/ib-dp-environmental-systems-and-societies-exam-preparation/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Which part of the IB ESS syllabus do these questions cover?**
+They cover Topic 8 Human populations and urban systems, including urban air pollution. The 2026 subject brief gives Topic 8 9 teaching hours at SL and 15 at HL, and all data in the questions are fictional.
+
+**What is the most common mistake with natural increase rate?**
+Students often forget to divide the difference between birth and death rates per 1,000 by 10, so they write 12 instead of 1.2%. Always give NIR as a percentage.
+
+**What must you state when you estimate a doubling time?**
+State the assumption behind it, such as a constant growth rate and no migration. Doubling times given with no assumption lose marks.
+
+**How do you explain a thermal inversion correctly?**
+Say that a layer of warm air lies above cooler air near the ground, which stops polluted air rising and dispersing. Describing it only as "hot air trapping pollution" misses the key point.
+
+**How should you evaluate an urban air pollution strategy?**
+Use the data in the question, give benefits and limits such as cost, enforcement and displacement of traffic, and finish with a judgement. Evaluations with no judgement or that ignore the data lose marks.
 
 ## Official syllabus
 

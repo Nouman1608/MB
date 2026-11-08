@@ -22,8 +22,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide covers the three higher level lenses of IB Diploma Programme Environmental Systems and Societies (ESS). It is aligned to the International Baccalaureate Organization's Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026, and covers HL.a Environmental law, HL.b Environmental and ecological economics and HL.c Environmental ethics. All three are **HL only**: SL students do not study them. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.
@@ -270,6 +272,23 @@ A strong HL answer links the lenses: a law works only if the economics give peop
 - Test it: [HL lenses practice questions](/resources/ib-dp-ess-hl-lenses-law-economics-ethics-practice/)
 - Exam format: [ESS exam preparation](/resources/ib-dp-environmental-systems-and-societies-exam-preparation/) and [ESS assessment revision notes](/resources/ib-dp-environmental-systems-and-societies-assessment-revision-notes/)
 - Core topics to apply the lenses to: [Topic 2: Ecology](/resources/ib-dp-ess-topic-2-ecology/)
+
+## Frequently asked questions
+
+**What is the precautionary principle in environmental law?**
+Where there is a threat of serious harm, lack of full scientific certainty is not a reason to delay action. It is one of the principles HL ESS students should be able to name, alongside polluter pays, prevention and intergenerational equity.
+
+**Why is international environmental law hard to enforce?**
+States are sovereign, so no world body can force a country to sign a treaty or obey one it has left. Monitoring can be costly, penalties may be weak, and free riders can benefit without taking part.
+
+**What is total economic value in IB ESS?**
+Total economic value adds direct use value, indirect use value, option value and non-use values such as existence and bequest value. Market prices capture only direct use, so other methods such as contingent valuation are used for the rest.
+
+**What is the difference between intrinsic and instrumental value?**
+Intrinsic value means something is valuable in itself. Instrumental value means it is valuable for what it provides to someone.
+
+**How many teaching hours do the IB ESS HL lenses have?**
+The subject brief gives environmental law 5 hours, environmental and ecological economics 7 hours, and environmental ethics 5 hours. HL students are expected to apply them across the core content.
 
 ## Official syllabus
 

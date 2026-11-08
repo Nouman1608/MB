@@ -25,8 +25,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide covers IB Diploma Programme Environmental Systems and Societies (ESS), syllabus
@@ -289,6 +291,23 @@ Condense this with the [revision notes](/resources/ib-dp-ess-ecosystems-energy-b
 then test yourself with the [practice questions](/resources/ib-dp-ess-ecosystems-energy-biogeochemical-cycles-practice/).
 Revisit systems vocabulary in the [Topic 1 Foundations guide](/resources/ib-dp-ess-topic-1-foundations/)
 and the course structure in the [syllabus guide](/resources/ib-dp-environmental-systems-and-societies-syllabus-guide/).
+
+## Frequently asked questions
+
+**What is the difference between a fundamental and a realised niche?**
+The fundamental niche is the full range of conditions a species could occupy. The realised niche is the part it actually occupies, usually smaller because of competition and other interactions.
+
+**How do you use the Lincoln index in IB ESS?**
+Use N = (M × C) / R, where M is the number first caught and marked, C is the total caught the second time and R is the number of marked individuals in the second catch. The method assumes no migration, births or deaths between samples and that marks stay on and do not affect survival.
+
+**What is the difference between GPP and NPP?**
+Gross primary productivity is the total gain in energy or biomass by producers. Net primary productivity is what remains after producer respiration, so NPP = GPP − R.
+
+**Why is ecological efficiency usually around 10%?**
+Energy is lost between trophic levels because not all of the lower level is eaten, not all that is eaten is digested, and much of what is assimilated is respired and lost as heat. Values vary around 10%, which is why food chains are short.
+
+**What is biomagnification?**
+Biomagnification is when substances that are not broken down or excreted, such as some pesticides and mercury, become more concentrated at each higher trophic level. Top predators receive the highest doses.
 
 ## Official syllabus
 

@@ -19,7 +19,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "natural-resources-5014-2027"
     subtopic: "fracking-5014-2027"
-description: "Condensed recall notes on fossil fuel formation, renewable and non-renewable energy resources, energy demand, conservation and management, hydrogen fuels, heat pumps and fracking for the 2027-2029 Cambridge O Level Environmental Management 5014 syllabus."
+description: "Recall notes on fossil fuel formation, renewable and non-renewable energy, demand, conservation, hydrogen, heat pumps and fracking for O Level 5014 (2027-2029)."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "review-pending"

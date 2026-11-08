@@ -28,8 +28,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches Topic 6 of IB Diploma Programme Environmental Systems and Societies (ESS), aligned to the International Baccalaureate *Diploma Programme Subject Brief: Environmental systems and societies*, first assessment 2026. It covers syllabus sections 6.1–6.4, studied at both SL and HL. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.
@@ -226,6 +228,23 @@ Montreal worked because there were few producers, affordable substitutes, clear 
 Paper 1 uses data on an unseen case study; Paper 2 has short-answer and data-based questions, then structured essays. See the [exam preparation guide](/resources/ib-dp-environmental-systems-and-societies-exam-preparation/), the [assessment revision notes](/resources/ib-dp-environmental-systems-and-societies-assessment-revision-notes/), the [syllabus guide](/resources/ib-dp-environmental-systems-and-societies-syllabus-guide/), the [subject guide](/resources/ib-dp-environmental-systems-and-societies-subject-guide/) and the [Topic 2 Ecology guide](/resources/ib-dp-ess-topic-2-ecology/).
 
 Next: the [revision notes](/resources/ib-dp-ess-atmosphere-climate-change-ozone-revision-notes/), then the [practice questions](/resources/ib-dp-ess-atmosphere-climate-change-ozone-practice/).
+
+## Frequently asked questions
+
+**What is the difference between weather and climate in IB ESS?**
+Weather is the state of the atmosphere at a place over hours or days. Climate is the average pattern of weather over a long period, usually 30 years or more, so one hot summer is weather.
+
+**Why does temperature rise with height in the stratosphere?**
+Ozone in the stratosphere absorbs ultraviolet radiation, and the absorbed energy heats the air. This is the opposite of the troposphere, where temperature falls with height.
+
+**What is global warming potential?**
+Global warming potential compares the warming from 1 tonne of a gas with 1 tonne of CO₂, usually over 100 years. It is about 28 for methane and 265 for nitrous oxide, and multiplying a gas's mass by its GWP gives its CO₂-equivalent.
+
+**Why did the Montreal Protocol work better than climate agreements?**
+The Montreal Protocol had few producers to regulate, affordable substitutes, clear science and a direct harm in skin cancer, and richer countries helped fund poorer ones. Fossil fuels, by contrast, underpin almost every economy and have many sources.
+
+**How is IB ESS Topic 6 examined?**
+Topic 6 can appear on Paper 1, which uses data on an unseen case study, and on Paper 2, which has short-answer and data-based questions followed by structured essays. The 2026 subject brief gives the topic 10 teaching hours at SL and 23 at HL.
 
 ## Official syllabus
 

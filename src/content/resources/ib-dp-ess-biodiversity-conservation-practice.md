@@ -25,8 +25,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -186,6 +188,23 @@ Simpson's reciprocal index: D = N(N − 1) / Σn(n − 1)
 - Tick off topics on the [printable ESS syllabus checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Are these IB ESS biodiversity questions from past papers?**
+No. They are original practice questions for Topic 3 Biodiversity and conservation, and the data are written for this page. They do not copy the IB's exam structure or mark tariffs.
+
+**What are common mistakes with Simpson's reciprocal index?**
+Students often add n instead of n(n − 1), or forget that a species with one individual contributes 0. Another common slip is giving the index value without interpreting it in terms of richness and evenness.
+
+**How do you calculate a percentage decline correctly in IB ESS?**
+Use the starting value, not the final value, as the base, and give units for any rate, such as individuals per year. Quoting figures from the table when you describe a trend also earns marks.
+
+**What do examiners look for in a speciation answer?**
+A complete answer says that gene flow between the separated populations stops, then that different selection pressures change allele frequencies until they can no longer interbreed. Skipping the gene flow step is a frequent reason marks are lost.
+
+**How many teaching hours does IB ESS Topic 3 have?**
+The 2026 subject brief gives Topic 3 Biodiversity and conservation 13 teaching hours at SL and 26 at HL.
 
 ## Official syllabus
 

@@ -22,8 +22,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and worked examples, start with the [soil, agriculture and food study guide](/resources/ib-dp-ess-soil-agriculture-food/). These notes condense the same unit for the final weeks before the exam.
@@ -180,6 +182,23 @@ HL students apply the three HL-only lenses — environmental law, environmental 
 - Using "intensive" to mean "large" or "commercial".
 - In "evaluate" or "to what extent" answers, listing points with no judgement, or giving only one perspective.
 - Quoting data from a table without units or without the comparison the question asks for.
+
+## Frequently asked questions
+
+**What are the five factors that control soil formation?**
+They are parent material, climate, organisms, relief and time. Soil forms very slowly, so it is effectively non-renewable on human timescales once eroded.
+
+**What is the difference between sand and clay soils?**
+Sand drains and warms quickly but holds few nutrients. Clay holds water and nutrients but drains slowly, and loam combines the drainage of sand with the retention of clay.
+
+**Is leaching a transfer or a transformation?**
+Leaching is a transfer, because nutrients move downwards in solution without changing form. Decomposition and weathering are transformations.
+
+**What is the difference between food loss and food waste?**
+Food loss happens early in the supply chain, at harvest, storage and transport, and is the main pattern in lower-income countries. Food waste happens late, at retail and in households, and dominates in higher-income countries.
+
+**How do you calculate organic matter by loss on ignition?**
+Weigh an oven-dried sample, heat it strongly to burn off organic matter, then divide the mass lost by the dry mass and multiply by 100. State that the answer is a percentage of dry mass.
 
 ## Official syllabus
 

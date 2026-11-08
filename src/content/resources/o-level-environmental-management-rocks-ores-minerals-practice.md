@@ -19,13 +19,15 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "natural-resources-5014-2027"
     subtopic: "sustainable-management-of-rocks-ores-and-minerals-5014-2027"
-description: "Original exam-style practice questions with full worked answers on rock formation, permeability, ores, biological extraction, extraction impacts and sustainable management, for the 2027-2029 Cambridge O Level Environmental Management 5014 syllabus."
+description: "Original exam-style questions with worked answers on rock formation, ores, biological extraction, mining impacts and sustainable management for O Level 5014."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -153,3 +155,20 @@ separate [1]; it works best where recycling is accessible and easy and people ar
 - Listing impacts without explaining who or what is affected.
 - Calculating waste as the mass of metal, or forgetting the unit.
 - Giving a benefit without a limitation when the question says "discuss".
+
+## Frequently asked questions
+
+**Are these O Level Environmental Management questions taken from past papers?**
+No. They are original questions written for revision, and they do not copy the exam's structure, question count or mark tariffs. Use them alongside the official Cambridge 5014 past papers.
+
+**Which edition of the 5014 syllabus do these questions follow?**
+They follow the 2027-2029 edition, where rocks, ores and minerals are sub-topics 1.1-1.3 of Topic 1 Natural resources. Candidates sitting in November 2026 in Mauritius take the 2025-2026 edition instead.
+
+**How do you answer a "discuss" question in Environmental Management?**
+Give a benefit and a limitation for each strategy you mention, rather than only listing benefits. Stating what the strategy depends on, such as enforcement for legislation, strengthens the answer.
+
+**How are marks usually given for impact questions in 5014?**
+In these worked answers, each impact earns one mark for naming it and a second for explaining who or what is affected and how. Listing impacts without that explanation is a common way to lose marks.
+
+**What mistakes do students make in ore grade calculations?**
+Common slips are giving the mass of metal when the question asks for the mass of waste, and leaving out the unit. Show each step of the working so method marks can still be awarded.

@@ -25,8 +25,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -192,6 +194,23 @@ Identify the EVS of each stakeholder and justify each with evidence from their w
 - Tick off topics on the [printable checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Which part of the IB ESS syllabus do these practice questions cover?**
+They cover the foundation unit, Topic 1: 1.1 Perspectives, 1.2 Systems and 1.3 Sustainability. The content is the same at SL and HL, and the data in the questions are fictional.
+
+**How do you judge whether a harvest is sustainable in IB ESS?**
+Compare the harvest with the natural income, the yield the stock can supply each year, not with the whole stock. A harvest above natural income depletes the natural capital.
+
+**What are common mistakes with positive feedback in ESS answers?**
+Students often call a change positive feedback just because the outcome is bad. Positive feedback means the change is amplified, while negative feedback reduces it, whatever the outcome.
+
+**How do you earn the marks when identifying a stakeholder's environmental value system?**
+Name the EVS and justify it with a quotation or action from the stakeholder in the source. A label with no evidence does not earn the justification marks.
+
+**What units should ecological footprint answers use?**
+Use global hectares (gha), and keep per-person values separate from totals. Multiply by population when a total deficit or reserve is asked for.
 
 ## Official syllabus
 

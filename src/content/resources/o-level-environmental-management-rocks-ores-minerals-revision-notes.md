@@ -19,7 +19,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "natural-resources-5014-2027"
     subtopic: "sustainable-management-of-rocks-ores-and-minerals-5014-2027"
-description: "Condensed recall notes on rock formation, the rock cycle, permeability, ores, surface, subsurface and biological extraction, impacts and sustainable management for the 2027-2029 Cambridge O Level Environmental Management 5014 syllabus."
+description: "Recall notes on rock formation, the rock cycle, permeability, ores, surface, subsurface and biological extraction and sustainable management for O Level 5014."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "review-pending"

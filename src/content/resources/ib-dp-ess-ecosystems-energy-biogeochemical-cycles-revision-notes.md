@@ -25,8 +25,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and worked examples, use the
@@ -235,6 +237,23 @@ say:
 - Swapping nitrification and denitrification, or omitting the oxygen condition.
 - Describing a human impact ("deforestation") without the change in flow (less photosynthesis, more
   combustion and decomposition).
+
+## Frequently asked questions
+
+**What is the difference between energy flow and nutrient cycling?**
+Energy flows through an ecosystem in one direction and is lost as heat, following the second law of thermodynamics. Matter such as carbon and nitrogen cycles between storages, so energy is never "recycled".
+
+**What is the difference between a carbon sink and a carbon store?**
+A store holds carbon, while a sink is a store that is gaining carbon because it takes in more than it releases. A source releases more carbon than it takes in.
+
+**What is the difference between nitrification and denitrification?**
+Nitrification converts ammonium to nitrate and needs oxygen. Denitrification is anaerobic and removes nitrate by converting it to nitrogen gas, which is why waterlogged soils lose nitrogen.
+
+**How do you convert tonnes of carbon to tonnes of CO₂?**
+Multiply the mass of carbon by 44/12, so 1 tonne of carbon is about 3.67 tonnes of CO₂. Check which unit a data table uses before you calculate.
+
+**Why can a pyramid of productivity never be inverted?**
+Each trophic level receives only part of the energy flowing into the level below, because energy is lost as heat, in faeces and in uneaten parts. Pyramids of numbers and biomass can be inverted.
 
 ## Official syllabus
 

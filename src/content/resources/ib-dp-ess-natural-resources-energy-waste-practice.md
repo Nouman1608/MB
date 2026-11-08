@@ -25,8 +25,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -189,6 +191,23 @@ against the IB's criteria, which your teacher will share.
 - Tick off topics on the [printable ESS checklist](/checklists/ib/ib-dp/environmental-systems-and-societies/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Which IB ESS syllabus sections do these practice questions cover?**
+They cover Topic 7 Natural resources, sections 7.1 to 7.3, at SL and HL, following the subject brief for first assessment 2026. One question uses the HL-only economics lens, and all data are fictional.
+
+**Is nuclear power counted as renewable in IB ESS energy-mix questions?**
+No. Nuclear power is not renewable, because uranium is a finite ore, so leave it out of the renewable total when you calculate percentages.
+
+**What mistakes do students make with sustainable yield?**
+Common errors are giving sustainable yield without "per year" and confusing it with the planned harvest. Sustainable yield is the growth of the stock, not the amount removed.
+
+**How do you place strategies on the pollution management model?**
+The model has three levels: altering human activity, controlling the release of the pollutant, and clean-up and restoration. Putting a strategy at the wrong level is a frequent way to lose marks.
+
+**What do HL economics lens questions in ESS expect?**
+They expect economic reasoning, not just general environmental points. Link the strategy to ideas from environmental and ecological economics and reach a judgement.
 
 ## Official syllabus
 
