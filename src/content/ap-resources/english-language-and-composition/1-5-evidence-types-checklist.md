@@ -1,5 +1,5 @@
 ---
-resourceId: "mb-ap-lang-1.5-checklist"
+resourceId: "mb-ap-englang-1.5-checklist"
 title: "Evidence and Its Types: Topic Checklist (English Language 1.5)"
 course: "english-language-and-composition"
 unit: 1
@@ -11,8 +11,8 @@ learningObjectives:
 skills: ["3", "4"]
 studyMinutes: 10
 difficulty: "core"
-related: ["mb-ap-lang-1.5-study-guide", "mb-ap-lang-1.5-revision-notes", "mb-ap-lang-1.5-practice"]
-next: "mb-ap-lang-1.6-study-guide"
+related: ["mb-ap-englang-1.5-study-guide", "mb-ap-englang-1.5-revision-notes", "mb-ap-englang-1.5-practice"]
+next: "mb-ap-englang-1.6-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition"]
 keyPoints:

@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-3.7-revision-notes"
+resourceId: "mb-ap-englang-3.7-revision-notes"
 title: "Developing Ideas Through Narration and Cause-Effect: Revision Notes (English Language 3.7)"
 course: "english-language-and-composition"
 unit: 3
 topics: ["3.7"]
 resourceType: "revision-notes"
 description: "One-page recap of developing ideas through narration and cause-effect, with a quick self-check and the mistakes to avoid."
-prerequisiteResources: ["mb-ap-lang-3.7-study-guide"]
+prerequisiteResources: ["mb-ap-englang-3.7-study-guide"]
 learningObjectives:
   - "Explain what narration and cause-effect each need to be effective"
   - "Write a narrative paragraph with specific details and reflection"
@@ -14,8 +14,8 @@ learningObjectives:
 skills: ["5", "6"]
 studyMinutes: 10
 difficulty: "core"
-related: ["mb-ap-lang-3.7-study-guide", "mb-ap-lang-3.7-practice", "mb-ap-lang-3.7-checklist"]
-next: "mb-ap-lang-3.7-practice"
+related: ["mb-ap-englang-3.7-study-guide", "mb-ap-englang-3.7-practice", "mb-ap-englang-3.7-checklist"]
+next: "mb-ap-englang-3.7-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition"]
 keyPoints:

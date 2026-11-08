@@ -1,5 +1,5 @@
 ---
-resourceId: "mb-ap-lang-u3-diagnostic"
+resourceId: "mb-ap-englang-u3-diagnostic"
 title: "Commentary, Line of Reasoning and Methods of Development: Unit Diagnostic (English Language Unit 3)"
 description: "A ten-question check with at least one question for each topic of Unit 3, from commentary and synthesis to reasoning flaws and methods of development, showing which topics to revisit."
 course: "english-language-and-composition"
@@ -16,8 +16,8 @@ learningObjectives:
 skills: ["3", "4", "5", "6"]
 studyMinutes: 30
 difficulty: "mixed"
-related: ["mb-ap-lang-u3-review", "mb-ap-lang-3.1-study-guide", "mb-ap-lang-3.2-study-guide", "mb-ap-lang-3.3-study-guide", "mb-ap-lang-3.4-study-guide", "mb-ap-lang-3.5-study-guide", "mb-ap-lang-3.6-study-guide", "mb-ap-lang-3.7-study-guide"]
-next: "mb-ap-lang-u3-review"
+related: ["mb-ap-englang-u3-review", "mb-ap-englang-3.1-study-guide", "mb-ap-englang-3.2-study-guide", "mb-ap-englang-3.3-study-guide", "mb-ap-englang-3.4-study-guide", "mb-ap-englang-3.5-study-guide", "mb-ap-englang-3.6-study-guide", "mb-ap-englang-3.7-study-guide"]
+next: "mb-ap-englang-u3-review"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:

@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-2.6-practice"
+resourceId: "mb-ap-englang-2.6-practice"
 title: "Identifying the Thesis of an Argument: Practice Questions (English Language 2.6)"
 course: "english-language-and-composition"
 unit: 2
 topics: ["2.6"]
 resourceType: "practice-questions"
 description: "Eight original Marlbridge practice questions on identifying the thesis of an argument and any indication of its structure, with answers, distractor analysis and suggested rubrics."
-prerequisiteResources: ["mb-ap-lang-2.6-study-guide"]
+prerequisiteResources: ["mb-ap-englang-2.6-study-guide"]
 learningObjectives:
   - "Define a thesis as the overarching claim of an argument"
   - "Find a stated or implied thesis in a text"
@@ -15,8 +15,8 @@ learningObjectives:
 skills: ["3"]
 studyMinutes: 45
 difficulty: "mixed"
-related: ["mb-ap-lang-2.6-study-guide", "mb-ap-lang-2.6-revision-notes", "mb-ap-lang-2.6-checklist"]
-next: "mb-ap-lang-2.6-checklist"
+related: ["mb-ap-englang-2.6-study-guide", "mb-ap-englang-2.6-revision-notes", "mb-ap-englang-2.6-checklist"]
+next: "mb-ap-englang-2.6-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:

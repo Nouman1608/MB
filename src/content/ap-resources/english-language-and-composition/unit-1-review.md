@@ -1,5 +1,5 @@
 ---
-resourceId: "mb-ap-lang-u1-review"
+resourceId: "mb-ap-englang-u1-review"
 title: "Claims, Evidence and the Rhetorical Situation: Mixed Unit Review (English Language Unit 1)"
 description: "Big ideas, a one-table summary and seven original exam-style questions that combine Unit 1 topics, with worked solutions and suggested rubrics."
 course: "english-language-and-composition"
@@ -17,8 +17,8 @@ learningObjectives:
 skills: ["1", "2", "3", "4"]
 studyMinutes: 60
 difficulty: "mixed"
-related: ["mb-ap-lang-u1-diagnostic", "mb-ap-lang-1.1-checklist", "mb-ap-lang-1.2-checklist", "mb-ap-lang-1.3-checklist", "mb-ap-lang-1.4-checklist", "mb-ap-lang-1.5-checklist", "mb-ap-lang-1.6-checklist"]
-next: "mb-ap-lang-u2-diagnostic"
+related: ["mb-ap-englang-u1-diagnostic", "mb-ap-englang-1.1-checklist", "mb-ap-englang-1.2-checklist", "mb-ap-englang-1.3-checklist", "mb-ap-englang-1.4-checklist", "mb-ap-englang-1.5-checklist", "mb-ap-englang-1.6-checklist"]
+next: "mb-ap-englang-u2-diagnostic"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:
@@ -26,7 +26,7 @@ keyPoints:
   - "A claim needs a defence; evidence must match exactly what the claim says."
   - "Embed evidence in your own sentence and explain it."
   - "The audience's needs and background shape what counts as strategic evidence."
-prerequisiteResources: ["mb-ap-lang-u1-diagnostic"]
+prerequisiteResources: ["mb-ap-englang-u1-diagnostic"]
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08

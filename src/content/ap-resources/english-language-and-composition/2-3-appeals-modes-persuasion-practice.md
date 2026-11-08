@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-2.3-practice"
+resourceId: "mb-ap-englang-2.3-practice"
 title: "Appeals: The Modes of Persuasion: Practice Questions (English Language 2.3)"
 course: "english-language-and-composition"
 unit: 2
 topics: ["2.3"]
 resourceType: "practice-questions"
 description: "Eight original Marlbridge practice questions on the appeals of ethos, logos and pathos and how they serve a writer's purpose, with answers, distractor analysis and suggested rubrics."
-prerequisiteResources: ["mb-ap-lang-2.3-study-guide"]
+prerequisiteResources: ["mb-ap-englang-2.3-study-guide"]
 learningObjectives:
   - "Define logos, ethos and pathos and say how each is built"
   - "Identify the primary appeal of a sentence and note any secondary appeals"
@@ -15,8 +15,8 @@ learningObjectives:
 skills: ["1", "2"]
 studyMinutes: 45
 difficulty: "mixed"
-related: ["mb-ap-lang-2.3-study-guide", "mb-ap-lang-2.3-revision-notes", "mb-ap-lang-2.3-checklist"]
-next: "mb-ap-lang-2.3-checklist"
+related: ["mb-ap-englang-2.3-study-guide", "mb-ap-englang-2.3-revision-notes", "mb-ap-englang-2.3-checklist"]
+next: "mb-ap-englang-2.3-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:

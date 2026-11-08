@@ -1,5 +1,5 @@
 ---
-resourceId: "mb-ap-lang-1.1-study-guide"
+resourceId: "mb-ap-englang-1.1-study-guide"
 title: "The Rhetorical Situation: Study Guide (English Language 1.1)"
 course: "english-language-and-composition"
 unit: 1
@@ -17,8 +17,8 @@ learningObjectives:
 skills: ["1", "2"]
 studyMinutes: 40
 difficulty: "core"
-related: ["mb-ap-lang-1.1-revision-notes", "mb-ap-lang-1.1-practice", "mb-ap-lang-1.1-checklist"]
-next: "mb-ap-lang-1.1-practice"
+related: ["mb-ap-englang-1.1-revision-notes", "mb-ap-englang-1.1-practice", "mb-ap-englang-1.1-checklist"]
+next: "mb-ap-englang-1.1-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:

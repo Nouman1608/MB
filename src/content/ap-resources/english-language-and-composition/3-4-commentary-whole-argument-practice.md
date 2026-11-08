@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-3.4-practice"
+resourceId: "mb-ap-englang-3.4-practice"
 title: "Commentary Across a Whole Argument: Practice Questions (English Language 3.4)"
 course: "english-language-and-composition"
 unit: 3
 topics: ["3.4"]
 resourceType: "practice-questions"
 description: "Eight original Marlbridge practice questions on commentary that explains relevance and significance across a whole argument, with answers, distractor analysis and suggested rubrics."
-prerequisiteResources: ["mb-ap-lang-3.4-study-guide"]
+prerequisiteResources: ["mb-ap-englang-3.4-study-guide"]
 learningObjectives:
   - "Distinguish relevance from significance in commentary"
   - "Use evidence-, paragraph-, bridge- and thesis-level commentary"
@@ -15,8 +15,8 @@ learningObjectives:
 skills: ["5", "6"]
 studyMinutes: 45
 difficulty: "mixed"
-related: ["mb-ap-lang-3.4-study-guide", "mb-ap-lang-3.4-revision-notes", "mb-ap-lang-3.4-checklist"]
-next: "mb-ap-lang-3.4-checklist"
+related: ["mb-ap-englang-3.4-study-guide", "mb-ap-englang-3.4-revision-notes", "mb-ap-englang-3.4-checklist"]
+next: "mb-ap-englang-3.4-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:

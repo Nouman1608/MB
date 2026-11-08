@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-1.2-revision-notes"
+resourceId: "mb-ap-englang-1.2-revision-notes"
 title: "Exigence and Purpose: Revision Notes (English Language 1.2)"
 course: "english-language-and-composition"
 unit: 1
 topics: ["1.2"]
 resourceType: "revision-notes"
 description: "One-page recap of exigence (what prompts a text) and purpose (what a writer wants to achieve), with a quick self-check and the mistakes to avoid."
-prerequisiteResources: ["mb-ap-lang-1.2-study-guide"]
+prerequisiteResources: ["mb-ap-englang-1.2-study-guide"]
 learningObjectives:
   - "Define exigence and purpose and tell them apart"
   - "Identify an exigence, stated or implicit, from clues in a text"
@@ -14,8 +14,8 @@ learningObjectives:
 skills: ["1", "2"]
 studyMinutes: 10
 difficulty: "core"
-related: ["mb-ap-lang-1.2-study-guide", "mb-ap-lang-1.2-practice", "mb-ap-lang-1.2-checklist"]
-next: "mb-ap-lang-1.2-practice"
+related: ["mb-ap-englang-1.2-study-guide", "mb-ap-englang-1.2-practice", "mb-ap-englang-1.2-checklist"]
+next: "mb-ap-englang-1.2-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition"]
 keyPoints:

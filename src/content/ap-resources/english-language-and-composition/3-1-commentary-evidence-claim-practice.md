@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-3.1-practice"
+resourceId: "mb-ap-englang-3.1-practice"
 title: "Commentary That Links Evidence to a Claim: Practice Questions (English Language 3.1)"
 course: "english-language-and-composition"
 unit: 3
 topics: ["3.1"]
 resourceType: "practice-questions"
 description: "Eight original Marlbridge practice questions on commentary that links evidence to a claim, with answers, distractor analysis and suggested rubrics."
-prerequisiteResources: ["mb-ap-lang-3.1-study-guide"]
+prerequisiteResources: ["mb-ap-englang-3.1-study-guide"]
 learningObjectives:
   - "Explain what commentary is and why evidence needs it"
   - "Distinguish weak commentary (repeating, labelling) from strong commentary (explaining, connecting, extending)"
@@ -15,8 +15,8 @@ learningObjectives:
 skills: ["3", "4"]
 studyMinutes: 45
 difficulty: "mixed"
-related: ["mb-ap-lang-3.1-study-guide", "mb-ap-lang-3.1-revision-notes", "mb-ap-lang-3.1-checklist"]
-next: "mb-ap-lang-3.1-checklist"
+related: ["mb-ap-englang-3.1-study-guide", "mb-ap-englang-3.1-revision-notes", "mb-ap-englang-3.1-checklist"]
+next: "mb-ap-englang-3.1-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:

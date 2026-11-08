@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-3.7-practice"
+resourceId: "mb-ap-englang-3.7-practice"
 title: "Developing Ideas Through Narration and Cause-Effect: Practice Questions (English Language 3.7)"
 course: "english-language-and-composition"
 unit: 3
 topics: ["3.7"]
 resourceType: "practice-questions"
 description: "Eight original Marlbridge practice questions on developing ideas through narration and cause-effect, with answers, distractor analysis and suggested rubrics."
-prerequisiteResources: ["mb-ap-lang-3.7-study-guide"]
+prerequisiteResources: ["mb-ap-englang-3.7-study-guide"]
 learningObjectives:
   - "Explain what narration and cause-effect each need to be effective"
   - "Write a narrative paragraph with specific details and reflection"
@@ -15,8 +15,8 @@ learningObjectives:
 skills: ["5", "6"]
 studyMinutes: 45
 difficulty: "mixed"
-related: ["mb-ap-lang-3.7-study-guide", "mb-ap-lang-3.7-revision-notes", "mb-ap-lang-3.7-checklist"]
-next: "mb-ap-lang-3.7-checklist"
+related: ["mb-ap-englang-3.7-study-guide", "mb-ap-englang-3.7-revision-notes", "mb-ap-englang-3.7-checklist"]
+next: "mb-ap-englang-3.7-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:

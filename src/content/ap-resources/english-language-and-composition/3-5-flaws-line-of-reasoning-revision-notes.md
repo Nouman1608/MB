@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-3.5-revision-notes"
+resourceId: "mb-ap-englang-3.5-revision-notes"
 title: "Flaws in a Line of Reasoning: Revision Notes (English Language 3.5)"
 course: "english-language-and-composition"
 unit: 3
 topics: ["3.5"]
 resourceType: "revision-notes"
 description: "One-page recap of flaws in a line of reasoning that make an argument specious or illogical, with a quick self-check and the mistakes to avoid."
-prerequisiteResources: ["mb-ap-lang-3.5-study-guide"]
+prerequisiteResources: ["mb-ap-englang-3.5-study-guide"]
 learningObjectives:
   - "Define specious and illogical reasoning"
   - "Recognise and explain common flaws in an argument"
@@ -14,8 +14,8 @@ learningObjectives:
 skills: ["5", "6"]
 studyMinutes: 10
 difficulty: "core"
-related: ["mb-ap-lang-3.5-study-guide", "mb-ap-lang-3.5-practice", "mb-ap-lang-3.5-checklist"]
-next: "mb-ap-lang-3.5-practice"
+related: ["mb-ap-englang-3.5-study-guide", "mb-ap-englang-3.5-practice", "mb-ap-englang-3.5-checklist"]
+next: "mb-ap-englang-3.5-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition"]
 keyPoints:

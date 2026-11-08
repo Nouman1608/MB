@@ -1,5 +1,5 @@
 ---
-resourceId: "mb-ap-lang-3.6-checklist"
+resourceId: "mb-ap-englang-3.6-checklist"
 title: "Methods of Development: Topic Checklist (English Language 3.6)"
 course: "english-language-and-composition"
 unit: 3
@@ -11,8 +11,8 @@ learningObjectives:
 skills: ["5", "6"]
 studyMinutes: 10
 difficulty: "core"
-related: ["mb-ap-lang-3.6-study-guide", "mb-ap-lang-3.6-revision-notes", "mb-ap-lang-3.6-practice"]
-next: "mb-ap-lang-3.7-study-guide"
+related: ["mb-ap-englang-3.6-study-guide", "mb-ap-englang-3.6-revision-notes", "mb-ap-englang-3.6-practice"]
+next: "mb-ap-englang-3.7-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition"]
 keyPoints:

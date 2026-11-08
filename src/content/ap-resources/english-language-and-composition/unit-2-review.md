@@ -1,5 +1,5 @@
 ---
-resourceId: "mb-ap-lang-u2-review"
+resourceId: "mb-ap-englang-u2-review"
 title: "Audience, Appeals and the Thesis: Mixed Unit Review (English Language Unit 2)"
 description: "Big ideas, a one-table summary and seven original exam-style questions that combine Unit 2 topics, with worked solutions and suggested rubrics."
 course: "english-language-and-composition"
@@ -17,8 +17,8 @@ learningObjectives:
 skills: ["1", "2", "3", "4"]
 studyMinutes: 60
 difficulty: "mixed"
-related: ["mb-ap-lang-u2-diagnostic", "mb-ap-lang-2.1-checklist", "mb-ap-lang-2.2-checklist", "mb-ap-lang-2.3-checklist", "mb-ap-lang-2.4-checklist", "mb-ap-lang-2.5-checklist", "mb-ap-lang-2.6-checklist", "mb-ap-lang-2.7-checklist"]
-next: "mb-ap-lang-u3-diagnostic"
+related: ["mb-ap-englang-u2-diagnostic", "mb-ap-englang-2.1-checklist", "mb-ap-englang-2.2-checklist", "mb-ap-englang-2.3-checklist", "mb-ap-englang-2.4-checklist", "mb-ap-englang-2.5-checklist", "mb-ap-englang-2.6-checklist", "mb-ap-englang-2.7-checklist"]
+next: "mb-ap-englang-u3-diagnostic"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:
@@ -26,7 +26,7 @@ keyPoints:
   - "Name the appeal, the detail that creates it and its effect on the audience."
   - "Evidence must be strategic, sufficient and matched to the claim's scope."
   - "A thesis is a defensible, specific position and not a topic, fact or plan."
-prerequisiteResources: ["mb-ap-lang-u2-diagnostic"]
+prerequisiteResources: ["mb-ap-englang-u2-diagnostic"]
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08

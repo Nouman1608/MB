@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-3.3-revision-notes"
+resourceId: "mb-ap-englang-3.3-revision-notes"
 title: "Following and Building a Line of Reasoning: Revision Notes (English Language 3.3)"
 course: "english-language-and-composition"
 unit: 3
 topics: ["3.3"]
 resourceType: "revision-notes"
 description: "One-page recap of following and building a line of reasoning, with a quick self-check and the mistakes to avoid."
-prerequisiteResources: ["mb-ap-lang-3.3-study-guide"]
+prerequisiteResources: ["mb-ap-englang-3.3-study-guide"]
 learningObjectives:
   - "Define a line of reasoning and describe how paragraph order reveals it"
   - "Describe two patterns of thesis and reasoning"
@@ -14,8 +14,8 @@ learningObjectives:
 skills: ["5", "6"]
 studyMinutes: 10
 difficulty: "core"
-related: ["mb-ap-lang-3.3-study-guide", "mb-ap-lang-3.3-practice", "mb-ap-lang-3.3-checklist"]
-next: "mb-ap-lang-3.3-practice"
+related: ["mb-ap-englang-3.3-study-guide", "mb-ap-englang-3.3-practice", "mb-ap-englang-3.3-checklist"]
+next: "mb-ap-englang-3.3-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition"]
 keyPoints:

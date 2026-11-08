@@ -1,5 +1,5 @@
 ---
-resourceId: "mb-ap-lang-u3-review"
+resourceId: "mb-ap-englang-u3-review"
 title: "Commentary, Line of Reasoning and Methods of Development: Mixed Unit Review (English Language Unit 3)"
 description: "Big ideas, a one-table summary and seven original exam-style questions that combine Unit 3 topics, with worked solutions and suggested rubrics."
 course: "english-language-and-composition"
@@ -17,7 +17,7 @@ learningObjectives:
 skills: ["3", "4", "5", "6"]
 studyMinutes: 60
 difficulty: "mixed"
-related: ["mb-ap-lang-u3-diagnostic", "mb-ap-lang-3.1-checklist", "mb-ap-lang-3.2-checklist", "mb-ap-lang-3.3-checklist", "mb-ap-lang-3.4-checklist", "mb-ap-lang-3.5-checklist", "mb-ap-lang-3.6-checklist", "mb-ap-lang-3.7-checklist"]
+related: ["mb-ap-englang-u3-diagnostic", "mb-ap-englang-3.1-checklist", "mb-ap-englang-3.2-checklist", "mb-ap-englang-3.3-checklist", "mb-ap-englang-3.4-checklist", "mb-ap-englang-3.5-checklist", "mb-ap-englang-3.6-checklist", "mb-ap-englang-3.7-checklist"]
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:
@@ -25,7 +25,7 @@ keyPoints:
   - "Synthesis puts sources in conversation under the writer's own thesis."
   - "A line of reasoning needs ordered steps with no gaps, and each causal link needs support."
   - "Choose a method of development for the audience and the purpose."
-prerequisiteResources: ["mb-ap-lang-u3-diagnostic"]
+prerequisiteResources: ["mb-ap-englang-u3-diagnostic"]
 version: "1.0"
 publishedDate: 2026-11-08
 updatedDate: 2026-11-08

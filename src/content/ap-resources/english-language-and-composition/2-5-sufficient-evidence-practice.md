@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-2.5-practice"
+resourceId: "mb-ap-englang-2.5-practice"
 title: "Sufficient Evidence: Practice Questions (English Language 2.5)"
 course: "english-language-and-composition"
 unit: 2
 topics: ["2.5"]
 resourceType: "practice-questions"
 description: "Eight original Marlbridge practice questions on when evidence is sufficient, and how to narrow a claim or add evidence, with answers, distractor analysis and suggested rubrics."
-prerequisiteResources: ["mb-ap-lang-2.5-study-guide"]
+prerequisiteResources: ["mb-ap-englang-2.5-study-guide"]
 learningObjectives:
   - "Explain what makes evidence sufficient in terms of quantity and quality"
   - "Match the scope of a claim to the evidence available"
@@ -15,8 +15,8 @@ learningObjectives:
 skills: ["3", "4"]
 studyMinutes: 45
 difficulty: "mixed"
-related: ["mb-ap-lang-2.5-study-guide", "mb-ap-lang-2.5-revision-notes", "mb-ap-lang-2.5-checklist"]
-next: "mb-ap-lang-2.5-checklist"
+related: ["mb-ap-englang-2.5-study-guide", "mb-ap-englang-2.5-revision-notes", "mb-ap-englang-2.5-checklist"]
+next: "mb-ap-englang-2.5-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:

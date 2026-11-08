@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-2.2-practice"
+resourceId: "mb-ap-englang-2.2-practice"
 title: "Relating to an Audience’s Emotions and Values: Practice Questions (English Language 2.2)"
 course: "english-language-and-composition"
 unit: 2
 topics: ["2.2"]
 resourceType: "practice-questions"
 description: "Eight original Marlbridge practice questions on how writers relate to an audience's emotions and values, with answers, distractor analysis and suggested rubrics."
-prerequisiteResources: ["mb-ap-lang-2.2-study-guide"]
+prerequisiteResources: ["mb-ap-englang-2.2-study-guide"]
 learningObjectives:
   - "Identify the sources of emotion in a text"
   - "Explain how a writer relates a proposal to an audience's values"
@@ -15,8 +15,8 @@ learningObjectives:
 skills: ["1", "2"]
 studyMinutes: 45
 difficulty: "mixed"
-related: ["mb-ap-lang-2.2-study-guide", "mb-ap-lang-2.2-revision-notes", "mb-ap-lang-2.2-checklist"]
-next: "mb-ap-lang-2.2-checklist"
+related: ["mb-ap-englang-2.2-study-guide", "mb-ap-englang-2.2-revision-notes", "mb-ap-englang-2.2-checklist"]
+next: "mb-ap-englang-2.2-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:

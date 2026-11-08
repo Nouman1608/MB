@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-2.1-practice"
+resourceId: "mb-ap-englang-2.1-practice"
 title: "Writing for an Audience’s Beliefs, Values and Needs: Practice Questions (English Language 2.1)"
 course: "english-language-and-composition"
 unit: 2
 topics: ["2.1"]
 resourceType: "practice-questions"
 description: "Eight original Marlbridge practice questions on how writers respond to an audience's beliefs, values and needs, with answers, distractor analysis and suggested rubrics."
-prerequisiteResources: ["mb-ap-lang-2.1-study-guide"]
+prerequisiteResources: ["mb-ap-englang-2.1-study-guide"]
 learningObjectives:
   - "Analyse an audience through beliefs, values, needs and background"
   - "Explain how a writer's choices show an understanding of the audience"
@@ -15,8 +15,8 @@ learningObjectives:
 skills: ["1", "2"]
 studyMinutes: 45
 difficulty: "mixed"
-related: ["mb-ap-lang-2.1-study-guide", "mb-ap-lang-2.1-revision-notes", "mb-ap-lang-2.1-checklist"]
-next: "mb-ap-lang-2.1-checklist"
+related: ["mb-ap-englang-2.1-study-guide", "mb-ap-englang-2.1-revision-notes", "mb-ap-englang-2.1-checklist"]
+next: "mb-ap-englang-2.1-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:

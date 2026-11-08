@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-3.3-practice"
+resourceId: "mb-ap-englang-3.3-practice"
 title: "Following and Building a Line of Reasoning: Practice Questions (English Language 3.3)"
 course: "english-language-and-composition"
 unit: 3
 topics: ["3.3"]
 resourceType: "practice-questions"
 description: "Eight original Marlbridge practice questions on following and building a line of reasoning, with answers, distractor analysis and suggested rubrics."
-prerequisiteResources: ["mb-ap-lang-3.3-study-guide"]
+prerequisiteResources: ["mb-ap-englang-3.3-study-guide"]
 learningObjectives:
   - "Define a line of reasoning and describe how paragraph order reveals it"
   - "Describe two patterns of thesis and reasoning"
@@ -15,8 +15,8 @@ learningObjectives:
 skills: ["5", "6"]
 studyMinutes: 45
 difficulty: "mixed"
-related: ["mb-ap-lang-3.3-study-guide", "mb-ap-lang-3.3-revision-notes", "mb-ap-lang-3.3-checklist"]
-next: "mb-ap-lang-3.3-checklist"
+related: ["mb-ap-englang-3.3-study-guide", "mb-ap-englang-3.3-revision-notes", "mb-ap-englang-3.3-checklist"]
+next: "mb-ap-englang-3.3-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:

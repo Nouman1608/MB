@@ -1,5 +1,5 @@
 ---
-resourceId: "mb-ap-lang-u1-diagnostic"
+resourceId: "mb-ap-englang-u1-diagnostic"
 title: "Claims, Evidence and the Rhetorical Situation: Unit Diagnostic (English Language Unit 1)"
 description: "An eight-question check with a short question on every topic of Unit 1, from the rhetorical situation to claims, evidence and paragraphs, showing which topics to revisit."
 course: "english-language-and-composition"
@@ -16,8 +16,8 @@ learningObjectives:
 skills: ["1", "2", "3", "4"]
 studyMinutes: 25
 difficulty: "mixed"
-related: ["mb-ap-lang-u1-review", "mb-ap-lang-1.1-study-guide", "mb-ap-lang-1.2-study-guide", "mb-ap-lang-1.3-study-guide", "mb-ap-lang-1.4-study-guide", "mb-ap-lang-1.5-study-guide", "mb-ap-lang-1.6-study-guide"]
-next: "mb-ap-lang-u1-review"
+related: ["mb-ap-englang-u1-review", "mb-ap-englang-1.1-study-guide", "mb-ap-englang-1.2-study-guide", "mb-ap-englang-1.3-study-guide", "mb-ap-englang-1.4-study-guide", "mb-ap-englang-1.5-study-guide", "mb-ap-englang-1.6-study-guide"]
+next: "mb-ap-englang-u1-review"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:

@@ -1,5 +1,5 @@
 ---
-resourceId: "mb-ap-lang-1.5-study-guide"
+resourceId: "mb-ap-englang-1.5-study-guide"
 title: "Evidence and Its Types: Study Guide (English Language 1.5)"
 course: "english-language-and-composition"
 unit: 1
@@ -16,8 +16,8 @@ learningObjectives:
 skills: ["3", "4"]
 studyMinutes: 40
 difficulty: "core"
-related: ["mb-ap-lang-1.5-revision-notes", "mb-ap-lang-1.5-practice", "mb-ap-lang-1.5-checklist"]
-next: "mb-ap-lang-1.5-practice"
+related: ["mb-ap-englang-1.5-revision-notes", "mb-ap-englang-1.5-practice", "mb-ap-englang-1.5-checklist"]
+next: "mb-ap-englang-1.5-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:
@@ -42,7 +42,7 @@ editorialStatus: "drafted"
 checkedBy: "marlbridge-academic-team"
 checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
-prerequisiteResources: ["mb-ap-lang-1.4-study-guide"]
+prerequisiteResources: ["mb-ap-englang-1.4-study-guide"]
 ---
 
 ## Evidence is what stands behind a claim

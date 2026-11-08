@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-2.7-practice"
+resourceId: "mb-ap-englang-2.7-practice"
 title: "Writing a Defensible Thesis Statement: Practice Questions (English Language 2.7)"
 course: "english-language-and-composition"
 unit: 2
 topics: ["2.7"]
 resourceType: "practice-questions"
 description: "Eight original Marlbridge practice questions on writing a defensible thesis statement for argument, synthesis and rhetorical analysis, with answers, distractor analysis and suggested rubrics."
-prerequisiteResources: ["mb-ap-lang-2.7-study-guide"]
+prerequisiteResources: ["mb-ap-englang-2.7-study-guide"]
 learningObjectives:
   - "Write a thesis that requires a defence and can be defended"
   - "Avoid announcements, facts, restated prompts and vague evaluations"
@@ -15,8 +15,8 @@ learningObjectives:
 skills: ["4"]
 studyMinutes: 45
 difficulty: "mixed"
-related: ["mb-ap-lang-2.7-study-guide", "mb-ap-lang-2.7-revision-notes", "mb-ap-lang-2.7-checklist"]
-next: "mb-ap-lang-2.7-checklist"
+related: ["mb-ap-englang-2.7-study-guide", "mb-ap-englang-2.7-revision-notes", "mb-ap-englang-2.7-checklist"]
+next: "mb-ap-englang-2.7-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:

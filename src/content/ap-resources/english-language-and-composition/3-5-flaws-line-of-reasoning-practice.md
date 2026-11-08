@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-3.5-practice"
+resourceId: "mb-ap-englang-3.5-practice"
 title: "Flaws in a Line of Reasoning: Practice Questions (English Language 3.5)"
 course: "english-language-and-composition"
 unit: 3
 topics: ["3.5"]
 resourceType: "practice-questions"
 description: "Eight original Marlbridge practice questions on flaws in a line of reasoning that make an argument specious or illogical, with answers, distractor analysis and suggested rubrics."
-prerequisiteResources: ["mb-ap-lang-3.5-study-guide"]
+prerequisiteResources: ["mb-ap-englang-3.5-study-guide"]
 learningObjectives:
   - "Define specious and illogical reasoning"
   - "Recognise and explain common flaws in an argument"
@@ -16,8 +16,8 @@ learningObjectives:
 skills: ["5", "6"]
 studyMinutes: 45
 difficulty: "mixed"
-related: ["mb-ap-lang-3.5-study-guide", "mb-ap-lang-3.5-revision-notes", "mb-ap-lang-3.5-checklist"]
-next: "mb-ap-lang-3.5-checklist"
+related: ["mb-ap-englang-3.5-study-guide", "mb-ap-englang-3.5-revision-notes", "mb-ap-englang-3.5-checklist"]
+next: "mb-ap-englang-3.5-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:

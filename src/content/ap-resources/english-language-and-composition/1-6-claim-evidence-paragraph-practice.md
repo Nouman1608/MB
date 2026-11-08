@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-1.6-practice"
+resourceId: "mb-ap-englang-1.6-practice"
 title: "Writing a Paragraph with a Claim and Evidence: Practice Questions (English Language 1.6)"
 course: "english-language-and-composition"
 unit: 1
 topics: ["1.6"]
 resourceType: "practice-questions"
 description: "Eight original Marlbridge practice questions on building a paragraph with a claim, embedded evidence and commentary, with answers, distractor analysis and suggested rubrics."
-prerequisiteResources: ["mb-ap-lang-1.6-study-guide"]
+prerequisiteResources: ["mb-ap-englang-1.6-study-guide"]
 learningObjectives:
   - "Build a paragraph with a claim, evidence and commentary"
   - "Embed quotations, paraphrases and summaries in sentences of your own"
@@ -15,8 +15,8 @@ learningObjectives:
 skills: ["4"]
 studyMinutes: 45
 difficulty: "mixed"
-related: ["mb-ap-lang-1.6-study-guide", "mb-ap-lang-1.6-revision-notes", "mb-ap-lang-1.6-checklist"]
-next: "mb-ap-lang-1.6-checklist"
+related: ["mb-ap-englang-1.6-study-guide", "mb-ap-englang-1.6-revision-notes", "mb-ap-englang-1.6-checklist"]
+next: "mb-ap-englang-1.6-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:

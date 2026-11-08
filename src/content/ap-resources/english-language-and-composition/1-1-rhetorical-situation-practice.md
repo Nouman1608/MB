@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-1.1-practice"
+resourceId: "mb-ap-englang-1.1-practice"
 title: "The Rhetorical Situation: Practice Questions (English Language 1.1)"
 course: "english-language-and-composition"
 unit: 1
 topics: ["1.1"]
 resourceType: "practice-questions"
 description: "Eight original Marlbridge practice questions on the rhetorical situation: exigence, writer, audience, purpose, context and message, with answers, distractor analysis and suggested rubrics."
-prerequisiteResources: ["mb-ap-lang-1.1-study-guide"]
+prerequisiteResources: ["mb-ap-englang-1.1-study-guide"]
 learningObjectives:
   - "Name and define the six components of a rhetorical situation"
   - "Describe each component precisely using details from a text"
@@ -15,8 +15,8 @@ learningObjectives:
 skills: ["1", "2"]
 studyMinutes: 45
 difficulty: "mixed"
-related: ["mb-ap-lang-1.1-study-guide", "mb-ap-lang-1.1-revision-notes", "mb-ap-lang-1.1-checklist"]
-next: "mb-ap-lang-1.1-checklist"
+related: ["mb-ap-englang-1.1-study-guide", "mb-ap-englang-1.1-revision-notes", "mb-ap-englang-1.1-checklist"]
+next: "mb-ap-englang-1.1-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:

@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-2.4-practice"
+resourceId: "mb-ap-englang-2.4-practice"
 title: "Choosing Evidence Strategically: Practice Questions (English Language 2.4)"
 course: "english-language-and-composition"
 unit: 2
 topics: ["2.4"]
 resourceType: "practice-questions"
 description: "Eight original Marlbridge practice questions on choosing evidence strategically for a claim, an audience and a purpose, with answers, distractor analysis and suggested rubrics."
-prerequisiteResources: ["mb-ap-lang-2.4-study-guide"]
+prerequisiteResources: ["mb-ap-englang-2.4-study-guide"]
 learningObjectives:
   - "Name the jobs evidence can do in an argument"
   - "Explain why a writer chose a piece of evidence for an audience and purpose"
@@ -15,8 +15,8 @@ learningObjectives:
 skills: ["3", "4"]
 studyMinutes: 45
 difficulty: "mixed"
-related: ["mb-ap-lang-2.4-study-guide", "mb-ap-lang-2.4-revision-notes", "mb-ap-lang-2.4-checklist"]
-next: "mb-ap-lang-2.4-checklist"
+related: ["mb-ap-englang-2.4-study-guide", "mb-ap-englang-2.4-revision-notes", "mb-ap-englang-2.4-checklist"]
+next: "mb-ap-englang-2.4-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:

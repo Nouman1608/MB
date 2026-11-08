@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-2.2-revision-notes"
+resourceId: "mb-ap-englang-2.2-revision-notes"
 title: "Relating to an Audience’s Emotions and Values: Revision Notes (English Language 2.2)"
 course: "english-language-and-composition"
 unit: 2
 topics: ["2.2"]
 resourceType: "revision-notes"
 description: "One-page recap of how writers relate to an audience's emotions and values, with a quick self-check and the mistakes to avoid."
-prerequisiteResources: ["mb-ap-lang-2.2-study-guide"]
+prerequisiteResources: ["mb-ap-englang-2.2-study-guide"]
 learningObjectives:
   - "Identify the sources of emotion in a text"
   - "Explain how a writer relates a proposal to an audience's values"
@@ -14,8 +14,8 @@ learningObjectives:
 skills: ["1", "2"]
 studyMinutes: 10
 difficulty: "core"
-related: ["mb-ap-lang-2.2-study-guide", "mb-ap-lang-2.2-practice", "mb-ap-lang-2.2-checklist"]
-next: "mb-ap-lang-2.2-practice"
+related: ["mb-ap-englang-2.2-study-guide", "mb-ap-englang-2.2-practice", "mb-ap-englang-2.2-checklist"]
+next: "mb-ap-englang-2.2-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition"]
 keyPoints:

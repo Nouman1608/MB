@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-2.5-revision-notes"
+resourceId: "mb-ap-englang-2.5-revision-notes"
 title: "Sufficient Evidence: Revision Notes (English Language 2.5)"
 course: "english-language-and-composition"
 unit: 2
 topics: ["2.5"]
 resourceType: "revision-notes"
 description: "One-page recap of when evidence is sufficient, and how to narrow a claim or add evidence, with a quick self-check and the mistakes to avoid."
-prerequisiteResources: ["mb-ap-lang-2.5-study-guide"]
+prerequisiteResources: ["mb-ap-englang-2.5-study-guide"]
 learningObjectives:
   - "Explain what makes evidence sufficient in terms of quantity and quality"
   - "Match the scope of a claim to the evidence available"
@@ -14,8 +14,8 @@ learningObjectives:
 skills: ["3", "4"]
 studyMinutes: 10
 difficulty: "core"
-related: ["mb-ap-lang-2.5-study-guide", "mb-ap-lang-2.5-practice", "mb-ap-lang-2.5-checklist"]
-next: "mb-ap-lang-2.5-practice"
+related: ["mb-ap-englang-2.5-study-guide", "mb-ap-englang-2.5-practice", "mb-ap-englang-2.5-checklist"]
+next: "mb-ap-englang-2.5-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition"]
 keyPoints:

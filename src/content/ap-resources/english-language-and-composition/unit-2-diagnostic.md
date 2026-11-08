@@ -1,5 +1,5 @@
 ---
-resourceId: "mb-ap-lang-u2-diagnostic"
+resourceId: "mb-ap-englang-u2-diagnostic"
 title: "Audience, Appeals and the Thesis: Unit Diagnostic (English Language Unit 2)"
 description: "A ten-question check with at least one question for each topic of Unit 2, from audience and appeals to evidence and the thesis, showing which topics to revisit."
 course: "english-language-and-composition"
@@ -16,8 +16,8 @@ learningObjectives:
 skills: ["1", "2", "3", "4"]
 studyMinutes: 30
 difficulty: "mixed"
-related: ["mb-ap-lang-u2-review", "mb-ap-lang-2.1-study-guide", "mb-ap-lang-2.2-study-guide", "mb-ap-lang-2.3-study-guide", "mb-ap-lang-2.4-study-guide", "mb-ap-lang-2.5-study-guide", "mb-ap-lang-2.6-study-guide", "mb-ap-lang-2.7-study-guide"]
-next: "mb-ap-lang-u2-review"
+related: ["mb-ap-englang-u2-review", "mb-ap-englang-2.1-study-guide", "mb-ap-englang-2.2-study-guide", "mb-ap-englang-2.3-study-guide", "mb-ap-englang-2.4-study-guide", "mb-ap-englang-2.5-study-guide", "mb-ap-englang-2.6-study-guide", "mb-ap-englang-2.7-study-guide"]
+next: "mb-ap-englang-u2-review"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:

@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-1.3-revision-notes"
+resourceId: "mb-ap-englang-1.3-revision-notes"
 title: "Audience and Context: Revision Notes (English Language 1.3)"
 course: "english-language-and-composition"
 unit: 1
 topics: ["1.3"]
 resourceType: "revision-notes"
 description: "One-page recap of audience and context: who a text addresses and in what time, place and occasion, with a quick self-check and the mistakes to avoid."
-prerequisiteResources: ["mb-ap-lang-1.3-study-guide"]
+prerequisiteResources: ["mb-ap-englang-1.3-study-guide"]
 learningObjectives:
   - "Describe an audience's shared beliefs, values, needs and background from evidence in a text"
   - "Identify primary and secondary audiences"
@@ -14,8 +14,8 @@ learningObjectives:
 skills: ["1", "2"]
 studyMinutes: 10
 difficulty: "core"
-related: ["mb-ap-lang-1.3-study-guide", "mb-ap-lang-1.3-practice", "mb-ap-lang-1.3-checklist"]
-next: "mb-ap-lang-1.3-practice"
+related: ["mb-ap-englang-1.3-study-guide", "mb-ap-englang-1.3-practice", "mb-ap-englang-1.3-checklist"]
+next: "mb-ap-englang-1.3-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition"]
 keyPoints:

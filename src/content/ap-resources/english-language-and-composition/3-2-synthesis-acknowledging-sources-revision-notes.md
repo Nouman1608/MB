@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-3.2-revision-notes"
+resourceId: "mb-ap-englang-3.2-revision-notes"
 title: "Synthesis and Acknowledging Sources: Revision Notes (English Language 3.2)"
 course: "english-language-and-composition"
 unit: 3
 topics: ["3.2"]
 resourceType: "revision-notes"
 description: "One-page recap of synthesising sources into an argument and acknowledging them, with a quick self-check and the mistakes to avoid."
-prerequisiteResources: ["mb-ap-lang-3.2-study-guide"]
+prerequisiteResources: ["mb-ap-englang-3.2-study-guide"]
 learningObjectives:
   - "Explain the difference between summary and synthesis"
   - "Use moves such as support, extend, qualify, complicate and rebut with sources"
@@ -14,8 +14,8 @@ learningObjectives:
 skills: ["3", "4"]
 studyMinutes: 10
 difficulty: "core"
-related: ["mb-ap-lang-3.2-study-guide", "mb-ap-lang-3.2-practice", "mb-ap-lang-3.2-checklist"]
-next: "mb-ap-lang-3.2-practice"
+related: ["mb-ap-englang-3.2-study-guide", "mb-ap-englang-3.2-practice", "mb-ap-englang-3.2-checklist"]
+next: "mb-ap-englang-3.2-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition"]
 keyPoints:

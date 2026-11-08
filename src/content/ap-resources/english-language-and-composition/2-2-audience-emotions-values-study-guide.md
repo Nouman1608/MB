@@ -1,5 +1,5 @@
 ---
-resourceId: "mb-ap-lang-2.2-study-guide"
+resourceId: "mb-ap-englang-2.2-study-guide"
 title: "Relating to an Audience’s Emotions and Values: Study Guide (English Language 2.2)"
 course: "english-language-and-composition"
 unit: 2
@@ -16,8 +16,8 @@ learningObjectives:
 skills: ["1", "2"]
 studyMinutes: 40
 difficulty: "core"
-related: ["mb-ap-lang-2.2-revision-notes", "mb-ap-lang-2.2-practice", "mb-ap-lang-2.2-checklist"]
-next: "mb-ap-lang-2.2-practice"
+related: ["mb-ap-englang-2.2-revision-notes", "mb-ap-englang-2.2-practice", "mb-ap-englang-2.2-checklist"]
+next: "mb-ap-englang-2.2-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:
@@ -42,7 +42,7 @@ editorialStatus: "drafted"
 checkedBy: "marlbridge-academic-team"
 checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
-prerequisiteResources: ["mb-ap-lang-2.1-study-guide"]
+prerequisiteResources: ["mb-ap-englang-2.1-study-guide"]
 ---
 
 ## Why feelings belong in an argument

@@ -18,7 +18,7 @@ learningObjectives:
 skills: ["2", "3", "4"]
 studyMinutes: 60
 difficulty: "mixed"
-related: ["mb-ap-lang-2.7-study-guide", "mb-ap-lang-3.1-study-guide", "mb-ap-englang-exam-skills-multiple-choice"]
+related: ["mb-ap-englang-2.7-study-guide", "mb-ap-englang-3.1-study-guide", "mb-ap-englang-exam-skills-multiple-choice"]
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:

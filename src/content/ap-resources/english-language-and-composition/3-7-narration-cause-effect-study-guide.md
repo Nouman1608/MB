@@ -1,5 +1,5 @@
 ---
-resourceId: "mb-ap-lang-3.7-study-guide"
+resourceId: "mb-ap-englang-3.7-study-guide"
 title: "Developing Ideas Through Narration and Cause-Effect: Study Guide (English Language 3.7)"
 course: "english-language-and-composition"
 unit: 3
@@ -17,8 +17,8 @@ learningObjectives:
 skills: ["5", "6"]
 studyMinutes: 40
 difficulty: "core"
-related: ["mb-ap-lang-3.7-revision-notes", "mb-ap-lang-3.7-practice", "mb-ap-lang-3.7-checklist"]
-next: "mb-ap-lang-3.7-practice"
+related: ["mb-ap-englang-3.7-revision-notes", "mb-ap-englang-3.7-practice", "mb-ap-englang-3.7-checklist"]
+next: "mb-ap-englang-3.7-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:
@@ -43,7 +43,7 @@ editorialStatus: "drafted"
 checkedBy: "marlbridge-academic-team"
 checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
-prerequisiteResources: ["mb-ap-lang-3.6-study-guide"]
+prerequisiteResources: ["mb-ap-englang-3.6-study-guide"]
 ---
 
 ## Two methods, two promises

@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-1.5-practice"
+resourceId: "mb-ap-englang-1.5-practice"
 title: "Evidence and Its Types: Practice Questions (English Language 1.5)"
 course: "english-language-and-composition"
 unit: 1
 topics: ["1.5"]
 resourceType: "practice-questions"
 description: "Eight original Marlbridge practice questions on the types of evidence and how to judge whether evidence fits a claim, with answers, distractor analysis and suggested rubrics."
-prerequisiteResources: ["mb-ap-lang-1.5-study-guide"]
+prerequisiteResources: ["mb-ap-englang-1.5-study-guide"]
 learningObjectives:
   - "Name and recognise the main types of evidence"
   - "Tell evidence from claims"
@@ -15,8 +15,8 @@ learningObjectives:
 skills: ["3", "4"]
 studyMinutes: 45
 difficulty: "mixed"
-related: ["mb-ap-lang-1.5-study-guide", "mb-ap-lang-1.5-revision-notes", "mb-ap-lang-1.5-checklist"]
-next: "mb-ap-lang-1.5-checklist"
+related: ["mb-ap-englang-1.5-study-guide", "mb-ap-englang-1.5-revision-notes", "mb-ap-englang-1.5-checklist"]
+next: "mb-ap-englang-1.5-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:

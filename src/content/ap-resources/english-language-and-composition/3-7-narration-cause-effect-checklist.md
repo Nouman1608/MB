@@ -1,5 +1,5 @@
 ---
-resourceId: "mb-ap-lang-3.7-checklist"
+resourceId: "mb-ap-englang-3.7-checklist"
 title: "Developing Ideas Through Narration and Cause-Effect: Topic Checklist (English Language 3.7)"
 course: "english-language-and-composition"
 unit: 3
@@ -11,7 +11,7 @@ learningObjectives:
 skills: ["5", "6"]
 studyMinutes: 10
 difficulty: "core"
-related: ["mb-ap-lang-3.7-study-guide", "mb-ap-lang-3.7-revision-notes", "mb-ap-lang-3.7-practice"]
+related: ["mb-ap-englang-3.7-study-guide", "mb-ap-englang-3.7-revision-notes", "mb-ap-englang-3.7-practice"]
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition"]
 keyPoints:

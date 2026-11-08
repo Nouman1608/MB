@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-1.4-revision-notes"
+resourceId: "mb-ap-englang-1.4-revision-notes"
 title: "Claims That Need a Defence: Revision Notes (English Language 1.4)"
 course: "english-language-and-composition"
 unit: 1
 topics: ["1.4"]
 resourceType: "revision-notes"
 description: "One-page recap of claims that require a defence, and how they differ from facts, topics and preferences, with a quick self-check and the mistakes to avoid."
-prerequisiteResources: ["mb-ap-lang-1.4-study-guide"]
+prerequisiteResources: ["mb-ap-englang-1.4-study-guide"]
 learningObjectives:
   - "Define a claim and say why it requires a defence"
   - "Tell claims from facts, topics and preferences"
@@ -14,8 +14,8 @@ learningObjectives:
 skills: ["3", "4"]
 studyMinutes: 10
 difficulty: "core"
-related: ["mb-ap-lang-1.4-study-guide", "mb-ap-lang-1.4-practice", "mb-ap-lang-1.4-checklist"]
-next: "mb-ap-lang-1.4-practice"
+related: ["mb-ap-englang-1.4-study-guide", "mb-ap-englang-1.4-practice", "mb-ap-englang-1.4-checklist"]
+next: "mb-ap-englang-1.4-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition"]
 keyPoints:

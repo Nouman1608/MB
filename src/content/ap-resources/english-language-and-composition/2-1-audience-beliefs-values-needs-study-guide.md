@@ -1,5 +1,5 @@
 ---
-resourceId: "mb-ap-lang-2.1-study-guide"
+resourceId: "mb-ap-englang-2.1-study-guide"
 title: "Writing for an Audience’s Beliefs, Values and Needs: Study Guide (English Language 2.1)"
 course: "english-language-and-composition"
 unit: 2
@@ -17,8 +17,8 @@ learningObjectives:
 skills: ["1", "2"]
 studyMinutes: 40
 difficulty: "core"
-related: ["mb-ap-lang-2.1-revision-notes", "mb-ap-lang-2.1-practice", "mb-ap-lang-2.1-checklist"]
-next: "mb-ap-lang-2.1-practice"
+related: ["mb-ap-englang-2.1-revision-notes", "mb-ap-englang-2.1-practice", "mb-ap-englang-2.1-checklist"]
+next: "mb-ap-englang-2.1-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:
@@ -43,7 +43,7 @@ editorialStatus: "drafted"
 checkedBy: "marlbridge-academic-team"
 checkedDate: 2026-11-08
 author: "marlbridge-academic-team"
-prerequisiteResources: ["mb-ap-lang-1.6-study-guide"]
+prerequisiteResources: ["mb-ap-englang-1.6-study-guide"]
 ---
 
 ## From "who is the audience?" to "what does this audience need?"

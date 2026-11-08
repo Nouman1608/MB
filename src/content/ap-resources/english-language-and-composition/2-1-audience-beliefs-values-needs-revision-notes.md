@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-2.1-revision-notes"
+resourceId: "mb-ap-englang-2.1-revision-notes"
 title: "Writing for an Audience’s Beliefs, Values and Needs: Revision Notes (English Language 2.1)"
 course: "english-language-and-composition"
 unit: 2
 topics: ["2.1"]
 resourceType: "revision-notes"
 description: "One-page recap of how writers respond to an audience's beliefs, values and needs, with a quick self-check and the mistakes to avoid."
-prerequisiteResources: ["mb-ap-lang-2.1-study-guide"]
+prerequisiteResources: ["mb-ap-englang-2.1-study-guide"]
 learningObjectives:
   - "Analyse an audience through beliefs, values, needs and background"
   - "Explain how a writer's choices show an understanding of the audience"
@@ -14,8 +14,8 @@ learningObjectives:
 skills: ["1", "2"]
 studyMinutes: 10
 difficulty: "core"
-related: ["mb-ap-lang-2.1-study-guide", "mb-ap-lang-2.1-practice", "mb-ap-lang-2.1-checklist"]
-next: "mb-ap-lang-2.1-practice"
+related: ["mb-ap-englang-2.1-study-guide", "mb-ap-englang-2.1-practice", "mb-ap-englang-2.1-checklist"]
+next: "mb-ap-englang-2.1-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition"]
 keyPoints:

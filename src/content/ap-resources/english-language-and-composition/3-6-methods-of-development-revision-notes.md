@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-3.6-revision-notes"
+resourceId: "mb-ap-englang-3.6-revision-notes"
 title: "Methods of Development: Revision Notes (English Language 3.6)"
 course: "english-language-and-composition"
 unit: 3
 topics: ["3.6"]
 resourceType: "revision-notes"
 description: "One-page recap of the typical methods of development and how to choose among them, with a quick self-check and the mistakes to avoid."
-prerequisiteResources: ["mb-ap-lang-3.6-study-guide"]
+prerequisiteResources: ["mb-ap-englang-3.6-study-guide"]
 learningObjectives:
   - "Name and define the typical methods of development"
   - "Recognise the dominant method in a paragraph from its signals"
@@ -14,8 +14,8 @@ learningObjectives:
 skills: ["5", "6"]
 studyMinutes: 10
 difficulty: "core"
-related: ["mb-ap-lang-3.6-study-guide", "mb-ap-lang-3.6-practice", "mb-ap-lang-3.6-checklist"]
-next: "mb-ap-lang-3.6-practice"
+related: ["mb-ap-englang-3.6-study-guide", "mb-ap-englang-3.6-practice", "mb-ap-englang-3.6-checklist"]
+next: "mb-ap-englang-3.6-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition"]
 keyPoints:

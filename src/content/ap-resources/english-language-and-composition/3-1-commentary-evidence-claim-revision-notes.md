@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-3.1-revision-notes"
+resourceId: "mb-ap-englang-3.1-revision-notes"
 title: "Commentary That Links Evidence to a Claim: Revision Notes (English Language 3.1)"
 course: "english-language-and-composition"
 unit: 3
 topics: ["3.1"]
 resourceType: "revision-notes"
 description: "One-page recap of commentary that links evidence to a claim, with a quick self-check and the mistakes to avoid."
-prerequisiteResources: ["mb-ap-lang-3.1-study-guide"]
+prerequisiteResources: ["mb-ap-englang-3.1-study-guide"]
 learningObjectives:
   - "Explain what commentary is and why evidence needs it"
   - "Distinguish weak commentary (repeating, labelling) from strong commentary (explaining, connecting, extending)"
@@ -14,8 +14,8 @@ learningObjectives:
 skills: ["3", "4"]
 studyMinutes: 10
 difficulty: "core"
-related: ["mb-ap-lang-3.1-study-guide", "mb-ap-lang-3.1-practice", "mb-ap-lang-3.1-checklist"]
-next: "mb-ap-lang-3.1-practice"
+related: ["mb-ap-englang-3.1-study-guide", "mb-ap-englang-3.1-practice", "mb-ap-englang-3.1-checklist"]
+next: "mb-ap-englang-3.1-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition"]
 keyPoints:

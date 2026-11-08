@@ -1,5 +1,5 @@
 ---
-resourceId: "mb-ap-lang-2.3-checklist"
+resourceId: "mb-ap-englang-2.3-checklist"
 title: "Appeals: The Modes of Persuasion: Topic Checklist (English Language 2.3)"
 course: "english-language-and-composition"
 unit: 2
@@ -11,8 +11,8 @@ learningObjectives:
 skills: ["1", "2"]
 studyMinutes: 10
 difficulty: "core"
-related: ["mb-ap-lang-2.3-study-guide", "mb-ap-lang-2.3-revision-notes", "mb-ap-lang-2.3-practice"]
-next: "mb-ap-lang-2.4-study-guide"
+related: ["mb-ap-englang-2.3-study-guide", "mb-ap-englang-2.3-revision-notes", "mb-ap-englang-2.3-practice"]
+next: "mb-ap-englang-2.4-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition"]
 keyPoints:

@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-1.3-practice"
+resourceId: "mb-ap-englang-1.3-practice"
 title: "Audience and Context: Practice Questions (English Language 1.3)"
 course: "english-language-and-composition"
 unit: 1
 topics: ["1.3"]
 resourceType: "practice-questions"
 description: "Eight original Marlbridge practice questions on audience and context: who a text addresses and in what time, place and occasion, with answers, distractor analysis and suggested rubrics."
-prerequisiteResources: ["mb-ap-lang-1.3-study-guide"]
+prerequisiteResources: ["mb-ap-englang-1.3-study-guide"]
 learningObjectives:
   - "Describe an audience's shared beliefs, values, needs and background from evidence in a text"
   - "Identify primary and secondary audiences"
@@ -15,8 +15,8 @@ learningObjectives:
 skills: ["1", "2"]
 studyMinutes: 45
 difficulty: "mixed"
-related: ["mb-ap-lang-1.3-study-guide", "mb-ap-lang-1.3-revision-notes", "mb-ap-lang-1.3-checklist"]
-next: "mb-ap-lang-1.3-checklist"
+related: ["mb-ap-englang-1.3-study-guide", "mb-ap-englang-1.3-revision-notes", "mb-ap-englang-1.3-checklist"]
+next: "mb-ap-englang-1.3-checklist"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition", "page-english-language-and-composition"]
 keyPoints:

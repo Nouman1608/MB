@@ -1,12 +1,12 @@
 ---
-resourceId: "mb-ap-lang-3.4-revision-notes"
+resourceId: "mb-ap-englang-3.4-revision-notes"
 title: "Commentary Across a Whole Argument: Revision Notes (English Language 3.4)"
 course: "english-language-and-composition"
 unit: 3
 topics: ["3.4"]
 resourceType: "revision-notes"
 description: "One-page recap of commentary that explains relevance and significance across a whole argument, with a quick self-check and the mistakes to avoid."
-prerequisiteResources: ["mb-ap-lang-3.4-study-guide"]
+prerequisiteResources: ["mb-ap-englang-3.4-study-guide"]
 learningObjectives:
   - "Distinguish relevance from significance in commentary"
   - "Use evidence-, paragraph-, bridge- and thesis-level commentary"
@@ -14,8 +14,8 @@ learningObjectives:
 skills: ["5", "6"]
 studyMinutes: 10
 difficulty: "core"
-related: ["mb-ap-lang-3.4-study-guide", "mb-ap-lang-3.4-practice", "mb-ap-lang-3.4-checklist"]
-next: "mb-ap-lang-3.4-practice"
+related: ["mb-ap-englang-3.4-study-guide", "mb-ap-englang-3.4-practice", "mb-ap-englang-3.4-checklist"]
+next: "mb-ap-englang-3.4-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-english-language-and-composition"]
 keyPoints:
