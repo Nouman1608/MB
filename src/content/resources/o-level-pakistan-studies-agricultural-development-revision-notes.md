@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-environment-2059"
     subtopic: "agricultural-development-2059"
-description: "Revision notes on farm systems, crop and livestock areas, irrigation, waterlogging and land reform for Cambridge O Level Pakistan Studies 2059 Paper 2 Section 4."
+description: "Revision notes on farm systems, crops, livestock, irrigation, waterlogging and land reform for Cambridge O Level Pakistan Studies 2059 Paper 2 Section 4."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false

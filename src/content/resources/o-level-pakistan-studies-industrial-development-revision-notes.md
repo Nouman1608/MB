@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-environment-2059"
     subtopic: "industrial-development-2059"
-description: "Revision notes on industry terms, the ten named industries, informal work, export zones and tourism for Cambridge O Level Pakistan Studies 2059 Paper 2 Section 5."
+description: "Revision notes on industry terms, ten named industries, informal work, export zones and tourism for Cambridge O Level Pakistan Studies 2059 Paper 2 Section 5."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
