@@ -181,6 +181,20 @@ These questions cover the first part of section 8.1.1 of the Cambridge Internati
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 tax, subsidy and price control questions from past papers?**
+No. They are original practice questions with worked answers covering the first part of section 8.1.1 of the Cambridge International AS & A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**What are common mistakes in ad valorem tax calculations?**
+A common error is treating an ad valorem rate as a percentage of the equilibrium price rather than of the sellers' price. Another is mixing up the price buyers pay and the price sellers keep.
+
+**What quantity is traded when a price control binds?**
+The short side of the market decides the quantity traded, so use the lower of quantity demanded and quantity supplied. Using the demand quantity under a binding maximum price overstates the quantity traded.
+
+**How should you answer a question asking you to choose a policy for a negative externality?**
+Reach a decision and state the condition it depends on. Listing the possible policies without choosing one loses marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics (9708), syllabus for examination in 2026, 2027 and 2028, published by Cambridge International, section 8.1.1.

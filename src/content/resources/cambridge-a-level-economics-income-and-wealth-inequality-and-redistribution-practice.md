@@ -155,6 +155,20 @@ Links: [Cambridge A Level Economics hub](/boards/cambridge/a-level/economics/), 
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 income and wealth inequality questions from past papers?**
+No. They are original practice questions with worked answers covering section 3.3, Addressing income and wealth inequality, of the Cambridge International AS & A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**What are common mistakes in progressive tax calculations?**
+A common slip is taxing the whole income at the top rate instead of taxing each band separately. Another is giving the marginal rate when the question asks for the average rate.
+
+**How do you read a change in the Gini coefficient?**
+A lower Gini coefficient means less inequality and a higher one means more. Interpreting a rising Gini coefficient as a move towards equality is a frequent error.
+
+**How do you calculate unemployment caused by a minimum wage?**
+Unemployment is the excess supply of labour at the new wage, supply minus demand, not the fall in employment. Saying a minimum wage always causes job losses, without referring to elasticity, also loses marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International), section 3.3.

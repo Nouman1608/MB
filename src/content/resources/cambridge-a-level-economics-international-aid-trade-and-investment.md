@@ -248,6 +248,20 @@ Inflows that pay for productive investment are safer than inflows chasing short-
 - Describing tied aid without saying the cost is a price premium.
 - Writing "trade not aid" with no evaluation of rich-country barriers.
 
+## Frequently asked questions
+
+**Which Cambridge 9708 sections does this international aid, trade and investment guide cover?**
+It covers sections 11.5.1, international aid, and 11.5.2, trade and investment, of topic 11, International economic issues, in the Cambridge International AS & A Level Economics 9708 syllabus. Topic 11 is A Level content.
+
+**What is the savings gap model of aid?**
+Investment needed equals target growth multiplied by the capital-output ratio, and the savings gap is that investment minus domestic saving. It is a simple model, not a syllabus formula, and it assumes every unit of aid is invested.
+
+**Is all international aid good for developing countries?**
+Not necessarily. Treating all aid as good or all as bad is a common error; weigh the type of aid, the recipient's institutions and the alternatives before reaching a conclusion.
+
+**What is the difference between bilateral and multilateral aid?**
+Bilateral aid is delivered directly from one government to another, while multilateral aid is delivered through international organisations. The distinction is about who delivers the aid, not who pays.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, sections 11.5.1 and 11.5.2.

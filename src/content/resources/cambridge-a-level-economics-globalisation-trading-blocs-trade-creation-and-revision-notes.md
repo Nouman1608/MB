@@ -207,6 +207,23 @@ Domestic cost 80 cu. Partner 70 cu, outsider 90 cu, tariff 25%.
 - Making a final judgement without conditions such as elasticity, cost gaps or time period.
 - Leaving out discrimination against non-members as a feature of every bloc.
 
+## Frequently asked questions
+
+**What is the difference between trade creation and trade diversion?**
+Trade creation happens when domestic output is replaced by cheaper imports from a partner, which is a gain in efficiency. Trade diversion happens when imports from a cheaper outside producer are replaced by dearer imports from a partner.
+
+**What is the difference between a free trade area and a customs union?**
+In a free trade area each member keeps its own tariffs on outsiders, while a customs union has a common external tariff. Writing that a free trade area has a common external tariff is a common error.
+
+**What is trade deflection?**
+Trade deflection happens in a free trade area when goods enter through the member with the lowest tariff. This is why a free trade area needs rules of origin.
+
+**What are the costs of joining a monetary union?**
+Members share one interest rate and lose the option of devaluation to absorb a shock, so adjustment falls on wages and other domestic variables. Gains include no conversion costs, no exchange rate risk among members and price transparency.
+
+**How do you calculate an intra-bloc trade share?**
+Divide intra-bloc trade by total trade and multiply by 100. A rising share alone does not prove trade creation; compare it with imports from outside the bloc.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge Assessment International Education), section 11.6.

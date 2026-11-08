@@ -126,6 +126,20 @@ These questions cover section 11.6 (outcomes 11.6.1 to 11.6.3) of the Cambridge 
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to find weak spots.
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 globalisation and trading bloc questions from past papers?**
+No. They are original practice questions with worked answers covering section 11.6, outcomes 11.6.1 to 11.6.3 of the Cambridge International AS & A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**What are common mistakes in trade creation and trade diversion questions?**
+A frequent error is comparing supplier costs without adding the tariff, so the cheapest source is misjudged. Another is calling every rise in trade within a bloc trade creation without checking what happened to imports from outside.
+
+**How do you work out the cheapest source of a good when there is a tariff?**
+Calculate the landed price of each import as the supplier price multiplied by one plus the tariff rate, then compare it with the domestic cost. Show this landed-price comparison before and after the union.
+
+**How should you write an essay on whether globalisation or a customs union is beneficial?**
+Weigh the gains and costs against each other and say which matters more and why, using conditions such as cost gaps, elasticity or time period. Essays that list gains then costs and stop earn less.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge Assessment International Education), section 11.6.

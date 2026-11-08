@@ -245,6 +245,23 @@ Strengths: cheap, keeps choice, no price rise. Limits: slow, uncertain, may be i
 - One-sided answers with no judgement on size, time or fairness.
 - Confusing percentage and percentage-point changes.
 
+## Frequently asked questions
+
+**What is tax incidence?**
+Tax incidence is how the burden of a tax is shared between consumers and producers, which is not the same as who pays the cash. The less elastic side of the market bears the bigger share.
+
+**How do you calculate the consumer and producer shares of a specific tax?**
+Find the equilibrium, replace P in the supply equation with P minus the tax and solve again. The consumer share is the rise in price paid, the producer share is the tax minus that, and each is multiplied by the new quantity.
+
+**How does a buffer stock scheme work?**
+An agency sets a floor and a ceiling price for a storable good with variable harvests. It buys when a good harvest would push the price below the floor and sells from its stock when a poor harvest would push it above the ceiling.
+
+**What are the weaknesses of buffer stock schemes?**
+The stock can run out after consecutive poor years, storage is costly, and a band set away from the long-run price drifts into a permanent surplus or shortage.
+
+**Does a tax shift the demand curve?**
+No. A tax shifts supply upward and a subsidy shifts supply downward; neither shifts demand.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics (9708), syllabus for examination in 2026, 2027 and 2028, published by Cambridge International, topic 3, section 3.2.

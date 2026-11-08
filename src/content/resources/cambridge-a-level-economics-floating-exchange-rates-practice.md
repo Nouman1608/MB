@@ -132,6 +132,20 @@ Calculate the price of the frame in miras and the price of the export in pells. 
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 floating exchange rate questions from past papers?**
+No. They are original practice questions with worked answers covering section 6.4, Exchange rates, outcomes 6.4.1 to 6.4.5 of the Cambridge International AS and A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**What are common mistakes in exchange rate conversion questions?**
+Common slips are not stating which currency is being priced, mixing up multiply and divide when converting prices, and giving the same percentage change for both currencies.
+
+**Why is the percentage change different for each currency?**
+The rate for the partner currency is the inverse of the original rate, so its percentage change must be calculated from the inverse rate. Using the same percentage for both currencies is a frequent error.
+
+**What should an AD/AS answer on exchange rate changes include?**
+Link the change to net exports and the AD shift, then state the effects on real output, the price level and employment. Stopping at "AD shifts left", or forgetting one of the variables asked for, loses marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International), section 6.4 Exchange rates.

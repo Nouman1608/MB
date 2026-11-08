@@ -251,6 +251,20 @@ Evaluation: profit-linked pay can encourage short-term thinking or risky behavio
 - Forgetting that a cartel is unstable, and missing the incentive to cheat.
 - Confusing the principal (owner) and the agent (manager).
 
+## Frequently asked questions
+
+**Is growth and survival of firms AS or A Level content in Cambridge 9708?**
+Section 7.7 is in topic 7, which the syllabus places at A Level, so it is not on the AS papers. It covers reasons for different sizes of firms, internal and external growth, cartels and the principal-agent problem.
+
+**What is the difference between organic growth and external growth?**
+Organic, or internal, growth comes from within the firm, for example by selling more or diversifying into new products. External growth comes from joining another firm through a merger or takeover.
+
+**What is the difference between a merger and a takeover?**
+A merger is an agreed combination of two firms, while a takeover is the purchase of control of one firm by another.
+
+**Does a merger always cut costs?**
+No. A merger may give economies of scale, but it may also raise costs through diseconomies of scale if the new firm becomes too large to manage.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, section 7.7 (Cambridge University Press & Assessment).

@@ -255,6 +255,23 @@ Each year inflation rises by 0.8 points, the gap between the natural rate and ac
 - Giving only one side. Paper 4 essays need evidence of evaluation, so add a judgement on the short or long run, size, or likelihood.
 - Quoting a result without showing the working in a calculation.
 
+## Frequently asked questions
+
+**What is the difference between the internal and external value of money?**
+The internal value of money is its purchasing power at home, linked to the price level. The external value is what it buys abroad, shown by the exchange rate.
+
+**What is the natural rate of unemployment in the expectations-augmented Phillips curve?**
+The natural rate of unemployment is the rate at which actual inflation equals expected inflation. The long-run Phillips curve is vertical at this rate.
+
+**What happens if a government holds unemployment below the natural rate?**
+Expected inflation keeps rising, so the short-run Phillips curve shifts up each year and inflation accelerates. The short-run trade-off exists only for a while.
+
+**How can economic growth worsen the balance of payments?**
+Growth raises incomes, and imports rise by the income elasticity of demand for imports times the growth in income. If exports do not grow as fast, the trade balance worsens.
+
+**Can an economy grow without inflation?**
+Supply-led growth, from shifts in long-run aggregate supply, allows growth with low inflation. Demand-led growth near full capacity tends to cause demand-pull inflation.
+
 ## Official syllabus
 
 Cambridge International AS and A Level Economics (9708) syllabus for examination in 2026, 2027 and 2028, Cambridge University Press & Assessment, sections 10.1.1 and 10.2.1 to 10.2.5.

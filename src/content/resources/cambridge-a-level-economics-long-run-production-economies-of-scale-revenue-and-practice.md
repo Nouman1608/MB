@@ -160,6 +160,20 @@ These questions cover statements 7.5.3 to 7.5.10 of the Cambridge International 
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Ready for live teaching? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 economies of scale questions from past papers?**
+No. They are original practice questions with worked answers covering statements 7.5.3 to 7.5.10 of the Cambridge International AS & A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**What are common mistakes in minimum efficient scale questions?**
+A common slip is rounding a figure such as 6.5 firms up to 7, because a seventh firm could not reach minimum efficient scale. Show each division and keep the working visible.
+
+**How do you calculate marginal revenue?**
+Marginal revenue is the change in total revenue divided by the change in output. Dividing total revenue by quantity gives average revenue, which is price, not MR.
+
+**Is accounting profit the same as supernormal profit?**
+No. Normal profit must be deducted from accounting profit before you can call it supernormal, and a positive accounting profit can still be below normal profit. State "below normal profit" explicitly when the answer is subnormal.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment: statements 7.5.3 to 7.5.10.

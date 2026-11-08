@@ -233,6 +233,20 @@ So information can reach the goal at a lower cost than a heavy tax when demand i
 - Saying a maximum price causes a surplus.
 - Giving only advantages: always weigh costs, elasticity, time and who gains.
 
+## Frequently asked questions
+
+**Is government intervention in markets AS or A Level content in Cambridge 9708?**
+Section 3.2 is in topic 3, which is AS Level content in the Cambridge International AS & A Level Economics 9708 syllabus. A Level candidates need it as assumed knowledge for Papers 3 and 4.
+
+**What methods of government intervention does Cambridge 9708 section 3.2 cover?**
+It covers specific indirect taxes, subsidies, direct provision, maximum and minimum prices, buffer stock schemes and provision of information.
+
+**Does a maximum price cause a surplus?**
+No. A maximum price set below equilibrium causes a shortage, while a minimum price set above equilibrium causes a surplus. A price cap set above equilibrium has no effect.
+
+**What does the producer receive after a specific tax?**
+The producer's share is the price received after the tax is paid, not the market price. Forgetting this is a common error.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics (9708), syllabus for examination in 2026, 2027 and 2028, published by Cambridge International, topic 3, section 3.2.

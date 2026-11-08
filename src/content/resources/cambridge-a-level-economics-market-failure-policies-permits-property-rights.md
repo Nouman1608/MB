@@ -230,6 +230,20 @@ Orders only 12: net benefit 1,008, loss = 192
 - Describing government failure as the policy being unpopular, rather than a worse allocation.
 - Listing evaluation points with no link to the context in the question.
 
+## Frequently asked questions
+
+**Which Cambridge 9708 sections does this market failure policies guide cover?**
+It covers part of section 8.1.1 and all of 8.1.2 of the Cambridge International AS & A Level Economics 9708 syllabus: pollution permits, property rights, nationalisation and privatisation, provision of information, behavioural insights and nudge theory, and government failure.
+
+**Do pollution permits ban pollution?**
+No. Pollution permits cap the total amount of pollution and allow firms to trade the right to pollute. Writing that permits "ban" pollution is a common error.
+
+**What is the difference between nationalisation and privatisation?**
+Nationalisation moves ownership of a firm or industry towards the state, while privatisation moves ownership away from the state to the private sector.
+
+**Is an unpopular policy an example of government failure?**
+Not necessarily. Government failure means a policy leads to a worse allocation of resources than before, not simply that the policy is unpopular.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, Cambridge University Press & Assessment. Sections covered: 8.1.1 (pollution permits, property rights, nationalisation and privatisation, provision of information, behavioural insights and nudge theory) and 8.1.2.

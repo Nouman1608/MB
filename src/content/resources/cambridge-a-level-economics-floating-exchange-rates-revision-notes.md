@@ -202,6 +202,23 @@ A good evaluation names the factor that matters most for the case in the questio
 </figure>
 
 
+## Frequently asked questions
+
+**What is the difference between depreciation and devaluation?**
+Depreciation is a fall in a floating exchange rate caused by market forces. Devaluation is a government decision to lower a fixed exchange rate.
+
+**Does a change in the exchange rate shift the currency demand curve?**
+No. A change in the rate itself causes a movement along the demand and supply curves for the currency. Other causes, such as changes in interest rates, incomes or expectations, shift the curves.
+
+**How does a depreciation affect aggregate demand?**
+Exports become cheaper abroad and imports dearer at home, so net exports rise and AD shifts right. The effect on output and the price level depends on how much spare capacity there is.
+
+**Why can a depreciation reduce short-run aggregate supply?**
+A depreciation raises the cost of imported raw materials and components, which raises firms' costs. Imported input costs enter SRAS, while net exports enter AD.
+
+**Is a weak currency always bad for an economy?**
+No. A weak currency makes exports cheaper and can raise net exports and AD, although it also raises import costs. The overall effect depends on spare capacity, how responsive trade is and how much production relies on imported inputs.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International), section 6.4 Exchange rates.

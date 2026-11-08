@@ -165,6 +165,20 @@ These questions follow sections 11.5.1 and 11.5.2 of the Cambridge International
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are these Cambridge 9708 international aid questions from past papers?**
+No. They are original practice questions with worked answers covering sections 11.5.1 and 11.5.2 of the Cambridge International AS & A Level Economics 9708 syllabus. Use them alongside official past papers.
+
+**What are common mistakes in questions on international aid?**
+Common errors include giving the total amount of aid without relating it to GNI or population, saying tied aid is "bad" without the price premium, and treating aid as automatically invested, ignoring leakage into consumption.
+
+**What are common mistakes in terms of trade calculations?**
+Students often divide by the wrong index or use the later year as the base for a percentage change. Remember too that a fall in the terms of trade need not mean a fall in export revenue.
+
+**How should you answer an essay comparing trade and investment with aid?**
+Weigh the routes against each other for a particular type of country and reach a conclusion about which suits which country. Giving trade and aid as alternatives with no conclusion loses marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Economics 9708, syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, sections 11.5.1 and 11.5.2.
