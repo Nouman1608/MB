@@ -91,7 +91,16 @@ export const apCoursesForSubject = (subjectId: string): readonly ApCourse[] =>
 
 export const apFamilyLabel: Record<ApCourse['family'], string> = {
   chemistry: 'Chemistry', biology: 'Biology', physics: 'Physics', maths: 'Mathematics and statistics', economics: 'Economics',
+  computing: 'Computer science', english: 'English',
 };
+
+/** Heading for a course's practices/skills list on its hub. */
+export const apPracticesLabel = (c: ApCourse): string =>
+  c.family === 'economics' || c.family === 'english' ? 'Course skills'
+    : c.family === 'computing' ? 'Computational thinking practices'
+      : c.slug === 'statistics' ? 'Statistical practices'
+        : c.family === 'maths' ? 'Mathematical practices'
+          : 'Science practices';
 
 export const formatExamDate = (iso: string): string =>
   new Date(`${iso}T00:00:00Z`).toLocaleDateString('en-GB', { weekday: 'short', day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });

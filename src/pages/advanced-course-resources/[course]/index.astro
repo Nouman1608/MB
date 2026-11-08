@@ -19,7 +19,7 @@ import { routes } from '../../../utils/urls/routes';
 import { faqNode } from '../../../utils/schema/faq';
 import { absoluteUrl } from '../../../utils/seo/meta';
 import {
-  apLibraryBuilt, apNoindex, apUrls, apVisibleName, apMetaName, apResourcesForCourse, apTypeLabel, formatExamDate, type ApEntry,
+  apLibraryBuilt, apNoindex, apUrls, apVisibleName, apMetaName, apResourcesForCourse, apTypeLabel, formatExamDate, apPracticesLabel, type ApEntry,
 } from '../../../utils/ap/library';
 import { apDeckFor, apFlashcardsPath, apUnitsWithCards } from '../../../data/ap-flashcards';
 
@@ -52,6 +52,12 @@ const flashcardUnits = apDeckFor(c.slug) ? new Map(apUnitsWithCards(c.slug).map(
 const flashcardTotal = [...flashcardUnits.values()].reduce((n, x) => n + x, 0);
 const mcq = c.sections[0];
 const frq = c.sections[1];
+// English: the CED has no numbered topics, so topics are Marlbridge groupings (src/data/ap/frameworks.ts header).
+const marlbridgeTopics = c.topicSource === 'marlbridge';
+const roadmapIntro = marlbridgeTopics
+  ? `Units numbered as in the 2026–27 Course and Exam Description${c.unitNumbering ? ` (${c.unitNumbering})` : ''}. Topic numbers are Marlbridge's, not official College Board numbers.`
+  : `Units and topics exactly as numbered in the 2026–27 Course and Exam Description${c.unitNumbering ? ` (${c.unitNumbering})` : ''}.`;
+const weightingIntro = c.unitWeightingNote ?? 'Weightings are the official multiple-choice ranges.';
 
 const faqs = [
   { question: `What is on the ${visible} exam in May 2027?`, answer: `${mcq.name.replace('Section I: ', '')}: ${mcq.questions} questions in ${mcq.time} (${mcq.weight} of the score). ${frq.name.replace('Section II: ', '')}: ${frq.questions} questions in ${frq.time} (${frq.weight}). The exam is on ${formatExamDate(c.examDate)}.` },
@@ -120,7 +126,7 @@ const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] t
       <section aria-labelledby="roadmap" class="mt-[clamp(48px,6vw,80px)]">
         <h2 id="roadmap" class={h2}>Unit roadmap</h2>
         <p class="m-0 mb-6 max-w-[72ch] text-[16px] leading-[1.65] text-ink-mute">
-          Units and topics exactly as numbered in the 2026–27 Course and Exam Description{c.unitNumbering ? ` (${c.unitNumbering})` : ''}. Weightings are the official multiple-choice ranges. Marlbridge has written resources for {coveredTopics} of {topicCount} topics so far; the rest are planned and marked as such.
+          {roadmapIntro} {weightingIntro} Marlbridge has written resources for {coveredTopics} of {topicCount} topics so far; the rest are planned and marked as such.
           {bcOnlyCount > 0 && ` ${bcOnlyCount} topics are BC only.`}
         </p>
         {flashcardTotal > 0 && (
@@ -132,7 +138,7 @@ const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] t
               <details open={u.topics.some((t) => forTopic(t.number).length > 0)} class="group">
                 <summary class="flex cursor-pointer list-none flex-wrap items-baseline justify-between gap-x-4 gap-y-1 p-[clamp(16px,2vw,24px)] marker:hidden">
                   <span class="text-[18px] font-semibold text-navy-800">Unit {u.number}: {u.title}{u.bcOnly && <span class="ms-2 rounded-sm bg-navy-800 px-2 py-0.5 align-middle mb-label text-ivory">BC only</span>}</span>
-                  <span class="font-mono text-[12.5px] text-ink-mute">{u.weighting} of multiple choice · {u.topics.length} topics</span>
+                  <span class="font-mono text-[12.5px] text-ink-mute">{c.unitWeightingNote ? u.weighting : `${u.weighting} of multiple choice`} · {u.topics.length} topics</span>
                 </summary>
                 <ul class="m-0 list-none border-t border-rule p-0">
                   {u.topics.map((t) => {
@@ -175,7 +181,7 @@ const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] t
       )}
 
       <section aria-labelledby="practices" class="mt-[clamp(48px,6vw,80px)]">
-        <h2 id="practices" class={h2}>{c.family === 'economics' ? 'Course skills' : c.family === 'maths' && c.slug !== 'statistics' ? 'Mathematical practices' : c.slug === 'statistics' ? 'Statistical practices' : 'Science practices'}</h2>
+        <h2 id="practices" class={h2}>{apPracticesLabel(c)}</h2>
         <dl class="m-0 grid max-w-[960px] gap-x-8 gap-y-4 sm:grid-cols-2">
           {c.practices.map((p) => (
             <div class="border-b border-rule pb-4"><dt class="m-0 text-[16px] font-semibold text-navy-800">{p.number}. {p.name}</dt><dd class="m-0 mt-1 text-[14.5px] leading-[1.6] text-ink-mute">{p.description}</dd></div>

@@ -332,6 +332,10 @@ Monthly group fees per subject by region, last confirmed 2026-08-20. One-to-one 
 - [AP® Physics C: Electricity and Magnetism](https://marlbridge.com/advanced-course-resources/physics-c-electricity-and-magnetism/): 6 units; exam 2027-05-05.
 - [AP® Microeconomics](https://marlbridge.com/advanced-course-resources/microeconomics/): 6 units; exam 2027-05-04.
 - [AP® Macroeconomics](https://marlbridge.com/advanced-course-resources/macroeconomics/): 6 units; exam 2027-05-07.
+- [AP® Computer Science A](https://marlbridge.com/advanced-course-resources/computer-science-a/): 4 units; exam 2027-05-12.
+- [AP® Computer Science Principles](https://marlbridge.com/advanced-course-resources/computer-science-principles/): 5 units; exam 2027-05-14.
+- [AP® English Language and Composition](https://marlbridge.com/advanced-course-resources/english-language-and-composition/): 9 units; exam 2027-05-12.
+- [AP® English Literature and Composition](https://marlbridge.com/advanced-course-resources/english-literature-and-composition/): 9 units; exam 2027-05-05.
 - [Chemistry flashcards (advanced course)](https://marlbridge.com/advanced-course-resources/chemistry/flashcards/): 608 cards in 9 unit sets, 2026-27 framework.
 - [Biology flashcards (advanced course)](https://marlbridge.com/advanced-course-resources/biology/flashcards/): 406 cards in 8 unit sets, 2026-27 framework.
 - [Calculus AB flashcards (advanced course)](https://marlbridge.com/advanced-course-resources/calculus-ab/flashcards/): 511 cards in 8 unit sets, 2026-27 framework.

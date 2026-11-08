@@ -25,7 +25,7 @@ export async function getStaticPaths() {
 
 const path = apUrls.index;
 const resources = await getApResources();
-const families = (['chemistry', 'biology', 'physics', 'maths', 'economics'] as const).map((f) => ({
+const families = (['chemistry', 'biology', 'physics', 'maths', 'economics', 'computing', 'english'] as const).map((f) => ({
   family: f,
   courses: AP_COURSES.filter((c) => c.family === f),
 }));
@@ -34,7 +34,7 @@ const countFor = (slug: string) => resources.filter((r) => r.data.course === slu
 const faqs = [
   {
     question: 'Which school year and exam do these resources follow?',
-    answer: 'Every course page is mapped to the College Board course frameworks for the 2026–27 school year and the May 2027 exams. Unit numbers and titles were checked against each official Course and Exam Description on 5 October 2026.',
+    answer: 'Every course page is mapped to the College Board course frameworks for the 2026–27 school year and the May 2027 exams. Unit numbers and titles were checked against each official Course and Exam Description on 5 October 2026 (8 November 2026 for the computer science and English courses). The English course descriptions do not number their topics, so the English topics are Marlbridge groupings of the official skills, and are labelled as such.',
   },
   {
     question: 'Are these official past papers or College Board questions?',
@@ -62,12 +62,12 @@ const itemList = {
 };
 ---
 <PageLayout
-  title="Advanced Course Study Library: Science, Maths and Economics"
-  description="Free, original study guides, revision notes and practice for 11 US advanced courses in chemistry, biology, physics, calculus, statistics and economics, mapped to the 2026–27 frameworks."
+  title="Advanced Course Study Library: STEM, Economics and English"
+  description="Free, original study guides, revision notes and practice for 15 US advanced courses in sciences, calculus, statistics, economics, computer science and English, mapped to the 2026–27 frameworks."
   path={path}
   eyebrow="Free study library"
   heading="Marlbridge guide to AP® courses"
-  lead="Original study guides, revision notes, practice questions and checklists for eleven AP® courses, written to the 2026–27 College Board course frameworks for the May 2027 exams."
+  lead="Original study guides, revision notes, practice questions and checklists for fifteen AP® courses, written to the 2026–27 College Board course frameworks for the May 2027 exams."
   breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Advanced courses', href: path }]}
   jsonLd={[itemList, ...(faq ? [faq] : [])]}
   noindex={apNoindex()}
@@ -78,6 +78,7 @@ const itemList = {
       <div class="max-w-[72ch] text-[17px] leading-[1.7]">
         <p class="m-0"><strong class="text-navy-800">How to use this library.</strong> Pick your exact course below. Each course page shows the official unit roadmap with exam weightings, the May 2027 exam format, and every Marlbridge resource available for each topic. Start a topic with the study guide, check yourself with the practice questions, then use the revision notes and “I can…” checklist before tests.</p>
         <p class="m-0 mt-4">Physics 1 and Physics 2 are algebra-based; Physics C: Mechanics and Physics C: Electricity and Magnetism use calculus. They are separate courses and exams, so pick the one you are entered for. Calculus BC includes all of Calculus AB plus extra topics, which are labelled “BC only”.</p>
+        <p class="m-0 mt-4">Computer Science A is a Java programming course; Computer Science Principles is a broader introduction with no set language and a Create performance task. English Language and Composition studies nonfiction argument and rhetoric; English Literature and Composition studies fiction, poetry and drama. Resources for these four courses are being written: their course pages already show the full unit roadmap and exam format.</p>
       </div>
 
       {families.map(({ family, courses }) => (

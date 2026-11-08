@@ -448,6 +448,7 @@ const apResources = defineCollection({
     course: z.enum([
       'chemistry', 'biology', 'calculus-ab', 'calculus-bc', 'statistics', 'physics-1', 'physics-2',
       'physics-c-mechanics', 'physics-c-electricity-and-magnetism', 'microeconomics', 'macroeconomics',
+      'computer-science-a', 'computer-science-principles', 'english-language-and-composition', 'english-literature-and-composition',
     ]),
     unit: z.number().int().min(1).max(15),
     /** Official topic numbers covered, e.g. ['1.1']. Empty only for unit/course-level resources. */

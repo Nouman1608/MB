@@ -7,9 +7,9 @@ Enforced by Zod (`apResources` in `src/content.config.ts`) and by `scripts/valid
 | `resourceId` | yes | Permanent unique id, `mb-ap-<course code>-<topic>-<type>`, e.g. `mb-ap-chem-1.1-study-guide`. Never reused. Uniqueness checked. |
 | `title` | yes | ≤110 chars. Neutral wording: no "AP", "Advanced Placement" or "College Board" while `AP_MARK_IN_METADATA` is false. Pattern: `<Topic>: <Type> (<Course> <topic no.>)`. |
 | `description` | yes | 70–220 chars; used as meta description and visible summary. Same neutral-wording rule. |
-| `course` | yes | One of the 11 course slugs in `frameworks.ts`; must match the folder. |
+| `course` | yes | One of the 15 course slugs in `frameworks.ts`; must match the folder. |
 | `unit` | yes | Official unit number (Physics 2 is 9–15; Physics C: E&M is 8–13). Must exist in the course. |
-| `topics` | yes* | Official topic numbers, e.g. `["1.1"]`; must belong to `unit`. Empty only for unit-level resources (diagnostics, reviews). |
+| `topics` | yes* | Official topic numbers, e.g. `["1.1"]`; must belong to `unit`. Empty only for unit-level resources (diagnostics, reviews). For the two English courses these are the Marlbridge topic numbers in `frameworks.ts` (the CEDs have none). |
 | `resourceType` | yes | `study-guide`, `revision-notes`, `practice-questions`, `worked-solutions`, `topic-checklist`, `unit-diagnostic`, `unit-review`, `exam-skills`. |
 | `prerequisites` | no | Plain statements of prior knowledge. |
 | `prerequisiteResources` | no | `resourceId`s to read first (must exist). |

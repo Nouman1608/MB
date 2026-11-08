@@ -1,6 +1,8 @@
 # Verified framework map -- 2026-27 school year, May 2027 exams
 
-Generated 2026-11-08T17:14:06.783Z from `src/data/ap/frameworks.ts` (checked against the official College Board documents in source-register.md on 2026-10-05). Unit and topic titles come from each Course and Exam Description's own bookmarks; weightings are the official multiple-choice ranges from each course page; exam formats are from each course's exam page and the 2026-27 clarifications.
+Generated 2026-11-08T17:47:46.993Z from `src/data/ap/frameworks.ts` (checked against the official College Board documents in source-register.md on 2026-10-05). Unit and topic titles come from each Course and Exam Description's own bookmarks; weightings are the official multiple-choice ranges from each course page; exam formats are from each course's exam page and the 2026-27 clarifications. Courses checked on a later date say so under their heading.
+
+**Exception -- English Language and English Literature:** their CEDs number the units but have no numbered topics (English Language does not title its units either). Their topics (and the English Language unit titles) are Marlbridge groupings of the CED's skills and essential knowledge statements; the CED codes each topic groups are shown in brackets. These topic numbers are not official College Board numbers.
 
 ## AP Chemistry
 
@@ -123,6 +125,7 @@ Generated 2026-11-08T17:14:06.783Z from `src/data/ap/frameworks.ts` (checked aga
 - **Changes:** Multiple choice changed from 40 questions in 80 minutes to 42 questions in 85 minutes; free response changed from 100 to 95 minutes (effective May 2027).
 - **Clarifications:** Fall 2026: resource-location updates; exam timing change only.
 - **Practices/skills:** 1 Creating Representations; 2 Mathematical Routines; 3 Scientific Questioning and Argumentation
+- **Numbering:** Units 1–8
 
 | Unit | Title | MC weighting | Topics |
 |---|---|---|---|
@@ -146,6 +149,7 @@ Generated 2026-11-08T17:14:06.783Z from `src/data/ap/frameworks.ts` (checked aga
 - **Changes:** Multiple choice changed from 40 questions in 80 minutes to 42 questions in 85 minutes; free response changed from 100 to 95 minutes (effective May 2027).
 - **Clarifications:** Fall 2026: EK 15.7.B.1 (radioactive decay) clarified; some exam conventions in the equations table updated.
 - **Practices/skills:** 1 Creating Representations; 2 Mathematical Routines; 3 Scientific Questioning and Argumentation
+- **Numbering:** Units 9–15 (numbering continues from Physics 1)
 
 | Unit | Title | MC weighting | Topics |
 |---|---|---|---|
@@ -168,6 +172,7 @@ Generated 2026-11-08T17:14:06.783Z from `src/data/ap/frameworks.ts` (checked aga
 - **Changes:** Multiple choice changed from 40 questions in 80 minutes to 42 questions in 85 minutes; free response changed from 100 to 95 minutes (effective May 2027).
 - **Clarifications:** Fall 2026: resource-location updates; exam timing change only.
 - **Practices/skills:** 1 Creating Representations; 2 Mathematical Routines; 3 Scientific Questioning and Argumentation
+- **Numbering:** Units 1–7
 
 | Unit | Title | MC weighting | Topics |
 |---|---|---|---|
@@ -190,6 +195,7 @@ Generated 2026-11-08T17:14:06.783Z from `src/data/ap/frameworks.ts` (checked aga
 - **Changes:** Multiple choice changed from 40 questions in 80 minutes to 42 questions in 85 minutes; free response changed from 100 to 95 minutes (effective May 2027).
 - **Clarifications:** Fall 2026: some exam conventions in the equations table updated; exam timing change.
 - **Practices/skills:** 1 Creating Representations; 2 Mathematical Routines; 3 Scientific Questioning and Argumentation
+- **Numbering:** Units 8–13 (numbering continues from Physics C: Mechanics)
 
 | Unit | Title | MC weighting | Topics |
 |---|---|---|---|
@@ -237,3 +243,96 @@ Generated 2026-11-08T17:14:06.783Z from `src/data/ap/frameworks.ts` (checked aga
 | 4 | Financial Sector | 18–23% | 4.1 Financial Assets; 4.2 Nominal v. Real Interest Rates; 4.3 Definition, Measurement, and Functions of Money; 4.4 Banking and the Expansion of the Money Supply; 4.5 The Money Market; 4.6 Monetary Policy; 4.7 The Loanable Funds Market |
 | 5 | Long-Run Consequences of Stabilization Policies | 20–30% | 5.1 Fiscal and Monetary Policy Actions in the Short Run; 5.2 The Phillips Curve; 5.3 Money Growth and Inflation; 5.4 Government Deficits and the National Debt; 5.5 Crowding Out; 5.6 Economic Growth; 5.7 Public Policy and Economic Growth |
 | 6 | Open Economy—International Trade and Finance | 10–13% | 6.1 Balance of Payments Accounts; 6.2 Exchange Rates; 6.3 The Foreign Exchange Market; 6.4 Effect of Changes in Policies and Economic Conditions on the Foreign Exchange Market; 6.5 Changes in the Foreign Exchange Market and Net Exports; 6.6 Real Interest Rates and International Capital Flows |
+
+## AP Computer Science A
+
+Checked 2026-11-08.
+
+- **Exam:** 2027-05-12 (May 2027). Fully digital: both sections answered in the Bluebook app. The Java Quick Reference is provided in Bluebook.
+- **Section I: Multiple choice:** 42 questions, 90 minutes, 55%. Mostly individual questions, occasionally 1–2 sets of 2 questions; All five computational thinking practices are assessed
+- **Section II: Free response:** 4 questions, 90 minutes, 45%. Question 1: Methods and Control Structures (7 points); Question 2: Class Design (7 points); Question 3: Data Analysis with ArrayList (5 points); Question 4: 2D Array (6 points); Answers are written in Java; all four questions assess Practice 2 (Develop Code)
+- **Calculator:** No calculator is allowed on either section. The Java Quick Reference (accessible Java library methods) is provided.
+- **Prerequisites (CED):** A first-year high-school algebra course with a strong foundation in linear functions, composition of functions and problem solving, and the ability to use a Cartesian (x, y) coordinate system, per the CED. Programs are written in Java (the exam covers a subset of the language).
+- **Laboratory:** The CED requires at least 20 hours of hands-on, structured lab work in which students design, write, test and correct programs.
+- **Clarifications:** The clarifications document (implemented August 2025) is editorial: front matter, plus forthcoming updates to resource links and Progress Check wording. No change to units, topics or the exam is listed.
+- **Practices/skills:** 1 Design Code; 2 Develop Code; 3 Analyze Code; 4 Document Code and Computing Systems; 5 Use Computers Responsibly
+
+| Unit | Title | MC weighting | Topics |
+|---|---|---|---|
+| 1 | Using Objects and Methods | 15–25% | 1.1 Introduction to Algorithms, Programming, and Compilers; 1.2 Variables and Data Types; 1.3 Expressions and Output; 1.4 Assignment Statements and Input; 1.5 Casting and Range of Variables; 1.6 Compound Assignment Operators; 1.7 Application Program Interface (API) and Libraries; 1.8 Documentation with Comments; 1.9 Method Signatures; 1.10 Calling Class Methods; 1.11 Math Class; 1.12 Objects: Instances of Classes; 1.13 Object Creation and Storage (Instantiation); 1.14 Calling Instance Methods; 1.15 String Manipulation |
+| 2 | Selection and Iteration | 25–35% | 2.1 Algorithms with Selection and Repetition; 2.2 Boolean Expressions; 2.3 if Statements; 2.4 Nested if Statements; 2.5 Compound Boolean Expressions; 2.6 Comparing Boolean Expressions; 2.7 while Loops; 2.8 for Loops; 2.9 Implementing Selection and Iteration Algorithms; 2.10 Implementing String Algorithms; 2.11 Nested Iteration; 2.12 Informal Run-Time Analysis |
+| 3 | Class Creation | 10–18% | 3.1 Abstraction and Program Design; 3.2 Impact of Program Design; 3.3 Anatomy of a Class; 3.4 Constructors; 3.5 Methods: How to Write Them; 3.6 Methods: Passing and Returning References of an Object; 3.7 Class Variables and Methods; 3.8 Scope and Access; 3.9 this Keyword |
+| 4 | Data Collections | 30–40% | 4.1 Ethical and Social Issues Around Data Collection; 4.2 Introduction to Using Data Sets; 4.3 Array Creation and Access; 4.4 Array Traversals; 4.5 Implementing Array Algorithms; 4.6 Using Text Files; 4.7 Wrapper Classes; 4.8 ArrayList Methods; 4.9 ArrayList Traversals; 4.10 Implementing ArrayList Algorithms; 4.11 2D Array Creation and Access; 4.12 2D Array Traversals; 4.13 Implementing 2D Array Algorithms; 4.14 Searching Algorithms; 4.15 Sorting Algorithms; 4.16 Recursion; 4.17 Recursive Searching and Sorting |
+
+## AP Computer Science Principles
+
+Checked 2026-11-08.
+
+- **Exam:** 2027-05-14 (May 2027). Through-course and end-of-course: the Create performance task (program code, video and Personalized Project Reference) is completed in class and submitted in the AP Digital Portfolio by 30 April 2027, 11:59 p.m. ET; the end-of-course exam is fully digital in the Bluebook app.
+- **Section I: Multiple choice:** 70 questions, 120 minutes, 70%. 57 single-select questions; 5 single-select questions on a reading passage about a computing innovation; 8 multiple-select questions (select 2 answers); 4 answer options; the Exam Reference Sheet is provided
+- **Section II: Create performance task:** 2 questions, 60 minutes on exam day, after at least 9 hours of in-class work on the task, 30%. Program code, video and Personalized Project Reference submitted by 30 April 2027; 2 written-response questions (4 prompts: 1, 2(a), 2(b), 2(c)) about the student’s own program, answered with the Personalized Project Reference
+- **Calculator:** No calculator is allowed. The Exam Reference Sheet (block-based and text-based programming constructs) is provided.
+- **Prerequisites (CED):** A first-year high-school algebra course with a strong foundation in linear functions, composition of functions and problem solving, and the ability to use a Cartesian (x, y) coordinate system, per the CED. No prior computer science experience is required, and the course has no set programming language.
+- **Clarifications:** The clarifications document (implemented August 2025) is editorial (front matter only), and none are forthcoming. No change to big ideas, topics or the exam is listed. The CED in use is the Fall 2023 edition.
+- **Practices/skills:** 1 Computational Solution Design; 2 Algorithms and Program Development; 3 Abstraction in Program Development; 4 Code Analysis; 5 Computing Innovations; 6 Responsible Computing
+- **Numbering:** Units 1–5 (the CED's five big ideas: CRD, DAT, AAP, CSN and IOC; topic numbers are the CED's own)
+
+| Unit | Title | MC weighting | Topics |
+|---|---|---|---|
+| 1 | Creative Development (CRD) | 10–13% | 1.1 Collaboration; 1.2 Program Function and Purpose; 1.3 Program Design and Development; 1.4 Identifying and Correcting Errors |
+| 2 | Data (DAT) | 17–22% | 2.1 Binary Numbers; 2.2 Data Compression; 2.3 Extracting Information from Data; 2.4 Using Programs with Data |
+| 3 | Algorithms and Programming (AAP) | 30–35% | 3.1 Variables and Assignments; 3.2 Data Abstraction; 3.3 Mathematical Expressions; 3.4 Strings; 3.5 Boolean Expressions; 3.6 Conditionals; 3.7 Nested Conditionals; 3.8 Iteration; 3.9 Developing Algorithms; 3.10 Lists; 3.11 Binary Search; 3.12 Calling Procedures; 3.13 Developing Procedures; 3.14 Libraries; 3.15 Random Values; 3.16 Simulations; 3.17 Algorithmic Efficiency; 3.18 Undecidable Problems |
+| 4 | Computer Systems and Networks (CSN) | 11–15% | 4.1 The Internet; 4.2 Fault Tolerance; 4.3 Parallel and Distributed Computing |
+| 5 | Impact of Computing (IOC) | 21–26% | 5.1 Beneficial and Harmful Effects; 5.2 Digital Divide; 5.3 Computing Bias; 5.4 Crowdsourcing; 5.5 Legal and Ethical Concerns; 5.6 Safe Computing |
+
+## AP English Language and Composition
+
+Checked 2026-11-08.
+
+- **Exam:** 2027-05-12 (May 2027). Fully digital: multiple-choice and free-response (essays) both answered in the Bluebook app.
+- **Section I: Multiple choice:** 45 questions, 60 minutes, 45%. 5 question sets; 23–25 reading questions on nonfiction texts; 20–22 writing questions on revising draft texts
+- **Section II: Free response:** 3 questions, 2 hours 15 minutes (includes a 15-minute reading period), 55%. Question 1: Synthesis (6 points), using at least 3 of 6 sources; Question 2: Rhetorical Analysis (6 points); Question 3: Argument (6 points); About 40 minutes recommended per essay
+- **Calculator:** No calculator is used on this exam.
+- **Prerequisites (CED):** No prerequisite courses. Students should be able to read and understand college-level texts and express themselves clearly in writing, per the CED.
+- **Clarifications:** The clarifications document (implemented June 2025) is editorial: front matter, an updated list of speechmakers, removal of named example authors and texts, and forthcoming updates to resource links and Progress Check wording. No change to units, skills or the exam is listed.
+- **Practices/skills:** 1 Rhetorical Situation: Reading; 2 Rhetorical Situation: Writing; 3 Claims and Evidence: Reading; 4 Claims and Evidence: Writing; 5 Reasoning and Organization: Reading; 6 Reasoning and Organization: Writing; 7 Style: Reading; 8 Style: Writing
+- **Numbering:** Units 1–9 (the CED numbers the units but gives them no titles or topic numbers; unit titles and topics here are Marlbridge groupings of the CED’s skills and essential knowledge statements)
+- **Weighting:** The exam is not weighted by unit: the official multiple-choice weightings are by skill category (shown under Course skills).
+
+| Unit | Title | MC weighting | Topics |
+|---|---|---|---|
+| 1 | Claims, Evidence and the Rhetorical Situation | Not weighted by unit | 1.1 The rhetorical situation [1.A, RHS-1.A]; 1.2 Exigence and purpose [1.A, RHS-1.B, RHS-1.C]; 1.3 Audience and context [1.A, RHS-1.D, RHS-1.E]; 1.4 Claims that need a defence [3.A, CLE-1.A, CLE-1.D]; 1.5 Evidence and its types [3.A, CLE-1.B, CLE-1.C]; 1.6 Writing a paragraph with a claim and evidence [4.A, CLE-1.E] |
+| 2 | Audience, Appeals and the Thesis | Not weighted by unit | 2.1 Writing for an audience’s beliefs, values and needs [1.B, 2.B, RHS-1.F]; 2.2 Relating to an audience’s emotions and values [1.B, 2.B, RHS-1.G]; 2.3 Appeals: the modes of persuasion [1.B, 2.B, RHS-1.H]; 2.4 Choosing evidence strategically [3.A, 4.A, CLE-1.F, CLE-1.G]; 2.5 Sufficient evidence [3.A, 4.A, CLE-1.H]; 2.6 Identifying the thesis of an argument [3.B, CLE-1.I, CLE-1.J]; 2.7 Writing a defensible thesis statement [4.B, CLE-1.I, CLE-1.J] |
+| 3 | Commentary, Line of Reasoning and Methods of Development | Not weighted by unit | 3.1 Commentary that links evidence to a claim [3.A, 4.A, CLE-1.K, CLE-1.L]; 3.2 Synthesis and acknowledging sources [3.A, 4.A, CLE-1.M, CLE-1.N]; 3.3 Following and building a line of reasoning [5.A, 6.A, REO-1.A, REO-1.B, REO-1.E]; 3.4 Commentary across a whole argument [5.A, 6.A, REO-1.C, REO-1.D]; 3.5 Flaws in a line of reasoning [5.A, 6.A, REO-1.F]; 3.6 Methods of development [5.C, 6.C, REO-1.G, REO-1.H]; 3.7 Developing ideas through narration and cause-effect [5.C, 6.C, REO-1.I, REO-1.J] |
+| 4 | Introductions, Conclusions and Further Methods of Development | Not weighted by unit | 4.1 Introductions [1.A, 2.A, RHS-1.I]; 4.2 Conclusions [1.A, 2.A, RHS-1.J]; 4.3 Thesis statements that preview the line of reasoning [3.B, 4.B, CLE-1.O]; 4.4 Developing ideas through comparison-contrast [5.C, 6.C, REO-1.G, REO-1.K]; 4.5 Developing ideas through definition and description [5.C, 6.C, REO-1.G, REO-1.L] |
+| 5 | Coherence, Transitions and Word Choice | Not weighted by unit | 5.1 Body paragraphs and the line of reasoning [5.A, 6.A, REO-1.M]; 5.2 Unity and coherence [5.B, 6.B, REO-1.N]; 5.3 Repetition, synonyms, pronouns and parallel structure [5.B, 6.B, REO-1.O]; 5.4 Transitional elements [5.B, 6.B, REO-1.P, REO-1.Q]; 5.5 Connotation and denotation [7.A, 8.A, STL-1.A]; 5.6 Descriptive words and precise word choice [7.A, 8.A, STL-1.B, STL-1.C] |
+| 6 | Sources, Bias and Tone | Not weighted by unit | 6.1 Synthesising material from several sources [3.A, 4.A, CLE-1.P, CLE-1.Q]; 6.2 Position and perspective [3.A, 4.A, CLE-1.R]; 6.3 Bias and limitations in sources [3.A, 4.A, CLE-1.S, CLE-1.T]; 6.4 Revising a thesis for new evidence [3.B, 4.B, CLE-1.U]; 6.5 Tone and connotation [7.A, 8.A, STL-1.D, STL-1.E]; 6.6 Shifts in tone [7.A, 8.A, STL-1.F] |
+| 7 | Qualifying Claims, Sentence Structure and Punctuation | Not weighted by unit | 7.1 Introductions and conclusions for a complex argument [1.A, 2.A, RHS-1.I, RHS-1.J]; 7.2 Complexity and avoiding oversimplification [3.C, 4.C, CLE-1.V, CLE-1.W]; 7.3 Qualifying a claim with modifiers [3.C, 4.C, CLE-1.X]; 7.4 Clauses and the arrangement of sentences [7.B, 8.B, STL-1.G, STL-1.H, STL-1.L]; 7.5 Coordination and subordination [7.B, 8.B, STL-1.I, STL-1.J, STL-1.K]; 7.6 Grammar, mechanics and punctuation [7.C, 8.C, STL-1.M, STL-1.N, STL-1.O]; 7.7 Design features for emphasis [7.C, 8.C, STL-1.P] |
+| 8 | Audience, Style and Irony | Not weighted by unit | 8.1 Comparisons that relate to an audience [1.B, 2.B, RHS-1.K]; 8.2 Diction, syntax and credibility [1.B, 2.B, RHS-1.L, RHS-1.M]; 8.3 Making choices for a particular audience [1.B, 2.B, RHS-1.N]; 8.4 Style [7.A, 8.A, STL-1.Q]; 8.5 Irony and complex perspectives [7.A, 8.A, STL-1.R]; 8.6 Modifiers and parenthetical elements [7.B, 8.B, STL-1.S, STL-1.T] |
+| 9 | Counterarguments: Concession, Rebuttal and Refutation | Not weighted by unit | 9.1 Entering an ongoing conversation [3.C, 4.C, CLE-1.Y]; 9.2 Evidence that supports, complements or contradicts a thesis [3.C, 4.C, CLE-1.Z]; 9.3 Conceding [3.C, 4.C, CLE-1.AA, CLE-1.AB]; 9.4 Rebutting and refuting [3.C, 4.C, CLE-1.AC, CLE-1.AD]; 9.5 Introducing counterarguments, and when to address them [3.C, 4.C, CLE-1.AE, CLE-1.AF] |
+
+## AP English Literature and Composition
+
+Checked 2026-11-08.
+
+- **Exam:** 2027-05-05 (May 2027). Fully digital: multiple-choice and free-response (essays) both answered in the Bluebook app.
+- **Section I: Multiple choice:** 55 questions, 60 minutes, 45%. 5 sets of 8–13 questions, each on a passage of prose fiction, drama or poetry; At least 2 prose fiction passages and at least 2 poetry passages
+- **Section II: Free response:** 3 questions, 2 hours, 55%. Question 1: Poetry Analysis (6 points); Question 2: Prose Fiction Analysis (6 points); Question 3: Literary Argument (6 points), on a work of fiction the student chooses; About 40 minutes recommended per essay
+- **Calculator:** No calculator is used on this exam.
+- **Prerequisites (CED):** No prerequisite courses. Students should be able to read and understand college-level texts and express themselves clearly in writing, per the CED.
+- **Clarifications:** The clarifications document (implemented August 2025) is editorial: front matter, plus forthcoming updates to resource links and Progress Check wording. No change to units, skills or the exam is listed.
+- **Practices/skills:** 1 Character; 2 Setting; 3 Plot and Structure; 4 Narrator or Speaker; 5 Word Choice, Imagery and Symbols; 6 Comparison; 7 Literary Argumentation
+- **Numbering:** Units 1–9 (unit titles are the CED’s; the CED has no numbered topics, so topics here are Marlbridge groupings of the CED’s skills under its six big ideas)
+- **Weighting:** The official multiple-choice weightings are given per genre, not per unit: Short Fiction (Units 1, 4, 7) 42–49%, Poetry (Units 2, 5, 8) 36–45%, Longer Fiction or Drama (Units 3, 6, 9) 15–18%.
+
+| Unit | Title | MC weighting | Topics |
+|---|---|---|---|
+| 1 | Short Fiction I | 42–49% (Short Fiction: Units 1, 4 and 7 together) | 1.1 Character: what details reveal about perspective and motive [CHR, 1.A]; 1.2 Setting: details that convey a time and place [SET, 2.A]; 1.3 Plot: how events are ordered and why [STR, 3.A, 3.B]; 1.4 Narrator and point of view [NAR, 4.A, 4.B]; 1.5 Writing a paragraph with a claim and textual evidence [LAN, 7.A] |
+| 2 | Poetry I | 36–45% (Poetry: Units 2, 5 and 8 together) | 2.1 The speaker as a character [CHR, 1.A]; 2.2 The structure of a poem [STR, 3.C]; 2.3 Contrasts within a poem [STR, 3.D]; 2.4 The function of specific words and phrases [FIG, 5.B]; 2.5 Simile and metaphor [FIG, 6.A, 6.B]; 2.6 Writing a paragraph about a poem [LAN, 7.A] |
+| 3 | Longer Fiction or Drama I | 15–18% (Longer Fiction or Drama: Units 3, 6 and 9 together) | 3.1 Character in longer works [CHR, 1.A]; 3.2 Characters who change or remain unchanged [CHR, 1.B]; 3.3 Setting in longer works [SET, 2.A]; 3.4 Significant events in a plot [STR, 3.E]; 3.5 Conflict [STR, 3.F]; 3.6 From claim-and-evidence paragraph to defensible thesis [LAN, 7.A, 7.B]; 3.7 Commentary and the line of reasoning [LAN, 7.C]; 3.8 Selecting evidence and controlling composition [LAN, 7.D, 7.E] |
+| 4 | Short Fiction II | 42–49% (Short Fiction: Units 1, 4 and 7 together) | 4.1 Contrasting characters [CHR, 1.A, 1.C]; 4.2 Nuance and complexity in character relationships [CHR, 1.D]; 4.3 The function of setting, and character and setting [SET, 2.B, 2.C]; 4.4 Plot order and contrasts [STR, 3.A, 3.D]; 4.5 Narrator, point of view and perspective [NAR, 4.A, 4.B, 4.C]; 4.6 Thesis and commentary in a prose analysis [LAN, 7.B, 7.C]; 4.7 Evidence and composition in a prose analysis [LAN, 7.D, 7.E] |
+| 5 | Poetry II | 36–45% (Poetry: Units 2, 5 and 8 together) | 5.1 Structure in poetry [STR, 3.C]; 5.2 Literal and figurative meaning [FIG, 5.A, 5.B]; 5.3 Imagery [FIG, 5.D]; 5.4 Metaphor and personification [FIG, 6.B, 6.C]; 5.5 Allusion [FIG, 6.D]; 5.6 Thesis and commentary in a poetry analysis [LAN, 7.B, 7.C]; 5.7 Evidence and composition in a poetry analysis [LAN, 7.D, 7.E] |
+| 6 | Longer Fiction or Drama II | 15–18% (Longer Fiction or Drama: Units 3, 6 and 9 together) | 6.1 Contrasting characters in longer works [CHR, 1.A, 1.C]; 6.2 How choices, actions and speech reveal complexity [CHR, 1.E]; 6.3 Sequence and contrasts in a longer plot [STR, 3.A, 3.B, 3.D]; 6.4 Narrator perspective and reliability [NAR, 4.C, 4.D]; 6.5 Symbol [FIG, 5.C]; 6.6 Thesis and commentary in a literary argument [LAN, 7.B, 7.C]; 6.7 Evidence and composition in a literary argument [LAN, 7.D, 7.E] |
+| 7 | Short Fiction III | 42–49% (Short Fiction: Units 1, 4 and 7 together) | 7.1 Character change and complex relationships [CHR, 1.B, 1.D]; 7.2 Setting and its relationship to character [SET, 2.B, 2.C]; 7.3 Plot order and sequence [STR, 3.A, 3.B]; 7.4 Narrator reliability [NAR, 4.D]; 7.5 Symbol and imagery in fiction [FIG, 5.C, 5.D]; 7.6 Simile and personification in fiction [FIG, 6.A, 6.C]; 7.7 Thesis and commentary [LAN, 7.B, 7.C]; 7.8 Selecting relevant and sufficient evidence [LAN, 7.D] |
+| 8 | Poetry III | 36–45% (Poetry: Units 2, 5 and 8 together) | 8.1 Structure and contrasts in poetry [STR, 3.C, 3.D]; 8.2 Word choice in complex poems [FIG, 5.B]; 8.3 Symbol in poetry [FIG, 5.C]; 8.4 Extended and complex metaphor [FIG, 6.B]; 8.5 Allusion in poetry [FIG, 6.D]; 8.6 Thesis and commentary in a poetry essay [LAN, 7.B, 7.C]; 8.7 Evidence and composition in a poetry essay [LAN, 7.D, 7.E] |
+| 9 | Longer Fiction or Drama III | 15–18% (Longer Fiction or Drama: Units 3, 6 and 9 together) | 9.1 Characters who change or remain unchanged [CHR, 1.B]; 9.2 Complexity revealed through choices, actions and speech [CHR, 1.E]; 9.3 Significant events [STR, 3.E]; 9.4 Conflict and its function [STR, 3.F]; 9.5 Details, diction and syntax that reveal perspective [NAR, 4.C]; 9.6 Thesis and commentary in a literary argument essay [LAN, 7.B, 7.C]; 9.7 Selecting evidence for a literary argument [LAN, 7.D] |
