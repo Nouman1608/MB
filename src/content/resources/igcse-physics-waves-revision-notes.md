@@ -22,10 +22,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "waves-cambridge-igcse-physics"
     subtopic: "sound-cambridge-igcse-physics"
-description: "Condensed recall notes on wave properties, reflection, refraction, lenses, the electromagnetic spectrum and sound, with Core/Supplement content marked, for Cambridge IGCSE Physics (0625) Topic 3."
+description: "Revision notes for Cambridge IGCSE Physics 0625 Topic 3 Waves: wave properties, reflection, refraction, lenses, the EM spectrum and sound, Core and Supplement."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 updatedDate: 2026-09-28
@@ -208,6 +210,20 @@ refraction by the lens. 5. Radio, microwave, infrared, visible, ultraviolet, X-r
   <figcaption>Wavelength is crest to crest; amplitude is from the middle to a crest; v = f x wavelength.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**How do you measure the amplitude of a wave?**
+Amplitude is measured from the middle (rest) position to a crest or trough, not from crest to trough. Wavelength is measured between two identical points on consecutive waves, such as crest to crest.
+
+**What is the audible range of human hearing?**
+The audible range is approximately 20 Hz to 20 000 Hz, and ultrasound is sound above 20 kHz. Sound needs a medium and travels at roughly 330–350 m/s in air.
+
+**What is the principal focus of a converging lens?**
+The principal focus is the point where rays travelling parallel to the principal axis converge after refraction by the lens. A full definition needs both parts.
+
+**Which colour refracts most in a prism?**
+Blue light refracts more than red light, which is why a prism spreads white light into a spectrum (dispersion).
 
 ## Official syllabus
 

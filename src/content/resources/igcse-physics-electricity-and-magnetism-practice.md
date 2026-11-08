@@ -25,10 +25,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "electricity-and-magnetism-cambridge-igcse-physics"
     subtopic: "electromagnetic-effects-cambridge-igcse-physics"
-description: "Original exam-style practice questions with full worked answers on charge, current, resistance, series and parallel circuits, electrical energy and magnetism for Cambridge IGCSE Physics (0625) Topic 4."
+description: "Original Cambridge IGCSE Physics 0625 Topic 4 questions with worked answers on current, resistance, circuits, electrical energy, mains safety and magnetism."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
@@ -193,6 +195,23 @@ This set covers current, potential difference and resistance, series and paralle
 - Saying a bar is a magnet because it is attracted, instead of because it is repelled.
 - Saying a soft-iron core is used because it makes a "stronger" magnet, instead of because it demagnetises.
 - Saying a magnet inside a coil induces a reading, when the reading needs relative movement.
+
+## Frequently asked questions
+
+**Is current used up in a series circuit?**
+No. In a series circuit the current is the same at every point; saying it is "used up" is a common mistake. Energy is transferred to the components, not current.
+
+**Where should ammeters and voltmeters go in a circuit?**
+An ammeter goes in series with the component and a voltmeter goes in parallel across it. Putting a voltmeter in series, or an ammeter in parallel, in a described circuit is a common mistake.
+
+**How are marks given for IGCSE Physics calculations?**
+Marks are usually given for the equation or substitution and for the final answer with its unit. Writing the equation only in words or only as numbers, or leaving off the unit, can cost marks.
+
+**What units should I use in E = Pt?**
+Use power in watts and time in seconds so the energy comes out in joules. Leaving time in minutes or power in kilowatts is a common error.
+
+**Which IGCSE Physics 0625 topic do these questions cover?**
+They cover Topic 4, Electricity and magnetism (sections 4.1–4.5), of the Cambridge IGCSE Physics 0625 syllabus for examination in 2026, 2027 and 2028.
 
 ## Next steps
 

@@ -22,10 +22,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "waves-cambridge-igcse-physics"
     subtopic: "sound-cambridge-igcse-physics"
-description: "General wave properties, reflection and refraction of light, thin lenses, the electromagnetic spectrum and sound -- the Core and Supplement content of Topic 3 Waves for Cambridge IGCSE Physics 0625, 2026-2028 series."
+description: "Cambridge IGCSE Physics 0625 Topic 3 Waves guide for 2026-2028: wave properties, reflection, refraction, thin lenses, the electromagnetic spectrum and sound."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-29
 updatedDate: 2026-09-28
@@ -317,6 +319,20 @@ quality. Amplifying an analogue signal amplifies its noise too.
 - In dispersion through a prism, blue light refracts **more** than red light -- this is why a prism produces a spectrum, and is worth remembering as a specific fact rather than "light disperses" in general terms.
 
 *Source: Cambridge International, 0625 Physics Principal Examiner Report, June 2024 series, Papers 11, 12, 13, 21, 23, 33, 41 (verified 2026-09-02).*
+
+## Frequently asked questions
+
+**What is refractive index?**
+Refractive index (n) is the ratio of the speed of light in a vacuum (or air) to its speed in a material. For a ray entering the material from air, n = sin i / sin r, and a larger refractive index means light slows and bends more.
+
+**What happens to light beyond the critical angle?**
+Once the angle of incidence exceeds the critical angle, there is no refracted ray at all; only total internal reflection occurs. Treating it as if a weaker refracted ray still escapes is a common misconception noted in examiner reports.
+
+**How do you calculate depth using ultrasound echoes?**
+Use depth = (speed × time) ÷ 2, halving because the pulse travels to the reflecting surface and back. This uses speed = distance / time, not the wave equation v = fλ.
+
+**What is the order of the electromagnetic spectrum?**
+In order of increasing frequency and decreasing wavelength: radio, microwave, infrared, visible, ultraviolet, X-ray and gamma. Learning it as one sequence helps you place an unfamiliar use or hazard in the right region.
 
 ## Official syllabus
 

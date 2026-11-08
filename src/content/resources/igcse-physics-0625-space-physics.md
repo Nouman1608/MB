@@ -22,7 +22,9 @@ syllabusTopics:
 description: "Study guide for Cambridge IGCSE Physics 0625 space physics: the Earth, Solar System, orbits, star life cycles, redshift, CMBR and the Hubble constant."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -239,6 +241,23 @@ age = (4.5 × 10¹⁷) / (3.15 × 10⁷) = 1.4 × 10¹⁰ years (about 14 billio
 - Answering "gravity is stronger" when asked to use conservation of energy: name the GPE to KE transfer.
 - Writing that stars "burn" hydrogen. Say nuclear fusion of hydrogen into helium.
 - Mixing up white dwarf (from a red giant) and neutron star or black hole (from a supernova).
+
+## Frequently asked questions
+
+**What causes the seasons in IGCSE Physics 0625?**
+The seasons happen because the Earth's axis is tilted. For part of each orbit a hemisphere leans towards the Sun, so the Sun is higher, days are longer and each square metre receives more energy; the seasons are not caused by changes in distance from the Sun.
+
+**Is a light-year a unit of time or distance?**
+A light-year is a distance: how far light travels in space in one year. For Extended candidates in Cambridge IGCSE Physics 0625, one light-year is 9.5 × 10¹⁵ m.
+
+**How do you calculate average orbital speed?**
+Use v = 2πr / T, where r is the average orbit radius and T is the orbital period. Convert the period into seconds and the radius into metres first, so the answer is in m/s.
+
+**What happens to a star when it runs out of hydrogen?**
+Most stars expand into red giants, which form a planetary nebula with a white dwarf at the centre. More massive stars become red supergiants that explode as supernovae, leaving a neutron star or black hole.
+
+**How is the Hubble constant used to estimate the age of the Universe?**
+The Hubble constant is H₀ = v / d, the speed a galaxy moves away divided by its distance. The quantity 1 / H₀ estimates the age of the Universe, which supports the idea that all its matter was once at a single point.
 
 ## Next steps
 

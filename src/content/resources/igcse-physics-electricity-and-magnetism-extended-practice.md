@@ -22,10 +22,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "electricity-and-magnetism-cambridge-igcse-physics"
     subtopic: "electromagnetic-effects-cambridge-igcse-physics"
-description: "Original exam-style questions with full worked answers on current as rate of flow of charge, resistors in parallel, how resistance depends on length and cross-sectional area, the direction of an induced e.m.f., transformer calculations and power losses in transmission cables, for Cambridge IGCSE Physics (0625) Extended candidates."
+description: "Original Cambridge IGCSE Physics 0625 Extended questions on charge, parallel resistors, wire resistance, induction, transformers and cable losses, with answers."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
@@ -107,3 +109,17 @@ After each answer there is a common mistake to avoid.
 - Getting the effect of cross-sectional area on resistance the wrong way round.
 - Saying the induced current helps the magnet move, instead of opposing the change.
 - Using the supply voltage in V²/R to find the power lost in transmission cables.
+
+## Frequently asked questions
+
+**What are common mistakes in IGCSE Physics electricity calculations?**
+Frequent slips include leaving time in minutes when using I = Q ÷ t, giving 1/R instead of R for resistors in parallel, and getting the effect of cross-sectional area on resistance the wrong way round.
+
+**Which parts of these electricity questions are Core content?**
+The transformer turns ratio, Vp/Vs = Np/Ns, and finding a current from P = IV are Core content of the 0625 syllabus. The other parts, including IpVp = IsVs and power loss in cables, are Supplement (Extended only).
+
+**How do you calculate power lost in transmission cables?**
+Use the current in the cables and the cables' resistance, with P = I²R. Using the supply voltage in V²/R gives the wrong answer, because the supply voltage is not the voltage across the cables.
+
+**Are these questions for IGCSE Physics Core or Extended?**
+They are aimed at Cambridge IGCSE Physics 0625 Extended candidates, with most questions marked Extended. Each worked answer is followed by a common mistake to avoid.

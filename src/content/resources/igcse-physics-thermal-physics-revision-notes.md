@@ -19,10 +19,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "thermal-physics-cambridge-igcse-physics"
     subtopic: "transfer-of-thermal-energy-cambridge-igcse-physics"
-description: "Condensed recall notes on the kinetic particle model, gas laws, thermal expansion, specific heat capacity, changes of state, and conduction/convection/radiation for Cambridge IGCSE Physics 0625 Topic 2."
+description: "Revision notes for Cambridge IGCSE Physics 0625 Topic 2: the particle model, gas laws, expansion, specific heat capacity, changes of state and heat transfer."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-29
 updatedDate: 2026-09-28
@@ -146,3 +148,17 @@ Specific heat capacity is the energy needed to raise the temperature of 1 kg of 
 5. State which type of surface is the best absorber of infrared radiation, and why this matters for choosing the colour of a car roof in a hot country.
 
 **Answers:** 1. In a liquid, particles are close together, in random arrangement, and move around/slide past each other; in a gas, particles are far apart, in random arrangement, and move fast in random directions between collisions. 2. Metal is a much better thermal conductor than wood, so it carries heat away from your hand faster, making it feel colder even though both are at the same temperature. 3. Pressure doubles (pV = constant, so halving V doubles p). 4. Sweat evaporates from the skin; evaporation removes energy from the most energetic water particles as they escape, which lowers the remaining liquid's (and skin's) temperature. 5. A dull black surface is the best absorber; a white/light, shiny car roof is chosen instead because it's a poor absorber (and good reflector) of radiation, keeping the car cooler.
+
+## Frequently asked questions
+
+**How do you convert between Celsius and kelvin?**
+Use T (K) = θ (°C) + 273. Absolute zero, −273 °C or 0 K, is the lowest possible temperature, where particles have the least possible kinetic energy.
+
+**What is Brownian motion evidence for?**
+Brownian motion is the random, erratic movement of visible smoke or pollen particles, caused by collisions with much smaller, fast-moving gas or liquid particles. It is evidence for the particle model of matter.
+
+**What factors increase the rate of evaporation?**
+Higher temperature, a larger surface area, air movement over the surface and lower humidity all increase the rate of evaporation. This list is Supplement content in IGCSE Physics 0625.
+
+**Which surfaces are good emitters and absorbers of infrared radiation?**
+Dull, black surfaces are good emitters and absorbers of infrared radiation, while shiny, white surfaces are poor emitters and good reflectors.
