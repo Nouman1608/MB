@@ -248,6 +248,23 @@ Businesses respond by agreeing prices in advance, finding suppliers at home, or 
 - Treating globalisation as only a benefit to rich countries or only a threat to poor ones. Both gain and lose.
 - Writing about the country when the question asks about the business, or the reverse.
 
+## Frequently asked questions
+
+**How does a rise in interest rates affect a business?**
+A rise in interest rates reaches a business in two ways: it increases repayments on variable-rate loans and overdrafts, which cuts profit, and it leaves households and other businesses with less to spend, so demand may fall. A strong answer names both channels and says which is bigger for the business in the question.
+
+**Do you need to calculate exchange rate conversions for OxfordAQA International GCSE Business 9225?**
+No. This guide to the 9225 specification notes that you will not be asked to calculate exchange rate conversions, and you are not expected to explain why interest rates change. You need to know the direction of the effects on exporters and importers and explain them.
+
+**Is a weak currency good or bad for a business?**
+It depends on whose view you take. A weaker home currency makes exports cheaper abroad, so sales may rise, but it makes imported inputs dearer, so costs rise. Many businesses both import and export, so you should examine both effects.
+
+**Why do sales of luxury products fall more than necessities when incomes fall?**
+People can postpone buying luxuries such as designer trainers, so these are cut first when incomes fall, while everyday necessities change little. A business with a mixed range of products is cushioned; one selling only luxuries is more exposed.
+
+**What does globalisation mean in IGCSE Business?**
+Globalisation is the growing links between countries, so that goods, services, money, people and ideas move more freely across borders. The specification names five features: specialisation by country, relative cost advantage, movement of labour, larger markets and international competition.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Business (9225), specification version 3.1, for International GCSE exams from May/June 2022 onwards, published by OxfordAQA. This guide covers sections 3.2.3 and 3.2.4.

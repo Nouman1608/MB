@@ -215,6 +215,23 @@ The δ range for ¹³C is much wider than for ¹H, so peaks rarely overlap [1]. 
 - Ignoring the IR or mass spectrum in a combined question.
 
 
+## Frequently asked questions
+
+**Is NMR spectroscopy on the AQA AS Chemistry papers?**
+No. Section 3.3.15 Nuclear magnetic resonance spectroscopy of the AQA 7404/7405 specification is A-level only. Organic chemistry is examined on A-level Paper 2, and Paper 3 can test any content.
+
+**What do examiners want when you explain why TMS is used?**
+Give properties and why each helps: it gives one strong single peak, away from almost all other peaks, and it is inert and volatile. "It gives a peak at zero" alone is a definition, not a reason.
+
+**Why are deuterated solvents used in ¹H NMR?**
+Deuterated solvents give no signal in a ¹H spectrum, so they do not swamp the sample's peaks. Calling the solvent "inert" or "a good solvent" does not earn the mark.
+
+**What is the commonest error when using the n+1 rule?**
+Applying n+1 to the hydrogens in the group itself instead of those on adjacent carbons. Remember that equivalent protons do not split each other, and a CH₃ next to C=O or O is a singlet.
+
+**How should integration ratios be used in NMR questions?**
+Convert integration heights to the simplest whole-number ratio, then scale to the hydrogen count in the molecular formula. Show the ratio and the check against the formula.
+
 ## Next steps
 
 - [Revision notes](/resources/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy-revision-notes/)

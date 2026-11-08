@@ -205,6 +205,23 @@ mass actually used, and it is independent of the yield in (d).
 - Rounding Mr or moles too early in yield calculations.
 - Naming the acylation product as an aldehyde.
 
+## Frequently asked questions
+
+**Is aromatic chemistry on the AQA AS Chemistry papers?**
+No. Section 3.3.10 Aromatic chemistry of the AQA 7404/7405 specification is A-level only. It is examined on A-level Paper 2, and A-level Paper 3 can test any content.
+
+**What do examiners expect when you describe benzene's bonding?**
+Say which electrons are delocalised (the p electrons) and over which atoms, and state that the C–C bond length is between that of a single and a double bond. "Delocalised" on its own, or "between single and double" without mentioning length, rarely earns full credit.
+
+**How do you explain why benzene does not undergo addition?**
+Link addition to the loss of the delocalised ring, which would remove benzene's extra stability. Saying "benzene has no double bonds" scores nothing.
+
+**What mistakes are common in electrophilic substitution mechanisms?**
+Arrow 1 must start from the delocalised ring, not from a carbon atom or C–H bond, and must point at the N of NO₂⁺ or the C of RCO⁺. The intermediate needs a horseshoe with its gap facing the attacked carbon and a + charge.
+
+**How should equations for making the electrophile be checked?**
+They must balance for charge as well as atoms, and the catalyst must be shown being regenerated. In acylation, AlCl₃ is the catalyst, not HCl.
+
 ## Next steps
 
 - [Aromatic chemistry revision notes](/resources/aqa-a-level-chemistry-aromatic-chemistry-revision-notes/)

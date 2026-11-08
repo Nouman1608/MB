@@ -341,6 +341,23 @@ Check the percentages add up to 100 before you start; if one is missing, it is 1
 </figure>
 
 
+## Frequently asked questions
+
+**What is the difference between a compound and a mixture?**
+A compound is two or more elements chemically combined in fixed proportions and can only be separated by chemical reactions. A mixture is not chemically combined, so each part keeps its own properties and can be separated by physical processes.
+
+**How many electrons go in each shell for the first 20 elements?**
+The first shell holds 2 electrons, the second 8, the third 8, and the fourth takes the rest. Electrons fill the lowest available energy levels first, so sodium is 2,8,1.
+
+**How do you calculate relative atomic mass from isotope abundances?**
+Multiply each isotope's mass by its percentage abundance, add the results and divide by 100. Ar is an average, so it is usually not a whole number.
+
+**How do you find the number of electrons in an ion?**
+A positive ion has fewer electrons than protons, and a negative ion has more. For example, a 2- ion has two more electrons than protons.
+
+**What was wrong with the plum pudding model?**
+The plum pudding model, a ball of positive charge with electrons embedded in it, had no nucleus and could not explain the alpha scattering results. This is part of AQA GCSE Chemistry 8462 section 4.1.1.
+
 ## Official syllabus
 
 AQA GCSE Chemistry (8462) specification, for teaching from September 2016, exams from June 2018 (version 1.1),

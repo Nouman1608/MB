@@ -313,6 +313,23 @@ and the ratio of O to Pb comes out too small.
 - Giving Mr with units of g mol⁻¹. Mr has no units; molar mass M does.
 - Quoting more figures than the weakest measurement justifies (MS 1.1).
 
+## Frequently asked questions
+
+**What is the difference between an empirical formula and a molecular formula?**
+An empirical formula is the ratio of atoms of each element in a compound in its simplest whole-number form. A molecular formula shows how many atoms of each element are actually present, and it equals the empirical formula multiplied by a whole number.
+
+**What are the SI units for pV = nRT?**
+Pressure is in pascals (Pa), volume in cubic metres (m³), amount in moles and temperature in kelvin, with R = 8.31 J K⁻¹ mol⁻¹. Putting kPa, cm³ or °C straight into the equation gives an answer out by a factor of 10³, 10⁶ or more.
+
+**Is there a required practical for the ideal gas equation in AQA A-level Chemistry?**
+No. Neither section 3.1.2.3 nor 3.1.2.4 is linked to a required practical. The specification suggests finding the Mr of a volatile liquid and the empirical formula of a metal oxide as practical opportunities.
+
+**How do you calculate an empirical formula from percentage by mass?**
+Treat the percentages as masses in a 100 g sample, divide each by its Ar, divide all the results by the smallest, then clear any fractions. Find oxygen or a missing element by difference if needed.
+
+**Which AQA papers test the ideal gas equation?**
+Section 3.1.2 sits in the physical chemistry listed for Paper 1 and Paper 2 at both AS and A-level, and A-level Paper 3 can cover any content.
+
 ## Next steps
 
 - Recall drill: [ideal gas and formula revision notes](/resources/aqa-a-level-chemistry-ideal-gas-equation-and-empirical-formula-revision-notes/)

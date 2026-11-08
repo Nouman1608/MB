@@ -239,6 +239,23 @@ In the six-pair case the two lone pairs sit opposite each other, which keeps lon
 - Failing to say why graphite conducts: it needs the delocalised electrons and their ability to move.
 - Describing intermolecular forces in general terms, without naming the type or comparing strengths.
 
+## Frequently asked questions
+
+**What is a co-ordinate (dative covalent) bond?**
+A co-ordinate bond is a shared pair of electrons in which both electrons are supplied by one atom. It is drawn as an arrow from the donor atom to the acceptor atom, and once formed it is identical to the other bonds of that type in the species.
+
+**What makes metallic bonding stronger?**
+Metallic bonding is stronger when the metal ions carry a bigger charge, the ions are smaller, or each atom adds more electrons to the delocalised pool. Do not describe the electrons as shared between two atoms, which is covalent language.
+
+**Why do lone pairs reduce bond angles?**
+Lone pair–lone pair repulsion is greater than lone pair–bond pair repulsion, which is greater than bond pair–bond pair repulsion. Each lone pair therefore squeezes the bond angles between the bonding pairs.
+
+**When does hydrogen bonding occur?**
+Hydrogen bonding occurs when hydrogen is bonded to N, O or F and is attracted to a lone pair on N, O or F in another molecule. A molecule that merely contains hydrogen bonded to carbon does not form hydrogen bonds.
+
+**Is bonding examined at AS level in AQA Chemistry?**
+Yes. The AQA 7404/7405 specification lists section 3.1.3 Bonding under Paper 1 and Paper 2 at both AS and A-level.
+
 ## Official syllabus
 
 Source: AQA AS and A-level Chemistry (7404/7405) specification, version 1.1, December 2015, published by AQA, section 3.1.3 Bonding.

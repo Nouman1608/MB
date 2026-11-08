@@ -257,6 +257,23 @@ structure. **Empirical formula** -- the simplest whole-number ratio of the parti
 - Reading positive centres with electrons as an ionic diagram.
 - Counting the ions in a tiny 3D block and writing an uneven formula without checking the charges.
 
+## Frequently asked questions
+
+**What are the three types of strong chemical bond?**
+The three strong bonds are ionic (electrons transferred between oppositely charged ions), covalent (electrons shared in pairs between atoms) and metallic (delocalised electrons shared through the structure). This is AQA GCSE Chemistry 8462 section 4.2.1.1.
+
+**What type of bonding is in an alloy?**
+An alloy such as brass or solder has metallic bonding, even though it contains more than one element. Calling an alloy ionic is a common error.
+
+**Do all non-metallic elements form covalent bonds?**
+Most non-metallic elements are covalent, such as Cl₂ and Br₂, but the noble gases do not easily form molecules. Saying "all" non-metals bond covalently is not accurate.
+
+**How do you write the empirical formula of an ionic compound from a diagram?**
+Count the ions, find the simplest whole-number ratio and write the metal first, for example Li₂O rather than Li₁₂O₆. Check that the charges balance.
+
+**Which ionic structure do you need to know for AQA GCSE Chemistry?**
+You need to know the structure of sodium chloride, where Na⁺ and Cl⁻ ions alternate in a regular cubic lattice. Other ionic structures will be given in a diagram if they are used.
+
 ## Related resources
 
 - [Chemical bonds and ionic compounds study guide](/resources/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds/)

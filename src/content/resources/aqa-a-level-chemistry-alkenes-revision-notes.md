@@ -254,6 +254,23 @@ PS 1.2). It is not a required practical.
 - Substituent moved to the wrong carbon when drawing a monomer from a chain.
 - Saying polyalkenes are unreactive because their intermolecular forces are strong.
 
+## Frequently asked questions
+
+**What is an electrophile?**
+An electrophile is an electron pair acceptor, such as H⁺, the Hδ+ end of HBr or the Brδ+ end of an induced dipole in Br₂. Electrophiles are attracted to the C=C bond because it is a centre of high electron density.
+
+**Which carbocation is the most stable?**
+Tertiary carbocations, with three alkyl groups on the C⁺, are the most stable, followed by secondary and then primary. The major product of an unsymmetrical alkene forms via the more stable carbocation; describe tertiary carbocations as "more stable", not "more reactive".
+
+**Why does propene give two products with HBr but only one with Br₂?**
+Propene is unsymmetrical, so HBr can add H to either carbon, giving a major and a minor product. Bromine adds the same atom to both carbons, so it gives only 1,2-dibromopropane.
+
+**Why are poly(alkenes) unreactive?**
+Their unreactivity comes from the strong C–C and C–H bonds within the saturated chains. The van der Waals forces between chains explain their physical properties, not their unreactivity, which is a common point of confusion in AQA A-level Chemistry 7405 answers.
+
+**What does a plasticiser do?**
+A plasticiser is made of small molecules that get between polymer chains, weakening the forces between them so the chains slide past each other more easily. This makes a polymer such as PVC flexible.
+
 ## Official syllabus
 
 AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level

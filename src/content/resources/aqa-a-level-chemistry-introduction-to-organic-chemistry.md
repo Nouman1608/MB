@@ -337,6 +337,23 @@ Assign E or Z to this isomer of 3-methylpent-2-ene:
 - Claiming E–Z isomers when one carbon of the C=C carries two identical groups.
 - Using group size, not atomic number, for CIP priority.
 
+## Frequently asked questions
+
+**How many types of formula do you need for AQA A-level Chemistry organic chemistry?**
+You need six formula types: empirical, molecular, general, structural, displayed and skeletal. Section 3.3.1 of the AQA 7404/7405 specification also asks you to name compounds and draw them from names.
+
+**How long can carbon chains be in AQA naming questions?**
+You must name and draw compounds with chains and rings of up to six carbon atoms each. The stems are meth-, eth-, prop-, but-, pent- and hex-.
+
+**What is a functional group?**
+A functional group is an atom or group of atoms responsible for the typical reactions of a compound. Compounds containing the same functional group form a homologous series.
+
+**What are the three types of structural isomer?**
+Chain isomers have different carbon skeletons, position isomers have the functional group in different positions, and functional group isomers have different functional groups, all with the same molecular formula.
+
+**When does an alkene not show E–Z isomerism?**
+If one carbon of the C=C double bond carries two identical groups, there are no E–Z isomers. Claiming E–Z isomers in this case is a common error.
+
 ## Where to go next
 
 - [Introduction to organic chemistry revision notes](/resources/aqa-a-level-chemistry-introduction-to-organic-chemistry-revision-notes/)

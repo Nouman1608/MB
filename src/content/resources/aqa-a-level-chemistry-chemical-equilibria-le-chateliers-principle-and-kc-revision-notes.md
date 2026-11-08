@@ -228,6 +228,23 @@ Working backwards: Kc falls as temperature rises → forward reaction exothermic
 - Rounding mid-calculation and giving the final answer to the wrong number of significant figures.
 - Compromise answers that mention only yield, with nothing about rate, cost or safety.
 
+## Frequently asked questions
+
+**What does Le Chatelier's principle state?**
+If a factor affecting a system at equilibrium is changed, the position of equilibrium shifts to oppose the change. In AQA A-level Chemistry 7405 you apply it to concentration, pressure and temperature in homogeneous systems.
+
+**Does a catalyst change the position of equilibrium?**
+No. A catalyst speeds up the forward and reverse reactions equally, so equilibrium is reached faster, but the position and the value of Kc do not change. Claiming a catalyst increases yield is a common error.
+
+**What is the difference between the position of equilibrium and the value of Kc?**
+Changes in concentration and pressure move the position of equilibrium but do not change Kc. Temperature is the only factor that changes both.
+
+**Why is a compromise temperature used in the Haber process?**
+The forward reaction is exothermic, so a low temperature gives a higher yield, but the rate would be too slow. A moderate temperature gives an acceptable yield at an acceptable rate; a full answer mentions both yield and rate.
+
+**Is Kp covered with Kc in AQA Chemistry?**
+No. Kp is a separate section, 3.1.10, which is A-level only. Section 3.1.6 on equilibria and Kc is AS content.
+
 ## Official syllabus
 
 AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.1.6: Chemical equilibria, Le Chatelier's principle and Kc.

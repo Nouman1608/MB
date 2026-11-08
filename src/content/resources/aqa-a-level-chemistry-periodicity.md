@@ -303,6 +303,23 @@ On an unlabelled melting point chart, find silicon first (the tallest bar) and c
 - Classifying helium as p block because it sits in Group 0.
 - Classifying an element such as gallium as d block because the 3d sub-shell appears in its configuration.
 
+## Frequently asked questions
+
+**What is periodicity?**
+Periodicity is a repeating pattern of properties across each period of the Periodic Table. AQA A-level Chemistry 7405 section 3.2.1 focuses on Period 3 trends in atomic radius, first ionisation energy and melting point.
+
+**Why does atomic radius decrease across Period 3?**
+Each element has one more proton, so nuclear charge increases, while the outer electrons stay in the same shell with similar shielding. The outer electrons are pulled closer to the nucleus.
+
+**Why do phosphorus, sulfur and chlorine have low melting points?**
+They are simple molecular substances (P₄, S₈ and Cl₂), so melting overcomes only van der Waals forces between molecules. No covalent bonds break.
+
+**What block is an element in?**
+An element's block is named after the sub-shell that holds its highest-energy electron: s, p, d or f. Groups 1 and 2, plus hydrogen and helium, are in the s block.
+
+**Are the reactions of Period 3 elements part of periodicity?**
+No. The reactions of Period 3 elements and their oxides are a separate topic, section 3.2.4, which is A-level only. Section 3.2.1 Periodicity is AS content with no required practical.
+
 ## Where to go next
 
 Condense this into the [revision notes](/resources/aqa-a-level-chemistry-periodicity-revision-notes/), then

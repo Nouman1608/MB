@@ -250,6 +250,23 @@ dyeing, calibrating pH meters.
 - Not adjusting moles of HA and A⁻ after acid or base is added to a buffer.
 - Rounding [H⁺] heavily before taking the log.
 
+## Frequently asked questions
+
+**How do you calculate the pH of a weak acid?**
+Write Ka = [H⁺][A⁻] / [HA], assume [H⁺] = [A⁻] and that [HA] at equilibrium equals the starting concentration, then use [H⁺] = √(Ka × [HA]) and pH = −log₁₀[H⁺]. These are the steps expected in AQA A-level Chemistry 7405 section 3.1.12.
+
+**Is pure water at a high temperature acidic?**
+No. Kw increases with temperature, so hot pure water has a pH below 7, but it is still neutral because [H⁺] = [OH⁻]. Calling it acidic is a common way to lose marks.
+
+**What is the difference between the equivalence point and the end point?**
+The equivalence point is where the moles of acid and base match the equation; the end point is where the indicator changes colour. A suitable indicator makes the two coincide by changing within the steep section of the pH curve.
+
+**Why does diluting a buffer hardly change its pH?**
+Dilution lowers [HA] and [A⁻] by the same factor, so their ratio stays the same. Since [H⁺] = Ka × [HA] / [A⁻], the pH barely changes.
+
+**What units does Ka have?**
+Ka for a weak monoprotic acid has units of mol dm⁻³, while Kw has units of mol² dm⁻⁶. pH and pKa have no units.
+
 ## Next steps
 
 - [Acids and bases study guide](/resources/aqa-a-level-chemistry-acids-and-bases/)

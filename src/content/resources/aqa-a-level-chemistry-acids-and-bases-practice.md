@@ -198,6 +198,23 @@ but in water the pH falls to about 2 [1]
 - Saying hot pure water is acidic.
 - Writing buffer explanations without equations or without naming the reacting species.
 
+## Frequently asked questions
+
+**Is acids and bases on AQA AS Chemistry or only A-level?**
+Section 3.1.12 Acids and bases is A-level only in the AQA 7404/7405 specification. It is placed on A-level Paper 1, and Paper 3 can test any content.
+
+**How many decimal places should pH be given to?**
+These practice questions ask for pH to 2 decimal places. A pH written as 2.2 instead of 2.20 can lose the mark when 2 decimal places are asked for.
+
+**What value of Kw should you use in AQA A-level Chemistry calculations?**
+Use Kw = 1.00 × 10⁻¹⁴ mol² dm⁻⁶ at 298 K unless the question gives a different value. Remember to use Kw to convert [OH⁻] to [H⁺] whenever a base is in excess.
+
+**Why do buffer calculations go wrong so often?**
+The most common errors are using the weak-acid shortcut √(Ka[HA]) for a buffer, where [H⁺] does not equal [A⁻], and not adjusting the moles of HA and A⁻ after acid or base is added. Work in moles first, then use [H⁺] = Ka × [HA] / [A⁻].
+
+**How do you justify an indicator choice for full marks?**
+Link the indicator's colour-change range to the steep (vertical) section of the pH curve. Saying it "changes colour at the right pH" is too vague to earn credit.
+
 ## Next steps
 
 - [Acids and bases revision notes](/resources/aqa-a-level-chemistry-acids-and-bases-revision-notes/)

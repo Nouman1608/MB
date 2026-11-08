@@ -13,13 +13,15 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "bonding-7405"
-description: "Ionic, covalent, dative covalent and metallic bonding, the four types of crystal structure and physical properties, the shapes of molecules and ions, bond polarity, and intermolecular forces -- the full content of Section 3.1.3 for AQA A-Level Chemistry (7405)."
+description: "Ionic, covalent, dative and metallic bonding, crystal structures, molecular shapes, bond polarity and intermolecular forces for AQA A-Level Chemistry 7405."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **3.1.3 Bonding**, part of the Physical Chemistry content in AQA A-level Chemistry
@@ -324,3 +326,20 @@ property of the bond or molecule that results from an electronegativity differen
 - Distinguish electronegativity from bond/molecular polarity, and explain how one produces the other.
 - Explain why a molecule such as CO2 has polar bonds but no permanent dipole.
 - Explain how hydrogen bonding makes ice less dense than water.
+
+## Frequently asked questions
+
+**Why do ionic compounds conduct electricity only when molten or dissolved?**
+In a solid ionic lattice the ions are held in fixed positions by strong electrostatic attraction. When the compound is molten or dissolved, the ions are free to move and can carry charge.
+
+**What are the bond angles in methane, ammonia and water?**
+Methane, with four bonding pairs, is tetrahedral at 109.5°; ammonia, with three bonding pairs and one lone pair, is a trigonal pyramid at about 107°; water, with two bonding pairs and two lone pairs, is bent at about 104.5°. Each extra lone pair compresses the angle.
+
+**Are van der Waals forces present between polar molecules?**
+Yes. Van der Waals forces are present in every molecular substance, and dipole–dipole forces and hydrogen bonding act in addition to them, not instead of them.
+
+**Why does carbon dioxide have polar bonds but no permanent dipole?**
+Carbon dioxide is linear, so its two polar C=O bond dipoles point in opposite directions and cancel. The molecule as a whole has no permanent dipole.
+
+**Is bonding AS or A-level content in AQA Chemistry 7405?**
+Bonding (section 3.1.3) is part of the physical chemistry sections 3.1.1 to 3.1.7 that form the AS content, so it is examined from the first AS papers onwards and at A-level.

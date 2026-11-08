@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Revision notes for AQA GCSE Chemistry 8462 Chemical analysis: Rf method, gas tests, flame colours, precipitate colours and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These notes condense Topic 8, **Chemical analysis** (sections 4.8.1 to 4.8.3), of the AQA GCSE Chemistry (8462) specification, for teaching from September 2016 with exams from June 2018 (version 1.1). The topic is examined on Paper 2 at Foundation and Higher tier, and none of it is Higher tier only. It includes Required practical 6 (chromatography) and Required practical 7 (identifying ions).
@@ -269,6 +271,23 @@ Worked reminder: a sample shows lines at positions that match every line of refe
 - Forgetting that aluminium hydroxide is the only one that dissolves in excess NaOH.
 - Adding hydrochloric acid before silver nitrate in a halide test.
 - Naming a compound from one test only -- you need both the cation and the anion.
+
+## Frequently asked questions
+
+**How do you test for hydrogen, oxygen and carbon dioxide?**
+Hydrogen burns with a squeaky pop when a burning splint is held at the mouth of the tube, oxygen relights a glowing splint, and carbon dioxide turns limewater milky. Do not mix up the burning and glowing splints.
+
+**What colour flames do lithium, sodium and potassium ions give?**
+Lithium ions give a crimson flame, sodium ions yellow and potassium ions lilac. These flame tests are part of AQA GCSE Chemistry 8462 Topic 8.
+
+**Which metal hydroxide dissolves in excess sodium hydroxide?**
+Aluminium hydroxide is the only one that dissolves in excess sodium hydroxide. Calcium and magnesium ions also give white precipitates, but these do not dissolve in excess.
+
+**How do you test for halide ions?**
+Add dilute nitric acid, then silver nitrate solution: chloride gives a white precipitate, bromide cream and iodide yellow. Do not acidify with hydrochloric acid, because it adds chloride ions.
+
+**What are the advantages of instrumental methods?**
+Instrumental methods are accurate, sensitive and rapid. Flame emission spectroscopy can identify metal ions in a mixture and measure their concentration from line intensity.
 
 ## Official syllabus
 

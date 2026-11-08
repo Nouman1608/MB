@@ -242,6 +242,23 @@ In double-stranded DNA, %A = %T and %G = %C.
 - Saying the two DNA strands are joined by covalent bonds.
 - Saying cisplatin bonds to the phosphate or sugar rather than to N on guanine.
 
+## Frequently asked questions
+
+**What charge does an amino acid have in acid and alkaline solution?**
+In acid solution an amino acid with no acidic or basic side chain is H₃N⁺–CHR–COOH, with a +1 charge. In alkaline solution it is H₂N–CHR–COO⁻, with a −1 charge, and as a zwitterion it has no overall charge.
+
+**How many hydrogen bonds are there between DNA base pairs?**
+Adenine pairs with thymine using two hydrogen bonds, and guanine pairs with cytosine using three. These hydrogen bonds hold the two complementary strands together in the double helix.
+
+**What is the difference between secondary and tertiary protein structure?**
+Secondary structure is an α-helix or β-pleated sheet held by hydrogen bonds between peptide links in the backbone. Tertiary structure is the overall 3D fold, held by hydrogen bonds and S–S bonds involving the side chains.
+
+**How does cisplatin stop cancer cells dividing?**
+In a ligand replacement reaction, Cl⁻ ligands are replaced and platinum bonds to a nitrogen atom on guanine; the cis arrangement lets it bind to two guanines, distorting the DNA so it cannot be replicated. It also binds to DNA in healthy cells, causing side effects such as kidney damage and nausea.
+
+**Why does an enzyme bind only one enantiomer of a substrate?**
+The active site is stereospecific: its binding groups sit in fixed 3D positions. In AQA A-level Chemistry 7405, explain that only one enantiomer can line up its groups with all the binding positions, while its mirror image cannot.
+
 ## Official syllabus
 
 AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level

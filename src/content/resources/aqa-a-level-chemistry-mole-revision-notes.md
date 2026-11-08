@@ -17,13 +17,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "amount-of-substance-7405"
     subtopic: "the-mole-and-the-avogadro-constant-7405"
-description: "Condensed recall notes on relative atomic/molecular mass, the mole, the Avogadro constant and mole calculations for AQA A-Level Chemistry (7405), 3.1.2.1-3.1.2.2."
+description: "Condensed notes on relative atomic and molecular mass, the mole, the Avogadro constant and mole calculations for AQA A-Level Chemistry 7405, 3.1.2.1-3.1.2.2."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -152,6 +154,23 @@ If a question gives one measurement to 2 significant figures and another to 4 si
 - Calculate the number of ions in 500 cm³ of a 0.1 mol dm⁻³ solution of NaCl.
 - Explain when "relative formula mass" should be used instead of "relative molecular mass."
 - State why the Avogadro constant's value doesn't need to be memorised.
+
+## Frequently asked questions
+
+**Why do relative atomic mass and relative molecular mass have no units?**
+Ar and Mr are both defined relative to carbon-12, so they are ratios rather than raw masses. Relative atomic mass is the weighted mean mass of an atom on this scale, accounting for isotopic abundance.
+
+**Do you need to memorise the Avogadro constant for AQA A-Level Chemistry?**
+No. You are not expected to memorise its value; questions that need it will provide it, at about 6.02 × 10²³ mol⁻¹. The skill tested is applying it correctly.
+
+**What is the difference between amount in moles and number of particles?**
+Amount in moles is measured in mol, while number of particles is a count found by multiplying moles by the Avogadro constant. Skipping the Avogadro constant step confuses the two.
+
+**Are method marks given in AQA mole calculations?**
+AQA mark schemes award method marks for correct intermediate steps even if the final answer has a small arithmetic slip. Show every step and check the solute, because the ionic multiplier depends on how many ions each formula unit releases.
+
+**How are gas volumes calculated at A-level?**
+At A-level, gas volumes are found from the ideal gas equation, pV = nRT. The GCSE shortcut that 1 mole of gas occupies 24,000 cm³ at room temperature and pressure is used on this page only to keep the arithmetic simple.
 
 ## Related resources
 

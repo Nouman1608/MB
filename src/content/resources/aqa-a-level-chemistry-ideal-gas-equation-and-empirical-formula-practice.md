@@ -145,6 +145,23 @@ nitrogen 14.0, oxygen 16.0, fluorine 19.0, silicon 28.1, sulfur 32.1, vanadium 5
 - Forgetting that a mass by difference has two readings, so twice the reading uncertainty.
 - Stating that an error makes Mr "inaccurate" without saying whether it is too high or too low, and why.
 
+## Frequently asked questions
+
+**Are the ideal gas equation and empirical formula on AQA AS Chemistry?**
+Yes. Sections 3.1.2.3 and 3.1.2.4 of the AQA 7404/7405 specification are common to AS and A-level, so every question in this set suits both courses.
+
+**What is the most common mistake with pV = nRT?**
+Putting kPa, cm³ or °C straight into the equation without converting to Pa, m³ and K. Dividing cm³ by 1000 gives dm³, not m³, and the final volume must be converted back into the units the question asks for.
+
+**How should you deal with ratios like 1 : 2.5 or 1 : 1.33 in empirical formulae?**
+Multiply the whole ratio through to reach whole numbers, rather than rounding to the nearest whole number. Rounding mole values too early can also hide a 1.33 ratio.
+
+**What must a definition of empirical formula include?**
+It must say the simplest whole-number ratio of atoms of each element in a compound. "Simplest ratio" without "whole number" is incomplete.
+
+**How do you describe the effect of an experimental error on Mr?**
+Say whether the error makes Mr too high or too low, and explain why. Stating only that the value is "inaccurate" does not earn the mark.
+
 ## Next steps
 
 - [Ideal gas and formula revision notes](/resources/aqa-a-level-chemistry-ideal-gas-equation-and-empirical-formula-revision-notes/)

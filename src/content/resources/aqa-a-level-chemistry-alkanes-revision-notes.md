@@ -255,6 +255,23 @@ favours more substitution. Overall for full substitution: CH₄ + 4Cl₂ → CCl
 - Missing UV light, or writing Cl₂ → Cl⁻ + Cl⁺ (ions, not radicals) for initiation.
 - Propagation steps that form H• instead of HCl; the first step gives •CH₃ + HCl.
 
+## Frequently asked questions
+
+**What is the general formula of the alkanes?**
+Alkanes are saturated hydrocarbons with the general formula CₙH₂ₙ₊₂. Saturated means they contain only single C–C bonds.
+
+**Why do longer alkanes have higher boiling points?**
+Alkanes have only van der Waals forces between molecules. Longer chains have more electrons and more surface contact, so the forces are stronger and more energy is needed to separate the molecules.
+
+**Where does the nitrogen in NOₓ pollution come from?**
+The nitrogen in NOₓ comes from the air, not from the fuel. Sulfur dioxide, by contrast, comes from sulfur impurities in the fuel.
+
+**What is the difference between fractional distillation and cracking?**
+Fractional distillation is a physical process that separates crude oil by boiling point without breaking bonds, while cracking is a chemical process that breaks C–C bonds to make shorter molecules. AQA A-level Chemistry 7405 questions often test this distinction.
+
+**What is a radical in the chlorination of methane?**
+A radical is a species with an unpaired electron, shown by a dot, such as Cl• or •CH₃. Initiation needs UV light and splits Cl₂ into two Cl• radicals, not into ions.
+
 ## Official syllabus
 
 AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level

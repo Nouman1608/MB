@@ -197,6 +197,23 @@ Tip: n(A)/n(total) × P can be done in one step on the calculator. This keeps fu
 - Explaining a temperature effect without naming the endothermic or exothermic direction.
 - Forgetting to square-root at the end when the unknown partial pressure is squared in the expression.
 
+## Frequently asked questions
+
+**What is a mole fraction?**
+The mole fraction of gas A is the moles of A divided by the total moles of gas in the mixture. It has no units, and all the mole fractions in a mixture add up to 1.
+
+**How do you calculate a partial pressure?**
+Multiply the mole fraction of the gas by the total pressure: p(A) = x(A) × P(total). All the partial pressures in a mixture add up to the total pressure.
+
+**How do you work out the units of Kp?**
+The units are the pressure unit raised to the power Δn, where Δn is the gas moles on the right minus the gas moles on the left. If Δn = 0, Kp has no units.
+
+**What is the difference between Kp and Kc?**
+Kp uses partial pressures, written p(X), while Kc uses concentrations [X] in mol dm⁻³. Never put square brackets inside a Kp expression.
+
+**Is there a required practical for Kp in AQA A-level Chemistry 7405?**
+No. Section 3.1.10 is A-level only and has no required practical. It builds on the Kc and Le Chatelier content in section 3.1.6.
+
 ## Next steps
 
 Test yourself fully with the [Kp practice questions](/resources/aqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems-practice/), and check paper formats in the [exam preparation guide](/resources/aqa-a-level-chemistry-exam-preparation/). For a quick check of weaker areas, try the [free diagnostics](/diagnostics/).

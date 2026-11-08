@@ -220,6 +220,23 @@ active. This is a skills opportunity, not one of the numbered required practical
 - Calling a sample of a single enantiomer "racemic" because it came from a reaction; only an equal mixture is a
   racemate.
 
+## Frequently asked questions
+
+**What is the difference between E–Z isomerism and optical isomerism?**
+E–Z isomerism is caused by restricted rotation about a planar C=C bond, while optical isomerism is caused by a carbon with four different groups. Both are types of stereoisomerism.
+
+**What is plane-polarised light?**
+Plane-polarised light is light vibrating in one plane only. Enantiomers are optically active because they rotate the plane of plane-polarised light.
+
+**Is a sample of a single enantiomer from a reaction a racemate?**
+No. A racemate is a mixture of equal amounts of the two enantiomers, so a sample of a single enantiomer is optically active, not racemic.
+
+**Which carbons can never be chiral centres?**
+Carbons in C=C, C=O or C≡N bonds, and CH₂ or CH₃ carbons, cannot be chiral centres. Putting an asterisk on one of these carbons is a common error.
+
+**Is the sucrose and polarised light experiment a required practical in AQA A-level Chemistry 7405?**
+No. Passing polarised light through a sucrose solution is a suggested skills opportunity, not one of the numbered required practicals. It shows that the solution is optically active.
+
 ## Related pages
 
 The [alkenes](/resources/aqa-a-level-chemistry-alkenes/) and

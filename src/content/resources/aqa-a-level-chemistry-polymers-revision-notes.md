@@ -263,6 +263,23 @@ Stronger forces between chains → higher melting point and stronger fibres.
 - Giving the free amine as a product of acid hydrolysis.
 - Disposal answers with an advantage but no disadvantage, or with no chemistry.
 
+## Frequently asked questions
+
+**What are the monomers of Terylene and nylon 6,6?**
+Terylene is a polyester made from benzene-1,4-dicarboxylic acid and ethane-1,2-diol. Nylon 6,6 is a polyamide made from hexanedioic acid and hexane-1,6-diamine.
+
+**Why are polyalkenes chemically inert?**
+Polyalkenes have only strong, non-polar C–C and C–H bonds, so there is no δ+ carbon for nucleophiles to attack. Explaining their inertness with "weak bonds" loses the mark.
+
+**Why can polyesters and polyamides be hydrolysed?**
+Their ester and amide links contain a polar C=O bond, so the δ+ carbon can be attacked by nucleophiles such as water or hydroxide ions. The specification describes these polymers as biodegradable.
+
+**What are the products of acid and alkaline hydrolysis of a polyamide?**
+In acid hydrolysis the amine groups end up as ammonium salts, and in alkaline hydrolysis the acid groups end up as carboxylate salts. Giving a free amine from acid hydrolysis is a common error.
+
+**What are the drawbacks of incinerating polymers?**
+Incineration releases CO₂, and burning PVC gives toxic HCl, which must be removed. Its advantages are reduced volume and energy that can generate electricity; this is part of AQA A-level Chemistry 7405 section 3.3.12.2.
+
 ## Official syllabus
 
 AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level

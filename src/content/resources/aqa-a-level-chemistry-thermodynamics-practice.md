@@ -225,6 +225,23 @@ so the energy per mole vaporised is overestimated [1].
 - Reading the gradient of a ΔG–T graph as +ΔS.
 - Missing units on ΔS (J K⁻¹ mol⁻¹) and signs on enthalpy values.
 
+## Frequently asked questions
+
+**Is thermodynamics an AS topic in AQA Chemistry?**
+No. Section 3.1.8 Thermodynamics of the AQA 7404/7405 specification is A-level only, so these questions are for the A-level, not the AS.
+
+**What is the usual slip in Born–Haber cycle calculations?**
+Doubling only some of the steps when the formula contains two of a particle, as in Na₂O or MgCl₂. Label each term with its multiplier and write the full Hess's law equation before rearranging.
+
+**How should you define enthalpy of atomisation?**
+Define it per mole of gaseous atoms formed from the element in its standard state, not per mole of bonds broken. "1 mole of gaseous atoms" is the key idea.
+
+**What unit errors happen with ΔG = ΔH – TΔS?**
+ΔS is usually given in J K⁻¹ mol⁻¹ while ΔH is in kJ mol⁻¹, so convert before combining them. Mixing J and kJ is one of the most common ways to lose marks.
+
+**What must a feasibility temperature answer include?**
+State the temperature and also whether the reaction is feasible above or below it. Giving the temperature alone is incomplete.
+
 ## Next steps
 
 - [Thermodynamics revision notes](/resources/aqa-a-level-chemistry-thermodynamics-revision-notes/)

@@ -217,6 +217,23 @@ figures to match the data.
 - Forgetting that plasticiser works by weakening forces between chains.
 - Rounding Mr too early in a moles calculation.
 
+## Frequently asked questions
+
+**Is the alkenes topic AS content in AQA Chemistry 7404/7405?**
+Yes. Section 3.3.4 Alkenes is all AS content, so nothing in it is A-level only. It is examined on AS Paper 2 and A-level Paper 2, and A-level Paper 3 can test any content.
+
+**Where do curly arrows usually lose marks in electrophilic addition?**
+The first arrow must start from the C=C bond, not from a carbon atom, and the arrow to the carbocation must start from a lone pair on the negative ion. You also need the δ+/δ− dipole on HBr or the induced dipole on Br₂.
+
+**How should you explain which product is the major product?**
+Explain it using the stability of the carbocation intermediate, not the stability of the product. Also remember that bromine adding to an alkene gives one product, not major and minor products.
+
+**What wording is needed for the bromine water test?**
+Write "colourless", not "goes clear", and give a result for both substances being compared. An answer with only one observation is incomplete.
+
+**What mistakes are common when drawing a polymer repeating unit?**
+A repeating unit must contain two main-chain carbons joined by a single C–C bond, with extension bonds, brackets and n. Drawing it with a C=C bond or making it longer than two main-chain carbons loses the mark.
+
 ## Next steps
 
 - [Alkenes revision notes](/resources/aqa-a-level-chemistry-alkenes-revision-notes/)

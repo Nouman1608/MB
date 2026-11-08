@@ -343,6 +343,23 @@ none out.
   steps that do not regenerate a radical.
 - Forgetting UV light as the condition for initiation.
 
+## Frequently asked questions
+
+**What is crude oil made of?**
+Petroleum (crude oil) is a mixture consisting mainly of alkanes with a wide range of chain lengths. It is separated into fractions, each a mixture of hydrocarbons with similar boiling points, by fractional distillation.
+
+**Why does cracking always produce an alkene?**
+When C–C bonds in a long-chain alkane break and all the products are hydrocarbons, there is not enough hydrogen for every product molecule to be an alkane. At least one product must therefore be an alkene.
+
+**What are the products of incomplete combustion of an alkane?**
+With a limited oxygen supply, alkanes burn to give carbon monoxide and/or carbon (soot), plus water. Complete combustion in plenty of oxygen gives carbon dioxide and water.
+
+**Do you need curly arrows for free-radical mechanisms in AQA A-level Chemistry?**
+No. The AQA 7404/7405 specification represents the unpaired electron by a dot and does not require curly arrows for radical mechanisms. You must write a balanced equation for each initiation, propagation and termination step.
+
+**Is there a required practical for alkanes in AQA Chemistry?**
+No. Section 3.3.2 lists no required practical, although the specification suggests fractional distillation of a crude oil substitute as an opportunity for skills development.
+
 ## Where to go next
 
 Use the [alkanes revision notes](/resources/aqa-a-level-chemistry-alkanes-revision-notes/) and

@@ -259,6 +259,23 @@ use [organic analysis](/resources/aqa-a-level-chemistry-organic-analysis-revisio
 </figure>
 
 
+## Frequently asked questions
+
+**Why do chemists prefer processes with no solvent?**
+A solvent has to be made and transported, separated from the product (often by distillation, which uses energy) and becomes waste unless recycled. Many organic solvents are also flammable, toxic or volatile.
+
+**What is the difference between atom economy and percentage yield?**
+Atom economy is calculated from the balanced equation, while percentage yield comes from the amount of product actually collected. An addition reaction with one product has an atom economy of exactly 100%.
+
+**Can NaBH₄ reduce a nitrile?**
+No. In the AQA A-level Chemistry 7405 specification, NaBH₄ reduces aldehydes and ketones only. Nitriles and nitro compounds need other reducing agents.
+
+**When is KCN needed in a synthesis route?**
+Use KCN when the carbon chain must grow by one carbon, because it forms a nitrile. Using ammonia in that situation gives an amine with too few carbons.
+
+**Why is ethanoic anhydride preferred to an acyl chloride in industry?**
+The acyl chloride route can have the higher atom economy, but the anhydride is cheaper and safer. Compare routes on steps, atom economy, hazards and cost.
+
 ## Official syllabus
 
 AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level

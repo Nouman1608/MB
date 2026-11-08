@@ -219,6 +219,23 @@ change Fehling's solution.
 - Explaining fingerprinting without saying the spectrum is compared with a known one.
 - Describing global warming without saying the bonds in the gases absorb infrared.
 
+## Frequently asked questions
+
+**What is Required practical 6 in AQA A-level Chemistry?**
+Required practical 6 is "Tests for alcohol, aldehyde, alkene and carboxylic acid". The tests come from elsewhere in the AQA 7404/7405 specification and are used in section 3.3.6.1.
+
+**How do you tell an alcohol O–H from a carboxylic acid O–H in an IR spectrum?**
+An alcohol O–H gives a broad absorption at 3230–3550 cm⁻¹, while a carboxylic acid O–H gives a very broad absorption at 2500–3000 cm⁻¹. Calling a 2500–3000 cm⁻¹ absorption an alcohol is a common error.
+
+**Why does high-resolution mass spectrometry identify a molecular formula?**
+Molecules with the same whole-number Mr have different precise masses. Measuring the molecular ion's m/z to four decimal places fixes the molecular formula, so do not round precise masses.
+
+**What is the fingerprint region used for?**
+The fingerprint region identifies a whole molecule by comparing its spectrum with that of a known sample. An answer must say the comparison is made with a known spectrum.
+
+**How is infrared absorption linked to global warming?**
+Bonds in gases such as CO₂, methane and water vapour absorb infrared radiation. Describing global warming without saying the bonds absorb infrared loses the mark.
+
 ## Official syllabus
 
 AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level

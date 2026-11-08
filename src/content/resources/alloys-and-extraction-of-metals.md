@@ -31,10 +31,12 @@ syllabusTopics:
 description: "Uses of metals, alloys and why they're harder than pure metals, and extracting iron and aluminium, for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers the remaining subtopics of Topic 9, Metals — **9.2 Uses of
@@ -261,6 +263,23 @@ reactive metals, electrolysis for the most reactive
 step
 - Aluminium extraction by electrolysis: the role of cryolite, and why
 carbon anodes need replacing
+
+## Frequently asked questions
+
+**What is an alloy?**
+An alloy is a mixture of a metal with one or more other elements, usually other metals or carbon. The two named examples for Cambridge IGCSE 0620 and O Level 5070 are brass (copper and zinc) and stainless steel (iron with chromium, nickel and carbon).
+
+**Why is aluminium extracted by electrolysis and not by reduction with carbon?**
+Aluminium is more reactive than carbon, so carbon cannot reduce aluminium oxide. Aluminium is instead extracted from purified bauxite by electrolysis.
+
+**Why is cryolite used in the extraction of aluminium?**
+Aluminium oxide is dissolved in molten cryolite, which lowers its melting point enough to make electrolysis economically practical. Pure aluminium oxide melts above 2000 °C.
+
+**What does limestone do in the blast furnace?**
+Limestone decomposes to calcium oxide, which reacts with silica impurities to form slag (calcium silicate). The molten slag floats on the molten iron and is drawn off separately.
+
+**Why must the carbon anodes be replaced in aluminium extraction?**
+The oxygen produced at the anode reacts with the hot carbon, burning it away as carbon dioxide. The anodes therefore wear away and need regular replacement.
 
 ## Related resources
 

@@ -31,11 +31,13 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on the reactivity series, extraction methods, alloys and rusting."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -133,5 +135,19 @@ Related: [Metals and Extraction revision notes](/resources/alloys-and-extraction
 | Copper | Electrical wiring | Excellent conductivity + ductility |
 | Iron/steel | Construction, vehicles | Strength, low cost |
 | Zinc | Galvanising *(0620 Extended, 5070 required)* | More reactive than iron |
+
+## Frequently asked questions
+
+**Which metals and extraction topics are Extended only for Cambridge IGCSE 0620?**
+Blast-furnace symbol equations, the details of aluminium extraction (half-equations, cryolite and the anodes), the structural explanation of alloy hardness and galvanising as sacrificial protection go beyond 0620 Core. 0620 Core describes the blast furnace in words only, and O Level 5070 candidates need all of it.
+
+**How do you earn the mark for a use of a metal?**
+Pair every use with the specific property that explains it. Stating a use alone, without the linking property such as low density or good conductivity, earns no credit.
+
+**Is cryolite a catalyst in aluminium extraction?**
+No. Calling cryolite a catalyst is a common way to lose marks; its role in the electrolysis is to lower the melting point, not to speed up the reaction.
+
+**Is the best electrical conductor always chosen for an electrical use?**
+Not necessarily. Exam answers should weigh other properties, such as density and cost, against conductivity rather than assuming the better conductor always wins.
 
 For condensed recall notes on this topic, see the [Metals and Extraction revision notes](/resources/alloys-and-extraction-revision-notes/); for the full explanation with additional detail, see the [Metals, Alloys and Extraction study guide](/resources/alloys-and-extraction-of-metals/).

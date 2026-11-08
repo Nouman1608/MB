@@ -25,10 +25,12 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on manufacturing ethanol, ethanoic acid reactions and esterification for IGCSE Chemistry."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -155,3 +157,17 @@ content for 0620 candidates, but are required outcomes for every O Level
 5070 candidate, since 5070 has no Core/Supplement split — always check
 which syllabus you are being examined against before deciding how
 much of this network to prioritise in revision.
+
+## Frequently asked questions
+
+**Which alcohols and carboxylic acids questions are Extended only for Cambridge IGCSE 0620?**
+Only the question on naming and writing the formula of an ester is marked "0620 Extended, 5070 required". All other questions can be answered by a 0620 Core candidate, and O Level 5070 candidates need the whole set.
+
+**How do you avoid mixing up the two methods of making ethanol in an exam?**
+Learn the conditions as two separate sets, one for fermentation and one for the catalytic addition of steam to ethene. A June 2025 examiner report noted that many candidates gave fermentation conditions when asked about the ethene route.
+
+**Do reaction conditions need values to earn marks?**
+Yes. Writing "temperature" or "pressure" on its own is not creditworthy; state whether it is high or low, or give the actual value.
+
+**Is a weak acid the same as a dilute acid?**
+No. Ethanoic acid is weak because it only partially ionises in water, whatever its concentration, while a dilute acid simply has less acid per volume. A dilute strong acid still ionises fully.

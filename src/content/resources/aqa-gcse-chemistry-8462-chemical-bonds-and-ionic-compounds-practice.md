@@ -200,6 +200,23 @@ of attraction between oppositely charged ions acting in all directions** [1]
 - Leaving an empirical formula as a raw count (K₁₂S₆) or writing the non-metal first.
 - On "evaluate" questions, giving only drawbacks and no judgement.
 
+## Frequently asked questions
+
+**Is any of chemical bonds and ionic compounds Higher tier only in AQA GCSE Chemistry 8462?**
+No. Sections 4.2.1.1 and 4.2.1.3 have no Higher tier only content and are assessed on Paper 1 at Foundation and Higher Tier, so every question here suits both tiers.
+
+**What wording is needed to describe covalent bonding for full marks?**
+Say that a pair of electrons is shared and that the shared pair is attracted to both nuclei. "Sharing electrons" without "pair", or "both atoms" instead of "both nuclei", is unlikely to earn all the marks.
+
+**Why should you never call sodium chloride a molecule?**
+Sodium chloride is a giant lattice of ions held by forces acting in all directions, not separate NaCl molecules. Using the word "molecule" for an ionic compound loses marks.
+
+**How do you tell an ionic diagram from a metallic one?**
+An ionic diagram must contain negative ions as well as positive ones. A diagram of positive particles among electrons shows metallic bonding, not ionic bonding.
+
+**How should you write the limitations of a structure diagram?**
+Name the specific feature that is misleading, such as the sticks, gaps, ion sizes or showing only a fragment. Generic answers like "not realistic" or "not accurate" do not score.
+
 ## Next steps
 
 - [Chemical bonds and ionic compounds revision notes](/resources/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds-revision-notes/)

@@ -274,6 +274,23 @@ Use Ar values H = 1.0, C = 12.0, N = 14.0, O = 16.0, Cl = 35.5.
 - Describing melting point as "pure if it melts" rather than sharp and matching the data value.
 - Not releasing pressure from the separating funnel when NaHCO₃ produces CO₂.
 
+## Frequently asked questions
+
+**How do you name an ester?**
+The alkyl part from the alcohol comes first and the -oate part from the acid comes second. Writing the acid part first names a different ester and scores nothing.
+
+**What are fats and oils?**
+Fats and oils are esters of glycerol (propane-1,2,3-triol) with three long-chain carboxylic acids. Soaps are salts of long-chain carboxylic acids, made by hydrolysing fats with alkali.
+
+**What does alkaline hydrolysis of an ester produce?**
+Heating an ester under reflux with sodium hydroxide solution gives the alcohol and the carboxylate salt, not the carboxylic acid. Acid hydrolysis, by contrast, is reversible and gives the acid.
+
+**What by-products form when acyl chlorides and acid anhydrides react?**
+An acyl chloride gives HCl, which forms a salt when excess ammonia or amine is present, while an acid anhydride gives a carboxylic acid. Include the second NH₃ or amine molecule in equations with excess reagent.
+
+**How do you test the purity of an organic solid in Required practical 10?**
+Measure its melting point: a pure solid melts sharply at a value matching the data value, while an impure one melts lower over a range. This is part of AQA A-level Chemistry 7405 section 3.3.9.
+
 ## Official syllabus
 
 AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and

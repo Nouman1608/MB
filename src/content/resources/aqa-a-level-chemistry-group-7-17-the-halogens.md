@@ -320,6 +320,23 @@ mass    = 0.200 × 74.5 = 14.9 g
 - Saying AgBr is insoluble in all ammonia. It dissolves in concentrated ammonia.
 - Missing the word "disproportionation" when chlorine forms Cl⁻ and ClO⁻.
 
+## Frequently asked questions
+
+**Why does electronegativity decrease down Group 7?**
+Down the group atomic radius increases and there is more shielding from inner shells, so the bonding pair of electrons is further from the nucleus and attracted less strongly. Fluorine is therefore the most electronegative element in the group.
+
+**Why does oxidising ability decrease down Group 7?**
+A halogen oxidises by gaining electrons. Down the group the atoms get bigger and shielding increases, so an incoming electron is attracted less strongly; a more reactive halogen displaces a less reactive one from its halide ions.
+
+**Which halide reduces sulfuric acid to hydrogen sulfide?**
+Only iodide is a strong enough reducing agent to reduce concentrated sulfuric acid to H₂S. Writing H₂S as a product with bromide is a common error.
+
+**Why is fluorine not used in school practical work?**
+The AQA 7404/7405 specification notes that fluorine is too dangerous for a school laboratory, so practical work uses chlorine, bromine and iodine.
+
+**What is bleach made from?**
+Chlorine reacts with cold, dilute sodium hydroxide in a disproportionation reaction to form sodium chlorate(I), NaClO. The solution is used as bleach for disinfecting and cleaning.
+
 ## Official syllabus
 
 AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level

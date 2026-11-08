@@ -31,10 +31,12 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on acids, bases, salt preparation and titrations for IGCSE Chemistry."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -129,5 +131,19 @@ c = n ÷ V = 2.00 × 10⁻³ ÷ 0.0250 [1] = **0.0800 mol dm⁻³** [1].
 - Choosing titration for a salt where one reactant is actually insoluble, or vice versa — the choice of method always follows directly from the solubility of the salt and its reactants, not from habit.
 - Forgetting that amphoteric oxides (aluminium and zinc) react with *both* acids and bases, and are worth memorising as a pair since they don't follow the metal/non-metal pattern of the other oxides.
 - Describing the anhydrous-to-hydrated colour change without naming water of crystallisation, or without giving the correct hydrated formula.
+
+## Frequently asked questions
+
+**Which acids, bases and salts practice questions are for Cambridge IGCSE 0620 Extended only?**
+Questions and parts marked "0620 Extended, 5070 required" go beyond 0620 Core, such as proton definitions, precipitation of insoluble salts and strong versus weak acids. All other questions can be answered by a 0620 Core candidate, and the whole set suits O Level 5070.
+
+**How do you choose a method for preparing a salt?**
+The choice follows from solubility. Use an acid with an excess insoluble solid when that solid can be filtered off, titration when both reactants are soluble, and precipitation when the salt itself is insoluble.
+
+**What are the most common mistakes in titration calculations?**
+Not converting volumes from cm³ to dm³ (divide by 1000) and ignoring the mole ratio in the balanced equation, such as the 1 : 2 ratio between sulfuric acid and sodium hydroxide. Write the ratio down before you calculate.
+
+**Is a strong acid the same as a concentrated acid?**
+No. Strong describes an acid that fully dissociates into ions in water, while concentrated describes the amount of acid per volume of solution. Confusing the two is a frequent way to lose marks.
 
 For condensed recall notes on this topic, see the [Acids, Bases and Salts revision notes](/resources/acids-bases-and-salts-revision-notes/); for the full explanation with worked examples, see the [Acids, Bases and Salts study guide](/resources/acids-bases-and-salts/).

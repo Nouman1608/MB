@@ -269,6 +269,23 @@ Use the values in the table above.
 - Getting the concentration effect backwards: more oxidised form makes E more positive.
 - Writing fuel cell half-equations for acid conditions when the question asks for the alkaline cell.
 
+## Frequently asked questions
+
+**What are the standard conditions for measuring electrode potentials?**
+Standard electrode potentials are measured against the standard hydrogen electrode at 298 K, 100 kPa and 1.00 mol dm⁻³ solutions of ions. Quoting a different pressure or leaving out the temperature loses the mark.
+
+**What does the salt bridge do in an electrochemical cell?**
+The salt bridge, usually filter paper soaked in saturated KNO₃(aq), lets ions move to balance charge and complete the circuit. It does not carry electrons.
+
+**Which electrode is negative in an electrochemical cell?**
+Oxidation happens at the negative electrode and reduction at the positive electrode. In the conventional cell representation, the negative electrode is written on the left.
+
+**Does a fuel cell need to be recharged?**
+No. In a fuel cell, fuel and oxygen are supplied continuously, so it generates a current without electrical recharging. A rechargeable cell needs an external supply to reverse its electrode reactions.
+
+**How does concentration affect an electrode potential?**
+Increasing the concentration of the oxidised form makes the electrode potential more positive. This topic is A-level only content in AQA Chemistry 7405 section 3.1.11.
+
 ## Official syllabus
 
 AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards, section 3.1.11 Electrode potentials and electrochemical cells (A-level only). Published by AQA.

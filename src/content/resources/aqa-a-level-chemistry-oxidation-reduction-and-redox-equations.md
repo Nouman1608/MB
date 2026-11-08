@@ -312,6 +312,23 @@ Charge check: left = −2; right = +4 − 10 + 4 = −2. Balanced.
 - Stating "copper is reduced" when the species reduced is Cu²⁺.
 - Treating spectator ions such as Na⁺ or SO₄²⁻ as if they change oxidation state.
 
+## Frequently asked questions
+
+**What is an oxidation state?**
+An oxidation state is the charge an atom would have if all its bonds were treated as ionic. An uncombined element has an oxidation state of 0, and the oxidation states in a neutral compound add up to 0.
+
+**How do oxidation states show what has been oxidised or reduced?**
+An increase in oxidation state means the element has been oxidised, and a decrease means it has been reduced. This works even when no ions are obvious in the equation.
+
+**How do you combine two half-equations?**
+Write the oxidation and reduction half-equations, multiply one or both so the electrons lost equal the electrons gained, then add them and cancel anything on both sides. No electrons should remain in the overall equation.
+
+**Do spectator ions change oxidation state?**
+No. Spectator ions such as Na⁺ or SO₄²⁻ do not change oxidation state, so they are not oxidised or reduced. Treating them as if they react is a common error.
+
+**Is there a required practical for redox in AQA A-level Chemistry 7405?**
+No required practical is listed in section 3.1.7. The skills are used again in inorganic chemistry and in titration calculations.
+
 ## Where to go next
 
 - Condensed summary and a quick self-test: [revision notes](/resources/aqa-a-level-chemistry-oxidation-reduction-and-redox-equations-revision-notes/)

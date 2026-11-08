@@ -280,6 +280,23 @@ acidified barium chloride for sulfate so that carbonate does not also give a whi
 - Forgetting to name disproportionation for chlorine with water or NaOH.
 - Saying chlorine is added to water to "clean" it rather than to kill bacteria.
 
+## Frequently asked questions
+
+**Why does the boiling point of the halogens increase down the group?**
+Down the group there are more electrons per molecule, so the van der Waals forces between molecules are stronger. Boiling a halogen overcomes these intermolecular forces; no covalent bonds break.
+
+**What is the first step when a sodium halide reacts with concentrated sulfuric acid?**
+Every sodium halide first reacts in an acid–base reaction to give the hydrogen halide. This step is not redox; only the more strongly reducing halides then go on to reduce the sulfuric acid.
+
+**Which silver halides dissolve in ammonia?**
+Only silver chloride dissolves in dilute ammonia, silver bromide dissolves in concentrated ammonia, and silver iodide does not dissolve. Say "dilute" or "concentrated" when describing the result.
+
+**What happens when chlorine water is left in sunlight?**
+In bright sunlight, chlorine water decomposes to chloride ions and oxygen: 2Cl₂ + 2H₂O → 4H⁺ + 4Cl⁻ + O₂. Without sunlight, chlorine and water form a reversible equilibrium with HCl and HClO.
+
+**Why is chlorine added to drinking water?**
+Chlorine is added to water to kill bacteria, not simply to "clean" it. In AQA A-level Chemistry 7405 you also weigh this benefit against chlorine's toxic effects.
+
 ## Official syllabus
 
 AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level

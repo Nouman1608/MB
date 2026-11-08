@@ -293,6 +293,23 @@ Deduce the structure.
 - Saying deuterated solvents are used because they are inert. They give **no signal** in ¹H NMR.
 - Forgetting that a CH₃ next to C=O and a CH₃ next to O are both singlets. Only δ separates them.
 
+## Frequently asked questions
+
+**What does NMR spectroscopy show about a molecule?**
+NMR gives information about the position of ¹³C or ¹H atoms in a molecule, because nuclei in different environments absorb at different frequencies. Atoms in the same environment give one signal.
+
+**What does the n+1 rule mean?**
+A ¹H signal is split into n + 1 lines by n non-equivalent hydrogen atoms on adjacent carbon atoms. The AQA 7404/7405 specification limits this to doublets, triplets and quartets in aliphatic compounds.
+
+**Why do some hydrogens appear at a larger chemical shift?**
+A nucleus close to an electronegative atom such as oxygen, or close to a C=O group, appears at a larger δ. Chemical shift depends on the molecular environment and is measured in ppm relative to TMS at δ = 0.
+
+**What does integration tell you in a ¹H NMR spectrum?**
+The relative area under each peak is proportional to the relative number of hydrogen atoms in that environment. It gives a ratio, so you need the molecular formula to find the actual numbers.
+
+**Is there a required practical for NMR in AQA A-level Chemistry?**
+No. Section 3.3.15 lists no required practical, and the specification puts the emphasis on using spectral data to solve problems rather than on theory.
+
 ## Where to go next
 
 Use the [revision notes](/resources/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy-revision-notes/)

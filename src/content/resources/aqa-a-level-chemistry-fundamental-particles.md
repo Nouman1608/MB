@@ -229,6 +229,23 @@ It has 15 protons, so the atomic number is 15 and the element is phosphorus.
 - Explaining the change of model by saying scientists "got it wrong". The better answer is that new evidence did not fit the old model.
 - Using the number of neutrons to find charge.
 
+## Frequently asked questions
+
+**What are the relative charge and mass of a proton, neutron and electron?**
+A proton has relative charge +1 and relative mass 1, a neutron has charge 0 and mass 1, and an electron has charge −1 and mass 1/1840. Relative values have no units.
+
+**Where are protons, neutrons and electrons found in an atom?**
+The protons and neutrons are in the nucleus at the centre, and the electrons are outside the nucleus. The nucleus is very small compared with the atom, which is mostly empty space, but it holds nearly all the mass.
+
+**Why was the plum pudding model replaced?**
+When alpha particles were fired at thin gold foil, nearly all passed straight through but some were deflected and a tiny fraction rebounded. The plum pudding model could not explain the large deflections, so it was replaced by a model with a tiny, dense, positively charged nucleus.
+
+**Do you need to learn the names of scientists for AQA A-level Chemistry 3.1.1.1?**
+The specification does not name particular scientists or models. It asks you to appreciate that understanding of atomic structure has evolved, and to explain why a model is changed when new evidence does not fit it.
+
+**Does the electron have zero mass?**
+No. The electron's relative mass is very small, about 1/1840, but it is not zero. Giving the electron a mass of zero is a common error.
+
 ## Next steps
 
 Try the [Fundamental particles practice questions](/resources/aqa-a-level-chemistry-fundamental-particles-practice/), then move on to isotopes and mass spectrometry in the [Atomic Structure study guide](/resources/a-level-aqa-chemistry-atomic-structure/).

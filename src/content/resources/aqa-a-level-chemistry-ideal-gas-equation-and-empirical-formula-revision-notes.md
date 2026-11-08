@@ -261,6 +261,23 @@ share the same percentages. Only the Mr tells them apart.
 - Saying "heat it for longer" instead of "heat to constant mass" when asked how to make sure a reaction
   is complete.
 
+## Frequently asked questions
+
+**How do you convert units for the ideal gas equation?**
+Pressure must be in Pa (kPa × 10³, MPa × 10⁶), volume in m³ (dm³ × 10⁻³, cm³ × 10⁻⁶) and temperature in kelvin. A pressure such as "101" is almost certainly in kPa.
+
+**How do you calculate a molecular formula from an empirical formula?**
+Divide Mr by the empirical formula mass to find a whole-number multiplier, then multiply the empirical formula by it. Show the division so the multiplier is justified.
+
+**Does Mr have units?**
+No. Relative molecular mass, Mr, has no units, while molar mass M is in g mol⁻¹. M = mRT / pV gives M, and you quote Mr as the same number without units.
+
+**How do you make sure a metal has fully reacted when finding the formula of an oxide?**
+Heat to constant mass. Writing "heat it for longer" does not earn the mark.
+
+**Which AQA A-level Chemistry sections do these notes cover?**
+They cover 3.1.2.3 The ideal gas equation and 3.1.2.4 Empirical and molecular formula from section 3.1.2 Amount of substance of the AQA 7404/7405 specification, both common to AS and A-level.
+
 ## Official syllabus
 
 Source document: AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level

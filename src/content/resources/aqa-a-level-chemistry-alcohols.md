@@ -385,6 +385,23 @@ Answer: **70.1 %**. Product is lost in transfers, on the drying agent and throug
 - Missing E/Z isomers among elimination products.
 - Calling the Fehling's precipitate "brown" instead of red.
 
+## Frequently asked questions
+
+**What is a biofuel in AQA A-level Chemistry?**
+A biofuel is a fuel produced from biological material (biomass), such as crops, that has been grown recently and can be grown again. Ethanol made by fermenting sugar is a biofuel; ethanol made from ethene from crude oil is not.
+
+**Why is fermentation carried out at around 35 °C?**
+It is a compromise: lower temperatures give a slow rate, while much higher temperatures denature the enzymes in the yeast. Air is also excluded, so the ethanol is not oxidised to ethanoic acid.
+
+**How do you oxidise a primary alcohol to an aldehyde rather than a carboxylic acid?**
+Heat gently with a limited amount of oxidising agent and distil the aldehyde off as it forms. The aldehyde has a lower boiling point because there is no hydrogen bonding between its molecules, so it leaves before it can be oxidised further; reflux with excess oxidising agent gives the carboxylic acid instead.
+
+**How do Tollens' reagent and Fehling's solution distinguish aldehydes from ketones?**
+When warmed with an aldehyde, Tollens' reagent gives a silver mirror and Fehling's solution changes from blue to a red precipitate, as the aldehyde is oxidised to a carboxylic acid. Ketones are not easily oxidised, so there is no change.
+
+**Is the alcohols topic AS or A-level only in AQA Chemistry 7404/7405?**
+Section 3.3.5 Alcohols, including Required practical 5, is AS content and nothing in it is A-level only. Organic chemistry is on Paper 2 at AS and A-level, and A-level Paper 3 can test any content.
+
 ## Where this links
 
 Carbocations and polymers: [alkenes](/resources/aqa-a-level-chemistry-alkenes/). Combustion calorimetry: [energetics](/resources/aqa-a-level-chemistry-energetics/). Dichromate(VI)

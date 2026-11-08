@@ -246,6 +246,23 @@ and testing the pH of the oxides (AT a, c and k; PS 2.2).
 </figure>
 
 
+## Frequently asked questions
+
+**What is an amphoteric oxide?**
+An amphoteric oxide reacts with both acids and bases to form a salt and water. In Period 3, aluminium oxide, Al₂O₃, is amphoteric.
+
+**What forms when sulfur dioxide reacts with water?**
+Sulfur dioxide reacts with water to form H₂SO₃, sulfuric(IV) acid, with sulfur staying at +4. SO₃ reacts with water to form H₂SO₄, sulfuric(VI) acid.
+
+**Which Period 3 oxide has the highest melting point?**
+The order is MgO > Al₂O₃ > SiO₂ > Na₂O > P₄O₁₀ > SO₃. Compare MgO and Na₂O using both ion charge and ion size.
+
+**Does silicon dioxide react with sodium hydroxide?**
+Silicon dioxide is acidic but needs hot, concentrated NaOH to react, and it does not react with water. Forgetting these conditions is a common error.
+
+**Is there a required practical for Period 3 oxides in AQA A-level Chemistry 7405?**
+No. Section 3.2.4 has no required practical, but the specification suggests burning elements in oxygen and testing the pH of the oxides.
+
 ## Official syllabus
 
 AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level

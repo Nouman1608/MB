@@ -317,6 +317,23 @@ When you evaluate a method, give an advantage **and** a disadvantage, each tied 
 - Giving the acid, not the salt, as a product of alkaline hydrolysis.
 - Listing "recycling is good" without a reason or a disadvantage.
 
+## Frequently asked questions
+
+**What is condensation polymerisation?**
+In condensation polymerisation each monomer has two reactive functional groups, and a small molecule, usually water, is lost each time two monomers join. Addition polymerisation, by contrast, opens a C=C bond and produces nothing else.
+
+**Which condensation polymers do you need to know for AQA A-level Chemistry?**
+You need polyesters such as Terylene and polyamides such as nylon 6,6 and Kevlar, made from dicarboxylic acids with diols or diamines, or from amino acids. Section 3.3.12 of the AQA 7404/7405 specification is A-level only.
+
+**Does hydrolysis mean a polymer will biodegrade?**
+Not on its own. Ester and amide links can be hydrolysed, but biological breakdown depends on the polymer, its accessibility, the organisms or enzymes present and the conditions; common PET and nylon materials can persist for long periods.
+
+**Is there a required practical for polymers in AQA Chemistry?**
+No. Section 3.3.12 lists no required practical, but it suggests making nylon 6,6 as a practical opportunity.
+
+**Why is "recycling is good" a weak answer?**
+It gives no reason and no disadvantage. Disposal answers should weigh advantages and disadvantages of landfill, incineration and recycling, with chemical reasons.
+
 ## Where next
 
 Use the [polymers revision notes](/resources/aqa-a-level-chemistry-polymers-revision-notes/), then the
