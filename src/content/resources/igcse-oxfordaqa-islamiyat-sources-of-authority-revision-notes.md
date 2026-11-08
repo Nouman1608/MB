@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-life-hazrat-muhammad-9237"
     subtopic: "sources-of-authority-9237"
-description: "Condensed recall notes on the Qur'an, Hadith, Sunnah, Ijma and Qiyas as sources of authority for OxfordAQA International GCSE Islamiat sub-topics 3.2.2.1-3.2.2.5 (9237)."
+description: "Revision notes on the Qur'an, Hadith, Sunnah, Ijma and Qiyas as sources of authority for OxfordAQA International GCSE Islamiat 9237, sub-topics 3.2.2.1-3.2.2.5."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; added a short exam-format/content section (page was under 900 words); description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
@@ -141,6 +143,10 @@ unable to answer a question that asks directly about one of them —
 treat the passages-for-study list as a mandatory companion to these
 notes, not an optional extra.
 
+## How is this topic examined?
+
+Sources of authority in Islam is examined in OxfordAQA 9237 Paper 2, Section B (25 marks). Each section has short questions worth 1, 2, 4 and 6 marks, building to an extended response worth 12 marks that is linked to a set passage. Learn the Arabic terms and their meanings for the short items, and for the 12-mark answer plan two or three developed points that quote or refer to the passage and reach a judgement.
+
 ## Self-test
 
 1. Place the four sources of authority in order and explain why Ijma
@@ -159,3 +165,14 @@ the content of the Hadith text itself. 4. Sahih, Hasan, Daeef, Maudu.
 5. Answering "explain the importance of ___" questions: state the
 point, give specific evidence, explain the mechanism, then link back to
 the source's position in the hierarchy of authority.
+
+## Frequently asked questions
+
+**How are the 9237 papers structured?**
+Each paper lasts 1 hour 30 minutes and has two sections of 25 marks, with short questions building to an extended response worth 12 marks related to a set passage.
+
+**What are the four categories of Hadith?**
+Sahih (sound), Hasan (good), Daeef (weak) and Maudu (fabricated).
+
+**What are Ijma and Qiyas?**
+Ijma is the consensus of scholars on a ruling; Qiyas is reasoning by analogy from an existing ruling to a new situation.
