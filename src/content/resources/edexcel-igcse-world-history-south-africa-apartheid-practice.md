@@ -19,7 +19,7 @@ description: "Original Paper 1-style questions on South Africa, 1948–94 for Ed
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the indicative content against the 4HI1 specification and a recent Paper 1 mark scheme before teacher sign-off."
+reviewNote: "Check the indicative content against the 4HI1 specification and a recent Paper 1 mark scheme before teacher sign-off. 2026-11-08 recheck: FAQ added; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -180,3 +180,17 @@ choices of de Klerk and Mandela turned that pressure into a negotiated end.
 
 Source: question patterns modelled on the Pearson Edexcel International GCSE History (4HI1)
 specification, Issue 5, February 2026, Paper 1.
+
+## Frequently asked questions
+
+**How is each Paper 1 depth study question structured?**
+Each 4HI1 Paper 1 question has three parts: (a) what impression an extract gives (6 marks), (b) explain two effects (8 marks) and (c) a 'how far do you agree' essay (16 marks), with bullet prompts and your own knowledge.
+
+**Which two events are most often confused?**
+Sharpeville (21 March 1960) and the Soweto uprising (1976).
+
+**What do the essays ask you to judge?**
+For example whether international pressure was the main reason apartheid ended, weighed against internal resistance, the economy and the decisions of de Klerk.
+
+**Are these real Edexcel past-paper questions?**
+No. They are original questions written in the style of Pearson Edexcel International GCSE History 4HI1; use them alongside the official past papers and mark schemes.

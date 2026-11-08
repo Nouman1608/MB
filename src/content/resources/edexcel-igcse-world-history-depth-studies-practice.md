@@ -15,10 +15,15 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-depth-studies-4hi1"
     subtopic: "germany-dictatorship-4hi1"
-description: "Original exam-style practice questions with full worked answers on the impression, two-effects and how-far-do-you-agree question types, covering Weimar Germany, Nazi rule and the USA in the 1920s, for Pearson Edexcel International GCSE History (4HI1)."
+  - qualification: "igcse"
+    topic: "paper-1-depth-studies-4hi1"
+    subtopic: "civil-rights-usa-4hi1"
+description: "Original Edexcel International GCSE History 4HI1 Paper 1 practice on Weimar and Nazi Germany and US civil rights 1954-60, with fully worked model answers."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: replaced the USA 1920s question (Paper 2 content, not a Paper 1 depth study) with a civil rights 1954-60 question; FAQ added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -113,27 +118,28 @@ You may use the following in your answer:
 
 and any other information of your own.
 
-## Question 4 — the USA in the 1920s
+## Question 4 — civil rights in the USA, 1954–60
 
-**Extract 4**: From a history of the United States between the wars,
-published in 2010.
+**Extract 4**: From a history of the civil rights movement, published in 2006.
 
-> "For the first time, ordinary American families could own the products of
-> mass production on credit, and for much of the decade it seemed the
-> prosperity would never end."
+> "The bus boycott did more than desegregate the buses of one Alabama city.
+> It showed that ordinary black people, acting together and refusing to give
+> way, could defeat segregation, and it gave the movement a leader the whole
+> nation would come to know."
 
-**4(a)** What impression does the author give about prosperity in the USA in
-the 1920s? You must use Extract 4 to explain your answer. **[6]**
+**4(a)** What impression does the author give about the importance of the
+Montgomery Bus Boycott? You must use Extract 4 to explain your answer. **[6]**
 
-**4(b)** Explain **two** effects of mass production and hire purchase on the
-American economy in the 1920s. **[8]**
+**4(b)** Explain **two** effects of the Supreme Court's decision in *Brown v.
+Board of Education of Topeka* (1954). **[8]**
 
-**4(c)** "Most Americans shared in the prosperity of the 1920s." How far do
-you agree with this statement? **[16]**
+**4(c)** "The Montgomery Bus Boycott was the most important development in
+the civil rights movement in the years 1954–60." How far do you agree with
+this statement? **[16]**
 
 You may use the following in your answer:
-- farmers and workers in declining industries such as coal and textiles
-- discrimination faced by black Americans and recent immigrants
+- the events at Little Rock, Arkansas, in 1957
+- the sit-ins of 1960
 
 and any other information of your own.
 
@@ -218,28 +224,34 @@ acted against the SA, or anyone else, without resistance in the first place
 Hitler's power, rather than simply ranking the events by how dramatic they
 were [4].
 
-**4(a)** The author gives the impression that 1920s prosperity was both
-**widely shared** ("ordinary American families") and, for most of the
-decade, **expected to continue indefinitely** ("seemed... would never end")
-[3]. This gives an impression of broad-based confidence rather than
-prosperity confined to a small wealthy minority [3].
+**4(a)** The author gives the impression that the boycott was important
+**far beyond Montgomery itself**: it "did more than desegregate the buses of
+one Alabama city" [3]. It also gives the impression that its main importance
+was in **showing the power of united, non-violent mass action** by "ordinary
+black people", and in producing a national leader, Martin Luther King [3].
 
-**4(b)** Mass production **cut the cost of consumer goods dramatically**,
-above all through Ford's assembly line, bringing cars and appliances within
-reach of ordinary families for the first time [4]. Hire purchase **let
-demand run ahead of income**, since consumers could buy goods on credit
-before they could actually afford them, fuelling a boom that depended on
-continued borrowing [4].
+**4(b)** *Brown* **ruled that segregated schools were unconstitutional**,
+overturning the "separate but equal" principle of *Plessy v. Ferguson*
+(1896) and giving the civil rights movement a legal basis for challenging
+segregation in other areas [4]. It also **provoked massive resistance in the
+South**: White Citizens' Councils grew, over a hundred Southern members of
+Congress signed the Southern Manifesto (1956) opposing the ruling, and
+desegregation was slow, as the crisis at Little Rock in 1957 showed [4].
 
-**4(c)** Prosperity was real for many: rising factory wages, new consumer
-goods, and the sense of a modern, confident economy touched a broad swathe
-of urban and suburban America [6]. However, it was far from universal:
-farmers suffered from overproduction and collapsing prices throughout the
-decade, older industries such as coal and textiles declined, and black
-Americans and recent immigrants faced discrimination, low wages and were
-first to lose work when conditions tightened [6]. A strong answer concludes
-that prosperity was genuine but unevenly spread, rather than either
-accepting or dismissing the statement wholesale [4].
+**4(c)** There is a strong case for the boycott: from December 1955 to
+December 1956, after the arrest of Rosa Parks, black citizens of Montgomery
+kept up a 381-day boycott that ended with the Supreme Court ruling (*Browder
+v. Gayle*) that bus segregation was unconstitutional; it brought King to
+national prominence and led to the founding of the Southern Christian
+Leadership Conference (SCLC) in 1957 [6]. However, other developments
+mattered as much or more: *Brown* (1954) supplied the legal foundation;
+at Little Rock in 1957 President Eisenhower sent federal troops to protect
+nine black students, showing that the federal government would enforce
+desegregation; and the Greensboro sit-ins of 1960 spread direct action
+across the South and led to the founding of the Student Nonviolent
+Coordinating Committee (SNCC) [6]. A strong answer weighs the boycott's
+methods and leadership against the legal and federal breakthroughs before
+reaching a supported judgement [4].
 
 ---
 
@@ -256,3 +268,17 @@ accepting or dismissing the statement wholesale [4].
   further information of your own.
 - Describing events in the (c) essay without linking them back to the
   statement being judged.
+
+## Frequently asked questions
+
+**How is each Paper 1 depth study question structured?**
+Each 4HI1 Paper 1 question has three parts: (a) what impression an extract gives (6 marks), (b) explain two effects (8 marks) and (c) a 'how far do you agree' essay (16 marks), with bullet prompts and your own knowledge.
+
+**Which depth studies do these questions practise?**
+Germany: development of dictatorship, 1918–45, and A divided union: civil rights in the USA, 1945–74.
+
+**Is the USA in the 1920s a Paper 1 depth study?**
+No. It belongs to Paper 2 Historical Investigation A3, the USA 1918–41, which uses a different source-based format.
+
+**Are these real Edexcel past-paper questions?**
+No. They are original questions written in the style of Pearson Edexcel International GCSE History 4HI1; use them alongside the official past papers and mark schemes.

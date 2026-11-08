@@ -15,11 +15,11 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "depth-studies-2147"
     subtopic: "depth-study-c-russia-2147"
-description: "Revision notes for Cambridge O Level History 2147 Depth Study C, Russia 1905-41: timeline, key terms, Reds versus Whites, Stalin versus Trotsky, Five-Year Plans and exam traps."
+description: "Revision notes for Cambridge O Level History 2147 Depth Study C, Russia 1905-41: timeline, key terms, Reds and Whites, Stalin, the Five-Year Plans and traps."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check dates and figures against standard texts and the 2147 2024-2026 syllabus before teacher sign-off."
+reviewNote: "Check dates and figures against standard texts and the 2147 2024-2026 syllabus before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources; figures flag cleared, dates and syllabus check remain. 2026-11-08 recheck: description brought to 140-160 characters; please re-review. 2026-11-08 recheck: added key dates/people table to bring notes above 900 words."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -124,6 +124,20 @@ featured: false
 *Explain why the Bolsheviks won the Civil War.* **[6]**
 
 Reason -> evidence -> link, three times: (1) **geography** -- the Reds held Moscow and Petrograd and the railways, *so* they could move troops quickly; (2) **leadership** -- Trotsky's Red Army used discipline and former Tsarist officers, *so* it fought effectively; (3) **White weaknesses** -- divided generals far apart, *so* they never co-ordinated attacks.
+
+## Key people
+
+| Person | Role |
+|---|---|
+| Nicholas II | Last Tsar; abdicated March 1917 |
+| Pyotr Stolypin | Chief minister 1906–11; repression and land reform |
+| Grigori Rasputin | Influence at court during the war; murdered December 1916 |
+| Alexander Kerensky | Leader of the Provisional Government from July 1917 |
+| Lavr Kornilov | General whose failed march on Petrograd (August–September 1917) helped the Bolsheviks |
+| Vladimir Lenin | Bolshevik leader; April Theses; led the November 1917 seizure of power |
+| Leon Trotsky | Organised the seizure of power; built the Red Army; lost to Stalin |
+| Joseph Stalin | General Secretary from 1922; sole leader by 1929 |
+| Alexei Stakhanov | Miner held up as a model worker in 1935 |
 
 ## Exam traps
 

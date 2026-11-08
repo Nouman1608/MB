@@ -12,10 +12,12 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-2058"
-description: "Condensed recall notes on the Hadiths, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam -- Paper 2 of Cambridge O Level Islamiyat (2058), 2026-2027 series."
+description: "Revision notes on the Hadiths, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam for Cambridge O Level Islamiyat 2058 Paper 2."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -163,6 +165,17 @@ significance are the most common way marks are lost on this topic.
 
 - [Cambridge O Level Islamiyat: Paper 2 (2058)](/resources/o-level-islamiyat-paper-2/)
 - [Cambridge O Level Islamiyat: Paper 1](/resources/o-level-islamiyat-paper-1/)
+
+## Frequently asked questions
+
+**How is 2058 Paper 2 structured?**
+Paper 2 lasts 1 hour 30 minutes and is worth 50 marks (50%). It has five questions: Questions 1 and 2 are compulsory and you choose two of Questions 3 to 5. Question 1 is worth 8 marks (4 + 4) and each other answered question 14 marks (10 + 4).
+
+**Is 2058 Paper 2 the same as IGCSE 0493?**
+Yes. The 2026–2027 syllabuses share the same Paper 2 topics and question structure.
+
+**What is isnad?**
+The chain of narrators of a Hadith, checked for each narrator's reliability and for unbroken links.
 
 ## Official syllabus
 

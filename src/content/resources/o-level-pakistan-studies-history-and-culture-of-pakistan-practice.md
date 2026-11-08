@@ -21,10 +21,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-history-culture-2059"
     subtopic: "nationhood-1947-99-2059"
-description: "A full original practice paper for Paper 1 of Cambridge O Level Pakistan Studies (2059), 2026 series: a source-based Section A question and four Section B questions in 4, 7 and 14-mark parts, with levels-based mark schemes."
+description: "A full original Cambridge O Level Pakistan Studies 2059 Paper 1 practice paper: a source-based Section A and four Section B questions, with levels mark schemes."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
@@ -392,3 +394,14 @@ Section B questions × 25 = **75**.
 
 With 90 minutes for 75 marks, allow a little over a minute a mark: roughly 30 minutes for Question 1 and
 30 minutes for each Section B question, of which about 16 to 18 minutes should go on the 14-mark essay.
+
+## Frequently asked questions
+
+**How is Paper 1 structured?**
+Paper 1 (1 hour 30 minutes, 75 marks, 50%) has Section A, one compulsory source-based question of four parts (25 marks), and Section B, two questions from a choice of four, each with parts worth 4, 7 and 14 marks.
+
+**Is 2059 Paper 1 the same format as IGCSE 0448?**
+Yes. For 2026 both have a 25-mark source-based Section A and two Section B questions from four, in 4-, 7- and 14-mark parts.
+
+**Are these real Cambridge questions?**
+No. They are original questions written in the style of Paper 1.

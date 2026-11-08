@@ -17,6 +17,8 @@ description: "One-line teaching and application for each of the 20 set Hadiths i
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
 ---
 
 **These revision notes condense Paper 2 Question 1 of Cambridge IGCSE Islamiyat 0493, Major
@@ -83,6 +85,10 @@ teaching that the believers are one brotherhood (49.10).
 - **Weak applications.** "Muslims should follow this Hadith" is not an application; give an action.
 - **Mixing up similar Hadiths.** The widow-and-poor Hadith and the orphan Hadith teach related but distinct points.
 - **Running out of time.** This question is 8 marks; keep answers focused so you have time for the 14-mark questions.
+
+## How is this topic examined?
+
+In Cambridge IGCSE 0493 Paper 2 (1 hour 30 minutes, 50 marks), the set Hadiths is examined by Question 1, which is compulsory: you choose two of the Hadiths printed and answer part (a) on their teaching (4 marks) and part (b) on how Muslims apply them (4 marks). Each answer has a knowledge part and a shorter part asking for understanding or significance, so revise every point with a reason why it matters to Muslims, not just the facts.
 
 ## Frequently asked questions
 

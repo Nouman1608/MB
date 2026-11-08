@@ -9,10 +9,12 @@ qualifications: ["igcse"]
 syllabusCodes: ["9237"]
 syllabusSeries: "First examined May/June 2026"
 order: 3
-description: "Why both papers of OxfordAQA International GCSE Islamiat 9237 require study of specific set Qur'an and Hadith passages, how the two equally weighted papers divide content, and a worked source-citation routine."
+description: "How OxfordAQA International GCSE Islamiat 9237's two papers use set Qur'an and Hadith passages, how content is divided, and a worked source-citation routine."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
@@ -130,3 +132,14 @@ qualification is "Islamiat." The citation routine above is an original model wri
 resource, not a reproduction of any official past paper, source booklet or mark scheme. Always check
 the current specification for your examination series at
 [oxfordaqa.com](https://www.oxfordaqa.com/qualifications/international-gcse-islamiat/).*
+
+## Frequently asked questions
+
+**How are the 9237 papers structured?**
+Each paper lasts 1 hour 30 minutes and has two sections of 25 marks, with short questions building to an extended response worth 12 marks related to a set passage.
+
+**What does each paper cover?**
+Paper 1, Living the Muslim life: beliefs and teachings, and practices. Paper 2: the life and teachings of Hazrat Muhammad (pbuh), and sources of authority in Islam.
+
+**How should I use the time?**
+With 50 marks in 90 minutes, use spare time to plan the 12-mark answers rather than to write longer short answers.

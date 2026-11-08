@@ -24,10 +24,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "core-content-option-a-0470"
     subtopic: "causes-first-world-war-0470"
-description: "Condensed recall notes on unification, alliances, imperialism and the causes of the First World War for Cambridge IGCSE History 0470."
+description: "Condensed revision notes on the 1848 revolutions, unification, alliances, imperialism and the causes of the First World War for Cambridge IGCSE History 0470."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -111,3 +113,14 @@ Examiners reward **weighing** factors, not listing them. Always reach an explici
 5. Why did the Schlieffen Plan make escalation so rapid in 1914?
 
 **Answers:** 1. The revolutionaries were divided between liberals and radicals; the middle classes withdrew support once property seemed threatened; the peasantry was largely uninvolved; the conservative powers kept control of their armies — any two. 2. Isolating each opponent diplomatically, then fighting three limited wars — against Denmark, Austria and France — and stopping once the objective was achieved. 3. Triple Alliance: Germany, Austria-Hungary, Italy. Triple Entente: Britain, France, Russia. 4. Militarism, Alliances, Nationalism, Imperialism, Assassination. 5. It required Germany to defeat France quickly through Belgium before turning east, so Russian mobilisation forced immediate German action and left almost no time for diplomacy.
+
+## Frequently asked questions
+
+**Why did the 1848 revolutions fail?**
+The revolutionaries divided between liberals and radicals, the middle classes withdrew when property seemed threatened, and the conservative powers kept control of their armies.
+
+**What does MANIA stand for?**
+Militarism, Alliances, Nationalism, Imperialism and Assassination, the usual memory aid for the causes of the First World War.
+
+**Why did the Balkan Wars of 1912–13 raise tension?**
+They left Serbia enlarged and confident and Austria-Hungary alarmed at Serbian nationalism among its own Slav subjects.

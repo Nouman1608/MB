@@ -15,10 +15,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-history-culture-0448"
     subtopic: "cultural-historical-background-0448"
-description: "The cultural and historical background to the Pakistan Movement, the emergence of Pakistan 1906-47, and nationhood 1947-99 -- the full content of Paper 1 for Cambridge IGCSE Pakistan Studies 0448, 2026 series."
+description: "Paper 1 of Cambridge IGCSE Pakistan Studies 0448, 2026 series: background to the Pakistan Movement, the emergence of Pakistan 1906-47 and nationhood 1947-99."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
@@ -144,6 +146,17 @@ consistently distinguish between candidates who describe an event in
 detail and candidates who use that detail to support a stated
 judgement — the second group scores more highly even when their
 factual content is similar.
+
+## Frequently asked questions
+
+**How is Paper 1 structured?**
+Paper 1 (1 hour 30 minutes, 75 marks, 50%) has Section A, one compulsory source-based question of four parts (25 marks), and Section B, two questions from a choice of four, each with parts worth 4, 7 and 14 marks.
+
+**What are the three Paper 1 sections?**
+1.1 Cultural and historical background to the Pakistan Movement; 1.2 The emergence of Pakistan, 1906–47; and 1.3 Nationhood, 1947–99.
+
+**What makes a strong 14-mark answer?**
+A clear line of argument, specific dates, names and events, and a judgement that weighs the factor in the question against others.
 
 ## Official syllabus
 

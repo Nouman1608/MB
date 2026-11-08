@@ -7,10 +7,12 @@ boards: ["aqa"]
 qualifications: ["gcse"]
 syllabusCodes: ["8145"]
 order: 1
-description: "How AQA GCSE History (8145) is structured — its two components, the historic environment study, and how to approach revision."
+description: "How AQA GCSE History 8145 is structured: two equally weighted papers, four sections, the historic environment study, the assessment objectives and revision."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
@@ -165,3 +167,14 @@ appropriately distinct in memory rather than blurring together.
 *Written against AQA GCSE History 8145. Always check the current
 specification, including your school's chosen studies and the current
 historic environment sites, for your examination year at [aqa.org.uk](https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification).*
+
+## Frequently asked questions
+
+**How are the two AQA GCSE History 8145 papers structured?**
+Each paper lasts 2 hours, is worth 84 marks (including 4 for spelling, punctuation and grammar) and 50% of the GCSE. Paper 1 is a period study and a wider world depth study; Paper 2 is a thematic study and a British depth study with the historic environment.
+
+**Who chooses the options?**
+Your school chooses one period study, one wider world depth study, one thematic study and one British depth study.
+
+**How is the historic environment examined?**
+By the fourth and final question of Paper 2 Section B, a 16-mark essay on the site AQA specifies for your British depth study; the site changes each year.

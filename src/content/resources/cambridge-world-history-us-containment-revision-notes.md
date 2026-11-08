@@ -20,7 +20,8 @@ description: "Recall notes on the three containment case studies, Korea, Cuba an
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
----
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added key dates/people table to bring notes above 900 words. 2026-11-08 recheck: added a short comparison section."---
 
 **Key question 2.5 in Cambridge IGCSE 0470 and O Level 2147 is answered
 through three case studies only: Korea 1950–53, Cuba 1959–62 and
@@ -100,6 +101,34 @@ war with UN backing; in Cuba it faced a popular revolution 90 miles
 from Florida, which it could not reverse; in Vietnam it fought a
 guerrilla war for an unpopular ally. Use this pattern to build a
 conclusion.
+
+## Key dates to learn
+
+| Date | Event |
+|---|---|
+| March 1947 | Truman Doctrine: US support for "free peoples" resisting communism |
+| 25 June 1950 | North Korea invades South Korea |
+| September 1950 | Inchon landings under MacArthur |
+| October–November 1950 | Chinese forces enter the war |
+| April 1951 | Truman dismisses MacArthur |
+| 27 July 1953 | Armistice at Panmunjom; border near the 38th parallel |
+| January 1959 | Castro takes power in Cuba |
+| April 1961 | Bay of Pigs invasion fails |
+| October 1962 | Cuban Missile Crisis (13 days) |
+| August 1964 | Gulf of Tonkin incident and resolution |
+| January 1968 | Tet Offensive |
+| January 1973 | Paris Peace Accords; US forces withdraw |
+| 30 April 1975 | Fall of Saigon |
+
+Learning these dates lets you frame each case study precisely, which is what moves a (c) answer from general narrative to a supported judgement.
+
+## How to judge "effectively"
+
+Use the same three tests for each case study, then compare:
+
+1. **Was communism stopped from spreading there?** Korea: yes, South Korea survived; Cuba: no, Castro stayed in power; Vietnam: no, the whole country was united under communist rule in 1975.
+2. **At what cost?** Lives, money and US prestige, for example the long war in Vietnam and the anti-war movement at home.
+3. **Did it achieve wider aims?** For example, the removal of Soviet missiles from Cuba in 1962, even though Castro's regime survived.
 
 ## Exam traps
 

@@ -19,7 +19,7 @@ description: "Original Paper 2 Section B-style questions on Japan, 1853–1945 f
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the indicative content against the 4HI1 specification and a recent Paper 2 mark scheme before teacher sign-off."
+reviewNote: "Check the indicative content against the 4HI1 specification and a recent Paper 2 mark scheme before teacher sign-off. 2026-11-08 recheck: FAQ added; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -153,3 +153,17 @@ Versailles and at League condemnation in 1933; Konoe's New Order and the Nationa
 
 Source: question patterns modelled on the Pearson Edexcel International GCSE History (4HI1)
 specification, Issue 5, February 2026, Paper 2, Section B.
+
+## Frequently asked questions
+
+**How is the Paper 2 breadth study question structured?**
+Part (a) asks you to explain two ways something was different at two dates (6 marks), part (b) to explain two causes (8 marks) and part (c) is a 16-mark essay on change, continuity or significance across the period.
+
+**How did Japan's government change between 1860 and 1890?**
+In 1860 the Tokugawa shogun governed in the emperor's name through feudal domains; by 1890 the emperor was sovereign under the Meiji Constitution, with an elected Diet.
+
+**What loses marks in part (c)?**
+Writing about one decade instead of tracing change and continuity across the whole period.
+
+**Are these real Edexcel past-paper questions?**
+No. They are original questions written in the style of Pearson Edexcel International GCSE History 4HI1; use them alongside the official past papers and mark schemes.

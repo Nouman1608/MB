@@ -26,10 +26,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-0493"
     subtopic: "first-islamic-community-0493"
-description: "Cambridge IGCSE Islamiyat 0493 (2026-2027 series), Paper 1: the major themes of the Qur'an, its history and importance, the life of the Prophet Muhammad (pbuh), and the first Islamic community."
+description: "Paper 1 of Cambridge IGCSE Islamiyat 0493 (2026-2027): themes of the Qur'an, its history and importance, the life of the Prophet (pbuh) and the first community."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
@@ -116,6 +118,17 @@ Born in Makkah in 570 CE, the Prophet received his first revelation in 610 CE in
 This sub-topic is organised around the people of the first community, not only its events, though the syllabus does ask for the significant facts of their lives and the importance of their actions and experiences. The Prophet's **wives** (including Khadijah, his first wife and first believer, and Aisha) and his **descendants** — his children, his grandchildren, and the line recognised among Shia Muslims as the Imams — sit alongside his leading **Companions**: the **Ten Blessed Companions** given the promise of Paradise in their lifetimes, his **Scribes** who recorded revelation as it came, and the other major figures of his ministry. The **Emigrants (Muhajirun)**, who left Makkah for Madinah, and the **Helpers (Ansar)**, the Muslims of Madinah who received them, were formally paired on arrival — an arrangement that met the migrants' immediate material needs and became a model of brotherhood within the early community. The **four Rightly Guided Caliphs** — Abu Bakr, Umar, Uthman and Ali — are studied here for their lives and roles during the Prophet's own lifetime; their period of rule after his death is Paper 2 content.
 
 On arriving in Madinah, the Prophet established the **Constitution of Madinah**, a document defining the rights and duties of Muslims, Jews and other groups living in the city, and establishing Madinah as a single community with the Prophet as its arbiter — part of the wider account of his life and importance (1.3). Abu Bakr was chosen as the first Caliph, at a meeting known as **Saqifah**, immediately after the Prophet's death in 632 CE; his period of rule after that point — including the **Ridda (apostasy) wars** against false prophets such as Musaylimah and tribes refusing zakat — is Paper 2 content (2.3), not this topic. The one link back to Paper 1: the heavy losses among Qur'an memorisers at the Battle of Yamama, fought during those wars, is why Abu Bakr ordered the Qur'an's compilation, which belongs to 1.2 and is covered above.
+
+## Frequently asked questions
+
+**How is 0493 Paper 1 structured?**
+Paper 1 lasts 1 hour 30 minutes and is worth 50 marks (50%). It has five questions: Questions 1 and 2 are compulsory and you choose two of Questions 3 to 5. Question 1 is worth 8 marks (4 + 4) and each other answered question 14 marks (10 + 4).
+
+**Which topics are compulsory?**
+Question 1 is set on 1.1 Major themes of the Qur'an and Question 2 on 1.2 its history and importance, so neither can be avoided.
+
+**What is the Qur'an's central theme?**
+Tawhid, the oneness of God, which underlies every other teaching.
 
 ## Official syllabus
 

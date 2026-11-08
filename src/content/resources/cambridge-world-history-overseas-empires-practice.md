@@ -20,6 +20,8 @@ description: "Original structured and source questions with answers on imperial 
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions.
@@ -188,6 +190,17 @@ an American pressure group opposing it. **[8]**
 - Giving the motives without examples from the case studies.
 - Assuming a source is unreliable just because it is biased — explain
   what its bias makes it useful for.
+
+## Frequently asked questions
+
+**How is IGCSE History 0470 Paper 1 structured?**
+Paper 1 (2 hours, 60 marks, 40%) has Section A on the Core Content (eight questions, answer two) and Section B on the Depth Studies (two on each, answer one). Each question is a three-part structured essay worth 4, 6 and 10 marks.
+
+**Do 0470 and 2147 share the same Core Content?**
+Yes. For 2024–2026, Cambridge IGCSE History 0470 and O Level History 2147 have the same Core Content key questions, so these questions suit both; only the papers' weightings and IGCSE's third component differ.
+
+**Which case studies does the syllabus name?**
+French assimilation in Senegal (Faidherbe), British indirect rule in Nigeria (Lugard), Leopold II's Congo, the British in India after 1857, and US expansion after the Spanish–American War of 1898.
 
 ## Official syllabus
 

@@ -17,6 +17,8 @@ description: "Recall notes for 9236 optional topic 3.2.3: globalisation impacts,
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
 ---
 
 **These notes condense optional topic 3.2.3 of OxfordAQA International GCSE Pakistan Studies 9236,
@@ -120,6 +122,10 @@ shallow, and road and rail offer faster, more reliable routes [1].
 - **One-sided CPEC answers.** Always balance benefits against debt, local benefit and security.
 - **Forgetting river and sea transport.** The specification lists five modes.
 - **Ignoring finance.** Financial systems are named in the specification; give examples such as mobile wallets.
+
+## How is this topic examined?
+
+This topic is examined in OxfordAQA 9236 Paper 2, Section C, worth 21 of the paper's 77 marks; each paper lasts 1 hour 30 minutes. The section mixes short and extended response questions on this optional topic. Short items reward precise named facts, so learn the dates, places and people in the tables above; the extended responses reward a clear line of argument, two or three developed points with evidence, and a judgement that answers the question. For this optional topic, balance is essential: examiners expect the benefits of globalisation, TNCs and new transport links to be weighed against their costs for different groups and regions.
 
 ## Frequently asked questions
 

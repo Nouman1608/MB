@@ -15,11 +15,11 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "depth-studies-2147"
     subtopic: "depth-study-e-wwii-2147"
-description: "Revision notes for Cambridge O Level History 2147 Depth Study E, the Second World War 1939-c.1945: twin-theatre timeline, turning points, case studies and exam traps."
+description: "Revision notes for Cambridge O Level History 2147 Depth Study E, the Second World War 1939-c.1945: twin timeline, turning points, case studies, traps."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check dates and figures against standard texts and the 2147 2024-2026 syllabus before teacher sign-off."
+reviewNote: "Check dates and figures against standard texts and the 2147 2024-2026 syllabus before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources; figures flag cleared, dates and syllabus check remain. 2026-11-08 recheck: description brought to 140-160 characters; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---

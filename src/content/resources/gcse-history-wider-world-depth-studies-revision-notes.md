@@ -14,11 +14,11 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "understanding-the-modern-world-8145"
     subtopic: "utmw-section-b-wider-world-depth-studies-8145"
-description: "Revision notes for AQA GCSE History 8145 Paper 1 Section B: key dates for all five Conflict and tension depth studies, a question 1-4 technique sheet and exam traps."
+description: "Revision notes for AQA GCSE History 8145 Paper 1 Section B: key dates for all five Conflict and tension studies, a technique sheet for questions 1-4 and traps."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check dates against standard texts and the AQA 8145 specification (3.2.2) before teacher sign-off."
+reviewNote: "Check dates against standard texts and the AQA 8145 specification (3.2.2) before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review. 2026-11-08 recheck: added a question 4 worked plan."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -128,6 +128,16 @@ featured: false
 *Write an account of how the Berlin Blockade increased tension between East and West.* **[8]**
 
 Chain: Western zones merge and introduce a new currency (1948) -> Stalin blocks road and rail routes to West Berlin -> the Allies fly in supplies for almost a year -> Stalin lifts the blockade (May 1949) -> NATO is formed, and Germany splits into two states. Each arrow is a "this led to" link -- that is what earns the higher level.
+
+## Worked example: question 4 plan
+
+*"The main reason for the outbreak of war in 1939 was the policy of appeasement." How far do you agree?* **[16 + 4 SPaG]**
+
+1. **Agree:** appeasement let Hitler rearm, remilitarise the Rhineland (1936) and take Austria and the Sudetenland (1938) unopposed, convincing him Britain and France would not fight.
+2. **Disagree:** Hitler's own aims (overturning Versailles, *Lebensraum*) drove events; the Nazi–Soviet Pact (August 1939) freed him to invade Poland; the League's failures over Manchuria and Abyssinia had already weakened collective security.
+3. **Judgement:** say which mattered most and why, for example that Hitler's aims were the main cause and appeasement allowed them to be achieved without war until 1939.
+
+Write in full sentences with accurate spelling, punctuation and grammar: the four SPaG marks are awarded on this question.
 
 ## Exam traps
 

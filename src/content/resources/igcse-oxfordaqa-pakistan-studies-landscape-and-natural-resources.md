@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-geography-9236"
     subtopic: "landscape-natural-resources-9236"
-description: "Pakistan's physical landscape, climate, and mineral, energy and water resources -- the compulsory opening topic of Paper 2 in OxfordAQA International GCSE Pakistan Studies (9236)."
+description: "Pakistan's landscape, climate and mineral, energy and water resources: the compulsory first topic of OxfordAQA International GCSE Pakistan Studies 9236 Paper 2."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -151,6 +153,17 @@ and one non-renewable energy resource.
 
 [Landscape and Natural Resources revision notes](/resources/igcse-oxfordaqa-pakistan-studies-landscape-revision-notes/) |
 [Landscape and Natural Resources practice questions](/resources/igcse-oxfordaqa-pakistan-studies-landscape-practice/)
+
+## Frequently asked questions
+
+**How are the 9236 papers structured?**
+Each paper lasts 1 hour 30 minutes and is worth 77 marks: Section A (28 marks) and Section B (28 marks) are compulsory topics, and Section C (21 marks) is one of two optional topics.
+
+**What does this topic reward?**
+Linking physical processes to human consequences: hazards, resources and their importance to development.
+
+**What are the main renewable energy sources?**
+Hydroelectricity, solar and wind, compared with non-renewable sources such as natural gas, oil and coal.
 
 ## Official syllabus
 

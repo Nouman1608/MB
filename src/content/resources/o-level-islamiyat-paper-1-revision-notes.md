@@ -21,11 +21,13 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-2058"
     subtopic: "first-islamic-community-2058"
-description: "Condensed recall notes on Paper 1's exact question structure and mark scheme, plus the Qur'an, the Prophet's life and the first Islamic community, for Cambridge O Level Islamiyat 2058."
+description: "Revision notes on Cambridge O Level Islamiyat 2058 Paper 1: the question structure and marks, the Qur'an, the Prophet's life and the first Islamic community."
 seoDescription: "Free Cambridge O Level Islamiyat (2058) Paper 1 revision notes: exact question format, the Qur'an, and the Prophet's life, condensed for quick recall."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-25
 featured: false
@@ -191,3 +193,14 @@ lifetime.
   worked answers
 - [IGCSE Islamiyat: Paper 1 (Cambridge 0493)](/resources/igcse-islamiyat-paper-1/) —
   the equivalent paper at IGCSE, identical in sub-topic structure
+
+## Frequently asked questions
+
+**How is 2058 Paper 1 structured?**
+Paper 1 lasts 1 hour 30 minutes and is worth 50 marks (50%). It has five questions: Questions 1 and 2 are compulsory and you choose two of Questions 3 to 5. Question 1 is worth 8 marks (4 + 4) and each other answered question 14 marks (10 + 4).
+
+**How are marks split between objectives?**
+Knowledge (AO1) parts carry most marks: up to 4 on Question 1 and 10 on each other question; understanding (AO2) parts carry the rest.
+
+**When did the Hijra take place?**
+In 622 CE, when the Prophet (pbuh) migrated from Makkah to Madinah; it marks the start of the Islamic calendar.

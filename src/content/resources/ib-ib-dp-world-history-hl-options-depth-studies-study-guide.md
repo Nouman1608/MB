@@ -28,16 +28,16 @@ description: "How HL students approach the regional depth studies for IB History
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the current subject guide for the section titles within each region and how many sections are studied, because the content within each regional option is chosen from a list that this guide does not reproduce."
+reviewNote: "Check the current subject guide for the section titles within each region and how many sections are studied, because the content within each regional option is chosen from a list that this guide does not reproduce. 2026-11-08 recheck: stated 18 sections / 3 studied / 36 questions, corrected marking to holistic markbands, added FAQ."
 publishedDate: 2026-11-08
 featured: false
 ---
 
-The HL options are the depth part of Higher Level History. Where the world history topics ask for comparison across regions, the depth studies ask you to know one region well over a long period. Your school chooses one of four regional options and you study sections of that option in detail. The paper then tests your ability to write sustained, evidence-rich essays across the period.
+The HL options are the depth part of Higher Level History. Where the world history topics ask for comparison across regions, the depth studies ask you to know one region well over a long period. Your school chooses one of four regional options and three of its eighteen sections, which you study in detail. The paper then tests your ability to write sustained, evidence-rich essays across the period.
 
 ## Where this fits in the course
 
-Higher Level students take an additional paper, Paper 3, on a regional option. The four regions are the history of Africa and the Middle East, the history of the Americas, the history of Asia and Oceania, and the history of Europe. Each option is divided into sections, and you study several. Paper 3 asks for three essays in 2 hours 30 minutes. Each essay is marked out of 15, so 45 marks in 150 minutes, or about 3.3 minutes per mark, and 50 minutes per essay.
+Higher Level students take an additional paper, Paper 3, on a regional option. The four regions are the history of Africa and the Middle East, the history of the Americas, the history of Asia and Oceania, and the history of Europe. Each option is divided into eighteen sections, and your school chooses three of them. Paper 3 sets two questions on each section, 36 in all, and you answer any three. Paper 3 asks for three essays in 2 hours 30 minutes. Each essay is marked out of 15, so 45 marks in 150 minutes, or about 3.3 minutes per mark, and 50 minutes per essay.
 
 Check: 150 / 3 = 50 minutes per essay, and 50 / 15 is about 3.3 minutes per mark.
 
@@ -97,7 +97,7 @@ Suppose a Paper 3 question asks: "To what extent was external pressure the main 
 - Conclusion: 5 minutes.
 - Check: 5 + 5 + 30 + 5 = 45 minutes, leaving 5 minutes for review and for adding detail.
 
-**Mark logic:** Paper 3 essays are marked against criteria for focus, knowledge and understanding, application and analysis, and argument and structure. A response that stays on the question, uses accurate examples and reaches a sustained judgement will gain more marks than a response with more detail and no judgement.
+**Mark logic:** each Paper 3 essay is marked out of 15 using the same five holistic markbands as Paper 2, which reward focus on the question, accurate and relevant knowledge, analysis, evaluation of perspectives and a reasoned conclusion. A response that stays on the question, uses accurate examples and reaches a sustained judgement will gain more marks than a response with more detail and no judgement.
 
 ## Revision strategy
 
@@ -134,3 +134,17 @@ Read each question carefully and underline the command term and the date range. 
    *A necessary cause had to be present; a sufficient cause was enough on its own to produce the result.*
 8. Why should you avoid neglecting some sections in revision?
    *It reduces your choice of questions in the exam.*
+
+## Frequently asked questions
+
+**How many HL sections do I study?**
+Three of the eighteen sections in your school's regional option.
+
+**How many questions are on Paper 3?**
+Thirty-six for each region, two on each of the eighteen sections; you answer any three.
+
+**How long is each Paper 3 essay?**
+About 50 minutes: the paper lasts 2 hours 30 minutes for three essays of 15 marks each.
+
+**What is Paper 3 worth?**
+35% of the HL grade, more than any other single component.

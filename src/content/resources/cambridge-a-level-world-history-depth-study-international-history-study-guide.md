@@ -22,11 +22,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "depth-study-international-history-9489"
     subtopic: "route-independence-malaysia-indonesia-9489"
-description: "The Soviet empire in Eastern Europe, the end of minority rule in South Africa and Zimbabwe, and the routes to independence in Malaysia and Indonesia."
+description: "Study guide to the Cambridge 9489 History Paper 4 International option: the Soviet empire, South Africa and Zimbabwe, and Malaysia and Indonesia."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the syllabus for the key questions and prescribed content under each of the three sections, and the paper in which the international depth study is assessed."
+reviewNote: "Check the syllabus for the key questions and prescribed content under each of the three sections, and the paper in which the international depth study is assessed. 2026-11-08 recheck: added the Paper 4 format from the 2027-2029 syllabus; FAQ added; description brought to 140-160 characters; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -36,6 +36,8 @@ This option looks at three very different stories of how power was held and lost
 ## Where this fits in the specification
 
 This is the international option among the depth studies in Cambridge 9489, with three sections: the Soviet empire in Eastern Europe, 1953-91; the end of minority rule in South Africa and Zimbabwe, 1948-94; and the route to independence in Malaysia and Indonesia, c.1909-67. Depth study questions expect sustained argument and secure detail. Check the syllabus for the paper and format.
+
+It is examined on **Paper 4: Depth study** (1 hour 45 minutes, 60 marks, 30% of the A Level). You answer two questions from a choice of three, all on your chosen option, each worth 30 marks; questions use the command words **assess** and **evaluate**, and marks are split equally between historical knowledge (AO1) and explanation, analysis and judgement (AO2).
 
 ## The Soviet empire in Eastern Europe, 1953-91
 
@@ -109,3 +111,14 @@ Take command words such as **assess**, **how far** and **to what extent** seriou
    *Indonesia's confrontation with the new state of Malaysia from 1963 to 1966.*
 8. How long did the Malayan Emergency last?
    *12 years, from 1948 to 1960.*
+
+## Frequently asked questions
+
+**How is the depth study examined?**
+On Paper 4 (1 hour 45 minutes, 60 marks, 30% of the A Level): you answer two 30-mark essays from a choice of three on your option, using the command words assess or evaluate.
+
+**What are the three sections?**
+The Soviet empire in Eastern Europe, 1953–91; the end of minority rule in South Africa and Zimbabwe, 1948–94; and the route to independence in Malaysia and Indonesia, c.1909–67.
+
+**How should an essay on the collapse of Soviet control be planned?**
+With separate paragraphs on economic weakness, Gorbachev's reforms and the end of the Brezhnev Doctrine, popular opposition and external pressure, then a ranking of the factors.

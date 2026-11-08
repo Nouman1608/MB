@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-life-hazrat-muhammad-9237"
     subtopic: "sources-of-authority-9237"
-description: "Two original Section B practice sets in the OxfordAQA International GCSE Islamiat 9237 Paper 2 format (1, 2, 4, 6 and 12-mark parts, 25 marks each) on the Qur'an, the Hadith and Sunnah, and Ijma and Qiyas as sources of authority, sub-topics 3.2.2.1-3.2.2.5."
+description: "Two original OxfordAQA International GCSE Islamiat 9237 Paper 2 Section B practice sets on the Qur'an, Hadith and Sunnah, Ijma and Qiyas, with mark guidance."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
@@ -210,3 +212,14 @@ An answer that explains a range of these points, reasons about their implication
 - In the 4- and 6-mark parts, naming a reason without explaining it, or giving a vague reference ("the Qur'an says so") instead of a specific teaching applied to the question.
 - In the 12-mark parts, making only one point of significance (maximum Level 2) or not using the passage at all (maximum Level 1).
 - Describing the history of the Qur'an as a single event rather than distinguishing revelation, preservation and compilation.
+
+## Frequently asked questions
+
+**How are the 9237 papers structured?**
+Each paper lasts 1 hour 30 minutes and has two sections of 25 marks, with short questions building to an extended response worth 12 marks related to a set passage.
+
+**What is the difference between isnad and matn?**
+Isnad is the chain of narrators; matn is the text of the Hadith itself. Both are checked to judge reliability.
+
+**Are these real OxfordAQA questions?**
+No. They are original questions in the published format and tariffs.

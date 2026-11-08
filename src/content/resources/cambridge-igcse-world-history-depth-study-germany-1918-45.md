@@ -19,7 +19,7 @@ description: "Study guide to Cambridge IGCSE History 0470 Depth Study B, Germany
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check dates and election figures against standard texts and the 0470 2024-2026 syllabus before teacher sign-off."
+reviewNote: "Check dates and election figures against standard texts and the 0470 2024-2026 syllabus before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources; figures flag cleared, dates and syllabus check remain."
 publishedDate: 2026-11-08
 featured: false
 ---

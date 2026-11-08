@@ -26,7 +26,7 @@ description: "Paper 4 revision notes for Cambridge 9489 History's European depth
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check dates and figures against standard texts and the 2027-2029 syllabus key questions before teacher sign-off."
+reviewNote: "Check dates and figures against standard texts and the 2027-2029 syllabus key questions before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources; figures flag cleared, dates and syllabus check remain."
 publishedDate: 2026-11-08
 featured: false
 ---

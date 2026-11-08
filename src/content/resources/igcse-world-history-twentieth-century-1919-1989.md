@@ -29,10 +29,12 @@ syllabusTopics:
     subtopic: "ussr-control-eastern-europe-0470"
 seoTitle: "IGCSE World History 0470 Option B: Relations since 1919"
 seoDescription: "Core Content Option B of Cambridge IGCSE World History 0470 (2024–2026): Versailles, the League of Nations, Hitler's foreign policy, the Cold War and more."
-description: "Cambridge IGCSE World History 0470 (2024-2026 series), Core Content Option B: the Treaty of Versailles, the League of Nations, Hitler's foreign policy, the origins of the Cold War, US containment of communism, and Soviet control of Eastern Europe."
+description: "Cambridge IGCSE History 0470 Core Content Option B: Versailles, the League of Nations, Hitler's foreign policy, the Cold War, containment and Eastern Europe."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
@@ -149,6 +151,17 @@ evidence.
 ## Related resources
 
 - [IGCSE World History: The Nineteenth Century, 1848-1914 (Cambridge 0470)](/resources/igcse-world-history-nineteenth-century-1848-1914/)
+
+## Frequently asked questions
+
+**What are the six Option B key questions?**
+Versailles, the League of Nations, Hitler's foreign policy, who was to blame for the Cold War, US containment of communism, and the security of Soviet control over Eastern Europe, 1948–c.1989.
+
+**How is IGCSE History 0470 Paper 1 structured?**
+Paper 1 (2 hours, 60 marks, 40%) has Section A on the Core Content (eight questions, answer two) and Section B on the Depth Studies (two on each, answer one). Each question is a three-part structured essay worth 4, 6 and 10 marks.
+
+**Do schools teach both Core Content options?**
+Schools normally teach one option, A or B, alongside at least one Depth Study.
 
 ## Official syllabus
 

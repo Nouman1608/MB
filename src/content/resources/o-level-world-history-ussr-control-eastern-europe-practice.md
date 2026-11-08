@@ -15,11 +15,11 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "core-content-option-b-2147"
     subtopic: "ussr-control-eastern-europe-2147"
-description: "Original Cambridge O Level History 2147 practice on key question 2.6: Hungary 1956, Prague Spring 1968, the Berlin Wall, Solidarity and Gorbachev, with full worked answers."
+description: "Original Cambridge O Level History 2147 practice on USSR control of Eastern Europe: Hungary 1956, Prague Spring, Berlin Wall, Solidarity and Gorbachev."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check worked-answer facts and dates against standard texts and the 2147 2024-2026 syllabus before teacher sign-off."
+reviewNote: "Check worked-answer facts and dates against standard texts and the 2147 2024-2026 syllabus before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---

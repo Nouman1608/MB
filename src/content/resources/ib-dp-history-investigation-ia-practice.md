@@ -7,16 +7,18 @@ topic: "Internal assessment -- historical investigation"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP History"]
-syllabusSeries: "First assessment 2028"
+syllabusSeries: "First assessment 2017"
 order: 5
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-world-history-internal-assessment"
-description: "Original practice questions with full worked answers on refining inquiry questions, evaluating sources, and structuring the written response, for the Historical Investigation internal assessment of IB Diploma Programme History."
+description: "Original practice tasks with worked answers for the IB DP History historical investigation (first assessed 2017): questions, sources, argument, reflection."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: rewritten for the current course (first assessment 2017): three sections incl. reflection, 25 marks, 2,200 words, per owner decision; please re-review."
 publishedDate: 2026-09-06
 featured: false
 ---
@@ -30,62 +32,84 @@ featured: false
 Related: [Historical Investigation study guide](/resources/ib-dp-history-investigation-ia/) and
 [revision notes](/resources/ib-dp-history-investigation-ia-revision-notes/).
 
+These tasks practise each stage of the IB DP History historical
+investigation in the course first assessed in 2017: framing the
+question, evaluating sources for Section 1, arguing in Section 2 and
+reflecting in Section 3. The mark values below are for practice only;
+the real investigation is marked as a whole out of 25 (6 + 15 + 4).
+
 ---
 
 ## Section A
 
-**1.** Name the four stages the historical investigation moves through. **[4]**
+**1.** Name the three sections of the historical investigation and give the marks for each. **[3]**
 
-**2.** State the four things a strong source evaluation should establish about each source used. **[4]**
+**2.** State the word limit, and whether the bibliography counts towards it. **[2]**
 
-**3.** Does the investigation's topic have to come from the class's studied focused study, thematic study or regional study? **[1]**
+**3.** In Section 1, how many sources are analysed in detail, and with reference to which three things? **[2]**
 
 ---
 
 ## Section B
 
-**4.** A student proposes the inquiry question: "What were the effects of industrialisation?"
+**4.** A student proposes the question: "What were the effects of industrialisation?"
 
-**(a)** Explain why this question, as written, is likely to produce a weak investigation. **[3]**
-**(b)** Rewrite it as a genuinely focused inquiry question, and explain what makes your version an improvement. **[4]**
+**(a)** Explain why this question is likely to produce a weak investigation. **[3]**
+**(b)** Rewrite it as a focused question and explain why your version is better. **[4]**
 
-**5.** A student has gathered eight sources for their investigation, all newspaper articles from the same national newspaper, published within the same month, and all broadly supportive of the same interpretation of events.
+**5.** A student's Section 1 says: "Source A is a diary written by a soldier in 1916. It is valuable because it is a primary source. It is limited because it is biased."
 
-**(a)** Identify the weakness in this source selection. **[2]**
-**(b)** Suggest two ways the student could improve their source selection. **[3]**
+**(a)** Explain two weaknesses in this evaluation. **[2]**
+**(b)** Rewrite the evaluation for the question "How far did British soldiers' morale decline during the Battle of the Somme in 1916?" **[4]**
 
-**6.** Explain why the same source can be described as highly valuable for one inquiry question and limited for a different inquiry question. **[3]**
+**6.** Explain why the same source can be valuable for one question and limited for another. **[3]**
 
 ---
 
 ## Section C
 
-**7.** "A longer list of sources always produces a stronger historical investigation." Evaluate this statement, and explain what the source-selection principle it gets wrong actually is. **[6]**
+**7.** A student's reflection reads: "Historians have to be careful about bias. Some sources are more reliable than others." Explain why this would score poorly and write an improved version for an investigation that used Soviet and American accounts of the Cuban Missile Crisis. **[6]**
 
-**8.** Explain how a student might use the four historical concepts (cause and consequence, continuity and change, perspectives, significance) to strengthen an investigation's analysis, using one concept worked through in detail. **[6]**
+**8.** Explain how a student can turn Section 2 from narrative into argument, with reference to one key concept. **[6]**
 
 ---
 
 ## Worked answers
 
-**1.** Formulating a focused inquiry question; identifying and selecting relevant, appropriately varied sources; analysing and evaluating those sources; and synthesizing evidence into a coherent, evidenced written response. **[4]**
+**1.** Section 1, Identification and evaluation of sources (6 marks); Section 2, Investigation (15 marks); Section 3, Reflection (4 marks). **[3]**
 
-**2.** Origin, purpose, value and limitation. **[4]**
+**2.** 2,200 words; the bibliography is not counted, though it is required. **[2]**
 
-**3.** No -- the investigation may be on any historical topic the student can source and evaluate evidence for. **[1]**
+**3.** Two sources, analysed with reference to their origins, purpose and content (to establish value and limitations). **[2]**
 
-**4. (a)** The question is too broad: "effects of industrialisation" could span an enormous range of economic, social and political outcomes across many countries and decades, inviting a general narrative summary rather than a focused, evidence-based argument that can be properly supported within the word limit. **[3]**
-**(b)** A reasonable improvement: "To what extent did industrialisation contribute to the growth of trade union membership in [a specific named country] between [two precise dates]?" This version works because it names a specific, narrow outcome (trade union membership growth) rather than "effects" generally, specifies a particular country and precise date range so the scope is manageable, and is framed as a "to what extent" question that invites genuine evaluation of competing evidence and factors rather than a purely descriptive answer. **[4]**
+**4. (a)** It is too broad: it covers every economic, social and political effect, in every country, over a long period. It invites a general description rather than a focused argument that can be supported in about 1,300 words of Section 2, and gives no clear scope for choosing sources. **[3]**
+**(b)** For example: "To what extent did the growth of the Lancashire cotton industry improve the living standards of mill workers between 1830 and 1850?" It names one industry, one place, one group and a precise period, so the scope fits the word limit; "to what extent" invites a judgement; and the debate on living standards gives sources and historians who disagree. **[4]**
 
-**5. (a)** All eight sources share the same origin (one newspaper), the same narrow time window, and the same broad perspective -- this is a source list that lacks genuine variety in origin, type and perspective, which limits how much real evaluative comparison the investigation can do, since there is little disagreement or contrast between the sources to analyse. **[2]**
-**(b)** Any two reasonable suggestions, for example: including sources from a different type (an official government record, a personal account or diary, a source from a different country's press) to introduce genuine variety of origin and perspective; deliberately seeking out at least one source that challenges or complicates the newspaper's shared interpretation, to allow genuine evaluation of competing evidence; or including sources published at a different point in time (closer to or further from the event) to allow comparison of how interpretations may have shifted. **[3]**
+**5. (a)** Any two: "primary source" is not in itself a value; "biased" is asserted without saying how or why; neither point is linked to a question; origin, purpose and content are not used. **[2]**
+**(b)** For example: "Source A, a private diary kept by a British infantry soldier during July 1916, is valuable for this question because it was written at the time, by a participant, and not intended for publication, so it records his own feelings about the fighting without censorship. Its content shows how his mood changed after 1 July. However, it is limited because it records one soldier's experience in one unit, so it cannot show how widespread a decline in morale was across the army." **[4]**
 
-**6.** A source's value and limitation are not fixed properties of the source itself, but depend on what the investigation is trying to establish. A government minister's diary, for example, might be highly valuable for a question about that minister's personal motivations and decision-making, but far more limited for a question about how ordinary citizens experienced the same events, since the diary reflects one individual's perspective and access to information rather than a representative account. The same source can therefore shift from highly valuable to significantly limited purely because the inquiry question being asked has changed. **[3]**
+**6.** Value and limitations depend on what the historian is trying to find out. A government minister's diary is highly valuable for the minister's own motives, but limited for how ordinary citizens experienced the same policy, because it reflects one person's position and information. The source does not change; the question does. **[3]**
 
-**7.** The statement is generally false: a smaller number of well-chosen, genuinely varied sources -- differing in origin, type or perspective -- that are evaluated in real depth typically scores more highly than a longer source list treated superficially. The principle the statement gets wrong is that source-based evaluation is a depth skill, not a coverage skill: the investigation's marks reward how thoroughly and critically each source's origin, purpose, value and limitation is analysed and connected to the argument, not how many sources are listed. A long list of sources evaluated only briefly or superficially, each getting a sentence or two of generic comment, typically scores lower than a shorter, carefully chosen selection where each source is genuinely interrogated and where at least one source deliberately challenges the emerging argument. **[6]**
+**7.** It is generic: it could be written about any investigation and says nothing about the methods used in this one. An improved version: "Comparing Khrushchev's memoirs with Robert Kennedy's *Thirteen Days* showed me how participants' accounts are shaped by later purposes: both were written to present their side's leaders favourably. I had to rely on translated Soviet material and on documents released decades later, which made me realise that historians' interpretations of the crisis depend on which archives were open when they wrote. I resolved contradictions by looking for points on which both accounts agreed, a method historians call corroboration, but this cannot settle questions about private motives." **[6]**
 
-**8.** Take significance as a worked example: significance is about how important an event or development was, judged for example by its scale, how long its effects lasted, or its consequences. A strong investigation using this concept argues how important its chosen event was, using evidence from the evaluated sources -- for instance, that a treaty mattered more than contemporaries thought because [a named source] shows its effects outlasted the crisis that produced it, while [a different named source] shows how it was seen at the time. Weighing which of several causes mattered most belongs to a different concept, cause and consequence. Either way, a substantiated judgement drawn from the sources is stronger than a list of points left unweighed. **[6]**
+**8.** Start with a clear line of argument in the opening paragraph; organise paragraphs by factor or argument, not chronology; open each paragraph with a claim, support it with evidence from several sources, and end with a mini-judgement linked to the question; weigh perspectives and historians' views rather than just reporting them; finish with a conclusion that answers the question directly. Using **causation** as an example: for a question about motives, each paragraph argues for one motive and the essay ranks them, explaining which was decisive and why. **[6]**
+
+## Frequently asked questions
+
+**Are these tasks marked like the real investigation?**
+No. The real investigation is marked out of 25 with three criteria
+(6, 15 and 4 marks). These tasks drill each skill separately.
+
+**What is the most common Section 1 weakness?**
+Calling a source "valuable because primary" or "limited because
+biased" without explaining why, for the specific question.
+
+**What makes a strong reflection?**
+Specific reference to the methods and problems you met in your own
+investigation, such as contradictory or translated sources.
 
 ## Official syllabus
 
-International Baccalaureate Organization, *Diploma Programme Subject Brief -- History*, first assessment 2028 -- the same source cited by the [study guide](/resources/ib-dp-history-investigation-ia/) and [revision notes](/resources/ib-dp-history-investigation-ia-revision-notes/). Verified 2026-09-06.
+International Baccalaureate Organization, *History guide*, first
+examinations 2017 (internal assessment), and *Diploma Programme Subject
+Brief — History*, first assessments 2017.

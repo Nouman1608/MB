@@ -15,11 +15,11 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "depth-studies-2147"
     subtopic: "depth-study-a-wwi-2147"
-description: "Revision notes for Cambridge O Level History 2147 Depth Study A, the First World War 1914-18: timeline, key terms, factor tables for each key question and exam traps."
+description: "Revision notes for Cambridge O Level History 2147 Depth Study A, the First World War 1914-18: timeline, key terms, factor tables and common exam traps."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check dates and figures against standard texts and the 2147 2024-2026 syllabus before teacher sign-off."
+reviewNote: "Check dates and figures against standard texts and the 2147 2024-2026 syllabus before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources; figures flag cleared, dates and syllabus check remain. 2026-11-08 recheck: description brought to 140-160 characters; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---

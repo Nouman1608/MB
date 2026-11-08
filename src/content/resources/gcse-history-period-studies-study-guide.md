@@ -14,11 +14,11 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "understanding-the-modern-world-8145"
     subtopic: "utmw-section-a-period-studies-8145"
-description: "Study guide to AQA GCSE History 8145 Paper 1 Section A: the content of all four period studies, part by part, and how questions 1-6 (interpretations to essay) work."
+description: "Study guide to AQA GCSE History 8145 Paper 1 Section A: all four period studies part by part, and how questions 1-6, from interpretations to essay, work."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check dates and named examples against standard texts and the AQA 8145 specification (3.2.1) before teacher sign-off."
+reviewNote: "Check dates and named examples against standard texts and the AQA 8145 specification (3.2.1) before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---

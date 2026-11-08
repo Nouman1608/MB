@@ -15,11 +15,11 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-studies-in-change-9245"
     subtopic: "paper-2-section-a-9245"
-description: "Revision notes for OxfordAQA 9245 Paper 2 Section A: who gained and who lost in Germany 1919-49, Russia and the USSR 1914-53 and the USA 1920-68, with question technique."
+description: "Revision notes for OxfordAQA 9245 Paper 2 Section A: who gained and lost in Germany 1919-49, Russia and the USSR 1914-53 and the USA 1920-68, with technique."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "New specification (first exams 2028): check against the 9245 Version 1.1 specification, section 3.2.1, before teacher sign-off."
+reviewNote: "New specification (first exams 2028): check against the 9245 Version 1.1 specification, section 3.2.1, before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review. 2026-11-08 recheck: added key terms table."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -81,6 +81,19 @@ featured: false
 *Explain one way in which the Depression changed the lives of German farmers.* **[6]**
 
 "One way was falling incomes. After 1929 food prices collapsed, so many farmers could not repay debts and lost their farms to the banks. This made them desperate for change, which helps explain why many rural Protestant voters turned to the Nazis, who promised to protect farmers and blamed Jewish bankers." One point, specific evidence, explained consequence.
+
+## Key terms
+
+| Term | Meaning |
+|---|---|
+| Hyperinflation | The collapse of the German mark in 1923, when prices rose so fast that savings became worthless |
+| Volksgemeinschaft | The Nazi idea of a "people's community" that put the nation before the individual |
+| Kinder, Küche, Kirche | "Children, kitchen, church": the Nazi ideal role for women |
+| NEP | Lenin's New Economic Policy (1921), allowing small private trade and ending grain requisitioning |
+| Collectivisation | Stalin's merging of peasant farms into state-controlled collective farms from 1929 |
+| Kulak | A better-off peasant; kulaks were persecuted and deported under collectivisation |
+| New Deal | Roosevelt's programmes of relief, recovery and reform from 1933 |
+| Jim Crow laws | State laws enforcing racial segregation in the southern USA |
 
 ## Exam traps
 

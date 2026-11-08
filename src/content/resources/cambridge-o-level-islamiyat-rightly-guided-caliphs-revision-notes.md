@@ -17,6 +17,8 @@ description: "Comparison-table notes on the four Rightly Guided Caliphs: rules, 
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
 ---
 
 **These notes cover Paper 2 Topic 3 of Cambridge O Level Islamiyat 2058, The Period of Rule of the
@@ -110,6 +112,10 @@ system kept a huge state stable.
 - **Forgetting dates and order of battles under Ali.**
 - **One-sided judgements.** For Uthman, explain both his achievements and the criticisms he faced.
 - **No link to today.** "Importance" questions need modern applications.
+
+## How is this topic examined?
+
+In Cambridge O Level 2058 Paper 2 (1 hour 30 minutes, 50 marks), the period of rule of the Rightly Guided Caliphs is examined by the optional Questions 3 to 5, of which you answer two; each is worth 14 marks, 10 for part (a) and 4 for part (b). Each answer has a knowledge part and a shorter part asking for understanding or significance, so revise every point with a reason why it matters to Muslims, not just the facts.
 
 ## Frequently asked questions
 

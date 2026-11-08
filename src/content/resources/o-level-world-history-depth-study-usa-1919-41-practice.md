@@ -15,21 +15,22 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "depth-studies-2147"
     subtopic: "depth-study-d-usa-2147"
-description: "Original Paper 1 Section B practice for Cambridge O Level History 2147 Depth Study D, the USA 1919-41: the boom, 1920s society, the Crash and the New Deal, with worked answers."
+description: "Original Paper 1 Section B practice for Cambridge O Level History 2147 Depth Study D, the USA 1919-41: the boom, the Crash and the New Deal, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check worked-answer facts against standard texts and the 2147 2024-2026 syllabus before teacher sign-off."
+reviewNote: "Check worked-answer facts against standard texts and the 2147 2024-2026 syllabus before teacher sign-off. 2026-11-08 recheck: disclaimer reworded (depth studies are Paper 1 Section B only; no sources on this page). 2026-11-08 recheck: description brought to 140-160 characters; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions.
-> The wording and exact sources below are invented for practice purposes,
-> but the structure follows the syllabus's own: on Paper 1, Core Content
-> questions are three-part structured essays, split (a), (b), (c); on
-> Paper 2, one document question with up to seven sources is set on a
-> single prescribed Core Content topic. Cambridge International holds
+> The wording below is invented for practice purposes, but the structure
+> follows the syllabus's own: Depth Studies are examined only on Paper 1,
+> Section B, which sets two questions on each Depth Study (candidates answer
+> one), each a three-part structured essay split (a), (b), (c). Depth
+> Studies are not set on Paper 2, so this page contains no source
+> questions. Cambridge International holds
 > copyright in its own papers; use these alongside the official past papers
 > available through your school or Cambridge directly.
 

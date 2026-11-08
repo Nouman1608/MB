@@ -17,6 +17,8 @@ description: "Checklist notes on the six Articles of Faith, jihad, and how and w
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
 ---
 
 **These notes condense Paper 2 Topic 4 of Cambridge IGCSE Islamiyat 0493, The Articles of Faith and
@@ -101,6 +103,10 @@ encouraging people to attend the mosque.
 - **Confusing angels' roles.** Israfil blows the trumpet; Jibril brings revelation.
 - **Equating jihad only with war.** The syllabus asks for its range of meanings.
 - **Missing exemptions from fasting.** Learn the full list and how missed fasts are made up.
+
+## How is this topic examined?
+
+In Cambridge IGCSE 0493 Paper 2 (1 hour 30 minutes, 50 marks), the Articles of Faith and the Pillars of Islam is examined by the optional Questions 3 to 5, of which you answer two; each is worth 14 marks, 10 for part (a) and 4 for part (b). Each answer has a knowledge part and a shorter part asking for understanding or significance, so revise every point with a reason why it matters to Muslims, not just the facts.
 
 ## Frequently asked questions
 

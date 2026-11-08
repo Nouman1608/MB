@@ -11,10 +11,12 @@ order: 4
 syllabusTopics:
   - qualification: "gcse"
     topic: "understanding-the-modern-world-8145"
-description: "Original exam-style practice questions with full worked answers on the causation, change-and-continuity, source-evaluation and interpretation skills tested across Paper 1's period study and wider world depth study options, for AQA GCSE History (8145)."
+description: "Original practice with worked answers on causation, change, source and interpretation skills across AQA GCSE History 8145 Paper 1 period and depth studies."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -140,3 +142,17 @@ related but distinct skills, assessed as separate objectives (sources AO3,
 interpretations AO4) on different questions of this paper: the
 interpretation questions in Paper 1 Section A and the source questions in
 Paper 1 Section B.
+
+## Frequently asked questions
+
+**What are the six Paper 1 Section A questions?**
+Three on two interpretations (how they differ, 4; why they differ, 4; which is more convincing, 8), then describe (4), in what ways (8) and a 12-mark judgement on which of two factors mattered more: 40 marks.
+
+**What are the four Paper 1 Section B questions?**
+A source analysis (4), how useful two sources are (12), an account question (8) and a 16-mark essay with 4 extra marks for spelling, punctuation and grammar.
+
+**Why build a timeline before thematic revision?**
+It fixes the sequence of events, which you need before you can explain causes, consequences and change.
+
+**Are these real AQA past-paper questions?**
+No. They are original questions in the style of AQA GCSE History 8145; use them alongside the official past papers and mark schemes.

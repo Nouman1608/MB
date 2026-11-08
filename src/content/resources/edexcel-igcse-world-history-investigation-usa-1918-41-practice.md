@@ -19,7 +19,7 @@ description: "Original Paper 2 Section A-style source questions on the USA, 1918
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the indicative content against the 4HI1 specification and a recent Paper 2 mark scheme before teacher sign-off."
+reviewNote: "Check the indicative content against the 4HI1 specification and a recent Paper 2 mark scheme before teacher sign-off. 2026-11-08 recheck: FAQ added; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -155,3 +155,17 @@ right about recovery but ignores relief and reform.
 
 Source: question patterns modelled on the Pearson Edexcel International GCSE History (4HI1)
 specification, Issue 5, February 2026, Paper 2, Section A.
+
+## Frequently asked questions
+
+**How is the Paper 2 historical investigation question structured?**
+Part (a) asks you to describe two features (6 marks), part (b) asks how far one source supports another (8 marks) and part (c) is a 16-mark judgement that uses the sources and your own knowledge.
+
+**How should an advertisement or a speech be treated as evidence?**
+As a source with a purpose, to sell or to reassure, not as neutral evidence; its provenance affects how far it can be trusted.
+
+**Which periods do the two enquiries cover?**
+The 1920s, including the Ku Klux Klan, and the Depression and New Deal, 1929–41.
+
+**Are these real Edexcel past-paper questions?**
+No. They are original questions written in the style of Pearson Edexcel International GCSE History 4HI1; use them alongside the official past papers and mark schemes.

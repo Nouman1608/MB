@@ -14,12 +14,10 @@
  *   assessment (topic 4). So '3-1' is the move to global war, '3-11' is
  *   dynasties and rulers and '3-21' is the history of Asia and Oceania.
  *
- * Paper formats follow Marlbridge's own first-assessment-2017 study guides for
- * the prescribed subjects, world history topics and HL options. The site's
- * subject guide, syllabus guide, exam-preparation page and IA pages describe
- * the successor course (first assessment 2028), so the internal-assessment
- * cards keep to what both generations share and give no section structure or
- * weighting. The named case studies of the prescribed subjects, and the
+ * Paper formats follow Marlbridge's first-assessment-2017 pages (all History
+ * pages were moved to the 2017 course on 2026-11-08; the 2028 successor is
+ * described only in a labelled section of the subject and syllabus guides).
+ * Cards 38-40 give the 2017 internal-assessment structure. The named case studies of the prescribed subjects, and the
  * example events on the world history topics, are standard content written
  * from the syllabus; the course pages describe them only as themes. No markband
  * is stated. Every card is authored: scripts/flashcard-candidates.mjs lists no
@@ -91,7 +89,7 @@ export const DECK_IB_IB_DP_WORLD_HISTORY: FlashcardDeck = {
       { n: 2, f: 'Name key events of the US civil rights movement, 1954-65', b: 'Brown v Board of Education (1954), the Montgomery bus boycott (1955-56), Little Rock (1957), the March on Washington (1963), the Civil Rights Act (1964) and the Voting Rights Act (1965).' },
       { n: 3, f: 'Name key events of protest against apartheid, 1948-64', b: 'The Defiance Campaign (1952), the Freedom Charter (1955), the Sharpeville massacre (1960), the banning of the ANC and PAC (1960), the turn to armed struggle (1961) and the Rivonia trial (1964).' },
       { n: 4, f: 'What themes does the Rights and protest subject examine?', b: 'The origins and aims of movements, their methods, the role of leaders and organisations, the response of governments, and how far they succeeded. Compare peaceful and confrontational methods.' },
-      { n: 5, f: 'Paper 1 Question 4: what does it ask?', b: 'Using the sources and your own knowledge, answer a question in a short argued response (9 marks). Integrate at least three sources into the argument and reach a conclusion.' },
+      { n: 5, f: 'Paper 1 Question 4: what does it ask?', b: 'Using the sources and your own knowledge, answer a question in a short argued response (9 marks). Integrate the sources (normally four, A to D) with accurate own knowledge and reach a conclusion.' },
     ]),
     ...sub(PS, `${PS}-5`, '5', [
       { n: 1, f: 'What are the two case studies of Conflict and intervention?', b: 'Rwanda (1990-1998) and Kosovo (1989-2002).' },
@@ -206,6 +204,9 @@ export const DECK_IB_IB_DP_WORLD_HISTORY: FlashcardDeck = {
       { n: 35, f: 'Are a source’s value and limitations fixed?', b: 'No. The same source can be very valuable for one question and limited for another, so tie the evaluation to the specific inquiry question.' },
       { n: 36, f: 'What is the most common reason a historical investigation underperforms?', b: 'An inquiry question left too broad, which produces narrative instead of a focused, evidenced argument.' },
       { n: 37, f: 'Why are fewer, varied sources often better than a long source list?', b: 'A few sources that differ in origin, type or perspective, evaluated in depth, show stronger evaluation than many treated superficially. Include at least one that challenges your argument.' },
+      { n: 38, f: 'What are the three sections of the historical investigation?', b: 'Section 1, identification and evaluation of sources (6 marks); Section 2, the investigation (15 marks); Section 3, reflection (4 marks). Total 25 marks.' },
+      { n: 39, f: 'What is the word limit for the historical investigation, and what is it worth?', b: '2,200 words, excluding the bibliography. It is worth 25% of the grade at SL and 20% at HL.' },
+      { n: 40, f: 'What does the reflection section of the historical investigation ask for?', b: 'What the investigation highlighted about the methods historians use, and the challenges and limitations of those methods, with reference to your own investigation.' },
     ]),
   ],
 };

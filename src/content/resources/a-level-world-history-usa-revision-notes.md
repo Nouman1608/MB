@@ -19,10 +19,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "american-option-history-usa-9489"
     subtopic: "great-depression-new-deal-9489"
-description: "Condensed revision notes on the origins of the Civil War, Reconstruction, the Gilded Age and Progressive Era, and the Great Depression and New Deal for Cambridge AS & A Level History's American Option (9489)."
+description: "Revision notes for the American option of Cambridge 9489 History: Civil War and Reconstruction, Gilded Age and Progressive Era, Depression and New Deal."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
@@ -126,3 +128,14 @@ Paper 2 are explicitly designed to test historical reasoning — weighing eviden
 explanations, and reaching a conclusion — rather than testing how much can be recalled and reproduced.
 Building this judgement-first habit early in revision, rather than only adding it as a final step before
 the exam, tends to produce noticeably stronger answers across all three topics in this option.
+
+## Frequently asked questions
+
+**How many topics does the American option have in 2027–2029?**
+Three: the Civil War and Reconstruction, 1820–77; the Gilded Age and the Progressive Era, 1870–1920; and the Great Crash, the Great Depression and the New Deal, 1920–41.
+
+**How are the AS papers for 9489 structured?**
+Paper 1, Historical Sources (1 hour 15 minutes, 40 marks), is one two-part question on four sources, worth 15 and 25 marks. Paper 2, Outline Study (1 hour 45 minutes, 60 marks), is two two-part questions, each worth 10 + 20 marks.
+
+**How should New Deal measures be evaluated?**
+Individually and against criteria such as relief, recovery and reform, rather than as a single success or failure.

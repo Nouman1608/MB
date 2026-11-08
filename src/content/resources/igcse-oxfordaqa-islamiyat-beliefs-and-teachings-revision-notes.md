@@ -17,6 +17,8 @@ description: "Recall notes for OxfordAQA International GCSE Islamiat 9237 topic 
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
 ---
 
 **These notes condense topic 3.1.1 of OxfordAQA International GCSE Islamiat 9237, Islam: Beliefs and
@@ -138,6 +140,10 @@ daily life [2].
 - **Treating Al-Qadr as fate with no free will.** Explain both sides.
 - **Forgetting differences in death rituals.** The specification asks for different rituals.
 - **Using a prescribed passage only as decoration.** In the 12-mark answer, explain what the passage teaches and how it supports your argument.
+
+## How is this topic examined?
+
+Islam: Beliefs and teachings is examined in OxfordAQA 9237 Paper 1, Section A (25 marks). Each section has short questions worth 1, 2, 4 and 6 marks, building to an extended response worth 12 marks that is linked to a set passage. Learn the Arabic terms and their meanings for the short items, and for the 12-mark answer plan two or three developed points that quote or refer to the passage and reach a judgement. For beliefs, the strongest answers show how a belief shapes a Muslim's actions, such as how belief in angels recording deeds encourages good conduct.
 
 ## Frequently asked questions
 

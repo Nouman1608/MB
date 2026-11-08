@@ -17,6 +17,8 @@ description: "Timeline recall notes for OxfordAQA International GCSE Islamiat 92
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
 ---
 
 **These notes condense topic 3.2.1 of OxfordAQA International GCSE Islamiat 9237, Life and Teachings
@@ -140,6 +142,10 @@ victory" (Sura 48) [2].
 - **Uhud as a defeat only.** Explain its lesson about obedience.
 - **Forgetting honorifics.** Use (pbuh) for the Prophet and (RA) or (AS) as the specification does.
 - **No link to lessons today.** 12-mark answers should connect events to Muslim life now.
+
+## How is this topic examined?
+
+The life and teachings of Hazrat Muhammad (pbuh) is examined in OxfordAQA 9237 Paper 2, Section A (25 marks). Each section has short questions worth 1, 2, 4 and 6 marks, building to an extended response worth 12 marks that is linked to a set passage. Learn the Arabic terms and their meanings for the short items, and for the 12-mark answer plan two or three developed points that quote or refer to the passage and reach a judgement.
 
 ## Frequently asked questions
 

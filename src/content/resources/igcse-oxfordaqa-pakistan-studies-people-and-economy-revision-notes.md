@@ -17,6 +17,8 @@ description: "Recall notes for 9236 topic 3.2.2: population change, migration, e
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
 ---
 
 **These notes condense topic 3.2.2 of OxfordAQA International GCSE Pakistan Studies 9236, The
@@ -116,6 +118,10 @@ on education, health and administration also employs many people [1].
 - **Confusing GDP and HDI.** HDI includes health and education, not just income.
 - **Listing push and pull factors without impacts.** The specification asks about impacts on culture, economy and society.
 - **Ignoring remittances in balance-of-trade answers.** They are named in the specification.
+
+## How is this topic examined?
+
+This topic is examined in OxfordAQA 9236 Paper 2, Section B, worth 28 of the paper's 77 marks; each paper lasts 1 hour 30 minutes. The section mixes multiple-choice, short and extended response questions on this compulsory topic. Short items reward precise named facts, so learn the dates, places and people in the tables above; the extended responses reward a clear line of argument, two or three developed points with evidence, and a judgement that answers the question.
 
 ## Frequently asked questions
 

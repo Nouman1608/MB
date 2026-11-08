@@ -27,10 +27,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "core-content-option-b-2147"
     subtopic: "ussr-control-eastern-europe-2147"
-description: "Condensed revision notes on the Treaty of Versailles, the League of Nations, Hitler's foreign policy, and the origins and end of the Cold War for Cambridge O Level World History Option B (2147)."
+description: "Revision notes for Cambridge O Level History 2147 Option B: Versailles, the League of Nations, Hitler's foreign policy, the Cold War and containment."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
@@ -150,3 +152,14 @@ weigh them against an alternative view underperform relative to their actual kno
 army/USA never joined. 3. Appeasement, the League's weakness/collapse of collective security. 4. Contain
 the spread of communism by pledging support and rebuilding Western European economies. 5. Hungary 1956,
 Czechoslovakia 1968, Poland's Solidarity movement.
+
+## Frequently asked questions
+
+**What did the Big Three want at Versailles?**
+Wilson wanted a moderate peace based on the Fourteen Points, Clemenceau wanted security and a weakened Germany, and Lloyd George wanted a peace firm enough for British opinion but not so harsh it caused future war.
+
+**Was the League of Nations a success?**
+It settled some minor disputes and its agencies did useful work, but it failed against major powers in Manchuria (1931) and Abyssinia (1935–36).
+
+**Who was to blame for the Cold War?**
+Historians disagree: the traditional view blames Soviet expansion, revisionists blame US economic and political aims, and post-revisionists stress mutual suspicion and misunderstanding.

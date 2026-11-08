@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-geography-9236"
     subtopic: "landscape-natural-resources-9236"
-description: "Condensed recall notes on Pakistan's landscape, climate, and mineral, energy and water resources for OxfordAQA International GCSE Pakistan Studies sub-topic 3.2.1 (9236)."
+description: "Revision notes on Pakistan's landscape, climate and mineral, energy and water resources for OxfordAQA International GCSE Pakistan Studies 9236 topic 3.2.1."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
@@ -163,3 +165,14 @@ natural gas: reliable high-output supply, vs. finite reserves and
 import dependency once domestic reserves decline. 5. A winter weather
 system originating over the Mediterranean and Caspian regions that
 brings rain and snow to northern and western Pakistan.
+
+## Frequently asked questions
+
+**How are the 9236 papers structured?**
+Each paper lasts 1 hour 30 minutes and is worth 77 marks: Section A (28 marks) and Section B (28 marks) are compulsory topics, and Section C (21 marks) is one of two optional topics.
+
+**What is the most common error in this topic?**
+Treating the monsoon and western disturbances as one system: they come at different seasons from different directions.
+
+**What does the specification ask about resources?**
+Their location and their importance to economic development, not location alone.

@@ -12,10 +12,12 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "depth-studies-2147"
-description: "The five Depth Studies -- the First World War, Germany 1918-45, Russia 1905-41, the United States 1919-41, and the Second World War -- for Cambridge O Level World History 2147, 2024-2026 series."
+description: "The five Depth Studies of Cambridge O Level History 2147 (2024-2026): First World War, Germany, Russia, the USA and the Second World War, and how they are set."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
@@ -135,6 +137,17 @@ that is where the longer, more analytical writing — and the larger
 share of the marks — sits within each three-part question, and it
 rewards a sustained, supported argument rather than a list of loosely
 connected points, regardless of which Depth Study a school teaches.
+
+## Frequently asked questions
+
+**How many Depth Studies must I study?**
+At least one of the five, alongside one Core Content option.
+
+**How is O Level History 2147 Paper 1 structured?**
+Paper 1 (2 hours, 60 marks, 55%) has Section A on the Core Content (eight questions, answer two) and Section B on the Depth Studies (two questions on each, answer one). Every question is a three-part structured essay: (a) 4 marks, (b) 6 marks, (c) 10 marks.
+
+**Which Depth Study is new in the 2024–2026 syllabus?**
+Depth Study E, the Second World War in Europe and the Asia-Pacific, 1939–c.1945; the China, South Africa and Israelis-and-Palestinians depth studies were removed.
 
 ## Official syllabus
 

@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-environment-0448"
     subtopic: "natural-resources-sustainability-0448"
-description: "Condensed recall notes on water, forests, mineral resources and fish -- with named locations and the sustainability-question framework -- for Section 2 of Cambridge IGCSE Pakistan Studies Paper 2 (0448)."
+description: "Revision notes on water, forests, minerals and fish, with named locations and sustainability, for Cambridge IGCSE Pakistan Studies 0448 Paper 2 Section 2."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; added a short exam-format/content section (page was under 900 words); description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
@@ -146,6 +148,19 @@ against benefits, not simply listed one after another. A list of
 "advantages" followed by a separate list of "disadvantages" with no
 comparison between them under-performs a genuinely weighed conclusion.
 
+## How is this section examined?
+
+This content is examined on Cambridge Paper 2, The environment of Pakistan (1 hour 30 minutes, 75 marks, 50% of the qualification). You answer three questions from a choice of five; each is worth 25 marks and has four parts, (a) to (d), built around resources such as maps, graphs, tables and photographs. Part (d) specifically tests analysis and evaluation, so finish every revision topic by practising a judgement: for example, how sustainable a resource or a policy is, with evidence for and against.
+
+## Named examples to learn
+
+| Resource | Named examples |
+|---|---|
+| Dams | Tarbela (Indus), Mangla (Jhelum), Warsak (Kabul River) |
+| Barrages | For example Sukkur and Kotri on the Indus |
+| Minerals | Rock salt from Khewra in the Salt Range; limestone and gypsum for cement |
+| Fishing ports | Karachi (Sindh); Gwadar, Pasni and Ormara (Balochistan) |
+
 ## Self-test
 
 1. Name the three dams and state what else you must be able to name
@@ -167,3 +182,14 @@ that extraction. 4. Balochistan and Sindh. 5. How is this resource
 used, and can that use continue without running the resource down —
 applied to what it's used for, what damages it, and what would make
 its use sustainable.
+
+## Frequently asked questions
+
+**How is Paper 2 structured?**
+Paper 2 (1 hour 30 minutes, 75 marks, 50%) asks you to answer three questions from a choice of five, each worth 25 marks, in four parts (a) to (d) built around maps, graphs, photographs and other resources; part (d) tests analysis.
+
+**What links the four resources in this section?**
+The same question: how is the resource used, and can that use continue without exhausting or damaging it?
+
+**What is the difference between a plantation and afforestation?**
+Plantations in the Indus Plain are planted for commercial use; afforestation on mountains and plateaux is planting to protect slopes and prevent erosion.

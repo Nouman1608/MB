@@ -21,10 +21,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-2058"
     subtopic: "first-islamic-community-2058"
-description: "Cambridge O Level Islamiyat 2058 (2026-2027 series), Paper 1: the major themes of the Qur'an, its history and importance, the life of the Prophet Muhammad (pbuh), and the first Islamic community. Identical structure to Cambridge IGCSE Islamiyat 0493."
+description: "Paper 1 of Cambridge O Level Islamiyat 2058 (2026-2027): themes and history of the Qur'an, the life of the Prophet (pbuh) and the first Islamic community."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
@@ -144,6 +146,17 @@ even when the underlying knowledge is correct. As with any two-paper
 qualification examined across a defined series, confirm your own
 centre's exact entry pattern and paper timetable directly with your
 school rather than assuming it matches another qualification's.
+
+## Frequently asked questions
+
+**How is 2058 Paper 1 structured?**
+Paper 1 lasts 1 hour 30 minutes and is worth 50 marks (50%). It has five questions: Questions 1 and 2 are compulsory and you choose two of Questions 3 to 5. Question 1 is worth 8 marks (4 + 4) and each other answered question 14 marks (10 + 4).
+
+**What are the four Paper 1 topics?**
+1.1 Major themes of the Qur'an; 1.2 History and importance of the Qur'an; 1.3 Life and importance of the Prophet (pbuh); 1.4 The first Islamic community.
+
+**Is 2058 Paper 1 the same as IGCSE 0493?**
+Yes, for 2026–2027 the two syllabuses share the same structure.
 
 ## Official syllabus
 

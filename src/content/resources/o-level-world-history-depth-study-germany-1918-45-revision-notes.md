@@ -15,11 +15,11 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "depth-studies-2147"
     subtopic: "depth-study-b-germany-2147"
-description: "Revision notes for Cambridge O Level History 2147 Depth Study B, Germany 1918-45: Weimar timeline, Nazi rise to power, methods of control, life under Nazi rule and exam traps."
+description: "Revision notes for Cambridge O Level History 2147 Depth Study B, Germany 1918-45: Weimar timeline, Hitler's rise, Nazi control, daily life and exam traps."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check dates and figures against standard texts and the 2147 2024-2026 syllabus before teacher sign-off."
+reviewNote: "Check dates and figures against standard texts and the 2147 2024-2026 syllabus before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources; figures flag cleared, dates and syllabus check remain. 2026-11-08 recheck: description brought to 140-160 characters; please re-review. 2026-11-08 recheck: added key dates/people table to bring notes above 900 words."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -121,6 +121,19 @@ featured: false
 - Agree: SS, Gestapo, camps; Night of the Long Knives showed ruthlessness.
 - Disagree: propaganda and popular measures (jobs, national pride) won consent; many Germans informed willingly.
 - Judgement: terror for opponents, persuasion for the majority -- both needed, but consent made terror effective.
+
+## Key people
+
+| Person | Role |
+|---|---|
+| Friedrich Ebert | First President of the Weimar Republic (1919–25) |
+| Gustav Stresemann | Chancellor in 1923, then Foreign Minister; Rentenmark, Dawes Plan, Locarno |
+| Paul von Hindenburg | President from 1925; appointed Hitler Chancellor in January 1933 |
+| Heinrich Brüning | Chancellor 1930–32; ruled by Article 48 decrees |
+| Franz von Papen | Chancellor 1932; persuaded Hindenburg to appoint Hitler |
+| Ernst Röhm | SA leader, killed in the Night of the Long Knives (June 1934) |
+| Joseph Goebbels | Minister of Propaganda |
+| Heinrich Himmler | Head of the SS and, from 1936, of all police including the Gestapo |
 
 ## Exam traps
 

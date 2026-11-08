@@ -12,10 +12,12 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-investigation-breadth-studies-4hi1"
-description: "Original exam-style practice questions with full worked answers on the Historical Investigation's describe, cross-reference and interpretation questions, and the Breadth Study's explain and significance questions, for Pearson Edexcel International GCSE History (4HI1)."
+description: "Original Edexcel International GCSE History 4HI1 Paper 2 practice: investigation describe, cross-reference and interpretation questions and breadth essays."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
@@ -196,3 +198,17 @@ way, this is what turns a description into the judgement the mark scheme rewards
 6- and 8-mark description and explanation parts, develop each point you make with
 specific detail rather than simply naming several points, since marks are awarded for
 depth of development, not for quantity.
+
+## Frequently asked questions
+
+**How is the Paper 2 historical investigation question structured?**
+Part (a) asks you to describe two features (6 marks), part (b) asks how far one source supports another (8 marks) and part (c) is a 16-mark judgement that uses the sources and your own knowledge.
+
+**How is the Paper 2 breadth study question structured?**
+Part (a) asks you to explain two ways something was different at two dates (6 marks), part (b) to explain two causes (8 marks) and part (c) is a 16-mark essay on change, continuity or significance across the period.
+
+**Is question 1(b) a usefulness question?**
+No. It is a cross-referencing question: it asks how far one source supports another, so identify agreement and disagreement, and reach a judgement.
+
+**Are these real Edexcel past-paper questions?**
+No. They are original questions written in the style of Pearson Edexcel International GCSE History 4HI1; use them alongside the official past papers and mark schemes.

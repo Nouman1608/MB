@@ -9,10 +9,12 @@ qualifications: ["igcse"]
 syllabusCodes: ["0493"]
 syllabusSeries: "2026-2027"
 order: 3
-description: "Preparing for both equally weighted papers of Cambridge IGCSE Islamiyat 0493 -- why neither paper can be sacrificed, how to budget 90 minutes across 50 marks, using set passages precisely, and a worked answer structure."
+description: "Exam preparation for both equally weighted papers of Cambridge IGCSE Islamiyat 0493: timing 50 marks in 90 minutes, using set passages and a worked answer plan."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
@@ -135,3 +137,14 @@ linear revision tends to leave whichever strand comes last materially thinner th
 structure is an original model written for this resource, not a reproduction of any official mark
 scheme or past paper. Always check the current syllabus for your examination year at
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697174-2026-2027-syllabus.pdf).*
+
+## Frequently asked questions
+
+**How is 0493 Paper 1 structured?**
+Paper 1 lasts 1 hour 30 minutes and is worth 50 marks (50%). It has five questions: Questions 1 and 2 are compulsory and you choose two of Questions 3 to 5. Question 1 is worth 8 marks (4 + 4) and each other answered question 14 marks (10 + 4).
+
+**Can I drop one paper and rely on the other?**
+No. Each paper is worth exactly 50%, so a strong Paper 1 cannot make up for a weak Paper 2.
+
+**What separates good answers?**
+Precise reference to the set Qur'an passages or Hadiths, and a clear explanation of significance as well as description.

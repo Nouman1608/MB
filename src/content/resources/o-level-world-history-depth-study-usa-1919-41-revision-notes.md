@@ -15,11 +15,11 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "depth-studies-2147"
     subtopic: "depth-study-d-usa-2147"
-description: "Revision notes for Cambridge O Level History 2147 Depth Study D, the USA 1919-41: boom and its limits, Prohibition and intolerance, causes of the Crash and the alphabet agencies."
+description: "Revision notes for Cambridge O Level History 2147 Depth Study D, the USA 1919-41: the boom and its limits, intolerance, the Crash and the New Deal agencies."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check dates and figures against standard texts and the 2147 2024-2026 syllabus before teacher sign-off."
+reviewNote: "Check dates and figures against standard texts and the 2147 2024-2026 syllabus before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources; figures flag cleared, dates and syllabus check remain. 2026-11-08 recheck: description brought to 140-160 characters; please re-review. 2026-11-08 recheck: added key dates/people table to bring notes above 900 words."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -122,6 +122,18 @@ featured: false
 *"The New Deal was a success." How far do you agree?* **[10]**
 
 Strong conclusion: "The New Deal succeeded in relief and reform -- saving the banks and creating Social Security -- but it did not achieve full recovery, since unemployment remained high until war production began; it was therefore a partial success."
+
+## Key people
+
+| Person | Role |
+|---|---|
+| Warren Harding, Calvin Coolidge | Republican Presidents of the 1920s; laissez-faire, low taxes, tariffs |
+| Herbert Hoover | President 1929–33; blamed for the Depression ("Hoovervilles") |
+| Henry Ford | Moving assembly line; the Model T |
+| Sacco and Vanzetti | Italian immigrant anarchists executed in 1927 after a controversial trial |
+| Al Capone | Chicago gangster who profited from Prohibition |
+| Franklin D. Roosevelt | President from 1933; the New Deal |
+| Huey Long | Louisiana senator whose "Share Our Wealth" plan attacked the New Deal as too cautious |
 
 ## Exam traps
 

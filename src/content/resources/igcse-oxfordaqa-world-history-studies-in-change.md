@@ -12,10 +12,12 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-studies-in-change-9245"
-description: "Societies in change (Germany, Russia and the USSR, or the USA) and thematic studies in technology or medicine -- the full paper structure of Paper 2 for OxfordAQA International GCSE History (9245), a new qualification for teaching from September 2026."
+description: "Paper 2 of OxfordAQA International GCSE History 9245, Studies in change: societies in change and thematic studies, with the question structure and approach."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -149,6 +151,17 @@ centre has taught before revising further.
 
 - [Studies in Change revision notes](/resources/igcse-oxfordaqa-world-history-studies-in-change-revision-notes/)
 - [Studies in Change practice questions](/resources/igcse-oxfordaqa-world-history-studies-in-change-practice/)
+
+## Frequently asked questions
+
+**How is Paper 2 of OxfordAQA 9245 structured?**
+Paper 2, Studies in change (1 hour 45 minutes, 60 marks, 50%), has Section A on one society in change and Section B on one thematic study; each section has four questions worth 3, 6, 9 and 12 marks.
+
+**What are the thematic study options?**
+Technology and change, c800 to the present day, and Medicine and change, c800 to the present day.
+
+**When is OxfordAQA 9245 first examined?**
+It is taught from September 2026 and first examined in May/June 2028, so no past papers exist yet.
 
 ## Official syllabus
 

@@ -17,6 +17,8 @@ description: "Mind-map recall notes on the six beliefs, jihad and the Five Pilla
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
 ---
 
 **These notes condense Paper 2 Topic 4 of Cambridge O Level Islamiyat 2058, The Articles of Faith and
@@ -128,6 +130,10 @@ zakat al-fitr before Eid prayer. Mosques fill for tarawih, renewing the communit
 - **Hajj steps out of order.** Learn the sequence of days and places.
 - **Zakat rates.** 2.5 per cent applies to savings; other rates apply to crops and animals.
 - **Treating jihad as war only.** Give its range of meanings.
+
+## How is this topic examined?
+
+In Cambridge O Level 2058 Paper 2 (1 hour 30 minutes, 50 marks), the Articles of Faith and the Pillars of Islam is examined by the optional Questions 3 to 5, of which you answer two; each is worth 14 marks, 10 for part (a) and 4 for part (b). Each answer has a knowledge part and a shorter part asking for understanding or significance, so revise every point with a reason why it matters to Muslims, not just the facts.
 
 ## Frequently asked questions
 

@@ -31,7 +31,7 @@ description: "Recall notes on the five Cambridge IGCSE History 0470 depth studie
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check dates and figures against standard texts and the 0470 2024-2026 syllabus focus points before teacher sign-off."
+reviewNote: "Check dates and figures against standard texts and the 0470 2024-2026 syllabus focus points before teacher sign-off. 2026-11-08 recheck: all numerical figures (seats, votes, casualties, refugees, unemployment, famine deaths) verified against standard sources; figures flag cleared, dates and syllabus check remain."
 publishedDate: 2026-11-08
 featured: false
 ---

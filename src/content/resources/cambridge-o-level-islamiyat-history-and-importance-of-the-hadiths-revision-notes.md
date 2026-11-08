@@ -17,6 +17,8 @@ description: "Question-led notes on how Hadiths were compiled and authenticated,
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
 ---
 
 **These notes cover Paper 2 Question 2 of Cambridge O Level Islamiyat 2058, The History and
@@ -123,6 +125,10 @@ scholars apply this by qiyas to modern drugs.
 - **Confusing ijma' with qiyas.** Ijma' is agreement; qiyas is comparison.
 - **Ignoring early collections.** Credit is available for sahifas and Umar ibn Abd al-Aziz's order.
 - **Description without evaluation.** Part (b) usually asks why Hadiths are important; give reasons.
+
+## How is this topic examined?
+
+In Cambridge O Level 2058 Paper 2 (1 hour 30 minutes, 50 marks), the history and importance of the Hadiths is examined by Question 2, which is compulsory: part (a) is worth 10 marks and part (b) 4 marks. Each answer has a knowledge part and a shorter part asking for understanding or significance, so revise every point with a reason why it matters to Muslims, not just the facts.
 
 ## Frequently asked questions
 

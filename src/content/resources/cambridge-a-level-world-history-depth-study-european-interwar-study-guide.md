@@ -22,11 +22,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "depth-study-european-interwar-9489"
     subtopic: "hitlers-germany-9489"
-description: "Mussolini's Italy, Stalin's Russia and Hitler's Germany between 1919 and 1941: rise to power, methods of control, economic policy and foreign policy, with exam guidance."
+description: "Study guide to the Cambridge 9489 History Paper 4 European option: Mussolini's Italy, Stalin's Russia and Hitler's Germany, 1919-41, with exam guidance."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the syllabus for the key questions and prescribed content under each of the three dictatorships and the paper in which this depth study is examined."
+reviewNote: "Check the syllabus for the key questions and prescribed content under each of the three dictatorships and the paper in which this depth study is examined. 2026-11-08 recheck: added the Paper 4 format from the 2027-2029 syllabus; FAQ added; description brought to 140-160 characters; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -36,6 +36,8 @@ Between the wars, three of Europe's largest states fell under dictatorships that
 ## Where this fits in the specification
 
 This is the European option among the depth studies in Cambridge 9489. The three sections are Mussolini's Italy, 1919-41, Stalin's Russia, 1924-41 and Hitler's Germany, 1929-41. Depth study questions ask for sustained argument supported by precise knowledge, so you need accurate dates and examples, and a clear line of argument on each key question. Confirm the paper and question style in the current syllabus and specimen papers.
+
+It is examined on **Paper 4: Depth study** (1 hour 45 minutes, 60 marks, 30% of the A Level). You answer two questions from a choice of three, all on your chosen option, each worth 30 marks; questions use the command words **assess** and **evaluate**, and marks are split equally between historical knowledge (AO1) and explanation, analysis and judgement (AO2).
 
 ## Mussolini's Italy, 1919-41
 
@@ -125,3 +127,14 @@ Cambridge command words include **assess**, **how far** and **to what extent**. 
    *52 days.*
 8. Why should you be careful with Nazi unemployment figures?
    *They excluded some groups and were affected by conscription and rearmament, so they overstate genuine recovery.*
+
+## Frequently asked questions
+
+**How is the depth study examined?**
+On Paper 4 (1 hour 45 minutes, 60 marks, 30% of the A Level): you answer two 30-mark essays from a choice of three on your option, using the command words assess or evaluate.
+
+**What did the Acerbo Law do?**
+Passed in 1923, it gave two-thirds of the seats in the Italian parliament to the party with the most votes, provided it won at least 25%.
+
+**How did Stalin defeat his rivals?**
+As General Secretary he controlled party appointments and used the ban on factions to defeat Trotsky, then Zinoviev, Kamenev and Bukharin, by 1929.

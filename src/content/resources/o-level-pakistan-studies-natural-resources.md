@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Water, forests, mineral resources and fish -- Section 2 of Paper 2 The Environment of Pakistan, Cambridge O Level Pakistan Studies (2059), 2026 series."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -149,6 +151,17 @@ sub-topic asks candidates to locate a feature before analysing it.
 
 - [Cambridge O Level Pakistan Studies: The Land of Pakistan](/resources/o-level-pakistan-studies-land-of-pakistan/)
 - [Cambridge IGCSE Pakistan Studies: Natural Resources – An Issue of Sustainability (0448)](/resources/igcse-cambridge-pakistan-studies-natural-resources/)
+
+## Frequently asked questions
+
+**How is Paper 2 structured?**
+Paper 2 (1 hour 30 minutes, 75 marks, 50%) asks you to answer three questions from a choice of five, each worth 25 marks, in four parts (a) to (d) built around maps, graphs, photographs and other resources; part (d) tests analysis.
+
+**Which resources does Section 2 cover?**
+Water, forests, mineral resources and fish, each judged on how sustainably it is used.
+
+**Which detail do candidates most often blur?**
+The difference between plantations in the Indus Plain and afforestation on mountain slopes.
 
 ## Official syllabus
 

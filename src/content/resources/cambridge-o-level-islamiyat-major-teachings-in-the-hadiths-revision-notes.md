@@ -17,6 +17,8 @@ description: "Keyword cues, teachings and modern examples for all 20 set Hadiths
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
 ---
 
 **These notes support Paper 2 Question 1 of Cambridge O Level Islamiyat 2058, Major Teachings in the
@@ -93,6 +95,10 @@ gentle and do not be hard."
 - **Repeating the teaching in the application.** The application must describe action.
 - **Very general examples.** "Be kind" is weak; "visit a sick neighbour and offer to shop for them" is strong.
 - **Over-long answers.** This question is worth 8 marks; keep time for the 14-mark essays.
+
+## How is this topic examined?
+
+In Cambridge O Level 2058 Paper 2 (1 hour 30 minutes, 50 marks), the set Hadiths is examined by Question 1, which is compulsory: you choose two of the Hadiths printed and answer part (a) on their teaching (4 marks) and part (b) on their application (4 marks). Each answer has a knowledge part and a shorter part asking for understanding or significance, so revise every point with a reason why it matters to Muslims, not just the facts.
 
 ## Frequently asked questions
 
