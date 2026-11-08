@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "number-oxfordaqa-igcse-maths"
-description: "Structure and calculation, fractions/decimals and percentages, and ratio and proportion -- the full content of Topic 1 Number for OxfordAQA International GCSE Mathematics (9260)."
+description: "Structure and calculation, fractions, decimals, percentages, ratio and proportion: the full Topic 1 Number content for OxfordAQA International GCSE Maths 9260."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Topic 1 Number**, the first of four subject-content
@@ -257,3 +259,17 @@ Multiplying rather than dividing in reverse percentage problems. Treating 1 as p
 - Apply all index laws and calculate in standard form.
 - Simplify and rationalise surds.
 - State bounds and combine them correctly for sums, differences, products and quotients.
+
+## Frequently asked questions
+
+**What are the three sub-topics of Number in OxfordAQA 9260?**
+Topic 1 Number is split into 3.1.1 Structure and calculation (N1 to N11), 3.1.2 Fractions, decimals and percentages (N12 to N15) and 3.1.3 Ratio and proportion (N16 to N20).
+
+**What is the difference between direct and inverse proportion?**
+In direct proportion y = kx, so both quantities increase or decrease together. In inverse proportion y = k/x, so one increases as the other decreases.
+
+**Are surds in the Core tier of OxfordAQA IGCSE Maths 9260?**
+No. Surds (N7) are Extension tier only; Core candidates calculate exactly with fractions instead.
+
+**Can all Number content appear on the Extension tier paper?**
+Yes. All content in Topic 1 Number can be assessed on the Extension tier of OxfordAQA International GCSE Mathematics 9260.

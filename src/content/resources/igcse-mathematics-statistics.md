@@ -19,14 +19,16 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "statistics-cambridge-igcse-maths"
     subtopic: "histograms-cambridge-igcse-maths"
-description: "Classifying and interpreting data, averages and range, statistical charts, scatter diagrams, cumulative frequency and histograms -- the Core and Extended content of Topic 9 Statistics for Cambridge IGCSE Mathematics 0580, 2025-2027 series."
+description: "Core and Extended Topic 9 Statistics for Cambridge IGCSE Maths 0580 (2025-2027): data, averages, charts, scatter diagrams, cumulative frequency and histograms."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Topic 9 Statistics**, the final topic for
@@ -202,6 +204,19 @@ only the modal class (Extended).
   <figcaption>Order the leaves in each row before counting to the median.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Are histograms in the Core syllabus for Cambridge IGCSE 0580?**
+No. Histograms with frequency density (E9.7) and cumulative frequency diagrams (E9.6) are Extended-only subtopics.
+
+**Do Core candidates calculate averages from grouped data?**
+No. Core (C9.3) covers the mean, median, mode and range for individual data in a list or frequency table. Estimating the mean of grouped data and finding the modal class are Extended content (E9.3).
+
+**Which charts do you need for Core 0580 statistics?**
+Core subtopic C9.4 covers bar charts, including composite and dual bar charts, pie charts, pictograms, ordered stem-and-leaf diagrams with a key, and simple frequency distributions.
+
+**What types of correlation are there on a scatter diagram?**
+Positive correlation means one variable tends to increase as the other increases, negative correlation means one tends to decrease as the other increases, and zero correlation means there is no clear pattern.
 
 ## Official syllabus
 

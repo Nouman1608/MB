@@ -16,13 +16,15 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "algebra-and-graphs"
     subtopic: "equations"
-description: "Positive, negative and fractional indices, then linear, fractional, simultaneous and quadratic equations, and changing the subject of a formula, for Cambridge O Level Mathematics (Syllabus D) 4024."
+description: "Zero, negative and fractional indices, then linear, fractional, simultaneous and quadratic equations and changing the subject for Cambridge O Level Maths 4024."
 author: "muhammad-ghazali-siddiqui"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers subtopics **2.4 Indices II** and **2.5 Equations**, from
@@ -239,6 +241,20 @@ twice — the subject must be isolated as a common factor first.
 form
 - Changing the subject of a formula, including when it appears twice or as
 a power/root
+
+## Frequently asked questions
+
+**Is the quadratic formula given in the Cambridge O Level 4024 exam?**
+Yes. The quadratic formula is provided in the List of Formulas for Cambridge O Level Mathematics 4024.
+
+**Is Cambridge O Level Maths 4024 tiered?**
+No. 4024 is not tiered, so every candidate covers all of the indices and equations content.
+
+**How do you change the subject when it appears twice?**
+Collect every term containing the subject on one side, factorise it out, and then divide by the bracket.
+
+**What does solutions in surd form mean?**
+Leave the answer with an exact square root, such as 2 ± √7, rather than rounding it to a decimal.
 
 ## Related resources
 

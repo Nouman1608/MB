@@ -55,14 +55,16 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "number-cambridge-igcse-maths"
     subtopic: "money-cambridge-igcse-maths"
-description: "Original exam-style practice questions with full worked answers on sets and Venn diagrams, fractions, decimals and percentages, ordering, powers and roots, ratio, percentages, standard form, bounds, average speed, calculator use, time and money."
+description: "Worked practice questions on sets, fractions, percentages, ratio, standard form, bounds, speed, calculator use, time and money for Cambridge IGCSE 0580."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -294,5 +296,19 @@ The full three-set Venn diagram: A only {8, 10}; B only {9}; C only {1}; A and C
 - *(Extended)* Misreading which digits recur in a recurring decimal before applying the standard "multiply by 10 to the n, subtract" method -- treating it as terminating, or misidentifying the repeating block, invalidates the rest of a correct method.
 - After multiplying or dividing two numbers in standard form, mishandling the index arithmetic -- indices are added when multiplying and subtracted when dividing, separately from renormalising the mantissa back into the range 1 <= a < 10.
 - In a compound unit conversion, converting only the unit that catches the eye and forgetting the other -- how many parts need converting depends on what's changing: km/h to m/h only requires converting the distance unit (km to m), since the time unit (h) is unchanged, but km/h to m/s requires converting both the distance (km to m) AND the time (h to s), since both units differ between the two forms.
+
+## Frequently asked questions
+
+**How do you share an amount in a ratio?**
+Add the parts of the ratio to find the total number of parts, divide the amount by that total to find one part, then multiply by each share. Dividing by the number of people instead is a common error.
+
+**Why does typing −4² into a calculator give −16?**
+The calculator squares 4 first and then applies the minus sign. To square −4, use brackets: (−4)² = 16.
+
+**How do you convert 4.35 hours into hours and minutes?**
+Multiply the decimal part by 60: 0.35 × 60 = 21 minutes, so 4.35 hours is 4 hours 21 minutes, not 4 hours 35 minutes.
+
+**How do you fill in a Venn diagram from totals?**
+Start with the overlap, then subtract it from each set total to find the "only" regions, and check that all the regions add up to the total. Counting the overlap twice is a common mistake.
 
 *Source: Cambridge International, 0580 Mathematics Principal Examiner Report, June 2024 series, Papers 11, 12, 13, 21, 23 (verified 2026-09-02).*

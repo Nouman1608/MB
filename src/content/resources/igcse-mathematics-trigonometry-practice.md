@@ -28,14 +28,16 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "trigonometry-cambridge-igcse-maths"
     subtopic: "pythagoras-theorem-and-trigonometry-cambridge-igcse-maths"
-description: "Original exam-style practice questions with full worked answers on Pythagoras' theorem, right-angled and non-right-angled triangle trigonometry, exact values, trig functions and 3D problems for Cambridge IGCSE Mathematics 0580."
+description: "Practice questions with worked answers on Pythagoras, SOHCAHTOA, exact values, trig graphs, the sine and cosine rules and 3D problems for Cambridge IGCSE 0580."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -122,3 +124,17 @@ Related: [Trigonometry revision notes](/resources/igcse-mathematics-trigonometry
 ## Approaching trigonometry questions
 
 Before choosing a method, identify what the triangle actually gives you: a right angle points to SOHCAHTOA or Pythagoras; a matching angle-side pair points to the sine rule; two sides with the included angle, or all three sides, points to the cosine rule -- rearranged for an angle when the unknown is an angle rather than a side, as in a "find angle Y given three sides" question. A negative value inside cos⁻¹ is not a sign of an error -- it correctly signals an obtuse angle, and should be carried through rather than assumed to be a mistake.
+
+## Frequently asked questions
+
+**Which side is the hypotenuse?**
+The hypotenuse is the longest side of a right-angled triangle and is always opposite the right angle.
+
+**How do you decide between SOHCAHTOA and the sine or cosine rule?**
+Use Pythagoras or SOHCAHTOA when the triangle has a right angle. Use the sine or cosine rule, which are Extended content, for triangles without a right angle.
+
+**Should exact trig values be given as decimals?**
+No. An exact value such as √2/2 must be left in surd or fraction form; a rounded decimal like 0.707 does not count as exact.
+
+**How do you approach a 3D trigonometry problem?**
+Find the right-angled triangle inside the solid first, often using a diagonal, a height and a base length, and keep intermediate lengths in exact form to avoid losing accuracy.

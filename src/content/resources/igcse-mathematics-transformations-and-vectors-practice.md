@@ -118,3 +118,17 @@ Related: [Transformations and Vectors revision notes](/resources/igcse-mathemati
 ## Approaching transformations and vectors questions
 
 For a "describe fully" transformation question, write down each required piece of information as a separate labelled item before combining it into a sentence -- mirror line, or angle and centre, or scale factor and centre, or column vector -- since a correct transformation named without its required extra detail typically only earns partial credit. For vector-geometry routes, treat every unconverted intermediate vector as unfinished working rather than a final answer, and keep track of direction carefully: the vector from one named point to another is always end point minus start point, and reversing that order simply negates the result rather than producing a different, unrelated vector.
+
+## Frequently asked questions
+
+**What must you state to describe a rotation fully?**
+Give the word rotation, the centre of rotation and the angle with its direction, such as 90° clockwise. A reflection needs its mirror line, and an enlargement needs its scale factor and centre.
+
+**How do you enlarge a shape about the origin?**
+Multiply both coordinates of every vertex by the scale factor. Multiplying only one coordinate is a common error.
+
+**How do you find the magnitude of a column vector?**
+Use Pythagoras' theorem: the magnitude of a vector with components x and y is √(x² + y²). Remember to take the square root at the end.
+
+**How do you show three points are collinear using vectors?**
+Show that two displacement vectors between the points are multiples of each other and share a common point, so the points lie on one straight line.

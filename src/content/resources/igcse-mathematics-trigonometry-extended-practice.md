@@ -25,13 +25,15 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "geometry-cambridge-igcse-maths"
     subtopic: "circle-theorems-ii-cambridge-igcse-maths"
-description: "Original exam-style questions with full worked answers on the cosine and sine rules, trigonometry in three dimensions, trigonometric equations, exact trigonometric values and chord properties of circles, for Cambridge IGCSE Mathematics (0580) Extended."
+description: "Extended practice with worked answers on sine and cosine rules, triangle area, bearings, 3D trigonometry, trig equations and exact values for IGCSE 0580."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -199,6 +201,20 @@ This set covers the Extended content on the sine and cosine rules, the area form
 - Leaving the calculator in radian mode, which gives a plausible but wrong answer.
 - Writing the answer to a "show that" question without showing the substitution first.
 
+## Frequently asked questions
+
+**How many solutions can a trig equation have between 0° and 360°?**
+Equations such as cos x = 0.4 usually have two solutions in this range. Giving only one, or a solution outside the stated range, loses marks.
+
+**Why must a calculator be in degree mode for IGCSE trigonometry?**
+Angles in 0580 are in degrees. A calculator left in radian mode gives an answer that can look plausible but is wrong.
+
+**What is a useful chord property in circle trigonometry?**
+The perpendicular from the centre of a circle to a chord bisects the chord, which creates right-angled triangles you can solve with Pythagoras or trigonometry.
+
+**How should bearings be written?**
+Measure bearings clockwise from a north line and always give them with three figures, such as 040°.
+
 ## Next steps
 
 - Practise with the [Trigonometry practice questions](/resources/igcse-mathematics-trigonometry-practice/) and recap with the [Trigonometry revision notes](/resources/igcse-mathematics-trigonometry-revision-notes/).
@@ -210,10 +226,3 @@ This set covers the Extended content on the sine and cosine rules, the area form
 ## Official syllabus
 
 Cambridge International: *Cambridge IGCSE Mathematics 0580 syllabus*, for exams in 2025, 2026 and 2027, Trigonometry and the circle properties in Geometry (Extended content). Check the current syllabus on [cambridgeinternational.org](https://www.cambridgeinternational.org/) for the exact wording of each learning objective.
-d the [printable checklist](/checklists/edexcel/igcse/chemistry/).
-- Take the [free all-topics diagnostic](/practice/4CH1/diagnostic/all-topics/).
-- [Book a free trial class](/trial/).
-
-## Official syllabus
-
-Pearson Edexcel International GCSE in Chemistry (4CH1), Specification, Issue 3, September 2024, published by Pearson Education Limited. Topic 3: Physical chemistry.

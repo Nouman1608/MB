@@ -13,13 +13,15 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "algebra-and-graphs"
     subtopic: "inequalities"
-description: "Representing inequalities on a number line and graphically, solving linear inequalities, and listing the inequalities that define a region, for Cambridge O Level Mathematics (Syllabus D) 4024."
+description: "Number lines, linear and double inequalities, integer solutions, two-variable regions and reading inequalities from a region for Cambridge O Level Maths 4024."
 author: "muhammad-ghazali-siddiqui"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers subtopic **2.6 Inequalities**, from Topic 2, Algebra and
@@ -203,6 +205,20 @@ and listing integer solutions correctly at each endpoint
 inequalities
 - Reading a shaded region back into a list of inequalities
 - Linear programming is not included in this syllabus
+
+## Frequently asked questions
+
+**What is the difference between open and closed circles on a number line?**
+An open circle shows a strict inequality (< or >), where the endpoint is not included. A closed circle shows an inclusive inequality (≤ or ≥), where it is included.
+
+**How do you solve a double inequality?**
+Carry out the same operation on all three parts at once. If you divide by a negative number, reverse both inequality signs.
+
+**Which region is shaded in a Cambridge O Level 4024 inequality graph?**
+Unless the question says otherwise, shade the unwanted region, so the required region is left unshaded.
+
+**How do you list the integer solutions of an inequality?**
+Check each endpoint against its own sign. For −3 ≤ x < 3 the integers are −3, −2, −1, 0, 1 and 2, because −3 is included and 3 is not.
 
 ## Related resources
 
