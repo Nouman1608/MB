@@ -17,6 +17,8 @@ description: "Recall notes on Hadith compilation, isnad and matn tests, grades, 
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
 ---
 
 **These notes condense Paper 2 Question 2 of Cambridge IGCSE Islamiyat 0493, The History and
@@ -124,6 +126,10 @@ already decided, such as treating all intoxicants like wine because they share t
 - **Saying Hadiths were not written at all until the third century.** Writing began earlier in sahifas; the great collections came later.
 - **Listing compilers without features.** For 14-mark answers, say what makes each collection distinctive.
 - **Forgetting the Shi'a books.** The syllabus names four Shi'a collections.
+
+## How is this topic examined?
+
+In Cambridge IGCSE 0493 Paper 2 (1 hour 30 minutes, 50 marks), the history and importance of the Hadiths is examined by Question 2, which is compulsory: part (a) is worth 10 marks for knowledge and part (b) 4 marks for evaluation. Each answer has a knowledge part and a shorter part asking for understanding or significance, so revise every point with a reason why it matters to Muslims, not just the facts. For this topic, part (b) often asks why the Hadiths are important to Muslims or how they are used in law, so link compilation and authentication to the trust Muslims can place in a Hadith.
 
 ## Frequently asked questions
 

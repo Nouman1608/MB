@@ -21,10 +21,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-0493"
     subtopic: "first-islamic-community-0493"
-description: "Condensed recall notes on the Qur\u2019an, the life of the Prophet and the first Islamic community for Cambridge IGCSE Islamiyat (0493)."
+description: "Revision notes for Cambridge IGCSE Islamiyat 0493 Paper 1: the Qur'an and its themes, the life of the Prophet Muhammad (pbuh) and the first Islamic community."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -136,3 +138,14 @@ the event covered under "The Qur'an — key facts" above.
 7. Which groups of people does the syllabus list under the first Islamic community?
 
 **Answers:** 1. Abu Bakr compiled it after Yamama; Uthman standardised it and distributed official copies. 2. Makkan are generally shorter and focus on tawhid, the afterlife and moral conduct; Madinan are longer and address law, community organisation and social order. 3. It bound Muslims, Jews and other groups into one community with defined rights and duties, and established the Prophet as arbiter — the first written constitution of the Islamic state. 4. Archers abandoned their position to collect spoils, allowing a counter-attack from the rear. 5. Any three: equality regardless of race, sanctity of life and property, rights of women, abolition of usury, ending of blood feuds. 6. Because Muslims in different regions had begun reciting the Qur'an in different dialects during the campaigns in Armenia and Azerbaijan, risking division over the text itself. 7. The Prophet's wives; his descendants (his children, grandchildren and the line recognised among Shi'a Muslims as Imams); and his leading Companions, including the Ten Blessed Companions, his Scribes, the major figures of his ministry, the Emigrants and Helpers, and the four Rightly Guided Caliphs during his lifetime.
+
+## Frequently asked questions
+
+**How is 0493 Paper 1 structured?**
+Paper 1 lasts 1 hour 30 minutes and is worth 50 marks (50%). It has five questions: Questions 1 and 2 are compulsory and you choose two of Questions 3 to 5. Question 1 is worth 8 marks (4 + 4) and each other answered question 14 marks (10 + 4).
+
+**When was the Qur'an revealed?**
+Over about 23 years, from 610 CE in the Cave of Hira to 632 CE, through the angel Jibril.
+
+**How many surahs are there?**
+114, classified as Makkan or Madinan according to when they were revealed.

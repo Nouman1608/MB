@@ -13,11 +13,13 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-0493"
-description: "The Hadiths of the Prophet, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam -- Paper 2 of Cambridge IGCSE Islamiyat (0493), 2026-2027 series."
+description: "Paper 2 of Cambridge IGCSE Islamiyat 0493 (2026-2027): the Hadiths, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam."
 seoDescription: "Cambridge IGCSE Islamiyat (0493) Paper 2 study guide: the Hadiths, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam explained."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
@@ -106,6 +108,17 @@ able to answer confidently on at least three of the four topics
 above -- relying on only two leaves no room if one of those two
 topics is examined in a way that does not suit a candidate's
 preparation that year.
+
+## Frequently asked questions
+
+**How is 0493 Paper 2 structured?**
+Paper 2 lasts 1 hour 30 minutes and is worth 50 marks (50%). It has five questions: Questions 1 and 2 are compulsory and you choose two of Questions 3 to 5. Question 1 is worth 8 marks (4 + 4) and each other answered question 14 marks (10 + 4).
+
+**What are the four Paper 2 topics?**
+2.1 Major teachings in the Hadiths; 2.2 The history and importance of the Hadiths; 2.3 The Rightly Guided Caliphs; 2.4 The Articles of Faith and the Pillars of Islam.
+
+**What does Cambridge reward?**
+Moving from knowledge to significance in the same answer: explain why each fact matters to Muslims.
 
 ## Official syllabus
 
