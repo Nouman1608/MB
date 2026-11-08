@@ -211,6 +211,20 @@ The method works on a complete network, so convert first if needed. The answer d
 - Showing only the final tour. Show each choice so the algorithm is visible.
 - Using 2 × MST as the upper bound without making short cuts when asked for an improved bound.
 
+## Frequently asked questions
+
+**When does a closed route use every edge exactly once?**
+Only when every node in the network has even degree. If some nodes are odd, some paths between them must be repeated, which is what the route inspection algorithm finds.
+
+**What is the difference between the practical and classical travelling salesman problems?**
+In the practical problem each vertex must be visited at least once, so vertices may be revisited. In the classical problem each vertex is visited exactly once, on a complete graph that satisfies the triangle inequality.
+
+**Why must the network be complete before using nearest neighbour?**
+Nearest neighbour picks the nearest unvisited vertex at each step, so every pair of vertices must be joined. Replace each missing edge with the shortest distance between that pair first.
+
+**Is Floyd's algorithm needed for route inspection in Edexcel IAL D1?**
+No. The specification says pairings of odd nodes are considered by inspection, and applying Floyd's algorithm to the odd nodes is not required.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics (YMA01), Specification, Issue 3, April 2019, Pearson Education Limited. Unit D1: Decision Mathematics 1, section 3 (topics 3.1 to 3.4) and the Glossary for D1.

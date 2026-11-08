@@ -270,6 +270,23 @@ Add or subtract 2π (360°) to any sine or cosine, or π (180°) to any tangent,
 - Drawing a tan graph without asymptotes, or one that curves back at them.
 - Shifting sin(x + a) to the right.
 
+## Frequently asked questions
+
+**When do you use the sine rule and when the cosine rule?**
+Use the sine rule when you know a side together with its opposite angle plus one more piece of information. Use the cosine rule when you know two sides and the included angle (SAS) or all three sides (SSS).
+
+**What is a radian?**
+One radian is the angle at the centre of a circle when the arc length equals the radius. A full turn is 2π radians, so 180° = π radians.
+
+**What is the formula for the area of a triangle using sine?**
+Area = ½ab sin C, where C is the angle between the sides a and b. Using an angle that is not between the two sides is a common error.
+
+**What are the periods of sin x, cos x and tan x?**
+sin x and cos x have period 2π (360°), and tan x has period π (180°). For sin(ax) the period is 2π/a, and for tan(ax) it is π/a.
+
+**Which P1 topics do these Edexcel IAL notes cover?**
+They cover topics 3.1 to 3.3 of Unit P1 in the Edexcel IAL Mathematics specification (YMA01): the sine and cosine rules, radian measure with arc length and sector area, and the graphs of sine, cosine and tangent.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification, Issue 3, April 2019 (Pearson Education Limited), Unit P1 topics 3.1 to 3.3.

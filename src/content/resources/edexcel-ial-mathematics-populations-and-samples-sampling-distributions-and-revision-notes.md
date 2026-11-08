@@ -244,6 +244,23 @@ Use this shape every time.
 - A conclusion that says "H₀ is accepted" or "the claim is proved", or has no context.
 - Advantage and disadvantage answers that are generic and not tied to the scenario.
 
+## Frequently asked questions
+
+**What is the difference between a census and a sample?**
+A census observes every member of the population and gives the true value, but it is slow and costly and impossible if testing destroys the item. A sample is cheaper and quicker, but results vary and a poor sampling frame can cause bias.
+
+**What is the actual significance level of a test?**
+The actual significance level is the probability of the test statistic falling in the critical region when H₀ is true. For a discrete distribution it is usually a little below the nominal level the question asks for.
+
+**How do you choose between a binomial and a Poisson test?**
+Use a binomial test for p when there is a fixed number of trials, each a success or failure. Use a Poisson test for λ when you are counting random events over time, area or length at an average rate.
+
+**What continuity correction is used for P(X ≤ k) with a normal approximation?**
+P(X ≤ k) becomes P(Y < k + 0.5), and P(X ≥ k) becomes P(Y > k − 0.5), where Y is the approximating normal variable.
+
+**Is S2 compulsory in Edexcel IAL Mathematics?**
+No. The Edexcel IAL specification (YMA01) lists Unit S2: Statistics 2 as an optional unit for IAS Further Mathematics and for IAL Mathematics and Further Mathematics.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure

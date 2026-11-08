@@ -214,6 +214,23 @@ Both now move towards the wall, with Q ahead and faster, so for now they separat
 - Treating i and j components as one number. Handle each component separately.
 - Rounding the g = 9.8 values early. Keep full precision until the final line.
 
+## Frequently asked questions
+
+**What is the formula linking power, force and speed?**
+Power = driving force × speed, so P = Fv and F = P/v. Use this to find the driving force before applying Newton's second law.
+
+**How do you find the maximum speed of a vehicle with a given power?**
+At maximum speed the acceleration is zero, so the driving force P/v equals the total resistance (plus the weight component mg sin α on a hill). Solve that equation for v.
+
+**When is kinetic energy conserved in a collision?**
+Only when the coefficient of restitution e = 1. Momentum is conserved in a collision between two particles whatever the value of e.
+
+**What are the units of impulse and work?**
+Impulse is a change in momentum, measured in N s. Work is a change in energy, measured in joules (J).
+
+**Which Edexcel IAL M2 topics do these notes cover?**
+They cover work, energy and power (topic 3.1) and momentum, impulse, direct impact and successive impacts (topics 4.1 to 4.3) in Unit M2 of the Edexcel IAL Mathematics specification (YMA01).
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification, Issue 3, April 2019, Pearson Education Limited. Unit M2: Mechanics 2, sections 3.1, 4.1, 4.2 and 4.3.

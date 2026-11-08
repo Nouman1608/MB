@@ -22,14 +22,16 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "algebra-and-graphs-cambridge-igcse-maths"
     subtopic: "differentiation-cambridge-igcse-maths"
-description: "Algebraic manipulation, equations, inequalities, sequences and graphs -- the Core and Extended content of Topic 2 Algebra and graphs for Cambridge IGCSE Mathematics 0580, 2025-2027 series."
+description: "Core and Extended content of Topic 2 Algebra and graphs for Cambridge IGCSE Mathematics 0580 (2025-2027): equations, inequalities, sequences, graphs, functions."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-29
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Topic 2 Algebra and graphs**, for Cambridge IGCSE
@@ -272,6 +274,19 @@ f⁻¹(x) composite questions.
   <figcaption>A constant second difference means a quadratic nth term.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between Core and Extended in Cambridge IGCSE Maths 0580?**
+Core subtopics are examined at all entry levels, while Extended-only subtopics are required only for the Extended tier. Extended candidates are eligible for grades A* to E and Core candidates for grades C to G.
+
+**Is differentiation in the Cambridge IGCSE 0580 syllabus?**
+Yes, for Extended candidates only. Subtopic E2.12 covers estimating gradients by drawing tangents, differentiating axⁿ and simple sums of such terms, and finding maxima and minima.
+
+**Which sequences do you need for Cambridge IGCSE 0580?**
+Core (C2.7) requires the nth term of linear, simple quadratic and simple cubic sequences. Extended (E2.7) adds exponential sequences and simple combinations of these types.
+
+**Do you need turning points when sketching curves in Core 0580?**
+No. Core sketching (C2.11) covers linear and quadratic graphs with symmetry and roots but not turning points. Extended sketching (E2.11) adds cubic, reciprocal and exponential graphs and requires turning points and asymptotes.
 
 ## Official syllabus
 

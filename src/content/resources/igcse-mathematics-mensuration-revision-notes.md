@@ -25,14 +25,16 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "mensuration-cambridge-igcse-maths"
     subtopic: "compound-shapes-and-parts-of-shapes-cambridge-igcse-maths"
-description: "Condensed recall notes on units of measure, area, perimeter, circles, arcs, sectors, surface area, volume and compound shapes for Cambridge IGCSE Mathematics 0580."
+description: "Quick-recall notes on unit conversion, area and perimeter, circles, arcs, sectors, surface area, volume and compound shapes for Cambridge IGCSE Maths 0580."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. Pair these notes with the
@@ -170,3 +172,16 @@ The same add-or-subtract principle applies to compound **solids** as to compound
   <figcaption>A frustum is a big cone with a similar small cone removed.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the formula for the area of a sector?**
+Sector area = (angle ÷ 360) × πr². Arc length uses the same fraction of a full turn: (angle ÷ 360) × 2πr.
+
+**What is the area of a trapezium?**
+Area = ½(a + b)h, where a and b are the parallel sides and h is the perpendicular height between them.
+
+**How do you convert volume units?**
+Cube the linear conversion factor. For example, 1 m = 100 cm, so 1 m³ = 100³ = 1 000 000 cm³.
+
+**How do you find the area of a compound shape?**
+Split it into simple shapes, then add their areas, or subtract the area of any piece that has been removed.

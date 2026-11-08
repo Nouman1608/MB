@@ -19,14 +19,16 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "trigonometry-cambridge-igcse-maths"
     subtopic: "pythagoras-theorem-and-trigonometry-cambridge-igcse-maths"
-description: "Pythagoras' theorem, right-angled triangle trigonometry, exact values, trig functions, the sine and cosine rules and 3D problems -- the Core and Extended content of Topic 6 Trigonometry for Cambridge IGCSE Mathematics 0580, 2025-2027 series."
+description: "Core and Extended Topic 6 Trigonometry for Cambridge IGCSE Maths 0580 (2025-2027): Pythagoras, SOHCAHTOA, exact values, trig graphs, sine and cosine rules, 3D."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Topic 6 Trigonometry**, for Cambridge IGCSE
@@ -176,6 +178,20 @@ angle.
   comfortable with the ambiguous case and obtuse angles (Extended).
 - Practise isolating the single right-angled triangle inside a 3D
   solid before calculating (Extended).
+
+## Frequently asked questions
+
+**Is the sine rule in the Core syllabus for Cambridge IGCSE 0580?**
+No. The sine rule, cosine rule and area = ½ab sin C are Extended-only content (E6.5). Core trigonometry covers Pythagoras' theorem and the sine, cosine and tangent ratios in right-angled triangles.
+
+**Are the sine and cosine rules given in the 0580 exam?**
+Yes. The sine rule, cosine rule and area formula are given in the List of formulas provided in the exam, so the skill tested is choosing and applying the right one.
+
+**How accurately should angles be given in IGCSE trigonometry?**
+Angles are given in degrees, and answers should be written in degrees to one decimal place unless the question says otherwise.
+
+**What are angles of elevation and depression?**
+They are angles measured up or down from a horizontal line to an object. Problems involving them are right-angled triangle trigonometry and are Extended content (E6.2).
 
 ## Official syllabus
 

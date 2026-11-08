@@ -254,6 +254,20 @@ Differentiate your answer to confirm it.
 - Integrating sin² x as (sin³ x)/3 or as −cos² x. Squared functions need an identity first.
 - Substituting degrees. All of this assumes radians.
 
+## Frequently asked questions
+
+**What is the integral of sin kx?**
+∫ sin kx dx = −(1/k) cos kx + c. The minus sign and the factor 1/k are both easy to lose, so differentiate the answer to check it.
+
+**Is the integral of 1/(2x) equal to ln|2x|?**
+Take the constant out first: ∫ 1/(2x) dx = ½ ∫ 1/x dx = ½ ln|x| + c. Writing ln|2x| without the factor ½ is wrong.
+
+**How do you integrate tan² x?**
+Use the identity tan² x = sec² x − 1, so ∫ tan² x dx = tan x − x + c.
+
+**How do you integrate f′(x)[f(x)]ⁿ?**
+For n ≠ −1, ∫ f′(x)[f(x)]ⁿ dx = [f(x)]ⁿ⁺¹/(n + 1) + c. Look for an inner function whose derivative is sitting beside it, adjusting for any constant factor.
+
 ## Next steps
 
 Work through the [practice questions](/resources/edexcel-ial-mathematics-integration-of-exponential-reciprocal-and-practice/), then use the [revision notes](/resources/edexcel-ial-mathematics-integration-of-exponential-reciprocal-and-revision-notes/) for quick recall. The [exam preparation guide](/resources/edexcel-ial-mathematics-exam-preparation/) covers wider strategy.

@@ -209,6 +209,23 @@ Use a complete network. Different start vertices can give different tours. The r
 - Not stating the tour as a list of vertices, or not returning to the start.
 - Giving a bound without saying whether it is upper or lower.
 
+## Frequently asked questions
+
+**Why is the number of odd nodes in a network always even?**
+The degrees of all nodes add up to twice the number of edges, which is even, so the number of nodes with odd degree must be even.
+
+**What is the difference between route inspection and the travelling salesman problem?**
+Route inspection finds the shortest closed route that travels along every edge at least once. The travelling salesman problem finds the shortest tour that visits every vertex.
+
+**How do you find a lower bound for the travelling salesman problem?**
+Remove one vertex and its edges, find the minimum spanning tree of the remaining vertices, then add the two shortest edges that joined the removed vertex. Repeat for each vertex and keep the largest result.
+
+**What does it mean if the lower bound equals the upper bound?**
+If the best lower bound equals the best upper bound, the optimal tour length has been found and equals that value.
+
+**Which section of Edexcel IAL Decision Mathematics 1 covers these algorithms?**
+Route inspection, the travelling salesman problem, bounds and the nearest neighbour algorithm are topics 3.1 to 3.4 of Unit D1 in the Edexcel IAL Mathematics specification (YMA01).
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics (YMA01), Specification, Issue 3, April 2019, Pearson Education Limited. Unit D1: Decision Mathematics 1, section 3 (topics 3.1 to 3.4) and the Glossary for D1.

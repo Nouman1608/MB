@@ -159,6 +159,20 @@ Orders and final labels for A, D, B [1]. C improved from 12 to 11 via B [1]. E 1
 - Accepting a Kruskal edge that forms a cycle, or not saying why one was rejected.
 - Giving a Dijkstra route length without the route.
 
+## Frequently asked questions
+
+**How do you find the middle item of a list with an even number of items?**
+The Edexcel IAL D1 glossary rule takes position (N + 2)/2 for an even number of items, and (N + 1)/2 for an odd number. Using the wrong middle item is a common error in quick sort and binary search.
+
+**Do you need to show working for each pass of a sorting algorithm?**
+Yes. Write the list after each pass or each pivot, because showing only the final sorted list does not show the algorithm being applied.
+
+**How do you know if a bin packing solution is optimal?**
+Compare the number of bins used with the lower bound, which is the total size divided by the bin capacity, rounded up. If they are equal, the packing is optimal.
+
+**What is the most common mistake with Prim's algorithm?**
+Choosing the cheapest edge in the whole network instead of the cheapest edge joining the current tree to a vertex not yet in it.
+
 ## Next steps
 
 - Revise from the [revision notes](/resources/edexcel-ial-mathematics-sorting-packing-and-searching-algorithms-minimum-revision-notes/).

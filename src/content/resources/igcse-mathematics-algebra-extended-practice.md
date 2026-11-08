@@ -22,13 +22,15 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "algebra-and-graphs-cambridge-igcse-maths"
     subtopic: "functions-cambridge-igcse-maths"
-description: "Original exam-style questions with full worked answers on algebraic fractions, equations solved with the quadratic formula, inverse and composite functions, inverse proportion and differentiation, for Cambridge IGCSE Mathematics (0580) Extended."
+description: "Extended practice with worked answers on algebraic fractions, the quadratic formula, composite functions, proportion and calculus for Cambridge IGCSE 0580."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -176,6 +178,20 @@ Each question practises a skill from the Extended (Supplement) content of the sy
 - Not rewriting terms such as 6/x as 6x⁻¹ before differentiating.
 - Finding the x-value of a turning point but not substituting back for y, or not justifying maximum or minimum.
 - Skipping lines in "show that" questions, or forgetting to reject an impossible solution in a context question.
+
+## Frequently asked questions
+
+**What does gf(x) mean in IGCSE functions?**
+gf(x) means apply f first and then g, so gf(x) = g(f(x)). Mixing up the order is a common way to lose marks.
+
+**How do you differentiate a term like 6/x?**
+Rewrite it as a power first: 6/x = 6x⁻¹, which differentiates to −6x⁻². Not rewriting the term before differentiating is a common error.
+
+**What should you do after finding the x-coordinate of a turning point?**
+Substitute back into the equation of the curve to find the y-coordinate, and justify whether it is a maximum or minimum, for example with the second derivative.
+
+**Why must you reject some solutions in context questions?**
+A quadratic may give a solution that is impossible in the context, such as a negative speed or a length that is too large. State which solution you reject and why.
 
 ## Next steps
 

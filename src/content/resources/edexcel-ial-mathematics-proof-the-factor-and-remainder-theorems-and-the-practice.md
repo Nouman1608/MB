@@ -174,6 +174,20 @@ Gradient from (−1, 0) to P = 2√2/4 = √2/2; gradient from P to (5, 0) = −
 - Using the radius gradient for the tangent instead of its negative reciprocal.
 - Stating a circle property without showing the numerical check when the question says "show that".
 
+## Frequently asked questions
+
+**Why does checking a few numbers not count as a proof?**
+Examples can only confirm particular cases, so an algebraic proof must use general letters such as 2n + 1 for an odd integer. Finish with a sentence linking the algebra back to the statement.
+
+**What value do you substitute to test whether (ax + b) is a factor?**
+Substitute x = −b/a. If the result is zero, (ax + b) is a factor; using x = b/a by mistake is a common error.
+
+**What makes a valid counter example?**
+It must satisfy the conditions in the statement and show the conclusion is false, with the arithmetic shown. A value that does not meet the stated condition earns no credit.
+
+**How do you find the gradient of a tangent to a circle?**
+Find the gradient of the radius to the point of contact, then take its negative reciprocal, because the tangent is perpendicular to the radius.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/edexcel-ial-mathematics-proof-the-factor-and-remainder-theorems-and-the-revision-notes/) for the methods behind the questions you missed.

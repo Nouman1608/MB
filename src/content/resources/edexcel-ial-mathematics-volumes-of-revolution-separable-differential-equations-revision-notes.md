@@ -260,6 +260,20 @@ Work each out by hand before checking.
 - Stopping at e^y = ... when the question asks for y in terms of x.
 - Answers given as decimals when the question asks for an exact value.
 
+## Frequently asked questions
+
+**What is the formula for a volume of revolution about the x-axis?**
+V = π ∫ y² dx between the limits x = a and x = b, for a rotation through 360° about the x-axis. In parametric form it becomes V = π ∫ y² (dx/dt) dt with limits in t.
+
+**What is the difference between a general and a particular solution?**
+A general solution of a differential equation contains an arbitrary constant. A particular solution has that constant found from given values.
+
+**How do you find the area under a parametric curve?**
+Use Area = ∫ y (dx/dt) dt, with the limits converted to values of t. If x decreases as t increases, arrange the limits so x runs from the smaller value to the larger.
+
+**Is π ∫ x² dy required in Edexcel IAL P4?**
+No. The Edexcel IAL Mathematics specification (YMA01) requires π ∫ y² dx for volumes of revolution in Unit P4, but not π ∫ x² dy.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification, Issue 3, April 2019, Pearson Education Limited. Unit P4, section 6: 6.1, 6.4 and 6.5.

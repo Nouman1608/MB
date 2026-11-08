@@ -117,6 +117,20 @@ Learn the methods first in the [study guide](/resources/edexcel-ial-mathematics-
 - Stating answers to fewer than three significant figures, or rounding table values early.
 - Failing to state the distribution before calculating.
 
+## Frequently asked questions
+
+**How do you find P(X ≥ r) from cumulative tables?**
+Use P(X ≥ r) = 1 − P(X ≤ r − 1). Using 1 − P(X ≤ r) instead is one of the most common slips, because it leaves out r itself.
+
+**Why must you rescale a Poisson mean?**
+The mean must match the interval in the question. A rate of 2.4 per hour becomes a mean of 0.6 for 15 minutes, so the distribution to use is Po(0.6).
+
+**How do you comment on whether a binomial model is suitable?**
+Name the specific condition that may fail and explain why using the context, for example that infection can spread between plants so the trials are not independent. A generic comment earns little credit.
+
+**Should you state the distribution before calculating in S2?**
+Yes. Write the distribution with its parameters, such as X ~ Po(4.5) or X ~ B(40, 0.08), before any calculation; failing to do so can cost marks.
+
 ## Next steps
 
 - Condense the unit with the [revision notes](/resources/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson-revision-notes/).

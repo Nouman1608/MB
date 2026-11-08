@@ -166,6 +166,20 @@ These questions cover P3 sections 3 and 6 (topics 3.1 to 3.3 and 6.1 to 6.2) of 
 - Quoting a root to the wrong accuracy because the interval tested is too wide.
 - Iterating with too few decimal places.
 
+## Frequently asked questions
+
+**What is the asymptote of y = e^(ax + b) + c?**
+The horizontal asymptote is y = c, not y = 0. Forgetting the vertical shift from the constant c is a common mistake in sketches and range questions.
+
+**How do you show a root lies in an interval by sign change?**
+Calculate f at each end of the interval, state that f is continuous there, note the change of sign and conclude that a root lies in the interval. Leaving out the values, continuity or the conclusion loses marks.
+
+**Can you take ln of each term in a sum?**
+No. ln(a + b) is not ln a + ln b, so isolate the exponential term on one side before taking logarithms.
+
+**How many decimal places should you keep when iterating?**
+Carry full calculator accuracy between steps and write down at least four decimal places. Rounding too early can make the sequence drift away from the true value.
+
 ## Next steps
 
 - Recall methods with the [revision notes](/resources/edexcel-ial-mathematics-the-exponential-and-natural-logarithm-functions-revision-notes/).

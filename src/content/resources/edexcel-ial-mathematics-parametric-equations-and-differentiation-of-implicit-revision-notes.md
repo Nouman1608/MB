@@ -239,6 +239,22 @@ If a question gives numbers at one instant, put them in to find k. If it asks fo
   <figcaption>The gradient of the composite is the product of the two gradients: 16 × 0.1 = 1.6.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the gradient of a normal to a curve?**
+If the tangent has gradient m, the normal has gradient −1/m, and both pass through the same point on the curve. The two gradients multiply to give −1.
+
+**Where is the tangent horizontal or vertical on a parametric curve?**
+The tangent is horizontal where dy/dt = 0 (with dx/dt ≠ 0) and vertical where dx/dt = 0 (with dy/dt ≠ 0).
+
+**How do you convert parametric equations with sin t and cos t to cartesian form?**
+Write sin t and cos t in terms of x and y, then use sin² t + cos² t = 1. If one equation has 2t and the other t, use a double angle formula first.
+
+**How do you solve a connected rates of change problem?**
+Write a chain such as dV/dt = (dV/dr) × (dr/dt), find a formula linking the quantities in one variable, differentiate it, then substitute the values at that instant. Check that the sign and units of the answer make sense.
+
+**Which Edexcel IAL Unit P4 topics do these notes cover?**
+They cover parametric equations (3.1), implicit and parametric differentiation (5.1), and forming differential equations and connected rates of change (5.2) in Unit P4 of the Edexcel IAL Mathematics specification (YMA01).
 
 ## Official syllabus
 

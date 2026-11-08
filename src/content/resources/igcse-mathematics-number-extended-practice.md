@@ -16,13 +16,15 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "number-cambridge-igcse-maths"
     subtopic: "surds-cambridge-igcse-maths"
-description: "Original exam-style questions with full worked answers on exponential growth and decay, simplifying surds and rationalising denominators, for Cambridge IGCSE Mathematics (0580) Extended."
+description: "Extended practice questions with worked answers on exponential growth and decay, compound interest, surds and rationalising denominators for IGCSE 0580."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -163,6 +165,20 @@ Each question practises a skill from the Extended (Supplement) content of the sy
 - Forgetting to use the conjugate when rationalising a denominator of the form a + √b.
 - Making sign or coefficient slips when expanding brackets with surds, such as treating √3 × √3 as 9.
 - Giving a rounded decimal when the question asks for an exact answer in surd form.
+
+## Frequently asked questions
+
+**What multiplier do you use for a 12% decrease each year?**
+Use 0.88, because each year the value is 88% of the year before, and raise it to the power of the number of years. Using 0.12, or subtracting 12% of the original value each year, gives the wrong answer.
+
+**How do you find when a value first passes a target in growth questions?**
+Calculate the value for successive whole years and check both the year that first passes the target and the year before it. Stopping at the first year that looks close loses marks.
+
+**How do you rationalise a denominator like 3 + √2?**
+Multiply the numerator and denominator by the conjugate, 3 − √2. The denominator becomes 3² − 2 = 7, which is rational.
+
+**Can you add surds with different roots?**
+Only surds that are multiples of the same root can be added. Simplify each surd first, for example √72 = 6√2, then collect like surds.
 
 ## Next steps
 

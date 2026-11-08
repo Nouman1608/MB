@@ -240,6 +240,20 @@ Always give both roots unless the question restricts k, for example "k > 0".
 
 Next, try the [practice questions](/resources/edexcel-ial-mathematics-sequences-and-series-arithmetic-geometric-and-the-practice/) or revisit the [study guide](/resources/edexcel-ial-mathematics-sequences-and-series-arithmetic-geometric-and-the/).
 
+## Frequently asked questions
+
+**What is the formula for the nth term of an arithmetic sequence?**
+uₙ = a + (n − 1)d, where a is the first term and d is the common difference. The sum of the first n terms is Sₙ = (n/2)(2a + (n − 1)d).
+
+**What is the formula for the sum of a geometric series?**
+Sₙ = a(1 − rⁿ)/(1 − r) for r ≠ 1, and the sum to infinity is a/(1 − r) when |r| < 1.
+
+**What is the order of a periodic sequence?**
+The order is the number of terms in one repeating cycle, so a sequence with uₙ₊ₖ = uₙ for all n has order k.
+
+**Do you need to know the proofs of the sum formulae in Edexcel IAL P2?**
+Yes. The proofs of the arithmetic and geometric sum formulae are part of section 4 of Unit P2 in the Edexcel IAL Mathematics specification (YMA01), so be ready to reproduce them in full.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification, Issue 3, April 2019, Unit P2, section 4 (Pearson Education Limited).

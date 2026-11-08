@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Condensed recall notes on solving linear inequalities, number lines and regions for Cambridge O Level Mathematics 4024."
 author: "muhammad-ghazali-siddiqui"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For worked examples, use the
@@ -199,3 +201,20 @@ should have been (or was flipped when it shouldn't have been).
 **Answers:** 1. 4x ≤ 20 → **x ≤ 5**. 2. Divide by −2 and flip: **x < −5**. 3. −2, −1, 0, 1, 2. 4. Dashed — the inequality is strict, so points on the line are not included. 5. Substitute a test point not on the line (usually the origin) into the inequality; if it is true, shade that side.
 
 For the full worked explanation with additional detail, see the [Inequalities study guide](/resources/inequalities/); for exam-style questions with full mark schemes, see the [Inequalities practice questions](/resources/inequalities-practice/).
+
+## Frequently asked questions
+
+**When do you flip an inequality sign?**
+Flip the sign only when you multiply or divide both sides by a negative number. Adding or subtracting never changes it.
+
+**Should a boundary line be dashed or solid?**
+Use a dashed (broken) line for a strict inequality, < or >, and a solid line for ≤ or ≥.
+
+**How do you decide which side of a line to shade?**
+Test a point that is not on the line, usually (0, 0), and check whether it satisfies the inequality. Read carefully whether the question asks you to shade the required region or the unwanted one.
+
+**How do you check the answer to an inequality?**
+Substitute a value from your solution set back into the original inequality. If it does not hold, the sign was probably not flipped when it should have been.
+
+**Is linear programming in Cambridge O Level Maths 4024?**
+No. Linear programming is not part of the 4024 syllabus; the skills stop at representing, solving and reading off regions.

@@ -31,14 +31,16 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "coordinate-geometry-cambridge-igcse-maths"
     subtopic: "perpendicular-lines-cambridge-igcse-maths"
-description: "Original exam-style practice questions with full worked answers on coordinates, gradient, straight-line equations, length, midpoint, and parallel/perpendicular lines for Cambridge IGCSE Mathematics 0580."
+description: "Practice questions with worked answers on gradient, y = mx + c, length, midpoint and parallel and perpendicular lines for Cambridge IGCSE Mathematics 0580."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -132,3 +134,17 @@ Related: [Coordinate Geometry revision notes](/resources/igcse-mathematics-coord
 ## Approaching coordinate geometry questions
 
 Almost every question type in this topic reduces to the same first step: correctly labelling which point is (x1, y1) and which is (x2, y2), then keeping that labelling consistent through every later calculation on the same points. A gradient, length or midpoint calculated with the coordinates swapped partway through is the single most common source of an otherwise fully-understood answer coming out wrong, so it is worth writing the two points down explicitly before substituting into any formula, rather than trying to substitute directly from the question.
+
+## Frequently asked questions
+
+**What is the formula for gradient?**
+Gradient = change in y ÷ change in x between two points on the line. Dividing the change in x by the change in y is a common error.
+
+**What is the gradient of a vertical line?**
+A vertical line has an undefined gradient, because the change in x is zero and you cannot divide by zero. A horizontal line has gradient 0.
+
+**When do you use the negative reciprocal of a gradient?**
+Only when you need the gradient of a line perpendicular to a given line. A parallel line uses the same gradient.
+
+**How do you find the equation of a line through two points?**
+Find the gradient m from the two points, substitute one point into y = mx + c to find c, then write the equation using the values of m and c, not the point's coordinates.

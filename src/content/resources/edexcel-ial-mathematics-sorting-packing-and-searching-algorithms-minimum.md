@@ -277,6 +277,23 @@ Work back: 21 − 7 = 14 is D, 14 − 8 = 6 is A, 6 − 6 = 0 is S. The shortest
 - In Prim, choosing the smallest edge in the whole network instead of the smallest leaving the current tree.
 - In Dijkstra, making a vertex final too early, or overwriting a working value with a larger one.
 
+## Frequently asked questions
+
+**What is an algorithm?**
+An algorithm is a finite list of unambiguous instructions that ends with an output. It can be given in text or as a flow chart.
+
+**What is the difference between first-fit and first-fit decreasing?**
+First-fit packs items in the order given, putting each in the first bin with room. First-fit decreasing sorts the items into decreasing order first and then applies first-fit.
+
+**How do you choose the pivot in quick sort for Edexcel IAL D1?**
+The specification says the pivot should be the middle item of the list or sublist. Items smaller than the pivot go to its left and larger items to its right, keeping their original order.
+
+**When does bubble sort stop?**
+Bubble sort stops after a complete pass in which no swaps are made, which confirms the list is in order.
+
+**Does the Edexcel IAL D1 specification require the order of an algorithm?**
+No. The specification does not expect the order of an algorithm, but it does require clear working that shows how each algorithm has been applied.
+
 ## Next steps
 
 Condense this with the [revision notes](/resources/edexcel-ial-mathematics-sorting-packing-and-searching-algorithms-minimum-revision-notes/), then try the [practice questions](/resources/edexcel-ial-mathematics-sorting-packing-and-searching-algorithms-minimum-practice/).

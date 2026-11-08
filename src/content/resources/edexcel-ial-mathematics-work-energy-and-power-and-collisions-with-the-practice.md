@@ -142,6 +142,20 @@ These questions cover Pearson Edexcel International Advanced Level Mathematics (
 - Not checking each particle's direction after a collision before deciding on another.
 - Rounding too early or omitting units.
 
+## Frequently asked questions
+
+**What height do you use in mgh on a slope?**
+Use the vertical height gained, which is d sin α for a distance d up a slope inclined at α. Putting the slope length into mgh is a common error.
+
+**Is momentum conserved when a particle hits a wall?**
+No. A fixed wall changes the particle's momentum, so use only the law of restitution: the speed after impact is e times the speed before, in the opposite direction.
+
+**How should you write the restitution equation?**
+Speed of separation = e × speed of approach. Sketch the velocities before and after with one positive direction, because getting approach and separation the wrong way round is a common slip.
+
+**How do you decide whether there is a further collision?**
+After each impact, write down every particle's velocity and direction. If a particle behind is moving faster than the one ahead, or they move towards each other, they will collide again.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the-revision-notes/) and [study guide](/resources/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the/).

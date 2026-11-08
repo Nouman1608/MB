@@ -112,6 +112,20 @@ Teaching is in the [study guide](/resources/edexcel-ial-mathematics-integration-
 - Converting to decimals when an exact answer is requested, or leaving ln 4 where 2 ln 2 is clearer.
 - Missing a step in a "show that" question.
 
+## Frequently asked questions
+
+**Why do you divide by k when integrating e^kx, sin kx or cos kx?**
+Differentiating e^kx, sin kx or cos kx brings out a factor of k, so integrating must divide by k. Dropping this 1/k factor is one of the most common mistakes in P3 integration.
+
+**How do you find the constant of integration from a point on the curve?**
+Integrate the gradient function to get y with + c, then substitute the given x and y values to solve for c. Forgetting the constant, or forgetting to use the point, loses marks.
+
+**How should you set out a recognition question in Edexcel IAL P3?**
+State your choice of f(x), differentiate it to get f′(x), and show how the integrand compares with f′(x), including any constant needed to match. Not naming f(x) and f′(x) is a common reason for losing method marks.
+
+**Can you integrate sin² x or cos² x directly?**
+No. Rewrite them first using the double angle identities, such as sin² x = ½(1 − cos 2x), and then integrate term by term.
+
 ## Next steps
 
 - Read the [revision notes](/resources/edexcel-ial-mathematics-integration-of-exponential-reciprocal-and-revision-notes/) for quick recall.

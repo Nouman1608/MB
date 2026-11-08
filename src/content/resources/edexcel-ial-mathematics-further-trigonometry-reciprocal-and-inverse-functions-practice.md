@@ -188,6 +188,20 @@ tan α = 3/4, so α = **36.87°** [1] **[3]**
 - Rounding α before solving, which shifts the final angle.
 - Leaving a proof without a closing line, or working on both sides at once.
 
+## Frequently asked questions
+
+**How do you avoid missing solutions when solving cos 2x = k or tan 2x = k?**
+Write down the interval for 2x first, which is twice as long as the interval for x, and list every value of 2x in it before dividing by 2. Stopping after the first angle is a common way to lose a solution.
+
+**Why is arcsin(sin x) not always equal to x?**
+arcsin only returns angles from −π/2 to π/2, so arcsin(sin x) equals x only when x lies in that range. For other angles, find the equivalent angle with the same sine inside the range of arcsin.
+
+**Should you divide both sides of a trig equation by sin θ or cos θ?**
+No. Dividing by a trig function that can be zero loses the solutions where it is zero, so collect the terms on one side and factorise instead.
+
+**How are marks usually lost on R-formula questions in Edexcel IAL P3?**
+Common slips are matching R cos α and R sin α to the wrong coefficients, so α comes out as 90° minus the correct value, and rounding α too early so the final angle shifts. Write the two matching equations before dividing to find tan α.
+
 ## Next steps
 
 - Review the [revision notes](/resources/edexcel-ial-mathematics-further-trigonometry-reciprocal-and-inverse-functions-revision-notes/) for any question you missed.

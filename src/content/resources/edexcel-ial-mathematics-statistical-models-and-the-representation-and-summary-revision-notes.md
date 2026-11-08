@@ -220,6 +220,23 @@ Do not claim a difference is significant: the specification says significance te
 - Applying an outlier rule other than the one in the question.
 - Quoting a model's assumptions without saying why they might fail here.
 
+## Frequently asked questions
+
+**What is frequency density?**
+Frequency density is frequency divided by class width. In a histogram the area of each bar, not its height, is proportional to the frequency.
+
+**How do you tell if data are positively or negatively skewed?**
+Positive skew has a long right tail, Q2 − Q1 < Q3 − Q2 and usually mean > median. Negative skew has a long left tail, Q2 − Q1 > Q3 − Q2 and usually mean < median.
+
+**Why is a mean from grouped data only an estimate?**
+Grouped data lose the individual values, so the calculation uses class mid-points as if every value in a class sat at its middle.
+
+**Which statistic is least affected by outliers?**
+The interquartile range is much less affected by outliers than the range or standard deviation, and the median is less affected than the mean.
+
+**Are significance tests part of Edexcel IAL S1 data comparisons?**
+No. The specification says significance tests are not expected in this part of Unit S1, so comparisons should describe differences without claiming they are significant.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification Issue 3, April 2019, published by Pearson Education Limited: Unit S1: Statistics 1, sections 1.1 and 2.1 to 2.4.

@@ -25,11 +25,13 @@ syllabusTopics:
 description: "Condensed recall notes on basic probability, relative and expected frequency, combined events and conditional probability for Cambridge IGCSE Mathematics 0580."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. Pair these notes with the
@@ -148,3 +150,16 @@ P(B | A) = 0.15 / 0.3 = 0.5
   <figcaption>From a table, the given condition picks one row or column as the whole sample space.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What must the probabilities of all outcomes of an event add up to?**
+Each probability lies between 0 and 1, and the probabilities of all the possible outcomes must sum to 1.
+
+**What changes when items are taken without replacement?**
+After the first item is removed, the total number of items falls, so the probabilities on the second set of branches of a tree diagram are different from the first.
+
+**When is a possibility space diagram useful?**
+A possibility space diagram, a grid of every combined outcome, is most useful for two events with equally likely outcomes, such as rolling two dice.
+
+**Do you need P(B | A) notation for Cambridge IGCSE 0580?**
+No. The syllabus does not require the notation P(B | A) or a formula for conditional probability (E8.4); Extended questions are answered from a Venn diagram, tree diagram or table.

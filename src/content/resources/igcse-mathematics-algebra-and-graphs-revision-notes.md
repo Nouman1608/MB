@@ -52,11 +52,13 @@ syllabusTopics:
 description: "Condensed recall notes on algebraic manipulation, equations, inequalities, sequences and graphs for Cambridge IGCSE Mathematics 0580 Topic 2."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-29
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -191,3 +193,19 @@ Core asks for the nth term of linear, **simple** quadratic and **simple** cubic 
   <figcaption>A constant difference d gives dn plus the value the line has at n = 0.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you find the nth term of a sequence?**
+Write out the differences between consecutive terms, then the differences of those. A constant first difference means a linear sequence (an + b), and a constant second difference means a quadratic one (an² + bn + c).
+
+**Is (a + b)² equal to a² + b²?**
+No. (a + b)² = a² + 2ab + b², and forgetting the middle term 2ab is one of the most common algebra mistakes.
+
+**When do you reverse an inequality sign?**
+Reverse the sign whenever you multiply or divide both sides by a negative number. For example, −2x ≥ 6 becomes x ≤ −3.
+
+**What does fg(x) mean?**
+fg(x) means apply g first and then apply f to the result. Applying them in the wrong order is a common error in function questions.
+
+**Is solving quadratic equations Core or Extended in Cambridge IGCSE 0580?**
+Solving a quadratic equation by any method is Extended content in Cambridge IGCSE Mathematics 0580, under subtopic E2.5.

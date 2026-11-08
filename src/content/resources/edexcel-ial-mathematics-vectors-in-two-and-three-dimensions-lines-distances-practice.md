@@ -156,6 +156,20 @@ Check i: the left side is 1 − 1 = 0 and the right side is 3 + 6 = 9. They diff
 - Rounding too early and drifting in the last decimal place.
 - Stating a·b = 0 without the arithmetic when a question says "show that".
 
+## Frequently asked questions
+
+**How do you find the vector AB from position vectors?**
+AB = b − a, which is end minus start. Writing a − b gives the vector BA instead.
+
+**Why should you use different parameters for two lines?**
+Each line has its own parameter, such as λ and μ, because the point of intersection usually corresponds to different parameter values on each line. Using the same letter for both can make a real intersection impossible to find.
+
+**How do you show two lines are skew?**
+Show that the direction vectors are not multiples of each other, so the lines are not parallel, and that the three component equations have no common solution, so the lines do not meet.
+
+**Which vectors do you use to find the angle between two lines?**
+Use only the direction vectors of the lines, not the position vectors. Take the modulus of the scalar product to get the acute angle when the angle between the lines is asked for.
+
 ## Next steps
 
 - Review the [revision notes](/resources/edexcel-ial-mathematics-vectors-in-two-and-three-dimensions-lines-distances-revision-notes/) and the [study guide](/resources/edexcel-ial-mathematics-vectors-in-two-and-three-dimensions-lines-distances/).

@@ -294,6 +294,20 @@ In each example the approximation agrees with the exact value to two or three si
 - Using f(x) = 1/b for U[a, b] when a ≠ 0.
 - Rounding z to two decimal places too early, which can change the third significant figure.
 
+## Frequently asked questions
+
+**What is the cumulative distribution function of U[a, b]?**
+F(x) = 0 for x < a, F(x) = (x − a)/(b − a) for a ≤ x ≤ b, and F(x) = 1 for x > b.
+
+**How do you find E(X²) for a uniform distribution?**
+Use Var(X) = E(X²) − [E(X)]², so E(X²) = Var(X) + [E(X)]². This avoids integrating again.
+
+**Does a uniform probability need a continuity correction?**
+No. A uniform random variable is already continuous, so its probabilities are areas of a rectangle and no correction is applied.
+
+**How do you approximate P(X = r) with a Normal distribution?**
+Replace it with P(r − 0.5 < Y < r + 0.5), which needs two standardisations, one for each end of the band.
+
 ## Next steps
 
 Test yourself on the [practice questions](/resources/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal-practice/), then use the [revision notes](/resources/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal-revision-notes/) as a quick recall sheet. For wider planning see [Edexcel IAL Mathematics exam preparation](/resources/edexcel-ial-mathematics-exam-preparation/).

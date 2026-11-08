@@ -16,14 +16,16 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "mensuration-cambridge-igcse-maths"
     subtopic: "compound-shapes-and-parts-of-shapes-cambridge-igcse-maths"
-description: "Units of measure, area and perimeter, circles/arcs/sectors, surface area and volume, and compound shapes -- the Core and Extended content of Topic 5 Mensuration for Cambridge IGCSE Mathematics 0580, 2025-2027 series."
+description: "Core and Extended Topic 5 Mensuration for Cambridge IGCSE Maths 0580 (2025-2027): units, area, perimeter, arcs, sectors, surface area, volume, compound solids."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Topic 5 Mensuration**, for Cambridge IGCSE
@@ -181,6 +183,20 @@ decimal instead of retaining π in the final expression.
 - At Extended tier, practise sector and arc questions with angles
   that are not factors of 360°, and compound solids involving a
   frustum.
+
+## Frequently asked questions
+
+**Which mensuration formulas are given in Cambridge IGCSE 0580?**
+The List of formulas gives the area of a triangle, circle, arc and sector formulas, and the curved surface areas and volumes for solids such as cylinders, cones, spheres, prisms and pyramids. The areas of a rectangle, parallelogram and trapezium are not given and must be memorised.
+
+**What is the difference between Core and Extended sector questions in 0580?**
+Core sector questions use angles that are factors of 360°. Extended (E5.3) removes this restriction and includes minor and major sectors with any angle.
+
+**What is a frustum?**
+A frustum is a cone or pyramid with its top cut off. Calculating its surface area and volume is part of Extended subtopic E5.5.
+
+**What counts as a prism in Cambridge IGCSE Maths?**
+A prism is any solid with a uniform cross-section, which includes shapes such as a cylindrical sector.
 
 ## Official syllabus
 

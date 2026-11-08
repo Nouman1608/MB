@@ -225,6 +225,23 @@ So A, B and C lie on one straight line. State the multiple and the shared point 
 - Calling lines skew without first ruling out parallel.
 - Dropping a minus sign in a component when a coordinate is negative.
 
+## Frequently asked questions
+
+**What is the scalar product of two vectors?**
+For a = a₁i + a₂j + a₃k and b = b₁i + b₂j + b₃k, a·b = a₁b₁ + a₂b₂ + a₃b₃. It is a number, and a·b = |a||b| cos θ, where θ is the angle between the vectors.
+
+**How do you show two vectors are perpendicular?**
+Show that their scalar product is zero, writing out the arithmetic. This test works when both vectors are non-zero.
+
+**How do you find the foot of the perpendicular from a point to a line?**
+Write a general point F on the line in terms of the parameter, form PF = F − P, and solve PF·d = 0, where d is the line's direction vector. The shortest distance from P to the line is then |PF|.
+
+**How do you show three points are collinear using vectors?**
+Show that AB is a scalar multiple of BC. The vectors are then parallel and share the point B, so A, B and C lie on one straight line.
+
+**Is the vector product part of Edexcel IAL P4 vectors?**
+No. The P4 vectors topic uses the scalar product, written with a dot; the vector product a × b is a different operation that belongs to Further Pure Mathematics.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics, Specification, Issue 3, April 2019, Pearson Education Limited. Unit P4, section 7 (Vectors).

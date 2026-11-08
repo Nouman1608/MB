@@ -347,6 +347,20 @@ y = tan x climbs from −∞ to +∞ between each pair of asymptotes, x = π/2 +
 - Sketching y = sin(x + π/6) shifted to the right.
 - Rounding intermediate values early. Keep full figures until the last line.
 
+## Frequently asked questions
+
+**What is the ambiguous case of the sine rule?**
+When you are given two sides and a non-included angle, sin B = k can give two possible angles, B and 180° − B. Both are valid only if the angles in each triangle still add up to less than 180°.
+
+**How do you convert degrees to radians?**
+Multiply the angle in degrees by π/180. For example, 72° = 72π/180 = 2π/5 radians.
+
+**Can the cosine rule give a false second answer?**
+No. The cosine rule gives a single angle between 0° and 180°, and a negative cosine shows the angle is obtuse, which is why it is safer than the sine rule for the largest angle.
+
+**Which way does y = sin(x + π/6) shift the graph?**
+It translates the sine curve π/6 to the left. Sketching it shifted to the right is a common error.
+
 ## Next steps
 
 Work through the [revision notes](/resources/edexcel-ial-mathematics-triangle-trigonometry-radians-and-trigonometric-graphs-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-ial-mathematics-triangle-trigonometry-radians-and-trigonometric-graphs-practice/). Tick off topics on the [checklist](/checklists/edexcel/a-level/mathematics/) and take a [diagnostic](/diagnostics/) to find gaps.

@@ -226,6 +226,23 @@ Given any graph, apply the rule to each labelled point: maximum, minimum, interc
 - Forgetting that a double root touches rather than crosses the axis.
 - Treating a dotted boundary as part of the region.
 
+## Frequently asked questions
+
+**What happens to an inequality sign when you divide by a negative number?**
+The inequality sign must be reversed. For example, −2x ≥ 10 becomes x ≤ −5.
+
+**What does a double root look like on a cubic graph?**
+At a double (repeated) root the curve touches the x-axis and turns back, rather than crossing it.
+
+**What is the difference between the graphs of y = k/x and y = k/x²?**
+For k > 0, y = k/x has two branches in opposite quadrants (1 and 3), while y = k/x² has both branches above the x-axis, symmetric about the y-axis. Both have the coordinate axes as asymptotes.
+
+**What does it mean if the quadratic from substitution has no real roots?**
+If the quadratic you get after substituting has no real roots, the line and the curve do not meet. A repeated root means the line is a tangent to the curve.
+
+**Which Edexcel IAL Maths P1 topics do these notes cover?**
+They cover topics 1.6 to 1.12 of Unit P1 in the Edexcel IAL Mathematics specification (YMA01): simultaneous equations, inequalities, regions, polynomials, graph sketching and transformations.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification, Issue 3, April 2019, published by Pearson Education Limited. Unit P1, topics 1.6 to 1.12.

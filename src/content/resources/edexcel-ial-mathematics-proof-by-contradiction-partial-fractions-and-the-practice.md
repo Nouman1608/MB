@@ -176,6 +176,20 @@ Coefficient of x² in (1 + x)(...): 3 + (−3/4) = **9/4**. [1]
 - Quoting |x| < 1 instead of the range for the actual bracket.
 - Taking the wider range of two expansions instead of the narrower one.
 
+## Frequently asked questions
+
+**How should a proof by contradiction start?**
+Begin by assuming the opposite of the statement you want to prove, for example "assume √7 is rational, so √7 = p/q in lowest terms". Starting by assuming the statement itself is a common error.
+
+**What is a common mistake when expanding (a + bx)ⁿ with the binomial series?**
+Forgetting to take out the constant first. Write (a + bx)ⁿ as aⁿ(1 + bx/a)ⁿ before using the series, and put each substituted term in brackets so signs and powers are correct.
+
+**How do you state the range of validity for a sum of two binomial expansions?**
+Find the range for each bracket and give the narrower one, because the combined expansion is only valid where every part is valid. Quoting |x| < 1 instead of the range for the actual bracket loses the mark.
+
+**How many partial fractions does a repeated linear factor need?**
+A repeated factor such as (x − 3)² needs two terms, B/(x − 3) + C/(x − 3)². Writing only one fraction for it is a common way to lose marks.
+
 ## Next steps
 
 - Review the [revision notes](/resources/edexcel-ial-mathematics-proof-by-contradiction-partial-fractions-and-the-revision-notes/) for this unit.

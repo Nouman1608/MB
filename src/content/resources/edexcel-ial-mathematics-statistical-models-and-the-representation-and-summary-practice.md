@@ -176,6 +176,20 @@ Key: 7 | 4 means 47 for A; 4 | 8 means 48 for B
 - Comparing two data sets without numbers, or without both location and spread.
 - Averaging standard deviations when combining two groups.
 
+## Frequently asked questions
+
+**Can you use frequency density in a mean calculation?**
+No. Convert frequency densities back to frequencies by multiplying by the class width first. Using frequency density as if it were frequency is a common error.
+
+**Where should a box plot whisker end if there is an outlier?**
+The whisker ends at the most extreme value that is not an outlier, and each outlier is marked separately, usually with a cross. Ending the whisker at the outlier loses marks.
+
+**How do you decode a standard deviation from coded data?**
+If y = (x − a)/b, the standard deviation of x is b times the standard deviation of y. The constant a affects the mean but not the spread.
+
+**How should you compare two data sets in S1?**
+Make one comment on location, such as the median or mean, and one on spread, such as the IQR or standard deviation, each with numbers and in the context of the question.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/edexcel-ial-mathematics-statistical-models-and-the-representation-and-summary-revision-notes/) and [study guide](/resources/edexcel-ial-mathematics-statistical-models-and-the-representation-and-summary/).
