@@ -147,6 +147,9 @@ await journey('Finder never shows another qualification or board', async (page) 
   const catalogue = await (await page.request.get(`${BASE}/tools-data/catalogue.json`)).json();
   const pairSet = new Set(catalogue.map((e) => `${e.qs}/${e.bs}`));
   for (const e of catalogue) if (e.qs === 'a-level') pairSet.add(`as-level/${e.bs}`);
+  // The AP family (College Board) comes from the advanced-course library, not
+  // catalogue.json, so count its one qualification/board pair when the finder offers it.
+  if (quals.includes('ap')) pairSet.add('ap/college-board');
   const pairs = pairSet.size;
   expect(combos === pairs, `checked ${combos} qualification/board pairs, catalogue has ${pairs}`);
 });
