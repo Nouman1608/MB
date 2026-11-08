@@ -130,6 +130,20 @@ The November payments include a supplier invoice of 5,200 that the supplier says
 - Take any of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these cash flow practice questions cover?**
+They cover section 3.7 of the IB DP Business Management guide (first assessment 2024), for SL and HL: the difference between profit and cash flow, working capital, liquidity, cash flow forecasts, investment and strategies for cash flow problems.
+
+**Should depreciation appear in a cash flow forecast?**
+No. Depreciation is a non-cash charge, so it is left out of a cash flow forecast. Entering a credit sale in the month of sale rather than the month of payment is another common error.
+
+**Does a negative closing balance mean a loss?**
+No. A negative closing balance is a cash shortfall, not a loss. The business may need a short-term source of finance or a delayed payment.
+
+**How should you recommend a strategy for a cash flow problem?**
+Match the strategy to the cause of the problem, weigh its drawbacks against alternatives in the context of the case, and reach a judgement.
+
 ## Official syllabus
 
 IB *Business management guide*, first assessment 2024, International Baccalaureate Organization. Section 3.7 Cash flow.

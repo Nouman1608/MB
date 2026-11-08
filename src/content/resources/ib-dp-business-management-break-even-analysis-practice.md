@@ -146,6 +146,20 @@ Questions 2 to 10 use Pellindor Honey, which sells jars of honey at a price of 8
 * Try all free 10-minute [diagnostics](/diagnostics/).
 * Book a free trial class: [trial classes](/trial/).
 
+## Frequently asked questions
+
+**What do these break-even practice questions cover?**
+They cover section 5.5 of the IB DP Business Management guide (first assessment 2024): contribution, break-even charts and quantity, profit or loss, margin of safety, target profit output, target profit, target price, the effects of changes and limitations.
+
+**What is the difference between target profit output and target profit?**
+Target profit output is the number of units needed to reach a chosen profit. Target profit is the profit made at a chosen output. Mixing the two up is a common error.
+
+**Should you round a break-even quantity?**
+Yes. Round up to the next whole unit, because a business cannot sell part of a unit and still break even.
+
+**How should you answer an evaluate question on break-even?**
+Do not rely on numbers alone. Tie one or two limitations to the case, explain why they weaken the result, and give a reasoned judgement on whether the tool is still useful.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Business management guide*, first assessment 2024, section 5.5 Break-even analysis.

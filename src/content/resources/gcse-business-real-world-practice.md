@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on business ownership, aims, stakeholders, location and growth."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -104,3 +106,17 @@ Inorganic advantage: it is **fast, giving immediate market share, assets and exp
 - Not reaching a supported judgement in evaluation questions.
 - Assuming a business's objectives stay fixed rather than shifting as it develops.
 - Listing business plan contents without explaining why writing one is valuable beyond raising finance.
+
+## Frequently asked questions
+
+**What topics do these Business in the Real World questions cover?**
+They cover the opening topic of AQA GCSE Business (8132): business ownership, limited liability, aims and objectives, stakeholders, location, growth and business plans.
+
+**What is a common mistake when writing about limited liability?**
+Confusing limited liability with limited company status. Limited liability means the owners' liability for the business's debts is limited to the amount they invested, so their personal assets are protected.
+
+**How do you earn marks on a location question?**
+Name each location factor and explain its effect on the business, for example how being near customers raises footfall and sales. Listing factors without the effect loses marks.
+
+**What do evaluation questions in GCSE Business need?**
+A supported judgement. Weigh the arguments on both sides and say what the answer depends on, such as the stage of the business or its ownership, rather than stopping after the points.
