@@ -18,6 +18,8 @@ description: "Condensed revision notes on hypothesis tests for OCR A Level Mathe
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08 recheck: added a specification note labelling Type I/II error material as extension: H240 2.05c only requires the significance level as the probability of incorrectly rejecting H0. Please re-review."
+reviewNeeded: true
 ---
 
 These notes condense sections 2.05a to 2.05e of the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. Sections 2.05a to 2.05c are Stage 1, common with AS. Sections 2.05d and 2.05e are **A Level only**. For full explanations and worked examples read the [study guide](/resources/ocr-a-level-mathematics-hypothesis-testing-language-binomial-tests-and-the/).
@@ -82,6 +84,8 @@ Two-tail: either compare each tail with half the level, or compare double the ta
 Do not write "H₀ is accepted", "H₀ is true", "this proves" or a bare "reject H₀" with no context.
 
 ## Errors (2.05c)
+
+> **Specification note.** H240 statement 2.05c asks you to appreciate that the significance level is the probability of incorrectly rejecting the null hypothesis. The terms "Type I error" and "Type II error", and Type II error calculations, are not listed in the H240 specification, so the Type II material on this page is extension work that helps understanding but is not required for the exam.
 
 | Decision | H₀ really true | H₀ really false |
 |---|---|---|

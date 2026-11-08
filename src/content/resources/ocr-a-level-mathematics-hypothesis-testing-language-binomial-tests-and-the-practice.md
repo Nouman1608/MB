@@ -14,10 +14,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "statistics-ocr-alevel-maths"
     subtopic: "statistical-hypothesis-testing-ocr-alevel-maths"
-description: "Original practice questions with worked answers on binomial and normal-mean hypothesis tests and Type I and II errors for OCR A Level Mathematics A."
+description: "OCR A Level Mathematics A (H240) practice on binomial and normal-mean hypothesis tests, critical regions and p-values, with worked answers and extension parts."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
+reviewNote: "2026-11-08 recheck: labelled the Type II error parts (5(b)-(d), 10(d), 11(d)) as extension because H240 2.05 does not list Type I/II errors; reworded 5(a) in specification language; rewrote description. Please re-review."
+reviewNeeded: true
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -41,7 +43,9 @@ Links: [OCR Mathematics A hub](/boards/ocr/a-level/mathematics/), [printable che
 **4.** A quiz setter says that 40% of players answer a particular question correctly. A sample of 18 players is taken to test, at the 5% level, whether the proportion differs from 40%. Twelve answer correctly. Carry out the test. **[6]**
 
 **5.** This question uses the test in question 3.
-**(a)** State the probability of making a Type I error. **[1]**
+**(a)** State the probability that the test incorrectly rejects the null hypothesis. **[1]**
+*Parts (b) to (d) are extension: Type II errors are not listed in the H240 specification.*
+
 **(b)** The true proportion of flawed screens is in fact 0.2. Find the probability of a Type II error. **[2]**
 **(c)** Describe a Type II error in this context. **[1]**
 **(d)** State, with a reason, whether the probability of a Type II error would be greater or smaller if the true proportion were 0.3. **[1]**
@@ -65,13 +69,13 @@ Links: [OCR Mathematics A hub](/boards/ocr/a-level/mathematics/), [printable che
 **(a)** Find the critical region for the test. **[4]**
 **(b)** Find the actual significance level. **[1]**
 **(c)** In the sample, 14 pupils study triple science. State the conclusion. **[2]**
-**(d)** Find the probability of a Type II error when the true proportion is 0.45. **[2]**
+**(d)** (Extension, beyond H240) Find the probability of a Type II error when the true proportion is 0.45. **[2]**
 
 **11.** The lifetime of a type of bulb is normally distributed with standard deviation 40 hours. The maker says the mean lifetime is 800 hours. A tester thinks it is lower, and uses a random sample of 25 bulbs and a 5% significance level.
 **(a)** Write down the hypotheses and the distribution of the sample mean under the null hypothesis. **[2]**
 **(b)** Find the critical region for the sample mean. **[3]**
 **(c)** The sample mean is 785.2 hours. State the conclusion in context. **[2]**
-**(d)** The true mean lifetime is 778 hours. Find the probability of a Type II error. **[2]**
+**(d)** (Extension, beyond H240) The true mean lifetime is 778 hours. Find the probability of a Type II error. **[2]**
 
 ## Answers
 
@@ -87,7 +91,7 @@ Links: [OCR Mathematics A hub](/boards/ocr/a-level/mathematics/), [printable che
 **4.** H₀: p = 0.4, H₁: p ≠ 0.4, where p is the probability that a player answers correctly [1]. Under H₀, X ~ B(18, 0.4) [1]. P(X ≥ 12) = 1 − P(X ≤ 11) = 0.0203 [1]. This is the upper tail of a two-tail test, so compare with 0.025 (or double to 0.0406 and compare with 0.05) [1]. 0.0203 < 0.025, so reject H₀ [1]. At the 5% level the evidence suggests that the proportion answering correctly differs from 0.4; it is likely to be higher [1]. **[6]**
 *Examiner insight:* In a two-tail test, say which comparison you are making. A single-tail probability set against the full 5% is a frequent slip.
 
-**5. (a)** P(Type I error) = **0.0419** [1].
+**5. (a)** The probability of rejecting H₀ when it is true is the actual significance level, **0.0419** [1].
 **(b)** Type II error: X does not lie in the critical region, so X ≤ 7 when X ~ B(40, 0.2) [1]. P(X ≤ 7) = **0.437** [1].
 **(c)** Finding no evidence that more than 10% of screens are flawed when the true figure is 20% [1].
 **(d)** **Smaller**: 0.3 is further from 0.1, so P(X ≤ 7) falls to 0.0553 [1]. **[5]**
