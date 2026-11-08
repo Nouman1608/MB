@@ -13,13 +13,15 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "how-the-economy-works-oxfordaqa-igcse-economics"
     subtopic: "government-objectives-oxfordaqa-igcse-economics"
-description: "Condensed recall notes on growth, employment, inflation, the balance of payments and income distribution for OxfordAQA International GCSE Economics sub-topic 3.2.2 (9214)."
+description: "Revision notes on growth, unemployment, inflation, the balance of payments and income distribution for OxfordAQA International GCSE Economics 9214, 3.2.2."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -190,3 +192,16 @@ financial flows as well as the balance of trade's goods and services.
   <figcaption>A policy that helps one objective can harm another.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are the main government objectives in OxfordAQA International GCSE Economics?**
+In OxfordAQA International GCSE Economics (9214), sub-topic 3.2.2, the principal objectives are full employment, price stability, economic growth and a satisfactory balance of payments. Other objectives include reducing inequality and managing environmental change.
+
+**What is the difference between the balance of trade and the balance of payments?**
+The balance of trade covers goods and services only. The balance of payments is broader, also including investment and financial flows.
+
+**How do you calculate GDP per capita?**
+Divide total GDP by the population. GDP per capita is used to compare living standards between countries of different sizes.
+
+**Why do government objectives conflict?**
+A policy that helps one objective can harm another. For example, faster growth or lower unemployment raises spending, which can create demand-pull inflation, and higher taxes to reduce inequality can weaken incentives to work or invest.

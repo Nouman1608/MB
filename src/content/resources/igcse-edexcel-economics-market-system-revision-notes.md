@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Condensed recall notes on demand, supply, elasticity, market failure and government intervention for Edexcel International GCSE Economics 4EC1."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -275,3 +277,20 @@ between.
 5. Name the five policies a government can use to correct externalities.
 
 **Answers:** 1. The next best alternative forgone when a choice is made. 2. Identify which curve shifts, state the direction, describe the new equilibrium, and give the effect on both price and quantity. 3. Revenue rises — demand is inelastic, so quantity falls proportionally less than price rises. 4. Non-excludable and non-rival. 5. Taxation, subsidies, fines, regulation, and pollution permits.
+
+## Frequently asked questions
+
+**What is the four-step answer to a market change question?**
+Say which curve shifts, in which direction, what the new equilibrium is, and what happens to both price and quantity. This structure is used across Pearson Edexcel International GCSE Economics (4EC1) market questions.
+
+**What are the conditions of supply?**
+The conditions of supply are costs, technology, taxes, subsidies, the number of firms and the weather. A change in any of them shifts the supply curve.
+
+**How do you calculate income elasticity of demand?**
+Divide the percentage change in quantity demanded by the percentage change in income. A positive value above 1 means a luxury good, a positive value below 1 a normal necessity, and a negative value an inferior good.
+
+**What policies correct externalities in Edexcel IGCSE Economics?**
+The five policies are taxation, subsidies, fines, regulation and pollution permits.
+
+**How do you answer a market failure scenario question?**
+Name the type of externality, identify the third parties who bear the cost or gain the benefit, state the market outcome such as over-production, then name a correction such as a tax or regulation.

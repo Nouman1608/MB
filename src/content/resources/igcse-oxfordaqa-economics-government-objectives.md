@@ -13,13 +13,15 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "how-the-economy-works-oxfordaqa-igcse-economics"
     subtopic: "government-objectives-oxfordaqa-igcse-economics"
-description: "Economic growth, employment, inflation, the balance of payments and income distribution -- the government's core economic objectives and the conflicts between them, for OxfordAQA International GCSE Economics (9214)."
+description: "Government objectives for OxfordAQA International GCSE Economics 9214: growth, employment, inflation, the balance of payments, inequality and their conflicts."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **sub-topic 3.2.2 Government objectives**, part of
@@ -187,6 +189,23 @@ narrower balance of trade before answering any calculation question.
   <figcaption>The current account adds income flows to the balance of trade.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**What is the difference between economic growth and economic development?**
+Economic growth is a rise in a country's output, measured by GDP, real GDP or GDP per capita. Economic development is a broader improvement in living standards, such as health, education and infrastructure, which does not always follow from growth.
+
+**What are the types of unemployment in OxfordAQA International GCSE Economics?**
+The 9214 specification names structural, seasonal, frictional and cyclical unemployment. Cyclical rises in a recession, structural comes from the long-term decline of an industry, frictional is the short time between jobs, and seasonal follows a yearly pattern.
+
+**What is the difference between cost-push and demand-pull inflation?**
+Cost-push inflation starts with rising production costs, such as dearer imported raw materials, passed on as higher prices. Demand-pull inflation starts with demand in the economy outstripping what producers can supply.
+
+**How can a government redistribute income?**
+Through taxation, such as a progressive tax that takes a higher share from higher earners, and government spending on benefits and public services that raise the effective income of lower earners.
+
+**Can cutting interest rates conflict with price stability?**
+Yes. Lower rates encourage borrowing and spending, which can cut unemployment, but the extra demand can cause demand-pull inflation if supply cannot keep pace.
 
 ## Official syllabus
 

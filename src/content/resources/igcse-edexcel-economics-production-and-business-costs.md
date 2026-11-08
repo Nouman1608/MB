@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "business-economics-edexcel-igcse-economics"
-description: "The factors of production, productivity and division of labour, and costs, revenue and economies of scale -- sub-topics 1.2.1-1.2.3 of Topic 2 Business Economics, Pearson Edexcel International GCSE Economics (4EC1)."
+description: "Factors of production, productivity, division of labour, costs, revenue and economies of scale, sub-topics 1.2.1 to 1.2.3 of Edexcel IGCSE Economics 4EC1."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **sub-topics 1.2.1–1.2.3**, part of Topic 2 Business
@@ -171,6 +173,23 @@ lists.
   <figcaption>Internal economies come from the firm's own size; external economies come from where the whole industry is located.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**How does productivity improve for each factor of production?**
+In the Pearson Edexcel International GCSE Economics (4EC1) specification, land productivity improves with fertiliser, drainage, irrigation and reclamation; labour with education, training and migration; and capital with more machines and technological advances.
+
+**What are internal economies of scale?**
+Internal economies come from a firm's own growth. The specification lists purchasing or bulk buying, marketing, technical, financial, managerial and risk-bearing economies.
+
+**What are external economies of scale?**
+External economies come from the whole industry growing in one area and benefit every firm there, such as a pool of skilled labour, shared infrastructure, access to suppliers and similar businesses nearby.
+
+**What does the LRAC curve show?**
+The long-run average cost curve shows average costs falling as a business grows and gains economies of scale, reaching a minimum at the most efficient point, and then rising when diseconomies of scale set in.
+
+**How do you calculate total costs from average cost?**
+Multiply average total cost by the number of units produced. Moving between total and average figures in both directions is a frequently tested skill.
 
 ## Official syllabus
 

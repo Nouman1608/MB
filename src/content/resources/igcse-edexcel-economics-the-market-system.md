@@ -12,13 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "the-market-system-edexcel-igcse-economics"
-description: "The economic problem, economic assumptions, demand, supply and market equilibrium, elasticity, the mixed economy, and externalities -- a syllabus map and study guide for Topic 1 of Pearson Edexcel International GCSE Economics (4EC1)."
+description: "Topic 1 of Edexcel IGCSE Economics 4EC1: the economic problem, economic assumptions, demand and supply, elasticity, the mixed economy and externalities."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Topic 1 The market system**, for Pearson Edexcel
@@ -155,6 +157,23 @@ such diagram as an optional extension rather than assessed content.
   <figcaption>Social cost = private cost + external cost; social benefit = private benefit + external benefit.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**What does Topic 1 of Edexcel IGCSE Economics cover?**
+Topic 1, the market system, in Pearson Edexcel International GCSE Economics (4EC1) covers the economic problem, economic assumptions, demand, supply and market equilibrium, elasticity, the mixed economy and externalities, in sub-topics 1.1.1 to 1.1.6.
+
+**How do you calculate social cost and social benefit?**
+Social cost equals private cost plus external cost, and social benefit equals private benefit plus external benefit. The specification requires these two formulae with definitions and examples.
+
+**Do you need an externality diagram for Edexcel IGCSE Economics?**
+No. The specification does not require a demand and supply or marginal social cost diagram for externalities. The welfare loss diagram is A Level analysis, so treat it as an optional extension.
+
+**Why does elasticity matter for taxes?**
+A tax on a good with inelastic demand raises significant revenue with little change in quantity consumed, while the same tax on an elastic good raises less because consumers switch away from it.
+
+**How does PED affect a firm's revenue when it raises its price?**
+If demand is elastic, total revenue typically falls because quantity drops by a larger proportion than the price rises. If demand is inelastic, total revenue typically rises.
 
 ## Official syllabus
 
