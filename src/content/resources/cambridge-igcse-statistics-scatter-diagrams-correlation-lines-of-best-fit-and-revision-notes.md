@@ -192,6 +192,20 @@ If an extrapolated value is impossible, say so. A negative number of sales or a 
 - Trusting an estimate far outside the data, or not commenting when it is impossible.
 - Guessing a by-eye equation from the picture instead of reading two accurate points from the grid.
 
+## Frequently asked questions
+
+**Does a line of best fit have to pass through the origin?**
+No. A line of best fit drawn by eye need not pass through the origin or any particular point; it should follow the trend with similar numbers of points on either side.
+
+**When can you use the semi-averages method?**
+In these notes the semi-averages method is used with an even number of pairs, split into two equal halves after sorting by x. The line passes through the mean point of each half.
+
+**How do you find the gradient of a line of best fit?**
+Divide the change in y by the change in x between two points on the line, subtracting the coordinates in the same order each time so the sign is correct.
+
+**How do you estimate x from a line of best fit equation?**
+Substitute the given y value and rearrange. For y = 4x + 10, a value of y = 54 gives x = 44 ÷ 4 = 11.
+
 ## Official syllabus
 
 Cambridge IGCSE Statistics 0479 syllabus for examination in 2027, Topic 11 Bivariate distributions, published by Cambridge University Press & Assessment (Cambridge International).

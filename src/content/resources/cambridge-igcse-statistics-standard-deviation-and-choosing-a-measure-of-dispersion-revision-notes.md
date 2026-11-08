@@ -212,6 +212,20 @@ It has a conclusion, a comparison of the figures, and a reason. Copy the pattern
 - Naming a measure without linking it to the context, for example saying "IQR is better" without mentioning the extreme value.
 - Judging consistency from the mean rather than from the spread.
 
+## Frequently asked questions
+
+**What does standard deviation measure?**
+Standard deviation measures the typical distance of the values from the mean. It uses every value, has the same units as the data and is never negative.
+
+**Why is the standard deviation from grouped data only an estimate?**
+The midpoint of each class stands in for every value in that class, so the result is an estimate. Say so in your answer.
+
+**Which measure of spread is affected least by an extreme value?**
+The interquartile range. Adding an extreme value can change the range and the standard deviation a lot, while the IQR may not change at all.
+
+**What does "compare" mean in a dispersion question?**
+Refer to both sets of figures and use comparative words such as "larger" and "more consistent", linking them to the context.
+
 ## Official syllabus
 
 Cambridge IGCSE Statistics (0479) syllabus for examination in 2027, Cambridge University Press and Assessment (Cambridge International Education), Topic 5, outcomes 5.6 and 5.7.

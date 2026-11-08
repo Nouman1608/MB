@@ -202,6 +202,20 @@ The lowest 25% of candidates fail. The top 15% earn a distinction.
 - Take one of our [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the first step in finding quartiles from a list?**
+Put the data in order. Picking out the median and quartiles from an unordered list is a common way to lose marks in Cambridge IGCSE Statistics (0479).
+
+**Is a quartile position the same as a quartile value?**
+No. A position such as n/4 is a cumulative frequency, while the quartile is the data value found at that position. Give the value as your answer.
+
+**How do you find how many values lie in part of a distribution?**
+Read the cumulative frequencies at the two ends of the interval from the table or graph and subtract one from the other.
+
+**Which part of the 0479 syllabus do these questions cover?**
+They cover Topic 5, outcomes 5.1 to 5.5, of the Cambridge IGCSE Statistics (0479) syllabus for examination in 2027: quartiles, percentiles, range and interquartile range.
+
 ## Official syllabus
 
 Cambridge IGCSE Statistics 0479 syllabus for examination in 2027 (version 1), Cambridge International Education, part of Cambridge University Press & Assessment. Topic 5, outcomes 5.1 to 5.5.

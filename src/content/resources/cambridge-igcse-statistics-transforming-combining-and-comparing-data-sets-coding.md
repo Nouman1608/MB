@@ -229,6 +229,23 @@ Pair the measures properly: the mean goes with the standard deviation, and the m
 
 Work through the [practice set](/resources/cambridge-igcse-statistics-transforming-combining-and-comparing-data-sets-coding-practice/), then use the [revision notes](/resources/cambridge-igcse-statistics-transforming-combining-and-comparing-data-sets-coding-revision-notes/) for a short summary.
 
+## Frequently asked questions
+
+**What is coding in statistics?**
+Coding transforms each value, for example with y = ax + b. It lets you work with smaller numbers, such as subtracting 1 200 from 1 203, 1 207 and 1 212, and then adding 1 200 back to the mean only.
+
+**How does adding a value affect the mean and median?**
+A value above the mean raises the mean, and a value below it lowers it. A value above the median raises the median or leaves it the same; it cannot move the median the wrong way.
+
+**How do you find the combined mean of two data sets?**
+Add the two totals and divide by the total number of values. Do not average the two means unless the groups are the same size.
+
+**Why use z-scores to compare results?**
+Raw marks from different tests cannot be compared directly, because the tests have different means and spreads. A z-score, (x − μ) ÷ σ, puts each value on the same scale.
+
+**What does Topic 6 of Cambridge IGCSE Statistics cover?**
+Topic 6, Transformations of data sets, covers adding or multiplying by a constant, the median and IQR, adding or removing values, combining data sets, scaling and standardising, and comparing distributions.
+
 ## Official syllabus
 
 Cambridge IGCSE Statistics 0479 syllabus for examination in 2027, version 1, Cambridge University Press & Assessment (Cambridge International Education), Topic 6, outcomes 6.1 to 6.6.

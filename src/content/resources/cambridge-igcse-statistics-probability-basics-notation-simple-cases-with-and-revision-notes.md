@@ -220,6 +220,20 @@ Check the last row of the table with the tea and cake figures: 24/40 + 18/40 –
 - Giving a decimal where a percentage was asked for, or the reverse.
 - Not showing the working. The syllabus says essential working must be shown for full marks to be awarded.
 
+## Frequently asked questions
+
+**What does A′ mean in probability?**
+A′ is the complement of A, the event that A does not happen, and P(A′) = 1 − P(A).
+
+**What is the difference between A ∩ B and A ∪ B?**
+A ∩ B means both A and B happen. A ∪ B means A or B or both happen. Mixing up the two symbols is a common error in notation questions.
+
+**What is the addition rule?**
+P(A ∪ B) = P(A) + P(B) − P(A ∩ B). The overlap is subtracted because it would otherwise be counted twice.
+
+**What is the difference between with and without replacement?**
+With replacement, each item is put back, so the total stays the same on every pick. Without replacement, the total drops by one each time, and so does the number of the type taken.
+
 ## Official syllabus
 
 Cambridge IGCSE Statistics 0479 syllabus for examination in 2027, Version 1, Cambridge International Education (part of Cambridge University Press & Assessment). These notes cover Topic 7, outcomes 7.1 to 7.4.

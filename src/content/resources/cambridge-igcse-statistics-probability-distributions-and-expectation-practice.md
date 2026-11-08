@@ -219,6 +219,20 @@ Over 150 games: 150 × (−0.60) = **−£90** [1]
 - Try the [free 10-minute diagnostics](/diagnostics/) to find your weakest topics.
 - [Book a free trial class](/trial/) if you want help with these topics.
 
+## Frequently asked questions
+
+**Why should you check that the probabilities add to 1?**
+In a probability distribution exactly one outcome must happen, so ΣP(x) = 1. Checking the total catches a wrong or missing entry before it spoils the rest of the question.
+
+**What is the difference between expected payout and expected gain?**
+Expected gain is the expected payout minus the stake. Giving the payout when the question asks for the gain is a common way to lose marks.
+
+**Is E(X) the average of the x values?**
+Only if every value is equally likely. In general E(X) = Σx P(x), so each value is weighted by its probability.
+
+**Which part of the 0479 syllabus do these questions cover?**
+They cover Topic 8, Probability distributions, outcomes 8.1 and 8.2, of the Cambridge IGCSE Statistics (0479) syllabus for examination in 2027.
+
 ## Official syllabus
 
 Cambridge IGCSE Statistics 0479 syllabus for examination in 2027, Cambridge University Press & Assessment (Cambridge International Education), Topic 8: Probability distributions, learning outcomes 8.1 and 8.2.

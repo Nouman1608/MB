@@ -204,6 +204,20 @@ The second-stage branches are different after a fault and after no fault, so the
 
 Condense the rules with the [revision notes](/resources/cambridge-igcse-statistics-mutually-exclusive-and-independent-events-conditional-revision-notes/), then attempt the [practice set](/resources/cambridge-igcse-statistics-mutually-exclusive-and-independent-events-conditional-practice/). Tick off the outcomes on the [checklist](/checklists/cambridge/igcse/statistics/), and try the [free diagnostics](/diagnostics/) to find gaps.
 
+## Frequently asked questions
+
+**What is conditional probability?**
+Conditional probability is the probability of an event given that another event has happened. You divide by the group that meets the condition, not by the full total.
+
+**How do you find "at least one" on a tree diagram?**
+Work out 1 minus the probability of none. For two seeds that each germinate with probability 0.85, at least one germinates with probability 1 − 0.0225 = 0.9775.
+
+**Why can you not always add the probabilities of two events?**
+If the events can happen together, adding counts the overlap twice. For example, students in both the chess and badminton clubs would be counted in each group.
+
+**What does this Cambridge IGCSE Statistics unit cover?**
+It covers outcomes 7.5, 7.6 and 7.7 of Topic 7, Probability, in Cambridge IGCSE Statistics (0479): mutually exclusive and independent events, conditional probability in simple cases, and tree diagrams.
+
 ## Official syllabus
 
 Source: the Cambridge IGCSE Statistics 0479 syllabus (examination year 2027), published by Cambridge University Press & Assessment. Covered here: Topic 7 Probability, outcomes 7.5 to 7.7. Hub: [Cambridge IGCSE Statistics](/boards/cambridge/igcse/statistics/).

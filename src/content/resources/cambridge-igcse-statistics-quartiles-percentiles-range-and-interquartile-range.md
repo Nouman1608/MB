@@ -195,6 +195,20 @@ The IQR of a grouped distribution is Q3 − Q1 using the two estimated quartiles
 - Calculating a percentile as the frequency itself rather than the cumulative frequency divided by n.
 - Giving a "number of people between two values" without subtracting the two cumulative frequencies.
 
+## Frequently asked questions
+
+**What is the interquartile range?**
+The interquartile range is the upper quartile minus the lower quartile. It measures the spread of the middle half of the data, so it is not affected by extreme values.
+
+**What do you do with the median when n is odd?**
+Leave the median out of both halves when you find the lower and upper quartiles. Including it in both halves moves the quartiles.
+
+**Should the interquartile range be written as an interval?**
+No. Write it as a single value found by subtraction, not as a pair of quartiles.
+
+**What does Topic 5 of Cambridge IGCSE Statistics cover?**
+Outcomes 5.1 to 5.5 cover quartiles and percentiles of small data sets, frequency tables and grouped data, using cumulative frequency graphs, the range and the interquartile range.
+
 ## Official syllabus
 
 Cambridge IGCSE Statistics 0479 syllabus for examination in 2027 (version 1), Cambridge International Education, part of Cambridge University Press & Assessment. This guide covers Topic 5, outcomes 5.1 to 5.5.
