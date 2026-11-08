@@ -212,6 +212,20 @@ Answer each in a line or two, then check below. Use Tarnovia's table where it he
 - Using unlabelled figures. Name any example as illustrative and show the working.
 - Treating unequal as automatically unfair without saying that equity is a judgement.
 
+## Frequently asked questions
+
+**What does sub-topic 2.12 of IB DP Economics cover?**
+It covers how the workings of a free market economy may result in an unequal distribution of income and wealth, shown with the circular flow model. It is HL only and has no required calculation.
+
+**What factor incomes appear in the circular flow model?**
+Labour earns wages, land earns rent, capital earns interest and enterprise earns profit. These incomes flow from firms to households through the factor market.
+
+**What is the difference between income and wealth?**
+Income is a flow earned over a period, such as a year, from selling factors of production. Wealth is a stock, the value of what a household owns at a point in time, such as savings, property and shares.
+
+**Is an unequal outcome always unfair?**
+Not necessarily. Equality means shares of the same size, while equity means fairness, which is a judgement. Keep the market result as an explanation and equity as a separate judgement.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published February 2020 by the International Baccalaureate Organization. Sub-topic 2.12, the market's inability to achieve equity (HL only).

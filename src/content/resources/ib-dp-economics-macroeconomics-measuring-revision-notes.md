@@ -19,13 +19,15 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-economics-unit-3"
     subtopic: "ib-dp-economics-3-3"
-description: "Condensed SL-level recall notes on measuring economic activity, the AD-AS model, and macroeconomic objectives for IB Diploma Programme Economics, Unit 3 sub-topics 3.1-3.3."
+description: "SL revision notes for IB DP Economics sub-topics 3.1 to 3.3: GDP and GNI, the business cycle, AD-AS shifts and macroeconomic objectives, with data examples."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -231,6 +233,20 @@ Keep **two or three up-to-date real-world examples** for growth, inflation and u
 - Sketch AD-AS from memory, labelling both curves, equilibrium price level and output.
 - Explain what shifts AD vs. what shifts AS.
 - Given data showing falling output and falling inflation together, judge whether this looks more like a demand-side or supply-side change, and explain why.
+
+## Frequently asked questions
+
+**Can GNI be lower than GDP?**
+Yes. GNI is GDP plus net income from abroad, and that net term can be negative if more income is paid to non-residents than residents earn abroad.
+
+**Does stable inflation mean prices are not rising?**
+No. A steady 2% inflation rate means the price level still rises each year, just at a constant rate. A stable rate of inflation is not a stable price level.
+
+**Can faster growth with steady inflation come from a rise in aggregate demand?**
+Yes. If the economy is in the flat, elastic range of the Keynesian aggregate supply curve, a rightward AD shift can raise output with little rise in inflation. A favourable supply-side change is also consistent with the same data, so the data alone cannot tell them apart.
+
+**Is equity in income distribution one of the objectives in sub-topic 3.3?**
+Not as a separate objective here. Equity is discussed as a possible conflict with the objectives and is developed fully in the next sub-topic, on the economics of inequality and poverty.
 
 ## Official syllabus
 

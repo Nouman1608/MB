@@ -140,6 +140,20 @@ Revise first with the [study guide](/resources/ib-dp-economics-supply/) or the [
 - Forgetting that expectations only reduce current supply for goods that can be stored.
 - On HL questions, naming diminishing returns without linking to marginal cost and the slope of the curve.
 
+## Frequently asked questions
+
+**How do you find market supply from individual firms' supply?**
+Add the quantities every firm supplies at each price, price by price. A firm that supplies nothing at a low price adds zero at that price.
+
+**Are there calculations in IB Economics sub-topic 2.2?**
+The IB guide lists diagrams for sub-topic 2.2 but no required calculations. Small sums, such as adding firms' outputs, help make the ideas concrete.
+
+**What should a supply shift diagram show?**
+Label price on the vertical axis and quantity per period on the horizontal axis, label the original and new curves, mark the old and new quantities, and state the cause in words.
+
+**What are common mistakes in IB Economics supply questions?**
+Common slips include saying a price change shifts the supply curve, drawing a tax as a movement along the curve, forgetting ceteris paribus when stating the law of supply, and describing a shift to the right without saying whether supply rose or fell.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/ib-dp-economics-supply-revision-notes/) or reread the [study guide](/resources/ib-dp-economics-supply/).

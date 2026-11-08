@@ -257,6 +257,20 @@ Command terms to expect on this content: Calculate asks for the stages of workin
 - Describing government intervention with no judgement of its limits.
 - Treating a concentration ratio as a measure of profit.
 
+## Frequently asked questions
+
+**What is market power?**
+Market power is a firm's ability to influence the price it charges. A firm with none is a price taker, and a firm with some is a price maker.
+
+**What is the difference between abnormal profit, normal profit and a loss?**
+Abnormal profit is when average revenue is above average cost (AR > AC), normal profit is when AR equals AC, and a loss is when AR is below AC. Not every positive accounting profit is normal profit.
+
+**Why does a perfectly competitive firm earn only normal profit in the long run?**
+Entry and exit are free. Abnormal profit attracts new firms, shifting market supply right and lowering price, while losses push firms out, until price settles at the lowest point of average cost.
+
+**What does a high concentration ratio show?**
+It shows that a few large firms hold a large share of the market. It is not proof that the firms are colluding.
+
 ## Next steps
 
 Work through the [practice questions](/resources/ib-dp-economics-market-power-practice/), find gaps with the [diagnostics](/diagnostics/), and review the [study guide](/resources/ib-dp-economics-market-power/).

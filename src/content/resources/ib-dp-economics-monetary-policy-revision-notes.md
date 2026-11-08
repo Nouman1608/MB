@@ -259,6 +259,20 @@ The guide places the gap diagrams and the effectiveness points at the evaluation
 </figure>
 
 
+## Frequently asked questions
+
+**What is monetary policy in IB DP Economics?**
+Monetary policy is the central bank's control of the money supply and interest rates to influence the economy. It is a demand-side policy and is sub-topic 3.5 of the IB DP Economics guide.
+
+**What is the difference between the nominal and real interest rate?**
+The nominal rate is the rate quoted, with no adjustment for inflation. The real interest rate takes inflation into account and is roughly the nominal rate minus the inflation rate.
+
+**What are the HL tools of monetary policy?**
+Open market operations, where the central bank buys or sells government bonds; changes to the minimum reserve requirement; and changes to the minimum lending rate it charges commercial banks.
+
+**What are the goals of monetary policy?**
+The goals are low and stable inflation, low unemployment, reducing business cycle fluctuations, a stable economic environment for long-term growth, and external balance.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization, February 2020, sub-topic 3.5. See also the [exam preparation page](/resources/ib-dp-economics-exam-preparation/) and the free [10-minute diagnostics](/diagnostics/).

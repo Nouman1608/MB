@@ -17,13 +17,15 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-economics-unit-3"
     subtopic: "ib-dp-economics-3-3"
-description: "Condensed revision notes for IB DP Economics sub-topics 3.1 and 3.3: GDP and GNI, real and nominal, per capita and PPP measures, types of unemployment and the natural rate, and inflation, disinflation and deflation, with a self-test."
+description: "Revision notes for IB DP Economics sub-topics 3.1 and 3.3: GDP and GNI, real and PPP measures, types of unemployment, the natural rate, inflation and deflation."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-11-05
 publishedDate: 2026-11-05
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These notes fill in the measurement content of sub-topics 3.1 (Measuring economic activity and illustrating its variations) and 3.3 (Macroeconomic objectives) of Unit 3. They follow the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. The business cycle, the AD-AS model and the list of macroeconomic objectives are in the [measuring and managing the economy revision notes](/resources/ib-dp-economics-macroeconomics-measuring-revision-notes/); read those first. Constructing a weighted price index is **HL only**; everything else here is SL and HL. For full explanations read the [study guide](/resources/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy/), then test yourself with the [practice set](/resources/ib-dp-economics-macroeconomics-practice/). The course page is [IB DP Economics](/boards/ib/ib-dp/economics/) and the [printable checklist](/checklists/ib/ib-dp/economics/) tracks your progress. All data below is from Tavoria, an invented country, and is illustrative.
@@ -217,6 +219,23 @@ Tavoria: weights 50 (food), 30 (transport), 20 (other); indices 108, 102, 95. (5
 ## What these notes do not cover
 
 The business cycle, the AD-AS model and the full list of macroeconomic objectives are in the [measuring and managing the economy revision notes](/resources/ib-dp-economics-macroeconomics-measuring-revision-notes/). The relationship between unemployment and inflation (the Phillips curve), the consequences of economic growth and the objective of a sustainable level of government debt are not condensed here; use the study guide and your class notes for them.
+
+## Frequently asked questions
+
+**How do you calculate real GDP from nominal GDP?**
+Divide nominal GDP by the GDP deflator and multiply by 100. Always calculate growth from the real figures, not the nominal ones, when real growth is asked for.
+
+**What is the natural rate of unemployment?**
+The natural rate is structural plus frictional plus seasonal unemployment. It is the unemployment that remains when the economy produces at its potential output, with no cyclical unemployment.
+
+**What is the difference between disinflation and deflation?**
+Disinflation is a fall in the rate of inflation, so prices still rise but more slowly. Deflation is a sustained fall in the general price level.
+
+**Why is GDP per capita a poor measure of well-being?**
+It is an average that hides how income is distributed, leaves out unpaid work and much of the informal economy, ignores leisure and quality, counts output that damages the environment, and says nothing directly about health, education or happiness.
+
+**Why might the official unemployment rate understate true unemployment?**
+Discouraged workers who have stopped looking for work are not counted, and underemployed part-time workers who want full-time work count as employed.
 
 ## Official syllabus
 

@@ -235,6 +235,20 @@ For each policy, ask four questions: Who gains and who loses? How long will it t
 - Reaching no judgement in an evaluation answer.
 - Calculations with no working shown, or percentage changes taken from the wrong base.
 
+## Frequently asked questions
+
+**What are supply-side policies in IB DP Economics?**
+Supply-side policies try to expand what the economy can produce, or make markets more efficient, instead of changing total spending. They are sub-topic 3.7 of the IB DP Economics guide.
+
+**What is the difference between market-based and interventionist supply-side policies?**
+Market-based policies free markets and change incentives, such as deregulation, privatization and tax cuts. Interventionist policies involve the government spending or organising directly, such as education and training, health care, research and development, infrastructure and industrial policy.
+
+**What are the goals of supply-side policies?**
+The guide lists long-term growth through higher productive capacity, better competition and efficiency, lower labour costs and unemployment through labour market flexibility, lower inflation to improve competitiveness, and stronger incentives to invest in innovation.
+
+**Can supply-side policies affect aggregate demand?**
+Yes. Tax cuts raise disposable income and investment, spending on infrastructure, education or health adds to government spending, and lower prices can raise net exports, so AD can shift too.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published February 2020 by the International Baccalaureate Organization. Sub-topic 3.7, Supply-side policies, in Unit 3 Macroeconomics.

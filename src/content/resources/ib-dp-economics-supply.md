@@ -203,6 +203,23 @@ Label both axes, label the curve S (and S1, S2 after a shift), and mark the old 
 
 The guide groups command terms by objective. *Define* and *outline* ask for knowledge. *Explain* and *distinguish* ask for reasons and clear differences. *Draw* and *label* mean an accurate, labelled diagram. If a question says *calculate*, show the working. The practice set trains each. Start with the [practice questions](/resources/ib-dp-economics-supply-practice/) once you are comfortable with the diagrams, or reread the [revision notes](/resources/ib-dp-economics-supply-revision-notes/) first.
 
+## Frequently asked questions
+
+**What are the non-price determinants of supply?**
+The IB guide lists six: changes in the costs of factors of production, prices of related goods, indirect taxes and subsidies, future price expectations, changes in technology and the number of firms.
+
+**Why does the supply curve slope upward?**
+A higher price makes extra output more profitable, giving producers an incentive to offer more, and it lets producers cover the higher cost of making extra units.
+
+**What assumptions underlie the law of supply at HL?**
+The law of diminishing marginal returns and increasing marginal costs. With a fixed input, each extra unit of a variable input eventually adds less output, so marginal cost rises and producers need a higher price to supply more.
+
+**How do future price expectations affect supply?**
+If producers of a storable good expect a higher price later, they may hold back stock today, so current supply falls.
+
+**What is market supply?**
+Market supply is the sum of all firms' supplies at each price. It shifts when firms enter or leave the market as well as when non-price determinants change.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization (February 2020). Sub-topic 2.2 Supply.

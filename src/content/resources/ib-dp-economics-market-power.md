@@ -265,6 +265,23 @@ To evaluate, weigh the gains in price and output against the costs: regulators m
 
 Test yourself on the [practice questions](/resources/ib-dp-economics-market-power-practice/), and take a free 10-minute check in the [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What are the four market structures in IB DP Economics?**
+Sub-topic 2.11 covers perfect competition, monopoly, oligopoly and monopolistic competition. The last three are forms of imperfect competition, where firms have some market power.
+
+**Why is a monopoly allocatively inefficient?**
+The monopolist restricts output to where MC equals MR and charges a price above marginal cost. Consumers value the units it does not produce above their cost, so there is a welfare loss compared with perfect competition.
+
+**What is a natural monopoly?**
+A natural monopoly arises where economies of scale are so large that average cost keeps falling across the whole market demand, so one firm can supply the market at a lower cost than several firms could.
+
+**What is the difference between collusive and non-collusive oligopoly?**
+In collusive oligopoly firms agree prices or output, often secretly, and can act together like a monopoly. In non-collusive oligopoly firms compete, and each firm's best choice depends on how rivals react.
+
+**How can governments reduce the abuse of market power?**
+Through legislation and regulation, such as laws against collusion and price caps for natural monopolies, government ownership, and fines for firms that break the rules. Each has limits, such as regulators lacking cost information.
+
 ## Official syllabus
 
 IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization (February 2020), sub-topic 2.11.

@@ -119,6 +119,20 @@ Higher reserve requirement: banks must hold more of each deposit [1], so the mul
 - (HL) Forgetting to subtract the original deposit when finding new money.
 - (HL) Drawing the money supply sloping upwards.
 
+## Frequently asked questions
+
+**How do you calculate the real interest rate?**
+Subtract the inflation rate from the nominal interest rate. If inflation is higher than the nominal rate, the real rate is negative, so keep the minus sign.
+
+**How do you calculate the new money created by banks?**
+Find the maximum total deposits by multiplying the original deposit by 1 ÷ reserve ratio, then subtract the original deposit to find the new money created. Forgetting to subtract the original deposit is a common error. This is HL only.
+
+**How should the money supply be drawn in a money market diagram?**
+Draw the money supply as a vertical line, because it is set by the central bank, and the demand for money sloping downward. Drawing the money supply sloping upward loses marks. The money market is HL only.
+
+**What do IB Economics examiners look for in evaluate questions on monetary policy?**
+Weigh the constraints against the strengths and apply them to the details of the case, such as how low rates already are and how confident households are, then reach a judgement. Listing points without weighing them loses marks.
+
 ## Next steps
 
 - Review with the [revision notes](/resources/ib-dp-economics-monetary-policy-revision-notes/) and the [study guide](/resources/ib-dp-economics-monetary-policy/).
