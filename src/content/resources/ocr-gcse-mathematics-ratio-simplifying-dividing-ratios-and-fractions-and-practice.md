@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "ratio-proportion-and-rates-of-change-ocr-gcse-maths"
     subtopic: "calculations-with-ratio-ocr-gcse-maths"
-description: "Original practice questions with full worked answers on OCR GCSE Mathematics ratio: simplifying, sharing, ratios as fractions and problems."
+description: "Original practice questions with full worked answers on OCR GCSE Mathematics ratio: simplifying, sharing, ratios as fractions and problems (J560)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

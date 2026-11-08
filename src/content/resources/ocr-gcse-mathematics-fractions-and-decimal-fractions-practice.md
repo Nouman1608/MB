@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "fractions-decimals-and-percentages-ocr-gcse-maths"
     subtopic: "decimal-fractions-ocr-gcse-maths"
-description: "Original practice questions with worked answers on fractions and decimal fractions for OCR GCSE Mathematics J560, sections 2.01 and 2.02."
+description: "Original exam-style practice questions with worked answers on fractions and decimal fractions for OCR GCSE Mathematics J560, sections 2.01 and 2.02."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

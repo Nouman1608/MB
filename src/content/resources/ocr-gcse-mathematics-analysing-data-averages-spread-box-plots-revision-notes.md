@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "statistics-ocr-gcse-maths"
     subtopic: "analysing-data-ocr-gcse-maths"
-description: "Condensed revision notes on averages, quartiles, box plots, misleading graphs, scatter graphs and outliers for OCR GCSE Mathematics J560."
+description: "Condensed exam revision notes on averages, quartiles, box plots, misleading graphs, scatter graphs and outliers for OCR GCSE Mathematics J560."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

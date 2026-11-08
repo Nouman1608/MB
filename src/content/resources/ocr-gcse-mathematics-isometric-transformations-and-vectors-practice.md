@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "congruence-and-similarity-ocr-gcse-maths"
     subtopic: "plane-vector-geometry-ocr-gcse-maths"
-description: "Original practice questions with worked answers on reflections, rotations, translations, combinations and vectors for OCR GCSE Mathematics."
+description: "Original practice questions with worked answers on reflections, rotations, translations, combinations and vectors for OCR GCSE Mathematics (J560)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

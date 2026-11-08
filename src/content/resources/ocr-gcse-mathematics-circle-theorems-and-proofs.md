@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "basic-geometry-ocr-gcse-maths"
     subtopic: "circles-ocr-gcse-maths"
-description: "Study guide to OCR GCSE Mathematics J560 section 8.05: circle terms, every circle theorem and its proof, with fully worked examples."
+description: "Detailed study guide to OCR GCSE Mathematics J560 section 8.05: circle terms, every circle theorem and its proof, with fully worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

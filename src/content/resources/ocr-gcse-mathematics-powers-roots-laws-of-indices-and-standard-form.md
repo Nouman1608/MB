@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "indices-and-surds-ocr-gcse-maths"
     subtopic: "standard-form-ocr-gcse-maths"
-description: "A full study guide to powers, roots, the laws of indices and standard form, written for OCR GCSE (9-1) Mathematics, with worked examples."
+description: "A full study guide to powers, roots, the laws of indices and standard form, written for OCR GCSE (9-1) Mathematics, with worked examples (J560)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false

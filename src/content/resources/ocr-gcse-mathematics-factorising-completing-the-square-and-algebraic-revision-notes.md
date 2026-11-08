@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "algebra-ocr-gcse-maths"
     subtopic: "algebraic-expressions-ocr-gcse-maths"
-description: "Condensed revision notes for OCR GCSE Maths J560 6.01e-6.01g: factorising, completing the square and algebraic fractions, plus a self-test."
+description: "Condensed exam revision notes for OCR GCSE Maths J560 6.01e-6.01g: factorising, completing the square and algebraic fractions, plus a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-11
 featured: false
