@@ -13,13 +13,15 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-writing-9093"
-description: "Condensed recall notes on Paper 2 structure, Section A shorter writing and reflective commentary, and Section B extended writing for Cambridge International AS & A Level English Language 9093."
+description: "Condensed notes on Cambridge 9093 Paper 2 Writing: shorter writing and reflective commentary in Section A, and extended writing in Section B, with exam traps."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the [Paper 2 Writing study guide](/resources/a-level-english-language-paper-2-writing/).

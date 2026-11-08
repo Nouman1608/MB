@@ -19,13 +19,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-4-language-topics-9093"
     subtopic: "section-b-language-and-the-self-9093"
-description: "Original exam-style stimulus-based discussion questions with model response structures for English in the World and Language and the Self, for Cambridge International AS & A Level English Language (9093)."
+description: "Original stimulus-based discussion questions with model structures on English in the World and Language and the Self for Cambridge 9093 Paper 4."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 > **These are original stimulus materials and questions written for
 > Marlbridge**, for revision and practice on this content. They are **not**

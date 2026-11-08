@@ -19,13 +19,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-reading-9093"
     subtopic: "skills-and-techniques-9093"
-description: "Knowledge and understanding of textual forms and linguistic features, plus the analytical and creative reading and writing skills tested -- the full content of Paper 1 for Cambridge International AS & A Level English Language (9093)."
+description: "Cambridge International AS & A Level English Language 9093 Paper 1 Reading: textual forms, linguistic features, directed response and text analysis skills."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 This guide covers **Paper 1 Reading**, one of two AS Level papers in

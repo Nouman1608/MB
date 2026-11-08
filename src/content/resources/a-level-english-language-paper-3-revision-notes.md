@@ -19,13 +19,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-3-language-analysis-9093"
     subtopic: "section-b-child-language-acquisition-9093"
-description: "Condensed recall notes on language change processes and the stages and theories of child language acquisition for Cambridge International AS & A Level English Language 9093, Paper 3 Language Analysis."
+description: "Condensed notes on Cambridge 9093 Paper 3 Language Analysis: processes and theories of language change, and the stages and theories of child language learning."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the [Paper 3 Language Analysis study guide](/resources/a-level-english-language-paper-3-language-analysis/).

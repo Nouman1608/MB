@@ -23,7 +23,7 @@ reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: thin page expanded (direct-answer opening, worked 1(b) comparison, timing, FAQ); facts checked against the 2024-26 syllabus; please re-review."
+reviewNote: "2026-11-08 recheck: thin page expanded (direct-answer opening, worked 1(b) comparison, timing, FAQ, description shortened); facts checked against the 2024-26 syllabus; please re-review."
 ---
 
 **What is Cambridge 9093 Paper 1?** Paper 1 Reading is a 2 hour 15 minute AS Level paper worth 50

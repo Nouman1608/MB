@@ -19,13 +19,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-4-language-topics-9093"
     subtopic: "section-b-language-and-the-self-9093"
-description: "Condensed recall notes on English in the World and Language and the Self for Cambridge International AS & A Level English Language 9093, Paper 4 Language Topics."
+description: "Condensed notes on Cambridge A Level English Language 9093 Paper 4 Language Topics: English in the World and Language and the Self, with key models."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the [Paper 4 Language Topics study guide](/resources/a-level-english-language-paper-4-language-topics/).

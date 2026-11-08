@@ -19,13 +19,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-4-language-topics-9093"
     subtopic: "section-b-language-and-the-self-9093"
-description: "English as a global language and its varieties, including Kachru's Three Circles model and creolisation, and how language shapes and reflects social identity, for Cambridge International AS & A Level English Language (9093) Paper 4."
+description: "Cambridge 9093 Paper 4 Language Topics: English as a global language, Kachru's Three Circles, pidgins and creoles, and how language shapes identity."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 This guide covers **Paper 4 Language Topics**, the second of the two A Level-only papers in Cambridge International AS & A Level English Language (9093), sitting alongside Paper 3 Language Analysis to complete the full A Level.

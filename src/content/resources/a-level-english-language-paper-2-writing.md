@@ -13,13 +13,15 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-writing-9093"
-description: "Section A shorter writing and reflective commentary, and Section B extended writing -- the full assessment structure of Paper 2 for Cambridge International AS & A Level English Language (9093)."
+description: "Cambridge International AS & A Level English Language 9093 Paper 2 Writing: shorter writing, reflective commentary and extended writing, with the full format."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 This guide covers **Paper 2 Writing**, the second of the two AS Level papers in Cambridge International AS & A Level English Language (9093). Where Paper 1 tests reading and analysis, Paper 2 tests production: writing to a brief, then reflecting on your own choices, followed by a longer piece of extended writing.
