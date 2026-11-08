@@ -184,6 +184,20 @@ Relative atomic masses: N 14.0; H 1.0; O 16.0; C 12.0. Any further data is given
 - [Book a free trial class](/trial/)
 - Find your weakest topic with the free [diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry aromatic compounds questions from past papers?**
+No. They are original practice questions with marked answers on section 6.1.1 of OCR A Level Chemistry A (H432).
+
+**What conditions are needed to nitrate benzene and phenol?**
+Benzene needs concentrated nitric acid and concentrated sulfuric acid. Phenol reacts with dilute nitric acid, without sulfuric acid.
+
+**Does phenol react with sodium carbonate?**
+No. Phenol is a weak acid that reacts with sodium hydroxide, but it does not react with sodium carbonate and gives no effervescence.
+
+**How should you explain why phenol reacts more readily than benzene?**
+Explain it in terms of electron density: the OH group increases the electron density of the ring, so it is more susceptible to electrophilic attack. Explaining it by intermediate stability is a common way to lose marks.
+
 ## Official syllabus
 
 Questions set on OCR A Level Chemistry A (H432), specification Version 3.1 (May 2026), for first assessment in 2017, published by OCR: section 6.1.1 Aromatic compounds, learning outcomes (a) to (l).

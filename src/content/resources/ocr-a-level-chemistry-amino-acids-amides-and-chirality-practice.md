@@ -190,6 +190,20 @@ Data for all questions:
 - Every OCR chemistry topic: [the H432 topic hub](/boards/ocr/a-level/chemistry/)
 - Tick off outcomes: [H432 printable checklist](/checklists/ocr/a-level/chemistry/)
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry amino acids and chirality questions from past papers?**
+No. They are original practice questions with worked answers on section 6.2.2 of OCR A Level Chemistry A (H432).
+
+**What is the general formula of an α-amino acid?**
+The general formula is RCH(NH₂)COOH. Writing NH₃ instead of NH₂ is a common mistake.
+
+**Where do acids and alkalis react on an amino acid?**
+Hydrochloric acid reacts at the NH₂ group and sodium hydroxide reacts at the COOH group. Showing them at the wrong groups loses marks.
+
+**How should you calculate percentage yield in these questions?**
+Use moles, not masses. Convert the masses of reactant and product to moles and compare them using the ratio in the equation.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 6.2.2 Amino acids, amides and chirality, learning outcomes (a)(i)–(ii), (b), (c) and (d). Published by OCR.

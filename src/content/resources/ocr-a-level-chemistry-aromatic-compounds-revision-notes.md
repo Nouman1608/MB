@@ -258,6 +258,20 @@ For the contrast with electrophilic addition to C=C, revisit [alkenes for OCR](/
 </figure>
 
 
+## Frequently asked questions
+
+**What is a halogen carrier in OCR A Level Chemistry?**
+A halogen carrier, such as Fe, FeBr₃, FeCl₃, AlCl₃ or AlBr₃, generates the stronger electrophile needed for halogenation of benzene. It is regenerated at the end of the reaction.
+
+**Which groups direct to the 2- and 4-positions on a benzene ring?**
+OH and NH₂ groups donate electron density and direct incoming groups to the 2- and 4-positions. NO₂ withdraws electron density and directs to the 3-position.
+
+**How can you tell phenol from a carboxylic acid?**
+Both react with sodium hydroxide, but only the carboxylic acid reacts with sodium carbonate to give effervescence.
+
+**What is the difference between Friedel–Crafts alkylation and acylation?**
+Alkylation uses a haloalkane and gives an alkylbenzene. Acylation uses an acyl chloride and gives a phenyl ketone.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432), specification Version 3.1 (May 2026), for first assessment in 2017, published by OCR: section 6.1.1 Aromatic compounds, learning outcomes (a) to (l).

@@ -251,6 +251,23 @@ The haloalkane keeps the carbon skeleton and the position of the functional grou
 
 Next: the [revision notes](/resources/ocr-a-level-chemistry-alcohols-revision-notes/), then the [practice questions](/resources/ocr-a-level-chemistry-alcohols-practice/). For mole and yield methods, see the [amount of substance guide](/resources/ocr-a-level-chemistry-amount-of-substance/).
 
+## Frequently asked questions
+
+**How do you classify an alcohol as primary, secondary or tertiary?**
+Count the carbon atoms bonded to the carbon that carries the OH group: one makes it primary, two secondary and three tertiary. Counting hydrogens instead of carbons is a common error.
+
+**Why are small alcohols soluble in water?**
+The –OH group can form hydrogen bonds with water molecules, which is why small alcohols dissolve.
+
+**Does the O–H bond break when an alcohol boils?**
+No. Boiling breaks the hydrogen bonds between alcohol molecules, not the covalent bonds within them.
+
+**Why can dehydration of an alcohol give more than one alkene?**
+If the C–OH carbon has two different neighbouring carbons carrying hydrogen atoms, the H can be lost from either, giving different alkenes. Missing the second alkene is a common error.
+
+**What is the oxidising agent used for alcohols in OCR A Level Chemistry?**
+The usual oxidising agent is acidified dichromate, Cr₂O₇²⁻/H⁺, made from potassium dichromate and sulfuric acid. The test-tube test links to PAG7.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 4.2.1 Alcohols, learning outcomes (a) to (e). Published by OCR.

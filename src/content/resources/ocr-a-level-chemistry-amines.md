@@ -244,6 +244,23 @@ To put NH₂ on a benzene ring, use the nitroarene route, not ammonia substituti
 - Moles and percentage yield: [Amount of substance](/resources/ocr-a-level-chemistry-amount-of-substance/)
 - Find your gaps: [free diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**Why is excess ammonia used to make a primary amine?**
+The primary amine product also has a lone pair, so it can act as a nucleophile and substitute again. A large excess of ammonia makes it more likely that the haloalkane reacts with ammonia, favouring the primary amine.
+
+**Why is the ammonia reaction carried out in a sealed tube?**
+Ammonia is volatile, so the sealed tube stops it escaping when the mixture is heated.
+
+**Why is sodium hydroxide added after reducing a nitroarene?**
+In concentrated hydrochloric acid the amine forms as its protonated ion, ArNH₃⁺. Hydroxide ions remove the extra proton to release the free aromatic amine.
+
+**Can you make phenylamine from a halobenzene and ammonia?**
+No. Aromatic amines are made by reducing a nitroarene with tin and concentrated hydrochloric acid, not by ammonia substitution.
+
+**Is there another route to primary amines in H432?**
+Yes. Nitriles can be reduced to primary amines, for example with hydrogen and a nickel catalyst, in section 6.2.4. This route adds one carbon to the chain.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 6.2.1 Amines, learning outcomes (a) and (b)(i)–(ii). Published by OCR.

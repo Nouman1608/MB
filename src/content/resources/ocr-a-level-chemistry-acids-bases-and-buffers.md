@@ -275,6 +275,23 @@ PAG11 covers pH measurement, for example identifying unknown solutions. Good tec
 - In a (j)(ii) buffer, using the starting moles of acid, not the moles left.
 - Saying a buffer keeps the pH constant: it only minimises the change.
 
+## Frequently asked questions
+
+**What is the difference between monobasic, dibasic and tribasic acids?**
+Basicity is the number of protons one molecule of the acid can donate. HCl and CH₃COOH are monobasic, H₂SO₄ is dibasic and H₃PO₄ is tribasic.
+
+**Which indicator should you use for a weak acid–strong base titration?**
+Phenolphthalein, because its colour change range falls inside the steep section of the curve. For a strong acid–weak base titration use methyl orange; for a weak acid–weak base titration no indicator is suitable.
+
+**How do you find pKa from a titration curve?**
+When a weak acid is titrated with a strong base, the pH halfway to the equivalence point equals the pKa of the acid.
+
+**How does a buffer respond to added acid?**
+The extra H⁺ combines with the conjugate base, such as CH₃COO⁻, so the equilibrium shifts to the left and the pH changes very little.
+
+**What is the most common mistake in partial-neutralisation buffer calculations?**
+Using the starting moles of weak acid instead of the moles left after the alkali has reacted.
+
 ## Official syllabus
 
 Source document: OCR A Level Chemistry A (code H432), specification Version 3.1 dated May 2026; first assessment 2017. This page follows section 5.1.3 Acids, bases and buffers, in Module 5: Physical chemistry and transition elements.

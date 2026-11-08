@@ -241,6 +241,20 @@ Count products by grouping equivalent carbons. Do not count carbon 1 and carbon 
 - Background: [Bonding and structure](/resources/ocr-a-level-chemistry-bonding-and-structure/) and [Amount of substance](/resources/ocr-a-level-chemistry-amount-of-substance/)
 - Check yourself across the course: [free diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**Why do branched alkanes have lower boiling points than straight-chain isomers?**
+Isomers have the same number of electrons, but branched molecules are more compact, so there are fewer points of surface contact. The London forces are weaker and less energy is needed to overcome them.
+
+**Why does boiling point increase with chain length in alkanes?**
+Each extra CH₂ group adds electrons and surface area, giving larger instantaneous and induced dipoles and stronger London forces between the molecules.
+
+**What is the difference between complete and incomplete combustion?**
+Complete combustion happens in a plentiful supply of oxygen and gives carbon dioxide and water. Incomplete combustion happens in a limited supply of oxygen and gives carbon monoxide or carbon, and water.
+
+**What is a common mistake in the first propagation step?**
+Writing H• instead of the hydrogen halide. In the first propagation step the halogen radical removes a hydrogen atom from the alkane to form HBr or HCl.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 4.1.2 Alkanes, learning outcomes (a) to (g). Published by OCR.

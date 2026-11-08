@@ -218,6 +218,20 @@ Example: heptan-1-ol gives 1-bromoheptane, CH₃(CH₂)₆Br.
 </figure>
 
 
+## Frequently asked questions
+
+**Why is the aldehyde distilled off when a primary alcohol is oxidised?**
+Distillation removes the aldehyde from the oxidising agent as it forms. Heating under reflux keeps it in the flask, so it is oxidised further to a carboxylic acid.
+
+**Why do aldehydes boil at a lower temperature than the alcohols they come from?**
+Aldehydes have no O–H group, so there is no hydrogen bonding between their molecules.
+
+**Why are tertiary alcohols not oxidised by acidified dichromate?**
+There is no hydrogen atom on the carbon bonded to the OH group, so it cannot be removed in oxidation.
+
+**Do you need the mechanism for alcohol dehydration in OCR A Level Chemistry?**
+No. Dehydration with a concentrated phosphoric or sulfuric acid catalyst and heat is required, but the mechanism is not, and nor is the mechanism for substitution to haloalkanes.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 4.2.1 Alcohols, learning outcomes (a) to (e). Published by OCR.

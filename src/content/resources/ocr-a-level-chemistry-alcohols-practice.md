@@ -187,6 +187,20 @@ Wherever a calculation needs them, take Aᵣ as H 1.0, C 12.0 and O 16.0.
 - Printable checklist: [OCR A Level Chemistry checklist](/checklists/ocr/a-level/chemistry/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry alcohols questions from past papers?**
+No. They are original questions with marked answers on section 4.2.1 of OCR A Level Chemistry A (H432), written for revision.
+
+**How do you compare the boiling points of an alcohol and an alkane fairly?**
+Choose an alkane with a similar relative molecular mass, so that the London forces are matched and the difference comes from hydrogen bonding in the alcohol.
+
+**What should you write when a tertiary alcohol is heated with acidified dichromate?**
+Give the observation: the solution stays orange. Writing only "no reaction" without the observation loses the mark.
+
+**Which reagents make a bromoalkane from an alcohol?**
+Use sodium bromide with sulfuric acid, which generate HBr in situ, and heat. Naming bromine as the reagent is a common mistake.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 4.2.1 Alcohols, learning outcomes (a) to (e). Published by OCR.

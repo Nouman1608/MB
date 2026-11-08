@@ -176,6 +176,20 @@ Route B: 1-bromopentane is converted into a nitrile with cyanide ions, then the 
 - Printable checklist: [OCR A Level Chemistry checklist](/checklists/ocr/a-level/chemistry/)
 - Book a free trial class: [/trial/](/trial/)
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry amines questions from past papers?**
+No. They are original practice questions with marked worked answers on section 6.2.1 of OCR A Level Chemistry A (H432).
+
+**What ratio does an amine react with sulfuric acid in?**
+Two amine molecules react with one sulfuric acid molecule, because H₂SO₄ supplies two protons. Using a 1 : 1 ratio is a common error.
+
+**What conditions are needed to make an amine from a haloalkane and ammonia?**
+Use excess ammonia dissolved in ethanol and heat. Writing "ammonia, heat" without "excess" or "ethanol" does not earn full marks.
+
+**What reagents reduce a nitroarene to an aromatic amine?**
+Tin and concentrated hydrochloric acid heated under reflux, followed by excess aqueous sodium hydroxide. Leaving out "concentrated" or the NaOH step loses marks.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 6.2.1 Amines, learning outcomes (a) and (b)(i)–(ii). Published by OCR.

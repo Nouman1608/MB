@@ -160,6 +160,20 @@ Final step: propylamine reacts with butanoyl chloride to give N-propylbutanamide
 - Find weak areas: [all free 10-minute diagnostics](/diagnostics/)
 - Prefer live help? [Book a free trial class](/trial/) and work through routes with a tutor.
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry organic synthesis questions from past papers?**
+No. They are original questions with marked answers, written for section 6.2.5 of OCR A Level Chemistry A (H432).
+
+**What wording is needed to describe recrystallisation for full marks?**
+Say that the solid is dissolved in the minimum volume of hot solvent, and that the crystals are washed with a little ice-cold solvent. Leaving out "minimum" or "hot", or washing with warm solvent, loses marks.
+
+**How does an impure sample's melting point differ from a pure one?**
+An impure sample melts at a lower temperature and over a wider range. Saying it melts higher, or ignoring the range, is a common error.
+
+**How do you make an amine with one more carbon than the haloalkane?**
+Use the nitrile route, reacting the haloalkane with cyanide ions in ethanol and then reducing the nitrile. Ammonia gives an amine with the same number of carbons.
+
 ## Official syllabus
 
 Aligned to section 6.2.5 (Organic synthesis, outcomes (a) to (c)) of OCR's H432 A Level Chemistry A specification, issued as Version 3.1 in May 2026 for the course first examined in 2017. Published by OCR.

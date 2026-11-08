@@ -31,7 +31,9 @@ syllabusTopics:
 description: "Physical and chemical properties of metals, the reactivity series, and corrosion and its prevention, for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
@@ -278,6 +280,20 @@ terms of electron transfer
 - Conditions needed for rusting, and how barrier methods prevent it
 - *(0620 Extended, 5070 required)* sacrificial protection, explained in
 terms of reactivity and electron loss
+
+## Frequently asked questions
+
+**Which metals react with cold water in Cambridge IGCSE 0620?**
+Potassium, sodium and calcium react with cold water. Magnesium reacts noticeably only with steam, and copper, silver and gold do not react with cold water or steam.
+
+**What conditions are needed for iron to rust?**
+Rusting needs both oxygen and water. Barrier methods such as painting, greasing or coating prevent rusting by excluding oxygen and water from the surface.
+
+**How does galvanising protect steel?**
+Galvanising coats steel with zinc. It acts as a barrier and also gives sacrificial protection: zinc is more reactive than iron, so it corrodes instead even when the coating is scratched.
+
+**Why does aluminium seem unreactive?**
+Aluminium is above zinc and iron in the reactivity series, but it is covered by a protective oxide layer that stops it reacting. This explanation is 0620 Extended content and required for O Level 5070.
 
 ## Related resources
 

@@ -12,10 +12,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "ocr-a-level-chemistry-foundations-in-chemistry"
     subtopic: "ocr-a-level-chemistry-2-1-3"
-description: "The mole and Avogadro constant, empirical and molecular formulae, hydrated salts, mole calculations from mass, gas volume and concentration, the ideal gas equation, and percentage yield and atom economy, for OCR A Level Chemistry A H432, Module 2.1.3."
+description: "OCR A Level Chemistry A H432 2.1.3 guide: the mole, empirical and molecular formulae, hydrated salts, gas volumes, pV = nRT, percentage yield and atom economy."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
@@ -235,6 +237,20 @@ molar gas volume
 - Mole calculations from mass, gas volume, and solution concentration
 - The ideal gas equation pV = nRT, with correct SI units
 - Percentage yield vs atom economy — what each one actually measures
+
+## Frequently asked questions
+
+**What is atom economy in OCR A Level Chemistry?**
+Atom economy is the stoichiometric mass of the desired product divided by the total stoichiometric mass of the reactants, multiplied by 100. It is calculated from the balanced equation alone.
+
+**What is the most common error with the ideal gas equation?**
+Forgetting to convert units before using pV = nRT. Volume must be in m³, pressure in Pa and temperature in K, or the answer can be wrong by a large factor.
+
+**Which components of H432 test amount of substance?**
+Module 2.1.3 underpins calculations in all three written components of OCR A Level Chemistry A.
+
+**How are masses measured in amount of substance practicals?**
+Mass is measured by difference: weigh a container before and after adding or removing a substance, or before and after heating. These PAG1 techniques are examined directly.
 
 ## Related resources
 

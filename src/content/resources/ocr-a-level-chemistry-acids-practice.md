@@ -157,6 +157,23 @@ Mass concentration = 0.852 × 17.0 = **14.5 g dm⁻³** [1]
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry 2.1.4 Acids questions from past papers?**
+No. They are original practice questions with worked answers on section 2.1.4 of OCR A Level Chemistry A (H432).
+
+**How should you describe a weak acid for the mark?**
+Say that it is partially dissociated in water. Describing it as "low concentration" or "less acidic" does not earn the mark.
+
+**Should the rough titre be included in the mean?**
+No. The rough titre is a guide only, so average just the accurate titres that agree closely.
+
+**What is a back titration mistake to avoid?**
+Subtracting the wrong way round, or using the moles from the titre directly as the moles of the substance being analysed.
+
+**Why do you need to scale up in some titration answers?**
+If only an aliquot, such as 25.0 cm³, of a made-up solution was titrated, multiply up to the full volume of solution that was made.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 2.1.4 Acids, learning outcomes (a) to (e), with additional guidance PAG2 and HSW4. Published by OCR.

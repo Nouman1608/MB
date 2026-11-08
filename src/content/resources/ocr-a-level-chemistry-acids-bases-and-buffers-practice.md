@@ -205,6 +205,20 @@ Immerse the bulb, stir gently and record the value only when the reading is stea
 - Try a [free 10-minute diagnostic](/diagnostics/) on your weakest topics.
 - [Book a free trial class](/trial/) and work through buffers or titration curves with one of our chemistry teachers.
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry acids, bases and buffers questions from past papers?**
+No. They are original questions with marked worked answers on section 5.1.3 of OCR A Level Chemistry A (H432), written for revision.
+
+**How do you calculate the pH of a strong base?**
+Work out [OH⁻] first, then use Kw to find [H⁺] and take −log[H⁺]. Using −log[OH⁻] as the pH is a common error, and for group 2 hydroxides such as Ba(OH)₂ you must double [OH⁻].
+
+**What approximations are made in weak acid pH calculations?**
+State both approximations from the specification rather than just "the acid is weak": that [H⁺] equals [A⁻], and that the equilibrium concentration of the acid is approximately its starting concentration because dissociation is small.
+
+**Do pH, pKa and Ka have units?**
+pH and pKa have no units. Ka has units of mol dm⁻³, and leaving them off or giving units to pH or pKa loses marks.
+
 ## Official syllabus
 
 Source document: OCR A Level Chemistry A (code H432), specification Version 3.1 dated May 2026; first assessment 2017. These questions follow section 5.1.3 Acids, bases and buffers, in Module 5: Physical chemistry and transition elements.

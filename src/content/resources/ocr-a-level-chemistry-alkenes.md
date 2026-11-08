@@ -245,6 +245,23 @@ Cheap oil-derived polymers are unreactive, so they persist in landfill. Processi
 - Shapes and bond angles: [Bonding and structure](/resources/ocr-a-level-chemistry-bonding-and-structure/)
 - Check your understanding: [free diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**What is the difference between a σ-bond and a π-bond in an alkene?**
+A σ-bond forms by direct overlap of orbitals between the two carbon nuclei. A π-bond forms by sideways overlap of a p-orbital on each carbon, with electron density above and below the line joining the nuclei, and it prevents rotation.
+
+**What two conditions are needed for E/Z isomerism?**
+There must be restricted rotation about a C=C bond, and each carbon of the double bond must carry two different groups. A molecule with =CH₂ at one end, such as but-1-ene, has no E/Z isomers.
+
+**What does Markownikoff's rule predict?**
+In addition of H–X to an unsymmetrical alkene, the major product comes from the more stable carbocation intermediate. Compare the possible carbocations to decide which carbon the halogen ends up on.
+
+**How can waste polymers be processed?**
+Waste polymers can be burned for energy, broken down into small molecules used as an organic feedstock, or treated to remove toxic products such as the hydrogen chloride released when PVC burns.
+
+**What is the bond angle around a C=C carbon?**
+The bond angle around each carbon of a C=C bond is 120°. Giving 109.5° is a common error.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 4.1.3 Alkenes, learning outcomes (a) to (l). Published by OCR.

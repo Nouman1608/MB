@@ -240,6 +240,20 @@ Step 2 is needed because phenol is not readily esterified by a carboxylic acid.
 - Techniques across the course: [PAG and endorsement techniques](/resources/ocr-a-level-chemistry-practical-skills-practical-endorsement/)
 - Check your gaps: [diagnostic quizzes](/diagnostics/)
 
+## Frequently asked questions
+
+**What does section 6.2.5 cover in OCR A Level Chemistry A?**
+It covers organic preparation and purification of organic solids (6.2.5(a)), molecules with several functional groups (6.2.5(b)) and multi-stage synthetic routes (6.2.5(c)). It extends the Module 4 synthesis section, 4.2.3.
+
+**How does filtration under reduced pressure work?**
+A Büchner funnel with a flat filter paper sits in a side-arm flask connected to a vacuum source such as a water pump. It is faster than gravity filtration and leaves a drier solid.
+
+**How is melting point used to check purity?**
+A pure substance melts sharply, over about 1 °C, close to its known value. Impurities lower the melting point and spread melting over several degrees.
+
+**Can an exam paper give you a reaction that is not in the specification?**
+Yes. A paper may supply an unfamiliar reaction to use in a multi-stage route, and you should use it exactly as given.
+
 ## Official syllabus
 
 Aligned to section 6.2.5 (Organic synthesis, outcomes (a) to (c)) of OCR's H432 A Level Chemistry A specification, issued as Version 3.1 in May 2026 for the course first examined in 2017. Published by OCR.

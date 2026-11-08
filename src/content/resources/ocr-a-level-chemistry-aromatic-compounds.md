@@ -268,6 +268,20 @@ Order matters in synthesis (6.2.5): the right sequence gives the target isomer a
 - Compare electrophilic addition: [OCR alkenes study guide](/resources/ocr-a-level-chemistry-alkenes/)
 - Find weak spots: [Marlbridge diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**What is the difference between the Kekulé and delocalised models of benzene?**
+The Kekulé model has three C=C double bonds and three C–C single bonds. In the delocalised model each carbon's p-orbital overlaps sideways with both neighbours, so six π-electrons are spread over all six carbons above and below the ring.
+
+**Why does benzene not decolourise bromine water like an alkene?**
+Benzene's π-electrons are delocalised around the ring, so its electron density is lower than that of a C=C bond in an alkene. It needs a halogen carrier to react with bromine.
+
+**What happens when phenol reacts with bromine water?**
+Bromine water is decolourised at room temperature and a white precipitate of 2,4,6-tribromophenol forms. The mole ratio of phenol to bromine is 1 : 3.
+
+**How do directing groups affect a synthesis plan?**
+The order of steps matters. To make 1-bromo-3-nitrobenzene from benzene, nitrate first and then brominate, because the NO₂ group directs bromine to the 3-position.
+
 ## Official syllabus
 
 OCR A Level Chemistry A (H432), specification Version 3.1 (May 2026), for first assessment in 2017, published by OCR: section 6.1.1 Aromatic compounds, learning outcomes (a) to (l).

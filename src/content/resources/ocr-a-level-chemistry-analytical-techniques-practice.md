@@ -165,6 +165,23 @@ Revise first with the [Analytical techniques study guide](/resources/ocr-a-level
 - Whole-course check: [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are these OCR A Level Chemistry analytical techniques questions from past papers?**
+No. They are original practice questions with marked answers on section 4.2.4 of OCR A Level Chemistry A (H432).
+
+**Can the C–H absorption in an IR spectrum identify a functional group?**
+No. Almost every organic molecule has C–H bonds, so the absorption near 3000 cm⁻¹ is not evidence for a functional group.
+
+**How do you tell an alcohol from a carboxylic acid in an IR spectrum?**
+State which O–H range the absorption is in: the alcohol O–H range, or the very broad O–H range of a carboxylic acid. Quoting "O–H" without the range is not enough.
+
+**How do you explain how greenhouse gases absorb IR radiation?**
+Name the bond that absorbs infrared, such as C=O, O–H or C–H. Saying greenhouse gases "trap heat" without the bond loses marks.
+
+**What is the molecular ion peak in a mass spectrum?**
+The molecular ion peak gives the molar mass of the compound. Do not mistake the small M+1 peak next to it for the molecular ion.
+
 ## Official syllabus
 
 Source document: OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 4.2.4 Analytical techniques, learning outcomes (a) to (h). Published by OCR.
