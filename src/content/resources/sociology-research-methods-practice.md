@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-research-methods-identity-inequality-0495"
+  - qualification: "igcse"
+    topic: "paper-1-research-methods-identity-inequality-0495"
+    subtopic: "kq-1-2-0495"
+  - qualification: "igcse"
+    topic: "paper-1-research-methods-identity-inequality-0495"
+    subtopic: "kq-1-3-0495"
 description: "Original exam-style practice questions with full worked answers on methods, sampling, reliability, validity, ethics and official statistics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22

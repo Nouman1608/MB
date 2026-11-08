@@ -13,6 +13,12 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-exploring-sociology-9690"
+  - qualification: "a-level"
+    topic: "unit-2-exploring-sociology-9690"
+    subtopic: "social-control-9690"
+  - qualification: "a-level"
+    topic: "unit-2-exploring-sociology-9690"
+    subtopic: "research-methods-and-theory-9690"
 description: "Condensed recall notes on agencies of socialisation, formal and informal social control, and positivist vs interpretivist method choice for OxfordAQA A-Level Sociology (9690) Unit 2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03

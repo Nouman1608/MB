@@ -12,6 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-introductory-topics-7182"
+  - qualification: "a-level"
+    topic: "paper-1-introductory-topics-7182"
+    subtopic: "social-influence-7182"
+  - qualification: "a-level"
+    topic: "paper-1-introductory-topics-7182"
+    subtopic: "attachment-7182"
+  - qualification: "a-level"
+    topic: "paper-1-introductory-topics-7182"
+    subtopic: "clinical-psychology-and-mental-health-7182"
 description: "Condensed recall notes on social influence, memory, attachment, and clinical psychology and mental health for AQA A Level Psychology 7182."
 author: "marlbridge-academic-team"
 specCheck:

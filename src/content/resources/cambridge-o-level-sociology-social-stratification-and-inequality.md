@@ -12,6 +12,9 @@ order: 3
 syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-research-methods-identity-inequality-2251"
+  - qualification: "o-level"
+    topic: "paper-1-research-methods-identity-inequality-2251"
+    subtopic: "kq-3-1-2251"
 description: "Class, gender, ethnicity and life chances -- Topic 3, Social Stratification and Inequality, given a full deep dive beyond the connective overview treatment in the site's existing whole-Paper-1 study guide."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-09

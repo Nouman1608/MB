@@ -12,6 +12,18 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "paper-1-cognition-and-behaviour-8182"
+  - qualification: "gcse"
+    topic: "paper-1-cognition-and-behaviour-8182"
+    subtopic: "memory-8182"
+  - qualification: "gcse"
+    topic: "paper-1-cognition-and-behaviour-8182"
+    subtopic: "perception-8182"
+  - qualification: "gcse"
+    topic: "paper-1-cognition-and-behaviour-8182"
+    subtopic: "development-8182"
+  - qualification: "gcse"
+    topic: "paper-1-cognition-and-behaviour-8182"
+    subtopic: "research-methods-8182"
 description: "Original exam-style practice questions with full worked answers on memory, perception, development and research methods."
 author: "marlbridge-academic-team"
 specCheck:
@@ -73,6 +85,20 @@ Related: [Cognition and Behaviour revision notes](/resources/gcse-psychology-cog
 
 ---
 
+## Section D — perception and development
+
+**10.** Identify **two** monocular depth cues and explain how **one** of them helps us judge distance. **[3]**
+
+**11.** Describe the Bruner and Minturn study of perceptual set and state what it shows. **[4]**
+
+**12.** Outline what Piaget meant by **assimilation** and **accommodation**. **[4]**
+
+**13.** Describe the 'naughty teddy' study by McGarrigle and Donaldson and explain how its findings challenge Piaget's theory. **[5]**
+
+**14.** A teacher praises a student by saying "You are so clever." Using Dweck's Mindset Theory, explain why praising effort might be better. **[3]**
+
+---
+
 ## Answers
 
 **1. Sensory register** — capacity is **very large**, duration **under 2 seconds** [1] [1]. **Short-term memory** — capacity about **7 ± 2 items**, duration about **18–30 seconds** [1] [1]. **Long-term memory** — capacity **potentially unlimited**, duration **potentially a lifetime** [1] [1].
@@ -100,6 +126,16 @@ Related: [Cognition and Behaviour revision notes](/resources/gcse-psychology-cog
 **(b)** A plausible third variable, such as **general health or motivation**, could independently drive both more sleep and higher test scores [2].
 
 **(c)** Any three: **informed consent**; **right to withdraw**; **protection from harm**; **confidentiality**; **debriefing** [3].
+
+**10.** Any two of: **height in plane**, **relative size**, **occlusion**, **linear perspective** [1] [1]. One explained, for example: in **linear perspective** parallel lines such as the edges of a road appear to **converge** as they get further away, so the point where they meet is perceived as distant [1]; or with **relative size**, of two objects assumed to be the same size, the one that produces the smaller image is perceived as further away [1].
+
+**11.** Participants were shown an **ambiguous figure** that could be read as the letter **"B"** or the number **"13"** [1]. Those who saw it in a sequence of **letters** tended to report a "B", while those who saw it among **numbers** tended to report "13" [1] [1]. This shows **perceptual set**: **expectation created by context** influences what we perceive [1].
+
+**12.** **Assimilation** is fitting new information into an **existing schema** without changing it [1] [1], for example a child calling any four-legged animal a dog. **Accommodation** is **changing an existing schema or creating a new one** when new information does not fit [1] [1], for example learning that a cat is a different animal from a dog.
+
+**13.** Young children were given Piaget's **number conservation** task with two rows of counters [1]. In one condition the experimenter deliberately spread out one row; in the other, a **"naughty teddy"** glove puppet messed up the row as if by accident [1]. **Far more children conserved** — said the rows still had the same number — when the change was made by the teddy [1]. This suggests children can conserve **earlier than Piaget claimed** [1], and that in his version the deliberate change by an adult may have led children to think the answer was expected to change, so Piaget **underestimated** young children's abilities [1].
+
+**14.** Saying "you are so clever" praises **fixed ability**, which encourages a **fixed mindset**, so the student may avoid challenges in case failure shows they are not clever after all [1]. Praising **effort** ("you worked hard on that") encourages a **growth mindset** — the belief that ability can be developed [1] — so the student is more likely to persist after setbacks and **build self-efficacy** [1].
 
 ---
 

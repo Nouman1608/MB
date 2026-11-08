@@ -13,6 +13,15 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-the-family-9699"
+  - qualification: "a-level"
+    topic: "paper-2-the-family-9699"
+    subtopic: "perspectives-role-of-family-9699"
+  - qualification: "a-level"
+    topic: "paper-2-the-family-9699"
+    subtopic: "diversity-and-social-change-9699"
+  - qualification: "a-level"
+    topic: "paper-2-the-family-9699"
+    subtopic: "gender-equality-family-life-9699"
 description: "Original practice questions with full worked answers covering perspectives on the family, diversity and social change, and gender and age within family life, for Cambridge AS & A Level Sociology Paper 2 (9699)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

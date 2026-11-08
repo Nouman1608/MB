@@ -12,6 +12,9 @@ order: 2
 syllabusTopics:
   - qualification: "gcse"
     topic: "paper-1-cognition-and-behaviour-8182"
+  - qualification: "gcse"
+    topic: "paper-1-cognition-and-behaviour-8182"
+    subtopic: "research-methods-8182"
 description: "Hypotheses, sampling, experimental design and data handling -- Section 3.1.4 Research Methods within Paper 1 (Cognition and Behaviour), distinct from the site's existing whole-paper guide, which also covers Memory, Perception and Development."
 author: "marlbridge-academic-team"
 specCheck:

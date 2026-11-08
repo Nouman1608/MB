@@ -12,6 +12,21 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-cognition-and-behaviour-9218"
+  - qualification: "igcse"
+    topic: "paper-1-cognition-and-behaviour-9218"
+    subtopic: "memory-9218"
+  - qualification: "igcse"
+    topic: "paper-1-cognition-and-behaviour-9218"
+    subtopic: "perception-9218"
+  - qualification: "igcse"
+    topic: "paper-1-cognition-and-behaviour-9218"
+    subtopic: "biopsychology-9218"
+  - qualification: "igcse"
+    topic: "paper-1-cognition-and-behaviour-9218"
+    subtopic: "research-methods-9218"
+  - qualification: "igcse"
+    topic: "paper-2-social-context-and-behaviour-9218"
+    subtopic: "research-methods-paper2-9218"
 description: "Memory, perception, biopsychology, and research methods -- the full content of Paper 1 Cognition and Behaviour for OxfordAQA International GCSE Psychology (9218)."
 author: "marlbridge-academic-team"
 specCheck:
@@ -130,6 +145,11 @@ Neurological damage -- for example from a stroke or head injury -- can affect mo
 ## Research methods
 
 Research methods: experiments (laboratory, field, natural), observation, self-report and correlation. Key terms are the independent and dependent variables, extraneous variables, and the distinction between **reliability** (consistency) and **validity** (measuring what is intended). A **null hypothesis** predicts no effect or relationship between variables; an **alternative hypothesis** predicts that there will be one.
+
+- **Sampling:** **random** sampling gives everyone in the target population an equal chance of selection; **opportunity** sampling uses whoever is available (quick, but often unrepresentative); **systematic** sampling takes every nth person from a list; **stratified** sampling selects from subgroups in proportion to their size in the population.
+- **Experimental designs:** **independent groups** (different participants in each condition, so no order effects but participant variables differ), **repeated measures** (the same participants in every condition, so order effects must be controlled by **counterbalancing**) and **matched pairs** (participants matched on a relevant characteristic, then split between conditions).
+- **Controls:** **standardised procedures** and instructions, and **random allocation** to conditions, reduce the effect of extraneous variables.
+- **Data:** **quantitative** (numbers) and **qualitative** (descriptions) data; **primary** data collected by the researcher and **secondary** data collected by others; summarised with the **mean, median, mode and range** and displayed in tables, bar charts and scatter diagrams (for correlations).
 
 Ethics must follow British Psychological Society guidelines, which require dealing appropriately with issues including **informed consent, protection from harm, confidentiality, the right to withdraw and debriefing**. **Deception** is not an outright ban -- it is permissible where it is scientifically justified and unavoidable, provided participants are fully **debriefed** as soon as possible, told the true nature and purpose of the study, and given the opportunity to withdraw their data. Deception is an ethical issue to be *managed* through justification and debriefing, not a rule that can never be broken -- several of psychology's landmark studies, including Milgram's and Asch's, involved deceiving participants about the study's true purpose.
 

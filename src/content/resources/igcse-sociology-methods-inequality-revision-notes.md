@@ -12,6 +12,18 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-research-methods-identity-inequality-0495"
+  - qualification: "igcse"
+    topic: "paper-1-research-methods-identity-inequality-0495"
+    subtopic: "kq-1-2-0495"
+  - qualification: "igcse"
+    topic: "paper-1-research-methods-identity-inequality-0495"
+    subtopic: "kq-1-3-0495"
+  - qualification: "igcse"
+    topic: "paper-1-research-methods-identity-inequality-0495"
+    subtopic: "kq-2-1-0495"
+  - qualification: "igcse"
+    topic: "paper-1-research-methods-identity-inequality-0495"
+    subtopic: "kq-3-1-0495"
 description: "Condensed recall notes on research methods, sociological perspectives, socialisation, identity, and social class, gender and ethnic inequality for Cambridge IGCSE Sociology 0495."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22

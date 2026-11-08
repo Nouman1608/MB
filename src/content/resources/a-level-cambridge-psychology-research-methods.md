@@ -13,6 +13,12 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-research-methods-9990"
+  - qualification: "a-level"
+    topic: "paper-2-research-methods-9990"
+    subtopic: "research-methods-as-9990"
+  - qualification: "a-level"
+    topic: "paper-2-research-methods-9990"
+    subtopic: "methodological-concepts-as-9990"
 description: "The six research methods, the methodological concepts that apply across them (variables, sampling, ethics, validity, reliability, data analysis), and how Paper 2's planning question works, for Cambridge AS & A Level Psychology (9990)."
 author: "marlbridge-academic-team"
 specCheck:

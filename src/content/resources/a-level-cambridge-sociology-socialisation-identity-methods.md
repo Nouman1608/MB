@@ -13,6 +13,9 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-socialisation-identity-methods-9699"
+  - qualification: "a-level"
+    topic: "paper-1-socialisation-identity-methods-9699"
+    subtopic: "approaches-to-sociological-research-9699"
 description: "Socialisation and the creation of social identity, and methods of sociological research -- the full content of Paper 1 for Cambridge International AS & A Level Sociology (9699)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
