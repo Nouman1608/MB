@@ -275,6 +275,23 @@ Retention time depends on the column, temperature and flow rate, so compare it w
 - Measuring Rf from the bottom of the plate instead of from the baseline.
 - Calling the GC mobile phase "air" rather than an unreactive carrier gas.
 
+## Frequently asked questions
+
+**Which unit is spectroscopy and chromatography in for Edexcel IAL Chemistry?**
+Topic 15E is International A2 material in Unit 4: Rates, Equilibria and Further Organic Chemistry of the Pearson Edexcel specification (YCH11). It extends Topic 10D from Unit 2, which is assumed knowledge.
+
+**What does a ¹³C NMR spectrum show?**
+It shows how many different carbon environments a molecule has, one peak for each, and what kind of environment each is from its chemical shift. Carbons related by symmetry give a single peak, so there can be fewer peaks than carbons.
+
+**What is TMS in NMR spectroscopy?**
+Tetramethylsilane, TMS, is the reference compound from which chemical shift is measured, set at δ = 0 ppm.
+
+**Why does the same substance give different Rf values?**
+Rf depends on how strongly the stationary phase holds the substance and how soluble it is in the mobile phase. Changing the solvent, the stationary phase or the temperature changes that balance, so compare unknowns and standards on the same plate.
+
+**Why is HPLC used for substances that decompose on heating?**
+In HPLC the sample stays dissolved in a liquid mobile phase, so it does not have to be vaporised. In GC the sample must vaporise in the heated column.
+
 ## Official syllabus
 
 Specification: Pearson Edexcel YCH11, International Advanced Subsidiary/Advanced Level in Chemistry, Issue 1 of September 2017 (Pearson Education Limited). Covered here: Unit 4, Topic 15E, outcomes 15.17 to 15.23.

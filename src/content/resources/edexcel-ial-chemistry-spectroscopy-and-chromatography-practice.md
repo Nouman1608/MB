@@ -181,6 +181,23 @@ Relative areas **3 : 1 : 3** [1].
 - [All free 10-minute diagnostics](/diagnostics/)
 - Prefer working with a teacher? [Book a free trial class](/trial/) with our tutors
 
+## Frequently asked questions
+
+**What do these Edexcel IAL Chemistry spectroscopy and chromatography questions cover?**
+They cover Topic 15E: Spectroscopy and chromatography, outcomes 15.17 to 15.23 of the Pearson Edexcel International A Level Chemistry specification (YCH11). It is International A2 material in Unit 4.
+
+**How many decimal places should accurate masses be given to?**
+Give every accurate mass to four decimal places and keep four decimal places in each term. A mass quoted to fewer places cannot separate formulae that share the same whole-number mass.
+
+**How do you apply the (n+1) rule without losing marks?**
+Count the non-equivalent hydrogen atoms on the adjacent carbons only, not on the carbon you are looking at, and add one. Equivalent hydrogens do not split each other, and an O–H peak is normally a singlet.
+
+**How do you justify the number of peaks in a ¹³C NMR spectrum?**
+Name each carbon environment and say which carbons are equivalent. "It is symmetrical" with no detail is unlikely to be enough.
+
+**Does a matching retention time prove a substance's identity?**
+No. Different substances can share a retention time under the same conditions. Linking the column to a mass spectrometer lets each component's mass spectrum be matched against a database.
+
 ## Official syllabus
 
 Question source: Pearson Edexcel YCH11, International Advanced Subsidiary/Advanced Level in Chemistry, Issue 1 of September 2017, from Pearson Education Limited. This set covers Topic 15E: Spectroscopy and chromatography, outcomes 15.17 to 15.23, in Unit 4.

@@ -232,6 +232,23 @@ before you calculate.
 - Take all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do these Edexcel IAL Chemistry Groups 1 and 2 questions cover?**
+They cover Topic 8B, The elements of Groups 1 and 2, outcomes 8.11 to 8.23 and Core Practicals 3 and 4 of the Pearson Edexcel International A Level Chemistry specification (YCH11). Topic 8B is International AS content in Unit 2.
+
+**What product forms when magnesium reacts with steam?**
+Heated magnesium reacts with steam to form magnesium oxide and hydrogen: Mg + H₂O → MgO + H₂. Giving magnesium hydroxide as the product with steam usually costs the equation mark.
+
+**What counts as an observation for a Group 1 metal in water?**
+Describe what you would see, such as fizzing, floating, moving about or a lilac flame for potassium. Naming hydrogen says what forms, not what you see.
+
+**How should you explain the thermal stability of Group 1 and 2 carbonates?**
+Refer to the cation's charge and size, then say it polarises the electron cloud of the large carbonate ion and weakens its bonds. Referring to atoms rather than ions, or saying the cation "attracts" the anion, usually loses credit.
+
+**Why is dilute hydrochloric acid added before barium chloride in the sulfate test?**
+The acid removes carbonate ions, which would otherwise form a white barium carbonate precipitate and give a false positive result.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11)

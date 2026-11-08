@@ -239,6 +239,23 @@ If some sites hold CO instead, this capacity falls in proportion.
 
 Condense with the [revision notes](/resources/edexcel-ial-chemistry-transition-metals-complexes-and-colour-revision-notes/), then try the [practice questions](/resources/edexcel-ial-chemistry-transition-metals-complexes-and-colour-practice/). See the [exam preparation guide](/resources/edexcel-ial-chemistry-exam-preparation/) for planning.
 
+## Frequently asked questions
+
+**Which unit is transition metals in for Edexcel IAL Chemistry?**
+Topic 17: Transition Metals and their Chemistry is International A2 material in Unit 5 of the Pearson Edexcel specification (YCH11). This guide covers outcomes 17.1 to 17.17; the later outcomes on redox and catalysis are on a separate page.
+
+**Why do transition metals have variable oxidation numbers?**
+The 4s and 3d sub-shells are close in energy, so electrons can be removed from both and successive ionisation energies rise fairly steadily. The energy needed for a higher charge can be repaid by lattice or hydration energies or by covalent bonding.
+
+**Why are six-coordinate complexes octahedral?**
+The six bonding pairs around the metal ion repel each other equally and move as far apart as possible. This puts them at the corners of an octahedron with 90° between adjacent bonds.
+
+**Why do chloride ions form tetrahedral complexes?**
+Chloride ions are relatively large, so only four fit around the metal ion instead of six. Four bonding pairs repel into a tetrahedral arrangement with bond angles of 109.5°.
+
+**Why is cis-platin supplied as a single isomer?**
+The cis and trans isomers are different compounds with different biological effects, and only the cis form is the intended cancer drug. The specification stresses that it is supplied as a single isomer.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, published by Pearson Education Limited. Topic 17: Transition Metals and their Chemistry, outcomes 17.1 to 17.17.

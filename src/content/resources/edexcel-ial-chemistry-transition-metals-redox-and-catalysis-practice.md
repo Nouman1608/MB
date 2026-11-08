@@ -190,6 +190,23 @@ Use these values at 298 K: ΔH = −7.0 kJ mol⁻¹, ΔSsystem = +88 J K⁻¹ mo
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What do these Edexcel IAL Chemistry transition metal redox questions cover?**
+They cover outcomes 17.18 to 17.33 of Topic 17, including Core Practical 14, from the Pearson Edexcel International A Level Chemistry specification (XCH11/YCH11). These outcomes are examined in the International A2 paper for Unit 5.
+
+**How do you answer a "show that" question using E⦵ values?**
+Write out each E⦵cell calculation with its signs and give a conclusion for each step: positive means feasible, negative means not feasible. A bare "yes" or "no" is not enough.
+
+**How do you write the equation for a hydroxide precipitate forming?**
+Show deprotonation of the aqua ion to a neutral precipitate with as many OH⁻ ligands as the metal's charge. When ammonia is the base, the products include NH₄⁺ rather than water, and the precipitate must not carry a charge.
+
+**What two observations are needed in a hydroxide or ammonia test?**
+Give the colour of the precipitate with a few drops of reagent, and what happens in excess. Giving only one observation when both are asked for loses marks.
+
+**How do you describe autocatalysis by Mn²⁺ in a rate graph?**
+The concentration of manganate(VII) falls slowly at first, then steeply as Mn²⁺ builds up and catalyses the reaction, then levels off as the reactants run out. Describing it as a steady fall is a common error.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited -- Unit 5, Topic 17: Transition Metals and their Chemistry, outcomes 17.18 to 17.33 (including Core Practical 14).

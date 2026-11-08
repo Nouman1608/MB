@@ -303,6 +303,23 @@ The mass and the titre dominate, so increasing either would improve the result m
 - Averaging every titre, including the rough one or one that is not concordant.
 - Using one burette reading's uncertainty for a whole titre.
 
+## Frequently asked questions
+
+**Which unit is Groups 1 and 2 in for Edexcel IAL Chemistry?**
+Topic 8B, The elements of Groups 1 and 2, is International AS content in Unit 2 of the Pearson Edexcel specification (YCH11). It covers outcomes 8.11 to 8.23, including Core Practicals 3 and 4.
+
+**What do Group 1 metals form when they burn in oxygen?**
+Lithium forms the oxide, Li₂O, sodium in plenty of oxygen gives mainly the peroxide, Na₂O₂, and potassium gives the superoxide, KO₂. Oxygen has an oxidation number of −2 in an oxide, −1 in a peroxide and −½ in a superoxide.
+
+**Why are Group 1 carbonates more thermally stable than Group 2 carbonates?**
+A Group 1 cation carries a smaller charge and is larger than the Group 2 cation in the same period, so it polarises the carbonate ion less. Lithium is the exception: Li⁺ is very small, so lithium salts decompose like Group 2 salts.
+
+**Why does magnesium give no flame colour?**
+The energy released when electrons in magnesium fall back to lower levels lies outside the visible range, so no colour is seen.
+
+**What are Core Practicals 3 and 4 in Edexcel IAL Chemistry?**
+Core Practical 3 finds the concentration of hydrochloric acid by titration with sodium hydroxide. Core Practical 4 makes a standard solution from a solid acid and uses it to find the concentration of sodium hydroxide.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11)
