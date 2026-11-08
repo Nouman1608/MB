@@ -154,6 +154,20 @@ Answers show one acceptable set of points, with a [1] per creditworthy point. Th
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which Cambridge 9626 papers test video and audio editing?**
+Video and audio editing is topic 11 of Cambridge International AS & A Level Information Technology (9626), an AS Level topic. Paper 1 Theory questions are based on sections 1 to 11 and Paper 2 Practical tasks on sections 8 to 11, and calculators are not allowed in Paper 1.
+
+**What should you check in an audio file-size calculation?**
+Include every factor in the working, including the number of channels for stereo and the divide-by-8 step to convert bits to bytes. Dropping either is one of the most common mistakes.
+
+**What are common mistakes on video and audio editing questions?**
+Common slips include confusing captions with subtitles, leaving sources out of credits when borrowed music or images are used, resizing a still image straight to the video size and ignoring the change of shape, and listing features without linking them to the audience or medium.
+
+**How do you answer an evaluate question on editing choices?**
+Give reasons linked to the audience and medium in the scenario, then reach a judgement. A list of features with no link to the purpose reads as description only.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 11: Video and audio editing (11.1 Video editing; 11.2 Audio editing).

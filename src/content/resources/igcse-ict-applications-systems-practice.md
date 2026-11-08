@@ -160,3 +160,17 @@ Evaluate the use of satellite navigation for the driver. **[4]**
 - Confusing POS (stock) with EFTPOS (payment).
 - Writing OMR for number plates; ANPR uses OCR.
 - An "evaluate" answer with only advantages and no conclusion.
+
+## Frequently asked questions
+
+**Which IGCSE ICT subtopics do these application questions cover?**
+These questions cover subtopics 6.2 to 6.11 of Cambridge IGCSE ICT (0417): modelling, computer control, school management, online booking, banking, medicine, expert systems, retail, recognition systems and satellite systems. Section 6.1, Communication, has its own practice set.
+
+**How do you avoid vague answers on ICT applications?**
+Link each point to the scenario, giving the feature and its effect, rather than writing "it is faster" with no explanation of what is faster and why. Generic answers are one of the most common ways to lose marks.
+
+**What does an evaluate question on an ICT application need?**
+It needs points for and against linked to the user in the scenario and a conclusion that weighs the two sides. An answer with only advantages and no conclusion cannot gain full marks.
+
+**What are common mistakes on ICT applications questions?**
+Common slips include naming expert system components without describing how they work together, confusing POS systems, which handle stock, with EFTPOS, which handles payment, and naming the wrong recognition technology for a use.

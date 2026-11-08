@@ -134,6 +134,20 @@ explicit aim of developing "a lifelong commitment to active global citizenship,"
 only summarises secondary research without any genuine direct engagement component would not meet
 the assessment's actual requirements.
 
+## Frequently asked questions
+
+**What is IB Diploma Programme Global Politics about?**
+IB DP Global Politics studies how the world works and what makes it change, through concepts such as power, sovereignty, legitimacy and interdependence. Students examine political activity at local, national, international and global scales using contemporary real-world issues.
+
+**What is the difference between SL and HL Global Politics?**
+Both levels study the same core topic, three thematic studies and engagement project. HL students also complete an 80-hour extension on global political challenges, examined by Paper 3, and formulate a recommendation in their engagement project.
+
+**Can schools use different case studies in IB Global Politics?**
+Yes. The flexible syllabus lets courses be built around students' own contexts, interests and current events, so two schools can use quite different case studies to illustrate the same concepts, core topics and thematic studies.
+
+**Can the Global Politics engagement project be based only on research?**
+No. The engagement project requires direct engagement with a real political issue, such as attending a local event or volunteering, complemented by theoretical perspectives from research. A report that only summarises secondary sources would not meet the requirements.
+
 ## Source
 
 International Baccalaureate Organization, Global Politics subject

@@ -16,10 +16,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "the-effects-of-using-it"
     subtopic: "health-problems-0417"
-description: "Original exam-style practice questions with full worked answers on microprocessor-controlled devices and health problems from prolonged IT use for Cambridge IGCSE ICT 0417, Topic 5."
+description: "Original practice questions with worked answers on microprocessor-controlled devices and health problems from prolonged IT use for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -95,6 +97,17 @@ Related: [The Effects of Using IT revision notes](/resources/igcse-ict-effects-o
 **7.** A strong answer discusses at least two dimensions with genuine mechanisms rather than a generic opinion. Positive: under lifestyle, the system can increase a household's sense of security and convenience by allowing remote monitoring of the property. Negative: under security of data, the camera system is network-connected and linked to a mobile app, making it a potential target for unauthorised access — if compromised, it could expose live footage of inside or around the home to someone other than the household, which is a more serious privacy risk than for many other smart devices given what the camera actually records. A reasoned judgement should weigh the specific benefit (security/convenience) against the specific risk (privacy exposure if compromised), and could reasonably conclude that the benefits outweigh the risks provided the household takes basic security precautions (such as a strong password and keeping the app updated), rather than asserting one conclusion without reference to the trade-off. **[8]** (Marks for at least two named dimensions with genuine mechanisms, and a reasoned rather than asserted judgement.)
 
 **8.** This is an incomplete answer. It correctly identifies prolonged computer use as a general cause and breaks as a general prevention strategy, but headaches from prolonged IT use have several distinct specific causes — eye strain, screen glare, poor posture, and dehydration — each of which has its own more specific and effective prevention strategy (adjusting brightness/contrast, using anti-glare measures, correcting posture, staying hydrated) beyond simply "taking a break." A complete answer would name at least one or two of these specific causes and pair each with its matching, specific prevention strategy, rather than treating "take breaks" as a single answer that covers every possible cause. **[4]**
+
+## Frequently asked questions
+
+**What does Topic 5 of Cambridge IGCSE ICT 0417 cover?**
+Topic 5, The effects of using IT, covers the effects of microprocessor-controlled devices in the home and in transport, and the health problems caused by prolonged use of IT equipment, with their causes and prevention.
+
+**How should you answer a discuss question on smart devices?**
+Discuss positive and negative effects under named dimensions with genuine mechanisms, rather than a general opinion, then reach a reasoned judgement that weighs the specific benefit against the specific risk.
+
+**What makes an explain answer on the effects of IT score well?**
+Name the effect and explain how the device causes it in the scenario given. Linking each point to how the device actually works earns more credit than a generic statement.
 
 ## Official syllabus
 

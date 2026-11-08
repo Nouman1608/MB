@@ -201,6 +201,20 @@ Doubling the rate, the resolution, the channels or the length each **doubles** t
 - Resizing a still image to the video's dimensions directly, which stretches it.
 - Confusing a container with a codec: MP4 does not on its own tell you the compression used.
 
+## Frequently asked questions
+
+**What is the difference between captions and subtitles?**
+In Cambridge 9626, subtitles show the spoken words on screen, while captions show speech and other sounds, such as "[phone rings]", which makes them suitable for deaf and hard-of-hearing viewers.
+
+**Does normalising make audio louder?**
+Not necessarily. Normalising sets the peak level of a clip to a target level, which may be quieter or louder than before. It does not remove noise; noise reduction does that.
+
+**What is the difference between a file and a container?**
+A plain file holds one stream encoded one way, while a container such as MP4 or MOV wraps one or more streams plus information about them. The codec inside sets the compression, so confusing a container with a codec is a common mistake.
+
+**What is the difference between a high pass and a low pass filter?**
+A high pass filter keeps frequencies above its cut-off and removes rumble and hum, while a low pass filter keeps frequencies below its cut-off and removes hiss.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 11: Video and audio editing (11.1 Video editing; 11.2 Audio editing).

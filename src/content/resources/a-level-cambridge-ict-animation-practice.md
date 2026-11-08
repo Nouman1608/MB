@@ -179,6 +179,20 @@ Add the step to the angle each frame [1]; test both limits [1]; reverse the sign
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is animation an AS or A Level topic in Cambridge 9626?**
+Animation is topic 20 of Cambridge International AS & A Level Information Technology (9626) and is A Level only. It can appear in Paper 3 Advanced Theory, which covers sections 12 to 21, and in Paper 4 Advanced Practical, which covers sections 17 to 21.
+
+**Can you use a calculator for 9626 animation calculations?**
+No. Calculators are not allowed in Paper 3, so tween, frame-rate and time-lapse calculations need to be worked by hand, with the working shown.
+
+**What are common mistakes in animation calculations?**
+Common slips include counting frames instead of intervals when working out tween values, mixing minutes and seconds in time-lapse calculations, and giving an aspect ratio such as 1920:1080 instead of its simplest form.
+
+**How do you answer an evaluate question on animation types?**
+Give advantages and disadvantages of each type in the context of the scenario's audience, budget and time, then make a justified recommendation. Listing advantages only, or giving no recommendation, caps the marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 20: Animation (20.1 Animation).

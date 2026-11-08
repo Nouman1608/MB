@@ -197,6 +197,20 @@ Missing postcode = 5% of 12,000 = 600  ->  12,000 - 600 = 11,400
 - [IT in society revision notes](/resources/a-level-cambridge-ict-it-in-society-revision-notes/) and [practice questions](/resources/a-level-cambridge-ict-it-in-society-practice/)
 - Related: [eSecurity](/resources/a-level-cambridge-ict-esecurity/) for protecting personal data, and [Data processing and information](/resources/a-level-cambridge-ict-data-processing-and-information/)
 
+## Frequently asked questions
+
+**How does a blockchain stop transactions being changed?**
+Each block stores a hash of the previous block, and identical copies of the ledger are held on many nodes. Changing an old transaction changes its block's hash so it no longer matches the next block, and the other nodes still hold the original, so the altered copy is detected and rejected.
+
+**What is a stored value card?**
+A stored value card holds a value loaded in advance, such as a prepaid, gift or transport card. Each payment reduces the stored value until the card is topped up.
+
+**What are the risks of cryptocurrencies for individuals?**
+For individuals, cryptocurrency values can swing sharply, a lost private key or password means lost funds, payments usually cannot be reversed, and scams are a risk, even though transfers can be fast and low-cost.
+
+**What topics does IT in society cover in Cambridge 9626?**
+Topic 12 covers digital currencies, data mining, social networking services and platforms, the impact of IT on society including monitoring and surveillance, and technology enhanced learning such as MOOCs and video-conferencing.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027, version 3 (published July 2025), Cambridge International, part of Cambridge University Press & Assessment. Topic 12, IT in society, sections 12.1–12.5.

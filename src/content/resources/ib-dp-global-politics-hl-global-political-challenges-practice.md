@@ -129,6 +129,20 @@ Using Source B, explain how the situation links the HL topic areas of technology
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Is Paper 3 taken by SL students in IB Global Politics?**
+No. Paper 3 is sat only by HL students in IB DP Global Politics and examines the HL extension on global political challenges, using researched case studies.
+
+**How is IB Global Politics Paper 3 marked?**
+Paper 3 uses question-specific markschemes throughout, with best-fit markbands for questions 2 and 3. Answers rely mainly on evidence from the case studies a student has researched rather than on the stimulus itself.
+
+**What does a strong Paper 3 recommendation include?**
+A strong recommendation names an actor able to act, supports the course of action with evidence from researched cases, and considers challenges or unintended consequences. Ignoring those challenges caps the answer in the middle of the markband.
+
+**What are common mistakes in Global Politics Paper 3?**
+Common slips include summarising the stimulus instead of analysing it, using one case or two from the same topic area when more are required, leaving the political issue unnamed, giving case detail with no dates, actors or outcomes, and writing a one-sided essay with no final judgement.
+
 ## Official syllabus
 
 Written to the International Baccalaureate Organization, Diploma Programme *Global politics guide*, first assessment 2026 (published February 2024): the HL extension and Paper 3 details and markbands.

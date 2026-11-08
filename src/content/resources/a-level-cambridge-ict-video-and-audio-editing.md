@@ -211,6 +211,20 @@ Mono: 2.4 MB.  Mono at 20,000 Hz: 1.2 MB
 
 Condense this with the [Video and audio editing revision notes](/resources/a-level-cambridge-ict-video-and-audio-editing-revision-notes/), then test yourself on the [Video and audio editing practice questions](/resources/a-level-cambridge-ict-video-and-audio-editing-practice/). Compression as a utility is in [Hardware and Software](/resources/a-level-cambridge-ict-hardware-and-software/).
 
+## Frequently asked questions
+
+**Why does audio file size depend on sampling rate and resolution?**
+The sampling rate is how many samples are taken each second and the sampling resolution is how many bits store each sample, so increasing either means more bits are stored for every second of sound. Stereo doubles the size compared with mono.
+
+**How should a still image be added to a video with a different shape?**
+Crop the image to the video's aspect ratio first and then resize it, rather than resizing it straight to the video's dimensions, which would stretch it.
+
+**What is the difference between lossy and lossless audio compression?**
+Lossless compression lets the original be rebuilt exactly, so quality is unchanged but files are larger. Lossy compression removes sounds people are least likely to notice, giving much smaller files, but low bit rates sound dull and the lost quality cannot be recovered.
+
+**Why should credits list sources?**
+Credits acknowledge the people involved and the source of every item you did not create, such as music, footage and images, which respects copyright and licence terms.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 11: Video and audio editing (11.1 Video editing; 11.2 Audio editing).

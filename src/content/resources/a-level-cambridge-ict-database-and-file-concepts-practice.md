@@ -200,6 +200,20 @@ Layout, Show as rows and Area as columns [1]; Glasshouse and Red Kite rows [1]; 
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which papers test Database and file concepts in Cambridge 9626?**
+Database and file concepts is topic 10 of Cambridge International AS & A Level Information Technology (9626), an AS Level topic assessed in Paper 1 Theory and Paper 2 Practical. Paper 4 may also include tasks from sections 8 to 10.
+
+**How should normalisation answers be set out?**
+Show each stage, 1NF, 2NF and 3NF, in turn and mark the primary key of every table. Leaving primary keys unmarked, or removing a non-key dependency at 2NF instead of 3NF, loses marks.
+
+**What are common mistakes on database questions?**
+Common slips include giving a data type without the size or format asked for, treating a many-to-many relationship as a direct link, missing or adding a record when listing query results, writing "parameter query" without saying static or dynamic, and swapping make-table and append queries.
+
+**How are database comparison questions marked?**
+A comparison needs a point about each item being compared. Describing only one database model or method caps the answer at one mark, however detailed it is.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 10: Database and file concepts (10.1 Creating a database; 10.2 Normalisation to third normal form (3NF); 10.3 Data dictionary; 10.4 File and data management).

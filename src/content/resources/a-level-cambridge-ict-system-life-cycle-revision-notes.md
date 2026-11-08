@@ -213,6 +213,20 @@ Printed: usable without a device, but dates quickly. Online: searchable and easy
 - Naming a maintenance type without saying why it is needed in the scenario.
 - Answering "evaluate" questions with only advantages; give both sides and a conclusion.
 
+## Frequently asked questions
+
+**What are the stages of the system life cycle?**
+In Cambridge 9626, the stages are analysis, design, development and testing, implementation, documentation and evaluation, followed by maintenance. Each stage's output becomes the next stage's input.
+
+**What is the difference between the user requirements and the system specification?**
+The user requirements specification sets out what the system must do for its users, such as tasks, outputs and response times. The system specification sets out the hardware and software needed to run it.
+
+**What is the difference between a level 0 and a level 1 DFD?**
+A level 0 (context) DFD shows the whole system as one process with its external entities and data flows, and no data stores. A level 1 DFD shows the main numbered processes and the data stores.
+
+**Are boundary values abnormal test data?**
+No. Boundary values at the limits of a valid range are extreme data and should be accepted. Values just outside the limits are abnormal data and should be rejected.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 16: System life cycle.

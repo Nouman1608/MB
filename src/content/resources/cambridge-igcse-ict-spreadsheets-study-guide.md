@@ -130,3 +130,17 @@ Command words in the practical task are mostly *enter*, *insert*, *calculate*, *
 5. When is a line graph more suitable than a pie chart? *When showing how a value changes over time.*
 6. What goes wrong if you sort only column B of a table of three columns? *The rows no longer match, because column B moves and the others do not.*
 7. A line total is 7.5 for each of 18 items. What is the total? *7.5 * 18 = 135.*
+
+## Frequently asked questions
+
+**What is the difference between relative and absolute cell references?**
+In Cambridge IGCSE ICT (0417), a relative reference such as C4 changes when a formula is copied, while an absolute reference such as $C$4 stays fixed. Use an absolute reference for a single input such as a tax rate or a total.
+
+**Why should spreadsheet formulas use cell references instead of typed values?**
+A formula built from cell references updates automatically when the data changes, so the model can test "what if" questions. Typing the answer as a number breaks the model and is one of the most common ways to lose marks.
+
+**What does VLOOKUP do?**
+VLOOKUP searches the first column of a table for a value and returns an item from a column you choose; use exact match (FALSE) for codes. HLOOKUP does the same across rows.
+
+**Why should you select the whole table before sorting?**
+If only one column is selected, only that column moves and the rows no longer match, scrambling the data. Select the whole data range so each row stays together.

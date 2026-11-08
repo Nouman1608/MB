@@ -133,6 +133,20 @@ Learn the content first in the [study guide](/resources/ib-dp-global-politics-co
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What is interdependence in IB Global Politics?**
+In IB DP Global Politics, interdependence is mutual reliance between political actors on access to resources that sustain their ways of life, with economic, security and sustainability dimensions. It is one of the core topics, which are the same for SL and HL.
+
+**Which IB Global Politics paper tests interdependence?**
+Paper 1 is set on the core topics, so interdependence can anchor a set of Paper 1 sources. Paper 2 integrating questions can also draw on it alongside the thematic studies.
+
+**How are the longer Global Politics answers marked?**
+The longest Paper 1 question and Paper 2 essays are marked against IB markbands on a best-fit basis, not by counting individual points. The top bands need claims that are justified and evaluated and perspectives that are explored and evaluated.
+
+**What are common mistakes on interdependence questions?**
+Common slips include describing a source instead of doing what the command term asks, comparing sources in separate blocks rather than point by point, treating a General Assembly resolution as binding, and confusing a permanent member's abstention with a veto.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Diploma Programme *Global politics guide*, first assessment 2026 (published February 2024). Prescribed topic: Interdependence in global politics, within the core topics.

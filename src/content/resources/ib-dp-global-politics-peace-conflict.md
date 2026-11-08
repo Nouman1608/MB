@@ -12,7 +12,7 @@ order: 2
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-global-politics-peace-and-conflict"
-description: "The causes, dynamics and resolution of political conflict, examined through power, sovereignty, legitimacy and interdependence -- one of the three compulsory thematic studies of IB Diploma Programme Global Politics, first assessment 2026."
+description: "Study guide to Peace and conflict in IB DP Global Politics: four types of conflict, six causes, peacemaking to peacebuilding, and the four core concepts."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -163,6 +163,20 @@ example.
   eight HL topic areas (for example borders, security or identity),
   note it as a possible starting point for the independent case
   research that Paper 3 is based on.
+
+## Frequently asked questions
+
+**What should you do first when answering a question about a conflict?**
+Classify the described conflict as interstate, intrastate, non-state or extra-state before analysing it, then identify which of the four core concepts (power, sovereignty, legitimacy and interdependence) the scenario foregrounds.
+
+**Why can similar conflicts get different international responses?**
+Legitimacy is partly a matter of perception and recognition: force seen as defensive or authorised by an international body tends to draw measured or supportive responses, while force seen as unprovoked aggression tends to draw condemnation, sanctions or intervention.
+
+**What case studies should you prepare for Peace and conflict?**
+Build a case log with at least one interstate conflict, one intrastate conflict and one resolution or peacebuilding process, each with real dates, actors and outcomes. A current example discussed in up-to-date detail tends to carry more weight than a dated case the whole cohort is using.
+
+**Can a conflict be explained by a single cause?**
+Rarely. The IB DP Global Politics syllabus names six causes of conflict, and a strong answer identifies more than one contributing cause and explains how they interact rather than reducing a conflict to one label.
 
 ## Official syllabus
 

@@ -159,6 +159,20 @@ Paper 1 (1 hour 15 minutes; 30% at SL, 20% at HL) is a source-based paper on the
 
 Test yourself with the [revision notes](/resources/ib-dp-global-politics-core-power-revision-notes/), then work through the [practice questions](/resources/ib-dp-global-politics-core-power-practice/). To see power at work in a thematic study, read the [peace and conflict guide](/resources/ib-dp-global-politics-peace-conflict/) and the [rights and justice guide](/resources/ib-dp-global-politics-rights-justice/). For paper formats, use the [assessment revision notes](/resources/ib-dp-global-politics-assessment-revision-notes/).
 
+## Frequently asked questions
+
+**Who coined the term soft power?**
+Joseph Nye coined "soft power" in Bound to Lead (1990), describing it as getting others to want what you want through attraction. He later developed the idea of smart power, which combines hard and soft power.
+
+**Does having more resources mean having more power?**
+Not necessarily. IB DP Global Politics distinguishes resources from outcomes: an actor can hold vast resources and still fail to get what it wants, as when the Taliban took Kabul in August 2021 despite almost 20 years of US military presence in Afghanistan.
+
+**Do you need to learn every thinker for the IB Global Politics power topic?**
+No. The guide names eleven thinkers who might be useful, but you need not know them all; what earns credit is applying a thinker's idea to the case or source in front of you rather than just naming them.
+
+**Is economic power always soft power?**
+No. Economic tools can be coercive: the IB guide lists sanctions as hard power. Aid, investment and trade can work as attraction or as pressure depending on how they are used.
+
 ## Official syllabus
 
 This page is aligned to the International Baccalaureate Organization, Diploma Programme *Global politics guide*, first assessment 2026 (published February 2024): core topics, prescribed topic "Power in global politics".

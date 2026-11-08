@@ -201,6 +201,20 @@ A conclusion helps on "Evaluate": for example, a trial on one route with a safet
 - Hub: [Cambridge A Level IT](/boards/cambridge/a-level/ict/) and [9626 checklist](/checklists/cambridge/a-level/ict/)
 - Check your gaps: [free diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**Do you need to study every technology listed in Cambridge 9626 topic 13?**
+Yes. The Cambridge 9626 syllabus says that where it uses "including", everything listed must be studied, so learn each technology in section 13.1 with a real use, an advantage and a disadvantage.
+
+**Can the list of emerging technologies change?**
+The syllabus says Cambridge publishes technical updates each year to take account of emerging technologies, so check the 9626 page on the Cambridge website with your teacher for any update.
+
+**What is the difference between holographic imaging and holographic data storage?**
+Holographic imaging produces 3D pictures viewable from different angles, used for example in banknote security. Holographic data storage stores data through the depth of a medium, giving huge capacity, but it is still largely in development.
+
+**What is the difference between AI and robotics?**
+Artificial intelligence is a computer system that carries out tasks needing human intelligence, including learning from data. Robotics is the design and use of programmable machines that use sensors, a processor and actuators to carry out physical tasks, so the two should not be treated as the same thing.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027, version 3 (published July 2025), Cambridge International, part of Cambridge University Press & Assessment. Topic 13, New and emerging technologies, section 13.1.

@@ -166,6 +166,20 @@ The answers show one acceptable response with a [1] for each creditworthy point.
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which Cambridge 9626 paper tests spreadsheets?**
+Spreadsheets is topic 8 of Cambridge International AS & A Level Information Technology (9626), an AS Level topic assessed mainly in Paper 2 Practical, which is done on a computer. Written questions on spreadsheets are also possible in Paper 1 Theory.
+
+**What makes a spreadsheet formula answer lose marks?**
+A formula that would not run loses marks, for example one with no equals sign, unquoted criteria or unbalanced brackets. Copying a formula without an absolute reference to a lookup table is another frequent error.
+
+**What does a good spreadsheet test plan include?**
+A test plan lists normal, extreme and abnormal test data with the expected result for each. Listing test data without expected results, or naming only one extreme value when a rule has two limits, loses marks.
+
+**How should you justify a chart choice?**
+Say why the chart type fits the purpose of the data, such as comparing categories or showing change over time, rather than just naming the chart.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 8: Spreadsheets (8.1 Creating a spreadsheet; 8.2 Testing a spreadsheet; 8.3 Using a spreadsheet; 8.4 Graphs and charts).

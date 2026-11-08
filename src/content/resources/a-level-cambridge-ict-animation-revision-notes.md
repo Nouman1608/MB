@@ -184,6 +184,20 @@ Keep secondary components from drowning out the primary focus.
 - Calling sound or the background a primary component; the syllabus gives them as secondary examples.
 - Naming a tool instead of explaining what it does to the animation.
 
+## Frequently asked questions
+
+**What is tweening in animation?**
+Tweening is when the software generates the frames between two key frames that the animator has set. In Cambridge 9626, an even tween changes a value by the same amount for each frame interval.
+
+**How do you calculate the number of frames in an animation?**
+Multiply the running time in seconds by the frame rate in frames per second. If the frame rate changes but the frames stay the same, the running time changes, so halving the frame rate doubles the running time.
+
+**What is the difference between stop motion and time lapse?**
+In stop motion, the animator moves objects by hand between photographs. In time lapse, the scene changes by itself between photographs taken at long intervals, which are then played back at a normal frame rate.
+
+**What does a mask do in animation software?**
+A mask is a shape that decides which parts of the masked layer or layers are visible. The mask shape is what stays visible, so describing a mask simply as hiding things loses marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 20: Animation (20.1 Animation).

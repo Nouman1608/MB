@@ -199,6 +199,20 @@ Each pairing below uses two of the guide's own suggested examples from different
 - One-sided question 3 arguments with no counter-argument, which cannot reach the top band.
 - Running out of time on question 3, the question worth most.
 
+## Frequently asked questions
+
+**How long is IB Global Politics Paper 3 and how many marks is it worth?**
+IB DP Global Politics Paper 3 lasts 1 hour 30 minutes, is worth 28 marks and makes up 30% of the HL grade. It is sat only by HL students.
+
+**What are the eight HL topic areas in IB Global Politics?**
+The eight HL topic areas are borders, environment, equality, health, identity, poverty, security and technology. The guide stresses that they overlap, so students should study what connects them.
+
+**What kind of stimulus appears in Global Politics Paper 3?**
+The Paper 3 stimulus may be text, data, diagrams or infographics. It focuses the candidate on a topic or opens a discussion, but most of the evidence in an answer should come from the candidate's own researched case studies.
+
+**Does the HL extension add new prescribed content?**
+No. The HL extension has 80 teaching hours but no extra prescribed content; it builds on the core topics, the thematic studies and the four key concepts of power, sovereignty, legitimacy and interdependence.
+
 ## Official syllabus
 
 Aligned to the International Baccalaureate Organization, Diploma Programme *Global politics guide*, first assessment 2026 (published February 2024): the HL extension on global political challenges, the HL assessment outline, Paper 3 external assessment details and markbands, and the glossary of command terms. See also the [exam preparation notes](/resources/ib-dp-global-politics-exam-preparation/) and [assessment revision notes](/resources/ib-dp-global-politics-assessment-revision-notes/). For the concepts and themes your cases draw on, use the units on [sovereignty](/resources/ib-dp-global-politics-core-sovereignty/), [legitimacy](/resources/ib-dp-global-politics-core-legitimacy/), [development and sustainability](/resources/ib-dp-global-politics-development-sustainability/), [rights and justice](/resources/ib-dp-global-politics-rights-justice/) and [peace and conflict](/resources/ib-dp-global-politics-peace-conflict/).

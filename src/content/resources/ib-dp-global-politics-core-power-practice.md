@@ -150,6 +150,20 @@ Learn the content first in the [study guide](/resources/ib-dp-global-politics-co
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How is power defined in IB Global Politics?**
+The IB DP Global Politics guide starts from power as an ability to effect change, and also presents it as a feature of relations among people rather than a separate force. Power is one of the core topics, common to SL and HL.
+
+**How are the longer power questions marked in IB Global Politics?**
+Real extended answers, such as the longest Paper 1 question and Paper 2 essays, are marked against IB markbands on a best-fit basis, not point by point. Paper 2's top markband needs claims justified and evaluated, examples effectively developed, perspectives evaluated and implications considered.
+
+**How do you approach an identify question on a power source?**
+An identify question needs only a type of power tied to a specific detail in the source. Naming the same type twice in different words earns only one mark.
+
+**What are common mistakes on power questions?**
+Common slips include naming a type of power without linking it to the source, describing data with no figures, writing about two sources separately in a compare-and-contrast answer, and summarising sources with no own knowledge or judgement in the 12-mark evaluation.
+
 ## Official syllabus
 
 These questions are aligned to the International Baccalaureate Organization, Diploma Programme *Global politics guide*, first assessment 2026 (published February 2024): core topics, prescribed topic "Power in global politics".

@@ -176,6 +176,20 @@ For full explanations and a worked case, read the [study guide](/resources/ib-dp
 - [Peace and conflict revision notes](/resources/ib-dp-global-politics-peace-conflict-revision-notes/) -- cases to test realist and feminist readings.
 - [Rights and justice revision notes](/resources/ib-dp-global-politics-rights-justice-revision-notes/) -- cases for liberal and postcolonial readings.
 
+## Frequently asked questions
+
+**What is the difference between relative gains and absolute gains?**
+Relative gains are measured against a rival's gains, which is how realists judge cooperation. Absolute gains are measured against a state's own starting point, which is why liberals argue cooperation can survive even when partners gain unequally.
+
+**What does anarchy mean in global politics?**
+In IB DP Global Politics, anarchy means there is no authority above sovereign states; it does not mean chaos. Realists argue that anarchy forces states to rely on self-help and pursue power and security.
+
+**What is social constructivism in global politics?**
+Social constructivism argues that ideas and identities shape states' interests, so shared norms can change how states behave. It is associated with Alexander Wendt (1992) and is good at explaining change, though critics say it offers little prediction.
+
+**How do you evaluate a theory in a Global Politics essay?**
+Ask who the theory counts as an actor, whether it can explain change or only continuity, whether it makes a testable prediction, whose experience it was built on, and whether believing it could change behaviour. Always give a limitation for the perspective you use.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Diploma Programme *Global politics guide*, first assessment 2026 (published February 2024). Core topics: "Understanding power and global politics" -- prescribed topic "Theoretical perspectives in global politics".

@@ -170,6 +170,20 @@ From the guide's glossary:
 - Review paper formats in the [assessment revision notes](/resources/ib-dp-global-politics-assessment-revision-notes/).
 - Connect actors to a thematic study: [Peace and conflict revision notes](/resources/ib-dp-global-politics-peace-conflict-revision-notes/) and [Rights and justice revision notes](/resources/ib-dp-global-politics-rights-justice-revision-notes/).
 
+## Frequently asked questions
+
+**What is the difference between an IGO and an NGO?**
+An intergovernmental organisation (IGO) has states as its members, such as the UN, WTO or African Union. A non-governmental organisation (NGO) is a non-profit group independent of government, such as Amnesty International or Médecins Sans Frontières.
+
+**What is the difference between hard law and soft law?**
+Hard law is binding, as with treaties, while soft law is non-binding, such as declarations, resolutions and guidelines. Soft law still matters in IB DP Global Politics because it works through legitimacy and pressure.
+
+**What are the two meanings of institution in IB Global Politics?**
+An institution can be a formal organisation or agency, or a social structure of rules and norms that shapes and constrains behaviour. Forgetting the second meaning loses easy explanation marks on norms and rules.
+
+**What is the difference between a formal and an informal political forum?**
+A formal forum, such as the UN General Assembly, has founding rules and set membership. An informal forum, such as the G7 or G20, has no treaty or permanent secretariat and produces non-binding outcomes.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Diploma Programme *Global politics guide*, first assessment 2026 (published February 2024). Core topics: Understanding power and global politics -- prescribed topic "Framing global politics / Systems and interactions in global politics".

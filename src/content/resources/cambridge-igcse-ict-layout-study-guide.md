@@ -143,3 +143,17 @@ Work through the instructions in order and tick each off. Use the exact measurem
 6. Give two examples of automatic fields for a footer. *Page number and date, or file name.*
 7. A table of text width 15 cm has three columns; two are 4 cm each. How wide is the third? *15 - 8 = 7 cm.*
 8. What is a section break used for? *To allow different page settings, such as orientation or columns, in different parts of one document.*
+
+## Frequently asked questions
+
+**Why should you use tab stops instead of spaces to line up text?**
+Tab stops give precise, consistent alignment, including decimal tabs for numbers, whereas spaces shift when the font or text changes. Pressing Enter repeatedly to make space is a similar bad habit; use spacing settings or a page break.
+
+**What is the difference between a page break, column break and section break?**
+A page break starts a new page, a column break pushes text into the next column, and a section break allows different settings, such as orientation or columns, in different parts of one document.
+
+**How do you calculate column widths in a newsletter layout?**
+Subtract the left and right margins from the page width, subtract the gaps between columns, then divide by the number of columns. For example, 21 cm minus two 2.5 cm margins leaves 16 cm, and three columns with two 0.8 cm gaps are each 4.8 cm wide.
+
+**How should numbers be aligned in a table?**
+Numbers should be right-aligned or aligned on the decimal point so digits line up by place value and can be compared, while text is usually left-aligned.

@@ -172,6 +172,20 @@ The syllabus describes the 8.1 functions as examples; any function needed for an
 - Choosing a pie chart to compare two branches across categories.
 - Giving advantages of pivot tables only, when a question asks for a comparison.
 
+## Frequently asked questions
+
+**What is the difference between cleaning and transforming data?**
+In Cambridge 9626, cleaning means correcting or removing data that is wrong, incomplete, repeated or inconsistent. Transforming means changing the form or structure of data, for example splitting, merging or calculating, without changing its meaning.
+
+**How do you split a field at a delimiter in a spreadsheet?**
+Find the delimiter's position with FIND, use LEFT for the part before it (position minus 1 characters), and use MID for the part after it, starting at position plus 1, or plus 2 if a space follows.
+
+**Why should you not join date parts with &?**
+Joining day, month and year with & produces text, not a true date, so it will not sort or calculate correctly. Use DATE(year, month, day) instead.
+
+**Does a pivot table change the source data?**
+No. A pivot table summarises the source data by grouping records into row and column fields and summing, counting or averaging a value field, and the source data stays unchanged.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027, version 3 (published July 2025), Cambridge International, part of Cambridge University Press & Assessment. Topic 17, Data analysis and visualisation, section 17.1.

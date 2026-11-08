@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Condensed recall notes on communication media, mobile communication and VoIP for Cambridge IGCSE ICT 0417, section 6.1."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -84,3 +86,17 @@ Cambridge often describes a scenario without naming "streaming" or "ePublication
 6. Why is a multimedia presentation less useful than a website for parents wanting to review the content again later?
 
 **Answers:** 1. Advantage: no device or internet connection needed to view it; disadvantage: cannot be updated once distributed. 2. Streaming plays the content as data arrives without storing the full file; an ePublication is downloaded as a complete file before/as it is used. 3. A website can be updated at any time and hold more content, with links to further detail; the school loses reach to parents without a suitable device or internet access, and updates require parents to actively visit rather than receiving it directly. 4. VoIP carries voice as data over the internet, not over a dedicated voice channel. 5. Topics 2 (hardware: camera, microphone) and 4 (networks/connection). 6. A multimedia presentation is generally delivered live at an event and is far less practical for parents to revisit independently afterward compared with an always-available website.
+
+## Frequently asked questions
+
+**Which communication media are in Cambridge IGCSE ICT 0417 section 6.1?**
+Section 6.1 names newsletters, posters, websites, multimedia presentations, audio, video, media streaming and ePublications, plus mobile communication through SMS, phone calls, VoIP, video calls and internet access.
+
+**How is a video call related to VoIP?**
+A video call extends VoIP's internet-based approach by adding a live video feed alongside the audio data, so it shares VoIP's need for a fast enough, reliable internet connection.
+
+**Is VoIP always cheaper than a normal phone call?**
+Not without conditions. VoIP can be much cheaper, especially for international calls, but it needs a working internet connection and its quality depends on that connection's reliability and bandwidth.
+
+**When is a multimedia presentation the best choice?**
+A multimedia presentation suits delivering a rich, engaging message at an in-person event, but it is far less practical than a website for people who want to review the content independently afterward.

@@ -161,6 +161,20 @@ Conclusion, e.g. valuable for practice but real flying hours are still needed [1
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which Cambridge 9626 papers test modelling?**
+Modelling is topic 9 of Cambridge International AS & A Level Information Technology (9626), an AS Level topic. Paper 1 Theory questions are based on sections 1 to 11 and Paper 2 Practical tasks on sections 8 to 11, so it can appear in both.
+
+**Should model answers be rounded?**
+Round to whole units when the context needs it, such as tickets, people or staff, and say which way to round. Do not round part-way through a growth calculation, because that makes the final answer inaccurate.
+
+**Why should spreadsheet formulas use cell references?**
+Formulas built from cell references recalculate when an input changes, so scenarios can be compared easily. Writing formulas with typed numbers instead of cell references is a common way to lose marks.
+
+**What are common mistakes on modelling and simulation questions?**
+Common slips include naming a formula cell as the cell to change in goal seek, giving simulation benefits that are not linked to the named use, writing "cheaper" or "safer" without saying than what, confusing a model's input with its output, and giving only one side on discuss or evaluate questions.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 9: Modelling (9.1 Modelling and simulations).

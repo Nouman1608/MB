@@ -190,6 +190,20 @@ Paper 1 lasts 1 hour 15 minutes, carries 25 marks, and is 30% of the SL grade or
 - In compare and contrast, writing about each source separately instead of a running comparison.
 - In evaluation, giving one side only. Weigh strengths and limits and reach a judgement.
 
+## Frequently asked questions
+
+**What are the sources of state legitimacy in IB Global Politics?**
+The IB DP Global Politics guide lists fifteen sources, including free and fair elections, representation, consent of the governed, transparency, government performance, order and stability, history, ideology, national identity and international recognition. Democracy is the most widely accepted modern form, but hereditary or traditional leadership can also be a source where that is the norm.
+
+**How is the legitimacy of a non-state actor judged?**
+The guide points to four areas: representation (whose interests it represents), interaction (how it relates to states and other actors), ability (the means it has to exert influence) and efficacy (how far it achieves its goals). Strong answers consider more than efficacy alone.
+
+**What is the difference between legitimation and delegitimation?**
+Legitimation is the process of gaining or strengthening legitimacy, for example through formal recognition, elections or organic support from below. Delegitimation is action by others, such as boycotts, sanctions or critical reports, that reduces an actor's legitimacy.
+
+**Which paper examines legitimacy in IB Global Politics?**
+Legitimacy is a core topic common to SL and HL, examined mainly through Paper 1 with links into Paper 2 section B essays.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Diploma Programme *Global politics guide*, first assessment 2026 (published February 2024). Prescribed topic: "Legitimacy in global politics", within the core topics "Understanding power and global politics". Related: [Global Politics assessment revision notes](/resources/ib-dp-global-politics-assessment-revision-notes/).

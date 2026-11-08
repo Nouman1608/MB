@@ -167,3 +167,17 @@ is. Remember too that Collaboration is observed behaviour, not an
 automatic team mark — genuine engagement with communication, problem
 solving and shared decision-making throughout the project protects
 marks that a strong final product alone cannot guarantee.
+
+## Frequently asked questions
+
+**What counts as Evidence of Action in the IGCSE Global Perspectives Team Project?**
+Evidence of Action must show the action the team actually carried out, such as posters, leaflets, web pages, a video of up to 10 minutes, presentations or photographs of the event itself. Evidence of research or planning meetings does not count as Evidence of Action.
+
+**What happens if the Reflective Paper goes over the word limit?**
+The word limits in the Cambridge IGCSE Global Perspectives (0457) Team Project are hard caps: anything written beyond the upper limit cannot be credited, however good it is. Draft to the limit from the start rather than cutting at the end.
+
+**Can students on the same team get different marks for the Team Project?**
+Yes. The shared documents are marked the same for every team member, but the Reflective Paper and part of the Collaboration mark are assessed individually, so candidates on the same successful team can finish with different marks.
+
+**Why does a descriptive Reflective Paper score poorly?**
+The mark scheme rewards reflection on personal learning and evaluation of how effective the action and the candidate's own collaboration were. A week-by-week account of what the team did, with no reflection or evaluation, caps the achievable mark well below the top band.

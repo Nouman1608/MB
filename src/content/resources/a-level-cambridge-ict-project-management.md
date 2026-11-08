@@ -217,6 +217,20 @@ If E overruns by 3 days, that is within its 4 days of float, so the project stil
 
 Next, use the [revision notes](/resources/a-level-cambridge-ict-project-management-revision-notes/) and the [practice questions](/resources/a-level-cambridge-ict-project-management-practice/).
 
+## Frequently asked questions
+
+**What is scope creep?**
+Scope creep is uncontrolled growth in a project's scope, where extra features are added without extra time or money. A clear scope set during project initiation helps prevent it.
+
+**What is the difference between a Gantt chart and a PERT chart?**
+A Gantt chart is easy to read and shows dates, overlap and progress clearly, but dependencies are hard to see. A PERT chart shows dependencies and which tasks can run in parallel, but takes time to draw and can become complex.
+
+**Is the critical path the shortest path through a project?**
+No. The critical path is the longest path through the network, and it sets the shortest possible time in which the project can be completed.
+
+**What happens at project close?**
+At project close, deliverables are handed over and signed off, contracts are closed, resources are released and the team is disbanded. A review compares the outcome with the objectives and success criteria and records lessons for future projects.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027, version 3 (published July 2025), Cambridge International, part of Cambridge University Press & Assessment. Topic 15, Project management, sections 15.1–15.3.

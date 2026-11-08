@@ -185,6 +185,20 @@ Components to name: field name, data type, field size, format, key (primary/fore
 - Listing data dictionary components but missing validation rule or data type.
 - Describing direct access as "searching from the start of the file".
 
+## Frequently asked questions
+
+**What is the difference between 2NF and 3NF?**
+In Cambridge 9626, a table in 2NF has no partial dependencies, where a field depends on only part of a composite key. A table in 3NF also has no non-key (transitive) dependencies, where a field depends on another non-key field.
+
+**Why should a phone number be stored as text?**
+A phone number is never used in calculations, and storing it as a number would lose any leading zero, so it should be stored as text rather than as an integer.
+
+**What is the difference between a static and a dynamic parameter query?**
+A static parameter query has its criterion fixed in the query design, while a dynamic parameter query asks the user to type the value each time the query runs.
+
+**How is a many-to-many relationship built in a database?**
+A many-to-many relationship cannot be stored directly, so it is built as two one-to-many relationships through a link table, such as an Enrolment table between Student and Course.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027, version 3, Cambridge University Press & Assessment. Topic 10: Database and file concepts (10.1 Creating a database; 10.2 Normalisation to third normal form (3NF); 10.3 Data dictionary; 10.4 File and data management).

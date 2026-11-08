@@ -19,10 +19,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "monitoring-and-control"
     subtopic: "control-technologies"
-description: "Condensed recall notes on sensors, calibration, actuators, and microprocessor-controlled systems for Cambridge International AS & A Level Information Technology (9626), Topic 3."
+description: "Condensed recall notes on sensors, calibration, actuators and microprocessor-controlled systems such as greenhouses for Cambridge AS & A Level IT 9626 topic 3."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 updatedDate: 2026-09-27
@@ -198,3 +200,17 @@ re-check the sensor and respond to changes, not simply act once and
 stop; forgetting this means describing a one-off action rather than
 an ongoing automatic response. 5. The sensor reading, a decision box
 comparing it to a threshold, and the actuator action as the outcome.
+
+## Frequently asked questions
+
+**Which sensors are named in the Cambridge 9626 syllabus?**
+Topic 3 names light/UV, temperature, pressure, humidity, pH, gas (oxygen, carbon dioxide, carbon monoxide and nitrogen oxides), sound, infrared, touch, (electro)magnetic field and proximity sensors.
+
+**Why does a sensor need calibrating if it works?**
+A sensor can produce a signal but still give inaccurate readings if it has never been calibrated or has drifted over time. Calibration compares its output against a known reference value and corrects a systematic offset that repeated readings cannot fix.
+
+**Which calibration type suits a non-linear sensor?**
+Multipoint calibration suits a sensor whose response is not linear, because checking only two points would leave errors uncorrected in between. Two-point calibration is enough for a sensor with a linear response across its range.
+
+**Why do car park barriers often use two sensor types?**
+A car park may combine a light sensor with an induction loop, which detects the change in magnetic field caused by a vehicle's metal body. Using both signals together reduces false triggers from pedestrians or small objects.

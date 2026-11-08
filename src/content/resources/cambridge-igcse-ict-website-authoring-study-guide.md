@@ -176,3 +176,17 @@ Practical tasks use the words *create*, *insert*, *attach*, *apply*, *save* and 
 5. Give one advantage of an external stylesheet over inline styles. *One file controls every page, so changes are made once and the style is consistent.*
 6. What is the difference between a class and an id? *A class can be used on many elements; an id must be unique on a page.*
 7. Why use relative file paths? *The links still work when the whole folder is moved to another computer or a server.*
+
+## Frequently asked questions
+
+**What are the three layers of web development?**
+In Cambridge IGCSE ICT (0417), the content layer holds the text, images and structure in HTML, the presentation layer controls how it looks with CSS, and the behaviour layer controls interaction, usually with JavaScript.
+
+**Why should every image on a web page have alt text?**
+The alt attribute gives a text alternative that is shown if the image fails to load and is read by screen readers, so it makes the page more accessible.
+
+**What is the advantage of an external stylesheet?**
+An external stylesheet is a separate .css file linked from each page, so one change updates every page and the site stays consistent.
+
+**Why use relative file paths in a website?**
+Relative paths such as images/logo.png keep links working when the whole site folder is moved to another computer or a web server.

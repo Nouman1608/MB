@@ -265,6 +265,20 @@ Add a title, axis titles with units, a legend, and a value axis starting at zero
 
 Condense the topic with the [revision notes](/resources/a-level-cambridge-ict-data-analysis-and-visualisation-revision-notes/), then try the [practice questions](/resources/a-level-cambridge-ict-data-analysis-and-visualisation-practice/) or a [free diagnostic](/diagnostics/).
 
+## Frequently asked questions
+
+**Why should data be cleaned before building a pivot table?**
+If data is not cleaned first, variants such as "Bike", "Bikes" and "Bikes " with a trailing space appear as separate rows, splitting one category's total, and duplicates are counted twice. Skipping the cleaning step gives wrong totals.
+
+**How do you find duplicate records in a spreadsheet?**
+Use a helper column with a formula such as =COUNTIF($A$2:A2,A2)>1 copied down, which flags any ID that has already appeared. In a database, a find-duplicates query does the same job.
+
+**What happens if practical work is saved in the wrong file format?**
+The Cambridge 9626 syllabus states that work saved in an incorrect file format receives no marks for that task in the practical papers, so always check the required format before saving.
+
+**Should you use a pivot table or SUMIF formulas?**
+A pivot table can be rearranged by moving fields and shows new categories on refresh, but may need refreshing after the source changes. SUMIF formulas recalculate automatically, but each total needs its own formula and a new category needs a new formula.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027, version 3 (published July 2025), Cambridge International, part of Cambridge University Press & Assessment. Topic 17, Data analysis and visualisation, section 17.1.

@@ -125,3 +125,17 @@ Read the task for exactly which data to chart, which type to use and which label
 6. When is a legend needed? *When a chart has more than one data series.*
 7. Why might a secondary axis be added to a chart? *When two series have very different scales, so both can be read clearly.*
 8. Give one problem with starting a bar chart's axis at 50 and not 0. *It exaggerates the differences between bars and can mislead the reader.*
+
+## Frequently asked questions
+
+**Which chart should you use in IGCSE ICT?**
+In Cambridge IGCSE ICT (0417), use a bar or column chart to compare separate categories, a line graph to show change over time, a pie chart to show parts of a whole, and a scatter graph to show whether two sets of numbers are related.
+
+**Why should you not include the Total row in a chart?**
+A Total row or column would be plotted as a category of its own and distort the chart, so select only the data and headings needed unless the task says otherwise.
+
+**When does a chart need a legend?**
+A legend is needed when a chart has more than one data series, to show what each colour or line represents. For a single series it may be removed if the task asks.
+
+**Why should a bar chart's value axis start at zero?**
+Starting the vertical axis above zero exaggerates the differences between bars and can mislead the reader, so a bar chart normally starts at zero unless the task sets a different scale.

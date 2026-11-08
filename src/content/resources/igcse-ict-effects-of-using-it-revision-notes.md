@@ -16,10 +16,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "the-effects-of-using-it"
     subtopic: "health-problems-0417"
-description: "Condensed recall notes on microprocessor-controlled devices in the home and transport, and health problems from prolonged IT use, for Cambridge IGCSE ICT 0417, Topic 5."
+description: "Condensed notes on smart devices in the home and transport, autonomous vehicles and health problems from prolonged IT use for Cambridge IGCSE ICT 0417 Topic 5."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -83,3 +85,17 @@ Topics 1–4 ask "how does this technology work" (factual recall); Topic 5 asks 
 6. A smart security camera system is linked to a mobile app. Name one dimension from 5.1 it raises a concern under, and explain why.
 
 **Answers:** 1. Lifestyle, leisure time, physical fitness, security of data, social interaction. 2. Positive: reduced human error in driving; negative: job displacement for professional drivers (or new safety questions around decision-making). 3. Cause: repeated small movements from typing or mouse use; prevention: regular breaks and an ergonomic keyboard/mouse. 4. Headaches have multiple distinct causes (eye strain, glare, poor posture, dehydration), each with its own specific prevention (adjusting brightness/contrast, staying hydrated), so "take breaks" alone does not address the full range of causes. 5. Topics 1–4 ask how the technology works (factual recall); Topic 5 asks what effect the technology has on people and society (reasoned discussion of trade-offs). 6. Security of data — the camera system is network-connected and linked to an account/app, making it a potential target for unauthorised access if the account or home network is not properly secured.
+
+## Frequently asked questions
+
+**What are the five dimensions for smart devices in the home?**
+Cambridge IGCSE ICT (0417) names lifestyle, leisure time, physical fitness, security of data and social interaction. Name the specific dimension a question asks about and explain the mechanism behind the effect.
+
+**What is the difference between transport safety and data security for autonomous vehicles?**
+Data security is about whether a vehicle's control systems could be accessed without authorisation, while transport safety is about how safely the vehicle operates and makes decisions, especially in unusual situations. Strong answers treat them as two separate concerns.
+
+**How should health problems from IT use be answered?**
+Link each named issue, such as RSI, back problems, eye problems or headaches, to its own specific cause and a specific prevention. A single generic answer such as "take breaks" applied to every issue loses marks.
+
+**How is Topic 5 different from Topics 1 to 4?**
+Topics 1 to 4 ask how technology works, which is mostly factual recall, while Topic 5 asks what happens to people and society when it is used, so answers need balanced discussion of trade-offs and a brief reasoned judgement.

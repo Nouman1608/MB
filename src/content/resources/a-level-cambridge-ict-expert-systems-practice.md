@@ -173,6 +173,20 @@ A volunteer enters: six legs; hard wing cases; black wing cases.
 - Find your gaps with [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which Cambridge 9626 paper tests expert systems?**
+Expert systems is topic 7 of Cambridge International AS & A Level Information Technology (9626), AS Level content examined on Paper 1 Theory. Paper 2 Practical candidates also apply knowledge from sections 1 to 7.
+
+**How do you answer a chaining trace question accurately?**
+Work through the rules step by step, adding each new fact as a rule fires and checking whether it lets a later rule fire. Remember that a failed condition stops a rule, so later questions in that line are never asked.
+
+**What are common mistakes on expert systems questions?**
+Common slips include naming "a database" for the knowledge base without its two parts, treating the knowledge base editor as the way users enter data, describing the explanation system as a help screen, and giving definitions with no example from the scenario.
+
+**How is an evaluate question on expert systems marked?**
+An evaluate answer needs both advantages and disadvantages linked to the scenario and a reasoned judgement. A one-sided list usually earns no more than about half the marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027, version 3 (published July 2025), Cambridge International, part of Cambridge University Press & Assessment. Topic 7, Expert systems, section 7.1.

@@ -13,10 +13,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "networks-and-the-effects-of-using-them"
     subtopic: "network-issues-and-communication-0417"
-description: "Data-transfer security and privacy, strong versus weak passwords, authentication methods beyond passwords, anti-malware software, and the requirements of video, audio and web conferencing, for Cambridge IGCSE ICT 0417, section 4.2."
+description: "Data-transfer security, strong passwords, authentication methods, anti-malware and video, audio and web conferencing for Cambridge IGCSE ICT 0417 section 4.2."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -145,6 +147,20 @@ bandwidth-demanding) setup. Keep anti-malware's dependence on regular
 updates as a specific, statable fact -- "the software must be updated
 regularly to recognise new malware" is a more complete answer than
 simply "use anti-virus software".
+
+## Frequently asked questions
+
+**What makes a password strong?**
+In Cambridge IGCSE ICT (0417), a strong password combines length with a mix of uppercase and lowercase letters, numbers and symbols, and avoids easily guessed personal information. A weak password is short, uses one character type or is based on a name or birthdate.
+
+**What is zero login?**
+Zero login verifies a user's identity from passive signals, such as typing pattern, location or device recognition, without the user actively entering a password.
+
+**Why must anti-malware software be kept up to date?**
+Anti-malware software relies on a database of known malware signatures, so software that is not updated cannot recognise malware discovered after its last update.
+
+**What is the difference between video, audio and web conferencing?**
+Video conferencing needs a camera, microphone, speakers and a fast connection so participants can see each other. Audio conferencing needs only a microphone and speakers on a lower-bandwidth connection. Web conferencing adds sharing of documents, screens or presentations for collaborative work.
 
 ## Official syllabus
 

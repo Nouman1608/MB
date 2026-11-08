@@ -179,6 +179,20 @@ On "Evaluate", tie each point to the scenario. In medical diagnosis, "available 
 - Previous topic: [The digital divide](/resources/a-level-cambridge-ict-the-digital-divide/)
 - [Cambridge A Level IT hub](/boards/cambridge/a-level/ict/), [9626 checklist](/checklists/cambridge/a-level/ict/) and [free diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**What are the two parts of an expert system's knowledge base?**
+The Cambridge 9626 syllabus describes the knowledge base as a database of facts plus a rules base of IF...THEN rules. The knowledge usually comes from human experts, gathered by a knowledge engineer.
+
+**Who uses the knowledge base editor?**
+The knowledge base editor is used by the knowledge engineer or experts to add, edit or delete facts and rules, for example when advice changes. Everyday users enter their case data through the user interface instead.
+
+**Does an expert system always give the right answer?**
+No. An expert system suggests possible solutions that its rules support, often with a likelihood for each, and a person still decides what to do. It cannot handle situations outside its rules and must be updated regularly.
+
+**What are the advantages of an expert system?**
+An expert system can combine knowledge from several experts, explain its reasoning so advice can be checked, be available at any time, and train non-experts, though it is expensive and slow to build and users may over-rely on it.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027, version 3 (published July 2025), Cambridge International, part of Cambridge University Press & Assessment. Topic 7, Expert systems, section 7.1.

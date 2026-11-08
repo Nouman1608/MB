@@ -25,10 +25,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "hardware-and-software"
     subtopic: "user-interfaces"
-description: "Exam-style questions with full worked answers on mainframes and supercomputers, system and utility software, custom-written vs off-the-shelf software, and user interfaces, for Cambridge AS & A Level Information Technology (9626) Topic 2."
+description: "Original practice questions with worked answers on mainframes, supercomputers, system and utility software, and user interfaces for Cambridge 9626 topic 2."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
@@ -198,3 +200,17 @@ scenario where choosing between the two genuinely matters. A generic
 answer that a system is simply "more advanced" or "better" is weak; a good answer ties the choice explicitly to the scenario's specific details — budget, timescale,
 required reliability, or the technical skill of the intended user —
 the same way questions 6 to 10 above are structured.
+
+## Frequently asked questions
+
+**Is Hardware and software an AS Level topic in Cambridge 9626?**
+Yes. Hardware and software is topic 2 of Cambridge International AS & A Level Information Technology (9626) and is part of the AS content (topics 1 to 11), which the syllabus examines in Paper 1 Theory.
+
+**How should you answer justify-your-choice questions on hardware and software?**
+Tie the choice explicitly to details in the scenario, such as budget, timescale, required reliability or the technical skill of the intended user. Saying one option is simply "more advanced" or "better" is a weak answer.
+
+**What is a good way to revise Topic 2 hardware and software?**
+For every named category, learn at least one alternative it could be confused with and one concrete scenario where choosing between the two matters, because most questions ask you to weigh options rather than define them.
+
+**What is a cross compiler?**
+A cross compiler runs on one type of computer but produces machine code for a different type of computer, which is one way the 9626 syllabus says a high-level program can be translated to run on different systems.

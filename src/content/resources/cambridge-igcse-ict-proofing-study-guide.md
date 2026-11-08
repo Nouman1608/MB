@@ -18,7 +18,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "proofing"
     subtopic: "proofing-techniques-0417"
-description: "Using spell checkers, grammar checkers and validation tools, and proofreading techniques such as double entry and visual checking, for Cambridge IGCSE ICT 0417 Topic 15."
+description: "Spell checkers, grammar checkers, validation and proofreading techniques such as visual checking and double entry, for Cambridge IGCSE ICT 0417 Topic 15."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-08
@@ -133,3 +133,17 @@ For **explain** questions on the limits of a spell checker, always give a real e
 6. A date of birth of 31/04/2010 is typed. What kind of check would reject it? *A date or format check that knows April has 30 days.*
 7. Why might correct data still fail to be detected by validation? *Data can be reasonable but wrong, such as a mark of 86 typed in place of 68.*
 8. State two things to check for consistency in a document. *Same font and size for headings and body text, and the same spelling and punctuation throughout.*
+
+## Frequently asked questions
+
+**What can a spell checker not detect?**
+In Cambridge IGCSE ICT (0417), a spell checker cannot detect a correctly spelled word used in the wrong place, such as "there" instead of "their", and it does not check numbers such as an impossible date. It may also flag correct names and specialist words.
+
+**Why is a human proofread still needed after using a spell checker?**
+Software finds some errors, but a person is needed to check meaning, context and facts, such as a real word in the wrong place or a date that does not exist. Exam answers should mention both tools and human checking.
+
+**What is the difference between validation and verification?**
+Validation uses rules to check that data is reasonable, such as a range or format check, while verification checks that data was copied exactly as in the source, for example by visual checking or double data entry.
+
+**Can validation prove that data is correct?**
+No. Validation can only check that data is reasonable, so a sensible but wrong value, such as a mark of 86 typed instead of 68, will still pass.

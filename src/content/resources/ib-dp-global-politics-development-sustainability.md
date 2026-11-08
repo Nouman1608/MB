@@ -166,6 +166,20 @@ Paper 2 (1 hour 45 minutes, 30 marks; 40% at SL and 30% at HL) is based on the t
 
 Test yourself with the [revision notes](/resources/ib-dp-global-politics-development-sustainability-revision-notes/), then try the [practice questions](/resources/ib-dp-global-politics-development-sustainability-practice/). For the other thematic studies, see [Rights and justice](/resources/ib-dp-global-politics-rights-justice/) and [Peace and conflict](/resources/ib-dp-global-politics-peace-conflict/).
 
+## Frequently asked questions
+
+**What is Amartya Sen's capability approach?**
+Amartya Sen's capability approach sees development as widening the real freedoms people have, such as being healthy, educated, safe and able to take part in public life. This thinking shaped the UN Development Programme's Human Development Index.
+
+**Which actors are studied in Development and sustainability?**
+The IB DP Global Politics guide lists states, national and local governments and agencies; civil society; IGOs including international financial institutions; marginalised, vulnerable or most affected groups; and TNCs and MNCs. You should explain what each wants, what power it has and how actors cooperate or clash.
+
+**How is Development and sustainability examined?**
+It is examined in Paper 2, where students answer one question from section A, which has questions on each thematic study, and one from section B, which has integrating questions across the thematic studies and core topics. Essays are marked with markbands, and the top band needs diverse perspectives explored and evaluated.
+
+**Does sustainability only mean protecting the environment?**
+No. In IB DP Global Politics, sustainability has environmental, social and economic dimensions, and the guide treats it as a possible condition of any system or practice that can continue without destroying what it depends on.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Diploma Programme *Global politics guide*, first assessment 2026 (published February 2024). Thematic studies: Development and sustainability -- all prescribed topics and prescribed content.

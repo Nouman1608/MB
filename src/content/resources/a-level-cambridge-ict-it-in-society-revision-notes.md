@@ -184,6 +184,20 @@ The twelve areas the syllabus lists: **sport, manufacturing, healthcare, educati
 - Naming an area such as "healthcare" without a specific technology and effect.
 - Confusing the impact of technology enhanced learning on students with its impact on teachers.
 
+## Frequently asked questions
+
+**What are the six stages of data mining?**
+In Cambridge 9626, the six stages are business understanding, data understanding, data preparation, data modelling, evaluation and deployment. Data understanding checks the quality of the data, while data preparation fixes it.
+
+**What is the difference between a virtual currency and a cryptocurrency?**
+A virtual currency is issued and controlled by its developers and used within one online community, and is largely unregulated. A cryptocurrency is a virtual currency secured by cryptography and recorded on a decentralised ledger.
+
+**What is the difference between centralised and decentralised payment systems?**
+In a centralised system, one authority such as a bank checks and records each transaction, as with debit and credit cards. In a decentralised system, such as Bitcoin, a network of peers checks transactions and every node holds a copy of the ledger.
+
+**Is every digital currency a cryptocurrency?**
+No. Digital currency is the umbrella term for any money that exists and moves only electronically, including a bank balance spent by card. Using the two terms as if they mean the same thing is a common mistake.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027, version 3 (published July 2025), Cambridge International, part of Cambridge University Press & Assessment. Topic 12, IT in society, sections 12.1–12.5.

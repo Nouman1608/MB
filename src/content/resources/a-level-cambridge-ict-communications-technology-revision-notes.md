@@ -223,6 +223,20 @@ A **protocol** is a set of rules for formatting, addressing, sending and receivi
 - Giving firewall answers with no rule detail (address, port, protocol).
 - Describing a back-up strategy without saying copies are kept off site.
 
+## Frequently asked questions
+
+**What is the difference between a hub and a switch?**
+A hub broadcasts every frame to all its ports, while a switch reads the destination MAC address and sends the frame only to the correct port. In Cambridge 9626 answers, naming the MAC address is the point that earns credit.
+
+**What is the difference between bandwidth and bit rate?**
+Bandwidth is the maximum data rate a link can carry, while bit rate is the number of bits actually sent, or needed by a stream, per second. Defining bandwidth simply as speed is too vague.
+
+**What does a proxy server do?**
+A proxy server acts as a go-between for internet requests: it can filter requests to block unsuitable sites, cache frequently used pages so they load faster, and hide internal IP addresses.
+
+**What is the difference between a router and a gateway?**
+A router forwards packets between networks using IP addresses, while a gateway joins networks that use different protocols.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626, syllabus for examination in 2025, 2026 and 2027 (version 3), Cambridge University Press & Assessment: topic 14, Communications technology, sections 14.1 to 14.10.

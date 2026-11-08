@@ -135,6 +135,20 @@ Learn the content first with the [study guide](/resources/a-level-cambridge-ict-
 - Find your gaps with [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which Cambridge 9626 paper tests the digital divide?**
+The digital divide is topic 6 of Cambridge International AS & A Level Information Technology (9626), AS Level content examined on Paper 1 Theory. Paper 2 Practical candidates also apply knowledge from sections 1 to 7.
+
+**How should you describe the difference between two percentages?**
+Give the difference in percentage points, not percent: a fall from 80% to 55% is a difference of 25 percentage points. Writing "25%" for the gap is a common slip.
+
+**What are common mistakes on digital divide questions?**
+Common slips include naming the same group several times in different words, describing a device's weakness without saying what the user then cannot do, and proposing a measure that does not match the cause, such as free Wi-Fi for a skills gap.
+
+**How are evaluate questions on the digital divide marked?**
+Each measure needs a benefit, a limitation and a judgement. Giving three benefits with no limitations usually earns only about half the marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027, version 3 (published July 2025), Cambridge International, part of Cambridge University Press & Assessment. Topic 6, The digital divide, section 6.1.

@@ -152,3 +152,17 @@ evaluate the effectiveness of the action and the candidate's own
 collaboration. 5. Because Collaboration is assessed via teacher
 observation of each individual's behaviour throughout the project,
 not awarded uniformly to the whole team.
+
+## Frequently asked questions
+
+**How many marks is the IGCSE Global Perspectives Team Project worth?**
+The Cambridge IGCSE Global Perspectives (0457) Team Project is marked out of 70: 25 marks for the Team Element and 45 marks for the Personal Element, which is the individual Reflective Paper.
+
+**How many students can be in a Global Perspectives Team Project team?**
+A team has between 2 and 5 candidates. The team chooses a topic from the syllabus list, identifies a local issue, and each member researches a different aspect or perspective of it.
+
+**Is the Team Project marked by the teacher or by Cambridge?**
+The Team Project is internally assessed and externally moderated, which makes it different from the externally examined Written Exam and from the Individual Report.
+
+**What are the most common ways to lose marks in the Team Project?**
+The main traps are submitting only research or planning evidence as Evidence of Action, writing a Reflective Paper that describes rather than reflects and evaluates, going beyond word or time limits, and assuming Collaboration marks are automatically shared equally.

@@ -210,6 +210,20 @@ Rules make sure only the right people receive a document. That avoids wasted pri
 
 Use the [mail merge revision notes](/resources/a-level-cambridge-ict-mail-merge-revision-notes/), then the [mail merge practice questions](/resources/a-level-cambridge-ict-mail-merge-practice/). Sorting and filtering also appear in the [spreadsheets study guide](/resources/a-level-cambridge-ict-spreadsheets/).
 
+## Frequently asked questions
+
+**When should mail merge be used?**
+Mail merge is used when the same document goes to many people but some details differ, such as letters, invoices, certificates, labels and printed lists. It saves time, keeps layout consistent, reduces typing errors and allows personalisation.
+
+**How should a mail merge data source be set up?**
+Put unique field names in the first row only, keep one record per row with no blank rows or merged cells, split data into the smallest useful fields such as Title, Forename and Surname, keep formats consistent, and remove duplicates before merging.
+
+**What is the difference between Skip Record If and Next Record If?**
+Skip Record If produces no copy for a record that meets the condition. Next Record If moves to the next record within the same merged document, as in labels and directories, and only moves on one record each time, so a filter or Skip Record If is more reliable for exclusion.
+
+**Why should errors be corrected in the data source rather than the merged letter?**
+Correcting the data source keeps the fix for every future merge and every master document that uses it, whereas editing one merged copy leaves the error in the source.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027, version 3 (published July 2025), Cambridge International, part of Cambridge University Press & Assessment. Topic 18, Mail merge, section 18.1.

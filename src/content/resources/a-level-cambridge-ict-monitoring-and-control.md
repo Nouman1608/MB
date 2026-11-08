@@ -19,10 +19,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "monitoring-and-control"
     subtopic: "control-technologies"
-description: "Sensors, calibration, actuators and microprocessor-controlled technology -- Topic 3 of Cambridge International AS & A Level Information Technology (9626), covering monitoring, measurement and control systems."
+description: "Sensors, calibration, actuators and microprocessor-controlled systems such as greenhouses and smart homes, for Cambridge AS & A Level IT 9626 topic 3."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 updatedDate: 2026-09-27
@@ -141,6 +143,20 @@ calibration.
 - Match named sensors to specific real-world uses, with a reason.
 - Be able to sketch or describe a simple sensor → microprocessor →
 actuator control loop as a flowchart.
+
+## Frequently asked questions
+
+**What is the difference between monitoring and control?**
+In Cambridge 9626, monitoring reads and records a value for a human or system to review, such as a weather station logging humidity. Control uses a sensor reading to trigger an automatic response, such as a greenhouse vent opening when the temperature crosses a threshold.
+
+**What is the difference between one-point, two-point and multipoint calibration?**
+One-point calibration checks a sensor against a single known reference value. Two-point calibration checks it at two points, typically the low and high ends of its range, adjusting for offset and scale errors, and multipoint calibration checks several points for the highest accuracy where the response is not linear.
+
+**What is the difference between a sensor and an actuator?**
+A sensor takes a reading from the physical world, such as temperature or light level, while an actuator produces a physical movement or action in response, such as opening a vent or turning a motor.
+
+**Why is a control system described as a closed loop?**
+After an actuator acts, the system keeps re-checking the sensor and responds again when the reading changes, rather than acting only once. Forgetting this feedback loop is a common mistake.
 
 ## Official syllabus
 
