@@ -12,6 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-underlying-principles-and-english-legal-system-yla1"
+  - qualification: "a-level"
+    topic: "paper-1-underlying-principles-and-english-legal-system-yla1"
+    subtopic: "the-nature-purpose-of-and-liability-in-law-yla1"
+  - qualification: "a-level"
+    topic: "paper-1-underlying-principles-and-english-legal-system-yla1"
+    subtopic: "the-sources-of-english-law-its-enforcement-and-administration-yla1"
 description: "The nature and purpose of law, legal theories, and how English law is made and administered -- Paper 1 of Pearson Edexcel International Advanced Level Law, one of two compulsory papers."
 author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
