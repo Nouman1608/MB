@@ -26,10 +26,12 @@ syllabusTopics:
 description: "Condensed Cambridge 9700 genetic technology notes: gene transfer tools, PCR, electrophoresis, microarrays, medicine and GM crops, with a self-test."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These notes condense topic 19, Genetic technology, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, sections 19.1 to 19.3. It is A Level content, examined on Paper 4. For full explanations and worked examples, read the [study guide](/resources/a-level-biology-9700-genetic-technology/) first.
@@ -237,6 +239,23 @@ Implications: gene flow to wild relatives; herbicide-resistant weeds; insects re
 - Saying longer fragments move further in a gel.
 - Confusing microarray genome analysis (DNA) with expression studies (mRNA → cDNA).
 - Listing ethical points without linking them to the named example.
+
+## Frequently asked questions
+
+**What is recombinant DNA?**
+Recombinant DNA is DNA made by joining DNA from two or more different sources, such as a human gene inserted into a bacterial plasmid.
+
+**Why is a promoter transferred with a gene?**
+A promoter is the DNA sequence where RNA polymerase binds to start transcription. The host cell needs a promoter it recognises for the inserted gene to be expressed.
+
+**Why is cDNA used to put human genes into bacteria?**
+cDNA is made from mRNA by reverse transcriptase, so it has no introns. Bacteria cannot remove introns, so cDNA allows them to make the correct protein.
+
+**How many DNA copies are there after a number of PCR cycles?**
+Each cycle doubles the DNA, so copies after n cycles equal the starting copies × 2ⁿ, assuming perfect doubling.
+
+**What is the difference between genetic engineering and gene editing?**
+Genetic engineering can insert DNA anywhere in the genome; gene editing inserts, deletes or replaces DNA at a specific, targeted site.
 
 ## Official syllabus
 

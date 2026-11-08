@@ -172,6 +172,20 @@ Learn it first: [Carbohydrates and lipids study guide](/resources/a-level-biolog
 - [Free 9700 AS diagnostic](/practice/9700/diagnostic/as/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What is the difference between condensation and hydrolysis?**
+Condensation joins two molecules and releases a water molecule; hydrolysis adds water to break the bond. Mixing these up, or saying which one releases water the wrong way round, is a common way to lose marks in Cambridge 9700 answers.
+
+**How do you count the water molecules released when a polysaccharide forms?**
+An unbranched chain of n monomers has n − 1 glycosidic bonds, so n − 1 water molecules are released. Using n instead of n − 1 is a frequent error.
+
+**Why must you write α-glucose or β-glucose rather than just glucose?**
+Starch and glycogen are made of α-glucose and cellulose of β-glucose, so the ring form explains the structure. Writing only "glucose" may not answer a question about a specific polysaccharide.
+
+**Why do lipids store more energy per gram than carbohydrates?**
+Lipids have more C–H bonds per gram, so more energy is released per gram when they are respired. Stating "fats are an energy store" without this reason usually does not earn the mark.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment -- Topic 2, Biological molecules (section 2.2 Carbohydrates and lipids).

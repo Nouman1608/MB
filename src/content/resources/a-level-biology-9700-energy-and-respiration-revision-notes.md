@@ -23,10 +23,12 @@ syllabusTopics:
 description: "Condensed notes on ATP, RQ, the stages of aerobic respiration, fermentation and rice, with a checked self-test, for Cambridge A Level Biology 9700."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These revision notes condense Topic 12, Energy and respiration, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. They cover sections 12.1 (Energy) and 12.2 (Respiration). This is A Level content, examined in Paper 4; the investigations also feed the planning and analysis skills tested in Paper 5. For full explanations and worked examples, use the [energy and respiration study guide](/resources/a-level-biology-9700-energy-and-respiration/).
@@ -266,6 +268,23 @@ Control: identical tube with glass beads of equal volume. Equilibrate in a water
 - In rate-from-time work, plotting time against the variable when the question asks for rate; use **1/t**.
 - Rounding too far. Give answers to the same number of significant figures as the data, or one more, as the syllabus requires.
 - For rice, listing adaptations the syllabus does not ask for instead of the three named ones.
+
+## Frequently asked questions
+
+**Why is ATP called the universal energy currency?**
+It is hydrolysed in one quick step, releases energy in small usable amounts, is small and soluble, is quickly regenerated from ADP and Pi, and is found in all cells.
+
+**How do you calculate RQ?**
+RQ is the carbon dioxide produced divided by the oxygen taken in, using molecules or volumes. Inverting the ratio is a common error.
+
+**Why do lipids release more energy per gram than carbohydrates?**
+Lipids have more hydrogen atoms per gram, so they produce more reduced NAD and FAD and more protons and electrons for oxidative phosphorylation.
+
+**What are the three rice adaptations in the Cambridge 9700 syllabus?**
+Aerenchyma in the roots, ethanol fermentation in the roots with tolerance of ethanol, and faster stem growth to keep leaves above rising water.
+
+**How do protons return to the matrix in oxidative phosphorylation?**
+By facilitated diffusion through ATP synthase, which makes ATP. They do not return by active transport or osmosis.
 
 ## Official syllabus
 

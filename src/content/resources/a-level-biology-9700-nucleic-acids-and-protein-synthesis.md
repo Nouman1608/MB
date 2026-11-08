@@ -23,10 +23,12 @@ syllabusTopics:
 description: "Study guide to nucleotides, DNA structure, semi-conservative replication, transcription, translation and mutation for Cambridge 9700 AS Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches topic 6, Nucleic acids and protein synthesis, from the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers sections 6.1 (Structure of nucleic acids and replication of DNA) and 6.2 (Protein synthesis). This is AS Level content, so it is examined on Paper 1 (Multiple Choice) and Paper 2 (AS Level Structured Questions). Paper 4 is based on the A Level content but the syllabus states that knowledge of AS material will be required there too.
@@ -268,6 +270,23 @@ A changed amino acid sequence may change the tertiary structure, so a protein su
 - Definitions, tables and a quick self-test: [nucleic acids and protein synthesis revision notes](/resources/a-level-biology-9700-nucleic-acids-and-protein-synthesis-revision-notes/)
 - Original exam-style questions with marked answers: [nucleic acids and protein synthesis practice](/resources/a-level-biology-9700-nucleic-acids-and-protein-synthesis-practice/)
 - Where ribosomes and the nuclear envelope fit in the cell: [cell structure study guide](/resources/a-level-biology-cell-structure/)
+
+## Frequently asked questions
+
+**What is a gene?**
+A gene is a sequence of nucleotides that forms part of a DNA molecule and codes for a polypeptide.
+
+**Where do transcription and translation happen in a eukaryotic cell?**
+Transcription happens in the nucleus and translation happens in the cytoplasm, on ribosomes. The mRNA leaves the nucleus through a nuclear pore.
+
+**What is splicing?**
+The primary transcript contains non-coding introns and coding exons. Introns are removed and exons are joined to form mRNA before it leaves the nucleus.
+
+**What are the start and stop codons?**
+AUG on mRNA is the start codon and also codes for methionine. UAA, UAG and UGA are stop codons, which code for no amino acid.
+
+**How does mRNA differ from DNA?**
+mRNA is a single strand, not a double helix, contains ribose instead of deoxyribose, has uracil instead of thymine, and is much shorter because it is a copy of one gene or a few genes.
 
 ## Official syllabus
 

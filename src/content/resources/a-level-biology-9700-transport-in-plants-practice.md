@@ -23,10 +23,12 @@ syllabusTopics:
 description: "Original exam-style questions with marked answers on xylem, phloem, water pathways, transpiration and translocation for Cambridge 9700 AS Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -140,6 +142,20 @@ Before you start, you may want the [study guide](/resources/a-level-biology-9700
 - Track every outcome: [printable 9700 checklist](/checklists/cambridge/a-level/biology/)
 - Test the whole AS course: [9700 AS Level diagnostic](/practice/9700/diagnostic/as/), or see [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**What is the Casparian strip made of?**
+The Casparian strip is a band of suberin in the endodermal cell walls. Writing "lignin" is a common error in Cambridge 9700 answers.
+
+**Does water evaporate from the stomata?**
+No. Water evaporates from the walls of mesophyll cells inside the leaf, then water vapour diffuses out through the stomata.
+
+**Is sucrose actively pumped into the phloem?**
+No. Proton pumps in companion cells actively pump H⁺ out, and H⁺ diffuse back in through cotransporter proteins carrying sucrose with them.
+
+**How should you explain mass flow in the phloem?**
+Use hydrostatic pressure: pressure is high at the source, where sucrose is loaded and water enters by osmosis, and lower at the sink. Explaining mass flow with concentration alone loses marks.
 
 ## Official syllabus
 

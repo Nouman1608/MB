@@ -23,10 +23,12 @@ syllabusTopics:
 description: "Condensed revision notes for Cambridge 9700 cell membranes and transport: membrane roles, transport processes, water potential, SA:V and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These revision notes condense topic 4, Cell membranes and transport, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. They cover sub-topics 4.1 (Fluid mosaic membranes) and 4.2 (Movement into and out of cells). Everything here is AS Level content, tested on Paper 1 and Paper 2, and assumed knowledge for Paper 4. For full explanations and worked examples, use the [cell membranes and transport study guide](/resources/a-level-biology-9700-cell-membranes-and-transport/).
@@ -263,6 +265,23 @@ At about 0.38 mol dm⁻³ the tissue gains and loses water equally, so its water
 - Reporting SA:V without ": 1", or leaving out faces when adding surface areas.
 - Using change in mass instead of percentage change when starting masses differ.
 - Saying plant cells "burst" or "shrink" instead of "turgid" and "plasmolysed".
+
+## Frequently asked questions
+
+**What is the fluid mosaic model?**
+It describes the membrane as a phospholipid bilayer in which molecules move sideways (fluid), with proteins scattered through it (mosaic).
+
+**What are the three stages of cell signalling in Cambridge 9700?**
+A cell secretes a ligand, the ligand is transported to target cells (for example in the blood), and it binds to a complementary cell surface receptor. Only cells with that receptor respond.
+
+**What is the difference between facilitated diffusion and active transport?**
+Both use membrane proteins, but only active transport uses ATP and moves substances against their concentration gradient. Facilitated diffusion does not need ATP.
+
+**Do I need to know solute potential and pressure potential for 9700?**
+No. These notes state that solute potential and pressure potential are not required by the syllabus. You need water potential, with pure water at 0 kPa and solutions having negative values.
+
+**How should SA:V be written?**
+Divide surface area by volume and write it as "n : 1". Leaving out ": 1", or missing faces when adding surface areas, loses marks.
 
 ## Official syllabus
 

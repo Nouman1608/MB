@@ -219,6 +219,23 @@ State it plainly: cells use **ATP from respiration** for **energy-requiring proc
 - Confusing the basal body of a cilium with a microvillus.
 - Forgetting unit conversion (mm to µm or nm) before using a scale bar or magnification.
 
+## Frequently asked questions
+
+**Where are 70S and 80S ribosomes found?**
+80S ribosomes are in the cytoplasm of eukaryotic cells, free or on the rough ER. 70S ribosomes are in mitochondria and chloroplasts, and they are the only type in bacteria.
+
+**What is the difference between cilia and microvilli?**
+Cilia are long, have a 9 + 2 arrangement of microtubules and beat. Microvilli are short folds of the cell surface membrane with no microtubule core.
+
+**Why can't ribosomes be seen with a light microscope?**
+The resolution of a light microscope is about 200 nm, which is too coarse to show ribosomes, ER or Golgi detail. An electron micrograph is needed.
+
+**Does a bacterium have organelles?**
+It has no double-membrane organelles, such as a nucleus, mitochondria or chloroplasts, but it does have ribosomes. Writing that a bacterium has "no organelles" loses marks.
+
+**What is the tonoplast?**
+The tonoplast is the partially permeable membrane around the large permanent vacuole of a plant cell. Use this term rather than "vacuole membrane" when the name is asked for.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment -- Topic 1, Cell structure (section 1.2 Cells as the basic units of living organisms).

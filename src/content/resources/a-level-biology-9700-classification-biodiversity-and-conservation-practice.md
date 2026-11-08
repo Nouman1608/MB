@@ -26,10 +26,12 @@ syllabusTopics:
 description: "Original Cambridge 9700 practice questions on classification, sampling, Lincoln and Simpson's indices, correlation and conservation, with marked answers."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -204,6 +206,20 @@ Formulae: N = (n₁ × n₂) / m₂ ; D = 1 − Σ(n/N)² ; rₛ = 1 − (6 × �
 - [Printable 9700 checklist](/checklists/cambridge/a-level/biology/)
 - [9700 A Level diagnostic](/practice/9700/diagnostic/a-level/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**What must a biological species definition include?**
+It must say that organisms can interbreed to produce fertile offspring and are reproductively isolated from other species. Leaving out "fertile" is a common way to lose the mark.
+
+**Are the Lincoln index and Simpson's index formulae given in the Cambridge 9700 exam?**
+Yes. The formulae for the Lincoln index, Simpson's index, Spearman's rank and Pearson's correlation are provided, so marks depend on substituting the right values, such as not swapping n₂ and m₂.
+
+**What do you need to write after a correlation test?**
+State the null hypothesis, compare your calculated value with the critical value, and say whether you reject the null hypothesis. A significant correlation does not show that one factor causes the other.
+
+**What is the difference between IUCN and CITES?**
+The IUCN assesses the conservation status of species and publishes the Red List. CITES is an agreement between governments that controls international trade in endangered species.
 
 ## Official syllabus
 

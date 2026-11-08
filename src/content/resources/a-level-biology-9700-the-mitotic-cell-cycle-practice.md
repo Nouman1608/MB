@@ -23,10 +23,12 @@ syllabusTopics:
 description: "Original practice questions with marked answers on Cambridge 9700 mitotic cell cycle: chromosomes, interphase, telomeres, tumours and mitosis stages."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -168,6 +170,20 @@ Revise first with the [study guide](/resources/a-level-biology-9700-the-mitotic-
 - See the [9700 course hub](/boards/cambridge/a-level/biology/) and the [printable checklist](/checklists/cambridge/a-level/biology/).
 - Take the free 10-minute [9700 AS diagnostic](/practice/9700/diagnostic/as/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**In which phase of the cell cycle does DNA replicate?**
+DNA replicates in the S phase of interphase. Placing replication in prophase or G2 is a common error in Cambridge 9700 answers.
+
+**What separates in anaphase of mitosis?**
+Sister chromatids separate as the centromeres divide and are pulled to opposite poles. Writing "chromosomes are pulled to the poles" loses marks.
+
+**What is the difference between a centromere and a centriole?**
+A centromere is the part of a chromosome that holds the sister chromatids together. A centriole is an organelle that organises the spindle in animal cells.
+
+**How should you explain how a tumour forms?**
+Say that a mutation in a gene controlling cell division means the cell divides repeatedly by mitosis without control. Leaving out "without control" or "repeatedly" weakens the answer.
 
 ## Official syllabus
 

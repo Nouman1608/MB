@@ -26,10 +26,12 @@ syllabusTopics:
 description: "Condensed Cambridge 9700 notes on variation, t-test steps, selection types, Hardy-Weinberg, selective breeding and speciation, with a self-test."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These notes condense topic 17, Selection and evolution, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027: sections 17.1 Variation, 17.2 Natural and artificial selection and 17.3 Evolution. It is A Level content, examined on Paper 4; the t-test can also appear on Paper 5. For full explanations and worked examples, use the [selection and evolution study guide](/resources/a-level-biology-9700-selection-and-evolution/).
@@ -252,6 +254,23 @@ Links: [course hub](/boards/cambridge/a-level/biology/) · [printable checklist]
   <figcaption>Chance changes in allele frequency are large in small populations and small in large ones.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**What is the difference between continuous and discontinuous variation?**
+Discontinuous variation has clearly different phenotypes caused by different alleles of a single gene. Continuous variation shows a range of values, caused by many unlinked genes with additive alleles, often affected by the environment.
+
+**What are the conditions for the Hardy–Weinberg principle?**
+A large population, random mating, and no mutation, migration or selection.
+
+**What is the difference between genetic drift and natural selection?**
+Genetic drift is a random change in allele frequency, most important in small populations. Natural selection is non-random, because individuals with advantageous alleles are more likely to survive and reproduce.
+
+**What is the difference between allopatric and sympatric speciation?**
+In allopatric speciation, populations are separated geographically so there is no gene flow between them. In sympatric speciation, a new species forms within the same area through another barrier to interbreeding.
+
+**Does a t-test prove that two means are different?**
+No. A t-test shows whether a difference is significant at p = 0.05 by comparing t with the critical value; it does not prove a difference.
 
 ## Official syllabus
 

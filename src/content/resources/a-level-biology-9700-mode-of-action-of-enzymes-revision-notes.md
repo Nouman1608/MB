@@ -227,6 +227,20 @@ Coloured substrate disappearing → absorbance falls. Coloured product forming �
 </figure>
 
 
+## Frequently asked questions
+
+**Is catalase an intracellular or extracellular enzyme?**
+Catalase is intracellular, because it acts inside the cells that make it. It is not extracellular just because it can be extracted from potato tissue.
+
+**What is the difference between lock-and-key and induced fit?**
+In lock-and-key, the active site has a fixed shape complementary to the substrate. In induced fit, the active site changes shape when the substrate binds, so it fits more closely.
+
+**How do you measure the rate of a catalase reaction?**
+Collect the oxygen produced in a gas syringe or an inverted measuring cylinder and read the volume at set times. The initial rate is the gradient of a tangent at t = 0, in cm³ s⁻¹.
+
+**What colour change shows that starch has been broken down by amylase?**
+The iodine stays orange-brown instead of turning blue-black. Saying it "turns orange-brown" is marked as an error, because iodine is orange-brown to start with.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, published by Cambridge Assessment International Education (Cambridge University Press & Assessment, September 2022). Topic 3, Enzymes, section 3.1 Mode of action of enzymes, learning outcomes 1 to 4.

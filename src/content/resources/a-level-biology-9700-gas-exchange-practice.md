@@ -20,10 +20,12 @@ syllabusTopics:
 description: "Twelve original gas exchange questions with fully worked, mark-by-mark answers and examiner insights, for Cambridge 9700 AS & A Level Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -169,6 +171,20 @@ Learn it first: [Gas exchange study guide](/resources/a-level-biology-9700-gas-e
 - [9700 printable checklist](/checklists/cambridge/a-level/biology/)
 - [Free 9700 AS diagnostic](/practice/9700/diagnostic/as/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Do cilia trap dust and pathogens?**
+No. Mucus traps dust and pathogens, and cilia beat to move the mucus up towards the throat. Saying cilia trap particles is a common error in Cambridge 9700 answers.
+
+**Do bronchioles have cartilage?**
+No. Cartilage is found in the trachea and bronchi but disappears before the bronchioles, which have smooth muscle instead.
+
+**Do elastic fibres contract?**
+No. Elastic fibres stretch and recoil passively; only muscle contracts. Using "contract" for elastic fibres loses marks.
+
+**What should you include when describing the diffusion distance in the lungs?**
+Include both the alveolar wall and the capillary wall, each a single layer of flattened cells. Leaving out the capillary wall is a common mistake.
 
 ## Official syllabus
 

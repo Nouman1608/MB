@@ -149,6 +149,20 @@ Learn it first: [Water study guide](/resources/a-level-biology-9700-water/) · R
 - [Free 9700 AS diagnostic](/practice/9700/diagnostic/as/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Is the O–H bond inside a water molecule a hydrogen bond?**
+No. The O–H bond inside one water molecule is a covalent bond. A hydrogen bond is the weaker attraction between the δ+ hydrogen of one molecule and the δ− oxygen of a different molecule.
+
+**How do water molecules arrange themselves around ions?**
+Around a positive ion, water molecules turn their δ− oxygen towards the ion; around a negative ion, they turn their δ+ hydrogens towards it. Reversing this orientation is a common error.
+
+**Does high specific heat capacity keep organisms warm?**
+No. It keeps temperature stable, slowing both heating and cooling. Saying it keeps organisms "warm" loses the mark in Cambridge 9700 answers.
+
+**What units should you check in water thermal calculations?**
+Match grams with J g⁻¹ and kilograms with kJ kg⁻¹, and keep J with J and kJ with kJ. Mixing kg with g or kJ with J is a frequent mistake.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment -- Topic 2, Biological molecules (section 2.4 Water).

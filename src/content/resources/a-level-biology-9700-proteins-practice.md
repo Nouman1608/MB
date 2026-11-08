@@ -179,6 +179,20 @@ Learn it first: [Proteins study guide](/resources/a-level-biology-9700-proteins/
 - [Free 9700 AS diagnostic](/practice/9700/diagnostic/as/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Where does the water come from when a peptide bond forms?**
+The water is made from the –OH of the carboxyl group of one amino acid and an –H from the amine group of the other. Saying it comes from the R groups is a common error in Cambridge 9700 answers.
+
+**How do you count peptide bonds in a protein with more than one chain?**
+Each chain of n amino acids has n − 1 peptide bonds, so work out each chain separately and add them. Treating a multi-chain protein as one chain gives the wrong count.
+
+**Is a disulfide bond within one chain part of quaternary structure?**
+No. A disulfide bond within a single polypeptide chain is part of its tertiary structure. Quaternary structure involves two or more chains.
+
+**How should you explain the strength of collagen?**
+Mention the covalent cross-links between neighbouring molecules and their staggered ends, which avoid a line of weakness. Describing collagen strength without these features loses marks.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment -- Topic 2, Biological molecules (section 2.3 Proteins).

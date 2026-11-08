@@ -154,6 +154,20 @@ They differ from the topic-level practice set; related pages are under Next step
 - [A Level Biology 9700 diagnostic](/practice/9700/diagnostic/a-level/), or [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What happens inside the axon during an action potential?**
+The inside becomes positive at the peak of the action potential, then more negative again during repolarisation. Saying it simply becomes "negative" is a common way to lose marks.
+
+**Which bands shorten when striated muscle contracts?**
+The I band and H zone shorten while the A band stays the same length, because the filaments slide past each other rather than shortening.
+
+**Why must you mention calcium ions at a synapse?**
+Arrival of an action potential opens voltage-gated calcium ion channels in the presynaptic knob, and the Ca²⁺ that enters triggers release of neurotransmitter. Leaving out this step loses marks.
+
+**How are these Cambridge 9700 control and coordination questions organised?**
+Each question is tagged with the subtopic (15.1 or 15.2) and learning outcomes it tests, so you can practise one outcome at a time.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, published by Cambridge University Press & Assessment. Topic 15, Control and coordination: sections 15.1 and 15.2.

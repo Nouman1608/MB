@@ -136,6 +136,20 @@ Use the [study guide](/resources/a-level-aqa-biology-eukaryotic-and-prokaryotic-
 - All free 10-minute [diagnostics](/diagnostics/)
 - Book a free trial class: [trial](/trial/)
 
+## Frequently asked questions
+
+**Is a cell wall enough to show that a cell is a prokaryote?**
+No. Plant, algal and fungal cells also have cell walls, and all cells have ribosomes. The features that identify a prokaryote are circular DNA free in the cytoplasm, no nucleus and no membrane-bound organelles.
+
+**Do I need to know the structure of plasmids, capsules and flagella for AQA A-level Biology?**
+No. The AQA 7401/7402 specification says structural details of plasmids, capsules and flagella are not required. You need to know what they are and that many, but not all, prokaryotic cells have them.
+
+**What are the three parts of a virus particle named in the AQA specification?**
+Genetic material (nucleic acid), the capsid (the protein coat around it) and attachment proteins that project from the outside and bind to receptors on host cells.
+
+**How do you answer a comparison question on bacteria and viruses?**
+State each difference for both sides, for example "the bacterium has ribosomes, whereas the virus has none". A one-sided list such as "no ribosomes" can leave the comparison unclear.
+
 ## Official syllabus
 
 AQA AS and A-level Biology (7401/7402) specification, version 1.5, 26 November 2021, section 3.2.1.2 Structure of prokaryotic cells and of viruses. Published by AQA.

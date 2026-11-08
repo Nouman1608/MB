@@ -162,6 +162,20 @@ Plot volume against time and find the **initial rate** from a tangent at t = 0 [
 - [AS Level Biology 9700 diagnostic](/practice/9700/diagnostic/as/), or [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Does an enzyme change the overall energy change of a reaction?**
+No. An enzyme lowers the activation energy only; the energy of the substrates and products, and so the overall energy change, stays the same.
+
+**What changes shape in the induced-fit model?**
+The active site changes shape slightly when the substrate binds. Saying the substrate changes shape is a common error.
+
+**Why does an enzyme reaction stop?**
+The substrate is used up. Writing that "the enzyme is used up" loses marks, because the enzyme is unchanged by the reaction.
+
+**What should you mention when describing colorimeter use?**
+Name absorbance, the complementary-coloured filter, zeroing with a blank and a calibration curve. Saying only that a colorimeter "measures colour" is not enough.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, published by Cambridge Assessment International Education (Cambridge University Press & Assessment, September 2022). Topic 3, Enzymes, section 3.1 Mode of action of enzymes, learning outcomes 1 to 4.

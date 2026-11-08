@@ -20,10 +20,12 @@ syllabusTopics:
 description: "Quick-recall notes on airway tissues, their functions, plan diagrams and alveolar gas exchange, with a self-test, for Cambridge 9700 AS Level Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These revision notes cover Topic 9, Gas exchange, in the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027: section 9.1 The gas exchange system, outcomes 1 to 7. It is AS Level content, examined on Papers 1 and 2, and Paper 4 can draw on it. For full explanations and worked examples, use the [Gas exchange study guide](/resources/a-level-biology-9700-gas-exchange/).
@@ -237,6 +239,20 @@ The capillary network around the alveoli is supplied by the **pulmonary artery**
 - Not converting mm to µm before a size calculation.
 - Drawing individual cells in a plan diagram, or getting the thickness of the cartilage layer out of proportion.
 - Confusing goblet cells with mucous glands.
+
+## Frequently asked questions
+
+**How do you identify an airway from a micrograph?**
+Look for cartilage first: a C-shaped ring means trachea, separate plates mean bronchus, and none means bronchiole or alveoli. Confirm with smooth muscle and the type of lining.
+
+**What are the rules for a plan diagram of the trachea wall?**
+Draw tissue layers only, with no individual cells, using single clear continuous lines and no shading. Keep the layers in the correct proportions and use ruled labels that touch the layer.
+
+**What is the difference between goblet cells and mucous glands?**
+Goblet cells are single cells in the epithelium; mucous glands are groups of cells deeper in the wall of the trachea and bronchi. Both secrete mucus.
+
+**Is the mechanism of breathing in the Cambridge 9700 gas exchange topic?**
+No. The syllabus limits this outcome to six structures, from the trachea to the capillary network, so the mechanism of breathing is not required here.
 
 ## Official syllabus
 

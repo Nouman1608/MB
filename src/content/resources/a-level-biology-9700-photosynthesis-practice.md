@@ -23,10 +23,12 @@ syllabusTopics:
 description: "Eleven original photosynthesis questions with marked worked answers: Rf, photophosphorylation, Calvin cycle and limiting factors, for Cambridge 9700."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -169,6 +171,20 @@ Before you start, read the [photosynthesis study guide](/resources/a-level-biolo
 - [Printable Biology checklist](/checklists/cambridge/a-level/biology/)
 - [A Level Biology 9700 diagnostic](/practice/9700/diagnostic/a-level/), or [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Does Rf have units?**
+No. Rf is a ratio of two distances measured from the origin, so it has no units. Measure to the centre of each spot, not its edge.
+
+**How many molecules of GP are made when one CO₂ is fixed?**
+Each CO₂ fixed by rubisco with one RuBP gives two molecules of GP. Saying one GP is formed is a common error in Cambridge 9700 answers.
+
+**Does cyclic photophosphorylation release oxygen?**
+No. Only non-cyclic photophosphorylation involves photolysis of water, releases oxygen and makes reduced NADP. Cyclic photophosphorylation makes ATP only.
+
+**How should you explain a plateau on a limiting factor graph?**
+Name the factor that is now limiting, which is one of the factors held constant, and use the data as evidence. Describing the plateau without naming a factor loses marks.
 
 ## Official syllabus
 

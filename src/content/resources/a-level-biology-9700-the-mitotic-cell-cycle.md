@@ -23,10 +23,12 @@ syllabusTopics:
 description: "Study guide for Cambridge 9700 topic 5: chromosome structure, the cell cycle, telomeres, stem cells, tumours and mitosis stages, with worked examples."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches topic 5, The mitotic cell cycle, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers sub-topics 5.1 (Replication and division of nuclei and cells) and 5.2 (Chromosome behaviour in mitosis). All of it is AS Level content, so it is tested on Paper 1 (multiple choice) and Paper 2 (AS Level structured questions), and Paper 4 can draw on it because A Level questions require AS knowledge. Outcome 5.2.2 asks you to interpret microscope slides, a skill that also belongs to the practical work assessed in Paper 3.
@@ -229,6 +231,23 @@ Convert mm to µm by multiplying by 1000.
 - Saying telomeres stop DNA from being lost. DNA is lost; telomeres stop genes being lost.
 - Defining a tumour as "a cancer" without saying cells divide by mitosis without control.
 - Counting chromatids instead of chromosomes (or the reverse) after S phase.
+
+## Frequently asked questions
+
+**Why is mitosis important?**
+Mitosis produces genetically identical daughter nuclei, which is needed for growth, replacement of damaged or dead cells, repair of tissues and asexual reproduction.
+
+**Is interphase a resting stage?**
+No. Interphase is usually the longest stage of the cell cycle, and the cell is growing and replicating its DNA during it.
+
+**What are the parts of a chromosome named in Cambridge 9700?**
+DNA, histone proteins, sister chromatids, the centromere and telomeres.
+
+**How do you identify the stages of mitosis on a photomicrograph?**
+Chromosomes visible but scattered show prophase; chromosomes lined up across the middle show metaphase; two groups of chromatids moving apart show anaphase; two groups at the poles show telophase.
+
+**Why are root tips used to observe mitosis?**
+Cells in root tips, such as onion or garlic, divide often, so many cells are seen in different stages of mitosis.
 
 ## Official syllabus
 

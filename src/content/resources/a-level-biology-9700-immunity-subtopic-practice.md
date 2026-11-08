@@ -181,6 +181,20 @@ Revise first with the [immunity study guide](/resources/a-level-biology-9700-imm
 - Take the [9700 AS diagnostic](/practice/9700/diagnostic/as/) or [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is an antigen in Cambridge 9700 Biology?**
+An antigen is a molecule, usually a protein or glycoprotein, that is recognised by the immune system and stimulates an immune response. Defining it only as "a foreign molecule" is not enough.
+
+**Do T-killer cells kill viruses?**
+No. T-killer cells destroy infected body cells, not the viruses themselves. T-helper cells release cytokines and do not make antibodies.
+
+**What steps of the hybridoma method are often missed?**
+Fusing B-lymphocytes with myeloma cells and selecting the hybridoma cells that make the required antibody are the steps most often left out.
+
+**How should you name types of immunity?**
+Always say both parts, for example "artificial passive" or "natural active". Writing only "passive" does not show which type is meant.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, Version 1 (published September 2022), Cambridge University Press & Assessment. Topic 11 Immunity, sub-topics 11.1 and 11.2.

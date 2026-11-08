@@ -216,6 +216,23 @@ The last row only works if volumes and heating are the same in both tests.
 - Listing "amount of Benedict's" without saying it must be the same volume and in excess.
 - Doing fewer than five concentrations, or no replicates, in a planning answer.
 
+## Frequently asked questions
+
+**What does the biuret test detect?**
+The biuret test detects peptide bonds, so it shows polypeptides and proteins. A positive result turns the blue solution purple.
+
+**Why is a negative control used in food tests?**
+Using distilled water in place of the sample shows the reagent's own colour, so you can tell whether a colour change is caused by the sample.
+
+**How do you convert mol dm⁻³ of glucose to % (w/v)?**
+Multiply by the relative molecular mass (180 for glucose) to get g dm⁻³, then divide by 10. For example, 0.30 mol dm⁻³ is 54 g dm⁻³, which is 5.4 % (w/v).
+
+**Why must Benedict's solution be in excess in the semi-quantitative test?**
+If Benedict's solution is not in excess, high concentrations of reducing sugar all look brick-red and cannot be told apart.
+
+**Can you estimate an unknown concentration outside the range of your standards?**
+No. An unknown can only be estimated by interpolation within the range of the known concentrations.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for 2025, 2026 and 2027 (Version 1), Cambridge International (Cambridge University Press & Assessment). Topic 2, Biological molecules, sub-topic 2.1 Testing for biological molecules.

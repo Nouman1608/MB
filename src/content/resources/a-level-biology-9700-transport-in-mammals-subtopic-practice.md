@@ -177,6 +177,20 @@ These questions differ from the [topic-level practice set](/resources/a-level-bi
 - Free 10-minute [9700 AS diagnostic](/practice/9700/diagnostic/as/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you tell a monocyte from a neutrophil?**
+A monocyte has a large kidney-shaped (bean-shaped) nucleus, while a neutrophil has a lobed nucleus with granular cytoplasm. Confusing the two is a common error in Cambridge 9700 answers.
+
+**What is the difference between the chloride shift and the Bohr shift?**
+The chloride shift is the movement of chloride ions into the red blood cell as hydrogencarbonate ions leave. The Bohr shift is the movement of the oxygen dissociation curve to the right at high carbon dioxide partial pressure.
+
+**Why is the oxygen dissociation curve S-shaped?**
+The first oxygen molecule binds with difficulty, then haemoglobin changes shape so the next ones bind more easily. Describing the curve without this shape change loses marks.
+
+**How should you explain when heart valves open and close?**
+Compare the pressures on either side of the valve: a valve opens when pressure behind it is higher and closes when pressure in front of it becomes higher. Stating valve positions without comparing pressures does not earn full credit.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for 2025, 2026 and 2027, Cambridge International (Cambridge University Press & Assessment). Topic 8, Transport in mammals, sub-topics 8.1, 8.2 and 8.3.

@@ -188,6 +188,20 @@ Chloroplasts: ✗ ✗ ✓ [1]
 - [Free 9700 AS diagnostic](/practice/9700/diagnostic/as/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Do 70S ribosomes prove that a cell is a prokaryote?**
+No. Mitochondria and chloroplasts in eukaryotic cells also contain 70S ribosomes, so 70S ribosomes alone are not proof. Look for evidence such as no nucleus and no double-membrane organelles.
+
+**Does magnification have units?**
+No. Magnification is a ratio with no units. Convert the image size and the actual size to the same unit, such as mm to µm, before dividing.
+
+**How do you answer a "compare" question on cell structures in Cambridge 9700?**
+Write matched points that say what each structure or cell has, rather than two separate descriptions. Include at least one similarity where the question allows.
+
+**What is a centriole made of?**
+A centriole is a short hollow cylinder made of nine triplets of microtubules. Describing it as nine single microtubules is a common error.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, Cambridge University Press & Assessment -- Topic 1, Cell structure (section 1.2 Cells as the basic units of living organisms).

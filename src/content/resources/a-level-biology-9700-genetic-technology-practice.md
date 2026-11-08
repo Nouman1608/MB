@@ -26,10 +26,12 @@ syllabusTopics:
 description: "Original Cambridge 9700 practice questions on gene transfer, PCR, gel electrophoresis, microarrays, gene therapy and GM crops, with mark-by-mark answers."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -176,6 +178,23 @@ Revise first with the [study guide](/resources/a-level-biology-9700-genetic-tech
 - [Printable 9700 checklist](/checklists/cambridge/a-level/biology/)
 - [9700 A Level diagnostic](/practice/9700/diagnostic/a-level/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**What bond does DNA ligase form?**
+DNA ligase forms phosphodiester bonds to seal the sugar-phosphate backbone when sticky ends are joined. Saying it forms hydrogen bonds is a common error in Cambridge 9700 answers.
+
+**Why does PCR use Taq polymerase?**
+Taq polymerase comes from *Thermus aquaticus* and is not denatured at the 95 °C used to separate DNA strands. Writing only that it "works at high temperature" may not earn the mark.
+
+**Which DNA fragments move furthest in gel electrophoresis?**
+Shorter fragments move further through the gel in the same time. Stating that longer fragments travel further is a frequent mistake.
+
+**How many fragments does a restriction enzyme produce?**
+A linear DNA molecule cut n times gives n + 1 fragments, but a circular molecule such as a plasmid cut n times gives n fragments.
+
+**What is the difference between genetic screening and gene therapy?**
+Genetic screening tests DNA for particular alleles; gene therapy adds a normal allele to cells of a person with a genetic disease to treat it.
 
 ## Official syllabus
 

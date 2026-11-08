@@ -23,10 +23,12 @@ syllabusTopics:
 description: "Original exam-style questions with marked answers on DNA replication, transcription, translation and gene mutation for Cambridge 9700 AS Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -155,6 +157,20 @@ Codon table for Questions 8 and 9 (mRNA codons): AUG = Met (start), GCU = Ala, A
 - Track every outcome: [printable 9700 checklist](/checklists/cambridge/a-level/biology/)
 - Test the whole AS course: [9700 AS Level diagnostic](/practice/9700/diagnostic/as/), or see [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**What is the difference between a codon and an anticodon?**
+A codon is three bases on mRNA; an anticodon is three bases on tRNA that are complementary to the codon. Giving the codon when the question asks for the anticodon is a common error in Cambridge 9700 answers.
+
+**Does a stop codon code for an amino acid?**
+No. Stop codons end translation and code for no amino acid, so do not count them when working out the length of a polypeptide.
+
+**Why is one DNA strand made in fragments during replication?**
+DNA polymerase can add nucleotides only in the 5′ to 3′ direction, so the lagging strand is made in fragments that DNA ligase joins. Leaving out the 5′ to 3′ reason loses marks.
+
+**How should you explain the effect of a deletion mutation?**
+Say that every triplet after the deletion is read differently (a frame shift), so the amino acid sequence changes from that point. Writing only "a frame shift" without mentioning triplets may not earn full credit.
 
 ## Official syllabus
 

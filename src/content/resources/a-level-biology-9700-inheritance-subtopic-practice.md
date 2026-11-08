@@ -188,6 +188,20 @@ Correct genotypes [1]. Females **3 normal red : 1 vestigial red** [1]. Males **3
 - [Course hub](/boards/cambridge/a-level/biology/) and [printable checklist](/checklists/cambridge/a-level/biology/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are homologous chromosomes identical?**
+No. Homologous chromosomes carry the same genes at the same loci, but they can carry different alleles. Calling them "identical" is a common error.
+
+**What separates in anaphase I and anaphase II of meiosis?**
+Homologous chromosomes separate in anaphase I; sister chromatids separate in anaphase II.
+
+**How should codominant and sex-linked alleles be written in a genetic diagram?**
+Use a gene letter with superscripts for codominant alleles, and write sex-linked alleles on the X chromosome, such as Xᴴ and Xʰ. The Y chromosome carries no allele of an X-linked gene.
+
+**What is the difference between the operator and the promoter in the lac operon?**
+RNA polymerase binds to the promoter, while the repressor protein binds to the operator. Swapping these two is a frequent mistake.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027 (Version 1), Cambridge University Press & Assessment -- topic 16, Inheritance: 16.1, 16.2 and 16.3.

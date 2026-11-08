@@ -200,6 +200,20 @@ They do not repeat the [topic-level respiration practice set](/resources/a-level
 - [A Level Biology 9700 diagnostic](/practice/9700/diagnostic/a-level/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What does fermentation achieve in anaerobic respiration?**
+Fermentation regenerates NAD so glycolysis can continue; the ATP itself comes from glycolysis. Saying fermentation makes ATP is a common error.
+
+**Is coenzyme A an enzyme?**
+No. Coenzyme A carries acetyl groups to the Krebs cycle; calling it an enzyme loses marks.
+
+**What radius do you use to find gas volume in a respirometer?**
+Use the radius of the capillary bore in πr² × distance moved. Using the bore diameter as the radius is a frequent mistake.
+
+**Why should you not shake tubes in a methylene blue experiment?**
+Shaking mixes oxygen back into the liquid, which can re-oxidise the dye and turn it blue again, so it upsets the timing of the colour change.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027, published by Cambridge Assessment International Education (Cambridge University Press & Assessment). Topic 12, Energy and respiration, subtopics 12.1 and 12.2.

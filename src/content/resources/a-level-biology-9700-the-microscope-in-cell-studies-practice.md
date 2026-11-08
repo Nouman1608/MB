@@ -165,6 +165,20 @@ Revise first with the [1.1 study guide](/resources/a-level-biology-9700-the-micr
 - [Free 9700 AS diagnostic](/practice/9700/diagnostic/as/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Does magnification have a unit?**
+No. Write magnification as, for example, ×1500, never "×1500 µm". Make sure both measurements are in the same unit before dividing.
+
+**Do you need to recalibrate the eyepiece graticule when changing objective?**
+Yes. One eyepiece unit represents a different length at each objective, so a calibration made at ×40 cannot be used with the ×10 objective.
+
+**Why do electron microscopes show more detail than light microscopes?**
+Electrons have a much shorter wavelength than light, giving better resolution. Explaining it only as "more magnification" loses marks.
+
+**Why should you show your working in microscope calculations?**
+If the final answer is wrong, a method mark can only be given when the working is shown. Also round the final answer to a sensible number of significant figures.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027 (Version 1, published September 2022), Cambridge International Education: topic 1 Cell structure, sub-topic 1.1 The microscope in cell studies, and the Practical assessment section.

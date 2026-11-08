@@ -168,6 +168,20 @@ Explain what these results show about the sugars in each extract. **[4]**
 - Take the free 10-minute [9700 AS diagnostic](/practice/9700/diagnostic/as/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Does a shorter time to colour change in Benedict's test mean more or less sugar?**
+A shorter time to the first colour change means a higher concentration of reducing sugar. Treating a shorter time as a lower concentration is a common error.
+
+**What order are ethanol and water added in the emulsion test?**
+Add ethanol first so that any lipid dissolves, then add the ethanol to water. Adding water before ethanol is a frequent mistake in Cambridge 9700 answers.
+
+**Can colour standards give an exact concentration?**
+No. Colour standards give ordinal data, so the unknown's concentration should be given as a range between two standards rather than a single exact value.
+
+**What if a sample is already brick-red before hydrolysis in the non-reducing sugar test?**
+You cannot conclude that no non-reducing sugar is present. When the first test is already positive, a non-reducing sugar can only be detected by comparing the results before and after hydrolysis.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Biology 9700 syllabus for 2025, 2026 and 2027 (Version 1), Cambridge International (Cambridge University Press & Assessment). Topic 2, Biological molecules, sub-topic 2.1 Testing for biological molecules.

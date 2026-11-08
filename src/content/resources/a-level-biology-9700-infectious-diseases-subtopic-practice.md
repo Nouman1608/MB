@@ -163,6 +163,20 @@ Course links: [Cambridge A Level Biology hub](/boards/cambridge/a-level/biology/
 - [9700 AS Level diagnostic](/practice/9700/diagnostic/as/), or [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What is the difference between HIV and AIDS?**
+HIV is the virus; AIDS is the condition that develops when T-helper cell numbers fall. Writing "AIDS virus" is a common error.
+
+**What are the two TB pathogens?**
+*Mycobacterium tuberculosis*, spread in the air between people, and *Mycobacterium bovis*, spread from cattle in milk or meat. Forgetting *M. bovis* loses marks when both are asked for.
+
+**Do antibiotics or insecticides cause resistance mutations?**
+No. Resistance mutations arise randomly; the antibiotic or insecticide acts only as a selection pressure that lets resistant individuals survive and reproduce.
+
+**How should you answer "discuss" questions on disease control in Cambridge 9700?**
+Name the control measure, explain how it breaks the route of transmission, and give a biological, social or economic factor that makes it work better or worse.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge International AS & A Level Biology 9700 syllabus for 2025, 2026 and 2027* (Version 1, published September 2022), Cambridge University Press & Assessment. Topic 10, Infectious diseases: sections 10.1 and 10.2.

@@ -180,6 +180,20 @@ These questions differ from the [cell membranes practice questions](/resources/a
 - [9700 AS Level diagnostic](/practice/9700/diagnostic/as/), or [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What is the difference between a channel protein and a carrier protein?**
+A channel protein is a fixed pore that lets specific molecules or ions through. A carrier protein binds the substance and changes shape to move it across the membrane.
+
+**Why should you use percentage change in mass in osmosis experiments?**
+Tissue samples usually start at different masses, so percentage change, (final − initial) ÷ initial × 100, allows a fair comparison. Using raw mass change is a common way to lose marks.
+
+**What words describe plant cells after osmosis?**
+Use "turgid" for a cell that has gained water and pushes on its wall, and "plasmolysed" when the protoplast has pulled away from the wall. Saying plant cells "burst" or "shrink" is marked wrong.
+
+**How are these 9700 practice questions organised?**
+They follow the Cambridge 9700 syllabus outcome by outcome through sections 4.1 and 4.2, with the learning outcome given in brackets at the start of each question.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge International AS & A Level Biology 9700 syllabus for 2025, 2026 and 2027* (Version 1, published September 2022), Cambridge University Press & Assessment. Topic 4, Cell membranes and transport: sections 4.1 and 4.2.
