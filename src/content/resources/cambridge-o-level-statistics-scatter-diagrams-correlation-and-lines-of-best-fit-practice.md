@@ -177,6 +177,23 @@ Find the equation of the line of best fit by the method of semi-averages. **[6]*
 * Take the [free 10-minute diagnostics](/diagnostics/) to find weak spots.
 * [Book a free trial class](/trial/) for help with this topic.
 
+## Frequently asked questions
+
+**How do you describe correlation to get full marks?**
+Give the type (positive or negative), the strength (strong or weak) and what it means for the two variables in context. A one-word answer such as "positive" usually does not earn all the marks.
+
+**What must you do before splitting data into halves for semi-averages?**
+Put the pairs in order of increasing x first. Splitting the data into halves before ordering is a common error that gives the wrong semi-average points.
+
+**How do you comment on a prediction outside the data range?**
+Say that it is extrapolation and may be unreliable, because it assumes the same straight-line pattern continues beyond the data. Also point out if the line gives an impossible value, such as negative sales.
+
+**Does a strong correlation prove that one variable causes the other?**
+No. Correlation shows an association only. A third, lurking variable may drive both, so a good answer names a plausible reason or factor.
+
+**Which part of the Cambridge O Level Statistics 4040 syllabus do these questions cover?**
+They cover sections 9.1 and 9.2 of the 4040 syllabus for examination in 2025, 2026 and 2027: scatter diagrams, correlation and lines of best fit by the method of semi-averages. The questions are original, not past-paper questions.
+
 ## Official syllabus
 
 Cambridge O Level Statistics (4040) syllabus, for examination in 2025, 2026 and 2027, published by Cambridge University Press & Assessment (Cambridge International Education). Sections 9.1 and 9.2.

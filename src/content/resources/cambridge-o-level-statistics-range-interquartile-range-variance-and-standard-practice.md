@@ -171,6 +171,23 @@ For Group A, an estimate of the mean is 34.6, of the standard deviation is 10.4 
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between variance and standard deviation?**
+The standard deviation is the positive square root of the variance. Variance is in squared units, while the standard deviation is in the original units of the data, so check which one the question asks for.
+
+**Should you use class boundaries or midpoints for a grouped standard deviation?**
+Use the class midpoints, treating every value in a class as if it sat at the midpoint. Using boundaries is a common error, and the result is always an estimate.
+
+**What do you need to do before finding quartiles from a list?**
+Sort the data into order first. Finding quartiles from unsorted data is one of the most common ways to lose marks.
+
+**How do you get full marks when comparing the spread of two data sets?**
+Name the measure, quote both values and say what they mean in the context of the question. A comparison without values or context, such as "A is bigger", is unlikely to score fully.
+
+**Which part of the Cambridge O Level Statistics 4040 syllabus do these questions cover?**
+They cover section 5.2, measures of dispersion (range, interquartile range, variance and standard deviation), of the 4040 syllabus for examination in 2025, 2026 and 2027. The questions are original, not past-paper questions.
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, from Cambridge Assessment International Education, part of Cambridge University Press & Assessment. These questions cover section 5.2, measures of dispersion.

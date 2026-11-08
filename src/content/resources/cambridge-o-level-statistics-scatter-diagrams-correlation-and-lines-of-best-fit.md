@@ -214,6 +214,23 @@ The gradient m tells you how far y moves when x goes up by 1. In example 2, m = 
 
 Work through the [practice questions](/resources/cambridge-o-level-statistics-scatter-diagrams-correlation-and-lines-of-best-fit-practice/), then use the [revision notes](/resources/cambridge-o-level-statistics-scatter-diagrams-correlation-and-lines-of-best-fit-revision-notes/) to check what you recall. The topic after this one in the syllabus is time series, which uses a different kind of trend line based on moving averages. For general exam technique see [exam preparation](/resources/cambridge-o-level-statistics-exam-preparation/), and for the full list of outcomes use the [checklist](/checklists/cambridge/o-level/statistics/).
 
+## Frequently asked questions
+
+**What is the method of semi-averages?**
+Order the pairs by x, split them into a lower and an upper half of equal size, and find the mean x and mean y of each half. The straight line through these two mean points is the line of best fit.
+
+**What is the difference between interpolation and extrapolation?**
+Interpolation estimates a value inside the range of the data and is usually reasonably reliable. Extrapolation estimates outside the range and assumes the pattern continues, which may not be true.
+
+**Which variable goes on the horizontal axis of a scatter diagram?**
+Put the variable you think explains or controls the other on the horizontal axis as x, and the variable that responds on the vertical axis as y.
+
+**What do m and c mean in a line of best fit?**
+The gradient m is how far y moves when x goes up by 1, and c is the value of y when x = 0. Give both in the units of the question and check whether x = 0 makes sense in context.
+
+**Which topic of Cambridge O Level Statistics 4040 covers scatter diagrams?**
+Topic 9, "Bivariate distributions and their representation by scatter diagrams", in the 4040 syllabus for examination in 2025, 2026 and 2027. Section 9.1 covers correlation and section 9.2 covers lines of best fit.
+
 ## Official syllabus
 
 Cambridge O Level Statistics (4040) syllabus, for examination in 2025, 2026 and 2027, published by Cambridge University Press & Assessment (Cambridge International Education). Sections 9.1 and 9.2.

@@ -205,6 +205,23 @@ Worked reminder (table). Club X has 240 members and 60 took part in the quiz. Cl
 - Calling the median the mean, or reading a box plot as if it showed every value.
 - Drawing two box plots on different scales.
 
+## Frequently asked questions
+
+**Is the median on a box plot the same as the mean?**
+No. A box-and-whisker diagram shows the median, and it cannot give the mean or any individual value. Calling the median the mean is a common error.
+
+**What is the difference between a stem-and-leaf diagram and a box plot?**
+A stem-and-leaf diagram keeps every value, while a box plot summarises the data with five numbers: minimum, lower quartile, median, upper quartile and maximum.
+
+**Can two groups have the same median but different spread?**
+Yes. Average and spread are separate ideas, so two groups can share a median and still have very different ranges or interquartile ranges.
+
+**Why must two box plots be drawn on the same scale?**
+Comparing box plots drawn on different scales gives a misleading picture of which group has the higher values or the greater spread.
+
+**Which sections of Cambridge O Level Statistics 4040 do these notes cover?**
+They condense sections 2.2, 2.3 and 2.4 of the 4040 syllabus for examination in 2025, 2026 and 2027: Venn, box-and-whisker and stem-and-leaf diagrams, choosing between them and comparing data.
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027 (version 1), published by Cambridge Assessment International Education, part of Cambridge University Press & Assessment. Sections 2.2, 2.3 and 2.4.

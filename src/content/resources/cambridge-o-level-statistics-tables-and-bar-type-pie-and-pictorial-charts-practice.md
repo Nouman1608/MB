@@ -190,6 +190,23 @@ A sectional bar chart is drawn with 1 cm for 10 vehicles, with cars at the botto
 - Find [all free 10-minute diagnostics](/diagnostics/) here.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you check pie chart angles?**
+Add all the sector angles and confirm they total 360°. Angles that are not checked against 360° are one of the most common ways to lose marks.
+
+**How do you work out the radius of a comparative pie chart?**
+When areas are in proportion to the totals, the radii are in proportion to the square roots of the totals. Using the ratio of the totals itself, instead of its square root, is a common error.
+
+**How do you draw a sectional bar chart correctly?**
+Stack each part on top of the one below, working with cumulative heights, so the full bar height equals the total. Drawing each part from the baseline is a frequent mistake.
+
+**Do you need to show working for chart constructions?**
+Yes. The Cambridge O Level Statistics 4040 syllabus states that essential working must be shown for full marks, so write the calculation behind each angle or bar height.
+
+**Which part of the 4040 syllabus do these questions cover?**
+They cover section 2.1 (tables, including two-way tables) and the pictogram, pie chart and bar chart parts of section 2.2 of the 4040 syllabus for 2025, 2026 and 2027. The questions are original, not past-paper questions.
+
 ## Official syllabus
 
 This page is written against the Cambridge International Education syllabus Cambridge O Level Statistics (4040), version 1, valid for the 2025, 2026 and 2027 examinations. Publisher: Cambridge University Press & Assessment. Sections used: 2.1 and 2.2.

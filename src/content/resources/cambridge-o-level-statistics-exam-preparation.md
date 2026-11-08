@@ -9,10 +9,12 @@ qualifications: ["o-level"]
 syllabusCodes: ["4040"]
 syllabusSeries: "2025-2027"
 order: 3
-description: "Preparing for the two identical 2h15 papers of Cambridge O Level Statistics 4040 -- the short-question and long-question split, calculator discipline, why the qualification cannot be resat by component, and a worked method-marks routine."
+description: "Exam preparation for Cambridge O Level Statistics 4040: the two 2h15 papers, short and long questions, calculator use, the linear rule and method marks."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
@@ -124,6 +126,23 @@ roughly 15 marks each. 3. Because method marks are only awarded when the method 
 wrong number scores nothing, while the same number with working shown usually scores most of the
 marks. 4. The mean must lie within the range of the data, and a probability must lie between 0 and 1
 (a standard deviation smaller than the range is a third).
+
+## Frequently asked questions
+
+**How many papers are there in Cambridge O Level Statistics 4040?**
+There are two externally assessed papers of identical shape. Each lasts 2 hours 15 minutes, carries 100 marks and contributes 50% of the qualification.
+
+**Can you resit just one paper of O Level Statistics 4040?**
+No. The qualification is linear, so candidates cannot resit an individual component, only the whole qualification. Because the papers are examined only in the November series, a resit means waiting a full year.
+
+**Is a calculator allowed in O Level Statistics 4040?**
+Yes. Electronic calculators are required for both papers, so it pays to use the same calculator throughout the course and know its mean, standard deviation and frequency-data functions.
+
+**How are the marks split between short and long questions?**
+Each paper mixes short questions worth up to 8 marks each with four longer questions worth around 15 marks each, so the long questions account for roughly 60 of the 100 marks.
+
+**Do you get marks for working in statistics calculations if the answer is wrong?**
+Method marks are available for a correct method even when the final figure is wrong, but only if the method is visible. Writing the formula or substitution before the answer protects those marks.
 
 *Written against the assessment overview of Cambridge O Level Statistics 4040 (official syllabus for
 2025-2027, Version 1, verified 2026-08-28). The calculation routine above is an original model written

@@ -209,6 +209,23 @@ Height                = 4.5 × 0.5 = 2.25 cm
 
 Work through the [practice set](/resources/cambridge-o-level-statistics-frequency-polygons-and-histograms-practice/), then use the [revision notes](/resources/cambridge-o-level-statistics-frequency-polygons-and-histograms-revision-notes/) as a quick reference. Cumulative frequency, the next stage, builds on the same grouped tables. You can also see what 4040 expects in the [exam preparation guide](/resources/cambridge-o-level-statistics-exam-preparation/).
 
+## Frequently asked questions
+
+**Why is a frequency polygon better than a histogram for comparing two distributions?**
+Two sets of histogram bars on one pair of axes overlap and become hard to read, while two polygon lines do not. If the samples are different sizes, compare proportions rather than raw frequencies.
+
+**What do you label the vertical axis of a histogram with unequal class widths?**
+Label it "Frequency density" and include the unit, for example "people per minute". Labelling it "Frequency" is a common error.
+
+**How do you find a bar's height from a histogram's scale?**
+Use a bar whose height and frequency you know to work out how many centimetres represent one unit of frequency density, then multiply the new bar's frequency density by that scale.
+
+**How do you find the number of items in a histogram bar?**
+Multiply the bar's frequency density by its class width, because the area of the bar represents the frequency. Reading the height alone gives the wrong number when widths are unequal.
+
+**Is the Cambridge O Level Statistics 4040 syllabus tiered?**
+No. The 4040 syllabus is not tiered, so section 3.2 on frequency polygons and histograms applies to every candidate.
+
 ## Official syllabus
 
 Cambridge O Level Statistics 4040, syllabus for examination in 2025, 2026 and 2027, published by Cambridge University Press & Assessment. This page follows section 3.2.
