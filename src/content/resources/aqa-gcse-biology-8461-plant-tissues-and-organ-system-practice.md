@@ -1,6 +1,6 @@
 ---
 title: "AQA GCSE Biology 8461: Plant tissues and the plant organ system -- Practice Questions"
-seoTitle: "AQA GCSE Biology 8461 Plant Tissues and Transpiration Practice"
+seoTitle: "AQA GCSE Biology 8461 Plant Tissues Practice Questions"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["gcse"]

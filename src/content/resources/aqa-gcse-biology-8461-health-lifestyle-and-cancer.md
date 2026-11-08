@@ -1,6 +1,6 @@
 ---
 title: "AQA GCSE Biology 8461: Health issues, lifestyle and cancer -- Study Guide"
-seoTitle: "AQA GCSE Biology 8461 Health, Lifestyle and Cancer Study Guide"
+seoTitle: "AQA GCSE Biology 8461 Health, Lifestyle and Cancer Guide"
 resourceType: "study-guides"
 subject: "biology"
 level: ["gcse"]
