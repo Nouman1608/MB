@@ -166,3 +166,17 @@ The command word **state** wants the output only. **Write** wants the full query
 6. Give one reason why Author is not suitable as a primary key. *Authors can write more than one book, so the values are not unique.*
 7. What does `SELECT SUM(Price) FROM Book WHERE Stock = 0;` return? *6.99.*
 8. Name one validation check that could be applied to the Stock field. *A range check to make sure the value is not negative (or a type check to make sure it is an integer).*
+
+## Frequently asked questions
+
+**What is a primary key in IGCSE Computer Science?**
+A primary key is a field whose value is unique for every record, so each record can be identified, such as an ID number. A name is a poor choice because two records can share it.
+
+**What SQL do you need for Cambridge IGCSE Computer Science 0478?**
+The syllabus uses SELECT, FROM, WHERE, ORDER BY, SUM and COUNT on a single table, with comparison operators and AND, OR and NOT in conditions.
+
+**What is the difference between a field and a record?**
+A field is a column holding one kind of fact, such as Title. A record is a row holding all the facts about one item.
+
+**Do text values in SQL need quotation marks?**
+Yes. Text values go in quotation marks, such as 'N Okafor', but numbers do not. Getting this wrong is a common mistake.

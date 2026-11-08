@@ -12,10 +12,12 @@ order: 10
 syllabusTopics:
   - qualification: "o-level"
     topic: "boolean-logic-2210"
-description: "Original exam-style questions with full worked answers on NAND, NOR and XOR gates, writing logic expressions from problem statements and circuit descriptions, and working out outputs for every input combination, for Cambridge O Level Computer Science (2210)."
+description: "Original practice questions with worked answers for Cambridge O Level Computer Science 2210: NAND, NOR and XOR gates, logic expressions and eight-row outputs."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
@@ -100,3 +102,17 @@ Each question practises a skill tested in the June 2025 Paper 22. After each ans
 - Mixing up XOR and OR in the row where both inputs are 1.
 - Rushing an eight-row answer; working out intermediate values for each row avoids careless errors.
 - Confusing NAND with NOR when naming a gate from its outputs.
+
+## Frequently asked questions
+
+**How are eight-row truth table answers marked?**
+In the worked answers, eight-row answers are marked in bands, such as four marks for all eight outputs and fewer marks for six or seven, so working out intermediate values helps you keep most of the marks.
+
+**When should you use NOT in a logic expression from a problem statement?**
+Use NOT on an input whose value 0 means the condition is true, for example when 0 means the soil is dry. Forgetting this is a common mistake.
+
+**What is the difference between NAND and NOR?**
+NAND is the opposite of AND, so its only 0 is when both inputs are 1. NOR is the opposite of OR, so its only 1 is when both inputs are 0.
+
+**Why do brackets matter in logic expressions?**
+Brackets show which operation happens first. Without them, an expression such as NOT A AND B OR C can mean something different from what was intended.

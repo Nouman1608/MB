@@ -24,10 +24,12 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-computer-science-theme-a"
     subtopic: "ib-dp-computer-science-a-4"
-description: "Computer fundamentals, networks, databases (including SQL queries) and machine learning -- the four sub-topics of Theme A for IB Diploma Programme Computer Science, first assessment 2027, and how Theme A is tested through Paper 1 and the pre-released case study."
+description: "Guide to Theme A of IB DP Computer Science, first assessment 2027: computer fundamentals, networks, databases with SQL, machine learning and the case study."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -200,6 +202,20 @@ vocabulary (client, server, protocol) in exam answers.
   only in the abstract.
 - Give Theme A revision time equal to Theme B, since Paper 1 draws
   entirely from Theme A plus the case study.
+
+## Frequently asked questions
+
+**How many teaching hours is Theme A in IB Computer Science?**
+Theme A is 38 hours at SL and 72 hours at HL. The case study is a separate line in the board's table, with 15 hours at SL and 30 at HL.
+
+**Do you need to write code for Theme A?**
+Theme A is mostly descriptive and conceptual, so questions usually ask for explanation or evaluation. The exception is A.3 Databases, where you must be able to construct SQL queries between two tables.
+
+**How is Theme A tested in IB Computer Science?**
+Theme A is tested on Paper 1 together with the pre-released case study, which has its own section of short-response questions alongside extended-response questions on Theme A.
+
+**Which database content is HL only in IB Computer Science?**
+Aggregate functions on grouped data, database views, transactions and ACID, and alternative databases and data warehouses are HL only. SQL queries between two tables are required at both levels.
 
 ## Official syllabus
 

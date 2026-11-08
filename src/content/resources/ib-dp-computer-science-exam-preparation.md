@@ -8,10 +8,12 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Computer Science"]
 order: 1
-description: "Paper-by-paper exam preparation for IB Diploma Programme Computer Science -- how to use the pre-seen Paper 1 case study, programming practice in Java or Python for Paper 2, a worked scenario and a before/during-exam checklist."
+description: "How to prepare for IB DP Computer Science Papers 1 and 2: using the pre-seen case study, practising Java or Python for Paper 2, trace tables and a checklist."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
@@ -118,6 +120,20 @@ clear, step-by-step trace table shows the working and method used, which lets ex
 marks even if a small error means the final traced value is incorrect. 5. Briefly trace the written
 code against a simple example to check its logic works as intended, catching errors before
 committing to the final answer.
+
+## Frequently asked questions
+
+**How should you prepare the IB Computer Science Paper 1 case study?**
+Analyse and annotate the pre-seen case study over several weeks, identifying likely question angles such as scaling, security and design trade-offs, rather than skimming it once.
+
+**Do you still revise pseudocode for IB Computer Science Paper 2?**
+For the course first assessed in 2027, candidates answer Paper 2 in Java or Python, so revision must include writing, running and debugging real code. Material describing pseudocode-only answers refers to the outgoing course.
+
+**Why use a trace table in IB Computer Science Paper 2?**
+A trace table, with one row per iteration showing the condition and variable values, reduces careless errors and shows the working needed for method marks even if the final value is wrong.
+
+**What do command terms such as evaluate and justify require?**
+Define and identify need short, precise answers, while evaluate, discuss and justify need a reasoned judgement, often applied to the case study.
 
 ## Official syllabus
 

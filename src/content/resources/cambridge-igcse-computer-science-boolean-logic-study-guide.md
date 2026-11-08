@@ -131,3 +131,17 @@ Always give working. Even if the final column is wrong, correct intermediate col
 6. What is the difference between OR and XOR? *OR is 1 when either or both inputs are 1; XOR is 1 only when exactly one input is 1.*
 7. In Worked example 2, which rows give P = 1? *Rows 3 and 5 (A = 0, B = 1, C = 0 and A = 1, B = 0, C = 0).*
 8. Why should you write the logic expression before drawing a circuit? *It gives you one gate per operator, shows the order of the brackets and reduces the risk of missing or adding a gate.*
+
+## Frequently asked questions
+
+**Which logic gates are in Cambridge IGCSE Computer Science 0478?**
+The six gates are NOT, AND, OR, NAND, NOR and XOR. Circuits at this level have at most three inputs and one output.
+
+**How many rows does a truth table need?**
+A truth table for n inputs has 2^n rows, so two inputs need 4 rows and three inputs need 8. List the input rows in binary counting order so none is missed.
+
+**What is the difference between OR and XOR?**
+OR gives 1 when either or both inputs are 1, while XOR gives 1 only when exactly one input is 1.
+
+**Is NAND the same as NOT A AND NOT B?**
+No. NAND is NOT (A AND B), which is a different function from NOT A AND NOT B.

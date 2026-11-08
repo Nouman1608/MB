@@ -15,7 +15,9 @@ syllabusTopics:
 description: "Representing and analysing algorithms -- the opening topic of OxfordAQA International GCSE Computer Science (9210), version 3.5."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
@@ -143,3 +145,17 @@ Using the wrong flowchart symbol — a diamond is for decisions only. Writing ps
 - Compare linear and binary search on efficiency, and state the precondition for binary search.
 - Write pseudocode for the bubble sort form the specification requires (outer loop repeats while a pass made a swap), explain merge sort in prose, and compare the two.
 - Justify a criticism of an algorithm with a specific reason.
+
+## Frequently asked questions
+
+**What does Topic 1 Algorithms cover in OxfordAQA International GCSE Computer Science 9210?**
+It covers decomposition and abstraction, representing algorithms with flowcharts and pseudocode, tracing algorithms to find their outputs, and analysing and evaluating algorithms for efficiency and correctness.
+
+**Do you need to compare memory use of algorithms in OxfordAQA 9210?**
+No. For this qualification, efficiency is judged only by the number of steps or comparisons performed, and formal comparisons of memory use are not required.
+
+**What is the difference between bubble sort and merge sort?**
+Bubble sort repeatedly compares and swaps adjacent pairs, which is simple but slow. Merge sort splits the list into single items and merges them back in order, which is more complex but much faster on large lists.
+
+**Can binary search be used on unsorted data?**
+No. Binary search requires sorted data, so unsorted data must be sorted first or searched with a linear search. Recommending binary search on unsorted data is a standard error.

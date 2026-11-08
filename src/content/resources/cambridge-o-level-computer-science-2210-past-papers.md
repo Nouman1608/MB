@@ -266,6 +266,20 @@ Official documents: [past papers, mark schemes and examiner report](https://www.
 6. Re-test with a paper from a different series and compare your mark with that series' thresholds. For the latest series on our flagship syllabuses, see our [grade thresholds page](/grade-thresholds/).
 7. Plan your remaining papers against your exam dates on the [exam calendar](/exam-calendar/). If you want a teacher to go through your scripts, book a [free trial class](/trial/).
 
+## Frequently asked questions
+
+**What do the paper numbers mean in Cambridge O Level Computer Science 2210?**
+Papers 11, 12 and 13 are the Computer Systems papers, and Papers 21, 22 and 23 are the Algorithms, Programming and Logic papers. The second digit is the variant.
+
+**Where can I download 2210 past papers and mark schemes?**
+Cambridge publishes recent papers, mark schemes, examiner reports and grade thresholds on the 2210 past papers page of its website. Older series are available to schools through the School Support Hub.
+
+**What mistakes do 2210 examiner reports mention most often?**
+Recurring issues include binary working without carries, two's complement errors, real program code used in pseudocode answers, validation with a single IF instead of a loop, and general AI definitions not applied to the scenario.
+
+**Can grade thresholds predict future O Level Computer Science grade boundaries?**
+No. Thresholds change every series and should never be used to predict future ones.
+
 ## About these notes
 
 The grade thresholds are copied from Cambridge's grade-threshold tables, and the examiner notes are written in our own words from Cambridge's Principal Examiner Reports for Teachers for the series listed above. Thresholds change every series and must never be used to predict future ones. If you spot an error, please [report a correction](/report-a-correction/).

@@ -186,3 +186,17 @@ Questions on this topic are often "write", "complete" or "identify the error". R
 6. What does SUBSTRING("Cambridge", 1, 4) return? *"Camb".*
 7. Write a condition that is true when Age is from 11 to 16 inclusive. *Age >= 11 AND Age <= 16.*
 8. Why must a file be closed after use? *To make sure all data is written and to free the file for other use.*
+
+## Frequently asked questions
+
+**What is the difference between DIV and MOD?**
+DIV gives the whole-number part of a division and MOD gives the remainder, so 17 DIV 5 is 3 and 17 MOD 5 is 2. The / operator gives 3.4.
+
+**Can I answer IGCSE Computer Science programming questions in Python?**
+Practical questions can be answered in the language you have learned, with Python, Visual Basic and Java the usual choices, or in Cambridge pseudocode. The written paper itself uses pseudocode.
+
+**Do strings start at position 0 or 1 in Cambridge pseudocode?**
+The first character of a string is at position 1 in Cambridge pseudocode, while in Python it is at index 0, so take care when moving between them.
+
+**What is a common mistake in range validation conditions?**
+Using OR instead of AND, for example UNTIL Value >= 1 OR Value <= 10, which accepts every number. A range check inside the limits needs AND.

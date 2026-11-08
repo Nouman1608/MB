@@ -24,10 +24,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "hardware-0478"
     subtopic: "network-hardware-0478"
-description: "Computer architecture and the fetch-decode-execute cycle, input/output devices and sensors, primary/secondary/cloud storage, and network hardware -- the full content of Topic 3 for Cambridge IGCSE Computer Science 0478, 2026-2028 series."
+description: "Guide to Topic 3 of Cambridge IGCSE Computer Science 0478 (2026-2028): CPU architecture, fetch-execute, input and output devices, sensors, storage, networks."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -163,6 +165,20 @@ familiarity. For 3.3 and 3.4, focus on the comparisons the syllabus
 explicitly asks for -- RAM vs ROM, primary vs secondary storage, local
 vs cloud storage, IPv4 vs IPv6 -- since "explain the difference
 between" questions are a recurring format across this topic.
+
+## Frequently asked questions
+
+**What is Von Neumann architecture in IGCSE Computer Science?**
+In the 0478 syllabus, a Von Neumann computer has an ALU and control unit, the registers PC, MAR, MDR, CIR and ACC, and address, data and control buses, which together carry out the fetch-decode-execute cycle.
+
+**How do cores, cache and clock speed affect CPU performance?**
+More cores, a larger cache and a faster clock speed can all improve performance. A strong answer explains why, not just lists the factors.
+
+**What are the three types of secondary storage?**
+Magnetic storage uses platters with tracks and sectors, optical storage uses lasers to read pits and lands, and solid-state storage uses NAND or NOR flash memory with transistors.
+
+**Which paper is Hardware on in Cambridge IGCSE Computer Science 0478?**
+Hardware is Topic 3, in the Computer systems half of the syllabus (Topics 1 to 6), which is examined on Paper 1.
 
 ## Official syllabus
 

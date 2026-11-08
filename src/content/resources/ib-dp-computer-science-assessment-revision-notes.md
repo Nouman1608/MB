@@ -7,10 +7,12 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Computer Science"]
 order: 1
-description: "Condensed recall notes on the assessment structure at SL and HL -- papers, weightings and the computational solution -- for IB Diploma Programme Computer Science."
+description: "Recall notes on how IB Diploma Programme Computer Science is assessed at SL and HL: Paper 1, Paper 2, weightings and the computational solution IA."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
@@ -82,6 +84,20 @@ Beyond the shift in Paper 1's weighting (35% at SL, 40% at HL) and the IA's weig
 6. Why is the pre-seen case study, in effect, partially predictable exam content?
 
 **Answers:** 1. One of the two named programming languages — the current course assesses programming knowledge directly, not pseudocode. 2. A pre-seen case study, released in advance of the exam. 3. 30% at SL, 20% at HL. 4. Identify a problem, design a solution, develop it, and evaluate it. 5. Because the assessment criteria explicitly cover the development process, not just the finished product, so evidence of decisions and iterations strengthens this component beyond what the final code alone shows. 6. Because it is released well in advance of the exam, so research and familiarity built beforehand translate directly into faster, more confident answers on questions drawing on it.
+
+## Frequently asked questions
+
+**What are the IB DP Computer Science weightings at SL and HL?**
+Following the board's assessment table, at SL Paper 1 and Paper 2 are 35% each and the internal assessment is 30%. At HL the papers are 40% each and the internal assessment is 20%.
+
+**Is IB Computer Science Paper 2 written in pseudocode?**
+Not for the current course. Candidates answer in one of the two named programming languages, and programming knowledge is assessed directly; the outgoing course used pseudocode.
+
+**What is the computational solution in IB Computer Science?**
+It is the internal assessment: a solution to a real-world problem of the student's choosing, developed over a recommended 35 hours and marked on the whole problem-solving cycle, not just the finished program.
+
+**Does HL Computer Science have a separate HL paper?**
+No. HL students study extra content beyond the SL core and are examined on it within the same two-paper structure.
 
 ## Official syllabus
 

@@ -21,10 +21,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "data-transmission-2210"
     subtopic: "encryption"
-description: "How data is packaged into packets and sent between devices, the transmission methods and USB interface, error-detection techniques, and symmetric versus asymmetric encryption, for Cambridge O-Level Computer Science 2210."
+description: "Guide to Topic 2 of Cambridge O Level Computer Science 2210: packets and packet switching, transmission methods, USB, error detection, ARQ and encryption."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
@@ -147,6 +149,20 @@ idea, introduced in 2.1, that data travels across a network as discrete packets 
 or corrupted. Practise sketching a labelled packet (header, payload, trailer) and describing the
 fetch-transmit-verify sequence for at least one error-detection method in full sentences, since exam
 questions frequently ask you to *describe the process* rather than just name it.
+
+## Frequently asked questions
+
+**What is the structure of a data packet?**
+A packet has a header containing the destination address, the packet number and the originator's address, a payload carrying the data, and a trailer marking the end of the packet.
+
+**What is the difference between a parity check and a checksum?**
+A parity check works bit by bit on a single byte or block, adding a parity bit so the count of 1-bits is odd or even. A checksum is a single calculated value covering a whole block of transmitted data.
+
+**Why does asymmetric encryption avoid the key-sharing problem?**
+Data is encrypted with a public key that can be shared openly and decrypted with a private key that is never transmitted, so no secret key has to be sent.
+
+**Is Cambridge O Level Computer Science 2210 tiered?**
+No. 2210 is not tiered, so every candidate covers all of the Data Transmission content.
 
 ## Related resources
 
