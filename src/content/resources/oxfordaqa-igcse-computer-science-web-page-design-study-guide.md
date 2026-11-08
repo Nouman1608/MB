@@ -12,139 +12,172 @@ order: 8
 syllabusTopics:
   - qualification: "igcse"
     topic: "web-page-design"
-description: "HTML structure and common tags, linking CSS to a page, selectors and properties, and accessible, usable page design for OxfordAQA International GCSE 9210."
+description: "OxfordAQA International GCSE Computer Science 9210 study guide: the HTML tags in the spec, CSS type and class selectors, the seven properties, HTML5 and scripting."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the 9210 specification for the exact HTML tags, CSS properties and design principles required, since the scope of this topic could not be confirmed against the specification."
+reviewNote: "Check the 9210 specification for the exact HTML tags, CSS properties and design principles required, since the scope of this topic could not be confirmed against the specification. 2026-11-08 recheck: checked against spec v3.3 section 3.8; limited tags to the spec list (removed table/form tags), selectors to type and class, properties to the seven listed, CSS to embedded sheets; added HTML5 and scripting; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---
 
-Web pages are built from two languages that work together. **HTML** (hypertext markup language) describes the structure and content of a page: headings, paragraphs, images and links. **CSS** (cascading style sheets) describes how that content looks: colours, fonts, spacing and layout. In OxfordAQA International GCSE Computer Science (9210) this topic asks you to read and write simple HTML and CSS, and to explain good design choices. The skills are practical, so the best revision is to write small pages and open them in a browser.
+Web pages are built from two languages that work together. **HTML** (hypertext markup language) creates the **structure** of a web page; **CSS** (cascading style sheets) changes its **style**. In OxfordAQA International GCSE Computer Science (9210), section 3.8 asks you to write the structure of a page with a set list of HTML tags, use basic CSS to control its appearance, know the key differences between HTML5 and earlier HTML, and understand what server-side and client-side scripting do. The skills are practical, so write small pages and open them in a browser.
 
-## Where this fits in the specification
+## What does the 9210 specification require for web page design?
 
-Web page design is Topic 8, the last topic in the list, after relational databases and SQL. It connects to networks, because a browser requests a page over HTTP and receives HTML, and to cyber security, because forms that send data to a server need input checking. The ideas of structure, tags and nesting also help when you read code in the programming topic.
-
-## HTML structure
-
-HTML uses **tags**, usually in pairs: an opening tag such as `<p>` and a closing tag such as `</p>`, with the content between. Some tags, such as `<img>` and `<br>`, have no closing tag. Tags can have **attributes**, which give extra information, written as name="value" inside the opening tag. Tags are **nested**: an element inside another must be closed before the outer one closes.
-
-Every page has the same basic skeleton. The `<!DOCTYPE html>` line declares the type of document. The `<html>` element contains everything. The `<head>` holds information about the page that is not displayed in the main window, including the `<title>` (shown on the browser tab) and links to style sheets. The `<body>` holds everything the visitor sees.
-
-| Tag | Purpose |
+| Spec ref | Content |
 |---|---|
-| `<h1>` to `<h6>` | Headings, from most to least important |
-| `<p>` | A paragraph |
-| `<strong>`, `<em>` | Strong and emphasised text |
-| `<ul>`, `<ol>`, `<li>` | Unordered list, ordered list, and list item |
-| `<a href="...">` | A hyperlink to another page or site |
-| `<img src="..." alt="...">` | An image |
-| `<table>`, `<tr>`, `<th>`, `<td>` | A table, a row, a heading cell, a data cell |
-| `<form>`, `<input>`, `<label>` | A form and its input controls |
-| `<div>` | A generic container for grouping content |
+| 3.8.1 | Web pages are built with HTML and CSS; HTML creates the structure and CSS changes the style; server-side scripting generates pages dynamically on a web server; client-side scripting adds functionality to pages |
+| 3.8.2 | Create the structure of a page using the listed HTML tags; use basic CSS (type and class selectors, seven properties); key differences between HTML5 and earlier HTML |
 
-The `src` attribute gives the file for an image, and `alt` gives text describing it. The `alt` text is displayed if the image does not load and is read out by screen readers for visually impaired users, so it should describe the image's purpose.
+## Which HTML tags must you know?
 
-## CSS
+The specification lists exactly these tags:
 
-CSS is written as rules. Each rule has a **selector**, which says which elements to style, and a **declaration block** in curly brackets, containing property and value pairs that each end with a semicolon.
+| Group | Tags | Purpose |
+|---|---|---|
+| General | `<html> </html>` | Contains the whole page |
+| | `<title> </title>` | The page title, shown on the browser tab |
+| | `<body> </body>` | Everything displayed in the browser window |
+| | `<style> </style>` | An embedded style sheet holding CSS rules |
+| Block-level | `<div> </div>` | A block container for grouping content |
+| | `<p> </p>` | A paragraph |
+| | `<h#> </h#>` | A heading, where # is 1 (most important) to 6 |
+| | `<ol> </ol>`, `<ul> </ul>` | An ordered (numbered) list, an unordered (bullet) list |
+| | `<li> </li>` | A list item inside `ol` or `ul` |
+| Inline | `<span> </span>` | An inline container, often used to apply a class to part of a line |
+| | `<strong> </strong>`, `<em> </em>` | Strong (bold) text, emphasised (italic) text |
+| | `<br />` | A line break |
+| | `<a> </a>` | A hyperlink; the destination goes in the `href` attribute |
+| | `<img />` | An image; the file goes in `src`, and `alt` gives a text description |
+
+**Block-level** elements start on a new line and take the full width; **inline** elements sit within a line of text. Tags are usually in pairs, an opening tag and a closing tag with a slash. `<br />` and `<img />` are self-closing. Tags must be **nested** correctly: an element opened inside another is closed before the outer one closes.
+
+In a complete page the `<title>` and `<style>` elements are normally placed inside a `<head>` section before the `<body>`.
+
+## How do you write CSS for 9210?
+
+A style rule has three parts, a **selector**, a **property** and a **value**:
 
 ```
-h1 {
-  color: navy;
-  font-family: Arial, sans-serif;
-}
-.price {
-  font-weight: bold;
-  background-color: #f0f0f0;
-}
-#banner {
-  text-align: center;
-}
+selector { property : value }
 ```
 
-The first rule selects every `h1` element (an element selector). The second selects any element with `class="price"` (a class selector, starting with a full stop), which can be used on many elements. The third selects the one element with `id="banner"` (an id selector, starting with `#`), and an id should be unique on a page. Common properties include `color`, `background-color`, `font-family`, `font-size`, `text-align`, `margin` (space outside an element), `padding` (space inside an element) and `border`.
+You need two kinds of selector:
 
-CSS can be applied in three ways. An **external** style sheet is a separate `.css` file linked from the `<head>` with `<link rel="stylesheet" href="style.css">`. An **internal** style sheet is placed in a `<style>` element in the head. An **inline** style is written in a `style` attribute on a single tag. External style sheets are usually best: one file controls the look of the whole site, so a change is made in one place, the HTML stays simpler, and the browser can reuse the stored file for every page.
+- A **type selector** names an HTML element, such as `p` or `h1`, and styles every element of that type.
+- A **class selector** starts with a full stop, such as `.warning`, and styles every element with `class="warning"`.
 
-## Good page design
+You need these seven properties:
 
-Good design makes a site easy to use and available to everyone.
+| Property | Controls |
+|---|---|
+| `background-color` | The background colour |
+| `color` | The text colour |
+| `text-align` | Alignment: left, right, center |
+| `font-family` | The typeface, such as Arial |
+| `font-size` | The size of the text, such as 16px |
+| `font-weight` | Boldness, such as bold or normal |
+| `font-style` | Italic or normal |
 
-- **Consistent layout** with the same navigation, fonts and colours on every page.
-- **Clear navigation**, so visitors can find content in few clicks.
-- **Readable text**: enough contrast between text and background, a suitable font size and short paragraphs.
-- **Accessibility**: meaningful alt text on images, a logical heading order, labels on form controls, and not relying on colour alone to carry meaning.
-- **Appropriate media**: images sized sensibly, because very large files make pages slow to load.
-- **Works on different devices**, such as phones and desktop computers.
+Exam questions only use **embedded style sheets**: CSS rules written inside a `<style>` element in the page. You may use external style sheets in practical work, but exam questions will not.
+
+## What are the key differences between HTML5 and earlier versions?
+
+The specification lists four points. HTML5:
+
+- supports many facilities that were previously only available by using **add-ons** to HTML;
+- improves provision for **web applications**, through support for scripting and access to many new APIs;
+- makes it easier to include **graphics and multimedia**, for example with the `<svg>`, `<canvas>`, `<audio>` and `<video>` tags;
+- adds new **semantic elements** such as `<header>` and `<article>` to define different parts of a page.
+
+## What is the difference between server-side and client-side scripting?
+
+**Server-side scripting** languages run on the **web server** and generate web pages dynamically, for example building a page of search results from a database before sending it. **Client-side scripting** languages run in the **browser** and add extra functionality to a page, for example checking a form entry or showing a hidden menu without contacting the server.
 
 ## Worked example 1: reading a page
 
-Here is a page.
-
 ```
-<!DOCTYPE html>
 <html>
 <head>
-  <title>Harbour Cycles</title>
-  <link rel="stylesheet" href="style.css">
+<title>Harbour Cycles</title>
+<style>
+h1 { color : darkgreen }
+.offer { font-weight : bold }
+</style>
 </head>
 <body>
-  <h1>Harbour Cycles</h1>
-  <p>Repairs and <strong>rentals</strong> since 2012.</p>
-  <img src="shop.jpg" alt="The front of the Harbour Cycles shop">
-  <h2>Prices</h2>
-  <ul>
-    <li>Puncture repair</li>
-    <li>Full service</li>
-  </ul>
-  <a href="contact.html">Contact us</a>
+<h1>Harbour Cycles</h1>
+<p>Repairs and <span class="offer">rentals</span> since 2012.</p>
+<img src="shop.jpg" alt="The front of the Harbour Cycles shop" />
+<h2>Prices</h2>
+<ul>
+<li>Puncture repair</li>
+<li><em>Full service</em></li>
+</ul>
+<a href="contact.html">Contact us</a>
 </body>
 </html>
 ```
 
-The browser tab shows "Harbour Cycles" because of the `<title>`. In the page itself the visitor sees a main heading, a paragraph in which the word "rentals" is shown in bold, the photograph, a second-level heading "Prices", a bullet list of two items, and a link "Contact us" that opens contact.html. The `<link>` tag is in the head, so it does not appear, but it loads the style sheet that controls the appearance. Count the elements: the list has two `<li>` items, inside one `<ul>`. All tags are correctly nested, which is checked by confirming that each element opened inside another is closed before the outer one.
+The browser tab shows "Harbour Cycles" (from `<title>`). The page shows a dark green main heading (type selector on `h1`), a paragraph in which "rentals" is bold (class selector `.offer` applied through `<span>`), the photo, a second-level heading "Prices", a bullet list of two items with "Full service" in italics, and a link "Contact us" to contact.html.
 
 ## Worked example 2: writing CSS
 
-Write CSS so that all level 1 headings are centred and dark green, and any element with class "price" is bold and red.
+Write an embedded style sheet so that every paragraph has Arial text, size 14px, and anything with class "price" is centred on a yellow background.
 
 ```
-h1 {
-  text-align: center;
-  color: darkgreen;
-}
-.price {
-  font-weight: bold;
-  color: red;
-}
+<style>
+p { font-family : Arial; font-size : 14px }
+.price { text-align : center; background-color : yellow }
+</style>
 ```
 
-The first rule uses an element selector, so it applies to every `<h1>` on any page that links to the file. The second uses a class selector, so to use it, the HTML must include `class="price"`, for example `<li class="price">Full service</li>`. Notice the full stop before the class name in the CSS but not in the HTML.
+The first rule is a type selector, so it affects every `<p>`. The second is a class selector, so the HTML must include `class="price"`, for example `<p class="price">From 15 dollars</p>`. The full stop appears in the CSS, not in the HTML.
 
 ## Common mistakes
 
 - Forgetting to close a tag, or closing nested tags in the wrong order.
-- Writing the style properties in the HTML when the question asks for CSS, or the reverse.
-- Missing the semicolon between declarations, or using round brackets instead of curly brackets around the declarations.
-- Leaving off the full stop for a class selector or the hash for an id selector.
-- Missing `alt` text on images, or giving it as "image1" instead of a meaningful description.
-- Confusing `margin` (outside) and `padding` (inside).
-- Treating HTML as a programming language. It marks up content; it does not contain loops or selection by itself.
+- Putting `li` items directly in the body without an `ol` or `ul`.
+- Leaving off the full stop before a class selector in CSS, or adding one in the HTML.
+- Writing `colour` instead of the CSS spelling `color`, or `text-align : centre` instead of `center`.
+- Mixing up `<strong>` (bold) and `<em>` (italic).
+- Saying client-side scripts run on the server, or the reverse.
 
 ## Exam technique
 
-For **write** or **complete** questions, copy tag and attribute names exactly, and close every tag. For **describe what the browser displays**, work down the body, in order, mentioning headings, text styles, lists, images and links. For **explain why** an external style sheet is used, give two points: one file controls many pages, and the HTML stays shorter and easier to maintain. In design questions, link each point to the user, for example "alt text means a screen reader can describe the image to a visually impaired user".
+For **write** or **complete** questions, copy tag and property names exactly, and close every tag. For **describe what the browser displays**, work down the body in order, mentioning headings, styles, lists, images and links. For HTML5 questions, give the specification's points and a named tag as an example.
+
+## Frequently asked questions
+
+**Do I need table or form tags for 9210?**
+No. The specification lists the general tags html, title, body and style; the block-level tags div, p, h#, ol, ul and li; and the inline tags span, strong, em, br, a and img. Table and form tags are not in that list.
+
+**Which CSS selectors are required?**
+Two kinds: type selectors (such as `p`) and class selectors (such as `.price`).
+
+**Will the exam use external style sheets?**
+No. Exam questions only use embedded style sheets, in a `<style>` element in the page.
+
+**What is the purpose of the alt attribute?**
+It gives a text description of an image, which is shown if the image cannot be displayed and can be read aloud by screen readers.
 
 ## Check your understanding
 
-1. What is the difference between HTML and CSS? *HTML defines the structure and content of a page; CSS defines how it looks.*
-2. Which part of a page is shown on the browser tab? *The text inside the title element in the head.*
+1. What is the difference between HTML and CSS? *HTML creates the structure of a page; CSS changes its style.*
+2. Which tag sets the text on the browser tab? *`<title>`.*
 3. Write the HTML for a link with the text "Home" that goes to index.html. *`<a href="index.html">Home</a>`*
-4. Why is alt text used on images? *It describes the image if it does not load and is read out by screen readers for visually impaired users.*
-5. Write a CSS rule to make all paragraphs blue. *`p { color: blue; }`*
-6. What is the difference between a class selector and an id selector? *A class (written with a full stop) can be used on many elements; an id (written with a hash) should be used on one element only.*
-7. Give two advantages of an external style sheet. *One file controls the style of many pages, so changes are made in one place; the HTML is kept simpler.*
-8. In the page in Worked example 1, how many list items are displayed? *Two.*
+4. Write a CSS rule to make all paragraphs blue. *`p { color : blue }`*
+5. What is the difference between a type selector and a class selector? *A type selector styles every element of one type; a class selector styles any element with that class.*
+6. Name two HTML5 multimedia tags. *Any two of svg, canvas, audio, video.*
+7. Where does a server-side script run? *On the web server, generating the page before it is sent.*
+8. In Worked example 1, which text is shown in italics? *"Full service".*
+
+## Related pages
+
+- [Web page design revision notes](/resources/oxfordaqa-igcse-computer-science-web-page-design-revision-notes/)
+- [Web page design practice questions](/resources/oxfordaqa-igcse-computer-science-web-page-design-practice/)
+
+## Official specification
+
+OxfordAQA, *International GCSE Computer Science (9210)*, for exams May/June 2019 onwards, Version 3.3, section 3.8 "Web page design".

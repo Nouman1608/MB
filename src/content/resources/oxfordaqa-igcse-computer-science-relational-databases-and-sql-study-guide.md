@@ -12,30 +12,34 @@ order: 7
 syllabusTopics:
   - qualification: "igcse"
     topic: "relational-databases-and-sql"
-description: "Tables, records, fields, primary and foreign keys, relationships between tables and SQL queries for OxfordAQA International GCSE Computer Science 9210."
+description: "OxfordAQA International GCSE Computer Science 9210 study guide: tables, keys, database design and the SQL SELECT, INSERT INTO, UPDATE and DELETE FROM commands."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the 9210 specification for exactly which SQL commands are required (SELECT, FROM, WHERE, ORDER BY, INSERT, UPDATE, DELETE and joins) and the required form of the join syntax."
+reviewNote: "Check the 9210 specification for exactly which SQL commands are required (SELECT, FROM, WHERE, ORDER BY, INSERT, UPDATE, DELETE and joins) and the required form of the join syntax. 2026-11-08 recheck: checked against spec v3.3 section 3.7: SQL limited to SELECT/FROM/WHERE (max two tables), full-record INSERT INTO, UPDATE, DELETE FROM; removed ORDER BY, LIKE and INNER JOIN; added 3.7.2 database design; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---
 
-A database holds data in a structured way so that it can be searched, sorted and kept consistent. A **relational database** stores data in several linked tables instead of one big table, which avoids repeating data. **Structured query language (SQL)** is the standard language for retrieving and changing the data. In OxfordAQA International GCSE Computer Science (9210) you need to understand how tables are linked and be able to read and write SQL statements.
+A database holds data in a structured way so that it can be searched and kept consistent. A **relational database** stores data in several linked tables instead of one big table, which removes repeated data. **Structured query language (SQL)** is used to retrieve and change the data. In OxfordAQA International GCSE Computer Science (9210), section 3.7 asks you to explain the key database concepts, design a database of up to three tables, and write SQL using a small, fixed set of commands.
 
-## Where this fits in the specification
+## What does the 9210 specification require?
 
-Relational databases and SQL is Topic 7, after cyber security and before web page design. It links back to the cyber security topic, because SQL injection is an attack on exactly the kind of statement written here, and to programming, because the data types and conditions are the same ones used in `IF` statements. Questions usually show a table or two and ask you to name fields, explain keys, or write or interpret a query.
+| Spec ref | Content |
+|---|---|
+| 3.7.1 | Explain a database and a relational database; the concepts table, record, field, data type, primary key, foreign key; how a relational database helps eliminate data inconsistency and data redundancy |
+| 3.7.2 | Choose data types and (where appropriate) lengths for fields; select a primary key; design a relational database from a scenario (no more than three tables), written as TableName (Field1, Field2, ...) with the primary key underlined |
+| 3.7.3 | SQL: retrieve data with **SELECT**, **FROM** and **WHERE** (no more than two tables in any one query); insert data with **INSERT INTO** (only the form that gives all the values in a record); edit and delete data with **UPDATE** and **DELETE FROM** |
 
-## Tables, records and fields
+Other SQL clauses, such as ORDER BY, LIKE, JOIN or aggregate functions, are not in the 9210 specification, so this guide does not use them.
 
-A database holds one or more **tables**. A table describes one type of thing, called an entity (for example a member of a club). Each row is a **record**, which holds all the data about one item. Each column is a **field**, which holds one attribute, such as Name or Age. Each field has a **data type**, such as text, integer, real, Boolean or date, which controls what can be stored and what operations make sense.
+## What are tables, records, fields and data types?
 
-## Keys
+A **database** is a structured, persistent store of data. A **table** holds data about one type of thing (for example club members). Each row is a **record**, holding all the data about one item. Each column is a **field**, holding one item of data such as Name or Age. Each field has a **data type**, such as text (string), integer, real, Boolean or date, which controls what can be stored. For text fields you may also give a **length**, such as 20 characters for a name.
 
-A **primary key** is a field that uniquely identifies each record in a table. It must be unique and must never be empty. A **foreign key** is a field in one table that is the primary key of another table. It creates the link between them. Because the foreign key holds only the key value, the details are stored once, in the table where that key is the primary key.
+## What are primary and foreign keys?
 
-Consider two tables.
+A **primary key** is a field that uniquely identifies each record in a table, so no two records can have the same value. A **foreign key** is a field in one table that is the primary key of another table; it creates the link between the two tables.
 
 **Club**
 
@@ -56,101 +60,92 @@ Consider two tables.
 | 105 | Lena | 15 | 2 |
 | 106 | Omar | 13 | 1 |
 
-In Club the primary key is ClubID. In Member the primary key is MemberID, and ClubID is a **foreign key** that refers to the Club table. Each club can have many members, but each member is in only one club. This is a **one-to-many** relationship.
+In Club the primary key is ClubID. In Member the primary key is MemberID, and ClubID is a **foreign key** linking each member to a club.
 
-### Why use more than one table?
+## Why does a relational database reduce redundancy and inconsistency?
 
-If the room and club name were stored in every member's row, they would be repeated many times. This wastes storage and risks **inconsistency**: if the Robotics club moved room, every one of its member records would need changing, and missing one leaves conflicting data. With two tables, the room is stored once and changed once. This is called reducing **data redundancy**. A relational database also enforces **referential integrity**: a foreign key value must match an existing primary key, so a member cannot be placed in a club that does not exist.
+If the club name and room were stored in every member's row, they would be repeated (**data redundancy**), wasting storage. If Robotics moved room, every Robotics member's record would need changing; missing one would leave conflicting values (**data inconsistency**). With two linked tables the room is stored once and changed once.
 
-## SQL queries
+## How do you write a database design?
 
-A query to retrieve data has the form:
+The specification uses this notation, with the primary key underlined:
+
+- Club (<u>ClubID</u>, ClubName, Room)
+- Member (<u>MemberID</u>, Name, Age, ClubID)
+
+For each field you should be able to choose a data type and, where appropriate, a length: ClubID integer; ClubName text, length 20; Room text, length 4; MemberID integer; Name text, length 30; Age integer; ClubID integer. Exam scenarios use no more than three tables.
+
+## How do you retrieve data with SELECT, FROM and WHERE?
 
 ```
 SELECT field1, field2
 FROM table
-WHERE condition
-ORDER BY field
+WHERE condition;
 ```
 
-- `SELECT` lists the fields to show, or `*` for all fields.
-- `FROM` names the table.
-- `WHERE` filters the records. Conditions use `=`, `<>`, `<`, `>`, `<=`, `>=`, and can be combined with `AND`, `OR` and `NOT`.
-- `ORDER BY` sorts the results, ascending by default and descending with `DESC`.
-- `LIKE` matches text patterns, where `%` stands for any number of characters, for example `Name LIKE 'A%'` for names beginning with A.
+- `SELECT` lists the fields to show, or `*` for every field.
+- `FROM` names the table or tables.
+- `WHERE` keeps only the records that meet the condition. Conditions use `=`, `<>`, `<`, `>`, `<=`, `>=`, and can be combined with `AND` and `OR`.
 
-Text values are written in quotation marks and numbers are not. SQL statements end with a semicolon.
+Text values go in quotation marks; numbers do not.
 
-### Changing data
+### How do you query two tables?
 
-- `INSERT INTO table VALUES (...)` adds a new record, with values in the same order as the fields.
-- `UPDATE table SET field = value WHERE condition` changes data in existing records.
-- `DELETE FROM table WHERE condition` removes records.
-
-The `WHERE` clause matters here. An `UPDATE` or `DELETE` without it applies to every record in the table.
-
-### Joining tables
-
-To show data from two linked tables in one result, use a join on the key fields:
+A query may use **up to two tables**. List both in `FROM` and use `WHERE` to match the foreign key to the primary key:
 
 ```
-SELECT Name, ClubName
-FROM Member
-INNER JOIN Club ON Member.ClubID = Club.ClubID
+SELECT Member.Name, Club.ClubName
+FROM Member, Club
+WHERE Member.ClubID = Club.ClubID;
 ```
 
-The `ON` part says which fields must match. Prefixing a field with the table name (`Member.ClubID`) removes any ambiguity when both tables have a field with the same name.
+Writing the table name before a field (`Member.ClubID`) removes any doubt when both tables have a field with the same name. Without the matching condition, every member would be paired with every club.
 
-## Worked example 1: simple queries
+## How do you insert, update and delete data?
 
-Using the Member table:
+- `INSERT INTO table VALUES (value1, value2, ...);` adds a record. You need only the form that gives **all** the values, in the same order as the fields.
+- `UPDATE table SET field = value WHERE condition;` changes existing records.
+- `DELETE FROM table WHERE condition;` removes records.
 
-(a) Names of members aged 15 or over, in alphabetical order.
+An `UPDATE` or `DELETE FROM` without `WHERE` affects every record in the table.
+
+## Worked example 1: one-table queries
+
+(a) Names of members aged 15 or over.
 
 ```
 SELECT Name
 FROM Member
-WHERE Age >= 15
-ORDER BY Name;
+WHERE Age >= 15;
 ```
 
-The matching records are Tomas (15), Kofi (16) and Lena (15). Output: Kofi, Lena, Tomas.
+Output: Tomas, Kofi, Lena.
 
-(b) Name and age of members of club 2, oldest first.
+(b) Name and age of members of club 2 who are 14.
 
 ```
 SELECT Name, Age
 FROM Member
-WHERE ClubID = 2
-ORDER BY Age DESC;
+WHERE ClubID = 2 AND Age = 14;
 ```
 
-Club 2 has Amira (14), Priya (14) and Lena (15). Output: Lena 15, then Amira 14 and Priya 14. The two 14-year-olds can appear in either order unless a second sort field is given.
+Output: Amira 14, Priya 14.
 
-(c) Members whose names begin with A or L.
+## Worked example 2: a two-table query
 
-```
-SELECT Name
-FROM Member
-WHERE Name LIKE 'A%' OR Name LIKE 'L%';
-```
-
-Output: Amira and Lena.
-
-## Worked example 2: join and update
-
-Write a query to show the name of every member of the Robotics club, together with the club name.
+Show the name of every member of the Robotics club, with the room it meets in.
 
 ```
-SELECT Name, ClubName
-FROM Member
-INNER JOIN Club ON Member.ClubID = Club.ClubID
-WHERE ClubName = 'Robotics';
+SELECT Member.Name, Club.Room
+FROM Member, Club
+WHERE Member.ClubID = Club.ClubID AND Club.ClubName = 'Robotics';
 ```
 
-The join first matches each member to the club with the same ClubID. The WHERE then keeps only Robotics. The output is Amira, Priya and Lena, each with the club name Robotics.
+The first condition matches each member to their club; the second keeps only Robotics. Output: Amira C03, Priya C03, Lena C03.
 
-Now change the data. Tomas moves from Chess (club 1) to Drama (club 3), Omar leaves, and a new member Sana (age 13) joins Drama.
+## Worked example 3: changing data
+
+Tomas moves from Chess (club 1) to Drama (club 3), Omar leaves, and a new member Sana (age 13) joins Drama.
 
 ```
 UPDATE Member SET ClubID = 3 WHERE MemberID = 102;
@@ -158,29 +153,51 @@ DELETE FROM Member WHERE MemberID = 106;
 INSERT INTO Member VALUES (107, 'Sana', 13, 3);
 ```
 
-After these three statements Member has six records: 101 Amira (club 2), 102 Tomas (club 3), 103 Priya (club 2), 104 Kofi (club 3), 105 Lena (club 2) and 107 Sana (club 3). The Chess club now has no members, but it still exists in the Club table, which is fine because a club does not need members to exist.
+Member now has six records: 101 Amira (2), 102 Tomas (3), 103 Priya (2), 104 Kofi (3), 105 Lena (2), 107 Sana (3). Chess has no members but still exists in Club.
 
 ## Common mistakes
 
-- Using a non-unique field, such as Name, as a primary key.
-- Confusing primary and foreign keys: the foreign key is the primary key of another table, used as the link.
-- Omitting the `WHERE` clause from an `UPDATE` or `DELETE` and changing every record.
-- Missing quotation marks on text values, or adding them around numbers.
-- Writing a join without saying which fields must match.
-- Saying that a relational database is "a database with relationships between people". The relationships are between tables.
-- Mixing up the order of the clauses: SELECT, FROM, WHERE, ORDER BY.
+- Choosing a non-unique field, such as Name, as a primary key.
+- Confusing primary and foreign keys.
+- Leaving out `WHERE` in an `UPDATE` or `DELETE FROM` and changing every record.
+- Missing quotation marks on text values, or putting them round numbers.
+- In a two-table query, forgetting the condition that matches the foreign key to the primary key.
+- Giving an `INSERT INTO` with values in a different order from the fields.
 
 ## Exam technique
 
-For **explain** questions on why separate tables are used, give two points: data is stored once (less redundancy) and it is easier to keep consistent. For **write a query**, set it out on separate lines, one clause per line, and check that field and table names are spelled as in the question. For **state the output**, apply the clauses in the order the database does: FROM, then WHERE, then ORDER BY, then SELECT. When asked to identify keys, say which table the key belongs to and give a reason.
+For **explain** questions on why separate tables are used, give two points: data is stored once (less redundancy) and it stays consistent. For **write a query**, put each clause on its own line and spell field and table names exactly as in the question. For **state the output**, work out which records pass the `WHERE` condition, then list only the `SELECT` fields.
+
+## Frequently asked questions
+
+**Is ORDER BY in the 9210 specification?**
+No. Retrieval uses only SELECT, FROM and WHERE. Questions will not ask you to sort results.
+
+**How do I join two tables in 9210 SQL?**
+List both tables after FROM and add a WHERE condition that matches the foreign key to the primary key. Queries never use more than two tables.
+
+**Which form of INSERT INTO do I need?**
+Only the form that supplies a value for every field: `INSERT INTO table VALUES (...)`.
+
+**How many tables can an exam database design have?**
+No more than three, written in the form TableName (Field1, Field2, ...) with the primary key underlined.
 
 ## Check your understanding
 
-1. What is the difference between a record and a field? *A record is a row with all the data about one item; a field is a column holding one attribute.*
+1. What is the difference between a record and a field? *A record is a row with all the data about one item; a field is one item of data (a column).*
 2. In the Member table, which field is the foreign key? *ClubID.*
-3. Give one benefit of storing the club room in the Club table rather than in every Member record. *The room is stored once, which saves space and avoids inconsistent data when it changes.*
-4. Write a query to show the names of all members of club 1. *SELECT Name FROM Member WHERE ClubID = 1;* (Tomas and Omar)
+3. Give one benefit of storing the room only in the Club table. *It is stored once, saving space and avoiding inconsistent data when it changes.*
+4. Write a query to show the names of all members of club 1. *SELECT Name FROM Member WHERE ClubID = 1; (Tomas and Omar)*
 5. How many records does `SELECT * FROM Member WHERE Age = 14;` return? *2 (Amira and Priya).*
-6. What happens if you run `DELETE FROM Member;` with no WHERE clause? *Every record in the Member table is deleted.*
+6. What happens if you run `DELETE FROM Member;`? *Every record in Member is deleted.*
 7. Write a statement to change Kofi's age to 17. *UPDATE Member SET Age = 17 WHERE MemberID = 104;*
-8. What does referential integrity prevent? *A foreign key value that does not match any primary key in the linked table, such as a member in a club that does not exist.*
+8. Write the design for Club in the specification's notation. *Club (ClubID, ClubName, Room) with ClubID underlined.*
+
+## Related pages
+
+- [Relational databases and SQL revision notes](/resources/oxfordaqa-igcse-computer-science-relational-databases-and-sql-revision-notes/)
+- [Relational databases and SQL practice questions](/resources/oxfordaqa-igcse-computer-science-relational-databases-and-sql-practice/)
+
+## Official specification
+
+OxfordAQA, *International GCSE Computer Science (9210)*, for exams May/June 2019 onwards, Version 3.3, section 3.7 "Relational databases and structured query language (SQL)".
