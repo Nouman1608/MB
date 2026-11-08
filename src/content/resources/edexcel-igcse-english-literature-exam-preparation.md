@@ -9,13 +9,15 @@ qualifications: ["igcse"]
 syllabusCodes: ["4ET1"]
 syllabusSeries: "For first teaching 2016"
 order: 3
-description: "Why Component 1 of Pearson Edexcel IGCSE English Literature 4ET1 is closed book while Component 2 is open book, how the coursework alternative differs, and a worked quotation-selection routine."
+description: "Exam preparation for Edexcel IGCSE English Literature 4ET1: closed-book Component 1, open-book Component 2, the coursework route and quotation selection."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 Pearson Edexcel International GCSE English Literature 4ET1 has one compulsory component and a choice

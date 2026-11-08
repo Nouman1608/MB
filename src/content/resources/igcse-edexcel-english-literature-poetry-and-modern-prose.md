@@ -21,13 +21,15 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "component-1-poetry-and-modern-prose-4et1"
     subtopic: "section-c-modern-prose-4et1"
-description: "Poetry anthology study and modern prose -- the compulsory first component of Pearson Edexcel International GCSE English Literature (4ET1)."
+description: "Component 1 Poetry and Modern Prose of Pearson Edexcel International GCSE English Literature 4ET1: unseen poetry, anthology poetry and the modern prose text."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 This guide covers **Component 1 Poetry and Modern Prose**, the

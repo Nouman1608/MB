@@ -16,13 +16,15 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "component-3-modern-drama-and-literary-heritage-texts-nea-4et1"
     subtopic: "assignment-b-literary-heritage-texts-4et1"
-description: "The coursework alternative to Component 2 -- teacher-devised, internally assessed assignments on a modern drama text and a literary heritage text, for Pearson Edexcel International GCSE English Literature (4ET1)."
+description: "Component 3 of Pearson Edexcel IGCSE English Literature 4ET1: the coursework alternative to Component 2, with assignments on modern drama and a heritage text."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 This guide covers **Component 3: Modern Drama and Literary Heritage

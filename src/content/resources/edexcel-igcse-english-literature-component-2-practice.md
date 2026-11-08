@@ -18,13 +18,15 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "component-2-modern-drama-and-literary-heritage-texts-4et1"
     subtopic: "section-b-literary-heritage-texts-4et1"
-description: "Original exam-style essay questions with model plans and worked commentary for Section A modern drama and Section B literary heritage texts, for Pearson Edexcel International GCSE English Literature Component 2 (4ET1)."
+description: "Original essay questions with model plans and worked commentary on modern drama and literary heritage texts for Edexcel IGCSE English Literature 4ET1 Paper 2."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

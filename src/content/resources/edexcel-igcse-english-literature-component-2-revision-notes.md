@@ -18,17 +18,46 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "component-2-modern-drama-and-literary-heritage-texts-4et1"
     subtopic: "section-b-literary-heritage-texts-4et1"
-description: "Condensed recall notes on open-book exam technique, contextual analysis and essay structure for Pearson Edexcel International GCSE English Literature Component 2 (4ET1)."
+description: "Condensed notes on Pearson Edexcel International GCSE English Literature 4ET1 Component 2: set texts, AO marks, open-book technique, context and timing."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: thin page expanded with the set-text lists, AO mark split and FAQ from the Issue 3 (August 2025) specification; please re-review."
 ---
+
+**What is 4ET1 Component 2?** Component 2 (paper 4ET1/02) is a 1 hour 30 minute open-book exam worth
+60 marks and 40% of the Pearson Edexcel International GCSE in English Literature. You write two
+30-mark essays: one on a modern drama text (Section A, AO1 and AO2) and one on a literary heritage
+text (Section B, AO1, AO2 and AO4).
 
 Condensed for the final weeks. For the full explanation, use the
 [Modern Drama and Literary Heritage Texts study guide](/resources/igcse-edexcel-english-literature-component-2/).
+
+## Which texts are set?
+
+| Section A: Modern Drama (choose one) | Section B: Literary Heritage (choose one) |
+|---|---|
+| *A View from the Bridge* (Arthur Miller) | *Romeo and Juliet* (Shakespeare) |
+| *An Inspector Calls* (J B Priestley) | *Macbeth* (Shakespeare) |
+| *The Curious Incident of the Dog in the Night-time* (Mark Haddon, adapted by Simon Stephens) | *The Merchant of Venice* (Shakespeare) |
+| *Kindertransport* (Diane Samuels) | *Pride and Prejudice* (Jane Austen) |
+| *Death and the King's Horseman* (Wole Soyinka) | *Great Expectations* (Charles Dickens) |
+| | *The Scarlet Letter* (Nathaniel Hawthorne) |
+
+The exam copy must be the prescribed edition and completely unmarked.
+
+## How are the marks split?
+
+| Section | AO1 | AO2 | AO4 | Total |
+|---|---|---|---|---|
+| A: Modern Drama | 15 | 15 | – | 30 |
+| B: Literary Heritage | 10 | 10 | 10 | 30 |
+
+So a third of every Section B mark is for context (AO4): it is not an optional extra.
 
 ## The open-book exam changes what to revise
 
@@ -120,6 +149,21 @@ Section B.
 choices.
 - Committing to an essay option without briefly weighing the alternative.
 - Letting Section A overrun and rushing Section B's contextual analysis.
+
+## Frequently asked questions
+
+**Can I annotate the copy I take into the exam?**
+No. The specification says prescribed editions are allowed but must be completely unmarked. Annotate
+a separate study copy instead.
+
+**Is Component 2 the same as Component 3?**
+They cover the same set texts and skills. Component 2 is the examined route; Component 3 is the
+non-examined coursework alternative with two 30-mark assignments. You take one or the other.
+
+**What counts as context for AO4?**
+The specification lists the writer's situation where relevant, the historical setting, social and
+cultural attitudes, the literary context, and how the text is received by different audiences over time.
+
 
 ## Self-test
 
