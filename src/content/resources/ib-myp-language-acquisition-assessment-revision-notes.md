@@ -10,7 +10,9 @@ order: 1
 description: "Condensed recall notes on the four assessment criteria, proficiency phases and eAssessment structure for IB Middle Years Programme Language Acquisition."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
@@ -92,6 +94,20 @@ Communication, connections, creativity and culture are not abstract theory but t
 6. What three overall bands does eAssessment calibrate a student's listening, reading and writing performance against?
 
 **Answers:** 1. Their prior experience with the language, not their MYP year group. 2. A (Listening), B (Reading), C (Speaking), D (Writing). 3. It's assessed separately and internally, by the teacher, then externally moderated by the IB — rather than through the same on-screen exam as listening/reading/writing. 4. Communication, connections, creativity, culture. 5. Because each phase's level descriptors are calibrated to what a strong response looks like at that specific phase, not to one fixed universal standard, so a high band in an early phase does not represent the same absolute proficiency as a high band in a later phase. 6. Emergent, capable, proficient.
+
+## Frequently asked questions
+
+**How is IB MYP Language Acquisition graded?**
+Each of the four criteria (A listening, B reading, C speaking, D writing) is scored on an eight-point scale and the criteria are equally weighted. With a level of 0 for work that reaches no band descriptor, a classroom total runs from 0 to 32.
+
+**How many marks is the MYP Language Acquisition eAssessment worth?**
+In the eAssessment blueprint, listening, reading and writing (criteria A, B and D) each carry 24 marks on the on-screen exam, and speaking (criterion C) is assessed separately. The blueprint allocates 96 raw marks in total, a separate scale from the 0–32 classroom total.
+
+**What are the emergent, capable and proficient levels in MYP Language Acquisition?**
+They are the three overall levels at which the MYP Language Acquisition eAssessment is taken. Classroom teaching and assessment use the full six-phase proficiency continuum instead.
+
+**How long is the MYP Language Acquisition on-screen exam?**
+IB general guidance puts MYP on-screen exam sessions between 1 hour 45 minutes and 2 hours, but a separate figure for Language Acquisition is not published in public sources. Confirm the exact session length with your school.
 
 ## Official syllabus
 

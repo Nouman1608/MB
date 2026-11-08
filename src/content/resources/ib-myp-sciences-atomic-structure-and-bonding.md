@@ -18,7 +18,9 @@ syllabusTopics:
 description: "Study guide to atoms, isotopes, electron arrangement, ions and ionic, covalent and metallic bonding, with worked examples, for IB MYP Sciences years 4-5."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -227,6 +229,23 @@ The [criteria in practice guide](/resources/ib-myp-sciences-criteria-in-practice
 - Saying ionic solids conduct because they contain ions. The ions must be **free to move**.
 - Forgetting square brackets and charges on ions in dot-and-cross diagrams.
 - Giving Aᵣ as a whole number or a value outside the range of the isotopes' masses.
+
+## Frequently asked questions
+
+**What is the difference between atomic number and mass number?**
+Atomic number (Z) is the number of protons and defines the element. Mass number (A) is the number of protons plus neutrons, so the number of neutrons is A − Z.
+
+**Why do isotopes of an element have the same chemical properties?**
+Isotopes have the same number of protons and electrons but different numbers of neutrons. Because their electron arrangement is the same, they react in the same way; only mass-dependent physical properties such as density differ.
+
+**Why do ionic compounds conduct electricity only when molten or dissolved?**
+In a solid ionic lattice the ions are fixed in place. When the compound is melted or dissolved, the ions are free to move and carry charge, so it conducts.
+
+**Why do simple molecular substances have low melting points if covalent bonds are strong?**
+The covalent bonds inside each molecule are strong, but the forces between molecules are weak. Melting or boiling only overcomes these weak intermolecular forces, not the covalent bonds.
+
+**Is atomic structure and bonding in the IB MYP Sciences syllabus?**
+The IB MYP Sciences subject brief (from 2014) lists this topic for the on-screen examinations but prescribes no detailed content. Schools design their own units, so check the depth expected with your teacher.
 
 ## Where to go next
 

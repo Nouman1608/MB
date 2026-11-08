@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Condensed IB MYP Language Acquisition Criterion B revision notes: reading methods, visual analysis steps, key distinctions and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -178,6 +180,20 @@ Use this original leaflet for questions 1-7.
 - Naming a purpose or attitude with no evidence from the text.
 - Answering from general knowledge instead of the text in front of you.
 - Mixing up the writer's perspective with your own opinion.
+
+## Frequently asked questions
+
+**What is the difference between perspective and attitude in a reading text?**
+Perspective is whose point of view the text gives, while values and attitudes are what the writer shows they believe or feel. Word choice is often the best evidence for attitude.
+
+**How do you analyse a visual in an MYP Language Acquisition reading task?**
+Name the visual or layout feature, describe it precisely and explain its effect on the message. Saying only "there is a photo" without linking it to the words earns little.
+
+**Why does layout matter in MYP Language Acquisition reading?**
+Criterion B names spatial aspects such as position on the page, size, columns, boxes and white space as sources of meaning. Layout shows what the reader notices first and what is grouped together, so it is not just decoration.
+
+**Is Criterion B reading assessed on screen?**
+Yes. Criterion B is part of the MYP Language Acquisition on-screen examination, which carries 24 marks each for listening, reading and writing.
 
 ## Next steps
 

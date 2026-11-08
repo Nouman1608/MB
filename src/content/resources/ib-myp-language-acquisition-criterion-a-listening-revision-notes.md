@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Condensed IB MYP Language Acquisition Criterion A listening notes: key terms, methods, speech-image links and a quick self-test with answers."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -172,6 +174,20 @@ Always add **why**: "The chime gets attention before key information."
 - Treating music and captions as background, so "add" and "contrast" links are missed.
 - Giving an audience with no evidence, or confusing audience with purpose.
 - Answering in the wrong language, or paraphrasing when asked to quote.
+
+## Frequently asked questions
+
+**What is a spoken multimodal text?**
+A spoken multimodal text combines speech with at least one other mode, such as images, words on screen, music or sound effects, the speaker's tone and pauses, or body language. Video adverts, podcasts, news reports, voicemails and announcements are common examples.
+
+**What are the common traps in an MYP Language Acquisition listening question?**
+Watch for paraphrase (the speaker uses different words from the question), self-correction (the last version given is the answer) and distractors (a speaker mentions two times or prices, but only one answers the question).
+
+**How do you support an inference in a listening answer?**
+Every inference needs a quoted or described piece of evidence, such as specific words, a change in tone or a visual detail. Stating an attitude like "the speaker is worried" without evidence earns little.
+
+**Is listening assessed on screen in the IB MYP Language Acquisition eAssessment?**
+Yes. Criterion A Listening is part of the on-screen examination, which carries 24 marks for each of Criteria A, B and D. Speaking (Criterion C) is a separate, teacher-marked and IB-moderated examination.
 
 ## Next steps
 

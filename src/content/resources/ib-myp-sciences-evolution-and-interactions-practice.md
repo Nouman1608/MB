@@ -18,7 +18,9 @@ syllabusTopics:
 description: "Original IB MYP Sciences practice questions on natural selection, food webs, symbiosis and population sampling, with fully worked answers."
 author: "marlbridge-academic-team"
 reviewer: "ameer-hamza"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -179,6 +181,20 @@ Judgement: too risky unless trials show the predator targets hares; a native con
 - Putting the second-sample total, not the marked recaptures, on the bottom of the capture--mark--recapture formula.
 - Hypotheses with no scientific reasoning, or control variables with no stated value or method.
 - Evaluations with no conclusion, or with benefits only.
+
+## Frequently asked questions
+
+**What are common mistakes in natural selection answers?**
+Writing that organisms or bacteria "adapt" or "become immune" instead of describing selection, and leaving out inheritance, are the most common slips. The allele must be passed to offspring for evolution to happen.
+
+**What mistakes do students make in population sampling calculations?**
+Students often forget to divide by the quadrat area when it is not 1 m², or put the wrong number on the bottom of the capture-mark-recapture formula; it should be the number of marked animals recaptured.
+
+**How do you describe a trend in population data for Criterion C?**
+Describe the overall pattern and quote values from the table or graph to support it. A description with no figures earns less credit.
+
+**What does a good evaluation in a Criterion D answer on ecology need?**
+Weigh benefits against drawbacks and finish with a clear conclusion. Evaluations with benefits only, or no conclusion, limit the credit.
 
 ## Next steps
 

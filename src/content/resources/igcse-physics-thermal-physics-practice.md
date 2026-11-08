@@ -112,3 +112,17 @@ Related: [Thermal Physics revision notes](/resources/igcse-physics-thermal-physi
 - Describing thermal expansion without linking the size of the effect to how strongly the particles are held together, in gases, liquids and solids respectively.
 
 Work through the [Thermal Physics revision notes](/resources/igcse-physics-thermal-physics-revision-notes/) alongside these questions: the notes set out the kinetic particle model and the three heat-transfer mechanisms in table form, while these questions test whether you can apply the underlying particle reasoning to a specific, unfamiliar situation rather than just recall a definition.
+
+## Frequently asked questions
+
+**What condition must I state with pV = constant?**
+The relationship pV = constant holds only at constant temperature for a fixed mass of gas. Giving the relationship without stating this condition loses credit.
+
+**What should I revise before these thermal physics questions?**
+Work through the thermal physics revision notes alongside the questions; they set out the kinetic particle model and the three heat-transfer mechanisms that most answers depend on.
+
+**What is the specific heat capacity equation in IGCSE Physics 0625?**
+The energy needed is ΔE = mcΔθ, where m is the mass, c is the specific heat capacity and Δθ is the temperature change. It is Supplement (Extended) content in the 0625 syllabus.
+
+**Which questions on this page are Extended only?**
+Questions labelled (Extended) cover Supplement content of the Cambridge IGCSE Physics 0625 syllabus, so only Extended candidates need them. The rest are Core.

@@ -34,7 +34,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on speed, forces, momentum, energy and pressure for Cambridge IGCSE Physics 0625."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-29
 updatedDate: 2026-09-27
@@ -146,3 +148,20 @@ Related: [Motion, Forces and Energy revision notes](/resources/igcse-physics-mot
 - Setting clockwise and anticlockwise moments equal without first checking the beam is actually in equilibrium — the principle of moments only applies once that's established.
 
 Questions 10 and 11 draw on the energy and moments sections of the [Motion, Forces and Energy revision notes](/resources/igcse-physics-motion-forces-and-energy-revision-notes/) — kinetic and gravitational potential energy, and the principle of moments, neither previously tested by the questions above.
+
+## Frequently asked questions
+
+**Why do IGCSE Physics energy questions say air resistance is negligible?**
+Gravitational potential energy lost equals kinetic energy gained only when air resistance is negligible. Stating this assumption explicitly is often worth credit.
+
+**What is a moment in IGCSE Physics?**
+A moment is force × perpendicular distance from the pivot, measured in N m. The distance must be measured at right angles to the line of action of the force.
+
+**When can you use the principle of moments?**
+The principle of moments applies only when the object is in equilibrium. Check the beam is balanced before setting clockwise and anticlockwise moments equal.
+
+**What are common mistakes when rearranging the kinetic energy equation?**
+Students often take a square root too early or forget to square v when rearranging ½mv² to find the speed. Rearrange fully first, then take the square root at the end.
+
+**Which syllabus do these IGCSE Physics questions follow?**
+They follow Topic 1, Motion, forces and energy, of the Cambridge IGCSE Physics 0625 syllabus, with Extended questions labelled. Worked answers show each step.

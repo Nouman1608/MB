@@ -12,10 +12,12 @@ order: 6
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-eassessment-structure"
-description: "Condensed revision notes on IB MYP Sciences' discrete/modular/integrated course models and how its eAssessment content scope, spanning biology, chemistry and physics topics, is set by the eAssessment option entered rather than by a school's chosen model."
+description: "Revision notes on the discrete, modular and integrated IB MYP Sciences course models and how the eAssessment option you enter sets the content of your exam."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
@@ -133,3 +135,17 @@ integrated sciences. 4. Because the eAssessment can draw on any content within t
 option entered, whenever in the year it was taught, not just the most recent module, so neglecting
 earlier modules leaves genuine content gaps. 5. No — the same four assessment criteria and overall framework apply regardless of
 course model; only how the content was sequenced and taught differs.
+
+## Frequently asked questions
+
+**What topics can the IB MYP Sciences on-screen examination draw on?**
+The examinations can draw on topics including atomic structure and bonding, cells, cycles, electromagnetism, evolution, interactions between organisms, forces, states and properties of matter, metabolism, organisms and waves, spanning biology, chemistry and physics.
+
+**How should I revise if my school taught sciences in modules?**
+Revisit every module within your eAssessment option's scope, not just the most recent one, since the exam can draw on content whenever it was taught. One summary sheet per module, reviewed in rotation, is a practical approach.
+
+**What are the key concepts in MYP Sciences?**
+MYP Sciences is organised around the key concepts of change, relationships and systems, explored through related concepts such as energy, movement, transformation and models. These apply whichever course model a school uses.
+
+**Who chooses the MYP Sciences course model?**
+The course model is a school-level choice, so confirm with your teacher which model your school uses and which eAssessment option you are entered for before planning revision.

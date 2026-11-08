@@ -234,6 +234,20 @@ W = 0.45 J at 30 V:      C = 2W/V² = 2 × 0.45 / 30² = 1.0 × 10⁻³ F
 - Giving the series total as larger than the smallest capacitor and not noticing.
 - Describing a practical method without saying what is measured and how C is calculated.
 
+## Frequently asked questions
+
+**How do you combine capacitors in series and parallel?**
+In series the charge is the same, the p.d.s add and the reciprocals of the capacitances add: 1/C = 1/C₁ + 1/C₂. In parallel the p.d. is the same, the charges add and the capacitances add: C = C₁ + C₂.
+
+**How can I check a series capacitor answer?**
+The total capacitance of capacitors in series is always less than the smallest single capacitance. If your answer is larger, you have probably forgotten to invert 1/C.
+
+**What does the gradient of a Q-V graph show?**
+For a given capacitor, the Q-V graph is a straight line through the origin whose gradient is the capacitance C. The area under a V-Q graph is the energy stored.
+
+**What are the equations for energy stored in a capacitor?**
+W = ½QV = ½CV² = ½Q²/C. Choose the form that uses the two quantities you know, and do not drop the square.
+
 ## Official syllabus
 
 OCR, *Advanced GCE in Physics A (H556)* specification, Version 3.0, March 2026, first assessment 2017, sections 6.1.1 and 6.1.2.

@@ -16,7 +16,9 @@ syllabusTopics:
 description: "IB MYP Language Acquisition study guide: use the six global contexts to build topic word banks and reuse them across listening, reading, speaking, writing."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -163,6 +165,20 @@ Pick the context angle that matches your level. The same topic -- food waste -- 
 - Listening only for the exact words in the question, and missing the paraphrase.
 - Staying at personal level in speaking when the question invites a local or global view.
 - Revising from a list you only read. Reading checks recognition; producing from English checks use.
+
+## Frequently asked questions
+
+**What are the six MYP global contexts?**
+The six global contexts are identities and relationships; orientation in space and time; personal and cultural expression; scientific and technical innovation; globalization and sustainability; and fairness and development. The IB MYP Language Acquisition brief (from 2020) uses them to explore the key and related concepts.
+
+**What is the difference between a global context and a topic?**
+A global context is a lens, while a topic is what you actually talk about. "Globalization and sustainability" is a context, and "food waste" is a topic that could sit under it; one topic can fit several contexts.
+
+**What is the difference between receptive and productive vocabulary?**
+Receptive vocabulary is what you recognise when you hear or read it (Criteria A and B), and productive vocabulary is what you can use correctly when you speak or write (Criteria C and D). Your receptive bank is always larger.
+
+**Can any topic appear in the MYP Language Acquisition on-screen exam?**
+The brief says the on-screen examination may include any topics from the language acquisition list. That is why a word bank you can reuse across several contexts is more useful than one built for a single unit.
 
 ## Where to go next
 

@@ -18,7 +18,9 @@ syllabusTopics:
 description: "Condensed IB MYP Sciences forces revision notes: key equations, Newton's laws, motion graphs, pressure, moments and a 12-question self-test."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -169,6 +171,20 @@ Use g = 9.8 N/kg. Give answers to 3 significant figures where they do not come o
 - Naming the normal force as the third-law partner of weight.
 - Describing terminal velocity as "no forces acting" rather than "forces balanced".
 - In an investigation, changing mass and force together so the effect of either cannot be separated.
+
+## Frequently asked questions
+
+**What is Newton's second law equation?**
+F = m × a, where F is the resultant force in newtons, m is the mass in kilograms and a is the acceleration in m/s². Always use the resultant force, not the driving force alone.
+
+**How do you calculate pressure?**
+Pressure = force ÷ area (p = F/A), measured in pascals, where 1 Pa = 1 N/m². Convert any area in cm² to m² before dividing.
+
+**What is the principle of moments?**
+For an object in equilibrium, the total clockwise moment about any pivot equals the total anticlockwise moment. A moment is force × perpendicular distance from the pivot to the line of the force.
+
+**What is a Newton's third law pair?**
+When object A pushes on object B, B pushes back on A with a force equal in size and opposite in direction. The two forces act on different objects, so an object's weight and the normal force on it are not a third-law pair.
 
 ## Official syllabus
 

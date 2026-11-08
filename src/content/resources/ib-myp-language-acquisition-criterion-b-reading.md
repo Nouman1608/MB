@@ -16,7 +16,9 @@ syllabusTopics:
 description: "IB MYP Language Acquisition study guide to Criterion B reading: main ideas, details, conventions, visuals, purpose and perspective, with original texts."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -174,6 +176,20 @@ The brief says courses are assessed at emergent, capable or proficient level; it
 - Copying long passages as "evidence" instead of the precise words.
 - Naming a purpose with no evidence, or giving only one purpose when the text clearly has two.
 - Answering from general knowledge, not the text.
+
+## Frequently asked questions
+
+**What is Criterion B in IB MYP Language Acquisition?**
+Criterion B is Reading. The MYP Language Acquisition subject brief (from 2020) says students construct meaning from a text and interpret its written, spatial and visual aspects, understanding how they work with the words to convey ideas, values and attitudes.
+
+**How many marks is reading worth in the MYP Language Acquisition on-screen exam?**
+Comprehending written multimodal texts is assessed by Criterion B for 24 marks in the on-screen examination. Exam texts may come from any topic on the language acquisition topic list.
+
+**What is the difference between a main idea and a supporting detail?**
+The main idea is the point the whole text, or one section, makes, and it is rarely a single quoted sentence. Supporting details are the facts, examples and reasons that back that idea up.
+
+**How do you answer a true or false question with justification?**
+Give the correct choice and the shortest quotation from the text that proves it. A tick alone, or a whole copied paragraph, does not show where you found the answer.
 
 ## Next steps
 

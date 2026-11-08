@@ -180,6 +180,23 @@ The brief sets out three on-screen examination tasks: **Investigating** (26 mark
 - Judging a mission a success because fighting stopped. Ask whether the causes were addressed (positive peace).
 - Wrong or vague dates. "After the war" is weaker than "in 1945".
 
+## Frequently asked questions
+
+**What is the difference between peacekeeping and peace enforcement?**
+Peacekeeping places impartial personnel, with the consent of the parties, to help keep a ceasefire. Peace enforcement uses force authorised by the Security Council under Chapter VII of the UN Charter, as in Korea in 1950 and against Iraq's occupation of Kuwait in 1990–91.
+
+**What are the three principles of UN peacekeeping?**
+The three basic principles are consent of the main parties, impartiality (the mission does not take sides) and non-use of force except in self-defence and defence of the mandate. The failures in Rwanda in 1994 and Srebrenica in 1995 showed the limits of these principles when one side targets civilians.
+
+**What is the difference between negative peace and positive peace?**
+Johan Galtung described negative peace as the absence of fighting and positive peace as a state in which the causes of conflict, such as injustice and poverty, have been addressed. Peacekeeping mainly secures negative peace, while peacebuilding aims at positive peace.
+
+**Why did the League of Nations fail to keep the peace?**
+The USA never joined, and the League had no armed force of its own. It failed to stop Japan's invasion of Manchuria in 1931 and Italy's invasion of Abyssinia in 1935, and it was dissolved in 1946.
+
+**Is warfare and peacekeeping in the IB MYP Individuals and Societies eAssessment?**
+Yes. The IB MYP Individuals and Societies subject brief (from 2014) lists warfare and peacekeeping among the topics explored in the on-screen examinations. Schools design their own units, so your teacher may use different case studies.
+
 ## Official syllabus
 
 International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Individuals and societies*, from 2014. The brief lists "warfare and peacekeeping" among the topics explored in the individuals and societies on-screen examinations; the case studies here are standard examples, and your school may use others.

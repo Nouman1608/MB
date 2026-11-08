@@ -315,6 +315,20 @@ Small reminder: 720 counts per minute with half-life 5 minutes becomes 360 after
 - Choosing alpha for a thickness gauge or gamma for a smoke alarm without justifying it with penetration and ionisation.
 - Saying radiation "leaks" in the safety answer instead of naming time, distance or shielding.
 
+## Frequently asked questions
+
+**How do you find a half-life from count rate readings?**
+Subtract the background count rate from each reading first, then find the time for the corrected count rate to halve. Using measured counts instead of corrected counts is a common error.
+
+**What happens to the proton number in beta decay?**
+In beta emission the nucleus gives out an electron (⁰₋₁e), so the proton number Z rises by one while the nucleon number A stays the same. Check that both totals balance in the decay equation.
+
+**How is a nuclide written in nuclide notation?**
+The nucleon (mass) number A goes on top and the proton number Z goes underneath, both to the left of the element symbol. Writing them the wrong way round loses the mark.
+
+**What must happen before a uranium nucleus undergoes fission?**
+The nucleus must first absorb a neutron. It then splits into two smaller nuclei and releases further neutrons, which can cause a chain reaction.
+
 ## Official syllabus
 
 Cambridge O Level Physics 5054 syllabus for examination in 2026, 2027 and 2028, Cambridge University Press & Assessment. Section 5, Nuclear physics.

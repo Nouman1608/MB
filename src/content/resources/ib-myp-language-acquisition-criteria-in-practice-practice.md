@@ -11,10 +11,12 @@ order: 5
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-language-acquisition-assessment-criteria"
-description: "Original scenario-based practice questions with full worked answers testing whether sample listening, reading, speaking and writing evidence would meet top-band standard for each of MYP Language Acquisition's four assessment criteria."
+description: "Original scenario-based questions with worked answers on top-band evidence for the four IB MYP Language Acquisition criteria and three proficiency levels."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -88,6 +90,20 @@ and [revision notes](/resources/ib-myp-language-acquisition-criteria-in-practice
 **7.** Top-band Criterion B evidence specifically requires interpreting the spatial and visual aspects of a text -- layout, images, colour, formatting -- as sources of meaning in their own right, not just decoration around the written words. A response that comprehends the literal text accurately but says nothing about the icons or colour coding demonstrates only literal reading comprehension, missing exactly the multimodal-interpretation element the criterion is designed to assess separately from plain text comprehension. To reach top band, the response would need to explain what the icons and colour choices themselves communicate -- for example, a red icon signalling urgency or warning -- in addition to correctly understanding the written text, treating the visual elements as genuinely meaningful rather than irrelevant to the reading task. **[6]**
 
 **8.** A top-band emergent-level Writing response might be a short, simple message using basic vocabulary and simple sentence structures, but one that is accurate, appropriately suited to its audience and purpose within the limits of what an emergent-level learner can be expected to produce -- for example, a brief, correctly formatted informal note to a friend. A top-band proficient-level Writing response to a comparable task would be expected to show a much wider range of vocabulary, more complex sentence structures, nuanced control of register, and genuinely creative or sophisticated expression of ideas -- for example, a formal letter that not only uses correct formal register but varies sentence structure and vocabulary skilfully to achieve a persuasive or nuanced effect. Both responses can receive a top achievement level because each is being judged against what is realistically achievable at its own proficiency level, not against a single fixed standard that would unfairly disadvantage an emergent-level learner or fail to stretch a proficient-level learner. **[6]**
+
+## Frequently asked questions
+
+**Are these real IB MYP Language Acquisition exam questions?**
+No. They are original scenario-based questions written for revision, each asking whether sample listening, reading, speaking or writing evidence would meet top-band standard. Use them alongside your school's official materials.
+
+**How should I approach a question about whether evidence reaches top band?**
+Start from the criterion's descriptor for the student's proficiency level, name exactly what the evidence does and does not show, and then say what would need to be added. Answers that only say "it is good" or "it is weak" without linking to the criterion earn little.
+
+**Why do MYP Language Acquisition criteria questions mention proficiency levels?**
+Each criterion is assessed against the student's own proficiency level, so the same piece of work can be judged differently at the emergent, capable and proficient levels. Questions often ask you to explain that contrast.
+
+**What should I revise before trying these practice questions?**
+Work through the criteria in practice study guide and revision notes first, which explain what top-band evidence looks like for listening, reading, speaking and writing with a worked example for each.
 
 ## Official syllabus
 

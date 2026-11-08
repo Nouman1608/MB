@@ -19,7 +19,9 @@ syllabusTopics:
 description: "Condensed recall notes on speed, velocity, acceleration and motion graphs for Cambridge O Level Physics 5054 — definitions, equations and graph rules."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -156,3 +158,16 @@ For the full worked explanations behind every example above, see the [Kinematics
   <figcaption>In free fall, speed increases by about 9.8 m/s every second.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the gradient of a speed-time graph?**
+The gradient of a speed-time graph is the acceleration, and the area under it is the distance travelled. The gradient of a distance-time graph is the speed, never the acceleration.
+
+**Is an object moving in a circle at constant speed accelerating?**
+Yes. Its direction keeps changing, so its velocity changes, which means it is accelerating even though its speed is constant.
+
+**How do you convert km/h to m/s?**
+Divide by 3.6. For example, 72 km/h is 72 ÷ 3.6 = 20 m/s.
+
+**Is deceleration a separate quantity?**
+No. Deceleration is negative acceleration, found with the same equation a = (v − u) / t; the answer simply comes out negative.

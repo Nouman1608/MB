@@ -18,7 +18,9 @@ syllabusTopics:
 description: "Revision notes for IB MYP Language Acquisition multimodal texts: visual terms, text-image links, a describe-interpret method and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -199,6 +201,20 @@ This is not an IB descriptor; your teacher will tell you what your level's tasks
 - In writing, ignoring the text type and register the task sets.
 - In speaking, describing the image for too long and never giving an interpretation or opinion.
 - Assuming a colour or gesture means the same in every culture.
+
+## Frequently asked questions
+
+**What is a multimodal text?**
+A text is multimodal when it combines two or more modes, or channels of meaning, such as words, images, layout, colour and sound. Posters, web pages, infographics, adverts, video clips and comics are typical examples.
+
+**How do you interpret an image in an MYP Language Acquisition task?**
+Use Notice, Connect, Explain: notice one specific detail, connect it to the words or sound, then explain its effect on the audience and the idea, value or attitude behind it.
+
+**How should I talk about an image in the MYP speaking task?**
+Describe the image briefly, then move on to interpreting its purpose and giving your opinion. Describing for the whole time and never interpreting is a common way to lose credit.
+
+**How should I use a multimodal stimulus in an MYP writing task?**
+Use the stimulus's information and ideas, but write in your own words and in the text type the task asks for. Copying phrases from the stimulus is a frequent error.
 
 ## Official syllabus
 

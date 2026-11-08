@@ -16,10 +16,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "nuclear-physics-cambridge-igcse-physics"
     subtopic: "radioactivity-cambridge-igcse-physics"
-description: "Original exam-style questions with full worked answers on alpha-particle scattering and the nuclear model, beta-decay equations, half-life from count rates that include background radiation, deflection of radiation in an electric field, choosing an isotope for a smoke alarm, and nuclear fusion, for Cambridge IGCSE Physics (0625) Extended candidates."
+description: "Original Cambridge IGCSE Physics 0625 Extended nuclear questions on alpha scattering, beta decay, half-life, radiation in fields and fusion, with answers."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
@@ -94,3 +96,17 @@ After each answer there is a common mistake to avoid.
 - Finding a half-life without first subtracting the background count rate.
 - Saying alpha particles are deflected more than beta particles in an electric field.
 - Choosing a radiation for an application without explaining both its range and its half-life.
+
+## Frequently asked questions
+
+**What are common mistakes in IGCSE Physics nuclear questions?**
+Frequent slips include linking the large deflections in alpha scattering to electrons instead of the nucleus, changing the proton number the wrong way in a beta-decay equation, and finding a half-life without first subtracting the background count rate.
+
+**Why do you subtract background radiation when finding a half-life?**
+A detector records background radiation as well as the source, so the background count rate must be subtracted from each reading first. Only the corrected count rate halves with each half-life.
+
+**How do you choose a radiation source for a practical use?**
+Explain both the range or penetration of the radiation and the half-life of the isotope, and link each to the use. Naming a source without explaining both is a common way to lose marks.
+
+**Is this nuclear physics content Core or Extended in IGCSE Physics 0625?**
+The questions on this page are marked Extended, which is Supplement content of the Cambridge IGCSE Physics 0625 syllabus. Core and Extended questions are in the separate nuclear physics practice set.

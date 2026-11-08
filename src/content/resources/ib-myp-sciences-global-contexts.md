@@ -188,6 +188,20 @@ Unit: polymers and plastic waste. Context: globalization and sustainability. Iss
 - Assuming every science unit is about innovation. The guide expects all six over time.
 - Giving only benefits, or only harms, then stopping. Top-band criterion D work evaluates and reaches a judgement.
 
+## Frequently asked questions
+
+**What are the six MYP global contexts in Sciences?**
+The six global contexts are identities and relationships; orientation in space and time; personal and cultural expression; scientific and technical innovation; globalization and sustainability; and fairness and development. The IB MYP Sciences guide expects every unit to have one and all six to appear over the course.
+
+**What is the difference between a global context and a factor in Criterion D?**
+The global context frames the whole unit, while a factor is the lens you choose inside a Criterion D answer. The guide lists the factors as moral, ethical, social, economic, political, cultural or environmental, so "environmental" is a factor but "globalization and sustainability" is not.
+
+**What is an exploration in an MYP science unit?**
+An exploration is a narrower angle on a broad global context, chosen for one unit. It zooms from the global context to a focused theme and then to the unit's specific issue.
+
+**What are the four strands of MYP Sciences Criterion D?**
+By the end of year 5 you should explain how science is applied to a specific problem, discuss and evaluate its implications, apply scientific language effectively, and document the work of others and your sources.
+
 ## Where to go next
 
 - Next: the [revision notes](/resources/ib-myp-sciences-global-contexts-revision-notes/) and [practice questions](/resources/ib-myp-sciences-global-contexts-practice/)

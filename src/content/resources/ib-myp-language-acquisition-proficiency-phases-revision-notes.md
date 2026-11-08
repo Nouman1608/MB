@@ -16,10 +16,12 @@ syllabusTopics:
     topic: "ib-myp-language-acquisition-eassessment-structure"
   - qualification: "ib-myp"
     topic: "ib-myp-language-acquisition-assessment-criteria"
-description: "Condensed revision notes on IB MYP Language Acquisition's emergent/capable/proficient reporting levels, the six phases used for teaching, and its four independently-weighted assessment criteria -- listening, reading, speaking, writing."
+description: "Revision notes on IB MYP Language Acquisition's emergent, capable and proficient reporting levels, its six teaching phases and four equally weighted criteria."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
@@ -167,3 +169,17 @@ a student for their actual assessment; practising at too high a level wastes rev
 unnecessary complexity beyond what is being examined. 6. Six phases -- a finer continuum used for
 ongoing classroom teaching that doesn't correspond to age or year group, distinct from the three
 broader levels (emergent, capable, proficient) used only for reporting eAssessment results.
+
+## Frequently asked questions
+
+**How many marks is each MYP Language Acquisition criterion worth?**
+In the eAssessment blueprint, each of the four criteria (listening, reading, speaking, writing) carries 24 marks and they are weighted equally. In classroom assessment each criterion runs from 0 to 8, a separate scale with a total of 0–32.
+
+**Should I practise at a higher MYP Language Acquisition level than my own?**
+Not usually. Practising above your confirmed level wastes revision time on complexity beyond what is examined and risks errors, while practising below it underprepares you; aim at your own level's expectations.
+
+**What is the MYP bilingual certificate?**
+The IB says the IB MYP certificate and IB MYP bilingual certificate are available to students who complete its broad and balanced course of study, but its grading page does not set out separate conditions for the bilingual certificate. Confirm the conditions with your school's MYP coordinator.
+
+**Why does speaking need a separate revision routine in MYP Language Acquisition?**
+Speaking is internally assessed and externally moderated as its own interactive task, while listening, reading and writing share one on-screen paper. Written revision does not prepare you for spontaneous, unscripted conversation.

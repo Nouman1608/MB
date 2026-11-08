@@ -18,7 +18,9 @@ syllabusTopics:
 description: "Original IB MYP Language Acquisition practice questions on text types, register and conventions, with model answers and worked marking points."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -150,6 +152,20 @@ A reader says Source C is "not really a review". Evaluate this claim, referring 
 - A speech with no greeting, signposts or audience involvement.
 - An article with no headline or byline, or with only one point of view when the task asks for more.
 - Translating English formulas and idioms word for word into the target language.
+
+## Frequently asked questions
+
+**What are common mistakes with text types in MYP Language Acquisition?**
+Frequent slips include letting contractions or slang into a formal text, swapping between polite and familiar "you", writing a blog that addresses no reader, and giving an article no headline or byline.
+
+**How do you answer a question about the conventions of a text?**
+Name the convention and quote or point to where it appears in the source. Naming a convention without showing where it is used earns little.
+
+**Can I translate English letter formulas into my target language?**
+Not word for word. Formal openings, closings and idioms differ between languages, so learn the target-language formulas exactly rather than translating English ones.
+
+**How are these MYP Language Acquisition practice answers marked?**
+Real MYP work is judged against criterion level descriptors with achievement levels 1–8, so the mark points on this page are a revision aid, not IB marks.
 
 ## Next steps
 

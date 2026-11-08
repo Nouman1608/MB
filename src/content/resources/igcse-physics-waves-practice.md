@@ -22,10 +22,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "waves-cambridge-igcse-physics"
     subtopic: "sound-cambridge-igcse-physics"
-description: "Original exam-style practice questions with full worked answers on wave properties, reflection, refraction, lenses, the electromagnetic spectrum and sound, for Cambridge IGCSE Physics (0625) Topic 3."
+description: "Original Cambridge IGCSE Physics 0625 Topic 3 questions with worked answers on wave properties, reflection, refraction, lenses, the EM spectrum and sound."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
@@ -140,3 +142,17 @@ distinct calculation method from the wave equation used elsewhere in this topic,
 students make on Supplement-tier sound questions. Practise identifying which method a question
 requires by checking which three quantities (speed, distance, time, or speed, frequency, wavelength)
 are actually given, rather than defaulting to whichever formula was used most recently in revision, since both calculation methods appear within this same topic and are easy to mix up under time pressure in the exam room.
+
+## Frequently asked questions
+
+**When should I use v = fλ and when should I use speed = distance / time?**
+Check which quantities a question gives. Use v = fλ when frequency and wavelength are involved, and speed = distance / time for echo and ultrasound distance calculations, where frequency and wavelength play no part.
+
+**How do you measure amplitude and wavelength?**
+Amplitude is measured from the middle position to a crest, not crest to trough. Wavelength is the distance between two identical points on consecutive waves, such as crest to crest.
+
+**What do I need to include when defining the principal focus of a lens?**
+Include both parts: rays parallel to the principal axis, and the point where they converge after refraction by the lens. Stating only one half is a common way to lose the mark.
+
+**Which questions are Extended only in this IGCSE Physics waves set?**
+Questions marked (Extended), such as the ultrasound depth calculation, cover Supplement content of the Cambridge IGCSE Physics 0625 syllabus. The rest are Core.

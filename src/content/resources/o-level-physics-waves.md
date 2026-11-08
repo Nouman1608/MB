@@ -330,6 +330,20 @@ Worked example 9: a sonar pulse returns after 0.08 s in water where v = 1500 m/s
 - Saying total internal reflection can happen from air into glass.
 - Saying the frequency changes when a wave refracts. The speed and wavelength change.
 
+## Frequently asked questions
+
+**Does a wave carry matter?**
+No. A wave transfers energy without carrying matter with it; the particles of the medium only vibrate about fixed positions.
+
+**Does frequency change when a wave refracts?**
+No. When a wave refracts, its speed and wavelength change but its frequency stays the same.
+
+**Can total internal reflection happen when light goes from air into glass?**
+No. Total internal reflection only happens when light travels from a denser material to a less dense one, such as glass to air, at an angle of incidence greater than the critical angle.
+
+**Where should angles of incidence and refraction be measured from?**
+Measure them from the normal, a line at right angles to the surface, not from the surface of the mirror or block.
+
 ## Official syllabus
 
 Source: topic 3, Waves, of the Cambridge International Education O Level Physics 5054 syllabus for 2026 to 2028.

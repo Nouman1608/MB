@@ -246,6 +246,20 @@ Reversing it: for electrons to reach 1.0 × 10⁷ m s⁻¹ you need V = mv² / 2
 - Using eV = ½mv² with the proton mass for an electron.
 - Drawing a voltmeter in series.
 
+## Frequently asked questions
+
+**What is electric current in OCR A Level Physics A?**
+Electric current is the rate of flow of charge, I = ΔQ/Δt, with time in seconds. One coulomb is the charge delivered by a steady current of 1 A in 1 s; this is section 4.1.1 of OCR A Level Physics A (H556).
+
+**Why do semiconductors need a higher drift velocity than metals for the same current?**
+From I = Anev, for a given current and area a smaller number density n means a larger drift velocity v. A semiconductor's n is many orders of magnitude smaller than a metal's, and it rises when the material is warmed or lit.
+
+**How do you find the speed of an electron accelerated through a p.d.?**
+The kinetic energy gained equals the electrical energy transferred, so eV = ½mv² and v = √(2eV/m). Use the electron's mass, not the proton's, and replace e with the particle's charge for other particles.
+
+**Is e.m.f. a force?**
+No. Despite its name, e.m.f. is an energy per unit charge: the energy given to each unit of charge by a source. It is measured in volts, like p.d.
+
 ## Next steps
 
 Try the [practice questions](/resources/ocr-a-level-physics-charge-current-drift-velocity-p-d-and-e-m-f-practice/) and condense with the [revision notes](/resources/ocr-a-level-physics-charge-current-drift-velocity-p-d-and-e-m-f-revision-notes/).

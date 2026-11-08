@@ -233,6 +233,23 @@ Both show **globalization** at work long before modern trade blocs.
 - Calling every trade bloc a customs union: a free trade area has no common external tariff.
 - Arguing that aid "always" or "never" works: it depends on the type, purpose and management of the aid.
 
+## Frequently asked questions
+
+**What is comparative advantage in simple terms?**
+A country has a comparative advantage in a good if it can make it at a lower opportunity cost, meaning it gives up less of another good. David Ricardo set out the idea in 1817, showing that both countries can gain from trade even when one is better at making everything.
+
+**What is the difference between a free trade area and a customs union?**
+Both remove tariffs between members, but a customs union also sets a common external tariff on imports from outside. USMCA is an example of a free trade area, and Mercosur, founded in 1991, is an example of a customs union.
+
+**What are the arguments for and against aid?**
+Aid can save lives after disasters and fund health and education, but it can also create dependency, be lost to corruption, benefit donor firms when it is tied, and add to debt when given as loans. Whether aid helps depends on its type, purpose and management.
+
+**What was the Columbian Exchange?**
+The Columbian Exchange was the movement of crops, animals and diseases between the Americas and the rest of the world after 1492. Maize, potatoes, tomatoes and cacao moved from the Americas, while horses, cattle, wheat and sugar cane went the other way, and diseases such as smallpox killed very large numbers of Indigenous people.
+
+**Is trade, aid and exchange part of the IB MYP Individuals and Societies course?**
+The IB MYP Individuals and Societies subject brief (from 2014) lists trade, aid and exchange among the topics explored in the on-screen examinations. MYP has no prescribed content list, so schools design their own units and teachers share the task-specific clarifications.
+
 ## Next steps
 
 Test yourself with the [practice questions](/resources/ib-myp-individuals-and-societies-trade-aid-and-exchange-practice/), then use the [revision notes](/resources/ib-myp-individuals-and-societies-trade-aid-and-exchange-revision-notes/). For the criteria, read [criteria in practice](/resources/ib-myp-individuals-and-societies-criteria-in-practice/); for sources, see [source-evaluation exam preparation](/resources/ib-myp-individuals-societies-source-evaluation-exam-preparation/).

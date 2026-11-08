@@ -286,6 +286,20 @@ Other stars in the Milky Way are much further from the Earth than the Sun is.
 - Writing that redshift is a change of colour, rather than an increase in wavelength.
 - Comparing galaxies by redshift but not saying both distance and speed.
 
+## Frequently asked questions
+
+**How do you calculate average orbital speed in O Level Physics 5054?**
+Use v = 2πr / T, where 2πr is the distance round one orbit and T is the orbital period. Convert the period into the time unit the answer needs, such as seconds for m/s.
+
+**What keeps a planet in orbit?**
+The Sun's gravitational attraction on the planet acts towards the Sun, not along the planet's path. Describing the force as acting along the orbit is a common error.
+
+**Is a protostar burning hydrogen?**
+No. Nuclear fusion of hydrogen begins once the star becomes stable; a protostar is a collapsing cloud of gas and dust heating up because of its own gravity.
+
+**How do you compare galaxies using redshift?**
+A greater redshift means a galaxy is moving away faster and is further away. When comparing galaxies, mention both distance and speed.
+
 ## Official syllabus
 
 Cambridge O Level Physics 5054 syllabus for examination in 2026, 2027 and 2028, published by Cambridge International, topic 6 Space physics. See also the [study guide](/resources/o-level-physics-space-physics/) and [book a free trial class](/trial/).

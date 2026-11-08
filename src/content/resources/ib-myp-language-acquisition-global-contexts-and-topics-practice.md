@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Original IB MYP Language Acquisition practice on global contexts, topic word banks and reusing vocabulary across Criteria A to D, with model answers."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -160,6 +162,20 @@ Three chunks used accurately [1]; informal register throughout [1]; personal and
 - Opinion phrases left without a reason, contrast or example.
 - Percentages rounded to 2 significant figures when 3 were asked for.
 - Copying source sentences in writing instead of adapting chunks to your own message.
+
+## Frequently asked questions
+
+**What are common mistakes in MYP Language Acquisition global contexts questions?**
+A frequent slip is writing a topic such as "pollution" when the question asks for a global context, or the other way round. Others include speaking plans that never move beyond personal level and opinion phrases left without a reason or example.
+
+**Why do I miss answers in MYP listening questions even when I know the vocabulary?**
+Recordings and questions often say the same idea in different words, so learning only one way of saying an idea makes you miss the paraphrase. Build synonyms into your word bank.
+
+**How are these MYP Language Acquisition practice answers marked?**
+Real MYP work is judged against criterion level descriptors (1–8, in four bands), so the mark points on this page are a revision aid, not IB marks. Each question is labelled with the criterion it trains.
+
+**Should I redo these practice tasks in my target language?**
+Yes. The questions are in English, so redo each task in your target language to practise the vocabulary you will actually use in assessment.
 
 ## Next steps
 

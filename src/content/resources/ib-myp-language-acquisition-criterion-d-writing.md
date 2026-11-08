@@ -16,7 +16,9 @@ syllabusTopics:
 description: "IB MYP Language Acquisition study guide to criterion D writing: decoding the task, planning, cohesion, register, accuracy and range, with a model."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -203,6 +205,20 @@ This model answers the repair café task.
 - Mixing polite and familiar forms of address in the same text.
 
 For the layout of each text type, see [text types and conventions](/resources/ib-myp-language-acquisition-text-types-and-conventions/). Then test yourself with the [criterion D revision notes](/resources/ib-myp-language-acquisition-criterion-d-writing-revision-notes/) and [practice questions](/resources/ib-myp-language-acquisition-criterion-d-writing-practice/).
+
+## Frequently asked questions
+
+**What is Criterion D in IB MYP Language Acquisition?**
+Criterion D is Writing. The MYP Language Acquisition subject brief (from 2020) says students use language suited to audience and purpose and apply their grasp of language, form, mode, medium and literary concepts to express ideas, values and opinions creatively and meaningfully.
+
+**How many marks is writing worth in the MYP Language Acquisition eAssessment?**
+The eAssessment blueprint names the objective "writing in response to multimodal texts" and gives Criterion D 24 marks, the same as Criteria A and B.
+
+**What is register drift in MYP Language Acquisition writing?**
+Register drift is starting in one register and slipping into another, such as a formal email to a head of school that ends with "Anyway, let me know, thanks!" Choose the register when you decode the task and check every paragraph against it.
+
+**What is the difference between range and accuracy in writing?**
+Range is the variety of vocabulary and structures you use, and accuracy is how correctly you use them. The two pull against each other, so use range you can control and finish with a checking order: verbs, agreement, word order, spelling and register.
 
 ## Official syllabus
 

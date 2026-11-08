@@ -339,6 +339,20 @@ Dangers. Excess exposure heats soft tissue and burns. Ionising radiation: ultrav
 - Mixing up the order of the electromagnetic spectrum with the order of colours in dispersion.
 - Saying a virtual image is "not there" instead of saying the rays only appear to come from it.
 
+## Frequently asked questions
+
+**What is the difference between loudness and pitch?**
+Loudness depends on the amplitude of a sound wave, and pitch depends on its frequency.
+
+**What is the difference between a real and a virtual image?**
+A real image can be caught on a screen. A virtual image cannot, because the rays only appear to come from it.
+
+**Which parts of the electromagnetic spectrum are ionising?**
+Ultraviolet, X-rays and gamma rays are ionising, while microwaves and infrared mainly have a heating effect.
+
+**Does sound travel faster in air or in water?**
+Sound travels faster in water than in air. Writing that sound goes faster in air than in water is a common error.
+
 ## Official syllabus
 
 Source: topic 3, Waves, of the Cambridge International Education O Level Physics 5054 syllabus for 2026 to 2028.

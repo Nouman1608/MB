@@ -37,7 +37,9 @@ syllabusTopics:
 description: "Condensed recall notes on speed, acceleration, mass and weight, density, forces, momentum, energy and pressure for Cambridge IGCSE Physics 0625 Topic 1."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-29
 updatedDate: 2026-09-28
@@ -217,3 +219,17 @@ F = Δp/Δt  (resultant force = rate of change of momentum)
 5. Explain, using p = F/A, why a drawing pin has a sharp point.
 
 **Answers:** 1. Acceleration = Δv/Δt = 20/10 = 2 m/s². Distance = area under graph = ½ × 10 × 20 = 100 m. 2. Mass is the amount of matter (kg), the same everywhere; weight is the gravitational force on that mass (N), which varies with gravitational field strength. 3. Momentum conserved: (2×3) + (1×0) = (2+1)×v → v = 2 m/s. 4. Efficiency = useful energy output ÷ total energy input; some energy is always wasted (usually as heat) in any real process, so useful output can never exceed total input. 5. A small contact area at the point, for a given force, produces a much larger pressure (p = F/A), allowing it to penetrate the surface.
+
+## Frequently asked questions
+
+**What is the difference between speed and velocity?**
+Velocity is speed in a given direction, so it is a vector. An object moving at constant speed while changing direction is still accelerating.
+
+**What do the gradient and area of a speed-time graph show?**
+The gradient of a speed-time graph is the acceleration and the area under it is the distance travelled. Reading the gradient as distance or the area as speed is a common mistake.
+
+**What is Hooke's law?**
+Hooke's law says the extension of a spring is proportional to the force on it, F = kx, within the limit of proportionality. Quote the condition, because beyond that limit the law no longer holds.
+
+**How do you calculate efficiency?**
+Efficiency = useful energy (or power) output ÷ total energy (or power) input, often given as a percentage. It can never be more than 100%.

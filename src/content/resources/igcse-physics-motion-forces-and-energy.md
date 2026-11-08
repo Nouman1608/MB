@@ -34,10 +34,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "motion-forces-and-energy-cambridge-igcse-physics"
     subtopic: "pressure-cambridge-igcse-physics"
-description: "Physical quantities, motion graphs, mass and weight, density, forces, momentum, energy/work/power and pressure -- the Core and Supplement content of Topic 1 Motion, forces and energy for Cambridge IGCSE Physics 0625, 2026-2028 series."
+description: "Cambridge IGCSE Physics 0625 Topic 1 study guide for 2026-2028: motion graphs, mass and weight, density, forces, momentum, energy, work, power and pressure."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 updatedDate: 2026-09-28
@@ -386,6 +388,20 @@ generate electricity on a large scale.
   <figcaption>A Sankey diagram shows energy flow with arrow width in proportion to energy; efficiency = useful / total.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**What is in Topic 1 of Cambridge IGCSE Physics 0625?**
+Topic 1, Motion, forces and energy, covers physical quantities and measurement, motion, mass and weight, density, forces, momentum, energy, work and power, and pressure. It is the first and longest of the six topics in the 0625 syllabus.
+
+**What is the difference between Core and Supplement content in IGCSE Physics?**
+Core content is taught to every candidate, and a Core-only entry is eligible for grades C to G. Supplement content is examined only on the Extended papers (Papers 2 and 4); Extended candidates are eligible for grades A* to G.
+
+**Is momentum on the Core IGCSE Physics 0625 papers?**
+No. Momentum (p = mv, impulse = FΔt, conservation of momentum and F = Δp/Δt) is Supplement only, so it is examined on the Extended papers.
+
+**What is the most common mistake in IGCSE Physics motion questions?**
+Mixing up mass and weight is a frequent error. Mass is measured in kilograms, while weight is a force measured in newtons, linked by g = W/m.
 
 ## Official syllabus
 
