@@ -20,10 +20,12 @@ syllabusTopics:
 description: "Condensed IB Maths AI revision notes on perpendicular bisectors and Voronoi diagrams: key methods, must-know terms and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and longer worked examples, read the [perpendicular bisectors and Voronoi diagrams study guide](/resources/ib-dp-mathematics-ai-voronoi-perpendicular-bisectors/) first.
@@ -228,6 +230,20 @@ Every point in a cell gets the value of its site. The estimate is constant in ea
 - Measuring a vertex's distance to a site that does not meet at that vertex.
 - Rounding a vertex early, then using the rounded coordinates for a distance, which loses the accuracy mark.
 - Adding a site and leaving old edges inside the new cell.
+
+## Frequently asked questions
+
+**How do you find the vertex of a Voronoi diagram?**
+Write the equations of two edges that meet at the vertex and solve them simultaneously, for example on your GDC. Check that the point also lies on the third edge; it should be the same distance from all three sites.
+
+**How do you tell which Voronoi cell a point is in?**
+Either calculate the distance from the point to each nearby site and take the smallest, or substitute the point into an edge equation and see whether it lies on the same side as a given site.
+
+**How do you add a new site to an existing Voronoi diagram?**
+Find the cell containing the new site, draw the perpendicular bisector of the new site and that cell's site up to the cell's edges, then continue into each neighbouring cell. Stop when the new cell closes or reaches the boundary, and delete old edges inside it.
+
+**How do you find the area of a Voronoi cell?**
+Split the cell into rectangles, triangles and trapezia, finding corner points by solving each edge equation with the region's boundary lines. Then add the areas, using (1/2)(a + b)h for a trapezium.
 
 ## Official syllabus
 

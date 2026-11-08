@@ -32,10 +32,12 @@ syllabusTopics:
 description: "Study guide for IB Maths AI functions and modelling: straight lines, functions and inverses, graphs, the six SL models and fitting them."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches the functions and modelling unit of IB DP Mathematics: applications and interpretation. It is aligned to the IB *Mathematics: applications and interpretation guide*, first assessment 2021, and covers syllabus sections SL 2.1–2.6. This is common content for SL and HL. It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 sessions.
@@ -277,6 +279,20 @@ Keep the unrounded a in your GDC for the prediction.
 ## Where to go next
 
 Condense this page with the [revision notes](/resources/ib-dp-mathematics-ai-functions-modelling-revision-notes/), then test yourself on the [practice questions](/resources/ib-dp-mathematics-ai-functions-modelling-practice/). For the rest of the course, see the [syllabus guide](/resources/ib-dp-mathematics-applications-and-interpretation-syllabus-guide/), the [subject guide](/resources/ib-dp-mathematics-applications-and-interpretation-subject-guide/), [exam preparation](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/), [geometry and trigonometry](/resources/ib-dp-mathematics-ai-geometry-trigonometry/) (for sinusoidal work) and [statistics and probability](/resources/ib-dp-mathematics-ai-statistics-probability/) (for regression).
+
+## Frequently asked questions
+
+**What is the difference between sketch and draw in IB Maths?**
+A sketch shows the general shape and key features such as intercepts, turning points and asymptotes in roughly the right places. A drawing is plotted accurately to scale, usually on given axes, and both need labelled axes and features.
+
+**When does an inverse function exist?**
+An inverse function exists only when f is one-to-one. The graph of f⁻¹ is the reflection of y = f(x) in the line y = x, and the domain of f⁻¹ is the range of f.
+
+**Do you need to solve equations by hand in IB Maths AI functions questions?**
+The IB Maths AI guide asks you to use technology rather than elaborate analytical techniques. Set up the equation by hand, let the GDC solve it, and write down what you entered.
+
+**How do you choose a sensible domain for a model?**
+Limit the domain by the context as well as by the mathematics. For example, a cost function for n tickets only makes sense for whole numbers n ≥ 0, and using a model outside the range of its data is extrapolation, which may be unreliable.
 
 ## Official syllabus
 

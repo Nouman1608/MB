@@ -23,10 +23,12 @@ syllabusTopics:
 description: "11 original IB DP Maths AI HL graph theory questions on matrices, spanning trees, Chinese postman and TSP, with mark-by-mark worked answers."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -220,6 +222,20 @@ T = [  0    0   1/2   1 ]
 - [Printable syllabus checklist](/checklists/ib/ib-dp/mathematics-applications-and-interpretation/).
 - [All free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Do you need to show the order of edges in Kruskal's and Prim's algorithms?**
+Yes. Write down the order in which edges are selected, and for Kruskal's algorithm also the edges you reject because they would form a cycle. A correct tree without the order of selection loses marks.
+
+**How do you deal with four odd vertices in a Chinese postman problem?**
+List all three possible pairings of the odd vertices, find the shortest-path total for each, and add the least total to the sum of all edge weights. Show every pairing, not only the winning one, and use shortest paths rather than only direct edges.
+
+**Can you use a GDC in IB Maths AI HL graph theory questions?**
+Yes. All three HL papers require a GDC, so use it for matrix powers and steady states, but carry out the network algorithms by hand and show your order of choices.
+
+**What mistake is common in the deleted vertex algorithm?**
+Adding only one edge from the deleted vertex. The lower bound is the weight of the minimum spanning tree of the remaining vertices plus the two shortest edges from the deleted vertex.
 
 ## Official syllabus
 

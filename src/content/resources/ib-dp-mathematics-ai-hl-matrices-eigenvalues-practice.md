@@ -20,10 +20,12 @@ syllabusTopics:
 description: "12 original IB DP Maths AI HL questions on matrices, inverses, eigenvalues and matrix powers, with mark-by-mark worked answers."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -182,6 +184,20 @@ Learn the methods first in the [matrices and eigenvalues study guide](/resources
 - Read [AI exam preparation](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/) for paper-by-paper advice.
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Which matrix calculations must be done by hand in IB Maths AI HL?**
+The IB guide expects the 2 × 2 determinant, inverse, characteristic polynomial and eigenvector calculations to be possible by hand, so show every line when a question says so. Determinants and inverses of 3 × 3 or larger matrices are found with technology.
+
+**How is the order of a matrix written?**
+The order is written as rows × columns, so a matrix with 2 rows and 3 columns has order 2 × 3. Writing it the other way round scores nothing.
+
+**What topics do these IB Maths AI HL matrices practice questions cover?**
+They cover syllabus sections 1.14 and 1.15: matrix algebra, inverses and determinants, solving Ax = b, coding and decoding messages, eigenvalues and eigenvectors, diagonalization and matrix powers. Every question is HL only.
+
+**Why is (P + Q)² not always equal to P² + 2PQ + Q² for matrices?**
+Matrix multiplication is not commutative, so PQ and QP are generally different. Expanding (P + Q)² gives P² + PQ + QP + Q², which only equals P² + 2PQ + Q² when PQ = QP.
 
 ## Official syllabus
 

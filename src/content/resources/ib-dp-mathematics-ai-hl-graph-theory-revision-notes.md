@@ -23,10 +23,12 @@ syllabusTopics:
 description: "Condensed IB DP Maths AI HL graph theory revision notes: key definitions, algorithm steps, matrix results and a quick self-test with answers."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and longer worked examples, use the [graph theory study guide](/resources/ib-dp-mathematics-ai-hl-graph-theory/).
@@ -216,6 +218,20 @@ Test yourself afterwards with the [graph theory practice questions](/resources/i
 - Running the nearest neighbour algorithm on a table that has not been converted to least distances.
 - Adding only one edge from the deleted vertex, or the two edges from the MST, in the deleted vertex method.
 - Claiming a graph "has no Hamiltonian cycle" because it fails the Eulerian test; they are different questions.
+
+## Frequently asked questions
+
+**How do you tell whether a graph has an Eulerian circuit or trail?**
+For a connected graph, no odd vertices means there is an Eulerian circuit, and exactly two odd vertices means there is an Eulerian trail from one odd vertex to the other. Any other number of odd vertices means neither exists.
+
+**How do you count walks of length k using an adjacency matrix?**
+The (i, j)th entry of Aᵏ gives the number of walks of length k from vertex i to vertex j. For walks of length up to k, add A + A² + … + Aᵏ rather than using Aᵏ alone.
+
+**How do you find the best interval for the travelling salesman problem?**
+Use the nearest neighbour algorithm for upper bounds and the deleted vertex algorithm for lower bounds. The best interval is the largest lower bound ≤ optimal ≤ the smallest upper bound.
+
+**What is the difference between a trail, a path and a cycle?**
+A trail is a walk with no edge repeated, and a path is a walk with no vertex repeated. A cycle is a circuit with no vertex repeated except the start and end.
 
 ## Official syllabus
 

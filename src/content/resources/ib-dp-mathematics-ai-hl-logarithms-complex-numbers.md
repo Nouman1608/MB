@@ -29,10 +29,12 @@ syllabusTopics:
 description: "Study guide for IB DP Maths AI HL sections 1.9-1.13: laws of logs, rational exponents, infinite geometric series and complex numbers, with worked examples."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches the HL number and algebra unit of IB Diploma Programme Mathematics: Applications and Interpretation from scratch. It is aligned to the IB *Mathematics: applications and interpretation guide*, first assessment 2021, syllabus sections 1.9–1.13, and all of it is HL only (AHL). It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 HL sessions.
@@ -313,6 +315,20 @@ For example, multiplying by i = e^(iπ/2) is a rotation of π/2 anticlockwise: (
 ## Where to go next
 
 Condense this into the [revision notes](/resources/ib-dp-mathematics-ai-hl-logarithms-complex-numbers-revision-notes/), then try the [practice set](/resources/ib-dp-mathematics-ai-hl-logarithms-complex-numbers-practice/). For the rest of the course, see the [AI syllabus guide](/resources/ib-dp-mathematics-applications-and-interpretation-syllabus-guide/), the [AI subject guide](/resources/ib-dp-mathematics-applications-and-interpretation-subject-guide/) and [exam preparation for AI](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/).
+
+## Frequently asked questions
+
+**When does a geometric series have a sum to infinity?**
+A geometric series has a sum to infinity only when |r| < 1, and then S∞ = u₁/(1 − r). If |r| ≥ 1 the terms do not shrink to zero and there is no sum, so always state the condition.
+
+**How do you find the total distance travelled by a bouncing ball?**
+Add the first drop to twice the sum to infinity of the rises, because each rise has a matching fall. Forgetting the factor 2, or doubling the first drop too, are the usual errors.
+
+**Which logarithm bases are used in IB Maths AI HL exams?**
+The IB guide says that in examinations the base will be 10 or e, written log x and ln x respectively.
+
+**Are complex numbers in the IB Maths AI SL syllabus?**
+No. Complex numbers in Cartesian, polar and exponential form, sections 1.12–1.13, are HL only, as are the laws of logarithms, rational exponents and infinite geometric series in sections 1.9–1.11.
 
 ## Official syllabus
 

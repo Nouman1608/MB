@@ -26,10 +26,12 @@ syllabusTopics:
 description: "Study guide to 3D solids, sine and cosine rules, bearings, elevation and sectors for IB DP Maths AI SL and HL (sections 3.1-3.4), with worked examples."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches 3D geometry, triangle trigonometry, bearings and sectors for IB Diploma Programme Mathematics: Applications and Interpretation. It is aligned to the IB *Mathematics: applications and interpretation guide*, first assessment 2021, syllabus sections 3.1 to 3.4, which are common content for SL and HL. It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 sessions.
@@ -301,6 +303,20 @@ The guide lists technology as required on every AI paper, so use your GDC throug
 - Measuring an angle of depression from the vertical instead of the horizontal.
 - Leaving the calculator in radian mode.
 - Forgetting the two radii when asked for the perimeter of a sector.
+
+## Frequently asked questions
+
+**What topics are in IB Maths AI syllabus sections 3.1 to 3.4?**
+They cover 3D distance and midpoint, volumes and surface areas of pyramids, cones, spheres and hemispheres, angles in 3D shapes, right-angled and non-right-angled trigonometry, elevation, depression and bearings, and arc length and sector area. This is common content for SL and HL.
+
+**Is the ambiguous case of the sine rule in IB Maths AI SL?**
+No. The ambiguous case of the sine rule is not included in sections 3.1–3.4. At HL it appears in AHL 3.8.
+
+**How do you find the slant height of a pyramid face?**
+The slant height of a triangular face is not the vertical height. Find it from the right-angled triangle formed by the vertical height and half the base side, for example √(12² + 5²) = 13 m for a 10 m square base with height 12 m.
+
+**What is the difference between the height and the slant height of a cone?**
+The vertical height h is used in the volume V = (1/3)πr²h, while the slant height l is used in the curved surface area πrl. They are linked by l = √(r² + h²).
 
 ## Official syllabus
 

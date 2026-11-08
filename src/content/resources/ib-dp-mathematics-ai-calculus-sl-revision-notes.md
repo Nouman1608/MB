@@ -38,10 +38,12 @@ syllabusTopics:
 description: "Condensed IB DP Maths AI calculus notes for SL and HL: rules, method steps and a quick self-test on derivatives, integrals and optimisation."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These are the short-form notes. For full explanations and longer worked examples, use the [study guide for this unit](/resources/ib-dp-mathematics-ai-calculus-sl/).
@@ -250,6 +252,20 @@ Write down the function you graphed or the integral you evaluated. A bare GDC nu
 - [Study guide](/resources/ib-dp-mathematics-ai-calculus-sl/) and [practice questions](/resources/ib-dp-mathematics-ai-calculus-sl-practice/)
 - [AI syllabus guide](/resources/ib-dp-mathematics-applications-and-interpretation-syllabus-guide/) and [AI exam preparation](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/)
 - Related units: [geometry and trigonometry](/resources/ib-dp-mathematics-ai-geometry-trigonometry/) and [statistics and probability](/resources/ib-dp-mathematics-ai-statistics-probability/)
+
+## Frequently asked questions
+
+**Is the second derivative test in IB Maths AI SL?**
+No. The second derivative test is HL only (AHL 5.10). At SL you classify stationary points using the sign of f′(x) on each side or a GDC graph.
+
+**What is the difference between a local maximum and the greatest value of a function?**
+A local maximum is higher than the points close to it, but it need not be the greatest value on the whole domain. When a domain is given, compare the local maximum with the values at the end points.
+
+**How many strips are there in the trapezoidal rule?**
+The number of strips is one less than the number of x-values, so 6 x-values give 5 strips. The strip width is h = (b − a)/n, and the rule is (h/2)[y₀ + yₙ + 2(y₁ + … + yₙ₋₁)].
+
+**How do you find the equation of a normal to a curve?**
+Find the y-coordinate at x = a from f, then the tangent gradient m = f′(a). The normal passes through the same point with gradient −1/m, so use y − y₁ = (−1/m)(x − x₁).
 
 ## Official syllabus
 

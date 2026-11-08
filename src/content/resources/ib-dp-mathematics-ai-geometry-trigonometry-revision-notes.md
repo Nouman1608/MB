@@ -12,13 +12,15 @@ order: 4
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-mathematics-applications-and-interpretation-geometry-and-trigonometry"
-description: "Condensed revision notes on the Geometry and trigonometry strand of IB Diploma Programme Mathematics: Applications and Interpretation -- real-world spatial problems, vectors, and technology-driven modelling -- with worked reminders and self-test questions."
+description: "Revision notes on the IB DP Maths AI geometry and trigonometry strand: sine and cosine rules, bearings, compound solids and the HL content, with a self-test."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Geometry and trigonometry carries 18 hours at SL and jumps to 46 at HL -- the largest proportional
@@ -189,3 +191,16 @@ Approaches' no-technology Paper 1.
   <figcaption>The scalar product measures the projection of one vector on another; the vector product gives parallelogram area.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How many teaching hours does geometry and trigonometry have in IB Maths AI?**
+The strand carries 18 hours at SL and 46 hours at HL, the largest proportional SL-to-HL increase of the five strands in IB DP Maths AI.
+
+**What geometry and trigonometry content is HL only in IB Maths AI?**
+The HL-only content is radians and circular functions (AHL 3.7–3.8), matrix transformations (AHL 3.9), vectors (AHL 3.10–3.13) and graph theory (AHL 3.14–3.16).
+
+**How do you find the interior angle from two bearings?**
+Find the back bearing at the vertex by adding or subtracting 180° from the bearing you arrived on, then take the difference between the back bearing and the onward bearing. For a bearing of 070° into B and 150° out of B, the back bearing is 250°, so the angle at B is 100°.
+
+**Why does a negative cosine increase the side in the cosine rule?**
+When the included angle is obtuse its cosine is negative, so the −2ab cos C term becomes added rather than subtracted. The side opposite an obtuse angle is therefore longer than it would be for an acute angle.

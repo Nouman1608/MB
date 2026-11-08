@@ -8,13 +8,15 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Analysis and Approaches"]
 syllabusSeries: "First assessment 2021"
 order: 1
-description: "Condensed recall notes on the assessment structure at SL and HL -- papers, weightings, calculator rules and the mathematical exploration -- for IB Diploma Programme Mathematics: Analysis and Approaches."
+description: "How IB DP Mathematics: Analysis and Approaches is assessed at SL and HL: paper weightings, the no-calculator Paper 1, HL Paper 3 and the 20% exploration."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the
@@ -97,6 +99,20 @@ As with every DP mathematics course, command terms signal the depth of response 
   <figcaption>A &quot;show that&quot; question needs every algebraic step written out.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**How much is the mathematical exploration worth in IB Maths AA?**
+The mathematical exploration is internally assessed and worth 20% of the final grade at both SL and HL. It is a written independent investigation into a topic the student chooses.
+
+**Can you use a calculator on IB Maths AA Paper 1?**
+No. Paper 1 is sat without a calculator or any other technology at both SL and HL, and it directly tests algebraic manipulation and proof by hand. Technology is allowed on Paper 2 and on HL Paper 3.
+
+**How long is IB Maths AA HL Paper 3?**
+For the current course, HL Paper 3 lasts 1 hour 15 minutes and is worth 20%, with two extended-response problem-solving questions. The successor course first assessed in 2029 shortens it to 1 hour, but that does not apply to the current course.
+
+**Is Analysis and Approaches harder than Applications and Interpretation?**
+Neither course is the easier option; both are assessed to the same IB standard and carry equal recognition for university admission. The difference is emphasis: AA develops algebra, functions, calculus and proof largely by hand, while AI is built around modelling, statistics and technology on every paper.
 
 ## Official syllabus
 

@@ -26,10 +26,12 @@ syllabusTopics:
 description: "Condensed IB Maths AI HL revision notes on survey design, χ² df, SSres and R², z, t, binomial and Poisson tests and Markov chains, with a self-test."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and longer worked examples, use the [study guide for this unit](/resources/ib-dp-mathematics-ai-hl-data-regression-tests-markov/).
@@ -220,6 +222,20 @@ When you are ready, test yourself with the [practice questions](/resources/ib-dp
 - Finding P(Type II) with the H₀ parameter instead of the stated true value.
 - Writing T with rows summing to 1, or finding s₀T instead of Ts₀.
 - Giving a decimal steady state when the question asks for an exact answer.
+
+## Frequently asked questions
+
+**How many degrees of freedom are there in a χ² goodness of fit test with estimated parameters?**
+Degrees of freedom = number of categories after merging − 1 − number of parameters estimated from the data. Estimating a Poisson mean costs 1, and estimating a normal μ and σ costs 2.
+
+**What is the difference between reliability and validity?**
+Reliability means the method gives consistent results when repeated, while validity means it measures what it claims to measure. A scale that always reads 2 kg heavy is reliable but not valid.
+
+**What is the difference between a Type I and a Type II error?**
+A Type I error is rejecting H₀ when H₀ is true. A Type II error is accepting H₀ when H₀ is false.
+
+**Is R² the same as r²?**
+Only for a linear model. R² is the proportion of the variability in y accounted for by any fitted model and has no sign, while Pearson's r has a sign and applies to linear relationships.
 
 ## Official syllabus
 

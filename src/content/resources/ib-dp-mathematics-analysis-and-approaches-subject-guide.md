@@ -7,13 +7,15 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Analysis and Approaches"]
 syllabusSeries: "First assessment 2021"
-description: "An overview of IB Diploma Programme Mathematics: Analysis and Approaches -- rigorous mathematical argument and abstract problem solving, and how it differs from Applications and Interpretation."
+description: "An overview of IB DP Mathematics: Analysis and Approaches: its focus on rigorous argument, course aims, SL and HL assessment and the five content strands."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Individual students have different needs, aspirations, interests and
@@ -144,6 +146,20 @@ and constructing an argument by hand needs to be genuinely automatic
 by the time of the exam, since there is no calculator available to
 check or complete a calculation partway through a question, unlike
 Paper 2 or Paper 3, where technology is permitted throughout.
+
+## Frequently asked questions
+
+**What is IB Mathematics: Analysis and Approaches?**
+It is one of the two IB Diploma Programme mathematics subjects, offered at SL and HL. It develops mathematical concepts in a rigorous way, with a strong emphasis on constructing, communicating and justifying correct mathematical arguments to solve abstract and contextual problems.
+
+**How much content do IB Maths AA and AI have in common?**
+The two courses share 60 hours of common SL content and the same assessment objectives. They distribute their remaining hours differently across the same five strand names, with AA leaning towards proof-oriented technique and AI towards modelling and technology.
+
+**What are the five content strands of IB Maths AA?**
+The strands are number and algebra, functions, geometry and trigonometry, statistics and probability, and calculus. Calculus carries the most teaching hours at both SL and HL.
+
+**Is the exploration a good reason to choose AA over AI?**
+No. The internally assessed mathematical exploration is worth 20% and is structured identically in both courses, so the choice is better made on which style of mathematical work suits you.
 
 ## Source
 

@@ -26,10 +26,12 @@ syllabusTopics:
 description: "IB Maths AI HL study guide to linear combinations of random variables, the central limit theorem, confidence intervals and the Poisson distribution."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches the HL random variables unit of IB Diploma Programme Mathematics: Applications and Interpretation. It is aligned to the IB *Mathematics: applications and interpretation guide*, first assessment 2021, syllabus sections 4.14–4.17, which are all AHL content (HL only). It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 sessions.
@@ -301,6 +303,20 @@ Always give a reason from the context, not just the name of the model.
 ## Where next
 
 Condense this page with the [revision notes](/resources/ib-dp-mathematics-ai-hl-random-variables-poisson-confidence-revision-notes/), then test yourself with the [practice questions](/resources/ib-dp-mathematics-ai-hl-random-variables-poisson-confidence-practice/). For the full course layout see the [AI syllabus guide](/resources/ib-dp-mathematics-applications-and-interpretation-syllabus-guide/), and for paper-by-paper advice see [AI exam preparation](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/).
+
+## Frequently asked questions
+
+**What is an unbiased estimate of the population variance?**
+The unbiased estimate of σ² is s²ₙ₋₁, found by dividing by n − 1 rather than n, so s²ₙ₋₁ = (n/(n − 1))s²ₙ. On a GDC, the value labelled Sx is sₙ₋₁, which you square.
+
+**What is the distribution of the sample mean from a normal population?**
+If X ~ N(μ, σ²), the mean of a random sample of size n satisfies X̄ ~ N(μ, σ²/n) exactly, for any n. Its standard deviation is σ/√n, so larger samples give means closer to μ.
+
+**Do you need the variance formula for a discrete random variable in IB Maths AI HL?**
+No. The IB guide says the variance formula for a discrete variable is not required in examinations, so you will be given Var(X) or find it with the GDC.
+
+**What should you write down when you use a GDC for probabilities in this unit?**
+Write down the model, its parameters and the calculator command you used, for example normalcdf with the lower bound, upper bound, mean and standard deviation. You rarely calculate these probabilities by hand, but the written model shows your method.
 
 ## Official syllabus
 

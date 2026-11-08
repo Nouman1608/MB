@@ -20,10 +20,12 @@ syllabusTopics:
 description: "Study guide to IB DP Maths AI HL matrices: algebra, inverses, solving Ax = b, coding messages, eigenvalues, diagonalization and powers."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches the matrices unit of IB Diploma Programme Mathematics: Applications and Interpretation from scratch. It is aligned to the IB *Mathematics: applications and interpretation guide*, first assessment 2021, syllabus sections 1.14 and 1.15, and all of it is HL only (AHL). It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 HL sessions.
@@ -323,6 +325,20 @@ So Aville has 6000 − 3000(0.7)ⁿ people and Bton has 3000 + 3000(0.7)ⁿ. Aft
 Related AI resources: the [geometry and trigonometry study guide](/resources/ib-dp-mathematics-ai-geometry-trigonometry/), the [statistics and probability study guide](/resources/ib-dp-mathematics-ai-statistics-probability/), the [AI syllabus guide](/resources/ib-dp-mathematics-applications-and-interpretation-syllabus-guide/), the [AI subject guide](/resources/ib-dp-mathematics-applications-and-interpretation-subject-guide/) and [AI exam preparation](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/).
 
 For this unit, move on to the [revision notes](/resources/ib-dp-mathematics-ai-hl-matrices-eigenvalues-revision-notes/) and then the [practice questions](/resources/ib-dp-mathematics-ai-hl-matrices-eigenvalues-practice/).
+
+## Frequently asked questions
+
+**When can two matrices be multiplied?**
+AB is defined only when the number of columns of A equals the number of rows of B. If A is m × n and B is n × p, then AB has order m × p.
+
+**What does it mean if a matrix is singular?**
+A singular matrix has determinant 0, so it has no inverse. The IB guide says the matrix A in Ax = b will be invertible in examinations.
+
+**Is matrix multiplication commutative?**
+No. Matrix multiplication is associative and distributive, but in general AB ≠ BA even when both products exist, so the order matters.
+
+**What are eigenvalues used for in IB Maths AI HL applications?**
+Diagonalizing a 2 × 2 matrix as M = PDP⁻¹ gives a formula for Mⁿ, which models repeated changes such as populations moving between towns each year. When one eigenvalue is 1 and the other has modulus less than 1, the model settles to a long-term state.
 
 ## Official syllabus
 

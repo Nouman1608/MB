@@ -29,10 +29,12 @@ syllabusTopics:
 description: "12 original IB Maths AI HL questions on logs, rational exponents, infinite series and complex numbers, with mark-by-mark answers and examiner insights."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -185,6 +187,20 @@ Learn the methods first in the [study guide](/resources/ib-dp-mathematics-ai-hl-
 - [Exam preparation for IB Maths AI](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**What does "exact value" mean in an IB Maths AI question?**
+An exact value is given as a fraction, surd or similar form rather than a rounded decimal, for example 1/27 instead of 0.0370. A decimal loses the accuracy mark even when the working is correct.
+
+**Why do you need to show the single logarithm before the value in a "hence" question?**
+"Hence" means you must use the result you have just found, so the combined logarithm has to appear before you evaluate it. A GDC value on its own does not earn the method marks.
+
+**Should complex number arguments be in degrees or radians?**
+In this practice set, arguments are given in radians with −π < θ ≤ π, the convention used throughout the unit. Set your GDC to radians before finding an argument.
+
+**Are these IB Maths AI HL questions on logs and complex numbers from past papers?**
+No. They are original questions aligned to sections 1.9–1.13 of the IB Maths AI guide and do not replicate the exam's structure or mark tariffs. Use them alongside official past papers.
 
 ## Official syllabus
 

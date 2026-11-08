@@ -26,10 +26,12 @@ syllabusTopics:
 description: "Condensed IB DP Maths AI revision notes on 3D solids, sine and cosine rules, bearings and sectors (sections 3.1-3.4), with a checked self-test."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and worked examples, read the [study guide](/resources/ib-dp-mathematics-ai-sl-3d-geometry-trigonometry/) first.
@@ -218,6 +220,20 @@ The guide lists technology as required on every AI paper. Use it, but show the s
 - Giving a bearing as "77°" instead of three figures, 077°, or measuring it anticlockwise.
 - Leaving out the two radii when a sector perimeter is asked for.
 - Answering in radians because the calculator was in radian mode.
+
+## Frequently asked questions
+
+**What are the limits on 3D trigonometry in IB Maths AI SL exams?**
+The IB guide says SL examinations set only right-angled trigonometry on 3D shapes, and the ambiguous case of the sine rule is not included. Radians are not required at SL either.
+
+**How do you calculate arc length and sector area in degrees?**
+Arc length = (θ/360) × 2πr and sector area = (θ/360) × πr², with θ in degrees. These are the forms used at SL in IB Maths AI.
+
+**Are the formulas given in the IB Maths AI exam?**
+The IB guide states that all formulae required for the course are in the mathematics formula booklet. You still need to choose the right one and set it up correctly.
+
+**Why is the angle of depression equal to the angle of elevation?**
+The horizontal lines at the two points are parallel, so the angle of depression from the higher point equals the angle of elevation from the lower point (alternate angles).
 
 ## Official syllabus
 

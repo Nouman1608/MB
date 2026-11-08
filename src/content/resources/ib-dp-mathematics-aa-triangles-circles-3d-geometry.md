@@ -26,10 +26,12 @@ syllabusTopics:
 description: "Study guide for IB DP Maths AA sections 3.1–3.4: 3D distance, solids, sine and cosine rules, bearings, radians, arcs and sectors, with worked examples."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches the 3D geometry, triangle trigonometry and radian measure unit of IB Diploma Programme Mathematics: Analysis and Approaches from scratch. It is aligned to the IB *Mathematics: analysis and approaches guide*, first assessment 2021, and covers syllabus sections 3.1–3.4. All of it is SL content, so it is examined at both SL and HL. It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 sessions.
@@ -331,6 +333,23 @@ With a GDC, check the angle mode first. Store unrounded intermediate values and 
 ## Where to go next
 
 Condense this guide with the [revision notes](/resources/ib-dp-mathematics-aa-triangles-circles-3d-geometry-revision-notes/), then try the [practice questions](/resources/ib-dp-mathematics-aa-triangles-circles-3d-geometry-practice/). Inverse functions from the [functions study guide](/resources/ib-dp-mathematics-aa-functions/) link to finding angles. Radians are used throughout the [calculus study guide](/resources/ib-dp-mathematics-aa-calculus/). For papers and timing, see the [AA exam preparation guide](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/) and the [AA syllabus guide](/resources/ib-dp-mathematics-analysis-and-approaches-syllabus-guide/).
+
+## Frequently asked questions
+
+**What topics are in IB Maths AA syllabus sections 3.1 to 3.4?**
+Sections 3.1–3.4 cover 3D distance and midpoint, volumes and surface areas of pyramids, cones, spheres and hemispheres, angles in 3D shapes, right-angled and non-right-angled triangle trigonometry, bearings, elevation and depression, and radian measure with arcs and sectors. All of it is SL content examined at both SL and HL.
+
+**When do you use the sine rule instead of the cosine rule?**
+Use the sine rule when you know a side and its opposite angle plus one more side or angle. Use the cosine rule when you know two sides and the included angle, or all three sides.
+
+**How do you find the angle between a line and a plane?**
+Drop a perpendicular from a point on the line to the plane and join its foot to the point where the line meets the plane. The required angle is between the line and this projection, found in the right-angled triangle that results.
+
+**How do you find the surface area of a combined solid?**
+Add the areas of only the faces you can touch from outside. A face where two solids are glued together, such as the circle where a cone meets a hemisphere, is inside the solid and is not counted, although the volumes are simply added.
+
+**Is the ambiguous case of the sine rule in sections 3.1 to 3.4?**
+No. Section 3.2 does not include the ambiguous case, which appears in section 3.5. In this unit, an angle found with the sine rule is unique if it is opposite the shorter of the two known sides, because it must then be acute.
 
 ## Official syllabus
 

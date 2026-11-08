@@ -26,10 +26,12 @@ syllabusTopics:
 description: "11 original IB DP Maths AI questions on 3D solids, triangle trigonometry, bearings and sectors for SL and HL, with mark-by-mark worked answers."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -173,6 +175,20 @@ Learn the methods in the [study guide](/resources/ib-dp-mathematics-ai-sl-3d-geo
 - [Printable syllabus checklist](/checklists/ib/ib-dp/mathematics-applications-and-interpretation/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Should IB Maths AI SL geometry questions be answered in degrees or radians?**
+Work in degrees, because radians are not required at SL in IB Maths AI and are HL only (AHL 3.7). Leaving your calculator in radian mode is a common way to lose marks.
+
+**How do you find the angle between a pyramid's sloping edge and its base?**
+Use the right-angled triangle formed by the vertical height and half the diagonal of the base. Using the full diagonal instead of half of it is a frequent mistake.
+
+**What is the difference between the perimeter of a sector and a segment?**
+A sector's perimeter is the arc plus the two radii. A segment's perimeter is the arc plus the chord, so the radii are not included.
+
+**Why does showing the formula matter if you use a GDC?**
+If your GDC answer is wrong and you have written no formula or substitution, you earn no method marks. Writing the set-up first protects those marks.
 
 ## Official syllabus
 

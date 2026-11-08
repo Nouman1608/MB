@@ -35,10 +35,12 @@ syllabusTopics:
 description: "Study guide for IB Maths AI HL sections 3.7-3.13: radians, the unit circle, matrix transformations, vectors, kinematics, scalar and vector products."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches the HL geometry unit on radians, the unit circle, matrix transformations and vectors in IB Diploma Programme Mathematics: Applications and Interpretation. It is aligned to the IB *Mathematics: applications and interpretation guide*, first assessment 2021, syllabus sections 3.7–3.13, and all of it is HL only (AHL). It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 HL sessions.
@@ -342,6 +344,20 @@ along b: 4/√21 = 0.873;  perpendicular: √278/√21 = 3.64
 ## Next steps
 
 Condense this into the [revision notes](/resources/ib-dp-mathematics-ai-hl-trigonometry-matrix-transformations-vectors-revision-notes/), then try the [practice questions](/resources/ib-dp-mathematics-ai-hl-trigonometry-matrix-transformations-vectors-practice/). The [syllabus guide](/resources/ib-dp-mathematics-applications-and-interpretation-syllabus-guide/), [subject guide](/resources/ib-dp-mathematics-applications-and-interpretation-subject-guide/) and [exam preparation guide](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/) cover the whole course.
+
+## Frequently asked questions
+
+**Are radians and matrix transformations in IB Maths AI SL?**
+No. Radians, the unit circle, matrix transformations and vectors, sections 3.7–3.13 of the IB Maths AI guide, are all HL only.
+
+**Are exact trigonometric values assessed in IB Maths AI HL?**
+The IB guide says exact values of sin, cos and tan are not assessed. Knowing the sign of each function in each quadrant still helps you choose the right solution.
+
+**How do you check a transformation matrix?**
+Find where the matrix sends (1, 0) and (0, 1). These images are the first and second columns of the matrix.
+
+**How do you solve a trigonometric equation that also contains x?**
+Graph each side on your GDC over exactly the interval given, in the correct angle mode, and read off every intersection. Sketch the graphs or write the equations you graphed so the method is visible.
 
 ## Official syllabus
 
