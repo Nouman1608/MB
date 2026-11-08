@@ -20,10 +20,12 @@ syllabusTopics:
 description: "Condensed IB DP Language B individual oral notes: stimulus facts, a five-move presentation plan, conversation strategies and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and worked examples, use the
@@ -222,6 +224,20 @@ see it working."*
   [Sharing the planet](/resources/ib-dp-language-b-sharing-the-planet-revision-notes/)
 - [Assessment revision notes](/resources/ib-dp-language-b-assessment-revision-notes/) and
   [exam preparation guide](/resources/ib-dp-language-b-exam-preparation/)
+
+## Frequently asked questions
+
+**How much is the IB Language B individual oral worth?**
+The individual oral is worth 25% of the final IB DP Language B grade and is marked out of 30. It is the course's only internally assessed component.
+
+**What is the five-move presentation plan?**
+The plan moves from a short description through interpretation and connection to the theme and culture to a close. Description is the shortest move; interpretation and connection take most of the time.
+
+**What is the difference between a theme, a topic and a possible question?**
+The five themes are prescribed, the topics under each are optional and recommended, and the possible questions are prompts you can use as lenses on a stimulus.
+
+**Which oral details must you get from your teacher?**
+The subject brief does not give the timings, the stages, the rules on notes or the assessment criteria, so confirm these with your teacher.
 
 ## Official syllabus
 

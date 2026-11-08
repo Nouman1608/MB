@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Condensed revision notes on Human ingenuity for IB DP Language B: theme facts, vocabulary fields, key structures, method steps and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and worked examples, read the [Human ingenuity study guide](/resources/ib-dp-language-b-human-ingenuity/) first. These notes are for the final weeks.
@@ -171,6 +173,20 @@ Describe, interpret, connect (theme plus a target-language culture), judge.
 - Vague vocabulary ("thing", "good") where a specific headword from the fields above was available.
 - In the SL oral, spending all the time describing the image and never reaching a connection to a target-language culture.
 - At HL, having no theme vocabulary ready for the literary works you studied.
+
+## Frequently asked questions
+
+**What are the recommended topics for Human ingenuity?**
+The optional recommended topics for Human ingenuity in IB DP Language B are entertainment, artistic expressions, communication and media, technology, and scientific innovation.
+
+**What are the possible questions for Human ingenuity?**
+The brief lists "What can we learn about a culture through its artistic expression?" and "How do the media change the way we relate to each other?"
+
+**What is the difference between an invention and an innovation?**
+An invention is a new thing. An innovation is a new idea or method put into use, often improving something that already exists.
+
+**How do you analyse an artwork in Language B?**
+Describe exactly what is there, infer what it shows about its makers' values, history or beliefs, mark guesses as guesses, and answer the question with one short quotation or detail. The inference step is most often missing.
 
 ## Official syllabus
 

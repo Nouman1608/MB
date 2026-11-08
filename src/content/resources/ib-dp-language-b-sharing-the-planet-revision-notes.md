@@ -12,13 +12,15 @@ order: 4
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-b-sharing-the-planet"
-description: "Condensed revision notes on IB Diploma Programme Language B's Sharing the planet theme -- environment, human rights, peace and conflict, equality, globalization, ethics, urban and rural environments -- with vocabulary-building and comprehension-practice guidance."
+description: "Revision notes on Sharing the planet in IB DP Language B: its seven recommended topics, vocabulary to build and how to prepare for unseen Paper 2 texts."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Sharing the planet is one of the five compulsory themes set out in the
@@ -148,6 +150,17 @@ documentary-style comprehension material. 4. Any text type from one of the sylla
 categories (personal, professional, or mass media) -- such as a blog post, an article, a formal
 letter, or a report, arguing or informing on an environmental, social
 or global issue.
+
+## Frequently asked questions
+
+**What are the recommended topics for Sharing the planet?**
+The seven recommended topics for Sharing the planet in IB DP Language B are the environment, human rights, peace and conflict, equality, globalization, ethics, and urban and rural environments.
+
+**What language does Sharing the planet need most?**
+Because the theme is built around issues and debate, opinion, cause-and-effect and comparison structures matter more than for a personal theme such as Identities.
+
+**How should you organise Sharing the planet vocabulary?**
+Build a small glossary for each recommended topic rather than one alphabetical list, because an unseen extract usually draws on vocabulary from one topic, such as change over time for urban and rural environments.
 
 ## Official syllabus
 

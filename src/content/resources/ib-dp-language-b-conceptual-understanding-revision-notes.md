@@ -20,10 +20,12 @@ syllabusTopics:
 description: "Revision notes for IB DP Language B on context, audience, purpose, meaning and variation: register tables, method steps and a checked self-test."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and worked examples, read the [conceptual understanding study guide](/resources/ib-dp-language-b-conceptual-understanding/) first. These notes are for the final weeks.
@@ -168,6 +170,20 @@ These pairings are typical, not fixed: always read the task or text for its own 
 - Presenting an implied meaning as a stated fact, without "suggests" or "implies".
 - Planning content before identifying context, audience and purpose, then writing in the wrong text type.
 - Translating English idioms word for word, which can break both meaning and register in the target language.
+
+## Frequently asked questions
+
+**What is the difference between register and tone?**
+Register is the level of formality of a text; tone is the writer's attitude, such as urgent, reassuring or ironic. A formal letter can still have an angry tone.
+
+**How should you decode a Language B Paper 1 writing task?**
+Underline the context, audience and purpose in the task, confirm the text type and its conventions, set the register from the audience and the tone from the purpose, and only then plan content.
+
+**What are signals of formal register in English?**
+Signals include no contractions, passive or impersonal forms, formal openings and closings, and precise official vocabulary. Your target language may also use a formal "you" or polite verb forms.
+
+**What is the stimulus for the Language B individual oral?**
+At SL the stimulus is a visual image clearly relevant to one or more of the themes; at HL it is an excerpt from one of the two literary works studied.
 
 ## Official syllabus
 

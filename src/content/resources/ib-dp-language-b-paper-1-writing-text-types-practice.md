@@ -24,10 +24,12 @@ syllabusTopics:
 description: "Original IB DP Language B Paper 1 practice: three model texts to analyse for register and conventions, task decoding and a planned writing task."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -254,6 +256,20 @@ benefits with no counterargument reads as description.
 - Tick off the [printable checklist](/checklists/ib/ib-dp/language-b/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**How do you show a text type's conventions in IB Language B Paper 1?**
+Keep the conventions visible from the opening to the closing, not only in the heading. A common mistake in IB DP Language B is a strong start whose conventions vanish by the end.
+
+**Why do Paper 1 analysis answers lose marks on register?**
+Circular explanations such as "it is informal because it is informal" earn little. Point to the specific words, forms of address or structures that create the register.
+
+**How do you choose the right text type for a writing task?**
+Choose a text type that fits the reader and purpose, not just the topic. Identify your role, the reader, the purpose and every content point the task asks for before planning.
+
+**What extra do HL writing tasks need?**
+At HL, weigh two sides, evaluate or answer an objection rather than only describing or reporting a plan.
 
 ## Official syllabus
 

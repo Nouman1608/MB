@@ -12,13 +12,15 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-b-identities"
-description: "Condensed revision notes on the compulsory Identities theme of IB Diploma Programme Language B -- vocabulary, discussion angles and receptive-skills preparation for one of the five prescribed themes."
+description: "Revision notes on the Identities theme of IB DP Language B: recommended topics, vocabulary, the oral link and preparing for unseen Paper 2 texts."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 The [full syllabus guide](/resources/ib-dp-language-b-syllabus-guide/) confirms all five prescribed
@@ -140,3 +142,14 @@ values, subcultures, language and identity. 4. Because Paper 2's receptive skill
 reading) are worth 50% combined -- as much as the productive writing task and internal oral combined --
 so comprehension vocabulary carries equal weight to production. 5. The theme's broader guiding
 question, not just isolated facts extracted from the passage.
+
+## Frequently asked questions
+
+**Can Identities appear in Language B Paper 2?**
+Yes. Paper 2's listening and reading sections in IB DP Language B use unseen material that can come from any of the five prescribed themes, so an Identities text is as likely as any other.
+
+**Why does comprehension vocabulary matter for Identities?**
+Paper 2's listening and reading are worth 50% combined, as much as Paper 1 and the oral together, so you need vocabulary for understanding texts on personality, values and belonging, not only for talking about them.
+
+**How should HL students prepare Identities for the oral?**
+Check early whether either of your two studied literary works deals with identity, because the HL oral stimulus is an excerpt from one of those works.

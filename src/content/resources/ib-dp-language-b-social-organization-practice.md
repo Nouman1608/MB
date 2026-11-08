@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Original IB DP Language B practice on Social organization: three passages, reading and listening questions, a formal writing task and an oral plan."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -267,6 +269,20 @@ the photograph is not discussion.
 - [Printable Language B checklist](/checklists/ib/ib-dp/language-b/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**What is the Social organization theme in IB Language B?**
+Social organization is the fourth of the five prescribed themes of IB DP Language B. It explores how groups of people organize themselves, or are organized, through common systems or interests.
+
+**Why do answers on rule texts lose marks?**
+Common reasons are treating "don't have to" as a ban or "must not" as optional, and dropping a limiting word such as "at least", "only" or "unless" from a short answer.
+
+**What register should you use when writing to an institution?**
+Use a formal register throughout, with the formal "you", set opening and closing formulas and polite requests. Mixing formal and informal register in a letter to an institution is a common mistake.
+
+**How should you handle quoted opinions in a reading text?**
+Match each view to the person who holds it. Crediting the writer with a view that belongs to someone they quote is a frequent error.
 
 ## Official syllabus
 

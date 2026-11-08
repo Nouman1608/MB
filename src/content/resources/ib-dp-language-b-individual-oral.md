@@ -20,10 +20,12 @@ syllabusTopics:
 description: "Study guide to the IB DP Language B individual oral: SL image and HL extract stimuli, planning a spoken presentation and handling the conversation."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches you how to prepare the **individual oral**, the internal assessment of IB
@@ -244,6 +246,20 @@ community event that changed someone).
   [exam preparation guide](/resources/ib-dp-language-b-exam-preparation/),
   [syllabus guide](/resources/ib-dp-language-b-syllabus-guide/) and
   [subject overview](/resources/ib-dp-language-b-subject-guide/)
+
+## Frequently asked questions
+
+**What is the stimulus for the IB Language B individual oral?**
+At SL the stimulus is a visual image clearly relevant to one or more of the course themes. At HL it is an excerpt from one of the two literary works studied, which were originally written in the target language.
+
+**Can you use a script for the Language B oral?**
+Plan in key words rather than a script. A read-aloud script sounds flat and falls apart if you lose your place; if your teacher allows notes, use headings and a few key words.
+
+**What register should you use in the oral?**
+Use a polite, clear but natural spoken register: full sentences, no slang, and no written-essay phrasing read aloud, because the audience is your teacher in a formal assessment.
+
+**How can you buy thinking time in the oral?**
+Use short target-language fillers such as "That's a good question" or "Let me think" once, then answer. They are better than silence or a filler from your own language.
 
 ## Official syllabus
 

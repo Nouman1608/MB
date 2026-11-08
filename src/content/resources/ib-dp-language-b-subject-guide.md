@@ -7,13 +7,15 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language B"]
 syllabusSeries: "First assessment 2020"
-description: "An overview of IB Diploma Programme Language B -- a language acquisition course for students with some prior experience of the target language, built around five prescribed themes."
+description: "Overview of IB DP Language B, a course for students with some prior experience of the target language: five prescribed themes, aims, SL and HL and assessment."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Language acquisition in the IB Diploma Programme consists of two
@@ -128,6 +130,20 @@ literary and textual analysis at a more sophisticated level.
 - [Full syllabus guide](/resources/ib-dp-language-b-syllabus-guide/) — the five prescribed themes in detail, with their guiding principles
 - [Assessment revision notes](/resources/ib-dp-language-b-assessment-revision-notes/) — condensed recall of the weightings and oral criteria above
 - [Identities revision notes](/resources/ib-dp-language-b-identities-revision-notes/) — one of the five prescribed themes covered in depth
+
+## Frequently asked questions
+
+**Who is IB Language B for?**
+IB DP Language B is a language acquisition course for students who already have some previous experience of the target language. Students with no prior background usually take Language ab initio instead.
+
+**What are the five prescribed themes in IB Language B?**
+The five themes are identities, experiences, human ingenuity, social organization and sharing the planet. They are studied at both SL and HL.
+
+**What is the difference between Language B SL and HL?**
+The weightings are the same at both levels; the difference is the level of competency expected in receptive, productive and interactive skills. HL students also study two literary works originally written in the target language.
+
+**Who conducts the Language B individual oral?**
+The individual oral, worth 25% of the final grade, is conducted and recorded by the student's own teacher.
 
 ## Source
 

@@ -24,10 +24,12 @@ syllabusTopics:
 description: "Study guide to IB DP Language B Paper 1 writing: choosing a task, matching register to audience and purpose, and the conventions of each text type."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches the writing skills behind **Paper 1** of IB Diploma Programme Language B:
@@ -256,6 +258,20 @@ control costs more than it earns.
   [subject overview](/resources/ib-dp-language-b-subject-guide/),
   [exam preparation](/resources/ib-dp-language-b-exam-preparation/) and
   [assessment revision notes](/resources/ib-dp-language-b-assessment-revision-notes/)
+
+## Frequently asked questions
+
+**How many writing tasks are there in IB Language B Paper 1?**
+You complete one writing task from a choice of three. Paper 1 of IB DP Language B is worth 25% of the final grade and is marked out of 30.
+
+**How do you choose between the three Paper 1 tasks?**
+Read all three to the end, underline your role, the reader, the purpose, the text type and the content points, then choose the task whose conventions and topic vocabulary you control, and commit to it.
+
+**What is register drift?**
+Register drift is when a text changes formality partway through, such as a formal letter that ends "see you soon" or switches from the polite to the familiar "you". Once you choose a form of address, keep it throughout.
+
+**Should you use complex language you are unsure of?**
+Use complex structures you can control, such as conditionals, subordinate clauses and concessions. Complexity you cannot control costs more than it earns.
 
 ## Official syllabus
 

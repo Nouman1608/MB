@@ -20,10 +20,12 @@ syllabusTopics:
 description: "Original IB DP Language B individual oral practice: an SL image, an HL extract and a sample transcript, with plans and model answers."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -247,6 +249,20 @@ under questioning.
 - [Printable Language B checklist](/checklists/ib/ib-dp/language-b/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**How do you start an IB Language B oral presentation on an image?**
+Give one or two sentences of description, then move straight to an idea: what the image suggests and which prescribed theme it is clearly relevant to. Listing items in the image without a claim is a common weakness.
+
+**What should you do if you forget a word in the oral?**
+Paraphrase in the target language, for example "the thing you use to..." or "a kind of...", rather than switching to your own language, which breaks the interaction.
+
+**How do you avoid one-word answers in the conversation?**
+Extend every answer with a reason and an example. A one-word reply, or "I don't know" with nothing after it, closes the exchange.
+
+**How should HL students discuss a literary extract in the oral?**
+In IB DP Language B, analyse how the extract is written, with short quotations and their effects, and link it to the whole work and a theme. Retelling the plot is a common way to lose marks.
 
 ## Official syllabus
 
