@@ -16,10 +16,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "fundamentals-of-data-structures"
     subtopic: "single-and-multi-dimensional-arrays-7517"
-description: "Original exam-style practice questions with full worked answers on the definition of a data structure and single- and multi-dimensional arrays for AQA A-Level Computer Science (7517), 4.2.1.1 and 4.2.1.2."
+description: "Practice questions with worked answers for AQA A-Level Computer Science 7517 sections 4.2.1.1 and 4.2.1.2: defining data structures and 1-D and 2-D arrays."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
@@ -122,3 +124,17 @@ Outer loop over rows (0 to 4, since grid[5][4] has 5 rows) [1]; inner loop over 
 ## Approaching "justify the structure" questions
 
 Whenever a question describes a real scenario and asks which data structure to use, the mark scheme rewards three things in sequence: naming the structure (e.g. a 2-D array), stating how many dimensions it needs and what each index represents, and explaining how that structure supports the way the data will be accessed or processed (for example, looping through one row, one column, or the whole structure). Simply naming "an array" without this reasoning, even if it is the correct structure, typically earns only partial credit.
+
+## Frequently asked questions
+
+**What is the most common mistake on AQA array questions?**
+Confusing an array's dimensionality, which is how many indices locate one element, with its size, which is how many elements it holds. For example, temperatures[7][3] is two-dimensional and holds 21 values.
+
+**What does or equivalent mean for arrays in the AQA 7517 specification?**
+It means different programming languages implement the same concept differently, such as Python lists playing the role of arrays. The specification assesses the underlying concept rather than one language's syntax.
+
+**How are justify the structure questions marked?**
+Name the structure, state how many dimensions it needs and what each index represents, and explain how it supports the way the data will be accessed. Naming an array without this reasoning typically earns only partial credit.
+
+**What goes wrong if you loop over an array with the wrong index origin?**
+Looping a 0-based array as though it were 1-based either misses the first element or tries to access an element one past the end, causing an error.

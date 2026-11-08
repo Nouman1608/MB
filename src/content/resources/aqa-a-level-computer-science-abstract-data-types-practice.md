@@ -166,3 +166,17 @@ Correct vertices on both axes [1]; correct weights [1]; symmetric because the gr
 - Drawing a non-symmetric adjacency matrix for an undirected graph.
 - Rehashing correctly but not explaining how a key is found again.
 - Rounding the cosine too early in vector angle questions.
+
+## Frequently asked questions
+
+**Which parts of the AQA 7517 specification do these questions cover?**
+These questions cover sections 4.2.1.3 to 4.2.8 of AQA A-Level Computer Science 7517, including files, queues, stacks, graphs, trees, hash tables, dictionaries and vectors. Arrays are practised separately.
+
+**What is a common mistake in circular queue questions?**
+Forgetting to wrap the rear pointer round with MOD when it reaches the end of the array.
+
+**When should a graph use an adjacency list rather than an adjacency matrix?**
+An adjacency list suits a sparse graph with few edges per vertex, because a matrix for a large sparse graph would be mostly empty and waste memory.
+
+**What is the difference between pop and peek on a stack?**
+Pop removes and returns the top item, while peek returns the top item without removing it. Treating peek as removing the item is a common error.

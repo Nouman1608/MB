@@ -151,3 +151,17 @@ An algorithm should output the highest of five marks but starts with `Highest â†
 6. After pass 2 of a bubble sort on 14, 9, 21, 3, 17, what is the list? *9, 3, 14, 17, 21.*
 7. Why does bubble sort need a temporary variable? *To hold one value during the swap so it is not overwritten.*
 8. Why must the average be calculated after the loop in a totalling algorithm? *The total is only complete once every value has been added; calculating inside the loop would give a wrong value for most iterations.*
+
+## Frequently asked questions
+
+**What is the difference between validation and verification in IGCSE Computer Science?**
+Validation is an automatic check that data is reasonable and allowed, such as a range check, but it cannot prove the data is correct. Verification checks that data was entered or copied accurately, for example by double entry.
+
+**What are abstraction, decomposition and pattern recognition?**
+Abstraction keeps only the details that matter, decomposition splits a problem into smaller sub-problems, and pattern recognition spots similarities so solutions can be reused. In a scenario question, apply the technique to the scenario to earn full marks.
+
+**What flowchart symbols are used in Cambridge IGCSE 0478?**
+A rounded terminator marks start and end, a parallelogram shows input or output, a rectangle shows a process, and a diamond shows a decision with labelled yes and no exits.
+
+**Why does a bubble sort need a temporary variable?**
+The temporary variable holds one value during the swap. Without it, one of the values would be overwritten and lost.

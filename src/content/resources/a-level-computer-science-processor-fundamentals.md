@@ -22,10 +22,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "processor-fundamentals"
     subtopic: "bit-manipulation"
-description: "CPU architecture, assembly language, and bit manipulation for Cambridge AS & A Level Computer Science 9618, 2027-2029 series -- focused on the fetch-execute cycle, tracing assembly programs and addressing modes, and bit masking; see the note below on the parts of Topic 4 this guide does not go into."
+description: "Guide to Topic 4 of Cambridge AS Computer Science 9618: the fetch-execute cycle and its registers, tracing assembly code, addressing modes and bit masking."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
@@ -144,6 +146,20 @@ trace with several different masks, on paper, until the pattern is
 automatic is far more reliable exam preparation than memorising the
 truth tables for AND, OR, XOR and NOT in isolation from how they are
 actually applied.
+
+## Frequently asked questions
+
+**What registers are used in the fetch-execute cycle?**
+The program counter, memory address register, memory data register, current instruction register and accumulator, plus the index register and status register, connected by the address, data and control buses.
+
+**How do you clear specific bits in a byte?**
+AND the byte with a mask that has 0s in the positions to clear and 1s elsewhere. For example, 10110110 AND 00111111 gives 00110110, clearing the two most significant bits.
+
+**Is Processor Fundamentals AS or A Level content in Cambridge 9618?**
+Processor Fundamentals is Topic 4, part of the AS content in sections 1 to 12. Its ideas are extended at full A Level in Topic 15, Hardware and Virtual Machines.
+
+**Why do students lose marks on assembly language tracing?**
+A single mis-tracked register value early in a trace makes every following line wrong, so trace each instruction in order and record every change.
 
 ## Official syllabus
 

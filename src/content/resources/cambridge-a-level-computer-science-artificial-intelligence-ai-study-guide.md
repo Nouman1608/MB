@@ -112,3 +112,17 @@ For a Dijkstra trace, lay out a table with a column for each node and cross out 
 6. What is back-propagation used for? *Passing the output error backwards to adjust the weights so the network's error reduces.*
 7. In Worked example 1, what is the shortest distance from A to E and by which route? *10, via A, C, B, D, E.*
 8. Give one ethical concern about machine learning. *Bias in the training data can lead to unfair decisions; or unclear responsibility for automated decisions.*
+
+## Frequently asked questions
+
+**What is the difference between Dijkstra's algorithm and A*?**
+Dijkstra's algorithm explores outwards using only the distance so far. A* adds a heuristic estimate of the remaining cost, using f = g + h, so it heads towards one goal and usually examines fewer nodes.
+
+**What is the difference between supervised and unsupervised learning?**
+Supervised learning trains on labelled data where each example has the correct answer, such as emails marked spam. Unsupervised learning uses unlabelled data and finds structure itself, such as clustering customers.
+
+**What is back-propagation?**
+Back-propagation trains a neural network by comparing the output with the expected output and passing the error backwards through the layers, so each weight can be adjusted to reduce the error.
+
+**Which paper assesses Artificial Intelligence in Cambridge 9618?**
+Topic 18 Artificial Intelligence is A Level content assessed on Paper 3.

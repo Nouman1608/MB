@@ -12,7 +12,7 @@ order: 7
 syllabusTopics:
   - qualification: "a-level"
     topic: "fundamentals-of-computer-organisation-and-architecture"
-description: "The stored-program concept, processor components, the fetch-decode-execute cycle, performance factors, assembly language and external devices for AQA A Level Computer Science."
+description: "AQA A Level Computer Science 7517 section 4.7 guide: stored-program concept, processor components, fetch-decode-execute, performance, assembly and devices."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-08
@@ -143,3 +143,17 @@ For a fetch-decode-execute question, use register transfer steps in order and na
 6. What does `BNE loop` do? *Answer: it branches to the label loop if the last comparison found the values not equal.*
 7. Explain why an SSD may be chosen for a laptop. *Answer: no moving parts, so it is quiet, fast and robust to knocks.*
 8. In the worked example, what is stored if location 101 holds 3? *Answer: 21 (7 x 3).*
+
+## Frequently asked questions
+
+**What is the difference between Von Neumann and Harvard architecture?**
+Von Neumann architecture uses one memory and one set of buses for both instructions and data. Harvard architecture uses separate memories and buses, so instructions and data can be accessed at the same time.
+
+**How many memory locations can an address bus address?**
+An address bus with n lines can address 2^n locations, so a 32-bit address bus can address 2^32 locations.
+
+**Does doubling the clock speed double a processor's performance?**
+No. Memory speed, cache misses and the software being run also affect performance, so a higher clock speed does not guarantee proportionally faster processing.
+
+**What does the CMP instruction do in AQA assembly language?**
+CMP compares two values and sets the status flags. It does not branch itself; a following instruction such as BEQ or BNE makes the decision.

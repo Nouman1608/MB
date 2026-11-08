@@ -114,3 +114,17 @@ For a "discuss" question, use a two-sided structure: a point for, a point agains
 6. A developer is asked to claim a system is more secure than it is. Which principle is broken? *Honesty and integrity, and also the duty to the public interest if users could be harmed.*
 7. Explain what software piracy is and one risk to the user. *Using or copying software without permission under its licence; the copy may contain malware or the user may face legal action.*
 8. Calculate the yearly cost of 60 per-user licences at 22 pounds each and compare it with a site licence at 1,000 pounds. *60 x 22 = 1,320 pounds, so the site licence is cheaper by 320 pounds.*
+
+## Frequently asked questions
+
+**What is the difference between freeware and free software?**
+Freeware costs nothing, but the author keeps the copyright and the source code is closed. Free software gives users the freedom to run, study, change and share the code, and may still be sold.
+
+**Does copyright protect an idea or an algorithm?**
+Copyright does not usually protect an idea or an algorithm as such, only its particular expression, such as the source code.
+
+**How do you answer an ethics scenario question in Cambridge 9618?**
+Name the principle, apply it to the facts of the scenario and state the consequence or recommended action. An answer that only says something is unethical gains little.
+
+**Is unethical always the same as illegal?**
+No. Many unethical acts are legal, so writing that something is illegal does not answer a question about ethics.

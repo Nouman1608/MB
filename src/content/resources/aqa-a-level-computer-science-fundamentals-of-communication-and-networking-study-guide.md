@@ -12,7 +12,7 @@ order: 9
 syllabusTopics:
   - qualification: "a-level"
     topic: "fundamentals-of-communication-and-networking"
-description: "Serial and parallel transmission, topologies, Wi-Fi, TCP/IP layers, IP addressing and subnets, packet switching and network security for AQA A Level Computer Science."
+description: "AQA A Level Computer Science 7517 section 4.9 guide: serial and parallel links, topologies, Wi-Fi, TCP/IP, subnets, packet switching and network security."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-08
@@ -112,3 +112,17 @@ For layers, state the layer's job, not just the protocol name. For a calculation
 6. How many usable hosts are in a /28 subnet? *Answer: 2^4 - 2 = 14.*
 7. What does a digital signature prove? *Answer: who sent the message and that it has not been altered.*
 8. How long to send 90 MB at 24 Mbit/s? *Answer: 90 x 8 / 24 = 30 seconds.*
+
+## Frequently asked questions
+
+**What is the difference between baud rate and bit rate?**
+Baud rate is the number of signal changes per second, while bit rate is baud rate multiplied by the number of bits per signal change. A 2,400 baud line with 4 bits per signal change has a bit rate of 9,600 bits per second.
+
+**How many usable hosts are in a subnet?**
+Raise 2 to the number of host bits and subtract 2 for the network and broadcast addresses. A /26 subnet has 6 host bits, so it has 64 − 2 = 62 usable hosts.
+
+**What is the difference between an IP address and a port number?**
+The IP address identifies the destination device, while the port number identifies the application on that device. An IP address combined with a port forms a socket.
+
+**How does CSMA/CA with RTS/CTS work?**
+A device listens and waits for a clear channel before transmitting. With RTS/CTS it sends a request to send and waits for a clear to send, which reduces collisions caused by the hidden node problem.

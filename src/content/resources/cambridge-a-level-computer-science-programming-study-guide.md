@@ -172,3 +172,17 @@ For program-writing questions, plan inputs, processing and outputs before coding
 6. Explain BYVAL and BYREF. *BYVAL passes a copy so the caller's variable is unchanged; BYREF passes a reference so changes affect the caller's variable.*
 7. Give two benefits of local variables. *They avoid unwanted changes from other parts of the program, and a name can be reused without conflict.*
 8. What is the output of DigitSum(306)? *3 + 0 + 6 = 9.*
+
+## Frequently asked questions
+
+**Which programming languages can be used for Cambridge 9618 Computer Science?**
+According to this guide, Cambridge allows Python, Java or Visual Basic for the practical paper, while the theory papers use Cambridge pseudocode.
+
+**What is the difference between BYVAL and BYREF in Cambridge pseudocode?**
+BYVAL passes a copy, so changes inside the module do not affect the original variable. BYREF passes a reference, so changes alter the caller's variable.
+
+**When should you use REPEAT UNTIL instead of WHILE?**
+Use REPEAT UNTIL when the body must run at least once, such as input validation, because the condition is tested after the body. WHILE tests first, so its body might never run.
+
+**Do string positions start at 0 or 1 in Cambridge pseudocode?**
+String positions start at 1 in Cambridge pseudocode, so MID("COMPUTER", 4, 3) returns "PUT".
