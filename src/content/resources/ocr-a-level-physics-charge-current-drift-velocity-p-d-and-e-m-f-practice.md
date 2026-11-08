@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "electrons-waves-and-photons"
     subtopic: "energy-power-and-resistance"
-description: "Original practice questions with worked answers on charge, current, drift velocity, p.d. and e.m.f. for OCR A Level Physics A (H556)."
+description: "Original practice questions with worked answers on charge, current, Kirchhoff's first law, drift velocity, p.d. and e.m.f. for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false

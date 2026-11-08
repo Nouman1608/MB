@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "forces-and-motion-ocr-alevel"
     subtopic: "newtons-laws-of-motion-and-momentum"
-description: "Original worked practice questions on momentum, impulse, force-time graphs and 1D and 2D collisions for OCR A Level Physics A (H556)."
+description: "Original worked practice questions on Newton's laws, momentum, impulse, force-time graphs and 1D and 2D collisions for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false

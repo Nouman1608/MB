@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "electrons-waves-and-photons"
     subtopic: "waves-ocr-alevel"
-description: "Condensed recall notes on the EM spectrum, polarisation, refractive index, critical angle and TIR for OCR A Level Physics A, section 4.4.2."
+description: "Condensed recall notes on the EM spectrum, polarisation, refractive index, critical angle and TIR for OCR A Level Physics A (H556), section 4.4.2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false

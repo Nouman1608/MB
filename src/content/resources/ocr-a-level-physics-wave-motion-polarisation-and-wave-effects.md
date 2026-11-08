@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "electrons-waves-and-photons"
     subtopic: "waves-ocr-alevel"
-description: "Study guide to OCR A Level Physics A (H556) section 4.4.1: progressive waves, f = 1/T, v = fλ, wave effects, polarisation and intensity."
+description: "Study guide to OCR A Level Physics A (H556) section 4.4.1: progressive waves, f = 1/T, v = fλ, reflection, refraction, diffraction, polarisation and intensity."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false

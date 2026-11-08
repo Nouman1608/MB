@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "newtonian-world-and-astrophysics"
     subtopic: "gravitational-fields-ocr-alevel"
-description: "Study guide to gravitational potential, potential energy, the force-distance graph and escape velocity for OCR A Level Physics A (H556)."
+description: "Study guide to gravitational potential, gravitational potential energy, the force-distance graph and escape velocity for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false

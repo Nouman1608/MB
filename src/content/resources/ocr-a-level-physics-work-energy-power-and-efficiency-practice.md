@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "forces-and-motion-ocr-alevel"
     subtopic: "work-energy-and-power-ocr-alevel"
-description: "Original practice questions with worked answers on work, energy, power and efficiency for OCR A Level Physics A (H556)."
+description: "Original practice questions with worked answers on work done, kinetic and potential energy, power, P = Fv and efficiency for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "particles-and-medical-physics"
     subtopic: "nuclear-and-particle-physics-ocr-alevel"
-description: "Condensed revision notes on alpha scattering, nuclear radius and density, quark charges and beta decay for OCR A Level Physics A (H556)."
+description: "Condensed revision notes on alpha scattering, nuclear radius and density, quarks, hadrons, leptons and beta decay for OCR A Level Physics A (H556)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false
