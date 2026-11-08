@@ -332,6 +332,23 @@ Then count along from the landmark in order of proton number.
 Next, shrink all this down with the [revision notes](/resources/oxfordaqa-a-level-chemistry-periodicity-revision-notes/)
 and check your answers against the [practice questions](/resources/oxfordaqa-a-level-chemistry-periodicity-practice/).
 
+## Frequently asked questions
+
+**Why does atomic radius decrease across Period 3?**
+Each step from sodium to chlorine adds one proton, so nuclear charge rises, while the new electron goes into the same third shell and shielding hardly changes. The nucleus attracts the outer electrons more strongly and holds them closer.
+
+**Why is the first ionisation energy of aluminium lower than that of magnesium?**
+Magnesium loses a 3s electron, but aluminium loses its single 3p electron. The 3p sub-shell is higher in energy than 3s, and the 3p electron is partly shielded by the 3s electrons, so less energy is needed to remove it.
+
+**Why does sulfur have a lower first ionisation energy than phosphorus?**
+In phosphorus each 3p orbital holds one electron, but in sulfur one 3p orbital holds a pair. The two paired electrons repel each other, so one of them is a little easier to remove.
+
+**Why does silicon have the highest melting point in Period 3?**
+Silicon is macromolecular (giant covalent), with every atom joined to four neighbours by covalent bonds in a three-dimensional network. Melting means breaking a great many strong covalent bonds, which takes a lot of energy.
+
+**Is periodicity AS content in OxfordAQA 9620 Chemistry?**
+Yes. Section 3.2.1 Periodicity is entirely International AS content, examined in Unit 1 (Inorganic 1 and Physical 1), and Unit 5 draws on all content.
+
 ## Official syllabus
 
 Source document: OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3,

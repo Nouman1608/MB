@@ -242,6 +242,19 @@ Negative charges sit on single-bonded oxygen atoms. Each proton lost turns one O
   <figcaption>OCR only: a large jump in successive ionisation energies marks the move to an inner shell, so the electrons before the jump give the group.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between a basic oxide and an acidic oxide?**
+A basic oxide, such as Na₂O or MgO, neutralises an acid to give a salt and water. An acidic oxide, such as SiO₂, P₄O₁₀, SO₂ or SO₃, neutralises a base to give a salt and water.
+
+**What happens when SiCl₄ or PCl₅ is added to water?**
+These covalent chlorides are hydrolysed: water breaks the Si–Cl or P–Cl bonds and hydrogen chloride forms, giving strongly acidic solutions and steamy fumes. By contrast, ionic NaCl and MgCl₂ simply dissolve.
+
+**Why do Al₂O₃ and SiO₂ leave water at pH 7?**
+Both are giant structures that do not dissolve in water, so the pH stays at 7. This does not make them neutral oxides: Al₂O₃ is amphoteric and SiO₂ is acidic.
+
+**What is the melting point order of the Period 3 oxides?**
+From lowest to highest the order is SO₂ < SO₃ < P₄O₁₀ < Na₂O < SiO₂ < Al₂O₃ < MgO. The simple molecular oxides are lowest because only van der Waals forces are overcome on melting.
 
 ## Official syllabus
 

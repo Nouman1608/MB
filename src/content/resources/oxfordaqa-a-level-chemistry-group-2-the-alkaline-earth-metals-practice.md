@@ -219,6 +219,20 @@ alone does not explain the difference from BaSO₄.
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are the most common mistakes in Group 2 exam questions?**
+Frequent slips are leaving shielding out of ionisation energy answers, giving Mg(OH)₂ instead of MgO for magnesium with steam, and using words such as "molecules" or "intermolecular forces" for metals.
+
+**How do you explain the melting point trend of Group 2 metals?**
+Describe the giant metallic lattice and the attraction between 2+ ions and delocalised electrons. Then say the ions get larger down the group, so the attraction weakens and less energy is needed to break up the lattice.
+
+**How do you identify Group 2 ions in Required practical 3?**
+Add sodium hydroxide solution to one portion of the unknown and dilute sulfuric acid to another, using solutions of similar concentration. The hydroxide and sulfate solubility trends predict the precipitates, and you should state the observation that proves each ion.
+
+**Why do Group 2 hydroxide calculations often need a factor of two?**
+Each M(OH)₂ releases two hydroxide ions, so one mole of Ba(OH)₂ reacts with two moles of HCl. Forgetting this doubling is a common way to lose marks in titration and concentration questions.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry* (9620) specification, Version 5.3, for International AS

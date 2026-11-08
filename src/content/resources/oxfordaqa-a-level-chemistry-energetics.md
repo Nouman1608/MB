@@ -23,13 +23,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "oxfordaqa-a-level-chemistry-energetics"
     subtopic: "oxfordaqa-a-level-chemistry-3-1-4-4"
-description: "Standard enthalpy changes of combustion and formation, calorimetry using q = mc∆T, Hess's law calculations, and mean bond enthalpy, for OxfordAQA International AS and A-level Chemistry 9620, section 3.1.4."
+description: "OxfordAQA 9620 Chemistry guide to energetics (3.1.4): enthalpy of combustion and formation, calorimetry with q = mcΔT, Hess's law and mean bond enthalpies."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **3.1.4, Energetics**, from the Physical chemistry
@@ -226,6 +228,23 @@ mean bond enthalpies to apply directly, and always be ready to explain
 the Hess's-law-versus-bond-enthalpy discrepancy in terms of mean
 values being averaged across many molecules rather than measured for
 the specific bond in the specific reaction being studied.
+
+## Frequently asked questions
+
+**What does a negative ΔH mean?**
+A negative ΔH means the reaction is exothermic: heat energy is released to the surroundings. A positive ΔH means the reaction is endothermic and absorbs heat. ΔH is the heat energy change measured at constant pressure.
+
+**What is Hess's law?**
+Hess's law states that the total enthalpy change for a reaction is independent of the route taken, as long as the initial and final conditions are the same. This lets you calculate an enthalpy change that cannot be measured directly from a cycle of known enthalpy changes.
+
+**How do you calculate an enthalpy of formation from enthalpies of combustion?**
+Use the pattern: sum of the combustion enthalpies of the reactants minus the combustion enthalpy of the product. For methane, ΔfH(CH₄) = [ΔcH(C) + 2 × ΔcH(H₂)] − ΔcH(CH₄).
+
+**What is a mean bond enthalpy?**
+Mean bond enthalpy is the enthalpy change needed to break one mole of a specified covalent bond in gaseous molecules, averaged over different compounds containing that bond. Bond breaking is endothermic, so the values are always positive.
+
+**Which required practical is in OxfordAQA 9620 energetics?**
+Required Practical 2 is measuring an enthalpy change. It combines q = mcΔT with a measured temperature change and converts the heat to a molar enthalpy change using the moles of substance that reacted.
 
 ## Official syllabus
 

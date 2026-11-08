@@ -222,6 +222,20 @@ titration [1].
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are the most common mistakes in rate equation questions?**
+Common slips include naming an order without saying which two runs were compared, writing units of k that do not match the overall order, and using kJ mol⁻¹ or °C inside the Arrhenius equation.
+
+**How do you deduce an order from initial-rate data?**
+Choose two experiments in which only one concentration changes and compare the change in rate. If the concentration is multiplied by 2 and the rate by 4, the order for that reactant is 2; if the rate does not change, the order is 0.
+
+**Why should you avoid rounding early in Arrhenius calculations?**
+Values of 1/T differ only slightly from each other, so rounding them too early spoils the gradient and the calculated activation energy. Keep full values until the final answer.
+
+**How should you suggest an improvement to a rate experiment?**
+Answer the specific uncertainty the question names, such as timing a colour change or temperature drift. Simply writing "repeat the experiment" does not earn the mark when a particular uncertainty is asked about.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International

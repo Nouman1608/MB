@@ -202,6 +202,20 @@ CH₂=CHCH₂CH₂C(OH)(CH₃)₂** [1]: the OH carbon carries three carbon grou
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are the most common mistakes in organic analysis questions?**
+Frequent errors are giving only one colour for a test, writing "clear" instead of colourless, and treating an orange-to-green dichromate(VI) result as proof of an alcohol before ruling out aldehydes.
+
+**How should you answer a "distinguish between" test question?**
+Name the reagent and give the result for both compounds, including the colour before and after. Giving the result for only one of the two compounds does not earn full marks.
+
+**What must you show when choosing a molecular formula from precise mass?**
+Calculate the precise-mass total for every candidate formula and show which one matches the measured m/z. Picking a formula without the sum for each candidate loses marks.
+
+**How do you describe using the fingerprint region in an exam answer?**
+Say that the fingerprint region of the unknown's spectrum is compared with reference spectra of known compounds, and that a match identifies the compound.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS

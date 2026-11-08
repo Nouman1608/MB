@@ -170,6 +170,20 @@ x = **366 kJ mol⁻¹** [1] **[3]**
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between enthalpy of combustion and enthalpy of formation?**
+Standard enthalpy of combustion is the enthalpy change when one mole of a substance is completely burned in oxygen under standard conditions. Standard enthalpy of formation is the enthalpy change when one mole of a compound forms from its elements in their standard states under standard conditions.
+
+**Which mass do you use in q = mcΔT?**
+Use the mass of the water or solution that changed temperature, not the mass of the fuel or solid that reacted. For solutions this is usually taken from the volume using a density of 1.00 g cm⁻³.
+
+**Why are experimental enthalpies of combustion less exothermic than data-book values?**
+Heat is lost to the surroundings and absorbed by the apparatus, combustion may be incomplete, and fuel can evaporate from the burner. In an answer, name the specific cause rather than writing "experimental error".
+
+**Why do mean bond enthalpy answers differ from Hess's law answers?**
+Mean bond enthalpies are averages over many different molecules containing that bond, whereas Hess's law uses formation or combustion values measured for the actual compounds in the reaction. Bond enthalpy calculations also assume every species is a gas.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620) specification*, Version 5.3, for International AS and A-level exams May/June 2020 onwards, section 3.1.4 Energetics.

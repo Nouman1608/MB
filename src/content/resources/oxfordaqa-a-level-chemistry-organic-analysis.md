@@ -282,6 +282,23 @@ directions, so part returns towards the surface instead of escaping to space. As
 Next, try the [practice questions](/resources/oxfordaqa-a-level-chemistry-organic-analysis-practice/). For Mr
 and molecular formulae, see [amount of substance](/resources/oxfordaqa-a-level-chemistry-amount-of-substance/).
 
+## Frequently asked questions
+
+**How do you tell a ketone from a tertiary alcohol in OxfordAQA 9620 Chemistry?**
+No AS test tube reaction separates them, because both give no change with every reagent in the toolkit. Use infrared evidence instead: a ketone shows a C=O absorption, while a tertiary alcohol shows a broad O–H absorption.
+
+**Why should you test for aldehydes before using acidified dichromate(VI)?**
+Aldehydes are oxidised too, so they also turn acidified dichromate(VI) from orange to green. Identify any aldehyde first with Fehling's solution or Tollens' reagent, then use dichromate(VI) once aldehydes are ruled out.
+
+**How does precise mass give a molecular formula?**
+Many formulae share the same whole-number Mr, but their precise masses differ because isotope masses, apart from carbon-12, are not exact whole numbers. A high-resolution mass spectrometer measures the molecular ion's m/z to 4 decimal places, which matches only one candidate formula.
+
+**What is the fingerprint region of an infrared spectrum used for?**
+Below about 1500 cm⁻¹, the pattern of absorptions is characteristic of the whole molecule. Comparing it with spectra of known compounds identifies a substance, even when two candidates contain exactly the same bonds.
+
+**How is infrared absorption linked to global warming?**
+The Earth's surface radiates infrared, and C=O bonds in carbon dioxide, C–H bonds in methane and O–H bonds in water vapour absorb some of it. The energy is re-emitted in all directions, so part returns towards the surface; higher concentrations of these gases add to global warming.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS

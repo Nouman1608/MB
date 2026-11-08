@@ -16,13 +16,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "oxfordaqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc"
     subtopic: "oxfordaqa-a-level-chemistry-3-1-7-2"
-description: "Original exam-style practice questions with full worked answers on Le Chatelier, Kc and industrial compromise conditions, with labelled International A2 Kp extension questions."
+description: "Original OxfordAQA 9620 practice questions with worked answers on Le Chatelier, Kc, ICE tables and the Contact process, plus labelled A2 Kp extension items."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -114,3 +116,17 @@ substituting moles directly, skipping the conversion, is one of the
 most common errors in this type of question. For the full treatment of
 K_p and K_c, together with the industrial compromise conditions for
 the Haber and Contact processes, see the [Equilibria and Le Chatelier revision notes](/resources/oxfordaqa-a-level-chemistry-equilibria-revision-notes/).
+
+## Frequently asked questions
+
+**What is an ICE table in equilibrium calculations?**
+An ICE table lists the Initial moles, the Change in moles and the Equilibrium moles of every species. The changes follow the stoichiometric ratios in the balanced equation, and the equilibrium moles are then used to find Kc.
+
+**Should you put moles or concentrations into a Kc expression?**
+Kc uses concentrations in mol dm⁻³. Work out the equilibrium moles first, then divide each by the container volume before substituting; putting moles in directly is one of the most common errors.
+
+**How do you explain why the Contact process uses a low pressure?**
+Higher pressure would raise the yield, but the conversion is already high at low pressure, so the extra cost of high-pressure plant and energy is not worth it. Explaining the choice by yield alone, without cost, misses the point.
+
+**Which equilibrium questions are AS and which are A2 in OxfordAQA 9620?**
+Le Chatelier's principle and Kc are AS content assessed in Unit 2. Kp, from section 3.1.12, is International A2 content assessed in Unit 4, so those questions are labelled as extensions.

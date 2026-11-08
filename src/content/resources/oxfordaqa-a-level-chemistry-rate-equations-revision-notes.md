@@ -244,6 +244,20 @@ interpret specimen results.
 - Claiming a zero-order reactant "does not react".
 - Picking a mechanism with a suitable slow step that fails to balance to the overall equation.
 
+## Frequently asked questions
+
+**What are the units of the rate constant for a third-order reaction?**
+For an overall order of 3, such as Rate = k[V][L]², k has units of mol⁻² dm⁶ s⁻¹. Work out the units each time by making k the subject and cancelling.
+
+**What is the rate-determining step?**
+The rate-determining (rate-limiting) step is the slowest step in a multi-step mechanism. Every reactant in the rate equation takes part in that step or in a step before it.
+
+**Why is 1/t used as a measure of rate in a clock reaction?**
+Each colour change marks the same small, fixed amount of reaction, so a shorter time means a faster rate. If the extent of reaction is small enough, 1/t is proportional to the initial rate.
+
+**What are the two methods in Required practical 8?**
+Required practical 8 measures rate using an initial rate method, such as a clock reaction with several runs, and a continuous monitoring method, which follows one run over time by gas volume, mass, absorbance or titration of quenched samples.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International

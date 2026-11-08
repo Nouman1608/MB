@@ -243,6 +243,20 @@ Work in that order: formula, functional group, carbon skeleton, then H detail.
 - A structure that fits the splitting but puts a group on the wrong side of an O atom, against the δ data.
 - Not checking the final structure against the molecular formula.
 
+## Frequently asked questions
+
+**Why is TMS used as the standard in NMR?**
+Tetramethylsilane, Si(CH₃)₄, gives one intense signal because its 12 H and 4 C atoms are equivalent, and its signal is at the low-δ end, clear of nearly all organic signals. It is also inert and volatile, so the sample can be recovered.
+
+**Why are deuterated solvents used in ¹H NMR?**
+A solvent containing ¹H atoms would give a huge signal that swamps the sample's. Deuterium absorbs at a completely different frequency from ¹H, so a solvent such as CDCl₃ gives no signal in the ¹H spectrum.
+
+**What does an ethyl group look like in a ¹H NMR spectrum?**
+An ethyl group, CH₃CH₂–, usually shows a 2H quartet and a 3H triplet. A 9H singlet suggests a (CH₃)₃C– group.
+
+**How do you turn an integration ratio into numbers of hydrogens?**
+Divide every step height by the smallest, make whole numbers, then scale the ratio so the total matches the number of H in the molecular formula. Quoting only the simplest ratio when the formula needs scaling loses marks.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International

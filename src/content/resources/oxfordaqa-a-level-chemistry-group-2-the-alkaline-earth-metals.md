@@ -351,6 +351,23 @@ test reagent for carbonate in the same practical, is itself saturated Ca(OH)₂ 
 - Forgetting to double [Sr(OH)₂] or [Ba(OH)₂] to get [OH⁻].
 - Saying the sulfate-test acid "helps the precipitate form". It removes carbonate.
 
+## Frequently asked questions
+
+**Why does first ionisation energy decrease down Group 2?**
+Down the group the outer electron is in a higher shell, further from the nucleus, and more inner shells shield it. Together these weaken its attraction to the nucleus by more than the larger nuclear charge strengthens it, so less energy is needed to remove it.
+
+**Why is magnesium an exception to the Group 2 melting point trend?**
+From calcium to barium the melting point falls because the larger 2+ ions attract the delocalised electrons less strongly. Magnesium melts lower than calcium, usually explained by its different crystal arrangement, so treat it as the exception.
+
+**What does magnesium form when it reacts with steam?**
+With steam, magnesium forms magnesium oxide and hydrogen: Mg(s) + H₂O(g) → MgO(s) + H₂(g). With liquid water, Group 2 metals form the hydroxide M(OH)₂ and hydrogen instead.
+
+**Why is the sulfate test acidified with hydrochloric acid?**
+Carbonate ions would also give a white precipitate, BaCO₃, with barium ions. Dilute hydrochloric acid turns carbonate into carbon dioxide so it cannot interfere; sulfuric acid must never be used because it adds sulfate ions itself.
+
+**Is Group 2 in the AS part of OxfordAQA 9620 Chemistry?**
+Yes. Section 3.2.2.1 is all International AS content, placed in Unit 1 (Inorganic 1 and Physical 1), and Unit 5 can also draw on it.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry* (9620) specification, Version 5.3, for International AS

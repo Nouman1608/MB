@@ -211,6 +211,20 @@ change, with the data, and then give the reason; a reason on its own leaves the 
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are the most common mistakes in Period 3 trend questions?**
+Typical slips include saying atomic radius falls because electrons are added to new shells, swapping the reasons for the Mg to Al and P to S ionisation energy drops, and naming the structure of only one element in a melting point comparison.
+
+**How do you write a first ionisation energy equation?**
+Show one mole of gaseous atoms losing one electron each to form gaseous 1+ ions, for example Si(g) → Si⁺(g) + e⁻. Writing (s) or (aq) state symbols, or removing two electrons, loses marks.
+
+**How should you compare the melting points of two Period 3 elements?**
+Name the structure and bonding of both elements, say what must be overcome when each melts, and then compare how much energy that takes. For molecular elements, compare the number of electrons, not just the size of the molecule.
+
+**Does aluminium's place in the p block mean it is covalent?**
+No. Aluminium is a metal with a giant metallic lattice, so its p-block position is not a reason for covalent bonding.
+
 ## Official syllabus
 
 Source document: OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3,

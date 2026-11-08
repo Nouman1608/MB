@@ -226,6 +226,20 @@ with four carbon environments [1].
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are the most common mistakes in NMR questions?**
+Common slips are miscounting environments because equivalent groups were not spotted, applying n+1 to a group's own H instead of the H on adjacent carbons, and stopping at the simplest integration ratio. Always check the final structure against the molecular formula.
+
+**How should you approach a combined spectroscopy question?**
+Use every piece of data: the molecular formula, the infrared spectrum for the functional group, the ¹³C spectrum for the carbon skeleton and the ¹H spectrum for the hydrogen detail. Answers that rely on NMR alone and ignore the other data lose marks.
+
+**Why does a CH₃ group next to an oxygen atom give a singlet?**
+Splitting comes from H on adjacent carbons. A CH₃ bonded to O, or to a C=O carbon, has no neighbouring H, so it appears as a singlet.
+
+**Which OxfordAQA 9620 unit examines NMR spectroscopy?**
+NMR spectroscopy (section 3.3.15) is International A-level only and is examined in Unit 4. Unit 5, the practical and synoptic unit, may also include it.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International

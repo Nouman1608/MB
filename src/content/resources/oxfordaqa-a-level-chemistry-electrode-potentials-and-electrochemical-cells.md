@@ -285,6 +285,23 @@ Double the negative-electrode equation so 4e⁻ cancel. OH⁻ made at one electr
 
 Condense the topic with the [revision notes](/resources/oxfordaqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells-practice/).
 
+## Frequently asked questions
+
+**What is the standard hydrogen electrode used for in OxfordAQA 9620 Chemistry?**
+Only a potential difference between two half-cells can be measured, so every electrode potential is measured against the standard hydrogen electrode, which is given a value of 0.00 V. It is hydrogen gas at 100 kPa bubbling over a platinum electrode in a solution with [H⁺] = 1.00 mol dm⁻³ at 298 K.
+
+**How do you calculate the EMF of an electrochemical cell?**
+EMF = E⦵(right) − E⦵(left), which is E⦵ of the positive electrode minus E⦵ of the negative electrode. The more negative half-cell is the negative electrode and goes on the left of the cell representation, so the EMF of the spontaneous cell comes out positive.
+
+**Do you multiply E⦵ when you multiply a half-equation?**
+No. When you scale half-equations so the electrons cancel in the overall equation, the E⦵ values stay the same, because an electrode potential does not depend on how many moles are written in the equation.
+
+**Is the Nernst equation in the OxfordAQA International A-level Chemistry specification?**
+No. For 3.1.9 you only need to predict the direction in which a change of concentration, temperature or pressure shifts an electrode equilibrium and so changes E. Raising the concentration of the oxidised form makes E more positive.
+
+**Does a positive EMF mean a reaction will happen quickly?**
+No. A positive EMF shows the reaction is feasible under standard conditions, but E⦵ values say nothing about rate. A high activation energy can make a feasible reaction too slow to observe, and a very small EMF is unreliable away from standard conditions.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards, section 3.1.9 Electrode potentials and electrochemical cells (International A2). Published by OxfordAQA.

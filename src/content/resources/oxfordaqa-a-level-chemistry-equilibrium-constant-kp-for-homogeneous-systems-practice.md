@@ -145,6 +145,20 @@ cis-but-2-ene(g) ⇌ trans-but-2-ene(g)     Kp = 1.50 at temperature T
 - Try all free 10-minute [diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are the most common mistakes in Kp calculations?**
+Common slips include totalling the starting amounts rather than the equilibrium amounts, using a 1 : 1 change when the equation's ratio is different, and leaving a power off a partial pressure. Mixing Pa and kPa in one substitution also costs marks.
+
+**Is Kp on the AS papers for OxfordAQA 9620 Chemistry?**
+No. Section 3.1.12 is International A-level only. It is examined in Unit 4, and Unit 5 can also draw on it because it covers the whole specification.
+
+**How should you answer a question about the effect of temperature on Kp?**
+Name the direction the equilibrium moves (towards the endothermic side on heating), say what happens to the product partial pressures relative to the reactants, and then state whether Kp increases or decreases.
+
+**What should the last line of a "show that" Kp question include?**
+Finish by comparing your calculated value with the value given in the question. Leaving out this closing comparison is one of the ways marks are lost on "show that" questions.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for

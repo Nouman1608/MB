@@ -350,6 +350,23 @@ tangent drawing.
 Use the [revision notes](/resources/oxfordaqa-a-level-chemistry-rate-equations-revision-notes/), then the
 [practice questions](/resources/oxfordaqa-a-level-chemistry-rate-equations-practice/).
 
+## Frequently asked questions
+
+**Can you find the order of a reaction from the balanced equation?**
+No. Orders come only from experiment, never from the balancing numbers in the equation. In OxfordAQA 9620, each order with respect to a reactant is 0, 1 or 2.
+
+**How do you find the activation energy from an Arrhenius plot?**
+Plot ln k against 1/T; the line has a gradient of −Ea/R. Multiply the negative of the gradient by R = 8.31 J K⁻¹ mol⁻¹ to get Ea in J mol⁻¹, which will be positive.
+
+**Does increasing concentration change the rate constant?**
+No. Changing a concentration changes the rate but leaves k unchanged. Only a change in temperature changes k, and raising the temperature increases it.
+
+**What does a zero-order reactant tell you about the mechanism?**
+A zero-order reactant does not appear in the rate equation, so it takes part only after the rate-determining step. It is still consumed in the overall reaction.
+
+**Is the Arrhenius equation given in the OxfordAQA 9620 exam?**
+The specification states that the Arrhenius equations and the gas constant R will be given when required. Section 3.1.11 is International A-level only and is examined in Unit 4.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International

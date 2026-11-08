@@ -255,6 +255,20 @@ work through the [practice questions](/resources/oxfordaqa-a-level-chemistry-kin
 International AS pages: [amount of substance](/resources/oxfordaqa-a-level-chemistry-amount-of-substance/)
 for pV = nRT, and [energetics](/resources/oxfordaqa-a-level-chemistry-energetics/) for enthalpy profiles.
 
+## Frequently asked questions
+
+**What are the units of rate of reaction?**
+With concentration in mol dm⁻³ and time in seconds, rate is in mol dm⁻³ s⁻¹. Rate is always quoted as a positive number, whether a reactant is falling or a product is rising.
+
+**Is the peak of a Maxwell–Boltzmann curve the mean energy?**
+No. The peak shows the most probable energy. The long high-energy tail pulls the mean energy above the most probable value.
+
+**How does a hotter Maxwell–Boltzmann curve differ from a cooler one?**
+At a higher temperature the peak moves to the right and becomes lower, and the curve is broader. The total area under the curve stays the same because the number of molecules is unchanged.
+
+**How do you show the effect of a catalyst on a Maxwell–Boltzmann distribution?**
+Keep a single curve, because the temperature has not changed, and add a second, lower Ea line nearer the peak. The extra area between the two lines represents molecules that can now react by the catalysed route.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)* specification, Version 5.3, for International AS

@@ -174,6 +174,20 @@ Recycling: conserves crude oil, uses less landfill and recovers the material [1]
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What are the most common mistakes when drawing a repeating unit?**
+Common slips are drawing a two-monomer repeating unit with a single residue or the same residue twice, and leaving –H or –OH at the ends instead of bonds through the brackets.
+
+**How do you find the monomers from a section of polymer chain?**
+Identify the ester or amide links, cut each C–O or C–N bond in the link, then add H to each O or N and OH to each carbonyl carbon. Count the carbons carefully, including the two carbonyl carbons of a diacid.
+
+**Where should a hydrogen bond be drawn between polyamide chains?**
+Draw it from the H of an N–H group on one chain to the oxygen of a C=O group on the neighbouring chain, not to another nitrogen atom.
+
+**How do you explain why polyalkenes are inert?**
+Say that the backbone has only non-polar C–C and C–H bonds, so no carbon carries a δ+ charge for a nucleophile to attack. Explaining it by "strong bonds" alone does not earn the mark.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards: section 3.3.12 Polymers (3.3.12.1 Condensation polymers; 3.3.12.2 Biodegradability and disposal of polymers), International A-level only.

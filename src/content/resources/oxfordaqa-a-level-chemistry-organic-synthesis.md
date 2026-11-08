@@ -295,6 +295,23 @@ Revise single reactions in [halogenoalkanes](/resources/oxfordaqa-a-level-chemis
 [aromatic chemistry](/resources/oxfordaqa-a-level-chemistry-aromatic-chemistry/), and atom economy in
 [amount of substance](/resources/oxfordaqa-a-level-chemistry-amount-of-substance/).
 
+## Frequently asked questions
+
+**Is organic synthesis AS or A2 content in OxfordAQA 9620 Chemistry?**
+Section 3.3.14 Organic synthesis is International A-level only. It is part of the A2 organic chemistry examined in Unit 4 (Organic 2 and Physical 2), and Unit 5 covers all content.
+
+**What is the difference between atom economy and percentage yield?**
+Atom economy is a property of the balanced equation: the percentage of reactant mass that ends up in the wanted product. Percentage yield is a property of the experiment: how much product you actually collect compared with the maximum possible.
+
+**How do you calculate the overall yield of a multi-step synthesis?**
+Multiply the step yields written as decimals. For example, steps of 75%, 82% and 70% give 0.75 × 0.82 × 0.70 = 0.4305, an overall yield of about 43%; adding or averaging the yields is wrong.
+
+**Why are solvent-free processes better for industry?**
+A solvent does not end up in the product, yet it costs energy and raw materials to make and transport, must be separated from the product, and creates waste. Many organic solvents are also volatile, flammable or toxic, so avoiding them reduces fire risk and pollution.
+
+**Why can't chlorobenzene be used in nucleophilic substitution?**
+A lone pair on the chlorine overlaps with the delocalised ring electrons, strengthening the C–Cl bond, and the electron-rich ring repels nucleophiles. To substitute, put the chlorine on a side chain, as in (chloromethyl)benzene, which reacts like a primary halogenoalkane.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS
