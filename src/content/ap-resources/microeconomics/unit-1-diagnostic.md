@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Salman Ahmad"
+reviewedDate: 2026-11-08
 ---
 
 This diagnostic helps you find **which Unit 1 topics to revisit**. Each of its nine questions is tied to one topic, so a wrong answer points you to the study guide you need.

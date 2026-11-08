@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Salman Ahmad"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. They use three fictional countries: **Valdoria** (currency the **valda, VD**), **Kestria** (the **kesta, KS**) and, in Question 7, **Norvia** (the **norra, NR**). All rates and prices are fictional. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Assumptions: no fees or buy–sell spreads; home-currency prices of goods do not change unless stated; a four-function calculator is enough.

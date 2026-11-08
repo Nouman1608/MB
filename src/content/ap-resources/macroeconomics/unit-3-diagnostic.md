@@ -29,10 +29,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Salman Ahmad"
+reviewedDate: 2026-11-08
 ---
 
 This diagnostic helps you find **which Unit 3 topics to revisit**: one question on each topic, 3.1 to 3.9, and a second on 3.2, 3.6 and 3.8. Answer everything before opening any answer (about 30 minutes).

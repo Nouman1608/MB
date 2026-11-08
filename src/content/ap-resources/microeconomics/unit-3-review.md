@@ -32,10 +32,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Salman Ahmad"
+reviewedDate: 2026-11-08
 ---
 
 Use this review after studying all seven topics or taking the [Unit 3 diagnostic](/advanced-course-resources/microeconomics/unit-3-diagnostic/).

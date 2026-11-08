@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Salman Ahmad"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. All countries and people are fictional, and all data are fictional. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Assumptions: every PPC is a straight line (constant opportunity cost); producers in each question have the same quantity of resources; there are no transport costs; a four-function calculator is enough.

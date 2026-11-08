@@ -31,10 +31,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Salman Ahmad"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. The questions use **Kestria** and **Lumeria**, fictional countries whose currency is the **valda (VD)**; all data are fictional. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Kestria's data continue the Topic 3.4 and 3.5 practice sets: **labour force 8.0 million**, **natural rate of unemployment 4.5%**, **full-employment output Yf = VD 400 billion**, and each VD 10 billion of real output needs 0.04 million workers. All questions are about the **short run**: LRAS does not shift. A four-function calculator is enough; round percentages to 2 decimal places.

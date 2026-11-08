@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Salman Ahmad"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. All questions use **Valdoria**, a fictional country whose currency is the **valda (VD)**; all figures are fictional. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Notation: M = money supply (VD billion), V = velocity, P = price level (index ÷ 100), Y = real GDP (VD billion at base-year prices). A four-function calculator is enough.

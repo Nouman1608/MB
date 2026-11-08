@@ -30,10 +30,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Salman Ahmad"
+reviewedDate: 2026-11-08
 ---
 
 These are **original Marlbridge practice questions**, not past exam questions. All questions use **Valdoria** and **Kestria**, fictional countries whose currency is the **valda (VD)**; all data are fictional, and the MPC given in each question applies only to that question. The rubrics are a suggested Marlbridge rubric to help you check your work; they are not an official scoring guideline. Assumptions: the simple multiplier model applies (constant MPC, saving is the only leakage); in the calculations the price level is treated as constant; values are in billions of valdas.

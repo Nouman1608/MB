@@ -29,10 +29,10 @@ keyPoints:
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
-editorialStatus: "drafted"
-checkedBy: "marlbridge-academic-team"
-checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
+editorialStatus: "reviewed"
+reviewer: "Salman Ahmad"
+reviewedDate: 2026-11-08
 ---
 
 This diagnostic helps you find **which Unit 1 topics to revisit**. It has one or two short questions on each topic, 1.1 to 1.6. Answer every question before opening any answer; allow about 30 minutes.
