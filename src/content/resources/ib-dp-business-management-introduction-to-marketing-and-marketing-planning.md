@@ -257,6 +257,20 @@ Differentiation has a cost, and it only pays if the extra price or extra sales e
 
 Test yourself with the [practice questions](/resources/ib-dp-business-management-introduction-to-marketing-and-marketing-planning-practice/), then condense with the [revision notes](/resources/ib-dp-business-management-introduction-to-marketing-and-marketing-planning-revision-notes/).
 
+## Frequently asked questions
+
+**What is the difference between market orientation and product orientation?**
+A market-oriented business starts with customer needs found through research and then designs, prices and promotes to match. A product-oriented business starts with what it can make and looks for buyers afterwards, which can lead to innovation but risks weak demand.
+
+**What is the difference between a niche market and a mass market?**
+A niche market is a small, specialized segment with distinct needs and often less competition, though a big rival can enter. A mass market is a large market of customers with common needs where competition is usually intense.
+
+**Why does market leadership matter in IB Business Management?**
+At HL, you judge why market share and leadership matter: a large share can bring buying power, lower unit costs, brand strength and stakeholder confidence. Winning and defending share can also be costly and shrink profit, so a verdict depends on the situation.
+
+**What is the role of marketing planning?**
+A marketing plan turns the business's overall objectives into specific marketing aims and actions, with measurable targets and a budget, and lets managers compare results with the plan. It relies on assumptions and forecasts, so it needs review as conditions change.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Business management guide*, first assessment 2024, sections 4.1 and 4.2.

@@ -146,6 +146,20 @@ These questions cover section 5.3, Lean production and quality management (HL on
 - Try all free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Is lean production and quality management HL only in IB Business Management?**
+Yes. Section 5.3, Lean production and quality management, is labelled HL only in Unit 5 of the IB Business management guide, first assessment 2024.
+
+**What are common mistakes on lean production and quality questions?**
+Students often define kaizen or TQM in one vague phrase such as "getting better", describe JIT as "no stock" without linking it to supplier reliability, and mix up quality control with quality assurance. Leaving out before-and-after figures in a savings calculation, or giving payback in years when months are asked, also loses marks.
+
+**How do you calculate a saving from reducing a defect or scrap rate?**
+Convert each rate into units by multiplying output by the rate, multiply by the cost per unit, do this before and after, then subtract. Show both figures so the working can be credited.
+
+**How should you evaluate a quality standard in an exam answer?**
+Weigh the benefits, such as customer trust and access to buyers who require certification, against fees, audits, paperwork and staff time. Say why the standard matters to customers in the case, and remember that certification shows a system exists, not that every unit is perfect.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, International Baccalaureate Organization, section 5.3, Lean production and quality management (HL only). Marlbridge is not affiliated with the IB.

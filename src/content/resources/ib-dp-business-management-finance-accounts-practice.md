@@ -12,13 +12,15 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-business-unit-3"
-description: "Original practice questions with full worked answers covering sources of finance, costs and revenues, final accounts, ratio analysis, cash flow and investment appraisal, for IB Diploma Programme Business Management Unit 3."
+description: "Original IB DP Business Management Unit 3 practice questions with worked answers on sources of finance, costs, final accounts, ratios and cash flow."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -97,6 +99,20 @@ recommendation (7b), an HL-only ratio discussion (7c), and an HL-only evaluate-s
 scenario, because that is exactly the format Paper 2's final question typically takes -- testing
 whether a student can move fluently between interpreting a given financial figure (7c's gearing
 ratio needs no calculation) and evaluation within a single business context, rather than treating Unit 3's nine sub-topics as isolated calculation drills.
+
+## Frequently asked questions
+
+**What topics are in IB DP Business Management Unit 3?**
+Unit 3, Finance and accounts, has nine sub-topics: introduction to finance, sources of finance, costs and revenues, final accounts, profitability and liquidity ratios, efficiency ratios (HL only), cash flow, investment appraisal, and budgets (HL only).
+
+**How do you choose a source of finance in an exam question?**
+Match the source to the business's situation and the length of the need. A start-up with no trading history cannot realistically use retained profit, and a short-term need such as a week of stock should not be met with a long-term loan.
+
+**Why should you show working in Unit 3 calculations?**
+Markschemes typically award method marks for a correctly stated formula and substitution, so full working can protect marks even if a small arithmetic slip makes the final answer wrong. State the answer with its unit, such as a percentage, days or currency.
+
+**How do Unit 3 questions combine calculation and evaluation?**
+Longer questions often set one business scenario and move from interpreting a financial figure to recommending or evaluating a course of action. You need to use the figures as evidence in your judgement rather than treating each calculation in isolation.
 
 ## Official syllabus
 

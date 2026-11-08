@@ -12,13 +12,15 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-business-unit-3"
-description: "Condensed revision notes on IB Diploma Programme Business Management Unit 3 -- sources of finance, costs and revenues, final accounts, ratio analysis, cash flow and investment appraisal -- with worked calculation reminders and self-test questions."
+description: "Condensed IB DP Business Management Unit 3 revision notes covering all nine finance and accounts sub-topics, with worked calculation reminders and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Unit 3 is tied for the largest unit in the [full syllabus](/resources/ib-dp-business-management-syllabus-guide/)
@@ -229,6 +231,20 @@ chosen discount rate).
 6. A high proportion of the business's capital employed comes from debt rather than equity, meaning
 greater risk from interest obligations but potentially higher returns to equity holders if the
 investment performs well.
+
+## Frequently asked questions
+
+**What is the difference between insolvency and bankruptcy?**
+Insolvency means a business cannot pay its debts as they fall due, which is a cash flow problem. Bankruptcy is the formal legal process that can follow insolvency for an individual, or liquidation for a company.
+
+**What does a high gearing ratio mean?**
+A high gearing ratio means a large proportion of a business's capital employed comes from long-term debt rather than equity. It brings greater risk from interest payments but can give higher returns to equity holders when things go well.
+
+**What is the weakness of each investment appraisal method?**
+Payback ignores profitability after the payback point, average rate of return ignores the timing of returns, and net present value (HL only) depends on a chosen discount rate that involves judgement.
+
+**Which Unit 3 topics are HL only in IB Business Management?**
+Efficiency ratio analysis (3.6), budgets (3.9), depreciation within final accounts, and net present value within investment appraisal are HL only.
 
 ## Official syllabus
 

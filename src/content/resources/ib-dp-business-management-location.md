@@ -207,6 +207,20 @@ Remember the Unit 5 conceptual understandings in the guide: operational changes 
 
 Test yourself with the [revision notes](/resources/ib-dp-business-management-location-revision-notes/) and the [practice questions](/resources/ib-dp-business-management-location-practice/), then use the [checklist](/checklists/ib/ib-dp/business/) to tick off what you can do.
 
+## Frequently asked questions
+
+**What factors affect where a business locates production?**
+Standard factors include costs such as land, labour, materials, transport and tax; closeness to customers, suppliers and similar firms; the quality of infrastructure; political stability, trade barriers and exchange rates; and other reasons such as brand image, room to expand and owners' preferences. The guide asks for "the reasons" but does not list them.
+
+**What is offshoring?**
+Offshoring means moving production, or part of it, to another country, either to the business's own plant there or to an overseas contractor. Typical drivers are lower wages, cheaper land, access to new markets and nearby raw materials.
+
+**What are the disadvantages of outsourcing?**
+Outsourcing can mean less control over quality and delivery dates, dependence on the contractor, a risk that confidential designs leak, and a contract price that may rise.
+
+**How do you evaluate a location change?**
+State the change and its purpose, give benefits and costs with figures where possible, consider stakeholders at both sites, and conclude by naming what the decision depends on, such as volume, time horizon or the business's aims. These reorganization methods are taught at AO3 in section 5.4.
+
 ## Official syllabus
 
 IB *Business management guide*, first assessment 2024, International Baccalaureate Organization. Section 5.4 Location, within Unit 5: Operations management.

@@ -136,6 +136,20 @@ Judgment: the proposal looks worthwhile on these figures, even though total reve
 - Try the free 10-minute diagnostics: [all free 10-minute diagnostics](/diagnostics/).
 - Book a free trial class: [trial](/trial/).
 
+## Frequently asked questions
+
+**Can a cost be both fixed and direct?**
+Yes. Fixed or variable describes how a cost behaves when output changes, while direct or indirect describes whether it can be traced to one product. A machine lease used only for one product line is fixed and direct, so a full answer gives one label from each pair.
+
+**What are common mistakes on IB Business Management costs and revenues questions?**
+Frequent errors are labelling a cost fixed or variable by its size rather than its behaviour with output, using price instead of price × quantity, leaving a revenue stream out of the total, and treating fixed cost per unit as unchanged when output changes. Leaving out the currency unit and ending an evaluation without a judgement also lose marks.
+
+**How should you judge whether a price change is worthwhile in a costs and revenues question?**
+Look at the change in total revenue and also at the costs that change with quantity, rather than judging on revenue alone. Then tie your final judgement to the figures in the case.
+
+**Which section of the IB Business Management guide covers costs and revenues?**
+Costs and revenues is section 3.3 of Unit 3 (Finance and accounts) in the IB Business management guide, first assessment 2024. It covers fixed, variable, direct and indirect/overhead costs, total revenue and revenue streams.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Business management guide*, first assessment 2024, section 3.3 Costs and revenues.

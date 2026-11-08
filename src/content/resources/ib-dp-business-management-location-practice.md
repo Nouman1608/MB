@@ -128,6 +128,20 @@ These questions cover section 5.4 (Location) of Unit 5 in the IB *Business manag
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between outsourcing and offshoring?**
+Outsourcing (subcontracting) is about who does the work: an outside firm carries out part or all of production. Offshoring is about where the work is done: production moves to another country. A move can be both at once.
+
+**What are common mistakes on location questions in IB Business Management?**
+Students often confuse the definitions of offshoring and outsourcing, list location factors without applying them to the business, and leave out shipping, duty or stock holding when calculating landed cost. Giving only advantages in an evaluate question, or ending without a judgement, also loses marks.
+
+**Can outsourcing be national as well as international?**
+Yes. Section 5.4 of the IB Business management guide treats outsourcing, offshoring, insourcing and reshoring as ways of reorganizing production nationally and internationally, so subcontracting to a firm in the same country is still outsourcing.
+
+**How should you compare in-house production with outsourcing in a calculation?**
+Add the in-house fixed costs once to the variable cost of the output, rather than adding fixed cost per unit, and compare the total with the contractor's total charge. Avoid rounding too early in multi-step calculations.
+
 ## Official syllabus
 
 IB *Business management guide*, first assessment 2024, International Baccalaureate Organization. Section 5.4 Location, within Unit 5: Operations management.

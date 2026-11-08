@@ -137,6 +137,20 @@ These questions cover section 3.4 (Final accounts) of the IB *Business managemen
 - Take all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is depreciation HL only in IB Business Management final accounts?**
+Yes. In section 3.4 of the IB Business management guide, depreciation by the straight line and units of production methods, and judging which method is appropriate, are HL only. The purpose of accounts, the profit and loss account, the balance sheet and intangible assets apply at SL and HL.
+
+**What are common mistakes on final accounts calculation questions?**
+Frequent errors include leaving out opening or closing inventory in cost of sales, subtracting tax or dividends in the wrong order, putting debts in the wrong section of the balance sheet, and not checking that the balance sheet balances. In depreciation questions, forgetting the residual value and treating depreciation as a cash cost also lose marks.
+
+**How do you answer a question on why accounts matter to a stakeholder?**
+Name the stakeholder group, say what it is looking for, and use a figure from the accounts in the question. A generic answer with no figure from the accounts is a common way to lose marks.
+
+**How do you justify a depreciation method for an asset?**
+Choose one method and link it to how that asset loses value, by time or by use, rather than describing both methods. Then end with a judgement.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Business management guide*, first assessment 2024: section 3.4 Final accounts and the Glossary of command terms.

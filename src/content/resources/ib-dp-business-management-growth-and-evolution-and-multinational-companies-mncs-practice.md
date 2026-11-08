@@ -142,6 +142,20 @@ These questions cover sections 1.5 (Growth and evolution) and 1.6 (Multinational
 - Take the [free diagnostics](/diagnostics/) to find gaps.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between internal and external growth?**
+Internal (organic) growth uses the business's own resources, such as selling more or launching new products, and is usually gradual. External (inorganic) growth involves another business, through methods such as mergers, takeovers, joint ventures, strategic alliances or franchising, and can be sudden.
+
+**What are common mistakes on growth and MNC questions in IB Business Management?**
+Students often name an economy of scale without saying why unit cost falls, mix up a joint venture with a strategic alliance, discuss franchising only from the franchisor's side, and give only positives or only negatives for an MNC. Answering "evaluate" with a list and no judgement also loses marks.
+
+**Is repatriated profit a total loss to the host country?**
+No. Even when an MNC sends profit back to its home country, the wages it pays and the tax it pays to the host government stay in the host country, so treating repatriated profit as the whole effect overstates the loss.
+
+**Which sections of the IB Business Management guide cover growth and MNCs?**
+Growth and evolution is section 1.5 and Multinational companies (MNCs) is section 1.6, both in Unit 1 of the IB Business management guide, first assessment 2024.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide* (first assessment 2024), International Baccalaureate Organization, Unit 1, sections 1.5 and 1.6.

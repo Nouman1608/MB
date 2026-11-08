@@ -275,6 +275,20 @@ Build your answer as: change, demand it creates, structure that meets the demand
 - Misreading an organization chart and counting people at the wrong level.
 - Using a general answer when the stem names a specific business and its change.
 
+## Frequently asked questions
+
+**What is the difference between delegation and decentralization?**
+Delegation is one manager passing a task and the authority for it to a subordinate, while the manager stays accountable. Decentralization is passing decision-making to lower levels, branches or departments across the organization.
+
+**What is the difference between delayering and downsizing?**
+Delayering removes one or more levels of the hierarchy, usually middle management. Downsizing cuts the number of employees.
+
+**What are the three leaves of Handy's Shamrock Organization?**
+The three leaves are core staff (essential and permanent), contractors (for non-core tasks) and the flexible workforce. This is an HL only part of section 2.2.
+
+**What is the gig economy?**
+The gig economy is short-term, task-based or freelance work, often arranged through digital platforms. It is one of the external factors that can influence human resource planning in section 2.1.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, International Baccalaureate Organization, sections 2.1 and 2.2.

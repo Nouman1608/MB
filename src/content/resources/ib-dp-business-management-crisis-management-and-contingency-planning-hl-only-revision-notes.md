@@ -201,6 +201,20 @@ A useful sentence pattern: "Because the business [did X], stakeholders [reacted 
 - Stopping with no judgement, or a judgement that omits its conditions.
 - Using generic examples rather than the organization in the stimulus.
 
+## Frequently asked questions
+
+**What is the quickest way to tell contingency planning from crisis management?**
+If the bad event has not happened yet, it is contingency planning, which is proactive preparation. If the event is happening or has happened, it is crisis management, which is the reactive response under pressure.
+
+**What four factors affect effective crisis management in IB Business Management?**
+The guide names transparency, communication, speed and control. Strong answers show how they support each other, for example control making speed possible.
+
+**Can contingency planning remove risk completely?**
+No. No plan can foresee every event, plans go out of date, and a plan can create false confidence that leads managers to take bigger risks.
+
+**What are the four impacts of contingency planning you need to consider?**
+Section 5.7 asks you to consider the impact of contingency planning on cost, time, risks and safety for a given organization or situation. Each has a benefit and a cost, and safety is the hardest to price in money.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. These notes cover section 5.7, Crisis management and contingency planning (HL only), in Unit 5: Operations management.

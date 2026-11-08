@@ -236,6 +236,20 @@ Poor communication is itself a source of conflict. A rumour on the grapevine abo
 - Giving one side only in an evaluate or recommend answer.
 - Ending without a clear judgement tied to the business in the case.
 
+## Frequently asked questions
+
+**What is the difference between formal and informal communication?**
+Formal communication goes through official channels and is usually planned and recorded, such as meetings with minutes, emails and reports. Informal communication happens outside official channels, such as corridor chat or the grapevine, and is fast and flexible but leaves no record and can spread rumour.
+
+**What is the difference between a strike and a lockout?**
+A strike is action by employees, who stop work completely and normally lose pay. A lockout is action by the employer, who keeps employees out of the workplace until they accept terms.
+
+**What does a work-to-rule involve?**
+In a work-to-rule staff do exactly what their contract and rules require and give up extras such as unpaid overtime. Output falls while they are still at work and still paid.
+
+**How do you structure an AO3 answer on communication or conflict in IB Business Management?**
+Open with a short judgement, give two or three reasons tied to facts or figures in the case, deal with the strongest counter-point, and close by naming the conditions under which you would change your view. The guide's glossary defines evaluate as weighing strengths and limitations and justify as giving valid reasons or evidence for a conclusion.
+
 ## Official syllabus
 
 IB *Business management guide*, first assessment 2024, International Baccalaureate Organization: sections 2.6 and 2.7 (2.7 is HL only).

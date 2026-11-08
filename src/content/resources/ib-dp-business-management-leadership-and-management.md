@@ -205,6 +205,20 @@ Good HL answers avoid presenting one as always right. Managers often combine bot
 
 Condense this page with the [revision notes](/resources/ib-dp-business-management-leadership-and-management-revision-notes/), then test yourself on the [practice questions](/resources/ib-dp-business-management-leadership-and-management-practice/). Tick off the section on the [checklist](/checklists/ib/ib-dp/business/) when you are confident.
 
+## Frequently asked questions
+
+**What is the difference between management and leadership?**
+Management is about running the organization's resources to meet its objectives, through tasks such as planning, organizing and controlling. Leadership is about influencing and guiding people toward a vision or goal; the two overlap, and one person can do both.
+
+**What is situational leadership?**
+Situational leadership is the idea that no single style is best, so the leader adapts to the task, the team and the circumstances. Its strength is flexibility, but staff may feel unsure what to expect.
+
+**What is the difference between scientific and intuitive management?**
+Scientific thinking/management relies on data, analysis and testing, while intuitive thinking/management relies on experience, judgement and instinct. This is an HL only content point in section 2.3, and strong answers note that managers often combine both.
+
+**When is a laissez-faire leadership style appropriate?**
+Laissez-faire suits highly skilled, self-driven specialists such as research scientists or senior designers who need little supervision. Its risks are a lack of direction, uneven standards and poor coordination.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. This page covers section 2.3, Leadership and management.

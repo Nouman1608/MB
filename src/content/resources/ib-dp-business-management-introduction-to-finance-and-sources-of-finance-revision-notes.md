@@ -206,6 +206,20 @@ Use the glossary meanings from the guide.
 - Treating retained profit as spare cash available on demand.
 - Ending an appropriateness question without a judgment or a justification.
 
+## Frequently asked questions
+
+**What is the difference between internal and external sources of finance?**
+Internal sources come from inside the business or its owner: personal funds for sole traders, retained profit and sale of assets. External sources come from outside, such as share capital, loan capital, overdrafts, trade credit, crowdfunding, leasing, microfinance providers and business angels.
+
+**What is the difference between share capital and loan capital?**
+Share capital gives investors ownership and may earn them dividends, but it never has to be repaid. Loan capital keeps ownership with the existing owners but must be repaid with interest whatever the profit.
+
+**Why is an overdraft a poor way to buy a building?**
+A building lasts for decades, but an overdraft is short-term, flexible and can be recalled by the bank, so repayment would not match the period over which the building brings benefits.
+
+**Is retained profit the same as cash in the bank?**
+No. Retained profit is a record of profit kept in the business after tax and dividends, and it may already have been spent on assets, so it is not necessarily held as cash.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide*, first assessment 2024, published by the International Baccalaureate Organization. Sections 3.1 Introduction to finance and 3.2 Sources of finance.

@@ -141,6 +141,20 @@ Analyse three threats that Gallowby faces in this plan. **[6]**
 - Take all [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is international marketing examined at SL in IB Business Management?**
+No. Section 4.6, International marketing, is HL only in the IB Business management guide, first assessment 2024, and the guide's assessment outline places HL extension topics in Paper 2 and Paper 3 at HL rather than Paper 1.
+
+**How do you calculate a landed cost in an international marketing question?**
+Landed cost is the firm's price plus the tariff plus shipping and handling. Missing the tariff or the shipping is a common way to lose marks.
+
+**What mistakes do students make with exchange rate calculations?**
+Common errors are quoting the exchange rate the wrong way round when converting and using the new value instead of the original value as the base of a percentage fall. State the direction of the currency move and show each step.
+
+**How do you evaluate whether a business should go international?**
+Weigh opportunities and threats from the case using its figures, compare the decision with doing nothing, and look at short run and long run. End with a judgement that states what it depends on, since treating a bigger market as a guaranteed gain loses marks.
+
 ## Official syllabus
 
 IB Diploma Programme *Business management guide* (first assessment 2024), International Baccalaureate Organization, Unit 4, section 4.6 International marketing (HL only).
