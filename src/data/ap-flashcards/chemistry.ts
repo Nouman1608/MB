@@ -2703,7 +2703,7 @@ export const AP_DECK_CHEMISTRY: ApFlashcardDeck = {
     {
       id: '6.1-5',
       topic: '6.1',
-      front: 'Does breaking a bond release or absorb energy?',
+      front: 'In an energy change for a reaction, is bond breaking endothermic or exothermic?',
       back: 'Breaking a bond always needs energy; forming a bond always releases energy. "Breaking bonds releases energy" is never correct.',
       origin: 'resource',
       source: 'mb-ap-chem-6.1-revision-notes',

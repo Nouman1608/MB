@@ -567,7 +567,7 @@ export const AP_DECK_PHYSICS_C_ELECTRICITY_AND_MAGNETISM: ApFlashcardDeck = {
     {
       id: "10.1-1",
       topic: "10.1",
-      front: "What is the field inside a conductor in electrostatic equilibrium?",
+      front: "Why is the field zero inside a conductor in electrostatic equilibrium?",
       back: "Zero. Free charges move until the field inside cancels, which happens effectively at once. By Gauss's law there is then no net charge inside, so all excess charge is on the surface.",
       origin: "resource",
       source: "mb-ap-physcem-10.1-revision-notes",

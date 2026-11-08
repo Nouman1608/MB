@@ -17,7 +17,7 @@ syllabusTopics:
     topic: "core-content-option-a-2147"
     subtopic: "us-civil-war-2147"
 seoTitle: "Why Was There a Civil War in the USA? 0470 and 2147 Guide"
-seoDescription: "Causes, course and results of the American Civil War, 1820–77, for Cambridge IGCSE 0470 and O Level 2147 History: slavery, Lincoln, the North's victory, Reconstruction."
+seoDescription: "The American Civil War, 1820–77, for Cambridge IGCSE 0470 and O Level 2147 History: slavery, Lincoln, the North's victory and Reconstruction."
 description: "Guide to Cambridge IGCSE 0470 and O Level 2147 key question 1.4: slavery and sectional conflict, Lincoln's election, why the North won, and Reconstruction."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08

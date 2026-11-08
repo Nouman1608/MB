@@ -2201,7 +2201,7 @@ export const AP_DECK_CALCULUS_AB: ApFlashcardDeck = {
       id: '5.5-6',
       topic: '5.5',
       front: 'How should you state an absolute extremum?',
-      back: '"The absolute maximum value of f on [a, b] is __, at x = __." Use f (not f′) values, and keep full precision until you compare.',
+      back: '"The absolute maximum value of f on [a, b] is [value], at x = [value]." Use f (not f′) values, and keep full precision until you compare.',
       origin: 'resource',
       source: 'mb-ap-calcab-5.5-revision-notes',
     },
