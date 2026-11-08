@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Condensed AQA GCSE Chemistry 8462 Using resources notes: water, LCAs, recycling, rusting, alloys, polymers, Haber process and NPK, plus a self-test."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -300,6 +302,20 @@ Potassium chloride and potassium sulfate are mined. Ammonia makes ammonium salts
 - Writing "high temperature gives a higher yield" for the Haber process.
 - Forgetting that unreacted nitrogen and hydrogen are recycled.
 - Mixing up single and triple superphosphate.
+
+## Frequently asked questions
+
+**What is a life cycle assessment?**
+A life cycle assessment (LCA) assesses the environmental impact of a product at every stage of its life, from extracting raw materials to disposal. Answers on LCAs should use figures from the data given.
+
+**What does rusting need?**
+Iron rusts only when both air (oxygen) and water are present. Stating that rust needs only oxygen or only water loses marks.
+
+**What is the difference between a finite and a renewable resource?**
+A finite resource, such as crude oil or a metal ore, will run out because it is not replaced fast enough. A renewable resource, such as timber or crops, can be replaced as fast as it is used.
+
+**What is an alloy?**
+An alloy is a mixture of a metal with other elements, usually other metals. For example, stainless steel contains chromium and nickel, which make it hard and resistant to corrosion.
 
 ## Official syllabus
 

@@ -23,10 +23,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-chemical-bonding"
     subtopic: "as-dot-and-cross-diagrams"
-description: "Condensed recall notes on covalent and coordinate bonding, expanded octets, bond energy, dot-and-cross diagrams, VSEPR shapes, bond angles, polarity and van der Waals' forces (id-id, pd-pd and hydrogen bonding) for Cambridge AS & A Level Chemistry 9701."
+description: "Revision notes for Cambridge AS & A Level Chemistry 9701 on σ and π bonds, dative bonds, dot-and-cross diagrams, VSEPR shapes and intermolecular forces."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -236,3 +238,16 @@ The ice-density explanation must mention the **open lattice** and the **tetrahed
   <figcaption>At similar molar mass, London &lt; dipole-dipole &lt; hydrogen bonding.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you draw a coordinate bond in a dot-and-cross diagram?**
+Both electrons of a dative pair come from the donor atom, so draw them with the same symbol, not as one dot and one cross. This is subtopic 3.7 of Cambridge International AS & A Level Chemistry 9701.
+
+**Does HCl form hydrogen bonds?**
+No. Hydrogen bonding in Cambridge 9701 requires hydrogen bonded to nitrogen or oxygen and an acceptor lone pair. HCl and H₂S do not hydrogen bond.
+
+**How do you compare boiling points of molecular substances?**
+Identify the intermolecular forces in each substance and compare their strength. For instantaneous dipole–induced dipole forces, compare the number of electrons rather than molecule size.
+
+**How should odd-electron species such as NO be drawn?**
+Show the unpaired electron rather than forcing the molecule into a false octet. Odd-electron species cannot give every atom a complete octet.

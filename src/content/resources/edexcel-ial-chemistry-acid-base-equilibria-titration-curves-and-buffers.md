@@ -295,6 +295,20 @@ Neither concentration needs to be known. Or measure the pH of an acid of known c
 - Writing [H⁺] = Ka × [A⁻]/[HA] with the ratio upside down.
 - Reading the pH at the equivalence point and calling it pKa: it is the pH at half that volume.
 
+## Frequently asked questions
+
+**Which Edexcel IAL Chemistry outcomes does this guide cover?**
+It covers outcomes 14.15 to 14.23, the second half of Topic 14 Acid-base Equilibria in the Pearson Edexcel International Advanced Level Chemistry specification (YCH11), including Core Practical 11.
+
+**How do you calculate the pH of a buffer made by partial neutralisation?**
+Work out the moles of weak acid left and the moles of salt formed after the reaction, then use [H⁺] = Ka × [HA]/[A⁻] and take −log₁₀[H⁺]. Using starting moles instead of moles left is a common mistake.
+
+**How do you make a buffer of a chosen pH?**
+Convert the target pH to [H⁺], then rearrange Ka = [H⁺][A⁻]/[HA] to find the salt concentration needed, and convert that to a mass using the volume and Mr.
+
+**What does the half-way point tell you for a weak base titrated with strong acid?**
+At half the equivalence volume, the pH equals the pKa of the base's conjugate acid, for example NH₄⁺ for ammonia.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, published by Pearson Education Limited. Topic 14: Acid-base Equilibria, outcomes 14.15 to 14.23, including Core Practical 11.

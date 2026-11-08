@@ -12,10 +12,12 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "quantitative-chemistry-8462"
-description: "Conservation of mass, relative formula mass, chemical measurements, concentration, percentage yield and atom economy, and (Higher Tier) moles, reacting masses, limiting reactants, concentrations in mol/dm3 and volumes of gases -- the full content of Topic 4.3 for AQA GCSE Chemistry (8462)."
+description: "AQA GCSE Chemistry 8462 Quantitative chemistry guide: conservation of mass, Mr, concentration, yield, atom economy and Higher tier moles and gas volumes."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
@@ -231,3 +233,20 @@ reaction's chemistry) -- they answer different questions and are calculated diff
   economy, stating clearly what each calculation actually measures.
 - (Higher Tier) Calculate the theoretical mass of product for a percentage yield question, and use
   concentrations in mol/dm3 and the 24 dm3 molar gas volume at room temperature and pressure.
+
+## Frequently asked questions
+
+**Which paper is Quantitative chemistry on in AQA GCSE Chemistry 8462?**
+Quantitative chemistry is section 4.3, one of Topics 1 to 5 assessed on Paper 1. It is the qualification's main calculation-based topic, and its mole ideas are used in later topics.
+
+**Why does mass seem to decrease when a metal carbonate is heated?**
+Heating a metal carbonate in an open system releases carbon dioxide gas, which escapes, so the solid's measured mass falls. Total mass is still conserved once the escaped gas is included.
+
+**What is the difference between percentage yield and atom economy?**
+Percentage yield compares the product actually obtained with the theoretical maximum, so it reflects practical losses. Atom economy measures how much of the reactant mass ends up as the useful product according to the balanced equation.
+
+**How do you calculate a reacting mass using moles?**
+Convert the given mass to moles, use the mole ratio from the balanced equation, then convert back to mass using Mr or Ar. This reacting-mass method is Higher tier only.
+
+**What volume does one mole of gas occupy at room temperature and pressure?**
+One mole of any gas occupies 24 dm³ at room temperature and pressure. Gas volume calculations are Higher tier only.

@@ -260,6 +260,20 @@ The same two assumptions apply. Here [H⁺] is about 4% of [HA], so treating [HA
 
 Try the [pH, Ka and Kw practice set](/resources/edexcel-ial-chemistry-acid-base-equilibria-ph-ka-and-kw-practice/) next, and keep the [condensed notes](/resources/edexcel-ial-chemistry-acid-base-equilibria-ph-ka-and-kw-revision-notes/) for the last weeks before the Unit 4 exam. The free [diagnostics](/diagnostics/) will show which topics need more work.
 
+## Frequently asked questions
+
+**Can nitric acid act as a base?**
+Yes. Acid and base describe what a species does in a particular reaction; in a mixture with concentrated sulfuric acid, nitric acid accepts a proton and acts as a base.
+
+**How many decimal places should pH be given to?**
+Give pH to two decimal places unless told otherwise, and give [H⁺] to three significant figures. These are the conventions used in this Edexcel IAL Chemistry guide.
+
+**How do you calculate the pH of a weak acid from its pKa?**
+Convert pKa to Ka, use [H⁺]² = Ka × [HA], take the square root and then find −log₁₀[H⁺]. Check that only a small percentage of the acid has dissociated, so the approximation holds.
+
+**What assumptions are made in weak-acid pH calculations?**
+It is assumed that [H⁺] equals [A⁻], and that the equilibrium concentration of HA is approximately its starting concentration. State clearly which concentration is assumed equal to which.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited. Pages in this set teach Topic 14: Acid-base Equilibria (Unit 4), outcomes 14.1 to 14.14.

@@ -17,7 +17,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on Group 2 reactivity, solubility trends and thermal stability for AS Chemistry."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -98,6 +100,20 @@ Related: [Group 2 revision notes](/resources/as-chem-group2-revision-notes/)
 - Treating barium's slow reaction with sulfuric acid as evidence that barium is less reactive — it is a solubility effect (BaSO₄ coating the metal), not a reactivity trend, and barium is in fact the most reactive Group 2 metal covered.
 - At A Level, explaining thermal stability of nitrates without the polarising-power argument; at either level, forgetting that both carbonates and nitrates follow the same trend for the same underlying reason.
 - Missing one of the two confirming observations (brown gas, relighting splint) when asked to describe how a nitrate decomposition is confirmed experimentally.
+
+## Frequently asked questions
+
+**What are the common mistakes on Group 2 solubility questions?**
+The most common mistake is reversing the two trends: Group 2 hydroxides become more soluble down the group, while Group 2 sulfates become less soluble.
+
+**Why does barium's reaction with dilute sulfuric acid stop quickly?**
+Barium sulfate is insoluble, so it forms a coating on the surface of the barium that stops further reaction. This is a solubility effect, not evidence that barium is less reactive.
+
+**Why do you add dilute hydrochloric acid before barium chloride in the sulfate test?**
+Acidifying first removes carbonate ions, which would otherwise also give a white precipitate with barium chloride and cause a false positive.
+
+**What observations confirm the decomposition of a Group 2 nitrate?**
+A brown gas, nitrogen dioxide, is given off, and a glowing splint relights because oxygen is also produced. Questions often expect both observations.
 
 ## Related reactions worth knowing alongside these
 

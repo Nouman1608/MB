@@ -160,3 +160,17 @@ Termination: any two radicals combining, e.g. `•CH₃ + Cl• → CH₃Cl` [1]
 Both bromine water and cold dilute acidified KMnO₄ decolourise in the presence of a C=C double bond, which is why either can be used to distinguish an alkene from an alkane — the key is that alkanes give **no observable change** with either reagent, since their C–C and C–H bonds have no accessible pi electrons for the oxidant or electrophile to attack.
 
 For the full mechanisms and explanations behind these reactions, see the [Hydrocarbons: Alkanes and Alkenes study guide](/resources/as-hydrocarbons-alkanes-and-alkenes/); for condensed recall notes covering the same reaction table, see the [Alkanes and Alkenes revision notes](/resources/as-chem-hydrocarbons-revision-notes/).
+
+## Frequently asked questions
+
+**Why are alkanes relatively unreactive?**
+Alkanes contain only strong C–C and C–H sigma bonds, which are non-polar, so there is no δ+ centre for nucleophiles or electrophiles to attack. This is part of the Cambridge 9701 AS hydrocarbons content.
+
+**What mechanism does an alkene follow with hydrogen bromide?**
+Alkenes react with hydrogen bromide by electrophilic addition. The major product is the one formed through the more stable carbocation, so answers should explain carbocation stability rather than just quoting Markovnikov's rule.
+
+**What are the common mistakes in free-radical substitution answers?**
+Common errors are writing the initiation step without UV light and forgetting that each propagation step must regenerate a radical. Each stage needs correct equations.
+
+**What is the difference between the bromine water and acidified manganate(VII) tests for alkenes?**
+Both detect a C=C bond. Bromine water is decolourised from orange-brown to colourless, while cold dilute acidified potassium manganate(VII) changes from purple to colourless and forms a diol.

@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Condensed AQA GCSE Chemistry 8462 Energy changes notes: exo vs endo, reaction profiles, bond energy method, cells, fuel cells and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -292,6 +294,20 @@ When a question gives you data about a product and asks you to evaluate it, cove
 - Describing a battery as a single cell, or saying cells are joined "in parallel" to raise the voltage.
 - Saying a rechargeable battery is "refilled" rather than that its reactions are reversed by an external current.
 - Half equations where the electrons or charges do not balance.
+
+## Frequently asked questions
+
+**What is the difference between a cell and a battery?**
+A cell contains chemicals which react to produce electricity. A battery is two or more cells connected in series, which gives a greater voltage.
+
+**Do you need to calculate energy changes with mcΔT for AQA GCSE Chemistry 8462?**
+No. The 8462 specification asks you to measure and report the temperature change in required practical 4, not to calculate energy changes from mass and temperature change.
+
+**What labels does a reaction profile need?**
+A reaction profile needs the energy levels of the reactants and products, an arrow for the activation energy, an arrow for the overall energy change and labelled axes. Missing any of these labels can lose marks.
+
+**How does a hydrogen fuel cell work?**
+A fuel cell is supplied with a fuel such as hydrogen and with oxygen or air. The fuel is oxidised electrochemically to produce a potential difference.
 
 ## Official syllabus
 

@@ -190,6 +190,20 @@ Also creditworthy in place of a missing point: an overall statement that sodium 
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Is Properties of transition metals Higher tier only in AQA GCSE Chemistry 8462?**
+No. Section 4.1.3 is part of Topic 1, examined on Paper 1, and none of it is Higher tier only. Every question on this page suits both tiers.
+
+**What are the three typical properties of transition metals?**
+Many transition metals form ions with different charges, form coloured compounds and are useful as catalysts. Do not mix these up with the physical comparisons with Group 1.
+
+**How do you answer a "compare" question about sodium and iron?**
+Make paired comparisons, naming both metals or using comparative words such as higher, denser or less vigorous. Describing only one metal does not count as a comparison.
+
+**How do you show a powder is a catalyst from experimental data?**
+Show that the reaction is faster with the powder than without it and that the mass of the powder is unchanged at the end. A substance that speeds up a reaction but is used up is a reactant.
+
 ## Official syllabus
 
 AQA GCSE Chemistry (8462) specification, for teaching from September 2016, GCSE exams June 2018 onwards, version 1.1, published by AQA -- section 4.1.3 Properties of transition metals (4.1.3.1 and 4.1.3.2).

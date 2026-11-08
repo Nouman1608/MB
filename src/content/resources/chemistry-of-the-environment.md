@@ -28,10 +28,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "chemistry-of-the-environment"
     subtopic: "air-quality-and-climate"
-description: "Testing and treating water, NPK fertilisers, and the sources and effects of air pollutants including the greenhouse effect, for Cambridge IGCSE 0620 and O Level 5070."
+description: "Cambridge IGCSE 0620 and O Level 5070 guide to testing and treating water, NPK fertilisers, air pollutants and their effects, and the greenhouse effect."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
@@ -258,6 +260,20 @@ re-emission), and how catalytic converters work
 - Strategies to reduce climate change and acid rain
 - Photosynthesis word equation, and *(0620 Extended, 5070 required)* the
 balanced symbol equation
+
+## Frequently asked questions
+
+**Which syllabus topic does this environment guide cover?**
+It covers Topic 10, Chemistry of the environment, subtopics 10.1 Water, 10.2 Fertilisers and 10.3 Air quality and climate, for Cambridge IGCSE Chemistry 0620 and Cambridge O Level Chemistry 5070.
+
+**How do you test whether water is pure?**
+Measure its melting and boiling points: pure water melts at 0 °C and boils at 100 °C. The cobalt chloride and copper sulfate tests only show that water is present, not that it is pure.
+
+**What does each stage of water treatment do?**
+Sedimentation and filtration remove solids, carbon removes tastes and odours, and chlorination kills microbes. Each step does one job, and swapping their purposes loses marks.
+
+**What is the difference between complete and incomplete combustion products?**
+Complete combustion, with enough oxygen, gives carbon dioxide. Incomplete combustion, with too little oxygen, gives carbon monoxide and/or particulates instead.
 
 ## Related resources
 

@@ -12,7 +12,9 @@ order: 1
 description: "0620 IGCSE Chemistry past papers guide: grade thresholds and examiner report notes for every series from March 2020 to November 2025."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -611,6 +613,23 @@ Official documents: [past papers, mark schemes and examiner report](https://www.
 5. Re-test yourself. Use the free [Core diagnostic](/practice/0620/diagnostic/core/) or [Extended diagnostic](/practice/0620/diagnostic/extended/) (all subjects are on the [diagnostics page](/diagnostics/)), and the [0620 self-check question bank](/practice/0620/).
 6. Compare your raw mark with the thresholds for that series only as a rough guide. For June 2026 thresholds for our main syllabuses, see [grade thresholds](/grade-thresholds/).
 7. If you want a teacher to go through your papers with you, [book a free trial lesson](/trial/).
+
+## Frequently asked questions
+
+**Where can I find Cambridge IGCSE Chemistry 0620 past papers?**
+Cambridge publishes recent papers, mark schemes, examiner reports and grade thresholds on the 0620 past-papers page. Older series are available to schools through the School Support Hub.
+
+**Which 0620 papers should I sit when practising a series?**
+Sit the papers that match your entry, one from each pair: Paper 1 or 2, Paper 3 or 4, and Paper 5 or 6. Then mark them strictly with the official mark scheme.
+
+**Which syllabus were older 0620 papers set on?**
+The current syllabus is the 2026–2028 version. Papers from March 2023 to November 2025 were set on the 2023–2025 syllabus, and papers from 2020 to 2022 on the version before that, so check the front cover before relying on a question.
+
+**What mistakes do 0620 examiners report most often?**
+Repeated issues include giving an ion the electron configuration of its atom, assuming a 1:1 mole ratio, saying concentrations are equal at equilibrium rather than constant, and explaining rate as "more collisions" rather than more frequent collisions.
+
+**Can grade thresholds tell me what mark I need next time?**
+No. Thresholds change every series and should only be used as a rough guide for the series they belong to, never to predict future ones.
 
 ## About these notes
 

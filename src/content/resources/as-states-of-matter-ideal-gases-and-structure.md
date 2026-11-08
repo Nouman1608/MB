@@ -17,10 +17,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-states-of-matter"
     subtopic: "as-bonding-and-structure"
-description: "The ideal gas equation pV = nRT, and the four types of giant/molecular lattice structure and how they determine physical properties, for Cambridge International AS & A Level Chemistry 9701."
+description: "The ideal gas equation pV = nRT and the four lattice structure types, and how they decide physical properties, for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
@@ -174,6 +176,20 @@ conductivity
 - Diamond vs graphite conductivity, and why they differ
 - Deducing structure/bonding type from melting point, conductivity and
 solubility data
+
+## Frequently asked questions
+
+**What units are used in pV = nRT?**
+Pressure must be in Pa, volume in m³ and temperature in K. Using kPa, dm³ or °C directly gives an answer wrong by a power of ten or by an offset of 273.
+
+**Do iodine and ice have weak bonds?**
+The covalent bonds within iodine and water molecules are strong; only the intermolecular forces between the molecules are weak. Melting only has to overcome these weaker forces.
+
+**Why does graphite conduct when other giant covalent structures do not?**
+In graphite each carbon atom has one delocalised outer electron, and these electrons can move within each layer. Most other giant covalent structures, such as diamond, have no mobile electrons.
+
+**Which syllabus points does this Cambridge 9701 guide cover?**
+It covers subtopics 4.1, The gaseous state: ideal and real gases and pV = nRT, and 4.2, Bonding and structure, from Topic 4 of Cambridge International AS & A Level Chemistry 9701.
 
 ## Related resources
 

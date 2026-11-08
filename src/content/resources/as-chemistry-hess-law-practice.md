@@ -20,7 +20,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on Hess cycles, bond enthalpy and calorimetry for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -140,3 +142,17 @@ Any three: **heat lost to the surroundings** [1]; **incomplete combustion** prod
 - Omitting "one mole of water" from the neutralisation definition, or giving the definition of enthalpy of formation instead by mistake.
 
 Questions 6 and 7 draw on the standard enthalpy of neutralisation definition and the combustion-data Hess cycle from the [Hess's Law and Enthalpy Cycles revision notes](/resources/as-chemistry-hess-law-revision-notes/) — the formation-data direction used in question 4 is the opposite cycle, so question 7 exercises the direction question 4 doesn't reach.
+
+## Frequently asked questions
+
+**What should you use for the mass in q = mcΔT in a calorimetry question?**
+Use the mass of the water being heated, not the mass of the fuel burned. Then divide q by the moles of fuel and add a minus sign to get ΔH for an exothermic reaction.
+
+**How do formation and combustion Hess cycles differ in calculation?**
+With formation data, ΔH equals the sum for the products minus the sum for the reactants. With combustion data, it is the reactants minus the products, because the cycles subtract in opposite directions.
+
+**Why is the standard enthalpy of formation of oxygen zero?**
+O₂ is an element in its standard state, and the standard enthalpy of formation of any element in its standard state is zero by definition.
+
+**What are good improvements to a calorimetry experiment?**
+Give specific improvements with reasons, such as reducing heat loss to the surroundings, rather than vague ones like "be more careful". Vague improvements do not earn credit in Cambridge 9701 questions.

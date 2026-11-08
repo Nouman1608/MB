@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Study guide for AQA GCSE Chemistry 8462 Topic 10: potable water, waste water, LCAs, recycling, corrosion, alloys, materials, Haber process and NPK."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -314,6 +316,20 @@ mass of N = 2 × 14 = 28
 ## Next steps
 
 Go to the [revision notes](/resources/aqa-gcse-chemistry-8462-using-resources-revision-notes/) for a condensed version and self-test, then try the [practice questions](/resources/aqa-gcse-chemistry-8462-using-resources-practice/). For a course-wide check, take a [free 10-minute diagnostic](/diagnostics/).
+
+## Frequently asked questions
+
+**Which paper is Using resources assessed on in AQA GCSE Chemistry 8462?**
+Topic 10 is assessed on Paper 2, which can also draw on sections 4.1 to 4.3. Both tiers sit it, with alternative methods of extracting metals marked Higher tier only.
+
+**What are the conditions for the Haber process?**
+Nitrogen and hydrogen are compressed to about 200 atmospheres and passed over an iron catalyst at about 450 °C. The ammonia is cooled so it liquefies, and unreacted gases are recycled.
+
+**Why do thermosetting polymers not melt when heated?**
+Thermosetting polymers have cross-links between their polymer chains, so they do not soften on heating. Thermosoftening polymers have no cross-links and melt when heated.
+
+**How do you compare products in a life cycle assessment?**
+Use the data to calculate a fair comparison, such as energy per use, and refer to each stage of the product's life. For example, a bottle used many times can have a lower energy cost per use than a single-use one.
 
 ## Official syllabus
 

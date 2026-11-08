@@ -20,10 +20,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-chemical-bonding"
     subtopic: "as-metallic-bonding"
-description: "Electronegativity trends, the electrostatic models of ionic and metallic bonding, and using electronegativity to predict bond type, for Cambridge International AS & A Level Chemistry 9701."
+description: "Electronegativity trends, ionic and metallic bonding as electrostatic attraction, and predicting bond type, for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
@@ -168,6 +170,20 @@ radius, shielding), and the period/group trends
 electron transfers
 - Metallic bonding definition: electrostatic attraction between metal
 cations and delocalised electrons
+
+## Frequently asked questions
+
+**What is electronegativity in Cambridge 9701 Chemistry?**
+Electronegativity is the power of an atom to attract the bonding pair of electrons in a covalent bond. It is not a general measure of how reactive an atom is.
+
+**Why does electronegativity increase across a period?**
+Nuclear charge increases across the period while shielding stays roughly constant, so the bonding pair is attracted more strongly. Explaining the trend with "shielding increases" is a common mistake.
+
+**Is there a fixed electronegativity difference that makes a bond ionic?**
+No. Ionic and covalent bonding are not a strict binary decided by a fixed cutoff. A larger electronegativity difference makes a bond more ionic in character.
+
+**What is metallic bonding?**
+Metallic bonding is the electrostatic attraction between positive metal ions and delocalised electrons. It is subtopic 3.3 of Cambridge International AS & A Level Chemistry 9701.
 
 ## Related resources
 

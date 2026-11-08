@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Eleven original AQA GCSE Chemistry 8462 questions on rates, collision theory, catalysts and equilibrium, with every mark shown in the worked answers."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -201,6 +203,20 @@ reasonable yield [1].
 - [Printable checklist](/checklists/aqa/gcse/chemistry/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Which rate and equilibrium questions are Higher tier only in AQA GCSE Chemistry 8462?**
+Questions on changing conditions at equilibrium, which use Le Chatelier's Principle, are labelled Higher tier only. Rate calculations, collision theory, catalysts and the conditions for equilibrium are for both tiers.
+
+**What units should you use for a rate of reaction?**
+Use the unit of the quantity measured divided by time, for example cm³/s for a gas volume or g/s for a mass change. Missing units, or using cm³ for a mass-based rate, loses marks.
+
+**What wording do you need to explain the effect of temperature on rate?**
+Say that particles move faster, so collisions are more frequent and more energetic, and so more collisions have at least the activation energy. Writing just "more collisions" usually does not earn the marks.
+
+**Do reactions stop when they reach equilibrium?**
+No. At equilibrium in a closed system the forward and reverse reactions are still happening, but at exactly the same rate. Claiming the reactions stop is a common error.
 
 ## Official syllabus
 

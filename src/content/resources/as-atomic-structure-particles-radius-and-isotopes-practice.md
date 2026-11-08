@@ -17,10 +17,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-atomic-structure"
     subtopic: "as-isotopes"
-description: "Original exam-style practice questions with full worked answers on subatomic particles, deflection in an electric field, atomic/ionic radius trends and isotopes for Cambridge AS & A Level Chemistry 9701."
+description: "Original practice questions with worked answers for Cambridge AS & A Level Chemistry 9701 on subatomic particles, electric fields, radius trends and isotopes."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
@@ -136,3 +138,17 @@ Related: [Atomic Structure: Particles, Radius and Isotopes revision notes](/reso
 - Explaining the Group 1 radius trend by nuclear charge alone, without mentioning the extra shell.
 - Forgetting that Mg²⁺ loses a whole shell (not just electrons), which is why the radius drop is so large.
 - Missing one of the three possible Cl₂ relative molecular masses.
+
+## Frequently asked questions
+
+**Are these Cambridge 9701 atomic structure questions from past papers?**
+No. They are original exam-style questions with full worked answers, written for practice on subtopics 1.1 and 1.2 of Cambridge International AS & A Level Chemistry 9701.
+
+**How do you explain the atomic radius trend across Period 3?**
+Nuclear charge increases while electrons are added to the same outer shell, so shielding stays roughly constant and the outer electrons are pulled closer. Explaining the trend by "more shielding" is a common error.
+
+**How do you explain why atomic radius increases down Group 1?**
+Each element down the group has an extra electron shell, so the outer electron is further from the nucleus. Explaining the trend with nuclear charge alone, without the extra shell, loses marks.
+
+**Why is an Mg²⁺ ion so much smaller than a magnesium atom?**
+Forming Mg²⁺ removes the entire outer shell, so the remaining electrons are in a shell closer to the nucleus. Remembering that a whole shell is lost explains the large drop in radius.

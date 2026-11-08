@@ -11,10 +11,12 @@ qualifications: ["gcse"]
 syllabusCodes: ["8462"]
 syllabusSeries: "For first teaching 2016"
 order: 1
-description: "Paper-by-paper exam preparation for AQA GCSE Chemistry 8462 -- Foundation/Higher tier strategy, required-practicals revision, calculation technique, a worked mole-ratio answer and a checklist."
+description: "Exam preparation for AQA GCSE Chemistry 8462: both papers, tier choice, required practicals, calculation technique and a worked Higher tier mole example."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
@@ -121,6 +123,23 @@ numerical answer is wrong, but only if that working is actually written down. 4.
 equation's ratio (here 1:1) converts moles of the reactant into moles of the product -- skipping this
 step and using the reactant's moles directly with the product's Mr would give an incorrect mass
 whenever the ratio is not 1:1.
+
+## Frequently asked questions
+
+**How many papers are there in AQA GCSE Chemistry 8462?**
+There are two written papers. Paper 1 covers Topics 1 to 5 and Paper 2 covers Topics 6 to 10; each is 1 hour 45 minutes, worth 100 marks and 50% of the GCSE.
+
+**What grades can you get on Foundation and Higher tier?**
+Foundation tier targets grades 1 to 5 and Higher tier targets grades 4 to 9. Both tiers cover the same topic list at different levels of demand.
+
+**Is there a separate practical exam for AQA GCSE Chemistry?**
+No. The required practicals are assessed within the written papers, and there is no separate practical mark. Questions can ask you to evaluate an unfamiliar variation of a required practical.
+
+**Do you get marks for working if your final answer is wrong?**
+Method marks can be awarded for correct working even when the final numerical answer is wrong, but only if the working is written down. Show every step in any "calculate" question.
+
+**What is the difference between "describe" and "explain" in chemistry questions?**
+"Describe" asks for an accurate account of what happens without saying why. "Explain" asks for a reasoned account of why something happens.
 
 *Written against AQA GCSE Chemistry 8462 (specification-at-a-glance, verified 2026-08-28). The worked
 scenario above is an original example written for this resource, not a reproduction of any official

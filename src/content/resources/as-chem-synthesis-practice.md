@@ -17,7 +17,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on functional group interconversions and multi-step routes for AS Chemistry."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -119,3 +121,17 @@ them.
 - Confusing reflux with distillation.
 - Using aqueous rather than ethanolic conditions for a nitrile or elimination.
 - Routes that change the number of carbons with no reaction accounting for it.
+
+## Frequently asked questions
+
+**How do you know when a synthesis route needs a nitrile step?**
+Compare the number of carbon atoms in the starting material and the product. If a carbon must be added, a nitrile step using cyanide is needed, followed by hydrolysis or reduction.
+
+**Why do aqueous and ethanolic NaOH give different products with a halogenoalkane?**
+In aqueous solution hydroxide acts as a nucleophile and gives substitution to an alcohol. In ethanolic solution it acts as a base and gives elimination to an alkene.
+
+**What do examiners expect when a synthesis step says "oxidise"?**
+Give both the reagent, such as acidified potassium dichromate(VI), and the conditions, such as distillation or reflux. Naming the right reagent but omitting the condition that decides the product loses marks.
+
+**Why does adding steam to but-1-ene not give mainly butan-1-ol?**
+Addition goes through a carbocation intermediate, and the secondary carbocation is more stable than the primary one. The major product therefore comes from the secondary carbocation.

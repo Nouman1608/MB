@@ -237,6 +237,20 @@ Exam questions often give a use and ask which property explains it. Match the us
 - Claiming that **all** transition elements are catalysts or form coloured compounds.
 - Forgetting brackets in formulae such as Fe₂(SO₄)₃.
 
+## Frequently asked questions
+
+**Which transition metals do you need to know for AQA GCSE Chemistry 8462?**
+The specification uses chromium, manganese, iron, cobalt, nickel and copper as examples. Giving a metal outside this list, or a Group 2 metal, is a common error.
+
+**What does the Roman numeral in iron(III) chloride mean?**
+The Roman numeral gives the charge on the metal ion, so iron(III) means Fe³⁺. Leaving the numeral out of iron and copper compound names loses marks.
+
+**What colours are iron(II) and iron(III) compounds?**
+Iron(II) compounds are typically green and iron(III) compounds are orange-brown. Swapping these colours is a frequent mistake.
+
+**Do all transition metals form coloured compounds and act as catalysts?**
+No. The specification says many transition metals have these properties, not all. Claiming that all of them do is marked as an error.
+
 ## Official syllabus
 
 AQA GCSE Chemistry (8462) specification, for teaching from September 2016, GCSE exams June 2018 onwards, version 1.1, published by AQA -- section 4.1.3 Properties of transition metals (4.1.3.1 and 4.1.3.2).

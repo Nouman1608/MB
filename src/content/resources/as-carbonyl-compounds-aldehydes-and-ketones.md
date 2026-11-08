@@ -14,10 +14,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-carbonyl-compounds"
     subtopic: "as-aldehydes-and-ketones"
-description: "Producing and reducing aldehydes and ketones, the nucleophilic addition mechanism with HCN, and the tests that identify and distinguish them, for Cambridge International AS & A Level Chemistry 9701."
+description: "Aldehydes and ketones for Cambridge AS & A Level Chemistry 9701: how they form and are reduced, nucleophilic addition of HCN and the tests that tell them apart."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
@@ -170,6 +172,20 @@ curly arrows
 aldehydes only
 - Iodoform test: positive for a CH₃CO– group specifically, in either
 functional group
+
+## Frequently asked questions
+
+**Can 2,4-DNPH tell an aldehyde from a ketone?**
+No. 2,4-DNPH reacts with any carbonyl compound, so it only confirms that a C=O group is present. Fehling's solution, Tollens' reagent or ease of oxidation is needed to tell aldehydes from ketones.
+
+**What type of mechanism is the reaction of a carbonyl compound with HCN?**
+It is nucleophilic addition, part of subtopic 17.1 of Cambridge International AS & A Level Chemistry 9701. The cyanide ion acts as the nucleophile and attacks the carbon of the C=O group.
+
+**How should curly arrows be drawn in the nucleophilic addition mechanism?**
+Each curly arrow must start at an electron pair, either a lone pair or the π bond, and point to where those electrons end up. Starting the C=O arrow from the carbon instead of the π bond is a common error.
+
+**Do all ketones give a negative iodoform test?**
+No. A positive iodoform test depends on the structure: carbonyl compounds containing the CH₃CO– group give a positive result, whether they are aldehydes or ketones.
 
 ## Related resources
 

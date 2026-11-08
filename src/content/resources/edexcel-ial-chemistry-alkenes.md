@@ -261,6 +261,20 @@ Limonene, C₁₀H₁₆ (Mr 136.0), from orange peel. A 0.544 g sample reacts e
 
 Summarise with the [alkenes revision notes](/resources/edexcel-ial-chemistry-alkenes-revision-notes/), then try the [alkenes practice questions](/resources/edexcel-ial-chemistry-alkenes-practice/) and read [preparing for the Edexcel IAL Chemistry units](/resources/edexcel-ial-chemistry-exam-preparation/).
 
+## Frequently asked questions
+
+**Which Edexcel IAL Chemistry outcomes cover alkenes?**
+Alkenes are Topic 5 of the Pearson Edexcel International Advanced Level Chemistry specification (YCH11), in Unit 1, learning outcomes 5.1 to 5.8.
+
+**Why is the cis–trans system not always enough for naming alkene isomers?**
+When the groups on the double-bond carbons are all different, "cis" can be ambiguous. The E–Z system uses atomic-number priorities on each carbon, so it always gives a clear name.
+
+**How do you work out the number of C=C bonds from a bromine titration?**
+Find the moles of the compound and the moles of bromine that react. One Br₂ adds across each C=C, so the mole ratio of Br₂ to compound gives the number of double bonds.
+
+**How do you draw the repeat unit of an addition polymer?**
+Open the C=C into a single bond, keep every substituent in place, and draw bonds extending through the brackets with n outside. Leaving the C=C in the repeat unit is a common mistake.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited -- Unit 1, Topic 5: Alkenes, outcomes 5.1 to 5.8.

@@ -227,6 +227,19 @@ At very high dilution the weak acid's rise creeps above 0.5, because a larger fr
   <figcaption>In NH3 + H2O the acid H2O gives a proton to the base NH3; each acid and its conjugate base differ by one H+.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is Ka?**
+Ka is the acid dissociation constant, Ka = [H⁺][A⁻]/[HA] at equilibrium for HA ⇌ H⁺ + A⁻. Writing the general definition as [H⁺]²/[HA] is a mistake, as that is only an approximation used in calculations.
+
+**What is a conjugate acid–base pair?**
+A conjugate pair is two species that differ by one H⁺. H₂SO₄ and SO₄²⁻ are not a conjugate pair because they differ by two protons.
+
+**Why must a weak acid's dissociation be shown with ⇌?**
+The equilibrium sign shows that a weak acid is only partly dissociated in water. Using a one-way arrow implies full dissociation, which is wrong for a weak acid.
+
+**Can you always use pH = 14 − pOH?**
+Only when pKw is 14.00, which is true at 298 K. At other temperatures use the pKw value for that temperature.
 
 ## Official syllabus
 

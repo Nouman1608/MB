@@ -353,6 +353,20 @@ iodine, and unable to displace iodine from potassium iodide.
 - Writing that noble gases are unreactive "because they are gases". The reason is a stable electron arrangement.
 - Giving bromine water and potassium chloride a colour change. There is no reaction.
 
+## Frequently asked questions
+
+**Did Mendeleev discover gallium and germanium?**
+No. Mendeleev left gaps in his table and predicted the properties of undiscovered elements; other scientists later found elements such as gallium and germanium that fitted those gaps.
+
+**Why is tellurium placed before iodine even though it has a higher relative atomic mass?**
+The modern table orders elements by atomic number, and tellurium has fewer protons than iodine. Tellurium has heavier isotopes, which gives it a higher average relative atomic mass.
+
+**Is there a reaction when bromine water is added to potassium chloride?**
+No. A halogen only displaces a less reactive halogen from its salt, and bromine is less reactive than chlorine, so there is no reaction and no colour change.
+
+**What is the formula of a Group 1 halide such as sodium chloride?**
+Group 1 ions have a 1+ charge and halide ions have a 1− charge, so the formula is NaCl, not Na₂Cl or NaCl₂. The same pattern gives KBr and LiI.
+
 ## Official syllabus
 
 AQA GCSE Chemistry (8462) specification, Version 1.1 (October 2019), for teaching from September 2016 and exams

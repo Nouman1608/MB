@@ -178,6 +178,20 @@ Data for this set: H = 1.0, C = 12.0, N = 14.0, O = 16.0, Cl = 35.5, Ca = 40.1. 
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What general formula do cycloalkenes have?**
+A cycloalkene with one ring and one C=C has the general formula CₙH₂ₙ₋₂, not CₙH₂ₙ. Using the open-chain alkene formula for a cycloalkene is a common error.
+
+**How are E and Z isomers assigned?**
+On each carbon of the C=C, give priority to the attached atom with the higher atomic number. If the two higher-priority groups are on the same side the isomer is Z; on opposite sides it is E.
+
+**What must electrophilic addition mechanisms show?**
+Show the δ+ and δ− dipole on the attacking molecule, curly arrows starting from the C=C or a bond, the charged carbocation, and the lone pair on the negative ion. Missing any of these loses marks.
+
+**What conditions are needed for hydration and hydrogenation of alkenes?**
+Hydration needs an acid catalyst, and hydrogenation needs a nickel catalyst. Leaving out the catalyst is a common way to lose marks in Edexcel IAL Chemistry Topic 5.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited -- Unit 1, Topic 5: Alkenes, outcomes 5.1 to 5.8.

@@ -20,7 +20,9 @@ syllabusTopics:
 description: "Condensed recall notes on the ideal gas equation, real gas deviations and the four lattice structures for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -114,3 +116,17 @@ Melting a simple molecular solid overcomes only the **intermolecular forces** �
 7. An unknown white solid has a very high melting point, doesn't conduct as a solid, conducts when molten, and dissolves in water. Deduce its structure type.
 
 **Answers:** 1. pV = nRT, with p in Pa, V in m³, n in mol, T in K, R = 8.31 J K⁻¹ mol⁻¹. 2. Any two: negligible particle volume; no intermolecular forces; perfectly elastic collisions; constant random motion. 3. High pressure and low temperature — particle volume becomes significant relative to the container, and intermolecular attractions are no longer negligible. 4. Iodine is simple molecular, so melting overcomes only weak intermolecular forces; diamond is giant covalent, requiring many strong covalent bonds to be broken. 5. Each carbon in graphite bonds to only three others, leaving one delocalised electron per atom free to move along the layers; in diamond all four outer electrons are used in covalent bonds. 6. n = pV/RT = (101 000 × 2.24 × 10⁻³) ÷ (8.31 × 273) ≈ 0.0997 mol; Mr = 4.40 ÷ 0.0997 ≈ 44 g mol⁻¹. 7. Giant ionic — a high melting point rules out simple molecular, conducting only when molten rules out giant metallic and giant molecular, and water solubility plus molten conductivity signals mobile ions being released.
+
+## Frequently asked questions
+
+**What are the assumptions of an ideal gas?**
+Assumptions include negligible particle volume, no intermolecular forces, and perfectly elastic collisions between molecules in random motion. These are part of the Cambridge International AS & A Level Chemistry 9701 states of matter content.
+
+**Do real gases deviate from ideal behaviour at high temperature?**
+No. Real gases deviate most at low temperature and high pressure. Claiming deviation at high temperature is a common exam trap.
+
+**Do covalent bonds break when a molecular solid melts?**
+No. Melting a simple molecular solid overcomes the weak intermolecular forces between molecules. The covalent bonds within the molecules remain intact.
+
+**Why do ionic solids not conduct electricity?**
+In a solid ionic lattice the ions are held in fixed positions and cannot move. Ionic substances conduct only when melted or dissolved, when the ions are free to move.

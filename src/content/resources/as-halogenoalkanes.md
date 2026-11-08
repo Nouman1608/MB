@@ -17,7 +17,9 @@ syllabusTopics:
 description: "SN1 and SN2 nucleophilic substitution, elimination, and the reactivity trend across halogenoalkanes, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
@@ -171,6 +173,20 @@ nitrile; NH₃/ethanol → amine; AgNO₃(aq)/ethanol → halide identification
 - SN1 vs SN2: mechanism, the inductive effect of alkyl groups, and which
 halogenoalkane class favours which (rate dependence is A Level extension)
 - C–X bond strength trend and its effect on reactivity and the AgNO₃ test
+
+## Frequently asked questions
+
+**Why do primary halogenoalkanes react by SN2 and tertiary ones by SN1?**
+SN2 needs an unhindered back side for the nucleophile to attack, which primary halogenoalkanes have. SN1 needs a stabilised carbocation intermediate, which tertiary halogenoalkanes form most easily.
+
+**What decides whether hydroxide gives substitution or elimination?**
+The solvent and conditions decide: aqueous NaOH gives substitution to an alcohol, while NaOH in ethanol gives mostly elimination to an alkene. The hydroxide ion is the same in both cases.
+
+**Why does reactivity increase from chloroalkanes to iodoalkanes?**
+The C–X bond gets weaker from C–Cl to C–Br to C–I, so the bond breaks more easily and nucleophilic substitution is faster. The aqueous silver nitrate test shows this order.
+
+**Which part of the Cambridge 9701 syllabus covers halogenoalkanes?**
+Halogenoalkanes are subtopic 15.1, in Topic 15 Halogen compounds of Cambridge International AS & A Level Chemistry 9701, and are AS Level content.
 
 ## Related resources
 

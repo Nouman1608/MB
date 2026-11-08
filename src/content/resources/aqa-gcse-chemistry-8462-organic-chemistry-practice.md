@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Eleven original AQA GCSE Chemistry 8462 Organic chemistry questions on crude oil, cracking, alkenes, alcohols, acids and polymers, with marked answers."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -186,6 +188,20 @@ Compound A reacts with steam to give compound B. B is oxidised to compound C, wh
 - [Printable AQA GCSE Chemistry checklist](/checklists/aqa/gcse/chemistry/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Which paper is Organic chemistry on in AQA GCSE Chemistry 8462?**
+Topic 7 Organic chemistry is examined on Paper 2 at Foundation and Higher tier. Condensation polymers and the weak-acid explanation for carboxylic acids are Higher tier only.
+
+**What colour change shows an alkene with bromine water?**
+Bromine water changes from orange to colourless when it is shaken with an alkene. Writing "clear" instead of "colourless" is a common way to lose the mark.
+
+**How do you explain fractional distillation for full marks?**
+Refer to boiling point, evaporation and condensation: the crude oil is evaporated, and the vapours condense at different heights in a column that is hotter at the bottom and cooler at the top. Explanations based on weight or density do not earn credit.
+
+**What is the difference between oxidising an alcohol and burning it?**
+Oxidising an alcohol produces a carboxylic acid, for example ethanol to ethanoic acid. Complete combustion of an alcohol produces carbon dioxide and water.
 
 ## Official syllabus
 

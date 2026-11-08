@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Condensed recall notes on the three types of chemical bond and ionic bonding by electron transfer for AQA GCSE Chemistry (8462), 4.2.1.1 and 4.2.1.2."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -136,6 +138,20 @@ Although 4.2.1.1 and 4.2.1.2 focus on bond *formation*, it is worth connecting t
 - List the two conventions (dots/crosses; outer shell only) required in a correct dot and cross diagram.
 - Explain, in two steps, how sodium chloride's ionic bond forms.
 - State the specific named force holding ions together in an ionic compound.
+
+## Frequently asked questions
+
+**What is an ionic bond?**
+An ionic bond is the strong electrostatic force of attraction between oppositely charged ions. In AQA GCSE Chemistry 8462 the ions form when electrons are transferred from a metal atom to a non-metal atom.
+
+**What electronic structures do magnesium and oxide ions have?**
+Magnesium loses two electrons to form Mg²⁺ and oxygen gains two to form O²⁻. Both ions then have the electronic structure of neon, a noble gas.
+
+**Why do ionic compounds have high melting points?**
+The strong electrostatic forces of attraction between oppositely charged ions act in all directions through the giant lattice. A lot of energy is needed to overcome these forces, so the melting point is high.
+
+**Why does chlorine form a 1− ion and not a 2− ion?**
+Chlorine is in Group 7 and has seven outer electrons, so it needs to gain only one electron to reach the electronic structure of argon. It therefore forms Cl⁻.
 
 ## Related resources
 

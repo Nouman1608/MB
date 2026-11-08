@@ -179,6 +179,20 @@ Before you start, revise from the [alcohols study guide](/resources/edexcel-ial-
 - Find your gaps with all free 10-minute [diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How do you classify an alcohol as primary, secondary or tertiary?**
+Look only at the carbon bonded to the –OH group and count how many carbons are attached to it. Classifying by branching elsewhere in the molecule is a common mistake in Edexcel IAL Chemistry Topic 10C questions.
+
+**What is observed when PCl₅ is added to a dry alcohol?**
+Steamy fumes of hydrogen chloride are given off, which turn damp blue litmus red or form white smoke with ammonia. The equation must include both POCl₃ and HCl.
+
+**Why can dehydration of an alcohol give more than one alkene?**
+If the C–OH carbon has two non-equivalent neighbouring carbons, a hydrogen can be lost from either one, giving different alkenes. Some of these can also exist as E and Z isomers.
+
+**Which tests distinguish an aldehyde from a carboxylic acid?**
+Benedict's solution is used to test for aldehydes, and sodium hydrogencarbonate fizzes with carboxylic acids. Using the wrong test for each is a common error.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11), Specification, Issue 1, September 2017, Pearson Education Limited. Topic 10: Organic Chemistry: Halogenoalkanes, Alcohols and Spectra, part 10C: Alcohols (outcomes 10.15 to 10.20, Core Practical 7).

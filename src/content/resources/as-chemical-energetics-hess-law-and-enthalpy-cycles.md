@@ -20,7 +20,9 @@ syllabusTopics:
 description: "Standard enthalpy changes, bond-energy calculations, and using Hess's law to construct enthalpy cycles, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
@@ -177,6 +179,20 @@ values don't match experiment exactly
 - Hess's law: constructing a cycle and choosing the correct route direction
 - Both cycle patterns: from enthalpies of formation, and from enthalpies of
 combustion
+
+## Frequently asked questions
+
+**What does Hess's law state?**
+Hess's law states that the total enthalpy change for a reaction is the same whatever route is taken, provided the initial and final conditions are the same. It is used to build enthalpy cycles in subtopic 5.2 of Cambridge International AS & A Level Chemistry 9701.
+
+**Why are bond-energy calculations only estimates?**
+Bond energies from a data book are usually averages across many compounds, so they give a good estimate of an enthalpy change rather than the precise experimental value.
+
+**Why do you need a negative sign in ΔH = −mcΔT/n?**
+A temperature rise means the reaction released energy, so ΔH is negative for an exothermic reaction. Omitting the negative sign gives the wrong sign for an otherwise correct answer.
+
+**How do you avoid sign errors in a Hess cycle using combustion data?**
+Follow the arrows: the route through the combustion products runs in the reverse direction to formation, so that part is subtracted, not added. Getting this sign wrong is the most common mistake.
 
 ## Related resources
 

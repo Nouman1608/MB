@@ -300,6 +300,20 @@ The links between metallic bonding and properties such as conductivity and malle
 2. Attempt the [practice questions](/resources/aqa-gcse-chemistry-8462-covalent-and-metallic-bonding-practice/), then mark them against the worked answers.
 3. Find wider gaps with the free [10-minute diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**Which paper are covalent and metallic bonding examined on in AQA GCSE Chemistry 8462?**
+Sections 4.2.1.4 and 4.2.1.5 sit in Topic 2, Bonding, structure, and the properties of matter, which is examined on Paper 1. Paper 1 is 1 hour 45 minutes, worth 100 marks and 50% of the GCSE.
+
+**Are covalent bonds weak because simple molecules have low melting points?**
+No. Covalent bonds are strong. Small molecular substances have low melting points because the forces between molecules are weak, not because the covalent bonds inside them are weak.
+
+**How do you work out a molecular formula from a ball and stick model?**
+Count the atoms of each element in the model, then write carbon first, hydrogen next and other elements after. Do not cancel the formula to a ratio: ethane is C₂H₆, not CH₃.
+
+**What causes the strong bonding in a metal such as magnesium?**
+Metal atoms lose their outer electrons, which become delocalised, leaving positive ions in a regular pattern. Strong electrostatic attraction between the positive ions and the delocalised electrons is the metallic bond.
+
 ## Official syllabus
 
 AQA GCSE Chemistry (8462) specification, for teaching from September 2016, GCSE exams June 2018 onwards, version 1.1, published by AQA -- sections 4.2.1.4 Covalent bonding and 4.2.1.5 Metallic bonding.

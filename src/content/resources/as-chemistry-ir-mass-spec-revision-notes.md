@@ -17,10 +17,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-analytical-techniques"
     subtopic: "as-mass-spectrometry"
-description: "Condensed recall notes on IR absorption, functional group identification, molecular ion, fragmentation and isotope patterns for Cambridge AS & A Level Chemistry 9701."
+description: "Revision notes for Cambridge AS & A Level Chemistry 9701 on IR absorptions, identifying functional groups, molecular ions, fragmentation and isotope peaks."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -143,3 +145,16 @@ Seeing two peaks two units apart in roughly equal height means **bromine**; a 3:
   <figcaption>Chlorine 3:1, bromine 1:1, and counting carbon atoms from M+1.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does the molecular ion peak show?**
+The molecular ion peak, at the highest m/e value apart from isotope peaks, gives the relative molecular mass of the compound. It is not necessarily the tallest peak.
+
+**What is the base peak in a mass spectrum?**
+The base peak is the tallest peak, caused by the most abundant ion. Reading the base peak as the molecular ion is an exam trap.
+
+**How do you calculate relative atomic mass from a mass spectrum?**
+Multiply each isotope's mass by its relative abundance, add the results and divide by the total abundance. This gives the weighted mean mass of the element's atoms.
+
+**What M+2 ratios show chlorine and bromine?**
+One chlorine atom gives M and M+2 peaks in about a 3:1 ratio, and one bromine atom gives about 1:1. Reversing these ratios is a common mistake in Cambridge 9701 questions.

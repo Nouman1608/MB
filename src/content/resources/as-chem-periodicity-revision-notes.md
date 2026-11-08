@@ -23,7 +23,9 @@ syllabusTopics:
 description: "Condensed recall notes on Period 3 trends and the reactions of the oxides and chlorides with water for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -124,3 +126,17 @@ NaCl dissolves unchanged; MgCl₂ and AlCl₃ dissolve to give increasingly acid
 8. An unknown Period-3-like element X has a strongly acidic oxide and a chloride that hydrolyses violently. Where in the period does X sit, and why?
 
 **Answers:** 1. Nuclear charge increases while electrons enter the same shell with roughly constant shielding, so the outer electrons are pulled in more strongly. 2. It has a giant covalent structure; melting requires breaking many strong covalent bonds throughout the lattice. 3. Al₂O₃ — it reacts with both acids and bases. 4. Violent hydrolysis producing misty fumes of hydrogen chloride and an acidic solution of about pH 2. 5. Magnesium hydroxide is only sparingly soluble, so few hydroxide ions enter solution. 6. Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O; Al₂O₃ + 2NaOH → 2NaAlO₂ + H₂O. 7. Al³⁺ is smaller and more highly charged than Mg²⁺, so it polarises coordinated water molecules more strongly, releasing more H⁺. 8. The right-hand side — a strongly acidic oxide indicates a non-metal, and a violently hydrolysing (covalent) chloride is typical of elements towards the right of a period, by analogy with Si and P.
+
+## Frequently asked questions
+
+**What pH does magnesium oxide give in water?**
+Magnesium oxide is only sparingly soluble, so its solution has a pH of about 9 to 10, not 13. This is a common exam trap in Cambridge 9701 periodicity questions.
+
+**What is observed when a covalent chloride is hydrolysed?**
+Covalent chlorides such as SiCl₄ react with water, giving an acidic solution and misty fumes of HCl. Leaving out the misty fumes is a common omission.
+
+**Why do Period 3 chlorides change from ionic to covalent across the period?**
+The difference in electronegativity between the element and chlorine shrinks across the period, so the bonding changes from ionic towards covalent.
+
+**How does oxidation number change across Period 3?**
+The oxidation number of each element in its oxide or chloride rises across the period, from +1 for sodium to +6 for sulfur in SO₃, because each element uses more of its outer-shell electrons in bonding.

@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Twelve original AQA GCSE Chemistry 8462 Using resources questions on water, LCAs, corrosion, alloys, polymers, Haber and NPK, with full mark schemes."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -198,6 +200,20 @@ Choose the best steel for (i) a kitchen sink and (ii) a car door panel. Give a r
 - [Printable checklist](/checklists/aqa/gcse/chemistry/)
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**What is the difference between potable water and pure water?**
+Potable water is safe to drink, with low levels of dissolved salts and microbes, but it is not pure. Pure water contains only water molecules with no dissolved substances.
+
+**Which Using resources content is Higher tier only in AQA GCSE Chemistry 8462?**
+Alternative methods of extracting metals, such as phytomining and bioleaching, are Higher tier only. Topic 10 is otherwise for both tiers and is examined on Paper 2.
+
+**How does sacrificial protection stop iron rusting?**
+A more reactive metal such as zinc is attached to or coated on the iron. The zinc reacts with air and water instead of the iron, so the iron is protected even if the coating is scratched.
+
+**What is a common mistake about the catalyst in the Haber process?**
+The iron catalyst increases the rate of reaction but does not increase the yield of ammonia. Saying it increases the yield is a frequent error.
 
 ## Official syllabus
 
