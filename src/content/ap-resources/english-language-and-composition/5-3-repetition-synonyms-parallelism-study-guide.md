@@ -113,7 +113,7 @@ A reliable habit is to follow **this**, **that** and **it** with a noun when the
 
 **Deliberate parallelism** can do more than correct grammar. In the Declaration of Independence (1776), the signers list the Creator's gifts: "Life, Liberty and the pursuit of Happiness". The sequence of nouns signals items of a kind. In Lincoln's phrase "of the people, by the people, for the people", the matching phrases build a rhythm and make three relationships between a government and its citizens appear equal in importance.
 
-Parallelism may also show **contrast**: "to err is human; to forgive, divine" sets two matched clauses against each other. In Paine's "the harder the conflict, the more glorious the triumph", the matching "the... the..." pattern makes cause and effect feel inevitable.
+Parallelism may also show **contrast**: Pope's line "To err is human, to forgive, divine" (*An Essay on Criticism*, 1711) sets two matched clauses against each other. In Paine's "the harder the conflict, the more glorious the triumph", the matching "the... the..." pattern makes cause and effect feel inevitable.
 
 ## Using the devices together
 

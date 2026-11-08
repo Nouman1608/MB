@@ -117,7 +117,7 @@ A writer says: "Opponents of the new road want everyone to travel by horse and c
 
 ## Question 5 (multiple choice · core)
 
-In "A Modest Proposal" (1729), the narrator says, "let no man talk to me of other expedients" after listing real remedies and rejecting them. Which statement best explains the writer's purpose in using this flawed reasoning?
+In "A Modest Proposal" (1729), the narrator says, "let no man talk to me of other expedients" just before a list of real remedies, such as taxing absentee landlords, that he refuses to hear about. Which statement best explains the writer's purpose in using this flawed reasoning?
 
 - (A) To show that the narrator has carefully considered every possible option
 - (B) To give a sincere recommendation
@@ -183,12 +183,12 @@ Rewrite the paragraph in Question 6 (keeping the concern about marks) so that th
 
 ## Question 8 (constructed response · stretch)
 
-In "A Modest Proposal" (1729) Jonathan Swift's narrator dismisses real remedies, such as taxing absentee landlords, with the words "let no man talk to me of other expedients." Explain the flaw in the narrator's reasoning, and explain why Swift might have written it that way.
+In "A Modest Proposal" (1729) Jonathan Swift's narrator waves aside real remedies, such as taxing absentee landlords, with the words "let no man talk to me of other expedients" (he then lists those remedies only to refuse them). Explain the flaw in the narrator's reasoning, and explain why Swift might have written it that way.
 
 <details>
 <summary>Answer and explanation</summary>
 
-**Model answer.** The narrator presents his proposal as the only solution and refuses to consider the alternatives he has just listed, which is a false dilemma that shuts out reasonable options. Swift probably wrote it that way on purpose: by making the narrator's reasoning obviously closed and cruel, he invites readers to see that the real policies of the day also treated the poor as a resource and refused to consider genuine reforms. The flaw therefore carries the satire.
+**Model answer.** The narrator presents his proposal as the only solution and refuses to consider the real remedies he names in the list that follows, which is a false dilemma that shuts out reasonable options. Swift probably wrote it that way on purpose: by making the narrator's reasoning obviously closed and cruel, he invites readers to see that the real policies of the day also treated the poor as a resource and refused to consider genuine reforms. The flaw therefore carries the satire.
 
 **Suggested Marlbridge rubric (5 points)**
 
