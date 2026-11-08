@@ -204,7 +204,7 @@ engaging with the demographic and social explanations behind it.
 
 OxfordAQA International AS and A-level Sociology (9690) specification,
 Version 1.1 —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/09/oxfordaqa-international-a-level-sociology-specification.pdf).
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/10/oxfordaqa-international-a-level-sociology-specification.pdf).
 Unit 1 timing and marks: 1 hour 45 minutes, 60 marks (Section A
 Families 40 marks; Section B Research methods 20 marks). A specimen
 question paper and mark scheme for this unit are published on the
