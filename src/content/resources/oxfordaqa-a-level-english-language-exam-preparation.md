@@ -17,7 +17,7 @@ reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 OxfordAQA International A-Level English Language (9670) is a modular qualification of four
@@ -95,6 +95,18 @@ why a feature serves the text's purpose, not simply naming that the feature is p
 - **During any paper**: read once for overall purpose before annotating features in detail.
 - **In every analytical answer**: group features by effect, name the linguistic level and framework
   precisely, and link every point back to purpose, audience or mode.
+
+## Frequently asked questions
+
+**How are the 9670 units weighted?**
+Units 1 and 2 are 20% each of the International A-level; Units 3 and 4 are 30% each.
+
+**What are the Unit 4 options?**
+Unit 4a is a 2 hour 30 minute exam on supplied data; Unit 4b is a non-exam language investigation. Both carry 50 marks.
+
+**How long is each AS paper?**
+2 hours for 50 marks.
+
 
 ## Self-test
 

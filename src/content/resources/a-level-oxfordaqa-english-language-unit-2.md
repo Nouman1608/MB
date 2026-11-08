@@ -27,7 +27,7 @@ reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 This guide covers **Unit 2 Language and Society**, the second of two
@@ -123,6 +123,18 @@ LINKING TO SECTION B: these observations about power, status and
 A weak answer would describe the interview's content (what job, what
 questions) without naming the specific language features doing the
 social work the specification asks students to identify.
+
+## Frequently asked questions
+
+**How long is OxfordAQA 9670 Unit 2?**
+2 hours for 50 marks: 50% of the International AS and 20% of the International A-level.
+
+**Is there a choice of questions?**
+No. Section A is one compulsory text analysis and Section B one compulsory writing task, 25 marks each.
+
+**What is the theme of Unit 2?**
+Language and social groups: how language varies with and represents different groups.
+
 
 ## Quick revision checklist
 

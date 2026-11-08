@@ -23,7 +23,7 @@ description: "OxfordAQA International A Level English Language 9670 Unit 3 Langu
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the exact task wording, data types, question format and mark allocation for each section of Unit 3 against the specification, and whether it names particular theories or models."
+reviewNote: "Check the exact task wording, data types, question format and mark allocation for each section of Unit 3 against the specification, and whether it names particular theories or models. 2026-11-08 recheck: FAQ added."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -120,6 +120,18 @@ That is three features, each named, quoted and explained, linked to a theory and
 - Balance description, explanation and evaluation. A list of features alone is not analysis.
 - Plan an essay response with a clear line of argument, concepts and linked examples.
 - Plan your time across sections according to the marks available.
+
+## Frequently asked questions
+
+**How long is OxfordAQA 9670 Unit 3?**
+2 hours for 50 marks and 30% of the International A-level.
+
+**What are the sections?**
+Section A Learning language and Section B International English, each with one question from a choice of two (25 marks).
+
+**Is Unit 3 part of the International AS?**
+No. Units 3 and 4 are taken only for the full International A-level.
+
 
 ## Check your understanding
 
