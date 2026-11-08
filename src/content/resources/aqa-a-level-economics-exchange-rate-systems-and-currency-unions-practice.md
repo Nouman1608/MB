@@ -109,6 +109,20 @@ These questions cover exchange rate systems and currency unions for AQA A-level 
 - Listing currency union points without applying them to the country in the question.
 - Closing an evaluation with a restatement but no supported judgement.
 
+## Frequently asked questions
+
+**What is a common diagram mistake in exchange rate questions?**
+Putting the price of the wrong currency on the vertical axis, which leads to shifting the wrong curve. Check which currency's market you are drawing.
+
+**Should I say a fixed currency appreciates?**
+No. In a fixed system a deliberate rise is a revaluation and a fall is a devaluation; appreciation and depreciation describe floating rates.
+
+**Is central bank intervention in the currency market free?**
+No. Buying the home currency uses foreign exchange reserves, which are limited, so answers that treat intervention as free lose marks.
+
+**How do I evaluate a currency union question for AQA?**
+Apply the points to the country in the question and finish with a supported judgement on which factor dominates, rather than restating the list.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/aqa-a-level-economics-exchange-rate-systems-and-currency-unions-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-exchange-rate-systems-and-currency-unions/).

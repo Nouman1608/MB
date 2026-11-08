@@ -136,6 +136,20 @@ These questions follow the AQA AS and A-level Economics specification (version 1
 - Mixing up the amount raised, which depends on price, with the nominal value repaid.
 - Listing the role of financial markets with no chain or evaluation.
 
+## Frequently asked questions
+
+**How should money be defined in an AQA answer?**
+Define money as anything people generally accept as payment for goods and services or to settle debts. Calling it wealth or income loses marks.
+
+**What separates the money market from the capital market?**
+The length of time the money is lent: the money market deals in short-term funds, usually under a year, and the capital market in long-term finance. Splitting them by the size of the sums is wrong.
+
+**What is a common mistake in bond yield calculations?**
+Dividing the coupon by the nominal value when the question gives a market price. Use the market price to find the current yield.
+
+**Does a bond's coupon change when its price changes?**
+No. The coupon is fixed when the bond is issued; only the price and therefore the yield change.
+
 ## Next steps
 
 - Return to the [revision notes](/resources/aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds/).

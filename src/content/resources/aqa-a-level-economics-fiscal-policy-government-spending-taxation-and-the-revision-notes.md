@@ -225,6 +225,20 @@ Chain: change in spending or tax → effect on AD or AS → effect on output, jo
 - Giving a one-sided answer where the question says assess or evaluate.
 - Mixing up the level of spending (its size) with its distribution (who receives it).
 
+## Frequently asked questions
+
+**What is the difference between the average and marginal rate of tax?**
+The average rate is total tax as a share of income. The marginal rate is the tax on the next unit of income. A progressive tax has a rising average rate.
+
+**Do transfer payments count as government spending in aggregate demand?**
+No. Transfers such as pensions and benefits move income without buying output, so they affect AD only when recipients spend them.
+
+**What is the difference between direct and indirect taxes?**
+Direct taxes are levied on income, wealth or profit and borne by the person taxed. Indirect taxes are levied on spending and can be passed on to buyers.
+
+**What is the difference between the level and the distribution of taxation?**
+The level is the overall size of tax or spending; the distribution is who pays or receives it. The same total tax can have different effects depending on who pays.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification (7135 and 7136), version 1.3, 29 June 2022, published by AQA. Sub-section: Fiscal policy (first part).

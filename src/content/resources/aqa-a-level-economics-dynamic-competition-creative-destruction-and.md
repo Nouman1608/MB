@@ -252,6 +252,23 @@ At 14 the entrant (cost 11) can profitably undercut. At 10 the entrant would mak
 - Giving only short-run or only long-run benefits of competition.
 - Forgetting a judgement: say which factor matters most and why.
 
+## Frequently asked questions
+
+**What is creative destruction?**
+Creative destruction is the process in which large profits from market power attract entrants who innovate, weakening the incumbent's barriers to entry. Old products, firms or jobs disappear while new products, firms and markets appear.
+
+**What makes a market perfectly contestable?**
+Free entry using the same technology and costs as incumbents, free exit without losing the money put in, no sunk costs, and incumbents unable to cut prices instantly after entry.
+
+**What are sunk costs?**
+Sunk costs are costs that cannot be recovered when a firm leaves the market, such as advertising. They are the key barrier to exit and make entry a bigger gamble.
+
+**What is hit-and-run competition?**
+Hit-and-run competition means entering a market to take profit and then leaving once the profit has gone. It is possible when entry and exit are cheap.
+
+**What is non-price competition?**
+Competing through product differentiation, branding and advertising, after-sales service and innovation rather than price. It matters most where price competition is weak or risky.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification (7135 and 7136), version 1.3, 29 June 2022, published by AQA; A-level content for first teaching from September 2015. Sub-sections 4.1.5.8 and 4.1.5.9 in the PDF (3.1.5.8 and 3.1.5.9 on the AQA website).

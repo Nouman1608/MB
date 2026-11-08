@@ -243,6 +243,23 @@ For any recommendation, ask: does it target the cause of the failure, how big is
 - Saying the buyer always pays the whole tax. Incidence depends on elasticities.
 - Drawing a maximum price above equilibrium. It would have no effect.
 
+## Frequently asked questions
+
+**What methods of government intervention are in AQA A-level Economics?**
+Indirect taxes, subsidies, price controls, state provision, regulation, extending property rights and pollution permits.
+
+**Who pays an indirect tax?**
+It depends on elasticity. The tax is split between buyers and sellers, and the side of the market that is less responsive to price bears more of it.
+
+**What happens when a maximum price is set below equilibrium?**
+Quantity demanded exceeds quantity supplied, causing a shortage. Supply falls, quality may fall and informal or black markets can appear.
+
+**How do pollution permits reduce the cost of cutting pollution?**
+Permits cap total emissions and can be traded, so firms that can cut pollution cheaply do more of the cutting and sell spare permits to firms with higher costs.
+
+**How can extending property rights correct market failure?**
+Giving an unowned resource such as a fishery an owner gives someone a reason to protect it, because the owner counts the cost of overuse.
+
 ## Official syllabus
 
 AQA AS and A-level Economics, specification version 1.3 (29 June 2022), AQA. Sub-section covered: Government intervention in markets (3.1.5.8 on the AQA website; 4.1.8.9 in the combined PDF).

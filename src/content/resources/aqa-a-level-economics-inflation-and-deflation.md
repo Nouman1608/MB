@@ -256,6 +256,23 @@ You should appreciate that **deflationary policies are policies to reduce aggreg
 - Listing consequences without saying who gains or loses, and by how much.
 - Ignoring the exchange rate in commodity and import price questions.
 
+## Frequently asked questions
+
+**What is the difference between inflation, deflation and disinflation?**
+Inflation is a sustained rise in the general price level, deflation is a falling price level, and disinflation is a falling rate of inflation while prices are still rising.
+
+**What does MV = PQ mean?**
+It is Fisher's equation of exchange: the money supply times the velocity of circulation equals the price level times real output. It becomes the Quantity Theory when V and Q are assumed constant, so changes in M cause proportional changes in P.
+
+**How do inflation expectations affect inflation?**
+If workers and firms expect prices to rise, they push for higher wages and raise prices, so expectations can make inflation self-fulfilling.
+
+**What is a deflationary policy?**
+In AQA A-level Economics, a deflationary policy is one that reduces aggregate demand, such as higher interest rates or tighter fiscal policy. It does not necessarily produce deflation.
+
+**How do world commodity prices affect UK inflation?**
+Higher world prices for oil, metals and food raise import and production costs, and a weaker currency magnifies the effect when commodities are priced in a foreign currency.
+
 ## Official syllabus
 
 Source: the A-level Economics specification published by AQA (version 1.3, 29 June 2022), content section 4.2.3.3.

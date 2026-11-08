@@ -239,6 +239,20 @@ Evaluation of contestability:
 - Leaving out a judgement: say which factor decides the answer and why.
 - Writing about real firms or statistics from memory instead of using the data given.
 
+## Frequently asked questions
+
+**Are all fixed costs sunk costs?**
+No. Fixed costs that can be recovered, for example by reselling equipment, are not sunk; only costs that cannot be recovered on exit are sunk.
+
+**Is a market with one firm always a harmful monopoly?**
+No. If the market is contestable, the threat of entry can keep the single firm's price close to average cost.
+
+**What are the short-run and long-run benefits of competition?**
+In the short run, competition brings lower prices, cost pressure and more choice. In the long run, it brings investment, research, new products and processes, and lasting falls in cost.
+
+**Should I use real firms and statistics from memory in AQA data questions?**
+No. Use the data given in the question; writing about real firms or statistics from memory instead is a common way to lose marks.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification (7135 and 7136), version 1.3, 29 June 2022, published by AQA; A-level content for first teaching from September 2015. Sub-sections 4.1.5.8 and 4.1.5.9 in the PDF (3.1.5.8 and 3.1.5.9 on the AQA website).

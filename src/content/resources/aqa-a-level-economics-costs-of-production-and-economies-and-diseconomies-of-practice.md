@@ -138,6 +138,20 @@ These questions follow the AQA AS and A-level Economics specification (version 1
 - Discussing MES without comparing it with market size.
 - Evaluation that lists points but reaches no judgement.
 
+## Frequently asked questions
+
+**Why should I show working on cost table questions?**
+Without working, one arithmetic slip can remove the whole answer. Showing each step lets you earn method marks even if a figure is wrong.
+
+**Is it enough to write that costs fall?**
+No. Say whether total, average or marginal cost falls; vague answers such as costs fall lose marks in AQA A-level Economics.
+
+**How should I use minimum efficient scale in an answer?**
+Compare MES with the size of the market. Discussing MES on its own, without that comparison, does not explain the industry structure.
+
+**Are returns to scale and economies of scale the same thing?**
+No. Returns to scale describe how output responds when all inputs rise by the same factor; economies of scale describe what happens to long-run average cost. Using them as if they were the same loses marks.
+
 ## Next steps
 
 - Review with the [revision notes](/resources/aqa-a-level-economics-costs-of-production-and-economies-and-diseconomies-of-revision-notes/) and re-read the [study guide](/resources/aqa-a-level-economics-costs-of-production-and-economies-and-diseconomies-of/).

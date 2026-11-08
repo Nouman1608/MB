@@ -9,11 +9,13 @@ qualifications: ["a-level"]
 syllabusCodes: ["7136"]
 syllabusSeries: "For first teaching 2015"
 order: 3
-description: "Paper-by-paper exam preparation for AQA A-Level Economics 7136 -- data-response vs essay technique, Paper 3's whole-course multiple choice and case study, a worked essay-planning answer and a checklist."
+description: "Paper-by-paper exam preparation for AQA A-Level Economics 7136: data-response and essay technique, Paper 3's multiple choice and case study, and a checklist."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 publishedDate: 2026-09-07
 featured: false
 ---
@@ -127,6 +129,23 @@ to any economic scenario. 4. Because the question's claim that a minimum wage "a
 unemployment only holds under a competitive labour market assumption -- introducing monopsony
 directly challenges the word "always" in the question title, which is exactly the kind of critical
 engagement a strong evaluative essay demonstrates.
+
+## Frequently asked questions
+
+**How many papers are there in AQA A-Level Economics?**
+AQA A-Level Economics 7136 has three compulsory written papers, each 2 hours and 80 marks and worth a third of the A-level: Markets and market failure, National and international economy, and Economic principles and issues.
+
+**Is AQA A-Level Economics tiered?**
+No. All candidates sit the same three compulsory written papers; there are no tiers.
+
+**How should I answer an essay title that says always?**
+Challenge the absolute claim. For example, a title claiming a higher minimum wage will always increase unemployment can be tested by showing the claim depends on a competitive labour market and may not hold under monopsony.
+
+**How should I structure an AQA Economics essay?**
+State the economic theory, apply it with a diagram or model where relevant, consider a counterargument or limitation, and reach an explicit judgement that engages with the question's own wording.
+
+**How do I score well on AQA data-response questions?**
+Use the extract explicitly by quoting a specific figure, trend or detail from it, rather than writing a generic answer that could fit any scenario.
 
 *Written against AQA A-Level Economics 7136 (specification-at-a-glance, verified 2026-08-28). The
 worked scenario above is an original example written for this resource, not a reproduction of any

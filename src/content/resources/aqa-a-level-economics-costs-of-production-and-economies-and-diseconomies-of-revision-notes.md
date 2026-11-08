@@ -273,6 +273,20 @@ Example: MES is 30,000 units and market demand is 120,000. 120 / 30 = 4 firms ca
 </figure>
 
 
+## Frequently asked questions
+
+**What is the difference between average cost and marginal cost?**
+Average cost is the cost per unit over all output. Marginal cost is the cost of producing the next unit.
+
+**What is the difference between the short run and the long run in costs?**
+In the short run at least one factor is fixed, so some costs are fixed. In the long run all factors are variable, so fixed costs disappear.
+
+**What is minimum efficient scale?**
+Minimum efficient scale is the lowest output at which long-run average cost reaches its minimum. It is not the biggest output a firm can produce.
+
+**How do I tell internal and external economies of scale apart?**
+Ask who gains: internal economies come from the growth of one firm, while external economies benefit all firms in the area as the industry grows.
+
 ## Official syllabus
 
 AQA AS and A-level Economics specification, version 1.3 (29 June 2022), published by AQA, for first teaching from September 2015: A-level sub-sections Costs of production and Economies and diseconomies of scale.

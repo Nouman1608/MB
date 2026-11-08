@@ -249,6 +249,23 @@ Now demand for T rises to QD = 1,050 − 20W. Then 1,050 − 20W = 10W gives W =
 - Mixing up shifts and movements on the supply curve when the wage in another occupation changes.
 - Writing about individual labour supply or the backward-bending curve, which the specification does not require.
 
+## Frequently asked questions
+
+**Why is the demand for labour a derived demand?**
+Firms do not want workers for their own sake; they want the output workers help to produce, so the demand for labour depends on the demand for the product.
+
+**What is marginal productivity theory?**
+It says a profit-maximising firm hires labour up to the point where the marginal revenue product of the last worker equals the wage. The MRP curve is the firm's demand curve for labour.
+
+**What determines the elasticity of demand for labour?**
+How easily capital can replace labour, the price elasticity of demand for the product, labour's share of total costs, and the time period.
+
+**What are the assumptions of a perfectly competitive labour market?**
+Many employers and workers, identical workers, full information about wages and jobs, and free movement of workers between jobs and areas.
+
+**Do I need to know the backward-bending labour supply curve for AQA?**
+No. The AQA 7136 specification says you are not required to understand the determinants of an individual's supply of labour, so the backward-bending curve is not needed.
+
 ## Official syllabus
 
 AQA AS and A-level Economics (7135 and 7136), specification version 1.3, 29 June 2022, published by AQA. A-level content: the labour market sections on the demand for labour, influences upon the supply of labour, and perfectly competitive labour markets.

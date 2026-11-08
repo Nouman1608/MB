@@ -114,6 +114,20 @@ These questions follow the AQA AS and A-level Economics specification (version 1
 - Describing non-price competition with no effect on revenue, cost or market share.
 - Ending an evaluation without a judgement or without saying what the answer depends on.
 
+## Frequently asked questions
+
+**What is a common mistake when working out sunk costs?**
+Counting the recoverable share of an entry cost as sunk. Only the part that cannot be recovered when the firm leaves is a sunk cost.
+
+**How do I write about contestable markets for full marks?**
+Link each feature of a contestable market, such as free entry and exit or no sunk costs, to how it restrains the incumbent's behaviour, rather than just listing the features.
+
+**What should a calculation answer include?**
+Show the working, give units and state a conclusion. A figure with no working, units or conclusion is a listed way to lose marks.
+
+**Which AQA A-level Economics content do these questions cover?**
+They cover the dynamics of competition and contestable markets from AQA A-level Economics 7136: non-price competition, creative destruction, contestability and sunk costs.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/aqa-a-level-economics-dynamic-competition-creative-destruction-and-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-dynamic-competition-creative-destruction-and/).

@@ -265,6 +265,23 @@ Limits of aid: leakage, dependency, tied aid (a 20% price premium cuts 800m to 6
 - Listing barriers without saying why each lowers investment or productivity.
 - Concluding that aid always works, or never works, without a judgement based on conditions.
 
+## Frequently asked questions
+
+**What is the difference between economic growth and economic development?**
+Economic growth is an increase in real output over time, measured by real GDP or real GDP per capita. Economic development is a wider improvement in living standards, including health, education, income and freedom.
+
+**What does the Human Development Index measure?**
+HDI combines three dimensions: health, education and income. It does not include inequality within a country or the environment.
+
+**What are the barriers to growth and development in AQA 7136?**
+The specification names corruption, institutional factors, poor infrastructure and inadequate human capital; a lack of property rights is also covered on this page.
+
+**What is the difference between market-based and interventionist development strategies?**
+Market-based strategies rely on prices and private firms, such as trade liberalisation and privatisation. Interventionist strategies use the state, such as public spending on infrastructure, health and schooling.
+
+**Why can a country grow without much development?**
+Real GDP can rise while the gains go mainly to richer groups, so the poorest see little improvement in income, health or education.
+
 ## Official syllabus
 
 AQA AS and A-level Economics (7135 and 7136), specification version 1.3, 29 June 2022, published by AQA, for first teaching from September 2015. Section 4.2.6.5 of the combined PDF, "Economic growth and development".

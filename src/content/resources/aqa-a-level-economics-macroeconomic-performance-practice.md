@@ -16,11 +16,13 @@ syllabusTopics:
   - qualification: "as-level"
     topic: "the-national-economy-in-a-global-context-aqa-aslevel-economics"
     subtopic: "the-measurement-of-macroeconomic-performance-aqa-aslevel-economics"
-description: "Original exam-style practice questions with full worked answers on government macroeconomic policy objectives, macroeconomic indicators, index numbers and the uses of national income data for AQA A-Level Economics (7136), 3.2.1. AS Economics (7135) has 3.2.1.1-3.2.1.3; questions 10 and 11 (uses of national income data, 3.2.1.4) are A-level only."
+description: "AQA A-Level Economics (7136) 3.2.1 practice with worked answers: policy objectives and conflicts, indicators, index numbers and national income data."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 publishedDate: 2026-09-04
 featured: false
 ---
@@ -104,3 +106,17 @@ Related: [The Measurement of Macroeconomic Performance study guide](/resources/a
 ## Approaching macroeconomic performance questions
 
 For any "explain the conflict" question, use the same objective-effect-objective-conflict structure every time: name the first objective and the policy used to pursue it, state the effect that policy has, name the second objective, then explain precisely how that effect creates tension with it — having two or three of these prepared in advance (growth versus balance of payments, and unemployment versus inflation, are the two most commonly examined pairs) is more valuable than trying to construct one from scratch under exam conditions. For any index-number question, always convert the index change into a percentage relative to the base year rather than quoting the raw point change, and state explicitly that the base year is set at 100 — this distinction between an absolute point change and a relative percentage change is exactly what separates a strong answer from a weak one on this sub-topic.
+
+## Frequently asked questions
+
+**How should I answer an explain the conflict question on macroeconomic objectives?**
+Use an objective, effect, objective, conflict structure: name the policy aimed at one objective, trace its effect, then show how that effect works against the second objective.
+
+**Do I need to know exactly how the CPI and RPI are constructed for AQA?**
+No. The specification only expects awareness of their underlying features, such as a basket of goods and services and weights, not detailed technical knowledge.
+
+**Do these questions match the full AQA Economics exam format?**
+No. They are short-answer topic review questions and do not reproduce the 40-mark data-response and essay sections of Papers 1 and 2 or the format of Paper 3; use full past papers for those.
+
+**How do I finish an evaluate question on macroeconomic objectives?**
+End with a reasoned judgement on the extent to which the objectives can be achieved together, rather than stopping after the arguments.

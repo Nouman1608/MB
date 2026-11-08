@@ -227,6 +227,20 @@ Revenue rises as price goes up to £4, then falls. At the lower prices demand is
 - Ignoring the sign, so substitutes and complements are confused.
 - Calling any fall in sales a decrease in demand.
 
+## Frequently asked questions
+
+**What is the difference between inelastic and inferior?**
+Inelastic describes the size of the response of quantity to price; inferior describes the sign of income elasticity of demand, which is negative.
+
+**Is elasticity the same as the slope of the demand curve?**
+No. A straight demand line has a constant slope but its elasticity changes along the line, because percentage changes depend on the starting point.
+
+**Does demand become more elastic over time?**
+Usually yes. Given time, buyers find alternatives, so demand tends to be more elastic in the long run than in the short run.
+
+**Is a fall in sales always a decrease in demand?**
+No. A fall in sales caused by a rise in the good's own price is a contraction along the curve, not a decrease in demand; calling it a fall in demand is a common error.
+
 ## Official syllabus
 
 Source: the A-level Economics specification published by AQA (version 1.3, 29 June 2022), content sections 4.1.3.1 and 4.1.3.2.

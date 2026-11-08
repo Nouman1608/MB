@@ -268,6 +268,23 @@ But consumers still get less (288) than the original 450. A competitive market w
 - Forgetting that monopoly profit is a transfer and not a loss to society.
 - Claiming monopoly is always dynamically efficient or always inefficient. Argue from the evidence.
 
+## Frequently asked questions
+
+**What is productive efficiency?**
+Productive efficiency means producing at the output where average total cost is at its minimum, where marginal cost equals average total cost.
+
+**What is the condition for allocative efficiency?**
+Allocative efficiency occurs where price equals marginal cost, P = MC. Writing P = MR instead is a common error.
+
+**What is consumer surplus?**
+Consumer surplus is what buyers gain by paying less than the most they would have been willing to pay. On a diagram it is the area below the demand curve and above the price.
+
+**How does price discrimination affect consumer surplus?**
+Price discrimination usually transfers consumer surplus to the producer as profit. Under perfect price discrimination each consumer pays their maximum, so consumer surplus disappears.
+
+**What are conduct and performance indicators?**
+Conduct indicators describe how firms behave, such as pricing, advertising, R&D spending and collusion. Performance indicators measure outcomes, such as price, profit margins, unit costs and productivity growth.
+
 ## Official syllabus
 
 Source: the AQA specification for AS and A-level Economics (versions 7135 and 7136), for first teaching from September 2015, version 1.3, covering content sections 4.1.5.10 and 4.1.5.11 (website numbering 3.1.5).

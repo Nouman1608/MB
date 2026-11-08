@@ -244,6 +244,20 @@ Suppose the Gini falls from **0.38** to **0.34**.
 - Evaluating with a list of benefits and costs but no judgement or no reason for it.
 - Quoting UK figures without a source instead of the general pattern.
 
+## Frequently asked questions
+
+**What is the line of perfect equality?**
+It is the 45-degree line on a Lorenz curve diagram, showing every household with an equal share.
+
+**Is measuring inequality positive or normative?**
+Measuring inequality is positive economics; judging whether a distribution is fair is normative and involves a value judgement.
+
+**What is the difference between a Lorenz curve and the Gini coefficient?**
+The Lorenz curve is a picture of the whole distribution; the Gini coefficient is a single summary number between 0 and 1.
+
+**Is all inequality a market failure?**
+No. AQA A-level Economics refers to excessive inequality as a cause and consequence of market failure, not any inequality.
+
 ## Official syllabus
 
 AQA, *AS and A-level Economics* specification (7135 and 7136), version 1.3, 29 June 2022, first teaching from September 2015: section 3.1.7.1 on the AQA website (printed as 4.1.7.1 in the combined PDF).

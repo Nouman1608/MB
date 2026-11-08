@@ -233,6 +233,23 @@ A sound judgement considers the host's bargaining power (a large market has more
 - Counting indirect jobs without noting that some replace existing jobs.
 - Listing benefits and costs with no ranking or reasoning.
 
+## Frequently asked questions
+
+**What is globalisation?**
+Globalisation is the growing integration of national economies, so that what happens in one increasingly affects others through trade, capital, labour, technology and production links.
+
+**What are the causes of globalisation?**
+Trade liberalisation, falling transport and communication costs, technology, capital market liberalisation, economic reform and political change, and the growth of multinational corporations.
+
+**What is a multinational corporation?**
+An MNC is a firm with production or service operations, which it owns or controls, in two or more countries.
+
+**What are the costs of multinationals for host countries?**
+Profits may be repatriated, local firms may be driven out, transfer pricing can reduce tax, MNCs can leave quickly, and environmental or labour standards may be weaker.
+
+**Why can GNI rise less than GDP when multinationals invest?**
+Profits earned by foreign-owned firms and sent abroad count in the host's GDP but not in its residents' income, so GNI rises by less.
+
 ## Official syllabus
 
 AQA, AS and A-level Economics specification (7135 and 7136), version 1.3, 29 June 2022, for first teaching from September 2015. Section 4.2.6.1 Globalisation (site-map number 3.2.6.1).

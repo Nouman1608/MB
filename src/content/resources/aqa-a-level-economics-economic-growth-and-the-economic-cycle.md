@@ -280,6 +280,23 @@ Emissions are still 17% higher, so cleaner growth is not yet sustainable growth.
 - Listing costs and benefits without a judgement.
 - Forgetting that investment affects both AD and productive capacity.
 
+## Frequently asked questions
+
+**What is the difference between short-run and long-run economic growth?**
+Short-run growth is an increase in actual output, usually from a rise in aggregate demand using spare capacity. Long-run growth is an increase in productive capacity, shown by an outward shift of the PPC or LRAS.
+
+**What is a positive output gap?**
+A positive output gap is when real GDP is above the economy's productive potential. A negative output gap is when real GDP is below it.
+
+**What causes cyclical instability in AQA A-level Economics?**
+AQA 7136 names excessive growth in credit and debt, asset price bubbles, destabilising speculation, animal spirits and herding as causes of larger swings in the cycle.
+
+**How do you calculate a trend rate of growth?**
+Use the compound growth rate over the period, not a simple average of yearly changes. For example, check that the starting GDP multiplied by one plus the rate, to the power of the number of years, gives the final GDP.
+
+**Why does investment affect both demand and supply?**
+Investment is a component of aggregate demand, so it raises AD immediately, and it adds to the capital stock, so it raises productive capacity later.
+
 ## Official syllabus
 
 AQA, *AS and A-level Economics* (7135 and 7136), specification version 1.3, 29 June 2022, section 3.2.3.1 on the AQA website (4.2.3.1 in the combined PDF).

@@ -134,6 +134,20 @@ These questions cover inflation, deflation and disinflation, demand-pull and cos
 - Showing a cost-push shift as a change in AD.
 - Ending an evaluation with a summary and no judgement.
 
+## Frequently asked questions
+
+**Is a fall in inflation the same as deflation?**
+No. If the price index is still rising, a falling rate of inflation is disinflation. Deflation means the price level itself is falling.
+
+**What must I state when using the Quantity Theory of Money?**
+State that velocity (V) and real output (Q) are assumed constant, and show MV or the new price level in your working rather than just a percentage.
+
+**What is a common mistake in commodity price questions?**
+Leaving out the exchange rate when the commodity is priced in a foreign currency. A change in the exchange rate can magnify or offset the commodity price change.
+
+**Which AQA A-level Economics content does this practice cover?**
+It covers the inflation and deflation content of AQA 7136, including demand-pull and cost-push inflation, MV = PQ, expectations and external influences on prices.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/aqa-a-level-economics-inflation-and-deflation-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-inflation-and-deflation/).
