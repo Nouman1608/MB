@@ -145,6 +145,20 @@ Option B: merge with a rival, Pellmere Pets, which has sales revenue of £2.4 mi
 - Take the [free diagnostics](/diagnostics/) to find your weakest areas.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Can profit be used to measure business size?**
+No. Profit is not a method of measuring business size, because a small firm can earn a high profit and a large firm can make a loss. Giving profit as a size measure is a common error.
+
+**What are common mistakes on enterprise and growth questions in IGCSE Business 0264?**
+Students often list characteristics or plan elements with no link to the business, answer why a government helps start-ups from the entrepreneur's point of view, confuse a merger with a takeover or horizontal with vertical integration, and forget to show working in percentage calculations. A recommendation that does not weigh the alternative option also loses marks.
+
+**What is the difference between horizontal and vertical integration?**
+Horizontal integration joins firms at the same stage of the same industry, such as two garden centres. Vertical integration joins firms at different stages, either backward towards suppliers or forward towards retailers or customers.
+
+**Which syllabus section covers enterprise, business growth and size?**
+It is section 1.3 of the Cambridge IGCSE Business 0264 syllabus, covering enterprise and entrepreneurship, measuring business size, growth and staying small, and why businesses succeed or fail.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International), section 1.3.

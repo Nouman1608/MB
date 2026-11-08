@@ -294,6 +294,20 @@ Application (AO2) carries a large share of the marks. Before you write, underlin
 - Giving a one-sided answer where the question says justify or consider.
 - Forgetting units or to show the working in percentage and per-employee calculations.
 
+## Frequently asked questions
+
+**Why do governments support business start-ups?**
+Governments support start-ups to create jobs and reduce unemployment, raise tax revenue, increase competition, encourage innovation and support economic growth. "Why" questions are about benefits to the country; "how" questions are about the method used.
+
+**What is the difference between a merger and a takeover?**
+A merger is when two firms agree to combine as a single business. A takeover is when one firm buys enough of another to control it, which may be agreed or not.
+
+**What problems can growth cause for a business?**
+Growth can strain cash flow, make management and control harder, cause communication problems, raise average costs if the firm becomes too big to manage well, lower quality or service, and add finance risk if growth is paid for by borrowing.
+
+**Why do some businesses stay small?**
+A business may stay small because its market is small or niche, the owner prefers control, finance is lacking, personal service is its selling point, or the owner is content with the income and lifestyle.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International), section 1.3.

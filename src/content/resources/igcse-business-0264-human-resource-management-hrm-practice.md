@@ -133,6 +133,20 @@ Money figures are in dollars. All businesses and people are invented, and any le
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between a job description and a person specification?**
+A job description sets out the duties of the job. A person specification describes the qualities, skills and experience the right person needs; defining it as a list of duties is a common error.
+
+**What are common mistakes on HRM questions in IGCSE Business 0264?**
+Students often give a list in an outline question with no development, forget to show both actual and required pay in a minimum wage calculation, leave lost output out of training costs, and describe legal controls for only employers or only employees. Recommending a candidate without matching each point to the person specification also loses marks.
+
+**How do you check whether a worker is paid the minimum wage?**
+Divide weekly pay by hours worked to find the hourly rate, then compare it with the legal minimum wage given in the question and state the conclusion.
+
+**Which syllabus section covers human resource management?**
+Human resource management is section 2.1 of the Cambridge IGCSE Business 0264 syllabus, covering recruiting and selecting employees, employment contracts and legal controls, and training.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International Education), section 2.1.

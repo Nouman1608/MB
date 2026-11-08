@@ -235,6 +235,20 @@ The syllabus describes Paper 1 as short answer and data response, and Paper 2 as
 - Using vague words such as "bad for business" without saying what the cost or loss is.
 - Not linking the effect to a part of the marketing mix when the question asks about marketing.
 
+## Frequently asked questions
+
+**Why do governments control marketing?**
+Legal controls exist to protect customers, because the business knows more about the product than the customer does. They also help keep competition fair, so honest businesses do not lose out to dishonest rivals.
+
+**What can customers expect when they buy goods?**
+Customers can generally expect goods to be of reasonable quality, do what they are sold to do and match the description given. If not, the business is responsible for putting it right through repair, replacement or refund.
+
+**How do you calculate a percentage discount?**
+Percentage discount is the old price minus the new price, divided by the old price, times 100. For example, a kettle cut from £80 to £60 has a 25% discount.
+
+**How do you calculate the cost of faulty goods?**
+Find the number faulty by multiplying total sold by the fault rate, then multiply by the cost per fault, such as the cost of a replacement or refund.
+
 ## Official syllabus
 
 These notes follow the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (Cambridge International), section 3.4 Legal controls.

@@ -275,6 +275,20 @@ For recommendation questions, one clear choice with two reasons from the case is
 - Writing a list of four Ps with no judgement about which matters most.
 - Giving a general description of a method with no link to the target customers or the product.
 
+## Frequently asked questions
+
+**What is the difference between penetration and skimming pricing?**
+Penetration pricing sets a low price to gain market share. Skimming sets a high price to gain profit from early buyers.
+
+**What is the difference between sales promotion and advertising?**
+Sales promotion is a short-term offer, such as vouchers, reward schemes, competitions or discounts. Advertising is a message in a medium, such as social media, targeted emails, leaflets or billboards, used to inform or persuade.
+
+**What is the difference between maturity and decline in the product life cycle?**
+In maturity, sales are high and flat at their peak. In decline, sales are falling.
+
+**What does packaging do for a product?**
+Packaging protects and preserves the product, informs customers, attracts attention and reflects the brand.
+
 ## Official syllabus
 
 Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029, published by Cambridge University Press & Assessment, section 3.3 Marketing mix.
