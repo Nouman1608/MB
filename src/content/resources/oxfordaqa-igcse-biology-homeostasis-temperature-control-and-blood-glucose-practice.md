@@ -152,6 +152,20 @@ Glucose: Her muscles use glucose in respiration, so blood glucose falls. [1] The
 * Find gaps with the free [10-minute diagnostics](/diagnostics/).
 * [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How should you describe blood vessel changes in temperature control?**
+Say that the blood vessels supplying the skin capillaries dilate (vasodilation) or constrict (vasoconstriction). Saying that vessels move towards or away from the skin is a common way to lose marks.
+
+**Why does sweating cool the body?**
+Sweat cools the body as it evaporates from the skin. Saying sweat cools you without mentioning evaporation does not earn the mark.
+
+**How do you get full marks on insulin and glucagon questions?**
+For insulin, say that it allows glucose to move from the blood into cells. For glucagon, say that it makes stored glycogen change back into glucose, which is released into the blood.
+
+**Is Type 2 diabetes a lack of insulin?**
+No. In Type 2 diabetes the body does not respond properly to its own insulin; Type 1 diabetes is the form in which the pancreas does not make enough insulin. Mixing these up is a frequent error.
+
 ## Official syllabus
 
 The OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA.

@@ -269,6 +269,20 @@ Key point: the oxygen is used by the microorganisms' respiration. Dead algae do 
 - Missing units in data answers (ppm, mg per dm³, g per day).
 - Calling a poorly designed sample "reliable" instead of naming what makes it invalid.
 
+## Frequently asked questions
+
+**What do detritus feeders do in decay?**
+Detritus feeders such as earthworms, woodlice and maggots eat dead material and waste and break it into small pieces. This gives microorganisms a larger surface area to digest.
+
+**What are the four stages of eutrophication?**
+Mineral ions from fertiliser or sewage make algae and plants grow more; dense growth shades others, which die; microorganisms feeding on the dead organisms increase greatly; and their respiration depletes the oxygen, so aerobic organisms die.
+
+**What causes acid rain?**
+Sulfur dioxide from burning fuels that contain sulfur dissolves in rainwater and contributes to acid rain. This is different from eutrophication, which is caused by too many nutrients in water.
+
+**What are the effects of tropical deforestation?**
+Large-scale tropical deforestation reduces biodiversity and means less photosynthesis, so less carbon dioxide is removed from the air. Burning releases carbon dioxide by combustion, and decay of the remains releases more through microorganisms' respiration.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), Version 5.2, for exams May/June 2018 onwards, sections 3.3.3 and 3.3.4. Published by OxfordAQA.

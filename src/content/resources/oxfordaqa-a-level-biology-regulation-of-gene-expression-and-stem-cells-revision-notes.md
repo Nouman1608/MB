@@ -214,6 +214,19 @@ Small worked reminder: if 30 of 60 treated patients improve (50%) and 12 of 60 c
   <figcaption>Six mutation types shown as base strips; duplication, inversion and translocation are AQA only.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is an epigenetic change in A-level Biology?**
+An epigenetic change is a change in gene function without any change in the DNA base sequence, and it is preserved when cells divide. Increased methylation of DNA and decreased acetylation of histones are the two examples in OxfordAQA 9610 section 3.4.9.1.
+
+**Why does decreased acetylation of histones reduce transcription?**
+Histones are positively charged and DNA is negatively charged, so they attract. With fewer acetyl groups the attraction stays strong, the DNA stays tightly packed, and RNA polymerase and transcription factors cannot easily reach the gene.
+
+**What is the difference between an oncogene and a tumour suppressor gene?**
+A proto-oncogene normally stimulates cell division in a controlled way, and a mutated or hypomethylated version (an oncogene) can over-activate it. A tumour suppressor gene slows division, repairs DNA or triggers apoptosis, so cancer can follow when it is inactivated or silenced by hypermethylation.
+
+**What is the difference between siRNA and miRNA?**
+Both are short RNA molecules of about 20 to 25 nucleotides that pair with target mRNA. siRNA is fully complementary to one target mRNA, while miRNA is often only partly complementary, so one miRNA can affect several genes.
 
 ## Official syllabus
 

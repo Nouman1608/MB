@@ -263,6 +263,23 @@ For a full-mark answer, join feature to function: say what the feature is, then 
 - Claiming that animals compete for light, or that plants compete for mates. Match the resource to the organism.
 - Describing a feature without saying how it helps survival.
 
+## Frequently asked questions
+
+**Why do food chains rarely have more than four or five trophic levels?**
+Only about 10% of the biomass passes to each level above, so after three or four transfers too little is left to support another level.
+
+**Why is eating crops directly more efficient than eating meat?**
+Each extra stage in a food chain loses about 90% of the biomass, so fewer stages means more of the producers' biomass reaches humans. A balanced answer also notes that some land suits grazing better than crops and that meat supplies protein.
+
+**What are the three types of adaptation?**
+Adaptations can be structural (a body feature such as camouflage colouring), behavioural (what the organism does, such as huddling or migrating) or functional (body processes, such as producing many eggs). The types can overlap.
+
+**Why is dry mass used for pyramids of biomass?**
+Water content varies, so dry mass is a better measure of the material an organism has actually built. A bar shows the biomass at the time of sampling.
+
+**Which sections of OxfordAQA 9201 Biology does this topic cover?**
+Section 3.3.1 covers energy transfer, pyramids of biomass and the efficiency of food production, and section 3.3.2 covers needs, competition and adaptations, including extremophiles and parasites.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.3.1 and 3.3.2.

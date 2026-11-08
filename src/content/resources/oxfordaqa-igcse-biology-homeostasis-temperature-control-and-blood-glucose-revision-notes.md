@@ -240,6 +240,19 @@ All three sections follow one pattern. A condition changes. Receptors detect it.
   <figcaption>Receptors for internal conditions are in the brain and pancreas; the skin senses the surface.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the order of events in a control system?**
+Stimulus, receptor, coordination centre, effector, response. In OxfordAQA 9201 the coordination centres named are the brain, spinal cord and pancreas.
+
+**Which conditions are controlled in homeostasis?**
+The body controls its temperature, water content, ion content and blood glucose levels, keeping each within narrow limits.
+
+**What information reaches the thermoregulatory centre?**
+Receptors in the centre itself detect the temperature of blood flowing through the brain (core temperature), and impulses arrive from temperature receptors in the skin. The name "hypothalamus" is not required.
+
+**Why does shivering warm the body?**
+Shivering is rapid muscle contraction and relaxation. The contractions need respiration, which transfers some energy that warms the body.
 
 ## Official syllabus
 

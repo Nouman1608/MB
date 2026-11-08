@@ -255,6 +255,20 @@ A trial grows an insect-resistant crop and a non-GM crop in 4 plots each. GM yie
 - Using the final value as the denominator in a percentage change.
 - Giving only one side in a "make a judgement" question.
 
+## Frequently asked questions
+
+**What are the steps in adult cell cloning?**
+Remove the nucleus from an unfertilised egg cell, insert the nucleus from an adult body cell such as a skin cell, and use an electric shock to start the egg cell dividing. At the ball-of-cells stage the embryo is placed in the womb of an adult female.
+
+**What is the difference between cuttings and tissue culture?**
+Both produce plant clones. Cuttings need no special equipment but give few plants, while tissue culture needs sterile conditions and gives very many identical plants from a small group of cells.
+
+**Why can a herd of clones be a risk?**
+Clones have the same genes, so they share the same weaknesses. If one individual is killed by a disease, all of them may be, because there is no genetic variation.
+
+**What are the concerns about GM crops in OxfordAQA 9201?**
+The concerns are effects on populations of wild flowers and insects, and uncertainty about the effects of eating GM crops on human health. Say "uncertain", not "harmful", for the health effects.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. These notes cover section 3.5.5 Genetic manipulation, parts a to f.

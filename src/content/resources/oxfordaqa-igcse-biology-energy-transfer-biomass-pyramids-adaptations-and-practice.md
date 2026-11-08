@@ -161,6 +161,20 @@ These questions cover OxfordAQA International GCSE Biology, Version 5.2 (for exa
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Why is only about 10% of biomass passed to the next trophic level?**
+Waste materials such as faeces and urine carry materials and energy away, and respiration supplies energy for life processes, much of which ends up as heat in the surroundings. Saying energy is "used up" rather than transferred loses credit.
+
+**How do you calculate the percentage of biomass transferred between trophic levels?**
+Divide the biomass of the higher trophic level by the biomass of the level below it and multiply by 100. Show the division and the multiplication, and give units where the question uses them.
+
+**What makes a pyramid of biomass correctly drawn?**
+Bars should be drawn to a stated scale, each bar should be the same height, and each bar's length should be proportional to the biomass at that trophic level. Bars of different heights or no scale lose marks.
+
+**How should you answer questions about competition and adaptations?**
+Name the resource being competed for, such as light, water, space or food, and for each adaptation say how the feature helps the organism survive. Naming a feature without its benefit, or writing "competition" without a resource, limits the marks.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.3.1 and 3.3.2.

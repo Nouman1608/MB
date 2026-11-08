@@ -160,6 +160,20 @@ These questions cover section 3.4.9 of the OxfordAQA *International AS and A-lev
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is DNA methylation a mutation?**
+No. Methylation adds methyl groups to DNA, often in a gene's promoter, but no base is added, lost or swapped, so the base sequence is unchanged. It is an epigenetic change, and it can be reversed.
+
+**How do you avoid losing marks on percentage change questions in gene expression data?**
+Use the starting value as the baseline: percentage change = (new − original) ÷ original × 100, and show the working. Using the wrong baseline is one of the most common ways marks are lost on these questions.
+
+**Can you say methylation causes a fall in mRNA from a data table?**
+Not from correlation alone. A table showing that mRNA falls as methylation rises shows an association; to show cause you need an experiment with a control, such as changing methylation and measuring the effect on mRNA.
+
+**What does an "evaluate" question on stem cell therapy need?**
+It needs both benefits and risks, use of the data given (such as sample size and whether there is a control group), and a final judgement. Listing only advantages, or giving no conclusion, limits the marks.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Biology (9610)*, Version 5.1, section 3.4.9 (3.4.9.1 to 3.4.9.3). Check oxfordaqa.com/9610 for the current specification.

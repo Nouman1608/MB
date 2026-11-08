@@ -140,6 +140,20 @@ These questions cover section 3.3.3, Respiration, of the OxfordAQA *Internationa
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How many ATP does glycolysis make?**
+Glycolysis makes 4 ATP per glucose but uses 2, so the net gain is 2 ATP, along with 2 reduced NAD and 2 pyruvate. Quoting "2 ATP" without showing 4 made and 2 used is a common way to lose a mark.
+
+**What is the point of anaerobic respiration if it makes no extra ATP?**
+Its job is to regenerate NAD from reduced NAD, so that glycolysis can continue and keep producing its net 2 ATP. Explaining it as a way of making ATP from pyruvate is a frequent error.
+
+**How do you calculate the respiratory quotient?**
+RQ = carbon dioxide produced ÷ oxygen consumed, using the same units for both gases. It has no units, and dividing oxygen by carbon dioxide is a common mistake.
+
+**What should you watch for in respirometer calculations?**
+Potassium hydroxide absorbs carbon dioxide, so the drop movement with it shows oxygen uptake. When working out a volume from a capillary, halve the diameter to get the radius before using π r² × distance.
+
 ## Official syllabus
 
 OxfordAQA *International AS and A-level Biology (9610)*, Version 5.1, section 3.3.3 (Respiration), for International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards. Published by OxfordAQA.

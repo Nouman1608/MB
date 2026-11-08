@@ -182,6 +182,20 @@ These questions cover sections 3.2.5 (Breathing) and 3.2.6 (Respiration) of the 
 - Take the free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between breathing and respiration?**
+Breathing is the movement of air into and out of the lungs, driven by pressure changes in the chest. Respiration is the chemical reaction in cells that transfers energy from glucose. Mixing the two up is a common way to lose marks.
+
+**What happens to the diaphragm when you breathe in?**
+The diaphragm contracts and flattens, moving down, while the intercostal muscles raise the ribs. The volume of the thorax increases, the pressure falls below atmospheric pressure, and air moves in.
+
+**What is the difference between a negative and a positive pressure ventilator?**
+A negative pressure ventilator lowers the pressure around the outside of the chest so the chest expands and air is drawn in. A positive pressure ventilator pushes air into the lungs under pressure.
+
+**What are the products of anaerobic respiration in yeast and in muscle?**
+Yeast produces ethanol and carbon dioxide, while muscle produces lactic acid. Giving lactic acid for yeast, or ethanol for muscle, is a frequent error in OxfordAQA 9201 answers.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), Version 5.2, for exams in May/June 2018 onwards, published by OxfordAQA. Sections 3.2.5 and 3.2.6.

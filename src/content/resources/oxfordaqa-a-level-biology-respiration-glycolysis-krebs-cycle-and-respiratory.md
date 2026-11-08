@@ -235,6 +235,23 @@ Rates in cm³ per min are 0.14, 0.48, 1.02, 0.65 and 0.03. The rate at 34 °C is
 
 Test yourself with the [practice questions](/resources/oxfordaqa-a-level-biology-respiration-glycolysis-krebs-cycle-and-respiratory-practice/) and revise from the [revision notes](/resources/oxfordaqa-a-level-biology-respiration-glycolysis-krebs-cycle-and-respiratory-revision-notes/).
 
+## Frequently asked questions
+
+**Does the Krebs cycle make most of the ATP in respiration?**
+No. The Krebs cycle makes only one ATP per acetyl CoA directly; most of the ATP comes from oxidative phosphorylation, using the reduced NAD and reduced FAD that the cycle produces.
+
+**How does ATP synthase make ATP?**
+The electron transfer chain uses energy from electrons to pump protons out of the matrix, building a proton gradient across the inner membrane. Protons flow back through ATP synthase, and this flow drives synthesis of ATP from ADP and phosphate.
+
+**What does an RQ value tell you about the respiratory substrate?**
+Typical values are about 1.0 for carbohydrate and 0.7 for lipid, so a value between them suggests a mixture. Conclusions are tentative because several substrates are usually respired at once and other processes, such as anaerobic respiration, also affect the gases.
+
+**Why do ATP yields from aerobic respiration differ between textbooks?**
+The number of ATP made per reduced NAD and reduced FAD is an estimate, so books quote different totals. In the exam, use the figures the question gives you.
+
+**Which section of OxfordAQA 9610 covers respiration?**
+Section 3.3.3, Respiration, covering glycolysis (3.3.3.1), anaerobic respiration (3.3.3.2), aerobic respiration (3.3.3.3) and respiratory substrates (3.3.3.4).
+
 ## Official syllabus
 
 OxfordAQA *International AS and A-level Biology (9610)*, Version 5.1, section 3.3.3 (Respiration), for International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards. Published by OxfordAQA.

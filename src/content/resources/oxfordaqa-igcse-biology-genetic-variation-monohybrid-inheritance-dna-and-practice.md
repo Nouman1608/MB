@@ -184,6 +184,20 @@ The table gives illustrative figures for cases per 10 000 births at different ma
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - Want teacher support? [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is an allele?**
+An allele is a different form of a gene. Defining an allele simply as "a gene" without saying it is a different form is a common way to lose the mark.
+
+**What should a genetic diagram include?**
+Show the parents' genotypes, the gametes each parent produces, a Punnett square, and then the offspring genotypes, phenotypes and ratio or probability. Leaving out the gametes is a frequent error.
+
+**What is the difference between a ratio and a probability in genetics questions?**
+A ratio compares outcomes, such as 3 : 1, while a probability gives the chance of one outcome, such as 3/4 or 75%. Give the form the question asks for.
+
+**Is Down's syndrome caused by an allele?**
+No. Down's syndrome is caused by an extra chromosome, which is a different type of cause from an abnormal allele. Describing it as an inherited allele problem loses marks.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201), Version 5.2, for exams May/June 2018 onwards, published by OxfordAQA. Sections 3.5.3 Genetic variation and 3.5.4 Genetic disorders.

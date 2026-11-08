@@ -207,6 +207,20 @@ In a region of the retina, cones have a centre-to-centre spacing of 2.5 µm. For
 
 Next, test yourself with the [practice questions](/resources/oxfordaqa-a-level-biology-reflexes-taxes-and-kineses-and-sensory-receptors-practice/) and see [exam preparation](/resources/oxfordaqa-a-level-biology-exam-preparation/).
 
+## Frequently asked questions
+
+**What is the difference between a taxis and a kinesis?**
+A taxis is a movement whose direction is set by the direction of the stimulus, towards it (positive) or away from it (negative). A kinesis is a change in speed of movement or rate of turning in response to the intensity of a stimulus, with random direction.
+
+**Why is a generator potential not the same as an action potential?**
+A generator potential is graded: greater pressure on a Pacinian corpuscle opens more stretch-mediated sodium ion channels and gives a larger depolarisation. An action potential is set up in the sensory neurone only if the generator potential reaches the threshold.
+
+**Why do rods give high sensitivity but low visual acuity?**
+Many rods share one bipolar neurone, so their small generator potentials add together (summation) and can reach threshold in dim light. Because they share a neurone, light from two close points sends only one set of impulses, so the points cannot be told apart.
+
+**Is the reflex arc in the OxfordAQA 9610 International AS?**
+No. The reflex arc, taxes and kineses and sensory receptors are in Unit 4: Control (sections 3.4.1 and 3.4.2), which the specification lists as International A-level only.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610), Version 5.1, for International AS exams May/June 2017 onwards and International A-level exams May/June 2018 onwards, from OxfordAQA, covering specification content 3.4.1, 3.4.2.1 and 3.4.2.2.
