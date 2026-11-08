@@ -285,6 +285,23 @@ Connect a cell, a switch and the lamp in series. Place the ammeter in series, in
 - Saying that a parallel circuit shares the potential difference between branches. Each branch has the same potential difference as the supply.
 - Drawing the long and short cell lines the wrong way round.
 
+## Frequently asked questions
+
+**What is the equation linking charge, current and time?**
+Charge equals current multiplied by time, Q = It, with Q in coulombs, I in amperes and t in seconds. Convert minutes to seconds and milliamperes to amperes first.
+
+**Why is the current the same everywhere in a series circuit?**
+Charge is not used up or stored by components; each electron entering a component is matched by one leaving it. Components change the energy the charge carries, not the amount of charge passing each second.
+
+**How do you connect an ammeter and a voltmeter?**
+Connect an ammeter in series with the component so the same current passes through both. Connect a voltmeter in parallel with the component, with one terminal on each side.
+
+**Why are household lights wired in parallel?**
+In a parallel circuit, if one component fails only its own branch is broken, so the other branches keep working. Each branch also gets the full supply potential difference.
+
+**How do you find the current in one branch of a parallel circuit?**
+The supply current equals the sum of the branch currents, so subtract the known branch currents from the supply current.
+
 ## Next steps
 
 Try the [practice questions](/resources/ocr-gcse-physics-current-charge-and-circuit-conventions-practice/), then use the [revision notes](/resources/ocr-gcse-physics-current-charge-and-circuit-conventions-revision-notes/) for the final weeks. Check your coverage on the [printable checklist](/checklists/ocr/gcse/physics/) and the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), or take a [10-minute diagnostic](/diagnostics/).

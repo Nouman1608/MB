@@ -231,6 +231,20 @@ For a "describe" or "explain" question on this topic, build the answer from shor
 - Describing energy transfer as "the wave carries heat" without naming the absorber and its change.
 - Using the spacing of melted spots as the wavelength instead of doubling it.
 
+## Frequently asked questions
+
+**What is the order of the electromagnetic spectrum from longest wavelength?**
+From longest to shortest wavelength: radio, microwave, infrared, visible, ultraviolet, X-rays and gamma rays. Read the other way, the list goes from low to high frequency.
+
+**What properties do all electromagnetic waves share?**
+All electromagnetic waves are transverse, travel through a vacuum at the same speed, and transfer energy from a source to an absorber. They differ in wavelength, frequency and how they are absorbed.
+
+**Why can't we see infrared or ultraviolet?**
+The eye detects only a narrow band of visible light, about 400 nm to 700 nm. We cannot see infrared or ultraviolet because the eye is not a detector for those waves, not because they do not exist.
+
+**Which part of the OCR GCSE Physics A specification covers the electromagnetic spectrum?**
+It is topic P5.2 (The electromagnetic spectrum), statements P5.2a to P5.2f, of OCR GCSE (9-1) Gateway Science Physics A (J249). All six statements are assessed on both Foundation and Higher Tier.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), first assessment 2018, published by OCR. Topic P5.2, statements P5.2a to P5.2f.

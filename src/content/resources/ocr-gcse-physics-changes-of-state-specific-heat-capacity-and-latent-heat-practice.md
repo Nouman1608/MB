@@ -151,6 +151,20 @@ These questions cover topic P1.2 (Changes of state, statements P1.2a to P1.2f) o
 - Not explaining a conservation of mass answer in terms of the particles remaining in the system.
 - Omitting the unit, or rounding too early in a multi-step calculation.
 
+## Frequently asked questions
+
+**What are the most common mistakes in specific heat capacity and latent heat questions?**
+Common errors include leaving mass in grams, using E = mcΔθ across a flat section of a heating graph, using the wrong latent heat for melting or boiling, and missing a stage in a multi-stage problem. Giving the temperature change when the final temperature was asked for also loses marks.
+
+**How do you explain a flat section on a heating graph?**
+Energy is still being supplied, but it is overcoming the forces between particles during the change of state, so the temperature stays constant. Saying energy "stops" being supplied is wrong.
+
+**How do you explain conservation of mass in a change of state?**
+Say that the same particles remain in the system and are only rearranged, so nothing is made or destroyed. An answer that does not refer to the particles staying in the system is incomplete.
+
+**How do you solve a multi-stage heating problem?**
+Split it into stages: use E = mcΔθ for each temperature change and E = mL for each change of state, then add the energies. Sketching the temperature-time graph first helps you spot every stage.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/ocr-gcse-physics-changes-of-state-specific-heat-capacity-and-latent-heat-revision-notes/) and the [study guide](/resources/ocr-gcse-physics-changes-of-state-specific-heat-capacity-and-latent-heat/).

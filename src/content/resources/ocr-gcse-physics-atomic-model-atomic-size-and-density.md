@@ -221,6 +221,23 @@ Volume of ice = 4.6 ÷ 920 = 5.0 × 10⁻³ m³. Volume of water = 4.6 ÷ 1000 =
 - Saying particles themselves "expand" when a substance is heated. The spacing changes, not the particles.
 - Writing "gases have no mass". They have a small density, not zero.
 
+## Frequently asked questions
+
+**What is the plum pudding model?**
+Thomson's plum pudding model pictured the atom as a ball of positive charge with negative electrons spread through it. It had no nucleus, and charge and mass were spread evenly through the atom.
+
+**What did Bohr add to the atomic model?**
+Bohr placed the electrons in orbits, or energy levels, at fixed distances from the nucleus. This explained why atoms are stable and why they give out light only at particular wavelengths.
+
+**What is density?**
+Density is the mass of a substance per unit volume, density = mass ÷ volume, measured in kg/m³.
+
+**How do you find the density of an irregular object?**
+Measure its mass on a balance, then find its volume from the water it displaces in a measuring cylinder or eureka can. Divide the mass by the volume.
+
+**Why does ice float on water?**
+Ice is less dense than liquid water, because the arrangement of the particles in ice takes up more space than in liquid water. Most solids, by contrast, are slightly denser than their liquids.
+
 ## Next steps
 
 Test yourself with the [practice questions](/resources/ocr-gcse-physics-atomic-model-atomic-size-and-density-practice/), then condense with the [revision notes](/resources/ocr-gcse-physics-atomic-model-atomic-size-and-density-revision-notes/). The other density material for this course is in [OCR GCSE Physics: Matter revision notes](/resources/ocr-gcse-physics-matter-revision-notes/) and [Matter practice questions](/resources/ocr-gcse-physics-matter-practice/).

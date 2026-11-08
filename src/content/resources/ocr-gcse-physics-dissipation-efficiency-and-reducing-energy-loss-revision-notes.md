@@ -246,6 +246,20 @@ Worked reminder with a rating and efficiency together. A 500 W motor runs for 40
 - Naming only "heat" for the wasted store, without saying where it ends up (wires, casing, air).
 - Describing the cooling investigation without saying what is kept the same.
 
+## Frequently asked questions
+
+**What is the efficiency equation?**
+Efficiency = useful output energy transfer ÷ input energy transfer. It is a number between 0 and 1, which you multiply by 100 to give a percentage.
+
+**What is a kilowatt-hour in joules?**
+One kilowatt-hour is the energy transferred by a 1 kW appliance in 1 hour, which is 3.6 MJ (3 600 000 J). Use kW with hours or W with seconds, never a mix.
+
+**How does lubrication reduce wasted energy?**
+A layer of oil or grease keeps rubbing surfaces apart, so friction is smaller. Less energy is stored thermally in the surfaces and more of the input goes into the useful motion.
+
+**Which part of the OCR GCSE Physics A specification covers efficiency and energy loss?**
+It is topic P7.2 (Power and efficiency), statements P7.2a to P7.2g, of OCR GCSE (9-1) Gateway Science Physics A (J249). Describing ways to increase efficiency (P7.2e) is Higher Tier only.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), for first assessment in 2018. Topic P7.2, Power and efficiency, statements P7.2a to P7.2g.

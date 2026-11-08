@@ -147,6 +147,20 @@ These questions cover statements P5.2a to P5.2f of topic P5.2, The electromagnet
 - Giving the spacing of melted spots as the wavelength without doubling it.
 - Treating the eye's limit as a property of infrared or ultraviolet instead of the detector.
 
+## Frequently asked questions
+
+**What are the most common mistakes in electromagnetic spectrum questions?**
+Common errors include listing the spectrum in the wrong direction, saying EM waves need a medium, not converting kHz, MHz, GHz, cm, μm or nm before substituting, and claiming that one group travels faster than another in a vacuum.
+
+**How do you find the wavelength from the microwave oven practical?**
+The spacing of the melted spots is half a wavelength, so double it to get the wavelength. Giving the spacing itself as the wavelength is a common error.
+
+**How do you check your answer to a wave equation calculation?**
+Compare the size of your answer with the wavelength range of the group it should belong to. A wrong power of ten shows up at once when the answer does not fit the group.
+
+**How do you explain energy transfer by an electromagnetic wave?**
+Name the source, the wave, the absorber and the effect on the absorber, for example microwaves from an oven heating the water in food. Missing the absorber or its change loses marks.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/ocr-gcse-physics-electromagnetic-waves-and-the-spectrum-revision-notes/) and the [study guide](/resources/ocr-gcse-physics-electromagnetic-waves-and-the-spectrum/).

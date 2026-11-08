@@ -235,6 +235,23 @@ Sketch the temperature-time graph before you start. Each sloping section needs E
 - Writing that mass is lost when a liquid evaporates, without saying it has left the system as a gas.
 - Calling melting a chemical change because the substance looks different.
 
+## Frequently asked questions
+
+**Is mass conserved when a substance changes state?**
+Yes. In melting, freezing, evaporating, condensing and sublimating the particles are the same before and after, only arranged differently, so the total mass of the system stays the same.
+
+**What happens to particles when a substance is heated?**
+Heating raises the internal energy. Within one state, the particles gain kinetic energy and the temperature rises; during a change of state, the energy overcomes the forces between particles and the temperature stays constant.
+
+**What is the equation for specific heat capacity?**
+The change in internal energy is E = m × c × Δθ, where m is the mass in kg, c is the specific heat capacity in J/kg °C and Δθ is the temperature change.
+
+**Why does lagging matter in a specific heat capacity experiment?**
+Lagging reduces energy lost to the surroundings. If energy is lost, the block warms less than expected for the energy supplied, so the calculated specific heat capacity comes out too high.
+
+**What is the difference between latent heat of fusion and latent heat of vaporisation?**
+Specific latent heat of fusion is used for melting and freezing, and specific latent heat of vaporisation is used for boiling, evaporating and condensing. Both use E = mL with no temperature change.
+
 ## Next steps
 
 Work through the [revision notes](/resources/ocr-gcse-physics-changes-of-state-specific-heat-capacity-and-latent-heat-revision-notes/), then try the [practice questions](/resources/ocr-gcse-physics-changes-of-state-specific-heat-capacity-and-latent-heat-practice/). Tick off what you can do on the [OCR Physics checklist](/checklists/ocr/gcse/physics/), and use the [free 10-minute diagnostics](/diagnostics/) to find weak spots.

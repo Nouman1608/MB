@@ -235,6 +235,23 @@ Do not treat light as a separate kind of wave from the rest of the spectrum. A c
 - Giving an answer in standard form with the wrong power of ten. Check by asking whether the group fits: a radio wave should not come out at 10⁻⁷ m.
 - Describing energy transfer without naming the absorber and what happens to it.
 
+## Frequently asked questions
+
+**Are electromagnetic waves transverse or longitudinal?**
+Electromagnetic waves are transverse: linked electric and magnetic fields oscillate at right angles to the direction of travel. Because no particles of a material need to vibrate, they can travel through empty space.
+
+**Do all electromagnetic waves travel at the same speed?**
+Yes. All electromagnetic waves travel at the same speed in a vacuum, so light does not travel faster than radio waves and X-rays do not travel faster than microwaves. The groups differ in wavelength and frequency.
+
+**Is sound an electromagnetic wave?**
+No. Sound is a longitudinal wave in which particles vibrate, so it needs a medium and cannot cross a vacuum. Electromagnetic waves need no medium.
+
+**How do you calculate the wavelength of a radio wave?**
+Use wavelength = wave speed ÷ frequency, after converting the frequency to hertz. For example, a 97.5 MHz station gives a wavelength of about 3.1 m.
+
+**Is light an electromagnetic wave?**
+Yes. Visible light is part of the electromagnetic spectrum: it is transverse, travels through a vacuum, and transfers energy from a source to an absorber, just like the other groups.
+
 ## Next steps
 
 Work through the [revision notes](/resources/ocr-gcse-physics-electromagnetic-waves-and-the-spectrum-revision-notes/), then the [practice questions](/resources/ocr-gcse-physics-electromagnetic-waves-and-the-spectrum-practice/). Tick off statements on the [checklist](/checklists/ocr/gcse/physics/) and use the [free 10-minute diagnostics](/diagnostics/) to find weak areas. You can also return to the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/).

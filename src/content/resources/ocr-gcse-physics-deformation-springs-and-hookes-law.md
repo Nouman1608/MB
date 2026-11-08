@@ -260,6 +260,23 @@ Total = 14.6 N cm = 0.146 J, since 100 N cm = 1 J. The work done stretching the 
 - Calling a curved graph "plastic". Curved means non-linear.
 - Reading k from a point on the curved section instead of the straight section.
 
+## Frequently asked questions
+
+**What is Hooke's law?**
+Within the limit of proportionality, the force on a spring is directly proportional to its extension, F = ke, where k is the spring constant in N/m and e is the extension in metres.
+
+**How do you calculate extension?**
+Extension is the stretched length minus the natural, unstretched length. Using the stretched length on its own is a common mistake.
+
+**How do you calculate the energy stored in a stretched spring?**
+For a spring within its linear region, the energy stored is the area under the force-extension graph, E = ½ke². Square the extension in metres first, then multiply.
+
+**How do you find the work done stretching an elastic band?**
+An elastic band has a curved graph, so E = ½ke² does not apply. Estimate the area under the curve by counting squares or splitting it into strips treated as trapeziums.
+
+**What does the gradient of a force-extension graph show?**
+With force on the vertical axis, the gradient of the straight section is the spring constant k. A steeper line means a stiffer spring.
+
 ## Next steps
 
 Condense the unit with the [revision notes](/resources/ocr-gcse-physics-deformation-springs-and-hookes-law-revision-notes/), then try the [practice questions](/resources/ocr-gcse-physics-deformation-springs-and-hookes-law-practice/). If you want teacher guidance, [book a free trial class](/trial/).

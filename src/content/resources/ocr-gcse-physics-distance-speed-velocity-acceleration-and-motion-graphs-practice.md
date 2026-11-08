@@ -158,6 +158,20 @@ These questions cover **P2.1 Motion** (P2.1a to P2.1h) in OCR GCSE (9-1) Gateway
 - Leaving off the negative sign on a deceleration, or giving a negative distance.
 - Rounding too early and quoting an answer to the wrong number of significant figures.
 
+## Frequently asked questions
+
+**What are the most common mistakes in motion questions?**
+Common errors include not converting minutes, hours or kilometres before substituting, giving a speed when a velocity with a direction is asked for, and reading the gradient of a velocity-time graph as a distance. Squaring (v − u) instead of squaring v and u separately also loses marks.
+
+**How do you find average speed for a journey with a stop?**
+Divide the total distance by the total time, and include any stationary period in the total time. Using displacement instead of distance, or missing the stop, gives the wrong answer.
+
+**Can a distance be negative?**
+No. Distance never decreases and is never negative. A negative sign belongs on a vector such as displacement, velocity or a deceleration.
+
+**How many significant figures should a motion answer have?**
+Match the precision of the data, usually 2 or 3 significant figures, and avoid rounding until the final step.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs-revision-notes/) and the [study guide](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs/).

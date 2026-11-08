@@ -266,6 +266,20 @@ Rearranging: t = s ÷ v, v = s ÷ t, v = u + at, and a = (v² − u²) ÷ 2s. Pr
 - Forgetting that a negative acceleration is a slowing down, and quoting a deceleration with the wrong sign.
 - Taking the square root too early in a v² − u² = 2as question.
 
+## Frequently asked questions
+
+**What is the difference between speed and velocity?**
+Speed is a scalar with size only. Velocity is a vector: speed in a stated direction, so it can be negative if the direction reverses.
+
+**How do you convert km/h to m/s?**
+Divide by 3.6, because 1000 m ÷ 3600 s = 1 ÷ 3.6. To convert m/s to km/h, multiply by 3.6.
+
+**What does a horizontal line mean on a distance-time graph?**
+A horizontal line on a distance-time graph means the object is stationary. On a velocity-time graph, a horizontal line means constant velocity.
+
+**Which part of the OCR GCSE Physics A specification covers motion graphs?**
+It is P2.1 Motion, statements P2.1a to P2.1h, in Topic P2 Forces of OCR GCSE (9-1) Gateway Science Physics A (J249). Interpreting the area under a velocity-time graph (P2.1f) is Higher Tier only.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Physics A (J249)*, Version 5.0 (July 2026), for first assessment in 2018, Topic P2 Forces, P2.1 Motion.
