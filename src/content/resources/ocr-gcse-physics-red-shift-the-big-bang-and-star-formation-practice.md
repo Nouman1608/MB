@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "global-challenges-ocr-gcse"
     subtopic: "beyond-earth-ocr-gcse"
-description: "Original practice questions with worked answers on red-shift, the Big Bang, CMBR and star formation for OCR GCSE Physics A (J249)."
+description: "Original practice questions with worked answers on red-shift, the expanding universe, the Big Bang, CMBR and star formation for OCR GCSE Physics A (J249)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05

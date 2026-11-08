@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "forces-ocr-gcse"
     subtopic: "motion-ocr-gcse"
-description: "Condensed revision notes for OCR GCSE Physics A (J249) P2.1 Motion: equations, graph rules, unit conversions and a self-test with answers."
+description: "Condensed revision notes for OCR GCSE Physics A (J249) P2.1 Motion: speed and acceleration equations, graph rules, unit conversions and a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05

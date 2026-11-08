@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "magnetism-and-magnetic-fields-ocr-gcse"
     subtopic: "uses-of-magnetism-ocr-gcse"
-description: "Condensed OCR GCSE Physics A (J249) notes on transformers, the turns equation, microphones, loudspeakers and headphones, with a self-test."
+description: "Condensed OCR GCSE Physics A (J249) notes on transformers, the turns ratio equation, microphones, loudspeakers and headphones, with a short self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false

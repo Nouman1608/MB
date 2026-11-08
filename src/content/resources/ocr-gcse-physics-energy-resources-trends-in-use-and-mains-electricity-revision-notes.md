@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "global-challenges-ocr-gcse"
     subtopic: "powering-earth-ocr-gcse"
-description: "Condensed notes on energy sources, usage trends, a.c. versus d.c. and the live, neutral and earth wires for OCR GCSE Physics A (J249)."
+description: "Condensed notes on energy resources, trends in energy use, a.c. versus d.c. and the live, neutral and earth wires for OCR GCSE Physics A (J249), topic P8.2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "forces-ocr-gcse"
     subtopic: "forces-in-action-ocr-gcse"
-description: "Twelve original practice questions with worked answers on weight, free fall, fluid pressure force and hydraulics for OCR GCSE Physics A."
+description: "Twelve original practice questions with worked answers on weight, gravitational field strength, free fall, fluid pressure and hydraulics for OCR GCSE Physics A."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05

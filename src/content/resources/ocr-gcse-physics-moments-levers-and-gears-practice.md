@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "forces-ocr-gcse"
     subtopic: "forces-in-action-ocr-gcse"
-description: "Original practice questions with worked answers on moments, balance, levers and gears for OCR GCSE (9-1) Physics A (Gateway Science), J249."
+description: "Original practice questions with worked answers on moments, the principle of moments, levers and gears for OCR GCSE (9-1) Physics A (Gateway Science), J249."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05

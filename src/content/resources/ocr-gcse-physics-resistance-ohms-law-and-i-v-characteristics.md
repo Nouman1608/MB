@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "electricity-ocr-gcse"
     subtopic: "simple-circuits-ocr-gcse"
-description: "Study guide to resistance, V = IR, resistors, lamps, diodes, thermistors, LDRs and I-V graphs for OCR GCSE (9-1) Gateway Science Physics A."
+description: "Study guide to resistance, V = IR, resistors, filament lamps, diodes, thermistors, LDRs and I-V graphs for OCR GCSE (9-1) Gateway Science Physics A (J249)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false

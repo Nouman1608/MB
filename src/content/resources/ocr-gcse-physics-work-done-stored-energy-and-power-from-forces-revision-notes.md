@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "forces-ocr-gcse"
     subtopic: "newtons-laws-ocr-gcse"
-description: "Condensed revision notes on work done, stored energy and power from forces for OCR GCSE Physics A (J249), statements P2.2m to P2.2o."
+description: "Condensed revision notes on work done, energy stored in springs and power from forces for OCR GCSE Physics A (J249), statements P2.2m to P2.2o."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 featured: false

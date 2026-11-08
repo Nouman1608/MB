@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "forces-ocr-gcse"
     subtopic: "newtons-laws-ocr-gcse"
-description: "Original OCR GCSE Physics A practice questions on F = ma, inertia, momentum, collisions and circular motion, with worked answers."
+description: "Original OCR GCSE Physics A (J249) practice questions on F = ma, inertia, momentum, collisions and circular motion, with fully worked answers and marks."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05

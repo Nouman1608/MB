@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "forces-ocr-gcse"
     subtopic: "newtons-laws-ocr-gcse"
-description: "Condensed OCR GCSE Physics A revision notes on F = ma, inertial mass, momentum, collisions and circular motion, with a self-test."
+description: "Condensed OCR GCSE Physics A (J249) revision notes on F = ma, inertial mass, momentum, collisions and circular motion, with a self-test and answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
