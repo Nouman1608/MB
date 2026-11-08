@@ -223,6 +223,20 @@ Start with the claim, give one chain of reasoning, then test it. Example for "a 
 - Treating all debt as harmful without asking who holds it and what it financed.
 - Concluding with "it depends" and no stated condition.
 
+## Frequently asked questions
+
+**What is the difference between a cyclical and a structural deficit?**
+A cyclical deficit arises because the economy is below potential output, so revenue is lower and benefit spending higher. A structural deficit is the part that would remain even if the economy were at potential output.
+
+**Does a cyclical deficit need a tax rise to close it?**
+No. A cyclical deficit shrinks as the economy recovers, because tax revenue rises and benefit spending falls through the automatic stabilisers.
+
+**Are automatic stabilisers a government policy decision?**
+No. They are rules already built into the tax and benefit system that change the fiscal balance as the economy changes, with no new decision needed.
+
+**How do you judge whether national debt is too high?**
+Look at its size relative to GDP and its trend, the gap between the interest rate and nominal growth, who holds the debt and in which currency, its maturity, and what it financed.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, first teaching September 2018, published by Pearson Education Limited. Section 4.3.5, item 3 (a to c).

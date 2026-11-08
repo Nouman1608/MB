@@ -226,6 +226,20 @@ So keep producing while AR >= AVC, because revenue covers all variable costs and
 - Calling accounting profit supernormal without deducting the owner's opportunity cost.
 - Using AC rather than AVC for the short-run shutdown rule, or shutting down whenever there is a loss.
 
+## Frequently asked questions
+
+**Does falling average cost mean falling total cost?**
+No. If output rises by a larger percentage than total cost, average cost falls even though total cost is still rising.
+
+**Why do large firms get cheaper finance?**
+Large firms look less risky to lenders, so they are charged lower interest rates. This is a financial economy of scale.
+
+**How does selling in several markets reduce risk?**
+Spreading sales across products or regions means a fall in demand in one market cuts total revenue by a smaller percentage. This risk-bearing economy is one source of internal economies of scale.
+
+**Which part of the Edexcel International A Level Economics specification covers economies of scale and profit?**
+Section 3.3.2 in Unit 3 of the Pearson Edexcel International A Level Economics specification covers long-run costs, economies and diseconomies of scale, normal and supernormal profit, losses and shutdown points.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics, Specification, Issue 2, June 2018 (first teaching September 2018), published by Pearson Education Limited. Section 3.3.2, items 3 and 4, in Unit 3: Business behaviour.

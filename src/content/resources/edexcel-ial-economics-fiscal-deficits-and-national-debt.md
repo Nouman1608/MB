@@ -194,6 +194,20 @@ Assess any claim that debt is "too high" using these tests:
 
 Practise on the [practice questions](/resources/edexcel-ial-economics-fiscal-deficits-and-national-debt-practice/) and condense with the [revision notes](/resources/edexcel-ial-economics-fiscal-deficits-and-national-debt-revision-notes/).
 
+## Frequently asked questions
+
+**What is the primary balance?**
+The primary balance is government revenue minus government spending excluding interest payments on debt.
+
+**Why are deficits compared as a percentage of GDP?**
+A deficit in cash terms means little without the size of the economy, so deficits are compared across time and countries as a share of GDP.
+
+**Can a country run a budget surplus and still have a high national debt?**
+Yes. The deficit or surplus is a flow measured over a year, while the national debt is the stock of past borrowing, so a surplus can leave a high debt in place.
+
+**Which Edexcel International A Level Economics section covers fiscal deficits and national debt?**
+Section 4.3.5 in Unit 4 of the Pearson Edexcel International A Level Economics specification covers deficits and surpluses, automatic stabilisers, structural and cyclical deficits, national debt and their significance.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, first teaching September 2018, published by Pearson Education Limited. Section 4.3.5, item 3 (a to c).

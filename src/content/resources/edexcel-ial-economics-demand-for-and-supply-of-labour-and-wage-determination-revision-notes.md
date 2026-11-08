@@ -230,6 +230,20 @@ With both curves moving, one outcome is certain and the other depends on size. D
 - Stating that a tax cut always raises labour supply, with no mention of how large the response is.
 - Ignoring inflation when judging pay changes.
 
+## Frequently asked questions
+
+**Why is the demand for labour a derived demand?**
+Firms hire workers to produce output they can sell, so demand for labour depends on demand for the final product. Answers that say "more demand for workers" without this link lose marks.
+
+**What makes the demand for labour more elastic?**
+Demand for labour is more elastic when capital can easily replace workers, labour is a large share of total costs, demand for the product is elastic and over a longer time period.
+
+**Does a cut in income tax always increase labour supply?**
+Not always. A tax cut raises take-home pay and so the gain from working, but the size of the response varies, so do not assume a large rise in labour supply.
+
+**What happens to wages and employment when labour supply falls?**
+When supply falls, the wage rises and employment falls. When demand shifts, the wage and employment move in the same direction.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, first teaching September 2018, published by Pearson Education Limited. Section 3.3.4 Labour markets, items 1 to 3.

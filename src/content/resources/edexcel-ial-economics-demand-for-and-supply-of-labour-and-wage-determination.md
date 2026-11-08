@@ -214,6 +214,20 @@ Evaluation: a tight budget can hold wage costs down but may reduce staffing, rai
 - Giving "skills" as an answer on elasticity with no link to the time needed to train.
 - Treating public sector pay as set purely by the market.
 
+## Frequently asked questions
+
+**Why does higher labour productivity increase the demand for labour?**
+A more productive worker adds more output, and so more revenue, for each hour worked. If that revenue rises above the wage, firms want to hire more workers.
+
+**How do welfare benefits affect the supply of labour?**
+Higher benefits lower the gain from working compared with staying on benefits, so the supply of labour may fall. A cut in income tax works the other way by raising take-home pay.
+
+**Why is the supply of skilled labour often inelastic?**
+Long training means that few extra workers can enter the occupation quickly, especially in the short run. Over years people retrain, so supply becomes more elastic.
+
+**Which Edexcel International A Level Economics section covers labour demand, supply and wages?**
+Section 3.3.4 in Unit 3 of the Pearson Edexcel International A Level Economics specification covers the demand for and supply of labour, their elasticities and wage determination, including public sector pay.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11), Specification, Issue 2, June 2018, first teaching September 2018, published by Pearson Education Limited. Section 3.3.4 Labour markets, items 1 to 3.

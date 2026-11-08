@@ -124,6 +124,20 @@ Links: [study guide](/resources/edexcel-ial-economics-competition-policy-and-gov
 - Naming a limit to intervention without applying it to the case.
 - Giving a one-sided answer to an assess question.
 
+## Frequently asked questions
+
+**How does an RPI minus X style price cap work?**
+The capped price rises each year by the inflation rate minus an efficiency factor, X. Use the net rate (inflation minus X), not the gross inflation rate, when calculating the new cap.
+
+**Why is setting price at marginal cost a problem for a natural monopoly?**
+Price equal to marginal cost is allocatively efficient, but a natural monopoly has large fixed costs, so average cost is above marginal cost and the firm makes a loss. Forgetting this loss is a common error in Edexcel International A Level Economics questions.
+
+**Is competitive tendering only about getting the lowest price?**
+No. Firms bid to supply a public service, and the contract should be judged on quality as well as price. Describing tendering as price only loses marks.
+
+**How do you apply a limit to intervention in an assess question?**
+Pick a limit such as regulatory capture or asymmetric information and show how it would weaken the measure in the case given, then reach a balanced judgement. Naming a limit without applying it earns little credit.
+
 ## Next steps
 
 - Review the [revision notes](/resources/edexcel-ial-economics-competition-policy-and-government-intervention-in-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-competition-policy-and-government-intervention-in/).

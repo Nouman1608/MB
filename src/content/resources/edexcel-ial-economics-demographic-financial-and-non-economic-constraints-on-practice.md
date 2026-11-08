@@ -148,6 +148,20 @@ These questions cover part of section 4.3.6, item 2 of the Pearson Edexcel Inter
 - Giving only the costs of migration and ignoring remittances and skills.
 - Writing an assessment that lists factors but never judges which matters more.
 
+## Frequently asked questions
+
+**How do you work out the effective annual rate from a monthly interest rate?**
+Compound the monthly rate rather than multiplying it by 12: add 1 to the monthly rate, raise it to the power 12 and subtract 1. Multiplying by 12 understates the true cost of borrowing.
+
+**How do you calculate growth in real GDP per head accurately?**
+Divide one plus real GDP growth by one plus population growth and subtract 1. Simply subtracting population growth from GDP growth is only an approximation and may not give the precision a question asks for.
+
+**What base should you use for a fall and a recovery?**
+Use the starting figure for a fall and the lower figure as the base for the recovery. This is why a fall of a given percentage needs a larger percentage rise to recover.
+
+**Does migration only harm developing countries?**
+No. Emigration of skilled workers can cause a brain drain, but remittances sent home and skills gained abroad can benefit the country, so give both sides.
+
 ## Next steps
 
 - Re-read the [study guide](/resources/edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on/) and the [revision notes](/resources/edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on-revision-notes/).
