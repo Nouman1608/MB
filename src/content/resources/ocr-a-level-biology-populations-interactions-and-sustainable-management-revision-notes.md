@@ -234,6 +234,19 @@ Quota = percentage x estimated stock. Shares for fleets are percentages of the q
   <figcaption>Energy lost to respiration leaves as heat; only NPP and N are stored for the next trophic level.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is carrying capacity?**
+Carrying capacity is the maximum population size that an environment can sustain over a long period. It is set by whichever limiting factor is most in short supply.
+
+**What is the difference between intraspecific and interspecific competition?**
+Intraspecific competition is between members of the same species, while interspecific competition is between different species.
+
+**What does sustainable use mean?**
+Sustainable use means harvesting a biological resource no faster than it is replaced, so it remains available in the future.
+
+**What is a limiting factor?**
+A limiting factor is a variable in short supply that keeps a population below the size it could otherwise reach. These notes cover OCR A Level Biology A (H420) section 6.3.2.
 
 ## Official syllabus
 

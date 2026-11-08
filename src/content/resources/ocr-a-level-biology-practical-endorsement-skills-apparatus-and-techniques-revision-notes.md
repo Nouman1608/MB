@@ -284,6 +284,23 @@ Mark–recapture assumptions: population closed, marks last and cause no harm, m
 - No stated reason when suggesting an improvement, such as a data logger.
 - Leaving out the unit in calculated answers.
 
+## Frequently asked questions
+
+**Does "no colour change" with Benedict's prove that no sugar is present?**
+No. A negative Benedict's test shows that no reducing sugar is present, but a non-reducing sugar may still be there. It is detected only after an acid hydrolysis step, followed by neutralisation and a repeat of the test.
+
+**How should aseptic technique be described?**
+Name the specific actions, such as flaming the inoculating loop and working near a Bunsen flame, rather than writing "keep it clean".
+
+**What makes a good scientific drawing?**
+Use clear continuous lines with no shading, label lines that do not cross, and draw only what you can see, with a title and a scale.
+
+**When can you use the word "reliable"?**
+Say what was repeated and how close the repeats were. Using "reliable" without this detail does not show why the results can be trusted.
+
+**What do these notes cover for OCR A Level Biology?**
+They cover OCR A Level Biology A (H420) sections 1.2.1 practical skills and 1.2.2 techniques, which are assessed through the Practical Endorsement and in the written papers.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Biology A (H420), specification Version 4.1 (April 2026), for first assessment in 2025, published by OCR. Sections 1.2.1 and 1.2.2 are the source for these notes.

@@ -150,6 +150,23 @@ These questions cover outcomes B6.2a, B6.2b and B6.2c of the OCR *GCSE (9-1) Gat
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - Talk to a teacher: [book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Why is fertiliser not "plant food"?**
+Fertilisers supply mineral ions, such as nitrates, that plants need for growth; plants make their own food by photosynthesis. Calling fertiliser "plant food" loses the mark.
+
+**What step is often missed in eutrophication answers?**
+The oxygen step: decomposers break down dead plants and algae and use up oxygen in the water, and the lack of oxygen is what kills fish. Leaving this out is a common error.
+
+**Do pests become immune to pesticides?**
+No. Some individuals already have resistance; they survive the pesticide and reproduce, passing resistance to their offspring. Describe this survival of resistant individuals rather than saying pests become "immune".
+
+**Why is "expensive" not a full answer?**
+Say what costs money, such as equipment, energy or labour. A one-word answer such as "expensive" does not explain the disadvantage.
+
+**Which J247 outcomes do these questions cover?**
+They cover OCR GCSE Biology A (J247) outcomes B6.2a to B6.2c: food security, fertilisers, pesticides, hydroponics, biological control and selective breeding.
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Gateway Science Biology A (J247)*, Version 4.0 (August 2026), for first assessment in 2018, topic B6.2 Feeding the human race, outcomes B6.2a to B6.2c.

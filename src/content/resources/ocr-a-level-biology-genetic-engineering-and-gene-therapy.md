@@ -237,6 +237,23 @@ A company can patent a modified organism or gene. A patent rewards invention, bu
 - Calling cDNA a gene cut from the chromosome. It is made from mRNA, so it has no introns.
 - Giving ethics answers with one side only, or with no conclusion.
 
+## Frequently asked questions
+
+**Why can a bacterium make a human protein?**
+The genetic code is universal, so a bacterium's ribosomes read the codons of a human gene in the same way as human ribosomes. This is the principle that makes genetic engineering possible.
+
+**What are the four stages of genetic engineering?**
+Isolate the gene of interest, insert it into a vector, transfer the recombinant vector into host cells, and identify and grow the cells that took it up.
+
+**Why does an inserted gene need a promoter?**
+A promoter at the start of the gene lets RNA polymerase begin transcription in the host cell. Without a promoter that works in the host, the gene is present but not expressed.
+
+**What is the difference between sticky ends and blunt ends?**
+Sticky ends are short single-stranded overhangs left when a restriction enzyme such as EcoRI makes staggered cuts in a palindromic recognition sequence. Blunt ends are left by enzymes that cut straight across both strands.
+
+**Which learning outcomes does this guide cover?**
+It covers OCR A Level Biology A (H420) module 6.1.3, learning outcomes (f), (g) and (h): genetic engineering, its ethical issues and gene therapy. Outcomes (a) to (e) of the same module are taught elsewhere.
+
 ## Official syllabus
 
 This guide follows OCR Level 3 Advanced GCE in Biology A (H420), Version 4.1 (April 2026), for first assessment in 2025, published by OCR (Cambridge University Press & Assessment), module 6.1.3(f) to (h).

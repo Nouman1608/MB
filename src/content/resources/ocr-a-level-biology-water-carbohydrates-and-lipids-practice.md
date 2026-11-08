@@ -146,6 +146,23 @@ These questions cover learning outcomes 2.1.2(a) to 2.1.2(j) of the OCR A Level 
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How many water molecules are released when a polymer forms?**
+A polymer of n monomers is joined by n − 1 bonds, so n − 1 water molecules are released in the condensation reactions. Using n instead of n − 1 is a common error.
+
+**How do you write a full-mark answer on a property of water?**
+Link the property to its cause in hydrogen bonding, and then to its role for the organism. If the question asks about prokaryotes or eukaryotes, use an example from that group rather than only a human example.
+
+**Why should I write amylose or amylopectin instead of starch?**
+Starch is a mixture of two polysaccharides with different structures: amylose is unbranched and amylopectin is branched. Questions about structure often need the specific name.
+
+**Is cholesterol found in every membrane?**
+No. Cholesterol is found in animal cell membranes, where it stabilises the membrane, but most prokaryotes make no cholesterol. Describing it as part of every membrane is a common mistake.
+
+**Which outcomes do these questions cover?**
+They cover OCR A Level Biology A (H420) section 2.1.2, learning outcomes (a) to (j): water, carbohydrates, triglycerides, phospholipids and cholesterol.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420) specification*, Version 4.1 (April 2026), first assessment 2025: section 2.1.2, learning outcomes (a) to (j).

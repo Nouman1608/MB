@@ -169,6 +169,23 @@ These questions are for OCR A Level Biology A (H420), written to the OCR specifi
 - The free [10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Why is "the gene is faulty" not enough in a mutation answer?**
+Mark schemes want the chain of effects named: which codon changes, which amino acid is altered or lost, and how the polypeptide's structure or function changes. A vague statement about a faulty gene does not show that chain.
+
+**Do all deletions cause a frameshift?**
+No. A deletion or insertion causes a frameshift only if the number of nucleotides is not a multiple of three. Deleting three nucleotides keeps the reading frame, so only the amino acid at that site is lost.
+
+**What is the most common error in lac operon questions?**
+Mixing up the operator, promoter and regulatory gene, or saying that lactose binds the operator. Lactose binds the repressor protein and changes its shape, so the repressor can no longer bind to the operator.
+
+**Where are introns removed?**
+Introns are removed from the primary mRNA in the nucleus, not from the DNA and not in the cytoplasm. Getting the location wrong is a common way to lose a mark.
+
+**Which specification section do these questions test?**
+They test OCR A Level Biology A (H420) section 6.1.1 Cellular control: gene mutations, control of gene expression, Hox genes, and mitosis and apoptosis in development.
+
 ## Official syllabus
 
 Source: OCR, A Level Biology A (H420), specification Version 4.1 (April 2026), first assessment 2025, module 6.1.1 Cellular control, learning outcomes (a) to (d).

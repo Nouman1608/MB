@@ -247,6 +247,23 @@ Synaptic delay is separate. Each synapse adds a delay because diffusion of the t
 - Forgetting that acetylcholinesterase is needed to end the response.
 - Confusing the pump with channels, or confusing hyperpolarisation with repolarisation.
 
+## Frequently asked questions
+
+**What is a generator potential?**
+A generator potential is a graded depolarisation of a receptor membrane caused by a stimulus. If it reaches the threshold, it triggers an action potential in the sensory neurone.
+
+**What is the threshold potential?**
+The threshold is the membrane potential, about −55 mV, at which positive feedback begins and an action potential is generated.
+
+**What is saltatory conduction?**
+In a myelinated axon, action potentials appear only at the nodes of Ranvier, the gaps in the myelin, so the impulse jumps from node to node. This makes conduction faster than in a non-myelinated neurone.
+
+**Is the resting potential caused only by the sodium-potassium pump?**
+No. The pump moves sodium ions out and potassium ions in, but the resting potential also depends on the membrane being more permeable to potassium ions, which diffuse back out. Leaving out permeability is a common error.
+
+**What does section 5.1.3 of OCR A Level Biology cover?**
+Section 5.1.3 of OCR A Level Biology A (H420) covers sensory receptors as transducers, neurone types, resting and action potentials, myelination and cholinergic synapses.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Biology A (H420), specification Version 4.1 (April 2026), first assessment 2025, published by OCR. These notes follow section 5.1.3, learning outcomes (a) to (d).

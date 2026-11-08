@@ -210,6 +210,23 @@ These notes are for OCR A Level Biology A (H420), written to the OCR specificati
 * Plotting fragment length (not its logarithm) against distance and reading a curve badly.
 * Describing synthetic biology as simply "genetic engineering" without mentioning design and synthesis.
 
+## Frequently asked questions
+
+**What is a short tandem repeat?**
+A short tandem repeat (STR) is a short base sequence repeated head to tail in non-coding DNA, and the number of repeats at a locus varies between people. A DNA profile is the combination of repeat lengths at several loci.
+
+**What is the job of a primer in PCR?**
+A primer is a short single-stranded piece of DNA that binds to the template by complementary base pairing and gives DNA polymerase a starting point. Two primers are used, one for each end of the target region.
+
+**What is the difference between bioinformatics and computational biology?**
+Bioinformatics is the development and use of software and databases to store, search and analyse biological data, especially sequences. Computational biology applies computer models and algorithms to study biological systems.
+
+**What is synthetic biology?**
+Synthetic biology is designing and building new biological parts, systems or organisms, or redesigning existing ones. Sequencing has made it possible, as required by OCR A Level Biology A (H420) section 6.1.3(b)(iii).
+
+**How is high throughput sequencing different from Sanger sequencing?**
+High throughput sequencing runs millions of reactions at once and uses software to assemble the short reads, making it much faster and cheaper per base. Details of high throughput methods are not required for H420.
+
 ## Official syllabus
 
 OCR Advanced GCE in Biology A (H420) specification, Version 4.1, April 2026, for first assessment in 2025, published by OCR (Cambridge University Press and Assessment): module 6.1.3, learning outcomes (a) to (e).

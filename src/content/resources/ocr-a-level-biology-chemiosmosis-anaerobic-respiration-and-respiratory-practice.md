@@ -174,6 +174,23 @@ These questions cover OCR A Level Biology A (H420) section 5.2.2 Respiration, le
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How should I approach an explain question on chemiosmosis?**
+Work through the chain in order, naming each structure and saying what happens there before stating the result for ATP. Always say which side of the membrane protons are pumped to and which way they flow, because a vague "protons are pumped across" leaves the gradient unclear.
+
+**What is the most common mistake in respirometer calculations?**
+Using the diameter instead of the radius in π r² is a frequent error. Another is working out carbon dioxide from the tube without an absorber alone, when it actually comes from the difference between the readings with and without the absorber.
+
+**How do you handle pH differences in proton gradient questions?**
+pH is a logarithmic scale, so a difference in pH is a power of ten, not a simple multiple. A difference of 1.0 pH unit is a ten-fold difference in H⁺ concentration, so show the power of ten in your working.
+
+**How are calculation marks usually awarded in these questions?**
+Marks are typically split between the working and the final answer, so show the division or formula before the answer. Give the number of significant figures asked for and include the unit, such as mm³ or percent, with the value.
+
+**What syllabus content do these practice questions test?**
+They test OCR A Level Biology A (H420) section 5.2.2 Respiration, learning outcomes (h) to (l), including chemiosmosis, anaerobic respiration, energy values, the respiratory quotient and respirometers. They are original questions, not reproduced past-paper items.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Biology A (H420), specification Version 4.1 (April 2026), first assessment 2025, published by OCR. These questions follow section 5.2.2 Respiration, learning outcomes (h) to (l).

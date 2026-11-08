@@ -230,6 +230,23 @@ The **cytoskeleton** is a network of protein fibres and tubules in the cytoplasm
 - Describing SEM as showing internal structure.
 - Saying that prokaryotes have "no DNA", rather than no nucleus.
 
+## Frequently asked questions
+
+**What is the difference between magnification and resolution in OCR A Level Biology?**
+Magnification is how many times larger the image is than the real specimen, while resolution is the smallest gap at which two neighbouring points can still be seen as separate. Electron microscopes resolve finer detail because an electron beam has a much shorter wavelength than light; enlarging an image beyond the resolution only gives a bigger, blurrier picture.
+
+**How do you calibrate an eyepiece graticule?**
+Line up the eyepiece graticule with a stage micrometer, whose divisions have a known length, and work out how much real length one graticule division represents. The calibration must be repeated, or scaled, for every objective lens because the graticule divisions have no fixed size.
+
+**Do I need to learn the exact resolution of each microscope for H420?**
+No. Section 2.1.1 of the OCR A Level Biology A (H420) specification does not require you to recall exact resolutions or magnifications, but you must be able to say which microscope gives more detail and explain why.
+
+**Why can electron microscopes not be used to view living cells?**
+Both the TEM and the SEM keep the specimen in a vacuum, which kills living material. Preparing specimens can also create artefacts, features in the image that were not present in the living cell.
+
+**What are the main differences between prokaryotic and eukaryotic cells?**
+Prokaryotes have circular DNA free in the cytoplasm with no nucleus, smaller 70S ribosomes, no membrane-bound organelles and a peptidoglycan cell wall in bacteria. Eukaryotes have linear DNA wound round histones inside a nucleus, larger 80S ribosomes in the cytoplasm and membrane-bound organelles.
+
 ## Official syllabus
 
 OCR, A Level in Biology A (H420), specification Version 4.1 (April 2026), section 2.1.1 Cell structure.

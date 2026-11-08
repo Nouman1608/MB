@@ -282,6 +282,20 @@ Link each improvement to a specific limitation and say what it achieves.
 - Using one reading's uncertainty for a difference of two readings.
 - Writing "human error" instead of a specific cause.
 
+## Frequently asked questions
+
+**What is the difference between independent, dependent and control variables?**
+The independent variable is the one you change, the dependent variable is the one you measure, and control variables are the others that you keep the same because they would affect the result if they changed.
+
+**Why use a gas syringe instead of a measuring cylinder?**
+A gas syringe measures a volume of gas directly and more precisely than a measuring cylinder inverted over water, making it a better apparatus choice for enzyme experiments that release oxygen.
+
+**How do you deal with variation between individual organisms?**
+Differences between individual organisms cannot be controlled, so use repeats and larger samples to reduce their effect on the conclusion.
+
+**Are practical skills tested in the written papers for OCR A Level Biology?**
+Yes. Section 1.1 of OCR A Level Biology A (H420) covers practical skills assessed in the written examination, and the specification says these skills are embedded throughout the content.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Biology A (H420), Version 4.1, April 2026, for first assessment in 2025, published by OCR. Section 1.1 and the mathematical requirements in section 5d.

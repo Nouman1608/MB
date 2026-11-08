@@ -179,6 +179,23 @@ At a different synapse onto the same neurone, an inhibitory neurotransmitter ope
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Does a stronger stimulus produce a bigger action potential?**
+No. Action potentials are all-or-nothing, so they are always the same size once the threshold is reached. A stronger stimulus increases the frequency of action potentials, and saying it makes them larger is a common error.
+
+**What must be included when explaining the rapid rise of an action potential?**
+Include positive feedback: as voltage-gated sodium channels open, sodium ions diffuse in, which depolarises the membrane further and opens more channels. Leaving out positive feedback is one of the most frequent ways to lose marks.
+
+**What is the difference between depolarisation, repolarisation and hyperpolarisation?**
+In depolarisation the inside of the membrane becomes less negative or positive, in repolarisation it returns towards the resting value, and in hyperpolarisation it becomes more negative than the resting potential.
+
+**How do I avoid unit errors in nerve impulse calculations?**
+Convert milliseconds to seconds before calculating speed or frequency, and always give the unit with the answer, such as m s⁻¹ or Hz.
+
+**Which part of the OCR specification do these questions cover?**
+They cover OCR A Level Biology A (H420) section 5.1.3 Neuronal communication: receptors, neurones, resting and action potentials, myelination and synapses.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Biology A (H420), specification Version 4.1 (April 2026), first assessment 2025, published by OCR. These questions follow section 5.1.3, learning outcomes (a) to (d).

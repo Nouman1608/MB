@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Condensed recall notes on variables, validity, reliability, accuracy, precision and uncertainty for OCR A Level Biology H420."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -234,3 +236,19 @@ Compare the calculated value with the **critical value at p = 0.05**. If the cal
   <figcaption>If the calculated value exceeds the critical value at p = 0.05, reject the null hypothesis.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between repeatable and reproducible results?**
+Results are repeatable if the same person using the same method and apparatus gets the same result. They are reproducible if the same result is obtained when the operator, apparatus or method changes.
+
+**What is a zero error?**
+A zero error is a type of systematic error in which an instrument does not read zero when it should. If a graph line should pass through the origin but has an intercept, that suggests a systematic error.
+
+**What does resolution mean for a measuring instrument?**
+Resolution is the smallest change a measuring instrument can detect. It is a property of the instrument, not of the readings taken with it.
+
+**What does valid mean in a biology investigation?**
+A valid investigation measures what it is supposed to measure, which needs a fair test with controlled variables. Validity is a different quality from accuracy and precision.
+
+**Can results be precise but not accurate?**
+Yes. A wrongly calibrated balance gives consistent readings that are consistently wrong, so the results are precise but not accurate. These notes cover practical skills for OCR A Level Biology A (H420).

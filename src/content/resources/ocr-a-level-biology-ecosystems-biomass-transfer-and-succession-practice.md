@@ -169,6 +169,23 @@ Calculate χ², state the degrees of freedom and, given a critical value of 7.81
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Why is dry mass used instead of fresh mass to measure biomass?**
+Water content varies between organisms and over time, so fresh mass is unreliable. Measuring fresh mass and calling it biomass is a common way to lose marks.
+
+**What is the most common error in efficiency calculations?**
+Dividing by the wrong total. Efficiency is the biomass transferred divided by the biomass intake of that trophic level, multiplied by 100, so check which figure is the intake before you divide.
+
+**How do you explain energy losses between trophic levels in an exam?**
+Name the route rather than writing that energy is simply "lost": some biomass is not eaten, some is egested in faeces, some is excreted as urea, and energy is released as heat by respiration.
+
+**How do you avoid mistakes in chi-squared and correlation questions?**
+State the null hypothesis, use the correct degrees of freedom and critical value, and compare the calculated value with the critical value. Remember that a correlation shows an association, not that one factor causes the other.
+
+**Which section of the H420 specification do these questions cover?**
+They cover OCR A Level Biology A (H420) section 6.3.1 (a) to (e): ecosystems, biomass transfer, nutrient cycles, succession, and sampling with statistics.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420)* specification, Version 4.1 (April 2026), for first assessment in 2025: section 6.3.1(a) to (e), Ecosystems.

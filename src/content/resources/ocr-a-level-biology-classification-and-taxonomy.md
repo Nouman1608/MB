@@ -233,6 +233,19 @@ Test yourself with the [practice questions](/resources/ocr-a-level-biology-class
   <figcaption>Fewer base differences mean a more recent common ancestor.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Why can common names cause confusion in biology?**
+Many organisms have several common names, and one common name can refer to different organisms in different places; a buzzard in Britain is a bird of prey, but in North America the word is often used for vultures. Common names also differ between languages, which the binomial system avoids.
+
+**How can you tell how closely related two organisms are from their classification?**
+Find the lowest taxon they share. The lower the rank at which two organisms first share a taxon, the more features they have in common and the more recently they share a common ancestor.
+
+**Can the genus name be shortened in a binomial?**
+Yes. After the full name has been given once, the genus can be shortened to its initial, for example *R. temporaria* for the common frog *Rana temporaria*.
+
+**Is cladistics required for OCR A Level Biology A?**
+No. Section 4.2.2(d) of the OCR A Level Biology A (H420) specification asks you to explain the relationship between classification and phylogeny, but states that cladistics is not required.
 
 ## Official syllabus
 

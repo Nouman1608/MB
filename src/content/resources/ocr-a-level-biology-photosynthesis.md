@@ -208,6 +208,20 @@ Isolated chloroplasts can also be used: DCPIP is a blue dye that loses its colou
 - Swapping the way GP and RuBP change when carbon dioxide or light falls.
 - Giving Rf as a distance rather than a ratio.
 
+## Frequently asked questions
+
+**How are photosynthesis and respiration linked?**
+The products of each process are the raw materials of the other: photosynthesis uses carbon dioxide and water to make glucose and oxygen, and aerobic respiration uses glucose and oxygen and releases carbon dioxide and water. Photosynthesis stores light energy in chemical bonds, while respiration releases it to make ATP.
+
+**What happens when photosynthesis and respiration occur at the same rate?**
+At the light intensity where the rates of photosynthesis and respiration are equal, there is no net gas exchange. When photosynthesis is faster than respiration, there is a net uptake of carbon dioxide and net release of oxygen.
+
+**What is the overall equation for photosynthesis?**
+The overall equation is 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂, using light energy absorbed by chlorophyll.
+
+**Is respiration part of this photosynthesis unit?**
+No. This guide covers OCR A Level Biology A (H420) learning outcomes 5.2.1(a) to (g); respiration is section 5.2.2, a separate unit.
+
 ## Official syllabus
 
 OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025, published by OCR. Section 5.2.1 Photosynthesis.

@@ -303,6 +303,20 @@ The rate falls because substrate is used up, so there are fewer collisions with 
 - Pairing A with G or C with T.
 - Forgetting units in rates, such as cm³/s or g/min.
 
+## Frequently asked questions
+
+**What is the lock and key model?**
+In the lock and key model, the substrate fits the specific shape of the enzyme's active site, like a key in a lock. This explains why each enzyme is specific to one substrate.
+
+**Is protein synthesis on the Foundation tier of OCR GCSE Biology?**
+No. Statements B1.2d and B1.2e, on protein synthesis and how DNA structure affects proteins, are in bold in the OCR GCSE Biology A (J247) specification and are tested only in the Higher Tier papers.
+
+**Which bases pair together in DNA?**
+A pairs only with T, and G pairs only with C. Because the pairs are complementary, if you know the sequence of one strand you can write the other.
+
+**What factors affect the rate of enzyme reactions?**
+The specification names pH, temperature, substrate concentration and enzyme concentration as the factors that affect enzyme-controlled reactions.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), for first assessment in 2018, published by OCR: module B1.2.

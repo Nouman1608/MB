@@ -204,6 +204,20 @@ Time = 240 ÷ 8 = **30 seconds**.
 
 Work through the [practice questions](/resources/ocr-a-level-biology-the-genetic-code-transcription-and-translation-practice/) and tick off the topic on the [checklist](/checklists/ocr/a-level/biology/).
 
+## Frequently asked questions
+
+**What are the four features of the genetic code?**
+The genetic code is triplet, non-overlapping, degenerate and universal, as required by OCR A Level Biology A (H420) learning outcome 2.1.3(f).
+
+**Why is the genetic code a triplet code?**
+One base per amino acid would give only 4 codes and two bases only 16, fewer than the 20 amino acids used in proteins. Three bases give 64 codes, enough for all 20 amino acids and for start and stop signals.
+
+**How does a gene determine the shape of a protein?**
+The base sequence of the gene fixes the amino acid sequence, which is the primary structure. The R groups of the amino acids interact to fold the chain, so the base sequence indirectly sets the protein's shape and function.
+
+**Why does a cell need mRNA to make proteins?**
+In a eukaryotic cell DNA stays in the nucleus, but proteins are made on ribosomes in the cytoplasm. mRNA carries a copy of the gene's message from the nucleus to the ribosomes.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420) specification*, Version 4.1 (April 2026), first assessment 2025: module 2.1.3 Nucleotides and nucleic acids, learning outcomes (f) and (g).

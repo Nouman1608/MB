@@ -244,6 +244,20 @@ A tiny rate per replication still produces many mutations across a large populat
 - Saying ATP is "an energy store". It is a molecule whose hydrolysis releases energy.
 - Using "ribose" for DNA or "thymine" for RNA.
 
+## Frequently asked questions
+
+**What are the three parts of a nucleotide?**
+Every nucleotide has a pentose sugar, a phosphate group and a nitrogenous base, joined by covalent bonds. A nucleotide is the monomer from which nucleic acids are built.
+
+**What is the difference between ribose and deoxyribose?**
+Ribose has a hydroxyl group on the carbon next to the one that carries the base, while deoxyribose has only a hydrogen atom there. So deoxyribose has one fewer oxygen atom than ribose.
+
+**What does antiparallel mean in DNA?**
+The two polynucleotide strands of DNA run in opposite directions, one 5′ to 3′ and the other 3′ to 5′. The strands are held together by hydrogen bonds between complementary bases and twist to form a double helix.
+
+**Is the genetic code part of this unit?**
+No. This guide covers OCR A Level Biology A (H420) section 2.1.3 outcomes (a) to (e); outcomes (f) and (g), the genetic code and protein synthesis, are separate topics.
+
 ## Official syllabus
 
 OCR, *Level 3 Advanced GCE in Biology A (H420)*, Version 4.1 (April 2026), first assessment 2025, section 2.1.3.

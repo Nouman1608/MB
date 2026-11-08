@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on cell structure, enzymes, respiration and photosynthesis for OCR GCSE Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -222,3 +224,20 @@ D) The sequence of bases in one chromosome only **[1]**
 - Forgetting to convert both measurements to the same unit before dividing in a magnification calculation.
 - Saying a prokaryotic cell has "no DNA" rather than "no nucleus" — the DNA is present, just not enclosed.
 - Giving the rate of a `1000 ÷ time` calculation without units, or inventing units that were never specified — state the value as arbitrary rate units unless the question gives real ones.
+
+## Frequently asked questions
+
+**What topics do these OCR GCSE Biology cell level practice questions cover?**
+They cover Topic B1 Cell level systems of OCR GCSE Biology A (J247): cell structure and microscopy, DNA, enzymes, respiration and photosynthesis. The set has a multiple-choice section followed by short-answer and extended questions.
+
+**What should I check when writing a chemical equation in biology?**
+If a balanced symbol equation is asked for, check that the numbers of each atom are equal on both sides. Writing the photosynthesis equation without balancing it is a common way to lose a mark.
+
+**What units should a 1000 ÷ time rate have?**
+Give it as arbitrary rate units unless the question gives real units. Leaving out units, or inventing units that were never specified, can cost the mark.
+
+**What is the most common error in magnification calculations?**
+Forgetting to convert both measurements to the same unit before dividing image size by actual size. A bigger, blurrier image is also not "more detail", because detail depends on resolution.
+
+**How should I answer a "compare" question in GCSE Biology?**
+Make each point about both things being compared, for example stating what happens in aerobic and in anaerobic respiration for the same feature. A list about only one of them does not count as a comparison.

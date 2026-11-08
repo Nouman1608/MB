@@ -210,6 +210,23 @@ Electrophoresis separates charged molecules in an electric field through a gel.
 * Saying DNA moves because of its mass. It moves because of its negative charge, and the gel slows long fragments more.
 * Treating a profile match as proof of identity.
 
+## Frequently asked questions
+
+**Why is Taq polymerase used in PCR?**
+Taq polymerase is a thermostable DNA polymerase from a heat-tolerant bacterium, so it is not denatured by the repeated heating to about 95 °C in each cycle. This means it keeps working through many cycles of denaturation, annealing and extension.
+
+**What are the three temperature steps in a PCR cycle?**
+Denaturation at about 95 °C separates the strands, annealing at about 50 to 65 °C lets the primers bind, and extension at about 72 °C lets the polymerase add nucleotides to the 3′ end of each primer. Ideally the number of copies doubles each cycle.
+
+**Is a DNA profile match proof of guilt?**
+No. Using more loci makes a chance match less likely, but a match between a crime scene sample and a suspect is not proof of guilt on its own.
+
+**How does gene sequencing show how closely related two species are?**
+Species with more similar sequences diverged from a common ancestor more recently, because fewer mutations have built up since they split. Aligning sequences and counting differences gives a measure of similarity that helps to build evolutionary trees.
+
+**Do I need to know the details of high throughput sequencing for OCR A Level Biology?**
+No. Section 6.1.3(a) of OCR A Level Biology A (H420) asks you to explain the move from Sanger sequencing to high throughput sequencing, but states that details of high throughput methods are not required.
+
 ## Official syllabus
 
 OCR Advanced GCE in Biology A (H420) specification, Version 4.1, April 2026, for first assessment in 2025, published by OCR (Cambridge University Press and Assessment): module 6.1.3, learning outcomes (a) to (e).

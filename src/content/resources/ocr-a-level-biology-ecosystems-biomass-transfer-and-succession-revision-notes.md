@@ -238,6 +238,22 @@ Use P = 0.05 unless told otherwise.
   <figcaption>Energy lost to respiration leaves as heat; only NPP and N are stored for the next trophic level.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**Which bacteria carry out nitrification?**
+Nitrosomonas converts ammonium ions to nitrite, and Nitrobacter converts nitrite to nitrate. Both need oxygen, so nitrification is slow in waterlogged soil.
+
+**Where does denitrification happen?**
+Denitrifying bacteria convert nitrate back to nitrogen gas in anaerobic conditions, such as waterlogged soil, which lowers soil fertility.
+
+**Is a climax community unchanging?**
+No. A climax community is relatively stable, with dominant species in balance with the climate and soil, but it is still dynamic rather than fixed.
+
+**How should a sampling method be described in an exam answer?**
+Say how the sample positions are chosen, for example random coordinates from a random number generator for random sampling, or regular intervals along a transect for systematic sampling. Leaving this out is a common reason for losing marks.
+
+**What does OCR A Level Biology section 6.3.1 cover?**
+Section 6.3.1 of OCR A Level Biology A (H420) covers ecosystems, biomass transfer and efficiency, the nitrogen and carbon cycles, primary and deflected succession, and measuring distribution and abundance with statistics.
 
 ## Official syllabus
 

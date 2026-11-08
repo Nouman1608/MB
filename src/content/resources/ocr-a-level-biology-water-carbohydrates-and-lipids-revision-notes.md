@@ -240,6 +240,23 @@ Energy: 4 g of lipid at 38 kJ g⁻¹ gives 152 kJ. The mass of carbohydrate at 1
 - Explaining the bilayer without naming which region faces water.
 - Calling cholesterol a phospholipid or a triglyceride.
 
+## Frequently asked questions
+
+**What is the difference between alpha and beta glucose?**
+Alpha and beta glucose have the same formula, C₆H₁₂O₆, but differ in the position of the hydroxyl group on carbon 1. Describing them as having different formulae is a common error.
+
+**Where are hydrogen bonds in water found?**
+Hydrogen bonds form between neighbouring water molecules, from the δ+ hydrogen of one molecule to the δ− oxygen of another. They are not between the atoms within one molecule, which are joined by covalent bonds.
+
+**What is the difference between condensation and hydrolysis?**
+Condensation joins monomers and releases water, while hydrolysis breaks a bond by using water. Confusing which one uses water loses marks.
+
+**Why is cellulose strong?**
+Hydrogen bonds form between neighbouring cellulose chains, holding them together in strong fibres. Describing the function of cellulose without this hydrogen bonding is incomplete.
+
+**What do these notes cover in the OCR specification?**
+They cover OCR A Level Biology A (H420) section 2.1.2 (a) to (j): water, monomers and polymers, carbohydrates and lipids.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420) specification*, Version 4.1 (April 2026), first assessment 2025: section 2.1.2, learning outcomes (a) to (j).

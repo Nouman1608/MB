@@ -235,6 +235,20 @@ Cholesterol is a small, flat, four-ring steroid with one polar –OH group. In a
 - Writing "n water molecules" for a chain of n monomers. A chain needs n − 1 condensations.
 - Calling a triglyceride a polymer made of identical units.
 
+## Frequently asked questions
+
+**Why is water a polar molecule?**
+The shared electrons in the O–H bonds lie nearer the oxygen atom, so oxygen carries a small negative charge (δ−) and each hydrogen a small positive charge (δ+). This uneven charge makes water polar.
+
+**What are the biological roles of water in OCR A Level Biology?**
+The OCR A Level Biology A (H420) specification links water's properties to its roles as a solvent, a transport medium, a coolant and a habitat, with examples from both prokaryotes and eukaryotes.
+
+**What is a hydrogen bond?**
+A hydrogen bond is the attraction between the δ+ hydrogen of one water molecule and the δ− oxygen of a neighbouring molecule. Each bond is weak, but large numbers of them give water its properties.
+
+**Do I need to draw molecular structures for this topic?**
+Yes. The specification says this section should include diagrams of molecular structure and bonding, so practise sketching each structure, such as glucose, triglycerides and phospholipids.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420) specification*, Version 4.1 (April 2026), first assessment 2025: section 2.1.2, learning outcomes (a) to (j).

@@ -221,6 +221,20 @@ Blood glucose rises from 4.8 to 7.6 mmol/dm³. Change = 2.8; percentage = 2.8 ÷
 * Calculating percentage change using the final value as the denominator.
 * Giving a rate with no units, or a rate per minute when per hour was asked.
 
+## Frequently asked questions
+
+**What happens to skin arterioles when the body is cold?**
+The arterioles supplying the skin narrow (vasoconstriction), so less blood flows near the surface and less heat is transferred to the surroundings. Blood vessels do not move away from the skin.
+
+**Why does a low body temperature slow reactions?**
+At low temperature, enzyme and substrate particles have less kinetic energy, so there are fewer successful collisions and metabolic reactions run too slowly. Missing this link is a common reason for losing marks.
+
+**How does insulin lower blood glucose?**
+Insulin causes cells to take up glucose from the blood and the liver to store it as glycogen. Saying only that insulin "turns glucose into glycogen" without mentioning the liver or cells taking up glucose is incomplete.
+
+**Is glucagon on the Foundation tier of OCR GCSE Biology?**
+No. Statement B3.3d, how glucagon interacts with insulin, is Higher Tier only in OCR GCSE Biology A (J247).
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Module B3.3, statements B3.3a to B3.3e.

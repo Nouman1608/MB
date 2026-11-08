@@ -247,6 +247,23 @@ Advantages: the insulin has the human amino acid sequence, so it is less likely 
 - Saying insulin enters cells. It binds to a surface receptor.
 - Muddling the beta cell sequence: glucose, ATP, potassium channels close, depolarisation, calcium channels open, exocytosis.
 
+## Frequently asked questions
+
+**Why do steroid hormones act more slowly than insulin?**
+Steroid hormones such as cortisol and aldosterone are lipid-soluble, so they cross the membrane and bind receptors inside the cell, altering gene transcription. Water-soluble hormones such as insulin bind surface receptors and trigger a faster internal signalling pathway.
+
+**What hormones are made by the adrenal cortex and medulla?**
+The cortex makes mineralocorticoids, mainly aldosterone, and glucocorticoids, mainly cortisol. The medulla makes adrenaline and noradrenaline for the short-term "fight or flight" response.
+
+**How does adrenaline raise blood glucose?**
+Adrenaline triggers glycogenolysis, the breakdown of glycogen to glucose, so more glucose is available for respiration. This means it opposes the effect of insulin.
+
+**How is hormonal communication different from nervous communication?**
+Endocrine communication is slower, lasts longer and acts more widely across the body than nervous communication.
+
+**Which diabetes example does the OCR specification use?**
+The OCR A Level Biology A (H420) specification uses Type 1 diabetes as its example of medical technology being used to regulate a hormonal system.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Biology A (H420), Version 4.1 (April 2026), for first assessment in 2025, published by OCR. This guide covers 5.1.4(a) to 5.1.4(f).

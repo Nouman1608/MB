@@ -146,6 +146,23 @@ These questions cover statements B5.1a to B5.1e of OCR GCSE (9-1) Gateway Scienc
 - Try all the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the difference between genotype and phenotype?**
+Genotype is the alleles an organism has for a gene, written as letters such as Gg, while phenotype is the observable characteristic that results. Confusing the two is a common error.
+
+**Does a dominant phenotype show the genotype is homozygous?**
+No. An organism with the dominant phenotype could be homozygous dominant or heterozygous, so the phenotype alone does not tell you the genotype exactly.
+
+**How should a variation graph be described?**
+State whether the bars are separate or touching, which shows discontinuous or continuous variation, and quote figures from the graph. Describing data without figures is a frequent mistake.
+
+**How do you answer a question on how a mutation affects an enzyme?**
+Follow the full chain: the mutation changes the base sequence, which changes the amino acid sequence, which changes the protein's shape and so the active site. Skipping a step loses marks.
+
+**Which part of the specification do these questions cover?**
+They cover OCR GCSE Biology A (J247) statements B5.1a to B5.1e: genome, alleles, variants and mutations, with B5.1e Higher Tier only.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), for first assessment in 2018, published by OCR: module B5.1, statements B5.1a to B5.1e.

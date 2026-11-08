@@ -171,6 +171,23 @@ Scurvy; athlete's foot; cystic fibrosis; malaria; a cancer of the lung.
 - Try the [free 10-minute diagnostics](/diagnostics/) to check other topics.
 - [Book a free trial class](/trial/) for help from a teacher.
 
+## Frequently asked questions
+
+**Is health only about physical wellbeing?**
+No. Health is a state of physical, mental and social wellbeing, so describing health as only physical is a common error.
+
+**Which diseases are non-communicable?**
+Diseases such as cancer, scurvy and cystic fibrosis cannot be passed from one host to another, so they are non-communicable. Labelling them as communicable loses marks.
+
+**How should the link between HIV and TB be explained?**
+Explain that HIV weakens the immune system, which makes a person more likely to develop tuberculosis. Writing that "HIV causes TB" is incorrect.
+
+**Is a vector the same as a pathogen?**
+No. A pathogen is the micro-organism that causes disease, while a vector is a living carrier, such as a mosquito, that moves the pathogen between hosts.
+
+**How should a disease control method be chosen?**
+Match the control method to the way the pathogen spreads, for example controlling the vector for a vector-borne disease. A method that does not match the route will not earn the mark. These questions cover OCR GCSE Biology A (J247) statements B6.3a to B6.3e.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Statements B6.3a to B6.3e.

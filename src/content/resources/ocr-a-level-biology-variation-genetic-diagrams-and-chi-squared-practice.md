@@ -172,6 +172,23 @@ These questions cover section 6.1.2(a) to (d) of the OCR A Level Biology A (H420
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**How many degrees of freedom are used in a chi-squared test?**
+The degrees of freedom are the number of classes minus one. Using the number of classes itself is one of the most common errors in chi-squared questions.
+
+**How are expected values found for a chi-squared test?**
+Calculate them from the predicted ratio and the total number of offspring, not from the observed numbers. Use actual counts, not percentages.
+
+**What makes a genetic diagram complete?**
+Include a key for the alleles, a gametes row with only one allele of each gene per gamete, and for sex-linked genes show the Y chromosome in male genotypes. Match each number in a ratio to its phenotype.
+
+**Can a chi-squared result prove a ratio?**
+No. A chi-squared test shows whether a difference between observed and expected results is significant or likely to be due to chance. Use the language of significance and probability, and then say what the result means about the genes.
+
+**Which part of the H420 specification do these questions test?**
+They test OCR A Level Biology A (H420) section 6.1.2 (a) to (d), Patterns of inheritance: variation, genetic crosses, linkage, epistasis and chi-squared.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420)* specification, Version 4.1 (April 2026), for first assessment in 2025: section 6.1.2(a) to (d), Patterns of inheritance.

@@ -252,6 +252,23 @@ For a spread question, a reliable structure is pathogen, route, why that route w
 - Describing a scatter graph's trend but then claiming it proves cause.
 - Matching treatment to the wrong pathogen group, such as suggesting a fungicide for a bacterial infection of an animal.
 
+## Frequently asked questions
+
+**What is the difference between communicable and non-communicable disease?**
+A communicable disease can be passed from one host to another, while a non-communicable disease cannot be passed on.
+
+**What is incidence?**
+Incidence is the number of new cases of a disease in a population in a set time, often given per 100 000 people. Leaving out "per 100 000" or the time period is a common error.
+
+**What is quarantine?**
+Quarantine is keeping people, animals or plants that might be infected apart from others, or stopping them entering an area, to reduce the spread of disease.
+
+**What is an antigen?**
+An antigen is a molecule, often a protein on the surface of a pathogen, that the immune system recognises as foreign. Detecting the antigen is one way to identify an infection.
+
+**What are the four groups of pathogens?**
+The four groups named in OCR GCSE Biology A (J247) are viruses, bacteria, protists and fungi.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Statements B6.3a to B6.3e.

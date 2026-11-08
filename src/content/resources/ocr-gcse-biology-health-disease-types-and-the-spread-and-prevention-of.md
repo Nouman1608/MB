@@ -236,6 +236,20 @@ Detecting a case lets you isolate the host, treat it and trace contacts before t
 
 Work through the [practice questions](/resources/ocr-gcse-biology-health-disease-types-and-the-spread-and-prevention-of-practice/), then see the [exam preparation page](/resources/ocr-gcse-biology-exam-preparation/) for technique.
 
+## Frequently asked questions
+
+**What is the relationship between health and disease?**
+Disease lowers health, and poor health makes disease more likely; for example, a poor diet weakens the body's defences. Disease is one cause of poor health, but not the only one.
+
+**Which disease interactions are named in OCR GCSE Biology A?**
+The OCR GCSE Biology A (J247) specification names two interactions between types of disease: HIV and tuberculosis, and HPV and cervical cancer.
+
+**How can the spread of disease in plants be detected?**
+The specification names detecting the antigen, DNA testing and visual identification as ways to identify infections so that their spread can be reduced or prevented.
+
+**Is this topic on both tiers?**
+Yes. None of statements B6.3a to B6.3e is printed in bold, so they are assessed in both Foundation and Higher Tier papers.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), for first assessment in 2018, published by OCR. This page covers statements B6.3a to B6.3e only.

@@ -152,6 +152,23 @@ These questions cover module B1.2 of OCR GCSE (9-1) Gateway Science Biology A (J
 - Revisit the wider topic in [Cell level systems practice](/resources/ocr-gcse-biology-cell-level-practice/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is DNA made of protein or sugar?**
+No. DNA is a polymer made of nucleotides; each nucleotide contains a sugar and a phosphate group, but DNA itself is a nucleic acid, not a protein or a sugar. Describing it as protein or sugar is a common error.
+
+**Do cold temperatures denature enzymes?**
+No. Low temperatures slow enzyme reactions because molecules move more slowly, but they do not denature the enzyme. High temperatures denature it by permanently changing the shape of the active site.
+
+**Why does the rate of an enzyme reaction level off as substrate increases?**
+At high substrate concentrations all the active sites are occupied, so adding more substrate cannot increase the rate further. Forgetting this explanation is a frequent mark loss.
+
+**How do I explain how a gene controls a characteristic?**
+Follow every link in the chain: the gene's base sequence sets the order of amino acids, which sets the protein's shape, which sets its function. Skipping a step usually loses marks.
+
+**Which part of the J247 specification do these questions cover?**
+They cover OCR GCSE Biology A (J247) module B1.2: DNA structure, protein synthesis and enzyme action, including enzyme experiments and rate calculations.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), for first assessment in 2018, published by OCR: module B1.2.

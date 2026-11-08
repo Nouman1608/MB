@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Condensed recall notes on cell structure, microscopy, and biological molecules, for OCR A Level Biology A (H420), Module 2 opening sub-topics."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -197,6 +199,20 @@ The cytoskeleton provides mechanical strength, aids transport, and enables cell 
 ## How this connects forward
 
 Module 2 assumes no prior A Level biology, so any gaps here are a priority to close before Module 3 (Exchange and transport), which builds directly on the cell structure and biological-molecule content introduced in this opening section. The specification tests structure and function together, not as separate facts -- build a single reference table linking each organelle to its function before moving on to biological molecules.
+
+## Frequently asked questions
+
+**What is the difference between condensation and hydrolysis reactions?**
+A condensation reaction joins monomers into a polymer and releases a molecule of water. A hydrolysis reaction breaks a polymer into its monomers and uses a molecule of water.
+
+**What makes a prokaryotic cell different from a eukaryotic cell?**
+A prokaryotic cell lacks a membrane-bound nucleus and membrane-bound organelles, which eukaryotic cells have. Prokaryotes still contain DNA and ribosomes.
+
+**Are transcription and translation part of the Foundations in Biology module?**
+Yes. In OCR A Level Biology A (H420), section 2.1.3 Nucleotides and nucleic acids includes transcription and translation as outcome (g), with the roles of RNA polymerase and messenger, transfer and ribosomal RNA.
+
+**What does the cytoskeleton do?**
+The cytoskeleton provides mechanical strength, aids transport within the cell and enables cell movement, such as the beating of cilia and flagella.
 
 ## Related resources
 

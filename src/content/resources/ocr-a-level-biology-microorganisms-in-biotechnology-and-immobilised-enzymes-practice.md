@@ -137,6 +137,23 @@ These questions cover learning outcomes 6.2.1(e) to 6.2.1(i) of the OCR A Level 
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the most common mistake in N = N0 × 2^n calculations?**
+Not converting the time into the same unit as the generation time before finding n, the number of divisions. For example, if the generation time is in minutes, convert hours to minutes first.
+
+**How do you get viable count questions right?**
+Multiply by the dilution factor and divide by the volume plated so that the answer is per cm³ of the original culture. Leaving out either step is a frequent error.
+
+**Why should zones of inhibition be compared by area?**
+When a question asks about the effect of an antibiotic, the area of the clear zone , found from πr², is a better measure than its diameter because it reflects the whole zone. Comparing diameters when area is asked for loses marks.
+
+**How should a batch and continuous fermentation comparison be written?**
+Make each point about both methods, stating how batch and continuous fermentation differ for the same feature. Describing only one of them does not count as a comparison.
+
+**Which syllabus outcomes do these questions cover?**
+They cover OCR A Level Biology A (H420) learning outcomes 6.2.1(e) to (i): microorganisms in biotechnology, aseptic culture, growth curves, fermenters and immobilised enzymes.
+
 ## Official syllabus
 
 OCR Advanced GCE in Biology A (H420), Version 4.1 (April 2026), for first assessment in 2025, published by OCR.

@@ -239,6 +239,23 @@ Questions often change one thing and ask for the effect. Work through the chain 
 - Writing the RQ ratio upside down.
 - Giving a "mixture of substrates" without saying why the RQ lies between 0.7 and 1.0.
 
+## Frequently asked questions
+
+**Where is ATP synthase found in a mitochondrion?**
+ATP synthase is embedded in the inner mitochondrial membrane, which is folded into cristae. Protons flow through it from the intermembrane space back into the matrix, so ATP is made in the matrix.
+
+**Why is NAD regeneration so important in anaerobic respiration?**
+Glycolysis uses NAD, and a cell has only a small supply of it. Converting pyruvate to lactate, or to ethanol in yeast, turns reduced NAD back into NAD so that glycolysis can keep producing its net 2 ATP per glucose.
+
+**What does an RQ above 1.0 mean?**
+A respiratory quotient above 1.0 suggests that some anaerobic respiration is taking place, or that an organic acid is being used as the substrate. Values of about 1.0, 0.9 and 0.7 point to carbohydrate, protein and lipid respectively.
+
+**How do you work out the volume of oxygen used from a respirometer?**
+Multiply the cross-sectional area of the capillary, π r², by the distance the drop moves, making sure r is the radius and not the diameter. Divide by time for a rate, and by the mass of organisms for a rate per gram.
+
+**Which part of the H420 specification do these notes cover?**
+These notes cover OCR A Level Biology A (H420) section 5.2.2 Respiration, learning outcomes (h) to (l): chemiosmosis, anaerobic respiration, the energy values of substrates, the respiratory quotient and respirometer practicals.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Biology A (H420), specification Version 4.1 (April 2026), first assessment 2025, published by OCR. These notes follow section 5.2.2 Respiration, learning outcomes (h) to (l).

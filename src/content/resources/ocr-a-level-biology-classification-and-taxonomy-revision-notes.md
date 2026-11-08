@@ -210,6 +210,22 @@ Quick check: 16 differences in 160 bases gives 16 ÷ 160 × 100 = 10.0 % differe
   <figcaption>The marked fraction in the second catch tells you what fraction of the population the first catch was.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between classification and taxonomy?**
+Classification is sorting organisms into groups in a hierarchy based on shared features and common ancestry. Taxonomy is the wider study and practice of naming and classifying organisms.
+
+**What is a taxon?**
+A taxon is any named group at any rank of the hierarchy, such as the family Felidae. Taxa are nested, so each one sits wholly inside a single taxon of the rank above.
+
+**What are the five kingdoms in OCR A Level Biology A?**
+The five kingdoms in the H420 specification are Prokaryotae, Protoctista, Fungi, Plantae and Animalia. When giving a feature of a kingdom, choose one that separates it from the others rather than one every kingdom shares, such as "has cells".
+
+**How is a species defined in OCR A Level Biology?**
+A species is a group of similar organisms that can interbreed to produce fertile offspring. It is the lowest of the eight ranks in the hierarchy, below genus.
+
+**What is phylogeny?**
+Phylogeny is the evolutionary history and relationships of organisms, often shown as a phylogenetic tree in which the branch points represent common ancestors.
 
 ## Official syllabus
 

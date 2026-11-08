@@ -262,6 +262,20 @@ When evaluating a proposal, name the groups affected, give a benefit and a cost 
 - Giving the wrong peak order in a predator-prey cycle. The prey peak comes first.
 - Treating conservation and preservation as the same. Say what human use each allows.
 
+## Frequently asked questions
+
+**How do you calculate the change in a population?**
+Change in population = (births + immigration) − (deaths + emigration). Births and immigration add individuals, and deaths and emigration remove them.
+
+**What examples of sustainable management are in the OCR specification?**
+Section 6.3.2(d) of OCR A Level Biology A (H420) is limited to two examples of managing an ecosystem to provide resources sustainably: timber production and fishing.
+
+**Why do ecosystems need managing?**
+The specification says ecosystems may need careful management for economic, social and ethical reasons, and that biological resources must be used sustainably while balancing conservation against human needs.
+
+**What maths skills are linked to population size?**
+The specification links this topic to estimating results, using powers and exponentials, logarithmic scales such as microorganism growth, and moving between graphs, numbers and equations.
+
 ## Official syllabus
 
 OCR A Level in Biology A (H420) specification, Version 4.1 (April 2026), first assessment 2025, published by OCR. Section 6.3.2, Populations and sustainability.

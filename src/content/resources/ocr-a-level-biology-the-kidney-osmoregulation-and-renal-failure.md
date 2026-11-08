@@ -204,6 +204,23 @@ Stained cortex shows rounded renal corpuscles and many circular tubule sections;
 - Describing dialysis fluid as glucose-free, which would drain glucose from the blood.
 - Calling the filtrate urine.
 
+## Frequently asked questions
+
+**What are the three regions of the kidney?**
+A longitudinal section shows the cortex, a darker outer layer with the renal corpuscles and convoluted tubules; the medulla, a paler inner region with the loops of Henle and collecting ducts; and the renal pelvis, where urine collects before leaving down the ureter.
+
+**What is the functional unit of the kidney?**
+The nephron is the functional unit of the kidney. It consists of the renal corpuscle (glomerulus and Bowman's capsule), the proximal convoluted tubule, the loop of Henle and the distal convoluted tubule, and drains into a collecting duct.
+
+**What does the loop of Henle do?**
+The loop of Henle builds a low water potential in the medulla, which allows water to be reabsorbed from the collecting duct.
+
+**What is the difference between blood in the renal artery and the renal vein?**
+The renal artery brings blood carrying urea to the kidney. The renal vein carries away blood with less urea, with its water and ion content adjusted.
+
+**Are excretion and the liver part of this unit?**
+No. This guide covers OCR A Level Biology A (H420) learning outcomes 5.1.2(c) to (f); the meaning of excretion and the liver, 5.1.2(a) and (b), are separate units.
+
 ## Official syllabus
 
 OCR Advanced GCE in Biology A (H420), specification Version 4.1 (April 2026), first assessment 2025, published by OCR. Section 5.1.2, outcomes (c) to (f).

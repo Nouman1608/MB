@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Cell structure, biological molecules, and nucleotides and nucleic acids -- the opening content of Module 2 for OCR A Level Biology A (H420), Version 4.1."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers the opening content of **Module 2: Foundations in
@@ -166,6 +168,20 @@ lists. Since Module 2 assumes no prior A Level biology, treat any gaps
 here as a priority to close before moving on to Module 3 (Exchange and
 transport), which builds directly on the cell structure and
 biological-molecule content introduced here.
+
+## Frequently asked questions
+
+**What topics are in Module 2 of OCR A Level Biology A?**
+Module 2 Foundations in Biology of OCR A Level Biology A (H420) opens with 2.1.1 Cell structure, 2.1.2 Biological molecules and 2.1.3 Nucleotides and nucleic acids. Later sub-topics cover enzymes, biological membranes, and cell division, cell diversity and cellular organisation.
+
+**Is A Level cell structure just a repeat of GCSE?**
+No. Distinguishing magnification from resolution, interpreting electron micrographs and linking organelles in the secretory pathway are new A Level skills, so treating 2.1.1 as GCSE revision is a common and costly underestimation.
+
+**Does the Practical Endorsement count towards the A Level grade?**
+No. The Practical Endorsement requires at least twelve assessed practical activities covering all twelve Practical Activity Groups and is reported separately as pass or not classified. The A Level grade is decided only by the three written papers.
+
+**Why must both measurements be in the same unit for the magnification formula?**
+Magnification is image size divided by object size, so the two sizes must be in the same unit before dividing. For example, an image 5 cm wide must be converted to 50,000 micrometres before dividing by a real size of 20 micrometres, giving a magnification of 2,500 times.
 
 ## Related resources
 

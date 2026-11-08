@@ -216,6 +216,22 @@ Reducing resistance depends on human actions:
   <figcaption>Fewer base differences suggest a more recent common ancestor.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What did Darwin and Wallace contribute to the theory of evolution?**
+Darwin and Wallace independently reached the theory of evolution by natural selection. Papers by both were presented to the Linnean Society in 1858, and Darwin published *On the Origin of Species* in 1859.
+
+**What observations led to the theory of natural selection?**
+Organisms produce more offspring than can survive, offspring of the same species differ, some differences are inherited, and individuals whose features suit the environment are more likely to survive and breed.
+
+**What is evolution?**
+Evolution is the change in the inherited characteristics of a population over many generations.
+
+**What evidence supports evolution by natural selection?**
+The OCR A Level Biology A (H420) specification names fossil evidence and DNA and molecular evidence, alongside the contributions of Darwin and Wallace.
+
+**Why does drug resistance matter for humans?**
+Natural selection of resistant microorganisms makes drugs less effective, and the same process produces pesticide resistance in insects. These are the implications for humans named in section 4.2.2(i).
 
 ## Official syllabus
 

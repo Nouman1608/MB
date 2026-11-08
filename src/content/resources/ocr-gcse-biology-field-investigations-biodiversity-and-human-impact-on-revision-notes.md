@@ -276,6 +276,23 @@ Ecotourism links conservation to income, so the people who live near wildlife ga
 - Stating that data prove a cause when they only show a pattern.
 - Evaluating with "do more repeats" and no reason.
 
+## Frequently asked questions
+
+**When should a transect be used instead of random quadrats?**
+Random quadrats suit a fairly uniform habitat when you want the overall abundance. A transect, with samples placed at regular intervals along a line, suits a habitat where an abiotic factor changes across the area, so you can see how distribution changes.
+
+**How should percentage change be calculated?**
+Divide the change by the original value, not the new value, and multiply by 100. Dividing by the new value is a frequent error in OCR GCSE Biology A (J247) data questions.
+
+**Do quadrats count as random if I choose where to put them?**
+No. Placing quadrats by choice is not random sampling. Random positions must come from random numbers used as coordinates.
+
+**Is environmental change on the Foundation tier?**
+No. Statement B6.1d, evaluating evidence for the impact of environmental change on the distribution of organisms, is Higher Tier only in OCR GCSE Biology A (J247).
+
+**Why do I need to state the assumptions of capture-recapture?**
+The estimate is only valid if the marks stay on, marking does no harm, marked animals mix evenly back into the population, and there is no significant migration, birth or death between samples. Not stating these assumptions is a common reason for losing marks.
+
 ## Official syllabus
 
 Source: OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Topic B6.1 Monitoring and maintaining the environment, statements B6.1a to B6.1d.

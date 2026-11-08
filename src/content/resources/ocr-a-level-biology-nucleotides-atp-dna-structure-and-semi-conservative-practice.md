@@ -140,6 +140,23 @@ These questions follow the OCR *A Level Biology A* specification (H420, Version 
 - Take [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which bond joins nucleotides in the same DNA strand?**
+Nucleotides in the same strand are joined by phosphodiester bonds. Hydrogen bonds join the complementary bases of the two strands, and mixing these up is the most common error on this topic.
+
+**Why should DNA, gene and base not be used interchangeably?**
+They mean different things: DNA is the whole molecule, a gene is a section of DNA, and a base is one part of a nucleotide. Using the words interchangeably makes an answer inaccurate and can lose marks.
+
+**What is the difference between purines and pyrimidines?**
+Purines, adenine and guanine, have a double-ring structure. Pyrimidines, cytosine, thymine and uracil, have a single ring.
+
+**How should the DNA purification practical be explained?**
+Say what each step or reagent does to the cell or the DNA, rather than just listing the steps. Explaining why each step is done is what earns the marks.
+
+**Which syllabus section do these questions cover?**
+They cover OCR A Level Biology A (H420) section 2.1.3, learning outcomes (a) to (e): nucleotides, ATP, DNA structure, DNA purification and semi-conservative replication.
+
 ## Official syllabus
 
 OCR, *Level 3 Advanced GCE in Biology A (H420)*, Version 4.1 (April 2026), first assessment 2025, section 2.1.3(a) to (e).

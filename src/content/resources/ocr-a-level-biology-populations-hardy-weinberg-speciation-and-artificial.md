@@ -228,6 +228,19 @@ The specification asks you to consider extreme cases such as dog breeds. Some br
   <figcaption>Fewer base differences suggest a more recent common ancestor.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between stabilising and directional selection?**
+In stabilising selection, the environment is stable and individuals near the mean are favoured, so the mean stays the same and the spread narrows. In directional selection, one extreme is favoured, so the mean shifts towards that extreme.
+
+**What is the difference between allopatric and sympatric speciation?**
+Allopatric speciation follows geographical isolation, where populations are physically separated. Sympatric speciation happens through reproductive isolating mechanisms in populations that live in the same area.
+
+**Why do small populations show more genetic drift?**
+In a small population, chance events in who survives and breeds have a larger effect on allele frequencies, so genetic drift has a bigger impact than in a large population.
+
+**What ethical issues does artificial selection raise?**
+The OCR A Level Biology A (H420) specification asks you to discuss the ethics of artificial selection, including extreme cases such as some dog breeds, where selection for appearance can harm the animals' health.
 
 ## Official syllabus
 

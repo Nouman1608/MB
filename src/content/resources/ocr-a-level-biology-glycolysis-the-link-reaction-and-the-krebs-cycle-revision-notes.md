@@ -256,6 +256,23 @@ Reduced NAD and reduced FAD deliver hydrogen and electrons to oxidative phosphor
 
 Work through the [practice questions](/resources/ocr-a-level-biology-glycolysis-the-link-reaction-and-the-krebs-cycle-practice/), or return to the [study guide](/resources/ocr-a-level-biology-glycolysis-the-link-reaction-and-the-krebs-cycle/).
 
+## Frequently asked questions
+
+**How much ATP does glycolysis make?**
+Glycolysis makes 4 ATP but uses 2 ATP in the phosphorylation of glucose, giving a net yield of 2 ATP per glucose. Show both figures, because stating "2 ATP" without the 4 made and 2 used can lose marks.
+
+**Is oxygen used in the Krebs cycle?**
+No. Oxygen acts as the final electron acceptor at the end of the electron transport chain. Without it, reduced NAD and FAD are not reoxidised, so the Krebs cycle stops indirectly because it runs out of NAD and FAD.
+
+**Why is the Krebs cycle a cycle?**
+Oxaloacetate combines with acetyl CoA to form citrate, and oxaloacetate is regenerated at the end of each turn so that it can accept another acetyl group. Describing it as a straight chain misses this regeneration.
+
+**Why are the cristae important?**
+The cristae are folds of the inner mitochondrial membrane that increase its surface area for electron carriers and ATP synthase. Saying only that they are "where respiration happens" does not earn the mark.
+
+**Do I need to learn every Krebs cycle intermediate for OCR?**
+No. The OCR A Level Biology A (H420) specification does not require the names of the intermediate compounds; you need citrate and oxaloacetate only.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420) specification*, Version 4.1 (April 2026), first assessment 2025: section 5.2.2, learning outcomes (a) to (g).

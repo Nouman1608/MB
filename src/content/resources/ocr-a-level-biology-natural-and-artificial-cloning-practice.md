@@ -131,6 +131,23 @@ These questions cover section 6.2.1(a) to (d) of the OCR A Level Biology A (H420
 - Try all the free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Who is a clone made by SCNT genetically identical to?**
+A clone made by somatic cell nuclear transfer is genetically identical to the animal that donated the body cell nucleus, not to the egg donor or the surrogate mother. Mixing these up is one of the most common errors on this topic.
+
+**Why do I need to give reasons for each step in cuttings or micropropagation?**
+Questions on methods usually reward the reason as well as the step, for example removing leaves to reduce transpiration. Listing steps without explaining why each is done earns fewer marks.
+
+**Are clones always identical in appearance?**
+Clones are genetically identical, apart from rare mutations, but the environment can still change their phenotype. Using "identical" without this qualification can lose a mark.
+
+**How should I answer an evaluate question on cloning?**
+Weigh arguments for and against, using any evidence given, and finish with a reasoned judgement. A one-sided list with no conclusion does not score full marks.
+
+**Which specification section do these practice questions test?**
+They test OCR A Level Biology A (H420) section 6.2.1 (a) to (d): natural plant clones, cuttings, micropropagation, natural animal clones, artificial embryo twinning, SCNT and the arguments about cloning.
+
 ## Official syllabus
 
 OCR Advanced GCE in Biology A (H420), Version 4.1 (April 2026), first assessment 2025, published by OCR. Section 6.2.1(a) to (d) is covered here.

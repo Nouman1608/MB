@@ -266,6 +266,23 @@ Making a pyramid of biomass: pick a scale so the widest bar fits the page, draw 
 - Quoting an answer with no working or no % sign.
 - Describing a graph without using the numbers, or ignoring a time lag in predator-prey data.
 
+## Frequently asked questions
+
+**What is the difference between predation, parasitism and mutualism?**
+In predation one organism kills and eats another; in parasitism one organism benefits while harming its host; in mutualism both organisms benefit. Say who benefits and who is harmed in an exam answer.
+
+**How is biomass lost between trophic levels?**
+Biomass is lost through egestion, excretion and respiration. Saying only that "energy is lost as heat" without naming these routes does not earn full marks.
+
+**How should the effect of a factor be described?**
+Give the consequence as well as the effect, for example less light means fewer producers can photosynthesise, so less food is available for consumers.
+
+**What is a producer?**
+A producer is an organism, such as a green plant or alga, that makes its own food by photosynthesis and forms the first trophic level. Consumers get their food by eating other organisms.
+
+**What do these notes cover for OCR GCSE Biology?**
+They cover OCR GCSE Biology A (J247) statements B4.1e to B4.1j in topic B4 Community level systems, for both Foundation and Higher tiers.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), first assessment 2018, published by OCR. Topic B4.1, statements e to j.

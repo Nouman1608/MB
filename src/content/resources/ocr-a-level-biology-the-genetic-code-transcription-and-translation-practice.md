@@ -145,6 +145,23 @@ Explain, with reference to the genetic code, why this is possible. **[3]**
 - Take the free [10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Should a stop codon be counted when finding polypeptide length?**
+No. A stop codon does not code for an amino acid, so leave it out when you count the amino acids in a polypeptide. Show the division by three in your working.
+
+**How should transcription be described for full marks?**
+Name RNA polymerase and say which bonds are broken and formed: hydrogen bonds between DNA bases break, and phosphodiester bonds form between RNA nucleotides. Describing transcription without these details is a common error.
+
+**Where does translation happen?**
+Translation happens on ribosomes in the cytoplasm, not in the nucleus. DNA does not leave the nucleus; mRNA carries the message out.
+
+**What does degenerate mean for the genetic code?**
+Degenerate means that most amino acids are coded for by more than one codon. Stating the definition the wrong way round, as one codon coding for several amino acids, is a frequent mistake.
+
+**Which OCR outcomes do these questions test?**
+They test OCR A Level Biology A (H420) module 2.1.3, learning outcomes (f) and (g): the genetic code, transcription and translation.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420) specification*, Version 4.1 (April 2026), first assessment 2025: module 2.1.3 Nucleotides and nucleic acids, learning outcomes (f) and (g).

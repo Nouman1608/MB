@@ -242,6 +242,23 @@ Temperature: rate rises then falls as enzymes denature. Where RuBisCO is the slo
 - Explaining temperature only as "enzymes work better", with no link to RuBisCO or to denaturing.
 - Describing a practical without saying which factors are controlled.
 
+## Frequently asked questions
+
+**Where does the oxygen released in photosynthesis come from?**
+The oxygen comes from water, released when water is split by photolysis in the light-dependent stage. It does not come from carbon dioxide.
+
+**What is the difference between GP and TP?**
+Glycerate 3-phosphate (GP) is the first product of carbon dioxide fixation by RuBisCO. Triose phosphate (TP) is made when GP is reduced using ATP and reduced NADP, and some TP is used to regenerate RuBP.
+
+**Does a limiting factor stop photosynthesis?**
+No. A limiting factor limits the rate of photosynthesis; it does not stop the process.
+
+**Does an Rf value have units?**
+No. An Rf value is a ratio of two distances, so it has no units.
+
+**How should the effect of temperature on photosynthesis be explained?**
+Link temperature to the enzymes of the Calvin cycle, such as RuBisCO, and to denaturation at high temperatures, rather than writing only that "enzymes work better". These notes cover OCR A Level Biology A (H420) section 5.2.1.
+
 ## Official syllabus
 
 OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025, published by OCR. Section 5.2.1 Photosynthesis.

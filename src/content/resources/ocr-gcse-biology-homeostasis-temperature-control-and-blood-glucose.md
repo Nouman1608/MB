@@ -241,6 +241,23 @@ Percentages: 18 ÷ 1200 = **1.5%**; 66 ÷ 1500 = **4.4%**; 88 ÷ 800 = **11%**. 
 * Describing type 2 as "no insulin". Cells do not respond properly.
 * Dividing by the final value, not the starting value, in percentage change.
 
+## Frequently asked questions
+
+**What is homeostasis?**
+Homeostasis means keeping conditions inside the body steady, even when conditions outside or inside the body change.
+
+**Why must the internal environment stay constant?**
+Metabolic reactions are controlled by enzymes, which only work well in a narrow range of conditions. Too low a temperature slows reactions, while too high a temperature denatures enzymes.
+
+**What is normal core body temperature?**
+Core body temperature is kept close to 37 °C.
+
+**Why does blood glucose need to be controlled?**
+Cells use glucose in respiration to release energy, so if it falls too low, cells, especially brain cells, cannot respire fast enough. If it stays too high for long periods, it damages the body, as in diabetes.
+
+**Is the kidney part of this homeostasis guide?**
+No. This guide covers OCR GCSE Biology A (J247) statements B3.3a to B3.3e; osmotic balance, the kidney and ADH, from B3.3f onwards, are taught elsewhere.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Module B3.3, statements B3.3a to B3.3e.

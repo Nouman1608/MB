@@ -202,6 +202,20 @@ Because concentrations differ by factors of ten, plot them on a logarithmic axis
 - Comparing treatments with the wrong control.
 - Saying gibberellin "makes seeds grow" without linking it to amylase and starch.
 
+## Frequently asked questions
+
+**What are the main types of tropism?**
+Phototropism is a response to light, geotropism to gravity, hydrotropism to water, thigmotropism to touch and chemotropism to chemicals. For example, shoots are positively phototropic and roots are positively geotropic.
+
+**Do I need to learn named plant hormone experiments?**
+No. For the evidence on auxin and gibberellin, the OCR A Level Biology A (H420) specification says you apply your understanding to experiments you have not seen; you are not asked to recall named experiments.
+
+**Why do plants respond to stimuli by changing growth?**
+Plants cannot move away from danger, so they respond by changing how they grow or changing their chemistry. Hormones coordinate most of these responses.
+
+**What is abiotic stress in plants?**
+Abiotic stress is stress from the non-living environment, such as drought, cold or low light. Closing stomata when water is short and shedding leaves in winter are the two examples the specification points to.
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420) specification*, Version 4.1 (April 2026), first assessment 2025: learning outcomes 5.1.5(a) to 5.1.5(f).

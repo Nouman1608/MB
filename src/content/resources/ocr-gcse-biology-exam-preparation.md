@@ -9,13 +9,15 @@ qualifications: ["gcse"]
 syllabusCodes: ["J247"]
 syllabusSeries: "Version 4.0 (August 2026), for first assessment in 2018"
 order: 3
-description: "How OCR GCSE Biology J247's two papers per tier divide the specification, why topic 7 practical skills appear on both, the assumed-knowledge rule on Paper 2, and a worked practical-evaluation routine."
+description: "How OCR GCSE Biology A (J247) splits topics across papers at each tier, why practical skills appear on every paper, assumed knowledge, and a practical routine."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 OCR GCSE (9-1) Biology A (Gateway Science, J247) is tiered and linear, assessed by two papers per
@@ -122,6 +124,23 @@ practical skills are examined on every paper at both tiers, not confined to one.
 variable *and* explaining why it had to be held constant -- the explanation is where the mark sits.
 4. Because the data supports a conclusion only within the range and conditions actually tested, and
 recognising that limit is itself creditable.
+
+## Frequently asked questions
+
+**How long is each OCR GCSE Biology A paper?**
+Every OCR GCSE Biology A (J247) paper is 1 hour 45 minutes, 90 marks and 50% of the qualification. Foundation candidates sit Papers 1 and 2, and Higher candidates sit Papers 3 and 4.
+
+**Which topics are on each OCR GCSE Biology paper?**
+Paper 1 or 3 assesses topics 1 to 3 plus topic 7 practical skills. Paper 2 or 4 assesses topics 4 to 6 plus topic 7, with assumed knowledge of topics 1 to 3.
+
+**Are there required practicals in OCR GCSE Biology A?**
+OCR sets no list of required practicals. Centres run at least eight practical activities covering the Practical Activity Groups (PAGs), and the written papers can ask about any of these techniques.
+
+**What four facts should I know for each practical?**
+Know the variables, the measurements taken, the main source of error and one specific improvement. This set of four facts answers most practical questions on any paper.
+
+**How are six-mark questions marked?**
+Extended-response questions reward a connected explanation in which each point follows from the one before. A list of true but unconnected statements often scores only half marks.
 
 *Written against OCR's own published "GCSE (9-1) Gateway Science: exploring our question papers" guide
 for J247 (official OCR document, verified 2026-08-28). The practical routine above is an original

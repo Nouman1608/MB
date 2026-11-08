@@ -157,6 +157,23 @@ Judgement: it is a useful short-term support for the species but is effective on
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**What is a keystone species?**
+A keystone species has an effect on its community far greater than its abundance suggests. Describing it as simply abundant or important does not earn the mark.
+
+**What does CITES do?**
+CITES, the Convention on International Trade in Endangered Species, controls international trade in endangered species. Writing that it protects habitats is a common error.
+
+**Why is "monoculture destroys the soil" not enough?**
+Name the specific effect, such as the depletion of mineral ions, and link it to the loss of biodiversity. Vague statements about soil damage do not score.
+
+**How should in situ and ex situ methods be used in an answer?**
+Apply them to the case in the question, explaining why a method suits that particular species or habitat. Listing methods without applying them is a common way to lose marks.
+
+**Which syllabus outcomes do these questions cover?**
+They cover OCR A Level Biology A (H420) learning outcomes 4.2.1(f) to (i): threats to biodiversity, reasons for conservation, conservation methods and international and local agreements.
+
 ## Official syllabus
 
 OCR A Level Biology A (H420), Version 4.1 (April 2026), for first assessment in 2025, published by OCR. These questions cover section 4.2.1(f) to 4.2.1(i).

@@ -238,6 +238,23 @@ The calves share a genotype, so the spread is due to the environment (feeding, h
 - Describing "cloning" without saying that mitosis is involved and meiosis is not.
 - Not using the data given when asked to interpret a table of results. Quote values and compare them.
 
+## Frequently asked questions
+
+**What is the difference between embryo splitting and artificial embryo twinning?**
+Embryo splitting happens naturally when an early embryo divides to form identical twins. Artificial embryo twinning is when people split an early embryo in the laboratory and implant the parts into surrogate mothers.
+
+**What is needed for successful micropropagation?**
+The plant tissue and growth medium must be kept sterile, and plant growth regulators such as auxin and cytokinin are used to make the tissue grow roots and shoots. Leaving out sterilisation or growth regulators is a common error.
+
+**Why are leaves removed from a stem cutting?**
+Removing most of the leaves reduces water loss by transpiration while the cutting has no roots. State the reason as well as the step in an exam answer.
+
+**Does artificial embryo twinning copy an adult animal?**
+No. Artificial embryo twinning produces clones of an embryo, whose characteristics are not yet known. SCNT is the technique that can clone an adult animal.
+
+**What do these notes cover in the OCR A Level Biology specification?**
+They cover OCR A Level Biology A (H420) section 6.2.1 (a) to (d), on natural and artificial cloning in plants and animals and the arguments for and against them.
+
 ## Official syllabus
 
 OCR Advanced GCE in Biology A (H420), Version 4.1 (April 2026), first assessment 2025, published by OCR. Section 6.2.1(a) to (d) is covered here.
