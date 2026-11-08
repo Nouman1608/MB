@@ -257,6 +257,23 @@ Manual books work without power but are slow to search and hard to copy. Devices
 - Using market value instead of historic cost.
 - Listing only advantages when asked to discuss a storage type.
 
+## Frequently asked questions
+
+**What are the ten accounting concepts in Cambridge IGCSE Accounting 0452?**
+For exams in 2027 to 2029, section 7.1 covers duality, business entity, matching (accruals), realisation, prudence, materiality, consistency, historic cost, going concern and money measurement. Answers should apply each concept to the figures in the question.
+
+**What is the difference between matching and realisation?**
+Matching (accruals) puts revenue and the costs of earning it in the period they belong to, whatever the cash timing. Realisation recognises revenue when goods or services have been provided and the customer is committed to pay, so cash received in advance is a liability.
+
+**Why do accountants need an ethical framework?**
+Others rely on accountants' figures but cannot check them, accountants may face pressure, and they handle private information. A framework sets the standard in advance, so it applies whoever is asking.
+
+**Why should accounting data be stored safely?**
+Records are needed for the financial statements, collecting debts, lenders, tax enquiries and evidence. Safe storage keeps them complete, accurate, available and protected from loss or unauthorised access, which also supports confidentiality.
+
+**Do you need to know specific accounting software for 0452?**
+No. The syllabus says you do not need to know any specific accounting software package, so answers should describe what digital applications do rather than naming a product.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029, version 1, published by Cambridge University Press & Assessment (Cambridge International Education). Sections 7.1 to 7.3.

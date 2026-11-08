@@ -232,6 +232,23 @@ The syllabus asks about the impact of digital business transactions, such as car
 - Treating a cash book error as a bank error. A cash book error is corrected in the cash book.
 - Leaving the reconciliation without a heading, or without stating which balance is which.
 
+## Frequently asked questions
+
+**What is the purpose of a bank statement in Cambridge IGCSE Accounting 0452?**
+A bank statement is the bank's own record of money paid into and out of the account, so it gives an independent check on the cash book. It helps the business confirm entries, find items the bank has made, spot mistakes and detect unauthorised payments.
+
+**What is the difference between an unpresented cheque and an uncredited deposit?**
+An unpresented cheque has been issued and entered in the cash book but not yet paid by the bank. An uncredited deposit, or outstanding lodgement, has been paid in and entered in the cash book but not yet shown on the bank statement.
+
+**Which items are entered in the cash book before a bank reconciliation?**
+Items the bank has recorded that the business has not, such as credit transfers, standing orders, direct debits, interest and bank charges, are entered in the cash book first, along with any cash book errors. Unpresented cheques, uncredited deposits and bank errors stay out of the cash book.
+
+**How do digital payments affect bank reconciliation?**
+Many payments clear within hours, so fewer unpresented cheques and uncredited deposits build up, and bank feeds let a business reconcile more often. Direct debits, charges and interest still need entering, and errors such as duplicated payments still need a person to review them.
+
+**How do you reconcile an overdrawn bank balance?**
+Treat the overdrawn cash book balance as a negative figure and add and deduct exactly as for a positive balance. State clearly that the final balance is overdrawn.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1), published by Cambridge University Press & Assessment (Cambridge International Education). Section 3.3 Bank reconciliation.

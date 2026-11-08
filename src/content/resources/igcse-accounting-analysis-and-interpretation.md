@@ -14,10 +14,12 @@ syllabusTopics:
     topic: "analysis-and-interpretation"
   - qualification: "o-level"
     topic: "analysis-and-interpretation"
-description: "The ten accounting ratios and their formulas, interpreting ratios across two years, inter-business comparison, interested parties and the limitations of accounting statements — Cambridge IGCSE Accounting (0452) Topic 6, 2027-2029 syllabus."
+description: "Cambridge IGCSE Accounting 0452 Topic 6 guide: the ten ratio formulas, two-year interpretation, inter-business comparison, users and limits of statements."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-16
 featured: false
@@ -546,6 +548,23 @@ of inter-business comparison.
 information.
 - Explain the limitations of historic cost, accounting policies and
 non-financial aspects.
+
+## Frequently asked questions
+
+**Which ratio formulas are accepted in Cambridge IGCSE Accounting 0452?**
+The syllabus Note to section 6.1 says candidates must use the formulas given in its list of accounting ratios, and these are the only formulas accepted. Learn the exact names and formulas for all ten ratios.
+
+**What profit figure is used for ROCE in Cambridge IGCSE Accounting?**
+ROCE uses profit before interest, so interest on non-current liabilities, such as debenture interest, is added back to profit for the year. Capital employed is issued shares plus reserves plus non-current liabilities.
+
+**What is the difference between gross profit margin and mark-up?**
+Gross profit margin is gross profit divided by revenue, while mark-up is gross profit divided by cost of sales, each multiplied by 100. Swapping the two denominators is a common error.
+
+**Is a higher current ratio always better?**
+No. A very high current ratio can mean too much inventory or idle cash, and a longer trade payables turnover can mean suppliers are waiting too long and may refuse credit. Interpret each ratio in the context of the business.
+
+**What factors can make two businesses' ratios differ?**
+Ratios can differ because of the type of goods sold, size and buying power, pricing policy, location, how each is financed, whether premises are owned or rented, and accounting policies. These reasons may have nothing to do with how well each business is managed.
 
 ## Official syllabus
 

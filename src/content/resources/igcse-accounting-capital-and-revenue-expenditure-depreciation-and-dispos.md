@@ -276,6 +276,23 @@ The statement of financial position shows machinery at cost 69,600, less accumul
 - Crediting depreciation to the asset account (when a provision account is used) or leaving the sold asset's depreciation in the provision.
 - Comparing proceeds with cost instead of net book value.
 
+## Frequently asked questions
+
+**What is the difference between capital and revenue expenditure in Cambridge IGCSE Accounting 0452?**
+Capital expenditure is spending on buying, improving or getting a non-current asset ready for use, such as delivery and installation. Revenue expenditure keeps the business running day to day and keeps assets in working order, such as repairs.
+
+**What is a capital receipt?**
+A capital receipt is money received that is not income from trading, such as capital paid in by the owner, a loan received or the proceeds of selling a non-current asset. Capital receipts are not credited to sales or income.
+
+**How does the revaluation method of depreciation work?**
+Revaluation suits collections of small items such as hand tools. Depreciation is the opening valuation plus purchases during the year minus the closing valuation.
+
+**Why must depreciation be accounted for?**
+A non-current asset helps earn revenue over several years, so its cost is matched against those years rather than charged all in the year of purchase. Without depreciation, profit and the asset's value in the statement of financial position would be overstated.
+
+**What happens to profit if revenue expenditure is treated as capital expenditure?**
+Profit and non-current assets are overstated, but by less than the full amount when depreciation has been charged on the wrongly capitalised item. The effect on profit is the amount minus that depreciation.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1), Cambridge University Press & Assessment: section 4.1 Capital and revenue expenditure and receipts and section 4.2 Accounting for depreciation and disposal of non-current assets.

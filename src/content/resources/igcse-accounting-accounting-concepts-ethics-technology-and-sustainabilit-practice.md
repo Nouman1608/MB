@@ -202,6 +202,20 @@ Corrected profit 58,200 + 720 + 1,050 - 650 - 420 - 310 = **58,590**. [1]
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you get full marks on an accounting concept question?**
+Name the concept, apply it to the figures in the question and say what it does to profit or to the statement of financial position. Naming a concept without applying it is the most common way to lose marks in Cambridge IGCSE Accounting (0452).
+
+**How do you calculate income received in advance?**
+Work out the monthly amount, count the months that fall in the current year as revenue, and treat the remaining months as a liability. Counting the wrong number of months is a common error.
+
+**Should inventory be compared with net realisable value in total or line by line?**
+Compare cost with net realisable value for each line of inventory and take the lower figure for each line. Totalling inventory before comparing can hide a loss on one item behind a gain on another.
+
+**How do you answer a question asking for two ethical principles?**
+Give each principle its own explanation linked to the scenario, for example integrity for knowingly misleading figures and objectivity for giving way to pressure. Naming two principles with a single shared explanation loses marks.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029, version 1, published by Cambridge University Press & Assessment (Cambridge International Education). Sections 7.1 to 7.3.

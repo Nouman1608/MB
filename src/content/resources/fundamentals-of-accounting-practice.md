@@ -17,7 +17,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on the accounting equation, double entry, trial balance and financial statements."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -121,3 +123,17 @@ If capital expenditure is wrongly treated as revenue expenditure, **expenses are
 - Defining prudence as "being cautious" without reference to assets, liabilities and profit.
 - Treating book-keeping and accounting as interchangeable terms, rather than the routine-recording vs analytical-interpretation distinction examiners expect.
 - Forgetting that a transaction affecting only assets and liabilities leaves capital completely unchanged.
+
+## Frequently asked questions
+
+**What is the accounting equation in Cambridge IGCSE Accounting 0452?**
+The accounting equation is assets = capital + liabilities. Capital is the owner's claim on the business and liabilities are amounts owed to outsiders, so the two sides always balance.
+
+**Does every transaction change the owner's capital?**
+No. A transaction that affects only assets and liabilities, such as buying equipment on credit, leaves capital unchanged. Forgetting this is a common error in accounting equation questions.
+
+**What is the difference between book-keeping and accounting?**
+Book-keeping is the routine recording of financial transactions, while accounting uses those records to prepare, analyse and interpret financial information. Treating the two terms as interchangeable loses marks.
+
+**How should you define prudence in an exam answer?**
+Refer to its effect on assets, liabilities and profit: prudence means not overstating assets or profit and not understating liabilities or losses. Defining it only as "being cautious" is not enough.

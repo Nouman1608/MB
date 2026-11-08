@@ -252,6 +252,20 @@ Worked reminder: a float of 80, with vouchers of 12.40, 9.85, 15.00, 6.30 and 17
 - Giving a benefit only (or a limitation only) when the question asks for both.
 - Mixing up discount allowed and discount received.
 
+## Frequently asked questions
+
+**What is a debit note used for?**
+A debit note has more than one use: a buyer may send one to list goods being returned and ask for a credit note, and a seller may send one to charge for an undercharge. Read the question's wording carefully.
+
+**How much is given to the petty cashier under the imprest system?**
+The petty cashier receives exactly the amount spent in the period, which restores the fixed float. Using the cash left in the tin as the top-up is a common error.
+
+**What is the purpose of a statement of account?**
+A statement of account lists the invoices, credit notes, payments and discounts on a customer's account and shows the balance owed. The customer checks it against its own records.
+
+**What is the difference between discount allowed and discount received?**
+Discount allowed is given by a seller to a customer for early payment and is an expense, while discount received is earned by a buyer from a supplier and is income. Both are recorded in the discount columns of the cash book.
+
 ## Official syllabus
 
 Source: the Cambridge IGCSE Accounting 0452 syllabus (version 1), valid for examination in 2027, 2028 and 2029, from Cambridge University Press and Assessment (Cambridge International Education).

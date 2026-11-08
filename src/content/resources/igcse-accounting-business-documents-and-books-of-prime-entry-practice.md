@@ -206,6 +206,20 @@ Return 80 on the debit side [1]; owed 430 and discount 10.75 (2.5% of 430) [1]; 
 - Return to the [0452 hub](/boards/cambridge/igcse/accounting/) or print the [checklist](/checklists/cambridge/igcse/accounting/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How is cash discount calculated after goods have been returned?**
+Cash discount is calculated on the amount actually owed, which is the invoice total less any credit note, not on the list price or the original invoice. It is only allowed if the customer pays within the discount period.
+
+**Which column of the cash book is used for a cheque or bank transfer?**
+Cheques, card receipts, online payments and bank transfers go in the bank column, because the money moves through the bank account. Only notes and coins go in the cash column.
+
+**How is a contra entry recorded in the cash book?**
+A contra, such as moving money from the bank to the till, appears on both sides of the cash book: in the bank column on one side and the cash column on the other. Nothing is posted to the ledger because both sides are in the cash book.
+
+**How do you answer a benefits and limitations question in Cambridge IGCSE Accounting (0452)?**
+Give both benefits and limitations when the question asks for both, for example for keeping cash at the business or for manual or digital original entry. Giving benefits only is a common way to lose marks.
+
 ## Official syllabus
 
 Source: the Cambridge IGCSE Accounting 0452 syllabus (version 1), valid for examination in 2027, 2028 and 2029, from Cambridge University Press and Assessment (Cambridge International Education).

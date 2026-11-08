@@ -173,6 +173,20 @@ The bank statement for June shows:
 - Take the [free diagnostics](/diagnostics/) to see what to revise next.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do bank charges go in the cash book?**
+Bank charges are an outflow, so they are entered on the credit side of the cash book's bank column, like a direct debit or standing order. Putting them on the debit side is a common error in Cambridge IGCSE Accounting (0452) questions.
+
+**Do you add or deduct an unpresented cheque in a bank reconciliation?**
+Working from the cash book to the bank statement, add unpresented cheques, because the statement has not yet been reduced by them, and deduct uncredited deposits. If you work from the statement to the cash book, every sign reverses, so pick one direction and use it consistently.
+
+**How do you treat an error made by the bank?**
+A bank error is not entered in the cash book; it appears on the reconciliation statement. Decide whether the error has made the statement too high or too low before choosing the sign, and the business should tell the bank.
+
+**Which balance should a bank reconciliation start from?**
+Start from the updated cash book balance, after entering items such as charges and credit transfers, not the original figure. Starting from the un-updated balance is a common way to lose marks.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1), published by Cambridge University Press & Assessment (Cambridge International Education). Section 3.3 Bank reconciliation.

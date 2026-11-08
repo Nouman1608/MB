@@ -249,6 +249,23 @@ Most businesses combine methods. Working copies on a data storage device, a seco
 - Giving advantages of a storage system but no disadvantage when the question asks to discuss.
 - Naming a software package, which the syllabus does not require.
 
+## Frequently asked questions
+
+**What are the five ethical principles for accountants?**
+The five principles are integrity, objectivity, professional competence and due care, confidentiality and professional behaviour. In an answer, name the principle and say how it applies to the situation.
+
+**What are the four types of data storage system?**
+The four types are manual books, devices, cloud services and other digital services. Manual books work without power but are slow to search, devices are fast but small ones are easily lost, and cloud services give remote access at a continuing cost and depend on a third party.
+
+**Why should accounting data be stored sustainably?**
+Storage has environmental costs, including paper, printing, discarded devices and the electricity used by devices and remote servers. Reducing printing and choosing efficient storage cuts these costs.
+
+**What does the historic cost concept mean?**
+Historic cost means an asset is recorded at what was paid for it, not at its market or replacement value. Using market value where historic cost applies is a common error.
+
+**How should you answer a "discuss" question on storage systems?**
+Give both advantages and disadvantages of the storage type and reach a view. Listing only advantages does not answer a discuss question.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029, version 1, published by Cambridge University Press & Assessment (Cambridge International Education). Sections 7.1 to 7.3.
