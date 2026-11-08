@@ -142,6 +142,20 @@ These questions follow section 4.1 Activity based costing (ABC), A Level content
 - Giving a recommendation with no reasons against it, or no non-financial factors.
 - Saying ABC changes total profit when all output is sold; it changes the split.
 
+## Frequently asked questions
+
+**Are these Cambridge 9706 ABC questions from past papers?**
+No. They are ten original questions with worked answers on section 4.1 Activity based costing of Cambridge 9706, written for revision. Use them alongside the official past papers.
+
+**How should I show a cost driver rate?**
+Show the driver quantity you divide by, as well as the rate. A bare rate is hard to credit if it is wrong.
+
+**Should a mark-up be applied to overhead or total cost?**
+Apply the mark-up to total cost per unit, including direct costs. Applying it to overhead only is a common way to lose marks.
+
+**How do I answer an ABC question about a small business?**
+Develop each use or limitation and link it to the business in the question. Single-word lists tend to earn little.
+
 ## Next steps
 
 - Review the [revision notes](/resources/cambridge-a-level-accounting-activity-based-costing-revision-notes/) and [study guide](/resources/cambridge-a-level-accounting-activity-based-costing/).

@@ -201,6 +201,20 @@ Judgement: introduce standard costing for the standard cabinet range only, revie
 - Giving causes that do not match the direction of the variance.
 - No judgement in "evaluate" or "assess" answers.
 
+## Frequently asked questions
+
+**Are these AQA 7127 standard costing questions from past papers?**
+No. They are original practice questions with worked answers on section 3.11 of AQA A-Level Accounting 7127, written for revision. Use them alongside the official past papers.
+
+**What are the most common mistakes in variance calculations?**
+Common errors include calculating standard quantity or hours from budgeted output instead of actual output, using the actual price in the usage variance, and omitting the F or A label on a calculated variance.
+
+**Why must variances be labelled F or A?**
+A correct figure with no favourable or adverse label usually loses the accuracy mark, and labelled variances allow own-figure credit in a reconciliation statement.
+
+**How do I give a good cause for a variance?**
+The cause must match the direction of the variance, and where two variances are linked it should explain both directions at once.
+
 ## Next steps
 
 - [Revision notes](/resources/aqa-a-level-accounting-standard-costing-and-variance-analysis-revision-notes/)

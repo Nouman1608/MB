@@ -194,6 +194,20 @@ Amounts are in dollars. Round percentages and days to 1 decimal place.
 - Suggesting an improvement without its drawback.
 - Ignoring the stakeholder in the question and giving generic points.
 
+## Frequently asked questions
+
+**What is the difference between gross profit margin and mark-up?**
+Both use gross profit as the numerator, but gross profit margin divides by revenue and mark-up divides by cost of sales. Dividing by the wrong base is a common mistake.
+
+**Which inventory figure is used for inventory turnover?**
+Inventory turnover uses average inventory, (opening + closing) ÷ 2, not closing inventory alone.
+
+**Why must I include units with ratio answers?**
+Each ratio has a unit, such as %, : 1, days or times, and giving the ratio with no unit is a common way to lose marks.
+
+**What should an improvement measure include?**
+Suggest a measure that fits the ratio in question and state its drawback. Suggesting an improvement without its drawback is a common mistake.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Accounting 9706 syllabus for exams in 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International): section 1.6 Analysis and communication of accounting information, and the appendix of commonly used ratios.

@@ -130,6 +130,20 @@ These questions follow section 3.5 Analysis and communication of accounting info
 - Giving figures with no judgement, or judgement with no figures.
 - Recommending without a reason against.
 
+## Frequently asked questions
+
+**Are these Cambridge 9706 ratio questions from past papers?**
+No. They are eleven original questions with worked answers on section 3.5 of Cambridge 9706 A Level Accounting, written for revision. Use them alongside the official past papers.
+
+**Why should I quote both years' figures when commenting on a ratio?**
+A comment with no figures cannot show the movement, so quote both years and say whether the change is good or bad for the stated user.
+
+**How do I avoid unit errors with investor ratios?**
+Convert cents to dollars, or dollars to cents, before dividing, and do not mix thousands of shares with whole-dollar profit.
+
+**What are the most common mistakes in A Level ratio questions?**
+Common errors include using revenue instead of credit sales for receivables days, leaving non-current liabilities out of gearing, using profit for the year in interest cover, and using the final dividend alone for dividend per share.
+
 ## Next steps
 
 - Revise with the [revision notes](/resources/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-a-revision-notes/) and the [study guide](/resources/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-a/).

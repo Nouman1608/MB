@@ -381,8 +381,6 @@ ABC profit is highest because unsold Premium units carry a large ABC overhead.
 - Forgetting to divide attributed overheads by units to get a per-unit figure.
 - Claiming absorption profit is always higher: only when inventory rises.
 
-Next: the [practice questions](/resources/aqa-a-level-accounting-absorption-and-activity-based-costing-practice/).
-
 ## Frequently asked questions
 
 **What is the difference between allocation and apportionment of overheads?**
@@ -399,6 +397,8 @@ A cost driver is the factor that causes the cost of a cost pool to change, such 
 
 **Is absorption costing profit always higher than marginal costing profit?**
 No. Absorption profit is higher only when inventory rises, because some fixed production overheads are carried forward in closing inventory. When production equals sales, profit is the same under both methods.
+
+Next: the [practice questions](/resources/aqa-a-level-accounting-absorption-and-activity-based-costing-practice/).
 
 ## Official syllabus
 

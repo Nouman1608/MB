@@ -305,6 +305,23 @@ A service business uses the same layout without the trading section: list the fe
 - Applying reducing balance to cost rather than to the carrying amount.
 - Showing drawings as an expense.
 
+## Frequently asked questions
+
+**Are FIFO, AVCO and LIFO examined in AQA A-Level Accounting 7127 section 3.6?**
+No. The specification notes that FIFO, AVCO and LIFO inventory valuation will not be examined. Closing inventory is valued at the lower of cost and net realisable value.
+
+**How do you calculate an expense charge with accruals?**
+Start from the cash paid, deduct any opening accrual (it belonged to last year) and add the closing accrual. For example, £2,610 paid − £240 opening accrual + £310 closing accrual gives a charge of £2,680.
+
+**How do you record the recovery of an irrecoverable debt?**
+Reinstate the debt by debiting the customer and crediting irrecoverable debts recovered, then debit bank and credit the customer. The recovery is income in the year it is received; the earlier year is not reopened.
+
+**How are goods taken by the owner for own use recorded?**
+Debit drawings and credit purchases at cost, following the business entity concept.
+
+**What are the steps in a disposal account?**
+Debit disposal with the asset's cost, credit disposal with the accumulated depreciation and the proceeds, and take the balancing figure to the income statement as a profit or loss on disposal.
+
 Next, test yourself with the [revision notes](/resources/aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders-revision-notes/) and then the [practice questions](/resources/aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders-practice/). The [exam preparation guide](/resources/aqa-a-level-accounting-exam-preparation/) explains the paper structure.
 
 ## Official syllabus

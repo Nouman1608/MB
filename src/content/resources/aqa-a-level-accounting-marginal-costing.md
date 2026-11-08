@@ -325,6 +325,23 @@ Use (fixed costs + target profit) ÷ contribution per unit, as in worked example
 - Recommending with no non-financial factors when asked to evaluate.
 - Ignoring a stepped cost when output moves past a capacity limit.
 
+## Frequently asked questions
+
+**What is contribution in marginal costing?**
+Contribution is selling price minus marginal (variable) cost. Contribution per unit = selling price per unit − variable cost per unit, and it first covers fixed costs; after that, every extra pound is profit.
+
+**How do you calculate the break-even point?**
+Break-even point in units = total fixed costs ÷ contribution per unit. Break-even revenue = break-even units × selling price, or total fixed costs ÷ the C/S ratio.
+
+**What is the difference between a semi-variable and a stepped cost?**
+A semi-variable cost has a fixed element and a variable element, such as electricity with a standing charge plus a charge per unit. A stepped cost is fixed over a range of output and then jumps to a new level when a capacity limit is passed, such as a second supervisor.
+
+**What are the limitations of break-even analysis?**
+It assumes costs split cleanly into fixed and variable, a single selling price and constant variable cost per unit, constant fixed costs and that everything produced is sold. It is also harder to apply with several products and relies on estimates.
+
+**Which costs are relevant in a make-or-buy decision?**
+Compare the marginal cost of making with the price of buying. Fixed overheads that will still be paid whichever option is chosen are not relevant, and non-financial factors such as supplier quality and reliability should be weighed before deciding.
+
 ## Next steps
 
 Test yourself with the [marginal costing practice questions](/resources/aqa-a-level-accounting-marginal-costing-practice/),

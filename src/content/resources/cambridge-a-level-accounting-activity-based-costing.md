@@ -204,6 +204,23 @@ Calderfell's competitor sells a similar Custom crate at 66.00. Managers ask what
 - Claiming ABC changes total overhead. It changes the split between products, and total profit only where inventory changes.
 - Describing a driver as "the activity". The driver is the measure of the activity.
 
+## Frequently asked questions
+
+**What is a cost driver in activity based costing?**
+A cost driver is the factor that causes the cost of an activity to be incurred, such as the number of set-ups for a set-up cost pool. The driver is the measure of the activity, not the activity itself.
+
+**What are the steps in activity based costing?**
+Group overheads into cost pools, identify each pool's cost driver, calculate a driver rate (pool cost ÷ total driver quantity), allocate overhead to products by their use of the driver, then add direct costs to find total cost per unit and the selling price.
+
+**Does activity based costing change total profit?**
+No, not when every unit made is sold: ABC changes how overheads are split between products, not the total. Total profit changes only when production and sales differ, because closing inventory is valued differently.
+
+**What are the limitations of ABC?**
+ABC is costly and time-consuming to set up, choosing pools and drivers needs judgement, some costs such as rent have no clear driver, fixed costs do not fall automatically, and there is limited gain where products use activities in similar proportions.
+
+**Which section of Cambridge 9706 covers activity based costing?**
+Activity based costing is section 4.1, part of the A Level cost and management accounting content of Cambridge International AS and A Level Accounting 9706.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Accounting 9706 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, section 4.1 Activity based costing (ABC).

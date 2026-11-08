@@ -233,6 +233,20 @@ Vale's current account debited [1]; revaluation shares [1]; goodwill created 3 :
 - Sharing revaluation profit or goodwill created in the new ratio, or including the incoming partner.
 - Adding a retiring partner's debit current account balance to the amount due.
 
+## Frequently asked questions
+
+**Are these AQA 7127 partnership questions from past papers?**
+No. They are original practice questions with marked answers on section 3.15 of AQA A-Level Accounting 7127, written for revision. Use them alongside the official past papers.
+
+**What are the most common mistakes in partnership appropriation questions?**
+Common errors include treating interest on a partner's loan as an appropriation rather than an expense, subtracting interest on drawings, and ignoring the months when calculating interest on drawings.
+
+**What are common mistakes in admission and retirement questions?**
+Sharing a revaluation profit or goodwill created in the new ratio, or including the incoming partner, and adding a retiring partner's debit current account balance to the amount due instead of deducting it.
+
+**How do I earn marks when commenting on partners' current accounts?**
+Use the figures in the question and finish with a supported conclusion when asked to evaluate. General points about drawings, without figures, limit the marks.
+
 ## Next steps
 
 - [Revision notes for this topic](/resources/aqa-a-level-accounting-partnership-accounts-revision-notes/)

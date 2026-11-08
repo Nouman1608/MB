@@ -184,6 +184,20 @@ For any recommendation question:
 - Saying ABC reduces costs. It changes the cost shares, and savings come only from acting on the drivers.
 - Describing limitations in general terms, with no link to the business in the question.
 
+## Frequently asked questions
+
+**What makes a good cost driver?**
+A good driver has a cause-and-effect link with the pool's cost, can be measured for each product, is available at reasonable cost, and differs between products.
+
+**Does ABC reduce costs?**
+Not by itself. ABC changes the share of costs given to each product; savings come only when managers act on the drivers, for example by cutting set-ups and removing the resources.
+
+**What is the most common mistake in ABC calculations?**
+Dividing a cost pool by the number of units made rather than by the total driver quantity. Using the same driver for every pool is another error, because it simply gives the traditional answer.
+
+**What should an ABC recommendation include?**
+Use the ABC figures, give reasons for and against, include non-financial points, and link any limitations to the business in the question.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Accounting 9706 syllabus for examination in 2026, 2027 and 2028, published by Cambridge University Press & Assessment, section 4.1 Activity based costing (ABC).

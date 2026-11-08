@@ -227,10 +227,6 @@ return goods change the closing inventory figure.
 - Describing prudence as "deliberately understating profit"; it means not overstating.
 - Saying "realisation means when the cash is received".
 
-Ready to test yourself properly? Go to the
-[practice questions](/resources/aqa-a-level-accounting-accounting-concepts-used-in-the-preparation-of-accounting-re-practice/),
-or try the free [diagnostics](/diagnostics/).
-
 ## Frequently asked questions
 
 **What does the realisation concept mean?**
@@ -244,6 +240,10 @@ Every cost needed to get the asset ready for use is capitalised, including purch
 
 **Why are the owner's private bills treated as drawings?**
 Under the business entity concept the business is separate from its owner, so the owner's private spending paid from the business is drawings, not a business expense.
+
+Ready to test yourself properly? Go to the
+[practice questions](/resources/aqa-a-level-accounting-accounting-concepts-used-in-the-preparation-of-accounting-re-practice/),
+or try the free [diagnostics](/diagnostics/).
 
 ## Official syllabus
 

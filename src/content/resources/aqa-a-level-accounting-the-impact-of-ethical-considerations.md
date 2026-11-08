@@ -204,6 +204,23 @@ Profit to revenue: 15.0% draft, 13.9% corrected
 - Describing CIMA as a CCAB member.
 - Leaving out the effect on the figures when the scenario gives numbers.
 
+## Frequently asked questions
+
+**What are the threats to an accountant's ethical principles?**
+The five threats are self-interest, self-review, advocacy, familiarity and intimidation. A safeguard, such as a second-person review, is an action that reduces a threat to an acceptable level.
+
+**What should an accountant do if they suspect wrongdoing?**
+Establish the facts, identify the principles and threats involved, evaluate the significance, apply safeguards, resolve any conflict of interest, escalate internally, seek professional or legal advice when necessary, and as a last resort refuse to take part or resign.
+
+**What is the difference between integrity and objectivity?**
+Integrity is honesty and being straightforward; objectivity is freedom from bias or undue influence. Confusing the two is a common error in AQA 7127 ethics answers.
+
+**What is the difference between a qualified and an adverse audit opinion?**
+A qualified opinion says the financial statements give a true and fair view except for a specific matter. An adverse opinion says they do not give a true and fair view; a qualified opinion does not mean the accounts are wrong throughout.
+
+**Is CIMA a member of the CCAB?**
+No. CIMA, the Chartered Institute of Management Accountants, trains and regulates management accountants, but describing it as a CCAB member is a common error.
+
 ## Next steps
 
 Test your recall with the [revision notes](/resources/aqa-a-level-accounting-the-impact-of-ethical-considerations-revision-notes/), then try the [practice questions](/resources/aqa-a-level-accounting-the-impact-of-ethical-considerations-practice/). Related topics: [limited company accounts](/resources/aqa-a-level-accounting-limited-company-accounts/) and the [exam preparation guide](/resources/aqa-a-level-accounting-exam-preparation/).

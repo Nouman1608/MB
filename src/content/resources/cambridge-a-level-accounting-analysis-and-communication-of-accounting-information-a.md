@@ -193,6 +193,23 @@ Other measures: negotiate longer supplier credit without losing discounts, reduc
 - Using only the final dividend in dividend per share, rather than interim plus final.
 - Describing a ratio without saying whether the change is good or bad for a stated user.
 
+## Frequently asked questions
+
+**How do you calculate the working capital cycle?**
+Working capital cycle (days) = trade receivables turnover (days) + inventory turnover (days) − trade payables turnover (days). A longer cycle needs more finance.
+
+**How is gearing calculated in Cambridge 9706?**
+Gearing (%) = non-current liabilities ÷ (issued ordinary share capital + all reserves + non-current liabilities) × 100. Leaving non-current liabilities out of the denominator is a common error.
+
+**Which profit figure is used for interest cover?**
+Interest cover = profit from operations ÷ interest payable. Using profit for the year instead of profit from operations is a common mistake.
+
+**Can I use any ratio formula in a Cambridge 9706 answer?**
+No. Only the formulae in the appendix to section 3 of the syllabus are accepted. An incorrect formula is not credited, although the figure it produces can be credited as your own figure in later work.
+
+**How should a recommendation be structured in ratio analysis?**
+State who you are advising, give the recommendation, then a reason for and a reason against, and finish with a justified decision. A recommendation without a reason against is judged incomplete.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028, published by Cambridge University Press & Assessment (Cambridge International Education): section 3.5 Analysis and communication of accounting information, and the appendix to section 3.

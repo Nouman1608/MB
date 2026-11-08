@@ -223,6 +223,20 @@ fixed costs that continue anyway. Then add non-financial factors and recommend.
 - Reading the break-even point from where revenue crosses the **fixed** cost line.
 - Not stating whether a figure is units or £ when reporting break-even.
 
+## Frequently asked questions
+
+**Which AQA 7127 section covers marginal costing?**
+Section 3.10 Marginal costing covers cost behaviour, contribution, break-even analysis and decision making using marginal costing. It is assessed on Paper 2.
+
+**How do you rank products when a resource is scarce?**
+Rank products by contribution per unit of the limiting factor, such as contribution per machine hour, not by contribution per unit. Ranking by contribution per unit is a common mistake.
+
+**Should break-even units be rounded up or down?**
+Round break-even and target-profit units up, because selling a fraction fewer would leave the business short of break-even or the target.
+
+**Where is break-even on a break-even chart?**
+Break-even is where the sales revenue line crosses the total cost line, not the fixed cost line. To the left is the loss and to the right is the profit.
+
 Next: [practice questions](/resources/aqa-a-level-accounting-marginal-costing-practice/) ·
 [study guide](/resources/aqa-a-level-accounting-marginal-costing/) ·
 [exam preparation](/resources/aqa-a-level-accounting-exam-preparation/)

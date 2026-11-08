@@ -247,6 +247,23 @@ If customers owing half of credit sales take the discount, it costs 720,000 × 5
 - Subtracting inventory from current liabilities rather than current assets in the acid test.
 - Describing a ratio without a reason, a comparison or a consequence.
 
+## Frequently asked questions
+
+**Are ratio formulae given in the Cambridge 9706 exam?**
+No. Ratios are not given in the question paper, so learn the appendix formulae and use them exactly. Section 1.6 Analysis and communication of accounting information is AS Level content.
+
+**How is capital employed calculated for return on capital employed?**
+Capital employed adds together issued shares, reserves and non-current liabilities, and return on capital employed uses profit from operations. Leaving out non-current liabilities or using profit for the year are common errors.
+
+**How do you calculate the acid test ratio?**
+Acid test ratio = (current assets − inventory) : current liabilities. Inventory is subtracted from current assets, not from current liabilities, and the answer is written as x : 1.
+
+**What are the limitations of accounting information?**
+It records the past at historic cost, rests on estimates such as depreciation, leaves out non-financial matters such as staff skill and reputation, may reflect an untypical year-end, and comparisons are weakened by different policies, size, products and finance.
+
+**How should I evaluate a ratio in an AS Accounting answer?**
+Set it beside last year, a comparable firm or an industry benchmark, and give a cause and a consequence. Describing a ratio without a reason, a comparison or a consequence earns little.
+
 Check your skills with the [practice questions](/resources/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-as-practice/).
 
 ## Official syllabus
