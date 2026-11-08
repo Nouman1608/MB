@@ -21,7 +21,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "human-population-5014-2027"
     subtopic: "managing-human-population-size-5014-2027"
-description: "Population density, distribution, age structure, growth, migration and population management strategies for Cambridge O Level Environmental Management 5014 Topic 7."
+description: "Population density, age structure, growth, migration and population policies, with worked examples, for Cambridge O Level Environmental Management 5014."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
@@ -134,3 +134,20 @@ For **calculate** questions show your formula, substitution and answer with unit
 6. Explain how educating girls can lower the birth rate. *Educated girls tend to marry later, find paid work and use family planning, so have fewer children.*
 7. State one problem of an ageing population. *Fewer workers support more pensioners, raising healthcare and pension costs.*
 8. Give one criticism of a strict limit on family size. *It restricts personal freedom and can cause a gender imbalance and a rapidly ageing population.*
+
+## Frequently asked questions
+
+**How do you convert a birth rate or natural increase per 1 000 into a percentage?**
+Divide the rate per 1 000 by 10. For example, a natural increase of 14 per 1 000 is 1.4% a year.
+
+**What is the rule of 70?**
+The rule of 70 estimates how long a population would take to double: divide 70 by the annual percentage growth rate. A growth rate of 1.4% a year gives a doubling time of about 50 years.
+
+**What are push and pull factors in migration?**
+Push factors drive people away from a place, such as unemployment, conflict, natural disaster or famine. Pull factors attract people to a new place, such as jobs, safety, education and healthcare.
+
+**What is the difference between anti-natalist and pro-natalist policies?**
+Anti-natalist policies aim to slow population growth, for example through family planning and education for girls. Pro-natalist policies aim to encourage growth, for example through payments to families, paid parental leave and subsidised childcare.
+
+**What does a population pyramid with a narrow base show?**
+A narrow base with a bulge in the older age groups indicates an ageing population.

@@ -9,10 +9,12 @@ qualifications: ["o-level"]
 syllabusCodes: ["5014"]
 syllabusSeries: "2027-2029"
 order: 3
-description: "Preparing for Paper 1 Principles of Environmental Management and Paper 2 Environmental Management in Context in the 2027-2029 Cambridge O Level Environmental Management 5014 syllabus -- assessment objectives, command words, fieldwork and data skills, with a worked routine."
+description: "Exam preparation for both 2027-2029 Cambridge O Level Environmental Management 5014 papers: assessment objectives, command words, fieldwork and data skills."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-21
 featured: false
@@ -179,6 +181,23 @@ cover decreases" earns less.
 Random and systematic sampling; any four of pitfall traps, pooters, sweep
 nets, quadrats, transects, aerial photography and drones, and automated
 sampling. 4. (50 - 40) / 40 x 100 = 25%. 5. "time / s".
+
+## Frequently asked questions
+
+**How long are the 2027-2029 Cambridge O Level Environmental Management papers?**
+Both papers, Paper 1 Principles of Environmental Management and Paper 2 Environmental Management in Context, last 1 hour 45 minutes, carry 80 marks and are worth 50% of the qualification. Candidates answer all questions on both papers.
+
+**What changed in the 2027-2029 5014 papers?**
+Paper 1 no longer has sections, practical method-based questions are now limited to Paper 2, and Paper 2 no longer has a single-country context.
+
+**Can I use a calculator in O Level Environmental Management 5014?**
+Yes. The 2027-2029 syllabus allows calculators in all parts of the exam.
+
+**How should I label a table column or graph axis in 5014?**
+Give the quantity and unit separated by a solidus, for example "time / s", and do not write units in the body of a table. Plot the independent variable on the x-axis.
+
+**Is O Level Environmental Management 5014 tiered?**
+No. The syllabus is not tiered, and grades run from A* to E.
 
 *Written against the assessment overview (p.9), assessment objectives
 (pp.10-11), details of the assessment (pp.36-43) and changes page

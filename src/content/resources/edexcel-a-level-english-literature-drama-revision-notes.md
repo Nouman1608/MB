@@ -19,7 +19,9 @@ syllabusTopics:
 description: "Condensed notes on the assessment objectives, essay structure and set-text preparation for Unit 2 Drama of Edexcel International A Level English Literature."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -103,6 +105,20 @@ Rather than trying to recall context from memory under exam pressure, build a sh
 
 - [Unit 2 Drama study guide](/resources/a-level-edexcel-english-literature-drama/)
 - [Unit 2 Drama practice questions](/resources/edexcel-a-level-english-literature-drama-practice/)
+
+## Frequently asked questions
+
+**Is Edexcel International A Level English Literature Unit 2 Drama open book?**
+Yes. Unit 2 is a 2-hour open-book exam worth 50 marks, 50% of the International AS grade, with one 25-mark essay in each section. Bringing an annotated text into the exam is a common mistake.
+
+**What does AO5 mean in Edexcel English Literature?**
+AO5 assesses awareness of different interpretations of a text, by critics, directors or across time. It is the objective most often under-used, because an answer that argues one fixed reading leaves it untouched.
+
+**Which assessment objectives are used in Unit 2 Drama?**
+Both sections are assessed against the same four objectives: AO1, AO2, AO3 and AO5.
+
+**What is dramatic form?**
+Dramatic form covers staging, stage directions, entrances and exits, and silence. It is central to how meaning is made in drama, as distinct from prose.
 
 ## Official syllabus
 

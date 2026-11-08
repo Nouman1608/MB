@@ -21,7 +21,9 @@ syllabusTopics:
 description: "Original essay questions with model plans and worked commentary on modern drama and literary heritage texts for Edexcel IGCSE English Literature 4ET1 Paper 2."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
@@ -140,3 +142,17 @@ time.
 - Writing a Section B answer that is strong on textual analysis but never engages with historical or social context, missing AO4 credit.
 - Over-relying on memorised quotations rather than the skill of locating and analysing passages in the open-book exam.
 - Running out of time on Section B because Section A, often the more comfortable question, was allowed to overrun.
+
+## Frequently asked questions
+
+**Which assessment objectives are tested in Edexcel IGCSE English Literature 4ET1 Paper 2?**
+In this practice, Section A, Modern Drama, is assessed against AO1 (informed personal response) and AO2 (analysis of language, form and structure). Section B, Literary Heritage Texts, additionally assesses AO4, the significance of contextual factors.
+
+**Is Edexcel 4ET1 Paper 2 open book?**
+Yes. Because the exam is open book, prepare by practising how to locate key scenes and turning points quickly in your copy of the set text, rather than memorising quotations word for word.
+
+**How long do I have for the two Paper 2 essays?**
+You answer two essay questions in 1 hour 30 minutes, so practise a full-length drama essay and a literary heritage essay in a single timed sitting.
+
+**How do I earn AO4 marks for context?**
+Connect specific textual evidence to the world the text was written in and set in. A short, focused set of contextual facts that you can link directly to the text is more useful than broad historical knowledge.

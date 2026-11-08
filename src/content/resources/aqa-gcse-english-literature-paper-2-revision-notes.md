@@ -24,7 +24,9 @@ syllabusTopics:
 description: "Condensed notes on AQA GCSE English Literature 8702 Paper 2: the modern text, the poetry anthology cluster and unseen poetry, with timing and exam traps."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
@@ -136,6 +138,20 @@ effectively any of the 15 poems in your studied cluster. 3. Because the poems ar
 exam, so no quotation bank or memorised analysis can prepare for the specific poems that appear —
 only general analytical skill built through wide practice. 4. Form and structure — the writer's methods, credited under AO2. 5.
 Summarising the plot instead of analysing character, theme, context and writer's method.
+
+## Frequently asked questions
+
+**Which poetry clusters are in the AQA 8702 anthology?**
+Poems Past and Present has three clusters of 15 poems: Love and Relationships, Power and Conflict, and Worlds and Lives, spanning 1789 to the present. You study one cluster and write about a named poem plus a second poem of your own choosing from it.
+
+**Why does comparing poems by theme alone limit my marks?**
+AO2 credits analysis of language, form and structure. Marking is holistic, but the higher AO2 bands are only reached by comparing form and structure as well as theme, so theme alone caps marks in the middle bands.
+
+**How do I prepare for unseen poetry in AQA GCSE English Literature?**
+It cannot be pre-learned, so practise regularly on unfamiliar poems with a consistent routine: note subject and tone on a first read, identify structural shape on a second pass, then find two or three language choices that support or complicate your first impression.
+
+**How many modern texts can be studied for Paper 2 Section A?**
+Centres choose from 12 modern prose or drama texts, such as An Inspector Calls, Lord of the Flies and Animal Farm. Know the world the text was written into, not just its plot.
 
 ## Related resources
 

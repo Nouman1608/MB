@@ -119,3 +119,20 @@ Questions with **explain why** need a reason chain: cause, process, consequence.
 6. Explain how urbanisation increases flood risk. *Impermeable surfaces stop infiltration, so water runs off quickly through drains into rivers, increasing the peak.*
 7. State two ways of managing drought. *Rainwater harvesting and drip irrigation, or drought-resistant crops.*
 8. Why can richer countries often reduce the impact of a hazard more than poorer ones? *They can afford monitoring, strong buildings, warnings, shelters and rescue services.*
+
+## Frequently asked questions
+
+**What is the difference between a hazard and a disaster?**
+A hazard is the natural event; a disaster happens when a hazard seriously damages a vulnerable community. Calling a hazard a disaster without mentioning vulnerability is a common mistake.
+
+**What sea temperature is needed for a tropical cyclone to form?**
+Tropical cyclones need a sea surface temperature of about 26 to 27 degrees Celsius or more over a large area of warm ocean. They do not form over just any warm area.
+
+**How do humans increase flood risk?**
+Deforestation reduces interception of rainfall, and urbanisation covers the ground with concrete and tarmac that stop infiltration, so water runs quickly into drains and rivers. Building on floodplains and poorly maintained drainage add to the risk.
+
+**How do you calculate lag time on a flood hydrograph?**
+Subtract the time of peak rainfall from the time of peak river discharge. A short lag time with a high peak suggests fast runoff, typical of a steep, urban or deforested catchment.
+
+**Is hard engineering always the best way to manage floods?**
+No. Hard engineering such as dams and embankments can be effective but is costly, while soft engineering such as afforestation and floodplain zoning works with natural processes. Treating hard engineering as always the best answer is a common mistake.

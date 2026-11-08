@@ -24,7 +24,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "ecosystems-biodiversity-and-fieldwork-0680"
     subtopic: "fieldwork-investigations-0680"
-description: "Food webs and energy flow, forest ecosystems and deforestation, protecting biodiversity, and designing and evaluating sampling fieldwork, with worked calculations."
+description: "Food webs, energy flow, rainforests and deforestation, protecting biodiversity, and sampling fieldwork for Cambridge IGCSE Environmental Management 0680."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-08
@@ -144,3 +144,20 @@ When a question asks you to plan, state the aim, the equipment, how you reduce b
 6. Five quadrats of 0.25 m squared contain 3, 4, 2, 5 and 1 individuals. What is the mean count per quadrat? (15 / 5 = 3.)
 7. Explain why one visit may give an unreliable result. (Populations and conditions change with season and time, so one visit may miss variation.)
 8. Suggest one way local people can benefit from forest conservation. (Ecotourism jobs, sustainable harvesting or agroforestry income.)
+
+## Frequently asked questions
+
+**Why do food chains rarely have more than four or five trophic levels?**
+Only about 10 per cent of energy is passed on to the next trophic level; the rest is lost as heat in respiration, in movement, in waste and in parts that are not eaten. So little energy reaches the top that chains stay short.
+
+**Is energy recycled in an ecosystem?**
+No. Nutrients are recycled, as decomposers return them to the soil for plants to absorb again, but energy flows through the ecosystem and is lost as heat. Saying energy is recycled is a common mistake.
+
+**Why does biodiversity matter?**
+Ecosystems with more species are usually more resilient, species provide food, medicines and materials, and many people value nature for its own sake. Biodiversity includes the number of species and the genetic variety within each, not just the number of individuals.
+
+**How do you improve the reliability of a fieldwork investigation?**
+Take more samples, use random number tables to place quadrats and avoid bias, repeat at different times to catch seasonal change, and use calibrated equipment. Say what each improvement would fix rather than just writing "do more repeats".
+
+**How do I answer a fieldwork planning question in Cambridge IGCSE Environmental Management 0680?**
+State the aim, the equipment, how you will reduce bias, how many samples you will take and how you will process the results. For an evaluation, give a strength and a weakness of the method, then an improvement.

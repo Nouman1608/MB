@@ -125,3 +125,20 @@ Learn at least one named example for each hazard so that you can add place, date
 6. How much larger is the ground motion in a magnitude 8.0 quake than in a magnitude 6.0 quake? (100 times.)
 7. Rain peaks at 09:20 and the river peaks at 13:05. What is the lag time? (3 hours 45 minutes.)
 8. Name two drought management methods suited to a low-income farming community. (For example rainwater harvesting and drought-resistant crops.)
+
+## Frequently asked questions
+
+**When does a natural hazard become a disaster?**
+A natural hazard becomes a disaster when it meets vulnerable people. The same event can cause modest damage in one place and catastrophic loss in another, depending on how prepared and protected people are.
+
+**Can earthquakes be predicted?**
+No. Earthquakes cannot be reliably predicted, so management concentrates on preparation, such as earthquake-resistant buildings, strict building codes, public drills, emergency supplies and land-use planning. Volcanoes, by contrast, can often be monitored.
+
+**What conditions are needed for a tropical cyclone to form?**
+Tropical cyclones form over warm oceans, typically where sea-surface temperature is at least about 26.5 degrees Celsius, and away from the equator itself so that the Earth's rotation can make the system spin. They weaken over land or colder water.
+
+**What is the difference between hard and soft engineering for floods?**
+Hard engineering, such as dams, embankments and flood walls, is effective but costly and can move the problem downstream. Soft engineering, such as floodplain zoning, afforestation, wetland restoration and warning systems, is cheaper and more sustainable but may take time or land.
+
+**What is lag time on a hydrograph?**
+Lag time is the delay between peak rainfall and peak river discharge. Urban surfaces shorten the lag time and increase the peak.

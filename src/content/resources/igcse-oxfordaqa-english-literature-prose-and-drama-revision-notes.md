@@ -21,7 +21,9 @@ syllabusTopics:
 description: "Condensed notes on OxfordAQA International GCSE English Literature 9275 Paper 1 Prose and Drama: the format, the AOs and how to plan each set-text answer."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
@@ -124,6 +126,20 @@ before finalising which edition of their set texts to buy.
 6. What should a well-built quotation bank cover for each text?
 
 **Answers (continued):** 5. Route A adds an unseen prose section (Paper 2a); Route B adds non-exam assessment (coursework) alongside Paper 2b. 6. For each text, 2-3 major characters and 2-3 central themes with supporting quotations from more than one point in the text — for the play, also a staging note on how a key line might be delivered.
+
+## Frequently asked questions
+
+**Is OxfordAQA 9275 Paper 1 Prose and Drama open book?**
+No. Paper 1 is a 1 hour 30 minute closed-book exam worth 60 marks, 40% of the International GCSE, with two 30-mark sections. It is common to both Route A and Route B.
+
+**What choice of question do I get in each section of Paper 1?**
+Each section offers a choice between an essay-style question and a passage-based question. The passage-based option gives you a printed extract to anchor close analysis, while the essay option needs evidence recalled from across the whole text.
+
+**What is the difference between Route A and Route B in OxfordAQA English Literature?**
+Paper 1 is identical on both routes. Route A adds an unseen prose section in Paper 2a, while Route B adds a non-exam assessment instead, so confirm which route your centre follows.
+
+**Is there a new OxfordAQA 9275 specification?**
+Yes. OxfordAQA has published a revised 9275 specification for first teaching from September 2026, with first exams in May/June 2028 and refreshed set-text and anthology lists. The current Version 5.1 remains in force up to and including the November 2027 series.
 
 ## Official specification
 

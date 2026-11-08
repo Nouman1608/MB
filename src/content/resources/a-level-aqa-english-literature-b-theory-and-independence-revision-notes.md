@@ -18,7 +18,9 @@ syllabusTopics:
 description: "Condensed notes on the 7717 Theory and Independence NEA: text selection, the AQA Critical anthology, re-creative writing and the commentary requirement."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
@@ -174,3 +176,20 @@ understanding that the re-creative piece alone cannot show on its own.
 5. Any text that appears on the A-level exam paper set-text lists,
 even if it is not the specific text your own centre studies for the
 exam.
+
+## Frequently asked questions
+
+**How long are the AQA English Literature B NEA essays?**
+Each of the two Theory and Independence essays should be 1,250 to 1,500 words, with 1,500 the maximum. AQA's teaching guide excludes quotations from the count, and for a re-creative response the creative piece and its commentary count together in the one total.
+
+**Can I use an exam set text for the 7717 NEA?**
+No. Any text that appears on the A-level exam paper set-text lists is banned for the NEA, even if your own centre studies a different exam text.
+
+**What are the six sections of the AQA Critical anthology?**
+The Critical anthology covers narrative theory, feminist theory, Marxist theory, eco-critical theory, post-colonial theory, and literary value and the canon. Each of your two NEA texts must be linked to a different section.
+
+**Is the commentary optional for a re-creative NEA piece?**
+No. The commentary must explicitly connect your creative choices to the base text and to the Critical anthology section you used, explaining why you made each significant choice and what critical reading it produces.
+
+**Can one of my NEA texts be a translation?**
+Yes. One of the two texts may be a text in translation, provided it is a translation recognised by academia as high quality; it is then treated as the original author's own words for assessment.

@@ -21,10 +21,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "land-0680"
     subtopic: "soil-erosion-0680"
-description: "Condensed recall notes on soils and crop growth, food production strategies and soil erosion for Topic 2 of Cambridge IGCSE Environmental Management (0680), 2027-2029 series."
+description: "Recall notes on soils and crop growth, food production and soil erosion for Topic 2 Land of Cambridge IGCSE Environmental Management 0680, 2027-2029 series."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
@@ -148,6 +150,20 @@ silting of rivers, desertification, mass movement, habitat loss, reduced yield, 
 displacement. 4. Any three: terracing, contour ploughing, bunds, wind breaks, maintaining vegetation
 cover. 5. Producing enough food for the present generation using methods that let future generations
 keep growing food from the same land.
+
+## Frequently asked questions
+
+**How do the three Land sub-topics connect in Cambridge IGCSE Environmental Management 0680?**
+Soil composition (2.1) shapes farming decisions (2.2), which can lead to soil erosion (2.3). Practise tracing the chain forwards and backwards, from a soil property to a farming choice and from an erosion problem back to its cause.
+
+**How long are the 0680 papers for 2027-2029?**
+Paper 1 (Principles of Environmental Management) and Paper 2 (Environmental Management in Context) are equally weighted, each lasting 1 hour 45 minutes for 80 marks. Practical fieldwork questions are limited to Paper 2.
+
+**What strategies reduce soil erosion?**
+Strategies include terracing, contour ploughing, bunds, wind breaks, maintaining vegetation cover and adding organic matter to improve soil structure. Match each strategy to the cause it tackles.
+
+**How is drip irrigation different from flood irrigation?**
+Trickle or drip irrigation delivers water precisely where it is needed with minimal waste, so it is a sustainable strategy. Flood irrigation of the same field can cause waterlogging and salinisation over time.
 
 ## Official syllabus
 

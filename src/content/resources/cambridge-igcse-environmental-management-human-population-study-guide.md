@@ -121,3 +121,20 @@ When reading a population pyramid, give the shape, then the figures with units, 
 6. Give one advantage and one disadvantage of a strict one-child style policy. (Slows growth; can cause a gender imbalance and an ageing population.)
 7. A population has 20,000 aged under 15, 5,000 aged over 64 and 50,000 aged 15 to 64. Find the dependency ratio. (25,000 / 50,000 x 100 = 50.)
 8. Name two non-compulsory ways to lower birth rates. (Education for girls and access to family planning.)
+
+## Frequently asked questions
+
+**How do you calculate population density?**
+Divide the population by the area, usually giving the answer in people per square kilometre. Density is an average, so people are not evenly spread across the whole area.
+
+**What are the stages of the demographic transition model?**
+In stage 1 birth and death rates are both high; in stage 2 death rates fall while birth rates stay high, so population grows fast; in stage 3 birth rates fall and growth slows; in stage 4 both are low. Some versions add a fifth stage in which births fall below deaths.
+
+**How do you estimate doubling time?**
+Divide 70 by the annual percentage growth rate. For example, a growth rate of 2.0 per cent a year gives a doubling time of about 35 years.
+
+**Why are birth rates higher in some countries?**
+Birth rates tend to be higher where child mortality is high, where children help with farm work or support parents in old age, where contraception and education for girls are limited, and where cultural or religious beliefs favour large families.
+
+**How should I read a population pyramid in Cambridge IGCSE Environmental Management 0680?**
+Describe the shape, then quote figures with units, then explain the meaning, such as a high birth rate. A wide base and narrow top shows many children, while a narrow base and broad top shows an ageing population.

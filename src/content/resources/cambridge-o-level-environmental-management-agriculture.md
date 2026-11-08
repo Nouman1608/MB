@@ -12,10 +12,12 @@ order: 3
 syllabusTopics:
   - qualification: "o-level"
     topic: "agriculture-and-the-environment-5014"
-description: "Farming systems, soil degradation, and sustainable agricultural practices -- Topic 3 of Cambridge O Level Environmental Management (5014), distinct from the site's existing guides to Rocks and Minerals and Energy and the Environment."
+description: "Soils, farming types, raising yields, the environmental impact of agriculture, soil erosion and sustainable farming for the 2025-2026 O Level 5014 syllabus."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
@@ -163,3 +165,20 @@ farming methods a region can sustainably support depend partly on its underlying
   while maintaining productivity.
 - Revise the differences between sandy and clay soils (3.2) and how soil type connects to the farming
   methods examined later in this topic.
+
+## Frequently asked questions
+
+**Which 5014 syllabus does this agriculture guide follow?**
+It follows Topic 3, Agriculture and the environment, in the outgoing 2025-2026 edition of Cambridge O Level Environmental Management (5014). In the 2027-2029 edition this content becomes part of Topic 2, Land, so check which edition your course uses.
+
+**What is the difference between intensive and extensive farming?**
+Intensive farming aims to maximise output from a given area using high inputs of labour, capital, fertiliser and pesticides, while extensive farming uses more land relative to the inputs applied and gives lower yields per unit of land. Neither is automatically better; it depends on the specific practices used.
+
+**How does farming cause soil erosion?**
+Erosion happens when vegetation cover is removed through ploughing, overgrazing or clearing land faster than soil can be replenished, leaving bare soil to be carried away by wind or water. In dry regions severe erosion can contribute to desertification.
+
+**How does crop rotation help the soil?**
+Growing different crops in succession on the same land helps restore soil nutrients naturally and breaks pest and disease cycles that build up under continuous single-crop planting.
+
+**Why is fertiliser runoff harmful?**
+Excess fertiliser can run off into waterways and cause eutrophication, excess algal growth that depletes oxygen. Naming the mechanism earns more than saying fertiliser is "bad for the environment".

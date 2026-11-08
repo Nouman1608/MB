@@ -21,10 +21,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "land-5014-2027"
     subtopic: "soil-erosion-5014-2027"
-description: "Soils and crop growth, food production and crop yield, and soil erosion -- Topic 2 Land of the 2027-2029 Cambridge O Level Environmental Management (5014) syllabus, which replaces the 2025-2026 topic Agriculture and the environment."
+description: "Soils and crop growth, food production and crop yield, and soil erosion: Topic 2 Land of the 2027-2029 Cambridge O Level Environmental Management 5014 syllabus."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-21
 featured: false
@@ -302,3 +304,20 @@ and surface run-off (2.3.3).
 - **Case study.** The 2025-2026 syllabus recommended a case study of
   agriculture with severe environmental consequences; the 2027-2029
   syllabus has removed its recommended case studies.
+
+## Frequently asked questions
+
+**Why is loam a good soil for growing crops?**
+Loam has an ideal combination of mineral particles and pore spaces, retains moisture, contains organic content and inorganic ions, lets excess water drain and is easy to cultivate.
+
+**What is sustainable food production in 5014?**
+The syllabus defines it as "the production of sufficient food for the present generation using methods that ensure future generations can grow food from the same land".
+
+**How does fertiliser overuse cause eutrophication?**
+Fertiliser washed out of the soil (leaching) enriches rivers and lakes with nutrients, so algae grow rapidly. When the algae die, bacteria decomposing them use up the oxygen in the water, and fish die.
+
+**Is selective breeding still a yield strategy in the 2027-2029 5014 syllabus?**
+No. The 2027-2029 syllabus removed selective breeding. New yield strategies include mixed cropping and intercropping, automated watering systems, aeroponics, urban farming, agroforestry and mulch.
+
+**What is the difference between weather and climate?**
+The syllabus defines weather as "the day-to-day conditions of the atmosphere in a location", while climate is based on the weather over many years. Confusing the two is a common mistake.

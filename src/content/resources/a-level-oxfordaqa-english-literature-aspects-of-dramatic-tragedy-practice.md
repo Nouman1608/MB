@@ -22,7 +22,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on Unit 1 of OxfordAQA International AS & A-Level English Literature (9675)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
@@ -87,3 +89,17 @@ Rather than searching for suitable passages or quotations under exam pressure, p
 ## Why command words matter as much as content knowledge
 
 "Explore" and "discuss this view" both invite genuinely analytical, argument-driven responses rather than descriptive plot summary or one-sided assertion -- a response that narrates the passage or simply agrees with the given claim, however accurately, will not reach the top band against either command word. Treat every practice question as requiring a sustained critical argument, built from specific textual evidence and, where relevant, awareness of critical debate about tragedy as a dramatic form, rather than a set of separate observations about the play.
+
+## Frequently asked questions
+
+**What do "explore" and "discuss this view" ask for in OxfordAQA 9675?**
+Both command words invite analytical, argument-driven responses rather than plot summary or one-sided agreement. A response that narrates the passage or simply agrees with the claim will not reach the top band.
+
+**What is a common mistake with tragic conventions such as hamartia?**
+Treating "tragic hero" and "hamartia" as labels to apply rather than ideas to debate against the specific play. Show whether the play uses, complicates or subverts each convention.
+
+**Should I write about staging in a tragedy essay?**
+Yes. Ignoring staging and performance, and treating the play purely as printed text, is a common way to lose marks, because dramatic effect is central to how tragedy works on an audience.
+
+**How can I prepare evidence for Aspects of Dramatic Tragedy?**
+Before the exam, build a short bank of key moments from both your Elizabethan or Jacobean tragedy and your later tragedy, each annotated with the tragic concept it best demonstrates. Versatile evidence that can support more than one type of question is the most useful.

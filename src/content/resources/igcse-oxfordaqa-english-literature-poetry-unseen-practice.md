@@ -24,7 +24,9 @@ syllabusTopics:
 description: "Original practice with worked answers on the People and Places anthology, unseen poetry and unseen prose for OxfordAQA GCSE English Literature 9275."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
@@ -111,3 +113,17 @@ Questions 2 and 3 model the same three-step method recommended for both unseen s
 - Speculating about an unseen prose extract's wider plot instead of analysing only what the extract actually contains.
 - Naming a technique (simile, short sentence, structural break) without explaining the specific effect it creates.
 - Route A candidates running short on time for unseen prose because more time than planned was spent on the anthology question, which feels more familiar.
+
+## Frequently asked questions
+
+**What is the difference between Route A and Route B in OxfordAQA 9275?**
+Route A candidates answer the unseen prose question in the exam, while Route B candidates stop after the unseen poetry question and complete a non-exam assessment instead. Confirm which route your centre follows before revising.
+
+**Can I speculate about the wider plot of an unseen prose extract?**
+No. Analyse only what the extract actually contains; speculating about a wider plot is a common way to lose marks.
+
+**Are the poems and extract in this practice from real exams?**
+No. They are original material written for this resource, not reproduced past-paper questions or anthology poems. Use them alongside the official past papers available free from OxfordAQA.
+
+**What are common mistakes on OxfordAQA 9275 Poetry and Unseen Texts?**
+Common mistakes include summarising anthology poems individually instead of comparing them, comparing on theme alone without structure and language, and naming a technique without explaining the specific effect it creates.

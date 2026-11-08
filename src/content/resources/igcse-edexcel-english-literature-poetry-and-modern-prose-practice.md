@@ -24,7 +24,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with worked answer plans on Component 1 of Pearson Edexcel International GCSE English Literature (4ET1)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
@@ -288,3 +290,17 @@ at the end to check all three responses.
 - Writing about only one poem in Section B when direct comparison is explicitly credited by AO3.
 - Practising only on invented poems and never on pairings from the real anthology (see the note after question 2(b)), since the actual exam's Section B draws on the anthology poems, not original material.
 - Forgetting that the set texts (poetry anthology and prose novel) are fixed by the specification and only change when Pearson issues a revised specification, not on a series-by-series rotation — see the study guide and revision notes for the current lists, and always confirm you're revising the texts for your own specification issue.
+
+## Frequently asked questions
+
+**How many marks is Edexcel IGCSE English Literature 4ET1 Component 1 worth?**
+Component 1 is worth 90 marks over 2 hours, 60% of the whole IGCSE. Section A, the unseen poem, carries 20 marks, Section B, comparing poems, 30 marks, and Section C, modern prose, 40 marks.
+
+**What does AO3 mean in 4ET1 Section B?**
+AO3 rewards direct comparison of the two poems. A response that analyses both poems well but never compares them misses marks it could otherwise have earned.
+
+**How should I organise a poetry comparison in Section B?**
+Organise by point of comparison rather than poem by poem, analyse language, form and structure in each poem, and keep the comparison explicit throughout rather than leaving it to a closing paragraph.
+
+**Are the poems in this practice from the 4ET1 anthology?**
+No. The practice poems are original poems written for practice. The set texts, a 16-poem anthology and a seven-title modern prose list, are covered in the study guide and revision notes.

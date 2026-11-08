@@ -22,7 +22,9 @@ syllabusTopics:
 description: "Condensed recall notes on Unit 1's two-section structure and assessment objectives for Pearson Edexcel International Advanced Level English Literature (YET01)."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
@@ -113,6 +115,20 @@ A-Level.
 7. In a common teaching order, why might Unit 1 come before Unit 4?
 
 **Answers:** 1. 25% of the full International Advanced Level (50% of the AS). 2. AO3 (context). 3. Since the text is available in the exam, memorising exact quotations matters less than being able to navigate the text quickly and analyse it well under time pressure. 4. Contemporary social and cultural context, since both set texts were published after 2000. 5. Two questions per section — reading both before committing lets you choose the option that best fits the poems and prose text you know most confidently, rather than answering the first question you see. 6. Units 1 and 2 — Unit 1 covers post-2000 poetry and prose, Unit 2 covers drama, both open book and worth 50 marks / 25% of the full IAL each. 7. Post-2000 texts are generally more linguistically accessible than the Shakespeare and pre-1900 poetry studied in Unit 4, so studying them first can let candidates build core analytical skills before tackling older, more demanding language — though the specification itself prescribes no unit order.
+
+## Frequently asked questions
+
+**Is Edexcel International A Level English Literature Unit 1 open book?**
+Yes. Unit 1, Post-2000 Poetry and Prose, is a 2-hour open-book exam worth 50 marks, which is 50% of the International AS and 25% of the full International A Level.
+
+**What are the set texts for Edexcel YET01 Unit 1?**
+Section A uses the 21 prescribed poems from the Poems of the Decade anthology, and Section B uses one of five prose titles: Brooklyn, The Kite Runner, Life of Pi, Purple Hibiscus or The White Tiger. The texts are revised by specification issue, not rotated by series.
+
+**Do I choose both poems in Section A?**
+No. One poem is named by the exam board and you choose the second from the prescribed list to compare with it.
+
+**What are the other units of Edexcel International A Level English Literature?**
+Unit 2 is drama, with one pre-1900 and one post-1900 play; Unit 3 sets an unseen post-1900 poem and two prose texts from a chosen theme; and Unit 4 covers Shakespeare and pre-1900 poetry. Units 1 and 2 make up the International Advanced Subsidiary.
 
 ## Official syllabus
 
