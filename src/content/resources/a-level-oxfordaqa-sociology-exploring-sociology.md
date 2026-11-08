@@ -188,7 +188,7 @@ assessment, since both are examined at the end of that stage.
 
 OxfordAQA International AS and A-level Sociology (9690) specification,
 Version 1.1 —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/09/oxfordaqa-international-a-level-sociology-specification.pdf),
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/10/oxfordaqa-international-a-level-sociology-specification.pdf),
 verified 2026-10-04. Unit 2 timing and marks: 1 hour 45 minutes, 60
 marks (Section A Socialisation and social control 40 marks; Section B
 Research methods and theory 20 marks). A specimen question paper and
