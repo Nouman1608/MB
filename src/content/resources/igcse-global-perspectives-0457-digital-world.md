@@ -165,6 +165,20 @@ Each team member researches a different perspective, such as students, parents, 
 - [Individual Report study guide](/resources/igcse-cambridge-global-perspectives-individual-report/) and [Individual Report revision notes](/resources/global-perspectives-individual-report-revision-notes/)
 - [Team Project revision notes](/resources/igcse-global-perspectives-team-project-revision-notes/)
 
+## Frequently asked questions
+
+**What is the difference between misinformation and disinformation?**
+Misinformation is false information shared without intent to mislead. Disinformation is false information shared on purpose.
+
+**Why do people hold different perspectives on digital issues?**
+Perspectives differ because of values such as safety or privacy, personal experience, vested interest, and position, such as a government balancing the whole country against a local shop owner.
+
+**What five questions help judge a digital source's reliability?**
+Ask who wrote it, why, when, how the evidence was gathered and whether other evidence agrees. Digital issues change fast, so always note when a source was published.
+
+**What are good Individual Report questions on the digital world?**
+Strong questions ask "should", so they divide opinion, for example "Should facial recognition technology be used in public places?" or "Is it right for countries to move towards cashless economies?"
+
 ## Official syllabus
 
 This guide is based on the Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025), sections 2, 3 and 4. Your teacher will confirm how your school uses the Digital world topic across the three components.

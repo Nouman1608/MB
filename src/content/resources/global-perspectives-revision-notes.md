@@ -166,3 +166,20 @@ genuinely does carry marks.
 
 For the full explanation, including the paper's official structure and
 another fully worked source-evaluation example, see the [Global Perspectives Written Exam study guide](/resources/igcse-cambridge-global-perspectives-written-exam/).
+
+## Frequently asked questions
+
+**Is a perspective the same as an opinion in IGCSE Global Perspectives?**
+No. A perspective has reasoning behind it, while an opinion can be a bare view. In 0457 answers, show the reasoning that supports each perspective.
+
+**What are the three levels for considering an issue in 0457?**
+Consider an issue at personal, local and/or national, and global level. Staying only at the global level is a common exam trap.
+
+**How do you show that a source is biased?**
+Quote the loaded wording from the source to demonstrate the bias. Asserting bias without evidence from the text does not earn the marks.
+
+**Is reflection credited in the 0457 Written Exam?**
+No. The Written Exam's AO2 Reflection weighting is 0%. Reflection does carry marks in the Individual Report and the Team Project.
+
+**What questions should you ask about statistics in a source?**
+Ask about the sample size and how it was selected, whether it is representative, whether a baseline is given and whether the comparison is fair. A figure that "doubled" from 2 to 4 means little.

@@ -12,13 +12,15 @@ order: 4
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-ecology"
-description: "Condensed revision notes on IB Diploma Programme ESS Topic 2, Ecology -- the largest syllabus topic at both SL and HL -- applying the Topic 1 concepts to ecosystem structure and function."
+description: "Revision notes on IB DP ESS Topic 2 Ecology, the largest syllabus topic at SL and HL, applying Topic 1's systems concepts to ecosystem structure and change."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
 featured: false
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 The [full syllabus guide](/resources/ib-dp-environmental-systems-and-societies-syllabus-guide/)
@@ -129,3 +131,17 @@ an ecosystem's trophic levels after a disturbance to one part of it, such as the
 predator. 4. Systems — an ecosystem is explicitly treated as a system with interconnected storages and
 transfers, subject to feedback. 5. Because a systems-based answer is expected to trace the indirect,
 cascading consequences of a disturbance, not stop at the first, most obvious effect.
+
+## Frequently asked questions
+
+**How many teaching hours does IB ESS Topic 2 Ecology have?**
+Topic 2 has 22 teaching hours at SL and 35 at HL, more than any other topic. The 13 extra HL hours usually go into more quantitative work on energy flow and more complex food web scenarios.
+
+**Why should you revise ESS Topic 1 before Topic 2?**
+Topic 2 is the first serious application of Topic 1's concepts. An ecosystem is treated as a system, so answers need vocabulary such as inputs, outputs, storages, transfers and feedback.
+
+**How does sustainability link to Topic 2 Ecology?**
+Human activity that disrupts nutrient cycling or removes species from a food web can undermine an ecosystem's long-term capacity to support itself and the people who depend on it. Make that link explicit in evaluative answers.
+
+**Can Topic 2 be used for the ESS individual investigation?**
+Yes. Ecology content such as food webs, energy flow and nutrient cycling is a practical source of investigable questions, for example comparing species diversity or biomass across two habitats.

@@ -164,6 +164,23 @@ Questions 5(a), 7 and 8 are extended responses. The real exam marks these with l
 
 Review weak areas in the [Arts in society study guide](/resources/igcse-global-perspectives-0457-arts-in-society/), then try the general [Global Perspectives practice set](/resources/global-perspectives-practice/), the [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/) and the [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/). Find your gaps with our [diagnostics](/diagnostics/), or [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these IGCSE Global Perspectives arts questions from past papers?**
+No. They are original source-based questions, and Kelmouth and its sources are fictional. They practise 0457 skills using the Arts in society topic as context.
+
+**How do you show that a source is biased in 0457?**
+Point to the specific words or omissions in the source that show the bias. Saying "this source is biased" without that evidence is a common way to lose marks.
+
+**Why is a survey of what people "would" do weak evidence?**
+Stated intentions, such as saying you would take part, are not the same as actual behaviour. Treat them with caution when judging a claim.
+
+**How should you evaluate two arguments in a 0457 source?**
+Judge each argument by the quality of its evidence and reasoning, not by whether you agree with its side, then say which is better supported.
+
+**What does not count as Evidence of Action in the Team Project?**
+Research or planning meetings do not count. Evidence of Action must show the action the team actually carried out.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). The topic list is in section 3; the components and command words are in section 4.

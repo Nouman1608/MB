@@ -28,8 +28,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and worked examples, read the [Topic 4 Water study guide](/resources/ib-dp-ess-water-systems-security-pollution/) first. These notes are for the final weeks before your exams.
@@ -177,6 +179,23 @@ Availability thresholds: 1,700 m³ or more, no stress; 1,000 to 1,699, stress; 5
 8. 1.8 ÷ 1.2 = **1.5**.
 9. Stonefly larvae and mayfly larvae.
 10. Change the activity: apply less fertiliser at the right time. Control the release: buffer strips along rivers, or nitrate removal at treatment works. Clean up: dredge sediment or restore wetlands that absorb nutrients.
+
+## Frequently asked questions
+
+**What is residence time in IB ESS?**
+Residence time is the average time water stays in a storage. For a storage in steady state, divide the size of the storage by the rate of flow out, so an aquifer holding 150 km³ recharged at 0.5 km³ a year has a residence time of 300 years.
+
+**What are the water availability thresholds per person?**
+1,700 m³ per person per year or more means no stress, 1,000 to 1,699 is water stress, 500 to 999 is scarcity and below 500 is absolute scarcity. Always name the category when you give a per-person figure.
+
+**What is the difference between physical and economic water scarcity?**
+Physical scarcity means there is not enough water in the region to meet demand. Economic scarcity means water exists but people lack the money or infrastructure to reach it.
+
+**What is the difference between BOD and dissolved oxygen?**
+BOD is the oxygen demand of microorganisms breaking down organic matter, while dissolved oxygen is the supply left in the water. High BOD uses up dissolved oxygen.
+
+**What is the difference between a point and a non-point pollution source?**
+A point source releases pollution from one identifiable outlet, such as a pipe, which can be licensed and monitored. A non-point source comes from many diffuse sources, such as farm runoff.
 
 ## Official syllabus
 

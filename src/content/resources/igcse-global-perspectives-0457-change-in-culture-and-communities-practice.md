@@ -169,6 +169,23 @@ Recommendation: Action 1, because it tackles the cause the source names most dir
 
 Try the general [Written Exam practice questions](/resources/global-perspectives-practice/), [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/) and [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/). Find your weak skills with our [diagnostics](/diagnostics/), or [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are these 0457 culture and communities questions from past papers?**
+No. They are original source-based practice questions using the topic Change in culture and communities as context. Use them alongside official Cambridge IGCSE Global Perspectives past papers.
+
+**Can you use outside knowledge in Component 1 answers?**
+No. In the Written Exam, answer from the sources given. Using background knowledge about a culture instead of the sources is a common way to lose marks.
+
+**How do you judge whether a survey is reliable?**
+Check who was asked, where, when and how many. A small or narrow survey cannot prove what a whole community or generation thinks.
+
+**Why is one year's data weak evidence of change?**
+A single year's figures show a snapshot, not a trend. Claims about change over time need data from more than one point in time.
+
+**What makes a good Team Project action in 0457?**
+The action should be realistic and have a clear way to measure its success. An action with no way of measuring success makes the project hard to evaluate.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Your teacher will confirm which topics your class is using.

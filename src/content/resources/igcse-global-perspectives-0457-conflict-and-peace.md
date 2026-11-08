@@ -201,6 +201,23 @@ Keep projects safe. Do not try to intervene in serious violence; that is for adu
 - [Individual Report revision notes](/resources/global-perspectives-individual-report-revision-notes/)
 - Related topic: [Political power and action](/resources/igcse-global-perspectives-0457-political-power-and-action/)
 
+## Frequently asked questions
+
+**Does the Conflict and peace topic only cover war?**
+No. Conflict ranges from local disputes to wars between states, and local disputes are often better choices for the 0457 Team Project.
+
+**What are common causes of conflict in IGCSE Global Perspectives?**
+Causes you might analyse include competition for scarce resources, unequal treatment of groups, historical grievances, political exclusion, and misinformation that spreads fear of another group. Link each cause to its consequences.
+
+**What is mediation?**
+Mediation is when a neutral third person helps the sides in a dispute reach their own agreement. Peer mediation in schools is a local example.
+
+**What are examples of courses of action for peace?**
+The page gives the Mine Ban Treaty and UN peacekeeping at global level, the Good Friday Agreement and South Africa's Truth and Reconciliation Commission at national level, and peer mediation locally. Each has strengths and limitations to evaluate.
+
+**What makes a weak Individual Report title on conflict?**
+A title with no real disagreement, such as "Is war bad?", or one that is just a history topic. A good title is a global question that divides opinion, such as whether countries should stop selling weapons to states involved in armed conflict.
+
 ## Official syllabus
 
 This guide is based on the Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025), sections 2, 3 and 4. Your teacher will confirm how your school organises the topics and components.

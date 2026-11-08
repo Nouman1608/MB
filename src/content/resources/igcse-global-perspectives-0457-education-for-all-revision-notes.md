@@ -143,6 +143,20 @@ Component 1 includes an extended response in which candidates "assess actions in
 - [Team Project revision notes](/resources/igcse-global-perspectives-team-project-revision-notes/)
 - [Written Exam revision notes](/resources/global-perspectives-revision-notes/)
 
+## Frequently asked questions
+
+**What is the difference between access and quality in education?**
+Being enrolled in school is not the same as learning. A source that shows rising enrolment does not prove that children are learning more.
+
+**What is the difference between enrolment, attendance and completion?**
+Enrolled means registered at a school, attending means actually present, and completion means finishing the stage of education. Check which measure a source uses.
+
+**What is the difference between percent and percentage points?**
+A rise from 60% to 75% is 15 percentage points but a 25% relative increase. Mixing the two up is a common slip in 0457 answers.
+
+**Is a law promising free schooling evidence that every child attends?**
+No. A law or goal shows intent, but outcomes need data. Treating a promise as proof of results is a frequent error.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Education for all is on the topic list in section 3; the assessment objectives are in section 2 and the component details and command words are in section 4.

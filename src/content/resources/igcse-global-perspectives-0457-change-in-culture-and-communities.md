@@ -184,6 +184,23 @@ Keep the action realistic. The syllabus says the teacher checks that a project i
 
 Practise the exam skills with the [Written Exam guide](/resources/igcse-cambridge-global-perspectives-written-exam/), [Written Exam revision notes](/resources/global-perspectives-revision-notes/) and [Written Exam practice questions](/resources/global-perspectives-practice/). Then test yourself on this topic with the [practice questions](/resources/igcse-global-perspectives-0457-change-in-culture-and-communities-practice/).
 
+## Frequently asked questions
+
+**What causes cultural change in communities?**
+Common causes include globalised media and technology, the movement of people, economic change in shops, jobs and rents, government policy, and tourism. Consequences can be positive, negative or both, and fall differently on different groups.
+
+**Why do people see the same cultural change differently?**
+Different groups, such as long-standing residents, younger residents, traders and the council, are driven by different values, interests and experiences. Ask why each group holds its view.
+
+**What reasoning flaws should you watch for in this topic?**
+Watch for an appeal to tradition, which assumes old is always better, and emotive language such as "the heart of the town is being destroyed", which persuades but proves nothing.
+
+**What courses of action can protect a culture or community?**
+Typical actions include recording and documenting traditions, teaching and passing them on, creating shared spaces, funding and protecting heritage, and letting a tradition adapt. Judge each against criteria such as effectiveness and feasibility.
+
+**What is a good Individual Report question on culture and communities?**
+A good question names the issue, allows more than one answer and points to perspectives, such as "Should minority languages be protected by law or left to change naturally?" A single word such as "Culture" is too broad.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Your teacher will confirm which topics your class is using.

@@ -142,6 +142,23 @@ communication. 4. Explain the issue and perspectives; analyse causes and consequ
 courses of action and propose one; reflect and conclude. 5. Its value to the research, and whether it
 is reliable and credible.
 
+## Frequently asked questions
+
+**How long is the IGCSE Global Perspectives 0457 Individual Report?**
+The Individual Report is 1500-2000 words, excluding the bibliography. It is internally set, externally marked and worth 30% of the qualification.
+
+**What skills are assessed in the 0457 Individual Report?**
+Five skills are assessed: research, analysis, evaluation, reflection and communication. Collaboration is assessed in the Team Project instead.
+
+**Does the Individual Report have to follow a set order?**
+No mark criterion requires one particular order, so a report is not marked down for its order alone. Following the syllabus's recommended structure, however, makes it far easier to evidence everything the criteria reward.
+
+**How should you reference sources in the Individual Report?**
+Keep a running reference list from the first source you read, and use one clear referencing system consistently. No single style is required.
+
+**Do you need content knowledge for the 0457 Individual Report?**
+Content knowledge is not what earns marks. Practising the transferable skills, such as evaluating sources and explaining why perspectives differ, is the most useful revision.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for exams in 2025, 2026 and 2027 —

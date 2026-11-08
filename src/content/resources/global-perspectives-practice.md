@@ -114,3 +114,17 @@ Using Source C, explain the difference between a **personal**, a **local and/or 
 - Confusing a consequence with a cause.
 - Proposing a course of action without evaluating it.
 - Writing a conclusion that summarises rather than judges.
+
+## Frequently asked questions
+
+**What is the format of the IGCSE Global Perspectives 0457 Written Exam?**
+The real paper lasts 1 hour 25 minutes, is worth 70 marks and sets four compulsory questions, worth 18, 16, 16 and 20 marks, based on a source insert. The practice questions on this page are organised by skill rather than as a full-paper simulation.
+
+**Should you use your own knowledge in 0457 source-based questions?**
+No. The syllabus states that candidates are not assessed on prior knowledge of the topic, so answer source-based questions only from the source material given.
+
+**How do you evaluate a source's reliability well?**
+Identify the specific interest or reason a source might be biased rather than just saying "it might be biased". Explain what further information would help you judge it.
+
+**What are common mistakes on 0457 Written Exam questions?**
+Frequent errors include confusing a consequence with a cause, proposing a course of action without evaluating it, and writing a conclusion that summarises rather than judges.

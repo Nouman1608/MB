@@ -180,3 +180,17 @@ each source's selection explicitly justified rather than just cited,
 and does the conclusion offer a personal, reasoned judgement rather
 than a summary — since these three checks map directly onto where AO1
 and AO2 marks are most often lost.
+
+## Frequently asked questions
+
+**What do these 9239 essay practice questions test?**
+They test the decisions behind the Component 2 Essay: framing a title, choosing and justifying sources, developing contrasting perspectives, writing a conclusion and the limits of teacher support.
+
+**What are the three checks to make while drafting a Global Perspectives essay?**
+Check that the perspectives come from genuinely different standpoints, that each source's selection is explicitly justified, and that the conclusion gives a personal, reasoned judgement rather than a summary.
+
+**Why does the choice of essay question matter so much?**
+A question that only supports one side, or that disguises a local issue as a global one, makes every later stage harder however strong the research is. It deserves real time before research begins.
+
+**Where are AO1 and AO2 marks most often lost in the 9239 essay?**
+They are most often lost through perspectives that restate the same view, sources cited without justification, and conclusions that summarise instead of giving the candidate's own judgement.

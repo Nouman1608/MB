@@ -172,6 +172,23 @@ The syllabus requires an introduction, main body and conclusion. One way to orga
 
 For how these skills first appear at AS, compare the [essay revision notes](/resources/a-level-global-perspectives-essay-revision-notes/), the [team project revision notes](/resources/a-level-cambridge-global-perspectives-team-project-revision-notes/) and the [written exam revision notes](/resources/a-level-cambridge-global-perspectives-written-exam-revision-notes/).
 
+## Frequently asked questions
+
+**How many marks is the 9239 Cambridge Research Report worth?**
+The research report is worth 75 marks and the research log 10 marks, making 85 marks in total. The report has a maximum of 5000 words, and work beyond that is not marked.
+
+**Is the research proposal externally marked?**
+No. The proposal is reviewed by your teacher and submitted, but it is not externally marked. It should outline the research question, key concepts, the debate and examples of sources.
+
+**What are the assessment objective weightings for Component 4?**
+AO1 is weighted at 65%, AO2 at 20% and AO3 at 15%. The work is assessed against eleven criteria, from using a research log to structuring and referencing the report.
+
+**What is submitted for each Research Report candidate?**
+Three items are submitted: the Cambridge Research Report, the research log and the research proposal form.
+
+**What is the difference between a summary and a judgement in the report?**
+A summary repeats both sides of an argument. A judgement weighs the perspectives using evidence and reasoning and says which is stronger, which the conclusion must do.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Global Perspectives & Research (9239) syllabus for examination in 2026, 2027 and 2028, Version 3 (published December 2025). Component 4 – Cambridge Research Report is set out in section 4, Details of the assessment.

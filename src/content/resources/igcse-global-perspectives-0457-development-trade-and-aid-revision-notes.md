@@ -173,6 +173,20 @@ For each action, ask: does it tackle a cause or a symptom; who must agree; what 
 
 Revise the exam format with the [Written Exam guide](/resources/igcse-cambridge-global-perspectives-written-exam/), plan coursework with the [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/) and [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/).
 
+## Frequently asked questions
+
+**What is tied aid?**
+Tied aid is aid that must be spent on goods or services from the donor country. Whether aid should be tied to conditions is an issue that divides opinion.
+
+**What is the difference between income and profit in trade sources?**
+Higher sales or income may not mean higher earnings once costs are paid. Ask about costs before accepting a claimed rise in income.
+
+**Is "aid or trade" the only choice in 0457 answers?**
+No. Many sources show aid and trade working together, so treating them as the only two options is a common mistake. Consider other actions too.
+
+**Why is "What is fair trade?" a weak Individual Report question?**
+It is descriptive and does not divide opinion. A better question would be whether fair trade certification improves the lives of producers.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025).

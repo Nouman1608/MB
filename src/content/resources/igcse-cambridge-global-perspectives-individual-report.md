@@ -105,6 +105,23 @@ useful for seeing what a strong analysis or a well-evaluated source
 looks like in practice, even when the subject matter itself is
 irrelevant to a candidate's own report.
 
+## Frequently asked questions
+
+**How many marks is the IGCSE Global Perspectives 0457 Individual Report worth?**
+The Individual Report is worth 60 marks, or 30% of the qualification. It is internally set and externally marked by Cambridge International.
+
+**Who chooses the Individual Report research question?**
+Candidates devise their own research question and title. The teacher's role is limited to guiding its feasibility, not setting it.
+
+**How is the 0457 Individual Report marked?**
+Cambridge's specimen mark scheme uses eight level-based tables: the global issue, causes and consequences, perspectives, courses of action, and evaluation of evidence and sources (AO1, 40 marks); reflection (AO2, 5 marks); and structure and clarity, and referencing (AO3, 15 marks).
+
+**What makes a good Individual Report research question?**
+A good question names a specific place and issue and leaves room for more than one perspective. A broad topic title such as "Climate change" does not give enough structure for 1500-2000 words.
+
+**Are exemplar reports on other topics useful for 0457?**
+Yes. The same five skills apply whatever topic is chosen, so exemplar reports on unrelated topics still show what strong analysis and well-evaluated sources look like.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for exams in 2025,

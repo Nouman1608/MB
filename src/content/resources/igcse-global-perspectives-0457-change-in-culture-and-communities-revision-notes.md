@@ -152,6 +152,23 @@ Keep every point tied to a source. In Component 1 you are not credited for outsi
 
 For more on each component, see the [Written Exam guide](/resources/igcse-cambridge-global-perspectives-written-exam/), [Written Exam revision notes](/resources/global-perspectives-revision-notes/), [Individual Report guide](/resources/igcse-cambridge-global-perspectives-individual-report/) and [Team Project revision notes](/resources/igcse-global-perspectives-team-project-revision-notes/).
 
+## Frequently asked questions
+
+**What eight terms does the 0457 syllabus highlight for Component 1?**
+The syllabus says candidates benefit from understanding bias, claim, fact, generalisation, opinion, prediction, value and vested interest. Learn each with an example.
+
+**Which assessment objectives are tested in the 0457 Written Exam?**
+Component 1 is 100% AO1, research, analysis and evaluation. AO2 Reflection and AO3 Communication and collaboration are not assessed in it.
+
+**What is the difference between a prediction and evidence?**
+"The dialect will vanish" is a prediction about the future. Falling numbers of speakers is evidence of what has already happened.
+
+**What issues come under Change in culture and communities?**
+Global issues include the decline of smaller languages and global media making cultures more alike. Local issues include a market or meeting place closing, young people leaving and rising rents changing who lives in an area.
+
+**How should you link causes and consequences in 0457?**
+Build chains rather than lists, for example rising rents leading to families moving away, then fewer pupils at the local school. Each link should follow from the one before.
+
 ## Official syllabus
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for examination in 2025, 2026 and 2027, Version 2 (published April 2025). Your teacher will confirm which topics your class is using.

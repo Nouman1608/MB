@@ -167,6 +167,23 @@ only after the presentation is finished, since genuine reflection on
 write honestly -- once the whole process, including its difficulties,
 has actually happened.
 
+## Frequently asked questions
+
+**How big are Team Project teams in Cambridge Global Perspectives 9239?**
+Teams have two to five members, and the syllabus notes that teams of three or four often work well together. Teachers take an active role in forming the teams.
+
+**What is a local problem with global relevance?**
+It is a problem the team can research in a real local place, group or situation that also connects to a wider global issue. The statement must be broad enough for each member to argue a distinct, contrasting perspective on it.
+
+**What is the presentation in the 9239 Team Project marked on?**
+The 30-mark presentation is assessed against AO1 (research, analysis and evaluation) and AO3 (communication). It should be engaging to a non-specialist audience and cite references clearly.
+
+**When should you write the Team Project reflective paper?**
+Draft it after the presentation is finished. Genuine reflection on how the team worked and what could be improved is easier and more convincing once the whole process has happened.
+
+**Is the Team Project part of the AS or the full A Level?**
+It is one of the three compulsory AS components of 9239, with the Written Exam and the Essay. The full A Level adds Component 4, the Cambridge Research Report.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Global Perspectives & Research
