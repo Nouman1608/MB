@@ -33,8 +33,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -107,3 +109,17 @@ Answer **one** question from this section.
 - Evaluating a method in the abstract instead of for **this** research topic.
 - Giving only one side of an essay question rather than weighing both traditions or both problems against each other.
 - Confusing ascribed with achieved status.
+
+## Frequently asked questions
+
+**How is Cambridge 9699 Paper 1 structured?**
+Paper 1 has Section A, with three compulsory questions, and Section B, where you choose one essay from two worth 26 marks. Questions use the command words Describe, Evaluate, Explain and Give.
+
+**What is the difference between primary and secondary socialisation?**
+Primary socialisation happens in early childhood, mainly through the family, and teaches language and basic norms. Secondary socialisation happens later through agencies such as school, peer groups and the media.
+
+**What is triangulation in sociological research?**
+Triangulation combines two or more research methods so that the strengths of one offset the weaknesses of another, increasing confidence in the findings.
+
+**What is the difference between structuralist and social action perspectives?**
+Structuralist perspectives, such as functionalism, Marxism and feminism, see individual behaviour as shaped by the structure of society. The social action perspective, such as interactionism, sees society as built up from individuals' own meanings and interactions.

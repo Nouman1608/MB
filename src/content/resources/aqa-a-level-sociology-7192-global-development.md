@@ -21,8 +21,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers Global Development, section 4.2.6 of the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021); the specification at a glance also lists it as 3.2.6. It is assessed in A-level Paper 2: Topics in Sociology, a 2 hour written exam worth 80 marks and 33.3% of the A-level. Global Development is an A-level option only: it is not one of the four topics listed for AS Paper 2.
@@ -145,6 +147,23 @@ The specification also requires you to understand "conflict and consensus": mode
 ## Links onward
 
 Globalisation also appears in [crime and deviance](/resources/a-level-aqa-sociology-crime-and-deviance/) (green and state crime) and in [the role of education](/resources/a-level-aqa-sociology-role-of-education-and-differential-achievement/). The transnational capitalist class returns in [stratification and differentiation](/resources/aqa-a-level-sociology-7192-stratification-and-differentiation/). For course layout, see [course structure](/resources/a-level-sociology-course-structure/).
+
+## Frequently asked questions
+
+**What are Rostow's five stages of economic growth?**
+Rostow (1960) set out traditional society, preconditions for take-off, take-off, drive to maturity, and the age of high mass consumption. Critics call the model ethnocentric and say it ignores colonial history.
+
+**What is the Washington Consensus?**
+It is the policy form of neoliberalism, including free trade and privatisation, based on the view that poor countries stay poor because of state interference, corruption and protectionism.
+
+**What is tied aid?**
+Tied aid must be spent on goods or services from the donor country. Modernisation theorists support aid as a way to fund take-off,, while Hayter (*Aid as Imperialism*, 1971) argued that aid serves donor interests.
+
+**What is sustainable development?**
+The Brundtland Report, *Our Common Future* (1987), defined it as "development that meets the needs of the present without compromising the ability of future generations to meet their own needs".
+
+**What is glocalisation?**
+Glocalisation is the adaptation of global products and ideas to local tastes. Critics of cultural imperialism use it to argue that local cultures are not simply displaced by Western culture.
 
 ## Official syllabus
 

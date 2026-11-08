@@ -17,8 +17,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-08-26
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -118,3 +120,17 @@ into single points, which is what separates a middle-band answer from a top-band
 
 For condensed recall notes on the method-and-context framework itself, see the
 [Methods in Context revision notes](/resources/a-level-sociology-methods-in-context-revision-notes/).
+
+## Frequently asked questions
+
+**What separates a top-band methods in context answer from a middle-band one?**
+Top-band answers combine a specific feature of the named method with a specific feature of the education context in a single point. Listing method-only and context-only points side by side keeps an answer in the middle band.
+
+**How should you use the item in a methods in context question?**
+Use its details directly: each strong point should draw on something the item says, such as teachers' limited time or pupils being minors. Answers that ignore the item lose application marks.
+
+**How many points does a methods in context answer need?**
+The published AQA mark scheme sets no target number of points and does not require every point for the top band. Several combined points developed in depth, with an overall judgement, work better than many shallow ones.
+
+**Why does the power imbalance matter when researching pupils?**
+Pupils may see an adult researcher as an authority figure like a teacher and give the answers they think are wanted. This education-specific issue affects validity and is worth explaining fully in AQA 7192 answers.

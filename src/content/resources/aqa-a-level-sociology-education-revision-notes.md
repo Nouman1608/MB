@@ -13,13 +13,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-education-theory-methods-7192"
     subtopic: "education-7192"
-description: "Condensed recall notes on functionalist and Marxist views of education, and class, gender and ethnicity explanations for differential achievement, for AQA A-Level Sociology (7192)."
+description: "AQA A Level Sociology (7192) education notes: functionalist and Marxist views, class, gender and ethnicity in achievement, key terms and a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -129,3 +131,17 @@ than evaluation placed at the end.
 5. What is a self-fulfilling prophecy in the labelling explanation?
 
 **Answers:** 1. The correspondence principle (Bowles and Gintis). 2. Material: cost of educational resources; cultural: Bourdieu's cultural capital or restricted/elaborated speech codes. 3. A named theorist or concept (e.g. correspondence principle, cultural capital, labelling), not just a general description. 4. Class, gender, ethnicity. 5. A student internalises a teacher's label (e.g. "able" or "disruptive") and their behaviour changes to match it, reinforcing the original label.
+
+## Frequently asked questions
+
+**What is the correspondence principle?**
+The correspondence principle, from Bowles and Gintis, is the Marxist idea that school's hierarchy, discipline and extrinsic rewards mirror the capitalist workplace, producing a compliant workforce.
+
+**How do functionalists and Marxists differ on role allocation?**
+Functionalists see education allocating people to suitable jobs on merit. Marxists argue it reproduces class inequality instead, so learn both views of the same function in order to compare them directly.
+
+**Why do boys underachieve compared with girls?**
+Explanations include the decline of traditionally male manual jobs, laddish subcultures that see academic effort as conflicting with masculinity, and a lack of male role models in primary teaching. Girls have out-performed boys on the headline measure in every year since the late 1980s.
+
+**What is a self-fulfilling prophecy in education?**
+A self-fulfilling prophecy happens when a student internalises a teacher's label, such as "able" or "disruptive", and their behaviour changes to match it, reinforcing the original label.

@@ -25,8 +25,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers sections 6.1 (Intelligence and educational attainment) and 6.2 (Social class and educational attainment) of the Cambridge International AS & A Level Sociology (9699) syllabus for examination in 2024, 2025 and 2026. Both sections sit in topic 6, Education and inequality, which is part of Paper 3 – Education, an A Level paper. The syllabus links topic 6 to the key concepts of Inequality and opportunity, and Socialisation, culture and identity.
@@ -186,6 +188,23 @@ The syllabus names parental attitudes, values, speech codes and cultural capital
 ## Where to go next
 
 For the socialisation and research methods behind these studies, see [socialisation, identity and methods](/resources/a-level-cambridge-sociology-socialisation-identity-methods/). For early socialisation in the home, see [The Family (9699)](/resources/a-level-cambridge-sociology-the-family/).
+
+## Frequently asked questions
+
+**What is reification in the IQ debate?**
+Reification means treating an abstract idea as if it were a real object. Gould (1981) used it to criticise Spearman's g, arguing that a statistical factor was being treated as a real thing inside people's heads.
+
+**Are IQ tests culturally biased?**
+Critics argue that test items can assume knowledge more common in some groups, as early eleven-plus papers did with questions about household servants and classical composers. Designers have tried non-verbal and "culture-fair" items, but even these reward skills practised at home and in school.
+
+**What is educational triage?**
+Educational triage is Gillborn and Youdell's term, from *Rationing Education* (2000), for schools directing resources to pupils near a pass while others are written off. It shows how in-school processes can widen class differences in attainment.
+
+**Does compensatory education work?**
+The evidence is mixed. Early IQ gains from Head Start often fade, but Perry Preschool found later-life benefits such as higher high-school graduation, and critics argue many programmes assume a cultural deficit and are too small to offset wider inequality.
+
+**Which Cambridge 9699 paper assesses intelligence and social class?**
+Sections 6.1 and 6.2 sit in topic 6, Education and inequality, and are assessed on Paper 3, Education, an A Level paper of the Cambridge International AS & A Level Sociology (9699) syllabus.
 
 ## Official syllabus
 

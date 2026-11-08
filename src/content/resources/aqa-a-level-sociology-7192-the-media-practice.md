@@ -21,8 +21,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -150,6 +152,20 @@ Applying material from Item B and your knowledge, evaluate the view that the glo
 ## Next steps
 
 Check your weaker areas with our free [diagnostics](/diagnostics/). Go back to the [study guide](/resources/aqa-a-level-sociology-7192-the-media/) for any topic you lost marks on. For media and crime, see the [crime and deviance practice questions](/resources/a-level-aqa-sociology-crime-and-deviance-practice/). For method evaluation, try the [methods in context practice questions](/resources/a-level-sociology-methods-in-context-practice/). If you would like a teacher to go through your answers, [book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Is The media in Section B of AQA A-level Sociology Paper 2?**
+Yes. The Media (4.2.7) is an option 2 topic, answered in Section B of AQA A-level Sociology (7192) Paper 2: Topics in Sociology.
+
+**How do you define agenda setting for full marks?**
+Include the "how" as well as the "what": agenda setting shapes which issues the public thinks about through the selection and emphasis of stories.
+
+**Is the hypodermic syringe model still accepted?**
+Not as current thinking. It sees audiences as passive receivers of injected messages, and reception studies show that people interpret media differently, so present it as an early model and evaluate it.
+
+**What should you write when a question asks about representations of social groups?**
+Cover more than one group. The AQA 7192 specification names six groups for media representations, so an answer about gender alone is too narrow.
 
 ## Official syllabus
 

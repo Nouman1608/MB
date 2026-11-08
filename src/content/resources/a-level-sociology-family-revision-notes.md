@@ -25,13 +25,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-the-family-9699"
     subtopic: "age-and-family-life-9699"
-description: "Condensed revision notes on perspectives on the family, diversity and social change, and gender and age within family life for Cambridge AS & A Level Sociology Paper 2 (9699)."
+description: "Cambridge 9699 Paper 2 family revision notes: functionalist, Marxist and feminist views, family diversity, conjugal roles, childhood and a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Related: [Paper 2 study guide](/resources/a-level-cambridge-sociology-the-family/)
@@ -136,3 +138,17 @@ diversity (3.2) wants named forms and causes of changing patterns, not a restate
 Marxist theory from 3.1, even though both sub-topics concern "the family" broadly. Keeping this
 boundary clear under exam pressure, rather than answering with whatever family-related content comes to
 mind first, is a reliable way to avoid losing marks to an off-target answer.
+
+## Frequently asked questions
+
+**What does "loss of functions" mean in the sociology of the family?**
+It is the functionalist debate over whether institutions such as schools and the welfare state have taken over roles the family used to perform alone.
+
+**What is emotion work in family life?**
+Emotion work is the often-unequal effort of managing a family's emotional life, alongside housework, childcare and decision-making. It is part of the conjugal roles content in section 4.1 of the Cambridge 9699 syllabus.
+
+**How do the New Right and postmodernists view family diversity?**
+The New Right treats growing family diversity as a social problem. Postmodernists treat it as evidence of greater individual choice.
+
+**What does it mean to say childhood is socially constructed?**
+It means childhood is not a fixed biological fact: what counts as childhood, and how children are treated, varies over time and between societies.

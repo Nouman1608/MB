@@ -21,8 +21,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers the Stratification and Differentiation topic of the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). The topic is numbered 4.2.8 in the A-level subject content (the specification at a glance also lists it as 3.2.8). It is assessed in Paper 2: Topics in Sociology, where Section B asks you to answer on "one from option 2: 4.2.5, 4.2.6, 4.2.7 or 4.2.8".
@@ -160,6 +162,23 @@ Sociologists usually measure class by **occupation**, which is linked to life ch
 - Ignoring disability, which the specification names under life chances.
 
 For class differences in crime, see the [Crime and Deviance study guide](/resources/a-level-aqa-sociology-crime-and-deviance/). For designing a study of mobility or life chances, see the [Methods in Context guide](/resources/a-level-sociology-methods-in-context/). Next, read the [revision notes](/resources/aqa-a-level-sociology-7192-stratification-and-differentiation-revision-notes/) and the [practice questions](/resources/aqa-a-level-sociology-7192-stratification-and-differentiation-practice/).
+
+## Frequently asked questions
+
+**What are life chances?**
+Life chances is Weber's term for the opportunities a person has to gain things valued in a society, such as good health, education, housing, income and long life.
+
+**What did Davis and Moore argue about stratification?**
+Davis and Moore (1945) argued that stratification is functional: some positions matter more to society and need scarce talent and long training, so higher rewards motivate the most able people to fill them.
+
+**What is the difference between intergenerational and intragenerational mobility?**
+Intergenerational mobility compares people with their parents. Intragenerational mobility tracks a person's movement over their own career.
+
+**What did the Great British Class Survey measure?**
+Mike Savage and colleagues' Great British Class Survey (2013) measured economic, cultural and social capital, rather than relying on occupation alone.
+
+**What is the transnational capitalist class?**
+Leslie Sklair argued that a capitalist class now works across national borders, which is one way globalisation is changing structures of inequality in AQA 7192.
 
 ## Official syllabus
 

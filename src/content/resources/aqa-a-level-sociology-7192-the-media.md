@@ -21,8 +21,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers The Media for AQA A-level Sociology (7192), using the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). The content is printed in section 4.2.7 The Media, which the specification's at-a-glance list shows as 3.2.7. It is an A-level option only, and it is assessed in Paper 2: Topics in Sociology, a 2 hour written exam worth 80 marks and 33.3% of the A-level.
@@ -162,6 +164,23 @@ The specification names six groups: age, social class, ethnicity, gender, sexual
 - Evaluating only by juxtaposition. Say why one view is stronger, then judge.
 
 Next, use the [revision notes](/resources/aqa-a-level-sociology-7192-the-media-revision-notes/), test yourself with the [practice questions](/resources/aqa-a-level-sociology-7192-the-media-practice/), and check how Paper 2 fits the course in the [AQA A-level Sociology course structure](/resources/a-level-sociology-course-structure/).
+
+## Frequently asked questions
+
+**What is the digital divide?**
+The digital divide is unequal access to, and skill with, new media by class, age and place. It means the participation that optimists celebrate is not evenly shared.
+
+**What is symbolic annihilation?**
+Symbolic annihilation is Tuchman's (1978) term for a group being absent, trivialised or condemned in the media, first applied to images of women.
+
+**What is the hierarchy of credibility?**
+The hierarchy of credibility, from Becker (1967), is the tendency to give more weight to the views of powerful people in the news.
+
+**What is the two-step flow model?**
+Katz and Lazarsfeld's *Personal Influence* (1955) argued that media messages pass through opinion leaders, who interpret them for others, rather than reaching audiences directly.
+
+**What is the difference between horizontal and vertical integration?**
+Horizontal integration means owning several firms in the same media sector. Vertical integration means owning each stage, from production to distribution.
 
 ## Official syllabus
 

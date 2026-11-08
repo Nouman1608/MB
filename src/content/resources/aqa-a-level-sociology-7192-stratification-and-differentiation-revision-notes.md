@@ -21,8 +21,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These notes condense the [Stratification and differentiation study guide](/resources/aqa-a-level-sociology-7192-stratification-and-differentiation/). Read the guide first for full explanations and worked paragraphs.
@@ -158,6 +160,20 @@ The specification asks you to draw out links between topics. Do not reteach othe
 - Global inequality between societies: [Global Development](/resources/aqa-a-level-sociology-7192-global-development/).
 
 For class patterns in education and crime, see the [education revision notes](/resources/aqa-a-level-sociology-education-revision-notes/) and the [Crime and Deviance revision notes](/resources/a-level-aqa-sociology-crime-and-deviance-revision-notes/).
+
+## Frequently asked questions
+
+**What is the difference between class and status?**
+Class is economic position and status is social honour. A lottery winner, for example, may gain class position without gaining status.
+
+**What are Weber's three dimensions of inequality?**
+Weber's three dimensions are class, status and party. Writing that Weber "had three classes" is a common mistake.
+
+**What does NS-SEC measure?**
+NS-SEC groups occupations by employment relations and conditions. It is a class scale, not an income measure.
+
+**Is disability part of AQA Stratification and differentiation?**
+Yes. The AQA 7192 specification names disability under life chances, so it should be included alongside class, gender, ethnicity and age.
 
 ## Official syllabus
 

@@ -21,8 +21,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -164,6 +166,20 @@ Applying material from the data, analyse two sociological explanations of gender
 - For research design questions about mobility or life chances, use the [Methods in Context practice](/resources/a-level-sociology-methods-in-context-practice/).
 - For class links in Paper 1, try the [education practice questions](/resources/a-level-aqa-sociology-education-practice/).
 - Want help with essay technique? [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Is Stratification and differentiation in Section B of AQA Paper 2?**
+Yes. Stratification and Differentiation (4.2.8) is an option 2 topic, answered in Section B of AQA A-level Sociology (7192) Paper 2: Topics in Sociology.
+
+**What is the difference between absolute and relative mobility?**
+Absolute mobility is the total amount of movement between classes, while relative mobility compares the chances of people from different class origins. More movement overall does not by itself prove a meritocracy.
+
+**How should you compare Marx and Weber in an essay?**
+Say directly where they disagree, for example on two classes based on ownership versus many classes based on market situation, rather than describing one and then the other.
+
+**How do you apply data in a stratification question?**
+Quote the figures or names from the data or scenario and use them to support each point, rather than writing a general answer about class.
 
 ## Official syllabus
 

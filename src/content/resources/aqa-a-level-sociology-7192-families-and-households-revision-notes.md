@@ -21,8 +21,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and worked paragraphs, use the [Families and Households study guide](/resources/aqa-a-level-sociology-7192-families-and-households/) first.
@@ -165,6 +167,20 @@ ONS figures worth knowing: 80,057 divorces in England and Wales in 2022, the low
 - Leaving out migration and globalisation from demography answers, even though the specification names them.
 - Giving one side on contested debates about welfare, family policy or migration.
 - Ending with a summary rather than a judgement that weighs the evidence.
+
+## Frequently asked questions
+
+**What is the difference between a household and a family?**
+A household is people living at one address. A family is people related by kinship, marriage or adoption.
+
+**What is a beanpole family?**
+A beanpole family has many generations but few relatives in each, a pattern described by Brannen.
+
+**What is the difference between the birth rate and the total fertility rate?**
+The birth rate is live births per 1,000 of the population per year, so it depends on the age structure. The total fertility rate measures women's fertility directly as the average number of children a woman would have.
+
+**Why do divorce statistics understate relationship breakdown?**
+Separations are not recorded in divorce statistics, so couples who split without divorcing, and cohabiting couples, are missed.
 
 ## Official syllabus
 

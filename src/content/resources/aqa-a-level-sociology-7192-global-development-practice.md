@@ -21,8 +21,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -152,6 +154,20 @@ Outline dependency theory as a Marxist, conflict account [1]. Frank (1966): metr
 - Link globalisation to [crime and deviance practice questions](/resources/a-level-aqa-sociology-crime-and-deviance-practice/) on green and state crime.
 - Find your weaker topics with our [free diagnostics](/diagnostics/).
 - Want help with essay technique? [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Is Global development in Section A or Section B of AQA Paper 2?**
+Global Development (4.2.6) is an option 2 topic, answered in Section B of AQA A-level Sociology (7192) Paper 2: Topics in Sociology.
+
+**What should you do when a question says "using the data"?**
+Quote figures from the table and use them to support your point. A general answer about development that never uses the data cannot earn the application marks.
+
+**How do you evaluate Rostow or Frank in an extended answer?**
+Do not just describe the theory: set it against a rival and against evidence, for example the East Asian growth that dependency theory struggles to explain.
+
+**Why link Global development answers to gender?**
+Point 5 of section 4.2.6 names employment, education, health, demographic change and gender as aspects of development, and gender connects to the core theme of stratification, so leaving it out narrows an answer.
 
 ## Official syllabus
 
