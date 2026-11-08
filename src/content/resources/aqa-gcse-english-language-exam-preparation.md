@@ -12,10 +12,12 @@ order: 3
 description: "How AQA GCSE English Language 8700's two papers each split evenly between Reading and Writing marks, and a worked timing-allocation routine."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added (facts from the current specification); please re-review."
 ---
 
 AQA GCSE English Language (8700) is a linear, non-tiered qualification of two equally weighted written
@@ -102,6 +104,18 @@ paper separately, since the specific text types differ.
   around 50 minutes, and plan before drafting the Writing answer.
 - **At the end**: leave time to check spelling, punctuation and that the Writing response answers the
   task actually set.
+
+## Frequently asked questions
+
+**How should I divide my time on each 8700 paper?**
+Each paper is 1 hour 45 minutes for 80 marks, half reading and half writing, so plan to leave about 45 minutes for the writing section.
+
+**Which reading question carries most marks?**
+On Paper 1, Question 4 (evaluation, 20 marks); on Paper 2, Question 4 (comparing perspectives, 16 marks).
+
+**How much is technical accuracy worth?**
+16 of the 40 writing marks on each paper.
+
 
 ## Self-test
 

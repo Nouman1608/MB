@@ -25,7 +25,7 @@ description: "How to plan, deliver and respond to a formal presentation and use 
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the current grading labels, the required length and format of the presentation, the recording and moderation arrangements, and exactly how the endorsement appears on results against AQA's current guidance."
+reviewNote: "Check the current grading labels, the required length and format of the presentation, the recording and moderation arrangements, and exactly how the endorsement appears on results against AQA's current guidance. 2026-11-08 recheck: FAQ added."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -106,6 +106,18 @@ Add up the timings: 30 + 50 + 50 + 40 + 10 = 180 seconds, which is 3 minutes. Pr
 - Think about the tone: serious topics call for a calm, steady voice; humour should be used with care.
 - In the questions, listen, pause, answer, then add an example.
 - Use the criteria language when you reflect: ask whether you presented ideas clearly, responded to the audience and used spoken Standard English.
+
+## Frequently asked questions
+
+**Does the spoken language endorsement count towards the 8700 grade?**
+No. It carries 0% weighting and is reported separately as Pass, Merit, Distinction or Not Classified.
+
+**How long should the presentation be?**
+As a guide, no more than ten minutes, including responding to questions and feedback.
+
+**Do I have to use Standard English?**
+Yes. Spoken Standard English is one of the three assessed areas, with presenting and responding to questions.
+
 
 ## Check your understanding
 
