@@ -17,6 +17,8 @@ description: "Recall notes on industry types, locations of the ten listed indust
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
 ---
 
 **These notes condense Section 5 Industrial development of Cambridge IGCSE Pakistan Studies 0448
@@ -117,6 +119,10 @@ Locating the mill near the fields reduces transport costs and keeps the sugar yi
 - **Mixing up GNP and GDP.** GNP includes income earned abroad (such as remittances); GDP is output within Pakistan.
 - **Generic tourism answers.** Name a natural and a cultural attraction and say why each draws visitors.
 - **Forgetting the market.** State whether products go to domestic or export markets when asked.
+
+## How is this section examined?
+
+This content is examined on Cambridge Paper 2, The environment of Pakistan (1 hour 30 minutes, 75 marks, 50% of the qualification). You answer three questions from a choice of five; each is worth 25 marks and has four parts, (a) to (d), built around resources such as maps, graphs, tables and photographs. Part (d) specifically tests analysis and evaluation, so finish every revision topic by practising a judgement: for example, how sustainable a resource or a policy is, with evidence for and against.
 
 ## Frequently asked questions
 

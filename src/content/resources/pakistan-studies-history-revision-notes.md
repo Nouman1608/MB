@@ -21,10 +21,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-history-culture-0448"
     subtopic: "nationhood-1947-99-0448"
-description: "Condensed recall notes on the reform movements, Sir Syed, the Pakistan Movement and independence for Cambridge IGCSE Pakistan Studies 0448."
+description: "Revision notes for Cambridge IGCSE Pakistan Studies 0448 Paper 1: reform movements, 1857, Sir Syed, the Pakistan Movement, independence and early nationhood."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: corrected Junagadh (Indian occupation 1947) and Hyderabad (Operation Polo, Sept 1948), which were not resolved without force; please re-review. 2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -89,7 +91,7 @@ Four problems dominate this part of Section 1.3:
 - **The refugee crisis** — several million people crossed the border amid appalling violence, needing food, shelter and employment. A Ministry of Refugees and Rehabilitation set up camps and allocated evacuee property, though resources were wholly inadequate to the scale of the crisis.
 - **Division of assets** — Pakistan was allocated 17.5% of undivided India's financial assets but initially received only a fraction; India withheld Rs. 550 million, released following a Government of India decision in January 1948 — Gandhi's fast is the factor most commonly credited with prompting that decision, though historians debate how much weight it deserves.
 - **Absence of administrative machinery** — Pakistan had no capital infrastructure, few trained civil servants and almost no industry, since most industrial areas remained in India. Karachi became the capital while a new administration was improvised from scratch (it served as capital until 1959; describing it as "temporary" from the outset reads the later move backwards onto 1947).
-- **Princely states and Kashmir** — the accession disputes over Junagadh and Hyderabad were resolved without war; the disputed accession of Kashmir alone led to the first war with India in 1947–48. A UN-brokered ceasefire in January 1949 left the state divided and the dispute unresolved.
+- **Princely states and Kashmir** — Junagadh, whose Muslim Nawab acceded to Pakistan, was occupied by Indian forces in November 1947 (a plebiscite followed in February 1948); Hyderabad, whose Nizam sought independence, was annexed after Indian military action (Operation Polo) in September 1948; Kashmir's disputed accession led to the first war between India and Pakistan in 1947–48. A UN-brokered ceasefire in January 1949 left the state divided and the dispute unresolved.
 
 ## Exam traps
 
@@ -115,3 +117,14 @@ Four problems dominate this part of Section 1.3:
 **Answers:** 1. Dhaka, **1906**, following the Simla Deputation. 2. Hindus and Muslims are two distinct nations with separate religions, cultures, laws and histories, and therefore require separate political arrangements. 3. It reconciled Muslims to modern English education without abandoning Islamic values, producing the educated leadership that later drove the Pakistan Movement. 4. Allama Iqbal proposed it (Allahabad Address, 1930); Chaudhry Rahmat Ali coined "Pakistan" (1933). 5. The experience of Congress provincial ministries 1937–39 and the failure of constitutional safeguards to protect Muslim interests. 6. It proposed joint electorates in place of separate electorates, with seats reserved for Muslims only at the centre and where they were a minority (none in the Muslim-majority provinces); Jinnah responded with his Fourteen Points, restating the case for separate electorates and safeguards. 7. Any two: the refugee crisis, the delayed division of financial assets, the lack of administrative machinery, or the disputed accession of Kashmir.
 
 For exam-style questions with full mark schemes on this topic, see the [History and Culture of Pakistan practice questions](/resources/pakistan-studies-history-practice/).
+
+## Frequently asked questions
+
+**How is Paper 1 structured?**
+Paper 1 (1 hour 30 minutes, 75 marks, 50%) has Section A, one compulsory source-based question of four parts (25 marks), and Section B, two questions from a choice of four, each with parts worth 4, 7 and 14 marks.
+
+**When was the Muslim League founded?**
+In December 1906 at Dhaka, shortly after the Simla Deputation to the Viceroy.
+
+**Were Junagadh and Hyderabad resolved peacefully?**
+No. Indian forces occupied Junagadh in November 1947, and Hyderabad was annexed after Indian military action (Operation Polo) in September 1948; Kashmir led to war in 1947–48.

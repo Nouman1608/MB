@@ -17,6 +17,8 @@ description: "Recall notes on pyramids, growth, migration, katchi abadis, densit
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
 ---
 
 **These notes condense Section 8 Population and employment of Cambridge IGCSE Pakistan Studies 0448
@@ -117,6 +119,10 @@ non-farm jobs exist in villages because there is little industry [1].
 - **Treating all migration as rural–urban.** Learn push and pull factors for each type.
 - **Forgetting adverse outcomes.** The syllabus asks you to evaluate solutions, including poor housing.
 - **Saying unemployment and underemployment are the same.** Underemployed people have some work.
+
+## How is this section examined?
+
+This content is examined on Cambridge Paper 2, The environment of Pakistan (1 hour 30 minutes, 75 marks, 50% of the qualification). You answer three questions from a choice of five; each is worth 25 marks and has four parts, (a) to (d), built around resources such as maps, graphs, tables and photographs. Part (d) specifically tests analysis and evaluation, so finish every revision topic by practising a judgement: for example, how sustainable a resource or a policy is, with evidence for and against.
 
 ## Frequently asked questions
 

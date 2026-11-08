@@ -17,6 +17,8 @@ description: "Condensed notes on crops, livestock, irrigation types, waterloggin
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
 ---
 
 **These notes summarise Section 4 Agricultural development of Cambridge IGCSE Pakistan Studies
@@ -107,6 +109,20 @@ diseases reduce the harvest [1].
 - **Explaining salinity without waterlogging.** Salinity follows from a high water table plus evaporation; show the sequence.
 - **Listing irrigation methods without assessing them.** The syllabus asks for advantages and disadvantages for both small farms and cash crops.
 - **One-sided government answers.** Evaluate who benefited and what problems remain.
+
+## How is this section examined?
+
+This content is examined on Cambridge Paper 2, The environment of Pakistan (1 hour 30 minutes, 75 marks, 50% of the qualification). You answer three questions from a choice of five; each is worth 25 marks and has four parts, (a) to (d), built around resources such as maps, graphs, tables and photographs. Part (d) specifically tests analysis and evaluation, so finish every revision topic by practising a judgement: for example, how sustainable a resource or a policy is, with evidence for and against.
+
+## Land reforms to name
+
+| Reform | Leader | Ceiling on ownership |
+|---|---|---|
+| 1959 | Ayub Khan | 500 acres irrigated or 1,000 acres unirrigated |
+| 1972 | Zulfikar Ali Bhutto | 150 acres irrigated or 300 acres unirrigated |
+| 1977 | Zulfikar Ali Bhutto | 100 acres irrigated or 200 acres unirrigated |
+
+Land above the ceiling was to be redistributed, but loopholes (transfers to relatives) limited the effect.
 
 ## Frequently asked questions
 

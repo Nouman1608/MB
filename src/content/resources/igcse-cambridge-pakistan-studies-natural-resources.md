@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Water, forests, mineral resources and fish -- Section 2 of Paper 2 The Environment of Pakistan, Cambridge IGCSE Pakistan Studies (0448), 2026 series."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; added a short exam-format/content section (page was under 900 words); please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
@@ -111,6 +113,21 @@ theme and connects water supply to Pakistan's relationship with its
 neighbours, a link examiners return to when testing the wider
 significance of a resource issue rather than just its technical
 detail.
+
+## How is this section examined?
+
+This content is examined on Cambridge Paper 2, The environment of Pakistan (1 hour 30 minutes, 75 marks, 50% of the qualification). You answer three questions from a choice of five; each is worth 25 marks and has four parts, (a) to (d), built around resources such as maps, graphs, tables and photographs. Part (d) specifically tests analysis and evaluation, so finish every revision topic by practising a judgement: for example, how sustainable a resource or a policy is, with evidence for and against.
+
+## Frequently asked questions
+
+**How is Paper 2 structured?**
+Paper 2 (1 hour 30 minutes, 75 marks, 50%) asks you to answer three questions from a choice of five, each worth 25 marks, in four parts (a) to (d) built around maps, graphs, photographs and other resources; part (d) tests analysis.
+
+**Which water features are named in the syllabus?**
+The Mangla, Tarbela and Warsak dams, barrages, and the Indus Waters Treaty, with its reasons and consequences.
+
+**What does a sustainability question ask?**
+How a resource is used and whether that use can continue without exhausting it or damaging the environment.
 
 ## Official syllabus
 

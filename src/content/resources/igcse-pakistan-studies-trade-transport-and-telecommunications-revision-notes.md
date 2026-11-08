@@ -20,6 +20,8 @@ description: "Recall notes on Pakistan's exports, imports, balance of trade, par
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review."
 ---
 
 **These notes condense Sections 6 (Trade) and 7 (Transport and telecommunications) of Cambridge
@@ -116,6 +118,10 @@ Karachi's ports [1] and lowers costs for industries far from the coast, encourag
 - **Naming a road without its pass.** The syllabus asks for the pass where relevant.
 - **Generic transport comparisons.** Refer to Pakistan: rail for bulky cotton or coal, air for remote Gilgit or Skardu, road for village produce.
 - **Ignoring evaluation.** For motorways, weigh faster travel against cost, tolls and land loss.
+
+## How is this section examined?
+
+This content is examined on Cambridge Paper 2, The environment of Pakistan (1 hour 30 minutes, 75 marks, 50% of the qualification). You answer three questions from a choice of five; each is worth 25 marks and has four parts, (a) to (d), built around resources such as maps, graphs, tables and photographs. Part (d) specifically tests analysis and evaluation, so finish every revision topic by practising a judgement: for example, how sustainable a resource or a policy is, with evidence for and against.
 
 ## Frequently asked questions
 

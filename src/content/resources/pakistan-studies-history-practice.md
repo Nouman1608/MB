@@ -21,10 +21,12 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-history-culture-0448"
     subtopic: "nationhood-1947-99-0448"
-description: "A full original practice paper for Cambridge IGCSE Pakistan Studies (0448) Paper 1: a source-based Section A question and four Section B questions in 4, 7 and 14-mark parts, with levels-based mark schemes."
+description: "A full original Cambridge IGCSE Pakistan Studies 0448 Paper 1 practice paper: a source-based Section A and four Section B questions, with levels mark schemes."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -383,3 +385,14 @@ Section B questions × 25 = **75**.
 
 With 90 minutes for 75 marks, allow a little over a minute a mark: roughly 30 minutes for Question 1 and
 30 minutes for each Section B question, of which about 16 to 18 minutes should go on the 14-mark essay.
+
+## Frequently asked questions
+
+**How is Paper 1 structured?**
+Paper 1 (1 hour 30 minutes, 75 marks, 50%) has Section A, one compulsory source-based question of four parts (25 marks), and Section B, two questions from a choice of four, each with parts worth 4, 7 and 14 marks.
+
+**How are the 7- and 14-mark parts marked?**
+By levels of response: the higher levels need explained reasons supported by accurate detail and, for 14 marks, a balanced argument with a judgement.
+
+**Are these real Cambridge questions?**
+No. They are original questions and sources written in the style of Paper 1; use them with the official past papers.
