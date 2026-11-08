@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Momentum, impulse and the conservation of momentum in one dimension, for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
@@ -179,6 +181,20 @@ for the same momentum change
 - Conservation of momentum in one dimension, for both collisions and
 explosions, with a consistent sign convention
 - F = Δp/Δt as an alternative statement of Newton's second law
+
+## Frequently asked questions
+
+**What is momentum in O Level Physics 5054?**
+Momentum is mass × velocity (p = mv), measured in kg m/s. It is a vector, so motion in opposite directions must be given opposite signs.
+
+**What is impulse?**
+Impulse is force × time for which the force acts, and it equals the change in momentum: FΔt = Δ(mv). It is measured in N s, which is numerically the same as kg m/s.
+
+**Why do airbags and crumple zones reduce injury?**
+They extend the time over which a momentum change happens. Because F = Δp / Δt, a longer time means a smaller force is needed to produce the same change in momentum.
+
+**When does conservation of momentum apply?**
+Conservation of momentum applies to a closed system with no significant external force during the event, such as a collision or explosion. It should not be applied where, for example, friction acts over a long time.
 
 ## Related resources
 

@@ -22,7 +22,9 @@ syllabusTopics:
 description: "Measuring length, volume and time with real apparatus, then mass, weight, gravitational field strength and density, for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
@@ -232,6 +234,20 @@ distances, and why it improves precision
 acceleration of free fall
 - Density, ρ = m/V, and how it's determined for a liquid, a regular solid
 and an irregular solid
+
+## Frequently asked questions
+
+**What is the difference between mass and weight in O Level Physics 5054?**
+Mass is the quantity of matter in an object and gives it inertia; it is measured with a balance. Weight is the force of gravity on that mass, measured in newtons with a force meter, and it changes from place to place while mass does not.
+
+**Why do you time 20 oscillations instead of one?**
+Timing one short oscillation is imprecise because reaction-time error is a large fraction of it. Timing many and dividing by the number of oscillations spreads the same error over a larger total, reducing its effect.
+
+**How do you find the volume of an irregular solid?**
+Lower it into a measuring cylinder partly filled with liquid and read the rise in level; the rise equals the solid's volume. This displacement method works for solids that sink.
+
+**What is gravitational field strength?**
+Gravitational field strength is force per unit mass, g = W / m, measured in N/kg. Near the Earth's surface it has the same numerical value as the acceleration of free fall, about 9.8.
 
 ## Related resources
 

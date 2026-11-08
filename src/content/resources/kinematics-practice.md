@@ -19,7 +19,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on speed, acceleration, motion graphs and the area under a speed-time graph."
 author: "iftikhar-azeemi"
 reviewer: "hassan"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -111,3 +113,17 @@ Related: [Kinematics and Motion Graphs revision notes](/resources/kinematics-rev
 - Splitting a speed–time graph into the wrong shapes, or forgetting to add the areas of each stage together.
 - Confusing distance–time graph shapes with speed–time graph shapes — the same-looking line means something different on each.
 - Thinking deceleration needs a different formula — it's the same a = (v − u) ÷ t, simply giving a negative answer.
+
+## Frequently asked questions
+
+**What are common mistakes in kinematics questions?**
+Frequent slips include using the area under a distance-time graph, splitting a speed-time graph into the wrong shapes or forgetting to add the areas, and confusing distance-time and speed-time graph shapes.
+
+**How do you find distance from a speed-time graph with several stages?**
+Split the area under the graph into simple shapes, such as triangles and rectangles, find the area of each and add them together.
+
+**Why does the sign of g matter for an object thrown upwards?**
+When upwards is taken as positive, the acceleration due to gravity is −9.8 m/s². Forgetting the negative sign for g when motion is upwards gives wrong answers.
+
+**Which syllabus do these kinematics questions follow?**
+They are written for Cambridge O Level Physics 5054, subtopic 1.2 Motion, with full worked answers showing where the marks go.
