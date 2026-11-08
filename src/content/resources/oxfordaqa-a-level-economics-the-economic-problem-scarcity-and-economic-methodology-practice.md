@@ -128,7 +128,7 @@ These questions cover section 3.1.1 (the economic problem and methodology) of th
 ## Where marks are usually lost
 
 - Writing opportunity cost as "money spent" rather than the best option rejected.
-- Calculating an opportunity cost the wrong way up (bowls per vase instead of vases per bowl).
+- Calculating an opportunity cost the wrong way up (vases per bowl when the question asks what one vase costs in bowls).
 - Describing a point inside the boundary as unattainable.
 - Calling any boundary point allocatively efficient without comparing cost with value.
 - Forgetting that growth in a renewable stock depends on the opening stock.

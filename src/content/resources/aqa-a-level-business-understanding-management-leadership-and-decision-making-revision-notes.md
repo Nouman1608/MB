@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "managers-leadership-and-decision-making-aqa-alevel-business"
     subtopic: "understanding-management-leadership-and-decision-making-aqa-alevel-business"
-description: "Condensed revision notes for AQA A-Level Business (7132) 3.2.1: the manager's role, Tannenbaum Schmidt, Blake Mouton, style influences and a self-test."
+description: "Condensed revision notes for AQA A-Level Business (7132) 3.2.1: management and leadership, styles, Tannenbaum Schmidt, style influences and a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25
 featured: false
@@ -24,13 +24,15 @@ These are condensed notes for section 3.2.1, Understanding management, leadershi
 
 Related pages: the [topic study guide](/resources/aqa-a-level-business-managers-leadership-decision-making/), the [topic revision notes](/resources/aqa-a-level-business-managers-leadership-revision-notes/) and the [topic practice paper](/resources/aqa-a-level-business-managers-leadership-practice/). Course links: the [AQA A-level Business hub](/boards/aqa/a-level/business/), the [checklist](/checklists/aqa/a-level/business/) and the [free diagnostics](/diagnostics/).
 
-## The four content points
+## The content points
+
+The current specification (version 2.0, June 2023) no longer lists the role of managers or the Blake Mouton grid. Both are kept below as background only.
 
 | Point | One-line summary |
 |---|---|
-| What managers do | Setting objectives, analysing, leading, making decisions, reviewing |
+| Management and leadership | Distinguish the two; the five manager activities are background |
 | Types of styles and influences | Autocratic to laissez-faire; shaped by task, people, culture, time, risk |
-| Named theories | Tannenbaum Schmidt continuum; Blake Mouton grid |
+| Named theory | Tannenbaum Schmidt continuum (Blake Mouton grid is background only) |
 | Effectiveness | Judge each style against the context and against evidence |
 
 <figure class="topic-figure">
@@ -39,9 +41,9 @@ Related pages: the [topic study guide](/resources/aqa-a-level-business-managers-
 </figure>
 
 
-## What managers do
+## What managers do (background)
 
-The role of managers includes five activities. Learn them as a cycle.
+Not a listed content point in the current specification, but a standard way to describe the role of managers. It helps when you distinguish management from leadership.
 
 1. **Setting objectives**: decide what is to be achieved, with measurable targets.
 2. **Analysing**: examine information about the market, the team and past results.
@@ -66,7 +68,7 @@ Reminder for answers: link each activity to the case. "The manager reviews sales
 | Democratic | Manager with staff input, or the group | Two way | Slow, compromise |
 | Laissez-faire | Staff, within limits | Little from the manager | Drift, lack of direction |
 
-These four labels are standard terms. The specification itself asks for "types of management and leadership styles", and the theories below are what it names.
+The specification names these four styles, and the Tannenbaum Schmidt continuum is its named theory.
 
 ## Tannenbaum Schmidt continuum
 
@@ -99,7 +101,7 @@ Standard seven-position summary (not a quotation):
 </figure>
 
 
-## Blake Mouton grid
+## Blake Mouton grid (background, not in the current specification)
 
 - Two axes, each scored 1 to 9: **concern for production** and **concern for people**.
 - Write the score as (production, people). The order matters: (9,1) is not (1,9).
@@ -192,11 +194,11 @@ Bexley Reach Print has a new production manager. In her first month she sets wee
 | Democratic | Laissez-faire | The democratic leader joins in the decision. The laissez-faire leader steps back |
 | Concern for production | Concern for people | Task results against staff needs |
 | Continuum | Grid | Decision sharing against manager orientation |
-| Management | Leadership | The specification lists leading as one of the manager's activities |
+| Management | Leadership | The specification asks you to distinguish management from leadership |
 
 ## Quick self-test
 
-1. List the five activities that make up the role of managers.
+1. State one difference between management and leadership.
 2. At which end of the Tannenbaum Schmidt continuum does the manager use most authority?
 3. What do the two axes of the Blake Mouton grid measure?
 4. Which grid position is "country club"?
@@ -209,7 +211,7 @@ Bexley Reach Print has a new production manager. In her first month she sets wee
 
 ### Answers
 
-1. Setting objectives, analysing, leading, making decisions, reviewing.
+1. Management is about planning, organising and controlling resources to meet objectives; leadership is about setting direction and inspiring people to follow it.
 2. The end where the manager decides alone and announces (positions 1 and 2 in the standard seven-position form).
 3. Concern for production (the task) and concern for people.
 4. (1,9).
@@ -228,7 +230,7 @@ Bexley Reach Print has a new production manager. In her first month she sets wee
 
 ## Where marks are usually lost
 
-- Listing the five activities of a manager with no link to the business in the question.
+- Treating management and leadership as the same thing when a question asks for the distinction.
 - Describing a style but never judging whether it suits this case.
 - Writing a grid score in the wrong order, or giving only one number.
 - Treating the continuum as four styles instead of a line.

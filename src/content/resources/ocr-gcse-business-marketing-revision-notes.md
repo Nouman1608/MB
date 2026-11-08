@@ -318,4 +318,4 @@ Neither is always better. Primary research fits the exact question and is up to 
 
 ## Official syllabus
 
-OCR GCSE (9-1) in Business (J204), Version 2.0, Cambridge OCR, section 2: Marketing, topics 2.1 to 2.4.
+OCR GCSE (9-1) in Business (J204), Version 2.0, OCR, section 2: Marketing, topics 2.1 to 2.4.

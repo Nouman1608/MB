@@ -176,7 +176,7 @@ AC = TC/Q     MC = dTC/dQ     profit maximised where MC = MR
 
 Negative and positive externalities, public goods (**non-excludable and non-rival**), information failure, factor immobility, monopoly power.
 
-**Externality diagrams must be labelled** — MPC, MSC, MPB, MSB, market outcome, social optimum, and the shaded welfare loss triangle. An unlabelled diagram is much weaker evidence of diagram technique, even when the explanation is correct.
+**Externality diagrams must be labelled.** The 9640 specification says you are not required to use MSC/MSB diagrams: a demand and supply diagram with a second supply (or demand) curve showing the full social cost (or benefit) is enough. Label both curves, the market outcome, the social optimum and the shaded welfare loss triangle. An unlabelled diagram is much weaker evidence of diagram technique, even when the explanation is correct.
 
 **Intervention and its limits:**
 

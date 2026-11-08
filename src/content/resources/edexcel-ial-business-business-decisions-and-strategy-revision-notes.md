@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Business decisions and strategy (YBS11) -- Revision Notes"
+title: "Edexcel International A Level Business: Business decisions and strategy (YBS11) -- Revision Notes"
 seoTitle: "Edexcel IAL Business Decisions Strategy Revision Notes"
 resourceType: "revision-notes"
 subject: "business"

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Marketing mix and strategy (YBS11) -- Practice Questions"
+title: "Edexcel International A Level Business: Marketing mix and strategy (YBS11) -- Practice Questions"
 seoTitle: "Edexcel IAL Business Marketing Mix Practice Questions"
 resourceType: "practice-questions"
 subject: "business"

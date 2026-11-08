@@ -35,7 +35,7 @@ The questions below draw on the AQA AS and A-level Economics specification (vers
 
 **1.** Distinguish between a direct tax and an indirect tax, giving one example of each. **[4]**
 
-**2.** In Country C, the marginal propensity to save is 0.10, to pay tax 0.30 and to import 0.20.
+**2.** In Country C, the marginal propensity to consume is 0.40.
 
 **(a)** Calculate the multiplier and the change in national income if government spending rises by 9bn. **[3]**
 **(b)** Explain one reason why the actual change in real output might be smaller. **[2]**
@@ -60,7 +60,7 @@ The questions below draw on the AQA AS and A-level Economics specification (vers
 
 **9.** Evaluate the case for raising more tax revenue through a broad tax on spending rather than through income tax. **[9]**
 
-**10.** Country E has a marginal propensity to withdraw of 0.4. It considers a rise in government spending of 8bn, or a tax cut of 8bn of which 50% is spent on domestic goods.
+**10.** Country E has a marginal propensity to consume of 0.6. It considers a rise in government spending of 8bn, or a tax cut of 8bn of which 50% is spent on domestic goods.
 
 **(a)** Calculate the change in national income under each policy. **[4]**
 **(b)** Evaluate which policy would be better for the economy. **[6]**
@@ -77,9 +77,9 @@ The questions below draw on the AQA AS and A-level Economics specification (vers
 **1.** A direct tax is levied on income, profit or wealth [1] and paid by the person or firm taxed, such as income tax [1]. An indirect tax is levied on spending [1] and collected by the seller who passes it on in the price, such as a sales tax or an excise duty [1]. **[4]**
 *Examiner insight:* A definition plus an example for each type covers a "distinguish" command. Two examples with no contrast leave the difference unstated.
 
-**2. (a)** MPW = 0.10 + 0.30 + 0.20 = 0.60 [1]. Multiplier = 1 / 0.60 = 1.67 [1]. Change in income = 9 × 1.67 = **15bn** [1].
+**2. (a)** 1 − MPC = 1 − 0.40 = 0.60 [1]. Multiplier = 1 / 0.60 = 1.67 [1]. Change in income = 9 × 1.67 = **15bn** [1].
 **(b)** If the economy is near full capacity [1], extra demand raises prices rather than output, so real output rises by less than 15bn [1]. (Alternatives: time lags, or crowding out of private spending.) **[5]**
-*Examiner insight:* Show the three withdrawals being added before the division. Link any reason to the size of the output change.
+*Examiner insight:* Show 1 − MPC being found before the division. Link any reason to the size of the output change.
 
 **3. (a)** At 30,000: (30,000 − 15,000) × 0.12 = 1,800 [1]. At 80,000: 20,000 × 0.12 + 45,000 × 0.32 = 2,400 + 14,400 = 16,800 [1]. Average rates: 6% and 21% [1].
 **(b)** The tax is **progressive** [1] because the average rate rises as income rises [1]. **[5]**
@@ -104,7 +104,7 @@ The questions below draw on the AQA AS and A-level Economics specification (vers
 **9.** For a spending tax: a broad base makes it hard to avoid and gives stable revenue [1], and it leaves the return from extra work untaxed, so work incentives are less affected [1]. It can also target harmful goods to correct externalities [1]. Against: it is often regressive, because low-income households spend a larger share of income [1], so a household spending 95% of income pays a larger share than one spending 55% [1]. Income tax can be progressive, supporting vertical equity [1] and protecting low earners with an allowance [1], but high rates may weaken incentives and encourage avoidance [1]. Judgement: the better choice depends on whether the government values equity or incentives more [1]. **[9]**
 *Examiner insight:* A one-sided list of merits stays descriptive. Tie each tax to a principle, and close on a judgement and say what it hinges on.
 
-**10. (a)** k = 1 / 0.4 = 2.5 [1]. Spending: 8 × 2.5 = **20bn** [1]. Tax cut: first-round injection = 8 × 0.5 = 4bn [1]; 4 × 2.5 = **10bn** [1].
+**10. (a)** k = 1 / (1 − 0.6) = 2.5 [1]. Spending: 8 × 2.5 = **20bn** [1]. Tax cut: first-round injection = 8 × 0.5 = 4bn [1]; 4 × 2.5 = **10bn** [1].
 **(b)** Spending gives a larger boost because the whole sum is injected at once [1]. A tax cut leaves the choice with households and can raise work incentives, but some is saved, more if confidence is low [1]. With spare capacity either policy raises output; near full capacity both raise prices [1]. Capital projects can also raise aggregate supply, while wasteful spending raises demand only [1]. Projects take time to start while a tax cut acts quickly [1]. Judgement: spending is stronger in a deep recession, but a tax cut may suit if efficiency and choice matter more [1]. **[10]**
 *Examiner insight:* Carry the calculated figures into the evaluation: 20bn against 10bn beats a general claim.
 

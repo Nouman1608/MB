@@ -146,9 +146,6 @@ The standard assumptions are many small firms, differentiated products and low b
 **How do you find profit-maximising price in a monopolistic competition calculation?**
 Find MR from the demand curve, set MR equal to MC to find output, then read price from the demand (AR) curve at that output, not from MR. Comparing price with ATC at that output then shows supernormal profit, normal profit or a loss.
 
-**Where are marks usually lost on monopolistic competition and contestable markets questions?**
-Common slips include reading price off MR instead of AR, using ATC instead of MC in the MR = MC step, describing long-run AR crossing ATC, treating normal profit as proof of efficiency and choosing the wrong root in a limit-pricing quadratic. Evaluation answers also lose marks when they end without a final judgement.
-
 **How do you approach an 8-mark evaluate question on contestability?**
 Give benefits and costs with clear chains of reasoning, then reach a verdict that depends on a condition, such as the size of sunk costs or whether legal barriers exist. A question that says "always" invites you to name a case where the benefit fails.
 

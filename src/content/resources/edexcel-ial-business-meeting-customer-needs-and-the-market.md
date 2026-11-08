@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Meeting customer needs and The market (YBS11)"
+title: "Edexcel International A Level Business: Meeting customer needs and The market (YBS11)"
 seoTitle: "Edexcel IAL Business: Customer Needs and The Market"
 resourceType: "study-guides"
 subject: "business"

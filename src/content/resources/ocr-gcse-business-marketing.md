@@ -289,4 +289,4 @@ Market share is the business's sales divided by total market sales, multiplied b
 
 ## Official syllabus
 
-OCR GCSE (9-1) in Business (J204), Version 2.0, Cambridge OCR, section 2: Marketing, topics 2.1 to 2.4, within Business 1: business activity, marketing and people.
+OCR GCSE (9-1) in Business (J204), Version 2.0, OCR, section 2: Marketing, topics 2.1 to 2.4, within Business 1: business activity, marketing and people.

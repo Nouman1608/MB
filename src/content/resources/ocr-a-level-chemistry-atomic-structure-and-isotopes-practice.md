@@ -196,4 +196,4 @@ Writing an equation that balances in atoms but not in charge. Check that the tot
 
 ## Official syllabus
 
-OCR, *Cambridge OCR Level 3 Advanced GCE in Chemistry A (H432) specification*, Version 3.1, May 2026, first assessment 2017. Sections 2.1.1 "Atomic structure and isotopes" and 2.1.2 "Compounds, formulae and equations".
+OCR, *OCR Level 3 Advanced GCE in Chemistry A (H432) specification*, Version 3.1, May 2026, first assessment 2017. Sections 2.1.1 "Atomic structure and isotopes" and 2.1.2 "Compounds, formulae and equations".

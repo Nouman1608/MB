@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Financial planning and Managing finance (YBS11) -- Practice Questions"
+title: "Edexcel International A Level Business: Financial planning and Managing finance (YBS11) -- Practice Questions"
 seoTitle: "Edexcel IAL Business Finance Practice Questions"
 resourceType: "practice-questions"
 subject: "business"

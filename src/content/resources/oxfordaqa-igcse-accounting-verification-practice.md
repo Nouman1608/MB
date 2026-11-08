@@ -103,7 +103,7 @@ error is fully corrected [1] [1].
 
 ## Exam technique for this topic
 
-Bank reconciliation questions like Q5 are best approached as a two-step process rather than one combined
+Bank reconciliation questions like question 5 are best approached as a two-step process rather than one combined
 calculation: first update the cash book for items the bank already knows about but the business has not
 yet recorded (bank charges, standing orders, direct debits), then use the resulting updated cash book
 balance as the starting point for reconciling against the bank statement for items the business has

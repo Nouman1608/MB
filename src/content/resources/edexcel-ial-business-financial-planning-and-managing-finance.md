@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Financial planning and Managing finance (YBS11)"
+title: "Edexcel International A Level Business: Financial planning and Managing finance (YBS11)"
 seoTitle: "Edexcel IAL Business Financial Planning Study Guide"
 resourceType: "study-guides"
 subject: "business"

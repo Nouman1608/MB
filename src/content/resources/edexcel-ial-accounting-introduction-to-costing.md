@@ -99,11 +99,6 @@ All 190 units were sold at 15 each, so revenue = 2,850. Cost of sales = goods av
 
 Prices rose during May. FIFO charges older, cheaper costs to cost of sales, so it reports the highest gross profit and the highest inventory in the statement of financial position. LIFO matches recent costs against revenue, so both are lower. Falling prices reverse the order. The difference reverses later, because closing inventory becomes next period's opening inventory.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--08-marginal-vs-absorption-profit.webp" width="900" height="1020" alt="Ostrell Glassware in two years: inventory rises by 1,500 vases in Year 1, so absorption profit is 12,000 higher (76,400 v 64,400). Inventory falls by 1,200 in Year 2, so marginal profit is 9,600 higher (99,760 v 90,160). The difference is the change in inventory times 8 of fixed overhead." loading="lazy">
-  <figcaption>Profit differs between the methods only when inventory changes, by fixed overhead per unit times the inventory change.</figcaption>
-</figure>
-
 
 ### Applying NRV
 
@@ -279,21 +274,6 @@ Batch production cost                      4,550.00
 Cost per tray  4,550 / 250                    18.20
 ```
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--07-activity-based-costing.webp" width="900" height="1246" alt="Four cost pools are shared between Standard and Premium by use of their cost drivers (set-ups, inspections, orders, machine hours). Overhead per unit is 8.25 pounds for Standard and 55 for Premium under ABC, against 16 and 24 under a single labour-hour rate. Priced at 20 percent over the old cost, Premium sells at 168, below its ABC cost of 171." loading="lazy">
-  <figcaption>ABC charges overheads by the activities that cause them, which can change product costs and prices sharply.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--09-limiting-factor.webp" width="900" height="1060" alt="Contribution per unit is 24, 36 and 15 pounds for A, B and C, but per scarce hour it is 12, 9 and 15, so the ranking is C, A, B. Filling 4,000 hours in that order gives 1,000 C, 800 A and 350 B, contribution 46,800 and profit 16,800 after fixed costs of 30,000." loading="lazy">
-  <figcaption>With a limiting factor, rank products by contribution per unit of the scarce resource, not per unit.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--10-relevant-costs.webp" width="900" height="1160" alt="Making a bracket costs 8.20 pounds extra and buying 9.40, so buying costs 1.20 more, 14,400 pounds a year; the 2.50 fixed share is paid either way. The Gifts line shows a 1,500 pound loss, but closing it loses 18,000 contribution and saves 6,000 fixed costs, so profit falls by 12,000." loading="lazy">
-  <figcaption>Only costs and revenues that change with the decision are relevant; apportioned fixed costs often are not.</figcaption>
-</figure>
-
 
 ## Common errors
 
@@ -307,11 +287,6 @@ Cost per tray  4,550 / 250                    18.20
 ## Where next
 
 For paper technique, see [Edexcel IAL Accounting exam preparation](/resources/edexcel-ial-accounting-exam-preparation/).
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--02-break-even-chart.webp" width="900" height="1038" alt="A 110 pound bench splits into 66 pounds marginal cost and 44 pounds contribution. On the chart, revenue crosses total costs at 1,400 benches and 154,000 pounds; left is loss, right is profit. At budgeted sales of 2,000 benches profit is 26,400 pounds and the margin of safety is 600 benches." loading="lazy">
-  <figcaption>Break-even is where revenue meets total cost; the gap to budgeted sales is the margin of safety.</figcaption>
-</figure>
 
 ## Frequently asked questions
 

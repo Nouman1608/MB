@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Managing people and Entrepreneurs and leaders (YBS11)"
+title: "Edexcel International A Level Business: Managing people and Entrepreneurs and leaders (YBS11)"
 seoTitle: "Edexcel A Level Business Managing People Study Guide"
 resourceType: "study-guides"
 subject: "business"

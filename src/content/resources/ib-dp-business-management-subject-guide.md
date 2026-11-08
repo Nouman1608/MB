@@ -94,9 +94,9 @@ organisational structure, leadership and motivation. Unit 3, Finance
 and accounts, and Unit 4, Marketing, cover the financial and
 customer-facing functions of a business respectively. Unit 5,
 Operations management, covers how a business actually produces its
-goods or services. HL students study an additional extension layer of
-sub-topics within each of these units on top of the shared content
-common to both levels, so confirming exactly which sub-topics count as
+goods or services. HL students study additional HL-only sub-topics in
+Units 2 to 5 on top of the shared content common to both levels (Unit 1
+has the same content and teaching hours at SL and HL), so confirming exactly which sub-topics count as
 HL-only within each unit is worth doing early in the course rather
 than assuming SL and HL content overlaps completely.
 
@@ -135,8 +135,8 @@ interpretation rather than the mechanical calculation alone.
 
 ## Why HL adds a third paper
 
-At HL, students study extension content within each of the five units
-beyond what SL students cover. **Paper 1 is identical for SL and HL**
+At HL, students study extension content in Units 2 to 5 beyond what SL
+students cover. **Paper 1 is identical for SL and HL**
 (30 marks at both levels, built around the same pre-released statement
 and unseen case study) and does not draw on the extension content at
 all -- it is the one component where SL and HL students genuinely sit

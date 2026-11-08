@@ -161,9 +161,6 @@ Accounting profit is total revenue minus explicit costs. Economic profit also su
 **Should a loss-making firm close in the short run?**
 Not necessarily. A firm should keep producing in the short run if price covers average variable cost, because closing would lose the fixed costs anyway. Compare price with AVC, or the loss with fixed cost, before recommending closure.
 
-**Where are marks usually lost on revenue and profit calculations?**
-Common errors include calculating percentage change from the new value, giving MR as the price, calling accounting profit supernormal profit, forgetting implicit costs and reading the profit-maximising price from the MC curve instead of the demand curve.
-
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), first assessment 2021.

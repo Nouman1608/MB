@@ -20,7 +20,7 @@ publishedDate: 2026-10-11
 featured: false
 ---
 
-These notes condense OCR A Level Mathematics A (H240) content references 1.03a to 1.03f (straight lines and circles) from the Cambridge OCR specification, Version 3.1 (August 2026). All of it is Stage 1, common to AS and A Level. The [study guide](/resources/ocr-a-level-mathematics-straight-lines-and-circles/) has the full explanations and longer examples. Test yourself with the [practice set](/resources/ocr-a-level-mathematics-straight-lines-and-circles-practice/), tick topics off on the [checklist](/checklists/ocr/a-level/mathematics/), see the [course hub](/boards/ocr/a-level/mathematics/) and try the [free diagnostics](/diagnostics/). Parametric equations (1.03g, 1.03h) are not covered here.
+These notes condense OCR A Level Mathematics A (H240) content references 1.03a to 1.03f (straight lines and circles) from the OCR specification, Version 3.1 (August 2026). All of it is Stage 1, common to AS and A Level. The [study guide](/resources/ocr-a-level-mathematics-straight-lines-and-circles/) has the full explanations and longer examples. Test yourself with the [practice set](/resources/ocr-a-level-mathematics-straight-lines-and-circles-practice/), tick topics off on the [checklist](/checklists/ocr/a-level/mathematics/), see the [course hub](/boards/ocr/a-level/mathematics/) and try the [free diagnostics](/diagnostics/). Parametric equations (1.03g, 1.03h) are not covered here.
 
 ## Key results
 
@@ -265,4 +265,4 @@ The gradient m is the rate of change, in units of y per unit of x, and the inter
 
 ## Official syllabus
 
-*Cambridge OCR Level 3 Advanced GCE in Mathematics A (H240)* specification, Version 3.1 (August 2026), for first assessment in 2018, published by Cambridge OCR: section 1.03, Coordinate Geometry in the x-y plane, references 1.03a to 1.03f.
+*OCR Level 3 Advanced GCE in Mathematics A (H240)* specification, Version 3.1 (August 2026), for first assessment in 2018, published by OCR: section 1.03, Coordinate Geometry in the x-y plane, references 1.03a to 1.03f.

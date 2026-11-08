@@ -76,11 +76,6 @@ qualification: almost every essay question in Topic 2 can be answered, at least 
 identifying which curve moves, in which direction, and what that implies for output, employment and
 prices.
 
-## Official syllabus
-
-AQA A-level Economics (7136) specification, first teaching 2015 --
-[aqa.org.uk](https://www.aqa.org.uk/subjects/economics/a-level/economics-7136/specification/subject-content/the-national-and-international-economy).
-
 ## The circular flow of income (3.2.2.1)
 
 National income measures the value of the goods and services an economy produces in a period. **Nominal**
@@ -303,3 +298,8 @@ The Keynesian AS curve is flat at low output with spare capacity, slopes upward 
 
 **What marks out stronger AD/AS answers in AQA Paper 2?**
 AQA's Paper 2 examiner reports say separating short-run from long-run effects marks out better answers; weaker answers describe only the short-run effect and never ask whether LRAS has changed.
+
+## Official syllabus
+
+AQA A-level Economics (7136) specification, first teaching 2015 --
+[aqa.org.uk](https://www.aqa.org.uk/subjects/economics/a-level/economics-7136/specification/subject-content/the-national-and-international-economy).

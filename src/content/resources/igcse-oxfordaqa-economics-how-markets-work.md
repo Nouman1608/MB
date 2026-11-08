@@ -73,11 +73,6 @@ much competition it faces -- linking the two sub-topics helps build
 the kind of connected understanding examiners reward over isolated
 recall.
 
-## Official syllabus
-
-OxfordAQA International GCSE Economics (9214) qualification page —
-[oxfordaqa.com](https://www.oxfordaqa.com/qualifications/international-gcse-economics/).
-
 ## The economic problem behind markets
 
 Markets exist because resources are scarce while wants are unlimited, so a mechanism is needed to decide what is produced, how, and for whom. In a market economy that mechanism is price; in a planned economy it is the state; most economies are mixed. (This background distinction between market, planned and mixed economies sits outside 9214's own numbered sub-topics — it is context for why the price mechanism matters, not syllabus content in its own right.)
@@ -234,3 +229,8 @@ Production takes time, so farmers cannot quickly expand output when the price ri
 
 **What is the difference between a competitive and a concentrated market?**
 A highly competitive market has many small firms with little control over price. A concentrated market has a small number of large firms, or a single dominant firm, with more power to set price and restrict output.
+
+## Official syllabus
+
+OxfordAQA International GCSE Economics (9214) qualification page —
+[oxfordaqa.com](https://www.oxfordaqa.com/qualifications/international-gcse-economics/).

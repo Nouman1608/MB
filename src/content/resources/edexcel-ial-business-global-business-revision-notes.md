@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Global business (YBS11) -- Revision Notes"
+title: "Edexcel International A Level Business: Global business (YBS11) -- Revision Notes"
 seoTitle: "Edexcel IAL Business Global Business Revision Notes"
 resourceType: "revision-notes"
 subject: "business"

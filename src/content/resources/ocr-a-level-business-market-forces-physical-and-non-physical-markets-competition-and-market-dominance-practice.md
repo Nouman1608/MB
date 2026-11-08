@@ -141,4 +141,4 @@ Naming all three levels is only the start. The judgement must say which level ma
 
 ## Official syllabus
 
-OCR, *Cambridge OCR Level 3 Advanced GCE in Business (H431) Specification*, Version 2.1 (January 2026), External influences: Market forces; Physical and non-physical markets; Competition; Market dominance.
+OCR, *OCR Level 3 Advanced GCE in Business (H431) Specification*, Version 2.1 (January 2026), External influences: Market forces; Physical and non-physical markets; Competition; Market dominance.

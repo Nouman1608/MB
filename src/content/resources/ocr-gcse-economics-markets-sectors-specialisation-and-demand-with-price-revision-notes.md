@@ -249,7 +249,7 @@ As an economy develops, the share of jobs in the tertiary sector usually rises, 
 
 ## Official syllabus
 
-Source: Cambridge OCR, GCSE (9-1) Economics specification (J205), Version 2.0 (June 2026), for first assessment in 2019. Covered here: 2.1 and 2.2.
+Source: OCR, GCSE (9-1) Economics specification (J205), Version 2.0 (June 2026), for first assessment in 2019. Covered here: 2.1 and 2.2.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--02-three-sectors.webp" width="900" height="970" alt="Three cards describe the primary sector (extracting raw materials), secondary sector (making things) and tertiary sector (services). Two bars of illustrative job shares show a developing economy with mostly primary jobs and a developed economy with mostly tertiary jobs. A factory is secondary, not tertiary." loading="lazy">

@@ -142,4 +142,4 @@ Subtract the old value from the new value, divide by the old value and multiply 
 
 ## Official syllabus
 
-OCR, Cambridge OCR Level 1/Level 2 GCSE (9-1) in Economics (J205), Version 2.0 (June 2026), first assessment 2019, sections 4.1 and 4.2.
+OCR, OCR Level 1/Level 2 GCSE (9-1) in Economics (J205), Version 2.0 (June 2026), first assessment 2019, sections 4.1 and 4.2.

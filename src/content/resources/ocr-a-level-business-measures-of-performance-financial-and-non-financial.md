@@ -235,4 +235,4 @@ Yes. Profit is revenue minus costs on the income statement, while cash flow is t
 
 ## Official syllabus
 
-OCR Level 3 Advanced GCE in Business (H431), Version 2.1 (January 2026), Cambridge OCR; section Measures of Performance: financial and non-financial, Business objectives and strategy.
+OCR Level 3 Advanced GCE in Business (H431), Version 2.1 (January 2026), OCR; section Measures of Performance: financial and non-financial, Business objectives and strategy.

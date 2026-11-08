@@ -228,7 +228,7 @@ Management is directing resources to achieve objectives. Standard functions: pla
 Leadership is influencing others to follow towards goals.
 
 - **Trait theory:** Carlyle and Galton, leaders are born with qualities. **McGregor:** Theory X assumes workers dislike work and need control; Theory Y assumes they seek responsibility.
-- **Behavioural:** Blake and Moulton's managerial grid plots concern for production against concern for people.
+- **Behavioural:** Blake and Mouton's managerial grid plots concern for production against concern for people.
 - **Contingency:** Lewin's styles and Tannenbaum and Schmidt's continuum, from boss-centred to subordinate-centred, with the best choice depending on the situation.
 - **Functional:** Adair's Three Circles, balancing task, team and individual.
 

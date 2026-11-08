@@ -44,7 +44,7 @@ Each question practises a skill tested in the June 2024 Paper 12. After each ans
 **4.** An environmental pressure group objects to a clothing retailer selling cheap, low-quality clothes that are quickly thrown away. Explain **one** way the pressure group might try to influence the retailer's decisions. **[3]**
 
 **5.** A business in country A, whose currency is the dollar, sells a machine part to customers in Europe. It keeps the price at 60 dollars. The exchange rate changes from 1 dollar = 0.80 euros to 1 dollar = 0.90 euros.
-**(a)** Calculate the price of the part in euros before and after the change.
+**(a)** State whether the dollar has appreciated or depreciated, and whether the part becomes dearer or cheaper for European customers.
 **(b)** State **one** likely effect of this change on the business's export sales. **[3]**
 
 **6.** Explain **one** way a rise in interest rates could affect a business that has a large bank loan. **[2]**
@@ -81,7 +81,7 @@ Each question practises a skill tested in the June 2024 Paper 12. After each ans
 
 *Try the real question next:* Cambridge O Level Business Studies 7115, June 2024, Paper 12, Question 3(e).
 
-**5. (a)** Before: 60 × 0.80 = **48 euros** [1]. After: 60 × 0.90 = **54 euros** [1].
+**5. (a)** Each dollar now buys more euros, so the dollar has **appreciated** [1]. European customers need more euros to pay 60 dollars, so the part becomes **dearer** for them [1]. (The 7115 syllabus says exchange rate calculations are not assessed, so the direction and reason are what matter.)
 **(b)** The part is now more expensive for foreign buyers, so **export sales are likely to fall** [1].
 
 *Tip:* When a country's currency appreciates (buys more foreign currency), its exports become dearer abroad and imports become cheaper at home.

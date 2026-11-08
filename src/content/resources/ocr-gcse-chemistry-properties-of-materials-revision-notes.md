@@ -262,4 +262,4 @@ No. C₆₀ is molecular, not giant covalent. Describing it as a giant structure
 
 ## Official syllabus
 
-OCR specification J248, Chemistry A (Gateway Science), Cambridge OCR Level 1/Level 2 GCSE (9-1): Version 4.0, August 2026; first assessment 2018. This page draws on sub-topic C2.3 Properties of materials.
+OCR specification J248, Chemistry A (Gateway Science), OCR Level 1/Level 2 GCSE (9-1): Version 4.0, August 2026; first assessment 2018. This page draws on sub-topic C2.3 Properties of materials.

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A Level Business: Managing Business Activities — Revision Notes"
+title: "Edexcel International A Level Business: Managing Business Activities — Revision Notes"
 resourceType: "revision-notes"
 subject: "business"
 level: ["a-levels"]

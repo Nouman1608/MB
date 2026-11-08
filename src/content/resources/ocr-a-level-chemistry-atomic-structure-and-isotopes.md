@@ -191,7 +191,7 @@ No. Sodium chloride has a giant ionic structure, so use relative formula mass. R
 
 ## Official syllabus
 
-OCR, *Cambridge OCR Level 3 Advanced GCE in Chemistry A (H432)
+OCR, *OCR Level 3 Advanced GCE in Chemistry A (H432)
 specification*, Version 3.1, May 2026: [official specification
 PDF](https://www.ocr.org.uk/Images/171720-specification-accredited-a-level-gce-chemistry-a-h432.pdf),
 section 2.1.1 "Atomic structure and isotopes". Verified 2026-09-02.

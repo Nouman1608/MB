@@ -208,7 +208,7 @@ Interpret by comparing with earlier periods, targets and similar businesses, and
 |---|---|
 | Carlyle and Galton | Leaders born with traits |
 | McGregor X and Y | X: workers need control. Y: workers seek responsibility |
-| Blake and Moulton | Grid of concern for production against people |
+| Blake and Mouton | Grid of concern for production against people |
 | Lewin | Contingency theory listing leadership styles |
 | Tannenbaum and Schmidt | Continuum from boss-centred to subordinate-centred |
 | Adair | Task, team, individual |

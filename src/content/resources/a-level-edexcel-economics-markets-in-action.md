@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A Level Economics: Markets in Action (WEC11/01)"
+title: "Edexcel International A Level Economics: Markets in Action (WEC11/01)"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]

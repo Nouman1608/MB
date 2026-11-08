@@ -291,4 +291,4 @@ Test yourself with the [practice questions](/resources/ocr-gcse-economics-why-co
 
 ## Official syllabus
 
-OCR, Cambridge OCR Level 1/Level 2 GCSE (9-1) in Economics (J205), Version 2.0 (June 2026), first assessment 2019, section 4.1 and 4.2.
+OCR, OCR Level 1/Level 2 GCSE (9-1) in Economics (J205), Version 2.0 (June 2026), first assessment 2019, section 4.1 and 4.2.

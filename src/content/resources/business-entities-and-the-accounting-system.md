@@ -231,7 +231,7 @@ statements.** A trial balance only checks that debits equal credits — it
 does not, by itself, prove the accounts are free of all errors (some
 error types don't affect the trial balance's balance at all).
 - **Mixing up similarly-named concepts** — particularly prudence
-(understating profit optimism) versus consistency (using the same method
+(not overstating revenue, profits or assets, and not understating losses or liabilities) versus consistency (using the same method
 period to period), which are frequently confused.
 - **Applying the matching/accruals concept incorrectly** by recording
 income or expenses when cash changes hands rather than when they are

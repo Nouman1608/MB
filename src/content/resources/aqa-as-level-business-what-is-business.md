@@ -41,8 +41,11 @@ explicitly scoped by AQA to also draw on 3.1.1 and 3.1.2).
 This guide does not cover the remainder of Unit 3.1 -- **3.1.3
 Marketing management** and **3.1.4 Financial management** -- nor Unit
 3.2 (**3.2.1 People management** and **3.2.2 Operations management**),
-the unit AS Paper 2 focuses on. None of those four sub-topics is yet
-published on this site as a dedicated AS resource.
+the unit AS Paper 2 focuses on. Each has its own AS guide:
+[marketing management](/resources/aqa-as-level-business-marketing-management/),
+[financial management](/resources/aqa-as-level-business-financial-management/),
+[people management](/resources/aqa-as-level-business-people-management/) and
+[operations management](/resources/aqa-as-level-business-operations-management/).
 
 ## Where this fits in 7137
 

@@ -26,7 +26,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover moments and statics of rigid bodies in OCR A Level Mathematics A (H240), content references 3.04a to 3.04c of the Cambridge OCR specification, Version 3.1 (August 2026). All of this content is Stage 2, so it is A Level only. Take g = 9.8 m s⁻² throughout. If a method is unfamiliar, start with the [study guide](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies/) or the [revision notes](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies-revision-notes/). See also the [course hub](/boards/ocr/a-level/mathematics/), the [checklist](/checklists/ocr/a-level/mathematics/) and the [free diagnostics](/diagnostics/).
+These questions cover moments and statics of rigid bodies in OCR A Level Mathematics A (H240), content references 3.04a to 3.04c of the OCR specification, Version 3.1 (August 2026). All of this content is Stage 2, so it is A Level only. Take g = 9.8 m s⁻² throughout. If a method is unfamiliar, start with the [study guide](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies/) or the [revision notes](/resources/ocr-a-level-mathematics-moments-and-statics-of-rigid-bodies-revision-notes/). See also the [course hub](/boards/ocr/a-level/mathematics/), the [checklist](/checklists/ocr/a-level/mathematics/) and the [free diagnostics](/diagnostics/).
 
 ## Questions
 
@@ -181,4 +181,4 @@ A moment is measured in newton metres (N m), and a resultant moment needs its se
 
 ## Official syllabus
 
-Cambridge OCR Level 3 Advanced GCE in Mathematics A (H240), Version 3.1 (August 2026), first assessment 2018, published by OCR. Content references 3.04a to 3.04c.
+OCR Level 3 Advanced GCE in Mathematics A (H240), Version 3.1 (August 2026), first assessment 2018, published by OCR. Content references 3.04a to 3.04c.

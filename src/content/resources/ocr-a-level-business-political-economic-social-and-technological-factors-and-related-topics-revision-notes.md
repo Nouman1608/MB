@@ -310,4 +310,4 @@ Businesses whose products can be digitised, such as music, books and banking, or
 
 ## Official syllabus
 
-OCR, *Cambridge OCR Level 3 Advanced GCE in Business (H431) Specification*, Version 2.1 (January 2026), Area of Study: External influences.
+OCR, *OCR Level 3 Advanced GCE in Business (H431) Specification*, Version 2.1 (January 2026), Area of Study: External influences.

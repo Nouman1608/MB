@@ -164,7 +164,7 @@ Manual methods: low cost, no power needed, suit few transactions. Slow, error-pr
 
 ## Quick self-test
 
-1. State two non-financial factors that a income statement does not show.
+1. State two non-financial factors that an income statement does not show.
 2. Why does historical cost limit a return on capital employed comparison?
 3. A business has current assets of 90,000 and current liabilities of 60,000. Calculate the current ratio.
 4. It uses 30,000 of its cash to pay trade payables. Calculate the new current ratio.

@@ -297,4 +297,4 @@ Market demand adds up the quantity every buyer demands at each price. Plotting t
 
 ## Official syllabus
 
-Source: Cambridge OCR, GCSE (9-1) Economics specification (J205), Version 2.0 (June 2026), for first assessment in 2019. Covered here: 2.1 and 2.2.
+Source: OCR, GCSE (9-1) Economics specification (J205), Version 2.0 (June 2026), for first assessment in 2019. Covered here: 2.1 and 2.2.

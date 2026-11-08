@@ -125,7 +125,7 @@ Recommendation: the loan, because it costs less over the period and ownership st
 ## Where marks are usually lost
 
 - Writing a definition of revenue expenditure that mentions only "cost" without the short-term, running-cost idea.
-- Missing the extension in Q2 style questions: improvements are capital even if they sound like maintenance.
+- Missing the extension in question 2 style questions: improvements are capital even if they sound like maintenance.
 - Using the wrong denominator when finding ownership percentages after a share issue.
 - Giving a monthly lease figure and not multiplying by the number of months.
 - Forgetting to change time to years when a loan or overdraft runs for months.

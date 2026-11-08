@@ -45,23 +45,18 @@ These notes condense the AQA A-level Economics specification (version 1.3, 29 Ju
 
 - G is a component of AD, so more G shifts AD right.
 - Tax cuts raise disposable income (consumption) or profits (investment).
-- Multiplier = 1 / MPW, with MPW = MPS + MPT + MPM.
+- Multiplier = 1 / (1 − MPC). AQA asks you to calculate it from the MPC only; calculations from the marginal propensities to withdraw are not expected.
 
 **Method in steps for a multiplier question**
 
-1. Add the three withdrawal propensities to get MPW.
-2. Divide 1 by MPW.
+1. Subtract the MPC from 1.
+2. Divide 1 by the result.
 3. Multiply by the initial injection.
 4. For a tax cut, first find the part spent at home. That part is the injection.
 
-**Reminder (Country B, illustrative).** MPW = 0.40, so the multiplier is 1 / 0.40 = 2.5. A spending rise of 8bn raises income by 8 × 2.5 = 20bn. A tax cut of 10bn, of which 60% is spent at home, gives a first-round injection of 6bn and a rise in income of 6 × 2.5 = 15bn.
+**Reminder (Country B, illustrative).** MPC = 0.60, so the multiplier is 1 / (1 − 0.60) = 2.5. A spending rise of 8bn raises income by 8 × 2.5 = 20bn. A tax cut of 10bn, of which 60% is spent at home, gives a first-round injection of 6bn and a rise in income of 6 × 2.5 = 15bn.
 
 **Evaluation points:** spare capacity (output or prices?), size of the multiplier, time lags, confidence, how the policy is financed, whether the spending is on imports.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-fiscal-policy-government-spending-taxation-and-the--06-spending-vs-tax-cut.webp" width="900" height="960" alt="With MPW 0.50 the multiplier is 2. Spending of 6bn raises income by 12bn; a tax cut of 6bn leaks 1.8bn so 4.2bn enters and income rises 8.4bn." loading="lazy">
-  <figcaption>Equal-sized spending and tax changes do not have equal effects.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--02-ad-components.webp" width="900" height="906" alt="A waterfall adds consumption 60, investment 15, government spending 25 and exports 30 and subtracts imports 35 to reach AD of 95. Each bar lists the main determinants named in the lesson, and imports are shown as a subtraction." loading="lazy">
@@ -184,7 +179,7 @@ Chain: change in spending or tax → effect on AD or AS → effect on output, jo
 ## Quick self-test
 
 1. State two microeconomic functions of fiscal policy.
-2. MPS = 0.2, MPT = 0.1, MPM = 0.2. Find the multiplier.
+2. MPC = 0.5. Find the multiplier.
 3. With the multiplier in question 2, find the change in income from a spending rise of 5bn.
 4. A tax cut of 20bn leads to 12bn spent at home and the multiplier is 2. Find the change in income.
 5. Allowance 10,000 and 30% above it. Find the tax and average rate on 30,000.
@@ -197,7 +192,7 @@ Chain: change in spending or tax → effect on AD or AS → effect on output, jo
 ### Answers
 
 1. Any two of: correcting externalities with a tax; subsidising merit goods; redistributing income through benefits; protecting a particular industry.
-2. MPW = 0.2 + 0.1 + 0.2 = 0.5, so the multiplier is 2.
+2. 1 / (1 − 0.5) = 1 / 0.5, so the multiplier is 2.
 3. 5 × 2 = 10bn.
 4. 12 × 2 = 24bn (not 40bn, because the saved part does not enter the flow).
 5. Taxable income 20,000; tax 20,000 × 0.30 = 6,000; average rate 6,000 / 30,000 = 20%.

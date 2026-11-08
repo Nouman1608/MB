@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A-Level Business: Managing people and Entrepreneurs and leaders (YBS11) -- Revision Notes"
+title: "Edexcel International A Level Business: Managing people and Entrepreneurs and leaders (YBS11) -- Revision Notes"
 seoTitle: "Edexcel A Level Business Managing People Revision Notes"
 resourceType: "revision-notes"
 subject: "business"

@@ -176,9 +176,6 @@ Compare each worker's marginal revenue product with the wage and keep hiring whi
 **Which part of the OCR A Level Economics specification covers demand for labour?**
 The demand side of labour markets, including MRP theory, is part of the topic Wage determination, in the Labour market area of study of Component 1, Microeconomics, in the OCR A Level Economics (H460) specification.
 
-**Where are marks usually lost on labour demand questions?**
-Common errors include reading a nominal rise as a real rise, dropping the sign of wage elasticity of demand, shifting the labour demand curve when only the wage has changed, judging competitiveness from wages alone and using price instead of marginal revenue.
-
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification. Component 1, Microeconomics: area of study Labour market, topic Wage determination (the demand-side outcomes and MRP theory).
