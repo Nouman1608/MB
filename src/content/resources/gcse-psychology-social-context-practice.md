@@ -154,11 +154,11 @@ In Paper 2, social influence sets situational (social) factors against dispositi
 **What do these AQA GCSE Psychology 8182 Paper 2 practice questions cover?**
 They cover social influence, language, thought and communication, brain and neuropsychology, and psychological problems, including named studies such as Asch, Milgram, Piliavin and Kaij.
 
-**Which factors increase bystander intervention?**
-The dispositional factors, similarity to the victim and expertise, increase the likelihood of helping. The social factors, presence of others and cost of helping, reduce it.
+**How should you answer a scenario question in GCSE Psychology Paper 2?**
+Identify which named theory or study the scenario is testing, make the relevant contrast explicit, such as social versus dispositional factors, and apply it to the details given.
 
-**What is the James-Lange theory of emotion?**
-It proposes that the physical response, such as a raised heart rate, comes first, and the emotion is the brain's interpretation of that bodily arousal. Giving the theory in reverse is a common mistake.
+**Do you need to know named studies for AQA GCSE Psychology Paper 2?**
+Yes. Questions often name studies such as Asch, Milgram, Piliavin, Von Frisch, Penfield, Tulving, Wiles and Kaij, and you need to be able to say what each actually found.
 
 **What are common mistakes in GCSE Psychology Paper 2 answers?**
 Students often treat conformity and obedience as the same process, reverse Piaget's and Sapir-Whorf's positions, and list explanations of depression or addiction without comparing them when asked to.

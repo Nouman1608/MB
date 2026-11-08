@@ -148,8 +148,8 @@ They cover memory, perception, biopsychology and research methods from Paper 1 o
 **What is the difference between a null and an alternative hypothesis?**
 A null hypothesis predicts no difference or relationship between the conditions. An alternative hypothesis predicts that there will be one. Writing the wrong one when a question asks for the other is a common mistake.
 
-**How do you deal with order effects in a repeated measures design?**
-Use counterbalancing: half the participants do one condition first and half do the other first, so practice and fatigue effects are balanced across conditions.
+**Do you need to apply research methods to scenarios in International GCSE Psychology?**
+Yes. Research methods questions often describe a study, so you need to identify variables, hypotheses and design problems in that specific scenario rather than giving general definitions.
 
 **What are common mistakes in International GCSE Psychology cognition answers?**
 Students often use perception and sensation interchangeably, name control variables without saying why they matter, and swap Broca's area (speech production) with Wernicke's area (language comprehension).

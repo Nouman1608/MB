@@ -146,5 +146,5 @@ Name all four processes, attention, retention, motor reproduction and motivation
 **How should you answer a question comparing two approaches?**
 Compare them explicitly on the dimensions the question names, such as determinism and type of evidence, stating similarities before differences. Two separate descriptions with no direct comparison earn fewer marks.
 
-**Is the humanistic approach scientific?**
-It deliberately rejects lab-based and reductionist methods, so its concepts are hard to test, which is a weakness by scientific standards. Strong answers weigh this against the rich, real-world insight it offers and compare it with a more scientific approach.
+**How should you approach an extended writing question on approaches?**
+Define any key standard the question uses, apply it directly to the approach named, and use at least one other approach as an explicit point of comparison before reaching a balanced conclusion.

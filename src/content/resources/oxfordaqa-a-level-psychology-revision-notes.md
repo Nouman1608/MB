@@ -112,3 +112,17 @@ The specification names exactly **two** disorders in this unit.
 5. Name two situational variables in Milgram's research that reduced obedience, and two explanations of resistance to social influence.
 
 **Answers:** 1. NSI is the need to be liked, producing compliance that lasts only while observed; ISI is the need to be right, producing internalisation that persists. 2. Dual-task performance — two tasks using different slave systems can be carried out simultaneously, which a single unitary short-term store cannot explain. 3. It cannot account for entire populations obeying, which would require an implausibly uniform personality type across millions of people. 4. Classical conditioning creates the phobia and operant conditioning maintains it, because avoidance is negatively reinforced by anxiety reduction; exposure without avoidance therefore breaks the cycle. 5. Proximity (obedience fell when the learner was in the same room or the teacher had to place his hand on a shock plate) and location (obedience fell when the study moved from Yale to a run-down office block); resistance is explained by social support (a disobedient ally) and an internal locus of control.
+
+## Frequently asked questions
+
+**What is the difference between NSI and ISI?**
+Normative social influence is the need to be liked and produces compliance that lasts only while observed. Informational social influence is the need to be right and produces internalisation, which persists.
+
+**Are explanations for forgetting in the OxfordAQA 9685 memory content?**
+No. Explanations for forgetting, such as interference and retrieval failure, are not in this specification's memory content, so do not write about them in a memory answer.
+
+**Which disorders does OxfordAQA 9685 Unit 1 name?**
+The unit names exactly two disorders: phobias and depression. OCD belongs to the OxfordAQA International GCSE (9218) specification instead.
+
+**Does anxiety always worsen eyewitness accuracy?**
+No. Weapon focus narrows attention, but the evidence on anxiety is contradictory, so claiming anxiety always worsens accuracy is a common exam trap.

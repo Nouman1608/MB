@@ -154,6 +154,20 @@ One limitation is that genetic evidence rarely shows behaviour is fixed by genes
 - Mixing up genotype and phenotype, or saying twin studies prove behaviour is genetic.
 - Evaluating with generic points ("it lacks ecological validity") without saying which study and why.
 
+## Frequently asked questions
+
+**What is cognitive neuroscience?**
+Cognitive neuroscience studies how brain structures and activity support mental processes, often using brain imaging. It gives objective, physical evidence for processes that were once only inferred.
+
+**What did Bandura, Ross and Ross (1961) study?**
+They tested 72 children aged 37 to 69 months from the Stanford University nursery school to see whether children would imitate an adult model's aggressive behaviour towards a Bobo doll.
+
+**What is the difference between negative reinforcement and punishment?**
+Negative reinforcement removes something unpleasant and makes a behaviour more likely. Punishment makes a behaviour less likely, so the two should not be confused.
+
+**How much of Unit 4 is evaluation in OxfordAQA 9685?**
+The specification gives approximate Unit 4 weightings of AO1 9%, AO2 8% and AO3 13% of the whole A-level, so evaluation carries the largest share.
+
 ## Where to go next
 
 Test yourself with the [approaches practice questions](/resources/oxfordaqa-a-level-psychology-9685-scientific-approaches-in-psychology-practice/). Section B builds on these approaches in the [issues and debates guide](/resources/oxfordaqa-a-level-psychology-9685-issues-and-debates-in-psychology/). For exam planning across all four units, read the [9685 exam preparation guide](/resources/oxfordaqa-a-level-psychology-exam-preparation/). To refresh the Unit 2 brain and nervous system content, use the [biopsychology revision notes](/resources/oxfordaqa-a-level-psychology-biopsychology-development-revision-notes/).

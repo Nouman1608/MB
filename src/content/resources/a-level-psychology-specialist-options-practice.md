@@ -184,8 +184,8 @@ questions are.
 
 ## Frequently asked questions
 
-**How many specialist options do you study for Cambridge A Level Psychology 9990?**
-A school studies two of the four options: Clinical, Consumer, Health and Organisational Psychology. Both chosen options are examined on Paper 3 and Paper 4, with different topic areas on each paper.
+**Should you check which specialist options your school teaches before practising?**
+Yes. Confirm which options your own course covers before doing past-paper practice, because practising an option you have not studied wastes revision time.
 
 **Why do specialist option answers need a named theory?**
 Questions test whether you can apply a specific approach, concept or theory to the scenario given. A general or common-sense explanation shows no psychological basis and is weaker than a named theory applied directly.

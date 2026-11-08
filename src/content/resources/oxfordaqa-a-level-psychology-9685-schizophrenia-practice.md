@@ -158,6 +158,20 @@ Use the cognitive explanation of dysfunctional thought processing to explain Len
 - Naming a research problem without saying how it would affect the results.
 - Evaluating therapies only through side effects.
 
+## Frequently asked questions
+
+**What does OxfordAQA 9685 section 3.3.2 Schizophrenia cover?**
+It covers positive and negative symptoms, reliability and validity in diagnosis, biological explanations including genetics and the dopamine hypothesis, the cognitive explanation of dysfunctional thought processing, and anti-psychotic drugs and cognitive therapy.
+
+**How do you calculate agreement between two psychiatrists?**
+Count every case where both raters made the same decision, including cases where both decided it was not schizophrenia. Counting only the cases both diagnosed as schizophrenia is a common mistake.
+
+**How are the extended Schizophrenia questions marked?**
+The real exam marks extended answers using levels of response, not point by point. Strong answers evaluate therapies on effectiveness as well as side effects and end with a judgement.
+
+**What are common mistakes in Schizophrenia practice questions?**
+Students often treat positive symptoms as good symptoms, confuse co-morbidity with symptom overlap, use twin data as proof that schizophrenia is entirely genetic, and describe the dopamine hypothesis without a receptor type or brain area.
+
 ## Next steps
 
 - Check gaps with the [schizophrenia revision notes](/resources/oxfordaqa-a-level-psychology-9685-schizophrenia-revision-notes/) and the [9685 exam preparation guide](/resources/oxfordaqa-a-level-psychology-exam-preparation/).

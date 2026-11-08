@@ -181,8 +181,8 @@ earn no credit at Paper 2 and cost valuable time.
 **What do these Cambridge 9990 research methods practice questions cover?**
 They cover the experimental designs, sampling techniques, observation types, validity and reliability, ethics for human and animal participants, and the Section B planning question on Paper 2.
 
-**Can a study be reliable but not valid?**
-Yes. A study can give consistent results every time it is repeated and still lack ecological validity, so the two concepts need to be judged separately for any study described.
+**Are these Cambridge 9990 research methods questions from past papers?**
+No. They are original exam-style questions with worked answers, to use alongside the Paper 2 study guide and revision notes.
 
 **What mistakes lose time in the Paper 2 planning question?**
 Adding Paper 4 content such as aims, hypotheses or an evaluation of ethics earns no credit at Paper 2 and takes time away from the features that are assessed. Work through the general features first, then add the method-specific detail.

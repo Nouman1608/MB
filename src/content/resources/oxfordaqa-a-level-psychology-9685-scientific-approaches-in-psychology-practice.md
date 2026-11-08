@@ -144,6 +144,20 @@ Both approaches see behaviour as learned from the environment rather than inheri
 - Writing comparisons as two separate descriptions with no linking words.
 - Ending a "discuss" answer with no overall judgement.
 
+## Frequently asked questions
+
+**What does OxfordAQA 9685 section 3.4.1 Scientific approaches cover?**
+It covers the learning approaches, including classical and operant conditioning and social learning theory, the cognitive approach, including schema and computer models, and the biological approach, including genetics, cognitive neuroscience and evolution.
+
+**How are the extended scientific approaches questions marked?**
+The real exam marks extended answers using levels of response, not point by point. The marks shown are indicative creditworthy points, and a "discuss" answer needs an overall judgement.
+
+**How do you write a comparison answer in 9685 Psychology?**
+Make direct points of similarity and difference with linking words, rather than writing two separate descriptions. Compare the approaches on features such as methods and views of learning.
+
+**What are common mistakes in scientific approaches questions?**
+Students often call the sound the unconditioned stimulus in classical conditioning, treat negative reinforcement as punishment, and treat twin or brain scan evidence as proof of cause.
+
 ## Next steps
 
 - Check gaps with the [approaches revision notes](/resources/oxfordaqa-a-level-psychology-9685-scientific-approaches-in-psychology-revision-notes/) and the [9685 exam preparation guide](/resources/oxfordaqa-a-level-psychology-exam-preparation/).

@@ -9,7 +9,7 @@ qualifications: ["a-level"]
 syllabusCodes: ["9685"]
 syllabusSeries: "First assessed 2020"
 order: 3
-description: "How OxfordAQA International A-Level Psychology 9685's unlimited-resits policy changes exam strategy across all four papers, plus a worked study-evaluation routine."
+description: "Exam strategy for OxfordAQA International A-Level Psychology 9685: paper weightings, how resits work, research methods across two papers and evaluating studies."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -108,6 +108,20 @@ more weight in the final grade. 3. Research Methods 1 sits within AS Paper 2; Re
 within A-level Paper 1 -- it is a cumulative thread across two papers, not confined to one sitting. 4.
 State the evaluation point, explain its implication, give the specific consequence for the study, weigh
 a counterpoint, and conclude what the finding can and cannot support.
+
+## Frequently asked questions
+
+**How is OxfordAQA International A-Level Psychology 9685 assessed?**
+It has four papers, each 1.5 hours and 90 marks. The two AS papers are each worth 20% of the full A-level, and the two A-level papers are each worth 30%.
+
+**Can you resit OxfordAQA International A-Level Psychology papers?**
+Yes. Units can be resat, with the best result counting, so a weak first sitting can be improved rather than counting against you.
+
+**Where is research methods examined in OxfordAQA 9685?**
+Research Methods 1 sits within AS Paper 2 alongside biopsychology and development, and Research Methods 2 sits within A-level Paper 1 alongside sleep and schizophrenia.
+
+**How do you write an evaluation paragraph on a study?**
+State the evaluation point, explain its implication, give the specific consequence for the study, weigh a counterpoint, and conclude what the finding can and cannot support.
 
 *Written against the assessment section of OxfordAQA's own International AS/A-level Psychology (9685)
 qualification page (official OxfordAQA page, verified 2026-08-28); the paper structure, timings,

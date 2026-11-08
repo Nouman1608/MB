@@ -9,7 +9,7 @@ qualifications: ["igcse"]
 syllabusCodes: ["9218"]
 syllabusSeries: "First teaching 2023, first examined 2025"
 order: 3
-description: "Why OxfordAQA International GCSE Psychology 9218's components cannot be resat individually, how the two 100-mark papers divide cognition from social psychology, and a worked study-evaluation routine."
+description: "Exam strategy for OxfordAQA International GCSE Psychology 9218: two 100-mark papers, why one paper cannot be resat alone, timing and evaluating studies."
 author: "marlbridge-academic-team"
 specCheck:
   by: "marlbridge-academic-team"
@@ -121,6 +121,20 @@ found, and one limitation. 3. Because it is not tied to the specific study's met
 setting, and does not explain why that feature matters for this particular research. 4. Stating what
 the strength or limitation means for how far the findings can be trusted or generalised, not just
 naming the feature itself.
+
+## Frequently asked questions
+
+**How is OxfordAQA International GCSE Psychology 9218 assessed?**
+It is a linear, untiered qualification with no coursework. Paper 1 (Cognition and Behaviour) and Paper 2 (Social Context and Behaviour) each last 2 hours, carry 100 marks and are worth 50%.
+
+**Can you resit one paper of OxfordAQA International GCSE Psychology?**
+No. Individual components may not be resat; only the whole qualification can be retaken, which means sitting both papers again.
+
+**How much time do you have per mark in OxfordAQA International GCSE Psychology?**
+Two hours for 100 marks gives about 1.2 minutes per mark, so practise extended-response questions under a firm time limit.
+
+**When was OxfordAQA 9218 first examined?**
+The specification was first taught in September 2023 and first examined in May/June 2025.
 
 *Written against the assessment section of OxfordAQA's own International GCSE Psychology (9218)
 qualification page (official OxfordAQA page, verified 2026-08-28). The evaluation routine above is an

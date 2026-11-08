@@ -159,8 +159,8 @@ Issues and debates is compulsory content assessed in Paper 3, Issues and Options
 **What is the difference between social sensitivity and general research ethics?**
 Social sensitivity is about the consequences of research for the wider group the participants represent, and how findings may be used. Answering with consent and debriefing points alone answers a different question.
 
-**What does a heritability coefficient tell you?**
-It describes how much of the variation in a trait across a population is associated with genetic variation. It says nothing about how much of one person's trait comes from their genes.
+**Should you use examples from other topics in issues and debates answers?**
+Yes. The specification expects you to illustrate issues and debates answers with topics studied elsewhere in the course, and a named topic used as evidence lifts an answer.
 
 **What are common mistakes in issues and debates questions?**
 Students often define a term without applying it to the person or data in the question, say twin studies prove a genetic cause, and end extended answers without a judgement even though Paper 3 gives evaluation the largest weighting.

@@ -97,14 +97,14 @@ the component skills the full essay demands.
 
 ## Frequently asked questions
 
-**Which topics of the IB Psychology biological approach are studied at SL and HL?**
-Both SL and HL study the brain and behaviour, hormones and pheromones and behaviour, and genetics and behaviour. HL students also study the role of animal research in understanding human behaviour.
+**Are these IB Psychology biological approach questions official past paper questions?**
+No. They are original practice questions with worked answers, written to rehearse the skills Paper 1 tests rather than to reproduce its exact format.
 
 **How many marks are IB Psychology Paper 1 questions worth?**
 On Paper 1 (first assessment 2019), each of the three Section A short-answer questions is worth 9 marks and the Section B essay is worth 22 marks.
 
-**What is a concordance rate in twin studies?**
-A concordance rate is the percentage of twin pairs in which both twins share a particular trait or behaviour. Comparing identical and non-identical twins helps estimate genetic influence.
+**Why does the essay-style question carry the most marks in this set?**
+It rehearses evaluation, the skill the Paper 1 essay rewards most. It is shorter than a real Paper 1 essay, so treat it as practice for the evaluative skill rather than a full-length essay.
 
 **Why is naming a neurotransmitter not a complete biological explanation?**
 A name alone does not explain the mechanism or the behaviour. A complete explanation states what the neurotransmitter does physiologically and links that mechanism to the specific behaviour.

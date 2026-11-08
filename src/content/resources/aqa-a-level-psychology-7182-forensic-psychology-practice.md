@@ -160,8 +160,8 @@ Give answers to the precision the question asks for, such as one decimal place, 
 **What is the difference between a crime scene feature and an offender characteristic?**
 A crime scene feature describes what is found at the scene, such as evidence left behind. An offender characteristic describes the person, so it does not answer a question about the crime scene.
 
-**Do twin concordance rates prove offending is genetic?**
-No. Higher concordance in MZ twins suggests genes play a role, but MZ concordance well below 100% shows environmental factors also matter, and MZ twins may be treated more alike than DZ twins.
+**How are the extended Forensic Psychology questions marked?**
+The real exam marks extended answers with levels of response, not point by point. In applied questions, refer to the person in the scenario throughout to reach the top level.
 
 ## Next steps
 

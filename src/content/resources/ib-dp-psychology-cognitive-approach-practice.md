@@ -93,17 +93,17 @@ Related: [Cognitive approach study guide](/resources/ib-dp-psychology-cognitive-
 
 ## Frequently asked questions
 
-**What are the three core approaches in IB DP Psychology?**
-They are the biological, cognitive and sociocultural approaches. All three are compulsory and examined on Paper 1.
+**Which IB Psychology paper examines the cognitive approach?**
+The cognitive approach is one of the three compulsory core approaches examined on Paper 1, alongside the biological and sociocultural approaches.
 
-**Should you mix biological and cognitive points in a cognitive approach essay?**
-No. The Paper 1 essay is answered from the single approach the question names, with no separate credit for bringing in a second approach, so biological material adds nothing creditable to a cognitive essay.
+**Are these IB Psychology cognitive approach questions official past paper questions?**
+No. They are original practice questions with worked answers. The final question is a revision exercise rather than a Paper 1 essay format.
 
-**What is reconstructive memory?**
-Reconstructive memory is the idea that memory is an active reconstruction shaped by existing schema, expectations and information met after the event, not a video-like recording.
+**Is comparing two approaches an IB Psychology Paper 1 essay format?**
+No. Comparing how two approaches explain the same behaviour is a useful revision exercise, but the Paper 1 essay is answered from the single approach the question names.
 
-**What should you prepare for every cognitive study?**
-Prepare the study's methodology and at least one genuine evaluative point, as well as its finding. Paper 1's essay question credits evaluation, not just description.
+**Can the cognitive approach be used in the IB Psychology internal assessment?**
+Yes. Many students design their experimental study within the cognitive approach, for example testing how a manipulated variable affects recall or decision-making, and use its vocabulary to justify their design.
 
 ## Official syllabus
 

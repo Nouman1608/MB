@@ -15,13 +15,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-3-crime-deviance-theory-methods-7192"
     subtopic: "crime-and-deviance-7192"
-description: "Original exam-style practice questions with full worked answers on the content areas, core themes and theoretical explanations of crime and deviance, for AQA A-Level Sociology (7192) Paper 3."
+description: "Practice questions with worked answers on AQA A-Level Sociology (7192) Crime and Deviance: core themes, theories, crime statistics, green and state crime."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
 reviewer: "naqiya-yousaf"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-10-09
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -77,6 +79,20 @@ Related: [Crime and Deviance revision notes](/resources/a-level-aqa-sociology-cr
 **7.** A strong evaluation notes that official statistics only capture crime that is reported to, and recorded by, the criminal justice system, meaning they are shaped by policing practices, reporting behaviour by the public, and recording decisions, all of which can vary systematically by ethnicity — for example, if certain groups are subject to disproportionate stop-and-search rates, this could inflate their representation in official statistics without reflecting a genuine difference in underlying offending. Self-report studies, by contrast, ask a sample of the population directly about offences they have committed, which can reveal offending that never enters official records, though such studies depend on respondents' honesty and willingness to disclose. Victim studies similarly capture experiences of crime directly from those affected, independent of whether the police ever recorded the incident, but rely on victims correctly identifying an offender's characteristics and being willing to participate. A balanced conclusion should note that no single source gives a complete, unmediated picture, and that a labelling/interactionist perspective specifically argues that differences between official statistics and other sources are themselves sociologically significant, revealing how criminal justice processing (not just underlying behaviour) shapes who appears in official crime data. **[8]** (Marks for genuine, comparative evaluation across at least two data sources, and explicit theoretical framing rather than describing sources in isolation.)
 
 **8.** A strong answer picks a specific content area — for example, the social distribution of crime by ethnicity — and explains how a purely descriptive answer (citing a statistic) can be strengthened by drawing on Theory and Methods content, such as evaluating official statistics as a research method: noting that positivist approaches favouring quantitative official data may produce a systematically different picture from interpretivist approaches favouring qualitative or self-report data that captures how labelling and criminal justice processing shape recorded crime. Explicitly naming this methodological tension, rather than treating the statistic as simply given, demonstrates the specification's expectation that students draw together knowledge, understanding and skills from across the whole course (Crime and Deviance together with Theory and Methods), which is what "synopticity" specifically credits. **[6]**
+
+## Frequently asked questions
+
+**Which AQA A-Level Sociology paper examines Crime and Deviance?**
+Crime and Deviance is examined in Paper 3, Crime and Deviance with Theory and Methods, of AQA A-Level Sociology 7192.
+
+**Are these AQA 7192 Crime and Deviance questions from past papers?**
+No. They are original exam-style questions with worked answers, written for practice alongside the official past papers.
+
+**Are green crime and state crime part of AQA A-Level Sociology Crime and Deviance?**
+Yes. Green crime and state crime are part of the content and are treated as part of the same theoretical debate as individual-level crime.
+
+**Why can Crime and Deviance answers draw on research methods?**
+Because the paper combines Crime and Deviance with Theory and Methods, answers can be strengthened by evaluating the methods behind evidence, such as official statistics, rather than only describing findings.
 
 ## Official syllabus
 

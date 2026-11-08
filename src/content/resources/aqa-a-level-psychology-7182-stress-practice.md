@@ -177,8 +177,8 @@ Stress is topic 14 in Option 2 and is assessed in Section C of Paper 3, Issues a
 **Why should you not round too early in Stress calculations?**
 Rounding intermediate values, such as a mean, can change the final answer and lose the last mark. Use the unrounded value or say clearly which value you used, and show your working.
 
-**Is skin conductance a direct measure of stress?**
-No. Skin conductance response measures sympathetic arousal, which could also come from excitement or a warm room. A self-report measure is needed to confirm that a person feels stressed.
+**How are the extended Stress questions marked?**
+The real exam marks extended answers with levels of response, not point by point. Top-band answers reach a reasoned judgement rather than listing studies.
 
 **How should you evaluate stress management therapies?**
 The specification asks you to evaluate therapies in terms of appropriateness and effectiveness. Judging each therapy against the person in the scenario lifts an answer above description.

@@ -181,8 +181,8 @@ Section 3.4.2 Issues and debates in psychology is assessed in Unit 4, Approaches
 **How do you write a falsifiable hypothesis?**
 State two conditions and a measurable outcome, so a possible result could show the prediction to be wrong. A vague statement such as "attention affects memory" is not testable as written.
 
-**Does a failed replication prove the original study was wrong?**
-No. Differences in samples, such as age or culture, or small differences in procedure or setting can also explain a failed replication.
+**How are the extended 9685 issues and debates questions marked?**
+The real exam marks extended answers with levels of response, not point by point. Top answers weigh evidence on both sides and end with a judgement.
 
 **What are common mistakes in 9685 issues and debates questions?**
 Students often calculate percentages without using them in the explanation, use "determinism" without saying which type, confuse determinism with reductionism, and end extended answers without a judgement.

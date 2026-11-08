@@ -152,6 +152,20 @@ When you have revised, try the [approaches practice questions](/resources/oxford
 
 For linked earlier content, see the [Unit 1 introductory topics revision notes](/resources/oxfordaqa-a-level-psychology-revision-notes/) and the [Unit 2 biopsychology revision notes](/resources/oxfordaqa-a-level-psychology-biopsychology-development-revision-notes/). Determinism, nature-nurture and reductionism are Section B content; revise them with the [issues and debates revision notes](/resources/oxfordaqa-a-level-psychology-9685-issues-and-debates-in-psychology-revision-notes/).
 
+## Frequently asked questions
+
+**Which schedule of reinforcement is most resistant to extinction?**
+The variable ratio schedule, where reinforcement comes after an unpredictable number of responses, is the most resistant to extinction.
+
+**What did Bandura (1965) show about vicarious reinforcement?**
+Children who saw a model punished copied less aggression, but all groups copied when offered rewards, so reinforcement affected performance rather than learning.
+
+**Why are mental processes said to be inferred in the cognitive approach?**
+Mental processes cannot be seen directly, so cognitive psychologists work them out from measured behaviour such as recall scores or reaction times.
+
+**Can Unit 1 and Unit 2 studies be used in Unit 4 answers?**
+Yes. Unit 4 is synoptic, so studies from Unit 1 and Unit 2 can count as evidence in your answers on the approaches.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Psychology (9685) specification, Version 3.1 (International A-level exams May/June 2020 onwards), section 3.4.1 Scientific approaches in psychology; Unit 4 details in section 2.3.

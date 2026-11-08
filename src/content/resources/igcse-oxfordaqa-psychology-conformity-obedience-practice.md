@@ -108,8 +108,8 @@ They cover definitions, Asch's and Milgram's procedures and findings, social and
 **How should you structure a conformity or obedience answer?**
 Name the factor or theory, state whether it is social or dispositional, then explain the mechanism by which it has its effect. Check first whether the question is about conformity or obedience.
 
-**What is the difference between Agency theory and the Authoritarian Personality?**
-Agency theory is a social, situational explanation centred on the agentic state. Adorno's Authoritarian Personality is a dispositional explanation based on personality traits, often linked to a strict upbringing.
+**Why do precise definitions matter in conformity and obedience questions?**
+Mark schemes reward accurate use of specification vocabulary, so a precise one-sentence definition of terms such as "agentic state" scores better than a vague paraphrase.
 
 **What are common mistakes in conformity and obedience questions?**
 Students often treat conformity and obedience as the same process, name Asch or Milgram without describing the research, and give a vague paraphrase instead of a precise definition of terms such as "agentic state".
