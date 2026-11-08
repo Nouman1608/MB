@@ -163,6 +163,20 @@ She took 8,000 from the bank as drawings and goods that cost 600 for her own use
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Does a fall in equity always mean a loss?**
+No. Equity can fall because the owner took large drawings even when the business made a profit, so add back drawings and deduct capital introduced before concluding there was a loss.
+
+**How do you find total purchases from incomplete records?**
+Find credit purchases as the balancing figure in the trade payables control account, then add cash purchases from the bank or till summary. Using credit purchases alone leaves purchases understated.
+
+**Which expense figure goes in the income statement when records are incomplete?**
+Use the amount for the year, not the cash paid: adjust the cash paid for amounts owing and amounts paid in advance. Charging cash paid for rent or wages without these adjustments is a common error in Edexcel IGCSE Accounting (4AC1).
+
+**How can you check incomplete records statements?**
+Check that closing equity equals net assets in the statement of financial position. If they do not agree, a figure is missing or wrong.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1), Specification, Issue 1, October 2016, published by Pearson Education Limited. Topic 4: The preparation of financial statements, section 3 Incomplete records, points a) to c).

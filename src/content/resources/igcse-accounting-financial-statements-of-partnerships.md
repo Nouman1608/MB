@@ -352,6 +352,23 @@ In the statement of financial position, show each partner's capital and current 
 
 Try the [partnership practice questions](/resources/igcse-accounting-financial-statements-of-partnerships-practice/), then revise from the [revision notes](/resources/igcse-accounting-financial-statements-of-partnerships-revision-notes/). For the wider topic see the [Topic 5 revision notes](/resources/igcse-accounting-financial-statements-revision-notes/) and [practice](/resources/igcse-accounting-financial-statements-practice/).
 
+## Frequently asked questions
+
+**What does a partnership agreement usually include?**
+It usually sets out each partner's capital, the profit-sharing ratio (also used for losses), interest on capital, interest on drawings, partners' salaries, interest on partners' loans and how drawings may be taken. If a question gives no term for an item, do not invent one.
+
+**What is the purpose of a partnership appropriation account?**
+The appropriation account shows how the profit for the year is divided among the partners under the agreement. It starts from profit for the year and gives the figures posted to the partners' current accounts.
+
+**What is excluded from section 5.2 Partnerships in Cambridge IGCSE Accounting 0452?**
+The syllabus excludes questions on ending a partnership, altering the profit-sharing ratio and limited liability partnerships. Financial statements are also not prepared when a partner joins or leaves.
+
+**Why is interest on a partner's loan not in the appropriation account?**
+A partner's loan is a liability of the business, so its interest is a business expense deducted before profit for the year. Interest on capital and salaries are shares of profit, so they come after profit for the year.
+
+**What is the difference between a partner's capital account and current account?**
+The capital account records the long-term investment and normally stays the same unless capital is introduced or withdrawn. The current account collects interest, salary, the share of profit or loss, drawings and interest on drawings during the year.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1), Cambridge University Press & Assessment, section 5.2 Partnerships.

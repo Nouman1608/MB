@@ -247,6 +247,20 @@ Income works the same way. Rent receivable 6,000 received with 500 still owed gi
 - Leaving out the unit or the label on a balance, such as "c/d" or "b/f".
 - Naming a cause of depreciation without tying it to the asset described.
 
+## Frequently asked questions
+
+**What is depletion as a cause of depreciation?**
+Depletion applies to an asset that is used up as it is extracted, such as a quarry. Other causes of depreciation are wear and tear, obsolescence and the passage of time.
+
+**How is reducing balance depreciation calculated in the second year?**
+The percentage is applied to cost in the first year, then to cost less depreciation to date in later years. Applying the percentage to cost every year is a common mistake.
+
+**What does SPL mean in Edexcel IGCSE Accounting?**
+SPL stands for the statement of profit or loss, which the 4AC1 specification glossary treats as the modern name for the trading and profit and loss account. SFP stands for the statement of financial position.
+
+**Where does the provision for depreciation appear in the statement of financial position?**
+The asset account stays at cost, and the provision for depreciation, also called accumulated depreciation, is deducted from cost to show carrying value. The yearly charge goes to the statement of profit or loss.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited: Topic 5, sections 5.2 Depreciation, 5.3 Irrecoverable debts and 5.4 Other receivables and other payables.

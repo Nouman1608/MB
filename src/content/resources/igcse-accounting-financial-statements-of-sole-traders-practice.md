@@ -146,6 +146,20 @@ Allowance: remaining receivables 6,000; 3% = 180. **[10]**
 - Take the [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you explain unlimited liability in an exam answer?**
+Say what it means for the owner in the case given, for example that unpaid supplier debts could force the sale of the owner's private assets. Writing "unlimited liability" as a label alone does not earn the explanation mark.
+
+**What value is used for goods taken by the owner?**
+Goods taken for personal use are valued at cost, not selling price, and added to drawings. Valuing them at selling price is a common error in Cambridge IGCSE Accounting (0452) questions.
+
+**Where does a bank overdraft go in a sole trader's statement of financial position?**
+A bank overdraft is a current liability, not a current asset. Placing it among current assets is a common way to lose marks.
+
+**Why should workings be shown for adjusted figures?**
+Workings for each adjusted line, such as depreciation or the allowance for irrecoverable debts, show how the figure was reached, so method marks can still be earned if a later figure is wrong.
+
 ## Official syllabus
 
 Cambridge International Education, Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1), section 5.1 Sole traders.

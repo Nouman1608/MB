@@ -144,6 +144,20 @@ Links: [Edexcel IGCSE Accounting hub](/boards/edexcel/igcse/accounting/), [print
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which figure is the reducing balance percentage applied to in later years?**
+After the first year, the percentage is applied to the carrying value at the start of the year, not to the original cost. Applying it to cost every year, or deducting residual value first, are common errors in Edexcel IGCSE Accounting (4AC1) questions.
+
+**How do you explain the effect of a classification error on profit?**
+State whether profit is overstated or understated and by how much, rather than just saying it is wrong. Remember the depreciation effect: moving an item between expenses and an asset account also changes the depreciation charge.
+
+**What entries are made in a disposal account?**
+Debit the disposal account with the asset's cost, credit it with the accumulated depreciation and credit it with the sale proceeds. The balancing figure is the profit or loss on disposal, which should be labelled and taken to the income statement.
+
+**Does depreciation set cash aside to replace an asset?**
+No. Depreciation allocates the cost of a non-current asset over the years it is used; the cash left the business when the asset was bought. Describing it as saving money for a replacement loses marks.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 2, Introduction to bookkeeping, sections 2.4 and 2.5.

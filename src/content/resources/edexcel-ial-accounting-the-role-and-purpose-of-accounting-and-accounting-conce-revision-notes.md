@@ -262,6 +262,23 @@ IAS are agreed rules on recognising, measuring and presenting transactions. Bene
 - Using older terms such as stock, debtors, balance sheet and net book value.
 - Calculating a prepayment from the wrong number of months.
 
+## Frequently asked questions
+
+**What is the going concern concept?**
+Going concern assumes the business will continue trading for the foreseeable future, so assets are kept at their carrying value. If the business plans to close, a going concern basis is no longer suitable and assets may need to be valued at what they would sell for.
+
+**What is the business entity concept?**
+The owner and the business are treated as two separate parties, and the business books record business dealings only. Goods taken by the owner for personal use are drawings, not an expense, so profit is unaffected but capital falls.
+
+**What does the money measurement concept mean?**
+Only items that can be expressed in money are recorded in the accounts. Things such as staff skill, customer loyalty or reputation are left out because no reliable amount can be placed on them.
+
+**What are the five purposes of accounting information for managers?**
+Managers use accounting information for planning, controlling, decision making, assessing performance and safeguarding assets. Good answers tie each purpose to a real figure in the scenario.
+
+**Why does the consistency concept matter?**
+Using the same accounting policies from period to period lets results be compared. A change of policy is allowed for good reason, but its effect must be disclosed, because a change such as switching from FIFO to LIFO can alter profit with no change in trading.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018, published by Pearson Education Limited.

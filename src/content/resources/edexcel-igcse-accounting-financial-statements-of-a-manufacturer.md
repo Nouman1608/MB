@@ -271,6 +271,23 @@ Now a missing figure. Zeltham has a prime cost of 84,000, factory overheads of 3
 
 Condense this with the [revision notes](/resources/edexcel-igcse-accounting-financial-statements-of-a-manufacturer-revision-notes/), then work through the [practice questions](/resources/edexcel-igcse-accounting-financial-statements-of-a-manufacturer-practice/). The [course hub](/boards/edexcel/igcse/accounting/), [checklist](/checklists/edexcel/igcse/accounting/) and [diagnostics](/diagnostics/) show what to revise next.
 
+## Frequently asked questions
+
+**What are the three types of inventory a manufacturer holds?**
+A manufacturer holds raw materials, work-in-progress and finished goods. Raw materials and work-in-progress are adjusted in the manufacturing account, finished goods in the income statement, and all three closing figures are current assets.
+
+**What is the difference between prime cost, total cost and production cost?**
+Prime cost is raw materials consumed plus direct labour plus direct expenses. Total cost is prime cost plus factory overheads, and production cost is total cost plus opening work-in-progress minus closing work-in-progress.
+
+**What is the difference between direct costs and factory overheads?**
+Direct costs, such as direct materials, the wages of workers who make the goods and royalties per unit, can be traced to the goods made. Factory overheads, such as supervisors' wages, factory rent and depreciation of factory machinery, are needed to run the factory but cannot be traced to particular goods.
+
+**How do you calculate raw materials consumed?**
+Raw materials consumed is opening inventory of raw materials plus purchases plus carriage inwards, less returns outwards, less closing inventory of raw materials. It measures what was used in production, not what was bought.
+
+**Where does production cost go after the manufacturing account?**
+Production cost is carried to the income statement, where it takes the place of purchases in a trader's account. Finished goods inventory is then adjusted to find cost of sales.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 4: The preparation of financial statements, section 4.5 Financial statements of a manufacturer, points (a) and (b).

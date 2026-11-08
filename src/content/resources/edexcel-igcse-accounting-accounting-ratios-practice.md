@@ -165,6 +165,20 @@ Evaluate which customer is the safer choice for the supplier. **[8]**
 - Take the [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What base is used for return on capital employed?**
+ROCE uses capital employed as the base, so it measures how efficiently the money invested is used. Using revenue as the base is a common error, because revenue is the base for the gross profit and profit for the year percentages instead.
+
+**Which current liabilities are included in the current ratio?**
+Include all current liabilities, such as trade payables, other payables and any bank overdraft. Leaving out other payables, or adding non-current liabilities, gives the wrong ratio.
+
+**How is the acid test ratio different from the current ratio?**
+The acid test, or liquid ratio, takes inventory out of current assets before dividing by current liabilities, so it is the stricter measure. Leaving inventory in, or also removing trade receivables, loses marks in Edexcel IGCSE Accounting (4AC1).
+
+**How do you get full marks for commenting on ratios?**
+Use figures from the question to support each comment and give reasons that fit the data. Comments without figures, or reasons that conflict with the information given, are common ways to lose marks.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1), Specification, Issue 1, October 2016, published by Pearson Education Limited. Topic 4: The preparation of financial statements, section 4 "The calculation and interpretation of accounting ratios", points (a) to (c).

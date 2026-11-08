@@ -274,6 +274,20 @@ The last two lines agree, which is the check.
 - Showing a bare answer with no working, so a small slip cannot earn partial credit.
 - Writing figures in the wrong place on the statement of financial position, for example putting the provision on the liabilities side.
 
+## Frequently asked questions
+
+**How do you calculate cash sales from a till summary?**
+Cash sales equal everything that left the till (cash banked, wages, drawings and cash purchases paid from the till), plus the closing cash, minus the opening cash. Revenue is credit sales plus cash sales.
+
+**What is the accounting equation used in incomplete records?**
+Assets minus liabilities equals equity (capital). Listing assets and liabilities at two dates gives the equity at each date, and the change is explained by profit, drawings and new capital.
+
+**Should the provision for irrecoverable debts be included when valuing trade receivables?**
+Yes. Trade receivables in the statement of financial position are shown less the provision for irrecoverable debts, on the assets side. Forgetting the provision or putting it among liabilities loses marks.
+
+**Why should you show workings in an incomplete records answer?**
+Incomplete records questions build each figure from several steps, so clear workings let a small slip still earn partial credit. A bare answer with no working cannot.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1), Specification, Issue 1, October 2016, published by Pearson Education Limited. Topic 4: The preparation of financial statements, section 3 Incomplete records, points a) to c).

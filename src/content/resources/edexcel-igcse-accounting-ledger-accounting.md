@@ -215,6 +215,23 @@ For each transaction, name the account debited and the account credited.
 
 Test yourself with the [ledger accounting practice set](/resources/edexcel-igcse-accounting-ledger-accounting-practice/), revise with the [revision notes](/resources/edexcel-igcse-accounting-ledger-accounting-revision-notes/), tick off topics on the [checklist](/checklists/edexcel/igcse/accounting/), and try a [free diagnostic](/diagnostics/). The [course hub](/boards/edexcel/igcse/accounting/) lists the rest of the course.
 
+## Frequently asked questions
+
+**What are the three ledgers in Edexcel IGCSE Accounting?**
+The 4AC1 specification uses the nominal ledger, the receivables ledger and the payables ledger. Customer accounts go in the receivables ledger, supplier accounts in the payables ledger, and all other accounts, such as sales, purchases, expenses, capital, bank and cash, in the nominal ledger.
+
+**How do you decide which side of a ledger account to use?**
+Ask which two accounts are affected and whether each is increasing or decreasing. Assets and expenses increase on the debit side, while liabilities, capital and income increase on the credit side.
+
+**What goes in the details column of a ledger account?**
+The details column names the other account in the double entry, never the account you are writing in. Writing the account's own name is a common error.
+
+**How do you balance a ledger account?**
+Add each side, write the larger total on both sides level with each other, and put the difference on the smaller side as Balance c/d. Then bring it down on the opposite side, dated the next day, as Balance b/d.
+
+**What does a credit balance on the bank account mean?**
+Bank is normally an asset with a debit balance, meaning money is held. A credit balance on the bank account means the account is overdrawn.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 2 Introduction to bookkeeping, section 2.3 Ledger accounting, points 2.3a and 2.3b.

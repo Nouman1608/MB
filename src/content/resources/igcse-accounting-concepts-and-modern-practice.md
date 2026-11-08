@@ -14,10 +14,12 @@ syllabusTopics:
     topic: "accounting-concepts-and-modern-practice"
   - qualification: "o-level"
     topic: "accounting-concepts-and-modern-practice"
-description: "The ten accounting concepts and how they are applied in the records, the ethical framework and its five fundamental principles, and digital records and safe, sustainable data storage, for Cambridge IGCSE Accounting (0452) Topic 7, 2027-2029 syllabus."
+description: "Cambridge IGCSE Accounting 0452 Topic 7 guide: applying the ten concepts in the records, the five ethical principles, digital records and safe data storage."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-16
 featured: false
@@ -372,6 +374,23 @@ records.
 and the risks if it is not.
 - Give advantages and disadvantages of manual storage, data storage
 devices, cloud services and other digital services.
+
+## Frequently asked questions
+
+**Why do historic cost and going concern work together?**
+Showing a non-current asset at cost less depreciation only makes sense if the business is expected to keep using it. A fall in an asset's market value is not a reason to abandon historic cost while the business continues to trade.
+
+**What is the difference between integrity and objectivity?**
+Integrity means being straightforward and honest, for example not recording sales that did not happen. Objectivity means not letting bias, a conflict of interest or pressure from others override professional judgement.
+
+**What happens to stakeholders when accountants ignore the ethical framework?**
+Owners, lenders, suppliers, employees and tax authorities all decide from accounting information. If it is misleading, loans may not be repaid, suppliers may go unpaid, jobs can be lost, less tax is collected and trust in financial information is damaged.
+
+**What are the risks of not storing accounting data safely?**
+Risks include data loss through fire, theft, device failure or deletion, unauthorised access or fraud, penalties for failing to keep records, the cost of rebuilding records and damage to reputation. Unsustainable storage also wastes paper, energy and devices.
+
+**Does materiality allow errors to be ignored?**
+No. Materiality only allows items of small value, which would not affect a user's view of the statements, to be treated more simply, such as charging a low-cost bin to expenses in the year it is bought.
 
 ## Official syllabus
 

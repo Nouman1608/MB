@@ -189,6 +189,20 @@ Costs and prices are per unit.
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How do you answer a question that asks you to name an accounting concept?**
+Name the concept, apply it to the scenario and say what it does to profit or to the statement of financial position. Defining a concept without applying it to the business in the question loses marks.
+
+**Is a customer deposit treated as revenue?**
+No. Under the realisation concept, revenue is recognised only when the goods or services are provided, so a deposit received before delivery is a liability. Treating it as revenue is a common error.
+
+**How do you decide whether an item is material?**
+An item is material if a user might decide differently because it was left out or wrong. Support your answer with a comparison, for example the item as a percentage of revenue or profit, rather than simply stating that it is material or immaterial.
+
+**Which terms should you use in Edexcel IAL Accounting answers?**
+The specification says examiners use IAS terms throughout Unit 1 and Unit 2, so use terms such as inventory, trade receivables and carrying value. Older terms such as stock, debtors and net book value should be avoided.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018, published by Pearson Education Limited.

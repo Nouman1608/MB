@@ -186,6 +186,20 @@ Start with 42,300 [1]; rent decreases profit [1]; insurance prepaid increases it
 - Try all the free 10-minute [diagnostics](/diagnostics/).
 - Book a free trial class: [/trial/](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate an expense charge with accruals and prepayments?**
+Start with the amount paid in the year, add the closing accrual and subtract the opening accrual; for prepayments, add the opening prepayment and subtract the closing one. Ignoring the opening accrual or prepayment is a common way to lose marks in Edexcel IAL Accounting (YAC11) questions.
+
+**What goes through the statement of profit or loss for an allowance for irrecoverable debts?**
+Only the change in the allowance goes through the statement of profit or loss: an increase is an expense and a decrease adds to profit. Write off irrecoverable debts first, then calculate the new allowance on the remaining trade receivables.
+
+**Where do discount allowed and discount received go in the cash book?**
+In a three-column cash book, discount allowed sits on the debit (left) side and discount received on the credit (right) side, beside the cash and bank columns. The discount columns are not part of the cash or bank balance.
+
+**What does ICT not detect in the double entry system?**
+Accounting software completes the double entry automatically, but it cannot spot an amount keyed in wrongly or posted to the wrong account, because both sides still agree. Answers about ICT should say which errors it cannot detect.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11), Specification, Issue 2, September 2018, Unit 1, topic 1.1 content points 1.1.3 to 1.1.7.

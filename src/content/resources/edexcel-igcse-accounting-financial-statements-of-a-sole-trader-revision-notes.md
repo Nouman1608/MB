@@ -251,6 +251,19 @@ When expenses exceed gross profit plus other income, the result is a loss for th
   <figcaption>Only some items are expenses: repayments, asset purchases and drawings are not.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is working capital?**
+Working capital is current assets less current liabilities. Adding it to non-current assets and deducting non-current liabilities gives net assets, which must equal equity.
+
+**How is a non-current asset shown in the statement of financial position?**
+Show the asset at cost, less accumulated depreciation, to give the carrying amount. Accumulated depreciation includes previous years' depreciation as well as this year's charge.
+
+**What happens to equity when a sole trader makes a loss?**
+A loss for the year is deducted from opening capital, along with drawings, so equity falls. Adding a loss to capital is a common error.
+
+**Why do closing inventories appear in both financial statements?**
+Closing inventories are deducted in cost of sales in the income statement and listed as a current asset in the statement of financial position. They should not be used at the start of cost of sales, which begins with opening inventories.
 
 ## Official syllabus
 

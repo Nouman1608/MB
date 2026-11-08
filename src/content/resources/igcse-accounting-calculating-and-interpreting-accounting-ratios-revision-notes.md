@@ -248,6 +248,20 @@ Also: accruals, prepayments and irrecoverable debts move profit without matching
 - Giving advice that does not fit the weak ratio.
 - Treating a rise in days as an improvement.
 
+## Frequently asked questions
+
+**What is capital employed for a limited company?**
+Capital employed is issued shares plus reserves plus non-current liabilities, where reserves include a general reserve and retained earnings. As a check, it equals total assets less current liabilities.
+
+**What can change gross profit?**
+Gross profit can change because of the valuation of inventory, the quantity sold and changes in selling or purchase prices. An overvalued closing inventory inflates gross profit, while selling more units raises gross profit but not the margin.
+
+**Is a rise in trade receivables days an improvement?**
+No. A rise means customers are taking longer to pay, which ties up cash. Compare the days with the credit period the business allows.
+
+**What does a steady gross profit margin with a falling profit margin show?**
+It points to expenses rising faster than revenue, because the trading result before expenses is unchanged. A falling gross profit margin would instead point to prices, purchase costs or inventory.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting syllabus (0452, version 1) for exams in 2027, 2028 and 2029, published by Cambridge University Press & Assessment: sections 6.1 and 6.2 and the Accounting ratios list.

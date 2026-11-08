@@ -240,6 +240,20 @@ Purchases = 36,400 + 3,150 - 2,800 = 36,750
 - Not checking that the two profit figures agree.
 - Unlabelled workings, so one slip hides every correct method step.
 
+## Frequently asked questions
+
+**What is the formula for profit from changes in capital?**
+Profit equals closing capital minus opening capital, plus drawings, minus capital introduced. A negative answer is a loss.
+
+**How should the allowance for irrecoverable debts appear in a statement of affairs?**
+Net the allowance against trade receivables on the assets side, so the receivables figure shows what the business expects to collect.
+
+**Is capital introduced shown as income?**
+No. Capital introduced by the owner increases capital, not income, so it is not shown in the statement of profit or loss and is deducted when finding profit from changes in capital.
+
+**How can you check an incomplete records answer?**
+Compare the profit from the statement of profit or loss with the profit found from changes in capital; the two should agree. Labelled workings make any slip easier to find.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for 2027, 2028 and 2029 (version 1), Cambridge University Press & Assessment, section 5.6 and the Accounting ratios list.

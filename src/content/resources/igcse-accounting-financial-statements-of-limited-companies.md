@@ -349,6 +349,23 @@ Section 5.3 points back to the 5.1 list. Treatment is the same in a company.
 - Leaving unpaid debenture interest out of other payables.
 - Using opening retained earnings in the statement of financial position.
 
+## Frequently asked questions
+
+**What is limited liability in Cambridge IGCSE Accounting 0452?**
+Limited liability caps a shareholder's loss at the amount invested in the company's shares. If the company fails owing more than its assets raise, a shareholder with fully paid shares loses the investment and nothing more.
+
+**What is the difference between issued, called-up and paid-up share capital?**
+Issued share capital is the number of shares issued multiplied by their nominal value. Called-up capital is the part of that value the company has asked for, and paid-up capital is the called-up amount actually received.
+
+**Where are dividends shown in limited company accounts?**
+Dividends paid are shown in the statement of changes in equity, never in the statement of profit or loss. A dividend can still be paid in a loss year from earlier profits held in retained earnings.
+
+**What is the difference between ordinary shares and debentures?**
+Ordinary shareholders own the company and receive dividends only if the directors decide to pay them. Debentures are loan capital: the interest is a finance cost that must be paid whatever the profit, and debentures are shown under non-current liabilities.
+
+**What are the three financial statements of a limited company?**
+They are the statement of profit or loss, which deducts finance costs to reach profit for the year, the statement of changes in equity, and the statement of financial position, whose equity section copies the closing line of the statement of changes in equity.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for examination in 2027, 2028 and 2029 (Version 1), section 5.3 Limited companies, Cambridge International.

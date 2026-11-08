@@ -292,6 +292,22 @@ Shrink this page to recall cards with the [revision notes](/resources/edexcel-ia
   <figcaption>The break-even point is where revenue meets total costs, and the margin of safety is the distance beyond it.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**How do you calculate earnings per share in Edexcel IAL Accounting?**
+Earnings per share is net profit after tax less preference share dividends, divided by the number of issued ordinary shares. Count shares rather than dollars: ordinary share capital of 3,000,000 in shares of 0.50 each is 6,000,000 shares.
+
+**Are the investment ratio formulae given in the YAC11 exam?**
+No. Appendix 7 of the Edexcel IAL Accounting specification says its formulae are not given in the examinations, so you must learn EPS, P/E, dividend per share, dividend yield, dividend cover and company ROCE.
+
+**What does a high price earnings ratio mean?**
+A high P/E means investors are paying many times this year's earnings for a share, usually because the market expects profits to grow or sees the company as low risk. A low P/E may signal a bargain or a warning, so it needs to be read alongside other ratios.
+
+**What is capital employed for a limited company?**
+For a company, capital employed is issued share capital plus reserves plus non-current liabilities. Issued shares include preference shares, and reserves include share premium, revaluation, general reserve and retained earnings.
+
+**Why does a bonus issue reduce earnings per share?**
+A bonus issue increases the number of ordinary shares without bringing in cash or changing earnings, so the same earnings are shared across more shares. EPS comparisons over time must allow for changes in the number of shares.
 
 ## Official syllabus
 

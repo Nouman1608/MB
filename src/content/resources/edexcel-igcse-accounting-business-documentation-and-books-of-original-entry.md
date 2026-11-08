@@ -307,6 +307,23 @@ Every entry balances: debits equal credits. The first entry is not in the purcha
 - Forgetting to restore the float, or reimbursing a different amount from the total spent.
 - Leaving the narrative out of a journal entry.
 
+## Frequently asked questions
+
+**What is the difference between an invoice and a statement of account?**
+An invoice shows one transaction, while a statement lists the whole account in date order and ends with the balance still due. The same invoice is a purchase invoice to the buyer and a sales invoice to the seller.
+
+**Why do businesses use books of original entry in Edexcel IGCSE Accounting?**
+Books of original entry record each transaction first, in date order, from its source document. They keep similar transactions together so totals can be posted to the ledger in one entry, give a permanent first record and make errors easier to trace.
+
+**Does a cash sale go in the sales day book?**
+No. Only credit transactions go in the day books; cash sales and cash purchases are recorded in the cash book. Putting a cash sale in the sales day book is a common error.
+
+**Is trade discount shown in the day books?**
+No. Trade discount is deducted on the invoice, so day books record the net amount after trade discount. A credit note for returns must use the same price and discount as the original invoice.
+
+**What is the journal used for?**
+The journal records any transaction that fits none of the other books, such as buying non-current assets on credit, opening entries, writing off irrecoverable debts and correcting errors. Each entry shows the date, the accounts debited and credited, the amounts and a narrative.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 2 Introduction to bookkeeping, sections 2.1 Business documentation and 2.2 Books of original entry.

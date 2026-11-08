@@ -269,6 +269,20 @@ Debts and recovery [1]; allowance [1]; electricity [1]; insurance [1]; corrected
 - Try all the free [diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Is the cash paid for an expense the amount in the statement of profit or loss?**
+No. The expense for the year is the cash paid adjusted for amounts owing and prepaid at the start and end of the year. Using cash paid or received as the expense or income is a common error in Cambridge IGCSE Accounting (0452) questions.
+
+**Are prepayments and accrued income debit or credit balances?**
+Prepaid expenses and accrued income are amounts owed to the business, so they are brought down as debit balances and shown as other receivables. Accrued expenses and income received in advance are credit balances and other payables.
+
+**In what order are irrecoverable debts and the allowance calculated?**
+Write off irrecoverable debts first, then calculate the allowance on the remaining trade receivables and charge only the change in the allowance. A fall in the allowance is credited to the statement of profit or loss, not treated as an expense.
+
+**How do you record an irrecoverable debt that is later recovered?**
+First reinstate the debt in the customer's account, then record the cash received from the customer. Leaving out the reinstating entry is a common way to lose marks.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1), published by Cambridge University Press and Assessment (Cambridge International), sections 4.3 and 4.4.

@@ -185,6 +185,20 @@ Profit and depreciation [1]; oven [1]; inventory, receivables and payables chang
 - Try the [Analysis and interpretation practice questions](/resources/igcse-accounting-analysis-practice/) and [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How is the current ratio presented in Cambridge IGCSE Accounting (0452)?**
+The current ratio and acid test are ratios, not percentages, so write them in the form 2.66 : 1. Giving them as a percentage, or without the "to 1", loses marks.
+
+**Why is interest added back to profit for ROCE?**
+Capital employed includes non-current liabilities such as loans, so the interest paid to those lenders is added back to profit for the year. Leaving interest deducted understates ROCE.
+
+**How do you make a recommendation from ratio analysis?**
+Match each suggestion to the weak ratio and say what it should change, for example collecting from customers within the credit period to reduce trade receivables days. A recommendation that does not match the weak ratio earns little credit.
+
+**How many decimal places should ratio answers have?**
+Give ratios to 2 decimal places unless the question says otherwise, with the correct unit such as %, times, days or : 1.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting syllabus (0452, version 1) for exams in 2027, 2028 and 2029, published by Cambridge University Press & Assessment (sections 6.1 and 6.2).

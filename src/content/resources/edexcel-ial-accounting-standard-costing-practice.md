@@ -159,6 +159,20 @@ Budgeted output was 1,500 benches. Actual output in the period was 1,560 benches
 - Every free 10-minute [diagnostic](/diagnostics/)
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate a material price variance and a usage variance?**
+The price variance compares the standard and actual price on the actual quantity used, and the usage variance compares the standard and actual quantity valued at standard price. Valuing the usage variance at actual price, or the price variance on standard quantity, loses marks.
+
+**How can you check your variance answers in Edexcel IAL Accounting (YAC11)?**
+Add the variances, netting favourable against adverse, and compare the total with standard cost of actual output minus actual cost. If the two figures disagree, a variance is wrong or mislabelled.
+
+**How do you explain the reasons for a variance?**
+Give a reason that matches the direction of the variance, such as higher-grade material for an adverse price variance. Where the scenario shows a linked cause, such as cheap material leading to more waste, explain the variances together rather than one at a time.
+
+**What labour variances are examined in standard costing?**
+Labour is split into a rate variance, which compares actual and standard wage rates on actual hours, and an efficiency variance, which compares actual and standard hours for actual output at the standard rate. More skilled, higher-paid staff often give an adverse rate variance but a favourable efficiency variance.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018 (first teaching September 2015), Pearson Education Limited. Unit 2: Corporate and Management Accounting, topic 2.5 Standard costing.

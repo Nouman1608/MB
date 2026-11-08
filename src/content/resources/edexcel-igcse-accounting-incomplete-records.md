@@ -292,6 +292,23 @@ Closing equity equals net assets, so the work is internally consistent. If it do
 
 Condense this with the [revision notes](/resources/edexcel-igcse-accounting-incomplete-records-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-igcse-accounting-incomplete-records-practice/). Tick off what you can do on the [checklist](/checklists/edexcel/igcse/accounting/) and try the [diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What are incomplete records in Edexcel IGCSE Accounting?**
+Incomplete records are kept by a business that does not use a full double-entry system, so it may have only bank statements, till summaries, some invoices and a list of assets and liabilities. Missing figures are rebuilt using the accounting equation and control accounts.
+
+**How do you calculate profit from opening and closing equity?**
+Profit for the year equals the increase in equity, plus drawings, minus any capital introduced. A negative answer is a loss, and the method gives profit only, not revenue or expenses.
+
+**How do you find credit sales using a trade receivables control account?**
+Credit sales are the balancing figure in the trade receivables control account. Put opening receivables and credit sales on the debit side, and receipts, discount allowed, irrecoverable debts, sales returns and closing receivables on the credit side.
+
+**What is the difference between margin and mark-up?**
+Mark-up is gross profit as a percentage of cost of sales, while margin is gross profit as a percentage of revenue. For example, a 25% mark-up on a cost of sales of 36,000 gives gross profit of 9,000, revenue of 45,000 and a margin of 20%.
+
+**How are goods taken by the owner treated in incomplete records?**
+Reduce purchases by the cost of the goods taken and treat the same amount as drawings. They are not a business expense.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1), Specification, Issue 1, October 2016, published by Pearson Education Limited. Topic 4: The preparation of financial statements, section 3 Incomplete records, points a) to c).

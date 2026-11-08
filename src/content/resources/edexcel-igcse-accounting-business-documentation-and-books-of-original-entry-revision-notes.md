@@ -255,6 +255,20 @@ Mini example, opening journal: bank 5,000.00, motor van 7,500.00 and inventory 1
 - Omitting the narrative in a journal entry, or making debits and credits unequal.
 - Writing totals without checking them against the source documents.
 
+## Frequently asked questions
+
+**What is a credit note?**
+A credit note is issued by a seller when goods are returned or overcharged, and it reduces the amount the buyer owes. It is the source document for the returns books.
+
+**What is a remittance advice?**
+A remittance advice is sent by a buyer with a payment to show which invoices are being paid. One that does not name the invoices paid makes it hard for the seller to match the payment.
+
+**Which side of the cash book is discount allowed on?**
+Discount allowed to customers is recorded on the debit (receipts) side of the three-column cash book, and discount received from suppliers on the credit (payments) side. Mixing up the two sides is a common error.
+
+**What is a petty cash voucher?**
+A petty cash voucher records one small payment from petty cash and is signed by the person authorising it. Vouchers are numbered and entered in the petty cash book, with each payment placed in the right analysis column.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 2 Introduction to bookkeeping, sections 2.1 Business documentation and 2.2 Books of original entry.

@@ -177,6 +177,20 @@ Starting balance [1]; debit 350 [1]; credit 2,840, twice 1,420 [1]; credit 600 [
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which errors should go through the suspense account?**
+Only errors that make the trial balance disagree, such as one-sided entries or wrong amounts on one side, go through suspense. Errors that leave the trial balance agreeing, such as omission or commission, are corrected by journal without suspense.
+
+**How do you answer an error-type question in Edexcel IAL Accounting (YAC11)?**
+Name the type of error, describe it in words because the specification does not name the types, and state whether the trial balance still agrees. Giving an error name without saying whether the trial balance agrees loses marks.
+
+**Why is a debit posted on the credit side out by twice the amount?**
+The entry is missing from the debit side and added to the credit side, so the difference between the totals is double the figure. The correction must reflect the doubled effect.
+
+**Do you correct the control account for an error in the list of balances?**
+No. A control account and the list of individual balances can each be wrong for different reasons, and each is corrected on its own. Correcting the control account for an error that only sits in the list is a common mistake.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018, first teaching September 2015 (Pearson Education Limited). Unit 1, topic 1.2: outcomes 1.2.1, 1.2.2 and 1.2.5 to 1.2.9.

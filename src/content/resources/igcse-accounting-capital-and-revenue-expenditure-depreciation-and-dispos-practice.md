@@ -169,6 +169,20 @@ Vehicles account entries and balance [2]; provision account: transfer 9,000 [1],
 - Review the [revision notes](/resources/igcse-accounting-capital-and-revenue-expenditure-depreciation-and-dispos-revision-notes/) and the [study guide](/resources/igcse-accounting-capital-and-revenue-expenditure-depreciation-and-dispos/).
 - Find your weakest topic with the [free diagnostics](/diagnostics/), or [book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you calculate depreciation for part of a year?**
+Follow the policy the question states. If depreciation is charged for each complete month owned, multiply the annual charge by the number of months the asset was held, for example 9/12 for an asset sold on 1 October.
+
+**Where do the proceeds from selling a non-current asset go?**
+The proceeds are credited to the disposal account, not to sales. The disposal account is also debited with the asset's cost and credited with its accumulated depreciation, and the balancing figure is the profit or loss on disposal.
+
+**What are common errors in depreciation questions in Cambridge IGCSE Accounting (0452)?**
+Common errors include applying reducing balance to cost every year, comparing proceeds with cost instead of net book value, and leaving the sold asset's depreciation in the provision account. Ignoring a stated full-year or part-year policy also loses marks.
+
+**Are legal costs of buying an asset capital expenditure?**
+Yes. Costs of acquiring an asset and getting it ready for use, such as delivery, installation and legal costs, are capital expenditure added to the asset's cost. Repairs and maintenance are revenue expenditure.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1), Cambridge University Press & Assessment: sections 4.1 and 4.2.

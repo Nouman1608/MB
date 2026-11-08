@@ -129,6 +129,20 @@ Links: [Edexcel IGCSE Accounting course hub](/boards/edexcel/igcse/accounting/),
 
 Use the [revision notes](/resources/edexcel-igcse-accounting-ledger-accounting-revision-notes/), the [study guide](/resources/edexcel-igcse-accounting-ledger-accounting/), tick off the [checklist](/checklists/edexcel/igcse/accounting/), explore the [course hub](/boards/edexcel/igcse/accounting/) and try the [free 10-minute diagnostics](/diagnostics/). [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you record a credit sale in the ledger?**
+Debit the customer's account in the receivables ledger, because the customer now owes the business, and credit the sales account. When the customer pays, debit bank or cash and credit the customer.
+
+**How do you record a credit purchase from a supplier?**
+Debit purchases, which is an expense, and credit the supplier's account in the payables ledger, because the business owes the supplier. A payment to the supplier debits the supplier and credits bank.
+
+**Why are receipts of money debited to the bank account?**
+Bank and cash are assets, so money coming in increases them and is a debit, while money going out is a credit. Crediting receipts to bank or cash is a common error in Edexcel IGCSE Accounting (4AC1) questions.
+
+**How should you explain the purpose of a ledger?**
+Say what the ledger holds and why a business uses it, for example that the receivables ledger shows how much each customer owes so the business can chase payment. A definition with no reason loses marks.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 2 Introduction to bookkeeping, section 2.3 Ledger accounting, points 2.3a and 2.3b.

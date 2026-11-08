@@ -172,6 +172,20 @@ Opening 300 credit [1], bank 4,800 [1], 400 owed carried down on the credit side
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**In what order do you calculate the provision for irrecoverable debts?**
+First write off the known irrecoverable debts, then take the provision as a percentage of the trade receivables that remain, compare it with the opening provision and record only the difference. Calculating the provision before the write-offs gives too large a figure.
+
+**How do you calculate income earned when rent is still owed to the business?**
+Add the amount still owed to the business at the year end to the cash received, and take away any income received in advance. The amount owed is an other receivable.
+
+**What should you include when a question asks for a definition with an example?**
+Give the definition and a relevant example, such as electricity owed at the year end for an other payable or insurance paid in advance for an other receivable. A definition alone does not earn the example mark.
+
+**Where does a closing accrual go in an expense account?**
+A closing accrual is carried down on the debit side so the account shows a credit balance brought down, which is a liability. It appears under other payables in current liabilities.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 2: Introduction to bookkeeping, sections 2.6 Irrecoverable debts and 2.7 Other receivables and other payables. First assessment: June 2019.

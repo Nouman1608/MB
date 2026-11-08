@@ -266,6 +266,23 @@ A customer who overpays has a credit balance in the receivables ledger. The cont
 
 Work through the [revision notes](/resources/edexcel-igcse-accounting-trial-balance-and-control-accounts-revision-notes/), then try the [practice questions](/resources/edexcel-igcse-accounting-trial-balance-and-control-accounts-practice/). Use the [4AC1 course hub](/boards/edexcel/igcse/accounting/) and the [checklist](/checklists/edexcel/igcse/accounting/) to track coverage.
 
+## Frequently asked questions
+
+**What is the purpose of a trial balance in Edexcel IGCSE Accounting?**
+A trial balance checks the arithmetical accuracy of the double entry, supplies the figures for the financial statements and helps locate errors. It lists every ledger balance at one date, with debit balances on the left and credit balances on the right.
+
+**Why is opening inventory, not closing inventory, in the trial balance?**
+Closing inventory is counted at the year end and dealt with in the financial statements, so the inventory figure in the ledger is the opening balance. Unless the question gives closing inventory as a ledger balance, it does not appear in the trial balance.
+
+**What is a control account?**
+A control account is a summary account for a whole ledger, built from the totals of the books of original entry. Its closing balance is compared with the total of the individual customer or supplier balances to check the ledger.
+
+**Which side does a dishonoured cheque go on in a trade receivables control account?**
+A dishonoured cheque goes on the debit side, because the customer owes the money again. Entries that increase what customers owe are debits and entries that reduce it are credits.
+
+**What is left out of a control account?**
+Cash sales and cash purchases, sales or purchases of non-current assets, depreciation and other expenses, and the provision for irrecoverable debts stay out. Only irrecoverable debts actually written off are included.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 3 Introduction to control processes, sections 3.1 Trial balance and 3.2 Control accounts.

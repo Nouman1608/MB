@@ -177,6 +177,20 @@ Other information:
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to find the next gap.
 - [Book a free trial class](/trial/) for help with the hardest questions.
 
+## Frequently asked questions
+
+**How do you calculate subscription income for a club?**
+Use a subscriptions account to adjust the cash received for opening and closing arrears and advance payments; subscription income is the balancing figure. Using the cash received as income without these adjustments is a common error.
+
+**How is an irrecoverable subscription treated?**
+Subscriptions that will never be paid are written off and shown as expenditure in the income and expenditure account. They should not also be deducted from subscription income.
+
+**How do you find purchases for a club café?**
+Purchases equal the cash paid for supplies plus closing trade payables minus opening trade payables. Using cash paid alone as purchases is a common mistake in Cambridge IGCSE Accounting (0452) questions.
+
+**What words should be used for a club's result?**
+A club makes a surplus when income exceeds expenditure and a deficit when expenditure exceeds income. Calling the result a profit or loss, or the accumulated fund capital, loses marks when the question expects club terminology.
+
 ## Official syllabus
 
 Source: Cambridge IGCSE Accounting 0452 syllabus for 2027, 2028 and 2029 (version 1), Cambridge University Press & Assessment, section 5.5. Names and amounts are invented.

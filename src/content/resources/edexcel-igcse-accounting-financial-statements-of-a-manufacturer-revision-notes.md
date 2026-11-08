@@ -216,6 +216,20 @@ A short explanation question usually needs a definition plus a use. For example:
 - Leaving depreciation of factory machinery out of the overheads.
 - Showing only one or two of the three inventories in current assets.
 
+## Frequently asked questions
+
+**How is work-in-progress valued?**
+Work-in-progress is valued at the cost put in so far: the materials used, the wages of workers who handled it and a share of factory overheads. A half-made item is therefore worth more than its materials alone.
+
+**Does carriage outwards go in the manufacturing account?**
+No. Carriage outwards is the cost of delivering to customers, so it is an expense in the income statement. Carriage inwards adds to the cost of raw materials in the manufacturing account.
+
+**Is depreciation of factory machinery a factory overhead?**
+Yes. Depreciation of factory machinery and buildings is a factory overhead in the manufacturing account. Depreciation of office equipment goes in the income statement instead.
+
+**How should the manufacturing account totals be shown?**
+Show prime cost, total cost and production cost as separate, clearly labelled lines. If a question prints its own layout, follow its labels and order exactly.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 4: The preparation of financial statements, section 4.5 Financial statements of a manufacturer, points (a) and (b).

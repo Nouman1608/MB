@@ -228,6 +228,20 @@ Suppose the accounts of a company leave out each item below. Each line is indepe
 - Statements that do not balance because an adjustment is used once instead of twice.
 - Evaluation answers that list advantages without linking them to the business described.
 
+## Frequently asked questions
+
+**What is equity in a limited company?**
+Equity is the shareholders' stake, equal to total assets minus total liabilities. It is made up of share capital and reserves, such as a general reserve and retained earnings.
+
+**What types of limited company are there?**
+A trading company buys and sells goods, a service company sells skills and has no cost of sales, a manufacturing company makes what it sells, and a combination does more than one of these. The type decides how the statement of profit or loss starts.
+
+**Which retained earnings figure goes in the statement of financial position?**
+Use the closing retained earnings from the statement of changes in equity, after profit, transfers and dividends. Using the opening figure is a common error.
+
+**Why might the statement of financial position not balance?**
+A common cause is using an adjustment only once instead of twice, for example including an accrual in an expense but leaving it out of other payables. Each adjustment affects both statements.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for examination in 2027, 2028 and 2029 (Version 1), section 5.3 Limited companies, Cambridge International.

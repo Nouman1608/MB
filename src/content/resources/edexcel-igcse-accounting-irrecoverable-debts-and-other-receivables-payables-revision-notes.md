@@ -242,6 +242,20 @@ A first-year provision, for example 3% of 20,000 of trade receivables with no op
 - Leaving out a label or heading on a closing balance, so the reader cannot tell what it represents.
 - Totalling a ledger account without checking both sides agree.
 
+## Frequently asked questions
+
+**What is the formula for an expense in the income statement?**
+The expense for the year is the cash paid, plus the closing accrual, minus the opening accrual, plus the opening prepayment, minus the closing prepayment. For income, add amounts owed to the business and take away income received in advance.
+
+**Is a prepayment an asset or a liability?**
+A prepayment is an other receivable, so it is a current asset. An accrual is an other payable, a current liability.
+
+**Is the provision for irrecoverable debts applied to other receivables?**
+No. The provision relates only to trade receivables, so the percentage should not be applied to other receivables.
+
+**What happens if there was no opening provision for irrecoverable debts?**
+If the business had no provision before, the whole new provision is the charge to the income statement. If the required provision equals the opening balance, no entry is made.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 2: Introduction to bookkeeping, sections 2.6 Irrecoverable debts and 2.7 Other receivables and other payables. First assessment: June 2019.

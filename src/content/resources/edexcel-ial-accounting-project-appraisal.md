@@ -326,6 +326,23 @@ formulae on one page and ten short recall questions. After that, work through th
 [practice questions](/resources/edexcel-ial-accounting-project-appraisal-practice/). Check your gaps
 with the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What is the difference between discounted and non-discounted project appraisal methods?**
+In Edexcel IAL Accounting, NPV, the weighted average cost of capital, the profitability index and IRR are the discounted methods, and ARR and payback are the non-discounted methods. The difference is whether the method allows for the time value of money.
+
+**What is the decision rule for net present value?**
+Accept a project if its NPV is positive, because it earns more than the cost of capital, and reject it if NPV is negative. Between two projects that exclude each other, choose the one with the higher NPV.
+
+**How do you calculate IRR by interpolation?**
+Find one discount rate giving a positive NPV and one giving a negative NPV, then use IRR = L + [NPV at L ÷ (NPV at L − NPV at H)] × (H − L). Because NPV at H is negative, the denominator adds the sizes of the two NPVs; the result is an estimate.
+
+**Is depreciation included in project appraisal cash flows?**
+Depreciation is not a cash flow, so it is left out of NPV, IRR and payback calculations. The average rate of return is different because it uses profit, so depreciation is charged there.
+
+**What should you do if NPV and IRR give different answers?**
+When NPV and IRR disagree between projects that exclude each other, follow NPV, because it measures the increase in value in money terms. Evaluation answers should also weigh non-financial factors such as the workforce, environment and reliability of forecasts.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11)

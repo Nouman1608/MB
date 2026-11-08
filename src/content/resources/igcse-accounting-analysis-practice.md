@@ -14,10 +14,12 @@ syllabusTopics:
     topic: "analysis-and-interpretation"
   - qualification: "o-level"
     topic: "analysis-and-interpretation"
-description: "Exam-style questions with full worked answers on calculating and interpreting the ten accounting ratios, profit and cash, inter-business comparison, interested parties and the limitations of accounting statements, including a 20-mark structured question, for Cambridge IGCSE Accounting (0452) Topic 6, 2027-2029 syllabus."
+description: "Exam-style practice with worked answers on the ten ratios, profit versus cash, comparison, users and limitations for Cambridge IGCSE Accounting 0452 Topic 6."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-16
 featured: false
@@ -423,3 +425,17 @@ revealed. Finally, remember that ratios are only as reliable as the
 statements behind them: historic cost, accounting policies and
 non-financial aspects are the syllabus's three limitations, and they
 are often the best way to finish an evaluation.
+
+## Frequently asked questions
+
+**How should you set out a ratio answer in Cambridge IGCSE Accounting 0452?**
+Show the formula or the figures substituted into it, give the answer to 2 decimal places, and add the correct unit: %, times, days, or a ratio such as 0.97 : 1. Use only the syllabus's own formulas, which are the only ones accepted.
+
+**How do you answer a "compare" or "comment" question on ratios?**
+Name the ratio, give both figures, say whether it improved or worsened and give a reason from the scenario, such as price cuts or slower-paying customers. Paper 2 questions are based on stimulus material, so tie each point to it.
+
+**What makes a good recommendation in a ratio question?**
+A recommendation should fix the specific weakness a ratio has revealed, for example chasing customers who exceed the credit period when trade receivables turnover rises. A general suggestion such as "cut costs" rarely earns credit.
+
+**How can you finish an evaluation of accounting ratios?**
+Point out that ratios are only as reliable as the statements behind them. The syllabus's three limitations are historic cost, the application of accounting policies and non-financial aspects such as the skill of the workforce.

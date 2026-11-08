@@ -237,6 +237,23 @@ Finish with a clear decision and one reason that outweighs the others.
 - Giving payback as "3.4 years" when months are asked for, or converting 0.4 years to 4 months.
 - A recommendation that repeats figures but never makes a decision.
 
+## Frequently asked questions
+
+**How do you calculate the weighted average cost of capital?**
+Multiply the cost of each source of finance by its proportion of total finance, then add the results. Simple averages of the costs are wrong, and the weights should total 1.
+
+**What is the profitability index?**
+The profitability index is the present value of future cash inflows divided by the initial investment. A project is acceptable if the PI is greater than 1, and when funds are limited, projects that cannot be split are ranked by PI.
+
+**Do you apply a discount factor to year 0?**
+No. The initial outlay happens now, at year 0, so its discount factor is 1.000 and it is not discounted. Unless a question says otherwise, later cash flows are assumed to arrive at the end of each year.
+
+**How is average investment calculated for ARR?**
+Average investment is the initial cost plus the residual value, divided by 2. ARR is then average annual profit divided by the investment base, multiplied by 100, and you must state which base you used.
+
+**What does a full project appraisal answer need?**
+After the calculation, state the result clearly, for example that NPV is positive, and give a decision. Answers that repeat figures but never recommend whether to go ahead lose the evaluation marks.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11)

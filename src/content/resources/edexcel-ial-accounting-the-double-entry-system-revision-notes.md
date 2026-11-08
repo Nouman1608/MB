@@ -278,6 +278,23 @@ The specification says no specific applications or software packages are examine
 - Writing "ICT is faster" without saying what is faster or what still needs human checking.
 - Leaving out the narrative on a journal entry or the account names beside the amounts.
 
+## Frequently asked questions
+
+**What is a book of prime entry?**
+A book of prime entry gives each transaction its first written record before it is posted to the ledger. Examples are the sales and purchases day books, the returns day books, the cash book, the petty cash book and the journal.
+
+**What is the difference between an irrecoverable debt and an allowance for irrecoverable debts?**
+An irrecoverable debt is a trade receivable that will not be paid and is written off. An allowance for irrecoverable debts is an estimate of debts that may not be paid, held in its own account and deducted from trade receivables in the statement of financial position.
+
+**What does a journal entry need to show?**
+A journal entry shows the account debited, the account credited, the amount and a narrative explaining the transaction. It is used for items such as buying a non-current asset on credit, writing off an irrecoverable debt and opening entries.
+
+**How is cost of sales calculated at the year end?**
+Cost of sales is opening inventory plus purchases, less purchases returns, less closing inventory. Inventory is not updated during the year, so it needs a year-end transfer.
+
+**Does a payment from the bank debit or credit the bank account?**
+A payment reduces an asset, so it is credited to the bank account, while a receipt is debited. Reversing debit and credit on a fall in an asset is a common error.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11), Specification, Issue 2, September 2018, Unit 1, topic 1.1 content points 1.1.3 to 1.1.7.

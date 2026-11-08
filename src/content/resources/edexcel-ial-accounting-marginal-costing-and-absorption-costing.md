@@ -315,6 +315,22 @@ Maximum profit = 95,000 − 50,000 = **45,000**. Ranking by contribution per tin
   <figcaption>Overheads are allocated where one department caused them and apportioned on a fair basis where they are shared.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between marginal costing and absorption costing?**
+Both methods charge direct materials, direct labour and variable production overhead to each unit. Marginal costing treats fixed production overhead as a period cost written off in full, while absorption costing adds a share of fixed production overhead to each unit using an overhead absorption rate.
+
+**Why is absorption costing profit higher when inventory rises?**
+Under absorption costing, part of the fixed production overhead is carried forward in closing inventory, while marginal costing writes it all off in the period. When inventory rises, absorption profit is higher; when inventory falls, marginal profit is higher; with no change the profits are equal.
+
+**Which costing method does IAS 2 require for published accounts?**
+IAS 2 Inventories requires the cost of inventory to include a systematic allocation of fixed and variable production overheads, based on normal capacity. That is absorption costing, so marginal costing is used for internal decisions rather than published inventory values.
+
+**Should a business accept a special order priced below full cost?**
+On financial grounds, an order can be worth accepting if its price exceeds the extra variable costs and there is spare capacity, because fixed costs are already covered. If capacity is full, the contribution lost on normal sales is a cost of the order, and non-financial factors such as other customers asking for the lower price should be considered.
+
+**How do you rank products when there is a limiting factor in Edexcel IAL Accounting?**
+First prove the resource is limiting by comparing what full demand needs with what is available. Then work out contribution per unit of the limiting factor for each product, rank them highest first and allocate the resource in that order.
 
 ## Official syllabus
 

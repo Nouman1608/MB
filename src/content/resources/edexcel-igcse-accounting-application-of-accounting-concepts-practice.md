@@ -165,6 +165,20 @@ For each item, name the concept and state the effect on profit. Then calculate a
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you get full marks when applying an accounting concept?**
+Name the concept that fits the situation, state what the business should record and give the effect on profit, an asset or a liability, with figures where possible. Naming the concept without its effect is a common way to lose marks in Edexcel IGCSE Accounting (4AC1).
+
+**Does an accrued expense increase or reduce profit?**
+An accrued expense is an expense owed at the year end, so adding it to the year's charge reduces profit. A prepaid expense is removed from the year's charge, which adds back to profit.
+
+**Should inventory be compared with net realisable value in total or line by line?**
+Compare cost with net realisable value for each line of inventory separately and take the lower figure for each. Comparing totals can hide a loss on one line behind a gain on another.
+
+**What does the money measurement concept mean?**
+Money measurement means the books record only facts that can be stated in money, usually at the amount paid. It does not mean assets are valued at current market prices, and items such as staff skill or reputation are not recorded.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016, published by Pearson Education Limited -- Topic 5 Accounting for end of period adjustments, section 5.1 Application of accounting concepts.
