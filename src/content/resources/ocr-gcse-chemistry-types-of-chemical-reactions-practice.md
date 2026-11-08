@@ -196,6 +196,20 @@ Explain, in terms of oxygen, which substance is oxidised and which is reduced, a
 - Try one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What does OCR GCSE Chemistry C3.3 Types of chemical reactions cover?**
+Sub-topic C3.3 of OCR GCSE (9–1) Chemistry A (J248) covers redox in terms of oxygen, acids and alkalis, neutralisation, reactions of acids with carbonates and metals, making a pure dry salt and pH, with redox by electrons, acid strength and pH calculations for Higher Tier only.
+
+**What are common mistakes in redox and acids questions?**
+Frequent errors include naming the product instead of the oxide as the substance reduced, calling the oxidising agent "oxidised", missing water or carbon dioxide from an acid and carbonate equation, forgetting brackets in formulae such as Cu(NO₃)₂, and using "strong" to mean "concentrated".
+
+**How do you describe making a salt from an insoluble base to get full marks?**
+Say that the solid is added in excess until no more reacts, then filter off the excess, warm the filtrate until crystals start to form, leave it to crystallise and dry the crystals. Leaving out the excess solid step is a common way to lose marks.
+
+**How many times does the H⁺ concentration change when pH changes?**
+Each fall of 1 in pH means the hydrogen ion concentration is 10 times greater, so a change of 3 is a factor of 1000, not 3. This is Higher Tier only in J248.
+
 ## Official syllabus
 
 OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification, Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Sub-topic C3.3 Types of chemical reactions, learning outcomes C3.3a–C3.3k, mathematical learning outcome CM3.3i and practical suggestions (PAG C6, PAG C7).

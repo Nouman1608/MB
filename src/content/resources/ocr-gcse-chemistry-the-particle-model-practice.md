@@ -176,6 +176,20 @@ Student 2: the space between gas particles is empty [1]. Air is itself made of p
 - [OCR GCSE Chemistry hub page](/boards/ocr/gcse/chemistry/)
 - [J248 printable checklist](/checklists/ocr/gcse/chemistry/)
 
+## Frequently asked questions
+
+**What does OCR GCSE Chemistry C1.1 The particle model cover?**
+Sub-topic C1.1 of OCR GCSE (9–1) Chemistry A (J248) covers the particle model and states of matter, changes of state, the difference between physical and chemical changes, and, for Higher Tier only, the limitations of the particle model.
+
+**What are common mistakes in particle model questions?**
+Frequent errors include saying particles get bigger, melt or get hot instead of gaining energy and moving faster, describing only one of arrangement, movement and spacing, misreading negative melting and boiling points, and classifying a change without referring to new substances.
+
+**How do you get full marks when describing particles in a state of matter?**
+Describe all three features the question asks about: how the particles are arranged, how they move and how far apart they are. Describing only the arrangement is a common way to drop marks.
+
+**How do you explain the limitations of the particle model at Higher Tier?**
+Name what the simple model leaves out, such as the forces between particles, the sizes of particles or the spaces between them. Writing only that "the model is too simple" does not earn credit.
+
 ## Official syllabus
 
 J248 is the code for OCR GCSE (9–1) Chemistry A (Gateway Science); this page follows its specification, Version 4.0 (August 2026), for first assessment in 2018 (publisher: OCR); unit C1.1 The particle model.

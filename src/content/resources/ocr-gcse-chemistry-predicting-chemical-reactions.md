@@ -283,6 +283,20 @@ Repeat each test, and use a lidded polystyrene cup to reduce energy loss.
 
 Use the [revision notes](/resources/ocr-gcse-chemistry-predicting-chemical-reactions-revision-notes/) for a quick summary and self-test, then the [practice questions](/resources/ocr-gcse-chemistry-predicting-chemical-reactions-practice/).
 
+## Frequently asked questions
+
+**Why are the noble gases unreactive?**
+Each noble gas atom has a stable full outer shell, with two electrons for helium and eight for the others, so it does not lose, gain or share electrons. The noble gases exist as single atoms, and their boiling points and densities increase down Group 0.
+
+**Why are Group 1 metals stored under oil?**
+Group 1 metals react with oxygen and water vapour in the air, so they are stored under oil. They are soft, shiny when freshly cut and tarnish quickly in air.
+
+**Which transition metals are used as catalysts?**
+Iron is the catalyst in the Haber process, nickel catalyses the reaction of alkenes with hydrogen, and manganese(IV) oxide speeds up the decomposition of hydrogen peroxide.
+
+**What is the reactivity series for OCR GCSE Chemistry?**
+A series covering the common laboratory metals, most reactive first, is potassium, sodium, lithium, calcium, magnesium, zinc, iron, copper, silver. The more easily a metal forms its positive ion, the faster it reacts with water or dilute acid.
+
 ## Official syllabus
 
 OCR GCSE (9–1) Chemistry A (Gateway Science) J248 specification, Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Sub-topic C4.1 Predicting chemical reactions, learning outcomes C4.1a–C4.1f, mathematical learning outcome CM4.1i and the linked practical suggestions (PAG C1, C5, C7, C8).

@@ -138,8 +138,8 @@ OCR sets no list of required practicals. Instead, centres run at least eight pra
 **How should I decide between Foundation and Higher tier?**
 Base the decision on recent timed full papers at both tiers rather than on how confident you feel about topics. Both tiers have the same paper lengths and mark totals but differ in question demand.
 
-**Why is writing correct formulae so important in chemistry calculations?**
-Every later step of a calculation depends on the formula, so one wrong formula can invalidate a whole multi-mark question. Write the formulae correctly first, then balance, and state the mole ratio from the equation explicitly.
+**Is energetics on OCR GCSE Chemistry Paper 1 or Paper 2?**
+Energetics (C3.2) is Topic C3 content, so it is assessed on the first paper (Paper 1 or 3). Like the rest of topics 1 to 3, it is then assumed knowledge on the second paper.
 
 *Written against OCR's own published "GCSE (9-1) Gateway Science: exploring our question papers" guide
 for J248 (official OCR document, verified 2026-08-28). The calculation routine above is an original

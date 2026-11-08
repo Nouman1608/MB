@@ -22,10 +22,12 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "organic-chemistry"
     subtopic: "naming-organic-compounds"
-description: "Displayed and general formulae, homologous series, functional groups, structural isomers, and naming organic compounds, for Cambridge IGCSE 0620 and O Level 5070."
+description: "Cambridge IGCSE 0620 and O Level 5070 organic chemistry: displayed and general formulae, homologous series, functional groups, isomers and naming."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
@@ -248,6 +250,23 @@ example
 - Naming compounds from the -ane/-ene/-ol/-oic acid endings
 - *(0620 Extended, 5070 required)* naming and drawing unbranched compounds
 with locant numbers, and naming esters
+
+## Frequently asked questions
+
+**What is a homologous series?**
+A homologous series is a family of compounds with the same functional group and similar chemical properties. For Cambridge IGCSE 0620 Extended and O Level 5070, the members also share a general formula, differ by a –CH₂– unit and show a trend in physical properties.
+
+**What is the difference between saturated and unsaturated compounds?**
+A saturated compound has only single carbon–carbon bonds, as in alkanes. An unsaturated compound has at least one carbon–carbon bond that is not single, such as the C=C bond in alkenes.
+
+**What are structural isomers?**
+Structural isomers have the same molecular formula but a different structural formula, because their atoms are connected differently. C₄H₁₀, for example, exists as butane and methylpropane.
+
+**How are esters named?**
+An ester is named from the alcohol and acid that formed it: the alcohol part ending in -yl, followed by the acid part ending in -oate. Ethanol and ethanoic acid give ethyl ethanoate.
+
+**What is the general formula of the alkenes?**
+The general formula of the alkenes is CₙH₂ₙ, while alkanes are CₙH₂ₙ₊₂, alcohols CₙH₂ₙ₊₁OH and carboxylic acids CₙH₂ₙ₊₁COOH. Mixing up the alkene and alkane formulae is an easy slip under exam pressure.
 
 ## Related resources
 

@@ -220,6 +220,20 @@ Robert Brown described the random jiggling of tiny particles from pollen grains 
 - (Higher Tier only) Saying "the model is too simple" without naming the missing forces, sizes or spaces.
 - (Higher Tier only) Multiplying instead of taking a cube root when going from a volume ratio to a spacing ratio.
 
+## Frequently asked questions
+
+**What is the difference between a physical change and a chemical change?**
+In a physical change the particles stay the same and no new substance forms, as in changes of state and dissolving. In a chemical change atoms are rearranged into new particles, so at least one new substance forms.
+
+**Is reversibility a good test for a chemical change?**
+No. Some chemical changes can be reversed, so the deciding test is whether new particles, and so new substances, have formed. Saying a change is chemical only because it cannot be reversed loses marks.
+
+**Do particles get bigger when a substance is heated?**
+No. Heating gives particles more energy, so they move faster and take up more room, which makes the substance expand. The particles themselves do not change size.
+
+**How do you find the spacing of gas particles from a volume ratio?**
+If a gas takes up N times the volume of the same mass of liquid, its particles are about the cube root of N times further apart. For example, a volume ratio of 1000 means particles about 10 times further apart; this skill is Higher Tier only.
+
 ## Official syllabus
 
 J248 is the code for OCR GCSE (9–1) Chemistry A (Gateway Science); this page follows its specification, Version 4.0 (August 2026), for first assessment in 2018 (publisher: OCR); unit C1.1 The particle model.
