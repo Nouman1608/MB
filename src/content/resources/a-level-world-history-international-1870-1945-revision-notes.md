@@ -22,10 +22,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "international-option-history-9489"
     subtopic: "international-history-1929-39-9489"
-description: "Condensed recall notes on the three topics of the International Option for Cambridge AS & A Level History (9489), 2027-2029 series."
+description: "Revision notes on the three International option topics of Cambridge AS and A Level History 9489 (2027-2029): imperialism, the 1920s and the road to war, 1939."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review. 2026-11-08 recheck: added a dated 1929-39 table."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -62,6 +64,21 @@ One of three AS options (European, American, International) — a school teaches
 - **Appeasement**: British/French policy, shaped by economic/military factors and USSR relations — Rhineland, Anschluss, Munich Crisis.
 - **Outbreak of war, 1939**: British rearmament, Polish guarantee, Nazi–Soviet Pact reasons, invasion of Poland.
 
+## Key dates, 1929–39
+
+| Date | Event |
+|---|---|
+| October 1929 | Wall Street Crash |
+| September 1931 | Mukden Incident; Japan occupies Manchuria |
+| 1933 | Hitler becomes Chancellor; Germany leaves the League and the Disarmament Conference |
+| October 1935 | Italy invades Abyssinia; limited League sanctions |
+| March 1936 | Remilitarisation of the Rhineland |
+| 1936–39 | Spanish Civil War |
+| March and September 1938 | Anschluss; Munich Agreement |
+| March 1939 | Germany occupies the rest of Czechoslovakia; British guarantee to Poland |
+| 23 August 1939 | Nazi–Soviet Pact |
+| 1 September 1939 | Germany invades Poland |
+
 ## Connecting Sections 8 and 9: from stabilisation to collapse
 
 A common weak answer treats the 1920s and 1930s topics as two unrelated decades. A stronger answer explicitly traces how specific weaknesses left unresolved in Section 8 (the League's limited use of collective security in disputes like the Aaland Islands, Vilna and Upper Silesia; its structural weaknesses as an institution) become directly relevant to explaining Section 9's failures in the much higher-stakes Manchuria and Abyssinia crises -- the League's mechanisms did not fundamentally change between the two decades, but the scale and severity of the crises it faced did, exposing weaknesses that had already been present but less consequential in the 1920s.
@@ -83,3 +100,14 @@ A common weak answer treats the 1920s and 1930s topics as two unrelated decades.
 6. Why should a candidate secure knowledge of all three topics rather than concentrating on one or two?
 
 **Answers:** 1. European (Modern Europe 1774–1924), American (USA 1820–1941), International; a school teaches one, not all three. 2. Imperialism and the Emergence of World Powers, c.1870–1918; International Relations, 1919–29: Conflict and Cooperation; International History, 1929–39: The Rise of Extremism and the Road to War. 3. E.g. the Dawes Plan (addressing German reparations payments) and the Locarno Treaties (addressing western European border security) — both part of the 1924–29 recovery. 4. China and Japan, 1912–45. 5. Economic considerations (avoiding the cost of rearmament/war) or military considerations (Britain and France not yet being militarily prepared), or changing relations with the USSR. 6. Because Paper 1 and Paper 2 draw on the same three topics but rotate, on a fixed three-year cycle, which is examined on Paper 1 (Historical Sources) versus Paper 2 (Outline Study), so concentrating on fewer than all three risks being unprepared for whichever topic is prescribed in the candidate's own exam series.
+
+## Frequently asked questions
+
+**Which papers assess the International option?**
+Paper 1 (Historical Sources) and Paper 2 (Outline Study) at AS Level, with topics rotating between them by year.
+
+**What were the main peace treaties of 1919–20?**
+Versailles (Germany), Saint-Germain (Austria), Trianon (Hungary), Neuilly (Bulgaria) and Sèvres (the Ottoman Empire).
+
+**Why was 1920–23 a period of high tension?**
+Disputes over reparations led to the French and Belgian occupation of the Ruhr in 1923, and the new settlements left many grievances unresolved.

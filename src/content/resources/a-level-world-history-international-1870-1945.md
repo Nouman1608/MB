@@ -22,10 +22,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "international-option-history-9489"
     subtopic: "international-history-1929-39-9489"
-description: "Imperialism and the emergence of world powers, and international relations and the road to war, 1919-39 -- the full content of the International Option for Cambridge AS & A Level History 9489, 2027-2029 series."
+description: "The International option of Cambridge AS and A Level History 9489 (2027-2029): imperialism and world powers, 1919-29 relations, and the road to war in 1939."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -147,6 +149,17 @@ on the same three topics, and the fixed table above rotates which topic
 is set on each paper, build secure knowledge of all three
 rather than concentrating revision on whichever seems most likely to
 appear in a given year.
+
+## Frequently asked questions
+
+**What does the International option cover?**
+Three topics: imperialism and the emergence of world powers, c.1870–1918; international relations, 1919–29; and international history, 1929–39.
+
+**How are the AS papers for 9489 structured?**
+Paper 1, Historical Sources (1 hour 15 minutes, 40 marks), is one two-part question on four sources, worth 15 and 25 marks. Paper 2, Outline Study (1 hour 45 minutes, 60 marks), is two two-part questions, each worth 10 + 20 marks.
+
+**Which topic is on which paper?**
+The three topics in each AS option rotate between Paper 1 and Paper 2 according to the table printed in the 2027–2029 syllabus; in any year the topic set for Paper 1 is not set for Paper 2.
 
 ## Official syllabus
 

@@ -16,11 +16,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "american-option-history-usa-9489"
     subtopic: "gilded-age-progressive-era-9489"
-description: "Revision notes for Cambridge 9489 topic 5, Gilded Age and Progressive Era: key terms, a dated timeline, the three Progressive presidents, amendments and exam traps."
+description: "Revision notes for Cambridge 9489 History topic 5, the Gilded Age and Progressive Era: key terms, timeline, the Progressive presidents, amendments and traps."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check dates and names against standard texts and the 9489 2027-2029 syllabus before teacher sign-off."
+reviewNote: "Check dates and names against standard texts and the 9489 2027-2029 syllabus before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---

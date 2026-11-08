@@ -22,11 +22,11 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "historical-interpretations-9489"
     subtopic: "origins-development-cold-war-9489"
-description: "How historians have interpreted the origins of the First World War, the Holocaust and the Cold War, with the schools of thought and the skills needed to weigh them."
+description: "How historians interpret the origins of the First World War, the Holocaust and the Cold War, and how to answer the 40-mark Paper 3 extract question in 9489."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the syllabus for the exact issues and named historians prescribed under each interpretation topic, and the paper and question format in which they are assessed."
+reviewNote: "Check the syllabus for the exact issues and named historians prescribed under each interpretation topic, and the paper and question format in which they are assessed. 2026-11-08 recheck: corrected the Paper 3 format (one 40-mark 'What can you learn' question on one unattributed extract, 1h15) and replaced the essay-style worked example and timing; FAQ added; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -35,7 +35,7 @@ This topic is less about learning one more set of events and more about learning
 
 ## Where this fits in the specification
 
-Historical interpretations is one of the A Level topics in Cambridge 9489, with three themes: the origins of the First World War, the Holocaust, and the origins and development of the Cold War. It draws on knowledge from the wider course, but the skill being tested is different. You are asked to read short extracts from historians, identify the argument, compare it with others and evaluate it using your own knowledge. Check the syllabus and specimen papers for the exact format.
+Historical interpretations is one of the A Level topics in Cambridge 9489, with three themes: the origins of the First World War, the Holocaust, and the origins and development of the Cold War. It draws on knowledge from the wider course, but the skill being tested is different. It is examined on **Paper 3** (1 hour 15 minutes, 40 marks, 20% of the A Level): one unattributed extract of no more than 600 words from a historian is set on each topic, and you answer the single 40-mark question on your topic: "What can you learn from this extract about the interpretation and approach of the historian who wrote it?" Marks are split equally between historical knowledge (AO1) and historical interpretations (AO4). You are not asked to name the author.
 
 ## What an interpretation is
 
@@ -79,17 +79,17 @@ Interpretations are often grouped into three schools.
 
 Documents often used in this debate include Kennan's Long Telegram (1946), the Novikov telegram of the same year, the Berlin blockade and airlift (1948-49) and the creation of NATO (1949). Notice how the interpretation changes depending on which documents are given most weight, and on when archives opened.
 
-## Worked example: planning an evaluation
+## Worked example: planning a Paper 3 answer
 
-**Question type:** "To what extent do you agree that Germany bore the main responsibility for the outbreak of war in 1914?"
+**Task:** an unattributed extract argues that Germany's leaders accepted, and in part sought, a general war in July 1914 to break out of "encirclement" and to achieve European dominance. Question: "What can you learn from this extract about the interpretation and approach of the historian who wrote it?"
 
-1. **Position.** Germany bore a major share, but not exclusive responsibility.
-2. **Argument for.** Fischer's thesis emphasised German aims and the risk-taking of July 1914. Support it by pointing to the blank cheque to Austria-Hungary, the part Germany played in escalation and the war plans of the German General Staff.
-3. **Argument against.** Clark and system-based accounts point to decisions in Vienna, St Petersburg, Paris and London, and to Serbia's role in the crisis. Use the Austro-Hungarian ultimatum to Serbia and the Russian mobilisation.
-4. **Evaluation.** Fischer wrote when German archives were being used in new ways and in a debate about German history; Clark wrote with the advantage of a wider spread of sources and more distance. Neither removes the need to weigh decisions.
-5. **Judgement.** Reach a clear conclusion, such as "Germany's decisions made a general war more likely, but responsibility was shared among the powers."
+1. **Main interpretation (whole extract).** Germany bore the main responsibility: its leaders took a calculated risk of general war for expansionist aims. State this in one sentence before anything else.
+2. **Approach.** The historian focuses on German decision-making and war aims, using German government documents; the questions asked are about intention and responsibility, in the tradition associated with Fritz Fischer.
+3. **Test with knowledge (support).** The "blank cheque" to Austria-Hungary (5–6 July 1914), the Schlieffen Plan's dependence on attacking France through Belgium, and the September Programme of 1914.
+4. **Test with knowledge (limits).** Decisions in Vienna and St Petersburg (the ultimatum to Serbia, Russian general mobilisation on 30 July) suggest shared responsibility, the view of historians such as Christopher Clark.
+5. **Conclusion.** Explain what the extract shows about the historian's claims and approach as a whole, rather than listing sub-messages.
 
-**Timing check.** If an essay is allotted 45 minutes and you plan for 5 minutes, you have 40 minutes to write, which is about 8 minutes for each of four paragraphs plus introduction and conclusion at roughly 4 minutes each: 4 x 8 + 2 x 4 = 40.
+**Timing check.** Paper 3 gives 75 minutes for one answer. A 10-minute plan leaves 65 minutes to write: for example 5 minutes for an opening that states the interpretation, about 50 minutes for four or five paragraphs testing it with knowledge, and 10 minutes for a conclusion and a final check: 10 + 5 + 50 + 10 = 75.
 
 ## Common mistakes
 
@@ -101,7 +101,7 @@ Documents often used in this debate include Kennan's Long Telegram (1946), the N
 
 ## Exam technique
 
-Cambridge command words include **assess**, **evaluate**, **compare** and **how far**. For each, state a judgement early. When comparing interpretations, make direct points of agreement and disagreement and support them with quotation or close paraphrase from the passages. Use your own knowledge to test the interpretation, not just to add information. Keep an eye on timing and end with a reasoned conclusion.
+Paper 3 always uses the command phrase "What can you learn...". State the extract's overall interpretation early, then explain the historian's approach and support your reading with brief quotation or close paraphrase from the extract. Use your own knowledge to test the interpretation, not just to add information. Keep an eye on timing and end with a reasoned conclusion.
 
 ## Check your understanding
 
@@ -117,7 +117,18 @@ Cambridge command words include **assess**, **evaluate**, **compare** and **how 
    *Orthodox, revisionist and post-revisionist.*
 6. Why might a historian writing after the Soviet archives opened reach different conclusions?
    *They can use Soviet evidence about decision-making, which earlier writers lacked.*
-7. In the planning timing check, how many minutes remain after a 5 minute plan in a 45 minute essay?
-   *40 minutes.*
+7. How long is Paper 3, and how many questions do you answer?
+   *1 hour 15 minutes; one 40-mark question on one extract.*
 8. Why is it weak to dismiss an interpretation just because it is old?
    *Its quality depends on the evidence and reasoning, and older work may still raise valid points.*
+
+## Frequently asked questions
+
+**How is Paper 3 structured?**
+One unattributed historian's extract of up to 600 words on each topic and one 40-mark question on your topic, in 1 hour 15 minutes; it is worth 20% of the A Level.
+
+**Do I need to name the historian?**
+No. The author is not identified and you are not asked to identify them; explain the interpretation and approach instead.
+
+**What are the three Cold War schools?**
+Orthodox (blaming Soviet expansion), revisionist (stressing US economic and political aims) and post-revisionist (stressing mutual suspicion and misperception).

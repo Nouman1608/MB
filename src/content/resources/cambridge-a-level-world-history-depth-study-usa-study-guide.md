@@ -26,7 +26,7 @@ description: "The USA from 1945 to 1993: Truman and Eisenhower, civil rights, Vi
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the syllabus for the key questions under each of the three periods and the paper in which the American depth study is assessed."
+reviewNote: "Check the syllabus for the key questions under each of the three periods and the paper in which the American depth study is assessed. 2026-11-08 recheck: added the Paper 4 format and command words from the 2027-2029 syllabus; FAQ added; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -36,6 +36,8 @@ Between 1945 and 1993 the United States was the leading Western power in the Col
 ## Where this fits in the specification
 
 This is the American option among the depth studies in Cambridge 9489. It is organised into three sections: Truman, Eisenhower and post-war USA, 1945-61; a time of challenges, 1961-74; and the USA, 1974-93. Questions usually require analysis across a period, so look for themes: presidential power, civil rights, the economy, foreign policy and the Cold War, and public attitudes. Confirm the paper and format in the current syllabus.
+
+It is examined on **Paper 4: Depth study** (1 hour 45 minutes, 60 marks, 30% of the A Level). You answer two questions from a choice of three, all on your chosen option, each worth 30 marks; questions use the command words **assess** and **evaluate**, and marks are split equally between historical knowledge (AO1) and explanation, analysis and judgement (AO2).
 
 ## Truman, Eisenhower and post-war USA, 1945-61
 
@@ -94,7 +96,7 @@ For an essay, plan the question "How far did the Great Society succeed?" with pa
 
 ## Exam technique
 
-Cambridge essays often use **assess**, **how far** or **to what extent**. State a position at the start, give separate factors in separate paragraphs, support each with dated evidence, weigh the factors and answer the question in the conclusion.
+Paper 4 questions use **assess** and **evaluate**. State a position at the start, give separate factors in separate paragraphs, support each with dated evidence, weigh the factors and answer the question in the conclusion.
 
 ## Check your understanding
 
@@ -114,3 +116,14 @@ Cambridge essays often use **assess**, **how far** or **to what extent**. State 
    *21 months.*
 8. Why was Tet a political turning point?
    *It damaged US public confidence in the war even though communist forces suffered heavy losses.*
+
+## Frequently asked questions
+
+**How is the depth study examined?**
+On Paper 4 (1 hour 45 minutes, 60 marks, 30% of the A Level): you answer two 30-mark essays from a choice of three on your option, using the command words assess or evaluate.
+
+**What are the three sections?**
+Truman, Eisenhower and post-war USA, 1945–61; a time of challenges: the USA, 1961–74; and the USA, 1974–93.
+
+**How far did the Great Society succeed?**
+Its legal achievements, such as civil rights and Medicare, were greater than its effect on poverty, which the cost of the Vietnam War limited.
