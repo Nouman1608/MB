@@ -12,13 +12,15 @@ order: 4
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-biology-form-function"
-description: "Condensed revision notes on IB Diploma Programme Biology's Theme B -- Form and function -- carbohydrates and lipids, proteins, membranes, organelles, cell specialization, gas exchange, transport and adaptation -- with HL-only content marked and self-test questions."
+description: "Revision notes for IB DP Biology Theme B, Form and function: macromolecules, proteins, membranes, organelles, gas exchange, transport and adaptation."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 These notes go deeper into **Theme B -- Form and function** (26 hours SL / 39 hours HL) than the
@@ -237,6 +239,20 @@ functionally different cells from identical genetic material. 6. Any two of: lar
 moisture (gases dissolve before diffusing across), permeability (lets oxygen and carbon dioxide pass
 through). Blood supply and ventilation are not properties of the surface: they maintain the
 concentration gradient across it (B3.1.3).
+
+## Frequently asked questions
+
+**How many teaching hours does IB DP Biology Theme B have?**
+Theme B, Form and function, has 26 recommended teaching hours at SL and 39 at HL.
+
+**Why is compartmentalization useful to a eukaryotic cell?**
+Membrane-bound organelles let a cell run chemically incompatible processes at the same time in separate spaces, and let each organelle keep the internal conditions, such as pH or enzyme concentration, that its function needs.
+
+**How do cells with the same genome become specialized?**
+Cells differentiate through differential gene expression: a nerve cell and a muscle cell contain the same genes but express different subsets of them, not different genetic material.
+
+**Which Theme B sub-topic is HL only?**
+Muscle and motility is the HL-only sub-topic in Theme B; it builds on protein structure (contractile proteins and the sliding-filament mechanism) and membranes (ion movement triggering contraction).
 
 ## Official syllabus
 

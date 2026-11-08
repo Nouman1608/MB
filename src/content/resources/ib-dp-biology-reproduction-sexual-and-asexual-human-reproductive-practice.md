@@ -164,6 +164,20 @@ Use the [study guide](/resources/ib-dp-biology-reproduction-sexual-and-asexual-h
 - Try all [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is IB DP Biology D3.1.1 to D3.1.12 HL only?**
+No. Statements D3.1.1 to D3.1.12, covering sexual and asexual reproduction, human reproductive systems, the menstrual cycle, fertilization, IVF and reproduction in flowering plants, are for both SL and HL.
+
+**What is the difference between pollination, fertilization and seed dispersal?**
+Pollination is the transfer of pollen from an anther to a stigma; fertilization is the fusion of a male gamete with the egg cell in the ovule; seed dispersal moves seeds away from the parent plant. Mixing these up is a common way to lose marks.
+
+**Why does dry mass fall and then rise during seed germination?**
+Stored starch is digested to sugars that are used in respiration and lost as carbon dioxide, so dry mass falls; once leaves photosynthesise faster than the seedling respires, dry mass increases.
+
+**How are hormones used in IVF?**
+Natural hormone secretion is first suspended with drugs, then injections of FSH (with LH) are given in artificial doses to induce superovulation, so many follicles mature at once before eggs are collected.
+
 ## Official syllabus
 
 IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization, statements D3.1.1 to D3.1.12.

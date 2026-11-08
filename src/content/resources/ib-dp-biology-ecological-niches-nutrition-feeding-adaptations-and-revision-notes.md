@@ -243,6 +243,23 @@ You may use any suitable named organism, as long as you state the type of adapta
 - Quoting percentage changes without the sign or direction.
 - Using data in a mixotroph question without quoting numbers.
 
+## Frequently asked questions
+
+**What is the difference between a niche and a habitat?**
+A habitat is only where a species lives. An ecological niche is the whole role of the species in its ecosystem, including how it feeds, its biotic interactions and its abiotic tolerances.
+
+**What is the difference between saprotrophic and holozoic nutrition?**
+A saprotroph, such as a fungus, secretes enzymes onto dead matter and absorbs the products, so digestion is outside the body. Holozoic nutrition in animals involves ingestion, internal digestion, absorption and assimilation.
+
+**What is the difference between an obligate and a facultative mixotroph?**
+An obligate mixotroph needs both autotrophic and heterotrophic nutrition to grow; a facultative mixotroph can grow using either mode alone. Euglena is an example of a mixotroph.
+
+**What is the difference between a fundamental and a realized niche?**
+The fundamental niche is the potential niche set by a species' adaptations and tolerances without competitors; the realized niche is the part it actually occupies when competing species are present.
+
+**How do plants on a forest floor reach light?**
+Lianas root in the soil and climb other plants, epiphytes grow on tree branches, strangler epiphytes start on a branch and send roots to the ground, and shade-tolerant shrubs and herbs survive on very little light.
+
 ## Official syllabus
 
 IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Sub-topic B4.2, Ecological niches.

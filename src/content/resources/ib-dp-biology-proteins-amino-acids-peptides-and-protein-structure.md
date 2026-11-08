@@ -273,6 +273,23 @@ Collagen has glycine, the smallest amino acid, at every third position, which le
 - Saying "20 amino acids" means only 20 proteins.
 - Calling disulfide bonds weak.
 
+## Frequently asked questions
+
+**How is a peptide bond formed?**
+A condensation reaction removes the OH from the carboxyl group of one amino acid and an H from the amine group of the other, releasing water and forming a covalent peptide bond between the carboxyl carbon and the amine nitrogen.
+
+**How do pH and temperature affect proteins?**
+Heat raises vibrational energy and breaks hydrogen bonds and other weak interactions, while pH changes the charges on groups in the amino acids; both alter the protein's three-dimensional shape and can cause denaturation.
+
+**What holds the tertiary structure of a protein together?**
+Interactions between R-groups: hydrogen bonds between polar groups, ionic bonds between oppositely charged groups, covalent disulfide bonds between two cysteines, and hydrophobic interactions between non-polar groups. This is HL-only content in IB DP Biology B1.2.
+
+**What is the difference between an alpha helix and a beta-pleated sheet?**
+Both are secondary structures held by hydrogen bonds between backbone groups; an alpha helix is a single chain coiled, while a beta-pleated sheet has strands running side by side joined by hydrogen bonds.
+
+**How is collagen's structure suited to its function?**
+Collagen is a fibrous protein of three chains wound into a triple helix, with glycine at every third position allowing tight packing, giving strong, insoluble ropes for skin, tendon and bone.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Topic B1.2 Proteins.

@@ -160,6 +160,20 @@ Learn the content in the [study guide](/resources/ib-dp-biology-chemical-signall
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is chemical signalling (C2.1) in IB DP Biology SL?**
+No. All of topic C2.1, Chemical signalling (statements C2.1.1 to C2.1.14), is additional higher level, so these questions are for HL students only.
+
+**Why do only some cells respond to a hormone in the blood?**
+Only target cells have the specific receptor whose binding site is complementary to the hormone, so other cells the hormone reaches do not respond.
+
+**What is the second messenger in the epinephrine pathway?**
+Cyclic AMP (cAMP) is the second messenger. Epinephrine is the first messenger, which activates a G protein and adenylyl cyclase to make cAMP; calling cAMP the first messenger is a common error.
+
+**What is the difference between fold change and percentage change?**
+Fold change divides the new value by the old value (for example 8 times greater), while percentage change divides the difference by the original value and multiplies by 100. Mixing the two is a common way to lose marks.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Topic C2.1, Chemical signalling (additional higher level).

@@ -214,6 +214,23 @@ Worked reminder: if 900 glucose molecules enter with 2 Na⁺ each, 1800 Na⁺ mu
 - Saying the cotransporter uses ATP directly (HL only).
 - Giving the pump ratio the wrong way round (HL only).
 
+## Frequently asked questions
+
+**What is the fluid mosaic model?**
+The fluid mosaic model describes the membrane as a fluid phospholipid bilayer with proteins scattered through it; lipids and many proteins can move sideways, and glycoproteins carry carbohydrate chains on the outer surface.
+
+**What is the difference between simple diffusion, facilitated diffusion and active transport?**
+Simple diffusion moves particles down a gradient directly between phospholipids; facilitated diffusion moves specific particles down a gradient through a channel protein without ATP; active transport uses a pump and ATP and can move particles against a gradient.
+
+**What is the difference between integral and peripheral proteins?**
+Integral proteins are embedded in one or both lipid layers, while peripheral proteins are attached to one surface of the membrane only.
+
+**What do aquaporins do?**
+Aquaporins are channel proteins that let water cross the membrane quickly; they increase the rate of osmosis but do not decide its direction.
+
+**Why is glucose cotransport called indirect active transport?**
+Sodium ions move into the cell down their gradient and carry glucose with them; the ATP is used by a separate sodium-potassium pump that maintains the sodium gradient, not by the cotransporter itself.
+
 ## Official syllabus
 IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization, section B2.1.
 

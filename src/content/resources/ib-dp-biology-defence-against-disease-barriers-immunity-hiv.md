@@ -243,6 +243,23 @@ When you evaluate data, ask: Is the figure a rate per 100 000 or a raw count? Ho
 - Saying HIV is AIDS. HIV is the virus; AIDS is the later condition.
 - Using the wrong denominator for percentage change.
 
+## Frequently asked questions
+
+**What are pathogens?**
+A pathogen is an organism that causes disease; the term is usually kept for viruses, bacteria, fungi and protists. Archaea are not known to cause human disease.
+
+**How does blood clotting seal a cut?**
+Platelets release clotting factors that start a cascade of reactions producing thrombin. Thrombin converts soluble fibrinogen into insoluble fibrin, which forms a mesh that traps erythrocytes to make a clot.
+
+**How does HIV lead to AIDS?**
+HIV infects and kills helper T-cells, so fewer B-cells are activated and less antibody is made. The person can no longer fight opportunistic infections, and AIDS is the stage at which these infections occur.
+
+**How does antibiotic resistance evolve?**
+A random mutation makes a few bacteria resistant; the antibiotic acts as a selection pressure that kills the others, and the survivors reproduce and pass on the resistance allele, so its frequency rises.
+
+**Is HIV transmitted by casual contact?**
+No. HIV passes in body fluids such as blood, semen, vaginal fluids and breast milk, through unprotected sex, shared needles, mother to child or unscreened blood transfusion, not by touching or sharing a room.
+
 ## Official syllabus
 
 IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization, section C3.2.

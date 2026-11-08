@@ -161,6 +161,20 @@ These questions cover IB Diploma Programme Biology section C4.1 (Populations and
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is IB DP Biology C4.1 Populations and communities different at SL and HL?**
+No. The content of section C4.1, Populations and communities, is identical for Standard Level and Higher Level in the IB Biology guide, first assessment 2025.
+
+**How do you calculate the Lincoln index?**
+Population estimate = (number marked in the first sample × total caught in the second sample) ÷ number of marked individuals recaptured, assuming marked animals mix fully and the population is closed between samples.
+
+**How do you test whether population growth is exponential?**
+Plot population size on a logarithmic vertical axis against time on a normal horizontal axis; a straight line shows exponential growth, because the percentage increase is constant.
+
+**Does a chi-squared association between two species prove competition?**
+No. A significant chi-squared result shows the species are not distributed independently, but they may simply prefer different conditions, so the result does not show the cause.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section C4.1, Populations and communities.

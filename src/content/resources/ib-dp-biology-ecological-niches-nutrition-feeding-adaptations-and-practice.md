@@ -201,6 +201,20 @@ These questions cover sub-topic B4.2, Ecological niches (statements B4.2.1 to B4
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is any of IB DP Biology B4.2 Ecological niches HL only?**
+No. Sub-topic B4.2 (statements B4.2.1 to B4.2.13) is all SL and HL content in the IB Biology guide, first assessment 2025.
+
+**How do you identify an obligate anaerobe, facultative anaerobe or obligate aerobe from data?**
+Look at growth with and without oxygen: an obligate anaerobe grows only without oxygen, an obligate aerobe cannot grow without it, and a facultative anaerobe grows in both, usually better with oxygen. Quote the data for each.
+
+**How should you write about diet inferred from fossil teeth?**
+Use cautious words such as "suggests" or "consistent with", because dentition is evidence for an inference based on theories from living mammals, not proof of diet.
+
+**What are the possible outcomes of competition between two species?**
+Either one species is eliminated (competitive exclusion), or both persist with each restricted to part of its fundamental niche.
+
 ## Official syllabus
 
 IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Sub-topic B4.2, Ecological niches.

@@ -166,6 +166,20 @@ These questions cover IB Diploma Programme Biology D4.2 Stability and change (D4
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which part of IB DP Biology D4.2 Stability and change is HL only?**
+Statements D4.2.12 to D4.2.15 on ecological succession, including primary, cyclical and arrested succession and climax communities, are HL only; the rest of D4.2 is for SL and HL.
+
+**How do you calculate biochemical oxygen demand (BOD)?**
+Measure dissolved oxygen at the start, keep the sealed sample in the dark at constant temperature, measure again after five days and subtract; the dark stops photosynthesis adding oxygen.
+
+**How do you calculate catch per unit effort?**
+Divide the mass of fish landed by the fishing effort, such as boat-days; a falling catch per unit effort suggests the stock is declining, and showing both values before any percentage change makes the method clear.
+
+**Why should an answer on eutrophication name decomposers?**
+After an algal bloom dies, aerobic decomposers respire the dead organic matter and use up the oxygen, so BOD rises; saying that the algae use up the oxygen is a frequent error.
+
 ## Official syllabus
 
 IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization, subtopic D4.2.

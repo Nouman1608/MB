@@ -148,6 +148,20 @@ These questions cover section D2.2, **Gene expression**, of the IB *Biology guid
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is gene expression (D2.2) in the IB DP Biology SL course?**
+No. The whole of section D2.2, Gene expression, is additional higher level in the IB Biology guide (first assessment 2025), so these questions are for HL students only.
+
+**How do you calculate how much mRNA is left after several half-lives?**
+Divide the time by the half-life to find the number of half-lives, then multiply the starting amount by one half raised to that power; showing the number of half-lives makes the working easy to check.
+
+**Does an epigenetic change alter the DNA sequence?**
+No. Epigenetic tags such as methylated cytosine or modified histones change which genes are expressed, and so the phenotype, without altering the base sequence, so the genotype is unchanged.
+
+**Do pollution and methylation data prove cause?**
+No. Such data show an association; factors such as age or smoking may differ between groups, so an evaluation should use the data and also name the limitations.
+
 ## Official syllabus
 
 IB *Biology guide*, first assessment 2025, International Baccalaureate Organization, section D2.2 Gene expression (additional higher level).

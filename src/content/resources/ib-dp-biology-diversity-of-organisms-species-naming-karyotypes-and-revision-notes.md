@@ -233,6 +233,20 @@ For a command such as "evaluate the evidence", give a short list of evidence, sa
 - Describing eDNA as "finding the animal" rather than detecting its DNA in a sample.
 - Mixing up the genus and the species when explaining the name.
 
+## Frequently asked questions
+
+**What is the biological species concept?**
+In the biological species concept, a species is a group of organisms that can breed together and produce fertile offspring. Leaving out the word fertile is a common way to lose marks.
+
+**How are chromosomes classified in a karyogram?**
+Chromosomes are classified by banding pattern, length and centromere position, then arranged in homologous pairs with the longest first and the sex chromosomes last.
+
+**What is the evidence that human chromosome 2 formed by fusion?**
+The banding of human chromosome 2 matches two ape chromosomes end to end, telomere-type sequences lie in its middle, and a remnant of a second centromere lies on its long arm.
+
+**What is a single-nucleotide polymorphism?**
+A single-nucleotide polymorphism (SNP) is one base position where individuals of a species have different nucleotides; most of the genome is shared, so SNPs show both unity and diversity within a species.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Sub-topic A3.1, Diversity of organisms.

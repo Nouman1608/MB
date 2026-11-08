@@ -169,6 +169,20 @@ Explain the differences in rate. **[3]**
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**How do you tell a pentose from a hexose in a structural diagram?**
+Count every carbon atom, including any carbon outside the ring; a pentose has five carbons and a hexose has six. Counting only the ring carbons is a common mistake that reverses the answer.
+
+**How should you describe hydrolysis in an IB Biology answer?**
+Say that a water molecule is split and that its -H and -OH are added to the two products. Writing only that "water is used" is incomplete.
+
+**Is any of topic B1.1 Carbohydrates and lipids higher level only?**
+No. There is no HL-only content in IB DP Biology B1.1, so the whole topic applies to both SL and HL.
+
+**How do you calculate actual size from an electron micrograph?**
+Use actual size = image size ÷ magnification, then convert the units carefully (1 mm = 1000 µm and 1 µm = 1000 nm), showing the rearranged formula in your working.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Topic B1.1, Carbohydrates and lipids.

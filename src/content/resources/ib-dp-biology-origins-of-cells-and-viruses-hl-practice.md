@@ -161,6 +161,20 @@ These questions cover IB Diploma Programme Biology sections A2.1 (Origins of cel
 - Take [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Are origins of cells (A2.1) and viruses (A2.3) HL only in IB DP Biology?**
+Yes. Sections A2.1, Origins of cells, and A2.3, Viruses, are additional higher level in the IB Biology guide (first assessment 2025), so every question here is HL only.
+
+**Why are viruses classed as non-living?**
+Viruses have no cytoplasm, ribosomes or metabolism of their own and few or no enzymes, so they cannot respire, grow or make proteins outside a host and can reproduce only by using the host cell's machinery.
+
+**Why is RNA thought to have been the first genetic material?**
+RNA can be replicated by complementary base pairing, so it can carry heritable information, and it can also act as a catalyst, so it could have served as both gene and enzyme before DNA and proteins.
+
+**What is the difference between the lytic and lysogenic cycles of bacteriophage lambda?**
+Both begin with attachment and injection of viral DNA; in the lytic cycle the DNA is copied at once and new phages burst out, while in the lysogenic cycle the DNA integrates as a prophage and is passed to daughter cells until induction.
+
 ## Official syllabus
 
 IB Diploma Programme Biology guide, first assessment 2025, published by the International Baccalaureate Organization. Sections A2.1 and A2.3 (additional higher level).

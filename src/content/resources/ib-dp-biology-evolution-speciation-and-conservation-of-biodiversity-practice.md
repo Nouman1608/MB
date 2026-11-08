@@ -158,6 +158,20 @@ These questions follow the IB *Biology guide*, first assessment 2025, sections A
 - Take the [free 10-minute diagnostics](/diagnostics/) to find remaining gaps.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which parts of IB DP Biology A4 evolution and biodiversity are HL only?**
+Statements A4.1.8 to A4.1.11 are additional higher level, covering types of reproductive isolation, sympatric and allopatric speciation, adaptive radiation, hybridization and polyploidy.
+
+**What is the difference between homologous and analogous structures?**
+Homologous structures, such as the human arm and bird wing, share the same basic bone arrangement because of common ancestry. Analogous structures, such as octopus and human eyes, share a function but have different origins, the result of convergent evolution.
+
+**Is a change in one lineage over time an example of speciation?**
+No. Speciation is the splitting of one species into two or more; gradual change within a single lineage with no split leaves one species.
+
+**How should you answer a "discuss" question on conservation?**
+Weigh several approaches, such as in situ protection and rewilding alongside ex situ captive breeding and storage of germ plasm, link them to the named species, and reach a reasoned judgement.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Biology guide*, first assessment 2025, published February 2023. Sections A4.1 and A4.2.

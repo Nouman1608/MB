@@ -183,6 +183,20 @@ These questions cover section B3.3 (Muscle and motility) of the IB *Biology guid
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Is muscle and motility (B3.3) in the IB DP Biology SL course?**
+No. The whole of section B3.3, Muscle and motility, is additional higher level in the IB Biology guide (first assessment 2025), so every question here is HL only.
+
+**What does the constant length of the A band show?**
+The A band is the length of the thick filaments, so its constant length during contraction shows that the filaments slide past each other to increase overlap rather than shortening themselves.
+
+**What is a motor unit?**
+A motor unit is a motor neuron and all the muscle fibres it controls; small motor units let force be changed in small steps, which suits fine movements.
+
+**What is the difference between a tendon and a ligament?**
+A tendon joins muscle to bone, while a ligament joins bone to bone and stabilises a joint by limiting excess movement.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section B3.3, Muscle and motility, additional higher level.

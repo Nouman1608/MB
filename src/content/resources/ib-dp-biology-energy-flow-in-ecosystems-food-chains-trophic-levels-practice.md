@@ -149,6 +149,20 @@ These questions cover the first part of sub-topic C4.2, Transfers of energy and 
 - Take the [free 10-minute diagnostics](/diagnostics/) to find weak topics.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which way do arrows point in a food web?**
+Arrows point from the food to the feeder, showing the direction of energy flow. Drawing arrows from the feeder to its food is a common way to lose marks.
+
+**How do you calculate the percentage of energy transferred between trophic levels?**
+Divide the energy at the higher trophic level by the energy at the level below and multiply by 100, showing the division and giving units such as kJ m⁻² year⁻¹ for the energy values.
+
+**Is energy recycled in an ecosystem?**
+No. Energy flows through an ecosystem and is eventually released as heat, which organisms cannot convert back into chemical energy; matter, such as carbon and nutrients, is recycled.
+
+**Is any of IB DP Biology C4.2.1 to C4.2.14 HL only?**
+No. Statements C4.2.1 to C4.2.14, the energy flow part of sub-topic C4.2 Transfers of energy and matter, are all SL and HL content.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Statements C4.2.1 to C4.2.14.

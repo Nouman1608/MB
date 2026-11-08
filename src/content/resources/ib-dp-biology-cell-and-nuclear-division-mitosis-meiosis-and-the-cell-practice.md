@@ -172,6 +172,20 @@ These questions practise sub-topic D2.1, Cell and nuclear division, from the IB 
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which parts of IB DP Biology D2.1 are HL only?**
+Statements D2.1.12 to D2.1.17 are HL only: cell proliferation, the cell cycle and interphase, cyclins, mutations causing cancer, and the mitotic index. D2.1.1 to D2.1.11 are for both SL and HL.
+
+**How do you calculate a mitotic index?**
+Add the cells in prophase, metaphase, anaphase and telophase, divide by the total number of cells counted, and give the answer as a ratio or percentage. Do not include interphase cells in the numerator.
+
+**What is the difference between crossing over and random orientation?**
+Crossing over happens within a bivalent in prophase I, when non-sister chromatids exchange sections at chiasmata. Random orientation happens between bivalents in metaphase I, giving 2 to the power n combinations where n is the haploid number.
+
+**How should you answer an "evaluate" question on tumour data?**
+Say what the data support and also what they cannot show; for example, a mitotic index measures division rate only, while malignancy also involves invading tissue and spreading to form secondary tumours.
+
 ## Official syllabus
 
 IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization (sub-topic D2.1).

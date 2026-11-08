@@ -202,6 +202,20 @@ Study first with the [study guide](/resources/ib-dp-biology-photosynthesis-pigme
 - Try all [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which parts of IB DP Biology C1.3 Photosynthesis are HL only?**
+Statements C1.3.9 to C1.3.19 are additional higher level, covering photosystems, photolysis, chemiosmosis, reduction of NADP, the Calvin cycle and the interdependence of the light-dependent and light-independent reactions.
+
+**How do you calculate an Rf value in chromatography?**
+Divide the distance the pigment spot moved from the start line by the distance the solvent front moved; Rf has no units and is less than 1. Measuring from the paper edge instead of the start line is a common error.
+
+**Where does the oxygen released in photosynthesis come from?**
+The oxygen comes from the splitting of water, not from carbon dioxide; stating that it comes from carbon dioxide is a frequent mistake.
+
+**How should you name a controlled variable in a photosynthesis experiment?**
+Name the variable and say how it is controlled, for example keeping temperature constant with a water bath or a water-filled heat shield, and carbon dioxide constant with the same hydrogencarbonate solution.
+
 ## Official syllabus
 
 IB Diploma Programme Biology guide, first assessment 2025, published by the International Baccalaureate Organization. Topic C1.3 (Photosynthesis), statements C1.3.1 to C1.3.19; C1.3.9 to C1.3.19 are additional higher level.

@@ -183,5 +183,19 @@ Cell-adhesion molecules (CAMs) are membrane proteins that bind cells to each oth
 - Drawing the carbohydrate chains of glycoproteins on the cytoplasmic side.
 - Saying cholesterol only makes membranes rigid. It prevents stiffening in the cold as well.
 
+## Frequently asked questions
+
+**Why do phospholipids form a bilayer in water?**
+Phospholipids are amphipathic: the hydrophilic heads face the water on both sides while the hydrophobic tails point inwards away from water, so a bilayer forms on its own without any energy input.
+
+**Why can oxygen cross a membrane by simple diffusion but ions cannot?**
+Oxygen and carbon dioxide are small and non-polar, so they dissolve in the hydrocarbon core and pass between phospholipids; ions and polar molecules are hydrophilic and are repelled by the core.
+
+**What are glycoproteins and glycolipids for?**
+Glycoproteins and glycolipids carry carbohydrate chains on the extracellular side of the membrane and work in cell recognition and cell adhesion.
+
+**How does cholesterol affect membrane fluidity?**
+Cholesterol lies between phospholipids in animal cell membranes; at higher temperatures it restricts phospholipid movement and stabilises the membrane, and at lower temperatures it stops the tails packing so the membrane does not stiffen. This is HL-only content.
+
 ## Official syllabus
 IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization, section B2.1.

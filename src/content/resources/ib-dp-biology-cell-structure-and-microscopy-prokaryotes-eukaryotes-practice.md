@@ -195,6 +195,20 @@ Explain what the table shows about differentiation, and suggest what gene 3 migh
 - All free 10-minute diagnostics: [diagnostics](/diagnostics/)
 - Book a free trial class: [trial](/trial/)
 
+## Frequently asked questions
+
+**How do you calculate magnification from a scale bar?**
+Measure the scale bar in mm, convert it to the same unit as its label (usually µm), then divide the measured length by the real length it represents. Write the answer with a multiplication sign, such as ×50 000.
+
+**Why must an eyepiece graticule be recalibrated for each objective lens?**
+Each objective magnifies the specimen and the stage micrometer by a different amount, while the graticule in the eyepiece stays the same, so the value of one graticule division changes.
+
+**Is having a cell wall a difference between a bacterium and a yeast cell?**
+No. Both Staphylococcus and yeast cells have a cell wall, so it cannot be used as a difference; use features such as naked DNA versus DNA bound to histones, or 70S versus 80S ribosomes.
+
+**Which part of IB DP Biology A2.2 Cell structure is HL only?**
+The origins of eukaryote cells by endosymbiosis, cell differentiation and the evolution of multicellularity (A2.2.12 to A2.2.14) are additional higher level content.
+
 ## Official syllabus
 
 This resource is aligned to the IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization, section A2.2 (Cell structure).

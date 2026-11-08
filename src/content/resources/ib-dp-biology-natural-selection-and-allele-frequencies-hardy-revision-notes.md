@@ -246,6 +246,23 @@ For any "explain how a population changed" question, write four short linked poi
 - Describing antibiotic resistance as artificial selection.
 - Giving percentage change without the sign or without dividing by the starting value.
 
+## Frequently asked questions
+
+**What are the steps of natural selection?**
+Populations show heritable variation; more offspring are produced than can survive; individuals better adapted survive and reproduce more; so their alleles become more common over generations.
+
+**What is the difference between mutation and sexual reproduction as sources of variation?**
+Mutation changes the DNA base sequence and creates new alleles; sexual reproduction, through crossing over, independent assortment and random fertilisation, creates new combinations of existing alleles.
+
+**What are the conditions for Hardy-Weinberg equilibrium?**
+Hardy-Weinberg equilibrium requires a large population, random mating, no mutation, no migration and no selection; if observed genotypes differ from expected, at least one condition is not met.
+
+**What are directional, stabilizing and disruptive selection?**
+Directional selection favours one extreme so the mean shifts; stabilizing selection favours the mean so the spread narrows; disruptive selection favours both extremes and can give two peaks. All three change allele frequencies.
+
+**What is sexual selection?**
+Sexual selection is selection by mate choice or competition for mates; traits such as bright colour improve mating success but may carry survival costs, as in guppies, where males are brighter when predators are fewer.
+
 ## Official syllabus
 
 IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section D4.1 Natural selection.

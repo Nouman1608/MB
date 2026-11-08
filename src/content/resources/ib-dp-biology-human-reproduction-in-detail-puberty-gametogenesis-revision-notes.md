@@ -250,6 +250,20 @@ Lesson: a correlation does not prove cause and effect. Look for a confounding va
 - Forgetting units or the working in magnification and percentage questions.
 - Writing "hCG is released by the ovary" instead of the embryo and placenta.
 
+## Frequently asked questions
+
+**What hormone chain starts puberty?**
+The hypothalamus increases its release of GnRH, the anterior pituitary then releases more LH and FSH, and these act on the gonads to raise steroid sex hormones (testosterone, oestradiol and progesterone), which cause the changes of puberty.
+
+**How does a pregnancy test detect hCG?**
+The test strip uses monoclonal antibodies against hCG: labelled mobile antibodies bind hCG in the urine, and a fixed line of antibodies traps the complexes to give a coloured line. The antibodies bind one site on hCG, so the test is specific.
+
+**Where is progesterone made during pregnancy?**
+In early pregnancy progesterone comes from the corpus luteum, stimulated by hCG; later the placenta takes over. Progesterone maintains the endometrium and suppresses contractions of the uterus.
+
+**What happens if more than one sperm enters an egg?**
+Polyspermy would give a human zygote with 69 chromosomes (three sets), which cannot develop normally; the cortical reaction prevents this by changing the zona pellucida after the first sperm enters.
+
 ## Official syllabus
 
 Source: *Biology guide*, first assessment 2025, International Baccalaureate Organization (Diploma Programme), sub-topic D3.1, statements D3.1.13 to D3.1.20 (Additional higher level).

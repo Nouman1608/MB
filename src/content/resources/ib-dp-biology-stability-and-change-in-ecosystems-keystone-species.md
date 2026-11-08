@@ -225,6 +225,23 @@ Rewilding restores natural processes. Methods:
 - Confusing biomagnification with fertilizer enrichment.
 - Writing about primary succession in an SL answer: it is HL only.
 
+## Frequently asked questions
+
+**What is a tipping point in the Amazon rainforest?**
+Clearing forest reduces transpiration, so less water vapour cools the air and returns as rain; drier conditions kill more trees and reduce transpiration further, a self-reinforcing change, although the minimum forest area needed is uncertain.
+
+**What is a mesocosm and why use sealed glass vessels?**
+A mesocosm is a small enclosed model ecosystem; sealed glass vessels stop matter entering or leaving while letting light energy through, and replicates are needed because each develops differently.
+
+**How does eutrophication kill fish?**
+Leached nitrogen and phosphate cause an algal bloom that blocks light so plants die; decomposers respire the dead material and use up oxygen, raising biochemical oxygen demand, so fish and other aerobic animals die.
+
+**What is rewilding?**
+Rewilding restores natural processes by reintroducing apex predators and keystone species, reconnecting habitats over large areas and minimizing human impact, as at the Hinewai Reserve in New Zealand, where degraded farmland is regenerating into native forest.
+
+**What changes happen during primary succession?**
+Starting from bare ground, lichens and mosses form soil, followed by grasses, shrubs and trees, with increases in plant size, primary production, species diversity, food web complexity and nutrient cycling. This is HL-only content.
+
 ## Official syllabus
 
 IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization, subtopic D4.2.

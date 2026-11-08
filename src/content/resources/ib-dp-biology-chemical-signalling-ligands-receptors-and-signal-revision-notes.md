@@ -245,6 +245,20 @@ Chemical groups to recall:
 - Quoting an example of feedback without saying which change is reversed or amplified.
 - Leaving out units or the working in percentage change and fold-change calculations.
 
+## Frequently asked questions
+
+**What is quorum sensing?**
+Quorum sensing is how bacteria detect their own population density: each cell releases an autoinducer, and above a threshold concentration it binds receptors and switches on genes across the population, as in bioluminescence in Vibrio fischeri.
+
+**What is the difference between a transmembrane and an intracellular receptor?**
+Transmembrane receptors span the plasma membrane and bind hydrophilic or large ligands that stay outside, such as insulin. Intracellular receptors are in the cytoplasm or nucleus and bind hydrophobic ligands that enter the cell, such as steroid hormones.
+
+**What is the difference between positive and negative feedback?**
+Negative feedback reverses a change and keeps a variable stable, as with blood glucose and insulin. Positive feedback amplifies a change, as when cervical stretching triggers oxytocin release during labour.
+
+**Which neurotransmitter is a gas?**
+Nitric oxide is the gas that acts as a neurotransmitter. These IB DP Biology HL notes point out that the guide's wording names it as nitrous oxide, but the neurotransmitter is nitric oxide.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Topic C2.1, Chemical signalling (additional higher level).

@@ -31,10 +31,12 @@ syllabusTopics:
 description: "Study guide for Cambridge IGCSE Biology 0610 topic 14: nerves, synapses, the eye, hormones, homeostasis and tropisms, with Extended content labelled."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches topic 14, Coordination and response, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. It covers sections 14.1 to 14.5: the nervous system, sense organs, hormones, homeostasis and tropic responses. Core outcomes are for every candidate. Supplement outcomes are labelled **Extended only**; they are examined on Papers 2 and 4 but not on the Core Papers 1 and 3.
@@ -246,6 +248,23 @@ With light from one side, more auxin collects on the **shaded side**. Those cell
 ## Where to go next
 
 Use the [revision notes](/resources/igcse-biology-0610-coordination-and-response-revision-notes/), then the [14.1–14.2 practice set](/resources/igcse-biology-coordination-response-practice/). The previous topic is [excretion in humans](/resources/igcse-biology-0610-excretion-in-humans/).
+
+## Frequently asked questions
+
+**What is a reflex action?**
+A reflex action is a means of automatically and rapidly integrating and coordinating stimuli with the responses of effectors, which are muscles and glands, without conscious thought.
+
+**How does the eye focus on a near object?**
+The ciliary muscles contract, the suspensory ligaments slacken, the lens becomes fatter and more convex, and light is refracted more onto the retina; this accommodation is Extended content in Cambridge IGCSE Biology 0610.
+
+**What is a hormone?**
+A hormone is a chemical substance, produced by a gland and carried by the blood, which alters the activity of one or more specific target organs, such as adrenaline from the adrenal glands.
+
+**How does the skin help to cool the body?**
+Sweat glands release sweat that cools the skin as it evaporates, and arterioles supplying skin surface capillaries widen (vasodilation) so more heat is lost; capillaries themselves do not move or dilate.
+
+**What is the difference between gravitropism and phototropism?**
+Gravitropism is growth towards or away from gravity (roots grow towards it, shoots away), while phototropism is growth towards or away from the direction of light (shoots grow towards it, roots away).
 
 ## Official syllabus
 

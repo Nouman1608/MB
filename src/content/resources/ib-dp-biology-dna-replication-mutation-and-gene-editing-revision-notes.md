@@ -234,6 +234,20 @@ Key facts: DNA is negatively charged (phosphate groups), so it moves towards the
 - HL: describing CRISPR as only cutting; state that repair outcomes either disable or change the gene.
 - Giving percentage change with the wrong denominator.
 
+## Frequently asked questions
+
+**What does semi-conservative replication mean?**
+Semi-conservative replication means each new DNA molecule contains one original strand, which acted as the template, and one newly made strand.
+
+**What are the three temperature steps of PCR?**
+Denaturation at about 95 °C separates the strands, annealing at about 55 to 60 °C lets primers bind, and extension at about 72 °C lets Taq polymerase build new strands. Ideal copies after n cycles are 2 to the power n.
+
+**Does every insertion or deletion cause a frameshift?**
+No. Only insertions or deletions that are not a multiple of three bases shift the reading frame; removing three bases removes one amino acid and leaves the rest of the sequence in frame.
+
+**Which parts of IB DP Biology D1.1 and D1.3 are HL only?**
+Statements D1.1.6 to D1.1.9 (directionality, leading and lagging strands, replication enzymes and proofreading) and D1.3.8 to D1.3.10 (gene knockout, CRISPR-Cas9 and conserved sequences) are HL only.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization: sections D1.1 (DNA replication) and D1.3 (Mutation and gene editing).

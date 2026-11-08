@@ -146,5 +146,19 @@ Read the [study guide](/resources/ib-dp-biology-membranes-and-membrane-transport
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Which parts of IB DP Biology B2.1 Membranes are HL only?**
+Statements B2.1.11 to B2.1.17 are HL only: membrane fluidity and cholesterol, endocytosis and exocytosis, gated ion channels, the sodium-potassium pump, sodium-dependent cotransport and cell-adhesion molecules.
+
+**Which direction does water move in osmosis?**
+Water shows net movement from the lower solute concentration to the higher solute concentration across a membrane impermeable to the solute. Saying "towards less water" or "towards more water" is ambiguous and tends to lose credit.
+
+**How do you find the concentration with no change in mass from osmosis data?**
+Calculate the percentage change in mass for each solution, keeping the sign, then find where the line of percentage change against concentration crosses zero; that is where water movement balances.
+
+**What is the sodium-potassium pump ratio?**
+Each cycle of the pump uses one ATP to move 3 sodium ions out and 2 potassium ions in, giving a net movement of one positive charge out; writing the ratio the wrong way round is a common error.
+
 ## Official syllabus
 IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization, section B2.1.

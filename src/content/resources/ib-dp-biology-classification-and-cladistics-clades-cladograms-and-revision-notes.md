@@ -244,6 +244,23 @@ root
 - Describing convergent evolution as inheritance from a common ancestor.
 - Defining a clade without the words "all descendants".
 
+## Frequently asked questions
+
+**What is a clade?**
+A clade is a group made of a common ancestor and all of its descendants. If any descendant is left out, the group is not a clade.
+
+**What does a node on a cladogram represent?**
+A node is a fork in the cladogram that stands for a hypothetical common ancestor, not a real species or a known fossil.
+
+**What is parsimony in cladistics?**
+Parsimony means choosing the cladogram that needs the smallest number of sequence changes. Only sites where a derived base is shared by some but not all species help choose between trees.
+
+**What are the three domains of life?**
+The three domains are Bacteria, Archaea and Eukarya, proposed in 1977 from ribosomal RNA base sequences. The domain is a level above kingdom and does not replace kingdoms.
+
+**What is an outgroup used for?**
+An outgroup is a species that branched off earlier; it shows which base is ancestral at each site, so derived bases can be identified.
+
 ## Official syllabus
 
 This page is aligned to the *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section A3.2 is additional higher level only.

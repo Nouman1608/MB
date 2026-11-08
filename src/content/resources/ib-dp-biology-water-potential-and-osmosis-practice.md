@@ -179,6 +179,20 @@ Read the [study guide](/resources/ib-dp-biology-water-potential-and-osmosis/) fi
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which parts of IB DP Biology D2.3 Water potential are HL only?**
+Statements D2.3.8 to D2.3.11, which use water potential, solute potential and pressure potential in calculations, are HL only; D2.3.1 to D2.3.7 on osmosis and tonicity are for SL and HL.
+
+**Does water stop moving in an isotonic solution?**
+No. Water molecules keep crossing the membrane in both directions at equal rates, so there is no net movement; this is a dynamic equilibrium.
+
+**What is the difference between crenation and plasmolysis?**
+Crenation is the shrinking and puckering of an animal cell, such as a red blood cell, in a hypertonic solution; plasmolysis is when the plasma membrane of a plant cell pulls away from its cell wall.
+
+**How do you calculate standard error?**
+Standard error = standard deviation ÷ √n, where n is the number of repeats; more repeats reduce it, and non-overlapping error bars suggest, but do not prove, a real difference between means.
+
 ## Official syllabus
 
 IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section D2.3 (Water potential), under Theme D: Continuity and change.

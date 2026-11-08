@@ -242,6 +242,23 @@ Steroids are lipids with four fused carbon rings (three six-sided, one five-side
 
 Next, test yourself with the [practice set](/resources/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats-practice/).
 
+## Frequently asked questions
+
+**Why is life based on carbon?**
+A carbon atom can form up to four covalent bonds, with other carbon atoms and with non-metals such as hydrogen, oxygen and nitrogen, giving chains, branches and rings that are stable yet can be rearranged by enzymes.
+
+**What is the difference between alpha-glucose and beta-glucose?**
+In alpha-glucose the -OH on carbon 1 points down and in beta-glucose it points up. Alpha-glucose forms coiled storage polymers (starch and glycogen); beta-glucose forms the straight chains of cellulose.
+
+**How do you identify a steroid from its molecular diagram?**
+A steroid has four fused carbon rings, three with six carbons and one with five. Examples in IB DP Biology B1.1 are oestradiol and testosterone, which are non-polar and pass directly through the phospholipid bilayer.
+
+**Why do unsaturated fatty acids have lower melting points?**
+C=C double bonds put bends in the hydrocarbon chain, so the molecules cannot pack closely and less energy is needed to separate them.
+
+**Why can group O red blood cells be given to patients of other groups?**
+Group O red cells lack A and B antigens, so the recipient's anti-A or anti-B antibodies have nothing to bind to and the cells do not clump.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Topic B1.1, Carbohydrates and lipids.

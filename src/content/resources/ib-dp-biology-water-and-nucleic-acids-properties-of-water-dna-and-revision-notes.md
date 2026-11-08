@@ -233,6 +233,23 @@ For Chargaff-style tables, check three things in turn: whether A is close to T, 
 - Describing the nucleosome as histone "inside" DNA rather than DNA wound round histones.
 - Claiming Hershey-Chase results prove DNA is genetic material without referring to the data.
 
+## Frequently asked questions
+
+**What is the difference between cohesion and adhesion?**
+Cohesion is the attraction between water molecules through hydrogen bonds, which keeps the xylem column continuous; adhesion is the attraction of water to other polar or charged surfaces, which causes capillary action.
+
+**What are the differences between DNA and RNA?**
+DNA is double-stranded with deoxyribose and the bases A, T, G and C; RNA is usually single-stranded with ribose and uracil in place of thymine.
+
+**Why is the information storage capacity of DNA limitless?**
+A sequence of n bases has 4 to the power n possible sequences, and DNA can be any length with any base following any other, so there is no upper limit to the number of sequences.
+
+**Which bases are purines and which are pyrimidines?**
+Adenine and guanine are purines with two rings; cytosine, thymine and uracil are pyrimidines with one ring. Each base pair joins one purine to one pyrimidine.
+
+**How does water differ from air as a habitat?**
+Water is much denser, more viscous and conducts heat much faster than air, and has a higher specific heat capacity, so aquatic animals get more buoyancy, face more drag, lose heat faster and experience slower temperature change.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization (topics A1.1 and A1.2).

@@ -167,6 +167,20 @@ These questions cover section B3.1 (Gas exchange) of the IB *Biology guide*, fir
 - Try [all free 10-minute diagnostics](/diagnostics/) to find your weakest areas.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which parts of IB DP Biology B3.1 Gas exchange are HL only?**
+Statements B3.1.11 to B3.1.13 are HL only: the oxygen dissociation curve and cooperative binding of haemoglobin, foetal haemoglobin, and the Bohr shift caused by carbon dioxide.
+
+**How do you calculate stomatal density from a leaf cast?**
+Find the mean count per field of view, calculate the field area as π × radius² (halving the diameter first), then divide the mean count by the area to give stomata per mm².
+
+**Why can a spirometer not measure total lung volume?**
+Some air, the residual volume, always stays in the lungs even after the strongest exhalation, so it cannot be breathed out into the spirometer.
+
+**How do you calculate the volume of water taken up in a potometer?**
+Multiply π × radius² of the capillary by the distance the bubble moves, then divide by the time to give a rate such as mm³ per minute.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section B3.1, Gas exchange.

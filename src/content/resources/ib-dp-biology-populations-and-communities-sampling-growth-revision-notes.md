@@ -240,6 +240,20 @@ Worked reminder: 100 sites, A at 40, B at 30. Expected both present = 40 Ã— 30 Ã
 - Naming a mutualism but giving a benefit to one partner only.
 - Using a model curve as if it were real data.
 
+## Frequently asked questions
+
+**When should you use quadrats and when should you use capture-mark-release-recapture?**
+Random quadrats suit sessile organisms such as plants, barnacles and mussels that can be counted in place; capture, mark, release and recapture with the Lincoln index suits motile animals.
+
+**What is the difference between density-dependent and density-independent factors?**
+Density-dependent factors, such as competition, predation and disease, act more strongly as density rises and push numbers back towards carrying capacity; density-independent factors, such as fire or drought, act the same whatever the density and make numbers fluctuate.
+
+**What are the phases of a sigmoid growth curve?**
+A sigmoid curve has an exponential phase while resources are plentiful, a transition phase as density-dependent factors build, and a plateau near carrying capacity where births roughly equal deaths; the IB model does not include a lag phase.
+
+**What is the effect of marks wearing off in a Lincoln index study?**
+If marks wear off, fewer marked animals are recognised in the second sample, so R is too low and the population estimate is too high.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section C4.1, Populations and communities.

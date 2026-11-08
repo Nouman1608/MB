@@ -247,6 +247,20 @@ Rest, then stimulus, then threshold, then sodium in, then peak, then potassium o
 - Forgetting units: m s⁻¹, mV, ms.
 - Claiming correlation proves cause.
 
+## Frequently asked questions
+
+**What is the resting potential of a neuron?**
+The resting potential is the membrane potential of an inactive neuron, about -70 mV, with the inside negative; it is built by the sodium-potassium pump, potassium leaking out through open channels and negatively charged molecules trapped inside.
+
+**What is the difference between an EPSP and an action potential?**
+An excitatory postsynaptic potential is a small, graded depolarization of the postsynaptic membrane, while an action potential is an all-or-nothing reversal of membrane potential that is propagated along the fibre.
+
+**Does a stronger stimulus give a bigger action potential?**
+No. Action potentials are all-or-nothing and every peak is the same size; a stronger stimulus increases the frequency of impulses, not their size.
+
+**How does summation decide whether a neuron fires?**
+The neuron adds all EPSPs (positive) and IPSPs (negative) to its resting potential; if the total reaches the threshold, about -55 mV, an action potential fires. This is HL-only content in IB DP Biology C2.2.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section C2.2 Neural signalling.

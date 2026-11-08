@@ -224,6 +224,23 @@ Quartile methods differ slightly between classes, so state yours. Here the media
 - Saying plasticity is caused by mutation. It is variable gene expression.
 - Writing sex-linked alleles without the X, such as H and h on their own.
 
+## Frequently asked questions
+
+**What ratio does a monohybrid F2 cross give?**
+Crossing two heterozygous F1 plants, such as Pp × Pp, gives an F2 ratio of 3 dominant : 1 recessive phenotype, so 1,200 F2 plants would be expected to include 900 inflated and 300 constricted pods.
+
+**What causes phenylketonuria?**
+PKU is an autosomal recessive condition caused by a mutation in the gene for the enzyme that converts phenylalanine to tyrosine, so phenylalanine builds up in people with two recessive alleles; a low-phenylalanine diet prevents most of the harm.
+
+**Why are X-linked recessive disorders like haemophilia more common in males?**
+Males have only one X chromosome, so a single recessive allele such as Xʰ causes the disorder, while females need two copies; a father passes his Y, not his X, to his sons.
+
+**What is the difference between inductive and deductive reasoning in pedigrees?**
+Reading a general inheritance pattern from some cases in a pedigree is inductive reasoning; using that pattern to state a particular person's genotype is deductive reasoning.
+
+**What causes continuous variation?**
+Continuous variation, such as human height or skin colour, is caused by polygenic inheritance (many genes each with a small effect), by environmental factors, or by both.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization, section D3.2 Inheritance (statements D3.2.1 to D3.2.15).

@@ -12,13 +12,15 @@ order: 4
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-biology-unity-diversity"
-description: "Original practice questions with full worked answers covering water, nucleic acids, cell structure, viruses, classification and cladistics, evolution and speciation, conservation of biodiversity and the origins of cells, plus a general correlation-versus-causation data-skills question, for IB Diploma Programme Biology Theme A."
+description: "Original IB DP Biology Theme A practice questions with worked answers on water, nucleic acids, cells, viruses, cladistics, evolution and conservation."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -91,6 +93,20 @@ Related: [Theme A: Unity and Diversity revision notes](/resources/ib-dp-biology-
 - Naming only one component of a nucleotide's structure instead of all three (phosphate, sugar, base).
 - Giving a vague answer on speciation ("evolution happens over time") instead of the specific three-step variation-selection-isolation sequence the syllabus expects.
 - On HL cladogram questions, describing the cladogram's finding without explaining *why* it shows surface similarity can be misleading — the explanation, not just the observation, carries the marks.
+
+## Frequently asked questions
+
+**Why is water a polar molecule?**
+The oxygen atom attracts the shared electrons in each O–H bond more strongly than the hydrogen atoms do, giving a partial negative charge near the oxygen and partial positive charges near the hydrogens.
+
+**Why does a correlation not prove causation in biology data questions?**
+A correlation shows two variables change together, but other variables that differ between the groups compared, such as genetics or activity levels, could explain the pattern, so a cause cannot be confirmed from the correlation alone.
+
+**Which Theme A topics are HL only in IB DP Biology?**
+Within Theme A, Unity and diversity, the origins of cells, viruses, and classification and cladistics are HL-only sub-topics.
+
+**How should you explain speciation in an IB Biology answer?**
+Give the specific sequence: variation exists in a population, natural selection acts on it, and reproductive isolation lets the separated groups diverge genetically until they become separate species. Writing only "evolution happens over time" is too vague.
 
 ## Official syllabus
 

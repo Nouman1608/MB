@@ -232,6 +232,23 @@ Unlike matter, energy is not recycled. It enters as light (or from oxidation rea
 - Saying the Keeling Curve rise is "because of photosynthesis and respiration" without separating the seasonal zigzag from the long-term trend.
 - Treating a forest as always a sink.
 
+## Frequently asked questions
+
+**What is primary production?**
+Primary production is the accumulation of carbon compounds in the biomass of autotrophs, measured as carbon mass per square metre per year (g m⁻² yr⁻¹); biomass builds up only when organisms grow or reproduce.
+
+**Why do biomes differ in primary production?**
+Tropical rainforest has warmth, water and light all year, so it accumulates a lot of biomass, while tundra and hot desert accumulate little because low temperature, short growing seasons or lack of water limit photosynthesis.
+
+**What should a carbon cycle diagram include?**
+Boxes for CO₂ in air or water, producers, consumers, dead organic matter and decomposers, with labelled arrows for photosynthesis, feeding (from the organism eaten to the feeder), death and egestion, decomposition, and respiration from every living box back to CO₂.
+
+**How do fossil fuels differ in the age of their carbon?**
+Biomass holds recent carbon fixed within years to centuries, peat forms over thousands of years, oil and natural gas over millions of years from marine organisms, and coal mainly from plant remains buried hundreds of millions of years ago.
+
+**Why are decomposers essential to nutrient recycling?**
+Bacteria and fungi digest dead organic matter and faeces and release inorganic ions and carbon dioxide that autotrophs can take up again; without them nutrients would stay locked in dead material and primary production would fall.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. This page covers statements C4.2.15 to C4.2.22.

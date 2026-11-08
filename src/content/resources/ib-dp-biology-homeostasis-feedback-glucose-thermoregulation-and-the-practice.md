@@ -152,6 +152,20 @@ These questions cover section D3.3 (Homeostasis) of the IB *Biology guide*, firs
 - Try [all free 10-minute diagnostics](/diagnostics/) to find your weakest areas.
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which parts of IB DP Biology D3.3 Homeostasis are HL only?**
+Statements D3.3.7 to D3.3.11 are HL only, covering the kidney, excretion and osmoregulation, ultrafiltration and reabsorption, the loop of Henle, ADH and changes in blood supply to organs.
+
+**Why is negative feedback used to control body temperature?**
+Negative feedback reverses a change from the set point in either direction, so a rise triggers cooling and a fall triggers warming; positive feedback would push the temperature further away.
+
+**What is the difference between type 1 and type 2 diabetes?**
+In type 1 diabetes the beta cells are destroyed so little or no insulin is made, and it needs insulin treatment. In type 2 the target cells respond poorly to insulin; it is linked to lifestyle factors and may be managed by diet, exercise or medicines.
+
+**How does ADH change urine volume?**
+ADH causes aquaporins to move into the membranes of collecting duct cells, increasing water reabsorption. Less ADH moves aquaporins into vesicles, so less water is reabsorbed and more dilute urine forms; ADH does not create or destroy aquaporins.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section D3.3, Homeostasis.

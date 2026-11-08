@@ -16,13 +16,15 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "enzymes"
     subtopic: "effects-of-temperature-and-ph"
-description: "Enzymes as biological catalysts, the lock-and-key model of enzyme specificity, and the effects of temperature and pH on enzyme activity, for Cambridge O Level Biology 5090."
+description: "Enzymes as biological catalysts, the lock-and-key model, reaction progress, and how temperature and pH affect activity, for Cambridge O Level Biology 5090."
 author: "saad-zai"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers Topic 5, Enzymes, in full — subtopics **5.1 Enzyme
@@ -143,6 +145,20 @@ matching the product's shape rather than the substrate's.
 - How temperature affects rate on both sides of the optimum, including
 denaturation, kinetic energy and effective collision frequency
 - How pH affects enzyme activity, and its link to shape and denaturation
+
+## Frequently asked questions
+
+**What is the difference between a catalyst and an enzyme?**
+A catalyst is any substance that increases the rate of a chemical reaction without being changed by it. An enzyme is a protein that acts as a biological catalyst in metabolic reactions.
+
+**Is O Level Biology 5090 tiered for the enzymes topic?**
+No. Cambridge O Level Biology 5090 is not tiered, so every candidate covers all of the enzyme action and temperature and pH content.
+
+**How should you explain why rate increases with temperature?**
+Refer to kinetic energy and the frequency of effective collisions: as temperature rises toward the optimum, molecules move faster, so enzyme and substrate collide successfully more often.
+
+**Does the active site match the shape of the substrate or the product?**
+The substrate. The active site has a shape complementary to its specific substrate; describing it as matching the product is a common mistake.
 
 ## Related resources
 

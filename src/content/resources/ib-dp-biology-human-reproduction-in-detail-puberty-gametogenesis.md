@@ -222,6 +222,23 @@ After the menopause, the ovaries secrete much less oestrogen. Hormone replacemen
 
 Use the [practice questions](/resources/ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis-practice/) next, then test yourself with the [revision notes](/resources/ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis-revision-notes/).
 
+## Frequently asked questions
+
+**What are the four stages of gametogenesis?**
+Both spermatogenesis and oogenesis pass through mitosis, cell growth, meiosis (two divisions) and differentiation into gametes, but they differ in the number of gametes made and how cytoplasm is divided.
+
+**When does meiosis II finish in oogenesis?**
+The secondary oocyte is arrested in meiosis II and completes it only if a sperm enters, producing an ovum and a second polar body.
+
+**Why is childbirth controlled by positive feedback?**
+Contractions push the baby's head against the cervix, stretch receptors signal the hypothalamus, and the posterior pituitary releases more oxytocin, which causes stronger contractions; the output increases the stimulus until birth.
+
+**What does the placenta exchange between mother and foetus?**
+Oxygen, glucose, amino acids, water, minerals, vitamins and antibodies pass to the foetus, and carbon dioxide, urea and heat pass to the mother, across the large surface area of the villi without the bloods mixing.
+
+**Why did early studies suggest HRT protected against heart disease?**
+Early observational studies compared women who chose HRT with those who did not, and HRT users tended to have higher socioeconomic status, a confounding variable; randomized trials later found a small increase in CHD risk with HRT.
+
 ## Official syllabus
 
 Source: *Biology guide*, first assessment 2025, International Baccalaureate Organization (Diploma Programme), sub-topic D3.1, statements D3.1.13 to D3.1.20 (Additional higher level).

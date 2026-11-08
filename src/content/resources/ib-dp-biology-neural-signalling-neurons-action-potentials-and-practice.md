@@ -189,6 +189,20 @@ Toxin A blocks voltage-gated sodium channels. Toxin B blocks voltage-gated potas
 - Try all free 10-minute diagnostics at [/diagnostics/](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which parts of IB DP Biology C2.2 Neural signalling are HL only?**
+Statements C2.2.8 to C2.2.16 are HL only, including action potentials and their propagation, oscilloscope traces, saltatory conduction, effects of exogenous chemicals, summation, inhibitory potentials and pain perception.
+
+**How do you calculate the speed of a nerve impulse?**
+Speed = distance ÷ time; convert the time from ms to seconds before dividing so the answer is in m s⁻¹, and give units with each answer.
+
+**What does R² show about a correlation?**
+R² is the square of the correlation coefficient and gives the proportion of the variation in the dependent variable explained by the independent variable; for example, an R² of 0.98 means about 98% of the variation is explained.
+
+**How is neurotransmitter released at a synapse?**
+An action potential depolarizes the presynaptic membrane, voltage-gated calcium channels open and calcium ions diffuse in, and this causes vesicles to fuse with the membrane and release neurotransmitter by exocytosis.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section C2.2 Neural signalling.

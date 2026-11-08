@@ -222,5 +222,22 @@ Always give the unit and say how many significant figures or decimal places you 
 - Quoting an angle of curvature without a mean or a sample size.
 - Treating a hormone effect as instant: epinephrine acts through the blood and nerves act faster, so say which is which when comparing.
 
+## Frequently asked questions
+
+**What does melatonin do?**
+Melatonin is made by the pineal gland; it is low in the day, rises in the evening and peaks at night, and because light suppresses it, it sets the sleep-wake cycle (circadian rhythm).
+
+**What are the effects of epinephrine?**
+Epinephrine from the adrenal glands raises heart rate and stroke volume, diverts blood to skeletal muscle, widens bronchioles and pupils, and makes the liver convert glycogen to glucose, preparing the body for vigorous activity.
+
+**How does auxin make plant cells elongate?**
+Auxin causes proton pumps to move hydrogen ions into the cell wall space; the lower pH loosens cellulose cross-links, so turgor stretches the wall and the cell elongates. This is HL-only content.
+
+**Why is fruit ripening an example of positive feedback?**
+Ethylene stimulates ripening, and ripening fruit makes more ethylene, so the change is amplified and fruits ripen rapidly and together.
+
+**Which parts of gut movement are voluntary?**
+Starting a swallow and egestion of faeces are voluntary and controlled by the central nervous system; peristalsis through the oesophagus, stomach and intestines is involuntary and controlled by the enteric nervous system.
+
 ## Official syllabus
 This page follows the IB *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization.

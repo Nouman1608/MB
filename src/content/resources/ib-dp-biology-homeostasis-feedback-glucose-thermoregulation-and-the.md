@@ -222,6 +222,23 @@ Blood flow is redirected by arterioles. Smooth muscle in their walls contracts (
 - Saying ADH changes the number of aquaporins made. It changes their location.
 - Saying water is pumped out of the collecting duct. Water moves by osmosis.
 
+## Frequently asked questions
+
+**What is homeostasis?**
+Homeostasis is keeping the internal environment of an organism within preset limits even when the external environment changes, using negative feedback to return variables to their set points.
+
+**How does the body respond to cold?**
+Thermoreceptors and the hypothalamus detect the fall; skin arterioles constrict, muscles shiver, brown adipose tissue releases heat, and thyroxin from the thyroid raises metabolic rate. The responses weaken as temperature returns to the set point.
+
+**What is the difference between excretion and osmoregulation?**
+Excretion is the removal of metabolic waste such as urea from the body; osmoregulation is the regulation of osmotic concentration, measured in osmol L⁻¹. The kidney does both, but they are different processes.
+
+**What happens during ultrafiltration in the kidney?**
+High blood pressure in the glomerulus forces plasma through the capillary wall, the basement membrane and the slits between podocytes into Bowman's capsule; water and small solutes pass, while blood cells and large plasma proteins stay in the blood.
+
+**How is blood redirected to muscles during exercise?**
+Smooth muscle in arteriole walls relaxes (vasodilation) in vessels supplying skeletal muscle and contracts (vasoconstriction) in vessels to the gut and kidneys, while the brain's supply is kept roughly constant.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section D3.3, Homeostasis.

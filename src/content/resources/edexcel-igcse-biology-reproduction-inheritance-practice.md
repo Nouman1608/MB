@@ -12,13 +12,15 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "reproduction-and-inheritance-edexcel-igcse-biology"
-description: "Original practice questions with full worked answers covering reproduction, DNA and the genome, monohybrid inheritance, mitosis, meiosis and natural selection, for Topic 3 of Pearson Edexcel International GCSE Biology (4BI1)."
+description: "Original practice questions with worked answers on reproduction, DNA, monohybrid crosses, mitosis, meiosis and natural selection for Edexcel IGCSE Biology 4BI1."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -100,6 +102,20 @@ Question 7(b) is deliberately written to test the distinction between an environ
 appear, because this is one of the most persistent misconceptions in natural selection questions at
 this level -- a student who believes the antibiotic itself made bacteria resistant has fundamentally
 misunderstood the mechanism, even if they can correctly describe the population-level outcome.
+
+## Frequently asked questions
+
+**How are marks given for a genetic cross question in Edexcel IGCSE Biology?**
+Marks are given for the working, not just the final ratio: correct parental genotypes and gametes, then correctly combined offspring genotypes and phenotypes. Always show the gametes separately before combining them.
+
+**What is the most common mistake in natural selection questions?**
+Saying the environment (for example an antibiotic) causes the variation. In Pearson Edexcel IGCSE Biology (4BI1), the selection pressure only selects variation that already existed, so the resistant individuals survive and reproduce.
+
+**How do you explain why a seed in a test tube did not germinate?**
+Identify the specific condition that was missing in that tube (water, oxygen or a suitable temperature) and link it to its role, such as oxygen being needed for respiration to release energy.
+
+**Are these past-paper questions?**
+No. They are original questions written for revision; they do not copy Pearson's papers or their exact structure and mark tariffs, so use them alongside official past papers.
 
 ## Official syllabus
 

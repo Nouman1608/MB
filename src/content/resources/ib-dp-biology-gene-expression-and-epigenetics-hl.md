@@ -237,6 +237,23 @@ Wild type rises 1400 / 2 = **700-fold** with lactose. The mutant is high either 
 - Saying cells of one organism have different genomes; the transcriptomes differ.
 - Treating a correlation between pollution and methylation as proof of cause.
 
+## Frequently asked questions
+
+**What are the three stages of gene expression?**
+In the most common pathway, the gene is transcribed into mRNA, the mRNA is translated into a polypeptide, and the protein product then carries out its function, such as catalysing a reaction, which affects the phenotype.
+
+**How does mRNA degradation regulate protein production?**
+Nucleases break down mRNA after a time that may range from minutes to days; a short-lived mRNA gives a brief burst of protein so the cell can change quickly, while a long-lived one keeps producing protein.
+
+**What is epigenesis?**
+Epigenesis is the process by which cells of a multicellular organism develop different patterns of differentiation; it changes phenotype without changing the order of bases in DNA.
+
+**Why are monozygotic twins used to study epigenetics?**
+Monozygotic twins develop from one zygote and share the same genome, so differences in their gene expression, such as methylation, can be linked to the environment.
+
+**How does a steroid hormone change gene expression?**
+A steroid hormone such as a glucocorticoid enters the cell and binds a receptor; the hormone-receptor complex enters the nucleus, binds a specific DNA sequence and acts as a transcription factor.
+
 ## Official syllabus
 
 IB *Biology guide*, first assessment 2025, International Baccalaureate Organization, section D2.2 Gene expression (additional higher level).

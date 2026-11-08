@@ -242,6 +242,23 @@ Every exon length divides by three, so omitting exons keeps the reading frame. O
 - Saying a silent mutation changes nothing: the DNA changed, the protein did not.
 - Confusing codon (mRNA) with anticodon (tRNA).
 
+## Frequently asked questions
+
+**What is the difference between the template strand and the coding strand?**
+The template strand is the DNA strand copied during transcription, so the mRNA is complementary to it; the coding strand has the same sequence as the mRNA, with T in place of U.
+
+**Why is transcription a key point for controlling gene expression?**
+Transcription is the first stage of gene expression, and cells do not express every gene at once, so switching transcription on or off controls which genes are expressed, as when beta cells transcribe the insulin gene.
+
+**How does a point mutation cause sickle cell disease?**
+In the haemoglobin β chain gene, the mRNA codon GAG for glutamic acid becomes GUG for valine; valine lacks glutamic acid's charged side chain, so in low oxygen the haemoglobin molecules stick together in fibres that distort red blood cells.
+
+**What is alternative splicing?**
+Alternative splicing joins different combinations of exons from the same pre-mRNA, so one gene can code for more than one polypeptide. This is HL-only content in IB DP Biology D1.2.
+
+**How is pre-proinsulin turned into insulin?**
+Pre-proinsulin is modified in two stages: a leading sequence is removed to give proinsulin, then a middle section is cut out, leaving two chains joined by bonds to form active insulin.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. This page is a paraphrase aligned to section D1.2.

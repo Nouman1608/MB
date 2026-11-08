@@ -245,6 +245,23 @@ Method in steps:
 - Placing carbon fixation or the Calvin cycle in the thylakoid.
 - Saying the Calvin cycle needs no light-dependent products.
 
+## Frequently asked questions
+
+**What is the difference between an absorption spectrum and an action spectrum?**
+An absorption spectrum shows how much light an extracted pigment absorbs at each wavelength; an action spectrum shows the rate of photosynthesis of a whole organism or cells at each wavelength. Both are high in blue-violet and red and low in green.
+
+**What is a limiting factor in photosynthesis?**
+A limiting factor is whichever factor (light intensity, carbon dioxide or temperature) is scarcest and holds the rate below its possible value; raising it raises the rate until another factor becomes limiting.
+
+**How does light intensity change with distance from a lamp?**
+Light intensity is proportional to 1 ÷ distance², so doubling the distance between the lamp and the plant cuts the intensity to one quarter.
+
+**What is the difference between FACE and greenhouse experiments?**
+Free-air carbon dioxide enrichment (FACE) releases carbon dioxide over open-air plots in natural conditions, while an enclosed greenhouse gives easier control of variables but alters wind, light and soil.
+
+**What does Rubisco do in the Calvin cycle?**
+Rubisco fixes carbon dioxide onto RuBP to form glycerate 3-phosphate (GP), which is then reduced to triose phosphate using ATP and reduced NADP. This is HL-only content in IB DP Biology C1.3.
+
 ## Official syllabus
 
 IB Diploma Programme Biology guide, first assessment 2025, published by the International Baccalaureate Organization. Topic C1.3 (Photosynthesis), statements C1.3.1 to C1.3.19; C1.3.9 to C1.3.19 are additional higher level.
