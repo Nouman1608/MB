@@ -148,4 +148,18 @@ s18        wound or cause GBH                           INTEND GBH
 
 **Answers:** 1. Loss of self-control; a qualifying trigger; a person of D's sex and age with normal tolerance and self-restraint might have reacted similarly. 2. *R v Golds* (2016). 3. The mens rea of the assault or battery only; no foresight of harm is needed (*Savage*). 4. What did D actually believe about the facts, and was the conduct dishonest by the standards of ordinary decent people? 5. He had not gone beyond preparation; he had not entered the post office. 6. Insanity arises from an internal disease of the mind and leads to a special verdict; automatism arises from an external factor and leads to an acquittal.
 
+## Frequently asked questions
+
+**What is the mens rea of murder in AQA A Level Law?**
+Murder is an unlawful killing under the King's peace with intention to kill or to cause grievous bodily harm. Forgetting implied malice, the intention to cause GBH, is a common exam trap in AQA A Level Law 7162.
+
+**What is the difference between insanity and automatism?**
+The key difference is the cause: an internal cause points to insanity and an external cause to automatism. For example, too much insulin is automatism (Quick), while failing to take insulin is insanity (Hennessy).
+
+**Can duress be a defence to murder?**
+No. Duress, whether by threats or of circumstances, is not available for murder or attempted murder.
+
+**Do loss of control and diminished responsibility lead to an acquittal?**
+No. They are partial defences to murder only; success leads to a manslaughter conviction with a discretionary sentence instead of the mandatory life sentence.
+
 Related: [Criminal offences and defences practice questions](/resources/aqa-a-level-law-criminal-offences-and-defences-practice/)

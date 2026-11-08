@@ -9,13 +9,15 @@ qualifications: ["a-level"]
 syllabusCodes: ["7162"]
 syllabusSeries: "For teaching from September 2017 onwards, A-level exams 2019 onwards"
 order: 3
-description: "Why the nature of law and the English legal system is examined on all three AQA A-Level Law 7162 papers, how the 25/75 mark split works, the Paper 3 option choice, and a worked IRAC-style routine."
+description: "How AQA A Level Law 7162's three papers share a 25-mark common core, how the Paper 3 option works, and a worked routine for answering problem scenarios."
 author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 AQA A-Level Law 7162 is a linear, untiered qualification assessed by three written papers, each
@@ -126,6 +128,20 @@ on one option; half-knowing both leaves a quarter of the qualification underprep
 it with authority: a named case or statutory provision, together with what that authority established.
 4. Application to the specific facts of the scenario -- it is usually replaced by further description
 of the law in general terms.
+
+## Frequently asked questions
+
+**How many papers are there in AQA A Level Law?**
+AQA A Level Law 7162 has three written papers, each lasting 2 hours and carrying 100 marks, for 300 marks in total. Each paper is worth a third of the A Level.
+
+**What is on each AQA A Level Law paper?**
+Each paper has 25 marks on the nature of law and the English legal system and 75 marks on a substantive area: Criminal law on Paper 1, Tort on Paper 2, and either Law of contract or Human rights on Paper 3.
+
+**What types of question are in AQA A Level Law exams?**
+Each paper mixes multiple-choice, short-answer and extended-writing questions. Extended questions typically ask you to apply the law to a scenario or to evaluate an area of law.
+
+**Why should you cite cases in AQA Law answers?**
+Legal answers are credited for supporting a point with authority, a named case or statutory provision. A correct statement of law with nothing behind it reads as assertion.
 
 *Written against the AQA A-Level Law 7162 specification-at-a-glance (official AQA specification page,
 verified 2026-08-28). The specification gives each paper as 33% of the A-level, and as 33.33% in its assessment

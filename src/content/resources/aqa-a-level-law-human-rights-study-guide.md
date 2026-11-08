@@ -166,3 +166,17 @@ For *advise* questions, name the Article, say whether the right is limited or qu
 5. What was decided in Pretty v United Kingdom about Article 2? *Article 2 does not create a right to die.*
 6. Who is a public authority under section 6? *Bodies such as the police and councils, and others performing public functions.*
 7. How long does a victim have to bring a Human Rights Act claim? *Normally one year.*
+
+## Frequently asked questions
+
+**Is human rights compulsory in AQA A Level Law?**
+No. Human rights is one of the optional areas of AQA A Level Law 7162; Paper 3 examines either human rights or law of contract.
+
+**What is the difference between absolute, limited and qualified rights?**
+Absolute rights, such as Article 3, cannot be limited. Limited rights, such as Articles 2 and 5, are subject to exceptions written in the Article. Qualified rights, such as Articles 8, 10 and 11, can be restricted if the restriction is lawful, has a legitimate aim and is necessary in a democratic society.
+
+**Does a declaration of incompatibility strike down an Act?**
+No. Under section 4 of the Human Rights Act 1998, the law stays valid and Parliament decides whether to change it.
+
+**Are UK courts bound by Strasbourg decisions?**
+No. Under section 2 of the Human Rights Act 1998, UK courts must take account of European Court of Human Rights case law, but they are not bound by it.

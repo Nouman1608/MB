@@ -21,13 +21,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-the-law-in-action-yla1"
     subtopic: "the-individual-yla1"
-description: "Condensed recall notes on contract and negligence, criminal liability and property offences, and defamation, human rights, privacy and occupiers' liability for A Level Law Paper 2."
+description: "Revision notes for Edexcel International A Level Law Paper 2: contract, negligence, criminal liability, property offences, defamation and occupiers' liability."
 author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-30
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -108,3 +110,17 @@ Condensed for the final weeks. For the full explanation, use the
 6. What is the key difference between the duties under the 1957 and 1984 Occupiers' Liability Acts?
 
 **Answers:** 1. Offer, acceptance, consideration, intention to create legal relations, capacity. 2. Satisfactory quality — s 9; fitness for purpose — s 10. 3. Duty of care, breach, damage caused by the breach; defences are volenti non fit injuria and contributory negligence. 4. Burglary — Theft Act 1968, s 9; making off without payment — Theft Act 1978, s 3. 5. Serious harm to their reputation. 6. The 1957 Act imposes a common duty of care on lawful visitors; the 1984 Act imposes a narrower duty on non-visitors (trespassers), engaged only where the occupier knows or has reasonable grounds to believe a danger exists and someone may come near it.
+
+## Frequently asked questions
+
+**What are the five requirements for a valid contract?**
+A valid contract needs offer, acceptance, consideration, intention to create legal relations and capacity. An invitation to treat is not an offer, and silence is not acceptance.
+
+**What is the difference between robbery and burglary?**
+Robbery is using force to steal, while burglary is trespassory entry into a building with intent. Confusing the two is a common exam trap.
+
+**Does a win at the European Court of Human Rights overturn UK law?**
+No. Claiming that a European Court of Human Rights ruling automatically overturns UK law is a common mistake; the court is a route for applicants once domestic remedies are exhausted.
+
+**What is the difference between the 1957 and 1984 Occupiers' Liability Acts?**
+The 1957 Act sets a common duty of care to lawful visitors. The 1984 Act sets a narrower duty regarding known dangers to non-visitors such as trespassers.

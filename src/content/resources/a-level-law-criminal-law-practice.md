@@ -22,13 +22,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "criminal-law-9084"
     subtopic: "sentencing-in-england-and-wales-9084"
-description: "Original practice questions with full worked answers covering elements of a crime, offences against property, and sentencing, for Cambridge AS & A Level Law Topic 2 Criminal Law (9084)."
+description: "Original practice questions with worked answers on elements of a crime, property offences and sentencing for Cambridge AS and A Level Law 9084 Topic 2."
 author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -81,6 +83,17 @@ exactly the format the study guide describes. Working through elements of a crim
 then a specific rule about completed offences (question 2), and finally a boundary question about a
 second potential offence (question 3) mirrors how a real Section A question typically escalates in
 difficulty across its parts while staying anchored to the same facts.
+
+## Frequently asked questions
+
+**What is Section A of Cambridge A Level Law Paper 2?**
+Section A of Paper 2 in Cambridge International AS and A Level Law 9084 is one compulsory scenario-based problem question using source material, split into parts that build on the same facts.
+
+**How should you structure a criminal law scenario answer?**
+Identify the offence and its statutory section, apply the actus reus and then the mens rea to the facts, and reach a conclusion. Work through each possible offence separately rather than giving one blended answer.
+
+**How do you answer an "evaluate" essay on sentencing?**
+Weigh the statement against the aims of sentencing for adults and for young offenders separately, then reach a reasoned conclusion rather than only describing the sentences available.
 
 ## Official syllabus
 

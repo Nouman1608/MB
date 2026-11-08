@@ -21,13 +21,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-the-law-in-action-yla1"
     subtopic: "the-individual-yla1"
-description: "Contract or negligence in the market, criminal liability and property offences, and the individual's rights to reputation, privacy and land -- Paper 2 of Pearson Edexcel International Advanced Level Law, one of two compulsory papers."
+description: "Contract or negligence, criminal liability and property offences, and reputation, privacy and land: Paper 2 of Pearson Edexcel International A Level Law."
 author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-30
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers **Paper 2 The Law in Action**, one of two compulsory
@@ -320,3 +322,17 @@ defences.
 - Explain Articles 10 and 11 HRA 1998, and the route to the ECtHR.
 - Distinguish the duties owed under the 1957 and 1984 Occupiers'
 Liability Acts.
+
+## Frequently asked questions
+
+**How is Edexcel International A Level Law Paper 2 assessed?**
+Paper 2, The Law in Action, is one of two compulsory papers in Pearson Edexcel International Advanced Level Law and is worth 50% of the qualification. It has five compulsory short- and extended-response questions across 3 hours.
+
+**Do you have to study both contract and negligence for Paper 2?**
+No. In section 2.1, negligence is the specification's named alternative route to contract, not an addition, so confirm with your teacher which route you are covering.
+
+**What is the difference between "explain" and "evaluate" questions on this paper?**
+An "explain" question wants the rule stated accurately with its legal source, such as the Act and section or the case. An "evaluate" or "discuss" question goes further and weighs the rule's strengths and weaknesses.
+
+**What is the difference between a condition and a warranty?**
+A condition is a major term going to the root of the contract; breach lets the innocent party treat the contract as discharged and claim damages. A warranty is a minor term, and breach gives a right to damages only.

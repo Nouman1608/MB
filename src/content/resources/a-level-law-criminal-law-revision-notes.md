@@ -27,10 +27,12 @@ syllabusTopics:
 description: "Condensed revision notes on elements of a crime, offences against property, and sentencing for Cambridge AS & A Level Law Topic 2 Criminal Law (9084)."
 author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Related: [Topic 2 study guide](/resources/a-level-cambridge-law-criminal-law/)
@@ -122,3 +124,17 @@ belonging to another with intent to permanently deprive. 3. Robbery is theft acc
 threat of force, immediately before or at the time of the theft. 4. False representation (s2), failing
 to disclose information (s3), abuse of position (s4). 5. 50% — heavier than Paper 1's 30% because
 Section A's scenario-based format tests application of legal rules to facts using source material.
+
+## Frequently asked questions
+
+**Is a burglary under s9(1)(a) complete if nothing is stolen?**
+Yes. Burglary under s9(1)(a) Theft Act 1968 is complete on entry as a trespasser with intent to commit a listed offence, so it does not require the theft itself to succeed.
+
+**What are the aims of sentencing in Cambridge A Level Law?**
+The Cambridge 9084 syllabus names no fixed list, but commonly cited aims include punishment, deterrence, rehabilitation, public protection and reparation. They are assessed separately for adults and young offenders.
+
+**What are the assessment objective weightings on Cambridge Law Paper 2?**
+On Paper 2, AO1 knowledge and understanding is 35%, AO2 analysis and application is 50%, and AO3 evaluation is 15%. The AO2 weighting is heavier than Paper 1's 30% because of the scenario-based Section A.
+
+**Can one set of facts lead to several property offences?**
+Yes. A defendant who enters a shop as a trespasser, threatens the shopkeeper with a weapon and takes cash could face burglary, robbery and aggravated burglary, each needing its own actus reus and mens rea.
