@@ -304,6 +304,20 @@ Angle R = angle P = 110°    (opposite angles equal)
 
 Use the [revision notes](/resources/oxfordaqa-igcse-mathematics-angle-facts-polygons-and-quadrilaterals-revision-notes/) for quick recall, then the [practice questions](/resources/oxfordaqa-igcse-mathematics-angle-facts-polygons-and-quadrilaterals-practice/). Try a [free diagnostic](/diagnostics/) afterwards to see what to revisit.
 
+## Frequently asked questions
+
+**What are vertically opposite angles?**
+When two straight lines cross, the angles opposite each other are equal. These are called vertically opposite angles.
+
+**What does the notation ∠ABC mean?**
+∠ABC means the angle at B, between the lines BA and BC. The middle letter is always the vertex of the angle.
+
+**What are the properties of a parallelogram?**
+A parallelogram has opposite sides equal and parallel, opposite angles equal, and diagonals that bisect each other.
+
+**Which OxfordAQA 9260 content does this angle topic cover?**
+It covers points G1 to G5 of the OxfordAQA International GCSE Mathematics 9260 geometry content: terms and notation, angle facts, parallel lines, triangles, polygon angles and special quadrilaterals.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.3.1, references G1 to G5.

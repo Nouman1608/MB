@@ -328,6 +328,23 @@ Replacing x with kx shrinks the graph horizontally and divides the period by k. 
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-mathematics-sine-and-cosine-rules-radians-arcs-and-sectors-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-mathematics-sine-and-cosine-rules-radians-arcs-and-sectors-revision-notes/) to keep the key results fresh. Record your progress on the [checklist](/checklists/oxfordaqa/a-level/mathematics/).
 
+## Frequently asked questions
+
+**What is a radian?**
+One radian is the angle at the centre of a circle made by an arc as long as the radius. π radians equal 180°.
+
+**What is the formula for the area of a triangle using sine?**
+Area = ½ab sin C, where C is the angle between sides a and b. The angle must be the one enclosed by the two sides used.
+
+**Which OxfordAQA 9660 section covers trigonometry and radians?**
+The sine and cosine rules, triangle area, radians, arcs, sectors and trig graphs are in section PP1.2 of the OxfordAQA 9660 specification, in the pure maths part of Unit PSM1.
+
+**Do you need to memorise the arc length and sector area formulae?**
+Yes. The specification says you need to know l = rθ and A = ½r²θ, with θ in radians.
+
+**What are the periods of the sin, cos and tan graphs?**
+y = sin x and y = cos x repeat every 360° (2π), and y = tan x repeats every 180° (π).
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, section 3.2.1, content statement PP1.2: Trigonometry. Published by OxfordAQA.

@@ -141,6 +141,20 @@ Round angles in degrees to 1 decimal place and radians to 3 significant figures 
 - Take the [free 10-minute diagnostics](/diagnostics/) to find your next weak area.
 - [Book a free trial class](/trial/) if you want to work through these with a teacher.
 
+## Frequently asked questions
+
+**Why do students miss solutions to trigonometric equations?**
+They stop at the principal value from the calculator. The interval usually holds two or more solutions, found using the symmetry of the graph.
+
+**How do you solve an equation with a shifted angle like sin(θ − 20°)?**
+Change the interval for the bracket first, solve for the bracket, then undo the shift and check each answer lies in the original interval.
+
+**Why should you factorise instead of cancelling a common trig factor?**
+Cancelling sin θ or cos θ from both sides loses the solutions where that factor is zero. Move everything to one side and factorise.
+
+**What should you do with a root like cos θ = −2?**
+Reject it and say why: cos θ and sin θ always lie between −1 and 1, so the equation has no solution for that root.
+
 ## Official syllabus
 
 These questions follow the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2, published by OxfordAQA (International AS exams from May/June 2018, A-level from May/June 2019), content area PP1.2 Trigonometry.

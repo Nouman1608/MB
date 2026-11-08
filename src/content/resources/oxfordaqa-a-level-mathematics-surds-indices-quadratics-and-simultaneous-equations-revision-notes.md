@@ -273,6 +273,20 @@ The line meets the curve at one point only, (3, 5). A value of k above 2 gives t
 - Giving only the x-values for simultaneous equations when the question asks for coordinates or pairs.
 - Rounding too early in a multi-step question that asks for an exact value.
 
+## Frequently asked questions
+
+**How do you simplify a surd like √48?**
+Pull out the largest square factor: √48 = √16 × √3 = 4√3.
+
+**What does a negative index mean?**
+a⁻ⁿ = 1/aⁿ, a reciprocal. A negative power never makes the value negative, so 2⁻³ = 1/8.
+
+**How do you find the vertex of a parabola from completed-square form?**
+For y = a(x + p)² + q, the vertex is (−p, q) and the line of symmetry is x = −p. Stating the vertex as (p, q) is a common error.
+
+**How do you solve x² < 9?**
+The answer is −3 < x < 3, between the roots. Writing x < ±3 is wrong.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA. Content P1.1 (Algebra), International AS Unit P1 (Pure Maths).

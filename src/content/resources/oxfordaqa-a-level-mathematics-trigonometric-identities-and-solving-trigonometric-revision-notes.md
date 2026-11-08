@@ -261,6 +261,19 @@ Answer without looking at the answers. Intervals are 0° ≤ θ ≤ 360° unless
   <figcaption>A reciprocal graph has asymptotes where the original is zero and touches it where the original is ±1.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What are the two trigonometric identities in OxfordAQA PP1.2?**
+They are tan θ = sin θ / cos θ (for cos θ ≠ 0) and sin²θ + cos²θ = 1.
+
+**What is the second solution of tan θ = k?**
+For tan, the second solution is 180° (π) after the first, not 180° − α. Tangent has period 180°.
+
+**What is the difference between an identity and an equation?**
+An identity holds for every value of θ, while an equation holds only for particular values, which you find by solving.
+
+**What does sin²θ mean?**
+sin²θ means (sin θ)². It does not mean sin(θ²).
 
 ## Official syllabus
 

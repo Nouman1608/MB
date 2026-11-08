@@ -145,6 +145,20 @@ These questions cover section M2.5 (Projectiles) of the OxfordAQA International 
 * Try [all free 10-minute diagnostics](/diagnostics/).
 * [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the speed of a projectile at its highest point?**
+It is not zero. Only the vertical component of velocity is zero at the top, so the speed equals the horizontal component V cos α.
+
+**Can you use the level-ground range formula when a ball is thrown from a cliff?**
+No. When the landing point is above or below the launch point, put the landing level into the vertical equation instead, with the correct sign, such as y = −25 for a 25 m drop.
+
+**Why might a projectile question have two possible launch angles?**
+Using the trajectory equation often gives a quadratic in tan α. If both roots are valid, both angles should be given.
+
+**What should you write in a "does it clear the wall" question?**
+Find the height of the projectile at the wall's horizontal distance, compare it with the wall height, and state a clear conclusion. Leaving out the final statement loses marks.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA. Section M2.5: Projectiles.

@@ -291,6 +291,20 @@ The median and upper quartile come from a cubic that has no simple factorisation
 
 Try the [practice questions](/resources/oxfordaqa-a-level-mathematics-probability-density-and-cumulative-distribution-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-mathematics-probability-density-and-cumulative-distribution-revision-notes/) for quick recall. Then use the [checklist](/checklists/oxfordaqa/a-level/mathematics/) to tick this topic off.
 
+## Frequently asked questions
+
+**What is the difference between a discrete and a continuous random variable?**
+A discrete random variable takes separate values that can be listed, and probabilities are found by adding. A continuous random variable can take any value in an interval, and probabilities are areas under the pdf.
+
+**What is a cumulative distribution function?**
+The cdf F(x) gives P(X ≤ x), the area under the pdf up to x. It is 0 below the range, 1 above it and never decreases.
+
+**How do you find P(a < X < b) from a cdf?**
+Subtract: P(a < X < b) = F(b) − F(a). For an upper tail, P(X > a) = 1 − F(a).
+
+**Which OxfordAQA 9660 section covers pdfs and cdfs?**
+Probability density functions and cumulative distribution functions are in section S2.2 of OxfordAQA International A-level Mathematics 9660, in Unit S2.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), specification Version 5.2, published by OxfordAQA: section 3.4 International A-level Unit S2 (Statistics), S2.2 Continuous random variables.

@@ -236,6 +236,20 @@ The result applies to sums. Do not assume the difference X − Y is Poisson. The
 
 Condense the content with the [revision notes](/resources/oxfordaqa-a-level-mathematics-the-poisson-distribution-revision-notes/), then work through the [practice questions](/resources/oxfordaqa-a-level-mathematics-the-poisson-distribution-practice/) under timed conditions. The [diagnostics](/diagnostics/) show which unit to revise next.
 
+## Frequently asked questions
+
+**What conditions are needed for a Poisson distribution?**
+Events must occur singly, at random, independently of one another and at a constant average rate, so the mean number in an interval is proportional to its size.
+
+**What is the difference between the binomial and Poisson distributions?**
+A binomial has a fixed number of trials and counts successes up to n. A Poisson has no fixed number of trials and counts events in an interval with no upper limit.
+
+**How do you find P(X = r) from cumulative Poisson tables?**
+Subtract consecutive cumulative values: P(X = r) = P(X ≤ r) − P(X ≤ r − 1).
+
+**Which OxfordAQA 9660 section covers the Poisson distribution?**
+The Poisson distribution is section S2.1 of OxfordAQA International A-level Mathematics 9660, in Unit S2 (Statistics).
+
 ## Official syllabus
 
 This page follows the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2, section 3.4 (International A-level Unit S2: Statistics), S2.1 Poisson distribution, published by OxfordAQA.

@@ -164,6 +164,20 @@ L ---------- T ------ M
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Do you need to give reasons in angle questions?**
+Yes. Name the exact fact used for each angle, such as "alternate angles" or "angles on a straight line". An angle with no reason, or a vague one, can lose marks.
+
+**What is the difference between alternate and interior angles?**
+Alternate angles between parallel lines are equal. Interior (co-interior) angles, on the same side of the transversal, add up to 180°.
+
+**How do you find the number of sides of a regular polygon from its angles?**
+Divide 360° by the exterior angle. Dividing 360° by the interior angle is a common mistake.
+
+**Can you measure angles from the diagram in an exam?**
+No. Diagrams may not be drawn to scale, so calculate angles from the given facts instead of measuring them.
+
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.3.1, references G1 to G5.

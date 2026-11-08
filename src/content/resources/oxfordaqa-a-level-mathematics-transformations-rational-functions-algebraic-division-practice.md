@@ -137,6 +137,20 @@ Related pages: the [OxfordAQA Mathematics hub](/boards/oxfordaqa/a-level/mathema
 - Take all [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**What is the most common error with graph transformations?**
+Reading f(x + a) as a shift to the right, or f(2x) as a stretch of factor 2. f(x + a) moves the graph left, and f(2x) is a stretch of factor 1/2 parallel to the x-axis.
+
+**Which value do you substitute in the Remainder Theorem for a divisor like (2x + 1)?**
+Substitute x = −b/a, so for (2x + 1) use f(−1/2). Getting the sign of −b/a wrong is a frequent slip.
+
+**When must you divide before using partial fractions?**
+When the degree of the numerator is equal to or greater than the degree of the denominator. Divide first, then split the remainder fraction.
+
+**Why can you not cancel terms in a rational expression?**
+You can only cancel common factors of the whole numerator and denominator. Cancelling a single term from a sum, such as an x² in (x² + 3)/x², is wrong.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA. For International AS exams from May/June 2018 and International A-level exams from May/June 2019. Section P2.1: Algebra and functions.

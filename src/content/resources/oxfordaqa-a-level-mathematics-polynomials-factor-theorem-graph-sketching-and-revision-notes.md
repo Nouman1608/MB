@@ -233,7 +233,20 @@ For y = x² − 4x + 7, the line of symmetry is x = 2 and the vertex is (2, 3). 
 - Giving intercepts as numbers when the question asks for coordinates.
 - Sketching a double root as a crossing.
 
+## Frequently asked questions
+
+**What is the Remainder Theorem?**
+When a polynomial f(x) is divided by (x − a), the remainder is f(a). If that remainder is zero, (x − a) is a factor.
+
+**How do you factorise a cubic?**
+Test small integers that divide the constant term until f(a) = 0, then divide by (x − a) to get a quadratic. Factorise the quadratic, or use its discriminant to check for real roots.
+
+**What does a repeated root look like on a graph?**
+A repeated root, from a squared factor, makes the curve touch the x-axis and turn there instead of crossing it.
+
+**Does y = f(x + 3) move the graph left or right?**
+It moves the graph 3 units left, a translation by the vector (−3, 0). Treating it as a move to the right is a common error.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA. See section 3.1, International AS Unit P1 (Pure Maths), content area P1.1.
-

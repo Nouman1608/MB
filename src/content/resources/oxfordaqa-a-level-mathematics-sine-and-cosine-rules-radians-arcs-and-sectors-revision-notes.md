@@ -249,6 +249,20 @@ A sector has radius 9 cm and area 40.5 cm². Then 40.5 = ½ × 81 × θ, so θ =
 - Giving the period of sin 2x as 720° instead of 180°.
 - Not showing the substitution, which makes it hard for an examiner to give credit for a correct method.
 
+## Frequently asked questions
+
+**When do you use the cosine rule instead of the sine rule?**
+Use the cosine rule when you know two sides and the angle between them, or all three sides. Use the sine rule when you know a side and its opposite angle, plus one more fact.
+
+**What is the ambiguous case of the sine rule?**
+When you know two sides and an angle that is not between them, the sine rule can give an acute angle θ and an obtuse angle 180° − θ. Check whether both give a valid triangle.
+
+**How do you convert degrees to radians?**
+Use π radians = 180°. Multiply an angle in degrees by π/180 to get radians.
+
+**Why must angles be in radians for arc length and sector area?**
+The formulae l = rθ and A = ½r²θ only hold when θ is in radians. Convert any angle in degrees first.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, section 3.2.1, content statement PP1.2: Trigonometry. Published by OxfordAQA.

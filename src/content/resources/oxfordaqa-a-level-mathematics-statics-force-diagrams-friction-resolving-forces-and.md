@@ -284,6 +284,20 @@ If P is small, the particle tends to slide down, so friction acts up the slope: 
 
 Test yourself on the [practice questions](/resources/oxfordaqa-a-level-mathematics-statics-force-diagrams-friction-resolving-forces-and-practice/), then condense with the [revision notes](/resources/oxfordaqa-a-level-mathematics-statics-force-diagrams-friction-resolving-forces-and-revision-notes/). For friction on a sliding particle and Newton's laws, see the [M1 forces guide](/resources/oxfordaqa-a-level-mathematics-forces-newtons-laws-connected-particles-momentum-and/). Use the [diagnostics](/diagnostics/) to find weak spots, and tick off the topic on the [checklist](/checklists/oxfordaqa/a-level/mathematics/).
 
+## Frequently asked questions
+
+**What does it mean for a particle to be in equilibrium?**
+The resultant force on it is zero, so the components of the forces sum to zero in every direction.
+
+**Which directions should you resolve in?**
+Choose two perpendicular directions, usually along and perpendicular to the surface, so that as many unknown forces as possible lie along them.
+
+**Which way does friction act?**
+Friction acts along the surface and opposes the sliding, or the tendency to slide. Its size satisfies F ≤ μR.
+
+**Which OxfordAQA 9660 section covers statics and friction?**
+Force diagrams, friction, resolving forces and the equilibrium of a particle are in section M2.3 of OxfordAQA International A-level Mathematics 9660, in Unit M2.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, section M2.3 Statics and forces, published by OxfordAQA.

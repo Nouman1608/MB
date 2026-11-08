@@ -324,6 +324,20 @@ Questions often join several of these skills. A typical chain: find a gradient f
 * Leaving the answer as y = (−3/4)x + 19/4 when the question asks for whole-number coefficients in the form ax + by + c = 0.
 * Squaring a bracket wrongly: (2 − m)² is not 4 − m².
 
+## Frequently asked questions
+
+**What are the three forms of the equation of a straight line?**
+They are y = mx + c, y − y₁ = m(x − x₁) and ax + by + c = 0. Use the point-gradient form when you know a point and a gradient, and convert at the end if another form is asked for.
+
+**How do you find where a line meets a curve?**
+Substitute the line into the curve, rearrange into a quadratic equal to zero, solve it, then find each y from the line equation.
+
+**What does the discriminant tell you about a line and a curve?**
+If b² − 4ac > 0 the line cuts the curve at two points, if it equals 0 the line is a tangent, and if it is negative they do not meet.
+
+**Which OxfordAQA 9660 section covers straight lines?**
+Section P1.2 of the OxfordAQA 9660 specification, in Unit P1, covers equations of straight lines, gradients, mid-points, distances, parallel and perpendicular lines and line-curve intersections.
+
 ## Official syllabus
 
 This guide follows section P1.2 (Coordinate geometry) in section 3.1 of the OxfordAQA International AS and A-level Mathematics specification (9660), Version 5.2, published by OxfordAQA. Check the current specification on the OxfordAQA website for any updates.

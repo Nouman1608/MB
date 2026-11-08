@@ -235,6 +235,20 @@ Before you move on, run through these checks.
 
 Exam-technique advice for the whole course is in [exam preparation](/resources/oxfordaqa-a-level-mathematics-exam-preparation/).
 
+## Frequently asked questions
+
+**What is the addition law of probability?**
+For any two events, P(A ∪ B) = P(A) + P(B) − P(A ∩ B). If the events are mutually exclusive, P(A ∩ B) = 0 and the probabilities simply add.
+
+**What is the formula for conditional probability?**
+P(B | A) = P(A ∩ B) / P(A). It is the multiplication law P(A ∩ B) = P(A) × P(B | A) rearranged.
+
+**How do you find the probability of "at least one"?**
+Find the probability of "none" and subtract it from 1, using the complement rule P(A') = 1 − P(A).
+
+**What is the probability that exactly one of two events happens?**
+It is P(A) + P(B) − 2 × P(A ∩ B), because the overlap has to be removed from both events.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA. Section S1.1 (Further probability), Unit PSM1, International AS exams from May/June 2018 and International A-level exams from May/June 2019.

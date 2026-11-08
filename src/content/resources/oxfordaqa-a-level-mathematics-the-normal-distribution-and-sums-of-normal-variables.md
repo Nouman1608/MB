@@ -263,6 +263,20 @@ Decide which situation applies by reading the context. Several separate items fr
 
 Condense this into the [revision notes](/resources/oxfordaqa-a-level-mathematics-the-normal-distribution-and-sums-of-normal-variables-revision-notes/), then test yourself on the [practice questions](/resources/oxfordaqa-a-level-mathematics-the-normal-distribution-and-sums-of-normal-variables-practice/). Check your coverage on the [checklist](/checklists/oxfordaqa/a-level/mathematics/) and see the [course hub](/boards/oxfordaqa/a-level/mathematics/) for related units.
 
+## Frequently asked questions
+
+**What are the properties of the normal distribution?**
+It is bell-shaped and symmetric about the mean μ, so the mean, median and mode are equal. The total area under the curve is 1.
+
+**What is a table of percentage points used for?**
+It gives the z-value for a given cumulative probability, so you can work backwards from a probability to find an unknown mean or standard deviation.
+
+**What is the distribution of the sum of two independent normal variables?**
+If X ~ N(μ₁, σ₁²) and Y ~ N(μ₂, σ₂²) are independent, then X + Y ~ N(μ₁ + μ₂, σ₁² + σ₂²).
+
+**Which OxfordAQA 9660 section covers the normal distribution?**
+The normal distribution and sums of independent normal variables are in section S2.4 of OxfordAQA International A-level Mathematics 9660, in Unit S2. The sum result is used without proof.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, section S2.4: Normal distribution, published by OxfordAQA. See the specification for the most up-to-date content.

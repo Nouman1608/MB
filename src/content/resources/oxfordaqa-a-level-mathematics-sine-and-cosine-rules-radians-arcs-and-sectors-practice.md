@@ -174,6 +174,20 @@ Segment = 92.73 − 48 = **44.7 cm²** [1]
 - The [free 10-minute diagnostics](/diagnostics/) show you what to work on next.
 - Book a free trial class with a teacher: see the [trial class page](/trial/).
 
+## Frequently asked questions
+
+**What is the most common sine rule mistake?**
+Pairing a side with the wrong angle. Each side must be divided by the sine of the angle opposite it.
+
+**What is the difference between a sector's arc length and its perimeter?**
+The arc length is the curved edge, rθ. The perimeter of the sector also includes the two radii, so it is 2r + rθ.
+
+**How do you find the area of a segment?**
+Subtract the triangle from the sector: segment area = ½r²θ − ½r² sin θ, with θ in radians. Subtracting another sector instead of the triangle is a common error.
+
+**What is the period of y = sin 2x?**
+It is 180° or π. Replacing x with 2x halves the period of sin x.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, section 3.2.1, content statement PP1.2: Trigonometry. Published by OxfordAQA.

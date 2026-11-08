@@ -256,6 +256,20 @@ Work through each example without looking at the solution, then do the [practice
 
 The spec says students may use relevant formulae from the formulae booklet without proof, so check your own copy of the booklet to see which probability results it gives you. Learn all the laws above regardless.
 
+## Frequently asked questions
+
+**Are mutually exclusive events independent?**
+Not usually. Mutually exclusive events cannot both happen, so P(A ∩ B) = 0, while independent events have P(A ∩ B) = P(A) × P(B). Mutually exclusive events with non-zero probabilities are never independent.
+
+**What does A ∩ B mean in probability?**
+A ∩ B means A and B both happen. A ∪ B means A or B or both, and A' means not A.
+
+**How do you find an unknown probability when events are independent?**
+Let the unknown be p, write P(A ∩ B) = P(A) × p, substitute into the addition law and solve. Check that p lies between 0 and 1.
+
+**Which part of OxfordAQA 9660 covers probability laws?**
+Probability laws, conditional probability and independence are in section S1.1 of the OxfordAQA International AS and A-level Mathematics 9660 specification, taught in Unit PSM1.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA. This guide covers section S1.1 (Further probability) of Unit PSM1, for International AS exams from May/June 2018 and International A-level exams from May/June 2019.

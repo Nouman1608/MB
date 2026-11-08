@@ -230,6 +230,20 @@ For a "state a condition" question, write one sentence that names the condition 
 - Using standard deviations rather than rates when adding Poisson variables.
 - Treating the difference of two Poisson variables as Poisson.
 
+## Frequently asked questions
+
+**What is the probability formula for a Poisson distribution?**
+For X ~ Po(λ), P(X = r) = e^(−λ) λ^r / r!, for r = 0, 1, 2, ...
+
+**What are the mean and variance of a Poisson distribution?**
+Both the mean and the variance equal λ, so the standard deviation is √λ.
+
+**How can you tell if data fit a Poisson model?**
+Compare the sample mean and variance. If they are very different, the Poisson model is a poor fit, and you should say why in context.
+
+**Is the difference of two Poisson variables Poisson?**
+No. The sum of two independent Poisson variables is Poisson, Po(a) + Po(b) ~ Po(a + b), but the difference is not.
+
 ## Official syllabus
 
 These notes follow the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2, section 3.4 (International A-level Unit S2: Statistics), S2.1 Poisson distribution, published by OxfordAQA.

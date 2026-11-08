@@ -294,6 +294,23 @@ You may be asked to comment on the model. Useful points are these.
 
 Try the [practice questions](/resources/oxfordaqa-a-level-mathematics-parametric-equations-and-exponential-and-logarithmic-practice/) and condense the unit with the [revision notes](/resources/oxfordaqa-a-level-mathematics-parametric-equations-and-exponential-and-logarithmic-revision-notes/).
 
+## Frequently asked questions
+
+**What is a parameter in parametric equations?**
+A parameter is a third variable, such as t or θ, that both x and y depend on. Each value of the parameter gives one point on the curve.
+
+**Is there only one parametric form for a Cartesian curve?**
+No. Any Cartesian curve can be written parametrically in more than one correct way; for y = f(x), the simplest choice is x = t, y = f(t).
+
+**What is ln x?**
+ln x is the natural logarithm, the logarithm to base e, where e ≈ 2.71828. It is the inverse of eˣ, so ln e = 1.
+
+**Which OxfordAQA 9660 sections cover parametric equations and eˣ?**
+Parametric equations are in section P2.3, and eˣ, ln x and exponential growth and decay are in section P2.5, both in Unit P2 of OxfordAQA 9660.
+
+**How do you comment on an exponential growth model?**
+Point out that pure growth N = Aeᵏᵗ has no upper limit, while real populations run out of food or space. Interpret your answers in context, with units.
+
 ## Official syllabus
 
 *OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2*, published by OxfordAQA. This guide covers section P2.3 (Cartesian and parametric equations of curves and conversion between the two forms) and section P2.5 (the function eˣ and its graph, ln x and its graph as the inverse of eˣ, and exponential growth and decay including exponential functions as models).

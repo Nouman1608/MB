@@ -225,6 +225,20 @@ GPE gain = 20 × 9.8 × 2 = 392 J
 - Putting the net force into P = Fv rather than the force produced by the engine.
 - Giving a negative speed, or a square root of a negative number, without noticing an error in the signs.
 
+## Frequently asked questions
+
+**What is the formula for work done by a force at an angle?**
+Work done = Fd cos θ, where θ is the angle between the force and the direction of motion. The unit is the joule.
+
+**Does the normal reaction do any work?**
+No. A force perpendicular to the motion, such as the normal reaction, does no work because cos 90° = 0.
+
+**What happens to kinetic energy when speed doubles?**
+Kinetic energy is ½mv², so doubling the speed gives four times the kinetic energy.
+
+**When does a vehicle reach its maximum speed at full power?**
+When its acceleration is zero, so the driving force F = P/v equals the total resistance, including any weight component on a slope.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, section M2.6 (Work and energy). Published by OxfordAQA for International AS exams from May/June 2018 and International A-level exams from May/June 2019.

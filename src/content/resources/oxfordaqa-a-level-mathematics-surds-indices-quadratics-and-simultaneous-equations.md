@@ -327,6 +327,20 @@ Write "or" for two separate regions and a single chain for one region.
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-mathematics-surds-indices-quadratics-and-simultaneous-equations-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-mathematics-surds-indices-quadratics-and-simultaneous-equations-revision-notes/) for quick recall. For the rest of the unit, see the [Pure Maths 1 revision notes](/resources/oxfordaqa-a-level-mathematics-p1-revision-notes/) and [practice questions](/resources/oxfordaqa-a-level-mathematics-p1-practice/). To find gaps, take a [free 10-minute diagnostic](/diagnostics/).
 
+## Frequently asked questions
+
+**Is √(a + b) equal to √a + √b?**
+No. Surds multiply as √(ab) = √a × √b, but they do not split over addition.
+
+**How do you complete the square when the x² coefficient is not 1?**
+Take the factor a out of the x² and x terms first, then complete the square inside the bracket, giving a(x + p)² + q.
+
+**What does the discriminant tell you about a quadratic?**
+If b² − 4ac > 0 there are two distinct real roots, if it equals 0 there is one repeated root, and if it is negative there are no real roots.
+
+**Which OxfordAQA 9660 section covers surds, indices and quadratics?**
+Section P1.1 of the OxfordAQA 9660 specification, in Unit P1, covers surds, rational indices, quadratics and the discriminant, simultaneous equations by substitution and inequalities.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660), Version 5.2, published by OxfordAQA. Content P1.1 (Algebra), International AS Unit P1 (Pure Maths).

@@ -218,6 +218,20 @@ The y equation gives s = 1. Then z gives t = −3. Check x: 2 + 1 = 3 and 5 − 
 - Testing a point on a line by checking only one coordinate.
 - Forgetting that a negative scalar multiple is still parallel.
 
+## Frequently asked questions
+
+**What is the vector equation of a line?**
+r = a + tb, where a is the position vector of a point on the line, b is a direction vector and t is a parameter.
+
+**How do you find the magnitude of a 3D vector?**
+For (x, y, z), the magnitude is √(x² + y² + z²).
+
+**How do you show three points are collinear?**
+Find two vectors between them, such as AB and BC, show that one is a scalar multiple of the other, and state that they share a point.
+
+**How do you find the midpoint of AB using vectors?**
+The midpoint has position vector (OA + OB)/2, which is the same as OA + ½AB.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2 (International AS exams from May/June 2018, A-level from May/June 2019), published by OxfordAQA. This page covers section P2.10, first part (Unit P2, International A-level only).
