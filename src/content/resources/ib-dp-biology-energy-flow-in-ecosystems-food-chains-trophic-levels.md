@@ -213,6 +213,23 @@ Because so little energy moves up each step, the top level of a chain has very l
 - Forgetting that autotrophs respire, so they also lose energy as heat.
 - Treating the one-tenth rule of thumb as exact.
 
+## Frequently asked questions
+
+**What units are used for an energy pyramid?**
+Energy pyramids use energy per unit area per unit time, such as kJ m⁻² year⁻¹, which allows ecosystems to be compared fairly. Bars are drawn to the same scale with producers at the bottom.
+
+**Why is so much energy lost between trophic levels?**
+Energy is lost in parts that are not eaten, material eaten but not digested (faeces), excretory waste, organisms that die uneaten, and above all as heat released by cell respiration.
+
+**Do plants lose energy as heat?**
+Yes. Autotrophs respire day and night, and both making and using ATP release heat, so not all the energy captured in photosynthesis becomes plant biomass.
+
+**Which ecosystems do not depend on sunlight?**
+Caves and the ocean below the depth light reaches, such as hydrothermal vent communities, get their energy from chemoautotrophic bacteria or from dead organic matter arriving from lit areas.
+
+**Does energy per gram of biomass fall at higher trophic levels?**
+No. Total energy falls because there is less biomass at higher levels, but each gram of biomass holds a similar amount of energy.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Statements C4.2.1 to C4.2.14.

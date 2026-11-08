@@ -159,6 +159,20 @@ Learn the content first from the [study guide](/resources/ib-dp-biology-enzymes-
 - Find gaps with the [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Which parts of IB DP Biology C1.1 Enzymes and metabolism are HL only?**
+Statements C1.1.11 to C1.1.17 are HL only, covering intracellular and extracellular reactions, metabolic heat, linear and cyclical pathways, feedback inhibition and the types of enzyme inhibitor.
+
+**How do you calculate activation energy from an energy profile?**
+Subtract the energy of the reactants from the energy of the peak of the pathway; activation energy is measured from the reactants, not from zero. An enzyme lowers the peak but does not change the overall energy change.
+
+**Why does the rate of an enzyme reaction level off at high substrate concentration?**
+Every active site is already occupied nearly all the time, so extra substrate cannot increase the rate. Saying the enzyme is "used up" is a common wrong explanation.
+
+**How can you tell competitive from non-competitive inhibition in data?**
+Compare the percentage reduction in rate at low and high substrate concentration: a reduction that shrinks at high substrate shows competitive inhibition, while one that stays about the same shows non-competitive inhibition.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. This page is a paraphrase aligned to section C1.1.

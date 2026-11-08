@@ -230,6 +230,23 @@ Isolation may take three forms: geographic, behavioural or temporal.
 - Treating the EDGE programme as a list of the most endangered species only: distinctness matters too.
 - Using a case study with no named cause, such as writing only that a species "was hunted".
 
+## Frequently asked questions
+
+**What is evolution in IB DP Biology?**
+Evolution is a heritable (genetic) change in the features of a population over generations. Acquired changes, such as muscles built by training, are not evolution because they are not inherited.
+
+**How do sequence data show how closely species are related?**
+Align the DNA, RNA or protein sequences and count the differences for each pair; the fewer the differences, the more recent the common ancestor.
+
+**What are the three levels of biodiversity?**
+The three levels are ecosystem diversity, species diversity and genetic diversity.
+
+**What is the difference between species richness and evenness?**
+Richness is the number of species in an area; evenness is how similar their abundances are. Two sites can have the same richness but very different evenness, so report both.
+
+**What is the difference between in situ and ex situ conservation?**
+In situ conservation protects species in their natural habitat, for example in nature reserves or by rewilding. Ex situ conservation keeps them outside it, for example in zoos, botanic gardens or seed and tissue banks.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Biology guide*, first assessment 2025, published February 2023. Sections A4.1 and A4.2.

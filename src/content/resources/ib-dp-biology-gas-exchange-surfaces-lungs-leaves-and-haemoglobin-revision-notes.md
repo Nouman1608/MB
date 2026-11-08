@@ -222,6 +222,20 @@ Mean = 122 / 4 = 30.5. Area = pi x 0.30 x 0.30 = 0.283 mm2. Density = 30.5 / 0.2
 - Saying haemoglobin "likes" oxygen instead of using affinity.
 - Reversing left and right when describing a shift of the curve.
 
+## Frequently asked questions
+
+**What are the properties of a gas-exchange surface?**
+A gas-exchange surface is permeable to oxygen and carbon dioxide, thin (often one cell thick), moist and has a large surface area.
+
+**How is vital capacity calculated?**
+Vital capacity = tidal volume + inspiratory reserve volume + expiratory reserve volume. The residual volume that stays in the lungs is not part of vital capacity.
+
+**What is the Bohr shift?**
+The Bohr shift is the rightward shift of the oxygen dissociation curve when carbon dioxide concentration rises, which lowers haemoglobin's affinity for oxygen so more oxygen is released to respiring tissue. It is HL-only content in IB DP Biology B3.1.
+
+**Which factors increase the rate of transpiration?**
+Transpiration rises with higher light intensity, higher temperature, lower humidity and more wind, because each opens stomata wider or steepens the water vapour gradient between leaf and air.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section B3.1, Gas exchange.

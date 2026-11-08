@@ -264,6 +264,23 @@ Actively respiring tissue makes more carbon dioxide, so it gets more oxygen wher
 - Drawing cells in a plan diagram.
 - Using a left shift for the Bohr shift. It is a right shift.
 
+## Frequently asked questions
+
+**Why do larger organisms need specialised gas-exchange surfaces?**
+As size increases, volume grows faster than surface area, so the surface area-to-volume ratio falls and the distance to the centre increases; diffusion across the body surface alone is then too slow.
+
+**How are alveolar lungs adapted for gas exchange?**
+Mammalian lungs have millions of alveoli giving a high surface area, branched bronchioles, extensive capillary beds that keep gradients steep, very thin walls and surfactant that stops the alveoli sticking together.
+
+**What happens during inhalation?**
+The diaphragm contracts and flattens and the external intercostal muscles raise the ribs up and out, so thoracic volume increases, pressure falls below atmospheric pressure and air flows in.
+
+**Why does foetal haemoglobin have a higher affinity for oxygen?**
+Foetal haemoglobin is built from different polypeptide chains, giving it a higher oxygen affinity than adult haemoglobin, so its curve lies to the left and it takes oxygen from maternal blood in the placenta.
+
+**Why is a plan diagram of a leaf drawn without cells?**
+A plan diagram maps the position of tissues only, showing tissue boundaries with clear lines and non-crossing label lines; drawing individual cells is a common mistake.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Section B3.1, Gas exchange.

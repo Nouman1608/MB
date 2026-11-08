@@ -223,6 +223,20 @@ For example, a consumer ingests 500 kJ, loses 120 kJ in faeces and 15 kJ in urin
 - Confusing chemoautotrophs with heterotrophs because both use chemical energy. The chemoautotroph builds its own carbon compounds from inorganic substances.
 - Giving the one-tenth rule as exact. Say "approximately" and use the supplied data.
 
+## Frequently asked questions
+
+**What is the difference between an open and a closed system?**
+An open system, such as an ecosystem, exchanges both energy and matter with its surroundings. A closed system, such as a sealed jar ecosystem, exchanges energy only.
+
+**What is the difference between a photoautotroph and a chemoautotroph?**
+A photoautotroph uses light as its external energy source to make carbon compounds; a chemoautotroph, such as an iron-oxidizing bacterium, uses energy released by oxidation reactions of inorganic substances.
+
+**Why do most food chains have only four or five trophic levels?**
+Energy is lost at every transfer, mainly as heat from respiration, so too little energy remains at a higher level to support a viable population.
+
+**Is the one-tenth energy transfer rule exact?**
+No. "About one tenth passes on" is a rule of thumb; measured values vary between ecosystems, so say "approximately" and use the data supplied in the question.
+
 ## Official syllabus
 
 IB Diploma Programme *Biology guide*, first assessment 2025, published by the International Baccalaureate Organization. Statements C4.2.1 to C4.2.14.

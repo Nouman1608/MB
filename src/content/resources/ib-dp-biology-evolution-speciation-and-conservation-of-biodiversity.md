@@ -220,6 +220,20 @@ The **EDGE of Existence** programme prioritizes species that are **evolutionaril
 - Treating gradual change in one lineage as speciation.
 - Saying a mule is sterile without referring to unpaired chromosomes.
 
+## Frequently asked questions
+
+**How does selective breeding provide evidence for evolution?**
+Domesticated breeds and varieties, such as dog breeds from wolves or cabbage, broccoli and kale from Brassica oleracea, arose quickly from one wild species, showing that variation is heritable and that selection can change populations rapidly.
+
+**How does geographical isolation lead to speciation?**
+A barrier such as a river stops gene flow between parts of a population; differential selection and independent mutation then make allele frequencies diverge until the populations can no longer interbreed successfully.
+
+**How can plants form a new species in one generation?**
+Two species hybridize to give a sterile hybrid whose chromosomes lack partners; if polyploidy doubles the chromosome number, each chromosome gains a homologue, meiosis works and the plant is fertile. This is HL-only content (A4.1.11).
+
+**What does the EDGE of Existence programme prioritize?**
+EDGE of Existence prioritizes species that are both evolutionarily distinct (with few close relatives) and globally endangered, because losing them removes a large amount of unique evolutionary history.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Biology guide*, first assessment 2025, published February 2023. Sections A4.1 and A4.2.
