@@ -149,6 +149,23 @@ These questions practise quantitative skills QS1, QS2 and QS3 from section 3.5 o
 - Take the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on percentage and average calculations?**
+Common losses are dividing by the final figure rather than the starting figure, mixing up percentage points and per cent, adding successive growth rates instead of multiplying, and reading a median from data that are not in order.
+
+**How do I find the price before tax from a tax-inclusive price?**
+Divide the tax-inclusive price by the multiplier, for example 1.20 for a 20% tax. Taking 20% off the inclusive price gives the wrong answer, because the tax is 20% of the pre-tax price.
+
+**How do I calculate a mean from a frequency table?**
+Multiply each value by its frequency, add the products and divide by the total number of items. Dividing by the number of rows in the table is a common error.
+
+**How should I evaluate data on income distribution?**
+Compare more than one measure, such as the mean, median and quantile shares, and say what the data cannot show, such as the level of income, before reaching a judgement.
+
+**Which OxfordAQA 9640 skills do these questions practise?**
+They practise quantitative skills QS1, QS2 and QS3 from section 3.5 of the OxfordAQA International AS and A-level Economics (9640) specification, with quantile questions marked as A2.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, section 3.5 Quantitative skills (QS1, QS2 and QS3). First teaching September 2020; first International AS exams May/June 2021; first International A-level exams May/June 2022. Published by OxfordAQA.

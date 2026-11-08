@@ -205,6 +205,23 @@ When sunk costs are low, the incumbent has to hold its price near AC (a cut from
 - Reading contestable as many firms. A single-firm market can be contestable.
 - Ignoring sunk costs when judging whether hit-and-run pays.
 
+## Frequently asked questions
+
+**How does a monopolist choose its output and price?**
+A monopolist sets output where marginal revenue equals marginal cost, then reads the price from the demand (AR) curve at that output. Supernormal profit is the rectangle (P - AC) x Q.
+
+**What is third-degree price discrimination?**
+Third-degree price discrimination is charging different prices to different market segments for the same product when cost differences do not explain the gap, such as child tickets, student discounts and off-peak fares. The less elastic segment pays the higher price.
+
+**Who gains and who loses from price discrimination?**
+Producers gain profit and fuller use of capacity, and buyers in elastic segments pay less, with some served who could not afford a single price. Buyers with less elastic demand may pay more and may have no alternative.
+
+**Why is a natural monopoly hard to regulate?**
+Pricing at marginal cost is efficient but, with large fixed costs, it does not cover average cost, so the firm makes a loss. An unconstrained monopolist instead charges well above cost.
+
+**Can a market with only one firm be contestable?**
+Yes. Contestability depends on potential entry, not the number of firms. If sunk costs are low, the threat of hit-and-run entry forces even a sole supplier to keep price near average cost.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, published by OxfordAQA: sections 3.3.3.5, 3.3.3.6 and 3.3.3.7, with quantitative skills from section 3.5.

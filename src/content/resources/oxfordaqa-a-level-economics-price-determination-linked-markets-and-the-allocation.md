@@ -188,6 +188,23 @@ The **price mechanism** resolves the basic economic problem of what, how and for
 - Listing the three functions without applying them to a scenario.
 - Treating joint demand and joint supply as the same thing: one is about buying together, the other about producing together.
 
+## Frequently asked questions
+
+**What happens in a market when the price is above equilibrium?**
+There is excess supply, so unsold stock builds up and sellers cut prices. The lower price causes an extension of demand and a contraction of supply until the gap closes at equilibrium.
+
+**How does the elasticity of supply affect a rise in demand?**
+When supply is less responsive, producers cannot expand much, so more of the demand rise shows up as a higher price and less as extra quantity.
+
+**What is composite demand?**
+Composite demand is when one good has several uses, such as milk for drinking and for cheese. A rise in demand for one use raises the price and leaves less of the good for the other uses.
+
+**How does speculation affect commodity prices?**
+Traders who expect a price rise buy now, which raises demand and the price and can become a self-fulfilling bubble. Speculators can also stabilise prices by buying when prices are low and selling when they are high.
+
+**How does the price mechanism solve the basic economic problem?**
+It decides what to produce through shifts in demand and relative prices, how to produce as firms choose the lowest-cost method given input prices, and for whom as goods go to those with income and willingness to pay.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, first teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022. Published by OxfordAQA.

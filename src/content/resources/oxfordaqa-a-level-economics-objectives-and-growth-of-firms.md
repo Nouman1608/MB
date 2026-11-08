@@ -203,6 +203,23 @@ A target's shares are £2.50 each and there are 40m shares: market value £100m.
 - Listing objectives without linking each to price, output or profit.
 - Calling every large firm profit-maximising without considering the divorce of ownership from control.
 
+## Frequently asked questions
+
+**Why does traditional theory assume firms maximise profit?**
+Traditional theory of the firm assumes profit maximisation, where marginal revenue equals marginal cost and MC cuts MR from below. Producing a unit that adds more to revenue than to cost raises profit.
+
+**Why is ownership separated from control in large firms?**
+Growth needs more capital than a few owners can supply, limited liability makes it easier to raise finance, large firms need specialist managers, and each small shareholder has little incentive to monitor managers.
+
+**How does government ownership change a firm's objectives?**
+A publicly owned firm may pursue universal service, employment or low prices rather than profit, so it may break even or price at marginal cost with a subsidy. A guaranteed subsidy can weaken the incentive to control costs.
+
+**What are the benefits and costs of vertical integration?**
+Vertical integration can secure supply, lower costs and improve quality control. Its costs include reduced flexibility, being tied to an inefficient unit and possible foreclosure of rivals.
+
+**Why might firms choose a conglomerate merger?**
+A conglomerate merger joins firms in unrelated markets mainly to spread risk, which can make combined profit more stable. It offers few cost synergies and can weaken management focus.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), version 1.2, section 3.3.1.3 and 3.3.1.4. First teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022. Published by OxfordAQA.

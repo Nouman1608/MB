@@ -208,6 +208,23 @@ Entry reminder: incumbent price 20, AC 15, 60 units a month. An entrant charges 
 - Quoting a PED with no reading of it: say whether demand is elastic and what that means for revenue.
 - Listing advantages and disadvantages with no judgement.
 
+## Frequently asked questions
+
+**What conditions are needed for price discrimination?**
+The firm needs market power, it must be able to separate groups of buyers, it must prevent resale between groups, and the groups must have different price elasticities of demand.
+
+**What is a natural monopoly?**
+A natural monopoly exists when long-run average cost is still falling when output reaches market demand, so one firm can supply the market more cheaply than two or more.
+
+**What is a contestable market?**
+A contestable market is one where entry and exit are cheap enough that the threat of entry is credible. Contestability depends on potential entry, not on how many firms are present, so a contestable market may have one firm.
+
+**Why does a monopolist always produce where demand is elastic?**
+Marginal revenue is positive only where demand is elastic. A profit-maximising monopolist sets MR equal to a positive MC, so it must be on the elastic part of the demand curve.
+
+**What is hit-and-run competition?**
+Hit-and-run competition is entering a market to take supernormal profit and leaving when the incumbent reacts. It is profitable only when sunk costs are low.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, published by OxfordAQA: sections 3.3.3.5, 3.3.3.6 and 3.3.3.7.

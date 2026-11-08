@@ -107,6 +107,23 @@ The questions are based on the OxfordAQA *International AS and A-level Economics
 - Use the [OxfordAQA Economics hub](/boards/oxfordaqa/a-level/economics/) and the [checklist](/checklists/oxfordaqa/a-level/economics/).
 - Book a free trial class at [/trial/](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on productivity and specialisation questions?**
+Common losses are not stating units, treating a rise in output as proof of a rise in productivity, dividing a change by the later value, forgetting to deflate nominal values, and naming costs of division of labour without a consequence.
+
+**Does a rise in output mean productivity has risen?**
+Not necessarily. Compare the growth of output with the growth of inputs: if a firm hires proportionally more workers, output rises but output per worker or per hour may not.
+
+**When should I use output per hour rather than output per worker?**
+Use output per hour when working hours change, because a firm can raise output per worker simply by lengthening the working week. Multiply workers by hours each to find total hours.
+
+**How should I evaluate whether division of labour always raises productivity?**
+Answer the word "always" directly, weighing gains from skill and less switching against monotony, interdependence and bottlenecks, and give the conditions, such as market size, under which the gain holds.
+
+**Which OxfordAQA 9640 sections do these questions cover?**
+They cover sections 3.1.3.1 (production and productivity) and 3.1.3.2 (specialisation, division of labour and exchange) of the OxfordAQA International AS and A-level Economics (9640) specification, which is International AS content.
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Economics (9640)* specification, version 1.2, sections 3.1.3.1 and 3.1.3.2, with section 3.5 (quantitative skills). First teaching September 2020.

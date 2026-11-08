@@ -149,6 +149,23 @@ These questions cover section 3.4.3.3 Policies to promote development in the Oxf
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
+## Frequently asked questions
+
+**Where do students lose marks on development policy questions?**
+Common losses are using the wrong base for a percentage change, forgetting to apply leakage before the multiplier, leaving out the floor or ceiling in a buffer stock answer, mixing units, and describing the IMF and World Bank as the same body.
+
+**How do I calculate the local gain from tourism spending?**
+First remove the leakage to find the spending retained in the economy, then apply the local multiplier to that retained amount. Applying the multiplier to the full spending overstates the gain.
+
+**Are market-based and interventionist policies opposites?**
+No. The strategies overlap and can complement each other, for example liberalising trade while funding schools, so judge the mix of policies rather than the label.
+
+**How should I evaluate a development strategy for a particular country?**
+Apply the argument to the country described, such as a rural, low-skill economy with weak infrastructure, weigh the strengths and weaknesses of the strategy there, and finish with a clear judgement.
+
+**Which OxfordAQA 9640 section do these questions cover?**
+They cover section 3.4.3.3, Policies to promote development, of the OxfordAQA International AS and A-level Economics (9640) specification, which is International A2 content.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), specification version 1.2, section 3.4.3.3 Policies to promote development. For International AS exams from May/June 2021 and International A-level exams from May/June 2022.

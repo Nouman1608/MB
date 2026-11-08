@@ -236,6 +236,23 @@ Other instruments include requiring banks to hold more reserves, limiting the cr
 - Describing QE as printing money for the government to spend. The bank buys existing bonds.
 - Using percentage points and percentages as if they were the same.
 
+## Frequently asked questions
+
+**What is monetary policy?**
+Monetary policy is the use of the central bank's powers to influence interest rates, the amount of money and credit in circulation, and the exchange rate. The bank usually sets one policy rate, which feeds into what lenders charge and savers earn.
+
+**What is central bank operational independence?**
+Operational independence means the government sets the objective and the central bank chooses how to meet it. This reduces the pull of short-term popularity, though unelected officials then make decisions that affect everyone.
+
+**What are the limitations of using interest rates to control inflation?**
+Effects take time, households with fixed-rate loans or large savings respond little, higher rates do little about cost-push inflation, the same rise can increase unemployment, and there is little room to cut when rates are already very low.
+
+**How does a depreciation affect the macroeconomic objectives?**
+A depreciation tends to raise growth and cut unemployment as net exports rise, but it adds to inflation through dearer imports. The current account improves only if elasticities are high enough, and living standards can fall in the short run.
+
+**Do I need to explain how interest rates and exchange rates are set for OxfordAQA 9640?**
+No. For section 3.2.4.1 of the OxfordAQA 9640 specification you are not asked how interest rates and the exchange rate are determined, only what changes in them do to the economy.
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640), version 1.2, published by OxfordAQA: section 3.2.4.1 Monetary policy and section 3.5 Quantitative skills.
