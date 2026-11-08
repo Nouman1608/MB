@@ -86,10 +86,10 @@ Developing an interpretation is **recursive**. You may start with a claim and lo
 
 **The Cask of Amontillado (Edgar Allan Poe, 1846).** The narrator, Montresor, tells how he took revenge on Fortunato. Here are details that a writer arguing about his reliability could consider:
 
-- "The thousand injuries of Fortunato I had borne as I best could, but when he ventured upon insult, I vowed revenge."
+- "The thousand injuries of Fortunato I had borne as I best could; but when he ventured upon insult, I vowed revenge."
 - "It must be understood, that neither by word nor deed had I given Fortunato cause to doubt my good will."
 - "I continued, as was my wont, to smile in his face, and he did not perceive that my smile now was at the thought of his immolation."
-- "My heart grew sick; it was the dampness of the catacombs that made it so."
+- "My heart grew sick—on account of the dampness of the catacombs."
 
 ## Worked example 1: auditing evidence for a claim
 
@@ -105,7 +105,7 @@ This claim has **three parts**: (1) he presents revenge as justified, (2) his ac
 | (b) "neither by word nor deed had I given Fortunato cause to doubt my good will" | Partly | Associates deception with his self-image; shows he deceived Fortunato on purpose | Early | May suggest he is honest about being deceptive, which complicates "unreliable" |
 | (c) "I continued, as was my wont, to smile in his face ... at the thought of his immolation." | Yes: part 3 | Amplifies: pleasure and cruelty in the act | Middle | No |
 | (d) Fortunato's jester costume | Weakly | Illustrates irony, but not reliability | Middle | No |
-| (e) "My heart grew sick; it was the dampness of the catacombs" | Yes: part 3 | Qualifies: he excuses a feeling that might be conscience | Ending | Slightly: it shows some feeling |
+| (e) "My heart grew sick—on account of the dampness of the catacombs" | Yes: part 3 | Qualifies: he excuses a feeling that might be conscience | Ending | Slightly: it shows some feeling |
 
 **Coverage.** (a) covers parts 1 and 2 at the beginning; (c) covers part 3 in the middle; (e) covers part 3 again at the ending and shows a pattern across the story. (d) is relevant to another argument but not to this claim, so leave it out. (b) can be used to **qualify**: Montresor admits to deceit, so he is candid about the mechanism of his revenge, but this makes his silence about the injuries more striking.
 

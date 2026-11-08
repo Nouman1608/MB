@@ -70,7 +70,7 @@ What is the main function of "Yet" at the start of the ninth line?
 The final lines of John Donne's sonnet "Death, be not proud" (published 1633) read:
 
 > One short sleep past, we wake eternally,  
-> And Death shall be no more: Death, thou shalt die.
+> And death shall be no more; Death, thou shalt die.
 
 Which description best explains the figure of speech in the last line?
 

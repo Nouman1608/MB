@@ -89,7 +89,7 @@ Remember the four moves: **interpret**, **explain how**, **connect to the claim*
 
 ## Worked example 1: building a thesis
 
-Use Kate Chopin's The Story of an Hour (1894). Mrs Mallard, who has "a heart trouble", is told that her husband has died in a railway accident. She weeps, goes to her room, sits by an open window and experiences a rush of feeling that she names "free, free, free!" She goes downstairs; her husband walks in, alive; and the doctors say she died "of joy that kills".
+Use Kate Chopin's The Story of an Hour (1894). Mrs Mallard, who has "a heart trouble", is told that her husband has died in a railway accident. She weeps, goes to her room, sits by an open window and experiences a rush of feeling that she names "free, free, free!" She goes downstairs; her husband walks in, alive; and the doctors say she died "of the joy that kills".
 
 **Prompt (original, written by Marlbridge).** "Analyse how Chopin presents Mrs Mallard's response to the news of her husband's death, and explain what the presentation suggests about the story's wider concerns."
 

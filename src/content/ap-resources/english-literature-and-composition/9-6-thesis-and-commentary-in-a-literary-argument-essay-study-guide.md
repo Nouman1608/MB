@@ -120,7 +120,7 @@ Because you may not recall exact words, you can use **precise description** as e
 
 ## Sophistication: what it is and is not
 
-The sophistication point rewards a **sustained** move beyond the obvious. The course gives three routes.
+The sophistication point rewards a **sustained** move beyond the obvious. The course framework names three routes (below), and the exam's sophistication row lists four ways to earn the point: exploring complexities or tensions within the work, situating the interpretation in a broader context, accounting for alternative interpretations, and a consistently vivid and persuasive style.
 
 - **Explain the significance or relevance** of your interpretation within a broader context (the society the work portrays, the ideas it tests, the period it responds to).
 - **Discuss alternative interpretations or tensions**, developing them rather than merely acknowledging them.

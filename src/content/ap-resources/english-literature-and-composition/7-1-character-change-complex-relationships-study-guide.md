@@ -87,9 +87,9 @@ Ask three things about any such relationship: **What does the group do?** (speak
 
 ## Public-domain examples to learn from
 
-**The Story of an Hour (Kate Chopin, 1894).** Mrs Mallard has "a heart trouble", so "great care was taken to break to her as gently as possible the news of her husband's death". Alone in her room, she gradually perceives "something coming to her", and then whispers "free, free, free!" This is a sudden epiphany that arises from the story's central conflict between marriage and selfhood. It affects the plot: she leaves her room "like a goddess of Victory". The ending is bitterly ironic: the doctors say she died "of joy that kills".
+**The Story of an Hour (Kate Chopin, 1894).** Mrs Mallard has "a heart trouble", so "great care was taken to break to her as gently as possible the news of her husband's death". Alone in her room, she gradually perceives "something coming to her", and then whispers "free, free, free!" This is a sudden epiphany that arises from the story's central conflict between marriage and selfhood. It affects the plot: she leaves her room "like a goddess of Victory". The ending is bitterly ironic: the doctors say she died "of the joy that kills".
 
-**Young Goodman Brown (Nathaniel Hawthorne, 1835).** After a night in the forest, Brown's faith in the people of his village is shaken. The story ends with him as "a stern, a sad, a darkly meditative, if not a distrustful, if not a desperate man". The change in a character's attitude towards a whole community drives the story's meaning.
+**Young Goodman Brown (Nathaniel Hawthorne, 1835).** After a night in the forest, Brown's faith in the people of his village is shaken. The story ends with him as "a stern, a sad, a darkly meditative, a distrustful, if not a desperate man". The change in a character's attitude towards a whole community drives the story's meaning.
 
 ## Worked example 1: an epiphany and its effects
 
