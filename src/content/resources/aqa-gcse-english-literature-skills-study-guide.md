@@ -22,7 +22,7 @@ description: "The reading and writing skills behind AQA GCSE English Literature 
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check the wording and weighting of the assessment objectives, and which questions carry marks for spelling, punctuation and grammar, against the current AQA specification."
+reviewNote: "Check the wording and weighting of the assessment objectives, and which questions carry marks for spelling, punctuation and grammar, against the current AQA specification. 2026-11-08 recheck: FAQ added."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -123,6 +123,18 @@ Notice the differences. The improved paragraph begins with a clear point, picks 
 - For unseen poetry, make a few notes on the poem's meaning, language, form and structure before writing.
 - Use command words correctly: "explore" invites a range of interpretations, "how does the writer present" focuses on methods, and "compare" requires both texts together.
 - Leave time to proofread names and spelling.
+
+## Frequently asked questions
+
+**Which skills does AQA 8702 assess?**
+Reading comprehension and critical reading, and writing: AO1 response and evidence, AO2 language, form and structure, AO3 context, and AO4 accuracy.
+
+**Is the exam closed book?**
+Yes. Both 8702 papers are closed book, so learn short, flexible quotations.
+
+**Where is AO4 assessed?**
+In the Shakespeare question on Paper 1 and the modern text question on Paper 2, 4 marks each.
+
 
 ## Check your understanding
 

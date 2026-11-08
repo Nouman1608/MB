@@ -25,7 +25,7 @@ reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 This guide covers **Section C: Unseen Poetry**, part of Paper 2 (Modern Texts and Poetry) in AQA GCSE
@@ -137,6 +137,18 @@ Describing what an unseen poem is about without analysing how language, form or 
 meaning. In the comparison task, listing similarities and differences in content rather than in the
 poets' techniques. Trying to name every possible feature rather than selecting a smaller number and
 analysing each in depth.
+
+## Frequently asked questions
+
+**How many marks is unseen poetry worth?**
+32 of Paper 2's 96 marks: 24 for analysing the first poem and 8 for comparing methods with a second poem.
+
+**Does the 8-mark question need context?**
+No. It assesses AO2 only: the poets' methods, compared across the two poems.
+
+**How long should I spend on Section C?**
+About 45 minutes in total, with most of it on the 24-mark answer.
+
 
 ## Quick revision checklist
 

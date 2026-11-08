@@ -17,7 +17,7 @@ reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
 ---
 
 AQA GCSE English Literature (8702) is assessed through two written papers of **unequal weighting**,
@@ -106,6 +106,18 @@ rushed at the end, where marks are just as available.
   explicitly, rather than analysing each poem separately with no direct comparison made.
 - **On every paper**: support every analytical point with a specific, accurately recalled quotation,
   not a vague paraphrase of what a text "is about."
+
+## Frequently asked questions
+
+**Which 8702 paper is worth more?**
+Paper 2, at 96 marks and 60%, against Paper 1's 64 marks and 40%.
+
+**Are any texts allowed in the exam?**
+No. Both papers are closed book, although extracts and the named anthology poem are printed.
+
+**How many questions do I answer?**
+Two on Paper 1 (Shakespeare and the 19th-century novel) and four on Paper 2 (modern text, anthology comparison and two unseen poetry questions).
+
 
 ## Self-test
 

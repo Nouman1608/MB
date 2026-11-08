@@ -21,10 +21,12 @@ syllabusTopics:
 description: "Shakespeare and the 19th-century novel -- the full paper structure of Paper 1 for AQA GCSE English Literature (8702), an untiered, closed-book qualification."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added (facts from the current specification); please re-review."
 ---
 
 This guide covers **Paper 1 Shakespeare and the 19th-century Novel**,
@@ -139,6 +141,18 @@ during the exam itself. Treating quotation recall as a discipline to
 be built deliberately, rather than assuming it will emerge naturally
 from general reading of the set texts, is one of the more reliable
 ways to improve performance on this specific paper.
+
+## Frequently asked questions
+
+**How long is AQA 8702 Paper 1?**
+1 hour 45 minutes for 64 marks and 40% of the GCSE, closed book.
+
+**How are the marks split?**
+Section A Shakespeare carries 30 marks plus 4 for vocabulary, spelling and punctuation (AO4); Section B, the 19th-century novel, carries 30.
+
+**Is there an extract?**
+Yes. Each question starts from a printed extract and then asks you to write about the text as a whole.
+
 
 ## Official syllabus
 
