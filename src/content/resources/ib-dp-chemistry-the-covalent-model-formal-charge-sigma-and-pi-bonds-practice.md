@@ -163,6 +163,23 @@ Read the [study guide](/resources/ib-dp-chemistry-the-covalent-model-formal-char
 - [Unit-by-unit checklist](/checklists/ib/ib-dp/chemistry/) to track progress
 - [Book a free trial class](/trial/) if you want help with this unit
 
+## Frequently asked questions
+
+**Are these IB DP Chemistry formal charge and hybridization questions from past papers?**
+No. They are original HL questions on Structure 2.2.11 to 2.2.16, written for revision. They do not reproduce IB past papers or mark tariffs.
+
+**How do you check a formal charge calculation?**
+Add up the formal charges on all the atoms: the total must equal the overall charge of the molecule or ion. A total that does not match usually means a missing or extra lone pair.
+
+**How do you decide hybridization in a hybridization question?**
+Count the electron domains around the atom, not the number of attached atoms. Two domains is sp, three is sp² and four is sp³.
+
+**How many sigma bonds are in a double or triple bond?**
+Every bond contains exactly one σ bond. A double bond has one σ and one π bond, and a triple bond has one σ and two π bonds.
+
+**Where do lone pairs go in a trigonal bipyramidal arrangement?**
+Lone pairs go in equatorial positions. Placing them axially gives the wrong molecular geometry and is a common way to lose marks.
+
 ## Official syllabus
 
 Source: the IB *Chemistry guide* for the Diploma Programme (International Baccalaureate Organization), issued in February 2023 for first assessment in 2025. This page covers Structure 2.2, The covalent model, understandings 2.2.11 to 2.2.16, all of them additional higher level.

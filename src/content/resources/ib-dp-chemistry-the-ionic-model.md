@@ -269,6 +269,20 @@ A higher lattice enthalpy usually goes with a higher melting point, because the 
 - The background to ion charges: [Structure 1 overview](/resources/ib-dp-chemistry-structure-1/) and the [course syllabus guide](/resources/ib-dp-chemistry-syllabus-guide/)
 - The [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/), a [topic checklist](/checklists/ib/ib-dp/chemistry/) and the free [diagnostics](/diagnostics/)
 
+## Frequently asked questions
+
+**What is lattice enthalpy?**
+Lattice enthalpy is a measure of the strength of ionic bonding in a compound, taken as the enthalpy change for separating the solid into gaseous ions. It is larger for ions with higher charges and smaller radii.
+
+**Why do ionic compounds have high melting points?**
+Melting has to overcome the strong electrostatic attractions between oppositely charged ions acting in all directions through the lattice. It does not involve breaking covalent bonds or intermolecular forces.
+
+**Why do some ionic compounds dissolve in water?**
+Water molecules are polar: the partially negative oxygen end is attracted to cations and the partially positive hydrogen ends to anions. These attractions pull ions out of the lattice, but if the lattice attractions are too strong, as in calcium carbonate, the compound stays largely undissolved.
+
+**When do you need a Roman numeral in the name of an ionic compound?**
+Use a Roman numeral for a transition metal that can form more than one ion, as in iron(III) oxide. Do not use one for group 1 or group 2 metals.
+
 ## Official syllabus
 
 Source: the International Baccalaureate's Diploma Programme *Chemistry guide*, issued in February 2023 for courses examined from 2025. This page follows its sub-topic Structure 2.1, The ionic model: understandings 2.1.1, 2.1.2 and 2.1.3, which are all common to SL and HL.

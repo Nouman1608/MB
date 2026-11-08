@@ -238,6 +238,23 @@ RF = distance moved by component ÷ distance moved by solvent front (both from t
 - Writing that boiling a simple molecular liquid breaks its covalent bonds.
 - Measuring RF to the top of the paper instead of the solvent front.
 
+## Frequently asked questions
+
+**What is a coordination bond in IB DP Chemistry?**
+A coordination bond is a covalent bond in which both shared electrons come from one atom. It needs a donor with a lone pair and an acceptor with an empty orbital, as when ammonia's nitrogen donates its lone pair to boron in ammonia borane.
+
+**Which molecules have fewer than an octet of electrons?**
+Some compounds of boron and beryllium are electron deficient. In BCl₃, for example, boron has only six electrons in its valence shell after all the pairs are used.
+
+**What are the four types of intermolecular force in Structure 2.2?**
+The guide covers London (dispersion) forces, dipole-induced dipole forces, dipole–dipole forces and hydrogen bonding. London forces act between all molecules and get stronger with more electrons.
+
+**Why do most covalent substances not conduct electricity?**
+Most covalent substances have no mobile charged particles. Graphite and graphene are the exceptions because they have delocalized electrons.
+
+**Which parts of Structure 2.2.1 to 2.2.10 are HL only?**
+Most of this content is for SL and HL, but transition element complexes, where each ligand forms a coordination bond to the metal ion, are HL only.
+
 ## Official syllabus
 
 Source document: the International Baccalaureate Organization's *Chemistry guide* for the Diploma Programme, first assessment 2025, published in February 2023. Sections used: Structure 2.2.1 to 2.2.10.

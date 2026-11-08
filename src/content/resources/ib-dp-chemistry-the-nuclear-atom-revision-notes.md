@@ -225,6 +225,20 @@ That is close to the Ar of tungsten, 183.84. Whole-number m/z values cause the s
 - Explaining physical differences without linking them to the extra mass of the neutrons.
 - *(HL only)* Describing the inside of a mass spectrometer when the question asks what the spectrum shows.
 
+## Frequently asked questions
+
+**What is the difference between mass number and relative isotopic mass?**
+Mass number is a whole-number count of protons and neutrons. Relative isotopic mass is the measured mass of one isotope, which is not exactly a whole number.
+
+**What is the difference between relative isotopic mass and relative atomic mass?**
+Relative isotopic mass refers to a single isotope. Relative atomic mass is the abundance-weighted mean of the masses of all the isotopes of an element.
+
+**Do you need to know how a mass spectrometer works for IB DP Chemistry?**
+No. The guide does not assess how the instrument works. At HL you need to interpret a mass spectrum, not describe the machine.
+
+**What does the number of peaks in a mass spectrum of an element show?**
+Each peak is one isotope, so the number of peaks tells you how many isotopes are in the sample. The peak height shows each isotope's relative abundance.
+
 ## Official syllabus
 
 Structure 1.2, The nuclear atom: International Baccalaureate Organization, *Chemistry guide*, Diploma Programme, first assessment 2025, published February 2023.

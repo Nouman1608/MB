@@ -202,6 +202,20 @@ For p-block metals such as aluminium, apply the same two factors: Al³⁺ has th
 - Linking a use to a property without explaining the property from the bonding.
 - (HL only) Forgetting to say the d-electrons are delocalized when explaining transition metal melting points.
 
+## Frequently asked questions
+
+**What determines the strength of the metallic bond?**
+A higher cation charge, which means more delocalized electrons per atom, and a smaller ion radius both make the attraction between cations and delocalized electrons stronger, raising the melting point.
+
+**What is the difference between electrical and thermal conductivity in metals?**
+Electrical conductivity is about moving charge, while thermal conductivity is about moving energy. The same mobile delocalized electrons do both, gaining and carrying kinetic energy in thermal conduction.
+
+**Why do transition elements have high melting points in IB DP Chemistry HL?**
+In transition elements the 3d electrons as well as the 4s electrons can be delocalized. More delocalized electrons per atom give a greater electron density and a stronger metallic bond.
+
+**Does melting a metal break the metallic bond?**
+Not completely. In the liquid the cations can move past each other, but they are still attracted to the delocalized electrons.
+
 ## Official syllabus
 
 Written to the International Baccalaureate's DP *Chemistry guide* (February 2023; first assessment 2025). The notes track sub-topic Structure 2.3, The metallic model: understandings 2.3.1 and 2.3.2 (SL and HL) and 2.3.3 (additional higher level, HL only).

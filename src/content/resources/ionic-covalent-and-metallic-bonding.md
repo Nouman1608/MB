@@ -37,7 +37,9 @@ syllabusTopics:
 description: "Ionic, covalent, giant covalent and metallic bonding for Cambridge IGCSE 0620 and O Level 5070, with structure explaining properties throughout."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
@@ -289,6 +291,23 @@ another without breaking the bonding.
 - Diamond and graphite: structure, bonding, properties, uses
 - *(0620 Extended, 5070 required)* silicon(IV) oxide
 - *(0620 Extended only — not required for Core; 5070 required)* metallic bonding, and how it explains conductivity and malleability
+
+## Frequently asked questions
+
+**Do ionic compounds conduct electricity when solid in Cambridge IGCSE 0620?**
+No. In the solid the ions cannot move. Ionic compounds conduct only when molten or dissolved in water, when the ions are free to move.
+
+**Is metallic bonding in the 0620 Core syllabus?**
+No. Metallic bonding, and how it explains conductivity and malleability, is 0620 Extended only. Cambridge O Level 5070 has no tiers, so it is required there.
+
+**Why does graphite conduct electricity but diamond does not?**
+In graphite each carbon atom forms three covalent bonds and has one delocalised electron, which can move and carry charge. In diamond each carbon atom forms four covalent bonds, leaving no delocalised electrons.
+
+**What is the difference between "describe" and "explain" in bonding questions?**
+Structure-and-bonding questions almost always want an explanation that links the property to the structure and bonding. Memorising or describing properties without the explanation will cap your marks.
+
+**Is silicon(IV) oxide in the IGCSE and O Level syllabus?**
+Silicon(IV) oxide's giant covalent structure is 0620 Extended content and is required for all 5070 candidates.
 
 ## Related resources
 

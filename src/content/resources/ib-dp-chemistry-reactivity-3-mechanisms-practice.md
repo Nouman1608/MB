@@ -12,10 +12,12 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-chemistry-reactivity-3"
-description: "Original practice questions with full worked answers covering proton transfer, electron transfer, electron sharing and electron-pair sharing reactions, for IB Diploma Programme Chemistry Reactivity 3."
+description: "Original IB DP Chemistry Reactivity 3 practice questions with worked answers on acids and bases, redox, nucleophiles, curly arrows and electrophilic addition."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -99,6 +101,23 @@ because it is, as the revision notes explain, the syllabus's most mechanism-heav
 in particular is a longer structured question requiring the cross-reference to Structure 2 that the
 revision notes identify as the thing a common revision mistake leaves out: treating Reactivity 3 as a
 stand-alone topic of memorised mechanism diagrams.
+
+## Frequently asked questions
+
+**Are these IB DP Chemistry Reactivity 3 questions from real past papers?**
+No. They are original questions written for revision. They do not reproduce IB past papers or mark tariffs, so use them alongside the official past papers available through your school or the IB store.
+
+**What does a curly arrow represent in a reaction mechanism?**
+A full curly arrow shows the movement of an electron pair. It starts at a bond or a lone pair and points to where that pair ends up; a half-headed arrow moves a single electron in radical mechanisms.
+
+**What is the difference between a nucleophile and an electrophile?**
+A nucleophile is an electron-rich species that donates an electron pair, while an electrophile is an electron-poor species that accepts one. Identifying them by electron density is the reliable way to handle unfamiliar reactions.
+
+**Which part of Reactivity 3 carries the most marks in this practice set?**
+Electron-pair sharing reactions (Reactivity 3.4) carry the most marks in this set, because it is the most mechanism-heavy sub-topic of the component.
+
+**Why should Reactivity 3 be revised alongside the Structure topics?**
+Mechanisms depend on bonding and functional groups from the Structure strand, such as covalent bonding in Structure 2. Treating Reactivity 3 as a stand-alone set of diagrams to memorise is a common revision mistake.
 
 ## Official syllabus
 

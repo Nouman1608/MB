@@ -179,6 +179,20 @@ Aluminium: 2.70 × 50.0 = **135 g** [1]
 - Track your revision: [DP chemistry checklist](/checklists/ib/ib-dp/chemistry/)
 - [Book a free trial class](/trial/) if you would like live help on bonding
 
+## Frequently asked questions
+
+**Are these IB DP Chemistry metallic model questions from past papers?**
+No. They are original questions on Structure 2.3, written for revision. They do not reproduce IB past papers or mark tariffs.
+
+**How do you explain why metals are malleable?**
+Say that the layers of cations can slide over each other, and also that the metal stays bonded because the delocalized electrons still attract the cations in their new positions. "Layers slide" on its own explains only half the property.
+
+**What carries the charge when a metal conducts electricity?**
+Delocalized electrons carry the charge in a metal, whether solid or liquid. The cations do not move; in a molten ionic compound such as sodium chloride, by contrast, the ions carry the charge.
+
+**How do you compare the melting points of metals across a period?**
+Use both ion charge and ionic radius, together with the number of delocalized electrons each atom releases. Comparing using only one factor is a common way to lose marks.
+
 ## Official syllabus
 
 This set is written to the DP *Chemistry guide* that the International Baccalaureate published in February 2023, first assessed in 2025. They target sub-topic Structure 2.3, The metallic model: understandings 2.3.1 and 2.3.2 (SL and HL) and 2.3.3 (additional higher level, HL only).

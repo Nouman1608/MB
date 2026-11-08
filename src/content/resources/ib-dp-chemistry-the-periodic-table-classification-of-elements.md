@@ -300,6 +300,23 @@ A d¹⁰ ion (Zn²⁺) or d⁰ ion (Sc³⁺) cannot undergo this promotion, so i
 - [Structure 3.1 revision notes](/resources/ib-dp-chemistry-the-periodic-table-classification-of-elements-revision-notes/) and [practice questions](/resources/ib-dp-chemistry-the-periodic-table-classification-of-elements-practice/)
 - Course overview on the [chemistry hub](/boards/ib/ib-dp/chemistry/); tick off progress on the [checklist](/checklists/ib/ib-dp/chemistry/)
 
+## Frequently asked questions
+
+**What are the four blocks of the periodic table?**
+The s-block is groups 1 and 2 plus helium, the p-block is groups 13 to 18, the d-block is groups 3 to 12, and the f-block is the lanthanoids and actinoids, usually printed below the main table.
+
+**Why does reactivity increase down group 1?**
+Down a group each element has one more occupied main level, so the outer electron is further from the nucleus and more shielded. It is lost more easily, so the reaction with water becomes more vigorous.
+
+**What causes ocean acidification?**
+As atmospheric carbon dioxide rises, more dissolves in seawater to form carbonic acid, which releases hydrogen ions and lowers the pH. The reaction of CO₂ with water is an equilibrium, not a one-way reaction.
+
+**What are the characteristic properties of transition elements in IB DP Chemistry HL?**
+Transition elements have variable oxidation states, high melting points, magnetic properties from unpaired d electrons, catalytic properties, coloured compounds and complex ions. These come from an incomplete d-sublevel.
+
+**Why are transition metal complexes coloured?**
+Ligands split the d-sublevel into two sets of orbitals. A d electron absorbs a photon matching the gap, and the colour seen is complementary to the colour absorbed.
+
 ## Official syllabus
 
 Content here maps to the International Baccalaureate Organization's Diploma Programme *Chemistry guide*, published in February 2023 for first assessment in 2025. Sub-topic covered: Structure 3.1, The periodic table: classification of elements. Understandings 3.1.1 to 3.1.6 are SL and HL; 3.1.7 to 3.1.10 are additional higher level.

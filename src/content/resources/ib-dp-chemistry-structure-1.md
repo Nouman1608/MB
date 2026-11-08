@@ -12,10 +12,12 @@ order: 2
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-chemistry-structure-1"
-description: "Particle theory, the nuclear atom, electron configurations, the mole and ideal gases -- Structure 1, the first content component of IB Diploma Programme Chemistry, first assessment 2025, and the particle-level model every later component assumes."
+description: "IB DP Chemistry Structure 1 study guide: particle theory, the nuclear atom, electron configurations, the mole and ideal gases, with HL-only extensions."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
@@ -241,6 +243,20 @@ substituting into the ideal gas equation.
 - *(HL)* Calculate an ionisation energy from the convergence-limit frequency or wavelength
   (E = hν, then × Avogadro constant), and deduce a group from successive ionisation energies.
 
+## Frequently asked questions
+
+**What does Structure 1 cover in IB DP Chemistry?**
+Structure 1 has five sub-topics: the particulate nature of matter, the nuclear atom, electron configurations, the mole, and ideal gases. It is the first content component of the course, first assessed in 2025.
+
+**Is Structure 1 only SL content?**
+No. Most of it is shared by SL and HL, but HL adds four hours: mass spectra in Structure 1.2, and ionisation energy trends, convergence limits and successive ionisation energies in Structure 1.3.
+
+**How do emission spectra show that energy levels are quantised?**
+Excited electrons fall back to lower levels and emit light of specific frequencies only, giving a line spectrum. In hydrogen's spectrum the lines converge at higher frequency, and the convergence limit corresponds to the electron leaving the atom.
+
+**How do you work out the number of neutrons in an atom?**
+Subtract the atomic number from the mass number (A − Z). Confusing the two numbers is a common source of error.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Chemistry guide*, Diploma
@@ -254,4 +270,3 @@ guide](/resources/ib-dp-chemistry-syllabus-guide/). Verified
   <img src="https://img.marlbridge.com/ib-dp-chemistry-structure-1--03-isotopes.webp" width="900" height="740" alt="Three nuclei show magnesium-24, -25 and -26, each with 12 protons and 12, 13 and 14 neutrons. Same proton number means the same element and chemistry; different neutron number means a different mass." loading="lazy">
   <figcaption>Isotopes of an element have the same protons but different numbers of neutrons.</figcaption>
 </figure>
-

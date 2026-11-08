@@ -231,6 +231,23 @@ Dilution leaves the ratio, and so the pH, nearly unchanged. It does lower the bu
 - Picking an indicator by its colours instead of its range.
 - Saying dilution changes buffer pH significantly; it lowers capacity, not pH.
 
+## Frequently asked questions
+
+**What is the difference between the end point and the equivalence point of a titration?**
+The equivalence point is when acid and base have reacted in the mole ratio of the equation; it is calculated. The end point is when the indicator changes colour; it is seen. A suitable indicator makes the two coincide.
+
+**How do you choose an indicator for a titration in IB DP Chemistry?**
+Choose an indicator whose colour-change range lies inside the steep section of the pH curve. Picking an indicator by its colours instead of its range is a common mistake.
+
+**What does pH = pKa at half-equivalence mean?**
+At half-equivalence in a weak acid titration, [HA] equals [A⁻], so the pH equals the pKa of the acid. For a weak base titration the matching rule is pOH = pKb.
+
+**Which salts give solutions that are not neutral?**
+Only an ion from a weak parent acid or base reacts with water and shifts the pH. Ions from strong acids and bases, such as Na⁺ or Cl⁻, do not hydrolyse.
+
+**Can you use pH + pOH = 14.00 at any temperature?**
+No. The value 14.00 applies at 298 K. For data at another temperature, the sum depends on the value of Kw at that temperature.
+
 ## Official syllabus
 
 These notes are based on the *Diploma Programme Chemistry guide* (International Baccalaureate Organization), first assessment 2025, published February 2023, sub-topic Reactivity 3.1, understandings 3.1.9 to 3.1.17 (additional higher level).

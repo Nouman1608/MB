@@ -252,6 +252,20 @@ Properties:
 - Writing that covalent bonds break when a simple molecular substance boils.
 - Measuring RF to the top of the paper instead of the solvent front.
 
+## Frequently asked questions
+
+**What is the difference between electron domain geometry and molecular geometry?**
+Electron domain geometry is the arrangement of all the domains, including lone pairs; molecular geometry is the arrangement of the atoms only. PH₃ has tetrahedral electron domains but a trigonal pyramidal shape.
+
+**Can a molecule have polar bonds but no dipole?**
+Yes. If the polar bonds are arranged symmetrically and the outer atoms are identical, the dipoles cancel. SiF₄ has polar bonds but no net dipole.
+
+**What is the order of repulsion in VSEPR theory?**
+Lone pair–lone pair repulsion is greatest, then lone pair–bonding pair, then bonding pair–bonding pair. Each lone pair closes the bond angle by roughly 2–3°.
+
+**What does an RF value tell you in chromatography?**
+A component that is attracted more strongly to the stationary phase travels less far and has a lower RF. A spot with the same RF as a reference on the same plate and solvent is probably the same substance.
+
 ## Official syllabus
 
 Source document: the International Baccalaureate Organization's *Chemistry guide* for the Diploma Programme, first assessment 2025, published in February 2023. Sections used: Structure 2.2.1 to 2.2.10.

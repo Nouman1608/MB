@@ -153,6 +153,23 @@ Data for every question: all solutions are at 298 K, where Kw = 1.00 × 10⁻¹�
 - [All free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**Are these IB DP Chemistry Reactivity 3.1 practice questions from past papers?**
+No. They are original questions written for revision of the higher level part of Reactivity 3.1. They do not reproduce IB past papers or mark tariffs, so use them alongside official past papers from your school or the IB store.
+
+**How do you convert Ka to Kb for a conjugate base?**
+Divide Kw by Ka, because Ka × Kb = Kw. At 298 K you can also use pKa + pKb = 14.00. Dividing the wrong way round is a common way to lose the mark.
+
+**When should you use the square-root method for the pH of a weak acid?**
+Use [H⁺] = √(Ka × c) only for a weak acid on its own. Once some conjugate base is present, as in a buffer or after partial neutralisation, use the ratio of acid to conjugate base instead.
+
+**Does diluting a buffer change its pH?**
+Diluting a buffer with water barely changes its pH, because the acid and its conjugate base are diluted equally and their ratio stays the same. Dilution lowers the buffer's capacity instead.
+
+**Is the pH at the equivalence point always 7?**
+No. It is 7 at 298 K only for a strong acid–strong base titration. A weak base titrated with a strong acid gives an acidic salt and an equivalence pH below 7, and a weak acid with a strong base gives a pH above 7.
+
 ## Official syllabus
 
 These questions are based on the *Diploma Programme Chemistry guide* (International Baccalaureate Organization), first assessment 2025, published February 2023, sub-topic Reactivity 3.1, understandings 3.1.9 to 3.1.17 (additional higher level).
