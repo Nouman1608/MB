@@ -19,7 +19,9 @@ syllabusTopics:
 description: "Study guide to Cambridge 9709 Pure Mathematics 1 section 1.6 Series: binomial expansion, arithmetic and geometric progressions, sum to infinity."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -289,6 +291,23 @@ State why you reject d = 0. It would make every term equal, which the question r
 - Quoting a sum to infinity without checking |r| < 1, or keeping a value of r that fails the check.
 - Giving a non-integer n for a number of terms, or rounding 24.7 down to 24 when the sum must exceed a value.
 - Dropping the ± when square-rooting in a GP condition, and losing a valid answer.
+
+## Frequently asked questions
+
+**What does "ascending powers of x" mean in a binomial expansion?**
+Start with the constant term and work up through x, x², x³ and so on. "Descending powers" means starting with the highest power.
+
+**How many terms are in the expansion of (a + b)ⁿ?**
+There are n + 1 terms. The general term is ⁿCᵣ aⁿ⁻ʳ bʳ, and the powers of a and b always add up to n.
+
+**Does an arithmetic progression have a sum to infinity?**
+No. An AP never has a sum to infinity unless every term is 0. Only a geometric progression with |r| < 1 converges.
+
+**What is not required in Cambridge 9709 section 1.6 Series?**
+The greatest term of an expansion and properties of the binomial coefficients are not required. The expansion of (1 + x)ⁿ for rational n is Pure Mathematics 3 content.
+
+**Why should you check the integers either side when finding a number of terms?**
+Checking the sums for the whole numbers either side of the root confirms the inequality is the right way round and that you have the least number of terms.
 
 ## Next steps
 

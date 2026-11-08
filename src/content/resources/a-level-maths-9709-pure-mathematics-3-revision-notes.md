@@ -43,7 +43,9 @@ syllabusTopics:
 description: "Condensed revision notes for Cambridge 9709 Pure Mathematics 3: key formulae, method steps, must-know distinctions and a 12-question self-test."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -244,6 +246,23 @@ Practise with [Pure 3 algebra and calculus questions](/resources/a-level-mathema
 - Iterates rounded before being fed back in, so the final value drifts.
 - In vectors, checking only two of three components before claiming an intersection.
 - Taking arg z from a calculator's tan⁻¹ without placing z in the correct quadrant.
+
+## Frequently asked questions
+
+**Which paper examines Cambridge 9709 Pure Mathematics 3?**
+Pure Mathematics 3 is examined only on Paper 3, which lasts 1 hour 50 minutes for 75 marks and is A Level only. It covers sections 3.1 to 3.9 and assumes Paper 1 knowledge.
+
+**What topics are in Cambridge 9709 Pure Mathematics 3?**
+The nine sections are algebra, logarithms and exponentials, trigonometry, differentiation, integration, numerical solution of equations, vectors, differential equations and complex numbers.
+
+**How do you choose an integration technique in Pure Mathematics 3?**
+Use a double-angle identity for sin² or cos², ln|f(x)| when the numerator is a multiple of the derivative of the denominator, partial fractions for a factorised rational function, and integration by parts for products such as x eˣ or for ln x alone.
+
+**How do you expand (a + bx)ⁿ for a rational n?**
+Take out aⁿ first to write aⁿ(1 + bx/a)ⁿ, then use the binomial series. The expansion is valid for |bx/a| < 1.
+
+**What is the difference between |z − a| = k and |z − a| = |z − b|?**
+|z − a| = k is a circle with centre a and radius k. |z − a| = |z − b| is the perpendicular bisector of the line joining a and b.
 
 ## Official syllabus
 

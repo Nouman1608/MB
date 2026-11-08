@@ -19,7 +19,9 @@ syllabusTopics:
 description: "Condensed revision notes for Cambridge 9709 Paper 2 logs and exponentials: laws, graphs, index equations, linear form and a 12-question self-test."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -232,6 +234,23 @@ y = eˣ and y = ln x are reflections of each other in y = x. For y = e^(kx), k >
 - Writing a decimal when the question says "exact", or leaving ln 45/ln(25/3) unevaluated when it asks for 3 s.f.
 - Sketches of y = e^(kx) that cross the x-axis, miss the label (0, 1) or show the wrong direction for the sign of k.
 - A bare calculator answer to "solve 5^(2x − 1) = 3^(x + 2)" with no log line: the method mark is lost and the answer is then unsupported.
+
+## Frequently asked questions
+
+**What are the three laws of logarithms?**
+log(xy) = log x + log y, log(x/y) = log x − log y, and log(xⁿ) = n log x. There is no law for log(x + y).
+
+**Is change of base in the Cambridge 9709 syllabus?**
+No. To find a value such as log₉ 27, write both numbers as powers of the same base: 9ˣ = 27 gives 3^(2x) = 3³, so x = 3/2.
+
+**What are the key features of the graphs of y = eˣ and y = ln x?**
+y = eˣ passes through (0, 1) with asymptote y = 0, and y = ln x passes through (1, 0) with asymptote x = 0. They are reflections of each other in the line y = x.
+
+**What is the difference between ln 5 − ln 3 and (ln 5)/(ln 3)?**
+ln 5 − ln 3 = ln(5/3), about 0.511, while (ln 5)/(ln 3) is about 1.46. They are not the same.
+
+**Which straight-line graph do you use for y = k(aˣ)?**
+Plot ln y against x: ln y = ln k + x ln a, so the gradient is ln a and the intercept is ln k.
 
 ## Next steps
 

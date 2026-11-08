@@ -19,7 +19,9 @@ syllabusTopics:
 description: "12 original Cambridge 9709 Paper 2 trigonometry questions on sec, cosec, cot, compound angles and R-form, with mark-by-mark worked answers."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -152,6 +154,23 @@ Related: the [study guide](/resources/a-level-maths-9709-pure-mathematics-2-trig
 - Using the wrong extreme of the denominator for a reciprocal (Question 9(c)).
 - "Show that" and "prove" parts with a skipped Pythagorean or rationalising step.
 - Solutions from an impossible quadratic root, such as sin θ = −1.207, left in the final answer.
+
+## Frequently asked questions
+
+**How do you find the sign of sec, cosec or cot?**
+Each reciprocal function has the same sign as its parent in every quadrant, so use the quadrant to decide the sign of cos, sin or tan first.
+
+**How do you solve an equation involving cot² and cosec?**
+Use cosec²θ = 1 + cot²θ to leave one function, form a quadratic and factorise. Reject any root such as cosec θ = 1/3 with the reason |cosec θ| ≥ 1.
+
+**How do you find the greatest value of a reciprocal such as 1/(5 + R cos(θ + α))?**
+The greatest value of the reciprocal comes from the least value of the denominator, here 5 − R. Using the greatest value of the denominator gives the least value instead.
+
+**Why should you avoid rounding α early in an R-form question?**
+Rounding α too early can shift the final angle by a decimal place and lose the accuracy mark, so keep the full value until the end.
+
+**How do you solve an equation such as tan 2θ = 3 tan θ?**
+Replace tan 2θ with 2 tan θ/(1 − tan²θ), rearrange and factorise rather than dividing by tan θ. Then check whether tan θ = 0 gives any solutions in the interval.
 
 ## Next steps
 

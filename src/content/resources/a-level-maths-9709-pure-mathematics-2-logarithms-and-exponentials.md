@@ -19,7 +19,9 @@ syllabusTopics:
 description: "Study guide for Cambridge 9709 Pure Mathematics 2 section 2.2: log laws, eˣ and ln x, equations in indices, and linear form, with worked examples."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -304,6 +306,20 @@ So y = 24.5x^(−1.5).
 - Accepting a root that makes the argument of a log zero or negative, or accepting eˣ = −3.
 - Reading k straight off the intercept of a ln y graph instead of finding k = e^(intercept).
 - Sketching y = e^(−x) crossing the x-axis, or with the wrong y-intercept.
+
+## Frequently asked questions
+
+**What does logₐ b = x mean?**
+It means exactly the same as aˣ = b, where a > 0, a ≠ 1 and b > 0. A logarithm answers the question "what power?".
+
+**Why can't you take the logarithm of zero or a negative number?**
+Because aˣ is always positive, no power of a positive base can give zero or a negative number. Any root that makes a log argument zero or negative must be rejected.
+
+**How do you sketch y = e^(kx) for negative k?**
+The curve still passes through (0, 1), but it decreases towards the x-axis as x increases. The x-axis is an asymptote, so the curve never touches it.
+
+**Should you apply the power law before combining logarithms?**
+Yes. Apply the power law first so every term has coefficient 1, for example 2 lg x becomes lg(x²), then combine using the product and quotient laws.
 
 ## Next steps
 

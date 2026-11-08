@@ -43,7 +43,9 @@ syllabusTopics:
 description: "Study guide to Cambridge 9709 Pure Mathematics 3 (Paper 3): sections 3.1 to 3.9 taught step by step with a fully worked example for each topic."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
@@ -275,6 +277,23 @@ Know Re z, Im z, |z|, arg z and z\*. The syllabus usually takes arg z in −π <
 - Doing trig calculus in degrees instead of radians.
 - Claiming lines intersect after checking only two components.
 - Taking arg z from tan⁻¹(y/x) without checking the quadrant.
+
+## Frequently asked questions
+
+**How much of the Cambridge 9709 A Level is Paper 3?**
+Paper 3 (Pure Mathematics 3) is worth 30% of the A Level. It lasts 1 hour 50 minutes for 75 marks, is A Level only, and is on every A Level route.
+
+**Which partial fraction forms are needed in Pure Mathematics 3?**
+Three denominators are used: three distinct linear factors, a linear factor with a repeated linear factor, and a linear factor with a quadratic factor cx² + d, which needs a numerator Bx + C.
+
+**Is the substitution given in Cambridge 9709 integration questions?**
+Yes. In Pure Mathematics 3 the substitution is always given. Replace dx, change the limits to the new variable, and then integrate.
+
+**How do you show two vector lines are skew?**
+Check that their direction vectors are not multiples of each other, so they are not parallel, then show that no values of the parameters satisfy all three component equations at once.
+
+**Which derivatives are not required in Pure Mathematics 3?**
+sin⁻¹ x and cos⁻¹ x are not required. MF19 lists the derivatives of eˣ, ln x, the six trigonometric functions and tan⁻¹ x.
 
 ## Next steps
 

@@ -19,7 +19,9 @@ syllabusTopics:
 description: "Study guide for Cambridge 9709 Pure Mathematics 2 section 2.5: integrating eˣ, 1/(ax + b) and trig functions, using identities, and the trapezium rule."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -310,6 +312,23 @@ The estimate is too large by about 2.2%. This matches the sketch: y = 6/(x + 1) 
 - In the trapezium rule, counting strips as ordinates (5 ordinates means 4 strips), or doubling the first and last y-values.
 - Giving "over-estimate" with no reason. The reason must refer to the shape of the curve.
 - Leaving an exact answer as ln 9 − ln 3 when a single log is asked for.
+
+## Frequently asked questions
+
+**Why do you divide by a when integrating e^(ax + b)?**
+Differentiating e^(ax + b) with the chain rule gives a × e^(ax + b), so integrating needs a factor of 1/a to cancel it. The same reasoning applies to 1/(ax + b), sin, cos and sec² of ax + b.
+
+**Is the trapezium rule on Paper 2 or Paper 3 in Cambridge 9709?**
+The trapezium rule is listed in section 2.5 but not in section 3.5, so it is Paper 2 content.
+
+**How do you integrate tan²x?**
+Use sec²x = 1 + tan²x to rewrite tan²x as sec²x − 1, which integrates to tan x − x + c.
+
+**When is the trapezium rule useful?**
+It estimates a definite integral that cannot be found exactly with the syllabus methods, such as ∫ e^(x²) dx. Using more strips reduces the error.
+
+**Does the sign of the trapezium rule error depend on whether the curve is rising?**
+No. It depends only on which way the curve bends. If the curve changes the way it bends inside the interval, a simple sketch argument does not work.
 
 ## Where to go next
 

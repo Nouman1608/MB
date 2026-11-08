@@ -19,7 +19,9 @@ syllabusTopics:
 description: "Study guide for Cambridge 9709 Pure Mathematics 2 section 2.4: derivatives of eˣ, ln x and trig, product and quotient rules, parametric and implicit."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -279,6 +281,23 @@ The minus sign in front of xy applies to both parts of the product rule: −(y +
 - In parametric questions, substituting x = 2 into the t-expression for the gradient instead of first finding the value of t.
 - Giving the tangent's gradient when the question asks for the normal, or using −m instead of −1/m.
 - Leaving answers as decimals when "exact" was asked for, such as 0.549 for ½ ln 3.
+
+## Frequently asked questions
+
+**What are the five standard derivatives in Cambridge 9709 Pure Mathematics 2?**
+eˣ differentiates to eˣ, ln x to 1/x, sin x to cos x, cos x to −sin x, and tan x to sec²x. All five are in MF19, and the trigonometric results need x in radians.
+
+**Should you use the product rule or the quotient rule for a fraction?**
+Either works, because any quotient can be rewritten as a product, such as (x² + 1)e^(−x). Choose whichever keeps the algebra shortest; a single power in the denominator is often quickest as a negative power.
+
+**How do you simplify a logarithm before differentiating?**
+Use log laws first: ln(x⁴) = 4 ln x, which differentiates to 4/x, and ln(3x) = ln 3 + ln x, which differentiates to 1/x because ln 3 is a constant.
+
+**How do you differentiate y² or e^y implicitly?**
+Differentiate as normal and multiply by dy/dx, so y² gives 2y dy/dx and e^y gives e^y dy/dx. This is the chain rule.
+
+**Is the differentiation in Paper 2 repeated in Paper 3?**
+Yes. The same learning outcomes appear in section 3.4 of Pure Mathematics 3, which also adds tan⁻¹ x.
 
 ## Next steps
 

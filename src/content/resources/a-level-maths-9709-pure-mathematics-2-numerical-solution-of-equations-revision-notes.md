@@ -19,7 +19,9 @@ syllabusTopics:
 description: "Revision notes for Cambridge 9709 Paper 2 section 2.6: sign-change method, iteration steps, exact limits, a quick self-test and where marks are lost."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
@@ -185,6 +187,19 @@ All iterates are positive (1, 3, 1.5, 2.4, 1.7647, …), so α = −3 is rejecte
   <figcaption>Each step replaces the curve by its tangent and moves to where the tangent meets the x-axis.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What does the limit of an iteration satisfy?**
+If xₙ₊₁ = F(xₙ) converges to α, then α = F(α), so α is a root of the equation x = F(x).
+
+**Is the condition for convergence required in Cambridge 9709 section 2.6?**
+No. The convergence condition is not required, but you must recognise from the values that an iteration is not converging, and describe it with reference to those values.
+
+**Does no sign change mean there is no root?**
+No. A touching root such as (x − 2)² = 0, or two roots close together, gives no sign change even though roots exist.
+
+**How do you find the exact value that an iteration converges to?**
+Replace xₙ₊₁ and xₙ by α, rearrange and solve the equation exactly, then reject any value the sequence cannot reach, such as a negative root when all iterates are positive.
 
 ## Official syllabus
 
