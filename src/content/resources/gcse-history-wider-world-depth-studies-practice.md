@@ -14,11 +14,11 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "understanding-the-modern-world-8145"
     subtopic: "utmw-section-b-wider-world-depth-studies-8145"
-description: "Original AQA GCSE History 8145 Paper 1 Section B practice: a full four-question inter-war set with invented sources, plus account and essay questions for the other four options."
+description: "Original AQA GCSE History 8145 Paper 1 Section B practice: a full four-question inter-war set with invented sources, plus account and essay questions."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "Check worked-answer facts against standard texts and the AQA 8145 specification (3.2.2, 4.4.1) before teacher sign-off."
+reviewNote: "Check worked-answer facts against standard texts and the AQA 8145 specification (3.2.2, 4.4.1) before teacher sign-off. 2026-11-08 recheck: description brought to 140-160 characters; please re-review."
 publishedDate: 2026-11-08
 featured: false
 ---

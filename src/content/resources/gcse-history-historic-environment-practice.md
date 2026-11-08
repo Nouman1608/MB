@@ -11,7 +11,9 @@ order: 1
 description: "Original exam-style practice questions with full worked answers on approaching the Historic Environment essay question for AQA GCSE History 8145."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
@@ -115,3 +117,17 @@ itself becomes automatic regardless of which specific angle a real exam question
 Building a short bank of five or six well-known features of your specified site, each with a
 prepared Context/Link/Significance note, gives you material ready to adapt to whatever the exam
 actually asks.
+
+## Frequently asked questions
+
+**How is the historic environment examined?**
+By the fourth and final question of Paper 2 Section B, a 16-mark essay on the site AQA specifies for your British depth study; the site changes each year.
+
+**How are the 16 marks split?**
+Eight marks for knowledge and understanding (AO1) and eight for explanation and analysis (AO2).
+
+**What structure helps a site essay?**
+Feature, context, link, significance: say what is true of the site, place it in its period, link it to the question and explain why it matters.
+
+**Are these real AQA past-paper questions?**
+No. They are original questions in the style of AQA GCSE History 8145; use them alongside the official past papers and mark schemes.

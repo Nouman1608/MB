@@ -9,10 +9,12 @@ qualifications: ["gcse"]
 syllabusCodes: ["8145"]
 syllabusSeries: "For first teaching 2016"
 order: 2
-description: "Paper-by-paper exam preparation for AQA GCSE History 8145 -- confirming your school's chosen studies, the four assessment objectives (AO1-AO4), the historic environment study, a worked source-utility answer and a checklist."
+description: "Paper-by-paper exam preparation for AQA GCSE History 8145: your school's options, AO1 to AO4, the historic environment, a worked source answer and a checklist."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
@@ -143,3 +145,17 @@ scenario above is an original example written for this resource, not a reproduct
 past or sample paper question. Always check the current specification, including your school's chosen
 studies and current historic environment sites, for your examination year at
 [aqa.org.uk](https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification).*
+
+## Frequently asked questions
+
+**How are the two AQA GCSE History 8145 papers structured?**
+Each paper lasts 2 hours, is worth 84 marks (including 4 for spelling, punctuation and grammar) and 50% of the GCSE. Paper 1 is a period study and a wider world depth study; Paper 2 is a thematic study and a British depth study with the historic environment.
+
+**Which assessment objectives does 8145 test?**
+AO1 knowledge and understanding, AO2 explanation and analysis using second-order concepts, AO3 analysis and evaluation of sources, and AO4 analysis and evaluation of interpretations.
+
+**How is the historic environment examined?**
+By the fourth and final question of Paper 2 Section B, a 16-mark essay on the site AQA specifies for your British depth study; the site changes each year.
+
+**Where are the source questions?**
+In Paper 1 Section B (the wider world depth study) and Paper 2 Section A (the thematic study).
