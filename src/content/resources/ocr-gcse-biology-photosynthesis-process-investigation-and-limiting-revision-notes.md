@@ -255,6 +255,20 @@ Always repeat and take a mean. Let the plant settle for a few minutes after each
 - Using the 1/d² rule backwards, so a bigger distance gives a bigger intensity.
 - Forgetting to keep other factors constant when asked how to make a test fair.
 
+## Frequently asked questions
+
+**What colours does hydrogencarbonate indicator turn?**
+Hydrogencarbonate indicator is red at normal carbon dioxide levels, yellow when carbon dioxide rises and purple when it falls. Photosynthesis removes carbon dioxide, so it moves towards purple; in the dark, respiration adds carbon dioxide, so it moves towards yellow.
+
+**How do you test a leaf for starch?**
+Destarch the plant in the dark, expose the leaf to light, dip it in boiling water, warm it in hot ethanol in a water bath to remove the chlorophyll, rinse it and add iodine solution. Starch turns iodine from orange-brown to blue-black.
+
+**Why is measuring gas volume better than counting bubbles?**
+Bubble size varies, so counting bubbles is quick but unreliable. Collecting the gas and measuring its volume gives a more reliable measure of the rate of photosynthesis.
+
+**Do plants respire as well as photosynthesise?**
+Yes. Plants respire all the time and photosynthesise only in the light, which is why algae in indicator move it towards yellow in the dark.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), for first assessment in 2018, published by OCR (Oxford Cambridge and RSA Examinations). Topic B1.4 Photosynthesis, statements B1.4a to B1.4f.

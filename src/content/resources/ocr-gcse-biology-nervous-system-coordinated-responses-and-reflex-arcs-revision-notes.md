@@ -246,6 +246,20 @@ Reaction time falls with each trial, from 0.21 s to 0.17 s. A sensible explanati
 * Giving a mean to too many figures, or including an anomaly without comment.
 * Writing a conclusion about cause from one person's data.
 
+## Frequently asked questions
+
+**What is the pathway of a reflex arc?**
+A reflex arc runs receptor, sensory neurone, relay neurone in the CNS, motor neurone, effector. The effector is a muscle that contracts or a gland that secretes.
+
+**What does the myelin sheath do?**
+The myelin sheath is a fatty insulating layer around the axon. It insulates the axon and speeds up the impulse, which matters because some pathways are about a metre long.
+
+**What are effectors in the nervous system?**
+Effectors are muscles and glands. Muscles respond by contracting and glands respond by secreting a substance, so in an answer name the muscle or gland rather than "the hand" or "the arm".
+
+**What is reaction time?**
+Reaction time is the time between a stimulus and the response. It can be estimated with a ruler drop test, using t = √(2d/g) with the drop distance in metres.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), first assessment 2018. Statements B3.1a to B3.1c.

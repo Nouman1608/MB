@@ -238,6 +238,20 @@ For clinical trials, arguments for include protecting the public from harmful dr
 - Omitting the comparison group: results from a drug group with no placebo or control cannot show the drug works.
 - Leaving out units or the sign of a percentage change.
 
+## Frequently asked questions
+
+**What is a monoclonal antibody?**
+A monoclonal antibody is an antibody made by a single clone of cells, so every molecule is identical and binds the same antigen. This specificity lets it be used to detect an antigen or carry a drug to it.
+
+**What is the difference between an autoclave and wiping a bench with alcohol?**
+An autoclave sterilises equipment and media, killing microorganisms including spores, while alcohol or disinfectant is used to clean a work surface. Mixing up sterilising equipment and cleaning a surface is a common error.
+
+**What is the main aim of a phase 1 clinical trial?**
+The main aim of phase 1 is to test safety, not whether the drug works. Effectiveness is judged in later phases by comparing a drug group with a placebo group.
+
+**Can monoclonal antibodies cure cancer?**
+In the OCR GCSE Biology A specification, monoclonal antibodies attached to anti-cancer drugs are described as a potential treatment that delivers the drug directly to cancer cells. They should not be described as a proven cure.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), for first assessment in 2018, published by OCR. Statements B6.3m, B6.3n, B6.3p and B6.3q.

@@ -117,6 +117,20 @@ These questions cover statements B1.1a to B1.1c of OCR GCSE (9-1) Gateway Scienc
 - Take one of our [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/) if you want help with magnification sums.
 
+## Frequently asked questions
+
+**What is the most common mistake in magnification calculations?**
+The most common slips are dividing the actual size by the image size instead of the other way round, and forgetting to convert between mm and µm before dividing. Showing each conversion with units on every line makes errors easy to spot.
+
+**How should you write very small cell sizes in standard form?**
+Write a number between 1 and 10 multiplied by a power of 10; a length well under 1 m needs a negative power, such as 3.2 × 10⁻⁶ m. Both the number and the power count towards the answer.
+
+**How do you explain why an electron microscope shows more detail?**
+Use the word resolution: a TEM has higher resolution than a light microscope, so structures lying close together still appear separate. Saying it "magnifies more" or is "clearer" does not explain it, because more magnification alone would not reveal ribosomes.
+
+**How do you answer structure and function questions on organelles in OCR GCSE Biology?**
+Link the structure, the process it carries out and the cell's need, for example many mitochondria release energy in respiration for a muscle cell. Say mitochondria release energy rather than "make" it.
+
 ## Official syllabus
 
 Aligned to OCR GCSE (9-1) Gateway Science Suite Biology A (J247), Version 4.0, published by OCR (Oxford Cambridge and RSA), first assessment in 2018, Topic B1, statements B1.1a to B1.1c.

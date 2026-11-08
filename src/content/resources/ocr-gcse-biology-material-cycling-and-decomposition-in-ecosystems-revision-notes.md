@@ -248,6 +248,20 @@ For a question such as "Explain why a gardener turns a compost heap and keeps it
 - Calculating from the wrong starting value, or mixing weeks and days.
 - Plotting a graph with the axes the wrong way round, or with a scale that squashes the data into a corner.
 
+## Frequently asked questions
+
+**Why does turning a compost heap make it decay faster?**
+Turning mixes air through the heap, so oxygen is available for the decomposers' aerobic respiration. Aerobic respiration releases more energy, so the microorganisms grow and break material down faster.
+
+**Why does a waterlogged compost heap decay slowly?**
+Too much water fills the air spaces in the heap and removes oxygen, so decay becomes anaerobic and slow. The problem is a lack of oxygen, not a lack of water.
+
+**What is the difference between rate of decay and percentage loss of mass?**
+Rate of decay is mass lost divided by time, in units such as g per day. Percentage loss is mass lost divided by the starting mass, multiplied by 100, and has no time unit.
+
+**What is the difference between evaporation and transpiration in the water cycle?**
+Evaporation is liquid water from seas, lakes and soil changing to water vapour. Transpiration is the loss of water vapour from plant leaves, which also adds water to the air.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), for first assessment in 2018, published by OCR: statements B4.1a to B4.1d and mathematical learning outcomes BM4.1i to BM4.1v.

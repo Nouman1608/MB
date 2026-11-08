@@ -273,6 +273,23 @@ Accuracy means close to the true value. Precision means repeats close together. 
 
 For the content behind these practicals see the [cell level systems guide](/resources/ocr-gcse-biology-cell-level-systems/), the [microscopy guide](/resources/ocr-gcse-biology-microscopy-eukaryotic-and-prokaryotic-cells-and/), the [enzyme action guide](/resources/ocr-gcse-biology-dna-structure-protein-synthesis-and-enzyme-action/) and the [field investigations guide](/resources/ocr-gcse-biology-field-investigations-biodiversity-and-human-impact-on/).
 
+## Frequently asked questions
+
+**Which practical activity groups are in PAG 1 to PAG 4 of OCR GCSE Biology A (J247)?**
+PAG 1 is microscopy, PAG 2 is testing for biological molecules, PAG 3 is sampling techniques and PAG 4 is rates of enzyme-controlled reactions. None of these statements is Higher Tier only.
+
+**How much of the OCR GCSE Biology exam tests practical skills?**
+OCR states that 15% of the written-paper questions in J247 test practical skills, so you must be able to describe, explain and evaluate each method on paper.
+
+**How do you estimate a population using capture-recapture?**
+Population equals the number in the first sample multiplied by the number in the second sample, divided by the number of marked animals found in the second sample. The estimate assumes marks do not wear off or harm survival, marked animals mix back in and the population is closed.
+
+**What is continuous sampling in an enzyme practical?**
+Continuous sampling means taking small samples from one reaction mixture at regular intervals and testing each one, such as drops of an amylase and starch mixture added to iodine on a spotting tile. The end point is the first sample that no longer turns blue-black.
+
+**What is the difference between accuracy and precision?**
+Accuracy means a result is close to the true value. Precision means repeat results are close together.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Gateway Science Suite Biology A (J247), Version 4.0 (August 2026), for first assessment in 2018: Topic B7 Practical skills (PAG 1 to PAG 4) and working scientifically skills 2a to 2d, with the linked content statements in B1, B4 and B6.

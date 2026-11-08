@@ -159,6 +159,20 @@ These questions follow Topic B7, Practical skills, of the OCR GCSE (9-1) Gateway
 - All free 10-minute [diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
+## Frequently asked questions
+
+**How do you describe random quadrat placement for full marks?**
+Say how positions are chosen: lay two tape measures along adjacent edges of the area and take coordinates from random numbers. Writing "random" without saying how, or placing quadrats where organisms look thickest, loses marks.
+
+**How do you give a Benedict's test result correctly?**
+State the reagent, the heating step in a hot water bath and the full colour change, from blue to green, yellow, orange or brick-red. "It turns red" without the starting colour or heating is incomplete.
+
+**What should you do with an anomalous result when calculating a mean?**
+Leave the anomalous result out before averaging, and say that you have done so. Including it in the mean is a common way to lose marks.
+
+**How do you scale up quadrat results to a whole area?**
+Find the mean per quadrat, convert it to a mean per m² by dividing by the quadrat area, then multiply by the total area in m². Forgetting the final multiplication is a common slip.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Gateway Science Suite Biology A (J247), Version 4.0 (August 2026), for first assessment in 2018: Topic B7 Practical skills (PAG 1 to PAG 4) and working scientifically skills 2a to 2d.

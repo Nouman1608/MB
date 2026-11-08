@@ -181,6 +181,20 @@ Ten-plant groups were given different numbers of wounds, and the mean number of 
 - Describing detection of plant disease using human white blood cells or antibodies made by the plant. Plants do not make antibodies; the antibodies in a test come from the laboratory.
 - Giving field and lab detection methods the wrong way round.
 
+## Frequently asked questions
+
+**Which plant diseases do you need to know for OCR GCSE Biology A (J247)?**
+The J247 specification names three: tobacco mosaic virus (TMV), barley powdery mildew caused by the fungus *Erysiphe graminis*, and crown gall disease caused by the bacterium *Agrobacterium tumefaciens*. Learn the pathogen type, signs, spread and control for each.
+
+**What is the difference between HIV and AIDS?**
+HIV is the virus, which infects and destroys certain white blood cells that coordinate the immune response. AIDS is the later stage, when so few of these cells remain that the immune system cannot fight other infections or some cancers.
+
+**Can antiretroviral drugs cure HIV?**
+No. Antiretroviral drugs slow the virus and keep it at very low levels, but they do not remove it from the body, so HIV is controlled rather than cured.
+
+**How does the leaf cuticle protect a plant from disease?**
+The cuticle is a waxy, waterproof layer on the leaf surface that forms a continuous barrier most pathogens cannot cross. Water runs off it, so fewer spores and bacteria stay on the leaf; it acts as a barrier rather than killing pathogens.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), first assessment 2018, published by OCR. Statements B6.3f to B6.3i, with B6.3i in bold (Higher Tier only).

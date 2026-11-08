@@ -209,6 +209,23 @@ The placebo group still improved, so some improvement is not caused by the drug.
 - Treating a phase 1 trial as testing whether the drug works. It is mainly about safety.
 - Claiming that a placebo group "gets nothing". It gets a dummy treatment, so any change is still recorded.
 
+## Frequently asked questions
+
+**What is a hybridoma?**
+A hybridoma is a cell made by fusing a B lymphocyte that makes a specific antibody with a tumour (myeloma) cell. It gets the ability to make one antibody from the lymphocyte and the ability to divide repeatedly from the tumour cell.
+
+**How does a pregnancy test use monoclonal antibodies?**
+A pregnancy test detects the hormone hCG in urine. Mobile antibodies attached to coloured beads bind hCG, and fixed antibodies at the test line trap them to form a line; the control line should always appear and shows the test has worked.
+
+**Are monoclonal antibodies Higher Tier only in OCR GCSE Biology A (J247)?**
+Yes. Producing and using monoclonal antibodies (B6.3m and B6.3n) are printed in bold in the J247 specification and tested only in the Higher Tier papers. Aseptic technique and drug development (B6.3p and B6.3q) are assessed at both tiers.
+
+**Why are school bacterial cultures incubated at about 25 °C?**
+In schools, cultures are normally incubated at about 25 °C rather than body temperature, because this does not favour the growth of human pathogens.
+
+**Why are drug trials double-blind?**
+In a double-blind trial neither the patients nor the doctors know who has the real drug and who has the placebo. This stops expectation from changing the results.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), for first assessment in 2018, published by OCR. The relevant statements are B6.3m, B6.3n, B6.3p and B6.3q.

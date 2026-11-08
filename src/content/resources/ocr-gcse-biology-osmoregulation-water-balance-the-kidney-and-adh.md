@@ -249,6 +249,20 @@ A runner has a mass of 68.0 kg before a 2.5 hour run in hot weather and 66.3 kg 
 
 Next, use the [revision notes](/resources/ocr-gcse-biology-osmoregulation-water-balance-the-kidney-and-adh-revision-notes/) for fast recall, then test yourself with the [practice questions](/resources/ocr-gcse-biology-osmoregulation-water-balance-the-kidney-and-adh-practice/). Check your readiness with the [free diagnostics](/diagnostics/).
 
+## Frequently asked questions
+
+**What happens to an animal cell placed in a dilute solution?**
+Water moves into the cell by osmosis because the solution has a higher water potential than the cytoplasm. An animal cell has no cell wall, so it swells and may burst, which is called lysis.
+
+**Where is ADH made and what does it do?**
+ADH is made in the hypothalamus and released into the blood by the pituitary gland. It increases the permeability of the collecting duct walls to water, so more water is reabsorbed and a small volume of concentrated urine is made.
+
+**What happens in the Bowman's capsule?**
+High pressure forces water, glucose, urea and ions out of the blood in the glomerulus into the tubule, forming filtrate. Blood cells and large proteins stay in the blood.
+
+**Do you need to calculate water potentials for OCR GCSE Biology A (J247)?**
+No. The J247 specification says no mathematical use of water potentials is required; you describe water potential as higher, lower or equal. ADH and responses to osmotic challenges (B3.3i and B3.3j) are Higher Tier only.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018, published by OCR.

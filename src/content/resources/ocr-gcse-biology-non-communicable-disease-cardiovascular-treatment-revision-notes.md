@@ -242,6 +242,20 @@ Question style: "Evaluate the use of a coronary bypass for a patient whose coron
 - Using "benign" and "malignant" the wrong way round.
 - Writing that a stent "removes" the fatty deposit.
 
+## Frequently asked questions
+
+**How do you calculate the incidence rate of a disease per 100 000 people?**
+Divide the number of new cases by the population and multiply by 100 000. Use a rate whenever populations differ in size, because raw case numbers can mislead.
+
+**How does smoking increase the risk of several diseases?**
+Chemicals in tobacco smoke damage cell DNA, which can lead to cancer; smoke damages the airway lining, which leads to bronchitis; and smoking damages artery walls, which helps fatty deposits form.
+
+**What do statins do?**
+Statins lower blood cholesterol, which slows the build-up of fatty deposits in arteries. They are taken for years, can cause side effects such as muscle pain, and manage the condition rather than clearing existing deposits.
+
+**Does a correlation prove that a lifestyle factor causes a disease?**
+No. A correlation shows the two variables change together, but other factors may differ; a biological mechanism and consistent results from different studies are needed to argue for cause.
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018, published by OCR.

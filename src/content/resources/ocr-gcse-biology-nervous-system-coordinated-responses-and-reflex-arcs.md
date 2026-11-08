@@ -232,6 +232,23 @@ The range before (0.19 to 0.23 s) and after (0.16 to 0.20 s) overlap only slight
 * Using nerve and neurone as if they were the same. A neurone is one cell.
 * Forgetting to convert cm to m before using t = √(2d/g).
 
+## Frequently asked questions
+
+**What is the difference between sensory, relay and motor neurones?**
+Sensory neurones carry impulses from receptors to the central nervous system, relay neurones connect sensory and motor neurones inside the CNS, and motor neurones carry impulses from the CNS to effectors such as muscles and glands.
+
+**How is a signal passed across a synapse?**
+The impulse cannot jump the gap. The end of the first neurone releases a chemical that diffuses across the gap and binds to receptor molecules on the next neurone, setting off a new impulse; because receptors are only on the receiving side, the signal passes one way.
+
+**Why are reflexes faster than voluntary responses?**
+A reflex arc has a short pathway with few neurones and few synapses, and the relay neurone links sensory to motor neurones without waiting for the conscious part of the brain. A voluntary response passes through the conscious brain, so it is slower.
+
+**Does a reflex involve the central nervous system?**
+Yes. A reflex is made without the conscious part of the brain, but the CNS, often the spinal cord, is still the coordinator. Information also passes to the brain, which is why pain is usually felt just after the hand moves.
+
+**Is the nervous system topic Higher Tier only in OCR GCSE Biology A (J247)?**
+No. Statements B3.1a to B3.1c, covering neurones, coordinated responses and reflex arcs, are not marked as Higher Tier only, so they apply to both tiers.
+
 ## Official syllabus
 
 OCR, GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), first assessment 2018. Statements B3.1a to B3.1c.

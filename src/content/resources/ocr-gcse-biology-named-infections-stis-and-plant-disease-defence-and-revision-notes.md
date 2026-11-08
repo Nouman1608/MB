@@ -190,6 +190,20 @@ Field versus lab: the field is quick and cheap but symptoms can look similar for
 - Mixing up field and lab methods in detection answers.
 - Not showing the sum in percentage questions, or forgetting the units or the percent sign.
 
+## Frequently asked questions
+
+**Do antibiotics work against viral infections such as flu or HIV?**
+No. Antibiotics only work on bacteria, so they are no use against influenza or HIV. Fungal infections such as athlete's foot are treated with antifungal creams or powders.
+
+**What is the difference between physical and chemical plant defences?**
+Physical defences, such as the leaf cuticle and the cell wall, are barriers that stop pathogens getting in. Chemical defences are antimicrobial substances that kill or stop the growth of bacteria and fungi.
+
+**Do plants have antibodies or white blood cells?**
+No. Plants have no antibodies or white blood cells, so animal immune responses should not be used to answer plant defence questions. Antibodies used in plant disease test kits are made in the laboratory.
+
+**How is plant disease detected in the lab?**
+Lab methods detect the pathogen's antigens, using antibodies that bind a specific antigen, or its DNA, which is copied by PCR and compared with known pathogen DNA. This is Higher Tier only content (B6.3i) in OCR GCSE Biology A (J247).
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), first assessment 2018, published by OCR. Statements B6.3f to B6.3i; B6.3i is bold (Higher Tier only).
