@@ -46,7 +46,7 @@ These are **original Marlbridge practice questions**, not past exam questions. P
 
 A student's claim about The Cask of Amontillado is "Montresor withholds the reasons for his revenge." Which piece of evidence is most relevant?
 
-- (A) "The thousand injuries of Fortunato I had borne as I best could, but when he ventured upon insult, I vowed revenge."
+- (A) "The thousand injuries of Fortunato I had borne as I best could; but when he ventured upon insult, I vowed revenge."
 - (B) Fortunato is described as "a man to be respected and even feared".
 - (C) Fortunato wears a jester's costume.
 - (D) The story is set during a carnival.
@@ -62,7 +62,7 @@ A student's claim about The Cask of Amontillado is "Montresor withholds the reas
 
 ## Question 2 (multiple choice · core)
 
-A claim has two parts: "Montresor presents his revenge as justified, and he takes pleasure in it." A student uses only the line about "a thousand injuries" and "insult". What is the main weakness?
+A claim has two parts: "Montresor presents his revenge as justified, and he takes pleasure in it." A student uses only the line about the "thousand injuries" and "insult". What is the main weakness?
 
 - (A) It supports the first part but not the second, so the evidence is insufficient for the whole claim.
 - (B) The evidence is too short.
@@ -203,7 +203,7 @@ Choose a short story you know well, or use Chopin's The Story of an Hour (1894).
 - **Claim:** "Chopin moves Mrs Mallard from conventional grief to an honest, if fearful, joy, and then ends the story with an irony that condemns the world that cannot allow it."
 - **Beginning:** she "wept at once, with sudden, wild abandonment, in her sister's arms", showing the expected reaction.
 - **Middle:** "free, free, free!", the whispered realisation.
-- **Ending:** the doctors say she died "of joy that kills", the ironic verdict.
+- **Ending:** the doctors say she died "of the joy that kills", the ironic verdict.
 - **Counter-evidence:** "And yet she had loved him—sometimes. Often she had not."
 - **Handling:** the line complicates the claim that her joy is simple, because it admits love as well. I would use it to qualify: her freedom does not erase her love, which makes her feeling more honest and the irony more painful.
 

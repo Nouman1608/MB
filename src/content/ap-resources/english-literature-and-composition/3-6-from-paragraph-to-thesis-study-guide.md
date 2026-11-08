@@ -119,7 +119,7 @@ The second names a movement (from expected grief to private freedom, then to a t
 
 Prompt: *Explain how Jane Austen shows Elizabeth Bennet's change in understanding in* Pride and Prejudice.
 
-In Chapter 36 Elizabeth reads Mr. Darcy's letter. The narrator reports: "She grew absolutely ashamed of herself. Of neither Darcy nor Wickham could she think, without feeling that she had been blind, partial, prejudiced, absurd." She exclaims: "I, who have prided myself on my discernment! … Till this moment, I never knew myself."
+In Chapter 36, after reading Mr. Darcy's letter, Elizabeth reflects. The narrator reports: "She grew absolutely ashamed of herself. Of neither Darcy nor Wickham could she think, without feeling that she had been blind, partial, prejudiced, absurd." She exclaims: "I, who have prided myself on my discernment! … Till this moment, I never knew myself."
 
 **Step 1: Observation.** Elizabeth calls herself "blind, partial, prejudiced, absurd" and says she "never knew" herself.
 

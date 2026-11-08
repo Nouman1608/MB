@@ -85,7 +85,7 @@ Four ideas from this topic carry most of the weight.
 | **Irony** | A gap between what is expected and what happens (**situational irony**) or between what is said and what is meant (**verbal irony**). The expectation may come from the reader's own assumptions or from expectations the poem has set up. | What did the poem lead me to expect, and what did I get instead? | Exposes pretension, self-deception or cruelty; often produces a critical or bitter tone. |
 | **Paradox** | Seemingly contradictory elements set together, where the contradiction, resolved or not, reveals a hidden or unexpected idea. | What seems impossible here, and what truth does the impossibility point to? | Compresses a difficult idea into a surprising statement; gives the poem its intellectual spark. |
 
-A short paradox from the seventeenth century shows how it works. Near the end of his sonnet "Death, be not proud", John Donne addresses death directly and ends with "One short sleep past, we wake eternally, / And Death shall be no more: Death, thou shalt die." The claim that death will die is impossible if death is only the end of life. It is true if death is only a "short sleep" before eternal waking. The contradiction is the argument: it strips death of the power the opening lines say it has been wrongly given.
+A short paradox from the seventeenth century shows how it works. Near the end of his sonnet "Death, be not proud", John Donne addresses death directly and ends with "One short sleep past, we wake eternally, / And death shall be no more; Death, thou shalt die." The claim that death will die is impossible if death is only the end of life. It is true if death is only a "short sleep" before eternal waking. The contradiction is the argument: it strips death of the power the opening lines say it has been wrongly given.
 
 ## A method for structure and contrast
 
@@ -105,7 +105,7 @@ Christina Rossetti's sonnet "Remember" (1862) is spoken by someone who knows she
 > Gone far away into the silent land;  
 > When you can no more hold me by the hand,  
 > Nor I half turn to go yet turning stay.  
-> Remember me when no more, day by day,  
+> Remember me when no more day by day  
 > You tell me of our future that you planned:  
 > Only remember me; you understand  
 > It will be late to counsel then or pray.  
@@ -116,7 +116,7 @@ Christina Rossetti's sonnet "Remember" (1862) is spoken by someone who knows she
 > Better by far you should forget and smile  
 > Than that you should remember and be sad.
 
-*Spelling and punctuation follow a nineteenth-century printing of the poem; modern editions vary slightly.*
+*The text follows the Project Gutenberg edition of Rossetti's Goblin Market, The Prince's Progress, and Other Poems (the poem was written in 1849 and first published in 1862). Punctuation varies slightly between editions.*
 
 **Step 1, paraphrase.** The speaker asks to be remembered after her death, reminds the listener that later pleading will do no good, then says that if he forgets her it is better to forget and be happy than to remember and be sad.
 

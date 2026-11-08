@@ -44,7 +44,7 @@ These are **original Marlbridge practice questions**, not past exam questions. P
 
 ## Question 1 (multiple choice · core)
 
-In The Tell-Tale Heart (1843), Poe's narrator says, "True!—nervous—very nervous and dreadfully so I had been and am; but why will you say that I am mad?" This opening most strongly suggests that the narrator
+In The Tell-Tale Heart (1843), Poe's narrator says, "True!—nervous—very, very dreadfully nervous I had been and am; but why will you say that I am mad?" This opening most strongly suggests that the narrator
 
 - (A) is a calm and trustworthy witness.
 - (B) expects to be accused of madness and defends himself, which raises doubt about his reliability.
@@ -147,7 +147,7 @@ The narrator is best described as
 
 ## Question 6 (multiple choice · stretch)
 
-At the end of The Cask of Amontillado (1846), Montresor reports, "My heart grew sick; it was the dampness of the catacombs that made it so." The most likely function of this line is to
+At the end of The Cask of Amontillado (1846), Montresor reports, "My heart grew sick—on account of the dampness of the catacombs." The most likely function of this line is to
 
 - (A) show that the catacombs were unhealthy.
 - (B) suggest that the narrator deflects the signs of his own conscience by attributing his feeling to the setting.

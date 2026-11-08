@@ -75,7 +75,7 @@ A comparison can persist. An **extended metaphor** is created when the compariso
 
 ## Worked example 1: an extended metaphor
 
-Emily Dickinson's "Hope" ("Hope is the thing with feathers"), written about 1861 and published after her death, is an extended metaphor. The text below follows the first printed edition.
+Emily Dickinson's "Hope" ("Hope is the thing with feathers"), written about 1861 and published after her death, is an extended metaphor. The text below is from the Project Gutenberg edition of her Poems (published 1891), whose punctuation differs from modern editions.
 
 > Hope is the thing with feathers
 > That perches in the soul,
@@ -87,7 +87,7 @@ Emily Dickinson's "Hope" ("Hope is the thing with feathers"), written about 1861
 > That could abash the little bird
 > That kept so many warm.
 >
-> I've heard it in the chillest land,
+> I 've heard it in the chillest land,
 > And on the strangest sea;
 > Yet, never, in extremity,
 > It asked a crumb of me.

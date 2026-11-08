@@ -66,7 +66,7 @@ author: marlbridge-academic-team
 
 ## Examples (public domain)
 
-- **The Story of an Hour** (Kate Chopin, 1894): sudden realisation, "free, free, free!"; the ending "of joy that kills" is ironic.
+- **The Story of an Hour** (Kate Chopin, 1894): sudden realisation, "free, free, free!"; the ending "of the joy that kills" is ironic.
 - **Young Goodman Brown** (Nathaniel Hawthorne, 1835): a night in the forest leaves him "a stern, a sad, a darkly meditative" man, changed in his attitude to his community.
 
 ## Assumptions

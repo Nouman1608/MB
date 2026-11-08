@@ -143,11 +143,11 @@ In Act 1, Scene 7 of Shakespeare's *Macbeth* (written about 1606), Macbeth think
 > I have no spur  
 > To prick the sides of my intent, but only  
 > Vaulting ambition, which o'erleaps itself  
-> And falls on th'other—
+> And falls on th' other—
 
 **Step 1: Where does the evidence come from?** From a **soliloquy**, a speech made while alone. In a play, a soliloquy gives the audience a character's thinking without any narrator.
 
-**Step 2: What does Macbeth say about his own motives?** He lists reasons not to act: the duty of a kinsman and a subject, and the duty of a host. Against them he has only one reason: "Vaulting ambition". He calls it an image of a rider who jumps too far: "which o'erleaps itself / And falls on th'other". So he understands his motive, and he also understands that it can ruin him.
+**Step 2: What does Macbeth say about his own motives?** He lists reasons not to act: the duty of a kinsman and a subject, and the duty of a host. Against them he has only one reason: "Vaulting ambition". He calls it an image of a rider who jumps too far: "which o'erleaps itself / And falls on th' other". So he understands his motive, and he also understands that it can ruin him.
 
 **Step 3: What does the organisation of his thought reveal?** He starts with the moral case against the murder and ends with the single motive in its favour. The order shows a man in whom the reasons for the deed are weak and the reasons against it are strong, and who is still drawn to it.
 

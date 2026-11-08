@@ -100,7 +100,7 @@ John Donne's "A Valediction: Forbidding Mourning" (published 1633) is addressed 
 > If they be two, they are two so  
 > As stiff twin compasses are two,  
 > Thy soul, the fixed foot, makes no show  
-> To move, but doth, if the other do.
+> To move, but doth, if th' other do.
 >
 > And though it in the centre sit,  
 > Yet, when the other far doth roam,  
@@ -108,7 +108,7 @@ John Donne's "A Valediction: Forbidding Mourning" (published 1633) is addressed 
 > And grows erect, as that comes home.
 >
 > Such wilt thou be to me, who must  
-> Like the other foot, obliquely run;  
+> Like th' other foot, obliquely run;  
 > Thy firmness makes my circle just,  
 > And makes me end where I begun.
 
@@ -138,7 +138,7 @@ Donne's "The Flea" (published 1633) is a seduction argument. The speaker points 
 > This flea is you and I, and this  
 > Our marriage bed and marriage temple is;
 
-and, later, "three sinnes in killing three" (three lives in one flea).
+and, later, "three sins in killing three" (three lives in one flea).
 
 **Tenor and vehicle.** The tenor is the sexual union the lover refuses. The vehicle is the flea, which has already done what they have not: mingled their blood.
 
@@ -146,7 +146,7 @@ and, later, "three sinnes in killing three" (three lives in one flea).
 
 - *Mingled blood.* The flea becomes a place where the two are already joined, so the speaker argues that what she refuses is trivial ("How little that which thou deny'st me is").
 - *"Marriage bed and marriage temple."* The comparison raises a flea to the status of the most serious places in a human life. It is absurdly grand, and the absurdity is part of the argument.
-- *"Three lives in one flea".* The flea contains him, her and itself, so killing it would be a triple act ("three sinnes in killing three"): murder, self-murder and sacrilege.
+- *"Three lives in one flea".* The flea contains him, her and itself, so killing it would be a triple act ("three sins in killing three"): murder, self-murder and sacrilege.
 
 **How the elements combine.** Each element grows out of the previous one: mingled blood makes a union, the union makes a marriage, the marriage makes a temple, and a temple makes killing a sacrilege. The comparison escalates until the lover's small act of crushing the flea carries the weight of a crime. A reader can enjoy the wit while feeling the manipulation.
 

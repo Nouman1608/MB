@@ -7,6 +7,7 @@ import { AP_DECK_CHEMISTRY } from './chemistry.ts';
 import { AP_DECK_COMPUTER_SCIENCE_A } from './computer-science-a.ts';
 import { AP_DECK_COMPUTER_SCIENCE_PRINCIPLES } from './computer-science-principles.ts';
 import { AP_DECK_ENGLISH_LANGUAGE_AND_COMPOSITION } from './english-language-and-composition.ts';
+import { AP_DECK_ENGLISH_LITERATURE_AND_COMPOSITION } from './english-literature-and-composition.ts';
 import { AP_DECK_MACROECONOMICS } from './macroeconomics.ts';
 import { AP_DECK_MICROECONOMICS } from './microeconomics.ts';
 import { AP_DECK_PHYSICS_1 } from './physics-1.ts';
@@ -23,6 +24,7 @@ export const GENERATED_AP_DECKS: readonly ApFlashcardDeck[] = [
   AP_DECK_COMPUTER_SCIENCE_A,
   AP_DECK_COMPUTER_SCIENCE_PRINCIPLES,
   AP_DECK_ENGLISH_LANGUAGE_AND_COMPOSITION,
+  AP_DECK_ENGLISH_LITERATURE_AND_COMPOSITION,
   AP_DECK_MACROECONOMICS,
   AP_DECK_MICROECONOMICS,
   AP_DECK_PHYSICS_1,

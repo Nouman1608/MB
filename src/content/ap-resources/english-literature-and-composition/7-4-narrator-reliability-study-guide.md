@@ -85,21 +85,21 @@ The course notes that **some narrators or speakers may provide details and infor
 
 ## Public-domain examples to learn from
 
-**The Tell-Tale Heart (Edgar Allan Poe, 1843).** The narrator addresses the reader with a challenge: "True!—nervous—very nervous and dreadfully so I had been and am; but why will you say that I am mad?" He insists on his calm, "Hearken! and observe how healthily—how calmly I can tell you the whole story", while describing a murder.
+**The Tell-Tale Heart (Edgar Allan Poe, 1843).** The narrator addresses the reader with a challenge: "True!—nervous—very, very dreadfully nervous I had been and am; but why will you say that I am mad?" He insists on his calm, "Hearken! and observe how healthily—how calmly I can tell you the whole story", while describing a murder.
 
-**The Cask of Amontillado (Edgar Allan Poe, 1846).** Montresor begins, "The thousand injuries of Fortunato I had borne as I best could, but when he ventured upon insult, I vowed revenge." The injuries are never described. He tells the story years later, and his closing report that "My heart grew sick; it was the dampness of the catacombs that made it so" offers an excuse for his own feeling.
+**The Cask of Amontillado (Edgar Allan Poe, 1846).** Montresor begins, "The thousand injuries of Fortunato I had borne as I best could; but when he ventured upon insult, I vowed revenge." The injuries are never described. He tells the story years later, and his closing report that "My heart grew sick—on account of the dampness of the catacombs" offers an excuse for his own feeling.
 
 ## Worked example 1: a narrator who undermines himself
 
 Use the opening of The Tell-Tale Heart, quoted above and below.
 
-> "True!—nervous—very nervous and dreadfully so I had been and am; but why will you say that I am mad? The disease had sharpened my senses—not destroyed—not dulled them. ... Object there was none. Passion there was none. I loved the old man."
+> "True!—nervous—very, very dreadfully nervous I had been and am; but why will you say that I am mad? The disease had sharpened my senses—not destroyed—not dulled them. ... Object there was none. Passion there was none. I loved the old man."
 
 **Task.** What signs of unreliability does the narrator display?
 
 **Defensive address.** The question "why will you say that I am mad?" shows that he expects an accusation. A narrator who is secure does not defend his sanity unprompted.
 
-**Over-insistence and rhythm.** The dashes and repetition in "True!—nervous—very nervous" create a breathless tone that is at odds with the calm he claims. "Not destroyed—not dulled" repeats the denial of damage.
+**Over-insistence and rhythm.** The dashes and repetition in "True!—nervous—very, very dreadfully nervous" create a breathless tone that is at odds with the calm he claims. "Not destroyed—not dulled" repeats the denial of damage.
 
 **Self-contradiction.** He says "Object there was none. Passion there was none. I loved the old man", yet the story is about murdering the old man. The staccato statements do not explain why he did it, and the claim to love sits uneasily beside the act.
 

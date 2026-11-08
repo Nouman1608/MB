@@ -155,7 +155,7 @@ In Kate Chopin's The Story of an Hour (1894), which detail best shows that Mrs M
 
 ## Question 6 (multiple choice · stretch)
 
-Hawthorne's Young Goodman Brown (1835) ends by describing Brown, after his night in the forest, as "a stern, a sad, a darkly meditative, if not a distrustful, if not a desperate man". This description most strongly suggests
+Hawthorne's Young Goodman Brown (1835) ends by describing Brown, after his night in the forest, as "a stern, a sad, a darkly meditative, a distrustful, if not a desperate man". This description most strongly suggests
 
 - (A) that Brown has returned to his earlier cheerfulness.
 - (B) that Brown has become a leader of the village.

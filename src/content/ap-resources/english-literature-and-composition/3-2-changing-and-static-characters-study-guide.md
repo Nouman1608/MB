@@ -107,7 +107,7 @@ A character who remains unchanged is not a failure of imagination. The constancy
 
 ## Worked example 1: internal change in a public-domain novel
 
-In Jane Austen's *Pride and Prejudice* (1813), Elizabeth Bennet begins by trusting her judgement of people. Early in the book she forms a strong first opinion of Mr. Darcy and later accepts a very different account from Mr. Wickham. After she reads Darcy's letter about Wickham in Chapter 36, the narrator reports:
+In Jane Austen's *Pride and Prejudice* (1813), Elizabeth Bennet begins by trusting her judgement of people. Early in the book she forms a strong first opinion of Mr. Darcy and later accepts a very different account from Mr. Wickham. After she reads Darcy's letter about Wickham (handed to her in Chapter 35), the narrator reports in Chapter 36:
 
 > She grew absolutely ashamed of herself. Of neither Darcy nor Wickham could she think, without feeling that she had been blind, partial, prejudiced, absurd.
 
