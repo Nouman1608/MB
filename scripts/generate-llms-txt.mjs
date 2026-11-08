@@ -192,6 +192,24 @@ if (apConfig?.AP_LIBRARY_PUBLIC) {
   const { AP_COURSES } = await import('../src/data/ap/frameworks.ts');
   apLines.push('', '## Advanced courses (US curriculum)', '', `- [Advanced-course study library](${SITE_URL}${apConfig.AP_LIBRARY_BASE}): original study guides, revision notes, practice and checklists mapped to the 2026-27 College Board course frameworks (May 2027 exams). ${apConfig.AP_TRADEMARK_ATTRIBUTION}`);
   for (const c of AP_COURSES) apLines.push(`- [${c.officialName.replace(/^AP /, 'AP® ')}](${SITE_URL}${apConfig.AP_LIBRARY_BASE}${c.slug}/): ${c.units.length} units; exam ${c.examDate}.`);
+  // Flashcard hubs (src/data/ap-flashcards/), one line per course with a deck. The deck files are
+  // read directly, since this runs before generate:ap-flashcards refreshes the registry.
+  try {
+    const { DIR, deckModules } = await import('./generate-ap-flashcard-index.mjs');
+    const decks = [];
+    for (const m of deckModules()) {
+      const mod = await import(new URL(`../${DIR}/${m.file}`, import.meta.url).href);
+      decks.push(...Object.entries(mod).filter(([k]) => k.startsWith('AP_DECK_')).map(([, v]) => v));
+    }
+    if (decks.length) {
+      const fc = await import('../src/data/ap-flashcards/index.ts');
+      for (const c of fc.apFlashcardCourses(decks)) {
+        const units = fc.apUnitsWithCards(c.slug, decks);
+        const cards = units.reduce((n, x) => n + x.count, 0);
+        apLines.push(`- [${c.name} flashcards (advanced course)](${SITE_URL}${fc.apFlashcardsPath(c.slug)}): ${cards} cards in ${units.length} unit sets, 2026-27 framework.`);
+      }
+    }
+  } catch (e) { console.warn(`llms.txt: advanced-course flashcards not listed (${e.message}).`); }
 }
 
 const { REGION_PRICING, PRICING_TERMS, PRICING_VERIFIED_DATE } = JSON.parse(tsx('src/data/pricing.ts'));

@@ -21,6 +21,7 @@ import { absoluteUrl } from '../../../utils/seo/meta';
 import {
   apLibraryBuilt, apNoindex, apUrls, apVisibleName, apMetaName, apResourcesForCourse, apTypeLabel, formatExamDate, type ApEntry,
 } from '../../../utils/ap/library';
+import { apDeckFor, apFlashcardsPath, apUnitsWithCards } from '../../../data/ap-flashcards';
 
 export async function getStaticPaths() {
   if (!apLibraryBuilt()) return [];
@@ -46,6 +47,9 @@ const bcOnlyCount = c.units.flatMap((u) => u.topics).filter((t) => t.bcOnly).len
 const sources = AP_SOURCES.filter((s) => s.url === c.cedUrl || s.url === c.coursePageUrl || s.url === c.examPageUrl
   || (s.id.startsWith('clar-') && (s.id === `clar-${c.slug}` || (c.slug.startsWith('calculus') && s.id === 'clar-calculus-ab-bc')))
   || (c.slug === 'statistics' && s.id === 'cb-statistics-revisions'));
+// Flashcard pages exist only for a course with its own deck (src/data/ap-flashcards/).
+const flashcardUnits = apDeckFor(c.slug) ? new Map(apUnitsWithCards(c.slug).map((x) => [x.unit.number, x.count])) : new Map<number, number>();
+const flashcardTotal = [...flashcardUnits.values()].reduce((n, x) => n + x, 0);
 const mcq = c.sections[0];
 const frq = c.sections[1];
 
@@ -119,6 +123,9 @@ const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] t
           Units and topics exactly as numbered in the 2026–27 Course and Exam Description{c.unitNumbering ? ` (${c.unitNumbering})` : ''}. Weightings are the official multiple-choice ranges. Marlbridge has written resources for {coveredTopics} of {topicCount} topics so far; the rest are planned and marked as such.
           {bcOnlyCount > 0 && ` ${bcOnlyCount} topics are BC only.`}
         </p>
+        {flashcardTotal > 0 && (
+          <p class="m-0 mb-6 max-w-[72ch] text-[16px] leading-[1.65]"><a href={apFlashcardsPath(c.slug)} class="font-medium text-navy-800 underline decoration-teal-500 underline-offset-2">{visible} flashcards</a>: {flashcardTotal} cards, one set per unit, to test yourself on every topic.</p>
+        )}
         <ol class="m-0 list-none space-y-4 p-0">
           {c.units.map((u) => (
             <li class="m-0 rounded-sm border border-rule bg-white">
@@ -142,6 +149,9 @@ const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] t
                   {unitLevel(u.number).map((r) => (
                     <li class="m-0 px-[clamp(16px,2vw,24px)] py-3"><a href={apUrls.resource(r)} class="text-[15px] underline decoration-teal-500 underline-offset-2">{r.data.title}</a></li>
                   ))}
+                  {flashcardUnits.has(u.number) && (
+                    <li class="m-0 px-[clamp(16px,2vw,24px)] py-3"><a href={apFlashcardsPath(c.slug, u.number)} class="text-[15px] underline decoration-teal-500 underline-offset-2">Unit {u.number} flashcards ({flashcardUnits.get(u.number)} cards)</a></li>
+                  )}
                 </ul>
               </details>
             </li>

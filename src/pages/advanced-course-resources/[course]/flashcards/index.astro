@@ -1,0 +1,108 @@
+---
+/**
+ * /advanced-course-resources/<course>/flashcards/ -- the flashcard hub for one
+ * advanced (College Board AP) course: every unit with its card count, linking
+ * to one page per unit. Built only when the library is built
+ * (src/data/ap/config.ts) and only for courses with a deck in
+ * src/data/ap-flashcards/ (validate-ap-flashcards.mjs checks it). This static
+ * `flashcards` segment wins over [course]/[resource].astro;
+ * validate-ap-library.mjs rejects a resource file named flashcards.md.
+ */
+import PageLayout from '../../../../layouts/PageLayout.astro';
+import Section from '../../../../components/layout/Section.astro';
+import Container from '../../../../components/layout/Container.astro';
+import ApDraftBanner from '../../../../components/ap/ApDraftBanner.astro';
+import ApTrademarkNote from '../../../../components/ap/ApTrademarkNote.astro';
+import type { ApCourse } from '../../../../data/ap/frameworks';
+import {
+  apFlashcardCourses, apDeckFor, apFlashcardsPath, apUnitsWithCards, apCardsForCourse, apDeckUpdated,
+} from '../../../../data/ap-flashcards';
+import { routes } from '../../../../utils/urls/routes';
+import { absoluteUrl } from '../../../../utils/seo/meta';
+import { apLibraryBuilt, apNoindex, apUrls, apVisibleName, apMetaName, apCourse, formatDay } from '../../../../utils/ap/library';
+
+export function getStaticPaths() {
+  if (!apLibraryBuilt()) return [];
+  return apFlashcardCourses().map((c) => ({ params: { course: c.slug }, props: { course: c } }));
+}
+
+interface Props { course: ApCourse }
+const { course: c } = Astro.props;
+const deck = apDeckFor(c.slug)!;
+const parent = deck.inheritsFrom ? apCourse(deck.inheritsFrom) : undefined;
+const path = apFlashcardsPath(c.slug);
+const coursePath = apUrls.course(c.slug);
+const visible = apVisibleName(c);
+const withCards = new Map(apUnitsWithCards(c.slug).map((x) => [x.unit.number, x.count]));
+const cards = apCardsForCourse(c.slug);
+const total = cards.length;
+const topicCount = c.units.reduce((n, u) => n + u.topics.length, 0);
+const topicsWithCards = new Set(cards.map((x) => x.topic)).size;
+const fromResources = cards.filter((x) => x.origin === 'resource').length;
+const inheritedCount = cards.filter((x) => x.course !== c.slug).length;
+const updated = apDeckUpdated(c.slug)!;
+const unitWord = (n: number) => `${n} unit${n === 1 ? '' : 's'}`;
+const itemList = {
+  '@type': 'ItemList',
+  name: `Flashcards by unit: ${apMetaName(c)}`,
+  itemListElement: c.units.filter((u) => withCards.has(u.number)).map((u, i) => ({
+    '@type': 'ListItem', position: i + 1, name: `Unit ${u.number}: ${u.title} flashcards`, url: absoluteUrl(apFlashcardsPath(c.slug, u.number)),
+  })),
+};
+const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800';
+---
+<PageLayout
+  title={`Flashcards for ${apMetaName(c)}: ${total} Cards by Unit`}
+  description={`${total} free flashcards for ${apMetaName(c)}, one set per unit (${unitWord(withCards.size)}, ${topicsWithCards} topics, 2026–27 framework). Study online or print.`}
+  path={path}
+  eyebrow={`Free flashcards · ${visible}`}
+  heading={`Marlbridge flashcards for ${visible}`}
+  lead={`${total} short question-and-answer cards on ${topicsWithCards} of the ${topicCount} topics of the 2026–27 framework, one set per unit. Pick a unit, filter by topic, turn each card and mark yourself honestly.`}
+  breadcrumbs={[
+    { label: 'Home', href: routes.home },
+    { label: 'Advanced courses', href: apUrls.index },
+    { label: c.name, href: coursePath },
+    { label: 'Flashcards', href: path },
+  ]}
+  jsonLd={itemList.itemListElement.length ? [itemList] : []}
+  noindex={apNoindex()}
+>
+  <Section surface="white" spacing="md">
+    <Container>
+      <ApDraftBanner />
+      <h2 class={h2}>Flashcards by unit</h2>
+      <ol class="m-0 grid list-none gap-3 p-0 sm:grid-cols-2 lg:grid-cols-3">
+        {c.units.map((u) => {
+          const n = withCards.get(u.number) ?? 0;
+          const inner = (
+            <>
+              <span class="mb-label text-teal-700">Unit {u.number}{u.bcOnly && c.slug === 'calculus-bc' ? ' · BC only' : ''}</span>
+              <span class="mt-1 block text-[16px] font-semibold text-navy-800">{u.title}</span>
+              <span class="mt-1 block text-[14px] text-ink-mute">{n > 0 ? `${n} card${n === 1 ? '' : 's'}` : 'No cards yet'} · {u.topics.length} topic{u.topics.length === 1 ? '' : 's'} · {u.weighting} of multiple choice</span>
+            </>
+          );
+          return (
+            <li class="m-0">
+              {n > 0
+                ? <a href={apFlashcardsPath(c.slug, u.number)} class="block h-full rounded-sm border border-rule bg-white p-4 no-underline hover:border-teal-500">{inner}</a>
+                : <div class="block h-full rounded-sm border border-dashed border-rule bg-white p-4">{inner}</div>}
+            </li>
+          );
+        })}
+      </ol>
+    </Container>
+  </Section>
+
+  <Section surface="ivory" spacing="md" border>
+    <Container>
+      <div class="max-w-[75ch] text-[14.5px] leading-[1.6] text-ink-mute">
+        <p class="m-0">Written to the 2026–27 course framework for {visible} (May 2027 exam), with every card placed on one numbered topic.{parent && inheritedCount > 0 && ` The ${inheritedCount} cards on topics shared with ${apVisibleName(parent)} are the same cards as on the ${parent.name} flashcards; the rest cover the topics only this course has.`}</p>
+        <p class="m-0 mt-3">Cards by the <a href={routes.author(deck.author)} class="underline decoration-teal-500 underline-offset-2">Marlbridge Academic Team</a>{fromResources > 0 && `; ${fromResources} restate points from the Marlbridge study resources for the same topic`}. Updated {formatDay(new Date(`${updated}T00:00:00Z`))}. These cards have not yet been reviewed by a named teacher.
+          {' '}<a href={routes.reportCorrection} class="underline decoration-teal-500 underline-offset-2">Report an error</a>.</p>
+        <p class="m-0 mt-3"><a href={`${coursePath}#roadmap`} class="font-medium text-navy-800 underline decoration-teal-500 underline-offset-2">{visible} unit roadmap, study guides and practice</a>
+          {' · '}<a href="/flashcards/" class="underline decoration-teal-500 underline-offset-2">Flashcards for other courses</a></p>
+      </div>
+    </Container>
+  </Section>
+  <ApTrademarkNote />
+</PageLayout>

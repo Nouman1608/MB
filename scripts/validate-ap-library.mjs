@@ -21,6 +21,7 @@ import YAML from 'yaml';
 import { AP_COURSES } from '../src/data/ap/frameworks.ts';
 import { AP_SOURCES } from '../src/data/ap/sources.ts';
 import { AP_MARK_IN_METADATA, AP_LIBRARY_BASE } from '../src/data/ap/config.ts';
+import { apFlashcardCourses, apFlashcardsPath, apUnitsWithCards } from '../src/data/ap-flashcards/index.ts';
 
 const ROOT = 'src/content/ap-resources';
 let problems = 0;
@@ -51,7 +52,9 @@ for (const r of records) {
 }
 const sourceIds = new Set(AP_SOURCES.map((s) => s.id));
 const urlFor = (r) => `${AP_LIBRARY_BASE}${r.folder}/${r.name.replace(/\.md$/, '')}/`;
-const knownUrls = new Set([AP_LIBRARY_BASE, ...AP_COURSES.map((c) => `${AP_LIBRARY_BASE}${c.slug}/`), ...records.map(urlFor)]);
+// Flashcard pages (src/data/ap-flashcards/): a course hub plus one page per unit that has cards.
+const flashcardUrls = apFlashcardCourses().flatMap((c) => [apFlashcardsPath(c.slug), ...apUnitsWithCards(c.slug).map((x) => apFlashcardsPath(c.slug, x.unit.number))]);
+const knownUrls = new Set([AP_LIBRARY_BASE, ...AP_COURSES.map((c) => `${AP_LIBRARY_BASE}${c.slug}/`), ...records.map(urlFor), ...flashcardUrls]);
 const MARKS = /\bAP\b|Advanced Placement|College Board/;
 // Allow for the owner's time zone (Asia/Karachi, UTC+5): a date is "future" only beyond tomorrow UTC.
 const today = new Date(Date.now() + 24 * 3600 * 1000);
@@ -61,6 +64,8 @@ for (const r of records) {
   const c = AP_COURSES.find((x) => x.slug === d.course);
   if (!c) { fail(r.path, `unknown course ${d.course}`); continue; }
   if (r.folder !== d.course) fail(r.path, `folder "${r.folder}" does not match course "${d.course}"`);
+  // [course]/flashcards/ is the flashcard hub route; a resource of that name would collide with it.
+  if (r.name === 'flashcards.md') fail(r.path, 'a resource cannot be named flashcards.md: /<course>/flashcards/ is the flashcard hub');
   const unit = c.units.find((u) => u.number === d.unit);
   if (!unit) fail(r.path, `unit ${d.unit} is not in ${c.officialName} (2026-27)`);
   for (const t of d.topics ?? []) {
