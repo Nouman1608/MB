@@ -14,13 +14,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-electrochemistry"
     subtopic: "as-redox-processes"
-description: "Original exam-style practice questions with full worked answers on oxidation numbers, half-equations and redox titrations for AS Chemistry."
+description: "Original exam-style questions with worked answers on oxidation numbers, half-equations, redox titrations and oxidising agents for Cambridge AS Chemistry 9701."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added questions on oxidising/reducing agents and Roman-numeral names (6.1.4, 6.1.5, previously untested), working for oxidation-number answers, opening and FAQ; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -28,7 +30,13 @@ featured: false
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
 
-Related: [Redox Processes revision notes](/resources/as-chem-redox-revision-notes/)
+These questions cover Topic 6.1, Redox processes, of Cambridge AS & A Level Chemistry 9701 (2025–2027):
+calculating oxidation numbers, balancing equations with oxidation-number changes, the terms redox, oxidation,
+reduction, disproportionation, oxidising agent and reducing agent, and Roman-numeral names. Questions 5 and 7
+include calculations; every answer shows the working.
+
+Related: [Redox Processes revision notes](/resources/as-chem-redox-revision-notes/) and the
+[Redox Processes study guide](/resources/as-redox-processes/)
 
 ---
 
@@ -71,13 +79,17 @@ Related: [Redox Processes revision notes](/resources/as-chem-redox-revision-note
 
 **7.** Balance the equation MnO₄⁻ + Fe²⁺ + H⁺ → Mn²⁺ + Fe³⁺ + H₂O by tracking oxidation-number changes, showing each step, and check your answer balances for both atoms and charge. **[5]**
 
+**8.** In the reaction `Cl₂ + 2Br⁻ → 2Cl⁻ + Br₂`, identify the oxidising agent and the reducing agent, explaining your answer in terms of electron transfer. **[2]**
+
+**9.** Give the systematic names, using Roman numerals, of (a) KMnO₄, (b) NaClO₃, (c) FeSO₄. **[3]**
+
 ---
 
 ## Answers
 
 **1. Oxidation** is **loss of electrons** [1]; **reduction** is **gain of electrons** [1] — remembered by the mnemonic OIL RIG (Oxidation Is Loss, Reduction Is Gain).
 
-**2. (a)** +6 [1] **(b)** +6 [1] **(c)** −3 [1] **(d)** +5 [1].
+**2. (a)** 2x + 7(−2) = −2, so x = **+6** [1] **(b)** 2(+1) + x + 4(−2) = 0, so x = **+6** [1] **(c)** x + 4(+1) = +1, so x = **−3** [1] **(d)** x + 3(−2) = −1, so x = **+5** [1].
 
 **3.** A reaction in which the **same element** is **simultaneously oxidised and reduced** [1] [1]. Example: chlorine, Cl₂, in cold dilute sodium hydroxide (Question 6).
 
@@ -102,6 +114,10 @@ n(Fe²⁺) = 5 × 4.48 × 10⁻⁴ = **2.24 × 10⁻³ mol** [1].
 
 **7.** Manganese goes from **+7 to +2**, a decrease of 5, so each Mn **gains 5 electrons** [1]; iron goes from **+2 to +3**, an increase of 1, so each Fe **loses 1 electron** [1]. Equalising electrons lost and gained requires **5 Fe²⁺** per Mn [1]: MnO₄⁻ + 5Fe²⁺ + H⁺ → Mn²⁺ + 5Fe³⁺ + H₂O. Balancing oxygen needs **4H₂O**, which needs **8H⁺** [1]: **MnO₄⁻ + 5Fe²⁺ + 8H⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O**. Check: charge on the left = (−1) + 5(+2) + 8(+1) = +17; charge on the right = (+2) + 5(+3) + 0 = +17 — balanced [1].
 
+**8.** Chlorine is the **oxidising agent**: it gains electrons (0 → −1) and so oxidises Br⁻ [1]. Bromide ions are the **reducing agent**: they lose electrons (−1 → 0) and so reduce Cl₂ [1].
+
+**9. (a)** Potassium manganate(VII) [1] **(b)** Sodium chlorate(V) [1] **(c)** Iron(II) sulfate [1]. The Roman numeral gives the oxidation number of the element it follows: Mn +7, Cl +5, Fe +2.
+
 ---
 
 ## Where marks are usually lost
@@ -113,7 +129,18 @@ n(Fe²⁺) = 5 × 4.48 × 10⁻⁴ = **2.24 × 10⁻³ mol** [1].
 - Forgetting to check a balanced half-equation or overall equation against both atom count and total charge on each side — a rushed answer can look balanced for atoms while still being wrong on charge.
 - Mixing up the two balancing approaches — balancing electrons lost/gained via oxidation-number changes, versus writing and combining separate half-equations — rather than picking one method and following it through consistently.
 
-## Two routes to the same balanced equation
+## Frequently asked questions
+
+**Is the oxidising agent oxidised or reduced?**
+Reduced. An oxidising agent takes electrons from another species, so it gains electrons itself and its oxidation number falls.
+
+**Do oxidation numbers of elements in their uncombined state need working out?**
+No. An uncombined element, such as Cl₂ or Fe, always has an oxidation number of 0.
+
+**When should I write a sign with an oxidation number?**
+Always, for example +6 or −3. In names, the Roman numeral shows only the magnitude: manganate(VII), not manganate(+VII).
+
+## Which route to the balanced equation is better?
 
 The overall equation for manganate(VII) oxidising iron(II) can be reached
 either by writing and combining two half-equations (Question 4), or by

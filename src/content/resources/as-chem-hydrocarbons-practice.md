@@ -17,13 +17,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-hydrocarbons"
     subtopic: "as-alkenes"
-description: "Original exam-style practice questions with full worked answers on free radical substitution, electrophilic addition and Markovnikov for AS Chemistry."
+description: "Original Cambridge 9701 AS Chemistry questions with worked answers on alkanes and alkenes: cracking, free-radical substitution, addition and pollutants."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: added questions 10-12 on cracking with Al2O3, making alkenes by elimination and dehydration, and engine pollutants (14.1.1, 14.1.4, 14.1.6, 14.2.1 had no practice); please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -69,6 +71,24 @@ Related: [Alkanes and Alkenes revision notes](/resources/as-chem-hydrocarbons-re
 
 **9.** Propene reacts with hydrogen bromide. Name the major organic product and explain why it is the major product. **[3]**
 
+**10.** Dodecane, C₁₂H₂₆, from a heavy crude-oil fraction is cracked to give octane and ethene only.
+
+**(a)** State the conditions used for cracking. **[1]**
+
+**(b)** Write a balanced equation for the reaction. **[1]**
+
+**(c)** Suggest why cracking is useful to an oil refinery. **[2]**
+
+**11.** Give the reagents and conditions for making propene from (a) 2-bromopropane and (b) propan-2-ol. Name the type of reaction in each case. **[4]**
+
+**12.** The exhaust from a petrol engine contains carbon monoxide, oxides of nitrogen and unburnt hydrocarbons.
+
+**(a)** Explain how carbon monoxide is formed. **[1]**
+
+**(b)** Write an equation for a reaction in a catalytic converter that removes both carbon monoxide and nitrogen monoxide. **[1]**
+
+**(c)** Give **one** environmental consequence of releasing oxides of nitrogen. **[1]**
+
 ## Answers
 
 **1.** They contain only **strong C–C and C–H sigma bonds** [1] which are **non-polar**, so there is no δ+ centre to attract nucleophiles and no region of high electron density to attract electrophiles [1].
@@ -99,6 +119,22 @@ Termination: any two radicals combining, e.g. `•CH₃ + Cl• → CH₃Cl` [1]
 **9.** **2-bromopropane** [1]. The reaction goes through the **secondary carbocation**, CH₃C⁺HCH₃, which is **more stable** than the primary carbocation [1], because it has two alkyl groups that donate electrons (positive inductive effect) towards the positive carbon [1].
 
 *Examiner insight (June 2025):* less precise answers described 2-bromopropane itself as the carbocation or intermediate. The intermediate is the carbocation; the product forms when bromide ions attack it. *Try the real question next:* Cambridge International AS & A Level Chemistry 9701, June 2025, Paper 22, Question 3.
+
+**10. (a)** Heat with an aluminium oxide (Al₂O₃) catalyst [1].
+
+**(b)** C₁₂H₂₆ → C₈H₁₈ + 2C₂H₄ [1].
+
+**(c)** It converts heavy fractions, for which demand is low, into smaller alkanes such as octane for petrol, which are in high demand [1], and into alkenes such as ethene, used to make polymers [1].
+
+**11. (a)** Ethanolic sodium hydroxide, heat [1]; elimination of HBr [1].
+
+**(b)** Heated Al₂O₃ catalyst, or concentrated H₂SO₄ and heat [1]; dehydration (elimination of water) [1].
+
+**12. (a)** Incomplete combustion of the hydrocarbon in a limited supply of oxygen [1].
+
+**(b)** 2CO + 2NO → 2CO₂ + N₂ [1].
+
+**(c)** Any one: forms nitric acid in acid rain; forms photochemical smog (with unburnt hydrocarbons, giving PAN); NO₂ is toxic [1].
 
 ---
 

@@ -14,26 +14,33 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-nitrogen-and-sulfur"
     subtopic: "as-nitrogen-and-sulfur"
-description: "Condensed recall notes on nitrogen\u2019s inertness, ammonia, oxides of nitrogen, acid rain and the Contact process for Cambridge AS & A Level Chemistry 9701."
+description: "Condensed recall notes on nitrogen's inertness, ammonia and ammonium, oxides of nitrogen, PAN and acid rain for Cambridge AS & A Level Chemistry 9701 Topic 12."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: expanded thin notes (opening answer mapped to 12.1 outcomes, FAQ incl. displacement of ammonia, question headings); noted Contact process is examined under 7.1.10 not 12.1; please re-review."
 ---
 
-Condensed for the final weeks. For the full explanation, use the
-[Nitrogen and Sulfur study guide](/resources/as-nitrogen-and-sulfur/).
+Nitrogen and sulfur in Cambridge AS & A Level Chemistry 9701 (Topic 12.1) covers why nitrogen is unreactive,
+ammonia as a Brønsted–Lowry base and the ammonium ion, where oxides of nitrogen come from and how catalytic
+converters remove them, PAN in photochemical smog, and the direct and catalytic roles of NO and NO₂ in acid rain.
 
-## Why nitrogen is so unreactive
+Condensed for the final weeks. For the full explanation, use the
+[Nitrogen and Sulfur study guide](/resources/as-nitrogen-and-sulfur/), then test yourself with the
+[nitrogen and sulfur practice questions](/resources/as-chem-nitrogen-sulfur-practice/).
+
+## Why is nitrogen so unreactive?
 
 Two reasons, and both are needed for full marks:
 
 1. The **N≡N triple bond** has a very high bond enthalpy (944 kJ mol⁻¹), so a large activation energy is required.
 2. The molecule is **non-polar**, so it is not attacked by nucleophiles or electrophiles.
 
-## Ammonia
+## Why is ammonia a base?
 
 **Basic** because the nitrogen lone pair **accepts a proton**:
 
@@ -48,7 +55,7 @@ The ammonium ion NH₄⁺ is **tetrahedral, 109.5°**, because the lone pair has
 
 **Test for ammonium ions:** warm with NaOH(aq); ammonia gas turns damp **red litmus blue**. This is the same acid-base logic run in reverse: NH₄Cl + NaOH → NaCl + NH₃ + H₂O.
 
-## Oxides of nitrogen
+## Where do oxides of nitrogen come from?
 
 **Formation:** at the high temperatures inside a car engine, nitrogen and oxygen from the air combine. NO also forms **naturally** — the enormous energy of a lightning strike is enough to overcome nitrogen's high activation energy, driving the same reaction directly in the atmosphere.
 
@@ -74,7 +81,7 @@ One reaction removes a toxic gas **and** an acid-rain precursor.
 
 **Photochemical smog:** atmospheric NO and NO₂ also react with unburned hydrocarbons from vehicle exhaust, driven by sunlight, to form **peroxyacetyl nitrate (PAN)** — an eye and lung irritant characteristic of sunny, traffic-heavy cities.
 
-## Acid rain
+## How do SO₂ and NOₓ cause acid rain?
 
 | Pollutant | Source | Product |
 |---|---|---|
@@ -87,7 +94,11 @@ One reaction removes a toxic gas **and** an acid-rain precursor.
 
 **Control:** flue-gas desulfurisation with calcium oxide or carbonate, catalytic converters, low-sulfur fuels.
 
-## The Contact process
+## Where does the Contact process fit?
+
+The Contact process is not one of the 12.1 outcomes. The 9701 syllabus examines its conditions under
+**7.1 Chemical equilibria** (outcome 7.1.10, with the Haber process), so revise it with equilibria; it is
+summarised here because it links SO₂ to SO₃.
 
 ```
 2SO2 + O2  <=>  2SO3        exothermic
@@ -97,6 +108,19 @@ One reaction removes a toxic gas **and** an acid-rain precursor.
 **V₂O₅ is a heterogeneous catalyst** working by a redox cycle: it oxidises SO₂ and is then re-oxidised by O₂, returning to its original state.
 
 Low pressure is used because the yield is already high — high pressure would add cost for little gain.
+
+## Frequently asked questions
+
+**What does "Brønsted–Lowry base" mean for ammonia?**
+A Brønsted–Lowry base is a proton acceptor. The lone pair on the nitrogen atom of NH₃ accepts H⁺ to form NH₄⁺,
+so ammonia is a base; in water it is a weak base because the reaction is an equilibrium.
+
+**How is ammonia displaced from an ammonium salt?**
+Warm the salt with a strong base such as NaOH(aq). OH⁻ removes H⁺ from NH₄⁺ in an acid–base reaction, releasing
+NH₃ gas, which turns damp red litmus blue.
+
+**Is NO₂ used up when it oxidises SO₂ in the atmosphere?**
+No. NO₂ + SO₂ → NO + SO₃, then NO + ½O₂ → NO₂. The NO₂ is regenerated, so it acts as a catalyst.
 
 ## Exam traps
 
