@@ -227,6 +227,19 @@ The difference between ABC and absorption profit comes from the overhead each un
   <figcaption>Overheads are allocated where one department caused them and apportioned on a fair basis where they are shared.</figcaption>
 </figure>
 
+## Frequently asked questions
+
+**What is the difference between allocation, apportionment and attribution?**
+Allocation charges a cost in full to the one cost centre or product it belongs to, with no sharing. Apportionment shares an overhead between departments, and attribution shares an activity based costing cost pool among products according to their use of its driver.
+
+**Does under-absorption increase or decrease profit?**
+Under-absorption reduces profit, because less overhead was charged to products than was actually spent. Over-absorption increases profit.
+
+**How do you calculate overheads absorbed?**
+Multiply the predetermined overhead absorption rate by the actual activity, such as actual direct labour hours or machine hours. Using budgeted hours instead is a common mistake.
+
+**Why does profit differ between absorption costing and activity based costing?**
+The difference comes from the overhead carried by each unsold unit in closing inventory. A product that activity based costing loads heavily makes its profit higher when inventory of that product is rising.
 
 ## Official syllabus
 

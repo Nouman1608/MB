@@ -233,6 +233,20 @@ profit = 38,650 − 31,200 − 2,500 + 7,200 = **12,150**.
 - Working out a percentage change against the new figure instead of the original.
 - Writing figures without units or a stated period where the question asks for them.
 
+## Frequently asked questions
+
+**How is the Cambridge IGCSE Accounting 0452 exam structured?**
+Paper 1 is 40 multiple-choice questions and calculators may be used. Paper 2 has five compulsory structured questions of 20 marks each, and both papers are based on all the subject content.
+
+**How do you calculate profit from the movement in owner's equity?**
+Profit = closing equity minus opening equity minus capital introduced plus drawings. For example, with opening equity of 31,200, closing equity of 38,650, capital introduced of 2,500 and drawings of 7,200, profit is 12,150.
+
+**What changes owner's equity?**
+Only four things: capital introduced and profit increase it, while a loss and drawings decrease it. Other transactions, such as buying an asset on credit or repaying a loan, leave owner's equity unchanged.
+
+**What is the difference between drawings and expenses?**
+An expense is a cost of earning income and is deducted when finding profit. Drawings are amounts the owner takes out for private use, which reduce owner's equity directly and are not an expense.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1), published by Cambridge University Press & Assessment (Cambridge International Education). Sections 1.1 and 1.2.

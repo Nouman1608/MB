@@ -14,13 +14,15 @@ syllabusTopics:
     topic: "preparation-of-financial-statements"
   - qualification: "o-level"
     topic: "preparation-of-financial-statements"
-description: "Statements of profit or loss and statements of financial position with year-end adjustments for sole traders, partnerships and limited companies, plus manufacturing accounts, clubs and societies and incomplete records, with fully balanced worked examples, for Cambridge IGCSE Accounting (0452) Topic 5, 2027-2029 syllabus."
+description: "Cambridge IGCSE Accounting 0452 Topic 5 guide to financial statements for sole traders, partnerships, companies, manufacturers, clubs and incomplete records."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-16
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -1176,6 +1178,23 @@ the accumulated fund.
 - Prepare statements of affairs, find profit from changes in capital,
 rebuild sales and purchases, and use mark-up, margin and inventory
 turnover to find missing figures.
+
+## Frequently asked questions
+
+**What is the difference between a statement of profit or loss and a statement of financial position?**
+The statement of profit or loss shows the profit or loss for a period of time. The statement of financial position records the assets, liabilities and capital on a specified date, so it is a snapshot of what the business owns and owes at the end of the period.
+
+**Is interest on a partner's loan an appropriation of profit?**
+No. A partner's loan is a liability of the business, so the interest on it is an expense in the statement of profit or loss, charged before profit for the year is found. Interest on capital, partners' salaries and interest on drawings are the items that go in the appropriation account.
+
+**What is the difference between issued, called-up and paid-up share capital?**
+Issued share capital is the value of the shares a company has actually issued to shareholders. Called-up share capital is the part of that value the company has asked shareholders to pay, and paid-up share capital is the part of the called-up amount that has actually been paid.
+
+**How do you find profit for the year from changes in capital?**
+Prepare opening and closing statements of affairs to find capital at each date, then take the increase in capital, add back drawings and deduct any capital introduced. Drawings reduced capital without being a loss, and capital introduced increased it without being a profit.
+
+**Does the Cambridge IGCSE Accounting 0452 syllabus include incomplete records for every type of business?**
+No. The syllabus note for 5.6 says incomplete records questions are only asked in relation to sole trader businesses, not service or manufacturing businesses.
 
 ## Official syllabus
 

@@ -15,10 +15,12 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on source documents, double entry, ledgers and the trial balance."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -112,3 +114,17 @@ Reasons: **unpresented cheques** — paid out and recorded but not yet cleared b
 - Saying a suspense account corrects the error, rather than holding it temporarily.
 - Posting the purchase of a non-current asset on credit to a day book other than the general journal.
 - Forgetting that a debit note is sent by the buyer, while the credit note that follows it is issued by the seller.
+
+## Frequently asked questions
+
+**What do these OxfordAQA International GCSE Accounting 9215 practice questions cover?**
+They cover source documents, double entry, the divisions of the ledger, books of prime entry, trade and cash discount, the trial balance and suspense accounts, and bank reconciliation. Worked answers follow the questions.
+
+**How should I work out a double entry in an exam answer?**
+Identify the two accounts affected, decide whether each is increasing or decreasing, then apply the debit and credit rules. Name both accounts and the amount for each entry, so both halves of the entry are visible.
+
+**How are marks shown on this practice page?**
+The number in square brackets after each question or part is the marks available, and each worked answer shows [1] next to each point that earns a mark.
+
+**What should I revise before trying these questions?**
+Work through the Sources and Recording of Data revision notes for OxfordAQA International GCSE Accounting 9215 first, then attempt the questions without looking at the worked answers and mark your work against them.

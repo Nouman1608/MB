@@ -277,6 +277,20 @@ mixes inventory with the other Topic 4 procedures, and
 [Preparation of Financial Statements](/resources/igcse-accounting-preparation-of-financial-statements/)
 shows where closing inventory sits in full statements.
 
+## Frequently asked questions
+
+**Why must cost and net realisable value be compared item by item?**
+Comparing the totals lets the extra value in some items hide the loss on others. Comparing each item, or group of identical items, and taking the lower figure means every expected loss is recognised.
+
+**How do you adjust an inventory count taken after the year end?**
+Start from the counted value at cost, take off purchases received since the year end, add back the cost of goods sold since the year end, and adjust for returns. For a count before the year end, do the reverse.
+
+**What happens to profit if closing inventory is understated?**
+Cost of sales is overstated, so gross profit and profit for the year are understated by the same amount, and the inventory asset and equity are understated too. In the next year the effects reverse, because the understated figure becomes opening inventory.
+
+**Which accounting concepts explain the inventory valuation rule in Cambridge IGCSE Accounting 0452?**
+Prudence, because an expected loss is recognised as soon as it is foreseen, and realisation, because profit is not recognised until goods are sold. Together they give the rule of the lower of cost and net realisable value.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for 2027, 2028 and 2029 (version 1),

@@ -14,13 +14,15 @@ syllabusTopics:
     topic: "sources-and-recording-of-data"
   - qualification: "o-level"
     topic: "sources-and-recording-of-data"
-description: "Exam-style questions with full worked answers on double entry, running balance accounts, business documents, the seven books of prime entry, trade vs cash discount, the imprest system and manual versus digital records, for Cambridge IGCSE Accounting (0452) Topic 2, 2027-2029 syllabus."
+description: "Cambridge IGCSE Accounting 0452 practice questions with marked answers on double entry, documents, books of prime entry, discounts and petty cash (Topic 2)."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -225,3 +227,17 @@ confusions — book of prime entry versus ledger, trade discount versus
 cash discount, and the cash book's unique dual role — as a short,
 dedicated checklist you revisit close to the exam, since these are the
 errors examiners report seeing most often in structured answers.
+
+## Frequently asked questions
+
+**What is the most useful exam skill for Sources and Recording of Data questions?**
+Tracing a single transaction end to end: from the business document that triggers it, through the correct book of prime entry, to its final ledger posting. Paper 2 structured questions often present a mixed set of documents in one scenario and expect each to be routed correctly.
+
+**Which confusions should I check before a Cambridge IGCSE Accounting 0452 exam on this topic?**
+Keep a short checklist of the pairs students mix up: a book of prime entry versus a ledger, trade discount versus cash discount, and the cash book's role. Revisit it close to the exam.
+
+**How should I set out a running balance account in an exam answer?**
+Show debit, credit and balance columns and give the balance after every entry. Label every balance Dr or Cr, because a balance without a label does not say whether the amount is owed to or by the business.
+
+**How are marks given in the practice answers on this page?**
+Each answer shows the mark allocation in square brackets, usually one mark for each correct document, book of prime entry, account or entry. The number in brackets after each question shows how many marks the question is worth.

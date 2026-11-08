@@ -262,6 +262,20 @@ inventory (an increase in closing inventory increases profit).
 - Describing equity as wrong at the end of the second year when it has
   corrected itself.
 
+## Frequently asked questions
+
+**What is net realisable value?**
+Net realisable value is the expected selling price less the costs still to be paid before and when the goods are sold, such as repair, repackaging, commission or delivery. Inventory is valued at the lower of cost and net realisable value.
+
+**How do you convert sales to cost when adjusting an inventory count?**
+Use cost = selling price ÷ (1 + mark-up), or cost = selling price × (1 − margin). Sales must be converted to cost before they are added to or deducted from a count valued at cost.
+
+**How does an incorrect closing inventory affect the next year?**
+The wrong closing figure becomes the next year's opening inventory, so next year's cost of sales is wrong by the same amount the other way, and next year's profit moves in the opposite direction.
+
+**Why is inventory not valued at its selling price?**
+Prudence means expected losses are recognised now, while realisation and historic cost mean expected profits are not recognised until the goods are sold. Valuing at the lower of cost and net realisable value applies both ideas.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for 2027, 2028 and 2029 (version 1),

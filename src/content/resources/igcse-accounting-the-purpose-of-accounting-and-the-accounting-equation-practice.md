@@ -220,6 +220,20 @@ Each row balances: 11,500 + 22,900 = 34,400. **[8]**
 - Use the [course hub](/boards/cambridge/igcse/accounting/), [checklist](/checklists/cambridge/igcse/accounting/) and [free diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/) if you want help.
 
+## Frequently asked questions
+
+**Where do students usually lose marks on the accounting equation?**
+Typical losses include placing a bank overdraft or trade payables among the assets, stating the effect of a transaction on fewer than all three elements, and assuming that profit equals the increase in the bank balance.
+
+**How do you calculate a percentage change in profit correctly?**
+Divide the change by the original figure, not the new one, and multiply by 100. Then say whether the result is a rise or a fall.
+
+**What is a common mistake when defining accounting in Cambridge IGCSE Accounting 0452?**
+Leaving interpretation and advice out of the definition. Accounting goes beyond recording: it summarises, interprets and communicates the information so that it supports decisions.
+
+**What should I remember when finding profit from the change in owner's equity?**
+Adjust the change in equity for capital introduced and drawings. Forgetting to add back drawings is a common error, because drawings reduce equity without being an expense.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1), published by Cambridge University Press & Assessment (Cambridge International Education). Sections 1.1 and 1.2.
