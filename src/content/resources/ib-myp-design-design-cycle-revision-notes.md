@@ -113,6 +113,20 @@ physical and health education, arts, or design. For students taking design speci
 requirement, a genuinely well-documented ePortfolio carries weight beyond the subject's own grade,
 since it directly affects whether the broader certificate requirement is satisfied.
 
+## Frequently asked questions
+
+**Do I have to finish one stage completely before starting the next?** No. The cycle is applied
+repeatedly, and testing in Stage D often sends you back to refine the specification or the plan. What
+matters is that each stage is documented, including the changes you made and why.
+
+**How is each criterion marked?** Each of the four criteria is marked on a 0-8 scale against level
+descriptors, so the subject total is 0-32. See the
+[assessment revision notes](/resources/ib-myp-design-assessment-revision-notes/) for the bands.
+
+**What makes a good specification in Stage B?** Each requirement (size, materials, budget, constraints)
+should be specific and measurable, because Stage D tests the solution against it. A vague requirement
+such as "looks nice" cannot be objectively tested.
+
 ## Self-test
 
 1. Name the four stages of the design cycle in order.
