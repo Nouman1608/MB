@@ -145,6 +145,20 @@ Data: c = 3.00 × 10⁸ m s⁻¹; 1 u = 1.661 × 10⁻²⁷ kg, equivalent to 93
 - Confusing the roles of moderator and control rods.
 - Writing a waste answer with only hazards, or with no reason for the claim.
 
+## Frequently asked questions
+
+**What are the most common mistakes in binding energy calculations?**
+Common errors are forgetting to convert u or grams to kilograms before using ΔE = Δmc², dividing binding energy by proton number instead of nucleon number, and mixing atomic and nuclear masses in a mass-defect sum. Subtracting in the wrong order gives a negative energy released.
+
+**How many photons are produced in annihilation?**
+Annihilation of a particle and its antiparticle usually produces two photons travelling in opposite directions, so that total momentum stays zero. Giving one photon loses the mark.
+
+**How should you answer a nuclear waste discussion question?**
+Give a reason with each statement and set advantages, such as no carbon dioxide in operation, against disadvantages, such as long half-lives and storage risks. An answer listing only hazards, or claims without reasons, scores poorly.
+
+**What is the difference between the moderator and the control rods?**
+The moderator, such as water or graphite, slows fast neutrons to thermal speeds. The control rods, such as boron or cadmium, absorb neutrons to control the rate of the chain reaction. Confusing their roles is a common error.
+
 ## Next steps
 
 - [Revision notes](/resources/ocr-a-level-physics-mass-energy-binding-energy-fission-and-fusion-revision-notes/)

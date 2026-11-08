@@ -256,6 +256,23 @@ For a launch from height, put s = −(height) in s = vᵧt − ½gt² and solve 
 
 Work through the [practice questions](/resources/ocr-a-level-physics-kinematics-equations-of-motion-and-projectiles-practice/), then use the [revision notes](/resources/ocr-a-level-physics-kinematics-equations-of-motion-and-projectiles-revision-notes/) for the final weeks.
 
+## Frequently asked questions
+
+**What are the suvat equations?**
+For constant acceleration in a straight line, the equations are v = u + at, s = ½(u + v)t, s = ut + ½at² and v² = u² + 2as. Each equation leaves out one of the five variables.
+
+**When can you use the equations of motion?**
+Only when the acceleration is constant and the motion is in a straight line, including free fall without air resistance. They do not apply when acceleration changes.
+
+**Why are horizontal and vertical motion independent in projectiles?**
+Gravity acts only vertically, so the horizontal velocity stays constant while the vertical motion has acceleration g downwards. The two motions share only the time of flight.
+
+**How do you measure g with a trapdoor and electromagnet?**
+An electromagnet releases a steel ball and starts a timer, and the ball hitting a trapdoor stops it. Measuring times for several heights and plotting h against t² gives a straight line through the origin with gradient g/2.
+
+**How do you find instantaneous speed from a curved graph?**
+Draw a long tangent to the displacement-time curve at that point and find its gradient using two points far apart. Show the triangle you used.
+
 ## Official syllabus
 
 OCR, *A Level GCE Physics A H556 Specification*, Version 3.0 (March 2026), first assessment 2017, section 3.1 Motion (3.1.1 to 3.1.3) in Module 3: Forces and motion.

@@ -16,7 +16,9 @@ syllabusTopics:
 description: "Original exam-style practice questions with full worked answers on experimental design, uncertainty and graphical analysis for OCR A Level Physics H556."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
@@ -109,3 +111,17 @@ Related: [Practical Skills revision notes](/resources/ocr-a-level-physics-practi
 - Giving improvements without the specific reason they help.
 - Trying to reduce a systematic error by "repeating and taking a mean" — repeats only reduce random error, never systematic error.
 - Forgetting that percentage uncertainties multiply by the power when a measured quantity is raised to a power in the equation, as T is when g depends on T².
+
+## Frequently asked questions
+
+**What are the most common mistakes in practical skills questions?**
+Frequent errors include confusing control variables with a control experiment, including an anomaly in a mean, and giving improvements without a specific reason. Suggesting "repeat and take a mean" for a systematic error also loses marks, because repeats only reduce random error.
+
+**How do you choose what to plot for a straight-line graph?**
+Rearrange the relationship into the form y = mx + c, then plot the quantities that match y and x so the gradient and intercept have a physical meaning. Not squaring or rearranging first is a common way to lose marks.
+
+**What does a non-zero intercept on a graph suggest?**
+A straight line that should pass through the origin but has an intercept suggests a systematic error, such as a zero error or a neglected quantity. Explain the cause in terms of the specific experiment.
+
+**How do you handle an anomalous reading?**
+Identify the anomaly, exclude it from the mean, and where possible repeat the measurement to confirm the other readings. Including it in the mean is marked wrong.

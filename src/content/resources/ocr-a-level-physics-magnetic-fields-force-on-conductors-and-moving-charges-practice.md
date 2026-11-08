@@ -143,6 +143,20 @@ These questions cover 6.3.1 (Magnetic fields) and 6.3.2 (Motion of charged parti
 - Not reversing the current direction for an electron.
 - Stating v = E/B without saying the two forces are equal and opposite.
 
+## Frequently asked questions
+
+**What are the most common mistakes in magnetic force questions?**
+Common errors are using grams or forgetting g in the current balance calculation, taking θ from the wrong line in F = BIL sinθ, and not reversing the current direction for an electron in Fleming's left-hand rule.
+
+**How do you justify v = E/B for a velocity selector?**
+State that the electric force and the magnetic force on the particle are equal and opposite, so QE = BQv, before writing v = E/B. Stating the result without that reason loses marks.
+
+**Which angle is θ in F = BIL sinθ?**
+θ is the angle between the wire and the magnetic field lines. Only the field component perpendicular to the wire, B sinθ, produces the force.
+
+**How do you use Fleming's left-hand rule for an electron?**
+Point the second finger opposite to the electron's velocity, because conventional current flows the other way for a negative charge. The thumb then gives the direction of the force.
+
 ## Next steps
 
 - Revisit the [revision notes](/resources/ocr-a-level-physics-magnetic-fields-force-on-conductors-and-moving-charges-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-magnetic-fields-force-on-conductors-and-moving-charges/).

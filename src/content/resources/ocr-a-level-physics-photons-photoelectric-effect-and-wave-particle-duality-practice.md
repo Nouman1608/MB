@@ -134,6 +134,20 @@ These questions cover section 4.5 (Quantum physics: photons, the photoelectric e
 - Using p = mv for electrons that were accelerated, when the voltage is given and p = √(2meV) is the route.
 - Stating that rings "prove" waves without naming diffraction by the graphite.
 
+## Frequently asked questions
+
+**What are the most common mistakes in photoelectric effect questions?**
+Common errors include using wavelength in nanometres without converting to metres, mixing eV and J in one equation, and saying more intense light gives faster electrons. Quoting h without a unit also loses marks.
+
+**How do you explain why no electrons are emitted below the threshold frequency?**
+Refer to the energy of a single photon: each electron absorbs one photon, and below the threshold frequency one photon has less energy than the work function. The brightness of the beam is not the reason.
+
+**How do you find the momentum of an electron accelerated through a voltage?**
+Use eV = p²/2m, so p = √(2meV), when the accelerating voltage is given. Then the de Broglie wavelength is λ = h/p.
+
+**What must you say about the electron diffraction rings?**
+Name diffraction of the electrons by the regularly spaced atoms in the graphite as the cause of the rings. Simply saying the rings "prove" electrons are waves is not enough.
+
 ## Next steps
 
 - Read the [revision notes](/resources/ocr-a-level-physics-photons-photoelectric-effect-and-wave-particle-duality-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-photons-photoelectric-effect-and-wave-particle-duality/).

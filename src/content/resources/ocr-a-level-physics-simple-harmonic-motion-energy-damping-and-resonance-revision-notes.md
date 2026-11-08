@@ -213,6 +213,20 @@ The driving force has a frequency that you can change. When it matches the natur
 - Saying the energy of a damped oscillator is lost without saying where it goes.
 - Reading a period from the timing of one swing and quoting too many figures.
 
+## Frequently asked questions
+
+**What is the maximum speed in simple harmonic motion?**
+The maximum speed is vmax = ωA, at the equilibrium position. The maximum acceleration is ω²A, at the ends of the motion where the speed is zero.
+
+**What is the difference between free and forced oscillations?**
+A free oscillation is displaced and released, then oscillates at its natural frequency with no external force. A forced oscillation is driven by a periodic force and oscillates at the driving frequency.
+
+**What is critical damping?**
+With critical damping, a system returns to equilibrium in the least possible time without oscillating. Light damping gives many slowly decaying oscillations, and heavy damping gives a slow return with no oscillation.
+
+**Which section of OCR A Level Physics A covers oscillations?**
+Oscillations are section 5.3 of OCR H556, statements 5.3.1 to 5.3.3. Module 5 is assessed in Modelling physics (01) and Unified physics (03).
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017, published by OCR. Section 5.3, Oscillations.

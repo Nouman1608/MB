@@ -163,6 +163,20 @@ These questions cover section 3.1 (Motion) of OCR A Level Physics A (H556), Vers
 - Rounding too early.
 - Giving no unit, or an unlikely number of significant figures.
 
+## Frequently asked questions
+
+**What are the most common mistakes in kinematics questions?**
+Common errors include giving a distance where a displacement is wanted, mixing signs for g and u without stating a positive direction, and rounding too early. Treating thinking distance as proportional to speed squared also loses marks.
+
+**How do you find the landing speed of a projectile?**
+Combine the final vertical velocity with the constant horizontal velocity using Pythagoras. Using the vertical velocity alone as the landing speed is a common error.
+
+**What is the velocity of a projectile at the top of its flight?**
+At the top, the vertical velocity is zero but the horizontal velocity is unchanged and not zero. Forgetting the horizontal component is a frequent mistake.
+
+**What should you plot to find g from a free-fall experiment?**
+For a ball dropped from rest, h = ½gt², so plot h against t², not t. The gradient is g/2, so g is twice the gradient.
+
 ## Next steps
 
 - Re-read the [revision notes](/resources/ocr-a-level-physics-kinematics-equations-of-motion-and-projectiles-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-kinematics-equations-of-motion-and-projectiles/).

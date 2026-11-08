@@ -184,6 +184,20 @@ Three coplanar forces in equilibrium:
 - Describing the centre of gravity method without saying the card must hang freely and the plumb line must be hung from the same pin.
 - Calling the displaced fluid's weight "the object's weight" in an Archimedes explanation.
 
+## Frequently asked questions
+
+**What is the moment of a force?**
+The moment of a force about a point is the force multiplied by the perpendicular distance from the point to the line of action of the force, measured in N m.
+
+**What is the difference between a moment and the torque of a couple?**
+A moment uses the perpendicular distance from a chosen pivot. The torque of a couple is one force multiplied by the perpendicular separation of the two lines of action, and it is the same about every point.
+
+**What are the two conditions for equilibrium?**
+The resultant force on the object must be zero, and the total moment about any point must be zero.
+
+**Which sections of OCR A Level Physics A cover moments and pressure?**
+They are sections 3.2.3 (Equilibrium) and 3.2.4 (Density and pressure) of OCR H556.
+
 ## Official syllabus
 
 OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017, published by OCR. Sections 3.2.3 Equilibrium and 3.2.4 Density and pressure.

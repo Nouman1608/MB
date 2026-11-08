@@ -222,6 +222,23 @@ For decays use the same rule: in beta-minus decay a neutron becomes a proton, so
 - Reversing the sum: binding energy released is products minus reactants, but mass lost is reactants minus products.
 - Saying the control rods slow neutrons down.
 
+## Frequently asked questions
+
+**What is binding energy?**
+Binding energy is the energy needed to separate a nucleus into its free protons and neutrons, equal to the energy equivalent of its mass defect. Binding energy per nucleon is the binding energy divided by the nucleon number A.
+
+**Why do both fission and fusion release energy?**
+Energy is released when the products have a higher binding energy per nucleon than the starting nuclei. Fusing light nuclei and splitting heavy nuclei both move towards the peak of the binding energy curve near A = 56.
+
+**What is a chain reaction?**
+In a chain reaction, neutrons released by one fission cause further fissions. If on average one neutron per fission goes on to cause another, the reaction is steady and controlled.
+
+**How do you balance a nuclear equation?**
+Make the total nucleon number A and the total proton number Z equal on both sides. For example, in a U-235 fission equation, balancing A gives the number of neutrons released.
+
+**How do you calculate energy released in a reaction from binding energies?**
+Energy released equals the total binding energy of the products minus the total binding energy of the reactants. Free neutrons have no binding energy.
+
 ## Official syllabus
 
 OCR Level 3 Advanced GCE in Physics A (H556), Version 3.0 (March 2026), first assessment 2017, published by OCR. Section 6.4.4, outcomes (a) to (k).

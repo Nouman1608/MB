@@ -234,6 +234,20 @@ These notes condense OCR A Level Physics A (H556), section 1.2.1 (practical skil
 - Giving a source as "the internet", or no citation at all.
 - Saying a digital reading is "exact" instead of giving its resolution.
 
+## Frequently asked questions
+
+**What are the five CPAC competencies?**
+The Common Practical Assessment Criteria are: follows written procedures; applies investigative approaches and methods when using instruments and equipment; safely uses a range of practical equipment and materials; makes and records observations; and researches, references and reports.
+
+**How do you read a micrometer?**
+Add the sleeve reading (in 0.5 mm steps) to the thimble reading (0.01 mm per division), then correct for the zero error found with the jaws closed. Use the ratchet so you do not squash the object.
+
+**How should you connect a multimeter?**
+Connect it in series to measure current, in parallel to measure voltage, and across an isolated, unpowered component to measure resistance. Check the range and that the leads are in the correct sockets.
+
+**Which part of the OCR A Level Physics A specification lists the practical apparatus and techniques?**
+Section 1.2 of OCR H556 covers practical skills (1.2.1(a)-(j)) and use of apparatus and techniques (1.2.2(a)-(l)) assessed through the Practical Endorsement.
+
 ## Official syllabus
 
 OCR, *A Level Specification Physics A (H556)*, Version 3.0 (March 2026), for first assessment in 2017: sections 1.2.1, 1.2.2 and 5g.

@@ -202,6 +202,20 @@ Reminder: resistance at a point on a curve is V/I, not the slope.
 </figure>
 
 
+## Frequently asked questions
+
+**What is Ohm's law?**
+Ohm's law states that the current through a conductor is directly proportional to the p.d. across it, provided the temperature and other physical conditions stay constant.
+
+**How does the resistivity of metals and semiconductors change with temperature?**
+The resistivity of a metal increases with temperature because lattice ions vibrate more and electrons collide with them more often. The resistivity of a semiconductor decreases because thermal energy frees more charge carriers.
+
+**What is a kilowatt-hour?**
+A kilowatt-hour is the energy transferred by a 1 kW device in 1 hour. The cost of electricity is the energy in kW h multiplied by the price per kW h.
+
+**Which sections of OCR A Level Physics A cover resistance and power?**
+They are sections 4.2.3 (Resistance), 4.2.4 (Resistivity) and 4.2.5 (Power) of OCR H556.
+
 ## Official syllabus
 
 This page is aligned to the OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), first assessment 2017, published by OCR, sections 4.2.3 to 4.2.5.

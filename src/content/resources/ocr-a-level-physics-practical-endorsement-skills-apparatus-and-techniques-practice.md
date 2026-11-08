@@ -159,6 +159,20 @@ These questions cover OCR A Level Physics A (H556), section 1.2 (1.2.1 practical
 - Connecting a voltmeter in the current path, or an ammeter across a component.
 - Quoting too many significant figures for the data.
 
+## Frequently asked questions
+
+**What are the most common mistakes in practical skills questions?**
+Common errors include giving a percentage uncertainty without dividing by the measured value, forgetting a zero error or applying it with the wrong sign, and counting the wrong number of intervals between fringes, minima or oscillations. Quoting too many significant figures also loses marks.
+
+**How do you read an oscilloscope trace?**
+Count the divisions and convert them using the settings: multiply vertical divisions by the Y-gain (volts per division) and horizontal divisions by the time-base (time per division). Leaving the answer in divisions earns no credit.
+
+**How do you write a risk assessment that earns marks?**
+Name the specific hazard, say who or what could be harmed and how, and give a control that fits the apparatus. Writing "be careful" is not credited.
+
+**Why must you subtract the background count?**
+The Geiger-Muller tube also records background radiation, so measure the background count rate with the source absent and subtract it. Not stating that background was subtracted is a common reason for lost marks.
+
 ## Next steps
 
 - Review with the [revision notes](/resources/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques/).

@@ -148,6 +148,20 @@ Current in R = **2.0 A**, so p.d. across R = 2.0 × 3.0 = **6.0 V**. [1]
 - Giving a bare "resistance changes" explanation without saying how the share of the supply p.d. changes.
 - Forgetting that a load across R2 is in parallel with R2.
 
+## Frequently asked questions
+
+**What are the most common mistakes in circuit questions?**
+Common errors include leaving a parallel result as 1/R, adding opposing e.m.f.s instead of subtracting them, and using E instead of the terminal p.d. when finding the load current or resistance. Forgetting that a load across R2 is in parallel with it also loses marks.
+
+**How do you explain how a sensor circuit works for full marks?**
+State which component Vout is across, then explain how the sensor's resistance changes and how its share of the supply p.d. changes as a result. Saying only that "resistance changes" is not enough.
+
+**How do you find internal resistance from a V-I graph?**
+Draw a line of best fit through all the points; the gradient is −r and the vertical intercept is the e.m.f. E. Using two neighbouring points gives a poor gradient, and dropping the minus sign is a common slip.
+
+**What does a negative current mean when solving Kirchhoff's law equations?**
+A negative answer means the current flows in the opposite direction to the one you drew. It is still a valid answer.
+
 ## Next steps
 
 - Recap with the [revision notes](/resources/ocr-a-level-physics-series-and-parallel-circuits-internal-resistance-and-revision-notes/) or the [study guide](/resources/ocr-a-level-physics-series-and-parallel-circuits-internal-resistance-and/).

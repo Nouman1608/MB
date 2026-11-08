@@ -230,6 +230,23 @@ v = E/B = 1.5 × 10⁵ / 0.050 = 3.0 × 10⁶ m s⁻¹
 - Saying the magnetic force "speeds up" the particle. It changes direction only.
 - Forgetting that the balance reading gives mass, so F = Δm g.
 
+## Frequently asked questions
+
+**What is the magnetic field pattern of a solenoid?**
+Inside a long solenoid, away from the ends, the field lines are straight, parallel and equally spaced, so the field is uniform. Outside, the pattern is like that of a bar magnet.
+
+**What is the force on a charge moving in a magnetic field?**
+A charge Q moving at speed v at right angles to a uniform field B feels F = BQv. A charge moving parallel to the field feels no force.
+
+**Does a magnetic field change the speed of a charged particle?**
+No. The magnetic force is always perpendicular to the velocity, so it does no work and does not change the particle's speed or kinetic energy; it only changes its direction.
+
+**How do you measure magnetic flux density with a digital balance?**
+Pass a current-carrying wire at right angles through the field of magnets on a zeroed balance. The change in reading Δm gives the force F = Δm g, and B is the gradient of F against I divided by the length of wire in the field.
+
+**What is a velocity selector?**
+A velocity selector uses crossed electric and magnetic fields so that only particles with speed v = E/B pass straight through undeflected, whatever their charge or mass.
+
 ## Official syllabus
 
 Source: the OCR *Physics A (H556)* specification, Version 3.0 (March 2026), first assessment 2017. Section 6.3 Electromagnetism; outcomes 6.3.1(a)-(f) and 6.3.2(a)-(c).
