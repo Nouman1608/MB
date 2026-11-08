@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "business-in-the-real-world-oxfordaqa-igcse-business"
 description: "Original practice questions with worked answers on ownership, aims, stakeholders, location, planning, growth and unit cost for OxfordAQA IGCSE Business 9225."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

@@ -11,11 +11,9 @@ syllabusSeries: "2026-2027"
 order: 3
 description: "Question choice and timing for Cambridge O Level Islamiyat 2058: the two compulsory questions, choosing the other two, and timing for 8- and 14-mark tariffs."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-07
 featured: false
 ---

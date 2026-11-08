@@ -16,13 +16,11 @@ syllabusTopics:
     subtopic: "the-measurement-of-macroeconomic-performance-oxfordaqa-alevel-economics"
 description: "Revision notes on macroeconomic objectives, the Gini coefficient, performance indicators and index numbers for OxfordAQA International A-level Economics 9640."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

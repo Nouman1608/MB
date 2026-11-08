@@ -16,13 +16,11 @@ syllabusTopics:
     topic: "the-fundamentals-of-accounting"
 description: "The purpose of accounting and the accounting equation -- the full content of Topic 1 for Cambridge IGCSE Accounting 0452, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE

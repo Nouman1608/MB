@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "business-objectives-and-strategic-decisions-ocr-alevel-business"
 description: "Mission, objectives, stakeholders, SWOT, Five Forces, Ansoff, decision trees and change for OCR A Level Business H431's Business objectives and strategy area."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers what the OCR specification itself names

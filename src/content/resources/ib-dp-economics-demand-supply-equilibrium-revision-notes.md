@@ -14,14 +14,12 @@ syllabusTopics:
     topic: "ib-dp-economics-unit-2"
 description: "SL revision notes for IB DP Economics sub-topics 2.1 to 2.3: demand, supply, competitive market equilibrium, consumer and producer surplus and price ceilings."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 updatedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for the final weeks, covering the **SL-level** content of sub-topics 2.1-2.3. For the

@@ -14,11 +14,9 @@ syllabusTopics:
     topic: "principles-of-chemistry-4ch1"
 description: "Condensed recall notes on states of matter, atomic structure, bonding, the mole and electrolysis for Edexcel International GCSE Chemistry 4CH1."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false

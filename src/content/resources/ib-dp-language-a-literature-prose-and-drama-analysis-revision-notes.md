@@ -17,13 +17,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-intertextuality"
 description: "Revision notes on prose and drama for IB DP Language A: Literature: key terms, step-by-step methods, must-know distinctions and a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 For full explanations and worked examples, start with the

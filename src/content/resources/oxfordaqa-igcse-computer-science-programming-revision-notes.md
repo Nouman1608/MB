@@ -29,13 +29,11 @@ syllabusTopics:
     subtopic: "boolean-operations-9210"
 description: "Condensed notes on data types, sequence, selection and iteration, and arithmetic, relational and Boolean operators for OxfordAQA International GCSE 9210."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

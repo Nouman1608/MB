@@ -28,13 +28,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-5-18"
 description: "Condensed IB DP Maths AI HL revision notes on differential equations, Euler's method, slope fields and eigenvalue phase portraits, with a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 These notes condense the HL differential equations unit of IB Diploma Programme Mathematics: Applications and Interpretation for your final weeks of revision. For full explanations and longer worked examples, use the [differential equations study guide](/resources/ib-dp-mathematics-ai-hl-differential-equations/).

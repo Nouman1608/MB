@@ -21,11 +21,9 @@ description: "Condensed IB DP ESS revision notes on the HL lenses: legal princip
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
 ---
 
 For full explanations and worked examples, start with the [HL lenses study guide](/resources/ib-dp-ess-hl-lenses-law-economics-ethics/). These notes are for recall in the final weeks.

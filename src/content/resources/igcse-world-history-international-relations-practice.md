@@ -20,11 +20,9 @@ syllabusTopics:
     subtopic: "paper-1-section-b-9245"
 description: "Original OxfordAQA International GCSE History 9245 Paper 1 practice: source-based Peacemaking and the League, and knowledge-based Hitler's foreign policy."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---

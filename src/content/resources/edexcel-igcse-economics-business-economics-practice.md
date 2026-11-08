@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "business-economics-edexcel-igcse-economics"
 description: "Practice questions with worked answers on factors of production, productivity, division of labour, costs and scale economies for Edexcel IGCSE Economics 4EC1."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

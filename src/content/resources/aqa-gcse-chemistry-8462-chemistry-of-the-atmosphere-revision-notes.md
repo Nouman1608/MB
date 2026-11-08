@@ -15,11 +15,9 @@ syllabusTopics:
     topic: "chemistry-of-the-atmosphere-8462"
 description: "Condensed AQA GCSE Chemistry 8462 revision notes on the atmosphere: gas proportions, early atmosphere, greenhouse effect and pollutants, with a self-test."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---

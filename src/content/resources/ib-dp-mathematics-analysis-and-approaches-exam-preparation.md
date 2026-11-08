@@ -11,13 +11,11 @@ syllabusSeries: "First assessment 2021"
 order: 5
 description: "Exam preparation for IB DP Maths Analysis and Approaches: by-hand fluency for Paper 1, full working on show-that questions, HL Paper 3 strategy and a checklist."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 The [assessment revision notes](/resources/ib-dp-mathematics-analysis-and-approaches-assessment-revision-notes/)

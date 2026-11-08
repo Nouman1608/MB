@@ -27,13 +27,11 @@ syllabusTopics:
     subtopic: "translocation-cambridge-igcse-biology"
 description: "Condensed revision notes on xylem, phloem, root hairs, transpiration, wilting and sources and sinks, with a self-test, for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 These notes condense topic 8, Transport in plants, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028: sections 8.1 (Xylem and phloem), 8.2 (Water uptake), 8.3 (Transpiration) and 8.4 (Translocation). Anything marked **Extended only** is Supplement content, examined on Papers 2 and 4, not Papers 1 and 3; all of 8.4 is Extended only. For full explanations and worked examples, use the [transport in plants study guide](/resources/igcse-biology-0610-transport-in-plants/).

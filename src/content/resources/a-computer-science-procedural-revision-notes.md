@@ -15,11 +15,9 @@ syllabusTopics:
     topic: "procedural-programming"
 description: "Condensed recall notes on constructs, subroutines, scope, recursion, data structures and algorithm complexity for A Level Computer Science."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---

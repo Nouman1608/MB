@@ -13,11 +13,9 @@ description: "Exam preparation for Cambridge O Level Sociology (2251): why Paper
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-07
 featured: false
-reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 Cambridge O Level Sociology 2251 is assessed by two externally assessed papers of equal weight but

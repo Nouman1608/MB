@@ -11,13 +11,11 @@ syllabusSeries: "For first teaching 2015"
 order: 1
 description: "Exam preparation for AQA GCSE Mathematics 8300: Foundation and Higher tier strategy, the non-calculator paper, show-your-method answers and an exam checklist."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 AQA GCSE Mathematics (8300) is assessed through three written papers, each sat at Foundation or

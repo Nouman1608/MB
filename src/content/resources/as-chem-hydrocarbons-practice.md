@@ -19,13 +19,11 @@ syllabusTopics:
     subtopic: "as-alkenes"
 description: "Original Cambridge 9701 AS Chemistry questions with worked answers on alkanes and alkenes: cracking, free-radical substitution, addition and pollutants."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: added questions 10-12 on cracking with Al2O3, making alkenes by elimination and dehydration, and engine pollutants (14.1.1, 14.1.4, 14.1.6, 14.2.1 had no practice); please re-review."
+reviewNote: "2026-11-08 recheck: added questions 10-12 on cracking with Al2O3, making alkenes by elimination and dehydration, and engine pollutants (14.1.1, 14.1.4, 14.1.6, 14.2.1 had no practice); please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

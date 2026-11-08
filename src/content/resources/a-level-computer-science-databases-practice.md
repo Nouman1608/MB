@@ -24,11 +24,9 @@ syllabusTopics:
     subtopic: "ddl-and-dml"
 description: "Original Cambridge 9618 Topic 8 practice questions with mark-scheme answers: keys, E-R design, normalisation to 3NF, DBMS features, SQL DDL and DML queries."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: expanded from 5 to 13 questions to cover all of 8.1-8.3 (file-based limits, E-R, 3NF design, DBMS features and tools, DDL with keys, DML with INNER JOIN/GROUP BY/COUNT, maintenance); mapped 8.2; please re-review."
+reviewNote: "2026-11-08 recheck: expanded from 5 to 13 questions to cover all of 8.1-8.3 (file-based limits, E-R, 3NF design, DBMS features and tools, DDL with keys, DML with INNER JOIN/GROUP BY/COUNT, maintenance); mapped 8.2; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-24
 featured: false
 ---

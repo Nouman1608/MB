@@ -19,11 +19,9 @@ description: "Study guide to Crime and Deviance in AQA A-Level Sociology (7192) 
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-05
 featured: false
-reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers **3.3.1 Crime and Deviance**, the substantive content half of Paper 3 for AQA

@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "membranes-proteins-dna-and-gene-expression-edexcel-alevel-biology"
 description: "Condensed notes on Fick's Law, gas exchange surfaces, the fluid mosaic model, osmosis and membrane transport for Edexcel IAL Biology YBI11, outcomes 2.1-2.5."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

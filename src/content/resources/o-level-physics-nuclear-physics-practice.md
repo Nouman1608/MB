@@ -18,11 +18,9 @@ syllabusTopics:
     subtopic: "radioactivity"
 description: "Original Cambridge O Level Physics 5054 nuclear questions with worked answers: alpha scattering, decay equations, half-life, reactors, fusion and safety."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: shortened over-long description; added questions on alpha scattering, background correction, beta decay, deflection, fusion, coolant, carbon-14 dating, smoke alarms and safety, plus an FAQ (page was under 900 words); please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: shortened over-long description; added questions on alpha scattering, background correction, beta decay, deflection, fusion, coolant, carbon-14 dating, smoke alarms and safety, plus an FAQ (page was under 900 words); please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-24
 featured: false
 ---

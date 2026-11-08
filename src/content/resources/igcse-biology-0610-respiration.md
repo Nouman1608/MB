@@ -24,13 +24,11 @@ syllabusTopics:
     subtopic: "anaerobic-respiration-cambridge-igcse-biology"
 description: "Uses of energy, aerobic and anaerobic respiration, the yeast temperature investigation and oxygen debt, taught in steps for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This study guide teaches Topic 12, Respiration, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. It covers sections 12.1 (Respiration), 12.2 (Aerobic respiration) and 12.3 (Anaerobic respiration). Core content is examined on Papers 1 and 3; Core plus Supplement is examined on Papers 2 and 4. Content marked **Extended only** is Supplement content: the balanced chemical equations and oxygen debt.

@@ -22,13 +22,11 @@ syllabusTopics:
     subtopic: "protein-synthesis-cambridge-alevel-biology"
 description: "Original exam-style questions with marked answers on DNA replication, transcription, translation and gene mutation for Cambridge 9700 AS Biology."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

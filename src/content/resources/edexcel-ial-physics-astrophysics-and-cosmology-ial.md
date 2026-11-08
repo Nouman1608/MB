@@ -15,11 +15,9 @@ syllabusTopics:
     subtopic: "astrophysics-and-cosmology"
 description: "Gravitational fields, black body radiation, parallax and standard candles, the HR diagram, redshift and the Hubble constant: 5.6 of Edexcel IAL Physics (YPH11)."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

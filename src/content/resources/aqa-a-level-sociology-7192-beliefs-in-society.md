@@ -20,11 +20,9 @@ description: "AQA A-level Sociology 7192 Beliefs in society guide: ideology and 
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers Beliefs in Society for AQA A-level Sociology (7192), based on the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). It teaches every content point in section 4.2.5 (the specification at a glance also lists it as 3.2.5). Beliefs in Society is an A-level option, not an AS topic. It is assessed in Paper 2: Topics in Sociology, Section B.

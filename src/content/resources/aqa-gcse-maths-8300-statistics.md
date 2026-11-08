@@ -15,13 +15,11 @@ syllabusTopics:
     topic: "statistics-aqa-gcse-maths"
 description: "Study guide for AQA GCSE Maths 8300 Statistics (S1-S6): sampling, charts, averages and spread, histograms, box plots and scatter graphs."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This study guide teaches Topic 6, **Statistics** (specification references S1 to S6), of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 (version 1.0). Statistics can be tested on any of the three papers at Foundation or Higher tier. Most of it is for both tiers. Histograms, cumulative frequency graphs (S3), box plots, quartiles and interquartile range (part of S4) are Higher tier only and are labelled below. Exams run every May/June and November.

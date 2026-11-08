@@ -21,11 +21,9 @@ syllabusTopics:
     subtopic: "control-technologies"
 description: "Condensed recall notes on sensors, calibration, actuators and microprocessor-controlled systems such as greenhouses for Cambridge AS & A Level IT 9626 topic 3."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-05
 updatedDate: 2026-09-27
 featured: false

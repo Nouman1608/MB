@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "bioenergetics-oxfordaqa-igcse-biology"
 description: "Photosynthesis, plant transport, human circulation, digestion, breathing and respiration, covering the Bioenergetics topic of OxfordAQA IGCSE Biology 9201."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide covers **Topic 2 Bioenergetics**, one of the six topics of

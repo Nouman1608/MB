@@ -20,11 +20,9 @@ syllabusTopics:
     subtopic: "section-b-literary-heritage-texts-4et1"
 description: "Original essay questions with model plans and worked commentary on modern drama and literary heritage texts for Edexcel IGCSE English Literature 4ET1 Paper 2."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---

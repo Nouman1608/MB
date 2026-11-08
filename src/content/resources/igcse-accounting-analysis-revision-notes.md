@@ -18,11 +18,9 @@ syllabusTopics:
     topic: "analysis-and-interpretation"
 description: "Quick recall for Cambridge IGCSE Accounting 0452 Topic 6: ten ratios, reading them, profit versus cash, comparing businesses, users and statement limits."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 publishedDate: 2026-09-16
 featured: false
 ---

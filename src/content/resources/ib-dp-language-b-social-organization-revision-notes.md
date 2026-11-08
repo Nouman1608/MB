@@ -15,13 +15,11 @@ syllabusTopics:
     topic: "ib-dp-language-b-social-organization"
 description: "Revision notes for IB DP Language B Social organization: the six topics, rule and obligation language, formal register, key distinctions and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 These notes condense the [Social organization study guide](/resources/ib-dp-language-b-social-organization/),

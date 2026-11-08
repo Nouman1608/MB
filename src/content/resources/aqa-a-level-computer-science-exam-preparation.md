@@ -11,11 +11,9 @@ syllabusSeries: "2015-onwards"
 order: 3
 description: "How to prepare for AQA A-Level Computer Science 7517: the on-screen Paper 1, the written Paper 2 and the 20% NEA, with a routine for on-screen programming."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-07
 featured: false
 ---

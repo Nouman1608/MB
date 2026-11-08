@@ -18,11 +18,9 @@ syllabusTopics:
     subtopic: "functions-cambridge-alevel-maths"
 description: "12 original Cambridge 9709 Paper 1 questions on functions -- ranges, composites, inverses and graph transformations -- with mark-by-mark answers."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---

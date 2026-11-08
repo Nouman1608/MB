@@ -19,13 +19,11 @@ seoTitle: "AQA 8702 Unseen Poetry: Paper 2 Section C (24 + 8 marks)"
 seoDescription: "How to answer AQA GCSE English Literature 8702 Paper 2 Section C: analysing one unseen poem (24 marks), then comparing it with a second (8 marks)."
 description: "Unseen poetry in AQA GCSE English Literature 8702 Paper 2 Section C: analysing one unseen poem, then comparing its methods with a second unseen poem."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide covers **Section C: Unseen Poetry**, part of Paper 2 (Modern Texts and Poetry) in AQA GCSE

@@ -19,11 +19,9 @@ syllabusTopics:
     subtopic: "a-partition-coefficients"
 description: "Practice questions with worked answers on pH, Ka, buffers, blood buffering, Ksp, the common ion effect and partition coefficients, for Cambridge 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-29
 featured: false
 ---

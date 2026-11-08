@@ -25,11 +25,9 @@ syllabusTopics:
     subtopic: "as-isomerism"
 description: "Cambridge AS Level Chemistry 9701 Topic 13: organic formulae and naming, bond fission, nucleophiles and electrophiles, curly arrows, shapes and isomerism."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

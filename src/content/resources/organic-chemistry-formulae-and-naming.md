@@ -24,11 +24,9 @@ syllabusTopics:
     subtopic: "naming-organic-compounds"
 description: "Cambridge IGCSE 0620 and O Level 5070 organic chemistry: displayed and general formulae, homologous series, functional groups, isomers and naming."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-18
 featured: false
 ---

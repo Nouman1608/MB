@@ -17,13 +17,11 @@ seoTitle: "9093 English Language Paper 1 Revision Notes (2024–2026)"
 seoDescription: "Quick-recall notes for Cambridge AS & A Level English Language 9093 Paper 1 (2024–2026 syllabus): structure, directed response, text analysis and the AOs."
 description: "Condensed notes on Cambridge AS & A Level English Language 9093 Paper 1 Reading: structure, directed response, text analysis, AOs and a worked comparison."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: thin page expanded (direct-answer opening, worked 1(b) comparison, timing, FAQ, description shortened); facts checked against the 2024-26 syllabus; please re-review."
+reviewNote: "2026-11-08 recheck: thin page expanded (direct-answer opening, worked 1(b) comparison, timing, FAQ, description shortened); facts checked against the 2024-26 syllabus; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 **What is Cambridge 9093 Paper 1?** Paper 1 Reading is a 2 hour 15 minute AS Level paper worth 50

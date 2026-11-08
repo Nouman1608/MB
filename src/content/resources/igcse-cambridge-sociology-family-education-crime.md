@@ -43,11 +43,9 @@ description: "Cambridge IGCSE Sociology (0495) Paper 2 guide, 2025-2027: family 
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
-reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: removed unsupported claim that Paper 2 Question 1 varies by series (syllabus fixes Q1 Family, Q2 Education, Q3 Crime); please re-review. Fix pass: softened unverifiable claim that examiners return to the hidden curriculum most often."
+reviewNote: "2026-11-08 recheck: removed unsupported claim that Paper 2 Question 1 varies by series (syllabus fixes Q1 Family, Q2 Education, Q3 Crime); please re-review. Fix pass: softened unverifiable claim that examiners return to the hidden curriculum most often; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers **Paper 2 Family, Education and Crime**, for

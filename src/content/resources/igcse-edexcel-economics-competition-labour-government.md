@@ -21,13 +21,11 @@ syllabusTopics:
     subtopic: "government-intervention-edexcel-igcse-economics"
 description: "Monopoly, oligopoly, the labour market, trade unions and government intervention: sub-topics 1.2.4 to 1.2.6 of Edexcel International GCSE Economics 4EC1."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **sub-topics 1.2.4–1.2.6**, the second half of Topic 2

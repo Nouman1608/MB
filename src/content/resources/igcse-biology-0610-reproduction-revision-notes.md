@@ -33,13 +33,11 @@ syllabusTopics:
     subtopic: "sexually-transmitted-infections-cambridge-igcse-biology"
 description: "Condensed Cambridge IGCSE Biology 0610 reproduction notes: flowers, gametes, the menstrual cycle, hormones and STIs, with a self-test and answers."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 These notes condense topic 16 (Reproduction) of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028, sections 16.1 to 16.6. Core content is tested on Papers 1 and 3 and is needed by everyone; content marked "Extended only" is Supplement, tested on Papers 2 and 4. Section 16.6 has no Supplement content. For full explanations and worked examples, use the [Reproduction study guide](/resources/igcse-biology-0610-reproduction/).

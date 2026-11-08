@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "paper-2-texts-and-genres-7717"
 description: "Original exam-technique questions with worked answers on the open-book format, elements and Section C for AQA A-Level English Literature B Paper 2 (7717)."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: series corrected to first teaching 2025, Section C rule and current set-text changes added, links to new 2A/2B practice pages, FAQ added; please re-review."
+reviewNote: "2026-11-08 recheck: series corrected to first teaching 2025, Section C rule and current set-text changes added, links to new 2A/2B practice pages, FAQ added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, testing exam technique

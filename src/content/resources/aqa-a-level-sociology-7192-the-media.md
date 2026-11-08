@@ -20,11 +20,9 @@ description: "Study guide to AQA A-level Sociology 7192 The Media: new media, ow
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers The Media for AQA A-level Sociology (7192), using the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). The content is printed in section 4.2.7 The Media, which the specification's at-a-glance list shows as 3.2.7. It is an A-level option only, and it is assessed in Paper 2: Topics in Sociology, a 2 hour written exam worth 80 marks and 33.3% of the A-level.

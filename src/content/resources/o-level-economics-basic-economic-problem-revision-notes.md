@@ -24,13 +24,11 @@ syllabusTopics:
     subtopic: "production-possibility-curve-ppc-diagrams"
 description: "Revision notes for Cambridge O Level Economics 2281 Topic 1: scarcity, factors of production and rewards, opportunity cost and production possibility curves."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

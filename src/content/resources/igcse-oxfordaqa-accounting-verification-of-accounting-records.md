@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "verification-of-accounting-records-oxfordaqa-igcse"
 description: "OxfordAQA International GCSE Accounting 9215 Topic 2 guide to trial balances, control accounts, bank reconciliation and correcting errors, with examples."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 ---
 
 This guide covers **Topic 2 Verification of Accounting Records**, one of

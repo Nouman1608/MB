@@ -14,11 +14,9 @@ syllabusTopics:
     topic: "types-of-business-organisation"
 description: "Original practice questions with worked answers on business ownership types, their risks and reporting duties, and sources of finance, for AQA Accounting 7127."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 publishedDate: 2026-09-04
 featured: false
 ---

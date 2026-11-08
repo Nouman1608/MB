@@ -23,11 +23,9 @@ syllabusTopics:
     subtopic: "network-hardware-0478"
 description: "Original practice questions with worked answers for Cambridge IGCSE Computer Science 0478 Topic 3: CPU, fetch-execute, sensors, storage and network hardware."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---

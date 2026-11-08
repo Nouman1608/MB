@@ -25,11 +25,9 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-1-3-4"
 description: "OxfordAQA 9620 sections 3.1.3.1 to 3.1.3.4: ionic, covalent, dative and metallic bonding, and the four crystal structure types with six named examples."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---

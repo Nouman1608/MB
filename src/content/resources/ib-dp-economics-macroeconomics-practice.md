@@ -21,13 +21,11 @@ syllabusTopics:
     subtopic: "ib-dp-economics-3-3"
 description: "Original practice questions with worked answers for IB DP Economics sub-topics 3.1 to 3.3: GDP and GNI, the business cycle, AD-AS shifts and objectives."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

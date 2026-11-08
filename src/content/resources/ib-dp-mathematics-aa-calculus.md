@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "ib-dp-mathematics-analysis-and-approaches-calculus"
 description: "Study guide to the Calculus strand of IB DP Mathematics: Analysis and Approaches: differentiation, integration, optimisation and its link to Functions."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 This guide covers the **Calculus** strand, the largest of the five

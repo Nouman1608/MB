@@ -41,13 +41,11 @@ syllabusTopics:
     subtopic: "the-legal-system-access-to-justice-and-funding-7162"
 description: "Revision notes on law making, precedent, interpretation, courts, legal personnel, access to justice, fault and law and morality for AQA A Level Law 7162."
 author: "marlbridge-academic-team"
-reviewer: "aizaz-raoof-ali"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

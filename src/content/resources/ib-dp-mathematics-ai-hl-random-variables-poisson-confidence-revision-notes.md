@@ -25,13 +25,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-applications-and-interpretation-4-17"
 description: "Condensed IB Maths AI HL revision notes on E and Var rules, X̄ and the CLT, z and t confidence intervals and Poisson, with a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 For full explanations and worked examples, start with the [random variables, CLT, confidence intervals and Poisson study guide](/resources/ib-dp-mathematics-ai-hl-random-variables-poisson-confidence/).

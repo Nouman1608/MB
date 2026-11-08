@@ -19,13 +19,11 @@ syllabusTopics:
     topic: "ib-dp-language-b-sharing-the-planet"
 description: "Original IB DP Language B individual oral practice: an SL image, an HL extract and a sample transcript, with plans and model answers."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

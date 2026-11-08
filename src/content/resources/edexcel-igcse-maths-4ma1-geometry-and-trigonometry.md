@@ -39,13 +39,11 @@ syllabusTopics:
     subtopic: "trigonometry-and-pythagoras-theorem-edexcel-igcse-maths"
 description: "Study guide for Edexcel IGCSE Maths A 4MA1 sections 4.1-4.8: angles, polygons, measures, constructions, circle theorems and trigonometry."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This study guide covers Topic 4, **Geometry and trigonometry**, sections 4.1–4.8, of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on that specification. Sections 4.1–4.5 are the same on both tiers. Sections 4.6–4.8 have Foundation content plus extra statements marked below as **Higher tier only**. A calculator may be used on every paper. Mensuration, 3D shapes and similarity (4.9–4.11) are not part of this unit.

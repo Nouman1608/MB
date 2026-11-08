@@ -19,11 +19,9 @@ syllabusTopics:
     subtopic: "a-radioactive-decay"
 description: "Original Cambridge A Level Physics 9702 nuclear questions with worked answers: mass defect, binding energy, E = c²Δm, fission, fusion and decay constant."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: replaced reactor moderator/control-rod question (not in 9702 topic 23) with nuclear-equation and fusion-energy (E = c²Δm) questions from 23.1; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: replaced reactor moderator/control-rod question (not in 9702 topic 23) with nuclear-equation and fusion-energy (E = c²Δm) questions from 23.1; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---

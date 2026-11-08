@@ -13,13 +13,11 @@ syllabusSeries: "Specification Issue 2, February 2021"
 order: 3
 description: "How the six units of Edexcel International A Level Biology YBI11 are weighted, why Units 3 and 6 are written practical papers, and a method-evaluation routine."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Edexcel International A Level Biology (YBI11) is modular: three International Advanced Subsidiary

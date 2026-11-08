@@ -9,13 +9,11 @@ syllabusCodes: ["MYP Mathematics"]
 order: 1
 description: "Condensed recall notes on the four assessment criteria, standard vs extended levels, and eAssessment structure for IB Middle Years Programme Mathematics."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 Condensed for quick recall of how the subject is assessed. For the full subject overview, use the

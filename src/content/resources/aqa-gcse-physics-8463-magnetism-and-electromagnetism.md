@@ -24,11 +24,9 @@ syllabusTopics:
     subtopic: "induced-potential-transformers-and-the-national-grid"
 description: "Study guide for AQA GCSE Physics 8463 Topic 7: magnets and fields, electromagnets, the motor effect, F = BIl, generators, microphones and transformers."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---

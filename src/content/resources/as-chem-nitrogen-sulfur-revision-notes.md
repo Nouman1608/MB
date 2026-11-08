@@ -16,13 +16,11 @@ syllabusTopics:
     subtopic: "as-nitrogen-and-sulfur"
 description: "Condensed recall notes on nitrogen's inertness, ammonia and ammonium, oxides of nitrogen, PAN and acid rain for Cambridge AS & A Level Chemistry 9701 Topic 12."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: expanded thin notes (opening answer mapped to 12.1 outcomes, FAQ incl. displacement of ammonia, question headings); noted Contact process is examined under 7.1.10 not 12.1; please re-review."
+reviewNote: "2026-11-08 recheck: expanded thin notes (opening answer mapped to 12.1 outcomes, FAQ incl. displacement of ammonia, question headings); noted Contact process is examined under 7.1.10 not 12.1; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 ---
 
 Nitrogen and sulfur in Cambridge AS & A Level Chemistry 9701 (Topic 12.1) covers why nitrogen is unreactive,

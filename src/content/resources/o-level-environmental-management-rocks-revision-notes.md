@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "rocks-and-minerals-and-their-exploitation-5014"
 description: "Revision notes on rock types, the rock cycle, minerals and reserves, mining methods, extraction impacts and sustainable management for Cambridge O Level 5014."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 ---
 
 Condensed for the final weeks, following the **outgoing 2025-2026 edition** of 5014 (nine-topic

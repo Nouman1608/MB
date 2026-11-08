@@ -13,11 +13,9 @@ syllabusSeries: "First assessment 2017"
 order: 6
 description: "Exam plan for IB DP History (first assessed 2017): Paper 1 source questions, Paper 2 and HL Paper 3 essays, IA tips, a worked source answer and a checklist."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: rewritten for the current course (first assessment 2017, examined to 2027) per owner decision, replacing 2028 paper formats; please re-review."
+reviewNote: "2026-11-08 recheck: rewritten for the current course (first assessment 2017, examined to 2027) per owner decision, replacing 2028 paper formats; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-07
 featured: false
 ---

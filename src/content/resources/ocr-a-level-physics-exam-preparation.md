@@ -11,11 +11,9 @@ syllabusSeries: "Version 3.0 (March 2026), for first assessment in 2017"
 order: 3
 description: "How OCR A Level Physics A (H556) is examined: the three papers and their 37/37/26 weighting, the Practical Endorsement, uncertainty, graphs and estimation."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-07
 featured: false
 ---

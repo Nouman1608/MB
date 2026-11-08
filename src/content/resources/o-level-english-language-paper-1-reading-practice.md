@@ -14,11 +14,9 @@ syllabusTopics:
     topic: "reading-1123"
 description: "Original practice on Cambridge O Level English Language 1123 Paper 1: the format, the five reading objectives and how each question is marked."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---

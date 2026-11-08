@@ -18,13 +18,11 @@ syllabusTopics:
     subtopic: "effects-of-temperature-and-ph"
 description: "Original exam-style practice questions with full worked answers on enzyme action, temperature, pH, denaturation and enzyme uses."
 author: "saad-zai"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

@@ -24,11 +24,9 @@ syllabusTopics:
     subtopic: "sound-cambridge-igcse-physics"
 description: "Cambridge IGCSE Physics 0625 Topic 3 Waves guide for 2026-2028: wave properties, reflection, refraction, thin lenses, the electromagnetic spectrum and sound."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-08-29
 updatedDate: 2026-09-28
 featured: false

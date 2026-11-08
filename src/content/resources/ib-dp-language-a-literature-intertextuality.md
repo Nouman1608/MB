@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-intertextuality"
 description: "How literary works echo, respond to or subvert each other, and how to build a real comparison of two studied works, for IB DP Language A: Literature."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide covers **Intertextuality: Connecting Texts**, one of three

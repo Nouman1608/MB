@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "writing-1123"
 description: "Cambridge O Level English Language 1123 Paper 2 Writing in depth: directed writing and composition, their assessment objectives and how the marks are awarded."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 Paper 2 – Writing carries exactly half of the marks in Cambridge O Level

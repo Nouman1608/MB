@@ -27,13 +27,11 @@ syllabusTopics:
     subtopic: "monohybrid-inheritance-cambridge-igcse-biology"
 description: "Condensed Cambridge IGCSE Biology 0610 inheritance notes: definitions, genetic diagram method, Core and Extended split and a quick self-test with answers."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 For full explanations and worked genetic diagrams, use the [Inheritance study guide](/resources/igcse-biology-0610-inheritance/). These notes are for the final weeks.

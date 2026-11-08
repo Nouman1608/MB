@@ -27,11 +27,9 @@ description: "Condensed IB DP ESS revision notes on the atmosphere, climate chan
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
 ---
 
 For full explanations and worked examples, start with the [Topic 6 study guide](/resources/ib-dp-ess-atmosphere-climate-change-ozone/). These notes condense Topic 6 of IB Diploma Programme Environmental Systems and Societies, aligned to the International Baccalaureate *Diploma Programme Subject Brief: Environmental systems and societies*, first assessment 2026. They cover syllabus sections 6.1–6.4 (the atmosphere, climate change causes and impacts, mitigation and adaptation, and stratospheric ozone), which are studied at both SL and HL; HL students study some topics in extra depth. They follow the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.

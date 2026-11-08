@@ -23,11 +23,9 @@ syllabusTopics:
     subtopic: "first-islamic-community-0493"
 description: "Revision notes for Cambridge IGCSE Islamiyat 0493 Paper 1: the Qur'an and its themes, the life of the Prophet Muhammad (pbuh) and the first Islamic community."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---

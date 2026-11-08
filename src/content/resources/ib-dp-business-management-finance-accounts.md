@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "ib-dp-business-unit-3"
 description: "Guide to IB DP Business Management Unit 3 Finance and accounts: the nine sub-topics from sources of finance to budgets, and how to tackle the calculations."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **Unit 3 -- Finance and Accounts**, for IB Diploma

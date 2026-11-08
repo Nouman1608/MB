@@ -15,13 +15,11 @@ syllabusTopics:
     topic: "ib-dp-language-b-experiences"
 description: "Study guide to the Experiences theme of IB DP Language B: its guiding principle, six recommended topics, narrative language and text types."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This study guide teaches **Experiences**, the second of the five prescribed themes in the content

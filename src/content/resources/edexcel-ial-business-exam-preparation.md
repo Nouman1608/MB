@@ -11,13 +11,11 @@ syllabusSeries: "Specification Issue 1, September 2017"
 order: 3
 description: "How Edexcel IAL Business (YBS11) exam structure changes from the AS units to the A2 units, why source booklets drive every answer, and a 20-mark essay routine."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Edexcel International A Level Business (YBS11) is modular: four externally assessed units, each 2

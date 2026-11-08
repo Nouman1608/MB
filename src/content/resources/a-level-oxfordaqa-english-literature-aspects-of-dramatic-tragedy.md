@@ -21,13 +21,11 @@ syllabusTopics:
     subtopic: "unit-1-section-b-9675"
 description: "Tragedy as a dramatic genre -- Unit 1 of OxfordAQA International AS & A-Level English Literature (9675), the first of two units forming the International AS."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added (facts from the current specification); please re-review."
+reviewNote: "2026-11-08 recheck: FAQ added (facts from the current specification); please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide covers **Unit 1 Aspects of Dramatic Tragedy**, the first

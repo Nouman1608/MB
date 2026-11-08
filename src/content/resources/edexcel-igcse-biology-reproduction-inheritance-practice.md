@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "reproduction-and-inheritance-edexcel-igcse-biology"
 description: "Original practice questions with worked answers on reproduction, DNA, monohybrid crosses, mitosis, meiosis and natural selection for Edexcel IGCSE Biology 4BI1."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -20,11 +20,9 @@ syllabusTopics:
     subtopic: "production-7100"
 description: "Guide to Topic 1 of Cambridge O Level Commerce 7100: trade and aids to trade, sectors of production, utility, specialisation, supply chains and intermediaries."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---

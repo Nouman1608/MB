@@ -15,11 +15,9 @@ syllabusTopics:
     topic: "an-introduction-to-the-role-of-the-accountant-in-business-oxfordaqa"
 description: "The purpose of accounting, its users, key concepts and professional ethics: Topic 1 of OxfordAQA International AS and A-Level Accounting (9615)."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---

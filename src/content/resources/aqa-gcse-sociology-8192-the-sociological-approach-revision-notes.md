@@ -17,11 +17,9 @@ description: "Revision notes for AQA GCSE Sociology 8192 section 3.1: key terms,
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 For full explanations and worked paragraphs, read the [study guide for this unit](/resources/aqa-gcse-sociology-8192-the-sociological-approach/) first.

@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "microeconomics-ocr-alevel-economics"
 description: "Syllabus map of OCR A Level Economics (H460) Component 1 Microeconomics, with study notes on markets, elasticity, market failure, firms and labour markets."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **Component 1 Microeconomics**, examined as H460/01,

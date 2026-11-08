@@ -14,14 +14,12 @@ syllabusTopics:
     topic: "business-activity-marketing-and-people-ocr-gcse-business"
 description: "Condensed recall notes on business purpose, ownership, market research, the marketing mix, motivation and organisation for OCR GCSE Business J204."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-11-05
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

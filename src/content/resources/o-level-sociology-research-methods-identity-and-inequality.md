@@ -22,11 +22,9 @@ description: "Cambridge O Level Sociology (2251) Paper 1 guide, 2025-2027: resea
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
-reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review. Fix pass: softened unverifiable claim about what mark schemes credit for sampling."
+reviewNote: "2026-11-08: FAQ section added; please re-review. Fix pass: softened unverifiable claim about what mark schemes credit for sampling; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers **Paper 1 Research Methods, Identity and

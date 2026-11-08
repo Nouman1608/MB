@@ -17,11 +17,9 @@ syllabusTopics:
     topic: "ib-myp-sciences-related-concepts"
 description: "Original criterion A-D practice questions on atoms, isotopes, ions and bonding, with fully worked answers, for IB MYP Sciences students in years 4 and 5."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---

@@ -22,13 +22,11 @@ syllabusTopics:
     subtopic: "control-and-coordination-in-plants-cambridge"
 description: "Cambridge 9700 control and coordination revision notes: neurones, action potentials, synapses, sliding filaments and plant responses, plus a self-test."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 These revision notes cover topic 15, Control and coordination, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027: section 15.1 (outcomes 1–12) and section 15.2 (outcomes 1–3). This is **A Level content**, examined on Paper 4 alongside AS knowledge, and it may set the context for Paper 5. For full explanations and worked examples, use the [control and coordination study guide](/resources/a-level-biology-9700-control-and-coordination/).

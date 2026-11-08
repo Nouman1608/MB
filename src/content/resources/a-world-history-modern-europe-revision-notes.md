@@ -24,11 +24,9 @@ syllabusTopics:
     subtopic: "russia-autocracy-revolution-9489"
 description: "Revision notes for Cambridge 9489 History's European option, 2027-2029: the French Revolution, Napoleon, German unification and Russia from 1881 to 1924."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---

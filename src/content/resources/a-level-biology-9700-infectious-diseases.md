@@ -22,13 +22,11 @@ syllabusTopics:
     subtopic: "antibiotics-cambridge-alevel-biology"
 description: "Study guide to cholera, malaria, TB and HIV/AIDS, their transmission and control, penicillin and antibiotic resistance for Cambridge 9700 AS Biology."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This study guide teaches topic 10 **Infectious diseases** of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers section 10.1 Infectious diseases (learning outcomes 1–4) and section 10.2 Antibiotics (learning outcomes 1–2). This is AS Level content, so it is examined on Paper 1 (Multiple Choice) and Paper 2 (AS Level Structured Questions). The syllabus also states that Paper 4 needs knowledge of AS Level content, so you may use it again at A Level. There is no Core/Supplement split in 9700: every outcome here applies to every candidate.

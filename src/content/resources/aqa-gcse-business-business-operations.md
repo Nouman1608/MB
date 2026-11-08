@@ -24,11 +24,9 @@ syllabusTopics:
     subtopic: "good-customer-services-aqa-gcse-business"
 description: "Production methods, procurement and stock management, quality, and customer service -- the full content of Topic 3.3 for AQA GCSE Business (8132)."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-09
 featured: false
 ---

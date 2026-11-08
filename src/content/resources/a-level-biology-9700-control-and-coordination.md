@@ -22,13 +22,11 @@ syllabusTopics:
     subtopic: "control-and-coordination-in-plants-cambridge"
 description: "Study guide for Cambridge 9700 topic 15: action potentials, synapses, muscle contraction, the Venus fly trap, auxin and gibberellin, with worked examples."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This study guide teaches topic 15, Control and coordination, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers section 15.1 Control and coordination in mammals (learning outcomes 1–12) and section 15.2 Control and coordination in plants (outcomes 1–3). Topic 15 is **A Level content**, examined on Paper 4 (A Level Structured Questions) alongside AS knowledge, and it can supply the context for Paper 5.

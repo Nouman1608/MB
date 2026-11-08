@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-readers-writers-texts"
 description: "Revision notes on Readers, writers and texts in IB DP Language A: Literature: narrative voice, form and craft across fiction, non-fiction, poetry and drama."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 The [full syllabus guide](/resources/ib-dp-language-a-literature-syllabus-guide/) confirms all three

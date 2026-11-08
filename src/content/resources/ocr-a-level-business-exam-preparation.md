@@ -11,13 +11,11 @@ syllabusSeries: "Version 2.1 (January 2026), for first assessment in 2017; final
 order: 3
 description: "How to prepare for OCR A Level Business H431 before its final summer 2027 exams: the three 80-mark synoptic papers, timing and a worked evaluation routine."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 OCR A Level Business (H431) is assessed by three equally weighted components, each a 2-hour written

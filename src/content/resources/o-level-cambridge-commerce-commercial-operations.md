@@ -29,11 +29,9 @@ syllabusTopics:
     subtopic: "communication-7100-commerce"
 description: "Ownership, public corporations, MNCs, franchises, location, retailing, trading documents and communication for Topic 2 of Cambridge O Level Commerce 7100."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: page was mapped to trading documents and communication but did not teach them; added sections on public corporations, location factors, trading documents, communication and an FAQ; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: page was mapped to trading documents and communication but did not teach them; added sections on public corporations, location factors, trading documents, communication and an FAQ; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-01
 featured: false
 ---

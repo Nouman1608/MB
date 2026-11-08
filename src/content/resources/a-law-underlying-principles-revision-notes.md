@@ -20,13 +20,11 @@ syllabusTopics:
     subtopic: "the-sources-of-english-law-its-enforcement-and-administration-yla1"
 description: "Condensed recall notes on parliamentary law making, delegated legislation, law reform and the relationship between law and morality for A Level Law."
 author: "marlbridge-academic-team"
-reviewer: "aizaz-raoof-ali"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

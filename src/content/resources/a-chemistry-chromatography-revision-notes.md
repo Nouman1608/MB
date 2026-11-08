@@ -19,11 +19,9 @@ syllabusTopics:
     subtopic: "a-gas-liquid-chromatography"
 description: "Revision notes on TLC, gas-liquid chromatography, Rf values, retention time and peak areas for Cambridge A Level Chemistry 9701, with GC-MS as enrichment."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---

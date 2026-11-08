@@ -15,13 +15,11 @@ syllabusTopics:
     topic: "use-of-biological-resources-edexcel-igcse-biology"
 description: "Study guide for Edexcel IGCSE Biology 4BI1 Topic 5: crop yield, yeast and yoghurt, fermenters, selective breeding, genetic modification and cloning."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This study guide teaches Topic 5, **Use of biological resources** (specification points 5.1–5.20), of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3. The qualification is untiered. Points with a **B** reference (5.9B and 5.17B–5.20B) are bold in the specification and are examined on Paper 2 only; everything else can appear on either paper. It applies to the June and November series examined under Issue 3.

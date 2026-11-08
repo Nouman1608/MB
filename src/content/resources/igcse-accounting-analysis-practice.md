@@ -16,11 +16,9 @@ syllabusTopics:
     topic: "analysis-and-interpretation"
 description: "Exam-style practice with worked answers on the ten ratios, profit versus cash, comparison, users and limitations for Cambridge IGCSE Accounting 0452 Topic 6."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 publishedDate: 2026-09-16
 featured: false
 ---

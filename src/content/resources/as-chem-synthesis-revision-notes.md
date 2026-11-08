@@ -16,13 +16,11 @@ syllabusTopics:
     subtopic: "as-organic-synthesis"
 description: "Condensed recall notes on the AS reaction map, functional group interconversions and planning multi-step synthesis for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: expanded thin notes (opening answer, worked two-step route, FAQ, question headings); 'bromoethane' locant fix; please re-review."
+reviewNote: "2026-11-08 recheck: expanded thin notes (opening answer, worked two-step route, FAQ, question headings); 'bromoethane' locant fix; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 ---
 
 Organic synthesis at AS Level in Cambridge AS & A Level Chemistry 9701 asks you to link the reactions of every

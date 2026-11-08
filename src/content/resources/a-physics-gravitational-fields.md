@@ -25,11 +25,9 @@ syllabusTopics:
     subtopic: "a-gravitational-potential"
 description: "Gravitational field lines, Newton's law of gravitation, field strength g = GM/r², potential ϕ = −GM/r and orbits: Topic 13 of Cambridge A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

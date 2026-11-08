@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "number-oxfordaqa-igcse-maths"
 description: "Structure and calculation, fractions, decimals, percentages, ratio and proportion: the full Topic 1 Number content for OxfordAQA International GCSE Maths 9260."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This guide covers **Topic 1 Number**, the first of four subject-content

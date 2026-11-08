@@ -19,13 +19,11 @@ syllabusTopics:
     subtopic: "the-gas-exchange-system-cambridge-alevel-biology"
 description: "The human gas exchange system from scratch: airways, tissues, plan diagrams and alveolar gas exchange, with worked examples, for Cambridge 9700 Biology."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This study guide teaches Topic 9, Gas exchange, from the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers the single section 9.1 The gas exchange system, learning outcomes 1 to 7. This is AS Level content: it is examined on Paper 1 (Multiple Choice) and Paper 2 (AS Level Structured Questions), and Paper 4 can draw on it because A Level questions require knowledge of the AS content. The microscope skills in this topic also connect to the practical papers.

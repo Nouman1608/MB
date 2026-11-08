@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "marketing-cambridge-igcse-business"
 description: "Study guide to Topic 3 Marketing for Cambridge IGCSE Business Studies 0450: niche and mass marketing, segmentation, market research, the four Ps and strategy."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **Topic 3 Marketing**, for Cambridge IGCSE Business

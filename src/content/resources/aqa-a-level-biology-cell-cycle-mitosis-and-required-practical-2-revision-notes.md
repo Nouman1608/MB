@@ -19,13 +19,11 @@ syllabusTopics:
     subtopic: "all-cells-arise-from-other-cells-aqa-alevel-biology"
 description: "Condensed AQA A-level Biology 7402 notes on 3.2.2: the cell cycle, mitosis, cancer, binary fission, virus replication and the root tip squash practical."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-11-05
 publishedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-11-05."
 ---
 
 Short notes for the final weeks. These notes follow section 3.2.2, All cells arise from other cells, in the AQA AS and A-level Biology specification (A-level 7402), for first teaching 2015, exams June 2016 onwards. The section is part of the AS content, so nothing here is marked A-level only. Find the [AQA A-level Biology hub](/boards/aqa/a-level/biology/), tick off topics on the [checklist](/checklists/aqa/a-level/biology/), and use the free [diagnostics](/diagnostics/) to find weak spots. Meiosis is in a different section: see the [mutation and meiosis notes](/resources/aqa-a-level-biology-mutation-and-meiosis-revision-notes/). Measuring cells under the microscope is in the [microscopy notes](/resources/aqa-a-level-biology-microscopy-magnification-and-cell-fractionation-revision-notes/).

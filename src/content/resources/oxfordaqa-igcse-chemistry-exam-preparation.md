@@ -11,13 +11,11 @@ syllabusSeries: "First teaching 2016, first examined 2018"
 order: 3
 description: "How OxfordAQA International GCSE Chemistry 9202 is examined: two papers with no content split, practicals tested in writing, calculations and a moles routine."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 ---
 
 OxfordAQA International GCSE Chemistry (9202) is a linear, untiered qualification taken over two years

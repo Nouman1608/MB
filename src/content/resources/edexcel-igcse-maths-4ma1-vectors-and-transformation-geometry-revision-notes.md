@@ -21,13 +21,11 @@ syllabusTopics:
     subtopic: "transformation-geometry-edexcel-igcse-maths"
 description: "Condensed 4MA1 revision notes on vectors and transformations: coordinate rules, complete descriptions, vector proof steps and a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 These revision notes cover topic 5, Vectors and transformation geometry, of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), first assessed in June 2018 with papers in January and June. They cover section 5.1 Vectors, which is **Higher tier only**, and section 5.2 Transformation geometry, which is Foundation content assumed at Higher tier, so both tiers need it. For full explanations and worked examples, read the [study guide](/resources/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry/) first.

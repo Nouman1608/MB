@@ -28,13 +28,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-2-16"
 description: "12 original IB DP Maths AA HL questions on polynomials, rational and modulus functions and inequalities, with mark-by-mark answers and examiner insights."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

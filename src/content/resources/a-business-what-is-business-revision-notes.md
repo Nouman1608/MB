@@ -15,13 +15,11 @@ syllabusTopics:
     topic: "what-is-business-oxfordaqa-alevel-business"
 description: "Condensed notes on purpose, ownership, stakeholders, markets and the external environment for OxfordAQA International AS Business 9625, with 9725 changes noted."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

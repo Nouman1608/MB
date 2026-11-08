@@ -20,11 +20,9 @@ syllabusTopics:
     subtopic: "section-b-writing-9270"
 description: "Condensed recall notes on modern-issue source reading and directed writing technique for OxfordAQA International GCSE English Language Paper 2 (9270)."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---

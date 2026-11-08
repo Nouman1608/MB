@@ -15,13 +15,11 @@ syllabusTopics:
     topic: "enzymes-cambridge-alevel-biology"
 description: "Study guide to Cambridge 9700 Topic 3 Enzymes: active sites, activation energy, both binding models, rate factors, Km, inhibitors and immobilised enzymes."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Topic 3 **Enzymes** is AS Level content in Cambridge International AS

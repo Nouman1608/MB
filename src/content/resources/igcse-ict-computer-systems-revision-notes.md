@@ -20,11 +20,9 @@ syllabusTopics:
     subtopic: "the-main-components-of-computer-systems-0417"
 description: "Condensed recall notes on hardware, software, storage, networks, safety and the effects of ICT for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---

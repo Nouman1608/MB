@@ -15,13 +15,11 @@ syllabusTopics:
     topic: "biological-molecules-aqa-alevel-biology"
 description: "Study guide to AQA AS and A-level Biology (7401/7402) Topic 1: monomers and polymers, carbohydrates, lipids, proteins, nucleic acids, ATP, water and ions."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide covers **Topic 1 Biological molecules**, the first of

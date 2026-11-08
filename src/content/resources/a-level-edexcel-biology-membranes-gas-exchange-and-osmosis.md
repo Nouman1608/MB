@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "membranes-proteins-dna-and-gene-expression-edexcel-alevel-biology"
 description: "Gas exchange surfaces, Fick's Law, the fluid mosaic model, osmosis and membrane transport: outcomes 2.1-2.5 of Edexcel International A Level Biology (YBI11)."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide covers outcomes **2.1 to 2.5**, the opening cluster of

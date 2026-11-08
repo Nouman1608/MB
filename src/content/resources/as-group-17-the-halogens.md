@@ -25,11 +25,9 @@ syllabusTopics:
     subtopic: "as-the-reactions-of-chlorine"
 description: "Group 17 halogens for Cambridge AS & A Level Chemistry 9701: physical trends, halide reducing power, silver nitrate and sulfuric acid tests, and chlorine."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

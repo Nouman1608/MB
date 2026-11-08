@@ -15,11 +15,9 @@ syllabusTopics:
     topic: "physical-chemistry-4ch1"
 description: "Study guide for Edexcel International GCSE Chemistry 4CH1 Topic 3: energetics, Q = mcΔT, bond energies, rates of reaction and equilibria."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---

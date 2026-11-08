@@ -20,13 +20,11 @@ syllabusTopics:
     topic: "ib-dp-economics-unit-4"
 description: "The four units of IB DP Economics, first assessment 2022: introduction, microeconomics, macroeconomics and the global economy, with HL-only content marked."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: corrected IA portfolio rules (three different units excluding Unit 1, max 800 words, 45 marks, different key concept each) against the guide; please re-review."
+reviewNote: "2026-11-08 recheck: corrected IA portfolio rules (three different units excluding Unit 1, max 800 words, 45 marks, different key concept each) against the guide; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers all four units of the **IB Diploma Programme Economics**

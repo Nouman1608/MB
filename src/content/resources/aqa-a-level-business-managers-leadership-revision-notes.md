@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "managers-leadership-and-decision-making-aqa-alevel-business"
 description: "Condensed notes on management and leadership, leadership styles, scientific and intuitive decisions and stakeholder mapping for AQA A-level Business 7132."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Related: [Topic 2 study guide](/resources/aqa-a-level-business-managers-leadership-decision-making/).

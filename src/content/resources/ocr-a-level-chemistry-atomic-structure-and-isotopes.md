@@ -15,11 +15,9 @@ syllabusTopics:
     subtopic: "ocr-a-level-chemistry-2-1-1"
 description: "OCR A Level Chemistry A H432 2.1.1: isotopes, particle counts, relative isotopic and atomic mass, mass spectrometry and relative molecular or formula mass."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---

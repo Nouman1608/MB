@@ -27,13 +27,11 @@ syllabusTopics:
     subtopic: "blood-cambridge-igcse-biology"
 description: "Condensed revision notes on the heart, circulation, blood vessels and blood, with a self-test and Extended content flagged, for Cambridge IGCSE 0610."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 For full explanations and a worked heart-rate investigation, use the [transport in animals study guide](/resources/igcse-biology-0610-transport-in-animals/). These notes condense topic 9 of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028: sections 9.1 Circulatory systems, 9.2 Heart, 9.3 Blood vessels and 9.4 Blood. Core statements are tested on Papers 1 and 3. Lines marked **Extended only** are Supplement content, tested on Papers 2 and 4.

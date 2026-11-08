@@ -27,13 +27,11 @@ syllabusTopics:
     subtopic: "classification-of-living-organisms-aqa-gcse-biology"
 description: "Study guide for AQA GCSE Biology 8461 topic 6: meiosis, DNA, Punnett squares, inherited disorders, evolution, breeding, cloning and classification."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide teaches topic 6, **Inheritance, variation and evolution** (sections 4.6.1–4.6.4), of the AQA GCSE Biology (8461) specification, for teaching from September 2016 and exams from 2018 onwards. The topic is examined on Paper 2 (1 hour 45 minutes, 100 marks, 50% of the GCSE), set at Foundation and Higher tier. Content the specification marks "(HT only)" is labelled **Higher tier only**; everything else is for both tiers.

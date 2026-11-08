@@ -21,7 +21,8 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: added key dates/people table to bring notes above 900 words. 2026-11-08 recheck: added a short comparison section."---
+reviewNote: "2026-11-08 recheck: added key dates/people table to bring notes above 900 words. 2026-11-08 recheck: added a short comparison section."
+---
 
 **Key question 2.5 in Cambridge IGCSE 0470 and O Level 2147 is answered
 through three case studies only: Korea 1950–53, Cuba 1959–62 and

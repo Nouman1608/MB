@@ -16,11 +16,9 @@ description: "Condensed recall notes on how to answer AQA A Level Sociology's di
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-26
 featured: false
-reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 Condensed for the final weeks. For the full course picture, use the

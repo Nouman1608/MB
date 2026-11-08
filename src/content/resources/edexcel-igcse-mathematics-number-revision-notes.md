@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "numbers-and-the-number-system-edexcel-igcse-maths"
 description: "Condensed recall notes on fractions, ratio, percentages, indices, standard form, surds and bounds for Edexcel International GCSE Mathematics 4MA1."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

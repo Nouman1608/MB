@@ -19,11 +19,9 @@ syllabusTopics:
     subtopic: "as-elastic-and-plastic-behaviour"
 description: "Condensed recall notes on Hooke law, stress and strain, the Young modulus and elastic strain energy for Cambridge AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---

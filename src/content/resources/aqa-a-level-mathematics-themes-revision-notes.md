@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "overarching-themes-aqa-alevel-maths"
 description: "Condensed recall notes on proof, mathematical argument, modelling and problem solving for AQA A Level Mathematics 7357."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

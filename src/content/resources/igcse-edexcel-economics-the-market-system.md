@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "the-market-system-edexcel-igcse-economics"
 description: "Topic 1 of Edexcel IGCSE Economics 4EC1: the economic problem, economic assumptions, demand and supply, elasticity, the mixed economy and externalities."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **Topic 1 The market system**, for Pearson Edexcel

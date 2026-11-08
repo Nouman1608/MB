@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "operations-finance-and-influences-on-business-ocr-gcse-business"
 description: "Component 02 of OCR GCSE Business J204 explained: operations, finance and influences on business, from production and quality to break-even and cash flow."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **Business 2: Operations, Finance and Influences on

@@ -15,12 +15,10 @@ syllabusTopics:
     subtopic: "notation-and-manipulation-oxfordaqa-igcse-maths"
 description: "OxfordAQA IGCSE Maths 9260 practice with worked answers on algebraic notation, substitution, expanding, factorising, index laws and algebraic fractions."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
-reviewNote: "2026-11-08 recheck: added intro naming 9260 section 3.2.1, questions on index laws, substitution and consecutive-integer proof (the description listed index laws and formulae but no question tested them), and FAQ; corrected the cancelling example ((x + 3)/x² wrongly becomes 3/x). Please re-review."
+reviewNote: "2026-11-08 recheck: added intro naming 9260 section 3.2.1, questions on index laws, substitution and consecutive-integer proof (the description listed index laws and formulae but no question tested them), and FAQ; corrected the cancelling example ((x + 3)/x² wrongly becomes 3/x). Please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 reviewNeeded: true
 ---
 > **These are original questions written for Marlbridge**, for revision and

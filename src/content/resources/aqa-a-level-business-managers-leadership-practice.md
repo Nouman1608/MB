@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "managers-leadership-and-decision-making-aqa-alevel-business"
 description: "Practice paper in the AQA A-level Business 7132 Paper 1 layout, with worked answers on Topic 2: leadership styles, decision trees and stakeholder mapping."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -15,11 +15,9 @@ syllabusTopics:
     subtopic: "electric-circuits"
 description: "Current, potential difference, resistance, Ohm's law, resistivity, potential dividers, e.m.f. and internal resistance: sub-topic 2.4 of Edexcel IAL Physics."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

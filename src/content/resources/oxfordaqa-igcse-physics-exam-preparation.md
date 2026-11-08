@@ -11,13 +11,11 @@ syllabusSeries: "First teaching 2016, first examined 2018"
 order: 3
 description: "How to prepare for both OxfordAQA International GCSE Physics (9203) papers: equation rearrangement, SI units, graph work, practical questions and definitions."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 ---
 
 OxfordAQA International GCSE Physics (9203) is a linear, untiered qualification taken over two years,

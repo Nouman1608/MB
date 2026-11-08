@@ -27,13 +27,11 @@ syllabusTopics:
     subtopic: "calculus-edexcel-igcse-maths"
 description: "Condensed 4MA1 revision notes on sequences, functions, graphs and differentiation, with method steps, a self-test and where marks are lost."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 For full explanations and worked examples, use the [Sequences, functions and graphs study guide](/resources/edexcel-igcse-maths-4ma1-sequences-functions-and-graphs/). These notes condense Topic 3 (sections 3.1–3.4) of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on it. Sections 3.2 and 3.4, and the extra Higher statements in 3.1 and 3.3, are **Higher tier only**; the rest is on both tiers. A calculator may be used on every paper.

@@ -18,13 +18,11 @@ syllabusTopics:
     subtopic: "exothermic-and-endothermic-reactions"
 description: "Condensed recall notes on energy changes, reaction pathway diagrams, activation energy and bond energy calculations for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: labelled the calorimetry (Q = mc dT) section as background, since it is not a 0620 or 5070 outcome; please re-review."
+reviewNote: "2026-11-08 recheck: labelled the calorimetry (Q = mc dT) section as background, since it is not a 0620 or 5070 outcome; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

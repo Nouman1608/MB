@@ -24,13 +24,11 @@ syllabusTopics:
     subtopic: "anaerobic-respiration-cambridge-igcse-biology"
 description: "Condensed respiration notes for Cambridge IGCSE Biology 0610: equations, uses of energy, yeast investigation, oxygen debt and a self-test with answers."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 For full explanations and worked examples, use the [respiration study guide](/resources/igcse-biology-0610-respiration/). These notes condense Topic 12, Respiration (sections 12.1, 12.2 and 12.3), of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. Core outcomes are for everyone. Supplement outcomes (12.2.3, 12.3.5, 12.3.6 and 12.3.7) are marked **Extended only**, for candidates taking Papers 2 and 4.

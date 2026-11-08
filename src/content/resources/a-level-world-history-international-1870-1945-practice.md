@@ -21,11 +21,9 @@ syllabusTopics:
     subtopic: "international-history-1929-39-9489"
 description: "Original practice questions with worked answers on the three topics of the International option for Cambridge AS and A Level History 9489, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---

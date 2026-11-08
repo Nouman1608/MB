@@ -11,11 +11,9 @@ syllabusSeries: "2026-2028"
 order: 3
 description: "How to prepare for Cambridge O Level Commerce 7100 Papers 1 and 2: timing multiple choice, writing to the mark tariff, applied answers and an exam checklist."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-07
 featured: false
 ---

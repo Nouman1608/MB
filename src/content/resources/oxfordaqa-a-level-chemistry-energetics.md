@@ -25,13 +25,11 @@ syllabusTopics:
     subtopic: "oxfordaqa-a-level-chemistry-3-1-4-4"
 description: "OxfordAQA 9620 Chemistry guide to energetics (3.1.4): enthalpy of combustion and formation, calorimetry with q = mcΔT, Hess's law and mean bond enthalpies."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 ---
 
 This guide covers **3.1.4, Energetics**, from the Physical chemistry

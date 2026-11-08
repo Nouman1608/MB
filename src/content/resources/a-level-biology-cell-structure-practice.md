@@ -15,13 +15,11 @@ syllabusTopics:
     topic: "cell-structure-cambridge-alevel-biology"
 description: "Cambridge 9700 practice questions with worked answers on organelles, protein secretion, magnification, graticule calibration, viruses and cell walls."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

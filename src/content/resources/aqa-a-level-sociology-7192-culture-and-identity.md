@@ -20,11 +20,9 @@ description: "Study guide to AQA A-level Sociology 7192 Culture and Identity: ty
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers Culture and Identity for AQA A-level Sociology (7192), as set out in the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). The topic is section 4.2.1 of the A-level content (the specification-at-a-glance list also shows it as 3.2.1). It is assessed in Paper 2: Topics in Sociology, Section A, where it is one of the four option 1 topics.

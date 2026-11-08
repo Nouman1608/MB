@@ -15,11 +15,9 @@ syllabusTopics:
     topic: "government-microeconomic-intervention-as-cambridge-alevel-economics"
 description: "Revision notes for Cambridge 9708 Topic 3: reasons governments intervene, the six intervention tools and their diagram effects, and policies on inequality."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-05
 featured: false
 ---

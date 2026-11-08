@@ -22,13 +22,11 @@ syllabusTopics:
     subtopic: "investigation-of-limiting-factors-cambridge-alevel"
 description: "Quick-recall notes on chloroplasts, pigments, Rf, cyclic and non-cyclic photophosphorylation, the Calvin cycle and limiting factors for Cambridge 9700."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 These revision notes condense Topic 13, Photosynthesis, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. They cover sections 13.1 (Photosynthesis as an energy transfer process) and 13.2 (Investigation of limiting factors). This is A Level content, examined in Paper 4; the investigations also feed the planning and analysis skills tested in Paper 5. For full explanations and worked examples, use the [photosynthesis study guide](/resources/a-level-biology-9700-photosynthesis/).

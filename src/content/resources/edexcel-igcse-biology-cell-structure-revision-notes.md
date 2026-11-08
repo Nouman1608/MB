@@ -15,13 +15,11 @@ syllabusTopics:
     subtopic: "cell-structure-4bi1"
 description: "Condensed notes on cell structures and functions, plant and animal cells, biological molecules and enzymes for Pearson Edexcel International GCSE Biology 4BI1."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Related: [Cell structure and biological molecules study guide](/resources/igcse-edexcel-biology-cell-structure-and-biological-molecules/)

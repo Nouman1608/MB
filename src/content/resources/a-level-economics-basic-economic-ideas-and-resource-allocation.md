@@ -15,11 +15,9 @@ syllabusTopics:
     topic: "basic-economic-ideas-and-resource-allocation-cambridge-alevel-economics"
 description: "Study guide to Topic 1 of Cambridge AS & A Level Economics 9708: scarcity, opportunity cost, methodology, factors of production, economic systems and PPCs."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---

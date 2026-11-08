@@ -15,13 +15,11 @@ syllabusTopics:
     topic: "marketing-oxfordaqa-alevel-business"
 description: "Condensed OxfordAQA International A-Level Business marketing notes: objectives, research, STP and marketing mix, following 9625's 7Ps with 9725's 4Ps flagged."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

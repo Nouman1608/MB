@@ -17,11 +17,9 @@ syllabusTopics:
     topic: "data-processing-and-information"
 description: "Study guide to Cambridge AS & A Level IT 9626 topic 1: data and information, information quality, encryption, validation and verification, and processing."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-08-21
 updatedDate: 2026-09-27
 featured: false

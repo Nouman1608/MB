@@ -24,11 +24,9 @@ syllabusTopics:
     subtopic: "production-possibility-curve-ppc-diagrams"
 description: "Scarcity, economic and free goods, the factors of production and their rewards, opportunity cost and PPC diagrams for Cambridge O Level Economics 2281."
 author: "salman-ahmad"
-reviewer: "asif-iqbal"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by asif-iqbal on 2026-09-29."
 publishedDate: 2026-08-18
 featured: false
 ---

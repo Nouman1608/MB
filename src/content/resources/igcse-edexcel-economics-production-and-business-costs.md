@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "business-economics-edexcel-igcse-economics"
 description: "Factors of production, productivity, division of labour, costs, revenue and economies of scale, sub-topics 1.2.1 to 1.2.3 of Edexcel IGCSE Economics 4EC1."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **sub-topics 1.2.1–1.2.3**, part of Topic 2 Business

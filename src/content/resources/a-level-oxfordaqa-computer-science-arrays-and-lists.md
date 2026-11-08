@@ -16,11 +16,9 @@ syllabusTopics:
     subtopic: "arrays-and-lists-oxfordaqa-alevel-cs"
 description: "Guide to OxfordAQA International A Level Computer Science 9645 section 3.2.1: static and dynamic data structures, arrays, lists and two-dimensional arrays."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---

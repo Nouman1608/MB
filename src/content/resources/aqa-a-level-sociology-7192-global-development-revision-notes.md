@@ -20,11 +20,9 @@ description: "Condensed AQA 7192 Global Development revision notes: key terms, t
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 Read the [Global development study guide](/resources/aqa-a-level-sociology-7192-global-development/) first; these notes condense it for last-stage revision.

@@ -18,11 +18,9 @@ syllabusTopics:
     subtopic: "the-measurement-of-macroeconomic-performance-aqa-aslevel-economics"
 description: "AQA A-level Economics (7136) 3.2.1: macroeconomic objectives, indicators, index numbers and the uses of national income data, with AS (7135) coverage noted."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---

@@ -15,12 +15,10 @@ syllabusTopics:
     subtopic: "p1-coordinate-geometry-edexcel-alevel-maths"
 description: "Edexcel IAL Maths P1 (WMA11) practice with worked answers: quadratics, coordinate geometry, surds, trigonometry, differentiation and integration of powers of x."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
-reviewNote: "2026-11-08 recheck: added intro naming IAL unit P1 (WMA11), split the sector-question marks into method and answer marks, two questions (linear-quadratic simultaneous equations; integrating a root term) and FAQ; rewrote description. Please re-review."
+reviewNote: "2026-11-08 recheck: added intro naming IAL unit P1 (WMA11), split the sector-question marks into method and answer marks, two questions (linear-quadratic simultaneous equations; integrating a root term) and FAQ; rewrote description. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 reviewNeeded: true
 ---
 > **These are original questions written for Marlbridge**, for revision and

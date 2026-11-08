@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "ib-dp-language-b-sharing-the-planet"
 description: "Original comprehension practice with worked answers on the Sharing the planet theme, plus a Paper 1 writing-task planning exercise, for IB DP Language B."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

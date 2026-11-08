@@ -15,13 +15,11 @@ syllabusTopics:
     subtopic: "ib-myp-mathematics-branches-of-mathematical-study-reasoning-with-data"
 description: "Condensed notes on the IB MYP Mathematics reasoning with data branch: statistics, probability and drawing conclusions from data, mapped to Criteria A to D."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 Reasoning with data is one of the four branches of the MYP Mathematics framework set out in the

@@ -30,13 +30,11 @@ syllabusTopics:
     subtopic: "tropic-responses-cambridge-igcse-biology"
 description: "Revision notes for Cambridge IGCSE Biology 0610 coordination and response: reflexes, the eye, hormones, homeostasis and auxin, plus a self-test."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 These revision notes cover topic 14, Coordination and response, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028: sections 14.1 Coordination and response, 14.2 Sense organs, 14.3 Hormones, 14.4 Homeostasis and 14.5 Tropic responses. Supplement content is marked **Extended only**; it appears on Papers 2 and 4, not on the Core Papers 1 and 3. For full explanations and worked examples, use the [coordination and response study guide](/resources/igcse-biology-0610-coordination-and-response/).

@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "ib-dp-mathematics-applications-and-interpretation-geometry-and-trigonometry"
 description: "The IB DP Maths AI geometry and trigonometry strand: triangle trigonometry, bearings, compound solids and HL radians, matrices, vectors and graph theory."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 This guide covers the **Geometry and Trigonometry** strand, which

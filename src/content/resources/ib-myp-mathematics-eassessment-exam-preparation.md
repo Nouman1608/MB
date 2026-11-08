@@ -11,13 +11,11 @@ syllabusSeries: "From 2020, first assessment 2022"
 order: 9
 description: "Task-by-task preparation for the IB MYP Mathematics eAssessment, with a worked modelling scenario, validity checks and a checklist for each of the three tasks."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 The [full syllabus guide](/resources/ib-myp-mathematics-syllabus-guide/) sets out what the 2-hour

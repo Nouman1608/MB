@@ -15,13 +15,11 @@ syllabusTopics:
     subtopic: "b3-quadratic-functions-aqa-alevel-maths"
 description: "Revision notes on the discriminant, simultaneous linear-quadratic equations and linear and quadratic inequalities for AQA A-Level Mathematics 7357, B3 to B5."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

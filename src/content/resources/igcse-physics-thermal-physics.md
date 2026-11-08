@@ -21,11 +21,9 @@ syllabusTopics:
     subtopic: "transfer-of-thermal-energy-cambridge-igcse-physics"
 description: "Cambridge IGCSE Physics 0625 Topic 2 thermal physics guide for 2026-2028: particle model, gas pressure, kelvin scale, specific heat capacity and heat transfer."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-08-24
 updatedDate: 2026-09-28
 featured: false

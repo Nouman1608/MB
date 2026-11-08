@@ -15,13 +15,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-literature-time-space"
 description: "Study guide to Time and space in IB DP Language A: Literature: context of production and reception, works in translation and cultural perspectives."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide teaches **Time and space**, the second of the three areas of exploration in IB Diploma

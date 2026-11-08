@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "foundations-in-biology-ocr-alevel-biology"
 description: "Exam-style questions with worked answers on microscopy, magnification, cell structure, biological molecules and nucleic acids for OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

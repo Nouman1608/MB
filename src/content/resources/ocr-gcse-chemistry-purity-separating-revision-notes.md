@@ -15,11 +15,9 @@ syllabusTopics:
     subtopic: "c2-1-purity-separating-mixtures-j248"
 description: "Revision notes for OCR GCSE Chemistry A (J248) C2.1: what purity means, Mr and empirical formulae, choosing a separation technique, and using Rf values."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---

@@ -15,14 +15,12 @@ syllabusTopics:
     topic: "transport-in-mammals-cambridge-alevel-biology"
 description: "Original Cambridge 9700 questions with worked answers on capillaries, unit conversions, artery and vein walls, vein grafts and oxygen carried by haemoglobin."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

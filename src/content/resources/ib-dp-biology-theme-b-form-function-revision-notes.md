@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "ib-dp-biology-form-function"
 description: "Revision notes for IB DP Biology Theme B, Form and function: macromolecules, proteins, membranes, organelles, gas exchange, transport and adaptation."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 These notes go deeper into **Theme B -- Form and function** (26 hours SL / 39 hours HL) than the

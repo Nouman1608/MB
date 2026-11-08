@@ -23,13 +23,11 @@ syllabusTopics:
     subtopic: "molar-concentrations-9202"
 description: "Condensed recall notes on relative masses, the mole, formulae, reacting masses, concentration and titrations for International GCSE Chemistry."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

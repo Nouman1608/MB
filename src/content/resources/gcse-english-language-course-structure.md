@@ -10,13 +10,11 @@ syllabusSeries: "For first teaching 2015"
 order: 1
 description: "How AQA GCSE English Language 8700 is structured: the two 1 hour 45 minute papers, the separate spoken language endorsement, and the skills each assesses."
 author: "lubna-waseem"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 An overview of how AQA GCSE English Language (8700) is put together, for

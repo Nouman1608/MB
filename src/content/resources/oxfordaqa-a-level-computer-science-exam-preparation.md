@@ -11,13 +11,11 @@ syllabusSeries: "2024-onwards"
 order: 3
 description: "How OxfordAQA International A-level Computer Science 9645's on-screen programming papers and written theory papers differ, plus a worked trace-table routine."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 ---
 
 OxfordAQA International A-Level Computer Science (9645) splits its four papers into two distinct

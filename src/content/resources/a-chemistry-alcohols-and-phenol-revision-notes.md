@@ -19,11 +19,9 @@ syllabusTopics:
     subtopic: "a-phenol"
 description: "Revision notes on esters from acyl chlorides, making phenol, its reactions with NaOH, sodium, nitric acid and bromine water, and acidity, for Cambridge 9701."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---

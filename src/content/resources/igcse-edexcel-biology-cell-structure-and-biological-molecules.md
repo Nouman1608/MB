@@ -15,13 +15,11 @@ syllabusTopics:
     subtopic: "cell-structure-4bi1"
 description: "Cell structures and functions, plant and animal cells, biological molecules and enzymes, covering Topic 2 sub-topics (b) and (c) of Edexcel IGCSE Biology 4BI1."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide covers **sub-topics (b) Cell Structure and (c) Biological

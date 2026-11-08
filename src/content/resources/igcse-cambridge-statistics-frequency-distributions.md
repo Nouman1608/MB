@@ -14,11 +14,9 @@ syllabusTopics:
     topic: "frequency-distributions-0479"
 description: "Topic 3 of Cambridge IGCSE Statistics 0479: grouped data, class boundaries and widths, histograms, frequency polygons and cumulative frequency curves."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review. Fix pass: replaced doubtful claim that limits and boundaries coincide for continuous data, and unsupported most-common-error claim, with the 0479 syllabus wording."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review. Fix pass: replaced doubtful claim that limits and boundaries coincide for continuous data, and unsupported most-common-error claim, with the 0479 syllabus wording; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---

@@ -31,11 +31,9 @@ seoTitle: "IGCSE World History 0470 Option B: Relations since 1919"
 seoDescription: "Core Content Option B of Cambridge IGCSE World History 0470 (2024–2026): Versailles, the League of Nations, Hitler's foreign policy, the Cold War and more."
 description: "Cambridge IGCSE History 0470 Core Content Option B: Versailles, the League of Nations, Hitler's foreign policy, the Cold War, containment and Eastern Europe."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-01
 featured: false
 ---

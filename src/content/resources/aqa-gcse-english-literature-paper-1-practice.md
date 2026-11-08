@@ -20,11 +20,9 @@ syllabusTopics:
     subtopic: "section-b-the-19th-century-novel-8702"
 description: "Original practice with full worked answers on Paper 1 Shakespeare and the 19th-century novel of AQA GCSE English Literature 8702, for any set texts studied."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-08-26
 featured: false
 ---

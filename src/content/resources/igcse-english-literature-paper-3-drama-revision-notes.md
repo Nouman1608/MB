@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "paper-3-drama-open-text-0475"
 description: "Condensed notes on Cambridge IGCSE Literature in English 0475 Paper 3 Drama (Open Text): the open-book rule, single-text format and what each AO rewards."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description shortened to 140-160 characters and FAQ added; please re-review."
+reviewNote: "2026-11-08 recheck: description shortened to 140-160 characters and FAQ added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

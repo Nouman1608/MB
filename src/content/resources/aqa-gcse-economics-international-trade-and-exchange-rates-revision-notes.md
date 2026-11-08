@@ -19,11 +19,9 @@ syllabusTopics:
     subtopic: "exchange-rates-aqa-gcse-economics"
 description: "Condensed AQA GCSE Economics revision notes for 3.2.4.1 and 3.2.4.2: benefits of trade, UK exports and imports, interdependence and exchange rates."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-11-05
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-11-05."
 publishedDate: 2026-11-05
 featured: false
 ---

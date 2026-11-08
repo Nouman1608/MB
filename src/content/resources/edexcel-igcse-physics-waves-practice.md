@@ -24,11 +24,9 @@ syllabusTopics:
     subtopic: "light-and-sound"
 description: "Original practice questions with worked answers on wave properties, the Doppler effect, the EM spectrum, refraction and sound for Edexcel IGCSE Physics 4PH1."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: question 10 repeated question 5(a) with the same angles; changed it to 60° and 35° (n = 1.51); please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: question 10 repeated question 5(a) with the same angles; changed it to 60° and 35° (n = 1.51); please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false

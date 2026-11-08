@@ -19,11 +19,9 @@ syllabusTopics:
     subtopic: "a-homogeneous-and-heterogeneous-catalysts"
 description: "Practice questions with worked answers on rate equations, orders, half-life, rate constants, mechanisms and catalysis, for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-29
 featured: false
 ---

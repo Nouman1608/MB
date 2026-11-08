@@ -11,13 +11,11 @@ syllabusSeries: "For teaching from September 2017, exams from May/June 2019"
 order: 3
 description: "Preparing for OxfordAQA International GCSE Computer Science 9210: the on-screen Paper 1 skeleton program, the May/June-only series and a worked coding routine."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 ---
 
 OxfordAQA International GCSE Computer Science (9210) is linear and untiered, with no coursework. Both

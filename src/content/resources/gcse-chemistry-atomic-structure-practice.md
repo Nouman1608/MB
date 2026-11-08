@@ -14,11 +14,9 @@ syllabusTopics:
     subtopic: "c1-2-atomic-structure-j248"
 description: "Original OCR GCSE Chemistry J248 practice questions with worked answers on C1.2 atomic structure and C4.1 group trends and the periodic table."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false

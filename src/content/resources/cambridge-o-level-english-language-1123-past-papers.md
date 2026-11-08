@@ -11,11 +11,9 @@ syllabusCodes: ["1123"]
 order: 1
 description: "1123 English Language past papers guide: grade thresholds for 2022 to 2024 and examiner-report notes for every June and November series, 2022 to 2025."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---

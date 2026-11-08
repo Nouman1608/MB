@@ -35,11 +35,9 @@ description: "Study guide to AQA GCSE Sociology 8192 social stratification: Davi
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers section 3.6 Social stratification (3.6.1 to 3.6.6) of the AQA GCSE Sociology (8192) specification, Version 1.2 (June 2026), for GCSE exams 2019 onwards. It uses the named sociologists and key ideas printed in Appendix B (7.4). Social stratification is assessed in Paper 2: The sociology of crime and deviance and social stratification, a 1 hour 45 minute written exam worth 100 marks and 50% of the GCSE.

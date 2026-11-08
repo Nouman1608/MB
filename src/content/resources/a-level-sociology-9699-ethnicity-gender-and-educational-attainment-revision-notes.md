@@ -24,11 +24,9 @@ description: "Revision notes for Cambridge 9699 Sociology 6.3-6.4: key terms, st
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 These notes condense the [Ethnicity, gender and educational attainment study guide](/resources/a-level-sociology-9699-ethnicity-gender-and-educational-attainment/). Read that first if a study or term below is new to you.

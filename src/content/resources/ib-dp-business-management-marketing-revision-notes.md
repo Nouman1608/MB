@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "ib-dp-business-unit-4"
 description: "Condensed IB DP Business Management Unit 4 revision notes on marketing planning, sales forecasting, market research and the seven Ps, with a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Unit 4 is tied for the largest unit by teaching hours at SL (30 hours, tied with Unit 3) and runs to 35 hours at HL (tied with Unit 2), and

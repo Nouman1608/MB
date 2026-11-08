@@ -17,11 +17,9 @@ description: "Study guide to AQA GCSE Sociology 8192 section 3.1: consensus and 
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers section 3.1, The sociological approach, of the AQA GCSE Sociology (8192) specification, Version 1.2 (June 2026), for GCSE exams 2019 onwards. Section 3.1 has no sub-sections and is not tied to one paper. Both Paper 1 (The sociology of families and education) and Paper 2 (The sociology of crime and deviance and social stratification) assess "relevant areas of social theory and methodology", and the specification expects you to draw on the whole course in both. Each paper is a 1 hour 45 minute written exam worth 100 marks and 50% of the GCSE.

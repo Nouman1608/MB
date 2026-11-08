@@ -22,13 +22,11 @@ syllabusTopics:
     subtopic: "protein-synthesis-cambridge-alevel-biology"
 description: "Study guide to nucleotides, DNA structure, semi-conservative replication, transcription, translation and mutation for Cambridge 9700 AS Biology."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This study guide teaches topic 6, Nucleic acids and protein synthesis, from the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers sections 6.1 (Structure of nucleic acids and replication of DNA) and 6.2 (Protein synthesis). This is AS Level content, so it is examined on Paper 1 (Multiple Choice) and Paper 2 (AS Level Structured Questions). Paper 4 is based on the A Level content but the syllabus states that knowledge of AS material will be required there too.

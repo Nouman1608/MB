@@ -18,13 +18,11 @@ syllabusTopics:
     subtopic: "biological-molecules-cambridge-igcse-biology"
 description: "Study guide for Cambridge IGCSE Biology 0610 topic 4: elements, building blocks, the five food tests and DNA structure, with worked examples."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This study guide teaches topic 4, Biological molecules (sub-topic 4.1), of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. Learning outcomes 1 to 3 are Core, so every candidate needs them. Outcome 4, the structure of DNA, is Supplement content, so it is **Extended only**. Core content is tested on Papers 1 and 3, Core and Supplement content on Papers 2 and 4, and food tests are one of the listed experimental contexts for the practical papers (Paper 5 or Paper 6).

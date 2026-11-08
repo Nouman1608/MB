@@ -14,11 +14,9 @@ syllabusTopics:
     topic: "scaling-up-ocr-gcse-biology"
 description: "Revision notes for OCR GCSE Biology A (J247) Topic B2 Scaling Up: transport mechanisms, stem cells, SA:V ratio, double circulation, xylem and phloem."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---

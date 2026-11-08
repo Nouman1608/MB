@@ -23,11 +23,9 @@ syllabusTopics:
     subtopic: "soil-erosion-0680"
 description: "Soils and crop growth, food production and crop yield, and soil erosion -- Topic 2 of Cambridge IGCSE Environmental Management (0680), the 2027-2029 series."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-01
 featured: false
 ---

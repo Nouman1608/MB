@@ -15,11 +15,9 @@ syllabusTopics:
     topic: "procedural-programming"
 description: "Sequence, selection and iteration -- the opening topic of OxfordAQA International AS & A-Level Computer Science (9645), a 16-topic, modular syllabus."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---

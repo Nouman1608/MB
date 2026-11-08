@@ -32,11 +32,9 @@ syllabusTopics:
     subtopic: "plastic-pollution-0680"
 description: "Recall notes on water supply, pollution, water-related disease, aquaculture, and oil and plastic pollution for Cambridge IGCSE Environmental Management 0680."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-05
 featured: false
 ---

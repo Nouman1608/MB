@@ -14,11 +14,9 @@ syllabusTopics:
     topic: "depth-studies-2147"
 description: "The five Depth Studies of Cambridge O Level History 2147 (2024-2026): First World War, Germany, Russia, the USA and the Second World War, and how they are set."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-01
 featured: false
 ---

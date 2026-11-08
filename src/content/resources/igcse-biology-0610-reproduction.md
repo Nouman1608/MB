@@ -33,13 +33,11 @@ syllabusTopics:
     subtopic: "sexually-transmitted-infections-cambridge-igcse-biology"
 description: "Study guide to Cambridge IGCSE Biology 0610 topic 16: asexual and sexual reproduction, flowers, human reproduction, sex hormones and STIs."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide teaches topic 16 (Reproduction) of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028, sections 16.1 to 16.6. Core outcomes are tested on Papers 1 and 3 and are needed by every candidate; Supplement outcomes, labelled "Extended only", are tested on Papers 2 and 4. Section 16.6 is Core only.

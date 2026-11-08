@@ -18,14 +18,12 @@ syllabusTopics:
     subtopic: "vector-geometry-cambridge-igcse-maths"
 description: "Core and Extended Topic 7 for Cambridge IGCSE Maths 0580 (2025-2027): reflection, rotation, enlargement, translation, vectors, magnitude and vector geometry."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 updatedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This guide covers **Topic 7 Transformations and Vectors**, for

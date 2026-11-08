@@ -26,11 +26,9 @@ syllabusTopics:
     subtopic: "ib-dp-computer-science-a-4"
 description: "Guide to Theme A of IB DP Computer Science, first assessment 2027: computer fundamentals, networks, databases with SQL, machine learning and the case study."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---

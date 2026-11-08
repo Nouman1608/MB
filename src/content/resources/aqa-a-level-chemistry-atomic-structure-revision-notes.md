@@ -22,14 +22,12 @@ syllabusTopics:
     subtopic: "electron-configuration-7405"
 description: "Condensed recall notes on subatomic particles, mass spectrometry, electron configuration and ionisation energies for AQA A Level Chemistry 7405."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 updatedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

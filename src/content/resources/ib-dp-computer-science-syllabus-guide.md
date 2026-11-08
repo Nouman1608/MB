@@ -13,11 +13,9 @@ syllabusSeries: "First assessment 2027"
 order: 2
 description: "Full syllabus map for IB DP Computer Science, first assessment 2027: Theme A and Theme B sub-topics, the case study and recommended teaching hours at SL and HL."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---

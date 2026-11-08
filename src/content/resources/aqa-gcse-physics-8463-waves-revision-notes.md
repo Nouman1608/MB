@@ -24,11 +24,9 @@ syllabusTopics:
     subtopic: "black-body-radiation-aqa-gcse"
 description: "Condensed AQA GCSE Physics 8463 Waves revision notes: definitions, equations, required practicals 8-10, EM spectrum, lenses, colour and a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---

@@ -22,11 +22,9 @@ syllabusTopics:
     subtopic: "a-damped-and-forced-oscillations-resonance"
 description: "Simple harmonic motion and a = −ω²x, energy in SHM, damped and forced oscillations and resonance: Topic 17, Oscillations, of Cambridge A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

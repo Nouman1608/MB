@@ -14,11 +14,9 @@ syllabusTopics:
     topic: "paper-2-studies-in-change-9245"
 description: "Paper 2 of OxfordAQA International GCSE History 9245, Studies in change: societies in change and thematic studies, with the question structure and approach."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---

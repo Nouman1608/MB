@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "the-allocation-of-resources"
 description: "Condensed recall notes on demand, supply, equilibrium, price elasticity, market failure and mixed economies for Cambridge O Level Economics 2281, Topic 2."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

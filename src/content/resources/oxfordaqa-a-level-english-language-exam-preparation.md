@@ -11,13 +11,11 @@ syllabusSeries: "First assessed 2019"
 order: 3
 description: "Exam preparation for OxfordAQA International A Level English Language 9670: how the units combine, the Unit 4 exam or NEA choice, and a worked analysis routine."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 OxfordAQA International A-Level English Language (9670) is a modular qualification of four

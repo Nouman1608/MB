@@ -22,11 +22,9 @@ syllabusTopics:
     subtopic: "as-linear-momentum-and-its-conservation"
 description: "Newton's laws, momentum, drag and terminal velocity, and conservation of momentum in elastic and inelastic collisions: Topic 3 of Cambridge 9702 Physics."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

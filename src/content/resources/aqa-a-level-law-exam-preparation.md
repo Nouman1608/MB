@@ -11,13 +11,11 @@ syllabusSeries: "For teaching from September 2017 onwards, A-level exams 2019 on
 order: 3
 description: "How AQA A Level Law 7162's three papers share a 25-mark common core, how the Paper 3 option works, and a worked routine for answering problem scenarios."
 author: "marlbridge-academic-team"
-reviewer: "aizaz-raoof-ali"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
 ---
 
 AQA A-Level Law 7162 is a linear, untiered qualification assessed by three written papers, each

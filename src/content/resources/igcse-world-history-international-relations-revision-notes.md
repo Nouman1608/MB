@@ -20,11 +20,9 @@ syllabusTopics:
     subtopic: "paper-1-section-b-9245"
 description: "Condensed recall notes on the peace treaties, the League of Nations, the origins of the Second World War and the Cold War for International GCSE History."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: FAQ added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---

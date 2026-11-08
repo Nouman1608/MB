@@ -17,11 +17,9 @@ syllabusTopics:
     subtopic: "rightly-guided-caliphs-0493"
 description: "The rule, achievements and leadership of Abu Bakr, Umar, Uthman and Ali for Cambridge IGCSE Islamiyat 0493 Paper 2 subtopic 2.3, the Rightly Guided Caliphs."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-09
 featured: false
 ---

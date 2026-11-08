@@ -14,11 +14,9 @@ syllabusTopics:
     topic: "ib-dp-world-history-internal-assessment"
 description: "Quick notes on the IB DP History historical investigation (first assessed 2017): sections, marks, word limit, source evaluation, reflection and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: rewritten for the current course (first assessment 2017): three sections incl. reflection, 25 marks, 2,200 words, per owner decision; please re-review."
+reviewNote: "2026-11-08 recheck: rewritten for the current course (first assessment 2017): three sections incl. reflection, 25 marks, 2,200 words, per owner decision; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---

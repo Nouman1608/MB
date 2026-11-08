@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "unit-p2-pure-mathematics-2-edexcel-alevel-maths"
 description: "Practice questions with worked answers on proof, factor theorem, circles, sequences, logarithms and stationary points for Edexcel IAL Maths YMA01 Unit P2."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

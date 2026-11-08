@@ -18,13 +18,11 @@ syllabusTopics:
     subtopic: "specialised-cells-tissues-and-organs"
 description: "Condensed recall notes on animal, plant and bacterial cells, specialised cells, levels of organisation and magnification for Cambridge O Level Biology 5090."
 author: "saad-zai"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: expanded thin notes (opening answer, extra magnification example in micrometres, FAQ, question headings); please re-review."
+reviewNote: "2026-11-08 recheck: expanded thin notes (opening answer, extra magnification example in micrometres, FAQ, question headings); please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Cambridge O Level Biology 5090 Topic 1 tests whether you can name the

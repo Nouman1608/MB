@@ -29,11 +29,9 @@ syllabusTopics:
     subtopic: "ussr-control-eastern-europe-0470"
 description: "Original Cambridge IGCSE History 0470 practice on Versailles, the League, Hitler's foreign policy and the Cold War, in Paper 1 and Paper 2 formats with answers."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---

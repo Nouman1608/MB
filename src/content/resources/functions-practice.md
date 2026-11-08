@@ -15,12 +15,10 @@ syllabusTopics:
     subtopic: "functions"
 description: "Cambridge O Level Mathematics 4024 practice questions on functions: notation, domain and range, inverse and composite functions, with full worked answers."
 author: "muhammad-ghazali-siddiqui"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
-reviewNote: "2026-11-08 recheck: added intro naming 4024 subtopic 2.12, Section C (composite function as a simplified fraction, solving h(x) = k, inverse equation) and FAQ; rewrote description. Please re-review."
+reviewNote: "2026-11-08 recheck: added intro naming 4024 subtopic 2.12, Section C (composite function as a simplified fraction, solving h(x) = k, inverse equation) and FAQ; rewrote description. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 reviewNeeded: true
 ---
 > **These are original questions written for Marlbridge**, for revision and

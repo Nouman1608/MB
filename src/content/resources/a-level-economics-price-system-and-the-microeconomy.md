@@ -17,11 +17,9 @@ seoTitle: "Cambridge 9708 Economics Topic 2: Price System (2026–2028)"
 description: "Study guide to Cambridge 9708 Topic 2: demand and supply, PED, YED, XED and PES, market equilibrium, functions of price, and consumer and producer surplus."
 seoDescription: "Cambridge AS & A Level Economics (9708) Topic 2 study guide: demand and supply, elasticity, market equilibrium, and consumer/producer surplus explained."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-01
 featured: false
 ---

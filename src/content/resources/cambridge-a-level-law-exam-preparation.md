@@ -11,13 +11,11 @@ syllabusSeries: "2026-2028"
 order: 3
 description: "How Cambridge International A Level Law 9084's four equally weighted papers differ in content and pacing, plus a step-by-step problem-question answer routine."
 author: "marlbridge-academic-team"
-reviewer: "aizaz-raoof-ali"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
 ---
 
 Cambridge International A-Level Law (9084) is a staged qualification of four papers, each worth exactly

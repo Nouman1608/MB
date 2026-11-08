@@ -17,11 +17,9 @@ description: "AQA GCSE Sociology (8192) section 3.7 research methods, examined i
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-09
 featured: false
-reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers **Section 3.7: Sociological Research Methods** in AQA GCSE Sociology (8192). Unlike

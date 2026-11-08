@@ -11,13 +11,11 @@ syllabusSeries: "Version 4.1 (April 2026), for first assessment in 2025"
 order: 3
 description: "How OCR A Level Biology A (H420) is assessed: two 100-mark papers, a synoptic Paper 3, the separate Practical Endorsement and a routine for unfamiliar data."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 OCR A Level Biology A (H420) is linear and untiered, assessed by three examined components totalling

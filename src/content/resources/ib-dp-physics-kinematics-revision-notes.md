@@ -14,11 +14,9 @@ syllabusTopics:
     topic: "ib-dp-physics-topic-a"
 description: "Condensed recall notes on kinematics (topic A.1), common to both SL and HL, for IB Diploma Programme Physics."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-08-26
 featured: false
 ---

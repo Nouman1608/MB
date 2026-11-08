@@ -15,12 +15,10 @@ syllabusTopics:
     subtopic: "functions"
 description: "Condensed exam recall notes on function notation, domain and range, composite and inverse functions for Cambridge O Level Mathematics 4024 subtopic 2.12."
 author: "muhammad-ghazali-siddiqui"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
-reviewNote: "2026-11-08 recheck: added a 4024 syllabus-coverage table (2.12.1 to 2.12.3 and notes), a direct opening naming the syllabus, and an FAQ section. Please re-review."
+reviewNote: "2026-11-08 recheck: added a 4024 syllabus-coverage table (2.12.1 to 2.12.3 and notes), a direct opening naming the syllabus, and an FAQ section. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 reviewNeeded: true
 ---
 

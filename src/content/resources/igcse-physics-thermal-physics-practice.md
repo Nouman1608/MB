@@ -21,11 +21,9 @@ syllabusTopics:
     subtopic: "transfer-of-thermal-energy-cambridge-igcse-physics"
 description: "Original practice questions with worked answers on the particle model, gas pressure, specific heat capacity, changes of state and heat transfer for IGCSE 0625."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: replaced question 13, which repeated question 5 (evaporative cooling), with a boiling-at-constant-temperature question (0625 2.2.3); please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: replaced question 13, which repeated question 5 (evaporative cooling), with a boiling-at-constant-temperature question (0625 2.2.3); please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-08-29
 updatedDate: 2026-09-27
 featured: false

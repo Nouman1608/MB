@@ -19,11 +19,9 @@ syllabusTopics:
     subtopic: "a-phenol"
 description: "Making phenol from phenylamine, its reactions with bases, sodium and electrophiles, and why phenol, water and ethanol differ in acidity, for Cambridge 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

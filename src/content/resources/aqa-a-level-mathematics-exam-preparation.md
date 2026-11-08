@@ -11,11 +11,9 @@ syllabusSeries: "For first teaching 2017"
 order: 3
 description: "Paper-by-paper exam preparation for AQA A-Level Maths (7357): pure content on every paper, mechanics and statistics, command words and a show-that example."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-07
 updatedDate: 2026-09-27
 featured: false

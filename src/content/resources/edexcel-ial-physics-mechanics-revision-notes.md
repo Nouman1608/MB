@@ -15,11 +15,9 @@ syllabusTopics:
     subtopic: "mechanics"
 description: "Condensed recall notes on kinematics, projectiles, Newton's laws, momentum, moments, work and power for Edexcel International A Level Physics YPH11 Unit 1."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: labelled impulse as Unit 4 topic 4.3 content (not Unit 1); please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: labelled impulse as Unit 4 topic 4.3 content (not Unit 1); please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---

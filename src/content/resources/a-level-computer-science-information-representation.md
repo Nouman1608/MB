@@ -24,11 +24,9 @@ syllabusTopics:
     subtopic: "compression"
 description: "Guide to Topic 1 of Cambridge AS Computer Science 9618: base conversion, two's complement, image and sound file sizes, bitmaps, vectors and compression."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---

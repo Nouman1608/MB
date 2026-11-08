@@ -11,11 +11,9 @@ syllabusSeries: "First assessment 2025"
 order: 2
 description: "Every numbered sub-topic of the IB DP Chemistry syllabus, Structure 1 to 3 and Reactivity 1 to 3, with SL and HL teaching hours, for first assessment 2025."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---

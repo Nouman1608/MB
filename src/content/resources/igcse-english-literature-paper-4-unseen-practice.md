@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "paper-4-unseen-0475"
 description: "Original practice with worked answers on Cambridge IGCSE 0475 Paper 4 Unseen: the critical commentary, the 20-minute planning advice and personal response."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description shortened to 140-160 characters and FAQ added; please re-review."
+reviewNote: "2026-11-08 recheck: description shortened to 140-160 characters and FAQ added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, testing exam

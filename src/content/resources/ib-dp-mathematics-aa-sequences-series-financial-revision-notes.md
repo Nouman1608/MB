@@ -28,13 +28,11 @@ syllabusTopics:
     subtopic: "ib-dp-mathematics-analysis-and-approaches-1-8"
 description: "Condensed IB DP Maths AA revision notes on sequences, series, sigma notation, compound interest and sums to infinity, with a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 These are condensed revision notes. For full explanations and worked examples, use the [sequences, series and financial applications study guide](/resources/ib-dp-mathematics-aa-sequences-series-financial/).

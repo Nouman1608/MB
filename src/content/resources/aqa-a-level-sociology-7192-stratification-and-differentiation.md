@@ -20,11 +20,9 @@ description: "Study guide to AQA A-level Sociology 7192 Stratification and diffe
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers the Stratification and Differentiation topic of the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). The topic is numbered 4.2.8 in the A-level subject content (the specification at a glance also lists it as 3.2.8). It is assessed in Paper 2: Topics in Sociology, where Section B asks you to answer on "one from option 2: 4.2.5, 4.2.6, 4.2.7 or 4.2.8".

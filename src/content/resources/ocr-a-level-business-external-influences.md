@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "external-influences-facing-businesses-ocr-alevel-business"
 description: "Study guide to External influences for OCR A Level Business H431: markets, competition, market dominance, the global context and PESTLE factors in case studies."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **External influences** — the name the

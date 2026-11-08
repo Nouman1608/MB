@@ -27,13 +27,11 @@ syllabusTopics:
     subtopic: "plant-hormones-aqa-gcse-biology"
 description: "Study guide for AQA GCSE Biology 8461 topic 5: homeostasis, nerves, brain, eye, hormones, kidneys, the menstrual cycle and plant hormones."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide teaches topic 5, **Homeostasis and response** (sections 4.5.1–4.5.4), of the AQA GCSE Biology (8461) specification, for teaching from September 2016 and exams from 2018 onwards. The topic is examined on Paper 2 (1 hour 45 minutes, 100 marks, 50% of the GCSE), which is set at Foundation and Higher tier. Content the specification marks "(HT only)" is labelled **Higher tier only** here; everything else is for both tiers.

@@ -20,11 +20,9 @@ syllabusTopics:
     subtopic: "section-b-composition-9270"
 description: "Original exam-style practice questions with full worked answers on reading non-fiction, language and structural analysis, evaluating viewpoint and writing."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---

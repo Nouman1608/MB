@@ -17,13 +17,11 @@ syllabusTopics:
     topic: "ib-dp-language-a-language-and-literature-time-and-space"
 description: "Condensed revision notes for IB DP Lang and Lit Paper 1: reading method, thesis and paragraph formulas, timing, and a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 These revision notes cover **Paper 1: guided textual analysis** for IB Diploma Programme Language A:

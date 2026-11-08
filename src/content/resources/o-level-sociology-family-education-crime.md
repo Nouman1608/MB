@@ -28,11 +28,9 @@ description: "Guide to Cambridge O Level Sociology (2251) Paper 2, 2025-2027: fa
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-01
 featured: false
-reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide sets out **Paper 2 Family, Education and Crime**, for

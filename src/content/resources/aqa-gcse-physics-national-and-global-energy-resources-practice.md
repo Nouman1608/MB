@@ -15,11 +15,9 @@ syllabusTopics:
     subtopic: "national-and-global-energy-resources"
 description: "Original practice questions with worked answers on renewable and non-renewable energy resources for AQA GCSE Physics 8463 (4.1.3) and Combined Science 8464."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-04
 featured: false
 ---

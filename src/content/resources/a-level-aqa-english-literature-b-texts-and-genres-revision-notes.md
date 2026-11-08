@@ -20,13 +20,11 @@ syllabusTopics:
     subtopic: "option-2b-elements-of-political-and-social-protest-writing-7717"
 description: "Condensed notes on open-book technique, the elements framework, the Section C rule and set-text lists for AQA A-Level English Literature B Paper 2 (7717)."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: added Section C rubric, current set-text changes (Kala 2027; 2B post-2000 texts) and FAQ; please re-review."
+reviewNote: "2026-11-08 recheck: added Section C rubric, current set-text changes (Kala 2027; 2B post-2000 texts) and FAQ; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

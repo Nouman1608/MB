@@ -18,13 +18,11 @@ syllabusTopics:
     subtopic: "assignment-b-imaginative-writing-4ea1"
 description: "Component 3 of Pearson Edexcel IGCSE English Language A 4EA1: the coursework alternative to Component 2, with a comparative assignment and imaginative writing."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide covers **Component 3: Poetry and Prose Texts and Imaginative

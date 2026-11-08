@@ -16,13 +16,11 @@ syllabusTopics:
     subtopic: "cell-division-cell-diversity-and-cellular-organisation-ocr-alevel-biology"
 description: "Condensed notes on the cell cycle, mitosis, meiosis, the PAG1 root tip squash, specialised cells and stem cells for OCR A Level Biology A H420, section 2.1.6."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-11-05
 publishedDate: 2026-11-05
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-11-05."
 ---
 
 These notes condense learning outcomes 2.1.6(a) to (m) of the OCR A Level Biology A specification (H420, Version 4.1, April 2026, first assessment 2025), including the PAG1 microscopy work on stained sections and squashes of plant tissue. The course sits on the [OCR A Level Biology hub](/boards/ocr/a-level/biology/); tick off outcomes on the [printable checklist](/checklists/ocr/a-level/biology/). Microscope use, calibration and drawing rules are in the [cell structure revision notes](/resources/ocr-a-level-biology-cell-structure-microscopy-and-prokaryotes-versus-revision-notes/) and the [practical endorsement revision notes](/resources/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques-revision-notes/); DNA replication in S phase is in the [nucleotides and DNA revision notes](/resources/ocr-a-level-biology-nucleotides-atp-dna-structure-and-semi-conservative-revision-notes/); and xylem and phloem return in the [exchange and transport revision notes](/resources/ocr-a-level-biology-exchange-and-transport-revision-notes/). The [free diagnostics](/diagnostics/) show gaps quickly.

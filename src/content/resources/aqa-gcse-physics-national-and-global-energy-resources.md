@@ -15,11 +15,9 @@ syllabusTopics:
     subtopic: "national-and-global-energy-resources"
 description: "Renewable and non-renewable energy resources, their uses, reliability and impacts: AQA GCSE Physics 8463 sub-topic 4.1.3, also Combined Science 8464 6.1.3."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-19
 updatedDate: 2026-08-19
 featured: false

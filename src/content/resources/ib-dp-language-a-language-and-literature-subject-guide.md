@@ -10,13 +10,11 @@ seoTitle: "IB Language A: Language and Literature – DP Course Overview"
 seoDescription: "IB Diploma Language A: Language and Literature explained: its three areas of exploration, how it treats language and texts, and SL and HL teaching hours."
 description: "Overview of IB DP Language A: Language and Literature: literary and non-literary texts, areas of exploration, works studied, aims and SL and HL assessment."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 IB Diploma Programme Language A: Language and Literature studies the

@@ -15,13 +15,11 @@ syllabusTopics:
     topic: "ib-myp-mathematics-assessment-criteria"
 description: "Condensed IB MYP Mathematics revision notes on what top-band evidence looks like for Criteria A to D, with a worked example for each assessment criterion."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 The [assessment revision notes](/resources/ib-myp-mathematics-assessment-revision-notes/) list the

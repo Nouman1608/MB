@@ -22,11 +22,9 @@ syllabusTopics:
     subtopic: "a-stability-constants-kstab"
 description: "Revision notes on d-orbital splitting and colour, copper(II) and cobalt(II) ligand exchange, isomerism in complexes and Kstab, for Cambridge 9701."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-27
 updatedDate: 2026-11-05
 featured: false

@@ -16,13 +16,11 @@ syllabusTopics:
     topic: "sources-and-recording-of-data"
 description: "Cambridge IGCSE Accounting 0452 revision notes on double entry, business documents, books of prime entry, petty cash, discounts and digital records (2027-2029)."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE

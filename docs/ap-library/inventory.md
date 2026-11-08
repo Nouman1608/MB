@@ -1,6 +1,6 @@
 # Advanced-course (AP) library -- resource inventory
 
-Generated 2026-10-05T16:57:56.120Z by `scripts/ap-library-inventory.mjs`. Library public: **yes**.
+Generated 2026-11-08T14:12:38.613Z by `scripts/ap-library-inventory.mjs`. Library public: **yes**.
 
 Status per topic: **planned** = no resource yet; **drafted** = written and checked by the Marlbridge Academic Team, awaiting AP-teacher review; **reviewed** = every resource reviewed by a named teacher; **published** = live. Shared Calculus AB/BC material (`calculusScope: ab-and-bc`) counts for both courses.
 

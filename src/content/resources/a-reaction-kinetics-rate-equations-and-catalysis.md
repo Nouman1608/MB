@@ -19,11 +19,9 @@ syllabusTopics:
     subtopic: "a-homogeneous-and-heterogeneous-catalysts"
 description: "Rate equations, orders of reaction, rate constants, mechanisms and rate-determining steps, and homogeneous and heterogeneous catalysis, for Cambridge 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review. 2026-11-08: SO₂-oxidation catalysis bullet now names NO₂ as catalyst and NO as intermediate, matching the revision notes."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review. 2026-11-08: SO₂-oxidation catalysis bullet now names NO₂ as catalyst and NO as intermediate, matching the revision notes; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

@@ -10,11 +10,9 @@ syllabusSeries: "First assessment 2017"
 order: 1
 description: "Quick-recall notes on how IB DP History (first assessed 2017) is examined: Papers 1-3, the IA, SL and HL weightings, marks, timings and the six key concepts."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: rewritten for the current course (first assessment 2017, examined to 2027) per owner decision, replacing the 2028 structure; please re-review."
+reviewNote: "2026-11-08 recheck: rewritten for the current course (first assessment 2017, examined to 2027) per owner decision, replacing the 2028 structure; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-08-26
 featured: false
 ---

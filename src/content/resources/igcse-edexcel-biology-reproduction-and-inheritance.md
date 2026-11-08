@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "reproduction-and-inheritance-edexcel-igcse-biology"
 description: "Sexual and asexual reproduction, DNA, monohybrid inheritance, mitosis, meiosis, variation and natural selection, covering Topic 3 of Edexcel IGCSE Biology 4BI1."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Topic 3 Reproduction and Inheritance is one of five topics in Pearson

@@ -14,11 +14,9 @@ syllabusTopics:
     topic: "types-of-business-organisation"
 description: "Revision notes on sole traders, partnerships, Ltd and plc companies, their reporting implications and sources of finance, for AQA A-Level Accounting 7127, 3.2."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---

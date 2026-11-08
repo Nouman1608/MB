@@ -27,13 +27,11 @@ syllabusTopics:
     subtopic: "plant-hormones-aqa-gcse-biology"
 description: "Twelve original AQA GCSE Biology 8461 questions on reflexes, the eye, diabetes, kidneys, hormones, IVF and auxin, with mark-by-mark answers."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

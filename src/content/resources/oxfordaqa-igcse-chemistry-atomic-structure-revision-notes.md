@@ -21,13 +21,11 @@ syllabusTopics:
     subtopic: "the-periodic-table-9202"
 description: "OxfordAQA International GCSE Chemistry 9202 Topic 1 notes: states of matter, atoms, isotopes, electron shells and the periodic table, plus a self-test."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

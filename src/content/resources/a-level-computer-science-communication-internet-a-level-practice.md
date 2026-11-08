@@ -21,11 +21,9 @@ syllabusTopics:
     subtopic: "circuit-switching-packet-switching"
 description: "Practice questions with worked answers for Cambridge A Level Computer Science 9618: TCP/IP layers, email and BitTorrent, packet and circuit switching."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-24
 updatedDate: 2026-09-28
 featured: false

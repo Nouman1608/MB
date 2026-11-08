@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "energy-oxfordaqa-igcse"
 description: "Condensed notes on work, energy stores, conservation, efficiency, Sankey diagrams and energy resources for OxfordAQA International GCSE Physics (9203)."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

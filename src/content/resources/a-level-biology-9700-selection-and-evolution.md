@@ -25,13 +25,11 @@ syllabusTopics:
     subtopic: "evolution-cambridge-alevel-biology"
 description: "Study guide for Cambridge 9700 A Level Biology topic 17: variation, the t-test, natural and artificial selection, Hardy-Weinberg and speciation."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide teaches topic 17, Selection and evolution, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers sections 17.1 Variation, 17.2 Natural and artificial selection and 17.3 Evolution. This is A Level content, not AS. It is examined on Paper 4 (A Level Structured Questions), and the t-test can also appear on Paper 5 (Planning, Analysis and Evaluation).

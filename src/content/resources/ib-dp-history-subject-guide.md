@@ -9,11 +9,9 @@ syllabusCodes: ["DP History"]
 syllabusSeries: "First assessment 2017"
 description: "An overview of IB DP History (first assessed 2017, examined to 2027): papers, weightings, six key concepts, SL and HL routes, and the changes due in 2028."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: rewritten to present the current course (first assessment 2017, last exams 2027) per owner decision; 2028 course moved to a labelled section; please re-review."
+reviewNote: "2026-11-08 recheck: rewritten to present the current course (first assessment 2017, last exams 2027) per owner decision; 2028 course moved to a labelled section; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -24,11 +24,9 @@ syllabusTopics:
     subtopic: "bit-manipulation"
 description: "Condensed recall notes on CPU architecture, assembly language tracing, and bit manipulation for Cambridge AS & A Level Computer Science (9618), Topic 4."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-05
 featured: false
 ---

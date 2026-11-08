@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "ib-dp-biology-unity-diversity"
 description: "Study guide to IB DP Biology Theme A, Unity and diversity: water, nucleic acids, origins of cells, cells, viruses, classification, evolution and conservation."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide covers **Theme A -- Unity and diversity** (19 hours SL / 33 hours HL) of IB Diploma

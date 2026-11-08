@@ -13,11 +13,9 @@ syllabusSeries: "Version 3.1 (May 2026), for first assessment in 2017"
 order: 3
 description: "How OCR A Level Chemistry A H432 Papers 1, 2 and 3 divide the modules, why Paper 3 is synoptic, the Practical Endorsement and a multi-step calculation routine."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-07
 featured: false
 ---

@@ -16,11 +16,9 @@ syllabusTopics:
     subtopic: "a-halogen-compounds"
 description: "Revision notes on making halogenoarenes with a halogen carrier and why chlorobenzene is far less reactive than chloroethane, for Cambridge 9701 Chemistry."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---

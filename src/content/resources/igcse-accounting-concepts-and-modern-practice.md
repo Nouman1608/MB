@@ -16,11 +16,9 @@ syllabusTopics:
     topic: "accounting-concepts-and-modern-practice"
 description: "Cambridge IGCSE Accounting 0452 Topic 7 guide: applying the ten concepts in the records, the five ethical principles, digital records and safe data storage."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 publishedDate: 2026-09-16
 featured: false
 ---

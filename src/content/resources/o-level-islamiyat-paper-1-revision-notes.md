@@ -24,11 +24,9 @@ syllabusTopics:
 description: "Revision notes on Cambridge O Level Islamiyat 2058 Paper 1: the question structure and marks, the Qur'an, the Prophet's life and the first Islamic community."
 seoDescription: "Free Cambridge O Level Islamiyat (2058) Paper 1 revision notes: exact question format, the Qur'an, and the Prophet's life, condensed for quick recall."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-08-25
 featured: false
 ---

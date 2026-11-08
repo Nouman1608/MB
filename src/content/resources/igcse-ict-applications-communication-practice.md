@@ -15,11 +15,9 @@ syllabusTopics:
     subtopic: "ict-applications-communication-0417"
 description: "Original exam-style practice questions with full worked answers on communication media and mobile communication for Cambridge IGCSE ICT 0417, section 6.1."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---

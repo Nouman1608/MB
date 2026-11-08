@@ -18,13 +18,11 @@ syllabusTopics:
     subtopic: "blood-aqa-gcse-biology"
 description: "Condensed AQA GCSE Biology 8461 notes on blood as a tissue: plasma, red and white blood cells, platelets, adaptations and blood products, with a self-test."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-11-05
 publishedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-11-05."
 ---
 
 These are condensed recall notes for **4.2.2.3 Blood** of the AQA GCSE Biology (8461) specification, Version 1.0,

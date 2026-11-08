@@ -25,11 +25,9 @@ description: "Cambridge IGCSE Sociology (0495) Paper 1 guide, 2025-2027: researc
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
-reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers **Paper 1 Research Methods, Identity and

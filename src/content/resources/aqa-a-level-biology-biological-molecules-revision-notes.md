@@ -15,13 +15,11 @@ syllabusTopics:
     topic: "biological-molecules-aqa-alevel-biology"
 description: "Condensed recall notes on carbohydrates, lipids, proteins, enzymes and food tests for AQA A Level Biology 7402."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

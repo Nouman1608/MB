@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "ib-dp-mathematics-applications-and-interpretation-statistics-and-probability"
 description: "Original IB DP Maths AI statistics and probability practice questions on averages, tree diagrams, correlation and the binomial model, with worked answers."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

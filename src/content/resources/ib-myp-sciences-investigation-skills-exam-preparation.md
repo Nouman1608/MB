@@ -14,11 +14,9 @@ syllabusTopics:
     topic: "ib-myp-sciences-assessment-criteria"
 description: "How to prepare for the IB MYP Sciences Investigation skills eAssessment task, worth 50 of 100 marks: hypotheses, variables, data processing and evaluation."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---

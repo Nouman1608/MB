@@ -21,11 +21,9 @@ syllabusTopics:
     subtopic: "section-b-child-language-acquisition-9093"
 description: "Condensed notes on Cambridge 9093 Paper 3 Language Analysis: processes and theories of language change, and the stages and theories of child language learning."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---

@@ -14,11 +14,9 @@ syllabusTopics:
     topic: "globalisation-of-trade-7100"
 description: "Guide to Topic 3 of Cambridge O Level Commerce 7100: international trade, Balance of Trade and Payments, trading blocs, trade restrictions and supply chains."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-09
 featured: false
 ---

@@ -13,11 +13,9 @@ description: "How Cambridge IGCSE Sociology 0495's two papers use different comp
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-09
 featured: false
-reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 Cambridge IGCSE Sociology (0495) is a linear, not-tiered qualification of two equally weighted written

@@ -21,11 +21,9 @@ description: "Condensed IB DP ESS revision notes on biomes, atmospheric cells, z
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
 ---
 
 For full explanations and worked examples, use the [climate, biomes, zonation and succession study guide](/resources/ib-dp-ess-climate-biomes-succession/). These notes condense it for the final weeks before your exams.

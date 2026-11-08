@@ -11,13 +11,11 @@ syllabusSeries: "First teaching 2024, first examined 2026"
 order: 3
 description: "How OxfordAQA International GCSE Accounting 9215's two 75-mark papers fit together, why there is no coursework, and a worked own-figure exam routine."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 ---
 
 OxfordAQA International GCSE Accounting (9215) is a linear, untiered qualification assessed entirely

@@ -9,13 +9,11 @@ syllabusCodes: ["DP Business Management"]
 syllabusSeries: "First assessment 2024"
 description: "Overview of IB DP Business Management: its four concepts, five units, toolkit and how SL and HL are assessed, including the pre-released Paper 1 statement."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 IB Diploma Programme Business Management is designed to meet the needs

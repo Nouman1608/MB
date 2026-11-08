@@ -27,13 +27,11 @@ syllabusTopics:
     subtopic: "mass-transport-aqa-alevel-biology"
 description: "Surface area to volume ratio, gas exchange, digestion and absorption, and mass transport in animals and plants: section 3.3 of AQA A-level Biology (7402)."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide covers **3.3 Organisms exchange substances with their environment**, the third of eight

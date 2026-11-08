@@ -36,11 +36,9 @@ syllabusTopics:
     subtopic: "pressure-cambridge-igcse-physics"
 description: "Condensed recall notes on speed, acceleration, mass and weight, density, forces, momentum, energy and pressure for Cambridge IGCSE Physics 0625 Topic 1."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-08-29
 updatedDate: 2026-09-28
 featured: false

@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "organisation-oxfordaqa-igcse-biology"
 description: "Cell structure, tissues, organs, organ systems and transport in cells, covering Topic 1 Organisation of OxfordAQA International GCSE Biology 9201."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide covers **Topic 1 Organisation**, the first of six topics

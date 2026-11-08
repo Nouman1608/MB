@@ -14,11 +14,9 @@ syllabusTopics:
     topic: "data-and-its-collection-0479"
 description: "Condensed recall notes on data types, sampling methods and bias for Cambridge IGCSE Statistics 0479."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---

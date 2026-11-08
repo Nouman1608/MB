@@ -11,13 +11,11 @@ syllabusSeries: "First assessment 2025"
 order: 2
 description: "The four themes of IB Diploma Programme Biology, their sub-topics, HL-only content and recommended SL and HL teaching hours, for first assessment 2025."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide covers the full syllabus structure of **IB Diploma Programme

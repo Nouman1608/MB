@@ -18,11 +18,9 @@ syllabusTopics:
     subtopic: "circular-measure-cambridge-alevel-maths"
 description: "Twelve original circular measure questions on radians, arcs, sectors, segments and tangents, with mark-by-mark answers, for Cambridge 9709 Paper 1."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---

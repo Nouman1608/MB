@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "matter-ocr-gcse"
 description: "The particle model, changes of state, and pressure -- the full content of Topic 1 Matter for OCR GCSE (9-1) Physics A (Gateway Science) (J249)."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 ---
 
 This guide covers **Topic 1 Matter**, the first of eight content

@@ -20,11 +20,9 @@ syllabusTopics:
     subtopic: "section-b-the-19th-century-novel-8702"
 description: "Condensed notes on AQA GCSE English Literature 8702 Paper 1: the closed-book Shakespeare and 19th-century novel sections, the AOs and how to answer."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-08-26
 featured: false
 ---

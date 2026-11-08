@@ -15,13 +15,11 @@ syllabusTopics:
     topic: "use-of-biological-resources-edexcel-igcse-biology"
 description: "Revision notes for Edexcel IGCSE Biology 4BI1 Topic 5: food production, fermenters, selective breeding, GM and cloning, with a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 These notes condense Topic 5, **Use of biological resources** (points 5.1–5.20), of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3, for the June and November series examined under Issue 3. The course is untiered; points 5.9B and 5.17B–5.20B are bold **B** statements and are examined on Paper 2 only. For full explanations and worked examples, read the [study guide](/resources/edexcel-igcse-biology-4bi1-use-of-biological-resources/) first.

@@ -25,13 +25,11 @@ syllabusTopics:
     subtopic: "conservation-cambridge-alevel-biology"
 description: "Study guide for Cambridge 9700 topic 18: species concepts, domains and kingdoms, sampling, Simpson's index, correlation tests and conservation."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide teaches topic 18, Classification, biodiversity and conservation, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers every learning outcome in sections 18.1 to 18.3. This is A Level content, examined on Paper 4 (A Level Structured Questions), not on the AS papers. The syllabus says Paper 4 and Paper 5 may include questions using its statistical tests, so the correlation work also matters for Paper 5.

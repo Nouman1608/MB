@@ -16,11 +16,9 @@ syllabusTopics:
     subtopic: "control-accounts-yac11"
 description: "Revision notes on control accounts, error correction, suspense accounts and statements of revised profit for Edexcel IAL Accounting (YAC11), 1.2.3 to 1.2.9."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---

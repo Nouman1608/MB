@@ -20,11 +20,9 @@ syllabusTopics:
     subtopic: "global-supply-chain-management-0715"
 description: "Recall notes for Cambridge IGCSE Commerce 0715 Topic 3: benefits and challenges of trade, Balance of Trade and Payments, trading blocs and supply chain risk."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-05
 featured: false
 ---

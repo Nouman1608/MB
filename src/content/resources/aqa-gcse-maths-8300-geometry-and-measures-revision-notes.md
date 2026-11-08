@@ -15,13 +15,11 @@ syllabusTopics:
     topic: "geometry-and-measures-aqa-gcse-maths"
 description: "Condensed AQA GCSE Maths 8300 geometry revision notes: formulas to know, angle reasons, circle theorems, trig, similarity, vectors and a quick self-test."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 These notes cover Topic 4, **Geometry and measures** (references G1–G25), of the AQA GCSE Mathematics (8300) specification, Version 1.0, for exams in May/June 2017 onwards and every May/June and November series after that. Content from the specification's "Higher content only" column is marked **Higher tier only**; everything else can be set on both tiers. Geometry appears on the non-calculator Paper 1 as well as the calculator Papers 2 and 3.

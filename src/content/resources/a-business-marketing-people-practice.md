@@ -15,13 +15,11 @@ syllabusTopics:
     topic: "marketing-and-people-edexcel-alevel-business"
 description: "Case-study practice questions with worked answers on market research, pricing, motivation and structure for Edexcel International A Level Business WBS11."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

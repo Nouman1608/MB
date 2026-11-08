@@ -15,11 +15,9 @@ syllabusTopics:
     subtopic: "thermodynamics-edexcel"
 description: "Recall notes on internal energy, specific heat capacity, latent heat, gas laws and kinetic theory for Edexcel IAL Physics YPH11 (Unit 5, WPH15)."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---

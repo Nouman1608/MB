@@ -15,11 +15,9 @@ syllabusTopics:
     topic: "international-economic-issues-a-cambridge-alevel-economics"
 description: "Cambridge 9708 A Level practice on international issues: globalisation, GNI per head, FDI, transfer pricing, exchange rates and Marshall-Lerner."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false

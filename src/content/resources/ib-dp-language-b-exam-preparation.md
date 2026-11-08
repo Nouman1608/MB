@@ -11,13 +11,11 @@ syllabusSeries: "First assessment 2020"
 order: 6
 description: "Exam preparation for IB DP Language B: matching Paper 1's text type to its purpose, finding specific detail in Paper 2 and developing the individual oral."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 The [assessment revision notes](/resources/ib-dp-language-b-assessment-revision-notes/) set out what

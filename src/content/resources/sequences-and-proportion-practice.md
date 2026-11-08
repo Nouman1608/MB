@@ -18,12 +18,10 @@ syllabusTopics:
     subtopic: "proportion"
 description: "Cambridge O Level Maths 4024 sequences and proportion practice: nth terms of linear, quadratic, cubic and exponential sequences, direct and inverse proportion."
 author: "muhammad-ghazali-siddiqui"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
-reviewNote: "2026-11-08 recheck: added Section C (combination sequence 2ⁿ + n, subscript notation, inverse square-root proportion, ∝ notation) and FAQ; corrected the cubic row of the sequence-type table (constant third difference); rewrote description. Please re-review."
+reviewNote: "2026-11-08 recheck: added Section C (combination sequence 2ⁿ + n, subscript notation, inverse square-root proportion, ∝ notation) and FAQ; corrected the cubic row of the sequence-type table (constant third difference); rewrote description. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 reviewNeeded: true
 ---
 > **These are original questions written for Marlbridge**, for revision and

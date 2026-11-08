@@ -24,11 +24,9 @@ description: "Condensed 9699 notes on intelligence and class in education: key t
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 These notes condense the [study guide for this unit](/resources/a-level-sociology-9699-intelligence-social-class-and-educational-attainment/); go there for full explanations and worked paragraphs.

@@ -21,11 +21,9 @@ syllabusTopics:
     subtopic: "fracking-5014-2027"
 description: "Fossil fuels, energy resources, energy demand, energy management and fracking: sub-topics 1.4 to 1.6 of the 2027-2029 O Level Environmental Management 5014."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-21
 featured: false
 ---

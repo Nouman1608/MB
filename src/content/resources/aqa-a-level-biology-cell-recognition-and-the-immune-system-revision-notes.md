@@ -19,13 +19,11 @@ syllabusTopics:
     subtopic: "cell-recognition-and-the-immune-system-aqa-alevel-biology"
 description: "Condensed AQA 7402 notes on 3.2.4: antigens, phagocytosis, T and B cells, antibodies, vaccines, HIV, monoclonal antibodies and ELISA, for A-level Biology."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-11-05
 publishedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-11-05."
 ---
 
 Short notes for the final weeks. These notes follow section 3.2.4, Cell recognition and the immune system, in the AQA AS and A-level Biology specification (A-level 7402), for first teaching 2015, exams June 2016 onwards. The section is part of the AS content, so nothing here is marked A-level only. Find the [AQA A-level Biology hub](/boards/aqa/a-level/biology/), tick off topics on the [checklist](/checklists/aqa/a-level/biology/), and use the free [diagnostics](/diagnostics/) to find weak spots. Virus structure and protein structure are in the [cell structure notes](/resources/aqa-a-level-biology-cell-structure-revision-notes/) and the [lipids and protein structure notes](/resources/aqa-a-level-biology-lipids-and-protein-structure-revision-notes/).

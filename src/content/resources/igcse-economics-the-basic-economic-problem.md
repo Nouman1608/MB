@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "the-basic-economic-problem-cambridge-igcse-economics"
 description: "Topic 1 of Cambridge IGCSE Economics 0455: finite resources and unlimited wants, factors of production, opportunity cost and production possibility curves."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **Topic 1 The basic economic problem**, for Cambridge

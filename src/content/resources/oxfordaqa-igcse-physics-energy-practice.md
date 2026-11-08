@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "energy-oxfordaqa-igcse"
 description: "Original practice questions with worked answers on work, kinetic and potential energy, power, efficiency and Sankey diagrams for OxfordAQA IGCSE Physics 9203."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

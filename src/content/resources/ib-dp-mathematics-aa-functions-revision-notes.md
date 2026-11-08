@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "ib-dp-mathematics-analysis-and-approaches-functions"
 description: "Revision notes on the Functions strand of IB DP Mathematics: Analysis and Approaches: inverses, composites, transformations and exp-log pairs, with a self-test."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 Functions carries 21 hours at SL and 32 at HL, as the

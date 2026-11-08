@@ -15,11 +15,9 @@ syllabusTopics:
     subtopic: "waves-and-particle-nature-of-light"
 description: "Original Edexcel IAL Physics Unit 2 questions with worked answers on waves, refraction, gratings, stationary waves, photons and the photoelectric effect."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: split the mixed standing-wave/intensity question, added path difference, Snell's law, string-speed, intensity, polarisation, pulse-echo, electron diffraction and energy-level questions and an FAQ; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: split the mixed standing-wave/intensity question, added path difference, Snell's law, string-speed, intensity, polarisation, pulse-echo, electron diffraction and energy-level questions and an FAQ; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---

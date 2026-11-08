@@ -21,11 +21,9 @@ syllabusTopics:
     subtopic: "fracking-5014-2027"
 description: "Practice questions with worked answers on energy resources, hydrogen fuels, heat pumps, battery storage and fracking for 2027-2029 Cambridge O Level 5014."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: expanded thin page with questions on energy management strategies (1.5.1, 1.5.3) and electricity generation (1.4.3), plus an FAQ; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: expanded thin page with questions on energy management strategies (1.5.1, 1.5.3) and electricity generation (1.4.3), plus an FAQ; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-21
 featured: false
 ---

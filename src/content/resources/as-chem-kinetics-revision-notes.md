@@ -22,13 +22,11 @@ syllabusTopics:
     subtopic: "as-homogeneous-and-heterogeneous-catalysts"
 description: "Condensed recall notes on collision theory, activation energy, the Boltzmann distribution and catalysis for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: expanded thin notes (opening answer, syllabus definition of activation energy and effective collisions, worked rate-from-mass-loss example, FAQ); noted surface area is outside the 8.1 outcomes; please re-review."
+reviewNote: "2026-11-08 recheck: expanded thin notes (opening answer, syllabus definition of activation energy and effective collisions, worked rate-from-mass-loss example, FAQ); noted surface area is outside the 8.1 outcomes; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 ---
 
 AS reaction kinetics in Cambridge AS & A Level Chemistry 9701 (Topic 8) explains rates using effective

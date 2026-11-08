@@ -16,11 +16,9 @@ description: "Revision notes on IB DP ESS Topic 1 Foundations: perspectives, sys
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
 ---
 
 Topic 1 -- Foundations is deliberately the first thing every ESS student studies, and, as the

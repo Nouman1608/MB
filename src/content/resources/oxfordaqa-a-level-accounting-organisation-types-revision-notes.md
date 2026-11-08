@@ -15,13 +15,11 @@ syllabusTopics:
     topic: "types-of-business-organisation-oxfordaqa"
 description: "OxfordAQA International A-level Accounting 9615 notes on sole traders, partnerships and limited companies: liability, reporting and sources of finance."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

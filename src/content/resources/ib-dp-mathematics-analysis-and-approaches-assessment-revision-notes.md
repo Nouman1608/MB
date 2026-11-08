@@ -10,13 +10,11 @@ syllabusSeries: "First assessment 2021"
 order: 1
 description: "How IB DP Mathematics: Analysis and Approaches is assessed at SL and HL: paper weightings, the no-calculator Paper 1, HL Paper 3 and the 20% exploration."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the

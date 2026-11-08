@@ -47,13 +47,11 @@ syllabusTopics:
     subtopic: "the-legal-system-access-to-justice-and-funding-7162"
 description: "Nature of law, the rule of law, law making and the legal system: Section 3.1 of AQA A Level Law 7162, examined at 25 marks on each of the three papers."
 author: "marlbridge-academic-team"
-reviewer: "aizaz-raoof-ali"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
 ---
 
 This guide covers **Section 3.1 The Nature of Law and the English

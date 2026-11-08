@@ -32,11 +32,9 @@ description: "OxfordAQA International A-level Sociology (9690) Unit 1 recall not
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
-reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: expanded thin page with 3.1.3.2-3.1.3.4 methods, research issues and data interpretation, plus an FAQ; please re-review."
+reviewNote: "2026-11-08 recheck: expanded thin page with 3.1.3.2-3.1.3.4 methods, research issues and data interpretation, plus an FAQ; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

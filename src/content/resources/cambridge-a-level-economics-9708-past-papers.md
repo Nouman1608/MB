@@ -11,11 +11,9 @@ syllabusCodes: ["9708"]
 order: 1
 description: "Cambridge 9708 Economics past papers guide: grade thresholds for 17 series from March 2020 to November 2025 and examiner report notes for 15."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---

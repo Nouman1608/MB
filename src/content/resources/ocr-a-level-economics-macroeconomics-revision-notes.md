@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "macroeconomics-ocr-alevel-economics"
 description: "Condensed revision notes on AD/AS, the multiplier, policy objectives, the Phillips curve and policy conflicts for OCR A Level Economics (H460) Component 2."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

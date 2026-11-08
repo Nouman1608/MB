@@ -11,13 +11,11 @@ syllabusSeries: "Version 2.0 (June 2026), for first assessment in 2019"
 order: 3
 description: "How synoptic assessment on both OCR GCSE Economics (J205) papers shapes revision: pacing 80 marks in 90 minutes, labelled diagrams and a reasoning routine."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 OCR GCSE (9-1) Economics (J205) is untiered and linear, with two compulsory components of equal size:

@@ -11,11 +11,9 @@ syllabusSeries: "Version 2.1 (August 2026), for first assessment in 2017"
 order: 3
 description: "OCR GCSE Maths J560 exam preparation: three 100-mark papers per tier, one non-calculator paper, any topic on any paper, and a routine to secure method marks."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-07
 featured: false
 ---

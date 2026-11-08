@@ -26,11 +26,9 @@ syllabusTopics:
     subtopic: "network-hardware-0478"
 description: "Guide to Topic 3 of Cambridge IGCSE Computer Science 0478 (2026-2028): CPU architecture, fetch-execute, input and output devices, sensors, storage, networks."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---

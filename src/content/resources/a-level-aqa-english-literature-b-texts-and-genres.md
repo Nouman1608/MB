@@ -20,13 +20,11 @@ syllabusTopics:
     subtopic: "option-2b-elements-of-political-and-social-protest-writing-7717"
 description: "Option 2A crime and Option 2B protest writing: exam structure, current set-text lists and text rules for AQA A-Level English Literature B Paper 2 (7717)."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: set-text lists completed from spec v1.5.1 (Kala 2027, Brotherless Night, named poems; Handmaid's Tale is not post-2000), Section C rubric wording, FAQ added; please re-review."
+reviewNote: "2026-11-08 recheck: set-text lists completed from spec v1.5.1 (Kala 2027, Brotherless Night, named poems; Handmaid's Tale is not post-2000), Section C rubric wording, FAQ added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide covers **Paper 2 Texts and Genres**, the second of two exam

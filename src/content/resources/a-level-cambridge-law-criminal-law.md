@@ -24,13 +24,11 @@ syllabusTopics:
     subtopic: "sentencing-in-england-and-wales-9084"
 description: "Elements of a crime, theft and other property offences, criminal damage, fraud and sentencing: Topic 2 of Cambridge AS and A Level Law 9084, on Paper 2."
 author: "marlbridge-academic-team"
-reviewer: "aizaz-raoof-ali"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
 ---
 
 Topic 2 Criminal Law is assessed on **Paper 2 Criminal Law** (1 hour

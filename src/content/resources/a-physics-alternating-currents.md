@@ -19,11 +19,9 @@ syllabusTopics:
     subtopic: "a-rectification-and-smoothing"
 description: "Alternating current and voltage, r.m.s. values, mean power, half-wave and full-wave rectification with smoothing: Topic 21 of Cambridge A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

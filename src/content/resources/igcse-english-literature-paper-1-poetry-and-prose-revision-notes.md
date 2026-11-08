@@ -21,13 +21,11 @@ syllabusTopics:
 description: "Exam technique for Cambridge IGCSE Literature in English 0475 Paper 1: answer structure, quotation use, the command word Explore and how the AOs are marked."
 seoDescription: "Cambridge IGCSE Literature 0475 Paper 1 revision notes: answer structure, quotation technique, the command word 'Explore', and how marks are awarded."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-01
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description shortened to 140-160 characters and FAQ added; please re-review."
+reviewNote: "2026-11-08 recheck: description shortened to 140-160 characters and FAQ added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 These revision notes cover exam technique for **Paper 1 – Poetry and

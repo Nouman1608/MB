@@ -15,11 +15,9 @@ syllabusTopics:
     subtopic: "ib-dp-physics-a-2"
 description: "Condensed recall notes on Newton's laws, forces, momentum, impulse, collisions and circular motion for IB DP Physics A.2, identical at SL and HL."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---

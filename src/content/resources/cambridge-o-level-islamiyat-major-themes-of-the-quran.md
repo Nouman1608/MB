@@ -17,11 +17,9 @@ syllabusTopics:
     subtopic: "major-themes-quran-2058"
 description: "Subtopic 1.1 of Cambridge O Level Islamiyat 2058, Major themes of the Qur'an: God in Himself, God and creation, and God's Messengers, with exam guidance."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-09
 featured: false
 ---

@@ -16,11 +16,9 @@ syllabusTopics:
     subtopic: "chemical-formulae-equations-and-calculations-4ch1"
 description: "Eleven original 4CH1 Chemistry questions on equations, moles, reacting masses, yield, empirical formulae, concentration and gas volumes, fully marked."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---

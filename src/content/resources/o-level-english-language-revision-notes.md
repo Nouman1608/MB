@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "reading-1123"
 description: "Condensed notes on both papers of Cambridge O Level English Language 1123 (2024-2026): structure, word limits, R1-R5 and W1-W5 objectives, technique and traps."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: thin page expanded (direct-answer opening, composition length 350-450 words from the syllabus, FAQ); please re-review."
+reviewNote: "2026-11-08 recheck: thin page expanded (direct-answer opening, composition length 350-450 words from the syllabus, FAQ); please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 **How is Cambridge O Level English Language 1123 assessed?** Two 2-hour papers, each worth 50 marks

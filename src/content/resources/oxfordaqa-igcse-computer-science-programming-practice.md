@@ -29,13 +29,11 @@ syllabusTopics:
     subtopic: "boolean-operations-9210"
 description: "Original practice questions with worked answers on data types, programming constructs and arithmetic, relational and Boolean operators for OxfordAQA IGCSE 9210."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

@@ -14,11 +14,9 @@ syllabusTopics:
     topic: "ib-dp-chemistry-reactivity-3"
 description: "IB DP Chemistry Reactivity 3 guide: proton transfer, electron transfer, electron sharing and electron-pair sharing reactions, with SL and HL scope."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---

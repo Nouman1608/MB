@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "cell-level-systems-ocr-gcse-biology"
 description: "Condensed recall notes on cell structure, microscopy, enzymes, respiration, photosynthesis and DNA for OCR GCSE Biology J247."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

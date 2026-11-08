@@ -18,13 +18,11 @@ syllabusTopics:
     subtopic: "specialised-cells-tissues-and-organs"
 description: "Animal, plant and bacterial cell structure, cell specialisation, and the organisation of cells into tissues and organs, for Cambridge O Level Biology 5090."
 author: "saad-zai"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: expanded thin page (opening answer, slide preparation and drawing rules for 1.1.1-1.1.2, magnification rearrangement with unit conversion, specialised cell table, FAQ); please re-review."
+reviewNote: "2026-11-08 recheck: expanded thin page (opening answer, slide preparation and drawing rules for 1.1.1-1.1.2, magnification rearrangement with unit conversion, specialised cell table, FAQ); please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Cells are the basic units of living things. For Cambridge O Level Biology

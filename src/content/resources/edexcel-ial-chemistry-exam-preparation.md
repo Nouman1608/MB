@@ -13,13 +13,11 @@ syllabusSeries: "For first teaching 2018"
 order: 3
 description: "Edexcel IAL Chemistry YCH11 exam preparation: unit weightings, why Units 3 and 6 are written practical papers, the 20% maths demand and mechanism routines."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 ---
 
 Edexcel International A Level Chemistry (YCH11) is modular, with three International Advanced

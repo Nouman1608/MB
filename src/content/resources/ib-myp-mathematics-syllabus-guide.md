@@ -11,13 +11,11 @@ syllabusSeries: "From 2020, first assessment 2022"
 order: 2
 description: "The IB MYP Mathematics framework: its four branches, key and related concepts, the four assessment criteria and the eAssessment structure, first assessed 2022."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This guide covers the full framework of **IB Middle Years Programme

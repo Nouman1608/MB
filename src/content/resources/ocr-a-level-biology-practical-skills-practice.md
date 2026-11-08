@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "development-of-practical-skills-in-biology-ocr-alevel-biology"
 description: "Exam-style questions with worked answers on variables, reliability, validity, error, uncertainty and graph choice for OCR A Level Biology A (H420)."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

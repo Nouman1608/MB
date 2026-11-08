@@ -19,11 +19,9 @@ syllabusTopics:
     subtopic: "distribution-of-income-aqa-gcse-economics"
 description: "Condensed AQA GCSE Economics revision notes for 3.2.2.5 and 3.2.2.6: current account calculations, deficits and surpluses, inequality and redistribution."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-11-05
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-11-05."
 publishedDate: 2026-11-05
 featured: false
 ---

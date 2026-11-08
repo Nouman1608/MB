@@ -15,11 +15,9 @@ syllabusTopics:
     topic: "unit-1-structure-bonding-organic-chemistry-ych11"
 description: "Revision notes for Pearson Edexcel International A Level Chemistry YCH11 on bonding, molecular shapes, intermolecular forces, naming and organic mechanisms."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---

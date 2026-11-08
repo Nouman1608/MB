@@ -20,11 +20,9 @@ syllabusTopics:
     subtopic: "rightly-guided-caliphs-2058"
 description: "Paper 2 of Cambridge O Level Islamiyat 2058 (2026-2027): the teachings and history of the Hadiths, the Rightly Guided Caliphs, and Articles and Pillars."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-01
 featured: false
 ---

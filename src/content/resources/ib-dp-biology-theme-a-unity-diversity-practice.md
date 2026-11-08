@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "ib-dp-biology-unity-diversity"
 description: "Original IB DP Biology Theme A practice questions with worked answers on water, nucleic acids, cells, viruses, cladistics, evolution and conservation."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

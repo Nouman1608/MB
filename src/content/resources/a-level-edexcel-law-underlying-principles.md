@@ -20,13 +20,11 @@ syllabusTopics:
     subtopic: "the-sources-of-english-law-its-enforcement-and-administration-yla1"
 description: "Legal theory, law and morality, law making, interpretation, the courts and legal personnel: Paper 1 of Pearson Edexcel International A Level Law."
 author: "marlbridge-academic-team"
-reviewer: "aizaz-raoof-ali"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
 ---
 
 This guide covers **Paper 1 Underlying Principles of Law and the

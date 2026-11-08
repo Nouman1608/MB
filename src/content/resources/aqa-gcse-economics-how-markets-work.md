@@ -14,11 +14,9 @@ syllabusTopics:
     topic: "how-markets-work-aqa-gcse-economics"
 description: "AQA GCSE Economics (8136) Paper 1 How markets work: a specification map, with notes on demand, supply, equilibrium, elasticity, competition and market failure."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---

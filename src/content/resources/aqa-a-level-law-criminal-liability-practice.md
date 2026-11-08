@@ -15,13 +15,11 @@ syllabusTopics:
     subtopic: "general-elements-of-liability-7162"
 description: "Original practice questions with worked answers on actus reus, mens rea, causation, omissions, transferred malice and strict liability for AQA A Level Law 7162."
 author: "marlbridge-academic-team"
-reviewer: "aizaz-raoof-ali"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-04
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

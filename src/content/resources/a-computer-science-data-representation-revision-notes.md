@@ -24,11 +24,9 @@ syllabusTopics:
     subtopic: "compression"
 description: "Cambridge 9618 AS revision notes for Topic 1: binary prefixes, BCD, one's and two's complement, binary arithmetic, character sets, multimedia and compression."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: expanded thin page with 1.1-1.3 content it lacked (binary vs decimal prefixes, BCD and uses, one's complement, binary subtraction, file header, screen resolution, vector terms, compression by file type) and an FAQ; please re-review."
+reviewNote: "2026-11-08 recheck: expanded thin page with 1.1-1.3 content it lacked (binary vs decimal prefixes, BCD and uses, one's complement, binary subtraction, file header, screen resolution, vector terms, compression by file type) and an FAQ; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---

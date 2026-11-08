@@ -17,11 +17,9 @@ description: "Globalisation, media, and religion -- the full content of Paper 4 
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-01
 featured: false
-reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 This guide covers **Paper 4 Globalisation, Media and Religion**, an A

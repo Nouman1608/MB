@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "macroeconomics-ocr-alevel-economics"
 description: "Syllabus map and study guide to OCR A Level Economics (H460) Component 2: AD/AS, policy objectives, fiscal and monetary policy, global context and finance."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **Component 2: Macroeconomics (H460/02)**, one of

@@ -19,11 +19,9 @@ syllabusTopics:
     subtopic: "as-mass-spectrometry"
 description: "Revision notes for Cambridge AS & A Level Chemistry 9701 on IR absorptions, identifying functional groups, molecular ions, fragmentation and isotope peaks."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---

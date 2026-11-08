@@ -11,11 +11,9 @@ syllabusSeries: "For first teaching 2016"
 order: 3
 description: "Exam guide to OxfordAQA International A-level Biology 9610: five equally weighted papers, ten required practicals assessed in writing, resits and AS cash-in."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 publishedDate: 2026-09-09
 featured: false
 ---

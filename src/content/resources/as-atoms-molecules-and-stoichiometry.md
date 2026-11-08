@@ -25,11 +25,9 @@ syllabusTopics:
     subtopic: "as-reacting-masses-and-volumes-of-solutions-and-gases"
 description: "Cambridge AS & A Level Chemistry 9701 stoichiometry: ionic formulae from oxidation numbers, ionic equations, limiting reagents, yield and gas volumes."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

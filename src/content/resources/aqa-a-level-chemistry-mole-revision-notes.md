@@ -19,13 +19,11 @@ syllabusTopics:
     subtopic: "the-mole-and-the-avogadro-constant-7405"
 description: "Condensed notes on relative atomic and molecular mass, the mole, the Avogadro constant and mole calculations for AQA A-Level Chemistry 7405, 3.1.2.1-3.1.2.2."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

@@ -21,13 +21,11 @@ syllabusTopics:
     subtopic: "section-b-language-and-social-groups-writing-9670"
 description: "OxfordAQA International AS English Language 9670 Unit 2 Language and Society: language and social groups, text analysis and academic writing, with the format."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide covers **Unit 2 Language and Society**, the second of two

@@ -22,13 +22,11 @@ syllabusTopics:
     subtopic: "chromosome-behaviour-in-mitosis-cambridge-alevel"
 description: "Study guide for Cambridge 9700 topic 5: chromosome structure, the cell cycle, telomeres, stem cells, tumours and mitosis stages, with worked examples."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This study guide teaches topic 5, The mitotic cell cycle, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers sub-topics 5.1 (Replication and division of nuclei and cells) and 5.2 (Chromosome behaviour in mitosis). All of it is AS Level content, so it is tested on Paper 1 (multiple choice) and Paper 2 (AS Level structured questions), and Paper 4 can draw on it because A Level questions require AS knowledge. Outcome 5.2.2 asks you to interpret microscope slides, a skill that also belongs to the practical work assessed in Paper 3.

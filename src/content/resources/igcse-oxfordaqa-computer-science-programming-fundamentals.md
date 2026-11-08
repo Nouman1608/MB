@@ -29,11 +29,9 @@ syllabusTopics:
     subtopic: "boolean-operations-9210"
 description: "Guide to OxfordAQA International GCSE Computer Science 9210 sections 3.2.1 to 3.2.5: data types, the three constructs, and arithmetic and logic operators."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-02
 featured: false
 ---

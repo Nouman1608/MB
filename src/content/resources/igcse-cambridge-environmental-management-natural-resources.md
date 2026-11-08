@@ -26,11 +26,9 @@ syllabusTopics:
     subtopic: "energy-resources-0680"
 description: "Rock formation, extraction and sustainable management of ores, fossil fuels, renewable and nuclear energy and energy demand for Cambridge IGCSE 0680 Topic 1."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description claimed fracking coverage the body lacked; corrected description, added nuclear, tidal and wave power, electricity generation, energy demand factors (1.4.5), a pointer to the 1.5-1.6 guide and an FAQ; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: description claimed fracking coverage the body lacked; corrected description, added nuclear, tidal and wave power, electricity generation, energy demand factors (1.4.5), a pointer to the 1.5-1.6 guide and an FAQ; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---

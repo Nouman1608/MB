@@ -24,11 +24,9 @@ syllabusTopics:
     subtopic: "equations"
 description: "Cambridge O Level Maths (4024) revision notes on expanding brackets, factorising, completing the square, algebraic fractions and the quadratic formula."
 author: "muhammad-ghazali-siddiqui"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---

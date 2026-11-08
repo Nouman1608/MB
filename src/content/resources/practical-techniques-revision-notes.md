@@ -36,11 +36,9 @@ syllabusTopics:
     subtopic: "separation-and-purification"
 description: "Recall notes for Cambridge IGCSE 0620 and O Level 5070 practical techniques: apparatus, solution terms, titration, chromatography, Rf and separation methods."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---

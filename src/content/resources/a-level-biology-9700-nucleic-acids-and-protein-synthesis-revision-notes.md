@@ -22,13 +22,11 @@ syllabusTopics:
     subtopic: "protein-synthesis-cambridge-alevel-biology"
 description: "Condensed notes on DNA and RNA structure, replication, the genetic code, transcription, translation and mutations, with a self-test, for Cambridge 9700."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Condensed for the final weeks. For full explanations and worked examples, use the [nucleic acids and protein synthesis study guide](/resources/a-level-biology-9700-nucleic-acids-and-protein-synthesis/).

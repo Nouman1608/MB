@@ -21,14 +21,12 @@ syllabusTopics:
     subtopic: "active-transport-cambridge-igcse-biology"
 description: "Diffusion, osmosis and active transport, with the Core and Supplement split marked as the syllabus states it, for Topic 3 of Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 updatedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Topic 3 of Cambridge IGCSE Biology (0610) covers the three ways

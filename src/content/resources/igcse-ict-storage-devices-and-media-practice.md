@@ -18,13 +18,11 @@ syllabusTopics:
     subtopic: "storage-media-0417"
 description: "Original exam-style storage questions with worked answers: devices versus media, and magnetic, optical and solid-state choices for Cambridge IGCSE ICT 0417."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

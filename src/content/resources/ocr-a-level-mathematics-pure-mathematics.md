@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "pure-mathematics-ocr-alevel-maths"
 description: "Guide to pure mathematics in OCR A Level Mathematics A (H240): proof, algebra, coordinate geometry, sequences, trigonometry, calculus and vectors."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This guide covers **Pure mathematics**, the first of three

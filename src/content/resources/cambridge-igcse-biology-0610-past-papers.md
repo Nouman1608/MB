@@ -11,13 +11,11 @@ syllabusCodes: ["0610"]
 order: 1
 description: "Cambridge IGCSE Biology 0610 past papers guide: grade thresholds and examiner report notes for the March, June and November series, 2022 to 2024."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-28
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This page is a guide to Cambridge IGCSE Biology (0610) past papers for nine series: March, June and November in 2022, 2023 and 2024. For each series you get the grade thresholds, copied from Cambridge's official grade-threshold documents, and our notes on what the examiners said, written in our own words from Cambridge's Principal Examiner Reports for Teachers. We do not host any papers. Every paper, mark scheme and report comes from Cambridge's own website, linked below.

@@ -29,11 +29,9 @@ description: "Condensed AQA GCSE Sociology 8192 Education notes: key terms, the 
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 For full explanations and worked paragraphs, read the [Education study guide](/resources/aqa-gcse-sociology-8192-education/) first.

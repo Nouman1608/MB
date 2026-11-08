@@ -24,11 +24,9 @@ syllabusTopics:
     subtopic: "light-and-sound"
 description: "Recall notes on wave properties, the Doppler effect, the electromagnetic spectrum, refraction and sound for Edexcel International GCSE Physics 4PH1."
 author: "marlbridge-academic-team"
-reviewer: "iftikhar-azeemi"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---

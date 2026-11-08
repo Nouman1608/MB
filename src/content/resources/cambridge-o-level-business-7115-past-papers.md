@@ -11,11 +11,9 @@ syllabusCodes: ["7115"]
 order: 1
 description: "Cambridge O Level Business Studies 7115 past papers: grade thresholds and examiner report notes for June and November 2022 to 2024."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-28
 featured: false
 ---

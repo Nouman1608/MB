@@ -20,13 +20,11 @@ syllabusTopics:
     subtopic: "section-b-composition-9270"
 description: "OxfordAQA International GCSE English Language 9270 Paper 1: literary non-fiction analysis and composition writing, with duration, marks and weighting."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide covers **Paper 1 Literary Non-fiction and Composition**,

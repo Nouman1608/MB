@@ -15,11 +15,9 @@ syllabusTopics:
     subtopic: "oscillations-edexcel"
 description: "Simple harmonic motion, its equations and graphs, energy in oscillations, resonance and damping: sub-topic 5.5 of Edexcel IAL Physics (YPH11), Unit 5."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-09-27
 featured: false

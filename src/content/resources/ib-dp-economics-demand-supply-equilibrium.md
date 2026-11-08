@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "ib-dp-economics-unit-2"
 description: "Study guide to demand, supply and competitive market equilibrium, IB DP Economics sub-topics 2.1 to 2.3, with the price mechanism and allocative efficiency."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **sub-topics 2.1 to 2.3** of Unit 2 Microeconomics —

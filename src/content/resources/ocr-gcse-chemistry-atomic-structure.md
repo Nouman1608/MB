@@ -14,11 +14,9 @@ syllabusTopics:
     subtopic: "c1-2-atomic-structure-j248"
 description: "OCR GCSE Chemistry A (J248) C1.2 Atomic structure: how the atomic model changed, the size of atoms, and counting protons, neutrons and electrons in ions."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-18
 featured: false
 ---

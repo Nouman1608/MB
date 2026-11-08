@@ -15,11 +15,9 @@ syllabusTopics:
     subtopic: "natural-resources-sustainability-2059"
 description: "Revision notes on water, forests, minerals and fish, with the sustainability evaluation Paper 2 rewards, for Cambridge O Level Pakistan Studies 2059 Section 2."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-05
 featured: false
 ---

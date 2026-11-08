@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "equations-formulae-and-identities-edexcel-igcse-maths"
 description: "Higher tier Edexcel IGCSE Maths 4MA1 sub-topics 2.1-2.2: fractional and negative indices, expanding, factorising, algebraic fractions and completing the square."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This guide covers **sub-topics 2.1 Use of Symbols and 2.2 Algebraic

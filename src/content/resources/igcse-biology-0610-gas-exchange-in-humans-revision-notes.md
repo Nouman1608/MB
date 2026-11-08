@@ -18,13 +18,11 @@ syllabusTopics:
     subtopic: "gas-exchange-in-humans-cambridge-igcse-biology"
 description: "Condensed notes on gas exchange for Cambridge IGCSE Biology 0610: key terms, the ventilation sequence, air composition, a self-test and common mark losses."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 For full explanations and worked examples, use the [gas exchange study guide](/resources/igcse-biology-0610-gas-exchange-in-humans/). These notes condense Topic 11, Gas exchange in humans (section 11.1), of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. Core outcomes 11.1.1 to 11.1.5 are for everyone. Supplement outcomes 11.1.6 to 11.1.11 are marked **Extended only**, for candidates taking Papers 2 and 4.

@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "reading-1123"
 description: "Cambridge O Level English Language 1123 Paper 1 Reading, section by section: comprehension, use of language, summary and short response, and the marking."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 Paper 1 – Reading carries exactly half of the marks in Cambridge O Level

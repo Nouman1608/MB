@@ -23,11 +23,9 @@ syllabusTopics:
     subtopic: "data-storage-and-compression-0478"
 description: "Guide to Topic 1 of Cambridge IGCSE Computer Science 0478 (2026-2028): binary, hexadecimal, two's complement, text, sound and images, storage and compression."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-08-21
 featured: false
 ---

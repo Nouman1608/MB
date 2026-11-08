@@ -21,12 +21,10 @@ syllabusTopics:
     subtopic: "b5-inequalities-aqa-alevel-maths"
 description: "AQA A-level Maths 7357 B3-B5 practice with worked answers: discriminant, completing the square, linear-quadratic simultaneous equations and inequalities."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
-reviewNote: "2026-11-08 recheck: added B4 and B5 subtopic mapping (the page already practised both), intro naming 7357 B3-B5, two questions (linear-quadratic pair; combined inequalities in set notation) and FAQ; replaced an incorrect claim that B4 requires both elimination and substitution. Please re-review."
+reviewNote: "2026-11-08 recheck: added B4 and B5 subtopic mapping (the page already practised both), intro naming 7357 B3-B5, two questions (linear-quadratic pair; combined inequalities in set notation) and FAQ; replaced an incorrect claim that B4 requires both elimination and substitution. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 reviewNeeded: true
 ---
 

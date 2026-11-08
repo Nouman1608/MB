@@ -14,11 +14,9 @@ syllabusTopics:
     topic: "energy-and-the-environment-5014"
 description: "Practice questions with worked answers on fossil fuels, energy resources, energy demand and oil pollution for the 2025-2026 Cambridge O Level 5014 syllabus."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---

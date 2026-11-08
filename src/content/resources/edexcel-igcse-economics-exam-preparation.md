@@ -11,13 +11,11 @@ syllabusSeries: "Specification Issue 3, February 2026"
 order: 3
 description: "Exam technique for Edexcel IGCSE Economics 4EC1: timing four compulsory 20-mark questions per paper, the micro and macro papers, data response and evaluation."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 Pearson Edexcel International GCSE Economics 4EC1 is assessed by two externally assessed written

@@ -15,13 +15,11 @@ syllabusTopics:
     topic: "enzymes-cambridge-alevel-biology"
 description: "Condensed Cambridge 9700 Topic 3 enzyme notes: lock-and-key and induced fit, rate factors, Vmax and Km, inhibitors and immobilised enzymes, with exam traps."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

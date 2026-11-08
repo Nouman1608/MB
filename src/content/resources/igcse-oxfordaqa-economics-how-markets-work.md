@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "how-markets-work-oxfordaqa-igcse-economics"
 description: "Topic 1 of OxfordAQA International GCSE Economics 9214: scarcity, resource allocation, demand and supply, costs and profit, market structures, market failure."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 This guide covers **Topic 1 How markets work**, one of two equally

@@ -11,13 +11,11 @@ syllabusSeries: "First assessment 2021"
 order: 3
 description: "Exam preparation for IB DP Maths Applications and Interpretation: GDC fluency on every paper, interpreting results in context, HL Paper 3 and a checklist."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 The [assessment revision notes](/resources/ib-dp-mathematics-applications-and-interpretation-assessment-revision-notes/)

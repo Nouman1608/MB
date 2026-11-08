@@ -24,11 +24,9 @@ description: "Condensed IB DP ESS revision notes on biodiversity, evolution, thr
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
 ---
 
 These are condensed revision notes. For full explanations and longer worked examples, read the [biodiversity and conservation study guide](/resources/ib-dp-ess-biodiversity-conservation/) first.

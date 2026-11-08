@@ -22,13 +22,11 @@ syllabusTopics:
     subtopic: "antibodies-and-vaccination-cambridge-alevel-biology"
 description: "Study guide to phagocytes, antigens, primary and secondary responses, antibodies, monoclonal antibodies and vaccination for Cambridge 9700 AS Biology."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This study guide teaches topic 11 **Immunity** of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers section 11.1 The immune system (learning outcomes 1–4) and section 11.2 Antibodies and vaccination (learning outcomes 1–6). This is AS Level content, examined on Paper 1 (Multiple Choice) and Paper 2 (AS Level Structured Questions); the syllabus says Paper 4 also needs knowledge of AS Level content. There is no Core/Supplement split: every outcome applies to all candidates.

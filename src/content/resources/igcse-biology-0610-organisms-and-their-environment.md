@@ -27,13 +27,11 @@ syllabusTopics:
     subtopic: "populations-cambridge-igcse-biology"
 description: "Study guide for Cambridge IGCSE Biology 0610 topic 19: energy flow, food webs, ecological pyramids, carbon and nitrogen cycles, and population growth."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This study guide teaches topic 19, Organisms and their environment, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. It covers syllabus sections 19.1 to 19.4: energy flow, food chains and food webs, nutrient cycles and populations. Everything here is Core unless it is labelled **Extended only** (Supplement content). Core candidates are examined on Papers 1 and 3; Extended candidates sit Papers 2 and 4, which test Core and Supplement content together.

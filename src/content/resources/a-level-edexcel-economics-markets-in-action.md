@@ -15,11 +15,9 @@ syllabusTopics:
     topic: "markets-in-action-edexcel-alevel-economics"
 description: "Edexcel International A Level Economics Unit 1 (WEC11/01) guide: scarcity, demand and supply, elasticity, price, market failure and intervention."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-08-21
 updatedDate: 2026-11-05
 featured: false

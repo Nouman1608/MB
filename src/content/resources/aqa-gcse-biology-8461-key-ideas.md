@@ -15,13 +15,11 @@ syllabusTopics:
     topic: "key-ideas-aqa-gcse-biology"
 description: "Study guide to the nine AQA GCSE Biology 8461 key ideas, showing where each appears in the specification and how to use them in linked answers."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This study guide teaches section 4.8, **Key ideas**, of the AQA GCSE Biology (8461) specification, for first teaching 2016 with exams from 2018 (version 1.0). The specification says these ideas are embedded throughout the subject content and underpin many aspects of the assessment, so they can appear on Paper 1 or Paper 2. Section 4.8 has no tier split of its own, but some content you use to explain the ideas is Higher tier only, and it is labelled. The exams run every May/June for the life of the specification.

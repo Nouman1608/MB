@@ -16,13 +16,11 @@ syllabusTopics:
     topic: "preparation-of-financial-statements"
 description: "Cambridge IGCSE Accounting 0452 Topic 5 guide to financial statements for sole traders, partnerships, companies, manufacturers, clubs and incomplete records."
 author: "marlbridge-academic-team"
-reviewer: "javaid-iqbal-sabri"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-16
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE

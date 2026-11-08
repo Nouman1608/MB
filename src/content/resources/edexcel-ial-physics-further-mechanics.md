@@ -15,11 +15,9 @@ syllabusTopics:
     subtopic: "further-mechanics"
 description: "Impulse, two-dimensional momentum conservation, elastic and inelastic collisions, and circular motion: sub-topic 4.3 of Edexcel IAL Physics (YPH11), Unit 4."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

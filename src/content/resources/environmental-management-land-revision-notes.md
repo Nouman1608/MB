@@ -23,11 +23,9 @@ syllabusTopics:
     subtopic: "soil-erosion-0680"
 description: "Recall notes on soils and crop growth, food production and soil erosion for Topic 2 Land of Cambridge IGCSE Environmental Management 0680, 2027-2029 series."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---

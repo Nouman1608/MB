@@ -22,11 +22,9 @@ syllabusTopics:
     subtopic: "a-specific-heat-capacity-and-specific-latent-heat"
 description: "Thermal equilibrium, the Kelvin scale and absolute zero, thermometers, and specific heat capacity and latent heat: Topic 14 of Cambridge A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-18
 updatedDate: 2026-11-05
 featured: false

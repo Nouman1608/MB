@@ -20,11 +20,9 @@ syllabusTopics:
     subtopic: "section-b-imaginative-writing-4ea1"
 description: "Original practice with a model plan and worked commentary for anthology analysis and imaginative writing, for Edexcel IGCSE English Language A 4EA1 Paper 2."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29."
 publishedDate: 2026-09-03
 featured: false
 ---

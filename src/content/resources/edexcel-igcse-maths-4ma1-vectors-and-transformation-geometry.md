@@ -21,13 +21,11 @@ syllabusTopics:
     subtopic: "transformation-geometry-edexcel-igcse-maths"
 description: "Study guide for Edexcel IGCSE Maths 4MA1 topic 5: vectors, column vectors, vector proof, rotations, reflections, translations and enlargements."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This study guide teaches topic 5, Vectors and transformation geometry, of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), first assessed in June 2018 with papers available in January and June. It covers section 5.1 (Vectors) and section 5.2 (Transformation geometry). Section 5.1 is **Higher tier only**. Section 5.2 is Foundation tier content, and the Higher tier assumes it ("See Foundation Tier"), so every candidate needs it.

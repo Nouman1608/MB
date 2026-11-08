@@ -9,11 +9,9 @@ syllabusCodes: ["DP Computer Science"]
 order: 1
 description: "Recall notes on how IB Diploma Programme Computer Science is assessed at SL and HL: Paper 1, Paper 2, weightings and the computational solution IA."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-08-26
 featured: false
 ---

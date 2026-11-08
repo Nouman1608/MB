@@ -23,13 +23,11 @@ syllabusTopics:
     subtopic: "transport-in-plants-ocr-alevel-biology"
 description: "OCR A Level Biology A (H420) Module 3 guide to exchange surfaces, gas exchange, the heart, haemoglobin and transport in plants, with common mistakes to avoid."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide covers **Module 3: Exchange and Transport** in OCR A Level Biology A (H420), following the

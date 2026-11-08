@@ -23,11 +23,9 @@ syllabusTopics:
     subtopic: "output-devices-and-their-uses-0417"
 description: "Input devices, direct data entry devices such as RFID and barcode readers, and output devices for Cambridge IGCSE ICT 0417 Topic 2, 2026 to 2028."
 author: "marlbridge-academic-team"
-reviewer: "harris-khan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29."
 publishedDate: 2026-09-01
 featured: false
 ---

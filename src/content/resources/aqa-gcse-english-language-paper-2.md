@@ -23,13 +23,11 @@ syllabusTopics:
     subtopic: "comparing-texts-8700"
 description: "AQA GCSE English Language 8700 Paper 2 Writers' Viewpoints and Perspectives: two linked non-fiction sources, writing a viewpoint, and the paper's structure."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide covers **Paper 2: Writers' Viewpoints and Perspectives**,

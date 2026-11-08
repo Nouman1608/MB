@@ -30,11 +30,9 @@ syllabusTopics:
     subtopic: "hypothesis-tests-cambridge-alevel-maths"
 description: "12 original Cambridge 9709 Paper 6 practice questions with mark-by-mark answers on Poisson, PDFs, confidence intervals and hypothesis tests."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 publishedDate: 2026-09-27
 featured: false
 ---

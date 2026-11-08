@@ -13,11 +13,9 @@ syllabusSeries: "For first teaching 2017"
 order: 3
 description: "How Paper 1 and Paper 2 of Pearson Edexcel IGCSE Chemistry 4CH1 differ, why the core content comes first, and a routine for earning calculation method marks."
 author: "marlbridge-academic-team"
-reviewer: "nouman-ahmed"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29."
 publishedDate: 2026-09-07
 featured: false
 ---

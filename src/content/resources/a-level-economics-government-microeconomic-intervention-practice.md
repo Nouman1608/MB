@@ -15,11 +15,9 @@ syllabusTopics:
     topic: "government-microeconomic-intervention-as-cambridge-alevel-economics"
 description: "Cambridge 9708 Topic 3 practice with worked answers: public goods, merit and demerit goods, price controls, buffer stocks and redistributing income."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---

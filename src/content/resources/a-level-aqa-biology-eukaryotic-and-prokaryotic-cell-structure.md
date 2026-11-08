@@ -19,13 +19,11 @@ syllabusTopics:
     subtopic: "structure-of-prokaryotic-cells-and-viruses-aqa-alevel-biology"
 description: "Eukaryotic organelles and how prokaryotic cells and viruses differ, for AQA AS and A-level Biology (7401/7402) sections 3.2.1.1 and 3.2.1.2, with exam tips."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide covers **3.2.1.1 Structure of eukaryotic cells** and

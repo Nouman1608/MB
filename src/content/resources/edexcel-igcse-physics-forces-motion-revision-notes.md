@@ -21,11 +21,9 @@ syllabusTopics:
     subtopic: "forces-movement-shape-and-momentum"
 description: "Condensed recall notes on speed, acceleration, Newton laws, momentum, moments and stopping distance for Edexcel International GCSE Physics 4PH1."
 author: "iftikhar-azeemi"
-reviewer: "hassan"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---

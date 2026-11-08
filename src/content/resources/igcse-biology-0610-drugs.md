@@ -18,13 +18,11 @@ syllabusTopics:
     subtopic: "drugs-cambridge-igcse-biology"
 description: "Study guide to Cambridge IGCSE Biology 0610 topic 15: what a drug is, how antibiotics treat bacterial infections and how resistance such as MRSA develops."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide teaches topic 15 (Drugs) of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. Topic 15 has one section, 15.1 Drugs, with four Core learning outcomes and one Supplement outcome. Core outcomes are tested on Papers 1 and 3 (and Extended candidates must know them too); the Supplement outcome, marked "Extended only" below, is tested on Papers 2 and 4. The topic is short, but it links directly to disease (topic 10) and natural selection (topic 18), so questions on it often carry more marks than its length suggests.

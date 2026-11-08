@@ -14,13 +14,11 @@ syllabusTopics:
     topic: "ib-dp-mathematics-applications-and-interpretation-geometry-and-trigonometry"
 description: "Revision notes on the IB DP Maths AI geometry and trigonometry strand: sine and cosine rules, bearings, compound solids and the HL content, with a self-test."
 author: "marlbridge-academic-team"
-reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29."
 ---
 
 Geometry and trigonometry carries 18 hours at SL and jumps to 46 at HL -- the largest proportional

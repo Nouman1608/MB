@@ -24,11 +24,9 @@ syllabusTopics:
     subtopic: "great-depression-new-deal-9489"
 description: "Original practice with worked answers on the Civil War and Reconstruction, the Gilded Age and Progressive Era, and the New Deal for Cambridge 9489 History."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-06
 featured: false
 ---

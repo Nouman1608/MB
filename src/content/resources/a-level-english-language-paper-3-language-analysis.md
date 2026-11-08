@@ -21,13 +21,11 @@ syllabusTopics:
     subtopic: "section-b-child-language-acquisition-9093"
 description: "Cambridge 9093 Paper 3 Language Analysis: language change from Early Modern English to today, and the stages and theories of child language acquisition."
 author: "marlbridge-academic-team"
-reviewer: "ammar-bilal"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-03
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29."
 ---
 
 This guide covers **Paper 3 Language Analysis**, one of two A Level-only papers added to the AS content in Cambridge International AS & A Level English Language (9093). Where Papers 1 and 2 test reading and writing skills directly, Paper 3 tests knowledge and understanding of two linguistic fields: how English has changed over time, and how children acquire it.

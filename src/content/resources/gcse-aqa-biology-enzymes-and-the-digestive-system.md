@@ -15,13 +15,11 @@ syllabusTopics:
     subtopic: "the-human-digestive-system-aqa-gcse-biology"
 description: "Levels of organisation and digestive enzymes for AQA GCSE Biology 8461 (4.2.1 and 4.2.2.1), with the lock and key model and required practicals 4 and 5."
 author: "marlbridge-academic-team"
-reviewer: "hina-mogul"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29."
 ---
 
 This guide covers **4.2.1 Principles of Organisation** and **4.2.2.1

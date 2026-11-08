@@ -15,13 +15,11 @@ syllabusTopics:
     subtopic: "notation-and-manipulation-oxfordaqa-igcse-maths"
 description: "Expressions, formulae, expanding, factorising, index laws, algebraic fractions and proof: sub-topic 3.2.1 of OxfordAQA International GCSE Maths 9260."
 author: "marlbridge-academic-team"
-reviewer: "sajawal-zahid"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29."
 ---
 
 This guide covers **sub-topic 3.2.1 Notation and Manipulation**, the

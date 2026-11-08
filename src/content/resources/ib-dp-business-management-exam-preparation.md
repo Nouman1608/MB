@@ -10,13 +10,11 @@ syllabusCodes: ["DP Business Management"]
 order: 1
 description: "Exam preparation for IB DP Business Management: using the pre-released Paper 1 statement, practising for unseen Paper 2 and HL Paper 3, with a checklist."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "review-pending"
-reviewedDate: 2026-09-29
 publishedDate: 2026-09-07
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29."
 ---
 
 The [assessment revision notes](/resources/ib-dp-business-management-assessment-revision-notes/) set

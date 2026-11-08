@@ -36,11 +36,9 @@ syllabusTopics:
     subtopic: "metallic-bonding"
 description: "Condensed Cambridge IGCSE 0620 and O Level 5070 revision notes on ionic, covalent, giant covalent and metallic bonding, with property tables and exam traps."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-22
 featured: false
 ---

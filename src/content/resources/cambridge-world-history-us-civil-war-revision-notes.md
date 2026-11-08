@@ -21,7 +21,8 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-11-08
 featured: false
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: added key dates/people table to bring notes above 900 words. 2026-11-08 recheck: added a short comparison section."---
+reviewNote: "2026-11-08 recheck: added key dates/people table to bring notes above 900 words. 2026-11-08 recheck: added a short comparison section."
+---
 
 **Key question 1.4 in Cambridge IGCSE 0470 and O Level 2147 asks why
 the United States fought a civil war and what it changed.** You need a

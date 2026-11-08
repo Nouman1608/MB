@@ -36,11 +36,9 @@ syllabusTopics:
     subtopic: "separation-and-purification"
 description: "Guide to Cambridge IGCSE 0620 and O Level 5070 practical techniques: choosing apparatus, acid-base titration, paper chromatography, Rf and separation methods."
 author: "nouman-ahmed"
-reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29."
 publishedDate: 2026-08-29
 featured: false
 ---

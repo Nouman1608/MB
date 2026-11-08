@@ -20,11 +20,9 @@ description: "Condensed revision notes for AQA A-level Sociology 7192 Health: ke
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-29
 featured: false
-reviewer: "naqiya-yousaf"
 reviewStatus: "review-pending"
-reviewedDate: 2026-10-09
 reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09."
 ---
 
 These notes condense the [Health study guide](/resources/aqa-a-level-sociology-7192-health/); go there first if a term or study is new to you.

@@ -21,11 +21,9 @@ syllabusTopics:
     subtopic: "sustainable-management-of-rocks-ores-and-minerals-5014-2027"
 description: "Recall notes on rock formation, the rock cycle, permeability, ores, surface, subsurface and biological extraction and sustainable management for O Level 5014."
 author: "marlbridge-academic-team"
-reviewer: "azam-siddique"
 reviewStatus: "review-pending"
 reviewNeeded: true
-reviewNote: "2026-11-08 recheck: expanded thin page with a benefits and limitations table for the landscape management strategies (1.2.6) and an FAQ; please re-review."
-reviewedDate: 2026-09-29
+reviewNote: "2026-11-08 recheck: expanded thin page with a benefits and limitations table for the landscape management strategies (1.2.6) and an FAQ; please re-review; previously reviewed by azam-siddique on 2026-09-29."
 publishedDate: 2026-09-21
 featured: false
 ---
