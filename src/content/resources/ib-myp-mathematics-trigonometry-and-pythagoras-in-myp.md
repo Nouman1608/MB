@@ -243,6 +243,20 @@ Criterion A rewards choosing and applying the right method. Criterion C rewards 
 - Forgetting the second possible angle in the ambiguous case.
 - Rounding early.
 
+## Frequently asked questions
+
+**How do you write a bearing?**
+A bearing is an angle measured clockwise from north and written with three figures, so 045° rather than 45°. Sketch a north line at each point before measuring.
+
+**How do you find the back bearing?**
+Add 180° to the bearing, or subtract 180° if the result would be 360° or more. If P is on a bearing of 096.9° from H, then H is on a bearing of 276.9° from P.
+
+**What is an angle of depression?**
+An angle of depression is measured downward from the horizontal. It equals the angle of elevation from the lower point back up to the higher one.
+
+**Which trigonometry topics in IB MYP Mathematics are extended?**
+Triangle properties, bearings, Pythagoras' theorem and right-angled trigonometry are standard. The converse of Pythagoras and the sine and cosine rules are extended content in the spatial reasoning branch.
+
 ## Official syllabus
 
 IB *Mathematics guide (for use from September 2020/January 2021)*, first assessment 2022, International Baccalaureate Organization: the framework for spatial reasoning (trigonometry rows).

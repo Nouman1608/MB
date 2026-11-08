@@ -162,6 +162,20 @@ Circle area = 25π = 78.5; fraction = 50 ÷ 78.5 = **63.7%** [1]
 - Rounding in the middle of a multi-step solution.
 - Omitting units, or writing cm² for a volume.
 
+## Frequently asked questions
+
+**When do you use slant height and when do you use vertical height for a cone?**
+Use the vertical height for volume and the slant height for the curved surface area. Swapping them is a common error; the slant height comes from Pythagoras, l² = r² + h².
+
+**Should the join between two shapes be included in a compound perimeter?**
+No. A perimeter is the distance around the outside, so the edge where two shapes meet is not part of it. Similarly, hidden faces should not be counted in the surface area of a compound solid.
+
+**Do you need to name the theorem when finding an angle?**
+Yes. Giving an angle with no theorem or angle fact named weakens the reasoning, so state facts such as "co-interior angles add to 180°" or "the angle at the centre is twice the angle at the circumference".
+
+**Why should you avoid rounding in the middle of a geometry problem?**
+Rounding intermediate values can push the final answer away from the correct value. Keep full calculator values and round only at the end, with the correct units.
+
 ## Next steps
 
 - Review the [revision notes](/resources/ib-myp-mathematics-geometry-angles-circles-area-volume-and-metric-measure-revision-notes/) for formulas and methods.

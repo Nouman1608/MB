@@ -309,6 +309,20 @@ Geometric: 5, 15, 45, … has a₁ = 5 and r = 3, so aₙ = 5 × 3ⁿ⁻¹ and a
 - Rejecting a verified rule because one term fails, or accepting it because three terms fit. Verify beyond the data and prove with algebra.
 - Writing a power as 2^n instead of 2ⁿ; the guide's notation list asks for mathematical notation, not calculator notation.
 
+## Frequently asked questions
+
+**Which algebra topics are in IB MYP Mathematics?**
+The Algebra rows of the numerical and abstract reasoning branch in the IB Mathematics guide cover sequences, equations, expressions, inequalities, quadratic equations, formulae and simple algorithms. Inequalities and quadratic equations appear at MYP 4-5.
+
+**How do you tell if a sequence has a linear or quadratic rule?**
+Look at the differences between terms. A constant first difference means a linear rule, such as 6n + 7, while a constant second difference means the rule contains n².
+
+**What does it mean for a value to satisfy an equation?**
+A value satisfies an equation if substituting it makes both sides equal. Solving means finding every value that does so.
+
+**What shapes are used in a flowchart?**
+Ovals mark start and stop, parallelograms show input and output, rectangles show steps and diamonds show yes/no decisions. Arrows show the order in which the steps are carried out.
+
 ## Official syllabus
 
 *Mathematics guide for the Middle Years Programme (for use from September 2020/January 2021)*, International Baccalaureate Organization, first assessment 2022, numerical and abstract reasoning, Algebra rows.

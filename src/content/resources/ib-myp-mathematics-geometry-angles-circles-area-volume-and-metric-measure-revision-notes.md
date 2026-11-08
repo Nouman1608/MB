@@ -337,6 +337,20 @@ Spatial reasoning questions often ask you to justify as well as calculate. Write
 - Treating a perimeter of a segment as arc only; the chord is part of the boundary.
 - In a "show that" or reasoning question, skipping the line that names the rule you used.
 
+## Frequently asked questions
+
+**How do you convert m² to cm²?**
+Square the length factor: 1 m = 100 cm, so 1 m² = 10 000 cm² and 2.5 m² = 25 000 cm². For volume, cube the length factor.
+
+**How many litres are in a cubic metre?**
+1 m³ holds 1000 L, 1000 cm³ holds 1 L and 1 cm³ holds 1 mL. Capacity conversions are extended content in the IB MYP Mathematics framework.
+
+**What is the formula for the arc length of a sector?**
+For a sector with angle θ in degrees and radius r, arc length = (θ/360) × 2πr and sector area = (θ/360) × πr².
+
+**How do you find the area of a rhombus from its diagonals?**
+Multiply the diagonals and halve: a rhombus with diagonals 10 cm and 24 cm has area ½ × 10 × 24 = 120 cm².
+
 ## Official syllabus
 
 IB *Mathematics guide (for use from September 2020/January 2021)*, MYP framework, spatial reasoning: Geometry. International Baccalaureate Organization, first assessment 2022.

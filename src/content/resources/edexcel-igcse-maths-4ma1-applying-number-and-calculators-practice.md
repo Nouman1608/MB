@@ -159,6 +159,23 @@ Write down all the figures on your calculator display. **[2]**
 - Typing a fraction calculation without brackets round the denominator.
 - Rounding before the last step and losing the accuracy mark.
 
+## Frequently asked questions
+
+**Can you use a calculator on every Edexcel IGCSE Maths 4MA1 paper?**
+Yes. A calculator may be used on all 4MA1 papers, so questions on applying number and electronic calculators (sections 1.10 and 1.11) are all calculator allowed. You still need to show working, because method marks are given for the steps.
+
+**Why should you write down the full calculator display before rounding?**
+When a question asks for all the figures on the display and then a rounded answer, the rounding mark is usually given as follow-through from your full value. Writing the full display first, and rounding only at the end, protects that mark.
+
+**How do you convert 35 minutes into hours as a decimal?**
+Divide by 60, because there are 60 minutes in an hour, not 100: 35 ÷ 60 = 0.583..., so 2 h 35 min is about 2.58 hours. Writing 2.35 treats the minutes as hundredths of an hour and scores no marks.
+
+**Should you round up or down in a "how many packs" question?**
+Let the context decide. If you need enough packs, bags or glasses to cover a job, round up (6.75 packs means buying 7); if you are counting how many whole items fit, round down.
+
+**How do you show which item is the best value for money?**
+Work out a comparable unit cost for every option, such as the price per 100 ml, then state which is cheapest. Naming the best buy without unit costs for all the options does not earn the final mark.
+
 ## Next steps
 
 - [Revision notes for this unit](/resources/edexcel-igcse-maths-4ma1-applying-number-and-calculators-revision-notes/)

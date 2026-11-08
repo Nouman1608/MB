@@ -276,6 +276,23 @@ Plot (–1, –7.5), (0, –5), (2, 0) and (4, 5), and rule the line across –1
 
 Reading and drawing lines are the starting skills for gradient (3.3), equations of lines (3.5) and parallel lines (3.6), and for solving equations graphically in Topic 2. Next, work through the [Coordinate geometry practice questions](/resources/igcse-mathematics-coordinate-geometry-practice/). To find which parts of the course need work, try the [Core diagnostic](/practice/0580/diagnostic/core/) or the [Extended diagnostic](/practice/0580/diagnostic/extended/). Other resources for syllabus 0580 are on the [hub](/boards/cambridge/igcse/mathematics/).
 
+## Frequently asked questions
+
+**Which comes first in a coordinate, x or y?**
+The x-coordinate comes first, then y: (3, −5) means 3 across and 5 down. Plotting (y, x) instead of (x, y) is a common error.
+
+**How many points should you plot for a straight-line graph?**
+Plot at least three points. With only two, one wrong value gives a wrong line with nothing to warn you; if the points do not line up, fix the table rather than bending the line.
+
+**How far should you draw a straight-line graph?**
+Draw the line across the full range of x-values given in the question, not just between the plotted points.
+
+**How do you draw a line given as 4x + 3y = 12?**
+Rearrange to make y the subject, y = 4 − (4/3)x, or find the points where it crosses each axis, then plot them. Forgetting to divide every term by 3 is a common slip; equations in other forms are Extended only in Cambridge IGCSE Mathematics 0580.
+
+**Are coordinates and linear graphs on the Core 0580 papers?**
+Yes. Sections 3.1 Coordinates and 3.2 Drawing linear graphs are in both the Core and Extended Cambridge IGCSE Mathematics 0580 syllabus and can be tested on calculator and non-calculator papers.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027*, Subject content, Topic 3 Coordinate geometry: C3.1 and E3.1 Coordinates; C3.2 and E3.2 Drawing linear graphs.

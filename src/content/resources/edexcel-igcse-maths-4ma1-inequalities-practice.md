@@ -169,6 +169,20 @@ Learn the content first in the [inequalities study guide](/resources/edexcel-igc
 - (Higher) Giving decimals when the question asks for exact form.
 - (Higher) Keeping a negative length in a context answer.
 
+## Frequently asked questions
+
+**When do you reverse the inequality sign?**
+Reverse the sign whenever you multiply or divide both sides by a negative number. Adding, subtracting, or multiplying or dividing by a positive number keeps the sign the same.
+
+**What is the most common mistake with double-ended inequalities?**
+Applying an operation to only two of the three parts. To solve −7 ≤ 2x − 3 < 5, add 3 to every part and then divide every part by 2, giving −2 ≤ x < 4.
+
+**Is a quadratic inequality answer just the critical values?**
+No. Finding the critical values is only the first step; you must then decide whether the solution lies between them or outside them. Stopping at the critical values, or choosing the wrong region, loses marks; quadratic inequalities are Higher tier only in 4MA1.
+
+**How do you list the integers that satisfy an inequality?**
+Check each end: a value is included only with ≤ or ≥. For −3 ≤ n < 2 the integers are −3, −2, −1, 0 and 1; forgetting 0 or including an excluded end value are frequent errors.
+
 ## Next steps
 
 - Refresh the methods: [inequalities revision notes](/resources/edexcel-igcse-maths-4ma1-inequalities-revision-notes/)

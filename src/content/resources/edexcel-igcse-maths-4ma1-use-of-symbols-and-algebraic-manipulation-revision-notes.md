@@ -334,6 +334,20 @@ cancel (x + 4) and (x + 1):  1 / [2(x - 1)]
 - Completing the square on 2x² − 8x + 1 as 2(x − 2)² − 4 + 1. The −4 must be multiplied by 2, giving 2(x − 2)² − 7.
 - In a proof, checking a few numbers and calling it proved, or showing the algebra without the concluding sentence.
 
+## Frequently asked questions
+
+**Which sections of Edexcel IGCSE Maths 4MA1 cover algebraic manipulation?**
+Section 2.1 (Use of symbols) and section 2.2 (Algebraic manipulation) in Topic 2 cover index notation, substitution, expanding and factorising. Fractional powers, three brackets, factorising ax² + bx + c, algebraic fractions, completing the square and proof are Higher tier only.
+
+**What are like terms?**
+Like terms have exactly the same letters with the same powers, so they can be collected. x²y and xy² are not like terms, so 5x²y + 2x²y = 7x²y, but x²y and xy² stay separate.
+
+**How do you expand three brackets?**
+Expand two of the brackets first and simplify, then multiply every term of the result by each term in the third bracket before collecting like terms. Losing a term at this stage is a common error, so count your products before simplifying; this is Higher tier content.
+
+**What does a fractional power mean?**
+A fractional power means a root: a^(1/n) is the nth root of a, and a^(m/n) means take the nth root and then raise it to the power m. For example, 64^(1/3) = 4 and 32^(3/5) = 8.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Mathematics (Specification A) (4MA1), Specification, Issue 2, November 2017, Pearson Education Limited (first assessment June 2018). Topic 2, Equations, formulae and identities: sections 2.1 Use of symbols and 2.2 Algebraic manipulation (Foundation and Higher Tier content).

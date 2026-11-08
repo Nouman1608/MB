@@ -139,6 +139,20 @@ Learn the content first in the [study guide](/resources/edexcel-igcse-maths-4ma1
 - (Higher) Giving x = 3 when the question asks for the coordinates of a point.
 - (Higher) Stating that lines are parallel without showing that their gradients are equal.
 
+## Frequently asked questions
+
+**When do you add and when do you subtract in elimination?**
+Once the coefficients of one letter are the same size, add the equations if that letter has different signs and subtract if it has the same sign. Adding when the signs are the same is one of the most common errors.
+
+**What does "exact values" mean in a simultaneous equations question?**
+It means giving the values precisely, so a value of 1/3 should be written as 1/3, not rounded to 0.33. Integers, fractions and terminating decimals are all exact.
+
+**How should you answer a simultaneous equations problem set in context?**
+Give the answer in words with units, such as "a coffee costs £3.00", rather than leaving it as "c = 3". If the question asks for the coordinates of a point, give both coordinates.
+
+**What is a common slip when multiplying an equation?**
+Multiplying the left-hand side by a number but forgetting the right-hand side. Every term on both sides must be multiplied, or the equations no longer balance.
+
 ## Next steps
 
 - Refresh the methods: [revision notes](/resources/edexcel-igcse-maths-4ma1-simultaneous-linear-equations-revision-notes/)

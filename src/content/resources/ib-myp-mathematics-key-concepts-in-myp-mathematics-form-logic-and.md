@@ -235,6 +235,20 @@ The guide also lists related concepts from mathematics for each branch, drawn fr
 - Offering five tested examples as a justification. A test checks a rule; justification explains why it works.
 - Confusing logic in the MYP with symbolic logic. The guide separates them.
 
+## Frequently asked questions
+
+**What does form mean in MYP Mathematics?**
+In mathematics, form means that the structure and shape of an object are told apart by its properties. A square, a rhombus and a rectangle are different forms because their properties differ, not because they look different.
+
+**Why do several examples not prove a rule?**
+Examples support a claim but cannot cover every case. A proof uses algebra to cover all cases at once, for instance showing (n + 1)² − n² = 2n + 1, which is always odd.
+
+**What does relationships mean as a key concept in mathematics?**
+Relationships are links among quantities, properties or concepts, written as models, rules or statements. They can be shown in many forms of representation, such as words, formulae, tables, graphs and diagrams.
+
+**Can other key concepts appear in MYP Mathematics units?**
+Yes. Mathematics contributes form, logic and relationships, but the other thirteen MYP key concepts, such as change or communication, can still appear in mathematics units.
+
 ## Official syllabus
 
 IB Middle Years Programme *Mathematics* guide (for use from September 2020 or January 2021), first assessment 2022, published by the International Baccalaureate Organization. Next: [revision notes](/resources/ib-myp-mathematics-key-concepts-in-myp-mathematics-form-logic-and-revision-notes/) and [practice questions](/resources/ib-myp-mathematics-key-concepts-in-myp-mathematics-form-logic-and-practice/).

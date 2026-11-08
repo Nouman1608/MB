@@ -340,6 +340,23 @@ later step goes wrong.
 - Rounding k to 2 or 3 significant figures before using it again on Paper 4, which can push
   the final answer off by 1 in the third figure.
 
+## Frequently asked questions
+
+**Is algebraic proportion on the Core 0580 papers?**
+No. Subtopic E2.8 is Extended only in Cambridge IGCSE Mathematics 0580, so it is examined on Papers 2 and 4, not on Papers 1 and 3.
+
+**Is the constant of proportionality added or multiplied?**
+Always multiplied. Write y = kx² or y = k/x, never y = x² + k or y = k + 1/x.
+
+**What should you do after finding k?**
+Write the equation with the value of k in it if the question asks for a formula, and substitute again if it asks for a value of y. Stopping at k is a common way to lose marks.
+
+**How do you rearrange an inverse square formula such as 250 = 360/d²?**
+Multiply both sides by d² first, then divide by 250, giving d² = 360/250. Writing d² = 250/360 turns the fraction upside down.
+
+**How do you finish when you have found a square root such as √Q = 9?**
+Undo the root by squaring, so Q = 81. Giving 9 as the answer stops one step short.
+
 ## Where to go next
 
 - Recap the whole topic in the [Algebra and graphs revision notes](/resources/igcse-mathematics-algebra-and-graphs-revision-notes/).

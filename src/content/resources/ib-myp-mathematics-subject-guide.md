@@ -9,10 +9,12 @@ syllabusCodes: ["MYP Mathematics"]
 description: "An overview of IB Middle Years Programme Mathematics -- four branches of mathematical study, and its emphasis on inquiry and application for ages 11-16."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 The IB Middle Years Programme (MYP) is designed for students aged 11 to
@@ -145,6 +147,23 @@ Extended MYP mathematics, with its additional topics and depth, is typically the
 preparation for DP Analysis and Approaches HL specifically, though the right DP route for any given
 student depends on their individual strengths and intended university pathway, and is worth
 discussing directly with a school's DP coordinator well before subject choices are finalised.
+
+## Frequently asked questions
+
+**What age group is IB MYP Mathematics for?**
+The IB Middle Years Programme is designed for students aged 11 to 16, and mathematics is one of its subject groups.
+
+**What are the four branches of IB MYP Mathematics?**
+The four branches are numerical and abstract reasoning, thinking with models, spatial reasoning, and reasoning with data. They are woven through inquiry-based tasks rather than taught as four isolated units.
+
+**Is there one final exam that decides the MYP Mathematics grade?**
+No. MYP Mathematics has no SL/HL split and no single end-of-course exam that alone fixes the grade; teachers assess work throughout each year against four equally weighted criteria, each judged with published level descriptors.
+
+**Does extended MYP Mathematics cap the grade for standard students?**
+No. Standard and extended mathematics are assessed against the same four criteria and descriptors, so the difference lies in the mathematical content and depth, not in a cap on the grade.
+
+**Which MYP Mathematics level prepares best for DP Mathematics?**
+Both levels are designed with DP mathematics in mind. Extended MYP mathematics is typically the stronger preparation for DP Mathematics: Analysis and Approaches HL, but the right route depends on the student and is worth discussing with the school's DP coordinator.
 
 ## Source
 

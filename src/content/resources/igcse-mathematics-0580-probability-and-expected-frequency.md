@@ -347,6 +347,23 @@ Every outcome here can be tested on a non-calculator paper, so be fluent with si
 - **Claiming certainty about bias.** Results can suggest bias; a small sample tells you very little.
 - **Rounding the probability before multiplying** when finding an expected frequency. Round only the final answer, if at all.
 
+## Frequently asked questions
+
+**How do you work out expected frequency?**
+Multiply the probability of the event by the number of trials. Keep the probability exact and round only the final answer, if at all.
+
+**Which relative frequency is the best estimate of probability?**
+The relative frequency based on the largest number of trials, or on all the trials combined, gives the best estimate.
+
+**Can a small experiment prove that a dice is biased?**
+No. Results can suggest bias, but a small sample tells you very little, so avoid claiming certainty.
+
+**How do you find the probability of an event not happening?**
+Subtract the probability of the event from 1: P(not A) = 1 − P(A). The probabilities of all possible outcomes add up to 1.
+
+**Which parts of 0580 probability subtopics 8.1 and 8.2 are Extended only?**
+Probability notation, such as P(A), is Extended only. The probability scale, single events, relative frequency and expected frequency are on both Core and Extended papers in Cambridge IGCSE Mathematics 0580.
+
 ## Where to go next
 
 Revise the whole topic with the [Probability revision notes](/resources/igcse-mathematics-probability-revision-notes/), then test yourself with the [Probability practice questions](/resources/igcse-mathematics-probability-practice/). Check your gaps with the free [Core diagnostic](/practice/0580/diagnostic/core/) or [Extended diagnostic](/practice/0580/diagnostic/extended/), and find other resources for syllabus 0580 on the [course hub](/boards/cambridge/igcse/mathematics/).

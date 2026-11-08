@@ -9,13 +9,15 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Mathematics"]
 syllabusSeries: "From 2020, first assessment 2022"
 order: 9
-description: "Task-by-task exam preparation for IB Middle Years Programme Mathematics eAssessment -- Knowing and understanding, Investigating patterns, and Applying mathematics in real-life contexts -- with a worked practice scenario and a task-by-task checklist."
+description: "Task-by-task preparation for the IB MYP Mathematics eAssessment, with a worked modelling scenario, validity checks and a checklist for each of the three tasks."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 The [full syllabus guide](/resources/ib-myp-mathematics-syllabus-guide/) sets out what the 2-hour
@@ -110,6 +112,20 @@ model). 4. Because Task 3 specifically rewards drawing a valid, well-justified c
 real-life situation, not just arriving at a numeric answer -- a model can produce a mathematically
 correct number that is not a realistic real-world result, and the task expects you to recognise and
 state that. 5. Criterion C (communicating).
+
+## Frequently asked questions
+
+**How long is the IB MYP Mathematics eAssessment?**
+The MYP Mathematics eAssessment is a 2-hour on-screen exam made up of three tasks: knowing and understanding, investigating patterns, and applying mathematics in real-life contexts.
+
+**Which criterion is assessed in every eAssessment task?**
+Criterion C, Communicating, is assessed across all three tasks, alongside criterion A in Task 1, criterion B in Task 2 and criterion D in Task 3.
+
+**How should you revise for the knowing and understanding task?**
+Revise for breadth, because the task can draw on any of the four branches: numerical and abstract reasoning, thinking with models, spatial reasoning and reasoning with data. A short self-audit of your confidence in each branch helps you spend revision time where the gaps are.
+
+**What is the step students most often skip in a real-life modelling task?**
+The validity step: checking whether the model stays realistic over the range it is used for. A quadratic model with a negative leading coefficient, for instance, eventually predicts negative values, and a complete answer states that limitation.
 
 ## Official syllabus
 

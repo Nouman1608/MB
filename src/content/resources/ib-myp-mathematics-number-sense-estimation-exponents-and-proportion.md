@@ -304,6 +304,20 @@ Addition and multiplication are commutative and associative, and multiplication 
 - Using the lower bound for both numbers when finding the upper bound of a quotient.
 - Calling 22/7 irrational; it is rational.
 
+## Frequently asked questions
+
+**How do you convert a recurring decimal to a fraction?**
+Set x equal to the decimal, multiply by powers of 10 so the recurring parts line up, and subtract. For 0.21818..., 1000x − 10x = 990x = 216, so x = 12/55.
+
+**What is absolute value?**
+The absolute value |x| is the distance from x to 0, so it is never negative. For example, |−7| = 7 and |3 − 9| = 6.
+
+**What is a fractional exponent?**
+a^(1/n) means the nth root of a, and a^(m/n) means that root raised to the power m, so do the root first. For example, 27^(2/3) = 3² = 9.
+
+**How do you add numbers in standard form?**
+Convert them to the same power of 10, or to ordinary numbers, before adding. 6 × 10⁴ + 7.5 × 10³ = 60 000 + 7500 = 6.75 × 10⁴.
+
 ## Official syllabus
 
 IB *Mathematics guide*, Middle Years Programme (for use from September 2020/January 2021, first assessment 2022), International Baccalaureate Organization: mathematics framework, numerical and abstract reasoning.

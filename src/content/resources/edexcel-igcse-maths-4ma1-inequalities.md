@@ -368,6 +368,20 @@ The third vertex is not on grid points, so find it by solving the equations simu
 - **Higher:** writing x² > 25 as x > 5 only, or x² < 25 as x < ±5.
 - **Higher:** giving "outside" solutions as one combined statement such as 5 < x < −3, which no number satisfies.
 
+## Frequently asked questions
+
+**How do you solve a linear inequality?**
+Solve it exactly like a linear equation, but reverse the sign if you multiply or divide by a negative number. For example, 4 − 3x ≥ 19 gives −3x ≥ 15, so x ≤ −5.
+
+**How do you decide which side of a line to shade?**
+Use a test point that is not on the line, such as the origin. For x + y ≤ 6, the origin gives 0 ≤ 6, which is true, so the region on the side containing the origin is the one you want.
+
+**Which region does y ≥ b represent on a graph?**
+y ≥ b is the region above the horizontal line y = b, and y ≤ b is the region below it. Similarly, x ≥ a is the region to the right of the vertical line x = a.
+
+**How do you find the inequalities that describe a shaded region?**
+Work one boundary line at a time: find the equation of the line, then use a point inside the region to decide which inequality sign applies. Then combine the inequalities for every boundary.
+
 ## Next steps
 
 Move on to the [revision notes](/resources/edexcel-igcse-maths-4ma1-inequalities-revision-notes/), then the [practice questions](/resources/edexcel-igcse-maths-4ma1-inequalities-practice/). To find gaps elsewhere, take a [free diagnostic](/diagnostics/).

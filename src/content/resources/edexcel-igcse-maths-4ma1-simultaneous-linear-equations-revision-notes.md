@@ -214,6 +214,20 @@ Solve each pair exactly unless told otherwise.
 - (Higher tier only) Giving only the x-value when the question asks for the coordinates of a point of intersection.
 - (Higher tier only) Taking the coefficient of x in ax + by = c as the gradient when comparing two lines.
 
+## Frequently asked questions
+
+**Which section of Edexcel IGCSE Maths 4MA1 covers simultaneous linear equations?**
+Section 2.6 in Topic 2 (Equations, formulae and identities) covers solving two simultaneous linear equations exactly, on both tiers. Solving one linear and one quadratic equation together is a separate Higher tier statement, 2.7D.
+
+**How do you solve simultaneous equations by substitution?**
+Rearrange one equation to make one letter the subject, substitute that expression into the other equation, and solve. Expand any bracket fully, for example 2(4x − 5) = 8x − 10, then substitute back to find the second letter.
+
+**How can you check simultaneous equation answers?**
+Substitute both values into the equation you did not use to find the second value. If it balances, the pair is correct.
+
+**What do simultaneous equations show on a graph?**
+The solution of two simultaneous linear equations is the point where their straight-line graphs meet. Two lines with equal gradients are parallel, so they never meet.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Mathematics (Specification A) (4MA1), Specification, Issue 2, November 2017, Pearson Education Limited (first assessment June 2018). Topic 2, Equations, formulae and identities, section 2.6 Simultaneous linear equations: statement 2.6A (Foundation and Higher tiers) and statement 2.6B (Higher tier only).

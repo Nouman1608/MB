@@ -16,10 +16,12 @@ syllabusTopics:
 description: "Function notation, domain and range, inverse functions and composite functions, for Cambridge O Level Mathematics (Syllabus D) 4024."
 author: "muhammad-ghazali-siddiqui"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-18
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This guide covers subtopic **2.12 Functions**, from Topic 2, Algebra and
@@ -182,6 +184,23 @@ from the domain
 - Finding an inverse function: rearrange for x, then relabel
 - Composite functions: gf(x) = g(f(x)), applied innermost-function-first
 - Domain/range of composite functions is not required
+
+## Frequently asked questions
+
+**What is a function in Cambridge O Level Maths 4024?**
+A function takes an input and produces exactly one output, written in function notation as f(x), read "f of x". Functions are subtopic 2.12 of Cambridge O Level Mathematics (Syllabus D) 4024, which is not tiered, so every candidate studies them.
+
+**What is the difference between the domain and the range of a function?**
+The domain is the set of allowed inputs and the range is the resulting set of outputs. A mapping diagram shows this with arrows from each domain value to its range value.
+
+**Which values must be excluded from the domain?**
+Exclude any value of x that makes a denominator zero, and any value that makes the expression inside a square root negative. For g(x) = 1/(x − 2), x = 2 must be excluded.
+
+**Is f⁻¹(x) the same as 1/f(x)?**
+No. f⁻¹(x) is the inverse function, which reverses what f does, while 1/f(x) is the reciprocal of the function's output; the two are entirely different.
+
+**Do you need to find the domain and range of composite functions for 4024?**
+No. Candidates are not expected to find the domain and range of composite functions, only to form and evaluate them, such as fh(x) = f(h(x)).
 
 ## Related resources
 

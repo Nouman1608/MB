@@ -372,6 +372,20 @@ A calculator is allowed on every 4MA1 paper and helps with substitution involvin
 - Higher: leaving the subject on both sides, as in x = (p + 3 + 2x)/p. The subject must not appear on the right.
 - Solving for the letter and not answering the question (giving x = 17 when the question asked for both ages).
 
+## Frequently asked questions
+
+**How do you change the subject when the letter appears twice?**
+Collect all the terms containing the new subject on one side, factorise it out, then divide. For p = (2x + 3)/(x − 1), multiplying out gives px − 2x = p + 3, so x = (p + 3)/(p − 2); this is Higher tier content in Edexcel IGCSE Maths 4MA1.
+
+**Should you take the positive or negative square root when rearranging a formula?**
+When the letter stands for a length, such as r in S = 4πr², take the positive root, giving r = √(S/(4π)). In a purely algebraic rearrangement the context decides.
+
+**What is a good order of steps for solving a linear equation?**
+Clear any fractions, expand brackets, collect the unknown terms on one side and the numbers on the other, then divide by the coefficient. Collecting the x-terms on the side where they stay positive reduces sign errors.
+
+**How do you substitute a fraction into an algebraic fraction?**
+Work out the numerator and the denominator separately, write both down, then divide. For (2x + 1)/(x − 1) with x = 2/3, the numerator is 7/3, the denominator is −1/3 and the value is −7.
+
 ## Next steps
 
 Test recall with the [revision notes](/resources/edexcel-igcse-maths-4ma1-expressions-formulae-and-linear-equations-revision-notes/), then try the [practice questions](/resources/edexcel-igcse-maths-4ma1-expressions-formulae-and-linear-equations-practice/). To find gaps elsewhere, use the [free 10-minute diagnostics](/diagnostics/).

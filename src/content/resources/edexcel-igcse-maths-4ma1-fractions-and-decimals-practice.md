@@ -163,6 +163,20 @@ Before you start, read the [fractions and decimals study guide](/resources/edexc
 - Placing recurring dots over the wrong digits (Higher).
 - Working backwards from the given fraction on a "prove" question (Higher).
 
+## Frequently asked questions
+
+**Can you add the denominators when adding fractions?**
+No. Fractions can only be added or subtracted once they share a common denominator, so 3/4 + 5/6 becomes 9/12 + 10/12 = 19/12. Adding the denominators is one of the most common ways to lose every mark on the question.
+
+**Which fraction do you flip when dividing fractions?**
+Flip the second fraction (the divisor) and multiply: 10/3 ÷ 16/9 = 10/3 × 9/16. Flipping the first fraction instead gives a wrong answer.
+
+**Do you have to simplify a fraction answer fully?**
+Yes. Stopping at a partly simplified fraction such as 9/15 instead of 3/5 can lose the final accuracy mark, so divide by the highest common factor, or keep cancelling until no common factor is left.
+
+**How do you find a fraction of what is left?**
+Work out what remains after the first share, then take the fraction of that remainder, not of the original whole. Taking the fraction of the whole amount when the question says "of what was left" is a frequent error.
+
 ## Next steps
 
 - Refresh the facts: [fractions and decimals revision notes](/resources/edexcel-igcse-maths-4ma1-fractions-and-decimals-revision-notes/)

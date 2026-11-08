@@ -325,6 +325,20 @@ y = 2.5x,  so when x = 7, y = 2.5 × 7 = 17.5
 - Adding percentages for powers: a 20% rise in x gives a 44% rise in y when y ∝ x², not 40%.
 - Assuming any rising curve is y ∝ x². Check where the graph passes through the origin and whether it gets steeper or less steep.
 
+## Frequently asked questions
+
+**Which forms of proportion are in the Edexcel IGCSE Maths 4MA1 specification?**
+The specification notes limit section 2.5 to eight forms: y proportional or inversely proportional to x, x², x³ or √x. You will not be asked about other powers, such as x⁴ or a cube root.
+
+**What does "y varies as x" mean?**
+"y varies as x", "y varies directly as x" and "y is directly proportional to x" all mean y ∝ x. "y varies inversely as x" means y ∝ 1/x.
+
+**Should you take the positive or negative root in a proportion question?**
+Read the context. If v² = 49 and the question says v > 0, or v is a length or speed, give v = 7 and discard −7.
+
+**Are proportion formulae on the 4MA1 formulae sheet?**
+No. Proportion formulae are not on the Higher tier formulae sheet, so you need to learn the k method rather than look for them.
+
 ## Where to go next
 
 Fix the formulae and methods in the [revision notes](/resources/edexcel-igcse-maths-4ma1-proportion-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-igcse-maths-4ma1-proportion-practice/), which have full mark schemes. To find other gaps across the course, try the [free diagnostics](/diagnostics/).

@@ -317,6 +317,20 @@ The specification lists minimum calculator functions on page 42: for both tiers,
 - Leaving out brackets around a denominator, so the calculator divides by only the first number.
 - Rounding a value part-way through a calculation and losing the final accuracy mark.
 
+## Frequently asked questions
+
+**What does section 1.10 of the Edexcel IGCSE Maths 4MA1 specification cover?**
+Section 1.10 (Applying number) covers using number in everyday life, calculations with metric units of mass, length, area, volume and capacity, and calculations with time and money, including currency conversion. Section 1.11 covers using a scientific calculator. Both are Foundation Tier content that the Higher Tier also assumes.
+
+**Do you need to know imperial units for 4MA1?**
+No. The specification note against 1.10 B says "metric units only", so you will not be asked to convert miles, pounds (weight) or gallons.
+
+**How do you convert m² to cm²?**
+Multiply by 10 000, because 1 m = 100 cm and the area factor is the length factor squared (100 × 100). For volume the factor is cubed, so 1 m³ = 1 000 000 cm³.
+
+**How do you change euros back into pounds using an exchange rate?**
+If the rate is £1 = €1.16, multiply by 1.16 to go from pounds to euros and divide by 1.16 to go from euros to pounds. Check the direction: at this rate the number of euros should be bigger than the number of pounds.
+
 ## Next steps
 
 Try the [practice questions](/resources/edexcel-igcse-maths-4ma1-applying-number-and-calculators-practice/), then revisit the [study guide](/resources/edexcel-igcse-maths-4ma1-applying-number-and-calculators/) for any answer you got wrong. For wider topic 1 practice, use the [Numbers and the number system practice](/resources/edexcel-igcse-mathematics-number-practice/).

@@ -280,6 +280,20 @@ When you are ready, work through the [practice questions](/resources/edexcel-igc
 </figure>
 
 
+## Frequently asked questions
+
+**Which sections of Edexcel IGCSE Maths 4MA1 cover percentages and ratio?**
+Section 1.6 (Percentages) and section 1.7 (Ratio and proportion) of Topic 1 cover them. Inverse proportion and forms such as y ∝ x² belong to section 2.5, which is Higher tier only.
+
+**How do you find the original price after a percentage decrease?**
+Divide the sale price by the multiplier. With 25% off, the multiplier is 0.75, so a lamp costing £63 in the sale originally cost 63 ÷ 0.75 = £84; finding 25% of £63 and adding it on is wrong.
+
+**What multiplier increases an amount by 15%?**
+Add the percentage to 100% and convert it to a decimal, so the multiplier is 1.15. A decrease of 8% uses the multiplier 0.92.
+
+**How do you divide an amount in a ratio?**
+Add the parts of the ratio to find the total number of shares, find the value of one share, then multiply for each part. Check whether the question gives the total or the difference between shares before you start.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Mathematics (Specification A) (4MA1), Specification, Issue 2, November 2017, Pearson Education Limited (first assessment June 2018). Topic 1, Numbers and the number system, sections 1.6 Percentages and 1.7 Ratio and proportion (Foundation Tier content and Higher Tier content).

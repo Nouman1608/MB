@@ -183,6 +183,20 @@ y   8.25   ..   4.92   ..   7.85   10.33
 - (Extended) Sign error in the turning point from completing the square.
 - (Extended) An exponential or reciprocal curve drawn crossing its asymptote.
 
+## Frequently asked questions
+
+**How do you spot a mistake in a table of values?**
+A plotted point that is out of line with the rest, or a value that breaks the curve's symmetry, usually signals a slip such as working out (−3)² as −9. Check that value again before drawing the curve.
+
+**How do you choose the line to draw for a graphical solution?**
+Rearrange the given equation into the form "curve = line" first. Check by subtracting: the curve's equation minus the line's equation must give the equation you were asked to solve.
+
+**What should you label on a sketch of a curve?**
+Label the roots, intercepts, turning points and any asymptotes. The labels carry the marks, so an unlabelled sketch can score little even if its shape is right.
+
+**Can a reciprocal graph be joined across x = 0?**
+No. A reciprocal graph has two separate branches that never cross the asymptote at x = 0, so the branches must not be joined.
+
 ## Next steps
 
 - [Graphs of functions and sketching curves study guide](/resources/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves/)

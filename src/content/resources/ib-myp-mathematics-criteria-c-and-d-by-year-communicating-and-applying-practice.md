@@ -153,6 +153,20 @@ These questions practise Criterion C (Communicating) and Criterion D (Applying m
 - Not stating the domain of a model.
 - Not defining the variable before using it.
 
+## Frequently asked questions
+
+**What is a common notation mistake for Criterion C?**
+Using the equals sign to join steps that are not equal, for example chaining a calculation into the next quantity. Other slips include leaving out units and writing calculator notation such as E3 instead of × 10³.
+
+**Is saying "the answer is approximate" enough for Criterion D?**
+No. Name the cause of the approximation and its likely size, such as a rounded measurement or an assumption in the model. From Year 5 you are expected to justify the degree of accuracy, not just mention it.
+
+**How do you show a model's limits in MYP Mathematics?**
+State the domain where the model works, test it against data and record the gaps, and say what the model leaves out. Not stating the domain of a model is a common weakness.
+
+**Should you always round to the nearest whole number in a real-life problem?**
+No. Let the context decide: if you cannot buy part of a tile or a box, round up so there is enough, even if the decimal part is small.
+
 ## Next steps
 
 - Read the [revision notes](/resources/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying-revision-notes/) for the one-page version.

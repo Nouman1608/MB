@@ -299,6 +299,23 @@ Topic 8 uses the same diagrams to find probabilities, with notation such as P(A 
 - (Extended) Proving A ⊈ B with a general comment instead of naming one element of A that is not in B.
 - Treating {x: 2 ⩽ x ⩽ 4} as {2, 3, 4} when the question did not say x is an integer.
 
+## Frequently asked questions
+
+**Which set notation is Extended only in Cambridge IGCSE Maths 0580?**
+The symbols ∈, ∉, ∅, ⊆ and ⊈ and three-set Venn diagrams are Extended only in subtopic 1.2 of Cambridge IGCSE Mathematics 0580. ℰ, n(A), A′, ∪, ∩ and two-set Venn diagrams are Core.
+
+**What does A′ mean on a Venn diagram?**
+A′ is everything outside circle A, including the region outside both circles. It is not the same as "B only".
+
+**Is {x: 2 ⩽ x ⩽ 4} the same as {2, 3, 4}?**
+Only if the question says x is an integer. Otherwise the set includes every value from 2 to 4, such as 2.5 and 3.7.
+
+**How do you prove that A is not a subset of B?**
+Name one element of A that is not in B. A general comment without a named element does not prove it.
+
+**Why must the regions of a Venn diagram add up to n(ℰ)?**
+Every element of the universal set belongs in exactly one region, including the region outside all the circles. Forgetting that region is a common reason totals do not match.
+
 ## Where to go next
 
 - Recall: the sets section of the [Number revision notes](/resources/igcse-mathematics-number-revision-notes/).

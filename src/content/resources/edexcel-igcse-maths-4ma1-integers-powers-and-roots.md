@@ -358,6 +358,20 @@ Doing the root first matters. 32^(3/5): the fifth root of 32 is 2, and 2³ = 8. 
 - Rationalising 4/(3 + √5) by multiplying by (3 + √5) instead of the conjugate.
 - Forgetting to flip the fraction when the power is negative and fractional.
 
+## Frequently asked questions
+
+**How do you subtract a negative number?**
+Subtracting a negative is the same as adding: −5 − (−9) = −5 + 9 = 4. Adding a negative is the same as subtracting, so −3 + (−8) = −11.
+
+**What is the correct order of operations?**
+Work out brackets first, then powers, then multiplication and division from left to right, then addition and subtraction. For example, 30 ÷ (2 + 3) × 2 = 6 × 2 = 12, not 3.
+
+**What is a surd?**
+A surd is a root that cannot be written as an exact fraction, such as √2, √5 or ∛4. Surds are irrational, so their decimals never end or repeat; in Edexcel IGCSE Maths 4MA1 they are Higher tier only.
+
+**What is the link between the HCF and LCM of two numbers?**
+For any two numbers, HCF × LCM equals the product of the numbers. For 84 and 120, 12 × 840 = 10 080 = 84 × 120, which is a useful check.
+
 ## Where to go next
 
 Recap with the [revision notes](/resources/edexcel-igcse-maths-4ma1-integers-powers-and-roots-revision-notes/), then try the [practice questions](/resources/edexcel-igcse-maths-4ma1-integers-powers-and-roots-practice/). For mixed questions across the whole of topic 1, use the [Numbers and the number system practice questions](/resources/edexcel-igcse-mathematics-number-practice/) and the [topic-level revision notes](/resources/edexcel-igcse-mathematics-number-revision-notes/).

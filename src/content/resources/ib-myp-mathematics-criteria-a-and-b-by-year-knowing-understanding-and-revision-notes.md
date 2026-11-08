@@ -248,6 +248,20 @@ Claim: the product of two consecutive integers is always even. Take n and n + 1.
 </figure>
 
 
+## Frequently asked questions
+
+**What is the highest level for a fully guided investigation in MYP Mathematics?**
+If a Criterion B task tells you which technique to use, it is fully guided and the level is capped: at 6 in Years 1 and 2, and at 4 from Year 3 onwards.
+
+**What are the strands of Criterion A in MYP Mathematics?**
+Criterion A, Knowing and understanding, has three strands: i select appropriate mathematics, ii apply it successfully, and iii solve problems correctly in a variety of contexts. It is scored out of 8.
+
+**What are the four achievement bands in MYP Mathematics?**
+Each criterion has levels 1 to 8 in four bands: 1-2 (limited), 3-4 (adequate), 5-6 (substantial) and 7-8 (excellent). A level of 0 means no descriptor is reached.
+
+**What happens if your rule fits incorrect findings?**
+From Year 3 upwards, a rule that is consistent with incorrect findings, and of equivalent complexity, can still reach a maximum of level 6 for Criterion B.
+
 ## Official syllabus
 
 International Baccalaureate Organization, *Middle Years Programme Mathematics guide*, from 2020, first assessment 2022. Criterion A and Criterion B for Years 1, 3 and 5 are paraphrased from this guide.

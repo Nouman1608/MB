@@ -172,6 +172,20 @@ Learn the content first in the [study guide](/resources/edexcel-igcse-maths-4ma1
 - Giving the value of the letter instead of the angles, prices or temperature asked for.
 - Rounding an exact answer such as −9/8 when no rounding is requested.
 
+## Frequently asked questions
+
+**Why should you put negative numbers in brackets when substituting?**
+Brackets make sure the sign is included in powers and products. With p = −2, 3p² means 3 × (−2)² = 12; leaving out the brackets is a common way to get the sign or the power wrong.
+
+**What is the difference between an expression, an equation and a formula?**
+An expression such as 4a − 7 has no equals sign, so it can be simplified or evaluated but not solved. An equation such as 3x + 4 = 19 has an unknown that one value makes true, while a formula such as A = lw links variables that can take many values.
+
+**How do you clear fractions in a linear equation?**
+Multiply every term on both sides by the lowest common multiple of the denominators. A frequent error is multiplying only one side, or forgetting that a minus sign in front of a fraction multiplies every term of its numerator.
+
+**How can you check a rearranged formula?**
+Substitute a simple number into the original formula, then put the result into your rearranged version and see whether you get the starting value back. A quick numerical check catches most sign and order errors.
+
 ## Next steps
 
 - Refresh the methods: [revision notes](/resources/edexcel-igcse-maths-4ma1-expressions-formulae-and-linear-equations-revision-notes/)

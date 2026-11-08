@@ -391,6 +391,20 @@ A calculator is allowed on every 4MA1 paper, but calculators with built-in symbo
 - Completing the square on 3x² + … without taking 3 out first, or forgetting to multiply the "subtract" term by 3.
 - In a proof, using n and n + 2 for consecutive odd numbers without stating that n is odd.
 
+## Frequently asked questions
+
+**Why is anything to the power 0 equal to 1?**
+The zero rule follows from the divide law: a³ ÷ a³ = a⁰, and anything divided by itself is 1. So 15x⁰ = 15 for any non-zero x.
+
+**What is a common mistake when squaring a bracket like (2a³)²?**
+Forgetting to square the number inside the bracket. (2a³)² = 2² × a⁶ = 4a⁶, not 2a⁶.
+
+**How do you work out a negative fractional power?**
+Take the reciprocal first, then the root, then the power. For (8/27)^(−2/3), flip to (27/8)^(2/3), take the cube root to get 3/2, then square to get 9/4; this is Higher tier content in Edexcel IGCSE Maths 4MA1.
+
+**What is the difference between expanding and factorising?**
+They are opposite processes. Expanding removes brackets, as in 4p(3p − 2q) = 12p² − 8pq, while factorising puts them back by taking out common factors, as in 18a²b − 12ab² = 6ab(3a − 2b).
+
 ## Next steps
 
 Go to the revision notes and practice questions linked at the top. To find gaps elsewhere in the course, use [our free diagnostics](/diagnostics/).

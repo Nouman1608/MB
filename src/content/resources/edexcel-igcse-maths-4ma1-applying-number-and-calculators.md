@@ -357,6 +357,23 @@ Use the square-root template over the whole of 15.2² − 6.8², or press `=` an
 - Rounding to the nearest whole when the context needs rounding up (packs, bags, coaches).
 - Missing brackets around a numerator or denominator, or squaring a negative without brackets.
 
+## Frequently asked questions
+
+**How many litres are in a cubic metre?**
+There are 1000 litres in 1 m³. The links to remember are 1 cm³ = 1 ml and 1000 cm³ = 1 litre, so convert a volume in cm³ to litres by dividing by 1000.
+
+**Why does my calculator give −16 for −4²?**
+A calculator squares 4 first and then applies the minus sign, so −4² = −16, whereas (−4)² = 16. Always put a negative number in brackets before squaring it.
+
+**How do you work out the time between two clock times?**
+Count up in steps: to the next whole hour, then whole hours, then the remaining minutes. For example, 22:47 to 01:18 is 13 min + 2 h + 18 min = 2 h 31 min; do not subtract clock times as if they were decimals.
+
+**How do you compare prices given in two different currencies?**
+Convert one price into the other currency first, then compare. A jacket costing €129 at £1 = €1.16 is 129 ÷ 1.16 = £111.21, so it is £3.21 dearer than one costing £108.
+
+**How should money answers be written in Edexcel IGCSE Maths 4MA1?**
+Give money to the nearest penny, with 2 decimal places, unless the question says otherwise. If the calculator shows 96.1, write £96.10.
+
 ## Next steps
 
 Use the [revision notes](/resources/edexcel-igcse-maths-4ma1-applying-number-and-calculators-revision-notes/) for quick recall, then test yourself with the [practice questions](/resources/edexcel-igcse-maths-4ma1-applying-number-and-calculators-practice/). For percentages, ratio and bounds questions, try the [Numbers and the number system practice](/resources/edexcel-igcse-mathematics-number-practice/) and [revision notes](/resources/edexcel-igcse-mathematics-number-revision-notes/).

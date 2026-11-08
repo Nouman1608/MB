@@ -340,6 +340,23 @@ Leaves are single digits, evenly spaced, with no commas.
 - Adding the values in the top row of a frequency table instead of the frequencies, or forgetting to multiply value by frequency when finding a total.
 - Bar charts with unequal bar widths or a frequency axis that does not start at 0.
 
+## Frequently asked questions
+
+**Is statistical charts and diagrams the same for Core and Extended 0580?**
+Yes. The Core and Extended columns of the Cambridge IGCSE Mathematics 0580 syllabus list exactly the same learning outcomes for section 9.4, covering bar charts, pie charts, pictograms, stem-and-leaf diagrams and simple frequency distributions.
+
+**Can you compare two pie charts by sector size?**
+Only if the two pie charts have the same total. If the totals differ, a bigger sector does not mean more people, so work out the actual frequencies before comparing.
+
+**How do you read a section of a composite bar chart?**
+Subtract the value where the section starts from the value where it ends. Reading only the end of the section is a common error.
+
+**Why does a stem-and-leaf diagram need a key?**
+The key tells you the place value of the stems and leaves, such as 3 | 7 meaning 37. Without it, values can be out by a factor of 10; the leaves should also be in order.
+
+**How do you check pie chart angles?**
+Make sure the angles add up to 360°. If they do not, you have used the wrong total or rounded too much along the way.
+
 ## Next steps
 
 - [Statistics study guide](/resources/igcse-mathematics-statistics/) and [Statistics revision notes](/resources/igcse-mathematics-statistics-revision-notes/)

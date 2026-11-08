@@ -302,6 +302,20 @@ So 10 play both and 5 play neither. Check: 25 + 10 + 20 + 5 = 60 ✓.
 - Missing the "neither" region, so the regions add up to less than n(ℰ).
 - With inequalities such as −3 < x ≤ 2, including the excluded end point or dropping the included one.
 
+## Frequently asked questions
+
+**Does order matter when listing a set?**
+No. {2, 4, 6, 8} and {8, 6, 4, 2} are the same set, and each element is listed only once, so the letters of LETTER form {L, E, T, R}.
+
+**What does the universal set do in a question?**
+The universal set ℰ sets the limits of the question. If ℰ = {1, 2, 3, …, 12}, then "multiples of 3" means only 3, 6, 9 and 12.
+
+**How do you work out A′ ∩ B?**
+Read it as "not in A, and in B", which is the same as "in B only". List the elements of B and remove any that are also in A.
+
+**What does the symbol ∈ mean in set notation?**
+∈ means "is an element of" and ∉ means "is not an element of". For example, if A = {multiples of 3}, then 9 ∈ A.
+
 ## Next steps
 
 Condense this with the [set language revision notes](/resources/edexcel-igcse-maths-4ma1-set-language-and-notation-revision-notes/), then work through the [set language practice questions](/resources/edexcel-igcse-maths-4ma1-set-language-and-notation-practice/). Check your coverage of the rest of the course with the [4MA1 checklist](/checklists/edexcel/igcse/mathematics/).

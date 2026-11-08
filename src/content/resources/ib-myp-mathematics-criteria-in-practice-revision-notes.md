@@ -13,13 +13,15 @@ order: 3
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-mathematics-assessment-criteria"
-description: "Condensed, criterion-by-criterion revision notes on what top-band evidence actually looks like for MYP Mathematics's four assessment criteria -- Knowing and understanding, Investigating patterns, Communicating, and Applying mathematics -- with a worked example for each."
+description: "Condensed IB MYP Mathematics revision notes on what top-band evidence looks like for Criteria A to D, with a worked example for each assessment criterion."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 The [assessment revision notes](/resources/ib-myp-mathematics-assessment-revision-notes/) list the
@@ -152,6 +154,20 @@ it is communicated (Criterion C).
   <figcaption>Each criterion is scored separately, but one well-designed task can supply evidence for several.</figcaption>
 </figure>
 
+
+## Frequently asked questions
+
+**What does top-band evidence look like in MYP Mathematics?**
+Top-band evidence goes beyond naming a criterion: it applies mathematics to unfamiliar problems (A), shows the full investigative process (B), communicates every step clearly (C) and reflects on the validity of real-life results (D).
+
+**What are the four branches of IB MYP Mathematics?**
+The four branches are numerical and abstract reasoning, thinking with models, spatial reasoning, and reasoning with data. Top-band Criterion A evidence draws on more than one of them.
+
+**Why should the MYP Mathematics criteria not be revised in isolation?**
+Coursework tasks are usually designed to produce evidence for more than one criterion at once. An investigation, for example, generates Criterion B evidence for the process and Criterion C evidence for how clearly it is communicated.
+
+**What does an unfamiliar situation mean in Criterion A?**
+It is a problem where you must first recognise which mathematics applies, such as turning a description of a garden's area and side lengths into a quadratic equation, rather than solving an equation that is already set out for you.
 
 ## Official syllabus
 

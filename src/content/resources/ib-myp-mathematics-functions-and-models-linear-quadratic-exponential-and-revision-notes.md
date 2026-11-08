@@ -347,6 +347,20 @@ For f(x) = (ax + b)/(cx + d):
 
 For criteria in practice, see [criteria in practice](/resources/ib-myp-mathematics-criteria-in-practice/): explain your reasoning and state what a result means in context.
 
+## Frequently asked questions
+
+**Which function topics are standard and which are extended in IB MYP Mathematics?**
+Linear functions, simultaneous equations, quadratics and exponential functions are standard content. Domain and range, rational functions, transforming quadratics and recognising shapes and asymptotes are extended content.
+
+**When does a quadratic graph have a maximum?**
+If the coefficient a of x² is negative, the parabola opens downward and has a maximum; if a is positive it opens upward and has a minimum.
+
+**What is the difference between exponential growth and decay?**
+For f(x) = a × bˣ with b > 0 and b ≠ 1, the function shows growth when b > 1 and decay when 0 < b < 1. A laptop worth 900 × 0.85ᵗ is an example of decay.
+
+**How do you find where two graphs intersect?**
+Solve their equations simultaneously, then give both coordinates of each point. Giving only the x-value when the question asks for the intersection is a frequent error.
+
 ## Official syllabus
 
 Source: *Mathematics guide* of the Middle Years Programme, International Baccalaureate Organization; first assessment 2022. Section used: the framework for thinking with models.

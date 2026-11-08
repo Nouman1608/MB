@@ -193,6 +193,20 @@ Diagram: centre **5**; C and D only **4**; D and M only **6**; C and M only **3*
 - In three-set problems, not subtracting the centre from each pairwise total first.
 - Writing n(A) as a list, or a list where the question asks "how many".
 
+## Frequently asked questions
+
+**How do you fill in a Venn diagram from survey totals?**
+Fill the overlap first, then subtract it from each set's total to get the "only" regions, and finally work out the region outside all the circles. Putting a set's total straight into its "only" region, or forgetting the "none" region, are common errors.
+
+**How do you show that one set is not a subset of another?**
+Name an element that is in the first set but not in the second. A bare "yes" or "no" without an element as evidence can lose the mark.
+
+**What is the difference between (A ∪ B)′ and (A ∩ B)′?**
+(A ∪ B)′ is the region outside both circles, while (A ∩ B)′ is everything except the overlap. Confusing the two is one of the most frequent set notation errors.
+
+**What does n(A) mean?**
+n(A) is the number of elements in set A, so the answer is a number, not a list. If A = {3, 6, 9, 12}, then n(A) = 4.
+
 ## Next steps
 
 - Recap with the [set language revision notes](/resources/edexcel-igcse-maths-4ma1-set-language-and-notation-revision-notes/).

@@ -291,6 +291,23 @@ Data can support a conclusion only so far. Before you agree with a claim, ask th
 - Comparing a median from one set with a mean from the other. Compare like with like.
 - Accepting a conclusion from a small or biased sample without comment.
 
+## Frequently asked questions
+
+**What is the difference between discrete and continuous data?**
+Discrete data are counted and take separate values, such as the number of goals scored, while continuous data are measured and can take any value in a range, such as time or height. A quick test: 17.35 seconds makes sense, but 2.5 goals does not.
+
+**How do you put boundary values into class intervals?**
+Use inequality classes such as 10 ≤ t < 15 and 15 ≤ t < 20 so there are no gaps or overlaps. A value of exactly 15 belongs only in the second class.
+
+**What denominator should you use for a fraction from a two-way table?**
+Use the total of the group the question names. For "the fraction of swimmers who are juniors", divide by the number of swimmers, not by the grand total.
+
+**How should you compare two data sets in Cambridge IGCSE Maths 0580?**
+Compare an average and a measure of spread (the range, or for Extended candidates also the interquartile range), compare like with like (median with median, mean with mean), and say what each comparison means in context.
+
+**Which sections of the 0580 syllabus cover classifying and interpreting data?**
+Sections 9.1 (Classifying statistical data) and 9.2 (Interpreting statistical data) of Topic 9, Statistics, in Cambridge IGCSE Mathematics 0580 cover tally tables, frequency tables, two-way tables, comparing data sets and the limits of conclusions.
+
 ## Next steps
 
 - [Statistics study guide](/resources/igcse-mathematics-statistics/)

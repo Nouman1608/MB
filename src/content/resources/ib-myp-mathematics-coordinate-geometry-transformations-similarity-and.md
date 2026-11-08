@@ -347,6 +347,20 @@ A regular polygon with n sides has interior angle 180° − 360°/n. For a regul
 - Leaving out a centre or a direction when describing a transformation.
 - Claiming congruence from AAA or SSA.
 
+## Frequently asked questions
+
+**How do you tell if two lines are parallel from their equations?**
+Two lines are parallel exactly when their gradients are equal. Rearrange each equation into the form y = mx + c first; for example 6x + 2y = 10 becomes y = −3x + 5, with gradient −3.
+
+**How do you find the midpoint of two points?**
+Add the x-coordinates and halve, then add the y-coordinates and halve. For P(−3, 2) and Q(5, 8) the midpoint is (1, 5).
+
+**What is enough to show two triangles are similar?**
+For triangles, two pairs of equal angles (AA) are enough to prove similarity. Similar shapes have equal matching angles and matching sides in the same ratio, with scale factor k = new length ÷ old length.
+
+**What do you need to describe a rotation?**
+Give the centre, the angle and the direction of the rotation. About the origin, 90° anticlockwise maps (x, y) to (−y, x) and 180° maps (x, y) to (−x, −y).
+
 ## Official syllabus
 
 IB *Mathematics guide (for use from September 2020/January 2021)*, MYP, first assessment 2022, published by the International Baccalaureate Organization. Content is drawn from the spatial reasoning branch, geometry rows.

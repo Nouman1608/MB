@@ -306,6 +306,20 @@ For a fraction raised to a negative power, flip the fraction first, then apply t
 - (H) Rationalising with the same sign instead of the conjugate.
 - (H) Applying the power before the root, producing huge numbers and arithmetic slips.
 
+## Frequently asked questions
+
+**Which sections of Edexcel IGCSE Maths 4MA1 cover integers and powers?**
+Section 1.1 (Integers) and section 1.4 (Powers and roots) of Topic 1, Numbers and the number system, cover them. Surds and fractional powers are Higher tier only.
+
+**How do you find the HCF and LCM using prime factors?**
+Write each number as a product of primes. The HCF multiplies the primes common to both, each to the lower power; the LCM multiplies every prime that appears, each to the higher power, so for 84 and 120 the HCF is 12 and the LCM is 840.
+
+**What is a prime number?**
+A prime number has exactly two factors, 1 and itself. The primes between 30 and 50 are 31, 37, 41, 43 and 47.
+
+**Do the index laws work with different bases?**
+No. The index laws only work when the base is the same, so 2³ × 3⁴ cannot be written as a single power. With the same base, add powers to multiply and subtract them to divide.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE in Mathematics (Specification A) (4MA1), Specification Issue 2, November 2017, Pearson Education Limited. Topic 1, Numbers and the number system: 1.1 Integers and 1.4 Powers and roots (Foundation Tier content, with Higher Tier statements 1.4A–C on surds and fractional and negative powers).

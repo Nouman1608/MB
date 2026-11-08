@@ -25,10 +25,12 @@ syllabusTopics:
 description: "Study guide for Edexcel IGCSE Maths 4MA1 topic 6: charts, histograms, cumulative frequency, averages, quartiles, Venn diagrams and tree diagrams."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches topic 6, Statistics and probability, of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), first assessed in June 2018 with papers available in January and June. It covers section 6.1 (Graphical representation of data), 6.2 (Statistical measures) and 6.3 (Probability). Each section has Foundation content, which both tiers need, and extra content marked **Higher tier only**.
@@ -357,6 +359,20 @@ P(same colour) = 26/56 = 13/28
 - Adding probabilities for events that are not mutually exclusive, or multiplying for events that are not independent.
 - Forgetting to reduce both numerator and denominator on the second branch without replacement.
 - Using "at least one" by listing some routes and missing others; 1 − P(none) is quicker and safer.
+
+## Frequently asked questions
+
+**How do you work out the angles for a pie chart?**
+Each sector angle is (frequency ÷ total) × 360°. With 72 students, each student is 360 ÷ 72 = 5°, and the angles should add to 360°.
+
+**Why is the mean from grouped data only an estimate?**
+You do not know the exact values in each group, so you use the midpoint of each class instead. The result Σfx ÷ Σf is therefore an estimate of the mean.
+
+**What is the interquartile range?**
+The interquartile range is the upper quartile minus the lower quartile. It measures the spread of the middle half of the data, so unlike the range it is not affected by extreme values; it is Higher tier content in Edexcel IGCSE Maths 4MA1.
+
+**How do you find the median from a list of values?**
+Put the values in order and find the ((n + 1)/2)th value. For 11 values the median is the 6th value; for an even number of values it lies halfway between the two middle values.
 
 ## Next steps
 
