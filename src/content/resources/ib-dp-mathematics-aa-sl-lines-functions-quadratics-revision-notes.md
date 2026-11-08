@@ -35,10 +35,12 @@ syllabusTopics:
 description: "Condensed IB Maths AA revision notes on lines, domain and range, composites, inverses, quadratic forms and the discriminant, with a self-test."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and longer worked examples, read the [study guide](/resources/ib-dp-mathematics-aa-sl-lines-functions-quadratics/) first. These notes are for recall in the final weeks.
@@ -248,6 +250,20 @@ Paper 1 allows no technology; Paper 2 requires it. With a GDC, find zeros, maxim
 - Writing the vertex of a(x + h)² + k as (h, k) instead of (−h, k).
 - Giving the region between the roots of a quadratic inequality when the sketch shows it is outside them (or the reverse).
 - Forgetting that k making the x² coefficient zero turns the quadratic into a linear equation.
+
+## Frequently asked questions
+
+**What does the discriminant tell you about a quadratic?**
+Δ = b² − 4ac decides the roots: Δ > 0 gives two distinct real roots, Δ = 0 two equal real roots, and Δ < 0 no real roots.
+
+**What is the difference between f⁻¹(x) and 1/f(x)?**
+f⁻¹(x) is the inverse function, which reverses what f does. 1/f(x) is the reciprocal of the output, a different thing.
+
+**How do you find the domain of a function with a square root?**
+The expression inside the square root must be greater than or equal to zero, so solve that inequality. For a fraction, the denominator must not be zero.
+
+**What is the difference between "draw" and "sketch" in IB Maths?**
+"Draw" means an accurate graph to scale with plotted points. "Sketch" means the correct shape with the key features labelled.
 
 ## Official syllabus
 

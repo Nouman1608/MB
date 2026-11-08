@@ -29,10 +29,12 @@ syllabusTopics:
 description: "12 original IB DP Maths AA questions on sequences, series, compound interest and sums to infinity, with mark-by-mark worked answers and examiner insights."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -191,6 +193,20 @@ Learn the methods first in the [study guide](/resources/ib-dp-mathematics-aa-seq
 - Plan your final weeks: [IB DP Maths AA exam preparation guide](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/)
 - Check other subjects with [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
+
+## Frequently asked questions
+
+**Can you write calculator notation like 1.8E−3 as an answer in IB Maths?**
+No. Calculator notation is not acceptable; write it as 1.8 × 10⁻³. An answer such as 18 × 10⁻⁴ is also not in the required form, because a must satisfy 1 ≤ a < 10.
+
+**How do you count the terms in a sigma sum?**
+The number of terms is the top limit minus the bottom limit plus 1. Miscounting is common when the lower limit is not 1, for example a sum from r = 5 to r = 20 has 16 terms, not 15.
+
+**How do you answer "least n" questions for a series?**
+Write the inequality using the S_n formula, solve it with logs or as a quadratic, or use a GDC table, then round up to the next whole number. Check the values of S_n either side.
+
+**What should you write down when using a GDC for sequences in IB Maths AA?**
+The IB DP Mathematics: Analysis and Approaches guide expects you to identify the first term and the common difference or ratio when you use technology, so write u₁ and d, or u₁ and r, before using a sequence or TVM tool.
 
 ## Official syllabus
 

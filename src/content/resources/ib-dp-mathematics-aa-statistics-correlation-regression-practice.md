@@ -29,10 +29,12 @@ syllabusTopics:
 description: "12 original IB DP Maths AA SL and HL statistics and regression questions, calculator-free and calculator allowed, with worked mark-by-mark answers."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -218,6 +220,20 @@ where 21 ≤ k ≤ 25. The mean mark is 22.
 - See every unit in the [IB DP Maths AA course hub](/boards/ib/ib-dp/mathematics-analysis-and-approaches/) and tick off topics on the [printable syllabus checklist](/checklists/ib/ib-dp/mathematics-analysis-and-approaches/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
+
+## Frequently asked questions
+
+**Can you rearrange the y on x regression line to predict x?**
+No. To predict x from a given y, use the regression line of x on y, found with technology. Rearranging the y on x line is the wrong method even when the numbers come out close.
+
+**Where do you measure the outlier fence from?**
+Measure 1.5 × IQR from the nearest quartile: below Q₁ − 1.5 × IQR or above Q₃ + 1.5 × IQR. Measuring it from the median is a common error.
+
+**How do you compare two box plots in IB Maths AA?**
+Comment on a measure of centre, such as the median, and a measure of spread, such as the IQR or range, for both data sets and in context.
+
+**Does a strong correlation show that one variable causes the other?**
+No. Correlation does not imply causation; both variables may depend on a third, as IB DP Mathematics: Analysis and Approaches statistics questions often test.
 
 ## Official syllabus
 

@@ -29,10 +29,12 @@ syllabusTopics:
 description: "Study guide to sampling, data displays, summary statistics, correlation and regression lines for IB DP Maths AA SL and HL, with worked examples."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 This study guide teaches the descriptive statistics unit of IB Diploma Programme Mathematics: Analysis and Approaches from scratch. It is aligned to the IB *Mathematics: analysis and approaches guide*, first assessment 2021, and covers syllabus sections 4.1–4.4 and 4.10. All of this content is common to SL and HL. It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 SL and HL sessions.
@@ -282,6 +284,23 @@ Rearranging the y on x line would give 7.36, but that is the wrong method, even 
 ## Where to go next
 
 Next, use the [revision notes](/resources/ib-dp-mathematics-aa-statistics-correlation-regression-revision-notes/) and the [practice questions](/resources/ib-dp-mathematics-aa-statistics-correlation-regression-practice/). For other units, see the [functions study guide](/resources/ib-dp-mathematics-aa-functions/) and the [calculus study guide](/resources/ib-dp-mathematics-aa-calculus/). See also the [AA syllabus guide](/resources/ib-dp-mathematics-analysis-and-approaches-syllabus-guide/) and [exam preparation guide](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/).
+
+## Frequently asked questions
+
+**What does Pearson's correlation coefficient r measure?**
+r measures the strength of a linear relationship, with −1 ≤ r ≤ 1. Values near 1 mean strong positive linear correlation and values near −1 strong negative linear correlation.
+
+**What is extrapolation and why is it unreliable?**
+Extrapolation is predicting outside the range of the data. The pattern may not continue, so a prediction can be impossible, such as a test score above 100.
+
+**Where do you plot points on a cumulative frequency graph?**
+Plot each cumulative frequency against the upper class boundary and join the points, starting from the lower end at zero. Read the median at n/2 and the quartiles at n/4 and 3n/4.
+
+**What is the difference between discrete and continuous data?**
+Discrete data can take only separate values, usually counts such as goals scored. Continuous data can take any value in a range, such as a measured time or length.
+
+**What do a and b mean in the regression line y = ax + b?**
+a is the change in y for each increase of 1 in x, and b is the predicted value of y when x = 0, which may have no sensible meaning in context.
 
 ## Official syllabus
 

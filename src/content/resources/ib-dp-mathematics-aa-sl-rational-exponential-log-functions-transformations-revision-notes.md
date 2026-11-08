@@ -26,10 +26,12 @@ syllabusTopics:
 description: "Condensed IB DP Maths AA revision notes on asymptotes, exp and log graphs, solving equations and transformations, with a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 For full explanations and worked examples, start with the [study guide](/resources/ib-dp-mathematics-aa-sl-rational-exponential-log-functions-transformations/). These notes condense the rational, exponential and logarithmic functions, solving equations and transformations unit of IB Diploma Programme Mathematics: Analysis and Approaches. They are aligned to the IB *Mathematics: analysis and approaches guide*, first assessment 2021, syllabus sections 2.8, 2.9, 2.10 and 2.11, which are common to SL and HL. They follow the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so they apply to the May and November 2026, 2027 and 2028 sessions.
@@ -228,6 +230,20 @@ t = 15.7 years (3 s.f.)
 - Missing a second intersection on the GDC because the window cut off a region near an asymptote.
 - Rounding a model constant (such as ln 1.5) early and then using it, which changes the 3 s.f. answer.
 - Giving a decimal where the question asks for an exact answer.
+
+## Frequently asked questions
+
+**What are the domain and range of y = ln x?**
+y = ln x has domain x > 0 and range all real y, with vertical asymptote x = 0 and x-intercept (1, 0). y = eˣ has domain all real x, range y > 0 and horizontal asymptote y = 0.
+
+**Are transformations of the form f(ax + b) in IB Maths AA SL?**
+No. Transformations of the form f(ax + b) are not required at SL in IB DP Mathematics: Analysis and Approaches; HL students meet them in the AHL functions content.
+
+**What is the difference between f(x) + b and f(x + b)?**
+A change outside the bracket, f(x) + b, moves the graph up or down. A change inside, f(x + b), moves it left or right, the opposite way to the sign.
+
+**What does self-inverse mean?**
+A function is self-inverse when f⁻¹(x) = f(x), so f(f(x)) = x. The reciprocal function y = 1/x is self-inverse, so its graph is symmetric about y = x.
 
 ## Official syllabus
 
