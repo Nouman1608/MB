@@ -12,13 +12,15 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "the-allocation-of-resources"
-description: "Original exam-style practice questions with full worked answers on demand, supply, market equilibrium, price elasticity and market failure for Cambridge O Level Economics 2281, Topic 2."
+description: "Practice questions with worked answers on demand, supply, equilibrium, price elasticity and market failure, for Cambridge O Level Economics 2281 Topic 2."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-26
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -205,3 +207,17 @@ each introduced by its own stimulus material.
 - Getting the PED or PES formula the right way round but forgetting to state whether the result means demand or supply is elastic or inelastic.
 - On the Section A source question, writing an answer that could apply to any market rather than referring explicitly to the figures and context the source gives.
 - On the extended, evaluative parts, listing points for only one side of the argument instead of weighing both and reaching a supported judgement.
+
+## Frequently asked questions
+
+**How is Cambridge O Level Economics Paper 2 structured?**
+Section A of Cambridge O Level Economics (2281) Paper 2 is one compulsory question worth 30 marks based on unseen source material. In Section B, candidates answer three questions from a choice of four, each worth 20 marks with its own stimulus material.
+
+**How do you calculate elasticity from source material?**
+Find the percentage change in quantity and the percentage change in price from the figures given, divide the first by the second, and then state whether demand or supply is elastic or inelastic.
+
+**How should you use the source in a Section A answer?**
+Refer explicitly to the figures and details in the source. An answer that could apply to any market, with no reference to the case, earns less credit.
+
+**How do you answer the discuss parts of Paper 2 questions?**
+Weigh points on both sides of the argument and reach a supported conclusion. Listing points for only one side is a common way to lose marks.

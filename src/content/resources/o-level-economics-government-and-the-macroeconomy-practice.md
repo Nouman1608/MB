@@ -12,14 +12,16 @@ order: 4
 syllabusTopics:
   - qualification: "o-level"
     topic: "government-and-the-macroeconomy"
-description: "Original exam-style questions with full worked answers on the qualities of a good tax, types of unemployment and policies to reduce frictional unemployment, real wages and inflation, tax revenue in a recession, and the link between inflation and economic growth, for Cambridge O Level Economics (2281)."
+description: "Practice questions with worked answers on taxes, unemployment, real wages, inflation and growth, with examiner insights, for Cambridge O Level Economics 2281."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -128,3 +130,14 @@ Each question practises a skill tested in the June 2024 Paper 22. After each ans
 - Confusing a slower rise with a fall — a wage growing by 2% instead of 5% is still rising.
 - "Explain" questions with only an identification: each point needs a linked reason (identification [1], explanation [1]).
 - Writing about why a government might cut taxes when the question asks why tax revenue falls.
+
+## Frequently asked questions
+
+**How are explain questions marked in Cambridge O Level Economics Paper 2?**
+Each point usually earns one mark for identification and one for a linked explanation. An answer that only identifies a point, with no reason, loses the explanation mark.
+
+**What skills do these Cambridge O Level macroeconomics questions practise?**
+Each question practises a skill tested in the Cambridge O Level Economics (2281) June 2024 Paper 22, with examiner or mark-scheme insights paraphrased from the official report and mark scheme.
+
+**How should you answer questions that describe a government policy?**
+Answer the economic concept the question asks about, such as the quality of a good tax or the type of unemployment a measure targets, rather than just repeating what the government did.

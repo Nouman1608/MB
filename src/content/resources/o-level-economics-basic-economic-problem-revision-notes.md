@@ -22,13 +22,15 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "the-basic-economic-problem"
     subtopic: "production-possibility-curve-ppc-diagrams"
-description: "Condensed recall notes on finite resources vs unlimited wants, the four factors of production and their rewards, opportunity cost, and production possibility curve (PPC) diagrams for Cambridge O Level Economics (2281)."
+description: "Revision notes for Cambridge O Level Economics 2281 Topic 1: scarcity, factors of production and rewards, opportunity cost and production possibility curves."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-05
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -274,3 +276,17 @@ occupational and geographical mobility depending on circumstances.
 5. The school that could have been built instead with the same
 resources — the single next-best alternative, not simply the money
 spent.
+
+## Frequently asked questions
+
+**What is the difference between an economic good and a free good?**
+An economic good is scarce, so producing more of it means producing less of something else. A free good, such as fresh air, is in unlimited supply relative to demand. A free sample is not a free good, because scarce resources were used to make it.
+
+**What is the difference between occupational and geographical mobility?**
+Occupational mobility is how easily labour switches between jobs, limited by skills and training. Geographical mobility is how easily a factor moves location, limited by cost and family ties; land is completely geographically immobile.
+
+**How do the quantity and quality of factors of production change?**
+Population growth changes the quantity of labour and education or training changes its quality, new discoveries change the quantity of land, and investment changes both the quantity and quality of capital.
+
+**What is the opportunity cost for a government?**
+It is the next-best use of the same spending. If a government with a fixed budget builds a hospital instead of a school, the opportunity cost is the school, not simply the money spent.

@@ -19,13 +19,15 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "the-basic-economic-problem"
     subtopic: "opportunity-cost"
-description: "Original exam-style practice questions with full worked answers on finite resources and unlimited wants, the four factors of production, and opportunity cost, for Cambridge O Level Economics (2281) Topic 1."
+description: "Original practice questions with worked answers on scarcity, the four factors of production and opportunity cost for Cambridge O Level Economics 2281, Topic 1."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-06
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08: FAQ section added; please re-review."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -131,3 +133,14 @@ way to avoid factor-reward mix-ups: naming which factor a described resource or 
 then stating its specific reward, rather than trying to recall the four definitions in the abstract.
 Question 5 illustrates the opportunity cost precision this topic tests repeatedly — always identify
 the single next-best alternative, not a general list of everything that was not chosen. This same discipline -- naming the single next-best alternative specifically, whether for a consumer, worker, producer, or government -- applies across every decision-maker this topic covers, not only the government example tested specifically in question 9 above.
+
+## Frequently asked questions
+
+**What does Cambridge O Level Economics Topic 1 cover?**
+Topic 1 of Cambridge O Level Economics (2281), the basic economic problem, covers finite resources and unlimited wants, economic and free goods, the factors of production and their rewards, opportunity cost and production possibility curves.
+
+**How do you avoid mixing up factors of production and their rewards?**
+Classify each resource or action in the scenario first, then state its specific reward, rather than reciting the four definitions in the abstract. Pairing capital with profit or enterprise with interest is a common error.
+
+**How do you identify opportunity cost in an O Level Economics question?**
+Name the single next-best alternative given up by the decision-maker in the scenario, whether a consumer, worker, producer or government. A general list of everything not chosen does not earn the mark.
