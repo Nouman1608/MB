@@ -19,7 +19,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-3-language-variation-9670"
     subtopic: "section-b-international-english-9670"
-description: "Analysing child language development and varieties of English around the world, with a method for data analysis and essay writing, for OxfordAQA A Level English Language Unit 3."
+description: "OxfordAQA International A Level English Language 9670 Unit 3 Language Variation: child language development, international English, data analysis and essays."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true

@@ -19,13 +19,15 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-language-and-context-9670"
     subtopic: "section-b-directed-writing-9670"
-description: "Condensed recall notes on language frameworks, discourse, register, spoken language and directed writing for OxfordAQA International AS/A-level English Language Unit 1 (9670)."
+description: "Condensed notes on language frameworks, discourse, register, spoken language and directed writing for OxfordAQA International AS English Language 9670 Unit 1."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-22
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

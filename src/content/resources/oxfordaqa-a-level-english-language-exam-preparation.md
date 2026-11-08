@@ -9,13 +9,15 @@ qualifications: ["a-level"]
 syllabusCodes: ["9670"]
 syllabusSeries: "First assessed 2019"
 order: 3
-description: "How OxfordAQA International A-Level English Language 9670's compulsory papers combine with the Route A exam / Route B non-exam-assessment choice, plus a worked unseen-text analysis routine."
+description: "Exam preparation for OxfordAQA International A Level English Language 9670: how the units combine, the Unit 4 exam or NEA choice, and a worked analysis routine."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
-reviewStatus: "reviewed"
+reviewStatus: "review-pending"
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-09
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review."
 ---
 
 OxfordAQA International A-Level English Language (9670) is a modular qualification of four
