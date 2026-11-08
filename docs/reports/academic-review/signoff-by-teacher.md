@@ -36,9 +36,10 @@ review.
 | Ammar Bilal | `ammar-bilal` | 14 |
 | Lubna Waseem | `lubna-waseem` | 6 |
 | Aizaz Raoof Ali | `aizaz-raoof-ali` | 4 |
-| *No eligible teacher* | — | 298 |
+| Farheen Zehra | `farheen-zehra` | 3 |
+| *No eligible teacher* | — | 310 |
 
-5195 review-pending pages in total; a page can appear under more than one teacher.
+5210 review-pending pages in total; a page can appear under more than one teacher.
 
 ## Salman Ahmad (`salman-ahmad`) — 1694
 
@@ -9113,7 +9114,15 @@ review.
 | `cambridge-a-level-law-law-of-contract-study-guide` | cambridge a-level law (9084) | study-guides | UNVERIFIED | 0 |
 | `cambridge-a-level-law-law-of-tort-study-guide` | cambridge a-level law (9084) | study-guides | UNVERIFIED | 0 |
 
-## No eligible teacher — 298
+## Farheen Zehra (`farheen-zehra`) — 3
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `edexcel-a-level-urdu-language-theme-1-study-guide` | edexcel a-level urdu-language (9UR0) | study-guides | UNVERIFIED | 0 |
+| `edexcel-a-level-urdu-language-theme-2-study-guide` | edexcel a-level urdu-language (9UR0) | study-guides | UNVERIFIED | 0 |
+| `edexcel-a-level-urdu-language-theme-3-study-guide` | edexcel a-level urdu-language (9UR0) | study-guides | UNVERIFIED | 0 |
+
+## No eligible teacher — 310
 
 These pages have no designated reviewer whose profile covers their board(s) and subject.
 Signing them off needs a teacher profile to be updated (or a new reviewer designated)
@@ -9238,6 +9247,18 @@ is not a review and does not change their status.
 | `ib-dp-psychology-exam-preparation` | ib ib-dp psychology (DP Psychology) | exam-preparation | PARTIAL_UNVERIFIABLE | 0 |
 | `ib-dp-psychology-subject-guide` | ib ib-dp psychology (DP Psychology) | subject-guides | PARTIAL_UNVERIFIABLE | 0 |
 | `ib-dp-psychology-syllabus-guide` | ib ib-dp psychology (DP Psychology) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
+| `ib-ib-dp-geography-extreme-environments-study-guide` | ib ib-dp geography (DP Geography) | study-guides | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-fieldwork-study-guide` | ib ib-dp geography (DP Geography) | study-guides | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-food-health-study-guide` | ib ib-dp geography (DP Geography) | study-guides | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-freshwater-study-guide` | ib ib-dp geography (DP Geography) | study-guides | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-geophysical-hazards-study-guide` | ib ib-dp geography (DP Geography) | study-guides | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-global-resource-consumption-study-guide` | ib ib-dp geography (DP Geography) | study-guides | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-global-risks-resilience-study-guide` | ib ib-dp geography (DP Geography) | study-guides | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-human-development-diversity-study-guide` | ib ib-dp geography (DP Geography) | study-guides | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-leisure-tourism-sport-study-guide` | ib ib-dp geography (DP Geography) | study-guides | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-oceans-coastal-margins-study-guide` | ib ib-dp geography (DP Geography) | study-guides | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-power-places-networks-study-guide` | ib ib-dp geography (DP Geography) | study-guides | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-urban-environments-study-guide` | ib ib-dp geography (DP Geography) | study-guides | UNVERIFIED | 0 |
 | `ib-ib-dp-psychology-abnormal-psychology-study-guide` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | study-guides | UNVERIFIED | 0 |
 | `ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | study-guides | UNVERIFIED | 0 |
 | `ib-ib-dp-psychology-developmental-psychology-study-guide` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | study-guides | UNVERIFIED | 0 |
